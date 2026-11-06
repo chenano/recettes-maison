@@ -1,0 +1,198 @@
+{
+ "recettes": [
+  {
+   "slug": "couscous-sept-legumes",
+   "verdict": "conforme",
+   "sources_ajoutees": [
+    {"name": "Lalla Moulati (magazine féminin marocain), « كسكس سبع خضاري للضيوف بمقادير مضبوطة خطوة بخطوة », 2 janvier 2018", "url": "https://www.lalamoulati.net/99854.html", "ce_qu_elle_confirme": "Graphie arabe « كسكس سبع خضاري » ; trois passages à la vapeur, graine arrosée d'eau salée, huilée et égrenée à la main entre deux ; 1 kg de semoule pour 1 kg de viande ; gingembre, poivre (ibzar), safran ; bouquet de coriandre ficelé ; pois chiches trempés ; carottes, navets, chou, courges, tomates râpées, fèves ; smen sur la graine chaude ; puits au centre, viande au milieu, légumes dessus, arrosé de bouillon, servi chaud."},
+    {"name": "La Vie Éco, Najib Refaif, « Une mémoire pleine de semoule », 11 avril 2018", "url": "https://www.lavieeco.com/?p=122123", "ce_qu_elle_confirme": "Couscous du vendredi « quasiment obligatoire », servi aussi à la sortie des mosquées après la prière du vendredi ; couscous aux sept légumes."},
+    {"name": "MarocMama (Amanda Mouttaki, Américaine installée au Maroc), « Moroccan Seven Vegetable Couscous »", "url": "https://marocmama.com/moroccan-seven-vegetable-couscous-recipe/", "ce_qu_elle_confirme": "Trois vapeurs (environ 20, 20 puis 15 à 20 min), légumes durs d'abord et tendres en dernier, bouquet persil-coriandre ficelé, gingembre, curcuma et poivre, puits au centre et bouillon servi à part ; « the famous Friday seven vegetable couscous ». Autrice non marocaine : simple recoupement."},
+    {"name": "Wikipédia (fr), « Couscous », section Maroc", "url": "https://fr.wikipedia.org/wiki/Couscous", "ce_qu_elle_confirme": "« Dans la majeure partie du Maroc, on le nomme kesksou ou seksou » : la graphie « Kesksou » du champ darija est attestée."}
+   ],
+   "corrections": [
+    {"champ": "secrets[5].text", "actuel": "… à l'ancienne, une bande de tissu mouillée scellée avec de la pâte.", "propose": "… à l'ancienne, une bande de tissu enduite d'une pâte légère de farine et d'eau.", "pourquoi": "Bladi écrit « luter les deux parties avec une bande de tissu enduite de pâte légère (farine et eau) » ; Taste of Maroc parle d'un joint farine-eau (qaffal). Le mot « mouillée » n'apparaît dans aucune source relue (la fiche PDF du Ministère de la Culture est illisible par l'outil).", "source_url": "https://www.bladi.net/recettes/couscous-bidaoui-aux-7-legumes.html", "gravite": "amélioration"},
+    {"champ": "secrets[7].source", "actuel": "Taste of Maroc, recette du couscous bidaoui ; Bladi.net ; Royal Mansour, chef Karim Benbaba", "propose": "Taste of Maroc, guide de la vapeur et recette du couscous bidaoui ; Bladi.net", "pourquoi": "Royal Mansour dit seulement de cuire 20 min jusqu'à ce que la vapeur traverse toute la graine ; il ne dit pas que le temps se compte à partir de ce moment. Taste of Maroc (« timed from when the steam rises from the couscous ») et Bladi (« Dès que la vapeur s'échappe, compter 1/2 heure ») le disent.", "source_url": "https://tasteofmaroc.com/how-to-steam-couscous/", "gravite": "amélioration"},
+    {"champ": "secrets[2].text", "actuel": "Persil et coriandre cuisent ficelés en bouquet dans le bouillon ; Cooking with Alia et Nargisse Benkabbou retirent le bouquet avant de servir.", "propose": "Persil et coriandre cuisent ficelés en bouquet dans le bouillon ; Nargisse Benkabbou retire le sien (coriandre seule) avant d'ajouter les premiers légumes, Cooking with Alia avant de servir.", "pourquoi": "Chez My Moroccan Food, le bouquet est jeté avant d'ajouter chou, navets et carottes (« Carefully discard the coriander bouquet »), pas au moment de servir. La partie Cooking with Alia n'a pas été rouverte.", "source_url": "https://www.mymoroccanfood.com/home/moroccan-seven-vegetables-couscous", "gravite": "amélioration"}
+   ],
+   "secrets_verifies": [
+    {"index": 0, "resultat": "confirmé", "detail": "Taste of Maroc : viande, huile, oignon, tomates et épices « over medium-high heat, uncovered », 10 à 15 min, jusqu'à une sauce épaisse."},
+    {"index": 1, "resultat": "confirmé", "detail": "Taste of Maroc : gros morceaux sur l'os (« Fist-sized pieces would be ideal ») ; My Moroccan Food : les petits morceaux « will get even smaller after hours of slow cooking »."},
+    {"index": 2, "resultat": "déformé", "detail": "Léger : chez My Moroccan Food, le bouquet (coriandre seule) est retiré avant les premiers légumes, pas au service (voir correction)."},
+    {"index": 3, "resultat": "confirmé", "detail": "Couscous Dari : « يوضع الحمص في قماشة تحزم على شكل صرة ثم توضع في الطنجرة »."},
+    {"index": 4, "resultat": "confirmé", "detail": "Taste of Maroc : huile frottée 1 à 2 min avant l'eau ; Royal Mansour : sel et huile, puis eau."},
+    {"index": 5, "resultat": "confirmé", "detail": "En partie : joint étanche et film plié (Taste of Maroc), bande de tissu enduite de pâte farine-eau (Bladi) ; le détail « mouillée » n'est retrouvé nulle part (voir correction)."},
+    {"index": 6, "resultat": "confirmé", "detail": "Taste of Maroc : « don't pack it » ; « Most Moroccans would not even consider covering it »."},
+    {"index": 7, "resultat": "confirmé", "detail": "Taste of Maroc et Bladi le disent ; Royal Mansour, aussi cité, ne le dit pas (voir correction)."},
+    {"index": 8, "resultat": "confirmé", "detail": "Taste of Maroc : au deuxième passage, 1 tasse d'eau, 2 c. à c. de sel, puis 1 tasse d'eau."},
+    {"index": 9, "resultat": "confirmé", "detail": "Taste of Maroc : jusqu'à 3 tasses d'eau, seulement ce qu'il faut ; graine « light, fluffy and tender but with a slight bite »."},
+    {"index": 10, "resultat": "confirmé", "detail": "Taste of Maroc : la moitié de la graine, puis le reste quand la vapeur monte."},
+    {"index": 11, "resultat": "confirmé", "detail": "Taste of Maroc : courge et courgettes au dernier passage ; My Moroccan Food : « once cooked, they become very fragile » (elle les cuit à part dans un peu de bouillon)."},
+    {"index": 12, "resultat": "confirmé", "detail": "My Moroccan Food : légumes dans le bouillon, « otherwise they might not cook evenly »."},
+    {"index": 13, "resultat": "confirmé", "detail": "Taste of Maroc : « well flavored, a bit salty and peppery »."},
+    {"index": 14, "resultat": "confirmé", "detail": "Taste of Maroc : smen dans le bouillon ; My Moroccan Food et Dari (« يدهن الكسكس ساخنا بالسمن أو الزبدة ») : sur la graine chaude."},
+    {"index": 15, "resultat": "confirmé", "detail": "Taste of Maroc, Royal Mansour (bouillon en bols, « Serve very hot ») et Bladi."}
+   ],
+   "non_verifiable": [
+    "Fiche d'inventaire du Ministère de la Culture (PDF UNESCO 43579-FR) : téléchargée mais illisible par l'outil (texte compressé ou scanné) ; ce qu'elle seule appuie n'a pas été revérifié.",
+    "Cooking with Alia, Do It In Paris (Rachid Agouray), Gulf News (Choumicha) et Cuisine Ouazzane : non rouverts.",
+    "Recette de Choumicha : moroccotravelblog.com/?p=21134 renvoie 404 et choumicha.ma reste en erreur 525 ; Sayidaty (node/1836622, erreur 500) et SNRT News (erreur 403) inaccessibles.",
+    "Aucune page de Le360, Hespress, 2M, Médias24 ou Femmes du Maroc sur ce plat n'est sortie dans les recherches."
+   ]
+  },
+  {
+   "slug": "tajine-poulet-citron-olives",
+   "verdict": "conforme avec corrections",
+   "sources_ajoutees": [
+    {"name": "Royal Mansour Marrakech, « Chicken tajine with preserved lemons by chef Karim Benbaba », 5 mai 2020", "url": "https://royalmansour.com/en/blog/chicken-tajine-with-preserved-lemons-by-chef-karim-benbaba", "ce_qu_elle_confirme": "Marinade au jus de citron frais (3 cl), safran, curcuma, gingembre, 2 gousses d'ail et herbes, 4 h au frais ; oignon cuit avec la marinade et un verre d'eau, puis poulet 1 h à couvert à feu doux ; poulet retiré, sauce réduite jusqu'à être sirupeuse ; olives vertes et écorce de citron confit en julienne ajoutées à la fin ; servi chaud."},
+    {"name": "Yalalla (site féminin marocain, « عالم المرأة بعيون مغربية »), « الدجاج مدغمر ومحمر على طريقة الافراح بعصير الحامض و الهريسة »", "url": "https://yalalla.com/%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC-%D9%85%D8%AF%D8%BA%D9%85%D8%B1-%D9%88%D9%85%D8%AD%D9%85%D8%B1-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D8%A7%D8%AD-%D8%A8/", "ce_qu_elle_confirme": "Poulet mariné la veille au frais (jus de citron, citron confit, safran, ail, coriandre et persil), cuit avec beaucoup d'oignons, gingembre et curcuma ; sauce épaissie à feu doux ; servi avec olives et citron confit. Nomme le citron confit « حامضة مصيرة », autre nom marocain à côté de « مرقد »."},
+    {"name": "Morocco World News, Layla Dahamou, « Moroccan Cuisine: How to Make Preserved Lemons », 2013", "url": "https://www.moroccoworldnews.com/2013/01/147056/moroccan-cuisine-how-to-make-preserved-lemons/", "ce_qu_elle_confirme": "« Known as Lhamd Marakad or Mssiyar » : la graphie « hamd marqad » du champ darija est plausible."},
+    {"name": "Santé Canada, « Conseils sur la salubrité de la volaille »", "url": "https://www.canada.ca/fr/sante-canada/services/salubrite-viandes-volailles-poissons-et-fruits-mer/conseils-salubrite-volaille.html", "ce_qu_elle_confirme": "« Ne rincez jamais la volaille avant la cuisson, car les bactéries peuvent se propager » partout où l'eau éclabousse ; 74 °C à cœur pour les morceaux."}
+   ],
+   "corrections": [
+    {"champ": "secrets[0].text", "actuel": "Le m'qalli repose sur deux épices maîtresses, le safran et le gingembre : ce sont elles qui donnent la sauce jaune caractéristique.", "propose": "Le m'qalli repose sur deux épices maîtresses, le safran et le gingembre, et se reconnaît à sa sauce jaune.", "pourquoi": "Erreur mineure : la source dit « Saffron and ginger are primary spices » et « A yellow hue is the outcome of the m'qualli cooking style », mais n'attribue pas la couleur à ces deux épices ; la recette contient d'ailleurs du curcuma.", "source_url": "https://tasteofmaroc.com/cooking-styles-sauces-moroccan-cuisine/", "gravite": "erreur"},
+    {"champ": "secrets[12].text", "actuel": "… avant de le rincer et de le mariner. Bladi le sale simplement et le laisse dégorger 2 h. Nettoie ensuite soigneusement tout ce qui a touché le poulet cru.", "propose": "Garder le texte et ajouter : « Les autorités sanitaires déconseillent toutefois de rincer la volaille crue, car les éclaboussures propagent les bactéries : si tu gardes ce geste, fais-le sans éclabousser et nettoie évier et plan de travail juste après. »", "pourquoi": "Sécurité alimentaire : Santé Canada, « Ne rincez jamais la volaille avant la cuisson ». La pratique marocaine reste documentée (Taste of Maroc), d'où un avertissement plutôt qu'une suppression.", "source_url": "https://www.canada.ca/fr/sante-canada/services/salubrite-viandes-volailles-poissons-et-fruits-mer/conseils-salubrite-volaille.html", "gravite": "amélioration"}
+   ],
+   "secrets_verifies": [
+    {"index": 0, "resultat": "déformé", "detail": "La source ne dit pas que safran et gingembre donnent la couleur jaune (voir correction)."},
+    {"index": 1, "resultat": "confirmé", "detail": "Taste of Maroc (Nada Kiffa) : safran infusé environ 10 min dans ¼ de tasse d'eau chaude, puis sel, curcuma, gingembre, poivre et smen."},
+    {"index": 2, "resultat": "confirmé", "detail": "Taste of Maroc : « at least 1 hour or overnight », au frais (recette aux poires). « Jusque sous la peau » (Choumicha) non revérifié."},
+    {"index": 3, "resultat": "confirmé", "detail": "Taste of Maroc : ¼ de tasse d'eau, 10 à 15 min à feu moyen ; huile et eau chaude (⅔ à ¾ du poulet) quand l'eau s'est presque évaporée et que la viande a changé de couleur."},
+    {"index": 4, "resultat": "confirmé", "detail": "Taste of Maroc (poires) : « If you cut back on the oils you may not reach this texture » ; mélange d'huiles (Cooking Styles)."},
+    {"index": 5, "resultat": "confirmé", "detail": "Taste of Maroc : oignons « no longer identifiable as onions », pâte soyeuse qui se sépare de l'huile."},
+    {"index": 6, "resultat": "confirmé", "detail": "Taste of Maroc : poulet retiré pendant la réduction ; My Moroccan Food : garder un peu de liquide, ajouter quelques cuillerées d'eau si c'est sec."},
+    {"index": 7, "resultat": "confirmé", "detail": "Taste of Maroc : poulet cuit doré dans l'huile séparée, à feu moyen ; le nom m'qualli vient de ce geste."},
+    {"index": 8, "resultat": "confirmé", "detail": "Taste of Maroc (Christine Benlafquih) : citron confit « the only way to get the traditional flavor » ; retirer les quartiers quand le goût convient."},
+    {"index": 9, "resultat": "confirmé", "detail": "Taste of Maroc : olives à la fin ou en décor ; olives en boîte blanchies 10 min, plus salées."},
+    {"index": 10, "resultat": "confirmé", "detail": "Taste of Maroc : « err on the side of caution when salting the sauce prior to their addition »."},
+    {"index": 11, "resultat": "confirmé", "detail": "Réponse de Nada Kiffa en commentaire (2018) : « 1 or 2 garlic cloves are good enough »."},
+    {"index": 12, "resultat": "confirmé", "detail": "Taste of Maroc : saumure eau froide, sel, citron, vinaigre blanc, au moins 30 min, rinçage, nettoyage des surfaces (voir correction de sécurité)."},
+    {"index": 13, "resultat": "confirmé", "detail": "Taste of Maroc (Christine Benlafquih) : « free range chickens take longer than factory-raised hens » ; la page de Nada Kiffa ne le dit pas."}
+   ],
+   "non_verifiable": [
+    "Choumicha : choumicha.ma toujours en erreur 525 le 6 novembre 2026 et copies Wayback inaccessibles à l'outil ; ses quantités, sa marinade de 2 h et ses graphies arabes n'ont pas été revérifiées.",
+    "Secrets 14 et 15 (tajine en terre) : pages Taste of Maroc « cabbage tagine » et « fish tagine » non rouvertes ; seul « moins d'eau au tajine qu'en cocotte » est confirmé (Nada Kiffa, recette aux poires).",
+    "Expression arabe complète « دجاج مقلي بالحامض المرقد والزيتون » : non trouvée telle quelle ; « مرقد » et « مصير » sont tous deux employés au Maroc pour le citron confit.",
+    "Sayidaty (« ليمون مرقد ») et Bladi : non rouverts."
+   ]
+  },
+  {
+   "slug": "harira",
+   "verdict": "conforme avec corrections",
+   "sources_ajoutees": [
+    {"name": "Sayidaty, Salma Dardaf, « الحريرة المغربية حاضرة في موائد رمضان », 24 juillet 2013 (liste d'une cuisinière marocaine)", "url": "https://www.sayidaty.net/node/79039", "ce_qu_elle_confirme": "Agneau en petits morceaux, tomates mixées, pois chiches trempés, lentilles, coriandre et céleri, oignon, vermicelles fins, concentré de tomate, smen, poivre noir, gingembre, huile, eau et farine pour lier ; ni ras el hanout ni gingembre frais. Liste seule, sans étapes."},
+    {"name": "Yabiladi, reprise d'Aujourd'hui le Maroc (Ali Kharroubi), « Traditions ramadanesques : Oujda : une fête de tous les jours »", "url": "https://www.yabiladi.com/article-ramadan-8.html", "ce_qu_elle_confirme": "À Oujda, la harira commence par un levain pétri la veille (variante de tadouira fermentée) et contient beaucoup de persil, de coriandre et de céleri ; servie juste après l'appel du Maghreb avec des dattes. Ne cite ni carvi ni piment de la Jamaïque."},
+    {"name": "Yabiladi (en), Jazia El Hammari, « Is Harira truly Moroccan? », 27 mai 2017", "url": "https://en.yabiladi.com/articles/details/188829", "ce_qu_elle_confirme": "Rôle central de la tadouira (« all of harïra is in the tadwira », Abdelhaï Diouri), citron pressé au service, recettes différentes selon familles et régions."},
+    {"name": "La langue française, dictionnaire, « cubèbe »", "url": "https://www.lalanguefrancaise.com/dictionnaire/definition/cubebe", "ce_qu_elle_confirme": "Le cubèbe vient « de l'arabe كبابة, kabāba » : kababa désigne le poivre cubèbe."},
+    {"name": "Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez, « Spices in Ras el Hanout » (ckbk)", "url": "https://app.ckbk.com/section/trad59138c06s001ss001/spices-in-ras-el-hanout", "ce_qu_elle_confirme": "« Four spices: nouioura, pimento from the West Indies » : à Fès, le piment de la Jamaïque se dit nouioura."}
+   ],
+   "corrections": [
+    {"champ": "variants[1]", "actuel": "Harira fassia (Fès) : la moins épicée, sans carvi (karwiya) ni piment de la Jamaïque (kababa) ; c'est le profil de cette recette — Gâteau et cuisine Rachida.", "propose": "Harira fassia (Fès) : la moins épicée, sans carvi (karwiya) ni piment de la Jamaïque ; c'est le profil de cette recette — Gâteau et cuisine Rachida.", "pourquoi": "« Kababa » (كبابة) désigne le poivre cubèbe ; le piment de la Jamaïque se dit « nouioura » dans le livre de cuisine de Fès de Guinaudeau-Franc. L'équivalence vient de Rachida seule ; on ne peut pas savoir quelle épice elle visait, donc retirer le mot.", "source_url": "https://www.lalanguefrancaise.com/dictionnaire/definition/cubebe ; https://app.ckbk.com/section/trad59138c06s001ss001/spices-in-ras-el-hanout", "gravite": "erreur"},
+    {"champ": "variants[2]", "actuel": "Harira oujdia (Oujda) : très parfumée au carvi et au piment de la Jamaïque ; certaines familles ajoutent des fèves sèches aux pois chiches — Gâteau et cuisine Rachida.", "propose": "Harira oujdia (Oujda) : préparée avec un levain pétri la veille et beaucoup de persil, de coriandre et de céleri (Aujourd'hui le Maroc, repris par Yabiladi) ; selon Rachida, très parfumée au carvi et au piment de la Jamaïque, et certaines familles ajoutent des fèves sèches aux pois chiches — Gâteau et cuisine Rachida.", "pourquoi": "Ajoute ce qu'une source marocaine dit de la harira d'Oujda ; le carvi et le piment de la Jamaïque ne reposent que sur Rachida.", "source_url": "https://www.yabiladi.com/article-ramadan-8.html", "gravite": "amélioration"}
+   ],
+   "secrets_verifies": [
+    {"index": 0, "resultat": "confirmé", "detail": "Rachida : « Éplucher les pois chiches que vous avez trempés » ; Taste of Maroc : pois chiches trempés et pelés."},
+    {"index": 1, "resultat": "confirmé", "detail": "Taste of Maroc : « Fresh ginger is not traditionally used in Moroccan cooking »."},
+    {"index": 2, "resultat": "confirmé", "detail": "Rachida : « la harira traditionnelle ne contient pas de Ras el hanout », « même dans la version de Choumicha »."},
+    {"index": 3, "resultat": "confirmé", "detail": "Rachida : « des tomates bien mûres pour obtenir une belle couleur et un goût plus intense »."},
+    {"index": 4, "resultat": "confirmé", "detail": "Taste of Maroc : au Maroc, céleri proche du céleri chinois, qui ressemble à une botte de persil. Partie Choumicha non rouverte."},
+    {"index": 5, "resultat": "confirmé", "detail": "Rachida : « préparer la tadouira à l'avance et de la laisser reposer quelques heures », passée au tamis fin."},
+    {"index": 6, "resultat": "confirmé", "detail": "Rachida : feu assez fort pour que la harira « recommence vite à bouillir » ; Taste of Maroc : verser peu à peu en remuant sans arrêt."},
+    {"index": 7, "resultat": "confirmé", "detail": "Taste of Maroc : juste assez de tadouira pour une texture « silky, cream-like »."},
+    {"index": 8, "resultat": "confirmé", "detail": "Rachida : mijoter jusqu'à ce que « l'écume formée par la tadouira ait complètement disparu »."},
+    {"index": 12, "resultat": "confirmé", "detail": "Rachida : le vermicelle « a tendance à gonfler dans la soupe » quand il y a des restes."},
+    {"index": 13, "resultat": "confirmé", "detail": "Taste of Maroc : congeler avant la tadouira, de préférence avant le riz ou les vermicelles."}
+   ],
+   "non_verifiable": [
+    "Harira fassia « sans carvi » et harira oujdia « au carvi et au piment de la Jamaïque » : seule Rachida le dit ; l'article sur la harira d'Oujda ne cite aucune de ces épices.",
+    "Épice que Rachida appelle « kababa » (cubèbe ou piment de la Jamaïque) : impossible à trancher.",
+    "Choumicha (Gulf News, La Libre Belgique) non rouverts : secrets 9 et 11 et la partie Choumicha du secret 4 non revérifiés.",
+    "Aujourd'hui le Maroc (aujourdhui.ma) : erreur 403 ; article lu dans sa reprise par Yabiladi, sans date."
+   ]
+  },
+  {
+   "slug": "tajine-kefta-oeufs",
+   "verdict": "conforme",
+   "sources_ajoutees": [
+    {"name": "Bladi.net (portail des Marocains du monde), « Boulettes de kefta aux oeufs »", "url": "https://www.bladi.net/recettes/boulettes-de-kefta-aux-oeufs.html", "ce_qu_elle_confirme": "Boulettes « grosseur de billes » mises crues dans la sauce tomate (ail, cumin, poivre, paprika doux, persil), sauce réduite, œufs cassés dessus à la fin, à couvert, servi chaud."},
+    {"name": "MWN Lifestyle, Ihab Ou-ouda, « Easy Kefta Tagine Recipe: A Simple Moroccan Classic », 29 janvier 2026", "url": "https://mwnlifestyle.com/2026/01/29/easy-kefta-tagine-recipe-a-simple-moroccan-classic/", "ce_qu_elle_confirme": "Kefta sans œuf, sans chapelure et sans ail (oignon râpé, persil, coriandre, cumin, paprika) ; boulettes crues pochées à couvert dans la sauce ; œufs entre les boulettes, à couvert, jusqu'à blanc pris et jaune encore tendre ; pain marocain pour saucer."},
+    {"name": "Institut Pasteur, fiche « Salmonellose »", "url": "https://www.pasteur.fr/fr/centre-medical/fiches-maladies/salmonellose", "ce_qu_elle_confirme": "Les personnes les plus vulnérables (personnes âgées, malades, nourrissons, femmes enceintes) devraient éviter les œufs crus ou peu cuits."}
+   ],
+   "corrections": [
+    {"champ": "steps[8].text", "actuel": "Remets le couvercle et laisse cuire à feu doux. C'est prêt quand le blanc est pris et que le jaune reste coulant. Retire aussitôt du feu.", "propose": "Remets le couvercle et laisse cuire à feu doux. C'est prêt quand le blanc est pris et que le jaune reste coulant. Retire aussitôt du feu. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, laisse cuire quelques minutes de plus, jusqu'à ce que le jaune soit pris.", "pourquoi": "Sécurité alimentaire : l'Institut Pasteur conseille aux personnes vulnérables d'éviter les œufs peu cuits ; la variante « jaune bien cuit » figure déjà dans le fichier (MarocMama).", "source_url": "https://www.pasteur.fr/fr/centre-medical/fiches-maladies/salmonellose", "gravite": "amélioration"}
+   ],
+   "secrets_verifies": [
+    {"index": 1, "resultat": "confirmé", "detail": "Taste of Maroc : un œuf et de la chapelure sont « a departure from tradition »."},
+    {"index": 3, "resultat": "non confirmé", "detail": "TelQuel renvoie une erreur 403 (articles du 11/12/2020 et du 20/04/2021). Un extrait de moteur de recherche va dans le même sens pour le cumin (« rouleau compresseur », réservé au tajine de kefta aux œufs), mais la page n'a pas pu être lue."},
+    {"index": 4, "resultat": "confirmé", "detail": "Taste of Maroc : boulettes traditionnellement très petites, taille d'une cerise ; My Moroccan Food : 2,5 cm, gardées au frais."},
+    {"index": 5, "resultat": "confirmé", "detail": "Taste of Maroc : râper la chair des tomates raccourcit la cuisson."},
+    {"index": 7, "resultat": "confirmé", "detail": "Taste of Maroc : boulettes crues dans la sauce réduite, 10 à 15 min, trop cuites elles durcissent ; My Moroccan Food : sauce 25 min, boulettes 7 à 9 min."},
+    {"index": 9, "resultat": "confirmé", "detail": "My Moroccan Food : œufs à couvert, « egg white set and yolk still runny (4 to 5 minutes) ». Partie Amour de cuisine non rouverte."},
+    {"index": 10, "resultat": "confirmé", "detail": "Taste of Maroc : œufs « free-range or beldi » de préférence."},
+    {"index": 11, "resultat": "confirmé", "detail": "Taste of Maroc : diffuseur hors gaz ; au gaz, la flamme ne doit pas toucher le fond."}
+   ],
+   "non_verifiable": [
+    "TelQuel (Fatéma Hal) : erreur 403 sur les deux versions de l'article ; secret 3 non vérifié.",
+    "Nom arabe « طاجين الكفتة بالبيض » : vu sous la forme « طاجين الكفتة بالطماطم و البيض » sur Cookpad Maroc (recette d'internaute, non retenue) ; pas trouvé dans un média marocain.",
+    "MWN Lifestyle : la page ne dit pas si elle dépend de Morocco World News.",
+    "Choumicha : choumicha.ma toujours en erreur 525.",
+    "Secrets 0, 2, 6, 8 et 12 (recette de kefta de Taste of Maroc, MarocMama, Cooking With Alia, Amour de cuisine) : non rouverts."
+   ]
+  },
+  {
+   "slug": "msemen",
+   "verdict": "conforme avec corrections",
+   "sources_ajoutees": [
+    {"name": "Lalla Moulati, « مسمن بالسميدة هشيش و مورق بالصور », 15 juin 2015", "url": "https://www.lalamoulati.net/21423.html", "ce_qu_elle_confirme": "Pétrissage énergique (« السميد يحتاج للدلك الجيد ») ; pâtons puis carrés reposés 5 à 10 min ; beurre fondu et huile à parts égales ; semoule (avec un peu de levure chimique) saupoudrée entre les couches ; pliage en carré ; cuisson à feu plutôt doux en retournant. Version toute semoule, avec lait en poudre et levure : différente de la base retenue."},
+    {"name": "Afrik.com, « Les Mssemens, une délicieuse tradition culinaire du Maghreb »", "url": "https://www.afrik.com/les-mssemens-une-delicieuse-tradition-culinaire-du-maghreb", "ce_qu_elle_confirme": "Nom « rghaïf au Maroc », plaque traditionnelle « ferrah », pâte de farine, semoule fine, eau et sel (levure parfois), pétrie jusqu'à être souple et élastique. Média panafricain, pas marocain."},
+    {"name": "La langue française, dictionnaire, « msemen »", "url": "https://www.lalanguefrancaise.com/dictionnaire/definition/msemen", "ce_qu_elle_confirme": "« Crêpe marocaine fine, confectionnée à base de farine et de semoule »."}
+   ],
+   "corrections": [
+    {"champ": "time.cook", "actuel": "30", "propose": "60 (ou garder 30 en écrivant dans l'étape « Cuire en retournant » que ce temps suppose deux msemen à la fois)", "pourquoi": "Incohérence interne : 12 msemen × environ 5 min (El Fenn, et minuteur de l'étape) = 60 min avec une seule poêle ; 30 min seulement si l'on en cuit deux à la fois, ce qui demande une plaque d'au moins 36 cm pour deux carrés de 18 cm.", "source_url": "https://el-fenn.com/msemen-pancake-recipe/", "gravite": "erreur"},
+    {"champ": "steps[9].text", "actuel": "… tapote-le fermement jusqu'à ce qu'il double de taille, environ 18 cm de côté, en gardant la forme carrée.", "propose": "… tapote-le fermement jusqu'à environ 18 cm de côté, un peu plus du double du carré plié, en gardant la forme carrée.", "pourquoi": "Hot Bread Kitchen passe d'un carré de 7,5 cm à 18 cm (× 2,4 de côté) ; un carré de 8 cm dont le côté double ne mesure que 16 cm.", "source_url": "https://www.splendidtable.org/story/2019/01/13/msmen", "gravite": "amélioration"},
+    {"champ": "secrets[7].text", "actuel": "Juste après la cuisson, fais « balancer » le msemen tenu par deux bords opposés : les couches se décollent.", "propose": "Une à deux minutes après la cuisson, fais « balancer » le msemen tenu par deux bords opposés : les couches se décollent.", "pourquoi": "Taste of Maroc le fait « once each msemen cools for a minute or two », comme l'étape « Séparer les couches » ; le secret contredit l'étape.", "source_url": "https://tasteofmaroc.com/msemen-recipe/", "gravite": "amélioration"}
+   ],
+   "secrets_verifies": [
+    {"index": 0, "resultat": "confirmé", "detail": "Rachida : « Pétrissez la pâte pendant au moins 15 minutes » ; « on voit le plan de travail à travers »."},
+    {"index": 1, "resultat": "confirmé", "detail": "Rachida : avec la farine seule, « une certaine élasticité en bouche »."},
+    {"index": 2, "resultat": "confirmé", "detail": "Morocco World News (2012) : la semoule « will help keep the folded layers separate »."},
+    {"index": 3, "resultat": "confirmé", "detail": "Taste of Maroc : « All that oil won't be absorbed into the dough »."},
+    {"index": 4, "resultat": "confirmé", "detail": "Hot Bread Kitchen (The Splendid Table) : « If they resist stretching, let them rest a bit more before proceeding »."},
+    {"index": 6, "resultat": "confirmé", "detail": "En partie : Taste of Maroc, feu moyen ; trop chaud, le msemen colore trop vite et le centre reste cru. « Les couches se séparent mal » n'a pas été retrouvé."},
+    {"index": 7, "resultat": "déformé", "detail": "Léger : Taste of Maroc attend une à deux minutes, pas « juste après la cuisson » (voir correction)."},
+    {"index": 8, "resultat": "confirmé", "detail": "Taste of Maroc : « in the order in which they were folded » ; Hot Bread Kitchen : « in the same order in which you formed the breads »."}
+   ],
+   "non_verifiable": [
+    "Aucune page de Le360, Hespress, 2M ou TelQuel sur le msemen n'est sortie dans les recherches ; choumicha.ma toujours en erreur 525.",
+    "Secret 5 (My Moroccan Food, « étale vite ») : non rouvert.",
+    "Taille et poids des msemen de MarocMama, d'où vient la durée de 30 min : non vérifiés."
+   ]
+  },
+  {
+   "slug": "pastilla-poulet",
+   "verdict": "conforme avec corrections",
+   "sources_ajoutees": [
+    {"name": "Lalla Moulati, « بسطيلة بالدجاج واللوز بالصور », 17 décembre 2014", "url": "https://www.lalamoulati.net/9190.html", "ce_qu_elle_confirme": "Graphie « بسطيلة بالدجاج » ; poulet d'environ 2 kg cuit avec oignons, persil, gingembre, cannelle, poivre et safran, 45 min au plus ; œufs ajoutés un à un dans la sauce jusqu'à cuisson et réduction ; amandes blanchies, frites, hachées avec le sucre et l'eau de fleur d'oranger ; couches poulet, œufs, amandes ; bords soudés au jaune d'œuf ; four à 180 °C pendant 30 min ; décor sucre glace et cannelle."},
+    {"name": "Chhiwat.net (site marocain de recettes, recette de la membre « نينا الطباخة »), « بسطيلة الدجاج »", "url": "https://www.chhiwat.net/%D8%B4%D9%87%D9%8A%D9%88%D8%A7%D8%AA/%D8%A8%D8%B3%D8%B7%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC/", "ce_qu_elle_confirme": "Poulet de 2 kg, 1 kg d'oignons, gingembre, cannelle, safran, persil ; sauce filtrée dont on garde oignons et gras, œufs ajoutés en remuant jusqu'à épaissir, puis égouttés et refroidis ; amandes grillées concassées avec sucre, cannelle et eau de fleur d'oranger ; décor sucre glace et cannelle."}
+   ],
+   "corrections": [
+    {"champ": "tagline", "actuel": "… : le grand sucré-salé né à Fès.", "propose": "… : le grand sucré-salé de la cuisine fassie.", "pourquoi": "Origine non établie présentée comme un fait : Barlamane rapporte, d'après l'historien Rachid Hababa, que la bastila est « héritière de la cuisine andalouse » arrivée au Maroc après la chute de Grenade, et le fichier classe lui-même l'histoire du plat en « non vérifiée ». Le lien avec Fès (version au pigeon, « Bastila of Fes » de Paula Wolfert) reste appuyé.", "source_url": "https://barlamane.com/%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-4-%D8%A7%D9%84%D8%A8%D8%B3%D8%B7%D9%8A%D9%84%D8%A9-%D8%B7%D8%A8%D9%82/", "gravite": "erreur"},
+    {"champ": "ingredients.sucre-glace.q", "actuel": "40 (g), « à ajuster selon ton goût »", "propose": "60 (g), note « à ajuster selon ton goût » conservée", "pourquoi": "40 g pour 350 g d'amandes (11 %) suit Paula Wolfert, la version la moins sucrée. Les sources marocaines sucrent davantage : 15 % chez Femmes du Maroc (120 g pour 800 g), 21 % chez Chhiwat (125 g pour 600 g), 40 % chez Lalla Moulati (200 g pour 500 g). 60 g font 17 % (calcul refait).", "source_url": "https://www.lalamoulati.net/9190.html ; https://www.chhiwat.net/%D8%B4%D9%87%D9%8A%D9%88%D8%A7%D8%AA/%D8%A8%D8%B3%D8%B7%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC/", "gravite": "amélioration"}
+   ],
+   "secrets_verifies": [
+    {"index": 0, "resultat": "confirmé", "detail": "Barlamane (Mariam Bensellham) : « حتى تقف في زيتها » ; My Moroccan Food : « No liquid should be left in the pan, except oil »."},
+    {"index": 1, "resultat": "confirmé", "detail": "Par les deux sources ajoutées (Lalla Moulati : œufs cuits dans la sauce jusqu'à réduction ; Chhiwat : remués jusqu'à épaissir puis égouttés) ; sources citées non rouvertes."},
+    {"index": 2, "resultat": "confirmé", "detail": "Femmes du Maroc : excédent d'huile réservé « pour le pliage », mélangé au beurre fondu pour enduire les feuilles."},
+    {"index": 3, "resultat": "confirmé", "detail": "Barlamane : « يُقلى في زيت بارد ليأخذ لونا ذهبيا موحدا »."},
+    {"index": 4, "resultat": "confirmé", "detail": "Barlamane : « يُجرش (لا يُطحن بالكامل) »."},
+    {"index": 6, "resultat": "confirmé", "detail": "Barlamane : beurre fondu entre chaque couche « لضمان القرمشة »."},
+    {"index": 8, "resultat": "confirmé", "detail": "My Moroccan Food : miel et sucre glace ajoutés aux oignons ; Femmes du Maroc : miel ajouté à la sauce."}
+   ],
+   "non_verifiable": [
+    "Origine de la pastilla (Fès ou héritage andalou) : non tranchée par les sources consultées.",
+    "Ma fleur d'oranger, Amour de cuisine, Cooking with Alia, La Cuisine Marocaine et Paula Wolfert : non rouverts (secrets 5, 7 et 9 non revérifiés).",
+    "Choumicha : choumicha.ma toujours en erreur 525.",
+    "Chhiwat.net : recette de membre sans auteur identifié ; utilisée seulement en recoupement."
+   ]
+  }
+ ]
+}

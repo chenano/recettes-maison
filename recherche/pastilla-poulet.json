@@ -1,0 +1,253 @@
+{
+  "slug": "pastilla-poulet",
+  "title": "Pastilla au poulet et aux amandes (version fassie)",
+  "darija": "bastila bel djaj",
+  "arabic": "بسطيلة بالدجاج",
+  "tagline": "Des feuilles qui craquent, un poulet fondant aux oignons safranés et une couche d'amandes à la cannelle et à la fleur d'oranger : le grand sucré-salé né à Fès.",
+  "category": "Pastilla",
+  "occasion": "Fêtes, mariages et grands dîners de réception",
+  "region": "Fès (version fassie)",
+  "servings": 8,
+  "servings_label": "personnes",
+  "time": {"prep": 60, "cook": 110, "rest": 10},
+  "difficulty": "Moyen",
+  "equipment": [
+    "Grand faitout ou cocotte avec couvercle",
+    "Poêle",
+    "Passoire et papier absorbant",
+    "Mixeur (ou mortier)",
+    "Moule rond de 30 cm à bord bas (type plat à tarte)",
+    "Pinceau de cuisine",
+    "Film alimentaire et torchon",
+    "Passoire fine pour le sucre glace",
+    "Grand plat de service rond"
+  ],
+  "ingredients": [
+    {
+      "group": "Poulet et sauce aux oignons",
+      "items": [
+        {"id": "poulet", "q": 1.6, "u": "kg", "name": "poulet halal, coupé en morceaux", "note": "ou cuisses et hauts de cuisse ; beldi si possible"},
+        {"id": "oignons", "q": 800, "u": "g", "name": "oignons", "note": "émincés finement ou râpés"},
+        {"id": "persil", "q": 1, "u": "botte", "name": "persil plat", "note": "haché"},
+        {"id": "coriandre", "q": 0.5, "u": "botte", "name": "coriandre fraîche", "note": "hachée"},
+        {"id": "huile", "q": 3, "u": "c. à s.", "name": "huile d'olive ou neutre"},
+        {"id": "smen", "q": 30, "u": "g", "name": "smen ou beurre"},
+        {"id": "gingembre", "q": 1.5, "u": "c. à c.", "name": "gingembre moulu"},
+        {"id": "curcuma", "q": 1, "u": "c. à c.", "name": "curcuma"},
+        {"id": "cannelle-sauce", "q": 1, "u": "c. à c.", "name": "cannelle moulue"},
+        {"id": "safran", "q": 1, "u": "pincée", "name": "pistils de safran"},
+        {"id": "sel", "q": null, "u": "", "name": "sel, selon le goût", "note": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction"},
+        {"id": "poivre", "q": null, "u": "", "name": "poivre noir moulu, selon le goût", "note": "repère : environ 1 c. à c."},
+        {"id": "eau", "q": 250, "u": "ml", "name": "eau"},
+        {"id": "sucre", "q": 3, "u": "c. à s.", "name": "sucre en poudre", "note": "ou du miel"},
+        {"id": "oeufs", "q": 8, "u": "", "name": "œufs"}
+      ]
+    },
+    {
+      "group": "Couche d'amandes",
+      "items": [
+        {"id": "amandes", "q": 350, "u": "g", "name": "amandes émondées (sans la peau)"},
+        {"id": "huile-friture", "q": 4, "u": "c. à s.", "name": "huile neutre", "note": "pour frire les amandes"},
+        {"id": "sucre-glace", "q": 40, "u": "g", "name": "sucre glace", "note": "à ajuster selon ton goût"},
+        {"id": "cannelle-amandes", "q": 1.5, "u": "c. à c.", "name": "cannelle moulue"},
+        {"id": "fleur-oranger", "q": 1, "u": "c. à s.", "name": "eau de fleur d'oranger"}
+      ]
+    },
+    {
+      "group": "Montage",
+      "items": [
+        {"id": "beurre", "q": 120, "u": "g", "name": "beurre", "note": "à faire fondre ; ou smen"},
+        {"id": "feuilles-tour", "q": 6, "u": "", "name": "feuilles de warqa ou de brick, pour le tour", "note": "prévois 12 à 15 feuilles en tout pour avoir de la marge"},
+        {"id": "feuilles-fond", "q": 2, "u": "", "name": "feuilles de warqa ou de brick, pour le fond"},
+        {"id": "feuilles-dessus", "q": 4, "u": "", "name": "feuilles de warqa ou de brick, pour le dessus"},
+        {"id": "jaune", "q": 1, "u": "", "name": "jaune d'œuf", "note": "pour coller les plis"}
+      ]
+    },
+    {
+      "group": "Décor",
+      "items": [
+        {"id": "sucre-glace-decor", "q": 3, "u": "c. à s.", "name": "sucre glace"},
+        {"id": "cannelle-decor", "q": 1, "u": "c. à c.", "name": "cannelle moulue"}
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Préparation",
+      "title": "Prépare le poulet et les herbes",
+      "text": "Coupe {{poulet}} de poulet en morceaux. Émince finement {{oignons}} d'oignons. Hache {{persil}} de persil et {{coriandre}} de coriandre.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais revenir le poulet aux épices",
+      "text": "Dans un grand faitout, mets le poulet, les oignons, les herbes, {{huile}} d'huile et {{smen}} de smen (ou de beurre). Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{cannelle-sauce}} de cannelle, {{safran}} de safran, du sel et du poivre. Mélange, couvre et laisse cuire à feu moyen en remuant de temps en temps.",
+      "timer": {"min": 15, "label": "Poulet aux épices", "done": "Passe à l'étape suivante : verse l'eau."}
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais mijoter",
+      "text": "Verse {{eau}} d'eau et porte à ébullition. Baisse à feu moyen-doux, couvre et laisse mijoter en retournant les morceaux de temps en temps. C'est prêt quand la viande se détache facilement de l'os. Pendant ce temps, prépare les amandes.",
+      "timer": {"min": 30, "label": "Mijotage du poulet", "done": "La viande se détache de l'os ? Sinon, prolonge un peu la cuisson."}
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais frire les amandes",
+      "text": "Mets {{amandes}} d'amandes dans une poêle avec {{huile-friture}} d'huile encore froide. Chauffe à feu moyen en remuant souvent, jusqu'à ce qu'elles soient dorées de façon uniforme. Égoutte-les sur du papier absorbant et laisse-les refroidir.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Prépare le mélange aux amandes",
+      "text": "Concasse les amandes au mixeur par petites impulsions : il doit rester de petits morceaux, pas de la poudre. Mélange-les avec {{sucre-glace}} de sucre glace, {{cannelle-amandes}} de cannelle et {{fleur-oranger}} d'eau de fleur d'oranger. Réserve.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Réduis la sauce aux oignons",
+      "text": "Sors le poulet et pose-le sur une assiette pour qu'il tiédisse. Ajoute {{sucre}} de sucre à la sauce et laisse réduire à feu moyen-doux, sans couvercle, en remuant souvent. C'est prêt quand il ne reste plus de liquide, seulement les oignons fondus dans leur gras.",
+      "timer": {"min": 30, "label": "Réduction de la sauce", "done": "Plus de liquide, juste le gras ? Sinon, continue quelques minutes en remuant."}
+    },
+    {
+      "phase": "Préparation",
+      "title": "Effiloche le poulet",
+      "text": "Pendant que la sauce réduit, retire la peau et les os du poulet. Effiloche la chair en petits morceaux et réserve-la.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Cuis les œufs dans la sauce",
+      "text": "Bats {{oeufs}} œufs en omelette. Verse-les peu à peu dans la sauce réduite, à feu doux, en remuant sans arrêt. Arrête quand ils sont pris en une crème épaisse, comme des œufs brouillés bien secs, sans liquide.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Égoutte et laisse refroidir",
+      "text": "Verse les œufs dans une passoire posée sur un bol et garde le gras qui s'égoutte. Laisse refroidir complètement les œufs et le poulet, chacun de son côté. Tu peux préparer les garnitures la veille et les garder au frigo.",
+      "timer": null
+    },
+    {
+      "phase": "Montage",
+      "title": "Prépare le moule",
+      "text": "Préchauffe le four à 180 °C. Fais fondre {{beurre}} de beurre et mélange-le au gras réservé. Beurre généreusement un moule rond de 30 cm. Garde les feuilles sous un film alimentaire et un torchon pour qu'elles ne sèchent pas.",
+      "timer": null
+    },
+    {
+      "phase": "Montage",
+      "title": "Forme la base",
+      "text": "Badigeonne de beurre {{feuilles-tour}} feuilles et dispose-les en rosace dans le moule : elles se chevauchent et débordent largement du bord. Pose au centre {{feuilles-fond}} feuilles beurrées pour renforcer le fond.",
+      "timer": null
+    },
+    {
+      "phase": "Montage",
+      "title": "Superpose les garnitures",
+      "text": "Étale le poulet effiloché en couche régulière. Ajoute les œufs, puis termine par le mélange aux amandes, bien à plat.",
+      "timer": null
+    },
+    {
+      "phase": "Montage",
+      "title": "Referme la pastilla",
+      "text": "Rabats les feuilles qui débordent sur les amandes, en les badigeonnant de beurre au fur et à mesure. Bats {{jaune}} jaune d'œuf et passe-le sur les plis pour bien les coller.",
+      "timer": null
+    },
+    {
+      "phase": "Montage",
+      "title": "Couvre le dessus",
+      "text": "Badigeonne de beurre {{feuilles-dessus}} feuilles et pose-les sur le dessus en les faisant se chevaucher. Rentre leurs bords entre la pastilla et le moule pour obtenir un bord bien rond. Badigeonne tout le dessus avec le reste de beurre.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais cuire au four",
+      "text": "Enfourne à mi-hauteur. Cuis jusqu'à ce que la pastilla soit bien dorée et croustillante.",
+      "timer": {"min": 30, "label": "Cuisson au four", "done": "Bien dorée et croustillante ? Sors-la. Sinon, laisse encore quelques minutes en surveillant."}
+    },
+    {
+      "phase": "Service",
+      "title": "Laisse reposer, décore et sers",
+      "text": "Laisse reposer la pastilla avant de la couper. Fais-la glisser délicatement sur un grand plat rond. Saupoudre {{sucre-glace-decor}} de sucre glace à travers une passoire fine, puis trace des croisillons avec {{cannelle-decor}} de cannelle. Sers bien chaud.",
+      "timer": {"min": 10, "label": "Repos avant découpe", "done": "Décore et sers bien chaud !"}
+    }
+  ],
+  "secrets": [
+    {"text": "Fais réduire la sauce aux oignons jusqu'à ce qu'elle « tienne dans son gras » : plus une goutte de liquide. Une farce humide ramollit la pastilla.", "source": "Barlamane (Mariam Bensellham, experte en cuisine marocaine) ; My Moroccan Food ; Amour de cuisine"},
+    {"text": "Cuis les œufs dans la sauce réduite en remuant sans arrêt, jusqu'à une texture d'œufs brouillés bien secs.", "source": "Cooking with Alia ; Ma fleur d'oranger ; Paula Wolfert (The Food of Morocco)"},
+    {"text": "Égoutte le mélange aux œufs et garde le gras : mélangé au beurre fondu, il sert à badigeonner les feuilles.", "source": "Femmes du Maroc (cuisinières de Maymana) ; La Cuisine Marocaine ; Paula Wolfert"},
+    {"text": "Mets les amandes dans l'huile encore froide avant de chauffer : elles dorent de façon uniforme.", "source": "Barlamane (Mariam Bensellham)"},
+    {"text": "Concasse les amandes sans les réduire en poudre.", "source": "Barlamane ; Amour de cuisine ; Paula Wolfert"},
+    {"text": "Monte la pastilla avec des garnitures bien froides, sinon les feuilles se déchirent.", "source": "Ma fleur d'oranger"},
+    {"text": "Beurre généreusement chaque feuille : c'est ce qui donne le croustillant.", "source": "Barlamane ; Amour de cuisine"},
+    {"text": "Garde les feuilles sous un film et un torchon pendant le montage pour qu'elles ne sèchent pas.", "source": "Amour de cuisine"},
+    {"text": "Un peu de sucre (ou de miel) ajouté à la sauce aux oignons pendant la réduction renforce l'équilibre sucré-salé.", "source": "My Moroccan Food ; Ma fleur d'oranger ; Femmes du Maroc"},
+    {"text": "Prépare les garnitures à l'avance (la veille, jusqu'à 48 h) et garde-les séparément au frigo : le jour J, il ne reste que le montage.", "source": "Amour de cuisine ; Paula Wolfert ; Ma fleur d'oranger"}
+  ],
+  "mistakes": [
+    "Monter avec une sauce encore liquide : la pastilla devient molle.",
+    "Laisser les œufs baveux : leur liquide détrempe les feuilles.",
+    "Monter avec une garniture tiède : les feuilles se déchirent.",
+    "Réduire les amandes en poudre fine au lieu de les concasser.",
+    "Laisser les feuilles à l'air pendant le montage : elles sèchent.",
+    "Être avare de beurre : la pastilla ne croustille pas.",
+    "Couper la pastilla dès la sortie du four : laisse-la reposer 10 min.",
+    "Réchauffer les restes au micro-ondes : la pâte ramollit. Passe-les plutôt au four."
+  ],
+  "serving": "Sers-la bien chaude, sur un grand plat rond. Dans un repas de fête, elle se sert en entrée, avant le tajine de poulet ou le méchoui. Tu peux ajouter quelques amandes frites entières sur le décor.",
+  "variants": [
+    "Au pigeon, la version traditionnelle de Fès : remplace le poulet par des pigeons halal, cuits de la même façon avec oignons, épices et herbes, puis désossés sans la peau ; le reste ne change pas. Le blog Épices et douceurs (recette attribuée à Fatéma Hal) les fait mijoter 30 à 35 min à couvert. Aux mariages, la pastilla au pigeon est servie juste avant le m'hammar de poulet (Taste of Maroc).",
+    "Amandes grillées au four au lieu d'être frites, avec un filet d'huile, jusqu'à ce qu'elles soient dorées (My Moroccan Food : environ 18 min à 160 °C ; Amour de cuisine : environ 15 min à 160 °C).",
+    "Œufs brouillés à part dans un peu de beurre, au lieu d'être cuits dans la sauce (My Moroccan Food).",
+    "Miel à la place du sucre dans la sauce (Femmes du Maroc ; My Moroccan Food).",
+    "Pastillas individuelles : mêmes garnitures dans des cercles de 8 à 12 cm, 20 à 30 min au four (Femmes du Maroc : 180 °C, 20 à 25 min ; Amour de cuisine : 180 °C, environ 30 min ; My Moroccan Food : 200 °C, environ 25 min).",
+    "Pâte filo à la place de la warqa ou de la brick : 2 à 3 feuilles de filo beurrées par couche et environ 5 min de cuisson en plus (Amour de cuisine).",
+    "Façon Paula Wolfert (The Food of Morocco) : four à 220 °C pendant 20 min, puis pastilla retournée sur une plaque beurrée, badigeonnée de beurre et remise 10 min au four ; elle ajoute aussi du jus de citron dans la sauce avant les œufs et une pointe de muscade.",
+    "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc)."
+  ],
+  "sources": [
+    {"name": "My Moroccan Food (Nargisse Benkabbou), « Bastila – Traditional Moroccan Chicken Pie », 2015", "url": "https://www.mymoroccanfood.com/home/bastila-traditional-moroccan-pie-55677", "used_for": "Source marocaine (autrice élevée à Bruxelles dans une famille marocaine, livre « Casablanca », ancienne cheffe exécutive de L'Mida Marrakech, selon sa page À propos) : quantités pour 2 kg de poulet, réduction des oignons jusqu'à ce qu'il ne reste que l'huile, sucre et miel dans la sauce, grande version de 33 cm, pigeon traditionnel, variantes."},
+    {"name": "Cooking with Alia, « 062 – Moroccan Chicken Bastilla »", "url": "https://www.cookingwithalia.com/moroccan-chicken-bastilla/", "used_for": "Source marocaine (Alia partage « la cuisine marocaine avec laquelle elle a grandi ») : œufs cuits dans la sauce 10 à 15 min jusqu'à être secs, amandes frites mixées avec sucre glace, cannelle et eau de fleur d'oranger, feuilles rentrées sous le dessus, 350 °F (environ 177 °C) pendant 20 à 30 min."},
+    {"name": "Cooking with Alia, « Sweet Chicken-Almond Pastilla » (recette 695)", "url": "https://www.cookingwithalia.com/695-sweet-chicken-almond-pastilla/", "used_for": "Même autrice, comparaison : sucre dans la sauce, eau de fleur d'oranger, gomme arabique (variante), 190 °C pendant 30 à 40 min."},
+    {"name": "Femmes du Maroc, « Pastilla individuelle au poulet et aux amandes d'Amizmiz » (19 mai 2023, cuisinières de Maymana)", "url": "https://femmesdumaroc.com/plaisirs/food-drink/pastilla-individuelle-au-poulet-et-aux-amandes-damizmiz", "used_for": "Source marocaine : excédent de gras de la sauce mis de côté et mélangé au beurre fondu pour badigeonner, miel dans la sauce, amandes frites puis hachées avec cannelle et sucre, 180 °C, version individuelle."},
+    {"name": "Barlamane, « أسرار المائدة المغربية (4): البسطيلة » (2 mars 2026), avec Mariam Bensellham, experte en cuisine marocaine", "url": "https://barlamane.com/%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-4-%D8%A7%D9%84%D8%A8%D8%B3%D8%B7%D9%8A%D9%84%D8%A9-%D8%B7%D8%A8%D9%82/", "used_for": "Source marocaine pour les secrets : dagmira réduite « jusqu'à tenir dans son huile », amandes blanchies, frites en partant d'une huile froide, concassées et non moulues, parfumées à la cannelle, à l'eau de fleur d'oranger et au sucre glace, beurre fondu entre chaque couche ; plat des grands dîners et occasions spéciales."},
+    {"name": "La Cuisine Marocaine, « Pastilla au poulet »", "url": "https://www.la-cuisine-marocaine.com/recettes/volailles-10.html", "used_for": "1,5 kg de poulet pour 6 personnes, sauce réduite puis œufs, 8 œufs, 250 g d'amandes frites pilées avec le sucre, 12 feuilles, décor sucre glace et cannelle."},
+    {"name": "La Cuisine Marocaine, « Pastilla sucrée-salée au poulet »", "url": "https://www.la-cuisine-marocaine.com/recettes/volailles-363.html", "used_for": "Origine fassie au pigeon, mélange œufs-oignons égoutté dans une passoire, décor en croisillons de cannelle."},
+    {"name": "La Cuisine Marocaine, leçon « Comment plier la pastilla »", "url": "https://www.la-cuisine-marocaine.com/lecons-de-cuisine/comment-plier-pastilla/", "used_for": "12 à 15 feuilles, 2 à 3 feuilles au centre du fond, bords rentrés sous la pastilla, cuisson à 180 °C à mi-hauteur, retournement en variante."},
+    {"name": "La Cuisine Marocaine, page d'accueil", "url": "https://www.la-cuisine-marocaine.com/", "used_for": "Service : entrée des grands dîners et cérémonies (mariage), servie avant le tajine de poulet ou le méchoui."},
+    {"name": "Paula Wolfert, « Bastila of Fes with chicken or quail », extrait de The Food of Morocco publié par Food & Travel", "url": "https://foodandtravel.com/food/recipes/bastila-of-fes-with-chicken-or-quail", "used_for": "Référence anglophone : moule de 30 cm, œufs cuits dans la sauce réduite puis bien égouttés, amandes frites et moulues grossièrement avec sucre glace et cannelle, croisillons de cannelle, garnitures préparées la veille ; variante retournée à 220 °C."},
+    {"name": "Amour de cuisine (Soulef Zaoui, cuisine aux racines algériennes), « Pastilla marocaine au poulet et amandes »", "url": "https://www.amourdecuisine.fr/article-pastilla-marocaine-au-poulet-et-amandes-bastilla.html", "used_for": "Source indépendante non marocaine : farce épaisse sans liquide, amandes non réduites en poudre, feuilles couvertes, beurre généreux, garnitures jusqu'à 48 h à l'avance, grande pastilla de 26 à 28 cm à 180 °C pendant 25 à 35 min puis 10 min de repos, pas de micro-ondes."},
+    {"name": "Ma fleur d'oranger, « Pastilla traditionnelle au poulet et amandes »", "url": "https://mafleurdoranger.com/article-pastilla-traditionnelle-poulet-amandes-44796713/", "used_for": "Garniture froide sinon les feuilles se déchirent, œufs cuits dans les oignons jusqu'à évaporation, sucre et cannelle dans la sauce, 180 à 190 °C pendant 30 min, pigeon remplacé par le poulet pour raison de coût."},
+    {"name": "Taste of Maroc, « M'hammar in Moroccan Cooking » (Nada Kiffa, 2017)", "url": "https://tasteofmaroc.com/mhammar-moroccan-cooking/", "used_for": "La pastilla au pigeon est servie aux mariages juste avant le m'hammar de poulet."},
+    {"name": "Épices et douceurs (blog, 2007), « Pastilla de pigeons », recette attribuée à Fatéma Hal", "url": "https://douceursetepices.canalblog.com/archives/2007/11/30/7070472.html", "used_for": "Variante au pigeon (30 à 35 min à couvert), rosace de 6 feuilles qui débordent d'environ 10 cm et 2 feuilles à plat au fond."},
+    {"name": "Visit Morocco (Office national marocain du tourisme), « Moroccan Food & Drink »", "url": "https://www.visitmorocco.com/en/travel-info/food-drinks", "used_for": "Confirme que la pastilla se fait au poisson, au poulet, au pigeon ou aux amandes, dans un registre sucré-salé."},
+    {"name": "The Traveler's Lunchbox, « Salty, Sweet, Sublime: Bisteeya » (2006)", "url": "https://travelerslunchbox.com/2006/04/06/salty-sweet-sublime-bisteeya/", "used_for": "Comparaison seulement : adaptation de Paula Wolfert et Claudia Roden (bouillon, ail, piment, citron), non retenue."}
+  ],
+  "discrepancies": [
+    "Poulet : de 0,9 kg (Cooking with Alia) à 2 kg (My Moroccan Food, La Cuisine Marocaine) ; Paula Wolfert met 1,05 kg de hauts de cuisse pour un moule de 30 cm. Retenu : 1,6 kg, médiane des sources ramenées à 30 cm et 8 personnes.",
+    "Œufs : cuits dans la sauce réduite pour la majorité (Cooking with Alia, La Cuisine Marocaine, Ma fleur d'oranger, Amour de cuisine, Femmes du Maroc, Paula Wolfert) ; brouillés à part au beurre chez My Moroccan Food. Retenu : dans la sauce. Nombre : de 6 à 10 selon la taille ; retenu 8 (médiane).",
+    "Amandes : frites pour la majorité ; grillées au four chez My Moroccan Food (option chez Amour de cuisine). Retenu : frites. Quantité : 250 à 400 g ; retenu 350 g (médiane ramenée à 30 cm et 8 personnes).",
+    "Sucre des amandes : de 3 % à 40 % du poids d'amandes selon les sources ; retenu environ 12 % (médiane), soit le même rapport que Paula Wolfert (40 g pour 375 g).",
+    "Eau de fleur d'oranger : présente chez Cooking with Alia, Barlamane, Ma fleur d'oranger (facultative) et Épices et douceurs ; absente chez Paula Wolfert, My Moroccan Food, La Cuisine Marocaine et Femmes du Maroc (qui met du miel d'oranger). Retenue, comme demandé et appuyée par deux sources marocaines, à la dose médiane.",
+    "Sucre ou miel dans la sauce aux oignons : oui chez My Moroccan Food, Ma fleur d'oranger, La Cuisine Marocaine, Femmes du Maroc et Cooking with Alia (recette 695) ; non chez Cooking with Alia (recette 062), Amour de cuisine et Paula Wolfert. Retenu : oui, ajouté pendant la réduction comme chez My Moroccan Food, Ma fleur d'oranger et Femmes du Maroc.",
+    "Four : 180 °C pour la majorité (Cooking with Alia 062, Ma fleur d'oranger, Amour de cuisine, Femmes du Maroc, La Cuisine Marocaine) ; 190 à 220 °C chez Cooking with Alia 695, My Moroccan Food, La Cuisine Marocaine 363 et Paula Wolfert. Durée : 15 à 40 min ; retenu 30 min à 180 °C (médiane).",
+    "Feuilles : de 8 (Ma fleur d'oranger, La Cuisine Marocaine 363) à 12 à 15 (leçon de La Cuisine Marocaine) ; retenu 12 : 6 en rosace (Épices et douceurs, Paula Wolfert), 2 au fond, 4 sur le dessus (Cooking with Alia en met 3 à 4).",
+    "Ordre des couches : poulet, œufs, amandes chez Paula Wolfert, My Moroccan Food et Épices et douceurs ; œufs, poulet, amandes chez Cooking with Alia et Ma fleur d'oranger. Retenu : poulet en premier (majorité) ; la plupart des sources finissent par les amandes, juste sous les feuilles rabattues.",
+    "Feuilles entre les couches : oui chez Cooking with Alia, Ma fleur d'oranger et Épices et douceurs ; non chez My Moroccan Food, Femmes du Maroc et La Cuisine Marocaine. Retenu : sans, pour garder une recette simple.",
+    "Épices et herbes : curcuma présent chez Cooking with Alia, My Moroccan Food, Ma fleur d'oranger, Amour de cuisine et Paula Wolfert (un peu), absent chez La Cuisine Marocaine et Femmes du Maroc : retenu. Coriandre avec le persil chez My Moroccan Food, Femmes du Maroc, Paula Wolfert et Épices et douceurs : retenue. Écartés car minoritaires : ras el hanout (Femmes du Maroc), muscade (Paula Wolfert, Épices et douceurs), jus de citron (Paula Wolfert), ail et piment (The Traveler's Lunchbox).",
+    "Cuisson du poulet après l'avoir fait revenir : de 20 min (La Cuisine Marocaine, Ma fleur d'oranger) à 50 min (My Moroccan Food), 45 min chez Paula Wolfert. Retenu : 15 min puis 30 min (médiane), avec le repère de la viande qui se détache de l'os.",
+    "Peau du poulet : retirée avant la cuisson chez Femmes du Maroc, après chez My Moroccan Food et Paula Wolfert. Retenu : après.",
+    "Retourner la pastilla pendant la cuisson (Paula Wolfert ; La Cuisine Marocaine l'arrose de beurre dessus et dessous) : minoritaire, donné en variante.",
+    "Épices du poulet, sel, poivre et sucre : quantités calculées sur la médiane des sources par kilo de poulet ; le sel et le poivre restent « selon le goût » avec un repère."
+  ],
+  "unverified": [
+    "Choumicha (choumicha.ma) : la page « Pastilla au poulet et aux amandes » était inaccessible le 6 novembre 2026 (erreur HTTP 525) ; sa recette n'a pas été utilisée.",
+    "Christine Benlafquih (Taste of Maroc) : sa recette de bastilla au poulet n'est pas sur tasteofmaroc.com et la version de The Spruce Eats n'est pas accessible à l'outil ; non consultée.",
+    "Fatéma Hal : aucune recette lue en source directe ; la pastilla au pigeon « de Fatéma Hal » vient d'un blog de 2007 (Épices et douceurs), non comparée à ses livres.",
+    "Paula Wolfert : seul l'extrait de The Food of Morocco publié par Food & Travel a été lu ; la fiche Eat Your Books (erreur HTTP 429) et son livre Couscous and Other Good Food from Morocco n'ont pas été consultés.",
+    "Origine précise d'Alia (Cooking with Alia) : sa page À propos ne cite pas de ville ; « née à Rabat », lu dans un résumé de recherche, n'est pas confirmé.",
+    "La Cuisine Marocaine : site de recettes déposées par des internautes, sans éditeur nommé dans ses mentions légales ; l'auteur de chaque recette n'est pas identifiable.",
+    "Ma fleur d'oranger : l'autrice (Bouchra, d'après ses réseaux) n'indique pas son origine.",
+    "Temps de refroidissement des garnitures : aucune source ne le chiffre ; time.rest ne compte que les 10 min de repos avant découpe.",
+    "Usage fassi précis aux mariages : Taste of Maroc place la pastilla au pigeon avant le m'hammar de poulet, sans nommer de ville.",
+    "Histoire du plat (origine andalouse, mot venu de l'espagnol) avancée par Barlamane et Middle East Eye : non vérifiée, non utilisée.",
+    "Brochures PDF de l'Office national marocain du tourisme sur la pastilla au pigeon de Fès : illisibles par l'outil, non utilisées."
+  ]
+}
