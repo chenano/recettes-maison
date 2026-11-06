@@ -1,0 +1,120 @@
+{
+  "slug": "the-menthe",
+  "verdict": "conforme avec corrections",
+  "sources_ajoutees": [
+    {
+      "name": "Agence européenne des médicaments (EMA, HMPC), « European Union herbal monograph on Artemisia absinthium L., herba », EMA/HMPC/751490/2016, révision du 30 mai 2017 (corrigendum de mars 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+      "ce_qu_elle_confirme": "Absinthe (Artemisia absinthium) : la thuyone est réputée neurotoxique et stimule l'utérus ; usage déconseillé pendant la grossesse et l'allaitement ; usage non établi avant 18 ans ; contre-indiquée en cas d'allergie aux astéracées, d'obstruction des voies biliaires, de cholangite ou de maladie du foie ; dose adulte en tisane : 1 à 1,5 g par tasse de 150 ml, 2 à 3 g par jour ; apport de thuyone à garder sous 6 mg par jour."
+    },
+    {
+      "name": "Agence européenne des médicaments, page « Absinthii herba » (résumé pour le public)",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/absinthii-herba",
+      "ce_qu_elle_confirme": "Les préparations d'absinthe ne doivent être utilisées que chez l'adulte ; contre-indications : allergie aux astéracées, obstruction des voies biliaires, cholangite, maladie du foie."
+    },
+    {
+      "name": "Aujourd'hui le Maroc, « Thé : Source de plaisir et de convivialité sociale », octobre 2010",
+      "url": "https://aujourdhui.ma/culture/the-source-de-plaisir-et-de-convivialite-sociale-91932",
+      "ce_qu_elle_confirme": "Source marocaine : le thé, associé à la menthe ou à d'autres plantes, symbolise l'hospitalité ; servi bien chaud toute la journée ; offert à l'hôte pour lui souhaiter la bienvenue ; traditionnellement une affaire d'hommes, avec la nuance d'une habitante de Boujdour pour qui la mère le prépare aussi."
+    },
+    {
+      "name": "Al3omk (العمق), « الشاي الصحراوي… قواعد تحضير تختزل في جيمات ثلاث », 23 décembre 2016",
+      "url": "https://al3omk.com/70793.html",
+      "ce_qu_elle_confirme": "Thé sahraoui (sud du Maroc) : la mousse y est appelée « الكشكوشة » (kachkoucha), pas « rozza » ; on boit trois théières, la première forte, la deuxième modérée, la troisième douce : l'inverse du « chacun plus fort que le précédent » de Moroccan Zest, ce qui montre que l'ordre des trois verres dépend de la tradition."
+    },
+    {
+      "name": "Al3omk (العمق), reprise de l'article d'Al Jazeera « من الشاي إلى الأتاي.. كيف أبدع المغاربة مشروبهم السحري؟ »",
+      "url": "https://al3omk.com/442513.html",
+      "ce_qu_elle_confirme": "Confirme la reprise de l'article de Hend Aklaw par un site marocain : rinçage du thé contre l'amertume et la poussière, eau de rinçage versée dans un verre, préparateur appelé « مقيم », dégustation puis ajout de sucre, 3 ou 4 verres reversés, mousse sur environ un quart du verre."
+    }
+  ],
+  "corrections": [
+    {
+      "champ": "variants[0]",
+      "actuel": "Goût nettement plus amer ; Hespress rappelle que la plante est puissante (sa substance amère devient dangereuse concentrée en huile) — Hespress (dépêche Anadolu) ;",
+      "propose": "Goût nettement plus amer. Mets-en peu : l'absinthe contient de la thuyone, réputée neurotoxique ; l'Agence européenne des médicaments la réserve aux adultes et la déconseille pendant la grossesse et l'allaitement, ainsi qu'en cas de maladie du foie ou des voies biliaires ou d'allergie aux astéracées — Hespress (dépêche Anadolu) ; Agence européenne des médicaments ;",
+      "pourquoi": "Hespress écrit bien que le composé amer de la chiba devient une substance très dangereuse dans son extrait d'huile, mais l'explication est inexacte et la mise en garde utile manque. Selon l'EMA, le danger vient de la thuyone, réputée neurotoxique et stimulante pour l'utérus ; l'usage est déconseillé pendant la grossesse et l'allaitement, non établi avant 18 ans (réservé aux adultes) et contre-indiqué en cas d'allergie aux astéracées, d'obstruction biliaire, de cholangite ou de maladie du foie ; la dose adulte reste faible (1 à 1,5 g par tasse, 2 à 3 g par jour). Une variante proposée à boire doit le dire.",
+      "gravite": "majeure",
+      "sources": "EMA, monographie EMA/HMPC/751490/2016 (sections 4.3, 4.4, 4.6, 5.3) ; EMA, page « Absinthii herba » ; Hespress, Khawla Ahbibi (Anadolu), 27 novembre 2014"
+    },
+    {
+      "champ": "variants[3]",
+      "actuel": "pour leur effet réchauffant — Moroccan Zest.",
+      "propose": "réputées réchauffantes ; pour l'absinthe, mêmes précautions que pour la chiba — Moroccan Zest ; Agence européenne des médicaments.",
+      "pourquoi": "Moroccan Zest parle d'herbes connues pour leurs propriétés réchauffantes, c'est-à-dire d'une réputation, pas d'un effet démontré ; l'absinthe de cette variante appelle la même mise en garde que la chiba (EMA).",
+      "gravite": "mineure",
+      "sources": "Moroccan Zest (section « How to Flavor Moroccan Mint Tea? ») ; EMA, monographie EMA/HMPC/751490/2016"
+    },
+    {
+      "champ": "steps[7].text",
+      "actuel": "Cette mousse, la « rozza » (le turban), doit occuper environ un quart du verre.",
+      "propose": "Cette mousse doit occuper environ un quart du verre.",
+      "pourquoi": "La seule source du mot, la chronique de Najib Refaif (La Vie Éco), ne dit pas que la mousse s'appelle « rozza » : l'auteur précise que c'est lui qui ajoute, « pour faire mousser », que le verseur fait une rozza (un turban) avec l'écume, avant de qualifier ce folklore de fadaises. Aucune autre source ne donne ce nom ; le thé sahraoui appelle la mousse « الكشكوشة » (Al3omk). Le quart du verre est confirmé par Al Jazeera.",
+      "gravite": "mineure",
+      "sources": "La Vie Éco, Najib Refaif, 4 octobre 2010 ; Al Jazeera, Hend Aklaw ; Al3omk, 23 décembre 2016"
+    },
+    {
+      "champ": "secrets[5].text",
+      "actuel": "Cette mousse, la « rozza » (le turban), occupe environ un quart du verre.",
+      "propose": "Cette mousse occupe environ un quart du verre ; le chroniqueur marocain Najib Refaif la compare, en plaisantant, à une « rozza » (un turban).",
+      "pourquoi": "Même raison : « rozza » est une image de l'auteur, pas le nom attesté de la mousse.",
+      "gravite": "mineure",
+      "sources": "La Vie Éco, Najib Refaif, 4 octobre 2010 ; Al Jazeera, Hend Aklaw"
+    },
+    {
+      "champ": "secrets[5].source",
+      "actuel": "pour le mot « rozza »",
+      "propose": "pour l'image de la « rozza »",
+      "pourquoi": "Mise en accord de la source avec le texte corrigé.",
+      "gravite": "mineure",
+      "sources": "La Vie Éco, Najib Refaif, 4 octobre 2010"
+    },
+    {
+      "champ": "sources[7].used_for",
+      "actuel": "la mousse se dit « rozza » (un turban)",
+      "propose": "l'auteur ajoute, en précisant que c'est lui qui le dit « pour faire mousser », que le verseur fait une « rozza » (un turban) avec la mousse",
+      "pourquoi": "Le résumé de la source déforme ce qu'elle dit (voir steps[7].text).",
+      "gravite": "mineure",
+      "sources": "La Vie Éco, Najib Refaif, 4 octobre 2010"
+    },
+    {
+      "champ": "serving",
+      "actuel": "le proverbe dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort.",
+      "propose": "un dicton dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort ; il en existe une autre version, où le premier est amer comme la vie et le dernier apaisant comme la mort.",
+      "pourquoi": "Moroccan Zest donne bien cette version comme un dicton marocain, mais Wikipédia (d'après le Washington Post, 2014) cite l'inverse pour le premier et le dernier verre (amer comme la vie, apaisant comme la mort) ; aucune source marocaine primaire ne fixe une version. Présenter l'une comme « le proverbe » est trop affirmatif.",
+      "gravite": "mineure",
+      "sources": "Moroccan Zest (section « Moroccan Mint Tea Ceremony ») ; Wikipédia (en), « Maghrebi mint tea »"
+    }
+  ],
+  "verifie_sans_correction": [
+    "Noms : « أتاي بالنعناع » (Asharq) ; « atay » (Wikipédia) ; nanaa, la menthe verte (Wikipédia, Moroccan Zest) ; berrad et sinia (Morocco World News).",
+    "Premier jet gardé, infusé 1 min, appelé esprit ou essence du thé et reversé dans la théière : Cooking with Alia (« spirit of the tea », nom employé au Maroc selon elle), My Moroccan Food (« essence », à ne pas jeter), Royal Mansour (« premier essentiel retenu »), Morocco World News (spirit ou essence).",
+    "Deuxième eau, de rinçage, jetée et plus foncée : Cooking with Alia, My Moroccan Food, Royal Mansour ; rinçage contre l'amertume et la poussière : Al Jazeera (et sa reprise par Al3omk), Moroccan Zest.",
+    "Quantités : thé 1 c. à s. (Royal Mansour ; Moroccan Zest ; Bladi.net, bien remplie ; Cooking with Alia, 3 c. à c.) ; menthe 1 botte (Bladi.net ; Royal Mansour, 1 bouquet) ; sucre 3 c. à s. (My Moroccan Food, Cooking with Alia) ; premier jet et rinçage d'une demi-tasse, environ 120 ml (My Moroccan Food, Morocco World News).",
+    "Calculs refaits avec python3 : sucre de My Moroccan Food ramené à 720 ml = 5,66 c. à s. ; de Moroccan Zest = 3,04 c. à s. ; 720 ml pour 6 verres = 120 ml par verre, comme Moroccan Zest (473 ml pour 4 personnes, 118 ml chacune) ; eau à faire bouillir = 840 ml (120 + 120 + 600).",
+    "Menthe tassée, tiges pliées, entièrement sous l'eau sinon amertume : Moroccan Zest.",
+    "Théière aux trois quarts (Cooking with Alia) ; 2,5 cm de vide, soit un pouce (Moroccan Zest).",
+    "Montée lente à l'ébullition à feu doux ou moyen-doux, vapeur visible : My Moroccan Food, Cooking with Alia, Morocco World News ; ordre des étapes (premier jet, rinçage, menthe, sucre et premier jet reversé, eau, chauffe) identique à My Moroccan Food.",
+    "Allers-retours verre-théière 2 à 3 fois (Cooking with Alia) ; goûter puis ajouter du sucre, 3 ou 4 verres reversés (Al Jazeera).",
+    "Versé de haut, plus c'est haut plus ça mousse (Moroccan Zest, Cooking with Alia, Maroc.ma, La Vie Éco) ; mousse sur environ un quart du verre (Al Jazeera) ; servi très chaud (Royal Mansour, Aujourd'hui le Maroc) ; menthe fraîche dans le verre (My Moroccan Food).",
+    "Pain de sucre cassé au petit marteau (Maroc.ma, dépêche MAP) ou avec le fond d'un verre, préféré aux briques par les connaisseurs (Morocco World News) ; gunpowder (My Moroccan Food, Moroccan Zest, Morocco World News, Maroc.ma) ; chunmee à défaut (Cooking with Alia).",
+    "Préparé devant les invités, traditionnellement par le chef de famille, plus de verres que d'invités : Royal Mansour, Al Jazeera, Moroccan Zest, Aujourd'hui le Maroc ; boisson de l'hospitalité, à toute heure, première chose préparée pour accueillir : Moroccan Zest, Royal Mansour, My Moroccan Food, Aujourd'hui le Maroc ; boisson nationale : Royal Mansour.",
+    "Au moins trois verres, chacun plus fort que le précédent car les feuilles restent dans la théière : Moroccan Zest ; Wikipédia (le goût change d'un verre à l'autre).",
+    "Erreurs à éviter : toutes retrouvées (My Moroccan Food, Cooking with Alia, Moroccan Zest, Morocco World News, Al Jazeera), y compris « plus le thé bout, plus il est fort et chargé en caféine » (Moroccan Zest).",
+    "Variantes : chiba d'octobre à avril quand il fait froid et que la menthe est moins bonne, servie à part dans les cafés et ajoutée par le client (Hespress, Khawla Ahbibi, 27 novembre 2014) ; goût nettement amer (Wikipédia) ; zaatar en hiver (Hespress, Sara Ait Khorssa, 9 août 2014 ; Asharq) ; louiza (Al Jazeera, Morocco World News ; verveine chez My Moroccan Food et Moroccan Zest) ; eau de fleur d'oranger hors du feu (Moroccan Zest) et fleurs d'agrumes (Al Jazeera) ; géranium, thym sauvage, sauge (Morocco World News ; géranium chez My Moroccan Food) ; boutons de rose, verveine et cannelle pour fiançailles et mariages (Moroccan Zest).",
+    "Accompagnements : cornes de gazelle, ghriba, briouates aux amandes (My Moroccan Food) ; pain et olives, « lkhobz wa'tay » (La Vie Éco).",
+    "Sources : tous les liens répondent (code 200 ; Bladi.net redirige vers /recettes/the-a-la-menthe.html, Maroc.ma vers maroc.ma), sauf Morocco World News et les deux pages Hespress qui refusent curl (403) mais ont été lues avec WebFetch ; auteurs et dates conformes (My Moroccan Food 30 avril 2015 ; Moroccan Zest 29 mai 2018, mise à jour 7 août 2024 ; Royal Mansour 3 mai 2020 ; Al Jazeera mise à jour le 23 mai 2022 ; Morocco World News, Juliette Owen-Jones, 20 mai 2019 ; La Vie Éco 4 octobre 2010 ; Maroc.ma 28 janvier 2026 ; Asharq 6 mars 2024) ; la page de thé de Cooking with Alia, dite non datée, porte la date du 20 juillet 2016 dans ses métadonnées (sans incidence).",
+    "Rendu des quantités dans les étapes (logique fmtQ d'app.html reproduite) : « lave délicatement 1 botte de menthe », « Mets 1 c. à s. de thé vert … verse dessus 120 ml d'eau bouillante », « Verse 120 ml d'eau bouillante sur les feuilles », « ajoute 3 c. à s. de sucre », « complète avec 600 ml d'eau bouillante » : lecture correcte, aussi à demi-dose (½ botte) ; aucun {{id:full}} ; tous les id existent.",
+    "Minuteur de 1 min identique au texte ; durée totale de 15 min cohérente avec Moroccan Zest (moins de 10 min de cuisson).",
+    "Sécurité : en dehors de la chiba et de l'absinthe (corrigées), rien de dangereux ; la mise en garde sur la théière brûlante vient de Moroccan Zest."
+  ],
+  "non_verifiable": [
+    "« Rozza » comme nom courant de la mousse : aucune source ne le confirme ; La Vie Éco l'emploie comme une image de l'auteur ; Al3omk appelle la mousse du thé sahraoui « الكشكوشة » (kachkoucha), une seule source, sud du Maroc.",
+    "Dicton des trois verres : aucune source marocaine primaire ; deux versions contraires (Moroccan Zest ; Wikipédia d'après le Washington Post 2014, page non lue) ; dans le thé sahraoui, les trois théières vont de la plus forte à la plus douce (Al3omk).",
+    "Identité botanique de la chiba : Hespress la nomme « الأفسنتين » ou « شجر مريم », Wikipédia la traduit par absinthe arborescente (Artemisia arborescens) ; la monographie de l'EMA porte sur Artemisia absinthium ; la teneur en thuyone de l'absinthe arborescente n'a pas été vérifiée.",
+    "Menthe pouliot : la déclaration publique de l'EMA sur la pulégone (EMA/HMPC/138386/2005 Rev. 1) rappelle que l'huile de menthe pouliot servait autrefois à provoquer les règles et l'avortement, mais aucune recommandation officielle n'a été trouvée pour la feuille en infusion ; pas de correction proposée, une mise en garde pour la grossesse reste à décider.",
+    "Contenance d'un verre à thé marocain : non trouvée dans une source fiable ; les 6 verres reposent sur le calcul (120 ml par verre, comme Moroccan Zest).",
+    "Durées de 5 et 10 min : estimations, non chronométrées.",
+    "Alimentarium et Vikidia (« Thé de Guelmim »), qui citent aussi le dicton : refus 403, non lus."
+  ]
+}

@@ -34,56 +34,65 @@ window.RECETTES.push({
      "q": 450,
      "u": "g",
      "name": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
-     "note": "pas trop maigre : 15 à 20 % de matière grasse"
+     "note": "pas trop maigre : 15 à 20 % de matière grasse",
+     "canon": "boeuf-hache"
     },
     {
      "id": "oignon-kefta",
      "q": 1,
      "u": "",
      "name": "petit oignon, râpé",
-     "pl": "petits oignons, râpés"
+     "pl": "petits oignons, râpés",
+     "canon": "oignon"
     },
     {
      "id": "persil-kefta",
      "q": 3,
      "u": "c. à s.",
-     "name": "de persil plat haché"
+     "name": "de persil plat haché",
+     "canon": "persil"
     },
     {
      "id": "coriandre-kefta",
      "q": 3,
      "u": "c. à s.",
-     "name": "de coriandre fraîche hachée"
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
     },
     {
      "id": "paprika-kefta",
      "q": 1,
      "u": "c. à c.",
-     "name": "de paprika doux"
+     "name": "de paprika doux",
+     "canon": "paprika"
     },
     {
      "id": "cumin-kefta",
      "q": 1,
      "u": "c. à c.",
-     "name": "de cumin moulu"
+     "name": "de cumin moulu",
+     "canon": "cumin"
     },
     {
      "id": "sel-kefta",
      "q": 1,
      "u": "c. à c.",
-     "name": "de sel fin"
+     "name": "de sel fin",
+     "canon": "sel"
     },
     {
      "id": "poivre-kefta",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "piment-kefta",
      "q": 1,
      "u": "pincée",
-     "name": "de piment de Cayenne"
+     "name": "de piment de Cayenne",
+     "canon": "piment-cayenne"
     }
    ]
   },
@@ -94,78 +103,90 @@ window.RECETTES.push({
      "id": "tomates",
      "q": 1,
      "u": "kg",
-     "name": "de tomates fraîches bien mûres"
+     "name": "de tomates fraîches bien mûres",
+     "canon": "tomate"
     },
     {
      "id": "huile",
      "q": 3,
      "u": "c. à s.",
-     "name": "d'huile d'olive"
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
     },
     {
      "id": "oignon-sauce",
      "q": 1,
      "u": "",
      "name": "oignon moyen, haché finement",
-     "pl": "oignons moyens, hachés finement"
+     "pl": "oignons moyens, hachés finement",
+     "canon": "oignon"
     },
     {
      "id": "ail",
      "q": 4,
      "u": "",
      "name": "gousse d'ail, écrasée",
-     "pl": "gousses d'ail, écrasées"
+     "pl": "gousses d'ail, écrasées",
+     "canon": "ail"
     },
     {
      "id": "paprika-sauce",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de paprika doux"
+     "name": "de paprika doux",
+     "canon": "paprika"
     },
     {
      "id": "cumin-sauce",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de cumin moulu"
+     "name": "de cumin moulu",
+     "canon": "cumin"
     },
     {
      "id": "sel-sauce",
      "q": 1.5,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "à ajuster en goûtant"
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
     },
     {
      "id": "poivre-sauce",
      "q": 0.25,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "piment-sauce",
      "q": 1,
      "u": "pincée",
      "name": "de piment de Cayenne",
-     "note": "ou 2 petits piments forts entiers"
+     "note": "ou 2 petits piments forts entiers",
+     "canon": "piment-cayenne"
     },
     {
      "id": "persil-sauce",
      "q": 2,
      "u": "c. à s.",
-     "name": "de persil plat haché"
+     "name": "de persil plat haché",
+     "canon": "persil"
     },
     {
      "id": "coriandre-sauce",
      "q": 2,
      "u": "c. à s.",
-     "name": "de coriandre fraîche hachée"
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
     },
     {
      "id": "eau",
      "q": null,
      "u": "",
      "name": "eau",
-     "note": "seulement si la sauce attache"
+     "note": "seulement si la sauce attache",
+     "canon": "eau"
     }
    ]
   },
@@ -178,27 +199,31 @@ window.RECETTES.push({
      "u": "",
      "name": "œuf",
      "note": "fermiers (beldi) de préférence",
-     "pl": "œufs"
+     "pl": "œufs",
+     "canon": "oeuf"
     },
     {
      "id": "sel-oeufs",
      "q": null,
      "u": "",
      "name": "sel fin",
-     "note": "une petite pincée sur chaque œuf"
+     "note": "une petite pincée sur chaque œuf",
+     "canon": "sel"
     },
     {
      "id": "coriandre-deco",
      "q": 1,
      "u": "c. à c.",
-     "name": "de coriandre fraîche ciselée"
+     "name": "de coriandre fraîche ciselée",
+     "canon": "coriandre"
     },
     {
      "id": "khobz",
      "q": null,
      "u": "",
      "name": "khobz (pain marocain)",
-     "note": "à volonté, pour saucer"
+     "note": "à volonté, pour saucer",
+     "canon": "khobz"
     }
    ]
   }
@@ -479,6 +504,10 @@ window.RECETTES.push({
   "Graphie « bel bid » : reprise de la demande ; non vérifiée dans une source marocaine."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Tajines",
+ "pairs": [
+  "khobz"
+ ],
  "img": "img/kefta.jpg",
  "photo": {
   "author": "Mzximvs VdB from Brussels, belgium",

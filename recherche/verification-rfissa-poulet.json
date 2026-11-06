@@ -1,0 +1,96 @@
+{
+ "slug": "rfissa-poulet",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Morocco World News (Layla Dahamou), « Moroccan Cuisine: “Rfissa” Chicken Sauce », 4 mai 2012",
+   "url": "https://www.moroccoworldnews.com/2012/05/152601/moroccan-cuisine-rfissa-chicken-sauce/",
+   "ce_qu_elle_confirme": "Média marocain, non cité par l'auteur : la rfissa est préparée traditionnellement pour la femme qui vient d'accoucher et servie lors des visites entre femmes ; gros poulet, 4 oignons émincés, gingembre, curcuma, poivre, ras el hanout, ail, huile d'olive, ¼ de tasse de fenugrec, lentilles, 1,5 l d'eau ; servie sur du trid découpé."
+  },
+  {
+   "name": "Morocco World News (Safaa Kasraoui), « Moroccan Cuisine: Recipe for Rfissa, Savory Chicken With Lentils », 29 août 2020",
+   "url": "https://www.moroccoworldnews.com/2020/08/66905/moroccan-cuisine-recipe-for-rfissa-savory-chicken-with-lentils/",
+   "ce_qu_elle_confirme": "Recette pour 4 à 5 : poulet, 2 gros oignons, gingembre, curcuma, fenugrec (sans trempage), lentilles, smen, ail, persil, 1 l d'eau (autocuiseur 45 min) ; msemen coupés en morceaux et réchauffés à la vapeur ; poulet au centre, lentilles et ail posés à l'écumoire dessus et autour, puis la sauce."
+  },
+  {
+   "name": "Lalla Moulati, « الرفيسة التقليدية برستيج بالدجاج البلدي » (la rfissa traditionnelle au poulet beldi), 18 février 2022",
+   "url": "https://www.lalamoulati.net/312784.html",
+   "ce_qu_elle_confirme": "Deuxième recette marocaine en arabe : poulet beldi, oignon, safran, poivre noir, lentilles et fèves, huile d'olive, smen, coriandre et persil ; trid étiré jusqu'à être presque transparent puis cuit à la poêle sans huile ; dressage : trid en bouchées, poulet au centre, lentilles dessus et autour, le tout arrosé de bouillon."
+  },
+  {
+   "name": "Hibapress (édition française), « Dans une ambiance et des traditions marocaines.. Shorouk Al-Chalouti célèbre la « veille du Rafisa » pour célébrer sa naissance à Dubaï », 16 octobre 2024",
+   "url": "https://fr.hibapress.com/news-139880.html",
+   "ce_qu_elle_confirme": "Média marocain : la « 3chiya Rfissa » (soirée de la rfissa) fête la naissance d'un enfant après l'accouchement, dans le cadre de l'aqiqa : confirme les occasions naissance et baptême."
+  },
+  {
+   "name": "NCCIH (National Institutes of Health, États-Unis), « Fenugreek: Usefulness and Safety »",
+   "url": "https://www.nccih.nih.gov/health/fenugreek",
+   "ce_qu_elle_confirme": "Sécurité : le fenugrec est jugé sûr pour les adultes et les enfants aux quantités habituelles des aliments ; au-delà, il est déconseillé pendant la grossesse ; allergies possibles ; on sait peu de chose des fortes doses pendant l'allaitement. Les 3 c. à s. pour 6 de la recette sont une dose culinaire, et la recette n'avance aucun bienfait santé."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "mistakes[0]",
+   "actuel": "Mettre le fenugrec sans trempage : les graines restent plus dures et plus fortes.",
+   "propose": "Mettre le fenugrec sans trempage si tu le veux doux : les graines restent plus dures et plus fortes (Taste of Maroc). Le trempage n'est pas obligatoire pour autant : Choumicha, Lalla Moulati et Bladi.net s'en passent.",
+   "pourquoi": "Taste of Maroc dit que le trempage d'une nuit ramollit les graines et atténue leur force, mais précise dans sa recette de bormache qu'il n'est pas indispensable. Choumicha, Lalla Moulati, Bladi.net et Morocco World News (2012 et 2020) mettent le fenugrec sans trempage : le présenter comme une erreur contredit ces sources marocaines (la recette le reconnaît elle-même dans ses divergences).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, recette de rfissa (notes) et recette de bormache (note sur le fenugrec), copies archivées citées ; Choumicha, Lalla Moulati (57567), Bladi.net, Morocco World News 2012 et 2020"
+  },
+  {
+   "champ": "mistakes[3]",
+   "actuel": "Laisser un poulet standard dans la marmite pendant toute la cuisson des lentilles : il finit par se défaire.",
+   "propose": "Laisser un poulet standard dans la marmite une fois cuit, si les lentilles ne le sont pas encore : il finit par se défaire.",
+   "pourquoi": "Avec un poulet standard, la recette (étape 6, d'après Taste of Maroc) met les lentilles dès le début : poulet et lentilles cuisent donc ensemble. Taste of Maroc ne demande de sortir le poulet que s'il est cuit avant les lentilles, ce que dit aussi l'étape 7 ; la formulation actuelle contredit ces deux passages.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Chicken Rfissa » (copie archivée du 07/12/2025), méthode du poulet roumi et notes ; Taste of Maroc, bormache"
+  },
+  {
+   "champ": "steps[1].text",
+   "actuel": "Prépare {{msemen:full}} avec la recette du msemen de l'application, la veille ou pendant que le poulet mijote.",
+   "propose": "Prépare {{msemen:full}} avec la recette du msemen de l'application, sans la dernière étape au miel et au beurre, la veille ou pendant que le poulet mijote.",
+   "pourquoi": "La recette du msemen de l'application finit par l'étape « Miel, beurre et thé » (msemen trempés dans le miel et le beurre). Pour la rfissa, Taste of Maroc et Paula Wolfert déchirent les msemen nature, chauds, à la sortie de la poêle ; Taste of Maroc présente le trempage dans le miel et le beurre chauds comme la façon traditionnelle de servir les msemen eux-mêmes, au petit déjeuner ou au thé.",
+   "gravite": "mineure",
+   "sources": "recettes/msemen.js (dernière étape) ; Taste of Maroc, rfissa et « Msemen Recipe » (copies archivées citées) ; Paula Wolfert (Gourmet Traveller)"
+  },
+  {
+   "champ": "variants[1]",
+   "actuel": "MarocMama cite aussi la baguette déchirée.",
+   "propose": "MarocMama confirme aussi le pain déchiré, en réponse à une lectrice qui avait pris une baguette.",
+   "pourquoi": "Sur la page de MarocMama, c'est une lectrice qui parle de baguette déchirée ; l'auteure répond que le pain déchiré est une autre façon de faire ce plat.",
+   "gravite": "mineure",
+   "sources": "MarocMama, https://marocmama.com/the-mothers-meal-rfisa/ (commentaires)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 11 sources répondent (HTTP 200) le 6 novembre 2026 ; Taste of Maroc en direct refuse bien l'accès (erreur 403) et choumicha.ma est hors ligne (erreur 525) ; les copies archivées citées s'ouvrent et contiennent ce qui leur est attribué.",
+  "Choumicha, « Rfissa au poulet » (copie du 29/11/2023) : pour 4, poulet de 1,2 kg, 2 gros oignons émincés, 10 pistils de safran, 1 c. à c. de smen, 1 c. à c. de curcuma, 1 c. à c. bombée de gingembre, ½ c. à c. de poivre, bouquet persil-coriandre, 4 c. à s. d'huile, 1 l d'eau, 100 g de lentilles cuites à part (jusqu'à évaporation, puis 10 min avec une louche de sauce), 1 c. à c. de smen à la fin, pâte réchauffée au couscoussier, service très chaud, 1 c. à s. de fenugrec en sachet de mousseline pour les amateurs ; catégorie « Baptême » ; 45 min de cuisson, 1 h 30 au total. Pâte (copie du 11/12/2023) : 500 g de farine pour 4, feuilles cuites sans les durcir, émiettées ou découpées aux ciseaux. Exact.",
+  "Taste of Maroc (Christine Benlafquih, mise à jour du 17/03/2022, copie du 07/12/2025) : pour 6, gros poulet entier ou en quatre, 3 gros oignons, ½ tasse d'huile d'olive, 1½ c. à s. de gingembre, 1 c. à s. de ras el hanout (ou 1½ c. à s. de msakhen), 1½ c. à c. de curcuma, ½ tasse de lentilles vertes ou brunes, 4 c. à s. de fenugrec trempé la nuit (ou 1 à 2 h à l'eau bouillante), herbes hachées, 4½ tasses d'eau, 1½ c. à c. de smen à la fin en faisant tourner la marmite (son absence se remarque chez les connaisseurs) ; 15 à 20 min à couvert, puis 1 h + 1 h (beldi) ou 1 h (standard) ; vapeur 10 min ; 1 fournée et demie de msemen déchirés chauds ; bols de bouillon et fenugrec à part ; chacun mange de son côté ; troisième jour après la naissance ; variantes medhoussa, treda, msakhen, micro-ondes, four à 230 °C. Exact.",
+  "Taste of Maroc, bormache (copie du 07/12/2025) : version de Meknès de Jameela Khiyati (beaucoup d'ail, zaatar, fliou, merseta, cayenne, tomates, lentilles facultatives) ; fenugrec, safran, gingembre et ras el hanout comme épices habituelles ; poulet beldi conseillé (2 kg pour 6), poulet standard à retirer une fois cuit. Taste of Maroc, msemen (copie du 22/12/2025) : environ 20 msemen de 10 cm avec 3½ tasses de farine et ½ tasse de semoule. Exact.",
+  "Lalla Moulati (9/02/2017) : poulet beldi conseillé, 2 oignons hachés puis 4 émincés quand le poulet a pris couleur, ½ cuillère de safran ou de curcuma, 1 c. à c. de ras el hanout ou de msakhen, 4 à 6 gousses d'ail et une tête entière, 1 à 2 c. à s. de smen, ¼ de tasse de fenugrec non trempé, 2 tasses de lentilles, une tasse de fèves sèches en hiver, 2 l d'eau, au moins 1 h, bouillon à surveiller et à goûter ; dressage : bouillon sur les lanières, puis lentilles, oignons, fenugrec et ail. Exact. Elle permet de laisser la marinade hors du réfrigérateur par temps froid ; la variante de la recette, plus prudente, la garde au frais.",
+  "Barlamane (12/03/2026) : Hajja Fatima, « dada » (cuisinière de fêtes) à Casablanca : trid fin comme du papier et bien défait pour boire le bouillon sans devenir pâteux, poulet beldi pour son goût, bouillon « mdaghmar » obtenu en faisant fondre beaucoup d'oignons à feu très doux, fenugrec cuit dans une « kemmoussa » (petit sac de tissu), ras el hanout frais acheté chez un épicier de confiance, âme du plat ; Rachid Habbaba (chercheur en histoire, université Ibn Tofail, Kénitra) : lentilles et fenugrec, ajout marocain au tharid, en ont fait le plat de l'accouchée ; soirées de ramadan. Exact.",
+  "Le360, édition arabe (26/11/2025) : 2e meilleur plat de poulet du classement TasteAtlas de novembre 2025 ; poulet, oignons, lentilles, safran, gingembre, fenugrec, sur msemen ou trid ; servie aux naissances, surtout le troisième jour, et mangée en commun autour d'un grand plat. Exact.",
+  "Bladi.net, « Rfissa ou trid » : ½ c. à c. de gingembre et de ras el hanout, 1 verre à thé de lentilles, ½ verre à thé de fenugrec (au choix), ½ l d'eau, 1 h ; feuilles restées blanches et presque transparentes, émiettées, réchauffées au couscoussier ; poulet doré au four ; plat rond bien mouillé de sauce, servi bien chaud. Exact.",
+  "Paula Wolfert (Gourmet Traveller, 23/10/2012 ; 8 parts d'après les données de la page) : fenugrec trempé au moins 4 h à l'eau tiède, lentilles 30 min ; 300 g de lentilles, 5 gros oignons (1 râpé, 4 émincés), poulet de 1,8 kg, ½ c. à c. de ras el hanout sur le conseil de tante Aïcha de Beni Mellal ; 80 ml puis 3,75 l d'eau ; 10 + 25 + 20 à 25 min ; msemmen déchirés chauds puis 10 min à la vapeur ; lentilles à l'écumoire ; reste du bouillon à part. Exact.",
+  "MarocMama (Amanda Mouttaki, publiée le 09/03/2012, modifiée le 14/05/2019) : 6 à 10 msemen selon leur taille pour 6 à 8 ; on ne doit plus voir le plat sous les msemen ; plat qui doit rester bien arrosé ; lentilles brunes plutôt que corail (réponse de l'auteure à une lectrice). Exact.",
+  "Occasions (naissances, surtout le 3e jour ; baptêmes ; famille ; ramadan) : Le360, Taste of Maroc, Choumicha (catégorie « Baptême »), Barlamane ; recoupées en plus par Morocco World News 2012 (plat de l'accouchée) et Hibapress 2024 (« 3chiya Rfissa », aqiqa).",
+  "Nom arabe رفيسة بالدجاج : la forme « الرفيسة بالدجاج » figure dans un mot-clé de Lalla Moulati (« تحضير الرفيسة بالدجاج ») ; Choumicha écrit en mots-clés « rfissa be djaj », variante de la transcription « rfissa bel djaj ».",
+  "Proportions recalculées avec Python pour 6 (Choumicha × 1,5 ; Paula Wolfert × 0,75 ; Taste of Maroc tel quel) : oignons 3 (médiane 3), huile 6 c. à s. (médiane 6), curcuma 1½ c. à c. (médiane 1½), poivre ¾ c. à c. (médiane ¾), sel 1½ c. à c. (médiane 1½), fenugrec 3 c. à s. (médiane 3), lentilles 150 g (médiane 150 g), eau 1,5 l (médiane 1,5 l), smen final 1½ c. à c. (Taste of Maroc et Choumicha), gingembre 2 c. à c. (médiane 1,7), poulet 1,8 kg soit 300 g par personne (Choumicha 300 g, bormache 333 g, Wolfert 225 g).",
+  "Msemen : une fournée de l'application (12 msemen, 600 g de farine et de semoule), soit 100 g par personne contre 130 g (Taste of Maroc), 125 g (Choumicha) et 51 g (Wolfert) : 20 % sous la médiane en farine (750 g), mais 12 carrés de 18 cm couvrent plus de surface (3 888 cm²) que les 30 msemen de 10 cm de Taste of Maroc (3 000 cm²), et MarocMama en compte 6 à 10 pour 6 à 8. « Proche de la valeur du milieu » est défendable ; non corrigé.",
+  "Minuteurs et temps : 20 + 60 + 60 + 10 = 150 min = time.cook (poulet beldi, vapeur comprise) ; repos 360 min = trempage minimal du fenugrec (Taste of Maroc) ; chaque minuteur correspond au texte (20 min de sauce, 1 h pour le beldi, 1 h pour les lentilles, 10 min de vapeur), durées identiques à Taste of Maroc.",
+  "Texte une fois les {{id}} remplacés : lecture correcte pour 6 (« Mets 3 c. à s. de graines de fenugrec », « Prépare 12 msemen », « Émince finement 3 gros oignons », « mets 1,8 kg de poulet », « 1,5 l d'eau », « 1 pincée de safran émietté », « 1½ c. à c. de smen ») et pour les autres nombres de personnes (toujours au moins 2 msemen ; à 2 personnes, « 600 g de poulet, entier ou coupé en quatre » reste lisible, mais un poulet entier ne se divise pas : laissé tel quel, aucune source ne tranchant) ; chaque ingrédient de la liste sert dans une étape (le sel, sans quantité, sous la forme « un peu de sel » puis « rectifie le sel »).",
+  "Secrets 1 à 8 : chacun figure dans ses sources (Taste of Maroc, Paula Wolfert, Barlamane, Choumicha, MarocMama, Lalla Moulati) ; la kemmoussa, les oignons fondus et le ras el hanout frais sont bien de Hajja Fatima ; la phrase de tante Aïcha est bien chez Paula Wolfert.",
+  "Erreurs 2, 3 et 5 à 8 : conformes (MarocMama, Taste of Maroc, Paula Wolfert, Barlamane, Choumicha, Bladi.net).",
+  "Variantes 1 et 3 à 10 : conformes à leurs sources ; « feuilles cuites sans les colorer » est confirmé par Bladi.net (feuilles restées blanches, presque transparentes) ; Choumicha dit de les cuire sans les durcir.",
+  "Divergences : chiffres revérifiés (¼ de tasse = 4 c. à s. ; 4½ tasses ≈ 1,06 l ; 10 + 25 + 20 à 25 min chez Wolfert ; Choumicha 45 min de cuisson et 1 h 30 au total ; Taste of Maroc 1 h de préparation) : exactes.",
+  "Authenticité : poulet, oignons, lentilles, fenugrec, ras el hanout, safran, gingembre, curcuma, smen, msemen ou trid réchauffés à la vapeur, service en plat commun avec bouillon à part : tout est marocain et attesté par au moins deux sources marocaines indépendantes (Choumicha, Lalla Moulati, Barlamane, Le360, Bladi.net, Morocco World News).",
+  "Sécurité alimentaire : poulet mijoté au moins 1 h 20 (standard) à 2 h 20 (beldi) jusqu'à être bien tendre ; marinade proposée au réfrigérateur ; msemen congelés au-delà d'un jour (Taste of Maroc) ; dose de fenugrec culinaire (NCCIH) ; aucune affirmation santé dans la recette, les bienfaits du fenugrec restant classés comme croyance dans « unverified »."
+ ],
+ "non_verifiable": [
+  "Température à cœur du poulet : les tableaux officiels n'ont pas pu être ouverts (USDA FSIS et FoodSafety.gov : erreur 403 ; Santé Canada : échec de connexion ; LactMed sur ncbi.nlm.nih.gov : vérification reCAPTCHA, non contournée). Aucun critère chiffré n'est donc proposé ; les durées de la recette dépassent celles des sources.",
+  "Lalla Moulati rapporte l'intoxication de 11 personnes d'une même famille après une rfissa, dans la province de Settat (22/07/2024, https://www.lalamoulati.net/412421.html) ; la cause n'est pas publiée. La recette ne dit rien de la conservation des restes ; faute de source officielle accessible, aucune consigne n'est proposée.",
+  "Graphie exacte « rfissa bel djaj » : aucune page ouverte ne l'écrit ainsi (Choumicha : « rfissa be djaj »).",
+  "Bienfaits du fenugrec pour la jeune mère (montée de lait, accouchement), rapportés par Taste of Maroc et MarocMama (Morocco World News parle seulement d'un plat nourrissant pour l'accouchée) : non vérifiés médicalement ; le NCCIH dit seulement qu'on sait peu de chose des fortes doses pendant l'allaitement. La recette ne les reprend pas.",
+  "Fenugrec bouilli 5 min pour en retirer l'amertume (« unverified ») : toujours non vérifié ; Taste of Maroc (bormache) propose une autre méthode, faire frémir les graines 30 min à part et n'ajouter que le liquide."
+ ]
+}

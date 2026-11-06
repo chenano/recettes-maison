@@ -6,6 +6,7 @@ window.RECETTES.push({
   title: "Double cheeseburger smash",
   darija: "", arabic: "",
   tagline: "Des boules de bœuf écrasées très fines dans une poêle brûlante : une croûte bien grillée, du cheddar fondu, un pain moelleux. La vraie recette américaine, en version halal.",
+  rayon: "D'ailleurs",
   category: "Burger", occasion: "Repas rapide, entre amis", region: "États-Unis",
   servings: 2, servings_label: "burgers",
   time: { prep: 20, cook: 15, rest: 0 }, time_note: "Temps estimés à partir des étapes.",
@@ -42,25 +43,25 @@ window.RECETTES.push({
   ],
   ingredients: [
     { group: "Viande", items: [
-      { id: "boeuf", q: 320, u: "g", name: "de bœuf haché, environ 20 % de gras", note: "2 boules de 80 g par burger" } ] },
+      { id: "boeuf", canon: "boeuf-hache", q: 320, u: "g", name: "de bœuf haché, environ 20 % de gras", note: "2 boules de 80 g par burger" } ] },
     { group: "Pain et fromage", items: [
-      { id: "pains", q: 2, u: "", name: "pain à burger moelleux au sésame (ou brioché)", pl: "pains à burger moelleux au sésame (ou briochés)" },
-      { id: "cheddar", q: 4, u: "", name: "tranche de cheddar spécial burger (celui qui fond bien)", pl: "tranches de cheddar spécial burger (celui qui fond bien)" } ] },
+      { id: "pains", canon: "pain-burger", q: 2, u: "", name: "pain à burger moelleux au sésame (ou brioché)", pl: "pains à burger moelleux au sésame (ou briochés)" },
+      { id: "cheddar", canon: "cheddar", q: 4, u: "", name: "tranche de cheddar spécial burger (celui qui fond bien)", pl: "tranches de cheddar spécial burger (celui qui fond bien)" } ] },
     { group: "Légumes", items: [
-      { id: "oignon", q: 1, u: "", fixed: true, name: "oignon blanc", note: "2 rondelles fines par burger" },
-      { id: "salade", q: 1, u: "", fixed: true, name: "laitue iceberg, ou romaine", note: "1 feuille par burger" },
-      { id: "tomate", q: 1, u: "", round: "up", name: "tomate ronde, mûre mais bien ferme", pl: "tomates rondes, mûres mais bien fermes", note: "1 tranche par burger, 2 bonnes tranches par tomate" },
-      { id: "cornichons", q: 1, u: "", fixed: true, name: "bocal de cornichons", note: "pour la sauce et la garniture" } ] },
+      { id: "oignon", canon: "oignon", q: 1, u: "", fixed: true, name: "oignon blanc", note: "2 rondelles fines par burger" },
+      { id: "salade", canon: "laitue", q: 1, u: "", fixed: true, name: "laitue iceberg, ou romaine", note: "1 feuille par burger" },
+      { id: "tomate", canon: "tomate", q: 1, u: "", round: "up", name: "tomate ronde, mûre mais bien ferme", pl: "tomates rondes, mûres mais bien fermes", note: "1 tranche par burger, 2 bonnes tranches par tomate" },
+      { id: "cornichons", canon: "cornichons", q: 1, u: "", fixed: true, name: "bocal de cornichons", note: "pour la sauce et la garniture" } ] },
     { group: "Sauce", items: [
-      { id: "mayo", q: 2, u: "c. à s.", name: "de mayonnaise" },
-      { id: "ketchup", q: 1, u: "c. à s.", name: "de ketchup" },
-      { id: "moutarde", q: 0.5, u: "c. à c.", name: "de moutarde" },
-      { id: "corn-haches", q: 1, u: "c. à s.", name: "de cornichons hachés très fin" },
-      { id: "paprika", q: 0.25, u: "c. à c.", name: "de paprika doux" } ] },
+      { id: "mayo", canon: "mayonnaise", q: 2, u: "c. à s.", name: "de mayonnaise" },
+      { id: "ketchup", canon: "ketchup", q: 1, u: "c. à s.", name: "de ketchup" },
+      { id: "moutarde", canon: "moutarde", q: 0.5, u: "c. à c.", name: "de moutarde" },
+      { id: "corn-haches", canon: "cornichons", q: 1, u: "c. à s.", name: "de cornichons hachés très fin" },
+      { id: "paprika", canon: "paprika", q: 0.25, u: "c. à c.", name: "de paprika doux" } ] },
     { group: "Le reste", items: [
-      { id: "beurre", q: 10, u: "g", name: "de beurre, pour les pains" },
-      { id: "huile", q: null, u: "", name: "Un filet d'huile neutre (tournesol)" },
-      { id: "sel-poivre", q: null, u: "", name: "Sel fin et poivre noir du moulin" } ] }
+      { id: "beurre", canon: "beurre", q: 10, u: "g", name: "de beurre, pour les pains" },
+      { id: "huile", canon: "huile", q: null, u: "", name: "Un filet d'huile neutre (tournesol)" },
+      { id: "sel-poivre", canon: "poivre", q: null, u: "", name: "Sel fin et poivre noir du moulin" } ] }
   ],
   steps: [
     { phase: "Préparation", title: "La sauce", text: [

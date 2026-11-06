@@ -36,27 +36,31 @@ window.RECETTES.push({
      "q": 250,
      "u": "g",
      "name": "d'agneau ou de bœuf",
-     "note": "halal, coupé en dés d'environ 1 cm"
+     "note": "halal, coupé en dés d'environ 1 cm",
+     "canon": "agneau"
     },
     {
      "id": "huile",
      "q": 2,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou de tournesol"
+     "name": "d'huile d'olive ou de tournesol",
+     "canon": "huile-olive"
     },
     {
      "id": "smen",
      "q": 2,
      "u": "c. à c.",
      "name": "de smen (beurre rance marocain)",
-     "note": "facultatif, mais il apporte un goût particulier"
+     "note": "facultatif, mais il apporte un goût particulier",
+     "canon": "smen"
     },
     {
      "id": "oignon",
      "q": 1,
      "u": "",
      "name": "gros oignon",
-     "pl": "gros oignons"
+     "pl": "gros oignons",
+     "canon": "oignon"
     },
     {
      "id": "celeri",
@@ -64,86 +68,99 @@ window.RECETTES.push({
      "u": "",
      "name": "branche de céleri avec ses feuilles",
      "note": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
-     "pl": "branches de céleri avec leurs feuilles"
+     "pl": "branches de céleri avec leurs feuilles",
+     "canon": "celeri"
     },
     {
      "id": "persil",
      "q": 1,
      "u": "botte",
      "name": "de persil plat",
-     "note": "petite botte"
+     "note": "petite botte",
+     "canon": "persil"
     },
     {
      "id": "coriandre",
      "q": 1,
      "u": "botte",
      "name": "de coriandre fraîche",
-     "note": "petite botte"
+     "note": "petite botte",
+     "canon": "coriandre"
     },
     {
      "id": "pois-chiches",
      "q": 100,
      "u": "g",
      "name": "de pois chiches secs",
-     "note": "à faire tremper la veille"
+     "note": "à faire tremper la veille",
+     "canon": "pois-chiches"
     },
     {
      "id": "lentilles",
      "q": 100,
      "u": "g",
-     "name": "de lentilles vertes ou brunes"
+     "name": "de lentilles vertes ou brunes",
+     "canon": "lentilles"
     },
     {
      "id": "tomates",
      "q": 600,
      "u": "g",
-     "name": "de tomates bien mûres"
+     "name": "de tomates bien mûres",
+     "canon": "tomate"
     },
     {
      "id": "concentre",
      "q": 1,
      "u": "c. à s.",
      "name": "de concentré de tomate",
-     "note": "bombée"
+     "note": "bombée",
+     "canon": "concentre-tomate"
     },
     {
      "id": "gingembre",
      "q": 1,
      "u": "c. à c.",
      "name": "de gingembre en poudre",
-     "note": "pas de gingembre frais"
+     "note": "pas de gingembre frais",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "poivre",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "cannelle",
      "q": 1,
      "u": "pincée",
      "name": "de cannelle en poudre",
-     "note": "facultatif"
+     "note": "facultatif",
+     "canon": "cannelle"
     },
     {
      "id": "sel",
      "q": 2,
      "u": "c. à c.",
      "name": "de sel",
-     "note": "à rectifier en fin de cuisson"
+     "note": "à rectifier en fin de cuisson",
+     "canon": "sel"
     },
     {
      "id": "eau",
      "q": 2,
      "u": "l",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     }
    ]
   },
@@ -155,20 +172,23 @@ window.RECETTES.push({
      "q": 80,
      "u": "g",
      "name": "de farine blanche",
-     "note": "pas de farine complète"
+     "note": "pas de farine complète",
+     "canon": "farine"
     },
     {
      "id": "eau-tadouira",
      "q": 200,
      "u": "ml",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     },
     {
      "id": "concentre-tadouira",
      "q": 1,
      "u": "c. à s.",
      "name": "de concentré de tomate",
-     "note": "bombée"
+     "note": "bombée",
+     "canon": "concentre-tomate"
     }
    ]
   },
@@ -180,21 +200,24 @@ window.RECETTES.push({
      "q": 35,
      "u": "g",
      "name": "de vermicelles fins",
-     "note": "ou de spaghettis fins cassés"
+     "note": "ou de spaghettis fins cassés",
+     "canon": "vermicelles"
     },
     {
      "id": "coriandre-fin",
      "q": 2,
      "u": "c. à s.",
      "name": "de coriandre hachée",
-     "note": "à prélever sur la botte"
+     "note": "à prélever sur la botte",
+     "canon": "coriandre"
     },
     {
      "id": "citron",
      "q": 1,
      "u": "",
      "name": "citron, en quartiers",
-     "pl": "citrons, en quartiers"
+     "pl": "citrons, en quartiers",
+     "canon": "citron"
     }
    ]
   }
@@ -514,6 +537,11 @@ window.RECETTES.push({
   "« Bab Al Mansour », cité dans l'article de Choumicha (Gulf News) : non identifié."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Soupes",
+ "pairs": [
+  "msemen",
+  "khobz"
+ ],
  "img": "img/harira.jpg",
  "photo": {
   "author": "Atiqa ezahiri",

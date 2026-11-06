@@ -1,4 +1,775 @@
-/* Fichier généré par build.sh : modifier plutôt recettes/*.js */
+/* Fichier généré par build.sh : modifier plutôt recettes/*.js et img/ing/banque.json */
+window.INGREDIENTS = {
+ "agneau": {
+  "title": "Mutton chop.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mutton_chop.jpg",
+  "author": "Tvabutzku1234",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Agneau",
+  "aisle": "Boucherie et volaille",
+  "file": "agneau.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "ail": {
+  "title": "Garlic bulbs and cloves.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+  "author": "Ivar Leidus",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Ail",
+  "aisle": "Fruits et légumes",
+  "file": "ail.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "amandes": {
+  "title": "Blanched almonds.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Blanched_almonds.jpg",
+  "author": "Nadiatalent",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Amandes",
+  "aisle": "Épicerie",
+  "file": "amandes.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "anis": {
+  "title": "Aniseeds.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aniseeds.jpg",
+  "author": "Challiyan",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Anis vert",
+  "aisle": "Épices",
+  "file": "anis.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "aubergine": {
+  "title": "Solanum melongena 24 08 2012 (1).JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
+  "author": "Joydeep",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Aubergine",
+  "aisle": "Fruits et légumes",
+  "file": "aubergine.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "beurre": {
+  "title": "2023 Masło w maselniczce.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2023_Mas%C5%82o_w_maselniczce.jpg",
+  "author": "Jacek Halicki",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Beurre",
+  "aisle": "Crèmerie et œufs",
+  "file": "beurre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "boeuf": {
+  "title": "Standing-rib-roast.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Standing-rib-roast.jpg",
+  "author": "Michael C. Berch, aka MCB at en.wikipedia",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "label": "Bœuf",
+  "aisle": "Boucherie et volaille",
+  "file": "boeuf.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "boeuf-hache": {
+  "title": "Hackfleisch-1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hackfleisch-1.jpg",
+  "author": "Rainer Zenz",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Viande hachée",
+  "aisle": "Boucherie et volaille",
+  "file": "boeuf-hache.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "bouillon": {
+  "label": "Bouillon de la marmite",
+  "aisle": "",
+  "skip": true
+ },
+ "cannelle": {
+  "title": "Cinnamomum verum spices.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_spices.jpg",
+  "author": "Simon A. Eugster",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Cannelle",
+  "aisle": "Épices",
+  "file": "cannelle.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "carotte": {
+  "title": "Carrots on Display.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Carrots_on_Display.jpg",
+  "author": "MarkBuckawicki",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Carotte",
+  "aisle": "Fruits et légumes",
+  "file": "carotte.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "celeri": {
+  "title": "Celery 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Celery_1.jpg",
+  "author": "Lombroso",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Céleri",
+  "aisle": "Fruits et légumes",
+  "file": "celeri.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "cheddar": {
+  "title": "White cheddar cheese sliced CNE.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:White_cheddar_cheese_sliced_CNE.jpg",
+  "author": "CNEcija12345",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Cheddar",
+  "aisle": "Crèmerie et œufs",
+  "file": "cheddar.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "chou": {
+  "title": "Chou cabus blanc 01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chou_cabus_blanc_01.jpg",
+  "author": "Coyau",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Chou",
+  "aisle": "Fruits et légumes",
+  "file": "chou.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "citron": {
+  "title": "Lemon.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lemon.jpg",
+  "author": "André Karwath aka Aka",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "label": "Citron",
+  "aisle": "Fruits et légumes",
+  "file": "citron.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "citron-confit": {
+  "title": "Preserved lemon in a clip top jar, 4 years old.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Preserved_lemon_in_a_clip_top_jar,_4_years_old.jpg",
+  "author": "Michal Klajban",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Citron confit",
+  "aisle": "Épicerie",
+  "file": "citron-confit.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "concentre-tomate": {
+  "title": "Tomato paste on spoon.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tomato_paste_on_spoon.jpg",
+  "author": "SKopp",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Concentré de tomate",
+  "aisle": "Épicerie",
+  "file": "concentre-tomate.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "confiture": {
+  "title": "A jar of her own (6028540280).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:A_jar_of_her_own_(6028540280).jpg",
+  "author": "Leslie Seaton from Seattle, WA, USA",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Confiture",
+  "aisle": "Épicerie",
+  "file": "confiture.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "coriandre": {
+  "title": "Coriander Leaves.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Coriander_Leaves.jpg",
+  "author": "Rupeshm364",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Coriandre",
+  "aisle": "Herbes fraîches",
+  "file": "coriandre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "cornichons": {
+  "title": "Polish style pickled cucumbers IMGP0529.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Polish_style_pickled_cucumbers_IMGP0529.jpg",
+  "author": "Nikodem Nijaki",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Cornichons",
+  "aisle": "Épicerie",
+  "file": "cornichons.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "courge": {
+  "title": "Cucurbita pepo 2016 G1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_2016_G1.jpg",
+  "author": "George Chernilevsky",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Courge",
+  "aisle": "Fruits et légumes",
+  "file": "courge.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "courgette": {
+  "title": "CSA-Striped-Zucchini.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CSA-Striped-Zucchini.jpg",
+  "author": "Evan-Amos",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Courgette",
+  "aisle": "Fruits et légumes",
+  "file": "courgette.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "couscous": {
+  "title": "Liat Portal for Foodie Disorder - Couscous (Prepared).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Couscous_(Prepared).jpg",
+  "author": "HaJunkiyada",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Couscous",
+  "aisle": "Épicerie",
+  "file": "couscous.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "cumin": {
+  "title": "Cumin Seeds.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cumin_Seeds.jpg",
+  "author": "Sugeesh",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Cumin",
+  "aisle": "Épices",
+  "file": "cumin.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "curcuma": {
+  "title": "Curcuma longa roots.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Curcuma_longa_roots.jpg",
+  "author": "Simon A. Eugster",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Curcuma",
+  "aisle": "Épices",
+  "file": "curcuma.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "eau": {
+  "title": "Clean water for a village in West Lombok (10686572086).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Clean_water_for_a_village_in_West_Lombok_(10686572086).jpg",
+  "author": "Josh Estey/AusAID",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Eau",
+  "aisle": "",
+  "file": "eau.jpg",
+  "modified": "recadrée en carré et réduite",
+  "skip": true
+ },
+ "farine": {
+  "title": "All-Purpose Flour (4107895947).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:All-Purpose_Flour_(4107895947).jpg",
+  "author": "Veganbaking.net from USA",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "label": "Farine",
+  "aisle": "Épicerie",
+  "file": "farine.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "fenugrec": {
+  "title": "Fenugreek seeds(মেথি).JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Fenugreek_seeds(%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%BF).JPG",
+  "author": "Atudu",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Fenugrec",
+  "aisle": "Épices",
+  "file": "fenugrec.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "fleur-oranger": {
+  "title": "OrangeBloss wb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:OrangeBloss_wb.jpg",
+  "author": "Ellen Levy Finch (Elf)",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Fleur d'oranger",
+  "aisle": "Épicerie",
+  "file": "fleur-oranger.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "gingembre": {
+  "title": "Ginger powder (1).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_powder_(1).jpg",
+  "author": "Fumikas Sagisavas",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Gingembre moulu",
+  "aisle": "Épices",
+  "file": "gingembre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "huile": {
+  "title": "Sunflower oil and sunflower.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunflower_oil_and_sunflower.jpg",
+  "author": "torange.biz",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Huile",
+  "aisle": "Épicerie",
+  "file": "huile.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "huile-olive": {
+  "title": "Oliven V1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Oliven_V1.jpg",
+  "author": "Poyraz 72",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Huile d'olive",
+  "aisle": "Épicerie",
+  "file": "huile-olive.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "jben": {
+  "title": "Ary-jben makêye Rif coirbeye.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Ary-jben_mak%C3%AAye_Rif_coirbeye.JPG",
+  "author": "Lucyin",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Jben",
+  "aisle": "Crèmerie et œufs",
+  "file": "jben.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "ketchup": {
+  "title": "Ketchup 20160918 181342 (cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ketchup_20160918_181342_(cropped).jpg",
+  "author": "Kim Holger Kelting",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Ketchup",
+  "aisle": "Épicerie",
+  "file": "ketchup.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "khobz": {
+  "title": "Chefchaouen, Morocco (5410213344).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen,_Morocco_(5410213344).jpg",
+  "author": "YoTuT from United States",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Khobz",
+  "aisle": "Boulangerie",
+  "file": "khobz.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "lait": {
+  "title": "Glass of Milk (33657535532).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg",
+  "author": "NIAID",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Lait",
+  "aisle": "Crèmerie et œufs",
+  "file": "lait.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "laitue": {
+  "title": "Iceberg lettuce in Poplar Farmhouse (87696).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_in_Poplar_Farmhouse_(87696).jpg",
+  "author": "Zolfeqar Fatihzadeh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Laitue",
+  "aisle": "Fruits et légumes",
+  "file": "laitue.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "lentilles": {
+  "title": "Green lentils.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_lentils.jpg",
+  "author": "Tiia Monto",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Lentilles",
+  "aisle": "Épicerie",
+  "file": "lentilles.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "levure-boulangere": {
+  "title": "Fresh yeast.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fresh_yeast.jpg",
+  "author": "ElinorD",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Levure de boulanger",
+  "aisle": "Épicerie",
+  "file": "levure-boulangere.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "levure-chimique": {
+  "title": "Backpulver RZ.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Backpulver_RZ.jpg",
+  "author": "Rainer Z ...",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Levure chimique",
+  "aisle": "Épicerie",
+  "file": "levure-chimique.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "mayonnaise": {
+  "title": "Mayonnaise (1).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mayonnaise_(1).jpg",
+  "author": "jules",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Mayonnaise",
+  "aisle": "Épicerie",
+  "file": "mayonnaise.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "menthe": {
+  "title": "Liat Portal for Foodie Disorder - Fresh Mint from San Francisco Farmers Market.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Fresh_Mint_from_San_Francisco_Farmers_Market.jpg",
+  "author": "HaJunkiyada",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Menthe",
+  "aisle": "Herbes fraîches",
+  "file": "menthe.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "miel": {
+  "title": "Runny hunny.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg",
+  "author": "Scott Bauer, USDA ARS",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Miel",
+  "aisle": "Épicerie",
+  "file": "miel.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "moutarde": {
+  "title": "Mustard.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Mustard.JPG",
+  "author": "fuji01",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Moutarde",
+  "aisle": "Épicerie",
+  "file": "moutarde.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "msemen": {
+  "title": "Msemmen.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Msemmen.jpg",
+  "author": "Popo le Chien",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Msemen",
+  "aisle": "Boulangerie",
+  "file": "msemen.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "navet": {
+  "title": "Turnip 2622027.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Turnip_2622027.jpg",
+  "author": "thebittenword.com",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Navet",
+  "aisle": "Fruits et légumes",
+  "file": "navet.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "nigelle": {
+  "title": "Nigella Sativa Seed.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nigella_Sativa_Seed.jpg",
+  "author": "TheGoblin~commonswiki",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Nigelle",
+  "aisle": "Épices",
+  "file": "nigelle.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "oeuf": {
+  "title": "Eggs in basket 2020 G1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Eggs_in_basket_2020_G1.jpg",
+  "author": "George Chernilevsky",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Œufs",
+  "aisle": "Crèmerie et œufs",
+  "file": "oeuf.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "oignon": {
+  "title": "Onion on White.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Onion_on_White.JPG",
+  "author": "Colin",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Oignon",
+  "aisle": "Fruits et légumes",
+  "file": "oignon.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "olives": {
+  "title": "Recently harvested olives at Olivais de Quelemém, Brazil.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Recently_harvested_olives_at_Olivais_de_Quelem%C3%A9m,_Brazil.jpg",
+  "author": "Py4nf",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Olives",
+  "aisle": "Épicerie",
+  "file": "olives.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "pain-burger": {
+  "title": "Sesame seed hamburger buns.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sesame_seed_hamburger_buns.jpg",
+  "author": "jeffreyw",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Pain à burger",
+  "aisle": "Boulangerie",
+  "file": "pain-burger.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "paprika": {
+  "title": "Aleva paprika.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aleva_paprika.jpg",
+  "author": "Ljiljana Sundać",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Paprika",
+  "aisle": "Épices",
+  "file": "paprika.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "persil": {
+  "title": "Petroselinum crispum 003.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Petroselinum_crispum_003.JPG",
+  "author": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Persil plat",
+  "aisle": "Herbes fraîches",
+  "file": "persil.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "piment-cayenne": {
+  "title": "Dried Red Pepper.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_Red_Pepper.jpg",
+  "author": "Ricki Vic",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Piment fort",
+  "aisle": "Épices",
+  "file": "piment-cayenne.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "piment-vert": {
+  "title": "Green chili peppers.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_chili_peppers.jpg",
+  "author": "Shalu Sharma",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Piment vert",
+  "aisle": "Fruits et légumes",
+  "file": "piment-vert.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "pois-chiches": {
+  "title": "Ordinary chickpeas in a ceramic bowl.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ordinary_chickpeas_in_a_ceramic_bowl.jpg",
+  "author": "AlixSaz",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Pois chiches",
+  "aisle": "Épicerie",
+  "file": "pois-chiches.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "poivre": {
+  "title": "Tellicherry Black Peppercorns.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tellicherry_Black_Peppercorns.jpg",
+  "author": "Misterneedlemouse",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Poivre noir",
+  "aisle": "Épices",
+  "file": "poivre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "poulet": {
+  "title": "Carne de pollo cortada a trozos.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Carne_de_pollo_cortada_a_trozos.jpg",
+  "author": "Juan Emilio Prades Bel",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Poulet",
+  "aisle": "Boucherie et volaille",
+  "file": "poulet.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "pruneaux": {
+  "title": "Rosales - Dried Prunus domestica d.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rosales_-_Dried_Prunus_domestica_d.jpg",
+  "author": "Emőke Dénes",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Pruneaux",
+  "aisle": "Épicerie",
+  "file": "pruneaux.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "ras-el-hanout": {
+  "title": "Ras.el.hanout.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ras.el.hanout.jpg",
+  "author": "Sarefo",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Ras el hanout",
+  "aisle": "Épices",
+  "file": "ras-el-hanout.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "safran": {
+  "title": "Saffron - premium spice.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Saffron_-_premium_spice.jpg",
+  "author": "Shaharbano",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Safran",
+  "aisle": "Épices",
+  "file": "safran.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "sel": {
+  "title": "Table salt with salt shaker V1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Table_salt_with_salt_shaker_V1.jpg",
+  "author": "Poyraz 72",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Sel",
+  "aisle": "Épicerie",
+  "file": "sel.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "semoule": {
+  "title": "Sa semolina far.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sa_semolina_far.jpg",
+  "author": "Sanjay ach",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Semoule",
+  "aisle": "Épicerie",
+  "file": "semoule.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "sesame": {
+  "title": "Sa white sesame seeds.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sa_white_sesame_seeds.jpg",
+  "author": "Sanjay ach",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Sésame",
+  "aisle": "Épicerie",
+  "file": "sesame.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "smen": {
+  "title": "Smen msemmen.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Smen_msemmen.jpg",
+  "author": "Lucyin",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Smen",
+  "aisle": "Crèmerie et œufs",
+  "file": "smen.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "sucre": {
+  "title": "Sugar on a blue plate (close up).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sugar_on_a_blue_plate_(close_up).jpg",
+  "author": "Lcarsdata",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Sucre",
+  "aisle": "Épicerie",
+  "file": "sucre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "sucre-glace": {
+  "title": "Powdered Sugar - Macro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Powdered_Sugar_-_Macro.jpg",
+  "author": "Atm100",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Sucre glace",
+  "aisle": "Épicerie",
+  "file": "sucre-glace.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "the-vert": {
+  "title": "Grüner Tee Gunpowder.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Tee_Gunpowder.jpg",
+  "author": "soultea.de/André Helbig",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Thé vert",
+  "aisle": "Épicerie",
+  "file": "the-vert.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "tomate": {
+  "title": "Tomato je.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+  "author": "Softeis",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Tomate",
+  "aisle": "Fruits et légumes",
+  "file": "tomate.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "vermicelles": {
+  "title": "Fideo (coiled vermicelli).JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Fideo_(coiled_vermicelli).JPG",
+  "author": "Glane23",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Vermicelles",
+  "aisle": "Épicerie",
+  "file": "vermicelles.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "warqa": {
+  "label": "Feuilles de brick",
+  "aisle": "Épicerie"
+ }
+};
 /* Recette : Couscous aux sept légumes. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -35,84 +806,97 @@ window.RECETTES.push({
      "id": "viande",
      "q": 1,
      "u": "kg",
-     "name": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux"
+     "name": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux",
+     "canon": "agneau"
     },
     {
      "id": "huile",
      "q": 4,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou d'huile neutre"
+     "name": "d'huile d'olive ou d'huile neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "oignon",
      "q": 1,
      "u": "",
      "name": "gros oignon (environ 200 g)",
-     "pl": "gros oignons (environ 200 g chacun)"
+     "pl": "gros oignons (environ 200 g chacun)",
+     "canon": "oignon"
     },
     {
      "id": "tomates-rapees",
      "q": 2,
      "u": "",
      "name": "tomate mûre",
-     "pl": "tomates mûres"
+     "pl": "tomates mûres",
+     "canon": "tomate"
     },
     {
      "id": "gingembre",
      "q": 2,
      "u": "c. à c.",
-     "name": "de gingembre moulu"
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 1,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "poivre",
      "q": 1,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "sel",
      "q": 1,
      "u": "c. à s.",
      "name": "de sel",
-     "note": "goûte et rectifie en fin de cuisson"
+     "note": "goûte et rectifie en fin de cuisson",
+     "canon": "sel"
     },
     {
      "id": "safran",
      "q": 1,
      "u": "pincée",
      "name": "de safran en filaments",
-     "note": "facultatif"
+     "note": "facultatif",
+     "canon": "safran"
     },
     {
      "id": "persil",
      "q": 0.5,
      "u": "botte",
-     "name": "de persil plat"
+     "name": "de persil plat",
+     "canon": "persil"
     },
     {
      "id": "coriandre",
      "q": 0.5,
      "u": "botte",
-     "name": "de coriandre fraîche"
+     "name": "de coriandre fraîche",
+     "canon": "coriandre"
     },
     {
      "id": "pois-chiches",
      "q": 100,
      "u": "g",
      "name": "de pois chiches secs",
-     "note": "à faire tremper la veille"
+     "note": "à faire tremper la veille",
+     "canon": "pois-chiches"
     },
     {
      "id": "eau",
      "q": 2.5,
      "u": "l",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     }
    ]
   },
@@ -123,45 +907,52 @@ window.RECETTES.push({
      "id": "chou",
      "q": 500,
      "u": "g",
-     "name": "de chou pommé (blanc ou vert)"
+     "name": "de chou pommé (blanc ou vert)",
+     "canon": "chou"
     },
     {
      "id": "petits-oignons",
      "q": 2,
      "u": "",
      "name": "petit oignon",
-     "pl": "petits oignons"
+     "pl": "petits oignons",
+     "canon": "oignon"
     },
     {
      "id": "tomates-quartiers",
      "q": 2,
      "u": "",
      "name": "petite tomate",
-     "pl": "petites tomates"
+     "pl": "petites tomates",
+     "canon": "tomate"
     },
     {
      "id": "carottes",
      "q": 500,
      "u": "g",
-     "name": "de carottes"
+     "name": "de carottes",
+     "canon": "carotte"
     },
     {
      "id": "navets",
      "q": 400,
      "u": "g",
-     "name": "de navets moyens"
+     "name": "de navets moyens",
+     "canon": "navet"
     },
     {
      "id": "courge",
      "q": 500,
      "u": "g",
-     "name": "de courge rouge (potiron)"
+     "name": "de courge rouge (potiron)",
+     "canon": "courge"
     },
     {
      "id": "courgettes",
      "q": 400,
      "u": "g",
-     "name": "de petites courgettes"
+     "name": "de petites courgettes",
+     "canon": "courgette"
     },
     {
      "id": "piments",
@@ -169,7 +960,8 @@ window.RECETTES.push({
      "u": "",
      "name": "piment vert",
      "note": "facultatif",
-     "pl": "piments verts"
+     "pl": "piments verts",
+     "canon": "piment-vert"
     }
    ]
   },
@@ -181,38 +973,44 @@ window.RECETTES.push({
      "q": 750,
      "u": "g",
      "name": "de couscous de blé dur, grain moyen",
-     "note": "pas de couscous instantané"
+     "note": "pas de couscous instantané",
+     "canon": "couscous"
     },
     {
      "id": "huile-graine",
      "q": 3,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou d'huile neutre"
+     "name": "d'huile d'olive ou d'huile neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "eau-1",
      "q": 180,
      "u": "ml",
-     "name": "d'eau froide (1er roulage)"
+     "name": "d'eau froide (1er roulage)",
+     "canon": "eau"
     },
     {
      "id": "eau-2",
      "q": 350,
      "u": "ml",
-     "name": "d'eau (2e roulage)"
+     "name": "d'eau (2e roulage)",
+     "canon": "eau"
     },
     {
      "id": "sel-graine",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de sel fin"
+     "name": "de sel fin",
+     "canon": "sel"
     },
     {
      "id": "eau-3",
      "q": 500,
      "u": "ml",
      "name": "d'eau au maximum (3e roulage)",
-     "note": "n'en verse que ce qu'il faut"
+     "note": "n'en verse que ce qu'il faut",
+     "canon": "eau"
     }
    ]
   },
@@ -223,20 +1021,23 @@ window.RECETTES.push({
      "id": "beurre",
      "q": 30,
      "u": "g",
-     "name": "de beurre mou"
+     "name": "de beurre mou",
+     "canon": "beurre"
     },
     {
      "id": "bouillon-graine",
      "q": 180,
      "u": "ml",
-     "name": "de bouillon pris dans la marmite"
+     "name": "de bouillon pris dans la marmite",
+     "canon": "bouillon"
     },
     {
      "id": "smen",
      "q": 1.5,
      "u": "c. à c.",
      "name": "de smen (beurre conservé marocain)",
-     "note": "facultatif"
+     "note": "facultatif",
+     "canon": "smen"
     }
    ]
   }
@@ -570,6 +1371,7 @@ window.RECETTES.push({
   "Gueddid : Taste of Maroc le cite pour remplacer la viande fraîche ; les occasions précises où on l'utilise n'ont pas été revérifiées."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Plats",
  "img": "img/couscous.jpg",
  "photo": {
   "author": "ZRAFIQA",
@@ -588,6 +1390,7 @@ window.RECETTES.push({
   title: "Double cheeseburger smash",
   darija: "", arabic: "",
   tagline: "Des boules de bœuf écrasées très fines dans une poêle brûlante : une croûte bien grillée, du cheddar fondu, un pain moelleux. La vraie recette américaine, en version halal.",
+  rayon: "D'ailleurs",
   category: "Burger", occasion: "Repas rapide, entre amis", region: "États-Unis",
   servings: 2, servings_label: "burgers",
   time: { prep: 20, cook: 15, rest: 0 }, time_note: "Temps estimés à partir des étapes.",
@@ -624,25 +1427,25 @@ window.RECETTES.push({
   ],
   ingredients: [
     { group: "Viande", items: [
-      { id: "boeuf", q: 320, u: "g", name: "de bœuf haché, environ 20 % de gras", note: "2 boules de 80 g par burger" } ] },
+      { id: "boeuf", canon: "boeuf-hache", q: 320, u: "g", name: "de bœuf haché, environ 20 % de gras", note: "2 boules de 80 g par burger" } ] },
     { group: "Pain et fromage", items: [
-      { id: "pains", q: 2, u: "", name: "pain à burger moelleux au sésame (ou brioché)", pl: "pains à burger moelleux au sésame (ou briochés)" },
-      { id: "cheddar", q: 4, u: "", name: "tranche de cheddar spécial burger (celui qui fond bien)", pl: "tranches de cheddar spécial burger (celui qui fond bien)" } ] },
+      { id: "pains", canon: "pain-burger", q: 2, u: "", name: "pain à burger moelleux au sésame (ou brioché)", pl: "pains à burger moelleux au sésame (ou briochés)" },
+      { id: "cheddar", canon: "cheddar", q: 4, u: "", name: "tranche de cheddar spécial burger (celui qui fond bien)", pl: "tranches de cheddar spécial burger (celui qui fond bien)" } ] },
     { group: "Légumes", items: [
-      { id: "oignon", q: 1, u: "", fixed: true, name: "oignon blanc", note: "2 rondelles fines par burger" },
-      { id: "salade", q: 1, u: "", fixed: true, name: "laitue iceberg, ou romaine", note: "1 feuille par burger" },
-      { id: "tomate", q: 1, u: "", round: "up", name: "tomate ronde, mûre mais bien ferme", pl: "tomates rondes, mûres mais bien fermes", note: "1 tranche par burger, 2 bonnes tranches par tomate" },
-      { id: "cornichons", q: 1, u: "", fixed: true, name: "bocal de cornichons", note: "pour la sauce et la garniture" } ] },
+      { id: "oignon", canon: "oignon", q: 1, u: "", fixed: true, name: "oignon blanc", note: "2 rondelles fines par burger" },
+      { id: "salade", canon: "laitue", q: 1, u: "", fixed: true, name: "laitue iceberg, ou romaine", note: "1 feuille par burger" },
+      { id: "tomate", canon: "tomate", q: 1, u: "", round: "up", name: "tomate ronde, mûre mais bien ferme", pl: "tomates rondes, mûres mais bien fermes", note: "1 tranche par burger, 2 bonnes tranches par tomate" },
+      { id: "cornichons", canon: "cornichons", q: 1, u: "", fixed: true, name: "bocal de cornichons", note: "pour la sauce et la garniture" } ] },
     { group: "Sauce", items: [
-      { id: "mayo", q: 2, u: "c. à s.", name: "de mayonnaise" },
-      { id: "ketchup", q: 1, u: "c. à s.", name: "de ketchup" },
-      { id: "moutarde", q: 0.5, u: "c. à c.", name: "de moutarde" },
-      { id: "corn-haches", q: 1, u: "c. à s.", name: "de cornichons hachés très fin" },
-      { id: "paprika", q: 0.25, u: "c. à c.", name: "de paprika doux" } ] },
+      { id: "mayo", canon: "mayonnaise", q: 2, u: "c. à s.", name: "de mayonnaise" },
+      { id: "ketchup", canon: "ketchup", q: 1, u: "c. à s.", name: "de ketchup" },
+      { id: "moutarde", canon: "moutarde", q: 0.5, u: "c. à c.", name: "de moutarde" },
+      { id: "corn-haches", canon: "cornichons", q: 1, u: "c. à s.", name: "de cornichons hachés très fin" },
+      { id: "paprika", canon: "paprika", q: 0.25, u: "c. à c.", name: "de paprika doux" } ] },
     { group: "Le reste", items: [
-      { id: "beurre", q: 10, u: "g", name: "de beurre, pour les pains" },
-      { id: "huile", q: null, u: "", name: "Un filet d'huile neutre (tournesol)" },
-      { id: "sel-poivre", q: null, u: "", name: "Sel fin et poivre noir du moulin" } ] }
+      { id: "beurre", canon: "beurre", q: 10, u: "g", name: "de beurre, pour les pains" },
+      { id: "huile", canon: "huile", q: null, u: "", name: "Un filet d'huile neutre (tournesol)" },
+      { id: "sel-poivre", canon: "poivre", q: null, u: "", name: "Sel fin et poivre noir du moulin" } ] }
   ],
   steps: [
     { phase: "Préparation", title: "La sauce", text: [
@@ -756,6 +1559,438 @@ window.RECETTES.push({
   unverified: []
 });
 
+/* Recette : Harcha, galettes de semoule à la poêle. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "harcha",
+ "title": "Harcha, galettes de semoule à la poêle",
+ "darija": "harcha (aussi harsha)",
+ "arabic": "حرشة",
+ "tagline": "Des galettes de semoule sablées, cuites à sec à la poêle, légèrement croustillantes dehors et moelleuses dedans, à manger tièdes avec du miel et du beurre.",
+ "category": "Pain",
+ "occasion": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+ "region": "Maroc ; aussi en Algérie (origine discutée : le Moyen Atlas selon Wikipédia en anglais, l'Algérie selon Wikipédia en français)",
+ "servings": 10,
+ "servings_label": "harchas",
+ "time": {
+  "prep": 15,
+  "cook": 30,
+  "rest": 20
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un grand saladier",
+  "Une balance de cuisine et un verre doseur",
+  "Un torchon propre ou du film pour couvrir la pâte",
+  "Une assiette creuse pour la semoule d'enrobage",
+  "Une grande poêle à fond épais (fonte) ou antiadhésive",
+  "Une spatule plate",
+  "Une petite casserole pour le sirop miel-beurre",
+  "Un couteau bien aiguisé"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "semoule",
+     "q": 500,
+     "u": "g",
+     "name": "de semoule fine de blé dur",
+     "note": "c'est elle qui donne la texture sablée : ne la remplace pas",
+     "canon": "semoule"
+    },
+    {
+     "id": "sucre",
+     "q": 6,
+     "u": "c. à s.",
+     "name": "de sucre en poudre",
+     "note": "tu peux en mettre moins : d'autres recettes n'en mettent que 2 c. à s. pour 500 g de semoule",
+     "canon": "sucre"
+    },
+    {
+     "id": "levure-chimique",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de levure chimique",
+     "canon": "levure-chimique"
+    },
+    {
+     "id": "sel",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "beurre",
+     "q": 150,
+     "u": "g",
+     "name": "de beurre doux, bien mou",
+     "note": "à température ambiante",
+     "canon": "beurre"
+    },
+    {
+     "id": "lait",
+     "q": 200,
+     "u": "ml",
+     "name": "de lait",
+     "note": "environ : ajoute-le petit à petit, la quantité dépend de ta semoule",
+     "canon": "lait"
+    }
+   ]
+  },
+  {
+   "group": "Pour enrober",
+   "items": [
+    {
+     "id": "semoule-enrobage",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de semoule fine ou moyenne",
+     "note": "environ",
+     "canon": "semoule"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "miel",
+     "q": null,
+     "u": "",
+     "name": "Miel",
+     "pl": "Miel",
+     "note": "à parts égales avec le beurre, pour le sirop",
+     "canon": "miel"
+    },
+    {
+     "id": "beurre-service",
+     "q": null,
+     "u": "",
+     "name": "Beurre",
+     "pl": "Beurre",
+     "note": "à parts égales avec le miel",
+     "canon": "beurre"
+    },
+    {
+     "id": "fleur-oranger",
+     "q": null,
+     "u": "",
+     "name": "Quelques gouttes d'eau de fleur d'oranger",
+     "pl": "Quelques gouttes d'eau de fleur d'oranger",
+     "note": "facultatif, dans le sirop",
+     "canon": "fleur-oranger"
+    },
+    {
+     "id": "jben",
+     "q": null,
+     "u": "",
+     "name": "Jben (fromage frais marocain)",
+     "pl": "Jben (fromage frais marocain)",
+     "note": "facultatif",
+     "canon": "jben"
+    },
+    {
+     "id": "confiture",
+     "q": null,
+     "u": "",
+     "name": "Confiture",
+     "pl": "Confiture",
+     "note": "facultatif",
+     "canon": "confiture"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mélanger les ingrédients secs",
+   "text": "Dans un grand saladier, mélange {{semoule}} de semoule fine, {{sucre}} de sucre, {{levure-chimique}} de levure chimique et {{sel}} de sel.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Sabler avec le beurre",
+   "text": "Ajoute {{beurre}} de beurre bien mou. Frotte le mélange entre tes paumes jusqu'à ce que toute la semoule soit humide et que chaque grain soit enrobé de beurre : c'est ce geste qui rend la harcha sablée et légère.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajouter le lait petit à petit",
+   "text": "Verse la moitié des {{lait}} de lait et mélange. Ajoute le reste petit à petit, juste jusqu'à obtenir une pâte qui se tient : selon ta semoule, il en faudra un peu plus ou un peu moins. Ne pétris pas, rassemble seulement : si la pâte colle un peu, c'est normal.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisser gonfler la semoule",
+   "text": "Couvre le saladier et laisse reposer 20 minutes. La semoule boit le lait et gonfle : la pâte devient plus sèche. Si elle s'effrite, ajoute un filet de lait.",
+   "timer": {
+    "min": 20,
+    "label": "Repos de la pâte",
+    "done": "La semoule a gonflé. Si la pâte s'effrite, ajoute un filet de lait, puis façonne les galettes."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Façonner les galettes",
+   "text": "Partage la pâte en boules égales, une par harcha. Aplatis chaque boule à la main en un disque d'environ 10 cm de diamètre et de 1 cm d'épaisseur. Pas plus épais : sinon la cuisson n'est pas homogène.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Rouler dans la semoule",
+   "text": "Verse {{semoule-enrobage}} de semoule dans une assiette creuse. Pose chaque galette dedans puis retourne-la, pour enrober les deux faces : c'est ce qui donnera une croûte croustillante.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffer la poêle à sec",
+   "text": "Chauffe une grande poêle à fond épais (fonte) ou antiadhésive à feu moyen, sans matière grasse. Quand elle est chaude, baisse à feu doux ou moyen-doux. C'est très important : à feu trop fort, la harcha brûle dehors et reste crue dedans.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire la première face",
+   "text": "Dépose une première fournée de galettes dans la poêle chaude. Laisse cuire environ 5 minutes sans y toucher, jusqu'à ce que le dessous soit bien doré.",
+   "timer": {
+    "min": 5,
+    "label": "Première face",
+    "done": "Soulève un bord avec la spatule : si le dessous est bien doré, retourne les galettes. Sinon, laisse encore un peu."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Retourner délicatement",
+   "text": "Retourne-les délicatement avec une spatule plate, car elles sont friables, et cuis l'autre face environ 5 minutes. Elles sont prêtes quand les deux faces sont dorées et qu'elles paraissent sèches sous le doigt. Si elles colorent trop vite, baisse le feu. Entre deux fournées, essuie la poêle pour que la semoule tombée ne brûle pas et ne colle pas aux galettes, puis cuis les suivantes de la même façon.",
+   "timer": {
+    "min": 5,
+    "label": "Deuxième face",
+    "done": "Dorées des deux côtés et sèches sous le doigt ? Sors-les et passe à la fournée suivante."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Préparer le sirop miel-beurre",
+   "text": "Dans une petite casserole, fais fondre ensemble du miel et du beurre, à parts égales. Ajoute quelques gouttes de fleur d'oranger si tu aimes. C'est le nappage traditionnel de la harcha au Maroc.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Servir tiède",
+   "text": "Laisse tiédir un peu les harchas, puis ouvre-les en deux avec un couteau bien aiguisé si tu veux les garnir : trop chaudes, elles s'émiettent. Sers-les tièdes, nappées de sirop miel-beurre ou garnies de jben ou de confiture, avec un thé à la menthe.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Sable d'abord : frotte la semoule et le beurre entre tes paumes jusqu'à ce que chaque grain soit enrobé de gras, avant de mettre le lait. C'est ce qui donne la texture friable et légère.",
+   "source": "Amour de cuisine (Soulef Zaoui) ; My Moroccan Food (Nargisse Benkabbou) ; Milk Street (le gras ajouté avant le liquide limite le gluten)"
+  },
+  {
+   "text": "Ici, le beurre est mou, comme chez My Moroccan Food et Bladi.net : selon Milk Street, le beurre fondu donne une texture un peu plus lourde et plus grasse. Choumicha et Amour de cuisine utilisent pourtant du beurre fondu mêlé d'huile : c'est un choix, pas une règle.",
+   "source": "My Moroccan Food et Bladi.net (beurre mou) ; Milk Street ; Choumicha et Amour de cuisine (beurre fondu et huile)"
+  },
+  {
+   "text": "Verse le lait en plusieurs fois : la quantité dépend de ta semoule. Arrête-toi dès que la pâte se tient.",
+   "source": "My Moroccan Food ; Morocco World News (liquide versé petit à petit)"
+  },
+  {
+   "text": "Ne pétris pas, rassemble juste la pâte : pétrir active le gluten et durcit les harchas. Une pâte un peu collante, c'est normal.",
+   "source": "Amour de cuisine"
+  },
+  {
+   "text": "Ne saute pas le repos : il faut 20 minutes pour que la semoule boive le lait et gonfle. Une pâte bien reposée donne des harchas moelleuses, pas friables.",
+   "source": "My Moroccan Food (20 min) ; Amour de cuisine (20 à 30 min)"
+  },
+  {
+   "text": "Après le repos, la pâte est plus sèche, c'est normal. Si elle s'effrite, ajoute un filet de lait.",
+   "source": "Cooking with Alia"
+  },
+  {
+   "text": "Enrobe les deux faces de semoule avant la cuisson : c'est ce qui rend la croûte croustillante.",
+   "source": "My Moroccan Food ; recette de Paula Wolfert décrite par Milk Street"
+  },
+  {
+   "text": "1 cm d'épaisseur, pas plus, pour une cuisson homogène. Plus fine, la harcha est croustillante ; plus épaisse, elle est moelleuse.",
+   "source": "My Moroccan Food, Bladi.net et Amour de cuisine (1 cm) ; Cooking with Alia (fine ou épaisse)"
+  },
+  {
+   "text": "Cuis à sec, sans matière grasse dans la poêle.",
+   "source": "Bladi.net (« poêle sèche ») ; Julie Andrieu (« sans matière grasse »)"
+  },
+  {
+   "text": "Feu doux à moyen-doux : préchauffe la poêle à feu moyen, puis baisse avant d'y poser les galettes. Sinon elles brûlent dehors et restent crues dedans.",
+   "source": "Cooking with Alia ; My Moroccan Food (feu moyen-doux) ; Bladi.net (feu doux)"
+  },
+  {
+   "text": "Retourne-la délicatement, avec une spatule plate, quand le dessous est bien doré : elle est friable. La harcha est cuite quand elle est dorée des deux côtés et sèche sous le doigt.",
+   "source": "Amour de cuisine (retourner délicatement) ; Choumicha (spatule plate) ; Cooking with Alia"
+  },
+  {
+   "text": "Laisse-la tiédir avant de l'ouvrir, avec un couteau bien aiguisé : trop chaude, elle s'émiette.",
+   "source": "Cooking with Alia"
+  },
+  {
+   "text": "Le nappage traditionnel, c'est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux.",
+   "source": "My Moroccan Food"
+  }
+ ],
+ "mistakes": [
+  "Verser tout le lait d'un coup : selon la semoule, il en faut plus ou moins (My Moroccan Food ; Morocco World News).",
+  "Pétrir la pâte comme un pain : ça active le gluten et durcit les harchas (Amour de cuisine).",
+  "Sauter le repos : la semoule n'a pas le temps de boire le lait (My Moroccan Food ; Amour de cuisine).",
+  "Faire des galettes de plus de 1 cm : la cuisson n'est plus homogène (Amour de cuisine).",
+  "Oublier l'enrobage de semoule : c'est lui qui donne la croûte croustillante (My Moroccan Food).",
+  "Cuire à feu vif : la harcha brûle dehors et reste crue dedans (Cooking with Alia).",
+  "L'ouvrir encore brûlante ou avec un couteau qui coupe mal : elle s'émiette (Cooking with Alia).",
+  "Remplacer la semoule par autre chose : la recette ne marche qu'avec de la semoule (Cooking with Alia)."
+ ],
+ "serving": "Tiède, quand elle est légèrement croustillante dehors et moelleuse dedans (Bladi.net ; My Moroccan Food). Le nappage traditionnel au Maroc est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux (My Moroccan Food). Tu peux aussi l'ouvrir en deux et la garnir de fromage, de confiture ou de miel (Cooking with Alia), par exemple de jben, le fromage frais marocain (Morocco World News). Avec un thé à la menthe (Wikipédia ; Amour de cuisine) ou un verre de lait (Morocco World News), au petit-déjeuner, au goûter ou au ftour du ramadan (My Moroccan Food ; Wikipédia ; Hespress). Elle se garde 1 à 2 jours dans un torchon propre : réchauffe-la quelques secondes à la poêle (Amour de cuisine).",
+ "variants": [
+  "Beurre et huile : Amour de cuisine met 100 ml de beurre fondu et 50 ml d'huile pour 500 g de semoule ; Julie Andrieu 40 g de beurre fondu et 1 c. à s. d'huile pour 250 g ; Morocco World News ½ tasse de chaque pour ½ kg.",
+  "À l'eau et sans levure, la plus simple : 400 g de semoule fine, 100 g de beurre ramolli, 50 g de sucre, ½ c. à c. de sel et ¾ de verre d'eau ; galettes de 1 cm cuites à feu doux sur poêle sèche, 5 à 10 min par face (Bladi.net).",
+  "Plus croquante : moitié semoule fine, moitié semoule moyenne dans la pâte (Amour de cuisine).",
+  "Une seule grande harcha : pâte plus souple (20 cl de lait pour 250 g de semoule) étalée à la main mouillée dans la poêle chaude saupoudrée de semoule moyenne, sur 1 cm au plus, semoule moyenne dessus, 8 à 10 min par face (Julie Andrieu). Wikipédia parle de harchas grandes comme un pneu de camion ; à Fès, Christopher Kimball en a mangé une presque aussi large qu'un tajine (Milk Street).",
+  "Au four : pâte à l'huile et au lait chaud, un peu coulante, étalée dans une poêle froide beurrée et bien saupoudrée de semoule, semoule et petits morceaux de beurre dessus, puis enfournée ; ni température ni durée données (Lalla Moulati, qui l'attribue à Choumicha).",
+  "Farcie : pâte à la levure fraîche (beurre et huile, lait et eau, repos de 30 min) ; chaque boule est creusée, garnie de jben, d'olives noires et de thym, refermée, aplatie puis dorée à la poêle (Morocco World News).",
+  "Salée au zaatar et aux olives : sans sucre, avec 3 c. à s. de zaatar, 2 c. à s. d'olives noires hachées et 1 c. à c. de sel pour 250 g de semoule (My Moroccan Food). Nargisse Benkabbou la dit aussi sucrée ou salée, parfumée ou fourrée de fruits secs, de viande ou d'herbes.",
+  "Au babeurre ou au yaourt : dans le Rif, du babeurre ou du yaourt allongé d'eau remplace le lait (Wikipédia) ; Milk Street fait sa version au yaourt.",
+  "Avec une pincée de levure boulangère en plus de la levure chimique (Amour de cuisine).",
+  "Aux graines de fenouil concassées, au cumin, à la coriandre ou aux herbes séchées (Julie Andrieu).",
+  "À Khénifra, la harcha du ftour se distingue : elle est préparée avec des plantes médicinales (Hespress).",
+  "En sandwich, fourrée de fromage ou de viande confite (Wikipédia)."
+ ],
+ "sources": [
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Plain Harcha + Zaatar and Black Olive Harcha », 5 novembre 2018 (élevée à Bruxelles dans une famille marocaine, ancienne cheffe exécutive de L'Mida Marrakech, autrice de « Casablanca: My Moroccan Food »)",
+   "url": "https://www.mymoroccanfood.com/home/plain-harcha-zaatar-and-black-olive-harcha",
+   "used_for": "Recette retenue, doublée : 250 g de semoule, 3 c. à s. de sucre, 1 c. à c. de levure chimique, ¼ c. à c. de sel, 75 g de beurre mou, 100 ml de lait ajouté peu à peu ; repos de 20 min ; disques de 1 cm ; enrobage de semoule pour le croustillant ; feu moyen-doux, 5 min par face ; sirop miel-beurre traditionnel ; variante zaatar-olives"
+  },
+  {
+   "name": "Bladi.net (« Les Marocains du monde »), « Harcha ou galettes de semoules », rubrique Pâtisseries marocaines, sans auteur ni date",
+   "url": "https://www.bladi.net/recettes/harcha-ou-galettes-de-semoules.html",
+   "used_for": "Source marocaine : version à l'eau sans levure, beurre ramolli, galettes de 1 cm, feu doux sur poêle sèche, 5 à 10 min par face, dégustée tiède"
+  },
+  {
+   "name": "Morocco World News (bureau à Rabat), Safaa Kasraoui, « Take a Bite of Morocco's Delicious Pan-Fried 'Harcha' », 8 mai 2020",
+   "url": "https://www.moroccoworldnews.com/2020/05/70005/take-a-bite-of-moroccos-delicious-pan-fried-harcha/",
+   "used_for": "Source marocaine : liquide versé petit à petit ; variante farcie au jben, aux olives et au thym, à la levure fraîche avec repos de 30 min ; servie à l'iftar, au shour ou au petit-déjeuner avec un thé à la menthe ou du lait"
+  },
+  {
+   "name": "Hespress FR, Zoubida Senoussi, « Par région, voici les traditions culinaires marocaines du ramadan », 16 avril 2021",
+   "url": "https://fr.hespress.com/198966-par-region-voici-les-traditions-culinaires-marocaines-du-ramadan.html",
+   "used_for": "Source marocaine : harcha du ftour à Tanger et à Khénifra, où elle est préparée avec des plantes médicinales"
+  },
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « جبت ليك من عند شميشة طريقة الحرشةبالحليب كتجي غزالة تحضر فالحين كتليق لضياف الغفلة », 15 janvier 2019",
+   "url": "https://www.lalamoulati.net/179906.html",
+   "used_for": "Source marocaine : graphie حرشة ; variante d'une grande harcha au four, attribuée à Choumicha (attribution non vérifiée)"
+  },
+  {
+   "name": "Amour de cuisine, Soulef Zaoui, « Harcha marocaine au lait-galette de semoule au lait », 27 février 2025",
+   "url": "https://www.amourdecuisine.fr/article-harcha-au-lait-galette-de-semoule-au-lait.html",
+   "used_for": "Sablage grain par grain, ne pas pétrir, pâte un peu collante normale, repos couvert de 20 à 30 min pour que la semoule gonfle, 1 cm au plus, 10 cm de diamètre, feu moyen-doux, retourner une fois, 4 c. à s. de semoule pour la cuisson, service et conservation ; variantes beurre-huile, semoule moitié moyenne, pincée de levure boulangère"
+  },
+  {
+   "name": "Cooking with Alia, « 310 – Harcha – Moroccan Semolina Bread / حرشا », 2016 (autrice qui dit avoir grandi avec la cuisine marocaine)",
+   "url": "https://www.cookingwithalia.com/310-harcha-moroccan-semolina-bread/",
+   "used_for": "Préchauffer à feu moyen puis baisser à feu doux, sinon la harcha brûle dehors et reste crue dedans ; 5 min par face ; signes de cuisson (dorée, sèche sous le doigt) ; pâte plus sèche après le repos ; fine = croustillante, épaisse = moelleuse ; laisser tiédir avant de couper ; garnitures ; ne pas remplacer la semoule"
+  },
+  {
+   "name": "Julie Andrieu, « Harcha, galette de semoule marocaine »",
+   "url": "https://www.julieandrieu.com/recettes/harcha",
+   "used_for": "Poêle en fonte ou antiadhésive préchauffée à feu moyen, sans matière grasse ; semoule moyenne dessous et dessus ; variante en une grande galette de 1 cm, 8 à 10 min par face ; graines et herbes ; service beurre et miel"
+  },
+  {
+   "name": "Christopher Kimball's Milk Street, « Harcha: The Moroccan English Muffin », 2 avril 2018 (décrit aussi la recette de Paula Wolfert, The Food of Morocco)",
+   "url": "https://www.177milkstreet.com/stories/harcha-the-moroccan-english-muffin",
+   "used_for": "Gras ajouté avant le liquide pour limiter le gluten ; beurre fondu jugé plus lourd et plus gras ; enrobage de semoule chez Paula Wolfert ; harcha servie à Fès avec miel ou confiture et thé à la menthe ; variante au yaourt"
+  },
+  {
+   "name": "Wikipédia (en), « Harcha »",
+   "url": "https://en.wikipedia.org/wiki/Harcha",
+   "used_for": "Nom arabe حرشة ; origine attribuée au Moyen Atlas ; aussi en Algérie ; servie avec miel, beurre et thé à la menthe au petit-déjeuner ou au goûter, et pendant le ramadan ; babeurre ou yaourt dans le Rif ; en sandwich"
+  },
+  {
+   "name": "Choumicha (site officiel choumicha.ma), « Harcha au lait / Galettes de semoule au lait », copie web.archive.org du 28 juin 2014",
+   "url": "https://web.archive.org/web/20140628043026/http://www.choumicha.ma/fr/cuisine/harcha-au-lait-galettes-de-semoule-au-lait.html",
+   "used_for": "Contre-vérification : Source marocaine primaire (choumicha.ma ne répond plus : erreur 525 le 6 novembre 2026). Pour 250 g de semoule fine : 8 cl d'huile et de beurre fondu mélangés, 7 g de levure chimique, 1 pincée de levure boulangère, 1 c. à c. de sel, 1 c. à s. de sucre, 20 cl de lait, 2 c. à s. de semoule pour la cuisson ; semoule frottée avec la matière grasse pour en enrober chaque grain, mélange rapide sans travailler la pâte, repos de 20 à 30 min pour que la semoule absorbe le lait, poêle à fond épais saupoudrée de semoule, environ 2 min avant de retourner à la spatule, poêle essuyée entre deux galettes, service avec du miel. Les proportions d'Amour de cuisine sont celles-ci doublées, sauf le lait (25 cl au lieu de 40 cl)."
+  },
+  {
+   "name": "Choumicha, astuces « Pour des Harchas au lait réussies », copie web.archive.org du 20 juin 2025",
+   "url": "https://web.archive.org/web/20250620140025/https://www.choumicha.ma/astuces/pour-des-harchas-au-lait-reussies.html",
+   "used_for": "Contre-vérification : Ne pas travailler la pâte, seulement la mélanger et laisser la semoule absorber le lait ; passer la pâte dans la semoule avant de la mettre dans la poêle ; essuyer la poêle entre les cuissons pour que la semoule ne brûle pas et ne colle pas ; retourner les galettes avec une spatule plate car elles sont très friables ; pluriel « Harchas »."
+  },
+  {
+   "name": "Choumicha, « Harcha à l'anis au four », copie web.archive.org du 5 octobre 2015",
+   "url": "https://web.archive.org/web/20151005210512/http://www.choumicha.ma/recette/895-harcha-a-l-anis-au-four.html",
+   "used_for": "Contre-vérification : Seule harcha au four trouvée chez Choumicha : petites pièces passées dans la semoule moyenne, cuites sur une plaque au four à 150 °C. Elle ne correspond pas à la grande harcha au four que Lalla Moulati attribue à Choumicha : cette attribution reste non confirmée."
+  },
+  {
+   "name": "Wikipédia (fr), « Harcha »",
+   "url": "https://fr.wikipedia.org/wiki/Harcha",
+   "used_for": "Contre-vérification : Contredit l'origine « Moyen Atlas » présentée comme acquise : la dit originaire d'Algérie et introduite à Fès par des boulangers tlemcéniens pendant la colonisation (d'après les Archives marocaines de 1907), présente dans le Moyen Atlas puis répandue dans tout le Maroc (d'après Paula Wolfert). Confirme aussi : harcha grande comme un pneu de camion vendue dans la rue, babeurre ou yaourt dilué dans le Rif, service avec thé à la menthe et miel, consommation pendant le ramadan, texture friable."
+  },
+  {
+   "name": "Wikipédia en darija marocaine (ary), « حرشة »",
+   "url": "https://ary.wikipedia.org/wiki/%D8%AD%D8%B1%D8%B4%D8%A9",
+   "used_for": "Contre-vérification : Graphie حرشة ; dit la harcha originaire du Moyen Atlas, mais avec les mêmes références que la version anglaise (pas un recoupement indépendant) ; galette de semoule cuite à la poêle, vendue partout, mangée au petit-déjeuner avec du thé ou du café."
+  },
+  {
+   "name": "Christopher Kimball's Milk Street, recette « Moroccan Semolina Flatbreads (Harcha) »",
+   "url": "https://www.177milkstreet.com/recipes/moroccan-semolina-flatbreads-harcha",
+   "used_for": "Contre-vérification : Rendement : 256 g de semoule pour 8 petites galettes épaisses (de la taille d'un muffin anglais d'après l'article de Milk Street). Recoupe le calcul selon lequel 500 g de semoule donnent nettement plus de 8 galettes de 10 cm (pâte différente, à l'eau bouillante et au yaourt)."
+  }
+ ],
+ "discrepancies": [
+  "Semoule : fine dans la pâte chez Bladi.net, Morocco World News, Amour de cuisine et Julie Andrieu ; My Moroccan Food et Cooking with Alia écrivent seulement « semolina ». La semoule moyenne sert à saupoudrer (Julie Andrieu) ou, moitié-moitié avec la fine, à rendre la pâte plus croquante (Amour de cuisine). Retenu : fine dans la pâte, fine ou moyenne pour l'enrobage.",
+  "Matière grasse : beurre seul chez My Moroccan Food (75 g mou pour 250 g de semoule), Cooking with Alia (100 g fondu pour 250 g) et Bladi.net (100 g ramolli pour 400 g) ; beurre et huile chez Amour de cuisine, Julie Andrieu et Morocco World News ; surtout de l'huile chez Lalla Moulati. Milk Street préfère du beurre froid coupé à la fourchette et trouve le beurre fondu plus lourd et plus gras. Retenu : beurre mou, dose de My Moroccan Food.",
+  "Liquide : lait (My Moroccan Food, Cooking with Alia, Amour de cuisine, Julie Andrieu, Lalla Moulati), eau (Bladi.net), lait et eau (Morocco World News), yaourt (Milk Street), babeurre ou yaourt dans le Rif (Wikipédia). Retenu : lait.",
+  "Levure : levure chimique presque partout (1 c. à c. pour 250 g chez My Moroccan Food, ¾ c. à c. chez Cooking with Alia, ½ sachet chez Julie Andrieu, 14 g pour 500 g chez Amour de cuisine, qui ajoute une pincée de levure boulangère) ; aucune chez Bladi.net ; levure fraîche chez Morocco World News. Retenu : levure chimique, dose de My Moroccan Food.",
+  "Sucre, ramené à 250 g de semoule : 3 c. à s. (My Moroccan Food), environ 31 g (Bladi.net : 50 g pour 400 g), 2 c. à s. (Cooking with Alia), 1 c. à s. (Julie Andrieu ; Amour de cuisine : 2 c. à s. pour 500 g). Retenu : My Moroccan Food, la plus sucrée avec Bladi.net ; tu peux en mettre moins.",
+  "Sel, ramené à 250 g de semoule : ¼ c. à c. (My Moroccan Food, Cooking with Alia), environ ⅓ c. à c. (Bladi.net : ½ c. à c. pour 400 g), 1 c. à c. (Julie Andrieu ; Amour de cuisine : 2 c. à c. pour 500 g). Retenu : My Moroccan Food.",
+  "Repos : aucun (Bladi.net, Julie Andrieu), 5 min (Cooking with Alia), 10 min (Milk Street, semoule mouillée d'eau chaude), 20 min (My Moroccan Food), 20 à 30 min (Amour de cuisine), 30 min (Morocco World News, pâte à la levure fraîche). Retenu : 20 min.",
+  "Épaisseur et taille : 1 cm chez My Moroccan Food, Bladi.net et Amour de cuisine, 1 cm au plus chez Julie Andrieu, ¼ de pouce (environ 6 mm) ou un peu plus chez Cooking with Alia ; 5 cm de diamètre chez My Moroccan Food (16 pour 250 g de semoule), 10 cm chez Amour de cuisine, une seule grande chez Julie Andrieu. Retenu : 1 cm, et 10 galettes de 10 cm pour 500 g (calcul du volume de la pâte ; avec 8 boules, des galettes de 10 cm auraient 1,2 à 1,3 cm d'épaisseur).",
+  "Feu et durée : feu doux, 5 à 10 min par face (Bladi.net) ; feu moyen-doux, 5 min ou plus par face (My Moroccan Food) ; préchauffage à feu moyen puis feu doux, 5 min par face (Cooking with Alia) ; feu moyen et 2 min avant de retourner dans la recette d'Amour de cuisine, mais feu moyen-doux dans ses astuces ; feu moyen, 8 à 10 min par face pour une grande galette (Julie Andrieu) ; feu moyen, 2 min par face à la poêle antiadhésive (Milk Street, version au yaourt). Retenu : feu doux à moyen-doux, environ 5 min par face.",
+  "Enrobage de semoule : oui chez My Moroccan Food, chez Paula Wolfert (d'après Milk Street) et chez Julie Andrieu (semoule moyenne dessous et dessus) ; Amour de cuisine saupoudre le plan de travail et prévoit 4 c. à s. de semoule « pour la cuisson », à saupoudrer sur la poêle ; Choumicha saupoudre la poêle et passe la pâte dans la semoule ; Milk Street l'a supprimé pour une finition plus lisse. Retenu : enrobage des deux faces.",
+  "Poêle : sèche chez Bladi.net et Julie Andrieu ; beurrée et saupoudrée de semoule pour la version au four de Lalla Moulati. Retenu : poêle sèche.",
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 17 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Choumicha : choumicha.ma ne répond plus (erreur 525, testé le 6 novembre 2026), mais des copies de web.archive.org de sa recette « Harcha au lait / Galettes de semoule au lait » et de ses astuces ont été lues : semoule enrobée d'huile et de beurre fondu, pâte mélangée sans être travaillée, repos de 20 à 30 min pour que la semoule absorbe le lait, poêle saupoudrée de semoule et essuyée entre deux galettes, retournement à la spatule plate. Amour de cuisine reprend ses proportions doublées, sauf le lait (25 cl au lieu de 40 cl). La grande harcha au four que Lalla Moulati lui attribue n'a pas été retrouvée : la « harcha à l'anis au four » de Choumicha est différente (petites pièces sur une plaque, four à 150 °C).",
+  "Taste of Maroc (Christine Benlafquih) : toutes ses pages refusent l'outil (erreur 403), et sa recette sur The Spruce Eats n'est pas accessible : non utilisée.",
+  "SNRT News (« Recette facile : mini harcha marocaine ») : page refusée (erreur 403), non lue.",
+  "Le360 et Femmes du Maroc : aucune recette de harcha trouvée ; la recherche du site Femmes du Maroc ne renvoie qu'un article sans rapport.",
+  "Lalla Moulati : la plupart de ses recettes de harcha sont des versions modernes (à l'orange, à l'œuf, au four) ou des vidéos sans texte ; une seule a servi, pour la variante au four.",
+  "Origine : Wikipédia en anglais et en darija la disent née dans le Moyen Atlas, avec les mêmes références (livres de Paula Wolfert, de Nargisse Benkabbou et deux guides de voyage, non consultés) ; Wikipédia en français la dit venue d'Algérie avec des boulangers tlemcéniens installés à Fès (d'après les Archives marocaines de 1907, que la version anglaise rattache à un autre pain, le khobz el harcha) ; aucune source marocaine lue ne parle de l'origine.",
+  "Cooking with Alia : l'autrice écrit « I share the Moroccan food I grew up with », sans nom complet ni nationalité ; pas comptée parmi les sources marocaines.",
+  "Amour de cuisine (Soulef Zaoui) : blog de cuisine algérienne et du monde ; recette classée marocaine par le blog, pas comptée parmi les sources marocaines.",
+  "Nombre de galettes : 10 disques de 10 cm sur 1 cm, calculés d'après le volume de la pâte (environ 940 g, au moins 750 cm³, pour 78,5 cm³ par disque) ; le rendement affiché par My Moroccan Food (16 disques de 5 cm sur 1 cm pour 250 g) ne tient pas physiquement (il supposerait une pâte de densité 1,5) ; la taille est celle d'Amour de cuisine ; ce nombre n'a pas été testé en cuisine.",
+  "Durées : préparation de 15 min reprise de la fiche d'Amour de cuisine ; cuisson de 30 min estimée (3 fournées d'environ 10 min, selon la taille de ta poêle) ; non chronométrées sur cette recette.",
+  "Quantités de miel et de beurre pour le service : aucune source ne les donne, seulement « à parts égales » (My Moroccan Food).",
+  "Semoule d'enrobage : My Moroccan Food n'en donne pas la quantité ; les 4 c. à s. viennent d'Amour de cuisine, qui les prévoit « pour la cuisson », à saupoudrer sur la poêle (Choumicha : 2 c. à s. pour 250 g de semoule).",
+  "Sens du mot harcha (« rugueuse ») : lu seulement sur le blog Mes Inspirations Culinaires, non recoupé.",
+  "Bladi.net : recette sans auteur ni date ; volume du « verre » d'eau non précisé.",
+  "Paula Wolfert (The Food of Morocco) : sa recette n'est connue ici que par le résumé de Milk Street ; le livre n'a pas été consulté."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "pairs": [
+  "the-menthe"
+ ],
+ "img": "img/harcha.jpg",
+ "photo": {
+  "author": "Tamorlan",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Harcha_(Homemade).jpg",
+  "modified": "réduite"
+ }
+});
+
 /* Recette : Harira marocaine traditionnelle. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -794,27 +2029,31 @@ window.RECETTES.push({
      "q": 250,
      "u": "g",
      "name": "d'agneau ou de bœuf",
-     "note": "halal, coupé en dés d'environ 1 cm"
+     "note": "halal, coupé en dés d'environ 1 cm",
+     "canon": "agneau"
     },
     {
      "id": "huile",
      "q": 2,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou de tournesol"
+     "name": "d'huile d'olive ou de tournesol",
+     "canon": "huile-olive"
     },
     {
      "id": "smen",
      "q": 2,
      "u": "c. à c.",
      "name": "de smen (beurre rance marocain)",
-     "note": "facultatif, mais il apporte un goût particulier"
+     "note": "facultatif, mais il apporte un goût particulier",
+     "canon": "smen"
     },
     {
      "id": "oignon",
      "q": 1,
      "u": "",
      "name": "gros oignon",
-     "pl": "gros oignons"
+     "pl": "gros oignons",
+     "canon": "oignon"
     },
     {
      "id": "celeri",
@@ -822,86 +2061,99 @@ window.RECETTES.push({
      "u": "",
      "name": "branche de céleri avec ses feuilles",
      "note": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
-     "pl": "branches de céleri avec leurs feuilles"
+     "pl": "branches de céleri avec leurs feuilles",
+     "canon": "celeri"
     },
     {
      "id": "persil",
      "q": 1,
      "u": "botte",
      "name": "de persil plat",
-     "note": "petite botte"
+     "note": "petite botte",
+     "canon": "persil"
     },
     {
      "id": "coriandre",
      "q": 1,
      "u": "botte",
      "name": "de coriandre fraîche",
-     "note": "petite botte"
+     "note": "petite botte",
+     "canon": "coriandre"
     },
     {
      "id": "pois-chiches",
      "q": 100,
      "u": "g",
      "name": "de pois chiches secs",
-     "note": "à faire tremper la veille"
+     "note": "à faire tremper la veille",
+     "canon": "pois-chiches"
     },
     {
      "id": "lentilles",
      "q": 100,
      "u": "g",
-     "name": "de lentilles vertes ou brunes"
+     "name": "de lentilles vertes ou brunes",
+     "canon": "lentilles"
     },
     {
      "id": "tomates",
      "q": 600,
      "u": "g",
-     "name": "de tomates bien mûres"
+     "name": "de tomates bien mûres",
+     "canon": "tomate"
     },
     {
      "id": "concentre",
      "q": 1,
      "u": "c. à s.",
      "name": "de concentré de tomate",
-     "note": "bombée"
+     "note": "bombée",
+     "canon": "concentre-tomate"
     },
     {
      "id": "gingembre",
      "q": 1,
      "u": "c. à c.",
      "name": "de gingembre en poudre",
-     "note": "pas de gingembre frais"
+     "note": "pas de gingembre frais",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "poivre",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "cannelle",
      "q": 1,
      "u": "pincée",
      "name": "de cannelle en poudre",
-     "note": "facultatif"
+     "note": "facultatif",
+     "canon": "cannelle"
     },
     {
      "id": "sel",
      "q": 2,
      "u": "c. à c.",
      "name": "de sel",
-     "note": "à rectifier en fin de cuisson"
+     "note": "à rectifier en fin de cuisson",
+     "canon": "sel"
     },
     {
      "id": "eau",
      "q": 2,
      "u": "l",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     }
    ]
   },
@@ -913,20 +2165,23 @@ window.RECETTES.push({
      "q": 80,
      "u": "g",
      "name": "de farine blanche",
-     "note": "pas de farine complète"
+     "note": "pas de farine complète",
+     "canon": "farine"
     },
     {
      "id": "eau-tadouira",
      "q": 200,
      "u": "ml",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     },
     {
      "id": "concentre-tadouira",
      "q": 1,
      "u": "c. à s.",
      "name": "de concentré de tomate",
-     "note": "bombée"
+     "note": "bombée",
+     "canon": "concentre-tomate"
     }
    ]
   },
@@ -938,21 +2193,24 @@ window.RECETTES.push({
      "q": 35,
      "u": "g",
      "name": "de vermicelles fins",
-     "note": "ou de spaghettis fins cassés"
+     "note": "ou de spaghettis fins cassés",
+     "canon": "vermicelles"
     },
     {
      "id": "coriandre-fin",
      "q": 2,
      "u": "c. à s.",
      "name": "de coriandre hachée",
-     "note": "à prélever sur la botte"
+     "note": "à prélever sur la botte",
+     "canon": "coriandre"
     },
     {
      "id": "citron",
      "q": 1,
      "u": "",
      "name": "citron, en quartiers",
-     "pl": "citrons, en quartiers"
+     "pl": "citrons, en quartiers",
+     "canon": "citron"
     }
    ]
   }
@@ -1272,6 +2530,11 @@ window.RECETTES.push({
   "« Bab Al Mansour », cité dans l'article de Choumicha (Gulf News) : non identifié."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Soupes",
+ "pairs": [
+  "msemen",
+  "khobz"
+ ],
  "img": "img/harira.jpg",
  "photo": {
   "author": "Atiqa ezahiri",
@@ -1320,28 +2583,32 @@ window.RECETTES.push({
      "id": "farine",
      "q": 500,
      "u": "g",
-     "name": "de farine blanche (T45 ou T55)"
+     "name": "de farine blanche (T45 ou T55)",
+     "canon": "farine"
     },
     {
      "id": "semoule",
      "q": 100,
      "u": "g",
      "name": "de semoule fine de blé dur",
-     "note": "ou semoule extra-fine, ou farine de blé dur"
+     "note": "ou semoule extra-fine, ou farine de blé dur",
+     "canon": "semoule"
     },
     {
      "id": "sel",
      "q": 1.5,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "1 à 2 c. à c. selon les sources"
+     "note": "1 à 2 c. à c. selon les sources",
+     "canon": "sel"
     },
     {
      "id": "eau",
      "q": 400,
      "u": "ml",
      "name": "d'eau tiède",
-     "note": "à verser petit à petit, ajuste selon ta farine"
+     "note": "à verser petit à petit, ajuste selon ta farine",
+     "canon": "eau"
     }
    ]
   },
@@ -1353,27 +2620,31 @@ window.RECETTES.push({
      "q": 250,
      "u": "ml",
      "name": "d'huile neutre (tournesol ou colza), pour le plan de travail, les mains et les pâtons",
-     "note": "environ ; la pâte ne l'absorbe pas, il en restera"
+     "note": "environ ; la pâte ne l'absorbe pas, il en restera",
+     "canon": "huile"
     },
     {
      "id": "beurre",
      "q": 85,
      "u": "g",
      "name": "de beurre, fondu",
-     "note": "doux ou demi-sel"
+     "note": "doux ou demi-sel",
+     "canon": "beurre"
     },
     {
      "id": "huile-melange",
      "q": 6,
      "u": "c. à s.",
-     "name": "d'huile neutre, à mélanger au beurre fondu"
+     "name": "d'huile neutre, à mélanger au beurre fondu",
+     "canon": "huile"
     },
     {
      "id": "semoule-pliage",
      "q": 4,
      "u": "c. à s.",
      "name": "de semoule fine, à saupoudrer entre les couches",
-     "note": "environ 1 c. à c. par msemen"
+     "note": "environ 1 c. à c. par msemen",
+     "canon": "semoule"
     }
    ]
   },
@@ -1385,13 +2656,15 @@ window.RECETTES.push({
      "q": null,
      "u": "",
      "name": "Miel, autant que de beurre",
-     "note": "à parts égales avec le beurre"
+     "note": "à parts égales avec le beurre",
+     "canon": "miel"
     },
     {
      "id": "beurre-service",
      "q": null,
      "u": "",
-     "name": "Beurre doux, autant que de miel"
+     "name": "Beurre doux, autant que de miel",
+     "canon": "beurre"
     }
    ]
   }
@@ -1689,6 +2962,10 @@ window.RECETTES.push({
   "Hot Bread Kitchen : dans le livre, la pâte se pétrit au batteur et s'étire sur papier cuisson ; le pétrissage à la main (15 min) et l'étirage sur plan huilé viennent des autres sources."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "pairs": [
+  "the-menthe"
+ ],
  "img": "img/msemen.jpg",
  "photo": {
   "author": "Popo le Chien",
@@ -1738,98 +3015,113 @@ window.RECETTES.push({
      "q": 1.6,
      "u": "kg",
      "name": "de poulet halal, coupé en morceaux",
-     "note": "ou cuisses et hauts de cuisse ; beldi si possible"
+     "note": "ou cuisses et hauts de cuisse ; beldi si possible",
+     "canon": "poulet"
     },
     {
      "id": "oignons",
      "q": 800,
      "u": "g",
      "name": "d'oignons",
-     "note": "émincés finement ou râpés"
+     "note": "émincés finement ou râpés",
+     "canon": "oignon"
     },
     {
      "id": "persil",
      "q": 1,
      "u": "botte",
      "name": "de persil plat",
-     "note": "haché"
+     "note": "haché",
+     "canon": "persil"
     },
     {
      "id": "coriandre",
      "q": 0.5,
      "u": "botte",
      "name": "de coriandre fraîche",
-     "note": "hachée"
+     "note": "hachée",
+     "canon": "coriandre"
     },
     {
      "id": "huile",
      "q": 3,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou neutre"
+     "name": "d'huile d'olive ou neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "smen",
      "q": 30,
      "u": "g",
-     "name": "de smen ou beurre"
+     "name": "de smen ou beurre",
+     "canon": "smen"
     },
     {
      "id": "gingembre",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de gingembre moulu"
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 1,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "cannelle-sauce",
      "q": 1,
      "u": "c. à c.",
-     "name": "de cannelle moulue"
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
     },
     {
      "id": "safran",
      "q": 1,
      "u": "pincée",
-     "name": "de pistils de safran"
+     "name": "de pistils de safran",
+     "canon": "safran"
     },
     {
      "id": "sel",
      "q": null,
      "u": "",
      "name": "sel, selon le goût",
-     "note": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction"
+     "note": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction",
+     "canon": "sel"
     },
     {
      "id": "poivre",
      "q": null,
      "u": "",
      "name": "poivre noir moulu, selon le goût",
-     "note": "repère : environ 1 c. à c."
+     "note": "repère : environ 1 c. à c.",
+     "canon": "poivre"
     },
     {
      "id": "eau",
      "q": 250,
      "u": "ml",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     },
     {
      "id": "sucre",
      "q": 3,
      "u": "c. à s.",
      "name": "de sucre en poudre",
-     "note": "ou du miel"
+     "note": "ou du miel",
+     "canon": "sucre"
     },
     {
      "id": "oeufs",
      "q": 8,
      "u": "",
      "name": "œuf",
-     "pl": "œufs"
+     "pl": "œufs",
+     "canon": "oeuf"
     }
    ]
   },
@@ -1840,33 +3132,38 @@ window.RECETTES.push({
      "id": "amandes",
      "q": 350,
      "u": "g",
-     "name": "d'amandes émondées (sans la peau)"
+     "name": "d'amandes émondées (sans la peau)",
+     "canon": "amandes"
     },
     {
      "id": "huile-friture",
      "q": 4,
      "u": "c. à s.",
      "name": "d'huile neutre",
-     "note": "pour frire les amandes"
+     "note": "pour frire les amandes",
+     "canon": "huile"
     },
     {
      "id": "sucre-glace",
      "q": 60,
      "u": "g",
      "name": "de sucre glace",
-     "note": "à ajuster selon ton goût"
+     "note": "à ajuster selon ton goût",
+     "canon": "sucre-glace"
     },
     {
      "id": "cannelle-amandes",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de cannelle moulue"
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
     },
     {
      "id": "fleur-oranger",
      "q": 1,
      "u": "c. à s.",
-     "name": "d'eau de fleur d'oranger"
+     "name": "d'eau de fleur d'oranger",
+     "canon": "fleur-oranger"
     }
    ]
   },
@@ -1878,7 +3175,8 @@ window.RECETTES.push({
      "q": 120,
      "u": "g",
      "name": "de beurre",
-     "note": "à faire fondre ; ou smen"
+     "note": "à faire fondre ; ou smen",
+     "canon": "beurre"
     },
     {
      "id": "feuilles-tour",
@@ -1886,21 +3184,24 @@ window.RECETTES.push({
      "u": "",
      "name": "feuille de warqa ou de brick, pour le tour",
      "note": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
-     "pl": "feuilles de warqa ou de brick, pour le tour"
+     "pl": "feuilles de warqa ou de brick, pour le tour",
+     "canon": "warqa"
     },
     {
      "id": "feuilles-fond",
      "q": 2,
      "u": "",
      "name": "feuille de warqa ou de brick, pour le fond",
-     "pl": "feuilles de warqa ou de brick, pour le fond"
+     "pl": "feuilles de warqa ou de brick, pour le fond",
+     "canon": "warqa"
     },
     {
      "id": "feuilles-dessus",
      "q": 4,
      "u": "",
      "name": "feuille de warqa ou de brick, pour le dessus",
-     "pl": "feuilles de warqa ou de brick, pour le dessus"
+     "pl": "feuilles de warqa ou de brick, pour le dessus",
+     "canon": "warqa"
     },
     {
      "id": "jaune",
@@ -1908,7 +3209,8 @@ window.RECETTES.push({
      "u": "",
      "name": "jaune d'œuf",
      "note": "pour coller les plis",
-     "pl": "jaunes d'œufs"
+     "pl": "jaunes d'œufs",
+     "canon": "oeuf"
     }
    ]
   },
@@ -1919,13 +3221,15 @@ window.RECETTES.push({
      "id": "sucre-glace-decor",
      "q": 3,
      "u": "c. à s.",
-     "name": "de sucre glace"
+     "name": "de sucre glace",
+     "canon": "sucre-glace"
     },
     {
      "id": "cannelle-decor",
      "q": 1,
      "u": "c. à c.",
-     "name": "de cannelle moulue"
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
     }
    ]
   }
@@ -2236,12 +3540,971 @@ window.RECETTES.push({
   "Brochures PDF de l'Office national marocain du tourisme sur la pastilla au pigeon de Fès : illisibles par l'outil, non utilisées."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Plats",
  "img": "img/pastilla.jpg",
  "photo": {
   "author": "kochtopf",
   "license": "CC BY-SA 2.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Pastilla_marocaine_recouverte_de_sucre_glace.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Rfissa au poulet, lentilles et fenugrec. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "rfissa-poulet",
+ "title": "Rfissa au poulet, lentilles et fenugrec",
+ "darija": "rfissa bel djaj",
+ "arabic": "رفيسة بالدجاج",
+ "tagline": "Des lanières de msemen fumantes, imbibées d'un bouillon au fenugrec et au ras el hanout, sous un poulet tendre, des lentilles et des oignons fondus : le plat de fête qu'on offre à la jeune maman.",
+ "category": "Plat",
+ "occasion": "Naissances (surtout le troisième jour après l'accouchement), baptêmes, repas de famille et soirées de ramadan",
+ "region": "Maroc (nombreuses versions familiales ; bormache à Meknès)",
+ "servings": 6,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 25,
+  "cook": 150,
+  "rest": 360,
+  "rest_label": "Trempage"
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un bol pour le trempage du fenugrec",
+  "Une grande marmite à fond épais avec couvercle",
+  "Un couscoussier, pour réchauffer les msemen à la vapeur",
+  "Un carré de mousseline (ou d'étamine) et de la ficelle, si tu veux enfermer le fenugrec",
+  "Une louche et une écumoire",
+  "Un grand plat de service rond",
+  "Un ou deux bols pour le bouillon servi à part"
+ ],
+ "ingredients": [
+  {
+   "group": "Poulet et sauce aux oignons",
+   "items": [
+    {
+     "id": "poulet",
+     "q": 1.8,
+     "u": "kg",
+     "name": "de poulet entier halal, beldi (fermier) si possible",
+     "note": "entier ou coupé en quatre ; un poulet beldi demande environ 1 h de cuisson de plus",
+     "canon": "poulet"
+    },
+    {
+     "id": "oignons",
+     "q": 3,
+     "u": "",
+     "name": "gros oignon",
+     "pl": "gros oignons",
+     "note": "émincés finement",
+     "canon": "oignon"
+    },
+    {
+     "id": "huile",
+     "q": 6,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "smen",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de smen (beurre rance marocain)",
+     "note": "ou du beurre",
+     "canon": "smen"
+    },
+    {
+     "id": "gingembre",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
+    },
+    {
+     "id": "curcuma",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de curcuma",
+     "canon": "curcuma"
+    },
+    {
+     "id": "ras-el-hanout",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de ras el hanout",
+     "note": "frais, acheté chez un épicier de confiance",
+     "canon": "ras-el-hanout"
+    },
+    {
+     "id": "poivre",
+     "q": 0.75,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "safran",
+     "q": 1,
+     "u": "pincée",
+     "name": "de pistils de safran",
+     "note": "environ 15 pistils",
+     "canon": "safran"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "Sel, selon le goût",
+     "note": "repère : environ 1½ c. à c. en tout ; rectifie à la fin",
+     "canon": "sel"
+    }
+   ]
+  },
+  {
+   "group": "Bouillon, fenugrec et lentilles",
+   "items": [
+    {
+     "id": "fenugrec",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "de graines de fenugrec (helba)",
+     "note": "à faire tremper la veille",
+     "canon": "fenugrec"
+    },
+    {
+     "id": "persil",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de persil plat",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de coriandre fraîche",
+     "canon": "coriandre"
+    },
+    {
+     "id": "eau",
+     "q": 1.5,
+     "u": "l",
+     "name": "d'eau",
+     "note": "plus un peu d'eau chaude si le bouillon baisse",
+     "canon": "eau"
+    },
+    {
+     "id": "lentilles",
+     "q": 150,
+     "u": "g",
+     "name": "de lentilles vertes ou brunes",
+     "note": "pas de lentilles corail : elles se défont",
+     "canon": "lentilles"
+    }
+   ]
+  },
+  {
+   "group": "Pour finir et servir",
+   "items": [
+    {
+     "id": "smen-fin",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de smen, pour finir",
+     "note": "ou du beurre",
+     "canon": "smen"
+    },
+    {
+     "id": "msemen",
+     "q": 12,
+     "u": "",
+     "name": "msemen",
+     "pl": "msemen",
+     "note": "une fournée de la recette du msemen de l'application, soit 2 par personne",
+     "canon": "msemen",
+     "recipe": "msemen"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "La veille : fais tremper le fenugrec",
+   "text": "Mets {{fenugrec}} de graines de fenugrec dans un bol et couvre-les largement d'eau froide. Laisse tremper toute la nuit, ou au moins 6 h : les graines ramollissent et deviennent moins fortes. Tu as oublié ? Verse de l'eau bouillante dessus et attends 1 à 2 h.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare les msemen à l'avance",
+   "text": "Prépare {{msemen:full}} avec la recette du msemen de l'application, sans la dernière étape au miel et au beurre, la veille ou pendant que le poulet mijote. Dès la sortie de la poêle, encore chauds, déchire-les en lanières de la taille d'une bouchée. Une fois froides, garde les lanières dans un sac ; si tu les fais plus d'un jour à l'avance, congèle-les.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince, hache, rince",
+   "text": "Émince finement {{oignons:full}}. Hache finement {{persil}} de persil et {{coriandre}} de coriandre. Rince {{lentilles}} de lentilles et égoutte-les. Égoutte le fenugrec ; si tu veux, noue-le dans un carré de mousseline pour pouvoir le retirer au moment de servir.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mets tout dans la marmite",
+   "text": "Dans une grande marmite, mets {{poulet}} de poulet, entier ou coupé en quatre, avec les oignons, {{huile}} d'huile d'olive et {{smen}} de smen. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{ras-el-hanout}} de ras el hanout, {{poivre}} de poivre, {{safran}} de safran émietté et un peu de sel. Remue pour bien enrober le poulet d'épices.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse la sauce se former",
+   "text": "Couvre et laisse cuire à feu moyen 20 min, en remuant de temps en temps. C'est prêt quand les oignons ont ramolli et qu'une sauce épaisse s'est formée.",
+   "timer": {
+    "min": 20,
+    "label": "Sauce aux oignons",
+    "done": "Une sauce épaisse s'est formée ? Ajoute l'eau et le fenugrec."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute l'eau et le fenugrec",
+   "text": "Ajoute le fenugrec égoutté, les herbes hachées et {{eau}} d'eau. Porte à ébullition, puis couvre et baisse à feu moyen-doux. Poulet beldi : laisse mijoter 1 h avant d'ajouter les lentilles. Poulet standard : ajoute les lentilles tout de suite et passe à l'étape suivante.",
+   "timer": {
+    "min": 60,
+    "label": "Poulet beldi, 1re heure",
+    "done": "Ajoute les lentilles : c'est l'étape suivante."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les lentilles et laisse mijoter",
+   "text": "Ajoute les lentilles, couvre et laisse mijoter à feu moyen-doux environ 1 h, jusqu'à ce que les lentilles et le poulet soient bien tendres. À mi-cuisson, goûte le bouillon et rajoute de l'eau chaude s'il a trop baissé : il doit en rester beaucoup. Si le poulet est cuit avant les lentilles, sors-le et mets-le de côté, couvert.",
+   "timer": {
+    "min": 60,
+    "label": "Lentilles",
+    "done": "Goûte une lentille : elle doit être tendre. Sinon, prolonge la cuisson."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Rectifie et finis au smen",
+   "text": "Goûte le bouillon : il doit être très parfumé. Rectifie le sel, puis ajoute {{smen-fin}} de smen et fais tourner la marmite pour le fondre dans le bouillon. Si tu avais sorti le poulet, remets-le quelques minutes pour le réchauffer.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Réchauffe les msemen à la vapeur",
+   "text": "Porte à ébullition de l'eau dans le bas du couscoussier. Mets les lanières de msemen dans le haut et laisse-les chauffer à la vapeur 10 min, jusqu'à ce qu'elles soient brûlantes et souples.",
+   "timer": {
+    "min": 10,
+    "label": "Msemen à la vapeur",
+    "done": "Les lanières sont brûlantes et souples : dresse tout de suite."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Dresse la rfissa",
+   "text": "Étale les lanières chaudes dans un grand plat rond, en couche épaisse : on ne doit plus voir le fond. Arrose-les de quelques louches de bouillon, puis pose le poulet au centre, entier ou en morceaux. Répartis dessus les lentilles et les oignons à l'écumoire, puis verse presque tout le bouillon en gardant un ou deux bols à part.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers très chaud",
+   "text": "Si tu as noué le fenugrec dans la mousseline, verse les graines dans un petit bol pour les amateurs. Pose le plat au milieu de la table et sers aussitôt, très chaud, avec les bols de bouillon : chacun mange de son côté du plat, à la main ou à la cuillère.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Fais tremper le fenugrec toute la nuit, ou au moins 6 h : les graines ramollissent et perdent une partie de leur force. Oublié ? Couvre-les d'eau bouillante et attends 1 à 2 h.",
+   "source": "Taste of Maroc ; Paula Wolfert (au moins 4 h dans l'eau tiède)"
+  },
+  {
+   "text": "Enferme le fenugrec dans un petit sac de tissu (la « kemmoussa ») : il parfume le bouillon sans qu'on croque les graines, et tu les sers à part pour les amateurs.",
+   "source": "Barlamane (Hajja Fatima, cuisinière de fêtes à Casablanca) ; Choumicha ; Taste of Maroc"
+  },
+  {
+   "text": "Le bouillon épais et parfumé (« mdaghmar ») vient des oignons : mets-en beaucoup et laisse-les cuire longtemps à feu doux, jusqu'à ce qu'ils fondent comme une crème.",
+   "source": "Barlamane (Hajja Fatima)"
+  },
+  {
+   "text": "Prends un ras el hanout frais, acheté chez un épicier de confiance : c'est « l'âme » de la rfissa. Pour tante Aïcha, de Beni Mellal, il fait « monter le plat de dix crans ».",
+   "source": "Barlamane (Hajja Fatima) ; Paula Wolfert (recette de tante Aïcha)"
+  },
+  {
+   "text": "Prévois un bouillon abondant : les msemen en boivent beaucoup. Rajoute de l'eau chaude en cours de cuisson s'il baisse, goûte-le (il doit être très parfumé) et garde-en un ou deux bols pour servir à part.",
+   "source": "Taste of Maroc ; MarocMama ; Paula Wolfert ; Lalla Moulati"
+  },
+  {
+   "text": "Déchire les msemen encore chauds, puis réchauffe les lanières 10 min à la vapeur du couscoussier juste avant de servir : elles deviennent brûlantes et souples, prêtes à boire le bouillon.",
+   "source": "Taste of Maroc ; Paula Wolfert ; Choumicha"
+  },
+  {
+   "text": "Un poulet beldi a plus de goût et tient mieux la longue cuisson. Avec un poulet standard, sors-le du bouillon dès qu'il est cuit pour qu'il ne se défasse pas.",
+   "source": "Barlamane (Hajja Fatima) ; Taste of Maroc"
+  },
+  {
+   "text": "Termine par une cuillère de smen en faisant tourner la marmite : sans lui, ceux qui connaissent le plat sentent la différence.",
+   "source": "Taste of Maroc ; Choumicha"
+  }
+ ],
+ "mistakes": [
+  "Mettre le fenugrec sans trempage si tu le veux doux : les graines restent plus dures et plus fortes (Taste of Maroc). Le trempage n'est pas obligatoire pour autant : Choumicha, Lalla Moulati et Bladi.net s'en passent.",
+  "Prendre des lentilles corail : elles se défont et disparaissent dans la sauce. Prends des vertes ou des brunes.",
+  "Être avare de bouillon : la rfissa doit rester bien arrosée, car les msemen en absorbent beaucoup.",
+  "Laisser un poulet standard dans la marmite une fois cuit, si les lentilles ne le sont pas encore : il finit par se défaire.",
+  "Attendre que les msemen refroidissent pour les déchirer : fais-le dès la sortie de la poêle.",
+  "Prendre un ras el hanout éventé : c'est lui qui donne son parfum au bouillon.",
+  "Être avare de msemen : il en faut assez pour couvrir tout le fond du plat.",
+  "Servir tiède : la rfissa se mange très chaude, msemen compris."
+ ],
+ "serving": "Sers la rfissa très chaude, dans un grand plat rond posé au milieu de la table : chacun mange de son côté, à la main ou à la cuillère (Taste of Maroc). Garde un ou deux bols de bouillon à part, et les graines de fenugrec dans un petit bol pour ceux qui aiment. C'est le plat qu'on offre à la jeune maman, surtout le troisième jour après la naissance, et qu'on partage en famille (Le360, Taste of Maroc).",
+ "variants": [
+  "Au trid à la place des msemen : feuilles de pâte très fines, cuites sans les colorer, puis découpées en lanières (Choumicha, « pâte à rfissa » ; Bladi.net ; Lalla Moulati). Selon Hajja Fatima (Barlamane), le trid doit être fin comme du papier et bien défait, pour boire le bouillon sans devenir pâteux.",
+  "Rfissa medhoussa sur de la harcha émiettée, ou treda sur du pain rassis coupé en dés (Taste of Maroc) ; MarocMama confirme aussi le pain déchiré, en réponse à une lectrice qui avait pris une baguette.",
+  "Msakhen à la place du ras el hanout, surtout par temps froid car il est plus relevé : 1½ c. à s. de msakhen pour 1 c. à s. de ras el hanout chez Taste of Maroc ; Lalla Moulati laisse aussi le choix.",
+  "Bormache, la version de Meknès : beaucoup d'ail, des herbes séchées (zaatar, fliou, merseta), du piment de Cayenne et des tomates ; les lentilles y sont facultatives (Taste of Maroc, recette de Jameela Khiyati).",
+  "Avec de l'ail (4 à 6 gousses dans la marinade et une tête entière dans le bouillon) et, en hiver, une tasse de fèves sèches (Lalla Moulati).",
+  "Marinade la veille : poulet, oignons, huile et épices mélangés dans la marmite et gardés au frais toute la nuit (au moins 6 h), puis cuisson directe (Taste of Maroc ; Lalla Moulati).",
+  "Oignons en deux temps : un oignon râpé au début et les autres émincés avec les lentilles (Paula Wolfert) ; Lalla Moulati met 2 oignons hachés au début et 4 émincés quand le poulet a pris couleur.",
+  "Lentilles cuites à part : couvertes d'eau et cuites jusqu'à évaporation, puis mijotées 10 min avec une louche de sauce (Choumicha).",
+  "Poulet doré quelques minutes au four ou sous le gril avant de servir (Taste of Maroc ; Bladi.net) ; pour un poulet servi entier, Taste of Maroc le finit au four à 230 °C.",
+  "Sans couscoussier : arrose les lanières d'un peu d'eau, couvre-les et réchauffe-les au micro-ondes (Taste of Maroc)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay), « Rfissa au poulet », site officiel choumicha.ma, copie archivée du 29 novembre 2023",
+   "url": "https://web.archive.org/web/20231129211908/https://www.choumicha.ma/recette/337-r-fissa-au-poulet.html",
+   "used_for": "Source marocaine. Recette pour 4 : poulet de 1,2 kg, 2 gros oignons émincés, 10 pistils de safran, gingembre, curcuma, poivre, 4 c. à s. d'huile, 1 l d'eau, 100 g de lentilles, smen au début et à la fin ; fenugrec dans un sachet de mousseline ; pâte réchauffée à la vapeur du couscoussier ; service très chaud ; plat classé « Baptême »."
+  },
+  {
+   "name": "Choumicha, « Préparation de la pâte à Rfissa », copie archivée du 11 décembre 2023",
+   "url": "https://web.archive.org/web/20231211040021/https://choumicha.ma/recette/335-preparation-de-la-pate-a-r-fissa.html",
+   "used_for": "Quantité de pâte : 500 g de farine pour 4 personnes ; feuilles découpées aux ciseaux ou émiettées."
+  },
+  {
+   "name": "Lalla Moulati (مطبخ لالة مولاتي), « طريقة تحضير الرفيسة المغربية بالصور للمبتدئين » (la rfissa marocaine en photos, pour débutantes), 9 février 2017",
+   "url": "https://www.lalamoulati.net/57567.html",
+   "used_for": "Source marocaine (en arabe). Poulet beldi conseillé, 1/4 de tasse de fenugrec, 1 c. à c. de ras el hanout ou de msakhen, 2 l d'eau, quantité de bouillon à surveiller pendant la cuisson, dressage (bouillon sur les lanières, puis lentilles, oignons et fenugrec), variantes ail et fèves."
+  },
+  {
+   "name": "Barlamane.com, « Les secrets de la table marocaine (7) : la rfissa, plat de la générosité des soirées de ramadan », 12 mars 2026 (en arabe)",
+   "url": "https://barlamane.com/%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-7-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%B3%D8%A9-%D8%B7%D8%A8%D9%82-%D8%A7/",
+   "used_for": "Média marocain. Secrets de Hajja Fatima, « dada » (cuisinière de fêtes) à Casablanca : poulet beldi, oignons fondus à feu très doux pour un bouillon épais, fenugrec en kemmoussa, ras el hanout frais ; trid fin comme du papier. Avis de l'historien Rachid Habbaba (université Ibn Tofail) : lentilles et fenugrec, ajout marocain au tharid, en ont fait le plat de la jeune maman ; soirées de ramadan."
+  },
+  {
+   "name": "Le360 (édition arabe), « La rfissa marocaine, deuxième meilleur plat de poulet au monde pour novembre 2025 », 26 novembre 2025",
+   "url": "https://ar.le360.ma/culture/HNO7WY5ND5CKLC64G6TDERVFHE/",
+   "used_for": "Média marocain. Ingrédients de base (poulet, oignons, lentilles, safran, gingembre, fenugrec, sur msemen ou trid) ; servie aux naissances, surtout le troisième jour, et mangée en commun autour d'un grand plat."
+  },
+  {
+   "name": "Bladi.net, « Rfissa ou trid »",
+   "url": "https://www.bladi.net/recettes/rfissa-ou-trid.html",
+   "used_for": "Portail marocain. Recoupement des proportions (1/2 c. à c. de gingembre et de ras el hanout, 1/2 verre à thé de fenugrec, 1 verre à thé de lentilles pour un poulet), feuilles réchauffées au couscoussier, poulet doré au four, plat rond bien arrosé."
+  },
+  {
+   "name": "Taste of Maroc (Christine Benlafquih, Casablanca), « Moroccan Chicken Rfissa – Trid with Chicken and Lentils », mise à jour du 17 mars 2022, copie archivée du 7 décembre 2025",
+   "url": "https://web.archive.org/web/20251207074840/https://tasteofmaroc.com/moroccan-chicken-rfissa/",
+   "used_for": "Recette la plus détaillée, pour 6 : fenugrec trempé la veille (ou 1 à 2 h à l'eau bouillante), sauce aux oignons 15 à 20 min à couvert, durées pour poulet beldi et poulet standard, beaucoup de bouillon et bols à part, smen à la fin, vapeur 10 min, 1 fournée et demie de msemen, troisième jour après la naissance, variantes."
+  },
+  {
+   "name": "Taste of Maroc, « Moroccan Bormache Recipe – Meknes Style Rfissa », copie archivée du 7 décembre 2025",
+   "url": "https://web.archive.org/web/20251207064711/http://tasteofmaroc.com/moroccan-bormache-recipe-meknes-style-rfissa/",
+   "used_for": "Variante de Meknès ; confirme que fenugrec, safran, gingembre et ras el hanout sont les épices habituelles de la rfissa."
+  },
+  {
+   "name": "Taste of Maroc, « Msemen Recipe », copie archivée du 22 décembre 2025",
+   "url": "https://web.archive.org/web/20251222011641/https://tasteofmaroc.com/msemen-recipe/",
+   "used_for": "Rendement de sa fournée de msemen (environ 20 msemen de 10 cm avec 3½ tasses de farine et ½ tasse de semoule), pour comparer les quantités."
+  },
+  {
+   "name": "Paula Wolfert, The Food of Morocco (Bloomsbury), recette de tante Aïcha de Beni Mellal, reprise par Gourmet Traveller le 23 octobre 2012",
+   "url": "https://www.gourmettraveller.com.au/recipe/mains/msemmen-with-rfissa-11219/",
+   "used_for": "Référence anglophone, pour 8 : fenugrec trempé au moins 4 h à l'eau tiède, 300 g de lentilles, ras el hanout qui « fait monter le plat de dix crans », msemmen déchirés chauds puis réchauffés 10 min à la vapeur, lentilles à l'écumoire, reste du bouillon servi à part."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki), « The Mothers' Meal: Rfisa », 2012, mis à jour en 2019",
+   "url": "https://marocmama.com/the-mothers-meal-rfisa/",
+   "used_for": "Quantité de msemen (6 à 10 selon leur taille, pour 6 à 8 personnes ; on ne doit plus voir le fond du plat), plat qui doit rester bien arrosé, lentilles brunes plutôt que corail."
+  },
+  {
+   "name": "Morocco World News (Layla Dahamou), « Moroccan Cuisine: “Rfissa” Chicken Sauce », 4 mai 2012",
+   "url": "https://www.moroccoworldnews.com/2012/05/152601/moroccan-cuisine-rfissa-chicken-sauce/",
+   "used_for": "Contre-vérification : Média marocain, non cité par l'auteur : la rfissa est préparée traditionnellement pour la femme qui vient d'accoucher et servie lors des visites entre femmes ; gros poulet, 4 oignons émincés, gingembre, curcuma, poivre, ras el hanout, ail, huile d'olive, ¼ de tasse de fenugrec, lentilles, 1,5 l d'eau ; servie sur du trid découpé."
+  },
+  {
+   "name": "Morocco World News (Safaa Kasraoui), « Moroccan Cuisine: Recipe for Rfissa, Savory Chicken With Lentils », 29 août 2020",
+   "url": "https://www.moroccoworldnews.com/2020/08/66905/moroccan-cuisine-recipe-for-rfissa-savory-chicken-with-lentils/",
+   "used_for": "Contre-vérification : Recette pour 4 à 5 : poulet, 2 gros oignons, gingembre, curcuma, fenugrec (sans trempage), lentilles, smen, ail, persil, 1 l d'eau (autocuiseur 45 min) ; msemen coupés en morceaux et réchauffés à la vapeur ; poulet au centre, lentilles et ail posés à l'écumoire dessus et autour, puis la sauce."
+  },
+  {
+   "name": "Lalla Moulati, « الرفيسة التقليدية برستيج بالدجاج البلدي » (la rfissa traditionnelle au poulet beldi), 18 février 2022",
+   "url": "https://www.lalamoulati.net/312784.html",
+   "used_for": "Contre-vérification : Deuxième recette marocaine en arabe : poulet beldi, oignon, safran, poivre noir, lentilles et fèves, huile d'olive, smen, coriandre et persil ; trid étiré jusqu'à être presque transparent puis cuit à la poêle sans huile ; dressage : trid en bouchées, poulet au centre, lentilles dessus et autour, le tout arrosé de bouillon."
+  },
+  {
+   "name": "Hibapress (édition française), « Dans une ambiance et des traditions marocaines.. Shorouk Al-Chalouti célèbre la « veille du Rafisa » pour célébrer sa naissance à Dubaï », 16 octobre 2024",
+   "url": "https://fr.hibapress.com/news-139880.html",
+   "used_for": "Contre-vérification : Média marocain : la « 3chiya Rfissa » (soirée de la rfissa) fête la naissance d'un enfant après l'accouchement, dans le cadre de l'aqiqa : confirme les occasions naissance et baptême."
+  },
+  {
+   "name": "NCCIH (National Institutes of Health, États-Unis), « Fenugreek: Usefulness and Safety »",
+   "url": "https://www.nccih.nih.gov/health/fenugreek",
+   "used_for": "Contre-vérification : Sécurité : le fenugrec est jugé sûr pour les adultes et les enfants aux quantités habituelles des aliments ; au-delà, il est déconseillé pendant la grossesse ; allergies possibles ; on sait peu de chose des fortes doses pendant l'allaitement. Les 3 c. à s. pour 6 de la recette sont une dose culinaire, et la recette n'avance aucun bienfait santé."
+  }
+ ],
+ "discrepancies": [
+  "Méthode : quantités ramenées à 6 personnes à partir des trois recettes qui donnent un nombre de parts (Taste of Maroc pour 6, Choumicha pour 4, Paula Wolfert pour 8), en retenant la valeur du milieu ; Lalla Moulati, Bladi.net et MarocMama servent de recoupement. Conversions approchées : 1 tasse ≈ 237 ml, 1 tasse de lentilles ≈ 190 g.",
+  "Poulet : 1 gros poulet pour 6 sans poids précis (Taste of Maroc), 1,2 kg pour 4 (Choumicha), 1,8 kg pour 8 (Paula Wolfert) : retenu 1,8 kg pour 6.",
+  "Oignons : 3 gros pour 6 (Taste of Maroc), 2 gros pour 4 (Choumicha), 5 gros pour 8 (Paula Wolfert), 6 chez Lalla Moulati : retenu 3 gros oignons, tous émincés et mis au début.",
+  "Fenugrec : 4 c. à s. pour 6 (Taste of Maroc), 4 c. à s. pour 8 (Paula Wolfert), 1/4 de tasse, soit 4 c. à s. (Lalla Moulati), 1/2 verre à thé (Bladi.net), 1 c. à s. pour 4 « pour les amateurs » (Choumicha) : retenu 3 c. à s. pour 6.",
+  "Trempage du fenugrec : une nuit ou au moins 6 h à l'eau froide (Taste of Maroc), au moins 4 h à l'eau tiède (Paula Wolfert) ; Choumicha, Lalla Moulati et Bladi.net le mettent sans trempage. Retenu le trempage, qui ramollit les graines et atténue leur force selon Taste of Maroc.",
+  "Ras el hanout : 1 c. à s. (Taste of Maroc), 1 c. à c., ou du msakhen (Lalla Moulati), 1/2 c. à c. (Paula Wolfert, Bladi.net), aucun chez Choumicha : retenu 1 c. à c., valeur du milieu des recettes qui en mettent.",
+  "Lentilles : environ 100 g pour 6 (Taste of Maroc, 1/2 tasse), 100 g pour 4 (Choumicha), 300 g pour 8 (Paula Wolfert), 2 tasses (Lalla Moulati), 1 verre à thé (Bladi.net) : retenu 150 g.",
+  "Eau : environ 1,06 l pour 6 (Taste of Maroc, qui dit en mettre souvent moitié plus), 1 l pour 4 (Choumicha), 80 ml puis 3,75 l pour 8 (Paula Wolfert), 2 l (Lalla Moulati), 1/2 l (Bladi.net) : retenu 1,5 l, plus de l'eau chaude si besoin.",
+  "Gingembre : 1½ c. à s. pour 6 (Taste of Maroc), 1 c. à c. bombée pour 4 (Choumicha), ¾ c. à s. pour 8 (Paula Wolfert) : retenu 2 c. à c. Curcuma : 1½ c. à c. pour 6 (Taste of Maroc), 1 c. à c. pour 4 (Choumicha), ¾ c. à s. pour 8 (Paula Wolfert) : retenu 1½ c. à c. Poivre : 1 c. à s. pour 6 (Taste of Maroc), ½ c. à c. pour 4 (Choumicha), 1 c. à c. pour 8 (Paula Wolfert) : retenu ¾ c. à c.",
+  "Safran : 10 pistils pour 4 (Choumicha), 1½ c. à c. de pistils pour 6 (Taste of Maroc), ½ cuillère de safran ou de curcuma (Lalla Moulati), aucun chez Paula Wolfert : retenu 1 pincée, soit environ 15 pistils.",
+  "Huile : 1/2 tasse d'huile d'olive pour 6, soit 8 c. à s. (Taste of Maroc), 4 c. à s. pour 4 (Choumicha), 4 c. à s. pour 8 (Paula Wolfert) : retenu 6 c. à s., d'olive comme chez Taste of Maroc, Paula Wolfert et Lalla Moulati.",
+  "Smen : 1 c. à c. au début et 1 c. à c. à la fin pour 4 (Choumicha), 1½ c. à c. à la fin pour 6 (Taste of Maroc), 1 c. à c. de ghee en cours de cuisson pour 8 (Paula Wolfert), 1 à 2 c. à s. dans la marinade (Lalla Moulati) : retenu 1 c. à c. au début et 1½ c. à c. à la fin.",
+  "Marinade : la veille chez Taste of Maroc (au moins 6 h) et Lalla Moulati ; aucune chez Choumicha, Paula Wolfert et Bladi.net : recette sans marinade, marinade proposée en variante.",
+  "Lentilles : ajoutées après 1 h avec un poulet beldi et dès le début avec un poulet standard (Taste of Maroc), après environ 35 min (Paula Wolfert), dès le début (Lalla Moulati, Bladi.net) ou cuites à part (Choumicha) : retenu le schéma de Taste of Maroc. Leur trempage (une nuit chez Taste of Maroc, 30 min chez Paula Wolfert) n'est pas retenu : Choumicha, Lalla Moulati et Bladi.net ne les font pas tremper.",
+  "Cuisson : 15 à 20 min, puis 1 h, puis 1 h avec un poulet beldi, ou 15 à 20 min puis 1 h avec un poulet standard (Taste of Maroc) ; 45 min annoncées par Choumicha ; 10 + 25 + 20 à 25 min chez Paula Wolfert ; au moins 1 h chez Lalla Moulati, 1 h chez Bladi.net. Temps affiché pour un poulet beldi, vapeur comprise (2 h 30) ; compte environ 1 h de moins avec un poulet standard.",
+  "Herbes : hachées (Taste of Maroc) ou en bouquet (Choumicha ; Paula Wolfert les ficelle) : retenu hachées, pour ne rien avoir à retirer.",
+  "Msemen : 1 fournée et demie de sa recette pour 6 chez Taste of Maroc (environ 780 g de farine et de semoule) ; 500 g de farine pour 4 chez Choumicha (environ 750 g pour 6) ; 16 msemmen faits avec 410 g de farines pour 8 chez Paula Wolfert (environ 310 g pour 6) ; 6 à 10 msemen pour 6 à 8 chez MarocMama ; 500 g de farine par poulet chez Bladi.net. Retenu : une fournée de la recette du msemen de l'application (12 msemen, 600 g de farine et de semoule), proche de la valeur du milieu.",
+  "Temps de préparation : 25 min hors msemen, estimés pour émincer, hacher, mesurer et dresser ; Taste of Maroc annonce 1 h et Choumicha 45 min (1 h 30 au total moins 45 min de cuisson), sans dire si la pâte est comprise. Repos : 6 h, la durée minimale de trempage du fenugrec chez Taste of Maroc.",
+  "Taste of Maroc et Choumicha ont été lus sur des copies archivées (web.archive.org) : le 6 novembre 2026, le site de Taste of Maroc refusait l'accès automatique (erreur 403) et celui de Choumicha était hors ligne (erreur 525).",
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 4 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Les bienfaits du fenugrec pour la jeune maman (récupération, montée de lait) : croyance traditionnelle rapportée par Taste of Maroc, Barlamane et MarocMama, non vérifiée sur le plan médical ; elle n'est citée que comme tradition.",
+  "Faire bouillir le fenugrec 5 min pour lui retirer son amertume : vu seulement dans un résumé de résultats de recherche (blogs français), page non ouverte.",
+  "Fenugrec moulu à la place des graines : Taste of Maroc ne l'a jamais essayé (elle propose de commencer par ½ à 1 c. à c.) et aucune autre source ne le confirme.",
+  "Région d'origine précise de la rfissa : aucune source consultée ne la donne ; toutes la présentent comme un plat marocain."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "img": "img/rfissa.jpg",
+ "photo": {
+  "author": "مصطفى ملو",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:ERrfisa.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Tajine d'agneau aux pruneaux et aux amandes. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "tajine-agneau-pruneaux",
+ "title": "Tajine d'agneau aux pruneaux et aux amandes",
+ "darija": "Lham bel barkouk",
+ "arabic": "اللحم بالبرقوق",
+ "tagline": "Un agneau fondant au safran et au gingembre dans sa sauce aux oignons, couronné de pruneaux caramélisés à la cannelle, d'amandes frites et de sésame grillé.",
+ "category": "Tajine",
+ "occasion": "Fêtes et mariages, Aïd al-Adha, réceptions, ftour du Ramadan",
+ "region": "Maroc, plat phare de la cuisine marocaine",
+ "servings": 6,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 115,
+  "rest": 0
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Grande cocotte à fond épais avec couvercle, ou tajine en terre vernissé sur diffuseur de chaleur",
+  "Tajine de service ou plat creux",
+  "Petite casserole avec couvercle (pruneaux)",
+  "Petite poêle (amandes, puis sésame)",
+  "Petit bol et saladier",
+  "Ficelle de cuisine",
+  "Écumoire et papier absorbant"
+ ],
+ "ingredients": [
+  {
+   "group": "Viande et sauce",
+   "items": [
+    {
+     "id": "viande",
+     "q": 1.5,
+     "u": "kg",
+     "name": "d'agneau halal (épaule ou collier, avec os)",
+     "note": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
+     "canon": "agneau"
+    },
+    {
+     "id": "oignons",
+     "q": 3,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "note": "hachés finement, ou râpés",
+     "canon": "oignon"
+    },
+    {
+     "id": "ail",
+     "q": 3,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "canon": "ail"
+    },
+    {
+     "id": "huile",
+     "q": 6,
+     "u": "c. à s.",
+     "name": "d'huile d'olive ou d'huile neutre",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "smen",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de smen",
+     "note": "facultatif ; c'est la touche de Choumicha",
+     "canon": "smen"
+    },
+    {
+     "id": "gingembre",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
+    },
+    {
+     "id": "poivre",
+     "q": 0.75,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "sel",
+     "q": 1.25,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "note": "à rectifier en fin de cuisson",
+     "canon": "sel"
+    },
+    {
+     "id": "safran",
+     "q": 1,
+     "u": "pincée",
+     "name": "de pistils de safran",
+     "note": "Choumicha en compte 8 pour 1 kg de viande",
+     "canon": "safran"
+    },
+    {
+     "id": "eau-safran",
+     "q": 60,
+     "u": "ml",
+     "name": "d'eau tiède, pour le safran",
+     "canon": "eau"
+    },
+    {
+     "id": "cannelle-baton",
+     "q": 2,
+     "u": "",
+     "name": "bâton de cannelle",
+     "pl": "bâtons de cannelle",
+     "canon": "cannelle"
+    },
+    {
+     "id": "coriandre",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de coriandre fraîche",
+     "canon": "coriandre"
+    },
+    {
+     "id": "persil",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de persil frais",
+     "canon": "persil"
+    },
+    {
+     "id": "eau",
+     "q": 500,
+     "u": "ml",
+     "name": "d'eau chaude",
+     "note": "jamais froide ; rajoutes-en un peu en cours de cuisson si la viande n'est plus à moitié couverte",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pruneaux caramélisés",
+   "items": [
+    {
+     "id": "pruneaux",
+     "q": 500,
+     "u": "g",
+     "name": "de pruneaux secs",
+     "note": "Choumicha les dénoyaute",
+     "canon": "pruneaux"
+    },
+    {
+     "id": "beurre",
+     "q": 30,
+     "u": "g",
+     "name": "de beurre",
+     "canon": "beurre"
+    },
+    {
+     "id": "sucre",
+     "q": 5,
+     "u": "c. à s.",
+     "name": "de sucre semoule (ou de miel)",
+     "note": "un peu moins si tu le veux moins sucré",
+     "canon": "sucre"
+    },
+    {
+     "id": "cannelle-moulue",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
+    }
+   ]
+  },
+  {
+   "group": "Décoration",
+   "items": [
+    {
+     "id": "amandes",
+     "q": 100,
+     "u": "g",
+     "name": "d'amandes mondées (sans peau)",
+     "canon": "amandes"
+    },
+    {
+     "id": "huile-friture",
+     "q": null,
+     "u": "",
+     "name": "huile pour frire les amandes",
+     "pl": "huile pour frire les amandes",
+     "canon": "huile"
+    },
+    {
+     "id": "sesame",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "de graines de sésame",
+     "canon": "sesame"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Fais infuser le safran",
+   "text": "Mets {{safran}} de pistils de safran dans un petit bol avec {{eau-safran}} d'eau tiède. Laisse infuser 10 min pendant que tu prépares le reste.",
+   "timer": {
+    "min": 10,
+    "label": "Infusion du safran",
+    "done": "Le safran a infusé : garde le bol à portée de main."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare oignons, ail et bouquet",
+   "text": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais revenir la viande dans les épices",
+   "text": "Dans une grande cocotte à fond épais, à feu moyen-doux, mets {{huile}} d'huile, {{smen}} de smen, les oignons, l'ail, {{gingembre}} de gingembre, {{poivre}} de poivre, {{sel}} de sel, {{cannelle-baton:full}} et l'eau safranée. Mélange, ajoute {{viande}} d'agneau et fais revenir le tout 5 à 10 min en remuant souvent : la viande doit se colorer de tous côtés, sans brûler.",
+   "timer": {
+    "min": 10,
+    "label": "Viande revenue",
+    "done": "La viande est colorée de tous côtés : verse l'eau chaude."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mouille et laisse mijoter 1 h",
+   "text": "Verse {{eau}} d'eau chaude, jamais froide : la viande doit être à peu près à moitié couverte, complète un peu si besoin. Pose le bouquet d'herbes dessus et porte à ébullition. Couvre, baisse à feu doux et laisse mijoter 1 h en remuant de temps en temps.",
+   "timer": {
+    "min": 60,
+    "label": "Mijotage : 1re heure",
+    "done": "1 h de mijotage : prélève de la sauce pour les pruneaux."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pendant ce temps, fais gonfler les pruneaux",
+   "text": "Rince {{pruneaux}} de pruneaux, couvre-les d'eau bouillante et laisse-les gonfler 15 min. Égoutte-les.",
+   "timer": {
+    "min": 15,
+    "label": "Trempage des pruneaux",
+    "done": "Égoutte les pruneaux et garde-les de côté."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fais frire les amandes",
+   "text": "Chauffe un fond d'huile dans une petite poêle, à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient bien dorées. Égoutte-les sur du papier absorbant.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fais griller le sésame",
+   "text": "Essuie la poêle et fais-y griller à sec {{sesame}} de graines de sésame, à feu moyen-doux, en remuant, juste jusqu'à ce qu'elles blondissent. Verse-les aussitôt dans un bol.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Prélève de la sauce pour les pruneaux",
+   "text": "Au bout d'une heure de mijotage, verse environ un quart de la sauce de la cocotte dans une petite casserole. S'il ne reste presque plus de sauce, rajoute un peu d'eau chaude dans la cocotte. Recouvre et laisse la viande mijoter encore 30 min à feu doux.",
+   "timer": {
+    "min": 30,
+    "label": "Fin du mijotage",
+    "done": "Vérifie : la viande doit se détacher de l'os ; sinon, prolonge de 15 min."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis les pruneaux dans la sauce",
+   "text": "Ajoute {{beurre}} de beurre dans la petite casserole et fais-le fondre à feu moyen. Ajoute les pruneaux égouttés, couvre et laisse cuire 10 min, jusqu'à ce qu'ils soient tendres.",
+   "timer": {
+    "min": 10,
+    "label": "Pruneaux dans la sauce",
+    "done": "Les pruneaux sont tendres : ajoute le sucre et la cannelle."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Caramélise les pruneaux",
+   "text": "Ajoute {{sucre}} de sucre (ou de miel) et {{cannelle-moulue}} de cannelle moulue, puis mélange délicatement pour ne pas écraser les pruneaux. Couvre et laisse confire 10 min à feu doux : ils doivent être brillants, dans un sirop épais. Si le sirop reste liquide, découvre et laisse réduire quelques minutes. Garde au chaud.",
+   "timer": {
+    "min": 10,
+    "label": "Pruneaux caramélisés",
+    "done": "Sirop épais, pruneaux brillants : garde-les au chaud."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais réduire la sauce de la viande",
+   "text": "Quand la viande se détache de l'os, retire le bouquet d'herbes. Si la sauce est encore liquide, fais-la réduire à découvert 10 à 15 min à feu moyen-doux, en remuant de temps en temps : elle doit être épaisse, avec des oignons fondus. Goûte et rectifie le sel. Pendant ce temps, réchauffe le plat de service au four chaud éteint, ou remplis-le d'eau chaude puis vide-le.",
+   "timer": {
+    "min": 15,
+    "label": "Réduction de la sauce",
+    "done": "La sauce est épaisse : passe au service."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Dresse et sers",
+   "text": "Dispose la viande dans le plat chaud et garnis-la des pruneaux. Mélange la sauce de la viande avec un peu de sirop des pruneaux et nappe-en la viande. Parsème d'amandes frites et de graines de sésame grillées. Sers aussitôt, au centre de la table, avec du pain.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Fais cuire les pruneaux à part, pas dans la cocotte : ils caramélisent mieux et le plat ne vire pas au brun-noir.",
+   "source": "My Moroccan Food (Nargisse Benkabbou) ; cuisson à part aussi chez Choumicha, Bladi, Cooking with Alia, Morocco World News et Femmes du Maroc"
+  },
+  {
+   "text": "Confis les pruneaux dans un peu de sauce prélevée sur la viande, avec du beurre, puis le sucre ou le miel et la cannelle, jusqu'à un sirop épais.",
+   "source": "Cooking with Alia ; Morocco World News ; Bladi (« deux louches de sauce ») ; My Moroccan Food (sauce prélevée au bout d'1 h)"
+  },
+  {
+   "text": "Fais d'abord gonfler les pruneaux dans l'eau bouillante pour les attendrir.",
+   "source": "Cooking with Alia (15 min) ; My Moroccan Food (5 min) ; Bladi (pruneaux « gonflés dans l'eau »)"
+  },
+  {
+   "text": "Fais infuser les pistils de safran 10 min dans un peu d'eau tiède avant de les verser dans la cocotte.",
+   "source": "Cooking with Alia"
+  },
+  {
+   "text": "Ajoute une cuillerée de smen avec les épices de la viande.",
+   "source": "Choumicha"
+  },
+  {
+   "text": "Pose sur la viande un bouquet ficelé de coriandre et de persil, et retire-le avant de servir.",
+   "source": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)"
+  },
+  {
+   "text": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
+   "source": "Choumicha (conseil donné pour le tajine en terre) ; Cooking with Alia (viande à moitié couverte) ; My Moroccan Food (eau ajoutée si ça attache)"
+  },
+  {
+   "text": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
+   "source": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)"
+  },
+  {
+   "text": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
+   "source": "My Moroccan Food"
+  },
+  {
+   "text": "Avant de napper, mélange la sauce de la viande avec un peu du sirop des pruneaux.",
+   "source": "Choumicha"
+  },
+  {
+   "text": "Amandes mondées frites dans l'huile puis égouttées ; sésame grillé légèrement, à sec.",
+   "source": "Bladi ; Femmes du Maroc (amandes « émondées et frites ») ; Cooking with Alia (amandes frites)"
+  },
+  {
+   "text": "Choisis un morceau qui supporte une longue cuisson, avec os : épaule, collier ou souris d'agneau.",
+   "source": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)"
+  },
+  {
+   "text": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
+   "source": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech"
+  },
+  {
+   "text": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
+   "source": "Choumicha (conseils sur le tajine)"
+  }
+ ],
+ "mistakes": [
+  "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+  "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
+  "Laisser la sauce s'assécher : la viande attache. Rajoute un peu d'eau chaude dès qu'il n'en reste presque plus (My Moroccan Food, Cooking with Alia).",
+  "Arrêter la cuisson trop tôt : la viande doit se détacher facilement de l'os (My Moroccan Food).",
+  "Brusquer les pruneaux en fin de cuisson : mélange-les délicatement (Cooking with Alia).",
+  "Trop griller le sésame : il doit juste blondir (Bladi : « griller légèrement »).",
+  "Mettre un tajine en terre sur un feu vif : il peut se fissurer. Toujours à feu doux, avec un diffuseur sur le gaz (Choumicha).",
+  "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
+  "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain."
+ ],
+ "serving": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
+ "variants": [
+  "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
+  "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
+  "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
+  "Pruneaux et abricots : Femmes du Maroc (abricots secs) et la cheffe Asmaa Alami (Le360) associent pruneaux et abricots caramélisés ; Femmes du Maroc ajoute aussi des coings ou des pommes caramélisés.",
+  "Épices en plus : une pincée de ras el hanout (Choumicha, Cooking with Alia) ou un peu de curcuma (My Moroccan Food, Morocco World News, Cooking with Alia).",
+  "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
+  "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay) – « Tajine d'agneau aux pruneaux », choumicha.ma, copie archivée du 10/07/2026 (site hors ligne)",
+   "url": "https://web.archive.org/web/20260710205720/https://www.choumicha.ma/recette/1056-tajine-dagneau-aux-pruneaux.html",
+   "used_for": "Recette marocaine de base pour 4 : épaule ou gigot, gingembre, poivre, safran, 2 bâtons de cannelle, ras el hanout, smen, bouquet persil-coriandre, feu doux 1 h 30 ; pruneaux confits à part (sucre, beurre, cannelle) ; nappage sauce et sirop ; amandes et sésame ; classée « Pour recevoir » et « Aid Al Adha »."
+  },
+  {
+   "name": "Choumicha – « Le Tajine » (conseils d'utilisation), choumicha.ma, copie archivée du 21/05/2026",
+   "url": "https://web.archive.org/web/20260521083203/https://choumicha.ma/produits-de-saisons/le-tajine.html",
+   "used_for": "Tajine en terre : feu doux, diffuseur sur le gaz, fond tapissé d'herbes ou d'oignon, toujours mouiller à chaud ; tajine décoré réservé au service et réchauffé avant de dresser."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou) – « Lamb Tagine with Prunes », 02/02/2016",
+   "url": "https://www.mymoroccanfood.com/home/lamb-tagine-with-prunes",
+   "used_for": "Pruneaux cuits à part pour bien caraméliser sans noircir la sauce ; sauce prélevée au bout d'1 h ; eau ajoutée si ça attache ; beaucoup d'oignons pour une sauce épaisse ; morceaux (souris, épaule, collier) ; 2 h de mijotage ; variante au miel."
+  },
+  {
+   "name": "Morocco World News (Layla Dahamou) – « Moroccan Cuisine: a Recipe for Beef Meat with Prunes », 16/02/2013",
+   "url": "https://www.moroccoworldnews.com/2013/02/145374/moroccan-cuisine-a-recipe-for-beef-meat-with-prunes/",
+   "used_for": "Plat servi traditionnellement aux mariages et grandes occasions ; bœuf ou agneau ; pruneaux mijotés puis glacés avec sauce, beurre, cannelle, sucre et miel ; autocuiseur 40 min ; sésame."
+  },
+  {
+   "name": "Femmes du Maroc (La rédaction) – « Tajine de bœuf aux fruits frais et fruits secs », 21/06/2025",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/tajine-de-boeuf-aux-fruits-frais-et-fruits-secs",
+   "used_for": "Variante bœuf (jarret) ; viande revenue avec oignons, safran, gingembre, cannelle et herbes ; pruneaux et abricots confits à part ; amandes émondées et frites."
+  },
+  {
+   "name": "Bladi.net – « Tajine de viande aux pruneaux » (recette non signée)",
+   "url": "https://www.bladi.net/recettes/tajine-de-viande-aux-pruneaux.html",
+   "used_for": "Proportions pour 1,5 kg d'épaule (500 g de pruneaux, 100 g d'amandes) ; pruneaux cuits dans deux louches de sauce avec sucre et cannelle ; amandes mondées frites et égouttées ; sésame grillé légèrement à sec ; autocuiseur."
+  },
+  {
+   "name": "Cooking with Alia – « 413 – Beef Tagine with Prunes / طاجين اللحم بالبرقوق »",
+   "url": "https://www.cookingwithalia.com/413-beef-tagine-with-prunes/",
+   "used_for": "Safran infusé 10 min ; oignons râpés ; viande toujours à moitié couverte, 1 à 2 h ; pruneaux trempés 15 min puis cuits dans beurre et sauce, avec miel et cannelle, jusqu'au sirop épais ; amandes frites et sésame ; nom arabe du plat."
+  },
+  {
+   "name": "Grantourismo (Terence Carter) – « Moroccan Lamb Tagine with Prunes and Almonds Recipe from Marrakech », recette apprise de Jamila, cuisinière d'un riad de Marrakech, retouchée par l'auteur",
+   "url": "https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/",
+   "used_for": "Cuisson en cocotte puis service dans le tajine en terre ; sauce réduite en oignons sirupeux ; bouquet à retirer ; servi avec du pain ou du couscous nature, en rappelant que pour les Marocains le couscous est un plat à part ; épaule, collier ou souris."
+  },
+  {
+   "name": "Le360 (La Rédaction) – « À l'heure du Ftour : le tagine aux pruneaux, l'incontournable de la cuisine marocaine », 25/02/2026",
+   "url": "https://fr.le360.ma/lifestyle/a-lheure-du-ftour-le-tagine-aux-pruneaux-lincontournable-de-la-cuisine-marocaine_LG6OX7FZGBEUFLJVRWLXTD6U3M/",
+   "used_for": "« Plat phare de la gastronomie marocaine », au ftour du Ramadan ; variante de la cheffe Asmaa Alami avec abricots caramélisés et amandes effilées."
+  },
+  {
+   "name": "Bladi.net (Bouchra Fadel) – « La cuisine marocaine, un élément de joie et un régal des sens », 25/05/2004",
+   "url": "https://www.bladi.net/la-cuisine-marocaine-un-element-de-joie-et-un-regal-des-sens.html",
+   "used_for": "Recoupement des mariages : au mariage marocain, les viandes garnies, l'agneau en particulier, avec pruneaux, amandes et raisins secs sont servies aux invités."
+  },
+  {
+   "name": "Femmes du Maroc – « Casablanca à l'heure du ftour : nos tables coups de cœur », 20/02/2026",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/casablanca-a-lheure-du-ftour-nos-tables-coups-de-coeur",
+   "used_for": "Recoupement du Ramadan : tajine de bœuf aux pruneaux et aux amandes au menu d'un ftour."
+  },
+  {
+   "name": "Lalla Moulati (مطبخ لالة مولاتي), « طاجين اللحم بالبرقوق بطريقة ماما » (tajine de viande aux pruneaux à la façon de maman), 25 février 2021",
+   "url": "https://www.lalamoulati.net/270316.html",
+   "used_for": "Contre-vérification : Source marocaine en arabe, non citée par l'auteur : nom arabe « طاجين اللحم بالبرقوق » ; 1 kg de viande en gros cubes revenue avec gingembre, curcuma, poivre, safran et cannelle, puis oignons et ail ; mouillée à l'eau bouillante et cuite à feu doux jusqu'à ce qu'elle soit tendre ; pruneaux cuits à part avec bâtons de cannelle, beurre et sucre (2 c. à s. pour 250 g) ; dressage : viande, pruneaux et leur sirop, amandes mondées grillées, sésame grillé."
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات عيد الأضحى: اللحم بالبرقوق واللوز » (plats de l'Aïd al-Adha : viande aux pruneaux et aux amandes), 25 juin 2023",
+   "url": "https://www.lalamoulati.net/373674.html",
+   "used_for": "Contre-vérification : Plat présenté comme un plat de l'Aïd al-Adha ; viande prise dans l'épaule ; safran trempé dans un verre d'eau chaude ; gingembre, curcuma, poivre, cannelle, smen et oignons (la page ne donne que les ingrédients)."
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات عيد الأضحى: جبت ليك طريقة المحترفات فتحضير اللحم بالبرقوق … بالمذاق ديال الأعراس » (plats de l'Aïd al-Adha : la viande aux pruneaux au goût des mariages), 28 juin 2023",
+   "url": "https://www.lalamoulati.net/374119.html",
+   "used_for": "Contre-vérification : Plat de l'Aïd al-Adha et des mariages : la page présente « le secret de la viande aux pruneaux des mariages » pour les fêtes marocaines (recette en vidéo, quantités non lues)."
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات عيد الأضحى: اللحم بالبرقوق والمشماش معسل بالطريقة المراكشية » (viande aux pruneaux et aux abricots, à la marrakchie), 25 juin 2023",
+   "url": "https://www.lalamoulati.net/373690.html",
+   "used_for": "Contre-vérification : Variante pruneaux et abricots, présentée comme un plat propre à l'Aïd al-Adha dont on ne peut se passer (recette en vidéo, quantités non lues)."
+  },
+  {
+   "name": "Yabiladi (Fatima Az Zahra El Boukhari), « Le mariage marocain : entre traditions et touches de modernité », 20 mars 2012",
+   "url": "https://www.yabiladi.com/articles/details/9510/mariage-marocain-entre-traditions-touches",
+   "used_for": "Contre-vérification : Média marocain : le dîner de mariage se compose en général d'une pastilla, d'un plat de viande (tajine aux pruneaux, méchoui ou poulet aux olives) et d'un dessert."
+  },
+  {
+   "name": "Bladi.net, « Tajine d'agneau aux pruneaux » (recette non signée, datée du 30 octobre 2005)",
+   "url": "https://www.bladi.net/recettes/tajine-d-agneau-aux-pruneaux.html",
+   "used_for": "Contre-vérification : Deuxième recette marocaine de Bladi, non citée : épaule d'agneau, 400 g de pruneaux pour 1,2 kg (333 g par kilo, le rapport retenu), 40 cl d'eau (333 ml par kilo), 1 h de frémissement, miel et cannelle, amandes mondées dorées à l'huile. Elle cuit les pruneaux dans la cocotte : la cuisson commune existe aussi dans une source marocaine."
+  }
+ ],
+ "discrepancies": [
+  "Saisir ou non : My Moroccan Food saisit la viande seule à feu vif avant les oignons ; Femmes du Maroc la fait revenir avec oignons et épices « jusqu'à ce que la viande soit bien caramélisée », Cooking with Alia quelques minutes jusqu'à coloration, Choumicha 2 min à feu doux ; Bladi met tout à cru dans l'autocuiseur. Retenu : 5 à 10 min avec oignons et épices, sans saisir à part.",
+  "Liquide des pruneaux : sauce de la viande chez Bladi, My Moroccan Food, Cooking with Alia et Morocco World News ; eau chez Choumicha (25 cl pour 500 g) et Femmes du Maroc. Retenu : la sauce (majorité), plus le nappage sauce et sirop de Choumicha.",
+  "Sucre ou miel : sucre chez Choumicha, Bladi et Femmes du Maroc ; miel chez My Moroccan Food et Cooking with Alia ; les deux chez Morocco World News. Ramenée à 500 g de pruneaux, la dose va de 3 à 6 c. à s. chez Choumicha, Bladi, My Moroccan Food, Cooking with Alia et Morocco World News (médiane 5) ; Femmes du Maroc, bien plus sucrée, en met environ 165 g (100 g pour 300 g de pruneaux), soit une douzaine de c. à s. Retenu : 5 c. à s. de sucre, miel en variante.",
+  "Amandes : frites chez Bladi, Femmes du Maroc et Cooking with Alia ; grillées chez Choumicha et My Moroccan Food ; effilées chez Le360 et Grantourismo. Retenu : entières, mondées et frites.",
+  "Pruneaux : de 250 g par kilo de viande (Morocco World News, My Moroccan Food) à 500 g par kilo (Choumicha), médiane d'environ 320 g ; Femmes du Maroc, qui ajoute autant d'abricots secs, n'en met qu'environ 90 g par kilo (300 g pour 3,3 kg). Retenu : 500 g pour 1,5 kg, comme Bladi.",
+  "Eau : 350 ml pour 1 kg chez Choumicha, 320 ml pour 1,2 kg chez My Moroccan Food (médiane d'environ 330 ml par kilo sur 4 recettes en cocotte) ; Cooking with Alia couvre presque la viande. Retenu : 500 ml pour 1,5 kg, en rajoutant de l'eau chaude si besoin.",
+  "Curcuma (My Moroccan Food, Morocco World News, Cooking with Alia) et ras el hanout (Choumicha, Cooking with Alia en option, Grantourismo) : chacun absent de la majorité des recettes, donc passés en variante.",
+  "Moment des pruneaux : Grantourismo (recette de Jamila retouchée par l'auteur) les met dans la cocotte 1 h avant la fin, avec les amandes, et le sucre ou le miel y est facultatif ; toutes les autres sources les cuisent à part. Retenu : à part.",
+  "Choumicha ajoute 1 c. à c. de sel au sirop des pruneaux ; aucune autre source ne le fait. Non retenu.",
+  "Bladi saupoudre aussi la viande de 2 c. à s. de sucre et ajoute un deuxième oignon émincé en fin de cuisson : seule source à le faire, non retenu.",
+  "Durée en cocotte : 1 h 30 (Choumicha), 1 à 2 h (Cooking with Alia), 2 h (My Moroccan Food), au moins 2 h (Grantourismo). Retenu : 1 h 30 de mijotage, prolongé tant que la viande ne se détache pas de l'os, puis réduction.",
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Eau de fleur d'oranger : seule la recette « Agneau aux pruneaux et aux amandes » de Bladi.net en met (1 c. à s. dans le liquide de cuisson), une recette atypique sans oignons ni autre épice que la cannelle, avec 1 tasse de sucre (https://www.bladi.net/recettes/agneau-aux-pruneaux-et-aux-amandes.html). Aucune des sources retenues n'en utilise : non retenue.",
+  "Œuf en décoration : Morocco World News propose de « mettre un œuf » sur le plat, sans préciser sa cuisson ; non retenu.",
+  "Aïd al-Adha : classement de Choumicha (catégorie « Aid Al Adha »), recoupé par la contre-vérification : Lalla Moulati publie en juin 2023 plusieurs recettes d'اللحم بالبرقوق sous le titre « شهيوات عيد الأضحى » (plats de l'Aïd al-Adha). Morocco World News publie pour l'Aïd al-Adha une recette voisine, aux abricots et à l'ananas plutôt qu'aux pruneaux (https://www.moroccoworldnews.com/2019/08/77990/eid-al-adha-caramlized-lamb/).",
+  "Durée et quantité d'eau pour une cuisson entière au tajine en terre, et durée précise pour le bœuf en cocotte : non données par les sources.",
+  "Nom en darija : la graphie « Lham bel barkouk » vient de la demande, aucune page ouverte ne l'écrit ainsi ; le nom arabe اللحم بالبرقوق est confirmé par Cooking with Alia (« طاجين اللحم بالبرقوق »).",
+  "Site de Choumicha hors ligne (erreur 525) : ses deux pages ont été lues sur les copies archivées de web.archive.org.",
+  "Le360 : la recette de la cheffe Asmaa Alami est en vidéo ; seul le texte d'introduction a été lu, sans les quantités.",
+  "Taste of Maroc (page refusée, erreur 403) et Royal Mansour (aucune recette de ce plat trouvée en recherche) n'ont pas pu être consultés. Lalla Moulati, introuvable lors de la rédaction, a été lue par la contre-vérification : recettes d'اللحم بالبرقوق de 2021 et 2023."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Tajines",
+ "pairs": [
+  "khobz"
+ ],
+ "img_alt": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
+ "img": "img/tajine-pruneaux.jpg",
+ "photo": {
+  "author": "Iron Bishop",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:IB_tajine_03.jpg",
   "modified": "réduite"
  }
 });
@@ -2282,56 +4545,65 @@ window.RECETTES.push({
      "q": 450,
      "u": "g",
      "name": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
-     "note": "pas trop maigre : 15 à 20 % de matière grasse"
+     "note": "pas trop maigre : 15 à 20 % de matière grasse",
+     "canon": "boeuf-hache"
     },
     {
      "id": "oignon-kefta",
      "q": 1,
      "u": "",
      "name": "petit oignon, râpé",
-     "pl": "petits oignons, râpés"
+     "pl": "petits oignons, râpés",
+     "canon": "oignon"
     },
     {
      "id": "persil-kefta",
      "q": 3,
      "u": "c. à s.",
-     "name": "de persil plat haché"
+     "name": "de persil plat haché",
+     "canon": "persil"
     },
     {
      "id": "coriandre-kefta",
      "q": 3,
      "u": "c. à s.",
-     "name": "de coriandre fraîche hachée"
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
     },
     {
      "id": "paprika-kefta",
      "q": 1,
      "u": "c. à c.",
-     "name": "de paprika doux"
+     "name": "de paprika doux",
+     "canon": "paprika"
     },
     {
      "id": "cumin-kefta",
      "q": 1,
      "u": "c. à c.",
-     "name": "de cumin moulu"
+     "name": "de cumin moulu",
+     "canon": "cumin"
     },
     {
      "id": "sel-kefta",
      "q": 1,
      "u": "c. à c.",
-     "name": "de sel fin"
+     "name": "de sel fin",
+     "canon": "sel"
     },
     {
      "id": "poivre-kefta",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "piment-kefta",
      "q": 1,
      "u": "pincée",
-     "name": "de piment de Cayenne"
+     "name": "de piment de Cayenne",
+     "canon": "piment-cayenne"
     }
    ]
   },
@@ -2342,78 +4614,90 @@ window.RECETTES.push({
      "id": "tomates",
      "q": 1,
      "u": "kg",
-     "name": "de tomates fraîches bien mûres"
+     "name": "de tomates fraîches bien mûres",
+     "canon": "tomate"
     },
     {
      "id": "huile",
      "q": 3,
      "u": "c. à s.",
-     "name": "d'huile d'olive"
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
     },
     {
      "id": "oignon-sauce",
      "q": 1,
      "u": "",
      "name": "oignon moyen, haché finement",
-     "pl": "oignons moyens, hachés finement"
+     "pl": "oignons moyens, hachés finement",
+     "canon": "oignon"
     },
     {
      "id": "ail",
      "q": 4,
      "u": "",
      "name": "gousse d'ail, écrasée",
-     "pl": "gousses d'ail, écrasées"
+     "pl": "gousses d'ail, écrasées",
+     "canon": "ail"
     },
     {
      "id": "paprika-sauce",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de paprika doux"
+     "name": "de paprika doux",
+     "canon": "paprika"
     },
     {
      "id": "cumin-sauce",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de cumin moulu"
+     "name": "de cumin moulu",
+     "canon": "cumin"
     },
     {
      "id": "sel-sauce",
      "q": 1.5,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "à ajuster en goûtant"
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
     },
     {
      "id": "poivre-sauce",
      "q": 0.25,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "piment-sauce",
      "q": 1,
      "u": "pincée",
      "name": "de piment de Cayenne",
-     "note": "ou 2 petits piments forts entiers"
+     "note": "ou 2 petits piments forts entiers",
+     "canon": "piment-cayenne"
     },
     {
      "id": "persil-sauce",
      "q": 2,
      "u": "c. à s.",
-     "name": "de persil plat haché"
+     "name": "de persil plat haché",
+     "canon": "persil"
     },
     {
      "id": "coriandre-sauce",
      "q": 2,
      "u": "c. à s.",
-     "name": "de coriandre fraîche hachée"
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
     },
     {
      "id": "eau",
      "q": null,
      "u": "",
      "name": "eau",
-     "note": "seulement si la sauce attache"
+     "note": "seulement si la sauce attache",
+     "canon": "eau"
     }
    ]
   },
@@ -2426,27 +4710,31 @@ window.RECETTES.push({
      "u": "",
      "name": "œuf",
      "note": "fermiers (beldi) de préférence",
-     "pl": "œufs"
+     "pl": "œufs",
+     "canon": "oeuf"
     },
     {
      "id": "sel-oeufs",
      "q": null,
      "u": "",
      "name": "sel fin",
-     "note": "une petite pincée sur chaque œuf"
+     "note": "une petite pincée sur chaque œuf",
+     "canon": "sel"
     },
     {
      "id": "coriandre-deco",
      "q": 1,
      "u": "c. à c.",
-     "name": "de coriandre fraîche ciselée"
+     "name": "de coriandre fraîche ciselée",
+     "canon": "coriandre"
     },
     {
      "id": "khobz",
      "q": null,
      "u": "",
      "name": "khobz (pain marocain)",
-     "note": "à volonté, pour saucer"
+     "note": "à volonté, pour saucer",
+     "canon": "khobz"
     }
    ]
   }
@@ -2727,6 +5015,10 @@ window.RECETTES.push({
   "Graphie « bel bid » : reprise de la demande ; non vérifiée dans une source marocaine."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Tajines",
+ "pairs": [
+  "khobz"
+ ],
  "img": "img/kefta.jpg",
  "photo": {
   "author": "Mzximvs VdB from Brussels, belgium",
@@ -2775,72 +5067,83 @@ window.RECETTES.push({
      "u": "",
      "name": "poulet halal, fermier (beldi) de préférence",
      "note": "environ 1,5 kg, coupé en 4 à 6 morceaux",
-     "pl": "poulets halal, fermiers (beldi) de préférence"
+     "pl": "poulets halal, fermiers (beldi) de préférence",
+     "canon": "poulet"
     },
     {
      "id": "safran",
      "q": 1,
      "u": "pincée",
      "name": "de pistils de safran",
-     "note": "une pincée généreuse ; Choumicha en compte 8 pistils"
+     "note": "une pincée généreuse ; Choumicha en compte 8 pistils",
+     "canon": "safran"
     },
     {
      "id": "eau-safran",
      "q": 60,
      "u": "ml",
-     "name": "d'eau chaude, pour infuser le safran"
+     "name": "d'eau chaude, pour infuser le safran",
+     "canon": "eau"
     },
     {
      "id": "sel",
      "q": 1,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "à rectifier à la fin : le citron confit et les olives salent déjà"
+     "note": "à rectifier à la fin : le citron confit et les olives salent déjà",
+     "canon": "sel"
     },
     {
      "id": "gingembre",
      "q": 1,
      "u": "c. à c.",
      "name": "de gingembre moulu",
-     "note": "bien bombée"
+     "note": "bien bombée",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 1,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "poivre",
      "q": null,
      "u": "",
-     "name": "poivre noir ou blanc moulu, selon le goût"
+     "name": "poivre noir ou blanc moulu, selon le goût",
+     "canon": "poivre"
     },
     {
      "id": "smen",
      "q": 1,
      "u": "c. à c.",
      "name": "de smen (beurre rance marocain)",
-     "note": "ou du beurre ; facultatif"
+     "note": "ou du beurre ; facultatif",
+     "canon": "smen"
     },
     {
      "id": "ail",
      "q": 2,
      "u": "",
      "name": "gousse d'ail, écrasée ou râpée",
-     "pl": "gousses d'ail, écrasées ou râpées"
+     "pl": "gousses d'ail, écrasées ou râpées",
+     "canon": "ail"
     },
     {
      "id": "jus-citron",
      "q": 2,
      "u": "c. à s.",
-     "name": "de jus de citron frais"
+     "name": "de jus de citron frais",
+     "canon": "citron"
     },
     {
      "id": "herbes",
      "q": 4,
      "u": "c. à s.",
-     "name": "de coriandre et de persil frais hachés"
+     "name": "de coriandre et de persil frais hachés",
+     "canon": "coriandre"
     }
    ]
   },
@@ -2853,26 +5156,30 @@ window.RECETTES.push({
      "u": "",
      "name": "oignon moyen (jaune, blanc ou rouge)",
      "note": "hachés finement",
-     "pl": "oignons moyens (jaunes, blancs ou rouges)"
+     "pl": "oignons moyens (jaunes, blancs ou rouges)",
+     "canon": "oignon"
     },
     {
      "id": "eau-depart",
      "q": 60,
      "u": "ml",
-     "name": "d'eau, pour le départ de cuisson"
+     "name": "d'eau, pour le départ de cuisson",
+     "canon": "eau"
     },
     {
      "id": "huile",
      "q": 60,
      "u": "ml",
-     "name": "d'huile : moitié huile d'olive, moitié huile neutre"
+     "name": "d'huile : moitié huile d'olive, moitié huile neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "eau-chaude",
      "q": 240,
      "u": "ml",
      "name": "d'eau chaude",
-     "note": "le liquide doit arriver à peu près aux deux tiers du poulet"
+     "note": "le liquide doit arriver à peu près aux deux tiers du poulet",
+     "canon": "eau"
     }
    ]
   },
@@ -2885,14 +5192,16 @@ window.RECETTES.push({
      "u": "",
      "name": "citron confit",
      "note": "l'écorce seulement, en fines lanières",
-     "pl": "citrons confits"
+     "pl": "citrons confits",
+     "canon": "citron-confit"
     },
     {
      "id": "olives",
      "q": 150,
      "u": "g",
      "name": "d'olives vertes ou violettes de bonne qualité",
-     "note": "dénoyautées ou non"
+     "note": "dénoyautées ou non",
+     "canon": "olives"
     }
    ]
   }
@@ -3227,12 +5536,823 @@ window.RECETTES.push({
   "Amour de cuisine : non consulté."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Tajines",
+ "pairs": [
+  "khobz"
+ ],
  "img": "img/tajine-poulet.jpg",
  "photo": {
   "author": "Foodista",
   "license": "CC BY 2.0",
   "license_url": "https://creativecommons.org/licenses/by/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-01.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Thé à la menthe marocain. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "the-menthe",
+ "title": "Thé à la menthe marocain",
+ "darija": "Atay b nanaa",
+ "arabic": "أتاي بالنعناع",
+ "tagline": "Le thé vert à la menthe des familles marocaines : on garde le premier jet, on rince le thé, puis on le verse de haut pour la mousse.",
+ "category": "Boisson",
+ "occasion": "Tous les jours, à toute heure : c'est la boisson de l'hospitalité, la première chose qu'on prépare pour accueillir un invité.",
+ "region": "Tout le Maroc (boisson nationale) ; les herbes changent avec les saisons.",
+ "servings": 6,
+ "servings_label": "verres",
+ "time": {
+  "prep": 5,
+  "cook": 10,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Théière marocaine (berrad) qui supporte le feu, ou une bouilloire qui va sur le feu",
+  "Bouilloire pour faire bouillir l'eau",
+  "Petits verres à thé, plus un verre pour garder le premier jet",
+  "Plateau (sinia)",
+  "Torchon en coton pour tenir l'anse brûlante",
+  "Petite passoire, si tu prépares le thé dans une bouilloire",
+  "Petit marteau pour casser le pain de sucre (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Thé à la menthe",
+   "items": [
+    {
+     "id": "the",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de thé vert de Chine gunpowder",
+     "note": "bien remplie ; thé roulé en petits grains. À défaut, du chunmee",
+     "canon": "the-vert"
+    },
+    {
+     "id": "menthe",
+     "q": 1,
+     "u": "botte",
+     "name": "de menthe fraîche (nanaa)",
+     "note": "une grosse botte de menthe verte, tiges comprises",
+     "canon": "menthe"
+    },
+    {
+     "id": "sucre",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "de sucre",
+     "note": "idéalement en morceaux cassés d'un pain de sucre ; à ajuster après avoir goûté",
+     "canon": "sucre"
+    }
+   ]
+  },
+  {
+   "group": "Eau bouillante",
+   "items": [
+    {
+     "id": "eau-premier-jet",
+     "q": 120,
+     "u": "ml",
+     "name": "d'eau bouillante, pour le premier jet",
+     "canon": "eau"
+    },
+    {
+     "id": "eau-rincage",
+     "q": 120,
+     "u": "ml",
+     "name": "d'eau bouillante, pour rincer le thé",
+     "canon": "eau"
+    },
+    {
+     "id": "eau",
+     "q": 600,
+     "u": "ml",
+     "name": "d'eau bouillante, pour remplir la théière",
+     "note": "selon ta théière : environ aux trois quarts, jamais jusqu'au bord",
+     "canon": "eau"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Fais bouillir l'eau et lave la menthe",
+   "text": "Fais bouillir toute l'eau de la liste dans une bouilloire. Pendant ce temps, lave délicatement {{menthe}} de menthe et égoutte-la.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Le premier jet : garde l'esprit du thé",
+   "text": "Mets {{the}} de thé vert dans la théière et verse dessus {{eau-premier-jet}} d'eau bouillante. Laisse infuser 1 minute, puis verse ce premier jet dans un verre et garde-le de côté : c'est l'esprit du thé, ne le jette pas.",
+   "timer": {
+    "min": 1,
+    "label": "Premier jet",
+    "done": "Verse le premier jet dans un verre et garde-le."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Rince le thé et jette cette eau",
+   "text": "Verse {{eau-rincage}} d'eau bouillante sur les feuilles et fais tourner la théière deux ou trois fois. Jette cette eau, plus foncée, par le bec : elle emporte l'amertume et la poussière, et les feuilles restent dans la théière.",
+   "timer": null
+  },
+  {
+   "phase": "Infusion",
+   "title": "Ajoute la menthe, le sucre et le premier jet",
+   "text": "Tasse la menthe dans la théière, tiges comprises, et ajoute {{sucre}} de sucre. Reverse le premier jet, puis complète avec {{eau}} d'eau bouillante, sans remplir jusqu'au bord. La menthe doit être entièrement sous l'eau.",
+   "timer": null
+  },
+  {
+   "phase": "Infusion",
+   "title": "Porte doucement à ébullition",
+   "text": "Pose la théière sur feu doux à moyen et laisse-la monter lentement jusqu'à l'ébullition : de la vapeur s'échappe de la théière. Retire-la aussitôt du feu, en tenant l'anse avec un torchon, car elle est brûlante.",
+   "timer": null
+  },
+  {
+   "phase": "Infusion",
+   "title": "Mélange en versant et reversant",
+   "text": "Remplis un verre de thé et reverse-le dans la théière. Recommence 2 ou 3 fois : le sucre fond et les saveurs se mélangent.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte et rectifie le sucre",
+   "text": "Verse un fond de verre et goûte. S'il manque du sucre, ajoutes-en, puis refais un aller-retour entre le verre et la théière.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers de haut pour la mousse",
+   "text": "Verse le thé dans les petits verres en levant haut la théière, d'un geste régulier : plus tu verses de haut, plus il mousse. Cette mousse doit occuper environ un quart du verre. Sers très chaud.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Garde le premier jet : cette première eau, versée sur le thé et laissée 1 minute, est « l'esprit du thé », la plus parfumée. Mets-la de côté dans un verre, elle retourne ensuite dans la théière.",
+   "source": "Cooking with Alia (« spirit of the tea », nom employé au Maroc selon elle) ; My Moroccan Food (« essence », « ne la jette pas ») ; Royal Mansour (« premier essentiel retenu »)"
+  },
+  {
+   "text": "C'est la deuxième eau, celle du rinçage, qu'on jette : elle lave les feuilles, retire une partie de l'amertume et la poussière, et ressort plus foncée.",
+   "source": "Cooking with Alia, My Moroccan Food et Royal Mansour (deuxième eau jetée, plus foncée chez Alia) ; Al Jazeera (Hend Aklaw) et Moroccan Zest (le rinçage retire l'amertume, les goûts forts et la poussière)"
+  },
+  {
+   "text": "Laisse le thé monter doucement à ébullition, sur feu doux à moyen : c'est ce qui donne au thé et à la menthe le temps d'infuser.",
+   "source": "My Moroccan Food ; Cooking with Alia ; Morocco World News"
+  },
+  {
+   "text": "Sois généreux avec la menthe et tasse-la, en pliant les tiges s'il le faut, mais garde-la sous l'eau : à l'air, elle peut rendre le thé amer.",
+   "source": "Moroccan Zest"
+  },
+  {
+   "text": "Mélange en versant un verre de thé et en le reversant dans la théière, plusieurs fois, puis goûte et rectifie le sucre avant de servir.",
+   "source": "Cooking with Alia (2 à 3 fois) ; Al Jazeera (3 ou 4 verres, on goûte puis on ajoute du sucre)"
+  },
+  {
+   "text": "Verse de haut : plus la théière est haute, plus il y a de mousse. Cette mousse occupe environ un quart du verre ; le chroniqueur marocain Najib Refaif la compare, en plaisantant, à une « rozza » (un turban).",
+   "source": "La Vie Éco (Najib Refaif, pour l'image de la « rozza ») ; Moroccan Zest ; Al Jazeera ; Cooking with Alia"
+  },
+  {
+   "text": "Le sucre vient d'un pain de sucre, cassé au petit marteau ou avec le fond d'un verre ; les connaisseurs le préfèrent aux briques de sucre.",
+   "source": "Maroc.ma (dépêche MAP) ; Morocco World News"
+  },
+  {
+   "text": "Le thé se prépare devant les invités, traditionnellement par le maître de maison, avec plus de verres que d'invités sur le plateau.",
+   "source": "Royal Mansour ; Al Jazeera ; Moroccan Zest"
+  },
+  {
+   "text": "La base est un thé vert de Chine roulé en petits grains, le gunpowder.",
+   "source": "My Moroccan Food ; Moroccan Zest ; Morocco World News ; Maroc.ma (« souvent de type Gunpowder »)"
+  }
+ ],
+ "mistakes": [
+  "Jeter le premier jet : c'est l'esprit du thé, il doit retourner dans la théière.",
+  "Oublier le rinçage : le thé reste amer et garde sa poussière.",
+  "Laisser des tiges de menthe hors de l'eau : le thé peut devenir amer.",
+  "Remplir la théière jusqu'au bord : laisse environ 2,5 cm de vide.",
+  "Chauffer à feu vif : le thé doit monter doucement à ébullition.",
+  "Laisser bouillir longtemps : plus le thé bout, plus il est fort et chargé en caféine.",
+  "Servir dans des tasses : le thé marocain se boit dans de petits verres.",
+  "Verser de trop près : c'est la hauteur qui fait la mousse."
+ ],
+ "serving": "Sers très chaud, dans de petits verres et non dans des tasses, posés sur un plateau (sinia) autour de la théière (berrad) ; prévois plus de verres que d'invités. Traditionnellement, c'est le maître de maison qui prépare le thé devant ses invités. Les feuilles restent dans la théière : on sert au moins trois verres, chacun plus fort que le précédent ; un dicton dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort ; il en existe une autre version, où le premier est amer comme la vie et le dernier apaisant comme la mort. Pour plus d'arôme, glisse un peu de menthe fraîche dans chaque verre. Avec des cornes de gazelle, des ghriba ou des briouates aux amandes, ou simplement du pain et des olives.",
+ "variants": [
+  "Chiba (absinthe, la plante) en hiver : d'octobre à avril, elle remplace la menthe quand il fait froid et que la menthe est moins bonne ; dans les cafés, on la sert à part et chacun l'ajoute dans son verre. Goût nettement plus amer. Mets-en peu : l'absinthe contient de la thuyone, réputée neurotoxique ; l'Agence européenne des médicaments la réserve aux adultes et la déconseille pendant la grossesse et l'allaitement, ainsi qu'en cas de maladie du foie ou des voies biliaires ou d'allergie aux astéracées — Hespress (dépêche Anadolu) ; Agence européenne des médicaments ; aussi Al Jazeera, Moroccan Zest, Morocco World News, Wikipédia.",
+  "Louiza (verveine citronnelle), à la place de la menthe ou avec elle — Al Jazeera ; Morocco World News ; la verveine aussi chez My Moroccan Food et Moroccan Zest.",
+  "Zaatar en hiver, à la place de la menthe — Hespress (dépêche Anadolu) ; Asharq cite aussi le « أتاي بالزعتر ».",
+  "Menthe pouliot et absinthe quand il fait froid, réputées réchauffantes ; pour l'absinthe, mêmes précautions que pour la chiba — Moroccan Zest ; Agence européenne des médicaments. Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
+  "Fleur d'oranger : de l'eau de fleur d'oranger ajoutée hors du feu — Moroccan Zest ; Al Jazeera cite aussi les fleurs d'agrumes (« زهر الليمون ») à la place de la menthe.",
+  "Géranium, thym sauvage ou sauge à la place de la menthe — Morocco World News ; le géranium aussi chez My Moroccan Food.",
+  "Pour les fêtes (fiançailles, mariages) : boutons de rose, verveine et cannelle — Moroccan Zest."
+ ],
+ "sources": [
+  {
+   "name": "My Moroccan Food — Nargisse Benkabbou, « Moroccan Mint Tea » (30 avril 2015)",
+   "url": "https://www.mymoroccanfood.com/home/2015/4/27/moroccan-mint-tea",
+   "used_for": "Cheffe élevée à Bruxelles dans une famille marocaine, ancienne cheffe exécutive de L'Mida Marrakech. Recette : 1 c. à c. bombée de gunpowder, 7 brins de menthe, 3 c. à s. de sucre, 500 ml d'eau (pour 400 ml de thé) ; premier jet gardé (« essence », « ne la jette pas »), deuxième eau jetée, montée lente à ébullition sur feu moyen-doux, vapeur, sucre remué à la grande cuillère, feuille de menthe dans le verre ; verveine et géranium ; accompagnements (cornes de gazelle, ghriba, briouates)."
+  },
+  {
+   "name": "Cooking with Alia — « 444 – Moroccan Mint Tea / الشاي المغربي بالنعناع » (non daté)",
+   "url": "https://www.cookingwithalia.com/444-moroccan-mint-tea-2/",
+   "used_for": "Site d'une cuisinière qui a grandi avec la cuisine marocaine. 3 c. à c. de thé (gunpowder ou chun mee), grosse poignée de menthe, 3 c. à s. de sucre ; premier jet gardé (« spirit of the tea », nom employé au Maroc selon elle), deuxième eau jetée et plus foncée, théière aux trois quarts, ébullition à feu doux, menthe et sucre hors du feu, 2 à 3 allers-retours verre-théière, service de haut pour la mousse."
+  },
+  {
+   "name": "Moroccan Zest — Safaa, « Moroccan Mint Tea Recipe » (29 mai 2018, mise à jour le 7 août 2024)",
+   "url": "https://moroccanzest.com/authentic-moroccan-mint-tea-recipe/",
+   "used_for": "Blog d'une Marocaine. 1 c. à s. de gunpowder, 4 branches de menthe verte, 2 c. à s. de sucre, 3 tasses d'eau pour 4 personnes ; un seul rinçage, jeté par le bec (enlève les goûts forts) ; 2,5 cm de vide ; ébullition 1 à 3 min puis 1 à 2 min avec la menthe ; menthe sous l'eau ; torchon pour l'anse ; plus on verse haut, plus il mousse ; au moins trois verres et proverbe ; menthe pouliot et absinthe par temps froid ; rose, verveine et cannelle pour les fêtes ; fleur d'oranger ; préparé par le chef de famille, sur un plateau d'argent."
+  },
+  {
+   "name": "Royal Mansour Marrakech — Chef Barman, « Le thé à la menthe ou l'art de vivre à la marocaine » (3 mai 2020)",
+   "url": "https://www.royalmansour.com/blog/le-the-a-la-menthe-ou-lart-de-vivre-a-la-marocaine/",
+   "used_for": "Recette du palace : 1 c. à s. de thé vert, 1 bouquet de menthe délicatement lavé, jusqu'à 2 grands morceaux de sucre ; premier jet gardé dans un verre (« premier essentiel retenu »), second rinçage jeté (« éliminez le résidu obtenu »), servi très chaud ; préparé par le chef de famille devant les invités ; boisson nationale et de l'hospitalité, à toute heure."
+  },
+  {
+   "name": "Bladi.net (Les Marocains du monde) — « Thé à la menthe » (non daté)",
+   "url": "https://www.bladi.net/the-a-la-menthe.html",
+   "used_for": "Recette marocaine courte : 1 cuillère à soupe bien remplie de thé vert chinois, 1 botte de menthe lavée, sucre au goût ; un seul rinçage, jeté ; quelques minutes sur le feu seulement si on aime le thé fort."
+  },
+  {
+   "name": "Al Jazeera (Midan) — Hend Aklaw, « من الشاي إلى الأتاي.. كيف أبدع المغاربة مشروبهم السحري؟ » (28 juillet 2019, mis à jour le 23 mai 2022), repris par le site marocain Al3omk",
+   "url": "https://www.aljazeera.net/midan/2019/7/28/%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D9%8A-%D9%83%D9%8A%D9%81-%D8%A3%D8%A8%D8%AF%D8%B9-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9",
+   "used_for": "Rituel : plus de verres que d'invités sur le plateau d'argent autour du براد, boîtes « الربايع » (thé, sucre, menthe), préparateur appelé « مقيم », souvent le chef de famille ; thé lavé pour réduire l'amertume et ôter la poussière ; sucre, eau bouillante, feu jusqu'à ébullition puis menthe ; on goûte, on ajoute du sucre, 3 ou 4 verres reversés ; versé de haut, mousse sur environ un quart du verre ; chiba, louiza ou fleurs d'agrumes à la place de la menthe ; histoire du pain de sucre."
+  },
+  {
+   "name": "Morocco World News — Juliette Owen-Jones, « Making Moroccan Tea: What and How » (20 mai 2019)",
+   "url": "https://www.moroccoworldnews.com/2019/05/80173/how-to-mint-tea/",
+   "used_for": "Média marocain. Pain de sucre préféré aux briques, cassé avec le fond d'un verre ; premier jet gardé (« spirit » ou essence), feu moyen-doux jusqu'à l'ébullition ; berrad, sinia, verres et non tasses ; herbes : géranium sauvage, thym sauvage, sauge, absinthe, verveine citronnelle. Sa méthode reprend de près celle de My Moroccan Food : elle n'est pas comptée comme un recoupement indépendant pour le premier jet. Page lisible par WebFetch, refusée (403) à une requête curl simple."
+  },
+  {
+   "name": "La Vie Éco — Najib Refaif, « Thé vert et mousse blanche » (4 octobre 2010)",
+   "url": "https://www.lavieeco.com/idees/the-vert-et-mousse-blanche-17672/",
+   "used_for": "Chronique marocaine : l'auteur ajoute, en précisant que c'est lui qui le dit « pour faire mousser », que le verseur fait une « rozza » (un turban) avec la mousse ; thé versé de haut au-dessus des verres ; botte de menthe fraîche, petits verres, plateaux d'argent ; « lkhobz wa'tay » (pain et thé) avec des olives."
+  },
+  {
+   "name": "Hespress (dépêche Anadolu) — Khawla Ahbibi, « المغرب البلد الوحيد بالعالم الذي يُنكه الشاي بنبتة الشيبة » (27 novembre 2014)",
+   "url": "https://www.hespress.com/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A7%D9%84%D9%88%D8%AD%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%8F%D9%86%D9%83-196930.html",
+   "used_for": "La chiba apparaît d'octobre à avril et remplace la menthe quand il fait froid et que la menthe est moins bonne ; dans les cafés, elle est servie à part dans le verre, sans cuire avec le thé ; sa substance amère devient dangereuse concentrée en huile. Page lisible par WebFetch, refusée (403) à une requête curl simple."
+  },
+  {
+   "name": "Hespress (dépêche Anadolu) — Sara Ait Khorssa, « النعناع المغربي.. معطر لكؤوس الشاي ومطفئ لظمأ العطشى » (9 août 2014)",
+   "url": "https://hespress.com/%D8%A7%D9%84%D9%86%D8%B9%D9%86%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%85%D8%B9%D8%B7%D8%B1-%D9%84%D9%83%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%B4%D8%A7%D9%8A-%D9%88%D9%85%D8%B7%D9%81-182249.html",
+   "used_for": "La menthe accompagne le thé toute l'année ; en hiver, on la remplace par la chiba ou des feuilles de zaatar. Page lisible par WebFetch, refusée (403) à une requête curl simple."
+  },
+  {
+   "name": "Maroc.ma, portail national du Maroc (dépêche MAP) — « Thé vert à la menthe, l'incarnation d'un métissage culturel entre la Chine et le Maroc » (28 janvier 2026)",
+   "url": "https://www.maroc.ma/fr/actualites/vert-la-menthe-lincarnation-dun-metissage-culturel-entre-la-chine-et-le-maroc",
+   "used_for": "Thé « souvent de type Gunpowder » ; étapes : rinçage des feuilles, pains de sucre cassés au petit marteau, versement en hauteur ; « couronne de mousse » (citation d'Edmond Amran El Maleh)."
+  },
+  {
+   "name": "Asharq (الشرق) — Ali Abbas, reportage à Marrakech, « الشاي \"الأتاي\" في المغرب.. مشروب الثقافات المتنوعة » (6 mars 2024)",
+   "url": "https://asharq.com/culture/81982/%D8%A7%D9%84%D8%B4%D8%A7%D9%8A%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%85%D8%B4%D8%B1%D9%88%D8%A8-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9/",
+   "used_for": "Graphie « أتاي بالنعناع » ; variantes au zaatar, à la chiba et aux mélanges d'herbes par temps froid ; thé versé de haut pour une mousse crémeuse."
+  },
+  {
+   "name": "Wikipédia (en) — « Maghrebi mint tea »",
+   "url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+   "used_for": "Goût nettement amer de la chiba. Seule mention de la marjolaine parmi les herbes d'hiver, avec renvoi au Washington Post (2014), page inaccessible : marjolaine non retenue."
+  },
+  {
+   "name": "Agence européenne des médicaments (EMA, HMPC), « European Union herbal monograph on Artemisia absinthium L., herba », EMA/HMPC/751490/2016, révision du 30 mai 2017 (corrigendum de mars 2020)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+   "used_for": "Contre-vérification : Absinthe (Artemisia absinthium) : la thuyone est réputée neurotoxique et stimule l'utérus ; usage déconseillé pendant la grossesse et l'allaitement ; usage non établi avant 18 ans ; contre-indiquée en cas d'allergie aux astéracées, d'obstruction des voies biliaires, de cholangite ou de maladie du foie ; dose adulte en tisane : 1 à 1,5 g par tasse de 150 ml, 2 à 3 g par jour ; apport de thuyone à garder sous 6 mg par jour."
+  },
+  {
+   "name": "Agence européenne des médicaments, page « Absinthii herba » (résumé pour le public)",
+   "url": "https://www.ema.europa.eu/en/medicines/herbal/absinthii-herba",
+   "used_for": "Contre-vérification : Les préparations d'absinthe ne doivent être utilisées que chez l'adulte ; contre-indications : allergie aux astéracées, obstruction des voies biliaires, cholangite, maladie du foie."
+  },
+  {
+   "name": "Aujourd'hui le Maroc, « Thé : Source de plaisir et de convivialité sociale », octobre 2010",
+   "url": "https://aujourdhui.ma/culture/the-source-de-plaisir-et-de-convivialite-sociale-91932",
+   "used_for": "Contre-vérification : Source marocaine : le thé, associé à la menthe ou à d'autres plantes, symbolise l'hospitalité ; servi bien chaud toute la journée ; offert à l'hôte pour lui souhaiter la bienvenue ; traditionnellement une affaire d'hommes, avec la nuance d'une habitante de Boujdour pour qui la mère le prépare aussi."
+  },
+  {
+   "name": "Al3omk (العمق), « الشاي الصحراوي… قواعد تحضير تختزل في جيمات ثلاث », 23 décembre 2016",
+   "url": "https://al3omk.com/70793.html",
+   "used_for": "Contre-vérification : Thé sahraoui (sud du Maroc) : la mousse y est appelée « الكشكوشة » (kachkoucha), pas « rozza » ; on boit trois théières, la première forte, la deuxième modérée, la troisième douce : l'inverse du « chacun plus fort que le précédent » de Moroccan Zest, ce qui montre que l'ordre des trois verres dépend de la tradition."
+  },
+  {
+   "name": "Al3omk (العمق), reprise de l'article d'Al Jazeera « من الشاي إلى الأتاي.. كيف أبدع المغاربة مشروبهم السحري؟ »",
+   "url": "https://al3omk.com/442513.html",
+   "used_for": "Contre-vérification : Confirme la reprise de l'article de Hend Aklaw par un site marocain : rinçage du thé contre l'amertume et la poussière, eau de rinçage versée dans un verre, préparateur appelé « مقيم », dégustation puis ajout de sucre, 3 ou 4 verres reversés, mousse sur environ un quart du verre."
+  },
+  {
+   "name": "Agence européenne des médicaments (HMPC), « Public statement on the use of herbal medicinal products containing pulegone and menthofuran », révision 1",
+   "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-pulegone-and-menthofuran-revision-1_en.pdf",
+   "used_for": "L'huile de menthe pouliot a servi autrefois à provoquer les règles et l'avortement, et n'est plus utilisée ; aucune recommandation propre à la feuille en infusion (lu le 6 novembre 2026)."
+  }
+ ],
+ "discrepancies": [
+  "Premier jet : My Moroccan Food, Cooking with Alia, Royal Mansour et Morocco World News le gardent (« esprit » ou « essence » du thé) et jettent seulement la deuxième eau ; Moroccan Zest et Bladi font un seul rinçage, jeté ; Al Jazeera verse l'eau de lavage dans un verre sans dire si on la boit. Retenu : la pratique majoritaire, on garde le premier jet.",
+  "Moment de la menthe : avant la chauffe, avec le sucre (My Moroccan Food, Morocco World News, Royal Mansour, Bladi) ; après l'ébullition (Cooking with Alia, hors du feu ; Al Jazeera) ; Moroccan Zest fait bouillir 1 à 3 min, ajoute la menthe et prolonge 1 à 2 min. Retenu : avant la chauffe.",
+  "Ébullition : juste porter à ébullition, doucement (My Moroccan Food, Cooking with Alia, Morocco World News, Al Jazeera) ; Moroccan Zest fait bouillir 2 à 5 min au total ; Bladi laisse quelques minutes sur le feu seulement si on aime le thé fort.",
+  "Mélange : allers-retours entre verre et théière (Cooking with Alia : 2 à 3 ; Al Jazeera : 3 ou 4 verres) ; My Moroccan Food remue à la grande cuillère.",
+  "Sucre : 3 c. à s. (My Moroccan Food, Cooking with Alia), 2 c. à s. (Moroccan Zest), jusqu'à 2 grands morceaux (Royal Mansour), au goût (Bladi). Ramené à la base retenue (720 ml dans la théière), My Moroccan Food équivaut à environ 5,7 c. à s. et Moroccan Zest à environ 3 c. à s. (calculs refaits). Retenu : 3 c. à s., à ajuster après avoir goûté.",
+  "Thé : 1 c. à s. pour une théière chez Royal Mansour, Moroccan Zest, Bladi (« bien remplie ») et Cooking with Alia (3 c. à c.) ; My Moroccan Food met 1 c. à c. bombée pour 500 ml d'eau.",
+  "Volumes : aucune source ne donne la contenance de la théière. Premier jet et rinçage : une demi-tasse (environ 120 ml) chez My Moroccan Food et Morocco World News, une tasse (environ 240 ml) chez Cooking with Alia et pour le rinçage de Moroccan Zest ; Al Jazeera et Bladi disent « un peu d'eau ». La base de 6 verres (120 ml de premier jet et 600 ml d'eau dans la théière) est un calcul : Moroccan Zest compte 3 tasses d'eau pour 4 personnes, My Moroccan Food 500 ml d'eau pour 400 ml de thé.",
+  "« Chaara » : la demande en fait le gunpowder, mais aucune source solide lue ne le confirme ; des fiches marchandes vues en résultats de recherche (« Sultan 4011 Chaara ») le présentent comme un chunmee, un autre thé vert de Chine, en feuilles torsadées et non en grains. Le mot n'est donc pas employé dans la recette.",
+  "Durées (5 min de préparation, 10 min de cuisson) : estimations ; seule Moroccan Zest annonce un temps (moins de 10 minutes).",
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Le mot darija « roh » pour le premier jet : aucune source lue ne l'écrit ; elles disent « spirit of the tea » (Cooking with Alia, qui précise que c'est le nom employé au Maroc), « essence » (My Moroccan Food), « premier essentiel retenu » (Royal Mansour). La recette dit donc « l'esprit du thé ».",
+  "« Chaara » = gunpowder : non confirmé. La fiche marchande (hanouty.ca) n'a pas pu être ouverte (refus 429) ; parmi les pages lues, seul un commentaire de lecteur sous une vidéo Hespress (2013), et non un article, décrit « الشعرة » comme un thé fin et plus léger.",
+  "Marjolaine : seule Wikipédia (en) la cite parmi les herbes d'hiver, en renvoyant au Washington Post (2014), page inaccessible (refus 403) ; non retenue dans les variantes.",
+  "« Kissan » (verres) : aucun texte lu n'emploie ce mot ; non utilisé. La théière est écrite « berrad », comme chez Morocco World News.",
+  "Royal Mansour écrit « Faites revenir le thé deux fois avant de servir » : sens ambigu (allers-retours entre verre et théière, ou remise sur le feu) ; non utilisé.",
+  "Pages non lues (refus d'accès ou outil bloqué) : Taste of Maroc (403), Saveur (403), Peace Corps (403), Washington Post (403), Aujourd'hui le Maroc (403), MAP Express (403), Alimentarium (403) ; les copies web.archive.org sont inaccessibles à l'outil. Choumicha et Femmes du Maroc : aucune recette de thé trouvée ; Lalla Moulati : seul un article sur une recette sahraouie, vu en résultat de recherche et non ouvert.",
+  "Contenance d'un verre à thé marocain : non trouvée ; le nombre de verres (6) est approximatif."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Boissons",
+ "pairs": [
+  "harcha",
+  "msemen"
+ ],
+ "pairs_label": "Avec le thé",
+ "img_alt": "Théières marocaines et verre de thé à la menthe sur un plateau",
+ "img": "img/the-menthe.jpg",
+ "photo": {
+  "author": "Munfarid1",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Moroccan_mint_tea_on_a_traditional_tray.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Zaalouk d'aubergines. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "zaalouk",
+ "title": "Zaalouk d'aubergines",
+ "darija": "Zaâlouk",
+ "arabic": "زعلوك",
+ "tagline": "Des aubergines grillées au goût fumé, écrasées dans une sauce tomate à l'ail, au cumin et au paprika, puis cuites jusqu'à ce que tout épaississe. Tiède ou froid, avec du pain.",
+ "category": "Salade",
+ "occasion": "Salade cuite du quotidien, servie en entrée ou à côté des plats principaux, avec du pain",
+ "region": "Tout le Maroc ; la recette change d'une région et d'une famille à l'autre (My Moroccan Food)",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 50,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Gazinière ou gril (sinon, four avec fonction gril et plaque couverte de papier aluminium)",
+  "Sac en plastique propre",
+  "Grande sauteuse profonde",
+  "Cuillère en bois",
+  "Grand saladier et fourchette",
+  "Éplucheur à dents ou râpe, pour les tomates",
+  "Presse-ail, ou mortier et pilon"
+ ],
+ "ingredients": [
+  {
+   "group": "Aubergines",
+   "items": [
+    {
+     "id": "aubergines",
+     "q": 1,
+     "u": "kg",
+     "name": "d'aubergines",
+     "note": "entières, avec la peau et la queue",
+     "canon": "aubergine"
+    }
+   ]
+  },
+  {
+   "group": "Sauce tomate",
+   "items": [
+    {
+     "id": "tomates",
+     "q": 500,
+     "u": "g",
+     "name": "de tomates bien mûres",
+     "note": "tendres et bien rouges",
+     "canon": "tomate"
+    },
+    {
+     "id": "huile",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "ail",
+     "q": 4,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "canon": "ail"
+    },
+    {
+     "id": "paprika",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "coriandre",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "persil",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "canon": "persil"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "seulement si la sauce attache",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Finition et service",
+   "items": [
+    {
+     "id": "citron-jus",
+     "q": 0.5,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "pour le jus",
+     "canon": "citron"
+    },
+    {
+     "id": "citron-service",
+     "q": 0.5,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "en quartiers, pour servir",
+     "canon": "citron"
+    },
+    {
+     "id": "huile-service",
+     "q": null,
+     "u": "",
+     "name": "huile d'olive",
+     "note": "un filet, pour servir",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "herbes-service",
+     "q": null,
+     "u": "",
+     "name": "coriandre ou persil haché",
+     "note": "pour décorer",
+     "canon": "coriandre"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "khobz (pain marocain)",
+     "note": "pour prendre le zaalouk",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Prépare tomates, ail et herbes",
+   "text": "Pèle {{tomates}} de tomates (un éplucheur à dents aide), épépine-les et coupe-les en tout petits dés. Plus simple : coupe-les en deux, râpe la chair et jette la peau. Pèle et écrase {{ail:full}} au presse-ail ou au pilon. Lave et hache finement la coriandre et le persil, et garde-en un peu pour servir.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Grille les aubergines",
+   "text": "Pose {{aubergines}} d'aubergines entières, avec la peau et la queue, directement sur la flamme du gaz à feu moyen, ou sur un gril. Retourne-les de temps en temps, jusqu'à ce que la peau soit noircie partout et la chair très molle. Sans gaz : coupe-les en deux dans la longueur, pose-les peau vers le haut sur une plaque couverte d'aluminium et passe-les 20 à 25 minutes sous le gril du four, au plus près de la résistance.",
+   "timer": {
+    "min": 15,
+    "label": "Aubergines sur la flamme",
+    "done": "Peau noircie partout et chair très molle ? Sinon, laisse-les encore quelques minutes en les retournant. Au four, compte 20 à 25 minutes en tout."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Enferme-les dans un sac",
+   "text": "Glisse les aubergines encore chaudes dans un sac en plastique, ferme-le et laisse-les tiédir pendant que tu fais la sauce. La peau brûlée s'enlèvera ensuite très facilement. Ne les passe pas sous l'eau : elles perdraient leur goût et la peau s'enlèverait moins bien.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre les tomates en sauce",
+   "text": "Dans une grande sauteuse profonde, à feu moyen, mets les tomates, l'ail, {{huile}} d'huile d'olive, {{paprika}} de paprika, {{cumin}} de cumin et {{sel}} de sel. Ajoute {{coriandre}} de coriandre et {{persil}} de persil hachés. Laisse cuire en remuant souvent, jusqu'à ce que les tomates fondent en une sauce épaisse. Si ça attache, ajoute un peu d'{{eau}}.",
+   "timer": {
+    "min": 15,
+    "label": "Sauce tomate",
+    "done": "Les tomates doivent avoir fondu en une sauce épaisse. Sinon, prolonge de quelques minutes."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pèle et écrase les aubergines",
+   "text": "Sors les aubergines du sac. Gratte doucement la peau brûlée et coupe la queue ; pour des moitiés passées au four, récupère simplement la chair à la cuillère. Mets la chair dans un grand saladier et écrase-la à la fourchette jusqu'à obtenir une pâte.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais réduire le zaalouk",
+   "text": "Verse l'aubergine écrasée dans la sauce et mélange bien. Laisse cuire à feu moyen en remuant régulièrement et en raclant le fond, et écrase au dos de la cuillère les morceaux restés fermes. C'est prêt quand le mélange est épais et qu'il ne reste plus de jus.",
+   "timer": {
+    "min": 15,
+    "label": "Réduction",
+    "done": "Le zaalouk doit être épais, sans jus au fond. Sinon, prolonge en remuant ; baisse le feu s'il attache."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute le citron",
+   "text": "Presse {{citron-jus:full}} et verse le jus dans le zaalouk. Mélange et laisse cuire encore 2 minutes. Goûte, rectifie le sel, puis retire du feu.",
+   "timer": {
+    "min": 2,
+    "label": "Citron",
+    "done": "Goûte, rectifie le sel et retire du feu."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Sers tiède ou froid",
+   "text": "Étale le zaalouk dans un plat peu profond et sers-le tiède ou froid. Arrose d'un filet d'{{huile-service}} et parsème de {{herbes-service}}. Pose autour les quartiers de {{citron-service:full}}. Chacun le prend avec des morceaux de {{khobz}}, qui servent de couverts.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Le zaalouk a le goût de la chermoula : cumin, paprika, ail, coriandre, persil et huile d'olive. Plus tu mets de tomates, plus il faut assaisonner.",
+   "source": "Taste of Maroc (Christine Benlafquih, qui tient ce rapprochement de l'autrice culinaire marocaine Nada Kiffa) ; Choumicha assaisonne son zaalouk avec un mélange d'épices pour chermoula"
+  },
+  {
+   "text": "Grille les aubergines entières jusqu'à ce que la peau soit noircie partout : c'est ce qui donne au zaalouk son goût fumé.",
+   "source": "Cooking With Alia (zaalouk n° 689) ; Taste of Maroc"
+  },
+  {
+   "text": "Enferme les aubergines grillées quelques instants dans un sac en plastique : la peau brûlée s'enlève ensuite très facilement.",
+   "source": "Lalla Moulati, « الزعلوك بطريقة جديدة » (10 novembre 2014)"
+  },
+  {
+   "text": "Ne passe jamais les aubergines grillées sous l'eau : elles perdent leur saveur, et la peau s'enlève moins bien.",
+   "source": "Lalla Moulati : « زعلوك بالدنجال مشوي » (13 août 2016) pour la saveur, « الزعلوك بطريقة جديدة » (2014) pour la peau"
+  },
+  {
+   "text": "Choisis des tomates mûres, tendres et bien rouges : les tomates fermes fondent moins bien en sauce et peuvent être plus acides.",
+   "source": "Taste of Maroc ; Cooking With Alia, recette de Ch'hiwatine (tomates « super red »)"
+  },
+  {
+   "text": "Fais d'abord fondre les tomates en sauce épaisse avec l'huile, l'ail, les épices et les herbes, et ajoute seulement ensuite l'aubergine.",
+   "source": "Taste of Maroc ; Lalla Moulati (2014) ; Cooking With Alia (n° 689) ; Choumicha"
+  },
+  {
+   "text": "Prends une grande sauteuse profonde plutôt qu'une petite casserole : avec plus de surface, le liquide s'évapore plus vite.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "La texture est une affaire de goût, du zaalouk en morceaux à la purée : écrase bien à la fourchette pour une pâte, moins pour garder des morceaux.",
+   "source": "Taste of Maroc ; Lalla Moulati (2014, écrasé à la fourchette)"
+  },
+  {
+   "text": "Un peu de jus de citron en fin de cuisson réveille le goût. Fatéma Hal met le jus d'un demi-citron dans la poêle et sert l'autre moitié en quartiers.",
+   "source": "Taste of Maroc ; Fatéma Hal (fiche recette Gaggenau)"
+  },
+  {
+   "text": "Trop acide ? Une toute petite pointe de sucre ou de miel corrige, mais vas-y doucement : mieux vaut un zaalouk un peu acide que trop sucré.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Le khobz sert de couverts : comme beaucoup de salades marocaines, le zaalouk se mange en le prenant avec des morceaux de pain.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Mets-le au réfrigérateur dans les 2 heures qui suivent la cuisson, dans une boîte fermée : il se garde ainsi 3 jours. Au congélateur, il se garde 2 à 3 mois. Décongèle-le au réfrigérateur, réchauffe-le à la poêle pour réduire l'excès de liquide, rectifie l'assaisonnement et ne le recongèle pas.",
+   "source": "Anses (plats cuisinés maison : au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, décongélation au réfrigérateur, pas de recongélation) ; My Moroccan Food (jusqu'à 4 jours) ; Taste of Maroc (2 à 3 mois au congélateur, réchauffage à la poêle)"
+  }
+ ],
+ "mistakes": [
+  "Rincer les aubergines grillées sous l'eau : elles perdent leur goût et la peau s'enlève moins bien (Lalla Moulati).",
+  "Prendre des tomates fermes ou pas assez mûres : elles fondent moins bien et peuvent rendre le zaalouk acide (Taste of Maroc).",
+  "Arrêter la cuisson trop tôt : le zaalouk doit être épais, sans jus (Cooking With Alia, My Moroccan Food, Lalla Moulati).",
+  "Le laisser attacher : remue souvent, racle le fond et baisse le feu si besoin (Taste of Maroc, My Moroccan Food).",
+  "Forcer sur le citron : avec les tomates pas mûres, c'est ce qui rend un zaalouk trop acide (Taste of Maroc).",
+  "Rattraper l'acidité avec trop de sucre : mieux vaut un peu acide que trop sucré (Taste of Maroc).",
+  "Croire que le paprika fumé ou l'ail rôti font partie de la recette traditionnelle : ni l'un ni l'autre n'est traditionnel, même si Christine Benlafquih trouve que le paprika fumé peut très bien aller dans le zaalouk et y ajoute parfois de l'ail rôti (Taste of Maroc).",
+  "Oublier de goûter à la fin pour rectifier le sel (Taste of Maroc, My Moroccan Food)."
+ ],
+ "serving": "Sers le zaalouk tiède, froid ou à température ambiante (Taste of Maroc ; Choumicha : tiède ou froid ; Cooking With Alia : chaud ou froid, avec du pain). Il se mange en entrée (Morocco World News ; El Fenn) ou à côté des plats principaux, en le prenant avec du khobz, qui sert de couverts (Taste of Maroc). Arrose-le d'un filet d'huile d'olive et parsème-le de coriandre ou de persil (Taste of Maroc, My Moroccan Food). Fatéma Hal le sert avec des quartiers de citron et des olives noires.",
+ "variants": [
+  "Méthode familiale tout dans la marmite (la belle-mère de Christine Benlafquih, la mère de Nargisse Benkabbou) : aubergines pelées, en gardant si tu veux quelques bandes de peau pour la couleur, coupées et cuites avec les tomates, l'huile, l'ail, les épices et les herbes, plus un fond d'eau (¼ à ⅓ de tasse, soit environ 60 à 80 ml, chez Taste of Maroc ; pas d'eau chez My Moroccan Food), à couvert à feu moyen ou moyen-doux 25 à 35 minutes, puis à découvert en écrasant jusqu'à évaporation du liquide (Taste of Maroc ; My Moroccan Food).",
+  "Aubergines bouillies (Cooking With Alia, épisode 47) : pelées en entier ou à moitié, coupées en dés, cuites 20 à 30 minutes à l'eau salée, égouttées et pressées à la cuillère pour chasser toute l'eau, puis cuites 30 minutes à feu moyen avec les tomates, l'huile, l'ail et les épices en écrasant à la cuillère en bois ; 1 c. à c. de vinaigre dans les 5 dernières minutes.",
+  "Aubergines à la vapeur : citées par Taste of Maroc parmi les façons de faire, et par Fiona Dunlop (The North African Kitchen), qui présente la version vapeur d'une cuisinière, Aicha, comme plus légère. Méthode détaillée non lue.",
+  "Aubergines frites (Choumicha) : rondelles de 1 cm salées et mises à dégorger, rincées, pressées et épongées, frites puis hachées grossièrement ; sauce de tomates pelées et épépinées avec 1 c. à thé de concentré de tomate, 10 cl d'eau, ail et épices pour chermoula, 8 à 10 minutes à couvert à feu doux ; aubergines ajoutées 3 minutes, puis coriandre. Fiona Dunlop présente la version frite comme la façon traditionnelle.",
+  "Version de Ch'hiwatine (sur Cooking With Alia) : aubergines pelées en partie, coupées en tranches, salées et frites ; tomates réduites seules en pâte épaisse ; un demi-poivron rouge grillé, cumin, sel et ail ; 10 à 15 minutes en remuant sans arrêt.",
+  "Au four (Fatéma Hal) : aubergines grillées une quarantaine de minutes sur une plaque au four, pelées, coupées en dés et écrasées, puis cuites 30 minutes à la poêle avec tous les autres ingrédients et le jus d'un demi-citron.",
+  "Vinaigre au lieu du citron : 1 c. à c. dans les 5 dernières minutes (Cooking With Alia, épisode 47), 1 c. à s. de vinaigre ou de jus de citron pendant 2 minutes (n° 689), ou un demi-verre ajouté hors du feu (Lalla Moulati, 2016).",
+  "Un peu de piquant : Cayenne ou piments entiers au goût (Taste of Maroc), 1 c. à c. de piment moulu (Cooking With Alia, n° 689), ½ c. à c. de piment fort (Lalla Moulati, 2014).",
+  "Poivre noir : ¼ c. à c. (Cooking With Alia, épisode 47) ou ½ c. à c. (Fatéma Hal).",
+  "Plus rouge et plus saucé : 2 à 3 tomates par aubergine, comme la belle-mère de Christine Benlafquih, ou une cuillerée de concentré de tomate (Taste of Maroc ; Choumicha).",
+  "Avec un ou deux poivrons grillés, à mi-chemin de la taktouka (Taste of Maroc), ou avec des courgettes et des poivrons rouges (My Moroccan Food).",
+  "Zaalouk « à la nouvelle manière » : 100 g d'olives dénoyautées et un demi-citron confit, ajoutés après l'aubergine en continuant de remuer, puis cuisson jusqu'à ce que le zaalouk soit bien réduit (Lalla Moulati, 2014).",
+  "Tomates râpées au lieu d'être pelées et coupées (Cooking With Alia, n° 689 ; Fiona Dunlop appelle la tomate râpée une technique marocaine classique)."
+ ],
+ "sources": [
+  {
+   "name": "Taste of Maroc (Christine Benlafquih), « Moroccan Zaalouk Recipe – Eggplant and Tomato Salad or Dip », mise à jour du 7 mars 2021 (copie archivée du 9 janvier 2026)",
+   "url": "https://web.archive.org/web/20260109103840/https://tasteofmaroc.com/moroccan-zaalouk-recipe/",
+   "used_for": "Méthode aux aubergines rôties (sauce d'abord, chair ajoutée et écrasée à la fourchette ou au dos de cuillère, citron en fin de cuisson) et méthode familiale en une marmite (sa belle-mère) ; proportions d'épices, d'huile et d'herbes ; 20 min de préparation et 40 de cuisson pour 4 ; profil « chermoula » (d'après Nada Kiffa) ; façons de cuire l'aubergine (bouillie, vapeur, rôtie, peau en partie gardée) ; tomates mûres, grande sauteuse, sucre ou miel si trop acide, paprika fumé et ail rôti non traditionnels, khobz qui sert de couverts, service, conservation. Autrice : résidente de longue date au Maroc, rédactrice fondatrice de Taste of Maroc et propriétaire de Taste of Casablanca, entreprise de visites gourmandes et d'activités culinaires à Casablanca."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Zaalouk – Moroccan Aubergine Salad », 2 avril 2015",
+   "url": "https://www.mymoroccanfood.com/home/2015/3/22/zaalouk",
+   "used_for": "Recette de sa mère (aubergines crues cuites dans la sauce, à couvert puis à découvert jusqu'à évaporation, écrasées au presse-purée ou à la cuillère en bois) ; recette qui change d'une région et d'une famille à l'autre ; service tiède ou à température ambiante avec huile d'olive et coriandre ; 4 jours au réfrigérateur ; variante courgettes et poivrons rouges."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Zaalouk Dip », 17 octobre 2022",
+   "url": "https://www.mymoroccanfood.com/home/2022/10/17/zaalouk-dip",
+   "used_for": "Même méthode avec les poids (600 g d'aubergines, 320 g de tomates), 2 c. à c. de paprika et de cumin, trois bandes de peau retirées sur chaque aubergine, service dans un plat peu profond."
+  },
+  {
+   "name": "Cooking With Alia, « Eggplant Zaalouk (Moroccan Dip) / زعلوك الباذنجان » (n° 689)",
+   "url": "https://www.cookingwithalia.com/689-eggplant-zaalouk/",
+   "used_for": "Aubergines entières grillées 10 à 15 min sur la flamme à feu moyen en les retournant, peau grattée doucement, queue coupée ; sauce tomate à feu moyen ; aubergine cuite environ 15 min en remuant jusqu'à épaississement ; vinaigre ou citron 2 min ; tomates râpées ; service chaud ou froid avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « 047 – Zaalouk – Moroccan Eggplant Salad »",
+   "url": "https://www.cookingwithalia.com/zaalouk-moroccan-eggplant-salad-episode-47/",
+   "used_for": "Variante bouillie (20 à 30 min à l'eau salée, aubergine pressée, 30 min de cuisson en écrasant à la cuillère en bois, vinaigre dans les 5 dernières minutes) ; ¼ de tasse de persil et de coriandre ; service chaud ou froid avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « 172 – Zaalouk Recipe – Recipe courtesy of Ch'hiwatine »",
+   "url": "https://www.cookingwithalia.com/zaalouk-recipe-courtesy-of-chhiwatin/",
+   "used_for": "Variante frite (aubergines pelées en partie), tomates « super red » réduites en pâte épaisse, demi-poivron rouge, service tiède ou froid avec du pain."
+  },
+  {
+   "name": "Choumicha (Choumicha Chafay), site officiel, « Zaâlouk d'aubergines » (copie archivée du 5 décembre 2024)",
+   "url": "https://web.archive.org/web/20241205045718/https://choumicha.ma/recette/463-zaalouk-d-aubergines.html",
+   "used_for": "Variante frite (rondelles dégorgées, rincées, pressées, frites, hachées), sauce tomate avec concentré, eau et épices pour chermoula, aubergines puis coriandre ; 4 personnes, 40 min de cuisson, 1 h au total ; service tiède ou froid ; graphie « Zaâlouk »."
+  },
+  {
+   "name": "Lalla Moulati, « الزعلوك بطريقة جديدة » (zaalouk à la nouvelle manière), 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/653.html",
+   "used_for": "Aubergines grillées de tous côtés puis enfermées dans un sac pour peler facilement, pas d'eau sur l'aubergine ; tomates pelées, épépinées, en tout petits dés ; sauce à feu moyen jusqu'à ce qu'elle soit épaisse, eau si besoin ; chair écrasée à la fourchette dans un grand saladier ; 1 kg d'aubergines pour 500 g de tomates ; variante olives et citron confit ; service chaud ou froid."
+  },
+  {
+   "name": "Lalla Moulati, « زعلوك بالدنجال مشوي » (zaalouk d'aubergines grillées), 13 août 2016",
+   "url": "https://www.lalamoulati.net/44772.html",
+   "used_for": "Aubergines grillées à ne pas laver pour garder leur saveur ; coriandre, persil, ail, cumin, paprika ; vinaigre hors du feu ; service tiède."
+  },
+  {
+   "name": "Fatéma Hal, « Zaalouk d'Aubergines », fiche recette de la marque Gaggenau (PDF)",
+   "url": "https://media3.gaggenau.com/Documents/19499715_Gaggenau_Zaalouk_Aubergines.pdf",
+   "used_for": "Recette de cheffe marocaine pour 4 : 1 kg d'aubergines grillées au four une quarantaine de minutes, peau et queue retirées, dés écrasés ; 250 g de tomates épépinées ; ail pilé ; 1 botte de coriandre et 1 botte de persil plat ; jus d'un demi-citron ; 30 min à la poêle ; service avec quartiers de citron et olives noires."
+  },
+  {
+   "name": "Wikipédia (fr), « Fatéma Hal »",
+   "url": "https://fr.wikipedia.org/wiki/Fat%C3%A9ma_Hal",
+   "used_for": "Vérification : cheffe cuisinière marocaine née à Oujda en 1952, a ouvert le restaurant Mansouria à Paris en 1984, autrice du « Grand Livre de la cuisine marocaine » (2005)."
+  },
+  {
+   "name": "Fiona Dunlop, The North African Kitchen, « Mashed aubergine, tomato and garlic salad » (Zaalouk aux tomates), aperçu ckbk",
+   "url": "https://app.ckbk.com/recipe/nort67121c01s001ss002r003/mashed-aubergine-tomato-and-garlic-salad",
+   "used_for": "Introduction seule : zaalouk traditionnellement fait d'aubergines frites selon l'autrice, version vapeur plus légère d'Aicha, tomate râpée « technique marocaine classique », zaalouk mangé tiède ou froid."
+  },
+  {
+   "name": "Wikipédia (en), « Zaalouk »",
+   "url": "https://en.wikipedia.org/wiki/Zaalouk",
+   "used_for": "Graphie en arabe marocain (زعلوك) ; description générale : aubergine grillée, mêlée aux tomates, épices et ail."
+  },
+  {
+   "name": "My Moroccan Food, page « About »",
+   "url": "https://www.mymoroccanfood.com/about",
+   "used_for": "Vérification : Nargisse Benkabbou a grandi à Bruxelles dans une famille marocaine, ancienne cheffe exécutive de L'Mida à Marrakech, autrice de « Casablanca: My Moroccan Food »."
+  },
+  {
+   "name": "Cooking With Alia, page « About »",
+   "url": "https://www.cookingwithalia.com/about/",
+   "used_for": "Vérification : Alia partage la cuisine marocaine avec laquelle elle a grandi."
+  },
+  {
+   "name": "Femmes du Maroc (magazine marocain), « Zaâlouk d'aubergines », La rédaction, 23 mai 2023",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/zaalouk-daubergines",
+   "used_for": "Contre-vérification : Graphie darija « Zaâlouk » (aussi employée par d'autres autrices du magazine en 2017 et 2018). Aubergines grillées sur un grill à charbon en les retournant, puis mises à suer quelques minutes dans un sac de congélation avant de retirer la peau carbonisée ; sauce de tomates pelées et épépinées cuite d'abord (à couvert, 8 à 10 min), aubergines ajoutées ensuite (10 min), coriandre à la fin ; assaisonnement aux épices pour charmoula ; servi tiède ou frais, à midi comme le soir. Pour 10 à 12 portions, avec une moitié d'aubergines frites : le passage sur la friture et la sauce reprend presque mot pour mot la recette de Choumicha ; la partie grillée et le sac sont propres à ce texte."
+  },
+  {
+   "name": "Femmes du Maroc, « La recette : Sardines marinées et zaalouk » (chef Richard Meyniel), 17 avril 2023",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/la-recette-sardines-marinees-et-zaalouk",
+   "used_for": "Contre-vérification : Aubergines entières cuites sur le charbon : la peau brûle et la chair prend un goût fumé ; zaâlouk sans tomate (aubergine, oignon, persil, huile d'olive), ce qui confirme la description de la recette dans les écarts entre sources."
+  },
+  {
+   "name": "Morocco World News, Layla Dahamou (Taroudant), « Moroccan Cuisine: Recipe for Zaaluk Salad (eggplant salad) », 17 septembre 2012",
+   "url": "https://www.moroccoworldnews.com/2012/09/149688/moroccan-cuisine-recipe-for-zaaluk-salad-eggplant-salad/",
+   "used_for": "Contre-vérification : Les familles marocaines le servent en entrée avec les plats principaux (tajine, marqa), le plus souvent froid, parfois chaud, avec du pain ; sauce d'abord (tomates pelées, ail, persil, épices, huile d'olive), puis aubergine bouillie et écrasée, cuite jusqu'à être presque sèche ; 4 gousses d'ail et 4 c. à s. d'huile d'olive, comme la recette ; décor de citron et d'olives."
+  },
+  {
+   "name": "Morocco World News, Safaa Kasraoui (Rabat), « Morocco's Zaalouk, a Flavorful Side Dish or Main Course », 12 mai 2023",
+   "url": "https://www.moroccoworldnews.com/2023/05/33613/moroccos-zaalouk-a-flavorful-side-dish-or-main-course/",
+   "used_for": "Contre-vérification : Le zaalouk fait partie des entrées des repas en famille au Maroc ; le goût fumé vient des aubergines non pelées grillées sur le feu, qu'on laisse tiédir avant de les peler ; tomates, aubergines, persil, ail, paprika, cumin, sel, huile d'olive."
+  },
+  {
+   "name": "Bladi.net, « Zaalouk ou salade aux aubergines et aux tomates », 30 octobre 2005",
+   "url": "https://www.bladi.net/recettes/zaalouk-ou-salade-aux-aubergines-et-aux-tomates.html",
+   "used_for": "Contre-vérification : 1 kg d'aubergines pour 500 g de tomates (même rapport que la recette) ; piment doux (paprika), cumin, ail, huile d'olive, jus de citron ; tomates mondées cuites d'abord avec les épices, aubergines ajoutées ensuite, écrasées en remuant jusqu'à évaporation complète de l'eau (15 à 20 min) ; assaisonnement rectifié au jus de citron ; olives noires et citron confit. Aubergines bouillies (non grillées)."
+  },
+  {
+   "name": "El Fenn (hôtel-restaurant de la médina de Marrakech), « Ultra Smoky Zaalouk », 27 novembre 2022",
+   "url": "https://el-fenn.com/ultra-smoky-zaalouk/",
+   "used_for": "Contre-vérification : Aubergines posées directement sur la flamme du gaz jusqu'à être très noircies et tendres, puis enfermées dans un sac en plastique ou en papier, fermé sans serrer, pour qu'elles continuent de cuire, et pelées une fois tièdes ; 2 c. à c. de cumin, 2 c. à c. de paprika et ¼ de tasse (4 c. à s.) d'huile d'olive, comme la recette ; les salades marocaines ouvrent les repas de fête, servi en entrée (pour 4 à 6 personnes) à température ambiante ; 3 à 4 jours au réfrigérateur."
+  },
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Contre-vérification : Les plats cuisinés à la maison ne doivent pas rester plus de 2 heures à température ambiante avant d'être mangés ou mis au réfrigérateur, et doivent être consommés dans les 3 jours ; restes en boîtes fermées ou sous film ; décongélation au réfrigérateur, au micro-ondes ou directement par la cuisson ou le réchauffage, puis consommation rapide (pas plus de trois jours) sans recongeler ; laver soigneusement les fruits et légumes à l'eau potable."
+  },
+  {
+   "name": "USDA FSIS, « Leftovers and Food Safety » (copie archivée du 3 novembre 2026)",
+   "url": "https://web.archive.org/web/20261103202835/https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+   "used_for": "Contre-vérification : Restes : au réfrigérateur dans les 2 heures, 3 à 4 jours au réfrigérateur, 3 à 4 mois au congélateur pour la qualité ; décongélation sûre au réfrigérateur, à l'eau froide ou au micro-ondes, ou réchauffage direct sans décongeler. Le site en direct refuse l'outil (403)."
+  },
+  {
+   "name": "FoodSafety.gov (gouvernement américain), « Cold Food Storage Chart » (copie archivée du 21 octobre 2026)",
+   "url": "https://web.archive.org/web/20261021170207/https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts",
+   "used_for": "Contre-vérification : Soupes et plats mijotés aux légumes : 3 à 4 jours au réfrigérateur, 2 à 3 mois au congélateur, ce qui recoupe les 2 à 3 mois de Taste of Maroc. Le site en direct refuse l'outil (403)."
+  }
+ ],
+ "discrepancies": [
+  "Cuisson des aubergines, la plus grande différence entre les recettes selon Taste of Maroc : grillées ou rôties (Cooking With Alia n° 689 ; Lalla Moulati 2014 et 2016 ; Fatéma Hal, au four ; méthode préférée de Taste of Maroc ; description de Wikipédia), crues directement dans la sauce (belle-mère de Christine Benlafquih ; mère de Nargisse Benkabbou), bouillies (Cooking With Alia, épisode 47), à la vapeur (citée par Taste of Maroc et Fiona Dunlop), frites (Choumicha ; Ch'hiwatine ; « traditionnelle » selon Fiona Dunlop). Retenu : grillées, la méthode la plus fréquente dans les sources lues (4 des 6 sources principales) ; les autres sont dans les variantes.",
+  "Tomates : pelées, épépinées et coupées (Taste of Maroc, Lalla Moulati 2014, Choumicha), épépinées et coupées sans que la peau soit mentionnée (Fatéma Hal ; My Moroccan Food), pelées et coupées (Cooking With Alia, épisode 47) ou râpées sans la peau (Cooking With Alia n° 689). Retenu : pelées, épépinées et en dés, râpées en option.",
+  "Rapport tomates/aubergines : 250 g pour 1 kg (Fatéma Hal), 500 g pour 1 kg (Lalla Moulati 2014), 320 g pour 600 g (My Moroccan Food 2022), poids égal (Cooking With Alia, épisode 47 : 1 livre de chaque, environ 450 g), 2 à 3 tomates par aubergine (belle-mère de Christine Benlafquih). Retenu : 500 g de tomates pour 1 kg d'aubergines.",
+  "Aubergines pour 4 personnes : 1 kg (Fatéma Hal), 2 grosses ou 3 moyennes (Taste of Maroc), 2 grosses (My Moroccan Food), 4 (Choumicha). Retenu : 1 kg.",
+  "Épices : paprika de ½ c. à c. (Fatéma Hal) à 1 c. à s. (Lalla Moulati 2014) ; cumin de ½ c. à c. (Fatéma Hal ; My Moroccan Food 2015) à 1 c. à s. (Lalla Moulati 2014). Retenu : 2 c. à c. de chaque, comme Taste of Maroc et My Moroccan Food 2022.",
+  "Ail : 1 gousse (Choumicha), 2 (Fatéma Hal ; Cooking With Alia n° 689 ; My Moroccan Food 2015), 3 (My Moroccan Food 2022), 6 (Taste of Maroc ; Lalla Moulati 2014). Retenu : 4 gousses, au milieu de la fourchette, à ajuster selon ton goût.",
+  "Herbes : 1 c. à s. en tout (My Moroccan Food 2015 et Cooking With Alia n° 689, coriandre seule ; Lalla Moulati 2014, persil et coriandre), 2 c. à s. de chaque (Taste of Maroc), ¼ de tasse (4 c. à s.) de chaque (Cooking With Alia, épisode 47), 1 botte de chaque (Fatéma Hal). Retenu : 4 c. à s. de chaque, plus un peu au service.",
+  "Moment des herbes : dès le début avec les tomates (Taste of Maroc, Lalla Moulati 2014, Cooking With Alia n° 689, Fatéma Hal, My Moroccan Food) ou à la fin (Choumicha). Retenu : au début.",
+  "Huile d'olive : de 1 à 2 c. à s. (Cooking With Alia, épisode 47) ou 2 c. à s. (My Moroccan Food 2015) à un demi-verre à thé (Lalla Moulati 2014) ; 4 c. à s. chez Taste of Maroc, 5 chez Fatéma Hal. Retenu : 4 c. à s., plus un filet au service.",
+  "Acidité : jus de citron (Fatéma Hal, un demi-citron ; facultatif chez Taste of Maroc), vinaigre (Cooking With Alia, épisode 47 ; Lalla Moulati 2016), l'un ou l'autre (Cooking With Alia n° 689), aucun (My Moroccan Food, Choumicha). Retenu : le jus d'un demi-citron.",
+  "Moment du citron : avec l'aubergine (Fatéma Hal, au début des 30 minutes ; Taste of Maroc, à l'ajout de l'aubergine, ou « en fin de cuisson » dans son introduction) ou tout à la fin, 2 minutes (Cooking With Alia n° 689, pour le vinaigre ou le citron). Retenu : à la fin, 2 minutes.",
+  "Cuisson après l'ajout de l'aubergine : 3 minutes (Choumicha, aubergines frites), 5 à 10 minutes ou plus pour un zaalouk plus sec (Taste of Maroc), environ 15 minutes (Cooking With Alia n° 689), 30 minutes en cuisant tout ensemble (Fatéma Hal). Retenu : 15 minutes, jusqu'à ce que ce soit épais.",
+  "Temps de grillage : 10 à 15 minutes sur la flamme (Cooking With Alia n° 689), 20 à 25 minutes sous le gril du four pour des moitiés (Taste of Maroc), une quarantaine de minutes au four (Fatéma Hal). Retenu : 15 minutes sur la flamme, avec le gril du four en solution de repli.",
+  "Température de service : tiède ou froid (Choumicha), chaud ou froid (Cooking With Alia, Lalla Moulati 2014), tiède (Lalla Moulati 2016), tiède ou à température ambiante (My Moroccan Food 2015), tiède, froid ou à température ambiante (Taste of Maroc). Retenu : tiède ou froid.",
+  "Choumicha assaisonne avec un mélange d'épices du commerce (épices Dar Choumicha pour chermoula) dont la composition n'est pas donnée : ses quantités d'épices ne sont pas comparables aux autres.",
+  "Fatéma Hal : sa recette a été lue sur une fiche de la marque d'électroménager Gaggenau qui la lui attribue, pas dans un de ses livres.",
+  "Femmes du Maroc : la recette du chef Richard Meyniel (17 avril 2023) est un zaalouk sans tomate, servi avec des sardines marinées ; écartée, car ce n'est pas le zaalouk familial. Le magazine publie aussi un « Zaâlouk d'aubergines » (23 mai 2023, pour 10 à 12 portions), lu lors de la contre-vérification : aubergines en partie frites, en partie grillées au charbon puis mises à suer quelques minutes dans un sac de congélation, sauce tomate aux épices pour charmoula, 10 minutes de cuisson ensemble, servi tiède ou frais.",
+  "Lalla Moulati, recette du 5 octobre 2017 (aubergines frites à l'huile de maïs, citron) : non utilisée, car elle présente le zaalouk comme préparé dans tout le monde arabe (Palestine, Syrie, Liban, Irak), ce qu'aucune autre source lue ne dit.",
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 16 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Écraser les aubergines au pilon : aucune source lue ne le fait (fourchette, cuillère en bois, presse-purée ou dos de cuillère). Seul l'ail est « pilé » chez Fatéma Hal, donc le pilon n'est proposé que pour l'ail.",
+  "Cuisson à la vapeur : seulement mentionnée par Taste of Maroc et par Fiona Dunlop, dont la méthode est réservée aux abonnés de ckbk ; durée et façon de faire non vérifiées, donc pas détaillées.",
+  "Affirmation de Fiona Dunlop selon laquelle le zaalouk se fait traditionnellement avec des aubergines frites : seule son introduction est lisible, et aucune autre source lue ne le dit.",
+  "Temps dans le sac : Lalla Moulati écrit seulement d'attendre un peu ; aucune durée précise, donc pas de minuteur pour cette étape.",
+  "Origine de la belle-mère de Christine Benlafquih : non précisée sur la page ; sa méthode est seulement présentée comme celle de sa famille.",
+  "Paula Wolfert (The Food of Morocco, p. 93) : recette non lue ; seul un résumé de moteur de recherche citant Time Out (aubergine grillée, tomates, ail, jus de citron) a été vu.",
+  "Sens du mot « zaalouk » (« purée » selon un résumé de moteur de recherche) : aucune source fiable lue ne l'explique.",
+  "Graphie darija « Zaâlouk » : celle du site de Choumicha, recoupée lors de la contre-vérification par Femmes du Maroc (« Zaâlouk d'aubergines », 23 mai 2023, et d'autres articles du magazine en 2017 et 2018).",
+  "choumicha.ma était inaccessible le 2026-11-06 (erreur 525) : recette lue sur la copie archivée du 5 décembre 2024. tasteofmaroc.com a bloqué la lecture directe (pare-feu, erreur 403) : page lue sur la copie archivée du 9 janvier 2026 ; la version en ligne pourrait avoir changé depuis."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Salades",
+ "pairs": [
+  "khobz"
+ ],
+ "img": "img/zaalouk.jpg",
+ "photo": {
+  "author": "Tamorlan",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zaalouk-01.JPG",
   "modified": "réduite"
  }
 });

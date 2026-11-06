@@ -36,72 +36,83 @@ window.RECETTES.push({
      "u": "",
      "name": "poulet halal, fermier (beldi) de préférence",
      "note": "environ 1,5 kg, coupé en 4 à 6 morceaux",
-     "pl": "poulets halal, fermiers (beldi) de préférence"
+     "pl": "poulets halal, fermiers (beldi) de préférence",
+     "canon": "poulet"
     },
     {
      "id": "safran",
      "q": 1,
      "u": "pincée",
      "name": "de pistils de safran",
-     "note": "une pincée généreuse ; Choumicha en compte 8 pistils"
+     "note": "une pincée généreuse ; Choumicha en compte 8 pistils",
+     "canon": "safran"
     },
     {
      "id": "eau-safran",
      "q": 60,
      "u": "ml",
-     "name": "d'eau chaude, pour infuser le safran"
+     "name": "d'eau chaude, pour infuser le safran",
+     "canon": "eau"
     },
     {
      "id": "sel",
      "q": 1,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "à rectifier à la fin : le citron confit et les olives salent déjà"
+     "note": "à rectifier à la fin : le citron confit et les olives salent déjà",
+     "canon": "sel"
     },
     {
      "id": "gingembre",
      "q": 1,
      "u": "c. à c.",
      "name": "de gingembre moulu",
-     "note": "bien bombée"
+     "note": "bien bombée",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 1,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "poivre",
      "q": null,
      "u": "",
-     "name": "poivre noir ou blanc moulu, selon le goût"
+     "name": "poivre noir ou blanc moulu, selon le goût",
+     "canon": "poivre"
     },
     {
      "id": "smen",
      "q": 1,
      "u": "c. à c.",
      "name": "de smen (beurre rance marocain)",
-     "note": "ou du beurre ; facultatif"
+     "note": "ou du beurre ; facultatif",
+     "canon": "smen"
     },
     {
      "id": "ail",
      "q": 2,
      "u": "",
      "name": "gousse d'ail, écrasée ou râpée",
-     "pl": "gousses d'ail, écrasées ou râpées"
+     "pl": "gousses d'ail, écrasées ou râpées",
+     "canon": "ail"
     },
     {
      "id": "jus-citron",
      "q": 2,
      "u": "c. à s.",
-     "name": "de jus de citron frais"
+     "name": "de jus de citron frais",
+     "canon": "citron"
     },
     {
      "id": "herbes",
      "q": 4,
      "u": "c. à s.",
-     "name": "de coriandre et de persil frais hachés"
+     "name": "de coriandre et de persil frais hachés",
+     "canon": "coriandre"
     }
    ]
   },
@@ -114,26 +125,30 @@ window.RECETTES.push({
      "u": "",
      "name": "oignon moyen (jaune, blanc ou rouge)",
      "note": "hachés finement",
-     "pl": "oignons moyens (jaunes, blancs ou rouges)"
+     "pl": "oignons moyens (jaunes, blancs ou rouges)",
+     "canon": "oignon"
     },
     {
      "id": "eau-depart",
      "q": 60,
      "u": "ml",
-     "name": "d'eau, pour le départ de cuisson"
+     "name": "d'eau, pour le départ de cuisson",
+     "canon": "eau"
     },
     {
      "id": "huile",
      "q": 60,
      "u": "ml",
-     "name": "d'huile : moitié huile d'olive, moitié huile neutre"
+     "name": "d'huile : moitié huile d'olive, moitié huile neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "eau-chaude",
      "q": 240,
      "u": "ml",
      "name": "d'eau chaude",
-     "note": "le liquide doit arriver à peu près aux deux tiers du poulet"
+     "note": "le liquide doit arriver à peu près aux deux tiers du poulet",
+     "canon": "eau"
     }
    ]
   },
@@ -146,14 +161,16 @@ window.RECETTES.push({
      "u": "",
      "name": "citron confit",
      "note": "l'écorce seulement, en fines lanières",
-     "pl": "citrons confits"
+     "pl": "citrons confits",
+     "canon": "citron-confit"
     },
     {
      "id": "olives",
      "q": 150,
      "u": "g",
      "name": "d'olives vertes ou violettes de bonne qualité",
-     "note": "dénoyautées ou non"
+     "note": "dénoyautées ou non",
+     "canon": "olives"
     }
    ]
   }
@@ -488,6 +505,10 @@ window.RECETTES.push({
   "Amour de cuisine : non consulté."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Tajines",
+ "pairs": [
+  "khobz"
+ ],
  "img": "img/tajine-poulet.jpg",
  "photo": {
   "author": "Foodista",

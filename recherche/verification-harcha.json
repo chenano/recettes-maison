@@ -1,0 +1,206 @@
+{
+  "slug": "harcha",
+  "verdict": "conforme avec corrections",
+  "sources_ajoutees": [
+    {
+      "name": "Choumicha (site officiel choumicha.ma), « Harcha au lait / Galettes de semoule au lait », copie web.archive.org du 28 juin 2014",
+      "url": "https://web.archive.org/web/20140628043026/http://www.choumicha.ma/fr/cuisine/harcha-au-lait-galettes-de-semoule-au-lait.html",
+      "ce_qu_elle_confirme": "Source marocaine primaire (choumicha.ma ne répond plus : erreur 525 le 6 novembre 2026). Pour 250 g de semoule fine : 8 cl d'huile et de beurre fondu mélangés, 7 g de levure chimique, 1 pincée de levure boulangère, 1 c. à c. de sel, 1 c. à s. de sucre, 20 cl de lait, 2 c. à s. de semoule pour la cuisson ; semoule frottée avec la matière grasse pour en enrober chaque grain, mélange rapide sans travailler la pâte, repos de 20 à 30 min pour que la semoule absorbe le lait, poêle à fond épais saupoudrée de semoule, environ 2 min avant de retourner à la spatule, poêle essuyée entre deux galettes, service avec du miel. Les proportions d'Amour de cuisine sont celles-ci doublées, sauf le lait (25 cl au lieu de 40 cl)."
+    },
+    {
+      "name": "Choumicha, astuces « Pour des Harchas au lait réussies », copie web.archive.org du 20 juin 2025",
+      "url": "https://web.archive.org/web/20250620140025/https://www.choumicha.ma/astuces/pour-des-harchas-au-lait-reussies.html",
+      "ce_qu_elle_confirme": "Ne pas travailler la pâte, seulement la mélanger et laisser la semoule absorber le lait ; passer la pâte dans la semoule avant de la mettre dans la poêle ; essuyer la poêle entre les cuissons pour que la semoule ne brûle pas et ne colle pas ; retourner les galettes avec une spatule plate car elles sont très friables ; pluriel « Harchas »."
+    },
+    {
+      "name": "Choumicha, « Harcha à l'anis au four », copie web.archive.org du 5 octobre 2015",
+      "url": "https://web.archive.org/web/20151005210512/http://www.choumicha.ma/recette/895-harcha-a-l-anis-au-four.html",
+      "ce_qu_elle_confirme": "Seule harcha au four trouvée chez Choumicha : petites pièces passées dans la semoule moyenne, cuites sur une plaque au four à 150 °C. Elle ne correspond pas à la grande harcha au four que Lalla Moulati attribue à Choumicha : cette attribution reste non confirmée."
+    },
+    {
+      "name": "Wikipédia (fr), « Harcha »",
+      "url": "https://fr.wikipedia.org/wiki/Harcha",
+      "ce_qu_elle_confirme": "Contredit l'origine « Moyen Atlas » présentée comme acquise : la dit originaire d'Algérie et introduite à Fès par des boulangers tlemcéniens pendant la colonisation (d'après les Archives marocaines de 1907), présente dans le Moyen Atlas puis répandue dans tout le Maroc (d'après Paula Wolfert). Confirme aussi : harcha grande comme un pneu de camion vendue dans la rue, babeurre ou yaourt dilué dans le Rif, service avec thé à la menthe et miel, consommation pendant le ramadan, texture friable."
+    },
+    {
+      "name": "Wikipédia en darija marocaine (ary), « حرشة »",
+      "url": "https://ary.wikipedia.org/wiki/%D8%AD%D8%B1%D8%B4%D8%A9",
+      "ce_qu_elle_confirme": "Graphie حرشة ; dit la harcha originaire du Moyen Atlas, mais avec les mêmes références que la version anglaise (pas un recoupement indépendant) ; galette de semoule cuite à la poêle, vendue partout, mangée au petit-déjeuner avec du thé ou du café."
+    },
+    {
+      "name": "Christopher Kimball's Milk Street, recette « Moroccan Semolina Flatbreads (Harcha) »",
+      "url": "https://www.177milkstreet.com/recipes/moroccan-semolina-flatbreads-harcha",
+      "ce_qu_elle_confirme": "Rendement : 256 g de semoule pour 8 petites galettes épaisses (de la taille d'un muffin anglais d'après l'article de Milk Street). Recoupe le calcul selon lequel 500 g de semoule donnent nettement plus de 8 galettes de 10 cm (pâte différente, à l'eau bouillante et au yaourt)."
+    }
+  ],
+  "corrections": [
+    {
+      "champ": "servings",
+      "actuel": "8",
+      "propose": "10",
+      "pourquoi": "Rendement recalculé avec python3 : la pâte pèse environ 940 g (500 g de semoule, 150 g de beurre, 200 ml de lait, 6 c. à s. de sucre, levure, sel) et occupe au moins 750 à 800 cm³ même sans la moindre bulle d'air (densités : semoule 1,3 à 1,5 ; beurre 0,91 ; sucre 1,59 ; lait 1,03). Un disque de 10 cm sur 1 cm fait 78,5 cm³ : la pâte en donne 9,6 à 10,2, pas 8. Avec 8 boules, des disques de 10 cm auraient 1,2 à 1,3 cm d'épaisseur, au-delà du maximum de 1 cm que la recette impose pour une cuisson homogène (ou bien 11 cm de diamètre à 1 cm). Le calcul de l'auteur (même surface que 32 disques de 5 cm) part du rendement affiché par My Moroccan Food, qui supposerait une pâte de densité 1,5 g/cm³, impossible. Avec 10, le texte (« une par harcha », 10 cm, 1 cm) et la cuisson en 3 fournées (30 min) restent cohérents ; les quantités ne changent pas.",
+      "gravite": "mineure",
+      "sources": "Calcul refait avec python3 ; Amour de cuisine (cercles d'environ 10 cm, 1 cm au plus) ; My Moroccan Food (16 disques de 5 cm sur 1 cm pour 250 g) ; Milk Street, recette « Moroccan Semolina Flatbreads » (8 petites galettes pour 256 g de semoule)"
+    },
+    {
+      "champ": "servings_label",
+      "actuel": "harcha",
+      "propose": "harchas",
+      "pourquoi": "L'application affiche le nombre suivi de servings_label et retire le « s » final quand il n'y a qu'une part (fonction nServ d'app.html) : avec « harcha », elle affiche « 8 harcha » ; avec « harchas », « 10 harchas » et « 1 harcha ». Le texte de la recette écrit déjà « les harchas », comme Choumicha et Amour de cuisine.",
+      "gravite": "mineure",
+      "sources": "app.html (fonction nServ) ; Choumicha (« Pour des Harchas au lait réussies ») ; Amour de cuisine (« les harchas »)"
+    },
+    {
+      "champ": "steps[8].title",
+      "actuel": "Retourner une seule fois",
+      "propose": "Retourner délicatement",
+      "pourquoi": "« Une seule fois » vient d'une lecture erronée d'Amour de cuisine, qui dit de retourner délicatement « une fois que » le premier côté est bien doré, c'est-à-dire dès qu'il est doré, sans limiter le nombre de retournements ; sa recette (comme celle de Choumicha) retourne même au bout de 2 min puis cuit jusqu'à ce que les deux faces soient dorées. Aucune source lue n'impose un seul retournement.",
+      "gravite": "mineure",
+      "sources": "Amour de cuisine (astuce n° 6 et recette) ; Choumicha (recette « Harcha au lait »)"
+    },
+    {
+      "champ": "steps[8].text",
+      "actuel": "Retourne-les une seule fois, avec une spatule, et cuis l'autre face environ 5 minutes.",
+      "propose": "Retourne-les délicatement avec une spatule plate, car elles sont friables, et cuis l'autre face environ 5 minutes.",
+      "pourquoi": "Même erreur de lecture que pour le titre (« une fois que » compris comme « une seule fois ») ; Amour de cuisine dit « délicatement » et Choumicha conseille une spatule plate parce que les galettes sont très friables.",
+      "gravite": "mineure",
+      "sources": "Amour de cuisine (astuce n° 6) ; Choumicha (astuces « Harchas au lait » et « Harchas à la semoule ») ; Wikipédia en et fr (texture friable)"
+    },
+    {
+      "champ": "steps[8].text",
+      "actuel": "Cuis les suivantes de la même façon.",
+      "propose": "Entre deux fournées, essuie la poêle pour que la semoule tombée ne brûle pas et ne colle pas aux galettes, puis cuis les suivantes de la même façon.",
+      "pourquoi": "La recette enrobe les galettes de semoule et les cuit à sec en plusieurs fournées : la semoule tombée brûle dans la poêle. Choumicha donne précisément ce conseil, dans sa recette et dans ses astuces.",
+      "gravite": "mineure",
+      "sources": "Choumicha (recette « Harcha au lait » et astuces « Pour des Harchas au lait réussies », « Pour des Harchas à la semoule réussies »)"
+    },
+    {
+      "champ": "secrets[10].text",
+      "actuel": "Retourne une seule fois, quand le dessous est bien doré.",
+      "propose": "Retourne-la délicatement, avec une spatule plate, quand le dessous est bien doré : elle est friable.",
+      "pourquoi": "Le « secret » attribue à Amour de cuisine une règle qu'elle n'écrit pas (elle dit « une fois que » le premier côté est doré) ; Cooking with Alia retourne une fois mais n'en fait pas une règle. Choumicha recommande la spatule plate.",
+      "gravite": "mineure",
+      "sources": "Amour de cuisine ; Choumicha (astuces) ; Cooking with Alia"
+    },
+    {
+      "champ": "secrets[10].source",
+      "actuel": "Amour de cuisine ; Cooking with Alia",
+      "propose": "Amour de cuisine (retourner délicatement) ; Choumicha (spatule plate) ; Cooking with Alia",
+      "pourquoi": "Mise en accord de la source avec le texte corrigé.",
+      "gravite": "mineure",
+      "sources": "Amour de cuisine ; Choumicha (astuces) ; Cooking with Alia"
+    },
+    {
+      "champ": "equipment[5]",
+      "actuel": "Une spatule",
+      "propose": "Une spatule plate",
+      "pourquoi": "Choumicha conseille une spatule plate pour retourner ces galettes friables ; cohérent avec l'étape 9 corrigée.",
+      "gravite": "mineure",
+      "sources": "Choumicha (astuces « Pour des Harchas au lait réussies » et « Pour des Harchas à la semoule réussies »)"
+    },
+    {
+      "champ": "secrets[1].text",
+      "actuel": "Prends du beurre mou plutôt que fondu : selon Milk Street, le beurre fondu donne une texture plus lourde et plus grasse.",
+      "propose": "Ici, le beurre est mou, comme chez My Moroccan Food et Bladi.net : selon Milk Street, le beurre fondu donne une texture un peu plus lourde et plus grasse. Choumicha et Amour de cuisine utilisent pourtant du beurre fondu mêlé d'huile : c'est un choix, pas une règle.",
+      "pourquoi": "L'attribution à Milk Street est exacte (beurre fondu jugé un peu plus lourd et plus gras), mais Milk Street préfère du beurre froid, et le conseil n'est confirmé par aucune autre source : la recette marocaine de référence de Choumicha (8 cl d'huile et de beurre fondu), Amour de cuisine, Cooking with Alia et Julie Andrieu prennent du beurre fondu. Présenté comme un « secret », il laisse croire à une règle.",
+      "gravite": "mineure",
+      "sources": "Milk Street (article du 2 avril 2018) ; My Moroccan Food ; Bladi.net ; Choumicha (recette « Harcha au lait ») ; Amour de cuisine ; Cooking with Alia ; Julie Andrieu"
+    },
+    {
+      "champ": "secrets[1].source",
+      "actuel": "My Moroccan Food et Bladi.net (beurre mou) ; Milk Street",
+      "propose": "My Moroccan Food et Bladi.net (beurre mou) ; Milk Street ; Choumicha et Amour de cuisine (beurre fondu et huile)",
+      "pourquoi": "Mise en accord de la source avec le texte corrigé.",
+      "gravite": "mineure",
+      "sources": "Choumicha (recette « Harcha au lait ») ; Amour de cuisine"
+    },
+    {
+      "champ": "region",
+      "actuel": "Maroc (Wikipédia la dit originaire du Moyen Atlas) ; aussi en Algérie",
+      "propose": "Maroc ; aussi en Algérie (origine discutée : le Moyen Atlas selon Wikipédia en anglais, l'Algérie selon Wikipédia en français)",
+      "pourquoi": "Wikipédia en anglais (et en darija, avec les mêmes références) dit la harcha née dans le Moyen Atlas, d'après des livres non consultés (Paula Wolfert notamment) ; Wikipédia en français la dit venue d'Algérie avec des boulangers tlemcéniens installés à Fès et seulement « présente » dans le Moyen Atlas. Aucune source marocaine lue (Choumicha, Hespress, Morocco World News, Lalla Moulati, Bladi.net) ne parle de l'origine : la mention seule du Moyen Atlas présente comme acquis un point contesté.",
+      "gravite": "mineure",
+      "sources": "Wikipédia (en), « Harcha » ; Wikipédia (fr), « Harcha » ; Wikipédia (ary), « حرشة »"
+    },
+    {
+      "champ": "unverified[5]",
+      "actuel": "Origine dans le Moyen Atlas : seulement Wikipédia, non recoupée par une source marocaine.",
+      "propose": "Origine : Wikipédia en anglais et en darija la disent née dans le Moyen Atlas, avec les mêmes références (livres de Paula Wolfert, de Nargisse Benkabbou et deux guides de voyage, non consultés) ; Wikipédia en français la dit venue d'Algérie avec des boulangers tlemcéniens installés à Fès (d'après les Archives marocaines de 1907, que la version anglaise rattache à un autre pain, le khobz el harcha) ; aucune source marocaine lue ne parle de l'origine.",
+      "pourquoi": "La contradiction entre les versions de Wikipédia n'était pas signalée.",
+      "gravite": "mineure",
+      "sources": "Wikipédia (en, fr, ary)"
+    },
+    {
+      "champ": "unverified[8]",
+      "actuel": "Nombre de galettes : les 8 disques de 10 cm sont calculés à partir du rendement de My Moroccan Food (16 disques de 5 cm sur 1 cm pour 250 g de semoule) ; la taille est celle d'Amour de cuisine, mais ce nombre n'a pas été testé avec cette pâte.",
+      "propose": "Nombre de galettes : 10 disques de 10 cm sur 1 cm, calculés d'après le volume de la pâte (environ 940 g, au moins 750 cm³, pour 78,5 cm³ par disque) ; le rendement affiché par My Moroccan Food (16 disques de 5 cm sur 1 cm pour 250 g) ne tient pas physiquement (il supposerait une pâte de densité 1,5) ; la taille est celle d'Amour de cuisine ; ce nombre n'a pas été testé en cuisine.",
+      "pourquoi": "Mise en accord avec la correction du nombre de galettes (servings).",
+      "gravite": "mineure",
+      "sources": "Calcul refait avec python3 ; My Moroccan Food ; Amour de cuisine"
+    },
+    {
+      "champ": "discrepancies[7]",
+      "actuel": "Retenu : 1 cm, et 8 galettes de 10 cm pour 500 g, même surface que les 32 petites de la recette doublée de My Moroccan Food (calcul).",
+      "propose": "Retenu : 1 cm, et 10 galettes de 10 cm pour 500 g (calcul du volume de la pâte ; avec 8 boules, des galettes de 10 cm auraient 1,2 à 1,3 cm d'épaisseur).",
+      "pourquoi": "Mise en accord avec la correction du nombre de galettes (servings).",
+      "gravite": "mineure",
+      "sources": "Calcul refait avec python3"
+    },
+    {
+      "champ": "discrepancies[9]",
+      "actuel": "Amour de cuisine saupoudre seulement le plan de travail",
+      "propose": "Amour de cuisine saupoudre le plan de travail et prévoit 4 c. à s. de semoule « pour la cuisson », à saupoudrer sur la poêle ; Choumicha saupoudre la poêle et passe la pâte dans la semoule",
+      "pourquoi": "Inexact : la liste d'ingrédients d'Amour de cuisine prévoit 4 c. à s. de semoule fine pour la cuisson, à saupoudrer sur la poêle pour une croûte croustillante ; Choumicha fait de même.",
+      "gravite": "mineure",
+      "sources": "Amour de cuisine (liste d'ingrédients) ; Choumicha (recette et astuces)"
+    },
+    {
+      "champ": "unverified[11]",
+      "actuel": "qui s'en sert pour saupoudrer le plan de travail.",
+      "propose": "qui les prévoit « pour la cuisson », à saupoudrer sur la poêle (Choumicha : 2 c. à s. pour 250 g de semoule).",
+      "pourquoi": "Même inexactitude que dans discrepancies[9].",
+      "gravite": "mineure",
+      "sources": "Amour de cuisine ; Choumicha (recette « Harcha au lait »)"
+    },
+    {
+      "champ": "unverified[0]",
+      "actuel": "Choumicha : choumicha.com renvoie vers une page de vente du nom de domaine et choumicha.ma répond par une erreur 525 (testé le 6 novembre 2026), alors que deux recettes y sont référencées par le moteur de recherche (« حرشة بالحليب » et « حرشة بالسميد بطريقة البانكيك »). Les copies de web.archive.org et d'archive.ph ne sont pas lisibles avec l'outil. Sa recette n'a donc pas pu être lue, et les mentions de Choumicha chez Amour de cuisine et Lalla Moulati ne sont pas vérifiées.",
+      "propose": "Choumicha : choumicha.ma ne répond plus (erreur 525, testé le 6 novembre 2026), mais des copies de web.archive.org de sa recette « Harcha au lait / Galettes de semoule au lait » et de ses astuces ont été lues : semoule enrobée d'huile et de beurre fondu, pâte mélangée sans être travaillée, repos de 20 à 30 min pour que la semoule absorbe le lait, poêle saupoudrée de semoule et essuyée entre deux galettes, retournement à la spatule plate. Amour de cuisine reprend ses proportions doublées, sauf le lait (25 cl au lieu de 40 cl). La grande harcha au four que Lalla Moulati lui attribue n'a pas été retrouvée : la « harcha à l'anis au four » de Choumicha est différente (petites pièces sur une plaque, four à 150 °C).",
+      "pourquoi": "La recette et les astuces de Choumicha sont lisibles sur web.archive.org (téléchargées avec curl) ; la liste des points non vérifiés doit en tenir compte.",
+      "gravite": "mineure",
+      "sources": "Choumicha, copies web.archive.org (recette « Harcha au lait », astuces, « Harcha à l'anis au four »)"
+    }
+  ],
+  "verifie_sans_correction": [
+    "Noms : حرشة et la graphie harsha : Wikipédia (en, fr, ary) ; Lalla Moulati (« الحرشة ») ; Cooking with Alia écrit « حرشا ».",
+    "Recette de base = My Moroccan Food doublée, recalculée : 250 g de semoule, 3 c. à s. de sucre, 1 c. à c. de levure chimique, ¼ c. à c. de sel, 75 g de beurre mou, 100 ml de lait donnent bien 500 g, 6 c. à s., 2 c. à c., ½ c. à c., 150 g, 200 ml : page My Moroccan Food du 5 novembre 2018.",
+    "Dosages (calcul python3, pour 100 g de semoule) : beurre 30 g et lait 40 ml, dans la fourchette des sources (matière grasse de 21,5 g chez Julie Andrieu à environ 43 g chez Morocco World News ; liquide de 40 ml chez My Moroccan Food et Cooking with Alia, 50 ml chez Amour de cuisine, 80 ml chez Choumicha et Julie Andrieu, environ 118 ml pour la pâte levée de Morocco World News) ; levure chimique 2 c. à c. pour 500 g (8 à 10 g), entre Cooking with Alia (¾ c. à c. pour 250 g) et Choumicha ou Amour de cuisine (14 g pour 500 g) ; sucre 15 g, le plus élevé avec Bladi.net (12,5 g), d'où la note « tu peux en mettre moins » : My Moroccan Food, Bladi.net, Cooking with Alia, Choumicha, Amour de cuisine, Julie Andrieu, Morocco World News.",
+    "Sabler la semoule avec la matière grasse avant le liquide : Amour de cuisine, My Moroccan Food, Milk Street (le gras empêche le gluten de se former), Choumicha.",
+    "Lait versé en plusieurs fois, quantité selon la semoule : My Moroccan Food ; Morocco World News (eau versée petit à petit).",
+    "Ne pas pétrir, pâte un peu collante normale : Amour de cuisine ; Choumicha (ne pas travailler la pâte).",
+    "Repos de 20 min pour que la semoule absorbe le lait : My Moroccan Food (20 min) ; Amour de cuisine et Choumicha (20 à 30 min) ; pâte plus sèche après le repos, filet de lait si besoin : Cooking with Alia.",
+    "Galettes de 1 cm au plus pour une cuisson homogène : My Moroccan Food, Bladi.net, Amour de cuisine ; fine = croustillante, épaisse = moelleuse : Cooking with Alia (¼ de pouce = 6,35 mm, recalculé).",
+    "Enrobage de semoule des deux faces pour le croustillant : My Moroccan Food ; Paula Wolfert d'après Milk Street ; Choumicha.",
+    "Poêle sèche : Bladi.net ; Julie Andrieu (sans matière grasse).",
+    "Feu : préchauffer à feu moyen puis baisser, sinon la harcha brûle dehors et reste crue dedans (Cooking with Alia) ; feu moyen-doux (My Moroccan Food) ; feu doux (Bladi.net) ; environ 5 min par face (My Moroccan Food, Cooking with Alia ; 5 à 10 min chez Bladi.net) ; signes de cuisson, dorée et sèche au toucher (Cooking with Alia).",
+    "Laisser tiédir et couper au couteau bien aiguisé, sinon elle s'émiette ; garnitures fromage, confiture, miel ; ne pas remplacer la semoule : Cooking with Alia.",
+    "Sirop de miel et de beurre fondus à parts égales, quelques gouttes de fleur d'oranger, nappage traditionnel : My Moroccan Food.",
+    "Service : tiède (Bladi.net, My Moroccan Food) ; jben (Morocco World News) ; thé à la menthe (Wikipédia, Amour de cuisine, Milk Street) ou lait (Morocco World News) ; petit-déjeuner et goûter (My Moroccan Food, Wikipédia) ; ramadan (Wikipédia ; Hespress FR : f'tour à Tanger et à Khénifra ; Morocco World News : iftar et shour) ; conservation 1 à 2 jours dans un torchon, réchauffée à la poêle (Amour de cuisine).",
+    "Erreurs à éviter : toutes retrouvées dans les sources indiquées (My Moroccan Food, Morocco World News, Amour de cuisine, Cooking with Alia).",
+    "Variantes, chiffres vérifiés sur chaque source : Amour de cuisine (100 ml de beurre fondu et 50 ml d'huile pour 500 g, moitié semoule moyenne, pincée de levure boulangère) ; Julie Andrieu (40 g de beurre fondu et 1 c. à s. d'huile pour 250 g ; grande harcha avec 20 cl de lait, 1 cm au plus, semoule moyenne dessous et dessus, 8 à 10 min par face ; graines de fenouil, cumin, coriandre, herbes séchées) ; Morocco World News (½ tasse de beurre fondu et ½ tasse d'huile pour environ 500 g ; farcie au jben, aux olives noires et au thym, levure fraîche, 30 min de repos, boule refermée puis aplatie et dorée à la poêle) ; Bladi.net (400 g de semoule fine, 100 g de beurre ramolli, 50 g de sucre, ½ c. à c. de sel, ¾ de verre d'eau, 1 cm, feu doux, poêle sèche, 5 à 10 min par face) ; Lalla Moulati (huile, lait bouilli, pâte un peu coulante, poêle froide beurrée et saupoudrée de semoule, au four, sans température ni durée) ; My Moroccan Food (zaatar 3 c. à s., olives 2 c. à s., sel 1 c. à c., sans sucre ; sucrée ou salée, fourrée de fruits secs, de viande ou d'herbes) ; Wikipédia (babeurre ou yaourt dilué dans le Rif, harcha grande comme un pneu de camion, en sandwich au fromage ou à la viande confite) ; Milk Street (Kimball à Fès, harcha presque du diamètre du tajine ; version au yaourt) ; Hespress FR (à Khénifra, harcha préparée avec des plantes médicinales).",
+    "Discordances recalculées avec python3 : sucre de Bladi.net ramené à 250 g = 31,25 g ; sel de Bladi.net ramené à 250 g = 5/16 de c. à c. (environ ⅓) ; sel d'Amour de cuisine 2 c. à c. pour 500 g = 1 c. à c. pour 250 g ; 32 disques de 5 cm et 8 disques de 10 cm = 628,3 cm² chacun ; repos, feu et durées conformes aux sources citées (Amour de cuisine : feu moyen et 2 min dans la recette, feu moyen-doux dans les astuces).",
+    "Sources : tous les liens répondent (code 200), sauf Morocco World News et Hespress FR qui refusent curl (403) mais ont été lus avec WebFetch ; auteurs et dates conformes (My Moroccan Food 5 novembre 2018 ; Morocco World News, Safaa Kasraoui, 8 mai 2020 ; Hespress FR, Zoubida Senoussi, 16 avril 2021 ; Lalla Moulati 15 janvier 2019 ; Amour de cuisine, Soulef Zaoui, 27 février 2025 ; Cooking with Alia 28 mars 2016 dans les métadonnées ; Milk Street 2 avril 2018) ; biographie de Nargisse Benkabbou (élevée à Bruxelles, ancienne cheffe exécutive de L'Mida Marrakech, autrice de Casablanca) confirmée par sa page « about » ; Cooking with Alia : « the Moroccan food I grew up with » sur sa page « about ».",
+    "Rendu des quantités dans les étapes (logique fmtQ d'app.html reproduite) : « mélange 500 g de semoule fine, 6 c. à s. de sucre, 2 c. à c. de levure chimique et ½ c. à c. de sel », « Ajoute 150 g de beurre bien mou », « Verse la moitié des 200 ml de lait », « Verse 4 c. à s. de semoule » : lecture correcte, aussi à demi-dose (¼ c. à c. de sel) ; aucun {{id:full}} ; tous les id existent.",
+    "Minuteurs (20, 5 et 5 min) identiques au texte ; temps total 65 min (15 + 20 + 30) cohérent avec 3 fournées d'environ 10 min.",
+    "Sécurité : rien de dangereux ni d'affirmation santé ; la mention des plantes médicinales à Khénifra est descriptive (Hespress FR)."
+  ],
+  "non_verifiable": [
+    "Origine de la harcha : Wikipédia en anglais et en darija (Moyen Atlas) contre Wikipédia en français (Algérie, boulangers tlemcéniens à Fès) ; les livres cités (Paula Wolfert, The Food of Morocco, p. 116 ; Nargisse Benkabbou, Casablanca ; guides Footprint et Cavendish) n'ont pas été consultés ; aucune source marocaine lue ne traite de l'origine.",
+    "Attribution à Choumicha de la grande harcha au four de Lalla Moulati : introuvable dans les copies archivées de choumicha.ma (sa seule harcha au four, à l'anis, est différente).",
+    "SNRT News, « Recette facile : mini harcha marocaine » : refus 403 à curl et à WebFetch, aucune copie sur web.archive.org ; non lu.",
+    "Taste of Maroc et The Spruce Eats (Christine Benlafquih) : la page « harcha » archivée de Taste of Maroc ne contient que des biscuits au four (« harcha dyal ferran ») ; l'index web.archive.org de The Spruce Eats a répondu par une erreur 504 ; non lus.",
+    "Le360 et Femmes du Maroc : aucune recette de harcha trouvée par la recherche web.",
+    "Rendement et durées : 10 galettes, 3 fournées et 30 min de cuisson sont calculés, pas testés en cuisine ; la densité de la semoule (1,3 à 1,5) est une fourchette, mais la conclusion (au moins 9,5 disques de 10 cm sur 1 cm) tient sur toute la fourchette.",
+    "Sens du mot harcha (« rugueuse ») : non recoupé (absent du texte affiché, sans incidence)."
+  ]
+}

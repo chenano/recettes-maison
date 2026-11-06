@@ -1,0 +1,149 @@
+{
+ "slug": "tajine-agneau-pruneaux",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati (مطبخ لالة مولاتي), « طاجين اللحم بالبرقوق بطريقة ماما » (tajine de viande aux pruneaux à la façon de maman), 25 février 2021",
+   "url": "https://www.lalamoulati.net/270316.html",
+   "ce_qu_elle_confirme": "Source marocaine en arabe, non citée par l'auteur : nom arabe « طاجين اللحم بالبرقوق » ; 1 kg de viande en gros cubes revenue avec gingembre, curcuma, poivre, safran et cannelle, puis oignons et ail ; mouillée à l'eau bouillante et cuite à feu doux jusqu'à ce qu'elle soit tendre ; pruneaux cuits à part avec bâtons de cannelle, beurre et sucre (2 c. à s. pour 250 g) ; dressage : viande, pruneaux et leur sirop, amandes mondées grillées, sésame grillé."
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات عيد الأضحى: اللحم بالبرقوق واللوز » (plats de l'Aïd al-Adha : viande aux pruneaux et aux amandes), 25 juin 2023",
+   "url": "https://www.lalamoulati.net/373674.html",
+   "ce_qu_elle_confirme": "Plat présenté comme un plat de l'Aïd al-Adha ; viande prise dans l'épaule ; safran trempé dans un verre d'eau chaude ; gingembre, curcuma, poivre, cannelle, smen et oignons (la page ne donne que les ingrédients)."
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات عيد الأضحى: جبت ليك طريقة المحترفات فتحضير اللحم بالبرقوق … بالمذاق ديال الأعراس » (plats de l'Aïd al-Adha : la viande aux pruneaux au goût des mariages), 28 juin 2023",
+   "url": "https://www.lalamoulati.net/374119.html",
+   "ce_qu_elle_confirme": "Plat de l'Aïd al-Adha et des mariages : la page présente « le secret de la viande aux pruneaux des mariages » pour les fêtes marocaines (recette en vidéo, quantités non lues)."
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات عيد الأضحى: اللحم بالبرقوق والمشماش معسل بالطريقة المراكشية » (viande aux pruneaux et aux abricots, à la marrakchie), 25 juin 2023",
+   "url": "https://www.lalamoulati.net/373690.html",
+   "ce_qu_elle_confirme": "Variante pruneaux et abricots, présentée comme un plat propre à l'Aïd al-Adha dont on ne peut se passer (recette en vidéo, quantités non lues)."
+  },
+  {
+   "name": "Yabiladi (Fatima Az Zahra El Boukhari), « Le mariage marocain : entre traditions et touches de modernité », 20 mars 2012",
+   "url": "https://www.yabiladi.com/articles/details/9510/mariage-marocain-entre-traditions-touches",
+   "ce_qu_elle_confirme": "Média marocain : le dîner de mariage se compose en général d'une pastilla, d'un plat de viande (tajine aux pruneaux, méchoui ou poulet aux olives) et d'un dessert."
+  },
+  {
+   "name": "Bladi.net, « Tajine d'agneau aux pruneaux » (recette non signée, datée du 30 octobre 2005)",
+   "url": "https://www.bladi.net/recettes/tajine-d-agneau-aux-pruneaux.html",
+   "ce_qu_elle_confirme": "Deuxième recette marocaine de Bladi, non citée : épaule d'agneau, 400 g de pruneaux pour 1,2 kg (333 g par kilo, le rapport retenu), 40 cl d'eau (333 ml par kilo), 1 h de frémissement, miel et cannelle, amandes mondées dorées à l'huile. Elle cuit les pruneaux dans la cocotte : la cuisson commune existe aussi dans une source marocaine."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "mistakes[0]",
+   "actuel": "Cuire les pruneaux dans la cocotte avec la viande : ils caramélisent moins bien et le plat brunit (My Moroccan Food).",
+   "propose": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+   "pourquoi": "My Moroccan Food préfère la cuisson à part mais écrit en toutes lettres qu'il n'y a rien de mal à cuire les pruneaux avec la viande. Lui attribuer une « erreur » force sa position. Grantourismo (recette apprise de Jamila) et la recette « Tajine d'agneau aux pruneaux » de Bladi.net mettent les pruneaux dans la cocotte.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food, https://www.mymoroccanfood.com/home/lamb-tagine-with-prunes ; Grantourismo, https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/ ; Bladi.net, https://www.bladi.net/recettes/tajine-d-agneau-aux-pruneaux.html"
+  },
+  {
+   "champ": "mistakes[8]",
+   "actuel": "Servir le tajine avec du couscous en accompagnement : pour les Marocains, le couscous est un plat à part ; le tajine se mange avec du pain (Grantourismo).",
+   "propose": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
+   "pourquoi": "Grantourismo propose lui-même du pain ou du couscous nature (sa recette met le couscous sur la table) et précise seulement que, pour les Marocains, le couscous est un plat à part. My Moroccan Food (Nargisse Benkabbou) conseille ce tajine avec du couscous ou du pain. Servir du couscous n'est donc pas une erreur selon les sources citées ; le pain pour saucer est confirmé par Morocco World News et Cooking with Alia.",
+   "gravite": "mineure",
+   "sources": "Grantourismo (conseil de service et étapes finales de la recette) ; My Moroccan Food (introduction et service) ; Morocco World News, https://www.moroccoworldnews.com/2013/02/145374/moroccan-cuisine-a-recipe-for-beef-meat-with-prunes/ ; Cooking with Alia, https://www.cookingwithalia.com/413-beef-tagine-with-prunes/"
+  },
+  {
+   "champ": "sources[7].used_for",
+   "actuel": "servi avec du pain, le couscous étant un plat à part",
+   "propose": "servi avec du pain ou du couscous nature, en rappelant que pour les Marocains le couscous est un plat à part",
+   "pourquoi": "Même raison que la correction précédente : Grantourismo propose pain ou couscous nature et sert sa recette avec du couscous.",
+   "gravite": "mineure",
+   "sources": "Grantourismo, https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/"
+  },
+  {
+   "champ": "secrets[5].source",
+   "actuel": "Grantourismo, d'après Jamila (bouquet à retirer)",
+   "propose": "Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer)",
+   "pourquoi": "Terence Carter écrit qu'il a modifié la recette de Jamila ; le bouquet à retirer figure dans sa fiche, sans indication qu'il vienne d'elle. Seul le passage sur la cuisson en cocotte puis le service dans le tajine en terre lui est explicitement attribué.",
+   "gravite": "mineure",
+   "sources": "Grantourismo, https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/"
+  },
+  {
+   "champ": "secrets[7].source",
+   "actuel": "Grantourismo, d'après Jamila ;",
+   "propose": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ;",
+   "pourquoi": "La sauce réduite en « oignons sirupeux et huile » est décrite dans la fiche de Terence Carter, qu'il dit avoir retouchée ; rien ne l'attribue à Jamila.",
+   "gravite": "mineure",
+   "sources": "Grantourismo, https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "Ramenée à 500 g de pruneaux, la dose va de 3 à 6 c. à s. (médiane 5).",
+   "propose": "Ramenée à 500 g de pruneaux, la dose va de 3 à 6 c. à s. chez Choumicha, Bladi, My Moroccan Food, Cooking with Alia et Morocco World News (médiane 5) ; Femmes du Maroc, bien plus sucrée, en met environ 165 g (100 g pour 300 g de pruneaux), soit une douzaine de c. à s.",
+   "pourquoi": "Femmes du Maroc est citée parmi les recettes au sucre mais sort de la fourchette annoncée : 200 g de sucre pour deux casseroles (300 g de pruneaux et 300 g d'abricots), un demi-verre chacune. Recalcul : 100 × 500 / 300 = 167 g, soit 11 à 13 c. à s. à 12,5–15 g la cuillère. La médiane (5) et le choix retenu ne changent pas.",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc, https://femmesdumaroc.com/plaisirs/food-drink/tajine-de-boeuf-aux-fruits-frais-et-fruits-secs ; recalcul Python"
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "à 500 g par kilo (Choumicha), médiane d'environ 320 g.",
+   "propose": "à 500 g par kilo (Choumicha), médiane d'environ 320 g ; Femmes du Maroc, qui ajoute autant d'abricots secs, n'en met qu'environ 90 g par kilo (300 g pour 3,3 kg).",
+   "pourquoi": "Femmes du Maroc, source citée, est hors de la fourchette annoncée : 300 g de pruneaux pour 3,3 kg de jarret (recalcul : 91 g par kilo ; 182 g par kilo en comptant les abricots). En l'incluant, la médiane des sept recettes citées est de 300 g par kilo ; le choix de 333 g par kilo (500 g pour 1,5 kg) reste au milieu.",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc, https://femmesdumaroc.com/plaisirs/food-drink/tajine-de-boeuf-aux-fruits-frais-et-fruits-secs ; recalcul Python"
+  },
+  {
+   "champ": "unverified[2]",
+   "actuel": "Aïd al-Adha : appuyé seulement par le classement de Choumicha (catégorie « Aid Al Adha ») ; Morocco World News publie pour l'Aïd al-Adha une recette voisine, aux abricots et non aux pruneaux (https://www.moroccoworldnews.com/2019/08/77990/eid-al-adha-caramlized-lamb/). Recoupement partiel.",
+   "propose": "Aïd al-Adha : classement de Choumicha (catégorie « Aid Al Adha »), recoupé par la contre-vérification : Lalla Moulati publie en juin 2023 plusieurs recettes d'اللحم بالبرقوق sous le titre « شهيوات عيد الأضحى » (plats de l'Aïd al-Adha). Morocco World News publie pour l'Aïd al-Adha une recette voisine, aux abricots et à l'ananas plutôt qu'aux pruneaux (https://www.moroccoworldnews.com/2019/08/77990/eid-al-adha-caramlized-lamb/).",
+   "pourquoi": "Le point est désormais recoupé par une source marocaine indépendante (Lalla Moulati, pages 373674, 374119 et 373690, du 25 au 28 juin 2023). La recette de Morocco World News associe abricots et ananas.",
+   "gravite": "mineure",
+   "sources": "https://www.lalamoulati.net/373674.html ; https://www.lalamoulati.net/374119.html ; https://www.lalamoulati.net/373690.html ; https://www.moroccoworldnews.com/2019/08/77990/eid-al-adha-caramlized-lamb/"
+  },
+  {
+   "champ": "unverified[7]",
+   "actuel": "Taste of Maroc (page refusée, erreur 403), Lalla Moulati et Royal Mansour (aucune recette de ce plat trouvée en recherche) n'ont pas pu être consultés.",
+   "propose": "Taste of Maroc (page refusée, erreur 403) et Royal Mansour (aucune recette de ce plat trouvée en recherche) n'ont pas pu être consultés. Lalla Moulati, introuvable lors de la rédaction, a été lue par la contre-vérification : recettes d'اللحم بالبرقوق de 2021 et 2023.",
+   "pourquoi": "La recherche du site lalamoulati.net sur « اللحم بالبرقوق » renvoie au moins neuf recettes de ce plat (pages 270316, 312376, 373674, 374119, 373690…), ouvertes le 6 novembre 2026.",
+   "gravite": "mineure",
+   "sources": "https://www.lalamoulati.net/?s=اللحم+بالبرقوق ; https://www.lalamoulati.net/270316.html"
+  },
+  {
+   "champ": "steps[1].text",
+   "actuel": "Hache finement {{oignons:full}}, ou râpe-les, et écrase {{ail:full}}.",
+   "propose": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}.",
+   "pourquoi": "Quand on réduit à 2 personnes, l'application affiche « 1 oignon moyen » et la phrase devient « Hache finement 1 oignon moyen, ou râpe-les » ; la nouvelle tournure s'accorde à tous les nombres de personnes. Oignons hachés ou râpés : Cooking with Alia (râpés), Choumicha (émincés).",
+   "gravite": "mineure",
+   "sources": "Rendu de l'application : app.html, fonctions fmtQ et itemName (1,5 kg ramené à 2 personnes donne q = 1) ; Cooking with Alia"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 11 sources répondent (HTTP 200) le 6 novembre 2026, ainsi que les deux liens cités dans « unverified » ; choumicha.ma est bien hors ligne (erreur 525) et ses deux pages ont été relues sur les copies archivées citées.",
+  "Choumicha, « Tajine d'agneau aux pruneaux » (copie du 10/07/2026) : pour 4, 1 kg d'agneau dans le gigot ou l'épaule, 1 oignon, 1 gousse d'ail, 4 c. à s. d'huile, 1 c. à c. de smen, 1 c. à c. de gingembre, ½ c. à c. de poivre, ¼ c. à c. de ras el hanout, 8 pistils de safran, 2 bâtons de cannelle, bouquet persil-coriandre, 35 cl d'eau, viande revenue 2 min à feu doux, 1 h 30 de cuisson ; pruneaux dénoyautés confits à part 15 à 20 min (500 g, 5 c. à s. de sucre, 20 g de beurre, 1 c. à c. de sel, 1 c. à c. de cannelle, 25 cl d'eau) ; sauce mêlée de sirop pour napper ; 100 g d'amandes mondées grillées, 2 c. à s. de sésame ; catégories « Pour recevoir » et « Aid Al Adha ». Tout ce que la recette lui attribue est exact.",
+  "Choumicha, « Le Tajine » (copie du 21/05/2026) : tajine émaillé et décoré réservé au service, réchauffé au four chaud éteint ou à l'eau chaude ; tajine vernissé sur diffuseur au gaz, toujours à feu doux sous peine de fissure ; fond tapissé de tiges de persil et de coriandre ou de rondelles d'oignon ; jamais de liquide froid en cours de cuisson. Conforme au secret 14, à la dernière variante et aux erreurs 2, 7 et 8.",
+  "My Moroccan Food (Nargisse Benkabbou, 02/02/2016) : 1,2 kg de souris (épaule ou collier d'agneau, collier ou jarret de bœuf en note), 4 gros oignons (800 g) pour une sauce épaisse, curcuma, gingembre, safran, bouquet de coriandre ficelé, 320 ml d'eau, 2 h jusqu'à ce que la viande se détache de l'os ; ½ tasse de liquide prélevée vers 1 h, un peu d'eau si ça attache ; pruneaux 5 min à l'eau bouillante puis 5 min avec ce liquide, miel et cannelle ; cuisson à part pour bien caraméliser et éviter un plat brun-noir ; amandes grillées concassées ou sésame. Exact, sauf les nuances corrigées sur les erreurs 1 et 9.",
+  "Morocco World News (Layla Dahamou, 16/02/2013) : bœuf ou agneau ; plat servi traditionnellement aux mariages et grandes occasions, avec du pain marocain pour saucer ; autocuiseur 40 min puis sauce réduite à découvert ; pruneaux cuits à l'eau puis glacés 5 à 10 min avec sauce, beurre, cannelle, sucre et miel ; sésame, œuf facultatif. Exact. La recette ne reprend pas son affirmation santé (plat « sain »).",
+  "Femmes du Maroc (La rédaction, 21/06/2025) : jarret de bœuf revenu avec huile, oignons, sel, épices, herbes et safran jusqu'à ce qu'il soit bien caramélisé, 1 l d'eau, 1 h ; pruneaux et abricots cuits à part dans l'eau puis sucrés ; amandes émondées et frites ; coings ou pommes caramélisés. Exact.",
+  "Bladi.net, « Tajine de viande aux pruneaux » (datée du 30/10/2005, sans nombre de parts, même sur la copie archivée de 2017) : 1,5 kg d'épaule de mouton, 500 g de pruneaux gonflés dans l'eau, 100 g d'amandes mondées et frites ; autocuiseur 20 min ; deux louches de sauce pour cuire les pruneaux, avec 3 c. à s. de sucre et 1 c. à s. de cannelle ; 2 c. à s. de sucre et un 2e oignon sur la viande, fin de cuisson 15 min en remuant ; sésame grillé légèrement à sec. Exact.",
+  "Cooking with Alia (413, « طاجين اللحم بالبرقوق ») : safran trempé 10 min dans l'eau tiède ; oignons râpés ; viande revenue quelques minutes dans les épices à feu doux ; viande toujours à moitié couverte, 1 à 2 h selon le morceau ; pruneaux 15 min à l'eau bouillante, puis 10 min couverts dans le beurre et 1 tasse de sauce, puis miel et cannelle mélangés délicatement, 10 min à feu doux jusqu'à un sirop épais ; sauce épaisse ; amandes frites, sésame, pain. Exact ; les étapes 1, 5, 9 et 10 en reprennent les durées (10, 15, 10 et 10 min).",
+  "Grantourismo (Terence Carter) : épaule, collier ou souris ; cuisson en cocotte puis service dans le tajine en terre au centre de la table, explicitement d'après Jamila ; sauce réduite en oignons sirupeux et huile ; bouquet à retirer ; au moins 2 h ; pruneaux et amandes (de préférence effilées) dans la cocotte environ 1 h avant la fin, sucre ou miel facultatif ; ras el hanout. Exact, hors nuances corrigées (attribution à Jamila, couscous).",
+  "Le360 (25/02/2026) : « plat phare de la gastronomie marocaine », au ftour du Ramadan ; cheffe Asmaa Alami (Casa José, Bouskoura) : pruneaux et abricots caramélisés, amandes effilées. Bladi.net (Bouchra Fadel, 25/05/2004) : viandes garnies, l'agneau surtout, aux pruneaux, amandes et raisins secs servies aux invités des mariages. Femmes du Maroc (20/02/2026) : tajine de bœuf aux pruneaux et aux amandes au menu d'un ftour (Le Trianon). Exact.",
+  "Occasions (fêtes et mariages, Aïd al-Adha, réceptions, ftour) : Choumicha, Morocco World News, Bladi.net, Le360, Femmes du Maroc ; recoupées en plus par Lalla Moulati (Aïd al-Adha, goût des mariages, juin 2023) et Yabiladi (dîner de mariage, 2012).",
+  "Nom arabe اللحم بالبرقوق : confirmé par Cooking with Alia et par une source marocaine, Lalla Moulati (titres « طاجين اللحم بالبرقوق », « اللحم بالبرقوق واللوز »).",
+  "Proportions recalculées avec Python : 250 g de viande par personne (Choumicha 250 g, Grantourismo 250 g, My Moroccan Food 240 g pour 5) ; pruneaux 333 g par kilo, dans la fourchette des sources et identique à la 2e recette de Bladi.net ; eau 333 ml par kilo, proche de la médiane des recettes en cocotte (327 ml) ; sucre 5 c. à s. pour 500 g, médiane des cinq recettes qui sucrent à la cuillère ; beurre 30 g pour 500 g (ramenés à 500 g : Choumicha 20 g, Morocco World News 28 g, Cooking with Alia 47 g) ; cannelle moulue 1½ c. à c. (médiane 1,7) ; huile, smen, gingembre, poivre, bâtons de cannelle et sésame aux proportions de Choumicha × 1,5 ; amandes 100 g comme Bladi.",
+  "Minuteurs et temps : 10 (viande revenue) + 60 + 30 (mijotage) + 15 (réduction) = 115 min = time.cook ; trempage des pruneaux (15 min), amandes et sésame pendant la 1re heure ; pruneaux (10 + 10 min) pendant les 30 dernières minutes ; infusion du safran (10 min) pendant la préparation (20 min). Chaque minuteur correspond à la durée écrite dans son étape (« 5 à 10 min » → 10 ; « 10 à 15 min » → 15).",
+  "Texte une fois les {{id}} remplacés (pour 6) : « Mets 1 pincée de pistils de safran … avec 60 ml d'eau tiède », « 6 c. à s. d'huile, 1½ c. à c. de smen … 1¼ c. à c. de sel, 2 bâtons de cannelle », « 1,5 kg d'agneau », « 500 ml d'eau chaude », « 500 g de pruneaux », « 30 g de beurre », « 5 c. à s. de sucre (ou de miel) » : lecture correcte. Tous les ingrédients de la liste servent dans une étape (l'huile de friture, sans quantité, sous la forme « un fond d'huile »).",
+  "Secrets 1 à 5, 7 et 9 à 14 (numérotés à partir de 1) : chacun figure dans la source citée ; la cuisson des pruneaux à part est aussi chez Lalla Moulati (2021), le safran trempé dans l'eau chaude aussi (Lalla Moulati, 2023).",
+  "Erreurs 2 à 8 : conformes à leurs sources (Choumicha, My Moroccan Food, Cooking with Alia, Bladi).",
+  "Variantes : bœuf (jarret ou collier : My Moroccan Food, Femmes du Maroc ; 1 à 2 h chez Cooking with Alia), autocuiseur (Bladi 20 + 15 min, Morocco World News 40 min), miel (My Moroccan Food, Cooking with Alia ; sucre et miel chez Morocco World News), pruneaux et abricots (Femmes du Maroc, Le360, et Lalla Moulati 2023), coings ou pommes (Femmes du Maroc), ras el hanout et curcuma, amandes grillées ou effilées, cuisson au tajine en terre (Choumicha) : conformes.",
+  "Divergences 1, 2, 4 et 6 à 11 : exactes après relecture des sources (seules les divergences 3 et 5 reçoivent une précision).",
+  "Authenticité : ingrédients, épices (gingembre, poivre, safran, cannelle, smen), technique (viande revenue avec oignons et épices, mouillée à l'eau chaude, pruneaux confits à part, amandes frites, sésame grillé) et service au centre de la table avec du pain : tous marocains et attestés par au moins deux sources marocaines indépendantes (Choumicha, Bladi.net, Lalla Moulati, Morocco World News, Femmes du Maroc).",
+  "Sécurité alimentaire : rien de dangereux ; agneau mijoté au moins 1 h 30 ; aucune affirmation santé."
+ ],
+ "non_verifiable": [
+  "Graphie latine « Lham bel barkouk » : aucune source marocaine ouverte ne l'écrit ainsi. « tajine bel barkouk » figure dans une critique du Village Voice (Robert Sietsema, 18/07/2000, restaurant marocain La Kasbah à New York, https://www.villagevoice.com/kasbah-rocks/) ; un cours de Cooking with Alia serait intitulé « Lhem bel Barkouk » d'après un résultat de recherche, mais l'école en ligne est fermée et la page n'a pas pu être lue. La transcription suit le nom arabe, lui confirmé.",
+  "Volume de sauce prélevé pour les pruneaux (« environ un quart de la sauce », étape 8) : le volume restant au bout d'1 h ne se mesure pas à l'avance. Les sources donnent deux louches pour 500 g de pruneaux (Bladi), ½ tasse pour 300 g (My Moroccan Food, environ 200 ml pour 500 g) et 1 tasse pour 300 g (Cooking with Alia, environ 395 ml pour 500 g). Pas de correction, faute de pouvoir chiffrer « un quart ».",
+  "Le Matin, « Aïd al-Mawlid : Tradition, quand tu nous tiens » (2006), qui citerait un tajine de viande aux pruneaux au repas du Mawlid d'après un résumé de recherche : accès refusé (erreur 403), non lu.",
+  "Nombre de personnes de la recette Bladi.net (1,5 kg d'épaule) : absent de la page actuelle et de la copie archivée de 2017 ; un résumé de recherche parle de 8 personnes, non confirmé.",
+  "Recettes en vidéo (Le360 avec la cheffe Asmaa Alami, Lalla Moulati 374119 et 373690) : quantités non lues.",
+  "Taste of Maroc : aucune recette de ce plat trouvée parmi les pages archivées du site ; le site en direct refuse l'accès (erreur 403)."
+ ]
+}

@@ -36,28 +36,32 @@ window.RECETTES.push({
      "id": "farine",
      "q": 500,
      "u": "g",
-     "name": "de farine blanche (T45 ou T55)"
+     "name": "de farine blanche (T45 ou T55)",
+     "canon": "farine"
     },
     {
      "id": "semoule",
      "q": 100,
      "u": "g",
      "name": "de semoule fine de blé dur",
-     "note": "ou semoule extra-fine, ou farine de blé dur"
+     "note": "ou semoule extra-fine, ou farine de blé dur",
+     "canon": "semoule"
     },
     {
      "id": "sel",
      "q": 1.5,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "1 à 2 c. à c. selon les sources"
+     "note": "1 à 2 c. à c. selon les sources",
+     "canon": "sel"
     },
     {
      "id": "eau",
      "q": 400,
      "u": "ml",
      "name": "d'eau tiède",
-     "note": "à verser petit à petit, ajuste selon ta farine"
+     "note": "à verser petit à petit, ajuste selon ta farine",
+     "canon": "eau"
     }
    ]
   },
@@ -69,27 +73,31 @@ window.RECETTES.push({
      "q": 250,
      "u": "ml",
      "name": "d'huile neutre (tournesol ou colza), pour le plan de travail, les mains et les pâtons",
-     "note": "environ ; la pâte ne l'absorbe pas, il en restera"
+     "note": "environ ; la pâte ne l'absorbe pas, il en restera",
+     "canon": "huile"
     },
     {
      "id": "beurre",
      "q": 85,
      "u": "g",
      "name": "de beurre, fondu",
-     "note": "doux ou demi-sel"
+     "note": "doux ou demi-sel",
+     "canon": "beurre"
     },
     {
      "id": "huile-melange",
      "q": 6,
      "u": "c. à s.",
-     "name": "d'huile neutre, à mélanger au beurre fondu"
+     "name": "d'huile neutre, à mélanger au beurre fondu",
+     "canon": "huile"
     },
     {
      "id": "semoule-pliage",
      "q": 4,
      "u": "c. à s.",
      "name": "de semoule fine, à saupoudrer entre les couches",
-     "note": "environ 1 c. à c. par msemen"
+     "note": "environ 1 c. à c. par msemen",
+     "canon": "semoule"
     }
    ]
   },
@@ -101,13 +109,15 @@ window.RECETTES.push({
      "q": null,
      "u": "",
      "name": "Miel, autant que de beurre",
-     "note": "à parts égales avec le beurre"
+     "note": "à parts égales avec le beurre",
+     "canon": "miel"
     },
     {
      "id": "beurre-service",
      "q": null,
      "u": "",
-     "name": "Beurre doux, autant que de miel"
+     "name": "Beurre doux, autant que de miel",
+     "canon": "beurre"
     }
    ]
   }
@@ -405,6 +415,10 @@ window.RECETTES.push({
   "Hot Bread Kitchen : dans le livre, la pâte se pétrit au batteur et s'étire sur papier cuisson ; le pétrissage à la main (15 min) et l'étirage sur plan huilé viennent des autres sources."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "pairs": [
+  "the-menthe"
+ ],
  "img": "img/msemen.jpg",
  "photo": {
   "author": "Popo le Chien",

@@ -10,7 +10,31 @@ PHOTOS = {  # slug -> (fichier dans img/, modification faite)
     "pastilla-poulet": ("pastilla.jpg", "réduite"),
     "tajine-kefta-oeufs": ("kefta.jpg", "recadrée et réduite"),
     "msemen": ("msemen.jpg", "réduite"),
+    "tajine-agneau-pruneaux": ("tajine-pruneaux.jpg", "réduite"),
+    "khobz": ("khobz.jpg", "recadrée et réduite"),
+    "harcha": ("harcha.jpg", "réduite"),
+    "rfissa-poulet": ("rfissa.jpg", "réduite"),
+    "zaalouk": ("zaalouk.jpg", "réduite"),
+    "the-menthe": ("the-menthe.jpg", "réduite"),
 }
+# texte alternatif quand la photo ne montre pas exactement la recette (la photo du tajine aux pruneaux est un tajine de veau)
+IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
+           "khobz": "Piles de khobz ronds sur un étal de Chefchaouen",
+           "the-menthe": "Théières marocaines et verre de thé à la menthe sur un plateau"}
+# rayon de l'accueil (catégories)
+RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajines", "harira": "Soupes",
+         "pastilla-poulet": "Plats", "tajine-kefta-oeufs": "Tajines", "msemen": "Pains",
+         "tajine-agneau-pruneaux": "Tajines", "khobz": "Pains", "harcha": "Pains", "rfissa-poulet": "Plats",
+         "zaalouk": "Salades", "the-menthe": "Boissons"}
+# « à servir avec » : seulement quand le service de la recette (sourcé) cite l'accompagnement
+PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"], "tajine-agneau-pruneaux": ["khobz"],
+         "tajine-kefta-oeufs": ["khobz"], "msemen": ["the-menthe"], "harcha": ["the-menthe"], "zaalouk": ["khobz"],
+         "the-menthe": ["harcha", "msemen"]}
+PAIRS_LABEL = {"the-menthe": "Avec le thé"}
+# nom du temps d'attente quand ce n'est pas un simple repos
+REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée"}
+# ingrédient qui renvoie vers une autre recette de l'application
+LINKS = {"rfissa-poulet": {"msemen": "msemen"}}
 credits = {c["file"]: c for c in json.load(open(os.path.join(APP, "img", "credits.json"), encoding="utf-8"))}
 STEP_PHOTOS = {  # slug -> {index d'étape (0 = première): (fichier, texte alternatif)}
     "msemen": {4: ("msemen-etaler.jpg", "Mains qui étirent la pâte à msemen sur un plan huilé"),
@@ -53,6 +77,85 @@ TEXT_FIXES = {
 }
 FULL_ALL = {"tajine-kefta-oeufs"}  # cette recette écrit {{id}} là où il faut la quantité suivie du nom
 
+# Photo et rayon de chaque ingrédient : clé de la banque img/ing/banque.json
+_bq = os.path.join(APP, "img", "ing", "banque.json")
+BANQUE = json.load(open(_bq, encoding="utf-8")) if os.path.exists(_bq) else {}
+ALIAS = {  # libellés libres donnés par la recherche -> clé de la banque
+    "gingembre moulu": "gingembre", "poivre noir moulu": "poivre", "poivre noir": "poivre", "cannelle en bâton": "cannelle",
+    "cannelle moulue": "cannelle", "pruneau": "pruneaux", "amande": "amandes", "graines de sésame": "sesame", "sésame": "sesame",
+    "huile d'olive": "huile-olive", "huile neutre": "huile", "ras el hanout": "ras-el-hanout", "lentille": "lentilles",
+    "semoule fine": "semoule", "semoule moyenne": "semoule", "levure chimique": "levure-chimique", "levure boulangère": "levure-boulangere",
+    "levure de boulanger": "levure-boulangere", "eau de fleur d'oranger": "fleur-oranger", "fromage frais": "jben",
+    "thé vert gunpowder": "the-vert", "thé vert": "the-vert", "menthe fraîche": "menthe", "coriandre fraîche": "coriandre",
+    "persil plat": "persil", "tomates": "tomate", "oignons": "oignon", "aubergines": "aubergine", "gousse d'ail": "ail",
+    "piment de cayenne": "piment-cayenne", "cumin moulu": "cumin", "paprika doux": "paprika", "nigelle": "nigelle",
+    "graines de nigelle": "nigelle", "anis vert": "anis", "graines d'anis": "anis", "farine de blé": "farine", "farine blanche": "farine",
+    "sel fin": "sel", "œuf": "oeuf", "œufs": "oeuf", "oeufs": "oeuf", "citron frais": "citron", "huile de tournesol": "huile",
+}
+BASE = {  # identifiant (ou son début) -> clé, pour les recettes sans champ « canon »
+    "viande": "agneau", "huile": "huile", "oignon": "oignon", "oignons": "oignon", "petits-oignons": "oignon",
+    "tomate": "tomate", "tomates": "tomate", "gingembre": "gingembre", "curcuma": "curcuma", "poivre": "poivre",
+    "sel": "sel", "safran": "safran", "persil": "persil", "coriandre": "coriandre", "pois-chiches": "pois-chiches",
+    "eau": "eau", "chou": "chou", "carottes": "carotte", "navets": "navet", "courge": "courge", "courgettes": "courgette",
+    "piments": "piment-vert", "beurre": "beurre", "smen": "smen", "celeri": "celeri", "lentilles": "lentilles",
+    "concentre": "concentre-tomate", "cannelle": "cannelle", "farine": "farine", "vermicelles": "vermicelles",
+    "citron": "citron", "citron-confit": "citron-confit", "olives": "olives", "semoule": "semoule", "miel": "miel",
+    "poulet": "poulet", "sucre": "sucre", "sucre-glace": "sucre-glace", "oeufs": "oeuf", "amandes": "amandes",
+    "fleur-oranger": "fleur-oranger", "feuilles": "warqa", "jaune": "oeuf", "paprika": "paprika", "cumin": "cumin",
+    "piment": "piment-cayenne", "ail": "ail", "khobz": "khobz", "jus": "citron",
+}
+OVERRIDE = {"couscous-sept-legumes": {"semoule": "couscous", "bouillon-graine": "bouillon"},
+            "tajine-kefta-oeufs": {"viande": "boeuf-hache"},
+            "tajine-poulet-citron-olives": {"herbes": "coriandre"}}
+def canon_key(slug, it):
+    if it["id"] in OVERRIDE.get(slug, {}):
+        return OVERRIDE[slug][it["id"]]
+    c = (it.get("canon") or "").strip()
+    if c:
+        k = ALIAS.get(c.lower(), c)
+    else:
+        parts, k = it["id"].split("-"), None
+        for n in range(len(parts), 0, -1):
+            k = BASE.get("-".join(parts[:n]))
+            if k: break
+    if k == "huile" and "olive" in it.get("name", "").lower():
+        k = "huile-olive"
+    return k
+
+# Corrections des contre-vérifications des nouvelles recettes (recherche/verification-<slug>.json)
+VERIF_SKIP = {}  # slug -> {index de correction écartée: raison}
+def chemin(r, champ):
+    obj, parts = r, re.findall(r"[^.\[\]]+|\[\d+\]", champ)
+    for p in parts[:-1]:
+        obj = obj[int(p[1:-1])] if p.startswith("[") else obj[p]
+    last = parts[-1]
+    return obj, (int(last[1:-1]) if last.startswith("[") else last)
+def appliquer_verif(slug, r):
+    fn = os.path.join(APP, "recherche", f"verification-{slug}.json")
+    if not os.path.exists(fn):
+        return None
+    v = json.load(open(fn, encoding="utf-8"))
+    n = 0
+    for k, c in enumerate(v.get("corrections", [])):
+        if k in VERIF_SKIP.get(slug, {}):
+            continue
+        obj, key = chemin(r, c["champ"])
+        cur = obj[key]
+        if isinstance(cur, str):
+            assert c["actuel"] in cur, f"{slug} : correction {k} introuvable dans {c['champ']} : {c['actuel'][:70]}"
+            obj[key] = cur.replace(c["actuel"], c["propose"], 1)
+        else:
+            new = c["propose"]
+            obj[key] = json.loads(new) if isinstance(new, str) and re.fullmatch(r"-?\d+(\.\d+)?|null", new.strip()) else new
+        n += 1
+    known = {x["url"] for x in r.get("sources", [])}
+    for sa in v.get("sources_ajoutees", []):
+        if sa["url"] not in known:
+            r.setdefault("sources", []).append({"name": sa["name"], "url": sa["url"], "used_for": "Contre-vérification : " + sa["ce_qu_elle_confirme"]})
+    r.setdefault("discrepancies", []).append(f"Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « {v['verdict']} », {n} correction(s) appliquée(s)."
+        + (f" {len(VERIF_SKIP.get(slug, {}))} correction(s) proposée(s) non retenue(s) : " + " ; ".join(VERIF_SKIP[slug].values()) if VERIF_SKIP.get(slug) else ""))
+    return v
+
 # Corrections de la contre-vérification indépendante du 6 novembre 2026 (recherche/verification.json)
 def rep(obj, key, old, new):
     assert old in obj[key], f"texte introuvable pour la correction : {old[:60]}"
@@ -94,6 +197,16 @@ def corriger(slug, r):
         n = len(v.get("corrections", []))
         r.setdefault("discrepancies", []).append(f"Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « {v['verdict']} », {n} correction(s) appliquée(s).")
 
+def apres_verif(slug, r):
+    """Ajouts faits après lecture des contre-vérifications, avec leur source."""
+    if slug == "the-menthe":
+        i = next(k for k, v in enumerate(r["variants"]) if v.startswith("Menthe pouliot"))
+        r["variants"][i] += (" Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois"
+                             " à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).")
+        r["sources"].append({"name": "Agence européenne des médicaments (HMPC), « Public statement on the use of herbal medicinal products containing pulegone and menthofuran », révision 1",
+                             "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-pulegone-and-menthofuran-revision-1_en.pdf",
+                             "used_for": "L'huile de menthe pouliot a servi autrefois à provoquer les règles et l'avortement, et n'est plus utilisée ; aucune recommandation propre à la feuille en infusion (lu le 6 novembre 2026)."})
+
 VERIF = {}
 _vf = os.path.join(APP, "recherche", "verification.json")
 if os.path.exists(_vf):
@@ -130,6 +243,29 @@ for slug in sys.argv[1:]:
             txt = re.sub(r"\{\{([a-z0-9-]+)\}\}", r"{{\1:full}}", txt)
         st["text"] = txt
     corriger(slug, r)
+    appliquer_verif(slug, r)
+    apres_verif(slug, r)
+    inconnues = []
+    for g in r["ingredients"]:
+        for it in g["items"]:
+            k = canon_key(slug, it)
+            it.pop("canon", None)
+            if k:
+                if BANQUE and k not in BANQUE:
+                    inconnues.append(f"{it['id']} -> {k}")
+                it["canon"] = k
+            if it["id"] in LINKS.get(slug, {}):
+                it["recipe"] = LINKS[slug][it["id"]]
+    assert not inconnues, f"{slug} : ingrédients absents de la banque : {inconnues}"
+    r["rayon"] = RAYON[slug]
+    if PAIRS.get(slug):
+        r["pairs"] = PAIRS[slug]
+    if slug in PAIRS_LABEL:
+        r["pairs_label"] = PAIRS_LABEL[slug]
+    if slug in REST_LABEL and r["time"].get("rest"):
+        r["time"]["rest_label"] = REST_LABEL[slug]
+    if slug in IMG_ALT:
+        r["img_alt"] = IMG_ALT[slug]
     fname, mod = PHOTOS[slug]
     r["img"] = "img/" + fname
     r["photo"] = photo_for(fname, mod)

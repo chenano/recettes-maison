@@ -34,84 +34,97 @@ window.RECETTES.push({
      "id": "viande",
      "q": 1,
      "u": "kg",
-     "name": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux"
+     "name": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux",
+     "canon": "agneau"
     },
     {
      "id": "huile",
      "q": 4,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou d'huile neutre"
+     "name": "d'huile d'olive ou d'huile neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "oignon",
      "q": 1,
      "u": "",
      "name": "gros oignon (environ 200 g)",
-     "pl": "gros oignons (environ 200 g chacun)"
+     "pl": "gros oignons (environ 200 g chacun)",
+     "canon": "oignon"
     },
     {
      "id": "tomates-rapees",
      "q": 2,
      "u": "",
      "name": "tomate mûre",
-     "pl": "tomates mûres"
+     "pl": "tomates mûres",
+     "canon": "tomate"
     },
     {
      "id": "gingembre",
      "q": 2,
      "u": "c. à c.",
-     "name": "de gingembre moulu"
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 1,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "poivre",
      "q": 1,
      "u": "c. à c.",
-     "name": "de poivre noir moulu"
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
     },
     {
      "id": "sel",
      "q": 1,
      "u": "c. à s.",
      "name": "de sel",
-     "note": "goûte et rectifie en fin de cuisson"
+     "note": "goûte et rectifie en fin de cuisson",
+     "canon": "sel"
     },
     {
      "id": "safran",
      "q": 1,
      "u": "pincée",
      "name": "de safran en filaments",
-     "note": "facultatif"
+     "note": "facultatif",
+     "canon": "safran"
     },
     {
      "id": "persil",
      "q": 0.5,
      "u": "botte",
-     "name": "de persil plat"
+     "name": "de persil plat",
+     "canon": "persil"
     },
     {
      "id": "coriandre",
      "q": 0.5,
      "u": "botte",
-     "name": "de coriandre fraîche"
+     "name": "de coriandre fraîche",
+     "canon": "coriandre"
     },
     {
      "id": "pois-chiches",
      "q": 100,
      "u": "g",
      "name": "de pois chiches secs",
-     "note": "à faire tremper la veille"
+     "note": "à faire tremper la veille",
+     "canon": "pois-chiches"
     },
     {
      "id": "eau",
      "q": 2.5,
      "u": "l",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     }
    ]
   },
@@ -122,45 +135,52 @@ window.RECETTES.push({
      "id": "chou",
      "q": 500,
      "u": "g",
-     "name": "de chou pommé (blanc ou vert)"
+     "name": "de chou pommé (blanc ou vert)",
+     "canon": "chou"
     },
     {
      "id": "petits-oignons",
      "q": 2,
      "u": "",
      "name": "petit oignon",
-     "pl": "petits oignons"
+     "pl": "petits oignons",
+     "canon": "oignon"
     },
     {
      "id": "tomates-quartiers",
      "q": 2,
      "u": "",
      "name": "petite tomate",
-     "pl": "petites tomates"
+     "pl": "petites tomates",
+     "canon": "tomate"
     },
     {
      "id": "carottes",
      "q": 500,
      "u": "g",
-     "name": "de carottes"
+     "name": "de carottes",
+     "canon": "carotte"
     },
     {
      "id": "navets",
      "q": 400,
      "u": "g",
-     "name": "de navets moyens"
+     "name": "de navets moyens",
+     "canon": "navet"
     },
     {
      "id": "courge",
      "q": 500,
      "u": "g",
-     "name": "de courge rouge (potiron)"
+     "name": "de courge rouge (potiron)",
+     "canon": "courge"
     },
     {
      "id": "courgettes",
      "q": 400,
      "u": "g",
-     "name": "de petites courgettes"
+     "name": "de petites courgettes",
+     "canon": "courgette"
     },
     {
      "id": "piments",
@@ -168,7 +188,8 @@ window.RECETTES.push({
      "u": "",
      "name": "piment vert",
      "note": "facultatif",
-     "pl": "piments verts"
+     "pl": "piments verts",
+     "canon": "piment-vert"
     }
    ]
   },
@@ -180,38 +201,44 @@ window.RECETTES.push({
      "q": 750,
      "u": "g",
      "name": "de couscous de blé dur, grain moyen",
-     "note": "pas de couscous instantané"
+     "note": "pas de couscous instantané",
+     "canon": "couscous"
     },
     {
      "id": "huile-graine",
      "q": 3,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou d'huile neutre"
+     "name": "d'huile d'olive ou d'huile neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "eau-1",
      "q": 180,
      "u": "ml",
-     "name": "d'eau froide (1er roulage)"
+     "name": "d'eau froide (1er roulage)",
+     "canon": "eau"
     },
     {
      "id": "eau-2",
      "q": 350,
      "u": "ml",
-     "name": "d'eau (2e roulage)"
+     "name": "d'eau (2e roulage)",
+     "canon": "eau"
     },
     {
      "id": "sel-graine",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de sel fin"
+     "name": "de sel fin",
+     "canon": "sel"
     },
     {
      "id": "eau-3",
      "q": 500,
      "u": "ml",
      "name": "d'eau au maximum (3e roulage)",
-     "note": "n'en verse que ce qu'il faut"
+     "note": "n'en verse que ce qu'il faut",
+     "canon": "eau"
     }
    ]
   },
@@ -222,20 +249,23 @@ window.RECETTES.push({
      "id": "beurre",
      "q": 30,
      "u": "g",
-     "name": "de beurre mou"
+     "name": "de beurre mou",
+     "canon": "beurre"
     },
     {
      "id": "bouillon-graine",
      "q": 180,
      "u": "ml",
-     "name": "de bouillon pris dans la marmite"
+     "name": "de bouillon pris dans la marmite",
+     "canon": "bouillon"
     },
     {
      "id": "smen",
      "q": 1.5,
      "u": "c. à c.",
      "name": "de smen (beurre conservé marocain)",
-     "note": "facultatif"
+     "note": "facultatif",
+     "canon": "smen"
     }
    ]
   }
@@ -569,6 +599,7 @@ window.RECETTES.push({
   "Gueddid : Taste of Maroc le cite pour remplacer la viande fraîche ; les occasions précises où on l'utilise n'ont pas été revérifiées."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Plats",
  "img": "img/couscous.jpg",
  "photo": {
   "author": "ZRAFIQA",

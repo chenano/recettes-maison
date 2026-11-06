@@ -37,98 +37,113 @@ window.RECETTES.push({
      "q": 1.6,
      "u": "kg",
      "name": "de poulet halal, coupé en morceaux",
-     "note": "ou cuisses et hauts de cuisse ; beldi si possible"
+     "note": "ou cuisses et hauts de cuisse ; beldi si possible",
+     "canon": "poulet"
     },
     {
      "id": "oignons",
      "q": 800,
      "u": "g",
      "name": "d'oignons",
-     "note": "émincés finement ou râpés"
+     "note": "émincés finement ou râpés",
+     "canon": "oignon"
     },
     {
      "id": "persil",
      "q": 1,
      "u": "botte",
      "name": "de persil plat",
-     "note": "haché"
+     "note": "haché",
+     "canon": "persil"
     },
     {
      "id": "coriandre",
      "q": 0.5,
      "u": "botte",
      "name": "de coriandre fraîche",
-     "note": "hachée"
+     "note": "hachée",
+     "canon": "coriandre"
     },
     {
      "id": "huile",
      "q": 3,
      "u": "c. à s.",
-     "name": "d'huile d'olive ou neutre"
+     "name": "d'huile d'olive ou neutre",
+     "canon": "huile-olive"
     },
     {
      "id": "smen",
      "q": 30,
      "u": "g",
-     "name": "de smen ou beurre"
+     "name": "de smen ou beurre",
+     "canon": "smen"
     },
     {
      "id": "gingembre",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de gingembre moulu"
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
     },
     {
      "id": "curcuma",
      "q": 1,
      "u": "c. à c.",
-     "name": "de curcuma"
+     "name": "de curcuma",
+     "canon": "curcuma"
     },
     {
      "id": "cannelle-sauce",
      "q": 1,
      "u": "c. à c.",
-     "name": "de cannelle moulue"
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
     },
     {
      "id": "safran",
      "q": 1,
      "u": "pincée",
-     "name": "de pistils de safran"
+     "name": "de pistils de safran",
+     "canon": "safran"
     },
     {
      "id": "sel",
      "q": null,
      "u": "",
      "name": "sel, selon le goût",
-     "note": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction"
+     "note": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction",
+     "canon": "sel"
     },
     {
      "id": "poivre",
      "q": null,
      "u": "",
      "name": "poivre noir moulu, selon le goût",
-     "note": "repère : environ 1 c. à c."
+     "note": "repère : environ 1 c. à c.",
+     "canon": "poivre"
     },
     {
      "id": "eau",
      "q": 250,
      "u": "ml",
-     "name": "d'eau"
+     "name": "d'eau",
+     "canon": "eau"
     },
     {
      "id": "sucre",
      "q": 3,
      "u": "c. à s.",
      "name": "de sucre en poudre",
-     "note": "ou du miel"
+     "note": "ou du miel",
+     "canon": "sucre"
     },
     {
      "id": "oeufs",
      "q": 8,
      "u": "",
      "name": "œuf",
-     "pl": "œufs"
+     "pl": "œufs",
+     "canon": "oeuf"
     }
    ]
   },
@@ -139,33 +154,38 @@ window.RECETTES.push({
      "id": "amandes",
      "q": 350,
      "u": "g",
-     "name": "d'amandes émondées (sans la peau)"
+     "name": "d'amandes émondées (sans la peau)",
+     "canon": "amandes"
     },
     {
      "id": "huile-friture",
      "q": 4,
      "u": "c. à s.",
      "name": "d'huile neutre",
-     "note": "pour frire les amandes"
+     "note": "pour frire les amandes",
+     "canon": "huile"
     },
     {
      "id": "sucre-glace",
      "q": 60,
      "u": "g",
      "name": "de sucre glace",
-     "note": "à ajuster selon ton goût"
+     "note": "à ajuster selon ton goût",
+     "canon": "sucre-glace"
     },
     {
      "id": "cannelle-amandes",
      "q": 1.5,
      "u": "c. à c.",
-     "name": "de cannelle moulue"
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
     },
     {
      "id": "fleur-oranger",
      "q": 1,
      "u": "c. à s.",
-     "name": "d'eau de fleur d'oranger"
+     "name": "d'eau de fleur d'oranger",
+     "canon": "fleur-oranger"
     }
    ]
   },
@@ -177,7 +197,8 @@ window.RECETTES.push({
      "q": 120,
      "u": "g",
      "name": "de beurre",
-     "note": "à faire fondre ; ou smen"
+     "note": "à faire fondre ; ou smen",
+     "canon": "beurre"
     },
     {
      "id": "feuilles-tour",
@@ -185,21 +206,24 @@ window.RECETTES.push({
      "u": "",
      "name": "feuille de warqa ou de brick, pour le tour",
      "note": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
-     "pl": "feuilles de warqa ou de brick, pour le tour"
+     "pl": "feuilles de warqa ou de brick, pour le tour",
+     "canon": "warqa"
     },
     {
      "id": "feuilles-fond",
      "q": 2,
      "u": "",
      "name": "feuille de warqa ou de brick, pour le fond",
-     "pl": "feuilles de warqa ou de brick, pour le fond"
+     "pl": "feuilles de warqa ou de brick, pour le fond",
+     "canon": "warqa"
     },
     {
      "id": "feuilles-dessus",
      "q": 4,
      "u": "",
      "name": "feuille de warqa ou de brick, pour le dessus",
-     "pl": "feuilles de warqa ou de brick, pour le dessus"
+     "pl": "feuilles de warqa ou de brick, pour le dessus",
+     "canon": "warqa"
     },
     {
      "id": "jaune",
@@ -207,7 +231,8 @@ window.RECETTES.push({
      "u": "",
      "name": "jaune d'œuf",
      "note": "pour coller les plis",
-     "pl": "jaunes d'œufs"
+     "pl": "jaunes d'œufs",
+     "canon": "oeuf"
     }
    ]
   },
@@ -218,13 +243,15 @@ window.RECETTES.push({
      "id": "sucre-glace-decor",
      "q": 3,
      "u": "c. à s.",
-     "name": "de sucre glace"
+     "name": "de sucre glace",
+     "canon": "sucre-glace"
     },
     {
      "id": "cannelle-decor",
      "q": 1,
      "u": "c. à c.",
-     "name": "de cannelle moulue"
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
     }
    ]
   }
@@ -535,6 +562,7 @@ window.RECETTES.push({
   "Brochures PDF de l'Office national marocain du tourisme sur la pastilla au pigeon de Fès : illisibles par l'outil, non utilisées."
  ],
  "cuisine": "Marocaine",
+ "rayon": "Plats",
  "img": "img/pastilla.jpg",
  "photo": {
   "author": "kochtopf",
