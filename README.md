@@ -4,8 +4,10 @@ Application web de recettes, pensée pour le téléphone : quantités ajustables
 
 ## L'ouvrir
 
+**Lien de l'application : https://chenano.github.io/recettes-maison/** (sans compte ni mot de passe). Sur l'iPhone : l'ouvrir dans Safari, puis Partager → « Sur l'écran d'accueil » ; elle marche ensuite hors ligne.
+
 - **Sur ce Mac, ou sur l'iPhone s'il est sur le même Wi-Fi** : lance `./lancer-en-local.sh`. L'adresse à taper sur l'iPhone s'affiche. Le serveur ne tourne que tant que la fenêtre est ouverte (Ctrl+C pour l'arrêter). En local (http), l'installation hors ligne et l'écran allumé ne sont pas disponibles.
-- **En ligne (lien à partager, sans compte ni mot de passe)** : publier le dossier sur un hébergement statique en https (par exemple GitHub Pages). Sur l'iPhone : ouvrir le lien dans Safari, puis Partager → « Sur l'écran d'accueil ».
+- **En ligne** : le site est publié par GitHub Pages depuis la branche `main` du dépôt https://github.com/chenano/recettes-maison ; chaque envoi (push) met le site à jour en une à deux minutes.
 
 ## Ajouter une recette
 
