@@ -599,7 +599,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     if (u === 'kg') { q *= 1000; u = 'g'; }
     if (u === 'l') { q *= 1000; u = 'ml'; }
     if (u === 'g' || u === 'ml') {
-      const st = q < 20 ? 1 : q < 100 ? 5 : q < 1000 ? 10 : 50;
+      const st = q < 20 ? 1 : q < 500 ? 5 : q < 1000 ? 10 : 50;
       q = Math.max(st, Math.round(q / st) * st);
       return q >= 1000 ? `${dec(q / 1000)} ${u === 'g' ? 'kg' : 'l'}` : `${q} ${u}`;
     }

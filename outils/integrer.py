@@ -29,8 +29,8 @@ RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajin
 # « à servir avec » : seulement quand le service de la recette (sourcé) cite l'accompagnement
 PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"], "tajine-agneau-pruneaux": ["khobz"],
          "tajine-kefta-oeufs": ["khobz"], "msemen": ["the-menthe"], "harcha": ["the-menthe"], "zaalouk": ["khobz"],
-         "the-menthe": ["harcha", "msemen"]}
-PAIRS_LABEL = {"the-menthe": "Avec le thé"}
+         "the-menthe": ["harcha", "msemen"], "khobz": ["tajine-kefta-oeufs", "zaalouk", "tajine-agneau-pruneaux", "the-menthe"]}
+PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz"}
 # nom du temps d'attente quand ce n'est pas un simple repos
 REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée"}
 # ingrédient qui renvoie vers une autre recette de l'application
@@ -123,7 +123,9 @@ def canon_key(slug, it):
     return k
 
 # Corrections des contre-vérifications des nouvelles recettes (recherche/verification-<slug>.json)
-VERIF_SKIP = {}  # slug -> {index de correction écartée: raison}
+VERIF_SKIP = {  # slug -> {index de correction écartée: raison}
+    "khobz": {7: "l'appli affiche désormais 315 ml, car elle arrondit à 5 ml près sous 500 ml"},
+}
 def chemin(r, champ):
     obj, parts = r, re.findall(r"[^.\[\]]+|\[\d+\]", champ)
     for p in parts[:-1]:
@@ -206,6 +208,22 @@ def apres_verif(slug, r):
         r["sources"].append({"name": "Agence européenne des médicaments (HMPC), « Public statement on the use of herbal medicinal products containing pulegone and menthofuran », révision 1",
                              "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-pulegone-and-menthofuran-revision-1_en.pdf",
                              "used_for": "L'huile de menthe pouliot a servi autrefois à provoquer les règles et l'avortement, et n'est plus utilisée ; aucune recommandation propre à la feuille en infusion (lu le 6 novembre 2026)."})
+
+    if slug == "khobz":
+        # retirés : affirmations que la contre-vérification n'a pas retrouvées dans la source citée
+        rep(r, "region", "(appelé aussi kesra en tamazight et agroum en tachelhit)", "(le pain se dit aussi aghroum, aɣrum, en tachelhit)")
+        r["secrets"][2] = {"text": "Ni sucre ni huile, comme dans les pains de semoule et complet de Choumicha, qui n'ont que farine, levure, sel et eau.", "source": "Choumicha"}
+        assert r["secrets"][11]["text"].startswith("Au Maroc, beaucoup congèlent")
+        r["secrets"][11] = {"text": "Le pain que tu ne mangeras pas le jour même se congèle : laisse-le d'abord refroidir complètement, puis réchauffe-le 5 à 8 minutes au four à 170 °C.", "source": "Taste of Maroc ; MarocMama (congélation)"}
+        rep(r["steps"][8], "text", " ; pas assez cuit, il reste lourd.", ".")
+        it = next(x for g in r["ingredients"] for x in g["items"] if x["id"] == "levure")
+        rep(it, "note", " ; un peu moins s'il fait très chaud", "")
+        rep(r, "serving", ", ou passe-le directement du congélateur au four, dans un plat couvert de papier aluminium (Taste of Maroc)", " (Taste of Maroc)")
+        rep(r["discrepancies"], 4, "Retenu : sans, car l'autrice de Taste of Maroc écrit que beaucoup de Marocains font le khobz sans huile et que la croûte est plus croustillante sans sucre ni huile.", "Retenu : sans, comme les pains de semoule et complet de Choumicha.")
+        k8 = r["mistakes"].index("Sortir le pain trop tôt : il reste lourd (Taste of Maroc).")
+        r["mistakes"][k8] = "Sortir le pain trop tôt : il doit être bien doré et sonner creux quand tu le tapotes (Taste of Maroc ; MarocMama)."
+        r["mistakes"] = [m for m in r["mistakes"] if not m.startswith("Garder la même dose de levure quand il fait très chaud")]
+        r["unverified"].append("Retiré à la contre-vérification, faute d'avoir retrouvé la source exacte (réponses de l'autrice de Taste of Maroc aux lecteurs, absentes des copies archivées) : « beaucoup de Marocains font le khobz sans huile », « sans sucre ni huile la croûte est plus croustillante », « pas assez cuit, il reste lourd », la congélation « même pour le lendemain », moins de levure par temps chaud, et le passage du congélateur au four sous papier aluminium. « Kesra en tamazight », écrit par Taste of Maroc seule, a aussi été retiré.")
 
 VERIF = {}
 _vf = os.path.join(APP, "recherche", "verification.json")
