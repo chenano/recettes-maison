@@ -77,6 +77,17 @@ window.INGREDIENTS = {
   "file": "beurre.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "blanc-poulet": {
+  "title": "Raw chicken slices.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Raw_chicken_slices.jpg",
+  "author": "kakyusei",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Blancs de poulet",
+  "aisle": "Boucherie et volaille",
+  "file": "blanc-poulet.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "boeuf": {
   "title": "Standing-rib-roast.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Standing-rib-roast.jpg",
@@ -103,6 +114,28 @@ window.INGREDIENTS = {
   "label": "Bouillon de la marmite",
   "aisle": "",
   "skip": true
+ },
+ "bouillon-volaille": {
+  "title": "Making Chicken Broth 2",
+  "page": "https://www.flickr.com/photos/32123311@N00/2115213519",
+  "author": "jbloom",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "label": "Bouillon de volaille halal",
+  "aisle": "Épicerie",
+  "file": "bouillon-volaille.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "boulgour": {
+  "title": "Bulgur pattern.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bulgur_pattern.jpg",
+  "author": "VSerebrenikov",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Boulgour",
+  "aisle": "Épicerie",
+  "file": "boulgour.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "cannelle": {
   "title": "Cinnamomum verum spices.jpg",
@@ -147,6 +180,28 @@ window.INGREDIENTS = {
   "aisle": "Herbes fraîches",
   "file": "cerfeuil.jpg",
   "modified": "recadrée en carré et réduite"
+ },
+ "champignons": {
+  "title": "WHITE MUSHROOM.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:WHITE_MUSHROOM.jpg",
+  "author": "Dinkun Chen",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Champignons de Paris",
+  "aisle": "Fruits et légumes",
+  "file": "champignons.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "chapelure": {
+  "title": "Breadcrumb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Breadcrumb.jpg",
+  "author": "Yvwv",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Chapelure",
+  "aisle": "Épicerie",
+  "file": "chapelure.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
  },
  "cheddar": {
   "title": "White cheddar cheese sliced CNE.jpg",
@@ -214,6 +269,17 @@ window.INGREDIENTS = {
   "file": "concentre-tomate.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "concombre": {
+  "title": "Mediterranean cucumber.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Mediterranean_cucumber.JPG",
+  "author": "user:WLU",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Concombre",
+  "aisle": "Fruits et légumes",
+  "file": "concombre.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
  "confiture": {
   "title": "A jar of her own (6028540280).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:A_jar_of_her_own_(6028540280).jpg",
@@ -278,6 +344,17 @@ window.INGREDIENTS = {
   "label": "Couscous",
   "aisle": "Épicerie",
   "file": "couscous.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "creme-fraiche": {
+  "title": "Crème d'Isigny 2.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_d%27Isigny_2.JPG",
+  "author": "Patafisik",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Crème fraîche",
+  "aisle": "Crèmerie et œufs",
+  "file": "creme-fraiche.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "cumin": {
@@ -779,6 +856,17 @@ window.INGREDIENTS = {
  "piment-flocons": {
   "label": "Piment en flocons",
   "aisle": "Épices"
+ },
+ "piment-jamaique": {
+  "title": "WholeAllspice.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:WholeAllspice.JPG",
+  "author": "Jonathunder",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Piment de la Jamaïque",
+  "aisle": "Épices",
+  "file": "piment-jamaique.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "piment-vert": {
   "title": "Green chili peppers.jpg",
@@ -1525,6 +1613,434 @@ window.RECETTES.push({
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Baghrir_1.jpg",
   "modified": "recadrée et réduite"
+ }
+});
+
+/* Recette : Œufs à la tomate à la marocaine. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "bid-maticha",
+ "title": "Œufs à la tomate à la marocaine",
+ "darija": "Bid w maticha",
+ "arabic": "البيض ومطيشة",
+ "tagline": "Des tomates fondues à l'huile d'olive, à l'ail et au cumin, puis des œufs cuits dessus à couvert : un plat marocain que tout le monde sait cuisiner, à saucer avec du pain. Faute de recette chiffrée de la version nature, les quantités sont reconstituées d'après Choumicha et des tajines de kefta aux œufs.",
+ "category": "Rapide",
+ "occasion": "Dîner vite fait, quand on ne sait pas quoi préparer (Hespress, 2012) ; il se mange aussi au petit-déjeuner (Lalla Moulati, 2018). C'est aussi le repas de dépannage des étudiants pressés (Hespress, 2012).",
+ "region": "Maroc : un plat que tout le monde sait cuisiner (Lalla Moulati, 2018), courant chez les étudiants, les célibataires et les gens pressés, et auquel les Marocains sont très attachés (Hespress, 2012).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 10,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grande poêle avec couvercle (ou un tajine ; hors gaz, pose-le sur un diffuseur)",
+  "Planche et couteau",
+  "Cuillère en bois"
+ ],
+ "ingredients": [
+  {
+   "group": "Tomates et épices",
+   "items": [
+    {
+     "id": "tomates",
+     "q": 6,
+     "u": "",
+     "name": "tomate moyenne bien mûre",
+     "pl": "tomates moyennes bien mûres",
+     "note": "environ 125 g chacune",
+     "canon": "tomate"
+    },
+    {
+     "id": "ail",
+     "q": 2,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "canon": "ail"
+    },
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika",
+     "note": "facultatif",
+     "canon": "paprika"
+    },
+    {
+     "id": "poivre",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    }
+   ]
+  },
+  {
+   "group": "Œufs et service",
+   "items": [
+    {
+     "id": "oeufs",
+     "q": 4,
+     "u": "",
+     "name": "œuf",
+     "pl": "œufs",
+     "note": "un par personne",
+     "canon": "oeuf"
+    },
+    {
+     "id": "persil",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "pain (khobz)",
+     "note": "pour saucer",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Lave et coupe les tomates",
+   "text": "Rince {{tomates:full}} sous l'eau courante, puis coupe-les en rondelles.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'ail",
+   "text": "Épluche et hache finement {{ail:full}}.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache les herbes",
+   "text": "Rince le persil et la coriandre sous l'eau courante, sèche-les, puis hache-les finement pour obtenir {{persil}} de persil et {{coriandre}} de coriandre. Garde-les pour la fin.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Garnis la poêle",
+   "text": "Verse {{huile}} d'huile d'olive dans une grande poêle. Étale les rondelles de tomates, puis ajoute l'ail, {{sel}} de sel, {{cumin}} de cumin, {{paprika}} de paprika et {{poivre}} de poivre noir.",
+   "timer": null,
+   "tip": "Choumicha cuit ses tomates aux œufs dans un tajine, sur feu doux. Hors gaz, glisse un diffuseur sous le tajine (Taste of Maroc)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Porte à ébullition",
+   "text": "Mets la poêle sur feu moyen. Dès que ça bout, couvre et baisse le feu.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse fondre les tomates",
+   "text": "Laisse cuire à couvert et à feu doux 10 à 15 minutes, en remuant de temps en temps, jusqu'à ce que les tomates soient fondantes.",
+   "timer": null,
+   "tip": "Envie d'une sauce plus épaisse ? Écrase les tomates avec le dos d'une cuillère et prolonge la cuisson : My Moroccan Food compte environ 25 minutes (Taste of Maroc ; My Moroccan Food)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Goûte et rectifie",
+   "text": "Goûte la sauce et ajoute un peu de sel s'il le faut.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Casse les œufs",
+   "text": "Avec une cuillère, fais un petit creux dans la sauce pour chaque œuf. Casse doucement un œuf dans chaque creux, sans crever le jaune ({{oeufs:full}} en tout).",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Couvre et laisse prendre",
+   "text": "Couvre et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient pris.",
+   "timer": {
+    "min": 5,
+    "label": "Œufs à couvert",
+    "done": "Les blancs sont-ils pris ? Pour un jaune ferme, laisse encore un peu à couvert."
+   },
+   "tip": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Pour les jeunes enfants, les femmes enceintes, les personnes âgées ou fragiles, jamais d'œuf peu cuit : laisse à couvert jusqu'à ce que le jaune soit ferme (Anses ; FDA)."
+  },
+  {
+   "phase": "Service",
+   "title": "Ajoute les herbes",
+   "text": "Parsème {{persil}} de persil et {{coriandre}} de coriandre hachés.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers aussitôt",
+   "text": "Sers tout de suite, bien chaud, dans la poêle, avec du {{khobz}} pour saucer.",
+   "timer": null,
+   "tip": "Choumicha sert son tajine de tomates aux œufs avec du thé à la menthe, comme Cooking With Alia et Taste of Maroc leurs tajines de kefta."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Au Maroc, c'est le plat que tout le monde sait cuisiner. On le fait au petit-déjeuner comme au dîner.",
+   "source": "Lalla Moulati, article du 29 décembre 2018"
+  },
+  {
+   "text": "Quand on ne sait pas quoi préparer pour le dîner, beaucoup de Marocaines se tournent vers le bid w maticha. Les séries de la télévision marocaine montrent combien on y est attaché.",
+   "source": "Hespress, Fatima Zahra Zaim, 16 octobre 2012"
+  },
+  {
+   "text": "Les étudiants l'appelaient « BM » : un repas rapide, cuisiné entre deux cours, presque sans mesures.",
+   "source": "Hespress, Latifa Baqa, 22 novembre 2012"
+  },
+  {
+   "text": "Prends des tomates bien mûres.",
+   "source": "My Moroccan Food ; Taste of Maroc ; Cooking With Alia"
+  },
+  {
+   "text": "Le temps de cuisson des tomates change beaucoup selon leur maturité, leur jus et la poêle : regarde la sauce plutôt que la montre.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Des tomates râpées, peau jetée, cuisent un peu plus vite que des tomates coupées.",
+   "source": "Taste of Maroc ; Cooking With Alia (tomates râpées)"
+  },
+  {
+   "text": "Fais un petit creux pour chaque œuf et casse-le doucement, sans crever le jaune.",
+   "source": "My Moroccan Food ; Taste of Maroc"
+  },
+  {
+   "text": "À couvert, compte 4 à 5 minutes pour un blanc pris et un jaune encore coulant.",
+   "source": "My Moroccan Food (4 à 5 min) ; Cooking With Alia (5 min) ; Choumicha (3 à 4 min, jusqu'à ce que le blanc prenne)"
+  },
+  {
+   "text": "Des œufs beldi (fermiers), si tu en trouves.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Sers bien chaud, au milieu de la table : chacun pioche dans le plat avec des morceaux de pain, avec du thé à la menthe à côté.",
+   "source": "Choumicha ; Taste of Maroc ; Cooking With Alia"
+  },
+  {
+   "text": "Au Maroc, la chakchouka se fait souvent avec du poivron vert. Ici, pas de poivrons : seulement des tomates, de l'ail, des épices et des œufs.",
+   "source": "Wikipédia FR (Chakchouka, section Maroc : avec poivron vert) ; Cooking With Alia (chekchouka au poivron vert) ; Choumicha (tajine de tomates aux œufs, sans poivrons)"
+  },
+  {
+   "text": "Ne lave pas les œufs avant de les ranger : le lavage aide les microbes à entrer dans l'œuf. Garde-les toujours à la même température.",
+   "source": "Anses, fiche Salmonella spp. (juin 2021)"
+  },
+  {
+   "text": "Les restes : au réfrigérateur dans les 2 heures, dans des boîtes peu profondes. Mange-les dans les 3 à 4 jours, bien réchauffés (74 °C).",
+   "source": "Anses (2 heures) ; FDA (3 à 4 jours, 165 °F, soit 74 °C)"
+  }
+ ],
+ "mistakes": [
+  "Casser les œufs dans des tomates encore crues : attends qu'elles soient fondantes (Choumicha ; My Moroccan Food).",
+  "Crever les jaunes en cassant les œufs (Taste of Maroc).",
+  "Servir un œuf peu cuit à un jeune enfant, une femme enceinte, une personne âgée ou fragile (Anses ; FDA).",
+  "Laisser les restes plus de 2 heures hors du réfrigérateur (Anses ; FDA).",
+  "Laver les œufs avant de les ranger (Anses)."
+ ],
+ "serving": "Bien chaud, tout de suite, dans la poêle ou le tajine posé au milieu de la table : chacun pioche avec du pain (My Moroccan Food ; Taste of Maroc). Choumicha propose du thé à la menthe à côté, comme Cooking With Alia et Taste of Maroc avec leurs tajines de kefta.",
+ "variants": [
+  "Œufs brouillés : verse les œufs battus sur les tomates et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014 ; Wikipédia FR, Chakchouka).",
+  "Avec de l'oignon : fais d'abord revenir un oignon haché dans l'huile, puis ajoute les tomates (Lalla Moulati, 2014 ; Wikipédia FR, qui cite aussi l'ail à la place de l'oignon).",
+  "Au khlii : 5 minutes avant les œufs, ajoute du khlii dégraissé et émietté, avec le cumin (Choumicha : 180 g de khlii pour 4 belles tomates et 6 œufs, pour 6 personnes). Prends un khlii de viande halal.",
+  "Plus relevé : une pincée de piment de Cayenne (My Moroccan Food) ou des piments (Taste of Maroc).",
+  "Sauce mijotée : tomates râpées, peau jetée, cuites 20 à 25 minutes à feu moyen en remuant, jusqu'à une sauce épaisse (Cooking With Alia). Le plat dépasse alors 30 minutes.",
+  "Avec des boulettes de kefta, on passe au tajine de kefta aux œufs (My Moroccan Food ; Cooking With Alia ; Taste of Maroc) ; avec des poivrons verts, à la chakchouka (Wikipédia FR). Ce sont deux autres recettes de l'appli.",
+  "Au four, à la façon de Lalla Moulati (2018) : tomates évidées, garnies de blanc d'œuf mélangé à de l'oignon, du persil et des épices, puis du jaune et du reste du mélange, et cuites au four ou sur la braise."
+ ],
+ "sources": [
+  {
+   "name": "Hespress, Fatima Zahra Zaim (فاطمة الزهراء الزعيم), « وداعا \"البيض ومطيشة\" » (Adieu « bid w maticha »), mardi 16 octobre 2012",
+   "url": "https://www.hespress.com/%d9%88%d8%af%d8%a7%d8%b9%d8%a7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6-%d9%88%d9%85%d8%b7%d9%8a%d8%b4%d8%a9-104064.html",
+   "used_for": "Nom « البيض ومطيشة » ; pour échapper au casse-tête du dîner, beaucoup de Marocaines se tournent vers ce plat ; les séries télévisées marocaines montrent l'attachement des Marocains à ce plat (article sur la hausse du prix des tomates). Article cité par Wikipedia EN."
+  },
+  {
+   "name": "Hespress, Latifa Baqa (لطيفة باقا), « بيض وطماطم », rubrique Opinions, jeudi 22 novembre 2012",
+   "url": "https://www.hespress.com/%d8%a8%d9%8a%d8%b6-%d9%88%d8%b7%d9%85%d8%a7%d8%b7%d9%85-107470.html",
+   "used_for": "« BM » (bid maticha) : repas rapide des étudiants, cuisiné entre deux cours, presque sans mesures ; plat courant chez les étudiants, les célibataires et les gens pressés."
+  },
+  {
+   "name": "Lalla Moulati, « البيض ومطيشة كولشي كيعرف يطيبو… », 29 décembre 2018, rubrique Cuisine de Lalla Moulati",
+   "url": "https://www.lalamoulati.net/177424.html",
+   "used_for": "Plat que tout le monde sait cuisiner ; plat traditionnel facile, qui se prépare au petit-déjeuner ou au dîner ; façons de faire différentes selon les endroits (dans certains pays, on ajoute d'autres légumes et aromates) ; version au four (tomates farcies d'œuf, oignon, persil) en variante."
+  },
+  {
+   "name": "Lalla Moulati, « الشكشوكة », 10 novembre 2014, rubrique Cuisine marocaine",
+   "url": "https://www.lalamoulati.net/2386.html",
+   "used_for": "Version marocaine aux œufs brouillés : oignon haché revenu, tomates coupées, œufs battus remués jusqu'à cuisson, sel et poivre à la fin ; sans quantités ni poivrons."
+  },
+  {
+   "name": "Choumicha (Choumicha Chafay), « Tajine de tomate au khliï et aux œufs », site officiel, rubrique Saveurs du Maroc (copie archivée du 19 mai 2026 ; le site est hors ligne)",
+   "url": "https://web.archive.org/web/20260519164706/https://www.choumicha.ma/recette/1220-tajine-de-tomate-au-khlii-et-aux-oeufs.html",
+   "used_for": "Plat marocain tomates-œufs chiffré : 4 belles tomates, 1 gousse d'ail, 3 c. à s. d'huile d'olive, 180 g de khlii, 6 œufs, persil, sel, cumin, pour 6 ; tomates en rondelles, salées, ail, huile, au tajine sur feu doux, à couvert 10 à 15 min ; khlii et cumin 5 min ; œufs et persil 3 à 4 min jusqu'à ce que le blanc prenne ; servir très chaud avec du thé à la menthe ; cuisson 20 min."
+  },
+  {
+   "name": "Choumicha, « طاجين الطماطم بالخليع والبيض », version arabe du même site (copie archivée du 15 novembre 2015)",
+   "url": "https://web.archive.org/web/20151115183152/http://www.choumicha.ma/ar/recette/1221-%D8%B7%D8%A7%D8%AC%D9%8A%D9%86-%D8%A7%D9%84%D8%B7%D9%85%D8%A7%D8%B7%D9%85-%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%A8%D9%8A%D8%B6.html",
+   "used_for": "Mêmes quantités et mêmes temps que la version française (rondelles, 10 à 15 min à couvert, 5 min, 3 à 4 min) : vérification croisée."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « KEFTA Meatballs and Eggs Tagine (Shakshuka) », 31 mars 2015 (modifiée le 9 août 2023)",
+   "url": "https://www.mymoroccanfood.com/home/kefta-meatballs-and-eggs-tagine-shakshuka",
+   "used_for": "Sauce tomate aux œufs pour 4 (sans compter la kefta) : 2 c. à s. d'huile d'olive, 2 gousses d'ail, 5 tomates mûres (ou 400 g en boîte), 1 c. à s. de persil, 1 c. à c. de cumin, 1 c. à c. de paprika, ½ c. à c. de sel, ¼ c. à c. de poivre noir, pincée de Cayenne, 4 œufs, coriandre ; tout dans la poêle, porter à ébullition, couvrir à feu doux environ 25 min ; place faite pour chaque œuf, à couvert 4 à 5 min (blanc pris, jaune coulant) ; servir aussitôt avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « 372 – Tagine of Meatballs and Eggs / طاجن البيض وكرات اللحم » (plan du site : 31 octobre 2016)",
+   "url": "https://www.cookingwithalia.com/372-tagine-of-meatballs-and-eggs/",
+   "used_for": "Sauce pour 4 œufs : 1 kg de tomates mûres râpées (peau jetée), 2 c. à s. d'huile d'olive, ¼ d'oignon, 2 gousses d'ail, 1½ c. à c. de paprika, de cumin et de sel, 3 c. à s. de coriandre ; 20 à 25 min à feu moyen en remuant à la cuillère en bois jusqu'à une sauce épaisse."
+  },
+  {
+   "name": "Cooking With Alia, « 023 – Tajine of Kefta with Eggs » (plan du site : 25 février 2015)",
+   "url": "https://www.cookingwithalia.com/tajine-of-kefta-with-eggs/",
+   "used_for": "Œufs ajoutés sur la sauce, à couvert, 5 minutes ; sauce de 3 tomates râpées avec ½ c. à c. de paprika et ¼ c. à c. de cumin ; servi avec du pain et du thé à la menthe."
+  },
+  {
+   "name": "Taste of Maroc (Christine Benlafquih), « Classic Moroccan Meatball Tagine with Tomato Sauce – Kefta Mkaouara », publiée le 3 février 2018, modifiée le 20 décembre 2021 (copie archivée du 16 juillet 2026 : page relue aussi en direct le 7 novembre 2026, contenu identique ; son robots.txt autorise tout)",
+   "url": "https://web.archive.org/web/20260716013857/https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/",
+   "used_for": "Sauce pour 4 : 2 lb (907 g) de tomates mûres, 1 oignon moyen, 1 petit poivron vert, 1 feuille de laurier, 4 gousses d'ail, 1½ c. à c. de paprika, de cumin et de sel, ¼ c. à c. de poivre, persil et coriandre, 4 œufs beldi de préférence ; tomates râpées plus rapides ; temps de cuisson très variable selon les tomates et le récipient ; écraser les tomates au dos d'une cuillère ; ne pas brûler l'ail ; œufs posés sans crever les jaunes, à couvert jusqu'à ce que les blancs soient fermes ; diffuseur sous le tajine hors gaz ; repas pris en commun, avec du pain et du thé à la menthe."
+  },
+  {
+   "name": "Wikipedia (en), « Shakshouka », consulté le 7 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Shakshouka",
+   "used_for": "Au Maroc, un plat s'appelle bīḍ w-maṭiša (بيض ومطيشة, « œuf et tomate ») ; références : Hespress 2012 et Al-Quds al-Arabi 2023."
+  },
+  {
+   "name": "Wikipédia (fr), « Chakchouka », consulté le 7 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Chakchouka",
+   "used_for": "Au Maghreb (dont le Maroc), la variante la plus courante : oignons et tomates, avec à la fin des œufs brouillés ou cuits à la surface ; ail possible à la place des oignons (paragraphe sans référence) ; section Maroc : chakchouka avec du poivron vert."
+  },
+  {
+   "name": "Wikipedia (ar), « شكشوكة », consulté le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B4%D9%83%D8%B4%D9%88%D9%83%D8%A9",
+   "used_for": "Au Maroc, le plat aux œufs et aux tomates s'appelle « بيض ومطيشة » (référence : Hespress 2012)."
+  },
+  {
+   "name": "Anses, « Fiche de description de danger biologique transmissible par les aliments : Salmonella spp. », saisine 2016-SA-0080, mise à jour de juin 2021",
+   "url": "https://www.anses.fr/system/files/BIORISK2016SA0080Fi.pdf",
+   "used_for": "Personnes âgées, immunodéprimées, jeunes enfants et femmes enceintes : ne pas consommer d'œufs crus ou peu cuits ; ne jamais laver les œufs avant de les stocker ; les garder toujours à la même température ; se laver les mains après avoir manipulé des œufs crus."
+  },
+  {
+   "name": "Anses, « Qu'est-ce que la salmonellose et comment s'en prémunir ? », article du 27 octobre 2025",
+   "url": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir",
+   "used_for": "Œufs et produits à base d'œufs crus : principale source des toxi-infections collectives à salmonelles ; personnes à risque : pas d'œufs crus ou peu cuits ; ne pas laver les œufs avant de les ranger."
+  },
+  {
+   "name": "Anses, « En cuisine, le meilleur ingrédient, c'est l'hygiène ! », article du 11 mai 2026",
+   "url": "https://www.anses.fr/fr/content/en-cuisine-le-meilleur-ingredient-c-est-l-hygiene",
+   "used_for": "Jeunes enfants, femmes enceintes, personnes âgées ou immunodéprimées : œufs bien cuits ; plats au réfrigérateur dans les 2 heures, en petites portions ; réfrigérateur entre 0 et 4 °C ; lavage des mains au savon."
+  },
+  {
+   "name": "FDA (États-Unis), « What You Need to Know About Egg Safety », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+   "used_for": "Cuire jusqu'à ce que jaune et blanc soient fermes ; enfants, personnes âgées, femmes enceintes et immunodéprimés plus à risque ; plats aux œufs pas plus de 2 heures hors du réfrigérateur ; restes en boîtes peu profondes, 3 à 4 jours au frais, réchauffés à 165 °F (74 °C, conversion calculée)."
+  },
+  {
+   "name": "USDA FoodData Central, fiche 170457 « Tomatoes, red, ripe, raw » (données SR Legacy lues par l'API officielle)",
+   "url": "https://api.nal.usda.gov/fdc/v1/food/170457?api_key=DEMO_KEY",
+   "used_for": "Poids de référence : tomate moyenne 123 g, grosse 182 g ; sert à comparer les quantités de tomates des sources (calcul de la médiane)."
+  },
+  {
+   "name": "Pages « About » des sites lus : My Moroccan Food (Nargisse Benkabbou, élevée à Bruxelles dans une famille marocaine, ancienne cheffe de L'Mida Marrakech) ; Cooking With Alia (Alia, cuisine marocaine de son enfance) ; Taste of Maroc (Christine Benlafquih, experte cuisine marocaine d'About.com de 2008 à 2016)",
+   "url": "https://www.mymoroccanfood.com/about",
+   "used_for": "Profil des auteurs ; pages lues : https://www.cookingwithalia.com/about/ et https://web.archive.org/web/2026/https://tasteofmaroc.com/about/."
+  },
+  {
+   "name": "Cooking With Alia (Alia, cuisinière marocaine), « 894 – Fancy Chekchouka / شكشوكة », 30 avril 2021",
+   "url": "https://www.cookingwithalia.com/894-fancy-chekchouka/",
+   "used_for": "Contre-vérification : Le geste de l'étape « Casse les œufs » : « Using a spoon, create little wells in the sauce, crack an egg in each well. Cover the skillet and cook for 3 to 5 minutes until the eggs are cooked through. » Sa chekchouka a du poivron vert (avec oignon, ail, tomate et une sauce du commerce), ce qui appuie la différence faite avec la chakchouka."
+  },
+  {
+   "name": "Anses, « Fiche de description de danger microbiologique transmissible par les aliments : Escherichia coli producteurs de shigatoxines (STEC) / entérohémorragiques (EHEC) », saisine 2024-MPEX-0031, juillet 2024",
+   "url": "https://www.anses.fr/sites/default/files/Fiche-EHEC-2024-MPEX-0031.pdf",
+   "used_for": "Contre-vérification : Recommandation aux consommateurs : « Laver soigneusement, ou éplucher si possible les légumes, les fruits, légumes feuilles (salades verte, épinards), et les herbes aromatiques qui seront consommés crus » (persil et coriandre parsemés crus)."
+  },
+  {
+   "name": "FDA (États-Unis), « Selecting and Serving Produce Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely",
+   "used_for": "Contre-vérification : Laver les végétaux sous l'eau courante, sans savon ni détergent, puis les sécher avec un torchon propre ou du papier absorbant (herbes mangées crues)."
+  }
+ ],
+ "discrepancies": [
+  "Quantité de tomates pour 4 : Choumicha environ 485 g (4 belles tomates pour 6, ramenées à 4 ; poids USDA d'une grosse tomate : 182 g), My Moroccan Food environ 615 g (5 tomates mûres ; tomate moyenne USDA : 123 g), Taste of Maroc 907 g (2 lb), Cooking With Alia 1 kg. Médiane : 761 g. Retenu 6 tomates moyennes (738 g).",
+  "Méthode et durée : Choumicha, tomates en rondelles à couvert 10 à 15 min (plus 5 min avec le khlii) ; My Moroccan Food, tout ensemble à couvert environ 25 min ; Cooking With Alia, tomates râpées 20 à 25 min ; Taste of Maroc, deux fois 15 à 30 min. Retenu la méthode de Choumicha, seul plat tomates-œufs sans boulettes chiffré, qui tient en 30 minutes ; la sauce plus réduite est donnée en astuce et en variante.",
+  "Ail ou oignon : ail seul chez Choumicha et My Moroccan Food ; oignon seul chez Lalla Moulati (2014) ; oignon ou ail selon Wikipédia FR ; les deux chez Cooking With Alia et Taste of Maroc. Retenu l'ail (Choumicha, My Moroccan Food), plus rapide ; l'oignon en variante.",
+  "Épices : sel et cumin chez Choumicha ; sel et poivre chez Lalla Moulati (2014) ; paprika, cumin, sel et poivre chez My Moroccan Food, Cooking With Alia et Taste of Maroc. Retenu les quatre, le paprika noté facultatif. Quantités ramenées à 738 g de tomates puis médianes : sel 0,6 / 1,1 / 1,2, soit 1 c. à c. ; cumin 0,5 / 1,1 / 1,2 / 1,2, soit 1 c. à c. ; paprika 1,0 / 1,1 / 1,2 / 1,2, soit 1 c. à c. ; poivre 0,2 / 0,3, soit ¼ c. à c.",
+  "Huile d'olive : 2 c. à s. pour 4 (My Moroccan Food, Cooking With Alia 372), 3 pour 6 chez Choumicha (soit 2 pour 4), ¼ de tasse (environ 4 c. à s.) chez Taste of Maroc. Retenu 2 c. à s.",
+  "Ail : 2 gousses (My Moroccan Food, Cooking With Alia 372), 4 (Taste of Maroc), 1 pour 6 (Choumicha). Retenu 2 gousses (médiane par personne).",
+  "Cuisson des œufs à couvert : 3 à 4 min (Choumicha), 4 à 5 min (My Moroccan Food), 5 min (Cooking With Alia 023), jusqu'à ce que les blancs soient fermes (Taste of Maroc). Retenu 5 minutes.",
+  "Herbes : persil seul (Choumicha), persil et coriandre (My Moroccan Food, Taste of Maroc), coriandre seule (Cooking With Alia 372). Retenu un peu des deux, parsemés au service comme chez My Moroccan Food (coriandre) et Taste of Maroc (persil ou coriandre) ; Choumicha, elle, met son persil avec les œufs, 3 à 4 minutes avant la fin.",
+  "Nom : « البيض ومطيشة » (Hespress 2012, Lalla Moulati 2018, Wikipédia), « البيض بالطماطم » (Lalla Moulati 2018, Hespress 2012) et « BM » (Hespress 2012). Lalla Moulati (2014) appelle « الشكشوكة » une version aux œufs brouillés et à l'oignon, sans poivrons, et Wikipédia AR écrit qu'au Maroc la chakchouka s'appelle « بيض ومطيشة » : la frontière entre les deux noms n'est pas nette. L'appli réserve « chakchouka » à la version aux poivrons, la plus citée au Maroc (Wikipédia FR ; Cooking With Alia).",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 18 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Aucune recette chiffrée du bid w maticha nature (sans viande ni khlii) n'a été trouvée sur un site marocain lisible. Les quantités viennent du tajine tomates-khlii-œufs de Choumicha et des sauces tomate aux œufs des tajines de kefta (My Moroccan Food, Cooking With Alia, Taste of Maroc), sans la viande, puis de médianes.",
+  "Al-Quds al-Arabi (Abdelaziz Benabbou, 12 février 2023, cité par Wikipedia EN) n'a pas été lu : le robots.txt d'alquds.co.uk interdit ClaudeBot, Claude-SearchBot et anthropic-ai. L'idée d'un repas « le plus simple, le plus connu et le moins cher » reste donc non vérifiée et n'est pas dans la recette.",
+  "Temps de préparation (10 min) : estimation, aucune source ne le donne pour ce plat. La cuisson (20 min) est celle indiquée par Choumicha pour son tajine ; avec une sauce plus réduite, comme chez My Moroccan Food, Cooking With Alia ou Taste of Maroc, le total dépasse 30 minutes.",
+  "Durée de 10 à 15 min pour fondre les tomates : donnée par la seule Choumicha, pour 4 belles tomates ; pas confirmée par une deuxième source pour 6 tomates moyennes, d'où l'absence de minuteur à cette étape.",
+  "Poids des « belles tomates » de Choumicha : assimilées aux grosses tomates de l'USDA (182 g) pour le calcul de la médiane ; c'est une hypothèse.",
+  "Forme « bid b'maticha / بيض بماطيشة » de la commande : non trouvée telle quelle dans les sources lues, qui écrivent « البيض ومطيشة » (bid w maticha), « البيض بالطماطم » ou « BM ».",
+  "Aucune variante régionale marocaine sourcée trouvée (Lalla Moulati 2018 dit seulement que la façon de faire change selon les endroits et les pays, sans détail pour le Maroc).",
+  "Sites non utilisables : The Spruce Eats (robots.txt interdit Claude-User et ClaudeBot), Yabiladi (interdit ClaudeBot), Morocco World News (plan du site en erreur 403), Le Matin et 2M (robots.txt en erreur 403), Moroccan Zest (page de vérification anti-robot), Kifache (devenu un site d'actualité). Aucune recette de ce plat trouvée sur Bladi.net, Femmes du Maroc, Le360 (rubrique lifestyle), Cooking With Alia, My Moroccan Food ni dans les copies d'archive de Taste of Maroc et de choumicha.ma.",
+  "Taste of Maroc a renvoyé une erreur 403 (pare-feu) lors de la recherche alors que son robots.txt autorise tout : la page a été lue sur sa copie web.archive.org. À la contre-vérification (7 novembre 2026), elle répondait en direct, avec le même contenu."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "pairs": [
+  "khobz",
+  "the-menthe"
+ ],
+ "img_alt": "Bid w maticha : œufs cuits dans une sauce tomate, servis dans un plat en terre avec du pain",
+ "img": "img/bid-maticha.jpg",
+ "photo": {
+  "author": "felibrilu",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "page": "https://www.flickr.com/photos/36256827@N08/54493261889",
+  "modified": "recadrée"
  }
 });
 
@@ -4133,6 +4649,486 @@ window.RECETTES.push({
   unverified: []
 });
 
+/* Recette : Escalopes de poulet panées. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "escalopes-poulet-panees",
+ "title": "Escalopes de poulet panées",
+ "darija": "",
+ "arabic": "إسكالوب دجاج بانيه",
+ "tagline": "Des escalopes de poulet bien fines, passées dans la farine, l'œuf et la chapelure, puis dorées à la poêle : croustillantes dehors, moelleuses dedans.",
+ "category": "Rapide",
+ "occasion": "Dîner rapide des soirs de fatigue. Les enfants adorent l'escalope panée (Migusto, Betty Bossi).",
+ "region": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 12,
+  "cook": 18,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une planche à découper réservée au poulet cru",
+  "Un rouleau à pâtisserie ou un attendrisseur à viande",
+  "Du papier sulfurisé (ou du film alimentaire)",
+  "Trois assiettes creuses",
+  "Une grande poêle",
+  "Une pince ou une spatule",
+  "Du papier absorbant et un plat qui va au four",
+  "Un thermomètre de cuisson (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Escalopes",
+   "items": [
+    {
+     "id": "escalopes",
+     "q": 4,
+     "u": "",
+     "name": "escalope de poulet halal",
+     "pl": "escalopes de poulet halal",
+     "note": "une par personne, de 100 à 150 g environ ; ou des blancs de poulet tranchés en deux dans l'épaisseur",
+     "canon": "blanc-poulet"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "canon": "poivre"
+    }
+   ]
+  },
+  {
+   "group": "Panure",
+   "items": [
+    {
+     "id": "farine",
+     "q": 100,
+     "u": "g",
+     "name": "de farine",
+     "note": "farine blanche ordinaire",
+     "canon": "farine"
+    },
+    {
+     "id": "oeufs",
+     "q": 2,
+     "u": "",
+     "name": "œuf",
+     "pl": "œufs",
+     "round": "up",
+     "canon": "oeuf"
+    },
+    {
+     "id": "chapelure",
+     "q": 100,
+     "u": "g",
+     "name": "de chapelure",
+     "note": "bien fine ; ou du pain rassis séché, mixé finement",
+     "canon": "chapelure"
+    }
+   ]
+  },
+  {
+   "group": "Cuisson et service",
+   "items": [
+    {
+     "id": "huile",
+     "q": 200,
+     "u": "ml",
+     "name": "d'huile neutre",
+     "note": "tournesol, colza ou arachide : une huile qui supporte la chaleur",
+     "canon": "huile"
+    },
+    {
+     "id": "citron",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "en quartiers, pour servir",
+     "canon": "citron"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Installe les trois assiettes",
+   "text": "Mets {{farine}} de farine dans une première assiette creuse, avec un peu de {{sel}} et de {{poivre}}. Casse {{oeufs:full}} dans la deuxième, ajoute un peu de sel et bats juste à la fourchette. Verse {{chapelure}} de chapelure dans la troisième.",
+   "timer": null,
+   "tip": "Ne bats pas trop les œufs : battus trop longtemps, ils deviennent trop liquides (recette du Wiener Schnitzel de l'Office du tourisme de Vienne)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Aplatis les escalopes",
+   "text": "Aplatis {{escalopes:full}} : pose la viande entre deux feuilles de papier sulfurisé et tape-la au rouleau à pâtisserie, sans la déchirer, jusqu'à environ 5 mm d'épaisseur, bien régulière.",
+   "timer": null,
+   "tip": "Tu as des blancs entiers ? Tranche-les d'abord en deux dans l'épaisseur, la main bien à plat dessus, avant de les aplatir (Chef Simon)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Sèche et assaisonne",
+   "text": "Éponge la viande avec du papier absorbant, puis sale-la et poivre-la des deux côtés.",
+   "timer": null,
+   "tip": "Ne lave pas le poulet cru : l'eau projette ses bactéries sur tes mains, le plan de travail et les ustensiles, et seule la cuisson les détruit (FSA, agence sanitaire britannique)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Passe-les dans la farine",
+   "text": "Passe une escalope dans la farine, des deux côtés. Secoue-la pour faire tomber le surplus.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Puis dans l'œuf",
+   "text": "Trempe-la dans l'œuf battu, des deux côtés. Laisse égoutter le surplus au-dessus de l'assiette.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Puis dans la chapelure",
+   "text": "Pose-la dans la chapelure, retourne-la et presse légèrement pour que la chapelure tienne bien. Pose-la sur un plat, puis pane les autres escalopes de la même façon, s'il y en a. Lave-toi ensuite les mains au savon.",
+   "timer": null,
+   "tip": "Pane juste avant de cuire : si elle attend, la panure prend l'humidité et se détache à la cuisson (Betty Bossi, Migusto)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffe l'huile",
+   "text": "Verse {{huile}} d'huile dans la grande poêle (une petite poêle si tu ne cuis qu'une escalope, pour que l'huile monte assez haut) et chauffe-la à feu moyen-vif, vers 170 °C. Sans thermomètre, plonge une brochette ou un manche en bois dans l'huile : quand de petites bulles se forment tout autour, elle est prête. À partir de maintenant, ne quitte plus la poêle.",
+   "timer": null,
+   "tip": "Si l'huile fume, elle est trop chaude : coupe le feu et laisse-la refroidir un peu (conseils incendie du gouvernement britannique)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Dore la première face",
+   "text": "Dépose délicatement les escalopes dans l'huile chaude, deux au plus à la fois. Laisse-les dorer 4 minutes environ, à feu moyen, sans les toucher.",
+   "timer": {
+    "min": 4,
+    "label": "Première face",
+    "done": "Retourne les escalopes."
+   },
+   "tip": "Pendant ce temps, arrose le dessus d'un peu d'huile chaude, à la cuillère : la panure sera plus croustillante (Betty Bossi ; Migusto incline la poêle pour la même raison)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Retourne-les",
+   "text": "Retourne les escalopes avec la pince et laisse dorer l'autre face 4 minutes environ. La panure doit être bien dorée, pas brune.",
+   "timer": {
+    "min": 4,
+    "label": "Deuxième face",
+    "done": "Vérifie la cuisson."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie la cuisson",
+   "text": "Coupe la plus épaisse en son milieu : la chair doit être blanche, sans aucune trace de rose, et le jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C. Sinon, baisse le feu et prolonge de quelques minutes.",
+   "timer": null,
+   "tip": "L'Anses recommande une cuisson à cœur de 70 °C pour la volaille ; la FSA, 75 °C pendant 30 secondes (ou 70 °C pendant 2 minutes)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte et garde au chaud",
+   "text": "Pose les escalopes cuites sur du papier absorbant, puis dans un plat propre, au four doux (60 à 80 °C), pendant que tu cuis les autres, s'il en reste. N'utilise pas le plat du poulet cru.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis les autres",
+   "text": "S'il reste des escalopes, fais-les cuire de la même façon, deux au plus à la fois, et vérifie aussi leur cuisson.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Coupe le feu",
+   "text": "Éteins le feu dès la dernière escalope sortie. Laisse l'huile refroidir complètement dans la poêle avant de la déplacer, de la filtrer ou de la jeter.",
+   "timer": null,
+   "tip": "Jette ce qui reste de farine, d'œuf et de chapelure : ils ont touché le poulet cru (la FSA rappelle que ses bactéries passent sur ce qu'il touche)."
+  },
+  {
+   "phase": "Service",
+   "title": "Sers aussitôt",
+   "text": "Sers les escalopes tout de suite, bien chaudes, avec {{citron:full}} en quartiers.",
+   "timer": null,
+   "tip": "Une escalope de volaille panée n'attend pas, sinon elle durcit : sers-la aussitôt, moelleuse et brûlante (Escoffier)."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Aplatis les escalopes à une épaisseur régulière, environ 5 mm : elles cuisent vite et partout pareil.",
+   "source": "Betty Bossi (les escalopes du boucher font environ 5 mm), Ben Tish (Great British Chefs, 0,5 cm), Chef Simon, Migusto, Diana Henry (BBC Good Food)"
+  },
+  {
+   "text": "Incise très légèrement la surface de la viande avant de l'aplatir : elle se laisse mieux battre et se rétracte moins à la cuisson.",
+   "source": "Chef Simon (escalope panée à l'anglaise ; tailler et aplatir une escalope de volaille)"
+  },
+  {
+   "text": "L'ordre farine, œuf, chapelure a une raison : la farine sèche la surface pour que l'œuf accroche, et l'œuf colle la chapelure.",
+   "source": "Betty Bossi (« Paner ») ; Chef Simon (lexique « Paner » : panure à l'anglaise)"
+  },
+  {
+   "text": "Secoue l'excédent de farine et laisse égoutter l'œuf : la panure reste fine, régulière, et ne se détache pas.",
+   "source": "Migusto (« Paner une escalope »), Betty Bossi, Chef Simon, Ben Tish (Great British Chefs)"
+  },
+  {
+   "text": "L'huile doit être bien chaude avant d'y mettre les escalopes : trop froide, la panure boit l'huile et ne croustille pas.",
+   "source": "Betty Bossi (« Paner ») ; Migusto (« La friture »)"
+  },
+  {
+   "text": "Pas plus de deux escalopes à la fois : trop chargée, la poêle refroidit et la panure devient molle.",
+   "source": "Betty Bossi (« Frire »), Great British Chefs (GBC Kitchen), Journal des Femmes (la rédaction cuit les escalopes deux par deux)"
+  },
+  {
+   "text": "Arrose le dessus avec l'huile chaude pendant la cuisson, ou incline doucement la poêle : la panure gonfle et croustille.",
+   "source": "Betty Bossi (« Paner ») ; Migusto (escalopes viennoises) ; Office du tourisme de Vienne (recette du Sacher)"
+  },
+  {
+   "text": "Égoutte les escalopes sur du papier absorbant dès leur sortie de la poêle.",
+   "source": "Office du tourisme de Vienne, Migusto, Great British Chefs, Cyril Lignac (cité par le Journal des Femmes)"
+  },
+  {
+   "text": "Pour le goût du beurre, prends du beurre clarifié : le beurre ordinaire commence à fumer vers 130 à 150 °C, le beurre clarifié vers 250 °C seulement.",
+   "source": "Chef Simon (lexique « Beurre clarifié ») ; Escoffier et Cyril Lignac cuisent leurs escalopes panées au beurre clarifié"
+  },
+  {
+   "text": "Prends une chapelure bien fine, comme le demande la recette viennoise ; la chapelure maison se fait avec du pain rassis séché, mixé puis tamisé.",
+   "source": "Office du tourisme de Vienne (chapelure « très finement râpée ») ; Larousse et Chef Simon (définition de la chapelure)"
+  },
+  {
+   "text": "Les cuisses de poulet désossées, aplaties de la même façon, donnent des escalopes plus juteuses que le blanc.",
+   "source": "Diana Henry (BBC Good Food)"
+  }
+ ],
+ "mistakes": [
+  "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+  "Décongeler le poulet sur le plan de travail : décongèle-le au réfrigérateur ou au micro-ondes (Anses).",
+  "Paner longtemps à l'avance : la panure se ramollit et se détache (Betty Bossi).",
+  "Mettre les escalopes dans une huile pas assez chaude : elles boivent l'huile (Betty Bossi, Migusto).",
+  "Remplir la poêle : l'huile refroidit et la panure devient molle (Betty Bossi, Great British Chefs).",
+  "Laisser la poêle d'huile sans surveillance (BPA, gouvernement britannique).",
+  "Jeter de l'eau sur de l'huile en feu : jamais. Coupe le feu si tu peux le faire sans risque ; le BPA conseille d'étouffer les flammes avec un couvercle ou une couverture anti-feu, le gouvernement britannique de ne pas affronter le feu soi-même. Si le feu prend, sors, reste dehors et appelle les secours (gouvernement britannique).",
+  "Laisser brunir la panure : vise une couleur jaune doré, comme la FSA le conseille pour les aliments riches en amidon frits, dont le pain (FSA, Betty Bossi).",
+  "Servir sans vérifier que le cœur est bien cuit (Anses, FSA).",
+  "Reposer les escalopes cuites dans le plat du poulet cru (Anses)."
+ ],
+ "serving": "Tout de suite, avec du citron, en quartiers (Migusto, Diana Henry) ou en rondelles (Office du tourisme de Vienne). À côté : une salade verte, une salade de pommes de terre ou de concombre, ou des pommes de terre persillées, comme à Vienne ; on les sert aussi avec du riz ou des frites (Office du tourisme de Vienne, Migusto, Wikipédia). Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), réchauffés une seule fois jusqu'à être brûlants à cœur (FSA, Anses).",
+ "variants": [
+  "Façon milanaise : mélange du parmesan râpé à la chapelure (Chef Simon : un tiers de parmesan ; la rédaction du Journal des Femmes en met avec du persil). Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+  "Au panko, la chapelure japonaise (Great British Chefs, Ben Tish ; Betty Bossi la propose aussi).",
+  "Double panure : repasse l'escalope déjà panée dans l'œuf, puis dans la chapelure, pour une croûte plus épaisse (Betty Bossi, Ben Tish).",
+  "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
+  "Façon israélienne : chapelure relevée de paprika ou de graines de sésame, cuisson à l'huile végétale (Wikipédia).",
+  "Holstein : un œuf au plat posé sur chaque escalope (Chef Simon, qui ajoute des filets d'anchois).",
+  "Avec des cuisses de poulet désossées, plus juteuses, et un beurre noisette aux câpres (Diana Henry, BBC Good Food).",
+  "Au beurre clarifié, comme Escoffier, Chef Simon et Cyril Lignac, à la place de l'huile."
+ ],
+ "sources": [
+  {
+   "name": "Chef Simon (chef cuisinier, fondateur de chefsimon.com), « Escalope de veau panée à l'anglaise », 7 décembre 2011, modifiée le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/escalope-de-veau-panee-a-l-anglaise",
+   "used_for": "Technique « valable pour les escalopes de veau et de volaille » : aplatir après avoir légèrement incisé la surface (moins de rétractation) ; farine en tapotant l'excédent ; œuf assaisonné, huilé ou détendu d'un peu d'eau, égoutté ; chapelure ou mie de pain pressée sur chaque face ; cuisson au beurre clarifié ; si la viande est épaisse, finir à feu plus doux. Pour 2 : 1 œuf, 60 g de chapelure, 40 g de beurre. Variante Holstein (volaille panée, œuf au plat, anchois) ; milanaise (mie de pain et parmesan)."
+  },
+  {
+   "name": "Chef Simon, « Tailler et aplatir une escalope de volaille », 7 décembre 2011, modifiée le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/tailler-et-aplatir-une-escalope-de-volaille",
+   "used_for": "Trancher un blanc dans l'épaisseur, main à plat ; inciser légèrement les fibres pour faciliter le battage ; aplatir entre deux feuilles de papier sulfurisé (surface augmentée d'un tiers, voire doublée) ; ensuite paner à l'anglaise."
+  },
+  {
+   "name": "Chef Simon, « Merlan pané à l'anglaise », 7 décembre 2011, modifié le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/merlan-pane-a-l-anglaise",
+   "used_for": "Pour 4 : environ 80 g de farine, 2 œufs battus avec 1 c. à c. d'huile, 1 c. à s. d'eau, sel et poivre, 150 g de mie de pain ; farine en tapotant l'excédent, œuf, chapelure pressée ; cuisson beurre et huile, 3 à 4 minutes sur la première face, puis à feu doux."
+  },
+  {
+   "name": "Chef Simon, lexique « Paner » (1er février 2016, modifié le 1er janvier 2025), « Chapelure » (29 janvier 2016, modifié le 29 septembre 2026) et « Beurre clarifié » (29 janvier 2016, modifié le 7 mai 2026)",
+   "url": "https://chefsimon.com/articles/lexique-paner",
+   "used_for": "Panure à l'anglaise : farine et œuf, puis chapelure ou mie de pain tamisée ; panure à la milanaise : mie de pain avec un tiers de parmesan. Chapelure : mie de pain rassie séchée, tamisée ou mixée (https://chefsimon.com/articles/lexique-chapelure). Beurre clarifié : plus résistant à la chaleur, point de fumée d'environ 250 °C contre 130 à 150 °C pour le beurre ordinaire (https://chefsimon.com/articles/lexique-beurre-clarifie)."
+  },
+  {
+   "name": "Auguste Escoffier, Le Guide culinaire, aide-mémoire de cuisine pratique (1903), chapitre « Relevés et entrées de volaille », transcription Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_guide_culinaire/Relev%C3%A9s_et_entr%C3%A9es_de_volaille",
+   "used_for": "Les suprêmes de volaille « peuvent être panés à l'anglaise pour être sautés ou frits » ; suprême Marie-Louise : escalopes de suprême légèrement aplaties, panées à l'anglaise, sautées au beurre clarifié ; une côtelette ou un suprême de volaille « ne doit jamais attendre sous peine de durcir », il se sert moelleux et brûlant. Poussins à la viennoise : farine, panure à l'anglaise, beurre clarifié."
+  },
+  {
+   "name": "Journal des Femmes Cuisine, La Rédaction, « Escalopes de poulet panées et fondue de tomates », 15 août 2025",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/353691-escalopes-de-poulet-panees-et-fondue-de-tomates",
+   "used_for": "Recette au poulet pour 4 : 4 escalopes de poulet bien plates, farine, 2 œufs battus salés et poivrés, 120 g de chapelure (avec 50 g de parmesan et du persil) ; dorées 2 par 2 à l'huile d'olive, environ 3 minutes par face, puis 10 minutes au four sous la mozzarella."
+  },
+  {
+   "name": "Journal des Femmes, Elide Achille, « L'idée de Cyril Lignac pour ce soir : une escalope milanaise croustillante et dorée », 23 janvier 2023 (recette donnée par le chef sur RTL)",
+   "url": "https://cuisine.journaldesfemmes.fr/idees-recettes/2883445-l-idee-de-cyril-lignac-pour-ce-soir-une-escalope-milanaise-croustillante-et-doree/",
+   "used_for": "Pour 4 : 4 escalopes de veau, 100 g de farine, 3 œufs, 100 g de chapelure, 200 g de beurre clarifié ; escalopes tapées et salées, farine, œuf, chapelure ; beurre clarifié à 180 °C ; égouttées sur papier absorbant ; prêtes en 20 minutes."
+  },
+  {
+   "name": "Journal des Femmes, Tatiana Jean-Dorize, « Cyril Lignac a trouvé la combine pour une escalope panée plus légère », 6 mai 2024",
+   "url": "https://cuisine.journaldesfemmes.fr/gastronomie/3177852-cyril-lignac-a-trouve-la-combine-pour-une-escalope-panee-plus-legere-et-au-croustillant-imbattable/",
+   "used_for": "Variante plus légère : blancs d'œufs mousseux sans farine, 100 g de chapelure pour le double de cacahuètes concassées et 1 c. à c. d'épices tandoori, 30 minutes au réfrigérateur, cuisson dans un fond d'huile neutre, égouttage sur papier absorbant."
+  },
+  {
+   "name": "Migusto (plateforme de recettes de Migros, Suisse), « Paner une escalope », 24 septembre 2019",
+   "url": "https://migusto.migros.ch/fr/savoir/trucs/paner-des-escalopes/8a91fc96-ce41-464e-b963-751da264f651",
+   "used_for": "Aplatir entre du papier de boucherie ou sulfurisé ; trois assiettes : œufs battus, farine salée et poivrée, chapelure ; secouer l'excédent de farine, laisser égoutter l'œuf, presser légèrement la panure."
+  },
+  {
+   "name": "Migusto, « Escalopes viennoises », 18 août 2016, modifiée le 16 février 2026",
+   "url": "https://migusto.migros.ch/fr/recettes/escalopes-viennoises/102726",
+   "used_for": "Pour 4 : 6 c. à s. de farine, 100 g de chapelure, 2 œufs, 4 escalopes de veau d'environ 150 g, 2 dl d'huile de tournesol et 4 c. à s. de beurre à rôtir ; huile à environ 170 °C, test du bâtonnet en bois (petites bulles) ; une escalope à la fois, environ 3 minutes, à demi immergée, en inclinant la poêle ; égouttage sur papier absorbant ; maintien au chaud au four à 80 °C ; citron ; paner juste avant la cuisson ; 40 minutes en tout ; accompagnements."
+  },
+  {
+   "name": "Migusto, Anja Steiner, « La friture : chaleur et croustillant avant tout ! », 12 mars 2024, modifié le 15 juillet 2025",
+   "url": "https://migusto.migros.ch/fr/savoir/on-en-parle/friture-recettes-guide/9a15e4d4-a54d-4816-864b-328794576fcb",
+   "used_for": "Huile entre 165 et 175 °C ; trop froide, la préparation s'imprègne d'huile ; aliment le plus sec possible avant de paner ; huiles qui supportent la chaleur (colza, arachide) ; test à la louche en bois ; égouttage sur papier absorbant ; cuisson « semi-flottante » d'une escalope à la poêle."
+  },
+  {
+   "name": "Migusto, Anja Steiner, « Calculer les quantités par personne », 29 août 2023, modifié le 10 juillet 2024 ; glossaire « Poulet », 16 septembre 2019",
+   "url": "https://migusto.migros.ch/fr/savoir/on-en-parle/quantites-par-personne/5f472b0a-a649-4c4e-88df-897ea62cbd3f",
+   "used_for": "Émincé ou escalope : 100 à 120 g de viande crue par personne. Glossaire (https://migusto.migros.ch/fr/savoir/glossaire/poulet/f8de5c1b-9a27-414c-bbef-f48509c9f9a3) : l'escalope de poulet est découpée dans la poitrine ; les enfants l'aiment panée."
+  },
+  {
+   "name": "Betty Bossi (éditeur suisse de recettes), Erica, « Paner – Modes de cuisson en toute simplicité », 12 août 2026",
+   "url": "https://www.bettybossi.ch/fr/magazine/article/paner-modes-de-cuisson-en-toute-simplicite/",
+   "used_for": "Ordre farine, œuf, chapelure et pourquoi ; trois assiettes ; éponger les aliments humides ; secouer la farine, égoutter l'œuf, presser légèrement ; paner juste avant la cuisson ; matière grasse bien chaude, sinon la panure absorbe le gras ; arroser d'huile chaude à la cuillère ; huile de colza ou beurre à rôtir ; double panure ; panko, cornflakes."
+  },
+  {
+   "name": "Betty Bossi, « Frire – Modes de cuisson en toute simplicité », 30 septembre 2024, modifié le 16 mars 2026",
+   "url": "https://www.bettybossi.ch/fr/magazine/article/frire-modes-de-cuisson-en-toute-simplicite/",
+   "used_for": "Huile entre 160 et 180 °C ; test de la brochette en bois entourée de petites bulles ; petites portions à la fois, sinon l'huile refroidit ; maintien au chaud au four à 60 °C, porte entrouverte ; friture à la poêle : retourner les aliments."
+  },
+  {
+   "name": "Betty Bossi, « Escalopes, tranches, scaloppine », 4 novembre 2024",
+   "url": "https://www.bettybossi.ch/fr/magazine/article/escalopes-tranches-scaloppine/",
+   "used_for": "Les escalopes du boucher font environ 5 mm d'épaisseur ; les enfants aiment l'escalope panée."
+  },
+  {
+   "name": "Office du tourisme de Vienne (Wiener Tourismusverband), « Das Wiener Schnitzel », 16 mars 2021, modifié le 25 août 2023 (recette tirée de Christoph Wagner et Alexandra Winkler, Das Neue Sacher-Kochbuch) ; version anglaise et recette du Backhendl consultées aussi",
+   "url": "https://www.wien.info/de/essen-trinken/wiener-kueche/rezepte/fleisch-fisch/schnitzel-357486",
+   "used_for": "Pour 4 : 8 tranches de veau de 90 g, 4 œufs, 200 g de chapelure très fine, 100 g de farine, 300 ml de beurre clarifié et 100 ml d'huile ; viande tapée à 2 à 4 mm et salée des deux côtés ; œufs à peine battus à la fourchette (trop battus, ils deviennent liquides) ; graisse bien chaude, poêle balancée pour que la panure gonfle ; égouttage sur papier ; citron ; salade de pommes de terre, de concombre ou verte, pommes de terre persillées. Backhendl (https://www.wien.info/en/dine-drink/viennese-cuisine/recipes/meat-fish/fried-breaded-chicken-346446) : poulet pané, frit vers 160 °C."
+  },
+  {
+   "name": "BBC Good Food, Diana Henry, « Chicken schnitzel with brown butter & capers », 21 mai 2018, modifiée le 8 novembre 2022",
+   "url": "https://www.bbcgoodfood.com/recipes/chicken-schnitzel-brown-butter-capers",
+   "used_for": "Recette au poulet pour 2 personnes : 4 hauts de cuisse désossés (ou des blancs) aplatis au rouleau entre deux feuilles de papier, sans déchirer la chair ; 100 g de farine assaisonnée, 2 œufs, 100 g de chapelure ; huile et beurre, feu moyen, 4 minutes par face, panure dorée et poulet cuit à cœur ; au chaud dans un four doux ; citron ; 15 + 15 minutes ; les cuisses sont plus juteuses."
+  },
+  {
+   "name": "Great British Chefs, GBC Kitchen, « Chicken drumstick fillet schnitzels with gremolata », 5 septembre 2019, modifiée le 29 juillet 2025",
+   "url": "https://www.greatbritishchefs.com/recipes/chicken-schnitzel-recipe",
+   "used_for": "6 filets de pilon de poulet, pour 6 schnitzels selon la page, aplatis à environ 7 mm ; 80 g de farine, 2 œufs, 100 g de panko ; panure pressée ; beaucoup d'huile ; 3 à 4 minutes par face ; cuisson en plusieurs fois, car une poêle trop chargée refroidit et ramollit la panure ; égouttage sur papier ; citron ; 35 minutes en tout."
+  },
+  {
+   "name": "Great British Chefs, Ben Tish (chef), « Chicken Milanese with datterini tomatoes and salsa verde », 14 octobre 2022",
+   "url": "https://www.greatbritishchefs.com/recipes/chicken-milanese-recipe",
+   "used_for": "Blancs ouverts en portefeuille et aplatis à environ 0,5 cm ; farine (excédent secoué), jaune d'œuf (excédent égoutté), panko pressé ; double panure ; friture à 180 °C."
+  },
+  {
+   "name": "Cuisine AZ, Jean-Régis Treux, « Escalopes de poulet panées », 25 juillet 2021",
+   "url": "https://www.cuisineaz.com/recettes/escalopes-de-poulet-panees-80275.aspx",
+   "used_for": "Temps annoncé pour 4 escalopes : 15 minutes de préparation et 15 de cuisson. Sa panure (blancs d'œufs, maïzena, parmesan) et son repos de 15 minutes à température ambiante ne sont pas repris."
+  },
+  {
+   "name": "Dictionnaire Larousse, articles « paner » et « chapelure », consultée le 7 novembre 2026",
+   "url": "https://www.larousse.fr/dictionnaires/francais/paner/57602",
+   "used_for": "Paner : enrober un aliment de chapelure avant de le faire sauter ou frire (exemple : escalope panée). Chapelure : pain rassis émietté, séché au four, pilé et tamisé, utilisé pour paner (https://www.larousse.fr/dictionnaires/francais/chapelure/14685)."
+  },
+  {
+   "name": "Wikipédia, articles « Escalope », « Escalope à la viennoise » et « Chapelure » ; Wikipedia (anglais), article « Schnitzel » ; consultée le 7 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Escalope_viennoise",
+   "used_for": "L'escalope de volaille est le muscle pectoral (https://fr.wikipedia.org/wiki/Escalope) ; escalope viennoise : plat de Vienne, veau à l'origine ; version israélienne à la volaille frite à l'huile végétale, avec citron et persil ; accompagnements (salade, pommes de terre, frites, riz, citron). Chapelure : pain sec ou biscottes, panko (https://fr.wikipedia.org/wiki/Chapelure). Article anglais (https://en.wikipedia.org/wiki/Schnitzel) : en Égypte, le poulet pané s'appelle « frakh pané » (فراخ بانيه), d'après l'escalope panée française ; chapelure au paprika ou au sésame en Israël. Titre arabe de l'article « Escalope » : إسكالوب."
+  },
+  {
+   "name": "Anses, « Campylobactériose », 21 mars 2025",
+   "url": "https://www.anses.fr/fr/article/campylobacteriose",
+   "used_for": "Volailles : cuisson suffisante, plus de 65 °C à cœur ; se laver les mains après avoir manipulé de la viande crue ; nettoyer planche, plat et ustensiles ; la contamination passe par la planche et les couteaux."
+  },
+  {
+   "name": "Anses, « Qu'est-ce que la salmonellose et comment s'en prémunir ? », article du 27 octobre 2025",
+   "url": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir",
+   "used_for": "Cuire à cœur (70 °C) les viandes de volailles ; se laver les mains après avoir manipulé des denrées crues."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020), « Date limite de consommation (DLC) et DDM » (4 janvier 2021), « Comment bien conserver ses aliments » (23 juin 2022), « Comment garantir l'hygiène des aliments dans son réfrigérateur » (11 décembre 2020)",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Une planche pour la viande crue ; ne pas réutiliser pour les aliments cuits les plats qui ont servi au cru ; pas plus de 2 heures à température ambiante avant le réfrigérateur ; plats cuisinés : moins de 3 jours ; réfrigérateur à 4 °C. DLC (https://www.anses.fr/fr/article/date-limite-consommation-dlc-date-durabilite-minimale-ddm) : 70 °C à cœur élimine la majorité des pathogènes ; réchauffer couvert jusqu'à ce que la vapeur s'échappe. Conservation (https://www.anses.fr/fr/article/comment-bien-conserver-ses-aliments-ne-pas-interrompre-chaine-du-froid) : décongeler au réfrigérateur ou au micro-ondes."
+  },
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Cooking your food », publié le 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Poulet : couper la partie la plus épaisse, plus de chair rose, jus clair, fumant à cœur ; 70 °C pendant 2 minutes ou 75 °C pendant 30 secondes ; restes au réfrigérateur dans les 2 heures, à manger sous 48 heures, réchauffés une seule fois jusqu'à être brûlants."
+  },
+  {
+   "name": "FSA, « Why avoiding cross-contamination is important » (18 décembre 2017), « How to chill, freeze and defrost food safely » (18 décembre 2017) et « Acrylamide » (9 janvier 2018)",
+   "url": "https://www.gov.uk/government/publications/why-avoiding-cross-contamination-is-important/why-avoiding-cross-contamination-is-important",
+   "used_for": "Ne pas laver la viande ni la volaille crues (éclaboussures, seule la cuisson tue les bactéries) ; se laver les mains après ; les bactéries du poulet cru passent sur la planche, le couteau et les mains. Restes refroidis et mis au réfrigérateur en 1 à 2 heures, mangés sous 2 jours (https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely). Acrylamide (https://www.gov.uk/government/publications/acrylamide/acrylamide) : viser une couleur jaune doré, ou plus claire, pour les aliments riches en amidon frits, comme le pain."
+  },
+  {
+   "name": "Gouvernement britannique (Home Office), « Fire safety in the home », mis à jour le 25 mai 2022",
+   "url": "https://www.gov.uk/government/publications/make-your-home-safe-from-fire/fire-safety-in-the-home-accessible-version",
+   "used_for": "Prudence avec l'huile chaude, qui s'enflamme facilement ; aliments secs avant d'aller dans l'huile, pour éviter les projections ; huile qui fume = trop chaude, couper le feu et laisser refroidir ; casserole en feu : ne pas prendre de risque, couper le feu si c'est sans danger, ne jamais jeter d'eau, ne pas l'affronter soi-même ; manches tournés vers l'intérieur ; vérifier que la cuisinière est éteinte."
+  },
+  {
+   "name": "BPA (Bureau suisse de prévention des accidents), « Se protéger du feu et des autres sources de chaleur », consultée le 7 novembre 2026",
+   "url": "https://www.bfu.ch/fr/conseils/se-proteger-du-feu",
+   "used_for": "Ne jamais éteindre de l'huile en feu avec de l'eau : utiliser un couvercle ou une couverture anti-feu ; ne pas ajouter d'eau dans l'huile bouillante ; ne pas laisser les appareils ni un contenu bouillant sans surveillance ; manches des casseroles vers l'arrière ; gants de cuisine."
+  },
+  {
+   "name": "CIPI (Centre d'information pour la prévention des incendies, Suisse), « Dangers d'incendie en cuisine », lu le 7 novembre 2026",
+   "url": "https://www.bfb-cipi.ch/fr/conseils-prevention-incendie/detail/cuisine",
+   "used_for": "Contre-vérification : Ne jamais éteindre de la graisse en feu avec de l'eau, qui provoque une explosion de graisse brûlante ; sur un petit feu, poser un couvercle adapté ou une plaque de four, le plus sûr étant une couverture anti-feu, puis éteindre les plaques ; ne jamais laisser la poêle sans surveillance (les huiles peuvent s'enflammer seules au-delà de 300 °C). Recoupe le BPA et le gouvernement britannique."
+  },
+  {
+   "name": "Wikipédia en arabe, article « إسكالوب », lu le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D9%83%D8%A7%D9%84%D9%88%D8%A8",
+   "used_for": "Contre-vérification : إسكالوب désigne une tranche de viande sans os, aplatie, qui peut être du poulet ; enrobée de بقسماط (chapelure) puis frite, c'est l'une des façons françaises de la servir. Le nom complet « إسكالوب دجاج بانيه » reste composé : aucune source lue ne l'emploie tel quel."
+  }
+ ],
+ "discrepancies": [
+  "Épaisseur : 2 à 4 mm (Office du tourisme de Vienne, pour du veau), environ 5 mm (Betty Bossi ; Ben Tish, 0,5 cm), environ 7 mm (Great British Chefs). Retenu : environ 5 mm, valeur médiane (calcul python).",
+  "Farine pour 4 : 100 g (Cyril Lignac, 4 escalopes ; Office du tourisme de Vienne, 8 petites tranches pour 4 personnes ; Diana Henry, 4 hauts de cuisse pour 2 personnes), 80 g (Chef Simon pour 4 merlans ; Great British Chefs pour 6 schnitzels), 6 c. à s. (Migusto). Retenu : 100 g, valeur la plus fréquente et médiane ramenée à 4 personnes (80 g ramenée à 4 morceaux, calcul python) ; il en restera un peu.",
+  "Œufs pour 4 : 2 (Migusto, Journal des Femmes, Chef Simon ramené à 4 ; Diana Henry, 4 hauts de cuisse pour 2 personnes ; Great British Chefs, 6 schnitzels), 3 (Cyril Lignac), 4 pour 8 petites escalopes (Vienne). Retenu : 2, valeur majoritaire et médiane, ramenée à 4 morceaux comme à 4 personnes (calcul python). Chef Simon ajoute un peu d'huile et d'eau à l'œuf ; pas repris, une seule source.",
+  "Chapelure pour 4 : 100 g (Cyril Lignac, Migusto ; Diana Henry, 4 hauts de cuisse pour 2 personnes ; Great British Chefs, 6 schnitzels), 120 g (Journal des Femmes ; Chef Simon ramené à 4), 150 g de mie de pain (Chef Simon, merlan), 200 g pour 8 petites escalopes (Vienne). Retenu : 100 g, valeur majoritaire et médiane ramenée à 4 morceaux (120 g ramenée à 4 personnes, calcul python).",
+  "Matière grasse : beurre clarifié seul (Escoffier, Chef Simon, Cyril Lignac : 200 g pour 4), huile et beurre à rôtir (Migusto : 2 dl d'huile de tournesol et 4 c. à s.), beurre clarifié et huile (Vienne : 400 ml en tout), huile et beurre (Diana Henry : 2 c. à s. et 25 g), huile d'olive (Journal des Femmes). Retenu : 200 ml d'huile neutre, comme Migusto et proche de Cyril Lignac ; le beurre clarifié passe en variante.",
+  "Température de l'huile : 165 à 175 °C (Migusto, friture), 170 °C (Migusto, escalopes viennoises), 160 à 180 °C (Betty Bossi), 180 °C (Cyril Lignac). Retenu : environ 170 °C, valeur médiane.",
+  "Cuisson par face : 4 minutes à feu moyen (Diana Henry), 3 à 4 minutes (Great British Chefs), 3 minutes puis 10 minutes au four (Journal des Femmes), 5 à 10 minutes (recette de lectrice du Journal des Femmes, non retenue). Retenu : 4 minutes environ par face, puis vérification de la cuisson à cœur.",
+  "Presser ou non la chapelure : presser (Chef Simon, Migusto « Paner une escalope », Betty Bossi, Great British Chefs, Ben Tish) ; ne pas appuyer pour une escalope viennoise bien gonflée (Migusto, escalopes viennoises ; Betty Bossi). Retenu : presser légèrement.",
+  "Sel : sur la viande avant la panure (Office du tourisme de Vienne, Migusto, Cyril Lignac) ; le guide de la friture de Migusto le permet aussi, légèrement, pour les aliments panés comme les escalopes, et ne sale les autres fritures qu'après la cuisson. Retenu : saler la viande avant de la paner, comme les recettes d'escalopes.",
+  "Maintien au chaud : four à 80 °C (Migusto), à 60 °C porte entrouverte (Betty Bossi), « four doux » (Diana Henry), 170 °C quelques minutes pour finir la cuisson (Great British Chefs). Retenu : four doux, 60 à 80 °C.",
+  "Temps total : 20 minutes (Cyril Lignac, cité par le Journal des Femmes, pour 4), 30 minutes (Diana Henry, 4 hauts de cuisse pour 2 personnes ; Cuisine AZ, pour 4), 35 minutes (Great British Chefs, 6 schnitzels), 40 minutes (Migusto, pour 4, une escalope à la fois, environ 3 minutes chacune). Retenu : 30 minutes (médiane), soit environ 12 minutes pour aplatir et paner et 18 minutes pour deux fournées de 2 fois 4 minutes ; avec une petite poêle, une escalope à la fois, compte plutôt 45 minutes (12 minutes, plus 4 fournées de 8 minutes, calcul python).",
+  "Repos : Cuisine AZ laisse les escalopes panées 15 minutes à température ambiante, Cyril Lignac 30 minutes au réfrigérateur (version légère) ; Betty Bossi et Migusto demandent de paner juste avant de cuire. Retenu : pas de repos.",
+  "Feu d'huile : le BPA conseille d'étouffer avec un couvercle ou une couverture anti-feu ; le gouvernement britannique dit de couper le feu si c'est sans danger et de ne pas affronter le feu soi-même. Les deux conseils sont donnés, avec la priorité à la sécurité.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Température à cœur de 74 °C (165 °F) de la FDA : non vérifiée. Le site de la FDA a bloqué l'accès (page de détection d'abus) et ceux de l'USDA, de Santé Canada, de FoodSafety.gov et des CDC ont répondu 403 ; ils ne sont pas utilisés. La recette suit l'Anses (70 °C à cœur) et la FSA (75 °C pendant 30 secondes).",
+  "Sites non lus parce que leur robots.txt interdit les robots de Claude ou d'Anthropic : Elle à Table, Swissmilk, BBC Food (bbc.co.uk), Delia Online, Jamie Oliver, Chefkoch, Essen und Trinken. Madame Figaro a répondu 403, L'Atelier des Chefs a renvoyé une page de contrôle anti-robots (429), et la recherche de l'Académie du Goût a répondu 403 : non utilisés.",
+  "Marmiton, Giallo Zafferano, La Cucina Italiana, Serious Eats et The Guardian n'ont pas été consultés (refus d'accès signalés dans la consigne).",
+  "750g et Cuisine Actuelle n'ont pas été lus : aucun plan de site trouvé, et la recherche web n'était pas disponible.",
+  "Le Larousse gastronomique et les livres de chefs ne sont pas en ligne : seuls le dictionnaire Larousse et les recettes publiées en ligne ont été lus. Les recettes de Cyril Lignac sont rapportées par le Journal des Femmes, pas lues à la source.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide. Nom arabe : composé à partir de إسكالوب (titre de l'article « Escalope » sur Wikipédia en arabe) et de بانيه (nom égyptien فراخ بانيه, cité par Wikipédia en anglais) ; ce n'est pas un nom établi au Maroc trouvé dans une source.",
+  "Poids d'une escalope (100 à 150 g) : donné par Migusto seulement (guide des quantités et escalopes de veau) ; c'est une indication, la recette compte une escalope par personne.",
+  "Quantité d'huile pour une seule escalope (le quart de la recette) : non chiffrée par une source ; prends une petite poêle.",
+  "Disponibilité au Maroc de la chapelure fine, du panko et du beurre clarifié : non vérifiée par une source."
+ ],
+ "cuisine": "Française",
+ "rayon": "D'ailleurs",
+ "img_alt": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
+ "img": "img/escalopes-poulet-panees.jpg",
+ "photo": {
+  "author": "jeffreyw",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/7927684@N03/12915607034",
+  "modified": "non modifiée"
+ }
+});
+
 /* Recette : Harcha, galettes de semoule à la poêle. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -5124,6 +6120,509 @@ window.RECETTES.push({
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:%D8%B4%D9%88%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%B1_-_%D9%88%D8%AC%D8%A8%D8%A9_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9.jpg",
   "modified": "réduite"
+ }
+});
+
+/* Recette : Kefta à la poêle. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "kefta-poele",
+ "title": "Kefta à la poêle",
+ "darija": "Kefta",
+ "arabic": "كفتة",
+ "tagline": "De la viande hachée aux herbes, au cumin et au paprika, en petites galettes dorées à la poêle : la kefta marocaine, prête en 30 minutes, avec du khobz et une salade fraîche.",
+ "category": "Rapide",
+ "occasion": "Dîner rapide de semaine, pour les soirs de fatigue. Au Maroc, on mange aussi la kefta grillée chez le boucher, avec un thé à la menthe bien sucré (My Moroccan Food).",
+ "region": "Maroc. La kefta y est une institution : chaque famille sait où acheter et manger la meilleure, souvent dans les faubourgs et les petites villes, chez les bouchers qui la grillent et la servent sur place (My Moroccan Food). Aucune source lue ne donne de région d'origine précise.",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 15,
+  "cook": 15,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une poêle-gril en fonte, ou une grande poêle épaisse",
+  "Un grand saladier",
+  "Une râpe",
+  "Une planche et un couteau pour les herbes",
+  "Une assiette pour la kefta crue, et une autre, propre, pour la kefta cuite",
+  "Une spatule",
+  "Un thermomètre de cuisson, si tu en as un"
+ ],
+ "ingredients": [
+  {
+   "group": "La kefta",
+   "items": [
+    {
+     "id": "viande",
+     "q": 500,
+     "u": "g",
+     "name": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+     "note": "pas trop maigre : 15 à 20 % de gras",
+     "canon": "boeuf-hache"
+    },
+    {
+     "id": "oignon",
+     "q": 0.5,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "note": "à râper, puis à presser pour enlever le jus",
+     "canon": "oignon"
+    },
+    {
+     "id": "persil",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "menthe",
+     "q": 4,
+     "u": "",
+     "name": "grande feuille de menthe",
+     "pl": "grandes feuilles de menthe",
+     "note": "à hacher",
+     "canon": "menthe"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "piment",
+     "q": 1,
+     "u": "pincée",
+     "name": "de piment de Cayenne",
+     "note": "facultatif",
+     "canon": "piment-cayenne"
+    }
+   ]
+  },
+  {
+   "group": "Cuisson et service",
+   "items": [
+    {
+     "id": "huile",
+     "q": null,
+     "u": "",
+     "name": "huile",
+     "note": "un filet, pour la poêle",
+     "canon": "huile"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "khobz (pain marocain)",
+     "note": "pour servir",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Râpe l'oignon",
+   "text": "Épluche {{oignon:full}}, puis râpe l'oignon dans un bol. Prends la pulpe dans ta main et presse-la au-dessus de l'évier pour enlever le jus.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Lave et hache les herbes",
+   "text": "Lave le persil, la coriandre et la menthe, puis sèche-les bien. Hache-les finement : il te faut {{persil}} de persil, {{coriandre}} de coriandre et {{menthe:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Lave et hache les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Assaisonne la viande",
+   "text": "Mets {{viande}} de viande hachée dans un grand saladier. Ajoute l'oignon râpé, les herbes hachées, {{paprika}} de paprika, {{cumin}} de cumin, {{sel}} de sel, {{poivre}} de poivre et, si tu veux, {{piment}} de piment de Cayenne.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mélange à la main",
+   "text": "Mélange avec les mains jusqu'à ce que les herbes et les épices soient bien réparties dans la viande.",
+   "timer": null,
+   "tip": "Tu as 30 minutes de plus ? Couvre le saladier et mets-le au frigo : les herbes et les épices parfument mieux la viande (Cooking With Alia ; Choumicha)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Façonne les galettes",
+   "text": "Prends un peu de viande, roule-la en boulette, puis aplatis-la entre tes paumes en une petite galette fine, de moins de 1 cm d'épaisseur. Fais-les toutes de la même taille : fines, elles cuisent vite à la poêle. Tu peux aussi former des doigts, comme de petits boudins.",
+   "timer": null,
+   "tip": "Mouille-toi les mains pour façonner : la viande colle moins (Taste of Maroc, Christine Benlafquih et Nada Kiffa ; Alia Al Kasimi, dans sa recette publiée par Femmes du Maroc)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Lave-toi les mains",
+   "text": "Pose les galettes sur une assiette. Lave-toi les mains au savon : tu viens de toucher de la viande crue.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffe la poêle",
+   "text": "Mets la poêle sur feu moyen avec un filet d'{{huile}}. Attends qu'elle soit bien chaude avant d'y poser la viande.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais dorer les deux côtés",
+   "text": "Pose les galettes dans la poêle chaude. Laisse dorer un côté quelques minutes, puis retourne-les et fais dorer l'autre côté. Si tout ne tient pas dans la poêle, cuis en plusieurs fois.",
+   "timer": null,
+   "tip": "Pour des doigts de kefta sur une poêle-gril, Alia compte 3 à 4 minutes de chaque côté, à feu moyen. Des galettes plus épaisses demandent plus longtemps : elle compte 8 minutes par côté pour ses gros burgers de dinde (Cooking With Alia)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie la cuisson à cœur",
+   "text": "Coupe la plus grosse galette en deux. Il ne doit plus rester de rose au centre, et de la vapeur doit sortir du milieu. Avec un thermomètre, il faut au moins 70 °C au cœur. Pas encore cuit ? Remets quelques minutes et vérifie encore.",
+   "timer": null,
+   "tip": "La FSA précise : 70 °C au cœur pendant 2 minutes, ou 75 °C pendant 30 secondes. Ensuite, retire la kefta : trop cuite, elle devient sèche (Cooking With Alia)."
+  },
+  {
+   "phase": "Service",
+   "title": "Change d'assiette",
+   "text": "Mets la kefta cuite dans une assiette propre, jamais dans celle qui a porté la viande crue.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers tout de suite",
+   "text": "Sers bien chaud, avec du {{khobz}} et une salade fraîche.",
+   "timer": null,
+   "tip": "La salade de tomates et de concombre est la salade marocaine la plus courante à côté des grillades (My Moroccan Food). Choumicha sert sa kefta avec une salade de tomates, d'oignon et de poivron vert."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "La kefta marocaine est très parfumée : beaucoup d'herbes fraîches (persil, coriandre, menthe) avec le cumin et le paprika.",
+   "source": "My Moroccan Food (Nargisse Benkabbou) ; Cooking With Alia, n° 664 ; Choumicha, brochettes de boulettes d'agneau (n° 1120)"
+  },
+  {
+   "text": "Prends une viande pas trop maigre : 15 à 20 % de gras.",
+   "source": "My Moroccan Food ; Mama's Lebanese Kitchen, kafta libanaise (bœuf à 20 % de gras)"
+  },
+  {
+   "text": "Râpe l'oignon, puis presse-le pour enlever son jus avant de le mêler à la viande.",
+   "source": "Cooking With Alia, burger marocain n° 182 (oignon râpé et pressé) ; Mama's Lebanese Kitchen, kafta (oignon mixé puis égoutté) ; oignon râpé aussi chez My Moroccan Food, Cooking With Alia n° 664 et Choumicha n° 467"
+  },
+  {
+   "text": "Si tu as le temps, laisse reposer la kefta assaisonnée 30 minutes au frais, couverte : les herbes et les épices parfument la viande.",
+   "source": "Cooking With Alia, n° 664 et n° 453 ; Choumicha, brochettes de kefta et sa salade marocaine (n° 467)"
+  },
+  {
+   "text": "La même kefta se façonne en doigts, en galettes ou en boulettes.",
+   "source": "Cooking With Alia, n° 453 ; Lalla Moulati (boulettes ou pièces ovales) ; Mama's Lebanese Kitchen (galettes)"
+  },
+  {
+   "text": "Pose la viande dans une poêle déjà bien chaude, avec juste un peu de matière grasse.",
+   "source": "Cooking With Alia, n° 157 et n° 182 ; Lalla Moulati (poêle chaude avec un peu d'huile, cuisson des deux côtés)"
+  },
+  {
+   "text": "Sur une poêle-gril, Alia compte 3 à 4 minutes de chaque côté pour des doigts de kefta, à feu moyen.",
+   "source": "Cooking With Alia, n° 664"
+  },
+  {
+   "text": "Ne la cuis pas plus que nécessaire : trop cuite, la kefta devient sèche.",
+   "source": "Cooking With Alia, n° 453 et n° 157 ; Femmes du Maroc (recette d'Alia Al Kasimi)"
+  },
+  {
+   "text": "Un thermomètre de cuisson propre permet de vérifier la cuisson : 70 °C au cœur. Lave bien la sonde après chaque usage.",
+   "source": "FSA (Royaume-Uni), « Cooking your food » (70 °C pendant 2 minutes, sonde à laver) ; Anses, article sur les E. coli (2022)"
+  },
+  {
+   "text": "Les recettes de kefta de Choumicha, de Cooking With Alia et de My Moroccan Food n'ont ni œuf ni chapelure.",
+   "source": "Choumicha n° 467, 771, 943 et 1120 ; Cooking With Alia n° 664 et 453 ; My Moroccan Food"
+  },
+  {
+   "text": "Au Maroc, beaucoup de bouchers grillent la kefta sur place et la servent avec un thé à la menthe très sucré.",
+   "source": "My Moroccan Food ; Choumicha (n° 943 : avec du pain et du thé à la menthe)"
+  }
+ ],
+ "mistakes": [
+  "Servir la kefta encore rosée au centre : la viande hachée doit être cuite à cœur (70 °C), surtout pour les jeunes enfants, les femmes enceintes, les personnes âgées et les personnes immunodéprimées (Anses ; FSA, pour qui la viande hachée doit être cuite jusqu'au centre et les burgers ne doivent jamais être servis rosés à la maison).",
+  "Remettre la kefta cuite dans l'assiette de la viande crue, ou hacher les herbes sur la planche de la viande (Anses).",
+  "Oublier de se laver les mains au savon après avoir touché la viande crue (Anses).",
+  "Prendre une viande trop maigre : My Moroccan Food demande 15 à 20 % de gras.",
+  "Garder tout le jus de l'oignon râpé (Cooking With Alia ; Mama's Lebanese Kitchen).",
+  "Poser la viande dans une poêle encore froide (Cooking With Alia ; Lalla Moulati).",
+  "Trop cuire la kefta : elle sèche (Cooking With Alia).",
+  "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+  "Ranger la viande hachée crue en haut du frigo : mets-la en bas, dans son emballage ou une boîte fermée, pour qu'elle ne coule pas sur le reste (FSA)."
+ ],
+ "serving": "Sers la kefta bien chaude, dès la sortie de la poêle (Cooking With Alia ; Choumicha). Au Maroc, on la mange avec du pain (Choumicha ; Cooking With Alia), du thé à la menthe (Choumicha ; Cooking With Alia ; My Moroccan Food) et une salade fraîche : tomates et concombre coupés tout petits (Cooking With Alia ; My Moroccan Food, pour qui c'est la salade la plus courante à côté des grillades), ou tomates, oignon et poivron vert (Choumicha). Lalla Moulati en fait aussi des sandwichs avec de la laitue. Restes : au frigo dans les 2 heures, et à manger dans les 2 jours ; réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+ "variants": [
+  "Kefta d'agneau (Cooking With Alia n° 453 ; Choumicha n° 1120 ; Bladi.net) ou de veau (Choumicha n° 467 ; Nada Kiffa, Taste of Maroc, qui admet bœuf, veau ou agneau, seuls ou mêlés).",
+  "Avec du gingembre et de la coriandre moulue : Cooking With Alia met ½ c. à c. de gingembre et 1 c. à c. de coriandre en poudre pour 500 g de viande ; Choumicha en met aussi (n° 943).",
+  "Avec 3 c. à s. d'huile d'olive mélangées à la viande (Cooking With Alia, n° 664 et n° 453).",
+  "Avec une pointe de cannelle et de la marjolaine (Choumicha, n° 771 et n° 943 ; cannelle aussi chez Taste of Maroc, en option, et chez Lalla Moulati en 2014 ; marjolaine séchée aussi chez Nada Kiffa, Taste of Maroc).",
+  "Avec de l'ail (Choumicha n° 943 ; Bladi.net).",
+  "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+  "Version de Lalla Moulati : fenouil (besbes) moulu, coriandre sèche, cumin, persil, piment fort (soudania) et petits morceaux de beurre.",
+  "En brochettes grillées sur la braise, la façon la plus classique (Choumicha ; Cooking With Alia ; My Moroccan Food).",
+  "Avec une sauce au yaourt, au persil, à la menthe et au citron (Cooking With Alia n° 453 ; Femmes du Maroc).",
+  "En sandwich, avec de la laitue (Lalla Moulati).",
+  "Version libanaise (kafta) : bœuf, oignon, persil et sept-épices ; Hadia la sert avec du taboulé et du houmous (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine)."
+ ],
+ "sources": [
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Kefta - Moroccan minced meat », 26 mars 2015",
+   "url": "https://www.mymoroccanfood.com/home/kefta-moroccan-minced-meat-55678",
+   "used_for": "Recette de base pour 4 : 450 g de bœuf et/ou agneau à 15–20 % de gras, oignon râpé, 2 c. à s. de persil et 2 de coriandre, menthe, paprika, cumin, sel, poivre, pincée de Cayenne ; mélange à la main ; kefta très parfumée ; bouchers qui la grillent avec du thé à la menthe."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Moroccan Tomato and Cucumber Salad », 11 juin 2015",
+   "url": "https://www.mymoroccanfood.com/home/moroccan-tomato-and-cucumber-salad",
+   "used_for": "Salade tomate-concombre, la plus courante au Maroc, servie à côté des tajines et des grillades."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Beef Kebab + Grilled tomato and green pepper salad », 4 août 2015",
+   "url": "https://www.mymoroccanfood.com/home/2015/8/4/beef-kebab-grilled-tomato-and-green-pepper-salad-chlada-mechouia",
+   "used_for": "Poêle-gril à la place du barbecue pour les grillades marocaines."
+  },
+  {
+   "name": "My Moroccan Food, page « About »",
+   "url": "https://www.mymoroccanfood.com/about",
+   "used_for": "Vérification : Nargisse Benkabbou, famille marocaine, ancienne cheffe exécutive à Marrakech, autrice de « Casablanca »."
+  },
+  {
+   "name": "Cooking With Alia (Alia Al Kasimi), « Grilled Kefta / كفتة مشوية » (n° 664)",
+   "url": "https://www.cookingwithalia.com/664-grilled-kefta/",
+   "used_for": "500 g de bœuf, 2 c. à s. de persil et 2 de coriandre, menthe, ½ oignon râpé, paprika, cumin ; repos de 30 minutes au frais pour parfumer ; doigts de kefta ; poêle-gril à feu moyen, 3 à 4 minutes de chaque côté ; nom arabe."
+  },
+  {
+   "name": "Cooking With Alia, « Lamb kofta - Ground meat skewers / كفتة لحم الضأن » (n° 453)",
+   "url": "https://www.cookingwithalia.com/453-lamb-kefta/",
+   "used_for": "Kefta d'agneau, ½ oignon râpé, 4 grandes feuilles de menthe, paprika, cumin ; mélange à la main ; 30 minutes au frais ; galettes ou boulettes possibles ; ne pas trop cuire ; servir aussitôt avec pain, thé à la menthe et salade tomate-concombre ; sauce au yaourt."
+  },
+  {
+   "name": "Cooking With Alia, « Ground Lamb Meat Skewers Recipe » (n° 157)",
+   "url": "https://www.cookingwithalia.com/ground-lamb-meat-skewers/",
+   "used_for": "Plaque à griller sur le feu, un peu de beurre, plaque bien chaude avant d'y poser la viande ; ne pas trop cuire ; servir avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « Moroccan Style Burger Recipe » (n° 182)",
+   "url": "https://www.cookingwithalia.com/moroccan-style-burger-july-4th-special/",
+   "used_for": "Oignon râpé puis pressé ; boules légèrement aplaties ; plaque chaude à feu moyen ; environ 8 minutes par côté pour de gros burgers ; centre qui ne doit plus être rose."
+  },
+  {
+   "name": "Cooking With Alia, « Moroccan Tomato Cucumber Salad Recipe » (n° 208)",
+   "url": "https://www.cookingwithalia.com/moroccan-tomato-cucumber-salad/",
+   "used_for": "Salade tomate-concombre-oignon coupée très petit, servie avec du pain marocain."
+  },
+  {
+   "name": "Cooking With Alia, « Tomato Cucumber Salad / سلطة الطماطم والخيار » (n° 543)",
+   "url": "https://www.cookingwithalia.com/543-tomato-cucumber-salad/",
+   "used_for": "Même salade tomate-concombre-oignon, servie froide."
+  },
+  {
+   "name": "Cooking With Alia, page « About »",
+   "url": "https://www.cookingwithalia.com/about/",
+   "used_for": "Vérification : Alia partage la cuisine marocaine avec laquelle elle a grandi."
+  },
+  {
+   "name": "Femmes du Maroc, « Spécial Aïd el kébir : les kefta à la sauce au yaourt d'Alia Al Kasimi », 8 septembre 2016",
+   "url": "https://femmesdumaroc.com/archives/special-aid-el-kebir-les-kefta-a-la-sauce-au-yaourt-dali-al-kasimi",
+   "used_for": "Recette d'Alia republiée par un magazine marocain (non comptée comme source indépendante) : mains mouillées pour façonner, forme de saucisse ou de hamburger, ne pas trop cuire."
+  },
+  {
+   "name": "Choumicha (Choumicha Chafay), « Brochettes de Kefta et sa salade marocaine » (n° 467), copie Wayback Machine du 10 avril 2026",
+   "url": "https://web.archive.org/web/20260410191558/https://www.choumicha.ma/recette/467-brochettes-de-kefta-et-sa-salade-marocaine.html",
+   "used_for": "500 g de viande hachée pour 4, oignon râpé, sel ; 30 minutes de repos au frais ; cuisson 15 minutes, total 30 minutes ; service avec une salade de tomates, d'oignon et de poivron vert."
+  },
+  {
+   "name": "Choumicha, « Brochettes de kefta, salades de légumes et velouté de petits pois » (n° 771), copie Wayback Machine du 17 juin 2026",
+   "url": "https://web.archive.org/web/20260617064508/https://choumicha.ma/recette/771-brochettes-de-kefta-salades-de-legumes-et-veloute-de-petits-pois.html",
+   "used_for": "600 g de viande pour 4, oignon nouveau, marjolaine, persil, cumin, piment doux, cannelle ; boudins sur brochettes grillés sur le charbon."
+  },
+  {
+   "name": "Choumicha, « Brochettes de viande hachée » (n° 943), copie Wayback Machine du 8 mars 2026",
+   "url": "https://web.archive.org/web/20260308000653/https://choumicha.ma/recette/943-brochettes-de-viande-hachee.html",
+   "used_for": "1 kg pour 6 : menthe, marjolaine, persil, ail, oignon, carvi, coriandre sèche, cannelle, cumin, piment doux, gingembre, poivre, curcuma, sel ; herbes et épices mixées en pâte ; 2 heures au frais ; servir bien chaud avec du pain et du thé à la menthe."
+  },
+  {
+   "name": "Choumicha, « Brochettes de boulettes d'agneau » (n° 1120), copie Wayback Machine du 13 mai 2026",
+   "url": "https://web.archive.org/web/20260513095238/https://choumicha.ma/recette/1120-brochettes-de-boulettes-dagneau.html",
+   "used_for": "700 g d'agneau pour 4, oignon, coriandre, 4 feuilles de menthe, sept-épices, sel, piment doux ; boulettes moyennes grillées sur le charbon."
+  },
+  {
+   "name": "Choumicha, catégorie « Grillades », copie Wayback Machine du 17 juin 2026",
+   "url": "https://web.archive.org/web/20260617070023/https://choumicha.ma/c/grillades.html",
+   "used_for": "Liste des recettes de kefta grillée de Choumicha ; aucune kefta à la poêle trouvée."
+  },
+  {
+   "name": "Bladi.net, recette « Kefta ou viande haché » (rubrique Les viandes)",
+   "url": "https://www.bladi.net/recettes/kefta-ou-viande-hache.html",
+   "used_for": "700 g d'agneau, oignon, ail, œuf, menthe, coriandre, cumin, ras-el-hanout, piment ; brochettes sous le gril du four, 6 minutes de chaque côté (variante)."
+  },
+  {
+   "name": "Lalla Moulati, « الكفتة مشوية لذيذة جذاً », 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/2918.html",
+   "used_for": "Boulettes ou pièces ovales cuites dans l'huile chaude ; service avec du pain, en sandwich avec de la laitue ; 1 heure au frais (assaisonnement de style levantin, non retenu pour les proportions)."
+  },
+  {
+   "name": "Lalla Moulati, « بلا مجمر و بلا فران ... الكفتة مشوية », 26 juin 2018",
+   "url": "https://www.lalamoulati.net/141664.html",
+   "used_for": "Assaisonnement marocain sans quantités : fenouil moulu, coriandre sèche, cumin, persil, soudania, sel, beurre (variante)."
+  },
+  {
+   "name": "Lalla Moulati, « تحضير الهمبرغر في البيت بطريقة سهلة صحي و لذيذ », 9 juin 2017",
+   "url": "https://www.lalamoulati.net/72574.html",
+   "used_for": "Kefta façonnée en disques et cuite dans une poêle avec un peu d'huile."
+  },
+  {
+   "name": "Lalla Moulati, « الهامبرغر », 28 octobre 2018",
+   "url": "https://www.lalamoulati.net/166053.html",
+   "used_for": "Galettes de kefta cuites des deux côtés dans une poêle chaude avec un peu d'huile."
+  },
+  {
+   "name": "Mama's Lebanese Kitchen, « Grilled Kafta Kabob Recipe - Kafta Mishwiyyeh », 28 août 2011",
+   "url": "https://mamaslebanesekitchen.com/meats/grilled-kafta-kabob-recipe-kafta-mishwiyyeh/",
+   "used_for": "Source libanaise (non marocaine) : bœuf à 20 % de gras, jus de l'oignon égoutté, galettes de 1/4 lb, kafta frite, au four ou grillée, feu moyen 10 à 15 minutes en retournant toutes les 2 à 3 minutes."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine (Hadia Zebib), « Authentic Lebanese Grilled Kafta Kebabs Recipe »",
+   "url": "https://hadiaslebanesecuisine.com/blog/grilled-kafta-kebabs/",
+   "used_for": "Source libanaise : kafta servie avec taboulé, houmous et pain (variante)."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki), « Moroccan Lamb Kebabs with Charmoula Seasoning »",
+   "url": "https://marocmama.com/moroccan-lamb-kebabs/",
+   "used_for": "Source non marocaine vivant au Maroc : poêle-gril quand on n'a pas de barbecue ; au Maroc, on ne mange presque jamais l'agneau pas cuit à cœur."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Mains lavées, planches et assiettes séparées pour le cru et le cuit, pas plus de 2 heures à température ambiante, frigo à 4 °C, viande hachée bien cuite à cœur pour les jeunes enfants, les femmes enceintes et les personnes immunodéprimées."
+  },
+  {
+   "name": "Anses, « Aliments contaminés par la bactérie E. coli : quels effets sur la santé, comment prévenir les infections ? », 11 juillet 2022",
+   "url": "https://www.anses.fr/fr/actualite/aliments-contamines-bacterie-e-coli-quels-effets-sante-comment-prevenir-infections",
+   "used_for": "Viande hachée de bœuf insuffisamment cuite en cause dans des épidémies ; cuire à cœur (70 °C) la viande hachée pour les jeunes enfants et les personnes âgées ; se laver les mains après avoir touché des aliments crus ; laver les herbes aromatiques."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « Cooking your food », GOV.UK, 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "70 °C pendant 2 minutes au cœur ; viande hachée, burgers et kebabs cuits jusqu'au centre, sans rose, vapeur au centre ; thermomètre conseillé ; restes au frigo dans les 2 heures, mangés dans les 48 heures, réchauffés une seule fois jusqu'à être brûlants."
+  },
+  {
+   "name": "Food Standards Agency, « How to chill, freeze and defrost food safely », GOV.UK, 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Frigo entre 0 et 5 °C ; viande crue en bas du frigo, emballée ou en boîte fermée ; restes mangés dans les 2 jours."
+  },
+  {
+   "name": "Taste of Maroc (Christine Benlafquih), « Moroccan Kefta Recipe - Ground Beef or Lamb Kebabs », 8 août 2017, mis à jour le 11 décembre 2019",
+   "url": "https://tasteofmaroc.com/moroccan-kefta-recipe/",
+   "used_for": "Contre-vérification : Lue le 7 novembre 2026 : la page a répondu normalement (code 200) et le robots.txt du site n'interdit rien (l'auteur avait reçu un refus 403 le même jour). « Kefta » est le mot de l'arabe marocain pour la viande hachée ; chez la plupart des bouchers marocains, la viande est hachée à la demande avec les herbes, les épices et de la graisse, et parfois grillée tout à côté pour être mangée sur place. Pour 4 : 1 lb (454 g) de bœuf, d'agneau ou des deux, plus 4 à 5 oz (113 à 142 g) de graisse de rognon, 1 oignon moyen haché ou râpé, ¼ de tasse de persil et ¼ de tasse de coriandre, menthe facultative, 2 c. à c. de paprika doux, 1 de cumin, 1 de sel, ¼ de poivre noir, Cayenne facultatif ; ni œuf ni chapelure. Le même mélange se façonne en galettes pour la poêle : petites et fines, elles cuisent vite (aucune durée chiffrée). Mains trempées dans un peu d'eau pour que la viande ne colle pas. Au gril, plusieurs minutes de chaque côté, jusqu'à ce qu'elle soit cuite à cœur mais encore juteuse ; au Maroc, on la préfère peu ou pas rosée, sans la dessécher. Servie dans du pain marocain avec une salade de tomates et d'oignon. Préparation 20 min, cuisson 10 min."
+  },
+  {
+   "name": "Taste of Maroc (Nada Kiffa), « Moroccan Kefta dyal Gharb Recipe - Kefta dyal L'ham », 23 août 2017",
+   "url": "https://tasteofmaroc.com/kefta-dyal-gharb-recipe/",
+   "used_for": "Contre-vérification : Recette de famille de Nada Kiffa, née à Casablanca dans une famille de Fès (encadré de l'autrice) : la kefta du Gharb (Khemisset, Boufekrane), au nord-ouest du Maroc ; lue le 7 novembre 2026 : mains mouillées pour façonner, car elles deviennent collantes ; pour le gril, mini-burgers d'environ 2 pouces (5,1 cm) de large et pas plus de 1/3 de pouce (0,85 cm) d'épaisseur, ou doigts d'environ 10 cm sur 1,3 cm ; au moins 25 % de gras ; bœuf, veau ou agneau, seuls ou mêlés ; marjolaine séchée, cumin, paprika, piment de Cayenne ; quelques minutes de chaque côté au gril, bien cuite mais juteuse ; toujours servie avec du pain, un thé marocain chaud et des salades, dont une salade de tomates et de concombre hachés fin ; chez les bouchers-grilleurs, on choisit la viande crue et on la fait griller sur place, avec thé et salade. Pour 6 : 1,65 lb (748 g) de viande et 8,8 oz (250 g) de graisse de rognon (conversions python3 -I)."
+  },
+  {
+   "name": "Taste of Maroc, page « About »",
+   "url": "https://tasteofmaroc.com/about/",
+   "used_for": "Contre-vérification : Christine Benlafquih, qui a fondé le site, a élevé ses six enfants au Maroc, à Casablanca, et a été l'experte de la cuisine marocaine d'About.com de 2008 à 2016 ; Nada Kiffa écrit aussi pour le site."
+  },
+  {
+   "name": "Wikipédia (arabe), « كفتة »",
+   "url": "https://ar.wikipedia.org/wiki/%D9%83%D9%81%D8%AA%D8%A9",
+   "used_for": "Contre-vérification : Nom arabe « كفتة » (titre de l'article), comme chez Cooking With Alia (« كفتة مشوية ») et Lalla Moulati (« الكفتة »)."
+  }
+ ],
+ "discrepancies": [
+  "Viande : 450 g pour 4 (My Moroccan Food), 500 g pour 4 (Choumicha n° 467), 500 g sans nombre de parts (Cooking With Alia n° 664 et 453), 600 g pour 4 (Choumicha n° 771), 700 g pour 4 (Choumicha n° 1120), 700 g (Bladi.net), 1 kg pour 6 (Choumicha n° 943), 1 kg (Lalla Moulati). Retenu : 500 g, la valeur la plus fréquente (médiane : 600 g sur ces neuf recettes, 550 g sans celle de Lalla Moulati ; 550 g sur les quatre recettes « pour 4 », 600 g en y ajoutant celle de 1 kg pour 6 ramenée à 4 personnes ; calculs refaits avec python3 -I).",
+  "Oignon, ramené à 500 g de viande : 1,1 oignon moyen (My Moroccan Food), ½ (Cooking With Alia, deux recettes ; Lalla Moulati), 0,7 (Choumicha n° 1120 ; Bladi.net), 0,25 (Choumicha n° 943), 2 c. à s. d'oignon râpé (Choumicha n° 467). Retenu : ½ oignon moyen (médiane et valeur majoritaire). Râpé chez My Moroccan Food, Cooking With Alia et Choumicha n° 467, émincé ou haché ailleurs : retenu râpé.",
+  "Paprika, ramené à 500 g : 2,2 c. à c. (My Moroccan Food), 1 (Cooking With Alia ; Choumicha n° 943), 0,8 (Choumicha n° 771), 0,7 (Choumicha n° 1120). Retenu : 1 c. à c. (médiane).",
+  "Cumin, ramené à 500 g : 1,1 c. à c. (My Moroccan Food), 1 (Cooking With Alia), 0,8 (Choumicha n° 771), 0,7 (Bladi.net), 0,5 (Choumicha n° 943). Médiane 0,8 (0,9 si l'on compte à part les deux recettes d'Alia) ; retenu 1 c. à c., la dose des deux recettes dont le poids de viande est le plus proche (450 et 500 g).",
+  "Sel, ramené à 500 g : 1,1 c. à c. (My Moroccan Food), 1 (Femmes du Maroc, recette d'Alia ; Choumicha n° 943), 1,7 (Choumicha n° 771), 0,7 (Choumicha n° 1120), ¼ « selon le goût » (Cooking With Alia n° 664). Retenu : 1 c. à c. (médiane).",
+  "Poivre, ramené à 500 g : 0,56 c. à c. (My Moroccan Food), 0,5 (Choumicha n° 943), ¼ (Cooking With Alia, deux recettes du même auteur). Retenu : ½ c. à c., médiane des trois auteurs indépendants.",
+  "Herbes : 2 c. à s. de persil et 2 de coriandre (My Moroccan Food ; Cooking With Alia n° 664), 3 et 3 (Femmes du Maroc, recette d'Alia), 1 tasse des deux mêlés (Cooking With Alia n° 453), persil et marjolaine (Choumicha n° 771), coriandre seule (Choumicha n° 1120 ; Bladi.net). Retenu : 2 c. à s. de chaque.",
+  "Menthe, ramenée à 500 g : 15 feuilles (Cooking With Alia n° 664), 4 grandes feuilles (Cooking With Alia n° 453), 3 (Choumicha n° 943 et n° 1120), 6 (Bladi.net), les feuilles de 4 brins (My Moroccan Food). Retenu : 4 grandes feuilles (médiane).",
+  "Piment : une pincée de Cayenne (My Moroccan Food), une pincée de piment pilé (Bladi.net), mélange d'épices fort (Choumicha n° 467), soudania (Lalla Moulati), aucun (Cooking With Alia). Retenu : une pincée, facultative.",
+  "Cuisson : sur la braise (Choumicha, toutes ses recettes ; Cooking With Alia n° 453), poêle-gril ou plaque sur le feu (Cooking With Alia n° 664, 157 et 182 ; My Moroccan Food et MarocMama comme solution sans barbecue), poêle avec un peu d'huile (Lalla Moulati), four (Bladi.net). Retenu : la poêle, comme demandé.",
+  "Durée : 3 à 4 minutes par côté pour des doigts sur une poêle-gril (Cooking With Alia n° 664), 8 minutes par côté pour de gros burgers (Cooking With Alia n° 182), 10 à 15 minutes en retournant toutes les 2 à 3 minutes (Mama's Lebanese Kitchen, grill), 10 minutes (Hadia, grill), 6 minutes par côté (Bladi.net, four). Taste of Maroc ne chiffre pas non plus (plusieurs ou quelques minutes par côté au gril ; des galettes petites et fines qui cuisent vite à la poêle). Aucune durée à la poêle n'est confirmée par deux sources indépendantes : pas de minuteur ; la cuisson se juge au cœur (70 °C, plus de rose, vapeur), selon l'Anses et la FSA.",
+  "« Ne pas trop cuire » (Cooking With Alia) et sécurité (Anses ; FSA) : la kefta doit être cuite à cœur, puis retirée dès qu'elle l'est.",
+  "Repos au frais : 30 minutes (Cooking With Alia n° 664 et 453 ; Choumicha n° 467), 1 heure (Lalla Moulati), 2 heures (Choumicha n° 943), aucun (My Moroccan Food ; Bladi.net). Retenu : facultatif, pour garder la recette en 30 minutes.",
+  "Temps : cuisson 15 minutes et total 30 minutes (Choumicha n° 467), 15 + 10 minutes (Hadia), 20 + 15 minutes (Mama's Lebanese Kitchen), 30 minutes (Cooking With Alia n° 664). Retenu : 15 minutes de préparation et 15 de cuisson, soit 30 minutes sans le repos facultatif.",
+  "Œuf : seul Bladi.net en met un ; aucune des recettes de Choumicha, Cooking With Alia ou My Moroccan Food. Retenu : sans œuf.",
+  "Lalla Moulati (2014) donne une kefta d'agneau à la menthe et à la cannelle (2 cuillères pour 1 kg), et ses articles d'assaisonnement de 2023 mettent cardamome, muscade, clou de girofle ou thym : style levantin, pas retenu pour les proportions.",
+  "Femmes du Maroc republie la recette d'Alia Al Kasimi : elle n'est pas comptée comme une source indépendante de Cooking With Alia.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 15 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Taste of Maroc (tasteofmaroc.com) : la page « Moroccan Kefta Recipe » répond 403 (pare-feu « Blocked because of Malicious Activities ») le 7 novembre 2026 ; l'auteur n'a utilisé ni la page ni ses copies d'archive. Le même jour, à la contre-vérification, la page a répondu normalement (code 200, robots.txt sans interdiction) : elle et la recette de Nada Kiffa, sur le même site, ont alors été lues et servent de sources ajoutées ; la graisse de rognon qu'elles ajoutent à la viande n'est pas reprise.",
+  "2m.ma (émission de Choumicha) : robots.txt et pages en 403 (défi Cloudflare) ; non utilisé.",
+  "FDA et USDA (repère de 71 °C, soit 160 °F) : fda.gov redirige vers une page « abuse detection », foodsafety.gov et fsis.usda.gov répondent 403 ; non consultés. Le repère de 70 °C vient de l'Anses et de la FSA.",
+  "Choumicha : aucune kefta à la poêle trouvée dans les copies d'archive de ses catégories (Grillades 1 à 5, Viandes pages 1 à 23, Sandwichs, Plats 1 à 5, première page de Ramadan) ; toutes ses kefta sont grillées sur le charbon. Ses recettes servent pour l'assaisonnement, le repos et le service.",
+  "Durée de cuisson à la poêle : seule Cooking With Alia la donne (3 à 4 minutes par côté pour des doigts) ; donc pas de minuteur.",
+  "Mains mouillées pour façonner : l'auteur ne l'avait vu que dans la recette d'Alia (Femmes du Maroc) ; la contre-vérification l'a trouvé aussi chez Taste of Maroc (Christine Benlafquih ; Nada Kiffa).",
+  "Taille et épaisseur des galettes : pour le gril, Nada Kiffa (Taste of Maroc) fait des mini-burgers d'environ 5 cm de large et de 0,85 cm d'épaisseur au plus, mais aucune source marocaine n'en donne le poids ni la durée de cuisson à la poêle (Mama's Lebanese Kitchen, libanaise, fait des galettes de 1/4 lb, environ 113 g).",
+  "Hespress (recherche affichée en JavaScript) et Le360 (robots.txt interdit /recherche) : aucune recette de kefta trouvée ; Femmes du Maroc ne contient que la recette d'Alia.",
+  "Durée de conservation de la viande hachée crue au frigo : pas de chiffre officiel lu (la FSA renvoie à la date limite de consommation de l'emballage).",
+  "Les articles de Lalla Moulati sur la conservation de la kefta au frigo (n° 377901 et 381709) ne sont pas des sources officielles : non utilisés.",
+  "Nom en darija propre à la version à la poêle : non trouvé ; seul « kefta » (كفتة) est confirmé (Cooking With Alia ; Lalla Moulati).",
+  "Retiré faute d'avoir pu relire Choumicha à la contre-vérification : sa façon de mixer d'abord herbes, ail, oignon et épices en pâte avant de les travailler avec la viande (brochettes de viande hachée, n° 943)."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "pairs": [
+  "khobz",
+  "salade-marocaine",
+  "the-menthe"
+ ],
+ "img_alt": "Boulettes de kefta cuites, sur une assiette, avec un pain rond et des coupelles de sauce et d'épices",
+ "img": "img/kefta-poele.jpg",
+ "photo": {
+  "author": "Ronald Woan",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "page": "https://www.flickr.com/photos/8502118@N08/17093738609",
+  "modified": "non modifiée"
  }
 });
 
@@ -9982,6 +11481,491 @@ window.RECETTES.push({
  }
 });
 
+/* Recette : Émincé de poulet à la crème et aux champignons. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "poulet-creme-champignons",
+ "title": "Émincé de poulet à la crème et aux champignons",
+ "darija": "",
+ "arabic": "دجاج بالقشدة والفطر",
+ "tagline": "Des lanières de poulet saisies, des champignons bien dorés et une sauce crémeuse sans vin : un plat du soir doux et réconfortant, avec du riz ou des pâtes.",
+ "category": "Rapide",
+ "occasion": "Dîner rapide en semaine. Une sauce crémeuse qui « réunit toujours toute la famille autour de la table », selon Migusto.",
+ "region": "France et Suisse. Poulet sauté à la crème de la cuisine française classique (Escoffier, Chef Simon) et émincé de poulet à la crème des cuisines suisses (Migusto, Betty Bossi), cousin de l'émincé de veau à la zurichoise (Wikipédia).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 10,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une grande poêle ou une sauteuse (en fonte ou en inox si tu en as une : elle donne plus de sucs)",
+  "Une grande casserole et une passoire, pour le riz ou les pâtes",
+  "Une planche à découper et un couteau bien aiguisé",
+  "Une assiette propre, pour le poulet saisi",
+  "Une cuillère en bois ou une spatule",
+  "Du papier absorbant ou une petite brosse, pour les champignons",
+  "Un thermomètre de cuisson (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Poulet",
+   "items": [
+    {
+     "id": "poulet",
+     "q": 600,
+     "u": "g",
+     "name": "de blancs de poulet halal",
+     "note": "ou d'émincé de poulet tout prêt",
+     "canon": "blanc-poulet"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile neutre",
+     "note": "tournesol, colza ou arachide",
+     "canon": "huile"
+    }
+   ]
+  },
+  {
+   "group": "Sauce aux champignons",
+   "items": [
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon",
+     "pl": "oignons",
+     "canon": "oignon"
+    },
+    {
+     "id": "champignons",
+     "q": 250,
+     "u": "g",
+     "name": "de champignons de Paris",
+     "note": "blancs de préférence",
+     "canon": "champignons"
+    },
+    {
+     "id": "beurre",
+     "q": null,
+     "u": "",
+     "name": "beurre",
+     "note": "un petit morceau ; sinon une cuillerée d'huile",
+     "canon": "beurre"
+    },
+    {
+     "id": "bouillon",
+     "q": 200,
+     "u": "ml",
+     "name": "de bouillon de volaille halal",
+     "note": "cube halal dissous dans l'eau chaude, ou bouillon maison ; à défaut, de l'eau (la sauce aura moins de goût)",
+     "canon": "bouillon-volaille"
+    },
+    {
+     "id": "creme",
+     "q": 200,
+     "u": "ml",
+     "name": "de crème fraîche épaisse",
+     "note": "au moins 30 % de matière grasse, ou crème liquide entière ; pas de crème allégée",
+     "canon": "creme-fraiche"
+    },
+    {
+     "id": "persil",
+     "q": null,
+     "u": "",
+     "name": "persil plat",
+     "note": "quelques brins, facultatif",
+     "canon": "persil"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir (au choix)",
+   "items": [
+    {
+     "id": "riz",
+     "q": 280,
+     "u": "g",
+     "name": "de riz",
+     "note": "au choix : le riz OU les pâtes",
+     "canon": "riz"
+    },
+    {
+     "id": "pates",
+     "q": 240,
+     "u": "g",
+     "name": "de pâtes (tagliatelles ou spaghettis)",
+     "note": "au choix : les pâtes OU le riz",
+     "canon": "spaghetti"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "une grande casserole, salée",
+     "canon": "eau"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mets l'eau à chauffer",
+   "text": "Remplis une grande casserole d'{{eau}}, sale-la et porte-la à ébullition, pour le riz ou les pâtes.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon",
+   "text": "Pèle et hache finement {{oignon:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Hache l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Nettoie les champignons",
+   "text": "Prends {{champignons:full}} : coupe le bout terreux de leur pied, puis essuie-les avec un papier absorbant humide ou une petite brosse. Ne les fais jamais tremper : s'ils sont très sales, passe-les très vite sous l'eau et sèche-les aussitôt.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince les champignons",
+   "text": "Coupe les champignons en fines lamelles.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince le poulet",
+   "text": "Coupe {{poulet}} de blancs de poulet en lanières d'environ 1 cm de large. Sale-les et poivre-les. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+   "timer": null,
+   "tip": "Une seule planche ? Coupe toujours les légumes d'abord et le poulet cru en dernier (FSA, agence sanitaire britannique)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Lance le riz ou les pâtes",
+   "text": "Quand l'eau bout, verse {{riz}} de riz ou {{pates}} de pâtes. Fais cuire le temps indiqué sur le paquet, puis égoutte.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Saisis une moitié du poulet",
+   "text": "Dans la grande poêle, chauffe à feu vif la moitié de l'huile ({{huile}} en tout), bien chaude mais sans fumer. Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ : laisse-le d'abord sans y toucher, puis retourne-le pour dorer tous les côtés.",
+   "timer": {
+    "min": 2,
+    "label": "Première moitié",
+    "done": "Sors le poulet sur une assiette propre."
+   },
+   "tip": "Si tu remues trop tôt ou sans arrêt, la poêle refroidit et le poulet cuit à la vapeur au lieu de dorer (Betty Bossi)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Saisis l'autre moitié",
+   "text": "Sors le poulet sur une assiette propre, pas celle du poulet cru. Verse le reste de l'huile et saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
+   "timer": {
+    "min": 2,
+    "label": "Deuxième moitié",
+    "done": "Sors le poulet et baisse le feu."
+   },
+   "tip": "Le poulet finira de cuire dans la sauce : à la fin, il doit être bien cuit (Migusto)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre l'oignon",
+   "text": "Baisse à feu moyen. Mets le {{beurre}} dans la poêle, puis l'oignon. Fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais dorer les champignons",
+   "text": "Ajoute les champignons. Laisse-les cuire en remuant de temps en temps, jusqu'à ce que leur eau se soit évaporée et qu'ils commencent à dorer.",
+   "timer": null,
+   "tip": "Ne les sale pas maintenant : salés trop tôt, ils rendent leur eau et dorent moins (Betty Bossi). Tu saleras la sauce à la fin."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Déglace au bouillon",
+   "text": "Verse {{bouillon:full}}. Gratte le fond de la poêle avec la cuillère en bois pour décoller les sucs dorés : c'est là qu'est le goût de la sauce. Laisse bouillonner un instant.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute la crème",
+   "text": "Ajoute {{creme:full}} et mélange. Laisse frémir doucement, en remuant de temps en temps, jusqu'à ce que la sauce épaississe un peu.",
+   "timer": null,
+   "tip": "Une crème allégée peut trancher si elle bout ; la crème fraîche épaisse et la crème entière supportent la cuisson (Betty Bossi, Migusto, Wikipédia)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Finis la cuisson du poulet",
+   "text": "Remets le poulet dans la sauce, avec le jus qu'il a rendu dans l'assiette. Laisse frémir doucement quelques minutes, sans faire bouillir fort, jusqu'à ce qu'il soit cuit à cœur : coupe le plus gros morceau, il doit être blanc au centre, sans rose, avec un jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C.",
+   "timer": null,
+   "tip": "Un gros bouillon durcit le blanc de poulet : un petit frémissement suffit (Escoffier, Chef Simon)."
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte et sers",
+   "text": "Goûte, puis ajuste le {{sel}} et le {{poivre}}. Parsème de {{persil}} ciselé et sers tout de suite, avec le riz ou les pâtes.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Coupe et prépare tout avant d'allumer le feu sous la poêle : une fois lancée, la cuisson va vite.",
+   "source": "Betty Bossi (« Faire sauter » : mise en place)"
+  },
+  {
+   "text": "Saisis le poulet en deux fois, dans une poêle bien chaude : trop serré, il cuit dans son jus au lieu de dorer.",
+   "source": "Betty Bossi (« Faire sauter » : en 2 ou 3 portions ; émincé de poulet à la crème : par portions) ; Migusto (émincé de veau à la zurichoise : portion par portion)"
+  },
+  {
+   "text": "Laisse le poulet tranquille une à deux minutes avant de le retourner : une croûte dorée se forme et donne du goût.",
+   "source": "Betty Bossi (« Faire sauter »)"
+  },
+  {
+   "text": "Une poêle en fonte ou en inox laisse plus de sucs qu'une poêle antiadhésive : la sauce est plus goûteuse.",
+   "source": "Betty Bossi (« La crème des crèmes »)"
+  },
+  {
+   "text": "Déglacer, c'est dissoudre les sucs caramélisés au fond de la poêle : c'est la base du goût de la sauce.",
+   "source": "Escoffier, Le Guide culinaire (série des poulets sautés) ; Betty Bossi (« La crème des crèmes » : plus de sucs, sauce plus goûteuse)"
+  },
+  {
+   "text": "Pas besoin de vin : Escoffier déglace aussi au fonds de volaille ou au jus de cuisson des champignons, et Migusto (émincé de poulet à la crème et aux herbes) comme Chef Simon (fricassée de volaille) font leur sauce sans vin, au bouillon.",
+   "source": "Escoffier ; Migusto ; Chef Simon"
+  },
+  {
+   "text": "Le blanc de poulet ne doit pas bouillir à gros bouillons dans la sauce : il durcit. Un petit frémissement suffit.",
+   "source": "Escoffier (poulets sautés : l'ébullition durcit les morceaux blancs) ; Chef Simon (fricassée : « toujours cuire à feu doux (petit frémissement) »)"
+  },
+  {
+   "text": "Les champignons ne doivent jamais tremper : ils boivent l'eau, perdent leur goût et deviennent mous.",
+   "source": "Julien Sebbag (Académie du Goût), Migusto, Betty Bossi"
+  },
+  {
+   "text": "Pousse bien la cuisson des champignons, jusqu'à ce que leur eau s'évapore et qu'ils dorent : c'est là qu'ils prennent leur goût.",
+   "source": "Julien Sebbag (Académie du Goût) ; Cuisine AZ"
+  },
+  {
+   "text": "Pour une sauce claire avec de la volaille, choisis des champignons de Paris blancs.",
+   "source": "Betty Bossi (« Champignons d'élevage »)"
+  },
+  {
+   "text": "Crème fraîche épaisse ou crème entière : elles supportent la cuisson ; les crèmes plus légères risquent de trancher si elles bouillent.",
+   "source": "Wikipédia (crème fraîche épaisse : « résiste bien à la cuisson ») ; Betty Bossi et Migusto (demi-crème à ne pas faire bouillir)"
+  },
+  {
+   "text": "Remets le poulet dans la sauce avec tout le jus qu'il a rendu dans l'assiette.",
+   "source": "Betty Bossi (émincé de poulet à la crème)"
+  }
+ ],
+ "mistakes": [
+  "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+  "Couper le poulet cru, puis les légumes, sur la même planche sans la laver (FSA, Anses).",
+  "Mettre tout le poulet d'un coup ou le remuer sans arrêt : il bout dans son jus au lieu de dorer (Betty Bossi).",
+  "Faire tremper les champignons (Julien Sebbag, Migusto, Betty Bossi).",
+  "Faire bouillir fort une crème allégée : elle tranche (Betty Bossi, Migusto).",
+  "Laisser bouillir longtemps le poulet dans la sauce : il durcit (Escoffier).",
+  "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+  "Remettre le poulet saisi dans l'assiette du poulet cru (Anses).",
+  "Prendre un cube de bouillon sans vérifier qu'il est halal, ou garder le vin des recettes suisses (Migusto, Betty Bossi) : remplace-le par du bouillon."
+ ],
+ "serving": "Bien chaud, nappé de sauce, avec du riz (Chef Simon le sert avec un riz créole) ou des pâtes, des tagliatelles par exemple (Betty Bossi ; Chef Simon conseille des pâtes fraîches). En Suisse, on le sert aussi avec des röstis ou des spätzli (Migusto, Wikipédia). Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA). Crème entamée : suis la durée « après ouverture » de l'étiquette, sinon 3 jours au plus (Anses, FSA).",
+ "variants": [
+  "Aux herbes : ciboulette ciselée, et un beurre mêlé d'herbes hachées et de zeste de citron, ajouté au moment de servir (Migusto).",
+  "Au paprika : relève la poêlée de paprika en même temps que le sel et le poivre (Migusto).",
+  "À l'ail : 2 gousses hachées, revenues avec l'oignon (Cuisine AZ ; recette de lecteur du Journal des Femmes).",
+  "À l'échalote : remplace l'oignon par des échalotes ciselées (Chef Simon, fricassée ; recette de lectrice du Journal des Femmes).",
+  "Avec d'autres champignons, des shiitakés par exemple (Betty Bossi).",
+  "Émincé à la zurichoise : la version suisse classique, au veau, servie avec des röstis (Migusto, Wikipédia ; Betty Bossi en donne aussi une version) ; à faire sans vin et avec du veau halal.",
+  "Fricassée à l'ancienne, pour le week-end : un poulet en morceaux cuit 40 minutes dans un fond de volaille, puis la sauce à la crème et aux champignons (Chef Simon)."
+ ],
+ "sources": [
+  {
+   "name": "Migusto (plateforme de recettes de Migros, Suisse), « Émincé de poulet à la crème et aux herbes », 18 septembre 2015, modifiée le 23 septembre 2025",
+   "url": "https://migusto.migros.ch/fr/recettes/emince-de-poulet-a-la-creme-et-aux-herbes/66233",
+   "used_for": "Recette sans vin, pour 4 : 600 g d'émincé de poulet salé et poivré, 150 g de champignons de Paris, 1 petit oignon, beurre à rôtir, 2,5 dl de fond de volaille ou de bouillon, 180 g de demi-crème pour sauces. Poulet saisi environ 2 minutes, sorti et gardé au chaud ; oignon et champignons dans les sucs ; bouillon réduit de moitié ; crème mijotée jusqu'à liaison ; poulet remis dans la sauce. 25 minutes en tout. Variante beurre aux herbes et zeste de citron ; servi avec des röstis."
+  },
+  {
+   "name": "Migusto, « Émincé de poulet en sauce aux champignons », 22 juin 2023, modifiée le 5 mai 2025",
+   "url": "https://migusto.migros.ch/fr/recettes/emince-de-poulet-en-sauce-aux-champignons/19514493",
+   "used_for": "Pour 4 : 500 g d'émincé de poulet, 250 g de champignons de Paris finement coupés, 1 oignon haché, 4 c. à s. d'huile, sel, poivre, paprika, 1 dl de vin blanc (écarté ici), 2,5 dl de crème ; poulet saisi environ 2 minutes, crème réduite environ 8 minutes, « le poulet doit être bien cuit » ; persil plat ; servi avec des spätzli ; « réunit toujours toute la famille autour de la table »."
+  },
+  {
+   "name": "Migusto, « Émincé de veau à la zurichoise », 24 novembre 2016, modifiée le 21 mai 2025",
+   "url": "https://migusto.migros.ch/fr/recettes/emince-de-veau-a-la-zurichoise/139758",
+   "used_for": "Version classique au veau pour 4 : viande en lanières de 1 cm, saisie portion par portion environ 1 minute à feu vif ; 250 g de champignons de Paris en lamelles, 1 oignon haché ; vin blanc (écarté) et 2 dl de fond ; 1 dl de demi-crème ; servi avec des röstis ; 30 minutes."
+  },
+  {
+   "name": "Migusto, « Nettoyer des champignons » (23 septembre 2019, modifié le 13 février 2024) et glossaire « Crème » (13 septembre 2019)",
+   "url": "https://migusto.migros.ch/fr/savoir/trucs/nettoyer-champignons/4eedc684-3ece-4e3e-a218-97f0e9e7f085",
+   "used_for": "Pinceau ou brosse à champignons ; ne pas les rincer, ils absorbent l'eau et perdent leur arôme ; raccourcir les pieds. Glossaire (https://migusto.migros.ch/fr/savoir/glossaire/creme/1aaee312-ab17-49b3-9fca-6d7688db280e) : la crème entière (35 %) supporte bien la cuisson, la demi-crème (25 %) ne doit pas bouillir, la demi-crème pour sauces est stabilisée ; consommer vite les emballages ouverts."
+  },
+  {
+   "name": "Migusto, Anja Steiner, « Calculer les quantités par personne », 29 août 2023, modifié le 10 juillet 2024",
+   "url": "https://migusto.migros.ch/fr/savoir/on-en-parle/quantites-par-personne/5f472b0a-a649-4c4e-88df-897ea62cbd3f",
+   "used_for": "En accompagnement : 50 à 70 g de riz cru et 50 à 80 g de pâtes crues par personne ; émincé ou escalope : 100 à 120 g de viande crue par personne."
+  },
+  {
+   "name": "Betty Bossi (éditeur suisse de recettes), « Émincé de poulet aux champignons », 2 janvier 2014",
+   "url": "https://www.bettybossi.ch/fr/recettes/recette/emince-de-poulet-aux-champignons-10004744/",
+   "used_for": "Pour 2 : 200 g d'émincé de poulet saisi environ 4 minutes puis sorti ; 1 oignon, 250 g de champignons de Paris et 150 g de shiitakés revenus environ 5 minutes ; 2 c. à s. de vin (écarté), 1,5 dl de bouillon, 0,5 dl de demi-crème à sauce, environ 5 minutes ; poulet remis le temps de bien chauffer ; ciboulette ; 120 g de pâtes (tagliatelles) ; à préparer la veille, garder couvert au frais et bien réchauffer."
+  },
+  {
+   "name": "Betty Bossi, « Émincé de poulet à la crème », 12 septembre 2025",
+   "url": "https://www.bettybossi.ch/fr/recettes/recette/emince-de-poulet-a-la-creme-10011733/",
+   "used_for": "Pour 4 : 600 g d'émincé de poulet saisi par portions environ 2 minutes, sorti, salé et poivré ; oignon en lanières environ 2 minutes ; vermouth (écarté) ; 2,5 dl de bouillon de poule et 2 dl de demi-crème à sauce, environ 10 minutes ; poulet remis avec son jus le temps de bien chauffer ; persil ; 30 minutes."
+  },
+  {
+   "name": "Betty Bossi, « Émincé à la zurichoise classique », 6 mai 2019",
+   "url": "https://www.bettybossi.ch/fr/recettes/recette/emince-a-la-zurichoise-classique-10007327/",
+   "used_for": "Version au veau : lanières d'environ 1 cm saisies par portion ; champignons de Paris en lamelles avec un peu de jus de citron ; vin blanc (écarté) ; crème, bouillon et maïzena, environ 3 minutes ; viande remise le temps de bien chauffer ; persil."
+  },
+  {
+   "name": "Betty Bossi, articles « Faire sauter » (25 octobre 2024), « Un régal d'un bout à l'autre de l'année : champignons d'élevage » (14 novembre 2024) et « La crème des crèmes » (21 novembre 2024), modifiés le 16 mars 2026",
+   "url": "https://www.bettybossi.ch/fr/magazine/article/faire-sauter-modes-de-cuisson-en-toute-simplicite/",
+   "used_for": "Saisir en 2 ou 3 portions, attendre 1 à 2 minutes qu'une croûte se forme, huile bien chaude sans fumer, tout préparer à l'avance. Champignons (https://www.bettybossi.ch/fr/magazine/article/un-regal-dun-bout-a-lautre-de-lannee-champignons-delevage/) : ne pas les laver, les nettoyer au pinceau, rincer brièvement seulement s'ils sont très sales ; les saler au dernier moment ; champignons de Paris blancs pour les sauces claires et la volaille. Crème (https://www.bettybossi.ch/fr/magazine/article/la-creme-des-cremes/) : poêle en fonte ou en inox pour plus de sucs ; la crème entière supporte la chaleur, la demi-crème ne doit pas bouillir sinon elle tranche ; la crème acidulée supporte chaleur et acides."
+  },
+  {
+   "name": "Auguste Escoffier, Le Guide culinaire, aide-mémoire de cuisine pratique (1903), chapitre « Relevés et entrées de volaille », série des poulets sautés, transcription Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_guide_culinaire/Relev%C3%A9s_et_entr%C3%A9es_de_volaille",
+   "used_for": "Principe du poulet sauté : colorer vivement dans du beurre (ou moitié beurre, moitié huile), retirer, déglacer avec « soit un vin quelconque, soit de la cuisson de champignons, soit du fonds de volaille » ; le déglaçage dissout le jus caramélisé ; les morceaux blancs ne doivent plus bouillir, « cette ébullition les durcirait » ; poulets à blanc finis à la crème ; poulet sauté Gabrielle (cuisson de champignons et crème)."
+  },
+  {
+   "name": "Chef Simon, « Fricassée de volaille à l'ancienne », 7 décembre 2011, modifiée le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/fricassee-de-volaille-a-l-ancienne",
+   "used_for": "Recette sans vin pour 4 : poulet, 300 g de champignons de Paris sautés, échalotes, fond de volaille maison, 2 dl de crème fraîche réduite ; « toujours cuire à feu doux (petit frémissement) pour garder à la volaille son moelleux » ; servir avec un riz créole ou des pâtes fraîches."
+  },
+  {
+   "name": "Chef Simon, « Nettoyer les champignons » et « Taille des champignons » (7 décembre 2011, modifiés le 10 mai 2026), « Cuisiner les champignons » (19 décembre 2017, modifié le 6 novembre 2025)",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/nettoyer-les-champignons",
+   "used_for": "Couper le pied terreux ; les champignons de Paris supportent un rapide bain d'eau froide, retirés à la main et égouttés sur un linge ; émincer au couteau (https://chefsimon.com/gourmets/chef-simon/recettes/taille-des-champignons) ; la cuisson fait évaporer beaucoup d'eau (https://chefsimon.com/articles/pratique-cuisiner-les-champignons)."
+  },
+  {
+   "name": "Chef Simon, « Riz créole », 7 décembre 2011, modifié le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/riz-creole--4",
+   "used_for": "140 g de riz pour 2 personnes, dans beaucoup d'eau bouillante salée, 10 à 15 minutes selon le riz, puis égoutté ; accompagne la fricassée de volaille."
+  },
+  {
+   "name": "Académie du Goût, Marie Cloupet, « Préparer et cuisiner les champignons : Julien Sebbag partage 5 conseils indispensables », 9 octobre 2026",
+   "url": "https://www.academiedugout.fr/articles/preparer-et-cuisiner-les-champignons-les-conseils-indispensables-de_3660",
+   "used_for": "Ne pas faire tremper les champignons (« pire qu'une éponge ») ; couper le bout terreux du pied, brosse humide ou papier absorbant ; bien pousser la cuisson ; commencer à l'huile neutre, finir au beurre ; il conseille de saler au début (voir discrepancies)."
+  },
+  {
+   "name": "Cuisine AZ, « Poulet à la crème et aux champignons » (14 mai 2026 ; et version du 19 septembre 2026) et « Blanquette de veau maison sans vin » (La Rédac', 21 octobre 2026)",
+   "url": "https://www.cuisineaz.com/recettes/poulet-a-la-creme-et-aux-champignons-122979.aspx",
+   "used_for": "Pour 4 : 600 g de blancs de poulet, 400 g de champignons de Paris, 20 cl de crème fraîche entière, 1 oignon, 2 gousses d'ail, 10 cl de bouillon de volaille ; champignons revenus jusqu'à évaporation de leur eau ; servi avec du riz blanc. Version du 19 septembre 2026 (https://www.cuisineaz.com/recettes/poulet-a-la-creme-et-champignons-recette-125470.aspx) : 25 cl de crème fraîche, 20 cl de bouillon de volaille, 20 g de beurre, champignons nettoyés au linge humide, oignon translucide, crème sans faire bouillir trop fort. Blanquette sans vin (https://www.cuisineaz.com/recettes/blanquette-de-veau-maison-sans-vin-126042.aspx) : le bouillon de volaille remplace le vin ; l'eau seule donne un résultat fade. Ces pages, signées d'un simple prénom (« Raphaël ») pour les deux premières, servent seulement de recoupement."
+  },
+  {
+   "name": "Journal des Femmes Cuisine, recettes de lecteurs « Poulet à la crème et aux champignons » (joepringle, 5 juin 2024 ; Christelle Vogel, 13 mai 2025)",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/3183750-poulet-a-la-creme-et-aux-champignons",
+   "used_for": "Recoupement seulement : pour 4, 250 g de champignons de Paris, 1 oignon, 2 gousses d'ail, 20 cl de crème fraîche épaisse ; champignons sautés jusqu'à évaporation de leur eau ; servi avec du riz, des pâtes ou des légumes. La recette de Christelle Vogel (https://cuisine.journaldesfemmes.fr/recette/350023-poulet-a-la-creme-et-aux-champignons) déglace au vinaigre balsamique (non repris)."
+  },
+  {
+   "name": "Wikipédia, articles « Émincé de veau à la zurichoise », « Crème fraîche » et « Moutarde de Dijon », consultée le 7 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89minc%C3%A9_de_veau_%C3%A0_la_zurichoise",
+   "used_for": "Zurichoise : plat de Zurich, veau, crème, vin blanc, champignons de Paris, servi avec des röstis ou des spätzli. Crème fraîche (https://fr.wikipedia.org/wiki/Cr%C3%A8me_fra%C3%AEche) : la crème fraîche épaisse, ensemencée, « résiste bien à la cuisson » et sert aux réductions et liaisons ; titre de l'article lié en arabe : قشدة طازجة. Moutarde de Dijon (https://fr.wikipedia.org/wiki/Moutarde_de_Dijon) : faite avec du vinaigre de vin (raison pour laquelle la variante à la moutarde n'est pas proposée)."
+  },
+  {
+   "name": "Légifrance, décret n° 80-313 du 23 avril 1980 relatif aux crèmes de lait destinées à la consommation (version consolidée, données à jour au 16 mars 2017)",
+   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000879692",
+   "used_for": "En France, la « crème » contient au moins 30 g de matière grasse pour 100 g, la « crème légère » de 12 à 30 g ; la « crème fraîche » n'est que pasteurisée et peut être maturée par des ferments lactiques."
+  },
+  {
+   "name": "Anses, « Campylobactériose » (21 mars 2025) et « Qu'est-ce que la salmonellose et comment s'en prémunir ? » (27 octobre 2025)",
+   "url": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir",
+   "used_for": "Cuire à cœur (70 °C) les viandes de volaille ; plus de 65 °C à cœur contre Campylobacter (https://www.anses.fr/fr/article/campylobacteriose) ; se laver les mains et nettoyer planche et ustensiles après la viande crue."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020), « Date limite de consommation (DLC) et DDM » (4 janvier 2021), « Comment bien conserver ses aliments » (23 juin 2022) et « Comment garantir l'hygiène des aliments dans son réfrigérateur » (11 décembre 2020)",
+   "url": "https://www.anses.fr/fr/article/date-limite-consommation-dlc-date-durabilite-minimale-ddm",
+   "used_for": "Après ouverture, la DLC ne vaut plus : suivre la mention « à consommer dans les x jours après ouverture » ; 70 °C à cœur élimine la majorité des pathogènes ; réchauffer couvert jusqu'à ce que la vapeur s'échappe. Dix gestes (https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques) : une planche pour le cru, pas de réutilisation des plats du cru, 2 heures au plus à température ambiante, plats cuisinés sous 3 jours, réfrigérateur à 4 °C. Conservation (https://www.anses.fr/fr/article/comment-bien-conserver-ses-aliments-ne-pas-interrompre-chaine-du-froid) : aliments sensibles entamés consommés dans les 3 jours. Réfrigérateur (https://www.anses.fr/fr/article/comment-garantir-lhygiene-aliments-son-refrigerateur) : préparations de viande en sauce dans la zone la plus froide."
+  },
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Cooking your food », « How to chill, freeze and defrost food safely » et « Why avoiding cross-contamination is important », publiés le 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Poulet cuit à cœur : plus de rose, jus clair, fumant ; 70 °C pendant 2 minutes ou 75 °C pendant 30 secondes ; restes au réfrigérateur dans les 2 heures, mangés sous 48 heures, réchauffés une seule fois jusqu'à être brûlants, en remuant. Réfrigération (https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely) : produits laitiers au frais, suivre l'étiquette après ouverture. Contaminations croisées (https://www.gov.uk/government/publications/why-avoiding-cross-contamination-is-important/why-avoiding-cross-contamination-is-important) : ne pas laver la volaille crue ; avec une seule planche, légumes d'abord et viande crue en dernier."
+  },
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Home food fact checker », GOV.UK, mis à jour le 21 août 2026, lu le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "used_for": "Contre-vérification : Riz cuit : le refroidir au plus vite, idéalement dans l'heure, en petites portions et pas dans la casserole ; le garder au réfrigérateur un jour au plus ; ne le réchauffer qu'une fois, jusqu'à ce qu'il soit fumant, car les spores de Bacillus cereus survivent à la cuisson. Viande : un seul réchauffage, fumante à cœur. (L'ancienne page du NHS sur le riz réchauffé renvoie maintenant vers cette page.)"
+  },
+  {
+   "name": "Wikipédia en arabe, article « عيش الغراب » (champignon), lu le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8",
+   "used_for": "Contre-vérification : Le champignon y est appelé عيش الغراب ou فطر عش الغراب et défini comme un فطر : le mot فطر du nom arabe est attesté, mais le nom complet « دجاج بالقشدة والفطر » reste une traduction descriptive, trouvée dans aucune source."
+  }
+ ],
+ "discrepancies": [
+  "Vin blanc ou vermouth : présents chez Migusto (sauce aux champignons, zurichoise), Betty Bossi (trois recettes), Cuisine AZ (en option, dans l'astuce de la version du 19 septembre 2026) et dans la zurichoise de Wikipédia ; absents chez Migusto (émincé à la crème et aux herbes) et Chef Simon (fricassée). Écartés (halal) et remplacés par le bouillon de volaille, comme le prévoit Escoffier (déglaçage « soit un vin quelconque, soit de la cuisson de champignons, soit du fonds de volaille »).",
+  "Poulet pour 4 : 600 g (Migusto, émincé aux herbes ; Betty Bossi, émincé à la crème ; Cuisine AZ), 500 g (Migusto, sauce aux champignons), 400 g (Betty Bossi ramené à 4). Retenu : 600 g, valeur médiane (calcul python). Le guide de Migusto compte 100 à 120 g par personne : 600 g fait de bonnes portions.",
+  "Champignons pour 4 : de 150 g (Migusto, émincé aux herbes) à 800 g (Betty Bossi ramené à 4, avec des shiitakés) ; 250 g chez Migusto (sauce aux champignons) et dans une recette de lecteur du Journal des Femmes, 300 g chez Chef Simon, 400 g chez Cuisine AZ. Retenu : 250 g, valeur la plus fréquente (médiane : 275 g pour ces six recettes ; 250 g en ajoutant les zurichoises de Migusto, 250 g, et de Betty Bossi, 200 g ; calcul python).",
+  "Crème pour 4 : 200 ml (Chef Simon, Betty Bossi, Cuisine AZ, recette de lecteur du Journal des Femmes), 250 ml (Migusto, Cuisine AZ), 180 g (Migusto), 100 ml (Migusto, zurichoise ; Betty Bossi ramené à 4). Retenu : 200 ml, valeur médiane et majoritaire.",
+  "Type de crème : crème fraîche épaisse (deux recettes de lecteurs du Journal des Femmes), crème fraîche entière ou « crème fraîche » (Cuisine AZ), « crème fraîche » sans précision (Chef Simon), crème liquide (« crème » chez Migusto), demi-crème pour sauces stabilisée, à 25 % (Betty Bossi, Migusto). Retenu : crème fraîche épaisse d'au moins 30 % de matière grasse ou crème liquide entière, qui supportent la cuisson (Wikipédia, Betty Bossi, Migusto) ; la demi-crème suisse n'existe pas forcément au Maroc et une crème allégée risque de trancher.",
+  "Bouillon pour 4 : 250 ml (Migusto, Betty Bossi), 300 ml (Betty Bossi ramené à 4), 200 ml (Cuisine AZ ; fond de la zurichoise de Migusto), 100 ml (Cuisine AZ ; Betty Bossi, zurichoise), 70 ml d'eau pour 2 (lectrice du Journal des Femmes). Retenu : 200 ml, valeur médiane. De l'eau convient à défaut, mais Cuisine AZ prévient qu'elle rend la sauce fade.",
+  "Huile : 1 c. à s. (Cuisine AZ, lecteur du Journal des Femmes, Migusto avec du beurre à rôtir), 2 c. à s. (Betty Bossi ramené à 4), 4 c. à s. (Migusto, sauce aux champignons). La médiane est 1 c. à s. ; retenu 2 c. à s., soit 1 par fournée, puisque le poulet est saisi en deux fois comme le demandent Betty Bossi et Migusto. Beurre pour l'oignon et les champignons : 20 g (Cuisine AZ), « un peu » (Migusto, Betty Bossi), 50 g pour tout le plat (Chef Simon) ; quantité laissée libre (un petit morceau).",
+  "Saisie du poulet : environ 2 minutes (Migusto, Betty Bossi, émincé à la crème), environ 4 minutes pour 200 g (Betty Bossi, émincé aux champignons), « dorer sur toutes les faces » (Cuisine AZ). Retenu : 2 minutes par fournée, la cuisson se finit dans la sauce.",
+  "Fin de cuisson du poulet dans la sauce : « le temps de bien chauffer » (Betty Bossi), environ 8 minutes dans la crème (Migusto, sauce aux champignons), une dizaine de minutes à couvert (Cuisine AZ). Retenu : quelques minutes à petit frémissement, jusqu'à la cuisson à cœur vérifiée (FSA, Anses) ; pas de durée fixe, donc pas de minuteur.",
+  "Nettoyage des champignons : pinceau ou brosse, sans eau (Migusto, Betty Bossi, Julien Sebbag) ; bain d'eau froide rapide possible pour les champignons de Paris (Chef Simon). Retenu : papier humide ou brosse, rinçage très rapide seulement s'ils sont très sales, jamais de trempage.",
+  "Sel des champignons : au début, pour qu'ils rendent leur eau (Julien Sebbag) ; au dernier moment, sinon ils rendent leur eau et ne dorent pas (Betty Bossi). Retenu : saler la sauce à la fin.",
+  "Ail (Cuisine AZ, lecteur du Journal des Femmes) et paprika (Migusto) : absents des autres recettes ; mis en variantes.",
+  "Moutarde (Cuisine AZ, lecteur du Journal des Femmes) et vinaigre balsamique pour déglacer (lectrice du Journal des Femmes) : non repris. La moutarde de Dijon est faite avec du vinaigre de vin (Wikipédia) ; à toi de voir selon ta pratique.",
+  "Riz pour 4 : 280 g (Chef Simon, 140 g pour 2) ; 200 à 280 g (Migusto, 50 à 70 g par personne en accompagnement). Pâtes pour 4 : 240 g (Betty Bossi, 120 g pour 2) ; 200 à 320 g (Migusto). Retenu : 280 g de riz ou 240 g de pâtes.",
+  "Temps total : 25 minutes (Migusto, émincé aux herbes), 30 minutes (Betty Bossi, deux recettes ; Migusto, zurichoise), 45 à 55 minutes (Migusto avec poireaux et spätzli ; Cuisine AZ, deux versions). Retenu : 30 minutes (10 + 20), à condition de lancer le riz ou les pâtes pendant que la sauce cuit.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 12 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Température à cœur de 74 °C (165 °F) de la FDA : non vérifiée, le site de la FDA a bloqué l'accès (ceux de l'USDA, de Santé Canada, de FoodSafety.gov et des CDC ont répondu 403). La recette suit l'Anses (70 °C) et la FSA (75 °C pendant 30 secondes).",
+  "Sites non lus parce que leur robots.txt interdit les robots de Claude ou d'Anthropic : Swissmilk (qui a une recette d'émincé à la zurichoise), Elle à Table, BBC Food (bbc.co.uk), Delia Online, Jamie Oliver, Chefkoch, Essen und Trinken. Madame Figaro (403), L'Atelier des Chefs (contrôle anti-robots, 429) et la recherche de l'Académie du Goût (403) : non utilisés. Marmiton n'a pas été consulté (refus d'accès signalé dans la consigne).",
+  "750g et Cuisine Actuelle n'ont pas été lus : aucun plan de site trouvé et la recherche web n'était pas disponible. Aucune recette d'un chef français connu pour ce plat précis (émincé de poulet à la crème et aux champignons) n'a été trouvée : la partie française repose sur Escoffier, Chef Simon, Julien Sebbag et, en recoupement, Cuisine AZ et le Journal des Femmes.",
+  "Deux pages de Cuisine AZ (14 mai et 19 septembre 2026) ne sont signées que d'un prénom (« Raphaël ») et contiennent des anomalies (du « thon mariné » dans l'une, un mot en géorgien dans l'autre) : elles servent seulement de recoupement, jamais de source unique.",
+  "Durée de réduction de la sauce pour ces quantités : non chiffrée de façon concordante (5 minutes pour 2 chez Betty Bossi, 10 minutes chez Migusto et Betty Bossi pour 4, avec d'autres crèmes) ; la recette se fie à l'œil (la sauce épaissit un peu).",
+  "Quantité de beurre : non confirmée par deux sources indépendantes, laissée libre.",
+  "Statut halal des cubes de bouillon vendus au Maroc : non vérifié ; choisis un bouillon certifié halal ou fais ton bouillon.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide. Nom arabe : traduction descriptive (« poulet à la crème et aux champignons », avec قشدة, le mot de Wikipédia en arabe pour la crème fraîche) ; pas un nom établi trouvé dans une source.",
+  "Disponibilité au Maroc de la crème fraîche épaisse à 30 % de matière grasse et de la crème liquide entière : non vérifiée par une source ; regarde le pourcentage de matière grasse sur l'étiquette."
+ ],
+ "cuisine": "Française et suisse",
+ "rayon": "D'ailleurs",
+ "img_alt": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
+ "img": "img/poulet-creme-champignons.jpg",
+ "photo": {
+  "author": "Carmen Eisbär",
+  "license": "CC BY-NC-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "page": "https://www.flickr.com/photos/100088253@N05/9902542374",
+  "modified": "non modifiée"
+ }
+});
+
 /* Recette : Rfissa au poulet, lentilles et fenugrec. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -11330,6 +13314,423 @@ window.RECETTES.push({
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Chinese_egg_fried_rice.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Salade marocaine. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "salade-marocaine",
+ "title": "Salade marocaine",
+ "darija": "Chlada",
+ "arabic": "شلاضة",
+ "tagline": "Tomates, concombre et oignon coupés tout petits, persil, citron, huile d'olive et une pointe de cumin : la salade fraîche, sans cuisson, qui accompagne beaucoup de plats au Maroc.",
+ "category": "Rapide",
+ "occasion": "Tous les jours, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté d'un tajine, de grillades ou de poisson (My Moroccan Food ; MarocMama). Prête en 20 minutes, sans cuisson (Cooking With Alia ; Choumicha).",
+ "region": "Tout le Maroc : pour My Moroccan Food, c'est la salade la plus courante et la plus simple de la cuisine marocaine.",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 0,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Planche et couteau bien aiguisé",
+  "Brosse à légumes propre, pour le concombre",
+  "Torchon propre ou papier absorbant",
+  "Saladier",
+  "Petit bol, pour la sauce",
+  "Presse-agrumes (facultatif)",
+  "Grand emporte-pièce (facultatif, pour la présentation)"
+ ],
+ "ingredients": [
+  {
+   "group": "Légumes et herbes",
+   "items": [
+    {
+     "id": "tomates",
+     "q": 4,
+     "u": "",
+     "name": "tomate moyenne",
+     "pl": "tomates moyennes",
+     "canon": "tomate"
+    },
+    {
+     "id": "concombre",
+     "q": 1,
+     "u": "",
+     "name": "concombre",
+     "pl": "concombres",
+     "canon": "concombre"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "petit oignon",
+     "pl": "petits oignons",
+     "canon": "oignon"
+    },
+    {
+     "id": "persil",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "note": "ou de coriandre fraîche",
+     "canon": "persil"
+    }
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "citron",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de jus de citron",
+     "note": "un citron donne environ 3 c. à s. de jus",
+     "canon": "citron"
+    },
+    {
+     "id": "sel",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "cumin",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu, selon le goût",
+     "canon": "poivre"
+    }
+   ]
+  },
+  {
+   "group": "Service",
+   "items": [
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "pain (khobz)",
+     "note": "pour accompagner",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Lave les légumes",
+   "text": "Lave-toi les mains au savon. Rince {{tomates:full}}, {{concombre:full}} et le persil sous l'eau courante, sans savon. Frotte le concombre avec une brosse propre, puis sèche le tout avec un torchon propre.",
+   "timer": null,
+   "tip": "Les légumes et les herbes qui se mangent crus doivent être lavés soigneusement (Anses). Pas de savon ni de produit vaisselle : les légumes peuvent l'absorber (FDA)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe les tomates",
+   "text": "Coupe chaque tomate en deux, retire les graines, puis coupe la chair en petits dés d'environ ½ cm.",
+   "timer": null,
+   "tip": "Garde la peau, comme Cooking With Alia. Choumicha, elle, pèle ses tomates (salades 627 et 629)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe le concombre",
+   "text": "Coupe chaque concombre en deux dans la longueur, retire les graines, puis coupe-le en petits dés de la même taille.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon",
+   "text": "Épluche et hache très finement {{oignon:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Hache l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache le persil",
+   "text": "Effeuille le persil et hache-le finement : il en faut {{persil}} pour la salade.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache le persil » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Réunis les légumes",
+   "text": "Mets les tomates, le concombre, l'oignon et le persil dans un saladier. Garde-le au réfrigérateur jusqu'au moment de servir.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare la sauce",
+   "text": "Dans un petit bol, mélange {{huile}} d'huile d'olive, {{citron}} de jus de citron, {{sel}} de sel, {{cumin}} de cumin et du {{poivre}}.",
+   "timer": null,
+   "tip": "Lalla Moulati garde sa sauce au réfrigérateur, à part, jusqu'au service."
+  },
+  {
+   "phase": "Service",
+   "title": "Assaisonne au dernier moment",
+   "text": "Juste avant de servir, verse la sauce sur les légumes et mélange bien.",
+   "timer": null,
+   "tip": "Salée trop tôt, la salade rend son eau (Choumicha)."
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte et rectifie",
+   "text": "Goûte et ajuste le sel, le citron ou le cumin.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers bien frais",
+   "text": "Sers tout de suite, bien frais, avec du {{khobz}}, à côté d'un tajine, de grillades ou de poisson.",
+   "timer": null,
+   "tip": "Pour une jolie assiette, tasse la salade dans un grand emporte-pièce posé sur l'assiette, puis retire-le doucement (Cooking With Alia)."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Le secret, c'est la taille : coupe tout très petit, pour avoir un peu de chaque légume dans chaque bouchée.",
+   "source": "Cooking With Alia (recettes 208 et 543)"
+  },
+  {
+   "text": "Vise des petits dés réguliers d'environ ½ cm, et un oignon haché encore plus fin.",
+   "source": "My Moroccan Food (dés de ½ cm) ; Cooking With Alia, Lalla Moulati (2019) et MarocMama (oignon très fin)"
+  },
+  {
+   "text": "Garde seulement la chair : retire les graines des tomates, et celles du concombre.",
+   "source": "My Moroccan Food (tomates et concombre) ; MarocMama et Choumicha (tomates)"
+  },
+  {
+   "text": "Sel et citron au tout dernier moment : sinon les tomates rendent leur eau.",
+   "source": "Choumicha, Salade de tomates et de poivrons"
+  },
+  {
+   "text": "Prépare la sauce à part et garde-la au frais jusqu'au service. Servie sans sauce, la salade qui reste se recycle facilement, en omelette par exemple.",
+   "source": "Lalla Moulati (2019) ; Choumicha, conseil « حول السلطة »"
+  },
+  {
+   "text": "Le jus de citron plutôt que le vinaigre, si tu en as.",
+   "source": "Lalla Moulati (2019) ; citron chez My Moroccan Food et Cooking With Alia"
+  },
+  {
+   "text": "Une pointe de cumin dans la sauce, comme chez Cooking With Alia, Choumicha et Lalla Moulati.",
+   "source": "Cooking With Alia (recette 208) ; Choumicha, Salade de tomates et de poivrons ; Lalla Moulati (2019)"
+  },
+  {
+   "text": "De bonnes tomates, c'est la clé : la salade ne vaut que ce que valent ses légumes.",
+   "source": "MarocMama"
+  },
+  {
+   "text": "Tomates pas assez sucrées ? Nargisse Benkabbou ajoute une cuillère à café de miel pour équilibrer l'acidité.",
+   "source": "My Moroccan Food"
+  },
+  {
+   "text": "Persil ou coriandre : les deux se font au Maroc.",
+   "source": "Persil : My Moroccan Food, Choumicha ; coriandre : Cooking With Alia"
+  },
+  {
+   "text": "Un peu d'écorce de citron confit hachée (sans la pulpe) parfume la salade.",
+   "source": "Cooking With Alia (recette 208, facultatif) ; Choumicha (salades de tomates au citron confit)"
+  },
+  {
+   "text": "Au Maroc, elle accompagne surtout les tajines, les grillades et le poisson.",
+   "source": "My Moroccan Food ; MarocMama"
+  }
+ ],
+ "mistakes": [
+  "Saler la salade longtemps à l'avance : les tomates rendent leur eau (Choumicha).",
+  "Couper les légumes trop gros (Cooking With Alia).",
+  "Laver les légumes au savon ou au produit vaisselle (FDA).",
+  "Couper les légumes sur la planche de la viande crue sans l'avoir lavée (Anses).",
+  "Laisser la salade plus de 2 heures à température ambiante (Anses)."
+ ],
+ "serving": "Bien fraîche, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté du plat : tajine, grillades ou poisson (My Moroccan Food ; MarocMama), avec du pain (Cooking With Alia). Au Maroc, plusieurs salades sont souvent posées sur la table avec le plat principal (Wikipédia FR, Cuisine marocaine).",
+ "variants": [
+  "Salade marocaine de Choumicha : 4 tomates, 1 oignon, 1 poivron vert en petits morceaux, persil, huile d'olive, vinaigre ou jus de citron, sel ; sans concombre, servie avec des brochettes de kefta.",
+  "Chlada aux poivrons grillés de Lalla Moulati (2019) : poivrons rouge, vert et jaune grillés et pelés, 4 tomates, un petit oignon, olives vertes et noires, maïs si tu veux ; sauce au citron (ou au vinaigre), huile d'olive, sel, cumin et un peu de poivre.",
+  "Salade de tomates au citron confit de Choumicha : tomates pelées, épépinées et concassées, écorce de citron confit, persil, une gousse d'ail, huile d'olive et sel.",
+  "Tomate et oignon seulement, au vinaigre et à l'huile d'olive : la salade qui accompagne le poisson chez MarocMama.",
+  "Coriandre à la place du persil, et un peu d'écorce de citron confit (Cooking With Alia, recette 208)."
+ ],
+ "sources": [
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Moroccan Tomato and Cucumber Salad », 11 juin 2015 (modifiée le 17 août 2023)",
+   "url": "https://www.mymoroccanfood.com/home/moroccan-tomato-and-cucumber-salad",
+   "used_for": "Recette pour 4 : 1 gros oignon (200 g) finement haché, 6 tomates moyennes (400 g) et 1 concombre moyen (400 g) épépinés, en dés de ½ cm, 2 c. à s. d'huile d'olive, 2 c. à s. de persil haché, 1 c. à s. de jus de citron, sel, poivre ; tout mélanger et garder au frais jusqu'au service ; miel si les tomates manquent de douceur ; salade marocaine la plus courante et la plus simple, servie à côté des tajines et des grillades."
+  },
+  {
+   "name": "Cooking With Alia, « 208 – Moroccan Tomato Cucumber Salad Recipe » (date non affichée ; plan du site : 14 septembre 2022)",
+   "url": "https://www.cookingwithalia.com/moroccan-tomato-cucumber-salad/",
+   "used_for": "300 g de tomates, 1 concombre, 1 petit oignon jaune doux, 2 c. à s. de coriandre, jus d'1 citron (au goût), écorce d'¼ de citron confit (facultatif), 1 c. à s. d'huile d'olive, ½ c. à c. de sel, ¼ c. à c. de poivre noir, ¼ c. à c. de cumin ; le secret est de couper très petit ; tomates avec la peau ; goûter et rectifier ; servir avec du pain ; présentation à l'emporte-pièce."
+  },
+  {
+   "name": "Cooking With Alia, « Tomato Cucumber Salad / سلطة الطماطم والخيار » (recette 543 ; date non affichée ; plan du site : 14 septembre 2022)",
+   "url": "https://www.cookingwithalia.com/543-tomato-cucumber-salad/",
+   "used_for": "20 minutes ; 300 g de tomates, 1 petit concombre, 1 petit oignon, un petit bouquet de coriandre, jus d'¼ de citron, 1 c. à s. d'huile, ¼ c. à c. de sel et de poivre ; couper très petit ; servir froid."
+  },
+  {
+   "name": "Choumicha (Choumicha Chafay), « Brochettes de Kefta et sa salade marocaine », site officiel (copie archivée du 10 avril 2026 ; le site est hors ligne)",
+   "url": "https://web.archive.org/web/20260410191558/https://www.choumicha.ma/recette/467-brochettes-de-kefta-et-sa-salade-marocaine.html",
+   "used_for": "« Salade marocaine » pour 4 : 4 tomates concassées, 1 oignon émincé, 1 poivron vert en petits morceaux, persil émincé, filet d'huile d'olive, filet de vinaigre ou de jus de citron, sel ; servie avec des brochettes de kefta (variante au poivron)."
+  },
+  {
+   "name": "Choumicha, « أسياخ (قطبان) اللحم المفروم المشوية مرفوقة بالسلطة المغربية », version arabe de la même recette (copie archivée du 12 août 2014)",
+   "url": "https://web.archive.org/web/20140812024855/http://www.choumicha.ma/ar/%D9%85%D8%B7%D8%A8%D8%AE/%D8%A3%D8%B3%D9%8A%D8%A7%D8%AE-%D9%82%D8%B7%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D9%84%D8%AD%D9%85-%D8%A7%D9%84%D9%85%D9%81%D8%B1%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D9%88%D9%8A%D8%A9-%D9%85%D8%B1%D9%81%D9%88%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.html",
+   "used_for": "Nom arabe « السلطة المغربية » et mêmes ingrédients, pour 4 personnes : vérification croisée."
+  },
+  {
+   "name": "Choumicha, « Salade de tomates et de poivrons », site officiel (copie archivée du 8 mai 2026)",
+   "url": "https://web.archive.org/web/20260508111833/https://www.choumicha.ma/recette/629-salade-de-tomates-et-de-poivrons.html",
+   "used_for": "Pour 4 : 4 tomates épépinées et concassées, 2 poivrons verts grillés, 1 petit oignon finement émincé, ¼ c. à c. de cumin, sel, 4 c. à s. d'huile, 3 c. à s. de jus de citron ou de vinaigre ; conseil : ajouter sel, citron et vinaigre au dernier moment, juste avant de servir, pour que les légumes ne rendent pas leur eau ; temps total 20 min."
+  },
+  {
+   "name": "Choumicha, « Salade de tomates au citron », site officiel (copie archivée du 8 juin 2026)",
+   "url": "https://web.archive.org/web/20260608121157/https://choumicha.ma/recette/627-salade-de-tomates-au-citron.html",
+   "used_for": "Pour 4 : 4 grosses tomates pelées, épépinées et concassées, écorce d'½ citron confit, 1 c. à s. de persil, sel, 4 c. à s. d'huile d'olive, 1 gousse d'ail ; servie froide ; temps total 20 min, sans cuisson (variante au citron confit)."
+  },
+  {
+   "name": "Choumicha, « Brochettes de kefta, salades de légumes et velouté de petits pois », site officiel (copie archivée du 17 juin 2026)",
+   "url": "https://web.archive.org/web/20260617064508/https://choumicha.ma/recette/771-brochettes-de-kefta-salades-de-legumes-et-veloute-de-petits-pois.html",
+   "used_for": "Salade de tomates au citron confit pour 4 : 2 tomates et 1 poivron vert grillés puis pelés, épépinés et coupés en petits dés, 1 petit oignon nouveau, 2 c. à s. de persil, écorce d'¼ de citron confit, 2 c. à s. d'huile d'olive, 2 c. à s. de vinaigre, sel ; servie fraîche."
+  },
+  {
+   "name": "Choumicha, conseil « حول السلطة » (À propos de la salade), version arabe du site (copie archivée du 19 août 2016)",
+   "url": "https://web.archive.org/web/20160819093249/http://www.choumicha.ma/ar/astuces/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9.html",
+   "used_for": "Servir les salades froides sans leur sauce, pour pouvoir réutiliser les restes (omelette, gratin)."
+  },
+  {
+   "name": "Lalla Moulati, « ألذ شلاظة مغربية كتحضرها الوليدة ديالي… », 6 novembre 2019, rubrique Cuisine marocaine",
+   "url": "https://www.lalamoulati.net/210957.html",
+   "used_for": "« Chlada » marocaine de sa mère : poivrons rouge, vert et jaune grillés, 4 tomates en dés, petit oignon en très petits dés, maïs, olives ; sauce à part (vinaigre ou jus de citron, mieux le citron), huile d'olive, sel, cumin, un peu de poivre, gardée au réfrigérateur jusqu'au service."
+  },
+  {
+   "name": "Lalla Moulati, « أروع أطباق السلطات المغربية الخاصة بالضيوف », 4 octobre 2017",
+   "url": "https://www.lalamoulati.net/85716.html",
+   "used_for": "La « chlada » marocaine figure parmi les salades les plus connues de la cuisine marocaine, avec le zaalouk."
+  },
+  {
+   "name": "Lalla Moulati, « سلطة مغربية », 10 novembre 2014, rubrique Jus et entrées marocaines",
+   "url": "https://www.lalamoulati.net/5518.html",
+   "used_for": "Écart de vocabulaire : sur ce site, « سلطة مغربية » désigne aussi une salade composée (riz, thon, maïs, légumes, œuf dur)."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki, Américaine mariée à un Marocain et installée au Maroc), « Moroccan Tomato and Onion Salad », 21 mai 2013 (modifiée le 22 septembre 2022)",
+   "url": "https://marocmama.com/tomato-and-onion-salad/",
+   "used_for": "Source d'appoint : de bonnes tomates sont la clé ; tomates épépinées ; oignon coupé très fin ; 3 c. à s. d'huile d'olive, 1½ c. à s. de vinaigre blanc, ½ c. à c. de sel ; servie froide ou à température ambiante, surtout avec le poisson."
+  },
+  {
+   "name": "Wikipédia (fr), « Cuisine marocaine », consulté le 7 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Cuisine_marocaine",
+   "used_for": "La salade marocaine fait partie des plats typiques ; dans la plupart des maisons, la table porte plusieurs salades (dont tomates et concombres) avec le tajine ou le couscous (référence : Fes Cooking and Cultural Tours, archive 2013)."
+  },
+  {
+   "name": "Anses, « Fiche de description de danger microbiologique transmissible par les aliments : Escherichia coli producteurs de shigatoxines (STEC) / entérohémorragiques (EHEC) », saisine 2024-MPEX-0031, juillet 2024",
+   "url": "https://www.anses.fr/sites/default/files/Fiche-EHEC-2024-MPEX-0031.pdf",
+   "used_for": "Recommandation aux consommateurs : laver soigneusement, ou éplucher si possible, les légumes, les fruits et les herbes aromatiques qui seront mangés crus ; se laver les mains avant de préparer les repas."
+  },
+  {
+   "name": "Anses, « Fiche de description de danger biologique transmissible par les aliments : Toxoplasma gondii », saisine 2016-SA-0271, mai 2021",
+   "url": "https://www.anses.fr/system/files/BIORISK2016SA0271Fi.pdf",
+   "used_for": "Femmes enceintes et personnes immunodéprimées non immunisées : lavage soigneux des crudités."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Se laver les mains au savon avant et pendant la préparation ; une planche pour la viande et le poisson crus, une autre pour les légumes propres ; pas plus de 2 heures à température ambiante avant le réfrigérateur ; 4 °C dans la zone la plus froide."
+  },
+  {
+   "name": "Anses, « En cuisine, le meilleur ingrédient, c'est l'hygiène ! », article du 11 mai 2026",
+   "url": "https://www.anses.fr/fr/content/en-cuisine-le-meilleur-ingredient-c-est-l-hygiene",
+   "used_for": "Contamination croisée : planche réservée à la viande ou au poisson crus, une autre pour les légumes propres, ou planche bien lavée entre deux ; réfrigérer dans les 2 heures."
+  },
+  {
+   "name": "FDA (États-Unis), « Selecting and Serving Produce Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely",
+   "used_for": "Se laver les mains avant ; laver les légumes sous l'eau courante, sans savon, sans détergent ni produit de lavage ; brosser les légumes fermes comme le concombre ; sécher avec un torchon propre ou du papier absorbant ; retirer les parties abîmées."
+  },
+  {
+   "name": "USDA FoodData Central, fiches 167747 « Lemon juice, raw », 170457 « Tomatoes, red, ripe, raw », 168409 « Cucumber, with peel, raw » et 170000 « Onions, raw » (données SR Legacy lues par l'API officielle)",
+   "url": "https://api.nal.usda.gov/fdc/v1/food/167747?api_key=DEMO_KEY",
+   "used_for": "Conversions : jus d'1 citron = 48 g, 1 tasse = 244 g, donc 1 c. à s. ≈ 15,25 g et 1 citron ≈ 3,15 c. à s. ; tomate moyenne 123 g ; concombre 301 g ; petit oignon 70 g (fiches lues aux adresses https://api.nal.usda.gov/fdc/v1/food/170457?api_key=DEMO_KEY, https://api.nal.usda.gov/fdc/v1/food/168409?api_key=DEMO_KEY et https://api.nal.usda.gov/fdc/v1/food/170000?api_key=DEMO_KEY). Sert à comparer les doses de citron des sources (médiane)."
+  },
+  {
+   "name": "Lalla Moulati, « شلاضة مكتخطاش طبلتي فالصيف كولشي كيحماق عليها… », 30 juillet 2020, rubrique Cuisine de Lalla Moulati",
+   "url": "https://www.lalamoulati.net/245874.html",
+   "used_for": "Contre-vérification : La graphie « شلاضة » (avec ض), celle du champ arabic, est employée par ce site marocain, à côté de « شلاظة » (avec ظ, articles de 2017 et 2019). Le mot y désigne une salade en général : ici pommes de terre, maïs et thon. La salade tomates-concombre-oignon est donc une « chlada » parmi d'autres ; Lalla Moulati (2017) parle de « سلطة الشلاظة المغربية » parmi les salades marocaines les plus connues."
+  }
+ ],
+ "discrepancies": [
+  "Nom : chez Choumicha, la « salade marocaine » (السلطة المغربية) se fait avec tomates, oignon et poivron vert ; chez Lalla Moulati, « سلطة مغربية » désigne aussi des salades composées (riz, thon, pommes de terre) et sa « chlada » est aux poivrons grillés ; My Moroccan Food et Cooking With Alia appellent salade marocaine la version tomates, concombre et oignon. Retenu cette dernière, comme demandé ; les autres en variantes.",
+  "Tomates : 4 pour 4 personnes chez Choumicha (trois recettes) et 4 chez Lalla Moulati ; 6 tomates moyennes pesant 400 g en tout chez My Moroccan Food ; 300 g chez Cooking With Alia ; 2 grosses chez MarocMama. Retenu 4 tomates moyennes.",
+  "Oignon : petit chez Cooking With Alia (deux recettes), Choumicha (salade de tomates et de poivrons) et Lalla Moulati ; un oignon chez Choumicha (salade marocaine) ; un gros (200 g) chez My Moroccan Food ; un demi-oignon doux chez MarocMama. Retenu un petit oignon (majorité).",
+  "Huile, en c. à s. : 1 (Cooking With Alia, deux recettes), 2 (My Moroccan Food ; Choumicha 771), 3 (MarocMama), 4 (Choumicha 627 et 629). Médiane : 2 c. à s. ; 3,5 si l'on ne garde que les recettes relues données pour 4 (My Moroccan Food 2, MarocMama 3, Choumicha 627 et 629 4), car Cooking With Alia ne donne pas de nombre de parts. Retenu 2 c. à s. d'huile d'olive, la dose de My Moroccan Food, seule recette tomates-concombre-oignon-persil donnée pour 4. Cooking With Alia (543) utilise une huile végétale et Choumicha (629) une « huile » sans précision ; les autres, de l'huile d'olive.",
+  "Acidité, en c. à s. : citron 1 (My Moroccan Food), jus d'1 citron soit environ 3,15 (Cooking With Alia 208), jus d'¼ de citron soit environ 0,8 (Cooking With Alia 543), citron ou vinaigre 3 (Choumicha 629), vinaigre 2 (Choumicha 771), vinaigre 1½ (MarocMama). Médiane du citron seul : 2,0 ; médiane de tout : 1,75. Retenu 2 c. à s. de jus de citron, à ajuster.",
+  "Herbes : persil chez My Moroccan Food (2 c. à s.) et Choumicha (2 c. à s. dans la recette 771) ; coriandre chez Cooking With Alia (2 c. à s. dans la recette 208). Retenu 2 c. à s. de persil, coriandre en remplacement.",
+  "Moment de l'assaisonnement : au dernier moment chez Choumicha et sauce à part chez Lalla Moulati ; tout mélangé puis gardé au frais chez My Moroccan Food. Retenu l'assaisonnement au dernier moment (deux sources sur trois).",
+  "Peau des tomates : gardée chez Cooking With Alia, ôtée chez Choumicha (recettes 627 et 629). Retenu la peau gardée, plus rapide ; pelage en astuce.",
+  "Sel : ½ c. à c. (Cooking With Alia 208 ; MarocMama), ¼ (Cooking With Alia 543), au goût (My Moroccan Food, Choumicha). Retenu ½ c. à c. Poivre : ¼ c. à c. chez Cooking With Alia, au goût chez My Moroccan Food, « un peu » chez Lalla Moulati : laissé au goût.",
+  "Cumin : ¼ c. à c. chez Cooking With Alia (208) et Choumicha (629), sans dose chez Lalla Moulati ; absent chez My Moroccan Food et MarocMama. Retenu ¼ c. à c.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 6 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Faut-il éplucher le concombre ? Aucune source de la salade ne le dit ; la FDA rappelle seulement de le laver même s'il est épluché.",
+  "Combien de temps garder les restes : aucune durée officielle trouvée pour une salade crue faite maison ; seule la règle des 2 heures avant le réfrigérateur est sourcée (Anses).",
+  "Dates des recettes Cooking With Alia : non affichées sur les pages ; seule la date du plan du site (14 septembre 2022) est connue.",
+  "MarocMama (Amanda Mouttaki) est américaine, installée au Maroc : source d'appoint, non comptée parmi les sources marocaines.",
+  "Aucune recette de cette salade trouvée sur Bladi.net, Femmes du Maroc, Le360 (rubrique lifestyle) ni dans les copies d'archive de Taste of Maroc.",
+  "Lalla Moulati : pas de recette chiffrée de la salade tomates-concombre-oignon ; seulement sa chlada aux poivrons grillés et des salades composées.",
+  "Un article de Lalla Moulati (12 février 2019) affirme que ranger tomates et concombre ensemble produit une substance toxique : affirmation de santé sans source officielle, non retenue.",
+  "Aucune variante régionale sourcée trouvée.",
+  "Menthe : aucune source lue ne l'utilise dans cette salade."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Salades",
+ "pairs": [
+  "khobz"
+ ],
+ "img_alt": "Tomates, concombre et persil coupés en petits dés dans un saladier (photo d'une salade arabe, très proche)",
+ "img": "img/salade-marocaine.jpg",
+ "photo": {
+  "author": "Basel15 at English Wikipedia",
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Arabsalad.jpg",
   "modified": "réduite"
  }
 });
@@ -12907,6 +15308,483 @@ window.RECETTES.push({
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_aglio_e_olio_KB.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Taboulé libanais. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "taboule",
+ "title": "Taboulé libanais",
+ "darija": "",
+ "arabic": "تبولة",
+ "tagline": "La vraie salade libanaise : une montagne de persil haché fin, un peu de boulgour, des tomates, de la menthe et beaucoup de citron. Sans cuisson, prête en 30 minutes.",
+ "category": "Rapide",
+ "occasion": "En entrée de mezzé, ou à côté de grillades (Hadia's Lebanese Cuisine). Au Liban, c'est un incontournable des fêtes et des repas de famille (Mama's Lebanese Kitchen ; recettelibanaise.com). Une journée nationale du taboulé y est fêtée le premier samedi de juillet depuis 2001 (Wikipédia en anglais et en arabe, d'après un guide du Liban publié par Souk el Tayeb).",
+ "region": "Liban et Syrie : le taboulé est né dans les montagnes du Liban et de Syrie, et c'est un plat du mezzé levantin (Wikipédia). Ce n'est pas un plat marocain.",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 30,
+  "cook": 0,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un grand couteau très bien aiguisé (pas de robot ni de mixeur)",
+  "Une grande planche propre, qui n'a pas servi pour de la viande crue",
+  "Un grand saladier pour laver les herbes, et un autre pour servir",
+  "Une essoreuse à salade, ou un torchon propre et du papier absorbant",
+  "Une passoire",
+  "Un petit bol",
+  "Un presse-agrumes"
+ ],
+ "ingredients": [
+  {
+   "group": "Les herbes et les légumes",
+   "items": [
+    {
+     "id": "persil",
+     "q": 3,
+     "u": "botte",
+     "name": "de persil plat",
+     "note": "très frais ; on n'en garde que les feuilles",
+     "canon": "persil"
+    },
+    {
+     "id": "menthe",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de menthe fraîche",
+     "note": "les feuilles seulement",
+     "canon": "menthe"
+    },
+    {
+     "id": "tomates",
+     "q": 4,
+     "u": "",
+     "name": "tomate moyenne",
+     "pl": "tomates moyennes",
+     "note": "bien rouge, mûre mais ferme, à choisir une à une",
+     "canon": "tomate"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon blanc",
+     "pl": "oignons blancs",
+     "note": "ou des oignons verts",
+     "canon": "oignon"
+    }
+   ]
+  },
+  {
+   "group": "Le boulgour et l'assaisonnement",
+   "items": [
+    {
+     "id": "boulgour",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de boulgour fin (n° 1)",
+     "note": "surtout pas de semoule de couscous",
+     "canon": "boulgour"
+    },
+    {
+     "id": "citrons",
+     "q": 2,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "frais, à presser toi-même (pas de jus en bouteille)",
+     "canon": "citron"
+    },
+    {
+     "id": "huile",
+     "q": 120,
+     "u": "ml",
+     "name": "d'huile d'olive vierge extra",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "selon le goût",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir",
+     "note": "selon le goût",
+     "canon": "poivre"
+    },
+    {
+     "id": "piment-jamaique",
+     "q": 1,
+     "u": "pincée",
+     "name": "de piment de la Jamaïque (allspice)",
+     "note": "facultatif ; ou de sept-épices libanais",
+     "canon": "piment-jamaique"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "laitue",
+     "q": null,
+     "u": "",
+     "name": "feuilles de laitue romaine",
+     "note": "ou de chou blanc, ou de jeunes feuilles de vigne",
+     "canon": "laitue"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Lave les herbes",
+   "text": "Lave-toi les mains. Plonge {{persil}} de persil et {{menthe}} de menthe dans un grand saladier d'eau froide, et remue-les doucement. Rince-les ensuite sous l'eau du robinet.",
+   "timer": null,
+   "tip": "Le persil et la menthe se mangent crus : lave-les avec soin (Anses). Hadia ajoute une pincée de sel dans l'eau et les laisse tremper 5 minutes avant de les rincer."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Sèche-les bien",
+   "text": "Essore les herbes, puis étale-les sur un torchon propre ou du papier absorbant. Elles doivent être bien sèches avant d'être hachées, sinon le taboulé sera détrempé.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mets le boulgour à gonfler",
+   "text": "Presse {{citrons:full}}. Dans un petit bol, mets {{boulgour}} de boulgour fin, la moitié du jus de citron et un peu de sel. Laisse-le gonfler pendant que tu prépares le reste : il n'a pas besoin de cuire.",
+   "timer": null,
+   "tip": "Boulgour fin, pas semoule de couscous : le boulgour est du blé précuit, séché puis concassé, qui n'a qu'à boire le jus. Avec la semoule, on obtient le « taboulé à l'orientale » à la française, où la semoule prend la place du persil (Wikipédia)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Garde les feuilles",
+   "text": "Coupe les grosses tiges du persil et de la menthe. Garde seulement les feuilles.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache le persil",
+   "text": "Serre le persil en petits paquets et tranche-le très fin, en fines lanières, avec un couteau bien aiguisé. Fais-le à la main : le robot écrase les feuilles et en fait une bouillie.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache le persil » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache la menthe",
+   "text": "Hache finement les feuilles de menthe, de la même façon.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe les tomates",
+   "text": "Coupe {{tomates:full}} en tout petits dés. Mets-les dans une passoire pour qu'elles perdent leur jus.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon",
+   "text": "Hache {{oignon:full}} très finement.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Hache l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Mélange au dernier moment",
+   "text": "Juste avant de servir, mets dans un grand saladier le persil, la menthe, les tomates égouttées, l'oignon et le boulgour.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Assaisonne",
+   "text": "Arrose avec le reste du jus de citron et {{huile}} d'huile d'olive. Ajoute du {{sel}}, du {{poivre}} et {{piment-jamaique}} de piment de la Jamaïque si tu en as. Mélange bien.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte",
+   "text": "Goûte : le taboulé doit être bien citronné. Rectifie le sel si besoin.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers tout de suite",
+   "text": "Sers aussitôt, avec des {{laitue}} : chacun prend le taboulé à la main, pincé dans une feuille.",
+   "timer": null,
+   "tip": "Tu peux aussi le servir avec des feuilles de chou blanc ou de jeunes feuilles de vigne (Hadia ; Wikipédia)."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Le taboulé libanais est d'abord une salade de persil : beaucoup d'herbes, très peu de boulgour.",
+   "source": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; Taste of Beirut (Joumana Accad) ; Wikipédia (articles « Taboulé » et « Tabbouleh »)"
+  },
+  {
+   "text": "Prends du boulgour fin, le n° 1 : c'est le plus fin, celui du taboulé.",
+   "source": "Mama's Lebanese Kitchen (« fine cracked wheat #1 ») ; Hadia's Lebanese Cuisine ; recettelibanaise.com ; Libnanews"
+  },
+  {
+   "text": "Pourquoi pas de semoule de couscous : le boulgour est du blé précuit, séché puis concassé ; le boulgour fin n'a qu'à boire le jus du citron et des tomates, sans cuisson, et il reste discret dans le persil. La semoule de couscous est un autre produit, des grains de semoule roulés puis cuits à la vapeur. Avec elle, on obtient le « taboulé à l'orientale » servi en France, où la semoule devient l'ingrédient principal et où le persil passe au second plan : ce n'est plus le taboulé libanais.",
+   "source": "Wikipédia, « Boulgour » et « Bulgur » (en anglais : un simple trempage suffit) ; Hadia's Lebanese Cuisine (le boulgour fin boit le jus des tomates et du citron) ; recettelibanaise.com (boulgour fin qui reste discret) ; Wikipédia, « Couscous » et « Taboulé »"
+  },
+  {
+   "text": "Sèche parfaitement les herbes avant de les hacher : mouillées, elles tournent en pâte et détrempent la salade.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen"
+  },
+  {
+   "text": "Hache à la main, au couteau bien aiguisé, en fines lanières ; jamais au robot.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut ; recettelibanaise.com ; Anissa Helou (blog, « chopping parsley for a living »)"
+  },
+  {
+   "text": "Choisis des tomates fermes et égoutte-les : trop de jus détrempe la salade.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com"
+  },
+  {
+   "text": "Mélange et assaisonne au dernier moment : sinon les herbes ramollissent et le taboulé détrempe.",
+   "source": "Mama's Lebanese Kitchen ; Taste of Beirut ; Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Citron frais pressé, jamais en bouteille. Hadia le presse juste avant de mélanger : pressé d'avance et gardé, il peut devenir amer.",
+   "source": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Un bon taboulé se reconnaît à son goût bien citronné.",
+   "source": "Mama's Lebanese Kitchen"
+  },
+  {
+   "text": "Une pincée de piment de la Jamaïque ou de sept-épices libanais, c'est l'épice du taboulé libanais ; Hadia la recommande vivement.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut (facultatif) ; Mama's Lebanese Kitchen (sept-épices)"
+  },
+  {
+   "text": "Persil plat de préférence ; le persil frisé dépanne, à condition de le hacher très fin.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut (réponse de Joumana Accad à une lectrice)"
+  },
+  {
+   "text": "Pour gagner du temps, hache le persil, la menthe et l'oignon quelques heures avant, couvre et garde au frigo ; garde les tomates à part et assemble au dernier moment.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut (assaisonnement au dernier moment si on prépare à l'avance)"
+  },
+  {
+   "text": "Au Liban, on le mange à la main, pincé dans une feuille de romaine, de chou ou de vigne.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut ; Wikipédia (« Taboulé ») ; Libnanews (François El Bacha)"
+  }
+ ],
+ "mistakes": [
+  "Mettre de la semoule de couscous, ou beaucoup trop de boulgour : ce n'est plus le taboulé libanais (Wikipédia ; Mama's Lebanese Kitchen).",
+  "Prendre du gros boulgour : il faut du boulgour fin n° 1 (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; recettelibanaise.com ; Libnanews).",
+  "Hacher le persil encore mouillé, ou au robot : il devient une bouillie (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+  "Garder les grosses tiges (Taste of Beirut ; Hadia's Lebanese Cuisine).",
+  "Assaisonner longtemps à l'avance : le taboulé détrempe (Mama's Lebanese Kitchen ; Taste of Beirut ; Hadia's Lebanese Cuisine).",
+  "Utiliser du jus de citron en bouteille (Mama's Lebanese Kitchen).",
+  "Prendre des tomates trop molles : elles rendent trop d'eau (Hadia's Lebanese Cuisine ; recettelibanaise.com).",
+  "Oublier de laver le persil et la menthe, qui se mangent crus (Anses ; FSA).",
+  "Hacher les herbes sur la planche qui a servi pour de la viande crue (Anses).",
+  "Laisser le taboulé plus de 2 heures à température ambiante avant de le mettre au frigo (Anses)."
+ ],
+ "serving": "Sers-le tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine), en entrée de mezzé (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine) ou à côté de grillades (Hadia's Lebanese Cuisine, qui sert par exemple sa kafta avec du taboulé). On le mange à la main avec des feuilles de laitue romaine (Taste of Beirut ; Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Wikipédia), de chou blanc ou de vigne (Hadia's Lebanese Cuisine ; Wikipédia) ; du pain libanais peut aussi l'accompagner (recettelibanaise.com ; Libnanews). Il est meilleur tout de suite : assaisonné trop tôt, les herbes ramollissent et la salade détrempe (Taste of Beirut ; Mama's Lebanese Kitchen). Restes : au frigo dans les 2 heures (Anses ; FSA), frigo à 4 °C dans sa zone la plus froide (Anses), et à manger dans les 2 jours (FSA).",
+ "variants": [
+  "Avec des oignons verts à la place de l'oignon blanc (Taste of Beirut ; Wikipédia en arabe).",
+  "Avec un concombre haché très fin : c'est la façon palestinienne (Wikipédia ; Libnanews) ; Mama's Lebanese Kitchen en met aussi un.",
+  "Avec de la laitue hachée dedans : la version arménienne (Wikipédia ; Libnanews).",
+  "Plus doux : au sumac et à la mélasse de grenade à la place du citron (Wikipédia) ; Hadia ajoute seulement un filet de mélasse de grenade sur le dessus.",
+  "À l'ancienne, comme avant l'arrivée de la tomate au Levant : tomates en dés servies à part ou posées sur le dessus (Wikipédia).",
+  "Boulgour ajouté sec dans la salade : il boit le jus des tomates et du citron (Hadia's Lebanese Cuisine).",
+  "Avec une pincée de cannelle, un peu de paprika et de zeste de citron (recettelibanaise.com).",
+  "Sans gluten : du quinoa à la place du boulgour, que Mama's Lebanese Kitchen suggère sur l'avis de quelques personnes, sans l'avoir testé.",
+  "Tabbouleh kazzabé, le « taboulé menteur » du Sud-Liban : ici le boulgour est la vedette, gonflé dans l'eau de cuisson du chou, avec oignon rouge et concentré de tomate (Hadia's Lebanese Cuisine, recette de son amie Rima Hamad).",
+  "Kısır turc et eetch arménien : bien plus de boulgour que de persil (Wikipédia)."
+ ],
+ "sources": [
+  {
+   "name": "Mama's Lebanese Kitchen (Edgard, recettes de sa mère Esperance, du Nord du Liban), « Authentic Tabouli Recipe - Lebanese Tabbouleh », 7 juin 2011",
+   "url": "https://mamaslebanesekitchen.com/salads/authentic-lebanese-tabbouleh-recipe/",
+   "used_for": "Recette pour 4 en 30 minutes : 4 bottes de persil, 1 botte de menthe, 4 tomates égouttées, 1 oignon blanc, ¼ tasse de boulgour fin n° 1 trempé dans la moitié du jus de citron avec un peu de sel, ⅓ tasse d'huile d'olive, ½ tasse de jus de citron, sept-épices ; herbes séchées avant et après hachage ; mélange au dernier moment ; citron frais ; feuilles de laitue ; peu de boulgour."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine (Hadia Zebib Khanafer), « Tabbouleh Recipe (Traditional Salad) », 30 décembre 2013",
+   "url": "https://hadiaslebanesecuisine.com/blog/tabbouleh/",
+   "used_for": "Recette pour 4 en 30 minutes : 3 grosses bottes de persil, 5 tomates, 7 feuilles de menthe, 1 oignon blanc, ½ tasse d'huile d'olive, ¼ tasse de jus de citron, 1 c. à s. de boulgour fin ajouté sec, piment de la Jamaïque ou sept-épices ; lavage et séchage du persil ; hachage à la main ; tomates fermes ; préparation à l'avance ; citron pressé au dernier moment ; feuilles de romaine, de chou ou de vigne."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine, « Tabbouleh Kazabeh (Lying Tabbouleh) », 21 juillet 2018",
+   "url": "https://hadiaslebanesecuisine.com/blog/lying-tabbouleh/",
+   "used_for": "Variante du Sud-Liban (Jbaa, Nabatieh) où le boulgour domine."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine, « Authentic Lebanese Grilled Kafta Kebabs Recipe »",
+   "url": "https://hadiaslebanesecuisine.com/blog/grilled-kafta-kebabs/",
+   "used_for": "Taboulé servi avec des grillades comme la kafta."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine, page « About »",
+   "url": "https://hadiaslebanesecuisine.com/blog/about/",
+   "used_for": "Vérification : blog de cuisine libanaise ; Hadia a appris la cuisine levantine de sa grand-mère et de sa mère."
+  },
+  {
+   "name": "Taste of Beirut (Joumana Accad), « Tabbouleh, classic version », 8 octobre 2010, copie Wayback Machine du 16 janvier 2025 (le site est aujourd'hui fermé)",
+   "url": "https://web.archive.org/web/20250116192423/https://www.tasteofbeirut.com/tabbouleh-classic-version/",
+   "used_for": "3 bottes de persil, ½ botte de menthe, 1 oignon blanc ou des oignons verts, 3 tomates, ¼ tasse de boulgour n° 1, 2 gros citrons, ½ tasse d'huile d'olive, sel, poivre, pointe de piment de la Jamaïque facultative ; feuilles et tiges séparées ; hachage très fin à la main ; boulgour trempé 5 minutes puis pressé ; servir aussitôt ; assaisonner au dernier moment ; dans les réponses de l'autrice : 3 tasses de persil (6 onces) et ½ tasse de menthe (1 once), plus de citron que d'huile, boulgour n° 1 extra-fin et pas celui du pilaf, persil frisé possible."
+  },
+  {
+   "name": "Taste of Beirut, page d'accueil avec la présentation de l'autrice, copie Wayback Machine du 19 janvier 2025",
+   "url": "https://web.archive.org/web/20250119064653/https://www.tasteofbeirut.com/",
+   "used_for": "Vérification : Joumana Accad est née et a grandi à Beyrouth."
+  },
+  {
+   "name": "recettelibanaise.com, « Taboulé libanais »",
+   "url": "https://www.recettelibanaise.com/taboule-libanais/",
+   "used_for": "Recette pour 4 (source citée par Wikipédia) : 2 bouquets de persil (200 g), ½ bouquet de menthe, 4 tomates, 1 oignon, 2 c. à s. de boulgour, 4 c. à s. d'huile d'olive, jus d'un citron ; couteau bien aiguisé ; boulgour fin qui gonfle dans le jus de citron ; tomates mûres mais fermes ; service avec chou, romaine ou pain libanais."
+  },
+  {
+   "name": "Libnanews (François El Bacha), « Liban/Patrimoine : le Taboulé, une entrée typiquement libanaise », 5 septembre 2019, mis à jour le 5 septembre 2024",
+   "url": "https://libnanews.com/liban-patrimoine-le-taboule-une-entree-typiquement-libanaise/",
+   "used_for": "Pour 4 : 2 bottes de persil, 1 oignon, 1 grosse tomate, menthe, 2 citrons, huile d'olive, 100 g de boulgour fin, sel, poivre ; peu de boulgour au Levant ; bouchée prise à la main dans une feuille de salade, plus rarement avec du pain ; concombre en Palestine, laitue en Arménie."
+  },
+  {
+   "name": "Anissa Helou, « chopping parsley for a living » (blog)",
+   "url": "http://anissas.com/chopping-parsley-for-a-living/",
+   "used_for": "Persil tranché en fines lanières avec un couteau très aiguisé, tiges du bas coupées (souk de Damas)."
+  },
+  {
+   "name": "Anissa Helou, page « About »",
+   "url": "http://anissas.com/about/",
+   "used_for": "Vérification : née à Beyrouth d'un père syrien et d'une mère libanaise, autrice de « Lebanese Cuisine » (1994)."
+  },
+  {
+   "name": "Wikipédia (français), « Taboulé »",
+   "url": "https://fr.wikipedia.org/wiki/Taboul%C3%A9",
+   "used_for": "Salade de persil, de menthe et de boulgour de la cuisine levantine, servie avec de la romaine, du chou blanc ou des feuilles de vigne ; taboulé libanais très citronné avec très peu de boulgour fin ; taboulé « à l'orientale » français à la semoule de blé dur, persil au second plan ; variantes palestinienne, arménienne, au sumac et à la mélasse de grenade, à l'ancienne sans tomate mêlée."
+  },
+  {
+   "name": "Wikipedia (anglais), « Tabbouleh » (modifié le 3 novembre 2026)",
+   "url": "https://en.wikipedia.org/wiki/Tabbouleh",
+   "used_for": "Origine dans les montagnes du Liban et de Syrie ; journée nationale du taboulé le premier samedi de juillet depuis 2001 ; plus d'herbes que de boulgour au Levant, plus de boulgour dans les adaptations occidentales ; certaines versions à la semoule ; kısır et eetch."
+  },
+  {
+   "name": "Wikipédia (arabe), « تبولة »",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A8%D9%88%D9%84%D8%A9",
+   "used_for": "Nom arabe ; oignon vert parmi les ingrédients ; journée nationale du taboulé."
+  },
+  {
+   "name": "Wikipédia (français), « Boulgour »",
+   "url": "https://fr.wikipedia.org/wiki/Boulgour",
+   "used_for": "Boulgour : blé dur précuit à la vapeur, séché puis concassé ; grains fins ou gros ; se prépare par cuisson ou simple réhydratation."
+  },
+  {
+   "name": "Wikipedia (anglais), « Bulgur »",
+   "url": "https://en.wikipedia.org/wiki/Bulgur",
+   "used_for": "Blé étuvé, séché et concassé ; pas besoin de cuisson, un trempage suffit ; ingrédient principal du taboulé ; goût léger de noisette."
+  },
+  {
+   "name": "Wikipédia (français), « Couscous »",
+   "url": "https://fr.wikipedia.org/wiki/Couscous",
+   "used_for": "Grains de couscous : semoule roulée avec de la farine et de l'eau, cuite à la vapeur puis séchée ; vendue précuite, elle se réhydrate dans l'eau bouillante. Un autre produit que le boulgour."
+  },
+  {
+   "name": "Wikipédia (français), « Piment de la Jamaïque »",
+   "url": "https://fr.wikipedia.org/wiki/Piment_de_la_Jama%C3%AFque",
+   "used_for": "Nom français de l'allspice ; le nom « quatre-épices » est ambigu, il désigne aussi un mélange."
+  },
+  {
+   "name": "Anses, « Aliments contaminés par la bactérie E. coli : quels effets sur la santé, comment prévenir les infections ? », 11 juillet 2022",
+   "url": "https://www.anses.fr/fr/actualite/aliments-contamines-bacterie-e-coli-quels-effets-sante-comment-prevenir-infections",
+   "used_for": "Laver soigneusement les légumes et les herbes aromatiques, surtout ceux mangés crus ; se laver les mains avant de préparer le repas."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Planche réservée aux produits cuits et aux légumes propres, séparée de celle de la viande crue ; pas plus de 2 heures à température ambiante avant le frigo ; frigo à 4 °C."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « Home food fact checker », GOV.UK, mis à jour le 21 août 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "used_for": "Laver fruits et légumes à l'eau avant de les manger, sous le robinet ou dans un bol d'eau propre, avec un rinçage final."
+  },
+  {
+   "name": "Food Standards Agency, « How to chill, freeze and defrost food safely », GOV.UK, 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Salades gardées au frigo (0 à 5 °C) ; restes au frigo dans les 2 heures, mangés dans les 2 jours."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير التبولة اللبنانية على اصولها » (le taboulé libanais dans les règles), 12 avril 2017",
+   "url": "https://www.lalamoulati.net/65072.html",
+   "used_for": "Contre-vérification : Site marocain qui publie une recette de taboulé libanais, sans nom d'auteur (ce n'est donc pas une source libanaise) : nom « التبولة » employé au Maroc ; 3 bottes de persil, ¼ de botte de menthe, 4 tomates, 3 oignons verts, ½ tasse de boulgour trempé environ 15 min dans un peu d'eau puis égoutté, ½ tasse de jus de citron, ½ tasse d'huile d'olive, sel ; herbes hachées finement, tomates en petits morceaux, servi tout de suite. Avec elle, les quantités retenues de persil (3 bottes), de tomates (4), de boulgour (4 c. à s.) et de menthe (½ botte) sont aussi les médianes des seules sources relues, et 120 ml d'huile (½ tasse) devient la médiane de toutes les sources, en comptant Taste of Beirut tel que l'auteur le rapporte (calculs python3 -I)."
+  }
+ ],
+ "discrepancies": [
+  "Persil : 4 bottes (Mama's Lebanese Kitchen), 3 grosses bottes (Hadia ; Taste of Beirut), 2 bottes (recettelibanaise.com, 200 g ; Libnanews). Retenu : 3 bottes (médiane, calcul python3 -I).",
+  "Menthe : 1 botte (Mama's Lebanese Kitchen), ½ botte (Taste of Beirut ; recettelibanaise.com), 7 feuilles (Hadia), « plusieurs feuilles » (Libnanews). Retenu : ½ botte (médiane des sources qui comptent en bottes, et deux sources d'accord).",
+  "Tomates : 4 (Mama's Lebanese Kitchen ; recettelibanaise.com), 5 (Hadia), 3 (Taste of Beirut), 1 grosse tomate (Libnanews). Retenu : 4 (médiane).",
+  "Boulgour : ¼ tasse, soit 4 c. à s. (Mama's Lebanese Kitchen ; Taste of Beirut), 2 c. à s. (recettelibanaise.com), 1 c. à s. (Hadia), 100 g (Libnanews). Retenu : 4 c. à s., valeur majoritaire et médiane si l'on compte les 100 g de Libnanews comme la plus forte quantité (leur conversion en cuillères n'a pas été vérifiée).",
+  "Citron : 2 gros citrons (Taste of Beirut), 2 citrons (Libnanews), 1 citron (recettelibanaise.com), ½ tasse de jus (Mama's Lebanese Kitchen), ¼ tasse (Hadia). Retenu : 2 citrons.",
+  "Huile d'olive : ½ tasse, environ 118 ml (Hadia ; Taste of Beirut), ⅓ tasse, environ 79 ml (Mama's Lebanese Kitchen), 4 c. à s. (recettelibanaise.com), non chiffrée (Libnanews). Médiane environ 99 ml ; retenu 120 ml, la valeur donnée par deux sources.",
+  "Boulgour, façon de le préparer : trempé dans la moitié du jus de citron avec un peu de sel (Mama's Lebanese Kitchen), gonflé dans le jus de citron (recettelibanaise.com), ajouté sec dans la salade (Hadia), trempé 5 minutes dans l'eau ou le jus des tomates puis pressé (Taste of Beirut). Retenu : gonflé dans le jus de citron (deux sources) ; « la moitié du jus » vient de Mama's Lebanese Kitchen. Pas de minuteur : aucune durée commune.",
+  "Épices : sept-épices (Mama's Lebanese Kitchen), piment de la Jamaïque ou sept-épices (Hadia), pointe de piment de la Jamaïque facultative (Taste of Beirut), cannelle facultative et paprika (recettelibanaise.com), poivre seul (Libnanews). Retenu : une pincée de piment de la Jamaïque, facultative.",
+  "Composition du sept-épices : piment de la Jamaïque, poivre noir, cannelle, clou de girofle, muscade, fenugrec et gingembre (Mama's Lebanese Kitchen) ; cannelle, clou de girofle, muscade, cumin, coriandre sèche, poivre et paprika (Choumicha). Elle varie : le sept-épices n'est donné qu'en remplacement.",
+  "Concombre : seulement chez Mama's Lebanese Kitchen ; Wikipédia et Libnanews le rattachent à la façon palestinienne. Mis en variante.",
+  "Lavage : bol d'eau puis rinçage (FSA), trempage de 5 minutes dans l'eau salée (Hadia), simple rinçage (Mama's Lebanese Kitchen ; Taste of Beirut). Retenu : bol d'eau froide puis rinçage sous le robinet, sans durée.",
+  "Service : tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia) ; 10 minutes de repos et « peut être consommé le lendemain » (recettelibanaise.com). Retenu : tout de suite.",
+  "Temps : 30 minutes de préparation (Mama's Lebanese Kitchen ; Hadia), 25 minutes plus 10 minutes de repos (recettelibanaise.com). Retenu : 30 minutes.",
+  "Journée nationale du taboulé : premier samedi de juillet depuis 2001 (Wikipédia en anglais et en arabe, d'après un guide du Liban publié par Souk el Tayeb) ; « le 7 juillet » (recettelibanaise.com). Retenu : Wikipédia.",
+  "Wikipédia en français décrit le boulgour du taboulé comme « fin et brun (blé complet) », alors que son article « Boulgour » le dit « débarrassé du son » : point non tranché, sans effet sur la recette.",
+  "Un autre article de Libnanews (« Newsdesk », 23 mars 2025 : 150 g de boulgour trempé 30 minutes, 30 minutes au frigo) n'a ni auteur ni recette familiale ; il contredit toutes les autres sources et n'a pas été retenu.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 5 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Maureen Abood (maureenabood.com), Feel Good Foodie et The Mediterranean Dish : pages en 403 (défi Cloudflare) le 7 novembre 2026 ; non utilisés, ni leurs copies d'archive.",
+  "L'Orient-Le Jour (dont le site « Liban à table ») : son robots.txt interdit tout aux robots « User-agent: * » ; non utilisé.",
+  "Saveur : robots.txt interdit ClaudeBot, Claude-Web et anthropic-ai ; non utilisé.",
+  "The Guardian (« How to make the perfect tabbouleh » de Felicity Cloake, et les salades d'Anissa Helou, cités par Wikipédia) : robots.txt interdit Claude-User ; non utilisé.",
+  "Slate.fr (article de Fanny Arlandis, 2017, cité par Wikipédia en français sur le passage du persil à la semoule) : 403 ; non lu.",
+  "Barbara Abdeni Massaad et Lebanon Traveler : robots.txt interdit ClaudeBot ; non utilisés.",
+  "Anissa Helou : pas de recette complète de taboulé sur son site (seulement des mentions dans son blog).",
+  "Souk el Tayeb (Kamal Mouzawak) : site hors service (erreur PHP) ; non lu.",
+  "Taste of Beirut : le domaine affiche aujourd'hui « Launching Soon » ; la recette a été lue sur la copie d'archive de janvier 2025.",
+  "Poids d'une botte de persil : non standard. Repères des sources seulement : 3 bottes, soit environ 3 tasses de persil haché ou 170 g (Taste of Beirut), et 2 bouquets pour 200 g (recettelibanaise.com).",
+  "Poids des 4 c. à s. de boulgour fin : non vérifié (aucune source ne le donne).",
+  "Nom du piment de la Jamaïque en arabe libanais : non vérifié, donc non donné.",
+  "Nom en darija : aucune source lue ne le donne en lettres latines ; Lalla Moulati, site marocain, appelle le plat « التبولة اللبنانية », du même nom arabe qu'au Liban. Le champ « darija » est donc laissé vide.",
+  "Date de la recette de recettelibanaise.com et identité de son auteur : non indiquées sur la page.",
+  "Retiré faute d'avoir pu relire Taste of Beirut à la contre-vérification (site fermé, copies d'archive non rouvertes) : « le gros boulgour sert au pilaf » (Wikipédia en anglais le dit plutôt pour les soupes), « plus de goût de citron que d'huile », ses quantités en tasses et en onces, et le boulgour trempé 5 minutes dans l'eau ou le jus des tomates."
+ ],
+ "cuisine": "Libanaise",
+ "rayon": "D'ailleurs",
+ "rayons": [
+  "D'ailleurs",
+  "Salades"
+ ],
+ "img_alt": "Taboulé au persil garni de rondelles de citron et de feuilles de laitue (photo prise en Jordanie)",
+ "img": "img/taboule.jpg",
+ "photo": {
+  "author": "Justwiki",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Tabola_jordan_2025.jpg",
   "modified": "réduite"
  }
 });

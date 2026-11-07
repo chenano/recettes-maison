@@ -24,14 +24,19 @@ PHOTOS = {  # slug -> (fichier dans img/, modification faite)
     "tajine-poisson": ("tajine-poisson.jpg", "non modifiée"), "rghayef": ("rghayef.jpg", "réduite"), "maqarouna": ("maqarouna.jpg", "réduite"),
     "spaghetti-aglio-olio": ("spaghetti-aglio-olio.jpg", "réduite"), "pates-thon-tomate": ("pates-thon-tomate.jpg", "réduite"),
     "omelette": ("omelette.jpg", "non modifiée"),
+    "bid-maticha": ("bid-maticha.jpg", "recadrée"), "kefta-poele": ("kefta-poele.jpg", "non modifiée"),
+    "salade-marocaine": ("salade-marocaine.jpg", "réduite"), "escalopes-poulet-panees": ("escalopes-poulet-panees.jpg", "non modifiée"),
+    "poulet-creme-champignons": ("poulet-creme-champignons.jpg", "non modifiée"), "taboule": ("taboule.jpg", "réduite"),
 }
 # pays d'origine des recettes qui ne sont pas marocaines (d'après le champ « region » de leur recherche)
 CUISINE = {"riz-saute-oeufs": "Chinoise", "salade-pois-chiches-thon": "Italienne", "soupe-lentilles-corail": "Turque",
-           "spaghetti-aglio-olio": "Italienne", "pates-thon-tomate": "Italienne", "omelette": "Française"}
+           "spaghetti-aglio-olio": "Italienne", "pates-thon-tomate": "Italienne", "omelette": "Française",
+           "escalopes-poulet-panees": "Française", "poulet-creme-champignons": "Française et suisse", "taboule": "Libanaise"}
 # date de la contre-vérification (deuxième série : faite le 7 novembre 2026)
 SERIE2 = {"lentilles", "loubia", "bissara", "dchicha", "chakchouka", "maqarouna", "poisson-frit", "sandwich-poisson", "tajine-poisson",
           "baghrir", "cake-marocain", "malwi", "rghayef", "spaghetti-aglio-olio", "pates-thon-tomate", "omelette", "riz-saute-oeufs",
-          "salade-pois-chiches-thon", "soupe-lentilles-corail"}
+          "salade-pois-chiches-thon", "soupe-lentilles-corail",
+          "bid-maticha", "kefta-poele", "salade-marocaine", "escalopes-poulet-panees", "poulet-creme-champignons", "taboule"}
 # texte alternatif quand la photo ne montre pas exactement la recette (la photo du tajine aux pruneaux est un tajine de veau)
 IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
            "khobz": "Piles de khobz ronds sur un étal de Chefchaouen",
@@ -52,7 +57,13 @@ IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans s
            "maqarouna": "Gratin de macaronis à la viande hachée sous une béchamel dorée (photo d'un pastitsio grec, plat très proche)",
            "spaghetti-aglio-olio": "Spaghetti à l'ail, à l'huile d'olive et au piment rouge, avec du persil",
            "pates-thon-tomate": "Spaghetti nappés de sauce tomate au thon",
-           "omelette": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette"}
+           "omelette": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette",
+           "bid-maticha": "Bid w maticha : œufs cuits dans une sauce tomate, servis dans un plat en terre avec du pain",
+           "kefta-poele": "Boulettes de kefta cuites, sur une assiette, avec un pain rond et des coupelles de sauce et d'épices",
+           "salade-marocaine": "Tomates, concombre et persil coupés en petits dés dans un saladier (photo d'une salade arabe, très proche)",
+           "escalopes-poulet-panees": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
+           "poulet-creme-champignons": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
+           "taboule": "Taboulé au persil garni de rondelles de citron et de feuilles de laitue (photo prise en Jordanie)"}
 # rayon de l'accueil (catégories)
 RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajines", "harira": "Soupes",
          "pastilla-poulet": "Plats", "tajine-kefta-oeufs": "Tajines", "msemen": "Pains",
@@ -64,14 +75,19 @@ RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajin
          "baghrir": ["Pains", "Douceurs"], "cake-marocain": "Douceurs", "malwi": "Pains", "rghayef": "Pains",
          "spaghetti-aglio-olio": "D'ailleurs", "pates-thon-tomate": "D'ailleurs", "omelette": "D'ailleurs",
          "riz-saute-oeufs": "D'ailleurs", "salade-pois-chiches-thon": ["D'ailleurs", "Salades"],
-         "soupe-lentilles-corail": ["D'ailleurs", "Soupes"]}
+         "soupe-lentilles-corail": ["D'ailleurs", "Soupes"],
+         # troisième série : 6 recettes faciles
+         "bid-maticha": "Plats", "kefta-poele": "Plats", "salade-marocaine": "Salades", "escalopes-poulet-panees": "D'ailleurs",
+         "poulet-creme-champignons": "D'ailleurs", "taboule": ["D'ailleurs", "Salades"]}
 # « à servir avec » : seulement quand le service de la recette (sourcé) cite l'accompagnement
 PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"], "tajine-agneau-pruneaux": ["khobz"],
          "tajine-kefta-oeufs": ["khobz"], "msemen": ["the-menthe"], "harcha": ["the-menthe"], "zaalouk": ["khobz"],
          "the-menthe": ["harcha", "msemen"], "khobz": ["tajine-kefta-oeufs", "zaalouk", "tajine-agneau-pruneaux", "the-menthe"],
          "bissara": ["khobz"], "chakchouka": ["khobz"], "tajine-poisson": ["khobz", "zaalouk"], "baghrir": ["the-menthe"],
          "cake-marocain": ["the-menthe"], "poisson-frit": ["sandwich-poisson"], "sandwich-poisson": ["poisson-frit", "khobz"],
-         "lentilles": ["khobz"], "loubia": ["khobz", "poisson-frit"], "malwi": ["the-menthe"], "rghayef": ["the-menthe"]}
+         "lentilles": ["khobz"], "loubia": ["khobz", "poisson-frit"], "malwi": ["the-menthe"], "rghayef": ["the-menthe"],
+         "kefta-poele": ["khobz", "salade-marocaine", "the-menthe"], "bid-maticha": ["khobz", "the-menthe"],
+         "salade-marocaine": ["khobz"]}
 PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz", "poisson-frit": "En sandwich", "sandwich-poisson": "Les recettes utilisées"}
 # nom du temps d'attente quand ce n'est pas un simple repos
 REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée", "poisson-frit": "Marinade", "sandwich-poisson": "Marinade", "tajine-poisson": "Marinade",
@@ -306,11 +322,12 @@ NOTE_FIXES = {
     "rghayef": {"oignons": ("émincés très finement", "à émincer très finement")},
     "tajine-agneau-pruneaux": {"oignons": ("hachés finement, ou râpés", "à hacher finement, ou à râper")},
     "rfissa-poulet": {"oignons": ("émincés finement", "à émincer finement")},
+    "taboule": {"tomates": ("rouges, mûres mais fermes", "bien rouge, mûre mais ferme, à choisir une à une")},
     "tajine-poulet-citron-olives": {"oignons": ("hachés finement", "à hacher finement"),
                                     "poulet": ("environ 1,5 kg, coupé en 4 à 6 morceaux", "environ 1,5 kg pièce, à couper en 4 à 6 morceaux")},
 }
 # Ingrédients qui se préparent entiers : quantité arrondie à l'unité supérieure (on grille un poivron entier, pas ¾)
-ROUND_UP = {"chakchouka": ["poivrons"]}
+ROUND_UP = {"chakchouka": ["poivrons"], "escalopes-poulet-panees": ["oeufs"]}  # un œuf entier pour paner, même pour 1
 def apres_verif(slug, r):
     """Ajouts faits après lecture des contre-vérifications, avec leur source."""
     for g in r["ingredients"]:
@@ -410,6 +427,34 @@ def apres_verif(slug, r):
                                "Ses deux recettes ont donc été retirées des sources ; la recette bolognaise reste citée d'après ses reprises (Dissapore, Il Giornale del Cibo). "
                                "Ce qui ne reposait que sur elles a été retiré : la variante au thon frais à la sicilienne, le thon « en gros morceaux », le persil « avec mesure » "
                                "et le thon « de qualité ».")
+
+    if slug == "taboule":
+        # Taste of Beirut n'a pu être relu à la contre-vérification (site fermé, copies d'archive non ouvertes) : on retire ce qui
+        # ne reposait que sur lui, et on garde ce que d'autres sources confirment (contre-vérification du 7 novembre 2026)
+        r["secrets"][1] = {"text": "Prends du boulgour fin, le n° 1 : c'est le plus fin, celui du taboulé.",
+                           "source": "Mama's Lebanese Kitchen (« fine cracked wheat #1 ») ; Hadia's Lebanese Cuisine ; recettelibanaise.com ; Libnanews"}
+        r["secrets"][8] = {"text": "Un bon taboulé se reconnaît à son goût bien citronné.", "source": "Mama's Lebanese Kitchen"}
+        assert r["secrets"][12]["text"].startswith("Joumana Accad précise ses quantités")
+        del r["secrets"][12]
+        rep(r["steps"][10], "text", "le taboulé doit être bien citronné, avec plus de goût de citron que d'huile.", "le taboulé doit être bien citronné.")
+        k = r["mistakes"].index("Prendre du gros boulgour, celui du pilaf (Taste of Beirut).")
+        r["mistakes"][k] = "Prendre du gros boulgour : il faut du boulgour fin n° 1 (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; recettelibanaise.com ; Libnanews)."
+        r["variants"] = [v for v in r["variants"] if not v.startswith("Boulgour trempé 5 minutes dans l'eau")]
+        r["unverified"].append("Retiré faute d'avoir pu relire Taste of Beirut à la contre-vérification (site fermé, copies d'archive non rouvertes) : "
+                               "« le gros boulgour sert au pilaf » (Wikipédia en anglais le dit plutôt pour les soupes), « plus de goût de citron que d'huile », "
+                               "ses quantités en tasses et en onces, et le boulgour trempé 5 minutes dans l'eau ou le jus des tomates.")
+    if slug == "bid-maticha":
+        # même règle que la contre-vérification pour le champ region : « de tous les jours » et « tout le Maroc » ne sont dans aucune source
+        rep(r, "tagline", "le plat marocain de tous les jours, à saucer avec du pain.", "un plat marocain que tout le monde sait cuisiner, à saucer avec du pain.")
+        rep(r, "region", "Tout le Maroc : un plat", "Maroc : un plat")
+    if slug == "salade-marocaine" and not any("hlada" in u for u in r["unverified"]):
+        r["unverified"].append("« Chlada » : transcription en lettres latines du nom arabe شلاضة ; aucune source lue ne l'écrit ainsi en lettres latines.")
+    if slug == "kefta-poele":
+        # seule source : Choumicha, que la contre-vérification n'a pas pu relire (site hors ligne, copies d'archive non rouvertes)
+        assert r["secrets"][10]["text"].startswith("Choumicha mixe d'abord les herbes")
+        del r["secrets"][10]
+        r["unverified"].append("Retiré faute d'avoir pu relire Choumicha à la contre-vérification : sa façon de mixer d'abord herbes, ail, oignon et épices "
+                               "en pâte avant de les travailler avec la viande (brochettes de viande hachée, n° 943).")
 
     if slug == "bissara":
         # mise en garde ajoutée par la contre-vérification (MedlinePlus ; OMS) : en encadré, en haut des ingrédients, pour qu'on la voie

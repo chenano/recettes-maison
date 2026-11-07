@@ -1,0 +1,193 @@
+{
+ "slug": "bid-maticha",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Cooking With Alia (Alia, cuisinière marocaine), « 894 – Fancy Chekchouka / شكشوكة », 30 avril 2021",
+   "url": "https://www.cookingwithalia.com/894-fancy-chekchouka/",
+   "ce_qu_elle_confirme": "Le geste de l'étape « Casse les œufs » : « Using a spoon, create little wells in the sauce, crack an egg in each well. Cover the skillet and cook for 3 to 5 minutes until the eggs are cooked through. » Sa chekchouka a du poivron vert (avec oignon, ail, tomate et une sauce du commerce), ce qui appuie la différence faite avec la chakchouka."
+  },
+  {
+   "name": "Anses, « Fiche de description de danger microbiologique transmissible par les aliments : Escherichia coli producteurs de shigatoxines (STEC) / entérohémorragiques (EHEC) », saisine 2024-MPEX-0031, juillet 2024",
+   "url": "https://www.anses.fr/sites/default/files/Fiche-EHEC-2024-MPEX-0031.pdf",
+   "ce_qu_elle_confirme": "Recommandation aux consommateurs : « Laver soigneusement, ou éplucher si possible les légumes, les fruits, légumes feuilles (salades verte, épinards), et les herbes aromatiques qui seront consommés crus » (persil et coriandre parsemés crus)."
+  },
+  {
+   "name": "FDA (États-Unis), « Selecting and Serving Produce Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely",
+   "ce_qu_elle_confirme": "Laver les végétaux sous l'eau courante, sans savon ni détergent, puis les sécher avec un torchon propre ou du papier absorbant (herbes mangées crues)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "darija",
+   "actuel": "Bid b'maticha (bid w maticha)",
+   "propose": "Bid w maticha",
+   "pourquoi": "Toutes les sources lues écrivent « w » (et) : titres de Hespress (16 octobre 2012, « وداعا \"البيض ومطيشة\" ») et de Lalla Moulati (29 décembre 2018, « البيض ومطيشة كولشي كيعرف يطيبو… »), Wikipedia EN (« bīḍ w-maṭiša », « œuf et tomate ») et Wikipédia AR (« بيض ومطيشة »). La forme « bid b'maticha » n'a été trouvée dans aucune source : la recherche interne de Lalla Moulati sur « بماطيشة » ne donne rien, et sur « بمطيشة » seulement d'autres plats (« لحم بمطيشة معسلة », https://www.lalamoulati.net/5128.html), ce qui montre que la tournure existe en darija mais pas qu'elle désigne ce plat. L'auteur le note lui-même dans « unverified ». Comme cette forme vient de la commande, l'utilisateur peut décider de la garder, mais elle reste non confirmée.",
+   "gravite": "majeure",
+   "sources": "https://www.hespress.com/%d9%88%d8%af%d8%a7%d8%b9%d8%a7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6-%d9%88%d9%85%d8%b7%d9%8a%d8%b4%d8%a9-104064.html ; https://www.lalamoulati.net/177424.html ; https://en.wikipedia.org/wiki/Shakshouka ; https://www.lalamoulati.net/?s=%D8%A8%D9%85%D8%A7%D8%B7%D9%8A%D8%B4%D8%A9"
+  },
+  {
+   "champ": "tagline",
+   "actuel": "le plat marocain de tous les jours, à saucer avec du pain.",
+   "propose": "le plat marocain de tous les jours, à saucer avec du pain. Faute de recette chiffrée de la version nature, les quantités sont reconstituées d'après Choumicha et des tajines de kefta aux œufs.",
+   "pourquoi": "Les quantités ne viennent d'aucune recette de bid w maticha nature : elles sont reconstituées à partir du tajine de tomates au khlii et aux œufs de Choumicha (sans le khlii) et des sauces de tajines de kefta aux œufs (My Moroccan Food, Cooking With Alia, Taste of Maroc), par médianes. La reconstruction est fondée (voir « verifie_sans_correction »), mais l'utilisateur demande que ce qui n'est pas confirmé soit dit, et l'accroche est le seul texte que tout le monde lit ; aujourd'hui, cette réserve n'apparaît que dans l'onglet Infos.",
+   "gravite": "majeure",
+   "sources": "Choumicha, copie archivée du 19 mai 2026 (https://web.archive.org/web/20260519164706/https://www.choumicha.ma/recette/1220-tajine-de-tomate-au-khlii-et-aux-oeufs.html) ; champ unverified[0] de la recette ; recherches internes de Lalla Moulati (« البيض بالطماطم », « البيض ومطيشة » : seule la version au four de 2018)"
+  },
+  {
+   "champ": "occasion",
+   "actuel": "Dîner vite fait des soirs de fatigue ; il se mange aussi au petit-déjeuner (Lalla Moulati, 2018).",
+   "propose": "Dîner vite fait, quand on ne sait pas quoi préparer (Hespress, 2012) ; il se mange aussi au petit-déjeuner (Lalla Moulati, 2018).",
+   "pourquoi": "« Soirs de fatigue » n'est écrit dans aucune source. Hespress (Fatima Zahra Zaim) dit que, pour échapper au casse-tête du dîner (« هروبا من التفكير في عقدة العشاء »), beaucoup de Marocaines se tournent vers ce plat ; Lalla Moulati (2018) dit qu'il se prépare au petit-déjeuner ou au dîner.",
+   "gravite": "mineure",
+   "sources": "https://www.hespress.com/%d9%88%d8%af%d8%a7%d8%b9%d8%a7-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6-%d9%88%d9%85%d8%b7%d9%8a%d8%b4%d8%a9-104064.html ; https://www.lalamoulati.net/177424.html"
+  },
+  {
+   "champ": "region",
+   "actuel": "un plat de tous les jours que tout le monde sait cuisiner (Lalla Moulati, 2018) et auquel les Marocains sont très attachés (Hespress, 2012).",
+   "propose": "un plat que tout le monde sait cuisiner (Lalla Moulati, 2018), courant chez les étudiants, les célibataires et les gens pressés, et auquel les Marocains sont très attachés (Hespress, 2012).",
+   "pourquoi": "Lalla Moulati (2018) ne dit pas « de tous les jours » : son titre dit que tout le monde sait le cuisiner, et son texte en fait un plat traditionnel facile. C'est Hespress (Latifa Baqa, 22 novembre 2012) qui le dit courant (« أكلات شائعة ») chez les étudiants, les célibataires, les pauvres et ceux qui manquent de temps.",
+   "gravite": "mineure",
+   "sources": "https://www.lalamoulati.net/177424.html ; https://www.hespress.com/%d8%a8%d9%8a%d8%b6-%d9%88%d8%b7%d9%85%d8%a7%d8%b7%d9%85-107470.html"
+  },
+  {
+   "champ": "steps[2].text",
+   "actuel": "Hache finement le persil et la coriandre, pour obtenir",
+   "propose": "Rince le persil et la coriandre sous l'eau courante, sèche-les, puis hache-les finement pour obtenir",
+   "pourquoi": "Les herbes sont parsemées crues à l'étape « Ajoute les herbes », mais aucune étape ne dit de les laver. L'Anses demande de laver soigneusement les herbes aromatiques qui seront mangées crues ; la FDA, de rincer les végétaux sous l'eau courante et de les sécher avec un torchon propre ou du papier absorbant.",
+   "gravite": "mineure",
+   "sources": "Anses, fiche EHEC, saisine 2024-MPEX-0031, juillet 2024 (https://www.anses.fr/sites/default/files/Fiche-EHEC-2024-MPEX-0031.pdf) ; FDA, Selecting and Serving Produce Safely, contenu à jour au 5 mars 2024 (https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)"
+  },
+  {
+   "champ": "steps[7].text",
+   "actuel": "Casse doucement {{oeufs:full}} dans les creux, sans crever de jaune.",
+   "propose": "Casse doucement un œuf dans chaque creux, sans crever le jaune ({{oeufs:full}} en tout).",
+   "pourquoi": "Rendu dans l'appli pour 1 personne : « Casse doucement 1 œuf dans les creux », pluriel faux. Le texte proposé donne « (1 œuf en tout) », « (4 œufs en tout) » et « (8 œufs en tout) » (rendu vérifié avec le code de app.html).",
+   "gravite": "mineure",
+   "sources": "Code de rendu de app.html (fonctions fill et fmtQ) ; Cooking With Alia, 894 (« create little wells in the sauce, crack an egg in each well »)"
+  },
+  {
+   "champ": "steps[8].tip",
+   "actuel": "Jeunes enfants, femmes enceintes, personnes âgées ou fragiles : pas d'œuf peu cuit. Laisse à couvert jusqu'à ce que le jaune soit ferme (Anses ; FDA).",
+   "propose": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Pour les jeunes enfants, les femmes enceintes, les personnes âgées ou fragiles, jamais d'œuf peu cuit : laisse à couvert jusqu'à ce que le jaune soit ferme (Anses ; FDA).",
+   "pourquoi": "La FDA ne réserve pas ce conseil aux personnes fragiles : elle écrit « Cook eggs until both the yolk and the white are firm » pour tout le monde, et cite les enfants, les personnes âgées, les femmes enceintes et les personnes immunodéprimées comme les plus exposés à une forme grave. L'Anses recommande aux personnes âgées, immunodéprimées, aux jeunes enfants et aux femmes enceintes de ne pas consommer d'œufs crus ou peu cuits. Le texte actuel attribue à la FDA une règle plus étroite que la sienne, alors que la recette vise un jaune coulant. Même correction déjà faite sur la chakchouka.",
+   "gravite": "majeure",
+   "sources": "FDA, What You Need to Know About Egg Safety, contenu à jour au 5 mars 2024 (https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety ; relu par l'outil de lecture web et sur la copie web.archive.org du 20 octobre 2026) ; Anses, fiche Salmonella spp., saisine 2016-SA-0080, mise à jour de juin 2021 (https://www.anses.fr/system/files/BIORISK2016SA0080Fi.pdf)"
+  },
+  {
+   "champ": "secrets[7].text",
+   "actuel": "Le couvercle cuit le dessus des œufs : 4 à 5 minutes pour un blanc pris et un jaune encore coulant.",
+   "propose": "À couvert, compte 4 à 5 minutes pour un blanc pris et un jaune encore coulant.",
+   "pourquoi": "« Le couvercle cuit le dessus des œufs » n'est écrit dans aucune source. My Moroccan Food : « Cover with a lid until the eggs are poached; egg white set and yolk still runny (4 to 5 minutes) » ; Cooking With Alia (023) : à couvert, 5 minutes ; Choumicha : 3 à 4 minutes jusqu'à ce que le blanc prenne.",
+   "gravite": "mineure",
+   "sources": "https://www.mymoroccanfood.com/home/kefta-meatballs-and-eggs-tagine-shakshuka ; https://www.cookingwithalia.com/tajine-of-kefta-with-eggs/ ; copie archivée de Choumicha (recette 1220)"
+  },
+  {
+   "champ": "secrets[10].text",
+   "actuel": "Ce n'est pas la chakchouka : ici, pas de poivrons, seulement des tomates, de l'ail, des épices et des œufs.",
+   "propose": "Au Maroc, la chakchouka se fait souvent avec du poivron vert. Ici, pas de poivrons : seulement des tomates, de l'ail, des épices et des œufs.",
+   "pourquoi": "L'affirmation « ce n'est pas la chakchouka » est contredite par deux sources : Lalla Moulati (10 novembre 2014), citée à l'appui, appelle justement « الشكشوكة » une version sans poivrons (oignon, tomates, œufs brouillés ; « فلفل اسود » y est du poivre noir), et Wikipédia AR écrit qu'au Maroc la chakchouka s'appelle « بيض ومطيشة ». Ce qui est sourcé, c'est que la chakchouka marocaine se fait souvent avec du poivron vert (Wikipédia FR, section Maroc ; Cooking With Alia, chekchouka 894). Le texte proposé garde la distinction de l'appli sans affirmer plus que les sources.",
+   "gravite": "majeure",
+   "sources": "https://www.lalamoulati.net/2386.html ; https://ar.wikipedia.org/wiki/%D8%B4%D9%83%D8%B4%D9%88%D9%83%D8%A9 ; https://fr.wikipedia.org/wiki/Chakchouka ; https://www.cookingwithalia.com/894-fancy-chekchouka/"
+  },
+  {
+   "champ": "secrets[10].source",
+   "actuel": "Choumicha et Lalla Moulati (2014), recettes sans poivrons ; Wikipédia FR (Chakchouka, section Maroc : avec poivron vert)",
+   "propose": "Wikipédia FR (Chakchouka, section Maroc : avec poivron vert) ; Cooking With Alia (chekchouka au poivron vert) ; Choumicha (tajine de tomates aux œufs, sans poivrons)",
+   "pourquoi": "Lalla Moulati (2014) n'appuie pas ce secret : c'est une « chakchouka » sans poivrons, donc un contre-exemple. Elle reste citée dans les écarts (discrepancies[8]).",
+   "gravite": "mineure",
+   "sources": "https://www.lalamoulati.net/2386.html ; https://www.cookingwithalia.com/894-fancy-chekchouka/"
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "Lalla Moulati (2014) appelle « الشكشوكة » une version aux œufs brouillés et à l'oignon, sans poivrons.",
+   "propose": "Lalla Moulati (2014) appelle « الشكشوكة » une version aux œufs brouillés et à l'oignon, sans poivrons, et Wikipédia AR écrit qu'au Maroc la chakchouka s'appelle « بيض ومطيشة » : la frontière entre les deux noms n'est pas nette. L'appli réserve « chakchouka » à la version aux poivrons, la plus citée au Maroc (Wikipédia FR ; Cooking With Alia).",
+   "pourquoi": "Wikipédia AR (« في المغرب ، يشار إليها باسم بيض ومطيشة », référence Hespress 2012) manquait dans cet écart sur les noms.",
+   "gravite": "mineure",
+   "sources": "https://ar.wikipedia.org/wiki/%D8%B4%D9%83%D8%B4%D9%88%D9%83%D8%A9"
+  },
+  {
+   "champ": "steps[10].tip",
+   "actuel": "Choumicha, Cooking With Alia et Taste of Maroc le servent avec du thé à la menthe.",
+   "propose": "Choumicha sert son tajine de tomates aux œufs avec du thé à la menthe, comme Cooking With Alia et Taste of Maroc leurs tajines de kefta.",
+   "pourquoi": "Cooking With Alia (023) et Taste of Maroc proposent le thé à la menthe avec leurs tajines de kefta, pas avec ce plat ; seule Choumicha le propose avec un tajine de tomates aux œufs (au khlii).",
+   "gravite": "mineure",
+   "sources": "Choumicha, recette 1220 (copie archivée) ; https://www.cookingwithalia.com/tajine-of-kefta-with-eggs/ ; https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/"
+  },
+  {
+   "champ": "serving",
+   "actuel": "Choumicha, Cooking With Alia et Taste of Maroc proposent du thé à la menthe à côté.",
+   "propose": "Choumicha propose du thé à la menthe à côté, comme Cooking With Alia et Taste of Maroc avec leurs tajines de kefta.",
+   "pourquoi": "Même raison qu'à l'étape « Sers aussitôt » : Cooking With Alia et Taste of Maroc parlent de leurs tajines de kefta.",
+   "gravite": "mineure",
+   "sources": "Choumicha, recette 1220 (copie archivée) ; https://www.cookingwithalia.com/tajine-of-kefta-with-eggs/ ; https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/"
+  },
+  {
+   "champ": "variants[6]",
+   "actuel": "garnies de blanc d'œuf battu avec de l'oignon, du persil et des épices, puis du jaune, et cuites au four ou sur la braise.",
+   "propose": "garnies de blanc d'œuf mélangé à de l'oignon, du persil et des épices, puis du jaune et du reste du mélange, et cuites au four ou sur la braise.",
+   "pourquoi": "Lalla Moulati écrit « نخلط البياض مع البصل و المعدنوس و التوابل » (on mélange le blanc, sans parler de le battre) puis met le jaune et « باقي الخليط » (le reste du mélange) par-dessus. Le fromage, facultatif chez elle, n'est pas repris : pas de question de présure.",
+   "gravite": "mineure",
+   "sources": "https://www.lalamoulati.net/177424.html"
+  },
+  {
+   "champ": "sources[9].name",
+   "actuel": "le site renvoie une erreur 403 aux robots, son robots.txt autorise tout",
+   "propose": "page relue aussi en direct le 7 novembre 2026, contenu identique ; son robots.txt autorise tout",
+   "pourquoi": "Le 7 novembre 2026, la page répondait en direct (code 200, par curl et par l'outil de lecture web), avec le même contenu que la copie archivée (dateModified 2021-12-20). L'erreur 403 notée par l'auteur ne se reproduit plus.",
+   "gravite": "mineure",
+   "sources": "https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/ ; https://tasteofmaroc.com/robots.txt"
+  },
+  {
+   "champ": "sources[9].used_for",
+   "actuel": "Sauce pour 4 : 2 lb (907 g) de tomates mûres, 4 gousses d'ail,",
+   "propose": "Sauce pour 4 : 2 lb (907 g) de tomates mûres, 1 oignon moyen, 1 petit poivron vert, 1 feuille de laurier, 4 gousses d'ail,",
+   "pourquoi": "La sauce de Taste of Maroc contient aussi un oignon, un petit poivron vert et une feuille de laurier ; le résumé les omettait, alors que la recette s'appuie sur ses proportions et affirme « pas de poivrons ».",
+   "gravite": "mineure",
+   "sources": "https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/"
+  },
+  {
+   "champ": "unverified[8]",
+   "actuel": "Taste of Maroc renvoie une erreur 403 (pare-feu) aux robots alors que son robots.txt autorise tout : la page a été lue sur sa copie web.archive.org, comme le demandaient les consignes.",
+   "propose": "Taste of Maroc a renvoyé une erreur 403 (pare-feu) lors de la recherche alors que son robots.txt autorise tout : la page a été lue sur sa copie web.archive.org. À la contre-vérification (7 novembre 2026), elle répondait en direct, avec le même contenu.",
+   "pourquoi": "Même constat que pour le nom de la source Taste of Maroc.",
+   "gravite": "mineure",
+   "sources": "https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/"
+  },
+  {
+   "champ": "discrepancies[7]",
+   "actuel": "Retenu un peu des deux, ajoutés à la fin comme chez Choumicha.",
+   "propose": "Retenu un peu des deux, parsemés au service comme chez My Moroccan Food (coriandre) et Taste of Maroc (persil ou coriandre) ; Choumicha, elle, met son persil avec les œufs, 3 à 4 minutes avant la fin.",
+   "pourquoi": "Choumicha ajoute le persil avec les œufs et le fait cuire 3 à 4 minutes ; ce sont My Moroccan Food et Taste of Maroc qui parsèment les herbes au service, comme la recette.",
+   "gravite": "mineure",
+   "sources": "Choumicha, recette 1220 (copie archivée) ; https://www.mymoroccanfood.com/home/kefta-meatballs-and-eggs-tagine-shakshuka ; https://tasteofmaroc.com/moroccan-meatball-tagine-tomato-sauce/"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Avis sur la reconstruction des quantités : fondée. Aucune recette chiffrée du bid w maticha nature n'a été trouvée (recherches internes de Lalla Moulati sur « البيض بالطماطم » et « البيض ومطيشة » : seulement la version au four de 2018 ; la recherche de Hespress ne s'affiche pas sans JavaScript). Le plat lui-même est bien attesté (Hespress 2012, deux articles ; Lalla Moulati 2018 ; Wikipedia EN et AR). La méthode suit le seul plat tomates-œufs marocain chiffré, celui de Choumicha (rondelles, à couvert 10 à 15 min, œufs jusqu'à ce que le blanc prenne), sans l'étape du khlii, et les quantités tombent dans la fourchette des sources, recalculées avec python3 -I : tomates 738 g contre une médiane de 761 g (696 g si l'on prend la boîte de 400 g que My Moroccan Food donne comme équivalent) ; sel 0,6 / 1,11 / 1,22 c. à c. (médiane 1,11), cumin 0,5 / 1,11 / 1,2 / 1,22 (1,15), paprika 1,0 / 1,11 / 1,2 / 1,22 (1,15), poivre 0,2 / 0,3 (0,25), ramenés à 738 g ; huile 2 c. à s. (médiane de 2, 2, 2 et 4) ; ail 0,5 gousse par personne (médiane), soit 2 ; un œuf par personne dans les quatre recettes. Limites : les sauces de kefta mijotent 20 à 60 min et assaisonnent aussi la viande, et la sauce de Taste of Maroc contient oignon et poivron ; les épices par tomate peuvent donc être un peu fortes pour un plat de 20 minutes, d'où « à ajuster en goûtant ». C'est une reconstruction honnête, pas une recette trouvée : à dire dans l'accroche (correction proposée).",
+  "robots.txt relus le 7 novembre 2026 : Hespress (User-agent: * sans interdiction), Lalla Moulati (interdit seulement /wp-admin/, /wp-includes/, /fr/… ; la recherche ?s= est permise), My Moroccan Food (ClaudeBot, anthropic-ai et * dans le même groupe : seuls /search, /api/, /config… interdits ; les recettes /home/… sont permises), Cooking With Alia et Taste of Maroc (tout permis), Anses (/search/ interdit seulement), FDA (lu par l'outil de lecture web : délai de 30 s, /food/ permis), Wikipédia (aucune règle pour Claude ; /wiki/ permis). Yabiladi (ClaudeBot : Disallow: /) et Al-Quds al-Arabi (ClaudeBot, Claude-SearchBot, anthropic-ai : Disallow: /) n'ont pas été utilisés, comme chez l'auteur.",
+  "Liens : les 19 adresses des sources répondent (code 200), dont les deux copies d'archive de Choumicha ; la FDA a renvoyé curl vers sa page anti-abus, sa page a donc été lue par l'outil de lecture web et sur sa copie web.archive.org du 20 octobre 2026 ; l'API USDA (fiche 170457) répond avec DEMO_KEY ; la page About de Cooking With Alia répond, celle de Taste of Maroc a été lue en direct (l'adresse d'archive citée dans used_for n'a pas été rouverte).",
+  "Choumicha, recette 1220 (copie du 19 mai 2026) et version arabe 1221 (copie du 15 novembre 2015) : 6 personnes ; 4 belles tomates (« 4 حبات طماطم »), 1 gousse d'ail, 3 c. à s. d'huile d'olive, 180 g de khlii dégraissé, 6 œufs, persil, sel et cumin ; tomates en rondelles salées dans un tajine sur feu doux, à couvert 10 à 15 min ; khlii et cumin 5 min ; œufs et persil 3 à 4 min jusqu'à ce que le blanc prenne ; servi très chaud avec du thé à la menthe ; cuisson 20 min, temps total 50 min.",
+  "My Moroccan Food, KEFTA Meatballs and Eggs Tagine (publiée le 31 mars 2015, modifiée le 9 août 2023) : pour 4, 2 c. à s. d'huile d'olive, 2 gousses d'ail, 5 tomates mûres ou une boîte de 400 g, 1 c. à s. de persil, 1 c. à c. de cumin, 1 c. à c. de paprika, ½ c. à c. de sel, ¼ c. à c. de poivre noir, une pincée de Cayenne, 4 œufs, 1 c. à c. de coriandre en garniture ; feu moyen, ébullition, couvercle, feu doux environ 25 min ; « Make some room for the eggs », à couvert 4 à 5 min, blanc pris et jaune coulant ; servi aussitôt avec du pain.",
+  "Cooking With Alia : 372 (plan du site : 31 octobre 2016) donne 1 kg de tomates râpées (peau jetée), 2 c. à s. d'huile d'olive, ¼ d'oignon, 2 gousses d'ail, 1½ c. à c. de paprika, de cumin et de sel, ½ c. à c. de piment, 3 c. à s. de coriandre, 4 gros œufs, 20 à 25 min à feu moyen en remuant à la cuillère en bois ; la page ne donne ni le nombre de parts ni l'étape des œufs. 023 (plan du site : 25 février 2015) : 3 tomates râpées, ½ c. à c. de paprika, ¼ c. à c. de cumin, 3 œufs à couvert 5 minutes, servi avec du pain et du thé à la menthe.",
+  "Taste of Maroc (publiée le 3 février 2018, modifiée le 20 décembre 2021 ; page en direct et copie du 16 juillet 2026 identiques) : pour 4, 2 lb de tomates mûres, ¼ de tasse d'huile (4 c. à s.), 4 gousses d'ail, 1,5 c. à c. de paprika, de cumin et de sel, ¼ c. à c. de poivre, Cayenne ou 2 piments facultatifs, 2 c. à s. de persil et 2 de coriandre, 4 œufs « free range or beldi » ; ne pas brûler l'ail ; écraser les tomates au dos d'une cuillère ; temps de sauce très variable selon les tomates et le récipient ; tomates râpées un peu plus rapides ; œufs posés sans crever les jaunes, à couvert jusqu'à ce que les blancs soient fermes ; diffuseur sous le tajine hors gaz ; repas pris en commun avec du pain et du thé à la menthe.",
+  "Hespress, Fatima Zahra Zaim, mardi 16 octobre 2012 : « وهروبا من التفكير في عقدة العشاء، كانت الكثير من المغربيات يلجأن للبيض ومطيشة » et les productions télévisées marocaines « تؤكد العلاقة القوية التي تربط المغاربة بالبيض ومطيشة » ; « séries » traduit « الأعمال التلفزيونية » de façon acceptable. Hespress, Latifa Baqa, jeudi 22 novembre 2012 : « BM », repas rapide « تكاد أن تكون بلا مقادير », cuisiné entre deux cours (secrets[1] et [2], occasion).",
+  "Lalla Moulati, 29 décembre 2018 (titre : tout le monde sait le cuisiner ; texte : plat traditionnel facile, au petit-déjeuner ou au dîner, façons de faire qui changent selon les endroits ; version au four ou sur la braise) et 10 novembre 2014 (« الشكشوكة » : oignon revenu, tomates, œufs battus remués jusqu'à cuisson, sel et poivre à la fin) : secrets[0] et variantes[0] et [1] conformes.",
+  "Wikipedia EN (« In Morocco, there is a dish referred to as bīḍ w-maṭiša », références Hespress 2012 et Al-Quds 2023), Wikipédia AR (« في المغرب ، يشار إليها باسم بيض ومطيشة ») et Wikipédia FR (Maghreb : oignons et tomates avec œufs brouillés ou cuits à la surface, ail possible à la place des oignons ; section Maroc : poivron vert, relevé à l'ail) : conformes à ce que l'auteur leur attribue.",
+  "Nom arabe « البيض ومطيشة » : titres de Hespress (2012) et de Lalla Moulati (2018), Wikipédia AR et EN (« بيض ومطيشة »). Lalla Moulati et Hespress écrivent aussi « البيض بالطماطم ».",
+  "Sécurité des œufs : Anses, fiche Salmonella (juin 2021) : « Les œufs ne doivent en aucun cas être lavés avant d'être stockés, le lavage permettant la pénétration des micro-organismes », les garder « toujours à la même température », et pas d'œufs crus ou peu cuits pour les personnes âgées, immunodéprimées, les jeunes enfants et les femmes enceintes ; Anses, 27 octobre 2025 (mêmes conseils) et 11 mai 2026 (œufs bien cuits pour ces publics ; pas plus de deux heures avant réfrigération ; portions plus petites ; 0 à 4 °C). FDA : « Refrigerate leftover cooked egg dishes and use within 3 to 4 days », « several shallow containers », « thoroughly reheated to 165° F », jamais plus de 2 heures hors du réfrigérateur. 165 °F = 73,89 °C, soit 74 °C (python3 -I). secrets[11] et [12], mistakes[2] à [4] conformes.",
+  "Halal : tomates, ail, huile d'olive, épices, œufs, herbes et pain ; ni porc ni alcool ; pas de fromage ; la variante au khlii demande un khlii de viande halal.",
+  "Cohérence : minuteur de 5 min = « environ 5 minutes » du texte ; chaque ingrédient de la liste sert dans une étape ; temps 10 + 20 + 0 = 30 min, donc « Rapide » tout juste ; la cuisson de 20 min est celle que Choumicha annonce pour sa propre suite d'étapes (10 à 15 + 5 + 3 à 4 min, soit 18 à 24 min).",
+  "Rendu vérifié avec le code de app.html (fonctions fill, fmtQ, itemName) pour 1, 4 et 8 personnes : 1½ / 6 / 12 tomates moyennes, ½ / 2 / 4 gousses d'ail, ½ / 2 / 4 c. à s. d'huile, ¼ / 1 / 2 c. à c. de sel, de cumin et de paprika, ⅛ / ¼ / ½ c. à c. de poivre, 1 / 4 / 8 œufs, ¼ / 1 / 2 c. à s. de persil et de coriandre, « pain (khobz) » quand q est null. Seul défaut : « 1 œuf dans les creux » pour 1 personne (correction proposée ; texte corrigé rendu « (1 œuf en tout) », « (4 œufs en tout) », « (8 œufs en tout) »).",
+  "Variantes : khlii (Choumicha), Cayenne (My Moroccan Food) ou piments (Taste of Maroc), sauce mijotée 20 à 25 min (Cooking With Alia 372) et renvois vers le tajine de kefta aux œufs et la chakchouka, deux recettes présentes dans l'appli (recettes/tajine-kefta-oeufs.js, recettes/chakchouka.js) : conformes.",
+  "Pages « About » : Nargisse Benkabbou élevée à Bruxelles dans une famille marocaine, cheffe exécutive de L'Mida Marrakech ; Alia, la cuisine marocaine de son enfance ; Christine Benlafquih, experte cuisine marocaine d'About.com de 2008 à 2016, installée à Casablanca."
+ ],
+ "non_verifiable": [
+  "Temps de préparation de 10 min : aucune source ne le donne pour ce plat. Choumicha annonce 50 min au total pour 20 min de cuisson (avec le khlii à dégraisser). Avec 15 min de tomates plus la montée à ébullition, la cuisson dépasse 20 min et le total 30 min : la catégorie « Rapide » tient seulement dans le bas de la fourchette.",
+  "Poids des « belles tomates » de Choumicha (182 g, grosse tomate USDA) et des 5 tomates de My Moroccan Food (123 g) : hypothèses ; My Moroccan Food donne aussi une boîte de 400 g comme équivalent. Le nombre de parts de Cooking With Alia 372 n'est pas indiqué (4 œufs).",
+  "Forme « bid b'maticha » : introuvable dans les sources lues (voir la correction du champ darija). La légende de photo d'outils/integrer.py, « Bayd o matisha », hors du fichier vérifié, n'a pas non plus été trouvée sous cette graphie.",
+  "Al-Quds al-Arabi (12 février 2023) : non lu, son robots.txt interdit ClaudeBot, Claude-SearchBot et anthropic-ai.",
+  "Quota de recherche web épuisé : impossible de chercher une recette chiffrée de la version nature sur d'autres sites marocains (Chhiwat, Le360, Femmes du Maroc, Bladi) ; la recherche interne de Hespress ne renvoie rien sans JavaScript ; seules les recherches internes de Lalla Moulati ont pu être faites. Le réseau a ensuite été très lent (web.archive.org et l'API USDA sans réponse pendant plusieurs heures)."
+ ]
+}

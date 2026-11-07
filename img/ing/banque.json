@@ -76,6 +76,17 @@
   "file": "beurre.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "blanc-poulet": {
+  "title": "Raw chicken slices.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Raw_chicken_slices.jpg",
+  "author": "kakyusei",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Blancs de poulet",
+  "aisle": "Boucherie et volaille",
+  "file": "blanc-poulet.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "boeuf": {
   "title": "Standing-rib-roast.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Standing-rib-roast.jpg",
@@ -102,6 +113,28 @@
   "label": "Bouillon de la marmite",
   "aisle": "",
   "skip": true
+ },
+ "bouillon-volaille": {
+  "title": "Making Chicken Broth 2",
+  "page": "https://www.flickr.com/photos/32123311@N00/2115213519",
+  "author": "jbloom",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "label": "Bouillon de volaille halal",
+  "aisle": "Épicerie",
+  "file": "bouillon-volaille.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "boulgour": {
+  "title": "Bulgur pattern.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bulgur_pattern.jpg",
+  "author": "VSerebrenikov",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Boulgour",
+  "aisle": "Épicerie",
+  "file": "boulgour.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "cannelle": {
   "title": "Cinnamomum verum spices.jpg",
@@ -146,6 +179,28 @@
   "aisle": "Herbes fraîches",
   "file": "cerfeuil.jpg",
   "modified": "recadrée en carré et réduite"
+ },
+ "champignons": {
+  "title": "WHITE MUSHROOM.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:WHITE_MUSHROOM.jpg",
+  "author": "Dinkun Chen",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Champignons de Paris",
+  "aisle": "Fruits et légumes",
+  "file": "champignons.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "chapelure": {
+  "title": "Breadcrumb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Breadcrumb.jpg",
+  "author": "Yvwv",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Chapelure",
+  "aisle": "Épicerie",
+  "file": "chapelure.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
  },
  "cheddar": {
   "title": "White cheddar cheese sliced CNE.jpg",
@@ -213,6 +268,17 @@
   "file": "concentre-tomate.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "concombre": {
+  "title": "Mediterranean cucumber.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Mediterranean_cucumber.JPG",
+  "author": "user:WLU",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Concombre",
+  "aisle": "Fruits et légumes",
+  "file": "concombre.jpg",
+  "modified": "recadrée en carré et réduite, zoomée"
+ },
  "confiture": {
   "title": "A jar of her own (6028540280).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:A_jar_of_her_own_(6028540280).jpg",
@@ -277,6 +343,17 @@
   "label": "Couscous",
   "aisle": "Épicerie",
   "file": "couscous.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "creme-fraiche": {
+  "title": "Crème d'Isigny 2.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_d%27Isigny_2.JPG",
+  "author": "Patafisik",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Crème fraîche",
+  "aisle": "Crèmerie et œufs",
+  "file": "creme-fraiche.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "cumin": {
@@ -778,6 +855,17 @@
  "piment-flocons": {
   "label": "Piment en flocons",
   "aisle": "Épices"
+ },
+ "piment-jamaique": {
+  "title": "WholeAllspice.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:WholeAllspice.JPG",
+  "author": "Jonathunder",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Piment de la Jamaïque",
+  "aisle": "Épices",
+  "file": "piment-jamaique.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "piment-vert": {
   "title": "Green chili peppers.jpg",

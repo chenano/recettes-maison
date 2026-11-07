@@ -1,0 +1,180 @@
+{
+ "slug": "kefta-poele",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Taste of Maroc (Christine Benlafquih), « Moroccan Kefta Recipe - Ground Beef or Lamb Kebabs », 8 août 2017, mis à jour le 11 décembre 2019",
+   "url": "https://tasteofmaroc.com/moroccan-kefta-recipe/",
+   "ce_qu_elle_confirme": "Lue le 7 novembre 2026 : la page a répondu normalement (code 200) et le robots.txt du site n'interdit rien (l'auteur avait reçu un refus 403 le même jour). « Kefta » est le mot de l'arabe marocain pour la viande hachée ; chez la plupart des bouchers marocains, la viande est hachée à la demande avec les herbes, les épices et de la graisse, et parfois grillée tout à côté pour être mangée sur place. Pour 4 : 1 lb (454 g) de bœuf, d'agneau ou des deux, plus 4 à 5 oz (113 à 142 g) de graisse de rognon, 1 oignon moyen haché ou râpé, ¼ de tasse de persil et ¼ de tasse de coriandre, menthe facultative, 2 c. à c. de paprika doux, 1 de cumin, 1 de sel, ¼ de poivre noir, Cayenne facultatif ; ni œuf ni chapelure. Le même mélange se façonne en galettes pour la poêle : petites et fines, elles cuisent vite (aucune durée chiffrée). Mains trempées dans un peu d'eau pour que la viande ne colle pas. Au gril, plusieurs minutes de chaque côté, jusqu'à ce qu'elle soit cuite à cœur mais encore juteuse ; au Maroc, on la préfère peu ou pas rosée, sans la dessécher. Servie dans du pain marocain avec une salade de tomates et d'oignon. Préparation 20 min, cuisson 10 min."
+  },
+  {
+   "name": "Taste of Maroc (Nada Kiffa), « Moroccan Kefta dyal Gharb Recipe - Kefta dyal L'ham », 23 août 2017",
+   "url": "https://tasteofmaroc.com/kefta-dyal-gharb-recipe/",
+   "ce_qu_elle_confirme": "Recette de famille de Nada Kiffa, née à Casablanca dans une famille de Fès (encadré de l'autrice) : la kefta du Gharb (Khemisset, Boufekrane), au nord-ouest du Maroc ; lue le 7 novembre 2026 : mains mouillées pour façonner, car elles deviennent collantes ; pour le gril, mini-burgers d'environ 2 pouces (5,1 cm) de large et pas plus de 1/3 de pouce (0,85 cm) d'épaisseur, ou doigts d'environ 10 cm sur 1,3 cm ; au moins 25 % de gras ; bœuf, veau ou agneau, seuls ou mêlés ; marjolaine séchée, cumin, paprika, piment de Cayenne ; quelques minutes de chaque côté au gril, bien cuite mais juteuse ; toujours servie avec du pain, un thé marocain chaud et des salades, dont une salade de tomates et de concombre hachés fin ; chez les bouchers-grilleurs, on choisit la viande crue et on la fait griller sur place, avec thé et salade. Pour 6 : 1,65 lb (748 g) de viande et 8,8 oz (250 g) de graisse de rognon (conversions python3 -I)."
+  },
+  {
+   "name": "Taste of Maroc, page « About »",
+   "url": "https://tasteofmaroc.com/about/",
+   "ce_qu_elle_confirme": "Christine Benlafquih, qui a fondé le site, a élevé ses six enfants au Maroc, à Casablanca, et a été l'experte de la cuisine marocaine d'About.com de 2008 à 2016 ; Nada Kiffa écrit aussi pour le site."
+  },
+  {
+   "name": "Wikipédia (arabe), « كفتة »",
+   "url": "https://ar.wikipedia.org/wiki/%D9%83%D9%81%D8%AA%D8%A9",
+   "ce_qu_elle_confirme": "Nom arabe « كفتة » (titre de l'article), comme chez Cooking With Alia (« كفتة مشوية ») et Lalla Moulati (« الكفتة »)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[0].text",
+   "actuel": "Épluche {{oignon:full}} et râpe-le dans un bol.",
+   "propose": "Épluche {{oignon:full}}, puis râpe l'oignon dans un bol.",
+   "pourquoi": "Accord au-delà de 8 personnes : l'appli va jusqu'à 16 parts ; pour 12, elle affiche « Épluche 1½ oignons moyens et râpe-le », pour 16 « Épluche 2 oignons moyens et râpe-le » (simulation avec le code d'app.html exécuté par node). Le texte proposé se lit bien pour 1 (« ¼ oignon moyen »), 4, 8, 12 et 16 personnes.",
+   "gravite": "mineure",
+   "sources": "Simulation du rendu (fonctions fmtQ et fill d'app.html, exécutées par node)."
+  },
+  {
+   "champ": "ingredients[0].items[1].note",
+   "actuel": "râpé, puis pressé pour enlever son jus",
+   "propose": "à râper, puis à presser pour enlever le jus",
+   "pourquoi": "Pour 12 et 16 personnes, la liste affiche « 1½ oignons moyens » ou « 2 oignons moyens » suivis de la note au singulier. À l'infinitif, la note reste juste pour toutes les quantités ; c'est la règle déjà suivie dans outils/integrer.py (NOTE_FIXES : « râpé » devient « à râper » pour les lentilles et la loubia).",
+   "gravite": "mineure",
+   "sources": "Simulation du rendu ; outils/integrer.py (NOTE_FIXES)."
+  },
+  {
+   "champ": "ingredients[0].items[4].note",
+   "actuel": "hachées",
+   "propose": "à hacher",
+   "pourquoi": "Pour 1 personne, la liste affiche « 1 grande feuille de menthe » avec la note au pluriel « hachées ». « à hacher » convient au singulier comme au pluriel (même règle que NOTE_FIXES).",
+   "gravite": "mineure",
+   "sources": "Simulation du rendu ; outils/integrer.py (NOTE_FIXES)."
+  },
+  {
+   "champ": "steps[2].text",
+   "actuel": "{{poivre}} de poivre et {{piment}} de piment de Cayenne.",
+   "propose": "{{poivre}} de poivre et, si tu veux, {{piment}} de piment de Cayenne.",
+   "pourquoi": "Cohérence : la liste dit le piment de Cayenne « facultatif », mais l'étape le rend obligatoire. Les sources vont dans le sens de la liste : Taste of Maroc le marque facultatif, Cooking With Alia n'en met pas, My Moroccan Food en met une pincée. Rendu pour 4 : « ½ c. à c. de poivre et, si tu veux, 1 pincée de piment de Cayenne ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (Christine Benlafquih) ; Cooking With Alia n° 664 et n° 453 ; My Moroccan Food ; simulation du rendu."
+  },
+  {
+   "champ": "steps[4].text",
+   "actuel": "aplatis-la légèrement entre tes paumes. Fais toutes les galettes de la même taille.",
+   "propose": "aplatis-la entre tes paumes en une petite galette fine, de moins de 1 cm d'épaisseur. Fais-les toutes de la même taille : fines, elles cuisent vite à la poêle.",
+   "pourquoi": "Sans minuteur, la forme est le seul repère pour cuire la kefta à cœur sans la dessécher. Pour la poêle, Taste of Maroc conseille des galettes petites et fines, qui cuisent vite ; Nada Kiffa (Taste of Maroc) fait pour le gril des mini-burgers d'environ 5 cm de large et de 1/3 de pouce au plus, soit 0,85 cm d'épaisseur (conversion python3 -I). La recette dit déjà, d'après Cooking With Alia, qu'une galette épaisse demande bien plus longtemps (8 minutes par côté pour de gros burgers) : « légèrement aplatie », une boulette reste épaisse.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc : « Moroccan Kefta Recipe » (Christine Benlafquih, notes) et « Kefta dyal Gharb » (Nada Kiffa) ; Cooking With Alia n° 182 ; conversion python3 -I (2 po = 5,08 cm ; 1/3 po = 0,85 cm)."
+  },
+  {
+   "champ": "steps[4].tip",
+   "actuel": "Alia façonne la kefta les mains mouillées (sa recette publiée par Femmes du Maroc).",
+   "propose": "Mouille-toi les mains pour façonner : la viande colle moins (Taste of Maroc, Christine Benlafquih et Nada Kiffa ; Alia Al Kasimi, dans sa recette publiée par Femmes du Maroc).",
+   "pourquoi": "L'auteur n'avait trouvé ce geste que chez Alia. Taste of Maroc le conseille deux fois, avec sa raison : tremper les mains dans un peu d'eau empêche la kefta de coller (Christine Benlafquih) ; les mains deviennent collantes, les mouiller aide à façonner (Nada Kiffa). Le geste est donc confirmé par deux sources indépendantes de plus.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (deux recettes) ; Femmes du Maroc, 8 septembre 2016."
+  },
+  {
+   "champ": "unverified[5]",
+   "actuel": "vu seulement dans la recette d'Alia (Femmes du Maroc) ; laissé en astuce attribuée.",
+   "propose": "l'auteur ne l'avait vu que dans la recette d'Alia (Femmes du Maroc) ; la contre-vérification l'a trouvé aussi chez Taste of Maroc (Christine Benlafquih ; Nada Kiffa).",
+   "pourquoi": "Suite de la correction de steps[4].tip : l'appli affiche cette ligne sous « Non vérifié, donc laissé de côté », ce qui ne serait plus exact tel quel.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (deux recettes)."
+  },
+  {
+   "champ": "unverified[6]",
+   "actuel": "aucune source marocaine ne les chiffre (Mama's Lebanese Kitchen, libanaise, fait des galettes de 1/4 lb, environ 113 g).",
+   "propose": "pour le gril, Nada Kiffa (Taste of Maroc) fait des mini-burgers d'environ 5 cm de large et de 0,85 cm d'épaisseur au plus, mais aucune source marocaine n'en donne le poids ni la durée de cuisson à la poêle (Mama's Lebanese Kitchen, libanaise, fait des galettes de 1/4 lb, environ 113 g).",
+   "pourquoi": "Une source marocaine chiffre bien la taille (voir la correction de steps[4].text) ; restent non chiffrés le poids et la durée à la poêle.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Kefta dyal Gharb » (Nada Kiffa) ; Mama's Lebanese Kitchen ; conversion python3 -I."
+  },
+  {
+   "champ": "unverified[0]",
+   "actuel": "ni la page ni ses copies d'archive n'ont été utilisées.",
+   "propose": "l'auteur n'a utilisé ni la page ni ses copies d'archive. Le même jour, à la contre-vérification, la page a répondu normalement (code 200, robots.txt sans interdiction) : elle et la recette de Nada Kiffa, sur le même site, ont alors été lues et servent de sources ajoutées ; la graisse de rognon qu'elles ajoutent à la viande n'est pas reprise.",
+   "pourquoi": "Tenir la ligne à jour : la contre-vérification s'appuie sur ces deux pages (sources ajoutées).",
+   "gravite": "mineure",
+   "sources": "Requête du 7 novembre 2026 sur tasteofmaroc.com (code 200) ; robots.txt du site (« User-agent: * » puis « Disallow: » vide)."
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "(médiane 550 g sur toutes les recettes, 600 g sur les seules recettes « pour 4 », calculs faits avec python3 -I)",
+   "propose": "(médiane : 600 g sur ces neuf recettes, 550 g sans celle de Lalla Moulati ; 550 g sur les quatre recettes « pour 4 », 600 g en y ajoutant celle de 1 kg pour 6 ramenée à 4 personnes ; calculs refaits avec python3 -I)",
+   "pourquoi": "Recalcul sur les valeurs que la phrase énumère : les neuf recettes (450, 500, 500, 500, 600, 700, 700, 1 000 et 1 000 g) ont pour médiane 600 g, et les quatre recettes « pour 4 » (450, 500, 600 et 700 g) 550 g. Les deux chiffres de la phrase sont donc inversés, ou calculés sur un autre ensemble sans le dire. Le choix de 500 g n'en dépend pas : c'est la valeur la plus fréquente, et les recettes « pour 4 » relues mettent 450 g (My Moroccan Food) et 454 g (Taste of Maroc, plus de la graisse).",
+   "gravite": "mineure",
+   "sources": "Valeurs citées par la phrase ; My Moroccan Food ; Taste of Maroc ; python3 -I (statistics.median)."
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "Médiane 0,9 ;",
+   "propose": "Médiane 0,8 (0,9 si l'on compte à part les deux recettes d'Alia) ;",
+   "pourquoi": "Les cinq valeurs énumérées (1,1 ; 1 ; 0,8 ; 0,7 ; 0,5) ont pour médiane 0,8 (python3 -I) ; 0,9 n'apparaît qu'en comptant deux fois Cooking With Alia. Le choix de 1 c. à c. reste bon : avec les deux recettes de Taste of Maroc (1 c. à c. pour 454 g et 1,5 c. à c. pour 748 g, soit 1,1 et 1,0 pour 500 g), la médiane passe à 1,0.",
+   "gravite": "mineure",
+   "sources": "Valeurs citées par la phrase ; Taste of Maroc (deux recettes) ; python3 -I."
+  },
+  {
+   "champ": "discrepancies[10]",
+   "actuel": "Aucune durée à la poêle n'est confirmée par deux sources indépendantes",
+   "propose": "Taste of Maroc ne chiffre pas non plus (plusieurs ou quelques minutes par côté au gril ; des galettes petites et fines qui cuisent vite à la poêle). Aucune durée à la poêle n'est confirmée par deux sources indépendantes",
+   "pourquoi": "Résultat de la recherche d'une deuxième durée chiffrée : ni Taste of Maroc (deux recettes), ni les autres recettes de kefta de Cooking With Alia (le n° 453 et la recette de Femmes du Maroc donnent 3 à 4 minutes par côté, mais au charbon et de la même autrice), ni Lalla Moulati (ses articles de 2023 font revenir la viande émiettée 8 à 10 minutes, pas des galettes) ne donnent de durée pour des galettes à la poêle. Le choix de ne pas mettre de minuteur reste fondé.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (deux recettes) ; Cooking With Alia n° 453 ; Femmes du Maroc ; Lalla Moulati n° 365318, 371580 et 376105."
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "ou de veau (Choumicha n° 467).",
+   "propose": "ou de veau (Choumicha n° 467 ; Nada Kiffa, Taste of Maroc, qui admet bœuf, veau ou agneau, seuls ou mêlés).",
+   "pourquoi": "Les copies d'archive de Choumicha n'ont pas pu être relues pendant la contre-vérification ; le veau est confirmé de façon indépendante par Nada Kiffa.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Kefta dyal Gharb » (notes)."
+  },
+  {
+   "champ": "variants[3]",
+   "actuel": "(Choumicha, n° 771 et n° 943).",
+   "propose": "(Choumicha, n° 771 et n° 943 ; cannelle aussi chez Taste of Maroc, en option, et chez Lalla Moulati en 2014 ; marjolaine séchée aussi chez Nada Kiffa, Taste of Maroc).",
+   "pourquoi": "La variante ne reposait que sur Choumicha, que je n'ai pas pu relire. Elle est confirmée ailleurs : 1 c. à c. de cannelle facultative pour 454 g (Christine Benlafquih), 2 cuillères de cannelle pour 1 kg (Lalla Moulati, 10 novembre 2014), 1 c. à c. de marjolaine séchée pour 748 g (Nada Kiffa).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (deux recettes) ; Lalla Moulati n° 2918."
+  },
+  {
+   "champ": "mistakes[0]",
+   "actuel": "FSA, qui demande de ne jamais servir rosés à la maison les burgers et la viande hachée)",
+   "propose": "FSA, pour qui la viande hachée doit être cuite jusqu'au centre et les burgers ne doivent jamais être servis rosés à la maison)",
+   "pourquoi": "Exactitude de l'attribution : la FSA écrit que toute viande hachée ou en brochette doit être cuite jusqu'au centre (vapeur au milieu, couleur qui brunit), et que les burgers ne doivent pas être servis saignants ou rosés à la maison ; la phrase sur le rosé ne vise que les burgers.",
+   "gravite": "mineure",
+   "sources": "FSA, « Cooking your food », chiffre 4.2 « Minced meat and offal »."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Accès : robots.txt lus le 7 novembre 2026 ; aucun n'interdit les pages utilisées (My Moroccan Food, Cooking With Alia, Femmes du Maroc, Bladi.net, Lalla Moulati, Mama's Lebanese Kitchen, Hadia's Lebanese Cuisine, MarocMama, Taste of Maroc, Anses, GOV.UK, Wikipédia). Non utilisés : chhiwat.com (robots.txt « Disallow: / » pour tous), 2m.ma (403, défi Cloudflare, même pour robots.txt), la recherche interne de Mama's Lebanese Kitchen (/?s= interdit), celle de My Moroccan Food (/search interdit).",
+  "Liens : les 24 sources qui ne sont pas des copies de la Wayback Machine répondent (code 200) et disent ce que l'auteur leur attribue, sauf les points corrigés plus haut ; les 5 copies Wayback de Choumicha n'ont pas pu être ouvertes (voir non vérifiable).",
+  "Base de la recette, My Moroccan Food (Nargisse Benkabbou, 26 mars 2015) : pour 4, 450 g de bœuf et/ou d'agneau à 15–20 % de gras, 1 oignon moyen râpé, 2 c. à s. de persil, 2 de coriandre, les feuilles de 4 brins de menthe, 2 c. à c. de paprika, 1 de cumin, 1 de sel, ½ de poivre, une pincée de Cayenne ; tout mélanger à la main ou à la cuillère, puis façonner et cuire à son idée ; ni œuf ni chapelure ; kefta « très parfumée », bouchers des faubourgs et des petites villes qui la grillent et la servent avec un thé à la menthe très sucré. Page About : famille marocaine, ancienne cheffe exécutive de L'Mida à Marrakech, autrice de « Casablanca ». Salade tomate-concombre (11 juin 2015) : la plus courante de la cuisine marocaine, servie à côté des tajines et des grillades. Brochettes (4 août 2015) : poêle-gril quand on n'a pas de barbecue.",
+  "Cooking With Alia n° 664 (« Grilled Kefta / كفتة مشوية ») : 500 g de bœuf, 2 c. à s. de persil, 2 de coriandre, 15 feuilles de menthe, ½ oignon râpé, 3 c. à s. d'huile d'olive, ½ c. à c. de gingembre, 1 de cumin, 1 de paprika, 1 de coriandre moulue, ¼ de poivre et ¼ de sel au goût ; au moins 30 min au frais pour que les herbes et les épices parfument la viande ; doigts ; poêle-gril à feu moyen, environ 3 à 4 min par côté ; servir chaud. N° 453 : agneau, 1 tasse de persil et coriandre mêlés, 4 grandes feuilles de menthe, ½ oignon râpé, mélange à la main, 30 min au frais, saucisses, galettes ou boulettes, 3 à 4 min par côté au charbon, ne pas trop cuire sinon elle sèche, servie aussitôt avec pain marocain, thé à la menthe et salade tomate-concombre, sauce au yaourt (herbes, citron).",
+  "Cooking With Alia n° 157 : plaque à griller posée sur le feu, un peu de beurre, plaque bien chaude avant d'y poser la viande, ne pas trop cuire (sinon elle durcit), pain marocain ou français ; n° 182 (burgers de dinde) : oignon râpé puis pressé, boules légèrement aplaties, plaque chaude à feu moyen avec du beurre, environ 8 min par côté, centre qui ne doit plus être rose mais rester juteux ; n° 208 et n° 543 : salade de tomates, concombre et oignon coupés très petit, avec du pain marocain, servie froide ; page About : Alia partage la cuisine marocaine de son enfance.",
+  "Femmes du Maroc (8 septembre 2016) : recette d'Alia Al Kasimi (le titre de la page écrit « Ali », coquille du site) ; 500 g d'agneau, 3 + 3 c. à s. d'herbes, ½ oignon râpé, 1 c. à c. de sel, ¼ de poivre ; au moins 30 min au frais ; mains mouillées ; saucisses ou hamburgers ; 3 à 4 min par côté au barbecue ; ne pas trop cuire ; bien chaudes, avec le thé à la menthe. C'est bien une republication, pas une source indépendante.",
+  "Bladi.net : 700 g d'agneau, 1 oignon, 1 gousse d'ail, 1 œuf, 8 feuilles de menthe, 3 c. à s. de coriandre, 1 c. à c. de cumin, 1 de ras-el-hanout, 1 pincée de piment pilé, sel, poivre ; boulettes sur brochettes sous le gril du four, 6 min de chaque côté ; pas de nombre de parts.",
+  "Lalla Moulati : n° 2918 (10 novembre 2014) : 1 kg d'agneau, 1 gros oignon, menthe et persil, 1 cuillère de cumin, 2 de cannelle, 1 h au frais, boules ou pièces ovales frites dans l'huile chaude, servies avec du pain ou en sandwich (mayonnaise et laitue) ; n° 141664 (26 juin 2018) : liste sans quantités (besbes moulu, coriandre sèche, cumin, persil, soudania, sel, morceaux de beurre), méthode seulement en vidéo ; n° 72574 (9 juin 2017) : disques de kefta cuits dans une poêle avec un peu d'huile ; n° 166053 (28 octobre 2018) : galettes de kefta de poulet farcies, cuites des deux côtés dans une poêle chaude avec un peu d'huile.",
+  "Mama's Lebanese Kitchen (kafta, 28 août 2011) : bœuf à 20 % de gras, oignon mixé puis égoutté, galettes de 1/4 lb, kafta frite, au four ou grillée, gril à feu moyen 10 à 15 min en retournant toutes les 2 à 3 min, 20 + 15 min. Hadia's Lebanese Cuisine (kafta, 18 février 2014) : agneau ou bœuf à 20 % de gras, oignon et persil pressés entre les paumes, 15 + 10 min, servie avec taboulé, fattouch, houmous et pain. MarocMama : poêle-gril quand on n'a pas de barbecue ; au Maroc, on ne mange presque jamais l'agneau pas cuit à cœur (l'autrice est américaine et vit au Maroc).",
+  "Cuisson à cœur, ce que dit chaque page officielle. Anses, « dix gestes » (24 décembre 2020) : la viande hachée « bien cuite à cœur » est recommandée aux jeunes enfants, aux femmes enceintes et aux personnes immunodéprimées, sans température. Anses, E. coli (11 juillet 2022) : pour les populations sensibles (jeunes enfants et personnes âgées), cuire à cœur (70 °C) les viandes hachées et les produits à base de viande hachée ; c'est la seule des deux pages qui donne 70 °C. FSA, « Cooking your food » (publiée le 18 décembre 2017) : pour que l'aliment soit cuit, son centre doit atteindre 70 °C pendant 2 min (ou 75 °C pendant 30 s, 80 °C pendant 6 s, 65 °C 10 min, 60 °C 45 min) ; thermomètre propre, sonde à bien laver après chaque usage ; viande hachée, burgers, saucisses et kebabs cuits jusqu'au centre (vapeur au milieu, couleur qui brunit). L'étape « Vérifie la cuisson à cœur », son astuce et secrets[8] rendent fidèlement ces pages.",
+  "Hygiène : mains lavées à l'eau et au savon avant et pendant la préparation (Anses, dix gestes) et après avoir manipulé des aliments crus (Anses, E. coli) ; une planche pour la viande crue, une autre pour le cuit et les légumes propres, et ne pas reprendre pour le cuit les plats qui ont porté le cru ; pas plus de 2 h à température ambiante ; 4 °C dans la zone la plus froide du frigo (Anses, dix gestes) ; restes au frigo dans les 2 h, mangés sous 48 h, réchauffés une seule fois jusqu'à être brûlants (FSA, Cooking your food) ; frigo entre 0 et 5 °C, viande crue en bas, dans son emballage ou une boîte fermée, restes mangés dans les 2 jours (FSA, How to chill…, 18 décembre 2017).",
+  "Halal : viande hachée halal demandée ; ni porc, ni alcool, ni fromage dans la recette.",
+  "Noms : arabe « كفتة » (Cooking With Alia, Lalla Moulati, Wikipédia en arabe) ; darija « kefta », mot de l'arabe marocain pour la viande hachée (Taste of Maroc), employé par My Moroccan Food, Cooking With Alia et Bladi.net.",
+  "Médianes recalculées avec python3 -I sur les valeurs de l'auteur : oignon 0,5, paprika 1, sel 1, poivre 0,5 et menthe 4 feuilles pour 500 g sont exactes ; viande et cumin : voir les corrections. Sur les seules sources que j'ai relues, avec Taste of Maroc (deux recettes), ramenées à 500 g de viande : cumin 1,0 et sel 1,0 (comme la recette) ; persil 2,7 et coriandre 2,2 c. à s. (recette : 2 et 2) ; menthe 4,9 feuilles (recette : 4) ; oignon 0,67 (recette : ½, la valeur la plus fréquente) ; paprika 1,3 (recette : 1) ; poivre 0,26 (recette : ½). Les doses retenues restent dans l'étendue des sources ; pas de correction, car les écarts portent sur des épices au goût et dépendent des valeurs de Choumicha, que je n'ai pas pu relire.",
+  "Gras : « pas trop maigre » est confirmé, et même dépassé, par les sources marocaines : Taste of Maroc ajoute 113 à 142 g de graisse de rognon pour 454 g, Nada Kiffa demande au moins 25 % de gras ; 15 à 20 % (My Moroccan Food ; 20 % chez Mama's Lebanese Kitchen et Hadia) reste un choix raisonnable et facile à trouver.",
+  "Durée : aucune deuxième source chiffrée pour des galettes à la poêle (voir la correction de discrepancies[10]) ; pas de minuteur et contrôle à cœur, c'est donc justifié ; l'astuce d'Alia (3 à 4 min par côté, poêle-gril, feu moyen) et ses 8 min par côté pour de gros burgers sont fidèles.",
+  "Temps : 15 + 15 = 30 min, catégorie « Rapide » respectée ; repos de 30 min seulement proposé en astuce (rest 0) ; ordres de grandeur proches chez Taste of Maroc (20 + 10, sans le gril à chauffer), Hadia (15 + 10) et Cooking With Alia n° 664 (30 min affichées) ; 35 min chez Mama's Lebanese Kitchen.",
+  "Cohérence interne : les 12 ingrédients sont tous repris dans les étapes, les quantités des étapes sont celles de la liste, aucun minuteur, aucune durée chiffrée dans le texte des étapes (les durées des astuces sont attribuées à leur source).",
+  "Rendu (code d'app.html exécuté par node), pour 1 personne : « 125 g de viande hachée », « ¼ oignon moyen », « ½ c. à s. de persil », « ½ c. à s. de coriandre », « 1 grande feuille de menthe », « ¼ c. à c. » de paprika, de cumin et de sel, « ⅛ c. à c. de poivre », « ¼ pincée de piment de Cayenne » ; pour 4 : les quantités de la liste ; pour 8 : « 1 kg », « 1 oignon moyen », « 4 c. à s. », « 8 grandes feuilles de menthe », « 2 c. à c. », « 1 c. à c. de poivre », « 2 pincées » ; {{huile}} et {{khobz}}, sans quantité, affichent « huile » et « khobz (pain marocain) ». Conforme aux règles d'arrondi (pour 1, le quart d'oignon est 0,125 arrondi au quart supérieur, comme le veut la règle de l'appli).",
+  "Service : bien chaude dès la cuisson (Cooking With Alia n° 664 et n° 453 ; Femmes du Maroc) ; avec du pain (Cooking With Alia n° 453 et n° 157 ; Lalla Moulati ; Nada Kiffa), du thé à la menthe (Cooking With Alia n° 453 ; Femmes du Maroc ; My Moroccan Food ; Nada Kiffa) et une salade de tomates et de concombre coupés très petit (Cooking With Alia n° 453, n° 208 et n° 543 ; My Moroccan Food ; Nada Kiffa) ; bouchers qui grillent la kefta sur place (My Moroccan Food ; Taste of Maroc, deux pages). Le khobz, le thé et la salade tomate-concombre sont donc confirmés par au moins deux sources marocaines indépendantes, sans Choumicha.",
+  "Secrets, erreurs et variantes non corrigés : les parts attribuées à My Moroccan Food, Cooking With Alia, Femmes du Maroc, Bladi.net, Lalla Moulati, Mama's Lebanese Kitchen, Hadia, MarocMama, l'Anses et la FSA sont bien dans les pages citées. La variante « en brochettes grillées sur la braise, la façon la plus classique » est aussi soutenue par Taste of Maroc, qui présente la kefta grillée en brochettes comme la recette traditionnelle."
+ ],
+ "non_verifiable": [
+  "Choumicha (n° 467, 771, 943, 1120 et catégorie Grillades) : choumicha.ma répond « error code: 525 » le 7 novembre 2026 (avec et sans www) ; la Wayback Machine a d'abord répondu 429 (trafic jugé abusif), puis l'ouverture des copies web.archive.org a été refusée dans cette session par le contrôle des permissions de Claude Code (motif « Walled Content from a Copy »). Je n'ai donc pas pu vérifier que Choumicha n'a que des kefta grillées au charbon (unverified[3]), ni ce qui repose sur elle seule : secrets[10] (herbes, ail, oignon et épices mixés en pâte, n° 943) ; la seconde phrase de l'astuce de steps[10] (salade de tomates, d'oignon et de poivron vert) ; sa part dans secrets[0], [2], [3], [9] et [11], dans l'astuce de steps[3], dans serving, dans variants[0], [1], [3], [4] et [7] et dans les chiffres de discrepancies. Ce qui est confirmé ailleurs est indiqué plus haut. Pour relire ces pages, il faut autoriser l'accès à web.archive.org.",
+  "Taste of Maroc : la page a répondu 403 à l'auteur et 200 à la contre-vérification, le même jour, et son robots.txt n'interdit rien. Si tu préfères écarter ce site parce qu'il a d'abord refusé l'accès, écarte les corrections qui en dépendent (steps[4].text, steps[4].tip, unverified[0], [5] et [6], discrepancies[10], variants[0] et [3]) ; les autres restent valables sans lui.",
+  "Deuxième durée chiffrée à la poêle : pas trouvée. Sans moteur de recherche, j'ai ouvert Taste of Maroc (deux recettes), la liste des recettes de kefta de Cooking With Alia (n° 446, 447, 453, 503, 539, 664, kefta bel harsh, tajine de kefta aux œufs : aucune autre à la poêle), la recherche interne de Lalla Moulati (« كفتة مقلاة » : ses articles d'assaisonnement de 2023 font revenir la viande émiettée 8 à 10 min, sans galettes), et celles de MarocMama, Morocco World News et Femmes du Maroc (« kefta » : tajines, croquettes, poulet farci ; non ouverts, car ce ne sont pas des galettes à la poêle).",
+  "Les 15 min de cuisson pour 500 g de galettes à la poêle ne sont chiffrées par aucune source (Taste of Maroc compte 10 min, au gril) ; avec des galettes fines, il faudra peut-être plusieurs fournées, ce que l'étape « Fais dorer les deux côtés » prévoit déjà.",
+  "Lalla Moulati, articles d'assaisonnement de 2023 (discrepancies[15]) : les trois que j'ai lus (n° 365318, 371580 et 376105) donnent la même recette (poudre d'oignon, sel, thym séché, poivre, une pointe de cannelle) ; je n'y ai vu ni cardamome, ni muscade, ni clou de girofle, et je n'ai pas cherché d'autres articles.",
+  "Recherche web impossible (quota épuisé) : pas d'autres sources marocaines que celles ouvertes directement ; Le360 (/recherche interdit par son robots.txt) et Hespress (recherche affichée en JavaScript) non consultés.",
+  "Nom en darija propre à la version à la poêle : rien d'autre que « kefta », comme l'auteur."
+ ]
+}

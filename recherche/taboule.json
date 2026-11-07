@@ -1,0 +1,441 @@
+{
+ "slug": "taboule",
+ "title": "Taboulé libanais",
+ "darija": "Tabbouleh",
+ "arabic": "تبولة",
+ "tagline": "La vraie salade libanaise : une montagne de persil haché fin, un peu de boulgour, des tomates, de la menthe et beaucoup de citron. Sans cuisson, prête en 30 minutes.",
+ "category": "Rapide",
+ "occasion": "En entrée de mezzé, ou à côté de grillades (Hadia's Lebanese Cuisine). Au Liban, c'est un incontournable des fêtes et des repas de famille (Mama's Lebanese Kitchen ; recettelibanaise.com). Une journée nationale du taboulé y est fêtée le premier samedi de juillet depuis 2001 (Wikipédia).",
+ "region": "Liban et Syrie : le taboulé est né dans les montagnes du Liban et de Syrie, et c'est un plat du mezzé levantin (Wikipédia). Ce n'est pas un plat marocain.",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 30,
+  "cook": 0,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un grand couteau très bien aiguisé (pas de robot ni de mixeur)",
+  "Une grande planche propre, qui n'a pas servi pour de la viande crue",
+  "Un grand saladier pour laver les herbes, et un autre pour servir",
+  "Une essoreuse à salade, ou un torchon propre et du papier absorbant",
+  "Une passoire",
+  "Un petit bol",
+  "Un presse-agrumes"
+ ],
+ "ingredients": [
+  {
+   "group": "Les herbes et les légumes",
+   "items": [
+    {
+     "id": "persil",
+     "canon": "persil",
+     "q": 3,
+     "u": "botte",
+     "name": "de persil plat",
+     "note": "très frais ; on n'en garde que les feuilles"
+    },
+    {
+     "id": "menthe",
+     "canon": "menthe",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de menthe fraîche",
+     "note": "les feuilles seulement"
+    },
+    {
+     "id": "tomates",
+     "canon": "tomate",
+     "q": 4,
+     "u": "",
+     "name": "tomate moyenne",
+     "pl": "tomates moyennes",
+     "note": "rouges, mûres mais fermes"
+    },
+    {
+     "id": "oignon",
+     "canon": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon blanc",
+     "pl": "oignons blancs",
+     "note": "ou des oignons verts"
+    }
+   ]
+  },
+  {
+   "group": "Le boulgour et l'assaisonnement",
+   "items": [
+    {
+     "id": "boulgour",
+     "canon": "boulgour",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de boulgour fin (n° 1)",
+     "note": "surtout pas de semoule de couscous"
+    },
+    {
+     "id": "citrons",
+     "canon": "citron",
+     "q": 2,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "frais, à presser toi-même (pas de jus en bouteille)"
+    },
+    {
+     "id": "huile",
+     "canon": "huile-olive",
+     "q": 120,
+     "u": "ml",
+     "name": "d'huile d'olive vierge extra"
+    },
+    {
+     "id": "sel",
+     "canon": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "selon le goût"
+    },
+    {
+     "id": "poivre",
+     "canon": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir",
+     "note": "selon le goût"
+    },
+    {
+     "id": "piment-jamaique",
+     "canon": "piment-jamaique",
+     "q": 1,
+     "u": "pincée",
+     "name": "de piment de la Jamaïque (allspice)",
+     "note": "facultatif ; ou de sept-épices libanais"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "laitue",
+     "canon": "laitue",
+     "q": null,
+     "u": "",
+     "name": "feuilles de laitue romaine",
+     "note": "ou de chou blanc, ou de jeunes feuilles de vigne"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Lave les herbes",
+   "text": "Lave-toi les mains. Plonge {{persil}} de persil et {{menthe}} de menthe dans un grand saladier d'eau froide, et remue-les doucement. Rince-les ensuite sous l'eau du robinet.",
+   "timer": null,
+   "tip": "Le persil et la menthe se mangent crus : lave-les avec soin (Anses). Hadia ajoute une pincée de sel dans l'eau et les laisse tremper 5 minutes avant de les rincer."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Sèche-les bien",
+   "text": "Essore les herbes, puis étale-les sur un torchon propre ou du papier absorbant. Elles doivent être bien sèches avant d'être hachées, sinon le taboulé sera détrempé.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mets le boulgour à gonfler",
+   "text": "Presse {{citrons:full}}. Dans un petit bol, mets {{boulgour}} de boulgour fin, la moitié du jus de citron et un peu de sel. Laisse-le gonfler pendant que tu prépares le reste : il n'a pas besoin de cuire.",
+   "timer": null,
+   "tip": "Boulgour fin, pas semoule de couscous : le boulgour est du blé précuit, séché puis concassé, qui n'a qu'à boire le jus. Avec la semoule, on obtient le « taboulé à l'orientale » à la française, où la semoule prend la place du persil (Wikipédia)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Garde les feuilles",
+   "text": "Coupe les grosses tiges du persil et de la menthe. Garde seulement les feuilles.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache le persil",
+   "text": "Serre le persil en petits paquets et tranche-le très fin, en fines lanières, avec un couteau bien aiguisé. Fais-le à la main : le robot écrase les feuilles et en fait une bouillie.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache la menthe",
+   "text": "Hache finement les feuilles de menthe, de la même façon.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe les tomates",
+   "text": "Coupe {{tomates:full}} en tout petits dés. Mets-les dans une passoire pour qu'elles perdent leur jus.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon",
+   "text": "Hache {{oignon:full}} très finement.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Mélange au dernier moment",
+   "text": "Juste avant de servir, mets dans un grand saladier le persil, la menthe, les tomates égouttées, l'oignon et le boulgour.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Assaisonne",
+   "text": "Arrose avec le reste du jus de citron et {{huile}} d'huile d'olive. Ajoute du {{sel}}, du {{poivre}} et {{piment-jamaique}} de piment de la Jamaïque si tu en as. Mélange bien.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte",
+   "text": "Goûte : le taboulé doit être bien citronné, avec plus de goût de citron que d'huile. Rectifie le sel si besoin.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers tout de suite",
+   "text": "Sers aussitôt, avec des {{laitue}} : chacun prend le taboulé à la main, pincé dans une feuille.",
+   "timer": null,
+   "tip": "Tu peux aussi le servir avec des feuilles de chou blanc ou de jeunes feuilles de vigne (Hadia ; Wikipédia)."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Le taboulé libanais est d'abord une salade de persil : beaucoup d'herbes, très peu de boulgour.",
+   "source": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; Taste of Beirut (Joumana Accad) ; Wikipédia (articles « Taboulé » et « Tabbouleh »)"
+  },
+  {
+   "text": "Prends du boulgour fin, le n° 1 : c'est le plus fin. Le gros boulgour sert au pilaf, pas au taboulé.",
+   "source": "Taste of Beirut (réponse de Joumana Accad à une lectrice) ; Mama's Lebanese Kitchen (« fine cracked wheat #1 »)"
+  },
+  {
+   "text": "Pourquoi pas de semoule de couscous : le boulgour est du blé précuit, séché puis concassé ; le boulgour fin n'a qu'à boire le jus du citron et des tomates, sans cuisson, et il reste discret dans le persil. La semoule de couscous est un autre produit, des grains de semoule roulés puis cuits à la vapeur. Avec elle, on obtient le « taboulé à l'orientale » servi en France, où la semoule devient l'ingrédient principal et où le persil passe au second plan : ce n'est plus le taboulé libanais.",
+   "source": "Wikipédia, « Boulgour » et « Bulgur » (en anglais : un simple trempage suffit) ; Hadia's Lebanese Cuisine (le boulgour fin boit le jus des tomates et du citron) ; recettelibanaise.com (boulgour fin qui reste discret) ; Wikipédia, « Couscous » et « Taboulé »"
+  },
+  {
+   "text": "Sèche parfaitement les herbes avant de les hacher : mouillées, elles tournent en pâte et détrempent la salade.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen"
+  },
+  {
+   "text": "Hache à la main, au couteau bien aiguisé, en fines lanières ; jamais au robot.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut ; recettelibanaise.com ; Anissa Helou (blog, « chopping parsley for a living »)"
+  },
+  {
+   "text": "Choisis des tomates fermes et égoutte-les : trop de jus détrempe la salade.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com"
+  },
+  {
+   "text": "Mélange et assaisonne au dernier moment : sinon les herbes ramollissent et le taboulé détrempe.",
+   "source": "Mama's Lebanese Kitchen ; Taste of Beirut ; Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Citron frais pressé, jamais en bouteille. Hadia le presse juste avant de mélanger : pressé d'avance, il peut devenir amer.",
+   "source": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Le taboulé doit avoir plus le goût du citron que de l'huile.",
+   "source": "Taste of Beirut (Joumana Accad) ; Mama's Lebanese Kitchen (un bon taboulé se reconnaît à son goût citronné)"
+  },
+  {
+   "text": "Une pincée de piment de la Jamaïque ou de sept-épices libanais, c'est l'épice du taboulé libanais ; Hadia la recommande vivement.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut (facultatif) ; Mama's Lebanese Kitchen (sept-épices)"
+  },
+  {
+   "text": "Persil plat de préférence ; le persil frisé dépanne, à condition de le hacher très fin.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut (réponse de Joumana Accad à une lectrice)"
+  },
+  {
+   "text": "Pour gagner du temps, hache le persil, la menthe et l'oignon quelques heures avant, couvre et garde au frigo ; garde les tomates à part et assemble au dernier moment.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut (assaisonnement au dernier moment si on prépare à l'avance)"
+  },
+  {
+   "text": "Joumana Accad précise ses quantités : environ 3 tasses de persil haché (6 onces, soit 170 g) et ½ tasse de menthe (1 once, soit 28 g).",
+   "source": "Taste of Beirut (réponse à un lecteur, 11 octobre 2010) ; conversions faites avec python3 -I"
+  },
+  {
+   "text": "Au Liban, on le mange à la main, pincé dans une feuille de romaine, de chou ou de vigne.",
+   "source": "Hadia's Lebanese Cuisine ; Taste of Beirut ; Wikipédia (« Taboulé ») ; Libnanews (François El Bacha)"
+  }
+ ],
+ "mistakes": [
+  "Mettre de la semoule de couscous, ou beaucoup trop de boulgour : ce n'est plus le taboulé libanais (Wikipédia ; Mama's Lebanese Kitchen).",
+  "Prendre du gros boulgour, celui du pilaf (Taste of Beirut).",
+  "Hacher le persil encore mouillé, ou au robot : il devient une bouillie (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+  "Garder les grosses tiges (Taste of Beirut ; Hadia's Lebanese Cuisine).",
+  "Assaisonner longtemps à l'avance : le taboulé détrempe (Mama's Lebanese Kitchen ; Taste of Beirut ; Hadia's Lebanese Cuisine).",
+  "Utiliser du jus de citron en bouteille (Mama's Lebanese Kitchen).",
+  "Prendre des tomates trop molles : elles rendent trop d'eau (Hadia's Lebanese Cuisine ; recettelibanaise.com).",
+  "Oublier de laver le persil et la menthe, qui se mangent crus (Anses ; FSA).",
+  "Hacher les herbes sur la planche qui a servi pour de la viande crue (Anses).",
+  "Laisser le taboulé plus de 2 heures à température ambiante avant de le mettre au frigo (Anses)."
+ ],
+ "serving": "Sers-le tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine), en entrée de mezzé (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine) ou à côté de grillades (Hadia's Lebanese Cuisine, qui sert par exemple sa kafta avec du taboulé). On le mange à la main avec des feuilles de laitue romaine (Taste of Beirut ; Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Wikipédia), de chou blanc ou de vigne (Hadia's Lebanese Cuisine ; Wikipédia) ; du pain libanais peut aussi l'accompagner (recettelibanaise.com ; Libnanews). Il est meilleur tout de suite : assaisonné trop tôt, les herbes ramollissent et la salade détrempe (Taste of Beirut ; Mama's Lebanese Kitchen). Restes : au frigo dans les 2 heures (Anses ; FSA), frigo à 4 °C dans sa zone la plus froide (Anses), et à manger dans les 2 jours (FSA).",
+ "variants": [
+  "Avec des oignons verts à la place de l'oignon blanc (Taste of Beirut ; Wikipédia en arabe).",
+  "Avec un concombre haché très fin : c'est la façon palestinienne (Wikipédia ; Libnanews) ; Mama's Lebanese Kitchen en met aussi un.",
+  "Avec de la laitue hachée dedans : la version arménienne (Wikipédia ; Libnanews).",
+  "Plus doux : au sumac et à la mélasse de grenade à la place du citron (Wikipédia) ; Hadia ajoute seulement un filet de mélasse de grenade sur le dessus.",
+  "À l'ancienne, comme avant l'arrivée de la tomate au Levant : tomates en dés servies à part ou posées sur le dessus (Wikipédia).",
+  "Boulgour ajouté sec dans la salade : il boit le jus des tomates et du citron (Hadia's Lebanese Cuisine).",
+  "Boulgour trempé 5 minutes dans l'eau ou dans le jus des tomates, puis bien pressé (Taste of Beirut).",
+  "Avec une pincée de cannelle, un peu de paprika et de zeste de citron (recettelibanaise.com).",
+  "Sans gluten : du quinoa à la place du boulgour, conseillé par des lecteurs de Mama's Lebanese Kitchen (le site ne l'a pas testé).",
+  "Tabbouleh kazzabé, le « taboulé menteur » du Sud-Liban : ici le boulgour est la vedette, gonflé dans l'eau de cuisson du chou, avec oignon rouge et concentré de tomate (Hadia's Lebanese Cuisine, recette de son amie Rima Hamad).",
+  "Kısır turc et eetch arménien : bien plus de boulgour que de persil (Wikipédia)."
+ ],
+ "sources": [
+  {
+   "name": "Mama's Lebanese Kitchen (Edgard, recettes de sa mère Esperance, du Nord du Liban), « Authentic Tabouli Recipe - Lebanese Tabbouleh », 7 juin 2011",
+   "url": "https://mamaslebanesekitchen.com/salads/authentic-lebanese-tabbouleh-recipe/",
+   "used_for": "Recette pour 4 en 30 minutes : 4 bottes de persil, 1 botte de menthe, 4 tomates égouttées, 1 oignon blanc, ¼ tasse de boulgour fin n° 1 trempé dans la moitié du jus de citron avec un peu de sel, ⅓ tasse d'huile d'olive, ½ tasse de jus de citron, sept-épices ; herbes séchées avant et après hachage ; mélange au dernier moment ; citron frais ; feuilles de laitue ; peu de boulgour."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine (Hadia Zebib Khanafer), « Tabbouleh Recipe (Traditional Salad) », 30 décembre 2013",
+   "url": "https://hadiaslebanesecuisine.com/blog/tabbouleh/",
+   "used_for": "Recette pour 4 en 30 minutes : 3 grosses bottes de persil, 5 tomates, 7 feuilles de menthe, 1 oignon blanc, ½ tasse d'huile d'olive, ¼ tasse de jus de citron, 1 c. à s. de boulgour fin ajouté sec, piment de la Jamaïque ou sept-épices ; lavage et séchage du persil ; hachage à la main ; tomates fermes ; préparation à l'avance ; citron pressé au dernier moment ; feuilles de romaine, de chou ou de vigne."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine, « Tabbouleh Kazabeh (Lying Tabbouleh) », 21 juillet 2018",
+   "url": "https://hadiaslebanesecuisine.com/blog/lying-tabbouleh/",
+   "used_for": "Variante du Sud-Liban (Jbaa, Nabatieh) où le boulgour domine."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine, « Authentic Lebanese Grilled Kafta Kebabs Recipe »",
+   "url": "https://hadiaslebanesecuisine.com/blog/grilled-kafta-kebabs/",
+   "used_for": "Taboulé servi avec des grillades comme la kafta."
+  },
+  {
+   "name": "Hadia's Lebanese Cuisine, page « About »",
+   "url": "https://hadiaslebanesecuisine.com/blog/about/",
+   "used_for": "Vérification : blog de cuisine libanaise ; Hadia a appris la cuisine levantine de sa grand-mère et de sa mère."
+  },
+  {
+   "name": "Taste of Beirut (Joumana Accad), « Tabbouleh, classic version », 8 octobre 2010, copie Wayback Machine du 16 janvier 2025 (le site est aujourd'hui fermé)",
+   "url": "https://web.archive.org/web/20250116192423/https://www.tasteofbeirut.com/tabbouleh-classic-version/",
+   "used_for": "3 bottes de persil, ½ botte de menthe, 1 oignon blanc ou des oignons verts, 3 tomates, ¼ tasse de boulgour n° 1, 2 gros citrons, ½ tasse d'huile d'olive, sel, poivre, pointe de piment de la Jamaïque facultative ; feuilles et tiges séparées ; hachage très fin à la main ; boulgour trempé 5 minutes puis pressé ; servir aussitôt ; assaisonner au dernier moment ; dans les réponses de l'autrice : 3 tasses de persil (6 onces) et ½ tasse de menthe (1 once), plus de citron que d'huile, boulgour n° 1 extra-fin et pas celui du pilaf, persil frisé possible."
+  },
+  {
+   "name": "Taste of Beirut, page d'accueil avec la présentation de l'autrice, copie Wayback Machine du 19 janvier 2025",
+   "url": "https://web.archive.org/web/20250119064653/https://www.tasteofbeirut.com/",
+   "used_for": "Vérification : Joumana Accad est née et a grandi à Beyrouth."
+  },
+  {
+   "name": "recettelibanaise.com, « Taboulé libanais »",
+   "url": "https://www.recettelibanaise.com/taboule-libanais/",
+   "used_for": "Recette pour 4 (source citée par Wikipédia) : 2 bouquets de persil (200 g), ½ bouquet de menthe, 4 tomates, 1 oignon, 2 c. à s. de boulgour, 4 c. à s. d'huile d'olive, jus d'un citron ; couteau bien aiguisé ; boulgour fin qui gonfle dans le jus de citron ; tomates mûres mais fermes ; service avec chou, romaine ou pain libanais."
+  },
+  {
+   "name": "Libnanews (François El Bacha), « Liban/Patrimoine : le Taboulé, une entrée typiquement libanaise », 5 septembre 2019, mis à jour le 5 septembre 2024",
+   "url": "https://libnanews.com/liban-patrimoine-le-taboule-une-entree-typiquement-libanaise/",
+   "used_for": "Pour 4 : 2 bottes de persil, 1 oignon, 1 grosse tomate, menthe, 2 citrons, huile d'olive, 100 g de boulgour fin, sel, poivre ; peu de boulgour au Levant ; bouchée prise à la main dans une feuille de salade, plus rarement avec du pain ; concombre en Palestine, laitue en Arménie."
+  },
+  {
+   "name": "Anissa Helou, « chopping parsley for a living » (blog)",
+   "url": "http://anissas.com/chopping-parsley-for-a-living/",
+   "used_for": "Persil tranché en fines lanières avec un couteau très aiguisé, tiges du bas coupées (souk de Damas)."
+  },
+  {
+   "name": "Anissa Helou, page « About »",
+   "url": "http://anissas.com/about/",
+   "used_for": "Vérification : née à Beyrouth d'un père syrien et d'une mère libanaise, autrice de « Lebanese Cuisine » (1994)."
+  },
+  {
+   "name": "Wikipédia (français), « Taboulé »",
+   "url": "https://fr.wikipedia.org/wiki/Taboul%C3%A9",
+   "used_for": "Salade de persil, de menthe et de boulgour de la cuisine levantine, servie avec de la romaine, du chou blanc ou des feuilles de vigne ; taboulé libanais très citronné avec très peu de boulgour fin ; taboulé « à l'orientale » français à la semoule de blé dur, persil au second plan ; variantes palestinienne, arménienne, au sumac et à la mélasse de grenade, à l'ancienne sans tomate mêlée."
+  },
+  {
+   "name": "Wikipedia (anglais), « Tabbouleh » (modifié le 3 novembre 2026)",
+   "url": "https://en.wikipedia.org/wiki/Tabbouleh",
+   "used_for": "Origine dans les montagnes du Liban et de Syrie ; journée nationale du taboulé le premier samedi de juillet depuis 2001 ; plus d'herbes que de boulgour au Levant, plus de boulgour dans les adaptations occidentales ; certaines versions à la semoule ; kısır et eetch."
+  },
+  {
+   "name": "Wikipédia (arabe), « تبولة »",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A8%D9%88%D9%84%D8%A9",
+   "used_for": "Nom arabe ; oignon vert parmi les ingrédients ; journée nationale du taboulé."
+  },
+  {
+   "name": "Wikipédia (français), « Boulgour »",
+   "url": "https://fr.wikipedia.org/wiki/Boulgour",
+   "used_for": "Boulgour : blé dur précuit à la vapeur, séché puis concassé ; grains fins ou gros ; se prépare par cuisson ou simple réhydratation."
+  },
+  {
+   "name": "Wikipedia (anglais), « Bulgur »",
+   "url": "https://en.wikipedia.org/wiki/Bulgur",
+   "used_for": "Blé étuvé, séché et concassé ; pas besoin de cuisson, un trempage suffit ; ingrédient principal du taboulé ; goût léger de noisette."
+  },
+  {
+   "name": "Wikipédia (français), « Couscous »",
+   "url": "https://fr.wikipedia.org/wiki/Couscous",
+   "used_for": "Grains de couscous : semoule roulée avec de la farine et de l'eau, cuite à la vapeur puis séchée ; vendue précuite, elle se réhydrate dans l'eau bouillante. Un autre produit que le boulgour."
+  },
+  {
+   "name": "Wikipédia (français), « Piment de la Jamaïque »",
+   "url": "https://fr.wikipedia.org/wiki/Piment_de_la_Jama%C3%AFque",
+   "used_for": "Nom français de l'allspice ; le nom « quatre-épices » est ambigu, il désigne aussi un mélange."
+  },
+  {
+   "name": "Anses, « Aliments contaminés par la bactérie E. coli : quels effets sur la santé, comment prévenir les infections ? », 11 juillet 2022",
+   "url": "https://www.anses.fr/fr/actualite/aliments-contamines-bacterie-e-coli-quels-effets-sante-comment-prevenir-infections",
+   "used_for": "Laver soigneusement les légumes et les herbes aromatiques, surtout ceux mangés crus ; se laver les mains avant de préparer le repas."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Planche réservée aux produits cuits et aux légumes propres, séparée de celle de la viande crue ; pas plus de 2 heures à température ambiante avant le frigo ; frigo à 4 °C."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « Home food fact checker », GOV.UK, mis à jour le 21 août 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "used_for": "Laver fruits et légumes à l'eau avant de les manger, sous le robinet ou dans un bol d'eau propre, avec un rinçage final."
+  },
+  {
+   "name": "Food Standards Agency, « How to chill, freeze and defrost food safely », GOV.UK, 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Salades gardées au frigo (0 à 5 °C) ; restes au frigo dans les 2 heures, mangés dans les 2 jours."
+  }
+ ],
+ "discrepancies": [
+  "Persil : 4 bottes (Mama's Lebanese Kitchen), 3 grosses bottes (Hadia ; Taste of Beirut), 2 bottes (recettelibanaise.com, 200 g ; Libnanews). Retenu : 3 bottes (médiane, calcul python3 -I).",
+  "Menthe : 1 botte (Mama's Lebanese Kitchen), ½ botte (Taste of Beirut ; recettelibanaise.com), 7 feuilles (Hadia), « plusieurs feuilles » (Libnanews). Retenu : ½ botte (médiane des sources qui comptent en bottes, et deux sources d'accord).",
+  "Tomates : 4 (Mama's Lebanese Kitchen ; recettelibanaise.com), 5 (Hadia), 3 (Taste of Beirut), 1 grosse tomate (Libnanews). Retenu : 4 (médiane).",
+  "Boulgour : ¼ tasse, soit 4 c. à s. (Mama's Lebanese Kitchen ; Taste of Beirut), 2 c. à s. (recettelibanaise.com), 1 c. à s. (Hadia), 100 g (Libnanews). Retenu : 4 c. à s., valeur majoritaire et médiane si l'on compte les 100 g de Libnanews comme la plus forte quantité (leur conversion en cuillères n'a pas été vérifiée).",
+  "Citron : 2 gros citrons (Taste of Beirut), 2 citrons (Libnanews), 1 citron (recettelibanaise.com), ½ tasse de jus (Mama's Lebanese Kitchen), ¼ tasse (Hadia). Retenu : 2 citrons.",
+  "Huile d'olive : ½ tasse, environ 118 ml (Hadia ; Taste of Beirut), ⅓ tasse, environ 79 ml (Mama's Lebanese Kitchen), 4 c. à s. (recettelibanaise.com), non chiffrée (Libnanews). Médiane environ 99 ml ; retenu 120 ml, la valeur donnée par deux sources.",
+  "Boulgour, façon de le préparer : trempé dans la moitié du jus de citron avec un peu de sel (Mama's Lebanese Kitchen), gonflé dans le jus de citron (recettelibanaise.com), ajouté sec dans la salade (Hadia), trempé 5 minutes dans l'eau ou le jus des tomates puis pressé (Taste of Beirut). Retenu : gonflé dans le jus de citron (deux sources) ; « la moitié du jus » vient de Mama's Lebanese Kitchen. Pas de minuteur : aucune durée commune.",
+  "Épices : sept-épices (Mama's Lebanese Kitchen), piment de la Jamaïque ou sept-épices (Hadia), pointe de piment de la Jamaïque facultative (Taste of Beirut), cannelle facultative et paprika (recettelibanaise.com), poivre seul (Libnanews). Retenu : une pincée de piment de la Jamaïque, facultative.",
+  "Composition du sept-épices : piment de la Jamaïque, poivre noir, cannelle, clou de girofle, muscade, fenugrec et gingembre (Mama's Lebanese Kitchen) ; cannelle, clou de girofle, muscade, cumin, coriandre sèche, poivre et paprika (Choumicha). Elle varie : le sept-épices n'est donné qu'en remplacement.",
+  "Concombre : seulement chez Mama's Lebanese Kitchen ; Wikipédia et Libnanews le rattachent à la façon palestinienne. Mis en variante.",
+  "Lavage : bol d'eau puis rinçage (FSA), trempage de 5 minutes dans l'eau salée (Hadia), simple rinçage (Mama's Lebanese Kitchen ; Taste of Beirut). Retenu : bol d'eau froide puis rinçage sous le robinet, sans durée.",
+  "Service : tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia) ; 10 minutes de repos et « peut être consommé le lendemain » (recettelibanaise.com). Retenu : tout de suite.",
+  "Temps : 30 minutes de préparation (Mama's Lebanese Kitchen ; Hadia), 25 minutes plus 10 minutes de repos (recettelibanaise.com). Retenu : 30 minutes.",
+  "Journée nationale du taboulé : premier samedi de juillet depuis 2001 (Wikipédia en anglais et en arabe, d'après un guide du Liban publié par Souk el Tayeb) ; « le 7 juillet » (recettelibanaise.com). Retenu : Wikipédia.",
+  "Wikipédia en français décrit le boulgour du taboulé comme « fin et brun (blé complet) », alors que son article « Boulgour » le dit « débarrassé du son » : point non tranché, sans effet sur la recette.",
+  "Un autre article de Libnanews (« Newsdesk », 23 mars 2025 : 150 g de boulgour trempé 30 minutes, 30 minutes au frigo) n'a ni auteur ni recette familiale ; il contredit toutes les autres sources et n'a pas été retenu."
+ ],
+ "unverified": [
+  "Maureen Abood (maureenabood.com), Feel Good Foodie et The Mediterranean Dish : pages en 403 (défi Cloudflare) le 7 novembre 2026 ; non utilisés, ni leurs copies d'archive.",
+  "L'Orient-Le Jour (dont le site « Liban à table ») : son robots.txt interdit tout aux robots « User-agent: * » ; non utilisé.",
+  "Saveur : robots.txt interdit ClaudeBot, Claude-Web et anthropic-ai ; non utilisé.",
+  "The Guardian (« How to make the perfect tabbouleh » de Felicity Cloake, et les salades d'Anissa Helou, cités par Wikipédia) : robots.txt interdit Claude-User ; non utilisé.",
+  "Slate.fr (article de Fanny Arlandis, 2017, cité par Wikipédia en français sur le passage du persil à la semoule) : 403 ; non lu.",
+  "Barbara Abdeni Massaad et Lebanon Traveler : robots.txt interdit ClaudeBot ; non utilisés.",
+  "Anissa Helou : pas de recette complète de taboulé sur son site (seulement des mentions dans son blog).",
+  "Souk el Tayeb (Kamal Mouzawak) : site hors service (erreur PHP) ; non lu.",
+  "Taste of Beirut : le domaine affiche aujourd'hui « Launching Soon » ; la recette a été lue sur la copie d'archive de janvier 2025.",
+  "Poids d'une botte de persil : non standard. Repères des sources seulement : 3 bottes, soit environ 3 tasses de persil haché ou 170 g (Taste of Beirut), et 2 bouquets pour 200 g (recettelibanaise.com).",
+  "Poids des 4 c. à s. de boulgour fin : non vérifié (aucune source ne le donne).",
+  "Nom du piment de la Jamaïque en arabe libanais : non vérifié, donc non donné.",
+  "Le champ « darija » donne le nom libanais « tabbouleh » : ce plat n'a pas de nom en darija marocaine dans les sources lues.",
+  "Date de la recette de recettelibanaise.com et identité de son auteur : non indiquées sur la page."
+ ]
+}

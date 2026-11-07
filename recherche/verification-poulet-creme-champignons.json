@@ -1,0 +1,135 @@
+{
+ "slug": "poulet-creme-champignons",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Home food fact checker », GOV.UK, mis à jour le 21 août 2026, lu le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "ce_qu_elle_confirme": "Riz cuit : le refroidir au plus vite, idéalement dans l'heure, en petites portions et pas dans la casserole ; le garder au réfrigérateur un jour au plus ; ne le réchauffer qu'une fois, jusqu'à ce qu'il soit fumant, car les spores de Bacillus cereus survivent à la cuisson. Viande : un seul réchauffage, fumante à cœur. (L'ancienne page du NHS sur le riz réchauffé renvoie maintenant vers cette page.)"
+  },
+  {
+   "name": "Wikipédia en arabe, article « عيش الغراب » (champignon), lu le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8",
+   "ce_qu_elle_confirme": "Le champignon y est appelé عيش الغراب ou فطر عش الغراب et défini comme un فطر : le mot فطر du nom arabe est attesté, mais le nom complet « دجاج بالقشدة والفطر » reste une traduction descriptive, trouvée dans aucune source."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "serving",
+   "actuel": "Restes : au réfrigérateur dans les 2 heures, sauce et riz compris (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), réchauffés une seule fois, couverts, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA).",
+   "propose": "Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA).",
+   "pourquoi": "Le riz cuit a sa propre règle : la FSA demande de le refroidir au plus vite, idéalement dans l'heure, et de ne pas le garder plus d'un jour au réfrigérateur, car les spores de Bacillus cereus survivent à la cuisson. Le texte actuel range le riz dans la règle générale (2 heures, 2 jours), plus permissive. Les autres chiffres sont justes : Anses, 2 heures au plus à température ambiante et moins de 3 jours ; FSA, 2 heures, 48 heures et un seul réchauffage.",
+   "gravite": "majeure",
+   "sources": "FSA, « Home food fact checker » (GOV.UK, mis à jour le 21 août 2026), rubrique « Rice » ; FSA, « Cooking your food » et « How to chill, freeze and defrost food safely » ; Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » et « DLC et DDM »."
+  },
+  {
+   "champ": "steps[6].text",
+   "actuel": "Mets la moitié du poulet et laisse-le dorer 2 minutes environ",
+   "propose": "Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ",
+   "pourquoi": "Rendu pour 8 personnes : « Mets la moitié du poulet » fait 600 g d'un coup, le double de la fournée prévue pour 4. Betty Bossi conseille 250 g d'émincé au plus à la fois et plusieurs fournées pour les grandes quantités, sinon la viande cuit dans son jus au lieu de dorer, ce que dit aussi le secret de la recette. Pour 1 à 4 personnes, rien ne change.",
+   "gravite": "mineure",
+   "sources": "Betty Bossi, « Faire sauter » (ne pas surcharger, procéder par portions) ; rendu de l'appli pour 8 personnes (code de app.html)."
+  },
+  {
+   "champ": "steps[7].text",
+   "actuel": "saisis l'autre moitié de la même façon, 2 minutes environ, puis sors-la aussi.",
+   "propose": "saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
+   "pourquoi": "Suite de la correction précédente : au-delà de 4 personnes, il reste plusieurs fournées. Pour 4, le sens et le minuteur de 2 minutes ne changent pas.",
+   "gravite": "mineure",
+   "sources": "Betty Bossi, « Faire sauter » et « Émincé de poulet à la crème » (saisi par portions, environ 2 minutes)."
+  },
+  {
+   "champ": "secrets[0].text",
+   "actuel": "Coupe et prépare tout avant d'allumer le feu :",
+   "propose": "Coupe et prépare tout avant d'allumer le feu sous la poêle :",
+   "pourquoi": "Cohérence interne : la première étape met l'eau du riz ou des pâtes à chauffer avant toute découpe. La mise en place de Betty Bossi vaut pour la poêle.",
+   "gravite": "mineure",
+   "sources": "Betty Bossi, « Faire sauter » (mise en place) ; étape 1 de la recette."
+  },
+  {
+   "champ": "secrets[4].source",
+   "actuel": "Escoffier, Le Guide culinaire (série des poulets sautés)",
+   "propose": "Escoffier, Le Guide culinaire (série des poulets sautés) ; Betty Bossi (« La crème des crèmes » : plus de sucs, sauce plus goûteuse)",
+   "pourquoi": "Escoffier définit le déglaçage, « opération essentielle » qui dissout le jus caramélisé, mais ne dit pas que c'est la base du goût de la sauce ; c'est Betty Bossi qui relie les sucs au goût de la sauce.",
+   "gravite": "mineure",
+   "sources": "Escoffier, Le Guide culinaire (Wikisource), principe des poulets sautés ; Betty Bossi, « La crème des crèmes »."
+  },
+  {
+   "champ": "secrets[11].text",
+   "actuel": "Remets le poulet avec le jus qu'il a rendu dans l'assiette : il parfume la sauce.",
+   "propose": "Remets le poulet dans la sauce avec tout le jus qu'il a rendu dans l'assiette.",
+   "pourquoi": "Betty Bossi remet l'émincé avec le jus de viande recueilli, sans dire pourquoi ; « il parfume la sauce » n'est écrit dans aucune source lue.",
+   "gravite": "mineure",
+   "sources": "Betty Bossi, « Émincé de poulet à la crème » (12 septembre 2025)."
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Cuisine AZ (version de la rédaction)",
+   "propose": "Cuisine AZ (en option, dans l'astuce de la version du 19 septembre 2026)",
+   "pourquoi": "Aucune des deux recettes de Cuisine AZ citées n'a de vin dans ses ingrédients ; celle du 19 septembre 2026, signée « Raphaël » et non par la rédaction, propose un filet de vin blanc sec en option dans son astuce.",
+   "gravite": "mineure",
+   "sources": "Cuisine AZ, recettes du 14 mai et du 19 septembre 2026, lues le 7 novembre 2026."
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "Retenu : 250 g, valeur médiane et la plus fréquente.",
+   "propose": "Retenu : 250 g, valeur la plus fréquente (médiane : 275 g pour ces six recettes ; 250 g en ajoutant les zurichoises de Migusto, 250 g, et de Betty Bossi, 200 g ; calcul python).",
+   "pourquoi": "Recalcul (python) : la médiane de 150, 250, 250, 300, 400 et 800 g est 275 g (300 g si l'on compte les deux recettes de Cuisine AZ) ; 250 g est la valeur la plus fréquente, et devient la médiane si l'on ajoute les deux émincés à la zurichoise.",
+   "gravite": "mineure",
+   "sources": "Migusto (trois recettes) ; Betty Bossi (deux recettes) ; Chef Simon ; Cuisine AZ ; Journal des Femmes ; calcul python."
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "crème fraîche épaisse (recettes françaises de Cuisine AZ et du Journal des Femmes)",
+   "propose": "crème fraîche épaisse (deux recettes de lecteurs du Journal des Femmes), crème fraîche entière ou « crème fraîche » (Cuisine AZ)",
+   "pourquoi": "Cuisine AZ écrit « crème fraîche entière » (14 mai 2026) et « crème fraîche » (19 septembre 2026), pas « épaisse » ; seules les deux recettes du Journal des Femmes disent « crème fraîche épaisse ».",
+   "gravite": "mineure",
+   "sources": "Cuisine AZ, deux recettes ; Journal des Femmes, deux recettes de lecteurs."
+  },
+  {
+   "champ": "sources[14].used_for",
+   "actuel": "Ces pages, sans auteur nommé pour les deux premières, servent seulement de recoupement.",
+   "propose": "Ces pages, signées d'un simple prénom (« Raphaël ») pour les deux premières, servent seulement de recoupement.",
+   "pourquoi": "Les deux recettes de Cuisine AZ affichent « Par Raphaël », avec le même auteur dans leurs données ; la blanquette est signée de la rédaction.",
+   "gravite": "mineure",
+   "sources": "Cuisine AZ, pages lues le 7 novembre 2026."
+  },
+  {
+   "champ": "sources[18].name",
+   "actuel": "(15 décembre 2025)",
+   "propose": "(27 octobre 2025)",
+   "pourquoi": "L'article de l'Anses sur la salmonellose est daté du 27/10/2025 ; le 15/12/2025 est la date de mise en ligne d'une note jointe en bas de page (saisine 2023-AST-0069).",
+   "gravite": "mineure",
+   "sources": "Anses, page lue le 7 novembre 2026."
+  },
+  {
+   "champ": "unverified[3]",
+   "actuel": "n'ont pas d'auteur nommé et contiennent des anomalies",
+   "propose": "ne sont signées que d'un prénom (« Raphaël ») et contiennent des anomalies",
+   "pourquoi": "Même constat que pour sources[14] ; les anomalies signalées (« thon mariné » dans l'une, un mot en géorgien dans l'autre) sont bien sur les pages.",
+   "gravite": "mineure",
+   "sources": "Cuisine AZ, pages lues le 7 novembre 2026."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 37 adresses de la recette (sources et pages citées dans « used_for ») répondent (code 200, le 7 novembre 2026). Robots.txt relus pour chaque site : aucun ne vise Claude ou Anthropic, et aucune page utilisée n'est interdite à « User-agent: * ».",
+  "Proportions recalculées (python) : poulet 600 g = médiane (600, 600, 600, 500 et 400 g ramenés à 4) ; crème 200 ml = médiane et valeur la plus fréquente ; bouillon 200 ml = médiane ; huile, médiane 1 c. à s. et 2 retenues pour deux fournées (justifié dans discrepancies) ; riz 280 g = Chef Simon (140 g pour 2) et haut de la fourchette de Migusto (50 à 70 g par personne en accompagnement) ; pâtes 240 g = Betty Bossi (120 g pour 2), dans la fourchette de Migusto (50 à 80 g). 150 g de poulet par personne, au-dessus des 100 à 120 g de Migusto : « bonnes portions », comme le dit l'auteur.",
+  "Escoffier (Wikisource) : il déglace bien sans vin. Le principe des poulets sautés donne « soit un vin quelconque, soit de la cuisson de champignons, soit du fonds de volaille » ; poulet sauté Gabrielle déglacé à la cuisson de champignons puis à la crème, à la Bordelaise au jus de volaille, Boivin au consommé ; le déglaçage dissout le jus caramélisé ; les morceaux blancs ne doivent plus bouillir, « cette ébullition les durcirait » ; pour les poulets à blanc, les sauces se finissent à la crème.",
+  "Migusto : émincé à la crème et aux herbes, sans vin (pour 4 : 600 g d'émincé salé et poivré, 150 g de champignons de Paris, 1 petit oignon, 2,5 dl de fond ou de bouillon réduit de moitié en 10 minutes, 180 g de demi-crème pour sauces ; poulet saisi 2 minutes, réservé, remis dans la sauce ; 25 minutes ; beurre aux herbes et zeste de citron ; röstis) ; sauce aux champignons (500 g, 250 g de champignons, 1 oignon, 4 c. à s. d'huile, paprika, 1 dl de vin blanc, 2,5 dl de crème réduite 8 minutes, « le poulet doit être bien cuit », persil, spätzli, et la phrase citée en occasion, exacte) ; zurichoise (lanières de 1 cm, portion par portion environ 1 minute, 250 g de champignons de Paris blancs, vin et 2 dl de fond, 1 dl de demi-crème ; la viande ne doit plus cuire, sinon elle durcit ; röstis ; 30 minutes) ; nettoyage au pinceau ou à la brosse, sans rinçage, pieds raccourcis ; glossaire de la crème (entière, au moins 35 %, supporte la cuisson ; demi-crème, 25 %, à ne pas porter à ébullition ; emballages ouverts à consommer vite).",
+  "Betty Bossi : émincé aux champignons (pour 2 : 200 g saisis environ 4 minutes, 250 g de champignons de Paris et 150 g de shiitakés environ 5 minutes, 2 c. à s. de vin, 1,5 dl de bouillon, 0,5 dl de demi-crème à sauce environ 5 minutes, ciboulette, 120 g de pâtes ; à préparer la veille, couvert au frais, bien réchauffé) ; émincé à la crème (pour 4 : 600 g saisis par portions environ 2 minutes, oignon environ 2 minutes, vermouth, 2,5 dl de bouillon de poule et 2 dl de demi-crème à sauce environ 10 minutes, poulet remis avec son jus le temps de bien chauffer, persil ; 30 minutes) ; zurichoise (lanières d'environ 1 cm, champignons au citron, vin, crème, bouillon et maïzena). Articles : croûte de 1 à 2 minutes avant de retourner, 2 ou 3 portions, huile très chaude sans fumer, mise en place ; champignons de Paris blancs pour les sauces claires et la volaille, nettoyés au pinceau, rincés brièvement seulement s'ils sont très sales, salés au dernier moment ; poêle en fonte ou en inox pour plus de sucs, demi-crème qui tranche si elle bout, crème entière et crème fraîche qui supportent la chaleur.",
+  "Chef Simon : fricassée sans vin pour 4 (300 g de champignons de Paris, échalotes, fond de volaille maison, 2 dl de crème fraîche, « toujours cuire à feu doux (petit frémissement) », riz créole ou pâtes fraîches) ; champignons de Paris lavés à l'eau froide si besoin, pied terreux coupé, émincés au couteau ; riz créole (140 g pour 2, eau bouillante salée, 10 à 15 minutes, égoutté). Académie du Goût (Julien Sebbag, 9 octobre 2026) : ne jamais tremper les champignons, pied terreux coupé, brosse humide ou papier absorbant, cuisson bien poussée, huile neutre puis beurre, sel au début (désaccord signalé par l'auteur).",
+  "Cuisine AZ et Journal des Femmes (recoupement seulement) : 600 g de blancs, 400 g de champignons, 20 cl de crème entière, 10 cl de bouillon, champignons sautés jusqu'à évaporation, riz blanc (14 mai 2026) ; 25 cl de crème, 20 cl de bouillon, 20 g de beurre, oignon translucide, crème sans bouillir fort (19 septembre 2026) ; blanquette sans vin : bouillon de volaille à la place du vin, l'eau seule donne un résultat fade ; lecteurs du Journal des Femmes (250 g de champignons, 1 oignon, 2 gousses d'ail, 20 cl de crème fraîche épaisse ; vinaigre balsamique non repris). Wikipédia (zurichoise : veau, crème, vin blanc, champignons, röstis et spätzli ; crème fraîche épaisse qui « résiste bien à la cuisson » ; titre arabe قشدة طازجة ; moutarde de Dijon au vinaigre de vin). Légifrance : « crème » d'au moins 30 g de matière grasse pour 100 g, « crème légère » de 12 à 30 g, « crème fraîche » seulement pasteurisée.",
+  "Halal : ni vin, ni vermouth, ni moutarde au vin, ni vinaigre de vin dans les ingrédients, étapes, variantes et service ; le vin des recettes suisses est écarté et remplacé par le bouillon, comme Escoffier le permet ; bouillon de volaille halal demandé ; pas de fromage, donc pas de question de présure.",
+  "Sécurité alimentaire : Anses (Campylobacter détruit au-delà de 65 °C ; cuire à cœur à 70 °C ; mains, planche et ustensiles nettoyés après le cru ; une planche pour le cru ; pas de réutilisation des plats du cru ; 2 heures au plus à température ambiante ; moins de 3 jours pour un plat cuisiné ; aliments entamés sous 3 jours ; viande en sauce dans la zone la plus froide, à 4 °C ; durée « après ouverture » à suivre ; réchauffer couvert jusqu'à la vapeur). FSA (couper le plus gros morceau, ni rose ni jus trouble ; 70 °C pendant 2 minutes ou 75 °C pendant 30 secondes ; ne pas laver le poulet cru ; une seule planche : légumes d'abord, viande crue en dernier, lavage au savon ; restes dans les 2 heures, sous 48 heures, un seul réchauffage ; produits laitiers selon l'étiquette). « Au moins 75 °C » reprend le palier de la FSA ; le poulet reste ensuite dans la sauce qui frémit.",
+  "Cohérence interne : minuteurs de 2 minutes = « 2 minutes environ » des deux fournées, messages de fin cohérents avec l'étape suivante ; 10 + 20 = 30 minutes (catégorie « Rapide »), en accord avec Migusto (25 minutes) et Betty Bossi (30 minutes), le riz ou les pâtes cuisant pendant la sauce ; chaque ingrédient de la liste sert dans les étapes, avec les mêmes quantités.",
+  "Rendu dans l'appli (code de app.html, recette passée par outils/integrer.py) : pour 1 personne, 150 g de poulet, ½ c. à s. d'huile, ¼ oignon, 65 g de champignons (62,5 g arrondis à 5 g), 50 ml de bouillon et de crème, 70 g de riz ou 60 g de pâtes ; pour 4, les quantités de la liste ; pour 8, 1,2 kg de poulet, 4 c. à s., 2 oignons, 500 g, 400 ml, 560 g ou 480 g. {{beurre}}, {{sel}}, {{poivre}}, {{persil}} et {{eau}} affichent leur nom. Seul défaut trouvé : la fournée de 600 g pour 8 (corrigée).",
+  "Secrets, erreurs, variantes et service : retrouvés dans les sources citées, à part les points corrigés (mise en place, saisie en plusieurs fois, croûte avant de retourner, poêle en fonte ou en inox, sauce sans vin, petit frémissement, champignons jamais trempés et bien poussés, champignons blancs, crèmes qui supportent la cuisson ; variantes aux herbes, au paprika, à l'ail, à l'échalote, aux shiitakés, zurichoise, fricassée ; service avec riz créole, pâtes fraîches ou tagliatelles, röstis ou spätzli)."
+ ],
+ "non_verifiable": [
+  "Règle du riz (dans l'heure, 24 heures au plus) : lue sur la page de la FSA seulement ; sans moteur de recherche, je n'ai pas trouvé de page de l'Anses sur le riz cuit et Bacillus cereus pour la recouper.",
+  "Durées de l'oignon, des champignons et de la réduction de la sauce : non chiffrées de façon concordante par les sources (la recette se fie à l'œil, comme le note l'auteur) ; le total de 30 minutes suppose que l'eau chauffe pendant la préparation et que le riz ou les pâtes cuisent pendant la sauce.",
+  "Nom arabe « دجاج بالقشدة والفطر » : traduction descriptive ; قشدة (crème fraîche, قشدة طازجة) et فطر sont attestés par Wikipédia en arabe, mais aucune source lue ne donne ce nom de plat. Darija : rien trouvé, le champ reste vide.",
+  "Statut halal des cubes de bouillon et disponibilité au Maroc de la crème fraîche épaisse à 30 % : non vérifiés (comme le note l'auteur).",
+  "Quota de recherche web épuisé : seules des pages d'adresse connue ont été ouvertes ; pas d'autre recette de chef français cherchée pour ce plat, ni 750g ni Cuisine Actuelle. Les sites déjà refusés (Swissmilk, Elle à Table, BBC Food, Delia Online, Jamie Oliver, Chefkoch, Essen und Trinken, Madame Figaro, L'Atelier des Chefs, Marmiton, FDA, USDA, Santé Canada, FoodSafety.gov, CDC) n'ont pas été rouverts."
+ ]
+}

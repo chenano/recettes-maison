@@ -1,0 +1,149 @@
+{
+ "slug": "escalopes-poulet-panees",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "CIPI (Centre d'information pour la prévention des incendies, Suisse), « Dangers d'incendie en cuisine », lu le 7 novembre 2026",
+   "url": "https://www.bfb-cipi.ch/fr/conseils-prevention-incendie/detail/cuisine",
+   "ce_qu_elle_confirme": "Ne jamais éteindre de la graisse en feu avec de l'eau, qui provoque une explosion de graisse brûlante ; sur un petit feu, poser un couvercle adapté ou une plaque de four, le plus sûr étant une couverture anti-feu, puis éteindre les plaques ; ne jamais laisser la poêle sans surveillance (les huiles peuvent s'enflammer seules au-delà de 300 °C). Recoupe le BPA et le gouvernement britannique."
+  },
+  {
+   "name": "Wikipédia en arabe, article « إسكالوب », lu le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D9%83%D8%A7%D9%84%D9%88%D8%A8",
+   "ce_qu_elle_confirme": "إسكالوب désigne une tranche de viande sans os, aplatie, qui peut être du poulet ; enrobée de بقسماط (chapelure) puis frite, c'est l'une des façons françaises de la servir. Le nom complet « إسكالوب دجاج بانيه » reste composé : aucune source lue ne l'emploie tel quel."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[6].text",
+   "actuel": "Verse {{huile}} d'huile dans la grande poêle et chauffe-la",
+   "propose": "Verse {{huile}} d'huile dans la grande poêle (une petite poêle si tu ne cuis qu'une escalope, pour que l'huile monte assez haut) et chauffe-la",
+   "pourquoi": "Rendu pour 1 personne : « Verse 50 ml d'huile dans la grande poêle ». Étalés sur un fond de 24 cm, 50 ml ne font qu'environ 1,1 mm d'huile, alors que Migusto cuit les escalopes « à demi immergées dans la graisse », soit au moins 2,5 mm pour une escalope de 5 mm ; sur un fond de 16 cm, les mêmes 50 ml font 2,5 mm (calcul python). L'auteur conseille déjà une petite poêle dans « unverified », mais l'étape ne le dit pas. Pour 4 (200 ml) et 8 personnes (400 ml), la grande poêle convient : 4,4 et 8,8 mm d'huile sur un fond de 24 cm.",
+   "gravite": "mineure",
+   "sources": "Migusto, « Escalopes viennoises » (escalopes à demi immergées dans la graisse) et « La friture » (cuisson semi-flottante d'une escalope à la poêle) ; calcul python (volume divisé par la surface du fond) ; rendu de l'appli pour 1 personne (code de app.html)."
+  },
+  {
+   "champ": "steps[9].tip",
+   "actuel": "L'Anses demande une cuisson à cœur",
+   "propose": "L'Anses recommande une cuisson à cœur",
+   "pourquoi": "L'Anses ne l'impose pas : « cuire à coeur (70 °C) » figure dans sa liste de gestes pour limiter l'exposition du consommateur. Les chiffres de l'astuce sont justes : 70 °C pour l'Anses, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes pour la FSA.",
+   "gravite": "mineure",
+   "sources": "Anses, « Qu'est-ce que la salmonellose et comment s'en prémunir ? » (27 octobre 2025) ; FSA, « Cooking your food » (18 décembre 2017)."
+  },
+  {
+   "champ": "steps[13].tip",
+   "actuel": "Une escalope de volaille panée n'attend pas : servie aussitôt, elle reste moelleuse et croustillante (Escoffier).",
+   "propose": "Une escalope de volaille panée n'attend pas, sinon elle durcit : sers-la aussitôt, moelleuse et brûlante (Escoffier).",
+   "pourquoi": "Escoffier écrit qu'une côtelette ou un suprême de volaille « ne doit jamais attendre sous peine de durcir » et se sert moelleux et brûlant ; le mot « croustillante » n'est pas dans son texte.",
+   "gravite": "mineure",
+   "sources": "Escoffier, Le Guide culinaire, chapitre « Relevés et entrées de volaille » (Wikisource), remarque importante sur les côtelettes et suprêmes."
+  },
+  {
+   "champ": "secrets[8].text",
+   "actuel": "le beurre ordinaire brûle vers 130 à 150 °C, le beurre clarifié supporte environ 250 °C.",
+   "propose": "le beurre ordinaire commence à fumer vers 130 à 150 °C, le beurre clarifié vers 250 °C seulement.",
+   "pourquoi": "Chef Simon donne des points de fumée (environ 250 °C pour le beurre clarifié, 130 à 150 °C pour le beurre ordinaire), pas la température à laquelle le beurre brûle.",
+   "gravite": "mineure",
+   "sources": "Chef Simon, lexique « Beurre clarifié » (modifié le 7 mai 2026)."
+  },
+  {
+   "champ": "serving",
+   "actuel": "Tout de suite, avec des quartiers de citron (Migusto, Diana Henry, Office du tourisme de Vienne).",
+   "propose": "Tout de suite, avec du citron, en quartiers (Migusto, Diana Henry) ou en rondelles (Office du tourisme de Vienne).",
+   "pourquoi": "La recette de Vienne garnit l'escalope de rondelles de citron (« Zitronenscheiben ») ; Migusto coupe le citron en quartiers et Diana Henry sert des quartiers (« lemon wedges »).",
+   "gravite": "mineure",
+   "sources": "Office du tourisme de Vienne, « Das Wiener Schnitzel » ; Migusto, « Escalopes viennoises » ; BBC Good Food, Diana Henry."
+  },
+  {
+   "champ": "sources[16].used_for",
+   "actuel": "Recette au poulet : 4 hauts de cuisse désossés",
+   "propose": "Recette au poulet pour 2 personnes : 4 hauts de cuisse désossés",
+   "pourquoi": "La page annonce « Serves 2 » (2 portions dans ses données) pour 4 hauts de cuisse : ses quantités ne sont pas « pour 4 personnes », comme le disent les discrepancies (corrigées plus bas).",
+   "gravite": "mineure",
+   "sources": "BBC Good Food, Diana Henry, « Chicken schnitzel with brown butter & capers », lu le 7 novembre 2026."
+  },
+  {
+   "champ": "sources[17].used_for",
+   "actuel": "Poulet aplati à environ 7 mm ;",
+   "propose": "6 filets de pilon de poulet, pour 6 schnitzels selon la page, aplatis à environ 7 mm ;",
+   "pourquoi": "Great British Chefs ne donne pas de nombre de personnes : la recette annonce 6 schnitzels, faits avec 6 filets de pilon.",
+   "gravite": "mineure",
+   "sources": "Great British Chefs, GBC Kitchen, « Chicken drumstick fillet schnitzels with gremolata », lu le 7 novembre 2026."
+  },
+  {
+   "champ": "sources[23].name",
+   "actuel": "mis en ligne le 15 décembre 2025",
+   "propose": "article du 27 octobre 2025",
+   "pourquoi": "L'article de l'Anses est daté du 27/10/2025 ; le 15/12/2025 est la date de mise en ligne d'une note jointe en bas de page (saisine 2023-AST-0069), pas celle de l'article.",
+   "gravite": "mineure",
+   "sources": "Anses, page lue le 7 novembre 2026."
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "Farine pour 4 : 100 g (Cyril Lignac, Office du tourisme de Vienne, Diana Henry), 80 g (Chef Simon pour 4 merlans ; Great British Chefs), 6 c. à s. (Migusto). Retenu : 100 g, valeur majoritaire et médiane ; il en restera un peu.",
+   "propose": "Farine pour 4 : 100 g (Cyril Lignac, 4 escalopes ; Office du tourisme de Vienne, 8 petites tranches pour 4 personnes ; Diana Henry, 4 hauts de cuisse pour 2 personnes), 80 g (Chef Simon pour 4 merlans ; Great British Chefs pour 6 schnitzels), 6 c. à s. (Migusto). Retenu : 100 g, valeur la plus fréquente et médiane ramenée à 4 personnes (80 g ramenée à 4 morceaux, calcul python) ; il en restera un peu.",
+   "pourquoi": "Diana Henry cuisine pour 2 personnes et Great British Chefs fait 6 schnitzels : leurs quantités ne sont pas « pour 4 ». Recalcul (python) : ramenées à 4 personnes, la médiane reste 100 g ; ramenées à 4 morceaux, elle est de 80 g. Les 100 g retenus restent justifiés : la farine se met en excès et l'excédent est secoué.",
+   "gravite": "mineure",
+   "sources": "BBC Good Food (« Serves 2 ») ; Great British Chefs (« Makes 6 schnitzels ») ; Office du tourisme de Vienne (4 portions, 8 tranches) ; Journal des Femmes (Cyril Lignac) ; Chef Simon ; calcul python."
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "Œufs pour 4 : 2 (Migusto, Journal des Femmes, Diana Henry, Great British Chefs, Chef Simon ramené à 4), 3 (Cyril Lignac), 4 pour 8 petites escalopes (Vienne). Retenu : 2, valeur majoritaire.",
+   "propose": "Œufs pour 4 : 2 (Migusto, Journal des Femmes, Chef Simon ramené à 4 ; Diana Henry, 4 hauts de cuisse pour 2 personnes ; Great British Chefs, 6 schnitzels), 3 (Cyril Lignac), 4 pour 8 petites escalopes (Vienne). Retenu : 2, valeur majoritaire et médiane, ramenée à 4 morceaux comme à 4 personnes (calcul python).",
+   "pourquoi": "Même erreur d'étiquette « pour 4 » pour Diana Henry (2 personnes) et Great British Chefs (6 schnitzels). Le choix de 2 œufs est confirmé par le recalcul.",
+   "gravite": "mineure",
+   "sources": "BBC Good Food ; Great British Chefs ; Migusto ; Journal des Femmes ; Chef Simon ; Office du tourisme de Vienne ; calcul python."
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "Chapelure pour 4 : 100 g (Cyril Lignac, Migusto, Diana Henry, Great British Chefs), 120 g (Journal des Femmes ; Chef Simon ramené à 4), 150 g de mie de pain (Chef Simon, merlan), 200 g pour 8 petites escalopes (Vienne). Retenu : 100 g, valeur majoritaire (médiane : 110 g).",
+   "propose": "Chapelure pour 4 : 100 g (Cyril Lignac, Migusto ; Diana Henry, 4 hauts de cuisse pour 2 personnes ; Great British Chefs, 6 schnitzels), 120 g (Journal des Femmes ; Chef Simon ramené à 4), 150 g de mie de pain (Chef Simon, merlan), 200 g pour 8 petites escalopes (Vienne). Retenu : 100 g, valeur majoritaire et médiane ramenée à 4 morceaux (120 g ramenée à 4 personnes, calcul python).",
+   "pourquoi": "La « médiane : 110 g » mélangeait des quantités pour 4 personnes et pour 4 morceaux. Recalcul (python) : 100 g pour 4 morceaux (la recette compte une escalope par personne), 120 g pour 4 personnes.",
+   "gravite": "mineure",
+   "sources": "BBC Good Food ; Great British Chefs ; Office du tourisme de Vienne ; Journal des Femmes ; Migusto ; Chef Simon ; calcul python."
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "seulement après la friture (Migusto, guide de la friture, en règle générale).",
+   "propose": "le guide de la friture de Migusto le permet aussi, légèrement, pour les aliments panés comme les escalopes, et ne sale les autres fritures qu'après la cuisson.",
+   "pourquoi": "Le guide de Migusto ne contredit pas les recettes : il autorise à assaisonner légèrement au préalable un aliment pané, et cite les escalopes en exemple ; la règle « saler après » vaut pour les autres fritures.",
+   "gravite": "mineure",
+   "sources": "Migusto, Anja Steiner, « La friture : chaleur et croustillant avant tout ! » (modifié le 15 juillet 2025)."
+  },
+  {
+   "champ": "discrepancies[10]",
+   "actuel": "Temps total pour 4 : 20 minutes (Cyril Lignac, cité par le Journal des Femmes), 30 minutes (Diana Henry, Cuisine AZ), 35 minutes (Great British Chefs), 40 minutes (Migusto, une escalope à la fois). Retenu : 30 minutes (médiane), soit environ 12 minutes pour aplatir et paner et 18 minutes pour deux fournées ; avec une petite poêle, une escalope à la fois, compte plutôt 40 minutes.",
+   "propose": "Temps total : 20 minutes (Cyril Lignac, cité par le Journal des Femmes, pour 4), 30 minutes (Diana Henry, 4 hauts de cuisse pour 2 personnes ; Cuisine AZ, pour 4), 35 minutes (Great British Chefs, 6 schnitzels), 40 minutes (Migusto, pour 4, une escalope à la fois, environ 3 minutes chacune). Retenu : 30 minutes (médiane), soit environ 12 minutes pour aplatir et paner et 18 minutes pour deux fournées de 2 fois 4 minutes ; avec une petite poêle, une escalope à la fois, compte plutôt 45 minutes (12 minutes, plus 4 fournées de 8 minutes, calcul python).",
+   "pourquoi": "Diana Henry et Great British Chefs ne sont pas « pour 4 ». Une escalope à la fois, à 4 minutes par face, c'est 4 fois 8 minutes de friture : 12 + 32 = 44 minutes avant même de chauffer l'huile, donc 40 minutes est trop court (calcul python). Migusto arrive à 40 minutes parce qu'il compte environ 3 minutes par escalope.",
+   "gravite": "mineure",
+   "sources": "BBC Good Food ; Great British Chefs ; Migusto, « Escalopes viennoises » ; Cuisine AZ ; Journal des Femmes ; calcul python."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 41 adresses de la recette (sources et pages citées dans « used_for ») répondent (code 200, le 7 novembre 2026). Robots.txt relus pour chaque site : aucun ne vise Claude ou Anthropic, et aucune page utilisée n'est interdite à « User-agent: * » (Cuisine AZ n'interdit que des motifs d'adresses qui ne touchent pas ces pages ; le BPA n'interdit que la version AMP de sa page).",
+  "Proportions recalculées (python, détail dans le dossier temporaire) : ramenées à 4 morceaux, médiane de 2 œufs et de 100 g de chapelure ; 100 g de farine = valeur la plus fréquente et médiane pour 4 personnes. Épaisseur de 5 mm = médiane (Vienne 2 à 4 mm, Betty Bossi environ 5 mm, Ben Tish 0,5 cm, Great British Chefs environ 7 mm). Huile vers 170 °C = médiane (Migusto 165 à 175 °C et 170 °C, Betty Bossi 160 à 180 °C, Cyril Lignac 180 °C). 200 ml d'huile = Migusto (2 dl d'huile de tournesol, avec 4 c. à s. de beurre à rôtir).",
+  "Chef Simon, « Escalope de veau panée à l'anglaise » : « valable pour les escalopes de veau et de volaille » ; inciser légèrement avant d'aplatir pour éviter la rétractation ; farine tapotée, œuf assaisonné, huilé ou détendu d'eau et égoutté, chapelure pressée sur chaque face ; beurre noisette ou, mieux, beurre clarifié ; viande épaisse finie à feu plus doux ; pour 2 : 1 œuf, 60 g de chapelure, 40 g de beurre ; variantes milanaise (mie de pain et parmesan) et Holstein (œuf au plat et filets d'anchois). « Tailler et aplatir une escalope de volaille » : main à plat, fibres incisées pour faciliter le battage, papier sulfurisé, surface augmentée d'un tiers voire doublée. « Merlan pané » : pour 4, environ 80 g de farine, 2 œufs, 150 g de mie de pain, 3 à 4 minutes sur la première face. Lexiques : panure à l'anglaise, milanaise avec un tiers de parmesan, chapelure de mie rassie tamisée ou mixée.",
+  "Escoffier (Wikisource) : côtelettes et suprêmes « panés à l'anglaise pour être sautés ou frits » ; suprême Marie-Louise (escalopes légèrement aplaties, panées à l'anglaise, sautées au beurre clarifié) ; poussins à la viennoise (farine, panure à l'anglaise, beurre clarifié ou saindoux : la recette ne reprend que le beurre clarifié).",
+  "Journal des Femmes : rédaction (15 août 2025) pour 4, 4 escalopes, 2 œufs, 120 g de chapelure, 50 g de parmesan, dorées 2 par 2 environ 3 minutes par face puis 10 minutes au four ; Cyril Lignac (Elide Achille, 23 janvier 2023) pour 4, 100 g de farine, 3 œufs, 100 g de chapelure, 200 g de beurre clarifié à 180 °C, papier absorbant, 20 minutes ; version légère (Tatiana Jean-Dorize, 6 mai 2024, faite avec de la dinde) : blancs mousseux sans farine, 100 g de chapelure pour le double de cacahuètes et 1 c. à c. de tandoori, 30 minutes au frais, fond d'huile neutre.",
+  "Migusto : « Paner une escalope » (trois assiettes, farine salée et poivrée, excédent secoué, œuf égoutté, panure pressée légèrement) ; « Escalopes viennoises » (pour 4 : 6 c. à s. de farine, 100 g de chapelure, 2 œufs, 4 escalopes d'environ 150 g, 2 dl d'huile ; environ 170 °C ; test du bâtonnet en bois ; une escalope à la fois, à demi immergée, poêle inclinée ; papier absorbant ; four à 80 °C ; paner juste avant de cuire ; 40 minutes ; accompagnements) ; « La friture » (165 à 175 °C, huile trop froide = panure imbibée, aliment sec, colza ou arachide, louche en bois, cuisson semi-flottante) ; quantités (escalope 100 à 120 g par personne) ; glossaire (escalope découpée dans la poitrine, appréciée panée des enfants).",
+  "Betty Bossi : « Paner » (Erica, 12 août 2026 : la farine sèche la surface pour que l'œuf adhère, l'œuf fait tenir la chapelure ; trois assiettes ; éponger ; paner juste avant de cuire ; matière grasse bien chaude ; arroser d'huile chaude à la cuillère ; double panure ; panko) ; « Frire » (160 à 180 °C, brochette en bois, petites portions, four à 60 °C porte entrouverte, ne pas trop dorer à cause de l'acrylamide) ; « Escalopes » (tranches du boucher d'environ 5 mm ; les enfants l'adorent panée).",
+  "Office du tourisme de Vienne (recette du Neue Sacher-Kochbuch) : pour 4, 8 tranches de veau de 90 g, 4 œufs, 200 g de chapelure très fine, 100 g de farine, 300 ml de beurre clarifié et 100 ml d'huile ; viande battue à 2 à 4 mm, salée des deux côtés ; œufs à peine battus à la fourchette (trop battus, ils deviennent liquides) ; poêle balancée pour que la panure souffle ; papier absorbant ; accompagnements. Backhendl : friture vers 160 °C.",
+  "Diana Henry (BBC Good Food, 21 mai 2018) : aplatir au rouleau entre deux papiers sans déchirer la chair, 4 minutes par face à feu moyen, panure dorée et poulet cuit à cœur, four doux, citron, cuisses plus juteuses que les blancs. Great British Chefs : environ 7 mm, panure pressée, 3 à 4 minutes par face, poêle trop chargée = panure molle, papier absorbant ; Ben Tish : blancs ouverts aplatis à 0,5 cm, double panure, friture à 180 °C. Cuisine AZ : 15 + 15 minutes, repos de 15 minutes non repris.",
+  "Larousse (paner ; chapelure : pain rassis émietté, séché au four, pilé et tamisé) ; Wikipédia (escalope de volaille = muscle pectoral ; escalope viennoise de Vienne, au veau ; version israélienne à la volaille, frite à l'huile végétale ; en anglais : frakh pané en Égypte, chapelure au paprika ou au sésame en Israël ; titre arabe إسكالوب).",
+  "Sécurité alimentaire : Anses (Campylobacter détruit au-delà de 65 °C, « > 65 °C à cœur » pour les volailles, planche et couteaux en cause ; salmonellose : cuire à cœur à 70 °C ; dix gestes : une planche pour le cru, ne pas réutiliser les plats du cru, 2 heures au plus à température ambiante, moins de 3 jours pour un plat cuisiné, 4 °C ; décongélation au réfrigérateur, au micro-ondes ou par la cuisson ; réchauffer couvert jusqu'à la vapeur). FSA : couper la partie la plus épaisse, ni rose ni jus trouble, 70 °C pendant 2 minutes ou 75 °C pendant 30 secondes, restes au réfrigérateur dans les 2 heures et mangés sous 48 heures, un seul réchauffage ; ne pas laver la volaille crue ; couleur jaune doré pour les aliments riches en amidon frits. « Au moins 75 °C » est donc plus prudent que l'Anses et correspond au palier de 75 °C de la FSA, dont l'astuce donne les 30 secondes.",
+  "Sécurité de la friture : gouvernement britannique (huile qui s'enflamme facilement, aliments secs, huile qui fume = feu coupé et refroidissement ; poêle en feu : pas de risque, feu coupé si c'est sans danger, jamais d'eau, ne pas affronter le feu, « get out, stay out and call 999 ») ; BPA (jamais d'eau sur de l'huile en feu, couvercle ou couverture anti-feu, rien de bouillant sans surveillance, manches vers l'arrière) ; recoupé par le CIPI (source ajoutée).",
+  "Halal : poulet halal, aucune trace de porc ni d'alcool dans les étapes, variantes et service ; le saindoux d'Escoffier et le vin blanc conseillé à Vienne ne sont pas repris ; note sur la présure pour le parmesan de la variante milanaise.",
+  "Cohérence interne : minuteurs de 4 minutes = « 4 minutes environ » des deux étapes de cuisson, leurs messages de fin renvoient aux étapes suivantes ; 12 + 18 = 30 minutes (catégorie « Rapide ») ; chaque ingrédient de la liste sert dans les étapes, avec les mêmes quantités.",
+  "Rendu dans l'appli (code de app.html, recette passée par outils/integrer.py) : pour 1 personne, 25 g de farine, 1 œuf, 25 g de chapelure, 50 ml d'huile, ¼ citron ; pour 4, les quantités de la liste ; pour 8, 200 g, 4 œufs, 200 g, 400 ml, 2 citrons ; {{sel}} et {{poivre}} affichent leur nom. Le « ½ œuf » pour 1 personne n'apparaît plus : outils/integrer.py arrondit désormais les œufs à l'unité supérieure (ROUND_UP). Ce choix est sourcé : Chef Simon met 1 œuf pour 2 escalopes, et Betty Bossi dit qu'il faut assez d'œuf pour passer entièrement chaque morceau.",
+  "Secrets, erreurs, variantes et service : chaque phrase retrouvée dans la source citée (à part les points corrigés) : incision avant de battre (Chef Simon), ordre et raison de la panure (Betty Bossi), excédents secoués et égouttés, huile bien chaude, pas plus de deux à la fois (Journal des Femmes, deux par deux ; Betty Bossi et Great British Chefs, poêle trop chargée), arrosage ou poêle inclinée, papier absorbant, chapelure fine, cuisses plus juteuses ; variantes milanaise, panko, double panure, Cyril Lignac, israélienne, Holstein, Diana Henry, beurre clarifié ; service et accompagnements (Vienne, Migusto, Wikipédia)."
+ ],
+ "non_verifiable": [
+  "Temps de chauffe de l'huile : aucune source lue ne le chiffre. Sur les 18 minutes de cuisson, 16 vont à la friture (2 fournées de 2 fois 4 minutes) : il n'en reste que 2 pour chauffer l'huile et vérifier la cuisson. Le total de 30 minutes (limite de la catégorie « Rapide ») est donc juste et peut être dépassé de quelques minutes ; sans source, je ne propose pas d'autre chiffre.",
+  "« Ne pas déplacer une poêle en feu » : ce conseil n'est dans aucune des trois pages officielles lues (gouvernement britannique, BPA, CIPI) ; il n'est pas ajouté. L'étape « Coupe le feu » dit déjà de laisser refroidir l'huile avant de déplacer la poêle. Le numéro des secours n'est pas donné (« appelle les secours ») : il dépend du pays.",
+  "Huile pour 8 personnes : l'appli double l'huile (400 ml) alors que les escalopes cuisent par fournées dans la même poêle ; aucune source ne chiffre ce cas. 400 ml restent une friture peu profonde (environ 9 mm sur un fond de 24 cm, calcul python), donc pas de correction.",
+  "Nom arabe « إسكالوب دجاج بانيه » : formé de إسكالوب (Wikipédia en arabe) et de بانيه (nom égyptien فراخ بانيه, cité par Wikipedia en anglais) ; aucune source lue ne l'emploie tel quel, et je n'ai pas trouvé de nom marocain sourcé sans moteur de recherche. Darija : rien trouvé, le champ reste vide.",
+  "Présure du parmesan (variante milanaise) : la note est juste dans son principe, mais je n'ai pas vérifié sur le site du consortium du Parmigiano Reggiano quel coagulant il impose.",
+  "Recette de lectrice du Journal des Femmes (5 à 10 minutes par face) citée dans discrepancies : sans lien, non vérifiée ; elle n'est pas retenue.",
+  "Quota de recherche web épuisé : seules des pages d'adresse connue ont été ouvertes ; pas d'autre recette française cherchée (750g, Cuisine Actuelle, sites de chefs), ni de nom marocain de l'escalope panée. Les sites déjà refusés (Elle à Table, Swissmilk, BBC Food, Delia Online, Jamie Oliver, Chefkoch, Essen und Trinken, Madame Figaro, L'Atelier des Chefs, Marmiton, FDA, USDA, Santé Canada, FoodSafety.gov, CDC) n'ont pas été rouverts."
+ ]
+}

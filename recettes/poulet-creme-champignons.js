@@ -1,0 +1,484 @@
+/* Recette : Émincé de poulet à la crème et aux champignons. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "poulet-creme-champignons",
+ "title": "Émincé de poulet à la crème et aux champignons",
+ "darija": "",
+ "arabic": "دجاج بالقشدة والفطر",
+ "tagline": "Des lanières de poulet saisies, des champignons bien dorés et une sauce crémeuse sans vin : un plat du soir doux et réconfortant, avec du riz ou des pâtes.",
+ "category": "Rapide",
+ "occasion": "Dîner rapide en semaine. Une sauce crémeuse qui « réunit toujours toute la famille autour de la table », selon Migusto.",
+ "region": "France et Suisse. Poulet sauté à la crème de la cuisine française classique (Escoffier, Chef Simon) et émincé de poulet à la crème des cuisines suisses (Migusto, Betty Bossi), cousin de l'émincé de veau à la zurichoise (Wikipédia).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 10,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une grande poêle ou une sauteuse (en fonte ou en inox si tu en as une : elle donne plus de sucs)",
+  "Une grande casserole et une passoire, pour le riz ou les pâtes",
+  "Une planche à découper et un couteau bien aiguisé",
+  "Une assiette propre, pour le poulet saisi",
+  "Une cuillère en bois ou une spatule",
+  "Du papier absorbant ou une petite brosse, pour les champignons",
+  "Un thermomètre de cuisson (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Poulet",
+   "items": [
+    {
+     "id": "poulet",
+     "q": 600,
+     "u": "g",
+     "name": "de blancs de poulet halal",
+     "note": "ou d'émincé de poulet tout prêt",
+     "canon": "blanc-poulet"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile neutre",
+     "note": "tournesol, colza ou arachide",
+     "canon": "huile"
+    }
+   ]
+  },
+  {
+   "group": "Sauce aux champignons",
+   "items": [
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon",
+     "pl": "oignons",
+     "canon": "oignon"
+    },
+    {
+     "id": "champignons",
+     "q": 250,
+     "u": "g",
+     "name": "de champignons de Paris",
+     "note": "blancs de préférence",
+     "canon": "champignons"
+    },
+    {
+     "id": "beurre",
+     "q": null,
+     "u": "",
+     "name": "beurre",
+     "note": "un petit morceau ; sinon une cuillerée d'huile",
+     "canon": "beurre"
+    },
+    {
+     "id": "bouillon",
+     "q": 200,
+     "u": "ml",
+     "name": "de bouillon de volaille halal",
+     "note": "cube halal dissous dans l'eau chaude, ou bouillon maison ; à défaut, de l'eau (la sauce aura moins de goût)",
+     "canon": "bouillon-volaille"
+    },
+    {
+     "id": "creme",
+     "q": 200,
+     "u": "ml",
+     "name": "de crème fraîche épaisse",
+     "note": "au moins 30 % de matière grasse, ou crème liquide entière ; pas de crème allégée",
+     "canon": "creme-fraiche"
+    },
+    {
+     "id": "persil",
+     "q": null,
+     "u": "",
+     "name": "persil plat",
+     "note": "quelques brins, facultatif",
+     "canon": "persil"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir (au choix)",
+   "items": [
+    {
+     "id": "riz",
+     "q": 280,
+     "u": "g",
+     "name": "de riz",
+     "note": "au choix : le riz OU les pâtes",
+     "canon": "riz"
+    },
+    {
+     "id": "pates",
+     "q": 240,
+     "u": "g",
+     "name": "de pâtes (tagliatelles ou spaghettis)",
+     "note": "au choix : les pâtes OU le riz",
+     "canon": "spaghetti"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "une grande casserole, salée",
+     "canon": "eau"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mets l'eau à chauffer",
+   "text": "Remplis une grande casserole d'{{eau}}, sale-la et porte-la à ébullition, pour le riz ou les pâtes.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon",
+   "text": "Pèle et hache finement {{oignon:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Hache l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Nettoie les champignons",
+   "text": "Prends {{champignons:full}} : coupe le bout terreux de leur pied, puis essuie-les avec un papier absorbant humide ou une petite brosse. Ne les fais jamais tremper : s'ils sont très sales, passe-les très vite sous l'eau et sèche-les aussitôt.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince les champignons",
+   "text": "Coupe les champignons en fines lamelles.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince le poulet",
+   "text": "Coupe {{poulet}} de blancs de poulet en lanières d'environ 1 cm de large. Sale-les et poivre-les. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+   "timer": null,
+   "tip": "Une seule planche ? Coupe toujours les légumes d'abord et le poulet cru en dernier (FSA, agence sanitaire britannique)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Lance le riz ou les pâtes",
+   "text": "Quand l'eau bout, verse {{riz}} de riz ou {{pates}} de pâtes. Fais cuire le temps indiqué sur le paquet, puis égoutte.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Saisis une moitié du poulet",
+   "text": "Dans la grande poêle, chauffe à feu vif la moitié de l'huile ({{huile}} en tout), bien chaude mais sans fumer. Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ : laisse-le d'abord sans y toucher, puis retourne-le pour dorer tous les côtés.",
+   "timer": {
+    "min": 2,
+    "label": "Première moitié",
+    "done": "Sors le poulet sur une assiette propre."
+   },
+   "tip": "Si tu remues trop tôt ou sans arrêt, la poêle refroidit et le poulet cuit à la vapeur au lieu de dorer (Betty Bossi)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Saisis l'autre moitié",
+   "text": "Sors le poulet sur une assiette propre, pas celle du poulet cru. Verse le reste de l'huile et saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
+   "timer": {
+    "min": 2,
+    "label": "Deuxième moitié",
+    "done": "Sors le poulet et baisse le feu."
+   },
+   "tip": "Le poulet finira de cuire dans la sauce : à la fin, il doit être bien cuit (Migusto)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre l'oignon",
+   "text": "Baisse à feu moyen. Mets le {{beurre}} dans la poêle, puis l'oignon. Fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais dorer les champignons",
+   "text": "Ajoute les champignons. Laisse-les cuire en remuant de temps en temps, jusqu'à ce que leur eau se soit évaporée et qu'ils commencent à dorer.",
+   "timer": null,
+   "tip": "Ne les sale pas maintenant : salés trop tôt, ils rendent leur eau et dorent moins (Betty Bossi). Tu saleras la sauce à la fin."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Déglace au bouillon",
+   "text": "Verse {{bouillon:full}}. Gratte le fond de la poêle avec la cuillère en bois pour décoller les sucs dorés : c'est là qu'est le goût de la sauce. Laisse bouillonner un instant.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute la crème",
+   "text": "Ajoute {{creme:full}} et mélange. Laisse frémir doucement, en remuant de temps en temps, jusqu'à ce que la sauce épaississe un peu.",
+   "timer": null,
+   "tip": "Une crème allégée peut trancher si elle bout ; la crème fraîche épaisse et la crème entière supportent la cuisson (Betty Bossi, Migusto, Wikipédia)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Finis la cuisson du poulet",
+   "text": "Remets le poulet dans la sauce, avec le jus qu'il a rendu dans l'assiette. Laisse frémir doucement quelques minutes, sans faire bouillir fort, jusqu'à ce qu'il soit cuit à cœur : coupe le plus gros morceau, il doit être blanc au centre, sans rose, avec un jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C.",
+   "timer": null,
+   "tip": "Un gros bouillon durcit le blanc de poulet : un petit frémissement suffit (Escoffier, Chef Simon)."
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte et sers",
+   "text": "Goûte, puis ajuste le {{sel}} et le {{poivre}}. Parsème de {{persil}} ciselé et sers tout de suite, avec le riz ou les pâtes.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Coupe et prépare tout avant d'allumer le feu sous la poêle : une fois lancée, la cuisson va vite.",
+   "source": "Betty Bossi (« Faire sauter » : mise en place)"
+  },
+  {
+   "text": "Saisis le poulet en deux fois, dans une poêle bien chaude : trop serré, il cuit dans son jus au lieu de dorer.",
+   "source": "Betty Bossi (« Faire sauter » : en 2 ou 3 portions ; émincé de poulet à la crème : par portions) ; Migusto (émincé de veau à la zurichoise : portion par portion)"
+  },
+  {
+   "text": "Laisse le poulet tranquille une à deux minutes avant de le retourner : une croûte dorée se forme et donne du goût.",
+   "source": "Betty Bossi (« Faire sauter »)"
+  },
+  {
+   "text": "Une poêle en fonte ou en inox laisse plus de sucs qu'une poêle antiadhésive : la sauce est plus goûteuse.",
+   "source": "Betty Bossi (« La crème des crèmes »)"
+  },
+  {
+   "text": "Déglacer, c'est dissoudre les sucs caramélisés au fond de la poêle : c'est la base du goût de la sauce.",
+   "source": "Escoffier, Le Guide culinaire (série des poulets sautés) ; Betty Bossi (« La crème des crèmes » : plus de sucs, sauce plus goûteuse)"
+  },
+  {
+   "text": "Pas besoin de vin : Escoffier déglace aussi au fonds de volaille ou au jus de cuisson des champignons, et Migusto (émincé de poulet à la crème et aux herbes) comme Chef Simon (fricassée de volaille) font leur sauce sans vin, au bouillon.",
+   "source": "Escoffier ; Migusto ; Chef Simon"
+  },
+  {
+   "text": "Le blanc de poulet ne doit pas bouillir à gros bouillons dans la sauce : il durcit. Un petit frémissement suffit.",
+   "source": "Escoffier (poulets sautés : l'ébullition durcit les morceaux blancs) ; Chef Simon (fricassée : « toujours cuire à feu doux (petit frémissement) »)"
+  },
+  {
+   "text": "Les champignons ne doivent jamais tremper : ils boivent l'eau, perdent leur goût et deviennent mous.",
+   "source": "Julien Sebbag (Académie du Goût), Migusto, Betty Bossi"
+  },
+  {
+   "text": "Pousse bien la cuisson des champignons, jusqu'à ce que leur eau s'évapore et qu'ils dorent : c'est là qu'ils prennent leur goût.",
+   "source": "Julien Sebbag (Académie du Goût) ; Cuisine AZ"
+  },
+  {
+   "text": "Pour une sauce claire avec de la volaille, choisis des champignons de Paris blancs.",
+   "source": "Betty Bossi (« Champignons d'élevage »)"
+  },
+  {
+   "text": "Crème fraîche épaisse ou crème entière : elles supportent la cuisson ; les crèmes plus légères risquent de trancher si elles bouillent.",
+   "source": "Wikipédia (crème fraîche épaisse : « résiste bien à la cuisson ») ; Betty Bossi et Migusto (demi-crème à ne pas faire bouillir)"
+  },
+  {
+   "text": "Remets le poulet dans la sauce avec tout le jus qu'il a rendu dans l'assiette.",
+   "source": "Betty Bossi (émincé de poulet à la crème)"
+  }
+ ],
+ "mistakes": [
+  "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+  "Couper le poulet cru, puis les légumes, sur la même planche sans la laver (FSA, Anses).",
+  "Mettre tout le poulet d'un coup ou le remuer sans arrêt : il bout dans son jus au lieu de dorer (Betty Bossi).",
+  "Faire tremper les champignons (Julien Sebbag, Migusto, Betty Bossi).",
+  "Faire bouillir fort une crème allégée : elle tranche (Betty Bossi, Migusto).",
+  "Laisser bouillir longtemps le poulet dans la sauce : il durcit (Escoffier).",
+  "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+  "Remettre le poulet saisi dans l'assiette du poulet cru (Anses).",
+  "Prendre un cube de bouillon sans vérifier qu'il est halal, ou garder le vin des recettes suisses (Migusto, Betty Bossi) : remplace-le par du bouillon."
+ ],
+ "serving": "Bien chaud, nappé de sauce, avec du riz (Chef Simon le sert avec un riz créole) ou des pâtes, des tagliatelles par exemple (Betty Bossi ; Chef Simon conseille des pâtes fraîches). En Suisse, on le sert aussi avec des röstis ou des spätzli (Migusto, Wikipédia). Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA). Crème entamée : suis la durée « après ouverture » de l'étiquette, sinon 3 jours au plus (Anses, FSA).",
+ "variants": [
+  "Aux herbes : ciboulette ciselée, et un beurre mêlé d'herbes hachées et de zeste de citron, ajouté au moment de servir (Migusto).",
+  "Au paprika : relève la poêlée de paprika en même temps que le sel et le poivre (Migusto).",
+  "À l'ail : 2 gousses hachées, revenues avec l'oignon (Cuisine AZ ; recette de lecteur du Journal des Femmes).",
+  "À l'échalote : remplace l'oignon par des échalotes ciselées (Chef Simon, fricassée ; recette de lectrice du Journal des Femmes).",
+  "Avec d'autres champignons, des shiitakés par exemple (Betty Bossi).",
+  "Émincé à la zurichoise : la version suisse classique, au veau, servie avec des röstis (Migusto, Wikipédia ; Betty Bossi en donne aussi une version) ; à faire sans vin et avec du veau halal.",
+  "Fricassée à l'ancienne, pour le week-end : un poulet en morceaux cuit 40 minutes dans un fond de volaille, puis la sauce à la crème et aux champignons (Chef Simon)."
+ ],
+ "sources": [
+  {
+   "name": "Migusto (plateforme de recettes de Migros, Suisse), « Émincé de poulet à la crème et aux herbes », 18 septembre 2015, modifiée le 23 septembre 2025",
+   "url": "https://migusto.migros.ch/fr/recettes/emince-de-poulet-a-la-creme-et-aux-herbes/66233",
+   "used_for": "Recette sans vin, pour 4 : 600 g d'émincé de poulet salé et poivré, 150 g de champignons de Paris, 1 petit oignon, beurre à rôtir, 2,5 dl de fond de volaille ou de bouillon, 180 g de demi-crème pour sauces. Poulet saisi environ 2 minutes, sorti et gardé au chaud ; oignon et champignons dans les sucs ; bouillon réduit de moitié ; crème mijotée jusqu'à liaison ; poulet remis dans la sauce. 25 minutes en tout. Variante beurre aux herbes et zeste de citron ; servi avec des röstis."
+  },
+  {
+   "name": "Migusto, « Émincé de poulet en sauce aux champignons », 22 juin 2023, modifiée le 5 mai 2025",
+   "url": "https://migusto.migros.ch/fr/recettes/emince-de-poulet-en-sauce-aux-champignons/19514493",
+   "used_for": "Pour 4 : 500 g d'émincé de poulet, 250 g de champignons de Paris finement coupés, 1 oignon haché, 4 c. à s. d'huile, sel, poivre, paprika, 1 dl de vin blanc (écarté ici), 2,5 dl de crème ; poulet saisi environ 2 minutes, crème réduite environ 8 minutes, « le poulet doit être bien cuit » ; persil plat ; servi avec des spätzli ; « réunit toujours toute la famille autour de la table »."
+  },
+  {
+   "name": "Migusto, « Émincé de veau à la zurichoise », 24 novembre 2016, modifiée le 21 mai 2025",
+   "url": "https://migusto.migros.ch/fr/recettes/emince-de-veau-a-la-zurichoise/139758",
+   "used_for": "Version classique au veau pour 4 : viande en lanières de 1 cm, saisie portion par portion environ 1 minute à feu vif ; 250 g de champignons de Paris en lamelles, 1 oignon haché ; vin blanc (écarté) et 2 dl de fond ; 1 dl de demi-crème ; servi avec des röstis ; 30 minutes."
+  },
+  {
+   "name": "Migusto, « Nettoyer des champignons » (23 septembre 2019, modifié le 13 février 2024) et glossaire « Crème » (13 septembre 2019)",
+   "url": "https://migusto.migros.ch/fr/savoir/trucs/nettoyer-champignons/4eedc684-3ece-4e3e-a218-97f0e9e7f085",
+   "used_for": "Pinceau ou brosse à champignons ; ne pas les rincer, ils absorbent l'eau et perdent leur arôme ; raccourcir les pieds. Glossaire (https://migusto.migros.ch/fr/savoir/glossaire/creme/1aaee312-ab17-49b3-9fca-6d7688db280e) : la crème entière (35 %) supporte bien la cuisson, la demi-crème (25 %) ne doit pas bouillir, la demi-crème pour sauces est stabilisée ; consommer vite les emballages ouverts."
+  },
+  {
+   "name": "Migusto, Anja Steiner, « Calculer les quantités par personne », 29 août 2023, modifié le 10 juillet 2024",
+   "url": "https://migusto.migros.ch/fr/savoir/on-en-parle/quantites-par-personne/5f472b0a-a649-4c4e-88df-897ea62cbd3f",
+   "used_for": "En accompagnement : 50 à 70 g de riz cru et 50 à 80 g de pâtes crues par personne ; émincé ou escalope : 100 à 120 g de viande crue par personne."
+  },
+  {
+   "name": "Betty Bossi (éditeur suisse de recettes), « Émincé de poulet aux champignons », 2 janvier 2014",
+   "url": "https://www.bettybossi.ch/fr/recettes/recette/emince-de-poulet-aux-champignons-10004744/",
+   "used_for": "Pour 2 : 200 g d'émincé de poulet saisi environ 4 minutes puis sorti ; 1 oignon, 250 g de champignons de Paris et 150 g de shiitakés revenus environ 5 minutes ; 2 c. à s. de vin (écarté), 1,5 dl de bouillon, 0,5 dl de demi-crème à sauce, environ 5 minutes ; poulet remis le temps de bien chauffer ; ciboulette ; 120 g de pâtes (tagliatelles) ; à préparer la veille, garder couvert au frais et bien réchauffer."
+  },
+  {
+   "name": "Betty Bossi, « Émincé de poulet à la crème », 12 septembre 2025",
+   "url": "https://www.bettybossi.ch/fr/recettes/recette/emince-de-poulet-a-la-creme-10011733/",
+   "used_for": "Pour 4 : 600 g d'émincé de poulet saisi par portions environ 2 minutes, sorti, salé et poivré ; oignon en lanières environ 2 minutes ; vermouth (écarté) ; 2,5 dl de bouillon de poule et 2 dl de demi-crème à sauce, environ 10 minutes ; poulet remis avec son jus le temps de bien chauffer ; persil ; 30 minutes."
+  },
+  {
+   "name": "Betty Bossi, « Émincé à la zurichoise classique », 6 mai 2019",
+   "url": "https://www.bettybossi.ch/fr/recettes/recette/emince-a-la-zurichoise-classique-10007327/",
+   "used_for": "Version au veau : lanières d'environ 1 cm saisies par portion ; champignons de Paris en lamelles avec un peu de jus de citron ; vin blanc (écarté) ; crème, bouillon et maïzena, environ 3 minutes ; viande remise le temps de bien chauffer ; persil."
+  },
+  {
+   "name": "Betty Bossi, articles « Faire sauter » (25 octobre 2024), « Un régal d'un bout à l'autre de l'année : champignons d'élevage » (14 novembre 2024) et « La crème des crèmes » (21 novembre 2024), modifiés le 16 mars 2026",
+   "url": "https://www.bettybossi.ch/fr/magazine/article/faire-sauter-modes-de-cuisson-en-toute-simplicite/",
+   "used_for": "Saisir en 2 ou 3 portions, attendre 1 à 2 minutes qu'une croûte se forme, huile bien chaude sans fumer, tout préparer à l'avance. Champignons (https://www.bettybossi.ch/fr/magazine/article/un-regal-dun-bout-a-lautre-de-lannee-champignons-delevage/) : ne pas les laver, les nettoyer au pinceau, rincer brièvement seulement s'ils sont très sales ; les saler au dernier moment ; champignons de Paris blancs pour les sauces claires et la volaille. Crème (https://www.bettybossi.ch/fr/magazine/article/la-creme-des-cremes/) : poêle en fonte ou en inox pour plus de sucs ; la crème entière supporte la chaleur, la demi-crème ne doit pas bouillir sinon elle tranche ; la crème acidulée supporte chaleur et acides."
+  },
+  {
+   "name": "Auguste Escoffier, Le Guide culinaire, aide-mémoire de cuisine pratique (1903), chapitre « Relevés et entrées de volaille », série des poulets sautés, transcription Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_guide_culinaire/Relev%C3%A9s_et_entr%C3%A9es_de_volaille",
+   "used_for": "Principe du poulet sauté : colorer vivement dans du beurre (ou moitié beurre, moitié huile), retirer, déglacer avec « soit un vin quelconque, soit de la cuisson de champignons, soit du fonds de volaille » ; le déglaçage dissout le jus caramélisé ; les morceaux blancs ne doivent plus bouillir, « cette ébullition les durcirait » ; poulets à blanc finis à la crème ; poulet sauté Gabrielle (cuisson de champignons et crème)."
+  },
+  {
+   "name": "Chef Simon, « Fricassée de volaille à l'ancienne », 7 décembre 2011, modifiée le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/fricassee-de-volaille-a-l-ancienne",
+   "used_for": "Recette sans vin pour 4 : poulet, 300 g de champignons de Paris sautés, échalotes, fond de volaille maison, 2 dl de crème fraîche réduite ; « toujours cuire à feu doux (petit frémissement) pour garder à la volaille son moelleux » ; servir avec un riz créole ou des pâtes fraîches."
+  },
+  {
+   "name": "Chef Simon, « Nettoyer les champignons » et « Taille des champignons » (7 décembre 2011, modifiés le 10 mai 2026), « Cuisiner les champignons » (19 décembre 2017, modifié le 6 novembre 2025)",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/nettoyer-les-champignons",
+   "used_for": "Couper le pied terreux ; les champignons de Paris supportent un rapide bain d'eau froide, retirés à la main et égouttés sur un linge ; émincer au couteau (https://chefsimon.com/gourmets/chef-simon/recettes/taille-des-champignons) ; la cuisson fait évaporer beaucoup d'eau (https://chefsimon.com/articles/pratique-cuisiner-les-champignons)."
+  },
+  {
+   "name": "Chef Simon, « Riz créole », 7 décembre 2011, modifié le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/riz-creole--4",
+   "used_for": "140 g de riz pour 2 personnes, dans beaucoup d'eau bouillante salée, 10 à 15 minutes selon le riz, puis égoutté ; accompagne la fricassée de volaille."
+  },
+  {
+   "name": "Académie du Goût, Marie Cloupet, « Préparer et cuisiner les champignons : Julien Sebbag partage 5 conseils indispensables », 9 octobre 2026",
+   "url": "https://www.academiedugout.fr/articles/preparer-et-cuisiner-les-champignons-les-conseils-indispensables-de_3660",
+   "used_for": "Ne pas faire tremper les champignons (« pire qu'une éponge ») ; couper le bout terreux du pied, brosse humide ou papier absorbant ; bien pousser la cuisson ; commencer à l'huile neutre, finir au beurre ; il conseille de saler au début (voir discrepancies)."
+  },
+  {
+   "name": "Cuisine AZ, « Poulet à la crème et aux champignons » (14 mai 2026 ; et version du 19 septembre 2026) et « Blanquette de veau maison sans vin » (La Rédac', 21 octobre 2026)",
+   "url": "https://www.cuisineaz.com/recettes/poulet-a-la-creme-et-aux-champignons-122979.aspx",
+   "used_for": "Pour 4 : 600 g de blancs de poulet, 400 g de champignons de Paris, 20 cl de crème fraîche entière, 1 oignon, 2 gousses d'ail, 10 cl de bouillon de volaille ; champignons revenus jusqu'à évaporation de leur eau ; servi avec du riz blanc. Version du 19 septembre 2026 (https://www.cuisineaz.com/recettes/poulet-a-la-creme-et-champignons-recette-125470.aspx) : 25 cl de crème fraîche, 20 cl de bouillon de volaille, 20 g de beurre, champignons nettoyés au linge humide, oignon translucide, crème sans faire bouillir trop fort. Blanquette sans vin (https://www.cuisineaz.com/recettes/blanquette-de-veau-maison-sans-vin-126042.aspx) : le bouillon de volaille remplace le vin ; l'eau seule donne un résultat fade. Ces pages, signées d'un simple prénom (« Raphaël ») pour les deux premières, servent seulement de recoupement."
+  },
+  {
+   "name": "Journal des Femmes Cuisine, recettes de lecteurs « Poulet à la crème et aux champignons » (joepringle, 5 juin 2024 ; Christelle Vogel, 13 mai 2025)",
+   "url": "https://cuisine.journaldesfemmes.fr/recette/3183750-poulet-a-la-creme-et-aux-champignons",
+   "used_for": "Recoupement seulement : pour 4, 250 g de champignons de Paris, 1 oignon, 2 gousses d'ail, 20 cl de crème fraîche épaisse ; champignons sautés jusqu'à évaporation de leur eau ; servi avec du riz, des pâtes ou des légumes. La recette de Christelle Vogel (https://cuisine.journaldesfemmes.fr/recette/350023-poulet-a-la-creme-et-aux-champignons) déglace au vinaigre balsamique (non repris)."
+  },
+  {
+   "name": "Wikipédia, articles « Émincé de veau à la zurichoise », « Crème fraîche » et « Moutarde de Dijon », consultée le 7 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/%C3%89minc%C3%A9_de_veau_%C3%A0_la_zurichoise",
+   "used_for": "Zurichoise : plat de Zurich, veau, crème, vin blanc, champignons de Paris, servi avec des röstis ou des spätzli. Crème fraîche (https://fr.wikipedia.org/wiki/Cr%C3%A8me_fra%C3%AEche) : la crème fraîche épaisse, ensemencée, « résiste bien à la cuisson » et sert aux réductions et liaisons ; titre de l'article lié en arabe : قشدة طازجة. Moutarde de Dijon (https://fr.wikipedia.org/wiki/Moutarde_de_Dijon) : faite avec du vinaigre de vin (raison pour laquelle la variante à la moutarde n'est pas proposée)."
+  },
+  {
+   "name": "Légifrance, décret n° 80-313 du 23 avril 1980 relatif aux crèmes de lait destinées à la consommation (version consolidée, données à jour au 16 mars 2017)",
+   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000879692",
+   "used_for": "En France, la « crème » contient au moins 30 g de matière grasse pour 100 g, la « crème légère » de 12 à 30 g ; la « crème fraîche » n'est que pasteurisée et peut être maturée par des ferments lactiques."
+  },
+  {
+   "name": "Anses, « Campylobactériose » (21 mars 2025) et « Qu'est-ce que la salmonellose et comment s'en prémunir ? » (27 octobre 2025)",
+   "url": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir",
+   "used_for": "Cuire à cœur (70 °C) les viandes de volaille ; plus de 65 °C à cœur contre Campylobacter (https://www.anses.fr/fr/article/campylobacteriose) ; se laver les mains et nettoyer planche et ustensiles après la viande crue."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020), « Date limite de consommation (DLC) et DDM » (4 janvier 2021), « Comment bien conserver ses aliments » (23 juin 2022) et « Comment garantir l'hygiène des aliments dans son réfrigérateur » (11 décembre 2020)",
+   "url": "https://www.anses.fr/fr/article/date-limite-consommation-dlc-date-durabilite-minimale-ddm",
+   "used_for": "Après ouverture, la DLC ne vaut plus : suivre la mention « à consommer dans les x jours après ouverture » ; 70 °C à cœur élimine la majorité des pathogènes ; réchauffer couvert jusqu'à ce que la vapeur s'échappe. Dix gestes (https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques) : une planche pour le cru, pas de réutilisation des plats du cru, 2 heures au plus à température ambiante, plats cuisinés sous 3 jours, réfrigérateur à 4 °C. Conservation (https://www.anses.fr/fr/article/comment-bien-conserver-ses-aliments-ne-pas-interrompre-chaine-du-froid) : aliments sensibles entamés consommés dans les 3 jours. Réfrigérateur (https://www.anses.fr/fr/article/comment-garantir-lhygiene-aliments-son-refrigerateur) : préparations de viande en sauce dans la zone la plus froide."
+  },
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Cooking your food », « How to chill, freeze and defrost food safely » et « Why avoiding cross-contamination is important », publiés le 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Poulet cuit à cœur : plus de rose, jus clair, fumant ; 70 °C pendant 2 minutes ou 75 °C pendant 30 secondes ; restes au réfrigérateur dans les 2 heures, mangés sous 48 heures, réchauffés une seule fois jusqu'à être brûlants, en remuant. Réfrigération (https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely) : produits laitiers au frais, suivre l'étiquette après ouverture. Contaminations croisées (https://www.gov.uk/government/publications/why-avoiding-cross-contamination-is-important/why-avoiding-cross-contamination-is-important) : ne pas laver la volaille crue ; avec une seule planche, légumes d'abord et viande crue en dernier."
+  },
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Home food fact checker », GOV.UK, mis à jour le 21 août 2026, lu le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "used_for": "Contre-vérification : Riz cuit : le refroidir au plus vite, idéalement dans l'heure, en petites portions et pas dans la casserole ; le garder au réfrigérateur un jour au plus ; ne le réchauffer qu'une fois, jusqu'à ce qu'il soit fumant, car les spores de Bacillus cereus survivent à la cuisson. Viande : un seul réchauffage, fumante à cœur. (L'ancienne page du NHS sur le riz réchauffé renvoie maintenant vers cette page.)"
+  },
+  {
+   "name": "Wikipédia en arabe, article « عيش الغراب » (champignon), lu le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8",
+   "used_for": "Contre-vérification : Le champignon y est appelé عيش الغراب ou فطر عش الغراب et défini comme un فطر : le mot فطر du nom arabe est attesté, mais le nom complet « دجاج بالقشدة والفطر » reste une traduction descriptive, trouvée dans aucune source."
+  }
+ ],
+ "discrepancies": [
+  "Vin blanc ou vermouth : présents chez Migusto (sauce aux champignons, zurichoise), Betty Bossi (trois recettes), Cuisine AZ (en option, dans l'astuce de la version du 19 septembre 2026) et dans la zurichoise de Wikipédia ; absents chez Migusto (émincé à la crème et aux herbes) et Chef Simon (fricassée). Écartés (halal) et remplacés par le bouillon de volaille, comme le prévoit Escoffier (déglaçage « soit un vin quelconque, soit de la cuisson de champignons, soit du fonds de volaille »).",
+  "Poulet pour 4 : 600 g (Migusto, émincé aux herbes ; Betty Bossi, émincé à la crème ; Cuisine AZ), 500 g (Migusto, sauce aux champignons), 400 g (Betty Bossi ramené à 4). Retenu : 600 g, valeur médiane (calcul python). Le guide de Migusto compte 100 à 120 g par personne : 600 g fait de bonnes portions.",
+  "Champignons pour 4 : de 150 g (Migusto, émincé aux herbes) à 800 g (Betty Bossi ramené à 4, avec des shiitakés) ; 250 g chez Migusto (sauce aux champignons) et dans une recette de lecteur du Journal des Femmes, 300 g chez Chef Simon, 400 g chez Cuisine AZ. Retenu : 250 g, valeur la plus fréquente (médiane : 275 g pour ces six recettes ; 250 g en ajoutant les zurichoises de Migusto, 250 g, et de Betty Bossi, 200 g ; calcul python).",
+  "Crème pour 4 : 200 ml (Chef Simon, Betty Bossi, Cuisine AZ, recette de lecteur du Journal des Femmes), 250 ml (Migusto, Cuisine AZ), 180 g (Migusto), 100 ml (Migusto, zurichoise ; Betty Bossi ramené à 4). Retenu : 200 ml, valeur médiane et majoritaire.",
+  "Type de crème : crème fraîche épaisse (deux recettes de lecteurs du Journal des Femmes), crème fraîche entière ou « crème fraîche » (Cuisine AZ), « crème fraîche » sans précision (Chef Simon), crème liquide (« crème » chez Migusto), demi-crème pour sauces stabilisée, à 25 % (Betty Bossi, Migusto). Retenu : crème fraîche épaisse d'au moins 30 % de matière grasse ou crème liquide entière, qui supportent la cuisson (Wikipédia, Betty Bossi, Migusto) ; la demi-crème suisse n'existe pas forcément au Maroc et une crème allégée risque de trancher.",
+  "Bouillon pour 4 : 250 ml (Migusto, Betty Bossi), 300 ml (Betty Bossi ramené à 4), 200 ml (Cuisine AZ ; fond de la zurichoise de Migusto), 100 ml (Cuisine AZ ; Betty Bossi, zurichoise), 70 ml d'eau pour 2 (lectrice du Journal des Femmes). Retenu : 200 ml, valeur médiane. De l'eau convient à défaut, mais Cuisine AZ prévient qu'elle rend la sauce fade.",
+  "Huile : 1 c. à s. (Cuisine AZ, lecteur du Journal des Femmes, Migusto avec du beurre à rôtir), 2 c. à s. (Betty Bossi ramené à 4), 4 c. à s. (Migusto, sauce aux champignons). La médiane est 1 c. à s. ; retenu 2 c. à s., soit 1 par fournée, puisque le poulet est saisi en deux fois comme le demandent Betty Bossi et Migusto. Beurre pour l'oignon et les champignons : 20 g (Cuisine AZ), « un peu » (Migusto, Betty Bossi), 50 g pour tout le plat (Chef Simon) ; quantité laissée libre (un petit morceau).",
+  "Saisie du poulet : environ 2 minutes (Migusto, Betty Bossi, émincé à la crème), environ 4 minutes pour 200 g (Betty Bossi, émincé aux champignons), « dorer sur toutes les faces » (Cuisine AZ). Retenu : 2 minutes par fournée, la cuisson se finit dans la sauce.",
+  "Fin de cuisson du poulet dans la sauce : « le temps de bien chauffer » (Betty Bossi), environ 8 minutes dans la crème (Migusto, sauce aux champignons), une dizaine de minutes à couvert (Cuisine AZ). Retenu : quelques minutes à petit frémissement, jusqu'à la cuisson à cœur vérifiée (FSA, Anses) ; pas de durée fixe, donc pas de minuteur.",
+  "Nettoyage des champignons : pinceau ou brosse, sans eau (Migusto, Betty Bossi, Julien Sebbag) ; bain d'eau froide rapide possible pour les champignons de Paris (Chef Simon). Retenu : papier humide ou brosse, rinçage très rapide seulement s'ils sont très sales, jamais de trempage.",
+  "Sel des champignons : au début, pour qu'ils rendent leur eau (Julien Sebbag) ; au dernier moment, sinon ils rendent leur eau et ne dorent pas (Betty Bossi). Retenu : saler la sauce à la fin.",
+  "Ail (Cuisine AZ, lecteur du Journal des Femmes) et paprika (Migusto) : absents des autres recettes ; mis en variantes.",
+  "Moutarde (Cuisine AZ, lecteur du Journal des Femmes) et vinaigre balsamique pour déglacer (lectrice du Journal des Femmes) : non repris. La moutarde de Dijon est faite avec du vinaigre de vin (Wikipédia) ; à toi de voir selon ta pratique.",
+  "Riz pour 4 : 280 g (Chef Simon, 140 g pour 2) ; 200 à 280 g (Migusto, 50 à 70 g par personne en accompagnement). Pâtes pour 4 : 240 g (Betty Bossi, 120 g pour 2) ; 200 à 320 g (Migusto). Retenu : 280 g de riz ou 240 g de pâtes.",
+  "Temps total : 25 minutes (Migusto, émincé aux herbes), 30 minutes (Betty Bossi, deux recettes ; Migusto, zurichoise), 45 à 55 minutes (Migusto avec poireaux et spätzli ; Cuisine AZ, deux versions). Retenu : 30 minutes (10 + 20), à condition de lancer le riz ou les pâtes pendant que la sauce cuit.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 12 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Température à cœur de 74 °C (165 °F) de la FDA : non vérifiée, le site de la FDA a bloqué l'accès (ceux de l'USDA, de Santé Canada, de FoodSafety.gov et des CDC ont répondu 403). La recette suit l'Anses (70 °C) et la FSA (75 °C pendant 30 secondes).",
+  "Sites non lus parce que leur robots.txt interdit les robots de Claude ou d'Anthropic : Swissmilk (qui a une recette d'émincé à la zurichoise), Elle à Table, BBC Food (bbc.co.uk), Delia Online, Jamie Oliver, Chefkoch, Essen und Trinken. Madame Figaro (403), L'Atelier des Chefs (contrôle anti-robots, 429) et la recherche de l'Académie du Goût (403) : non utilisés. Marmiton n'a pas été consulté (refus d'accès signalé dans la consigne).",
+  "750g et Cuisine Actuelle n'ont pas été lus : aucun plan de site trouvé et la recherche web n'était pas disponible. Aucune recette d'un chef français connu pour ce plat précis (émincé de poulet à la crème et aux champignons) n'a été trouvée : la partie française repose sur Escoffier, Chef Simon, Julien Sebbag et, en recoupement, Cuisine AZ et le Journal des Femmes.",
+  "Deux pages de Cuisine AZ (14 mai et 19 septembre 2026) ne sont signées que d'un prénom (« Raphaël ») et contiennent des anomalies (du « thon mariné » dans l'une, un mot en géorgien dans l'autre) : elles servent seulement de recoupement, jamais de source unique.",
+  "Durée de réduction de la sauce pour ces quantités : non chiffrée de façon concordante (5 minutes pour 2 chez Betty Bossi, 10 minutes chez Migusto et Betty Bossi pour 4, avec d'autres crèmes) ; la recette se fie à l'œil (la sauce épaissit un peu).",
+  "Quantité de beurre : non confirmée par deux sources indépendantes, laissée libre.",
+  "Statut halal des cubes de bouillon vendus au Maroc : non vérifié ; choisis un bouillon certifié halal ou fais ton bouillon.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide. Nom arabe : traduction descriptive (« poulet à la crème et aux champignons », avec قشدة, le mot de Wikipédia en arabe pour la crème fraîche) ; pas un nom établi trouvé dans une source.",
+  "Disponibilité au Maroc de la crème fraîche épaisse à 30 % de matière grasse et de la crème liquide entière : non vérifiée par une source ; regarde le pourcentage de matière grasse sur l'étiquette."
+ ],
+ "cuisine": "Française et suisse",
+ "rayon": "D'ailleurs",
+ "img_alt": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
+ "img": "img/poulet-creme-champignons.jpg",
+ "photo": {
+  "author": "Carmen Eisbär",
+  "license": "CC BY-NC-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "page": "https://www.flickr.com/photos/100088253@N05/9902542374",
+  "modified": "non modifiée"
+ }
+});

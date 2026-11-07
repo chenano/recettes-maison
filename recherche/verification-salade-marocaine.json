@@ -1,0 +1,85 @@
+{
+ "slug": "salade-marocaine",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati, « شلاضة مكتخطاش طبلتي فالصيف كولشي كيحماق عليها… », 30 juillet 2020, rubrique Cuisine de Lalla Moulati",
+   "url": "https://www.lalamoulati.net/245874.html",
+   "ce_qu_elle_confirme": "La graphie « شلاضة » (avec ض), celle du champ arabic, est employée par ce site marocain, à côté de « شلاظة » (avec ظ, articles de 2017 et 2019). Le mot y désigne une salade en général : ici pommes de terre, maïs et thon. La salade tomates-concombre-oignon est donc une « chlada » parmi d'autres ; Lalla Moulati (2017) parle de « سلطة الشلاظة المغربية » parmi les salades marocaines les plus connues."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[4].text",
+   "actuel": "il en faut {{persil}}.",
+   "propose": "il en faut {{persil}} pour la salade.",
+   "pourquoi": "Rendu dans l'appli : « il en faut 2 c. à s.. » (double point), pour 1, 4 et 8 personnes, car la quantité se termine par « c. à s. ». Le texte proposé donne « il en faut ½ c. à s. pour la salade. », « 2 c. à s. pour la salade. », « 4 c. à s. pour la salade. » (rendu vérifié avec le code de app.html).",
+   "gravite": "mineure",
+   "sources": "Code de rendu de app.html (fonctions fill et fmtQ)"
+  },
+  {
+   "champ": "steps[1].tip",
+   "actuel": "Garde la peau : c'est plus rapide (Cooking With Alia).",
+   "propose": "Garde la peau, comme Cooking With Alia.",
+   "pourquoi": "Cooking With Alia écrit seulement « Chop the tomatoes (with the skin) » (recettes 208 et 543), sans dire que c'est plus rapide : la raison vient de l'auteur, pas de la source.",
+   "gravite": "mineure",
+   "sources": "https://www.cookingwithalia.com/moroccan-tomato-cucumber-salad/ ; https://www.cookingwithalia.com/543-tomato-cucumber-salad/"
+  },
+  {
+   "champ": "occasion",
+   "actuel": "Tous les jours, en entrée ou à côté d'un tajine,",
+   "propose": "Tous les jours, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté d'un tajine,",
+   "pourquoi": "Ni My Moroccan Food (« side salad next to tagines or grilled foods ») ni MarocMama (salade servie avec le poisson) ne parlent d'entrée. C'est Wikipédia FR qui l'écrit, et Choumicha range ses salades de tomates 627 et 629 dans ses « Entrées ».",
+   "gravite": "mineure",
+   "sources": "Wikipédia (fr), Cuisine marocaine, section Entrées : « Les repas commencent souvent par des salades crues (crudités) ou cuites » (https://fr.wikipedia.org/wiki/Cuisine_marocaine) ; Choumicha, recettes 627 et 629 (copies archivées)"
+  },
+  {
+   "champ": "serving",
+   "actuel": "Bien fraîche, en entrée ou à côté du plat :",
+   "propose": "Bien fraîche, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté du plat :",
+   "pourquoi": "Même raison que pour « occasion » : l'entrée n'est pas dans My Moroccan Food ni dans MarocMama.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (fr), Cuisine marocaine, section Entrées : « Les repas commencent souvent par des salades crues (crudités) ou cuites » (https://fr.wikipedia.org/wiki/Cuisine_marocaine)"
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "Médiane : 2 c. à s. d'huile d'olive.",
+   "propose": "Médiane : 2 c. à s. ; 3,5 si l'on ne garde que les recettes relues données pour 4 (My Moroccan Food 2, MarocMama 3, Choumicha 627 et 629 4), car Cooking With Alia ne donne pas de nombre de parts. Retenu 2 c. à s. d'huile d'olive, la dose de My Moroccan Food, seule recette tomates-concombre-oignon-persil donnée pour 4.",
+   "pourquoi": "La médiane de 2 repose sur les deux recettes de Cooking With Alia, qui n'indiquent pas pour combien de personnes elles sont (recalcul python3 -I : médiane de 2, 3, 4 et 4 = 3,5). Le choix de 2 c. à s. reste fondé sur la recette la plus proche, celle de My Moroccan Food.",
+   "gravite": "mineure",
+   "sources": "https://www.mymoroccanfood.com/home/moroccan-tomato-and-cucumber-salad ; https://marocmama.com/tomato-and-onion-salad/ ; Choumicha 627 et 629 (copies archivées) ; https://www.cookingwithalia.com/moroccan-tomato-cucumber-salad/"
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "Cooking With Alia (543) utilise une huile végétale, les autres de l'huile d'olive.",
+   "propose": "Cooking With Alia (543) utilise une huile végétale et Choumicha (629) une « huile » sans précision ; les autres, de l'huile d'olive.",
+   "pourquoi": "La salade de tomates et de poivrons de Choumicha (629) demande « 4 c. à soupe huile », sans dire laquelle.",
+   "gravite": "mineure",
+   "sources": "https://web.archive.org/web/20260508111833/https://www.choumicha.ma/recette/629-salade-de-tomates-et-de-poivrons.html"
+  }
+ ],
+ "verifie_sans_correction": [
+  "robots.txt relus le 7 novembre 2026 : My Moroccan Food (ClaudeBot, anthropic-ai et * dans le même groupe : seuls /search, /api/, /config… interdits ; les recettes /home/… sont permises), Cooking With Alia (tout permis), Lalla Moulati (interdit seulement /wp-admin/, /wp-includes/, /fr/… ; recherche ?s= permise), MarocMama (seul /wp-admin/ interdit), Anses (/search/ seul), FDA (lu par l'outil de lecture web : délai de 30 s, /food/ permis), Wikipédia (aucune règle pour Claude), Taste of Maroc (tout permis).",
+  "Liens : 18 des 20 adresses des sources répondent (code 200). Les deux autres (Choumicha 771 sur web.archive.org, API USDA) sont dans « non_verifiable ». La FDA a renvoyé curl vers sa page anti-abus : sa page a été lue par l'outil de lecture web et sur sa copie web.archive.org du 28 octobre 2026.",
+  "My Moroccan Food (11 juin 2015, modifiée le 17 août 2023) : « This salad is the most common and basic salad in Moroccan cuisine », « usually served as a side salad next to tagines or grilled foods » ; pour 4 : 1 gros oignon finement haché (200 g), 6 tomates moyennes (400 g) et 1 concombre moyen (400 g) épépinés, en dés de ½ cm, 2 c. à s. d'huile d'olive, 2 c. à s. de persil, 1 c. à s. de jus de citron, sel et poivre ; tout mélanger et garder au frais jusqu'au service ; une cuillère à café de miel si les tomates ne sont pas assez sucrées.",
+  "Cooking With Alia 208 (plan du site : 14 septembre 2022) : 300 g de tomates, 1 concombre, 1 petit oignon jaune doux, 2 c. à s. de coriandre, jus d'1 citron (au goût), écorce d'¼ de citron confit (facultatif, sans la pulpe), 1 c. à s. d'huile d'olive, ½ c. à c. de sel, ¼ de poivre, ¼ de cumin ; « The secret of the salad is how small you can chop » ; tomates avec la peau ; goûter et rectifier ; pain ; emporte-pièce. 543 (même date) : 20 minutes ; 300 g de tomates, 1 petit concombre, 1 petit oignon, un petit bouquet de coriandre, jus d'¼ de citron, 1 c. à s. d'huile végétale, ¼ c. à c. de sel et de poivre ; servie froide. Aucune des deux ne donne de nombre de parts.",
+  "Choumicha 467, version française (copie du 10 avril 2026) et arabe (copie du 12 août 2014, « السلطة المغربية ») : pour 4, 4 tomates concassées, 1 oignon émincé, 1 poivron vert en petits morceaux, persil, filet d'huile d'olive, filet de vinaigre ou de jus de citron, sel ; avec des brochettes de kefta. 629 (copie du 8 mai 2026) : pour 4, 4 tomates pelées, épépinées et concassées, 2 poivrons verts grillés, 1 petit oignon émincé finement, ¼ c. à c. de cumin, sel, 4 c. à s. d'huile, 3 c. à s. de jus de citron ou de vinaigre ; « Rajouter au dernier moment, tout juste avant de servir, le sel, le jus de citron et le vinaigre pour que les tomates et les poivrons ne dégorgent pas » ; 10 min de cuisson (poivrons), 20 min au total. 627 (copie du 8 juin 2026) : pour 4, 4 grosses tomates pelées, épépinées et concassées, écorce d'½ citron confit, 1 c. à s. de persil, sel, 4 c. à s. d'huile d'olive, 1 gousse d'ail ; servie froide ; cuisson 0, total 20 min. Conseil « حول السلطة » (copie du 19 août 2016) : servir les salades froides sans leur sauce pour réutiliser les restes en omelette ou en gratin, les légumes passés d'abord dans un peu d'huile d'olive.",
+  "Lalla Moulati : 6 novembre 2019, « ألذ شلاظة مغربية… » (poivrons rouge, vert et jaune grillés sur le gaz et nettoyés, 4 tomates en dés, petit oignon en dés « جد صغيرة », maïs, olives vertes et noires ; sauce de vinaigre ou de jus de citron, « من الاحسن » le citron, huile d'olive, sel, cumin, un peu de poivre, gardée au réfrigérateur jusqu'au service) ; 4 octobre 2017 (« سلطة الشلاظة المغربية » citée parmi les salades connues, avec le zaalouk, la salade de pois chiches et les salades de pâtes) ; 10 novembre 2014 (« شلاظة او سلطة بالروز والخضرة » : riz, thon, maïs, légumes, œuf dur, mayonnaise).",
+  "MarocMama (21 mai 2013, modifiée le 22 septembre 2022) : « always on the table if there is fish being served », « good tomatoes – that's really key » ; 4 petites portions : 2 grosses tomates épépinées, ½ oignon doux coupé le plus finement possible, 1½ c. à s. de vinaigre blanc, 3 c. à s. d'huile d'olive, ½ c. à c. de sel et de poivre ; servie froide ou à température ambiante.",
+  "Wikipédia FR, Cuisine marocaine : la salade marocaine parmi les plats typiques ; « Dans la plupart des maisons marocaines, la table est garnie d'une sélection de diverses sortes de salades (zaalouk, bakoula, tomates, concombres) et d'un tajine ou d'un couscous, tous placés en même temps » (référence : Fes Cooking and Cultural Tours, archive du 17 octobre 2013).",
+  "Proportions recalculées (python3 -I) : 4 tomates pour 4 comme Choumicha (467, 629, 627) et Lalla Moulati ; 1 concombre (My Moroccan Food, Cooking With Alia) ; petit oignon (Cooking With Alia ×2, Choumicha 629, Lalla Moulati) ; persil 2 c. à s. (My Moroccan Food) ; citron seul 0,79 / 1 / 3 / 3,15 c. à s., médiane 2,00, et toutes acidités 1,75, comme l'auteur ; sel ½ c. à c. (Cooking With Alia 208, MarocMama) ; cumin ¼ c. à c. (Cooking With Alia 208, Choumicha 629) ; poivre au goût. Huile : voir la correction de discrepancies[3].",
+  "Secrets, erreurs et variantes relus dans leurs sources : couper tout très petit (Cooking With Alia), dés de ½ cm (My Moroccan Food), oignon plus fin (Lalla Moulati 2019 ; MarocMama), graines retirées (My Moroccan Food ; MarocMama ; Choumicha), sel et citron au dernier moment (Choumicha 629), sauce à part au frais (Lalla Moulati 2019), restes recyclés en omelette (Choumicha), citron plutôt que vinaigre (Lalla Moulati 2019), cumin (Cooking With Alia 208 ; Choumicha 629 ; Lalla Moulati 2019), bonnes tomates (MarocMama), miel (My Moroccan Food), persil ou coriandre, écorce de citron confit sans la pulpe (Cooking With Alia 208 ; Choumicha 627), tajines, grillades et poisson (My Moroccan Food ; MarocMama), emporte-pièce (Cooking With Alia) ; les cinq variantes sont conformes à leurs pages.",
+  "Sécurité : Anses, fiche EHEC (juillet 2024) : « Laver soigneusement, ou éplucher si possible les légumes, les fruits, légumes feuilles (salades verte, épinards), et les herbes aromatiques qui seront consommés crus » et se laver les mains avant de préparer les repas ; fiche Toxoplasma (mai 2021) : « Lavage soigneux des crudités » pour les femmes enceintes et les personnes immunodéprimées séronégatives ; « dix gestes » (24 décembre 2020) et « En cuisine, le meilleur ingrédient, c'est l'hygiène ! » (11 mai 2026) : mains au savon avant et pendant, une planche pour la viande et le poisson crus et une autre pour les légumes propres (ou planche bien nettoyée), pas plus de 2 heures à température ambiante, 4 °C. FDA (Selecting and Serving Produce Safely, contenu à jour au 5 mars 2024) : « Washing fruits and vegetables with soap, detergent, or commercial produce wash is not recommended », « Scrub firm produce, such as melons and cucumbers, with a clean produce brush », « dry produce with a clean cloth towel or paper towel ». Étape 1, son astuce et mistakes[2] à [4] conformes.",
+  "Halal : légumes, herbes, huile d'olive, citron, épices et pain ; ni porc ni alcool ; pas de fromage ; le vinaigre n'apparaît que dans les variantes (vinaigre blanc chez MarocMama), sans vin.",
+  "Noms : « شلاضة » et « شلاظة » sont toutes deux employées par Lalla Moulati (articles de 2017, 2019 et 2020, et titres listés par sa recherche interne) ; c'est le mot darija pour « salade » en général, et la version tomates-oignon s'appelle « السلطة المغربية » chez Choumicha (page arabe). « Chlada » en est la transcription courante.",
+  "Cohérence : aucune cuisson et aucun minuteur ; chaque ingrédient de la liste sert dans une étape ; temps 20 + 0 + 0 = 20 min, donc « Rapide » (Cooking With Alia 543 : 20 minutes ; Choumicha 627 : cuisson 0, 20 min au total).",
+  "Rendu vérifié avec le code de app.html pour 1, 4 et 8 personnes : 1 tomate moyenne / 4 / 8 tomates moyennes, ¼ concombre / 1 / 2 concombres, ¼ petit oignon / 1 petit oignon / 2 petits oignons, ½ / 2 / 4 c. à s. de persil, d'huile et de citron, ⅛ / ½ / 1 c. à c. de sel, ⅛ / ¼ / ½ c. à c. de cumin, « du poivre noir moulu, selon le goût » et « pain (khobz) » quand q est null. Seul défaut : le double point de l'étape « Hache le persil » (correction proposée, rendu corrigé vérifié)."
+ ],
+ "non_verifiable": [
+  "Choumicha 771 (Brochettes de kefta, salades de légumes et velouté de petits pois) : la copie web.archive.org n'a pas répondu (trois essais, délais dépassés) ; ses quantités (2 c. à s. d'huile, 2 c. à s. de vinaigre, 2 c. à s. de persil) n'ont pas été relues.",
+  "API USDA (fiches 167747, 168409, 170000) : limite de requêtes (code 429), puis délais réseau dépassés ; la note « un citron donne environ 3 c. à s. de jus » et les poids du concombre (301 g) et du petit oignon (70 g) n'ont pas été relus. Le calcul de l'auteur est juste si ses valeurs le sont : 48 / (244 / 16) = 3,15 c. à s.",
+  "Transcription latine « chlada » : aucune source en lettres latines trouvée (recherches internes de Taste of Maroc et de MarocMama sans résultat utile) ; seule l'écriture arabe est attestée.",
+  "Profil de l'autrice de MarocMama (« Américaine mariée à un Marocain et installée au Maroc ») : page « About » non rouverte.",
+  "Quota de recherche web épuisé et réseau très lent pendant la vérification : pas d'autre source marocaine cherchée (Chhiwat, Le360, Femmes du Maroc, Bladi) ; durée de conservation des restes, épluchage du concombre, menthe et variantes régionales restent sans source, comme le note l'auteur."
+ ]
+}
