@@ -245,7 +245,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Râpe les tomates",
    "text": "Coupe {{tomates:full}} en deux. Râpe-les côté chair sur les gros trous de la râpe, au-dessus d'un saladier. Jette la peau qui te reste dans la main.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Râpe les tomates » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",

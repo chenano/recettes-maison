@@ -1,0 +1,147 @@
+{
+ "slug": "chakchouka",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Cooking With Alia (Alia, cuisinière marocaine), « 894 – Fancy Chekchouka / شكشوكة », 30 avril 2021",
+   "url": "https://www.cookingwithalia.com/894-fancy-chekchouka/",
+   "ce_qu_elle_confirme": "Une cuisinière marocaine appelle « chekchouka » (شكشوكة) le plat chaud aux œufs, cette fois sans le ranger parmi les recettes internationales : oignon et ail 5 min jusqu'à ce que l'oignon soit translucide, poivron vert cru en dés 2 min, tomate (et une sauce du commerce) 5 min, un creux par œuf, puis à couvert 3 à 5 min jusqu'à ce que les œufs soient cuits ; 4 œufs, 2 c. à s. d'huile d'olive, persil ; servie chaude."
+  },
+  {
+   "name": "Hespress (journal marocain), Fatima Zahra Zaïm, « وداعا \"البيض ومطيشة\" » (Adieu « bid w maticha »), 16 octobre 2012",
+   "url": "https://www.hespress.com/%D9%88%D8%AF%D8%A7%D8%B9%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6-%D9%88%D9%85%D8%B7%D9%8A%D8%B4%D8%A9-104064.html",
+   "ce_qu_elle_confirme": "Pour régler la question du dîner, beaucoup de Marocaines se tournent vers « البيض ومطيشة » (œufs et tomates), plat auquel les Marocains sont très attachés selon l'autrice : c'est bien le plat de tous les jours, sous ce nom. Article cité par Wikipedia EN (Shakshouka)."
+  },
+  {
+   "name": "Al-Quds al-Arabi, Abdelaziz Benabbou (Rabat), « المغاربة يواجهون غضبهم من غلاء الخضار بالسخرية… », 12 février 2023",
+   "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%BA%D8%B6%D8%A8%D9%87%D9%85-%D9%85%D9%86-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B6%D8%A7%D8%B1/",
+   "ce_qu_elle_confirme": "Pour les Marocains, le repas « البيض ومطيشة » (œufs et tomates) est le plus simple, le plus connu et le moins cher. Article cité par Wikipedia EN (Shakshouka)."
+  },
+  {
+   "name": "Bladi.net (site marocain), « Taktouka », rubrique Les entrées des recettes de cuisine marocaine",
+   "url": "https://www.bladi.net/recettes/taktouka.html",
+   "ce_qu_elle_confirme": "Taktouka sans œufs : 3 poivrons grillés sur le feu, pelés, épépinés et coupés en petits morceaux, 3 tomates pelées et épépinées, 2 gousses d'ail, persil et coriandre, 1 c. à c. de piment doux, 1 c. à c. de cumin, huile d'olive ; servie tiède avec du pain. La recherche interne de Bladi ne donne aucune recette de chakchouka."
+  },
+  {
+   "name": "FDA (États-Unis), « Safe Food Handling », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+   "ce_qu_elle_confirme": "Seconde page de la FDA : cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes (conseil donné à tous), plats aux œufs à 160 °F (71 °C), réfrigération dans les 2 heures, fruits et légumes rincés sous l'eau du robinet."
+  },
+  {
+   "name": "Anses (France), « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "ce_qu_elle_confirme": "Les plats cuisinés à la maison ne doivent pas rester plus de 2 heures à température ambiante et se consomment dans les 3 jours ; les fruits et légumes se lavent minutieusement à l'eau potable ; on se lave les mains avant et après avoir manipulé des aliments crus."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[9].tip",
+   "actuel": "Pour les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles, cuis jusqu'à ce que le jaune et le blanc soient fermes (FDA).",
+   "propose": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Fais-le toujours pour les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles : ce sont eux qui risquent le plus une salmonellose grave (FDA).",
+   "pourquoi": "La FDA ne réserve pas ce conseil aux personnes fragiles : elle écrit « Cook eggs until both the yolk and the white are firm » pour tout le monde, et la mention imposée sur les boîtes d'œufs dit « cook eggs until yolks are firm ». Les enfants, les personnes âgées, les femmes enceintes et les personnes immunodéprimées sont cités comme les plus exposés à une forme grave. Le texte actuel attribue à la FDA une règle plus étroite que la sienne.",
+   "gravite": "majeure",
+   "sources": "FDA, What You Need to Know About Egg Safety, contenu à jour au 5 mars 2024 (https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety) ; FDA, Safe Food Handling, même date (https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling)"
+  },
+  {
+   "champ": "steps[9].text",
+   "actuel": "Pour un jaune bien cuit, laisse 2 à 3 minutes de plus.",
+   "propose": "Pour un jaune bien cuit, laisse 2 à 3 minutes de plus, jusqu'à ce qu'il soit ferme.",
+   "pourquoi": "Le critère de la FDA est visuel (jaune ferme), pas une durée. Les 2 à 3 minutes de plus (7 à 8 minutes en tout) correspondent bien aux « environ 8 minutes » à couvert de Lalla Moulati (2019), mais la durée dépend du feu et de la poêle.",
+   "gravite": "mineure",
+   "sources": "FDA, What You Need to Know About Egg Safety ; Lalla Moulati, 11 mars 2019 (https://www.lalamoulati.net/187421.html)"
+  },
+  {
+   "champ": "steps[3].text",
+   "actuel": "Hache {{oignon:full}} et {{ail:full}}.",
+   "propose": "Hache {{oignon:full}} et {{ail:full}}. Lave et hache le persil.",
+   "pourquoi": "Le persil haché est parsemé cru à la dernière étape (Sers aussitôt), mais aucune étape ne dit de le laver ni de le hacher. L'Anses demande un lavage minutieux des fruits et légumes à l'eau potable, la FDA de les rincer sous l'eau du robinet.",
+   "gravite": "mineure",
+   "sources": "Anses, 8 avril 2020 (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques) ; FDA, Safe Food Handling (https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling)"
+  },
+  {
+   "champ": "steps[3].title",
+   "actuel": "Prépare tomates, oignon et ail",
+   "propose": "Prépare tomates, oignon, ail et persil",
+   "pourquoi": "Va avec la correction précédente : le titre de l'étape suit son contenu.",
+   "gravite": "mineure",
+   "sources": "Cohérence interne (correction précédente)"
+  },
+  {
+   "champ": "secrets[12].text",
+   "actuel": "et à manger dans les 3 à 4 jours.",
+   "propose": "et à manger dans les 3 jours (la FDA va jusqu'à 3 à 4 jours).",
+   "pourquoi": "Les 3 à 4 jours de la FDA sont exacts, mais l'Anses, autorité française, demande de consommer les plats cuisinés à la maison dans les 3 jours. L'appli a retenu la règle la plus prudente pour le zaalouk : même règle ici.",
+   "gravite": "mineure",
+   "sources": "Anses, 8 avril 2020 (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques) ; FDA, What You Need to Know About Egg Safety (« use within 3 to 4 days »)"
+  },
+  {
+   "champ": "secrets[12].source",
+   "actuel": "FDA, « What You Need to Know About Egg Safety »",
+   "propose": "FDA, « What You Need to Know About Egg Safety » ; Anses, « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques » (8 avril 2020)",
+   "pourquoi": "Va avec la correction précédente : le secret cite aussi l'Anses.",
+   "gravite": "mineure",
+   "sources": "Anses, 8 avril 2020"
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "Au Maroc, beaucoup l'appellent alors aussi taktouka (forum Yabiladi, 2006 : « chekchouka ou taktouka » ; Wikipédia FR ;",
+   "propose": "Au Maroc, certains l'appellent alors aussi taktouka (forum Yabiladi, 2006 : « chekchouka ou taktouka » ; « salade cuite » selon Wikipédia FR ;",
+   "pourquoi": "« Beaucoup » ne repose que sur deux messages du forum (« chekchouka ou taktouka », le 4 mai 2006 ; « taktouka chez nous », le 6 mai 2006), et l'article Chakchouka de Wikipédia FR ne parle pas de taktouka : il dit seulement qu'au Maroc elle peut être « servie seule en salade cuite ».",
+   "gravite": "mineure",
+   "sources": "Forum Yabiladi (https://www.yabiladi.com/forum/comment-fait-on-checkchouka-54-1097456.html) ; Wikipédia FR, Chakchouka, section Maroc (https://fr.wikipedia.org/wiki/Chakchouka)"
+  },
+  {
+   "champ": "variants[6]",
+   "actuel": "comme chez les internautes de Yabiladi (2006) et le chef Brahim Sakroune (2023).",
+   "propose": "comme chez plusieurs internautes de Yabiladi (2006 ; d'autres y mettent de l'oignon) et le chef Brahim Sakroune (2023) ; Rachida propose aussi de l'essayer sans oignon.",
+   "pourquoi": "Sur le forum, deux recettes du 4 mai 2006 et une du 6 mai n'ont pas d'oignon, mais une autre recette du 4 mai en met, et deux internautes écrivent le 6 mai que la chekchouka se fait avec poivrons, oignons et tomates. Rachida conseille de l'essayer « without onions ».",
+   "gravite": "mineure",
+   "sources": "Forum Yabiladi, messages des 4 et 6 mai 2006 ; Rachida (https://gateauetcuisinerachida.com/en/best-shakshuka-recipe-authentic-and-easy/)"
+  },
+  {
+   "champ": "occasion",
+   "actuel": "Petit-déjeuner, dîner ou plat vite fait ;",
+   "propose": "Petit-déjeuner, dîner ou plat simple (vite fait avec des poivrons crus) ;",
+   "pourquoi": "Avec les poivrons grillés, la recette prend 50 minutes (25 + 25) : l'appli ne la classe pas dans « Vite fait » (30 minutes au plus). Rachida la dit simple et rapide, et conseille les poivrons crus quand on est pressé ; la chekchouka aux poivrons crus de Cooking With Alia demande 20 minutes.",
+   "gravite": "mineure",
+   "sources": "Rachida ; Cooking With Alia n° 894 (https://www.cookingwithalia.com/894-fancy-chekchouka/) ; time.prep et time.cook de la recette"
+  },
+  {
+   "champ": "secrets[10].source",
+   "actuel": "que « tout le monde sait cuisiner »)",
+   "propose": "que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)",
+   "pourquoi": "« Plat de tous les jours » n'est écrit ni dans Wikipedia EN ni dans Lalla Moulati. Les deux articles que Wikipedia EN cite à cet endroit le confirment.",
+   "gravite": "mineure",
+   "sources": "Hespress, 16 octobre 2012 ; Al-Quds al-Arabi, 12 février 2023 (adresses dans sources_ajoutees)"
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "(Lalla Moulati 2019 ; Cooking With Alia, « Saudi Arabia Recipe »).",
+   "propose": "(Lalla Moulati 2019 ; Cooking With Alia, « Saudi Arabia Recipe »). Cooking With Alia publie toutefois en 2021 une « Fancy Chekchouka » aux œufs, sans cette étiquette.",
+   "pourquoi": "Nuance trouvée à la contre-vérification : la même cuisinière marocaine donne en 2021 le nom de chekchouka au plat aux œufs sans le classer parmi les recettes internationales.",
+   "gravite": "mineure",
+   "sources": "Cooking With Alia n° 894, 30 avril 2021 (https://www.cookingwithalia.com/894-fancy-chekchouka/)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Sens du mot au Maroc et différence avec la taktouka : pages relues. Salade cuite sans œufs pour plusieurs internautes de Yabiladi (« chekchouka ou taktouka », 4 mai 2006) et pour le chef Brahim Sakroune (« salade chakchouka tiède », Femmes du Maroc, 28 juin 2023) ; plat chaud aux œufs pour Rachida, Lalla Moulati (11 mars 2019) et Cooking With Alia (2021) ; œufs brouillés à l'oignon et à la tomate pour Lalla Moulati (10 novembre 2014) ; Wikipédia FR donne les deux usages. La taktouka est toujours la salade cuite de poivrons grillés et de tomates, sans œufs, servie tiède, chaude ou froide : My Moroccan Food (« two different dishes »), Cooking With Alia n° 125 et 440, Choumicha (Tektouka marqa), Lalla Moulati (2014 et 2019), MarocMama, Bladi.net, Wikipedia EN. Les écarts de la recette décrivent fidèlement ce partage.",
+  "Version retenue : poivrons grillés et pelés (Rachida : « In Morocco, grilled peppers are preferred » ; trois internautes de Yabiladi le 4 mai 2006 ; chef Sakroune), tomates râpées (Lalla Moulati 2019 : « طماطم محكوكة » ; Cooking With Alia n° 125 : tomate coupée en deux, chair râpée, peau jetée), œufs à couvert environ 5 minutes (MarocMama : 5 min à couvert, blanc opaque et jaune coulant ; Cooking With Alia 2021 : 3 à 5 min à couvert ; Rachida : environ 5 min, couvercle pour un jaune cuit ; Lalla Moulati 2019 : environ 8 min à couvert).",
+  "Proportions recalculées (python3 -I) : 3 poivrons, 400 g de tomates (133 g par poivron, comme Lalla Moulati 2019), 1 oignon, 1 c. à c. de sel, de paprika et de cumin, 2 c. à s. de persil : identiques à Lalla Moulati 2019 ; 3 poivrons, 1 oignon, 4 œufs pour 4, 1 c. à c. de paprika et de cumin : identiques à Rachida. Huile 3 c. à s. : entre 2 (Lalla Moulati) et 4 (Rachida), comme les 3 c. à s. de My Moroccan Food et de Choumicha pour la taktouka. Ail 2 gousses : 1 c. à c. d'ail écrasé chez Lalla Moulati, soit environ 2 gousses selon My Moroccan Food ; 3 chez Rachida ; 2 chez Bladi pour la taktouka.",
+  "Températures et durées : gril du four à 200 °C (Rachida) ; sac 15 min (Rachida ; 15 à 20 min chez Cooking With Alia n° 125) ; 74 °C = 165 °F et 71 °C = 160 °F (calcul : 73,9 et 71,1 °C) ; restes au froid dans les 2 heures (FDA et Anses) ; minuteurs (15 et 5 min) conformes au texte des étapes 2 et 10.",
+  "Ordre des étapes : oignon fondu, ail quelques secondes sans dorer, poivrons 1 minute (Rachida), épices avant les tomates (Lalla Moulati 2019), compotée épaisse en remuant (Rachida ; Lalla Moulati 2019), un creux par œuf (Rachida ; Cooking With Alia 2021), persil et filet d'huile d'olive au service (Rachida ; Lalla Moulati 2019).",
+  "Secrets, erreurs, variantes et service : chaque attribution relue dans sa source (Rachida, Lalla Moulati 2014, 2018 et 2019, taktouka 2014 et 2019, chef Sakroune, Yabiladi, Cooking With Alia n° 125 et 440, My Moroccan Food, Choumicha, MarocMama, Wikipédia FR, Wikipedia EN, FDA) ; seuls variants[0], variants[6], secrets[10].source, secrets[12] et discrepancies[1] sont corrigés plus haut. Ramadan : « very popular during the month of Ramadan » (Rachida).",
+  "Liens : les 19 adresses des sources répondent (HTTP 200, le 7 novembre 2026) et disent ce qui leur est attribué. Dates confirmées dans les métadonnées : Rachida publié le 14 juin 2025, mis à jour le 12 juillet 2025 ; My Moroccan Food 29 juin 2016 ; Cooking With Alia n° 125 le 25 février 2015 et n° 440 le 19 juin 2016 ; MarocMama 29 avril 2019 (taktouka) et 10 avril 2023 (shakshuka) ; FDA 5 mars 2024 ; Femmes du Maroc 28 juin 2023 ; rubriques Lalla Moulati (« شهيوات عالمية » en 2019, « شهيوات الطبخ المغربي » en 2014).",
+  "Halal : aucune viande, aucun alcool, rien à signaler.",
+  "Noms : شكشوكة (Lalla Moulati, Cooking With Alia) ; « chakchouka » et « chekchouka » sont les deux graphies marocaines rencontrées (Femmes du Maroc, Yabiladi, Cooking With Alia) ; « bid w maticha », البيض ومطيشة (Lalla Moulati 2018, Hespress 2012, Wikipedia EN).",
+  "Rendu dans l'appli (fonctions de app.html exécutées avec node) : pour 4 et 8 personnes, quantités et accords justes (« Grille 3 poivrons verts », « Casse 8 œufs », « 800 g », « 6 c. à s. ») ; {{huile-service}} et {{khobz}}, sans quantité, affichent leur nom. Pour 1 personne : « ¾ poivron vert », « ¼ oignon », « ½ gousse d'ail », « ¾ c. à s. d'huile d'olive », « ¼ pincée de poivre noir », « 1 œuf » : conforme aux règles d'arrondi de l'appli, mais griller ¾ de poivron n'a pas de sens pratique (un poivron entier se grille ; à arbitrer par l'intégrateur, pas de source)."
+ ],
+ "non_verifiable": [
+  "Quel sens du mot « chakchouka » est le plus courant au Maroc : aucune source ne le mesure, les sources se partagent (voir plus haut).",
+  "Temps de préparation : 25 min, chiffre de Rachida. Griller les poivrons (aucune durée chez Rachida ; My Moroccan Food les retourne toutes les 3 à 4 minutes), plus 15 min de sac, plus l'épluchage, laisse peu de marge. Temps de cuisson (25 min) : estimation, aucune source ne le chiffre en entier.",
+  "Variété de poivron la plus utilisée : « piments verts » (Yabiladi), « فليفلة خضراء » (Lalla Moulati), « green bell peppers » (Rachida), « sweet green peppers such as bell peppers » (My Moroccan Food), « poivrons » (Bladi) : non tranché.",
+  "Origine de Rachida (Maroc ou Algérie) : toujours non confirmée ; sa recette est classée « algerian, Algerian woman, Moroccan ».",
+  "Wikipédia FR (section Maroc) n'a pas de référence ; les messages de Yabiladi sont anonymes ; Hespress et Al-Quds sont des articles de presse, pas des recettes.",
+  "Vidéo « Shakshouka – Saudi Arabia Recipe » de Cooking With Alia : la page n'a toujours que la mention « Watch the video! », contenu non vu.",
+  "Limite de la contre-vérification : quota de recherche web épuisé, aucune recherche générale possible. Pages ouvertes directement ou par les recherches internes : Lalla Moulati (« الشكشوكة », « شكشوكة » : seulement les deux pages déjà citées), liste complète des 930 recettes de Cooking With Alia, Bladi.net (taktouka seulement), Femmes du Maroc (seulement la recette du chef Sakroune), index des copies archivées de choumicha.ma (aucune chakchouka, seulement la Tektouka marqa et un tajine de poulet à la tektouka), Morocco World News (rien d'utile). La recherche interne de Hespress se charge en JavaScript (résultats illisibles), celle de Le360 répond 404 ; Kifache n'a pas été tenté (protection Cloudflare signalée)."
+ ]
+}

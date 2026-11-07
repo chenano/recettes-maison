@@ -1,0 +1,88 @@
+{
+ "slug": "spaghetti-aglio-olio",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », article du 24 décembre 2020, lu le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "ce_qu_elle_confirme": "Source officielle française qui recoupe la FDA : « ne pas conserver les aliments plus de 2 heures à température ambiante avant réfrigération » ; garder 4 °C dans la zone la plus froide du réfrigérateur."
+  },
+  {
+   "name": "Consorzio Tutela Grana Padano (site officiel du consortium), page « Ingredienti », lue le 7 novembre 2026",
+   "url": "https://www.granapadano.it/it-it/larte-del-saper-fare/il-prodotto-iconico/ingredienti",
+   "ce_qu_elle_confirme": "Le grana padano AOP se fait avec du lait, du sel, de la présure et du lysozyme ; « comme le veut le cahier des charges », la présure est extraite de la caillette du veau. Il n'existe donc pas de grana padano à coagulant microbien."
+  },
+  {
+   "name": "Wikipedia (anglais), article « Parmigiano Reggiano », lu le 7 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Parmigiano_Reggiano",
+   "ce_qu_elle_confirme": "Le parmigiano reggiano est caillé à la présure de veau ; d'après le cahier des charges de l'AOP (note 26 de l'article), seuls le petit-lait de la veille et la présure de veau sont permis. Source secondaire : le site du consortium du parmigiano reggiano ne s'affiche qu'en JavaScript et n'a pas pu être lu."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "variants[5]",
+   "actuel": "Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "propose": "Attention : le parmesan (parmigiano reggiano) et le grana padano se font toujours avec de la présure de veau, exigée par leurs cahiers des charges ; si tu veux être strict, prends un autre fromage à pâte dure fait avec un coagulant microbien, sans présure animale.",
+   "pourquoi": "Halal : la note actuelle laisse croire qu'on peut trouver un parmesan ou un grana padano à coagulant microbien. Ce n'est pas le cas : le consortium du grana padano écrit que sa présure, imposée par le cahier des charges, vient de la caillette du veau, et le cahier des charges du parmigiano reggiano n'admet que la présure de veau (Wikipédia anglais, d'après ce cahier des charges). La personne qui veut être stricte doit donc changer de fromage, pas de marque.",
+   "gravite": "majeure",
+   "sources": "Consorzio Tutela Grana Padano, page « Ingredienti » ; Wikipedia (anglais), « Parmigiano Reggiano » (note 26 : cahier des charges de l'AOP)."
+  },
+  {
+   "champ": "serving",
+   "actuel": "S'il en reste, mets les restes au réfrigérateur dans les 2 heures et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
+   "propose": "S'il en reste, mets les restes au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+   "pourquoi": "La page de la FDA déjà citée ajoute : « Refrigerate within 1 hour if the temperature outside is above 90° F » ; 90 °F = 32,2 °C (calcul python). Utile par forte chaleur. L'Anses confirme la règle des 2 heures pour la France.",
+   "gravite": "mineure",
+   "sources": "FDA, « Safe Food Handling » (contenu à jour au 5 mars 2024) ; Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020) ; conversion python3."
+  },
+  {
+   "champ": "steps[3].text",
+   "actuel": "Hache finement le {{persil}}. Garde-en un peu à part pour le service.",
+   "propose": "Si tu en mets, hache finement le {{persil}} et garde-en un peu à part pour le service.",
+   "pourquoi": "Cohérence : la liste dit le persil « selon le goût, facultatif », mais l'étape le traite comme obligatoire. Les sources donnent raison au facultatif : la fiche Dissapore de 2022 dit que le persil « n'est pas nécessaire » et ne s'ajoute « que si on aime » ; Carluccio et Locatelli n'en mettent pas.",
+   "gravite": "mineure",
+   "sources": "Dissapore, fiche du 7 juillet 2022 ; Great Italian Chefs (Carluccio) ; Reporter Gourmet (Locatelli)."
+  },
+  {
+   "champ": "steps[10].text",
+   "actuel": "Hors du feu, ajoute presque tout le persil et mélange.",
+   "propose": "Hors du feu, ajoute presque tout le persil, si tu en mets, et mélange.",
+   "pourquoi": "Même raison que pour l'étape « Hache le persil » : le persil est facultatif dans la liste.",
+   "gravite": "mineure",
+   "sources": "Dissapore, fiche du 7 juillet 2022 ; Great Italian Chefs (Carluccio) ; Reporter Gourmet (Locatelli)."
+  },
+  {
+   "champ": "sources[5].name",
+   "actuel": "extrait de son livre Pasta (Quadrille, 2016), publié le 22 novembre 2016",
+   "propose": "extrait de son livre Pasta (Quadrille), publié sur le site le 22 novembre 2016",
+   "pourquoi": "La page donne l'éditeur (« Pasta by Antonio Carluccio (Quadrille £9.99) ») et la date de mise en ligne (22 novembre 2016, « First published in 2016 »), mais pas l'année d'édition du livre : « 2016 » pour le livre n'est pas confirmé.",
+   "gravite": "mineure",
+   "sources": "Great Italian Chefs, page de la recette (texte et données structurées datePublished 2016-11-22)."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 8 liens hors Accademia répondent (code 200, le 7 novembre 2026) et disent ce qui leur est attribué : Dissapore 2017 et 2022, Turismo Roma, Great Italian Chefs, Reporter Gourmet, Il Giornale del Cibo, FDA, Wikipédia en arabe. Les deux liens de l'Accademia n'ont pas été ouverts (voir non_verifiable).",
+  "Turismo Roma, relu deux fois (texte brut de la page, puis outil de lecture) : la recette est attribuée par tradition au Latium mais vient de Campanie et de Naples, plat pauvre fait faute de pouvoir s'offrir les palourdes ; ingrédients « qu'on a toujours à la maison » ; 360 g de pâtes longues ni épaisses ni larges (spaghettis, vermicelles ou linguine) ; 4 gousses coupées en quatre ; piment de préférence frais ; persil ; 8 c. à s. (environ 100 ml) d'huile vierge extra ; ail à feu très doux pendant la cuisson des pâtes ; dès qu'il commence à dorer, piment et tiges de persil hachées, 2 minutes ; hors du feu, feuilles de persil et 4 c. à s. (environ 60 ml) d'eau des pâtes pour arrêter la cuisson et allonger l'huile ; pas d'autre sel ; eau prise au dernier moment, plus riche en amidon ; pâtes al dente sautées une demi-minute et servies tout de suite. Le nombre de parts n'est pas donné.",
+  "Dissapore, Rossella Di Bidino, 14 janvier 2017 : pour 4, 400 g de spaghettis, 6 à 8 c. à s. d'huile, 2 gousses, 1 bouquet de persil, 2 piments frais, sel pour l'eau seulement ; germe retiré ; piments fendus, épépinés, en lanières ; ail à feu moyen, qui « ne doit absolument pas brûler », piment quand l'ail commence à dorer, ail retiré ; pâtes al dente, une louche d'eau gardée ; persil, dont une partie crue sur le plat ; formats spaghetti, vermicelles, linguine (Carnacina) ; anchois, olives, chapelure « pas rare » ; huile forte (Piero Palanti, guide Extravoglio) ; origine disputée entre Toscane, Naples et Rome.",
+  "Dissapore, fiche du 7 juillet 2022 (mise à jour le 24 août 2022) : pour 4, 400 g, 8 c. à s. d'huile, 1 gousse sans germe, 1 piment sec, 1 bouquet de persil ; ail et piment frits jusqu'à ce que l'ail soit doré, puis retirés ; égoutter une minute avant la fin, une louche d'eau gardée ; 5 min de préparation et 10 de cuisson (données de la fiche) ; plat de casse-croûte de minuit ; persil « pas nécessaire ».",
+  "Great Italian Chefs, Antonio Carluccio, mis en ligne le 22 novembre 2016 : pour 4, 450 g, 60 ml d'huile, 6 gousses hachées, 1 piment, 4 filets d'anchois ou 1 c. à c. de colatura ; ail et piment frits doucement sans brunir ; sauce prête en 5 minutes au plus, pendant la cuisson des pâtes ; pâtes sorties à la pince ; pas de fromage (« seulement si vous insistez vraiment ») ; plat de minuit ; suggestion de crevettes rouges et de persil ; 10 min au total.",
+  "Reporter Gourmet, Alessandra Meldolesi, 5 novembre 2023 (recette du livre Made at Home de Giorgio Locatelli) : pour 4, 500 g, 1 piment, 4 gousses en lamelles d'environ 1 mm, 200 ml d'huile, parmesan ou grana ; ail mis dans l'huile froide, chauffé sans brûler, à peine coloré, puis le piment ; hors du feu, deux cuillerées d'eau des pâtes ; plus d'eau si c'est sec ; servir tout de suite ; origine campanienne, proche des vermicelles aux palourdes ; salade verte (et verre de vin blanc, écarté) d'après The Guardian.",
+  "Il Giornale del Cibo, Alessia Rossi, 28 juillet 2022 : le couvercle pendant la mise à ébullition économise jusqu'à 6 % d'énergie (étude des pastiers d'Unione Italiana Food) ; proportion classique d'un litre d'eau pour 100 g de pâtes ; cuisson des pâtes de 8 à 15 minutes.",
+  "Médianes recalculées (python3 -I), tout ramené à 400 g de pâtes, sans les deux pages de l'Accademia : pâtes 400 g ; ail 3,2 gousses, donc 3 (3 aussi avec l'Accademia) ; huile 120 ml, soit 8 c. à s. (111 ml, soit 7,4 c. à s., si l'on prend les « environ 100 ml » de Turismo Roma plutôt que ses 8 cuillères) ; piment 1. Les quantités retenues tiennent sans l'Accademia.",
+  "FDA, « Safe Food Handling » (contenu à jour au 5 mars 2024) : réfrigérer dans les 2 heures ; restes réchauffés à 165 °F ; 165 °F = 73,9 °C, arrondi à 74 °C (calcul python).",
+  "Nom arabe : Wikipédia en arabe titre bien « معكرونة الثوم بالزيت » (article relié à l'article anglais) et place l'origine dans les Abruzzes, comme le note l'auteur ; c'est un nom descriptif exact (« pâtes à l'ail, à l'huile »).",
+  "Halal : la recette de base n'a aucun produit animal ; le vin blanc conseillé avec le plat chez Locatelli est écarté ; anchois, colatura et crevettes (variantes) sont des produits de la mer ; seul le fromage demandait une précision (voir corrections).",
+  "Catégorie « Rapide » : 5 + 20 = 25 min, sous la limite de 30 min. Temps de l'auteur cohérents avec les sources : Dissapore 5 + 10 min et Carluccio 10 min, sans compter l'eau à porter à ébullition ; cuisson des pâtes de 8 à 15 min (Il Giornale del Cibo).",
+  "Cohérence interne : chaque ingrédient de la liste apparaît dans une étape ; aucune quantité n'est écrite en dur dans les étapes ; pas de minuteur et aucune durée chiffrée dans les étapes, donc rien à additionner.",
+  "Rendu dans l'appli (fonctions scaled, fmtQ, itemName et fill de app.html exécutées telles quelles sous Node, résultat identique à une simulation python) : pour 4, « plonge 400 g de spaghettis », « verse 8 c. à s. d'huile d'olive », « Pèle 3 gousses d'ail », « Fends 1 piment rouge fort » ; pour 8, 800 g, 16 c. à s., 6 gousses, 2 piments rouges forts ; pour 1, 100 g, 2 c. à s., « Pèle ¾ gousse d'ail » et « Fends ¼ piment rouge fort ». C'est lisible ; une gousse et un piment entiers seraient plus simples pour 1 ou 2 personnes, mais il faudrait ajouter \"round\": \"up\" à ces deux ingrédients, un champ qu'une correction mécanique ne peut pas créer. Les repères sans quantité (eau, sel, persil, eau de cuisson) affichent bien leur nom.",
+  "Secrets, erreurs, variantes et service retrouvés dans les sources lisibles : ail blond jamais brûlé (Turismo Roma, Dissapore, Locatelli ; sans couleur chez Carluccio) ; eau des pâtes qui arrête la cuisson et allonge l'huile (Turismo Roma, Locatelli) ; eau prise au dernier moment, plus riche en amidon (Turismo Roma) ; pas d'autre sel (Turismo Roma ; Dissapore, sel pour l'eau) ; pâtes égouttées avant la fin (Dissapore, Turismo Roma) ; sauce faite pendant la cuisson des pâtes (Carluccio, Turismo Roma) ; huile de caractère (Piero Palanti chez Dissapore, Locatelli) ; pas de fromage (Carluccio, Turismo Roma, les deux recettes de Dissapore) ; germe retiré, gousses retirées avant les pâtes (Dissapore) ; tiges de persil avec le piment, feuilles hors du feu (Turismo Roma) ; formats (Turismo Roma, Dissapore) ; plat pauvre à la place des palourdes (Turismo Roma ; Reporter Gourmet) ; anchois (Carluccio, 4 filets pour 4), olives et chapelure (Dissapore), crevettes rouges (Great Italian Chefs) ; piment ajouté quand l'ail blondit (Turismo Roma, Dissapore 2017, Locatelli) ; salade verte (Reporter Gourmet) ; plat de minuit (Carluccio, Dissapore 2022)."
+ ],
+ "non_verifiable": [
+  "Accademia Italiana della Cucina : son fichier robots.txt interdit à tous les robots le chemin des recettes (« User-agent: * », puis « Disallow: /it/ricette/ricetta », lu le 7 novembre 2026). Selon la règle donnée, je n'ai ouvert ni les deux pages citées ni leurs copies d'archive. L'auteur, lui, les a lues en écrivant « accès autorisé ». Reposent sur l'Accademia seule : la variante « Au poivre noir » (variants[1]) ; la variante « À la romaine, sans persil » (variants[3]) ; « Rome a sa version (Accademia Italiana della Cucina) » dans region (Turismo Roma dit seulement que la recette est attribuée par tradition au Latium) ; la citation « sans brûler » et la poêle écartée du feu dans la source du premier secret ; « très al dente » dans la source du cinquième secret ; la mention de l'Accademia dans le secret « Pas de fromage » (le reste du secret est confirmé) ; et les chiffres de l'Accademia dans discrepancies (400 g, 3 et 2 gousses, « 2 verres » d'huile, persil « très abondant », une louche d'eau, mélange dans le plat de service). Les quantités retenues restent justifiées sans elle. À décider : garder ces passages ou les retirer.",
+  "Nom arabe : une seule source, Wikipédia en arabe (article ébauche, qui renvoie à TasteAtlas). La recherche interne de Lalla Moulati ne donne pas ce plat (seulement « مكرونة بالثوم والصلصة », un autre plat, avec une sauce) ; sans moteur de recherche, pas de deuxième source.",
+  "Nom en darija : aucun trouvé (recherche interne de Lalla Moulati) ; le champ reste vide, à juste titre.",
+  "Temps de mise à ébullition : aucune source lue ne le chiffre. Avec un litre d'eau pour 100 g de pâtes (4 litres pour la recette) et un feu faible, le total réel peut dépasser 30 minutes ; les 25 minutes annoncées restent une estimation plausible mais non sourcée.",
+  "Projections : verser de l'eau dans l'huile chaude (étape « Arrête la cuisson de l'ail ») peut faire gicler l'huile. Aucune source lue ne le signale (Turismo Roma et Locatelli versent l'eau hors du feu), donc pas de correction ; une mise en garde (« verse doucement, attention aux projections ») serait prudente.",
+  "Quota de recherche épuisé : je n'ai pu lire que les pages citées, d'autres pages des mêmes sites et des pages officielles trouvées par leur plan de site ; ni autre chef napolitain, ni avis de l'ONSSA (Maroc). Les sites qui refusent les agents d'IA (Giallo Zafferano, La Cucina Italiana, Il Cucchiaio d'Argento, Gambero Rosso, Serious Eats, The Guardian, Barilla, Agrodolce, Fatto in casa da Benedetta) n'ont pas été ouverts."
+ ]
+}

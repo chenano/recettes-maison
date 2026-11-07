@@ -1,0 +1,134 @@
+{
+ "slug": "lentilles",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Choumicha Chafay, choumicha.ma, « Les recettes avec pour mot clé lentilles » (copie archivée du 14 octobre 2025), et page du mot-clé « Lentille » (copie du 18 janvier 2021)",
+   "url": "https://web.archive.org/web/20251014072733/https://www.choumicha.ma/recipes/lentilles.html",
+   "ce_qu_elle_confirme": "Le site de Choumicha ne classe que cinq recettes sous « lentilles » : lentilles à la viande séchée et aux carottes, lentilles à la viande séchée, patate douce et citrouille, salade de lentilles et œufs pochés, soupe de lentilles au saucisson sec de bœuf, velouté de lentilles au khliâ ; la page « Lentille » n'en ajoute aucune. Relues : la soupe au saucisson et le velouté au khliâ n'ont ni agneau ni pommes de terre (les carottes du velouté sont dans des mini-briouates servies à part) ; la salade est aux œufs pochés. Aucune ne réunit agneau, pommes de terre et carottes : la recette de l'appli est bien une reconstitution, comme l'écrit l'auteur."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[8].text",
+   "actuel": "Couvre et laisse mijoter 20 minutes à feu doux, en remuant de temps en temps.",
+   "propose": "Couvre et laisse mijoter 20 minutes à feu doux, en remuant de temps en temps, puis goûte les lentilles : elles doivent commencer à s'attendrir avant que tu ajoutes les pommes de terre.",
+   "pourquoi": "Les 40 minutes de cuisson des lentilles (20 + 20) viennent de la seule version à l'agneau, celle de My Moroccan Food, avec des lentilles vertes sèches. Pour des lentilles sèches, les autres sources comptent plus : Choumicha 30 puis 20 à 25 minutes (50 à 55 en tout), Bladi 10 minutes de blanchiment puis 30 minutes, le blog Mamatkamal 1 h 30 à 2 h pour les lentilles brunes du Maroc à la marmite ; les 40 minutes de Cooking With Alia sont pour des lentilles trempées. Morocco World News 2020 écrit que le temps dépend des lentilles et qu'il faut les goûter. Or la recette autorise les lentilles brunes sans trempage et ajoute les pommes de terre à heure fixe : si les lentilles sont encore dures, les pommes de terre se déferont avant la fin (Cooking With Alia). Le champ discrepancies[3] annonce « un contrôle de cuisson », mais seul celui des pommes de terre existe dans les étapes. À appliquer avec la correction suivante (même étape, message du minuteur).",
+   "gravite": "majeure",
+   "sources": "My Moroccan Food, agneau (https://www.mymoroccanfood.com/home/lentil-stew-with-lamb-pumpkin-and-shallots) ; Choumicha n° 1039 (https://web.archive.org/web/20260520222051/https://www.choumicha.ma/recette/1039-lentilles-a-la-viande-sechee-patate-douce-et-citrouille.html) ; Bladi (https://www.bladi.net/recettes/soupe-au-lentilles.html) ; blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html) ; Cooking With Alia n° 094 et n° 462 (https://www.cookingwithalia.com/moroccan-lentils/ ; https://www.cookingwithalia.com/462-moroccan-lentils-soup/) ; Morocco World News 2020 (https://www.moroccoworldnews.com/2020/10/65516/easy-recipe-for-cooking-lentils-the-moroccan-way/) ; Cooking With Alia n° 201 (https://www.cookingwithalia.com/moroccan-beef-tajine-with-potatoes/)"
+  },
+  {
+   "champ": "steps[8].timer.done",
+   "actuel": "Ajoute les pommes de terre.",
+   "propose": "Goûte quelques lentilles : elles doivent commencer à s'attendrir. Si elles sont encore dures (les lentilles brunes peuvent être bien plus longues à cuire), prolonge la cuisson à couvert en goûtant régulièrement, et n'ajoute les pommes de terre qu'à ce moment-là.",
+   "pourquoi": "Même raison que la correction précédente : le message du minuteur fait ajouter les pommes de terre sans vérifier les lentilles. My Moroccan Food demande de surveiller les lentilles pendant la cuisson, Morocco World News 2020 de les goûter et de prolonger si besoin.",
+   "gravite": "majeure",
+   "sources": "My Moroccan Food (https://www.mymoroccanfood.com/home/lentil-stew-with-lamb-pumpkin-and-shallots) ; Morocco World News 2020 (https://www.moroccoworldnews.com/2020/10/65516/easy-recipe-for-cooking-lentils-the-moroccan-way/) ; blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html)"
+  },
+  {
+   "champ": "steps[0].tip",
+   "actuel": "Si tu les as fait tremper, elles cuiront plus vite : surveille-les.",
+   "propose": "Si tu les as fait tremper, elles cuiront plus vite : surveille-les. Sans trempage, les lentilles brunes du Maroc peuvent demander bien plus de 40 minutes (1 h 30 à 2 h à la marmite selon le blog Mamatkamal) : goûte-les avant d'ajouter les pommes de terre.",
+   "pourquoi": "Le conseil ne dit pas que les lentilles brunes non trempées peuvent cuire beaucoup plus longtemps que les 40 minutes prévues ; le blog Mamatkamal l'écrit (lentilles brunes du Maroc : 1 h 30 à 2 h à la marmite, moins de 30 minutes pour des lentilles canadiennes).",
+   "gravite": "mineure",
+   "sources": "Blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html)"
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "Cuisson des lentilles : environ 40 minutes chez My Moroccan Food et Cooking With Alia, 35 à 40 chez My Moroccan Food (sans viande), 30 puis 20 à 25 minutes chez Choumicha ; le blog Mamatkamal compte 1 h 30 à 2 h pour les lentilles brunes du Maroc à la marmite. Retenu : environ 40 minutes, la valeur majoritaire, avec un contrôle de cuisson.",
+   "propose": "Cuisson des lentilles : environ 40 minutes chez My Moroccan Food (lentilles vertes, sans trempage) et chez Cooking With Alia (lentilles trempées), 35 à 40 chez My Moroccan Food (sans viande), 30 puis 20 à 25 minutes chez Choumicha (sans trempage), 10 minutes de blanchiment puis 30 minutes chez Bladi ; le blog Mamatkamal compte 1 h 30 à 2 h pour les lentilles brunes du Maroc à la marmite, et Morocco World News 2020 rappelle que le temps dépend des lentilles. Retenu : environ 40 minutes, comme la version à l'agneau de My Moroccan Food (lentilles vertes), avec un contrôle des lentilles avant d'ajouter les pommes de terre.",
+   "pourquoi": "Le texte présente 40 minutes comme « la valeur majoritaire » en mêlant lentilles sèches (My Moroccan Food) et trempées (Cooking With Alia : quelques heures pour le n° 094, une nuit pour le n° 462). Pour des lentilles sèches, comme dans cette recette, les sources vont de 40 minutes (My Moroccan Food, lentilles vertes) à 50-55 minutes (Choumicha) et 1 h 30 à 2 h (Mamatkamal, lentilles brunes). Le texte doit aussi décrire le contrôle ajouté par les deux corrections précédentes.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food (https://www.mymoroccanfood.com/home/lentil-stew-with-lamb-pumpkin-and-shallots ; https://www.mymoroccanfood.com/home/vegetarian-lentil-stew) ; Cooking With Alia (https://www.cookingwithalia.com/moroccan-lentils/ ; https://www.cookingwithalia.com/462-moroccan-lentils-soup/) ; Choumicha n° 1039 (https://web.archive.org/web/20260520222051/https://www.choumicha.ma/recette/1039-lentilles-a-la-viande-sechee-patate-douce-et-citrouille.html) ; Bladi (https://www.bladi.net/recettes/soupe-au-lentilles.html) ; blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html) ; Morocco World News 2020 (https://www.moroccoworldnews.com/2020/10/65516/easy-recipe-for-cooking-lentils-the-moroccan-way/)"
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "Moment des pommes de terre : 20 minutes chez My Moroccan Food, 15 à 20 chez Cooking With Alia, une quinzaine chez Bladi, 20 à 25 pour la patate douce chez Choumicha. Retenu : 20 minutes (médiane arrondie). Elles entrent donc 20 minutes après les lentilles (40 − 20) : ce « 20 minutes » est un calcul, pas une valeur lue dans une source.",
+   "propose": "Moment des pommes de terre : 20 minutes chez My Moroccan Food, 15 à 20 chez Cooking With Alia, une quinzaine chez Bladi (en cocotte-minute), 20 à 25 pour la patate douce chez Choumicha. Retenu : 20 minutes (médiane arrondie). Elles entrent donc 20 minutes après les lentilles (40 − 20), ou plus tard si les lentilles sont encore dures : ce « 20 minutes » est un calcul, pas une valeur lue dans une source.",
+   "pourquoi": "La recette de Bladi est faite en cocotte-minute (« Dans une cocotte-minute mettre la viande… »), ce que le texte ne dit pas ; sa quinzaine de minutes n'est donc pas un temps de mijotage ordinaire. Le reste de la phrase est mis en accord avec le contrôle des lentilles ajouté à steps[8]. La médiane retenue (20 minutes) ne change pas.",
+   "gravite": "mineure",
+   "sources": "Bladi, tajine aux pommes de terre et carottes (https://www.bladi.net/recettes/tajine-aux-pommes-de-terre-et-carottes.html)"
+  },
+  {
+   "champ": "sources[13].used_for",
+   "actuel": "ajoutées après 30 minutes de cuisson de l'agneau",
+   "propose": "ajoutées après 30 minutes de cuisson de l'agneau en cocotte-minute",
+   "pourquoi": "La page de Bladi fait cuire la viande, puis les légumes, dans une cocotte-minute ; le résumé ne le dit pas.",
+   "gravite": "mineure",
+   "sources": "Bladi (https://www.bladi.net/recettes/tajine-aux-pommes-de-terre-et-carottes.html)"
+  },
+  {
+   "champ": "tagline",
+   "actuel": "Le plat d'hiver des familles marocaines : des lentilles mijotées avec de l'agneau, des carottes et des pommes de terre",
+   "propose": "Les lentilles, plat d'hiver des familles marocaines, ici mijotées avec de l'agneau, des carottes et des pommes de terre",
+   "pourquoi": "Aucune source ne donne cette combinaison exacte (vérifié de façon indépendante, voir « verifie_sans_correction ») : ce qui est attesté, c'est que les lentilles sont un plat d'hiver apprécié dans tout le pays, et que certains y ajoutent de la viande (Morocco World News 2019). La phrase actuelle laisse croire que la version agneau, carottes et pommes de terre est le plat des familles marocaines ; « ici » signale qu'il s'agit de la version de cette recette.",
+   "gravite": "mineure",
+   "sources": "Morocco World News 2019 (https://www.moroccoworldnews.com/2019/11/285866/how-to-make-moroccan-lentils/) ; blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html) ; Choumicha, mots-clés « lentilles » (https://web.archive.org/web/20251014072733/https://www.choumicha.ma/recipes/lentilles.html)"
+  },
+  {
+   "champ": "mistakes[0]",
+   "actuel": "elles seraient en purée avant que la viande soit tendre (My Moroccan Food ; Choumicha et Bladi cuisent la viande d'abord)",
+   "propose": "la viande doit d'abord cuire seule jusqu'à commencer à s'attendrir, car elle cuit bien plus longtemps que les lentilles (My Moroccan Food : environ 1 heure, puis 40 minutes pour les lentilles ; Choumicha et Bladi cuisent aussi la viande d'abord)",
+   "pourquoi": "« Elles seraient en purée » n'est écrit dans aucune des sources citées : My Moroccan Food donne seulement l'ordre et les durées (viande environ 1 heure jusqu'à mi-cuisson, puis lentilles environ 40 minutes). La reformulation garde l'erreur à éviter en s'en tenant à ce que disent les sources.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food (https://www.mymoroccanfood.com/home/lentil-stew-with-lamb-pumpkin-and-shallots) ; Choumicha n° 1001 (https://web.archive.org/web/20260508112657/https://www.choumicha.ma/recette/1001-lentilles-a-la-viande-sechee-et-aux-carottes.html) ; Bladi (https://www.bladi.net/recettes/soupe-au-lentilles.html)"
+  },
+  {
+   "champ": "secrets[3].text",
+   "actuel": "Râpe l'oignon et les tomates : ils fondent dans la sauce.",
+   "propose": "Râpe l'oignon et les tomates.",
+   "pourquoi": "Les sources citées râpent bien l'oignon et les tomates (Morocco World News 2019, blog Mamatkamal, My Moroccan Food pour les tomates, Cooking With Alia n° 462 pour la peau jetée), mais aucune n'écrit qu'ils « fondent dans la sauce » (recherche faite dans toutes les pages relues).",
+   "gravite": "mineure",
+   "sources": "Morocco World News 2019 (https://www.moroccoworldnews.com/2019/11/285866/how-to-make-moroccan-lentils/) ; blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html) ; Cooking With Alia n° 462 (https://www.cookingwithalia.com/462-moroccan-lentils-soup/)"
+  },
+  {
+   "champ": "secrets[9].text",
+   "actuel": "Un filet de citron dans l'assiette réveille les lentilles.",
+   "propose": "Sers avec du citron à presser dans l'assiette.",
+   "pourquoi": "Les sources servent les lentilles avec du citron (Bladi : « servez avec un jus de citron » ; My Moroccan Food : quartiers de citron ; Mamatkamal : citron en fin de cuisson), mais « réveille les lentilles » n'est écrit nulle part.",
+   "gravite": "mineure",
+   "sources": "Bladi (https://www.bladi.net/recettes/soupe-au-lentilles.html) ; My Moroccan Food (https://www.mymoroccanfood.com/home/vegetarian-lentil-stew) ; blog Mamatkamal (https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html)"
+  },
+  {
+   "champ": "variants[1]",
+   "actuel": "Sans viande, la version la plus courante au quotidien :",
+   "propose": "Sans viande (Morocco World News 2019 : seuls certains y ajoutent de petits morceaux de viande) :",
+   "pourquoi": "« La version la plus courante au quotidien » n'est écrit dans aucune source. Ce qui est écrit : « Some people choose to add small morsels of meat » (Morocco World News 2019), et la recette d'origine de MarocMama est sans viande.",
+   "gravite": "mineure",
+   "sources": "Morocco World News 2019 (https://www.moroccoworldnews.com/2019/11/285866/how-to-make-moroccan-lentils/) ; MarocMama (https://marocmama.com/moroccan-lentil-instant-pot-recipe/)"
+  },
+  {
+   "champ": "discrepancies[10]",
+   "actuel": "2 à 3 chez Cooking With Alia, Morocco World News 2020 et Choumicha (poulet)",
+   "propose": "2 à 3 chez Cooking With Alia et Choumicha (poulet), 1 seule chez Morocco World News 2020 (avec 2 c. à s. d'huile de cuisson)",
+   "pourquoi": "Morocco World News 2020 met « 2 tablespoons of cooking oil » et « 1 tablespoon of olive oil », pas 2 à 3 cuillères d'huile d'olive.",
+   "gravite": "mineure",
+   "sources": "Morocco World News 2020 (https://www.moroccoworldnews.com/2020/10/65516/easy-recipe-for-cooking-lentils-the-moroccan-way/ ; copie de l'URL d'origine : https://web.archive.org/web/20201016161902/https://www.moroccoworldnews.com/2020/10/322275/easy-recipe-for-cooking-lentils-the-moroccan-way/)"
+  },
+  {
+   "champ": "discrepancies[12]",
+   "actuel": "seulement chez Morocco World News et Cooking With Alia",
+   "propose": "seulement chez Morocco World News, Cooking With Alia et MarocMama (1 c. à c. de curcuma)",
+   "pourquoi": "La recette de MarocMama, citée dans les sources, contient « 1 tsp turmeric ».",
+   "gravite": "mineure",
+   "sources": "MarocMama (https://marocmama.com/moroccan-lentil-instant-pot-recipe/)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 17 URL de « sources » répondent le 7 novembre 2026. Quinze renvoient HTTP 200 à curl (dont les copies web.archive.org de Choumicha). Les deux pages de Morocco World News renvoient à curl une page de contrôle Cloudflare (403, non contournée), mais s'ouvrent avec l'outil de lecture web, et leur texte est identique aux copies archivées des URL d'origine (https://web.archive.org/web/20191105134957/https://www.moroccoworldnews.com/2019/11/285866/how-to-make-moroccan-lentils/ ; https://web.archive.org/web/20201016161902/https://www.moroccoworldnews.com/2020/10/322275/easy-recipe-for-cooking-lentils-the-moroccan-way/). Chaque page a été relue : son contenu correspond aux résumés « used_for », sauf la cocotte-minute de Bladi (corrigée). Les 6 personnes des recettes n° 1001 et n° 1039 de Choumicha sont dans le champ « recipeYield » de la page ; les 4 personnes de Cooking With Alia n° 462 ne sont plus sur la page actuelle, mais figurent sur sa copie du 30 novembre 2022 (« Serves : 4 », https://web.archive.org/web/20221130101042/https://www.cookingwithalia.com/462-moroccan-lentils-soup/).",
+  "Combinaison agneau + lentilles + pommes de terre + carottes : NON confirmée par une source marocaine. Recherche faite sans moteur de recherche web : Choumicha (pages archivées des mots-clés « lentilles » et « Lentille » : cinq recettes, aucune avec cette combinaison ; la plus proche, n° 1001, est à la viande séchée et aux carottes), Cooking With Alia (index complet de 930 recettes analysé : seules des hariras réunissent lentilles, viande, pommes de terre et carottes), Bladi (rubriques Viandes, Tajines, Soupes et Inclassables : la plus proche est « Soupe aux lentilles », au veau et à l'os à moelle, avec 1 pomme de terre et 1 carotte, en soupe, https://www.bladi.net/recettes/soupe-aux-lentilles.html), Lalla Moulati (recherches « عدس », « العدس باللحم », « عدس بالبطاطس », « العدس بالخضر », « العدس المغربي » : seulement une soupe de lentilles jaunes et des astuces), Femmes du Maroc (son moteur interne ne renvoie qu'un velouté de lentilles corail et une mujadarra libanaise), blog Mamatkamal (bœuf seulement), My Moroccan Food (agneau avec courge et échalotes). L'auteur l'écrit lui-même (discrepancies[0]) : la recette est une reconstitution, et ses éléments sont chacun sourcés.",
+  "Proportions recalculées avec python3 -I, ramenées à 250 g de lentilles sèches : agneau 300 g (My Moroccan Food 300, Bladi 250, Mamatkamal 143 ; médiane 250 ; 300 retenu, la valeur de la seule version à l'agneau) ; cumin médiane 0,71 c. à c. (1 retenu, comme My Moroccan Food et Morocco World News 2019) ; paprika médiane 1,0 (1 retenu ; My Moroccan Food en met 1,5) ; sel médiane 0,98 (1 retenu) ; poivre médiane 0,37 (¼ retenu, à rectifier) ; tomates médiane 1,5 (2 retenues, comme My Moroccan Food) ; eau 1 l (Choumicha 1,07 l, Cooking With Alia n° 462 et Morocco World News 2019 1 l ; My Moroccan Food 0,53 l) ; huile d'olive médiane 2,9 c. à s. (4 retenues, comme My Moroccan Food et Morocco World News 2019) ; carottes : 1,43 chez Choumicha, 2 dans la recette (+40 %, écart signalé par l'auteur). Par personne : 62,5 g de lentilles sèches et 75 g d'agneau (Choumicha 58 à 88 g de lentilles par personne ; My Moroccan Food 42 à 63 g). Les chiffres de discrepancies[1], [5], [7], [8], [9] et [11] sont exacts.",
+  "Durées et ordre des étapes : agneau de 3 cm doré 5 à 10 minutes dans 4 c. à s. d'huile d'olive (mêmes valeurs que My Moroccan Food) ; aromates 5 minutes (Cooking With Alia n° 094, Morocco World News 2019) ; viande 45 minutes, prolongeables de 15 minutes, soit 45 à 60 minutes, alors que My Moroccan Food compte « about 1 hour » pour les mêmes morceaux : acceptable, car l'étape garde le repère de My Moroccan Food (la viande commence à s'attendrir) ; pommes de terre 20 minutes : My Moroccan Food (quartiers, environ 20 minutes, https://www.mymoroccanfood.com/home/lamb-potatoes-and-olives-tagine) et Cooking With Alia (morceaux moyens, 5 puis 10 à 15 minutes), cohérent pour de petites pommes de terre en gros morceaux. Somme des minuteurs : 5 + 45 + 20 + 20 = 90 minutes, plus 5 à 10 minutes de dorage sans minuteur, la mise à ébullition de 1 l et la réduction finale : time.cook = 110 est cohérent. Chaque minuteur correspond au texte de son étape (5, 45, 20, 20 minutes), et chaque message de fin annonce bien l'étape suivante.",
+  "Quantités : les 20 ingrédients de la liste sont tous appelés dans les étapes, avec les mêmes quantités. Rendu des repères, calculé avec le code de app.html exécuté sous node : pour 1 personne, 65 g de lentilles, 75 g d'agneau, 1 c. à s. d'huile, ¼ gros oignon, ¾ gousse d'ail, ½ tomate, ¼ c. à c. de concentré, de paprika, de cumin et de sel, ⅛ c. à c. de poivre, ¼ c. à s. de persil et de coriandre, 250 ml d'eau, ½ carotte, ½ petite pomme de terre, ¼ citron ; pour 4, les quantités de la liste (« 2 carottes moyennes », « 2 petites pommes de terre », « 3 gousses d'ail », « 1 l ») ; pour 8, 500 g de lentilles, 600 g d'agneau, 8 c. à s. d'huile, 2 gros oignons, 6 gousses, 4 tomates, ½ c. à c. de poivre, 2 l d'eau, 4 carottes, 4 petites pommes de terre, 2 citrons. Les repères sans quantité ({{cayenne}}, {{eau-bouillante}}, {{khobz}}) affichent bien le nom. Seule tournure un peu étrange, sans erreur : pour 1 personne, « Coupe les tomates en deux (½ tomate moyenne bien mûre) ».",
+  "Sécurité et halal : agneau halal, cuit plus d'une heure dans le liquide ; ni porc ni alcool (le bouillon de poulet de My Moroccan Food est remplacé par de l'eau) ; pas de fromage. Planches séparées pour la viande crue, lavage des herbes, restes au réfrigérateur dans les 2 heures et consommés dans les 3 jours, petites portions au-delà d'un litre, boîte fermée, réchauffage à couvert jusqu'à ce que la vapeur s'échappe : tout est écrit sur la page de l'Anses du 8 avril 2020 (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques). Aucune affirmation de santé.",
+  "Textes sourcés relus sur les pages elles-mêmes (indices à partir de 0) : secrets[0], [1], [2], [4] à [8], [10] à [12] ; mistakes[1] à [7] ; serving ; variants[0] et [2] à [8] (bœuf, gueddid et khlii, patate douce et courge, smen et cannelle, courge et échalotes, riz, vinaigre blanc, sardines grillées, gingembre et curcuma) ; occasion et région (Morocco World News 2019 : « popular across the country in the winter months » ; 2020 : « a main dish for many Moroccan families » ; Mamatkamal : plat d'hiver) ; trier les lentilles (Bladi, Mamatkamal, MarocMama) ; lentilles corail à éviter (MarocMama : « This recipe DOES NOT work with red lentils »).",
+  "Noms : « العدس » et l'3des sont attestés (blog Mamatkamal : « La3dass = العدس » ; Cooking With Alia n° 462 : « العدس على الطريقة المغربية » ; MarocMama : « addis »)."
+ ],
+ "non_verifiable": [
+  "Combinaison exacte agneau + lentilles + pommes de terre + carottes : aucune source marocaine ne la donne parmi celles qui ont pu être fouillées. Le360 (résultats de recherche chargés en JavaScript, illisibles), Hespress (accès refusé, erreur 403, non contourné), Chhiwat (adresse inconnue sans recherche web) et la recherche interne de My Moroccan Food (affichée en JavaScript) n'ont pas pu être consultés ; sans recherche web, d'autres sites marocains n'ont pas pu être explorés.",
+  "Nom complet « العدس باللحم » / « Adess bel lham » : non trouvé tel quel dans les sources ; seul « العدس » (l'3des) est attesté. « باللحم » (« à la viande ») est une description littérale, correcte en arabe, mais non confirmée comme nom usuel du plat.",
+  "Durée exacte de cuisson des lentilles brunes non trempées dans ce plat : les sources divergent (40 minutes chez My Moroccan Food pour des vertes, 50 à 55 chez Choumicha, 1 h 30 à 2 h chez Mamatkamal). C'est pourquoi la correction ajoute un contrôle de cuisson plutôt qu'une nouvelle durée.",
+  "Taille exacte des « petites pommes de terre » et des « gros morceaux » : non précisée par les sources (Cooking With Alia : grosses pommes de terre coupées en quatre ; My Moroccan Food : quartiers) ; le temps de 20 minutes reste à contrôler à la fourchette, comme l'étape le demande.",
+  "Limite de la vérification : le quota de recherche web étant épuisé, seules les pages ouvertes directement, leurs copies web.archive.org et les moteurs de recherche internes des sites ont été consultés."
+ ]
+}

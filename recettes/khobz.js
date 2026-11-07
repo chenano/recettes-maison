@@ -100,6 +100,14 @@ window.RECETTES.push({
     "min": 10,
     "label": "Pétrissage",
     "done": "Pâte lisse, souple et élastique ? Passe aux boules. Sinon, pétris encore jusqu'à 5 minutes."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétrir 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
    }
   },
   {
@@ -154,7 +162,15 @@ window.RECETTES.push({
    "phase": "Cuisson",
    "title": "Ou au four du quartier",
    "text": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/ferran-marrakech.jpg",
+    "alt": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
+    "caption": "Le four du quartier, à Marrakech",
+    "w": 1000,
+    "h": 666,
+    "credit": "Photo de l'étape « Ou au four du quartier » : Bernhard Holub, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
   },
   {
    "phase": "Service",

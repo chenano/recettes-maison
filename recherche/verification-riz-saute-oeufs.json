@@ -1,0 +1,69 @@
+{
+ "slug": "riz-saute-oeufs",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Wikipédia en chinois, article « 炒飯 » (on y arrive depuis « 蛋炒飯 »), révision 95163226, lue le 7 novembre 2026",
+   "url": "https://zh.wikipedia.org/wiki/%E7%82%92%E9%A3%AF",
+   "ce_qu_elle_confirme": "Source encyclopédique, indépendante des recettes citées : selon une légende (相傳), l'empereur Yang des Sui faisait préparer son « 碎金飯 », c'est-à-dire du riz sauté aux œufs, que l'on appelle aussi « 金裹銀 » (l'or qui enveloppe l'argent) ; le « 黄金炒饭 » s'appelait autrefois 碎金饭. Confirme la légende des Sui (secret et discordance) et le nom « or et argent » de la variante de 香港01."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[3].text",
+   "actuel": "Attends que l'huile soit très chaude et commence à fumer légèrement.",
+   "propose": "Attends que l'huile soit très chaude et commence à fumer légèrement. Avec une poêle antiadhésive, ne va pas jusqu'à la fumée : l'huile est prête quand sa surface se met à onduler.",
+   "pourquoi": "Made With Lau, cité par la recette, dit de ne pas chauffer une poêle ou un wok antiadhésif jusqu'à la fumée : on chauffe, on ajoute l'huile, et elle est prête quand elle ondule (« shimmering, or forming ripples »). L'étape envoie l'huile jusqu'à la fumée dans « le wok ou la grande poêle » sans cette réserve, alors que le compte officiel de 美食天下 cuit justement dans une poêle antiadhésive (不粘锅) et se contente de « 烧热 » (bien chauffer).",
+   "gravite": "mineure",
+   "sources": "Made With Lau, « The Fried Rice My Dad's Made 100,000 Times », section « What if I don't have a wok? » ; 美食天下, compte officiel, recette 433118 (使用的厨具：不粘锅 ; 锅中放入适量油烧热)"
+  },
+  {
+   "champ": "mistakes[5]",
+   "actuel": "Si tu en fais nettement plus, fais-le en plusieurs fois.",
+   "propose": "Si tu en fais nettement plus, par exemple pour 8 personnes, fais-le en plusieurs fois, comme le conseille aussi Made With Lau.",
+   "pourquoi": "La consigne de cuire en plusieurs fois n'était rattachée à aucune source : Made With Lau la donne pour une poêle (« divide the cooking into batches »). L'appli permet de doubler la recette : pour 8, elle affiche 1 kg de riz, plus du double des 3 tasses (474 g) qu'Omnivore's Cookbook met dans un wok ou une poêle de 30 cm.",
+   "gravite": "mineure",
+   "sources": "Made With Lau (section « What if I don't have a wok? ») ; Omnivore's Cookbook (« Cook in a wok or large skillet ») ; rendu de l'appli simulé pour 8 personnes"
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "méthode d'un chef de Hong Kong :",
+   "propose": "méthode d'un chef publiée par le média hongkongais 香港01 :",
+   "pourquoi": "香港01 présente le chef 尤瑞昌 par ses 38 ans de cuisine, ses 18 ans d'enseignement et ses titres (中式饮食业课程高级教授、国家中医药膳制作师), sans dire qu'il est de Hong Kong : seul le média est hongkongais. Le reste de la variante (jaunes mêlés au riz chaud, environ 3 g de sel, blancs à moitié cuits dans 1 c. à s. d'huile à feu moyen, blanc qui mouille le riz) est conforme à l'article.",
+   "gravite": "mineure",
+   "sources": "香港01, 邹家凤, 2 octobre 2025 (page lue le 7 novembre 2026)"
+  },
+  {
+   "champ": "variants[7]",
+   "actuel": "ou aère-le jusqu'à ce qu'il ne fume plus (The Woks of Life ; Made With Lau)",
+   "propose": "ou laisse-le à découvert jusqu'à ce qu'il ne fume plus (The Woks of Life), ou aère-le 1 à 2 minutes aux baguettes pour laisser partir la vapeur (Made With Lau)",
+   "pourquoi": "The Woks of Life laisse le riz frais à découvert jusqu'à ce qu'il cesse de fumer. Made With Lau ne l'attend pas : il le laisse 2 minutes couvert, puis l'aère 1 à 2 minutes aux baguettes pour laisser partir la vapeur, et le fait sauter encore chaud. L'attribution commune était donc inexacte pour Made With Lau.",
+   "gravite": "mineure",
+   "sources": "The Woks of Life, « Egg Fried Rice », instructions ; Made With Lau, étape « Microwave veggies & fluff rice »"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Version de base au sel seul, sans sauce soja : 下厨房 (米饭、鸡蛋、葱花、盐), les deux recettes de 美食天下, 香港01, Omnivore's Cookbook (« seasoned with nothing but salt ») et The Woks of Life n'ont pas de sauce soja ; elle n'apparaît que chez Made With Lau (version restaurant) et chez HowToCook (生抽) : pages ouvertes le 7 novembre 2026.",
+  "Note halal sur la sauce soja : la FAQ de Kikkoman USA dit que ses sauces soja contiennent plus de 2 % d'alcool en volume, issu de la fermentation du blé, du soja, du sel et de l'eau ; la mention « certifiée halal » des variantes et l'erreur à éviter n° 8 sont donc fondées.",
+  "Sécurité du riz cuit : la page FSA « Home food fact checker » (mise à jour le 21 août 2026) dit de refroidir le riz restant le plus vite possible, idéalement en moins d'une heure, de ne pas le garder plus d'un jour au frigo avant de le réchauffer, de ne jamais le réchauffer plus d'une fois et de vérifier qu'il est fumant partout, et nomme Bacillus cereus ; la note de l'ingrédient, les erreurs n° 2 et 3 et l'étape « Vérifie que c'est bien chaud » le reprennent fidèlement. L'ancienne page du NHS « Can reheating rice cause food poisoning? » renvoie aujourd'hui vers cette page de la FSA.",
+  "Proportions recalculées avec python3 -I : riz pour 4 = 400 g (下厨房, 二两 par part), 474 g (Omnivore, 3 tasses de 158 g), 527 g (Woks of Life ramené à 4), 900 g (Made With Lau), médiane 500 g ; sel pour 500 g de riz = 0,53 (Omnivore), 0,56 (Made With Lau, sel des œufs et de l'assaisonnement), 0,95 (Woks of Life) c. à c., et 3 g chez 香港01 = ½ c. à c. (USDA : 6 g la c. à c.) ; huile pour 500 g = 2,11, 1,90 et 1,67 c. à s., médiane 1,90 ; 4 œufs et 4 oignons verts comme Omnivore ; 12 pouces = 30,5 cm : Omnivore's Cookbook, Made With Lau, The Woks of Life, 香港01, 下厨房, USDA.",
+  "Gestes et durées : poêle à feu moyen-vif jusqu'à la fumée, dessous des œufs pris en 15 à 20 secondes, riz froid versé sur l'œuf encore baveux et haché à la spatule, riz pressé 30 à 45 secondes puis remué pendant 2 à 3 minutes, une minute hors du feu (Omnivore's Cookbook) ; spatule tenue droite (美食天下, compte officiel : 锅铲以垂直的方向) ; racler le fond le long des bords (Made With Lau) ; quelques gouttes d'eau sur les mottes et vapeur visible quand le riz est chaud (The Woks of Life).",
+  "Cohérence interne : un seul minuteur (3 min), égal au texte de l'étape « Sale et fais dorer » ; temps 5 + 10 = 15 min, comme l'accroche (« un quart d'heure ») et dans la catégorie Rapide (Omnivore compte 5 + 5 min) ; chaque ingrédient est cité dans les étapes, avec les quantités de la liste.",
+  "Secrets relus dans leurs sources : 下厨房 (« 身骨要挺，隔夜为佳 », « 水气不能过重，过重则软扒，过轻则亘牙 », « 用底油，把切好的少许葱花呛锅 », légende du 碎金饭 de 杨素) ; 美食天下, compte officiel (« 隔夜米饭是蛋炒饭的最佳选择 », « 锅铲直立的炒制方法… », 2 tiges d'oignon vert pour 2 œufs) ; 美食天下, 双鱼座的美食 (« 热油下葱花，爆香，下米饭 », 3 à 5 min à feu vif, 香油) ; Omnivore (riz séché au frigo sans couvercle une à deux heures, 2 c. à s. d'huile au minimum pour 3 tasses, 4 oignons verts, blanc et vert, wok ou poêle de 12 pouces) ; Made With Lau (racler le long des bords).",
+  "Erreurs à éviter et variantes relues : riz frais qui colle davantage et légumes aqueux à éviter (Made With Lau) ; version restaurant avec carotte, maïs, petits pois, sauces soja, sucre et bouillon, et « Light soy sauce: skip, use more salt » (Made With Lau) ; version soja d'Omnivore (2 c. à s. de sauce soja, 1 c. à c. de sauce soja foncée, ½ c. à c. de sucre à la place du sel), huile de sésame hors du feu, ¼ c. à c. de bouillon de poule ou de glutamate, riz frais étalé puis 30 min au frigo ; Woks of Life avec curcuma, paprika, oignon, poivron et petits pois ; HowToCook avec 火腿, 胡萝卜, 黄瓜 et 生抽 ; norme du riz de Yangzhou avec 海参, 鸡腿肉, 火腿, 干贝, 虾仁, 花菇, 鲜笋, 青豆 et 绍酒 (中国新闻网, d'après le 大公报).",
+  "Occasion, région et service : plat de maison, pas de restaurant, mangé enfant à Pékin au goûter (« after school snack ») et servi chaud en accompagnement ou en plat léger, avec une salade de concombre ou un plat en sauce et une soupe (Omnivore's Cookbook) ; dans le vieux Yangzhou, riz du midi sauté le soir avec un ou deux œufs et de l'oignon vert (中国新闻网, 14 novembre 2013, texte de 王德凡) ; sauce piquante (The Woks of Life) ; dôme au bol (Made With Lau).",
+  "Halal : recette de base sans porc ni alcool ; chaque variante douteuse porte « certifié halal » (sauce soja, bouillon, jambon de volaille) ou « pas halal tel quel » (riz de Yangzhou au 绍酒 et au 火腿) ; œufs entièrement cuits.",
+  "Dates et auteurs : 下厨房, 张恩勾, 16 février 2011 (2 152 personnes l'ont fait, 2 297 réalisations) ; 美食天下, 23 décembre 2018 et 23 juillet 2025 ; 香港01, 邹家凤, 2 octobre 2025 ; Omnivore's Cookbook, Maggie Zhu, 27 mai 2026 ; Made With Lau, 3 octobre 2023 ; The Woks of Life, Bill Leung, 5 août 2015 (mise à jour le 16 avril 2025) ; FSA, 21 août 2026.",
+  "Liens : les 11 liens de pages répondent le 7 novembre 2026 (code 200), copies web.archive.org comprises. Le lien de l'API USDA avec DEMO_KEY a répondu « OVER_RATE_LIMIT » (429) depuis cette machine, dont le quota partagé était épuisé ; les mêmes fiches ont été relues sur le site FoodData Central (fdc.nal.usda.gov/portal-data/external/168878, 168932 et 173468) : riz long cuit 158 g la tasse, riz rond cuit 205 g, sel 6 g la c. à c.",
+  "Rendu dans l'appli, simulé avec le code de app.html : pour 1 personne « 125 g de riz », « 1 œuf », « 1 oignon vert (cébette) », « ½ c. à s. d'huile », « ⅛ c. à c. de sel » ; pour 4, les quantités de la liste ; pour 8, « 1 kg », « 8 œufs », « 8 oignons verts (cébettes) », « 4 c. à s. », « 1 c. à c. » ; singulier et pluriel bien accordés, aucun {{id}} sans ingrédient.",
+  "Noms : 蛋炒饭 se lit bien dàn chǎofàn ; le nom arabe « أرز مقلي بالبيض » est correct (descriptif)."
+ ],
+ "non_verifiable": [
+  "Quota de recherche web épuisé : aucune deuxième source officielle indépendante de la FSA n'a pu être trouvée pour les règles du riz cuit (l'ancienne page du NHS renvoie vers la FSA ; les pages de la FSIS, aux États-Unis, refusent l'accès automatique, erreur 403).",
+  "Noms en darija (« Rouz mqli b l-bid ») et en arabe : aucun usage établi trouvé ; la recherche interne de Lalla Moulati (« الأرز المقلي ») ne donne aucune recette de riz sauté aux œufs.",
+  "Sources non relues, faute de recherche web ou parce que le site refuse les robots : Fuchsia Dunlop (Every Grain of Rice), Baidu Baike, 香哈, 豆果, Serious Eats, Red House Spice, China Sichuan Food (déjà signalées par l'auteur).",
+  "« 二两米饭 » (下厨房) : poids cuit ou cru non précisé par la source.",
+  "Statut halal du glutamate et des bouillons en poudre : non vérifié, d'où la consigne « certifié halal seulement ».",
+  "Disponibilité des oignons verts (cébettes) au Maroc : non vérifiée."
+ ]
+}

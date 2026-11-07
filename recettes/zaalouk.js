@@ -165,7 +165,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare tomates, ail et herbes",
    "text": "Pèle {{tomates}} de tomates (un éplucheur à dents aide), épépine-les et coupe-les en tout petits dés. Plus simple : coupe-les en deux, râpe la chair et jette la peau. Pèle et écrase {{ail:full}} au presse-ail ou au pilon. Lave et hache finement la coriandre et le persil, et garde-en un peu pour servir.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Prépare tomates, ail et herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",

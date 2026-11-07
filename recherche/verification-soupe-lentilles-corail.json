@@ -1,0 +1,94 @@
+{
+ "slug": "soupe-lentilles-corail",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati (site marocain), « شهيوات رمضانية.. شوربة العدس الأحمر », recette publiée le 28 mai 2018",
+   "url": "https://www.lalamoulati.net/134984.html",
+   "ce_qu_elle_confirme": "Le nom arabe « شوربة العدس الأحمر » (soupe de lentilles rouges) est employé par un site marocain ; seul le nom a été vérifié, pas la recette."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "tagline",
+   "actuel": "avec un filet de beurre au paprika et un quartier de citron.",
+   "propose": "avec un filet de beurre au paprika et un quartier de citron. Prête en 30 minutes à la cocotte-minute ; compte 45 à 55 minutes à la casserole.",
+   "pourquoi": "Les 30 minutes (10 + 20) affichées par l'appli, et le classement en « Rapide », ne valent qu'à la cocotte-minute : c'est la durée de la recette sous pression de Yemek.com (10 + 20 min), proche de celles de Nefis Yemek Tarifleri (5 + 15 et 10 + 15 min). À la casserole, les recettes qui donnent préparation et cuisson comptent 15 + 30 min (Elif Atalar), 15 + 35 min (Türk Mutfağı Haftası) et 15 + 40 min (Ozlem Warren, 2010). Or ni l'accroche ni l'occasion ne le disent : la cocotte n'apparaît que dans le matériel, les étapes, une variante et les divergences.",
+   "gravite": "majeure",
+   "sources": "Yemek.com, Gökçen Mutaf, « Düdüklüde Mercimek Çorbası » (4 kişilik, 10 dk hazırlama, 20 dk pişirme) ; Nefis Yemek Tarifleri, Elif Atalar, vidéo (5 + 15 dk) et Nesli'nin Mutfağı (10 + 15 dk), copies web.archive.org ; Nefis, Elif Atalar, « Mercimek Çorbası Tarifi » (15 + 30 dk, copie du 16 juillet 2025) ; Yemek.com, Türk Mutfağı Haftası (15 + 35 dk) ; Ozlem's Turkish Table, 29 novembre 2010 (15 + 40 min)"
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "Le plat dépasse alors les 30 minutes : Ozlem compte 40 minutes de cuisson dans sa recette de 2010, et Nefis environ 40 minutes.",
+   "propose": "Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",
+   "pourquoi": "Les durées de frémissement de la variante sont justes (Ozlem 2026 : couvercle entrouvert, feu baissé, 20 à 25 minutes ; Türk Mutfağı Haftası : « yaklaşık 25-30 dakika »), mais la variante ne donnait pas le temps total, seulement « plus de 30 minutes ». Les trois recettes à la casserole qui détaillent préparation et cuisson font 45, 50 et 55 minutes, ce qui colle aux étapes de la recette (10 minutes de préparation et 20 à 30 minutes de frémissement, plus le temps de faire revenir, de porter à ébullition, de mixer et d'assaisonner). Les autres totaux lus vont de 40 minutes (en-tête de la page lokanta usulü de Nefis, qui annonce pourtant environ 40 minutes de cuisson plus bas) à 60 minutes (Yemek.com lokanta usulü, avec farine et gros morceaux).",
+   "gravite": "mineure",
+   "sources": "Ozlem's Turkish Table, 24 août 2026 et 29 novembre 2010 ; Yemek.com, Türk Mutfağı Haftası, 21 mai 2025 ; Nefis Yemek Tarifleri, Elif Atalar, « Mercimek Çorbası Tarifi » (copie web.archive.org du 16 juillet 2025) et « Lokanta Usulü Mercimek Çorbası Tarifi » (copie du 21 avril 2024) ; Yemek.com, Yasemin Gürsürer, lokanta usulü (10 + 50 dk)"
+  },
+  {
+   "champ": "secrets[4].text",
+   "actuel": "environ 40 minutes à la casserole, 10 à 15 minutes sous pression.",
+   "propose": "environ 40 minutes de cuisson à la casserole, contre 15 à 20 minutes en tout à la cocotte-minute, dont 10 à 15 sous pression.",
+   "pourquoi": "La phrase comparait une cuisson entière à la casserole (environ 40 minutes) au seul temps passé sous pression (10 à 15 minutes). Les recettes sous pression lues comptent 15 à 20 minutes de cuisson en tout : 15 minutes chez Elif Atalar et chez Nesli'nin Mutfağı, 20 minutes chez Gökçen Mutaf, dont 10 à 15 minutes une fois la cocotte fermée et à ébullition. Les sources du secret restent valables.",
+   "gravite": "mineure",
+   "sources": "Nefis Yemek Tarifleri, Elif Atalar, vidéo sous pression (« 5dk Hazırlık, 15dk Pişirme » ; « kaynadıktan sonra 10 dakika ») et Nesli'nin Mutfağı (« 10dk Hazırlık, 15dk Pişirme » ; « 10-15 dakika »), copies web.archive.org ; Yemek.com, Gökçen Mutaf (20 dk pişirme ; « 10-15 dakika daha »)"
+  },
+  {
+   "champ": "region",
+   "actuel": "beaucoup de familles, comme celle d'Ozlem Warren, y ajoutent carotte et pomme de terre (Ozlem's Turkish Table).",
+   "propose": "Ozlem Warren, comme sa mère, y ajoute carotte et pomme de terre (Ozlem's Turkish Table), comme la plupart des recettes turques lues (Nefis Yemek Tarifleri ; Yemek.com).",
+   "pourquoi": "Ozlem Warren écrit seulement qu'elle met, comme sa mère, carotte et pomme de terre dans sa soupe ; elle ne parle pas de « beaucoup de familles ». En revanche, 8 des 11 recettes turques lues en mettent (Elif Atalar sous pression, Nesli'nin Mutfağı, Gökçen Mutaf, Yemek.com lokanta, süzme et ev usulü, Ozlem 2010 et 2026) ; Elif Atalar à la casserole met la carotte et propose la pomme de terre à la place de la farine ; le Türk Mutfağı Haftası et la recette lokanta usulü d'Elif Atalar n'en mettent pas.",
+   "gravite": "mineure",
+   "sources": "Ozlem's Turkish Table, 24 août 2026 (« like my mother, I add carrots and potatoes to mine ») ; Nefis Yemek Tarifleri (4 recettes, copies web.archive.org) ; Yemek.com (5 recettes)"
+  },
+  {
+   "champ": "variants[1]",
+   "actuel": "et bouillon de viande, mixés,",
+   "propose": "et bouillon de viande halal, maison ou certifié (ou bouillon de légumes, ou eau chaude), mixés,",
+   "pourquoi": "Le bouillon de viande doit être halal. La recette le rappelle dans ses secrets, mais pas dans cette variante, que l'on lit seule dans l'onglet Infos. Le Türk Mutfağı Haftası accepte aussi un bouillon de légumes ou de l'eau chaude (« veganlar için sebze suyu ya da sıcak su »).",
+   "gravite": "mineure",
+   "sources": "Yemek.com, Türk Mutfağı Haftası, liste des ingrédients ; consigne halal de l'appli"
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "Médiane 2,4 : retenu 2 c. à s. d'huile.",
+   "propose": "Médiane 2,7 en prenant le milieu des fourchettes de parts, comme pour les lentilles (2,4 en prenant le haut des fourchettes) : retenu 2 c. à s. d'huile, dans la fourchette des recettes.",
+   "pourquoi": "Recalcul avec python3 -I, ramené à 4 et au milieu des fourchettes de parts (4-6 = 5, 6-8 = 7), comme l'auteur l'a fait pour les lentilles (130 g pour 1 verre « pour 4 à 6 ») et le beurre du dessus : Ozlem 2010 0,67 ; Türk Mutfağı Haftası 1,41 (30 g de beurre pour 6) ; Çiğdem Esastürk 1,5 ; Yemek.com lokanta 2 ; ev usulü 2,67 ; Elif Atalar sous pression 2,8 ; Elif Atalar à la casserole 2,86 ; Ozlem 2026 3 ; Nesli'nin Mutfağı 3,2 ; Gökçen Mutaf 4. Médiane 2,73. On ne retrouve 2,4 qu'en prenant le haut des fourchettes (6 et 8 parts). Les 2 c. à s. retenues restent dans la fourchette (0,7 à 4).",
+   "gravite": "mineure",
+   "sources": "Les 10 recettes turques citées par l'auteur, relues le 7 novembre 2026 ; USDA, beurre 14,2 g la c. à s."
+  },
+  {
+   "champ": "discrepancies[6]",
+   "actuel": "pour 4 à 8 dans les recettes turques.",
+   "propose": "pour 4 à 8 dans les recettes turques. Durée sur le feu après le piment : quelques secondes (Türk Mutfağı Haftası), 35 secondes (Ozlem 2026), 1 à 2 minutes (Yemek.com, lokanta usulü et ev usulü) ; retenu : quelques secondes, comme le Türk Mutfağı Haftası.",
+   "pourquoi": "Le secret « Le beurre au paprika ne chauffe que quelques secondes » est bien écrit dans ses sources (Türk Mutfağı Haftası : « birkaç saniye kızdırın ve ocaktan alın » ; Ozlem : 35 secondes), mais deux recettes de Yemek.com chauffent l'huile 1 à 2 minutes après le piment (« 2 dakika yağı kızdırdıktan sonra » ; « 1-2 dakika yağı kızdırın ») : la divergence doit figurer dans la liste.",
+   "gravite": "mineure",
+   "sources": "Yemek.com, Türk Mutfağı Haftası ; Ozlem's Turkish Table, 2026 ; Yemek.com, Yasemin Gürsürer (lokanta usulü) et Dorukhan Dişbudak (ev usulü)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Temps sous pression sourcés : 10 minutes après l'ébullition, cocotte fermée (Elif Atalar : « kaynadıktan sonra 10 dakika pişirelim ») ; 10 à 15 minutes à feu moyen selon la cocotte, après avoir porté à ébullition puis fermé (Nesli'nin Mutfağı) ; 10 à 15 minutes à feu baissé dès que ça bout (Gökçen Mutaf). Le minuteur de 10 minutes correspond au texte de l'étape ; 10 + 20 = 30 minutes, comme la recette sous pression de Yemek.com (10 + 20).",
+  "Ouverture : faire tomber la pression et ouvrir avec précaution selon le mode d'emploi (Gökçen Mutaf : « dikkatli ve kullanım talimatına uygun şekilde » ; Nesli : « havası alınıp kapağı açılır »), puis attendre 1 à 2 minutes avant de mixer (Gökçen Mutaf).",
+  "Variante à la casserole : couvercle entrouvert, feu baissé, 20 à 25 minutes en remuant pour que ça n'attache pas (Ozlem 2026) ; 25 à 30 minutes (Türk Mutfağı Haftası) ; environ 40 minutes (Nefis, lokanta usulü ; Yemek.com lokanta usulü) ; 35 minutes de frémissement pour 15 + 40 minutes (Ozlem 2010). Le total proposé en correction vient de ces pages.",
+  "Proportions recalculées avec python3 -I (1 su bardağı de 200 ml = 162,3 g de lentilles corail, d'après l'USDA : 192 g la tasse de 236,6 ml) : lentilles pour 4 = 130, 130, 162, 162, 167, 185, 200, 216, 255, 325 g, médiane 176 g, retenu 180 g ; liquide de 4,31 (Gökçen Mutaf) à 8,32 ml par gramme (Çiğdem Esastürk), médiane 5,63, soit 1 013 ml pour 180 g, retenu 1 l ; beurre du dessus 0,67, 0,8, 1,14, 1,33, 1,88 c. à s., médiane 1,14, retenu 1 ; cumin 0,4 à 2 c. à c., médiane 1 ; paprika 1 c. à c. pour 4 (Ozlem 2026).",
+  "Gestes : lentilles lavées dans beaucoup d'eau jusqu'à ce qu'elle soit claire (Elif Atalar : « Temiz su çıkana kadar yıkayınız » ; ev usulü) ; eau chaude pour bouillir plus tôt (Nesli'nin Mutfağı) ; oignon revenu 1 à 2 minutes, carotte râpée gros et pomme de terre en petits dés (Elif Atalar, vidéo) ; légumes revenus jusqu'à ramollir, leur couleur passant dans l'huile (Nesli'nin Mutfağı) ; lentilles remuées environ 1 minute (Türk Mutfağı Haftası) ; écume retirée (Ozlem) ; passoire plutôt que mixeur pour garder la couleur, la soupe mixée devenant « boz renkli » (Nesli'nin Mutfağı) ; mixeur puis passoire fine et 2 à 3 minutes de cuisson (Çiğdem Esastürk) ; cumin et poivre après le mixage (Elif Atalar) ou une fois la soupe cuite (Ozlem).",
+  "Secrets relus : « süzme » désigne la texture lisse et veloutée, soupe « baş tacı » des menus des lokanta, servie le plus souvent avec un quartier de citron et un beurre grésillant au piment (Türk Mutfağı Haftası, préparée avec la contribution du ministère turc de la Culture et du Tourisme) ; soupe qui épaissit en attendant (Elif Atalar, Nesli'nin Mutfağı, Ozlem) ; 1 à 2 verres de bouillon (Elif Atalar) ; plus de pul biber si l'on aime le piquant (Elif Atalar).",
+  "Erreurs et variantes relues : farine à ne pas brûler à feu trop fort (Nefis, lokanta usulü : « unu yakmamaya dikkat etmelisiniz ») ; remuer pour que les lentilles n'attachent pas (Ozlem) ; riz long 25 g pour 4 (Ozlem 2026) ; roux de 20 g de beurre et 1 c. à s. de farine (Türk Mutfağı Haftası) et 2 c. à s. de farine avec l'oignon (Elif Atalar) ; concentré de tomate ou de poivron (Elif Atalar ; Gökçen Mutaf) ; curcuma et cumin sans carotte ni pomme de terre (Elif Atalar, lokanta usulü) ; huile d'olive au pul biber et jus d'un citron (Ozlem) ; un verre de bouillon de poule (Elif Atalar, vidéo, en plus de 1 l d'eau).",
+  "Occasion, région et service : « en çok tüketilen çorbalarından biri » (Türk Mutfağı Haftası) ; « most probably Turkey's most popular soup », mangée aussi au petit-déjeuner en Anatolie (Ozlem 2010) ; version d'Istanbul aux lentilles seules (Ozlem 2026) ; citron et pain grillé (Türk Mutfağı Haftası), croûtons (Ozlem 2010), soupe faite en double pour en congeler une partie (Ozlem 2026).",
+  "Sécurité des restes : la FSA dit de mettre les restes au frigo dans les une à deux heures, en petites portions, frigo entre 0 et 5 °C, de les manger dans les 48 heures ou de les congeler (« How to chill, freeze and defrost food safely »), de ne les réchauffer qu'une fois, fumants partout, en remuant souvent sur le feu (« Cooking your food ») ; un plat cuit puis congelé ne se réchauffe qu'une fois.",
+  "Halal : ni porc ni alcool ; beurre ; bouillons de poule ou de viande signalés « maison ou certifié halal » (secret n° 9, variante au bouillon de poule), et correction proposée pour la variante au bouillon de viande.",
+  "Dates et auteurs : Türk Mutfağı Haftası 21 mai 2025 ; Gökçen Mutaf 25 novembre 2020 ; Elif Atalar, vidéo, mise à jour le 28 novembre 2025, et « Mercimek Çorbası Tarifi », mise à jour le 16 octobre 2023 ; Nesli'nin Mutfağı, mise à jour le 6 décembre 2021 ; Ozlem Warren 24 août 2026 et 29 novembre 2010 ; Yasemin Gürsürer 3 septembre 2026 ; Çiğdem Esastürk 23 mars 2022 ; Dorukhan Dişbudak 14 mars 2024 ; FSA, « How to chill, freeze and defrost food safely » et « Cooking your food », publiées le 18 décembre 2017.",
+  "Liens : les pages de Yemek.com, d'Ozlem's Turkish Table et de la FSA répondent (code 200) le 7 novembre 2026. Les quatre pages de Nefis Yemek Tarifleri refusent l'accès automatique (403) : elles ont été lues sur web.archive.org (copies du 11 mai 2026, du 1er septembre 2025, du 16 juillet 2025 et du 21 avril 2024). Le lien de l'API USDA (DEMO_KEY) a répondu 429 depuis cette machine ; les fiches 174284 (lentilles roses ou rouges crues, 192 g la tasse) et 173430 (beurre, 14,2 g la c. à s.) ont été relues sur le site FoodData Central.",
+  "Rendu dans l'appli, simulé avec le code de app.html : pour 1 personne « 45 g de lentilles corail », « ¼ oignon moyen », « ¼ carotte », « ¼ pomme de terre moyenne », « ½ c. à s. d'huile », « 250 ml d'eau », « ¼ c. à c. de cumin », « ¼ c. à s. de beurre », « ¼ c. à c. de paprika », « Coupe ¼ citron en quartiers » (compréhensible) ; pour 4, les quantités de la liste ; pour 8, « 360 g », « 2 oignons moyens », « 2 carottes », « 2 pommes de terre moyennes », « 4 c. à s. », « 2 l », « 2 c. à s. de beurre », « 2 citrons » ; « du sel », « du poivre noir moulu », « du pain grillé » s'affichent par leur nom.",
+  "Noms : « شوربة العدس الأحمر » est employé par un site marocain (Lalla Moulati) ; « mercimek çorbası » et « süzme » sont bien les noms turcs."
+ ],
+ "non_verifiable": [
+  "Recherche web indisponible : le remplissage maximal d'une cocotte-minute pour des lentilles qui moussent, et le volume minimal de liquide, n'ont pas pu être vérifiés dans un mode d'emploi de fabricant. Or l'appli fait varier l'eau de 250 ml (1 personne) à 2 l (8 personnes) et 4 l (16 personnes) : la recette renvoie au mode d'emploi, sans limite chiffrée.",
+  "Temps de montée et de descente en pression : aucune source ne le chiffre à part ni ne dit si les 15 à 20 minutes de cuisson annoncées l'incluent ; une décompression naturelle, plus lente, pourrait faire dépasser les 30 minutes (déjà signalé par l'auteur).",
+  "Date « mise à jour le 21 septembre 2026 » de la page lokanta usulü d'Elif Atalar : la page refuse les robots et la seule copie archivée date du 21 avril 2024 (page mise à jour le 29 décembre 2023). Son contenu (environ 40 minutes à la casserole, farine à ne pas brûler, pul biber, curcuma et cumin) a été vérifié sur cette copie.",
+  "Contenance des cuillères turques (çay kaşığı, tatlı kaşığı) : non vérifiée ; la médiane du cumin (1 c. à c.) compte une çay kaşığı comme une cuillère à café, alors que le sel est laissé sans quantité pour cette raison.",
+  "Nom en darija « Chorba d l-âdes l-hmer » : traduction descriptive, aucun usage établi trouvé.",
+  "Refika'nın Mutfağı, Lezzet et le site du ministère turc de la Culture et du Tourisme : non relus (déjà signalé par l'auteur ; recherche web indisponible).",
+  "Disponibilité des lentilles corail au Maroc : non vérifiée."
+ ]
+}

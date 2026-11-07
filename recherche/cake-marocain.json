@@ -1,0 +1,381 @@
+{
+ "slug": "cake-marocain",
+ "title": "Cake marocain, la meskouta du goûter",
+ "darija": "meskouta ; on dit aussi lkik ou kika",
+ "arabic": "الكيك (المسكوتة)",
+ "tagline": "Le cake simple de la maison : des œufs bien fouettés, de l'huile, du lait et un zeste de citron, à couper en tranches pour le thé de l'après-midi.",
+ "category": "Gâteau",
+ "occasion": "Goûter avec le thé, petit-déjeuner, ftour du ramadan",
+ "region": "Maroc ; selon Wikipédia (en arabe), la meskouta « économique » y est très consommée",
+ "servings": 1,
+ "servings_label": "cakes",
+ "time": {
+  "prep": 15,
+  "cook": 45,
+  "rest": 10
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un four",
+  "Un moule à cake de 28 cm (ou un moule couronne, type kouglof)",
+  "Un batteur électrique ou un fouet",
+  "Un grand saladier et un bol",
+  "Un tamis",
+  "Une spatule",
+  "Une râpe fine et un presse-agrumes",
+  "Une pique en bois",
+  "Une grille"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "oeufs",
+     "canon": "oeuf",
+     "q": 4,
+     "u": "",
+     "name": "gros œuf",
+     "pl": "gros œufs"
+    },
+    {
+     "id": "sucre",
+     "canon": "sucre",
+     "q": 240,
+     "u": "g",
+     "name": "de sucre semoule"
+    },
+    {
+     "id": "sucre-vanille",
+     "canon": "sucre-vanille",
+     "q": 1,
+     "u": "",
+     "name": "sachet de sucre vanillé",
+     "pl": "sachets de sucre vanillé",
+     "note": "sans alcool : il remplace l'extrait de vanille"
+    },
+    {
+     "id": "sel",
+     "canon": "sel",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de sel fin"
+    },
+    {
+     "id": "huile",
+     "canon": "huile",
+     "q": 150,
+     "u": "ml",
+     "name": "d'huile neutre (tournesol ou huile de table)"
+    },
+    {
+     "id": "lait",
+     "canon": "lait",
+     "q": 150,
+     "u": "ml",
+     "name": "de lait"
+    },
+    {
+     "id": "farine",
+     "canon": "farine",
+     "q": 375,
+     "u": "g",
+     "name": "de farine"
+    },
+    {
+     "id": "levure-chimique",
+     "canon": "levure-chimique",
+     "q": 21,
+     "u": "g",
+     "name": "de levure chimique",
+     "note": "soit 3 sachets de 7 g par cake"
+    },
+    {
+     "id": "citron",
+     "canon": "citron",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "pour le zeste râpé et le jus"
+    }
+   ]
+  },
+  {
+   "group": "Pour le moule",
+   "items": [
+    {
+     "id": "beurre-moule",
+     "canon": "beurre",
+     "q": null,
+     "u": "",
+     "name": "Un peu de beurre",
+     "pl": "Un peu de beurre"
+    },
+    {
+     "id": "farine-moule",
+     "canon": "farine",
+     "q": null,
+     "u": "",
+     "name": "Un peu de farine",
+     "pl": "Un peu de farine"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Préchauffer le four",
+   "text": "Préchauffe le four à 180 °C.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Beurrer et fariner le moule",
+   "text": "Beurre le moule à cake, puis farine-le.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Préparer le citron",
+   "text": "Lave {{citron:full}}, râpe finement le zeste, puis presse le jus. Râpe toujours le zeste avant de presser le fruit.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Tamiser la farine et la levure",
+   "text": "Mélange {{farine}} de farine et {{levure-chimique}} de levure chimique, puis tamise-les ensemble.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fouetter les œufs et le sucre",
+   "text": "Dans un grand saladier, fouette {{oeufs:full}} avec {{sucre}} de sucre, {{sucre-vanille:full}} et {{sel}} de sel, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "timer": null,
+   "tip": "Prends ton temps : Choumicha fouette jusqu'à ce que le mélange double de volume, Taste of Maroc jusqu'à ce qu'il soit pâle et épais."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajouter l'huile et le lait en filet",
+   "text": "Sans cesser de fouetter, verse {{huile}} d'huile en filet, puis {{lait}} de lait. Le mélange doit rester léger et mousseux.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Incorporer la farine",
+   "text": "Ajoute le mélange farine-levure petit à petit, en remuant délicatement à la spatule, juste assez pour qu'il ne reste plus de farine visible.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajouter le citron",
+   "text": "Ajoute le zeste et le jus de citron, et mélange juste pour les répartir.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Verser dans le moule",
+   "text": "Verse la pâte dans le moule beurré et fariné.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire 45 minutes",
+   "text": "Enfourne et laisse cuire environ 45 minutes à 180 °C. N'ouvre pas le four pendant la première demi-heure.",
+   "timer": {
+    "min": 45,
+    "label": "Cuisson du cake",
+    "done": "Plante une pique au centre : si elle ressort sèche, le cake est cuit."
+   },
+   "tip": "Dans un moule couronne, Taste of Maroc compte environ 40 minutes pour sa meskouta : adapte le temps à ton moule et fais le test de la pique."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifier la cuisson",
+   "text": "Le cake est cuit quand ses bords se décollent du moule et qu'une pique plantée au centre ressort sèche. Sinon, laisse-le encore quelques minutes.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Service",
+   "title": "Tiédir puis démouler",
+   "text": "Sors le cake et laisse-le tiédir environ 10 minutes dans le moule. Démoule-le délicatement, puis laisse-le refroidir sur une grille.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Service",
+   "title": "Décorer et servir",
+   "text": "Sers-le en tranches, avec un thé à la menthe. Tu peux le saupoudrer de sucre glace, ou le napper de confiture et le parsemer de noix de coco râpée ou d'amandes effilées.",
+   "timer": null,
+   "tip": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Fouette longuement les œufs et le sucre, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "source": "Choumicha (deux recettes de cake économique) ; Taste of Maroc (« pale and thick »)"
+  },
+  {
+   "text": "Verse l'huile en filet sans cesser de fouetter : le mélange doit rester léger et aéré.",
+   "source": "Choumicha ; Taste of Maroc"
+  },
+  {
+   "text": "Tamise la farine avec la levure, puis incorpore-la petit à petit et délicatement, à la spatule.",
+   "source": "Choumicha ; Cooking with Alia ; Taste of Maroc (« stir lightly »)"
+  },
+  {
+   "text": "Autant d'huile que de liquide : c'est la règle de la plupart des cakes marocains lus pour cette recette.",
+   "source": "Choumicha ; Taste of Maroc ; Morocco World News ; Lalla Moulati"
+  },
+  {
+   "text": "Lave et râpe le zeste avant de presser l'agrume.",
+   "source": "Taste of Maroc ; Choumicha (zeste râpé, puis jus)"
+  },
+  {
+   "text": "Pas d'extrait de vanille alcoolisé : un sachet de sucre vanillé fait le même travail, et c'est la mesure traditionnelle.",
+   "source": "Taste of Maroc (1 sachet de sucre vanillé dans les mesures traditionnelles) ; Morocco World News (8 g de sucre vanillé) ; Choumicha (1 sachet dans le cake aux pépites)"
+  },
+  {
+   "text": "Beurre et farine le moule, et enfourne dans un four bien préchauffé à 180 °C.",
+   "source": "Choumicha ; Taste of Maroc ; Morocco World News ; Cooking with Alia (180 °C)"
+  },
+  {
+   "text": "N'ouvre pas le four avant une demi-heure de cuisson.",
+   "source": "Morocco World News (Layla Dahamou)"
+  },
+  {
+   "text": "Laisse tiédir avant de démouler, puis finis de refroidir sur une grille.",
+   "source": "Choumicha ; Taste of Maroc (7 à 10 minutes) ; Morocco World News"
+  },
+  {
+   "text": "Le moule le plus courant pour la meskouta est le moule couronne (type kouglof) ; certaines cuisinières préfèrent le moule à cake : adapte alors le temps de cuisson à ton moule.",
+   "source": "Taste of Maroc ; Morocco World News (moule à cheminée ou moule rond) ; Choumicha (moule à cake de 28 cm)"
+  },
+  {
+   "text": "À la marocaine, on mesure avec un verre à thé et un bol, ou avec le pot de yaourt.",
+   "source": "Taste of Maroc ; Morocco World News ; Cooking with Alia"
+  },
+  {
+   "text": "Pour un cake encore plus léger, certaines cuisinières montent les blancs en neige à part ; Taste of Maroc juge que ce n'est pas nécessaire.",
+   "source": "Taste of Maroc ; Cooking with Alia (blancs en neige)"
+  },
+  {
+   "text": "Ne force pas sur la levure chimique : Taste of Maroc a réduit sa dose après avoir lu, sur d'autres sites, des craintes d'un goût amer ou d'un centre qui monte trop vite puis retombe ; elle-même n'a jamais eu ce problème.",
+   "source": "Taste of Maroc"
+  }
+ ],
+ "mistakes": [
+  "Arrêter de fouetter avant que le mélange œufs-sucre ait blanchi et doublé de volume (Choumicha ; Taste of Maroc).",
+  "Verser l'huile d'un coup au lieu d'un filet (Choumicha ; Taste of Maroc).",
+  "Travailler fort la pâte une fois la farine ajoutée : mélange délicatement (Choumicha ; Taste of Maroc).",
+  "Enfourner dans un four qui n'est pas préchauffé (Choumicha ; Taste of Maroc ; Cooking with Alia).",
+  "Oublier de beurrer et de fariner le moule (Choumicha ; Taste of Maroc ; Morocco World News).",
+  "Ouvrir le four pendant la première demi-heure (Morocco World News).",
+  "Démouler le cake encore brûlant : laisse-le tiédir (Choumicha ; Taste of Maroc ; Morocco World News).",
+  "Prendre de l'extrait de vanille alcoolisé : le sucre vanillé le remplace (Taste of Maroc ; Morocco World News)."
+ ],
+ "serving": "En tranches, avec un thé à la menthe (Morocco World News ; Wikipédia en anglais, qui cite aussi le café), au goûter ou au petit-déjeuner, et aussi au ftour du ramadan (Taste of Maroc ; Wikipédia en anglais). Il est très bon nature. Pour le décorer : sucre glace (Taste of Maroc ; Choumicha), ou confiture et noix de coco râpée ou amandes effilées (Morocco World News ; Taste of Maroc), ou un peu de miel et de noix de coco (Lalla Moulati). Choumicha compte ce cake pour 10 personnes. Bien couvert, il se garde quelques jours à température ambiante et plusieurs mois au congélateur (Taste of Maroc, seule source).",
+ "variants": [
+  "Meskouta au yaourt (Morocco World News, Layla Dahamou) : 4 œufs ; 1 pot de yaourt à la vanille ou à la banane (110 g), qui sert de mesure ; 1½ pot de sucre ; 1 pot d'huile ; 3 pots de farine ; 16 g de levure chimique (2 sachets) ; 1 sachet de sucre vanillé (8 g). Moule couronne ou moule rond beurré et fariné ; environ 45 minutes au four, sans ouvrir avant 30 minutes.",
+  "Meskouta au yaourt et aux blancs en neige (Cooking with Alia) : 3 œufs séparés ; 1 pot de yaourt aromatisé (114 g) ; 1½ pot de sucre ; ½ pot d'huile ; 2½ pots de farine ; 1 c. à c. de levure chimique ; vanille (prends du sucre vanillé) ; 1 pincée de sel ; gingembre moulu facultatif. Moule de 20 cm beurré et chemisé de papier cuisson ; 180 °C, environ 50 minutes.",
+  "Meskouta à l'orange (Taste of Maroc) : ½ tasse de jus d'orange frais et 2 c. à c. de zeste ; 4 gros œufs ; 1½ tasse de sucre ; ½ tasse d'huile ; 2 tasses de farine ; 3 c. à c. de levure chimique ; ½ c. à c. de sel ; vanille (1 sachet de sucre vanillé dans la version traditionnelle). Moule couronne beurré et fariné ; 180 °C, environ 40 minutes.",
+  "Mesures traditionnelles de la meskouta à l'orange (Taste of Maroc) : 1 verre à thé de jus d'orange frais, le zeste de 1 ou 2 oranges, 4 gros œufs, 1 bol ras de sucre, 1 verre à thé d'huile, 1 bol bombé de farine, 2 sachets de levure chimique de 7 g, 1 pincée de sel, 1 sachet de sucre vanillé. Le verre à thé contient de 6 à 8 onces (177 à 237 ml, calcul) et le bol environ 1½ tasse (355 ml, calcul).",
+  "Au verre, marbré (Lalla Moulati) : 3 œufs, 1 verre de sucre, 1 verre d'huile, 1 verre de lait, un peu moins de 3 verres de farine, 3 sachets de levure chimique, vanille et quelques gouttes de vinaigre ; une partie de la pâte est mélangée à 1 cuillère de cacao et versée au milieu ; moule beurré et fariné ; nappé de miel et de noix de coco à la sortie du four.",
+  "Aux pépites de chocolat (Choumicha) : 4 œufs, 180 g de sucre, 1 sachet de sucre vanillé, ½ c. à c. de sel, 18 cl d'huile, 12 cl de lait, 350 g de farine, 14 g de levure chimique et 80 g de pépites de chocolat ; moule à cake beurré et fariné ; 180 °C, 35 à 40 minutes ; sucre glace.",
+  "Cake à l'orange au beurre (Choumicha) : 160 g de beurre, 200 g de sucre, ½ c. à c. de sel, 4 œufs, le zeste et le jus de 3 oranges, 2 c. à s. d'eau de fleur d'oranger, 240 g de farine et 1 sachet de levure chimique de 7 g, versés sur des rondelles d'orange confites au sucre et à la fleur d'oranger ; 180 °C, 40 minutes. Choumicha conseille d'ajouter ½ c. à c. de cannelle.",
+  "Petit cake « 7 cuillères » (Lalla Moulati) : 3 œufs, 7 cuillères de sucre, 7 d'huile, 7 de lait et 7 de farine, un peu de sel, 1 sachet de vanille et 16 g de levure chimique.",
+  "Avec seulement 2 œufs (Lalla Moulati) : 2 œufs, 1 verre de lait tiède, ½ verre d'huile, 2 verres de farine, 1 verre de sucre, 16 g de levure chimique et du sucre vanillé."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay, cheffe marocaine), « Cake économique », recette n° 1037, choumicha.ma, non datée, rubrique « Cuisine du monde, Desserts, Cakes » ; site hors ligne, copie web.archive.org du 8 août 2025",
+   "url": "https://web.archive.org/web/20250808135842/https://choumicha.ma/recette/1037-cake-economique.html",
+   "used_for": "Recette retenue : 4 gros œufs, 240 g de sucre, ¼ c. à c. de sel, 15 cl de lait, 15 cl d'huile, 375 g de farine, 3 sachets de levure chimique de 7 g, zeste et jus d'un citron ; œufs, sucre et sel fouettés jusqu'à blanchir et doubler ; lait et huile en filet ; farine tamisée avec la levure, ajoutée peu à peu et délicatement à la spatule ; moule à cake de 28 cm beurré et fariné ; four préchauffé à 180 °C, environ 45 min ; tiédir, démouler, refroidir sur une grille ; 10 personnes"
+  },
+  {
+   "name": "Choumicha, « Cake économique aux pépites de chocolat », recette n° 1455, non datée ; copie web.archive.org du 14 octobre 2025",
+   "url": "https://web.archive.org/web/20251014062924/https://www.choumicha.ma/recette/1455-cake-economique-aux-pepites-de-chocolat.html",
+   "used_for": "Même base (4 œufs, huile et lait, 350 g de farine, 14 g de levure) avec 1 sachet de sucre vanillé ; huile en filet, mélange « léger et aéré » ; moule à cake beurré et fariné ; 180 °C, 35 à 40 min ; sucre glace"
+  },
+  {
+   "name": "Choumicha, « Cake à l'orange », recette n° 1179, non datée ; copie web.archive.org du 12 décembre 2025",
+   "url": "https://web.archive.org/web/20251212000419/https://www.choumicha.ma/recette/1179-cake-a-lorange.html",
+   "used_for": "Variante au beurre, zeste et jus d'orange ; moule beurré et fariné ; 180 °C, 40 min ; cannelle facultative"
+  },
+  {
+   "name": "Morocco World News (Rabat), Layla Dahamou, « Something for the Sweet Tooth: Moroccan Meskouta », 10 août 2019",
+   "url": "https://www.moroccoworldnews.com/2019/08/78007/moroccan-cuisine-meskouta-cake/",
+   "used_for": "Source marocaine : meskouta, cake de base des foyers marocains, présenté au yaourt, que des familles remplacent par du lait ou du jus d'orange ; mesures au pot de yaourt ; 4 œufs ; huile et yaourt à volumes égaux ; 16 g de levure chimique ; 8 g de sucre vanillé ou ½ c. à c. d'extrait ; moule à cheminée ou rond, beurré et fariné ; environ 45 min, four fermé pendant 30 min ; refroidir avant de démouler ; confiture, amandes effilées ou noix de coco ; servi avec le thé"
+  },
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « كيكة كتجي منفوخة وهائلة….خفيفة وكتذوب فالفم », rubrique كيك و طورطات, 16 juin 2019",
+   "url": "https://www.lalamoulati.net/199027.html",
+   "used_for": "Source marocaine : cake au verre, 3 œufs, 1 verre de sucre, 1 d'huile, 1 de lait, près de 3 de farine, 3 sachets de levure, vanille ; marbré au cacao ; moule beurré et fariné ; miel et noix de coco"
+  },
+  {
+   "name": "Lalla Moulati, « كيكة مانقدرش نقول عليها اكثر من انها رائعة جدا مذاقها فوق الوصف!!!!! », 10 septembre 2019",
+   "url": "https://www.lalamoulati.net/205581.html",
+   "used_for": "Source marocaine : cake « 7 cuillères » (sucre, huile, lait et farine à volumes égaux), 3 œufs, sel, vanille, 16 g de levure chimique"
+  },
+  {
+   "name": "Lalla Moulati, « كيكتي العجيبة لي جربت وليت مدمنة عليها بطريقة بسيطة واقتصادية وبمذاق يا سلام », 19 décembre 2023",
+   "url": "https://www.lalamoulati.net/379090.html",
+   "used_for": "Source marocaine : cake économique à 2 œufs, lait, huile, farine, 16 g de levure chimique, sucre vanillé (liste d'ingrédients seulement)"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (installée de longue date au Maroc), « Moroccan Orange Cake Recipe – Meskouta with Oranges », mise à jour du 10 août 2021 ; le site refuse les robots, copie web.archive.org du 24 février 2026",
+   "url": "https://web.archive.org/web/20260224152950/https://tasteofmaroc.com/moroccan-orange-cake-recipe/",
+   "used_for": "Meskouta : cake marocain populaire, parfumé à l'orange, au citron ou à la vanille ; moule couronne le plus souvent, moule à cake aussi ; 180 °C, environ 40 min ; moule beurré et fariné ; œufs et sucre fouettés jusqu'à pâlir et épaissir, huile ajoutée peu à peu, farine juste mélangée ; test de la pique et bords qui se décollent ; tiédir 7 à 10 min ; mesures traditionnelles (verre à thé, bol, sachets de 7 g, sucre vanillé) ; dose de levure réduite ; conservation ; blancs en neige facultatifs"
+  },
+  {
+   "name": "Cooking with Alia, « 184 – Meskouta – Moroccan Yogurt Cake Recipe », non datée (recette reprise de l'ancien site)",
+   "url": "https://www.cookingwithalia.com/meskouta-moroccan-yogurt-cake/",
+   "used_for": "Meskouta au yaourt mesurée au pot, blancs en neige ; farine tamisée et ajoutée peu à peu ; four à 180 °C, environ 50 min ; test du doigt"
+  },
+  {
+   "name": "Wikipédia (en), « Meskouta »",
+   "url": "https://en.wikipedia.org/wiki/Meskouta",
+   "used_for": "Cake traditionnel marocain servi au goûter ou au petit-déjeuner, avec du thé à la menthe ou du café ; variantes à l'orange, au citron et à la vanille"
+  },
+  {
+   "name": "Wikipédia (ar), « مسكوتة »",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D9%83%D9%88%D8%AA%D8%A9",
+   "used_for": "Nom arabe ; base œufs, sucre, huile, farine, vanille et zeste de citron ; la meskouta « économique », très consommée au Maroc"
+  }
+ ],
+ "discrepancies": [
+  "Version : au lait chez Choumicha (deux cakes économiques) et dans trois recettes de Lalla Moulati ; au yaourt chez Morocco World News et Cooking with Alia, qui présentent la meskouta comme un cake au yaourt (Morocco World News précise que des familles mettent du lait ou du jus d'orange à la place) ; au jus d'orange chez Taste of Maroc, qui en fait une variante de la meskouta. Aucune source ne mesure laquelle est la plus courante. Retenu : la version au lait, la plus représentée dans les recettes lues, et proche de la meskouta « économique » que Wikipédia (ar) dit très consommée au Maroc ; yaourt et orange en variantes.",
+  "Parfum : zeste et jus de citron (Choumicha, cake économique) ; vanille (Choumicha, cake aux pépites ; Morocco World News ; Taste of Maroc ; Lalla Moulati ; Cooking with Alia) ; zeste d'orange (Taste of Maroc). Wikipédia (ar) cite vanille et zeste de citron ensemble. Retenu : citron et sucre vanillé.",
+  "Œufs : 4 (Choumicha, deux recettes ; Taste of Maroc ; Morocco World News), 3 (Cooking with Alia ; deux recettes de Lalla Moulati), 2 (Lalla Moulati). Retenu : 4, comme Choumicha, pour les quantités de sa recette.",
+  "Sucre : 240 g (Choumicha, cake économique), 180 g plus 1 sachet de sucre vanillé (Choumicha, cake aux pépites), 1½ tasse (Taste of Maroc, environ 300 g si l'on compte 200 g par tasse, conversion approximative), 1½ pot de yaourt (Morocco World News ; Cooking with Alia). Retenu : 240 g ; tu peux descendre vers 180 g, comme dans l'autre cake économique de Choumicha.",
+  "Huile et liquide : volumes égaux chez Choumicha (cake économique, 15 cl de chaque), Taste of Maroc (½ tasse de chaque), Morocco World News (1 pot de chaque) et Lalla Moulati (1 verre de chaque ; 7 cuillères de chaque) ; plus d'huile que de lait chez Choumicha (cake aux pépites, 18 et 12 cl) ; moitié moins d'huile que de liquide chez Cooking with Alia et dans une recette de Lalla Moulati. Retenu : 150 ml de chaque.",
+  "Levure chimique : 21 g pour 375 g de farine, soit 5,6 g pour 100 g (Choumicha, cake économique, calcul) ; 14 g pour 350 g, soit 4 g pour 100 g (Choumicha, cake aux pépites) ; 2 sachets de 7 g dans les mesures traditionnelles de Taste of Maroc, qui conseille aujourd'hui 3 c. à c. pour 2 tasses de farine ; 16 g (Morocco World News ; Lalla Moulati) ; 3 sachets (Lalla Moulati) ; 1 c. à c. seulement (Cooking with Alia, avec des blancs en neige). Retenu : la dose de la recette de Choumicha.",
+  "Sel : ¼ c. à c. (Choumicha, cake économique), ½ c. à c. (Choumicha, cake aux pépites ; Taste of Maroc), une pincée (Cooking with Alia ; « un peu » chez Lalla Moulati), aucun (Morocco World News). Retenu : ¼ c. à c.",
+  "Moule : moule à cake de 28 cm (Choumicha, cake économique ; moule à cake sans taille pour le cake aux pépites) ; moule couronne « le plus souvent » pour la meskouta, moule à cake possible (Taste of Maroc) ; moule à cheminée ou moule rond (Morocco World News) ; moule de 20 cm (Cooking with Alia). Retenu : le moule à cake de 28 cm, dont la taille est donnée pour ces quantités ; le moule couronne reste possible en surveillant la cuisson.",
+  "Température : 180 °C (Choumicha, trois recettes ; Taste of Maroc ; Cooking with Alia) ; « feu moyen » sans chiffre (Morocco World News). Retenu : 180 °C.",
+  "Durée : 45 min (Choumicha, cake économique ; « 45 minutes ou moins » chez Morocco World News), 40 min (Taste of Maroc ; Choumicha, cake à l'orange), 35 à 40 min (Choumicha, cake aux pépites), 50 min (Cooking with Alia). Médiane : 42,5 min. Retenu : 45 min, la durée donnée pour cette recette et ce moule, avec le test de la pique.",
+  "Démoulage : « laisser tiédir » (Choumicha), 7 à 10 min (Taste of Maroc), refroidir avant de démouler (Morocco World News). Retenu : environ 10 minutes."
+ ],
+ "unverified": [
+  "« La version la plus courante » : aucune source ne la mesure ; le choix du lait repose sur le nombre de recettes lues, pas sur une enquête.",
+  "Choumicha classe ses deux cakes économiques dans « Cuisine du monde », et non dans « Saveurs du Maroc ».",
+  "Conservation : une seule source (Taste of Maroc).",
+  "Wikipédia (ar) s'appuie sur une seule référence (about.com) ; sa phrase sur la meskouta « économique » n'est pas recoupée par une autre source.",
+  "Graphies « lkik » et « kika » : translittérations de الكيك (nom donné dans la demande) et de كيكة (titres de Lalla Moulati), pas lues en lettres latines dans une source.",
+  "Conversions de tasses, pots et verres en grammes : approximatives, utilisées seulement pour comparer les recettes.",
+  "Temps de préparation de 15 min (Taste of Maroc) et repos de 10 min avant démoulage (Taste of Maroc, 7 à 10 min) : une seule source chiffrée.",
+  "Lalla Moulati : la recette n° 379090 ne publie que la liste des ingrédients ; la n° 199027 ne donne ni température ni durée.",
+  "NYT Cooking (« Meskouta (Moroccan Orange Cake) »), cité par Wikipédia : non lu.",
+  "Bladi.net : aucun cake ni meskouta dans les pages parcourues des rubriques Pâtisseries marocaines et Desserts ; Le360, Hespress, Femmes du Maroc et Chhiwat non consultés, le quota de recherches web de la session étant épuisé."
+ ]
+}

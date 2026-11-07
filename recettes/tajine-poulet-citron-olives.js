@@ -35,7 +35,7 @@ window.RECETTES.push({
      "q": 1,
      "u": "",
      "name": "poulet halal, fermier (beldi) de préférence",
-     "note": "environ 1,5 kg, coupé en 4 à 6 morceaux",
+     "note": "environ 1,5 kg pièce, à couper en 4 à 6 morceaux",
      "pl": "poulets halal, fermiers (beldi) de préférence",
      "canon": "poulet"
     },
@@ -124,7 +124,7 @@ window.RECETTES.push({
      "q": 3,
      "u": "",
      "name": "oignon moyen (jaune, blanc ou rouge)",
-     "note": "hachés finement",
+     "note": "à hacher finement",
      "pl": "oignons moyens (jaunes, blancs ou rouges)",
      "canon": "oignon"
     },
@@ -210,6 +210,14 @@ window.RECETTES.push({
     "min": 10,
     "label": "Olives en boîte à blanchir",
     "done": "Égoutte les olives et mets-les de côté."
+   },
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Prépare oignons, citron confit et olives » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
    }
   },
   {

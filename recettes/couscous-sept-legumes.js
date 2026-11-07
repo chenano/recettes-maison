@@ -281,7 +281,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "La base du bouillon",
    "text": "Hache grossièrement {{oignon:full}}. Râpe {{tomates-rapees:full}} et jette la peau. Ficelle ensemble {{persil}} de persil et {{coriandre}} de coriandre en un bouquet.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « La base du bouillon » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
   },
   {
    "phase": "Préparation",
@@ -323,6 +331,14 @@ window.RECETTES.push({
     "min": 20,
     "label": "1re vapeur",
     "done": "Renverse la semoule dans la gsaa pour le deuxième roulage."
+   },
+   "img": {
+    "src": "img/etapes/couscous-keskas.jpg",
+    "alt": "Graine de couscous dans le haut d'un couscoussier",
+    "caption": "La graine à la vapeur",
+    "w": 562,
+    "h": 1000,
+    "credit": "Photo de l'étape « Première vapeur » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
    }
   },
   {
@@ -383,7 +399,15 @@ window.RECETTES.push({
    "phase": "Service",
    "title": "Dresse et sers",
    "text": "Forme un dôme aplati de semoule et creuse un puits au centre. Mets la viande dans le puits, le chou et la courge dessus, et range les autres légumes tout autour. Parsème de pois chiches, ajoute les piments, arrose de quelques louches de bouillon et sers le reste très chaud dans des bols.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/couscous-a-la-main.jpg",
+    "alt": "Main qui roule une boulette de couscous au-dessus du plat",
+    "caption": "À la main, on roule des boulettes",
+    "w": 1000,
+    "h": 663,
+    "credit": "Photo de l'étape « Dresse et sers » : Lucyin, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
   }
  ],
  "secrets": [

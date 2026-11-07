@@ -1,0 +1,172 @@
+{
+ "slug": "poisson-frit",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati (lalamoulati.net, Maroc), « سردين معمر بحشوة ساهلة ومقلي مقرمش وجد شهي » (sardines farcies frites et croustillantes), 16 novembre 2017",
+   "url": "https://www.lalamoulati.net/93278.html",
+   "ce_qu_elle_confirme": "Source marocaine trouvée par la recherche interne du site : sardines nettoyées et lavées, farcies d'un mélange de poivron, sel, poivre, citron, coriandre, paprika, harissa, concentré de tomate et huile d'olive, passées dans la farine, frites dans une huile bien chaude, servies avec des rondelles de citron. Elles n'y sont pas collées deux par deux. Nom arabe des sardines farcies : « سردين معمر »."
+  },
+  {
+   "name": "Lalla Moulati, « إلى بغيتي الحوت المقلي يجيك بنين ومرمل بلا ما يشرب الزيت دخلي تشوفي الحل » (poisson frit qui ne boit pas l'huile), 27 décembre 2020",
+   "url": "https://www.lalamoulati.net/262031.html",
+   "ce_qu_elle_confirme": "Le nom « الحوت المقلي » (poisson frit) est employé par ce site marocain ; poisson lavé et nettoyé, frotté de citron, de cumin et de sel, mariné couvert au réfrigérateur, passé dans la farine, plongé dans l'huile chaude jusqu'à ce qu'il soit doré, servi chaud."
+  },
+  {
+   "name": "Lalla Moulati, « طريقتي الجديدة فتحضير السردين مقلي كيجي مقمرش وبنين ولي ذاقو كيحماق عليه » (sardines frites croustillantes), 7 novembre 2023",
+   "url": "https://www.lalamoulati.net/357794.html",
+   "ce_qu_elle_confirme": "Sardines écaillées, vidées, tête et queue coupées ; marinade dedans et dehors ; farine ; huile chauffée à feu vif ; 2 minutes par face jusqu'à ce qu'elles soient dorées. Repère de durée proche des 2 à 3 min par face de SBS et de Taste of Maroc. Cette version contient de la menthe et se sert avec de la tahina, ce qu'aucune autre source marocaine lue ne fait : elle n'est citée que pour la durée."
+  },
+  {
+   "name": "Lalla Moulati, « ها شرمولة الحوت لي مبقيتش نبدلها ولا نستغنى عليها كتعطيه بنة تخلي لي كلاه عندي يحماق عليه » (chermoula pour le poisson), 25 mai 2021",
+   "url": "https://www.lalamoulati.net/278754.html",
+   "ce_qu_elle_confirme": "Chermoula pour le poisson au jus de citron (avec une cuillère de vinaigre), persil, coriandre, ail, cumin, paprika, sel et huile d'olive : confirme la chermoula citronnée pour le poisson. Pas de quantités."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[9].tip",
+   "actuel": "Si le feu ne s'éteint pas, sors et appelle les pompiers.",
+   "propose": "Appelle sans attendre les pompiers, même si le feu semble éteint. Si le feu ne s'éteint pas ou s'étend, fais sortir tout le monde, ferme la porte de la cuisine et ne rentre pas.",
+   "pourquoi": "Aucune des sources citées ne dit d'appeler les pompiers seulement si le feu continue. Le gouvernement du Québec écrit « Appelez les pompiers, même si le feu semble éteint » (le feu a pu passer dans le conduit de la hotte) et, si le feu se propage, d'évacuer et d'appeler le 911 ; les pompiers du Cambridgeshire disent de fermer la porte de la pièce, de faire sortir tout le monde, d'appeler le 999 et de ne pas rentrer ; le comté du Warwickshire dit d'appeler le 999 immédiatement et de quitter le logement. Le texte actuel peut faire croire qu'un feu éteint sous le couvercle ne demande pas d'appeler les pompiers.",
+   "gravite": "majeure",
+   "sources": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » (mise à jour du 10 octobre 2025) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; Warwickshire County Council, « Chip pan fire warning for Warwickshire residents » (4 février 2022) (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "mistakes[0]",
+   "actuel": " ; si le feu continue, sors et appelle les pompiers (USFA",
+   "propose": " ; appelle sans attendre les pompiers, même si le feu semble éteint, et si le feu continue, fais sortir tout le monde et ferme la porte (USFA",
+   "pourquoi": "Aucune des sources citées ne dit d'appeler les pompiers seulement si le feu continue. Le gouvernement du Québec écrit « Appelez les pompiers, même si le feu semble éteint » (le feu a pu passer dans le conduit de la hotte) et, si le feu se propage, d'évacuer et d'appeler le 911 ; les pompiers du Cambridgeshire disent de fermer la porte de la pièce, de faire sortir tout le monde, d'appeler le 999 et de ne pas rentrer ; le comté du Warwickshire dit d'appeler le 999 immédiatement et de quitter le logement. Le texte actuel peut faire croire qu'un feu éteint sous le couvercle ne demande pas d'appeler les pompiers. Même correction que dans l'astuce de l'étape 10.",
+   "gravite": "majeure",
+   "sources": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » (mise à jour du 10 octobre 2025) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; Warwickshire County Council, « Chip pan fire warning for Warwickshire residents » (4 février 2022) (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "discrepancies[13]",
+   "actuel": "Retenu : friteuse à thermostat si tu en as une, sinon grande poêle profonde à bords hauts, remplie au tiers au plus.",
+   "propose": "Retenu : friteuse à thermostat si tu en as une, sinon grande poêle profonde à bords hauts, remplie au tiers au plus. Feu d'huile : l'USFA et le gouvernement du Québec disent de glisser un couvercle sur la poêle et de couper le feu ; les pompiers du Cambridgeshire disent au contraire de ne pas tenter d'éteindre le feu soi-même. Le Québec, le Cambridgeshire et le Warwickshire disent de ne jamais jeter d'eau et d'appeler les pompiers (le Québec, même si le feu semble éteint) ; les quatre disent de ne pas déplacer la poêle. Retenu : couvercle et feu coupé si c'est sans danger, et appel immédiat aux pompiers.",
+   "pourquoi": "La recette cite les pompiers du Cambridgeshire et du Warwickshire à l'appui du couvercle, mais ni l'un ni l'autre ne le conseille : le Cambridgeshire écrit « Do not attempt to tackle the fire », le Warwickshire ne parle pas de couvercle. Seuls l'USFA (« slide the pan lid over the pan ») et le Québec (« Placez rapidement un couvercle de dimension appropriée ») le disent. La divergence doit apparaître dans les écarts.",
+   "gravite": "mineure",
+   "sources": "USFA, « Cook Top Fire Safety Tips » (revu le 8 septembre 2021) ; Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » (mise à jour du 10 octobre 2025) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; Warwickshire County Council, « Chip pan fire warning for Warwickshire residents » (4 février 2022) (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "unverified[0]",
+   "actuel": "Lalla Moulati : aucune recette de poisson frit trouvée. Son site n'est pas sorti dans les recherches, en arabe comme en français, et le quota de recherches web de la session a ensuite été épuisé.",
+   "propose": "Lalla Moulati, lue à la contre-vérification par la recherche interne du site : sa recette « سردين معمر بحشوة ساهلة ومقلي مقرمش وجد شهي » (16 novembre 2017) farcit des sardines d'un mélange de poivron, sel, poivre, citron, coriandre, paprika, harissa, concentré de tomate et huile d'olive, les farine, les frit dans une huile bien chaude et les sert avec des rondelles de citron, sans les coller deux par deux ; une autre recette de sardines farcies frites (7 novembre 2023) les frit 2 minutes par face ; le site emploie « الحوت المقلي » pour le poisson frit. Aucune de ces pages ne donne de quantités de chermoula comparables à celles retenues.",
+   "pourquoi": "L'affirmation « aucune recette de poisson frit trouvée » n'est plus exacte : la recherche interne de lalamoulati.net (permise par les consignes) donne plusieurs recettes de sardines frites.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati, pages 93278, 357794 et 262031 (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "secrets[3].text",
+   "actuel": "« machrouk » ou",
+   "propose": "« machrouk » (associées) ou",
+   "pourquoi": "Taste of Maroc traduit « machrouk » par « in association » ; seul « ashiq we ma'ashuk » veut dire « lovers ». Tel quel, le texte laisse croire que « machrouk » veut aussi dire « les amoureux ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula », copie archivée du 5 août 2026 : « We call them sardine mzeouej (married) or machrouk (in association) or ashiq we ma'ashuk (lovers). »"
+  },
+  {
+   "champ": "secrets[7].source",
+   "actuel": "Nada Kiffa en garde toujours un peu pour servir avec le poisson grillé",
+   "propose": "Nada Kiffa aime en garder un peu de côté pour servir avec les grillades, poisson compris, surtout l'été",
+   "pourquoi": "Dans sa réponse en commentaire, Nada Kiffa écrit « I like to marinate prior to cooking but also leave a bit on side to serve with the grilled meat (fish, chicken, red meat) especially during summer » : pas « toujours », et pas seulement le poisson.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Chermoula Recipe », copie archivée du 27 août 2026, réponse de Nada Kiffa à Mohamed"
+  },
+  {
+   "champ": "secrets[5].source",
+   "actuel": "Bladi (jus de citron dans les trois chermoulas pour poisson lues)",
+   "propose": "Bladi (jus de citron dans « Sardines farcies », « Poisson frits » et « Chermoula pour le poisson » ; sa reprise de la recette de Choumicha est au vinaigre) ; Lalla Moulati (jus de citron, avec un peu de vinaigre, dans sa chermoula pour le poisson)",
+   "pourquoi": "Quatre chermoulas pour poisson ont été lues sur Bladi, pas trois : la quatrième, « Friture de poissons m'chermel », reprend Choumicha et se fait au vinaigre. La précision évite de laisser croire que toutes les chermoulas de Bladi sont au citron.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, les quatre pages citées ; Lalla Moulati, « ها شرمولة الحوت لي مبقيتش نبدلها ولا نستغنى عليها… » (25 mai 2021) (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "variants[9]",
+   "actuel": "sardines vidées et sans arête",
+   "propose": "sardines nettoyées, sans tête ni arête centrale",
+   "pourquoi": "Bladi écrit « Nettoyez les sardines sous un filet d'eau froide. Supprimez la tête et l'arête centrale » : le mot « vidées » n'y est pas, la tête est retirée.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, « Beignets de sardines » (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "steps[7].text",
+   "actuel": "Taste of Maroc laisse mariner 2 heures.",
+   "propose": "Taste of Maroc laisse mariner au moins 2 heures.",
+   "pourquoi": "Taste of Maroc écrit « marinate the stuffed sardines in the fridge for at least 2 hours ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula », copie archivée du 5 août 2026"
+  },
+  {
+   "champ": "region",
+   "actuel": "se vendent aussi dans la rue loin de la mer, par exemple",
+   "propose": "se vendent aussi dans la rue loin de la mer, parfois seulement certains jours, par exemple",
+   "pourquoi": "Taste of Maroc nuance : « In non-coastal areas you can still find them sold as a street food, but perhaps only on limited days. »",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula », copie archivée du 5 août 2026"
+  },
+  {
+   "champ": "sources[4].name",
+   "actuel": "résidente de longue date à Casablanca",
+   "propose": "résidente de longue date au Maroc, à la tête d'une entreprise de visites culinaires à Casablanca",
+   "pourquoi": "La notice de l'autrice dit « A long time resident of Morocco » et « owner of Taste of Casablanca, a food tour and culinary activity business in Casablanca ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Sardine Balls Recipe », copie archivée du 11 mai 2026, notice de Christine Benlafquih"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Retenu : 1 kg de poisson entier (500 g de sardines + 500 g de merlans) pour 4 personnes, comme Choumicha.",
+   "propose": "Retenu : 1 kg de poisson entier (500 g de sardines + 500 g de merlans) pour 4 personnes : les poids de Choumicha, comptés en poisson entier comme chez Bladi et Taste of Maroc (Taste of Maroc précise en commentaire que son kilo de sardines perd un peu de poids au nettoyage).",
+   "pourquoi": "Choumicha écrit « 500 g de sardines en filets » et « 500 g de merlans en filets » : compter ces poids en poisson entier est un choix de la recette, pas « comme Choumicha ». Taste of Maroc confirme que son kilo est pesé avant nettoyage.",
+   "gravite": "mineure",
+   "sources": "Choumicha, « Friture de poissons m'chermel », copie archivée du 10 juillet 2026 ; Taste of Maroc, réponse en commentaire sous « Moroccan Stuffed Fried Sardines with Chermoula » (« a little weight is lost to cleaning the fish »)"
+  },
+  {
+   "champ": "discrepancies[7]",
+   "actuel": "Retenu : la médiane, 30 min au minimum ;",
+   "propose": "Retenu : la médiane des trois (0 min chez Choumicha, qui farine et frit sans attendre ; 30 min ; 2 h), soit 30 min au minimum ;",
+   "pourquoi": "Recalcul avec python3 -I : la médiane de [30 min ; 2 h] serait 75 min ; on n'obtient 30 min qu'en comptant 0 min pour Choumicha. Le calcul doit être dit.",
+   "gravite": "mineure",
+   "sources": "Choumicha (aucune attente entre la chermoula et la farine) ; Bladi, « Chermoula pour le poisson » ; Taste of Maroc"
+  },
+  {
+   "champ": "discrepancies[12]",
+   "actuel": "déconseille tournesol, soja et colza",
+   "propose": "écrit que les huiles de tournesol, de soja et de colza « ne doivent pas être utilisées »",
+   "pourquoi": "La fiche ne « déconseille » pas ces huiles, elle les exclut : « Les huiles de tournesol, de soja et de colza ne doivent pas être utilisées. » (texte extrait du PDF). Le choix « huile de friture » de la recette reste défendable, puisque la SFDA cite au contraire le tournesol et le soja comme huiles de friture.",
+   "gravite": "mineure",
+   "sources": "SCAV de Genève, « Information sur les huiles de friture », fiche du 6 mai 2020, point 3.1 (lu le 7 novembre 2026)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Recette de base de Choumicha, relue sur la copie archivée du 10 juillet 2026 (choumicha.ma répond 525) : 500 g de sardines en filets et 500 g de merlans en filets pour 4 personnes ; 1 botte de persil, 1 botte de coriandre, 4 gousses d'ail, 2 c. à c. de piment doux, 1 c. à c. de piment fort, 2 c. à c. de cumin, 1 c. à c. de sel, 4 c. à s. de vinaigre ; bain d'huile et 100 g de farine ; 20 min de cuisson, 50 min en tout ; service avec salade verte, tranches de citron et olives m'chermlines. Tout correspond à la recette et à ses notes.",
+  "Collage deux par deux selon Choumicha : « Sur un filet de sardine étaler de la chermoula de manière uniforme et le recouvrir d'un autre filet » ; merlans enduits de chermoula et refermés ; poisson fariné, plongé dans l'huile chaude jusqu'à dorure, égoutté sur papier absorbant. Choumicha n'emploie pas le mot « mzeouej », et la recette ne le lui attribue pas : le nom vient de Taste of Maroc (« sardine mzeouej (married) ») et de SBS (« mzeouejim », « married »). Même geste chez Bladi (« ventre contre ventre »), Taste of Maroc (peau dessous, puis peau dessus, couche généreuse), Cooking With Alia et SBS (1 c. à s. de chermoula, paire pressée doucement).",
+  "Chermoula, proportions et médianes recalculées avec python3 -I : cumin et paprika pour 1 kg de poisson [Choumicha 2 ; Bladi 1 ; Bladi 1 ; Taste of Maroc 3 c. à c.] → médiane 1,5 c. à c. ; herbes [2 ; 1 ; 1 botte] → 1 botte, moitié persil moitié coriandre ; ail [4 ; 3 ; 3 ; 6 à 8] → 3,5, retenu 4 ; sel 1 c. à c. ; acide : jus d'1 citron (Bladi, deux recettes), vinaigre de Choumicha en remplacement ; huile : médiane 0. Valeurs des sources contrôlées : Bladi « Sardines farcies » (1 kg, ½ + ½ bouquet, 3 gousses, 1 c. à c. de cumin et de paprika, jus d'1 citron) et « Poisson frits » (1 kg de chinchard, 1 bouquet de persil, 3 gousses, 1 + 1 c. à c., jus d'1 citron) ; Taste of Maroc : sa chermoula rend 1 tasse, la quantité de sa recette de sardines pour 1 kg, avec 3 tasses de coriandre, 1 tasse de persil, 6 à 8 gousses, 1 c. à c. de sel, 1 c. à s. de cumin, 1 c. à s. de paprika, ¼ de tasse d'huile d'olive et 5 c. à s. de citron en option.",
+  "Gestes et conseils de la chermoula : ail pilé avec le sel puis herbes bien hachées, sinon chermoula filandreuse (« stringy chermoula ») ; mixeur possible ; vraie chermoula aux herbes fraîches et à l'ail, loin des mélanges secs du commerce ; citronnée pour le poisson ; version piquante (cayenne, harissa) et version du Nord (thym, poivre noir, beaucoup de persil plat) ; une semaine au réfrigérateur : Taste of Maroc, « Chermoula Recipe » (mise à jour du 17 février 2020, copie archivée du 27 août 2026). Coriandre pilée au mortier avec le gros sel et l'ail, marinade au frais au moins ½ heure, petites pièces farinées et frites : Bladi, « Chermoula pour le poisson ». Rapport coriandre/persil de 4:1 à 4:3 : Taste of Maroc.",
+  "Nettoyage du poisson : écaillée, vidée, étêtée, rincée rapidement, essuyée immédiatement, 24 h au plus au réfrigérateur dans un plat filmé, de préférence le jour même (Choumicha, « La sardine, un trésor de bienfaits », copie du 21 mai 2026) ; gratter, vider, nettoyer, bien laver, ôter la tête et l'arête centrale, laisser égoutter ouvertes (Bladi, « Sardines farcies ») ; nettoyer sous un filet d'eau froide, éponger au papier absorbant (Bladi, « Beignets de sardines ») ; laver à l'eau, égoutter en passoire, sécher, sardines « scaled, boned and butterflied » (Taste of Maroc) ; faire lever les filets par le poissonnier (Taste of Maroc, Christine Benlafquih) ; écailler, vider et laver les merlans (Bladi, « Merlans frits »). Lalla Moulati (7 novembre 2023) écaille, vide, coupe tête et queue. Mains lavées au savon au moins 20 secondes, planches et ustensiles au savon et à l'eau chaude (FDA).",
+  "Friture : « about 3 minutes per side » (Taste of Maroc), 2 min (SBS, Ellie Bouhadana), 5 min (Cooking With Alia, huile chauffée 5 min à feu vif puis feu baissé) : médiane recalculée 3 min ; Lalla Moulati donne 2 min par face, Goodman Fielder 2 à 4 min à 180 °C pour du poisson frais en grande friture. Contrôle à la couleur et à la fourchette, 63 °C à cœur (FDA : 145 °F = 62,8 °C). Fariner juste avant la friture : Choumicha ; SBS (« Once the oil is hot, gently dip the sardines into the flour mixture, then fry »). Par fournées sans surcharger : SBS ; par séries de quatre : Bladi.",
+  "Température et fumée : « La température des bains de friture ne doit pas dépasser 180 °C » (SCAV de Genève, fiche du 6 mai 2020, texte extrait du PDF) ; poisson frais à 180 °C (Goodman Fielder, tableau « Indicative frying times ») ; chauffer lentement sans atteindre le point de fumée (SFDA) ; « If the oil is smoking then it is too hot. Turn down the heat and wait for the oil to cool » (Cambridgeshire) ; « Ne laissez jamais continuer de chauffer une huile qui fume » (Québec) ; bain d'huile à feu moyen (Bladi, « Merlans frits »). Aucune source marocaine ne chiffre la température (Lalla Moulati dit « feu vif »).",
+  "Huile et récipient : huile au moins à mi-hauteur de l'épaisseur du poisson, poêle à bords hauts, chauffage électrique préféré à la flamme, eau bien égouttée, poisson posé avec précaution, débris retirés, huile changée si elle brunit ou noircit, huiles de coton, soja et tournesol (SFDA, 24 décembre 2019, mise à jour du 21 juillet 2024) ; jamais plus d'un tiers d'huile, ne jamais quitter la poêle des yeux, aliments secs sinon l'huile déborde (Cambridgeshire ; Warwickshire, qui conseille aussi une friteuse électrique à thermostat) ; friteuse à thermostat, jamais de casserole pour frire, couvercle toujours à portée de main (Québec) ; huile abîmée : brun foncé, épaisse, mousse, fumée, rance, à ne pas verser dans les canalisations ; tournesol, soja et colza déconseillés dans cette fiche professionnelle (SCAV) ; pas d'huile chaude dans l'évier (Goodman Fielder).",
+  "Feu d'huile, en dehors de l'appel aux pompiers corrigé : jamais d'eau (Québec : « L'eau alimente et propage le feu! ») et risque d'explosion (Cambridgeshire : « make the oil explode » ; Warwickshire : « fire explosion ») ; ne pas déplacer la poêle (les quatre sources) ; couper le feu seulement sans danger (Cambridgeshire, Warwickshire ; « si possible » au Québec) ; couvercle glissé sur la poêle et laissé jusqu'au refroidissement (USFA : « slide the pan lid over the pan. Turn off the burner. Do not move the pan. … leave the lid on until the pan has cooled » ; Québec : couvercle de dimension appropriée). Le Cambridgeshire laisse refroidir au moins 30 minutes.",
+  "Règle des 2 heures : « Never leave seafood or other perishable food out of the refrigerator for more than 2 hours or for more than 1 hour when temperatures are above 90°F » (FDA, « Selecting and Serving Fresh and Frozen Seafood Safely », contenu à jour au 5 mars 2024) ; 90 °F = 32,2 °C, arrondi à 32 °C exact ; même règle dans l'astuce de service, les erreurs et le service.",
+  "Fraîcheur et conservation : « Fish should smell fresh and mild, not fishy, sour, or ammonia-like », yeux « clear and shiny », chair ferme qui « spring back when pressed », branchies rouges ; poisson gardé à 40 °F ou moins (4,4 °C, « 4 °C ou moins » est un arrondi prudent) s'il est utilisé dans les 2 jours (FDA) ; sardines de moins de 15 cm, brillantes, fermes, avec leurs écailles, branchies rouge carmin et humides ; « Plus la sardine est petite, plus sa chair est délicieuse » ; sardine « le poisson le plus abondant sur nos côtes » (Choumicha). Les affirmations de santé de la page de Choumicha ne sont pas reprises : correct.",
+  "Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula » (Nada Kiffa, native de Casablanca, mise à jour du 24 octobre 2017, copie du 5 août 2026) : plat de rue classique, Jemaa el-Fna et médina de Fès, petites sardines fraîches, 1 kg (2,2 lb) pour 6 portions, 1 tasse de chermoula, frottées d'un tiers de chermoula puis collées chair contre chair (une sardine peau dessous, l'autre peau dessus), ou une seule sardine repliée, au moins 2 h au réfrigérateur, farine 375 g + farine de blé dur 190 g (conversion métrique de la fiche), « Shallow or deep fry … about 3 minutes per side », service chaud, tiède ou à température ambiante sur persil ou salade, citron et harissa, avec haricots blancs à la tomate ou salade concombre-tomate-oignon ; 15 min de préparation, 20 min de cuisson. En entrée ou avec légumineuses et salades pour un déjeuner complet (champ « occasion »). Merlan « another popular choice in Morocco » (Christine Benlafquih).",
+  "Temps : 15 min (Taste of Maroc) et 30 min (Choumicha : 50 min en tout moins 20 min de cuisson) de préparation, médiane 22,5 min arrondie à 25 ; cuisson 20 min chez les deux ; minuteurs 30 min (marinade = time.rest), 3 min et 3 min ; total préparation + cuisson 45 min, donc pas « Rapide ».",
+  "Occasion et service : fritures de poissons au f'tour à El Jadida, poisson prisé pendant le ramadan à Casablanca et Agadir (Hespress, Zoubida Senoussi, 16 avril 2021, lu avec l'outil de lecture web, curl refusé) ; « Les sardines se mangent de préférence chaudes, accompagnées de tranches de citron » (Bladi) ; service immédiat avec du citron (Cooking With Alia, qui partage « the Moroccan food I grew up with », page À propos).",
+  "Variantes contrôlées : sardine repliée (Taste of Maroc) ; merlans entiers farcis de chermoula, farine tamisée, frits quelques minutes en les retournant, quartiers de citron (Bladi, 1,5 kg de petits merlans) ; chinchard enduit dehors et un peu dedans (Bladi) ; vinaigre et piment fort (Choumicha) ; harissa, huile d'olive, version du Nord, citron confit (Taste of Maroc ; SBS, 2 c. à s. de citron confit) ; farine + semoule « semolina flour » (SBS) ; beignets : œuf, farine, huile, 10 cl d'eau glacée, séries de quatre, 5 min (Bladi) ; reprise de Choumicha par Bladi avec 6 gousses d'ail (lue, non comptée).",
+  "Sources secondaires : SBS, Hassan M'Souli (25 juin 2015 : filets collés, farinés, poêlés dans 2 c. à s. d'huile d'olive environ 1 min par face, gingembre dans la farce) ; Al Jazeera, Meryem Taidi (21 février 2021 : petits pélagiques plus de 80 % des captures, sardine produit de base des marchés, pas de friture) ; Hespress, Mohamed Jaouad El Kanabi (6 septembre 2024 : « Le thon, la sardine, le merlan et tant d'autres variétés auparavant omniprésentes ») ; Taste of Maroc, « Mchermel » (= « marinated », mise à jour du 31 octobre 2017).",
+  "Noms : « Hout mqli » et « الحوت المقلي » : le site marocain Lalla Moulati emploie « الحوت المقلي » pour le poisson frit et « السردين مقلي » pour les sardines frites ; « hout » (poisson) aussi dans « hout quari ».",
+  "Liens : les 26 liens répondent (code 200) avec curl, certains après redirection (Bladi vers /recettes/, SBS Hassan M'Souli, SFDA, Goodman Fielder), sauf les deux articles de Hespress (403 à curl), lus avec l'outil de lecture web. choumicha.ma (525) et tasteofmaroc.com (403) sont bien lus sur leurs copies web.archive.org.",
+  "Halal : poisson, aucun porc ni alcool ; le vinaigre de la variante n'est pas une boisson alcoolisée ; pas de fromage, donc pas de présure.",
+  "Rendu dans l'appli recalculé avec une simulation de fmtQ, itemName et fill (app.html) pour 1, 4 et 8 personnes : sardines et merlans 125 g / 500 g / 1 kg ; persil et coriandre ¼ / ½ / 1 botte ; ail 1 gousse / 4 gousses / 8 gousses ; sel ¼ / 1 / 2 c. à c. ; cumin et paprika ⅜ / 1½ / 3 c. à c. ; « le jus de ¼ citron / 1 citron / 2 citrons » ; « ¼ citron / 1 citron / 2 citrons en quartiers ». Les {{id}} sans quantité affichent le nom (« un peu de piment fort en poudre », « assez d'huile de friture », « dans la farine », « de semoule fine »). Tous les identifiants des étapes existent, chaque ingrédient est cité, les minuteurs correspondent au texte (marinade 30 min, environ 3 min par face)."
+ ],
+ "non_verifiable": [
+  "Hespress (fr.hespress.com) refuse curl (403) : les deux articles ont été lus avec l'outil de lecture web, qui ne rend que des extraits courts. Les phrases utilisées par la recette y sont, mais le texte entier n'a pas été relu.",
+  "Quantité de Choumicha : « 500 g de sardines en filets » se lit plutôt comme un poids de filets ; aucune source ne chiffre la perte au nettoyage (Taste of Maroc dit seulement « a little weight is lost to cleaning the fish »). Compter ce poids en poisson entier reste un choix de la recette (voir la correction des écarts).",
+  "Rendu pour 1 personne : l'appli arrondit les bottes au quart sous 1, donc la part réelle de ⅛ de botte de persil et de coriandre s'affiche « ¼ botte ». C'est la règle d'arrondi de l'appli, pas une erreur de la recette ; aucune source ne donne de poids d'herbes qui permettrait une autre unité.",
+  "Restes de poisson frit : foodsafety.gov refuse l'accès (403, non contourné) ; sa copie archivée du 21 octobre 2026 (tableau revu le 19 septembre 2023) n'a pas de ligne pour le poisson cuit (seulement viande ou volaille cuites, 3 à 4 jours). Aucune durée de conservation des restes n'a donc pu être ajoutée : la recette garde seulement la règle des 2 heures.",
+  "Durée de friture des filets de merlan repliés : aucune source ne la chiffre (Bladi : « quelques minutes en les retournant »). La recette s'en remet à la couleur, à la fourchette et aux 63 °C à cœur, ce qui reste sûr.",
+  "Numéro des pompiers au Maroc : toujours non vérifié ; la recette dit seulement « appelle les pompiers ». Aucune source marocaine sur le feu d'huile n'a pu être cherchée.",
+  "Couleur des « olives m'chermlines » de Choumicha : non précisée par la source.",
+  "Quota de recherche web épuisé : aucune recherche ouverte. Vérification faite sur les pages citées, leurs copies web.archive.org, la recherche interne de lalamoulati.net (sardines, friture, سردين, حوت مقلي, سردين معمر, شرمولة الحوت, سردين مقلي, ميرلان) et la rubrique « Les poissons » de Bladi. Chhiwat, Femmes du Maroc et TelQuel n'ont pas pu être interrogés ; la version arabe du site de Choumicha n'est archivée qu'à l'accueil des recettes, d'où aucun nom arabe propre à Choumicha."
+ ]
+}

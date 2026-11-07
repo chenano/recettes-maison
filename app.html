@@ -137,6 +137,17 @@ h1,h2,h3{margin:0;text-wrap:balance}
 .cimg{width:36px;height:36px;border-radius:50%;object-fit:cover;background:var(--tile);display:grid;place-items:center;flex:0 0 36px;color:var(--brand)}
 .cimg .ico{width:18px;height:18px}
 .cimg.fav-ic{color:var(--terra)}
+.cimg.quick-ic{color:var(--saffron-ink);background:var(--hl)}
+.quick:empty{display:none}
+.quick{display:grid;gap:12px}
+.qrow{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;margin-inline:-16px;padding:2px 16px 8px}
+.qrow::-webkit-scrollbar{display:none}
+.qcard{flex:0 0 auto;width:min(62vw,240px);scroll-snap-align:start;display:grid;grid-template-rows:auto 1fr;border-radius:20px;overflow:hidden;background:var(--card);box-shadow:var(--shadow-sm);text-decoration:none;color:inherit}
+.qcard img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;background:var(--tile)}
+.qcard-b{display:grid;gap:4px;padding:10px 12px 12px}
+.qcard-t{font:700 16.5px/1.2 var(--font-display)}
+.qcard-m{display:inline-flex;align-items:center;gap:5px;font-size:13.5px;font-weight:700;color:var(--saffron-ink)}
+.qcard-m .ico{width:15px;height:15px}
 .chip small{font-size:12.5px;font-weight:700;color:var(--ink-2)}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .chip[aria-pressed="true"] small{color:inherit;opacity:.7}
@@ -221,7 +232,12 @@ h1,h2,h3{margin:0;text-wrap:balance}
 .stepper{display:inline-flex;align-items:center;gap:4px}
 .stepper button{width:46px;height:46px;border-radius:14px;border:0;background:var(--tile);display:grid;place-items:center;color:var(--ink)}
 .stepper button:disabled{opacity:.35}
-.stepper output{min-width:104px;text-align:center;font-weight:800;font-size:16.5px}
+.nsel{position:relative;display:grid;place-items:center;min-width:118px;min-height:46px;cursor:pointer}
+.nsel select{position:absolute;inset:0;width:100%;height:100%;opacity:0;font-size:16px;cursor:pointer;-webkit-appearance:none;appearance:none}
+.nsel-v{font-weight:800;font-size:16.5px;text-decoration:underline dotted var(--ctl);text-underline-offset:5px;pointer-events:none}
+.nsel:focus-within{outline:3px solid var(--saffron);outline-offset:2px;border-radius:12px}
+.serv-hint{margin-top:-8px;font-size:14.5px;color:var(--ink-2)}
+.linkish{border:0;background:none;padding:0;color:var(--brand);font-weight:800;text-decoration:underline;text-underline-offset:3px}
 .go-row{display:grid;gap:8px}
 #tabs-anchor{height:0}
 .tabs-wrap{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--mb-h));z-index:15;margin-inline:-16px;padding:8px 16px;background:var(--bg)}
@@ -267,10 +283,14 @@ h1,h2,h3{margin:0;text-wrap:balance}
 .tl-meta{font-weight:800;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
 .tl-h h3{font:700 20px/1.18 var(--font-display);margin-top:3px}
 .tl-i.is-done .tl-h h3{color:var(--ink-2)}
-.ava{display:flex;align-items:center;padding-left:7px}
-.ava img,.ava span{width:34px;height:34px;border-radius:50%;object-fit:cover;border:2px solid var(--card);margin-left:-7px;background:var(--tile)}
-.ava span{display:grid;place-items:center;font-size:12px;font-weight:800;color:var(--ink-2)}
-.step-img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:16px;background:var(--tile)}
+.mep{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;scroll-snap-type:x proximity;margin-right:-14px;padding-right:28px;-webkit-mask-image:linear-gradient(90deg,#000 82%,transparent);mask-image:linear-gradient(90deg,#000 82%,transparent)}
+.mep::-webkit-scrollbar{display:none}
+.mchip{flex:0 0 auto;scroll-snap-align:start;white-space:nowrap;display:inline-flex;align-items:center;gap:7px;padding:4px 10px 4px 4px;border-radius:14px;background:var(--bg);border:1px solid var(--rule);font-size:13.5px;line-height:1.2}
+.mchip > img,.mchip > .mono{width:34px;height:34px;flex:0 0 34px;border-radius:10px;object-fit:cover;background:var(--tile);display:grid;place-items:center;font-size:15px}
+.mchip b{font-weight:800}
+.step-fig{position:relative;margin:0}
+.step-fig figcaption{position:absolute;left:8px;bottom:8px;max-width:calc(100% - 16px);padding:4px 10px;border-radius:999px;background:rgba(10,8,16,.6);color:#fff;font-size:12.5px;font-weight:700}
+.step-img{display:block;width:100%;height:auto;max-height:min(72vh,560px);object-fit:cover;border-radius:16px;background:var(--tile)}
 .tip{display:grid;gap:4px;padding:12px 14px;border-radius:16px;background:var(--tile)}
 .tip-l{display:flex;align-items:center;gap:6px;font-weight:800;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--saffron-ink)}
 .tip-l .ico{width:16px;height:16px}
@@ -463,6 +483,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       <div id="resume"></div>
       <div class="chips" id="chips" role="group" aria-label="Catégories"></div>
       <div id="today"></div>
+      <section id="quick" class="quick"></section>
       <div class="sec-h"><h2 id="grid-h">Toutes les recettes</h2><span id="grid-n"></span></div>
       <div class="grid" id="grid"></div>
       <div class="empty-st" id="empty" hidden></div>
@@ -544,7 +565,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
   const RECIPES = (window.RECETTES || []).slice();
   const ING = window.INGREDIENTS || {};
   const BY = {}; RECIPES.forEach(r => { BY[r.slug] = r; });
-  const MULTS = [0.5, 1, 1.5, 2];
+  const maxN = r => Math.max(r.servings * 4, 12);   // parts : de 1 à 4 fois la recette (au moins 12)
   const K = { st: 'recettes-maison-v1', fav: 'recettes-maison-favoris', shop: 'recettes-maison-courses', ui: 'recettes-maison-ui' };
   const mq = q => { try { return window.matchMedia(q).matches; } catch (e) { return false; } };
   const reduceMotion = mq('(prefers-reduced-motion: reduce)');
@@ -561,7 +582,10 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
   function rs(slug) {
     let s = ST[slug];
     if (!s || typeof s !== 'object') s = ST[slug] = {};
-    if (!MULTS.includes(s.mult)) s.mult = 1;
+    const r = BY[slug], base = r ? r.servings : 1;
+    if (!(Number.isInteger(s.n) && s.n >= 1)) s.n = (typeof s.mult === 'number' && s.mult > 0) ? Math.max(1, Math.round(s.mult * base)) : base;
+    if (r && s.n > maxN(r)) s.n = maxN(r);
+    delete s.mult;
     if (!s.checks || typeof s.checks !== 'object') s.checks = {};
     if (!Number.isInteger(s.step) || s.step < 0) s.step = 0;
     return s;
@@ -604,12 +628,15 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       return q >= 1000 ? `${dec(q / 1000)} ${u === 'g' ? 'kg' : 'l'}` : `${q} ${u}`;
     }
     if (u === 'c. à s.' || u === 'c. à c.') return `${frac(q, 8)} ${u}`;
-    if (u === 'pincée' || u === 'pincées') return `${frac(q, 2)} ${q > 1 ? 'pincées' : 'pincée'}`;
-    if (u === 'botte' || u === 'bottes') return `${frac(q, 2)} ${q > 1 ? 'bottes' : 'botte'}`;
-    if (u) return `${frac(q, 2)} ${u}`;
-    return frac(q, 2);
+    const fr = x => frac(x, x < 1 ? 4 : 2);         // en dessous de 1 : au quart près (¼ oignon, ¼ botte)
+    if (u === 'pincée' || u === 'pincées') return `${fr(q)} ${shown(q) > 1 ? 'pincées' : 'pincée'}`;
+    if (u === 'botte' || u === 'bottes') return `${fr(q)} ${shown(q) > 1 ? 'bottes' : 'botte'}`;
+    if (u) return `${fr(q)} ${u}`;
+    return fr(q);
   }
-  const itemName = (it, mult) => { const q = scaled(it, mult); return (it.pl && q != null && q > 1 && !it.u) ? it.pl : it.name; };
+  // valeur affichée après arrondi (même règle que frac) : l'accord se fait sur elle, pas sur la quantité brute (« 1 pincée », jamais « 1 pincées »)
+  const shown = x => { const den = x < 1 ? 4 : 2; return Math.max(1, Math.round(x * den)) / den; };
+  const itemName = (it, mult) => { const q = scaled(it, mult); return (it.pl && q != null && shown(q) > 1 && !it.u) ? it.pl : it.name; };
   const itemLine = (it, mult) => { const qt = fmtQ(it, mult); return (qt ? `<b class="q">${esc(qt)}</b> ` : '') + esc(itemName(it, mult)); };
   const itemsOf = r => r.ingredients.flatMap(g => g.items);
   const itemMap = r => { if (!r._map) { r._map = {}; itemsOf(r).forEach(it => { r._map[it.id] = it; }); } return r._map; };
@@ -643,17 +670,21 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
   const initial = it => (shortName(it).charAt(0) || '?').toUpperCase();
   const ph = it => { const s = ingSrc(it); return s ? `<img src="${esc(s)}" alt="" loading="lazy" decoding="async">` : `<span class="mono" aria-hidden="true">${esc(initial(it))}</span>`; };
   const thumb = r => String(r.img || '').replace(/^img\//, 'img/min/');
-  const RAYONS = ['Tajines', 'Plats', 'Soupes', 'Pains', 'Salades', 'Boissons', 'Douceurs', "D'ailleurs"];
+  const RAYONS = ['Tajines', 'Plats', 'Poissons', 'Soupes', 'Salades', 'Pains', 'Douceurs', 'Boissons', "D'ailleurs"];
+  const QUICK = 'Vite fait';
+  const isQuick = r => rayon(r) !== 'Boissons' && (r.time.prep || 0) + (r.time.cook || 0) <= 30;
   const rayon = r => r.rayon || (r.cuisine === 'Marocaine' ? 'Plats' : "D'ailleurs");
+  const rayons = r => (Array.isArray(r.rayons) && r.rayons.length ? r.rayons : [rayon(r)]);   // une recette peut être dans deux rayons
   const total = r => (r.time.prep || 0) + (r.time.cook || 0);
   const restL = r => r.time.rest_label || 'Repos';
   const timeTxt = r => hm(total(r)) + (r.time.rest ? ` + ${restL(r).toLowerCase()}` : '');
-  const nServ = (r, m) => { const n = r.servings * m; return `${dec(n)} ${n <= 1 ? String(r.servings_label).replace(/s$/, '') : r.servings_label}`; };
+  const sing = l => (/eaux$/.test(l) ? l.replace(/x$/, '') : l.replace(/s$/, ''));
+  const nServ = (r, n) => `${n} ${n <= 1 ? sing(String(r.servings_label)) : r.servings_label}`;
   const COMB = new RegExp('[' + String.fromCharCode(768) + '-' + String.fromCharCode(879) + ']', 'g');
   const norm = s => String(s || '').normalize('NFD').replace(COMB, '').toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').replace(/[’'-]/g, ' ');
   const HAY = {};
   RECIPES.forEach(r => {
-    HAY[r.slug] = norm([r.title, r.darija, r.arabic, r.tagline, r.category, rayon(r), r.region, r.cuisine]
+    HAY[r.slug] = norm([r.title, r.darija, r.arabic, r.tagline, r.category, rayons(r).join(' '), r.region, r.cuisine]
       .concat(itemsOf(r).map(it => `${it.name} ${ingInfo(it) ? ingInfo(it).label : ''}`)).join(' '));
   });
   const sorted = list => list.slice().sort((a, b) => (RAYONS.indexOf(rayon(a)) - RAYONS.indexOf(rayon(b))) || a.title.localeCompare(b.title, 'fr'));
@@ -680,12 +711,14 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
   function chipImg(k) {
     if (k === 'Toutes') return `<span class="cimg">${ico('grid')}</span>`;
     if (k === 'Favoris') return `<span class="cimg fav-ic">${ico('heart-f')}</span>`;
-    const r = sorted(RECIPES.filter(x => rayon(x) === k))[0];
+    if (k === QUICK) return `<span class="cimg quick-ic">${ico('clock')}</span>`;
+    const r = sorted(RECIPES.filter(x => rayon(x) === k))[0] || sorted(RECIPES.filter(x => rayons(x).includes(k)))[0];
     return r ? `<img class="cimg" src="${esc(thumb(r))}" alt="" loading="lazy" decoding="async">` : '';
   }
   function renderChips() {
-    const counts = {}; RECIPES.forEach(r => { const k = rayon(r); counts[k] = (counts[k] || 0) + 1; });
-    const list = [['Toutes', RECIPES.length], ['Favoris', FAV.filter(s => BY[s]).length]].concat(RAYONS.filter(k => counts[k]).map(k => [k, counts[k]]));
+    const counts = {}; RECIPES.forEach(r => rayons(r).forEach(k => { counts[k] = (counts[k] || 0) + 1; }));
+    const nq = RECIPES.filter(isQuick).length;
+    const list = [['Toutes', RECIPES.length], ['Favoris', FAV.filter(s => BY[s]).length]].concat(nq ? [[QUICK, nq]] : [], RAYONS.filter(k => counts[k]).map(k => [k, counts[k]]));
     $('#chips').innerHTML = list.map(([k, n]) => `<button class="chip" type="button" data-filter="${esc(k)}" aria-pressed="${k === FILTER}">${chipImg(k)}${esc(k)}<small>${n}</small></button>`).join('');
   }
   const dayNum = () => { const d = new Date(); return Math.floor((d.getTime() - d.getTimezoneOffset() * 60000) / 86400000); };
@@ -693,7 +726,12 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     const pool = RECIPES.filter(r => r.cuisine === 'Marocaine' && rayon(r) !== 'Boissons').sort((a, b) => a.slug.localeCompare(b.slug));
     if (!pool.length) return '';
     const r = pool[dayNum() % pool.length];
-    return `<a class="today" href="#${r.slug}" data-nav><img src="${esc(r.img)}" alt="" decoding="async" onerror="this.onerror=null;this.src='${esc(thumb(r))}'"><span class="today-t"><span class="pill pill-sun">${ico('star')}Recette du jour</span><span class="today-h">${esc(r.title)}</span>${r.arabic ? `<span class="ar" lang="ar">${esc(r.arabic)}</span>` : ''}<span class="today-m">${ico('clock')}${timeTxt(r)} · ${esc(r.difficulty)} · ${r.servings} ${esc(r.servings_label)}</span></span></a>`;
+    return `<a class="today" href="#${r.slug}" data-nav><img src="${esc(r.img)}" alt="" decoding="async" onerror="this.onerror=null;this.src='${esc(thumb(r))}'"><span class="today-t"><span class="pill pill-sun">${ico('star')}Recette du jour</span><span class="today-h">${esc(r.title)}</span>${r.arabic ? `<span class="ar" lang="ar">${esc(r.arabic)}</span>` : ''}<span class="today-m">${ico('clock')}${timeTxt(r)} · ${esc(r.difficulty)} · ${esc(nServ(r, r.servings))}</span></span></a>`;
+  }
+  function quickRow() {
+    const q = RECIPES.filter(isQuick).sort((a, b) => total(a) - total(b) || a.title.localeCompare(b.title, 'fr'));
+    if (q.length < 2) return '';
+    return `<div class="sec-h"><h2>Soir de fatigue ?</h2><span>Prêt en 30 min</span></div><div class="qrow">${q.map(r => `<a class="qcard" href="#${r.slug}" data-nav><img src="${esc(thumb(r))}" alt="" loading="lazy" decoding="async"><span class="qcard-b"><span class="qcard-t">${esc(r.title)}</span><span class="qcard-m">${ico('clock')}${hm(total(r))}</span></span></a>`).join('')}</div>`;
   }
   const stepDone = (r, s) => r.steps.filter((_, k) => s.checks['st' + k]).length;
   function resumeCard() {
@@ -710,10 +748,12 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     renderChips();
     const words = norm(QUERY).split(/\s+/).filter(Boolean);
     const browsing = FILTER === 'Toutes' && !words.length;
-    const list = sorted(RECIPES.filter(r => (FILTER === 'Toutes' || (FILTER === 'Favoris' ? isFav(r.slug) : rayon(r) === FILTER)) && words.every(w => HAY[r.slug].includes(w))));
+    const keep = r => FILTER === 'Toutes' || (FILTER === 'Favoris' ? isFav(r.slug) : FILTER === QUICK ? isQuick(r) : rayons(r).includes(FILTER));
+    const list = sorted(RECIPES.filter(r => keep(r) && words.every(w => HAY[r.slug].includes(w))));
     $('#resume').innerHTML = browsing ? typo(resumeCard()) : '';
     $('#today').innerHTML = browsing ? typo(todayCard()) : '';
-    $('#grid-h').textContent = words.length ? 'Résultats' : FILTER === 'Toutes' ? 'Toutes les recettes' : FILTER === 'Favoris' ? 'Tes favoris' : FILTER;
+    $('#quick').innerHTML = browsing ? typo(quickRow()) : '';
+    $('#grid-h').textContent = words.length ? 'Résultats' : FILTER === 'Toutes' ? 'Toutes les recettes' : FILTER === 'Favoris' ? 'Tes favoris' : FILTER === QUICK ? 'Prêt en 30 min au plus' : FILTER;
     $('#grid-n').textContent = list.length ? `${list.length} recette${list.length > 1 ? 's' : ''}` : '';
     const grid = $('#grid');
     grid.classList.toggle('still', !!still);
@@ -748,18 +788,33 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     const on = !!checks[it.id];
     return `<label class="ing${on ? ' is-checked' : ''}" for="chk-${it.id}"><input class="cb" type="checkbox" id="chk-${it.id}" data-check="${it.id}"${on ? ' checked' : ''}><span class="ing-ph">${ph(it)}</span><span class="ing-t">${itemLine(it, m)}${it.note ? `<span class="note">${esc(it.note)}</span>` : ''}${it.recipe && BY[it.recipe] ? `<a class="ing-link" href="#${it.recipe}" data-nav>Voir la recette ${esc(BY[it.recipe].title)}${ico('right')}</a>` : ''}</span><span class="tick" aria-hidden="true">${TICK}</span></label>`;
   }
+  // photo d'une étape : la vraie photo du geste si elle existe ; sinon, pour l'étape où l'on sert, le plat terminé
+  function serveIndex(r) {
+    if (r._serve != null) return r._serve;
+    const isS = st => /service/i.test(st.phase || '');
+    let k = r.steps.findIndex(st => isS(st) && /sers|servir|dress/i.test(st.title));
+    if (k < 0) { for (let j = r.steps.length - 1; j >= 0; j--) if (isS(r.steps[j])) { k = j; break; } }
+    return (r._serve = k);
+  }
+  function stepPhoto(r, st, i, lazy) {
+    const ld = lazy ? ' loading="lazy" decoding="async"' : '';
+    const wh = st.img && st.img.w ? ` width="${st.img.w}" height="${st.img.h}"` : '';
+    if (st.img) return `<figure class="step-fig"><img class="step-img" src="${esc(st.img.src)}" alt="${esc(st.img.alt || st.title)}"${wh}${ld}>${st.img.caption ? `<figcaption>${esc(st.img.caption)}</figcaption>` : ''}</figure>`;
+    if (i === serveIndex(r) && r.img) return `<figure class="step-fig"><img class="step-img" src="${esc(r.img)}" alt="${esc(r.img_alt || r.title)}"${ld}><figcaption>Le plat terminé</figcaption></figure>`;
+    return '';
+  }
+  const miniChip = (it, m) => { const q = fmtQ(it, m); return `<span class="mchip">${ph(it)}<span>${q ? `<b>${esc(q)}</b> ` : ''}${esc(shortName(it))}</span></span>`; };
   function stepItem(r, st, i, m, s) {
     const done = !!s.checks['st' + i];
-    const seen = new Set(), ava = [];
-    stepIds(st).forEach(id => { const it = itemMap(r)[id], src = ingSrc(it); if (src && !seen.has(src)) { seen.add(src); ava.push(src); } });
+    const need = stepIds(st).map(id => itemMap(r)[id]).filter(Boolean);
     const meta = [`Étape ${i + 1}`].concat(st.phase ? [esc(st.phase)] : [], st.dur ? [esc(st.dur)] : st.timer ? [dur(st.timer.min)] : []).join(' · ');
     return `<li class="tl-i${done ? ' is-done' : ''}" id="st-${i}">
       <span class="tl-dot" aria-hidden="true">${done ? TICK : i + 1}</span>
       <article class="tl-card">
         <div class="tl-h"><div><p class="tl-meta">${meta}</p><h3>${esc(st.title)}</h3></div>
           <button class="icon-btn sm" type="button" data-open="${i}" aria-label="Voir l'étape ${i + 1} en grand">${ico('expand')}</button></div>
-        ${ava.length ? `<div class="ava" aria-hidden="true">${ava.slice(0, 6).map(s2 => `<img src="${esc(s2)}" alt="" loading="lazy" decoding="async">`).join('')}${ava.length > 6 ? `<span>+${ava.length - 6}</span>` : ''}</div>` : ''}
-        ${st.img ? `<img class="step-img" src="${esc(st.img.src)}" alt="${esc(st.img.alt || st.title)}" loading="lazy" decoding="async">` : ''}
+        ${need.length ? `<div class="mep">${need.map(it => miniChip(it, m)).join('')}</div>` : ''}
+        ${stepPhoto(r, st, i, true)}
         <div>${textBlock(st.text, r, m)}</div>
         ${st.timer ? timerBtn(r, i, st.timer) : ''}
         ${st.jump != null ? jumpBtn(r, st.jump) : ''}
@@ -768,7 +823,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       </article></li>`;
   }
   function renderRecipe() {
-    const r = CUR, s = rs(r.slug), m = s.mult, t = r.time, nTxt = nServ(r, m);
+    const r = CUR, s = rs(r.slug), n = s.n, m = n / r.servings, t = r.time, nTxt = nServ(r, n);
     $('#mb-title').textContent = r.title;
     const doneN = stepDone(r, s), inProgress = !s.fin && (s.step > 0 || doneN > 0);
     const hasSec = (r.secrets || []).length + (r.mistakes || []).length > 0;
@@ -799,7 +854,8 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
         <p class="tagline">${esc(r.tagline)}</p>
         ${r.region ? `<p class="origin">${ico('pin')}<span>${esc(r.region)}</span></p>` : ''}
         <ul class="stats">${stats.map(([ic, v, l]) => `<li>${ic}<b>${esc(v)}</b><span>${l}</span></li>`).join('')}</ul>
-        <div class="serv"><span class="serv-l">${ico('users')}Pour</span><span class="stepper"><button type="button" data-mult="-1" aria-label="Moins de parts"${m === MULTS[0] ? ' disabled' : ''}>${ico('minus')}</button><output aria-live="polite">${esc(nTxt)}</output><button type="button" data-mult="1" aria-label="Plus de parts"${m === MULTS[MULTS.length - 1] ? ' disabled' : ''}>${ico('plus')}</button></span></div>
+        <div class="serv"><span class="serv-l">${ico('users')}Pour</span><span class="stepper"><button type="button" data-n="-1" aria-label="Une part de moins"${n <= 1 ? ' disabled' : ''}>${ico('minus')}</button><label class="nsel"><span class="sprite">Nombre de parts</span><select data-nsel>${Array.from({ length: maxN(r) }, (_, k) => `<option value="${k + 1}"${k + 1 === n ? ' selected' : ''}>${esc(nServ(r, k + 1))}</option>`).join('')}</select><output class="nsel-v" aria-hidden="true">${esc(nTxt)}</output></label><button type="button" data-n="1" aria-label="Une part de plus"${n >= maxN(r) ? ' disabled' : ''}>${ico('plus')}</button></span></div>
+        ${n !== r.servings ? `<p class="serv-hint">Quantités recalculées pour ${esc(nTxt)} (recette d'origine : ${esc(nServ(r, r.servings))}). Les temps restent ceux de la recette : surveille la cuisson. <button type="button" class="linkish" data-nreset>Revenir à ${r.servings}</button></p>` : ''}
         <div class="go-row"><button class="go" type="button" data-go>${ico('play')}${inProgress ? `Reprendre à l'étape ${Math.min(r.steps.length, s.step + 1)}` : 'Cuisiner pas à pas'}</button>${inProgress ? `<button class="btn-ghost" type="button" data-restart>Recommencer depuis le début</button>` : ''}</div>
         ${r.occasion ? `<p class="origin">${ico('info')}<span>${esc(r.occasion)}</span></p>` : ''}
         <div id="tabs-anchor"></div>
@@ -853,16 +909,16 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
   }
 
   /* ---------- liste de courses ---------- */
-  const AISLES = ['Fruits et légumes', 'Herbes fraîches', 'Boucherie et volaille', 'Crèmerie et œufs', 'Boulangerie', 'Épices', 'Épicerie', 'Autres'];
+  const AISLES = ['Fruits et légumes', 'Herbes fraîches', 'Boucherie et volaille', 'Poissonnerie', 'Crèmerie et œufs', 'Boulangerie', 'Épices', 'Épicerie', 'Autres'];
   const aisleOf = x => (ING[x.canon] && ING[x.canon].aisle) || 'Autres';
   function addShop(r) {
-    const m = rs(r.slug).mult;
+    const n = rs(r.slug).n, m = n / r.servings;
     const had = new Set(SHOP.filter(x => x.slug === r.slug && x.done).map(x => x.id));
     const items = itemsOf(r).filter(it => !(ingInfo(it) && ingInfo(it).skip));
     SHOP = SHOP.filter(x => x.slug !== r.slug).concat(items.map(it => ({ slug: r.slug, id: it.id, canon: it.canon || '', q: fmtQ(it, m), n: itemName(it, m), done: had.has(it.id) })));
     store(K.shop, SHOP); renderBadge();
     const b = $('[data-addshop] span'); if (b) b.textContent = 'Mettre à jour ma liste de courses';
-    toast(`${items.length} ingrédient${items.length > 1 ? 's' : ''} dans ta liste de courses, pour ${nServ(r, m)}.`, 'Voir', () => nav('#courses'));
+    toast(`${items.length} ingrédient${items.length > 1 ? 's' : ''} dans ta liste de courses, pour ${nServ(r, n)}.`, 'Voir', () => nav('#courses'));
   }
   function shopGroups() {
     const g = {}; SHOP.forEach((x, i) => { if (!BY[x.slug]) return; const a = aisleOf(x); (g[a] = g[a] || []).push([x, i]); });
@@ -1101,7 +1157,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       <div class="fin-act"><button class="go" type="button" data-finback>${ico('left')}Revenir à la recette</button><button class="btn-ghost" type="button" data-share>${ico('share')}Partager la recette</button><button class="btn-ghost" type="button" id="ck-back1">Revoir la dernière étape</button></div></div>`;
   }
   function renderCook() {
-    const r = CUR, s = rs(r.slug), m = s.mult, n = r.steps.length;
+    const r = CUR, s = rs(r.slug), m = s.n / r.servings, n = r.steps.length;
     s.step = Math.max(0, Math.min(n - 1, s.step));
     const i = s.step, st = r.steps[i], last = i === n - 1;
     $('#ck-count').textContent = cookFin ? 'Terminé !' : `Étape ${i + 1} sur ${n}`;
@@ -1114,7 +1170,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     const need = stepIds(st).map(id => itemMap(r)[id]).filter(Boolean);
     const ne = $('#ck-need'); ne.hidden = !need.length;
     ne.innerHTML = need.length ? typo(`<p class="need-l">Pour cette étape</p><div class="need-list">${need.map(it => needChip(it, m)).join('')}</div>`) : '';
-    $('#ck-body').innerHTML = typo((st.img ? `<img class="step-img" src="${esc(st.img.src)}" alt="${esc(st.img.alt || st.title)}">` : '') + textBlock(st.text, r, m) + (st.timer ? timerBtn(r, i, st.timer) : '') + (st.jump != null ? jumpBtn(r, st.jump) : '') + (st.tip ? tipBox(st.tip) : ''));
+    $('#ck-body').innerHTML = typo(stepPhoto(r, st, i, false) + textBlock(st.text, r, m) + (st.timer ? timerBtn(r, i, st.timer) : '') + (st.jump != null ? jumpBtn(r, st.jump) : '') + (st.tip ? tipBox(st.tip) : ''));
     $('#ck-ing').innerHTML = typo(r.ingredients.map(g => `${g.group ? `<p class="grp">${esc(g.group)}</p>` : ''}${g.items.map(it => `<div class="ing ro"><span class="ing-ph">${ph(it)}</span><span class="ing-t">${itemLine(it, m)}</span></div>`).join('')}`).join(''));
     $('#ck-prev').disabled = i === 0;
     $('#ck-next-l').textContent = last ? 'Terminer' : 'Suivant';
@@ -1182,6 +1238,9 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       const row = el.closest('.ing'); if (row) row.classList.toggle('is-checked', el.checked);
       const li = el.closest('.tl-i');
       if (li) { li.classList.toggle('is-done', el.checked); li.querySelector('.tl-dot').innerHTML = el.checked ? TICK : String(Number(id.slice(2)) + 1); }
+    } else if (el.matches('[data-nsel]') && CUR) {
+      const s = rs(CUR.slug); s.n = Math.max(1, Math.min(maxN(CUR), Number(el.value) || CUR.servings)); save();
+      const y = window.scrollY; renderRecipe(); window.scrollTo(0, y);
     } else if (el.matches('[data-shop]')) {
       const x = SHOP[Number(el.dataset.shop)]; if (!x) return;
       x.done = el.checked; store(K.shop, SHOP);
@@ -1214,10 +1273,11 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     else if (d.tab) setTab(d.tab, true);
     else if (d.go != null) startCook(false);
     else if (d.restart != null) startCook(true);
-    else if (d.mult) {
-      const s = rs(CUR.slug), k = MULTS.indexOf(s.mult) + Number(d.mult);
-      if (k >= 0 && k < MULTS.length) { s.mult = MULTS[k]; save(); const y = window.scrollY; renderRecipe(); window.scrollTo(0, y); }
+    else if (d.n) {
+      const s = rs(CUR.slug), k = s.n + Number(d.n);
+      if (k >= 1 && k <= maxN(CUR)) { s.n = k; save(); const y = window.scrollY; renderRecipe(); window.scrollTo(0, y); }
     }
+    else if (d.nreset != null) { const s = rs(CUR.slug); s.n = CUR.servings; save(); const y = window.scrollY; renderRecipe(); window.scrollTo(0, y); }
     else if (d.share != null) { if (CUR) shareRecipe(CUR); }
     else if (d.addshop != null) addShop(CUR);
     else if (d.open != null) { const s = rs(CUR.slug); s.step = Number(d.open); s.fin = false; save(); ensureAudio(); nav(`#${CUR.slug}/pas-a-pas`); }

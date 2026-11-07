@@ -1,0 +1,168 @@
+{
+ "slug": "loubia",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "U.S. Food and Drug Administration (FDA), Bad Bug Book, Foodborne Pathogenic Microorganisms and Natural Toxins, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) »",
+   "url": "https://www.fda.gov/media/83271/download",
+   "ce_qu_elle_confirme": "Source officielle sur la lectine des haricots secs : elle est présente dans de nombreux haricots, surtout les haricots rouges ; les haricots blancs (white kidney beans, même espèce Phaseolus vulgaris) en contiennent environ un tiers. Crus ou pas assez cuits, ces haricots peuvent provoquer nausées, vomissements et diarrhée. Elle rapporte qu'une ébullition de 10 minutes à 100 °C a complètement détruit la toxine (étude de Bender et Readi) et demande de faire bouillir les haricots au moins 30 minutes et de ne pas utiliser de mijoteuse électrique, où les plats restent souvent à 75 °C ou moins. Pour le consommateur : tremper au moins 5 heures, jeter l'eau, faire bouillir dans une eau neuve au moins 30 minutes. Page de présentation : https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition"
+  },
+  {
+   "name": "NHS (service de santé public britannique), « Beans and pulses in your diet », page revue le 26 juillet 2021 (copie archivée du 20 janvier 2022 ; l'adresse ne répond plus en ligne)",
+   "url": "https://web.archive.org/web/20220120215558/https://www.nhs.uk/live-well/eat-well/beans-and-pulses-nutrition/",
+   "ce_qu_elle_confirme": "Les légumineuses sèches doivent être trempées puis cuites ; les haricots rouges secs contiennent des toxines : tremper une nuit puis cuire correctement, et ne pas les cuire à la mijoteuse. Seconde source officielle, moins précise que la FDA (elle ne vise nommément que les haricots rouges et le soja)."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير اللوبيا المغربية كتجي لذيذة », 8 février 2017",
+   "url": "https://www.lalamoulati.net/57207.html",
+   "ce_qu_elle_confirme": "Source marocaine en arabe : le nom « اللوبيا » ; 500 g de haricots blancs trempés environ 12 heures ; cumin, paprika (« فلفل احمر حلو »), gingembre, poivre noir et 1 c. à soupe de concentré de tomate ; cuisson en cocotte-minute. Confirme le trempage long, le concentré et le gingembre (troisième source qui en met)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[5].text",
+   "actuel": "porte à frémissement vif.",
+   "propose": "porte à pleine ébullition, à feu vif.",
+   "pourquoi": "Sécurité alimentaire. Les haricots blancs secs (Phaseolus vulgaris, dont les cannellini, « white kidney beans ») contiennent une lectine toxique, la phytohémagglutinine, environ un tiers de la teneur des haricots rouges ; crus ou pas assez cuits, ces haricots peuvent provoquer nausées, vomissements et diarrhée. La FDA rapporte qu'une ébullition de 10 minutes à 100 °C a complètement détruit la toxine (étude de Bender et Readi), demande de faire bouillir les haricots au moins 30 minutes, et note que des plats restés à 75 °C ou moins ne la détruisent pas. La recette reprend le « rapid simmer » de Taste of Maroc puis fait « mijoter » : un frémissement n'est pas une ébullition, et rien ne garantit les 100 °C. Trempage d'une nuit et eau jetée : conformes. À appliquer avec la correction suivante.",
+   "gravite": "majeure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download) ; NHS, copie archivée (https://web.archive.org/web/20220120215558/https://www.nhs.uk/live-well/eat-well/beans-and-pulses-nutrition/) ; Taste of Maroc (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/)"
+  },
+  {
+   "champ": "steps[6].text",
+   "actuel": "Couvre et laisse mijoter à feu moyen environ 1 h 30, jusqu'à ce que les haricots soient fondants.",
+   "propose": "Couvre et laisse cuire à feu moyen environ 1 h 30, jusqu'à ce que les haricots soient fondants. Le liquide doit bouillir à petits bouillons, et pas seulement frémir, au moins pendant les 30 premières minutes.",
+   "pourquoi": "Même raison : la FDA demande de faire bouillir les haricots au moins 30 minutes pour détruire complètement la lectine. La durée totale (environ 1 h 30) et le contrôle de cuisson de Taste of Maroc ne changent pas. Cooking With Alia écrit aussi, pour des haricots blancs secs : « Boil them until they become tender ».",
+   "gravite": "majeure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download) ; Cooking With Alia (https://www.cookingwithalia.com/loubia-moroccan-white-beans-3/)"
+  },
+  {
+   "champ": "steps[6].title",
+   "actuel": "Laisse mijoter",
+   "propose": "Laisse cuire à petits bouillons",
+   "pourquoi": "Le titre doit suivre le texte corrigé : les haricots doivent bouillir, pas seulement mijoter (FDA).",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download)"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "Retenu : 1 h 30, avec un contrôle de cuisson.",
+   "propose": "Retenu : 1 h 30, avec un contrôle de cuisson. Taste of Maroc porte seulement à « frémissement vif » et Choumicha cuit à feu doux, mais la FDA demande de faire bouillir les haricots secs au moins 30 minutes pour détruire leur lectine : la recette les cuit donc à petits bouillons.",
+   "pourquoi": "Le texte des discordances doit expliquer l'écart entre les sources culinaires et la règle sanitaire retenue (corrections de steps[5] et steps[6]).",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download) ; Taste of Maroc (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/) ; Choumicha n° 993 et n° 997 (https://web.archive.org/web/20260521073122/https://choumicha.ma/recette/993-haricots-blancs-a-la-viande-sechee-gueddid.html ; https://web.archive.org/web/20251206153144/https://www.choumicha.ma/recette/997-haricots-blancs-aux-poivrons-rouges-frits.html)"
+  },
+  {
+   "champ": "steps[0].tip",
+   "actuel": "Pas le temps ? Fais-les tremper au moins quelques heures et prévois une cuisson plus longue (MarocMama ; Choumicha les fait tremper 2 à 3 heures dans certaines recettes).",
+   "propose": "Pas le temps ? Fais-les tremper au moins 5 heures (durée minimale conseillée par la FDA ; Choumicha descend à 2 ou 3 heures dans certaines recettes), jette l'eau de trempage et prévois une cuisson plus longue (MarocMama).",
+   "pourquoi": "La FDA conseille un trempage d'au moins 5 heures, l'eau jetée, puis une cuisson à l'ébullition dans une eau neuve ; « quelques heures » et l'exemple de Choumicha (2 à 3 heures) laissent entendre qu'un trempage plus court suffit.",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download) ; MarocMama (https://marocmama.com/moroccan-white-bean-recipe-loubia/) ; Choumicha n° 997 (https://web.archive.org/web/20251206153144/https://www.choumicha.ma/recette/997-haricots-blancs-aux-poivrons-rouges-frits.html)"
+  },
+  {
+   "champ": "secrets[1].text",
+   "actuel": "Compte au moins quelques heures, et une cuisson plus longue.",
+   "propose": "Compte au moins 5 heures de trempage, et une cuisson plus longue.",
+   "pourquoi": "Même raison que pour steps[0].tip : la FDA conseille au moins 5 heures de trempage. À appliquer avec la correction suivante (source du même secret).",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download) ; MarocMama (https://marocmama.com/moroccan-white-bean-recipe-loubia/)"
+  },
+  {
+   "champ": "secrets[1].source",
+   "actuel": "MarocMama ; Choumicha (2 à 3 heures pour ses haricots aux poivrons frits, 2 heures pour ses haricots aux boulettes)",
+   "propose": "FDA (au moins 5 heures de trempage) ; MarocMama (au moins quelques heures, et plus de cuisson) ; Choumicha (2 à 3 heures pour ses haricots aux poivrons frits, 2 heures pour ses haricots aux boulettes)",
+   "pourquoi": "La source du secret doit citer la durée officielle retenue.",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download)"
+  },
+  {
+   "champ": "mistakes[1]",
+   "actuel": "Cuire des haricots secs sans trempage : il faut au moins quelques heures, et plus de cuisson (MarocMama).",
+   "propose": "Cuire des haricots secs sans trempage : fais-les tremper au moins 5 heures (FDA) et prévois plus de cuisson (MarocMama). Ou les cuire à la mijoteuse électrique : elle ne chauffe pas assez pour détruire la lectine des haricots (FDA).",
+   "pourquoi": "La FDA conseille au moins 5 heures de trempage et écrit que les mijoteuses électriques ne doivent pas servir pour ces haricots (températures de 75 °C ou moins, insuffisantes). Une lectrice de Taste of Maroc cuit cette recette 8 à 10 heures à la mijoteuse, et l'autrice approuve en commentaire : l'avertissement est utile.",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download) ; Taste of Maroc, commentaires (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/)"
+  },
+  {
+   "champ": "unverified[1]",
+   "actuel": "non proposée, faute de source officielle sur la cuisson des haricots secs à basse température.",
+   "propose": "non proposée : la FDA déconseille la mijoteuse pour ces haricots, car elle ne chauffe pas assez pour détruire leur lectine.",
+   "pourquoi": "Il existe une source officielle : le Bad Bug Book de la FDA (« Slow cookers should not be used to cook these beans or dishes that contain them »).",
+   "gravite": "mineure",
+   "sources": "FDA, Bad Bug Book, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) » (https://www.fda.gov/media/83271/download)"
+  },
+  {
+   "champ": "secrets[2].text",
+   "actuel": "Râpe les tomates et l'oignon : ils fondent dans la sauce.",
+   "propose": "Râpe les tomates et l'oignon.",
+   "pourquoi": "Taste of Maroc et Choumicha râpent bien les tomates (et Taste of Maroc l'oignon), mais aucune source n'écrit qu'ils « fondent dans la sauce » (recherche faite dans toutes les pages relues).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/) ; Choumicha n° 993 (https://web.archive.org/web/20260521073122/https://choumicha.ma/recette/993-haricots-blancs-a-la-viande-sechee-gueddid.html)"
+  },
+  {
+   "champ": "secrets[4].text",
+   "actuel": "il ne donne que de la couleur",
+   "propose": "Taste of Maroc en ajoute pour la couleur",
+   "pourquoi": "Taste of Maroc écrit : « Turmeric is not a traditional ingredient […], but I like to add it for color as well as for the health benefits ». « Il ne donne que de la couleur » déforme la phrase ; on garde la couleur et on ne reprend pas l'argument de santé, qui n'a pas de source officielle.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/)"
+  },
+  {
+   "champ": "secrets[4].source",
+   "actuel": "dans une recette de Choumicha",
+   "propose": "dans deux recettes de Choumicha (poivrons frits, douara)",
+   "pourquoi": "Le curcuma figure dans deux recettes de Choumicha citées : haricots aux poivrons rouges frits (1 c. à thé) et douara aux haricots blancs (½ c. à soupe).",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 997 (https://web.archive.org/web/20251206153144/https://www.choumicha.ma/recette/997-haricots-blancs-aux-poivrons-rouges-frits.html) ; Choumicha n° 919 (https://web.archive.org/web/20251207040615/https://choumicha.ma/recette/919-douara-aux-haricots-blancs.html)"
+  },
+  {
+   "champ": "mistakes[0]",
+   "actuel": "déjà cuits, ils n'absorbent pas le goût de la sauce",
+   "propose": "déjà cuits, ils risquent de mal prendre le goût de la sauce",
+   "pourquoi": "L'autrice de Taste of Maroc écrit, en réponse à une lectrice, que les haricots en conserve « probably wouldn't absorb the flavors of the sauce » : c'est une probabilité, pas une certitude.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, commentaires (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/)"
+  },
+  {
+   "champ": "variants[8]",
+   "actuel": "la version de rue la plus savoureuse selon MarocMama",
+   "propose": "la version la plus savoureuse selon MarocMama",
+   "pourquoi": "MarocMama écrit que la version cuite des heures dans une marmite en terre est « certainly the tastiest version » ; elle ne dit pas que c'est la version de rue (elle parle des gargotes plus haut, sans les relier à cette cuisson).",
+   "gravite": "mineure",
+   "sources": "MarocMama (https://marocmama.com/moroccan-white-bean-recipe-loubia/)"
+  },
+  {
+   "champ": "variants[9]",
+   "actuel": "Une partie de l'huile d'olive ajoutée seulement en fin de cuisson (Morocco World News 2023 ; Choumicha dans sa version aux poivrons).",
+   "propose": "Une partie de l'huile d'olive ajoutée seulement en fin de cuisson (Morocco World News 2023) ; dans sa version aux poivrons, Choumicha ajoute même toute l'huile et les épices une fois les haricots cuits.",
+   "pourquoi": "Chez Choumicha (haricots aux poivrons rouges frits), toute l'huile d'olive est ajoutée « au terme de la cuisson des haricots », avec les épices, les herbes et les poivrons ; ce n'est pas « une partie ».",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 997 (https://web.archive.org/web/20251206153144/https://www.choumicha.ma/recette/997-haricots-blancs-aux-poivrons-rouges-frits.html) ; Morocco World News 2023 (https://www.moroccoworldnews.com/2023/09/29765/loubia-a-fulfilling-and-nutritional-moroccan-delicacy/)"
+  },
+  {
+   "champ": "equipment[2]",
+   "actuel": "Grande cocotte à fond épais d'environ 6 l, avec couvercle (ou un autocuiseur)",
+   "propose": "Grande cocotte à fond épais d'environ 6 l, avec couvercle (ou un autocuiseur) ; une cocotte deux fois plus grande si tu doubles la recette",
+   "pourquoi": "Taste of Maroc prévoit une cocotte de 6 quarts (5,7 l) pour 1 livre de haricots et 2 quarts d'eau. Pour 12 personnes, l'appli affiche 1 kg de haricots et 4 l d'eau : ils ne tiennent pas dans 6 l (calcul fait avec python3 -I : 12 quarts, soit environ 11 l).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 13 URL de « sources » répondent le 7 novembre 2026. Douze renvoient HTTP 200 à curl (les copies web.archive.org de Choumicha n° 997 et n° 919 au deuxième essai, web.archive.org ayant d'abord refusé la connexion). La page de Morocco World News 2023 renvoie à curl un contrôle Cloudflare (403, non contourné), mais s'ouvre avec l'outil de lecture web, et son texte est identique à la copie archivée de l'URL d'origine (https://web.archive.org/web/20230904023331/https://www.moroccoworldnews.com/2023/09/357427/loubia-a-fulfilling-and-nutritional-moroccan-delicacy). tasteofmaroc.com refuse curl en direct (403) : la copie archivée citée par l'auteur a été lue. Chaque page a été relue : son contenu correspond aux résumés « used_for ».",
+  "Proportions recalculées avec python3 -I, ramenées à 500 g de haricots secs : cumin Morocco World News 2023 0,5 ; Bladi 2,0 ; Choumicha 2,1 (moyenne des recettes n° 993, 997 et 341) ; Taste of Maroc 3,3 ; MarocMama plus de 7 : médiane 2,1, 2 retenues. Paprika 0,5 ; 1,3 ; 3,3 ; MarocMama plus de 7 : médiane 2,3, 2 retenues. Curcuma 0,28 ; 0,5 ; 1,43 : médiane 0,5. Piment fort 0,28 ; 0,5 ; 0,5 : médiane 0,5. Gingembre 2,2 (Taste of Maroc) et 0,5 (Morocco World News 2023) : 1 retenu, facultatif. Poivre ½ (Morocco World News 2023) ou 1,43 (Choumicha n° 997) : ½ retenu. Huile 130 ml (Taste of Maroc), 118 (Morocco World News 2023), 50 à 107 (Choumicha) : médiane 107, 120 retenus. Eau 2,09 l (Taste of Maroc), 2,5 à 2,86 l (Choumicha) : 2 l. Ail 5,5 (Taste of Maroc), 3,9 (Choumicha), 12 (MarocMama) : médiane 5,5, 5 retenues. Tomates 3,3 (Taste of Maroc), 3 (Morocco World News 2023), 2 (Choumicha) : 3. Herbes 2,9 à 6,6 c. à s. : 4 retenues. Par personne : 83 g de haricots secs (Taste of Maroc 76 g, Choumicha 83 à 88 g). Les chiffres des discordances sont exacts, sauf la borne basse du sel (voir « non_verifiable »).",
+  "Durées : trempage d'une nuit, 8 heures, comme MarocMama (« Additional Time: 8 hours ») : time.rest = 480 est juste ; à la cocotte, « bring to a rapid simmer », puis « about 1 1/2 hours » à couvert et à feu moyen, et « Allow double the cooking time if using a conventional pot » (Taste of Maroc) ; autocuiseur 40 minutes (Taste of Maroc, MarocMama), 40 à 45 (Morocco World News 2023). Le minuteur de 90 minutes correspond au texte ; time.cook = 100 couvre la mise à ébullition de 2 l et l'ajustement final ; time.prep = 15 (Taste of Maroc : 10 minutes). L'ordre « tout ensemble dès le début » est celui de Taste of Maroc, MarocMama, Bladi et Morocco World News 2023.",
+  "Quantités et rendu des repères, calculés avec le code de app.html exécuté sous node : les 18 ingrédients sont tous appelés dans les étapes, avec les mêmes quantités. Pour 1 personne : 85 g de haricots, ½ tomate, ¼ oignon, ¾ gousse d'ail, ⅜ c. à s. de persil et de coriandre, ⅛ c. à s. de concentré, ⅜ c. à c. de paprika et de cumin, ⅛ c. à c. de poivre, de gingembre, de curcuma et de piment, ¼ c. à c. de sel, 20 ml d'huile, 335 ml d'eau. Pour 6 : les quantités de la liste (« 1½ c. à c. de sel », « 120 ml », « 2 l »). Pour 12 : 1 kg de haricots, 6 tomates, 2 oignons moyens, 10 gousses, 3 c. à c. de sel, 240 ml d'huile, 4 l d'eau. Les repères sans quantité ({{eau-plus}}, {{khobz}}) affichent bien le nom. Seule tournure un peu étrange, sans erreur : pour 1 personne, « Coupe les tomates en deux (½ tomate bien mûre) ».",
+  "Halal et sécurité : plat sans viande, ni porc ni alcool ; les variantes à la viande précisent « halal ». Restes : 2 heures au plus à température ambiante, 3 jours au réfrigérateur, boîte fermée, petites portions au-delà d'un litre, réchauffage à couvert jusqu'à la vapeur : écrit sur la page de l'Anses du 8 avril 2020 (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques). Trempage d'une nuit puis eau de trempage jetée : conforme à la FDA (au moins 5 heures, eau jetée). Le seul point de sécurité à corriger est l'ébullition (steps[5] et steps[6]). Aucune affirmation de santé dans la recette.",
+  "Textes sourcés relus sur les pages elles-mêmes (indices à partir de 0) : secrets[0], [3], [5] à [13] (dont « Throw in lots of garlic » chez Taste of Maroc, les petits haricots blancs préférés et l'écume blanche retirée à la cuillère chez Kookmutsjes, la pression à laisser retomber chez Morocco World News 2023) ; mistakes[2] à [5] ; serving (petit-déjeuner ou déjeuner dans de petites gargotes, poulet ou bœuf grillés : MarocMama ; poisson, sardines, viande : Morocco World News 2023) ; variants[0] à [7] ; trempage « dans un grand volume d'eau » (Choumicha n° 997) et 2,5 à 5 cm d'eau au-dessus (MarocMama : « an inch or two »).",
+  "Noms : « Loubia » (Taste of Maroc, MarocMama, Morocco World News, Kookmutsjes) et « لوبيا » / « اللوبيا » sont attestés (Lalla Moulati : « اللوبيا البيضاء », « طريقة تحضير اللوبيا المغربية », https://www.lalamoulati.net/57207.html)."
+ ],
+ "non_verifiable": [
+  "Sources officielles françaises, européennes ou canadiennes (Anses, EFSA, Santé Canada, FSA) sur la lectine des haricots : non trouvées, faute de recherche web ; une adresse de la FSA essayée sans moteur de recherche (food.gov.uk/safety-hygiene/kidney-beans) renvoie une erreur 404, et la page actuelle du NHS aussi (sa copie archivée de 2022 a été utilisée). La correction de sécurité repose donc sur la FDA, confirmée en partie par le NHS.",
+  "Teneur en lectine des « petits haricots blancs » (navy) : la FDA chiffre seulement les haricots blancs de type cannellini (environ un tiers des haricots rouges) et écrit que la toxine se trouve dans de nombreuses espèces de haricots ; la teneur exacte des petits haricots blancs n'a pas pu être vérifiée. La règle d'ébullition s'applique de toute façon aux deux.",
+  "Température réellement atteinte par un « frémissement vif » suivi d'une cuisson couverte à feu moyen : non mesurable ici ; c'est pourquoi la correction demande une ébullition franche.",
+  "Médiane du sel : l'auteur écrit « entre 1,4 et 1,8 » ; avec une tasse de haricots secs de 184 à 208 g (poids non vérifié aujourd'hui), la médiane avec MarocMama est de 1,48 à 1,56 c. à c. La valeur retenue (1,5, à rectifier) reste dans la fourchette ; aucune correction proposée.",
+  "Le360 (résultats de recherche chargés en JavaScript), Hespress (accès refusé, erreur 403, non contourné) et Chhiwat (adresse inconnue sans recherche web) n'ont pas pu être fouillés ; le moteur interne de Femmes du Maroc ne renvoie aucune recette de loubia (recherches « loubia » et « haricots blancs »).",
+  "Limite de la vérification : le quota de recherche web étant épuisé, seules les pages ouvertes directement, leurs copies web.archive.org et les moteurs de recherche internes des sites ont été consultés."
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "slug": "baghrir",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Femmes du Maroc (magazine marocain), « Alia Al Kasimi Itinéraire d'une toquée », 24 décembre 2015",
+   "url": "https://femmesdumaroc.com/archives/alia-al-kasimi-itineraire-dune-toquee",
+   "ce_qu_elle_confirme": "L'autrice de Cooking with Alia est Alia Al Kasimi, Marocaine née à Rabat en 1981 ; sa première vidéo, en 2008, filmait sa grand-mère marocaine en train de faire des baghrir, qui lui manquaient. Sa chaîne propose des recettes marocaines simples, faisables partout avec des ingrédients locaux."
+  },
+  {
+   "name": "Organisation mondiale de la santé (OMS), aide-mémoire « Botulism », 25 septembre 2023",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+   "ce_qu_elle_confirme": "Deuxième source officielle pour la mise en garde sur le miel : le miel contaminé par des spores de Clostridium botulinum a été associé à des cas de botulisme infantile, et les parents sont avertis de ne pas donner de miel aux nourrissons avant l'âge de 1 an. La même page précise que les spores résistent à la chaleur : faire chauffer le miel dans le sirop ne lève donc pas la mise en garde (lu le 7 novembre 2026)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[2].text",
+   "actuel": "Selon ta semoule, tu n'utiliseras peut-être pas toute l'eau.",
+   "propose": "Tu n'utiliseras peut-être pas toute l'eau.",
+   "pourquoi": "La cause avancée (« selon ta semoule ») n'est écrite dans aucune des sources lues. Elles disent seulement d'ajouter le reste de l'eau petit à petit jusqu'à la bonne consistance (Cooking with Alia : « Keep adding the rest of the water little by little and mixing, until you reach the desired consistency » ; Morocco World News 2019, même phrase après « Add 600ml of water then mix well »). Taste of Maroc, de son côté, insiste sur des mesures précises. Le conseil reste juste, sans la cause non sourcée.",
+   "gravite": "mineure",
+   "sources": "Cooking with Alia (copie du 29 juin 2021) ; Morocco World News, 17 août 2019 (lu avec l'outil de lecture web) ; Taste of Maroc (copie du 17 mars 2026)."
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "selon ta semoule, tu en mettras peut-être un peu moins",
+   "propose": "tu en mettras peut-être un peu moins",
+   "pourquoi": "Même raison que pour l'étape « Ajuster la consistance » : aucune source lue ne lie la quantité d'eau à la semoule utilisée.",
+   "gravite": "mineure",
+   "sources": "Cooking with Alia ; Morocco World News 2019 ; Taste of Maroc."
+  },
+  {
+   "champ": "steps[8].text",
+   "actuel": "Ne les empile jamais tant qu'ils sont chauds : ils colleraient entre eux.",
+   "propose": "Ne les empile pas tant qu'ils sont chauds : ils colleraient entre eux.",
+   "pourquoi": "« jamais » contredit l'astuce de la même étape, qui explique comment les empiler encore chauds avec un papier entre chaque baghrir. My Moroccan Food dit les deux : « Don't pile up your Moroccan pancakes while they are still hot, as they will stick to each other. If you want to pile them when they are hot, separate them with a tissue. »",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food, 28 avril 2015 (page lue le 7 novembre 2026)."
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "Médiane : 0,74.",
+   "propose": "Médiane : 0,8 (0,74 si l'on ajoute Morocco World News 2022, environ 0,44).",
+   "pourquoi": "Recalcul avec python3 : les sept valeurs de la liste (0,5 ; 0,67 ; 0,69 ; 0,8 ; 1 ; 1,07 ; 1,15 à 1,2) ont pour médiane 0,8. On n'obtient 0,74 qu'en ajoutant Morocco World News 2022 (¼ c. à c. de sel pour 1 tasse de semoule et ½ tasse de farine, soit 0,43 à 0,45 c. à c. pour 400 g), qui n'est pas dans la liste. Le choix de ¾ c. à c. reste dans la fourchette et n'a pas à changer.",
+   "gravite": "mineure",
+   "sources": "Calcul python3 à partir des recettes lues (Bladi.net, Choumicha n° 35 et n° 1067, My Moroccan Food, Morocco World News 2019 et 2022, Cooking with Alia, Taste of Maroc)."
+  },
+  {
+   "champ": "discrepancies[14]",
+   "actuel": "environ 19 d'après Taste of Maroc",
+   "propose": "environ 17 d'après Taste of Maroc",
+   "pourquoi": "Recalcul avec python3. Taste of Maroc fait 16 beghrir de 12 cm avec 1½ tasse de semoule et ¾ de tasse de farine (environ 335 à 349 g, selon 163 à 170 g par tasse de semoule et 120 à 125 g par tasse de farine) et 3 tasses plus 2 c. à s. d'eau (739 ml). Ramené, comme le dit le texte, à 400 g de sec ET 750 ml d'eau (1 150 g contre 1 074 à 1 088 g), cela donne 16,9 à 17,1 baghrir. Le chiffre de 19 ne s'obtient qu'en ne comptant que le sec (18,4 à 19,1). Le calcul pour My Moroccan Food est juste (15 × 1 150 / 790 = 21,8). Le choix de 20 baghrir reste valable : c'est le rendement de Cooking with Alia pour exactement ces quantités.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (rendement « 16 5\" (12 cm) beghrir », quantités en tasses) ; My Moroccan Food (« Makes about 15 12 cm ») ; Cooking with Alia (« 20 medium baghrir ») ; calcul python3 (densités usuelles, approximatives)."
+  },
+  {
+   "champ": "sources[0].url",
+   "actuel": "https://web.archive.org/web/20251111210304/https://choumicha.ma/recette/35-beghrir-ou-crepes-aux-mille-trous.html?utm_source=chatgpt.com",
+   "propose": "https://web.archive.org/web/20251211050511/https://choumicha.ma/recette/35-beghrir-ou-crepes-aux-mille-trous.html",
+   "pourquoi": "Le lien actuel garde un paramètre de suivi (« ?utm_source=chatgpt.com ») qui n'a rien à faire dans l'appli. La copie du 11 décembre 2025 de l'adresse propre répond (code 200) et son texte de recette est identique, mot pour mot, à celui de la copie du 11 novembre 2025 (comparaison faite avec diff). Le site choumicha.ma reste hors ligne (erreur 525 le 7 novembre 2026).",
+   "gravite": "mineure",
+   "sources": "Index des copies web.archive.org (CDX) de choumicha.ma/recette/35- ; les deux copies lues le 7 novembre 2026."
+  },
+  {
+   "champ": "sources[0].name",
+   "actuel": "copie web.archive.org du 11 novembre 2025",
+   "propose": "copie web.archive.org du 11 décembre 2025",
+   "pourquoi": "Date de la copie propre proposée pour sources[0].url.",
+   "gravite": "mineure",
+   "sources": "web.archive.org, copie 20251211050511."
+  },
+  {
+   "champ": "sources[12].name",
+   "actuel": "Cooking with Alia, « 496 - Baghrir",
+   "propose": "Cooking with Alia (Alia Al Kasimi, cuisinière marocaine née à Rabat, d'après Femmes du Maroc), « 496 - Baghrir",
+   "pourquoi": "La page de la recette ne donne pas le nom complet de l'autrice. Femmes du Maroc (magazine marocain, 24 décembre 2015) l'identifie : Alia Al Kasimi, née à Rabat en 1981, créatrice de la chaîne « Cooking with Alia » ; sa toute première vidéo, en 2008, filmait sa grand-mère marocaine en train de faire des baghrir. C'est la source des quantités retenues : son origine marocaine renforce la recette.",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc, « Alia Al Kasimi Itinéraire d'une toquée », 24 décembre 2015 (source ajoutée)."
+  },
+  {
+   "champ": "unverified[11]",
+   "actuel": "Cooking with Alia : l'autrice dit partager la cuisine marocaine de son enfance, sans nom complet sur la page.",
+   "propose": "Cooking with Alia : le nom complet de l'autrice n'est pas sur la page de la recette ; Femmes du Maroc (24 décembre 2015) l'identifie comme Alia Al Kasimi, Marocaine née à Rabat, dont la première vidéo (2008) montrait les baghrir de sa grand-mère.",
+   "pourquoi": "Point désormais vérifié dans une source marocaine.",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc, 24 décembre 2015."
+  },
+  {
+   "champ": "unverified[10]",
+   "actuel": "Le360, Hespress, Femmes du Maroc et Chhiwat : aucune recette de baghrir trouvée avant que le quota de recherches web de la session soit épuisé ; non consultés.",
+   "propose": "Le360, Hespress et Chhiwat : non consultés, faute d'outil de recherche web (la recherche de Le360 ne s'affiche qu'avec un navigateur ; Hespress refuse l'accès automatique). Femmes du Maroc : sa recherche interne ne donne aucune recette de baghrir.",
+   "pourquoi": "Femmes du Maroc a été consulté par sa recherche interne le 7 novembre 2026 : aucun article de recette sur le baghrir (seulement des articles sur le ftour et le portrait d'Alia Al Kasimi). Le360 (page de recherche remplie en JavaScript) et Hespress (erreur 403) n'ont pas pu l'être.",
+   "gravite": "mineure",
+   "sources": "femmesdumaroc.com/?s=baghrir ; fr.le360.ma/recherche/?q=baghrir ; hespress.com (403), le 7 novembre 2026."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Rapport semoule / farine (300 g / 100 g, soit 75 % de semoule) : exactement celui de Choumicha n° 1067 (450 g de semoule fine de blé dur, 150 g de farine de blé tendre) et de Cooking with Alia (300 g, 100 g). Les parts de semoule de discrepancies[0], recalculées avec python3, sont exactes : 86,2 % (My Moroccan Food, 250 g et 40 g), 70 % (Morocco World News 2019, 350 g et 150 g), 50 % (Bladi.net, 200 g et 200 g), 100 % (Choumicha n° 35 ; Lalla Moulati n° 4590 et n° 74836). Taste of Maroc : 2 volumes pour 1, soit environ 73 % en poids, comme Morocco World News 2022 (1 tasse et ½ tasse). Lalla Moulati n° 10789, non comptée, mélange 1 verre de semoule fine, ½ verre de farine fine et ¼ de verre de farine de force. La médiane reste 75 %. La semoule fine de blé dur est confirmée par Choumicha (« 375 g de semoule fine de blé dur ») et Taste of Maroc (« Fine semolina or durum flour is usually regarded as key to a good beghrir », couleur jaune, alerte sur le curcuma).",
+  "Les deux levures et le sel : les deux levures se retrouvent chez Choumicha (n° 35 et n° 1067), Bladi.net, Cooking with Alia, My Moroccan Food, Taste of Maroc, Morocco World News (2019 et 2022) et Lalla Moulati (n° 10789 et n° 74836) ; seules les versions à long repos de Yabiladi (levure de boulangerie, 1 h) et de Lalla Moulati n° 4590 (levure fraîche, jusqu'au double de volume) n'ont que la levure de boulanger. Taste of Maroc explique le rôle de chacune (la levure fait monter et crever les bulles ; la levure chimique a raccourci le repos, d'où les « instant beghrir »). Pour 400 g de sec (python3) : levure boulangère de 0,67 à 3,6 c. à c., médiane 1,88 (le texte dit 1,7 à 1,9, exact) ; les 2 c. à c. retenues sont celles de Cooking with Alia (« 6 grams (2 teaspoons) dry yeast ») ; levure chimique : 9,33 g (Choumicha n° 1067), 12,8 g (Morocco World News 2019), 2,76 c. à c. (My Moroccan Food), 2,3 à 2,4 c. à c. (Taste of Maroc), 3,4 à 3,6 c. à c. (Morocco World News 2022) : valeurs du texte exactes, et 2 c. à c. se situe entre Cooking with Alia (1½ c. à c., 8 g) et Taste of Maroc ; sel : ¾ c. à c., dans la fourchette 0,5 à 1,2 (voir la correction de la médiane).",
+  "Eau (750 ml au plus, versée en deux fois) : 750 ml pour exactement 300 g de semoule et 100 g de farine chez Cooking with Alia (« 750ml (3 cups plus 2 tablespoons) lukewarm water » ; « Add 500 ml of water and mix. Keep adding the rest of the water little by little and mixing, until you reach the desired consistency ») ; ¾ l pour 400 g chez Bladi.net ; Morocco World News 2019 verse aussi en deux fois (« Add 600ml of water then mix well », puis le reste petit à petit). Pour 400 g de sec (python3) : 500 ml (Choumicha n° 1067), 533 (Choumicha n° 35), 640 (Morocco World News 2019), 690 (My Moroccan Food), 750 (Cooking with Alia, Bladi.net), 848 à 884 (Taste of Maroc) ; médianes 665 ml et 690 ml : chiffres du texte exacts. Morocco World News 2022, non compté, donne 814 à 849 ml. Les 750 ml sont dans la fourchette, et les deux tiers d'abord (500 ml) suivent Cooking with Alia.",
+  "Repos de 15 min : Choumicha n° 35 (« la laisser reposer 15mn, des petites bulles vont se former en sa surface ») et n° 1067 (« la couvrir et la laisser reposer 15 mn ») ; Taste of Maroc (« about 10 to 15 minutes, or until the batter appears light and foamy with lots of tiny bubbles », sous film) ; Morocco World News 2019 (« In a warm place, let the batter rest for 10 to 15 minutes or more ») ; Cooking with Alia (20 min, sous un torchon propre, au chaud). Le minuteur de 15 min correspond à time.rest.",
+  "Poêle non graissée : Taste of Maroc (« Normally you shouldn't need to oil the pan, but you can use a lightly oiled paper towel to clean off any residue between making pancakes ») ; aucune matière grasse dans les méthodes de Choumicha n° 35 et n° 1067 (« essuyer la poêle », « à l'aide d'un torchon doux »), Bladi.net, Cooking with Alia, Morocco World News 2019 (vérifié sur le texte brut de la copie web.archive.org du 23 août 2025 : la page ne parle ni d'huile ni de beurre pour la poêle) et Lalla Moulati n° 4590 et n° 74836. My Moroccan Food (« Grease a non-stick pan ») et Morocco World News 2022 (« grease it with a little oil ») graissent : l'écart est bien signalé dans discrepancies[8].",
+  "Cuisson d'un seul côté : My Moroccan Food (« Baghrir are cooked only on one side. Never flip them while baking them as you will loose the holes ») ; Cooking with Alia (« Do not flip, Baghrir is cooked on one side only ») ; Taste of Maroc (« Cook the pancake without turning until set with no wet spots, about one to two minutes », test du doigt) ; Morocco World News 2019 et 2022 (« You do not need to flip ») ; Lalla Moulati n° 4590 (« و لا يقلب ») ; Wikipédia (fr) (« ne sont cuites que sur une seule face »). Variante khringo : Taste of Maroc (retournés brièvement dans certaines régions) et Wikipédia (en) (kh'ringu au Maroc et en Algérie).",
+  "Refroidissement à plat : Taste of Maroc (« Transfer it to a clean towel to cool » ; « Be sure to cool the beghrir in a single layer before stacking them, otherwise they'll stick ») ; Cooking with Alia (« Place the Baghrir on a flat surface in a single layer, preferably on a clean cloth. Do not stack the Baghrir one on top of each other or they would stick ») ; My Moroccan Food (ne pas les empiler chauds, ou les séparer par un papier) ; Morocco World News 2022 (« Place them separately on a clean kitchen towel ») ; Choumicha n° 1067 (« la déposer sur un torchon propre »). À noter : Lalla Moulati n° 4590 garde au contraire les baghrir chauds jusqu'au service (« نحتفظ بالبغرير ساخن في أواني تحفظ الحرارة », dans des récipients qui gardent la chaleur) ; pratique différente, sans contradiction avec la consigne de ne pas les empiler chauds.",
+  "Sirop beurre-miel : parts égales chez My Moroccan Food (« heat equal portions of honey and butter until melted », eau de fleur d'oranger facultative) et chez Lalla Moulati n° 4590 (2 cuillères de beurre végétal, 2 de miel) ; Cooking with Alia (quantités « to your taste », feu moyen-doux jusqu'à ce que le beurre soit fondu et le miel bouillonne ; côté troué trempé « for a few seconds », posé trous vers le haut, servi aussitôt) ; Choumicha n° 35 (100 g de beurre, 200 g de miel, 3 c. à s. de crème fraîche, feu doux, émulsionné à la fourchette, saucière au chaud) ; Taste of Maroc (« syrup made from melted butter and honey »). Lalla Moulati n° 4590 trempe aussi côté trous (« نعسلها من جهة الثقوب »).",
+  "Mise en garde du NHS : la page « Foods to avoid giving babies and young children » (dernière revue le 18 février 2026, prochaine en 2029) dit : « Do not give your child honey until they're over 1 year old », à cause du botulisme infantile. Recoupée par l'OMS (source ajoutée).",
+  "Autres textes vérifiés mot à mot dans les pages : Taste of Maroc (beghrir du commerce trop jaune, « a dead giveaway that a bit of turmeric or additive was thrown in » ; « Most Moroccans insist that a pan should be dedicated to the sole purpose of making beghrir » ; pâte versée au centre, « Don't swirl the pan » ; 12 cm ; consistance « a little thicker than crepe batter but much thinner than pancake batter » et « measuring precisely is key » dans la réponse de l'autrice du 17 février 2026 ; « Measure ingredients precisely » ; pâte trop épaisse : 1 ou 2 c. à s. d'eau et quelques minutes de repos ; trous trop petits : repos plus court et un peu d'eau, réponse du 5 mai 2023 ; batteur à main possible, réponse du 23 janvier 2023 ; conservation 2 jours, réfrigérateur s'ils sont trempés, congélation 2 à 3 mois avec un carré de film) ; Choumicha, astuce (semoule et farine de bonne qualité ; dose de levure et repos ; 5 à 10 min de repos en plus si la première crêpe n'a pas de trous ; poêle préchauffée, feu moyen à fort baissé en fin de cuisson) ; My Moroccan Food (fouet électrique sans blender ; eau « warmer than room temperature but not hot » ; poêle très chaude sinon peu de trous ; environ 1 min ; « they catch the topping and absorb it ») ; Lalla Moulati n° 4590 (poêle réservée, une poêle rayée fait coller ; ¼ de verre ; retiré avant de dorer ; petit-déjeuner ou après-midi, thé ou café), n° 10789 (ne pas trop laisser fermenter ; pâte versée sans l'étaler ; feu augmenté jusqu'aux trous puis baissé), n° 74836 (« 10 دقائق لا اقل و لااكثر », vinaigre blanc) ; Morocco World News 2019 (« precision is key », « neither too thick, not too thin », mixage 3 à 5 min, amlou, fromage frais et huile d'olive) ; Morocco World News 2022 (iftar, confiture, chocolat, ¼ de tasse) ; Yabiladi (goûter et petit-déjeuner, « servi généralement tièdes et accompagnées de miel et de beurre fondu », lait et jaune d'œuf, 1 h de repos, « 400cl d'eau tiède ») ; Bladi.net (1 h à 1 h 30, poêle en fonte ou antiadhésive) ; Wikipédia (en) (Algérie, Maroc, Tunisie ; trempés dans le mélange miel-beurre ; petit-déjeuner, en-cas, iftar).",
+  "Halal : farine, semoule, levures, sel, sucre, eau, beurre et miel ; ni porc ni alcool. Le vinaigre n'apparaît que dans deux variantes (Choumicha n° 1067 ; Lalla Moulati n° 74836, « خل ابيض », vinaigre blanc). Sécurité alimentaire : pas d'œuf ni de viande dans la recette de base ; conservation reprise de Taste of Maroc, avec les baghrir trempés au réfrigérateur.",
+  "Noms : البغرير (Wikipédia en, Cooking with Alia, Lalla Moulati) ; baghrir et beghrir (Taste of Maroc, « Beghrir or baghrir » ; Choumicha, « Beghrir ») ; « crêpes mille trous » (Wikipédia fr) et « crêpes au mille trous » (Choumicha).",
+  "Cohérence interne : minuteurs de 3 min (mixage, Choumicha) et de 15 min (repos) conformes au texte ; time.prep 10 + time.rest 15 + time.cook 25 = 50 min ; 25 min de cuisson pour 20 baghrir = le rythme de Taste of Maroc (20 min pour 16, soit 1,25 min chacun) et la durée de Choumicha n° 35 (25 min) ; les quantités de la liste sont celles des étapes ; la recette n'est pas classée « Rapide ». La moitié des recettes lues sans sucre est exacte (6 sur 12).",
+  "Rendu dans l'appli, simulé avec node à partir des fonctions de app.html (fmtQ, fill) : pour 1 baghrir, « 15 g de semoule fine, 5 g de farine, ⅛ c. à c. » de chaque levure, de sel et de sucre, « 40 ml d'eau tiède » ; pour 20 baghrir, « 300 g », « 100 g », « 2 c. à c. », « 2 c. à c. », « ¾ c. à c. », « 1 c. à c. », « 750 ml » et « les deux tiers des 750 ml d'eau tiède » ; pour 40 baghrir, « 600 g », « 200 g », « 4 c. à c. », « 4 c. à c. », « 1½ c. à c. », « 2 c. à c. », « 1,5 l » et « les deux tiers des 1,5 l d'eau tiède ». Beurre et miel (q null) s'affichent par leur nom. Aucun problème.",
+  "Liens : toutes les pages citées répondent le 7 novembre 2026 (code 200), sauf Morocco World News, qui renvoie à curl une page de contrôle Cloudflare (403, « Just a moment... ») mais se lit avec l'outil de lecture web ; les deux articles y ont été lus, et l'article de 2019 aussi sur sa copie web.archive.org du 23 août 2025 (texte brut identique aux citations ; aucune copie archivée trouvée pour celui de 2022, lu deux fois avec l'outil, avec des réponses concordantes). Le site de Taste of Maroc et celui de Choumicha ne sont lus que par leurs copies web.archive.org (choumicha.ma répond par une erreur 525 : hors ligne). Dates et auteurs des sources exacts (My Moroccan Food 28 avril 2015 ; Yabiladi 15 mars 2013 ; Lalla Moulati 10 novembre 2014, 9 janvier 2015, 2 juillet 2017 ; Morocco World News 17 août 2019, Layla Dahamou, et 18 février 2022, Mariya Sahnouni ; Cooking with Alia 23 mai 2017 ; Taste of Maroc, mise à jour du 12 novembre 2019)."
+ ],
+ "non_verifiable": [
+  "Le360, Hespress et Chhiwat : non consultés, faute d'outil de recherche web (quota épuisé). La recherche de Le360 ne s'affiche qu'avec un navigateur (le panneau navigateur est exclu par les consignes) ; Hespress répond 403 aux lecteurs automatiques (non contourné) ; l'index des copies web.archive.org a expiré (504) pour Le360. Femmes du Maroc : recherche interne et index des copies sans recette de baghrir. La recherche interne de Lalla Moulati a été utilisée en plus.",
+  "Durées de préparation (10 min) et de cuisson (25 min), et rendement de 20 baghrir : calculés d'après les sources, pas chronométrés ni testés (comme l'indique déjà la recette).",
+  "Conservation : une seule source (Taste of Maroc) ; aucune deuxième source trouvée. L'avis d'Arabic Post sur le congélateur, cité par la recette comme non lu, n'a pas été lu non plus.",
+  "Poids du « sachet » de levure chimique de Choumicha n° 35 : non indiqué sur la page.",
+  "Le type de levure sèche n'est pas précisé de la même façon partout (« dry yeast » chez Cooking with Alia et Taste of Maroc, « active dry yeast » chez My Moroccan Food et Morocco World News 2022, « baking yeast » chez Morocco World News 2019) ; presque toutes la mélangent directement aux autres ingrédients, Bladi.net la délayant d'abord dans un peu d'eau tiède."
+ ]
+}

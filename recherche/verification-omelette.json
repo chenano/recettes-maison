@@ -1,0 +1,129 @@
+{
+ "slug": "omelette",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Food Standards Agency (agence sanitaire du Royaume-Uni), guide « Salmonella », sur GOV.UK, mis à jour le 20 août 2026, lu le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/salmonella/salmonella",
+   "ce_qu_elle_confirme": "Les personnes les plus exposées à une forme grave de salmonellose sont les jeunes enfants, les femmes enceintes, les personnes atteintes d'une maladie (cancer, diabète, maladie du foie ou des reins) et les personnes âgées ; hors de chez elles, ces personnes doivent manger des œufs bien cuits, car ces œufs peuvent ne pas porter la marque British Lion. Même consigne que la FDA pour les personnes fragiles."
+  },
+  {
+   "name": "NHS (service de santé du Royaume-Uni), « Foods to avoid in pregnancy », page revue le 15 juin 2026, lue le 7 novembre 2026",
+   "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+   "ce_qu_elle_confirme": "Pendant la grossesse, les œufs de poule sans le tampon British Lion ni le label Laid in Britain ne se mangent que bien cuits, jamais crus ni à moitié cuits."
+  },
+  {
+   "name": "Anses, infographie « Consommation des œufs : vrai ou faux », 20 juillet 2020, lue le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/consommation-oeufs",
+   "ce_qu_elle_confirme": "Les œufs cassés ou fêlés ne doivent pas être consommés : il faut les jeter ; les œufs ne doivent en aucun cas être lavés avant d'être stockés ou consommés ; les préparations à base d'œufs sans cuisson se mangent sans délai, ou dans les 24 heures si elles sont gardées au froid."
+  },
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », article du 24 décembre 2020, lu le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "ce_qu_elle_confirme": "Source officielle française qui recoupe la FDA : « ne pas conserver les aliments plus de 2 heures à température ambiante avant réfrigération » ; garder 4 °C dans la zone la plus froide du réfrigérateur."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « أومليط الخضر » (omelette aux légumes), 22 février 2019, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/185013.html",
+   "ce_qu_elle_confirme": "Nom arabe : la recette appelle le même plat « أومليط » dans le titre, « الأومليت » et « العجة » dans le texte ; « عجة » désigne donc bien l'omelette sur un site marocain."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « طريقة تحضير عجة بطاطس روعة » (omelette aux pommes de terre), 4 mai 2019, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/193728.html",
+   "ce_qu_elle_confirme": "« عجة » pour une omelette (œufs battus versés dans la poêle sur les pommes de terre)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[1].text",
+   "actuel": "Casse les œufs dans un bol ({{oeufs:full}} en tout). Si tu fais plusieurs omelettes, prends un bol par omelette et partage les œufs et les herbes.",
+   "propose": "Casse les œufs : 3 par omelette, dans un bol pour chacune ({{oeufs:full}} en tout).",
+   "pourquoi": "Lecture pour plusieurs omelettes. Telle quelle, pour la recette de base (2 omelettes), l'appli affiche « Casse les œufs dans un bol (6 œufs frais en tout) », puis demande un bol par omelette : on peut avoir déjà tout cassé dans un seul bol. Le texte proposé donne « 3 œufs frais en tout » pour 1 omelette, « 6 » pour 2, « 12 » pour 4, et se lit bien dans tous les cas. Les herbes se partagent à l'étape suivante, où elles sont ajoutées.",
+   "gravite": "mineure",
+   "sources": "Escoffier, Le Guide culinaire (omelette type de 3 œufs) ; Jules Gouffé (1873), cité par Wikipédia (plusieurs omelettes plutôt qu'une trop grosse) ; simulation du rendu de l'appli."
+  },
+  {
+   "champ": "steps[2].text",
+   "actuel": "Ajoute le {{sel}}, le {{poivre}} et les herbes.",
+   "propose": "Dans chaque bol, ajoute le {{sel}}, le {{poivre}} et sa part d'herbes.",
+   "pourquoi": "Suite de la correction précédente : c'est à cette étape que les herbes vont dans les œufs, il faut donc les partager ici. Rendu : « Dans chaque bol, ajoute le sel fin, le poivre et sa part d'herbes. »",
+   "gravite": "mineure",
+   "sources": "Chef Simon (herbes ajoutées aux œufs avant de battre) ; Escoffier (une cuillerée de fines herbes par omelette de 3 œufs)."
+  },
+  {
+   "champ": "steps[3].text",
+   "actuel": "Mets dans la petite poêle la part de beurre d'une omelette ({{beurre}} en tout) et chauffe sur feu moyen.",
+   "propose": "Mets 15 g de beurre dans la petite poêle (la part d'une omelette ; {{beurre}} en tout) et chauffe sur feu moyen.",
+   "pourquoi": "Pour la recette de base, l'appli affiche « la part de beurre d'une omelette (30 g en tout) » : le seul chiffre visible est 30 g, et on risque de tout mettre dans la poêle. Les 15 g par omelette ne changent pas avec le nombre de parts, on peut donc les écrire en clair ; le repère garde le total (15 g, 30 g, 60 g pour 1, 2, 4 omelettes).",
+   "gravite": "mineure",
+   "sources": "Escoffier, Le Guide culinaire (15 g de beurre pour l'omelette de 3 œufs) ; note de l'ingrédient (« 15 g par omelette ») ; simulation du rendu."
+  },
+  {
+   "champ": "steps[4].text",
+   "actuel": "Verse les œufs battus dans la poêle chaude.",
+   "propose": "Verse les œufs battus d'un bol dans la poêle chaude.",
+   "pourquoi": "Avec plusieurs omelettes, « les œufs battus » peut se lire comme tous les œufs ; la poêle ne doit recevoir que ceux d'une omelette (trop d'œufs pour la poêle donnent une omelette épaisse et dure, comme le dit le dixième secret).",
+   "gravite": "mineure",
+   "sources": "Wikipédia, « Omelette », d'après Cora Millet-Robinet (1884) ; Jules Gouffé (1873), cité par Wikipédia."
+  },
+  {
+   "champ": "steps[7].text",
+   "actuel": "S'il y a d'autres omelettes, recommence avec le bol suivant.",
+   "propose": "S'il y a d'autres omelettes, reprends à l'étape « Chauffe le beurre » avec le bol suivant.",
+   "pourquoi": "Précise à partir d'où recommencer (beurre neuf dans la poêle, puis cuisson), ce qui n'était pas dit.",
+   "gravite": "mineure",
+   "sources": "Escoffier (15 g de beurre par omelette) ; structure des étapes de la recette."
+  },
+  {
+   "champ": "serving",
+   "actuel": "S'il en reste, mets-la au réfrigérateur dans les 2 heures, mange-la",
+   "propose": "S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la",
+   "pourquoi": "La page de la FDA déjà citée le dit pour les œufs : « Never leave cooked eggs or egg dishes out of the refrigerator for more than 2 hours or for more than 1 hour when temperatures are above 90° F » ; 90 °F = 32,2 °C (calcul python). Utile par forte chaleur.",
+   "gravite": "mineure",
+   "sources": "FDA, « What You Need to Know About Egg Safety » (contenu à jour au 5 mars 2024) ; conversion python3."
+  },
+  {
+   "champ": "ingredients[0].items[0].note",
+   "actuel": "3 par omelette",
+   "propose": "3 par omelette ; jette ceux qui sont fêlés ou cassés, et ne les lave pas (Anses)",
+   "pourquoi": "L'omelette reste baveuse, donc peu cuite : les deux règles de l'Anses sur l'œuf cru comptent ici. Rien ne les disait dans la recette.",
+   "gravite": "mineure",
+   "sources": "Anses, infographie « Consommation des œufs : vrai ou faux » (20 juillet 2020)."
+  },
+  {
+   "champ": "discrepancies[9]",
+   "actuel": "Temps : Chef Simon compte 10 minutes au total ; la répartition 5 + 5 est une estimation.",
+   "propose": "Temps : Chef Simon compte 10 minutes au total pour une seule omelette ; les 5 + 5 minutes annoncées ici pour deux omelettes, cuites l'une après l'autre, sont une estimation.",
+   "pourquoi": "La fiche de Chef Simon est pour 1 personne, soit une omelette de 3 œufs (« Ingrédients 1 personne », préparation 10 min, données structurées : total 10 min). La phrase actuelle laisse croire que ses 10 minutes valent pour les deux omelettes de la recette.",
+   "gravite": "mineure",
+   "sources": "Chef Simon, « Omelette roulée aux fines herbes » (page et données structurées, relues deux fois)."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 12 liens répondent (code 200, le 7 novembre 2026) et disent ce qui leur est attribué.",
+  "Escoffier, Le Guide culinaire (1903), transcription Wikisource : goûts variés, « très cuite », « à point » ou « déliquescente », et « l'essentiel est donc de connaître les préférences des convives » ; exécution « question d'habitude et de tour de main » ; définition « des œufs brouillés d'un genre spécial enfermés dans une enveloppe d'œufs coagulés » (citation exacte) ; omelette type de 3 œufs, demi-pincée de sel fin, prise de poivre, 15 g de beurre ; omelette roulée renversée sur le plat et frottée d'un morceau de beurre pour briller ; fines herbes : persil, ciboulette, cerfeuil et estragon hachés, « dans les proportions d'une cuillerée », et « c'est une erreur absolue » d'appeler ainsi une omelette au persil seul ; omelette « à la Chartres » (une pincée d'estragon haché) ; aux champignons (40 g émincés crus et sautés au beurre).",
+  "Chef Simon, « Omelette roulée aux fines herbes » (publiée le 7 décembre 2011, modifiée le 10 mai 2026), relue deux fois : « Difficulté moyenne » ; préparation 10 min ; pour 1 personne : 3 œufs frais, sel, poivre, beurre fondu, herbes au choix (ciboulette, cerfeuil, coriandre) ciselées et non hachées (« goût de gazon ») ; battre à la fourchette sans excès ; beurre clarifié ou beurre et huile ; poêle chaude ; ramener au centre ce qui coagule ; cuisson baveuse, moelleuse ou bien cuite ; baisser le feu, pencher la poêle au-dessus de l'assiette, décoller à la spatule, l'omelette roule ; absence de coloration « (très important) » ; lustrée au beurre fondu, servie sans attendre ; variante au lait (6 œufs et 1,5 dl de lait au lieu de 9 œufs pour 4).",
+  "Larousse : omelette, « Œufs battus et cuits rapidement à la poêle, seuls ou avec divers ingrédients » ; baveux, « Se dit d'une omelette assez peu cuite pour que l'intérieur reste moelleux ». CNRTL, « herbe » : fines herbes, plantes aromatiques pour assaisonner, exemple « Omelette aux fines herbes », et la citation de L. Lagriffe (1968) sur l'estragon qui complète le cerfeuil, la ciboulette ou la pimprenelle.",
+  "Wikipédia, « Omelette », notes vérifiées une à une : 2 à 3 œufs par personne (Maincent-Morel) ; jamais plus de 8 œufs, mieux vaut en faire 2 ou 3 (Gouffé, 1873) ; battre peu (Gouffé ; Bautte) ; poêle « raisonnablement chaude », très bon beurre jamais brûlé ; ramener les bords au centre pour que l'œuf liquide y coule et cuise ; fourchette en métal qui abîme l'antiadhésif ; cuisson qui doit rester rapide ; trop d'œufs pour la poêle, omelette épaisse et dure (Millet-Robinet, 1884) ; trop cuite, sèche (Liger) ; fine couche non coagulée avant de plier ou rouler ; rouler en inclinant la poêle (Belèze) ; « lustrer » au beurre fondu (Maincent-Morel) ; dorée en dessous selon Les Soupers de la cour (1778) ; règle de Cuisine et Vins de France, citée par Maurice Lelong ; « demande un certain tour de main » ; salade verte permise par l'usage (d'après L. Branchereau, 1889) ; nom arabe « العجة ».",
+  "Wikipédia, « Fines herbes » : définition d'Escoffier pour l'omelette (« persil, ciboulette et un peu de cerfeuil et d'estragon »), reprise par le Larousse gastronomique de 1938. Wikipedia en anglais : omelette française peu ou pas dorée (Julia Child) ou dorée (Ginette Mathiot, 1955).",
+  "Great British Chefs (8 décembre 2014, mis à jour le 14 février 2025) : 3 œufs battus à la fourchette, sel, poivre, une noix de beurre, petite poêle sur feu moyen, centre encore juste coulant, pliée en deux, servie tout de suite ; herbes ajoutées aux œufs ; fromage, garniture classique ; selon la page, la plupart des chefs disent qu'il faut un peu de savoir-faire.",
+  "Il Giornale del Cibo (Monica Face, 14 octobre 2022) : deux œufs au plus par portion ; poêle antiadhésive de 18 à 20 cm ; 20 g de beurre pour 4 œufs, versés quand le beurre fait des bulles ; 5 g par œuf, comme les 15 g pour 3 œufs d'Escoffier (calcul python). Seuls ces repères sont repris (sa recette contient du jambon, non repris).",
+  "FDA, « What You Need to Know About Egg Safety » (contenu à jour au 5 mars 2024), relue deux fois : enfants, personnes âgées, femmes enceintes et personnes immunodéprimées plus exposés à une forme grave ; cuire les œufs jusqu'à ce que jaune et blanc soient fermes ; plats aux œufs au réfrigérateur, à consommer sous 3 à 4 jours ; pas plus de 2 heures hors du réfrigérateur ; réchauffage à 165 °F (73,9 °C, donc 74 °C, calcul python). L'astuce de l'étape « Arrête quand c'est encore baveux » la résume fidèlement ; la FSA et le NHS donnent la même consigne pour les personnes fragiles et les femmes enceintes (sources ajoutées).",
+  "Difficulté « Moyen » justifiée : « Difficulté moyenne » chez Chef Simon (« maîtriser parfaitement la cuisson d'une omelette roulée n'est pas aussi simple qu'il n'y paraît ») ; « question d'habitude et de tour de main » chez Escoffier ; « demande un certain tour de main » sur Wikipédia ; un peu de savoir-faire selon la plupart des chefs, d'après Great British Chefs.",
+  "Catégorie « Rapide » : 5 + 5 = 10 min, très en dessous de 30 min.",
+  "Nom arabe « عجة » : confirmé par trois sources (Wikipédia en arabe, article relié à « Omelette » ; Wikipédia en français, « l'arabe العجة » ; Lalla Moulati, qui emploie « العجة » et « عجة » pour l'omelette).",
+  "Halal : œufs, beurre, herbes ; la variante au fromage porte la note sur la présure ; les recettes lues qui contiennent du jambon, du lard ou de l'alcool (Il Giornale del Cibo, Great British Chefs, autres omelettes d'Escoffier) ne sont pas reprises.",
+  "Cohérence interne : chaque ingrédient de la liste apparaît dans une étape ; pas de minuteur ni de durée chiffrée dans les étapes.",
+  "Rendu dans l'appli (fonctions de app.html exécutées telles quelles sous Node, résultat identique à une simulation python), avant corrections : pour 1 omelette, « (3 œufs frais en tout) », « (15 g en tout) » ; pour 2, « 6 œufs frais », « 30 g » ; pour 4, « 12 œufs frais », « 60 g » ; « sel fin », « poivre », les herbes et le beurre à lustrer s'affichent par leur nom. Après corrections (steps[1] à steps[4] et steps[7]), le texte se lit bien pour 1, 2 et 4 omelettes.",
+  "Secrets, erreurs, variantes et service retrouvés dans les sources : définition d'Escoffier et de Cuisine et Vins de France ; fines herbes ; mesures d'Escoffier ; herbes ciselées (Chef Simon) ; battre peu ; beurre jamais bruni, beurre clarifié ; pas de coloration (Chef Simon, Julia Child) ; cuisson rapide (Larousse, Wikipédia) ; baveuse et goûts de chacun (Larousse, Escoffier, Chef Simon) ; taille de la poêle (Millet-Robinet, Il Giornale del Cibo) ; lustrer ; plusieurs omelettes plutôt qu'une grosse (Gouffé) ; champignons, Chartres, coriandre, lait, pliage en trois ou en deux, fromage."
+ ],
+ "non_verifiable": [
+  "Avis de l'Anses sur les œufs peu cuits pour les personnes fragiles : rien d'explicite dans les pages lues (« dix gestes simples », infographie sur les œufs) ; sans moteur de recherche, je n'ai pas trouvé de page de l'Anses ou de Santé publique France sur ce point. La FDA, la FSA et le NHS, eux, le disent ; la note actuelle (FDA) suffit.",
+  "Nom en darija : Lalla Moulati écrit « أومليط » dans plusieurs titres en darija (par exemple « أومليط الخضر », 22 février 2019), mais aucune source lue n'en donne une transcription en lettres latines ; le champ reste vide. Si tu acceptes l'écriture arabe dans ce champ, « أومليط » est la forme sourcée.",
+  "Temps : Chef Simon met 10 minutes pour une seule omelette ; les 10 minutes annoncées pour deux omelettes cuites l'une après l'autre sont donc sans doute un peu justes, mais aucune source ne chiffre la cuisson d'une omelette ; la catégorie « Rapide » n'est pas en jeu.",
+  "Chef Simon « fondateur de chefsimon.com » : la page lue ne le dit pas ; non vérifié.",
+  "Larousse gastronomique de 1938 et Julia Child : connus seulement par Wikipédia, comme l'auteur l'a noté.",
+  "Conservation : la FDA dit 3 à 4 jours pour les plats aux œufs ; l'Anses écrit qu'une durée « inférieure à 3 jours est fréquemment recommandée » pour les plats cuisinés non préemballés, sans date limite de consommation. Les deux ne visent pas le même cas ; pas de correction, mais un délai plus court serait plus prudent pour une omelette restée baveuse.",
+  "Quota de recherche épuisé : seules les pages citées, d'autres pages des mêmes sites, la recherche interne de Lalla Moulati et des pages officielles trouvées par plan de site ont été lues ; Serious Eats n'a pas été ouvert."
+ ]
+}

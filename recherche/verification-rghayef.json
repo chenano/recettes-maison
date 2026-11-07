@@ -1,0 +1,179 @@
+{
+ "slug": "rghayef",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati, « المسمن او الرغايف معمرين بالكفتة و الفرماج – شهيوات رمضان », 22 mai 2018",
+   "url": "https://www.lalamoulati.net/133425.html",
+   "ce_qu_elle_confirme": "Le nom « رغايف معمرين » pour des galettes farcies, le msemen appelé aussi rghayef (« المسمن او الرغايف ») et leur place parmi les plats du ramadan."
+  },
+  {
+   "name": "Lalla Moulati, « رغايف معمرين بحشوة هائلة كيجيو رائعين فمائدة رمضان… », 28 avril 2019",
+   "url": "https://www.lalamoulati.net/192911.html",
+   "ce_qu_elle_confirme": "« رغايف معمرين » (rghayef farcis) servis à la table du ramadan."
+  },
+  {
+   "name": "Lalla Moulati, « رغيفة فالمقلاة بحشوة اقتصادية… », 2 septembre 2022",
+   "url": "https://www.lalamoulati.net/339448.html",
+   "ce_qu_elle_confirme": "Le singulier « رغيفة » (rghifa), écrit aussi dans d'autres titres du site ; seconde source après le « r'ghifa » de Choumicha."
+  },
+  {
+   "name": "Choumicha, « R'ghaifs au four feuilletés aux épinards et aux fromages » (n° 843), copie web.archive.org du 3 juillet 2016",
+   "url": "https://web.archive.org/web/20160703053659/http://www.choumicha.ma:80/recette/843-rghaifs-au-four-feuilletes-aux-epinards-et-aux-fromages.html",
+   "ce_qu_elle_confirme": "R'ghaifs farcis classés dans « Ramadan » ; farce refroidie avant de garnir ; boules huilées."
+  },
+  {
+   "name": "Choumicha, « R'ghaifs feuilletées à la confiture » (n° 847), copie web.archive.org du 2 juillet 2015",
+   "url": "https://web.archive.org/web/20150702182843/http://www.choumicha.ma:80/recette/847-rghaifs-feuilletees-a-la-confiture.html",
+   "ce_qu_elle_confirme": "R'ghaifs garnis de confiture d'abricots, classés dans « Ramadan » : le mot désigne aussi des galettes garnies sucrées."
+  },
+  {
+   "name": "Choumicha, « R'ghaifs aux épinards et aux crevettes » (n° 499), copie web.archive.org du 2 août 2017",
+   "url": "https://web.archive.org/web/20170802133340/http://www.choumicha.ma/recette/499-rghaifs-aux-epinards-et-aux-crevettes.html",
+   "ce_qu_elle_confirme": "Farce refroidie, « r'ghifa (crêpe) », 1 c. à s. de farce au milieu, côtés rabattus, four préchauffé à 180 °C ; recette non classée dans « Ramadan »."
+  },
+  {
+   "name": "Morocco World News, Layla Dahamou, « Moroccan Cuisine: Recipe for stuffed Msemen », 28 janvier 2013, copie web.archive.org du 19 août 2025",
+   "url": "https://web.archive.org/web/20250819055013/https://www.moroccoworldnews.com/2013/01/146197/moroccan-cuisine-recipe-for-stuffed-msemen/",
+   "ce_qu_elle_confirme": "Texte exact de l'article (le site refuse curl avec une erreur 403) : « known also to some Moroccans as Rghaif or Mlawi », « Msemen Maamer, (Stuffed msemen) », « Let the stuff cool », « 1 tbsp of the stuff in the middle », « medium high heat », « Flip it regularly », « Serve hot with tea in breakfast or for evening snack »."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "ingredients[0].items[2].note",
+   "actuel": "de viande halal, émietté ou haché finement",
+   "propose": "de viande halal (bœuf ou chameau le plus souvent, parfois agneau ou mouton) et de graisse halal, ou conservé dans l'huile d'olive seule ; émietté ou haché finement",
+   "pourquoi": "Le khlii est de la viande séchée confite dans la graisse : pour le halal, la graisse compte autant que la viande. Taste of Maroc : le gueddid est « usually beef or camel », aussi de l'agneau ou du mouton (surtout après l'Aïd al-Adha) ; il est confit dans du suif de bœuf (« beef suet (kidney fat) ») et de l'huile d'olive ; au marché de Fès, le khlii se vend « packed in a mix of fat and oil » ou « in olive oil only ». Ajout demandé pour le halal.",
+   "gravite": "majeure",
+   "sources": "Taste of Maroc, Nada Kiffa, « Moroccan Preserved Meat – Khlii or Khlea » (mise à jour du 13 septembre 2020, copie du 4 octobre 2026) ; consignes halal de l'application"
+  },
+  {
+   "champ": "secrets[7].text",
+   "actuel": "c'est du gueddid (viande séchée) confit longuement dans la graisse et l'huile.",
+   "propose": "c'est du gueddid (viande séchée au soleil, le plus souvent de bœuf ou de chameau, parfois d'agneau ou de mouton) confit longuement dans du suif de bœuf et de l'huile d'olive ; au marché, il se vend dans un mélange de graisse et d'huile, ou dans l'huile d'olive seule.",
+   "pourquoi": "Précise, d'après la source citée, de quelle viande et de quelle graisse est fait le khlii, ce qui compte pour le halal.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, Nada Kiffa, page khlii (copie du 4 octobre 2026)"
+  },
+  {
+   "champ": "unverified[9]",
+   "actuel": "le khlii du commerce est fait de bœuf, d'agneau ou de chameau (Taste of Maroc) ; vérifie qu'il vient de viande halal.",
+   "propose": "selon Taste of Maroc, le gueddid du khlii est le plus souvent de bœuf ou de chameau, parfois d'agneau ou de mouton, et il est confit dans du suif de bœuf et de l'huile d'olive, ou conservé dans l'huile d'olive seule ; aucune source lue ne dit si le khlii vendu en France est certifié halal : vérifie l'étiquette (viande et graisse) ou demande au boucher.",
+   "pourquoi": "Taste of Maroc ne parle pas du « khlii du commerce » en général : il dit que le gueddid est le plus souvent de bœuf ou de chameau, aussi d'agneau ou de mouton, et il décrit la graisse (suif de bœuf et huile d'olive) ; la graisse manquait pour le halal.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, Nada Kiffa, page khlii"
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "puis ajoute la viande hachée, les herbes",
+   "propose": "puis ajoute la viande hachée halal, les herbes",
+   "pourquoi": "Viande halal exigée, comme dans les autres recettes de l'application (tajine kefta, lentilles, loubia).",
+   "gravite": "mineure",
+   "sources": "Consignes halal de l'application"
+  },
+  {
+   "champ": "variants[1]",
+   "actuel": "À la graisse de bœuf (chehma) au lieu du khlii : Bladi.net met « 1 verre de gras de bœuf ou de khlii » ; à Fès, Guinaudeau décrit une farce de graisse de mouton ou de bœuf hachée, relevée de piment rouge doux et fort, cuite juste assez pour que la graisse commence à fondre.",
+   "propose": "À la graisse de bœuf halal (chehma) au lieu du khlii : Bladi.net met « 1 verre de gras de bœuf ou de khlii », ajouté à l'oignon adouci et cuit 5 minutes en remuant, comme le khlii ici ; à Fès, Guinaudeau décrit une farce de graisse de mouton ou de bœuf hachée, relevée de piment rouge doux et fort, cuite juste assez pour que la graisse commence à fondre, mais ces rghaif cuisaient ensuite au four du quartier.",
+   "pourquoi": "Halal : graisse d'un animal halal. Sécurité : la farce de Guinaudeau, à peine chauffée, allait ensuite au four commun (« carried to the common oven like bread ») ; dans cette recette à la poêle, la méthode de Bladi.net (graisse ajoutée à l'oignon adouci, puis 5 min de cuisson en remuant) est celle qui suit l'étape 2. L'Anses rappelle que 70 °C à cœur éliminent la majorité des microbes pathogènes.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, « Rghaifs aux oignons » ; Z. Guinaudeau-Franc, extrait ckbk ; Anses, 8 avril 2020"
+  },
+  {
+   "champ": "variants[4]",
+   "actuel": "Aux légumes et à l'agneau haché : poivrons, carottes et courgettes râpées, tomate, coriandre et épices, cuits jusqu'à évaporation de l'eau (Choumicha).",
+   "propose": "Aux légumes et à l'agneau haché halal : poivrons, carottes et courgettes râpées, tomate, coriandre et épices, cuits jusqu'à évaporation de l'eau et jusqu'à ce que la viande soit bien cuite (Choumicha ; Anses).",
+   "pourquoi": "Halal : agneau halal. Sécurité : chez Choumicha (n° 111), la viande hachée ne cuit que 2 + 2 minutes avec les légumes avant d'aller au four ; à la poêle, la variante doit dire, comme celle à la viande hachée, de bien cuire la viande. L'Anses recommande la viande hachée « bien cuite à cœur » pour les jeunes enfants, les femmes enceintes, les personnes âgées et immunodéprimées.",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 111 (copie du 20 mai 2015) ; Anses, 8 avril 2020 ; consignes halal de l'application"
+  },
+  {
+   "champ": "serving",
+   "actuel": "Choumicha range ses r'ghaifs farcis dans « Ramadan »",
+   "propose": "Choumicha range la moitié de ses r'ghaifs (5 recettes sur 10, dont celle à la viande hachée et aux légumes) dans « Ramadan »",
+   "pourquoi": "Sur les 10 recettes « r'ghaifs » de choumicha.ma (liste des pages archivées), 5 sont dans « Ramadan » : n° 111 (viande hachée et légumes), 75 (amandes), 843 (épinards et fromages), 845 (courgette, poivron et crevettes), 847 (confiture). Les n° 257, 497, 499, 501 et 855 ne le sont pas.",
+   "gravite": "mineure",
+   "sources": "Choumicha, catégories des recettes n° 75, 111, 257, 497, 499, 501, 843, 845, 847 et 855 (copies web.archive.org de 2015 à 2017)"
+  },
+  {
+   "champ": "ingredients[1].items[3].note",
+   "actuel": "de 290 à 360 ml",
+   "propose": "de 280 à 360 ml",
+   "pourquoi": "Recalcul python3 pour 565 g de farine et semoule : 282,5 ml chez Choumicha (25 cl pour 500 g), 286,4 ml chez Morocco World News (1,5 tasse, 354,9 ml, pour 700 g), 353,1 ml chez My Moroccan Food, 360 ml chez Cooking with Alia. Le bas de la fourchette est donc 280 ml, pas 290.",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 257 ; Morocco World News 2013 ; My Moroccan Food ; Cooking with Alia n° 941"
+  },
+  {
+   "champ": "discrepancies[9]",
+   "actuel": "Repos des pâtons : 5 min (Bladi.net), 10 min (Choumicha), 15 min",
+   "propose": "Repos : 5 min (Bladi.net) et 10 min (Choumicha n° 111) pour la pâte entière, avant de la diviser ; pour les pâtons, 15 min",
+   "pourquoi": "Bladi.net : « la laisser reposer cinq minutes avant de la diviser en boules » ; Choumicha n° 111 : « Couvrir la pâte et laisser reposer 10mn avant de l'utiliser ». Ces deux repos concernent la pâte entière, pas les pâtons.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, « Rghaifs aux oignons » ; Choumicha n° 111"
+  },
+  {
+   "champ": "time.prep",
+   "actuel": "45",
+   "propose": "60",
+   "pourquoi": "Les étapes de la phase « Préparation » comptent déjà 25 min de minuteurs (oignons 10 min, farce 5 min, pétrissage 10 min) : il ne resterait que 20 min pour émincer 4 gros oignons et le persil, mélanger la pâte et façonner 12 galettes. Les 45 min de MarocMama valent pour une farce crue, mixée, sans cuisson ; en ajoutant les 15 min de cuisson de la farce, la préparation fait 60 min (total affiché : 1 h 30 + repos, au lieu de 1 h 15).",
+   "gravite": "mineure",
+   "sources": "Minuteurs de la recette ; MarocMama, « Rghaif Stuffed Msemmen Recipe » (45 min de préparation, farce passée crue au robot)"
+  },
+  {
+   "champ": "discrepancies[15]",
+   "actuel": "préparation de 45 min (MarocMama ; Choumicha n° 111) et cuisson",
+   "propose": "préparation de 60 min : 45 min chez MarocMama, dont la farce est crue et mixée, plus les 15 min de cuisson de la farce (minuteurs de 10 et 5 min) ; Choumicha n° 111 annonce aussi 45 min, pour des r'ghaifs cuits au four ; cuisson",
+   "pourquoi": "Suit la correction de time.prep.",
+   "gravite": "mineure",
+   "sources": "MarocMama ; Choumicha n° 111 ; minuteurs de la recette"
+  },
+  {
+   "champ": "unverified[6]",
+   "actuel": "Le singulier « rghifa » : seule Choumicha l'écrit (« r'ghifa (crêpe) »).",
+   "propose": "Le singulier « rghifa » : écrit par Choumicha (« r'ghifa (crêpe) ») et, en arabe, par Lalla Moulati (« رغيفة ») ; son usage selon les régions n'a pas été vérifié.",
+   "pourquoi": "Lalla Moulati écrit « رغيفة » dans plusieurs titres (par exemple « رغيفة فالمقلاة بحشوة », 2 septembre 2022 ; « الرغيفة الملوية », 8 février 2021) : Choumicha n'est plus la seule source.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati, pages 339448 et 268059 et moteur de recherche du site ; Choumicha n° 75, 111, 497, 499, 501"
+  },
+  {
+   "champ": "sources[8].used_for",
+   "actuel": "Farce traditionnelle :",
+   "propose": "Farce donnée en exemple, à côté des amandes pilées et du sucre :",
+   "pourquoi": "Bladi.net ne dit pas « traditionnelle » : il donne cette farce d'oignon, de persil, de khlii et d'épices comme un exemple possible, après « par exemple d'amandes pilées et de sucre ».",
+   "gravite": "mineure",
+   "sources": "Bladi.net, « M'semmen »"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Sens 1, autre nom du msemen : Taste of Maroc (« called msemen or sometimes rghaif ») ; My Moroccan Food (« Msemen, also known as rghaif ») ; Wikipédia en anglais (« Msemmen… or rghaif (رغايف) » ; l'API de Wikipédia confirme que la page « Rghaif » renvoie à « Msemmen ») ; Morocco World News 2013 (« known also to some Moroccans as Rghaif or Mlawi ») ; Lalla Moulati (« المسمن او الرغايف معمرين », 22 mai 2018).",
+  "Sens 2, nom de la famille des galettes feuilletées : Morocco World News 2017 (« Square or round, Moroccan pancakes, also called rghaif », vérifié mot pour mot sur la copie du 18 août 2025) et 2019 (« meloui – also known as rghaif ») ; Taste of Maroc (msemen faits avec la « rghaif dough ») ; Lalla Moulati emploie aussi « الرغيفة الملوية » (8 février 2021).",
+  "Sens 3, surtout des galettes farcies : les 10 recettes de choumicha.ma dont le titre contient « r'ghaifs » (index des pages archivées) ont toutes une garniture et ont toutes été lues : n° 75 (amandes), 111 (viande hachée et légumes), 257 (viande hachée), 497 (viande hachée et oignons), 499 (épinards et crevettes), 501 (oignons et œufs), 843 (épinards et fromages), 845 (courgette, poivron et crevettes), 847 (confiture), 855 (petits pains au chocolat façon r'ghaifs) ; le moteur de recherche de Lalla Moulati donne 9 titres « رغايف معمرين » (aux oignons et aux œufs, aux légumes, au thon, aux pommes, à la kefta et au fromage, au poulet et aux amandes, au four…) ; « Msemen Maamer, (Stuffed msemen) » chez Morocco World News 2013 ; « Rghaifs aux oignons » chez Bladi.net ; rghaif de rue « really loaded with » oignons chez MarocMama ; rghaif farcis de Fès chez Guinaudeau.",
+  "Sens 4, pâtisseries sucrées : Choumicha n° 75 (r'ghaifs aux amandes frits, plongés dans le miel, parsemés de sésame ; catégories Ramadan et Aid Al Fitr) ; Lalla Moulati, « رغايف معسلة رمضانية » (8 mars 2023), « الوصفة الأصلية للرغايف المعسلين » (11 mars 2023), « حلويات العيد: الرغايف المكناسية باللوز » (18 avril 2023). Wikipédia en français ajoute, sans source, que les rghayef sont « généralement dégustés sucrés en dessert ».",
+  "Noms : « رغايف معمرين » (Lalla Moulati, titres de 2017 à 2019) ; « rghayef mâamrine » (Wikipédia en français) ; « Msemen Maamer » (Morocco World News 2013) ; singulier « r'ghifa » chez Choumicha (n° 75, 111, 497, 499, 501 et conseils) et « رغيفة » chez Lalla Moulati.",
+  "Farce, méthode : oignons à couvert environ 10 min, « soft and translucent » (My Moroccan Food) ; khlii ou gras ajouté à l'oignon adouci, puis « Laisser cuire en remuant cinq minutes » (Bladi.net) ; liquides évaporés (My Moroccan Food, « all liquids have evaporated » ; Choumicha n° 111, « jusqu'à évaporation de l'eau de végétation ») ; farce refroidie avant de garnir (My Moroccan Food, « I don't recommend assembling the msemen when the filling is still warm », car elle abîme la pâte et gêne le pliage ; Choumicha n° 257, 497, 501, 111 ; Morocco World News 2013, « Let the stuff cool » ; Cooking with Alia n° 939) ; préparée jusqu'à 2 jours avant, au réfrigérateur (My Moroccan Food).",
+  "Farce, quantités ramenées à 12 galettes (python3) : oignons 4 gros (My Moroccan Food), 4,8 (Choumicha n° 497, environ 10 galettes estimées d'après ses abaisses de 2 mm coupées en carrés de 15 cm), 7,2 (n° 501), 0,9 (Cooking with Alia n° 939 : 931 g de pâte / 70 g = 13,3 galettes) ; khlii 90 g (Cooking with Alia) et 120 g (Choumicha, m'laoui) ; huile 4 c. à s. (Choumicha n° 497 et 501) ; persil 1 bouquet (Bladi.net « 1 bon bouquet », Choumicha n° 501) ; paprika 2 c. à c. (My Moroccan Food ; Choumicha n° 257) ; cumin 1 c. à c. (My Moroccan Food ; Bladi.net « 1 petite cuillère ») ; poivre ½ c. à c. (Choumicha n° 497 ; Morocco World News 2013) ; piment facultatif (My Moroccan Food, « ½ teaspoon ground cayenne pepper (optional) ») ; sel à goûter car le khlii est assaisonné au sel, à l'ail, au cumin et à la coriandre (Taste of Maroc).",
+  "Pâte (python3) : 375 g de farine et 190 g de semoule fine, rapport 1,97 (Cooking with Alia n° 941 : 375 g, 190 g, 1 c. à c. de sel, 360 ml) ; eau ramenée à 565 g : 360, 353,1, 286,4 et 282,5 ml, médiane 319,8 ml, donc 320 ml ; sel ramené : 1 ; 1,41 ; 1,61 ; 0,57 c. à c., médiane 1,21 ; pâte d'environ 891 g / 12 = 74,3 g, d'où les pâtons d'« environ 75 g » ; pétrissage de 10 min (My Moroccan Food, Morocco World News ; 5 à 10 min chez Cooking with Alia, 10 à 15 min chez Choumicha) ; repos des pâtons de 15 min (Cooking with Alia).",
+  "Façonnage et cuisson : disque de 28 cm (Cooking with Alia) ; beurre fondu et huile à parts égales (Choumicha : 100 g et 10 cl ; Bladi.net : « moitié-moitié ») ; 1 à 2 c. à s. de farce au centre, bords libres (Choumicha 1 c. à s. ; Bladi.net 2 c. à s. ; My Moroccan Food 2 à 3 c. à s., « making sure the filling doesn't go over the edges ») ; trois bords puis le quatrième tiré (Bladi.net, « Tirer le quatrième bord pour renforcer la pâte fragile au niveau de la farce » ; Choumicha, conseils : dernière feuille sans farce, car « elle sert à renforcer la R'ghifa ») ; poêle chauffée puis huilée, feu moyen-vif (Cooking with Alia ; Morocco World News 2013, « medium high heat ») ; aplatir sans percer (My Moroccan Food, « without breaking the dough and keeping the filling enclosed ») à 12 cm (Cooking with Alia) ou 15 cm (My Moroccan Food) ; retourner plusieurs fois et presser les bords à la spatule (Cooking with Alia) ; planche en bois pour que la galette ne ramollisse pas (Cooking with Alia) ; servis chauds avec le thé (Morocco World News 2013, « Serve hot with tea in breakfast or for evening snack » ; Guinaudeau ; Choumicha n° 257 et 111, « Servir les r'ghaifs chaudes »).",
+  "Feu trop fort : Taste of Maroc (msemen, réponse à une lectrice : un feu trop fort fait « color too quickly but leave the middle uncooked » ; meloui : « Avoid too high of a heat ») ; Cooking with Alia (« the center is cooked ») ; MarocMama (cuire à feu doux « to ensure it cooks through »).",
+  "Variantes : viande hachée (Choumicha n° 497 : 300 g de viande, 4 oignons, persil, coriandre, paprika, sel, poivre, pour 500 g de pâte, viande cuite 5 à 8 min ; My Moroccan Food : 200 g de bœuf, 4 gros oignons, 4 poivrons pour 12 ; Morocco World News 2013 ; Cooking with Alia n° 939) ; khlii étalé (Cooking with Alia n° 941 : 1 c. à s. de khlii sur tout le disque, semoule mêlée d'une c. à c. de levure chimique, pliage en carré) ; oignons et œufs (Choumicha n° 501 : 6 oignons, persil, cannelle, gingembre, poivre, curcuma, 4 œufs incorporés « jusqu'à ce que le mélange devienne ferme », sucre glace et cannelle) ; légumes et agneau (Choumicha n° 111) ; épinards et crevettes (n° 499), épinards et fromages (n° 843) ; four à 180 °C (Choumicha n° 257, 497, 111, 499), dorure à l'œuf battu (n° 497, 499, 501), 18 à 20 min à 200 °C (My Moroccan Food), huile au pinceau en cours de cuisson pour « une jolie couleur et du croustillant » (Choumicha, conseils) ; sucrés (Choumicha n° 75 ; Lalla Moulati).",
+  "Sécurité alimentaire, page de l'Anses du 8 avril 2020 relue : plats cuisinés à domicile pas plus de 2 heures à température ambiante avant consommation ou réfrigération, et consommés dans les 3 jours ; 70 °C à cœur éliminent « la majorité des microorganismes pathogènes » ; réchauffer « jusqu'à ce que de la vapeur s'en échappe » ; décongélation possible « rapidement par la cuisson ou par le réchauffage ». La farce crue de MarocMama est écartée à juste titre. Congélation : Choumicha, conseils (demi-cuisson, refroidies, emballées une par une, 15 min au réfrigérateur, puis four).",
+  "Khlii : Taste of Maroc, Nada Kiffa (« a confit of Moroccan preserved meat », gueddid mijoté « in olive oil and suet » ; « opened jars should be stored in the fridge or freezer » ; on le trouve « in laminated flatbread ») : secret et erreur « Saler la farce sans goûter » conformes.",
+  "Guinaudeau (extrait ckbk, édition anglaise de 1995) : rghaif portés au four commun « like bread », épais d'environ un pouce, luisants de graisse et colorés au piment rouge, mangés chauds avec le thé du petit-déjeuner ; farce : « minced mutton or beef fat », piment doux et fort, persil, oignon, cumin ; « Cook all the ingredients slightly so that the fat begins to melt ».",
+  "Région et occasions : Femmes du Maroc, 14 juin 2016 (« A Fès… msemmen au khlii ») ; MarocMama (« sold as street food » ; « an American girl who married a Moroccan guy… we currently call Morocco home ») ; Lalla Moulati (rghayef farcis « فمائدة رمضان ») ; Choumicha (5 recettes dans « Ramadan »).",
+  "Levure : la discordance « sans levure » ne parle que de la levure de boulanger ; pour être complet, Choumicha n° 257 met un sachet de levure chimique dans le mélange beurre-huile du feuilletage, et Cooking with Alia une c. à c. dans la semoule à saupoudrer. Pas d'erreur dans la recette, qui n'en met pas.",
+  "Halal : ni porc ni alcool ; note sur la présure présente pour les fromages ; la graisse du khlii et la viande des variantes sont précisées par les corrections.",
+  "Cohérence interne : minuteurs identiques au texte (oignons 10 min, farce 5 min, pétrissage 10 min, repos des pâtons 15 min) ; repos affiché 15 min ; chaque quantité de la liste est reprise dans les étapes ; cuisson 30 min (MarocMama ; Choumicha n° 497 et 111).",
+  "Rendu dans l'appli, avec le code même d'app.html exécuté par node : pour 1 galette, « fais chauffer ⅜ c. à s. d'huile… l'oignon émincé (¼ gros oignon)… 8 g de khlii émietté, ¼ botte de persil ciselé, ⅛ c. à c. de paprika, ⅛ c. à c. de cumin, ⅛ c. à c. de poivre et, si tu aimes, un peu de piment fort moulu… ajoute du sel seulement si besoin… 30 g de farine, 16 g de semoule fine et ⅛ c. à c. de sel. Verse 25 ml d'eau tiède… 5 g de beurre fondu avec ⅜ c. à s. d'huile… un bol d'huile neutre (tournesol), ½ c. à s. de semoule fine » ; pour 12, « 4 c. à s.… (4 gros oignons)… 100 g… 1 botte… 2 c. à c.… 1 c. à c.… ½ c. à c.… 375 g… 190 g… 1 c. à c.… 320 ml… 60 g… 4 c. à s.… 6 c. à s. » ; pour 24, « 8 c. à s.… (8 gros oignons)… 200 g… 2 bottes… 4 c. à c.… 2 c. à c.… 1 c. à c.… 750 g… 380 g… 2 c. à c.… 640 ml… 120 g… 8 c. à s.… 12 c. à s. ». Les phrases se lisent bien ; pour 1 galette, l'arrondi de l'appli affiche ¼ de botte de persil (au lieu de 1/12) et ⅛ c. à c. de poivre (au lieu de 1/24). Défaut du code de l'appli, pas de la recette : en balayant 1 à 48 galettes, la fonction fmtQ affiche « 1 bottes de persil plat » à 13 et 14 galettes (pluriel choisi sur la valeur non arrondie) ; à corriger dans app.html.",
+  "Liens : les 24 sources citées répondent (Morocco World News refuse curl avec une erreur 403 mais s'ouvre avec l'outil de lecture web ; copie web.archive.org du 19 août 2025 pour l'article de 2013) et disent ce qui leur est attribué, sauf les points corrigés. Contrôle d'intégration : la clé « khlii » figure maintenant dans img/ing/banque.json."
+ ],
+ "non_verifiable": [
+  "Durée de cuisson d'une galette à la poêle : Cooking with Alia donne « 3 minutes on each side » (n° 939 et 941, aussi n° 936), mais 5 à 10 min par face à feu doux sur une autre de ses pages (« 026 – Msemmen (Moroccan Crepes) ») ; Morocco World News, MarocMama et My Moroccan Food ne donnent pas de durée. Pas de seconde source indépendante : l'absence de minuteur est justifiée. À 3 min par face, une galette à la fois, les 12 galettes prendraient environ 70 min, plus que les 30 min affichées (MarocMama) ; ce chiffre sourcé est laissé tel quel.",
+  "Délai de 3 jours si la farce est préparée 2 jours à l'avance : l'Anses ne dit pas si une nouvelle cuisson remet le délai à zéro ; par prudence, il vaudrait mieux compter les 3 jours dès la cuisson de la farce, mais aucune source lue ne le dit : pas de correction proposée.",
+  "Certification halal du khlii vendu en France : aucune source lue.",
+  "Sens du mot selon les régions : Hespress refuse l'accès (Cloudflare, erreur 403), non contourné ; la recherche interne de Le360 ne marche qu'en JavaScript ; sans recherche web (quota épuisé), rien de plus n'a pu être cherché.",
+  "Guinaudeau : seul l'extrait public de ckbk a été lu ; la date de l'édition française n'a pas été vérifiée.",
+  "Lalla Moulati : méthodes en vidéo, non vues ; seuls les titres et les listes d'ingrédients ont été lus.",
+  "Poids d'un « gros oignon » et volume réel de la farce : non mesurés ; aucune source ne les donne.",
+  "Morocco World News 2019 : lu seulement avec l'outil de lecture web, sans copie sur web.archive.org."
+ ]
+}

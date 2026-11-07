@@ -1,0 +1,397 @@
+{
+  "slug": "malwi",
+  "title": "Malwi (meloui), galettes feuilletées en spirale",
+  "darija": "malwi ou meloui (pluriel : malawi, mlawi)",
+  "arabic": "ملوي",
+  "tagline": "Une pâte étirée très fin, pliée en bande puis roulée en escargot : un malwi bien fait se déroule couche par couche, tout chaud, avec du beurre et du miel.",
+  "category": "Pain",
+  "occasion": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+  "region": "Tout le Maroc (en vente dans la rue et chez les boulangers) ; un grand classique du ftour à Rabat",
+  "servings": 10,
+  "servings_label": "galettes",
+  "time": {
+    "prep": 45,
+    "cook": 30,
+    "rest": 30
+  },
+  "difficulty": "Moyen",
+  "equipment": [
+    "Un grand saladier (ou une gsaa)",
+    "Une balance de cuisine",
+    "Un grand plan de travail lisse, d'au moins 30 cm de côté (ou un grand plateau)",
+    "Un grand plateau huilé, pour les pâtons et les spirales",
+    "Trois bols : huile, beurre fondu, semoule",
+    "Du film alimentaire ou un torchon propre",
+    "Une grande poêle à fond épais (ou deux poêles, ou une plaque double)",
+    "Une grille"
+  ],
+  "ingredients": [
+    {
+      "group": "Pâte",
+      "items": [
+        {
+          "id": "farine",
+          "canon": "farine",
+          "q": 250,
+          "u": "g",
+          "name": "de farine blanche (T45 ou T55)",
+          "note": "farine de blé tendre"
+        },
+        {
+          "id": "semoule",
+          "canon": "semoule",
+          "q": 125,
+          "u": "g",
+          "name": "de semoule extra-fine (fino) ou de semoule fine",
+          "note": "c'est elle qui donne au malwi son goût et sa texture"
+        },
+        {
+          "id": "sel",
+          "canon": "sel",
+          "q": 1,
+          "u": "c. à c.",
+          "name": "de sel fin"
+        },
+        {
+          "id": "levure",
+          "canon": "levure-boulangere",
+          "q": 2,
+          "u": "pincée",
+          "name": "de levure boulangère",
+          "note": "pas plus : une toute petite quantité suffit, sans temps de levée"
+        },
+        {
+          "id": "sucre",
+          "canon": "sucre",
+          "q": 1,
+          "u": "c. à c.",
+          "name": "de sucre",
+          "note": "facultatif : Choumicha et Cooking with Alia n'en mettent pas"
+        },
+        {
+          "id": "eau",
+          "canon": "eau",
+          "q": 220,
+          "u": "ml",
+          "name": "d'eau tiède",
+          "note": "environ : verse-la petit à petit, il en faut de 200 à 225 ml selon ta farine"
+        }
+      ]
+    },
+    {
+      "group": "Pour feuilleter",
+      "items": [
+        {
+          "id": "huile",
+          "canon": "huile",
+          "q": 100,
+          "u": "ml",
+          "name": "d'huile neutre (tournesol), pour le plan de travail, les mains et les pâtons",
+          "note": "environ"
+        },
+        {
+          "id": "beurre",
+          "canon": "beurre",
+          "q": 70,
+          "u": "g",
+          "name": "de beurre, fondu"
+        },
+        {
+          "id": "semoule-feuilletage",
+          "canon": "semoule",
+          "q": 50,
+          "u": "g",
+          "name": "de semoule fine, à saupoudrer entre les couches",
+          "note": "environ"
+        }
+      ]
+    },
+    {
+      "group": "Pour servir",
+      "items": [
+        {
+          "id": "miel",
+          "canon": "miel",
+          "q": null,
+          "u": "",
+          "name": "miel"
+        },
+        {
+          "id": "beurre-service",
+          "canon": "beurre",
+          "q": null,
+          "u": "",
+          "name": "beurre"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Préparation",
+      "title": "Mélanger la pâte",
+      "text": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule, {{sel}} de sel, {{levure}} de levure et, si tu en mets, {{sucre}} de sucre. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une pâte souple qui ne colle pas. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Pétrir 10 minutes",
+      "text": "Pétris pendant 10 minutes, avec les poings et les paumes, jusqu'à ce que la pâte soit lisse, souple et élastique.",
+      "timer": {
+        "min": 10,
+        "label": "Pétrissage",
+        "done": "Touche la pâte : si elle n'est pas encore lisse et élastique, pétris encore un peu."
+      }
+    },
+    {
+      "phase": "Préparation",
+      "title": "Former les pâtons",
+      "text": "Huile tes mains et un grand plateau. Partage la pâte en boules de la taille d'un œuf, environ 60 g, une par malwi. Roule-les dans un peu d'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+      "timer": {
+        "min": 15,
+        "label": "Repos des pâtons",
+        "done": "Les pâtons ont reposé : tu peux commencer à étirer."
+      }
+    },
+    {
+      "phase": "Préparation",
+      "title": "Préparer ton poste",
+      "text": "Pendant le repos, fais fondre {{beurre}} de beurre. Mets à portée de main trois bols : le beurre fondu, {{huile}} d'huile et {{semoule-feuilletage}} de semoule. Huile largement ton plan de travail.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Étirer très fin",
+      "text": "Pose un pâton au centre du plan huilé. Mains huilées, aplatis-le, puis étire-le du bout des doigts, du centre vers les bords, jusqu'à une feuille très fine, presque transparente. Remets de l'huile si la pâte accroche, et essaie de ne pas la déchirer.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Beurrer et saupoudrer",
+      "text": "Étale un peu de beurre fondu sur toute la feuille avec les doigts, puis saupoudre-la légèrement de semoule.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Plier en longue bande",
+      "text": "Rabats le bord du haut jusqu'au centre, beurre-le et saupoudre-le d'un peu de semoule. Rabats le bord du bas par-dessus : tu obtiens une longue bande étroite. Beurre-la et saupoudre-la à son tour.",
+      "timer": null,
+      "tip": "Pour encore plus de couches, plie la feuille en quatre dans la longueur, en beurrant et en saupoudrant à chaque pli."
+    },
+    {
+      "phase": "Préparation",
+      "title": "Enrouler en spirale",
+      "text": "Aplatis légèrement la bande pour chasser l'air. Enroule-la sur elle-même, bien serrée, comme un tapis : tu obtiens un escargot. Rentre le bout sous la spirale et pince-le pour qu'il tienne.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Laisser reposer les spirales",
+      "text": "Pose la spirale debout sur le plateau huilé, côté enroulé vers le haut. Étire, beurre, plie et enroule de la même façon les autres pâtons, un par un, sans que les spirales se touchent. Couvre et laisse reposer 15 minutes.",
+      "timer": {
+        "min": 15,
+        "label": "Repos des spirales",
+        "done": "Les spirales ont reposé : fais chauffer la poêle."
+      }
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Chauffer la poêle",
+      "text": "Fais chauffer une grande poêle à fond épais à feu moyen.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Aplatir la spirale",
+      "text": "Huile ton plan de travail et tes mains. Prends la première spirale, côté enroulé vers le haut, et aplatis-la fermement du bout des doigts, du centre vers les bords, jusqu'à un disque d'environ 3 mm d'épaisseur, soit environ 15 cm de large.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Cuire en retournant",
+      "text": "Dépose le malwi dans la poêle chaude et retourne-le plusieurs fois, jusqu'à ce qu'il soit bien doré et croustillant des deux côtés et cuit au centre : compte quelques minutes. S'il colore trop vite, baisse un peu le feu, sinon le centre reste cru. Si ta poêle est grande, cuis-en deux à la fois.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Sortir sur une grille",
+      "text": "Pose le malwi cuit sur une grille. Continue avec les autres spirales, en les aplatissant au fur et à mesure.",
+      "timer": null
+    },
+    {
+      "phase": "Service",
+      "title": "Servir chaud",
+      "text": "Sers les malwi chauds, avec du {{beurre-service}} et du {{miel}}.",
+      "timer": null,
+      "tip": "La façon traditionnelle : chauffe du beurre et du miel à parts égales dans une poêle, coupe le feu dès que ça commence à bouillonner, et trempe chaque malwi chaud des deux côtés."
+    }
+  ],
+  "secrets": [
+    {
+      "text": "Malwi veut dire « roulé » en darija. Bien fait, il garde la trace de sa spirale : tu peux le dérouler du bord vers le centre en le mangeant.",
+      "source": "Taste of Maroc (Christine Benlafquih)"
+    },
+    {
+      "text": "La semoule (ou la farine de blé dur) est la clé du goût et de la texture traditionnels. Ici, elle fait un tiers du mélange de farine.",
+      "source": "Taste of Maroc ; proportion de Choumicha (250 g de farine pour 125 g de blé dur), la même que chez Lalla Moulati (500 g pour 250 g)"
+    },
+    {
+      "text": "La levure n'est là qu'en toute petite quantité, et il n'y a pas d'étape de levée.",
+      "source": "Taste of Maroc (« a very tiny amount of yeast ») ; Choumicha (2 pincées, sans levée)"
+    },
+    {
+      "text": "Pétris bien, puis laisse reposer : le pétrissage donne l'élasticité qu'il faut pour feuilleter, et le repos rend la pâte plus malléable.",
+      "source": "Choumicha, conseils pour réussir les r'ghaifs"
+    },
+    {
+      "text": "Huile les pâtons et couvre-les : sinon, ils forment une croûte.",
+      "source": "Choumicha, conseils pour les r'ghaifs ; Taste of Maroc et Cooking with Alia (pâtons huilés et couverts)"
+    },
+    {
+      "text": "Avant d'enrouler la bande, aplatis-la pour chasser les bulles d'air.",
+      "source": "Cooking with Alia"
+    },
+    {
+      "text": "Enroule bien serré : trop lâches, les couches se séparent quand tu aplatis la spirale.",
+      "source": "Taste of Maroc"
+    },
+    {
+      "text": "Fixe le bout de la bande dans la spirale, sinon elle se déroule.",
+      "source": "Choumicha (extrémités rentrées dans la pelote) ; Cooking with Alia (bout pincé)"
+    },
+    {
+      "text": "Pour saupoudrer entre les couches, la semoule fine convient mieux que la farine de blé dur.",
+      "source": "Taste of Maroc"
+    },
+    {
+      "text": "Cuis les spirales dans l'ordre où tu les as roulées.",
+      "source": "Taste of Maroc"
+    },
+    {
+      "text": "Pas de feu trop vif : le malwi a besoin de temps pour cuire jusqu'au centre.",
+      "source": "Taste of Maroc ; Cooking with Alia (dorer jusqu'à ce que le centre soit cuit)"
+    },
+    {
+      "text": "Sitôt sorti de la poêle, pousse les bords vers le centre pour l'aérer.",
+      "source": "Cooking with Alia"
+    },
+    {
+      "text": "Les malwi complètement refroidis se congèlent jusqu'à 2 mois. Réchauffe-les, décongelés ou non, à la poêle, ou quelques minutes directement sur la grille du four à 180 °C.",
+      "source": "Taste of Maroc ; congélation aussi chez Lalla Moulati (« طريقة الاحتفاظ به فالمجمد »)"
+    }
+  ],
+  "mistakes": [
+    "Verser toute l'eau d'un coup : la pâte devient collante ; ajoute-la petit à petit (Cooking with Alia ; Taste of Maroc).",
+    "Écourter le pétrissage ou le repos : la pâte est moins souple et se feuillette mal (Choumicha, conseils pour les r'ghaifs).",
+    "Laisser les pâtons à l'air sans huile : ils font une croûte (Choumicha).",
+    "Déchirer la feuille en l'étirant : remets de l'huile et étire plus doucement (Taste of Maroc).",
+    "Enrouler la bande trop lâche : les couches se séparent à l'aplatissage (Taste of Maroc).",
+    "Cuire sur un feu trop vif : dehors doré, centre cru (Taste of Maroc).",
+    "Garder les malwi plus d'un jour à température ambiante : congèle-les plutôt (Taste of Maroc)."
+  ],
+  "serving": "Bien chauds, avec du beurre et du miel (Taste of Maroc ; Morocco World News 2017 et 2019), de la confiture ou du fromage frais (Taste of Maroc ; Cooking with Alia : miel ou fromage) ; pour le fromage, choisis-en un à coagulant microbien, sans présure animale, si tu veux être strict. La façon traditionnelle, selon Taste of Maroc : les tremper dans un sirop chaud de beurre fondu et de miel. Au petit-déjeuner et à l'heure du thé (Taste of Maroc), et au ftour du ramadan : Choumicha classe son m'laoui dans « Ramadan », et Femmes du Maroc le cite parmi les grands classiques du ftour à Rabat. Ils ne se gardent pas plus d'un jour à température ambiante ; une fois refroidis, ils se congèlent jusqu'à 2 mois et se réchauffent à la poêle ou au four à 180 °C (Taste of Maroc).",
+  "variants": [
+    "Malwi au khlii : parsème la feuille de khlii émietté avant de la plier et de l'enrouler ; Choumicha en met 100 g pour sa pâte de 250 g de farine et 125 g de blé dur (Choumicha, « M'laoui / M'laoui au Khliï »). Khlii de viande halal.",
+    "Moitié semoule, moitié farine : texture plus rustique, le mélange préféré de Taste of Maroc pour le malwi ; Morocco World News (2019) le décrit aussi « moitié semoule, moitié farine » (Taste of Maroc ; Morocco World News).",
+    "Un peu de farine complète dans la pâte, pour le goût (Taste of Maroc : 60 g de farine complète sur 630 g).",
+    "Méthode rapide de Taste of Maroc : étire un pâton en carré, beurre, saupoudre et roule-le comme un roulé à la cannelle ; enroule ce rouleau dans un deuxième carré, puis un troisième, jusqu'à la moitié des pâtons ; coupe le gros rouleau en 8 tranches, pose-les côté spirale vers le haut et laisse reposer 15 à 20 minutes avant d'aplatir (Taste of Maroc).",
+    "Un peu de levure chimique dans le mélange de feuilletage : des recettes publiées par Lalla Moulati en ajoutent (Lalla Moulati, 1er octobre 2023 et 2 août 2023)."
+  ],
+  "sources": [
+    {
+      "name": "Choumicha (Choumicha Chafay), site officiel, « M'laoui / M'laoui au Khliï » (recette n° 829), copie web.archive.org du 21 mai 2026 (même texte dans la copie du 2 juillet 2016)",
+      "url": "https://web.archive.org/web/20260521080703/https://choumicha.ma/recette/829-m-laoui-m-laoui-au-khlii.html",
+      "used_for": "Source marocaine primaire : 250 g de farine de blé tendre et 125 g de blé dur, 2 pincées de levure boulangère, 1 c. à c. de sel, 20 cl d'eau tiède ; 10 cl d'huile, 10 cl de beurre fondu et 80 g de blé dur pour feuilleter ; pétrissage de 10 min, boules de la taille d'un œuf huilées, repos de 10 min ; feuille beurrée et saupoudrée, pliée en quatre dans la longueur, roulée en pelote, extrémités rentrées ; cuisson des deux côtés dans une poêle à fond épais chaude ; variante au khlii (100 g) ; 6 personnes, 40 min de cuisson, catégorie Ramadan"
+    },
+    {
+      "name": "Choumicha, version arabe de la même recette, « ملاوي - ملاوي بالخليع » (n° 830), copie web.archive.org du 25 octobre 2020",
+      "url": "https://web.archive.org/web/20201025200211/https://www.choumicha.ma/ar/recette/830-%D9%85%D9%84%D8%A7%D9%88%D9%8A-%D9%85%D9%84%D8%A7%D9%88%D9%8A-%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%B9.html",
+      "used_for": "Étape d'étirage absente du texte français : pâtons huilés étirés en une feuille fine (« تمدد للحصول على ورقة عجين رفيعة ») ; levure fraîche (« خميرة طرية ») ; nom arabe ملاوي"
+    },
+    {
+      "name": "Taste of Maroc, Christine Benlafquih (Casablanca), « Moroccan Meloui Recipe – Round Laminated Moroccan Pancakes or Crepes », mise à jour du 11 novembre 2019, copie web.archive.org du 8 juin 2026 (le site refuse les robots)",
+      "url": "https://web.archive.org/web/20260608052551/http://tasteofmaroc.com/moroccan-meloui-recipe/",
+      "used_for": "Sens du nom (« roulé »), rôle de la semoule et de la toute petite quantité de levure, proportions métriques de l'autrice (385 g de semoule, 185 g de farine, 60 g de farine complète, 375 ml d'eau, 2 c. à c. de sel et de sucre, 1/4 c. à c. de levure, 220 ml d'huile, 115 g de beurre, 85 g de semoule), pétrissage de 10 min, 16 pâtons « de la taille de petites prunes », repos de 20 à 30 min puis de 15 à 20 min, méthode traditionnelle de la longue bande roulée en spirale, enroulement serré, semoule préférée pour saupoudrer, feu moyen, disques de 1/8 de pouce (3 mm), retourner plusieurs fois, grille, service et sirop beurre-miel, congélation 2 mois, réchauffage à 180 °C, temps (45 min de préparation, 20 min de cuisson, 40 min de repos)"
+    },
+    {
+      "name": "Taste of Maroc, Christine Benlafquih, « Basic Msemen Recipe – Square Moroccan Pancakes », copie web.archive.org du 21 avril 2026",
+      "url": "https://web.archive.org/web/20260421041328/http://tasteofmaroc.com/msemen-recipe/",
+      "used_for": "Proportions du sirop traditionnel (beurre et miel à parts égales, feu coupé dès les premiers bouillons) ; le msemen « parfois appelé rghaif » ; mélange moitié semoule, moitié farine préféré pour le malwi, « cousin rond et roulé du msemen »"
+    },
+    {
+      "name": "Cooking with Alia (site d'Alia, qui y présente « la cuisine marocaine de son enfance », page À propos), « Mellawi / ملاوي » (n° 701, mise à jour du 21 décembre 2018)",
+      "url": "https://www.cookingwithalia.com/701-mellawi/",
+      "used_for": "Source marocaine : 360 g de farine et 150 g de fino, 1 c. à c. de sel, 300 ml d'eau versée petit à petit, sans levure ; 50 g de beurre fondu, 50 ml d'huile, 50 g de fino ; pétrissage de 10 min, repos de 20 min puis 15 min ; feuille presque transparente, beurrée, saupoudrée, pliée en trois en longue bande, bande aplatie pour chasser l'air, roulée comme un tapis, bout pincé ; spirales debout, repos de 15 min ; aplatir du centre vers les bords à « 1 mm (⅛ inch) » ; cuisson en retournant plusieurs fois jusqu'à ce que le centre soit cuit ; bords poussés vers le centre ; service au miel ou au fromage"
+    },
+    {
+      "name": "Lalla Moulati, « نساي عليك الملوي ديال الزنقة… » (malwi de la rue), 29 juillet 2022",
+      "url": "https://www.lalamoulati.net/335080.html",
+      "used_for": "Source marocaine (liste d'ingrédients seulement, méthode en vidéo non lue) : 500 g de farine pour 250 g de semoule fine (fino), très peu de levure instantanée, sel, sucre, eau tiède"
+    },
+    {
+      "name": "Lalla Moulati, « ملوي مورق وهشيش… », 2 août 2023",
+      "url": "https://www.lalamoulati.net/378531.html",
+      "used_for": "Liste d'ingrédients : 4 bols de farine pour 2 bols de fino, « une pointe de cuillère » de levure, 1 c. à c. de sel, 1 c. à s. de sucre, levure chimique ; beurre fondu, huile et fino pour feuilleter"
+    },
+    {
+      "name": "Lalla Moulati, « ملوي هشيش وخفيف… », 1er octobre 2023",
+      "url": "https://www.lalamoulati.net/373008.html",
+      "used_for": "Liste d'ingrédients : 300 g de semoule fine pour 250 g de farine (variante plus riche en semoule), un peu de levure, beurre fondu et huile pour feuilleter, levure chimique"
+    },
+    {
+      "name": "Lalla Moulati, « ملوي مورق بطريقة طي جديدة… مع طريقة الاحتفاظ به فالمجمد », 8 avril 2023",
+      "url": "https://www.lalamoulati.net/363275.html",
+      "used_for": "Deuxième source pour la congélation du malwi (titre de la recette ; vidéo non lue)"
+    },
+    {
+      "name": "Morocco World News, Constance Renton, « The Fuel of Ramadan: Favourite Moroccan Dishes », 9 juin 2017",
+      "url": "https://www.moroccoworldnews.com/2017/06/98982/fuel-ramadan-favourite-moroccan-dishes/",
+      "used_for": "Malwi : bandes de pâte roulées comme des tapis, aplaties en disques, cuites à la poêle, servies avec du beurre et du miel ; galettes carrées ou rondes appelées aussi rghaif"
+    },
+    {
+      "name": "Morocco World News, Maddy Raven, « A Very Moroccan Ramadan: Harira, Dates and Chebakia Galore », 31 mai 2019",
+      "url": "https://www.moroccoworldnews.com/2019/05/80275/moroccan-ramadan-harira-dates-chebakia/",
+      "used_for": "Malwi au ftour ; « moitié semoule, moitié farine », plié en bandes puis roulé comme un tapis, aplati, cuit, servi avec du beurre ou du miel ; aussi appelé rghaif"
+    },
+    {
+      "name": "Femmes du Maroc, « Nos ftours du ramadan par région », 14 juin 2016",
+      "url": "https://femmesdumaroc.com/archives/nos-ftours-du-ramadan-par-region",
+      "used_for": "Le meloui parmi « les grands classiques d'un ftour rbati »"
+    },
+    {
+      "name": "Choumicha, « Pour des R'ghaifs feuilletées à la confiture réussies » (conseils), copie web.archive.org du 6 mars 2021",
+      "url": "https://web.archive.org/web/20210306055156/https://choumicha.ma/astuces/pour-des-rghaifs-feuilletees-a-la-confiture-reussies.html",
+      "used_for": "Conseils pour la pâte feuilletée à la main : bien pétrir, repos indispensable, pâtons huilés pour éviter la croûte, feuilletage à l'huile ou au beurre fondu"
+    },
+    {
+      "name": "Wikipédia (français), « Msemen »",
+      "url": "https://fr.wikipedia.org/wiki/Msemen",
+      "used_for": "Nom marocain « Melwi (meloui) » parmi les appellations du msemen au Maroc (section signalée comme insuffisamment sourcée)"
+    }
+  ],
+  "discrepancies": [
+    "Méthode de façonnage : la méthode traditionnelle (feuille étirée, pliée en longue bande, roulée en spirale) est celle de Choumicha, de Cooking with Alia et de Morocco World News, et celle que Taste of Maroc a longtemps suivie. Taste of Maroc publie aujourd'hui une méthode plus rapide (carrés roulés les uns dans les autres, puis coupés en tranches). Retenu : la méthode traditionnelle ; la méthode rapide est en variante.",
+    "Part de semoule : un tiers de la farine chez Choumicha (250 g / 125 g) et Lalla Moulati (500 g / 250 g ; 4 bols / 2 bols), 29 % chez Cooking with Alia (360 g / 150 g) ; environ la moitié ou plus chez Taste of Maroc (moitié en volume, 61 % en poids d'après ses grammes), Morocco World News 2019 et Lalla Moulati (300 g / 250 g). Médiane recalculée avec python3 : 33 %. Retenu : un tiers (proportion de Choumicha) ; moitié-moitié en variante.",
+    "Eau : 200 ml pour 375 g chez Choumicha (53 %), 221 ml chez Cooking with Alia et 223 ml chez Taste of Maroc une fois leurs recettes ramenées à 375 g (59 et 60 %). Retenu : 220 ml, médiane, avec la consigne de la verser petit à petit.",
+    "Sel, pour 375 g de farine et semoule : 1 c. à c. (Choumicha), 1,2 c. à c. (Taste of Maroc ramené), 0,7 c. à c. (Cooking with Alia ramené). Retenu : 1 c. à c., médiane.",
+    "Levure : 2 pincées (Choumicha ; « levure boulangère » en français, levure fraîche en arabe), 1/4 c. à c. de levure sèche pour 630 g (Taste of Maroc, soit à peine plus de 1/8 de c. à c. pour 375 g), « très peu » ou « une pointe de cuillère » (Lalla Moulati) ; aucune chez Cooking with Alia. Retenu : 2 pincées, sans laisser lever (4 sources sur 5 en mettent un tout petit peu).",
+    "Sucre : 2 c. à c. chez Taste of Maroc (environ 1,2 c. à c. pour 375 g) et du sucre dans les trois listes de Lalla Moulati ; aucun chez Choumicha et Cooking with Alia. Retenu : 1 c. à c., marquée facultative.",
+    "Matières grasses pour feuilleter, ramenées à 375 g de farine : beurre 100 ml fondu (Choumicha), 68 g (Taste of Maroc), 37 g (Cooking with Alia) ; huile 100 ml (Choumicha), 131 ml (Taste of Maroc, qui sert aussi à huiler le plan et les mains), 37 ml (Cooking with Alia) ; semoule 80 g (Choumicha), 51 g (Taste of Maroc), 37 g (Cooking with Alia). Retenu : les médianes, 70 g de beurre, 100 ml d'huile, 50 g de semoule.",
+    "Pliage de la bande : en quatre dans la longueur (Choumicha) ou en trois, un bord au centre et l'autre par-dessus (Cooking with Alia). Retenu : en trois, plus simple ; le pliage en quatre est donné en astuce.",
+    "Taille des pâtons : « de la taille d'un œuf » (Choumicha), 16 pâtons pour environ 1 kg de pâte chez Taste of Maroc, soit environ 64 g chacun (calcul python3), « de la taille d'une balle de tennis » chez Cooking with Alia (malwi plus grands). Retenu : environ 60 g, ce qui donne 10 malwi avec cette pâte (environ 605 g, calcul).",
+    "Repos des pâtons : 10 min (Choumicha), 15 min après 20 min de repos de la pâte entière (Cooking with Alia), 20 à 30 min (Taste of Maroc). Retenu : 15 min, médiane. Repos des spirales : 15 min (Cooking with Alia), 15 à 20 min (Taste of Maroc), durée non précisée chez Choumicha. Retenu : 15 min.",
+    "Épaisseur : 1/8 de pouce, soit 3 mm (Taste of Maroc) ; Cooking with Alia écrit « environ 1 mm (⅛ inch) », mais 1/8 de pouce fait 3,2 mm : sa valeur en pouces rejoint Taste of Maroc. Retenu : environ 3 mm. Largeur : un pâton de 60 g aplati à 3 mm donne un disque de 15 à 16 cm (calcul python3, densité de la pâte supposée entre 1,0 et 1,2) ; les 12 cm (5 pouces) annoncés par Taste of Maroc ne collent pas avec ses propres 3 mm (il faudrait 5 à 6 mm).",
+    "Feu : moyen (Taste of Maroc), vif puis moyen-vif (Cooking with Alia), poêle « chaude » (Choumicha). Retenu : moyen, car les deux premières sources insistent sur la cuisson du centre.",
+    "Huile dans la poêle : Cooking with Alia en met un filet ; Choumicha et Taste of Maroc n'en parlent pas, la pâte étant déjà huilée. Retenu : pas d'huile ajoutée.",
+    "Durées affichées : préparation de 45 min (Taste of Maroc) ; cuisson de 30 min, entre les 20 min de Taste of Maroc (16 malwi, plaque double) et les 40 min de Choumicha ; repos de 30 min (15 + 15)."
+  ],
+  "unverified": [
+    "Durée de cuisson d'un malwi : aucune source ne donne de chiffre précis (« plusieurs minutes » chez Taste of Maroc, « quelques minutes de chaque côté » chez Cooking with Alia) ; pas de minuteur pour cette étape.",
+    "Largeur des disques (environ 15 cm) et poids des pâtons (environ 60 g) : calculés, pas mesurés en cuisine ; la densité de la pâte (1,0 à 1,2) est une hypothèse.",
+    "Type de levure chez Choumicha : « levure boulangère » dans le texte français, « levure fraîche » (خميرة طرية) dans le texte arabe.",
+    "Lalla Moulati : seules les listes d'ingrédients ont été lues ; les méthodes sont en vidéo et n'ont pas été vues. Les quantités en « bols » et en « cuillères » sans taille n'ont pas servi aux calculs.",
+    "Sirop chaud de beurre et de miel : seule Taste of Maroc le donne pour le malwi (la proportion « à parts égales » et le feu coupé dès les premiers bouillons viennent de sa page msemen) ; pas de seconde source pour le malwi, d'où sa place en astuce et dans « serving », pas dans les étapes.",
+    "My Moroccan Food, Hespress, Le360 et Bladi.net : aucune recette de malwi trouvée. La recherche web a été arrêtée par la limite de 200 recherches par tour, partagée entre les agents ; aucune autre recherche n'a pu être faite.",
+    "Origine du nom « malwi » : seule Taste of Maroc l'explique (« roulé ») ; non recoupé."
+  ]
+}

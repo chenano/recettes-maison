@@ -1,0 +1,149 @@
+{
+ "slug": "sandwich-poisson",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Hespress FR, Mohamed Jaouad El Kanabi, « Crise et prix du poisson : l'océan déserte les assiettes », 6 septembre 2024",
+   "url": "https://fr.hespress.com/384961-crise-et-prix-du-poisson-locean-deserte-les-assiettes.html",
+   "ce_qu_elle_confirme": "« Le thon, la sardine, le merlan et tant d'autres variétés auparavant omniprésentes » sont devenus des produits de luxe pour nombre de Marocains ; le kilo de sardines était « autrefois à la portée de tous ». Article cité dans les écarts du sandwich mais absent de ses sources. Lu avec l'outil de lecture web (curl refusé, 403)."
+  },
+  {
+   "name": "Al Jazeera, Meryem Taidi, « الأجود عالميا.. سردين المغرب ثروة اقتصادية وثقافة غذاء », 21 février 2021",
+   "url": "https://www.aljazeera.net/ebusiness/2021/2/21/%D8%A7%D9%84%D8%A3%D8%AC%D9%88%D8%AF-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%B3%D8%B1%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%AB%D8%B1%D9%88%D8%A9",
+   "ce_qu_elle_confirme": "« ويعد السردين أساسيا في الأسواق المغربية » : la sardine est un produit de base des marchés marocains ; les petits poissons pélagiques font plus de 80 % des captures."
+  },
+  {
+   "name": "Lalla Moulati (lalamoulati.net, Maroc), « سردين معمر بحشوة ساهلة ومقلي مقرمش وجد شهي », 16 novembre 2017",
+   "url": "https://www.lalamoulati.net/93278.html",
+   "ce_qu_elle_confirme": "Source marocaine de plus pour les sardines farcies frites : farcies (poivron, sel, poivre, citron, coriandre, paprika, harissa, concentré de tomate, huile d'olive), farinées, frites dans une huile bien chaude, servies avec des rondelles de citron. Elle ne parle pas de sandwich."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[4].tip",
+   "actuel": "couvercle, feu coupé si c'est sans danger, et jamais d'eau.",
+   "propose": "jamais d'eau ; glisse le couvercle, coupe le feu si c'est sans danger, ne déplace pas la poêle et appelle sans attendre les pompiers, même si le feu semble éteint.",
+   "pourquoi": "L'astuce omet deux règles données par toutes les sources de sécurité citées : ne pas déplacer la poêle (USFA, Québec, Cambridgeshire, Warwickshire) et appeler les pompiers (Québec : « même si le feu semble éteint » ; Cambridgeshire et Warwickshire : appeler le 999). Mise en accord avec la recette du poisson frit corrigée.",
+   "gravite": "majeure",
+   "sources": "USFA, « Cook Top Fire Safety Tips » (revu le 8 septembre 2021) ; Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » (mise à jour du 10 octobre 2025) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; Warwickshire County Council, « Chip pan fire warning for Warwickshire residents » (4 février 2022) (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "tagline",
+   "actuel": "Le casse-croûte de rue marocain :",
+   "propose": "Un des casse-croûte de rue les plus populaires du Maroc :",
+   "pourquoi": "Les sources disent « one of the most popular street foods in the country » (Morocco World News, 2021) et « one of the most classic examples of Moroccan street food » (Taste of Maroc) : « un des », pas « le » casse-croûte de rue marocain. Aucune source ne le classe premier.",
+   "gravite": "mineure",
+   "sources": "Morocco World News et MWN Lifestyle, « Five Street Foods in Morocco That Are Uniquely Moroccan », 30 juillet 2021 ; Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula »"
+  },
+  {
+   "champ": "secrets[1].text",
+   "actuel": "Dans la rue, la sardine se mange surtout frite.",
+   "propose": "Au Maroc, la sardine se prépare de bien des façons, mais la friture reste la plus populaire.",
+   "pourquoi": "Morocco World News (d'après CNN) écrit « Moroccans prepare sardines in different ways, but the frying method remains the most popular » : la phrase vaut pour la sardine en général, pas seulement dans la rue.",
+   "gravite": "mineure",
+   "sources": "Morocco World News, Larbi Arbaoui, « CNN's 10 street food to try in Morocco », 27 mai 2013 (outil de lecture web, lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "secrets[0].source",
+   "actuel": "la sardine, plat de rue de base, se mange surtout frite, farcie de chermoula, en sandwich",
+   "propose": "la sardine, plat de rue de base, est le plus souvent frite ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich »",
+   "pourquoi": "L'article dit que la friture est la préparation la plus populaire, puis que, farcies d'une chermoula piquante, les sardines font « a tasty sandwich » pour 10 dirhams ; il ne dit pas qu'elles se mangent surtout farcies ni surtout en sandwich.",
+   "gravite": "mineure",
+   "sources": "Morocco World News, 27 mai 2013 (outil de lecture web, lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "secrets[0].text",
+   "actuel": "même loin de la côte : on les trouve",
+   "propose": "même loin de la côte, parfois seulement certains jours : on les trouve",
+   "pourquoi": "Taste of Maroc nuance : « In non-coastal areas you can still find them sold as a street food, but perhaps only on limited days. »",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula », copie archivée du 5 août 2026"
+  },
+  {
+   "champ": "region",
+   "actuel": "les sardines farcies frites se vendent aussi à Jemaa el-Fna",
+   "propose": "les sardines farcies frites se vendent aussi, parfois seulement certains jours, à Jemaa el-Fna",
+   "pourquoi": "Même nuance de Taste of Maroc (« perhaps only on limited days »).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Moroccan Stuffed Fried Sardines with Chermoula », copie archivée du 5 août 2026"
+  },
+  {
+   "champ": "secrets[4].text",
+   "actuel": "La harissa est la sauce piquante de ce sandwich ; mets-en selon ton goût.",
+   "propose": "La harissa accompagne les sardines frites et le sandwich de sardines de Marrakech ; mets-en selon ton goût.",
+   "pourquoi": "Aucune source ne décrit la sauce du sandwich de sardines farcies frites : Taste of Maroc sert les sardines frites avec de la harissa, MarocMama et Halal Xplorer la mettent dans le hout quari de Marrakech.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc ; MarocMama, « Moroccan Fish Recipe: Hout Quari » ; Halal Xplorer, 14 décembre 2021"
+  },
+  {
+   "champ": "secrets[5].text",
+   "actuel": "Les olives vertes vont bien avec le poisson frit et dans le sandwich.",
+   "propose": "Les olives vont bien avec le poisson frit, et les olives vertes dans le sandwich.",
+   "pourquoi": "Choumicha sert sa friture avec des « olives m'chermlines » sans dire leur couleur ; les olives vertes viennent du hout quari de MarocMama (« sliced green olives »).",
+   "gravite": "mineure",
+   "sources": "Choumicha, « Friture de poissons m'chermel » (archive du 10 juillet 2026) ; MarocMama, « Moroccan Fish Recipe: Hout Quari »"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "(1) la sardine est le poisson le plus abondant et le plus courant au Maroc (Choumicha ; Taste of Maroc ; Hespress)",
+   "propose": "(1) la sardine est le poisson le plus abondant des côtes marocaines (Choumicha), bon marché et abondante (Taste of Maroc) et un produit de base des marchés (Al Jazeera, 2021), même si son prix a beaucoup monté (Le360, 2021 ; Hespress, 2024)",
+   "pourquoi": "Hespress (6 septembre 2024) dit au contraire que la sardine, le merlan et le thon, « auparavant omniprésentes », sont devenus des produits de luxe pour nombre de Marocains ; il ne soutient donc pas « le plus courant ». De plus, aucun article de Hespress ne figure dans les sources du sandwich (ajouté dans sources_ajoutees, avec Al Jazeera).",
+   "gravite": "mineure",
+   "sources": "Choumicha, « La sardine, un trésor de bienfaits » ; Taste of Maroc, « Moroccan Sardine Balls » ; Al Jazeera, 21 février 2021 ; Le360, 24 avril 2021 ; Hespress, 6 septembre 2024 (lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "(2) dans la rue, elle se mange surtout frite et farcie de chermoula, en sandwich (Morocco World News 2013, d'après CNN)",
+   "propose": "(2) la friture est sa préparation la plus populaire et, farcie d'une chermoula piquante, elle fait « un savoureux sandwich » (Morocco World News 2013, d'après CNN)",
+   "pourquoi": "Même raison que pour secrets[0].source : l'article ne dit pas que la sardine se mange surtout farcie ni surtout en sandwich.",
+   "gravite": "mineure",
+   "sources": "Morocco World News, 27 mai 2013 (outil de lecture web, lu le 7 novembre 2026)"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "les sources le situent à Marrakech et le disent difficile à trouver (MarocMama, Halal Xplorer)",
+   "propose": "les sources le situent à Marrakech (MarocMama, Halal Xplorer) et Halal Xplorer le dit difficile à trouver",
+   "pourquoi": "Seul Halal Xplorer dit qu'il est difficile à trouver (« a must try when in Marrakech… if you can find it », dans des endroits fréquentés par les gens du quartier) ; MarocMama n'en parle pas.",
+   "gravite": "mineure",
+   "sources": "Halal Xplorer, 14 décembre 2021 ; MarocMama, « Moroccan Fish Recipe: Hout Quari » et « Savoring the Streets »"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "les sardines grillées en sandwich sont citées surtout pour Essaouira et Rabat, et les bocadillos au poisson pour le Nord",
+   "propose": "les sardines grillées d'Essaouira se servent avec du pain et des olives, sans sandwich décrit (MWN Lifestyle, 2024), et les bocadillos au poisson sont surtout dans le Nord (Morocco World News, 2021)",
+   "pourquoi": "Rabat ne vient que de résumés de recherche dont les pages n'ont pas été ouvertes (voir unverified[5], qui les dit « non utilisés ») ; MWN Lifestyle (27 septembre 2024) dit seulement « Often served with a side of freshly baked bread and olives » pour les sardines grillées d'Essaouira.",
+   "gravite": "mineure",
+   "sources": "MWN Lifestyle, Majda Bouzaroita, « Moroccan Street Foods That Will Make You Swoon », 27 septembre 2024 ; Morocco World News, 30 juillet 2021"
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "n'apparaît dans aucune chermoula de sardines frites lue (Choumicha, Taste of Maroc, Bladi, Cooking With Alia)",
+   "propose": "n'apparaît dans aucune chermoula de sardines frites lue (Choumicha, Bladi, Cooking With Alia), sauf en option (1 c. à c.) dans la recette de chermoula de Taste of Maroc",
+   "pourquoi": "La chermoula de Taste of Maroc, celle que sa recette de sardines farcies utilise, donne « 1 tsp ground ginger » parmi les ingrédients facultatifs.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, « Chermoula Recipe », copie archivée du 27 août 2026 (liste « Optional ingredients depending on recipes »)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Choix de la version (point demandé) : les sardines farcies frites sont « one of the most classic examples of Moroccan street food » et « one of the most emblematic dishes of Moroccan street food, even if one is not in a coastal city » (Taste of Maroc, Nada Kiffa) ; « one of the most popular street foods in the country », servies « both cold or hot », avec la salade tomate-oignon ou glissées « in a half small bread » (Morocco World News, 30 juillet 2021, et sa copie MWN Lifestyle signée Majda Bouzaroita) ; farcies d'une chermoula piquante, elles font « a tasty sandwich » pour 10 dirhams (Morocco World News, Larbi Arbaoui, 27 mai 2013, d'après CNN) ; MarocMama range les « Sardine Sandwiches » parmi les plats de rue marocains. Le choix est bien fondé comme un des sandwichs de rue les plus populaires ; aucune source ne permet de dire qu'il est le plus représentatif (voir la correction de l'accroche).",
+  "Hout quari : sandwich de boulettes de sardines (ras el hanout, smen, coriandre) grillées 5 min par face ou poêlées, avec oignon cru, sauce de tomate crue râpée (coriandre, sel, poivre), harissa, olives vertes en rondelles et smen, dans un pain pita ou un petit pain ferme, servi en demi ou en entier (MarocMama, Amanda Mouttaki ; date non affichée, métadonnées : 16 mars 2015, modifiée le 29 novembre 2020) ; sardines hachées servies à part avec sauce tomate, oignon cru, harissa et olives hachées, pain frais beurré de beurre clarifié, chacun compose son sandwich (Halal Xplorer, 14 décembre 2021). « Grilled or fried sardines served in a sandwich with bread and various toppings like tomatoes and olives » (MarocMama, « Savoring the Streets », © 2022, métadonnées du 21 décembre 2023).",
+  "Garniture : tomates coupées en deux, épépinées et râpées en pulpe, ce qui « works best with very ripe tomatoes » (Taste of Maroc, Christine Benlafquih) ; tomates râpées assaisonnées de sel et de poivre (SBS, Ellie Bouhadana) ; citron (Bladi, Taste of Maroc, Choumicha) ; demi-pain (Morocco World News 2021 ; MarocMama : « Order half (shown) or a whole »).",
+  "Sécurité alimentaire : chermoula mise de côté avant de toucher le poisson cru (FDA : « prevent bacteria from raw seafood from spreading to ready-to-eat foods » ; Nada Kiffa garde un peu de chermoula pour servir) ; règle des 2 heures et d'1 heure au-dessus de 90 °F, soit 32 °C (FDA, contenu à jour au 5 mars 2024) ; sardine très fragile, à manger le jour de l'achat, 24 h au plus au réfrigérateur (Choumicha) ; marinade au frais au moins 30 min (Bladi), minuteur de 30 min = time.rest.",
+  "Friture : renvoi à la recette du poisson frit (huile qui ne fume pas, par petites quantités, environ 3 min par face, farinées juste avant) : mêmes sources que cette recette, vérifiées dans verification-poisson-frit.json.",
+  "Variantes : kefta de sardine vendue toute prête au marché aux poissons (Taste of Maroc) ; brochettes de kefta de sardines (1 kg de filets, 80 g de graisse de rognons, oignon, ail, herbes, épices dont gingembre, repos 1 h au frais, grillées au charbon) et boulettes de sardines mijotées avec olives vertes et tomates (Choumicha, copies du 20 et du 21 mai 2026) ; sardines au moins deux fois par semaine pendant le ramadan à Marrakech, grillées, au four ou en boulettes en tajine, sans sandwich (Le360, Hajar Toufik, 24 avril 2021) ; sardines d'Essaouira marinées à la chermoula, grillées au feu, avec pain et olives (MWN Lifestyle, 27 septembre 2024) ; bocadillos au poisson du jour dans le Nord, 20 à 25 dirhams (Morocco World News, 2021).",
+  "Écarts contrôlés : gingembre (« With a strong garlic and ginger flavor », Morocco World News 2021 ; gingembre chez Hassan M'Souli sur SBS et dans la kefta de Choumicha) ; prix (10 dirhams en 2013 ; 20 à 25 dirhams pour les bocadillos en 2021) ; chaud ou froid (Bladi, Taste of Maroc, Morocco World News).",
+  "Renvois « recipe » (voulus) : poisson-frit et khobz. recettes/khobz.js existe ; poisson-frit existera une fois intégré. outils/integrer.py garde le champ « recipe » des fichiers de recherche, outils/verifier.js signale une cible absente, et app.html affiche « Voir la recette … » quand la cible existe : les renvois sont valides.",
+  "Rendu dans l'appli recalculé (simulation de fmtQ, itemName et fill) pour 1, 4 et 8 sandwichs : « soit ½ petit pain rond / 2 petits pains ronds / 4 petits pains ronds en tout », singulier et pluriel corrects ; les ingrédients sans quantité affichent leur nom (« Prépare les sardines farcies à la chermoula », « Coupe les tomates bien mûres en deux », « Assaisonne de sel et de poivre noir moulu », « Pèle l'oignon », « de la harissa », « quelques olives vertes », « jus de citron »). Tous les identifiants existent, chaque ingrédient est cité, minuteurs 30 min et 3 min conformes au texte ; total 45 min, pas « Rapide ».",
+  "Noms : « sardine mzeouej (married) » (Taste of Maroc) et « mzeouejim », « married » (SBS) pour les sardines collées ; la recette signale déjà que le sandwich lui-même n'a pas de nom sourcé.",
+  "Halal : poisson, pain, légumes, harissa ; smen (beurre) dans la variante ; graisse de rognons marquée « (halal) » ; aucun alcool, pas de fromage.",
+  "Liens : les 17 liens sont valides. 15 répondent à curl (code 200 ; mwnlifestyle.com redirige vers les articles datés ; copies archivées de Choumicha et de Taste of Maroc) ; les 2 articles de moroccoworldnews.com refusent curl (403) mais s'ouvrent avec l'outil de lecture web."
+ ],
+ "non_verifiable": [
+  "Morocco World News (2013 et 2021) refuse curl (403) : les deux articles ont été lus avec l'outil de lecture web, qui ne rend que des extraits courts ; la copie MWN Lifestyle de 2021 a été lue en entier. Aucune copie web.archive.org de l'article de 2013 n'a été trouvée, et l'article original de CNN n'a pas pu être cherché.",
+  "« Le plus représentatif » : les sources disent « un des plus populaires » ou « un des plus classiques » ; aucune page lue ne fait de classement, et sans recherche web il a été impossible de comparer avec d'autres sandwichs de rue au poisson.",
+  "Quantité de sardines par sandwich : toujours sans source. Remarque de cohérence : la chermoula de la recette du poisson frit est prévue pour 1 kg de poisson en tout (500 g de sardines et 500 g de merlans pour 4 personnes) ; en ne faisant que des sardines, il faut adapter, mais aucune source ne fixe la quantité de sardines pour 4 sandwichs.",
+  "Sens de « quari » : Lalla Moulati publie un « طاجين الحوت كواري » (16 septembre 2023) sans expliquer le mot ; le sens reste non vérifié.",
+  "Sandwichs de sardines grillées d'Essaouira et de Rabat : vus seulement dans des résumés de recherche par l'auteur ; pages non ouvertes, donc retirés de l'argument (voir la correction des écarts).",
+  "Quota de recherche web épuisé : Chhiwat, Femmes du Maroc, Le360 et Hespress n'ont pas pu être interrogés sur le sandwich ; la recherche interne de Lalla Moulati (« سندويتش سردين », « كاسكروط ») ne donne aucun sandwich de sardines."
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "slug": "dchicha",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati, « من هاد اليوم بلاما تحيري فالعشا 7 انواع من الشوربات اللذيذة والمغذية وسهلة التحضير في دقائق … برعي عائلة » (3 avril 2018)",
+   "url": "https://www.lalamoulati.net/120906.html",
+   "ce_qu_elle_confirme": "Site marocain. Parmi sept soupes pour le dîner, une « soupe de boulgour ou de dchicha » (حساء البرغل او الدشيشة) : tomate et oignon râpés, épices, eau bouillante, huile, tomate en boîte ; encore une dchicha à la tomate, sans lait (la céréale n'est pas précisée)."
+  },
+  {
+   "name": "Choumicha, rubriques « Soupes » et « Soupes et Harira » (copies archivées de novembre 2025 à janvier 2026)",
+   "url": "https://web.archive.org/web/20260115183250/https://www.choumicha.ma/c/soupes-et-harira.html",
+   "ce_qu_elle_confirme": "Les soupes d'orge de ces rubriques sont la h'ssoua hamra (n° 113), la h'ssoua aux crevettes (n° 151), la soupe d'orge au thym (n° 1479) et la soupe d'orge et de millet (n° 1496) ; aucune n'est au lait (rubriques soupes, soupes-2, soupes-3, soupes-et-harira, soupes-et-harira-2 et soupes-et-harira-3 relues)."
+  },
+  {
+   "name": "FDA (Food and Drug Administration, États-Unis), « Selecting and Serving Fresh and Frozen Seafood Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+   "ce_qu_elle_confirme": "La plupart des produits de la mer se cuisent à 145 °F (63 °C) à cœur ; sans thermomètre, les crevettes sont cuites quand leur chair devient ferme, nacrée et opaque (page lue le 7 novembre 2026)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "variants[2]",
+   "actuel": "Choumicha fait un bouillon avec les têtes et les carapaces, ajoute laurier, harissa, persil et coriandre, et met les crevettes juste avant de servir.",
+   "propose": "Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur).",
+   "pourquoi": "Sécurité alimentaire : écrite ainsi, la variante laisse croire qu'on met des crevettes crues dans la soupe et qu'on sert aussitôt. Choumicha (n° 151) les fait d'abord revenir (« y faire revenir les crevettes pendant 1mn. Retirer les crevettes et les réserver »), puis les remet quand la soupe est prête. La FDA (États-Unis) demande de cuire la plupart des produits de la mer à 145 °F (62,8 °C) à cœur ou, sans thermomètre, jusqu'à ce que la chair des crevettes soit ferme, nacrée et opaque.",
+   "gravite": "majeure",
+   "sources": "Choumicha n° 151 (copie archivée du 23 janvier 2025) ; FDA, « Selecting and Serving Fresh and Frozen Seafood Safely » (contenu à jour au 5 mars 2024) ; conversion 145 °F = 62,8 °C recalculée avec python"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "9 sont salées et sans lait",
+   "propose": "9 sont sans lait",
+   "pourquoi": "Les versions au lait sont salées elles aussi : sel, poivre et cumin chez Lalla Moulati (2014), « savory version » avec sel et cumin chez Taste of Maroc, sel chez Cooking with Alia (n° 690). « Salées » ne distingue donc pas les deux familles.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati, 10 novembre 2014 (n° 8385) ; Taste of Maroc, soupe d'orge au lait (copie archivée du 7 décembre 2025) ; Cooking with Alia n° 690"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Choumicha n'a aucune version au lait.",
+   "propose": "Choumicha n'a aucune soupe d'orge au lait dans ses rubriques de soupes (copies archivées de 2025 et 2026).",
+   "pourquoi": "Vérifié dans les rubriques « Soupes » et « Soupes et Harira » archivées : quatre soupes d'orge (n° 113, 151, 1479 et 1496), aucune au lait. Le reste du site n'a pas pu être parcouru (site en direct hors ligne, erreur 525) : la formule absolue n'est pas démontrée.",
+   "gravite": "mineure",
+   "sources": "Choumicha, rubriques soupes, soupes-2, soupes-3, soupes-et-harira, soupes-et-harira-2 et soupes-et-harira-3 (copies web.archive.org de novembre 2025 à janvier 2026)"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "c'est toujours la version salée (Lalla Moulati 2016 et 2020, MWN Lifestyle ;",
+   "propose": "c'est toujours, dans les sources lues, une version sans lait (Lalla Moulati 2016 et 2020, et sa « soupe de boulgour ou de dchicha » à la tomate de 2018 ; MWN Lifestyle ;",
+   "pourquoi": "Même raison que plus haut (les versions au lait sont salées aussi), et le constat ne vaut que pour les sources lues. Ajoute une source qui confirme le nom : Lalla Moulati (3 avril 2018) donne une « soupe de boulgour ou de dchicha » (حساء البرغل او الدشيشة) à la tomate et à l'oignon râpés, pour le dîner.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati, 3 avril 2018 (n° 120906)"
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "56 ml (Taste of Maroc)",
+   "propose": "57 ml (Taste of Maroc)",
+   "pourquoi": "Recalcul avec python : 4 c. à s. (60 ml) × 180 / 190 = 56,8 ml, soit 57 ml arrondi ; la médiane (57 ml) ne change pas.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, soupe d'orge à la tomate (4 tbsp d'huile pour 190 g d'orge)"
+  },
+  {
+   "champ": "discrepancies[9]",
+   "actuel": "(Taste of Maroc, à cause de la viande)",
+   "propose": "(Taste of Maroc, dont le bouillon cuit avec la viande)",
+   "pourquoi": "Taste of Maroc ne donne pas la raison des 15 à 20 minutes de bouillon ; on sait seulement que sa viande cuit dans ce bouillon avant l'orge.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, soupe d'orge à la tomate (copie archivée du 24 janvier 2026)"
+  },
+  {
+   "champ": "region",
+   "actuel": "Tout le Maroc ;",
+   "propose": "Dans beaucoup de foyers marocains ;",
+   "pourquoi": "« Tout le Maroc » n'est écrit dans aucune source lue. Taste of Maroc dit que l'orge concassée est « a kitchen staple in many Moroccan households », souvent cuite en soupes salées ; Hespress FR cite la dchicha au ftour des régions du Sud et une soupe d'orge à Taliouine.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, soupe d'orge à la tomate (copie archivée du 24 janvier 2026) ; Hespress FR, 16 avril 2021"
+  },
+  {
+   "champ": "ingredients[0].items[2].note",
+   "actuel": "râpé",
+   "propose": "à râper",
+   "pourquoi": "Rendu dans l'appli : pour 8 personnes, la liste affiche « 2 oignons moyens » avec la note au singulier « râpé ». À l'infinitif, la note s'accorde avec toutes les quantités.",
+   "gravite": "mineure",
+   "sources": "Simulation des fonctions fmtQ et itemName d'app.html pour 1, 4 et 8 personnes"
+  },
+  {
+   "champ": "ingredients[0].items[3].note",
+   "actuel": "râpées, sans la peau",
+   "propose": "à râper, sans la peau",
+   "pourquoi": "Rendu dans l'appli : pour 1 personne, la liste affiche « ½ tomate bien mûre » avec la note au pluriel « râpées, sans la peau ».",
+   "gravite": "mineure",
+   "sources": "Simulation des fonctions fmtQ et itemName d'app.html pour 1, 4 et 8 personnes"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 15 sources répondent. Lues avec curl (code 200) : Choumicha n° 113, 151, 1479 et 1496 et Taste of Maroc (2 pages) en copies web.archive.org, Lalla Moulati (3 pages), Cooking with Alia n° 500 et 690, MWN Lifestyle, ANSES, USDA (copie archivée). Hespress FR refuse curl (erreur 403) mais a été lu avec l'outil de lecture web. Chaque page dit bien ce que son « used_for » lui attribue.",
+  "Dose d'orge : 180 g pour 4 (45 g par personne), entre Choumicha n° 113 et 151 (250 g pour 6, soit 41,7 g) et Taste of Maroc (1 tasse pour 4, soit 190 g d'après la conversion métrique du site, 47,5 g par personne) ; milieu recalculé 44,6 g. Dose justifiée.",
+  "Eau : 2 l pour 180 g (11,1 ml par gramme), entre Choumicha (3 l pour 250 g, 12 ml par gramme, soit 2,16 l pour 180 g) et Taste of Maroc (8,5 tasses pour 190 g, 2 l d'après le site, soit 1,89 l pour 180 g) ; Cooking with Alia (700 ml pour 250 g) donne une soupe bien plus épaisse. Médiane recalculée 2,03 l. Dose justifiée, avec l'eau chaude pour allonger (Lalla Moulati 2016 ; Taste of Maroc).",
+  "Version retenue (tomate et herbes, sans lait) : décompte indépendant de 13 recettes de 5 sources (Choumicha 4, Lalla Moulati 4 sans compter le doublon n° 5228 de la n° 8385, Taste of Maroc 2, Cooking with Alia 2, MWN Lifestyle 1) : 10 sans lait, dont 7 à la tomate (Choumicha n° 113 et 151, Lalla Moulati 2018 et 2020, Taste of Maroc, Cooking with Alia n° 500, MWN Lifestyle) et 3 aux herbes (Choumicha n° 1479 et 1496, Lalla Moulati 2016), contre 3 au lait (Lalla Moulati 2014, Taste of Maroc, Cooking with Alia n° 690). Le nom « dchicha » ne désigne que des soupes sans lait dans ces sources ; les versions au lait s'appellent « hssoua belboula » ou « hessoua blanche ». Le choix est fondé sur les sources lues, et la recette ne prétend nulle part être « la plus courante » (elle le dit dans unverified[0]).",
+  "Autres doses recalculées avec python, ramenées à 180 g d'orge : huile 57,6 ml (Choumicha), 56,8 ml (Taste of Maroc), 21,6 ml (Cooking with Alia), d'où 4 c. à s. ; sel 0,72 et 1,42 c. à c., d'où 1 ; poivre 0,36 et 0,95, d'où ½ ; curcuma 0,95 et 0,18, d'où ½ ; concentré 0,36, 0,72 et 1,89 c. à s., d'où 2 c. à c. ; herbes 2,84 et 2,88 c. à s., d'où 3 c. à s. ; 8,5 tasses = 2,01 l.",
+  "Ordre et cuisson : oignon translucide sur feu moyen (Taste of Maroc) ou doux (Choumicha n° 113) ; tomates, herbes, épices et eau avant l'ébullition (Taste of Maroc ; Choumicha n° 151) ; orge versée à l'ébullition (Choumicha n° 113 et 151 ; Lalla Moulati 2016 après les aromates) ; feu doux en remuant jusqu'à ce que l'orge soit tendre et la soupe veloutée (Choumicha n° 113) ; servir aussitôt car l'orge continue de gonfler (Taste of Maroc ; Choumicha). Minuteur de 30 min puis prolongation : cohérent avec Choumicha n° 1479 et 1496 (25 à 40 min) et avec Taste of Maroc (la grosse orge cuit plus longtemps et demande un peu plus d'eau). time.cook = 45 (Choumicha n° 113 et Taste of Maroc : 45 min) et time.prep = 15 (Taste of Maroc) ; le texte de l'étape 8 correspond au minuteur.",
+  "Secrets, erreurs, variantes et service : textes retrouvés dans les sources citées (lavage jusqu'à eau claire, calibre des grains, tomates râpées sans peau, remuer et rajouter de l'eau pour que l'orge n'attache pas et ne brûle pas, feu pas trop fort sinon ça déborde, concentré facultatif pour la couleur, filet d'huile au service, réchauffage avec de l'eau, version au lait, viande, herbes avec thym, fliou, céleri, ail en chemise, gingembre et curcuma, légumes au ftour à la place de la harira) ; Hespress FR (16 avril 2021) cite la dchicha au ftour de Laâyoune-Sakia El Hamra, une soupe d'orge à Taliouine et la tchicha, soupe de blé, à Ouarzazate (et une tchicha à Oujda).",
+  "Halal : ni porc ni alcool, pas de fromage ; viande halal précisée dans la variante. Sécurité : textes de l'ANSES et de l'USDA relus ; viande de la variante cuite au moins 30 min dans le bouillon (Taste of Maroc : 15 à 20 min, puis 15 min avec l'orge) ; crevettes : voir correction.",
+  "Noms : شوربة دشيشة الشعير (Lalla Moulati 2020 : « شوربة … بدشيشة الشعير » ; 2016 : « شوربة الدشيشة ») ; h'ssoua hamra (Choumicha n° 113 « H'ssoua hamra bel belboula » ; Taste of Maroc « Hssoua Belboula Hamra »).",
+  "Rendu dans l'appli (simulation des fonctions fmtQ et fill d'app.html, corrections comprises) : pour 1 personne, 45 g d'orge, 1 c. à s. d'huile, ¼ oignon moyen, ½ tomate bien mûre, ¾ c. à s. de persil, ⅛ c. à c. de curcuma et de poivre, ¼ c. à c. de sel, 500 ml d'eau, ½ c. à c. de concentré ; pour 4, les quantités de la liste ; pour 8, 360 g, 2 oignons moyens, 4 tomates bien mûres, 4 l d'eau. {{oignon:full}} et {{tomates:full}} s'accordent ; les {{id}} sans quantité affichent le nom (eau chaude, huile d'olive) ; aucun identifiant inconnu."
+ ],
+ "non_verifiable": [
+  "Version la plus courante au Maroc : aucune source lue ne le dit. La recherche web étant épuisée, seules des recherches internes ont été possibles : Hespress (résultats non affichés), Le360 (pas de page de recherche trouvée), Chhiwat (aucun résultat pour دشيشة, حسوة et بلبولة), Femmes du Maroc (aucune soupe d'orge), Lalla Moulati (6 pages trouvées pour دشيشة et البلبولة, dont un doublon et une page vide, déjà comptées). Le décompte des recettes reflète les sites lus, pas la pratique de tout le pays.",
+  "Choumicha : seules les rubriques de soupes archivées ont été relues ; une soupe d'orge au lait rangée ailleurs (petit-déjeuner, Ramadan) n'est pas exclue ; le site en direct est hors ligne (erreur 525).",
+  "Lalla Moulati 2018 : « boulgour ou dchicha », la céréale (orge ou blé) n'est pas précisée ; Lalla Moulati 2020 : la page ne donne que la liste des ingrédients.",
+  "Hespress FR (2021) : dchicha au ftour du Sud, sans dire si elle y est à la tomate, aux herbes ou au lait.",
+  "Cooking with Alia n° 500 : nombre de personnes non indiqué ; Taste of Maroc, version au lait : quantités en tasses sans conversion métrique sur la page.",
+  "Page Lalla Moulati de 2019 sur la belboula aux herbes (n° 214820, « فهاد البرد ») : texte vide, confirmé ; aucun lien clair avec l'hiver.",
+  "Recherche web épuisée : pas de nouvelle source marocaine sur la dchicha au-delà des pages citées et des recherches internes."
+ ]
+}

@@ -135,7 +135,15 @@ window.RECETTES.push({
    "phase": "Service",
    "title": "Sers de haut pour la mousse",
    "text": "Verse le thé dans les petits verres en levant haut la théière, d'un geste régulier : plus tu verses de haut, plus il mousse. Cette mousse doit occuper environ un quart du verre. Sers très chaud.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/the-verser.jpg",
+    "alt": "Homme qui verse le thé de haut dans les verres",
+    "caption": "Verser de haut",
+    "w": 562,
+    "h": 1000,
+    "credit": "Photo de l'étape « Sers de haut pour la mousse » : Metalldinger0th, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
   }
  ],
  "secrets": [

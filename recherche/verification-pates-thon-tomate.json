@@ -1,0 +1,65 @@
+{
+ "slug": "pates-thon-tomate",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », article du 24 décembre 2020, lu le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "ce_qu_elle_confirme": "Source officielle française qui recoupe la FDA : « ne pas conserver les aliments plus de 2 heures à température ambiante avant réfrigération » ; garder 4 °C dans la zone la plus froide du réfrigérateur."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « طريقة تحضير معكرونة بالطون والخضر كتجي لذيذة » (pâtes au thon et aux légumes, titre en darija), 2 décembre 2016, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/52913.html",
+   "ce_qu_elle_confirme": "Recette marocaine de pâtes chaudes au thon et à la tomate (400 g de pâtes, tomates, oignon, poivrons, concentré de tomate, olives, thon égoutté, ail, huile d'olive) : le plat s'appelle « معكرونة بالطون » dans le titre en darija, et le thon « تونة » dans la recette."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « معكرونة بالتونة للنساء للي متبعين الريجيم », 14 février 2019, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/183614.html",
+   "ce_qu_elle_confirme": "Le nom arabe « معكرونة بالتونة » (pâtes au thon). La recette elle-même est une salade de pâtes froides à la mayonnaise, un autre plat : seul le nom sert ici."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "arabic",
+   "actuel": "",
+   "propose": "معكرونة بالتونة",
+   "pourquoi": "Le champ est vide (la correction remplit le champ entier). « معكرونة بالتونة », « pâtes au thon », est le nom employé par le site marocain Lalla Moulati (titre de l'article du 14 février 2019 ; « تونة » dans la recette du 2 décembre 2016, dont le titre en darija dit « معكرونة بالطون »). Même mot « معكرونة » que le nom arabe des spaghettis aglio e olio. Réserve : un seul site, deux articles ; faute de moteur de recherche, pas de deuxième source indépendante.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati, articles 183614 (14 février 2019) et 52913 (2 décembre 2016)."
+  },
+  {
+   "champ": "serving",
+   "actuel": "mets-les au froid dans les 2 heures après la cuisson et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
+   "propose": "mets-les au froid dans les 2 heures après la cuisson (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+   "pourquoi": "La page de la FDA déjà citée ajoute : « Refrigerate within 1 hour if the temperature outside is above 90° F » ; 90 °F = 32,2 °C (calcul python). Utile par forte chaleur. L'Anses confirme la règle des 2 heures pour la France.",
+   "gravite": "mineure",
+   "sources": "FDA, « Safe Food Handling » (contenu à jour au 5 mars 2024) ; Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020) ; conversion python3."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 8 liens hors Accademia répondent (code 200, le 7 novembre 2026) et disent ce qui leur est attribué : Dissapore (2022, 2025, 2018), Cookist, Il Giornale del Cibo (2019 et fiche de 2007), Wikipédia en italien, FDA. Les deux liens de l'Accademia n'ont pas été ouverts (voir non_verifiable).",
+  "Dissapore, fiche « Pasta al tonno » du 10 avril 2022 (mise à jour le 24 août 2022) : la recette la plus courante quand le placard est vide, plat typique des étudiants ; « ragù » de thon cuit dans la pulpe de tomate jusqu'à une sauce veloutée ; olives, câpres, petits pois ; pâtes courtes préférées ; ventresca, « la partie la plus grasse et la plus noble du thon » ; pour 4, 150 g de thon à l'huile égoutté, 1 échalote, 400 g de pulpe, 320 g de pâtes, 4 c. à s. d'huile ; échalote tendre et transparente, puis thon et tomate ; pâtes al dente sautées avec une demi-louche d'eau de cuisson ; 5 min + 15 min.",
+  "Dissapore, Rossella Neri, 22 février 2025 (mise à jour le 5 mai 2026) : pour 4, 400 g de pâtes, 6 c. à s. d'huile, 1 gousse d'ail, 1 c. à c. de bouillon en granulés, 400 g de tomates cerises, 200 g de thon égoutté, persil, sel léger ; thon à l'huile d'olive conseillé (« consistance plus moelleuse, goût plus riche ») ; tomates à feu vif ; pâtes égouttées quelques minutes avant la fin, avec quelques cuillerées d'eau de cuisson ; sauce 5 jours au réfrigérateur, pâtes assaisonnées jusqu'au repas suivant ; 10 min + 15 min. Le bouillon en granulés est bien écarté (halal).",
+  "Dissapore, Anna Silveri, 15 décembre 2018, relu deux fois : recette déposée par l'Accademia à la Chambre de commerce de Bologne après la recherche de Cristina Bragaglia ; jours maigres, « probablement » la veille de Noël ; premières boîtes de thon à l'huile à Gênes en 1868 ; à Rome on met de l'ail, à Bologne le thon s'ajoute après ; seules variantes admises : anchois ou persil, ajouté à froid sur l'assiette ; pour 4, 320 g de spaghettis, 180 g de thon à l'huile, 1 oignon rosé moyen, 700 g de tomates fraîches ou une boîte de 400 g de pelées, sel et huile ; oignon en tranches très fines, fondu jusqu'à être transparent ; tomates en morceaux, une demi-heure à feu doux ; thon émietté 10 minutes avant la fin. Cette reproduction confirme la variante « recette de Bologne » et l'essentiel de ce que l'auteur attribue à l'Accademia.",
+  "Il Giornale del Cibo, Matteo Garuti, 23 avril 2019 : recette enregistrée le 14 décembre (2018) à la Chambre de commerce de Bologne ; mangée le vendredi, jour maigre, ou la veille de Noël (Bragaglia) ; Gênes, 1868 ; « le thon ne doit pas cuire longtemps avec la sauce » et s'ajoute en fin de préparation ; anchois (même pendant la cuisson) et persil à froid sur l'assiette ; mêmes quantités que Dissapore 2018.",
+  "Cookist, chef Ruben Bondì, 11 mai 2022 : pour 2, 200 g de pâtes, 150 g de tomates cerises, 100 g de coulis, 100 g de thon égoutté, olives noires, câpres, 2 anchois, ail, piment, persil, basilic ; thon ajouté presque en fin de cuisson, « sinon il se dessèche trop » ; rigatoni, ou tout autre format ; pâtes al dente mêlées à la sauce et servies ; 1 jour au réfrigérateur en boîte hermétique ; 10 min + 20 min.",
+  "Il Giornale del Cibo, fiche de lectrice (Monia, 6 juin 2007) : pour 4, 400 g de spaghettis, 400 g de sauce tomate, 160 g de thon à l'huile ; méthode longue (2 heures), bien écartée.",
+  "Wikipédia en italien, « Spaghetti al tonno » : plat populaire de plusieurs régions ; Gênes 1868 ; à Bologne, recherche de l'Accademia, début du XXe siècle, vendredi sans viande, dépôt le 14 novembre 2018 ; à Rome, thon, oignon, pulpe de tomate, huile d'olive, persil, parfois ail et piment à la place de l'oignon ; à Palerme, sans tomate, avec raisins secs, pignons et fenouil sauvage.",
+  "Médianes recalculées (python3 -I), en g pour 100 g de pâtes, sans la page sicilienne de l'Accademia : thon 56,25 (Bologne), 46,9 (Dissapore 2022), 50 (Dissapore 2025), 50 (Cookist), 40 (lectrice d'Il Giornale del Cibo), médiane 50, donc 200 g pour 400 g ; tomates 125, 125, 100, 125, 100, médiane 125, donc 500 g (en prenant les pelées de Bologne ; ses tomates fraîches feraient 218,75) ; pâtes pour 4, médiane 400 g ; huile 5 c. à s. (Dissapore 2022 ramené à 400 g) et 6 (Dissapore 2025) : 5 retenu, défendable.",
+  "Temps : les trois totaux sourcés sont 20 min (Dissapore 2022), 25 min (Dissapore 2025) et 30 min (Cookist) ; médiane 25 min, égale aux 5 + 20 min de la recette. Catégorie « Rapide » respectée.",
+  "Moment du thon : le mettre quand les pâtes plongent revient à environ 10 minutes de mijotage, comme les 10 minutes avant la fin de la recette de Bologne (Dissapore 2018, Il Giornale del Cibo 2019), et reste « vers la fin » au sens de Cookist et d'Il Giornale del Cibo.",
+  "FDA, « Safe Food Handling » (contenu à jour au 5 mars 2024) : réfrigérer dans les 2 heures, restes à 165 °F, soit 73,9 °C, arrondi à 74 °C (calcul python).",
+  "Halal : thon, tomates, oignon, huile ; pas de vin ; le bouillon en granulés de Dissapore 2025 est écarté ; variantes (olives, câpres, petits pois, anchois, thon frais, raisins secs, pignons, fenouil) sans problème.",
+  "Cohérence interne : chaque ingrédient de la liste apparaît dans une étape ; aucune quantité écrite en dur dans les étapes ; pas de minuteur et aucune durée chiffrée dans les étapes.",
+  "Rendu dans l'appli (fonctions de app.html exécutées telles quelles sous Node, résultat identique à une simulation python) : pour 4, « Pèle et émince très finement 1 oignon moyen », « Égoutte 200 g de thon », « Coupe 500 g de tomates pelées », « chauffe 5 c. à s. d'huile d'olive », « plonge 400 g de spaghettis » ; pour 1, ¼ oignon moyen, 50 g, 125 g, 1¼ c. à s., 100 g ; pour 8, 2 oignons moyens, 400 g, « 1 kg de tomates pelées », 10 c. à s., 800 g. Les repères sans quantité (sel, eau, eau de cuisson, persil) affichent bien leur nom.",
+  "Secrets, erreurs, variantes et service retrouvés dans les sources lisibles : thon ajouté vers la fin pour qu'il ne se dessèche pas (Cookist, Il Giornale del Cibo, Bragaglia chez Dissapore) ; thon à l'huile d'olive (Dissapore 2025) ; oignon tendre et transparent (Dissapore 2022 et 2018) ; thon égoutté (Dissapore) ; eau de cuisson (Dissapore, deux fiches) ; spaghettis de tradition, pâtes courtes chez Dissapore, rigatoni chez Cookist ; ventresca (Dissapore) ; persil cru sur l'assiette servie (Dissapore 2018, Il Giornale del Cibo 2019) ; jours maigres, vendredi et veille de Noël (Il Giornale del Cibo, Dissapore, Wikipédia) ; Gênes 1868 ; dépôt de la recette bolognaise ; dates du dépôt (14 décembre selon Il Giornale del Cibo, 14 novembre 2018 selon Wikipédia) ; conservation 1 jour (Cookist) ; variantes de Rome, de Palerme, aux olives, câpres, petits pois, anchois, tomates cerises."
+ ],
+ "non_verifiable": [
+  "Accademia Italiana della Cucina : son fichier robots.txt interdit à tous les robots le chemin des recettes (« Disallow: /it/ricette/ricetta » pour « User-agent: * », lu le 7 novembre 2026) ; selon la règle donnée, ni les deux pages citées ni leurs archives n'ont été ouvertes, alors que l'auteur les a utilisées. La page bolognaise est en grande partie confirmée par ses reproductions (Dissapore 2018, Il Giornale del Cibo 2019), sauf : « thon à l'huile de qualité » (source du deuxième secret ; l'idée reste confirmée par Dissapore 2025) ; « en morceaux grossiers » (quatrième secret et étape « Prépare le thon et les tomates » : les reproductions disent seulement « sbriciolato », émietté) ; les spaghettis « al dente » ; et « avec mesure » pour le persil (huitième secret ; « sans en mettre trop » à l'étape « Sers aussitôt »). La page sicilienne n'est confirmée nulle part : variante « Au thon frais, à la sicilienne » (variants[4]) et ses chiffres (400 g de spaghettis, 400 g de thon frais, 500 g de sauce) ; les médianes ne changent pas sans elle. À décider : garder ces passages ou les retirer.",
+  "Nom en darija : Lalla Moulati écrit « معكرونة بالطون » dans un titre en darija (article du 2 décembre 2016), mais je n'ai trouvé aucune transcription en lettres latines dans une source ; le champ darija est donc laissé vide. Si tu acceptes l'écriture arabe dans ce champ, « معكرونة بالطون » est la forme sourcée.",
+  "Nom arabe proposé : un seul site (Lalla Moulati, deux articles) ; pas de deuxième source indépendante à cause du quota de recherche.",
+  "Conservation d'une boîte de thon entamée : non vérifiée (le site de l'USDA, fsis.usda.gov, répond 403 ; aucune page de l'Anses trouvée sur ce point).",
+  "Durée exacte du mijotage de la version rapide : aucune source ne la chiffre (comme l'auteur l'a noté).",
+  "Quota de recherche épuisé : seules les pages citées, d'autres pages des mêmes sites, la recherche interne de Lalla Moulati et des pages officielles trouvées par plan de site ont été lues. Les sites qui refusent les agents d'IA n'ont pas été ouverts."
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "slug": "bissara",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "MedlinePlus (Bibliothèque nationale de médecine des États-Unis, NIH), encyclopédie médicale, « Glucose-6-phosphate dehydrogenase deficiency », révisée le 29 janvier 2026",
+   "url": "https://medlineplus.gov/ency/article/000528.htm",
+   "ce_qu_elle_confirme": "Site officiel du gouvernement des États-Unis. La destruction des globules rouges peut être déclenchée par des infections, certains aliments (comme les fèves) et certains médicaments ; les personnes qui ont un déficit en G6PD doivent éviter strictement ce qui déclenche une crise ; dans de rares cas, une crise grave peut entraîner une insuffisance rénale ou la mort (page lue le 7 novembre 2026)."
+  },
+  {
+   "name": "MedlinePlus Genetics (Bibliothèque nationale de médecine des États-Unis), « Glucose-6-phosphate dehydrogenase deficiency », mise à jour du 12 avril 2023",
+   "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+   "ce_qu_elle_confirme": "Chez les personnes qui ont un déficit en G6PD, une anémie hémolytique peut survenir après avoir mangé des fèves ou respiré le pollen de la plante ; cette réaction s'appelle le favisme (page lue le 7 novembre 2026)."
+  },
+  {
+   "name": "OMS, groupe de travail, « Glucose-6-phosphate dehydrogenase deficiency », Bulletin de l'Organisation mondiale de la santé, 1989, 67(6), p. 601-611 (résumé sur PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2491315/",
+   "ce_qu_elle_confirme": "Le déficit en G6PD peut provoquer des crises hémolytiques qui mettent la vie en danger, chez l'enfant et plus tard, par interaction avec certains médicaments et avec les fèves de l'alimentation ; ses complications peuvent en grande partie être évitées par l'éducation et l'information."
+  },
+  {
+   "name": "Orphanet (INSERM), fiche ORPHA:362 « Déficit en glucose-6-phosphate déshydrogénase », copie archivée du 22 mai 2025",
+   "url": "https://web.archive.org/web/20250522024536/https://www.orpha.net/fr/disease/detail/362",
+   "ce_qu_elle_confirme": "« Favisme » et « Déficit en G6PD » figurent comme synonymes de la fiche, maladie classée non rare en Europe (la page ne parle pas des fèves ; la page en direct est protégée par une vérification anti-robots, non contournée)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "ingredients[0].items[0].note",
+   "actuel": "sans la peau",
+   "propose": "sans la peau. Attention : en cas de déficit en G6PD, les fèves peuvent provoquer une destruction des globules rouges (anémie hémolytique, appelée favisme), parfois grave : ne sers pas cette recette aux personnes concernées (MedlinePlus, Bibliothèque nationale de médecine des États-Unis ; OMS).",
+   "pourquoi": "Mise en garde demandée, absente faute de source officielle lisible. MedlinePlus (site officiel du gouvernement des États-Unis, Bibliothèque nationale de médecine) écrit que la destruction des globules rouges peut être déclenchée par certains aliments « comme les fèves », que les personnes qui ont un déficit en G6PD doivent « éviter strictement » ce qui déclenche une crise, que rarement une crise grave peut entraîner une insuffisance rénale ou la mort, et qu'une anémie hémolytique peut survenir après avoir mangé des fèves (réaction appelée favisme). Un groupe de travail de l'OMS (1989) parle de crises hémolytiques pouvant mettre la vie en danger, par interaction avec les fèves de l'alimentation. La phrase n'affirme rien de plus. Placée dans la note de l'ingrédient, elle s'affiche sous la ligne des fèves ; à l'intégration, elle peut aussi aller dans une carte « notes » de l'onglet Ingrédients (champ notes que l'appli sait afficher), plus visible.",
+   "gravite": "majeure",
+   "sources": "MedlinePlus, encyclopédie médicale, article 000528 « Glucose-6-phosphate dehydrogenase deficiency » (révisé le 29 janvier 2026) ; MedlinePlus Genetics, même titre (mis à jour le 12 avril 2023) ; OMS, groupe de travail, Bulletin de l'OMS 1989, 67(6) : 601-611 (résumé lu sur PubMed Central)"
+  },
+  {
+   "champ": "ingredients[0].items[1].note",
+   "actuel": "épluchées, entières",
+   "propose": "à éplucher, sans couper",
+   "pourquoi": "Rendu dans l'appli : pour 1 personne, la liste affiche « ¾ gousse d'ail » avec la note au pluriel « épluchées, entières ». À l'infinitif, la note s'accorde avec toutes les quantités et dit la même chose que l'étape 2 (« Garde l'ail entier, sans le couper »).",
+   "gravite": "mineure",
+   "sources": "Simulation des fonctions fmtQ et itemName d'app.html pour 1, 6 et 12 personnes"
+  },
+  {
+   "champ": "ingredients[0].items[2].q",
+   "actuel": "1.5",
+   "propose": "1.75",
+   "pourquoi": "La recette suit la méthode sans trempage de Choumicha et reprend exactement sa dose de fèves (n° 343 : 350 g pour 6 personnes). Ses deux recettes de bissara ont le même rapport, 500 ml d'eau pour 100 g de fèves (n° 343 : 1,75 l pour 350 g ; n° 957 : 2 l pour 400 g), soit 1,75 l ici ; sa crème de fèves (n° 995) en met même 600 ml. Le 1,5 l retenu vient de la médiane de toutes les recettes (417 ml pour 100 g), qui mêle des recettes où les fèves ont trempé une nuit (Taste of Maroc, My Moroccan Food, Cooking with Alia n° 132) ; la médiane des seules recettes sans trempage est de 450 ml pour 100 g (1,575 l). 1,5 l reste dans la fourchette des sources (200 à 600 ml pour 100 g) et l'eau chaude permet de rattraper : correction d'alignement sur la source principale, pas une erreur.",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 343 (copie archivée du 4 décembre 2012) et n° 957 (copie archivée du 3 octobre 2019) ; rapports recalculés avec python"
+  },
+  {
+   "champ": "steps[1].tip",
+   "actuel": "Choumicha met l'ail en chemise parce qu'elle passe ensuite la purée au tamis.",
+   "propose": "Choumicha met l'ail en chemise, puis passe la purée à la passoire fine ; Nargisse Benkabbou (My Moroccan Food) le cuit aussi en chemise, puis l'épluche avant de l'écraser.",
+   "pourquoi": "Le lien de cause (« parce qu'elle passe ensuite la purée au tamis ») n'est écrit dans aucune source : le site de Choumicha répond seulement « Ajoutez les gousses d'ail sans les éplucher » (commentaire du 22 avril 2016). La nouvelle phrase ne garde que des faits écrits ; la fin de l'astuce (« Comme ici tu mixes, épluche-le avant. ») reste juste (Bladi.net épluche l'ail avant de mixer).",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 957 (passoire fine ; réponse du 22 avril 2016) ; My Moroccan Food, 18 février 2016 (« Add the garlic cloves (unpeeled) », puis « unpeel and mash them ») ; Bladi.net (« gousses d'ail pelées »)"
+  },
+  {
+   "champ": "unverified[0]",
+   "actuel": "Mise en garde pour les personnes qui ont un déficit en G6PD (favisme) : non ajoutée, faute d'avoir pu lire une source officielle (la page du NHS n'existe plus à l'adresse connue et le quota de recherche web était épuisé). À vérifier avant de publier la recette.",
+   "propose": "Une source officielle française ou marocaine sur le favisme : la page du NHS sur le déficit en G6PD n'existe plus (erreur 404, aucune entrée G6PD dans son index de A à Z), la recherche du site de la Haute Autorité de santé a été refusée (erreur 403), celle du site du ministère de la Santé marocain renvoie une erreur, et la page d'Orphanet en direct est protégée par une vérification anti-robots. La mise en garde ajoutée à l'ingrédient « fèves » s'appuie sur MedlinePlus (Bibliothèque nationale de médecine des États-Unis) et sur un groupe de travail de l'OMS (1989).",
+   "pourquoi": "Avec la correction de la note des fèves, l'ancien texte (« non ajoutée ») deviendrait faux. Le nouveau texte garde ce qui reste non vérifié : aucune source officielle française ou marocaine n'a pu être lue.",
+   "gravite": "majeure",
+   "sources": "nhs.uk (erreur 404 aux adresses /conditions/glucose-6-phosphate-dehydrogenase-deficiency/ et /conditions/g6pd-deficiency/, 821 liens de l'index /conditions/ sans G6PD) ; has-sante.fr (403) ; sante.gov.ma (erreur SharePoint) ; orpha.net (page « Vérification de la connexion »)"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "Retenu : 1,5 l pour 350 g (429 ml pour 100 g), puis eau chaude pour régler la texture.",
+   "propose": "Retenu : 1,75 l pour 350 g (500 ml pour 100 g), le rapport des deux bissaras de Choumicha, dont la recette suit la méthode et la dose de fèves (n° 343 : 1,75 l pour 350 g ; n° 957 : 2 l pour 400 g), puis eau chaude pour régler la texture.",
+   "pourquoi": "Accorde le texte avec la correction de la quantité d'eau (ingredients[0].items[2].q).",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 343 et n° 957"
+  },
+  {
+   "champ": "discrepancies[6]",
+   "actuel": "confirmée par trois sources : elle permet d'écumer sans perdre d'épices, et l'huile se lie à la purée en fin de cuisson.",
+   "propose": "suivie aussi par Hespress (2011) et Cooking with Alia (n° 858) ; chez Choumicha (n° 995), la purée absorbe toute l'huile sur feu doux et prend une consistance crémeuse.",
+   "pourquoi": "« Écumer sans perdre d'épices » est un raisonnement de la rédaction, écrit dans aucune source. Le second argument est remplacé par ce que Choumicha écrit vraiment : « Une fois la purée de fève a absorbé toute l'huile d'olive et a pris une consistance crémeuse, la retirer du feu ». Les « trois sources » sont nommées.",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 995 (copie archivée du 9 février 2025) ; Hespress, 13 janvier 2011 (poivre, cumin et huile après le mixage) ; Cooking with Alia n° 858 (cumin, piment et huile après le mixage)"
+  },
+  {
+   "champ": "discrepancies[9]",
+   "actuel": "Lalla Moulati 2020 ; Chhiwat ; Sky News Arabia)",
+   "propose": "Lalla Moulati 2020 ; Sky News Arabia ; Chhiwat met de la « soudania », un piment en poudre dont la force n'a pas été confirmée)",
+   "pourquoi": "Chhiwat écrit seulement « بالسودانية » (soudania) ; la recette note elle-même, dans « non vérifié », qu'on ne sait pas si ce piment est fort ou doux. Le ranger dans « piment fort » contredit cette note.",
+   "gravite": "mineure",
+   "sources": "Chhiwat, recette de Lamia (5 décembre 2013) ; unverified[1] de la recette"
+  },
+  {
+   "champ": "discrepancies[10]",
+   "actuel": "Citron : facultatif chez Taste of Maroc, Bladi.net, Cooking with Alia et Hespress ; absent chez Choumicha.",
+   "propose": "Citron : jus de citron sur chaque assiette chez Bladi.net (1 citron dans la liste) ; facultatif chez Taste of Maroc (dans la purée), Cooking with Alia et Hespress ; absent chez Choumicha.",
+   "pourquoi": "Bladi.net ne le présente pas comme facultatif : « 1 citron » est dans les ingrédients et l'étape 3 dit « arroser d'huile d'olive et de jus de citron ». Chez Taste of Maroc, le jus de citron facultatif (1 à 2 c. à s.) se mélange à la purée ; Cooking with Alia (« Some people like to add lemon juice ») et Hespress 2011 (certains ajoutent du citron) le donnent bien comme facultatif.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, recette « Bissara » ; Taste of Maroc (copie archivée du 21 décembre 2025) ; Cooking with Alia n° 132 ; Hespress, 13 janvier 2011"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 22 sources répondent. Lues avec curl (code 200) : Choumicha n° 957, 343, 995 et 1498 (copies web.archive.org), Lalla Moulati (3 pages), Chhiwat, Le360, Bladi.net (2 pages), Taste of Maroc (copie archivée), My Moroccan Food, Cooking with Alia n° 132 et 858, MWN Lifestyle, ANSES, USDA (copie archivée ; web.archive.org a refusé plusieurs connexions avant de répondre). Hespress (2011 et 2014), Morocco World News et Sky News Arabia refusent curl (erreur 403) mais ont été lus avec l'outil de lecture web. Chaque page dit bien ce que son « used_for » lui attribue.",
+  "Dose de fèves : 350 g pour 6 (58 g par personne) = exactement Choumicha n° 343 (« fèves sèches cassées : 350 g », 6 personnes) ; Taste of Maroc : 12 oz pour 6, soit 340 g (valeur métrique du site). Recalcul python : 50 g (Choumicha n° 957), 56,7 g (Taste of Maroc), 58,3 g (Choumicha n° 343), 62,5 g (Choumicha n° 995), 100 g (Chhiwat, My Moroccan Food), 125 g (Hespress : « un kilo de fèves suffit pour rassasier huit personnes ») ; médiane 62,5 g, comme écrit.",
+  "Eau : rapports recalculés pour 100 g de fèves : 500 ml (Choumicha n° 957 et 343), 600 ml (n° 995), 300 ml (Chhiwat), 200 ml (Hespress, « un litre d'eau ou plus » pour 500 g), 453 ml (Taste of Maroc), 250 ml (My Moroccan Food), 417 ml (Cooking with Alia n° 132), 400 ml (n° 858) ; médianes 417 ml (toutes) et 450 ml (sans trempage), comme écrit. Voir la correction proposée (1,75 l).",
+  "Sans trempage : Choumicha n° 995 (« Laver les fèves et les égoutter »), n° 957 et 343 (fèves mises directement dans la marmite), Lalla Moulati 2014 (trier, laver, cuire), Cooking with Alia n° 858, Bladi.net (autocuiseur) ; Chhiwat, Lalla Moulati 2020, Hespress, Sky News Arabia et Morocco World News n'en parlent pas. Une nuit de trempage : Taste of Maroc (8 h ; « Stray bits of brown skin are easily removed after soaking »), My Moroccan Food, Cooking with Alia n° 132, MWN Lifestyle. Le choix sans trempage et l'astuce de l'étape 1 sont fondés.",
+  "Moment des épices et de l'huile : après le mixage, sur feu doux, chez Choumicha n° 957 (« Placer la purée de fève sur un feu doux et l'assaisonner avec les épices. Rajouter l'huile d'olive en remuant »), n° 343 (huile, sel et cumin, puis 5 à 10 min de frémissement à la cuillère en bois) et n° 995, chez Hespress 2011 (poivre, cumin et huile après le mixage) et Cooking with Alia n° 858 (cumin, piment et huile après le mixage, 5 min) ; dès le début chez Taste of Maroc, Morocco World News, Chhiwat et Sky News Arabia ; épices au début et huile après le mixage chez Lalla Moulati 2020 ; à mi-cuisson chez My Moroccan Food. Le choix et le minuteur de 5 min sont fondés.",
+  "Garnitures : huile d'olive, cumin et paprika sur le bol (Choumicha n° 957 et 343, My Moroccan Food, Cooking with Alia n° 132, Bladi.net, Le360) ; piment fort à table (Taste of Maroc : cayenne ou harissa, condiments « on the side » ; Lalla Moulati 2020 ; Sky News Arabia) ; citron (voir correction) ; pain de blé ou d'orge (Hespress 2011 ; Sky News Arabia) ; olives et morceaux d'oignon à Tanger (Hespress 2014) ; oignon, piment vert, olives et piment frit chez Lalla Moulati 2014 ; poisson frit (Hespress 2011, Larache ; Taste of Maroc, « as a side to fish »).",
+  "Autres doses recalculées (python), pour 100 g de fèves : ail, médiane 1 gousse (de 0,6 à 2,4), soit 4 gousses pour 350 g ; huile, médiane 25 ml (de 3,8 à 80 ml), soit 6 c. à s. ; cumin, médiane 0,4 c. à c., soit 1½ c. à c. ; paprika et sel, médiane 0,25 c. à c., soit 1 c. à c. (Choumicha n° 343 : 1 c. à thé de sel pour 350 g). Conversions : 12 oz = 340 g ; 6,5 tasses = 1,54 l ; 1/3 de tasse = 79 ml ; 14 oz = 397 g ; 7 tasses = 1,66 l.",
+  "Temps et minuteurs : 20 min de préparation et 1 h 15 de cuisson = Choumicha n° 957 (cuisson 1 h 15, total 1 h 35) et Taste of Maroc (1 h 15 de cuisson) ; minuteurs de 60 et 5 min, plus 10 à 15 min d'écume, cohérents avec time.cook = 75 ; le texte des étapes 5 et 8 correspond aux minuteurs. Recette non « Rapide ».",
+  "Halal : ni porc ni alcool, pas de fromage. Sécurité : textes de l'ANSES (2 h au plus à température ambiante, 3 jours, portions plus petites au-delà d'un litre, boîtes fermées) et de l'USDA (2 h, 3 à 4 jours, grande marmite de soupe répartie dans de petits récipients, soupes réchauffées jusqu'à pleine ébullition) relus ; réchauffage doux en remuant pour ne pas brûler (Taste of Maroc).",
+  "Secrets, erreurs, variantes et service : textes retrouvés dans les sources citées, sauf les points corrigés. Exemples relus : écume au début (Choumicha, Cooking with Alia, Hespress 2011) ; couvercle à moitié ou entrouvert pour éviter le débordement (Choumicha n° 957, Cooking with Alia n° 132) ; fèves qui s'écrasent à la main (Morocco World News) ; purée fade relevée à table (Taste of Maroc) ; cuisson longue et tamis d'autrefois, mixeur plus rapide et plus lisse (Taste of Maroc) ; restaurateur de Larache sans légumes « pour plaire à tous les goûts » (Hespress 2011) ; argan dans le Souss et l'Atlas (Hespress 2011) et « selon les régions » (Sky News Arabia) ; fèves grillées 5 min et tomate mixée (Lalla Moulati 2018) ; salade de la crème de fèves (Choumicha n° 995) ; pois cassés trempés une heure (Choumicha n° 1498) ou sans trempage avec oignon (Taste of Maroc).",
+  "Noms et région : بيصارة (Lalla Moulati, Chhiwat, Hespress, Sky News Arabia) ; « bayssar » dans le Nord (Le360 ; mots clés Baysar et Bayssar chez Choumicha) ; spécialité du Nord, à Tanger, Tétouan et Chefchaouen (Le360) et chez les Jbala (Hespress 2014) ; mangée « dans toutes les régions du Maroc », surtout l'hiver (Sky News Arabia, 8 février 2021) et « partout ailleurs au Maroc » (Le360).",
+  "Rendu dans l'appli (simulation des fonctions fmtQ et fill d'app.html, corrections comprises) : pour 1 personne, 60 g de fèves, ¾ gousse d'ail, 290 ml d'eau, 1 c. à s. d'huile, ¼ c. à c. de cumin, ⅛ c. à c. de paprika et de sel ; pour 6, 350 g, 4 gousses d'ail, 1,75 l, 6 c. à s., 1½ c. à c., 1 c. à c. ; pour 12, 700 g, 8 gousses d'ail, 3,5 l, 12 c. à s., 3 c. à c., 2 c. à c. {{ail:full}} passe au pluriel au-delà de 1 ; les {{id}} sans quantité affichent le nom (eau chaude, huile d'olive vierge extra, cumin moulu, paprika, piment fort en poudre, citron, khobz) ; aucun identifiant inconnu."
+ ],
+ "non_verifiable": [
+  "Source officielle française ou marocaine sur le favisme : introuvable avec les moyens disponibles (recherche web épuisée ; page du NHS supprimée ; recherche de la HAS refusée ; NHS inform refusé, erreur 403 ; recherche du ministère de la Santé marocain en erreur ; Orphanet en direct protégé contre les robots, non contourné). La phrase proposée repose sur MedlinePlus (États-Unis) et l'OMS (1989).",
+  "« Soudania » (Chhiwat, Lalla Moulati 2014) : force du piment toujours non confirmée ; la recherche interne de Lalla Moulati sur ce mot n'a pas répondu.",
+  "Quantité d'eau « idéale » : aucune source ne la fixe ; 1,5 l reste dans la fourchette des recettes, la correction proposée aligne seulement la recette sur Choumicha, dont elle suit la méthode et la dose de fèves.",
+  "Chhiwat, Lalla Moulati 2020, Hespress, Sky News Arabia et Morocco World News ne disent pas « sans trempage » : ils ne parlent pas de trempage.",
+  "Fèves fraîches ou surgelées (erreur n° 1) : les sources disent que la bissara se fait avec des fèves sèches (Taste of Maroc : « Dried split peeled fava beans are used to make bessara » ; Hespress 2011) ; aucune ne parle explicitement des fèves fraîches ou surgelées. Formulation gardée, car elle découle directement de ces sources.",
+  "Recherche web épuisée : pas de nouvelle source marocaine cherchée au-delà des pages citées et des recherches internes ; Femmes du Maroc ne publie toujours aucune recette de bissara (recherche interne « bissara » : 4 articles sans recette).",
+  "Bissara au ftour du Ramadan : seulement Bladi.net (qui cite Le Progrès) et MWN Lifestyle ; le « parfois » de l'occasion reste prudent."
+ ]
+}

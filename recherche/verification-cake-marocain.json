@@ -1,0 +1,124 @@
+{
+ "slug": "cake-marocain",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « المسكوتة », rubrique حلويات مغربية, 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/2388.html",
+   "ce_qu_elle_confirme": "Source marocaine : « المسكوتة المغربية » (la meskouta marocaine) au yaourt : 4 œufs, 2 sachets de levure chimique, 1 « دانون » (pot de yaourt ; Lalla Moulati écrit ailleurs « دانون (ياغورت) », n° 215479), 1 verre d'huile, de la farine selon le mélange, 250 g de sucre ; levure ajoutée en dernier ; 20 minutes au four ; nappée de chocolat fondu et de noix."
+  },
+  {
+   "name": "Lalla Moulati, « مسكوتة مغربية لذيذة سهلة وخفيفة », rubrique كيك و طورطات, 11 juillet 2016",
+   "url": "https://www.lalamoulati.net/43119.html",
+   "ce_qu_elle_confirme": "Source marocaine : meskouta au jus d'orange frais (¾ de tasse), « ويمكن الاستبدال بالحليب » : on peut le remplacer par du lait ; 3 gros œufs, 1 tasse de sucre, ½ tasse d'huile, 1½ tasse de farine, ½ c. à s. de levure chimique, sel, ½ tasse de noix de coco, zeste d'orange et vanille ; œufs, sucre, vanille et zeste fouettés 5 minutes ; moule moyen huilé et fariné ; four préchauffé à 170 °C ; ne pas ouvrir le four avant 25 minutes."
+  },
+  {
+   "name": "Lalla Moulati, « عمرك جربتي الكيكة المسكوتة هانا جبتها حتى لعندك بطريقة ساهلة ماهلة وبمذاق لذيذ », 28 février 2021 (même texte republié sous les n° 313995, 24 février 2022, et n° 336441, 9 août 2022)",
+   "url": "https://www.lalamoulati.net/270525.html",
+   "ce_qu_elle_confirme": "Source marocaine : « الكيكة المسكوتة » au jus d'orange, en grammes : 390 g de farine, 300 g de sucre, 240 ml de jus d'orange frais, 120 ml d'huile, 3 gros œufs, 10 g de levure chimique, 5 ml de vanille liquide, 1 pincée de sel ; four à 180 °C ; œufs, sucre et vanille fouettés jusqu'à éclaircir ; moule huilé et fariné ; 45 à 50 minutes ; laisser un peu refroidir."
+  },
+  {
+   "name": "Code of Federal Regulations (États-Unis), titre 21, § 169.175 « Vanilla extract », texte en vigueur, copie de l'Institut d'information juridique de l'université Cornell",
+   "url": "https://www.law.cornell.edu/cfr/text/21/169.175",
+   "ce_qu_elle_confirme": "Définition réglementaire : l'extrait de vanille est une solution dans l'alcool éthylique, à 35 % d'alcool au moins en volume ; d'où le sucre vanillé à sa place. Même texte que la version officielle (eCFR, ecfr.gov), lue par son interface le 7 novembre 2026 ; la page officielle filtre les lecteurs automatiques, d'où le lien vers la copie de Cornell, qui répond."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "title",
+   "actuel": "Cake marocain, la meskouta du goûter",
+   "propose": "Cake marocain au lait, une meskouta du goûter",
+   "pourquoi": "Le titre présente ce cake au lait comme « la » meskouta. Or aucune des sources lues ne fait du lait l'ingrédient de base de la meskouta. Morocco World News la définit comme un cake au yaourt (« Meskouta, or yogurt cake » ; « Meskouta is a staple in the Moroccan home. Every family prepares it in a slightly different way – some preferring to replace the yogurt with milk or even orange juice »). Cooking with Alia l'appelle « Moroccan Yogurt Cake ». Lalla Moulati publie une « المسكوتة المغربية » au yaourt (n° 2388, « 1دانون », un pot de yaourt) et des meskouta au jus d'orange (n° 43119, où le jus d'orange, écrit-elle, « ويمكن الاستبدال بالحليب », peut être remplacé par du lait ; n° 270525). Taste of Maroc et Wikipédia (en) rattachent la meskouta à l'orange. Le lait est donc une variante familiale attestée, pas la version de référence. La recette au lait de Choumicha reste défendable (précise et marocaine), à condition de la présenter comme une meskouta au lait. Si l'on préfère garder « la meskouta », il faut passer à la version au yaourt, dont les proportions sourcées sont déjà dans variants[0] (Morocco World News : 4 œufs, 1 pot de yaourt de 110 g qui sert de mesure, 1½ pot de sucre, 1 pot d'huile, 3 pots de farine, 16 g de levure chimique, 1 sachet de sucre vanillé de 8 g ; moule à cheminée ou rond beurré et fariné ; 45 minutes au plus à four moyen, sans ouvrir avant 30 minutes) ; Cooking with Alia donne 180 °C pour sa version au yaourt.",
+   "gravite": "majeure",
+   "sources": "Morocco World News, Layla Dahamou, 10 août 2019 (lu avec l'outil de lecture web) ; Cooking with Alia ; Lalla Moulati n° 2388 (« المسكوتة », 10 novembre 2014), n° 43119 (« مسكوتة مغربية », 11 juillet 2016) et n° 270525 (« الكيكة المسكوتة », 28 février 2021) ; Taste of Maroc (copie du 24 février 2026) ; Wikipédia (en), « Meskouta »."
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Aucune source ne mesure laquelle est la plus courante. Retenu : la version au lait, la plus représentée dans les recettes lues, et proche de la meskouta « économique » que Wikipédia (ar) dit très consommée au Maroc ; yaourt et orange en variantes.",
+   "propose": "Aucune source ne mesure laquelle est la plus courante. Mais les recettes lues qui portent le nom de meskouta sont toutes au yaourt (Morocco World News ; Cooking with Alia ; Lalla Moulati n° 2388) ou au jus d'orange (Taste of Maroc ; Lalla Moulati n° 43119 et n° 270525) ; le lait n'y apparaît que comme remplacement (Morocco World News ; Lalla Moulati n° 43119, à la place du jus d'orange). Les recettes au lait lues s'appellent « cake » (Choumicha) ou « كيكة » (Lalla Moulati). Retenu : le cake économique de Choumicha, au lait, seule recette lue qui donne à la fois les poids, la taille du moule, la température et la durée ; c'est une meskouta au lait, pas la version la plus citée sous ce nom. Yaourt et orange en variantes.",
+   "pourquoi": "« La plus représentée dans les recettes lues » n'est vrai qu'en comptant des cakes qui ne s'appellent pas meskouta (les deux cakes économiques de Choumicha, classés en « Cuisine du monde », et trois « كيكة » de Lalla Moulati). Les recettes publiées sous le nom de meskouta, y compris trois recettes de Lalla Moulati trouvées par sa recherche interne (n° 2388, n° 43119 et n° 270525, republiée à l'identique sous les n° 313995 et n° 336441), sont au yaourt ou au jus d'orange. Le rapprochement avec la meskouta « économique » de Wikipédia (ar) ne repose que sur le mot « économique » : cette page ne cite ni lait ni yaourt (œufs, sucre, huile, farine, vanille, zeste de citron). Vérifié aussi : la recette n° 1037 de Choumicha est la seule des recettes lues à donner à la fois les poids, la taille du moule (28 cm), la température (180 °C) et la durée (45 min) ; celle de Lalla Moulati n° 270525 donne poids, température et durée, mais pas la taille du moule.",
+   "gravite": "majeure",
+   "sources": "Morocco World News ; Cooking with Alia ; Lalla Moulati n° 2388 (« المسكوتة », 10 novembre 2014), n° 43119 (« مسكوتة مغربية », 11 juillet 2016) et n° 270525 (« الكيكة المسكوتة », 28 février 2021) ; Taste of Maroc ; Wikipédia (ar), « مسكوتة » ; Choumicha n° 1037 et n° 1455 (copies des 8 août et 14 octobre 2025)."
+  },
+  {
+   "champ": "unverified[0]",
+   "actuel": "le choix du lait repose sur le nombre de recettes lues, pas sur une enquête.",
+   "propose": "parmi les recettes lues qui portent le nom de meskouta, aucune n'est au lait : elles sont au yaourt ou au jus d'orange, et le lait y est cité comme remplacement (Morocco World News ; Lalla Moulati n° 43119).",
+   "pourquoi": "Même constat que pour discrepancies[0] : le nombre de recettes lues ne soutient le lait que si l'on compte des cakes qui ne s'appellent pas meskouta.",
+   "gravite": "mineure",
+   "sources": "Morocco World News ; Cooking with Alia ; Lalla Moulati n° 2388 (« المسكوتة », 10 novembre 2014), n° 43119 (« مسكوتة مغربية », 11 juillet 2016) et n° 270525 (« الكيكة المسكوتة », 28 février 2021) ; Taste of Maroc."
+  },
+  {
+   "champ": "secrets[3].text",
+   "actuel": "Autant d'huile que de liquide : c'est la règle de la plupart des cakes marocains lus pour cette recette.",
+   "propose": "Autant d'huile que de liquide, comme ici (15 cl de chaque chez Choumicha) : c'est aussi la proportion de Taste of Maroc, de Morocco World News et de deux cakes de Lalla Moulati. D'autres recettes mettent moins d'huile que de liquide (Cooking with Alia ; Lalla Moulati) ou plus (Choumicha, cake aux pépites).",
+   "pourquoi": "Présentée comme « la règle », la proportion ne vaut que pour la moitié des recettes lues : volumes égaux chez Choumicha n° 1037 (15 cl et 15 cl), Taste of Maroc (½ tasse et ½ tasse), Morocco World News (1 pot et 1 pot), Lalla Moulati n° 199027 (1 verre et 1 verre) et n° 205581 (7 cuillères et 7) ; moins d'huile chez Cooking with Alia (½ pot pour 1 pot de yaourt), Lalla Moulati n° 379090 (½ verre pour 1 verre de lait), n° 43119 (½ tasse pour ¾ de tasse de jus) et n° 270525 (120 ml pour 240 ml de jus) ; plus d'huile chez Choumicha n° 1455 (18 cl pour 12 cl de lait).",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 1037 et n° 1455 ; Taste of Maroc ; Morocco World News ; Cooking with Alia ; Lalla Moulati n° 199027, n° 205581, n° 379090, n° 43119 et n° 270525."
+  },
+  {
+   "champ": "serving",
+   "actuel": "au goûter ou au petit-déjeuner, et aussi au ftour du ramadan (Taste of Maroc ; Wikipédia en anglais).",
+   "propose": "au goûter ou au petit-déjeuner (Taste of Maroc ; Wikipédia en anglais), et aussi au ftour du ramadan (Taste of Maroc).",
+   "pourquoi": "Wikipédia (en) cite le goûter et le petit-déjeuner (« usually served for tea time or breakfast ») mais ne parle ni du ramadan ni de l'iftar (page lue en entier, modifiée le 4 novembre 2026). Seule Taste of Maroc cite la rupture du jeûne (« or even for breakfast or to break the fast in Ramadan »).",
+   "gravite": "mineure",
+   "sources": "Wikipédia (en), « Meskouta » ; Taste of Maroc, « Moroccan Orange Cake Recipe – Meskouta with Oranges » (copie du 24 février 2026)."
+  },
+  {
+   "champ": "variants[3]",
+   "actuel": "Le verre à thé contient de 6 à 8 onces (177 à 237 ml, calcul) et le bol environ 1½ tasse (355 ml, calcul).",
+   "propose": "Taste of Maroc donne pour le verre à thé « about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup) », soit 177 à 237 ml ou 79 à 118 ml (calcul) : ces deux valeurs ne concordent pas, et seule la seconde colle avec sa recette en tasses (½ tasse de jus et ½ tasse d'huile là où les mesures traditionnelles mettent 1 verre à thé). Le bol contient environ 1½ tasse (355 ml, calcul).",
+   "pourquoi": "La note de Taste of Maroc écrit : « The average Moroccan tea glass holds about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup) ». Recalcul avec python3 : 6 à 8 onces liquides = 177 à 237 ml, mais ⅓ à ½ tasse = 79 à 118 ml. La variante ne reprenait que la première valeur, qui donnerait deux fois trop de jus et d'huile par rapport à la recette en tasses de la même page (½ tasse de jus, ½ tasse d'huile). Le bol (12 onces = 1½ tasse = 355 ml) est juste.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (copie du 24 février 2026) ; calcul python3 (1 once liquide US = 29,57 ml ; 1 tasse = 236,6 ml)."
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "environ 45 minutes au four, sans ouvrir avant 30 minutes",
+   "propose": "45 minutes au plus, à four moyen (sans température chiffrée), sans ouvrir avant 30 minutes",
+   "pourquoi": "Morocco World News écrit « bake the cake on very medium heat for 45 minutes or less. (don't open the oven before half an hour) » : 45 minutes est un maximum, pas une durée approximative, et aucune température n'est donnée.",
+   "gravite": "mineure",
+   "sources": "Morocco World News, 10 août 2019 (lu avec l'outil de lecture web)."
+  },
+  {
+   "champ": "ingredients[0].items[7].note",
+   "actuel": "soit 3 sachets de 7 g par cake",
+   "propose": "3 sachets de 7 g par cake, soit 21 g (le poids affiché est arrondi à 5 g près)",
+   "pourquoi": "L'appli arrondit les grammes à 5 g près entre 20 et 500 g : simulée avec les fonctions de app.html, la ligne affiche « 20 g de levure chimique » pour 1 cake et « 40 g » pour 2 cakes, à côté de la note « soit 3 sachets de 7 g par cake » (21 g). La note corrigée lève la contradiction à toutes les échelles. La dose de la source reste 3 sachets de 7 g.",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 1037 (« 3 sachets de levure chimique de 7 g ») ; app.html, fonction fmtQ (simulation node)."
+  },
+  {
+   "champ": "unverified[9]",
+   "actuel": "Le360, Hespress, Femmes du Maroc et Chhiwat non consultés, le quota de recherches web de la session étant épuisé.",
+   "propose": "Femmes du Maroc : sa recherche interne ne donne rien pour « meskouta » ; Le360, Hespress et Chhiwat non consultés, faute d'outil de recherche web (la recherche de Le360 ne s'affiche qu'avec un navigateur ; Hespress refuse l'accès automatique). La recherche interne de Lalla Moulati a trouvé trois recettes nommées meskouta (cinq pages), au yaourt ou au jus d'orange.",
+   "pourquoi": "Femmes du Maroc a été consulté par sa recherche interne le 7 novembre 2026 (« No data was found ») ; Lalla Moulati (recherche « مسكوتة ») renvoie les recettes n° 2388, n° 43119, n° 270525, n° 313995 et n° 336441 (les trois dernières au même texte).",
+   "gravite": "mineure",
+   "sources": "femmesdumaroc.com/?s=meskouta ; lalamoulati.net/?s=مسكوتة ; fr.le360.ma/recherche/?q=meskouta ; hespress.com (403), le 7 novembre 2026."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Version retenue, d'après la copie du 8 août 2025 de la recette n° 1037 de Choumicha (« Cake économique », type « Cuisine du monde », 10 personnes, cuisson 45 min) : 240 g de sucre semoule, 4 gros œufs, ¼ de c. à café de sel, 15 cl de lait, 15 cl d'huile, 375 g de farine, 3 sachets de levure chimique de 7 g, zeste et jus d'un citron ; œufs, sucre et sel battus « jusqu'à ce que le mélange blanchisse et double de volume » ; lait et huile « en filet » ; farine tamisée avec la levure, incorporée par petites quantités, mélangée délicatement à la spatule ; jus et zeste ; « moule à cake beurré et fariné de 28 cm » ; « four préchauffé à 180°C pendant 45 mn environ » ; tiédir, démouler, refroidir sur une grille. La liste et les étapes reprennent fidèlement ces quantités.",
+  "Version au lait ou au yaourt (réponse à la question posée) : la version au lait est défendable comme recette de base de l'appli, mais pas sous le nom de « la » meskouta. Elle est marocaine (Choumicha, Lalla Moulati n° 199027, n° 205581 et n° 379090) et c'est une variante de la meskouta attestée par deux sources (Morocco World News : des familles remplacent le yaourt par du lait ; Lalla Moulati n° 43119 : jus d'orange « ويمكن الاستبدال بالحليب », qu'on peut remplacer par du lait). Mais toutes les recettes lues publiées sous le nom de meskouta sont au yaourt (Morocco World News, Cooking with Alia, Lalla Moulati n° 2388) ou au jus d'orange (Taste of Maroc, Lalla Moulati n° 43119 et n° 270525) ; Wikipédia (en) donne « Orange cake » comme autre nom. D'où les corrections du titre et de discrepancies[0]. Proportions sourcées de la version au yaourt, si elle est préférée : celles de variants[0] (Morocco World News), conformes à la page lue deux fois avec l'outil de lecture web (sous réserve de la correction de variants[0] sur la durée) ; Cooking with Alia ajoute 180 °C pour sa propre version au yaourt.",
+  "Moule de 28 cm : écrit tel quel par Choumicha pour ces quantités (« moule à cake beurré et fariné de 28 cm »). Taste of Maroc confirme que le moule couronne est le plus courant pour la meskouta et que certaines cuisinières prennent un moule à cake, en adaptant la cuisson (« Although a round tube or bundt pan is most often used to make meskouta, some cooks prefer to use a loaf pan. Adjust baking time according to the size and shape of your own pan ») ; Morocco World News : « a tube pan or a round cake tin ».",
+  "Four à 180 °C pendant 45 min : Choumicha n° 1037 (180 °C, « 45 mn environ ») ; 180 °C aussi chez Taste of Maroc (environ 40 min), Cooking with Alia (environ 50 min), Choumicha n° 1455 (35 à 40 min) et n° 1179 (40 min), et Lalla Moulati n° 270525 (45 à 50 min) ; Morocco World News : « 45 minutes or less ». Médiane des durées du texte recalculée (python3) : 42,5 min, exacte. Le test de la pique et les bords qui se décollent viennent de Taste of Maroc (« until the sides of the cake pull away from the pan and the cake tests done »).",
+  "Levure : 3 sachets de 7 g (21 g) pour 375 g de farine chez Choumicha, soit 5,6 g pour 100 g (python3), contre 4 g pour 100 g dans son cake aux pépites (14 g pour 350 g). C'est à peu près la dose des mesures traditionnelles de Taste of Maroc (2 sachets de 7 g pour « 1 heaping soup bowl of flour », qui tient la place des 2 tasses de sa recette en tasses : environ 5,6 à 5,8 g pour 100 g, calcul approximatif) ; l'autrice l'a réduite à 3 c. à c. après des craintes lues ailleurs, mais écrit avoir obtenu de bons résultats avec les deux doses. Seul l'affichage pose question (voir la correction de la note).",
+  "Sucre vanillé à la place de l'extrait : la recette n° 1037 de Choumicha n'a pas de vanille ; l'ajout d'un sachet est documenté dans discrepancies[1] et s'appuie sur Choumicha n° 1455 (« 1 sachet de sucre vanillé » fouetté avec les œufs, le sucre et le sel, comme à l'étape 5), Wikipédia (ar) (vanille et zeste de citron dans la base) et Taste of Maroc (« 1 sachet vanilla sugar (equivalent to 1 tsp liquid flavoring or extract) » dans les mesures traditionnelles). Morocco World News propose « 8 grams vanilla sugar (1 packet) or half teaspoon vanilla extract ». La note de l'ingrédient et le secret « un sachet de sucre vanillé fait le même travail, et c'est la mesure traditionnelle » sont donc sourcés.",
+  "Autres textes vérifiés dans les pages : Choumicha n° 1455 (huile en filet en continuant à fouetter, « le mélange doit être léger et aéré » ; sucre glace ; refroidir avant de démouler) ; Taste of Maroc (« beat the eggs and sugar in a large bowl until pale and thick » ; « Add the oil gradually » ; « stir lightly to combine » ; « wash and zest the oranges before juicing » ; tiédir 7 à 10 minutes puis grille ; blancs en neige « no need » ; mesures au verre à thé et au bol ; dose de levure réduite ; « truly delicious all on its own » ; sucre glace, confiture d'orange et noix de coco, amandes ; conservation quelques jours à température ambiante et plusieurs mois au congélateur, bien couvert) ; Morocco World News (« all you'll need for measurements is a cup of yogurt » ; moule graissé et fariné ; « don't open the oven before half an hour » ; « let it cool before removing it to a plate » ; confiture, amandes effilées ou noix de coco ; thé à la menthe) ; Cooking with Alia (pot de yaourt de 114 g comme mesure, blancs en neige, farine tamisée ajoutée peu à peu, moule de 8 pouces beurré et chemisé, 180 °C, environ 50 minutes, test en appuyant sur le dessus) ; Lalla Moulati n° 199027 (marbré au cacao, moule beurré et fariné, miel et noix de coco), n° 205581 (« 7 cuillères ») et n° 379090 (2 œufs, ingrédients seulement) ; Wikipédia (en) (thé à la menthe ou café ; orange, citron, vanille) ; Wikipédia (ar) (« المسكوتة الاقتصادية المشهورة و المستهلكة بكثرة في المغرب »). Ne pas ouvrir le four avant 25 minutes : aussi chez Lalla Moulati n° 43119.",
+  "Variantes : Morocco World News, Cooking with Alia, Taste of Maroc (conventionnelle et traditionnelle), Lalla Moulati n° 199027, n° 205581 et n° 379090, Choumicha n° 1455 et n° 1179 (160 g de beurre, 200 g de sucre, ½ c. à c. de sel, 4 œufs, zeste et jus de 3 oranges, 2 c. à s. d'eau de fleur d'oranger, 240 g de farine, 7 g de levure, rondelles confites, 180 °C 40 min, ½ c. à c. de cannelle) : quantités exactes, sous réserve des deux corrections de variants[0] et variants[3].",
+  "Halal : ni porc ni alcool dans la recette ; l'extrait de vanille, que la réglementation américaine définit comme une solution dans l'alcool éthylique à 35 % au moins (21 CFR 169.175, source ajoutée), est remplacé par du sucre vanillé ; dans les variantes, quelques gouttes de vinaigre (Lalla Moulati n° 199027) et de l'eau de fleur d'oranger (Choumicha n° 1179). Sécurité alimentaire : les œufs sont cuits (cuisson au four jusqu'au test de la pique) ; conservation reprise de Taste of Maroc.",
+  "Noms : مسكوتة (Wikipédia ar) ; « المسكوتة », « الكيكة المسكوتة » et « كيكة » dans les titres de Lalla Moulati.",
+  "Cohérence interne : minuteur de 45 min = time.cook ; repos de 10 min = tiédir 10 min (Taste of Maroc : 7 à 10 min) ; préparation de 15 min (Taste of Maroc) ; quantités de la liste identiques à celles des étapes ; recette non classée « Rapide ».",
+  "Rendu dans l'appli, simulé avec node à partir des fonctions de app.html : pour 1 cake (= le nombre de la recette), « 4 gros œufs », « 240 g de sucre », « 1 sachet de sucre vanillé », « ¼ c. à c. de sel », « 150 ml d'huile », « 150 ml de lait », « 375 g de farine », « 20 g de levure chimique », « Lave 1 citron » ; pour 2 cakes, « 8 gros œufs », « 480 g », « 2 sachets de sucre vanillé », « ½ c. à c. », « 300 ml », « 300 ml », « 750 g », « 40 g », « Lave 2 citrons ». Le sélecteur affiche bien « 1 cake » et « 2 cakes ». Seule la levure pose problème (voir la correction de la note).",
+  "Liens : toutes les pages citées répondent le 7 novembre 2026 (code 200), sauf Morocco World News, qui renvoie à curl une page de contrôle Cloudflare (403) mais se lit avec l'outil de lecture web ; choumicha.ma est hors ligne (erreur 525), ses copies web.archive.org répondent. Auteurs et dates exacts."
+ ],
+ "non_verifiable": [
+  "Version la plus courante de la meskouta (yaourt, orange ou lait) : aucune source ne la mesure ; le constat ci-dessus porte seulement sur les recettes lues.",
+  "Capacité du moule de 28 cm : Choumicha ne la donne pas. La pâte pèse environ 1,2 kg (calcul : 1 190 à 1 250 g) ; impossible de vérifier sans source si un moule à cake de 28 cm du commerce la contient sans déborder.",
+  "« Sans alcool » pour le sucre vanillé (note de l'ingrédient) : la composition des sachets du commerce n'a pas été vérifiée sur une étiquette.",
+  "NYT Cooking (« Meskouta (Moroccan Orange Cake) »), cité par Wikipédia (en) : toujours non lu, son adresse exacte n'ayant pas pu être trouvée sans outil de recherche.",
+  "Le360, Hespress et Chhiwat : non consultés, faute d'outil de recherche web (quota épuisé) ; la recherche de Le360 ne s'affiche qu'avec un navigateur (le panneau navigateur est exclu par les consignes) et Hespress répond 403 aux lecteurs automatiques (non contourné). Femmes du Maroc : recherche interne « meskouta » sans résultat (« No data was found »). Bladi.net : les listes Pâtisseries marocaines (3 pages) et Desserts relues, sans cake ni meskouta. La recherche interne de Lalla Moulati a trouvé à la place trois recettes nommées meskouta, sur cinq pages (sources ajoutées).",
+  "Morocco World News, « Something for the Sweet Tooth: Moroccan Meskouta » : la page refuse curl (contrôle Cloudflare) et aucune copie web.archive.org n'a été trouvée à cette adresse ; elle a été lue deux fois avec l'outil de lecture web, avec des citations concordantes, mais pas sur son texte brut.",
+  "Hors du fichier de la recette, à corriger dans app.html (ligne 727, carte « Recette du jour ») : la carte affiche « ${r.servings} ${r.servings_label} » sans passer par nServ, donc « 1 cakes » si ce cake est tiré comme recette du jour. Les autres recettes ont toutes 2 parts ou plus, d'où l'absence du problème jusqu'ici."
+ ]
+}

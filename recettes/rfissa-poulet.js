@@ -45,7 +45,7 @@ window.RECETTES.push({
      "u": "",
      "name": "gros oignon",
      "pl": "gros oignons",
-     "note": "émincés finement",
+     "note": "à émincer finement",
      "canon": "oignon"
     },
     {
@@ -194,7 +194,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Émince, hache, rince",
    "text": "Émince finement {{oignons:full}}. Hache finement {{persil}} de persil et {{coriandre}} de coriandre. Rince {{lentilles}} de lentilles et égoutte-les. Égoutte le fenugrec ; si tu veux, noue-le dans un carré de mousseline pour pouvoir le retirer au moment de servir.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Émince, hache, rince » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",

@@ -11,15 +11,15 @@ Application web de recettes, pensée pour le téléphone. Elle a des vraies phot
 
 ## Ce que fait l'appli
 
-- **Accueil** : recherche (plat, ingrédient, nom arabe), catégories avec photo (tajines, plats, soupes, pains, salades, boissons, d'ailleurs), recette du jour, carte « Reprendre la recette » quand une cuisson est en cours, favoris.
-- **Recette** : grande photo, temps, niveau, nombre de parts réglable, onglets Ingrédients, Étapes, Secrets et Infos. Les ingrédients ont chacun leur photo. Un bouton les envoie dans la liste de courses.
-- **Pas à pas** : une étape par écran, avec en haut les ingrédients de l'étape (photo et quantité). Les minuteurs sonnent et vibrent, un glissement passe à l'étape suivante, et l'écran reste allumé. À la fin, un écran « Bon appétit ».
+- **Accueil** : recherche (plat, ingrédient, nom arabe), catégories avec photo (tajines, plats, poissons, soupes, salades, pains, douceurs, boissons, d'ailleurs), filtre « Vite fait » et rangée « Soir de fatigue ? Prêt en 30 min », recette du jour, carte « Reprendre la recette » quand une cuisson est en cours, favoris.
+- **Recette** : grande photo, temps, niveau, nombre de personnes réglable dès 1 (toutes les quantités, y compris dans le texte des étapes, sont recalculées), onglets Ingrédients, Étapes, Secrets et Infos. Les ingrédients ont chacun leur photo. Un bouton les envoie dans la liste de courses.
+- **Pas à pas** : une étape par écran, avec en haut les ingrédients de l'étape (photo et quantité) et, quand il y en a une, une vraie photo du geste (râper la tomate, étirer la pâte, cuire le malwi au feu de bois…). Les minuteurs sonnent et vibrent, un glissement passe à l'étape suivante, et l'écran reste allumé. À la fin, un écran « Bon appétit ».
 - **Liste de courses** : articles rangés par rayon (légumes, herbes, boucherie, épices…), à cocher, à partager par message.
 - **Mode sombre** automatique, selon le réglage du téléphone.
 
 ## Ajouter une recette
 
-1. Demande-la à Claude. Il la recherche dans au moins trois sources, dont au moins deux marocaines, puis une seconde recherche indépendante la contre-vérifie.
+1. Demande-la à Claude. Il la recherche dans au moins trois sources, dont au moins deux marocaines (pour un plat d'ailleurs : des sources de son pays d'origine), puis une seconde recherche indépendante la contre-vérifie.
 2. Le résultat brut va dans `recherche/<nom>.json`, et la contre-vérification dans `recherche/verification-<nom>.json`.
 3. `python3 -I outils/integrer.py <nom>` écrit `recettes/<nom>.js`. Il ajoute la photo et ses crédits, applique les corrections de la contre-vérification, relie chaque ingrédient à sa photo et fixe la catégorie.
 4. `./build.sh` régénère les miniatures (`img/min/`), `recettes.js`, `index.html` et `sw.js`.
@@ -33,8 +33,9 @@ Chaque recette marocaine vient de plusieurs sources : cheffes et chefs marocains
 
 ## Photos
 
-Toutes les photos viennent de Wikimedia Commons, sous licences libres (CC0, CC BY, CC BY-SA, domaine public). Chaque photo a été choisie à la main parmi plusieurs candidates. Les marques visibles sont recadrées hors de l'image.
+Les photos viennent de Wikimedia Commons et de Flickr (trouvées avec Openverse). Leurs licences sont libres (CC0, CC BY, CC BY-SA, domaine public) ou non commerciales (CC BY-NC, CC BY-NC-SA) : l'application est gratuite et sans publicité. Aucune image n'est générée par une IA. Chaque photo a été choisie à la main parmi plusieurs candidates. Les marques visibles sont recadrées hors de l'image. Quand une photo ne montre pas exactement la recette (une variante, un plat proche), son texte alternatif le dit.
 - Plats : `img/`, crédits dans `img/credits.json`.
+- Gestes des étapes : `img/etapes/`, crédits dans `img/etapes/credits.json`.
 - Ingrédients : `img/ing/`, carrés de 240 px, crédits et rayons dans `img/ing/banque.json`.
 
 Les crédits de chaque recette (plat et ingrédients) sont dans son onglet Infos.

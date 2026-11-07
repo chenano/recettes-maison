@@ -1,0 +1,94 @@
+{
+ "slug": "malwi",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Taste of Maroc, Nada Kiffa, « Moroccan Preserved Meat – Khlii or Khlea » (mise à jour du 13 septembre 2020), copie web.archive.org du 4 octobre 2026",
+   "url": "https://web.archive.org/web/20261004063757/https://tasteofmaroc.com/moroccan-preserved-meat-khlii-khlea/",
+   "ce_qu_elle_confirme": "Pour la variante au khlii : le gueddid est « usually beef or camel », parfois de l'agneau ou du mouton (surtout après l'Aïd al-Adha) ; il est confit dans du suif de bœuf (graisse de rognon) et de l'huile d'olive ; au marché de Fès, le khlii se vend dans un mélange de graisse et d'huile ou dans l'huile d'olive seule ; pot ouvert au réfrigérateur ou au congélateur."
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Stuffed Msemen (Rghaif) – Stuffed Moroccan Flatbread », 15 juillet 2015",
+   "url": "https://www.mymoroccanfood.com/home/stuffed-msemen-rghaeif-stuffed-moroccan-flatbread",
+   "ce_qu_elle_confirme": "Pour la pâte de la même famille (msemen) : ajouter l'eau peu à peu, car trop d'eau rend la pâte « very sticky » et impossible à pétrir ; dans ce cas, ajouter un peu de farine."
+  },
+  {
+   "name": "Lalla Moulati, « مسمن وملوي مورق وهشيش بمكونات بسيطة… », 2 août 2022",
+   "url": "https://www.lalamoulati.net/335511.html",
+   "ce_qu_elle_confirme": "Pâte à msemen et à malwi : 3 bols de farine pour 1 bol de fino, sucre, sel et un sachet de levure chimique dans la liste de la pâte (« مقادير العجين ») ; beurre fondu, huile et fino dans la liste du feuilletage (« مقادير خلطة التوريق »)."
+  },
+  {
+   "name": "Wiktionary (anglais), « لوى » (lawā)",
+   "url": "https://en.wiktionary.org/wiki/%D9%84%D9%88%D9%89",
+   "ce_qu_elle_confirme": "Le verbe arabe lawā (« to bend, to curve, to contort ») a pour participe passif malwiyy (ملوي), la même forme que le nom du malwi."
+  },
+  {
+   "name": "Lalla Moulati, « الرغيفة الملوية بمكونات اقتصادية… », 8 février 2021",
+   "url": "https://www.lalamoulati.net/268059.html",
+   "ce_qu_elle_confirme": "Emploi en darija de l'adjectif « ملوية » (roulée, enroulée) pour une galette, qui recoupe le sens « roulé » donné par Taste of Maroc."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "variants[4]",
+   "actuel": "Un peu de levure chimique dans le mélange de feuilletage : des recettes publiées par Lalla Moulati en ajoutent (Lalla Moulati, 1er octobre 2023 et 2 août 2023).",
+   "propose": "De la levure chimique dans la pâte : des recettes publiées par Lalla Moulati en mettent un sachet (Lalla Moulati, 2 août 2022 et 2 août 2023 ; la liste du 1er octobre 2023 en cite aussi, sans dire si c'est pour la pâte ou pour feuilleter).",
+   "pourquoi": "Dans la recette du 2 août 2023, « 01 كيس خميرة الحلويات » (un sachet de levure chimique) est dans la liste de la pâte, avant l'eau ; la liste « للتوراق » (pour feuilleter) ne contient que beurre fondu, huile et fino. Même chose le 2 août 2022 (« مقادير العجين »). La liste du 1er octobre 2023 est écrite d'une traite et cite la « خميرة حلويات » en dernier, sans dire où elle va. Ce n'est donc ni « dans le mélange de feuilletage » ni « un peu » : c'est un sachet, dans la pâte.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati, pages 378531 (2 août 2023), 335511 (2 août 2022) et 373008 (1er octobre 2023), dates lues dans les métadonnées des pages"
+  },
+  {
+   "champ": "mistakes[0]",
+   "actuel": "(Cooking with Alia ; Taste of Maroc)",
+   "propose": "(Cooking with Alia ; My Moroccan Food, pour la pâte à msemen)",
+   "pourquoi": "Taste of Maroc ne dit pas de verser l'eau petit à petit : il verse l'eau, puis ajuste avec un peu d'eau ou de farine si besoin. Cooking with Alia le dit (« Add lukewarm water little by little »), pour une pâte qui ne doit pas coller, et My Moroccan Food relie l'excès d'eau à la pâte collante (« this will make your dough very sticky »).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, meloui (copie du 8 juin 2026) ; Cooking with Alia n° 701 ; My Moroccan Food, « Stuffed Msemen (Rghaif) », 15 juillet 2015"
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "Khlii de viande halal.",
+   "propose": "Khlii de viande halal, et de graisse halal elle aussi : il est confit dans du suif de bœuf et de l'huile d'olive, ou conservé dans l'huile d'olive seule (Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »).",
+   "pourquoi": "Le khlii est de la viande séchée confite dans la graisse : pour le halal, la graisse compte comme la viande. Taste of Maroc : gueddid de bœuf ou de chameau le plus souvent, parfois d'agneau ou de mouton, confit dans du suif de bœuf (graisse de rognon) et de l'huile d'olive ; au marché, khlii « packed in a mix of fat and oil » ou « in olive oil only ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, Nada Kiffa, page khlii (copie du 4 octobre 2026) ; consignes halal de l'application"
+  },
+  {
+   "champ": "unverified[6]",
+   "actuel": "Origine du nom « malwi » : seule Taste of Maroc l'explique (« roulé ») ; non recoupé.",
+   "propose": "Origine du nom « malwi » : « roulé » selon Taste of Maroc ; en arabe, malwiyy (ملوي) est le participe passif de lawā, plier, courber ou tordre (Wiktionary : « to bend, to curve, to contort »), et Lalla Moulati emploie l'adjectif « ملوية » pour une galette (« الرغيفة الملوية ») ; aucun dictionnaire de darija n'a été consulté.",
+   "pourquoi": "Le sens est maintenant recoupé, en partie : la racine arabe (Wiktionary) et l'usage darija de l'adjectif chez Lalla Moulati vont dans le sens de Taste of Maroc. Le texte « non recoupé » n'est donc plus exact, alors que le secret n° 1 utilise ce sens.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (meloui) ; Wiktionary, « لوى » ; Lalla Moulati, 8 février 2021 (page 268059)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Pâte, feuilletage et méthode de Choumicha : 250 g de farine de blé tendre, 125 g de farine de blé dur, 2 pincées de levure boulangère, 1 c. à café de sel, 20 cl d'eau tiède ; 10 cl d'huile, 10 cl de beurre fondu, 80 g de blé dur et 100 g de khlii ; levure diluée dans un peu d'eau ; pétrissage 10 mn ; boules de la taille d'un œuf huilées, repos 10 mn ; feuille pliée en quatre dans la longueur, roulée en pelote, extrémités rentrées ; pelotes reposées puis aplaties et cuites des deux côtés dans une poêle à fond épais chaude ; 6 personnes, 40 min de cuisson, 1 h en tout, catégorie Ramadan : Choumicha n° 829 (copie du 21 mai 2026, texte identique à la copie du 2 juillet 2016, comparé avec diff).",
+  "Version arabe de Choumicha (n° 830, copie du 25 octobre 2020) : « 2 قبصات خميرة طرية » (levure fraîche), étirage en feuille fine (« تمدد للحصول على ورقة عجين رفيعة »), repos des spirales sans durée (« عندما يرتاح العجين الملفوف »), nom « ملاوي » employé au pluriel (« تقدم الملاوي ساخنة »).",
+  "Hydratation recalculée avec python3 : 220 ml pour 375 g de farine et semoule = 58,7 % ; Choumicha 53,3 % (200 ml), Cooking with Alia 58,8 % (220,6 ml une fois ramené à 375 g), Taste of Maroc 59,5 % (223,2 ml) ; médiane 58,8 %, soit 220,6 ml. Les 220 ml et la fourchette « 200 à 225 ml » sont justes. Les grammes de Taste of Maroc (385 g de semoule ou farine de blé dur, 185 g de farine, 60 g de farine complète, 375 ml d'eau, ¼ c. à c. de levure sèche, 220 ml d'huile, 115 g de beurre, 85 g de semoule) ont été lus dans les données de conversion métrique de la page.",
+  "Part de semoule (python3) : 33,3 % ici, comme Choumicha (125/375) et Lalla Moulati du 29 juillet 2022 (250/750) ; 29,4 % chez Cooking with Alia ; 61,1 % en poids chez Taste of Maroc ; 54,5 % chez Lalla Moulati du 1er octobre 2023 ; 50 % chez Morocco World News 2019 ; médiane des 7 valeurs citées par l'auteur : 33,3 %.",
+  "Sel, sucre, levure et matières grasses ramenés à 375 g (python3) : sel 1,19 c. à c. (Taste of Maroc) et 0,74 (Cooking with Alia) ; sucre 1,19 c. à c. ; levure 0,149 c. à c. ; beurre 68,5 g et 36,8 g ; huile 131 ml et 36,8 ml ; semoule 50,6 g et 36,8 g, contre 100 ml, 100 ml et 80 g chez Choumicha. Les médianes retenues (1 c. à c. de sel, 70 g de beurre, 100 ml d'huile, 50 g de semoule) sont justes.",
+  "Poids des pâtons (python3) : environ 605 g de pâte (250 + 125 + 220 + sel, sucre, levure) / 10 = 60,5 g ; Taste of Maroc : environ 1 026 g / 16 = 64 g ; « taille d'un œuf » chez Choumicha, « balle de tennis » chez Cooking with Alia (malwi plus grands).",
+  "Méthode traditionnelle de Cooking with Alia (« Mellawi / ملاوي », n° 701 ; page actuelle et copie du 20 septembre 2019, mise à jour du 21 décembre 2018 confirmée) : 360 g de farine, 150 g de fino, 1 c. à c. de sel, 300 ml d'eau versée « little by little », sans levure ; pétrissage avec les poings et les paumes pendant environ 10 min ; repos 20 min puis boules de la taille d'une balle de tennis reposées 15 min ; disque « almost transparent » ; environ 1 c. à c. de beurre fondu étalé à la main, fino saupoudré ; bord du haut au centre, bord du bas par-dessus, « long rectangle » ; bande aplatie pour chasser l'air, roulée « like a rug », bout pincé ; spirales debout, couvertes, 15 min ; aplatir du centre vers les bords ; poêle chauffée à feu vif, filet d'huile, puis feu moyen-vif, « turning over several times » jusqu'à ce que le centre soit cuit ; bords poussés vers le centre à la sortie ; service au miel ou au fromage. Page À propos : « the Moroccan food I grew up with ».",
+  "Taste of Maroc, meloui (Christine Benlafquih ; mise à jour du 11 novembre 2019, même texte dans la copie du 15 juillet 2019) : nom tiré du mot darija pour « rolled » ; se déroule « from the outside-inward » ; petit-déjeuner et heure du thé, beurre et miel, confiture ou fromage frais ; vendu dans la rue et en boulangerie ; semoule ou farine de blé dur « key » du goût et de la texture, « a very tiny amount of yeast » ; pétrissage 10 min ; boules huilées et couvertes, 20 à 30 min ; plan de travail d'au moins 30 cm ; étirer en rajoutant de l'huile, « try not to tear the dough » ; méthode traditionnelle de la longue bande « for years », méthode rapide en carrés coupés en 8 tranches et reposés 15 à 20 min ; feu moyen ; cuire dans l'ordre du façonnage ; 1/8\" (3 mm) ; « cook for several minutes, turning several times » ; grille ; pas de feu trop vif ; sirop chaud beurre-miel ; 2 mois au congélateur, pas plus d'un jour à température ambiante, réchauffage à 180 °C ; semoule préférée pour saupoudrer ; couches trop lâches qui se séparent ; temps 45, 20 et 40 min ; 16 meloui de 12 cm.",
+  "Taste of Maroc, msemen (mise à jour du 12 novembre 2019) : sirop à « equal portions » de beurre et de miel, feu coupé « when hot and just beginning to bubble », galette trempée des deux côtés ; moitié farine, moitié semoule : « coarser texture », « my preferred mix when making meloui, a round, coiled cousin of msemen » ; msemen « or sometimes rghaif ».",
+  "Lalla Moulati (listes d'ingrédients ; dates lues dans les métadonnées des pages) : 29 juillet 2022, « الملوي ديال الزنقة » (500 g de farine, 250 g de semoule fine « فينو », « قليل جدا من خميرة فورية », sel, sucre, eau tiède) ; 2 août 2023 (4 bols de farine, 2 bols de fino, « رأس ملعقة صغيرة » de levure de boulanger, 1 c. à c. de sel, 1 c. à s. de sucre) ; 1er octobre 2023 (300 g de semoule fine, 250 g de farine) ; 8 avril 2023 (titre « مع طريقة الاحتفاظ به فالمجمد », vidéo reprise de la chaîne Chhiwat Bassouma) ; d'autres malwi trouvés par le moteur de recherche du site (2022 et 2023) n'ont qu'une liste d'ingrédients et une vidéo.",
+  "Conseils de Choumicha pour les r'ghaifs feuilletées (copie du 6 mars 2021) : bien pétrir pour l'élasticité et la souplesse, repos « très important » qui rend la pâte plus malléable, boules huilées « pour qu'elles ne forment pas de croûte », feuilletage à l'huile ou au beurre fondu.",
+  "Morocco World News : 9 juin 2017, Constance Renton, « Square or round, Moroccan pancakes, also called rghaif », « Their round cousins, called Meloui, are made by rolling strips of dough like rugs » (vérifié mot pour mot sur la copie web.archive.org du 18 août 2025), puis aplatis en disques, cuits à la poêle et servis avec du beurre et du miel ; 31 mai 2019, Maddy Raven, « meloui – also known as rghaif », fait de « half semolina and half white flour », plié en bandes puis roulé comme les tapis des souks, servi avec du beurre ou du miel.",
+  "Femmes du Maroc (14 juin 2016) : « Briouates, meloui, beghrir, chebakkia et œufs sont les grands classiques d'un ftour rbati ».",
+  "Wikipédia (fr), « Msemen » : « Melwi (meloui) » parmi les noms marocains, section signalée comme insuffisamment sourcée (juin 2026).",
+  "Noms : ملوي dans les titres de Lalla Moulati ; « ملاوي » chez Choumicha et Cooking with Alia ; « meloui or malawi (plural) » chez Taste of Maroc.",
+  "Halal : ni porc ni alcool ; levure, beurre et miel sans problème ; note sur la présure pour le fromage présente ; khlii de viande halal (la graisse est ajoutée par une correction).",
+  "Cohérence interne : minuteurs identiques au texte (pétrissage 10 min, repos des pâtons 15 min, repos des spirales 15 min) ; repos affiché 30 min = 15 + 15 ; chaque quantité de la liste est reprise dans les étapes ({{farine}}, {{semoule}}, {{sel}}, {{levure}}, {{sucre}}, {{eau}}, {{beurre}}, {{huile}}, {{semoule-feuilletage}}, {{beurre-service}}, {{miel}}) ; préparation 45 min (Taste of Maroc) pour mélanger, pétrir et façonner 10 spirales ; cuisson 30 min pour 10 malwi, entre les 20 min de Taste of Maroc (16 malwi, deux par deux) et les 40 min de Choumicha, cohérente avec « compte quelques minutes » et la cuisson par deux ; recette « Moyen », pas « Rapide » (75 min).",
+  "Rendu dans l'appli, avec le code même d'app.html exécuté par node : pour 1 galette, « 25 g de farine, 13 g de semoule, ⅛ c. à c. de sel, ¼ pincée de levure et, si tu en mets, ⅛ c. à c. de sucre. Verse 20 ml d'eau tiède » et « 7 g de beurre… 10 ml d'huile et 5 g de semoule » ; pour 10, « 250 g… 125 g… 1 c. à c.… 2 pincées… 1 c. à c.… 220 ml » et « 70 g… 100 ml… 50 g » ; pour 20, « 500 g… 250 g… 2 c. à c.… 4 pincées… 2 c. à c.… 440 ml » et « 140 g… 200 ml… 100 g » ; « avec du beurre et du miel » (quantité nulle : nom seul). Les phrases se lisent bien. Seul défaut, dans le code de l'appli et non dans la recette : en balayant 1 à 40 galettes, la fonction fmtQ d'app.html affiche « 1 pincées de levure boulangère » à 6 galettes (1,2 est arrondi à 1, mais le pluriel est choisi sur la valeur non arrondie) ; à corriger dans app.html.",
+  "Liens : les 14 sources citées répondent (Morocco World News refuse curl avec une erreur 403 mais s'ouvre avec l'outil de lecture web ; Taste of Maroc et Choumicha lus sur web.archive.org) et disent ce qui leur est attribué, sauf les deux points corrigés (levure chimique de Lalla Moulati, eau versée petit à petit chez Taste of Maroc)."
+ ],
+ "non_verifiable": [
+  "Durée de cuisson d'un malwi : aucune source ne la chiffre. Taste of Maroc dit « several minutes » (et 20 min pour 16 malwi, deux par deux), Cooking with Alia « a few minutes each » pour le mellawi. Seule Cooking with Alia chiffre la cuisson du msemmen carré : 3 min par face à feu moyen-vif (n° 936, 939 et 941), mais 5 à 10 min par face à feu doux sur une autre de ses pages (« 026 – Msemmen (Moroccan Crepes) »). Amour de cuisine (meloui, cuisine algérienne, 17 février 2024) ne donne pas de durée. Faute de deux sources indépendantes, l'absence de minuteur est justifiée.",
+  "Largeur de 15 cm : aucune source. Recalcul python3 : 14,6 à 16,0 cm pour 60 g de pâte seule aplatie à 3 mm (densité 1,2 à 1,0), 16,0 à 17,8 cm en comptant le beurre et la semoule du feuilletage (7 g et 5 g par malwi). Les 12 cm (5 pouces) de Taste of Maroc demanderaient 4,7 à 6,7 mm d'épaisseur ; Amour de cuisine aplatit à environ 5 mm. La densité de la pâte reste une hypothèse : « environ 15 cm » est plausible, au bas de la fourchette.",
+  "Méthodes des recettes de Lalla Moulati : en vidéo, non vues.",
+  "Hespress : accès refusé (Cloudflare, erreur 403), non contourné. Le360 : moteur de recherche interne en JavaScript, sans résultat lisible. My Moroccan Food : moteur de recherche interne sans résultat lisible. Sans recherche web (quota épuisé), aucune autre source marocaine n'a pu être cherchée.",
+  "Morocco World News 2019 : lu seulement avec l'outil de lecture web, aucune copie sur web.archive.org ; les citations n'ont pas pu être recoupées sur une copie.",
+  "Pluriel darija « mlawi » : tiré de l'usage de Choumicha (« ملاوي » accordé au pluriel) ; aucun dictionnaire de darija consulté."
+ ]
+}

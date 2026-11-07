@@ -261,7 +261,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare le poulet et les herbes",
    "text": "Coupe {{poulet}} de poulet en morceaux. Émince finement {{oignons}} d'oignons. Hache {{persil}} de persil et {{coriandre}} de coriandre.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Prépare le poulet et les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",

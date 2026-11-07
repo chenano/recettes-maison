@@ -44,6 +44,7 @@ for (const r of R) {
       if (!st.timer.label || !st.timer.done) err(id, `étape ${i + 1} : minuteur sans libellé ou sans message`);
     }
     if (st.jump != null && !(r.steps[st.jump])) err(id, `étape ${i + 1} : renvoi vers une étape inexistante`);
+    if (st.img && !fs.existsSync(path.join(APP, st.img.src))) err(id, `étape ${i + 1} : photo introuvable (${st.img.src})`);
   });
   for (const s of r.sources || []) if (!/^https?:\/\//.test(s.url || '')) err(id, `source sans lien valide : ${s.name}`);
   if (r.cuisine === 'Marocaine' && (r.sources || []).length < 2) warn(id, 'moins de 2 sources');

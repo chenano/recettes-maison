@@ -1,0 +1,445 @@
+/* Recette : Baghrir, crêpes mille trous. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "baghrir",
+ "title": "Baghrir, crêpes mille trous",
+ "darija": "baghrir (aussi beghrir)",
+ "arabic": "البغرير",
+ "tagline": "Des crêpes à la semoule, légères et spongieuses, cuites d'un seul côté : leurs mille petits trous boivent le sirop chaud de beurre et de miel.",
+ "category": "Pain et crêpes",
+ "occasion": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+ "region": "Maroc ; aussi en Algérie et en Tunisie (Wikipédia)",
+ "servings": 20,
+ "servings_label": "baghrir",
+ "time": {
+  "prep": 10,
+  "cook": 25,
+  "rest": 15
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un blender (ou un grand saladier et un fouet électrique)",
+  "Une balance de cuisine et un verre doseur",
+  "Un grand bol et un torchon propre ou du film alimentaire",
+  "Une poêle antiadhésive en bon état, petite de préférence (poêle à crêpes), réservée si possible aux baghrir",
+  "Une petite louche",
+  "Une spatule",
+  "Des torchons propres pour poser les baghrir à plat",
+  "Un torchon doux ou du papier absorbant pour essuyer la poêle",
+  "Une petite casserole pour le sirop beurre-miel"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "semoule",
+     "q": 300,
+     "u": "g",
+     "name": "de semoule fine de blé dur",
+     "note": "c'est elle qui donne la couleur jaune et la texture",
+     "canon": "semoule"
+    },
+    {
+     "id": "farine",
+     "q": 100,
+     "u": "g",
+     "name": "de farine blanche (blé tendre)",
+     "canon": "farine"
+    },
+    {
+     "id": "levure-boulangere",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de levure boulangère sèche",
+     "canon": "levure-boulangere"
+    },
+    {
+     "id": "levure-chimique",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de levure chimique",
+     "canon": "levure-chimique"
+    },
+    {
+     "id": "sel",
+     "q": 0.75,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "sucre",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sucre",
+     "note": "facultatif : la moitié des recettes lues n'en mettent pas",
+     "canon": "sucre"
+    },
+    {
+     "id": "eau",
+     "q": 750,
+     "u": "ml",
+     "name": "d'eau tiède",
+     "note": "au plus : verse-la en deux fois, tu n'en utiliseras peut-être pas tout",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Sirop beurre-miel",
+   "items": [
+    {
+     "id": "beurre",
+     "q": null,
+     "u": "",
+     "name": "Beurre",
+     "pl": "Beurre",
+     "note": "à parts égales avec le miel",
+     "canon": "beurre"
+    },
+    {
+     "id": "miel",
+     "q": null,
+     "u": "",
+     "name": "Miel",
+     "pl": "Miel",
+     "note": "à parts égales avec le beurre",
+     "canon": "miel"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mettre les ingrédients secs dans le blender",
+   "text": "Verse dans le bol du blender {{semoule}} de semoule fine, {{farine}} de farine, {{levure-boulangere}} de levure boulangère sèche, {{levure-chimique}} de levure chimique, {{sel}} de sel et, si tu en mets, {{sucre}} de sucre.",
+   "timer": null,
+   "tip": "Pas de blender ? Mets tout dans un grand saladier et utilise un fouet électrique (My Moroccan Food)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mixer avec les deux tiers de l'eau",
+   "text": "Ajoute environ les deux tiers des {{eau}} d'eau tiède : juste un peu plus chaude que la pièce, pas chaude. Mixe 3 minutes, avec de courtes pauses, jusqu'à une pâte bien lisse, sans grumeaux.",
+   "timer": {
+    "min": 3,
+    "label": "Mixage",
+    "done": "La pâte est lisse ? Ajoute maintenant le reste de l'eau, petit à petit."
+   },
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajuster la consistance",
+   "text": "Verse le reste de l'eau petit à petit, en mixant quelques secondes à chaque fois. Arrête-toi quand la pâte a la consistance d'une crème liquide : un peu plus épaisse qu'une pâte à crêpes, bien plus fluide qu'une pâte à pancakes. Tu n'utiliseras peut-être pas toute l'eau.",
+   "timer": null,
+   "tip": "La consistance fait les trous : trop épaisse, la pâte ne fait pas de bulles (Taste of Maroc ; My Moroccan Food).",
+   "img": {
+    "src": "img/etapes/baghrir-pate.jpg",
+    "alt": "Pâte à baghrir lisse et fluide, dans son bol",
+    "caption": "Une pâte lisse et fluide",
+    "w": 750,
+    "h": 1000,
+    "credit": "Photo de l'étape « Ajuster la consistance » : Sabah HAANA, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisser reposer au chaud",
+   "text": "Verse la pâte dans un grand bol, couvre-la d'un torchon propre ou de film alimentaire et laisse-la reposer 15 minutes dans un endroit tiède. Elle est prête quand sa surface est couverte de petites bulles et qu'elle paraît légère et mousseuse.",
+   "timer": {
+    "min": 15,
+    "label": "Repos de la pâte",
+    "done": "La surface est couverte de petites bulles ? Chauffe la poêle."
+   },
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffer la poêle sans la graisser",
+   "text": "Chauffe une poêle antiadhésive en bon état à feu moyen, sans matière grasse. Attends qu'elle soit bien chaude avant la première louche : dans une poêle pas assez chaude, il se forme peu de trous.",
+   "timer": null,
+   "tip": "Garde si possible une poêle rien que pour les baghrir : dans une poêle rayée, ils collent (Lalla Moulati ; Taste of Maroc)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Verser une petite louche au centre",
+   "text": "Remue la pâte avec la louche, puis verse une petite louche de pâte au centre de la poêle. Ne fais pas tourner la poêle comme pour une crêpe : la pâte s'étale toute seule en un rond d'environ 12 cm.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire d'un seul côté",
+   "text": "Laisse cuire sans jamais retourner le baghrir : des bulles montent, crèvent et laissent de petits trous sur toute la surface. Il est cuit en 1 à 2 minutes, quand il ne reste plus aucune zone humide : touché du bout du doigt, il est spongieux et la pâte ne colle pas. Le dessous ne doit pas trop brunir : sinon, baisse un peu le feu.",
+   "timer": null,
+   "tip": "Si tu le retournes, tu perds les trous (My Moroccan Food)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Corriger s'il n'y a pas de trous",
+   "text": "Pas de trous sur le premier baghrir ? Si la pâte est trop épaisse, ajoute un peu d'eau tiède, cuillère par cuillère, mélange et attends quelques minutes. Si elle n'a pas assez reposé, laisse-la encore 5 à 10 minutes avant de recommencer.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Poser à plat sur un torchon",
+   "text": "Retire le baghrir avec une spatule et pose-le à plat sur un torchon propre. Ne les empile pas tant qu'ils sont chauds : ils colleraient entre eux. Laisse-les refroidir en une seule couche avant de les superposer.",
+   "timer": null,
+   "tip": "Pour les empiler encore chauds, glisse une feuille de papier absorbant entre chaque baghrir (My Moroccan Food)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Essuyer la poêle et continuer",
+   "text": "Essuie la poêle avec un torchon doux ou du papier absorbant, puis recommence jusqu'à la fin de la pâte, en la remuant avant chaque louche. Si le dessous colore trop vite, baisse le feu.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Service",
+   "title": "Préparer le sirop beurre-miel",
+   "text": "Dans une petite casserole, mets du beurre et du miel à parts égales. Fais fondre à feu doux en remuant, jusqu'à ce que le beurre soit complètement fondu et le sirop bien chaud, puis coupe le feu.",
+   "timer": null,
+   "tip": "Tu peux ajouter quelques gouttes d'eau de fleur d'oranger au sirop (My Moroccan Food)."
+  },
+  {
+   "phase": "Service",
+   "title": "Tremper et servir",
+   "text": "Trempe le côté troué de chaque baghrir quelques secondes dans le sirop chaud, puis pose-le dans le plat, trous vers le haut. Sers aussitôt, avec un thé à la menthe.",
+   "timer": null,
+   "tip": null,
+   "img": {
+    "src": "img/etapes/baghrir-miel.jpg",
+    "alt": "Baghrir imbibé de beurre et de miel, ses petits trous brillants de sirop",
+    "caption": "Les trous boivent le sirop",
+    "w": 750,
+    "h": 1000,
+    "credit": "Photo de l'étape « Tremper et servir » : Sabah HAANA, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Prends de la semoule fine de blé dur et de bonne qualité : c'est elle qui donne la couleur jaune et la texture. Au Maroc, un baghrir du commerce d'un jaune trop vif trahit parfois une pâte médiocre colorée au curcuma ou à un additif.",
+   "source": "Choumicha (semoule fine de blé dur, et « une semoule et une farine de bonne qualité ») ; Taste of Maroc"
+  },
+  {
+   "text": "Le bon mélange : environ trois quarts de semoule pour un quart de farine. Tu peux aussi faire tout à la semoule.",
+   "source": "Choumicha (450 g de semoule pour 150 g de farine) ; Cooking with Alia (300 g pour 100 g) ; Taste of Maroc (2 volumes pour 1, ou tout semoule) ; Choumicha et Lalla Moulati (versions tout semoule)"
+  },
+  {
+   "text": "Deux levures : la levure boulangère fait les bulles, la levure chimique accélère. Autrefois, la pâte devait reposer longtemps ; la levure chimique a raccourci l'attente, d'où les recettes dites « instantanées ».",
+   "source": "Taste of Maroc ; Bladi.net, Choumicha, Cooking with Alia, My Moroccan Food et Morocco World News mettent les deux levures"
+  },
+  {
+   "text": "Tout se joue sur la consistance : une crème liquide, un peu plus épaisse qu'une pâte à crêpes, bien plus fluide qu'une pâte à pancakes. Ni trop épaisse, ni trop liquide.",
+   "source": "Taste of Maroc ; Cooking with Alia ; Morocco World News 2019 (« precision is key »)"
+  },
+  {
+   "text": "Verse l'eau en deux fois : d'abord les deux tiers pour mixer, puis le reste petit à petit jusqu'à la bonne consistance.",
+   "source": "Cooking with Alia (500 ml puis le reste, sur 750 ml) ; Morocco World News 2019 (600 ml puis le reste, sur 800 ml)"
+  },
+  {
+   "text": "Respecte la dose de levure et le temps de repos. Si le premier baghrir n'a pas de trous, laisse reposer la pâte encore 5 à 10 minutes, ou allonge-la d'un peu d'eau tiède si elle est épaisse.",
+   "source": "Choumicha (astuce « Pour réussir les crêpes au mille trous ») ; My Moroccan Food ; Taste of Maroc"
+  },
+  {
+   "text": "Ne laisse pas la pâte trop fermenter : un repos trop long l'épaissit. Si les trous restent petits, raccourcis le repos la fois suivante et ajoute un peu d'eau.",
+   "source": "Taste of Maroc (réponse aux lecteurs) ; Lalla Moulati (« ne la laisse pas trop fermenter », « 10 minutes, ni plus ni moins »)"
+  },
+  {
+   "text": "Une poêle antiadhésive en bon état, réservée aux baghrir : la plupart des Marocains y tiennent, selon Taste of Maroc. Et dans une poêle rayée, les baghrir collent, prévient Lalla Moulati.",
+   "source": "Taste of Maroc ; Lalla Moulati"
+  },
+  {
+   "text": "Pas besoin de graisser la poêle : essuie-la seulement entre deux baghrir, avec un torchon doux ou un papier à peine huilé pour enlever les restes.",
+   "source": "Taste of Maroc ; Choumicha (« essuyer la poêle », « à l'aide d'un torchon doux »)"
+  },
+  {
+   "text": "Commence dans une poêle bien chaude, sinon il se forme peu de trous.",
+   "source": "My Moroccan Food ; Choumicha (poêle préchauffée)"
+  },
+  {
+   "text": "Feu moyen. Choumicha conseille même un feu moyen à fort, baissé vers la fin de la cuisson de chaque crêpe ; Taste of Maroc ajuste le feu pour que le dessous ne brunisse pas trop.",
+   "source": "Choumicha (recettes et astuce) ; Taste of Maroc ; Lalla Moulati (feu fort jusqu'aux trous, puis baissé)"
+  },
+  {
+   "text": "Ne retourne jamais un baghrir : il ne cuit que d'un côté, et tu perdrais les trous.",
+   "source": "My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Wikipédia"
+  },
+  {
+   "text": "Ne les empile pas chauds : laisse-les refroidir à plat, en une seule couche, sur un torchon propre.",
+   "source": "My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022"
+  },
+  {
+   "text": "Trempe le côté troué quelques secondes dans le sirop chaud : les trous boivent le sirop.",
+   "source": "Cooking with Alia ; Lalla Moulati ; My Moroccan Food"
+  }
+ ],
+ "mistakes": [
+  "Une pâte trop épaisse : les bulles ne crèvent pas et il n'y a pas de trous (My Moroccan Food ; Taste of Maroc).",
+  "Une poêle pas assez chaude au départ : peu de trous (My Moroccan Food).",
+  "Retourner le baghrir : il perd ses trous (My Moroccan Food).",
+  "Empiler les baghrir encore chauds : ils collent entre eux (My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022).",
+  "Garder un feu trop fort jusqu'au bout : le dessous brunit trop (Taste of Maroc ; Choumicha).",
+  "Utiliser une poêle rayée : les baghrir collent (Lalla Moulati).",
+  "Mesurer à l'œil : pèse et mesure tes ingrédients, la consistance de la pâte en dépend (Taste of Maroc ; Morocco World News 2019).",
+  "Donner du sirop beurre-miel à un bébé de moins d'un an : pas de miel avant 1 an, à cause du risque de botulisme infantile (NHS, service de santé britannique)."
+ ],
+ "serving": "Chauds ou tièdes, trempés côté trous dans le sirop chaud de beurre et de miel, puis posés trous vers le haut (Cooking with Alia ; Lalla Moulati ; Taste of Maroc), avec un thé à la menthe (Choumicha ; Lalla Moulati, qui cite aussi le café). Au petit-déjeuner ou au goûter (Yabiladi ; Lalla Moulati ; Taste of Maroc), et au ftour du ramadan (Morocco World News 2022 ; Wikipédia). Autres garnitures : confiture (Taste of Maroc ; Morocco World News 2022), amlou ou fromage frais à l'huile d'olive (Morocco World News 2019). Conservation, selon Taste of Maroc (seule source) : les baghrir nature se gardent 2 jours à température ambiante, emballés dans du film ; ceux trempés dans le sirop vont au réfrigérateur ; nature, ils se congèlent 2 à 3 mois, avec un carré de film entre chaque baghrir.",
+ "variants": [
+  "Tout semoule : 375 g de semoule fine de blé dur, 50 cl d'eau tiède, 1 c. à c. de sel, 1 c. à c. de levure boulangère et 1 sachet de levure chimique, mixés 3 minutes, repos de 15 minutes (Choumicha). Lalla Moulati en fait aussi au vinaigre blanc : 4 verres de semoule fine, 1 c. à s. de levure boulangère, 2 sachets de levure chimique, 1 c. à s. de vinaigre blanc, 4 à 5 verres d'eau tiède, repos de 10 minutes.",
+  "Au vinaigre, version de Choumicha : 450 g de semoule fine, 150 g de farine, 2 sachets de levure chimique de 7 g, 1 c. à c. de levure boulangère, 1 c. à c. de sel, 1 c. à s. de sucre et 75 cl d'eau mixés, puis 1 c. à s. de vinaigre ajoutée à la fin ; repos de 15 minutes (Choumicha).",
+  "À l'ancienne, avec un long repos : 200 g de farine, 200 g de semoule et ½ c. à c. de sel ; 1 c. à s. de levure boulangère et 1 c. à c. de levure chimique délayées dans un peu d'eau tiède ; ¾ l d'eau tiède en tout ; repos couvert de 1 h à 1 h 30 (Bladi.net). À la levure fraîche seule, on attend que la pâte double de volume (Lalla Moulati).",
+  "Au lait et au jaune d'œuf : 250 g de semoule, 250 ml de lait, 1 jaune d'œuf, 1 c. à s. de levure boulangère, ½ c. à c. de sel et de l'eau tiède, repos d'une heure (Yabiladi). Taste of Maroc signale aussi des versions aux œufs et au lait.",
+  "Khringo : dans certaines régions, on retourne brièvement le baghrir, et on l'appelle alors khringo (Taste of Maroc ; Wikipédia cite le nom kh'ringu au Maroc et en Algérie).",
+  "Sirop à la crème de Choumicha : 100 g de beurre, 200 g de miel et 3 c. à s. de crème fraîche fondus à feu doux, émulsionnés à la fourchette et servis chauds en saucière (Choumicha).",
+  "Sirop parfumé : quelques gouttes d'eau de fleur d'oranger dans le sirop beurre-miel (My Moroccan Food).",
+  "Sirop à la margarine : Lalla Moulati fait fondre du « beurre végétal » avec le miel (Lalla Moulati).",
+  "Garnitures : confiture (Taste of Maroc ; Morocco World News 2022), amlou, fromage frais et huile d'olive (Morocco World News 2019), chocolat (Morocco World News 2022)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay, cheffe marocaine), « Beghrir ou crêpes au mille trous », recette n° 35, choumicha.ma, non datée ; site hors ligne, copie web.archive.org du 11 décembre 2025",
+   "url": "https://web.archive.org/web/20251211050511/https://choumicha.ma/recette/35-beghrir-ou-crepes-aux-mille-trous.html",
+   "used_for": "Source marocaine : 375 g de semoule fine de blé dur, 50 cl d'eau tiède, 1 c. à c. de sel, 1 c. à c. de levure boulangère, 1 sachet de levure chimique ; mixage 3 min avec pauses ; repos 15 min jusqu'aux petites bulles ; poêle antiadhésive chaude, sans matière grasse dans la méthode, petite louche, feu moyen ; cuit quand la surface est couverte de trous ; poêle essuyée entre deux ; sirop 100 g de beurre, 200 g de miel, 3 c. à s. de crème fraîche à feu doux, gardé au chaud ; 12 personnes, cuisson 25 min"
+  },
+  {
+   "name": "Choumicha, « Beghrir ou crêpes au mille trous (deuxième façon) », recette n° 1067, choumicha.ma, non datée ; copie web.archive.org du 3 mai 2015",
+   "url": "https://web.archive.org/web/20150503214636/http://www.choumicha.ma:80/recette/1067-beghrir-ou-baghrir-crepes-au-mille-trous-deuxieme-facon.html",
+   "used_for": "Source marocaine : 450 g de semoule fine de blé dur et 150 g de farine de blé tendre (trois quarts / un quart), les deux levures, sucre, 75 cl d'eau, vinaigre ajouté après mixage ; pâte couverte, repos 15 min ; poêle chaude antiadhésive, feu moyen ; crêpe posée sur un torchon propre ; poêle essuyée au torchon doux ; service avec miel, beurre fondu et thé à la menthe"
+  },
+  {
+   "name": "Choumicha, astuce « Pour réussir les crêpes au mille trous », choumicha.ma, non datée ; copie web.archive.org du 28 août 2016",
+   "url": "https://web.archive.org/web/20160828232107/http://www.choumicha.ma/astuces/pour-reussir-les-crepes-au-mille-trous.html",
+   "used_for": "Semoule et farine de bonne qualité ; respecter dose de levure et repos ; sans trous à la première crêpe, 5 à 10 min de repos en plus ; poêle préchauffée, feu moyen à fort, baissé en fin de cuisson"
+  },
+  {
+   "name": "Bladi.net (« Les Marocains du monde »), « Baghrirs ou crêpes aux mille trous », rubrique Pâtisseries marocaines, sans auteur ni date",
+   "url": "https://www.bladi.net/recettes/baghrirs-ou-crepes-aux-mille-trous.html",
+   "used_for": "Source marocaine : 200 g de farine, 200 g de semoule, ½ c. à c. de sel, 1 c. à s. de levure boulangère, 1 c. à c. de levure chimique, ¾ l d'eau tiède (750 ml pour 400 g, comme Cooking with Alia) ; repos couvert 1 h à 1 h 30 ; poêle en fonte ou antiadhésive chauffée, 1 louche, aucune matière grasse dans la méthode ; crêpe cuite « lorsqu'elle se déroule » et réussie quand de petits trous couvrent sa surface"
+  },
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « طريقة تحضير البغرير المغربي », 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/4590.html",
+   "used_for": "Source marocaine : version à la levure fraîche seule, repos jusqu'au double de volume ; poêle antiadhésive réservée aux baghrir (une poêle rayée fait coller) ; ¼ de verre de pâte ; ne pas retourner, retirer avant que le dessous dore ; sirop beurre (végétal) et miel à parts égales, côté trous ; servi au petit-déjeuner ou au goûter avec thé ou café"
+  },
+  {
+   "name": "Lalla Moulati, « بغرير ساهل بطريقة ناجحة و مضمونة », 9 janvier 2015",
+   "url": "https://www.lalamoulati.net/10789.html",
+   "used_for": "Source marocaine : semoule fine, farine, sel, sucre ou vanille, levure boulangère et levure chimique ; mixage ; repos couvert juste le temps que la levure agisse, sans trop fermenter ; pâte versée sans être étalée ; feu fort jusqu'aux trous, puis baissé"
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير البغرير بطريقة ناجحة », 2 juillet 2017",
+   "url": "https://www.lalamoulati.net/74836.html",
+   "used_for": "Source marocaine : version tout semoule au vinaigre blanc (4 verres de semoule fine, 1 c. à s. de levure boulangère, 2 sachets de levure chimique, 1 c. à s. de vinaigre blanc, 4 à 5 verres d'eau tiède) ; repos de 10 min, « ni plus ni moins » ; poêle antiadhésive, feu doux"
+  },
+  {
+   "name": "Morocco World News (Rabat), Layla Dahamou, « How to Make Moroccan Baghrir », 17 août 2019",
+   "url": "https://www.moroccoworldnews.com/2019/08/77851/moroccan-baghrir/",
+   "used_for": "Source marocaine : 350 g de semoule fine, 150 g de farine, 1 c. à s. de levure boulangère, 16 g de levure chimique, 1 c. à c. de sel, 1 c. à c. de sucre facultatif, 800 ml d'eau tiède dont 600 ml d'abord ; mixage 3 à 5 min ; consistance d'une pâte à crêpes, « ni trop épaisse ni trop liquide » ; repos au chaud 10 à 15 min ou plus, jusqu'aux bulles ; petite louche ; pas besoin de retourner ; garnitures beurre, miel, amlou, fromage frais et huile d'olive"
+  },
+  {
+   "name": "Morocco World News, Mariya Sahnouni, « 3 Special Recipes for an Authentic Moroccan Breakfast », 18 février 2022",
+   "url": "https://www.moroccoworldnews.com/2022/02/49765/3-special-recipes-for-an-authentic-moroccan-breakfast/",
+   "used_for": "Source marocaine : 1 tasse de semoule fine, ½ tasse de farine, 2 c. à c. de levure chimique ajoutée après, levure sèche, ¼ c. à c. de sel et de sucre, 2 tasses d'eau tiède ; repos 30 min au chaud ; poêle antiadhésive à feu moyen, graissée d'un peu d'huile ; ¼ de tasse de pâte ; pas besoin de retourner ; ne pas les empiler, les poser séparément sur un torchon propre ; servi avec miel, confiture, beurre ou chocolat ; baghrir de l'iftar"
+  },
+  {
+   "name": "Yabiladi (portail marocain), « Recette : Baghrir ou crêpes marocaines », par Sousou Kitchen, 15 mars 2013",
+   "url": "https://www.yabiladi.com/articles/details/16079/recette-baghrir-crepes-marocaines.html",
+   "used_for": "Source marocaine : baghrir du goûter et du petit-déjeuner, servis tièdes avec miel et beurre fondu ; variante au lait et au jaune d'œuf, repos d'une heure, feu moyen, baghrir posés dans une serviette"
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Moroccan Pancakes - Baghrir », 28 avril 2015",
+   "url": "https://www.mymoroccanfood.com/home/2015/4/27/moroccan-pancakes-baghrir",
+   "used_for": "250 g de semoule fine, 40 g de farine, 2 c. à s. de sucre, 1 c. à c. bombée de levure sèche, ½ c. à c. de sel, 500 ml d'eau tiède (« plus chaude que la pièce, pas chaude »), 2 c. à c. de levure chimique ; repos 30 min ; poêle antiadhésive graissée, feu moyen-vif, très chaude sinon peu de trous ; environ 1 min ; jamais retourner ; ne pas empiler chaud, ou séparer par un papier ; environ 15 baghrir de 12 cm ; sirop miel-beurre à parts égales, fleur d'oranger facultative ; pâte trop épaisse ou pas assez levée : eau tiède et 15 min de plus"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (installée de longue date au Maroc), « Beghrir – Moroccan Semolina Pancakes », mise à jour du 12 novembre 2019 ; le site refuse les robots, copie web.archive.org du 17 mars 2026",
+   "url": "https://web.archive.org/web/20260317133054/https://tasteofmaroc.com/beghrir-moroccan-semolina-pancakes/",
+   "used_for": "Semoule fine essentielle, couleur jaune, alerte sur le curcuma ; deux tiers de semoule pour un tiers de farine en volume, ou tout semoule ; levure chimique qui raccourcit le repos ; mixage 1 min ; repos 10 à 15 min jusqu'aux petites bulles ; poêle antiadhésive à feu moyen, normalement sans huile ; pâte versée au centre sans tourner la poêle ; 1 à 2 min sans retourner, test du doigt ; refroidir en une couche avant d'empiler ; poêle réservée aux baghrir ; consistance d'une crème ; 16 baghrir de 12 cm ; conservation ; khringo"
+  },
+  {
+   "name": "Cooking with Alia (Alia Al Kasimi, cuisinière marocaine née à Rabat, d'après Femmes du Maroc), « 496 - Baghrir, Moroccan Crepes with 1000-Hole / البغرير », 23 mai 2017 ; copie web.archive.org du 29 juin 2021 (le site a été refait)",
+   "url": "https://web.archive.org/web/20210629130010/https://www.cookingwithalia.com/496-baghrir-moroccan-crepes-1000-hole-1000/",
+   "used_for": "Recette de base : 300 g de semoule fine, 100 g de farine, 1 c. à c. de sel, 6 g (2 c. à c.) de levure sèche, 8 g (1½ c. à c.) de levure chimique, 750 ml d'eau tiède dont 500 ml d'abord ; consistance d'une pâte à crêpes ; repos 20 min couvert, au chaud ; poêle antiadhésive à feu moyen, pâte au centre qui s'étale seule ; cuit quand la surface est sèche, sans retourner ; en une couche sur un torchon, sans empiler ; sirop beurre-miel à feu moyen-doux, côté trous trempé quelques secondes, servi trous vers le haut ; 20 baghrir moyens ; difficulté moyenne"
+  },
+  {
+   "name": "Wikipédia (en), « Baghrir »",
+   "url": "https://en.wikipedia.org/wiki/Baghrir",
+   "used_for": "Nom arabe البغرير ; crêpe d'Algérie, du Maroc et de Tunisie ; trempée dans le mélange miel-beurre ; petit-déjeuner, goûter et iftar ; nom kh'ringu au Maroc et en Algérie"
+  },
+  {
+   "name": "Wikipédia (fr), « Baghrir »",
+   "url": "https://fr.wikipedia.org/wiki/Baghrir",
+   "used_for": "Les baghrir ne cuisent que sur une seule face ; petites cavités sur le dessus"
+  },
+  {
+   "name": "NHS (service de santé publique britannique), « Foods to avoid giving babies and young children », page revue le 18 février 2026",
+   "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+   "used_for": "Pas de miel avant l'âge d'un an (risque de botulisme infantile)"
+  },
+  {
+   "name": "Femmes du Maroc (magazine marocain), « Alia Al Kasimi Itinéraire d'une toquée », 24 décembre 2015",
+   "url": "https://femmesdumaroc.com/archives/alia-al-kasimi-itineraire-dune-toquee",
+   "used_for": "Contre-vérification : L'autrice de Cooking with Alia est Alia Al Kasimi, Marocaine née à Rabat en 1981 ; sa première vidéo, en 2008, filmait sa grand-mère marocaine en train de faire des baghrir, qui lui manquaient. Sa chaîne propose des recettes marocaines simples, faisables partout avec des ingrédients locaux."
+  },
+  {
+   "name": "Organisation mondiale de la santé (OMS), aide-mémoire « Botulism », 25 septembre 2023",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+   "used_for": "Contre-vérification : Deuxième source officielle pour la mise en garde sur le miel : le miel contaminé par des spores de Clostridium botulinum a été associé à des cas de botulisme infantile, et les parents sont avertis de ne pas donner de miel aux nourrissons avant l'âge de 1 an. La même page précise que les spores résistent à la chaleur : faire chauffer le miel dans le sirop ne lève donc pas la mise en garde (lu le 7 novembre 2026)."
+  }
+ ],
+ "discrepancies": [
+  "Semoule et farine (part de semoule dans le sec, calcul) : 100 % (Choumicha n° 35, Lalla Moulati), 86 % (My Moroccan Food), 75 % (Choumicha n° 1067, Cooking with Alia), 70 % (Morocco World News 2019), 50 % (Bladi.net) ; Taste of Maroc met 2 volumes de semoule pour 1 de farine. Médiane : 75 %. Retenu : 300 g de semoule et 100 g de farine.",
+  "Eau, ramenée à 400 g de sec (calcul) : 500 ml (Choumicha n° 1067), 533 ml (Choumicha n° 35), 640 ml (Morocco World News 2019), 690 ml (My Moroccan Food), 750 ml (Cooking with Alia, Bladi.net) ; Taste of Maroc, en tasses, environ 860 à 880 ml (conversion approximative). Médiane : 665 ml (690 ml avec Taste of Maroc). Retenu : 750 ml, la valeur la plus fréquente, mais versée en deux fois jusqu'à la bonne consistance, comme chez Cooking with Alia et Morocco World News 2019 : tu en mettras peut-être un peu moins.",
+  "Levure boulangère sèche, pour 400 g de sec (calcul) : 0,67 c. à c. (Choumicha n° 1067), environ 1,1 (Choumicha n° 35), environ 1,4 c. à c. bombée (My Moroccan Food), environ 1,8 (Morocco World News 2022, « une petite cuillère »), 2 (Cooking with Alia), 2,4 (Morocco World News 2019), 3 (Bladi.net), environ 3,5 (Taste of Maroc). Médiane : 1,7 à 1,9. Retenu : 2 c. à c.",
+  "Levure chimique, pour 400 g de sec (calcul) : 1 c. à c. (Bladi.net), 8 g soit 1½ c. à c. (Cooking with Alia), environ 9,3 g (Choumicha n° 1067), environ 2,4 c. à c. (Taste of Maroc), environ 2,8 c. à c. (My Moroccan Food), environ 12,8 g (Morocco World News 2019), environ 3,6 c. à c. (Morocco World News 2022) ; Choumicha n° 35 met « 1 sachet » sans en donner le poids. Retenu : 2 c. à c., près de la médiane.",
+  "Sel, pour 400 g de sec (calcul) : 0,5 c. à c. (Bladi.net), 0,67 (Choumicha n° 1067), 0,69 (My Moroccan Food), 0,8 (Morocco World News 2019), 1 (Cooking with Alia), 1,07 (Choumicha n° 35), environ 1,2 (Taste of Maroc). Médiane : 0,8 (0,74 si l'on ajoute Morocco World News 2022, environ 0,44). Retenu : ¾ c. à c.",
+  "Sucre : aucun chez Choumicha n° 35, Cooking with Alia, Bladi.net, Yabiladi et deux recettes de Lalla Moulati ; de 0,45 à 2 c. à c. pour 400 g chez Morocco World News, Taste of Maroc et Choumicha n° 1067 (calcul) ; 1 c. à c. de « sucre ou vanille » chez Lalla Moulati n° 10789 ; environ 8 c. à c. chez My Moroccan Food. Retenu : 1 c. à c., facultative.",
+  "Repos : 10 min (Lalla Moulati), 10 à 15 min (Taste of Maroc ; Morocco World News 2019, « ou plus »), 15 min (Choumicha, deux recettes), 20 min (Cooking with Alia), 30 min (My Moroccan Food ; Morocco World News 2022), 1 h (Yabiladi, sans levure chimique), 1 h à 1 h 30 (Bladi.net). Retenu : 15 minutes, avec le signe des petites bulles.",
+  "Mixage : 1 min (Taste of Maroc), 3 min avec pauses (Choumicha), 3 à 5 min (Morocco World News 2019). Retenu : 3 minutes.",
+  "Poêle graissée ou non : Taste of Maroc écrit qu'il ne faut normalement pas l'huiler ; Choumicha, Bladi.net, Cooking with Alia, Morocco World News 2019 et Lalla Moulati ne mettent aucune matière grasse dans leur méthode ; My Moroccan Food graisse la poêle et Morocco World News 2022 y met un peu d'huile. Retenu : poêle antiadhésive sans matière grasse, essuyée entre deux baghrir (Choumicha ; Taste of Maroc).",
+  "Feu : moyen (Choumicha, recettes ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022), moyen-vif (My Moroccan Food), moyen à fort puis baissé en fin de cuisson (Choumicha, astuce ; Lalla Moulati), doux (Morocco World News 2019 ; Lalla Moulati n° 74836). Retenu : feu moyen, baissé si le dessous colore trop.",
+  "Étalement : la pâte s'étale seule, sans tourner la poêle (Taste of Maroc ; Cooking with Alia ; Lalla Moulati) ; Choumicha n° 1067 l'étale en inclinant la poêle, et Morocco World News 2019 couvre tout le fond. Retenu : la pâte s'étale seule.",
+  "Quantité de pâte par baghrir : ½ tasse (Cooking with Alia), ¼ de tasse (Morocco World News 2022 ; Lalla Moulati), petite louche (Choumicha n° 35 ; Morocco World News 2019). Retenu : une petite louche, pour un rond d'environ 12 cm (My Moroccan Food ; Taste of Maroc).",
+  "Cuisson de chaque baghrir : environ 1 min (My Moroccan Food), 1 à 2 min (Taste of Maroc), 3 min (Cooking with Alia, fiche). Retenu : 1 à 2 minutes, en se fiant surtout aux signes (plus de zone humide, test du doigt).",
+  "Sirop : miel et beurre à parts égales (My Moroccan Food ; Lalla Moulati, 2 c. à s. de chaque) ; deux fois plus de miel que de beurre, avec de la crème fraîche (Choumicha) ; « au goût » (Cooking with Alia). Retenu : parts égales.",
+  "Nombre de baghrir : 20 baghrir moyens (Cooking with Alia, mêmes quantités de sec et d'eau) ; ramenés à 400 g de sec et 750 ml d'eau, environ 22 de 12 cm d'après My Moroccan Food et environ 17 d'après Taste of Maroc (calculs). Retenu : 20 baghrir d'environ 12 cm.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Conservation : une seule source (Taste of Maroc). Un autre site (Arabic Post), vu seulement dans un résumé de moteur de recherche et non lu, déconseillerait le congélateur : non vérifié.",
+  "Réchauffage : aucune des sources lues n'en parle.",
+  "Durées : 10 min de préparation estimées (Taste of Maroc en compte 5) ; 25 min de cuisson d'après Choumicha (25 min) et Taste of Maroc (20 min pour 16 baghrir), non chronométrées avec cette pâte.",
+  "Nombre de 20 baghrir : calculé à partir des rendements de trois sources, pas testé avec ces quantités exactes.",
+  "Quantités de beurre et de miel du sirop : aucune source ne les donne pour 20 baghrir, sauf Choumicha (100 g de beurre et 200 g de miel, avec crème, pour 12 personnes) ; seul le rapport à parts égales est retenu.",
+  "Choumicha n° 35 : poids du « sachet » de levure chimique non indiqué ; les recettes de Choumicha ne sont pas datées.",
+  "Yabiladi : la quantité d'eau imprimée (« 400cl d'eau tiède », soit 4 litres) est manifestement une coquille ; non utilisée.",
+  "Lalla Moulati n° 4590 : « ملعقتان من الزبدة النباتية 2 ملاعق من العسل لكل فطيرة » se lit « par crêpe », ce qui paraît beaucoup ; seul le rapport à parts égales est utilisé.",
+  "Conversions de tasses, verres et cuillères en grammes : approximatives, utilisées seulement pour comparer les recettes, jamais dans la recette retenue.",
+  "Choumicha n° 1067 et Lalla Moulati n° 74836 : le type de vinaigre (de vin, d'alcool, de cidre) n'est pas précisé ; variante non retenue.",
+  "Le360, Hespress et Chhiwat : non consultés, faute d'outil de recherche web (la recherche de Le360 ne s'affiche qu'avec un navigateur ; Hespress refuse l'accès automatique). Femmes du Maroc : sa recherche interne ne donne aucune recette de baghrir.",
+  "Cooking with Alia : le nom complet de l'autrice n'est pas sur la page de la recette ; Femmes du Maroc (24 décembre 2015) l'identifie comme Alia Al Kasimi, Marocaine née à Rabat, dont la première vidéo (2008) montrait les baghrir de sa grand-mère."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "rayons": [
+  "Pains",
+  "Douceurs"
+ ],
+ "pairs": [
+  "the-menthe"
+ ],
+ "img_alt": "Baghrir posé sur un torchon, sa face criblée de petits trous",
+ "img": "img/baghrir.jpg",
+ "photo": {
+  "author": "Sabah HAANA",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Baghrir_1.jpg",
+  "modified": "recadrée et réduite"
+ }
+});

@@ -54,7 +54,7 @@ SITE="https://chenano.github.io/recettes-maison/"
 SHELL_FILES=$( { echo "./"; echo "index.html"; echo "recettes.js"; echo "manifest.webmanifest"; for f in icons/*.png; do echo "$f"; done; } | sed 's/.*/"&"/' | paste -sd, - )
 # installées d'avance : miniatures et photos d'ingrédients ; les grandes photos se gardent dès qu'on ouvre la recette
 PRE=(img/min/*.jpg img/ing/*.jpg)
-IMGS=(img/*.jpg "${PRE[@]}")
+IMGS=(img/*.jpg img/etapes/*.jpg "${PRE[@]}")
 IMG_FILES=$(printf '%s\n' "${PRE[@]}" | sed 's/.*/"&"/' | paste -sd, - )
 IMGV=$(cat "${IMGS[@]}" | md5 -q | cut -c1-10)
 sed "s/__VERSION__/$VERSION/; s/__IMGV__/$IMGV/; s|__SHELL__|$SHELL_FILES|; s|__IMGS__|$IMG_FILES|" sw.template.js > sw.js

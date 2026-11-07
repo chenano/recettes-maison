@@ -1,0 +1,136 @@
+{
+ "slug": "tajine-poisson",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "MarocMama – Amanda Mouttaki (Marrakech), « Casablanca Fish Tajine », 14/04/2013, mise à jour le 19/06/2020",
+   "url": "https://marocmama.com/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-fish-tajine-for-sundaysupper/",
+   "ce_qu_elle_confirme": "Recette de tajine de poisson de Casablanca pour 4 (1 lb, soit 454 g, de poisson blanc épais) : chermoula au mortier (persil, ail et sel pilés d'abord, puis cumin, paprika et jus de citron, détendue d'un peu d'eau) ; poisson enrobé puis mis au réfrigérateur « 30 minutes - 2 hours » ; carottes rangées au fond, puis poisson, tomates en rondelles et poivron vert ; ¼ de tasse d'eau versée sur les bords ; tajine en terre non vernissé à feu doux, 20 à 30 min puis 20 min, en vérifiant le niveau d'eau ; cuit quand le poisson s'effeuille, que la sauce est épaisse et que les légumes sont tendres ; une cocotte à fond épais convient, avec un peu plus de liquide ; servi avec du pain et des salades marocaines."
+  },
+  {
+   "name": "Femmes du Maroc – « Tajine de lotte à la chermoula », recette du chef Hachem Oulhous (Selman Marrakech), 08/05/2020",
+   "url": "https://femmesdumaroc.com/archives/tajine-de-lotte-a-la-chermoula",
+   "ce_qu_elle_confirme": "Chermoula très citronnée pour le poisson (jus de 3 citrons pour 800 g de lotte, avec persil, ail, cumin, gingembre, curcuma, huile d'olive et un peu d'eau) ; poisson mariné « quelques heures » ; si le poisson est cuit avant que la sauce ait réduit, on fait réduire la sauce à part."
+  },
+  {
+   "name": "Femmes du Maroc – « Tajine de loup bar et gambas », recette du chef Marwan (Dar El Kaid, Casablanca), 06/03/2026",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/tajine-de-loup-bar-et-gambas",
+   "ce_qu_elle_confirme": "Le loup se cuisine en tajine au Maroc ; chermoula citronnée (3 citrons pour 600 g de loup, coriandre, persil, cumin, ail, un demi-verre d'eau) ; cuisson à couvert à feu doux."
+  },
+  {
+   "name": "Lalla Moulati – « هاكيفاش تحضري طاجين الحوت بطريقة ناجحة » (09/11/2023)",
+   "url": "https://www.lalamoulati.net/amp/387122.html",
+   "ce_qu_elle_confirme": "Moitié de la chermoula (herbes, ail, citron, paprika, cumin) étalée sur le poisson ; morceaux de carotte rangés au fond du tajine, puis tomates en rondelles et poivrons, poisson dessus ; cuisson à feu doux ; servi chaud, décoré d'olives vertes et de rondelles de citron."
+  },
+  {
+   "name": "Bladi.net – « Poisson au four » (22/09/2005)",
+   "url": "https://www.bladi.net/recettes/poisson-au-four.html",
+   "ce_qu_elle_confirme": "Le poisson (des darnes de saumon) est enduit de la moitié de la chermoula (persil, ail, cumin, paprika, jus de citron, huile d'olive) ; pommes de terre et carottes précuites 10 min à l'eau salée puis posées en rondelles sous le poisson ; le reste de chermoula, délayé dans de l'eau, arrose le plat."
+  },
+  {
+   "name": "Choumicha – « Chorba bel hout », copie archivée du 20/08/2017",
+   "url": "https://web.archive.org/web/20170820233602/http://www.choumicha.ma/recette/157-chorba-bel-hout.html",
+   "ce_qu_elle_confirme": "Graphie marocaine en lettres latines du mot « hout » (الحوت, le poisson) et de « bel » (بال) dans un titre de recette, avec les mots-clés « Poisson, Hout, bel »."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "ingredients[2].items[11].q",
+   "actuel": 2,
+   "propose": 3,
+   "pourquoi": "L'eau versée dans le tajine (étape « Ajoute l'eau et mets sur le feu ») est sous-estimée. La note des écarts donne « Eau 2,1 → 2 c. à s. », mais ce 2,1 se retrouve (2,09 avec python3) en prenant chez Taste of Maroc « a tablespoon or two of water », l'eau qui sert seulement à détendre la chermoula ; or Taste of Maroc verse en plus ¼ à ½ tasse d'eau dans le tajine pour 35 oz (992 g) de poisson, soit 2,8 à 5,6 c. à s. pour 700 g. Recalcul avec python3 de l'eau ajoutée au plat, rapportée à 700 g : Taste of Maroc 4,2 (milieu de la fourchette) ; Choumicha (espadon, 3 c. à s. pour 500 g) 4,2 ; Bladi.net (tajine safrané, 5 cl pour 850 g) 2,8 ; Lalla Moulati (350248, ⅓ de tasse pour 1 kg) 3,7 ; My Moroccan Food (sardines, 2 c. à s. pour 1 kg) 1,4 ; Cooking with Alia 0 ; médiane 3,3 c. à s. MarocMama, ajoutée, en met 6,2. Avec 2 c. à s., la recette est sous le minimum de sa propre référence ; 3 c. à s. suivent la médiane. Rendu vérifié : ¾ c. à s. pour 1 personne, 3 pour 4, 6 pour 8.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515221748/https://tasteofmaroc.com/moroccan-fish-tagine-with-chermoula-and-vegetables/) ; Choumicha, espadon (https://web.archive.org/web/20160111013358/http://www.choumicha.ma:80/recette/539-tajine-d-espadon-aux-legumes.html) ; Bladi.net (https://www.bladi.net/recettes/tajine-de-poisson-safrane.html) ; Lalla Moulati (https://www.lalamoulati.net/amp/350248.html) ; My Moroccan Food (https://www.mymoroccanfood.com/home/sardine-tagine-with-charmoula) ; Cooking with Alia (https://www.cookingwithalia.com/439-fish-tagine-with-vegetables/) ; MarocMama (https://marocmama.com/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-fish-tajine-for-sundaysupper/)"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "Eau 2,1 → 2 c. à s.",
+   "propose": "Eau versée dans le tajine : 3 c. à s. (contre-vérification : médiane 3,3 c. à s. pour 700 g ; Taste of Maroc verse ¼ à ½ tasse pour 992 g, soit 2,8 à 5,6 c. à s.).",
+   "pourquoi": "Va avec la correction précédente : la note doit donner la quantité retenue et son calcul refait.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515221748/https://tasteofmaroc.com/moroccan-fish-tagine-with-chermoula-and-vegetables/) ; calcul python3 détaillé dans la correction précédente."
+  },
+  {
+   "champ": "steps[14].text",
+   "actuel": "Ne laisse pas le tajine plus de 2 h à température ambiante.",
+   "propose": "Ne laisse pas le tajine plus de 2 h à température ambiante, ni plus d'1 h s'il fait plus de 32 °C.",
+   "pourquoi": "Sécurité alimentaire. La FDA, citée par la recette pour la règle des 2 heures, écrit : « Never leave seafood or other perishable food out of the refrigerator for more than 2 hours or for more than 1 hour when temperatures are above 90°F » (90 °F = 32,2 °C, calcul python3). L'ANSES donne 2 heures sans parler de la chaleur ; la limite d'1 heure compte pour un plat de poisson servi l'été au Maroc. Les fiches poisson-frit et sandwich-poisson de l'appli donnent déjà cette règle.",
+   "gravite": "majeure",
+   "sources": "FDA (https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely) ; ANSES (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques)"
+  },
+  {
+   "champ": "mistakes[8]",
+   "actuel": "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid (FDA ; ANSES).",
+   "propose": "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid, ou plus d'1 h s'il fait plus de 32 °C (FDA ; ANSES).",
+   "pourquoi": "Même règle que la correction précédente : la FDA, citée ici, fixe 1 heure au-dessus de 90 °F (32,2 °C).",
+   "gravite": "majeure",
+   "sources": "FDA (https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely)"
+  },
+  {
+   "champ": "mistakes[1]",
+   "actuel": "(Taste of Maroc ; FDA)",
+   "propose": "(Taste of Maroc ; Bladi.net ; My Moroccan Food ; MarocMama)",
+   "pourquoi": "La page de la FDA ne parle pas de marinade : elle dit de mettre le poisson au froid dès l'achat et de ne pas laisser un aliment périssable plus de 2 heures hors du réfrigérateur, ce qui ne suffit pas à interdire 30 min de marinade hors du froid. Mariner au réfrigérateur est écrit chez Taste of Maroc (« marinate in the fridge »), Bladi.net (« laisser imprégner au frais »), My Moroccan Food (« place in the fridge to marinate ») et MarocMama (« Place in the refrigerator for 30 minutes - 2 hours »).",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515221748/https://tasteofmaroc.com/moroccan-fish-tagine-with-chermoula-and-vegetables/) ; Bladi.net (https://www.bladi.net/recettes/chermoula-pour-le-poisson.html) ; My Moroccan Food (https://www.mymoroccanfood.com/home/oven-baked-fish-with-chermoula-and-preserved-lemon-moroccan-fish-tagine) ; MarocMama (https://marocmama.com/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-fish-tajine-for-sundaysupper/) ; FDA (https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely)"
+  },
+  {
+   "champ": "mistakes[5]",
+   "actuel": "le citron confit et les olives cuisent avec eux",
+   "propose": "le citron confit cuit avec eux",
+   "pourquoi": "Taste of Maroc, seule source citée, parle uniquement du citron confit : « Preserved lemons will add quite a bit of saltiness [...] If you'd prefer to add them at the beginning of cooking [...], omit the salt when seasoning the vegetables. » Les olives n'y sont pas mentionnées.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (https://web.archive.org/web/20260515221748/https://tasteofmaroc.com/moroccan-fish-tagine-with-chermoula-and-vegetables/)"
+  },
+  {
+   "champ": "steps[2].text",
+   "actuel": "Effeuille {{coriandre:full}} :",
+   "propose": "Lave et effeuille {{coriandre:full}} :",
+   "pourquoi": "Hygiène : l'ANSES écrit qu'« il est nécessaire de procéder à un lavage minutieux des fruits et légumes à l'eau potable, qui permet d'éliminer la terre et les souillures ». La botte de coriandre arrive avec de la terre ; ses feuilles vont dans la chermoula et ses tiges au fond du tajine, et aucune étape ne la lave.",
+   "gravite": "mineure",
+   "sources": "ANSES (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques)"
+  },
+  {
+   "champ": "steps[5].text",
+   "actuel": "Pendant la marinade, pèle {{carottes:full}}",
+   "propose": "Pendant la marinade, lave les légumes et le citron frais à l'eau potable. Pèle {{carottes:full}}",
+   "pourquoi": "Hygiène : même règle de l'ANSES (lavage minutieux des fruits et légumes à l'eau potable). Lalla Moulati (« قشري وغسلي الخضار », épluchez et lavez les légumes, article 23772) et MarocMama (« Wash the tomato », « Wash [...] a green pepper ») lavent aussi les légumes ; la recette ne le dit nulle part, alors que tomates, poivrons et rondelles de citron frais vont dans le plat avec leur peau.",
+   "gravite": "mineure",
+   "sources": "ANSES (https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques) ; Lalla Moulati (https://www.lalamoulati.net/amp/23772.html) ; MarocMama (https://marocmama.com/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-fish-tajine-for-sundaysupper/)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 29 sources répondent (HTTP 200 le 07/11/2026, pages ouvertes avec curl et lues en entier ; Taste of Maroc et Choumicha sur les copies web.archive.org citées ; Santé Canada répond aussi en lecture directe) et chaque page dit bien ce que son champ used_for lui attribue, dates comprises (Taste of Maroc mis à jour le 13/01/2021 et le 17/02/2020 ; FDA « Content current as of: 03/05/2024 » ; Santé Canada publiée le 2024-06-04 ; ANSES 08/04/2020 ; Akhbarona 11/09/2019 ; Bladi.net 2005 et 2008, modifiés en 2021 ; Lalla Moulati 10/11/2014, 29/07/2015 et 08/09/2023 ; My Moroccan Food 20/05/2015, 17/08/2016 et 22/11/2016).",
+  "Chermoula pour 700 g (python3 -I ; chaque recette rapportée à 700 g de poisson, médiane par source, puis médiane des sources) : ail 3,2 gousses (Taste of Maroc 2,8 ; Choumicha 2,8 ; Bladi.net 1,6 ; Cooking with Alia 3,5 ; My Moroccan Food 6,3 ; Lalla Moulati 3,5 ; MarocMama, ajoutée, 3,1), cumin 1,57 c. à c., paprika 1,41 c. à c., sel 1,06 c. à c., jus de citron ou vinaigre 2,8 c. à s. : les quantités retenues (3 gousses, 1½, 1½ et 1 c. à c., 3 c. à s.) sont justes, comme l'huile (4,6 c. à s. en tout au recalcul, 4,7 dans la fiche, retenu 5). Coriandre : ½ botte se place entre Taste of Maroc (0,71 botte pour 700 g, « about 1 large bunch » pour 35 oz) et les recettes chiffrées en cuillères (2 à 6 c. à s. par kg) ; My Moroccan Food en met 1,4 à 1,75 botte.",
+  "Poisson : 165,4 g par personne chez Taste of Maroc (35 oz = 992,2 g pour 6), 170,8 g chez Choumicha (médiane de 125, 166,7, 175 et 250 g), 225 g chez My Moroccan Food ; médiane 170,8 g, soit 683 g pour 4 : 700 g est juste.",
+  "Moitié-moitié et chermoula mise de côté avant le poisson : Taste of Maroc (« Reserve half of the chermoula marinade; cover and refrigerate », puis l'autre moitié sur le poisson), Choumicha (espadon : moitié pour le poisson, reste sur les légumes), My Moroccan Food (½ tasse sur 1 pour les filets ; moitié pour les sardines et pour la version rapide), Lalla Moulati (23772), et deux pages non citées : Lalla Moulati 387122 et Bladi.net « Poisson au four ».",
+  "Marinade au réfrigérateur au moins 30 min, jusqu'à 2 h : Choumicha (« Laisser mariner une demi-heure »), Bladi.net (« au moins 1/2 heure » au frais ; 1 h pour le tajine safrané ; 2 h au four), Taste of Maroc (au moins 2 h ou une nuit, au réfrigérateur) ; MarocMama (ajoutée) donne exactement 30 min à 2 h au réfrigérateur.",
+  "Lit au fond : tiges de coriandre ou brochettes en bois (Choumicha, espadon), branches de coriandre en quadrillage (Bladi.net, safrané), bâtonnets de céleri ou petites brochettes en travers, pour que rien ne brûle au contact du fond (Taste of Maroc), persil et légumes « حتى لا يلتصق » (pour que rien n'attache, Lalla Moulati 23772) ; carottes directement au fond chez Cooking with Alia, Lalla Moulati (3512 et 387122) et MarocMama. L'ordre des couches (lit, carottes, pommes de terre, tomates, chermoula gardée, poisson et sa marinade, poivrons, piment, rondelles de citron, olives autour) est celui de Taste of Maroc.",
+  "Légumes crus : pommes de terre en rondelles et carottes en bâtonnets de 1/4 de pouce, que Taste of Maroc écrit lui-même 0,5 cm (1/4 de pouce = 0,635 cm) ; rondelles fines chez My Moroccan Food (sinon le poisson sèche), Cooking with Alia et Lalla Moulati ; précuites chez Choumicha, Akhbarona (« مصلوقة قليلا ») et Bladi.net « Poisson au four » (10 min à l'eau salée), ce que reprend l'astuce sur la précuisson.",
+  "Cuisson et feu : feu moyen-doux à moyen, montée lente au frémissement, diffuseur hors gaz, puis environ 1 h de frémissement à feu moyen-doux au tajine (Taste of Maroc, dont l'autrice répond le 31/01/2023 que la cuisson est plus courte en sauteuse) ; 30 min à feu moyen (Cooking with Alia) ; 30 min à feu doux puis quelques minutes (Lalla Moulati 23772) ; MarocMama, au tajine en terre non vernissé à feu doux : 20 à 30 min puis 20 min. Le minuteur de 30 min suivi d'une vérification (pommes de terre tendres, chair qui se détache à la fourchette, comme l'écrit la FDA) est cohérent. Nuance : Cooking with Alia et Lalla Moulati cuisent aussi leurs 30 min dans un tajine dont la matière n'est pas dite ; « plus long au tajine en terre » repose sur Taste of Maroc et MarocMama.",
+  "Température à cœur : 70 °C pour le poisson et 74 °C pour les restes, dans le tableau de Santé Canada ; l'ANSES écrit aussi qu'une cuisson à 70 °C à cœur élimine la majorité des micro-organismes pathogènes ; la FDA donne 145 °F, soit 62,8 °C (python3) : 70 °C est bien le choix le plus prudent.",
+  "Restes et rangement (ANSES, 08/04/2020) : plats cuisinés pas plus de 2 h à température ambiante et à consommer dans les 3 jours ; restes en boîtes fermées ou sous film ; réchauffage dans un récipient couvert jusqu'à ce que de la vapeur s'échappe ; poisson dans la zone la plus froide du réfrigérateur (4 °C) ; une planche réservée aux viandes et poissons crus ; décongélation au réfrigérateur.",
+  "Fraîcheur et hygiène (FDA) : odeur fraîche et douce, jamais « fishy, sour, or ammonia-like » ; yeux clairs et brillants ; ouïes rouges ; chair ferme qui reprend sa forme ; réfrigérateur à 40 °F (4,4 °C) ou moins si le poisson est cuisiné dans les 2 jours, sinon congélateur ; décongélation une nuit au réfrigérateur ; mains lavées au moins 20 s au savon ; planches, ustensiles et plan de travail à l'eau chaude savonneuse. Rinçage du poisson, puis égouttage ou séchage : Lalla Moulati (3512 : lavé et égoutté ; 350248 : lavé et bien séché), Akhbarona (lavé), Paula Wolfert (rincé à l'eau froide et épongé).",
+  "Halal : poisson, pas de porc, pas d'alcool, pas de fromage ; le vinaigre n'apparaît que dans un secret et deux variantes (Choumicha) ; le smen de la variante au safran est un beurre (« smen (beurre rance) », Bladi.net).",
+  "Secrets (14) : chacun est dans la source citée. Précisions : la méthode au mortier « ail et sel d'abord » est celle de Taste of Maroc (« Start by pounding garlic and salt », herbes bien hachées sinon la chermoula est filandreuse) ; Bladi.net et MarocMama pilent herbes, sel et ail ensemble avant les épices ; « préfère souvent » le citron confit à la fin résume la recette de Taste of Maroc, qui l'ajoute à la fin ; le dos incisé vient de Bladi.net (« inciser le dos du poisson pour la faire pénétrer »), l'intérieur enduit de Choumicha et d'Akhbarona ; « ne pas trop cuire » et « adapter le temps au poids » sont le « Bon à savoir » de Choumicha (poisson au four).",
+  "Variantes (12) : toutes conformes aux pages lues. Tagra : Paula Wolfert (Tanger et Tétouan, plat ovale en terre poreuse non vernissée fait près de l'oued Laou, braise ou four du boulanger ; couches de pommes de terre, carottes, tomates, poivron rouge et sardines ; four allumé à 180 °C, 1 h ; posé sur du bois ou un torchon plié ; 30 min de repos) et Taste of Maroc (la plupart sans couvercle, papier aluminium sans serrer). Four : Bladi.net (40 min à four moyen-chaud en arrosant à mi-cuisson), Choumicha (700 g, 25 min à 170 °C puis 15 à 20 min dans le four éteint), My Moroccan Food (30 à 35 min à 200 °C sous aluminium). Tajine safrané (Bladi.net), pageot m'slalla (Choumicha), espadon (Choumicha), congre fariné (Choumicha), congre aux oignons et raisins secs (Cooking with Alia, 40 min ; la même autrice donne 25 min pour 300 g dans Femmes du Maroc, 09/08/2017), boulettes de sardines (Cooking with Alia ; Taste of Maroc : « popular throughout Morocco, but more so in coastal areas »), lit d'oignons, épices en plus, chermoula au citron confit (5 min à feu doux, une semaine au frais en bocal fermé).",
+  "Service, occasion et région : servi directement dans le tajine, chacun de son côté avec du pain marocain, en plat unique ou avec des salades, et « one of the most popular ways to prepare fresh fish in Morocco » (Taste of Maroc) ; pain et salades marocaines aussi chez MarocMama ; chaud ou tiède (Bladi.net) ; pain croustillant (Cooking with Alia) ; pain ou couscous (My Moroccan Food).",
+  "Nom arabe : « طاجين الحوت بالشرمولة » est le nom écrit en tête du texte de l'article 350248 de Lalla Moulati, dont la page s'intitule « طاجين الحوت بالفلافل والشرمولة… » (même recette sous le numéro 204530, 28/08/2019) ; « طاجين الحوت » est le titre de l'article 3512, et « الحوت » est bien le mot de la darija dans ces recettes (avec « خيزو » pour les carottes et « مطيشة » pour la tomate) ; Akhbarona écrit « شرمولة الحوت ».",
+  "Cohérence interne : chaque ingrédient sert dans une étape et les quantités des étapes viennent de la liste ; minuteur de marinade 30 min = time.rest 30 ; minuteur de cuisson 30 min, plus la montée au frémissement et la sauce, pour time.cook 35 ; préparation 30 min comme Taste of Maroc (Choumicha : 15 à 35 min, temps total moins cuisson ; médiane 25 min sur l'espadon, le pageot, le poisson au four et le congre) ; 65 min hors marinade : pas « Rapide ».",
+  "Rendu dans l'appli (fonctions de app.html exécutées avec node pour 1, 4 et 8 personnes) : {{id}} n'affiche que la quantité (« 1 c. à c. de sel », « 90 g d'olives »), {{id:full}} la quantité et le nom accordé (« 3 gousses d'ail », « 2 grosses pommes de terre », « ¾ gousse d'ail » pour 1, « 1 citron confit » et « 2 piments verts piquants » pour 8), et {{poivre}}, {{celeri}} et {{citron-rondelles}} (q null) affichent leur nom ; poisson 175 g, 700 g et 1,4 kg ; olives 25 g, 90 g et 180 g. À noter pour 1 personne : l'arrondi minimal de l'appli affiche « ¼ botte » de coriandre et « ¼ citron confit » au lieu de ⅛, et « ⅛ c. à c. » de piment au lieu de 1/16 (règle d'affichage, pas une erreur de la fiche).",
+  "Conversions des écarts refaites avec python3 : 35 oz = 992,2 g ; ⅓ de tasse = 78,9 ml = 5,33 c. à s. ; ¼ à ½ tasse = 59 à 118 ml ; ¼ de pouce = 0,635 cm ; 145 °F = 62,8 °C ; 40 °F = 4,4 °C ; 158 °F = 70,0 °C ; 165 °F = 73,9 °C.",
+  "Bladi.net « Tajine de lotte aux oignons et raisins secs », noté « non lu » dans la fiche : lu (600 g de lotte sur des oignons confits aux raisins secs, safran et cannelle, 15 min au four à 170 °C, 5 min de repos) ; il n'est pas utilisé par la recette et ne change rien.",
+  "Doublons de Lalla Moulati : l'article 48650 (03/10/2016) reprend le texte du 23772, à la mise en forme près, et le 204530 (28/08/2019) celui du 350248 : chacun compte bien pour une seule source.",
+  "Intégration (contrôle technique, hors contenu) : les clés d'ingrédients « poisson », « pomme-de-terre » et « poivron » n'existent pas dans img/ing/banque.json, donc outils/integrer.py s'arrêtera tant qu'elles n'y sont pas ajoutées (ou reliées par ALIAS) ; time.rest est une marinade, mais sans entrée REST_LABEL pour ce slug l'appli affichera « + repos »."
+ ],
+ "non_verifiable": [
+  "Graphie « Tajine l'hout bel chermoula » : aucune source lue ne la donne. Choumicha écrit « Chorba bel hout » (mots-clés « Hout, bel ») et Lalla Moulati a une étiquette « bastila hout » : « hout » et « bel » sont des graphies marocaines attestées, mais ni « l'hout » ni « bel chermoula » n'ont été trouvés ; pour un plat mariné à la chermoula, Choumicha écrit plutôt « m'chermel » (« Poisson au four M'chermel », « Friture de poissons m'chermel »). Cela reste une transcription de la rédactrice, sans correction possible faute de source.",
+  "Quota de recherche web épuisé : aucune recherche générale. Le360 (résultats chargés en JavaScript), Hespress en français et en arabe et Morocco World News (erreur 403, non contournée) et Chhiwat (chhiwat.com en erreur, chhiwat.ma est une boutique) n'ont pas pu être fouillés ; les sources ajoutées viennent des moteurs internes de Lalla Moulati, Femmes du Maroc et MarocMama, de l'index de la Wayback Machine pour Choumicha et de la rubrique « Les poissons » de Bladi.net.",
+  "Durée exacte au tajine en terre avec des rondelles de 0,5 cm : seules Taste of Maroc (environ 1 h de frémissement) et MarocMama (40 à 50 min, sans pommes de terre) la donnent ; elle dépend du tajine, du feu et du diffuseur.",
+  "Sites en direct : tasteofmaroc.com répond 403 et choumicha.ma une erreur 525 ; leurs pages n'ont été lues que sur les copies archivées citées (2013 à 2026), sans contournement.",
+  "Paula Wolfert : livres non consultés ; seules la recette publiée par lovefood.com (extraite de The Food of Morocco) et l'introduction visible sur ckbk ont été lues.",
+  "Écarts (discrepancies[15]) : « Santé Canada donne 2 à 4 jours, mais pour la volaille » vient d'une autre page de Santé Canada, non relue (ce chiffre n'est pas utilisé dans la recette).",
+  "Poids d'une botte de coriandre : variable (environ 120 g selon Cooking with Alia ; une grosse botte donne environ 2 tasses hachées selon Taste of Maroc) ; ½ botte reste une mesure approximative.",
+  "Lalla Moulati 159648 (style du Nord) et 368659 (style du Souss) : la version AMP n'affiche que la liste des ingrédients ; leur méthode n'a pas pu être lue."
+ ]
+}

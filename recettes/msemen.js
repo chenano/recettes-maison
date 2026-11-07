@@ -137,6 +137,14 @@ window.RECETTES.push({
     "min": 15,
     "label": "Pétrissage",
     "done": "Touche la pâte : si elle n'est pas encore lisse, souple et élastique, pétris encore quelques minutes."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétrir longtemps » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
    }
   },
   {
@@ -163,6 +171,8 @@ window.RECETTES.push({
    "img": {
     "src": "img/msemen-etaler.jpg",
     "alt": "Mains qui étirent la pâte à msemen sur un plan huilé",
+    "w": 1200,
+    "h": 1200,
     "credit": "Photo de l'étape « Étaler très fin » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
    }
   },
@@ -212,6 +222,8 @@ window.RECETTES.push({
    "img": {
     "src": "img/msemen-cuisson.jpg",
     "alt": "Msemen en train de cuire sur une grande plaque",
+    "w": 1200,
+    "h": 900,
     "credit": "Photo de l'étape « Cuire en retournant » : Popo le Chien, Wikimedia Commons, licence CC0 (réduite)."
    }
   },

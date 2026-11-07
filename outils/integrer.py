@@ -16,23 +16,66 @@ PHOTOS = {  # slug -> (fichier dans img/, modification faite)
     "rfissa-poulet": ("rfissa.jpg", "réduite"),
     "zaalouk": ("zaalouk.jpg", "réduite"),
     "the-menthe": ("the-menthe.jpg", "réduite"),
+    "bissara": ("bissara.jpg", "réduite"), "dchicha": ("dchicha.jpg", "réduite"), "poisson-frit": ("poisson-frit.jpg", "réduite"),
+    "sandwich-poisson": ("sandwich-poisson.jpg", "réduite"), "riz-saute-oeufs": ("riz-saute-oeufs.jpg", "réduite"),
+    "salade-pois-chiches-thon": ("salade-pois-chiches-thon.jpg", "réduite"), "soupe-lentilles-corail": ("soupe-lentilles-corail.jpg", "réduite"),
+    "lentilles": ("lentilles.jpg", "réduite"), "loubia": ("loubia.jpg", "réduite"), "baghrir": ("baghrir.jpg", "recadrée et réduite"),
+    "cake-marocain": ("cake-marocain.jpg", "réduite"), "chakchouka": ("chakchouka.jpg", "réduite"), "malwi": ("malwi.jpg", "non modifiée"),
+    "tajine-poisson": ("tajine-poisson.jpg", "non modifiée"), "rghayef": ("rghayef.jpg", "réduite"), "maqarouna": ("maqarouna.jpg", "réduite"),
+    "spaghetti-aglio-olio": ("spaghetti-aglio-olio.jpg", "réduite"), "pates-thon-tomate": ("pates-thon-tomate.jpg", "réduite"),
+    "omelette": ("omelette.jpg", "non modifiée"),
 }
+# pays d'origine des recettes qui ne sont pas marocaines (d'après le champ « region » de leur recherche)
+CUISINE = {"riz-saute-oeufs": "Chinoise", "salade-pois-chiches-thon": "Italienne", "soupe-lentilles-corail": "Turque",
+           "spaghetti-aglio-olio": "Italienne", "pates-thon-tomate": "Italienne", "omelette": "Française"}
+# date de la contre-vérification (deuxième série : faite le 7 novembre 2026)
+SERIE2 = {"lentilles", "loubia", "bissara", "dchicha", "chakchouka", "maqarouna", "poisson-frit", "sandwich-poisson", "tajine-poisson",
+          "baghrir", "cake-marocain", "malwi", "rghayef", "spaghetti-aglio-olio", "pates-thon-tomate", "omelette", "riz-saute-oeufs",
+          "salade-pois-chiches-thon", "soupe-lentilles-corail"}
 # texte alternatif quand la photo ne montre pas exactement la recette (la photo du tajine aux pruneaux est un tajine de veau)
 IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
            "khobz": "Piles de khobz ronds sur un étal de Chefchaouen",
-           "the-menthe": "Théières marocaines et verre de thé à la menthe sur un plateau"}
+           "the-menthe": "Théières marocaines et verre de thé à la menthe sur un plateau",
+           "bissara": "Bols de bissara arrosés d'huile d'olive et de cumin, avec olives et khobz",
+           "poisson-frit": "Sardines frites, farinées, disposées en rosace avec du citron",
+           "sandwich-poisson": "Sandwich de sardines dans un petit pain, avec de la salade",
+           "salade-pois-chiches-thon": "Salade de pois chiches au thon (photo d'une version avec carotte et fromage)",
+           "dchicha": "Soupe d'orge à la tomate dans la marmite",
+           "lentilles": "Lentilles aux pommes de terre et aux carottes dans un plat décoré, photographiées au Maroc",
+           "loubia": "Haricots blancs en sauce tomate avec du persil, ici avec des morceaux de viande (photo prise en Tunisie)",
+           "baghrir": "Baghrir posé sur un torchon, sa face criblée de petits trous",
+           "cake-marocain": "Tranches de cake marocain (meskouta) sur une assiette",
+           "chakchouka": "Œufs cuits dans une poêle en fonte sur des poivrons et des tomates, avec du persil",
+           "malwi": "Malwi (meloui) servi sur une assiette marocaine, dans un riad de Marrakech",
+           "tajine-poisson": "Tajine de poisson aux pommes de terre et aux olives vertes, en sauce tomate",
+           "rghayef": "Assortiment de rghayef carrés, dorés à la poêle (la farce ne se voit pas sur la photo)",
+           "maqarouna": "Gratin de macaronis à la viande hachée sous une béchamel dorée (photo d'un pastitsio grec, plat très proche)",
+           "spaghetti-aglio-olio": "Spaghetti à l'ail, à l'huile d'olive et au piment rouge, avec du persil",
+           "pates-thon-tomate": "Spaghetti nappés de sauce tomate au thon",
+           "omelette": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette"}
 # rayon de l'accueil (catégories)
 RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajines", "harira": "Soupes",
          "pastilla-poulet": "Plats", "tajine-kefta-oeufs": "Tajines", "msemen": "Pains",
          "tajine-agneau-pruneaux": "Tajines", "khobz": "Pains", "harcha": "Pains", "rfissa-poulet": "Plats",
-         "zaalouk": "Salades", "the-menthe": "Boissons"}
+         "zaalouk": "Salades", "the-menthe": "Boissons",
+         # novembre 2026, deuxième série (une liste = plusieurs rayons, le premier est le principal)
+         "lentilles": "Plats", "loubia": "Plats", "bissara": "Soupes", "dchicha": "Soupes", "chakchouka": "Plats",
+         "maqarouna": "Plats", "poisson-frit": "Poissons", "sandwich-poisson": "Poissons", "tajine-poisson": ["Poissons", "Tajines"],
+         "baghrir": ["Pains", "Douceurs"], "cake-marocain": "Douceurs", "malwi": "Pains", "rghayef": "Pains",
+         "spaghetti-aglio-olio": "D'ailleurs", "pates-thon-tomate": "D'ailleurs", "omelette": "D'ailleurs",
+         "riz-saute-oeufs": "D'ailleurs", "salade-pois-chiches-thon": ["D'ailleurs", "Salades"],
+         "soupe-lentilles-corail": ["D'ailleurs", "Soupes"]}
 # « à servir avec » : seulement quand le service de la recette (sourcé) cite l'accompagnement
 PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"], "tajine-agneau-pruneaux": ["khobz"],
          "tajine-kefta-oeufs": ["khobz"], "msemen": ["the-menthe"], "harcha": ["the-menthe"], "zaalouk": ["khobz"],
-         "the-menthe": ["harcha", "msemen"], "khobz": ["tajine-kefta-oeufs", "zaalouk", "tajine-agneau-pruneaux", "the-menthe"]}
-PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz"}
+         "the-menthe": ["harcha", "msemen"], "khobz": ["tajine-kefta-oeufs", "zaalouk", "tajine-agneau-pruneaux", "the-menthe"],
+         "bissara": ["khobz"], "chakchouka": ["khobz"], "tajine-poisson": ["khobz", "zaalouk"], "baghrir": ["the-menthe"],
+         "cake-marocain": ["the-menthe"], "poisson-frit": ["sandwich-poisson"], "sandwich-poisson": ["poisson-frit", "khobz"],
+         "lentilles": ["khobz"], "loubia": ["khobz", "poisson-frit"], "malwi": ["the-menthe"], "rghayef": ["the-menthe"]}
+PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz", "poisson-frit": "En sandwich", "sandwich-poisson": "Les recettes utilisées"}
 # nom du temps d'attente quand ce n'est pas un simple repos
-REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée"}
+REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée", "poisson-frit": "Marinade", "sandwich-poisson": "Marinade", "tajine-poisson": "Marinade",
+              "loubia": "Trempage"}
 # ingrédient qui renvoie vers une autre recette de l'application
 LINKS = {"rfissa-poulet": {"msemen": "msemen"}}
 credits = {c["file"]: c for c in json.load(open(os.path.join(APP, "img", "credits.json"), encoding="utf-8"))}
@@ -40,6 +83,59 @@ STEP_PHOTOS = {  # slug -> {index d'étape (0 = première): (fichier, texte alte
     "msemen": {4: ("msemen-etaler.jpg", "Mains qui étirent la pâte à msemen sur un plan huilé"),
                10: ("msemen-cuisson.jpg", "Msemen en train de cuire sur une grande plaque")},
 }
+
+# Photos des gestes (img/etapes/) : vraies photos, choisies une à une, crédits dans img/etapes/credits.json
+_ec = os.path.join(APP, "img", "etapes", "credits.json")
+ETAPES = {c["file"]: c for c in json.load(open(_ec, encoding="utf-8"))} if os.path.exists(_ec) else {}
+TECH_RULES = [  # (motif cherché dans le titre et le texte de l'étape, photo, texte alternatif, légende) ; une fois par recette
+    (r"râpe[^.]{0,60}tomate|tomates?[^.]{0,60}râp", "tomate-rapee.jpg", "Tomate râpée sur une râpe", "Râper la tomate"),
+    (r"(hache|cisèle)[^.]{0,40}(persil|coriandre|herbes)", "hacher-persil.jpg", "Persil haché au couteau sur une planche", "Hacher les herbes"),
+    (r"(émince|hache)[^.]{0,30}oignon", "oignon-emince.jpg", "Oignon émincé et ail écrasé sur une planche", "Émincer l'oignon"),
+    (r"pétri[^.]{0,80}pâte|pâte[^.]{0,80}pétri|pétri[^.]{0,20}\d+ minutes", "petrir.jpg", "Mains qui pétrissent une pâte", "Pétrir la pâte"),
+]
+PAINS_SEULEMENT = {"petrir.jpg"}  # photo de pâte à pain : seulement pour les pains et galettes, jamais pour la viande
+NEGATIONS = re.compile(r"ne pétri\w* pas|sans pétrir|ne pas pétrir")
+EXCLUSIONS = {"oignon-emince.jpg": re.compile(r"oignons? verts?|cébette")}  # la photo montre un oignon jaune et de l'ail : pas pour les oignons verts
+STEP_SPECIFIC = {  # slug -> {index d'étape (0 = première): (photo, texte alternatif, légende)}
+    "couscous-sept-legumes": {6: ("couscous-keskas.jpg", "Graine de couscous dans le haut d'un couscoussier", "La graine à la vapeur"),
+                              14: ("couscous-a-la-main.jpg", "Main qui roule une boulette de couscous au-dessus du plat", "À la main, on roule des boulettes")},
+    "khobz": {9: ("ferran-marrakech.jpg", "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech", "Le four du quartier, à Marrakech")},
+    "the-menthe": {7: ("the-verser.jpg", "Homme qui verse le thé de haut dans les verres", "Verser de haut")},
+    "baghrir": {2: ("baghrir-pate.jpg", "Pâte à baghrir lisse et fluide, dans son bol", "Une pâte lisse et fluide"),
+                11: ("baghrir-miel.jpg", "Baghrir imbibé de beurre et de miel, ses petits trous brillants de sirop", "Les trous boivent le sirop")},
+    "malwi": {4: ("msemen-etaler.jpg", "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)", "Étirer du bout des doigts"),
+              11: ("meloui-cuisson.jpg", "Malwi qui cuit sur une plaque de terre bombée, au-dessus d'un feu de bois, au Maroc", "La cuisson à l'ancienne, sur le feu de bois")},
+    "rghayef": {7: ("msemen-etaler.jpg", "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)", "Étirer du bout des doigts"),
+                12: ("msemen-cuisson.jpg", "Galettes feuilletées carrées qui dorent sur une grande plaque", "Cuire jusqu'à ce qu'elles soient bien dorées")},
+    "poisson-frit": {13: ("sardines-friture.jpg", "Sardines frites et dorées, posées sur du papier absorbant", "Égoutter sur du papier absorbant")},
+}
+def dims(path):
+    import subprocess
+    out = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", path], capture_output=True, text=True).stdout
+    w, h = re.findall(r"pixel(?:Width|Height): (\d+)", out)
+    return int(w), int(h)
+def set_step_img(r, i, fn, alt, cap):
+    # photo de geste (img/etapes/) ou photo d'une autre recette réutilisée (img/, crédits dans img/credits.json)
+    c, rel = (ETAPES[fn], "img/etapes/" + fn) if fn in ETAPES else (credits[fn], "img/" + fn)
+    w, h = dims(os.path.join(APP, rel))
+    src = "Flickr" if "flickr.com" in c["page"] else "Wikimedia Commons"
+    r["steps"][i]["img"] = {"src": rel, "alt": alt, "caption": cap, "w": w, "h": h,
+        "credit": f"Photo de l'étape « {r['steps'][i]['title']} » : {c['author']}, {src}, licence {c['license']} (réduite)."}
+def photos_des_gestes(slug, r):
+    used = {st["img"]["src"].rsplit("/", 1)[-1] for st in r["steps"] if st.get("img")}
+    for i, (fn, alt, cap) in STEP_SPECIFIC.get(slug, {}).items():
+        set_step_img(r, i, fn, alt, cap); used.add(fn)
+    for i, st in enumerate(r["steps"]):
+        if st.get("img"):
+            continue
+        txt = (st["title"] + " " + (st["text"] if isinstance(st["text"], str) else " ".join(st["text"]))).lower()
+        for rx, fn, alt, cap in TECH_RULES:
+            if fn in PAINS_SEULEMENT and ("Pains" not in (RAYON.get(slug) if isinstance(RAYON.get(slug), list) else [RAYON.get(slug)]) or NEGATIONS.search(txt)):
+                continue
+            if fn in EXCLUSIONS and EXCLUSIONS[fn].search(txt):
+                continue
+            if fn not in used and re.search(rx, txt):
+                set_step_img(r, i, fn, alt, cap); used.add(fn); break
 
 # Formes singulier / pluriel des ingrédients comptés à la pièce (pour que « 1 tomate mûre » et « 3 tomates mûres » s'accordent)
 FORMS = {
@@ -154,7 +250,8 @@ def appliquer_verif(slug, r):
     for sa in v.get("sources_ajoutees", []):
         if sa["url"] not in known:
             r.setdefault("sources", []).append({"name": sa["name"], "url": sa["url"], "used_for": "Contre-vérification : " + sa["ce_qu_elle_confirme"]})
-    r.setdefault("discrepancies", []).append(f"Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « {v['verdict']} », {n} correction(s) appliquée(s)."
+    quand = "7 novembre 2026" if slug in SERIE2 else "6 novembre 2026"
+    r.setdefault("discrepancies", []).append(f"Contre-vérifiée le {quand} par une seconde recherche indépendante : verdict « {v['verdict']} », {n} correction(s) appliquée(s)."
         + (f" {len(VERIF_SKIP.get(slug, {}))} correction(s) proposée(s) non retenue(s) : " + " ; ".join(VERIF_SKIP[slug].values()) if VERIF_SKIP.get(slug) else ""))
     return v
 
@@ -199,8 +296,34 @@ def corriger(slug, r):
         n = len(v.get("corrections", []))
         r.setdefault("discrepancies", []).append(f"Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « {v['verdict']} », {n} correction(s) appliquée(s).")
 
+# Notes d'ingrédients comptés à la pièce : à l'infinitif, pour rester justes quand on cuisine pour 1 (« ¾ gousse d'ail, à hacher »)
+NOTE_FIXES = {
+    "lentilles": {"ail": ("hachées finement", "à hacher finement"), "oignon": ("râpé", "à râper")},
+    "loubia": {"ail": ("hachées finement ou pressées", "à hacher finement ou à presser"), "oignon": ("râpé", "à râper")},
+    "dchicha": {"tomates": ("râpées, sans la peau", "à râper, sans la peau")},
+    "chakchouka": {"poivrons": ("entiers, à griller", "à griller sans les couper"), "ail": ("hachées", "à hacher"), "oignon": ("haché", "à hacher")},
+    "poisson-frit": {"ail": ("pelées", "à peler")},
+    "rghayef": {"oignons": ("émincés très finement", "à émincer très finement")},
+    "tajine-agneau-pruneaux": {"oignons": ("hachés finement, ou râpés", "à hacher finement, ou à râper")},
+    "rfissa-poulet": {"oignons": ("émincés finement", "à émincer finement")},
+    "tajine-poulet-citron-olives": {"oignons": ("hachés finement", "à hacher finement"),
+                                    "poulet": ("environ 1,5 kg, coupé en 4 à 6 morceaux", "environ 1,5 kg pièce, à couper en 4 à 6 morceaux")},
+}
+# Ingrédients qui se préparent entiers : quantité arrondie à l'unité supérieure (on grille un poivron entier, pas ¾)
+ROUND_UP = {"chakchouka": ["poivrons"]}
 def apres_verif(slug, r):
     """Ajouts faits après lecture des contre-vérifications, avec leur source."""
+    for g in r["ingredients"]:
+        for it in g["items"]:
+            if it["id"] in ROUND_UP.get(slug, []):
+                it["round"] = "up"
+    for g in r["ingredients"]:
+        for it in g["items"]:
+            if it["id"] in NOTE_FIXES.get(slug, {}):
+                old, new = NOTE_FIXES[slug][it["id"]]
+                if it.get("note") != new:  # la contre-vérification a parfois déjà fait la même correction
+                    assert it.get("note") == old, f"{slug} : note de {it['id']} changée : {it.get('note')}"
+                    it["note"] = new
     if slug == "the-menthe":
         i = next(k for k, v in enumerate(r["variants"]) if v.startswith("Menthe pouliot"))
         r["variants"][i] += (" Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois"
@@ -208,6 +331,94 @@ def apres_verif(slug, r):
         r["sources"].append({"name": "Agence européenne des médicaments (HMPC), « Public statement on the use of herbal medicinal products containing pulegone and menthofuran », révision 1",
                              "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-pulegone-and-menthofuran-revision-1_en.pdf",
                              "used_for": "L'huile de menthe pouliot a servi autrefois à provoquer les règles et l'avortement, et n'est plus utilisée ; aucune recommandation propre à la feuille en infusion (lu le 6 novembre 2026)."})
+
+    if slug in ("spaghetti-aglio-olio", "pates-thon-tomate"):
+        # Accademia Italiana della Cucina : son robots.txt interdit aux robots ses pages de recettes (« User-agent: * » puis
+        # « Disallow: /it/ricette/ricetta », relu le 7 novembre 2026). Ses pages sont retirées des sources, avec ce qui ne reposait
+        # que sur elles ; le reste est attribué aux sources lisibles qui le confirment (contre-vérification).
+        r["sources"] = [x for x in r["sources"] if "accademiaitalianadellacucina" not in x["url"]]
+        def var(start):
+            return next(k for k, v in enumerate(r["variants"]) if v.startswith(start))
+        def dis(start):
+            return next(k for k, v in enumerate(r["discrepancies"]) if v.startswith(start))
+    if slug == "spaghetti-aglio-olio":
+        r["region"] = ("Italie. Attribué par tradition au Latium, il est né à Naples et en Campanie selon Turismo Roma et Reporter Gourmet ; "
+                       "l'origine reste discutée entre la Toscane, Naples et Rome (Dissapore)")
+        rep(r["secrets"][0], "source", "Accademia Italiana della Cucina (version napolitaine : ail et piment colorés « sans brûler », poêle écartée du feu dès que l'ail est blond), ", "")
+        rep(r["secrets"][1], "source", "Accademia Italiana della Cucina (version napolitaine), ", "")
+        rep(r["secrets"][4], "source", ", Accademia Italiana della Cucina (« très al dente »)", "")
+        rep(r["secrets"][5], "source", ", Accademia Italiana della Cucina", "")
+        rep(r["secrets"][7], "text", "et ni l'Accademia Italiana della Cucina ni Turismo Roma n'en prévoient.", "et ni Turismo Roma ni les deux recettes de Dissapore n'en prévoient.")
+        rep(r["secrets"][7], "source", "Accademia Italiana della Cucina, Turismo Roma", "Turismo Roma, Dissapore")
+        rep(r["secrets"][10], "source", " ; Accademia Italiana della Cucina (vermicelles à Naples)", "")
+        rep(r["mistakes"], 0, "(Accademia Italiana della Cucina, Turismo Roma, Dissapore)", "(Turismo Roma, Dissapore, Giorgio Locatelli)")
+        rep(r["mistakes"], 1, "(Accademia Italiana della Cucina, Turismo Roma, Antonio Carluccio)", "(Turismo Roma, Antonio Carluccio)")
+        del r["variants"][var("Au poivre noir")]
+        r["variants"][var("À la romaine, sans persil")] = ("Sans persil : seulement l'ail, l'huile et le piment, comme Antonio Carluccio et Giorgio Locatelli ; "
+                                                           "Dissapore (2022) le juge « pas nécessaire ».")
+        r["discrepancies"][dis("Pâtes pour 4")] = ("Pâtes pour 4 : 360 g (Turismo Roma, portions non précisées), 400 g (Dissapore, deux recettes), 450 g (Carluccio), "
+                                                   "500 g (Locatelli). Retenu : 400 g, valeur la plus fréquente et médiane.")
+        r["discrepancies"][dis("Ail : de 1 à 6")] = ("Ail : de 1 à 6 gousses pour 4. Ramenée à 400 g de pâtes, la médiane des cinq recettes lues est de 3,2 gousses "
+                                                     "(contre-vérification, calcul python). Retenu : 3 gousses.")
+        rep(r["discrepancies"], dis("Huile : de 60 ml"), " L'Accademia (Naples) dit « 2 verres », volume impossible à chiffrer ; elle n'est pas comptée.", "")
+        rep(r["discrepancies"], dis("Coupe de l'ail"), "lamelles (Accademia, Naples ; Locatelli, environ 1 mm)", "lamelles (Locatelli, environ 1 mm)")
+        rep(r["discrepancies"], dis("Couleur de l'ail"), "(Accademia, Turismo Roma, Dissapore, Locatelli)", "(Turismo Roma, Dissapore, Locatelli)")
+        r["discrepancies"][dis("Moment du piment")] = ("Moment du piment : avec l'ail dès le début (Dissapore 2022 ; Carluccio) ou quand l'ail commence à dorer "
+                                                       "(Turismo Roma, Dissapore 2017, Locatelli). Retenu : dès le début, plus simple ; l'autre façon, un peu plus suivie, "
+                                                       "est donnée en astuce.")
+        rep(r["discrepancies"], dis("Eau de cuisson dans la sauce"), "une louche (Accademia, Naples ; Dissapore)", "une louche (Dissapore)")
+        r["discrepancies"][dis("Persil :")] = ("Persil : présent (Dissapore 2017 ; Turismo Roma), « pas nécessaire » (Dissapore 2022), absent (Carluccio ; Locatelli). "
+                                               "Retenu : facultatif.")
+        r["discrepancies"][dis("Finition :")] = "Finition : pâtes sautées dans la poêle (Turismo Roma, Dissapore, Locatelli, Carluccio). Retenu : la poêle."
+        r["unverified"].append("Accademia Italiana della Cucina : son fichier robots.txt interdit aux robots ses pages de recettes (relu le 7 novembre 2026). "
+                               "Ses deux recettes ont donc été retirées des sources, avec ce qui ne reposait que sur elles (variantes au poivre noir et « à la romaine », "
+                               "« Rome a sa version ») ; les quantités retenues restent justifiées sans elles (contre-vérification).")
+    if slug == "pates-thon-tomate":
+        r["region"] = ("Toute l'Italie : recette de Bologne déposée en 2018 par l'Accademia Italiana della Cucina (Dissapore ; Il Giornale del Cibo), "
+                       "versions de Rome et de Palerme (Wikipédia, Dissapore)")
+        rep(r["secrets"][0], "source", "Accademia Italiana della Cucina (thon ajouté 10 minutes avant la fin)", "recette bolognaise d'après Dissapore, 2018 (thon ajouté 10 minutes avant la fin)")
+        r["secrets"][1] = {"text": "Prends du thon à l'huile, de préférence à l'huile d'olive : sa chair est plus moelleuse et plus savoureuse.",
+                           "source": "Dissapore (version aux tomates cerises : « consistance plus moelleuse, goût plus riche »)"}
+        rep(r["secrets"][2], "source", "Accademia Italiana della Cucina ; Dissapore", "Dissapore (2018 et 2022)")
+        r["secrets"][3] = {"text": "Égoutte bien le thon, puis émiette-le.", "source": "Dissapore (thon égoutté) ; recette bolognaise d'après Dissapore, 2018, et Il Giornale del Cibo (thon émietté)"}
+        rep(r["secrets"][5], "source", "Accademia Italiana della Cucina ; ", "")
+        r["secrets"][7] = {"text": "Le persil se met cru, sur l'assiette déjà servie.",
+                           "source": "Recette bolognaise, d'après Dissapore (2018) et Il Giornale del Cibo (2019) : variante admise"}
+        for k in (1, 2, 3):
+            rep(r["mistakes"], k, "Accademia Italiana della Cucina, ", "")
+        rep(r, "serving", "si tu aimes (Accademia Italiana della Cucina).", "si tu aimes (recette bolognaise, d'après Dissapore et Il Giornale del Cibo).")
+        rep(r["variants"], var("La recette de Bologne"), "La recette de Bologne (Accademia Italiana della Cucina) :",
+            "La recette de Bologne, déposée par l'Accademia Italiana della Cucina (reprise par Dissapore en 2018 et par Il Giornale del Cibo en 2019) :")
+        del r["variants"][var("Au thon frais, à la sicilienne")]
+        rep(r["discrepancies"], dis("Pâtes pour 4"), "320 g (Accademia, Bologne ; Dissapore)", "320 g (recette bolognaise, d'après Dissapore 2018 ; Dissapore 2022)")
+        rep(r["discrepancies"], dis("Pâtes pour 4"), " ; Accademia, Sicile)", ")")
+        rep(r["discrepancies"], dis("Thon : de 40"), "180 g pour 320 g à l'Accademia", "180 g pour 320 g dans la recette bolognaise d'après Dissapore 2018")
+        r["discrepancies"][dis("Aromate :")] = ("Aromate : oignon (recette bolognaise, d'après Dissapore 2018 ; lectrice d'Il Giornale del Cibo) ou échalote (Dissapore 2022), "
+                                                "contre ail (Dissapore, tomates cerises ; Cookist ; version romaine). Retenu : l'oignon, celui de la recette bolognaise ; "
+                                                "l'ail passe en variante.")
+        rep(r["discrepancies"], dis("Moment du thon"), "(Accademia, 10 minutes avant ; Cookist)", "(recette bolognaise d'après Dissapore 2018, 10 minutes avant ; Cookist)")
+        rep(r["discrepancies"], dis("Moment du thon"), "les 10 minutes de l'Accademia", "les 10 minutes de la recette bolognaise")
+        rep(r["discrepancies"], dis("Cuisson de la sauce"), "une demi-heure à l'Accademia (avec des tomates fraîches)", "une demi-heure dans la recette bolognaise (avec des tomates fraîches, d'après Dissapore 2018)")
+        rep(r["steps"][2], "text", "émiette-le en gros morceaux", "émiette-le")
+        rep(r["steps"][9], "text", ", sans en mettre trop.", ".")
+        k = next(k for k, v in enumerate(r["unverified"]) if v.startswith("Nom en darija et nom en arabe"))
+        r["unverified"][k] = ("Nom en darija : aucun trouvé en lettres latines dans une source, laissé vide. Nom arabe (معكرونة بالتونة) : employé par le site "
+                              "marocain Lalla Moulati, dans deux articles ; pas de deuxième source indépendante.")
+        rep(r["unverified"], next(k for k, v in enumerate(r["unverified"]) if v.startswith("Poids égoutté du thon")),
+            "du thon de l'Accademia (« 180 g de thon à l'huile ») : non précisé par la source.", "du thon de la recette bolognaise (« 180 g de thon à l'huile », d'après Dissapore 2018) : non précisé.")
+        r["unverified"].append("Accademia Italiana della Cucina : son fichier robots.txt interdit aux robots ses pages de recettes (relu le 7 novembre 2026). "
+                               "Ses deux recettes ont donc été retirées des sources ; la recette bolognaise reste citée d'après ses reprises (Dissapore, Il Giornale del Cibo). "
+                               "Ce qui ne reposait que sur elles a été retiré : la variante au thon frais à la sicilienne, le thon « en gros morceaux », le persil « avec mesure » "
+                               "et le thon « de qualité ».")
+
+    if slug == "bissara":
+        # mise en garde ajoutée par la contre-vérification (MedlinePlus ; OMS) : en encadré, en haut des ingrédients, pour qu'on la voie
+        it = r["ingredients"][0]["items"][0]
+        assert "fèves" in it["name"], it["name"]
+        avert = "Attention : en cas de déficit en G6PD, les fèves peuvent provoquer une destruction des globules rouges (anémie hémolytique, appelée favisme), parfois grave : ne sers pas cette recette aux personnes concernées (MedlinePlus, Bibliothèque nationale de médecine des États-Unis ; OMS)."
+        assert avert in it["note"], it["note"]
+        it["note"] = it["note"].replace(" " + avert, " Favisme : lis l'encadré plus haut.")
+        r.setdefault("notes", []).insert(0, {"title": "Fèves et favisme (déficit en G6PD)", "text": avert.replace("Attention : en cas", "En cas")})
 
     if slug == "khobz":
         # retirés : affirmations que la contre-vérification n'a pas retrouvées dans la source citée
@@ -248,7 +459,7 @@ for slug in sys.argv[1:]:
             n = it.get("name", "")
             if it.get("u") and it.get("q") is not None and not n.lower().startswith(("de ", "d'", "d’", "du ", "des ")):
                 it["name"] = ("d'" if n[:1].lower() in "aeiouyéèêâîôûh" else "de ") + n
-    r["cuisine"] = "Marocaine"
+    r["cuisine"] = CUISINE.get(slug, "Marocaine")
     for g in r["ingredients"]:
         for it in g["items"]:
             if it["id"] in FORMS.get(slug, {}):
@@ -275,7 +486,10 @@ for slug in sys.argv[1:]:
             if it["id"] in LINKS.get(slug, {}):
                 it["recipe"] = LINKS[slug][it["id"]]
     assert not inconnues, f"{slug} : ingrédients absents de la banque : {inconnues}"
-    r["rayon"] = RAYON[slug]
+    ry = RAYON[slug]
+    r["rayon"] = ry[0] if isinstance(ry, list) else ry
+    if isinstance(ry, list):
+        r["rayons"] = ry
     if PAIRS.get(slug):
         r["pairs"] = PAIRS[slug]
     if slug in PAIRS_LABEL:
@@ -289,8 +503,10 @@ for slug in sys.argv[1:]:
     r["photo"] = photo_for(fname, mod)
     for idx, (sf, alt) in STEP_PHOTOS.get(slug, {}).items():
         c = credits[sf]
-        r["steps"][idx]["img"] = {"src": "img/" + sf, "alt": alt,
+        w, h = dims(os.path.join(APP, "img", sf))
+        r["steps"][idx]["img"] = {"src": "img/" + sf, "alt": alt, "w": w, "h": h,
             "credit": f"Photo de l'étape « {r['steps'][idx]['title']} » : {c['author']}, Wikimedia Commons, licence {c['license']} (réduite)."}
+    photos_des_gestes(slug, r)
     out = os.path.join(APP, "recettes", slug + ".js")
     with open(out, "w", encoding="utf-8") as f:
         f.write(f"/* Recette : {r['title']}. Sources et vérification dans le champ sources / discrepancies. */\n")

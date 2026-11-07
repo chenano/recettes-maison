@@ -55,6 +55,17 @@ window.INGREDIENTS = {
   "file": "aubergine.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "basilic": {
+  "title": "Fresh green basil leaves (54986224214).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fresh_green_basil_leaves_(54986224214).jpg",
+  "author": "AS Photography from Poland",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "label": "Basilic",
+  "aisle": "Herbes fraîches",
+  "file": "basilic.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "beurre": {
   "title": "2023 Masło w maselniczce.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:2023_Mas%C5%82o_w_maselniczce.jpg",
@@ -126,6 +137,17 @@ window.INGREDIENTS = {
   "file": "celeri.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "cerfeuil": {
+  "title": "Kerbel (Anthriscus cerefolium) Topfpflanze--Josef Schlaghecken.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kerbel_(Anthriscus_cerefolium)_Topfpflanze--Josef_Schlaghecken.jpg",
+  "author": "Schlaghecken Josef",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Cerfeuil",
+  "aisle": "Herbes fraîches",
+  "file": "cerfeuil.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "cheddar": {
   "title": "White cheddar cheese sliced CNE.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:White_cheddar_cheese_sliced_CNE.jpg",
@@ -147,6 +169,17 @@ window.INGREDIENTS = {
   "aisle": "Fruits et légumes",
   "file": "chou.jpg",
   "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "ciboulette": {
+  "title": "Potato, Cheddar, and Chive Torpedos - Chopped chives",
+  "page": "https://www.flickr.com/photos/70757891@N00/4476924597",
+  "author": "grongar",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "label": "Ciboulette",
+  "aisle": "Herbes fraîches",
+  "file": "ciboulette.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "citron": {
   "title": "Lemon.jpg",
@@ -281,6 +314,17 @@ window.INGREDIENTS = {
   "modified": "recadrée en carré et réduite",
   "skip": true
  },
+ "estragon": {
+  "title": "Artemisia dracunculus1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Artemisia_dracunculus1.jpg",
+  "author": "KENPEI",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Estragon",
+  "aisle": "Herbes fraîches",
+  "file": "estragon.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "farine": {
   "title": "All-Purpose Flour (4107895947).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:All-Purpose_Flour_(4107895947).jpg",
@@ -303,6 +347,17 @@ window.INGREDIENTS = {
   "file": "fenugrec.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "feves-seches": {
+  "title": "Dried broad beans.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_broad_beans.jpg",
+  "author": "Fumikas Sagisavas",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Fèves sèches",
+  "aisle": "Épicerie",
+  "file": "feves-seches.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "fleur-oranger": {
   "title": "OrangeBloss wb.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:OrangeBloss_wb.jpg",
@@ -314,6 +369,17 @@ window.INGREDIENTS = {
   "file": "fleur-oranger.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "fromage-rape": {
+  "title": "Grated cheese Annie Mole.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grated_cheese_Annie_Mole.jpg",
+  "author": "Annie Mole",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Fromage râpé",
+  "aisle": "Crèmerie et œufs",
+  "file": "fromage-rape.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "gingembre": {
   "title": "Ginger powder (1).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ginger_powder_(1).jpg",
@@ -323,6 +389,28 @@ window.INGREDIENTS = {
   "label": "Gingembre moulu",
   "aisle": "Épices",
   "file": "gingembre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "haricots-blancs": {
+  "title": "Phaseolus vulgaris white beans, witte boon.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Phaseolus_vulgaris_white_beans,_witte_boon.jpg",
+  "author": "Rasbak",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Haricots blancs",
+  "aisle": "Épicerie",
+  "file": "haricots-blancs.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "harissa": {
+  "title": "Harissa in a jar (vertical) (cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Harissa_in_a_jar_(vertical)_(cropped).jpg",
+  "author": "Jules (jules:stonesoup)",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "label": "Harissa",
+  "aisle": "Épicerie",
+  "file": "harissa.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "huile": {
@@ -369,6 +457,17 @@ window.INGREDIENTS = {
   "file": "ketchup.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "khlii": {
+  "title": "الخليع بزيت.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%B9_%D8%A8%D8%B2%D9%8A%D8%AA.jpg",
+  "author": "AdilElouarti",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Khlii",
+  "aisle": "Boucherie et volaille",
+  "file": "khlii.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "khobz": {
   "title": "Chefchaouen, Morocco (5410213344).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Chefchaouen,_Morocco_(5410213344).jpg",
@@ -413,6 +512,17 @@ window.INGREDIENTS = {
   "file": "lentilles.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "lentilles-corail": {
+  "title": "Split Red Lentil.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Split_Red_Lentil.jpg",
+  "author": "Sanjay Acharya",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Lentilles corail",
+  "aisle": "Épicerie",
+  "file": "lentilles-corail.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "levure-boulangere": {
   "title": "Fresh yeast.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Fresh_yeast.jpg",
@@ -435,6 +545,17 @@ window.INGREDIENTS = {
   "file": "levure-chimique.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "macaronis": {
+  "title": "Macaronis.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Macaronis.jpeg",
+  "author": "Popo le Chien",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Macaronis",
+  "aisle": "Épicerie",
+  "file": "macaronis.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "mayonnaise": {
   "title": "Mayonnaise (1).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Mayonnaise_(1).jpg",
@@ -455,6 +576,17 @@ window.INGREDIENTS = {
   "label": "Menthe",
   "aisle": "Herbes fraîches",
   "file": "menthe.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "merlan": {
+  "title": "Wijting002.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wijting002.jpg",
+  "author": "Georges Jansoone (JoJan)",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "label": "Merlan",
+  "aisle": "Poissonnerie",
+  "file": "merlan.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "miel": {
@@ -512,6 +644,17 @@ window.INGREDIENTS = {
   "file": "nigelle.jpg",
   "modified": "recadrée en carré et réduite, zoomée"
  },
+ "noix-de-muscade": {
+  "title": "Nutmeg whole.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Nutmeg_whole.JPG",
+  "author": "Miansari66",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Noix de muscade",
+  "aisle": "Épices",
+  "file": "noix-de-muscade.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "oeuf": {
   "title": "Eggs in basket 2020 G1.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Eggs_in_basket_2020_G1.jpg",
@@ -534,6 +677,28 @@ window.INGREDIENTS = {
   "file": "oignon.jpg",
   "modified": "recadrée en carré et réduite, zoomée"
  },
+ "oignon-rouge": {
+  "title": "Red Onion on White.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Onion_on_White.JPG",
+  "author": "Colin",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Oignon rouge",
+  "aisle": "Fruits et légumes",
+  "file": "oignon-rouge.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "oignon-vert": {
+  "title": "Spring onions displayed.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spring_onions_displayed.jpg",
+  "author": "Judethedeus",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Oignon vert",
+  "aisle": "Fruits et légumes",
+  "file": "oignon-vert.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "olives": {
   "title": "Recently harvested olives at Olivais de Quelemém, Brazil.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Recently_harvested_olives_at_Olivais_de_Quelem%C3%A9m,_Brazil.jpg",
@@ -543,6 +708,28 @@ window.INGREDIENTS = {
   "label": "Olives",
   "aisle": "Épicerie",
   "file": "olives.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "orge-concassee": {
+  "title": "Barley grits 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barley_grits_1.jpg",
+  "author": "Redboston",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Orge concassée",
+  "aisle": "Épicerie",
+  "file": "orge-concassee.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "origan": {
+  "title": "Oregano dried.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Oregano_dried.JPG",
+  "author": "Miansari66",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Origan",
+  "aisle": "Épices",
+  "file": "origan.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "pain-burger": {
@@ -589,6 +776,10 @@ window.INGREDIENTS = {
   "file": "piment-cayenne.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "piment-flocons": {
+  "label": "Piment en flocons",
+  "aisle": "Épices"
+ },
  "piment-vert": {
   "title": "Green chili peppers.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Green_chili_peppers.jpg",
@@ -611,6 +802,17 @@ window.INGREDIENTS = {
   "file": "pois-chiches.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "poisson": {
+  "title": "Gilt-head bream - Çipura.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gilt-head_bream_-_%C3%87ipura.jpg",
+  "author": "Zeynel Cebeci",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Poisson",
+  "aisle": "Poissonnerie",
+  "file": "poisson.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "poivre": {
   "title": "Tellicherry Black Peppercorns.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Tellicherry_Black_Peppercorns.jpg",
@@ -620,6 +822,39 @@ window.INGREDIENTS = {
   "label": "Poivre noir",
   "aisle": "Épices",
   "file": "poivre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "poivron": {
+  "title": "Red, Yellow, and Green bell peppers.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Red,_Yellow,_and_Green_bell_peppers.jpg",
+  "author": "Jiafei Slay Queen",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Poivron",
+  "aisle": "Fruits et légumes",
+  "file": "poivron.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "poivron-vert": {
+  "title": "Green Bell Pepper.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_Bell_Pepper.jpg",
+  "author": "Gaurav Dhwaj Khadka",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Poivron vert",
+  "aisle": "Fruits et légumes",
+  "file": "poivron-vert.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "pomme-de-terre": {
+  "title": "Solanales - Solanum tuberosum - 3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Solanales_-_Solanum_tuberosum_-_3.jpg",
+  "author": "DenesFeri",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Pomme de terre",
+  "aisle": "Fruits et légumes",
+  "file": "pomme-de-terre.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "poulet": {
@@ -655,6 +890,17 @@ window.INGREDIENTS = {
   "file": "ras-el-hanout.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "riz": {
+  "title": "Cooked white rice.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cooked_white_rice.jpg",
+  "author": "Calgary Reviews from Calgary, Canada",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "label": "Riz",
+  "aisle": "Épicerie",
+  "file": "riz.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "safran": {
   "title": "Saffron - premium spice.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Saffron_-_premium_spice.jpg",
@@ -664,6 +910,17 @@ window.INGREDIENTS = {
   "label": "Safran",
   "aisle": "Épices",
   "file": "safran.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "sardine": {
+  "title": "Sardines Displayed at Toledo Market.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sardines_Displayed_at_Toledo_Market.jpg",
+  "author": "QueenCityCebu",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Sardines",
+  "aisle": "Poissonnerie",
+  "file": "sardine.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "sel": {
@@ -710,6 +967,17 @@ window.INGREDIENTS = {
   "file": "smen.jpg",
   "modified": "recadrée en carré et réduite, zoomée"
  },
+ "spaghetti": {
+  "title": "Dry Spaghetti 2",
+  "page": "https://www.flickr.com/photos/24354425@N03/53840458200",
+  "author": "sjrankin",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "label": "Spaghetti",
+  "aisle": "Épicerie",
+  "file": "spaghetti.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "sucre": {
   "title": "Sugar on a blue plate (close up).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Sugar_on_a_blue_plate_(close_up).jpg",
@@ -732,6 +1000,17 @@ window.INGREDIENTS = {
   "file": "sucre-glace.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "sucre-vanille": {
+  "title": "Vanillezucker.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vanillezucker.jpg",
+  "author": "GeoTrinity",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Sucre vanillé",
+  "aisle": "Épicerie",
+  "file": "sucre-vanille.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "the-vert": {
   "title": "Grüner Tee Gunpowder.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Tee_Gunpowder.jpg",
@@ -743,6 +1022,28 @@ window.INGREDIENTS = {
   "file": "the-vert.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "thon": {
+  "title": "Lata de atún-Albo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lata_de_at%C3%BAn-Albo.jpg",
+  "author": "Tamorlan",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "label": "Thon en boîte",
+  "aisle": "Épicerie",
+  "file": "thon.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "thym": {
+  "title": "Spice thyme.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spice_thyme.jpg",
+  "author": "Daniel78",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Thym",
+  "aisle": "Épices",
+  "file": "thym.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "tomate": {
   "title": "Tomato je.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
@@ -752,6 +1053,17 @@ window.INGREDIENTS = {
   "label": "Tomate",
   "aisle": "Fruits et légumes",
   "file": "tomate.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "tomates-pelees": {
+  "title": "Tinned tomatoes.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tinned_tomatoes.jpg",
+  "author": "Auteur inconnu (photo publiée sur rawpixel)",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Tomates pelées en conserve",
+  "aisle": "Épicerie",
+  "file": "tomates-pelees.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "vermicelles": {
@@ -770,6 +1082,1827 @@ window.INGREDIENTS = {
   "aisle": "Épicerie"
  }
 };
+/* Recette : Baghrir, crêpes mille trous. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "baghrir",
+ "title": "Baghrir, crêpes mille trous",
+ "darija": "baghrir (aussi beghrir)",
+ "arabic": "البغرير",
+ "tagline": "Des crêpes à la semoule, légères et spongieuses, cuites d'un seul côté : leurs mille petits trous boivent le sirop chaud de beurre et de miel.",
+ "category": "Pain et crêpes",
+ "occasion": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+ "region": "Maroc ; aussi en Algérie et en Tunisie (Wikipédia)",
+ "servings": 20,
+ "servings_label": "baghrir",
+ "time": {
+  "prep": 10,
+  "cook": 25,
+  "rest": 15
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un blender (ou un grand saladier et un fouet électrique)",
+  "Une balance de cuisine et un verre doseur",
+  "Un grand bol et un torchon propre ou du film alimentaire",
+  "Une poêle antiadhésive en bon état, petite de préférence (poêle à crêpes), réservée si possible aux baghrir",
+  "Une petite louche",
+  "Une spatule",
+  "Des torchons propres pour poser les baghrir à plat",
+  "Un torchon doux ou du papier absorbant pour essuyer la poêle",
+  "Une petite casserole pour le sirop beurre-miel"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "semoule",
+     "q": 300,
+     "u": "g",
+     "name": "de semoule fine de blé dur",
+     "note": "c'est elle qui donne la couleur jaune et la texture",
+     "canon": "semoule"
+    },
+    {
+     "id": "farine",
+     "q": 100,
+     "u": "g",
+     "name": "de farine blanche (blé tendre)",
+     "canon": "farine"
+    },
+    {
+     "id": "levure-boulangere",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de levure boulangère sèche",
+     "canon": "levure-boulangere"
+    },
+    {
+     "id": "levure-chimique",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de levure chimique",
+     "canon": "levure-chimique"
+    },
+    {
+     "id": "sel",
+     "q": 0.75,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "sucre",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sucre",
+     "note": "facultatif : la moitié des recettes lues n'en mettent pas",
+     "canon": "sucre"
+    },
+    {
+     "id": "eau",
+     "q": 750,
+     "u": "ml",
+     "name": "d'eau tiède",
+     "note": "au plus : verse-la en deux fois, tu n'en utiliseras peut-être pas tout",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Sirop beurre-miel",
+   "items": [
+    {
+     "id": "beurre",
+     "q": null,
+     "u": "",
+     "name": "Beurre",
+     "pl": "Beurre",
+     "note": "à parts égales avec le miel",
+     "canon": "beurre"
+    },
+    {
+     "id": "miel",
+     "q": null,
+     "u": "",
+     "name": "Miel",
+     "pl": "Miel",
+     "note": "à parts égales avec le beurre",
+     "canon": "miel"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mettre les ingrédients secs dans le blender",
+   "text": "Verse dans le bol du blender {{semoule}} de semoule fine, {{farine}} de farine, {{levure-boulangere}} de levure boulangère sèche, {{levure-chimique}} de levure chimique, {{sel}} de sel et, si tu en mets, {{sucre}} de sucre.",
+   "timer": null,
+   "tip": "Pas de blender ? Mets tout dans un grand saladier et utilise un fouet électrique (My Moroccan Food)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mixer avec les deux tiers de l'eau",
+   "text": "Ajoute environ les deux tiers des {{eau}} d'eau tiède : juste un peu plus chaude que la pièce, pas chaude. Mixe 3 minutes, avec de courtes pauses, jusqu'à une pâte bien lisse, sans grumeaux.",
+   "timer": {
+    "min": 3,
+    "label": "Mixage",
+    "done": "La pâte est lisse ? Ajoute maintenant le reste de l'eau, petit à petit."
+   },
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajuster la consistance",
+   "text": "Verse le reste de l'eau petit à petit, en mixant quelques secondes à chaque fois. Arrête-toi quand la pâte a la consistance d'une crème liquide : un peu plus épaisse qu'une pâte à crêpes, bien plus fluide qu'une pâte à pancakes. Tu n'utiliseras peut-être pas toute l'eau.",
+   "timer": null,
+   "tip": "La consistance fait les trous : trop épaisse, la pâte ne fait pas de bulles (Taste of Maroc ; My Moroccan Food).",
+   "img": {
+    "src": "img/etapes/baghrir-pate.jpg",
+    "alt": "Pâte à baghrir lisse et fluide, dans son bol",
+    "caption": "Une pâte lisse et fluide",
+    "w": 750,
+    "h": 1000,
+    "credit": "Photo de l'étape « Ajuster la consistance » : Sabah HAANA, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisser reposer au chaud",
+   "text": "Verse la pâte dans un grand bol, couvre-la d'un torchon propre ou de film alimentaire et laisse-la reposer 15 minutes dans un endroit tiède. Elle est prête quand sa surface est couverte de petites bulles et qu'elle paraît légère et mousseuse.",
+   "timer": {
+    "min": 15,
+    "label": "Repos de la pâte",
+    "done": "La surface est couverte de petites bulles ? Chauffe la poêle."
+   },
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffer la poêle sans la graisser",
+   "text": "Chauffe une poêle antiadhésive en bon état à feu moyen, sans matière grasse. Attends qu'elle soit bien chaude avant la première louche : dans une poêle pas assez chaude, il se forme peu de trous.",
+   "timer": null,
+   "tip": "Garde si possible une poêle rien que pour les baghrir : dans une poêle rayée, ils collent (Lalla Moulati ; Taste of Maroc)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Verser une petite louche au centre",
+   "text": "Remue la pâte avec la louche, puis verse une petite louche de pâte au centre de la poêle. Ne fais pas tourner la poêle comme pour une crêpe : la pâte s'étale toute seule en un rond d'environ 12 cm.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire d'un seul côté",
+   "text": "Laisse cuire sans jamais retourner le baghrir : des bulles montent, crèvent et laissent de petits trous sur toute la surface. Il est cuit en 1 à 2 minutes, quand il ne reste plus aucune zone humide : touché du bout du doigt, il est spongieux et la pâte ne colle pas. Le dessous ne doit pas trop brunir : sinon, baisse un peu le feu.",
+   "timer": null,
+   "tip": "Si tu le retournes, tu perds les trous (My Moroccan Food)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Corriger s'il n'y a pas de trous",
+   "text": "Pas de trous sur le premier baghrir ? Si la pâte est trop épaisse, ajoute un peu d'eau tiède, cuillère par cuillère, mélange et attends quelques minutes. Si elle n'a pas assez reposé, laisse-la encore 5 à 10 minutes avant de recommencer.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Poser à plat sur un torchon",
+   "text": "Retire le baghrir avec une spatule et pose-le à plat sur un torchon propre. Ne les empile pas tant qu'ils sont chauds : ils colleraient entre eux. Laisse-les refroidir en une seule couche avant de les superposer.",
+   "timer": null,
+   "tip": "Pour les empiler encore chauds, glisse une feuille de papier absorbant entre chaque baghrir (My Moroccan Food)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Essuyer la poêle et continuer",
+   "text": "Essuie la poêle avec un torchon doux ou du papier absorbant, puis recommence jusqu'à la fin de la pâte, en la remuant avant chaque louche. Si le dessous colore trop vite, baisse le feu.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Service",
+   "title": "Préparer le sirop beurre-miel",
+   "text": "Dans une petite casserole, mets du beurre et du miel à parts égales. Fais fondre à feu doux en remuant, jusqu'à ce que le beurre soit complètement fondu et le sirop bien chaud, puis coupe le feu.",
+   "timer": null,
+   "tip": "Tu peux ajouter quelques gouttes d'eau de fleur d'oranger au sirop (My Moroccan Food)."
+  },
+  {
+   "phase": "Service",
+   "title": "Tremper et servir",
+   "text": "Trempe le côté troué de chaque baghrir quelques secondes dans le sirop chaud, puis pose-le dans le plat, trous vers le haut. Sers aussitôt, avec un thé à la menthe.",
+   "timer": null,
+   "tip": null,
+   "img": {
+    "src": "img/etapes/baghrir-miel.jpg",
+    "alt": "Baghrir imbibé de beurre et de miel, ses petits trous brillants de sirop",
+    "caption": "Les trous boivent le sirop",
+    "w": 750,
+    "h": 1000,
+    "credit": "Photo de l'étape « Tremper et servir » : Sabah HAANA, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Prends de la semoule fine de blé dur et de bonne qualité : c'est elle qui donne la couleur jaune et la texture. Au Maroc, un baghrir du commerce d'un jaune trop vif trahit parfois une pâte médiocre colorée au curcuma ou à un additif.",
+   "source": "Choumicha (semoule fine de blé dur, et « une semoule et une farine de bonne qualité ») ; Taste of Maroc"
+  },
+  {
+   "text": "Le bon mélange : environ trois quarts de semoule pour un quart de farine. Tu peux aussi faire tout à la semoule.",
+   "source": "Choumicha (450 g de semoule pour 150 g de farine) ; Cooking with Alia (300 g pour 100 g) ; Taste of Maroc (2 volumes pour 1, ou tout semoule) ; Choumicha et Lalla Moulati (versions tout semoule)"
+  },
+  {
+   "text": "Deux levures : la levure boulangère fait les bulles, la levure chimique accélère. Autrefois, la pâte devait reposer longtemps ; la levure chimique a raccourci l'attente, d'où les recettes dites « instantanées ».",
+   "source": "Taste of Maroc ; Bladi.net, Choumicha, Cooking with Alia, My Moroccan Food et Morocco World News mettent les deux levures"
+  },
+  {
+   "text": "Tout se joue sur la consistance : une crème liquide, un peu plus épaisse qu'une pâte à crêpes, bien plus fluide qu'une pâte à pancakes. Ni trop épaisse, ni trop liquide.",
+   "source": "Taste of Maroc ; Cooking with Alia ; Morocco World News 2019 (« precision is key »)"
+  },
+  {
+   "text": "Verse l'eau en deux fois : d'abord les deux tiers pour mixer, puis le reste petit à petit jusqu'à la bonne consistance.",
+   "source": "Cooking with Alia (500 ml puis le reste, sur 750 ml) ; Morocco World News 2019 (600 ml puis le reste, sur 800 ml)"
+  },
+  {
+   "text": "Respecte la dose de levure et le temps de repos. Si le premier baghrir n'a pas de trous, laisse reposer la pâte encore 5 à 10 minutes, ou allonge-la d'un peu d'eau tiède si elle est épaisse.",
+   "source": "Choumicha (astuce « Pour réussir les crêpes au mille trous ») ; My Moroccan Food ; Taste of Maroc"
+  },
+  {
+   "text": "Ne laisse pas la pâte trop fermenter : un repos trop long l'épaissit. Si les trous restent petits, raccourcis le repos la fois suivante et ajoute un peu d'eau.",
+   "source": "Taste of Maroc (réponse aux lecteurs) ; Lalla Moulati (« ne la laisse pas trop fermenter », « 10 minutes, ni plus ni moins »)"
+  },
+  {
+   "text": "Une poêle antiadhésive en bon état, réservée aux baghrir : la plupart des Marocains y tiennent, selon Taste of Maroc. Et dans une poêle rayée, les baghrir collent, prévient Lalla Moulati.",
+   "source": "Taste of Maroc ; Lalla Moulati"
+  },
+  {
+   "text": "Pas besoin de graisser la poêle : essuie-la seulement entre deux baghrir, avec un torchon doux ou un papier à peine huilé pour enlever les restes.",
+   "source": "Taste of Maroc ; Choumicha (« essuyer la poêle », « à l'aide d'un torchon doux »)"
+  },
+  {
+   "text": "Commence dans une poêle bien chaude, sinon il se forme peu de trous.",
+   "source": "My Moroccan Food ; Choumicha (poêle préchauffée)"
+  },
+  {
+   "text": "Feu moyen. Choumicha conseille même un feu moyen à fort, baissé vers la fin de la cuisson de chaque crêpe ; Taste of Maroc ajuste le feu pour que le dessous ne brunisse pas trop.",
+   "source": "Choumicha (recettes et astuce) ; Taste of Maroc ; Lalla Moulati (feu fort jusqu'aux trous, puis baissé)"
+  },
+  {
+   "text": "Ne retourne jamais un baghrir : il ne cuit que d'un côté, et tu perdrais les trous.",
+   "source": "My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Wikipédia"
+  },
+  {
+   "text": "Ne les empile pas chauds : laisse-les refroidir à plat, en une seule couche, sur un torchon propre.",
+   "source": "My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022"
+  },
+  {
+   "text": "Trempe le côté troué quelques secondes dans le sirop chaud : les trous boivent le sirop.",
+   "source": "Cooking with Alia ; Lalla Moulati ; My Moroccan Food"
+  }
+ ],
+ "mistakes": [
+  "Une pâte trop épaisse : les bulles ne crèvent pas et il n'y a pas de trous (My Moroccan Food ; Taste of Maroc).",
+  "Une poêle pas assez chaude au départ : peu de trous (My Moroccan Food).",
+  "Retourner le baghrir : il perd ses trous (My Moroccan Food).",
+  "Empiler les baghrir encore chauds : ils collent entre eux (My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022).",
+  "Garder un feu trop fort jusqu'au bout : le dessous brunit trop (Taste of Maroc ; Choumicha).",
+  "Utiliser une poêle rayée : les baghrir collent (Lalla Moulati).",
+  "Mesurer à l'œil : pèse et mesure tes ingrédients, la consistance de la pâte en dépend (Taste of Maroc ; Morocco World News 2019).",
+  "Donner du sirop beurre-miel à un bébé de moins d'un an : pas de miel avant 1 an, à cause du risque de botulisme infantile (NHS, service de santé britannique)."
+ ],
+ "serving": "Chauds ou tièdes, trempés côté trous dans le sirop chaud de beurre et de miel, puis posés trous vers le haut (Cooking with Alia ; Lalla Moulati ; Taste of Maroc), avec un thé à la menthe (Choumicha ; Lalla Moulati, qui cite aussi le café). Au petit-déjeuner ou au goûter (Yabiladi ; Lalla Moulati ; Taste of Maroc), et au ftour du ramadan (Morocco World News 2022 ; Wikipédia). Autres garnitures : confiture (Taste of Maroc ; Morocco World News 2022), amlou ou fromage frais à l'huile d'olive (Morocco World News 2019). Conservation, selon Taste of Maroc (seule source) : les baghrir nature se gardent 2 jours à température ambiante, emballés dans du film ; ceux trempés dans le sirop vont au réfrigérateur ; nature, ils se congèlent 2 à 3 mois, avec un carré de film entre chaque baghrir.",
+ "variants": [
+  "Tout semoule : 375 g de semoule fine de blé dur, 50 cl d'eau tiède, 1 c. à c. de sel, 1 c. à c. de levure boulangère et 1 sachet de levure chimique, mixés 3 minutes, repos de 15 minutes (Choumicha). Lalla Moulati en fait aussi au vinaigre blanc : 4 verres de semoule fine, 1 c. à s. de levure boulangère, 2 sachets de levure chimique, 1 c. à s. de vinaigre blanc, 4 à 5 verres d'eau tiède, repos de 10 minutes.",
+  "Au vinaigre, version de Choumicha : 450 g de semoule fine, 150 g de farine, 2 sachets de levure chimique de 7 g, 1 c. à c. de levure boulangère, 1 c. à c. de sel, 1 c. à s. de sucre et 75 cl d'eau mixés, puis 1 c. à s. de vinaigre ajoutée à la fin ; repos de 15 minutes (Choumicha).",
+  "À l'ancienne, avec un long repos : 200 g de farine, 200 g de semoule et ½ c. à c. de sel ; 1 c. à s. de levure boulangère et 1 c. à c. de levure chimique délayées dans un peu d'eau tiède ; ¾ l d'eau tiède en tout ; repos couvert de 1 h à 1 h 30 (Bladi.net). À la levure fraîche seule, on attend que la pâte double de volume (Lalla Moulati).",
+  "Au lait et au jaune d'œuf : 250 g de semoule, 250 ml de lait, 1 jaune d'œuf, 1 c. à s. de levure boulangère, ½ c. à c. de sel et de l'eau tiède, repos d'une heure (Yabiladi). Taste of Maroc signale aussi des versions aux œufs et au lait.",
+  "Khringo : dans certaines régions, on retourne brièvement le baghrir, et on l'appelle alors khringo (Taste of Maroc ; Wikipédia cite le nom kh'ringu au Maroc et en Algérie).",
+  "Sirop à la crème de Choumicha : 100 g de beurre, 200 g de miel et 3 c. à s. de crème fraîche fondus à feu doux, émulsionnés à la fourchette et servis chauds en saucière (Choumicha).",
+  "Sirop parfumé : quelques gouttes d'eau de fleur d'oranger dans le sirop beurre-miel (My Moroccan Food).",
+  "Sirop à la margarine : Lalla Moulati fait fondre du « beurre végétal » avec le miel (Lalla Moulati).",
+  "Garnitures : confiture (Taste of Maroc ; Morocco World News 2022), amlou, fromage frais et huile d'olive (Morocco World News 2019), chocolat (Morocco World News 2022)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay, cheffe marocaine), « Beghrir ou crêpes au mille trous », recette n° 35, choumicha.ma, non datée ; site hors ligne, copie web.archive.org du 11 décembre 2025",
+   "url": "https://web.archive.org/web/20251211050511/https://choumicha.ma/recette/35-beghrir-ou-crepes-aux-mille-trous.html",
+   "used_for": "Source marocaine : 375 g de semoule fine de blé dur, 50 cl d'eau tiède, 1 c. à c. de sel, 1 c. à c. de levure boulangère, 1 sachet de levure chimique ; mixage 3 min avec pauses ; repos 15 min jusqu'aux petites bulles ; poêle antiadhésive chaude, sans matière grasse dans la méthode, petite louche, feu moyen ; cuit quand la surface est couverte de trous ; poêle essuyée entre deux ; sirop 100 g de beurre, 200 g de miel, 3 c. à s. de crème fraîche à feu doux, gardé au chaud ; 12 personnes, cuisson 25 min"
+  },
+  {
+   "name": "Choumicha, « Beghrir ou crêpes au mille trous (deuxième façon) », recette n° 1067, choumicha.ma, non datée ; copie web.archive.org du 3 mai 2015",
+   "url": "https://web.archive.org/web/20150503214636/http://www.choumicha.ma:80/recette/1067-beghrir-ou-baghrir-crepes-au-mille-trous-deuxieme-facon.html",
+   "used_for": "Source marocaine : 450 g de semoule fine de blé dur et 150 g de farine de blé tendre (trois quarts / un quart), les deux levures, sucre, 75 cl d'eau, vinaigre ajouté après mixage ; pâte couverte, repos 15 min ; poêle chaude antiadhésive, feu moyen ; crêpe posée sur un torchon propre ; poêle essuyée au torchon doux ; service avec miel, beurre fondu et thé à la menthe"
+  },
+  {
+   "name": "Choumicha, astuce « Pour réussir les crêpes au mille trous », choumicha.ma, non datée ; copie web.archive.org du 28 août 2016",
+   "url": "https://web.archive.org/web/20160828232107/http://www.choumicha.ma/astuces/pour-reussir-les-crepes-au-mille-trous.html",
+   "used_for": "Semoule et farine de bonne qualité ; respecter dose de levure et repos ; sans trous à la première crêpe, 5 à 10 min de repos en plus ; poêle préchauffée, feu moyen à fort, baissé en fin de cuisson"
+  },
+  {
+   "name": "Bladi.net (« Les Marocains du monde »), « Baghrirs ou crêpes aux mille trous », rubrique Pâtisseries marocaines, sans auteur ni date",
+   "url": "https://www.bladi.net/recettes/baghrirs-ou-crepes-aux-mille-trous.html",
+   "used_for": "Source marocaine : 200 g de farine, 200 g de semoule, ½ c. à c. de sel, 1 c. à s. de levure boulangère, 1 c. à c. de levure chimique, ¾ l d'eau tiède (750 ml pour 400 g, comme Cooking with Alia) ; repos couvert 1 h à 1 h 30 ; poêle en fonte ou antiadhésive chauffée, 1 louche, aucune matière grasse dans la méthode ; crêpe cuite « lorsqu'elle se déroule » et réussie quand de petits trous couvrent sa surface"
+  },
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « طريقة تحضير البغرير المغربي », 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/4590.html",
+   "used_for": "Source marocaine : version à la levure fraîche seule, repos jusqu'au double de volume ; poêle antiadhésive réservée aux baghrir (une poêle rayée fait coller) ; ¼ de verre de pâte ; ne pas retourner, retirer avant que le dessous dore ; sirop beurre (végétal) et miel à parts égales, côté trous ; servi au petit-déjeuner ou au goûter avec thé ou café"
+  },
+  {
+   "name": "Lalla Moulati, « بغرير ساهل بطريقة ناجحة و مضمونة », 9 janvier 2015",
+   "url": "https://www.lalamoulati.net/10789.html",
+   "used_for": "Source marocaine : semoule fine, farine, sel, sucre ou vanille, levure boulangère et levure chimique ; mixage ; repos couvert juste le temps que la levure agisse, sans trop fermenter ; pâte versée sans être étalée ; feu fort jusqu'aux trous, puis baissé"
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير البغرير بطريقة ناجحة », 2 juillet 2017",
+   "url": "https://www.lalamoulati.net/74836.html",
+   "used_for": "Source marocaine : version tout semoule au vinaigre blanc (4 verres de semoule fine, 1 c. à s. de levure boulangère, 2 sachets de levure chimique, 1 c. à s. de vinaigre blanc, 4 à 5 verres d'eau tiède) ; repos de 10 min, « ni plus ni moins » ; poêle antiadhésive, feu doux"
+  },
+  {
+   "name": "Morocco World News (Rabat), Layla Dahamou, « How to Make Moroccan Baghrir », 17 août 2019",
+   "url": "https://www.moroccoworldnews.com/2019/08/77851/moroccan-baghrir/",
+   "used_for": "Source marocaine : 350 g de semoule fine, 150 g de farine, 1 c. à s. de levure boulangère, 16 g de levure chimique, 1 c. à c. de sel, 1 c. à c. de sucre facultatif, 800 ml d'eau tiède dont 600 ml d'abord ; mixage 3 à 5 min ; consistance d'une pâte à crêpes, « ni trop épaisse ni trop liquide » ; repos au chaud 10 à 15 min ou plus, jusqu'aux bulles ; petite louche ; pas besoin de retourner ; garnitures beurre, miel, amlou, fromage frais et huile d'olive"
+  },
+  {
+   "name": "Morocco World News, Mariya Sahnouni, « 3 Special Recipes for an Authentic Moroccan Breakfast », 18 février 2022",
+   "url": "https://www.moroccoworldnews.com/2022/02/49765/3-special-recipes-for-an-authentic-moroccan-breakfast/",
+   "used_for": "Source marocaine : 1 tasse de semoule fine, ½ tasse de farine, 2 c. à c. de levure chimique ajoutée après, levure sèche, ¼ c. à c. de sel et de sucre, 2 tasses d'eau tiède ; repos 30 min au chaud ; poêle antiadhésive à feu moyen, graissée d'un peu d'huile ; ¼ de tasse de pâte ; pas besoin de retourner ; ne pas les empiler, les poser séparément sur un torchon propre ; servi avec miel, confiture, beurre ou chocolat ; baghrir de l'iftar"
+  },
+  {
+   "name": "Yabiladi (portail marocain), « Recette : Baghrir ou crêpes marocaines », par Sousou Kitchen, 15 mars 2013",
+   "url": "https://www.yabiladi.com/articles/details/16079/recette-baghrir-crepes-marocaines.html",
+   "used_for": "Source marocaine : baghrir du goûter et du petit-déjeuner, servis tièdes avec miel et beurre fondu ; variante au lait et au jaune d'œuf, repos d'une heure, feu moyen, baghrir posés dans une serviette"
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Moroccan Pancakes - Baghrir », 28 avril 2015",
+   "url": "https://www.mymoroccanfood.com/home/2015/4/27/moroccan-pancakes-baghrir",
+   "used_for": "250 g de semoule fine, 40 g de farine, 2 c. à s. de sucre, 1 c. à c. bombée de levure sèche, ½ c. à c. de sel, 500 ml d'eau tiède (« plus chaude que la pièce, pas chaude »), 2 c. à c. de levure chimique ; repos 30 min ; poêle antiadhésive graissée, feu moyen-vif, très chaude sinon peu de trous ; environ 1 min ; jamais retourner ; ne pas empiler chaud, ou séparer par un papier ; environ 15 baghrir de 12 cm ; sirop miel-beurre à parts égales, fleur d'oranger facultative ; pâte trop épaisse ou pas assez levée : eau tiède et 15 min de plus"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (installée de longue date au Maroc), « Beghrir – Moroccan Semolina Pancakes », mise à jour du 12 novembre 2019 ; le site refuse les robots, copie web.archive.org du 17 mars 2026",
+   "url": "https://web.archive.org/web/20260317133054/https://tasteofmaroc.com/beghrir-moroccan-semolina-pancakes/",
+   "used_for": "Semoule fine essentielle, couleur jaune, alerte sur le curcuma ; deux tiers de semoule pour un tiers de farine en volume, ou tout semoule ; levure chimique qui raccourcit le repos ; mixage 1 min ; repos 10 à 15 min jusqu'aux petites bulles ; poêle antiadhésive à feu moyen, normalement sans huile ; pâte versée au centre sans tourner la poêle ; 1 à 2 min sans retourner, test du doigt ; refroidir en une couche avant d'empiler ; poêle réservée aux baghrir ; consistance d'une crème ; 16 baghrir de 12 cm ; conservation ; khringo"
+  },
+  {
+   "name": "Cooking with Alia (Alia Al Kasimi, cuisinière marocaine née à Rabat, d'après Femmes du Maroc), « 496 - Baghrir, Moroccan Crepes with 1000-Hole / البغرير », 23 mai 2017 ; copie web.archive.org du 29 juin 2021 (le site a été refait)",
+   "url": "https://web.archive.org/web/20210629130010/https://www.cookingwithalia.com/496-baghrir-moroccan-crepes-1000-hole-1000/",
+   "used_for": "Recette de base : 300 g de semoule fine, 100 g de farine, 1 c. à c. de sel, 6 g (2 c. à c.) de levure sèche, 8 g (1½ c. à c.) de levure chimique, 750 ml d'eau tiède dont 500 ml d'abord ; consistance d'une pâte à crêpes ; repos 20 min couvert, au chaud ; poêle antiadhésive à feu moyen, pâte au centre qui s'étale seule ; cuit quand la surface est sèche, sans retourner ; en une couche sur un torchon, sans empiler ; sirop beurre-miel à feu moyen-doux, côté trous trempé quelques secondes, servi trous vers le haut ; 20 baghrir moyens ; difficulté moyenne"
+  },
+  {
+   "name": "Wikipédia (en), « Baghrir »",
+   "url": "https://en.wikipedia.org/wiki/Baghrir",
+   "used_for": "Nom arabe البغرير ; crêpe d'Algérie, du Maroc et de Tunisie ; trempée dans le mélange miel-beurre ; petit-déjeuner, goûter et iftar ; nom kh'ringu au Maroc et en Algérie"
+  },
+  {
+   "name": "Wikipédia (fr), « Baghrir »",
+   "url": "https://fr.wikipedia.org/wiki/Baghrir",
+   "used_for": "Les baghrir ne cuisent que sur une seule face ; petites cavités sur le dessus"
+  },
+  {
+   "name": "NHS (service de santé publique britannique), « Foods to avoid giving babies and young children », page revue le 18 février 2026",
+   "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+   "used_for": "Pas de miel avant l'âge d'un an (risque de botulisme infantile)"
+  },
+  {
+   "name": "Femmes du Maroc (magazine marocain), « Alia Al Kasimi Itinéraire d'une toquée », 24 décembre 2015",
+   "url": "https://femmesdumaroc.com/archives/alia-al-kasimi-itineraire-dune-toquee",
+   "used_for": "Contre-vérification : L'autrice de Cooking with Alia est Alia Al Kasimi, Marocaine née à Rabat en 1981 ; sa première vidéo, en 2008, filmait sa grand-mère marocaine en train de faire des baghrir, qui lui manquaient. Sa chaîne propose des recettes marocaines simples, faisables partout avec des ingrédients locaux."
+  },
+  {
+   "name": "Organisation mondiale de la santé (OMS), aide-mémoire « Botulism », 25 septembre 2023",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+   "used_for": "Contre-vérification : Deuxième source officielle pour la mise en garde sur le miel : le miel contaminé par des spores de Clostridium botulinum a été associé à des cas de botulisme infantile, et les parents sont avertis de ne pas donner de miel aux nourrissons avant l'âge de 1 an. La même page précise que les spores résistent à la chaleur : faire chauffer le miel dans le sirop ne lève donc pas la mise en garde (lu le 7 novembre 2026)."
+  }
+ ],
+ "discrepancies": [
+  "Semoule et farine (part de semoule dans le sec, calcul) : 100 % (Choumicha n° 35, Lalla Moulati), 86 % (My Moroccan Food), 75 % (Choumicha n° 1067, Cooking with Alia), 70 % (Morocco World News 2019), 50 % (Bladi.net) ; Taste of Maroc met 2 volumes de semoule pour 1 de farine. Médiane : 75 %. Retenu : 300 g de semoule et 100 g de farine.",
+  "Eau, ramenée à 400 g de sec (calcul) : 500 ml (Choumicha n° 1067), 533 ml (Choumicha n° 35), 640 ml (Morocco World News 2019), 690 ml (My Moroccan Food), 750 ml (Cooking with Alia, Bladi.net) ; Taste of Maroc, en tasses, environ 860 à 880 ml (conversion approximative). Médiane : 665 ml (690 ml avec Taste of Maroc). Retenu : 750 ml, la valeur la plus fréquente, mais versée en deux fois jusqu'à la bonne consistance, comme chez Cooking with Alia et Morocco World News 2019 : tu en mettras peut-être un peu moins.",
+  "Levure boulangère sèche, pour 400 g de sec (calcul) : 0,67 c. à c. (Choumicha n° 1067), environ 1,1 (Choumicha n° 35), environ 1,4 c. à c. bombée (My Moroccan Food), environ 1,8 (Morocco World News 2022, « une petite cuillère »), 2 (Cooking with Alia), 2,4 (Morocco World News 2019), 3 (Bladi.net), environ 3,5 (Taste of Maroc). Médiane : 1,7 à 1,9. Retenu : 2 c. à c.",
+  "Levure chimique, pour 400 g de sec (calcul) : 1 c. à c. (Bladi.net), 8 g soit 1½ c. à c. (Cooking with Alia), environ 9,3 g (Choumicha n° 1067), environ 2,4 c. à c. (Taste of Maroc), environ 2,8 c. à c. (My Moroccan Food), environ 12,8 g (Morocco World News 2019), environ 3,6 c. à c. (Morocco World News 2022) ; Choumicha n° 35 met « 1 sachet » sans en donner le poids. Retenu : 2 c. à c., près de la médiane.",
+  "Sel, pour 400 g de sec (calcul) : 0,5 c. à c. (Bladi.net), 0,67 (Choumicha n° 1067), 0,69 (My Moroccan Food), 0,8 (Morocco World News 2019), 1 (Cooking with Alia), 1,07 (Choumicha n° 35), environ 1,2 (Taste of Maroc). Médiane : 0,8 (0,74 si l'on ajoute Morocco World News 2022, environ 0,44). Retenu : ¾ c. à c.",
+  "Sucre : aucun chez Choumicha n° 35, Cooking with Alia, Bladi.net, Yabiladi et deux recettes de Lalla Moulati ; de 0,45 à 2 c. à c. pour 400 g chez Morocco World News, Taste of Maroc et Choumicha n° 1067 (calcul) ; 1 c. à c. de « sucre ou vanille » chez Lalla Moulati n° 10789 ; environ 8 c. à c. chez My Moroccan Food. Retenu : 1 c. à c., facultative.",
+  "Repos : 10 min (Lalla Moulati), 10 à 15 min (Taste of Maroc ; Morocco World News 2019, « ou plus »), 15 min (Choumicha, deux recettes), 20 min (Cooking with Alia), 30 min (My Moroccan Food ; Morocco World News 2022), 1 h (Yabiladi, sans levure chimique), 1 h à 1 h 30 (Bladi.net). Retenu : 15 minutes, avec le signe des petites bulles.",
+  "Mixage : 1 min (Taste of Maroc), 3 min avec pauses (Choumicha), 3 à 5 min (Morocco World News 2019). Retenu : 3 minutes.",
+  "Poêle graissée ou non : Taste of Maroc écrit qu'il ne faut normalement pas l'huiler ; Choumicha, Bladi.net, Cooking with Alia, Morocco World News 2019 et Lalla Moulati ne mettent aucune matière grasse dans leur méthode ; My Moroccan Food graisse la poêle et Morocco World News 2022 y met un peu d'huile. Retenu : poêle antiadhésive sans matière grasse, essuyée entre deux baghrir (Choumicha ; Taste of Maroc).",
+  "Feu : moyen (Choumicha, recettes ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022), moyen-vif (My Moroccan Food), moyen à fort puis baissé en fin de cuisson (Choumicha, astuce ; Lalla Moulati), doux (Morocco World News 2019 ; Lalla Moulati n° 74836). Retenu : feu moyen, baissé si le dessous colore trop.",
+  "Étalement : la pâte s'étale seule, sans tourner la poêle (Taste of Maroc ; Cooking with Alia ; Lalla Moulati) ; Choumicha n° 1067 l'étale en inclinant la poêle, et Morocco World News 2019 couvre tout le fond. Retenu : la pâte s'étale seule.",
+  "Quantité de pâte par baghrir : ½ tasse (Cooking with Alia), ¼ de tasse (Morocco World News 2022 ; Lalla Moulati), petite louche (Choumicha n° 35 ; Morocco World News 2019). Retenu : une petite louche, pour un rond d'environ 12 cm (My Moroccan Food ; Taste of Maroc).",
+  "Cuisson de chaque baghrir : environ 1 min (My Moroccan Food), 1 à 2 min (Taste of Maroc), 3 min (Cooking with Alia, fiche). Retenu : 1 à 2 minutes, en se fiant surtout aux signes (plus de zone humide, test du doigt).",
+  "Sirop : miel et beurre à parts égales (My Moroccan Food ; Lalla Moulati, 2 c. à s. de chaque) ; deux fois plus de miel que de beurre, avec de la crème fraîche (Choumicha) ; « au goût » (Cooking with Alia). Retenu : parts égales.",
+  "Nombre de baghrir : 20 baghrir moyens (Cooking with Alia, mêmes quantités de sec et d'eau) ; ramenés à 400 g de sec et 750 ml d'eau, environ 22 de 12 cm d'après My Moroccan Food et environ 17 d'après Taste of Maroc (calculs). Retenu : 20 baghrir d'environ 12 cm.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Conservation : une seule source (Taste of Maroc). Un autre site (Arabic Post), vu seulement dans un résumé de moteur de recherche et non lu, déconseillerait le congélateur : non vérifié.",
+  "Réchauffage : aucune des sources lues n'en parle.",
+  "Durées : 10 min de préparation estimées (Taste of Maroc en compte 5) ; 25 min de cuisson d'après Choumicha (25 min) et Taste of Maroc (20 min pour 16 baghrir), non chronométrées avec cette pâte.",
+  "Nombre de 20 baghrir : calculé à partir des rendements de trois sources, pas testé avec ces quantités exactes.",
+  "Quantités de beurre et de miel du sirop : aucune source ne les donne pour 20 baghrir, sauf Choumicha (100 g de beurre et 200 g de miel, avec crème, pour 12 personnes) ; seul le rapport à parts égales est retenu.",
+  "Choumicha n° 35 : poids du « sachet » de levure chimique non indiqué ; les recettes de Choumicha ne sont pas datées.",
+  "Yabiladi : la quantité d'eau imprimée (« 400cl d'eau tiède », soit 4 litres) est manifestement une coquille ; non utilisée.",
+  "Lalla Moulati n° 4590 : « ملعقتان من الزبدة النباتية 2 ملاعق من العسل لكل فطيرة » se lit « par crêpe », ce qui paraît beaucoup ; seul le rapport à parts égales est utilisé.",
+  "Conversions de tasses, verres et cuillères en grammes : approximatives, utilisées seulement pour comparer les recettes, jamais dans la recette retenue.",
+  "Choumicha n° 1067 et Lalla Moulati n° 74836 : le type de vinaigre (de vin, d'alcool, de cidre) n'est pas précisé ; variante non retenue.",
+  "Le360, Hespress et Chhiwat : non consultés, faute d'outil de recherche web (la recherche de Le360 ne s'affiche qu'avec un navigateur ; Hespress refuse l'accès automatique). Femmes du Maroc : sa recherche interne ne donne aucune recette de baghrir.",
+  "Cooking with Alia : le nom complet de l'autrice n'est pas sur la page de la recette ; Femmes du Maroc (24 décembre 2015) l'identifie comme Alia Al Kasimi, Marocaine née à Rabat, dont la première vidéo (2008) montrait les baghrir de sa grand-mère."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "rayons": [
+  "Pains",
+  "Douceurs"
+ ],
+ "pairs": [
+  "the-menthe"
+ ],
+ "img_alt": "Baghrir posé sur un torchon, sa face criblée de petits trous",
+ "img": "img/baghrir.jpg",
+ "photo": {
+  "author": "Sabah HAANA",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Baghrir_1.jpg",
+  "modified": "recadrée et réduite"
+ }
+});
+
+/* Recette : Bissara, soupe de fèves sèches. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "bissara",
+ "title": "Bissara, soupe de fèves sèches",
+ "darija": "Bissara (bayssar dans le Nord)",
+ "arabic": "بيصارة",
+ "tagline": "La purée-soupe de fèves du Nord : toute simple dans la marmite, irrésistible dans le bol avec l'huile d'olive, le cumin et le piment.",
+ "category": "Soupe",
+ "occasion": "Plat d'hiver, au petit-déjeuner, au déjeuner ou au dîner ; plat de rue très populaire, servi dès le matin ; parfois au ftour du Ramadan",
+ "region": "Tout le Maroc, mais spécialité du Nord : Tanger, Tétouan, Chefchaouen et le pays Jbala, où on l'appelle aussi « bayssar »",
+ "servings": 6,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 75,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grande marmite à fond épais",
+  "Cuillère ou petite écumoire, pour retirer la mousse",
+  "Mixeur plongeant (ou moulin à légumes, ou passoire fine)",
+  "Cuillère en bois",
+  "Louche",
+  "Bols ou assiettes creuses"
+ ],
+ "ingredients": [
+  {
+   "group": "Bissara",
+   "items": [
+    {
+     "id": "feves",
+     "q": 350,
+     "u": "g",
+     "name": "de fèves sèches cassées et décortiquées",
+     "note": "sans la peau. Favisme : lis l'encadré plus haut.",
+     "canon": "feves-seches"
+    },
+    {
+     "id": "ail",
+     "q": 4,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à éplucher, sans couper",
+     "canon": "ail"
+    },
+    {
+     "id": "eau",
+     "q": 1.75,
+     "u": "l",
+     "name": "d'eau froide",
+     "canon": "eau"
+    },
+    {
+     "id": "huile",
+     "q": 6,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "cumin",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à rectifier à la fin",
+     "canon": "sel"
+    },
+    {
+     "id": "eau-chaude",
+     "q": null,
+     "u": "",
+     "name": "eau chaude",
+     "note": "pendant la cuisson et pour la texture, si besoin",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "huile-service",
+     "q": null,
+     "u": "",
+     "name": "huile d'olive vierge extra",
+     "note": "un bon filet par bol",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "cumin-service",
+     "q": null,
+     "u": "",
+     "name": "cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "paprika-service",
+     "q": null,
+     "u": "",
+     "name": "paprika",
+     "canon": "paprika"
+    },
+    {
+     "id": "piment",
+     "q": null,
+     "u": "",
+     "name": "piment fort en poudre",
+     "note": "facultatif, sur la table",
+     "canon": "piment-cayenne"
+    },
+    {
+     "id": "citron",
+     "q": null,
+     "u": "",
+     "name": "citron",
+     "note": "en quartiers, facultatif",
+     "canon": "citron"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "khobz (pain marocain)",
+     "note": "pour saucer",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Trie et lave les fèves",
+   "text": "Étale {{feves}} de fèves cassées sur un plateau. Retire les petits cailloux et les bouts de peau brune. Lave-les à l'eau, puis égoutte-les.",
+   "timer": null,
+   "tip": "Pas besoin de trempage avec des fèves cassées et décortiquées. Si tu les fais tremper une nuit, comme Taste of Maroc, les derniers bouts de peau se retirent plus facilement."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Épluche l'ail",
+   "text": "Épluche {{ail:full}}. Garde l'ail entier, sans le couper.",
+   "timer": null,
+   "tip": "Choumicha met l'ail en chemise, puis passe la purée à la passoire fine ; Nargisse Benkabbou (My Moroccan Food) le cuit aussi en chemise, puis l'épluche avant de l'écraser. Comme ici tu mixes, épluche-le avant."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mets les fèves à cuire",
+   "text": "Mets les fèves, l'ail et {{eau}} d'eau froide dans une grande marmite à fond épais. Porte à ébullition sur feu moyen.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Écume la mousse",
+   "text": "Dès que ça bout, baisse le feu. Avec une cuillère, retire la mousse blanche qui monte à la surface, jusqu'à ce qu'il n'en reste presque plus.",
+   "timer": null,
+   "tip": "Choumicha écume pendant 10 à 15 minutes."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse mijoter une heure",
+   "text": "Couvre la marmite à moitié pour que ça ne déborde pas. Laisse cuire à feu doux pendant 1 heure, jusqu'à ce que les fèves soient fondantes. Remue de temps en temps en raclant le fond. Si le niveau baisse trop, ajoute un peu d'{{eau-chaude}}.",
+   "timer": {
+    "min": 60,
+    "label": "Cuisson des fèves",
+    "done": "Écrase une fève avec le dos d'une cuillère : elle doit s'écraser toute seule."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie la cuisson",
+   "text": "Écrase une fève contre la paroi avec le dos d'une cuillère : elle doit s'écraser sans résistance. Si elle est encore ferme, ajoute un peu d'eau chaude et laisse cuire encore, en surveillant, jusqu'à ce qu'elle soit fondante.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mixe en purée lisse",
+   "text": "Retire la marmite du feu. Mixe les fèves et l'ail avec leur eau de cuisson au mixeur plongeant, jusqu'à obtenir une purée lisse et crémeuse.",
+   "timer": null,
+   "tip": "Sans mixeur, passe-les au moulin à légumes ou dans une passoire fine, comme on le faisait autrefois."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Assaisonne et ajoute l'huile",
+   "text": "Remets la marmite sur feu doux. Ajoute {{cumin}} de cumin, {{paprika}} de paprika, {{sel}} de sel et {{huile}} d'huile d'olive. Laisse frémir 5 minutes en remuant avec une cuillère en bois, jusqu'à ce que l'huile soit bien mêlée à la purée.",
+   "timer": {
+    "min": 5,
+    "label": "Assaisonnement",
+    "done": "La purée doit être homogène et crémeuse. Règle maintenant la texture."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Règle la texture",
+   "text": "Pour une soupe, ajoute de l'eau chaude petit à petit en remuant. Pour une purée à saucer avec le pain, garde-la plus épaisse. Goûte et rectifie le sel, sans trop en mettre : les condiments donneront du goût à table.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers bien chaud",
+   "text": "Verse la bissara bien chaude dans des bols ou des assiettes creuses. Arrose chaque bol d'un bon filet d'{{huile-service}}, puis saupoudre de {{cumin-service}} et de {{paprika-service}}.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Pose les condiments sur la table",
+   "text": "Mets sur la table du {{piment}}, de l'huile d'olive, du cumin et des quartiers de {{citron}} : chacun relève son bol à son goût. Sers avec du {{khobz}} ou du pain d'orge.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Prends des fèves sèches cassées et décortiquées, c'est-à-dire sans leur peau.",
+   "source": "Choumicha (« fèves sèches cassées (sans la peau) ») ; Bladi.net ; Taste of Maroc ; Hespress (2011)"
+  },
+  {
+   "text": "Avec des fèves cassées, le trempage n'est pas obligatoire : beaucoup de recettes marocaines les cuisent directement après les avoir lavées. Si tu les fais tremper une nuit, les derniers bouts de peau brune se retirent facilement.",
+   "source": "Sans trempage : Choumicha, Lalla Moulati, Chhiwat, Morocco World News, Cooking with Alia (n° 858). Avec trempage : Taste of Maroc (qui parle des bouts de peau), My Moroccan Food, Cooking with Alia (n° 132)"
+  },
+  {
+   "text": "Au début de la cuisson, retire la mousse blanche qui monte à la surface.",
+   "source": "Choumicha ; Cooking with Alia ; Hespress (2011)"
+  },
+  {
+   "text": "Couvre la marmite à moitié, ou laisse une petite ouverture : complètement couverte, elle déborde.",
+   "source": "Choumicha ; Cooking with Alia (n° 132) ; Taste of Maroc cuit aussi à demi couvert"
+  },
+  {
+   "text": "Les fèves doivent être fondantes avant de mixer : une fève doit s'écraser toute seule. Sinon, ajoute de l'eau chaude et prolonge la cuisson.",
+   "source": "Choumicha (« jusqu'à ce que les fèves deviennent fondantes ») ; Morocco World News"
+  },
+  {
+   "text": "Mets les épices et l'huile d'olive après avoir mixé, sur feu doux, et remue jusqu'à ce que la purée soit lisse et crémeuse.",
+   "source": "Choumicha ; Hespress (2011) ; Cooking with Alia"
+  },
+  {
+   "text": "Dans la marmite, la bissara reste simple. Son goût vient surtout de ce qu'on ajoute dans le bol : une bonne huile d'olive, du cumin, du paprika et du piment.",
+   "source": "Taste of Maroc ; Choumicha ; Lalla Moulati (2020)"
+  },
+  {
+   "text": "Choisis une bonne huile d'olive et, si tu peux, du cumin fraîchement moulu.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "C'est l'eau qui décide : plus liquide, la bissara se mange au bol, à la cuillère, comme dans la rue ; plus épaisse, elle se sauce avec le pain.",
+   "source": "Taste of Maroc ; Cooking with Alia (n° 132) ; Bladi.net (« il faut que ça reste liquide »)"
+  },
+  {
+   "text": "Autrefois, on laissait les fèves cuire des heures, puis on les passait au tamis ou au moulin. Le mixeur va plus vite et donne une purée plus lisse.",
+   "source": "Taste of Maroc ; Choumicha passe toujours sa purée à la passoire fine"
+  },
+  {
+   "text": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati y ajoute du piment vert et du piment frit.",
+   "source": "Hespress (2014, restaurant de Tanger) ; Lalla Moulati (2014) ; My Moroccan Food (oignon haché)"
+  },
+  {
+   "text": "Pour réchauffer, mets la bissara à feu moyen-doux et remue souvent : elle brûle facilement. Laisse-la bien bouillonner avant de servir.",
+   "source": "Taste of Maroc (feu moyen-doux, remuer souvent) ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)"
+  },
+  {
+   "text": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées pour qu'ils refroidissent vite, et mange-les dans les 3 jours.",
+   "source": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours, petits récipients)"
+  }
+ ],
+ "mistakes": [
+  "Prendre des fèves fraîches ou surgelées : la bissara se fait avec des fèves sèches (Taste of Maroc ; Hespress).",
+  "Couvrir complètement la marmite : l'eau déborde (Choumicha ; Cooking with Alia).",
+  "Laisser cuire sans remuer ni surveiller l'eau : la purée attache au fond (Morocco World News ; Hespress ; Cooking with Alia).",
+  "Mixer avant que les fèves soient fondantes (Choumicha ; Morocco World News).",
+  "Trop saler dans la marmite : les condiments ajoutent du goût à table (Taste of Maroc).",
+  "Réchauffer à feu vif sans remuer : la bissara brûle (Taste of Maroc).",
+  "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA)."
+ ],
+ "serving": "Bien chaude, en bol pour la soupe ou en assiette creuse pour la purée à saucer. Arrose d'huile d'olive et saupoudre de cumin et de paprika ; laisse sur la table du piment fort, du cumin, de l'huile d'olive et du citron ; sers avec du khobz ou du pain d'orge (Choumicha ; Taste of Maroc ; Hespress ; Sky News Arabia ; Bladi.net). Dans le Nord, on l'accompagne d'olives et d'oignon, parfois de poisson frit (Hespress 2011 et 2014 ; Taste of Maroc). Elle se mange au petit-déjeuner, au déjeuner ou au dîner (Hespress ; My Moroccan Food ; Taste of Maroc), surtout quand il fait froid (Hespress ; Le360 ; My Moroccan Food).",
+ "variants": [
+  "Bissara aux pois cassés, ou « bissara d'jelbana » (Hespress, 2011). Choumicha fait tremper les pois cassés une heure, puis les cuit avec oignon, ail, persil, coriandre, gingembre, curcuma et poivre. Taste of Maroc ne les fait pas tremper et ajoute de l'oignon.",
+  "Un mélange de fèves et de pois cassés : My Moroccan Food ; Cooking with Alia (n° 858 : moitié-moitié, avec du piment en poudre dans la purée).",
+  "Avec des légumes : tomate, potiron rouge et carotte ; dans le Nord et le Rif, navet et chou à la place. Un restaurateur de Larache n'en met pas, pour plaire à tout le monde (Hespress, 2011).",
+  "Huile d'argan au lieu de l'huile d'olive, dans le Souss et l'Atlas (Hespress, 2011 ; Sky News Arabia, 2021).",
+  "Ail pilé avec le sel au mortier, ajouté aux fèves cuites juste avant de mixer (Lalla Moulati, 2014).",
+  "Huile à l'ail pour servir : chauffe doucement de l'huile d'olive avec de l'ail râpé et une pincée de sel, sans le brûler, puis verse-la sur la bissara (Morocco World News).",
+  "Fèves grillées à sec quelques minutes dans une poêle chaude avant la cuisson, et une tomate mixée avec la purée (Lalla Moulati, 2018).",
+  "Crème de fèves servie avec une salade de tomates, poivron grillé, oignon et olives vertes, assaisonnée de citron et de cumin (Choumicha)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha Chafay, « Bissara, purée de fèves » (choumicha.ma, recette n° 957), copie archivée du 3 octobre 2019",
+   "url": "https://web.archive.org/web/20191003123634/https://www.choumicha.ma/recette/957-bissara.html",
+   "used_for": "Source marocaine de référence : 400 g de fèves, 2 l d'eau, 6 gousses d'ail, 10 cl d'huile d'olive, 1 c. à thé de cumin, de paprika et de sel pour 8 ; pas de trempage ; feu moyen puis écume 10 à 15 min ; couvercle à moitié pour éviter le débordement ; feu doux jusqu'à ce que les fèves soient fondantes ; passoire fine ; épices et huile ajoutées sur feu doux jusqu'à une purée homogène ; service avec huile d'olive, paprika et cumin ; ail non épluché (réponse du site en commentaire, 22 avril 2016) ; noms « Baysar » et « Bayssar » ; 1 h 15 de cuisson."
+  },
+  {
+   "name": "Choumicha, « Bissara \"purée de fèves sèches\" » (choumicha.ma, recette n° 343), copie archivée du 4 décembre 2012",
+   "url": "https://web.archive.org/web/20121204165038/http://www.choumicha.ma:80/recettes/details/343/bissara-puree-de-feves-seches.html",
+   "used_for": "350 g de fèves sèches cassées sans peau pour 6, 1,75 l d'eau, 3 gousses d'ail, 1 c. à thé de sel, 10 cl d'huile ; écume pendant 15 min environ ; cuisson à feu doux jusqu'à fondantes ; tamis très fin ; huile, sel et cumin ajoutés après, puis 5 à 10 min de frémissement en remuant à la cuillère en bois ; service avec cumin, piment rouge et huile ; 20 min de préparation."
+  },
+  {
+   "name": "Choumicha, « Crème de fèves sèches aux légumes frais » (choumicha.ma, recette n° 995), copie archivée du 9 février 2025",
+   "url": "https://web.archive.org/web/20250209181144/https://www.choumicha.ma/recette/995-creme-de-feves-seches-aux-legumes-frais.html",
+   "used_for": "Fèves lavées et égouttées, sans trempage ; écume pendant les 15 premières minutes ; fèves écrasées puis passées au moulin à légumes ou à la passoire fine ; huile, sel et cumin incorporés sur feu doux jusqu'à une texture crémeuse ; variante servie avec une salade de légumes frais."
+  },
+  {
+   "name": "Choumicha, « Purée de pois cassés » (choumicha.ma, recette n° 1498, mots clés Bissara et Jelbana), copie archivée du 15 décembre 2025",
+   "url": "https://web.archive.org/web/20251215134834/https://choumicha.ma/recette/1498-puree-de-pois-casses.html",
+   "used_for": "Variante aux pois cassés : trempage d'une heure, oignon, ail, bouquet de persil et coriandre, gingembre, curcuma, poivre, huile d'olive."
+  },
+  {
+   "name": "Lalla Moulati, « بالخطوات المصورة تحضير البيصارة المغربية بالفول » (11 décembre 2014)",
+   "url": "https://www.lalamoulati.net/8843.html",
+   "used_for": "Site marocain. 500 g de fèves sèches triées et lavées, sans trempage ; ail pilé avec le sel ajouté aux fèves cuites ; mixage ; service dans un plat avec huile d'olive et cumin ; accompagnements : oignon, piment vert, olives, piment frit."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة بسيطة وجد سهلة لتحضير البيصارة المغربية في وقت وجيز » (8 janvier 2020)",
+   "url": "https://www.lalamoulati.net/219329.html",
+   "used_for": "500 g de fèves, 6 gousses d'ail, cumin, sel, paprika ; cuisson à feu doux ; huile d'olive ajoutée après mixage ; servie chaude avec huile d'olive, piment fort et cumin."
+  },
+  {
+   "name": "Lalla Moulati, « عشاق البيصارة عندي ليكم واحد السر... » (28 décembre 2018)",
+   "url": "https://www.lalamoulati.net/177286.html",
+   "used_for": "Variante : fèves grillées à sec avant la cuisson et tomate mixée avec la purée ; plat d'hiver très demandé."
+  },
+  {
+   "name": "Chhiwat.net, « بيصارة ساهلة و لذيذة », recette de Lamia (5 décembre 2013)",
+   "url": "https://www.chhiwat.net/%D8%B4%D9%87%D9%8A%D9%88%D8%A7%D8%AA/%d8%a8%d9%8a%d8%b5%d8%a7%d8%b1%d8%a9-%d8%b3%d8%a7%d9%87%d9%84%d8%a9-%d9%88-%d9%84%d8%b0%d9%8a%d8%b0%d8%a9/",
+   "used_for": "Site marocain de recettes. 500 g de fèves, 6 gousses d'ail, 1,5 l d'eau, cumin, paprika, sel pour 5 ; tout cuit puis mixé ; garni de piment en poudre et d'huile d'olive ; 60 min."
+  },
+  {
+   "name": "Hespress, Yassine El Amari (Larache), « البيصارة.. سلاح المغاربة في ليالي الشتاء الباردة », 13 janvier 2011 (article repris d'Asharq Al-Awsat)",
+   "url": "https://www.hespress.com/42028-42028.html",
+   "used_for": "Média marocain. Fèves sèches concassées et décortiquées ; plat d'hiver servi chaud au déjeuner, au dîner ou au petit-déjeuner, avec du pain d'orge ou de blé ; 1 kg pour 8 personnes ; écume ; poivre, cumin et huile ajoutés après le mixage ; huile d'olive et cumin au service, citron facultatif ; argan dans le Souss et l'Atlas ; légumes (navet et chou dans le Nord et le Rif) ; bissara de pois cassés (« jelbana ») ; poisson frit à Larache."
+  },
+  {
+   "name": "Hespress, Yassine El Achiri (agence Anadolu), « أكلة البيصَارَة.. وجبة أساسيّة لـ\"جبَالَة\" عند مقدَم الشتاء », 20 novembre 2014",
+   "url": "https://www.hespress.com/195978-195978.html",
+   "used_for": "Plat très consommé dans le Nord-Ouest ; les Jbala ont été les premiers connus pour la bissara ; à Tanger, servie chaude avec quelques olives et des morceaux d'oignon au déjeuner, seule au petit-déjeuner ; fèves décortiquées ou pois cassés."
+  },
+  {
+   "name": "Le360, Said Kadry, « Vidéo. Tanger: la Bissara, cette soupe hivernale qui éveille l'appétit des Marocains (et même des non-Marocains) », 10 novembre 2020",
+   "url": "https://fr.le360.ma/societe/video-tanger-la-bissara-cette-soupe-hivernale-qui-eveille-lappetit-des-marocains-et-meme-des-non-226979/",
+   "used_for": "Média marocain. Spécialité très populaire dans le Nord (Tanger, Tétouan, Chefchaouen) et partout au Maroc ; appelée « bayssar » dans le Nord ; purée de fèves ou de pois secs plus ou moins épaisse, avec cumin, paprika et huile d'olive ; plat de l'approche de l'hiver."
+  },
+  {
+   "name": "Bladi.net, recette « Bissara »",
+   "url": "https://www.bladi.net/recettes/bissara.html",
+   "used_for": "Site marocain. 250 g de fèves décortiquées et concassées, ail pelé, cuisson à l'autocuiseur 30 à 45 min ; purée qui doit rester liquide ; service avec huile d'olive, jus de citron, paprika et cumin."
+  },
+  {
+   "name": "Bladi.net, Sébastien A., « La bissara marocaine, la soupe tendance de 2025 », 23 janvier 2025",
+   "url": "https://www.bladi.net/bissara-marocaine-soupe-tendance-2025,112733.html",
+   "used_for": "Ingrédients de base (fèves décortiquées ou pois cassés, huile d'olive, cumin, paprika, ail, parfois citron) ; servie au petit matin dans les souks et pendant le Ramadan (citation du journal Le Progrès)."
+  },
+  {
+   "name": "Morocco World News, Safaa Kasraoui, « Bessara Soup, Morocco's Winter Warmer », 11 octobre 2022",
+   "url": "https://www.moroccoworldnews.com/2022/10/40700/bessara-soup-moroccos-winter-warmer/",
+   "used_for": "Média marocain. 500 g de fèves, sans trempage ; cuisson d'une heure à feu doux en remuant de temps en temps ; eau chaude si les fèves restent fermes ; test de la fève qui s'écrase ; texture réglée à l'eau chaude ; huile à l'ail pour servir ; cumin et paprika."
+  },
+  {
+   "name": "Sky News Arabia, Asmaa Hassan (Marrakech), « المغاربة يواجهون البرد بـ\"البيصارة\" », 8 février 2021",
+   "url": "https://www.skynewsarabia.com/varieties/1413673-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%AF-%D8%A8%D9%80%D8%A7%D9%84%D8%A8%D9%8A%D8%B5%D8%A7%D8%B1%D8%A9",
+   "used_for": "Reportage à Marrakech : plat d'hiver dans tout le Maroc ; servie chaude avec du pain de blé ou d'orge, de l'huile d'olive, du piment fort et du cumin ; recette d'une Casablancaise (cuisson, mixage, puis cuisson en remuant) ; argan selon les régions ; légumes chez certains."
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Moroccan Dried Fava Bean Dip or Soup – Bessara (Bissara) », mise à jour du 13 janvier 2021 (copie archivée du 21 décembre 2025)",
+   "url": "https://web.archive.org/web/20251221192418/https://tasteofmaroc.com/bessara-fava-bean-dip-or-soup/",
+   "used_for": "Populaire surtout dans le Nord, seule ou avec du poisson ; plat de rue (photo à Chefchaouen) ; pour 6 : 12 oz (340 g) de fèves cassées, 6,5 tasses (1,54 l) d'eau, 1/3 de tasse (79 ml) d'huile, 6 à 7 gousses d'ail, 2 c. à c. de cumin et de paprika, 1,5 c. à c. de sel ; trempage de 8 h ; environ 1 h à demi couvert ; autrefois cuite des heures puis passée au tamis ou au moulin ; soupe ou purée selon l'eau ; goût doux relevé par les condiments (huile, cumin, cayenne ou harissa) ; bonne huile et cumin frais ; réchauffage doux en remuant ; 15 min de préparation et 1 h 15 de cuisson."
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Bissara – Split Peas and Fava Beans Dip », 18 février 2016",
+   "url": "https://www.mymoroccanfood.com/home/bissara-split-peas-and-fava-beans-dip",
+   "used_for": "Autrice marocaine. 400 g de fèves ou pois cassés trempés une nuit pour 4, 1 l d'eau, 4 gousses d'ail non épluchées puis écrasées, bicarbonate, épices et huile à mi-cuisson, 2 fois 20 min ; mixeur ou tamis ; servie chaude avec huile d'olive, paprika, cumin et oignon haché ; plat d'hiver mangé à toute heure, même au petit-déjeuner ; mélange fèves et pois."
+  },
+  {
+   "name": "Cooking with Alia, « 132 – Bessara Recipe – Moroccan Fava Bean Dip »",
+   "url": "https://www.cookingwithalia.com/bessara-moroccan-fava-bean-dip/",
+   "used_for": "Cuisinière marocaine. 14 oz (397 g) de fèves cassées trempées une nuit, 7 tasses d'eau froide, 3 gousses d'ail ; environ 50 min ; mousse retirée ; couvercle laissé entrouvert pour éviter le débordement ; mixage avec l'ail, puis huile et épices ; texture réglée à l'eau chaude ; service avec huile d'olive, cumin, paprika, citron pour certains."
+  },
+  {
+   "name": "Cooking with Alia, « Moroccan Fava Beans Soup (Bissara) / شوربة الفول المغربية (البصارة) » (n° 858)",
+   "url": "https://www.cookingwithalia.com/858-moroccan-fava-beans-soup-bissara/",
+   "used_for": "Sans trempage : 125 g de pois et 125 g de fèves, 1 l d'eau, 3 gousses d'ail ; écume à l'ébullition ; 45 min ; surveiller l'eau ; mixage ; cumin, piment et huile ajoutés après, puis 5 min sur feu moyen ; servie chaude avec pain et huile d'olive."
+  },
+  {
+   "name": "MWN Lifestyle, Majda Bouzaroita, « 3 Alternatives to Harira for Ftour », 14 mars 2025",
+   "url": "https://mwnlifestyle.com/2025/03/14/3-alternatives-to-harira-for-ftour/",
+   "used_for": "Bissara proposée au ftour du Ramadan à la place de la harira, servie avec du khobz (source faible : recette générique, non reprise)."
+  },
+  {
+   "name": "ANSES, « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Source officielle (France) : plats maison pas plus de 2 h à température ambiante, consommés dans les 3 jours ; grandes quantités réparties en petites portions pour refroidir vite ; restes en boîte fermée ; réchauffer couvert jusqu'à ce que la vapeur s'échappe."
+  },
+  {
+   "name": "USDA, Food Safety and Inspection Service, « Leftovers and Food Safety » (copie archivée du 3 novembre 2026)",
+   "url": "https://web.archive.org/web/20261103202835/https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+   "used_for": "Source officielle (États-Unis) : restes au réfrigérateur dans les 2 h ; 3 à 4 jours au réfrigérateur ; grande marmite de soupe répartie dans de petits récipients pour refroidir vite ; soupes réchauffées jusqu'à pleine ébullition (restes à 165 °F, soit 74 °C)."
+  },
+  {
+   "name": "MedlinePlus (Bibliothèque nationale de médecine des États-Unis, NIH), encyclopédie médicale, « Glucose-6-phosphate dehydrogenase deficiency », révisée le 29 janvier 2026",
+   "url": "https://medlineplus.gov/ency/article/000528.htm",
+   "used_for": "Contre-vérification : Site officiel du gouvernement des États-Unis. La destruction des globules rouges peut être déclenchée par des infections, certains aliments (comme les fèves) et certains médicaments ; les personnes qui ont un déficit en G6PD doivent éviter strictement ce qui déclenche une crise ; dans de rares cas, une crise grave peut entraîner une insuffisance rénale ou la mort (page lue le 7 novembre 2026)."
+  },
+  {
+   "name": "MedlinePlus Genetics (Bibliothèque nationale de médecine des États-Unis), « Glucose-6-phosphate dehydrogenase deficiency », mise à jour du 12 avril 2023",
+   "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+   "used_for": "Contre-vérification : Chez les personnes qui ont un déficit en G6PD, une anémie hémolytique peut survenir après avoir mangé des fèves ou respiré le pollen de la plante ; cette réaction s'appelle le favisme (page lue le 7 novembre 2026)."
+  },
+  {
+   "name": "OMS, groupe de travail, « Glucose-6-phosphate dehydrogenase deficiency », Bulletin de l'Organisation mondiale de la santé, 1989, 67(6), p. 601-611 (résumé sur PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2491315/",
+   "used_for": "Contre-vérification : Le déficit en G6PD peut provoquer des crises hémolytiques qui mettent la vie en danger, chez l'enfant et plus tard, par interaction avec certains médicaments et avec les fèves de l'alimentation ; ses complications peuvent en grande partie être évitées par l'éducation et l'information."
+  },
+  {
+   "name": "Orphanet (INSERM), fiche ORPHA:362 « Déficit en glucose-6-phosphate déshydrogénase », copie archivée du 22 mai 2025",
+   "url": "https://web.archive.org/web/20250522024536/https://www.orpha.net/fr/disease/detail/362",
+   "used_for": "Contre-vérification : « Favisme » et « Déficit en G6PD » figurent comme synonymes de la fiche, maladie classée non rare en Europe (la page ne parle pas des fèves ; la page en direct est protégée par une vérification anti-robots, non contournée)."
+  }
+ ],
+ "discrepancies": [
+  "Trempage. Sans trempage : Choumicha (3 recettes), Lalla Moulati, Chhiwat, Morocco World News, Bladi.net (autocuiseur), Cooking with Alia n° 858 ; Hespress et Sky News Arabia décrivent une cuisson courte sans en parler. Une nuit de trempage : Taste of Maroc, My Moroccan Food, Cooking with Alia n° 132. Retenu : sans trempage, comme la majorité ; le trempage reste proposé en astuce.",
+  "Fèves par personne : 50 g (Choumicha n° 957), 57 g (Taste of Maroc), 58 g (Choumicha n° 343), 62,5 g (Choumicha n° 995), 100 g (My Moroccan Food, Chhiwat), 125 g (Hespress : 1 kg pour 8). Médiane : 62,5 g. Retenu : 350 g pour 6, soit 58 g, la quantité de Choumicha n° 343, presque celle de Taste of Maroc (340 g pour 6).",
+  "Eau : de 200 à 600 ml pour 100 g de fèves ; médiane 417 ml (450 ml pour les recettes sans trempage). Retenu : 1,75 l pour 350 g (500 ml pour 100 g), le rapport des deux bissaras de Choumicha, dont la recette suit la méthode et la dose de fèves (n° 343 : 1,75 l pour 350 g ; n° 957 : 2 l pour 400 g), puis eau chaude pour régler la texture. Morocco World News (« 6 large cups ») n'est pas compté : taille de tasse inconnue.",
+  "Ail : de 0,6 à 2,4 gousses pour 100 g ; médiane 1 gousse, soit 3,5 pour 350 g, arrondi à 4. Choumicha le met en chemise (elle passe la purée au tamis), My Moroccan Food le cuit en chemise puis l'épluche ; Bladi.net l'épluche et Cooking with Alia le mixe avec les fèves. Retenu : épluché, puisque la recette se mixe.",
+  "Huile d'olive dans la purée : de 4 à 80 ml pour 100 g ; médiane 25 ml, soit 87,5 ml pour 350 g, arrondi à 6 c. à s. (90 ml). Choumicha n° 343 : 100 ml pour 350 g ; Taste of Maroc : 79 ml pour 340 g.",
+  "Épices et sel (médiane des quantités pour 100 g, recalculée pour 350 g) : cumin 0,4 c. à c., soit 1,4, arrondi à 1,5 c. à c. ; paprika 0,25, soit 0,88, arrondi à 1 c. à c. ; sel 0,25, soit 0,88, arrondi à 1 c. à c. (Choumicha n° 343 met 1 c. à thé pour 350 g). Morocco World News met 2 c. à s. de cumin pour 500 g, la valeur la plus haute.",
+  "Moment des épices et de l'huile : après le mixage chez Choumicha, Hespress et Cooking with Alia, qui sont aussi les sources qui écument ; dès le début chez Taste of Maroc, Morocco World News, Lalla Moulati (2020), Chhiwat et Sky News Arabia ; à mi-cuisson chez My Moroccan Food. Pour les épices, la majorité les met avant de mixer ; retenu quand même la méthode de Choumicha, suivie aussi par Hespress (2011) et Cooking with Alia (n° 858) ; chez Choumicha (n° 995), la purée absorbe toute l'huile sur feu doux et prend une consistance crémeuse.",
+  "Durée de cuisson : 30 min (Hespress, Sky News Arabia) à 2 h (Choumicha n° 343) ; environ 1 h chez Taste of Maroc et Morocco World News ; 1 h 15 de cuisson au total chez Choumicha n° 957 et Taste of Maroc. Retenu : 1 h à feu doux après l'écume, puis vérifier que les fèves s'écrasent. My Moroccan Food cuit 40 min avec 2 c. à c. de bicarbonate : non retenu, seule source à en mettre.",
+  "Mixeur ou tamis : Choumicha passe la purée à la passoire fine ou au tamis ; Taste of Maroc, My Moroccan Food, Cooking with Alia, Lalla Moulati et Chhiwat mixent. Retenu : mixeur plongeant, avec le tamis ou le moulin en option.",
+  "Garniture : paprika (Choumicha, My Moroccan Food, Cooking with Alia, Le360, Bladi.net, Morocco World News) ou piment fort (Taste of Maroc : cayenne ou harissa ; Lalla Moulati 2020 ; Sky News Arabia ; Chhiwat met de la « soudania », un piment en poudre dont la force n'a pas été confirmée). Choumicha n° 343 écrit « piment rouge » dans la liste et « paprika » dans la préparation. Retenu : paprika saupoudré, piment fort sur la table.",
+  "Citron : jus de citron sur chaque assiette chez Bladi.net (1 citron dans la liste) ; facultatif chez Taste of Maroc (dans la purée), Cooking with Alia et Hespress ; absent chez Choumicha. Retenu : en quartiers, sur la table.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Une source officielle française ou marocaine sur le favisme : la page du NHS sur le déficit en G6PD n'existe plus (erreur 404, aucune entrée G6PD dans son index de A à Z), la recherche du site de la Haute Autorité de santé a été refusée (erreur 403), celle du site du ministère de la Santé marocain renvoie une erreur, et la page d'Orphanet en direct est protégée par une vérification anti-robots. La mise en garde ajoutée à l'ingrédient « fèves » s'appuie sur MedlinePlus (Bibliothèque nationale de médecine des États-Unis) et sur un groupe de travail de l'OMS (1989).",
+  "« Soudania » (Chhiwat, Lalla Moulati 2014) : c'est une poudre de piment, mais je n'ai pas pu confirmer si elle est forte ou douce. La recette dit « piment fort en poudre », d'après Taste of Maroc, Lalla Moulati (2020) et Sky News Arabia.",
+  "Durée de l'écume (10 à 15 min) : seulement chez Choumicha ; laissée en astuce, sans minuteur.",
+  "Fèves « beldi » (du pays) conseillées : seulement Hespress (2011).",
+  "Astuce de Cooking with Alia (n° 132) pour des fèves entières : 5 à 10 min dans l'eau bouillante pour retirer la peau, puis une nuit de trempage. Une seule source.",
+  "Affirmations de santé des articles (Hespress, Sky News Arabia, Morocco World News, Bladi.net) : écartées, faute de source officielle.",
+  "Origine égyptienne très ancienne de la bissara (Allodocteurs) : vue seulement dans un extrait de moteur de recherche, page non lue, écartée.",
+  "Bissara au ftour du Ramadan : seulement Bladi.net (qui cite le journal Le Progrès) et MWN Lifestyle, deux sources faibles ; gardé avec « parfois » dans l'occasion.",
+  "Femmes du Maroc : aucune recette de bissara trouvée sur le site (recherche interne)."
+ ],
+ "cuisine": "Marocaine",
+ "notes": [
+  {
+   "title": "Fèves et favisme (déficit en G6PD)",
+   "text": "En cas de déficit en G6PD, les fèves peuvent provoquer une destruction des globules rouges (anémie hémolytique, appelée favisme), parfois grave : ne sers pas cette recette aux personnes concernées (MedlinePlus, Bibliothèque nationale de médecine des États-Unis ; OMS)."
+  }
+ ],
+ "rayon": "Soupes",
+ "pairs": [
+  "khobz"
+ ],
+ "img_alt": "Bols de bissara arrosés d'huile d'olive et de cumin, avec olives et khobz",
+ "img": "img/bissara.jpg",
+ "photo": {
+  "author": "Ruby Josephine Smith",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bissara_Moroccan_split_pea_and_fava_bean_soup.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Cake marocain au lait, une meskouta du goûter. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "cake-marocain",
+ "title": "Cake marocain au lait, une meskouta du goûter",
+ "darija": "meskouta ; on dit aussi lkik ou kika",
+ "arabic": "الكيك (المسكوتة)",
+ "tagline": "Le cake simple de la maison : des œufs bien fouettés, de l'huile, du lait et un zeste de citron, à couper en tranches pour le thé de l'après-midi.",
+ "category": "Gâteau",
+ "occasion": "Goûter avec le thé, petit-déjeuner, ftour du ramadan",
+ "region": "Maroc ; selon Wikipédia (en arabe), la meskouta « économique » y est très consommée",
+ "servings": 1,
+ "servings_label": "cakes",
+ "time": {
+  "prep": 15,
+  "cook": 45,
+  "rest": 10
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un four",
+  "Un moule à cake de 28 cm (ou un moule couronne, type kouglof)",
+  "Un batteur électrique ou un fouet",
+  "Un grand saladier et un bol",
+  "Un tamis",
+  "Une spatule",
+  "Une râpe fine et un presse-agrumes",
+  "Une pique en bois",
+  "Une grille"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "oeufs",
+     "q": 4,
+     "u": "",
+     "name": "gros œuf",
+     "pl": "gros œufs",
+     "canon": "oeuf"
+    },
+    {
+     "id": "sucre",
+     "q": 240,
+     "u": "g",
+     "name": "de sucre semoule",
+     "canon": "sucre"
+    },
+    {
+     "id": "sucre-vanille",
+     "q": 1,
+     "u": "",
+     "name": "sachet de sucre vanillé",
+     "pl": "sachets de sucre vanillé",
+     "note": "sans alcool : il remplace l'extrait de vanille",
+     "canon": "sucre-vanille"
+    },
+    {
+     "id": "sel",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "huile",
+     "q": 150,
+     "u": "ml",
+     "name": "d'huile neutre (tournesol ou huile de table)",
+     "canon": "huile"
+    },
+    {
+     "id": "lait",
+     "q": 150,
+     "u": "ml",
+     "name": "de lait",
+     "canon": "lait"
+    },
+    {
+     "id": "farine",
+     "q": 375,
+     "u": "g",
+     "name": "de farine",
+     "canon": "farine"
+    },
+    {
+     "id": "levure-chimique",
+     "q": 21,
+     "u": "g",
+     "name": "de levure chimique",
+     "note": "3 sachets de 7 g par cake, soit 21 g (le poids affiché est arrondi à 5 g près)",
+     "canon": "levure-chimique"
+    },
+    {
+     "id": "citron",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "pour le zeste râpé et le jus",
+     "canon": "citron"
+    }
+   ]
+  },
+  {
+   "group": "Pour le moule",
+   "items": [
+    {
+     "id": "beurre-moule",
+     "q": null,
+     "u": "",
+     "name": "Un peu de beurre",
+     "pl": "Un peu de beurre",
+     "canon": "beurre"
+    },
+    {
+     "id": "farine-moule",
+     "q": null,
+     "u": "",
+     "name": "Un peu de farine",
+     "pl": "Un peu de farine",
+     "canon": "farine"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Préchauffer le four",
+   "text": "Préchauffe le four à 180 °C.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Beurrer et fariner le moule",
+   "text": "Beurre le moule à cake, puis farine-le.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Préparer le citron",
+   "text": "Lave {{citron:full}}, râpe finement le zeste, puis presse le jus. Râpe toujours le zeste avant de presser le fruit.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Tamiser la farine et la levure",
+   "text": "Mélange {{farine}} de farine et {{levure-chimique}} de levure chimique, puis tamise-les ensemble.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fouetter les œufs et le sucre",
+   "text": "Dans un grand saladier, fouette {{oeufs:full}} avec {{sucre}} de sucre, {{sucre-vanille:full}} et {{sel}} de sel, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "timer": null,
+   "tip": "Prends ton temps : Choumicha fouette jusqu'à ce que le mélange double de volume, Taste of Maroc jusqu'à ce qu'il soit pâle et épais."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajouter l'huile et le lait en filet",
+   "text": "Sans cesser de fouetter, verse {{huile}} d'huile en filet, puis {{lait}} de lait. Le mélange doit rester léger et mousseux.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Incorporer la farine",
+   "text": "Ajoute le mélange farine-levure petit à petit, en remuant délicatement à la spatule, juste assez pour qu'il ne reste plus de farine visible.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajouter le citron",
+   "text": "Ajoute le zeste et le jus de citron, et mélange juste pour les répartir.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Verser dans le moule",
+   "text": "Verse la pâte dans le moule beurré et fariné.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire 45 minutes",
+   "text": "Enfourne et laisse cuire environ 45 minutes à 180 °C. N'ouvre pas le four pendant la première demi-heure.",
+   "timer": {
+    "min": 45,
+    "label": "Cuisson du cake",
+    "done": "Plante une pique au centre : si elle ressort sèche, le cake est cuit."
+   },
+   "tip": "Dans un moule couronne, Taste of Maroc compte environ 40 minutes pour sa meskouta : adapte le temps à ton moule et fais le test de la pique."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifier la cuisson",
+   "text": "Le cake est cuit quand ses bords se décollent du moule et qu'une pique plantée au centre ressort sèche. Sinon, laisse-le encore quelques minutes.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Service",
+   "title": "Tiédir puis démouler",
+   "text": "Sors le cake et laisse-le tiédir environ 10 minutes dans le moule. Démoule-le délicatement, puis laisse-le refroidir sur une grille.",
+   "timer": null,
+   "tip": null
+  },
+  {
+   "phase": "Service",
+   "title": "Décorer et servir",
+   "text": "Sers-le en tranches, avec un thé à la menthe. Tu peux le saupoudrer de sucre glace, ou le napper de confiture et le parsemer de noix de coco râpée ou d'amandes effilées.",
+   "timer": null,
+   "tip": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Fouette longuement les œufs et le sucre, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "source": "Choumicha (deux recettes de cake économique) ; Taste of Maroc (« pale and thick »)"
+  },
+  {
+   "text": "Verse l'huile en filet sans cesser de fouetter : le mélange doit rester léger et aéré.",
+   "source": "Choumicha ; Taste of Maroc"
+  },
+  {
+   "text": "Tamise la farine avec la levure, puis incorpore-la petit à petit et délicatement, à la spatule.",
+   "source": "Choumicha ; Cooking with Alia ; Taste of Maroc (« stir lightly »)"
+  },
+  {
+   "text": "Autant d'huile que de liquide, comme ici (15 cl de chaque chez Choumicha) : c'est aussi la proportion de Taste of Maroc, de Morocco World News et de deux cakes de Lalla Moulati. D'autres recettes mettent moins d'huile que de liquide (Cooking with Alia ; Lalla Moulati) ou plus (Choumicha, cake aux pépites).",
+   "source": "Choumicha ; Taste of Maroc ; Morocco World News ; Lalla Moulati"
+  },
+  {
+   "text": "Lave et râpe le zeste avant de presser l'agrume.",
+   "source": "Taste of Maroc ; Choumicha (zeste râpé, puis jus)"
+  },
+  {
+   "text": "Pas d'extrait de vanille alcoolisé : un sachet de sucre vanillé fait le même travail, et c'est la mesure traditionnelle.",
+   "source": "Taste of Maroc (1 sachet de sucre vanillé dans les mesures traditionnelles) ; Morocco World News (8 g de sucre vanillé) ; Choumicha (1 sachet dans le cake aux pépites)"
+  },
+  {
+   "text": "Beurre et farine le moule, et enfourne dans un four bien préchauffé à 180 °C.",
+   "source": "Choumicha ; Taste of Maroc ; Morocco World News ; Cooking with Alia (180 °C)"
+  },
+  {
+   "text": "N'ouvre pas le four avant une demi-heure de cuisson.",
+   "source": "Morocco World News (Layla Dahamou)"
+  },
+  {
+   "text": "Laisse tiédir avant de démouler, puis finis de refroidir sur une grille.",
+   "source": "Choumicha ; Taste of Maroc (7 à 10 minutes) ; Morocco World News"
+  },
+  {
+   "text": "Le moule le plus courant pour la meskouta est le moule couronne (type kouglof) ; certaines cuisinières préfèrent le moule à cake : adapte alors le temps de cuisson à ton moule.",
+   "source": "Taste of Maroc ; Morocco World News (moule à cheminée ou moule rond) ; Choumicha (moule à cake de 28 cm)"
+  },
+  {
+   "text": "À la marocaine, on mesure avec un verre à thé et un bol, ou avec le pot de yaourt.",
+   "source": "Taste of Maroc ; Morocco World News ; Cooking with Alia"
+  },
+  {
+   "text": "Pour un cake encore plus léger, certaines cuisinières montent les blancs en neige à part ; Taste of Maroc juge que ce n'est pas nécessaire.",
+   "source": "Taste of Maroc ; Cooking with Alia (blancs en neige)"
+  },
+  {
+   "text": "Ne force pas sur la levure chimique : Taste of Maroc a réduit sa dose après avoir lu, sur d'autres sites, des craintes d'un goût amer ou d'un centre qui monte trop vite puis retombe ; elle-même n'a jamais eu ce problème.",
+   "source": "Taste of Maroc"
+  }
+ ],
+ "mistakes": [
+  "Arrêter de fouetter avant que le mélange œufs-sucre ait blanchi et doublé de volume (Choumicha ; Taste of Maroc).",
+  "Verser l'huile d'un coup au lieu d'un filet (Choumicha ; Taste of Maroc).",
+  "Travailler fort la pâte une fois la farine ajoutée : mélange délicatement (Choumicha ; Taste of Maroc).",
+  "Enfourner dans un four qui n'est pas préchauffé (Choumicha ; Taste of Maroc ; Cooking with Alia).",
+  "Oublier de beurrer et de fariner le moule (Choumicha ; Taste of Maroc ; Morocco World News).",
+  "Ouvrir le four pendant la première demi-heure (Morocco World News).",
+  "Démouler le cake encore brûlant : laisse-le tiédir (Choumicha ; Taste of Maroc ; Morocco World News).",
+  "Prendre de l'extrait de vanille alcoolisé : le sucre vanillé le remplace (Taste of Maroc ; Morocco World News)."
+ ],
+ "serving": "En tranches, avec un thé à la menthe (Morocco World News ; Wikipédia en anglais, qui cite aussi le café), au goûter ou au petit-déjeuner (Taste of Maroc ; Wikipédia en anglais), et aussi au ftour du ramadan (Taste of Maroc). Il est très bon nature. Pour le décorer : sucre glace (Taste of Maroc ; Choumicha), ou confiture et noix de coco râpée ou amandes effilées (Morocco World News ; Taste of Maroc), ou un peu de miel et de noix de coco (Lalla Moulati). Choumicha compte ce cake pour 10 personnes. Bien couvert, il se garde quelques jours à température ambiante et plusieurs mois au congélateur (Taste of Maroc, seule source).",
+ "variants": [
+  "Meskouta au yaourt (Morocco World News, Layla Dahamou) : 4 œufs ; 1 pot de yaourt à la vanille ou à la banane (110 g), qui sert de mesure ; 1½ pot de sucre ; 1 pot d'huile ; 3 pots de farine ; 16 g de levure chimique (2 sachets) ; 1 sachet de sucre vanillé (8 g). Moule couronne ou moule rond beurré et fariné ; 45 minutes au plus, à four moyen (sans température chiffrée), sans ouvrir avant 30 minutes.",
+  "Meskouta au yaourt et aux blancs en neige (Cooking with Alia) : 3 œufs séparés ; 1 pot de yaourt aromatisé (114 g) ; 1½ pot de sucre ; ½ pot d'huile ; 2½ pots de farine ; 1 c. à c. de levure chimique ; vanille (prends du sucre vanillé) ; 1 pincée de sel ; gingembre moulu facultatif. Moule de 20 cm beurré et chemisé de papier cuisson ; 180 °C, environ 50 minutes.",
+  "Meskouta à l'orange (Taste of Maroc) : ½ tasse de jus d'orange frais et 2 c. à c. de zeste ; 4 gros œufs ; 1½ tasse de sucre ; ½ tasse d'huile ; 2 tasses de farine ; 3 c. à c. de levure chimique ; ½ c. à c. de sel ; vanille (1 sachet de sucre vanillé dans la version traditionnelle). Moule couronne beurré et fariné ; 180 °C, environ 40 minutes.",
+  "Mesures traditionnelles de la meskouta à l'orange (Taste of Maroc) : 1 verre à thé de jus d'orange frais, le zeste de 1 ou 2 oranges, 4 gros œufs, 1 bol ras de sucre, 1 verre à thé d'huile, 1 bol bombé de farine, 2 sachets de levure chimique de 7 g, 1 pincée de sel, 1 sachet de sucre vanillé. Taste of Maroc donne pour le verre à thé « about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup) », soit 177 à 237 ml ou 79 à 118 ml (calcul) : ces deux valeurs ne concordent pas, et seule la seconde colle avec sa recette en tasses (½ tasse de jus et ½ tasse d'huile là où les mesures traditionnelles mettent 1 verre à thé). Le bol contient environ 1½ tasse (355 ml, calcul).",
+  "Au verre, marbré (Lalla Moulati) : 3 œufs, 1 verre de sucre, 1 verre d'huile, 1 verre de lait, un peu moins de 3 verres de farine, 3 sachets de levure chimique, vanille et quelques gouttes de vinaigre ; une partie de la pâte est mélangée à 1 cuillère de cacao et versée au milieu ; moule beurré et fariné ; nappé de miel et de noix de coco à la sortie du four.",
+  "Aux pépites de chocolat (Choumicha) : 4 œufs, 180 g de sucre, 1 sachet de sucre vanillé, ½ c. à c. de sel, 18 cl d'huile, 12 cl de lait, 350 g de farine, 14 g de levure chimique et 80 g de pépites de chocolat ; moule à cake beurré et fariné ; 180 °C, 35 à 40 minutes ; sucre glace.",
+  "Cake à l'orange au beurre (Choumicha) : 160 g de beurre, 200 g de sucre, ½ c. à c. de sel, 4 œufs, le zeste et le jus de 3 oranges, 2 c. à s. d'eau de fleur d'oranger, 240 g de farine et 1 sachet de levure chimique de 7 g, versés sur des rondelles d'orange confites au sucre et à la fleur d'oranger ; 180 °C, 40 minutes. Choumicha conseille d'ajouter ½ c. à c. de cannelle.",
+  "Petit cake « 7 cuillères » (Lalla Moulati) : 3 œufs, 7 cuillères de sucre, 7 d'huile, 7 de lait et 7 de farine, un peu de sel, 1 sachet de vanille et 16 g de levure chimique.",
+  "Avec seulement 2 œufs (Lalla Moulati) : 2 œufs, 1 verre de lait tiède, ½ verre d'huile, 2 verres de farine, 1 verre de sucre, 16 g de levure chimique et du sucre vanillé."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay, cheffe marocaine), « Cake économique », recette n° 1037, choumicha.ma, non datée, rubrique « Cuisine du monde, Desserts, Cakes » ; site hors ligne, copie web.archive.org du 8 août 2025",
+   "url": "https://web.archive.org/web/20250808135842/https://choumicha.ma/recette/1037-cake-economique.html",
+   "used_for": "Recette retenue : 4 gros œufs, 240 g de sucre, ¼ c. à c. de sel, 15 cl de lait, 15 cl d'huile, 375 g de farine, 3 sachets de levure chimique de 7 g, zeste et jus d'un citron ; œufs, sucre et sel fouettés jusqu'à blanchir et doubler ; lait et huile en filet ; farine tamisée avec la levure, ajoutée peu à peu et délicatement à la spatule ; moule à cake de 28 cm beurré et fariné ; four préchauffé à 180 °C, environ 45 min ; tiédir, démouler, refroidir sur une grille ; 10 personnes"
+  },
+  {
+   "name": "Choumicha, « Cake économique aux pépites de chocolat », recette n° 1455, non datée ; copie web.archive.org du 14 octobre 2025",
+   "url": "https://web.archive.org/web/20251014062924/https://www.choumicha.ma/recette/1455-cake-economique-aux-pepites-de-chocolat.html",
+   "used_for": "Même base (4 œufs, huile et lait, 350 g de farine, 14 g de levure) avec 1 sachet de sucre vanillé ; huile en filet, mélange « léger et aéré » ; moule à cake beurré et fariné ; 180 °C, 35 à 40 min ; sucre glace"
+  },
+  {
+   "name": "Choumicha, « Cake à l'orange », recette n° 1179, non datée ; copie web.archive.org du 12 décembre 2025",
+   "url": "https://web.archive.org/web/20251212000419/https://www.choumicha.ma/recette/1179-cake-a-lorange.html",
+   "used_for": "Variante au beurre, zeste et jus d'orange ; moule beurré et fariné ; 180 °C, 40 min ; cannelle facultative"
+  },
+  {
+   "name": "Morocco World News (Rabat), Layla Dahamou, « Something for the Sweet Tooth: Moroccan Meskouta », 10 août 2019",
+   "url": "https://www.moroccoworldnews.com/2019/08/78007/moroccan-cuisine-meskouta-cake/",
+   "used_for": "Source marocaine : meskouta, cake de base des foyers marocains, présenté au yaourt, que des familles remplacent par du lait ou du jus d'orange ; mesures au pot de yaourt ; 4 œufs ; huile et yaourt à volumes égaux ; 16 g de levure chimique ; 8 g de sucre vanillé ou ½ c. à c. d'extrait ; moule à cheminée ou rond, beurré et fariné ; environ 45 min, four fermé pendant 30 min ; refroidir avant de démouler ; confiture, amandes effilées ou noix de coco ; servi avec le thé"
+  },
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « كيكة كتجي منفوخة وهائلة….خفيفة وكتذوب فالفم », rubrique كيك و طورطات, 16 juin 2019",
+   "url": "https://www.lalamoulati.net/199027.html",
+   "used_for": "Source marocaine : cake au verre, 3 œufs, 1 verre de sucre, 1 d'huile, 1 de lait, près de 3 de farine, 3 sachets de levure, vanille ; marbré au cacao ; moule beurré et fariné ; miel et noix de coco"
+  },
+  {
+   "name": "Lalla Moulati, « كيكة مانقدرش نقول عليها اكثر من انها رائعة جدا مذاقها فوق الوصف!!!!! », 10 septembre 2019",
+   "url": "https://www.lalamoulati.net/205581.html",
+   "used_for": "Source marocaine : cake « 7 cuillères » (sucre, huile, lait et farine à volumes égaux), 3 œufs, sel, vanille, 16 g de levure chimique"
+  },
+  {
+   "name": "Lalla Moulati, « كيكتي العجيبة لي جربت وليت مدمنة عليها بطريقة بسيطة واقتصادية وبمذاق يا سلام », 19 décembre 2023",
+   "url": "https://www.lalamoulati.net/379090.html",
+   "used_for": "Source marocaine : cake économique à 2 œufs, lait, huile, farine, 16 g de levure chimique, sucre vanillé (liste d'ingrédients seulement)"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (installée de longue date au Maroc), « Moroccan Orange Cake Recipe – Meskouta with Oranges », mise à jour du 10 août 2021 ; le site refuse les robots, copie web.archive.org du 24 février 2026",
+   "url": "https://web.archive.org/web/20260224152950/https://tasteofmaroc.com/moroccan-orange-cake-recipe/",
+   "used_for": "Meskouta : cake marocain populaire, parfumé à l'orange, au citron ou à la vanille ; moule couronne le plus souvent, moule à cake aussi ; 180 °C, environ 40 min ; moule beurré et fariné ; œufs et sucre fouettés jusqu'à pâlir et épaissir, huile ajoutée peu à peu, farine juste mélangée ; test de la pique et bords qui se décollent ; tiédir 7 à 10 min ; mesures traditionnelles (verre à thé, bol, sachets de 7 g, sucre vanillé) ; dose de levure réduite ; conservation ; blancs en neige facultatifs"
+  },
+  {
+   "name": "Cooking with Alia, « 184 – Meskouta – Moroccan Yogurt Cake Recipe », non datée (recette reprise de l'ancien site)",
+   "url": "https://www.cookingwithalia.com/meskouta-moroccan-yogurt-cake/",
+   "used_for": "Meskouta au yaourt mesurée au pot, blancs en neige ; farine tamisée et ajoutée peu à peu ; four à 180 °C, environ 50 min ; test du doigt"
+  },
+  {
+   "name": "Wikipédia (en), « Meskouta »",
+   "url": "https://en.wikipedia.org/wiki/Meskouta",
+   "used_for": "Cake traditionnel marocain servi au goûter ou au petit-déjeuner, avec du thé à la menthe ou du café ; variantes à l'orange, au citron et à la vanille"
+  },
+  {
+   "name": "Wikipédia (ar), « مسكوتة »",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D9%83%D9%88%D8%AA%D8%A9",
+   "used_for": "Nom arabe ; base œufs, sucre, huile, farine, vanille et zeste de citron ; la meskouta « économique », très consommée au Maroc"
+  },
+  {
+   "name": "Lalla Moulati (magazine féminin marocain en ligne), « المسكوتة », rubrique حلويات مغربية, 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/2388.html",
+   "used_for": "Contre-vérification : Source marocaine : « المسكوتة المغربية » (la meskouta marocaine) au yaourt : 4 œufs, 2 sachets de levure chimique, 1 « دانون » (pot de yaourt ; Lalla Moulati écrit ailleurs « دانون (ياغورت) », n° 215479), 1 verre d'huile, de la farine selon le mélange, 250 g de sucre ; levure ajoutée en dernier ; 20 minutes au four ; nappée de chocolat fondu et de noix."
+  },
+  {
+   "name": "Lalla Moulati, « مسكوتة مغربية لذيذة سهلة وخفيفة », rubrique كيك و طورطات, 11 juillet 2016",
+   "url": "https://www.lalamoulati.net/43119.html",
+   "used_for": "Contre-vérification : Source marocaine : meskouta au jus d'orange frais (¾ de tasse), « ويمكن الاستبدال بالحليب » : on peut le remplacer par du lait ; 3 gros œufs, 1 tasse de sucre, ½ tasse d'huile, 1½ tasse de farine, ½ c. à s. de levure chimique, sel, ½ tasse de noix de coco, zeste d'orange et vanille ; œufs, sucre, vanille et zeste fouettés 5 minutes ; moule moyen huilé et fariné ; four préchauffé à 170 °C ; ne pas ouvrir le four avant 25 minutes."
+  },
+  {
+   "name": "Lalla Moulati, « عمرك جربتي الكيكة المسكوتة هانا جبتها حتى لعندك بطريقة ساهلة ماهلة وبمذاق لذيذ », 28 février 2021 (même texte republié sous les n° 313995, 24 février 2022, et n° 336441, 9 août 2022)",
+   "url": "https://www.lalamoulati.net/270525.html",
+   "used_for": "Contre-vérification : Source marocaine : « الكيكة المسكوتة » au jus d'orange, en grammes : 390 g de farine, 300 g de sucre, 240 ml de jus d'orange frais, 120 ml d'huile, 3 gros œufs, 10 g de levure chimique, 5 ml de vanille liquide, 1 pincée de sel ; four à 180 °C ; œufs, sucre et vanille fouettés jusqu'à éclaircir ; moule huilé et fariné ; 45 à 50 minutes ; laisser un peu refroidir."
+  },
+  {
+   "name": "Code of Federal Regulations (États-Unis), titre 21, § 169.175 « Vanilla extract », texte en vigueur, copie de l'Institut d'information juridique de l'université Cornell",
+   "url": "https://www.law.cornell.edu/cfr/text/21/169.175",
+   "used_for": "Contre-vérification : Définition réglementaire : l'extrait de vanille est une solution dans l'alcool éthylique, à 35 % d'alcool au moins en volume ; d'où le sucre vanillé à sa place. Même texte que la version officielle (eCFR, ecfr.gov), lue par son interface le 7 novembre 2026 ; la page officielle filtre les lecteurs automatiques, d'où le lien vers la copie de Cornell, qui répond."
+  }
+ ],
+ "discrepancies": [
+  "Version : au lait chez Choumicha (deux cakes économiques) et dans trois recettes de Lalla Moulati ; au yaourt chez Morocco World News et Cooking with Alia, qui présentent la meskouta comme un cake au yaourt (Morocco World News précise que des familles mettent du lait ou du jus d'orange à la place) ; au jus d'orange chez Taste of Maroc, qui en fait une variante de la meskouta. Aucune source ne mesure laquelle est la plus courante. Mais les recettes lues qui portent le nom de meskouta sont toutes au yaourt (Morocco World News ; Cooking with Alia ; Lalla Moulati n° 2388) ou au jus d'orange (Taste of Maroc ; Lalla Moulati n° 43119 et n° 270525) ; le lait n'y apparaît que comme remplacement (Morocco World News ; Lalla Moulati n° 43119, à la place du jus d'orange). Les recettes au lait lues s'appellent « cake » (Choumicha) ou « كيكة » (Lalla Moulati). Retenu : le cake économique de Choumicha, au lait, seule recette lue qui donne à la fois les poids, la taille du moule, la température et la durée ; c'est une meskouta au lait, pas la version la plus citée sous ce nom. Yaourt et orange en variantes.",
+  "Parfum : zeste et jus de citron (Choumicha, cake économique) ; vanille (Choumicha, cake aux pépites ; Morocco World News ; Taste of Maroc ; Lalla Moulati ; Cooking with Alia) ; zeste d'orange (Taste of Maroc). Wikipédia (ar) cite vanille et zeste de citron ensemble. Retenu : citron et sucre vanillé.",
+  "Œufs : 4 (Choumicha, deux recettes ; Taste of Maroc ; Morocco World News), 3 (Cooking with Alia ; deux recettes de Lalla Moulati), 2 (Lalla Moulati). Retenu : 4, comme Choumicha, pour les quantités de sa recette.",
+  "Sucre : 240 g (Choumicha, cake économique), 180 g plus 1 sachet de sucre vanillé (Choumicha, cake aux pépites), 1½ tasse (Taste of Maroc, environ 300 g si l'on compte 200 g par tasse, conversion approximative), 1½ pot de yaourt (Morocco World News ; Cooking with Alia). Retenu : 240 g ; tu peux descendre vers 180 g, comme dans l'autre cake économique de Choumicha.",
+  "Huile et liquide : volumes égaux chez Choumicha (cake économique, 15 cl de chaque), Taste of Maroc (½ tasse de chaque), Morocco World News (1 pot de chaque) et Lalla Moulati (1 verre de chaque ; 7 cuillères de chaque) ; plus d'huile que de lait chez Choumicha (cake aux pépites, 18 et 12 cl) ; moitié moins d'huile que de liquide chez Cooking with Alia et dans une recette de Lalla Moulati. Retenu : 150 ml de chaque.",
+  "Levure chimique : 21 g pour 375 g de farine, soit 5,6 g pour 100 g (Choumicha, cake économique, calcul) ; 14 g pour 350 g, soit 4 g pour 100 g (Choumicha, cake aux pépites) ; 2 sachets de 7 g dans les mesures traditionnelles de Taste of Maroc, qui conseille aujourd'hui 3 c. à c. pour 2 tasses de farine ; 16 g (Morocco World News ; Lalla Moulati) ; 3 sachets (Lalla Moulati) ; 1 c. à c. seulement (Cooking with Alia, avec des blancs en neige). Retenu : la dose de la recette de Choumicha.",
+  "Sel : ¼ c. à c. (Choumicha, cake économique), ½ c. à c. (Choumicha, cake aux pépites ; Taste of Maroc), une pincée (Cooking with Alia ; « un peu » chez Lalla Moulati), aucun (Morocco World News). Retenu : ¼ c. à c.",
+  "Moule : moule à cake de 28 cm (Choumicha, cake économique ; moule à cake sans taille pour le cake aux pépites) ; moule couronne « le plus souvent » pour la meskouta, moule à cake possible (Taste of Maroc) ; moule à cheminée ou moule rond (Morocco World News) ; moule de 20 cm (Cooking with Alia). Retenu : le moule à cake de 28 cm, dont la taille est donnée pour ces quantités ; le moule couronne reste possible en surveillant la cuisson.",
+  "Température : 180 °C (Choumicha, trois recettes ; Taste of Maroc ; Cooking with Alia) ; « feu moyen » sans chiffre (Morocco World News). Retenu : 180 °C.",
+  "Durée : 45 min (Choumicha, cake économique ; « 45 minutes ou moins » chez Morocco World News), 40 min (Taste of Maroc ; Choumicha, cake à l'orange), 35 à 40 min (Choumicha, cake aux pépites), 50 min (Cooking with Alia). Médiane : 42,5 min. Retenu : 45 min, la durée donnée pour cette recette et ce moule, avec le test de la pique.",
+  "Démoulage : « laisser tiédir » (Choumicha), 7 à 10 min (Taste of Maroc), refroidir avant de démouler (Morocco World News). Retenu : environ 10 minutes.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "« La version la plus courante » : aucune source ne la mesure ; parmi les recettes lues qui portent le nom de meskouta, aucune n'est au lait : elles sont au yaourt ou au jus d'orange, et le lait y est cité comme remplacement (Morocco World News ; Lalla Moulati n° 43119).",
+  "Choumicha classe ses deux cakes économiques dans « Cuisine du monde », et non dans « Saveurs du Maroc ».",
+  "Conservation : une seule source (Taste of Maroc).",
+  "Wikipédia (ar) s'appuie sur une seule référence (about.com) ; sa phrase sur la meskouta « économique » n'est pas recoupée par une autre source.",
+  "Graphies « lkik » et « kika » : translittérations de الكيك (nom donné dans la demande) et de كيكة (titres de Lalla Moulati), pas lues en lettres latines dans une source.",
+  "Conversions de tasses, pots et verres en grammes : approximatives, utilisées seulement pour comparer les recettes.",
+  "Temps de préparation de 15 min (Taste of Maroc) et repos de 10 min avant démoulage (Taste of Maroc, 7 à 10 min) : une seule source chiffrée.",
+  "Lalla Moulati : la recette n° 379090 ne publie que la liste des ingrédients ; la n° 199027 ne donne ni température ni durée.",
+  "NYT Cooking (« Meskouta (Moroccan Orange Cake) »), cité par Wikipédia : non lu.",
+  "Bladi.net : aucun cake ni meskouta dans les pages parcourues des rubriques Pâtisseries marocaines et Desserts ; Femmes du Maroc : sa recherche interne ne donne rien pour « meskouta » ; Le360, Hespress et Chhiwat non consultés, faute d'outil de recherche web (la recherche de Le360 ne s'affiche qu'avec un navigateur ; Hespress refuse l'accès automatique). La recherche interne de Lalla Moulati a trouvé trois recettes nommées meskouta (cinq pages), au yaourt ou au jus d'orange."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Douceurs",
+ "pairs": [
+  "the-menthe"
+ ],
+ "img_alt": "Tranches de cake marocain (meskouta) sur une assiette",
+ "img": "img/cake-marocain.jpg",
+ "photo": {
+  "author": "TALAYWA",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Moroccan_cake_(Meskoota).jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Chakchouka à la marocaine. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "chakchouka",
+ "title": "Chakchouka à la marocaine",
+ "darija": "Chakchouka",
+ "arabic": "شكشوكة",
+ "tagline": "Des poivrons verts grillés et des tomates mijotés à l'ail, au cumin et au paprika, avec des œufs cuits dessus. On la mange bien chaude, dans la poêle, avec du pain.",
+ "category": "Plat",
+ "occasion": "Petit-déjeuner, dîner ou plat simple (vite fait avec des poivrons crus) ; Rachida la dit aussi très appréciée pendant le Ramadan. Sans œufs, elle se sert en salade cuite.",
+ "region": "Tout le Maghreb. Au Maroc, le nom désigne la poêlée de poivrons verts et de tomates à l'ail, mangée seule en salade cuite ou chaude avec des œufs (Wikipédia FR, section Maroc ; forum Yabiladi).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 25,
+  "cook": 25,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Gazinière (sinon, four en position gril et une plaque)",
+  "Sac en plastique propre (type sac de congélation)",
+  "Grande poêle profonde avec couvercle",
+  "Râpe",
+  "Planche et couteau",
+  "Cuillère en bois"
+ ],
+ "ingredients": [
+  {
+   "group": "Légumes",
+   "items": [
+    {
+     "id": "poivrons",
+     "q": 3,
+     "u": "",
+     "name": "poivron vert",
+     "pl": "poivrons verts",
+     "note": "à griller sans les couper",
+     "round": "up",
+     "canon": "poivron-vert"
+    },
+    {
+     "id": "tomates",
+     "q": 400,
+     "u": "g",
+     "name": "de tomates bien mûres",
+     "note": "à râper",
+     "canon": "tomate"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon",
+     "pl": "oignons",
+     "note": "à hacher",
+     "canon": "oignon"
+    },
+    {
+     "id": "ail",
+     "q": 2,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à hacher",
+     "canon": "ail"
+    }
+   ]
+  },
+  {
+   "group": "Cuisson et épices",
+   "items": [
+    {
+     "id": "huile",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "poivre",
+     "q": 1,
+     "u": "pincée",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    }
+   ]
+  },
+  {
+   "group": "Œufs et service",
+   "items": [
+    {
+     "id": "oeufs",
+     "q": 4,
+     "u": "",
+     "name": "œuf",
+     "pl": "œufs",
+     "note": "un par personne",
+     "canon": "oeuf"
+    },
+    {
+     "id": "persil",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "note": "ou de coriandre",
+     "canon": "persil"
+    },
+    {
+     "id": "huile-service",
+     "q": null,
+     "u": "",
+     "name": "huile d'olive",
+     "note": "un filet, pour servir",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "pain (khobz)",
+     "note": "pour saucer",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Grille les poivrons",
+   "text": "Grille {{poivrons:full}} directement sur la flamme du gaz, en tournant souvent, jusqu'à ce que la peau soit noircie de tous les côtés. Sans gaz, utilise le gril du four, sur une plaque, en tournant régulièrement.",
+   "timer": null,
+   "tip": "Rachida les grille aussi au four, en position gril, à 200 °C."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Enferme-les dans un sac",
+   "text": "Glisse les poivrons encore chauds dans un sac en plastique, ferme-le et attends 15 minutes. La vapeur décolle la peau.",
+   "timer": {
+    "min": 15,
+    "label": "Poivrons dans le sac",
+    "done": "Les poivrons ont tiédi : tu peux les peler."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pèle et coupe les poivrons",
+   "text": "Retire la peau brûlée avec les doigts, sans passer les poivrons sous l'eau. Enlève la queue et les graines, puis coupe la chair en petits dés.",
+   "timer": null,
+   "tip": "Rince-toi les mains plutôt que les poivrons : ils gardent leur goût fumé."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare tomates, oignon, ail et persil",
+   "text": "Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{oignon:full}} et {{ail:full}}. Lave et hache le persil.",
+   "timer": null,
+   "tip": "Tu peux aussi peler les tomates, les épépiner et les couper en petits dés, comme Rachida.",
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Prépare tomates, oignon, ail et persil » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre l'oignon",
+   "text": "Dans une grande poêle profonde, chauffe {{huile}} d'huile d'olive à feu doux. Ajoute l'oignon et remue jusqu'à ce qu'il devienne translucide.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute l'ail et les poivrons",
+   "text": "Ajoute l'ail et remue quelques secondes, sans le laisser dorer. Ajoute les dés de poivrons et remue 1 minute.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Assaisonne",
+   "text": "Ajoute {{sel}} de sel, {{paprika}} de paprika, {{cumin}} de cumin et {{poivre}} de poivre noir. Mélange bien.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais mijoter les tomates",
+   "text": "Ajoute les tomates râpées et mélange. Laisse mijoter à feu doux, en remuant souvent pour que rien n'attache, jusqu'à obtenir une compotée épaisse, presque sans jus. Goûte et rectifie le sel.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Casse les œufs",
+   "text": "Fais un petit creux dans la sauce pour chaque œuf. Casse {{oeufs:full}} dedans, comme pour des œufs au plat.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Couvre et laisse prendre",
+   "text": "Couvre la poêle et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient bien pris. Pour un jaune bien cuit, laisse 2 à 3 minutes de plus, jusqu'à ce qu'il soit ferme.",
+   "timer": {
+    "min": 5,
+    "label": "Œufs à couvert",
+    "done": "Les blancs sont-ils bien pris ? Pour un jaune ferme, compte encore 2 à 3 minutes."
+   },
+   "tip": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Fais-le toujours pour les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles : ce sont eux qui risquent le plus une salmonellose grave (FDA)."
+  },
+  {
+   "phase": "Service",
+   "title": "Sers aussitôt",
+   "text": "Retire du feu. Parsème de {{persil}} de persil haché et arrose d'un filet d'{{huile-service}}. Sers tout de suite dans la poêle, avec du {{khobz}} pour saucer.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Au Maroc, on préfère les poivrons grillés, pour leur goût fumé. Pressé ? Coupe-les crus en petits dés et fais-les fondre avec l'oignon : ça marche aussi.",
+   "source": "Rachida (Gâteau et cuisine Rachida) ; forum Yabiladi (2006) pour les deux façons ; Lalla Moulati (2019) pour les poivrons crus"
+  },
+  {
+   "text": "Enferme les poivrons grillés encore chauds dans un sac fermé : la vapeur décolle la peau, qui s'enlève ensuite très facilement.",
+   "source": "Rachida (15 min) ; Cooking With Alia (15 à 20 min) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama (méthode de sa belle-mère)"
+  },
+  {
+   "text": "Ne passe pas les poivrons grillés sous l'eau : pèle-les à sec pour garder le goût fumé, et rince-toi plutôt les mains.",
+   "source": "Chef Brahim Sakroune dans Femmes du Maroc (2023) ; Lalla Moulati (taktouka, 2014 et 2019)"
+  },
+  {
+   "text": "Coupe les tomates en deux et râpe la chair en jetant la peau : c'est rapide, et la sauce n'a pas de peaux.",
+   "source": "Lalla Moulati (tomates râpées, 2019) ; Cooking With Alia (taktouka : chair râpée, peau jetée)"
+  },
+  {
+   "text": "L'ail ne doit pas dorer : quelques secondes dans l'huile suffisent pour la parfumer.",
+   "source": "Rachida"
+  },
+  {
+   "text": "Avant les œufs, la sauce doit devenir une compotée épaisse. Remue souvent pour qu'elle n'attache pas.",
+   "source": "Rachida ; Lalla Moulati (2019 : laisser le mélange épaissir)"
+  },
+  {
+   "text": "Casse chaque œuf dans un petit creux de la sauce : il cuit à la surface, comme un œuf au plat.",
+   "source": "Rachida ; Wikipédia FR (section Maroc : œufs au plat cuits à la surface)"
+  },
+  {
+   "text": "Le couvercle cuit le dessus des œufs : environ 5 minutes pour un jaune encore coulant, un peu plus pour un jaune ferme.",
+   "source": "MarocMama (5 min à couvert, jaune coulant) ; Rachida (couvrir pour un jaune bien cuit) ; Lalla Moulati (2019 : environ 8 min à couvert)"
+  },
+  {
+   "text": "Sers dans la poêle, bien chaud, et mange-la à la main avec du pain, à la marocaine.",
+   "source": "Rachida ; Lalla Moulati (2019 : servir aussitôt)"
+  },
+  {
+   "text": "Ne la confonds pas avec la taktouka : c'est le même duo poivrons et tomates, mais en salade cuite, sans œufs, servie tiède ou froide. Pour My Moroccan Food, ce sont deux plats différents.",
+   "source": "My Moroccan Food (2016) ; Cooking With Alia ; Choumicha (Tektouka marqa) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama ; Rachida"
+  },
+  {
+   "text": "Le plat marocain de tous les jours aux œufs et à la tomate porte un autre nom : « bid w maticha » (œufs et tomates).",
+   "source": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)"
+  },
+  {
+   "text": "Tomates pas assez douces ? My Moroccan Food ajoute une demi-cuillère à café de sucre à sa taktouka, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
+   "source": "My Moroccan Food (taktouka, 2016)"
+  },
+  {
+   "text": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte peu profonde, et à manger dans les 3 jours (la FDA va jusqu'à 3 à 4 jours). Réchauffe-les jusqu'à 74 °C (165 °F).",
+   "source": "FDA, « What You Need to Know About Egg Safety » ; Anses, « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques » (8 avril 2020)"
+  }
+ ],
+ "mistakes": [
+  "Rincer les poivrons grillés sous l'eau : ils perdent leur goût fumé (chef Brahim Sakroune, Femmes du Maroc ; Lalla Moulati).",
+  "Casser les œufs dans une sauce encore liquide : attends qu'elle soit épaisse (Rachida ; Lalla Moulati).",
+  "Laisser attacher la sauce : remue souvent, à feu doux (Rachida).",
+  "Servir un jaune coulant à un enfant, une personne âgée, une femme enceinte ou une personne fragile : cuis le jaune et le blanc jusqu'à ce qu'ils soient fermes (FDA).",
+  "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA)."
+ ],
+ "serving": "Sers la chakchouka aux œufs bien chaude, dans la poêle, dès la fin de la cuisson, avec du pain pour saucer (Lalla Moulati 2019 ; Rachida). Elle se mange au petit-déjeuner (Lalla Moulati 2019 ; Rachida) ou en plat principal (Rachida). Sans œufs, sers-la tiède ou froide, en salade cuite, comme une taktouka (Wikipédia FR ; chef Brahim Sakroune dans Femmes du Maroc).",
+ "variants": [
+  "Sans œufs, en salade cuite : arrête-toi après la compotée et sers tiède ou froid. Au Maroc, certains l'appellent alors aussi taktouka (forum Yabiladi, 2006 : « chekchouka ou taktouka » ; « salade cuite » selon Wikipédia FR ; « salade chakchouka tiède » du chef Brahim Sakroune, Femmes du Maroc, 2023).",
+  "Poivrons crus, plus rapide : coupe-les en petits dés et fais-les fondre avec l'oignon jusqu'à ce qu'ils soient tendres, puis ajoute l'ail et les épices (Lalla Moulati, 2019 ; forum Yabiladi, 2006).",
+  "Œufs brouillés : verse les œufs battus sur la sauce et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014, avec seulement oignon et tomates ; Rachida cite aussi les œufs légèrement brouillés).",
+  "Avec du concentré de tomate : Lalla Moulati (2019) en met 2 c. à s. pour 400 g de tomates râpées.",
+  "Poivrons de couleurs : rouges, verts et jaunes mélangés (Rachida ; chef Brahim Sakroune). Choumicha met un poivron vert et un rouge dans sa tektouka.",
+  "Plus relevée : un piment, du piment d'Espelette ou de l'harissa (Rachida) ; une pincée de piment de Cayenne (My Moroccan Food, taktouka).",
+  "Sans oignon : seulement poivrons, tomates, ail et épices, comme chez plusieurs internautes de Yabiladi (2006 ; d'autres y mettent de l'oignon) et le chef Brahim Sakroune (2023) ; Rachida propose aussi de l'essayer sans oignon."
+ ],
+ "sources": [
+  {
+   "name": "Lalla Moulati, « قدمي لعائلتك طبق الشكشوكة اللذيذ على طاولة الفطور » (la chakchouka au petit-déjeuner), 11 mars 2019, rubrique « شهيوات عالمية » (recettes internationales)",
+   "url": "https://www.lalamoulati.net/187421.html",
+   "used_for": "Recette chiffrée sur un site marocain : 2 c. à s. d'huile d'olive, 1 oignon, 3 poivrons verts crus, 1 c. à c. de sel, 1 c. à c. d'ail écrasé, 1 c. à c. de cumin, 1 c. à c. de « فلفل », 400 g de tomates râpées, 2 c. à s. de concentré, 6 œufs, 1 pincée de poivre noir, 2 c. à s. de persil ; poêle profonde ; oignon et poivrons fondus, ail et épices, tomates jusqu'à épaississement, œufs à couvert environ 8 min, persil, service immédiat. Classée parmi les recettes internationales."
+  },
+  {
+   "name": "Lalla Moulati, « الشكشوكة », 10 novembre 2014, rubrique « شهيوات الطبخ المغربي » (cuisine marocaine)",
+   "url": "https://www.lalamoulati.net/2386.html",
+   "used_for": "Autre sens du mot au Maroc : oignon revenu, tomates, puis œufs battus remués jusqu'à cuisson, sel et poivre ; sans poivrons ni quantités. Variante aux œufs brouillés."
+  },
+  {
+   "name": "Femmes du Maroc, « Ris de veau aux poivrons Chakchouka », recette du chef Brahim Sakroune (Fairmont Taghazout Bay), 28 juin 2023",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/ris-de-veau-aux-poivrons-chakchouka",
+   "used_for": "« Chakchouka de poivrons » sans œufs, servie en salade tiède : poivrons grillés, pelés sans rinçage pour garder le goût fumé, ail doré dans l'huile d'olive, tomates pelées réduites en purée, poivrons ajoutés, cuisson douce jusqu'à sauce consistante."
+  },
+  {
+   "name": "Forum Yabiladi, fil « Comment fait-on Checkchouka???? », messages du 4 mai 2006 (internautes marocains, anonymes)",
+   "url": "https://www.yabiladi.com/forum/comment-fait-on-checkchouka-54-1097456.html",
+   "used_for": "Usage du nom : « chekchouka ou taktouka » ; version crue (piments verts en dés, huile d'olive, ail, tomates, sel, cumin, paprika) et version aux poivrons grillés mise en sac, préférée par trois internautes ; sans œufs."
+  },
+  {
+   "name": "Gâteau et cuisine Rachida, « Best Shakshuka Recipe (Authentic and Easy) », 14 juin 2025, mis à jour le 12 juillet 2025 (cuisine indiquée : algérienne et marocaine)",
+   "url": "https://gateauetcuisinerachida.com/en/best-shakshuka-recipe-authentic-and-easy/",
+   "used_for": "Recette pour 4 : 1 oignon, 3 poivrons verts grillés, 2 tomates mûres, 3 gousses d'ail, 5 c. à s. d'huile d'olive (dont 1 pour finir), 1 c. à c. de paprika doux, 1 c. à c. de cumin, sel, poivre, 4 œufs, persil ; 25 min de préparation ; sac 15 min ; ail quelques secondes sans dorer, oignon translucide à feu doux, poivrons 1 min, compotée en remuant, un creux par œuf, environ 5 min, couvrir pour un jaune cuit ; service immédiat dans la poêle avec du pain ; « au Maroc, on préfère les poivrons grillés » ; ressemble à la taktouka, qui n'a pas d'œufs ; appréciée au Ramadan."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Taktouka – Green Peppers and Tomatoes Moroccan Salad », 29 juin 2016",
+   "url": "https://www.mymoroccanfood.com/home/taktouka",
+   "used_for": "Différence : shakshuka et taktouka sont « deux plats différents » ; la taktouka est une salade ou tartinade (poivrons verts grillés, tomates, ail, huile d'olive), servie tiède ou froide, sans œufs ; 3 c. à s. d'huile, ail (1 c. à c., environ 2 gousses), 1 c. à c. de paprika, pincée de Cayenne, ½ c. à c. de sucre si les tomates manquent de douceur."
+  },
+  {
+   "name": "Cooking With Alia, « 125 – Taktouka – Cooked Salad with Tomatoes and Roasted Green Peppers », 25 février 2015",
+   "url": "https://www.cookingwithalia.com/taktouka-cooked-salad-with-tomatoes-and-roasted-green-peppers/",
+   "used_for": "Taktouka : tomates râpées (peau jetée), poivrons grillés sur la flamme puis 15 à 20 min sous film, 1 c. à c. de sel, de paprika et de cumin, 2 c. à s. d'huile d'olive, 3 gousses d'ail ; salade cuite servie tiède ou froide avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « 440 – Taktouka – Pepper & Tomato Dip », 19 juin 2016",
+   "url": "https://www.cookingwithalia.com/440-taktouka-pepper-tomato-dip/",
+   "used_for": "Taktouka : poivron grillé, 5 min en sac, 2 gousses d'ail ; servie tiède ou chaude avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « 176 – Shakshouka (Egg Dish) – Saudi Arabia Recipe », rubrique International Recipes",
+   "url": "https://www.cookingwithalia.com/shakshouka-egg-dish-saudi-arabia-recipe-episode-176/",
+   "used_for": "Seulement le classement : la shakshouka aux œufs y est rangée parmi les recettes internationales (vidéo, sans texte)."
+  },
+  {
+   "name": "Choumicha (Choumicha Chafay), « Tektouka marqa », site officiel (copie archivée du 22 juillet 2026)",
+   "url": "https://web.archive.org/web/20260722090934/https://www.choumicha.ma/recette/465-tektouka-marqa.html",
+   "used_for": "Taktouka de Choumicha (rubriques Saveurs du Maroc, Légumes, Salades) : 4 grosses tomates, 3 c. à s. d'huile d'olive et 1 de tournesol, 1 gousse d'ail, 1 poivron vert et 1 rouge grillés, 1 c. à c. de sel, épices pour chermoula, coriandre ; servie tiède ou froide ; 4 personnes."
+  },
+  {
+   "name": "Lalla Moulati, « التكتوكة بالفلفل », 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/3552.html",
+   "used_for": "Taktouka : poivrons grillés, mis en sac, pelés sans être lavés ; tomates réduites à feu doux jusqu'à évaporation de l'eau ; servie chaude ou froide."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة عمل التكتوكة بالفلافل كتجي بنينة », 3 avril 2019",
+   "url": "https://www.lalamoulati.net/190612.html",
+   "used_for": "Taktouka : 4 poivrons verts grillés, mis en sac, pelés sans les laver (on se lave les mains) ; 2 ou 3 gousses d'ail ; 1 c. à c. de paprika et de cumin ; servie chaude ou froide."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki, Américaine installée au Maroc), « Taktouka – Green Pepper and Tomato Salad », recette du 29 avril 2019",
+   "url": "https://marocmama.com/taktouka-green-pepper-and-tomato-salad/",
+   "used_for": "Taktouka en salade cuite servie fraîche ou à température ambiante ; poivrons grillés sur la flamme et mis en sac, méthode de sa belle-mère marocaine."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki), « Crunchy Shakshuka Recipe You'll Love », 10 avril 2023",
+   "url": "https://marocmama.com/shakshuka-recipe/",
+   "used_for": "Cuisson des œufs : un creux par œuf, à couvert, à feu doux, 5 min pour un blanc pris et un jaune coulant."
+  },
+  {
+   "name": "Lalla Moulati, « البيض ومطيشة كولشي كيعرف يطيبو... », 29 décembre 2018",
+   "url": "https://www.lalamoulati.net/177424.html",
+   "used_for": "« Bid w maticha » (œufs et tomates), plat que « tout le monde sait cuisiner »."
+  },
+  {
+   "name": "Wikipédia (fr), « Chakchouka »",
+   "url": "https://fr.wikipedia.org/wiki/Chakchouka",
+   "used_for": "Section Maroc (sans référence) : souvent avec du poivron vert en petits morceaux et de l'ail ; servie seule en salade cuite, ou chaude avec des œufs au plat cuits à la surface."
+  },
+  {
+   "name": "Wikipedia (en), « Shakshouka »",
+   "url": "https://en.wikipedia.org/wiki/Shakshouka",
+   "used_for": "Au Maroc, plat appelé « bīḍ w-maṭiša » (œufs et tomate)."
+  },
+  {
+   "name": "Wikipedia (en), « Taktouka »",
+   "url": "https://en.wikipedia.org/wiki/Taktouka",
+   "used_for": "Taktouka : plat marocain de tomates, poivrons, ail, paprika et huile d'olive, servi en accompagnement, tiède ou froid, avec du pain."
+  },
+  {
+   "name": "FDA (États-Unis), « What You Need to Know About Egg Safety », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+   "used_for": "Sécurité : jaune et blanc cuits fermes, personnes à risque (enfants, personnes âgées, femmes enceintes, immunité faible), pas plus de 2 h hors du réfrigérateur, restes en récipients peu profonds, 3 à 4 jours au frais, réchauffage à 165 °F (74 °C)."
+  },
+  {
+   "name": "Cooking With Alia (Alia, cuisinière marocaine), « 894 – Fancy Chekchouka / شكشوكة », 30 avril 2021",
+   "url": "https://www.cookingwithalia.com/894-fancy-chekchouka/",
+   "used_for": "Contre-vérification : Une cuisinière marocaine appelle « chekchouka » (شكشوكة) le plat chaud aux œufs, cette fois sans le ranger parmi les recettes internationales : oignon et ail 5 min jusqu'à ce que l'oignon soit translucide, poivron vert cru en dés 2 min, tomate (et une sauce du commerce) 5 min, un creux par œuf, puis à couvert 3 à 5 min jusqu'à ce que les œufs soient cuits ; 4 œufs, 2 c. à s. d'huile d'olive, persil ; servie chaude."
+  },
+  {
+   "name": "Hespress (journal marocain), Fatima Zahra Zaïm, « وداعا \"البيض ومطيشة\" » (Adieu « bid w maticha »), 16 octobre 2012",
+   "url": "https://www.hespress.com/%D9%88%D8%AF%D8%A7%D8%B9%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6-%D9%88%D9%85%D8%B7%D9%8A%D8%B4%D8%A9-104064.html",
+   "used_for": "Contre-vérification : Pour régler la question du dîner, beaucoup de Marocaines se tournent vers « البيض ومطيشة » (œufs et tomates), plat auquel les Marocains sont très attachés selon l'autrice : c'est bien le plat de tous les jours, sous ce nom. Article cité par Wikipedia EN (Shakshouka)."
+  },
+  {
+   "name": "Al-Quds al-Arabi, Abdelaziz Benabbou (Rabat), « المغاربة يواجهون غضبهم من غلاء الخضار بالسخرية… », 12 février 2023",
+   "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%BA%D8%B6%D8%A8%D9%87%D9%85-%D9%85%D9%86-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B6%D8%A7%D8%B1/",
+   "used_for": "Contre-vérification : Pour les Marocains, le repas « البيض ومطيشة » (œufs et tomates) est le plus simple, le plus connu et le moins cher. Article cité par Wikipedia EN (Shakshouka)."
+  },
+  {
+   "name": "Bladi.net (site marocain), « Taktouka », rubrique Les entrées des recettes de cuisine marocaine",
+   "url": "https://www.bladi.net/recettes/taktouka.html",
+   "used_for": "Contre-vérification : Taktouka sans œufs : 3 poivrons grillés sur le feu, pelés, épépinés et coupés en petits morceaux, 3 tomates pelées et épépinées, 2 gousses d'ail, persil et coriandre, 1 c. à c. de piment doux, 1 c. à c. de cumin, huile d'olive ; servie tiède avec du pain. La recherche interne de Bladi ne donne aucune recette de chakchouka."
+  },
+  {
+   "name": "FDA (États-Unis), « Safe Food Handling », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+   "used_for": "Contre-vérification : Seconde page de la FDA : cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes (conseil donné à tous), plats aux œufs à 160 °F (71 °C), réfrigération dans les 2 heures, fruits et légumes rincés sous l'eau du robinet."
+  },
+  {
+   "name": "Anses (France), « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Contre-vérification : Les plats cuisinés à la maison ne doivent pas rester plus de 2 heures à température ambiante et se consomment dans les 3 jours ; les fruits et légumes se lavent minutieusement à l'eau potable ; on se lave les mains avant et après avoir manipulé des aliments crus."
+  }
+ ],
+ "discrepancies": [
+  "Sens du mot au Maroc : pour certains, « chakchouka » est la salade cuite sans œufs, comme la taktouka (forum Yabiladi 2006 ; chef Brahim Sakroune 2023 ; Wikipédia FR) ; pour d'autres, c'est le plat chaud aux œufs, distinct de la taktouka (My Moroccan Food ; Rachida ; Lalla Moulati 2019) ; Lalla Moulati (2014) appelle même ainsi des œufs brouillés à l'oignon et à la tomate, sans poivrons. Retenu : le plat chaud aux œufs (les deux recettes chiffrées), la salade sans œufs en variante.",
+  "Sur deux sites marocains, la chakchouka aux œufs est rangée parmi les recettes internationales (Lalla Moulati 2019 ; Cooking With Alia, « Saudi Arabia Recipe »). Cooking With Alia publie toutefois en 2021 une « Fancy Chekchouka » aux œufs, sans cette étiquette.",
+  "Poivrons grillés (Rachida : « préférés au Maroc » ; chef Brahim Sakroune ; trois internautes de Yabiladi) ou crus (Lalla Moulati 2019 ; un internaute de Yabiladi) : retenu grillés (majorité), crus en variante.",
+  "Tomates : 400 g râpées plus 2 c. à s. de concentré (Lalla Moulati 2019) ; 2 tomates mûres, sans poids (Rachida). Retenu 400 g, seule quantité pesée, sans concentré, comme Rachida et les taktouka marocaines (My Moroccan Food, Choumicha, Lalla Moulati, MarocMama ; seule Cooking With Alia en met 1 c. à s.).",
+  "Huile d'olive : 2 c. à s. (Lalla Moulati 2019) ; 4 c. à s. plus 1 pour finir (Rachida). Retenu 3 c. à s. (valeur médiane, la même que My Moroccan Food et Choumicha pour la taktouka) plus un filet au service.",
+  "Ail : 1 c. à c. d'ail écrasé, soit environ 2 gousses selon l'équivalence de My Moroccan Food (Lalla Moulati 2019) ; 3 gousses (Rachida). Dans les taktouka : 2 (My Moroccan Food ; Cooking With Alia 440), 2 ou 3 (Lalla Moulati 2019), 3 (Cooking With Alia 125), 1 (Choumicha ; MarocMama). Retenu 2 gousses (médiane).",
+  "Œufs : 4 pour 4 personnes (Rachida) ; 6, sans nombre de parts (Lalla Moulati 2019). Retenu un œuf par personne.",
+  "Cuisson des œufs : environ 5 min (Rachida ; MarocMama, à couvert) ; environ 8 min à couvert (Lalla Moulati 2019). Retenu 5 min, plus 2 à 3 min pour un jaune ferme.",
+  "Ordre ail et oignon : Rachida met l'ail d'abord, quelques secondes, puis l'oignon ; Lalla Moulati fait fondre oignon et poivrons, puis ajoute l'ail. Retenu l'ordre de Lalla Moulati, l'ail ne restant que quelques secondes avant les poivrons, pour qu'il ne dore pas (conseil de Rachida).",
+  "Ail : Rachida le fait revenir quelques secondes sans le laisser dorer ; le chef Brahim Sakroune le fait dorer légèrement. Retenu : sans dorer (Rachida), puisqu'il ne reste que quelques secondes avant les poivrons.",
+  "Temps dans le sac : 15 min (Rachida) ; 15 à 20 min (Cooking With Alia 125) ; 5 min (Cooking With Alia 440) ; « quelques minutes » (Lalla Moulati). Retenu 15 min.",
+  "Persil : 2 c. à s. (Lalla Moulati 2019) ; « pour décorer », sans quantité (Rachida). Retenu 2 c. à s.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Aucune source ne mesure quelle version est la plus courante au Maroc ; le choix (poivrons grillés, oignon, œufs) suit la majorité des sources lues.",
+  "Temps de cuisson (25 min) : estimation. Rachida donne seulement 25 min de préparation, Lalla Moulati seulement les 8 min des œufs.",
+  "Poids des tomates : les 400 g viennent de la seule Lalla Moulati (2019) ; Rachida dit « 2 tomates mûres », sans poids.",
+  "Le mot « فلفل » (1 c. à c.) de Lalla Moulati 2019 est ambigu (paprika ou poivre) ; le paprika est confirmé par Rachida et par les taktouka marocaines (My Moroccan Food, Cooking With Alia, Lalla Moulati 2019).",
+  "Variété de poivron la plus utilisée (poivron vert ou piment vert doux long) : non tranchée. Rachida parle de poivrons verts, Lalla Moulati de « فليفلة خضراء ».",
+  "L'origine de Rachida (Maroc ou Algérie) n'est pas confirmée ; sa recette est classée cuisine algérienne et marocaine.",
+  "Le paragraphe Maroc de Wikipédia FR n'a pas de référence ; les messages du forum Yabiladi sont anonymes.",
+  "Recherche limitée : le quota de recherches web a été épuisé en cours de travail. Bladi.net (page vide pour les robots) et Kifache (protection Cloudflare) étaient inaccessibles et n'ont pas été contournés. Aucune page de chakchouka parmi les adresses archivées de choumicha.ma (seulement sa taktouka, « Tektouka marqa »).",
+  "La vidéo « Shakshouka – Saudi Arabia Recipe » de Cooking With Alia n'a pas de texte : contenu non vu."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "pairs": [
+  "khobz"
+ ],
+ "img_alt": "Œufs cuits dans une poêle en fonte sur des poivrons et des tomates, avec du persil",
+ "img": "img/chakchouka.jpg",
+ "photo": {
+  "author": "Calliopejen1",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg",
+  "modified": "réduite"
+ }
+});
+
 /* Recette : Couscous aux sept légumes. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -1053,7 +3186,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "La base du bouillon",
    "text": "Hache grossièrement {{oignon:full}}. Râpe {{tomates-rapees:full}} et jette la peau. Ficelle ensemble {{persil}} de persil et {{coriandre}} de coriandre en un bouquet.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « La base du bouillon » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
   },
   {
    "phase": "Préparation",
@@ -1095,6 +3236,14 @@ window.RECETTES.push({
     "min": 20,
     "label": "1re vapeur",
     "done": "Renverse la semoule dans la gsaa pour le deuxième roulage."
+   },
+   "img": {
+    "src": "img/etapes/couscous-keskas.jpg",
+    "alt": "Graine de couscous dans le haut d'un couscoussier",
+    "caption": "La graine à la vapeur",
+    "w": 562,
+    "h": 1000,
+    "credit": "Photo de l'étape « Première vapeur » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
    }
   },
   {
@@ -1155,7 +3304,15 @@ window.RECETTES.push({
    "phase": "Service",
    "title": "Dresse et sers",
    "text": "Forme un dôme aplati de semoule et creuse un puits au centre. Mets la viande dans le puits, le chou et la courge dessus, et range les autres légumes tout autour. Parsème de pois chiches, ajoute les piments, arrose de quelques louches de bouillon et sers le reste très chaud dans des bols.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/couscous-a-la-main.jpg",
+    "alt": "Main qui roule une boulette de couscous au-dessus du plat",
+    "caption": "À la main, on roule des boulettes",
+    "w": 1000,
+    "h": 663,
+    "credit": "Photo de l'étape « Dresse et sers » : Lucyin, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
   }
  ],
  "secrets": [
@@ -1378,6 +3535,423 @@ window.RECETTES.push({
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Couscous_%227_vegetables%22.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Dchicha, soupe d'orge à la tomate. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "dchicha",
+ "title": "Dchicha, soupe d'orge à la tomate",
+ "darija": "Dchicha (h'ssoua hamra)",
+ "arabic": "شوربة دشيشة الشعير",
+ "tagline": "L'orge concassée qui mijote avec tomates, oignon et persil : une soupe veloutée et rassasiante, pour le petit-déjeuner, le dîner ou le ftour.",
+ "category": "Soupe",
+ "occasion": "Petit-déjeuner ou dîner léger ; au ftour du Ramadan, parfois à la place de la harira",
+ "region": "Dans beaucoup de foyers marocains ; la dchicha fait aussi partie du ftour des provinces du Sud",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 15,
+  "cook": 45,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grande marmite (3 litres au moins)",
+  "Grand saladier et passoire fine, pour laver l'orge",
+  "Râpe",
+  "Planche et couteau",
+  "Cuillère en bois",
+  "Louche"
+ ],
+ "ingredients": [
+  {
+   "group": "Soupe",
+   "items": [
+    {
+     "id": "orge",
+     "q": 180,
+     "u": "g",
+     "name": "de dchicha d'orge (orge concassée)",
+     "note": "grosse ou moyenne",
+     "canon": "orge-concassee"
+    },
+    {
+     "id": "huile",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "note": "à râper",
+     "canon": "oignon"
+    },
+    {
+     "id": "tomates",
+     "q": 2,
+     "u": "",
+     "name": "tomate bien mûre",
+     "pl": "tomates bien mûres",
+     "note": "à râper, sans la peau",
+     "canon": "tomate"
+    },
+    {
+     "id": "persil",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "note": "ou moitié persil, moitié coriandre",
+     "canon": "persil"
+    },
+    {
+     "id": "curcuma",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de curcuma",
+     "canon": "curcuma"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à rectifier en fin de cuisson",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "eau",
+     "q": 2,
+     "u": "l",
+     "name": "d'eau",
+     "canon": "eau"
+    },
+    {
+     "id": "concentre",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de concentré de tomate",
+     "note": "facultatif, pour la couleur",
+     "canon": "concentre-tomate"
+    },
+    {
+     "id": "eau-chaude",
+     "q": null,
+     "u": "",
+     "name": "eau chaude",
+     "note": "pour allonger, si besoin",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "huile-service",
+     "q": null,
+     "u": "",
+     "name": "huile d'olive",
+     "note": "un filet, facultatif",
+     "canon": "huile-olive"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Lave l'orge",
+   "text": "Mets {{orge}} de dchicha dans un grand saladier d'eau et remue avec la main. Égoutte dans une passoire fine. Recommence jusqu'à ce que l'eau reste claire, puis laisse égoutter.",
+   "timer": null,
+   "tip": "La grosse dchicha garde des grains fermes sous la dent ; la moyenne donne une soupe plus fondante et cuit plus vite (Taste of Maroc)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Râpe l'oignon",
+   "text": "Épluche et râpe finement {{oignon:full}}.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Râpe les tomates",
+   "text": "Râpe {{tomates:full}} côté chair et jette la peau.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Râpe les tomates » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache les herbes",
+   "text": "Hache finement du persil plat : il en faut {{persil}} une fois haché. Tu peux mettre moitié persil, moitié coriandre.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais revenir l'oignon",
+   "text": "Chauffe {{huile}} d'huile d'olive dans une grande marmite, sur feu moyen. Ajoute l'oignon râpé et remue jusqu'à ce qu'il devienne translucide.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute tomates, herbes, épices et eau",
+   "text": "Ajoute les tomates râpées, le persil, {{curcuma}} de curcuma, {{sel}} de sel et {{poivre}} de poivre. Verse {{eau}} d'eau et porte à ébullition sur feu vif.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Verse l'orge",
+   "text": "Dès que ça bout, verse l'orge égouttée en remuant. Si tu en mets, ajoute {{concentre}} de concentré de tomate. Baisse le feu.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse mijoter en remuant",
+   "text": "Laisse cuire à feu doux 30 minutes, en remuant de temps en temps pour que l'orge n'attache pas au fond. Si la soupe épaissit trop, ajoute un peu d'{{eau-chaude}}.",
+   "timer": {
+    "min": 30,
+    "label": "Cuisson de l'orge",
+    "done": "Goûte quelques grains : ils doivent être tendres."
+   },
+   "tip": "Ne fais pas bouillir trop fort : la soupe peut déborder."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie la cuisson",
+   "text": "Goûte quelques grains : ils doivent être tendres, et la soupe veloutée, à peine épaisse. Sinon, prolonge la cuisson en remuant et goûte de nouveau : la grosse dchicha cuit plus longtemps. Rectifie le sel.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers aussitôt",
+   "text": "Sers la soupe tout de suite, bien chaude, avec un filet d'{{huile-service}} si tu aimes. En attendant, l'orge continue de gonfler et la soupe épaissit.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Lave la dchicha dans plusieurs eaux, jusqu'à ce que l'eau ne soit plus trouble, puis égoutte-la.",
+   "source": "Taste of Maroc ; Choumicha ; Lalla Moulati"
+  },
+  {
+   "text": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
+   "source": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne"
+  },
+  {
+   "text": "Râpe l'oignon et les tomates, et jette la peau des tomates.",
+   "source": "Choumicha ; Taste of Maroc ; Cooking with Alia"
+  },
+  {
+   "text": "Verse l'orge quand le bouillon bout.",
+   "source": "Choumicha (h'ssoua hamra et h'ssoua aux crevettes) ; Lalla Moulati (2016) fait d'abord bouillir l'eau avec les aromates"
+  },
+  {
+   "text": "Remue de temps en temps et rajoute de l'eau si elle baisse : l'orge attache au fond et peut brûler.",
+   "source": "Lalla Moulati (2016) ; Choumicha ; Cooking with Alia ; Taste of Maroc"
+  },
+  {
+   "text": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "source": "Taste of Maroc ; Choumicha cuit à feu doux"
+  },
+  {
+   "text": "Le concentré de tomate est facultatif, mais il donne une belle couleur et plus de goût de tomate.",
+   "source": "Taste of Maroc ; Choumicha et Cooking with Alia en mettent"
+  },
+  {
+   "text": "Pour les herbes : persil seul, ou persil et coriandre.",
+   "source": "Persil : Taste of Maroc, Choumicha ; persil et coriandre : Choumicha (h'ssoua aux crevettes), Cooking with Alia"
+  },
+  {
+   "text": "Sers la soupe dès qu'elle est prête : en attendant, l'orge gonfle et la soupe épaissit.",
+   "source": "Taste of Maroc ; Choumicha (« servir la h'ssoua aussitôt »)"
+  },
+  {
+   "text": "Un filet d'huile d'olive sur chaque bol, au moment de servir.",
+   "source": "Choumicha (soupes d'orge au thym) ; MWN Lifestyle (dchicha)"
+  },
+  {
+   "text": "Pour réchauffer, allonge avec un peu d'eau, rectifie l'assaisonnement et porte à ébullition en remuant.",
+   "source": "Taste of Maroc ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)"
+  },
+  {
+   "text": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées, et mange-les dans les 3 jours.",
+   "source": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours)"
+  }
+ ],
+ "mistakes": [
+  "Ne pas laver l'orge (Taste of Maroc, Choumicha et Lalla Moulati la lavent toujours).",
+  "Laisser cuire sans remuer : l'orge attache et brûle au fond (Lalla Moulati ; Cooking with Alia).",
+  "Cuire à feu trop fort : la soupe déborde (Taste of Maroc).",
+  "Faire attendre la soupe avant de servir : elle devient trop épaisse (Taste of Maroc ; Choumicha).",
+  "Réchauffer sans rajouter d'eau (Taste of Maroc).",
+  "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA)."
+ ],
+ "serving": "Bien chaude, tout de suite, dans des bols, avec un filet d'huile d'olive si tu aimes (Choumicha ; MWN Lifestyle). Au petit-déjeuner ou en dîner léger (Taste of Maroc), et au ftour du Ramadan, parfois à la place de la harira (Lalla Moulati ; MWN Lifestyle ; Choumicha la classe dans ses recettes de Ramadan).",
+ "variants": [
+  "Au lait, la h'ssoua belboula au lait (« hessoua blanche » chez Cooking with Alia) : l'orge cuit d'abord dans l'eau avec un peu d'huile d'olive, du sel, du poivre et du cumin, en remuant ; on ajoute le lait à la fin et on laisse cuire encore un peu. Lalla Moulati (2014) : 250 g d'orge, 1,5 l d'eau, 2 c. à s. d'huile, 30 min de cuisson avec du thym ajouté à mi-cuisson, puis 1/4 l de lait et 10 min. Cooking with Alia : lait ajouté après 15 min, puis 10 min, thym séché émietté dessus. Taste of Maroc : 30 à 40 min, puis lait, beurre et lait concentré non sucré, cumin au service.",
+  "Avec un peu de viande halal : fais revenir de l'agneau ou du bœuf en petits dés avec l'oignon, puis laisse cuire le bouillon 15 à 20 minutes avant d'ajouter l'orge (Taste of Maroc : 85 g pour 4). Choumicha met 250 g de poitrine d'agneau pour 6, revenue 5 minutes.",
+  "Aux crevettes : Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur). Garde les crevettes dans la partie la plus froide du réfrigérateur jusqu'à la cuisson, comme l'ANSES le recommande pour les viandes et les poissons.",
+  "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet.",
+  "Aux légumes : navet, carottes, courgettes, chou et tomates, au ftour à la place de la harira (Lalla Moulati, 2020).",
+  "Plus relevée : Taste of Maroc ajoute 1 c. à c. de gingembre moulu pour 4 ; Lalla Moulati en met aussi dans sa dchicha aux herbes.",
+  "Tchicha de blé : à Ouarzazate, la tchicha est une soupe de blé (Hespress, 2021)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha Chafay, « H'ssoua hamra bel belboula » (choumicha.ma, recette n° 113), copie archivée du 17 novembre 2019",
+   "url": "https://web.archive.org/web/20191117044032/https://choumicha.ma/recette/113-h-ssoua-hamra-bel-belboula.html",
+   "used_for": "Source marocaine de référence pour la version tomate : pour 6, 250 g de semoule d'orge moyenne, 3 l d'eau, 8 cl d'huile d'olive, oignon et 2 tomates râpés, 1 bouquet de persil, 1 c. à café de sel, 1/2 de poivre, 250 g d'agneau ; orge lavée ; oignon translucide ; tomates, persil et orge ajoutés à l'ébullition ; feu doux en remuant jusqu'à ce que l'orge soit tendre et la soupe veloutée ; servir aussitôt ; 45 min de cuisson, 1 h au total ; classée Ramadan et fêtes."
+  },
+  {
+   "name": "Choumicha, « H'ssoua bel belboula et crevettes » (choumicha.ma, recette n° 151), copie archivée du 23 janvier 2025",
+   "url": "https://web.archive.org/web/20250123083555/https://www.choumicha.ma/recette/151-h-ssoua-bel-belboula-et-crevettes.html",
+   "used_for": "Autre version à la tomate (pour 6 : 250 g d'orge moyenne, 3 l d'eau, 8 cl d'huile, tomate, 1/2 c. à s. de concentré, persil et coriandre, laurier, harissa) ; orge ajoutée après l'ébullition ; remuer ; servir aussitôt ; variante aux crevettes."
+  },
+  {
+   "name": "Choumicha, « Soupe d'orge au thym, nigelle et cresson » (choumicha.ma, recette n° 1479), copie archivée du 5 décembre 2024",
+   "url": "https://web.archive.org/web/20241205030141/https://choumicha.ma/recette/1479-soupe-dorge-au-thym-nigelle-et-cresson.html",
+   "used_for": "Version blanche aux herbes : 150 g d'orge moyenne lavée, 1,5 l d'eau, ail en chemise, thym, huile d'olive ; 25 à 35 min à feu doux en remuant ; filet d'huile d'olive au service ; classée Ramadan."
+  },
+  {
+   "name": "Choumicha, « Soupe d'orge et de millet au thym » (choumicha.ma, recette n° 1496), copie archivée du 23 janvier 2025",
+   "url": "https://web.archive.org/web/20250123072838/https://www.choumicha.ma/recette/1496-soupe-dorge-et-de-millet-au-thym.html",
+   "used_for": "Temps de cuisson d'une soupe d'orge moyenne (30 min, puis 5 à 10 min) ; lavage ; remuer régulièrement ; filet d'huile au service."
+  },
+  {
+   "name": "Lalla Moulati, « شوربة الدشيشة الساخنة بالاعشاب المنسمة » (1er février 2016)",
+   "url": "https://www.lalamoulati.net/34466.html",
+   "used_for": "Site marocain. La « chorba » de dchicha aux herbes (thym, fliou, céleri, ail en chemise, gingembre, curcuma) ; eau portée à ébullition avec les aromates avant la dchicha ; remuer et rajouter de l'eau pour qu'elle n'attache pas et ne brûle pas ; sauce tomate ou poulet facultatifs ; classée Ramadan."
+  },
+  {
+   "name": "Lalla Moulati, « حسوة البلبولة بالحليب بطريقة رائعة » (10 novembre 2014)",
+   "url": "https://www.lalamoulati.net/8385.html",
+   "used_for": "Variante au lait : 250 g de belboula lavée, 1,5 l d'eau, sel, poivre, cumin, 2 c. à s. d'huile d'olive ; 15 min, thym, 15 min en surveillant l'eau et en remuant ; 1/4 l de lait, puis 10 min."
+  },
+  {
+   "name": "Lalla Moulati, « شوربة بديل للحريرة فرمضان بدشيشة الشعير » (29 avril 2020)",
+   "url": "https://www.lalamoulati.net/233874.html",
+   "used_for": "Soupe de dchicha d'orge aux légumes et à la tomate (tomates et concentré), proposée au ftour du Ramadan à la place de la harira."
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Moroccan Cracked Barley Soup with Tomatoes – Hssoua Belboula Hamra », mise à jour du 8 juillet 2020 (copie archivée du 24 janvier 2026)",
+   "url": "https://web.archive.org/web/20260124013207/https://tasteofmaroc.com/moroccan-cracked-barley-soup-tomatoes/",
+   "used_for": "Pour 4 (mesures métriques du site) : 190 g d'orge concassée, 2 l d'eau, 4 c. à s. d'huile d'olive, 85 g de viande facultative, 1 oignon râpé, 2 ou 3 tomates râpées sans peau ni pépins, 3 c. à s. de persil, 1,5 c. à c. de sel, 1 c. à c. de poivre, de gingembre et de curcuma (facultatif), 2 c. à s. de concentré (facultatif) ; la grosse orge s'appelle « dchicha » ; lavage jusqu'à ce que l'eau soit claire ; marmite de 3 l ; feu moyen, oignon translucide ; ébullition sur feu vif ; 15 min de préparation, 45 min de cuisson ; servir aussitôt car l'orge gonfle ; réchauffer avec de l'eau ; petit-déjeuner ou dîner léger."
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Hssoua Belboula – Moroccan Cream of Barley Soup with Milk », mise à jour du 8 juillet 2020 (copie archivée du 7 décembre 2025)",
+   "url": "https://web.archive.org/web/20251207064150/http://tasteofmaroc.com/hssoua-belboula-moroccan-barley-soup-with-milk/",
+   "used_for": "Variante au lait (30 à 40 min, puis lait, beurre et lait concentré non sucré) ; calibre des grains (la grosse orge cuit plus longtemps et demande plus d'eau) ; feu pas trop fort sinon ça déborde ; réchauffer doucement avec un peu d'eau ; petit-déjeuner ou dîner léger."
+  },
+  {
+   "name": "Cooking with Alia, « Barley Tomato Soup / حساء الطماطم بالشعير » (n° 500)",
+   "url": "https://www.cookingwithalia.com/500-barley-tomato-soup/",
+   "used_for": "Cuisinière marocaine. Orge, huile d'olive, oignon râpé, tomates râpées sans peau, 2 c. à s. de persil et 2 de coriandre, curcuma, sel, poivre, 1 c. à s. de concentré ; environ 50 min à feu doux en remuant souvent."
+  },
+  {
+   "name": "Cooking with Alia, « White Hessoua (Oats or Barley Milk Soup) » (n° 690)",
+   "url": "https://www.cookingwithalia.com/690-white-hessoua-oats-milk-soup/",
+   "used_for": "Variante au lait : orge ou avoine cuite 15 min dans l'eau avec huile et sel, lait ajouté, puis 10 min à feu moyen-doux ; thym séché émietté au service."
+  },
+  {
+   "name": "Hespress FR, Zoubida Senoussi, « Par région, voici les traditions culinaires marocaines du ramadan », 16 avril 2021",
+   "url": "https://fr.hespress.com/198966-par-region-voici-les-traditions-culinaires-marocaines-du-ramadan.html",
+   "used_for": "Média marocain. La dchicha fait partie du ftour des provinces du Sud (Laâyoune-Sakia El Hamra) ; soupe d'orge au ftour à Taliouine ; tchicha (soupe de blé) à Ouarzazate, tchicha aussi à Oujda."
+  },
+  {
+   "name": "MWN Lifestyle, Majda Bouzaroita, « 3 Alternatives to Harira for Ftour », 14 mars 2025",
+   "url": "https://mwnlifestyle.com/2025/03/14/3-alternatives-to-harira-for-ftour/",
+   "used_for": "Appelle « Dchicha » la soupe d'orge à la tomate, proposée au ftour à la place de la harira, servie avec un filet d'huile d'olive et des herbes (source faible : recette générique, quantités non reprises)."
+  },
+  {
+   "name": "ANSES, « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Source officielle (France) : plats maison pas plus de 2 h à température ambiante, consommés dans les 3 jours, répartis en petites portions pour refroidir vite ; réchauffer couvert jusqu'à ce que la vapeur s'échappe."
+  },
+  {
+   "name": "USDA, Food Safety and Inspection Service, « Leftovers and Food Safety » (copie archivée du 3 novembre 2026)",
+   "url": "https://web.archive.org/web/20261103202835/https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+   "used_for": "Source officielle (États-Unis) : restes au réfrigérateur dans les 2 h ; 3 à 4 jours au réfrigérateur ; soupe répartie dans de petits récipients pour refroidir vite ; soupes réchauffées jusqu'à pleine ébullition."
+  },
+  {
+   "name": "Lalla Moulati, « من هاد اليوم بلاما تحيري فالعشا 7 انواع من الشوربات اللذيذة والمغذية وسهلة التحضير في دقائق … برعي عائلة » (3 avril 2018)",
+   "url": "https://www.lalamoulati.net/120906.html",
+   "used_for": "Contre-vérification : Site marocain. Parmi sept soupes pour le dîner, une « soupe de boulgour ou de dchicha » (حساء البرغل او الدشيشة) : tomate et oignon râpés, épices, eau bouillante, huile, tomate en boîte ; encore une dchicha à la tomate, sans lait (la céréale n'est pas précisée)."
+  },
+  {
+   "name": "Choumicha, rubriques « Soupes » et « Soupes et Harira » (copies archivées de novembre 2025 à janvier 2026)",
+   "url": "https://web.archive.org/web/20260115183250/https://www.choumicha.ma/c/soupes-et-harira.html",
+   "used_for": "Contre-vérification : Les soupes d'orge de ces rubriques sont la h'ssoua hamra (n° 113), la h'ssoua aux crevettes (n° 151), la soupe d'orge au thym (n° 1479) et la soupe d'orge et de millet (n° 1496) ; aucune n'est au lait (rubriques soupes, soupes-2, soupes-3, soupes-et-harira, soupes-et-harira-2 et soupes-et-harira-3 relues)."
+  },
+  {
+   "name": "FDA (Food and Drug Administration, États-Unis), « Selecting and Serving Fresh and Frozen Seafood Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+   "used_for": "Contre-vérification : La plupart des produits de la mer se cuisent à 145 °F (63 °C) à cœur ; sans thermomètre, les crevettes sont cuites quand leur chair devient ferme, nacrée et opaque (page lue le 7 novembre 2026)."
+  }
+ ],
+ "discrepancies": [
+  "Lait ou tomate : sur 12 recettes lues, 9 sont sans lait, dont 6 à la tomate (Choumicha n° 113 et 151, Taste of Maroc, Cooking with Alia n° 500, Lalla Moulati 2020, MWN Lifestyle) et 3 aux herbes (Choumicha n° 1479 et 1496, Lalla Moulati 2016) ; 3 sont au lait (Taste of Maroc, Lalla Moulati 2014, Cooking with Alia n° 690). Choumicha n'a aucune soupe d'orge au lait dans ses rubriques de soupes (copies archivées de 2025 et 2026). Quand la soupe s'appelle « dchicha », c'est toujours, dans les sources lues, une version sans lait (Lalla Moulati 2016 et 2020, et sa « soupe de boulgour ou de dchicha » à la tomate de 2018 ; MWN Lifestyle ; Taste of Maroc appelle « dchicha » la grosse orge de sa soupe à la tomate) ; les versions au lait s'appellent « h'ssoua » de belboula au lait (Lalla Moulati, Taste of Maroc) ou « hessoua blanche » (Cooking with Alia). Retenu : la version à la tomate et aux herbes ; le lait est en variante.",
+  "Viande : Choumicha (agneau, ou crevettes) et Taste of Maroc (bœuf ou agneau, « facultatif ») en mettent ; Cooking with Alia, Lalla Moulati (2016 et 2020), MWN Lifestyle et les soupes au thym de Choumicha n'en mettent pas. Retenu : sans viande ; la viande est en variante.",
+  "Orge par personne : 41,7 g chez Choumicha (n° 113 et 151), 47,5 g chez Taste of Maroc ; milieu 44,6 g. Retenu : 180 g pour 4 (45 g).",
+  "Eau, ramenée à 180 g d'orge : 2,16 l (Choumicha), 1,89 l (Taste of Maroc), 0,5 l (Cooking with Alia, soupe très épaisse) ; médiane 2,03 l. Retenu : 2 l, puis eau chaude si la soupe épaissit.",
+  "Huile, ramenée à 180 g d'orge : 57,6 ml (Choumicha), 57 ml (Taste of Maroc), 21 ml (Cooking with Alia) ; médiane 57 ml. Retenu : 4 c. à s. (60 ml).",
+  "Sel et poivre, ramenés à 180 g d'orge : Choumicha 0,72 et 0,36 c. à c. ; Taste of Maroc 1,42 et 0,95 c. à c. ; milieux 1,07 et 0,65. Retenu : 1 c. à c. de sel (à rectifier) et 1/2 c. à c. de poivre.",
+  "Épices : curcuma chez Taste of Maroc (facultatif, 0,95 c. à c. pour 180 g), Cooking with Alia (0,18) et Lalla Moulati (2016, « une cuillère ») ; milieu des deux mesures 0,56. Retenu : 1/2 c. à c. Gingembre : Taste of Maroc (1 c. à c.) et Lalla Moulati (« une cuillère », taille non précisée) ; quantité non confirmée, donc en variante. Cannelle et cumin : seulement MWN Lifestyle, écartés. Choumicha ne met que sel et poivre.",
+  "Concentré de tomate, ramené à 180 g d'orge : 0,36 c. à s. (Choumicha n° 151), 0,72 (Cooking with Alia), 1,89 (Taste of Maroc, facultatif) ; médiane 0,72 c. à s. Retenu : 2 c. à c. (0,67 c. à s.), facultatif comme chez Taste of Maroc.",
+  "Herbes : Taste of Maroc met 3 c. à s. de persil pour 190 g d'orge ; Cooking with Alia 2 c. à s. de persil et 2 de coriandre pour 250 g (2,9 c. à s. pour 180 g) ; Choumicha un bouquet de persil, ou de persil et coriandre. Retenu : 3 c. à s. de persil, ou moitié persil, moitié coriandre.",
+  "Moment où l'on verse l'orge : à l'ébullition (Choumicha n° 113 et 151 ; Lalla Moulati 2016 après les aromates), après 15 à 20 min de bouillon (Taste of Maroc, dont le bouillon cuit avec la viande), dès le début (Cooking with Alia). Retenu : à l'ébullition, puisqu'il n'y a pas de viande à cuire.",
+  "Durée de cuisson de l'orge : 15 min après l'avoir versée chez Taste of Maroc (45 min de cuisson en tout), 45 min de cuisson en tout chez Choumicha, environ 50 min chez Cooking with Alia, 45 à 60 min chez MWN Lifestyle ; 25 à 40 min pour les soupes d'orge blanches ou au lait (Choumicha n° 1479 et 1496, Lalla Moulati 2014, Taste of Maroc). Retenu : un minuteur de 30 min, puis goûter et prolonger si besoin (la grosse orge cuit plus longtemps, selon Taste of Maroc) ; 45 min de cuisson au total, comme Choumicha et Taste of Maroc.",
+  "Tomates : râpées chez Choumicha ; râpées sans peau chez Cooking with Alia ; sans peau ni pépins chez Taste of Maroc. Retenu : râpées, peau jetée.",
+  "Feu pour l'oignon : moyen chez Taste of Maroc, doux chez Choumicha. Retenu : moyen, en remuant, jusqu'à ce que l'oignon soit translucide (les deux sources).",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Aucune source ne dit clairement quelle version est la plus courante au Maroc : le choix vient du décompte des recettes lues et des noms qu'elles emploient. Le quota de recherche web était épuisé : je n'ai pas pu chercher d'article de presse marocaine sur ce point précis.",
+  "Gingembre : quantité donnée par une seule source (Taste of Maroc), donc laissé en variante.",
+  "MWN Lifestyle (2025) met de la cannelle et du cumin dans la dchicha, ce que les autres sources ne font pas ; le même article décrit la « hessoua » comme une soupe de pois chiches, ce qu'aucune autre source ne dit. Source jugée faible : seulement citée pour le nom et le service.",
+  "Hespress (2021) cite la dchicha au ftour des provinces du Sud, sans décrire sa préparation : on ne sait pas si elle y est à la tomate ou au lait.",
+  "Saison : aucune source lue ne relie clairement la dchicha à l'hiver (une page Lalla Moulati de 2019 sur la belboula aux herbes parle du froid dans son titre, mais son texte était vide).",
+  "Taille des grains : « dchicha » pour la grosse orge (Taste of Maroc), « belboula » pour la semoule d'orge, moyenne chez Choumicha ; aucune source ne donne de mesure.",
+  "Cooking with Alia n° 500 : le nombre de personnes n'est pas indiqué sur la page.",
+  "Version au lait de Taste of Maroc : quantités en tasses, sans conversion métrique sur la page ; non reprises dans la variante.",
+  "Femmes du Maroc et Bladi.net : aucune recette de soupe d'orge trouvée (recherche interne de Femmes du Maroc, liste des soupes de Bladi.net)."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Soupes",
+ "img_alt": "Soupe d'orge à la tomate dans la marmite",
+ "img": "img/dchicha.jpg",
+ "photo": {
+  "author": "Noureddine0101",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tchicha.jpg",
   "modified": "réduite"
  }
 });
@@ -2248,7 +4822,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Râpe, hache et coupe",
    "text": "Râpe {{oignon:full}}. Hache très finement {{celeri:full}}, le persil ({{persil}}) et la coriandre ({{coriandre}}) en retirant les grosses tiges, et mets de côté un peu de coriandre hachée ({{coriandre-fin}}) pour la fin. Coupe la viande ({{viande}}) en dés d'environ 1 cm.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Râpe, hache et coupe » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",
@@ -2647,6 +5229,14 @@ window.RECETTES.push({
     "min": 10,
     "label": "Pétrissage",
     "done": "Pâte lisse, souple et élastique ? Passe aux boules. Sinon, pétris encore jusqu'à 5 minutes."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétrir 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
    }
   },
   {
@@ -2701,7 +5291,15 @@ window.RECETTES.push({
    "phase": "Cuisson",
    "title": "Ou au four du quartier",
    "text": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/ferran-marrakech.jpg",
+    "alt": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
+    "caption": "Le four du quartier, à Marrakech",
+    "w": 1000,
+    "h": 666,
+    "credit": "Photo de l'étape « Ou au four du quartier » : Bernhard Holub, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
   },
   {
    "phase": "Service",
@@ -2967,6 +5565,2108 @@ window.RECETTES.push({
  }
 });
 
+/* Recette : Lentilles à la marocaine, à l'agneau et aux légumes. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "lentilles",
+ "title": "Lentilles à la marocaine, à l'agneau et aux légumes",
+ "darija": "Adess bel lham (l'3des)",
+ "arabic": "العدس باللحم",
+ "tagline": "Les lentilles, plat d'hiver des familles marocaines, ici mijotées avec de l'agneau, des carottes et des pommes de terre, dans une sauce tomate au cumin et au paprika, à saucer avec du pain.",
+ "category": "Plat",
+ "occasion": "Plat familial du quotidien, surtout en hiver ; servi en plat principal, avec du pain (Morocco World News 2019 et 2020 ; blog Mamatkamal)",
+ "region": "Tout le Maroc (Morocco World News 2019 : plat apprécié dans tout le pays en hiver)",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 110,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grande cocotte ou marmite à fond épais, avec couvercle",
+  "Passoire",
+  "Râpe",
+  "Une planche réservée à la viande crue, une autre pour les légumes et les herbes",
+  "Couteau et éplucheur",
+  "Bol d'eau froide, pour les pommes de terre",
+  "Cuillère en bois"
+ ],
+ "ingredients": [
+  {
+   "group": "Viande",
+   "items": [
+    {
+     "id": "agneau",
+     "q": 300,
+     "u": "g",
+     "name": "d'agneau désossé (épaule ou collier)",
+     "note": "halal ; en morceaux d'environ 3 cm, sans l'excès de gras",
+     "canon": "agneau"
+    },
+    {
+     "id": "huile",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    }
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "gros oignon",
+     "pl": "gros oignons",
+     "note": "à râper",
+     "canon": "oignon"
+    },
+    {
+     "id": "ail",
+     "q": 3,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à hacher finement",
+     "canon": "ail"
+    },
+    {
+     "id": "tomates",
+     "q": 2,
+     "u": "",
+     "name": "tomate moyenne bien mûre",
+     "pl": "tomates moyennes bien mûres",
+     "note": "chair râpée, sans la peau",
+     "canon": "tomate"
+    },
+    {
+     "id": "concentre",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de concentré de tomate",
+     "canon": "concentre-tomate"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "poivre",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à rectifier en fin de cuisson",
+     "canon": "sel"
+    },
+    {
+     "id": "cayenne",
+     "q": null,
+     "u": "",
+     "name": "une pincée de piment de Cayenne",
+     "note": "facultatif",
+     "canon": "piment-cayenne"
+    },
+    {
+     "id": "persil",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "eau",
+     "q": 1,
+     "u": "l",
+     "name": "d'eau",
+     "canon": "eau"
+    },
+    {
+     "id": "eau-bouillante",
+     "q": null,
+     "u": "",
+     "name": "un peu d'eau bouillante",
+     "note": "seulement si la sauce réduit trop",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Lentilles et légumes",
+   "items": [
+    {
+     "id": "lentilles",
+     "q": 250,
+     "u": "g",
+     "name": "de lentilles vertes ou brunes",
+     "note": "sèches ; pas de lentilles corail",
+     "canon": "lentilles"
+    },
+    {
+     "id": "carottes",
+     "q": 2,
+     "u": "",
+     "name": "carotte moyenne",
+     "pl": "carottes moyennes",
+     "canon": "carotte"
+    },
+    {
+     "id": "pommes-de-terre",
+     "q": 2,
+     "u": "",
+     "name": "petite pomme de terre",
+     "pl": "petites pommes de terre",
+     "canon": "pomme-de-terre"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "citron",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "facultatif",
+     "canon": "citron"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "khobz (pain marocain)",
+     "note": "pour saucer",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Trie et lave les lentilles",
+   "text": "Trie {{lentilles}} de lentilles pour retirer les petits cailloux. Lave-les dans une passoire et laisse-les égoutter.",
+   "timer": null,
+   "tip": "Pas besoin de trempage : les recettes avec viande de Choumicha et de My Moroccan Food mettent les lentilles sèches. Si tu les as fait tremper, elles cuiront plus vite : surveille-les. Sans trempage, les lentilles brunes du Maroc peuvent demander bien plus de 40 minutes (1 h 30 à 2 h à la marmite selon le blog Mamatkamal) : goûte-les avant d'ajouter les pommes de terre."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe l'agneau",
+   "text": "Sur une planche réservée à la viande crue, retire l'excès de gras de {{agneau}} d'agneau et coupe-le en morceaux d'environ 3 cm.",
+   "timer": null,
+   "tip": "Garde une autre planche pour les légumes et les herbes (Anses)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare oignon, tomates et ail",
+   "text": "Râpe l'oignon ({{oignon:full}}). Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Hache finement l'ail ({{ail:full}}).",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Prépare oignon, tomates et ail » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache les herbes",
+   "text": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Épluche les légumes",
+   "text": "Épluche les carottes ({{carottes:full}}) et coupe-les en morceaux réguliers. Épluche les pommes de terre ({{pommes-de-terre:full}}), coupe-les en gros morceaux et garde-les dans un bol d'eau froide jusqu'au moment de les cuire.",
+   "timer": null,
+   "tip": "Ne coupe pas les pommes de terre trop petites : elles se déferaient dans la sauce (Cooking With Alia)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais dorer l'agneau",
+   "text": "Dans la cocotte, chauffe {{huile}} d'huile d'olive à feu moyen. Fais dorer les morceaux d'agneau 5 à 10 minutes, en les retournant pour qu'ils se colorent de tous les côtés.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute aromates et épices",
+   "text": "Ajoute l'oignon râpé, l'ail, les tomates râpées et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et, si tu aimes, {{cayenne}}. Mélange et laisse revenir 5 minutes en remuant.",
+   "timer": {
+    "min": 5,
+    "label": "Aromates et épices",
+    "done": "Verse l'eau et porte à ébullition."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais mijoter la viande",
+   "text": "Verse {{eau}} d'eau et porte à ébullition. Couvre, baisse le feu et laisse mijoter 45 minutes, jusqu'à ce que la viande commence à s'attendrir sans être encore fondante.",
+   "timer": {
+    "min": 45,
+    "label": "Agneau à mi-cuisson",
+    "done": "La viande commence à s'attendrir ? Ajoute les lentilles. Encore ferme : laisse-la jusqu'à 15 minutes de plus."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute lentilles et carottes",
+   "text": "Ajoute les lentilles égouttées et les carottes, puis mélange. Le liquide doit couvrir les lentilles : sinon, ajoute {{eau-bouillante}}. Couvre et laisse mijoter 20 minutes à feu doux, en remuant de temps en temps, puis goûte les lentilles : elles doivent commencer à s'attendrir avant que tu ajoutes les pommes de terre.",
+   "timer": {
+    "min": 20,
+    "label": "Lentilles et carottes",
+    "done": "Goûte quelques lentilles : elles doivent commencer à s'attendrir. Si elles sont encore dures (les lentilles brunes peuvent être bien plus longues à cuire), prolonge la cuisson à couvert en goûtant régulièrement, et n'ajoute les pommes de terre qu'à ce moment-là."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les pommes de terre",
+   "text": "Égoutte les pommes de terre et enfonce-les dans la sauce. Couvre et laisse cuire 20 minutes, jusqu'à ce que les pommes de terre, les lentilles et la viande soient tendres. Remue doucement de temps en temps et ajoute un peu d'eau bouillante si la sauce attache.",
+   "timer": {
+    "min": 20,
+    "label": "Pommes de terre",
+    "done": "Pique une pomme de terre : elle doit être tendre. Sinon, prolonge de 5 minutes."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajuste sauce et assaisonnement",
+   "text": "La sauce doit être onctueuse, ni sèche ni trop liquide. Si elle est trop liquide, laisse-la réduire quelques minutes sans couvercle. Goûte et rectifie le sel, le poivre et le cumin.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers bien chaud",
+   "text": "Sers bien chaud, avec du {{khobz}} pour saucer et des quartiers de citron ({{citron:full}}) à presser dans l'assiette. Ceux qui aiment le piquant ajoutent un peu de harissa.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Range les restes",
+   "text": "Ne laisse pas le plat plus de 2 heures à température ambiante : mets les restes au réfrigérateur dans une boîte fermée et mange-les dans les 3 jours. S'il y en a plus d'un litre, répartis-les en petites portions pour qu'ils refroidissent vite. Réchauffe à couvert jusqu'à ce que la vapeur s'échappe, avec un peu d'eau chaude si c'est trop épais.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Fais d'abord cuire l'agneau seul dans la sauce : les lentilles cuisent bien plus vite que la viande. Ajoute-les quand les morceaux commencent à s'attendrir, sans être encore fondants.",
+   "source": "My Moroccan Food (viande « à mi-cuisson », environ 1 heure, avant les lentilles) ; Bladi (viande 40 minutes avant les lentilles) ; Choumicha (viande séchée 30 à 40 minutes avant les lentilles et les carottes)"
+  },
+  {
+   "text": "Les carottes cuisent avec les lentilles ; les pommes de terre n'arrivent que 20 minutes avant la fin, sinon elles se défont.",
+   "source": "Choumicha (carottes avec les lentilles ; patate douce et courge ajoutées pour les 20 à 25 dernières minutes) ; My Moroccan Food et Cooking With Alia (pommes de terre cuites 15 à 20 minutes dans la sauce)"
+  },
+  {
+   "text": "Coupe les pommes de terre en gros morceaux, jamais trop petits, et garde-les dans l'eau froide en attendant de les cuire.",
+   "source": "Cooking With Alia (tajine de bœuf aux pommes de terre, n° 201) ; Bladi (légumes « en gros morceaux »)"
+  },
+  {
+   "text": "Râpe l'oignon et les tomates. Pour la tomate, râpe la chair et jette la peau.",
+   "source": "Morocco World News 2019 (oignon et tomates râpés) ; Cooking With Alia n° 462 (chair râpée, peau jetée) ; My Moroccan Food (tomates râpées) ; blog Mamatkamal"
+  },
+  {
+   "text": "Trie toujours les lentilles avant de les laver : il reste parfois de petits cailloux.",
+   "source": "Bladi ; blog Mamatkamal"
+  },
+  {
+   "text": "Prends des lentilles vertes ou brunes. Les lentilles corail tournent en bouillie dans ce plat.",
+   "source": "MarocMama (la recette « ne marche pas » avec des lentilles corail) ; lentilles vertes chez My Moroccan Food, brunes chez Cooking With Alia et Morocco World News"
+  },
+  {
+   "text": "Il doit toujours rester de la sauce. Si elle réduit trop avant la fin, ajoute un peu d'eau bouillante, pas de l'eau froide.",
+   "source": "Cooking With Alia n° 094 ; Choumicha (« un peu d'eau bouillante si nécessaire ») ; blog Mamatkamal (eau chaude)"
+  },
+  {
+   "text": "À la fin, la sauce doit être onctueuse, pas aqueuse : au besoin, fais-la réduire quelques minutes à découvert.",
+   "source": "Blog Mamatkamal (sauce « pas trop liquide ») ; Choumicha (laisser réduire la sauce pour un jus onctueux)"
+  },
+  {
+   "text": "Goûte en fin de cuisson et rectifie le sel, le poivre et le cumin.",
+   "source": "Cooking With Alia n° 094 et n° 462 ; My Moroccan Food (« sel, ou plus selon le goût »)"
+  },
+  {
+   "text": "Sers avec du citron à presser dans l'assiette.",
+   "source": "Bladi (jus de citron au service) ; blog Mamatkamal (citron en fin de cuisson) ; My Moroccan Food (quartiers de citron, version sans viande)"
+  },
+  {
+   "text": "Le trempage n'est pas obligatoire : les versions avec viande mettent les lentilles sèches. Trempées (1 heure à une nuit), elles cuisent plus vite.",
+   "source": "Choumicha et My Moroccan Food (sans trempage) ; Morocco World News 2019 et 2020, Cooking With Alia n° 094 et n° 462 (avec trempage)"
+  },
+  {
+   "text": "Au Maroc, on mange l'adess avec du pain : on prend les lentilles avec un morceau de khobz, ou à la cuillère.",
+   "source": "Morocco World News 2020 ; Morocco World News 2019 ; My Moroccan Food"
+  },
+  {
+   "text": "Coupe la viande crue sur une planche à part, et ne la réutilise pas pour les herbes ou les légumes.",
+   "source": "Anses (une planche pour la viande crue, une autre pour les produits cuits et les légumes propres)"
+  }
+ ],
+ "mistakes": [
+  "Mettre les lentilles avec l'agneau cru : la viande doit d'abord cuire seule jusqu'à commencer à s'attendrir, car elle cuit bien plus longtemps que les lentilles (My Moroccan Food : environ 1 heure, puis 40 minutes pour les lentilles ; Choumicha et Bladi cuisent aussi la viande d'abord).",
+  "Ajouter les pommes de terre en même temps que les lentilles, ou les couper trop petites : elles se défont (Cooking With Alia ; Choumicha et My Moroccan Food ajoutent ces légumes en fin de cuisson).",
+  "Prendre des lentilles corail (MarocMama).",
+  "Laisser la sauce sécher et attacher au fond (Cooking With Alia ; Choumicha).",
+  "Rallonger avec de l'eau froide : Choumicha ajoute de l'eau bouillante, le blog Mamatkamal de l'eau chaude.",
+  "Servir une sauce trop liquide (blog Mamatkamal ; Choumicha la fait réduire).",
+  "Couper l'agneau cru et les herbes sur la même planche (Anses).",
+  "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses)."
+ ],
+ "serving": "Bien chaud, en plat principal, avec du khobz pour saucer, ou à la cuillère (Morocco World News 2019 et 2020 ; My Moroccan Food ; Cooking With Alia). À côté : des quartiers de citron (Bladi ; blog Mamatkamal ; My Moroccan Food) et, pour ceux qui aiment, de la harissa ou du piment fort (My Moroccan Food ; blog Mamatkamal).",
+ "variants": [
+  "Au bœuf : même méthode avec des morceaux de bœuf halal (blog Mamatkamal : 200 g de bœuf pour 350 g de lentilles ; Bladi met 300 g de « viande rouge » pour 300 g de lentilles).",
+  "Sans viande (Morocco World News 2019 : seuls certains y ajoutent de petits morceaux de viande) : oignon, tomate, ail, paprika, cumin, herbes et huile d'olive ; 35 à 40 minutes à la casserole (Cooking With Alia n° 094 et n° 462 ; My Moroccan Food), ou 25 à 35 minutes à l'autocuiseur (Choumicha ; Morocco World News 2019 et 2020).",
+  "À la viande séchée (gueddid) et aux carottes : Choumicha dessale le gueddid 15 minutes dans l'eau, le cuit 30 à 40 minutes, puis ajoute lentilles et carottes. Avec du khlii (viande confite), elle l'ajoute seulement en fin de cuisson.",
+  "Au gueddid, à la patate douce et à la courge : Choumicha ajoute ces légumes après 30 minutes de cuisson des lentilles, puis cuit encore 20 à 25 minutes.",
+  "Au smen : Bladi parfume la viande au smen et à la cannelle, puis arrose le plat d'un mélange chaud de persil, de jus de citron et de smen.",
+  "À la courge et aux échalotes : My Moroccan Food remplace l'oignon par des échalotes et ajoute de la courge en fin de cuisson.",
+  "Avec un peu de riz en fin de cuisson, pour une version plus proche de la soupe (Bladi).",
+  "Avec du vinaigre blanc au service (Choumicha), ou des sardines grillées à côté (Morocco World News 2020).",
+  "Plus épicé : certaines familles ajoutent du gingembre (Morocco World News 2019 et 2020) ou du curcuma (Cooking With Alia n° 094 ; Morocco World News 2020)."
+ ],
+ "sources": [
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Lentil Stew with Lamb, Pumpkin and Shallots », 10 octobre 2017",
+   "url": "https://www.mymoroccanfood.com/home/lentil-stew-with-lamb-pumpkin-and-shallots",
+   "used_for": "Version à l'agneau : 300 g d'agneau désossé (épaule, collier) en morceaux de 3 cm, dégraissé, pour 250 g de lentilles vertes (4 à 6 personnes) ; viande dorée 5 à 10 minutes dans 4 c. à s. d'huile d'olive, puis mijotée environ 1 heure jusqu'à « mi-cuisson » (elle commence à s'attendrir) ; lentilles ajoutées ensuite avec de l'eau à hauteur, environ 40 minutes ; courge en fin de cuisson ; tomates râpées, paprika, cumin, sel, pincée de Cayenne facultative ; ajouter de l'eau si tout s'évapore ; service avec pain, coriandre et harissa."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Vegan Lentil Stew » (fiche « Vegetarian Lentil Stew »), 5 novembre 2015",
+   "url": "https://www.mymoroccanfood.com/home/vegetarian-lentil-stew",
+   "used_for": "Version sans viande, plat d'enfance de l'autrice : lentilles vertes non trempées, 35 à 40 minutes à petit feu ; eau à ajouter si elle s'évapore ; coriandre et quartiers de citron au service."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Lamb, Potatoes and Olives Tagine », 22 mars 2017",
+   "url": "https://www.mymoroccanfood.com/home/lamb-potatoes-and-olives-tagine",
+   "used_for": "Pommes de terre ajoutées quand la viande est presque cuite, enfoncées dans le liquide, environ 20 minutes à couvert."
+  },
+  {
+   "name": "Choumicha Chafay, « Lentilles à la viande séchée et aux carottes », choumicha.ma (site hors ligne, copie archivée du 8 mai 2026)",
+   "url": "https://web.archive.org/web/20260508112657/https://www.choumicha.ma/recette/1001-lentilles-a-la-viande-sechee-et-aux-carottes.html",
+   "used_for": "6 personnes : 350 g de lentilles, 2 carottes grattées « en morceaux réguliers », 3 gousses d'ail, 1 tomate, 1 c. à thé de concentré, 1 c. à thé de cumin et de piment doux, huile d'olive et de tournesol, persil et coriandre, 1,5 l d'eau ; viande cuite 30 à 40 minutes à couvert et à feu doux avant d'ajouter lentilles et carottes ; eau bouillante si nécessaire ; pas de trempage ; khlii ajouté en fin de cuisson."
+  },
+  {
+   "name": "Choumicha Chafay, « Lentilles à la viande séchée, patate douce et citrouille », choumicha.ma (copie archivée du 20 mai 2026)",
+   "url": "https://web.archive.org/web/20260520222051/https://www.choumicha.ma/recette/1039-lentilles-a-la-viande-sechee-patate-douce-et-citrouille.html",
+   "used_for": "Légumes (patate douce, courge) ajoutés après 30 minutes de cuisson des lentilles, puis 20 à 25 minutes ; 350 g de lentilles pour 6 personnes ; 4 c. à s. d'huile d'olive ; cumin et paprika."
+  },
+  {
+   "name": "Choumicha Chafay, « Lentilles et aiguillettes de poulet », choumicha.ma (copie archivée du 21 janvier 2013)",
+   "url": "https://web.archive.org/web/20130121133753/http://www.choumicha.ma/recettes/details/342/lentilles-et-aiguillettes-de-poulet.html",
+   "used_for": "Lentilles pour 4 personnes : 350 g, 1 l d'eau, 3 gousses d'ail, cumin, piment doux, sel ; 25 à 30 minutes à l'autocuiseur ; sauce réduite jusqu'à un jus « onctueux » ; lentilles servies avec du vinaigre blanc."
+  },
+  {
+   "name": "Cooking With Alia, « 094 – Moroccan Lentils »",
+   "url": "https://www.cookingwithalia.com/moroccan-lentils/",
+   "used_for": "Version sans viande : lentilles trempées quelques heures ; oignon, tomate, concentré, ail et épices revenus 5 minutes ; 30 + 10 minutes de cuisson ; « il doit toujours rester de la sauce » ; goûter et rectifier sel, poivre et cumin ; 1 c. à s. de persil et 1 c. à s. de coriandre."
+  },
+  {
+   "name": "Cooking With Alia, « 462 – Moroccan Lentils Soup / العدس على الطريقة المغربية »",
+   "url": "https://www.cookingwithalia.com/462-moroccan-lentils-soup/",
+   "used_for": "250 g de lentilles brunes pour 4, trempées une nuit ; tomate coupée, chair râpée et peau jetée ; 1 l d'eau bouillante ; 10 + 30 minutes ; servi chaud avec du pain."
+  },
+  {
+   "name": "Cooking With Alia, « 201 – Moroccan Beef Tajine with Potatoes Recipe »",
+   "url": "https://www.cookingwithalia.com/moroccan-beef-tajine-with-potatoes/",
+   "used_for": "Viande en morceaux cuite 45 minutes à 1 heure ; pommes de terre en morceaux moyens (trop petits, ils tournent en purée), gardées dans l'eau froide, cuites 15 à 20 minutes dans la sauce."
+  },
+  {
+   "name": "Morocco World News, Layla Dahamou, « How to Make Moroccan Lentils », 3 novembre 2019",
+   "url": "https://www.moroccoworldnews.com/2019/11/285866/how-to-make-moroccan-lentils/",
+   "used_for": "Plat apprécié dans tout le pays en hiver ; certains ajoutent de petits morceaux de viande ; 250 g de lentilles brunes trempées ; oignon et tomates râpés revenus 5 minutes ; 1 c. à c. de cumin, de paprika et de sel, ½ c. à c. de gingembre et de poivre ; ¼ de tasse d'huile d'olive ; 1 l d'eau, 35 minutes à l'autocuiseur ; servi chaud avec du pain."
+  },
+  {
+   "name": "Morocco World News, Safaa Kasraoui, « Easy Recipe for Cooking Lentils the Moroccan Way », 11 octobre 2020",
+   "url": "https://www.moroccoworldnews.com/2020/10/65516/easy-recipe-for-cooking-lentils-the-moroccan-way/",
+   "used_for": "Plat principal de nombreuses familles marocaines ; trempage d'une nuit (astuce de sa mère) ; viande blanche ou rouge en option ; gingembre et curcuma ; 30 minutes à l'autocuiseur ; mangé avec du pain ou à la cuillère ; sardines grillées à côté."
+  },
+  {
+   "name": "Bladi.net, recettes de cuisine marocaine, « Soupe au lentilles » (non datée)",
+   "url": "https://www.bladi.net/recettes/soupe-au-lentilles.html",
+   "used_for": "300 g de viande rouge en gros dés pour 300 g de lentilles ; viande revenue 10 minutes avec oignon râpé, smen, sel, poivre et cannelle, puis 30 minutes dans l'eau avant les lentilles ; lentilles triées (petits cailloux) et lavées ; finition persil, citron et smen ; jus de citron au service."
+  },
+  {
+   "name": "Bladi.net, recettes de cuisine marocaine, « Soupe aux lentilles » (non datée)",
+   "url": "https://www.bladi.net/recettes/soupe-aux-lentilles.html",
+   "used_for": "Veau et os à moelle, lentilles, 1 pomme de terre et 1 carotte coupées en dés et ajoutées après les lentilles, cuites jusqu'à ce que les légumes soient tendres."
+  },
+  {
+   "name": "Bladi.net, recettes de cuisine marocaine, « Tajine aux pommes de terre et carottes » (non datée)",
+   "url": "https://www.bladi.net/recettes/tajine-aux-pommes-de-terre-et-carottes.html",
+   "used_for": "Pommes de terre et carottes coupées « en gros morceaux », ajoutées après 30 minutes de cuisson de l'agneau en cocotte-minute, puis une quinzaine de minutes à couvert."
+  },
+  {
+   "name": "Blog When Food Meets Culture (Mamatkamal), « العدس / Lentils with beef / Lentilles au boeuf! », janvier 2010",
+   "url": "https://moroccancuisinemarocaine.blogspot.com/2010/01/moroccan-lentils-la3dass-with-beef.html",
+   "used_for": "« La3dass », plat d'hiver marocain ; 200 g de bœuf pour 350 g de lentilles brunes ; trier et laver les lentilles ; viande dorée, oignon râpé, ail haché, tomates râpées ; eau chaude au besoin ; sauce épaisse « pas trop liquide » ; citron et piments forts en fin de cuisson ; servi avec du pain ; lentilles brunes du Maroc : 1 h 30 à 2 h à la marmite, 35 à 40 minutes à l'autocuiseur."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki), « Moroccan Lentil Instant Pot Recipe »",
+   "url": "https://marocmama.com/moroccan-lentil-instant-pot-recipe/",
+   "used_for": "La recette d'origine n'a pas de légumes (les carottes sont un ajout) ; lentilles brunes, la recette « ne marche pas » avec des lentilles corail ; trempage facultatif de 2 heures à une nuit."
+  },
+  {
+   "name": "Anses, « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Règles officielles : plat cuisiné maison au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, en petites portions au-delà d'un litre ; restes en boîte fermée ; réchauffer à couvert jusqu'à ce que la vapeur s'échappe ; une planche pour la viande crue, une autre pour les légumes ; laver les légumes à l'eau potable."
+  },
+  {
+   "name": "Choumicha Chafay, choumicha.ma, « Les recettes avec pour mot clé lentilles » (copie archivée du 14 octobre 2025), et page du mot-clé « Lentille » (copie du 18 janvier 2021)",
+   "url": "https://web.archive.org/web/20251014072733/https://www.choumicha.ma/recipes/lentilles.html",
+   "used_for": "Contre-vérification : Le site de Choumicha ne classe que cinq recettes sous « lentilles » : lentilles à la viande séchée et aux carottes, lentilles à la viande séchée, patate douce et citrouille, salade de lentilles et œufs pochés, soupe de lentilles au saucisson sec de bœuf, velouté de lentilles au khliâ ; la page « Lentille » n'en ajoute aucune. Relues : la soupe au saucisson et le velouté au khliâ n'ont ni agneau ni pommes de terre (les carottes du velouté sont dans des mini-briouates servies à part) ; la salade est aux œufs pochés. Aucune ne réunit agneau, pommes de terre et carottes : la recette de l'appli est bien une reconstitution, comme l'écrit l'auteur."
+  }
+ ],
+ "discrepancies": [
+  "Recette reconstituée : aucune source lue ne donne exactement « agneau + lentilles + pommes de terre + carottes ». La méthode assemble My Moroccan Food (agneau puis lentilles), Choumicha (carottes cuites avec les lentilles, patate douce ajoutée en fin de cuisson), Bladi (viande, lentilles, pomme de terre et carotte) et My Moroccan Food et Cooking With Alia (temps de cuisson des pommes de terre).",
+  "Quantité d'agneau : 300 g chez My Moroccan Food (pour 250 g de lentilles) et 300 g de « viande rouge » chez Bladi (pour 300 g) ; 200 g de bœuf pour 350 g chez Mamatkamal. Ramené à 250 g de lentilles : de 143 à 300 g (médiane 250 g). Retenu : 300 g, la valeur écrite par deux sources ; tu peux descendre à 250 g.",
+  "Cuisson de la viande avant les lentilles : 10 + 30 minutes chez Bladi, 5 à 10 minutes puis environ 1 heure chez My Moroccan Food, 30 à 40 minutes chez Choumicha (viande séchée), 45 minutes à 1 heure chez Cooking With Alia (tajine de bœuf). Retenu : dorer 5 à 10 minutes, 5 minutes avec les aromates, puis 45 minutes à couvert, avec le repère de My Moroccan Food (la viande commence à s'attendrir).",
+  "Cuisson des lentilles : environ 40 minutes chez My Moroccan Food (lentilles vertes, sans trempage) et chez Cooking With Alia (lentilles trempées), 35 à 40 chez My Moroccan Food (sans viande), 30 puis 20 à 25 minutes chez Choumicha (sans trempage), 10 minutes de blanchiment puis 30 minutes chez Bladi ; le blog Mamatkamal compte 1 h 30 à 2 h pour les lentilles brunes du Maroc à la marmite, et Morocco World News 2020 rappelle que le temps dépend des lentilles. Retenu : environ 40 minutes, comme la version à l'agneau de My Moroccan Food (lentilles vertes), avec un contrôle des lentilles avant d'ajouter les pommes de terre.",
+  "Moment des pommes de terre : 20 minutes chez My Moroccan Food, 15 à 20 chez Cooking With Alia, une quinzaine chez Bladi (en cocotte-minute), 20 à 25 pour la patate douce chez Choumicha. Retenu : 20 minutes (médiane arrondie). Elles entrent donc 20 minutes après les lentilles (40 − 20), ou plus tard si les lentilles sont encore dures : ce « 20 minutes » est un calcul, pas une valeur lue dans une source.",
+  "Quantité de légumes : Choumicha met 2 carottes pour 350 g de lentilles (soit 1,4 pour 250 g) ; Bladi 1 pomme de terre et 1 carotte pour un verre de lentilles ; Choumicha 400 g de patate douce et de courge pour 350 g, My Moroccan Food 400 g de courge pour 250 g. Retenu : 2 carottes (le chiffre de Choumicha) et 2 petites pommes de terre, un peu au-dessus des sources pour la version « aux légumes » demandée.",
+  "Trempage des lentilles : oui chez Morocco World News (1 heure à une nuit), Cooking With Alia (quelques heures, une nuit) et MarocMama (facultatif) ; non chez Choumicha, My Moroccan Food et Mamatkamal ; Bladi les blanchit 10 minutes. Retenu : sans trempage, comme les versions avec viande.",
+  "Eau : environ 1 l pour 250 g de lentilles chez Choumicha (1,5 l pour 350 g), Cooking With Alia n° 462 et Morocco World News 2019 ; My Moroccan Food 500 à 550 ml en deux fois ; Mamatkamal très peu, complété au besoin. Retenu : 1 l, plus de l'eau bouillante si besoin, puis réduction si la sauce est trop liquide.",
+  "Cumin : 1 c. à c. chez Choumicha (pour 350 g), My Moroccan Food, Morocco World News 2019 et Mamatkamal ; ½ chez Cooking With Alia. Ramené à 250 g, la médiane est de ¾ c. à c. Retenu : 1 c. à c. (valeur majoritaire, celle de la version à l'agneau) ; réduis à ¾ si tu le veux plus discret.",
+  "Poivre : ¼ c. à c. chez Cooking With Alia et Bladi, ½ chez Morocco World News 2019 et 2020 (médiane ramenée à 250 g : 0,37). Retenu : ¼ c. à c., à rectifier en fin de cuisson.",
+  "Huile d'olive : 4 c. à s. chez My Moroccan Food (agneau), Morocco World News 2019, Choumicha (patate douce) et Mamatkamal ; 2 à 3 chez Cooking With Alia et Choumicha (poulet), 1 seule chez Morocco World News 2020 (avec 2 c. à s. d'huile de cuisson). Retenu : 4 c. à s., la quantité de la version à l'agneau.",
+  "Tomates : 1 chez Choumicha, Cooking With Alia n° 462 et Morocco World News 2020 ; 2 chez My Moroccan Food et Morocco World News 2019 ; 4 à 5 chez Mamatkamal (médiane ramenée à 250 g : 1,5). Retenu : 2 tomates moyennes.",
+  "Gingembre et curcuma : seulement chez Morocco World News, Cooking With Alia et MarocMama (1 c. à c. de curcuma) ; absents chez Choumicha, My Moroccan Food, Mamatkamal et Bladi. Non retenus dans la recette, cités en variante.",
+  "Herbes : au début avec la sauce (Morocco World News 2019, Cooking With Alia n° 462, Mamatkamal, Choumicha avec les lentilles) ou 10 minutes avant la fin (Cooking With Alia n° 094). Retenu : au début, comme la majorité.",
+  "Sel : au début chez My Moroccan Food, Cooking With Alia, Choumicha et Morocco World News ; Mamatkamal conseille de ne mettre ni citron ni trop de sel pendant la cuisson des lentilles, et de saler à la fin. Retenu : au début, puis rectifié en fin de cuisson.",
+  "Conservation : la règle de l'Anses (2 heures, 3 jours) est retenue.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Version à l'agneau à l'autocuiseur : aucune source ne donne de temps, elle n'est donc pas proposée.",
+  "Poids exact d'une « petite pomme de terre » ou d'une « carotte moyenne » : non vérifié ; les quantités restent à la pièce.",
+  "Durée de conservation au congélateur : les pages officielles USDA FSIS et FoodSafety.gov refusent l'accès (erreur 403, non contournée) ; aucune durée n'est donnée.",
+  "Lalla Moulati publie une astuce pour que les lentilles et la loubia « ne fassent pas mal au ventre » : c'est une affirmation de santé sans source officielle, elle n'est pas reprise.",
+  "Recherches : Lalla Moulati (seulement des astuces, aucune recette d'adess à la viande), Femmes du Maroc (aucune recette de lentilles mijotées), Le360 et Hespress (rien trouvé avant que la limite de recherche web, partagée entre les agents, soit atteinte). Ces sites n'ont pas pu être fouillés davantage.",
+  "Le blog Du bocal à l'assiette (lentilles marocaines à la viande) a été écarté : sa liste d'ingrédients est incohérente (carottes en double)."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "pairs": [
+  "khobz"
+ ],
+ "img_alt": "Lentilles aux pommes de terre et aux carottes dans un plat décoré, photographiées au Maroc",
+ "img": "img/lentilles.jpg",
+ "photo": {
+  "author": "Lucyin",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Plat_lintiles.JPG",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Loubia, haricots blancs à la marocaine. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "loubia",
+ "title": "Loubia, haricots blancs à la marocaine",
+ "darija": "Loubia",
+ "arabic": "لوبيا",
+ "tagline": "Des haricots blancs fondants, mijotés dans une sauce tomate généreuse à l'ail, au cumin et au paprika : le plat réconfortant de tous les jours, à saucer avec du pain.",
+ "category": "Plat",
+ "occasion": "Plat du quotidien, en plat principal ou en accompagnement (Taste of Maroc ; Morocco World News 2023) ; on le mange aussi au petit-déjeuner ou au déjeuner, dans les petites gargotes (MarocMama)",
+ "region": "Tout le Maroc (plat très courant selon Taste of Maroc et MarocMama)",
+ "servings": 6,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 15,
+  "cook": 100,
+  "rest": 480,
+  "rest_label": "Trempage"
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grand saladier, pour le trempage",
+  "Passoire",
+  "Grande cocotte à fond épais d'environ 6 l, avec couvercle (ou un autocuiseur) ; une cocotte deux fois plus grande si tu doubles la recette",
+  "Râpe",
+  "Couteau ou presse-ail",
+  "Cuillère en bois"
+ ],
+ "ingredients": [
+  {
+   "group": "Haricots",
+   "items": [
+    {
+     "id": "haricots",
+     "q": 500,
+     "u": "g",
+     "name": "de haricots blancs secs",
+     "note": "petits haricots blancs ou cannellini",
+     "canon": "haricots-blancs"
+    }
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    {
+     "id": "tomates",
+     "q": 3,
+     "u": "",
+     "name": "tomate bien mûre",
+     "pl": "tomates bien mûres",
+     "note": "chair râpée, sans la peau",
+     "canon": "tomate"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "note": "à râper",
+     "canon": "oignon"
+    },
+    {
+     "id": "ail",
+     "q": 5,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à hacher finement ou à presser",
+     "canon": "ail"
+    },
+    {
+     "id": "persil",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "concentre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de concentré de tomate",
+     "canon": "concentre-tomate"
+    },
+    {
+     "id": "paprika",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "poivre",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "sel",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à rectifier en fin de cuisson",
+     "canon": "sel"
+    },
+    {
+     "id": "gingembre",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de gingembre moulu",
+     "note": "facultatif",
+     "canon": "gingembre"
+    },
+    {
+     "id": "curcuma",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de curcuma",
+     "note": "facultatif, pour la couleur",
+     "canon": "curcuma"
+    },
+    {
+     "id": "piment",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de piment fort moulu (Cayenne)",
+     "note": "facultatif",
+     "canon": "piment-cayenne"
+    },
+    {
+     "id": "huile",
+     "q": 120,
+     "u": "ml",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "eau",
+     "q": 2,
+     "u": "l",
+     "name": "d'eau",
+     "canon": "eau"
+    },
+    {
+     "id": "eau-plus",
+     "q": null,
+     "u": "",
+     "name": "un peu d'eau",
+     "note": "seulement si le liquide réduit trop tôt",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "khobz (pain marocain)",
+     "note": "pour saucer",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "La veille : fais tremper les haricots",
+   "text": "Mets {{haricots}} de haricots blancs secs dans un grand saladier. Couvre-les largement d'eau, 2,5 à 5 cm au-dessus, car ils vont gonfler. Laisse-les tremper toute la nuit.",
+   "timer": null,
+   "tip": "Pas le temps ? Fais-les tremper au moins 5 heures (durée minimale conseillée par la FDA ; Choumicha descend à 2 ou 3 heures dans certaines recettes), jette l'eau de trempage et prévois une cuisson plus longue (MarocMama)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Égoutte les haricots",
+   "text": "Le lendemain, égoutte les haricots et jette l'eau de trempage.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare tomates, oignon et ail",
+   "text": "Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Râpe l'oignon ({{oignon:full}}). Hache finement l'ail ({{ail:full}}), ou passe-le au presse-ail.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Prépare tomates, oignon et ail » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache les herbes",
+   "text": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mets tout dans la cocotte",
+   "text": "Dans une grande cocotte à fond épais, mets les haricots égouttés, les tomates, l'oignon, l'ail et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et {{huile}} d'huile d'olive. Si tu veux, ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma et {{piment}} de piment fort. Mélange bien.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Verse l'eau",
+   "text": "Verse {{eau}} d'eau et porte à pleine ébullition, à feu vif.",
+   "timer": null,
+   "tip": "S'il se forme une écume blanche au début, retire-la avec une cuillère (Kookmutsjes)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse cuire à petits bouillons",
+   "text": "Couvre et laisse cuire à feu moyen environ 1 h 30, jusqu'à ce que les haricots soient fondants. Le liquide doit bouillir à petits bouillons, et pas seulement frémir, au moins pendant les 30 premières minutes. Remue de temps en temps. Si le liquide réduit avant que les haricots soient cuits, ajoute {{eau-plus}}.",
+   "timer": {
+    "min": 90,
+    "label": "Loubia",
+    "done": "Écrase un haricot contre la paroi : il doit s'écraser facilement. Sinon, prolonge la cuisson."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie la cuisson",
+   "text": "Écrase un haricot contre la paroi avec une cuillère : s'il s'écrase sans effort, il est cuit. Sinon, prolonge la cuisson à couvert.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajuste la sauce",
+   "text": "La sauce doit être épaisse, mais encore généreuse : les haricots vont continuer à en boire. S'ils baignent encore dans le liquide, laisse réduire sans couvercle, en remuant.",
+   "timer": null,
+   "tip": "Pour lier la sauce, écrase quelques haricots à la fourchette (MarocMama)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Goûte et rectifie",
+   "text": "Goûte et rectifie le sel et les épices.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers chaud avec du pain",
+   "text": "Sers la loubia chaude, en plat principal ou en accompagnement, avec du {{khobz}} pour saucer. Mange-la à la cuillère, ou à la marocaine en prenant les haricots avec un morceau de pain.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Range les restes",
+   "text": "Ne laisse pas la loubia plus de 2 heures à température ambiante : mets-la au réfrigérateur dans une boîte fermée et mange-la dans les 3 jours. S'il y en a plus d'un litre, répartis-la en petites portions pour qu'elle refroidisse vite. Réchauffe-la doucement, à couvert, avec un peu d'eau, jusqu'à ce que la vapeur s'échappe.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Fais tremper les haricots toute une nuit, dans beaucoup d'eau : ils gonflent et en absorbent une partie.",
+   "source": "Taste of Maroc ; Choumicha (« trempés depuis la veille ») ; Bladi ; Morocco World News 2023 ; MarocMama (eau 2,5 à 5 cm au-dessus des haricots)"
+  },
+  {
+   "text": "Pas de trempage la veille ? Compte au moins 5 heures de trempage, et une cuisson plus longue.",
+   "source": "FDA (au moins 5 heures de trempage) ; MarocMama (au moins quelques heures, et plus de cuisson) ; Choumicha (2 à 3 heures pour ses haricots aux poivrons frits, 2 heures pour ses haricots aux boulettes)"
+  },
+  {
+   "text": "Râpe les tomates et l'oignon.",
+   "source": "Taste of Maroc ; Choumicha (tomates râpées)"
+  },
+  {
+   "text": "L'ail, le cumin et le paprika font le goût de la loubia : n'en sois pas avare.",
+   "source": "Taste of Maroc (« beaucoup d'ail », paprika, cumin) ; MarocMama (5 gousses d'ail, cumin et paprika) ; Choumicha (cumin et piment doux dans toutes ses versions)"
+  },
+  {
+   "text": "Le curcuma n'est pas traditionnel dans la loubia : Taste of Maroc en ajoute pour la couleur. Mets-en ou pas.",
+   "source": "Taste of Maroc ; on le trouve pourtant chez Morocco World News 2023 et dans deux recettes de Choumicha (poivrons frits, douara)"
+  },
+  {
+   "text": "Garde une sauce généreuse au moment de servir : les haricots continuent de boire le liquide en attendant.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Si la sauce est encore trop liquide quand les haricots sont cuits, fais-la réduire à découvert.",
+   "source": "Taste of Maroc ; Morocco World News 2023 ; MarocMama"
+  },
+  {
+   "text": "Pour lier la sauce, écrase quelques haricots à la fourchette.",
+   "source": "MarocMama"
+  },
+  {
+   "text": "Un haricot cuit s'écrase sans effort : la loubia doit être fondante.",
+   "source": "Morocco World News 2023 ; Choumicha (« les haricots blancs doivent être fondants »)"
+  },
+  {
+   "text": "Avec de la viande, fais-la d'abord dorer dans l'huile d'olive, puis cuis tout ensemble. La viande séchée n'a pas besoin d'être dorée.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "À l'autocuiseur, n'ouvre pas tout de suite : laisse la pression retomber, pour ne pas te brûler.",
+   "source": "Morocco World News 2023"
+  },
+  {
+   "text": "Najat préfère les petits haricots blancs, qu'elle trouve les meilleurs pour la loubia.",
+   "source": "Kookmutsjes (Najat, « Marokkaanse bonensoep/Loubia/Joubiath »)"
+  },
+  {
+   "text": "S'il se forme une écume blanche au début de la cuisson, retire-la à la cuillère.",
+   "source": "Kookmutsjes (Najat)"
+  },
+  {
+   "text": "Au Maroc, la loubia se mange avec du pain, à la main ou à la cuillère.",
+   "source": "Taste of Maroc ; MarocMama ; Morocco World News 2023"
+  }
+ ],
+ "mistakes": [
+  "Utiliser des haricots en conserve dans cette recette : déjà cuits, ils risquent de mal prendre le goût de la sauce (Taste of Maroc).",
+  "Cuire des haricots secs sans trempage : fais-les tremper au moins 5 heures (FDA) et prévois plus de cuisson (MarocMama). Ou les cuire à la mijoteuse électrique : elle ne chauffe pas assez pour détruire la lectine des haricots (FDA).",
+  "Laisser la cocotte sécher : ajoute un peu d'eau si le liquide réduit avant que les haricots soient cuits (Taste of Maroc).",
+  "Servir une sauce aqueuse : elle doit être épaisse, mais encore généreuse (Taste of Maroc).",
+  "Ouvrir l'autocuiseur dès la fin de la cuisson (Morocco World News 2023).",
+  "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses)."
+ ],
+ "serving": "Chaude, en plat principal ou en accompagnement (Taste of Maroc ; Morocco World News 2023), avec du khobz pour saucer, à la main ou à la cuillère (Taste of Maroc ; MarocMama). Au Maroc, on la mange aussi au petit-déjeuner ou au déjeuner, souvent dans de petites gargotes (MarocMama). En accompagnement, elle va avec du poulet ou du bœuf grillés (MarocMama), du poisson comme la sardine, ou de la viande (Morocco World News 2023).",
+ "variants": [
+  "À l'autocuiseur : mêmes ingrédients, 40 minutes sous pression à feu moyen (Taste of Maroc ; MarocMama ; Morocco World News 2023 compte 40 à 45 minutes). Taste of Maroc garde les 2 litres d'eau et fait ensuite réduire à découvert ; Morocco World News 2023 et MarocMama mettent juste assez d'eau pour couvrir largement les haricots. Laisse retomber la pression avant d'ouvrir (Morocco World News 2023).",
+  "Avec de la viande halal : 1 livre (environ 450 g) de bœuf ou d'agneau avec os pour 1 livre de haricots, dorée d'abord dans l'huile d'olive (Taste of Maroc) ; Bladi cuit 500 g de veau avec 250 g de haricots, du cumin, du coulis de tomate et une pincée de safran.",
+  "À la viande séchée (gueddid) : Choumicha cuit d'abord les haricots 30 minutes avec l'ail en chemise et un bouquet de coriandre et de persil, puis ajoute la viande séchée, les tomates râpées, le concentré, les épices et l'huile d'olive ; elle retire le bouquet au service.",
+  "Au khlii (viande confite) : la mère de Nargisse Benkabbou en ajoutait pendant que la loubia mijotait (My Moroccan Food) ; Taste of Maroc et MarocMama le citent aussi.",
+  "À la douara (tripes de mouton) : Choumicha cuit les tripes 30 minutes avec les épices, puis ajoute les haricots trempés, enfermés dans un sac de mousseline, et laisse cuire environ 1 h 30. Selon MarocMama, quand on met de la viande dans la loubia, le plus courant au Maroc, ce sont des morceaux d'estomac de mouton.",
+  "Aux poivrons rouges frits, ou aux boulettes de viande hachée ajoutées 5 minutes avant la fin (Choumicha).",
+  "En soupe plus liquide, avec carottes, céleri et ras el hanout (Kookmutsjes, « Marokkaanse bonensoep »).",
+  "Version express avec des haricots en conserve, 20 à 35 minutes (Cooking With Alia ; My Moroccan Food) : plus rapide, mais Taste of Maroc la déconseille.",
+  "Cuite des heures dans une marmite en terre, au charbon : la version la plus savoureuse selon MarocMama.",
+  "Une partie de l'huile d'olive ajoutée seulement en fin de cuisson (Morocco World News 2023) ; dans sa version aux poivrons, Choumicha ajoute même toute l'huile et les épices une fois les haricots cuits."
+ ],
+ "sources": [
+  {
+   "name": "Taste of Maroc (Christine Benlafquih), « Moroccan Stewed White Beans Recipe – Loubia », mise à jour du 27 février 2018 (le site refuse les robots : copie archivée du 15 mai 2026)",
+   "url": "https://web.archive.org/web/20260515223823/https://tasteofmaroc.com/moroccan-stewed-white-beans-recipe-loubia/",
+   "used_for": "Recette de base, 6 portions : 1 livre (454 g) de haricots blancs secs (navy ou cannellini) trempés une nuit puis égouttés ; 3 tomates râpées, 1 oignon moyen râpé, 5 gousses d'ail, 3 c. à s. de persil et 3 de coriandre ; 1 c. à s. de sel, de paprika et de cumin, 2 c. à c. de gingembre, curcuma et Cayenne facultatifs ; ½ tasse d'huile d'olive ; 2 quarts (environ 2 l) d'eau ; tout dans une cocotte de 6 quarts, frémissement vif puis environ 1 h 30 à couvert, à feu moyen ; ou 40 minutes à l'autocuiseur, puis réduction à découvert ; sauce épaisse mais généreuse ; haricots qui boivent la sauce ; curcuma non traditionnel ; viande (bœuf, agneau, gueddid, khlii) en option, dorée d'abord ; pas de haricots en conserve ; servi en plat ou en accompagnement, avec du khobz ; restes réchauffés doucement avec un peu d'eau."
+  },
+  {
+   "name": "Morocco World News, Safaa Kasraoui, « Loubia: a Fulfilling and Nutritional Moroccan Delicacy », 3 septembre 2023",
+   "url": "https://www.moroccoworldnews.com/2023/09/29765/loubia-a-fulfilling-and-nutritional-moroccan-delicacy/",
+   "used_for": "500 g de haricots trempés une nuit ou une demi-journée ; 2 oignons, 3 tomates, 1 c. à s. de concentré ; ½ c. à c. de sel, de gingembre, de cumin, de curcuma, de piment, de « sweet cayenne » (piment doux) et de poivre noir ; ½ tasse d'huile d'olive ; autocuiseur 40 à 45 minutes, laisser retomber la pression avant d'ouvrir ; haricot cuit s'il s'écrase facilement ; réduire à découvert si c'est trop liquide ; servi avec du pain, du poulet ou du poisson."
+  },
+  {
+   "name": "Choumicha Chafay, « Haricots blancs à la viande séchée (Gueddid) », choumicha.ma (site hors ligne, copie archivée du 21 mai 2026)",
+   "url": "https://web.archive.org/web/20260521073122/https://choumicha.ma/recette/993-haricots-blancs-a-la-viande-sechee-gueddid.html",
+   "used_for": "6 personnes : 500 g de haricots trempés depuis la veille, 2,5 l d'eau, 3 gousses d'ail en chemise, bouquet de coriandre et persil retiré au service, 2 tomates râpées, 1 c. à s. de concentré, 2 c. à thé de cumin, 1 de paprika, ½ c. à café de piment fort, 1 c. à thé de sel, 5 cl d'huile d'olive ; haricots cuits 30 minutes avant d'ajouter le reste ; haricots « fondants »."
+  },
+  {
+   "name": "Choumicha Chafay, « Haricots blancs aux poivrons rouges frits », choumicha.ma (copie archivée du 6 décembre 2025)",
+   "url": "https://web.archive.org/web/20251206153144/https://www.choumicha.ma/recette/997-haricots-blancs-aux-poivrons-rouges-frits.html",
+   "used_for": "4 personnes : 350 g de haricots trempés 2 à 3 heures « dans un grand volume d'eau », 2 l d'eau, ail, curcuma, cumin, poivre, paprika, sel, herbes, huile d'olive ajoutés après la cuisson des haricots, puis 15 à 20 minutes."
+  },
+  {
+   "name": "Choumicha Chafay, « Haricots blancs aux boulettes de viande », choumicha.ma (copie archivée du 22 janvier 2013)",
+   "url": "https://web.archive.org/web/20130122073846/http://www.choumicha.ma/recettes/details/341/haricots-blancs-aux-boulettes-de-viande.html",
+   "used_for": "4 personnes : 350 g de haricots trempés 2 heures, 1,5 l d'eau, autocuiseur 25 à 30 minutes avec ail, herbes et épices sans le sel ; tomate, concentré, sel et huile ensuite, jusqu'à ce que les haricots soient fondants ; boulettes 5 minutes avant la fin."
+  },
+  {
+   "name": "Choumicha Chafay, « Douara aux haricots blancs », choumicha.ma (copie archivée du 7 décembre 2025)",
+   "url": "https://web.archive.org/web/20251207040615/https://choumicha.ma/recette/919-douara-aux-haricots-blancs.html",
+   "used_for": "Variante aux tripes de mouton : 250 g de haricots trempés depuis la veille, dans un sac de mousseline, environ 1 h 30 de cuisson après 30 minutes de tripes."
+  },
+  {
+   "name": "Bladi.net, recettes de cuisine marocaine, « Veau au loubia » (non datée)",
+   "url": "https://www.bladi.net/recettes/veau-au-loubia.html",
+   "used_for": "Haricots trempés la veille ; tout dans la cocotte (viande, haricots, oignon, tomates, cumin, coulis de tomate, safran, huile d'olive), couvert d'eau, environ 30 minutes marmite fermée, puis réduction à feu doux."
+  },
+  {
+   "name": "Cooking With Alia, « 052 – Loubia – Moroccan White Beans »",
+   "url": "https://www.cookingwithalia.com/loubia-moroccan-white-beans-3/",
+   "used_for": "Version express aux haricots en conserve (20 minutes) ; avec des haricots secs : trempage d'une nuit, puis cuisson jusqu'à ce qu'ils soient tendres ; servi chaud avec du pain."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « 1 Pot Loubia Stew with Sundried Tomatoes and Kale », 22 février 2017",
+   "url": "https://www.mymoroccanfood.com/home/loubia-stew-with-sundried-tomatoes-and-kale-vegan-bean-stew",
+   "used_for": "Traditionnellement, haricots blancs secs trempés une nuit ; sa mère ajoutait du khlii pendant la cuisson ; version express en conserve, 35 minutes ; servi avec du pain."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki), « Moroccan White Beans (Loubia) Instant Pot Recipe »",
+   "url": "https://marocmama.com/moroccan-white-bean-recipe-loubia/",
+   "used_for": "Plat courant au Maroc, au petit-déjeuner ou au déjeuner, dans les petites gargotes ; version la plus savoureuse cuite des heures en marmite de terre ; souvent à l'estomac de mouton ou au khlii ; trempage d'une nuit (8 heures), eau 2,5 à 5 cm au-dessus, sinon au moins quelques heures et plus de cuisson ; 5 gousses d'ail, cumin et paprika pour une tasse de haricots ; 40 minutes sous pression ; réduire et écraser quelques haricots pour lier ; servi avec du pain, ou à côté de poulet ou de bœuf grillés."
+  },
+  {
+   "name": "Kookmutsjes (Najat), « Marokkaanse bonensoep/Loubia/Joubiath »",
+   "url": "https://kookmutsjes.com/recept/marokkaanse-bonensoep-loubia-joubiath/",
+   "used_for": "Petits haricots blancs préférés ; écume blanche retirée en début de cuisson ; variante en soupe avec carottes, céleri et ras el hanout."
+  },
+  {
+   "name": "Lalla Moulati, « لن تحتاجي لنقع اللوبيا بعد أن تري هذه الحيلة المطبخية التي أحضرت لك »",
+   "url": "https://www.lalamoulati.net/282410.html",
+   "used_for": "Astuce de trempage express (haricots 30 minutes dans un thermos d'eau bouillante), citée seulement dans « unverified »."
+  },
+  {
+   "name": "Anses, « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Règles officielles : plat cuisiné maison au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, en petites portions au-delà d'un litre ; restes en boîte fermée ; réchauffer à couvert jusqu'à ce que la vapeur s'échappe ; laver les herbes à l'eau potable."
+  },
+  {
+   "name": "U.S. Food and Drug Administration (FDA), Bad Bug Book, Foodborne Pathogenic Microorganisms and Natural Toxins, 2e édition (2012), chapitre « Phytohaemagglutinin (kidney bean lectin) »",
+   "url": "https://www.fda.gov/media/83271/download",
+   "used_for": "Contre-vérification : Source officielle sur la lectine des haricots secs : elle est présente dans de nombreux haricots, surtout les haricots rouges ; les haricots blancs (white kidney beans, même espèce Phaseolus vulgaris) en contiennent environ un tiers. Crus ou pas assez cuits, ces haricots peuvent provoquer nausées, vomissements et diarrhée. Elle rapporte qu'une ébullition de 10 minutes à 100 °C a complètement détruit la toxine (étude de Bender et Readi) et demande de faire bouillir les haricots au moins 30 minutes et de ne pas utiliser de mijoteuse électrique, où les plats restent souvent à 75 °C ou moins. Pour le consommateur : tremper au moins 5 heures, jeter l'eau, faire bouillir dans une eau neuve au moins 30 minutes. Page de présentation : https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition"
+  },
+  {
+   "name": "NHS (service de santé public britannique), « Beans and pulses in your diet », page revue le 26 juillet 2021 (copie archivée du 20 janvier 2022 ; l'adresse ne répond plus en ligne)",
+   "url": "https://web.archive.org/web/20220120215558/https://www.nhs.uk/live-well/eat-well/beans-and-pulses-nutrition/",
+   "used_for": "Contre-vérification : Les légumineuses sèches doivent être trempées puis cuites ; les haricots rouges secs contiennent des toxines : tremper une nuit puis cuire correctement, et ne pas les cuire à la mijoteuse. Seconde source officielle, moins précise que la FDA (elle ne vise nommément que les haricots rouges et le soja)."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير اللوبيا المغربية كتجي لذيذة », 8 février 2017",
+   "url": "https://www.lalamoulati.net/57207.html",
+   "used_for": "Contre-vérification : Source marocaine en arabe : le nom « اللوبيا » ; 500 g de haricots blancs trempés environ 12 heures ; cumin, paprika (« فلفل احمر حلو »), gingembre, poivre noir et 1 c. à soupe de concentré de tomate ; cuisson en cocotte-minute. Confirme le trempage long, le concentré et le gingembre (troisième source qui en met)."
+  }
+ ],
+ "discrepancies": [
+  "Trempage : une nuit chez Taste of Maroc, Choumicha (gueddid, douara), Bladi, Morocco World News 2023 (« une nuit ou une demi-journée »), MarocMama (8 heures), Cooking With Alia et My Moroccan Food ; 2 à 3 heures (poivrons frits) ou 2 heures (boulettes, à l'autocuiseur) chez Choumicha. Retenu : une nuit, soit 8 heures de repos comme MarocMama.",
+  "Ordre de cuisson : tout ensemble dès le début chez Taste of Maroc, MarocMama, Bladi et Morocco World News 2023 ; Choumicha et Kookmutsjes cuisent d'abord les haricots, puis ajoutent tomates, épices, huile et souvent le sel. Retenu : tout ensemble, comme la majorité.",
+  "Durée à la cocotte : environ 1 h 30 chez Taste of Maroc (le double de l'autocuiseur) et pour les haricots de la douara de Choumicha ; 1 h à 1 h 15 au total pour d'autres recettes de Choumicha. Retenu : 1 h 30, avec un contrôle de cuisson. Taste of Maroc porte seulement à « frémissement vif » et Choumicha cuit à feu doux, mais la FDA demande de faire bouillir les haricots secs au moins 30 minutes pour détruire leur lectine : la recette les cuit donc à petits bouillons.",
+  "Durée à l'autocuiseur : 40 minutes (Taste of Maroc ; MarocMama), 40 à 45 (Morocco World News 2023), 25 à 30 puis cuisson douce (Choumicha), une trentaine (Bladi). Retenu : 40 minutes, la valeur majoritaire.",
+  "Eau : 2 l pour 454 g chez Taste of Maroc, 2 l pour 350 g et 2,5 l pour 500 g chez Choumicha. Retenu : 2 l pour 500 g, la valeur la plus fréquente, complétée si besoin.",
+  "Épices ramenées à 500 g de haricots secs, une valeur par auteur : cumin 0,5 (Morocco World News 2023), 2 (Bladi), 2,1 (Choumicha), 3,3 c. à c. (Taste of Maroc), et bien plus chez MarocMama (1 c. à s. pour une seule tasse de haricots) : médiane 2 c. à c. Paprika 0,5, 1,3 et 3,3 c. à c., et bien plus chez MarocMama : médiane 2,3, retenu 2 c. à c. Sel 0,5, 1,8 et 3,3 c. à c. (½ c. à c. par tasse chez MarocMama) : médiane entre 1,4 et 1,8 selon qu'on compte MarocMama ou non, retenu 1,5 c. à c., à rectifier. Gingembre seulement chez Taste of Maroc (2,2) et Morocco World News 2023 (0,5) : 1 c. à c. entre les deux, facultatif. Curcuma (Taste of Maroc 0,3, Morocco World News 2023 0,5, Choumicha 1,4) : ½ c. à c., facultatif, car non traditionnel selon Taste of Maroc. Piment fort (Taste of Maroc 0,3, Choumicha et Morocco World News 2023 0,5) : ½ c. à c., facultatif. Poivre : ½ c. à c. chez Morocco World News 2023, 1 c. à c. pour 350 g dans une seule recette de Choumicha : retenu ½ c. à c.",
+  "Oignon : aucun chez Choumicha et MarocMama ; 1 chez Taste of Maroc (pour 454 g) et Bladi (pour 250 g) ; 2 gros chez Morocco World News 2023. Retenu : 1 oignon moyen, la médiane en comptant les recettes sans oignon.",
+  "Ail : 3 gousses chez Choumicha (pour 350 à 500 g), 5 chez Taste of Maroc (454 g) et chez MarocMama (pour une seule tasse de haricots). Retenu : 5 gousses (médiane ramenée à 500 g : environ 5).",
+  "Herbes : hachées dans la sauce (Taste of Maroc ; Choumicha, poivrons et boulettes) ou en bouquet retiré au service (Choumicha, gueddid). Ramené à 500 g : de 2,9 (Choumicha) à 6,6 c. à s. (Taste of Maroc). Retenu : 2 c. à s. de persil et 2 de coriandre.",
+  "Huile d'olive : ½ tasse (118 ml) chez Taste of Maroc (454 g) et Morocco World News 2023 (500 g) ; 5 cl chez Choumicha (gueddid). Retenu : 120 ml.",
+  "Tomates : 3 chez Taste of Maroc et Morocco World News 2023 ; 2 chez Choumicha (pour 500 g) ; aucune chez MarocMama. Retenu : 3, râpées.",
+  "Haricots en conserve : utilisés par Cooking With Alia et My Moroccan Food (version express), déconseillés par Taste of Maroc. Retenu : haricots secs trempés.",
+  "Portions : 6 pour 454 g chez Taste of Maroc, 6 pour 500 g (gueddid) et 4 pour 350 g chez Choumicha, 4 à 6 pour une tasse chez MarocMama. Retenu : 500 g pour 6 personnes.",
+  "Restes : Taste of Maroc les met au réfrigérateur une fois complètement refroidis ; l'Anses demande de ne pas dépasser 2 heures à température ambiante. Retenu : la règle de l'Anses.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 16 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Trempage express au thermos (30 minutes dans l'eau bouillante) : astuce de Lalla Moulati, sans seconde source ; Taste of Maroc parle d'une « méthode de trempage rapide » sans la décrire sur cette page. Non retenu.",
+  "Cuisson à la mijoteuse (commentaire d'une lectrice de Taste of Maroc, 8 à 10 heures à basse température) : non proposée : la FDA déconseille la mijoteuse pour ces haricots, car elle ne chauffe pas assez pour détruire leur lectine.",
+  "Durée de conservation au congélateur : les pages officielles USDA FSIS et FoodSafety.gov refusent l'accès (erreur 403, non contournée) ; aucune durée n'est donnée.",
+  "Astuces de Lalla Moulati contre les ballonnements : affirmations de santé sans source officielle, non reprises.",
+  "« Les petits haricots blancs sont les meilleurs » : préférence d'une seule source (Kookmutsjes) ; Taste of Maroc accepte aussi les cannellini, plus gros.",
+  "Le360, Hespress et Femmes du Maroc : aucune recette de loubia trouvée avant que la limite de recherche web, partagée entre les agents, soit atteinte. Ces sites n'ont pas pu être fouillés davantage."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "pairs": [
+  "khobz",
+  "poisson-frit"
+ ],
+ "img_alt": "Haricots blancs en sauce tomate avec du persil, ici avec des morceaux de viande (photo prise en Tunisie)",
+ "img": "img/loubia.jpg",
+ "photo": {
+  "author": "Ovva olfa",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B1%D9%82%D8%A9_%D9%84%D9%88%D8%A8%D9%8A%D8%A7.JPG",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Malwi (meloui), galettes feuilletées en spirale. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "malwi",
+ "title": "Malwi (meloui), galettes feuilletées en spirale",
+ "darija": "malwi ou meloui (pluriel : malawi, mlawi)",
+ "arabic": "ملوي",
+ "tagline": "Une pâte étirée très fin, pliée en bande puis roulée en escargot : un malwi bien fait se déroule couche par couche, tout chaud, avec du beurre et du miel.",
+ "category": "Pain",
+ "occasion": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+ "region": "Tout le Maroc (en vente dans la rue et chez les boulangers) ; un grand classique du ftour à Rabat",
+ "servings": 10,
+ "servings_label": "galettes",
+ "time": {
+  "prep": 45,
+  "cook": 30,
+  "rest": 30
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un grand saladier (ou une gsaa)",
+  "Une balance de cuisine",
+  "Un grand plan de travail lisse, d'au moins 30 cm de côté (ou un grand plateau)",
+  "Un grand plateau huilé, pour les pâtons et les spirales",
+  "Trois bols : huile, beurre fondu, semoule",
+  "Du film alimentaire ou un torchon propre",
+  "Une grande poêle à fond épais (ou deux poêles, ou une plaque double)",
+  "Une grille"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "farine",
+     "q": 250,
+     "u": "g",
+     "name": "de farine blanche (T45 ou T55)",
+     "note": "farine de blé tendre",
+     "canon": "farine"
+    },
+    {
+     "id": "semoule",
+     "q": 125,
+     "u": "g",
+     "name": "de semoule extra-fine (fino) ou de semoule fine",
+     "note": "c'est elle qui donne au malwi son goût et sa texture",
+     "canon": "semoule"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "levure",
+     "q": 2,
+     "u": "pincée",
+     "name": "de levure boulangère",
+     "note": "pas plus : une toute petite quantité suffit, sans temps de levée",
+     "canon": "levure-boulangere"
+    },
+    {
+     "id": "sucre",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sucre",
+     "note": "facultatif : Choumicha et Cooking with Alia n'en mettent pas",
+     "canon": "sucre"
+    },
+    {
+     "id": "eau",
+     "q": 220,
+     "u": "ml",
+     "name": "d'eau tiède",
+     "note": "environ : verse-la petit à petit, il en faut de 200 à 225 ml selon ta farine",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour feuilleter",
+   "items": [
+    {
+     "id": "huile",
+     "q": 100,
+     "u": "ml",
+     "name": "d'huile neutre (tournesol), pour le plan de travail, les mains et les pâtons",
+     "note": "environ",
+     "canon": "huile"
+    },
+    {
+     "id": "beurre",
+     "q": 70,
+     "u": "g",
+     "name": "de beurre, fondu",
+     "canon": "beurre"
+    },
+    {
+     "id": "semoule-feuilletage",
+     "q": 50,
+     "u": "g",
+     "name": "de semoule fine, à saupoudrer entre les couches",
+     "note": "environ",
+     "canon": "semoule"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "miel",
+     "q": null,
+     "u": "",
+     "name": "miel",
+     "canon": "miel"
+    },
+    {
+     "id": "beurre-service",
+     "q": null,
+     "u": "",
+     "name": "beurre",
+     "canon": "beurre"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mélanger la pâte",
+   "text": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule, {{sel}} de sel, {{levure}} de levure et, si tu en mets, {{sucre}} de sucre. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une pâte souple qui ne colle pas. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pétrir 10 minutes",
+   "text": "Pétris pendant 10 minutes, avec les poings et les paumes, jusqu'à ce que la pâte soit lisse, souple et élastique.",
+   "timer": {
+    "min": 10,
+    "label": "Pétrissage",
+    "done": "Touche la pâte : si elle n'est pas encore lisse et élastique, pétris encore un peu."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétrir 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Former les pâtons",
+   "text": "Huile tes mains et un grand plateau. Partage la pâte en boules de la taille d'un œuf, environ 60 g, une par malwi. Roule-les dans un peu d'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+   "timer": {
+    "min": 15,
+    "label": "Repos des pâtons",
+    "done": "Les pâtons ont reposé : tu peux commencer à étirer."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Préparer ton poste",
+   "text": "Pendant le repos, fais fondre {{beurre}} de beurre. Mets à portée de main trois bols : le beurre fondu, {{huile}} d'huile et {{semoule-feuilletage}} de semoule. Huile largement ton plan de travail.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Étirer très fin",
+   "text": "Pose un pâton au centre du plan huilé. Mains huilées, aplatis-le, puis étire-le du bout des doigts, du centre vers les bords, jusqu'à une feuille très fine, presque transparente. Remets de l'huile si la pâte accroche, et essaie de ne pas la déchirer.",
+   "timer": null,
+   "img": {
+    "src": "img/msemen-etaler.jpg",
+    "alt": "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)",
+    "caption": "Étirer du bout des doigts",
+    "w": 1200,
+    "h": 1200,
+    "credit": "Photo de l'étape « Étirer très fin » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Beurrer et saupoudrer",
+   "text": "Étale un peu de beurre fondu sur toute la feuille avec les doigts, puis saupoudre-la légèrement de semoule.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Plier en longue bande",
+   "text": "Rabats le bord du haut jusqu'au centre, beurre-le et saupoudre-le d'un peu de semoule. Rabats le bord du bas par-dessus : tu obtiens une longue bande étroite. Beurre-la et saupoudre-la à son tour.",
+   "timer": null,
+   "tip": "Pour encore plus de couches, plie la feuille en quatre dans la longueur, en beurrant et en saupoudrant à chaque pli."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Enrouler en spirale",
+   "text": "Aplatis légèrement la bande pour chasser l'air. Enroule-la sur elle-même, bien serrée, comme un tapis : tu obtiens un escargot. Rentre le bout sous la spirale et pince-le pour qu'il tienne.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisser reposer les spirales",
+   "text": "Pose la spirale debout sur le plateau huilé, côté enroulé vers le haut. Étire, beurre, plie et enroule de la même façon les autres pâtons, un par un, sans que les spirales se touchent. Couvre et laisse reposer 15 minutes.",
+   "timer": {
+    "min": 15,
+    "label": "Repos des spirales",
+    "done": "Les spirales ont reposé : fais chauffer la poêle."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffer la poêle",
+   "text": "Fais chauffer une grande poêle à fond épais à feu moyen.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Aplatir la spirale",
+   "text": "Huile ton plan de travail et tes mains. Prends la première spirale, côté enroulé vers le haut, et aplatis-la fermement du bout des doigts, du centre vers les bords, jusqu'à un disque d'environ 3 mm d'épaisseur, soit environ 15 cm de large.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire en retournant",
+   "text": "Dépose le malwi dans la poêle chaude et retourne-le plusieurs fois, jusqu'à ce qu'il soit bien doré et croustillant des deux côtés et cuit au centre : compte quelques minutes. S'il colore trop vite, baisse un peu le feu, sinon le centre reste cru. Si ta poêle est grande, cuis-en deux à la fois.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/meloui-cuisson.jpg",
+    "alt": "Malwi qui cuit sur une plaque de terre bombée, au-dessus d'un feu de bois, au Maroc",
+    "caption": "La cuisson à l'ancienne, sur le feu de bois",
+    "w": 925,
+    "h": 1000,
+    "credit": "Photo de l'étape « Cuire en retournant » : Freepius44, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Sortir sur une grille",
+   "text": "Pose le malwi cuit sur une grille. Continue avec les autres spirales, en les aplatissant au fur et à mesure.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Servir chaud",
+   "text": "Sers les malwi chauds, avec du {{beurre-service}} et du {{miel}}.",
+   "timer": null,
+   "tip": "La façon traditionnelle : chauffe du beurre et du miel à parts égales dans une poêle, coupe le feu dès que ça commence à bouillonner, et trempe chaque malwi chaud des deux côtés."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Malwi veut dire « roulé » en darija. Bien fait, il garde la trace de sa spirale : tu peux le dérouler du bord vers le centre en le mangeant.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "La semoule (ou la farine de blé dur) est la clé du goût et de la texture traditionnels. Ici, elle fait un tiers du mélange de farine.",
+   "source": "Taste of Maroc ; proportion de Choumicha (250 g de farine pour 125 g de blé dur), la même que chez Lalla Moulati (500 g pour 250 g)"
+  },
+  {
+   "text": "La levure n'est là qu'en toute petite quantité, et il n'y a pas d'étape de levée.",
+   "source": "Taste of Maroc (« a very tiny amount of yeast ») ; Choumicha (2 pincées, sans levée)"
+  },
+  {
+   "text": "Pétris bien, puis laisse reposer : le pétrissage donne l'élasticité qu'il faut pour feuilleter, et le repos rend la pâte plus malléable.",
+   "source": "Choumicha, conseils pour réussir les r'ghaifs"
+  },
+  {
+   "text": "Huile les pâtons et couvre-les : sinon, ils forment une croûte.",
+   "source": "Choumicha, conseils pour les r'ghaifs ; Taste of Maroc et Cooking with Alia (pâtons huilés et couverts)"
+  },
+  {
+   "text": "Avant d'enrouler la bande, aplatis-la pour chasser les bulles d'air.",
+   "source": "Cooking with Alia"
+  },
+  {
+   "text": "Enroule bien serré : trop lâches, les couches se séparent quand tu aplatis la spirale.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Fixe le bout de la bande dans la spirale, sinon elle se déroule.",
+   "source": "Choumicha (extrémités rentrées dans la pelote) ; Cooking with Alia (bout pincé)"
+  },
+  {
+   "text": "Pour saupoudrer entre les couches, la semoule fine convient mieux que la farine de blé dur.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Cuis les spirales dans l'ordre où tu les as roulées.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Pas de feu trop vif : le malwi a besoin de temps pour cuire jusqu'au centre.",
+   "source": "Taste of Maroc ; Cooking with Alia (dorer jusqu'à ce que le centre soit cuit)"
+  },
+  {
+   "text": "Sitôt sorti de la poêle, pousse les bords vers le centre pour l'aérer.",
+   "source": "Cooking with Alia"
+  },
+  {
+   "text": "Les malwi complètement refroidis se congèlent jusqu'à 2 mois. Réchauffe-les, décongelés ou non, à la poêle, ou quelques minutes directement sur la grille du four à 180 °C.",
+   "source": "Taste of Maroc ; congélation aussi chez Lalla Moulati (« طريقة الاحتفاظ به فالمجمد »)"
+  }
+ ],
+ "mistakes": [
+  "Verser toute l'eau d'un coup : la pâte devient collante ; ajoute-la petit à petit (Cooking with Alia ; My Moroccan Food, pour la pâte à msemen).",
+  "Écourter le pétrissage ou le repos : la pâte est moins souple et se feuillette mal (Choumicha, conseils pour les r'ghaifs).",
+  "Laisser les pâtons à l'air sans huile : ils font une croûte (Choumicha).",
+  "Déchirer la feuille en l'étirant : remets de l'huile et étire plus doucement (Taste of Maroc).",
+  "Enrouler la bande trop lâche : les couches se séparent à l'aplatissage (Taste of Maroc).",
+  "Cuire sur un feu trop vif : dehors doré, centre cru (Taste of Maroc).",
+  "Garder les malwi plus d'un jour à température ambiante : congèle-les plutôt (Taste of Maroc)."
+ ],
+ "serving": "Bien chauds, avec du beurre et du miel (Taste of Maroc ; Morocco World News 2017 et 2019), de la confiture ou du fromage frais (Taste of Maroc ; Cooking with Alia : miel ou fromage) ; pour le fromage, choisis-en un à coagulant microbien, sans présure animale, si tu veux être strict. La façon traditionnelle, selon Taste of Maroc : les tremper dans un sirop chaud de beurre fondu et de miel. Au petit-déjeuner et à l'heure du thé (Taste of Maroc), et au ftour du ramadan : Choumicha classe son m'laoui dans « Ramadan », et Femmes du Maroc le cite parmi les grands classiques du ftour à Rabat. Ils ne se gardent pas plus d'un jour à température ambiante ; une fois refroidis, ils se congèlent jusqu'à 2 mois et se réchauffent à la poêle ou au four à 180 °C (Taste of Maroc).",
+ "variants": [
+  "Malwi au khlii : parsème la feuille de khlii émietté avant de la plier et de l'enrouler ; Choumicha en met 100 g pour sa pâte de 250 g de farine et 125 g de blé dur (Choumicha, « M'laoui / M'laoui au Khliï »). Khlii de viande halal, et de graisse halal elle aussi : il est confit dans du suif de bœuf et de l'huile d'olive, ou conservé dans l'huile d'olive seule (Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »).",
+  "Moitié semoule, moitié farine : texture plus rustique, le mélange préféré de Taste of Maroc pour le malwi ; Morocco World News (2019) le décrit aussi « moitié semoule, moitié farine » (Taste of Maroc ; Morocco World News).",
+  "Un peu de farine complète dans la pâte, pour le goût (Taste of Maroc : 60 g de farine complète sur 630 g).",
+  "Méthode rapide de Taste of Maroc : étire un pâton en carré, beurre, saupoudre et roule-le comme un roulé à la cannelle ; enroule ce rouleau dans un deuxième carré, puis un troisième, jusqu'à la moitié des pâtons ; coupe le gros rouleau en 8 tranches, pose-les côté spirale vers le haut et laisse reposer 15 à 20 minutes avant d'aplatir (Taste of Maroc).",
+  "De la levure chimique dans la pâte : des recettes publiées par Lalla Moulati en mettent un sachet (Lalla Moulati, 2 août 2022 et 2 août 2023 ; la liste du 1er octobre 2023 en cite aussi, sans dire si c'est pour la pâte ou pour feuilleter)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay), site officiel, « M'laoui / M'laoui au Khliï » (recette n° 829), copie web.archive.org du 21 mai 2026 (même texte dans la copie du 2 juillet 2016)",
+   "url": "https://web.archive.org/web/20260521080703/https://choumicha.ma/recette/829-m-laoui-m-laoui-au-khlii.html",
+   "used_for": "Source marocaine primaire : 250 g de farine de blé tendre et 125 g de blé dur, 2 pincées de levure boulangère, 1 c. à c. de sel, 20 cl d'eau tiède ; 10 cl d'huile, 10 cl de beurre fondu et 80 g de blé dur pour feuilleter ; pétrissage de 10 min, boules de la taille d'un œuf huilées, repos de 10 min ; feuille beurrée et saupoudrée, pliée en quatre dans la longueur, roulée en pelote, extrémités rentrées ; cuisson des deux côtés dans une poêle à fond épais chaude ; variante au khlii (100 g) ; 6 personnes, 40 min de cuisson, catégorie Ramadan"
+  },
+  {
+   "name": "Choumicha, version arabe de la même recette, « ملاوي - ملاوي بالخليع » (n° 830), copie web.archive.org du 25 octobre 2020",
+   "url": "https://web.archive.org/web/20201025200211/https://www.choumicha.ma/ar/recette/830-%D9%85%D9%84%D8%A7%D9%88%D9%8A-%D9%85%D9%84%D8%A7%D9%88%D9%8A-%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%B9.html",
+   "used_for": "Étape d'étirage absente du texte français : pâtons huilés étirés en une feuille fine (« تمدد للحصول على ورقة عجين رفيعة ») ; levure fraîche (« خميرة طرية ») ; nom arabe ملاوي"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (Casablanca), « Moroccan Meloui Recipe – Round Laminated Moroccan Pancakes or Crepes », mise à jour du 11 novembre 2019, copie web.archive.org du 8 juin 2026 (le site refuse les robots)",
+   "url": "https://web.archive.org/web/20260608052551/http://tasteofmaroc.com/moroccan-meloui-recipe/",
+   "used_for": "Sens du nom (« roulé »), rôle de la semoule et de la toute petite quantité de levure, proportions métriques de l'autrice (385 g de semoule, 185 g de farine, 60 g de farine complète, 375 ml d'eau, 2 c. à c. de sel et de sucre, 1/4 c. à c. de levure, 220 ml d'huile, 115 g de beurre, 85 g de semoule), pétrissage de 10 min, 16 pâtons « de la taille de petites prunes », repos de 20 à 30 min puis de 15 à 20 min, méthode traditionnelle de la longue bande roulée en spirale, enroulement serré, semoule préférée pour saupoudrer, feu moyen, disques de 1/8 de pouce (3 mm), retourner plusieurs fois, grille, service et sirop beurre-miel, congélation 2 mois, réchauffage à 180 °C, temps (45 min de préparation, 20 min de cuisson, 40 min de repos)"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Basic Msemen Recipe – Square Moroccan Pancakes », copie web.archive.org du 21 avril 2026",
+   "url": "https://web.archive.org/web/20260421041328/http://tasteofmaroc.com/msemen-recipe/",
+   "used_for": "Proportions du sirop traditionnel (beurre et miel à parts égales, feu coupé dès les premiers bouillons) ; le msemen « parfois appelé rghaif » ; mélange moitié semoule, moitié farine préféré pour le malwi, « cousin rond et roulé du msemen »"
+  },
+  {
+   "name": "Cooking with Alia (site d'Alia, qui y présente « la cuisine marocaine de son enfance », page À propos), « Mellawi / ملاوي » (n° 701, mise à jour du 21 décembre 2018)",
+   "url": "https://www.cookingwithalia.com/701-mellawi/",
+   "used_for": "Source marocaine : 360 g de farine et 150 g de fino, 1 c. à c. de sel, 300 ml d'eau versée petit à petit, sans levure ; 50 g de beurre fondu, 50 ml d'huile, 50 g de fino ; pétrissage de 10 min, repos de 20 min puis 15 min ; feuille presque transparente, beurrée, saupoudrée, pliée en trois en longue bande, bande aplatie pour chasser l'air, roulée comme un tapis, bout pincé ; spirales debout, repos de 15 min ; aplatir du centre vers les bords à « 1 mm (⅛ inch) » ; cuisson en retournant plusieurs fois jusqu'à ce que le centre soit cuit ; bords poussés vers le centre ; service au miel ou au fromage"
+  },
+  {
+   "name": "Lalla Moulati, « نساي عليك الملوي ديال الزنقة… » (malwi de la rue), 29 juillet 2022",
+   "url": "https://www.lalamoulati.net/335080.html",
+   "used_for": "Source marocaine (liste d'ingrédients seulement, méthode en vidéo non lue) : 500 g de farine pour 250 g de semoule fine (fino), très peu de levure instantanée, sel, sucre, eau tiède"
+  },
+  {
+   "name": "Lalla Moulati, « ملوي مورق وهشيش… », 2 août 2023",
+   "url": "https://www.lalamoulati.net/378531.html",
+   "used_for": "Liste d'ingrédients : 4 bols de farine pour 2 bols de fino, « une pointe de cuillère » de levure, 1 c. à c. de sel, 1 c. à s. de sucre, levure chimique ; beurre fondu, huile et fino pour feuilleter"
+  },
+  {
+   "name": "Lalla Moulati, « ملوي هشيش وخفيف… », 1er octobre 2023",
+   "url": "https://www.lalamoulati.net/373008.html",
+   "used_for": "Liste d'ingrédients : 300 g de semoule fine pour 250 g de farine (variante plus riche en semoule), un peu de levure, beurre fondu et huile pour feuilleter, levure chimique"
+  },
+  {
+   "name": "Lalla Moulati, « ملوي مورق بطريقة طي جديدة… مع طريقة الاحتفاظ به فالمجمد », 8 avril 2023",
+   "url": "https://www.lalamoulati.net/363275.html",
+   "used_for": "Deuxième source pour la congélation du malwi (titre de la recette ; vidéo non lue)"
+  },
+  {
+   "name": "Morocco World News, Constance Renton, « The Fuel of Ramadan: Favourite Moroccan Dishes », 9 juin 2017",
+   "url": "https://www.moroccoworldnews.com/2017/06/98982/fuel-ramadan-favourite-moroccan-dishes/",
+   "used_for": "Malwi : bandes de pâte roulées comme des tapis, aplaties en disques, cuites à la poêle, servies avec du beurre et du miel ; galettes carrées ou rondes appelées aussi rghaif"
+  },
+  {
+   "name": "Morocco World News, Maddy Raven, « A Very Moroccan Ramadan: Harira, Dates and Chebakia Galore », 31 mai 2019",
+   "url": "https://www.moroccoworldnews.com/2019/05/80275/moroccan-ramadan-harira-dates-chebakia/",
+   "used_for": "Malwi au ftour ; « moitié semoule, moitié farine », plié en bandes puis roulé comme un tapis, aplati, cuit, servi avec du beurre ou du miel ; aussi appelé rghaif"
+  },
+  {
+   "name": "Femmes du Maroc, « Nos ftours du ramadan par région », 14 juin 2016",
+   "url": "https://femmesdumaroc.com/archives/nos-ftours-du-ramadan-par-region",
+   "used_for": "Le meloui parmi « les grands classiques d'un ftour rbati »"
+  },
+  {
+   "name": "Choumicha, « Pour des R'ghaifs feuilletées à la confiture réussies » (conseils), copie web.archive.org du 6 mars 2021",
+   "url": "https://web.archive.org/web/20210306055156/https://choumicha.ma/astuces/pour-des-rghaifs-feuilletees-a-la-confiture-reussies.html",
+   "used_for": "Conseils pour la pâte feuilletée à la main : bien pétrir, repos indispensable, pâtons huilés pour éviter la croûte, feuilletage à l'huile ou au beurre fondu"
+  },
+  {
+   "name": "Wikipédia (français), « Msemen »",
+   "url": "https://fr.wikipedia.org/wiki/Msemen",
+   "used_for": "Nom marocain « Melwi (meloui) » parmi les appellations du msemen au Maroc (section signalée comme insuffisamment sourcée)"
+  },
+  {
+   "name": "Taste of Maroc, Nada Kiffa, « Moroccan Preserved Meat – Khlii or Khlea » (mise à jour du 13 septembre 2020), copie web.archive.org du 4 octobre 2026",
+   "url": "https://web.archive.org/web/20261004063757/https://tasteofmaroc.com/moroccan-preserved-meat-khlii-khlea/",
+   "used_for": "Contre-vérification : Pour la variante au khlii : le gueddid est « usually beef or camel », parfois de l'agneau ou du mouton (surtout après l'Aïd al-Adha) ; il est confit dans du suif de bœuf (graisse de rognon) et de l'huile d'olive ; au marché de Fès, le khlii se vend dans un mélange de graisse et d'huile ou dans l'huile d'olive seule ; pot ouvert au réfrigérateur ou au congélateur."
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Stuffed Msemen (Rghaif) – Stuffed Moroccan Flatbread », 15 juillet 2015",
+   "url": "https://www.mymoroccanfood.com/home/stuffed-msemen-rghaeif-stuffed-moroccan-flatbread",
+   "used_for": "Contre-vérification : Pour la pâte de la même famille (msemen) : ajouter l'eau peu à peu, car trop d'eau rend la pâte « very sticky » et impossible à pétrir ; dans ce cas, ajouter un peu de farine."
+  },
+  {
+   "name": "Lalla Moulati, « مسمن وملوي مورق وهشيش بمكونات بسيطة… », 2 août 2022",
+   "url": "https://www.lalamoulati.net/335511.html",
+   "used_for": "Contre-vérification : Pâte à msemen et à malwi : 3 bols de farine pour 1 bol de fino, sucre, sel et un sachet de levure chimique dans la liste de la pâte (« مقادير العجين ») ; beurre fondu, huile et fino dans la liste du feuilletage (« مقادير خلطة التوريق »)."
+  },
+  {
+   "name": "Wiktionary (anglais), « لوى » (lawā)",
+   "url": "https://en.wiktionary.org/wiki/%D9%84%D9%88%D9%89",
+   "used_for": "Contre-vérification : Le verbe arabe lawā (« to bend, to curve, to contort ») a pour participe passif malwiyy (ملوي), la même forme que le nom du malwi."
+  },
+  {
+   "name": "Lalla Moulati, « الرغيفة الملوية بمكونات اقتصادية… », 8 février 2021",
+   "url": "https://www.lalamoulati.net/268059.html",
+   "used_for": "Contre-vérification : Emploi en darija de l'adjectif « ملوية » (roulée, enroulée) pour une galette, qui recoupe le sens « roulé » donné par Taste of Maroc."
+  }
+ ],
+ "discrepancies": [
+  "Méthode de façonnage : la méthode traditionnelle (feuille étirée, pliée en longue bande, roulée en spirale) est celle de Choumicha, de Cooking with Alia et de Morocco World News, et celle que Taste of Maroc a longtemps suivie. Taste of Maroc publie aujourd'hui une méthode plus rapide (carrés roulés les uns dans les autres, puis coupés en tranches). Retenu : la méthode traditionnelle ; la méthode rapide est en variante.",
+  "Part de semoule : un tiers de la farine chez Choumicha (250 g / 125 g) et Lalla Moulati (500 g / 250 g ; 4 bols / 2 bols), 29 % chez Cooking with Alia (360 g / 150 g) ; environ la moitié ou plus chez Taste of Maroc (moitié en volume, 61 % en poids d'après ses grammes), Morocco World News 2019 et Lalla Moulati (300 g / 250 g). Médiane recalculée avec python3 : 33 %. Retenu : un tiers (proportion de Choumicha) ; moitié-moitié en variante.",
+  "Eau : 200 ml pour 375 g chez Choumicha (53 %), 221 ml chez Cooking with Alia et 223 ml chez Taste of Maroc une fois leurs recettes ramenées à 375 g (59 et 60 %). Retenu : 220 ml, médiane, avec la consigne de la verser petit à petit.",
+  "Sel, pour 375 g de farine et semoule : 1 c. à c. (Choumicha), 1,2 c. à c. (Taste of Maroc ramené), 0,7 c. à c. (Cooking with Alia ramené). Retenu : 1 c. à c., médiane.",
+  "Levure : 2 pincées (Choumicha ; « levure boulangère » en français, levure fraîche en arabe), 1/4 c. à c. de levure sèche pour 630 g (Taste of Maroc, soit à peine plus de 1/8 de c. à c. pour 375 g), « très peu » ou « une pointe de cuillère » (Lalla Moulati) ; aucune chez Cooking with Alia. Retenu : 2 pincées, sans laisser lever (4 sources sur 5 en mettent un tout petit peu).",
+  "Sucre : 2 c. à c. chez Taste of Maroc (environ 1,2 c. à c. pour 375 g) et du sucre dans les trois listes de Lalla Moulati ; aucun chez Choumicha et Cooking with Alia. Retenu : 1 c. à c., marquée facultative.",
+  "Matières grasses pour feuilleter, ramenées à 375 g de farine : beurre 100 ml fondu (Choumicha), 68 g (Taste of Maroc), 37 g (Cooking with Alia) ; huile 100 ml (Choumicha), 131 ml (Taste of Maroc, qui sert aussi à huiler le plan et les mains), 37 ml (Cooking with Alia) ; semoule 80 g (Choumicha), 51 g (Taste of Maroc), 37 g (Cooking with Alia). Retenu : les médianes, 70 g de beurre, 100 ml d'huile, 50 g de semoule.",
+  "Pliage de la bande : en quatre dans la longueur (Choumicha) ou en trois, un bord au centre et l'autre par-dessus (Cooking with Alia). Retenu : en trois, plus simple ; le pliage en quatre est donné en astuce.",
+  "Taille des pâtons : « de la taille d'un œuf » (Choumicha), 16 pâtons pour environ 1 kg de pâte chez Taste of Maroc, soit environ 64 g chacun (calcul python3), « de la taille d'une balle de tennis » chez Cooking with Alia (malwi plus grands). Retenu : environ 60 g, ce qui donne 10 malwi avec cette pâte (environ 605 g, calcul).",
+  "Repos des pâtons : 10 min (Choumicha), 15 min après 20 min de repos de la pâte entière (Cooking with Alia), 20 à 30 min (Taste of Maroc). Retenu : 15 min, médiane. Repos des spirales : 15 min (Cooking with Alia), 15 à 20 min (Taste of Maroc), durée non précisée chez Choumicha. Retenu : 15 min.",
+  "Épaisseur : 1/8 de pouce, soit 3 mm (Taste of Maroc) ; Cooking with Alia écrit « environ 1 mm (⅛ inch) », mais 1/8 de pouce fait 3,2 mm : sa valeur en pouces rejoint Taste of Maroc. Retenu : environ 3 mm. Largeur : un pâton de 60 g aplati à 3 mm donne un disque de 15 à 16 cm (calcul python3, densité de la pâte supposée entre 1,0 et 1,2) ; les 12 cm (5 pouces) annoncés par Taste of Maroc ne collent pas avec ses propres 3 mm (il faudrait 5 à 6 mm).",
+  "Feu : moyen (Taste of Maroc), vif puis moyen-vif (Cooking with Alia), poêle « chaude » (Choumicha). Retenu : moyen, car les deux premières sources insistent sur la cuisson du centre.",
+  "Huile dans la poêle : Cooking with Alia en met un filet ; Choumicha et Taste of Maroc n'en parlent pas, la pâte étant déjà huilée. Retenu : pas d'huile ajoutée.",
+  "Durées affichées : préparation de 45 min (Taste of Maroc) ; cuisson de 30 min, entre les 20 min de Taste of Maroc (16 malwi, plaque double) et les 40 min de Choumicha ; repos de 30 min (15 + 15).",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 4 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Durée de cuisson d'un malwi : aucune source ne donne de chiffre précis (« plusieurs minutes » chez Taste of Maroc, « quelques minutes de chaque côté » chez Cooking with Alia) ; pas de minuteur pour cette étape.",
+  "Largeur des disques (environ 15 cm) et poids des pâtons (environ 60 g) : calculés, pas mesurés en cuisine ; la densité de la pâte (1,0 à 1,2) est une hypothèse.",
+  "Type de levure chez Choumicha : « levure boulangère » dans le texte français, « levure fraîche » (خميرة طرية) dans le texte arabe.",
+  "Lalla Moulati : seules les listes d'ingrédients ont été lues ; les méthodes sont en vidéo et n'ont pas été vues. Les quantités en « bols » et en « cuillères » sans taille n'ont pas servi aux calculs.",
+  "Sirop chaud de beurre et de miel : seule Taste of Maroc le donne pour le malwi (la proportion « à parts égales » et le feu coupé dès les premiers bouillons viennent de sa page msemen) ; pas de seconde source pour le malwi, d'où sa place en astuce et dans « serving », pas dans les étapes.",
+  "My Moroccan Food, Hespress, Le360 et Bladi.net : aucune recette de malwi trouvée. La recherche web a été arrêtée par la limite de 200 recherches par tour, partagée entre les agents ; aucune autre recherche n'a pu être faite.",
+  "Origine du nom « malwi » : « roulé » selon Taste of Maroc ; en arabe, malwiyy (ملوي) est le participe passif de lawā, plier, courber ou tordre (Wiktionary : « to bend, to curve, to contort »), et Lalla Moulati emploie l'adjectif « ملوية » pour une galette (« الرغيفة الملوية ») ; aucun dictionnaire de darija n'a été consulté."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "pairs": [
+  "the-menthe"
+ ],
+ "img_alt": "Malwi (meloui) servi sur une assiette marocaine, dans un riad de Marrakech",
+ "img": "img/malwi.jpg",
+ "photo": {
+  "author": "David Berkowitz",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/25897810@N00/8138915585",
+  "modified": "non modifiée"
+ }
+});
+
+/* Recette : Macaronis à la marocaine. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "maqarouna",
+ "title": "Macaronis à la marocaine",
+ "darija": "Maqarouna (ma9arouna)",
+ "arabic": "مقرونة",
+ "tagline": "Des macaronis mêlés à une sauce tomate à la kefta et aux épices marocaines, couverts de béchamel et de fromage, puis dorés au four. Un gratin familial qu'on retrouve dans plusieurs recettes marocaines en darija.",
+ "category": "Plat",
+ "occasion": "Plat familial de midi ou du soir",
+ "region": "Cuisine familiale marocaine (recettes en darija publiées sur Lalla Moulati ; Cooking With Alia)",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 45,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grand faitout pour cuire les pâtes",
+  "Passoire",
+  "Grande poêle profonde ou sauteuse",
+  "Petite casserole pour la béchamel",
+  "Cuillère en bois",
+  "Râpe",
+  "Plat à gratin",
+  "Four"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâtes",
+   "items": [
+    {
+     "id": "pates",
+     "q": 400,
+     "u": "g",
+     "name": "de macaronis",
+     "note": "ou d'autres pâtes courtes",
+     "canon": "macaronis"
+    },
+    {
+     "id": "eau-pates",
+     "q": 4,
+     "u": "l",
+     "name": "d'eau",
+     "canon": "eau"
+    },
+    {
+     "id": "sel-pates",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "pour l'eau des pâtes",
+     "canon": "sel"
+    },
+    {
+     "id": "huile-pates",
+     "q": null,
+     "u": "",
+     "name": "huile",
+     "note": "un filet, facultatif",
+     "canon": "huile"
+    }
+   ]
+  },
+  {
+   "group": "Sauce à la kefta",
+   "items": [
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile",
+     "note": "de table ou d'olive",
+     "canon": "huile"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon",
+     "pl": "oignons",
+     "note": "à râper",
+     "canon": "oignon"
+    },
+    {
+     "id": "kefta",
+     "q": 200,
+     "u": "g",
+     "name": "de kefta (bœuf haché)",
+     "note": "halal",
+     "canon": "boeuf-hache"
+    },
+    {
+     "id": "ail",
+     "q": 2,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à hacher",
+     "canon": "ail"
+    },
+    {
+     "id": "carotte",
+     "q": 2,
+     "u": "",
+     "name": "carotte",
+     "pl": "carottes",
+     "note": "à râper",
+     "canon": "carotte"
+    },
+    {
+     "id": "tomates",
+     "q": 400,
+     "u": "g",
+     "name": "de tomates bien mûres",
+     "note": "à râper",
+     "canon": "tomate"
+    },
+    {
+     "id": "concentre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de concentré de tomate",
+     "canon": "concentre-tomate"
+    },
+    {
+     "id": "persil",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de persil haché",
+     "note": "ou persil et coriandre",
+     "canon": "persil"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "note": "selon le goût",
+     "canon": "poivre"
+    },
+    {
+     "id": "gingembre",
+     "q": null,
+     "u": "",
+     "name": "gingembre moulu",
+     "note": "selon le goût",
+     "canon": "gingembre"
+    },
+    {
+     "id": "curcuma",
+     "q": null,
+     "u": "",
+     "name": "curcuma",
+     "note": "selon le goût",
+     "canon": "curcuma"
+    },
+    {
+     "id": "paprika",
+     "q": null,
+     "u": "",
+     "name": "paprika doux",
+     "note": "selon le goût",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": null,
+     "u": "",
+     "name": "cumin",
+     "note": "un peu",
+     "canon": "cumin"
+    },
+    {
+     "id": "thym",
+     "q": 1,
+     "u": "pincée",
+     "name": "de thym séché",
+     "note": "pas plus",
+     "canon": "thym"
+    }
+   ]
+  },
+  {
+   "group": "Béchamel",
+   "items": [
+    {
+     "id": "beurre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de beurre",
+     "canon": "beurre"
+    },
+    {
+     "id": "farine",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de farine",
+     "canon": "farine"
+    },
+    {
+     "id": "lait",
+     "q": 500,
+     "u": "ml",
+     "name": "de lait",
+     "canon": "lait"
+    },
+    {
+     "id": "sel-bech",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre-bech",
+     "q": null,
+     "u": "",
+     "name": "poivre noir",
+     "canon": "poivre"
+    },
+    {
+     "id": "muscade",
+     "q": null,
+     "u": "",
+     "name": "noix de muscade râpée",
+     "note": "une pointe",
+     "canon": "noix-de-muscade"
+    }
+   ]
+  },
+  {
+   "group": "Gratin",
+   "items": [
+    {
+     "id": "beurre-plat",
+     "q": null,
+     "u": "",
+     "name": "beurre",
+     "note": "pour graisser le plat",
+     "canon": "beurre"
+    },
+    {
+     "id": "fromage",
+     "q": 100,
+     "u": "g",
+     "name": "de fromage râpé",
+     "note": "si tu veux être strict sur le halal : fromage certifié halal ; à défaut, à coagulant microbien, sans présure ni autre enzyme animale",
+     "canon": "fromage-rape"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Râpe et hache les légumes",
+   "text": "Râpe {{oignon:full}} et {{carotte:full}}. Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{ail:full}} et {{persil}} de persil.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Râpe et hache les légumes » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais revenir l'oignon",
+   "text": "Dans une grande poêle profonde, chauffe {{huile}} d'huile à feu doux. Ajoute l'oignon râpé et remue jusqu'à ce qu'il soit tendre.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute la kefta",
+   "text": "Ajoute {{kefta}} de kefta. Émiette-la à la cuillère en bois et fais-la revenir à feu doux en remuant, jusqu'à ce qu'elle soit bien revenue.",
+   "timer": null,
+   "tip": "La viande hachée doit atteindre 71 °C à cœur : vérifie au thermomètre si tu en as un (FDA)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute tomates et épices",
+   "text": "Ajoute l'ail, la carotte, les tomates râpées et {{concentre}} de concentré de tomate. Assaisonne avec {{sel}} de sel, puis du {{poivre}}, du {{gingembre}}, du {{curcuma}}, du {{paprika}}, un peu de {{cumin}} et {{thym}} de thym. Ajoute le persil et mélange.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais réduire la sauce",
+   "text": "Laisse cuire à feu doux en remuant de temps en temps, jusqu'à ce que la sauce soit épaisse et qu'il ne reste presque plus d'eau. Goûte et rectifie le sel.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais cuire les macaronis",
+   "text": "Pendant ce temps, porte à ébullition {{eau-pates}} d'eau avec du {{sel-pates}} et, si tu veux, un filet d'{{huile-pates}}. Verse {{pates}} de macaronis et fais-les cuire le temps indiqué sur le paquet, en remuant de temps en temps.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte les pâtes",
+   "text": "Égoutte les macaronis dans une passoire et garde-les de côté.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Préchauffe le four",
+   "text": "Préchauffe le four à 180 °C (four moyen). Beurre un plat à gratin avec un peu de {{beurre-plat}}.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Prépare la béchamel",
+   "text": "Dans une petite casserole, à feu doux, fais fondre {{beurre}} de beurre. Ajoute {{farine}} de farine et remue. Verse {{lait}} de lait petit à petit, sans cesser de remuer, jusqu'à ce que la sauce épaississe. Ajoute du {{sel-bech}}, du {{poivre-bech}} et une pointe de {{muscade}}, puis retire du feu.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mélange pâtes et sauce",
+   "text": "Verse les macaronis dans la sauce à la kefta et mélange bien.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Monte le gratin",
+   "text": "Étale la moitié des pâtes dans le plat. Nappe-les d'une partie de la béchamel et parsème la moitié de {{fromage}} de fromage râpé. Ajoute le reste des pâtes, puis le reste de la béchamel et le reste du fromage.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais gratiner",
+   "text": "Enfourne jusqu'à ce que le dessus soit bien doré et le centre bien chaud : 74 °C (165 °F) au thermomètre si tu en as un (FDA). Regarde au bout de 10 minutes et prolonge si besoin, en surveillant.",
+   "timer": {
+    "min": 10,
+    "label": "Gratin au four",
+    "done": "Le dessus est-il bien doré ? Sinon, laisse encore quelques minutes en surveillant."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Sers chaud",
+   "text": "Laisse reposer quelques minutes, puis sers chaud, avec une salade verte.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Râpe l'oignon, la carotte et les tomates : plusieurs recettes marocaines de maqarouna à la kefta le font (l'oignon y est parfois seulement haché).",
+   "source": "Lalla Moulati : oignon râpé (30 septembre 2015, dans les boulettes ; 23 juillet 2019 ; simplement haché le 10 novembre 2014), carotte râpée (10 novembre 2014 ; 27 décembre 2014 ; 30 septembre 2015), tomates râpées (2015 ; 2019)"
+  },
+  {
+   "text": "Laisse cuire la sauce jusqu'à ce qu'il ne reste presque plus d'eau avant de la mêler aux pâtes.",
+   "source": "Lalla Moulati (27 décembre 2014 : « يطيب وينشف من الماء »)"
+  },
+  {
+   "text": "Les épices marocaines de la kefta : sel, poivre (ibzar), gingembre (skinjbir), curcuma (kharqoum), paprika (tahmira) et un peu de cumin.",
+   "source": "Lalla Moulati (recettes de 2014, 2015 et 2019)"
+  },
+  {
+   "text": "Une toute petite pincée de thym séché : c'était le secret de la grand-mère d'Alia. Plus, et la sauce devient amère.",
+   "source": "Cooking With Alia (recette de sa grand-mère) ; le thym est aussi dans deux recettes de Lalla Moulati (2014, 2019)"
+  },
+  {
+   "text": "Beaucoup de fromage râpé sur le dessus : l'autre secret de la grand-mère d'Alia.",
+   "source": "Cooking With Alia (recette de sa grand-mère)"
+  },
+  {
+   "text": "Compte 1 litre d'eau pour 100 g de pâtes, bien salée.",
+   "source": "Cooking With Alia (3 litres pour 300 g) ; chef Andrea Tranchero, cité par Lalla Moulati (2021)"
+  },
+  {
+   "text": "Beaucoup de recettes marocaines ajoutent un filet d'huile dans l'eau des pâtes ; le chef italien cité par Lalla Moulati le juge inutile. À toi de voir.",
+   "source": "Lalla Moulati (2014, 2015) et Cooking With Alia pour l'huile ; Lalla Moulati (2021, chef Andrea Tranchero) contre"
+  },
+  {
+   "text": "Verse le lait de la béchamel petit à petit, sans arrêter de remuer : elle reste lisse, sans grumeaux.",
+   "source": "Lalla Moulati (2014 : remuer jusqu'à ce qu'elle épaississe ; 2023 : lait ajouté peu à peu, sauce lisse et sans grumeaux)"
+  },
+  {
+   "text": "Une pointe de noix de muscade râpée parfume la béchamel.",
+   "source": "Lalla Moulati (trois recettes en darija de 2014 et 2015)"
+  },
+  {
+   "text": "Beurre le plat avant d'y mettre les pâtes.",
+   "source": "Lalla Moulati (2014 ; 2023)"
+  },
+  {
+   "text": "Monte le gratin en deux couches de pâtes, avec de la béchamel et du fromage au milieu et sur le dessus.",
+   "source": "Lalla Moulati (27 décembre 2014 ; béchamel sans fromage le 10 novembre 2014 et le 30 septembre 2015)"
+  },
+  {
+   "text": "Laisse reposer le gratin quelques minutes à la sortie du four avant de le servir.",
+   "source": "Lalla Moulati (2023)"
+  },
+  {
+   "text": "Sécurité : la viande hachée doit atteindre 71 °C (160 °F) à cœur. Mets les restes au réfrigérateur dans les 2 heures, dans des boîtes peu profondes, mange-les dans les 3 jours (3 à 4 jours selon l'USDA) et réchauffe-les à 74 °C (165 °F).",
+   "source": "FDA, « Safe Food Handling » ; Anses (8 avril 2020) ; USDA FSIS, « Leftovers and Food Safety »"
+  }
+ ],
+ "mistakes": [
+  "Mettre dans le plat une sauce encore liquide : laisse-la réduire jusqu'à ce qu'il ne reste presque plus d'eau (Lalla Moulati, 2014).",
+  "Forcer sur le thym : une petite pincée suffit, sinon c'est amer (Cooking With Alia).",
+  "Verser tout le lait d'un coup dans la béchamel : ajoute-le peu à peu en remuant, pour éviter les grumeaux (Lalla Moulati, 2023).",
+  "Trop cuire les pâtes avant le four : une recette de Lalla Moulati (2019) les arrête à mi-cuisson, puisqu'elles passent ensuite au four.",
+  "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA)."
+ ],
+ "serving": "Sers chaud, à la sortie du four (Lalla Moulati, 2014 et 2019), après quelques minutes de repos (Lalla Moulati, 2023), avec une salade verte ou d'autres salades (Lalla Moulati, 2019 et 2023).",
+ "variants": [
+  "Aux boulettes : mélange la kefta avec un petit oignon râpé, une carotte râpée, du persil, 2 c. à s. de chapelure, sel, poivre, un peu de cumin, du gingembre et une pincée de cannelle. Forme de petites boulettes et cuis-les dans une sauce de tomates râpées à l'ail (Lalla Moulati, 30 septembre 2015).",
+  "Plus de légumes : 2 poivrons en petits dés fondus avec l'oignon (Lalla Moulati, 10 novembre 2014) ; une courgette râpée (Lalla Moulati, 27 décembre 2014).",
+  "Au poulet ou à la dinde : remplace la kefta par de la dinde (« bibi ») ou du blanc de poulet en petits morceaux (Lalla Moulati, 10 novembre 2014), cuits jusqu'à 74 °C (165 °F) à cœur (FDA). Une version au blanc de poulet, poivrons, petits pois et maïs existe aussi (Amina Marrakchia sur Lalla Moulati, 2023 ; ingrédients seulement).",
+  "Sans béchamel : kefta, champignons et olives vertes mêlés aux pâtes avec du thym, couverts de fromage râpé, puis passés au four (Lalla Moulati, 23 juillet 2019).",
+  "Sans viande : sauce tomate à l'oignon et à l'ail avec une pincée de thym, pâtes couvertes de beaucoup de fromage râpé, 10 minutes au four (Cooking With Alia, recette de sa grand-mère).",
+  "Avec des œufs : 2 œufs battus dans la béchamel, et 2 cuillerées de béchamel au fond du plat ; la même recette propose les œufs à la place des 50 g de fromage (Lalla Moulati, 10 novembre 2014). Laisse alors au four jusqu'à ce que la béchamel aux œufs soit prise et atteigne 71 °C (160 °F) au centre (FDA).",
+  "Sur le feu, sans four : pâtes cuites mêlées 5 minutes à une sauce tomate à la viande hachée, avec de la mozzarella (Lalla Moulati, 22 novembre 2015 ; recette de style levantin).",
+  "Gratin au thon et à la crème : 400 g de pâtes, 250 ml de crème, 100 g de fromage râpé et 1 boîte de thon (Lalla Moulati, 3 novembre 2021)."
+ ],
+ "sources": [
+  {
+   "name": "Lalla Moulati, « معكرونة بالكفتة » (macaronis à la kefta), 10 novembre 2014, rubrique « شهيوات الطبخ المغربي » (cuisine marocaine)",
+   "url": "https://www.lalamoulati.net/5660.html",
+   "used_for": "Recette marocaine en darija : 400 g de pâtes cuites à l'eau salée avec un peu d'huile, 200 g de kefta (ou dinde, ou blanc de poulet), 2 poivrons, 3 tomates, 1 oignon moyen, 3 carottes râpées, sel, ibzar, tahmira, skinjbir, kharqoum selon le goût, 1 c. à s. de persil et coriandre, 50 g de fromage râpé facultatif ou 2 œufs ; béchamel de 2 c. à s. de farine, 1 c. à s. bombée de beurre, 1 c. à s. d'huile, ½ l de lait, sel, poivre, muscade ; plat beurré, montage en couches, thym, four moyen jusqu'à ce que ce soit doré, servi chaud."
+  },
+  {
+   "name": "Lalla Moulati, « كرتان المقرونية بالكفتة والخضار بالمراحل والصور », 27 décembre 2014, recettes testées, cuisine marocaine",
+   "url": "https://www.lalamoulati.net/9836.html",
+   "used_for": "Gratin de macaronis à la kefta et aux légumes : pâtes cuites à l'eau salée ; oignon (et poivron, oublié par l'autrice) revenus dans l'huile d'olive et l'huile de table, carotte et courgette râpées, kefta, persil, sel, ibzar, skinjbir, kharqoum, thym séché, concentré de tomate en boîte (« مطيشة د الحك ») ; sauce cuite « jusqu'à ce qu'il ne reste plus d'eau » ; béchamel (3 c. à s. de beurre, 3 de farine, ½ l de lait, sel, poivre, muscade, fromage) ; montage en deux couches avec béchamel et fromage ; four jusqu'à ce que ce soit doré."
+  },
+  {
+   "name": "Lalla Moulati, « كرتان بالمقرونية والكفتة بالمراحل والصور », 30 septembre 2015, cuisine marocaine",
+   "url": "https://www.lalamoulati.net/26076.html",
+   "used_for": "½ kg de pâtes cuites à l'eau salée avec un peu d'huile ; sauce : un peu d'huile, ail, ½ kg de tomates râpées, 1 c. à s. de concentré ; boulettes de ¼ kg de kefta de bœuf avec petit oignon râpé, carotte râpée, 3 c. à s. de persil, 2 c. à s. de chapelure, sel, poivre, un peu de cumin, gingembre, pincée de cannelle ; béchamel de ½ l de lait, 2 c. à s. de farine, 1 c. à s. de beurre, sel, poivre, muscade ; montage en couches, four."
+  },
+  {
+   "name": "Lalla Moulati, « ...كراتان بليبات والكفتة والشومبينيو », 23 juillet 2019, rubrique « شهيوات عالمية »",
+   "url": "https://www.lalamoulati.net/201921.html",
+   "used_for": "Gratin sans béchamel, en darija : tomate et petit oignon râpés, huile, sel, ibzar ou piment, un peu de cumin et de paprika, thym, 1 c. à c. de concentré ; champignons, kefta revenue, olives vertes, pâtes, thym ; fromage râpé, au four."
+  },
+  {
+   "name": "Cooking With Alia, « 304 – My Grandmother's Pasta Recipe / الباستا على طريقة جدتي », 24 février 2015",
+   "url": "https://www.cookingwithalia.com/my-grandmothers-pasta-recipe/",
+   "used_for": "Recette de la grand-mère marocaine d'Alia : oignon translucide à l'huile d'olive et au sel, ail 1 min, tomates 5 min, sauce tomate, 5 min à découvert, petite pincée de thym (sinon amer) ; 300 g de spaghettis dans 3 l d'eau salée avec un peu d'huile d'olive, cuisson selon le paquet ; beaucoup de fromage râpé, 10 min au four préchauffé."
+  },
+  {
+   "name": "Lalla Moulati, « ألذ وأسرع مكرونة محمرة \"للويكاند\" », 1er mars 2019, rubrique « شهيوات عالمية »",
+   "url": "https://www.lalamoulati.net/186204.html",
+   "used_for": "Recoupement : 2 c. à s. d'huile d'olive, 1 c. à c. de sel, pâtes cuites à mi-cuisson, 10 min à four chaud avec mozzarella, servi chaud avec des salades."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير المعكرونة الإيطالية بالكفتة والفطر... », 6 juin 2017",
+   "url": "https://www.lalamoulati.net/72053.html",
+   "used_for": "Recoupement : 10 min au four pour faire fondre le fromage et dorer le dessus."
+  },
+  {
+   "name": "Lalla Moulati, « المقرونية بالباشميل للعراضات... », 9 août 2022 (recette de style égyptien)",
+   "url": "https://www.lalamoulati.net/336445.html",
+   "used_for": "Recoupement : 2 c. à s. d'huile, 1 c. à c. de sel, 2 gousses d'ail, 1 c. à s. de concentré pour 500 g de viande hachée et 500 g de pâtes ; 15 min à 200 °C."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير المقرونية بصلصة البيشاميل... », 7 septembre 2023 (recette de style égyptien)",
+   "url": "https://www.lalamoulati.net/376765.html",
+   "used_for": "Recoupement : four à 180 °C (30 à 40 min), plat beurré, lait ajouté peu à peu pour une béchamel lisse sans grumeaux, 1 c. à c. de sel, 1 gousse d'ail, repos de quelques minutes avant de servir, salade verte."
+  },
+  {
+   "name": "Lalla Moulati, « بعجينة وحدة حضري فطائر مالحة و حلوة مع فكرة كراتان المقرونية... », 3 novembre 2021",
+   "url": "https://www.lalamoulati.net/298271.html",
+   "used_for": "Recoupement : 100 g de fromage râpé pour 400 g de pâtes (gratin au thon et à la crème)."
+  },
+  {
+   "name": "Lalla Moulati, « إليك سر المطاعم الإيطالية في طهي المعكرونة... », 15 janvier 2021 (conseils du chef Andrea Tranchero)",
+   "url": "https://www.lalamoulati.net/264330.html",
+   "used_for": "1 litre d'eau pour 100 g de pâtes ; huile dans l'eau jugée inutile ; remuer régulièrement."
+  },
+  {
+   "name": "Lalla Moulati, « معكرونة باللحمة وجبنة الموزاريلا », 22 novembre 2015 (recette de style levantin)",
+   "url": "https://www.lalamoulati.net/28807.html",
+   "used_for": "Version sur le feu, sans four : sauce tomate à la viande hachée 15 min, pâtes et mozzarella 5 min."
+  },
+  {
+   "name": "Lalla Moulati, « وصفة المقرونية بالدجاج وصلصة الطماطم... » (cuisine d'Amina Marrakchia), 8 novembre 2023",
+   "url": "https://www.lalamoulati.net/380122.html",
+   "used_for": "Existence d'une version au poulet (liste d'ingrédients seulement, méthode en vidéo)."
+  },
+  {
+   "name": "Choumicha, émission « Chhiwate Choumicha » du 30 janvier 2013 : « Pâtes langue d'oiseaux aux boulettes de viande hachée – Gratin de pâtes aux crevettes » (copie archivée du 25 juillet 2013)",
+   "url": "https://web.archive.org/web/20130725101710/http://www.choumicha.ma/emissions/details/2727/mercredi-30-janvier-2013-pates-langue-d-oiseaux-aux-boulettes-de-viande-hachee-gratin-de-pates-aux-crevettes.html",
+   "used_for": "Seulement le titre : le gratin de pâtes figure dans l'émission marocaine de Choumicha (recette non lisible sur la page)."
+  },
+  {
+   "name": "FDA (États-Unis), « Safe Food Handling », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+   "used_for": "Viande hachée à 160 °F (71 °C) à cœur ; restes et plats au four réchauffés à 165 °F (74 °C) ; réfrigération dans les 2 heures ; récipients peu profonds ; sauces portées à ébullition au réchauffage."
+  },
+  {
+   "name": "Lalla Moulati, « تحضير كراتان سباكيتي بالكفتة كتجي رائعة ولذيذ بالصور » (gratin de spaghettis à la kefta), 12 mars 2017, rubrique « شهيوات الطبخ المغربي » (cuisine marocaine)",
+   "url": "https://www.lalamoulati.net/61039.html",
+   "used_for": "Contre-vérification : Autre gratin marocain de pâtes à la kefta : spaghettis cuits à l'eau salée avec un peu d'huile, mêlés à 4 œufs et du fromage râpé (béchamel facultative) ; kefta à l'oignon en sauce tomate avec sel, cumin, ibzar, tahmira, kharqoum, thym, ail, concentré et persil ; mozzarella, ou béchamel et fromage, sur le dessus ; au four jusqu'à ce que les œufs prennent et que le dessus dore."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة تحضير كراتان بالمعكرونة سهلة وكتجي بنينة بالصور », 7 juin 2017, rubrique « شهيوات رمضان »",
+   "url": "https://www.lalamoulati.net/72222.html",
+   "used_for": "Contre-vérification : Gratin de pâtes en darija avec la même structure, à la dinde : dinde, oignon et poivron revenus, coriandre et persil, sel, ibzar, kharqoum et tahmira, sauce tomate, pâtes cuites à l'eau salée ; la moitié dans le plat, mozzarella et fromage, le reste, puis béchamel et fromage dessus, au four."
+  },
+  {
+   "name": "Lalla Moulati, « كراتان بالمعكرونة ساهل وبنين بأقل من 13 درهم و نصف ساعة باش كتوجد », 31 janvier 2019",
+   "url": "https://www.lalamoulati.net/181815.html",
+   "used_for": "Contre-vérification : Gratin économique en darija sans béchamel : ½ kg de pâtes, 150 g de kefta, sauce tomate et 2 c. à s. de concentré, 2 c. à s. d'huile d'olive, sel, ibzar et kharqoum, 2 yaourts nature, « fromage rouge » dessus, 10 min au four."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة عمل مكرونة بالكفته في الفرن على طريقة البيتزا », 3 mars 2017, rubrique « شهيوات عالمية »",
+   "url": "https://www.lalamoulati.net/60518.html",
+   "used_for": "Contre-vérification : ½ kg de pâtes pour 250 g de kefta (rapport 2 pour 1, comme la recette), sauce tomate à l'ail et au thym, mozzarella, au four ; version sans béchamel « à la façon pizza »."
+  },
+  {
+   "name": "Lalla Moulati, « جبت ليكم واحد الكراتان بسيط بالكفتة والحليب… », 23 juin 2018 (gratin de pommes de terre à la kefta, en darija)",
+   "url": "https://www.lalamoulati.net/141337.html",
+   "used_for": "Contre-vérification : Béchamel marocaine de 2 c. à s. de beurre, 2 c. à s. de farine et ½ l de lait, sel, ibzar et une pincée de muscade râpée ; le lait est ajouté « petit à petit » en remuant pour que la farine ne fasse pas de grumeaux ; plat beurré."
+  },
+  {
+   "name": "Lalla Moulati, « كراتان بالمعكرونة بمذاق هائل قدميه لعائلتك », 9 mars 2019, rubrique « شهيوات عالمية »",
+   "url": "https://www.lalamoulati.net/187262.html",
+   "used_for": "Contre-vérification : Les pâtes ne sont cuites qu'à moitié avant le four (« نصفها »), comme dans la recette de mars 2019 citée pour l'erreur à éviter ; gratin sans viande, au lait, aux œufs et au fromage."
+  },
+  {
+   "name": "MarocMama, Aya Khalil (article invité), « Egyptian Macaroni Bechamel {Pasta with Bechamel Sauce} », 23 juillet 2015",
+   "url": "https://marocmama.com/egyptian-macaroni-bechamel-pasta-with-bechamel-sauce/",
+   "used_for": "Contre-vérification : Le gratin de macaronis à la béchamel y est présenté comme un plat égyptien typique, que l'autrice tient de sa mère et qu'on retrouve, selon le blog, à chaque repas partagé où il y a des Égyptiens : la béchamel n'est donc pas propre à la version marocaine."
+  },
+  {
+   "name": "Cooking With Alia, « 755 – Baked Mac and Cheese / معكرونة وجبنة مخبوزة », 28 novembre 2019",
+   "url": "https://www.cookingwithalia.com/755-baked-mac-and-cheese/",
+   "used_for": "Contre-vérification : Gratin de pâtes à la sauce au lait et au fromage, au four préchauffé à 180 °C, 20 minutes jusqu'à ce que le dessus soit doré : recoupe le four à 180 °C ; il lui faut 20 minutes pour dorer, plus que les 10 minutes du premier coup d'œil de la recette."
+  },
+  {
+   "name": "Wikilivres, « Apprendre à cuisiner/Poids et mesures »",
+   "url": "https://fr.wikibooks.org/wiki/Apprendre_%C3%A0_cuisiner/Poids_et_mesures",
+   "used_for": "Contre-vérification : Tableau des thermostats : 6 = 180 °C = « Four moyen »."
+  },
+  {
+   "name": "Wikipédia (fr), « Thermostat (four) »",
+   "url": "https://fr.wikipedia.org/wiki/Thermostat_(four)",
+   "used_for": "Contre-vérification : Les correspondances entre thermostat et température varient selon les livres de cuisine ; dans l'une des tables, le thermostat 6 (180 °C) est le « four moyen chaud »."
+  },
+  {
+   "name": "IFANCA (organisme de certification halal), « What is the source of rennet? », 2 juin 2022",
+   "url": "https://ifanca.org/faqs/what-is-the-source-of-rennet/",
+   "used_for": "Contre-vérification : La présure de veau n'est halal que si le veau a été abattu selon les règles islamiques ; la chymosine produite par biotechnologie est halal ; dans un produit certifié halal, la présure doit être d'origine halal."
+  },
+  {
+   "name": "IFANCA, « Isn't all cheese halal? », 2 juin 2022",
+   "url": "https://ifanca.org/faqs/isnt-all-cheese-halal/",
+   "used_for": "Contre-vérification : Les enzymes microbiennes sont halal ; la pepsine et la lipase de porc sont haram, et la lipase de porc sert encore dans certains fromages affinés très goûteux (type romano) ; la plupart des fromages n'indiquent pas l'origine de l'enzyme."
+  },
+  {
+   "name": "Wikipédia (fr), « Présure »",
+   "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sure",
+   "used_for": "Contre-vérification : Le mot présure désigne forcément un coagulant d'origine animale ; les coagulants végétaux, microbiens et fermentaires conviennent aux régimes halal ; certains fromages industriels à coagulant microbien ne le précisent pas sur l'emballage."
+  },
+  {
+   "name": "Anses (France), « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Contre-vérification : Plats cuisinés à la maison : pas plus de 2 heures à température ambiante, à consommer dans les 3 jours, grandes quantités réparties en petites portions ; cuisson à 70 °C à cœur ; viande hachée bien cuite à cœur pour les jeunes enfants, les femmes enceintes, les personnes âgées et immunodéprimées."
+  },
+  {
+   "name": "USDA FSIS (États-Unis), « Leftovers and Food Safety » (copie archivée du 3 novembre 2026 ; le site refuse l'outil de lecture, erreur 403)",
+   "url": "https://web.archive.org/web/20261103202835/https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+   "used_for": "Contre-vérification : Restes au réfrigérateur dans les 2 heures, en récipients peu profonds, gardés 3 à 4 jours, réchauffés à 165 °F (74 °C)."
+  }
+ ],
+ "discrepancies": [
+  "Version la plus courante : aucune source ne la mesure. Les trois recettes marocaines en darija lues (Lalla Moulati, 10 novembre 2014, 27 décembre 2014, 30 septembre 2015) sont des gratins de kefta en sauce tomate avec béchamel (fromage dans la béchamel et entre les couches le 27 décembre 2014, facultatif le 10 novembre 2014, absent le 30 septembre 2015) ; d'autres gratinent sans béchamel, avec du fromage (Lalla Moulati, 3 mars 2017 et 23 juillet 2019 ; Cooking With Alia), du yaourt (Lalla Moulati, 31 janvier 2019) ou des œufs et du fromage (Lalla Moulati, 12 mars 2017, béchamel facultative) ; une version sur le feu existe (Lalla Moulati 2015, style levantin). Retenu : le gratin à la kefta avec béchamel, sans preuve que ce soit la version familiale la plus courante : la contre-vérification n'a trouvé ce gratin ni chez Choumicha (copies archivées), ni sur Bladi, ni chez Cooking With Alia, seulement une vidéo sans texte sur Chhiwat, et le gratin de macaronis à la béchamel est aussi présenté comme un plat égyptien typique (MarocMama, 2015).",
+  "Kefta émiettée (Lalla Moulati, deux recettes de 2014 et une de 2019) ou en boulettes (2015) : retenu émiettée (majorité), boulettes en variante.",
+  "Rapport pâtes et kefta : 400 g pour 200 g (2014) et 500 g pour 250 g (2015), soit 2 pour 1 dans les deux cas. Retenu 400 g et 200 g.",
+  "Tomates : 3 tomates pour 400 g de pâtes (2014) ; 500 g pour 500 g de pâtes (2015), soit 400 g pour 400 g. Retenu 400 g.",
+  "Concentré : 1 c. à s. (2015 ; 2022) ; 1 c. à c. (2019). Retenu 1 c. à s.",
+  "Carottes : 3 pour 400 g de pâtes (2014) ; 1 pour 500 g (2015). Retenu 2, valeur médiane.",
+  "Persil : 1 c. à s. de persil et coriandre (2014) ; 3 c. à s. de persil pour 500 g de pâtes (2015), soit 2,4 pour 400 g. Retenu 2 c. à s.",
+  "Ail : 1 gousse (2023), 2 gousses (2022), 1 c. à s. d'ail écrasé (Cooking With Alia), sans quantité (2015). Retenu 2 gousses.",
+  "Huile de la sauce : non chiffrée dans les recettes en darija ; 2 c. à s. dans deux autres recettes de Lalla Moulati (2019 ; 2022). Retenu 2 c. à s.",
+  "Sel de la sauce : « selon le goût » dans les recettes en darija ; 1 c. à c. dans trois autres recettes de Lalla Moulati (2019, 2022, 2023). Retenu 1 c. à c.",
+  "Béchamel : ½ l de lait dans les trois recettes en darija ; 2 c. à s. de farine et 1 c. à s. de beurre (2014 ; 2015) contre 3 et 3 (27 décembre 2014). Retenu 500 ml, 2 c. à s. et 1 c. à s. ; une recette (2014) ajoute 1 c. à s. d'huile au beurre.",
+  "Fromage : 50 g, facultatif (2014) ; 100 g pour 400 g de pâtes (2021) ; « beaucoup » (Cooking With Alia). Retenu 100 g.",
+  "Four : « four moyen » (2014) ; 180 °C pendant 30 à 40 min (2023) ; 200 °C pendant 15 min (2022) ; four chaud pendant 10 min (Cooking With Alia ; Lalla Moulati 2017 et 2019). Retenu 180 °C, premier coup d'œil à 10 min, jusqu'à ce que ce soit doré.",
+  "Eau des pâtes : 1 l pour 100 g (Cooking With Alia ; chef cité par Lalla Moulati, 2021) ; 2 l pour un paquet (Lalla Moulati, 2019). Retenu 1 l pour 100 g.",
+  "Cuisson des pâtes : temps du paquet (Cooking With Alia ; Lalla Moulati 2023) ou mi-cuisson (Lalla Moulati 2019). Retenu le temps du paquet ; la mi-cuisson est citée dans les erreurs à éviter.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 14 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Nombre de parts : aucune source ne l'indique. 4 personnes pour 400 g de pâtes (100 g chacun) est une estimation.",
+  "Temps de préparation (20 min) et de cuisson (45 min) : estimations, aucune source marocaine ne les donne.",
+  "Quantités de poivre, gingembre, curcuma, paprika et cumin : « selon le goût » dans toutes les recettes marocaines lues.",
+  "180 °C pour « four moyen » : pas écrit dans la recette marocaine ; c'est le thermostat 6, « four moyen », des tables de cuisson (Wikilivres), mais les correspondances varient selon les livres (Wikipédia FR).",
+  "Les recettes de Lalla Moulati sont publiées par des contributrices non nommées. Plusieurs recettes de pâtes du site viennent d'autres cuisines (sept épices, samna, style égyptien ou levantin) : elles n'ont servi qu'à recouper l'huile, le sel, l'ail, le fromage et le four.",
+  "Sources marocaines solides : seulement deux (Lalla Moulati, plusieurs recettes ; Cooking With Alia). Choumicha n'apporte qu'un titre d'émission ; aucune recette de macaronis à la kefta lisible dans les copies archivées de choumicha.ma (seulement une vidéo « المقرونية بالبيض » sans texte).",
+  "Recherche limitée : le quota de recherches web a été épuisé en cours de travail. Bladi.net (page vide pour les robots) et Kifache (protection Cloudflare) étaient inaccessibles et n'ont pas été contournés ; la recherche du site Femmes du Maroc n'a rien donné d'utile ; Hespress et Le360 n'ont pas pu être explorés.",
+  "Version au poulet (Amina Marrakchia, 2023) : liste d'ingrédients seulement, méthode en vidéo non vue.",
+  "Durée de conservation des restes : pas de règle propre à ce plat ; la recette applique la règle générale des plats cuisinés (Anses : 3 jours ; USDA : 3 à 4 jours)."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "img_alt": "Gratin de macaronis à la viande hachée sous une béchamel dorée (photo d'un pastitsio grec, plat très proche)",
+ "img": "img/maqarouna.jpg",
+ "photo": {
+  "author": "Robert Kindermann",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Pastitsio.jpg",
+  "modified": "réduite"
+ }
+});
+
 /* Recette : Msemen, crêpes feuilletées carrées. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -3106,6 +7806,14 @@ window.RECETTES.push({
     "min": 15,
     "label": "Pétrissage",
     "done": "Touche la pâte : si elle n'est pas encore lisse, souple et élastique, pétris encore quelques minutes."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétrir longtemps » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
    }
   },
   {
@@ -3132,6 +7840,8 @@ window.RECETTES.push({
    "img": {
     "src": "img/msemen-etaler.jpg",
     "alt": "Mains qui étirent la pâte à msemen sur un plan huilé",
+    "w": 1200,
+    "h": 1200,
     "credit": "Photo de l'étape « Étaler très fin » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
    }
   },
@@ -3181,6 +7891,8 @@ window.RECETTES.push({
    "img": {
     "src": "img/msemen-cuisson.jpg",
     "alt": "Msemen en train de cuire sur une grande plaque",
+    "w": 1200,
+    "h": 900,
     "credit": "Photo de l'étape « Cuire en retournant » : Popo le Chien, Wikimedia Commons, licence CC0 (réduite)."
    }
   },
@@ -3395,6 +8107,373 @@ window.RECETTES.push({
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Msemmen.jpg",
   "modified": "réduite"
+ }
+});
+
+/* Recette : Omelette roulée aux fines herbes. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "omelette",
+ "title": "Omelette roulée aux fines herbes",
+ "darija": "",
+ "arabic": "عجة",
+ "tagline": "Trois œufs battus avec persil, ciboulette et autres fines herbes, cuits en un instant au beurre puis roulés : lisse dehors, moelleuse dedans, à la française.",
+ "category": "Rapide",
+ "occasion": "Repas express, en quelques minutes, dès qu'il y a des œufs et un peu d'herbes fraîches",
+ "region": "France : la cuisine classique d'Escoffier (Le Guide culinaire, 1903)",
+ "servings": 2,
+ "servings_label": "omelettes",
+ "time": {
+  "prep": 5,
+  "cook": 5,
+  "rest": 0
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un bol par omelette et une fourchette",
+  "Une petite poêle antiadhésive",
+  "Une spatule souple (une fourchette en métal abîme l'antiadhésif)",
+  "Une planche et un couteau bien aiguisé, pour ciseler les herbes",
+  "Une assiette par omelette"
+ ],
+ "ingredients": [
+  {
+   "group": "Omelette",
+   "items": [
+    {
+     "id": "oeufs",
+     "q": 6,
+     "u": "",
+     "name": "œuf frais",
+     "pl": "œufs frais",
+     "note": "3 par omelette ; jette ceux qui sont fêlés ou cassés, et ne les lave pas (Anses)",
+     "canon": "oeuf"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre",
+     "canon": "poivre"
+    },
+    {
+     "id": "beurre",
+     "q": 30,
+     "u": "g",
+     "name": "de beurre",
+     "note": "15 g par omelette, pour la cuisson",
+     "canon": "beurre"
+    }
+   ]
+  },
+  {
+   "group": "Fines herbes",
+   "items": [
+    {
+     "id": "persil",
+     "q": null,
+     "u": "",
+     "name": "persil plat",
+     "canon": "persil"
+    },
+    {
+     "id": "ciboulette",
+     "q": null,
+     "u": "",
+     "name": "ciboulette",
+     "canon": "ciboulette"
+    },
+    {
+     "id": "cerfeuil",
+     "q": null,
+     "u": "",
+     "name": "cerfeuil",
+     "note": "facultatif, si tu en trouves",
+     "canon": "cerfeuil"
+    },
+    {
+     "id": "estragon",
+     "q": null,
+     "u": "",
+     "name": "estragon",
+     "note": "facultatif, si tu en trouves",
+     "canon": "estragon"
+    }
+   ]
+  },
+  {
+   "group": "Pour finir",
+   "items": [
+    {
+     "id": "beurre-lustrer",
+     "q": null,
+     "u": "",
+     "name": "beurre",
+     "note": "un petit morceau par omelette, pour la faire briller",
+     "canon": "beurre"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Cisèle les herbes",
+   "text": "Cisèle finement le {{persil}}, la {{ciboulette}} et, si tu en as, le {{cerfeuil}} et l'{{estragon}}, avec un couteau bien aiguisé.",
+   "timer": null,
+   "tip": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon).",
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Cisèle les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Casse les œufs",
+   "text": "Casse les œufs : 3 par omelette, dans un bol pour chacune ({{oeufs:full}} en tout).",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Assaisonne et bats",
+   "text": "Dans chaque bol, ajoute le {{sel}}, le {{poivre}} et sa part d'herbes. Bats à la fourchette, sans excès, juste pour bien mêler les blancs et les jaunes.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffe le beurre",
+   "text": "Mets 15 g de beurre dans la petite poêle (la part d'une omelette ; {{beurre}} en tout) et chauffe sur feu moyen. Attends qu'il fonde et mousse, sans le laisser brunir.",
+   "timer": null,
+   "tip": "Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Verse et remue",
+   "text": "Verse les œufs battus d'un bol dans la poêle chaude. Remue aussitôt avec la spatule, en ramenant vers le centre les bords qui commencent à prendre, pour que l'œuf encore liquide coule et cuise à son tour.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Arrête quand c'est encore baveux",
+   "text": "Arrête de remuer quand l'omelette est presque prise et qu'il reste sur le dessus une fine couche d'œuf encore baveuse. Le dessous doit rester pâle, sans coloration.",
+   "timer": null,
+   "tip": "La FDA (agence sanitaire américaine) conseille de cuire les œufs jusqu'à ce que le blanc et le jaune soient fermes, et rappelle que les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles risquent plus une salmonellose grave : pour eux, cuis l'omelette jusqu'à ce qu'elle soit bien prise."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Roule l'omelette",
+   "text": "Baisse le feu. Décolle le bord avec la spatule, puis penche la poêle au-dessus de l'assiette : l'omelette roule sur elle-même. Aide-la avec la spatule.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Fais-la briller et sers",
+   "text": "Frotte un petit morceau de {{beurre-lustrer}} sur le dessus pour la faire briller, et sers aussitôt. S'il y a d'autres omelettes, reprends à l'étape « Chauffe le beurre » avec le bol suivant.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Une omelette, selon Escoffier, ce sont « des œufs brouillés d'un genre spécial enfermés dans une enveloppe d'œufs coagulés » : moelleuse dedans, juste assez prise dehors pour être roulée.",
+   "source": "Escoffier, Le Guide culinaire (1903) ; Cuisine et Vins de France, cité par Wikipédia"
+  },
+  {
+   "text": "Les vraies fines herbes, ce sont le persil, la ciboulette, le cerfeuil et l'estragon. Pour Escoffier, une omelette où le persil est seul n'est pas une omelette aux fines herbes.",
+   "source": "Escoffier, Le Guide culinaire (1903) ; Wikipédia (définition reprise par le Larousse gastronomique de 1938)"
+  },
+  {
+   "text": "Les mesures d'Escoffier pour une omelette de 3 œufs : une demi-pincée de sel fin, une prise de poivre, 15 g de beurre et une cuillerée de fines herbes.",
+   "source": "Escoffier, Le Guide culinaire (1903)"
+  },
+  {
+   "text": "Cisèle les herbes au couteau au lieu de les hacher, sinon l'omelette prend un « goût de gazon ».",
+   "source": "Chef Simon"
+  },
+  {
+   "text": "Bats peu : quelques coups de fourchette suffisent à mêler les blancs et les jaunes.",
+   "source": "Chef Simon (« sans excès ») ; Jules Gouffé et A. Bautte, cités par Wikipédia"
+  },
+  {
+   "text": "Le beurre ne doit jamais brunir. Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "source": "Wikipédia (toutes les autorités demandent du très bon beurre, sans le brûler) ; Chef Simon"
+  },
+  {
+   "text": "Pas de coloration : l'omelette roulée reste jaune pâle. Chef Simon juge ce point « très important ».",
+   "source": "Chef Simon ; Wikipédia en anglais, d'après Julia Child (omelette française pas ou très peu dorée)"
+  },
+  {
+   "text": "La cuisson est rapide : le Larousse définit l'omelette comme des œufs battus « cuits rapidement à la poêle ».",
+   "source": "Larousse ; Wikipédia (« la cuisson doit rester rapide »)"
+  },
+  {
+   "text": "Baveuse veut dire assez peu cuite pour que l'intérieur reste moelleux. Mais, rappelle Escoffier, certains la veulent très cuite, d'autres à point : demande à chacun.",
+   "source": "Larousse (« baveux ») ; Escoffier ; Chef Simon (baveuse, moelleuse ou bien cuite)"
+  },
+  {
+   "text": "Une poêle à la bonne taille : trop d'œufs pour la poêle, et l'omelette devient épaisse, mal cuite et dure.",
+   "source": "Wikipédia, d'après Cora Millet-Robinet (1884) ; Il Giornale del Cibo conseille une poêle de 18 à 20 cm"
+  },
+  {
+   "text": "La touche finale des chefs : un peu de beurre sur l'omelette roulée pour la faire briller.",
+   "source": "Escoffier ; Chef Simon ; Wikipédia (« lustrer », d'après Michel Maincent-Morel)"
+  },
+  {
+   "text": "Plusieurs convives ? Fais plusieurs omelettes plutôt qu'une trop grosse.",
+   "source": "Jules Gouffé (1873), cité par Wikipédia ; Escoffier prend l'omelette de 3 œufs comme modèle"
+  }
+ ],
+ "mistakes": [
+  "Battre trop longtemps les œufs (Chef Simon ; Jules Gouffé, cité par Wikipédia).",
+  "Laisser brunir le beurre ou dorer l'omelette (Chef Simon ; Wikipédia).",
+  "Mettre trop d'œufs dans une petite poêle : l'omelette devient épaisse et dure (Wikipédia, d'après Cora Millet-Robinet).",
+  "Trop la cuire : elle devient sèche (Wikipédia, d'après Louis Liger).",
+  "Hacher les herbes au lieu de les ciseler (Chef Simon).",
+  "Ne mettre que du persil et l'appeler « aux fines herbes » (Escoffier)."
+ ],
+ "serving": "Tout de suite, roulée et lustrée au beurre (Escoffier, Chef Simon), avec une salade verte si tu veux, comme le permet l'usage cité par Wikipédia. S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la dans les 3 à 4 jours et réchauffe-la à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
+ "variants": [
+  "Aux champignons : Escoffier ajoute aux œufs 40 g de champignons émincés et sautés au beurre pour une omelette de 3 œufs.",
+  "À l'estragon seul, « à la Chartres » : une pincée d'estragon haché dans les œufs (Escoffier).",
+  "À la coriandre : Chef Simon laisse le choix des herbes (ciboulette, cerfeuil ou coriandre).",
+  "Plus moelleuse et moins chère avec du lait : pour 4 personnes, Chef Simon remplace ses 9 œufs habituels par 6 œufs et 1,5 dl (150 ml) de lait.",
+  "Pliée en trois, à la manière classique (Wikipédia), ou en deux, à l'anglaise (Great British Chefs), au lieu d'être roulée.",
+  "Au fromage, garniture classique selon Great British Chefs. Si tu veux être strict : fromage à coagulant microbien, sans présure animale."
+ ],
+ "sources": [
+  {
+   "name": "Auguste Escoffier, Le Guide culinaire, aide-mémoire de cuisine pratique (1903), chapitre « Œufs », section « Omelettes », transcription Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_guide_culinaire/%C5%92ufs",
+   "used_for": "Définition (« des œufs brouillés d'un genre spécial enfermés dans une enveloppe d'œufs coagulés ») ; goûts variés (très cuite, à point ou déliquescente) ; omelette type de 3 œufs, demi-pincée de sel fin, prise de poivre, 15 g de beurre ; omelette roulée renversée sur le plat et frottée de beurre pour briller ; fines herbes : persil, ciboulette, cerfeuil et estragon hachés, une cuillerée, jamais le persil seul ; omelettes aux champignons et « à la Chartres »."
+  },
+  {
+   "name": "Chef Simon (chef cuisinier, fondateur de chefsimon.com), « Omelette roulée aux fines herbes », 7 décembre 2011, modifiée le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/omelette-roulee-aux-fines-herbes",
+   "used_for": "Pour 1 : 3 œufs frais, sel, poivre, beurre fondu, herbes au choix (ciboulette, cerfeuil, coriandre) ciselées, pas hachées (« goût de gazon ») ; battre à la fourchette sans excès ; beurre clarifié ou beurre et huile ; poêle chaude ; remuer en ramenant au centre ce qui coagule ; cuisson baveuse, moelleuse ou bien cuite ; baisser le feu, pencher la poêle au-dessus de l'assiette, l'omelette roule ; aucune coloration (« très important ») ; lustrée au beurre fondu, servie sans attendre ; difficulté moyenne, 10 min ; variante au lait (6 œufs et 1,5 dl de lait au lieu de 9 œufs pour 4)."
+  },
+  {
+   "name": "Dictionnaire Larousse, article « omelette »",
+   "url": "https://www.larousse.fr/dictionnaires/francais/omelette/55950",
+   "used_for": "Définition : œufs battus et cuits rapidement à la poêle, seuls ou avec divers ingrédients."
+  },
+  {
+   "name": "Dictionnaire Larousse, article « baveux »",
+   "url": "https://www.larousse.fr/dictionnaires/francais/baveux/8468",
+   "used_for": "Omelette baveuse : assez peu cuite pour que l'intérieur reste moelleux."
+  },
+  {
+   "name": "Trésor de la langue française informatisé (CNRTL, CNRS), article « herbe »",
+   "url": "https://www.cnrtl.fr/definition/herbe",
+   "used_for": "Fines herbes : plantes aromatiques ou condimentaires pour assaisonner, exemple « omelette aux fines herbes » ; l'estragon y complète le cerfeuil, la ciboulette ou la pimprenelle (citation de L. Lagriffe, 1968)."
+  },
+  {
+   "name": "Wikipédia, article « Omelette », consulté le 6 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Omelette",
+   "used_for": "Méthode classique d'après les auteurs cités : 2 à 3 œufs par personne (Michel Maincent-Morel), battre peu (Gouffé, Bautte), très bon beurre jamais brûlé, ramener les bords au centre, fine couche non prise avant de rouler, rouler en inclinant la poêle (Belèze), lustrer au beurre (Maincent-Morel), trop d'œufs = omelette épaisse et dure (Millet-Robinet), trop cuite = sèche (Liger), pas plus de 8 œufs par omelette (Gouffé), cuisson rapide, salade verte en accompagnement, définition de Cuisine et Vins de France."
+  },
+  {
+   "name": "Wikipédia, article « Fines herbes », consulté le 6 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Fines_herbes",
+   "used_for": "Définition d'Escoffier pour l'omelette aux fines herbes, reprise par le Larousse gastronomique de 1938."
+  },
+  {
+   "name": "Wikipedia (anglais), article « Omelette », section « French omelette », consulté le 6 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Omelette",
+   "used_for": "Omelette française cuite au beurre, pas ou très peu dorée d'après Julia Child (Mastering the Art of French Cooking), dorée d'après Ginette Mathiot (1955)."
+  },
+  {
+   "name": "Great British Chefs, « How to Make an Omelette », 8 décembre 2014 (mis à jour le 14 février 2025)",
+   "url": "https://www.greatbritishchefs.com/how-to-cook/how-to-make-an-omelette",
+   "used_for": "3 œufs battus à la fourchette, sel, poivre, une noix de beurre, petite poêle, feu moyen, centre encore juste coulant, servir tout de suite ; herbes ajoutées aux œufs ; fromage en garniture ; pliage en deux."
+  },
+  {
+   "name": "Il Giornale del Cibo, Monica Face, « Ricette omelette: 10 idee sfiziose per cucinare le uova », 14 octobre 2022",
+   "url": "https://www.ilgiornaledelcibo.it/ricette-omelette/",
+   "used_for": "Méthode italienne (couverte), utilisée seulement pour deux repères : poêle antiadhésive de 18 à 20 cm, et 20 g de beurre pour 4 œufs (même rapport de 5 g par œuf qu'Escoffier) ; œufs versés quand le beurre fait des bulles."
+  },
+  {
+   "name": "FDA (agence sanitaire américaine), « What You Need to Know About Egg Safety », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+   "used_for": "Cuire les œufs jusqu'à ce que blanc et jaune soient fermes ; enfants, personnes âgées, femmes enceintes et personnes immunodéprimées plus à risque de forme grave ; plats aux œufs pas plus de 2 heures hors du réfrigérateur, restes à consommer sous 3 à 4 jours, réchauffés à 165 °F (74 °C, conversion calculée)."
+  },
+  {
+   "name": "Wikipédia en arabe, article « عجة », consulté le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A9",
+   "used_for": "Nom arabe de l'omelette (aussi cité par l'article français « Omelette »)."
+  },
+  {
+   "name": "Food Standards Agency (agence sanitaire du Royaume-Uni), guide « Salmonella », sur GOV.UK, mis à jour le 20 août 2026, lu le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/salmonella/salmonella",
+   "used_for": "Contre-vérification : Les personnes les plus exposées à une forme grave de salmonellose sont les jeunes enfants, les femmes enceintes, les personnes atteintes d'une maladie (cancer, diabète, maladie du foie ou des reins) et les personnes âgées ; hors de chez elles, ces personnes doivent manger des œufs bien cuits, car ces œufs peuvent ne pas porter la marque British Lion. Même consigne que la FDA pour les personnes fragiles."
+  },
+  {
+   "name": "NHS (service de santé du Royaume-Uni), « Foods to avoid in pregnancy », page revue le 15 juin 2026, lue le 7 novembre 2026",
+   "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+   "used_for": "Contre-vérification : Pendant la grossesse, les œufs de poule sans le tampon British Lion ni le label Laid in Britain ne se mangent que bien cuits, jamais crus ni à moitié cuits."
+  },
+  {
+   "name": "Anses, infographie « Consommation des œufs : vrai ou faux », 20 juillet 2020, lue le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/consommation-oeufs",
+   "used_for": "Contre-vérification : Les œufs cassés ou fêlés ne doivent pas être consommés : il faut les jeter ; les œufs ne doivent en aucun cas être lavés avant d'être stockés ou consommés ; les préparations à base d'œufs sans cuisson se mangent sans délai, ou dans les 24 heures si elles sont gardées au froid."
+  },
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », article du 24 décembre 2020, lu le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Contre-vérification : Source officielle française qui recoupe la FDA : « ne pas conserver les aliments plus de 2 heures à température ambiante avant réfrigération » ; garder 4 °C dans la zone la plus froide du réfrigérateur."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « أومليط الخضر » (omelette aux légumes), 22 février 2019, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/185013.html",
+   "used_for": "Contre-vérification : Nom arabe : la recette appelle le même plat « أومليط » dans le titre, « الأومليت » et « العجة » dans le texte ; « عجة » désigne donc bien l'omelette sur un site marocain."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « طريقة تحضير عجة بطاطس روعة » (omelette aux pommes de terre), 4 mai 2019, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/193728.html",
+   "used_for": "Contre-vérification : « عجة » pour une omelette (œufs battus versés dans la poêle sur les pommes de terre)."
+  }
+ ],
+ "discrepancies": [
+  "Œufs : 3 par omelette (Escoffier, Chef Simon, Great British Chefs) ; 2 par portion au plus (Il Giornale del Cibo) ; 2 à 3 par personne (Michel Maincent-Morel, cité par Wikipédia) ; Chef Simon dit aussi utiliser 9 œufs pour 4. Retenu : 3 œufs par omelette.",
+  "Beurre : 15 g pour 3 œufs (Escoffier) ; même rapport de 5 g par œuf chez Il Giornale del Cibo (20 g pour 4 œufs) ; « une noix » (Great British Chefs) ; non chiffré (Chef Simon). Retenu : 15 g par omelette (calcul python).",
+  "Herbes : persil, ciboulette, cerfeuil et estragon (Escoffier) ; au choix ciboulette, cerfeuil ou coriandre (Chef Simon). Retenu : persil et ciboulette, plus cerfeuil et estragon si tu en trouves ; la coriandre passe en variante.",
+  "Herbes « hachées » (Escoffier) ou « ciselées, pas hachées » (Chef Simon). Retenu : ciselées finement.",
+  "Couleur : aucune (Chef Simon ; Julia Child, citée par Wikipédia en anglais) ou dorée (Ginette Mathiot, 1955, citée par Wikipédia en anglais ; Les Soupers de la cour, 1778, cité par Wikipédia en français). Retenu : sans coloration, la règle de l'omelette roulée des chefs.",
+  "Matière grasse : beurre (Escoffier, Great British Chefs) ; beurre clarifié, ou beurre et huile (Chef Simon ; A. Bautte cité par Wikipédia pour le beurre clarifié). Retenu : beurre, l'autre en astuce.",
+  "Cuisson : baveuse, moelleuse ou bien cuite, au goût (Chef Simon, Escoffier) ; centre juste coulant (Great British Chefs) ; la FDA conseille des œufs fermes. Retenu : baveuse par défaut, avec la consigne de sécurité.",
+  "Forme : roulée (Chef Simon, Escoffier) ; pliée en trois (Wikipédia) ; en deux (Great British Chefs). Retenu : roulée.",
+  "Feu : poêle chaude puis feu baissé pour rouler (Chef Simon) ; feu moyen (Great British Chefs) ; poêle « raisonnablement chaude » (Wikipédia). Retenu : feu moyen, baissé pour rouler.",
+  "Temps : Chef Simon compte 10 minutes au total pour une seule omelette ; les 5 + 5 minutes annoncées ici pour deux omelettes, cuites l'une après l'autre, sont une estimation.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 8 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Serious Eats n'a pas été lu : il refuse l'accès aux agents d'IA. Les livres de Julia Child, Jacques Pépin ou Paul Bocuse ne sont pas consultables en ligne ; Julia Child n'est citée que d'après Wikipédia.",
+  "Le Larousse gastronomique n'est pas en ligne : seul le dictionnaire Larousse a été lu. La reprise de la définition d'Escoffier par le Larousse gastronomique de 1938 vient de Wikipédia.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide. Le nom arabe عجة vient de Wikipédia.",
+  "Quantités d'herbes et de sel : seul Escoffier les chiffre (« une cuillerée », « une demi-pincée ») et il ne précise pas la taille de la cuillère ; elles ne sont donc pas dans la liste d'ingrédients, seulement dans les secrets.",
+  "Durée de cuisson d'une omelette : aucune source ne la chiffre, d'où l'absence de minuteur.",
+  "Avis d'une autorité sanitaire française ou marocaine (ANSES, ONSSA) sur les œufs peu cuits : non consulté (quota de recherche épuisé) ; seule la FDA américaine est citée.",
+  "Disponibilité de la ciboulette, du cerfeuil et de l'estragon au Maroc : non vérifiée par une source."
+ ],
+ "cuisine": "Française",
+ "rayon": "D'ailleurs",
+ "img_alt": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette",
+ "img": "img/omelette.jpg",
+ "photo": {
+  "author": "Kevin Lawver",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "page": "https://www.flickr.com/photos/44124367235@N01/26331538831",
+  "modified": "non modifiée"
  }
 });
 
@@ -3661,7 +8740,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare le poulet et les herbes",
    "text": "Coupe {{poulet}} de poulet en morceaux. Émince finement {{oignons}} d'oignons. Hache {{persil}} de persil et {{coriandre}} de coriandre.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Prépare le poulet et les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",
@@ -3973,6 +9060,928 @@ window.RECETTES.push({
  }
 });
 
+/* Recette : Pâtes au thon à la tomate. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "pates-thon-tomate",
+ "title": "Pâtes au thon à la tomate",
+ "darija": "",
+ "arabic": "معكرونة بالتونة",
+ "tagline": "Un oignon fondu, des tomates et du thon à l'huile : une sauce qui mijote pendant que les spaghettis cuisent, le classique italien des soirs où le placard est presque vide.",
+ "category": "Rapide",
+ "occasion": "Dîner express avec des conserves du placard. En Italie, c'est le plat des étudiants, et autrefois celui des jours sans viande (Dissapore, Il Giornale del Cibo)",
+ "region": "Toute l'Italie : recette de Bologne déposée en 2018 par l'Accademia Italiana della Cucina (Dissapore ; Il Giornale del Cibo), versions de Rome et de Palerme (Wikipédia, Dissapore)",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 5,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une grande casserole avec son couvercle",
+  "Une sauteuse ou une grande poêle",
+  "Une passoire",
+  "Une planche et un couteau",
+  "Une cuillère en bois",
+  "Un ouvre-boîte et un bol"
+ ],
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    {
+     "id": "huile",
+     "q": 5,
+     "u": "c. à s.",
+     "name": "d'huile d'olive vierge extra",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "canon": "oignon"
+    },
+    {
+     "id": "tomates",
+     "q": 500,
+     "u": "g",
+     "name": "de tomates pelées en conserve",
+     "note": "ou de pulpe de tomate",
+     "canon": "tomates-pelees"
+    },
+    {
+     "id": "thon",
+     "q": 200,
+     "u": "g",
+     "name": "de thon à l'huile, égoutté",
+     "note": "à l'huile d'olive de préférence",
+     "canon": "thon"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "pour la sauce et pour l'eau des pâtes",
+     "canon": "sel"
+    }
+   ]
+  },
+  {
+   "group": "Pâtes",
+   "items": [
+    {
+     "id": "spaghetti",
+     "q": 400,
+     "u": "g",
+     "name": "de spaghettis",
+     "note": "ou de pâtes courtes",
+     "canon": "spaghetti"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "une grande casserole, pour cuire les pâtes",
+     "canon": "eau"
+    },
+    {
+     "id": "eau-cuisson",
+     "q": null,
+     "u": "",
+     "name": "eau de cuisson des pâtes",
+     "note": "quelques cuillerées",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "persil",
+     "q": null,
+     "u": "",
+     "name": "persil plat haché",
+     "note": "facultatif",
+     "canon": "persil"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mets l'eau à chauffer",
+   "text": "Remplis une grande casserole d'{{eau}}, couvre-la et porte-la à ébullition.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince l'oignon",
+   "text": "Pèle et émince très finement {{oignon:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Émince l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare le thon et les tomates",
+   "text": "Égoutte {{thon}} de thon et émiette-le. Coupe {{tomates}} de tomates pelées en petits morceaux.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre l'oignon",
+   "text": "Dans la sauteuse, chauffe {{huile}} d'huile d'olive à feu doux et ajoute l'oignon. Laisse-le fondre en remuant de temps en temps, jusqu'à ce qu'il soit tendre et transparent.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les tomates",
+   "text": "Ajoute les tomates, sale légèrement avec le {{sel}} et laisse mijoter à feu doux, en remuant de temps en temps.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Lance les pâtes",
+   "text": "Quand l'eau bout, sale-la, puis plonge {{spaghetti}} de spaghettis. Fais-les cuire al dente, selon le temps indiqué sur le paquet.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute le thon",
+   "text": "Dès que les pâtes sont dans l'eau, ajoute le thon à la sauce et mélange doucement. Laisse mijoter à feu doux jusqu'à ce que la sauce soit veloutée : le thon doit chauffer sans cuire trop longtemps, sinon il se dessèche.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Garde un peu d'eau",
+   "text": "Juste avant d'égoutter, puise un peu d'{{eau-cuisson}} dans un bol.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mélange pâtes et sauce",
+   "text": "Égoutte les pâtes al dente et verse-les dans la sauteuse. Mélange un instant sur le feu, en ajoutant un peu d'eau de cuisson pour lier la sauce.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers aussitôt",
+   "text": "Sers tout de suite. Si tu aimes, parsème un peu de {{persil}} sur chaque assiette.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Ajoute le thon vers la fin : s'il cuit trop longtemps, il se dessèche.",
+   "source": "Cookist (chef Ruben Bondì) ; recette bolognaise d'après Dissapore, 2018 (thon ajouté 10 minutes avant la fin) ; Il Giornale del Cibo (le thon ne doit pas cuire longtemps avec la sauce et s'ajoute en fin de préparation) ; Cristina Bragaglia, citée par Dissapore (« à Bologne, le thon s'ajoute après »)"
+  },
+  {
+   "text": "Prends du thon à l'huile, de préférence à l'huile d'olive : sa chair est plus moelleuse et plus savoureuse.",
+   "source": "Dissapore (version aux tomates cerises : « consistance plus moelleuse, goût plus riche »)"
+  },
+  {
+   "text": "Laisse l'oignon fondre doucement jusqu'à ce qu'il soit tendre et transparent, sans le faire dorer.",
+   "source": "Dissapore (2018 et 2022)"
+  },
+  {
+   "text": "Égoutte bien le thon, puis émiette-le.",
+   "source": "Dissapore (thon égoutté) ; recette bolognaise d'après Dissapore, 2018, et Il Giornale del Cibo (thon émietté)"
+  },
+  {
+   "text": "Un peu d'eau de cuisson des pâtes aide la sauce à bien enrober les pâtes.",
+   "source": "Dissapore (une demi-louche ; « quelques cuillerées » dans la version aux tomates cerises)"
+  },
+  {
+   "text": "Spaghettis ou pâtes courtes ? Les spaghettis sont la tradition ; Dissapore trouve que les pâtes courtes se marient mieux au thon, et Cookist prend des rigatoni.",
+   "source": "Wikipédia (it) ; Dissapore ; Cookist"
+  },
+  {
+   "text": "Pour une version plus fine, prends de la ventresca, la partie la plus grasse et la plus noble du thon.",
+   "source": "Dissapore"
+  },
+  {
+   "text": "Le persil se met cru, sur l'assiette déjà servie.",
+   "source": "Recette bolognaise, d'après Dissapore (2018) et Il Giornale del Cibo (2019) : variante admise"
+  },
+  {
+   "text": "C'était un plat des jours maigres : à Bologne, on le mangeait le vendredi et la veille de Noël.",
+   "source": "Cristina Bragaglia, citée par Il Giornale del Cibo et par Dissapore ; Wikipédia (it)"
+  },
+  {
+   "text": "Le thon en boîte est arrivé en Italie en 1868, à Gênes ; la recette s'est répandue ensuite.",
+   "source": "Il Giornale del Cibo ; Dissapore (Cristina Bragaglia) ; Wikipédia (it)"
+  },
+  {
+   "text": "La recette bolognaise a été déposée à la Chambre de commerce de Bologne par l'Accademia Italiana della Cucina, après une recherche historique.",
+   "source": "Dissapore (Anna Silveri, 2018) ; Il Giornale del Cibo ; Wikipédia (it)"
+  }
+ ],
+ "mistakes": [
+  "Laisser cuire le thon trop longtemps : il devient sec (Cookist).",
+  "Faire dorer l'oignon au lieu de le laisser fondre (Dissapore).",
+  "Oublier d'égoutter le thon (Dissapore).",
+  "Trop cuire les pâtes : égoutte-les al dente (Dissapore, Cookist).",
+  "Garder le plat plus d'un jour : au plus 1 jour au réfrigérateur, en boîte hermétique (Cookist)."
+ ],
+ "serving": "Tout de suite, avec un peu de persil cru sur l'assiette si tu aimes (recette bolognaise, d'après Dissapore et Il Giornale del Cibo). Les restes : dans une boîte hermétique au réfrigérateur, au plus 1 jour (Cookist) ; mets-les au froid dans les 2 heures après la cuisson (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+ "variants": [
+  "La recette de Bologne, déposée par l'Accademia Italiana della Cucina (reprise par Dissapore en 2018 et par Il Giornale del Cibo en 2019) : pour 4, 320 g de spaghettis, 180 g de thon à l'huile, un oignon et 700 g de tomates fraîches (ou une boîte de 400 g de pelées), cuites une demi-heure à feu doux ; le thon s'ajoute 10 minutes avant la fin. Plus longue que la version rapide. Variantes admises : anchois ou persil.",
+  "À la romaine : ail et piment à la place de l'oignon (Wikipédia ; Cristina Bragaglia, citée par Dissapore).",
+  "Avec des olives, des câpres ou des petits pois (Dissapore) ; ou olives, câpres et anchois, avec tomates cerises et coulis (Cookist, chef Ruben Bondì).",
+  "Aux tomates cerises cuites à feu vif avec une gousse d'ail (Dissapore). La recette ajoute du bouillon en poudre, non repris ici.",
+  "À Palerme : sans tomate, avec raisins secs, pignons et fenouil sauvage (Wikipédia)."
+ ],
+ "sources": [
+  {
+   "name": "Dissapore, fiche « Pasta al tonno », 10 avril 2022 (mise à jour le 24 août 2022)",
+   "url": "https://www.dissapore.com/ricette/pasta-al-tonno/",
+   "used_for": "Pour 4 : 320 g de pâtes, 150 g de thon à l'huile égoutté, 1 échalote, 400 g de pulpe de tomate, 4 c. à s. d'huile vierge extra, sel. Échalote fondue jusqu'à ce qu'elle soit tendre et transparente, thon et tomate, cuisson jusqu'à une sauce veloutée pendant que les pâtes cuisent ; pâtes sautées avec une demi-louche d'eau de cuisson ; olives, câpres, petits pois ; ventresca ; pâtes courtes préférées ; plat des étudiants ; 5 + 15 min."
+  },
+  {
+   "name": "Dissapore, Rossella Neri, « Pasta con tonno e pomodorini, la ricetta veloce e saporita », 22 février 2025 (mise à jour le 5 mai 2026)",
+   "url": "https://www.dissapore.com/ricette/pasta-con-tonno-e-pomodorini/",
+   "used_for": "Pour 4 : 400 g de pâtes, 6 c. à s. d'huile, 1 gousse d'ail, 400 g de tomates cerises, 200 g de thon égoutté, persil, sel léger. Thon à l'huile d'olive conseillé (chair plus tendre, goût plus riche) ; pâtes égouttées avant la fin avec quelques cuillerées d'eau de cuisson ; conservation."
+  },
+  {
+   "name": "Dissapore, Anna Silveri, « Spaghetti al tonno: ricetta tradizionale bolognese », 15 décembre 2018",
+   "url": "https://www.dissapore.com/notizie/spaghetti-al-tonno-ricetta-tradizionale-bolognese/",
+   "used_for": "Dépôt de la recette par l'Accademia à la Chambre de commerce de Bologne après les recherches de Cristina Bragaglia ; jours maigres, veille de Noël ; premières boîtes de thon à Gênes en 1868 ; à Rome on met de l'ail, à Bologne le thon s'ajoute après ; variantes anchois ou persil. Reprend la recette de l'Accademia."
+  },
+  {
+   "name": "Cookist, chef Ruben Bondì, « Pasta al tonno: la ricetta di chef Ruben Bondì », 11 mai 2022",
+   "url": "https://www.cookist.it/pasta-al-tonno-ricetta/",
+   "used_for": "Pour 2 : 200 g de pâtes, 150 g de tomates cerises et 100 g de coulis, 100 g de thon égoutté, olives, câpres, 2 anchois, ail, piment, persil, basilic. Thon ajouté presque en fin de cuisson, sinon il se dessèche ; pâtes al dente mélangées à la sauce, servies tout de suite ; 1 jour au réfrigérateur en boîte hermétique ; 30 min au total."
+  },
+  {
+   "name": "Il Giornale del Cibo, Matteo Garuti, « Spaghetti alla Bolognese: quelli autentici sono al tonno? », 23 avril 2019",
+   "url": "https://www.ilgiornaledelcibo.it/spaghetti-bolognese-tonno/",
+   "used_for": "Histoire : premières boîtes de thon à Gênes en 1868, repas maigres, vendredi et veille de Noël (Cristina Bragaglia), recette enregistrée le 14 décembre à la Chambre de commerce de Bologne ; le thon ne doit pas cuire longtemps avec la sauce, il s'ajoute en fin de préparation ; reprend la recette de l'Accademia."
+  },
+  {
+   "name": "Il Giornale del Cibo, fiche de lectrice « Spaghetti al tonno » (Monia, 6 juin 2007)",
+   "url": "https://www.ilgiornaledelcibo.it/ricetta/spaghetti-al-tonno/",
+   "used_for": "Proportions seulement (400 g de spaghettis, 160 g de thon, 400 g de sauce tomate pour 4), comptées dans les médianes. La méthode, longue, n'est pas reprise."
+  },
+  {
+   "name": "Wikipédia en italien, « Spaghetti al tonno », consulté le 6 novembre 2026",
+   "url": "https://it.wikipedia.org/wiki/Spaghetti_al_tonno",
+   "used_for": "Versions régionales : Bologne (recherche de l'Accademia, début du XXe siècle, vendredis sans viande), Rome (thon, oignon, pulpe de tomate, huile d'olive, persil ; parfois ail et piment à la place de l'oignon), Palerme (sans tomate, raisins secs, pignons, fenouil sauvage) ; thon en boîte à Gênes en 1868."
+  },
+  {
+   "name": "FDA (agence sanitaire américaine), « Safe Food Handling », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+   "used_for": "Plats cuisinés au réfrigérateur dans les 2 heures ; restes réchauffés à 165 °F (74 °C, conversion calculée)."
+  },
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », article du 24 décembre 2020, lu le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Contre-vérification : Source officielle française qui recoupe la FDA : « ne pas conserver les aliments plus de 2 heures à température ambiante avant réfrigération » ; garder 4 °C dans la zone la plus froide du réfrigérateur."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « طريقة تحضير معكرونة بالطون والخضر كتجي لذيذة » (pâtes au thon et aux légumes, titre en darija), 2 décembre 2016, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/52913.html",
+   "used_for": "Contre-vérification : Recette marocaine de pâtes chaudes au thon et à la tomate (400 g de pâtes, tomates, oignon, poivrons, concentré de tomate, olives, thon égoutté, ail, huile d'olive) : le plat s'appelle « معكرونة بالطون » dans le titre en darija, et le thon « تونة » dans la recette."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « معكرونة بالتونة للنساء للي متبعين الريجيم », 14 février 2019, lu le 7 novembre 2026",
+   "url": "https://www.lalamoulati.net/183614.html",
+   "used_for": "Contre-vérification : Le nom arabe « معكرونة بالتونة » (pâtes au thon). La recette elle-même est une salade de pâtes froides à la mayonnaise, un autre plat : seul le nom sert ici."
+  }
+ ],
+ "discrepancies": [
+  "Pâtes pour 4 : 320 g (recette bolognaise, d'après Dissapore 2018 ; Dissapore 2022) ou 400 g (Dissapore, tomates cerises ; Cookist, 200 g pour 2 ; fiche de lectrice d'Il Giornale del Cibo). Retenu : 400 g, majorité et médiane, comme pour les spaghettis aglio e olio. Les autres quantités sont ramenées à 400 g de pâtes.",
+  "Thon : de 40 à 56 g pour 100 g de pâtes (180 g pour 320 g dans la recette bolognaise d'après Dissapore 2018, 150 g égoutté pour 320 g chez Dissapore, 200 g pour 400 g chez Dissapore et Cookist, 160 g pour 400 g chez la lectrice d'Il Giornale del Cibo). Médiane : 50 g, soit 200 g pour 400 g (calcul python).",
+  "Tomates : de 100 à 125 g pour 100 g de pâtes ; médiane 125 g, soit 500 g pour 400 g, une boîte de 400 g et un quart (calcul python).",
+  "Huile : 4 c. à s. pour 320 g (Dissapore) et 6 pour 400 g (Dissapore, tomates cerises) ; les autres disent « selon le goût ». Ramenées à 400 g : 5 et 6. Retenu : 5 c. à s.",
+  "Aromate : oignon (recette bolognaise, d'après Dissapore 2018 ; lectrice d'Il Giornale del Cibo) ou échalote (Dissapore 2022), contre ail (Dissapore, tomates cerises ; Cookist ; version romaine). Retenu : l'oignon, celui de la recette bolognaise ; l'ail passe en variante.",
+  "Moment du thon : avec la tomate (Dissapore) ou vers la fin (recette bolognaise d'après Dissapore 2018, 10 minutes avant ; Cookist). Retenu : vers la fin. Je le mets dans la sauce quand les pâtes plongent dans l'eau, pour qu'il mijote le temps de leur cuisson, soit à peu près les 10 minutes de la recette bolognaise selon le paquet.",
+  "Cuisson de la sauce : une demi-heure dans la recette bolognaise (avec des tomates fraîches, d'après Dissapore 2018), jusqu'à ce qu'elle soit veloutée chez Dissapore (15 min de cuisson en tout). Retenu : la version courte, pour rester sous 30 minutes ; la longue est en variante.",
+  "Date du dépôt de la recette bolognaise : 14 décembre 2018 selon Il Giornale del Cibo (l'article de Dissapore date du 15 décembre 2018), 14 novembre 2018 selon Wikipédia. Seule l'année est donnée.",
+  "Conservation : 1 jour (Cookist) ; « jusqu'au repas suivant » pour les pâtes assaisonnées et 5 jours pour la sauce seule (Dissapore, tomates cerises). Retenu : 1 jour.",
+  "Temps : Dissapore 5 + 15 min, Cookist 30 min au total. Retenu : 5 + 20 min, en comptant l'eau à porter à ébullition (estimation).",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Serious Eats, Giallo Zafferano, La Cucina Italiana, Il Cucchiaio d'Argento, Barilla, Agrodolce et Fatto in casa da Benedetta n'ont pas été lus : accès refusé aux agents d'IA ou aux robots (erreurs 402 ou 403, ou fichier robots.txt). Ils ne sont pas utilisés.",
+  "Nom en darija : aucun trouvé en lettres latines dans une source, laissé vide. Nom arabe (معكرونة بالتونة) : employé par le site marocain Lalla Moulati, dans deux articles ; pas de deuxième source indépendante.",
+  "Poids égoutté du thon de la recette bolognaise (« 180 g de thon à l'huile », d'après Dissapore 2018) : non précisé.",
+  "Quantité de sel : aucune source ne la chiffre.",
+  "Durée exacte de mijotage de la version rapide : aucune durée n'est donnée par deux sources indépendantes, d'où l'absence de minuteur.",
+  "Conservation d'une boîte de thon entamée : règle officielle non lue (pages de l'USDA inaccessibles).",
+  "Disponibilité des tomates pelées et du thon à l'huile d'olive au Maroc : non vérifiée par une source.",
+  "Accademia Italiana della Cucina : son fichier robots.txt interdit aux robots ses pages de recettes (relu le 7 novembre 2026). Ses deux recettes ont donc été retirées des sources ; la recette bolognaise reste citée d'après ses reprises (Dissapore, Il Giornale del Cibo). Ce qui ne reposait que sur elles a été retiré : la variante au thon frais à la sicilienne, le thon « en gros morceaux », le persil « avec mesure » et le thon « de qualité »."
+ ],
+ "cuisine": "Italienne",
+ "rayon": "D'ailleurs",
+ "img_alt": "Spaghetti nappés de sauce tomate au thon",
+ "img": "img/pates-thon-tomate.jpg",
+ "photo": {
+  "author": "10Rosso",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_al_tonno_1.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Poisson frit à la marocaine. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "poisson-frit",
+ "title": "Poisson frit à la marocaine",
+ "darija": "Hout mqli",
+ "arabic": "الحوت المقلي",
+ "tagline": "Des sardines collées deux par deux avec une chermoula à l'ail, au cumin et au paprika, des filets de merlan marinés, farinés puis frits jusqu'à ce qu'ils soient bien dorés. Avec du citron, c'est la friture de la maison.",
+ "category": "Poisson",
+ "occasion": "En entrée, ou en plat avec des légumineuses et des salades pour un déjeuner complet (Taste of Maroc) ; au f'tour du ramadan à El Jadida, où les fritures de poissons sont au menu (Hespress)",
+ "region": "Tout le Maroc, surtout les villes côtières. La sardine est le poisson le plus abondant des côtes marocaines (Choumicha) et le merlan un choix très courant (Taste of Maroc). Les sardines farcies frites se vendent aussi dans la rue loin de la mer, parfois seulement certains jours, par exemple à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 25,
+  "cook": 20,
+  "rest": 30,
+  "rest_label": "Marinade"
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Planche à découper et petit couteau",
+  "Passoire et papier absorbant",
+  "Mortier et pilon (ou mixeur)",
+  "Bol et plat creux pour la marinade, avec un film ou un couvercle",
+  "Assiette creuse pour la farine",
+  "Friteuse électrique à thermostat, ou grande poêle profonde à bords hauts",
+  "Couvercle à la taille de la poêle, toujours à portée de main",
+  "Écumoire ou pince",
+  "Thermomètre de cuisson (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Poisson",
+   "items": [
+    {
+     "id": "sardines",
+     "q": 500,
+     "u": "g",
+     "name": "de sardines fraîches",
+     "note": "petites de préférence ; à écailler, vider et ouvrir en deux (étape 1)",
+     "canon": "sardine"
+    },
+    {
+     "id": "merlans",
+     "q": 500,
+     "u": "g",
+     "name": "de merlans",
+     "note": "à écailler, vider et lever en filets (étape 2), ou déjà en filets chez le poissonnier",
+     "canon": "merlan"
+    }
+   ]
+  },
+  {
+   "group": "Chermoula",
+   "items": [
+    {
+     "id": "persil",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de persil plat",
+     "note": "finement haché",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de coriandre fraîche",
+     "note": "finement hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "ail",
+     "q": 4,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à peler",
+     "canon": "ail"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "canon": "sel"
+    },
+    {
+     "id": "cumin",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "paprika",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de paprika doux (piment doux)",
+     "canon": "paprika"
+    },
+    {
+     "id": "citron-jus",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "pour le jus ; ou du vinaigre, comme Choumicha",
+     "canon": "citron"
+    },
+    {
+     "id": "piment-fort",
+     "q": null,
+     "u": "",
+     "name": "piment fort en poudre",
+     "note": "facultatif ; Choumicha en met 1 c. à c. pour 1 kg de poisson",
+     "canon": "piment-cayenne"
+    }
+   ]
+  },
+  {
+   "group": "Friture",
+   "items": [
+    {
+     "id": "farine",
+     "q": null,
+     "u": "",
+     "name": "farine",
+     "note": "pour enrober ; Choumicha en prévoit 100 g pour 1 kg de poisson",
+     "canon": "farine"
+    },
+    {
+     "id": "semoule",
+     "q": null,
+     "u": "",
+     "name": "semoule fine",
+     "note": "facultatif, à mélanger à la farine",
+     "canon": "semoule"
+    },
+    {
+     "id": "huile",
+     "q": null,
+     "u": "",
+     "name": "huile de friture",
+     "note": "assez pour couvrir au moins la moitié de l'épaisseur du poisson",
+     "canon": "huile"
+    }
+   ]
+  },
+  {
+   "group": "Service",
+   "items": [
+    {
+     "id": "citron-service",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "en quartiers ou en tranches",
+     "canon": "citron"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Écaille et vide les sardines",
+   "text": "Sous un filet d'eau froide, écaille {{sardines}} de sardines. Coupe la tête, vide le ventre, puis retire l'arête centrale : chaque sardine s'ouvre à plat, en deux filets qui tiennent par le dos. Tu peux aussi demander au poissonnier de le faire.",
+   "timer": null,
+   "tip": "Choisis des sardines brillantes et fermes, avec leurs écailles et des branchies bien rouges, à l'odeur fraîche et légère, jamais forte ni d'ammoniaque."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare les merlans",
+   "text": "Écaille {{merlans}} de merlans et vide-les. Coupe la tête et lève les filets, ou demande au poissonnier de le faire.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Rince et sèche le poisson",
+   "text": "Rince rapidement tout le poisson à l'eau froide et laisse-le égoutter dans une passoire. Sèche-le bien avec du papier absorbant. Lave-toi ensuite les mains au savon pendant au moins 20 secondes, puis lave la planche et le couteau à l'eau chaude savonneuse.",
+   "timer": null,
+   "tip": "Un poisson bien sec, c'est plus sûr : l'eau fait bouillonner l'huile chaude, qui peut déborder."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pile l'ail et les herbes",
+   "text": "Hache très finement {{persil}} de persil et {{coriandre}} de coriandre. Au mortier, écrase {{ail:full}} avec {{sel}} de sel. Ajoute les herbes et pile encore un peu.",
+   "timer": null,
+   "tip": "Hache bien les herbes avant de les piler, sinon la chermoula fait des fils. Pas de mortier ? Un mixeur fait l'affaire.",
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Pile l'ail et les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Termine la chermoula",
+   "text": "Mets la pâte dans un bol. Ajoute {{cumin}} de cumin, {{paprika}} de paprika et le jus de {{citron-jus:full}}. Mélange bien. Si tu aimes le piquant, ajoute un peu de {{piment-fort}}.",
+   "timer": null,
+   "tip": "Avant de toucher le poisson cru, mets un peu de chermoula de côté dans un petit bol : elle servira de sauce à table ou dans un sandwich."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Colle les sardines deux par deux",
+   "text": "Pose une sardine ouverte, peau dessous. Étale une bonne couche de chermoula sur la chair, puis couvre avec une deuxième sardine, peau dessus. Presse doucement. Continue avec les autres.",
+   "timer": null,
+   "tip": "Il reste une sardine seule ? Garnis-la de chermoula et replie-la sur elle-même."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Enrobe les merlans",
+   "text": "Étale de la chermoula sur les filets de merlan et referme-les sur eux-mêmes. Frotte aussi l'extérieur des sardines avec le reste de la chermoula.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisse mariner au frais",
+   "text": "Couvre et mets au réfrigérateur au moins 30 minutes. Taste of Maroc laisse mariner au moins 2 heures.",
+   "timer": {
+    "min": 30,
+    "label": "Marinade",
+    "done": "La marinade est prête. Passe à la friture."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Prépare la poêle",
+   "text": "Prends une friteuse à thermostat ou une grande poêle profonde à bords hauts. Verse assez d'{{huile}} pour couvrir au moins la moitié de l'épaisseur du poisson, sans jamais remplir à plus d'un tiers de la hauteur. Garde un couvercle de la bonne taille à portée de main.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais chauffer l'huile",
+   "text": "Chauffe l'huile progressivement, à feu moyen. Elle doit être bien chaude mais ne jamais fumer : si elle fume, baisse le feu et attends qu'elle refroidisse un peu. Avec une friteuse ou un thermomètre, ne dépasse pas 180 °C. À partir de maintenant, ne quitte plus la poêle des yeux.",
+   "timer": null,
+   "tip": "Si l'huile prend feu : ne jette jamais d'eau. Glisse le couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi. Appelle sans attendre les pompiers, même si le feu semble éteint. Si le feu ne s'éteint pas ou s'étend, fais sortir tout le monde, ferme la porte de la cuisine et ne rentre pas."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Farine le poisson",
+   "text": "Sors le poisson de la marinade et laisse-le égoutter. Juste avant de le frire, passe chaque morceau dans la {{farine}}, des deux côtés. Tu peux mélanger un peu de {{semoule}} à la farine.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais frire la première face",
+   "text": "Pose délicatement quelques morceaux dans l'huile, sans les serrer. Laisse frire environ 3 minutes, jusqu'à ce que le dessous soit bien doré.",
+   "timer": {
+    "min": 3,
+    "label": "Première face",
+    "done": "Retourne les morceaux avec une pince ou une écumoire."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Retourne et finis la cuisson",
+   "text": "Retourne les morceaux et laisse frire encore environ 3 minutes. C'est cuit quand c'est bien doré et que la chair se détache facilement à la fourchette.",
+   "timer": {
+    "min": 3,
+    "label": "Deuxième face",
+    "done": "Bien doré des deux côtés ? Sors le poisson de l'huile."
+   },
+   "tip": "Avec un thermomètre à sonde, le poisson est cuit à 63 °C à cœur."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte et continue",
+   "text": "Sors le poisson avec l'écumoire et pose-le sur du papier absorbant. Retire les débris qui flottent dans l'huile, puis fais frire la fournée suivante de la même façon. À la fin, éteins le feu.",
+   "timer": null,
+   "tip": "Une huile devenue brune ou noire, épaisse, qui mousse ou qui fume est abîmée : ne la réutilise pas, et ne la verse jamais dans l'évier.",
+   "img": {
+    "src": "img/etapes/sardines-friture.jpg",
+    "alt": "Sardines frites et dorées, posées sur du papier absorbant",
+    "caption": "Égoutter sur du papier absorbant",
+    "w": 1000,
+    "h": 669,
+    "credit": "Photo de l'étape « Égoutte et continue » : formalfallacy @ Dublin (Victor), Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Sers chaud",
+   "text": "Sers tout de suite, avec {{citron-service:full}} en quartiers, une salade verte et des olives.",
+   "timer": null,
+   "tip": "Ne laisse pas le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Choisis des sardines de moins de 15 cm : plus la sardine est petite, plus sa chair est délicieuse. Elles doivent être brillantes, fermes, garder leurs écailles, avec des branchies rouge carmin et humides.",
+   "source": "Choumicha, « La sardine, un trésor de bienfaits » ; Taste of Maroc (Nada Kiffa) : les petites sardines fraîches sont idéales"
+  },
+  {
+   "text": "Un poisson frais sent frais et léger, jamais fort, aigre ou l'ammoniaque. Ses yeux sont clairs et brillants, et sa chair ferme reprend sa forme quand tu appuies dessus.",
+   "source": "FDA, « Selecting and Serving Fresh and Frozen Seafood Safely » ; Choumicha (sardines brillantes et fermes, branchies rouges)"
+  },
+  {
+   "text": "La sardine est très fragile : cuisine-la le jour de l'achat. Au besoin, garde-la 24 heures au plus au réfrigérateur, écaillée, vidée, rincée, essuyée et couverte d'un film, dans un réfrigérateur à 4 °C ou moins.",
+   "source": "Choumicha (24 h maximum, le jour même de préférence) ; FDA (produits de la mer gardés à 40 °F, soit 4 °C, ou moins)"
+  },
+  {
+   "text": "Les deux sardines collées par la chermoula s'appellent « mzeouej » (mariées), « machrouk » (associées) ou « ʿachiq w maʿchouq » (les amoureux).",
+   "source": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; SBS (Ellie Bouhadana) : « mzeouejim », qui veut dire « mariés »"
+  },
+  {
+   "text": "La vraie chermoula se fait avec des herbes fraîches et de l'ail, pas avec un mélange sec du commerce.",
+   "source": "Taste of Maroc (Nada Kiffa) ; toutes les recettes marocaines lues (Choumicha, Bladi, Cooking With Alia) utilisent des herbes fraîches"
+  },
+  {
+   "text": "Pour le poisson, on aime une chermoula citronnée.",
+   "source": "Taste of Maroc (Nada Kiffa et Christine Benlafquih) ; Bladi (jus de citron dans « Sardines farcies », « Poisson frits » et « Chermoula pour le poisson » ; sa reprise de la recette de Choumicha est au vinaigre) ; Lalla Moulati (jus de citron, avec un peu de vinaigre, dans sa chermoula pour le poisson)"
+  },
+  {
+   "text": "Pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées : hachées grossièrement, elles donnent une chermoula qui fait des fils.",
+   "source": "Taste of Maroc (Nada Kiffa) ; Bladi, « Chermoula pour le poisson » (coriandre pilée au mortier avec le gros sel et l'ail) ; Choumicha (herbes émincées)"
+  },
+  {
+   "text": "Garde un peu de chermoula propre, mise de côté avant de toucher le poisson cru, pour la servir en sauce : jamais celle qui a touché le poisson cru.",
+   "source": "Taste of Maroc (Nada Kiffa aime en garder un peu de côté pour servir avec les grillades, poisson compris, surtout l'été) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)"
+  },
+  {
+   "text": "Égoutte et sèche bien le poisson avant la friture : l'eau fait bouillonner et déborder l'huile.",
+   "source": "SFDA (Autorité saoudienne des aliments et des médicaments) ; pompiers du Cambridgeshire ; Taste of Maroc et Choumicha (poisson essuyé, séché)"
+  },
+  {
+   "text": "Farine le poisson juste avant de le plonger dans l'huile.",
+   "source": "Choumicha (« passer les poissons dans la farine et les plonger dans un bain d'huile chaude ») ; Taste of Maroc (sortir de la marinade, enrober, frire)"
+  },
+  {
+   "text": "Fais frire par petites quantités, sans serrer les morceaux.",
+   "source": "SBS (Ellie Bouhadana) : par fournées, sans surcharger la poêle ; Bladi, « Beignets de sardines » : par séries de quatre"
+  },
+  {
+   "text": "Chauffe l'huile progressivement, à feu moyen, puis garde-la bien chaude sans fumée.",
+   "source": "Bladi, « Merlans frits » (bain d'huile chauffé à feu moyen) ; SFDA (chauffer lentement, sans atteindre le point de fumée) ; Cooking With Alia (feu baissé une fois l'huile chaude)"
+  },
+  {
+   "text": "Change l'huile dès qu'elle devient brune ou noire. Une huile foncée, épaisse, qui mousse, qui fume ou qui sent le rance est abîmée. Ne la verse pas dans l'évier.",
+   "source": "SFDA ; SCAV de Genève, « Information sur les huiles de friture »"
+  },
+  {
+   "text": "Au Maroc, le poisson frit se sert souvent avec des haricots blancs à la tomate ou des salades fraîches (concombre, tomate, oignon), ou avec une salade verte, du citron et des olives m'chermlines.",
+   "source": "Taste of Maroc (Nada Kiffa) ; Choumicha, « Friture de poissons m'chermel »"
+  }
+ ],
+ "mistakes": [
+  "Jeter de l'eau sur de l'huile en feu : ça provoque une explosion de flammes. Glisse un couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi ; appelle sans attendre les pompiers, même si le feu semble éteint, et si le feu continue, fais sortir tout le monde et ferme la porte (USFA ; gouvernement du Québec ; pompiers du Cambridgeshire ; comté du Warwickshire).",
+  "Continuer à chauffer une huile qui fume : baisse le feu et laisse-la refroidir avant d'y mettre le poisson (gouvernement du Québec ; pompiers du Cambridgeshire ; SFDA).",
+  "Remplir la poêle à plus d'un tiers d'huile (pompiers du Cambridgeshire ; comté du Warwickshire).",
+  "Quitter la poêle des yeux pendant la friture, même quelques secondes (pompiers du Cambridgeshire ; comté du Warwickshire ; gouvernement du Québec).",
+  "Mettre dans l'huile un poisson mouillé ou plein de marinade liquide : l'huile bouillonne et peut déborder (SFDA ; pompiers du Cambridgeshire).",
+  "Serrer trop de morceaux dans la poêle (SBS ; Bladi).",
+  "Hacher grossièrement les herbes : la chermoula fait des fils (Taste of Maroc ; Choumicha utilise des herbes émincées).",
+  "Servir en sauce une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+  "Acheter un poisson qui sent fort, aigre ou l'ammoniaque, ou des sardines ternes et molles (FDA ; Choumicha).",
+  "Laisser le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA)."
+ ],
+ "serving": "Sers le poisson chaud, aussitôt égoutté : les sardines se mangent de préférence chaudes, avec des tranches de citron (Bladi) ; Cooking With Alia les sert tout de suite, avec un filet de jus de citron. Taste of Maroc les sert aussi tièdes ou à température ambiante, sur un lit de persil ou de salade, avec des quartiers de citron et de la harissa, à côté de haricots blancs à la tomate ou d'une salade concombre-tomate-oignon. Choumicha accompagne sa friture d'une salade verte, de tranches de citron et d'olives m'chermlines. Ne laisse pas le poisson plus de 2 heures hors du réfrigérateur (FDA).",
+ "variants": [
+  "Seulement des sardines farcies : c'est le grand classique de la rue (Taste of Maroc ; Bladi, « Sardines farcies »).",
+  "Une seule sardine garnie de chermoula et repliée sur elle-même, au lieu de deux sardines collées (Taste of Maroc).",
+  "Merlans entiers : écaillés, vidés, farcis de chermoula, passés dans la farine tamisée et frits quelques minutes en les retournant, servis avec des quartiers de citron (Bladi, « Merlans frits »).",
+  "Chinchard entier enduit de marinade (persil, ail, cumin, paprika, citron) dehors et un peu dedans, puis fariné et frit (Bladi, « Poisson frits »).",
+  "Chermoula au vinaigre au lieu du citron (Choumicha), ou plus piquante avec du piment fort (Choumicha) ou de la harissa (Taste of Maroc).",
+  "Chermoula à l'huile d'olive (Taste of Maroc ; Cooking With Alia ; Bladi, « Chermoula pour le poisson »).",
+  "Chermoula du Nord : avec du thym, du poivre noir et beaucoup de persil plat (Taste of Maroc).",
+  "Chermoula au citron confit (SBS, Ellie Bouhadana ; Taste of Maroc, en option).",
+  "Enrobage farine et semoule (SBS, Ellie Bouhadana) ou farine et farine de blé dur (Taste of Maroc).",
+  "Beignets de sardines : sardines nettoyées, sans tête ni arête centrale, trempées dans une pâte (œuf, farine, huile, eau glacée) et frites 5 minutes par séries de quatre (Bladi).",
+  "À El Jadida, les fritures de poissons font partie du f'tour du ramadan (Hespress, 2021)."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay), « Friture de poissons m'chermel » (site officiel, hors ligne ; copie archivée du 10 juillet 2026)",
+   "url": "https://web.archive.org/web/20260710200559/https://www.choumicha.ma/recette/143-friture-de-poissons-m-chermel.html",
+   "used_for": "Recette de base : 500 g de sardines et 500 g de merlans en filets pour 4 personnes ; chermoula (1 botte de persil, 1 botte de coriandre, 4 gousses d'ail, 2 c. à c. de piment doux, 1 c. à c. de piment fort, 2 c. à c. de cumin, 1 c. à c. de sel, 4 c. à s. de vinaigre) ; sardines collées deux par deux, merlans enduits et refermés ; 100 g de farine, bain d'huile chaude, friture jusqu'à dorure, égouttage sur papier absorbant ; 20 min de cuisson, 50 min en tout ; service avec salade verte, tranches de citron et olives m'chermlines."
+  },
+  {
+   "name": "Choumicha, « La sardine, un trésor de bienfaits » (copie archivée du 21 mai 2026)",
+   "url": "https://web.archive.org/web/20260521074224/https://choumicha.ma/produits-de-saisons/la-sardine-un-tresor-de-bienfaits.html",
+   "used_for": "Sardine, poisson le plus abondant des côtes marocaines ; choisir des sardines de moins de 15 cm, brillantes, fermes, avec leurs écailles, branchies rouge carmin et humides ; sardine écaillée, vidée, étêtée, rincée rapidement, essuyée, gardée 24 h au plus au réfrigérateur dans un plat filmé, à consommer de préférence le jour même. Les affirmations de santé de la page ne sont pas reprises."
+  },
+  {
+   "name": "Taste of Maroc, Nada Kiffa (native de Casablanca), « Moroccan Stuffed Fried Sardines with Chermoula », mise à jour du 24 octobre 2017 (site qui refuse les robots, erreur 403 ; copie archivée du 5 août 2026)",
+   "url": "https://web.archive.org/web/20260805192917/https://tasteofmaroc.com/moroccan-stuffed-sardines/",
+   "used_for": "Plat de rue classique, vendu aussi à Jemaa el-Fna et dans la médina de Fès ; noms mzeouej, machrouk, ʿachiq w maʿchouq ; petites sardines fraîches ; 1 kg de sardines écaillées, sans arête et ouvertes pour 6 portions ; 1 tasse de chermoula ; marinade d'au moins 2 h au réfrigérateur ; enrobage farine (375 g) et farine de blé dur (190 g) ; friture peu profonde ou profonde environ 3 min par face ; égouttage ; service chaud, tiède ou à température ambiante avec citron, harissa, haricots blancs, salades ; 15 min de préparation, 20 min de cuisson."
+  },
+  {
+   "name": "Taste of Maroc, Nada Kiffa, « Chermoula Recipe – Moroccan Marinade of Herbs and Spices », mise à jour du 17 février 2020 (copie archivée du 27 août 2026)",
+   "url": "https://web.archive.org/web/20260827184612/https://tasteofmaroc.com/moroccan-chermoula-recipe/",
+   "used_for": "Chermoula authentique aux herbes fraîches et à l'ail ; coriandre et persil (rapport de 4:1 à 4:3), cumin, paprika doux, ail, sel, citron ou vinaigre, huile d'olive ; citronnée pour le poisson ; ail pilé avec le sel puis herbes bien hachées (sinon elle fait des fils) ; mortier ou mixeur ; version piquante à la cayenne ou à la harissa ; version du Nord au thym et au poivre ; une semaine au réfrigérateur ; en commentaire, Nada Kiffa garde un peu de chermoula pour servir avec le poisson grillé."
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (fondatrice, résidente de longue date au Maroc, à la tête d'une entreprise de visites culinaires à Casablanca), « Moroccan Sardine Balls Recipe – Fish Meatballs in Tomato Sauce », mise à jour du 13 octobre 2020 (copie archivée du 11 mai 2026)",
+   "url": "https://web.archive.org/web/20260511111912/https://tasteofmaroc.com/moroccan-sardine-fish-balls-in-tomato-sauce/",
+   "used_for": "Sardines bon marché et abondantes au Maroc ; merlan, autre choix populaire ; demander au poissonnier de lever les filets."
+  },
+  {
+   "name": "Taste of Maroc, Nada Kiffa, « Mchermel in Moroccan Cooking », mise à jour du 31 octobre 2017 (copie archivée du 16 juillet 2026)",
+   "url": "https://web.archive.org/web/20260716005432/https://tasteofmaroc.com/mchermel-moroccan-cooking/",
+   "used_for": "Sens du mot « m'chermel » (mariné), présent dans le titre de la recette de Choumicha."
+  },
+  {
+   "name": "Bladi.net, « Sardines farcies » (recette marocaine, sans auteur)",
+   "url": "https://www.bladi.net/sardines-farcies.html",
+   "used_for": "1 kg de sardines fraîches ; gratter, vider, nettoyer, bien laver, ôter la tête et l'arête centrale, laisser égoutter ouvertes ; farce ½ bouquet de persil, ½ bouquet de coriandre, 3 gousses d'ail, 1 c. à c. de cumin, 1 c. à c. de paprika, jus d'1 citron, sel ; sardines collées ventre contre ventre, farinées des deux côtés, frites dans l'huile bien chaude ; à manger chaudes avec des tranches de citron (2 citrons en tout)."
+  },
+  {
+   "name": "Bladi.net, « Merlans frits »",
+   "url": "https://www.bladi.net/merlans-frits.html",
+   "used_for": "1,5 kg de petits merlans écaillés, vidés, lavés ; bain d'huile chauffé à feu moyen ; farcis de chermoula, passés dans la farine tamisée, frits quelques minutes en les retournant jusqu'à dorure ; égouttés ; 2 gros citrons en quartiers."
+  },
+  {
+   "name": "Bladi.net, « Poisson frits »",
+   "url": "https://www.bladi.net/poisson-frits.html",
+   "used_for": "1 kg de chinchard ; marinade 1 bouquet de persil, 3 gousses d'ail, jus d'1 citron, 1 c. à c. de cumin, 1 c. à c. de paprika, sel ; poisson enduit dehors et un peu dedans, fariné, frit dans l'huile chaude."
+  },
+  {
+   "name": "Bladi.net, « Chermoula pour le poisson »",
+   "url": "https://www.bladi.net/recettes/chermoula-pour-le-poisson.html",
+   "used_for": "Coriandre pilée au mortier avec le gros sel et l'ail ; piment doux, piment fort, cumin, jus de citron, eau, huile d'olive ; marinade au frais au moins 30 minutes ; petites pièces farinées et frites dans l'huile chaude."
+  },
+  {
+   "name": "Bladi.net, « Beignets de sardines »",
+   "url": "https://www.bladi.net/beignets-de-sardines.html",
+   "used_for": "Sardines nettoyées sous un filet d'eau froide, sans tête ni arête centrale, épongées ; friture par séries de quatre, 5 minutes ; variante en pâte à frire."
+  },
+  {
+   "name": "Bladi.net, « Friture de poissons m'chermel »",
+   "url": "https://www.bladi.net/friture-de-poissons-m-chermel.html",
+   "used_for": "Reprise de la recette de Choumicha (mêmes quantités, 6 gousses d'ail) : lue pour contrôle, pas comptée comme source indépendante."
+  },
+  {
+   "name": "Cooking With Alia, « 064 – Moroccan Sardines with Charmoula » (Alia partage « la cuisine marocaine de son enfance », page À propos)",
+   "url": "http://www.cookingwithalia.com/moroccan-sardines-with-charmoula/",
+   "used_for": "Sardines ouvertes collées deux par deux avec la chermoula (persil, coriandre, citron, huile d'olive, ail, cumin, paprika, sel, poivre) ; huile chauffée 5 min à feu vif puis feu baissé ; farine des deux côtés ; 5 min par face ; égouttage sur papier ; service immédiat avec du citron."
+  },
+  {
+   "name": "SBS Food, Ellie Bouhadana (The Cook Up with Adam Liaw), « Moroccan Stuffed Sardines », 28 novembre 2023",
+   "url": "https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/moroccan-stuffed-sardines/20a8iwequ",
+   "used_for": "Nom « mzeouejim » (mariés) ; 1 c. à s. de chermoula par paire, pressée ; enrobage farine et semoule fine (« semolina flour ») ; friture peu profonde 2 min par face, par fournées sans surcharger ; service avec tomate râpée et citron."
+  },
+  {
+   "name": "SBS Food, Hassan M'Souli (chef marocain), « Moroccan Sardines », 25 juin 2015",
+   "url": "https://www.sbs.com.au/food/recipes/moroccan-sardines",
+   "used_for": "Filets collés avec une farce aux herbes et épices, farinés, poêlés dans 2 c. à s. d'huile d'olive environ 1 min par face (donnée prise en compte dans les écarts)."
+  },
+  {
+   "name": "Hespress FR, Zoubida Senoussi, « Par région, voici les traditions culinaires marocaines du ramadan », 16 avril 2021",
+   "url": "https://fr.hespress.com/198966-par-region-voici-les-traditions-culinaires-marocaines-du-ramadan.html",
+   "used_for": "Fritures de poissons au f'tour à El Jadida ; poisson prisé pendant le ramadan à Casablanca et Agadir."
+  },
+  {
+   "name": "Hespress FR, Mohamed Jaouad El Kanabi, « Crise et prix du poisson : l'océan déserte les assiettes », 6 septembre 2024",
+   "url": "https://fr.hespress.com/384961-crise-et-prix-du-poisson-locean-deserte-les-assiettes.html",
+   "used_for": "Sardine, merlan et thon : variétés autrefois omniprésentes dans l'alimentation des Marocains."
+  },
+  {
+   "name": "Al Jazeera, Meryem Taidi, « الأجود عالميا.. سردين المغرب ثروة اقتصادية وثقافة غذاء », 21 février 2021",
+   "url": "https://www.aljazeera.net/ebusiness/2021/2/21/%D8%A7%D9%84%D8%A3%D8%AC%D9%88%D8%AF-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%B3%D8%B1%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%AB%D8%B1%D9%88%D8%A9",
+   "used_for": "Sardine, poisson de base des marchés marocains ; petits poissons pélagiques (sardine, anchois, maquereau…) : plus de 80 % des captures. Le texte ne parle pas de friture."
+  },
+  {
+   "name": "FDA (États-Unis), « Selecting and Serving Fresh and Frozen Seafood Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+   "used_for": "Signes de fraîcheur (odeur, yeux, chair ferme, branchies rouges) ; achat au froid ou sur glace ; conservation 2 jours au plus à 40 °F (4 °C) ; mains lavées 20 s au savon, planche et ustensiles à l'eau chaude savonneuse ; cuisson à 145 °F (63 °C) à cœur ou chair qui se détache facilement à la fourchette ; jamais plus de 2 h hors du réfrigérateur, 1 h au-dessus de 90 °F (32 °C)."
+  },
+  {
+   "name": "SFDA (Autorité saoudienne des aliments et des médicaments), « نصائح عند قلي السمك » (Conseils pour frire le poisson), 24 décembre 2019, mise à jour du 21 juillet 2024",
+   "url": "https://www.sfda.gov.sa/ar/awarenessarticle/78124",
+   "used_for": "Huile au moins à mi-hauteur de l'épaisseur du poisson ; chauffer lentement sans atteindre le point de fumée ; bien égoutter l'eau du poisson et le poser avec précaution ; poêle à bords hauts, chauffage électrique préférable ; retirer les débris ; huile changée si elle brunit ou noircit ; arrêter la friture et couper le feu si l'huile mousse ou bouillonne ; huiles de friture citées : coton, soja, tournesol."
+  },
+  {
+   "name": "SCAV de Genève (Service de la consommation et des affaires vétérinaires), « Information sur les huiles de friture », fiche du 6 mai 2020",
+   "url": "https://www.ge.ch/document/20680/telecharger",
+   "used_for": "Bain de friture jamais au-dessus de 180 °C ; signes d'une huile abîmée (brun foncé, épaisse, mousse, fumée, rance) ; ne pas verser l'huile usagée dans les canalisations ; huiles conseillées pour les friteuses professionnelles (arachide, huiles spéciales)."
+  },
+  {
+   "name": "Goodman Fielder Food Service (fournisseur d'huiles pour la restauration, Australie), « A guide to deep frying »",
+   "url": "https://gffoodservice.com.au/?p=6230",
+   "used_for": "Poisson frais frit à 180 °C (2 à 4 minutes en grande friture) : deuxième source pour le plafond de 180 °C ; thermomètre conseillé."
+  },
+  {
+   "name": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez », mise à jour du 10 octobre 2025",
+   "url": "https://www.quebec.ca/securite-situations-urgence/securite-incendie/prevenir-incendie/cuisine",
+   "used_for": "Surveiller en tout temps ; couvercle toujours à portée de main ; friteuse à thermostat plutôt qu'une casserole ; ne jamais continuer à chauffer une huile qui fume ; jamais d'eau sur un feu d'huile ; ne pas déplacer le récipient ; couvercle, éléments coupés, appel aux pompiers ; points de fumée des huiles."
+  },
+  {
+   "name": "Cambridgeshire Fire & Rescue Service (pompiers, Royaume-Uni), « Chip pan »",
+   "url": "https://www.cambsfire.gov.uk/home-safety/specific-safety-advice/chip-pan",
+   "used_for": "Huile qui fume = trop chaude ; jamais plus d'un tiers d'huile ; ne jamais quitter la poêle des yeux ; aliments secs (sinon l'huile déborde) ; jamais d'eau ; ne pas déplacer la poêle ; couper le feu seulement sans danger ; laisser refroidir ; appeler les pompiers."
+  },
+  {
+   "name": "Warwickshire County Council (Royaume-Uni), « Chip pan fire warning for Warwickshire residents », 4 février 2022",
+   "url": "https://www.warwickshire.gov.uk/news/article/2736/chip-pan-fire-warning-for-warwickshire-residents",
+   "used_for": "Jamais plus d'un tiers d'huile ; ne pas laisser la poêle sans surveillance ; ne pas la déplacer ; couper le feu seulement sans danger ; jamais d'eau."
+  },
+  {
+   "name": "USFA (FEMA, États-Unis), « Pictograph: Cook Top Fire Safety Tips », revu le 8 septembre 2021",
+   "url": "https://www.usfa.fema.gov/gallery/pictographs/pictograph34.html",
+   "used_for": "Couvercle toujours à portée de main ; sur un petit feu de poêle, glisser le couvercle, couper le feu, ne pas déplacer la poêle, laisser le couvercle jusqu'au refroidissement."
+  },
+  {
+   "name": "Lalla Moulati (lalamoulati.net, Maroc), « سردين معمر بحشوة ساهلة ومقلي مقرمش وجد شهي » (sardines farcies frites et croustillantes), 16 novembre 2017",
+   "url": "https://www.lalamoulati.net/93278.html",
+   "used_for": "Contre-vérification : Source marocaine trouvée par la recherche interne du site : sardines nettoyées et lavées, farcies d'un mélange de poivron, sel, poivre, citron, coriandre, paprika, harissa, concentré de tomate et huile d'olive, passées dans la farine, frites dans une huile bien chaude, servies avec des rondelles de citron. Elles n'y sont pas collées deux par deux. Nom arabe des sardines farcies : « سردين معمر »."
+  },
+  {
+   "name": "Lalla Moulati, « إلى بغيتي الحوت المقلي يجيك بنين ومرمل بلا ما يشرب الزيت دخلي تشوفي الحل » (poisson frit qui ne boit pas l'huile), 27 décembre 2020",
+   "url": "https://www.lalamoulati.net/262031.html",
+   "used_for": "Contre-vérification : Le nom « الحوت المقلي » (poisson frit) est employé par ce site marocain ; poisson lavé et nettoyé, frotté de citron, de cumin et de sel, mariné couvert au réfrigérateur, passé dans la farine, plongé dans l'huile chaude jusqu'à ce qu'il soit doré, servi chaud."
+  },
+  {
+   "name": "Lalla Moulati, « طريقتي الجديدة فتحضير السردين مقلي كيجي مقمرش وبنين ولي ذاقو كيحماق عليه » (sardines frites croustillantes), 7 novembre 2023",
+   "url": "https://www.lalamoulati.net/357794.html",
+   "used_for": "Contre-vérification : Sardines écaillées, vidées, tête et queue coupées ; marinade dedans et dehors ; farine ; huile chauffée à feu vif ; 2 minutes par face jusqu'à ce qu'elles soient dorées. Repère de durée proche des 2 à 3 min par face de SBS et de Taste of Maroc. Cette version contient de la menthe et se sert avec de la tahina, ce qu'aucune autre source marocaine lue ne fait : elle n'est citée que pour la durée."
+  },
+  {
+   "name": "Lalla Moulati, « ها شرمولة الحوت لي مبقيتش نبدلها ولا نستغنى عليها كتعطيه بنة تخلي لي كلاه عندي يحماق عليه » (chermoula pour le poisson), 25 mai 2021",
+   "url": "https://www.lalamoulati.net/278754.html",
+   "used_for": "Contre-vérification : Chermoula pour le poisson au jus de citron (avec une cuillère de vinaigre), persil, coriandre, ail, cumin, paprika, sel et huile d'olive : confirme la chermoula citronnée pour le poisson. Pas de quantités."
+  }
+ ],
+ "discrepancies": [
+  "Quantité de poisson : Choumicha écrit « 500 g de sardines en filets » et « 500 g de merlans en filets » pour 4 personnes, sans préciser si c'est le poids des filets ou du poisson entier ; Bladi (sardines farcies, chinchard) et Taste of Maroc partent de 1 kg de poisson entier (6 portions chez Taste of Maroc). Retenu : 1 kg de poisson entier (500 g de sardines + 500 g de merlans) pour 4 personnes : les poids de Choumicha, comptés en poisson entier comme chez Bladi et Taste of Maroc (Taste of Maroc précise en commentaire que son kilo de sardines perd un peu de poids au nettoyage).",
+  "Herbes pour 1 kg de poisson : 1 botte de persil + 1 botte de coriandre (Choumicha), ½ + ½ bouquet (Bladi, sardines farcies), 1 bouquet de persil seul (Bladi, chinchard), 3 tasses de coriandre + 1 tasse de persil (Taste of Maroc, mesure non convertible en bottes). Retenu : la médiane, une botte en tout, moitié persil, moitié coriandre (proportion de Choumicha et de Bladi).",
+  "Ail : 4 gousses (Choumicha ; 6 dans la reprise de Bladi), 3 (Bladi, deux recettes), 6 à 8 (Taste of Maroc). Médiane 3,5 : retenu 4, la valeur de Choumicha.",
+  "Cumin et paprika pour 1 kg de poisson : 2 c. à c. (Choumicha), 1 c. à c. (Bladi, deux recettes), 1 c. à s., soit 3 c. à c. (Taste of Maroc). Retenu : la médiane, 1 c. à c. et demie de chacun (calcul fait avec python).",
+  "Acide : 4 c. à s. de vinaigre (Choumicha), jus d'1 citron (Bladi, deux recettes), 5 c. à s. de jus de citron (Taste of Maroc, en option mais conseillé pour le poisson). Retenu : le jus d'1 citron (majorité), le vinaigre en remplacement.",
+  "Huile dans la chermoula : aucune (Choumicha ; Bladi, deux recettes), 4 c. à s. d'huile d'olive (Taste of Maroc), 1 c. à s. pour 6 sardines (Cooking With Alia). Retenu : sans huile (médiane et majorité) ; l'huile d'olive passe en variante.",
+  "Piment fort : 1 c. à c. pour 1 kg (Choumicha), ½ c. à c. (Bladi, « Chermoula pour le poisson », sans poids de poisson), absent des autres recettes. Retenu : facultatif.",
+  "Marinade : pas de durée (Choumicha), au moins 30 min au frais (Bladi), au moins 2 h au réfrigérateur (Taste of Maroc). Retenu : la médiane des trois (0 min chez Choumicha, qui farine et frit sans attendre ; 30 min ; 2 h), soit 30 min au minimum ; les 2 h de Taste of Maroc sont citées dans l'étape.",
+  "Enrobage : farine seule (Choumicha, Bladi, Cooking With Alia, Hassan M'Souli sur SBS) ; farine (375 g) + farine de blé dur (190 g) pour 1 kg (Taste of Maroc) ; farine + semoule fine, « semolina flour » (Ellie Bouhadana sur SBS). Retenu : farine, avec semoule fine en option. Taste of Maroc parle de « durum flour » (farine de blé dur) et SBS de « semolina flour » (semoule fine) : ce n'est pas tout à fait le même produit.",
+  "Durée de friture des sardines collées : environ 2 min par face (SBS, Ellie Bouhadana), environ 3 min (Taste of Maroc), 5 min (Cooking With Alia) ; 1 min chez Hassan M'Souli (SBS), qui les poêle dans 2 c. à s. d'huile seulement ; Choumicha et Bladi disent « jusqu'à ce qu'ils soient dorés ». Retenu : la médiane des trois fritures comparables, environ 3 min par face, à confirmer à la couleur et à la fourchette.",
+  "Feu : bain d'huile à feu moyen (Bladi, merlans), feu vif 5 min puis baissé (Cooking With Alia), chauffer lentement (SFDA), huile « bien chaude » (Bladi, sardines farcies). Retenu : chauffer progressivement à feu moyen, huile bien chaude mais sans fumée.",
+  "Température chiffrée : aucune source marocaine lue n'en donne. SCAV de Genève : jamais plus de 180 °C ; Goodman Fielder : 180 °C pour le poisson frais. Retenu : 180 °C au maximum, seulement avec une friteuse ou un thermomètre ; sinon, la règle « bien chaude mais sans fumée ».",
+  "Type d'huile : la SFDA cite le tournesol, le soja et le coton comme huiles de friture ; le SCAV de Genève, dans une fiche pour les friteuses professionnelles utilisées longtemps, écrit que les huiles de tournesol, de soja et de colza « ne doivent pas être utilisées » et recommande l'arachide ou des huiles spéciales ; les recettes marocaines disent seulement « huile de friture » ou « bain d'huile ». Retenu : « huile de friture », sans trancher davantage.",
+  "Récipient : le gouvernement du Québec dit de ne jamais frire dans une casserole et conseille une friteuse à thermostat ; la SFDA conseille une poêle à bords hauts et préfère un chauffage électrique à la flamme ; les recettes marocaines font un bain d'huile à la poêle. Retenu : friteuse à thermostat si tu en as une, sinon grande poêle profonde à bords hauts, remplie au tiers au plus. Feu d'huile : l'USFA et le gouvernement du Québec disent de glisser un couvercle sur la poêle et de couper le feu ; les pompiers du Cambridgeshire disent au contraire de ne pas tenter d'éteindre le feu soi-même. Le Québec, le Cambridgeshire et le Warwickshire disent de ne jamais jeter d'eau et d'appeler les pompiers (le Québec, même si le feu semble éteint) ; les quatre disent de ne pas déplacer la poêle. Retenu : couvercle et feu coupé si c'est sans danger, et appel immédiat aux pompiers.",
+  "Temps de préparation : 15 min (Taste of Maroc, sardines achetées déjà nettoyées) et 30 min (Choumicha). Retenu : la médiane, 22,5 min, arrondie à 25 min ; nettoyer soi-même le poisson entier peut prendre plus longtemps.",
+  "Temps de cuisson : 20 min chez Choumicha et chez Taste of Maroc. Retenu : 20 min.",
+  "Portions pour 1 kg : 4 personnes (Choumicha), 6 (Taste of Maroc). Retenu : 4.",
+  "Citron de service : 1 citron pour 1 kg (Bladi, sardines farcies), 2 gros pour 1,5 kg (Bladi, merlans) ; Choumicha et Taste of Maroc n'en chiffrent pas. Retenu : 1 citron.",
+  "Bladi.net publie aussi « Friture de poissons m'chermel » : c'est la recette de Choumicha (mêmes quantités, sauf 6 gousses d'ail au lieu de 4). Elle n'est pas comptée comme source indépendante.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 14 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Lalla Moulati, lue à la contre-vérification par la recherche interne du site : sa recette « سردين معمر بحشوة ساهلة ومقلي مقرمش وجد شهي » (16 novembre 2017) farcit des sardines d'un mélange de poivron, sel, poivre, citron, coriandre, paprika, harissa, concentré de tomate et huile d'olive, les farine, les frit dans une huile bien chaude et les sert avec des rondelles de citron, sans les coller deux par deux ; une autre recette de sardines farcies frites (7 novembre 2023) les frit 2 minutes par face ; le site emploie « الحوت المقلي » pour le poisson frit. Aucune de ces pages ne donne de quantités de chermoula comparables à celles retenues.",
+  "Anchois : c'est un des petits poissons les plus pêchés au Maroc (Al Jazeera), et Choumicha a une « tagra aux anchois », mais aucune recette marocaine lue ne fait frire des anchois. Ils ne sont donc pas proposés.",
+  "Noms des poissons en darija (sardine, merlan, chinchard…) : non vérifiés, donc non donnés.",
+  "Geste pour retirer l'arête centrale à la main et pour lever les filets de merlan : les sources disent seulement « ôter la tête et l'arête centrale » ou « en filets », sans décrire le geste. D'où le conseil de demander au poissonnier (que donne aussi Taste of Maroc).",
+  "Rendement du poisson entier en filets (perte de poids au nettoyage) : non chiffré par les sources.",
+  "Quantité de farine : seule Choumicha la chiffre (100 g pour 1 kg de poisson) ; Taste of Maroc en prévoit beaucoup plus. La farine est donc donnée « pour enrober », sans quantité.",
+  "Test de l'huile sans thermomètre (morceau de pain, pincée de farine) : aucune source lue ; non mis dans la recette.",
+  "Durée de conservation des restes de poisson frit et façon de les réchauffer : les pages officielles foodsafety.gov et FSIS (USDA) ont refusé l'accès (erreur 403). Seule la règle des 2 heures de la FDA est donnée.",
+  "Numéro des pompiers au Maroc : non vérifié ; la recette dit seulement « appelle les pompiers ».",
+  "Conseils de la SFDA lus mais non recoupés, donc laissés de côté : ne pas utiliser de poêle en cuivre ; ne pas frire d'autres aliments dans l'huile du poisson.",
+  "La FDA écrit « The flesh is clear and separates easily with a fork » ; le sens exact de « clear » n'est pas évident. La recette garde seulement « la chair se détache facilement à la fourchette ».",
+  "Pages refusées ou indisponibles, non contournées : TelQuel (403), FSIS de l'USDA (403), foodsafety.gov (403), Gusto TV (403), Medium (403), Echo du Mardi (503). tasteofmaroc.com (403) et choumicha.ma (525) ont été lus sur web.archive.org, comme demandé."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Poissons",
+ "pairs": [
+  "sandwich-poisson"
+ ],
+ "pairs_label": "En sandwich",
+ "img_alt": "Sardines frites, farinées, disposées en rosace avec du citron",
+ "img": "img/poisson-frit.jpg",
+ "photo": {
+  "author": "E4024",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sardalya_tava.jpg",
+  "modified": "réduite"
+ }
+});
+
 /* Recette : Rfissa au poulet, lentilles et fenugrec. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -4020,7 +10029,7 @@ window.RECETTES.push({
      "u": "",
      "name": "gros oignon",
      "pl": "gros oignons",
-     "note": "émincés finement",
+     "note": "à émincer finement",
      "canon": "oignon"
     },
     {
@@ -4169,7 +10178,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Émince, hache, rince",
    "text": "Émince finement {{oignons:full}}. Hache finement {{persil}} de persil et {{coriandre}} de coriandre. Rince {{lentilles}} de lentilles et égoutte-les. Égoutte le fenugrec ; si tu veux, noue-le dans un carré de mousseline pour pouvoir le retirer au moment de servir.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Émince, hache, rince » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",
@@ -4415,6 +10432,2485 @@ window.RECETTES.push({
  }
 });
 
+/* Recette : Rghayef farcis à l'oignon et au khlii. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "rghayef",
+ "title": "Rghayef farcis à l'oignon et au khlii",
+ "darija": "rghayef m'ammrin (singulier : rghifa)",
+ "arabic": "رغايف معمرين",
+ "tagline": "Des galettes feuilletées fourrées d'oignons fondants, de persil et de khlii, dorées à la poêle et servies brûlantes avec le thé.",
+ "category": "Pain",
+ "occasion": "Petit-déjeuner, goûter, ftour du ramadan",
+ "region": "Tout le Maroc ; à Fès, le msemmen au khlii fait partie des gourmandises du ftour",
+ "servings": 12,
+ "servings_label": "galettes",
+ "time": {
+  "prep": 60,
+  "cook": 30,
+  "rest": 15
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Une sauteuse avec couvercle, pour la farce",
+  "Une cuillère en bois",
+  "Une grande assiette, pour refroidir la farce",
+  "Un grand saladier (ou une gsaa)",
+  "Une balance de cuisine",
+  "Un grand plan de travail lisse (ou un grand plateau)",
+  "Deux plateaux huilés : un pour les pâtons, un pour les galettes farcies",
+  "Trois bols : huile, beurre-huile, semoule",
+  "Un pinceau",
+  "Du film alimentaire ou un torchon propre",
+  "Une grande poêle à fond épais",
+  "Une spatule"
+ ],
+ "ingredients": [
+  {
+   "group": "Farce",
+   "items": [
+    {
+     "id": "huile-farce",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile de table (ou d'huile d'olive)",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "oignons",
+     "q": 4,
+     "u": "",
+     "name": "gros oignon",
+     "pl": "gros oignons",
+     "note": "à émincer très finement",
+     "canon": "oignon"
+    },
+    {
+     "id": "khlii",
+     "q": 100,
+     "u": "g",
+     "name": "de khlii (viande séchée confite)",
+     "note": "de viande halal (bœuf ou chameau le plus souvent, parfois agneau ou mouton) et de graisse halal, ou conservé dans l'huile d'olive seule ; émietté ou haché finement",
+     "canon": "khlii"
+    },
+    {
+     "id": "persil",
+     "q": 1,
+     "u": "botte",
+     "name": "de persil plat",
+     "note": "finement ciselé",
+     "canon": "persil"
+    },
+    {
+     "id": "paprika",
+     "q": 2,
+     "u": "c. à c.",
+     "name": "de paprika doux (piment rouge doux)",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "poivre",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "piment",
+     "q": null,
+     "u": "",
+     "name": "piment fort moulu",
+     "note": "facultatif, selon ton goût",
+     "canon": "piment-cayenne"
+    },
+    {
+     "id": "sel-farce",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "selon le goût ; goûte d'abord, le khlii est déjà assaisonné",
+     "canon": "sel"
+    }
+   ]
+  },
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "farine",
+     "q": 375,
+     "u": "g",
+     "name": "de farine blanche (T45 ou T55)",
+     "canon": "farine"
+    },
+    {
+     "id": "semoule",
+     "q": 190,
+     "u": "g",
+     "name": "de semoule fine",
+     "canon": "semoule"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "eau",
+     "q": 320,
+     "u": "ml",
+     "name": "d'eau tiède",
+     "note": "environ : verse-la petit à petit, il en faut de 280 à 360 ml selon ta farine",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour façonner",
+   "items": [
+    {
+     "id": "huile-faconnage",
+     "q": null,
+     "u": "",
+     "name": "huile neutre (tournesol)",
+     "note": "pour le plan de travail, les mains et les pâtons",
+     "canon": "huile"
+    },
+    {
+     "id": "beurre",
+     "q": 60,
+     "u": "g",
+     "name": "de beurre, fondu",
+     "canon": "beurre"
+    },
+    {
+     "id": "huile-beurre",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile neutre, à mélanger au beurre fondu",
+     "canon": "huile"
+    },
+    {
+     "id": "semoule-faconnage",
+     "q": 6,
+     "u": "c. à s.",
+     "name": "de semoule fine, à saupoudrer",
+     "canon": "semoule"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Fondre les oignons",
+   "text": "Dans une sauteuse, fais chauffer {{huile-farce}} d'huile à feu moyen. Ajoute l'oignon émincé ({{oignons:full}}), couvre et laisse cuire 10 minutes en remuant de temps en temps, jusqu'à ce qu'il soit tendre et translucide.",
+   "timer": {
+    "min": 10,
+    "label": "Oignons",
+    "done": "L'oignon est-il tendre et translucide ? Sinon, prolonge de quelques minutes."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajouter khlii, persil et épices",
+   "text": "Ajoute {{khlii}} de khlii émietté, {{persil}} de persil ciselé, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre et, si tu aimes, un peu de {{piment}}. Laisse cuire 5 minutes à découvert, en remuant, jusqu'à ce qu'il ne reste plus de liquide.",
+   "timer": {
+    "min": 5,
+    "label": "Farce",
+    "done": "S'il reste du liquide, laisse-le s'évaporer, puis coupe le feu."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Goûter et refroidir",
+   "text": "Goûte la farce et ajoute du {{sel-farce}} seulement si besoin : le khlii est déjà assaisonné. Étale-la dans une grande assiette et laisse-la refroidir complètement : chaude, elle abîme la pâte. Si tu la prépares à l'avance, mets-la au réfrigérateur dans les 2 heures.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mélanger la pâte",
+   "text": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine et {{sel}} de sel. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une boule souple. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pétrir 10 minutes",
+   "text": "Pétris pendant 10 minutes, jusqu'à ce que la pâte soit lisse, souple et élastique, et ne colle plus.",
+   "timer": {
+    "min": 10,
+    "label": "Pétrissage",
+    "done": "Touche la pâte : si elle n'est pas lisse et élastique, pétris encore un peu."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétrir 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Former les pâtons",
+   "text": "Huile tes mains et un plateau. Partage la pâte en boules d'environ 75 g, une par galette. Roule-les dans l'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+   "timer": {
+    "min": 15,
+    "label": "Repos des pâtons",
+    "done": "Les pâtons ont reposé : tu peux étirer et farcir."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Préparer ton poste",
+   "text": "Pendant le repos, mélange {{beurre}} de beurre fondu avec {{huile-beurre}} d'huile. Mets à portée de main ce mélange, un bol d'{{huile-faconnage}}, {{semoule-faconnage}} de semoule fine et la farce froide. Huile largement ton plan de travail.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Étirer très fin",
+   "text": "Pose un pâton sur le plan huilé. Mains huilées, étire-le du bout des doigts, du centre vers les bords, jusqu'à un disque très fin d'environ 28 cm. Remets de l'huile si la pâte accroche.",
+   "timer": null,
+   "img": {
+    "src": "img/msemen-etaler.jpg",
+    "alt": "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)",
+    "caption": "Étirer du bout des doigts",
+    "w": 1200,
+    "h": 1200,
+    "credit": "Photo de l'étape « Étirer très fin » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Badigeonner et garnir",
+   "text": "Badigeonne le disque de mélange beurre-huile et saupoudre-le d'un peu de semoule. Pose au centre 1 à 2 cuillerées à soupe de farce, en laissant les bords libres : la farce doit suffire pour toutes les galettes.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fermer en carré",
+   "text": "Rabats trois côtés de la pâte sur la farce, puis le quatrième par-dessus en l'étirant un peu : ce dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir. Pose le carré fermé sur le second plateau huilé et recommence avec les autres pâtons.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffer la poêle",
+   "text": "Fais chauffer une grande poêle à fond épais à feu moyen-vif, puis huile-la légèrement.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Aplatir doucement",
+   "text": "Mains huilées, aplatis le premier carré du bout des doigts, sans percer la pâte, jusqu'à environ 12 à 15 cm de côté. La farce doit rester bien enfermée.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuire en retournant",
+   "text": "Dépose la galette dans la poêle et retourne-la plusieurs fois, jusqu'à ce qu'elle soit bien dorée et croustillante des deux côtés. Si elle colore trop vite, baisse un peu le feu : la pâte doit cuire jusqu'au centre.",
+   "timer": null,
+   "img": {
+    "src": "img/msemen-cuisson.jpg",
+    "alt": "Galettes feuilletées carrées qui dorent sur une grande plaque",
+    "caption": "Cuire jusqu'à ce qu'elles soient bien dorées",
+    "w": 1200,
+    "h": 900,
+    "credit": "Photo de l'étape « Cuire en retournant » : Popo le Chien, Wikimedia Commons, licence CC0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Continuer avec les autres",
+   "text": "Pose la galette cuite sur une planche ou une grille, et continue avec les autres carrés, en les aplatissant au fur et à mesure.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Servir brûlant",
+   "text": "Sers les rghayef bien chauds, avec un thé.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Au Maroc, on appelle rghayef m'ammrin (« farcis ») les galettes feuilletées farcies : au khlii, à la viande hachée, aux légumes ou à la graisse épicée.",
+   "source": "Wikipédia (fr), « Msemen » ; Lalla Moulati (« رغايف معمرين ») ; Morocco World News 2013 (« Msemen Maamer »)"
+  },
+  {
+   "text": "Farce bien froide : chaude, elle abîme la pâte et rend le pliage difficile.",
+   "source": "My Moroccan Food (Nargisse Benkabbou) ; Choumicha, Morocco World News et Cooking with Alia (farce refroidie avant de garnir)"
+  },
+  {
+   "text": "Farce bien sèche : laisse évaporer tout le liquide avant de couper le feu.",
+   "source": "Choumicha (« jusqu'à évaporation de l'eau de végétation ») ; My Moroccan Food (« until all liquids have evaporated »)"
+  },
+  {
+   "text": "Ne mets pas trop de farce et garde les bords libres, pour pouvoir bien fermer la galette.",
+   "source": "My Moroccan Food ; Choumicha (1 c. à s. de farce au milieu de chaque r'ghifa)"
+  },
+  {
+   "text": "Le dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir et de perdre sa farce à la cuisson.",
+   "source": "Choumicha, conseils pour réussir les r'ghaifs ; Bladi.net (« tirer le quatrième bord pour renforcer la pâte fragile au niveau de la farce »)"
+  },
+  {
+   "text": "Pétris bien la pâte et respecte le repos : elle devient élastique et malléable, donc plus facile à feuilleter.",
+   "source": "Choumicha, conseils pour réussir les r'ghaifs"
+  },
+  {
+   "text": "Huile les pâtons pour qu'ils ne forment pas de croûte.",
+   "source": "Choumicha, conseils pour les r'ghaifs feuilletées"
+  },
+  {
+   "text": "Le khlii, c'est du gueddid (viande séchée au soleil, le plus souvent de bœuf ou de chameau, parfois d'agneau ou de mouton) confit longuement dans du suif de bœuf et de l'huile d'olive ; au marché, il se vend dans un mélange de graisse et d'huile, ou dans l'huile d'olive seule. Une fois le pot ouvert, garde-le au réfrigérateur ou au congélateur.",
+   "source": "Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »"
+  },
+  {
+   "text": "La farce se prépare jusqu'à 2 jours à l'avance, au réfrigérateur.",
+   "source": "My Moroccan Food ; l'Anses recommande de consommer les plats cuisinés maison dans les 3 jours"
+  },
+  {
+   "text": "Pendant la cuisson, presse les bords avec une spatule pour qu'ils cuisent bien.",
+   "source": "Cooking with Alia"
+  },
+  {
+   "text": "Pour congeler les galettes : cuis-les à moitié, laisse-les refroidir et emballe-les une par une. Le jour venu, mets-les 15 minutes au réfrigérateur, puis finis la cuisson au four, jusqu'à ce qu'elles soient dorées et très chaudes.",
+   "source": "Choumicha, conseils pour réussir les r'ghaifs ; l'Anses admet de décongeler directement par la cuisson ou le réchauffage"
+  },
+  {
+   "text": "À Fès, Guinaudeau a vu porter les rghaif au four du quartier, comme le pain : épais d'environ un pouce, luisants de graisse et rougis au piment, mangés chauds avec le thé du matin.",
+   "source": "Z. Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez"
+  }
+ ],
+ "mistakes": [
+  "Farcir avec une farce encore chaude : la pâte s'abîme (My Moroccan Food).",
+  "Laisser du liquide dans la farce (Choumicha ; My Moroccan Food).",
+  "Saler la farce sans goûter : le khlii est déjà assaisonné (Taste of Maroc, recette du khlii : sel, ail, cumin et coriandre dans la graisse).",
+  "Mettre trop de farce, ou jusqu'aux bords : elle doit rester enfermée dans la pâte (My Moroccan Food).",
+  "Percer la pâte en aplatissant le carré : la farce s'échappe (My Moroccan Food : aplatir « sans casser la pâte »).",
+  "Négliger le pétrissage ou le repos : la pâte manque d'élasticité et se feuillette mal (Choumicha).",
+  "Laisser la farce ou les galettes plus de 2 heures à température ambiante avant de les mettre au réfrigérateur (Anses).",
+  "Cuire sur un feu trop fort : la galette dore avant que la pâte ne cuise au centre (Taste of Maroc, pour les galettes feuilletées ; MarocMama ; Cooking with Alia : cuire jusqu'à ce que « le centre soit cuit »)."
+ ],
+ "serving": "Bien chauds, au petit-déjeuner ou au goûter, avec un thé (Morocco World News 2013 : « Serve hot with tea » ; Guinaudeau : mangés chauds avec le thé du petit-déjeuner ; Choumicha : « Servir les r'ghaifs chaudes »). On les sert aussi au ftour du ramadan : Choumicha range la moitié de ses r'ghaifs (5 recettes sur 10, dont celle à la viande hachée et aux légumes) dans « Ramadan », et Femmes du Maroc cite le msemmen au khlii parmi les gourmandises du ftour à Fès. Les restes vont au réfrigérateur dans les 2 heures, se mangent dans les 3 jours et se réchauffent jusqu'à être très chauds à cœur, à la poêle ou au four (Anses).",
+ "variants": [
+  "À la viande hachée (rghayef à la kefta) : fais revenir les oignons, puis ajoute la viande hachée halal, les herbes et les épices, et cuis la viande complètement avant de farcir (Choumicha, « R'ghaifs à la viande hachée et aux oignons » : 300 g de viande, 4 oignons, persil, coriandre, paprika, sel et poivre pour 500 g de pâte ; My Moroccan Food : 200 g de bœuf haché, 4 gros oignons et 4 poivrons pour 12 ; Morocco World News 2013 ; Cooking with Alia).",
+  "À la graisse de bœuf halal (chehma) au lieu du khlii : Bladi.net met « 1 verre de gras de bœuf ou de khlii », ajouté à l'oignon adouci et cuit 5 minutes en remuant, comme le khlii ici ; à Fès, Guinaudeau décrit une farce de graisse de mouton ou de bœuf hachée, relevée de piment rouge doux et fort, cuite juste assez pour que la graisse commence à fondre, mais ces rghaif cuisaient ensuite au four du quartier.",
+  "Khlii étalé sur toute la feuille, puis pliée en carré comme un msemen : 1 c. à s. de khlii par galette et de la semoule mêlée d'un peu de levure chimique (Cooking with Alia, « Msemmen with Khlii »).",
+  "Aux oignons et aux œufs : 6 oignons, persil, cannelle, gingembre, poivre, curcuma et 4 œufs brouillés dans la farce ; servis saupoudrés de sucre glace et de cannelle (Choumicha).",
+  "Aux légumes et à l'agneau haché halal : poivrons, carottes et courgettes râpées, tomate, coriandre et épices, cuits jusqu'à évaporation de l'eau et jusqu'à ce que la viande soit bien cuite (Choumicha ; Anses). Choumicha propose aussi des r'ghaifs aux épinards et aux crevettes, ou aux épinards et aux fromages (fromage à coagulant microbien, sans présure animale, si tu veux être strict).",
+  "Au four : sur une plaque tapissée de papier cuisson, dorés à l'œuf battu, à 180 °C jusqu'à ce qu'ils soient dorés (Choumicha), ou 18 à 20 minutes à 200 °C (My Moroccan Food) ; badigeonne-les d'huile en cours de cuisson pour la couleur et le croustillant (Choumicha).",
+  "Sucrés : r'ghaifs farcis d'amandes, de sucre et de cannelle, frits puis trempés dans le miel et parsemés de sésame, pour le ramadan et l'Aïd el-Fitr (Choumicha) ; Lalla Moulati publie aussi des « رغايف معسلة » (rghayef au miel) pour le ramadan, et des rghayef de Meknès aux amandes parmi les gâteaux de l'Aïd."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay), site officiel, « R'ghaifs farcis à la viande hachée » (recette n° 257), copie web.archive.org du 1er août 2015",
+   "url": "https://web.archive.org/web/20150801030214/http://www.choumicha.ma:80/recette/257-r-ghaifs-farcis-a-la-viande-hachee.html",
+   "used_for": "Source marocaine primaire : pâte à r'ghaifs (500 g de farine, 1/2 c. à c. de sel, 25 cl d'eau tiède, pétrissage de 10 à 15 min), feuilletage huile et beurre fondu, farce (150 g de viande, 2 oignons, coriandre, 2 c. à c. de paprika et piment fort, 2 c. à c. de cumin, 5 cl d'huile d'olive) refroidie, 1 c. à s. de farce au centre, côtés repliés, cuisson au four à 180 °C"
+  },
+  {
+   "name": "Choumicha, « R'ghaifs à la viande hachée et aux oignons » (n° 497), copie web.archive.org du 25 juillet 2015",
+   "url": "https://web.archive.org/web/20150725014952/http://www.choumicha.ma:80/recette/497-rghaifs-a-la-viande-hachee-et-aux-oignons.html",
+   "used_for": "Quantités de farce (300 g de viande, 4 oignons, 4 c. à s. d'huile, persil, coriandre, 1 c. à c. de paprika, 1 c. à c. de sel, 1/2 c. à c. de poivre) pour 500 g de pâte ; huile et beurre fondu mélangés ; « r'ghifa (crêpe) » ; farce au milieu, côtés rabattus ; four à 180 °C ; temps (30 min de cuisson, 1 h en tout)"
+  },
+  {
+   "name": "Choumicha, « R'ghaifs aux oignons et aux œufs » (n° 501), copie web.archive.org du 21 juin 2015",
+   "url": "https://web.archive.org/web/20150621034639/http://www.choumicha.ma:80/recette/501-rghaifs-aux-oignons-et-aux-oeufs.html",
+   "used_for": "Farce à l'oignon (6 oignons, 4 c. à s. d'huile, 1 bouquet de persil, poivre, sel) ; variante aux œufs ; service au sucre glace et à la cannelle"
+  },
+  {
+   "name": "Choumicha, « R'ghaifs farcies à la viande hachée et aux légumes » (n° 111), copie web.archive.org du 20 mai 2015",
+   "url": "https://web.archive.org/web/20150520033351/http://www.choumicha.ma:80/recette/111-r-ghaifs-farcies-a-la-viande-hachee-et-aux-legumes.html",
+   "used_for": "Farce cuite « jusqu'à évaporation de l'eau de végétation », refroidie ; 1/4 c. à c. de piment fort ; pâte à r'ghaifs (farine fine de blé dur, sel, eau tiède, 10 à 15 min de pétrissage, 10 min de repos) ; catégorie Ramadan ; 45 min de préparation et 30 min de cuisson"
+  },
+  {
+   "name": "Choumicha, « R'ghaifs aux amandes » (n° 75), copie web.archive.org du 19 juillet 2015",
+   "url": "https://web.archive.org/web/20150719052431/http://www.choumicha.ma:80/recette/75-r-ghaifs-aux-amandes.html",
+   "used_for": "Sens sucré du mot : r'ghaifs farcis aux amandes, frits, trempés dans le miel (Ramadan, Aïd el-Fitr)"
+  },
+  {
+   "name": "Choumicha, « Pour des R'ghaifs farcies aux épinards et aux fromages réussies » (conseils), copie web.archive.org du 2 décembre 2020",
+   "url": "https://web.archive.org/web/20201202164056/https://choumicha.ma/astuces/pour-des-r-ghaifs-farcies-aux-epinards-et-aux-fromages-reussies.html",
+   "used_for": "Bien pétrir, repos indispensable, huile ou graisse au pinceau en cours de cuisson au four, congélation après demi-cuisson, dernière feuille sans farce pour renforcer la r'ghifa"
+  },
+  {
+   "name": "Choumicha, « Pour des R'ghaifs feuilletées à la confiture réussies » (conseils), copie web.archive.org du 6 mars 2021",
+   "url": "https://web.archive.org/web/20210306055156/https://choumicha.ma/astuces/pour-des-rghaifs-feuilletees-a-la-confiture-reussies.html",
+   "used_for": "Pâtons huilés pour éviter la croûte ; feuilletage à l'huile ou au beurre fondu"
+  },
+  {
+   "name": "Bladi.net, « Rghaifs aux oignons »",
+   "url": "https://www.bladi.net/recettes/rghaifs-aux-oignons.html",
+   "used_for": "Source marocaine : farce (1 kg d'oignons coupés très fins, 1 bon bouquet de persil, sel, 1 petite cuillère de cumin, 1 c. à s. de piment rouge, 1 pincée de poivre, 1/2 verre à thé d'huile, 1 verre de gras de bœuf ou de khlii) ; oignon adouci à couvert, puis 5 min de cuisson ; beurre fondu et huile à parts égales avec un peu de semoule ; 2 c. à s. de farce au milieu, trois bords fermés, quatrième bord tiré pour renforcer"
+  },
+  {
+   "name": "Bladi.net, « M'semmen »",
+   "url": "https://www.bladi.net/recettes/m-semmen.html",
+   "used_for": "Farce donnée en exemple, à côté des amandes pilées et du sucre : oignon, persil, morceaux de viande boucanée (khlii) et épices"
+  },
+  {
+   "name": "Cooking with Alia (site d'Alia, qui y présente « la cuisine marocaine de son enfance », page À propos), « Msemmen with Khlii / مسمن بالخليع » (n° 941, 24 octobre 2021)",
+   "url": "https://www.cookingwithalia.com/941-msemmen-with-khlii/",
+   "used_for": "Source marocaine : pâte (375 g de farine, 190 g de semoule fine, 1 c. à c. de sel, 360 ml d'eau tiède, pétrissage de 5 à 10 min, repos de 15 min puis pâtons de 70 g reposés 15 min), 100 g de khlii, disque de 28 cm, galette aplatie à 12 cm, poêle chauffée puis huilée, feu moyen-vif, retourner plusieurs fois, bords pressés à la spatule"
+  },
+  {
+   "name": "Cooking with Alia, « Msemmen with Ground Beef / مسمن باللحم المفروم » (n° 939, 23 octobre 2021)",
+   "url": "https://www.cookingwithalia.com/939-msemmen-with-ground-beef/",
+   "used_for": "Farce à la viande (150 g de bœuf, oignon cuit 5 min, poivrons et épices cuits 5 min, refroidie), 2 c. à s. de farce par galette"
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou, « Stuffed Msemen (Rghaif) – Stuffed Moroccan Flatbread », 15 juillet 2015",
+   "url": "https://www.mymoroccanfood.com/home/stuffed-msemen-rghaeif-stuffed-moroccan-flatbread",
+   "used_for": "Source marocaine : « msemen, aussi appelé rghaif » ; farce de sa mère pour 12 (4 gros oignons, 3 c. à s. de persil, 2 c. à c. de paprika doux, 1 c. à c. de cumin, piment de Cayenne facultatif, 200 g de bœuf haché), oignons 10 min à couvert, liquides évaporés, farce à préparer jusqu'à 2 jours avant et à ne pas utiliser chaude ; 2 à 3 c. à s. de farce sans toucher les bords ; côtés repliés pour enfermer la farce ; aplatir sans casser la pâte ; 15 cm de côté ; « traditionnellement cuits un par un à la poêle », ou 18 à 20 min au four à 200 °C ; levure facultative"
+  },
+  {
+   "name": "Morocco World News, Layla Dahamou (Taroudant), « Moroccan Cuisine: Recipe for Stuffed Msemen », 28 janvier 2013",
+   "url": "https://www.moroccoworldnews.com/2013/01/146197/moroccan-cuisine-recipe-for-stuffed-msemen/",
+   "used_for": "« Appelé aussi rghaif ou mlawi par certains Marocains » ; « Msemen Maamer » ; farce refroidie, 1 c. à s. au milieu, bords rabattus en carré, aplati jusqu'à presque doubler, poêle à feu moyen-vif, retourné régulièrement, servi chaud avec le thé ; 1/2 c. à c. de poivre, oignons 10 min"
+  },
+  {
+   "name": "Morocco World News, Constance Renton, « The Fuel of Ramadan: Favourite Moroccan Dishes », 9 juin 2017",
+   "url": "https://www.moroccoworldnews.com/2017/06/98982/fuel-ramadan-favourite-moroccan-dishes/",
+   "used_for": "« Carrées ou rondes, les galettes marocaines, appelées aussi rghaif » ; msemen à la kefta ou à l'oignon"
+  },
+  {
+   "name": "Morocco World News, Maddy Raven, « A Very Moroccan Ramadan: Harira, Dates and Chebakia Galore », 31 mai 2019",
+   "url": "https://www.moroccoworldnews.com/2019/05/80275/moroccan-ramadan-harira-dates-chebakia/",
+   "used_for": "Le meloui « aussi appelé rghaif »"
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Basic Msemen Recipe – Square Moroccan Pancakes », copie web.archive.org du 21 avril 2026",
+   "url": "https://web.archive.org/web/20260421041328/http://tasteofmaroc.com/msemen-recipe/",
+   "used_for": "Le msemen, « parfois appelé rghaif », fait avec de la « pâte à rghaif »"
+  },
+  {
+   "name": "Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea », copie web.archive.org du 4 octobre 2026",
+   "url": "https://web.archive.org/web/20261004063757/https://tasteofmaroc.com/moroccan-preserved-meat-khlii-khlea/",
+   "used_for": "Ce qu'est le khlii (gueddid confit dans la graisse et l'huile d'olive), son usage dans les galettes feuilletées, assaisonnement (sel, ail, cumin, coriandre), pot ouvert au réfrigérateur ou au congélateur"
+  },
+  {
+   "name": "Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez (éd. anglaise 1995), recette « Rghaif », extrait public sur ckbk",
+   "url": "https://app.ckbk.com/recipe/trad59138c15s001r001/rghaif",
+   "used_for": "À Fès : rghaif portés au four du quartier comme le pain, épais d'environ un pouce, luisants de graisse, colorés au piment rouge, mangés chauds avec le thé du petit-déjeuner ; farce de graisse de mouton ou de bœuf hachée et de piment rouge doux et fort, cuite jusqu'à ce que la graisse commence à fondre"
+  },
+  {
+   "name": "Lalla Moulati, recherche « رغايف » sur le site et recettes du 8 mars 2023, du 11 mars 2023 et du 18 avril 2023",
+   "url": "https://www.lalamoulati.net/359267.html",
+   "used_for": "Usage du mot : « رغايف معمرين » (farcis) et rghayef sucrés au miel (« الوصفة الأصلية للرغايف المعسلين », 11 mars 2023) ; rghayef de Meknès aux amandes (https://www.lalamoulati.net/364587.html) ; « رغايف معسلة » (https://www.lalamoulati.net/358886.html) ; listes d'ingrédients seulement, vidéos non vues"
+  },
+  {
+   "name": "MarocMama, Amanda Mouttaki (Américaine installée au Maroc), « Rghaif Stuffed Msemmen Recipe »",
+   "url": "https://marocmama.com/rghaif-stuffed-bread/",
+   "used_for": "Le rghaif, version salée et farcie du msemmen, souvent vendu dans la rue et « chargé d'oignons » ; 45 min de préparation et 30 min de cuisson pour 10 à 12 ; poêle légèrement huilée ; farce crue non retenue (voir « discrepancies »)"
+  },
+  {
+   "name": "Femmes du Maroc, « Nos ftours du ramadan par région », 14 juin 2016",
+   "url": "https://femmesdumaroc.com/archives/nos-ftours-du-ramadan-par-region",
+   "used_for": "À Fès, « msemmen au khlii » parmi les gourmandises du ftour"
+  },
+  {
+   "name": "Wikipédia (français), « Msemen »",
+   "url": "https://fr.wikipedia.org/wiki/Msemen",
+   "used_for": "« Rghayf (rghaïf) ou rghayef » parmi les noms marocains ; msemmen ou rghayef farcis au khlii, à la viande hachée, aux légumes, à la graisse épicée : « rghayef mâamrine » (section signalée comme insuffisamment sourcée)"
+  },
+  {
+   "name": "Wikipédia (anglais), « Msemmen » (la page « Rghaif » y renvoie)",
+   "url": "https://en.wikipedia.org/wiki/Msemmen",
+   "used_for": "« Msemmen (مسمن) ou rghaif (رغايف) », peut être farci de khlea"
+  },
+  {
+   "name": "Anses, « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Sécurité : plats cuisinés maison au réfrigérateur dans les 2 heures et consommés dans les 3 jours ; décongélation au réfrigérateur ou directement par la cuisson ; réchauffer jusqu'à ce que la vapeur s'échappe ; 70 °C à cœur"
+  },
+  {
+   "name": "Lalla Moulati, « المسمن او الرغايف معمرين بالكفتة و الفرماج – شهيوات رمضان », 22 mai 2018",
+   "url": "https://www.lalamoulati.net/133425.html",
+   "used_for": "Contre-vérification : Le nom « رغايف معمرين » pour des galettes farcies, le msemen appelé aussi rghayef (« المسمن او الرغايف ») et leur place parmi les plats du ramadan."
+  },
+  {
+   "name": "Lalla Moulati, « رغايف معمرين بحشوة هائلة كيجيو رائعين فمائدة رمضان… », 28 avril 2019",
+   "url": "https://www.lalamoulati.net/192911.html",
+   "used_for": "Contre-vérification : « رغايف معمرين » (rghayef farcis) servis à la table du ramadan."
+  },
+  {
+   "name": "Lalla Moulati, « رغيفة فالمقلاة بحشوة اقتصادية… », 2 septembre 2022",
+   "url": "https://www.lalamoulati.net/339448.html",
+   "used_for": "Contre-vérification : Le singulier « رغيفة » (rghifa), écrit aussi dans d'autres titres du site ; seconde source après le « r'ghifa » de Choumicha."
+  },
+  {
+   "name": "Choumicha, « R'ghaifs au four feuilletés aux épinards et aux fromages » (n° 843), copie web.archive.org du 3 juillet 2016",
+   "url": "https://web.archive.org/web/20160703053659/http://www.choumicha.ma:80/recette/843-rghaifs-au-four-feuilletes-aux-epinards-et-aux-fromages.html",
+   "used_for": "Contre-vérification : R'ghaifs farcis classés dans « Ramadan » ; farce refroidie avant de garnir ; boules huilées."
+  },
+  {
+   "name": "Choumicha, « R'ghaifs feuilletées à la confiture » (n° 847), copie web.archive.org du 2 juillet 2015",
+   "url": "https://web.archive.org/web/20150702182843/http://www.choumicha.ma:80/recette/847-rghaifs-feuilletees-a-la-confiture.html",
+   "used_for": "Contre-vérification : R'ghaifs garnis de confiture d'abricots, classés dans « Ramadan » : le mot désigne aussi des galettes garnies sucrées."
+  },
+  {
+   "name": "Choumicha, « R'ghaifs aux épinards et aux crevettes » (n° 499), copie web.archive.org du 2 août 2017",
+   "url": "https://web.archive.org/web/20170802133340/http://www.choumicha.ma/recette/499-rghaifs-aux-epinards-et-aux-crevettes.html",
+   "used_for": "Contre-vérification : Farce refroidie, « r'ghifa (crêpe) », 1 c. à s. de farce au milieu, côtés rabattus, four préchauffé à 180 °C ; recette non classée dans « Ramadan »."
+  },
+  {
+   "name": "Morocco World News, Layla Dahamou, « Moroccan Cuisine: Recipe for stuffed Msemen », 28 janvier 2013, copie web.archive.org du 19 août 2025",
+   "url": "https://web.archive.org/web/20250819055013/https://www.moroccoworldnews.com/2013/01/146197/moroccan-cuisine-recipe-for-stuffed-msemen/",
+   "used_for": "Contre-vérification : Texte exact de l'article (le site refuse curl avec une erreur 403) : « known also to some Moroccans as Rghaif or Mlawi », « Msemen Maamer, (Stuffed msemen) », « Let the stuff cool », « 1 tbsp of the stuff in the middle », « medium high heat », « Flip it regularly », « Serve hot with tea in breakfast or for evening snack »."
+  }
+ ],
+ "discrepancies": [
+  "Ce que veut dire « rghayef » (رغايف) : le mot n'a pas un seul sens au Maroc. (1) Un autre nom du msemen : Taste of Maroc (« msemen ou parfois rghaif »), My Moroccan Food (« msemen, aussi appelé rghaif »), Wikipédia en anglais. (2) Le nom de toute la famille des galettes feuilletées, carrées ou rondes : Morocco World News 2017 (« carrées ou rondes… appelées aussi rghaif ») et 2019 (le meloui « aussi appelé rghaif »), Taste of Maroc (« pâte à rghaif »). (3) Surtout les galettes farcies, « rghayef m'ammrin » : sur choumicha.ma, les dix recettes dont le titre contient « r'ghaifs » ont toutes une garniture, salée ou sucrée (viande hachée, oignons, légumes, crevettes, fromages, amandes, confiture, chocolat ; cinq lues en entier), comme les « رغايف معمرين » de Lalla Moulati, le « Msemen Maamer » de Morocco World News, les rghaifs aux oignons de Bladi.net, le rghaif de la rue « chargé d'oignons » de MarocMama et les rghaif de Fès décrits par Guinaudeau. (4) Des pâtisseries sucrées : r'ghaifs aux amandes frits et trempés dans le miel (Choumicha), « رغايف معسلة » au miel et rghayef de Meknès aux amandes, gâteau de l'Aïd (Lalla Moulati). Choix retenu : la version farcie salée, distincte du msemen (carré nature, déjà dans l'application) et du malwi (rond, roulé en spirale).",
+  "Farce : oignon, persil et khlii (Bladi.net, « Rghaifs aux oignons », avec « gras de bœuf ou khlii », et « M'semmen » : oignon, persil, khlii et épices ; khlii seul chez Cooking with Alia et dans le m'laoui de Choumicha ; msemmen au khlii à Fès selon Femmes du Maroc ; khlii cité par Wikipédia), viande hachée (Choumicha n° 257 et 497, My Moroccan Food, Morocco World News 2013, Cooking with Alia n° 939, MarocMama), graisse épicée (Guinaudeau, Bladi.net). Retenu : oignon, persil et khlii ; la viande hachée et la graisse sont en variantes.",
+  "Fermeture : farce au centre puis bords rabattus pour l'enfermer (Choumicha n° 257, 497 et 501, Bladi.net, My Moroccan Food, Morocco World News 2013 : 4 sources indépendantes), ou farce étalée sur toute la feuille puis pliée comme un msemen (Cooking with Alia, MarocMama ; le m'laoui au khlii de Choumicha se fait aussi ainsi). Retenu : farce au centre, bords rabattus.",
+  "Cuisson : à la poêle (Morocco World News 2013, Cooking with Alia, MarocMama ; « traditionnellement » selon My Moroccan Food) ou au four (Choumicha à 180 °C ; My Moroccan Food 18 à 20 min à 200 °C ; Bladi.net, plaque allant au four ; Guinaudeau, four du quartier à Fès). Retenu : la poêle, comme le msemen et le malwi ; le four est en variante.",
+  "Feu : moyen-vif (Morocco World News 2013 ; Cooking with Alia, après avoir chauffé à feu vif) ou moyen (MarocMama). Retenu : moyen-vif, en baissant si la galette colore trop vite.",
+  "Pâte : farine et semoule fine 2 pour 1 (Cooking with Alia, 375 g et 190 g ; 2,5 pour 1 chez Morocco World News ; environ 4 pour 1 chez MarocMama), farine seule (Choumicha n° 257, My Moroccan Food), farine fine de blé dur seule (Choumicha n° 111), moitié « farine de blé », moitié farine blanche (Bladi.net). Retenu : 375 g de farine et 190 g de semoule fine (Cooking with Alia), même proportion que le malwi.",
+  "Eau, ramenée à 565 g de farine et semoule (calcul python3) : 360 ml (Cooking with Alia), 353 ml (My Moroccan Food), 286 ml (Morocco World News), 283 ml (Choumicha n° 257). Retenu : 320 ml, médiane, à verser petit à petit.",
+  "Sel de la pâte, ramené à 565 g : 1 c. à c. (Cooking with Alia), 1,4 (My Moroccan Food), 1,6 (Morocco World News), 0,6 (Choumicha). Médiane 1,2 ; retenu 1 c. à c., car la farce au khlii est déjà salée.",
+  "Levure : aucune chez Choumicha, Cooking with Alia et My Moroccan Food (qui la dit facultative, sans vraie différence) ; un peu chez Bladi.net, Morocco World News et MarocMama. Retenu : sans levure.",
+  "Repos : 5 min (Bladi.net) et 10 min (Choumicha n° 111) pour la pâte entière, avant de la diviser ; pour les pâtons, 15 min après 15 min de repos de la pâte (Cooking with Alia), 30 min (My Moroccan Food). Retenu : 15 min.",
+  "Taille : pâtons de 70 g (Cooking with Alia) ; boules de 7 cm pour 12 galettes de 15 cm (My Moroccan Food) ; « grosseur d'un œuf » (Bladi.net). Avec cette pâte (environ 890 g, calcul), 12 pâtons d'environ 75 g. Disque étiré : 28 cm (Cooking with Alia). Galette aplatie : 12 cm (Cooking with Alia) à 15 cm (My Moroccan Food).",
+  "Quantités de farce ramenées à 12 galettes (calcul python3 ; le nombre de galettes de Choumicha est estimé à environ 10 d'après ses abaisses de 2 mm coupées en carrés de 15 cm) : oignons 4 gros (My Moroccan Food), 4,8 (Choumicha n° 497), 7,2 (Choumicha n° 501), 0,9 (Cooking with Alia) : retenu 4 gros ; khlii 90 g (Cooking with Alia) et 120 g (Choumicha, m'laoui) : retenu 100 g ; huile 4 c. à s. (Choumicha n° 497 et 501), 2 (My Moroccan Food), 1/2 verre à thé (Bladi.net) : retenu 4 c. à s. ; persil 1 bouquet (Bladi.net, Choumicha n° 501) ; cumin 1 c. à c. (My Moroccan Food pour 4 oignons, Bladi.net pour 1 kg d'oignons) ; paprika 2 c. à c. (My Moroccan Food, Choumicha n° 257 ; Bladi.net : 1 c. à s. pour 1 kg d'oignons) ; poivre 1/2 c. à c. (Choumicha n° 497, Morocco World News ; une pincée chez Bladi.net, 1 c. à c. chez Choumicha n° 501) ; piment fort selon le goût (Guinaudeau ; facultatif chez My Moroccan Food ; 1/4 c. à c. chez Choumicha n° 111).",
+  "Farce par galette : 1 c. à s. (Choumicha, Morocco World News, Cooking with Alia pour le khlii seul), 2 c. à s. (Bladi.net, farce aux oignons ; Cooking with Alia pour la viande), 2 à 3 c. à s. (My Moroccan Food, farce riche en oignons). Médiane, une valeur par source : 1 c. à s. ; mais les deux farces les plus proches de celle-ci, riches en oignons, en demandent 2 à 3. Retenu : 1 à 2 c. à s., en répartissant toute la farce entre les galettes.",
+  "Beurre et huile pour façonner : à parts égales (Choumicha : 100 g de beurre et 10 cl d'huile ; Bladi.net : « moitié-moitié »). Beurre : 1/4 de tasse, environ 57 g (Morocco World News, MarocMama), 100 g pour 500 g de pâte (Choumicha). Retenu : 60 g de beurre et 4 c. à s. d'huile. Semoule : 6 c. à s. (Cooking with Alia), 1/2 tasse (MarocMama), 2 c. à s. (Bladi.net) : retenu 6 c. à s.",
+  "MarocMama met la viande crue dans la farce et compte sur la cuisson de la galette : non retenu. Pour la sécurité, la farce est entièrement cuite avant de garnir, comme chez Choumicha, My Moroccan Food, Morocco World News et Cooking with Alia ; l'Anses indique que 70 °C à cœur élimine la majorité des microbes pathogènes.",
+  "Durées affichées : préparation de 60 min : 45 min chez MarocMama, dont la farce est crue et mixée, plus les 15 min de cuisson de la farce (minuteurs de 10 et 5 min) ; Choumicha n° 111 annonce aussi 45 min, pour des r'ghaifs cuits au four ; cuisson de 30 min (Choumicha n° 497 et 111 ; MarocMama) ; repos de 15 min pour les pâtons. Le refroidissement de la farce se fait pendant le pétrissage et le repos.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Durée de cuisson d'une galette à la poêle : seule Cooking with Alia donne un chiffre (3 min par face, en retournant plusieurs fois) ; pas de minuteur pour cette étape.",
+  "Poids d'un « gros oignon » : aucune source ne le donne ; Bladi.net compte 1 kg d'oignons pour une quantité de pâte donnée en « bols » de taille inconnue.",
+  "Quantité de farce obtenue : 12 galettes à 1 à 2 c. à s. demandent environ 180 à 360 ml de farce ; le volume réel des oignons cuits n'a pas été mesuré, d'où la consigne de répartir toute la farce.",
+  "Guinaudeau : seul l'extrait public de ckbk a été lu ; la liste de la farce s'arrête au troisième ingrédient et la méthode s'arrête au pétrissage. La date de l'édition française d'origine n'a pas été vérifiée.",
+  "Lalla Moulati : pages vues seulement pour leurs titres et listes d'ingrédients ; les méthodes sont en vidéo, non vues.",
+  "Wikipédia (fr) : la section sur les noms marocains est signalée comme insuffisamment sourcée ; elle ne sert qu'en recoupement.",
+  "Le singulier « rghifa » : écrit par Choumicha (« r'ghifa (crêpe) ») et, en arabe, par Lalla Moulati (« رغيفة ») ; son usage selon les régions n'a pas été vérifié.",
+  "Sens du mot selon les régions (par exemple « msemen appelé rghaif dans certaines régions ») : non vérifié région par région ; Hespress et Le360 n'ont pas pu être consultés sur ce point. La recherche web a été arrêtée par la limite de 200 recherches par tour, partagée entre les agents.",
+  "Choumicha, n° 497 : la recette demande « 500 g de pâte à r'ghaifs » sans dire combien de galettes ; le nombre (environ 10) est estimé par calcul.",
+  "Halal : selon Taste of Maroc, le gueddid du khlii est le plus souvent de bœuf ou de chameau, parfois d'agneau ou de mouton, et il est confit dans du suif de bœuf et de l'huile d'olive, ou conservé dans l'huile d'olive seule ; aucune source lue ne dit si le khlii vendu en France est certifié halal : vérifie l'étiquette (viande et graisse) ou demande au boucher."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "pairs": [
+  "the-menthe"
+ ],
+ "img_alt": "Assortiment de rghayef carrés, dorés à la poêle (la farce ne se voit pas sur la photo)",
+ "img": "img/rghayef.jpg",
+ "photo": {
+  "author": "Indif",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Msemmen-Ghrayef.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Riz sauté aux œufs. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "riz-saute-oeufs",
+ "title": "Riz sauté aux œufs",
+ "darija": "Rouz mqli b l-bid",
+ "arabic": "أرز مقلي بالبيض",
+ "tagline": "Le riz de la veille, des œufs, des oignons verts et du sel : le riz sauté le plus simple de Chine, prêt en un quart d'heure.",
+ "category": "Rapide",
+ "occasion": "Soir de fatigue, quand il reste du riz cuit au frigo : petit plat complet ou accompagnement. En Chine, c'est un plat de maison, pas de restaurant (Omnivore's Cookbook) ; dans le vieux Yangzhou, les familles le faisaient le soir avec le riz resté du midi (中国新闻网, d'après le Ta Kung Pao).",
+ "region": "Chine : le 蛋炒饭 (dàn chǎofàn), le riz sauté chinois le plus simple. Maggie Zhu en mangeait enfant à Pékin, au goûter ; Yangzhou en a tiré une version riche, le riz de Yangzhou (Omnivore's Cookbook ; 中国新闻网).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 5,
+  "cook": 10,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Wok ou grande poêle d'environ 30 cm",
+  "Spatule large",
+  "Bol et fourchette (ou baguettes) pour battre les œufs",
+  "Planche et couteau",
+  "Cuillère pour émietter le riz"
+ ],
+ "ingredients": [
+  {
+   "group": "Riz sauté",
+   "items": [
+    {
+     "id": "riz",
+     "q": 500,
+     "u": "g",
+     "name": "de riz blanc cuit la veille, bien froid",
+     "note": "grains longs ; refroidi en moins d'une heure après cuisson et gardé au frigo un jour au plus",
+     "canon": "riz"
+    },
+    {
+     "id": "oeufs",
+     "q": 4,
+     "u": "",
+     "name": "œuf",
+     "pl": "œufs",
+     "canon": "oeuf"
+    },
+    {
+     "id": "oignons-verts",
+     "q": 4,
+     "u": "",
+     "name": "oignon vert (cébette)",
+     "pl": "oignons verts (cébettes)",
+     "note": "le blanc et le vert",
+     "canon": "oignon-vert"
+    },
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile neutre",
+     "note": "arachide ou tournesol",
+     "canon": "huile"
+    },
+    {
+     "id": "sel",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Émiette le riz froid",
+   "text": "Sors {{riz}} de riz du frigo juste avant de cuisiner. Émiette-le à la cuillère ou du bout des doigts pour défaire les mottes et séparer les grains.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Bats les œufs",
+   "text": "Casse {{oeufs:full}} dans un bol. Bats juste assez pour mélanger le jaune et le blanc.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince les oignons verts",
+   "text": "Lave et coupe en fines rondelles {{oignons-verts:full}}, le blanc comme le vert.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffe l'huile",
+   "text": "Mets le wok ou la grande poêle à feu moyen-vif avec {{huile}} d'huile. Attends que l'huile soit très chaude et commence à fumer légèrement. Avec une poêle antiadhésive, ne va pas jusqu'à la fumée : l'huile est prête quand sa surface se met à onduler.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Saisis les œufs",
+   "text": "Verse le contenu du bol dans l'huile chaude. Laisse prendre le dessous une quinzaine de secondes, puis brouille grossièrement. Arrête quand c'est presque pris mais encore un peu baveux sur le dessus.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute le riz",
+   "text": "Verse aussitôt le riz par-dessus, tant que le dessus est encore baveux. Avec la spatule tenue bien droite, hache le tout en petits morceaux, pour qu'une partie des grains s'enrobe d'œuf.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais sauter le riz",
+   "text": "Remue en raclant le fond tout autour, le long des bords, pas seulement au centre. Continue de hacher et de remuer environ 2 minutes, jusqu'à ce que les grains soient bien séparés et chauds. S'il reste des mottes sèches, quelques gouttes d'eau dessus aident à les défaire.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Sale et fais dorer",
+   "text": "Parsème {{sel}} de sel et ajoute les rondelles d'oignon vert. Étale le riz en couche contre la poêle et laisse-le 30 à 45 secondes sans y toucher, puis remue et recommence. Continue ainsi pendant 3 minutes environ, jusqu'à ce que le riz soit légèrement doré.",
+   "timer": {
+    "min": 3,
+    "label": "Riz qui dore",
+    "done": "Le riz doit être légèrement doré et fumant partout. Goûte et rectifie le sel."
+   }
+  },
+  {
+   "phase": "Service",
+   "title": "Vérifie que c'est bien chaud",
+   "text": "Le riz doit être fumant partout, au cœur aussi : de la vapeur doit s'en échapper quand tu remues. Goûte et ajoute un peu de sel si besoin.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Laisse croustiller et sers",
+   "text": "Coupe le feu et laisse le riz une minute dans la poêle chaude pour qu'il croustille encore. Sers tout de suite, bien chaud.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Prends du riz cuit la veille : ses grains restent fermes et se séparent bien au lieu de coller.",
+   "source": "下厨房 (Xiachufang), recette de 张恩勾 : « 身骨要挺，隔夜为佳 » ; 美食天下 : « 隔夜米饭是蛋炒饭的最佳选择 » ; Omnivore's Cookbook ; The Woks of Life"
+  },
+  {
+   "text": "Le riz ne doit être ni trop humide ni trop sec : trop humide, il devient mou ; trop sec, il reste dur sous la dent.",
+   "source": "下厨房 (Xiachufang), recette de 张恩勾, « 小贴士 »"
+  },
+  {
+   "text": "Pour un riz bien sec en surface, Maggie Zhu le met au frigo une à deux heures sans couvercle, puis le ferme.",
+   "source": "Omnivore's Cookbook (Maggie Zhu)"
+  },
+  {
+   "text": "Défais les mottes de riz froid avant la cuisson, à la cuillère, à la spatule ou avec les doigts.",
+   "source": "美食天下 (compte officiel et 双鱼座的美食) ; Omnivore's Cookbook ; The Woks of Life"
+  },
+  {
+   "text": "Tiens la spatule bien droite et « hache » le riz : les grains se séparent mieux et collent moins.",
+   "source": "美食天下, compte officiel : « 锅铲直立的炒制方法，可让饭粒更松散不易粘在一起 » ; Omnivore's Cookbook"
+  },
+  {
+   "text": "Verse le riz sur des œufs encore baveux : une partie des grains s'enrobe d'œuf, et le dessous un peu grillé des œufs se brise en petits morceaux.",
+   "source": "Omnivore's Cookbook ; Made With Lau (œufs pris mais encore moelleux avant d'ajouter le riz)"
+  },
+  {
+   "text": "Le 蛋炒饭 de maison n'a que du sel : le riz et l'œuf gardent le premier rôle.",
+   "source": "Omnivore's Cookbook (« seasoned with nothing but salt ») ; 下厨房 ; 美食天下 (deux recettes) ; 香港01"
+  },
+  {
+   "text": "N'économise pas l'huile : sans assez d'huile, le riz cuit à la vapeur au lieu de griller.",
+   "source": "Omnivore's Cookbook (2 c. à s. au minimum pour 3 tasses de riz)"
+  },
+  {
+   "text": "Mets beaucoup d'oignon vert, le blanc et le vert : c'est presque le seul parfum du plat.",
+   "source": "Omnivore's Cookbook (4 oignons verts pour 3 tasses de riz) ; 美食天下, compte officiel (2 tiges pour 2 œufs)"
+  },
+  {
+   "text": "Plus parfumé : fais d'abord revenir un peu d'oignon vert dans l'huile chaude, puis ajoute le riz.",
+   "source": "下厨房, 张恩勾 : « 用底油，把切好的少许葱花呛锅 » ; 美食天下, 双鱼座的美食 : « 热油下葱花，爆香，下米饭 »"
+  },
+  {
+   "text": "Prends un wok ou une grande poêle : le riz s'étale en couche fine. Dans une petite poêle, il s'entasse et étuve.",
+   "source": "Omnivore's Cookbook"
+  },
+  {
+   "text": "Racle le fond tout autour, le long des bords, et pas seulement au centre : sinon tout colle ensemble.",
+   "source": "Made With Lau"
+  },
+  {
+   "text": "Son ancêtre légendaire est le « riz aux brisures d'or » (碎金饭) de la dynastie Sui : l'œuf brouillé en petits éclats dorés, « 碎金 ».",
+   "source": "下厨房 (description de la recette de 张恩勾) ; 中国新闻网, « 扬州炒饭 », 2013"
+  }
+ ],
+ "mistakes": [
+  "Prendre du riz tout juste cuit, chaud et humide : il colle et devient mou (下厨房 ; Made With Lau note que le riz frais colle davantage).",
+  "Laisser le riz cuit traîner à température ambiante, ou le garder plus d'un jour au frigo avant de le réchauffer : il peut donner une intoxication (Bacillus cereus). Refroidis-le vite, idéalement en moins d'une heure (Food Standards Agency, Royaume-Uni).",
+  "Réchauffer une deuxième fois les restes de riz sauté : le riz ne se réchauffe qu'une seule fois. Fais juste la quantité à manger (Food Standards Agency).",
+  "Trop cuire les œufs avant d'ajouter le riz : ils doivent rester un peu baveux (Omnivore's Cookbook ; Made With Lau).",
+  "Une poêle trop petite ou trop peu d'huile : le riz étuve au lieu de griller (Omnivore's Cookbook).",
+  "Entasser trop de riz d'un coup : Omnivore's Cookbook compte un wok ou une poêle de 30 cm pour 3 tasses de riz (environ 475 g). Si tu en fais nettement plus, par exemple pour 8 personnes, fais-le en plusieurs fois, comme le conseille aussi Made With Lau.",
+  "Ajouter des légumes pleins d'eau comme le chou : le riz sauté doit rester sec, sans jus au fond (Made With Lau).",
+  "Mettre du vin de Shaoxing, du saindoux ou de la sauce soja ordinaire pour « faire chinois » : la version classique n'a que du sel, et la sauce soja brassée contient de l'alcool de fermentation (Kikkoman : plus de 2 % en volume)."
+ ],
+ "serving": "Sers aussitôt, bien chaud, en plat léger ou en accompagnement (Omnivore's Cookbook). Maggie Zhu l'accompagne d'une salade de concombre quand elle en fait un repas, ou d'un plat en sauce et d'une soupe pour un dîner chinois complet (Omnivore's Cookbook) ; les Woks of Life le servent avec beaucoup de sauce piquante ; chez Made With Lau, on tasse le riz dans un bol qu'on retourne sur l'assiette, pour un joli dôme.",
+ "variants": [
+  "Riz « or et argent » (金包银), méthode d'un chef publiée par le média hongkongais 香港01 : mélange les jaunes d'œufs au riz encore chaud pour enrober chaque grain, avec environ 3 g de sel ; fais cuire les blancs à moitié dans une cuillerée à soupe d'huile à feu moyen, puis ajoute le riz et fais sauter. Le chef déconseille d'enrober le riz d'œuf entier, car le blanc mouille le riz (香港01, chef 尤瑞昌, 2025).",
+  "Version restaurant cantonaise : carotte en petits dés, maïs et petits pois, puis sauce soja claire et foncée, sucre et bouillon de poule en poudre (Made With Lau). En halal : sauce soja certifiée halal et bouillon certifié halal, ou bien sel seul, comme Made With Lau le permet (« skip, use more salt »).",
+  "Version à la sauce soja d'Omnivore's Cookbook : à la place du sel, 2 c. à s. de sauce soja, 1 c. à c. de sauce soja foncée et ½ c. à c. de sucre pour 3 tasses de riz. Même remarque : sauce soja certifiée halal seulement.",
+  "Version des Woks of Life : une partie des œufs battue avec un peu d'eau, de curcuma et de paprika pour un riz bien jaune, plus oignon, poivron rouge et petits pois.",
+  "Version de HowToCook (programme collaboratif chinois) : jambon, carotte, concombre et un peu de sauce soja claire (生抽). Jambon de volaille et sauce soja certifiés halal seulement.",
+  "Un filet d'huile de sésame grillé, hors du feu, si tu as cuit à l'huile neutre (Omnivore's Cookbook ; 美食天下, 双鱼座的美食, qui finit au 香油).",
+  "Une pincée de bouillon de poule en poudre pour plus de goût (Omnivore's Cookbook) : seulement s'il est certifié halal.",
+  "Sans riz de la veille : étale le riz frais sur un plateau, laisse-le refroidir puis mets-le au moins 30 minutes au frigo (Omnivore's Cookbook), ou laisse-le à découvert jusqu'à ce qu'il ne fume plus (The Woks of Life), ou aère-le 1 à 2 minutes aux baguettes pour laisser partir la vapeur (Made With Lau). Le plat dépasse alors les 30 minutes.",
+  "Riz de Yangzhou (扬州炒饭), la version riche : la norme de l'association culinaire de Yangzhou y ajoute concombre de mer, poulet, coquilles Saint-Jacques séchées, crevettes, champignons, pousses de bambou et petits pois, mais aussi du jambon et du vin de Shaoxing (绍酒) : pas halal tel quel (中国新闻网, d'après le Ta Kung Pao, 2013)."
+ ],
+ "sources": [
+  {
+   "name": "下厨房 (Xiachufang), 张恩勾, « 蛋炒饭 », 16 février 2011 (copie archivée du 6 juin 2026 : le site renvoie vers une page anti-robot)",
+   "url": "https://web.archive.org/web/20260606012520/https://www.xiachufang.com/recipe/10420/",
+   "used_for": "Recette chinoise de base (plus de 2 000 réalisations) : riz, œuf, oignon vert, sel, sans sauce soja ; œuf saisi en « brisures d'or » (碎金) dans l'huile bien chaude, oignon vert revenu dans l'huile restante, puis riz et sel ; astuce du riz de la veille, ni trop humide ni trop sec ; légende du 碎金饭 de la dynastie Sui."
+  },
+  {
+   "name": "美食天下 (Meishichina), compte officiel « 美食天下 », « 蛋炒饭 », 23 décembre 2018 (copie archivée du 16 juillet 2019 : le site refuse les robots, erreur 403)",
+   "url": "https://web.archive.org/web/20190716190451/https://home.meishichina.com/recipe-433118.html",
+   "used_for": "Petit bol de riz, 2 œufs, 2 tiges d'oignon vert, sel et huile, 10 minutes ; riz de la veille émietté à la spatule ; œufs brouillés jusqu'à ce qu'ils prennent, puis riz « haché » avec la spatule tenue droite ; sel, oignon vert juste avant de servir ; pas de sauce soja."
+  },
+  {
+   "name": "美食天下 (Meishichina), 双鱼座的美食, « 蛋炒饭 », 23 juillet 2025 (copie archivée du 24 novembre 2025)",
+   "url": "https://web.archive.org/web/20251124024938/https://home.meishichina.com/recipe-661360.html",
+   "used_for": "Un bol de riz de la veille et un œuf ; grains séparés en pressant le riz ; œuf brouillé moelleux ; oignon vert revenu dans l'huile chaude, riz à feu vif 3 à 5 minutes ; sel et huile de sésame ; pas de sauce soja."
+  },
+  {
+   "name": "香港01, 邹家凤, « 蛋炒饭｜揭1餐厅用预制蛋炒饭网民：咁简单都预制！大厨4步金包银 », 2 octobre 2025 (méthode du chef 尤瑞昌, 38 ans de cuisine)",
+   "url": "https://global.hk01.com/%E6%95%99%E7%85%AE/60281931/%E8%9B%8B%E7%82%92%E9%A5%AD-%E6%8F%AD1%E9%A4%90%E5%8E%85%E7%94%A8%E9%A2%84%E5%88%B6%E8%9B%8B%E7%82%92%E9%A5%AD%E7%BD%91%E6%B0%91-%E5%92%81%E7%AE%80%E5%8D%95%E9%83%BD%E9%A2%84%E5%88%B6-%E5%A4%A7%E5%8E%A84%E6%AD%A5%E9%87%91%E5%8C%85%E9%93%B6",
+   "used_for": "Autres noms du plat (金包银, 黄金炒饭) ; variante « or et argent » : jaunes mélangés au riz chaud, environ 3 g de sel, blancs à moitié cuits dans 1 c. à s. d'huile à feu moyen ; pas de sauce soja ; moins de 10 minutes."
+  },
+  {
+   "name": "中国新闻网, « 扬州炒饭 », 14 novembre 2013 (extrait du Ta Kung Pao de Hong Kong, texte de 王德凡)",
+   "url": "https://www.chinanews.com.cn/hb/2013/11-14/5504350.shtml",
+   "used_for": "Légende du 碎金饭 (riz aux œufs) de l'empereur Yang des Sui ; riz aux œufs fait le soir dans les familles de Yangzhou avec le riz du midi, un ou deux œufs et de l'oignon vert ; norme du riz de Yangzhou avec jambon et vin de Shaoxing."
+  },
+  {
+   "name": "Omnivore's Cookbook, Maggie Zhu (née et élevée à Pékin), « Easy Egg Fried Rice (蛋炒饭) », 27 mai 2026",
+   "url": "https://omnivorescookbook.com/egg-fried-rice/",
+   "used_for": "Version familiale de Pékin assaisonnée seulement au sel ; proportions (3 tasses de riz, 4 œufs, 2 c. à s. d'huile, ½ c. à c. de sel, 4 oignons verts pour 3 à 4 personnes) ; poêle fumante, dessous des œufs pris en 15 à 20 secondes, riz versé sur l'œuf baveux et haché à la spatule, riz pressé 30 à 45 secondes puis remué pendant 2 à 3 minutes, une minute hors du feu ; riz à grains longs (jasmin), pas de riz rond ; riz séché au frigo sans couvercle ; wok ou poêle de 12 pouces ; variantes soja, sésame, bouillon ; service."
+  },
+  {
+   "name": "Made With Lau, Daddy Lau (chef cantonais, plus de 60 ans de métier), « The Fried Rice My Dad's Made 100,000 Times », 3 octobre 2023",
+   "url": "https://www.madewithlau.com/recipes/egg-fried-rice",
+   "used_for": "Version restaurant cantonaise (900 g de riz cuit et 4 œufs pour 4, sauces soja, sucre, bouillon) ; œufs pris mais moelleux en 20 à 30 secondes, riz ajouté dessus et sauté environ 2 minutes ; racler le fond le long des bords ; pas de légumes aqueux ; le riz frais colle davantage ; la sauce soja claire peut être remplacée par plus de sel ; dressage en dôme."
+  },
+  {
+   "name": "The Woks of Life, Bill Leung, « Egg Fried Rice », 5 août 2015",
+   "url": "https://thewoksoflife.com/egg-fried-rice/",
+   "used_for": "Version familiale avec curcuma, paprika, oignon, poivron et petits pois, salée sans sauce soja ; riz de la veille plus facile ; riz frais à laisser cesser de fumer ; mottes défaites à la main ; quelques gouttes d'eau si le riz est sec ; vapeur visible quand le riz est bien chaud ; servi avec de la sauce piquante."
+  },
+  {
+   "name": "HowToCook (程序员做饭指南, projet collaboratif chinois sur GitHub), « 蛋炒饭的做法 »",
+   "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/%E8%9B%8B%E7%82%92%E9%A5%AD.md",
+   "used_for": "Exemple de version enrichie (jambon, carotte, concombre, sauce soja claire 生抽) : montre que la sauce soja apparaît dans certaines versions modernes, pas dans la version de base."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), GOV.UK, « Home food fact checker », mis à jour le 21 août 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "used_for": "Sécurité du riz cuit : refroidir le plus vite possible, idéalement en moins d'une heure ; pas plus d'un jour au frigo avant de le réchauffer ; ne jamais le réchauffer plus d'une fois ; le réchauffer jusqu'à ce qu'il soit fumant partout ; risque de Bacillus cereus."
+  },
+  {
+   "name": "Kikkoman USA, FAQ, « Is there any alcohol in Kikkoman Soy Sauces? »",
+   "url": "https://kikkomanusa.com/faq/",
+   "used_for": "Les sauces soja Kikkoman contiennent plus de 2 % d'alcool en volume, issu de la fermentation : d'où la note sur la sauce soja certifiée halal pour les variantes."
+  },
+  {
+   "name": "USDA FoodData Central (API officielle) : riz blanc à grains longs cuit (FDC 168878) ; riz rond cuit (FDC 168932) ; sel de table (FDC 173468)",
+   "url": "https://api.nal.usda.gov/fdc/v1/food/168878?api_key=DEMO_KEY",
+   "used_for": "Conversions : 1 tasse de riz long cuit = 158 g (3 tasses = 474 g) ; 1 tasse de riz rond cuit = 205 g ; 1 c. à c. de sel = 6 g (donc 3 g = ½ c. à c.). Fiches 168932 et 173468 lues par la même API."
+  },
+  {
+   "name": "Wikipédia en chinois, article « 炒飯 » (on y arrive depuis « 蛋炒飯 »), révision 95163226, lue le 7 novembre 2026",
+   "url": "https://zh.wikipedia.org/wiki/%E7%82%92%E9%A3%AF",
+   "used_for": "Contre-vérification : Source encyclopédique, indépendante des recettes citées : selon une légende (相傳), l'empereur Yang des Sui faisait préparer son « 碎金飯 », c'est-à-dire du riz sauté aux œufs, que l'on appelle aussi « 金裹銀 » (l'or qui enveloppe l'argent) ; le « 黄金炒饭 » s'appelait autrefois 碎金饭. Confirme la légende des Sui (secret et discordance) et le nom « or et argent » de la variante de 香港01."
+  }
+ ],
+ "discrepancies": [
+  "Sauce soja : absente de toutes les versions familiales lues (下厨房, 美食天下 ×2, 香港01, Omnivore's Cookbook, The Woks of Life) ; présente dans la version restaurant de Made With Lau et dans HowToCook. Retenu : sel seul, comme la version classique ; la sauce soja certifiée halal n'est proposée que dans les variantes.",
+  "Quantité de riz pour 4 : 400 g (下厨房, 二两 = 100 g par part), 474 g (Omnivore, 3 tasses de riz long), 527 g (Woks of Life ramené à 4), 900 g (Made With Lau). Médiane retenue : 500 g. Les recettes de 美食天下 parlent en bols (« 一小碗 », « 一碗 ») sans poids.",
+  "Œufs : de 1 œuf pour 100 g de riz (下厨房) à 4 œufs pour 900 g (Made With Lau) ; 2 œufs pour un petit bol (美食天下, compte officiel). Retenu : 4 œufs pour 500 g, le rapport d'Omnivore's Cookbook et le nombre d'œufs de Made With Lau.",
+  "Sel ramené à 500 g de riz : 0,53 c. à c. (Omnivore), 0,56 (Made With Lau, en plus de la sauce soja), 0,95 (Woks of Life, avec légumes) ; 香港01 met environ 3 g, soit ½ c. à c. (USDA : 6 g la c. à c.). Retenu : ½ c. à c., à ajuster.",
+  "Huile ramenée à 500 g de riz : 2,1 c. à s. (Omnivore), 1,9 (Woks of Life), 1,7 (Made With Lau) ; 1 c. à s. chez 香港01. Retenu : 2 c. à s. (médiane 1,9).",
+  "Feu pour les œufs : huile très chaude, qui fume (Omnivore ; « 七八成热 » chez 下厨房), feu moyen-doux (Made With Lau), feu doux après avoir versé les œufs (美食天下, compte officiel). Retenu : huile très chaude, œufs vite brouillés et laissés baveux.",
+  "Ordre : œufs d'abord puis riz (Omnivore, Made With Lau, 美食天下 ×2, 下厨房) ; riz enrobé de jaune avant cuisson (香港01) ; les deux à la fois (Woks of Life). Retenu : œufs d'abord ; le « 金包银 » est en variante.",
+  "Oignon vert : ajouté à la fin avec le sel (Omnivore ; « 出锅前 » chez 美食天下, compte officiel) ou revenu dans l'huile avant le riz (下厨房 ; 美食天下, 双鱼座的美食). Retenu : à la fin ; l'autre façon est dans les secrets.",
+  "Riz de la veille ou riz frais : riz de la veille pour 下厨房, 美食天下, Omnivore et Woks of Life ; Made With Lau dit que les restaurants chinois prennent plutôt du riz frais, plus parfumé, et que le riz de la veille donne un riz sauté plus ferme et moins collant. Retenu : riz de la veille, seul compatible avec 30 minutes.",
+  "Durée finale : 2 à 3 minutes (Omnivore, Made With Lau), 3 à 5 minutes de riz à feu vif (美食天下, 双鱼座的美食). Minuteur retenu : 3 minutes.",
+  "Restes : Omnivore les garde 3 jours au frigo et les réchauffe ; la Food Standards Agency dit de ne jamais réchauffer le riz plus d'une fois. Retenu : l'avis officiel, donc pas de restes à réchauffer.",
+  "Légende : le 碎金饭 serait le plat préféré de 杨素, duc de Yue sous les Sui (下厨房), ou de l'empereur Yang des Sui (中国新闻网). Les deux le présentent comme une légende ; retenu : « dynastie Sui » sans nommer le personnage.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 4 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Noms en darija et en arabe : traduction descriptive (« riz frit aux œufs »), pas un nom établi trouvé dans une source.",
+  "« 二两米饭 » (下厨房) : on a compris 100 g de riz cuit ; la recette ne précise pas s'il s'agit du poids cuit ou cru.",
+  "Version de Fuchsia Dunlop (« Egg-fried rice », Every Grain of Rice) : la page EatYourBooks a refusé l'accès (erreur 429), non lue.",
+  "Non lus car le site refuse les robots : Baidu Baike (403, pas de copie archivée), 香哈 Xiangha (403, copie archivée impossible à charger), 豆果 Douguo (403, pas de copie), Serious Eats (402), Red House Spice (403), China Sichuan Food (403).",
+  "Vidéo de 王刚 (« 厨师长教你：“蛋炒饭”的做法 », Bilibili) : aucun texte ni sous-titre accessible, non utilisée.",
+  "Disponibilité au Maroc des oignons verts (cébettes) : non vérifiée sur une source.",
+  "Statut halal du glutamate et des bouillons en poudre : non vérifié ; d'où la consigne « certifié halal seulement »."
+ ],
+ "cuisine": "Chinoise",
+ "rayon": "D'ailleurs",
+ "img": "img/riz-saute-oeufs.jpg",
+ "photo": {
+  "author": "Euniceyeoh07",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_egg_fried_rice.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Salade de pois chiches au thon. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "salade-pois-chiches-thon",
+ "title": "Salade de pois chiches au thon",
+ "darija": "Chlada d l-hommos b t-ton",
+ "arabic": "سلطة الحمص بالتونة",
+ "tagline": "Pois chiches, thon, tomates cerises et oignon rouge, au citron et à l'huile d'olive : la salade italienne sans cuisson, prête en un quart d'heure.",
+ "category": "Rapide",
+ "occasion": "Repas froid express, midi ou soir, quand on n'a pas envie de cuisiner ni d'allumer le feu ; elle s'emporte facilement au travail ou en balade (Il Cucchiaio d'Argento ; Donna Moderna ; Le dolcezze di mamma Nenè).",
+ "region": "Italie : l'« insalata di ceci e tonno », salade familiale surtout servie l'été. Les recettes italiennes y mettent volontiers de l'oignon rouge de Tropea (Cotto in un click ; La cucina di Loredana ; Le dolcezze di mamma Nenè).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 15,
+  "cook": 0,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Ouvre-boîte",
+  "Passoire",
+  "Grand saladier",
+  "Deux petits bols",
+  "Planche et couteau bien aiguisé",
+  "Presse-agrumes (facultatif)",
+  "Fourchette"
+ ],
+ "ingredients": [
+  {
+   "group": "Salade",
+   "items": [
+    {
+     "id": "pois-chiches",
+     "q": 400,
+     "u": "g",
+     "name": "de pois chiches cuits",
+     "note": "en conserve ; poids égoutté",
+     "canon": "pois-chiches"
+    },
+    {
+     "id": "thon",
+     "q": 160,
+     "u": "g",
+     "name": "de thon en conserve, à l'huile d'olive ou au naturel",
+     "note": "poids égoutté",
+     "canon": "thon"
+    },
+    {
+     "id": "tomates-cerises",
+     "q": 200,
+     "u": "g",
+     "name": "de tomates cerises",
+     "canon": "tomate"
+    },
+    {
+     "id": "oignon-rouge",
+     "q": 1,
+     "u": "",
+     "name": "petit oignon rouge",
+     "pl": "petits oignons rouges",
+     "canon": "oignon-rouge"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau froide",
+     "note": "pour faire tremper l'oignon",
+     "canon": "eau"
+    },
+    {
+     "id": "basilic",
+     "q": null,
+     "u": "",
+     "name": "feuilles de basilic frais",
+     "note": "facultatif ; ou du persil plat",
+     "canon": "basilic"
+    }
+   ]
+  },
+  {
+   "group": "Assaisonnement",
+   "items": [
+    {
+     "id": "citron",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "pour le jus",
+     "canon": "citron"
+    },
+    {
+     "id": "huile-olive",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile d'olive vierge extra",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "origan",
+     "q": null,
+     "u": "",
+     "name": "origan séché",
+     "note": "selon le goût",
+     "canon": "origan"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "selon le goût",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir",
+     "note": "selon le goût",
+     "canon": "poivre"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Presse le citron",
+   "text": "Presse {{citron:full}} et verse le jus dans un petit bol.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince l'oignon",
+   "text": "Pèle et coupe en tranches très fines {{oignon-rouge:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Émince l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Adoucis l'oignon",
+   "text": "Mets les tranches d'oignon dans un autre petit bol, couvre d'{{eau}} et ajoute un peu du jus de citron. Laisse tremper 5 à 10 minutes, le temps de préparer le reste : l'oignon devient plus doux et reste croquant.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Rince les pois chiches",
+   "text": "Verse les pois chiches en conserve dans une passoire. Rince-les sous l'eau froide du robinet et laisse-les bien égoutter : il t'en faut {{pois-chiches}}.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe les tomates",
+   "text": "Lave {{tomates-cerises}} de tomates cerises. Coupe-les en deux, ou en quatre si elles sont grosses.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émiette le thon",
+   "text": "Égoutte le thon : il t'en faut {{thon}}. Émiette-le grossièrement à la fourchette, en gardant des morceaux.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare la sauce",
+   "text": "Ajoute au reste du jus de citron {{huile-olive}} d'huile d'olive, du {{sel}} et du {{poivre}}. Fouette à la fourchette.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Assemble la salade",
+   "text": "Égoutte l'oignon. Dans le saladier, mets les pois chiches, les tomates, l'oignon et le thon.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Assaisonne",
+   "text": "Verse la sauce sur la salade, parsème d'{{origan}} et mélange délicatement.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Goûte et sers",
+   "text": "Goûte, puis ajoute un peu de sel, de poivre ou de citron si besoin. Parsème de {{basilic}} déchirées et sers tout de suite, ou laisse 30 minutes au frigo pour que les saveurs se mélangent.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Rince bien les pois chiches en conserve, pour enlever le liquide et le sel de la boîte.",
+   "source": "Cookist (Silvia Ferrau) ; Chez Bibia ; Donna Moderna ; Le dolcezze di mamma Nenè"
+  },
+  {
+   "text": "Tranche l'oignon rouge très fin, puis fais-le tremper quelques minutes dans de l'eau citronnée : il perd son piquant et reste croquant.",
+   "source": "Il Cucchiaio d'Argento (insalata di fagioli e tonno : oignon « in acqua acidulata per una decina di minuti ») ; Cotto in un click (oignon mariné 5 minutes, devenu doux, rose et croquant)"
+  },
+  {
+   "text": "Thon à l'huile : mélange-le avec le reste avant d'assaisonner. Thon au naturel : assaisonne d'abord pois chiches et tomates, et ajoute le thon après.",
+   "source": "Il Cucchiaio d'Argento"
+  },
+  {
+   "text": "Choisis un bon thon en filets ; Cookist conseille le thon à l'huile en bocal de verre.",
+   "source": "Il Cucchiaio d'Argento ; Cookist (Elpidio)"
+  },
+  {
+   "text": "Émiette le thon grossièrement, à la fourchette : il doit rester en morceaux.",
+   "source": "Chez Bibia ; Cotto in un click"
+  },
+  {
+   "text": "La cucina di Loredana retire le jus et les graines des tomates avant de les mettre dans la salade.",
+   "source": "La cucina di Loredana"
+  },
+  {
+   "text": "Elle est encore meilleure après 30 minutes au frigo, le temps que les saveurs se mélangent ; mais elle se mange aussi tout de suite.",
+   "source": "Le dolcezze di mamma Nenè ; Cotto in un click ; Misya (insalata di fagioli e tonno)"
+  },
+  {
+   "text": "Si elle a passé du temps au frigo, sors-la 5 minutes avant de servir.",
+   "source": "Donna Moderna"
+  },
+  {
+   "text": "Pour du croquant, ajoute du céleri en rondelles ou du fenouil en dés ; mamma Nenè propose aussi le concombre.",
+   "source": "Donna Moderna ; Le dolcezze di mamma Nenè"
+  },
+  {
+   "text": "En Italie, ce sont l'origan et le basilic qui parfument cette salade.",
+   "source": "Il Cucchiaio d'Argento (origan frais) ; Cookist (origan séché et basilic) ; Donna Moderna (origan et basilic) ; Chez Bibia, La cucina di Loredana, Le dolcezze di mamma Nenè (basilic)"
+  },
+  {
+   "text": "Ne sois pas avare d'huile d'olive vierge extra : Donna Moderna parle d'« un generoso filo ».",
+   "source": "Donna Moderna"
+  },
+  {
+   "text": "Pas d'oignon rouge ? Prends une cébette, une échalote ou de la ciboulette.",
+   "source": "Le dolcezze di mamma Nenè"
+  }
+ ],
+ "mistakes": [
+  "Garder le reste de thon dans la boîte ouverte : vide-la dans un bol ou un autre récipient et mets-le au frigo, car l'étain de la boîte ouverte peut passer plus vite dans l'aliment (Food Standards Agency, Royaume-Uni).",
+  "Utiliser une boîte visiblement bombée, profondément cabossée, ou rouillée à cause d'une bosse : n'en mange pas le contenu ; une petite bosse peu profonde, sans autre dégât, ne pose pas de problème (Food Standards Agency).",
+  "Mettre l'oignon cru sans le faire tremper : il est plus piquant et plus lourd (Cotto in un click).",
+  "Laisser les pois chiches mal égouttés : ils doivent perdre toute l'eau de la boîte (Donna Moderna ; Cookist).",
+  "Garder la salade plus longtemps que le lendemain : au frigo, dans une boîte fermée, une journée au plus (Cookist ; La cucina di Loredana).",
+  "Pour une femme enceinte, dépasser 4 boîtes moyennes de thon par semaine (environ 140 g égouttés chacune), à cause de polluants comme le mercure (NHS, Royaume-Uni)."
+ ],
+ "serving": "Sers-la froide, en plat unique ou en entrée (Cookist ; Donna Moderna). Donna Moderna la sert dans de petits bols, avec des feuilles de basilic et des croûtons de pain poêlés ; Misya sert sa salade de haricots au thon avec un quartier de citron.",
+ "variants": [
+  "Version du Cucchiaio d'Argento : pois chiches, tomates cerises, thon et origan frais, avec seulement huile d'olive, sel et poivre, sans oignon ni citron.",
+  "Version de Cookist : pois chiches, tomates cerises, thon à l'huile, origan séché et basilic, sans oignon ni citron.",
+  "Version de Donna Moderna : sans tomates, avec jus de citron, origan et basilic, et un peu de céleri si tu veux ; 2 heures au frigo, puis croûtons de pain poêlés au service.",
+  "Version riche d'Agrodolce : maïs, olives de Gaeta, cerneaux de noix, tomates séchées et ciboulette.",
+  "Version de La cucina di Loredana : avec concombre en fines rondelles, olives noires et basilic.",
+  "Avec œufs durs et roquette (Cucina facile con Elena ; Rita amor di cucina) : compte environ 10 minutes pour cuire les œufs (Cucina facile con Elena).",
+  "Au vinaigre de cidre à la place du citron (Chez Bibia ; Cotto in un click).",
+  "Avec des haricots blancs à la place des pois chiches : l'« insalata di fagioli e tonno », avec cébette, jus de citron et persil (Il Cucchiaio d'Argento ; Misya).",
+  "Avec du persil à la place du basilic, comme dans l'insalata di ceci de Misya ou l'insalata di fagioli e tonno (Il Cucchiaio d'Argento ; Misya).",
+  "Autre poisson : maquereau au naturel ou saumon fumé à la place du thon (Donna Moderna ; Cookist pour le saumon fumé). Si tu es enceinte, le NHS demande de cuire le saumon fumé jusqu'à ce qu'il soit fumant, à cause de la listeria, et de ne pas dépasser 2 portions par semaine de poisson gras comme le maquereau."
+ ],
+ "sources": [
+  {
+   "name": "Il Cucchiaio d'Argento (Editoriale Domus), « Insalata di ceci e tonno », 7 juin 2024",
+   "url": "https://www.cucchiaio.it/ricetta/insalata-ceci-e-tonno/",
+   "used_for": "Recette de référence italienne pour 4, prête en 10 minutes : 460 g de pois chiches cuits, 10 tomates cerises, 120 g de thon, origan frais, huile d'olive, sel, poivre ; pois chiches rincés, tomates coupées en deux ou en quatre ; ordre différent selon thon à l'huile ou au naturel ; bon thon en filets ; repas rapide quand on n'a pas envie de cuisiner."
+  },
+  {
+   "name": "Cookist, Elpidio, « Insalata di ceci », 4 août 2025",
+   "url": "https://www.cookist.it/la-ricetta-insalata-di-ceci/",
+   "used_for": "Pour 4 en 10 minutes : 500 g de pois chiches précuits, 200 g de tomates cerises, 120 g de thon à l'huile, origan séché, basilic, huile d'olive, sel, poivre ; rinçage à l'eau froide ; thon de qualité en bocal de verre ; conservation 1 jour au plus au frigo ; saumon fumé en variante."
+  },
+  {
+   "name": "Donna Moderna, « Ricetta: insalata di ceci e tonno », 3 novembre 2020 (copie archivée du 12 septembre 2025 : le site refuse les robots, erreur 403)",
+   "url": "https://web.archive.org/web/20250912095342/https://ricette.donnamoderna.com/ricetta-insalata-di-ceci-e-tonno-187285",
+   "used_for": "400 g de pois chiches précuits, 200 g de thon, 1 citron, céleri en option, origan, basilic, huile d'olive « généreuse » ; pois chiches bien égouttés puis rincés ; 2 heures au frigo, sortie 5 minutes avant ; céleri ou fenouil pour le croquant ; variantes (oignon, tomates, maïs, olives, maquereau) ; 2 jours au frigo en boîte hermétique."
+  },
+  {
+   "name": "Agrodolce, « Insalata di ceci e tonno », 31 mai 2017 (copie archivée du 13 octobre 2025 : le site refuse les robots, erreur 403)",
+   "url": "https://web.archive.org/web/20251013212110/https://www.agrodolce.it/ricette/insalata-ceci-tonno",
+   "used_for": "Version riche pour 4 en 15 minutes : 300 g de pois chiches, 200 g de thon à l'huile, maïs, olives de Gaeta, noix, tomates séchées, ciboulette."
+  },
+  {
+   "name": "Il Cucchiaio d'Argento, « Insalata di fagioli e tonno », 7 août 2023",
+   "url": "https://www.cucchiaio.it/ricetta/insalata-di-fagioli-e-tonno/",
+   "used_for": "La salade sœur aux haricots : cébette de Tropea en rondelles trempée une dizaine de minutes dans de l'eau acidulée, jus d'½ citron, persil ; meilleure préparée quelques heures à l'avance."
+  },
+  {
+   "name": "Misya (Flavia Imperatore), « Insalata di fagioli e tonno », 19 juillet 2012 (mise à jour le 5 mai 2022)",
+   "url": "https://www.misya.info/ricetta/insalata-di-fagioli-e-tonno.htm",
+   "used_for": "Recette familiale (« mia nonna e mia mamma ») : 160 g de thon pour 4, cébette, persil, sel, huile, au moins 30 minutes au frigo, servie avec un quartier de citron."
+  },
+  {
+   "name": "Misya (Flavia Imperatore), « Insalata di ceci », 17 mai 2017 (mise à jour le 30 septembre 2018)",
+   "url": "https://www.misya.info/ricetta/insalata-di-ceci.htm",
+   "used_for": "Salade de pois chiches sans thon : 300 g de pois chiches pour 4, oignon de Tropea en rondelles, persil, olives : appui pour la variante au persil."
+  },
+  {
+   "name": "Cookist, Silvia Ferrau, « Insalata di ceci, tonno e patate », 19 juin 2024",
+   "url": "https://www.cookist.it/insalata-di-ceci-e-tonno/",
+   "used_for": "Rincer les pois chiches pour enlever le sel et l'eau de la boîte ; laisser égoutter le thon quelques minutes."
+  },
+  {
+   "name": "Cotto in un click (blog GialloZafferano), « Insalata di ceci, tonno e cipolla », 17 juillet 2026",
+   "url": "https://blog.giallozafferano.it/cottoinunclick/ricetta-insalata-di-ceci-tonno-e-cipolla/",
+   "used_for": "Pour 1 : 150 g de pois chiches, 100 g de thon, ½ oignon rouge de Tropea, 15 g d'huile ; oignon très fin mariné 5 minutes (vinaigre de cidre et sel) contre la lourdeur de l'oignon cru ; thon émietté à la fourchette ; meilleure après une demi-heure au frigo ; 1 à 2 jours au plus en boîte fermée."
+  },
+  {
+   "name": "Chez Bibia (blog GialloZafferano), « Insalata di ceci e tonno », 25 mai 2018",
+   "url": "https://blog.giallozafferano.it/chezbibia/insalata-di-ceci-e-tonno/",
+   "used_for": "Pour 4 : 350 g de pois chiches, 160 g de thon à l'huile, 200 g de tomates cerises, olives, basilic, vinaigre de cidre ; pois chiches rincés à l'eau froide ; thon émietté grossièrement."
+  },
+  {
+   "name": "La cucina di Loredana (blog GialloZafferano), « Insalata di ceci e tonno », 7 juillet 2021",
+   "url": "https://blog.giallozafferano.it/lacucinadiloredana/insalata-di-ceci-e-tonno/",
+   "used_for": "Pour 4 : 250 g de pois chiches, 160 g de thon, 150 g d'oignon rouge de Tropea, 250 g de tomates cerises épépinées, concombre, olives, basilic, 4 à 5 c. à s. d'huile ; se garde un jour au frigo."
+  },
+  {
+   "name": "Le dolcezze di mamma Nenè (blog GialloZafferano), « Insalata di ceci con tonno e pomodorini », 11 mai 2026",
+   "url": "https://blog.giallozafferano.it/ledolcezzedimammanene/insalata-di-ceci-con-tonno/",
+   "used_for": "Pour 4 : 250 g de pois chiches et 160 g de thon (poids égouttés), 20 tomates cerises, 2 oignons de Tropea, 20 g d'huile, basilic ; rincer les pois chiches ; meilleure après 30 minutes au frigo ; oignon remplaçable par cébette, échalote ou ciboulette ; céleri ou concombre pour le croquant ; plat sans cuisson à emporter."
+  },
+  {
+   "name": "Rita amor di cucina (blog GialloZafferano), « Insalata di ceci e tonno », 30 juin 2026",
+   "url": "https://blog.giallozafferano.it/ritaamordicucina/insalata-di-ceci-e-tonno/",
+   "used_for": "Pour 4 : 400 g de pois chiches, 150 g de thon égoutté, 50 g d'oignon rouge mariné au vinaigre, 20 g d'huile, œuf dur, olives, roquette, basilic, origan."
+  },
+  {
+   "name": "Forno e fornelli (blog GialloZafferano), « Insalata di ceci e tonno », 9 juillet 2020",
+   "url": "https://blog.giallozafferano.it/fornoefornelli/insalata-di-ceci-e-tonno/",
+   "used_for": "Pour 2 : 250 g de pois chiches, 50 g de thon, 10 tomates cerises, 20 g d'oignon rouge, 40 g d'huile : données pour les médianes."
+  },
+  {
+   "name": "Cucina facile con Elena (blog GialloZafferano), « Insalata di ceci al tonno », 17 mai 2019 (mise à jour le 29 juin 2023)",
+   "url": "https://blog.giallozafferano.it/cucinafacileconelena/insalata-di-ceci-al-tonno/",
+   "used_for": "Pour 4 : 150 g de thon égoutté, 3 c. à s. d'huile, jus de citron, sel, poivre ; variante aux œufs durs (environ 10 minutes de cuisson) et roquette."
+  },
+  {
+   "name": "NHS (Royaume-Uni), « Foods to avoid in pregnancy », page revue le 15 juin 2026",
+   "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+   "used_for": "Femme enceinte : pas plus de 4 boîtes de thon par semaine, à cause des polluants comme le mercure."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), GOV.UK, « Home food fact checker », mis à jour le 21 août 2026",
+   "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker",
+   "used_for": "Ne pas garder un aliment dans une boîte de conserve ouverte : le transvaser et le mettre au frigo ; boîtes bombées ou très cabossées à éviter."
+  },
+  {
+   "name": "USDA FoodData Central (API officielle) : huile d'olive (FDC 171413) ; oignon cru (FDC 170000)",
+   "url": "https://api.nal.usda.gov/fdc/v1/food/171413?api_key=DEMO_KEY",
+   "used_for": "Conversions : 1 c. à s. d'huile d'olive = 13,5 g ; un petit oignon = 70 g (fiche 170000 lue par la même API)."
+  },
+  {
+   "name": "NHS (Royaume-Uni), « Fish and shellfish », page revue le 26 juin 2026",
+   "url": "https://www.nhs.uk/live-well/eat-well/food-types/fish-and-shellfish-nutrition/",
+   "used_for": "Contre-vérification : Pour une femme enceinte ou qui essaie de l'être : pas plus de 4 boîtes de thon ou 2 steaks de thon par semaine, car le thon contient plus de mercure que les autres poissons ; ces chiffres valent pour une boîte moyenne d'environ 140 g égouttés ; aucune limite pendant l'allaitement."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « سلطة الحمص », recette publiée le 9 décembre 2015",
+   "url": "https://www.lalamoulati.net/29747.html",
+   "used_for": "Contre-vérification : Le nom arabe « سلطة الحمص » (salade de pois chiches) est employé par un site marocain ; seul le nom a été vérifié, pas la recette."
+  }
+ ],
+ "discrepancies": [
+  "Pois chiches pour 4 (9 recettes) : 250, 250, 300, 350, 400, 460, 500, 500 et 600 g. Médiane retenue : 400 g. Forno e fornelli (250 g pour 2) ne dit pas si le poids est cuit ou sec ; sans elle, la médiane serait 375 g.",
+  "Thon pour 4 (10 recettes) : de 100 g (Forno e fornelli) à 400 g (Cotto in un click), le plus souvent 120 à 200 g. Médiane 155 g, arrondie à 160 g, la quantité de Chez Bibia, La cucina di Loredana et mamma Nenè. Seules Rita amor di cucina, mamma Nenè et Elena précisent que c'est le poids égoutté.",
+  "Tomates cerises : 10 pièces (Cucchiaio), 20 pièces (mamma Nenè), 200 g (Cookist, Chez Bibia), 250 g (Loredana). Retenu : 200 g.",
+  "Oignon rouge pour 4 : 40 g (Forno e fornelli), 50 g (Rita amor di cucina), 150 g (Loredana) ; en pièces : 1 oignon (Misya, salade sans thon), 2 oignons (mamma Nenè, Cotto in un click). Retenu : 1 petit oignon (70 g selon l'USDA), entre la médiane en grammes (50 g) et les recettes en pièces.",
+  "Huile d'olive pour 4 : 1,5 c. à s. (Rita amor di cucina, mamma Nenè : 20 g), 3 (Elena), 4,4 (Cotto in un click), 4 à 5 (Loredana), 5,9 (Forno e fornelli) ; « q.b. » ailleurs. Médiane 3,7 : retenu 4 c. à s.",
+  "Acidité : jus de citron (Donna Moderna 1 citron, Elena 1 citron, Cucchiaio et Misya pour la version aux haricots), vinaigre de cidre (Chez Bibia, Cotto in un click), rien (Cucchiaio et Cookist pour les pois chiches). Retenu : 1 citron (médiane des recettes au citron), le vinaigre est en variante.",
+  "Oignon adouci : eau acidulée une dizaine de minutes (Cucchiaio, version aux haricots), vinaigre et sel 5 minutes (Cotto in un click), eau et vinaigre au moins une heure (Rita amor di cucina). Retenu : 5 à 10 minutes dans de l'eau froide citronnée ; pas de minuteur, faute de durée commune.",
+  "Rinçage des pois chiches : eau froide (Chez Bibia ; Cookist « acqua corrente fredda »), eau chaude (Donna Moderna). Retenu : eau froide.",
+  "Herbes : origan et basilic dans les salades de pois chiches au thon ; persil dans les salades de haricots au thon (Cucchiaio, Misya) et dans l'insalata di ceci de Misya. Retenu : origan et basilic, persil en variante.",
+  "Conservation : 1 jour (Cookist, La cucina di Loredana), 1 à 2 jours (Cotto in un click), 2 jours (Donna Moderna, Le dolcezze di mamma Nenè, Rita amor di cucina, Forno e fornelli), 2 à 3 jours (Cucina facile con Elena). Retenu : jusqu'au lendemain, le plus prudent.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 6 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Noms en darija et en arabe : traduction descriptive (« salade de pois chiches au thon »), pas un nom établi trouvé dans une source.",
+  "Le site principal de GialloZafferano n'a pas de recette éditoriale de cette salade dans les pages trouvées : seuls des blogs de son réseau ont été lus.",
+  "La Cucina Italiana n'est pas accessible à l'outil de recherche ; Fatto in casa da Benedetta refuse les robots (403) : non lus.",
+  "Buonissimo (« Insalata di ceci e tonno ») a été écarté : la page dit avoir été rédigée avec l'aide de l'intelligence artificielle.",
+  "Aucune source italienne institutionnelle (par exemple l'Accademia Italiana della Cucina) n'a été consultée pour dire que la recette est « classique » ; elle est présentée comme un grand classique par plusieurs magazines et blogs italiens.",
+  "Pour le Cucchiaio d'Argento, Cookist, Donna Moderna et Agrodolce, on ne sait pas si le poids du thon est net ou égoutté.",
+  "Disponibilité au Maroc du basilic frais et de l'oignon rouge : non vérifiée sur une source."
+ ],
+ "cuisine": "Italienne",
+ "rayon": "D'ailleurs",
+ "rayons": [
+  "D'ailleurs",
+  "Salades"
+ ],
+ "img_alt": "Salade de pois chiches au thon (photo d'une version avec carotte et fromage)",
+ "img": "img/salade-pois-chiches-thon.jpg",
+ "photo": {
+  "author": "laurenhcraig",
+  "license": "CC BY-NC 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+  "page": "https://www.flickr.com/photos/68917691@N08/9194950488",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Sandwich de sardines à la chermoula. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "sandwich-poisson",
+ "title": "Sandwich de sardines à la chermoula",
+ "darija": "Sardine mzeouej",
+ "arabic": "سندويتش السردين",
+ "tagline": "Un des casse-croûte de rue les plus populaires du Maroc : des sardines farcies à la chermoula, frites et glissées encore chaudes dans un demi-pain, avec de la tomate, de l'oignon et de la harissa.",
+ "category": "Sandwich",
+ "occasion": "Casse-croûte de rue, à manger sur le pouce (Morocco World News ; Taste of Maroc)",
+ "region": "Tout le Maroc, surtout les villes côtières ; les sardines farcies frites se vendent aussi, parfois seulement certains jours, à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc). À Marrakech, on trouve aussi un sandwich de kefta de sardines, le hout quari (MarocMama, Halal Xplorer) ; dans le Nord, des bocadillos au poisson (Morocco World News).",
+ "servings": 4,
+ "servings_label": "sandwichs",
+ "time": {
+  "prep": 25,
+  "cook": 20,
+  "rest": 30,
+  "rest_label": "Marinade"
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Le matériel de la recette du poisson frit de l'application (friteuse ou poêle profonde, couvercle, écumoire, papier absorbant)",
+  "Râpe (pour les tomates)",
+  "Couteau à pain",
+  "Planche à découper",
+  "Petits bols pour la garniture"
+ ],
+ "ingredients": [
+  {
+   "group": "Sardines",
+   "items": [
+    {
+     "id": "sardines",
+     "q": null,
+     "u": "",
+     "name": "sardines farcies à la chermoula",
+     "note": "à préparer et à frire avec la recette du poisson frit de l'application (partie sardines)",
+     "recipe": "poisson-frit",
+     "canon": "sardine"
+    }
+   ]
+  },
+  {
+   "group": "Pain",
+   "items": [
+    {
+     "id": "pain",
+     "q": 2,
+     "u": "",
+     "name": "petit pain rond",
+     "pl": "petits pains ronds",
+     "note": "khobz ; un demi-pain par sandwich",
+     "recipe": "khobz",
+     "canon": "khobz"
+    }
+   ]
+  },
+  {
+   "group": "Garniture",
+   "items": [
+    {
+     "id": "tomate",
+     "q": null,
+     "u": "",
+     "name": "tomates bien mûres",
+     "note": "râpées",
+     "canon": "tomate"
+    },
+    {
+     "id": "oignon",
+     "q": null,
+     "u": "",
+     "name": "oignon",
+     "note": "haché finement",
+     "canon": "oignon"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "harissa",
+     "q": null,
+     "u": "",
+     "name": "harissa",
+     "note": "selon ton goût",
+     "canon": "harissa"
+    },
+    {
+     "id": "olives",
+     "q": null,
+     "u": "",
+     "name": "olives vertes",
+     "note": "dénoyautées, en rondelles ; facultatif",
+     "canon": "olives"
+    },
+    {
+     "id": "citron",
+     "q": null,
+     "u": "",
+     "name": "citron",
+     "note": "en quartiers",
+     "canon": "citron"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Prépare les sardines farcies",
+   "text": "Prépare les {{sardines}} avec la recette du poisson frit de l'application, en ne prenant que des sardines : écaille-les, vide-les, ouvre-les, prépare la chermoula et colle les sardines deux par deux. Avant de toucher le poisson cru, mets un peu de chermoula de côté pour la sauce.",
+   "timer": null,
+   "tip": "Prends de petites sardines bien fraîches, achetées le jour même."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisse mariner au frais",
+   "text": "Couvre les sardines farcies et mets-les au réfrigérateur au moins 30 minutes. Pendant ce temps, prépare la garniture.",
+   "timer": {
+    "min": 30,
+    "label": "Marinade",
+    "done": "La marinade est prête. Prépare la friture."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Râpe les tomates",
+   "text": "Coupe les {{tomate}} en deux et retire les graines. Râpe la chair jusqu'à obtenir une pulpe et jette la peau. Assaisonne de {{sel}} et de {{poivre}}.",
+   "timer": null,
+   "tip": "La râpe marche mieux avec des tomates très mûres.",
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Râpe les tomates » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon",
+   "text": "Pèle l'{{oignon}} et hache-le finement.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Hache l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais frire les sardines",
+   "text": "Fais frire les sardines comme dans la recette du poisson frit de l'application : farinées juste avant, dans une huile bien chaude qui ne fume pas, par petites quantités, environ 3 minutes par face, jusqu'à ce qu'elles soient bien dorées.",
+   "timer": {
+    "min": 3,
+    "label": "Une face",
+    "done": "Retourne les sardines, puis relance 3 minutes pour l'autre face."
+   },
+   "tip": "Ne quitte pas la poêle des yeux. Si l'huile prend feu : jamais d'eau ; glisse le couvercle, coupe le feu si c'est sans danger, ne déplace pas la poêle et appelle sans attendre les pompiers, même si le feu semble éteint."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte les sardines",
+   "text": "Pose les sardines sur du papier absorbant pour enlever l'excès d'huile.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Ouvre les pains",
+   "text": "Il faut un demi-pain par sandwich, soit {{pain:full}} en tout. Coupe chaque pain en deux, puis ouvre chaque moitié en poche, sans la déchirer.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Garnis les sandwichs",
+   "text": "Dans chaque poche, mets un peu de tomate râpée et d'oignon haché, de la {{harissa}} selon ton goût et quelques {{olives}}. Glisse les sardines encore chaudes. Ajoute un filet de jus de {{citron}} et, si tu en as gardé, un peu de chermoula.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Mange aussitôt",
+   "text": "Mange tout de suite, tant que les sardines sont chaudes. Ne garde pas un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Les sardines farcies frites sont un des plats de rue les plus classiques du Maroc, même loin de la côte, parfois seulement certains jours : on les trouve à Jemaa el-Fna à Marrakech et dans la vieille médina de Fès.",
+   "source": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; Morocco World News (2013, d'après CNN : la sardine, plat de rue de base, est le plus souvent frite ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich »)"
+  },
+  {
+   "text": "Au Maroc, la sardine se prépare de bien des façons, mais la friture reste la plus populaire.",
+   "source": "Morocco World News, 27 mai 2013 (d'après CNN) ; Taste of Maroc (sardines farcies frites, plat de rue emblématique)"
+  },
+  {
+   "text": "Un demi petit pain suffit : glisse-y les sardines farcies.",
+   "source": "Morocco World News, 30 juillet 2021 (« dans un demi petit pain ») ; MarocMama et Halal Xplorer (sandwich de sardines dans du pain frais)"
+  },
+  {
+   "text": "On les mange avec une salade tomate-oignon : dans le sandwich, la tomate râpée et l'oignon haché jouent ce rôle.",
+   "source": "Morocco World News, 2021 (salade marocaine tomate-oignon) ; Taste of Maroc (salade concombre, tomate, oignon) ; MarocMama et Halal Xplorer (tomate et oignon cru dans le sandwich de Marrakech)"
+  },
+  {
+   "text": "La harissa accompagne les sardines frites et le sandwich de sardines de Marrakech ; mets-en selon ton goût.",
+   "source": "Taste of Maroc (sardines frites servies avec de la harissa) ; MarocMama et Halal Xplorer (harissa dans le sandwich de sardines de Marrakech)"
+  },
+  {
+   "text": "Les olives vont bien avec le poisson frit, et les olives vertes dans le sandwich.",
+   "source": "Choumicha (friture servie avec des olives m'chermlines) ; MarocMama (olives vertes en rondelles) ; Halal Xplorer (olives hachées)"
+  },
+  {
+   "text": "Garde de côté un peu de chermoula propre, avant de toucher le poisson cru, pour en mettre dans le pain : jamais celle qui a servi à mariner.",
+   "source": "Taste of Maroc (Nada Kiffa en garde un peu pour servir avec le poisson) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)"
+  },
+  {
+   "text": "Les petites sardines fraîches sont les meilleures : moins de 15 cm, brillantes et fermes.",
+   "source": "Taste of Maroc ; Choumicha, « La sardine, un trésor de bienfaits »"
+  },
+  {
+   "text": "Les sardines collées deux par deux s'appellent « mzeouej », les « mariées ».",
+   "source": "Taste of Maroc (Nada Kiffa) ; SBS (Ellie Bouhadana : « mzeouejim », mariés)"
+  },
+  {
+   "text": "Les sardines farcies se mangent chaudes de préférence, mais aussi tièdes ou froides.",
+   "source": "Bladi, « Sardines farcies » (de préférence chaudes) ; Taste of Maroc (chaudes, tièdes ou à température ambiante) ; Morocco World News, 2021 (froides ou chaudes)"
+  }
+ ],
+ "mistakes": [
+  "Mettre dans le pain une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+  "Laisser un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+  "Prendre des sardines qui ne sont pas du jour : la sardine est très fragile (Choumicha ; FDA pour les signes de fraîcheur).",
+  "Râper des tomates fermes : la râpe marche mieux avec des tomates très mûres (Taste of Maroc).",
+  "Oublier les règles de la friture : huile qui fume, poêle remplie à plus d'un tiers, poisson mouillé, eau sur de l'huile en feu. Tout est dans la recette du poisson frit de l'application (gouvernement du Québec ; pompiers du Cambridgeshire ; USFA ; SFDA)."
+ ],
+ "serving": "Mange le sandwich tout de suite, quand les sardines sont encore chaudes (Bladi : les sardines farcies se mangent de préférence chaudes). Morocco World News propose de glisser les sardines farcies dans un demi petit pain et de les accompagner d'une boisson, ou de les servir avec la salade marocaine tomate-oignon. Taste of Maroc ajoute du citron et de la harissa. Ne le garde pas plus de 2 heures hors du réfrigérateur (FDA).",
+ "variants": [
+  "Hout quari de Marrakech : sardines hachées avec du ras el hanout, du smen et de la coriandre, façonnées en boulettes, grillées ou poêlées, puis servies dans du pain avec une sauce tomate crue, de l'oignon cru, de la harissa et des olives vertes ; le pain est parfois beurré de beurre clarifié et chacun compose son sandwich (MarocMama ; Halal Xplorer). Choumicha fait aussi une kefta de sardines, avec graisse de rognons (halal), oignon, herbes et épices, en brochettes grillées au charbon.",
+  "Kefta de sardines en sauce : la kefta de sardine se vend toute prête au marché aux poissons (Taste of Maroc) ; Choumicha la cuit en boulettes avec des olives vertes, et à Marrakech les boulettes de sardines se font en tajine (Le360).",
+  "Sardines grillées d'Essaouira : marinées à la chermoula, grillées au feu, servies avec du pain et des olives (Morocco World News Lifestyle, 2024).",
+  "Bocadillo au poisson dans le Nord : avec des sardines ou un autre poisson blanc pêché du jour (Morocco World News, 2021).",
+  "Sans pain : les sardines farcies avec la salade tomate-oignon (Morocco World News, 2021), ou avec des haricots blancs à la tomate et des salades (Taste of Maroc)."
+ ],
+ "sources": [
+  {
+   "name": "Morocco World News, Larbi Arbaoui, « CNN's 10 street food to try in Morocco », 27 mai 2013",
+   "url": "https://www.moroccoworldnews.com/2013/05/141164/cnns-10-street-food-to-try-in-morocco/",
+   "used_for": "D'après CNN : la sardine est un plat de rue de base au Maroc ; la friture est la façon la plus populaire de la cuisiner ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich » (10 dirhams en 2013)."
+  },
+  {
+   "name": "Morocco World News, « Five Street Foods in Morocco That Are Uniquely Moroccan », 30 juillet 2021 (signé « michael-sauers » sur moroccoworldnews.com, Majda Bouzaroita sur la copie de MWN Lifestyle)",
+   "url": "https://www.moroccoworldnews.com/2021/07/56553/five-street-foods-in-morocco-that-are-uniquely-moroccan/",
+   "used_for": "Sardines farcies frites, servies froides ou chaudes, avec la salade tomate-oignon ou glissées dans un demi petit pain ; bocadillos au poisson (sardines ou poisson blanc) dans le Nord ; la note de « gingembre » n'est pas reprise (voir les écarts)."
+  },
+  {
+   "name": "MWN Lifestyle, Majda Bouzaroita, « Five Street Foods in Morocco That Are Uniquely Moroccan », 30 juillet 2021 (copie du même article)",
+   "url": "https://mwnlifestyle.com/?p=4788",
+   "used_for": "Contrôle du texte précédent : mêmes phrases sur les sardines farcies et le demi petit pain."
+  },
+  {
+   "name": "MWN Lifestyle, Majda Bouzaroita, « Moroccan Street Foods That Will Make You Swoon », 27 septembre 2024",
+   "url": "https://mwnlifestyle.com/?p=4998",
+   "used_for": "Sardines d'Essaouira marinées à la chermoula, grillées, servies avec du pain et des olives (variante)."
+  },
+  {
+   "name": "Taste of Maroc, Nada Kiffa, « Moroccan Stuffed Fried Sardines with Chermoula », mise à jour du 24 octobre 2017 (copie archivée du 5 août 2026)",
+   "url": "https://web.archive.org/web/20260805192917/https://tasteofmaroc.com/moroccan-stuffed-sardines/",
+   "used_for": "Sardines farcies frites : un des exemples les plus classiques de la cuisine de rue marocaine, même loin de la côte (Jemaa el-Fna, médina de Fès) ; noms mzeouej, machrouk, ʿachiq w maʿchouq ; petites sardines fraîches ; service chaud, tiède ou à température ambiante avec citron et harissa, salades et haricots blancs."
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Moroccan Sardine Balls Recipe – Fish Meatballs in Tomato Sauce », mise à jour du 13 octobre 2020 (copie archivée du 11 mai 2026)",
+   "url": "https://web.archive.org/web/20260511111912/https://tasteofmaroc.com/moroccan-sardine-fish-balls-in-tomato-sauce/",
+   "used_for": "Kefta de sardine vendue toute prête au marché aux poissons ; tomates coupées en deux, épépinées et râpées en pulpe, ce qui marche mieux avec des tomates très mûres."
+  },
+  {
+   "name": "Taste of Maroc, Nada Kiffa, « Chermoula Recipe », mise à jour du 17 février 2020 (copie archivée du 27 août 2026)",
+   "url": "https://web.archive.org/web/20260827184612/https://tasteofmaroc.com/moroccan-chermoula-recipe/",
+   "used_for": "Chermoula servie aussi en condiment avec le poisson ; en commentaire, Nada Kiffa en garde un peu de côté pour servir."
+  },
+  {
+   "name": "Choumicha, « Brochettes de kefta de sardines » (copie archivée du 20 mai 2026)",
+   "url": "https://web.archive.org/web/20260520225405/https://choumicha.ma/recette/1122-brochettes-de-kefta-de-sardines.html",
+   "used_for": "Kefta de sardines (filets hachés, graisse de rognons, oignon, ail, coriandre, persil, poivre, gingembre, piment doux, cumin, piment fort, sel), reposée 1 h au frais et grillée au charbon (variante)."
+  },
+  {
+   "name": "Choumicha, « Boulettes de sardines aux olives vertes » (copie archivée du 21 mai 2026)",
+   "url": "https://web.archive.org/web/20260521072648/https://choumicha.ma/recette/287-boulettes-de-sardines-aux-olives-vertes.html",
+   "used_for": "Boulettes de sardines mijotées avec des olives vertes et des tomates (variante)."
+  },
+  {
+   "name": "Choumicha, « Friture de poissons m'chermel » et « La sardine, un trésor de bienfaits » (copies archivées des 10 juillet et 21 mai 2026)",
+   "url": "https://web.archive.org/web/20260710200559/https://www.choumicha.ma/recette/143-friture-de-poissons-m-chermel.html",
+   "used_for": "Poisson frit servi avec citron et olives m'chermlines ; sardines de moins de 15 cm, très fragiles, à manger le jour même."
+  },
+  {
+   "name": "Bladi.net, « Sardines farcies »",
+   "url": "https://www.bladi.net/sardines-farcies.html",
+   "used_for": "Sardines farcies frites à manger de préférence chaudes, avec du citron."
+  },
+  {
+   "name": "Le360, Hajar Toufik, « Vidéo. À Marrakech, un ftour sans sardines a un goût d'inachevé », 24 avril 2021",
+   "url": "https://fr.le360.ma/societe/video-a-marrakech-un-ftour-sans-sardines-a-un-gout-dinacheve-237451/",
+   "used_for": "À Marrakech, les sardines se mangent au moins deux fois par semaine pendant le ramadan : grillées, au four ou en boulettes en tajine. L'article ne parle pas de sandwich."
+  },
+  {
+   "name": "MarocMama, Amanda Mouttaki (organise des visites culinaires à Marrakech et Essaouira), « Moroccan Fish Recipe: Hout Quari » (date non affichée)",
+   "url": "https://marocmama.com/moroccan-fish-recipe-hout-quari/",
+   "used_for": "Hout quari : sandwich de boulettes de sardines de Marrakech, servi avec oignon cru, sauce tomate crue (tomate râpée, coriandre, sel, poivre), harissa, olives vertes en rondelles et smen ; recette maison au ras el hanout et au smen, grillée environ 5 min par face ou poêlée (variante)."
+  },
+  {
+   "name": "MarocMama, Amanda Mouttaki, « Savoring the Streets: Discovering the Best Street Food in Morocco » (© 2022)",
+   "url": "https://marocmama.com/moroccan-street-food/",
+   "used_for": "Sandwichs de sardines (hout quari) : sardines grillées ou frites dans du pain, avec tomates et olives."
+  },
+  {
+   "name": "Halal Xplorer, « Hout Quari: The Moroccan Big Mac in Marrakech », 14 décembre 2021",
+   "url": "https://halalxplorer.com/hout-quari-the-moroccan-big-mac-in-marrakech/",
+   "used_for": "Sardines hachées servies à part avec sauce tomate, oignon cru, harissa et olives hachées ; pain frais beurré de beurre clarifié ; chacun compose son sandwich ; dans des échoppes de quartier de Marrakech."
+  },
+  {
+   "name": "SBS Food, Ellie Bouhadana, « Moroccan Stuffed Sardines », 28 novembre 2023",
+   "url": "https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/moroccan-stuffed-sardines/20a8iwequ",
+   "used_for": "Nom « mzeouejim » (mariés) ; tomates râpées assaisonnées de sel et de poivre, servies avec les sardines et du citron."
+  },
+  {
+   "name": "FDA (États-Unis), « Selecting and Serving Fresh and Frozen Seafood Safely », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+   "used_for": "Éviter que les bactéries du poisson cru passent aux aliments prêts à manger ; jamais plus de 2 h hors du réfrigérateur, 1 h au-dessus de 90 °F (32 °C)."
+  },
+  {
+   "name": "Hespress FR, Mohamed Jaouad El Kanabi, « Crise et prix du poisson : l'océan déserte les assiettes », 6 septembre 2024",
+   "url": "https://fr.hespress.com/384961-crise-et-prix-du-poisson-locean-deserte-les-assiettes.html",
+   "used_for": "Contre-vérification : « Le thon, la sardine, le merlan et tant d'autres variétés auparavant omniprésentes » sont devenus des produits de luxe pour nombre de Marocains ; le kilo de sardines était « autrefois à la portée de tous ». Article cité dans les écarts du sandwich mais absent de ses sources. Lu avec l'outil de lecture web (curl refusé, 403)."
+  },
+  {
+   "name": "Al Jazeera, Meryem Taidi, « الأجود عالميا.. سردين المغرب ثروة اقتصادية وثقافة غذاء », 21 février 2021",
+   "url": "https://www.aljazeera.net/ebusiness/2021/2/21/%D8%A7%D9%84%D8%A3%D8%AC%D9%88%D8%AF-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%B3%D8%B1%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%AB%D8%B1%D9%88%D8%A9",
+   "used_for": "Contre-vérification : « ويعد السردين أساسيا في الأسواق المغربية » : la sardine est un produit de base des marchés marocains ; les petits poissons pélagiques font plus de 80 % des captures."
+  },
+  {
+   "name": "Lalla Moulati (lalamoulati.net, Maroc), « سردين معمر بحشوة ساهلة ومقلي مقرمش وجد شهي », 16 novembre 2017",
+   "url": "https://www.lalamoulati.net/93278.html",
+   "used_for": "Contre-vérification : Source marocaine de plus pour les sardines farcies frites : farcies (poivron, sel, poivre, citron, coriandre, paprika, harissa, concentré de tomate, huile d'olive), farinées, frites dans une huile bien chaude, servies avec des rondelles de citron. Elle ne parle pas de sandwich."
+  }
+ ],
+ "discrepancies": [
+  "Choix de la version : sardines farcies à la chermoula, frites, dans un demi petit pain. Pourquoi : (1) la sardine est le poisson le plus abondant des côtes marocaines (Choumicha), bon marché et abondante (Taste of Maroc) et un produit de base des marchés (Al Jazeera, 2021), même si son prix a beaucoup monté (Le360, 2021 ; Hespress, 2024) ; (2) la friture est sa préparation la plus populaire et, farcie d'une chermoula piquante, elle fait « un savoureux sandwich » (Morocco World News 2013, d'après CNN) ; (3) Taste of Maroc en fait un des plats de rue les plus classiques, vendu même loin de la mer (Marrakech, Fès), et Morocco World News (2021) la conseille dans un demi petit pain. Le sandwich de kefta de sardines (hout quari) existe, mais les sources le situent à Marrakech (MarocMama, Halal Xplorer) et Halal Xplorer le dit difficile à trouver ; les sardines grillées d'Essaouira se servent avec du pain et des olives, sans sandwich décrit (MWN Lifestyle, 2024), et les bocadillos au poisson sont surtout dans le Nord (Morocco World News, 2021). Ces versions sont dans les variantes.",
+  "Pain : « un demi petit pain » (Morocco World News, 2021) ; pita ou petit pain ferme (MarocMama, pour le hout quari) ; pain frais beurré de beurre clarifié (Halal Xplorer, hout quari). Retenu : un demi petit pain rond (khobz) par sandwich.",
+  "Garniture : salade tomate-oignon (Morocco World News 2021 ; Taste of Maroc, avec concombre) ou sauce de tomate crue râpée avec oignon cru (MarocMama ; Halal Xplorer ; tomate râpée chez SBS). Retenu : tomate râpée assaisonnée et oignon haché, faciles à mettre dans le pain. Harissa (Taste of Maroc, MarocMama, Halal Xplorer), olives (Choumicha, MarocMama, Halal Xplorer) et citron (Choumicha, Taste of Maroc, Bladi) ajoutés.",
+  "Chaud ou froid : de préférence chaudes (Bladi) ; chaudes, tièdes ou à température ambiante (Taste of Maroc) ; froides ou chaudes (Morocco World News, 2021). Retenu : chaudes, juste après la friture.",
+  "Morocco World News (2021) parle d'un goût fort d'ail et de gingembre. Le gingembre n'apparaît dans aucune chermoula de sardines frites lue (Choumicha, Bladi, Cooking With Alia), sauf en option (1 c. à c.) dans la recette de chermoula de Taste of Maroc ; on le trouve chez Hassan M'Souli (SBS) et dans la kefta de sardines de Choumicha. Non retenu.",
+  "Prix : 10 dirhams en 2013 (Morocco World News, d'après CNN), environ 20 à 25 dirhams pour les sandwichs de rue en 2021 (Morocco World News, pour les bocadillos). Non utilisé dans la recette.",
+  "Temps : ceux de la recette du poisson frit de l'application (préparation 25 min, cuisson 20 min, marinade 30 min), car c'est elle qui fait l'essentiel du travail. Le temps d'assemblage n'est chiffré par aucune source.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Nom du sandwich en darija et en arabe : aucune source ne donne de nom pour le sandwich lui-même. « Sardine mzeouej » est le nom des sardines farcies (Taste of Maroc) ; « سندويتش السردين » est une simple description.",
+  "Nombre de sardines par sandwich : aucune source fiable. Un site de voyage (visiearth.pages.dev) parle de 3 à 4 sardines, sans source vérifiable : non retenu. À adapter à la taille du pain.",
+  "Quantités de tomate, d'oignon, de harissa et d'olives par sandwich : non chiffrées par les sources, donc laissées « selon ton goût ».",
+  "Ouvrir le demi-pain en poche : c'est la lecture de « glisser les sardines dans un demi petit pain » (Morocco World News) ; le geste n'est pas décrit.",
+  "Version de Medium (« Eat like a local: the best street food in Marrakesh ») : boulettes de sardines mêlées de graisse de mouton, frites, avec sauce tomate et olives vertes. Page refusée (403), vue seulement dans un résumé de moteur de recherche : non utilisée.",
+  "Sandwich de sardines grillées d'Essaouira (avec harissa et citron confit, environ 15 dirhams) et sandwich de sardines en filets de Rabat : vus seulement dans des résumés de recherche (nomadotravel.app, tripranger.com), pages non ouvertes : non utilisés.",
+  "Article de TelQuel sur la cuisine de rue (11 novembre 2025) : accès refusé (403), non contourné.",
+  "Sens du mot « quari » dans « hout quari » : non expliqué par les sources.",
+  "Le quota de recherches web de la session a été épuisé en cours de travail : pas d'autres recherches possibles sur Le360, Hespress ou Lalla Moulati au sujet du sandwich."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Poissons",
+ "pairs": [
+  "poisson-frit",
+  "khobz"
+ ],
+ "pairs_label": "Les recettes utilisées",
+ "img_alt": "Sandwich de sardines dans un petit pain, avec de la salade",
+ "img": "img/sandwich-poisson.jpg",
+ "photo": {
+  "author": "bobjudge",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/8286199@N08/3444731119",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Soupe de lentilles corail à la turque. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "soupe-lentilles-corail",
+ "title": "Soupe de lentilles corail à la turque",
+ "darija": "Chorba d l-âdes l-hmer",
+ "arabic": "شوربة العدس الأحمر",
+ "tagline": "Le mercimek çorbası, l'une des soupes les plus consommées de Turquie : lentilles corail, oignon, carotte et pomme de terre mixés en velouté, avec un filet de beurre au paprika et un quartier de citron. Prête en 30 minutes à la cocotte-minute ; compte 45 à 55 minutes à la casserole.",
+ "category": "Rapide",
+ "occasion": "Soupe de tous les jours, en entrée ou en repas léger ; c'est la reine des menus des lokanta, les petits restaurants turcs (Türk Mutfağı Haftası). En Anatolie, on la mange même au petit-déjeuner (Ozlem Warren).",
+ "region": "Turquie, tout le pays. À Istanbul, la version la plus courante est faite de lentilles seules ; Ozlem Warren, comme sa mère, y ajoute carotte et pomme de terre (Ozlem's Turkish Table), comme la plupart des recettes turques lues (Nefis Yemek Tarifleri ; Yemek.com).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 10,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Cocotte-minute (autocuiseur)",
+  "Mixeur plongeant, ou passoire fine et louche",
+  "Bouilloire",
+  "Passoire pour rincer les lentilles",
+  "Râpe à gros trous",
+  "Planche et couteau",
+  "Petite poêle",
+  "Louche"
+ ],
+ "ingredients": [
+  {
+   "group": "Soupe",
+   "items": [
+    {
+     "id": "lentilles",
+     "q": 180,
+     "u": "g",
+     "name": "de lentilles corail",
+     "canon": "lentilles-corail"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "canon": "oignon"
+    },
+    {
+     "id": "carotte",
+     "q": 1,
+     "u": "",
+     "name": "carotte",
+     "pl": "carottes",
+     "canon": "carotte"
+    },
+    {
+     "id": "pomme-de-terre",
+     "q": 1,
+     "u": "",
+     "name": "pomme de terre moyenne",
+     "pl": "pommes de terre moyennes",
+     "canon": "pomme-de-terre"
+    },
+    {
+     "id": "huile",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile de tournesol",
+     "note": "ou d'huile d'olive",
+     "canon": "huile"
+    },
+    {
+     "id": "eau",
+     "q": 1,
+     "u": "l",
+     "name": "d'eau bien chaude",
+     "note": "chauffée à la bouilloire",
+     "canon": "eau"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "selon le goût",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "note": "selon le goût",
+     "canon": "poivre"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "note": "facultatif",
+     "canon": "cumin"
+    }
+   ]
+  },
+  {
+   "group": "Beurre au paprika et service",
+   "items": [
+    {
+     "id": "beurre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de beurre",
+     "canon": "beurre"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika",
+     "note": "doux, ou en partie piquant si tu aimes",
+     "canon": "paprika"
+    },
+    {
+     "id": "citron",
+     "q": 1,
+     "u": "",
+     "name": "citron",
+     "pl": "citrons",
+     "note": "en quartiers",
+     "canon": "citron"
+    },
+    {
+     "id": "pain",
+     "q": null,
+     "u": "",
+     "name": "pain grillé",
+     "note": "facultatif",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Chauffe l'eau",
+   "text": "Fais chauffer {{eau}} d'eau à la bouilloire : avec de l'eau déjà chaude, la soupe bout plus vite.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Rince les lentilles",
+   "text": "Mets {{lentilles}} de lentilles corail dans une passoire. Rince-les sous l'eau en remuant, jusqu'à ce que l'eau coule claire, puis laisse égoutter.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare les légumes",
+   "text": "Pèle et hache {{oignon:full}}. Pèle et râpe gros {{carotte:full}}. Pèle et coupe en petits dés {{pomme-de-terre:full}}.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Prépare les légumes » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais revenir l'oignon",
+   "text": "Dans la cocotte-minute ouverte, chauffe {{huile}} d'huile à feu moyen. Fais revenir l'oignon 1 à 2 minutes en remuant.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les légumes",
+   "text": "Ajoute la carotte râpée et les dés de pomme de terre. Fais-les revenir quelques minutes en remuant, jusqu'à ce qu'ils commencent à ramollir : leur couleur passe dans l'huile et rend la soupe bien dorée.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les lentilles",
+   "text": "Ajoute les lentilles égouttées et remue 1 minute dans l'huile.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mouille et écume",
+   "text": "Verse l'eau chaude, ajoute du {{sel}} et remue. Porte à ébullition et retire à la cuillère l'écume qui monte.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis sous pression",
+   "text": "Ferme la cocotte. Dès qu'elle siffle, baisse le feu et laisse cuire 10 minutes.",
+   "timer": {
+    "min": 10,
+    "label": "Cuisson sous pression",
+    "done": "Coupe le feu. Fais retomber la pression comme le dit le mode d'emploi de ta cocotte avant d'ouvrir."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ouvre la cocotte",
+   "text": "Coupe le feu. Fais retomber la pression en suivant le mode d'emploi de ta cocotte, puis ouvre-la avec précaution.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mixe la soupe",
+   "text": "Attends 1 à 2 minutes, puis mixe au mixeur plongeant jusqu'à obtenir un velouté bien lisse. Sans mixeur, passe la soupe dans une passoire fine en écrasant avec le dos de la louche.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Assaisonne et ajuste",
+   "text": "Ajoute {{cumin}} de cumin et du {{poivre}}, goûte et rectifie le sel. Si la soupe est trop épaisse, ajoute un peu d'eau chaude. Laisse frémir 2 à 3 minutes en remuant.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais le beurre au paprika",
+   "text": "Dans une petite poêle, fais fondre {{beurre}} de beurre à feu doux. Ajoute {{paprika}} de paprika, laisse grésiller quelques secondes et retire aussitôt du feu.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers bien chaud",
+   "text": "Coupe {{citron:full}} en quartiers. Verse la soupe dans les bols, arrose d'un filet de beurre au paprika et pose un quartier de citron à côté. Sers avec du {{pain}}.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Rince les lentilles dans beaucoup d'eau, jusqu'à ce qu'elle coule claire.",
+   "source": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası ; Ev usulü mercimek çorbası)"
+  },
+  {
+   "text": "Verse de l'eau déjà chaude : la soupe bout plus tôt et cuit plus vite.",
+   "source": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı, Altın mercimek çorbası) ; eau chaude aussi chez Elif Atalar et sur Yemek.com (Düdüklüde mercimek çorbası)"
+  },
+  {
+   "text": "Fais revenir carotte et pomme de terre dans l'huile avant d'ajouter l'eau : leur couleur passe dans l'huile et rend la soupe brillante, d'un beau jaune doré.",
+   "source": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı)"
+  },
+  {
+   "text": "Remue les lentilles environ une minute dans la matière grasse avant de mouiller.",
+   "source": "Yemek.com (Türk Mutfağı Haftası : « 1 dakika kadar karıştırarak kavurun ») ; Nesli'nin Mutfağı (2 ou 3 tours de cuillère)"
+  },
+  {
+   "text": "La cocotte-minute raccourcit beaucoup la cuisson : environ 40 minutes de cuisson à la casserole, contre 15 à 20 minutes en tout à la cocotte-minute, dont 10 à 15 sous pression.",
+   "source": "Nefis Yemek Tarifleri (Elif Atalar : « yaklaşık olarak 40 dakika » à la casserole ; 10 minutes sous pression) ; Yemek.com (Gökçen Mutaf : 10 à 15 minutes) ; Nesli'nin Mutfağı (10 à 15 minutes)"
+  },
+  {
+   "text": "Pour une soupe d'un jaune doré et soyeuse, passe-la encore chaude dans une passoire au lieu de la mixer : au mixeur, elle devient plus terne. Yemek.com fait les deux, mixeur puis passoire fine.",
+   "source": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı) ; Yemek.com (Süzme mercimek çorbası, Çiğdem Esastürk)"
+  },
+  {
+   "text": "« Süzme » (passée) désigne la texture lisse et veloutée de cette soupe, la reine des menus des lokanta.",
+   "source": "Yemek.com (Türk Mutfağı Haftası, avec la contribution du ministère turc de la Culture et du Tourisme)"
+  },
+  {
+   "text": "La soupe épaissit en attendant : rallonge-la avec un peu d'eau chaude.",
+   "source": "Nefis Yemek Tarifleri (Elif Atalar ; Nesli'nin Mutfağı) ; Ozlem's Turkish Table"
+  },
+  {
+   "text": "Un bouillon de poule ou de viande donne plus de goût : un à deux verres suffisent. En halal, prends un bouillon maison ou un cube certifié halal.",
+   "source": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası, au bouillon de viande)"
+  },
+  {
+   "text": "Le beurre au paprika ne chauffe que quelques secondes, puis il quitte le feu.",
+   "source": "Yemek.com (Türk Mutfağı Haftası : « birkaç saniye kızdırın ve ocaktan alın ») ; Ozlem Warren (piment infusé 35 secondes à feu doux)"
+  },
+  {
+   "text": "Le plus souvent, on la sert avec un quartier de citron et un beurre grésillant au piment.",
+   "source": "Yemek.com (Türk Mutfağı Haftası) ; Nefis Yemek Tarifleri (Elif Atalar) ; Ozlem's Turkish Table"
+  },
+  {
+   "text": "Le cumin s'ajoute à la fin, avec le poivre.",
+   "source": "Nefis Yemek Tarifleri (Elif Atalar : après le mixage) ; Ozlem's Turkish Table (une fois la soupe cuite)"
+  },
+  {
+   "text": "Tu aimes le piquant ? Mets plus de piment (pul biber).",
+   "source": "Nefis Yemek Tarifleri (Elif Atalar : « Acı seviyorsanız pul biber miktarını artırabilirsiniz »)"
+  }
+ ],
+ "mistakes": [
+  "Ouvrir la cocotte sans avoir fait retomber la pression : suis toujours le mode d'emploi (Yemek.com, Düdüklüde mercimek çorbası).",
+  "Mixer la soupe dès l'ouverture : Yemek.com attend 1 à 2 minutes avant de la mixer.",
+  "Mal rincer les lentilles (Nefis Yemek Tarifleri, Elif Atalar).",
+  "Laisser brûler la farine, si tu en mets : ne la fais pas revenir sur un feu trop fort (Nefis Yemek Tarifleri, Elif Atalar, recette lokanta usulü).",
+  "Servir une soupe trop épaisse : elle épaissit encore en refroidissant, rallonge-la d'eau chaude (Elif Atalar ; Nesli'nin Mutfağı).",
+  "À la casserole, oublier de remuer : les lentilles attachent au fond (Ozlem Warren).",
+  "Laisser les restes à température ambiante : mets-les au frigo dans les 1 à 2 heures, mange-les dans les 48 heures et réchauffe-les une seule fois, jusqu'à ce qu'ils fument partout (Food Standards Agency, Royaume-Uni)."
+ ],
+ "serving": "Sers bien chaud, avec un filet de beurre au paprika, un quartier de citron à presser dans le bol et du pain grillé (Türk Mutfağı Haftası) ; Ozlem Warren propose aussi des croûtons. La soupe se congèle bien : Ozlem Warren en fait souvent le double pour en congeler une partie (à réchauffer une seule fois, selon la Food Standards Agency).",
+ "variants": [
+  "Sans cocotte-minute : même recette dans une grande casserole, à petit frémissement, couvercle entrouvert, 20 à 25 minutes (Ozlem Warren, 2026) ou 25 à 30 minutes (Türk Mutfağı Haftası), en remuant de temps en temps. Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",
+  "Version de la Semaine de la cuisine turque (Türk Mutfağı Haftası) : seulement lentilles, oignon doré au beurre et bouillon de viande halal, maison ou certifié (ou bouillon de légumes, ou eau chaude), mixés, puis beurre au paprika ; à Istanbul, la version la plus courante est aussi aux lentilles seules (Ozlem Warren).",
+  "Avec un peu de riz long, cuit avec les lentilles (Ozlem Warren : 25 g pour 4).",
+  "Plus épaisse : un roux de beurre et de farine (Türk Mutfağı Haftası : 20 g de beurre et 1 c. à s. de farine) ; Elif Atalar fait revenir 2 c. à s. de farine avec l'oignon.",
+  "Avec du concentré de tomate ou de poivron revenu avec l'oignon (Elif Atalar ; Yemek.com, Düdüklüde mercimek çorbası).",
+  "Avec curcuma et cumin dans la soupe, sans carotte ni pomme de terre (Elif Atalar, recette lokanta usulü).",
+  "Huile d'olive au piment (pul biber) à la place du beurre au paprika, avec le jus d'un citron dans la soupe (Ozlem Warren).",
+  "Avec un verre de bouillon de poule à la place d'une partie de l'eau (Elif Atalar, recette sous pression) : bouillon maison ou certifié halal."
+ ],
+ "sources": [
+  {
+   "name": "Yemek.com, Türk Mutfağı Haftası (Semaine de la cuisine turque, recette préparée avec la contribution du ministère turc de la Culture et du Tourisme), « Süzme Mercimek Çorbası », 21 mai 2025",
+   "url": "https://yemek.com/tarif/klasik-suzme-mercimek-corbasi/",
+   "used_for": "Recette classique officielle pour 6 (300 g de lentilles, 1 oignon, 1,5 l de bouillon, 70 g de beurre, paprika, sel) ; lentilles lavées, oignon doré au beurre, lentilles remuées 1 minute, 25 à 30 minutes de cuisson, mixage ; beurre au paprika chauffé quelques secondes ; service avec citron et pain grillé ; sens de « süzme » ; soupe phare des lokanta ; roux en variante."
+  },
+  {
+   "name": "Yemek.com, Gökçen Mutaf, « Düdüklüde Mercimek Çorbası », 25 novembre 2020",
+   "url": "https://yemek.com/tarif/duduklude-mercimek-corbasi/",
+   "used_for": "Version à la cocotte-minute pour 4, 10 minutes de préparation et 20 de cuisson : 10 à 15 minutes après l'ébullition à feu baissé ; ouvrir avec précaution selon le mode d'emploi ; attendre 1 à 2 minutes avant de mixer ; concentré de tomate en variante."
+  },
+  {
+   "name": "Nefis Yemek Tarifleri, Elif Atalar, « Lokanta Usulü Mercimek Çorbası Tarifi Videosu », mise à jour le 28 novembre 2025",
+   "url": "https://www.nefisyemektarifleri.com/video/lokanta-usulu-mercimek-corbasi-tarifi-videosu/",
+   "used_for": "Méthode sous pression (5 + 15 minutes, 4 à 6 personnes) : 1 verre de lentilles, oignon, carotte râpée gros, pomme de terre en petits dés, 3 à 4 c. à s. d'huile, 1 l d'eau chaude et 200 ml de bouillon de poule ; oignon revenu 1 à 2 minutes ; 10 minutes après l'ébullition ; mixer ou passer ; beurre au paprika. Donne aussi l'équivalence 1 su bardağı = 200 ml."
+  },
+  {
+   "name": "Nefis Yemek Tarifleri, Nesli'nin Mutfağı, « Altın Mercimek Çorbası (Lokanta Usulü) », mise à jour le 6 décembre 2021",
+   "url": "https://www.nefisyemektarifleri.com/altin-mercimek-corbasi-lokanta-usulu/",
+   "used_for": "Version sous pression (10 + 15 minutes) : légumes en tout petits dés revenus jusqu'à ramollir (leur couleur passe dans l'huile), lentilles remuées 2 ou 3 tours, 10 à 15 minutes sous pression, vapeur évacuée avant d'ouvrir ; passoire plutôt que mixeur pour la couleur ; eau chaude pour gagner du temps ; soupe qui épaissit ; citron au service."
+  },
+  {
+   "name": "Nefis Yemek Tarifleri, Elif Atalar, « Mercimek Çorbası Tarifi », mise à jour le 16 octobre 2023",
+   "url": "https://www.nefisyemektarifleri.com/mercimek-corbasi-tarifi/",
+   "used_for": "Lentilles rincées jusqu'à ce que l'eau soit claire ; 1 à 2 verres de bouillon pour plus de goût ; sel, poivre et cumin après le mixage ; soupe qui épaissit ; beurre au paprika et citron ; farine et concentré en variante."
+  },
+  {
+   "name": "Nefis Yemek Tarifleri, Elif Atalar, « Lokanta Usulü Mercimek Çorbası Tarifi », mise à jour le 21 septembre 2026",
+   "url": "https://www.nefisyemektarifleri.com/video/lokanta-usulu-mercimek-corbasi-tarifi/",
+   "used_for": "Environ 40 minutes de cuisson à la casserole, plus court à la cocotte-minute ; ne pas brûler la farine ; plus de pul biber si on aime le piquant ; variante au curcuma et au cumin."
+  },
+  {
+   "name": "Ozlem's Turkish Table, Ozlem Warren (née et élevée en Turquie), « Süzme Mercimek Çorbası; Red Lentil Soup with Carrots and Potatoes », 24 août 2026 (tirée de son livre ISTANBUL)",
+   "url": "https://ozlemsturkishtable.com/2026/08/suzme-mercimek-corbasi-red-lentil-soup-with-carrots-and-potatoes/",
+   "used_for": "Pour 4 : 255 g de lentilles, 1 oignon, 1 petite carotte, 1 pomme de terre, 1,3 l d'eau chaude, 3 c. à s. d'huile d'olive, 2 c. à c. de cumin, citron ; écume retirée ; 20 à 25 minutes à la casserole en remuant ; version d'Istanbul aux lentilles seules ; huile au pul biber infusée 35 secondes ; soupe qui épaissit ; congélation."
+  },
+  {
+   "name": "Ozlem's Turkish Table, Ozlem Warren, « Hearty Turkish Red Lentil Soup – Kirmizi Mercimek Corbasi », 29 novembre 2010",
+   "url": "https://ozlemsturkishtable.com/2010/11/hearty-red-lentil-soup-kirmizi-mercimek-corbasi/",
+   "used_for": "Pour 6 : 250 g de lentilles, 1,2 l d'eau chaude, 2 c. à c. de cumin ; 15 minutes de préparation, 40 de cuisson (environ 35 de frémissement) ; remuer pour que ça n'attache pas ; soupe mangée aussi au petit-déjeuner en Anatolie ; croûtons ; congélation."
+  },
+  {
+   "name": "Yemek.com, Yasemin Gürsürer, « Mercimek Çorbası (Lokanta Usulü) », 3 septembre 2026",
+   "url": "https://yemek.com/tarif/mercimek-corbasi/",
+   "used_for": "Pour 6 : 1,5 verre de lentilles, oignon, carotte, pomme de terre, 6 verres d'eau chaude ; 40 minutes de cuisson à la casserole ; beurre et huile au paprika : données pour les médianes."
+  },
+  {
+   "name": "Yemek.com, Çiğdem Esastürk, « Süzme Mercimek Çorbası », 23 mars 2022",
+   "url": "https://yemek.com/tarif/suzme-mercimek-corbasi/",
+   "used_for": "Pour 4 : 1 verre de lentilles, oignon, carotte, pomme de terre, bouillon et eau, cumin ; mixée puis passée au tamis fin, 2 à 3 minutes de cuisson après mixage."
+  },
+  {
+   "name": "Yemek.com, Dorukhan Dişbudak, « Ev Usulü Mercimek Çorbası », 14 mars 2024",
+   "url": "https://yemek.com/tarif/ev-usulu-mercimek-corbasi/",
+   "used_for": "Pour 6 : 2 verres de lentilles lavées jusqu'à ce que l'eau soit claire, 2 l d'eau chaude, huile et beurre ; beurre et huile au paprika : données pour les médianes."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), GOV.UK, « How to chill, freeze and defrost food safely »",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Restes : refroidir et mettre au frigo dans les 1 à 2 heures, en petites portions ; frigo entre 0 et 5 °C ; manger dans les 48 heures ou congeler."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), GOV.UK, « Cooking your food »",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Restes : ne les réchauffer qu'une fois, jusqu'à ce qu'ils soient fumants partout ; sur le feu, remuer souvent."
+  },
+  {
+   "name": "USDA FoodData Central (API officielle) : lentilles roses ou rouges crues (FDC 174284) ; beurre (FDC 173430)",
+   "url": "https://api.nal.usda.gov/fdc/v1/food/174284?api_key=DEMO_KEY",
+   "used_for": "Conversions : 1 tasse de lentilles corail = 192 g, donc 1 su bardağı (200 ml) ≈ 162 g ; 1 c. à s. de beurre = 14,2 g (fiche 173430 lue par la même API)."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « شهيوات رمضانية.. شوربة العدس الأحمر », recette publiée le 28 mai 2018",
+   "url": "https://www.lalamoulati.net/134984.html",
+   "used_for": "Contre-vérification : Le nom arabe « شوربة العدس الأحمر » (soupe de lentilles rouges) est employé par un site marocain ; seul le nom a été vérifié, pas la recette."
+  }
+ ],
+ "discrepancies": [
+  "Durée : à la casserole, aucune source sérieuse ne tient en 30 minutes (Türk Mutfağı Haftası 15 + 35 minutes ; Ozlem 2026 : 20 à 25 minutes de frémissement après 4 à 5 minutes de cuisson des légumes ; Ozlem 2010 : 15 + 40 ; Nefis et Yemek.com lokanta : environ 40 minutes). Sous pression : 10 minutes (Elif Atalar), 10 à 15 minutes (Gökçen Mutaf ; Nesli'nin Mutfağı). Retenu : la cocotte-minute, 10 minutes, pour tenir en 10 + 20 minutes comme la recette de Yemek.com ; la casserole est en variante.",
+  "Lentilles ramenées à 4 personnes (10 recettes, 1 verre de 200 ml ≈ 162 g d'après l'USDA) : 130, 130, 162, 162, 167, 185, 200, 216, 255 et 325 g. Médiane 176 g : retenu 180 g.",
+  "Liquide par gramme de lentilles : de 4,3 ml (Gökçen Mutaf) à 8,3 ml (Çiğdem Esastürk) ; médiane 5,6 ml, soit environ 1 l pour 180 g. Retenu : 1 l d'eau chaude, à rallonger si besoin.",
+  "Légumes : lentilles et oignon seuls (Türk Mutfağı Haftası ; version d'Istanbul selon Ozlem Warren) ou avec 1 carotte et 1 pomme de terre (Elif Atalar, Nesli'nin Mutfağı, Gökçen Mutaf, Yemek.com lokanta, süzme et ev usulü, Ozlem Warren). Retenu : avec carotte et pomme de terre, la version majoritaire.",
+  "Matière grasse dans la cocotte, ramenée à 4 : de 0,7 à 4 c. à s. selon les recettes (beurre, huile ou les deux). Médiane 2,7 en prenant le milieu des fourchettes de parts, comme pour les lentilles (2,4 en prenant le haut des fourchettes) : retenu 2 c. à s. d'huile, dans la fourchette des recettes.",
+  "Beurre du dessus, ramené à 4 : 0,7 c. à s. (ev usulü), 0,8 (Elif Atalar, sous pression), 1,1 (Elif Atalar), 1,3 (Yemek.com lokanta), 1,9 (Türk Mutfağı Haftası, 40 g pour 6). Médiane 1,1 : retenu 1 c. à s. ; Ozlem Warren prend de l'huile d'olive.",
+  "Piment du dessus : « kırmızı toz biber », piment rouge moulu (Türk Mutfağı Haftası, Nefis, Yemek.com) ou pul biber en flocons (Ozlem Warren ; texte de présentation de la Semaine de la cuisine turque). Retenu : paprika, en partie piquant au choix. Quantité : 1 c. à c. pour 4 chez Ozlem 2026 ; « 1 cuillère à thé ou à dessert » pour 4 à 8 dans les recettes turques. Durée sur le feu après le piment : quelques secondes (Türk Mutfağı Haftası), 35 secondes (Ozlem 2026), 1 à 2 minutes (Yemek.com, lokanta usulü et ev usulü) ; retenu : quelques secondes, comme le Türk Mutfağı Haftası.",
+  "Cumin ramené à 4 : 0,4 à 2 c. à c. (médiane 1) ; absent de la recette du Türk Mutfağı Haftası. Retenu : 1 c. à c., facultatif.",
+  "Sel : les recettes turques le mesurent en « çay kaşığı » ou « tatlı kaşığı », cuillères dont la contenance n'a pas été vérifiée ; Ozlem sale au goût. Retenu : sel au goût, sans quantité.",
+  "Lisser la soupe : mixeur (Türk Mutfağı Haftası, Elif Atalar, Gökçen Mutaf), passoire (Nesli'nin Mutfağı, qui trouve la soupe mixée plus terne), les deux (Çiğdem Esastürk). Retenu : mixeur, la passoire en option.",
+  "Ébullition sous pression : les recettes turques disent « après l'ébullition » (kaynadıktan sonra) ou « quand ça commence à bouillir, baisse le feu ». Retenu : dès que la cocotte siffle, feu baissé, 10 minutes.",
+  "Citron : quartiers au service (Türk Mutfağı Haftası, Elif Atalar, Nesli'nin Mutfağı) ou jus dans la soupe (Ozlem Warren). Retenu : quartiers.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Noms en darija et en arabe : traduction descriptive (« soupe de lentilles rouges »), pas un nom établi trouvé dans une source.",
+  "Contenance exacte des cuillères turques « çay kaşığı » et « tatlı kaşığı » : non vérifiée, d'où le sel sans quantité.",
+  "Façon de faire retomber la pression (naturelle ou par la soupape) : les sources disent seulement de suivre le mode d'emploi. Une décompression naturelle allonge le temps total au-delà de 30 minutes.",
+  "Remplissage maximal d'une cocotte-minute pour des légumes secs qui moussent : non vérifié dans un mode d'emploi de fabricant ; la recette renvoie au mode d'emploi.",
+  "Refika'nın Mutfağı : page de la recette introuvable (erreur 404) et liste chargée par script, non lue ; la page Lezzet trouvée était une recette pour 100 personnes, non utilisée ; le site du ministère turc de la Culture et du Tourisme n'a pas été lu directement (recette lue sur Yemek.com).",
+  "Disponibilité au Maroc des lentilles corail : non vérifiée sur une source."
+ ],
+ "cuisine": "Turque",
+ "rayon": "D'ailleurs",
+ "rayons": [
+  "D'ailleurs",
+  "Soupes"
+ ],
+ "img": "img/soupe-lentilles-corail.jpg",
+ "photo": {
+  "author": "E4024",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbas%C4%B1_in_Ankara.jpg",
+  "modified": "réduite"
+ }
+});
+
+/* Recette : Spaghetti aglio, olio e peperoncino. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "spaghetti-aglio-olio",
+ "title": "Spaghetti aglio, olio e peperoncino",
+ "darija": "",
+ "arabic": "معكرونة الثوم بالزيت",
+ "tagline": "Des spaghettis enrobés d'huile d'olive parfumée à l'ail à peine blond et au piment : le grand classique napolitain, prêt pendant que les pâtes cuisent.",
+ "category": "Rapide",
+ "occasion": "Dîner express des soirs de fatigue, avec des ingrédients qu'on a toujours à la maison (Turismo Roma) ; Antonio Carluccio en fait même un plat de minuit",
+ "region": "Italie. Attribué par tradition au Latium, il est né à Naples et en Campanie selon Turismo Roma et Reporter Gourmet ; l'origine reste discutée entre la Toscane, Naples et Rome (Dissapore)",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 5,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une grande casserole avec son couvercle, pour beaucoup d'eau",
+  "Une grande poêle ou une sauteuse, assez large pour y faire sauter les pâtes",
+  "Une passoire, ou une pince à pâtes pour sortir les spaghettis de l'eau",
+  "Un bol, pour garder un peu d'eau de cuisson",
+  "Une planche et un petit couteau bien aiguisé"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâtes",
+   "items": [
+    {
+     "id": "spaghetti",
+     "q": 400,
+     "u": "g",
+     "name": "de spaghettis",
+     "note": "ou de vermicelles ou de linguine",
+     "canon": "spaghetti"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "une grande casserole, pour cuire les pâtes",
+     "canon": "eau"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "pour l'eau des pâtes : c'est le seul sel de la recette",
+     "canon": "sel"
+    }
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    {
+     "id": "huile",
+     "q": 8,
+     "u": "c. à s.",
+     "name": "d'huile d'olive vierge extra",
+     "note": "de bonne qualité : c'est elle, la sauce",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "ail",
+     "q": 3,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "canon": "ail"
+    },
+    {
+     "id": "piment",
+     "q": 1,
+     "u": "",
+     "name": "piment rouge fort",
+     "pl": "piments rouges forts",
+     "note": "frais de préférence, sinon sec",
+     "canon": "piment-cayenne"
+    },
+    {
+     "id": "persil",
+     "q": null,
+     "u": "",
+     "name": "persil plat",
+     "note": "selon le goût, facultatif",
+     "canon": "persil"
+    },
+    {
+     "id": "eau-cuisson",
+     "q": null,
+     "u": "",
+     "name": "eau de cuisson des pâtes",
+     "note": "quelques cuillerées, prises dans la casserole",
+     "canon": "eau"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Mets l'eau à chauffer",
+   "text": "Remplis une grande casserole d'{{eau}}, couvre-la et porte-la à ébullition.",
+   "timer": null,
+   "tip": "Le couvercle fait économiser de l'énergie pendant que l'eau chauffe (étude des pastiers italiens d'Unione Italiana Food, citée par Il Giornale del Cibo)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Taille l'ail",
+   "text": "Pèle {{ail:full}}. Coupe chaque gousse en deux dans la longueur, retire le germe du centre, puis taille-les en fines lamelles.",
+   "timer": null,
+   "tip": "Tu n'aimes pas croquer l'ail ? Garde les gousses coupées en deux et retire-les de la poêle avant d'y mettre les pâtes, comme le fait Dissapore."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare le piment",
+   "text": "Fends {{piment:full}} dans la longueur, retire les graines et taille la chair en fines lanières.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache le persil",
+   "text": "Si tu en mets, hache finement le {{persil}} et garde-en un peu à part pour le service.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache le persil » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Lance les pâtes",
+   "text": "Quand l'eau bout, sale-la bien avec le {{sel}}, puis plonge {{spaghetti}} de spaghettis. Regarde le temps de cuisson indiqué sur le paquet : tu les égoutteras un peu avant, bien al dente.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais blondir l'ail à feu doux",
+   "text": "Pendant que les pâtes cuisent, verse {{huile}} d'huile d'olive dans la grande poêle. Ajoute l'ail et le piment, puis chauffe à feu doux. Laisse l'ail cuire tout doucement jusqu'à ce qu'il soit à peine blond : il ne doit jamais brunir.",
+   "timer": null,
+   "tip": "Autre façon (Turismo Roma, Dissapore, Giorgio Locatelli) : mets le piment seulement quand l'ail commence à blondir."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Arrête la cuisson de l'ail",
+   "text": "Dès que l'ail est blond, retire la poêle du feu et verse quelques cuillerées d'{{eau-cuisson}}, prises dans la casserole. Cela arrête la cuisson de l'ail et allonge l'huile en sauce.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Garde un peu d'eau",
+   "text": "Juste avant d'égoutter, puise encore un peu d'eau de cuisson dans un bol et garde-la à côté.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte les pâtes al dente",
+   "text": "Égoutte les spaghettis encore bien al dente, ou sors-les de l'eau avec une pince.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais sauter pâtes et sauce",
+   "text": "Remets la poêle sur le feu et verses-y les spaghettis. Mélange vivement avec la pince, en ajoutant un peu d'eau de cuisson si c'est sec, jusqu'à ce que les pâtes soient bien enrobées.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Ajoute le persil et sers",
+   "text": "Hors du feu, ajoute presque tout le persil, si tu en mets, et mélange. Sers aussitôt, bien chaud, avec le reste du persil par-dessus.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "L'ail doit cuire tout doucement et seulement blondir, sans jamais brunir ni brûler.",
+   "source": "Turismo Roma, Dissapore, Giorgio Locatelli ; Antonio Carluccio le veut même sans aucune couleur"
+  },
+  {
+   "text": "Dès que l'ail est blond, quelques cuillerées d'eau des pâtes versées dans l'huile arrêtent sa cuisson et allongent l'huile en sauce.",
+   "source": "Turismo Roma, Giorgio Locatelli"
+  },
+  {
+   "text": "Prends cette eau au dernier moment : en fin de cuisson, elle est plus riche en amidon. Elle allège l'huile tout en lui donnant une consistance de sauce.",
+   "source": "Turismo Roma"
+  },
+  {
+   "text": "Pas de sel dans la poêle : l'eau des pâtes, bien salée, assaisonne toute la sauce.",
+   "source": "Turismo Roma (aucun autre sel n'est prévu) ; Dissapore (sel seulement pour l'eau des spaghettis)"
+  },
+  {
+   "text": "Égoutte les pâtes un peu avant la fin du temps du paquet : elles finissent de cuire dans la poêle, avec la sauce.",
+   "source": "Dissapore (une minute avant la fin), Turismo Roma"
+  },
+  {
+   "text": "La sauce se fait pendant que les pâtes cuisent : elle ne demande que quelques minutes.",
+   "source": "Antonio Carluccio (pas plus de 5 minutes), Turismo Roma"
+  },
+  {
+   "text": "L'huile d'olive, c'est la sauce : prends une vierge extra de bonne qualité, au goût bien marqué.",
+   "source": "Dissapore (conseils de Piero Palanti, du guide Extravoglio), Giorgio Locatelli, Turismo Roma"
+  },
+  {
+   "text": "Pas de fromage : Antonio Carluccio n'en met pas, et ni Turismo Roma ni les deux recettes de Dissapore n'en prévoient.",
+   "source": "Antonio Carluccio (Great Italian Chefs), Turismo Roma, Dissapore"
+  },
+  {
+   "text": "Retire le germe de l'ail. Pour un goût plus doux, laisse les gousses entières ou en deux et retire-les avant d'ajouter les pâtes.",
+   "source": "Dissapore (ses deux recettes)"
+  },
+  {
+   "text": "Les tiges de persil hachées très fin, ajoutées avec le piment, parfument l'huile ; les feuilles se mettent à la fin, hors du feu.",
+   "source": "Turismo Roma"
+  },
+  {
+   "text": "Spaghettis, vermicelles ou linguine : il faut une pâte longue, ni trop épaisse ni trop large.",
+   "source": "Turismo Roma ; Dissapore (d'après le gastronome Carnacina)"
+  },
+  {
+   "text": "C'est un plat pauvre de Naples : selon Turismo Roma, on le faisait quand on ne pouvait pas s'offrir les palourdes.",
+   "source": "Turismo Roma ; Reporter Gourmet (article sur Giorgio Locatelli) le rapproche lui aussi des vermicelles aux palourdes"
+  }
+ ],
+ "mistakes": [
+  "Laisser brunir ou brûler l'ail (Turismo Roma, Dissapore, Giorgio Locatelli).",
+  "Chauffer trop fort : l'ail cuit à feu doux (Turismo Roma, Antonio Carluccio).",
+  "Trop cuire les pâtes : égoutte-les al dente, elles finissent dans la poêle (Dissapore, Turismo Roma).",
+  "Jeter toute l'eau de cuisson : garde-en un peu pour lier la sauce (Dissapore, Giorgio Locatelli).",
+  "Saler la sauce alors que l'eau des pâtes l'assaisonne déjà (Turismo Roma).",
+  "Faire attendre le plat : il se mange dès qu'il est prêt (Turismo Roma, Giorgio Locatelli)."
+ ],
+ "serving": "Tout de suite, bien chaud, avec un peu de persil cru par-dessus (Turismo Roma, Dissapore). Giorgio Locatelli conseille une salade verte à côté (Reporter Gourmet). S'il en reste, mets les restes au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+ "variants": [
+  "À l'anchois : fais fondre des filets d'anchois hachés dans l'huile avec l'ail ; Antonio Carluccio en met 4 pour 4 personnes (Great Italian Chefs). Dissapore cite aussi les olives.",
+  "Avec de la chapelure (pangrattato), un ajout « pas rare » selon Dissapore.",
+  "Sans persil : seulement l'ail, l'huile et le piment, comme Antonio Carluccio et Giorgio Locatelli ; Dissapore (2022) le juge « pas nécessaire ».",
+  "Aux crevettes rouges et au persil (suggestion de Great Italian Chefs autour de la recette d'Antonio Carluccio).",
+  "Au fromage râpé, comme Giorgio Locatelli (parmesan ou grana padano). Attention : le parmesan (parmigiano reggiano) et le grana padano se font toujours avec de la présure de veau, exigée par leurs cahiers des charges ; si tu veux être strict, prends un autre fromage à pâte dure fait avec un coagulant microbien, sans présure animale."
+ ],
+ "sources": [
+  {
+   "name": "Dissapore, Rossella Di Bidino, « Spaghetti aglio olio e peperoncino: la ricetta perfetta », 14 janvier 2017",
+   "url": "https://www.dissapore.com/ricette/spaghetti-aglio-olio-e-peperoncino-la-ricetta-perfetta/",
+   "used_for": "Pour 4 : 400 g de spaghettis, 6 à 8 c. à s. d'huile vierge extra, 2 gousses d'ail, 1 bouquet de persil, 2 piments frais, sel seulement pour l'eau. Germe de l'ail retiré, piments épépinés en lanières ; ail à feu moyen sans jamais brûler, piment quand l'ail commence à dorer, ail retiré ; pâtes al dente, une louche d'eau de cuisson, persil, une partie crue sur les assiettes. Formats spaghetti, vermicelles, linguine (Carnacina) ; anchois, olives, chapelure ; huile de caractère (Piero Palanti) ; origine disputée entre Toscane, Naples et Rome."
+  },
+  {
+   "name": "Dissapore, fiche « Spaghetti aglio olio e peperoncino », 7 juillet 2022 (mise à jour le 24 août 2022)",
+   "url": "https://www.dissapore.com/ricette/spaghetti-aglio-olio-e-peperoncino/",
+   "used_for": "Pour 4 : 400 g de spaghettis, 8 c. à s. d'huile vierge extra, 1 gousse d'ail sans germe, 1 piment sec, 1 bouquet de persil ; ail et piment frits jusqu'à ce que l'ail soit doré puis retirés ; pâtes égouttées une minute avant la fin, une louche d'eau gardée, sautées avec l'eau et le persil ; 5 min de préparation, 10 de cuisson."
+  },
+  {
+   "name": "Turismo Roma (portail officiel du tourisme de la Ville de Rome), « Spaghetti aglio, olio e peperoncino », consulté le 6 novembre 2026",
+   "url": "https://www.turismoroma.it/it/page/spaghetti-aglio-olio-e-peperoncino-0",
+   "used_for": "Origine : Campanie et Naples, plat pauvre fait à la place des pâtes aux palourdes. 360 g de pâtes longues (spaghettis, vermicelles ou linguine, portions non précisées), 4 gousses d'ail en quatre, piment de préférence frais, persil, 8 c. à s. (environ 100 ml) d'huile vierge extra. Ail à feu très doux pendant la cuisson des pâtes ; dès qu'il dore, piment et tiges de persil hachées, 2 minutes ; hors du feu, feuilles de persil et 4 c. à s. (environ 60 ml) d'eau des pâtes pour arrêter la cuisson ; pas d'autre sel ; eau prise au dernier moment, plus riche en amidon ; pâtes al dente sautées une demi-minute ; servir tout de suite. Ingrédients toujours à la maison."
+  },
+  {
+   "name": "Great Italian Chefs, Antonio Carluccio, « Spaghetti aglio, olio e peperoncino », extrait de son livre Pasta (Quadrille), publié sur le site le 22 novembre 2016",
+   "url": "https://www.greatitalianchefs.com/recipes/spaghetti-aglio-olio-e-peperoncino-recipe",
+   "used_for": "Pour 4 : 450 g de spaghettis, 60 ml d'huile d'olive, 6 gousses hachées, 1 piment rouge, 4 filets d'anchois ou 1 c. à c. de colatura (facultatif), sel. Ail et piment frits doucement sans brunir ; sauce prête en moins de 5 minutes, pendant la cuisson des pâtes ; pâtes sorties à la pince et mélangées à la sauce ; pas de fromage ; plat de minuit ; suggestion crevettes rouges et persil."
+  },
+  {
+   "name": "Reporter Gourmet, Alessandra Meldolesi, « Spaghetti Aglio e Olio according to Giorgio Locatelli: The Chef's Winning Recipe », 5 novembre 2023 (recette du livre Made at Home)",
+   "url": "https://reportergourmet.com/en/news/6060-spaghetti-aglio-e-olio-according-to-giorgio-locatelli-the-chef-s-winning-recipe",
+   "used_for": "Pour 4 : 500 g de spaghettis, 1 piment, 4 gousses en lamelles d'environ 1 mm, 200 ml d'huile vierge extra, parmesan ou grana râpé. Ail dans l'huile froide, chauffé sans brûler, à peine coloré, puis le piment ; hors du feu, deux cuillerées d'eau des pâtes ; pâtes al dente sautées, plus d'eau si c'est sec ; servir tout de suite. Origine campanienne, plat proche des vermicelles aux palourdes ; salade verte à côté."
+  },
+  {
+   "name": "Il Giornale del Cibo, Alessia Rossi, « Cottura della pasta sostenibile: 3 accorgimenti alla portata di tutti », 28 juillet 2022",
+   "url": "https://www.ilgiornaledelcibo.it/cottura-pasta-sostenibile/",
+   "used_for": "Couvercle pendant la mise à ébullition : jusqu'à 6 % d'énergie en moins (étude des pastiers d'Unione Italiana Food). Cite aussi la proportion classique d'un litre d'eau pour 100 g de pâtes (non reprise en quantité)."
+  },
+  {
+   "name": "FDA (agence sanitaire américaine), « Safe Food Handling », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+   "used_for": "Mettre les plats cuisinés au réfrigérateur dans les 2 heures ; réchauffer les restes à 165 °F (74 °C, conversion calculée)."
+  },
+  {
+   "name": "Wikipédia en arabe, article « معكرونة الثوم بالزيت » (lié à l'article anglais « Spaghetti aglio e olio »), consulté le 7 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D9%83%D8%B1%D9%88%D9%86%D8%A9_%D8%A7%D9%84%D8%AB%D9%88%D9%85_%D8%A8%D8%A7%D9%84%D8%B2%D9%8A%D8%AA",
+   "used_for": "Nom arabe du plat. L'article place son origine dans les Abruzzes (voir discrepancies)."
+  },
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire de l'alimentation), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », article du 24 décembre 2020, lu le 7 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Contre-vérification : Source officielle française qui recoupe la FDA : « ne pas conserver les aliments plus de 2 heures à température ambiante avant réfrigération » ; garder 4 °C dans la zone la plus froide du réfrigérateur."
+  },
+  {
+   "name": "Consorzio Tutela Grana Padano (site officiel du consortium), page « Ingredienti », lue le 7 novembre 2026",
+   "url": "https://www.granapadano.it/it-it/larte-del-saper-fare/il-prodotto-iconico/ingredienti",
+   "used_for": "Contre-vérification : Le grana padano AOP se fait avec du lait, du sel, de la présure et du lysozyme ; « comme le veut le cahier des charges », la présure est extraite de la caillette du veau. Il n'existe donc pas de grana padano à coagulant microbien."
+  },
+  {
+   "name": "Wikipedia (anglais), article « Parmigiano Reggiano », lu le 7 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Parmigiano_Reggiano",
+   "used_for": "Contre-vérification : Le parmigiano reggiano est caillé à la présure de veau ; d'après le cahier des charges de l'AOP (note 26 de l'article), seuls le petit-lait de la veille et la présure de veau sont permis. Source secondaire : le site du consortium du parmigiano reggiano ne s'affiche qu'en JavaScript et n'a pas pu être lu."
+  }
+ ],
+ "discrepancies": [
+  "Pâtes pour 4 : 360 g (Turismo Roma, portions non précisées), 400 g (Dissapore, deux recettes), 450 g (Carluccio), 500 g (Locatelli). Retenu : 400 g, valeur la plus fréquente et médiane.",
+  "Ail : de 1 à 6 gousses pour 4. Ramenée à 400 g de pâtes, la médiane des cinq recettes lues est de 3,2 gousses (contre-vérification, calcul python). Retenu : 3 gousses.",
+  "Huile : de 60 ml pour 450 g (Carluccio) à 200 ml pour 500 g (Locatelli) ; 6 à 8 c. à s. (Dissapore 2017) ; 8 c. à s. (Dissapore 2022, Turismo Roma). Ramenée à 400 g de pâtes, la médiane est de 120 ml, soit 8 c. à s.",
+  "Piment : 1 pour 4 dans cinq recettes, 2 chez Dissapore (2017), non chiffré chez Turismo Roma. Frais pour Turismo Roma (de préférence), Dissapore 2017, Carluccio et Locatelli ; sec pour Dissapore 2022. Retenu : 1 piment, frais de préférence. La photo de la banque (piments secs, clé piment-cayenne) convient aux deux.",
+  "Coupe de l'ail : lamelles (Locatelli, environ 1 mm), quartiers (Turismo Roma), haché fin (Carluccio), demi-gousses retirées ensuite (Dissapore). Retenu : lamelles.",
+  "Couleur de l'ail : blond ou à peine doré (Turismo Roma, Dissapore, Locatelli) ; aucune couleur (Carluccio). Retenu : à peine blond, jamais brun.",
+  "Moment du piment : avec l'ail dès le début (Dissapore 2022 ; Carluccio) ou quand l'ail commence à dorer (Turismo Roma, Dissapore 2017, Locatelli). Retenu : dès le début, plus simple ; l'autre façon, un peu plus suivie, est donnée en astuce.",
+  "Eau de cuisson dans la sauce : 4 c. à s. (Turismo Roma), deux cuillerées puis plus si besoin (Locatelli), une louche (Dissapore). Quantité laissée libre : « quelques cuillerées », plus si c'est sec.",
+  "Persil : présent (Dissapore 2017 ; Turismo Roma), « pas nécessaire » (Dissapore 2022), absent (Carluccio ; Locatelli). Retenu : facultatif.",
+  "Finition : pâtes sautées dans la poêle (Turismo Roma, Dissapore, Locatelli, Carluccio). Retenu : la poêle.",
+  "Fromage : aucun dans six recettes ; parmesan ou grana chez Locatelli. Retenu : sans fromage, le fromage passe en variante.",
+  "Origine : Naples et la Campanie (Turismo Roma ; Reporter Gourmet, article sur Giorgio Locatelli) ; disputée entre Toscane, Naples et Rome (Dissapore) ; les Abruzzes (Wikipédia en arabe). Retenu : Naples, en signalant le débat.",
+  "Temps : Dissapore compte 5 min de préparation et 10 de cuisson, Carluccio 10 min au total, sans le temps de porter l'eau à ébullition. J'ai mis 5 + 20 min pour l'inclure (estimation).",
+  "Le vin blanc que Locatelli conseille avec ce plat est écarté (halal).",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 5 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Serious Eats, Giallo Zafferano, La Cucina Italiana, Il Cucchiaio d'Argento et Gambero Rosso n'ont pas été lus : ils refusent l'accès aux agents d'IA (erreurs 402 ou 403, ou interdiction dans leur fichier robots.txt). Ils ne sont pas utilisés.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide.",
+  "Quantité de sel par litre d'eau : aucune source lue ne la chiffre (« eau abondante et salée »).",
+  "Volume d'eau : seul Il Giornale del Cibo cite la proportion classique d'un litre pour 100 g de pâtes ; pas de deuxième source, donc pas de quantité.",
+  "Temps de préparation et de cuisson : estimation (voir discrepancies) ; le temps de cuisson des pâtes dépend du paquet, d'où l'absence de minuteur.",
+  "Disponibilité des ingrédients au Maroc : non vérifiée par une source.",
+  "Accademia Italiana della Cucina : son fichier robots.txt interdit aux robots ses pages de recettes (relu le 7 novembre 2026). Ses deux recettes ont donc été retirées des sources, avec ce qui ne reposait que sur elles (variantes au poivre noir et « à la romaine », « Rome a sa version ») ; les quantités retenues restent justifiées sans elles (contre-vérification)."
+ ],
+ "cuisine": "Italienne",
+ "rayon": "D'ailleurs",
+ "img_alt": "Spaghetti à l'ail, à l'huile d'olive et au piment rouge, avec du persil",
+ "img": "img/spaghetti-aglio-olio.jpg",
+ "photo": {
+  "author": "Bairuilong",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_aglio_e_olio_KB.jpg",
+  "modified": "réduite"
+ }
+});
+
 /* Recette : Tajine d'agneau aux pruneaux et aux amandes. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -4461,7 +12957,7 @@ window.RECETTES.push({
      "u": "",
      "name": "oignon moyen",
      "pl": "oignons moyens",
-     "note": "hachés finement, ou râpés",
+     "note": "à hacher finement, ou à râper",
      "canon": "oignon"
     },
     {
@@ -4634,7 +13130,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare oignons, ail et bouquet",
    "text": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Prépare oignons, ail et bouquet » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",
@@ -5178,7 +13682,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Râpe les tomates",
    "text": "Coupe {{tomates:full}} en deux. Râpe-les côté chair sur les gros trous de la râpe, au-dessus d'un saladier. Jette la peau qui te reste dans la main.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/tomate-rapee.jpg",
+    "alt": "Tomate râpée sur une râpe",
+    "caption": "Râper la tomate",
+    "w": 1000,
+    "h": 667,
+    "credit": "Photo de l'étape « Râpe les tomates » : Another Pint Please..., Flickr, licence CC BY-NC-SA 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",
@@ -5451,6 +13963,641 @@ window.RECETTES.push({
  }
 });
 
+/* Recette : Tajine de poisson à la chermoula. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "tajine-poisson",
+ "title": "Tajine de poisson à la chermoula",
+ "darija": "Tajine l'hout bel chermoula",
+ "arabic": "طاجين الحوت بالشرمولة",
+ "tagline": "Du poisson mariné dans une chermoula bien citronnée, cuit doucement sur un lit de carottes, de pommes de terre et de tomates, avec poivrons, olives et citron confit.",
+ "category": "Poisson",
+ "occasion": "Plat à partager, seul ou avec des salades",
+ "region": "Tout le Maroc ; dans le Nord (Tanger, Tétouan), le poisson cuit aussi dans une tagra",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 30,
+  "cook": 35,
+  "rest": 30,
+  "rest_label": "Marinade"
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Grand tajine en terre avec son couvercle, ou sauteuse profonde avec couvercle",
+  "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+  "Mortier et pilon, ou hachoir",
+  "Plat creux avec couvercle ou film, pour la marinade",
+  "Petit bol",
+  "Planche et couteau réservés au poisson cru",
+  "Papier absorbant",
+  "Petite casserole (pour réduire la sauce si besoin)"
+ ],
+ "ingredients": [
+  {
+   "group": "Poisson",
+   "items": [
+    {
+     "id": "poisson",
+     "q": 700,
+     "u": "g",
+     "name": "de poisson à chair ferme (loup, dorade, pageot, maigre ou congre)",
+     "note": "écaillé, vidé et coupé en darnes épaisses ; ou un poisson entier",
+     "canon": "poisson"
+    }
+   ]
+  },
+  {
+   "group": "Chermoula",
+   "items": [
+    {
+     "id": "coriandre",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de coriandre fraîche",
+     "note": "les feuilles pour la chermoula, les tiges pour le fond du tajine",
+     "canon": "coriandre"
+    },
+    {
+     "id": "ail",
+     "q": 3,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à peler",
+     "canon": "ail"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "canon": "sel"
+    },
+    {
+     "id": "paprika",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de paprika doux (piment doux en poudre)",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 1.5,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "piment",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de piment fort en poudre (cayenne), facultatif",
+     "canon": "piment-cayenne"
+    },
+    {
+     "id": "jus-citron",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "de jus de citron frais",
+     "canon": "citron"
+    },
+    {
+     "id": "huile-chermoula",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    }
+   ]
+  },
+  {
+   "group": "Lit de légumes et garniture",
+   "items": [
+    {
+     "id": "huile-fond",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile d'olive, pour le fond",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "celeri",
+     "q": null,
+     "u": "",
+     "name": "branches de céleri ou petites brochettes en bois",
+     "note": "facultatif : seulement si les tiges de coriandre ne suffisent pas à couvrir le fond",
+     "canon": "celeri"
+    },
+    {
+     "id": "carottes",
+     "q": 3,
+     "u": "",
+     "name": "carotte",
+     "pl": "carottes",
+     "note": "à peler et couper en bâtonnets de 0,5 cm",
+     "canon": "carotte"
+    },
+    {
+     "id": "pommes-de-terre",
+     "q": 2,
+     "u": "",
+     "name": "grosse pomme de terre",
+     "pl": "grosses pommes de terre",
+     "note": "environ 200 g pièce ; à peler et couper en rondelles de 0,5 cm",
+     "canon": "pomme-de-terre"
+    },
+    {
+     "id": "tomates",
+     "q": 2,
+     "u": "",
+     "name": "grosse tomate mûre",
+     "pl": "grosses tomates mûres",
+     "note": "à couper en rondelles",
+     "canon": "tomate"
+    },
+    {
+     "id": "poivrons",
+     "q": 2,
+     "u": "",
+     "name": "poivron (vert, rouge ou jaune)",
+     "pl": "poivrons (verts, rouges ou jaunes)",
+     "note": "à épépiner et couper en fines lanières ; un poivron rouge adoucit le plat",
+     "canon": "poivron"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu, selon le goût",
+     "canon": "poivre"
+    },
+    {
+     "id": "piment-vert",
+     "q": 1,
+     "u": "",
+     "name": "piment vert piquant",
+     "pl": "piments verts piquants",
+     "note": "facultatif ; à poser entier",
+     "canon": "piment-vert"
+    },
+    {
+     "id": "citron-rondelles",
+     "q": null,
+     "u": "",
+     "name": "quelques rondelles de citron frais",
+     "canon": "citron"
+    },
+    {
+     "id": "olives",
+     "q": 90,
+     "u": "g",
+     "name": "d'olives vertes ou rouges",
+     "canon": "olives"
+    },
+    {
+     "id": "citron-confit",
+     "q": 0.5,
+     "u": "",
+     "name": "citron confit",
+     "pl": "citrons confits",
+     "note": "à couper en quartiers, sans les pépins",
+     "canon": "citron-confit"
+    },
+    {
+     "id": "eau",
+     "q": 3,
+     "u": "c. à s.",
+     "name": "d'eau",
+     "canon": "eau"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Choisis un poisson bien frais",
+   "text": "Prends {{poisson:full}}. Il doit sentir frais et doux, jamais fort, aigre ou l'ammoniaque. Entier, il a l'œil clair et brillant, les ouïes rouges et une chair ferme qui reprend sa forme quand tu appuies dessus. Demande au poissonnier de l'écailler, de le vider et de le couper en darnes épaisses.",
+   "timer": null,
+   "tip": "Garde-le dans la partie la plus froide du réfrigérateur (4 °C) et cuisine-le dans les 2 jours ; sinon, congèle-le. Surgelé, fais-le décongeler une nuit au réfrigérateur (FDA ; ANSES)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Rince et sèche le poisson",
+   "text": "Rince les darnes à l'eau froide, égoutte-les, puis sèche-les avec du papier absorbant. Lave-toi ensuite les mains au savon pendant 20 secondes, puis la planche, le couteau et le plan de travail à l'eau chaude savonneuse.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pile la chermoula",
+   "text": "Lave et effeuille {{coriandre:full}} : hache finement les feuilles et garde les tiges. Au mortier, pile {{ail:full}} avec {{sel}} de sel, puis ajoute la coriandre hachée et pile encore. Mélange avec {{paprika}} de paprika doux, {{cumin}} de cumin, {{piment}} de piment fort si tu aimes, {{jus-citron}} de jus de citron et {{huile-chermoula}} d'huile d'olive. Si la chermoula est trop épaisse, détends-la avec un peu d'eau.",
+   "timer": null,
+   "tip": "Hache bien la coriandre avant de la piler, sinon la chermoula devient filandreuse. Sans mortier, un hachoir ou un mixeur fait l'affaire."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mets la moitié de la chermoula de côté",
+   "text": "Avant de toucher le poisson, verse la moitié de la chermoula dans un petit bol : elle servira aux légumes. Couvre-la et garde-la au réfrigérateur.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fais mariner le poisson",
+   "text": "Enrobe bien chaque darne avec l'autre moitié de la chermoula. Couvre et laisse mariner au réfrigérateur au moins 30 min, et jusqu'à 2 h si tu as le temps.",
+   "timer": {
+    "min": 30,
+    "label": "Marinade du poisson",
+    "done": "Le poisson a mariné 30 min : tu peux monter le tajine, ou le laisser jusqu'à 2 h au frais."
+   },
+   "tip": "Ne laisse pas le poisson cru mariner hors du réfrigérateur."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe les légumes",
+   "text": "Pendant la marinade, lave les légumes et le citron frais à l'eau potable. Pèle {{carottes:full}}, puis coupe en bâtonnets de 0,5 cm. Pèle {{pommes-de-terre:full}}, puis coupe en rondelles de 0,5 cm, pas plus épaisses. Coupe {{tomates:full}} en rondelles et {{poivrons:full}} en fines lanières, sans les graines. Coupe {{citron-confit:full}} en quartiers, sans les pépins.",
+   "timer": null,
+   "tip": "Des rondelles trop épaisses cuisent trop lentement : le poisson sécherait avant qu'elles soient tendres."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Tapisse le fond du tajine",
+   "text": "Verse {{huile-fond}} d'huile d'olive au fond du tajine. Pose dessus les tiges de coriandre en croisillons ; s'il en manque, complète avec quelques {{celeri}}. Ce lit empêche le reste de toucher le fond, d'attacher et de brûler.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Monte le lit de carottes et de pommes de terre",
+   "text": "Étale les bâtonnets de carottes sur les tiges, puis couvre-les avec les rondelles de pommes de terre. Saupoudre de {{poivre}}, mais ne sale pas : le citron confit et les olives saleront le plat.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les tomates et la chermoula gardée",
+   "text": "Couvre les pommes de terre avec les rondelles de tomates, puis étale dessus la chermoula que tu as mise de côté.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Pose le poisson et la garniture",
+   "text": "Dispose les darnes et leur marinade sur les tomates. Couvre-les de lanières de poivron, puis ajoute {{piment-vert:full}} si tu veux et {{citron-rondelles}}. Répartis {{olives}} d'olives et les quartiers de citron confit tout autour.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute l'eau et mets sur le feu",
+   "text": "Verse {{eau}} d'eau dans le tajine et couvre. Pose-le sur feu moyen-doux et laisse le frémissement venir doucement. Sans gaz, mets toujours un diffuseur sous un tajine en terre.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse cuire à couvert",
+   "text": "Laisse cuire 30 min à couvert, puis vérifie : les pommes de terre doivent être tendres et le poisson doit se détacher facilement à la fourchette. Sinon, poursuis à feu doux et vérifie souvent. Au tajine en terre, c'est plus long : Taste of Maroc compte environ 1 h de frémissement.",
+   "timer": {
+    "min": 30,
+    "label": "Cuisson du tajine",
+    "done": "Pommes de terre tendres et poisson qui se détache à la fourchette ? Sinon, prolonge à feu doux et vérifie souvent."
+   },
+   "tip": "Avec un thermomètre, le cœur du poisson doit atteindre 70 °C (Santé Canada)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajuste la sauce",
+   "text": "La sauce doit être réduite et épaisse. S'il y en a trop, verse-la délicatement dans une petite casserole, fais-la réduire, puis reverse-la sur le poisson. Goûte et ajoute du sel seulement si besoin.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers dans le tajine",
+   "text": "Sers bien chaud ou tiède, directement dans le tajine posé au centre de la table. Chacun mange de son côté, avec du pain marocain.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Range vite les restes",
+   "text": "Ne laisse pas le tajine plus de 2 h à température ambiante, ni plus d'1 h s'il fait plus de 32 °C. Mets les restes dans une boîte fermée au réfrigérateur et mange-les dans les 3 jours. Réchauffe-les à couvert jusqu'à ce que la vapeur s'échappe et que ce soit bien chaud à cœur (74 °C).",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Protège le fond : Choumicha tapisse le tajine de tiges de coriandre ou de brochettes en bois, Bladi pose des branches de coriandre en quadrillage, Lalla Moulati un peu de persil et de légumes, et Taste of Maroc des bâtonnets de céleri ou de petites brochettes. Rien ne touche le fond, rien n'attache.",
+   "source": "Choumicha ; Bladi.net ; Lalla Moulati ; Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Les carottes forment le premier étage du lit, sous les pommes de terre ; chez Cooking with Alia et Lalla Moulati, elles sont posées directement au fond du tajine.",
+   "source": "Taste of Maroc (Christine Benlafquih) ; Cooking with Alia ; Lalla Moulati"
+  },
+  {
+   "text": "Moitié-moitié : une moitié de la chermoula marine le poisson, l'autre parfume les légumes. Mets-la de côté avant de toucher le poisson cru.",
+   "source": "Taste of Maroc (Christine Benlafquih) ; Choumicha ; My Moroccan Food (Nargisse Benkabbou) ; Lalla Moulati"
+  },
+  {
+   "text": "La meilleure chermoula se fait au mortier : pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées et les épices.",
+   "source": "Taste of Maroc (Nada Kiffa) ; Bladi.net"
+  },
+  {
+   "text": "Pour le poisson, on aime une chermoula bien citronnée. Choumicha, elle, met du vinaigre.",
+   "source": "Taste of Maroc (Nada Kiffa) ; Choumicha"
+  },
+  {
+   "text": "Coupe les pommes de terre finement (0,5 cm) : trop épaisses, elles demandent plus de cuisson et le poisson sèche avant qu'elles soient tendres.",
+   "source": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "source": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha"
+  },
+  {
+   "text": "Avec des filets fins ou de petits poissons, fais d'abord cuire les légumes à moitié, puis pose le poisson dessus pour finir la cuisson.",
+   "source": "Taste of Maroc (Christine Benlafquih, réponse à une lectrice) ; My Moroccan Food (version rapide)"
+  },
+  {
+   "text": "Pour une cuisson courte, Choumicha met de petites pommes de terre déjà cuites à l'eau ; Akhbarona les fait légèrement blanchir avant de les mettre sous le poisson.",
+   "source": "Choumicha ; Akhbarona"
+  },
+  {
+   "text": "Le citron confit sale beaucoup : s'il cuit dès le début, ne sale pas les légumes. Taste of Maroc préfère souvent l'ajouter à la fin, quelques minutes, juste le temps de le chauffer.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Trop de sauce à la fin ? Verse-la dans une petite casserole, fais-la réduire, puis remets-la : la sauce doit être épaisse.",
+   "source": "Taste of Maroc (Christine Benlafquih) ; Bladi.net"
+  },
+  {
+   "text": "Au tajine en terre, hors gaz, le diffuseur est obligatoire, et la cuisson est plus longue qu'en sauteuse.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Ne cuis pas trop le poisson : sa chair doit rester juteuse. Adapte le temps à son poids.",
+   "source": "Choumicha"
+  },
+  {
+   "text": "Avec un poisson entier, enduis aussi l'intérieur de chermoula et incise le dos pour qu'elle pénètre.",
+   "source": "Bladi.net ; Choumicha ; Akhbarona"
+  }
+ ],
+ "mistakes": [
+  "Cuisiner un poisson qui sent fort, aigre ou l'ammoniaque : il n'est plus frais, ne le mange pas (FDA).",
+  "Faire mariner le poisson cru hors du réfrigérateur (Taste of Maroc ; Bladi.net ; My Moroccan Food ; MarocMama).",
+  "Toucher le poisson cru avant d'avoir mis de côté la chermoula des légumes (Taste of Maroc).",
+  "Couper les pommes de terre trop épaisses : le poisson sèche avant qu'elles soient cuites (My Moroccan Food).",
+  "Oublier le lit de tiges ou de carottes au fond : les légumes attachent et brûlent (Taste of Maroc ; Choumicha ; Lalla Moulati).",
+  "Saler les légumes alors que le citron confit cuit avec eux (Taste of Maroc).",
+  "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur (Taste of Maroc).",
+  "Trop cuire le poisson : il devient sec (Choumicha).",
+  "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid, ou plus d'1 h s'il fait plus de 32 °C (FDA ; ANSES)."
+ ],
+ "serving": "Bien chaud ou tiède (Bladi.net), directement dans le tajine posé au centre de la table : chacun mange de son côté avec du pain marocain, en plat unique ou avec des salades (Taste of Maroc). Cooking with Alia le sert avec du pain croustillant ; My Moroccan Food sert son tajine de sardines avec du pain ou du couscous.",
+ "variants": [
+  "Nord du Maroc : à Tanger et à Tétouan, beaucoup de plats de poisson cuisent dans une tagra, un plat ovale en terre poreuse non vernissée, fait par des potiers près de l'oued Laou, sur la braise ou au four du boulanger ; elle laisse l'humidité s'évaporer lentement et donne au poisson un goût de terre ; Paula Wolfert y superpose pommes de terre, carottes, tomates, poivron rouge et sardines, met la tagra dans le four, l'allume à 180 °C et cuit 1 h ; à la sortie, elle la pose sur du bois ou un torchon plié pour éviter qu'elle se fende, et laisse reposer 30 min. La plupart des tagras n'ont pas de couvercle : couvre-la de papier aluminium sans serrer (Paula Wolfert ; Taste of Maroc).",
+  "Au four : poisson entier sur un lit de pommes de terre en fines rondelles, tomates, poivrons grillés et piments, environ 40 min à four moyen-chaud en arrosant à mi-cuisson (Bladi.net) ; Choumicha cuit un poisson de 700 g 25 min à 170 °C puis le laisse reposer 15 à 20 min dans le four éteint ; My Moroccan Food cuit ses sardines 30 à 35 min à 200 °C sous papier aluminium.",
+  "Poisson entier farci de chermoula, posé sur des pommes de terre, des carottes et des tomates en rondelles, couvert de poivrons : la version traditionnelle décrite par Nargisse Benkabbou (My Moroccan Food).",
+  "Tajine de poisson safrané : darnes de loup marinées 1 h dans une chermoula au safran, au smen et au poivre blanc, posées sur des branches de coriandre avec olives vertes et citron confit, sans légumes, 20 à 25 min sur le charbon (Bladi.net).",
+  "Pageot aux olives m'slalla : oignons et tomates au fond, laurier, olives vertes m'slalla et écorce de citron confit, chermoula au vinaigre, 45 min au four à 180 °C ou sur le charbon (Choumicha).",
+  "Tajine d'espadon : cubes d'espadon, carottes et chou en julienne, petites pommes de terre déjà cuites, tomates cerises et olives, 20 à 25 min à feu moyen (Choumicha).",
+  "Darnes de congre farinées et dorées, puis mijotées avec oignons, poivron rouge, tomates, thym et laurier (Choumicha).",
+  "Aux oignons et raisins secs : morceaux de congre avec beaucoup d'oignons émincés, raisins secs, safran, gingembre, curcuma et cannelle, 40 min à feu moyen (Cooking with Alia).",
+  "Tajine de boulettes de sardines (kefta) en sauce tomate, fini avec citron confit et olives vertes (Cooking with Alia) ; Taste of Maroc le dit apprécié dans tout le Maroc, surtout sur la côte, où le poisson abonde.",
+  "Lit d'oignons émincés au fond, qui caramélisent pendant la cuisson (Taste of Maroc ; Choumicha pour le pageot).",
+  "Épices en plus : gingembre et curcuma sur les légumes, safran dans la chermoula (Taste of Maroc) ; harissa à la place du piment (Choumicha, Lalla Moulati, My Moroccan Food) ; une feuille de laurier (Cooking with Alia ; Choumicha) ; un peu de concentré de tomate (Cooking with Alia) ou de sauce tomate (Lalla Moulati) dans la chermoula.",
+  "Chermoula au citron confit, cuite 5 min à feu doux avec herbes, ail, piment doux, cumin, vinaigre et huile ; elle se garde une semaine au frais en bocal fermé (Choumicha)."
+ ],
+ "sources": [
+  {
+   "name": "Taste of Maroc – Christine Benlafquih, Classic Moroccan Fish Tagine with Chermoula and Vegetables (mise à jour le 13/01/2021), copie archivée du 15/05/2026",
+   "url": "https://web.archive.org/web/20260515221748/https://tasteofmaroc.com/moroccan-fish-tagine-with-chermoula-and-vegetables/",
+   "used_for": "Recette de référence (6 portions) : poissons utilisés au Maroc, chermoula, moitié réservée aux légumes, marinade au frais, ordre des couches, bâtonnets et rondelles de 0,5 cm, fond protégé (oignons, céleri ou brochettes), eau, feu moyen-doux, diffuseur, environ 1 h de frémissement, sauce épaisse réduite à part, citron confit salé, congre, tagra du Nord, service dans le tajine avec du pain."
+  },
+  {
+   "name": "Taste of Maroc – Nada Kiffa, Chermoula Recipe – Moroccan Marinade of Herbs and Spices (mise à jour le 17/02/2020), copie archivée du 27/08/2026",
+   "url": "https://web.archive.org/web/20260827184612/https://tasteofmaroc.com/moroccan-chermoula-recipe/",
+   "used_for": "Composition de la chermoula, chermoula citronnée pour le poisson, méthode au mortier (ail et sel d'abord, herbes bien hachées), conservation au frais."
+  },
+  {
+   "name": "Taste of Maroc – Christine Benlafquih, Moroccan Sardine Balls Recipe – Fish Meatballs in Tomato Sauce, copie archivée du 11/05/2026",
+   "url": "https://web.archive.org/web/20260511111912/https://tasteofmaroc.com/moroccan-sardine-fish-balls-in-tomato-sauce/",
+   "used_for": "Variante : boulettes de sardines en sauce tomate, appréciées dans tout le Maroc et surtout sur la côte."
+  },
+  {
+   "name": "Choumicha – Tajine d'espadon aux légumes (4 personnes), copie archivée du 11/01/2016",
+   "url": "https://web.archive.org/web/20160111013358/http://www.choumicha.ma:80/recette/539-tajine-d-espadon-aux-legumes.html",
+   "used_for": "Fond tapissé de tiges de coriandre ou de brochettes en bois, moitié de la chermoula pour le poisson et moitié pour les légumes, 500 g de poisson pour 4, pommes de terre déjà cuites, olives, 20 à 25 min à feu moyen."
+  },
+  {
+   "name": "Choumicha – Pageot aux olives vertes M'slalla (4 personnes), copie archivée du 08/07/2015",
+   "url": "https://web.archive.org/web/20150708192513/http://www.choumicha.ma:80/recette/191-pageot-aux-olives-vertes-m-sllala.html",
+   "used_for": "Chermoula de poisson chiffrée (cumin, paprika, ail, herbes, vinaigre, huile) pour 1 kg, marinade d'une demi-heure, oignons au fond, laurier, citron confit et olives dès le départ, four à 180 °C 45 min ou charbon."
+  },
+  {
+   "name": "Choumicha – Poisson au four M'chermel (4 personnes), copie archivée du 11/01/2016",
+   "url": "https://web.archive.org/web/20160111150047/http://www.choumicha.ma:80/recette/405-poisson-au-four-m-chermel.html",
+   "used_for": "Poisson entier de 700 g pour 4, botte de coriandre effeuillée, chermoula à l'intérieur du poisson, pommes de terre cuites, olives, 25 min à 170 °C puis repos, ne pas trop cuire le poisson."
+  },
+  {
+   "name": "Choumicha – Friture de poissons m'chermel (6 personnes), copie archivée du 27/07/2015",
+   "url": "https://web.archive.org/web/20150727015824/http://www.choumicha.ma:80/recette/143-friture-de-poissons-m-chermel.html",
+   "used_for": "Proportions de chermoula pour 1 kg de poisson (persil, coriandre, ail, piment doux, piment fort, cumin, sel, vinaigre)."
+  },
+  {
+   "name": "Choumicha – Chermoula au citron confit, copie archivée du 17/01/2017",
+   "url": "https://web.archive.org/web/20170117031536/http://www.choumicha.ma/recette/1461-chermoula-au-citron-confit.html",
+   "used_for": "Variante de chermoula au citron confit, cuite 5 min, conservation une semaine au frais."
+  },
+  {
+   "name": "Choumicha – Tajine de darnes de congre (4 personnes), copie archivée du 23/01/2013",
+   "url": "https://web.archive.org/web/20130123020920/http://www.choumicha.ma:80/recettes/details/241/tajine-de-darnes-de-congre-.html",
+   "used_for": "Congre en darnes ; variante farinée et dorée puis mijotée aux tomates, poivron, thym et laurier."
+  },
+  {
+   "name": "Bladi.net – Tajine de poisson safrané",
+   "url": "https://www.bladi.net/recettes/tajine-de-poisson-safrane.html",
+   "used_for": "Loup en darnes, marinade d'1 h, branches de coriandre en quadrillage au fond, olives vertes et citron confit dès le départ, 20 à 25 min sur le charbon, service chaud ou tiède."
+  },
+  {
+   "name": "Bladi.net – Tajine de Poissons au four",
+   "url": "https://www.bladi.net/recettes/tajine-de-poissons-au-four.html",
+   "used_for": "Poissons (alose, loup, daurade, pageot), dos incisé, marinade de 2 h, pommes de terre en fines rondelles au fond, poivrons, piments verts, citron, 40 min au four, sauce réduite à part."
+  },
+  {
+   "name": "Bladi.net – Chermoula pour le poisson",
+   "url": "https://www.bladi.net/recettes/chermoula-pour-le-poisson.html",
+   "used_for": "Chermoula pilée au mortier (coriandre, gros sel, ail), piment doux, piment fort, cumin, citron, eau, huile d'olive ; au moins une demi-heure au frais ; cuisson possible en tajine."
+  },
+  {
+   "name": "Cooking with Alia – 439, Fish Tagine With Vegetables / طاجين السمك بالخضر",
+   "url": "https://www.cookingwithalia.com/439-fish-tagine-with-vegetables/",
+   "used_for": "Carottes au fond, tomates, chermoula sur les légumes, poisson dessus, 20 min à feu moyen à couvert puis olives et laurier 10 min (30 min en tout), service avec du pain."
+  },
+  {
+   "name": "Cooking with Alia – 855, Chermoula / الشرمولة",
+   "url": "https://www.cookingwithalia.com/855-chermoula-%d8%a7%d9%84%d8%b4%d8%b1%d9%85%d9%88%d9%84%d8%a9/",
+   "used_for": "Recoupement de la chermoula (coriandre, ail, paprika, cumin, piment, sel, huile d'olive, citron, eau ou eau safranée), conservation 5 jours au frais."
+  },
+  {
+   "name": "Cooking with Alia – 448, Fish Tagine with Onions and Raisins / طاجين سمك بالبصل والزبيب",
+   "url": "https://www.cookingwithalia.com/448-fish-tagine-onions-raisins/",
+   "used_for": "Variante au congre, aux oignons et aux raisins secs, 40 min à feu moyen."
+  },
+  {
+   "name": "Cooking with Alia – 447, Tagine Sardine Kefta / طاجين كفتة السردين",
+   "url": "https://www.cookingwithalia.com/447-tagine-sardine-kefta/",
+   "used_for": "Variante aux boulettes de sardines en sauce tomate, citron confit et olives vertes en fin de cuisson."
+  },
+  {
+   "name": "My Moroccan Food – Nargisse Benkabbou, Chermoula – Moroccan Condiment (20/05/2015)",
+   "url": "https://www.mymoroccanfood.com/home/chermoula-moroccan-marinade",
+   "used_for": "Chermoula (huile d'olive, ail, coriandre, citron, paprika, cumin, sel, cayenne et safran facultatifs) ; persil possible à la place de la coriandre ; 5 jours au frais."
+  },
+  {
+   "name": "My Moroccan Food – Nargisse Benkabbou, Oven Baked Fish with Chermoula and Preserved Lemon – Moroccan Fish Tagine (20/05/2015)",
+   "url": "https://www.mymoroccanfood.com/home/oven-baked-fish-with-chermoula-and-preserved-lemon-moroccan-fish-tagine",
+   "used_for": "Description de la version traditionnelle (poisson entier farci de chermoula sur pommes de terre, carottes et tomates, poivrons dessus), 4 filets de 200 g pour 4, un poivron rouge pour la douceur."
+  },
+  {
+   "name": "My Moroccan Food – Nargisse Benkabbou, Sardine Tagine (17/08/2016)",
+   "url": "https://www.mymoroccanfood.com/home/sardine-tagine-with-charmoula",
+   "used_for": "Moitié de la chermoula pour le poisson, légumes en rondelles, rondelles de pommes de terre fines sinon le poisson sèche, 30 à 35 min à 200 °C, service avec pain ou couscous."
+  },
+  {
+   "name": "My Moroccan Food – Nargisse Benkabbou, Quick Fish Tagine with Chermoula (22/11/2016)",
+   "url": "https://www.mymoroccanfood.com/home/quick-fish-tagine-with-chermoula",
+   "used_for": "Grand poisson entier (dorade) dans la version traditionnelle ; légumes précuits avant des filets fins ; harissa à la place du cayenne."
+  },
+  {
+   "name": "Lalla Moulati – طاجين الحوت (10/11/2014)",
+   "url": "https://www.lalamoulati.net/amp/3512.html",
+   "used_for": "Nom « طاجين الحوت », rondelles de carottes (خيزو) au fond sous le poisson, chermoula au citron et aux huiles, sauce tomate, poivrons et olives."
+  },
+  {
+   "name": "Lalla Moulati – طاجين الحوت سهل ولذيذ بزاف بالصور (29/07/2015 ; même texte le 03/10/2016, article 48650)",
+   "url": "https://www.lalamoulati.net/amp/23772.html",
+   "used_for": "Moitié de la chermoula pour le poisson, persil et légumes au fond pour que rien n'attache, carottes puis pommes de terre, 30 min à feu doux à couvert, olives à la fin."
+  },
+  {
+   "name": "Lalla Moulati – طاجين الحوت بالشرمولة (08/09/2023)",
+   "url": "https://www.lalamoulati.net/amp/350248.html",
+   "used_for": "Nom « طاجين الحوت بالشرمولة », poisson lavé et séché, chermoula chiffrée pour 1 kg (ail, cumin, paprika, sel, poivre), un peu d'eau, version au four 45 min."
+  },
+  {
+   "name": "Akhbarona (أخبارنا المغربية) – سمكة معمرة على الطريقة المغربية (11/09/2019)",
+   "url": "https://www.akhbarona.com/woman/280112.html",
+   "used_for": "« شرمولة الحوت », poisson frotté de chermoula dedans et dehors, pommes de terre en rondelles légèrement blanchies sous le poisson, citron confit et olives rouges."
+  },
+  {
+   "name": "Paula Wolfert, The Food of Morocco (Bloomsbury, 2012) – Tagra of fresh sardines with pepper oil, sur lovefood.com",
+   "url": "https://www.lovefood.com/recipes/59870/tagra-of-fresh-sardines-with-pepper-oil-recipe",
+   "used_for": "Tagra : plat en terre du nord du Maroc, cuisson au four du boulanger ; couches de légumes et de sardines, 1 h à 180 °C, précautions pour ne pas fendre la terre."
+  },
+  {
+   "name": "Paula Wolfert, Mediterranean Clay Pot Cooking – Tangier-Style Fresh Sardines with Charmoula, sur ckbk",
+   "url": "https://app.ckbk.com/recipe/medi76331c03s001r002/tangier-style-fresh-sardines-with-charmoula",
+   "used_for": "Tagra de Tanger et Tétouan : plat ovale en terre poreuse non vernissée, fait près de l'oued Laou, pour cuire le poisson sur la braise ou au four du boulanger ; évaporation lente et goût de terre (introduction seulement, la recette n'est pas visible)."
+  },
+  {
+   "name": "FDA (États-Unis) – Selecting and Serving Fresh and Frozen Seafood Safely (contenu à jour au 05/03/2024)",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+   "used_for": "Signes de fraîcheur, conservation au froid et délai de 2 jours, lavage des mains et des ustensiles, cuisson (chair qui se détache à la fourchette, 145 °F), odeurs à rejeter, pas plus de 2 h hors du réfrigérateur."
+  },
+  {
+   "name": "Santé Canada – Températures sécuritaires de cuisson interne (publiée le 04/06/2024)",
+   "url": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html",
+   "used_for": "Poisson : 70 °C à cœur ; restes réchauffés : 74 °C."
+  },
+  {
+   "name": "ANSES – Comment éviter les toxi-infections alimentaires : les bonnes pratiques (08/04/2020)",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Poisson dans la zone la plus froide du réfrigérateur (4 °C), planche réservée au poisson cru, restes : pas plus de 2 h à température ambiante, boîte fermée, à manger dans les 3 jours, réchauffage couvert jusqu'à la vapeur."
+  },
+  {
+   "name": "MarocMama – Amanda Mouttaki (Marrakech), « Casablanca Fish Tajine », 14/04/2013, mise à jour le 19/06/2020",
+   "url": "https://marocmama.com/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1-fish-tajine-for-sundaysupper/",
+   "used_for": "Contre-vérification : Recette de tajine de poisson de Casablanca pour 4 (1 lb, soit 454 g, de poisson blanc épais) : chermoula au mortier (persil, ail et sel pilés d'abord, puis cumin, paprika et jus de citron, détendue d'un peu d'eau) ; poisson enrobé puis mis au réfrigérateur « 30 minutes - 2 hours » ; carottes rangées au fond, puis poisson, tomates en rondelles et poivron vert ; ¼ de tasse d'eau versée sur les bords ; tajine en terre non vernissé à feu doux, 20 à 30 min puis 20 min, en vérifiant le niveau d'eau ; cuit quand le poisson s'effeuille, que la sauce est épaisse et que les légumes sont tendres ; une cocotte à fond épais convient, avec un peu plus de liquide ; servi avec du pain et des salades marocaines."
+  },
+  {
+   "name": "Femmes du Maroc – « Tajine de lotte à la chermoula », recette du chef Hachem Oulhous (Selman Marrakech), 08/05/2020",
+   "url": "https://femmesdumaroc.com/archives/tajine-de-lotte-a-la-chermoula",
+   "used_for": "Contre-vérification : Chermoula très citronnée pour le poisson (jus de 3 citrons pour 800 g de lotte, avec persil, ail, cumin, gingembre, curcuma, huile d'olive et un peu d'eau) ; poisson mariné « quelques heures » ; si le poisson est cuit avant que la sauce ait réduit, on fait réduire la sauce à part."
+  },
+  {
+   "name": "Femmes du Maroc – « Tajine de loup bar et gambas », recette du chef Marwan (Dar El Kaid, Casablanca), 06/03/2026",
+   "url": "https://femmesdumaroc.com/plaisirs/food-drink/tajine-de-loup-bar-et-gambas",
+   "used_for": "Contre-vérification : Le loup se cuisine en tajine au Maroc ; chermoula citronnée (3 citrons pour 600 g de loup, coriandre, persil, cumin, ail, un demi-verre d'eau) ; cuisson à couvert à feu doux."
+  },
+  {
+   "name": "Lalla Moulati – « هاكيفاش تحضري طاجين الحوت بطريقة ناجحة » (09/11/2023)",
+   "url": "https://www.lalamoulati.net/amp/387122.html",
+   "used_for": "Contre-vérification : Moitié de la chermoula (herbes, ail, citron, paprika, cumin) étalée sur le poisson ; morceaux de carotte rangés au fond du tajine, puis tomates en rondelles et poivrons, poisson dessus ; cuisson à feu doux ; servi chaud, décoré d'olives vertes et de rondelles de citron."
+  },
+  {
+   "name": "Bladi.net – « Poisson au four » (22/09/2005)",
+   "url": "https://www.bladi.net/recettes/poisson-au-four.html",
+   "used_for": "Contre-vérification : Le poisson (des darnes de saumon) est enduit de la moitié de la chermoula (persil, ail, cumin, paprika, jus de citron, huile d'olive) ; pommes de terre et carottes précuites 10 min à l'eau salée puis posées en rondelles sous le poisson ; le reste de chermoula, délayé dans de l'eau, arrose le plat."
+  },
+  {
+   "name": "Choumicha – « Chorba bel hout », copie archivée du 20/08/2017",
+   "url": "https://web.archive.org/web/20170820233602/http://www.choumicha.ma/recette/157-chorba-bel-hout.html",
+   "used_for": "Contre-vérification : Graphie marocaine en lettres latines du mot « hout » (الحوت, le poisson) et de « bel » (بال) dans un titre de recette, avec les mots-clés « Poisson, Hout, bel »."
+  }
+ ],
+ "discrepancies": [
+  "Méthode : quand les sources divergent, une valeur par autrice ou auteur (médiane de ses recettes), puis la médiane de ces valeurs ; calculs refaits avec python3.",
+  "Poisson : 165 g par personne (Taste of Maroc, 35 oz ≈ 992 g pour 6), 171 g (médiane des quatre recettes de Choumicha, de 125 à 250 g), 225 g (My Moroccan Food). Médiane 171 g, soit 683 g pour 4 : retenu 700 g.",
+  "Quantités de chermoula, rapportées à 1 kg de poisson puis à 700 g : ail, médiane 3,5 gousses, arrondie à 3 (Taste of Maroc et Choumicha donnent 2,8) ; cumin 1,57 → 1½ c. à c. ; paprika 1,41 → 1½ c. à c. ; piment fort 0,19 → ¼ c. à c., facultatif ; sel 1,05 → 1 c. à c. ; jus de citron ou vinaigre 2,8 → 3 c. à s. ; huile d'olive en tout 4,7 → 5 c. à s. : 3 dans la chermoula et 2 au fond du tajine, comme Taste of Maroc et Lalla Moulati (article 3512) sur le feu ; au four, Choumicha et Bladi versent cette huile sur le dessus. Eau versée dans le tajine : 3 c. à s. (contre-vérification : médiane 3,3 c. à s. pour 700 g ; Taste of Maroc verse ¼ à ½ tasse pour 992 g, soit 2,8 à 5,6 c. à s.).",
+  "Herbes : de 2 à 6 c. à s. pour 1 kg chez Choumicha (tajines), Cooking with Alia et Lalla Moulati, contre une à deux bottes chez Taste of Maroc, My Moroccan Food, Bladi et Choumicha (friture, poisson au four). Médiane 0,78 botte par kg (une grosse botte = 2 tasses, soit 32 c. à s., selon Taste of Maroc), d'où ½ botte pour 700 g. Coriandre seule chez Taste of Maroc, Bladi et My Moroccan Food ; coriandre et persil chez Choumicha, Cooking with Alia et Lalla Moulati : retenu la coriandre.",
+  "Acide : citron chez Taste of Maroc, Bladi, Cooking with Alia, My Moroccan Food et Lalla Moulati ; vinaigre chez Choumicha. Retenu le citron (majorité).",
+  "Marinade : 10 min (Cooking with Alia), 30 min (Choumicha ; « au moins » chez Bladi), 1 h (Bladi, tajine safrané), 2 h (Bladi, au four) et « au moins 2 h ou une nuit » (Taste of Maroc). Médiane 45 min, durée qu'aucune source ne donne : retenu « au moins 30 min, jusqu'à 2 h », deux bornes données chacune par deux sources ; le minuteur sonne à 30 min.",
+  "Fond du tajine : oignons (Taste of Maroc ; Choumicha pour le pageot), tiges de coriandre ou brochettes (Choumicha), branches de coriandre (Bladi), céleri ou brochettes (Taste of Maroc), persil et légumes (Lalla Moulati), carottes (Cooking with Alia ; Lalla Moulati). Retenu : tiges de coriandre, puis carottes ; les oignons passent en variante.",
+  "Pommes de terre crues en rondelles (Taste of Maroc, Cooking with Alia, Lalla Moulati, My Moroccan Food, Bladi) ou déjà cuites (Choumicha ; légèrement blanchies chez Akhbarona). Retenu : crues, en rondelles de 0,5 cm (majorité) ; la précuisson est donnée en astuce.",
+  "Légumes pour 4 (médianes par source) : pommes de terre 2,47 → 2 grosses (environ 400 g, comme My Moroccan Food) ; carottes 3,15 → 3 ; tomates 2,5 → 2 grosses (comme Choumicha) ; poivrons 2,1 → 2 ; citron confit 0,58 → ½ ; olives 92 g → 90 g (Choumicha 50 à 100 g, Bladi 150 g pour 850 g de loup).",
+  "Moment du citron confit : dès le départ (Choumicha, Bladi, My Moroccan Food) ou à la fin (Taste of Maroc). Retenu dès le départ (majorité), sans saler les légumes, comme Taste of Maroc le demande dans ce cas.",
+  "Moment des olives : dès le départ (Taste of Maroc, Choumicha, Bladi) ou dans les dernières minutes (Cooking with Alia, Lalla Moulati). Retenu dès le départ. Couleur : vertes (Choumicha, Bladi, Cooking with Alia), rouges ou vertes (Taste of Maroc), rouges (Akhbarona) : « vertes ou rouges ».",
+  "Cuisson sur le feu avec légumes crus : 30 min à feu moyen (Cooking with Alia), 30 min à feu doux puis quelques minutes (Lalla Moulati), environ 1 h de frémissement à feu moyen-doux après une montée lente au tajine en terre (Taste of Maroc, 1 h 30 sur sa fiche). Médiane 35 min (temps de cuisson affiché) ; minuteur à 30 min puis vérification, avec la durée de Taste of Maroc pour le tajine en terre. Choumicha et Bladi (20 à 25 min) n'ont pas de pommes de terre crues.",
+  "Feu : moyen-doux à moyen (Taste of Maroc), moyen (Cooking with Alia, Choumicha), doux (Lalla Moulati) : retenu moyen-doux.",
+  "Épices facultatives non retenues dans la recette de base, car absentes de la majorité des sources : gingembre (Taste of Maroc, Cooking with Alia, Lalla Moulati), curcuma (Taste of Maroc), safran (Taste of Maroc et My Moroccan Food en option, Lalla Moulati, Bladi), concentré ou sauce tomate (Cooking with Alia, Lalla Moulati), harissa (Choumicha, Lalla Moulati, My Moroccan Food), laurier (Cooking with Alia, Choumicha). Elles sont en variantes.",
+  "Température à cœur du poisson : 145 °F, soit 62,8 °C (FDA), contre 70 °C (Santé Canada). Retenu 70 °C, la valeur la plus prudente, d'une source officielle en français.",
+  "Restes : à manger dans les 3 jours (ANSES) ; Santé Canada donne 2 à 4 jours, mais pour la volaille. Retenu 3 jours (ANSES). Réchauffage : jusqu'à la vapeur (ANSES) et 74 °C (Santé Canada).",
+  "Préparation : 30 min (Taste of Maroc) et 15 à 35 min selon les recettes de Choumicha (médiane 25 min). Retenu 30 min.",
+  "Conversions faites avec python3 : 35 oz = 992 g ; ⅓ tasse = 79 ml ≈ 5,3 c. à s. ; ¼ à ½ tasse = 59 à 118 ml ; ¼ de pouce = 0,64 cm, que Taste of Maroc écrit lui-même 0,5 cm ; 145 °F = 62,8 °C ; 40 °F = 4,4 °C ; 165 °F = 73,9 °C ; 158 °F = 70 °C.",
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 8 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Variante propre à la côte atlantique (Safi, Essaouira, El Jadida, Agadir) : aucune des sources lues ne la décrit. Seul Taste of Maroc dit que les boulettes de sardines sont surtout appréciées sur la côte.",
+  "Tanger et Tétouan pour la tagra : une seule autrice les cite (Paula Wolfert, Mediterranean Clay Pot Cooking) ; Taste of Maroc parle seulement du nord du Maroc.",
+  "Choumicha, vidéo « طاجين سمك الذئب مع شرمولة الفول والقوق » (tajine de loup à la chermoula, aux fèves et aux artichauts) : seule la page vidéo archivée, avec le titre, a été trouvée ; la recette n'a pas pu être lue.",
+  "Bladi.net, « Tajine de lotte aux oignons et raisins secs » : titre vu dans les recettes similaires, recette non lue.",
+  "Noonpresse, « طاجين الحوت والخضر » : la page ne s'affiche qu'avec JavaScript (redirection), non lue.",
+  "FSIS (USDA) et foodsafety.gov : accès refusé (erreur 403), non consultés et non contournés ; remplacés par la FDA, Santé Canada et l'ANSES.",
+  "Santé Canada (canada.ca) ne répondait pas à la lecture directe : la page a été lue deux fois avec l'outil de lecture web, avec les mêmes valeurs (poisson 70 °C, restes 74 °C).",
+  "Durée exacte au tajine en terre avec des rondelles de 0,5 cm : une seule source la donne (Taste of Maroc, environ 1 h de frémissement) ; elle dépend du feu et du tajine.",
+  "Poids d'une « botte » de coriandre : variable ; environ 120 g selon Cooking with Alia, et une grosse botte donne environ 2 tasses hachées selon Taste of Maroc.",
+  "« Tajine l'hout bel chermoula » : simple transcription en lettres latines du titre arabe de Lalla Moulati (طاجين الحوت بالشرمولة) ; aucune source ne donne cette graphie.",
+  "Le quota de recherches web a été épuisé pendant la mission. Avant cela, les recherches sur Femmes du Maroc, Le360, Hespress, Chhiwat et Morocco World News n'avaient trouvé aucune recette de tajine de poisson ; ces sites n'ont pas pu être fouillés davantage.",
+  "Choumicha (choumicha.ma) est hors ligne et tasteofmaroc.com refuse les robots : leurs pages ont été lues sur des copies archivées (Wayback Machine, 2013 à 2026) ; leur contenu actuel n'a pas pu être revérifié.",
+  "Paula Wolfert : livres originaux non consultés ; seuls la recette publiée sur lovefood.com et l'extrait de ckbk ont été lus.",
+  "Le texte des articles 23772 et 48650 de Lalla Moulati est identique, comme celui des articles 350248 et 204530 : ils comptent pour une seule source."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Poissons",
+ "rayons": [
+  "Poissons",
+  "Tajines"
+ ],
+ "pairs": [
+  "khobz",
+  "zaalouk"
+ ],
+ "img_alt": "Tajine de poisson aux pommes de terre et aux olives vertes, en sauce tomate",
+ "img": "img/tajine-poisson.jpg",
+ "photo": {
+  "author": "Girl Interrupted Eating",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "page": "https://www.flickr.com/photos/35468144810@N01/8054109056",
+  "modified": "non modifiée"
+ }
+});
+
 /* Recette : Tajine de poulet aux citrons confits et aux olives. Sources et vérification dans le champ sources / discrepancies. */
 window.RECETTES = window.RECETTES || [];
 window.RECETTES.push({
@@ -5488,7 +14635,7 @@ window.RECETTES.push({
      "q": 1,
      "u": "",
      "name": "poulet halal, fermier (beldi) de préférence",
-     "note": "environ 1,5 kg, coupé en 4 à 6 morceaux",
+     "note": "environ 1,5 kg pièce, à couper en 4 à 6 morceaux",
      "pl": "poulets halal, fermiers (beldi) de préférence",
      "canon": "poulet"
     },
@@ -5577,7 +14724,7 @@ window.RECETTES.push({
      "q": 3,
      "u": "",
      "name": "oignon moyen (jaune, blanc ou rouge)",
-     "note": "hachés finement",
+     "note": "à hacher finement",
      "pl": "oignons moyens (jaunes, blancs ou rouges)",
      "canon": "oignon"
     },
@@ -5663,6 +14810,14 @@ window.RECETTES.push({
     "min": 10,
     "label": "Olives en boîte à blanchir",
     "done": "Égoutte les olives et mets-les de côté."
+   },
+   "img": {
+    "src": "img/etapes/oignon-emince.jpg",
+    "alt": "Oignon émincé et ail écrasé sur une planche",
+    "caption": "Émincer l'oignon",
+    "w": 1000,
+    "h": 750,
+    "credit": "Photo de l'étape « Prépare oignons, citron confit et olives » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
    }
   },
   {
@@ -6109,7 +15264,15 @@ window.RECETTES.push({
    "phase": "Service",
    "title": "Sers de haut pour la mousse",
    "text": "Verse le thé dans les petits verres en levant haut la théière, d'un geste régulier : plus tu verses de haut, plus il mousse. Cette mousse doit occuper environ un quart du verre. Sers très chaud.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/the-verser.jpg",
+    "alt": "Homme qui verse le thé de haut dans les verres",
+    "caption": "Verser de haut",
+    "w": 562,
+    "h": 1000,
+    "credit": "Photo de l'étape « Sers de haut pour la mousse » : Metalldinger0th, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
   }
  ],
  "secrets": [
@@ -6473,7 +15636,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare tomates, ail et herbes",
    "text": "Pèle {{tomates}} de tomates (un éplucheur à dents aide), épépine-les et coupe-les en tout petits dés. Plus simple : coupe-les en deux, râpe la chair et jette la peau. Pèle et écrase {{ail:full}} au presse-ail ou au pilon. Lave et hache finement la coriandre et le persil, et garde-en un peu pour servir.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Prépare tomates, ail et herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",

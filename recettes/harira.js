@@ -255,7 +255,15 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Râpe, hache et coupe",
    "text": "Râpe {{oignon:full}}. Hache très finement {{celeri:full}}, le persil ({{persil}}) et la coriandre ({{coriandre}}) en retirant les grosses tiges, et mets de côté un peu de coriandre hachée ({{coriandre-fin}}) pour la fin. Coupe la viande ({{viande}}) en dés d'environ 1 cm.",
-   "timer": null
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Râpe, hache et coupe » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
   },
   {
    "phase": "Cuisson",

@@ -1,0 +1,89 @@
+{
+ "slug": "salade-pois-chiches-thon",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "NHS (Royaume-Uni), « Fish and shellfish », page revue le 26 juin 2026",
+   "url": "https://www.nhs.uk/live-well/eat-well/food-types/fish-and-shellfish-nutrition/",
+   "ce_qu_elle_confirme": "Pour une femme enceinte ou qui essaie de l'être : pas plus de 4 boîtes de thon ou 2 steaks de thon par semaine, car le thon contient plus de mercure que les autres poissons ; ces chiffres valent pour une boîte moyenne d'environ 140 g égouttés ; aucune limite pendant l'allaitement."
+  },
+  {
+   "name": "Lalla Moulati (site marocain), « سلطة الحمص », recette publiée le 9 décembre 2015",
+   "url": "https://www.lalamoulati.net/29747.html",
+   "ce_qu_elle_confirme": "Le nom arabe « سلطة الحمص » (salade de pois chiches) est employé par un site marocain ; seul le nom a été vérifié, pas la recette."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[3].text",
+   "actuel": "Verse les pois chiches de la boîte dans une passoire.",
+   "propose": "Verse les pois chiches en conserve dans une passoire.",
+   "pourquoi": "La quantité demandée est un poids égoutté (400 g pour 4, 800 g pour 8 dans l'appli), qui ne correspond pas forcément à une seule boîte ; « de la boîte » laisse croire qu'une boîte suffit. La tournure neutre reste juste pour 1, 4 ou 8 personnes. Le nombre de boîtes à acheter n'a pas été vérifié (voir « non vérifiable »).",
+   "gravite": "mineure",
+   "sources": "Cohérence interne : ingrédient « poids égoutté » et rendu de l'appli simulé pour 1, 4 et 8 personnes ; mamma Nenè (« 250 g Ceci precotti (Peso sgocciolato) »)"
+  },
+  {
+   "champ": "mistakes[0]",
+   "actuel": "vide-la dans un récipient, couvre et mets-le au frigo",
+   "propose": "vide-la dans un bol ou un autre récipient et mets-le au frigo, car l'étain de la boîte ouverte peut passer plus vite dans l'aliment",
+   "pourquoi": "La FSA ne dit pas de couvrir : elle dit de ne pas garder un aliment dans une boîte de conserve ouverte, de vider le contenu dans un bol ou un autre récipient et de le mettre au frigo, parce qu'une fois la boîte ouverte l'étain peut passer plus vite dans l'aliment. Comme demandé, seul ce que dit la source officielle est gardé.",
+   "gravite": "mineure",
+   "sources": "Food Standards Agency, « Home food fact checker », question « Is it safe to leave food in opened cans? » (mise à jour le 21 août 2026)"
+  },
+  {
+   "champ": "mistakes[1]",
+   "actuel": "Utiliser une boîte bombée, ou très cabossée : l'aliment peut ne plus être sûr",
+   "propose": "Utiliser une boîte visiblement bombée, profondément cabossée, ou rouillée à cause d'une bosse : n'en mange pas le contenu ; une petite bosse peu profonde, sans autre dégât, ne pose pas de problème",
+   "pourquoi": "La FSA est plus précise et plus nette que le texte : une bosse peu profonde sans autre signe de dégât ne pose pas de problème ; une bosse profonde (fente, trou ou joint abîmé possibles) ou une bosse qui a fait rouiller la boîte : le contenu ne doit pas être mangé ; une boîte visiblement bombée : éviter d'en manger le contenu. « Très cabossée » et « peut ne plus être sûr » ne reprennent pas cette distinction.",
+   "gravite": "mineure",
+   "sources": "Food Standards Agency, « Home food fact checker », question « Is food safe if the can has a dent in it? »"
+  },
+  {
+   "champ": "mistakes[5]",
+   "actuel": "dépasser 4 boîtes de thon par semaine, à cause du mercure",
+   "propose": "dépasser 4 boîtes moyennes de thon par semaine (environ 140 g égouttés chacune), à cause de polluants comme le mercure",
+   "pourquoi": "La page NHS citée dit « pas plus de 4 boîtes ou 2 steaks de thon par semaine » et donne pour raison les polluants, dont le mercure (« pollutants, including mercury »), pas le mercure seul. La page NHS « Fish and shellfish » précise que ces 4 boîtes sont des boîtes moyennes d'environ 140 g égouttés, soit 560 g par semaine (une part de cette salade en contient 40 g). Rien d'autre n'est ajouté.",
+   "gravite": "mineure",
+   "sources": "NHS, « Foods to avoid in pregnancy », section poisson (revue le 15 juin 2026) ; NHS, « Fish and shellfish » (revue le 26 juin 2026)"
+  },
+  {
+   "champ": "variants[9]",
+   "actuel": "(Donna Moderna ; Cookist pour le saumon fumé).",
+   "propose": "(Donna Moderna ; Cookist pour le saumon fumé). Si tu es enceinte, le NHS demande de cuire le saumon fumé jusqu'à ce qu'il soit fumant, à cause de la listeria, et de ne pas dépasser 2 portions par semaine de poisson gras comme le maquereau.",
+   "pourquoi": "La recette met en garde les femmes enceintes pour le thon, mais pas pour ces deux poissons de remplacement. Sur la même page, le NHS range le saumon fumé (poisson fumé à froid) parmi les aliments à cuire jusqu'à ce qu'ils soient fumants, à cause du risque de listeria, et limite les poissons gras (saumon, truite, maquereau, sardine, hareng) à 2 portions par semaine pendant la grossesse. Dans une salade froide, le saumon fumé est mangé cru.",
+   "gravite": "majeure",
+   "sources": "NHS, « Foods to avoid in pregnancy », sections « Foods to limit » et « Foods to be careful with » (revue le 15 juin 2026)"
+  },
+  {
+   "champ": "discrepancies[9]",
+   "actuel": "2 jours (Donna Moderna). Retenu : jusqu'au lendemain.",
+   "propose": "2 jours (Donna Moderna, Le dolcezze di mamma Nenè, Rita amor di cucina, Forno e fornelli), 2 à 3 jours (Cucina facile con Elena). Retenu : jusqu'au lendemain, le plus prudent.",
+   "pourquoi": "Quatre autres sources lues par l'auteur donnent une durée plus longue : 2 jours chez mamma Nenè (« si conserva per 2 giorni »), Rita amor di cucina (« fino a 2 giorni ») et Forno e fornelli (« per 2 giorni al massimo »), 2 à 3 jours chez Elena. Le choix d'un jour reste le plus prudent, mais la liste des divergences doit être complète.",
+   "gravite": "mineure",
+   "sources": "Le dolcezze di mamma Nenè ; Rita amor di cucina ; Forno e fornelli ; Cucina facile con Elena (pages lues le 7 novembre 2026)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Proportions recalculées avec python3 -I : pois chiches pour 4 (9 recettes) 250, 250, 300, 350, 400, 460, 500, 500, 600 g, médiane 400 g, et 375 g sans Forno e fornelli ; thon pour 4 (10 recettes) de 100 à 400 g, médiane 155 g, arrondie à 160 g (160 aussi si l'on ajoute Donna Moderna, qui ne dit pas pour combien de personnes) ; tomates cerises 200, 200, 250 g, médiane 200 g ; huile 1,48, 1,48, 3, 4,44, 4,5, 5,93 c. à s., médiane 3,72 (USDA : 13,5 g la c. à s.) ; citron 1, 1, ½, 1, médiane 1 ; petit oignon 70 g (USDA) : Il Cucchiaio d'Argento, Cookist, Agrodolce, Chez Bibia, La cucina di Loredana, mamma Nenè, Rita amor di cucina, Forno e fornelli, Cotto in un click, Cucina facile con Elena, Misya, USDA.",
+  "Poids égouttés : seuls mamma Nenè (pois chiches et thon « sgocciolato »), Rita amor di cucina (thon « pesato da scolato ») et Elena (thon « sgocciolato ») le disent ; Cotto in un click précise aussi « ceci in scatola (sgocciolati) ».",
+  "Sécurité de la boîte ouverte et des boîtes abîmées : texte de la FSA lu le 7 novembre 2026 (« Is it safe to leave food in opened cans? » et « Is food safe if the can has a dent in it? ») ; corrections ci-dessus pour coller au texte officiel.",
+  "Recommandation du NHS : « tuna – you should not eat more than 4 cans or 2 tuna steaks a week », à cause des polluants dont le mercure (page « Foods to avoid in pregnancy », revue le 15 juin 2026), confirmée par la page « Fish and shellfish » (boîte moyenne d'environ 140 g égouttés).",
+  "Gestes : pois chiches rincés à l'eau froide et bien égouttés (Cookist, Chez Bibia ; Donna Moderna rince à l'eau chaude), pour enlever le sel et le liquide de la boîte (Cookist, Silvia Ferrau) ; tomates coupées en deux ou en quatre selon leur taille (Il Cucchiaio d'Argento) ; thon émietté grossièrement à la fourchette (Chez Bibia, Cotto in un click) ; oignon trempé une dizaine de minutes dans de l'eau acidulée (Il Cucchiaio d'Argento, salade aux haricots, dont le seul acide est le jus d'½ citron) ou 5 minutes dans du vinaigre de cidre et du sel, qui le rend doux, rose et croquant et évite la lourdeur de l'oignon cru (Cotto in un click).",
+  "Secrets relus : thon à l'huile mélangé avant l'assaisonnement, thon au naturel ajouté après (Il Cucchiaio d'Argento) ; filets de bonne qualité et thon en bocal de verre (Il Cucchiaio d'Argento, Cookist) ; tomates épépinées (La cucina di Loredana) ; meilleure après 30 minutes au frigo, « perché i sapori si amalgamano » (mamma Nenè ; aussi 1 heure chez Forno e fornelli), « ancora più fresca » (Cotto in un click), au moins une demi-heure au frigo (Misya, salade aux haricots) ; sortie 5 minutes avant de servir et « un generoso filo » d'huile (Donna Moderna) ; céleri ou fenouil (Donna Moderna), concombre (mamma Nenè) ; cébette, échalote ou ciboulette à la place de l'oignon (mamma Nenè) ; origan et basilic (Cucchiaio, Cookist, Donna Moderna, Chez Bibia, Loredana, mamma Nenè).",
+  "Variantes relues : Cucchiaio (pois chiches, tomates, thon, origan frais, huile, sel, poivre) ; Cookist (origan séché, basilic, thon à l'huile) ; Donna Moderna (citron, céleri, 2 heures au frigo, croûtons) ; Agrodolce (300 g de pois chiches, 200 g de thon, maïs, olives de Gaeta, noix, tomates séchées, ciboulette) ; Loredana (concombre, olives noires, basilic) ; Elena (œufs durs cuits environ 10 minutes, roquette) et Rita (œuf dur, roquette) ; vinaigre de cidre (Chez Bibia, Cotto in un click) ; haricots blancs avec cébette, persil et citron (Cucchiaio ; Misya) ; maquereau ou saumon fumé (Donna Moderna, Cookist).",
+  "Occasion et région : repas rapide quand on n'a pas envie de cuisiner (Il Cucchiaio d'Argento), sans allumer le feu et à emporter au bureau ou en balade (mamma Nenè ; Donna Moderna, « in spiaggia o per la pausa pranzo light in ufficio ») ; oignon rouge de Tropea (Cotto in un click, Loredana, mamma Nenè, Rita, Misya) ; salade d'été (Cotto in un click, Loredana, mamma Nenè, Agrodolce, Forno e fornelli) ; servie en plat unique ou en entrée (Cookist la classe dans « Antipasti » et « Piatti Unici »).",
+  "Cohérence interne : 15 minutes de préparation, sans cuisson ni minuteur, comme l'accroche (« un quart d'heure ») et les sources (10 à 15 minutes) ; l'oignon trempe pendant qu'on prépare le reste ; chaque ingrédient est cité dans les étapes avec la quantité de la liste.",
+  "Halal : poisson seulement, ni porc, ni alcool, ni fromage.",
+  "Dates et auteurs relus sur chaque page : Cucchiaio 7 juin 2024 et 7 août 2023 ; Cookist 4 août 2025 (Elpidio) et 19 juin 2024 (Silvia Ferrau) ; Donna Moderna 3 novembre 2020 ; Agrodolce 31 mai 2017 ; Misya 19 juillet 2012 (mise à jour le 5 mai 2022) et 17 mai 2017 (mise à jour le 30 septembre 2018) ; Cotto in un click 17 juillet 2026 ; Chez Bibia 25 mai 2018 ; Loredana 7 juillet 2021 ; mamma Nenè 11 mai 2026 ; Rita 30 juin 2026 ; Forno e fornelli 9 juillet 2020 ; Elena 17 mai 2019 (mise à jour le 29 juin 2023).",
+  "Liens : les 17 liens de pages répondent le 7 novembre 2026 (code 200), copies web.archive.org de Donna Moderna et d'Agrodolce comprises ; le lien de l'API USDA (DEMO_KEY) a répondu 429 depuis cette machine. Les poids de l'USDA (huile d'olive 13,5 g la c. à s. ; petit oignon 70 g) ont été relus sur le site FoodData Central (portal-data/external/171413 et 170000), l'API avec DEMO_KEY ayant atteint sa limite de requêtes depuis cette machine.",
+  "Rendu dans l'appli, simulé avec le code de app.html : pour 1 personne « 100 g de pois chiches », « 40 g de thon », « 50 g de tomates cerises », « ¼ petit oignon rouge », « ¼ citron », « 1 c. à s. d'huile d'olive » ; pour 4, les quantités de la liste ; pour 8, « 800 g », « 320 g », « 400 g », « 2 petits oignons rouges », « 2 citrons », « 8 c. à s. » ; les ingrédients sans quantité s'affichent par leur nom (« couvre d'eau froide », « du sel », « du poivre noir », « parsème d'origan séché », « feuilles de basilic frais déchirées »).",
+  "Noms : « سلطة الحمص » est employé par un site marocain (Lalla Moulati) ; « بالتونة » (au thon) est correct."
+ ],
+ "non_verifiable": [
+  "Nombre de boîtes de pois chiches et de thon à acheter : le poids égoutté d'une boîte n'est donné par aucune source lue.",
+  "Nom en darija « Chlada d l-hommos b t-ton » : traduction descriptive, aucun usage établi trouvé.",
+  "Quota de recherche web épuisé : La Cucina Italiana, Fatto in casa da Benedetta et une éventuelle recette éditoriale de GialloZafferano n'ont pas pu être cherchés ; aucune source institutionnelle italienne n'a été trouvée sur le caractère « classique » de la salade.",
+  "Donna Moderna ne dit pas pour combien de personnes sont ses 400 g de pois chiches et 200 g de thon : elle reste hors des médianes.",
+  "Disponibilité du basilic frais et de l'oignon rouge au Maroc : non vérifiée."
+ ]
+}
