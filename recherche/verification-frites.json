@@ -1,0 +1,277 @@
+{
+ "slug": "frites",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "DODa (Darija Open Dataset), lexique « food » : base ouverte et collaborative de la darija marocaine, saisies humaines (lu le 7 novembre 2026)",
+   "url": "https://github.com/darija-open-dataset/dataset/blob/main/semantic%20categories/food.csv",
+   "ce_qu_elle_confirme": "« bTaTa frit » (بطاطا فريت) = french fries ; « btata » (بطاطا) = pomme de terre ; « m9li » (مقلي) = frit."
+  },
+  {
+   "name": "DODa (Darija Open Dataset), phrases traduites et relues (sentences.csv)",
+   "url": "https://github.com/darija-open-dataset/dataset/blob/main/sentences/sentences.csv",
+   "ce_qu_elle_confirme": "Quatre phrases relues traduisent « french fries » ou « fries » par « btata ma9lia » (بطاطا مقلية) ou une variante (« bTaTa ma9liya », « lbTaTa lma9liya », « baTaTa ma9liya »), et une phrase par « bTaTa frit » (بطاطا فريت) : le nom darija « btata mqliya » est attesté."
+  },
+  {
+   "name": "Wiktionnaire anglais (Wiktionary), « French fries », traductions (lu le 7 novembre 2026)",
+   "url": "https://en.wiktionary.org/wiki/French_fries",
+   "ce_qu_elle_confirme": "Arabe : « بَطَاطَا مَقْلِيَّة » (baṭāṭā maqliyya) ; arabe marocain : « فريت » (frīt)."
+  },
+  {
+   "name": "Navefri-Unafri, « Semaine de la Frite en Wallonie » (page en français, sans date)",
+   "url": "https://www.navefri-unafri.be/fr/semaine-de-la-frite/semaine-de-la-frite-en-wallonie",
+   "ce_qu_elle_confirme": "Citation exacte de Bernard Lefèvre, président de l'Unafri : « une bonne frite doit successivement nager, chanter et, enfin, sauter » ; première Semaine de la Frite du 30 novembre au 6 décembre 2009 ; 6e édition (2016) organisée en même temps que celle de la Région flamande."
+  },
+  {
+   "name": "Navefri-Unafri, « Frietjes met ... » (page en néerlandais, sans date)",
+   "url": "https://www.navefri-unafri.be/nl/de-frietkotcultuur/frietjes-met-",
+   "ce_qu_elle_confirme": "Après la Seconde Guerre mondiale, presque chaque friterie servait les frites avec de la mayonnaise ou des pickles ; frites servies en cornet (puntzak) ou en barquette (bakje)."
+  },
+  {
+   "name": "Apaq-W, « Semaine de la Frite 2024 » (et pages 2021, 2022, 2023, 2025 du même site)",
+   "url": "https://www.apaqw.be/fr/actualites/semaine-de-la-frite-2024",
+   "ce_qu_elle_confirme": "Du 8 au 15 novembre 2024, la frite est fêtée « en Wallonie, mais aussi en Flandre ». Autres éditions : du 29 novembre au 5 décembre 2021 ; 10e édition du 7 au 13 novembre 2022 ; 11e du 6 au 12 novembre 2023 ; du 7 au 14 novembre 2025 ; 14e du 6 au 13 novembre 2026."
+  },
+  {
+   "name": "Copie web.archive.org du 8 mars 2022 de la page « Acrylamide » de la FSA (food.gov.uk)",
+   "url": "https://web.archive.org/web/20220308184956/https://www.food.gov.uk/safety-hygiene/acrylamide",
+   "ce_qu_elle_confirme": "La FSA disait encore de ne pas garder au frigo les pommes de terre crues destinées à être frites ou rôties (« cold sweetening ») ; page « Last updated 9 January 2018 »."
+  },
+  {
+   "name": "Copie web.archive.org du 28 avril 2022 de la page « Acrylamide » de la FSA (food.gov.uk)",
+   "url": "https://web.archive.org/web/20220428173802/https://www.food.gov.uk/safety-hygiene/acrylamide",
+   "ce_qu_elle_confirme": "Nouvel avis déjà en ligne : après une étude revue par le COT, frigo ou endroit frais et sombre au choix ; page « Last updated 26 April 2022 ». Le changement date donc du printemps 2022."
+  },
+  {
+   "name": "EUR-Lex, fiche du règlement (UE) 2017/2158 (informations sur le document)",
+   "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX:32017R2158",
+   "ce_qu_elle_confirme": "Statut « In force » ; entrée en vigueur le 11/12/2017, application le 11/04/2018, pas de date de fin de validité ; aucun acte modificatif listé."
+  },
+  {
+   "name": "Chef Simon, « À propos de Chef Simon » (modifié le 23 juin 2026)",
+   "url": "https://chefsimon.com/articles/corporate-a-propos-de-chef-simon",
+   "ce_qu_elle_confirme": "Le site présente Chef Simon comme « Alias Bertrand Simon », professeur en lycée hôtelier ; le nom « Bernard Laurance » n'apparaît sur aucune des pages lues."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "ingredients[0].items[1].note",
+   "actuel": "ni graisse de bœuf non certifiée halal",
+   "propose": "ni graisse de bœuf non certifiée halal ; si quelqu'un est allergique à l'arachide, prends du tournesol (l'arachide est un allergène, règlement UE 1169/2011)",
+   "pourquoi": "La recette propose l'huile d'arachide sans aucun avertissement, alors que ses propres sources (sources[42] et unverified[16]) annoncent « le conseil de prendre du tournesol si quelqu'un est allergique » : ce conseil n'apparaît nulle part dans le texte affiché. L'annexe II du règlement 1169/2011 range « Arachides et produits à base d'arachides » parmi les allergènes, sans exception pour l'huile (seule l'huile de soja entièrement raffinée est exemptée, point 6 a).",
+   "gravite": "majeure",
+   "sources": "Règlement (UE) 1169/2011, annexe II, points 5 et 6 a (EUR-Lex, version consolidée du 1er janvier 2018) ; INC, « Comment choisir son huile ? » (le tournesol résiste à la chaleur et convient à la friture)."
+  },
+  {
+   "champ": "steps[4].tip",
+   "actuel": "Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus. Sinon, sors, ferme la porte et appelle les pompiers (gouvernement du Québec, USFA, London Fire Brigade).",
+   "propose": "Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
+   "pourquoi": "Avec « Sinon », le texte laisse croire qu'on n'appelle les pompiers que si l'on n'a pas pu couvrir. Le gouvernement du Québec, cité, dit : « Appelez les pompiers, même si le feu semble éteint. Le feu pourrait s'être infiltré dans le conduit de la hotte. » La London Fire Brigade et les pompiers de Cambridgeshire disent dans tous les cas de sortir et d'appeler le 999 ; les pompiers de Cambridgeshire ajoutent, si le feu est maîtrisé, de laisser refroidir le récipient au moins 30 minutes.",
+   "gravite": "majeure",
+   "sources": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » (mis à jour le 10 octobre 2025) ; London Fire Brigade, « Pan fires » ; Cambridgeshire Fire & Rescue Service, « Chip pan » (« leave the pan to cool down for at least 30 minutes »)."
+  },
+  {
+   "champ": "secrets[6].text",
+   "actuel": "« Une bonne frite doit nager, chanter et sauter »",
+   "propose": "« Une bonne frite doit successivement nager, chanter et, enfin, sauter »",
+   "pourquoi": "Citation entre guillemets non exacte : les deux pages de Navefri-Unafri donnent « une bonne frite doit successivement nager, chanter et, enfin, sauter ».",
+   "gravite": "mineure",
+   "sources": "Navefri-Unafri, « L'art des bonnes frites » et « Semaine de la Frite en Wallonie »."
+  },
+  {
+   "champ": "steps[8].tip",
+   "actuel": "la quantité d'acrylamide dans les frites augmente fortement (EFSA)",
+   "propose": "la quantité d'acrylamide dans les frites peut fortement augmenter (EFSA)",
+   "pourquoi": "L'EFSA écrit « frying above 175°C can lead to greatly increased levels » (version française : « peut fortement augmenter ») : c'est un risque, pas une certitude.",
+   "gravite": "mineure",
+   "sources": "EFSA, page « Acrylamide » (anglais ; français mis à jour le 21 décembre 2023)."
+  },
+  {
+   "champ": "steps[2].tip",
+   "actuel": "le règlement européen sur l'acrylamide conseille aux restaurants 30 minutes à 2 heures de trempage, pour réduire les sucres de la pomme de terre.",
+   "propose": "le règlement européen sur l'acrylamide (2017/2158) demande aux restaurants, quand c'est possible, de les faire tremper de préférence 30 minutes à 2 heures dans l'eau froide (ou quelques minutes dans l'eau chaude), puis de les rincer, pour réduire leurs sucres ; l'agence irlandaise (FSAI) conseille aussi aux particuliers de les faire tremper, puis de bien les égoutter.",
+   "pourquoi": "Le règlement ne « conseille » pas : son annexe II, partie A, impose aux restaurants et commerces de détail d'appliquer, « lorsque cela est possible », l'une des deux mesures (trempage « de préférence entre 30 minutes et deux heures dans de l'eau froide », ou « quelques minutes dans de l'eau chaude », puis rinçage). La FSAI donne le même conseil aux consommateurs, ce qui fonde l'option pour la maison.",
+   "gravite": "mineure",
+   "sources": "Règlement (UE) 2017/2158, annexe II, partie A, point 1 (EUR-Lex) ; FSAI, « Acrylamide in Food », mai 2009, annexe « To consumers », point 5."
+  },
+  {
+   "champ": "steps[1].tip",
+   "actuel": "Un coupe-frites va plus vite (Wikipédia).",
+   "propose": "Tu peux aussi utiliser un coupe-frites à grille de 1 cm (Wikipédia).",
+   "pourquoi": "Wikipédia décrit le coupe-frites (grille à carrés, environ 1 cm pour les frites « à la belge » ou « pont-neuf ») mais ne dit pas qu'il va plus vite.",
+   "gravite": "mineure",
+   "sources": "Wikipédia, « Frite », section « Découpe »."
+  },
+  {
+   "champ": "secrets[10].text",
+   "actuel": "cuis-les un peu moins longtemps et un peu moins chaud",
+   "propose": "fais le premier bain un peu moins long et un peu moins chaud",
+   "pourquoi": "Navefri-Unafri réserve ce réglage à la précuisson : « Dan is het beter om iets minder lang voor te bakken op een iets lager temperatuur » (voorbakken = premier bain). Le second bain reste à 170-175 °C.",
+   "gravite": "mineure",
+   "sources": "Navefri-Unafri, « Frieten bakken is een kunst »."
+  },
+  {
+   "champ": "steps[7].tip",
+   "actuel": "Pendant ce repos, l'humidité de surface s'évapore et une fine croûte se forme : la seconde cuisson les rendra croustillantes sans trop d'huile (VLAM, Semaine de la Frite).",
+   "propose": "Pendant ce repos, une fine croûte se forme (Semaine de la Frite). Et plus les frites ont refroidi, plus le choc de chaleur du second bain est fort : elles saisissent vite et deviennent croustillantes et dorées (Navefri-Unafri).",
+   "pourquoi": "« L'humidité de surface s'évapore » ne repose que sur VLAM, que la contre-vérification n'a pas pu relire (403). La Semaine de la Frite, citée, dit seulement que le repos « permet à une fine croûte de se former, emprisonnant toute l'humidité ». Navefri-Unafri explique l'effet du refroidissement : « Door het afkoelen is de temperatuurshock groter », d'où des frites « goudgeel krokant ».",
+   "gravite": "mineure",
+   "sources": "La Semaine de la Frite (Apaq-W), « Les frites, c'est tout un art ! », 4 novembre 2025 ; Navefri-Unafri, « Frieten bakken is een kunst »."
+  },
+  {
+   "champ": "secrets[4].text",
+   "actuel": "l'humidité de surface s'évapore, une fine croûte se forme, et le choc de chaleur du second bain les rend croustillantes sans les graisser.",
+   "propose": "une fine croûte se forme, et le choc de chaleur du second bain, plus fort sur des frites bien refroidies, les saisit vite : elles deviennent croustillantes et dorées.",
+   "pourquoi": "Même raison que pour steps[7].tip : l'évaporation de l'humidité de surface ne repose que sur VLAM (non relu, 403), et la Semaine de la Frite parle d'une croûte qui emprisonne l'humidité. La suite reprend Navefri-Unafri.",
+   "gravite": "mineure",
+   "sources": "La Semaine de la Frite (Apaq-W), 4 novembre 2025 ; Navefri-Unafri, « Frieten bakken is een kunst »."
+  },
+  {
+   "champ": "occasion",
+   "actuel": "les frites accompagnent souvent les plats, par exemple posées sur le poulet en sauce (Bladi.net)",
+   "propose": "les frites accompagnent aussi des plats, par exemple posées sur le poulet en sauce (Bladi.net)",
+   "pourquoi": "Une seule recette de Bladi.net ne permet pas de dire « souvent » ; aucune autre source lue ne mesure cette fréquence au Maroc.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, « Poulet et frites » (22 septembre 2005, mise à jour le 8 mars 2021)."
+  },
+  {
+   "champ": "serving",
+   "actuel": "et au Maroc volontiers le poulet en sauce (Bladi.net)",
+   "propose": "et au Maroc, par exemple, le poulet en sauce (Bladi.net)",
+   "pourquoi": "Même raison : « volontiers » généralise à partir d'une seule recette.",
+   "gravite": "mineure",
+   "sources": "Bladi.net, « Poulet et frites »."
+  },
+  {
+   "champ": "mistakes[9]",
+   "actuel": "(VLAM, EFSA). La FSA britannique juge désormais le frigo acceptable ;",
+   "propose": "(VLAM, EFSA, FSAI). La FSA britannique juge le frigo acceptable depuis le printemps 2022 ;",
+   "pourquoi": "La FSAI dit aux consommateurs « do not store them in the refrigerator » (source lisible, alors que VLAM n'a pas pu être relu). Les copies web.archive.org de la page de la FSA datent le changement d'avis : ancien conseil encore en ligne le 8 mars 2022, nouveau conseil le 28 avril 2022 (page « Last updated 26 April 2022 »).",
+   "gravite": "mineure",
+   "sources": "FSAI, « Acrylamide in Food », mai 2009, annexe « To consumers », point 1 ; copies web.archive.org de food.gov.uk/safety-hygiene/acrylamide du 8 mars et du 28 avril 2022."
+  },
+  {
+   "champ": "equipment[1]",
+   "actuel": "(casserole remplie au tiers au plus)",
+   "propose": "(casserole remplie au tiers au plus) ; le gouvernement du Québec déconseille la casserole et les pompiers de Cambridgeshire conseillent plutôt le four",
+   "pourquoi": "Le gouvernement du Québec, cité pour la friteuse, écrit « N'utilisez jamais une casserole pour frire vos aliments », et les pompiers de Cambridgeshire « why not cook your chips in the oven? ». La casserole reste possible avec les règles de la London Fire Brigade, mais la liste du matériel doit le signaler.",
+   "gravite": "mineure",
+   "sources": "Gouvernement du Québec (mis à jour le 10 octobre 2025) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; London Fire Brigade, « Deep fat fryers »."
+  },
+  {
+   "champ": "variants[3]",
+   "actuel": "des frites épaisses, 5 à 6 minutes à 175 °C",
+   "propose": "des frites épaisses (au moins 14 mm de section), 5 à 6 minutes à 175 °C",
+   "pourquoi": "Les 5 à 6 minutes de la FSA valent pour des frites coupées avec une grille d'au moins 14 mm (« thick-cut fresh potatoes »), plus épaisses que les 1 cm de la recette.",
+   "gravite": "mineure",
+   "sources": "FSA (Irlande du Nord), « Healthier catering tips for chip shops », 10 novembre 2020."
+  },
+  {
+   "champ": "sources[18].name",
+   "actuel": "Chef Simon (Bernard Laurance), « Pommes frites ou Pont-neuf »",
+   "propose": "Chef Simon, « Pommes frites ou Pont-neuf »",
+   "pourquoi": "Le nom « Bernard Laurance » ne figure sur aucune page lue ; la page « À propos » du site présente Chef Simon comme « Alias Bertrand Simon ». Mieux vaut ne citer que le nom affiché.",
+   "gravite": "mineure",
+   "sources": "Chef Simon, « À propos de Chef Simon » et « Pommes frites ou Pont-neuf »."
+  },
+  {
+   "champ": "sources[3].name",
+   "actuel": "31 juillet 2023",
+   "propose": "publiée le 25 juillet 2023, modifiée le 31 juillet 2023 (métadonnées de la page)",
+   "pourquoi": "Les métadonnées de la page donnent datePublished 2023-07-25 et dateModified 2023-07-31 ; aucune date n'est affichée dans le texte.",
+   "gravite": "mineure",
+   "sources": "Frietmuseum, « Meilleure friterie Bruges » (code de la page)."
+  },
+  {
+   "champ": "sources[40].name",
+   "actuel": "23 mai 2025",
+   "propose": "publié le 21 mai 2025",
+   "pourquoi": "La page affiche « Date de publication : 21/05/2025 » ; le 23 mai 2025 est seulement la date de modification des métadonnées.",
+   "gravite": "mineure",
+   "sources": "INC, « Comment choisir son huile ? »."
+  },
+  {
+   "champ": "sources[41].name",
+   "actuel": "13 mai 2025",
+   "propose": "publié le 9 mai 2025",
+   "pourquoi": "La page affiche « Date de publication : 09/05/2025 » ; le 13 mai 2025 est seulement la date de modification des métadonnées.",
+   "gravite": "mineure",
+   "sources": "INC, « Incendies domestiques : les gestes qui sauvent avec Familles de France »."
+  },
+  {
+   "champ": "sources[33].name",
+   "actuel": "conseil sur le stockage au frigo révisé depuis",
+   "propose": "conseil sur le stockage au frigo révisé entre le 8 mars et le 28 avril 2022, d'après les copies web.archive.org",
+   "pourquoi": "La date du changement a été retrouvée : la page disait encore « pas de frigo » le 8 mars 2022 et donnait le nouvel avis le 28 avril 2022 (« Last updated 26 April 2022 »).",
+   "gravite": "mineure",
+   "sources": "Copies web.archive.org de food.gov.uk/safety-hygiene/acrylamide du 8 mars et du 28 avril 2022."
+  },
+  {
+   "champ": "unverified[10]",
+   "actuel": "Date du changement d'avis de la FSA sur le frigo : non trouvée (la page GOV.UK indique seulement une publication le 9 janvier 2018).",
+   "propose": "Jour exact du changement d'avis de la FSA sur le frigo : la page disait encore « pas de frigo » le 8 mars 2022 et donnait le nouvel avis le 28 avril 2022 (copies web.archive.org) ; elle affichait alors « Last updated 26 April 2022 », mais la note de mise à jour de ce jour ne parle que d'un lien et d'une coquille.",
+   "pourquoi": "La période du changement est maintenant connue ; seul le jour exact reste non confirmé.",
+   "gravite": "mineure",
+   "sources": "Copies web.archive.org de food.gov.uk/safety-hygiene/acrylamide (8 mars, 28 avril et 26 novembre 2022)."
+  },
+  {
+   "champ": "unverified[15]",
+   "actuel": "l'auteur des fiches n'est pas identifié",
+   "propose": "les trois fiches sont signées « Chef Philippe », sans autre précision",
+   "pourquoi": "Chaque fiche affiche « Auteur : Chef Philippe » (aussi dans les données structurées de la page).",
+   "gravite": "mineure",
+   "sources": "Meilleur du Chef, fiches « Cuisson des pommes de terre frites en 2 temps », « Tailler des pommes pont-neuf », « Frire des pommes de terre en une fois »."
+  },
+  {
+   "champ": "unverified[7]",
+   "actuel": "Nom en darija : « btata mqliya » est une translittération du titre de l'article de Wikipédia en darija (« بطاطا مقلية »), court et sans références, qui donne aussi « فريت » ; aucune source marocaine écrite en lettres latines trouvée.",
+   "propose": "Nom en darija : « btata mqliya » (بطاطا مقلية), « frit » (فريت) et « btata frit » (بطاطا فريت) sont attestés (DODa, Darija Open Dataset ; Wiktionnaire anglais ; Wikipédia en darija) ; lequel est le plus courant au Maroc n'a pas été mesuré.",
+   "pourquoi": "Le nom est maintenant confirmé par deux sources indépendantes de Wikipédia : DODa (phrases relues « btata ma9lia », « bTaTa ma9liya » ; lexique « bTaTa frit ») et le Wiktionnaire anglais (arabe marocain « فريت », frīt).",
+   "gravite": "mineure",
+   "sources": "DODa (food.csv, sentences.csv) ; Wiktionary, « French fries » ; Wikipédia en darija, « بطاطا مقلية »."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Pommes de terre farineuses, Bintje (ou Agria) : Navefri-Unafri en français (« la Bintje essentiellement mais aussi l'Agria, la Désirée, la Première… »), Wikipédia (« La reine des pommes de terre pour les frites est la bintje. La manon et l'agria sont également de bonnes variétés » ; chair farineuse, riche en amidon, plus croustillante), Semaine de la Frite (Bintje, chair farineuse).",
+  "1 kg pour 4 personnes : Cuisine Culinaire sur Chef Simon (1 kg de pommes de terre farineuses, type Bintje, pour 4 ; « Facile » ; préparation 10 min, cuisson 10 min ; « recette d'accompagnement »). Les trois recettes VLAM citées n'ont pas pu être relues (403). Rendu recalculé avec le code de app.html : 250 g pour 1, 1 kg pour 4, 2 kg pour 8.",
+  "Bâtonnets de 1 cm : Escoffier 1903 sur Wikisource (« bâtonnets d'un centimètre de côté » ; « C'est le type fondamental des pommes de terre frites », citation exacte), Chef Simon « Tailles » (« section de 1 cm »), Meilleur du Chef (7 cm de long, 1 cm de section), Navefri-Unafri (« réglette d'un centimètre de diamètre »), Wikipédia (environ 1 cm, frites « à la belge » ou « pont-neuf ») ; Navefri en néerlandais : 9 à 14 mm de large, 5 à 12 cm de long.",
+  "Épluchage et eau froide : Chef Simon « Tailles » (économe, enlever les taches, garder dans l'eau froide, prélaver si terreuses), Meilleur du Chef (eau froide « pour éviter qu'elles noircissent »).",
+  "Rinçage puis séchage, trempage en option : Navefri-Unafri en français (« Laver les frites fraiches à l'eau froide afin d'enlever l'excès d'amidon et bien les sécher », secret des transformateurs), Chef Simon, Meilleur du Chef (torchon sec), Wikipédia (séchage indispensable ; l'eau fait baisser la température de l'huile) ; Navefri en néerlandais note que certains frituristes rincent et d'autres non ; trempage : règlement 2017/2158 (restaurants) et FSAI (particuliers).",
+  "Sécurité de l'eau et de l'huile : pompiers de Cambridgeshire (« Wet chips can cause the oil to bubble over »), London Fire Brigade (« oil and water are a dangerous mix »).",
+  "Premier bain à 140 °C, environ 7 minutes, frites molles et pâles : Navefri-Unafri en français (« pendant +/- 7 minutes, dans de l'huile végétale ou de bœuf à 140° C », pour « pocher » et « ôter l'humidité »), Meilleur du Chef (140 °C, « molles et encore blanches »), Wikipédia (5 à 8 minutes à 127 °C, 140 °C pour certains auteurs), Navefri en néerlandais (130 à 150 °C ; trop chaud, frites plates). Médiane recalculée sur les sources lisibles : 140 °C. Minuteur de 7 min conforme au texte.",
+  "Première cuisson trop froide : Chef Simon (« si la température est trop basse la pomme de terre risque de se démêler et de corrompre le bain d'huile »).",
+  "Repos d'environ 30 minutes, jusqu'à 1 à 2 heures : Frietmuseum (égouttées 30 minutes), Navefri-Unafri (« après refroidissement » ; en néerlandais, « een paar uur » possible), Meilleur du Chef (« 1 à 2 heures sans problème »), Wikipédia (10 à 20 min). time.rest = 30, comme le texte ; pas de minuteur, choix expliqué par l'auteur.",
+  "Second bain à 175 °C, 2 minutes et 1 minute de plus au plus, jusqu'au jaune doré : Navefri-Unafri (170-175 °C ; sinon les frites prennent trop de gras), Wikipédia (2 minutes à 175-190 °C), Frietmuseum (un peu plus d'une minute à 180 °C). Plafond de 175 °C : règlement 2017/2158, FSAI, EFSA. Minuteur de 2 min conforme au texte.",
+  "Règlement (UE) 2017/2158, ce qu'il dit exactement (EUR-Lex, en vigueur, application depuis le 11 avril 2018, pas de date de fin) : annexe I, conseils que les fabricants donnent aux utilisateurs finaux : friture entre 160 et 175 °C, four entre 180 et 220 °C (moins avec la ventilation), préchauffer four ou friteuse à air entre 180 et 220 °C, cuire « jusqu'à obtention d'une couleur jaune doré », ne pas cuire plus que nécessaire, retourner au four après 10 minutes ou à mi-cuisson, réduire le temps pour une plus petite quantité, remplir le panier « jusqu'au repère du milieu ». Annexe II, partie A (restaurants et commerces) : pommes de terre stockées au-dessus de 6 °C ; si possible, trempage de préférence 30 minutes à 2 heures dans l'eau froide ou quelques minutes dans l'eau chaude, puis rinçage ; blanchiment ; friture sous 175 °C et aussi basse que possible ; écumage régulier ; nuanciers de couleur. Il ne dit rien sur le frigo des particuliers.",
+  "Acrylamide et santé : EFSA (formation au-dessus de 120 °C ; « potentially increases the risk of developing cancer » ; au-dessus de 175 °C forte hausse possible ; « Ne pas brûler, mais faire légèrement dorer »), FSA (« aim for a golden yellow colour or lighter » ; « the potential to cause cancer in humans »), FSAI (« golden yellow and not browned », friture à 175 °C au plus), Anses (20 décembre 2013 : ne pas consommer les zones les plus brunies, les plus riches en acrylamide ; alimentation modérée en aliments gras et frits).",
+  "Conservation des pommes de terre, avis et dates : FSA (page « Acrylamide » publiée le 9 janvier 2018) : frigo ou endroit frais et sombre au choix, depuis le printemps 2022 (copies web.archive.org) ; FSAI (22 mai 2009, un vendredi, recalculé) : pas sous 8 °C, « do not store them in the refrigerator », idéalement dans le noir à 8 °C ou un peu plus ; EFSA (page mise à jour le 21 décembre 2023) : sous 8 °C, plus de sucres et potentiellement plus d'acrylamide ; Apaq-W : endroit sombre et frais, entre 8 et 10 °C ; Navefri-Unafri : l'amidon se change en sucre, surtout si la température de stockage n'est pas bonne, et les frites foncent. Le conseil de la recette (8 à 10 °C, pas de frigo, avis de la FSA signalé) est fondé.",
+  "Récolte et fin de saison : Navefri-Unafri en néerlandais (« één oogst per jaar, in september of oktober » ; frites plus foncées en fin de saison, « in augustus »).",
+  "Feu d'huile : gouvernement du Québec (mis à jour le 10 octobre 2025 : jamais d'eau, ne jamais déplacer le récipient, couvercle de dimension appropriée, fermer les éléments si possible, appeler les pompiers même si le feu semble éteint ; friteuse munie d'un thermostat ; jamais de casserole pour frire ; huile qui fume à ne pas laisser chauffer ; points de fumée tournesol 210 °C, arachide 220 °C), London Fire Brigade (casserole au tiers au plus, aliments secs, huile qui fume : couper et laisser refroidir, friteuse électrique « much safer » ; en cas de feu : ne pas le combattre ni déplacer la casserole, jamais d'eau, couper le feu si c'est sans danger, sortir, fermer la porte, appeler le 999), pompiers de Cambridgeshire (four conseillé, tiers au plus, ne jamais quitter l'huile des yeux même quelques secondes, ne pas déplacer, laisser refroidir au moins 30 minutes, ne pas combattre le feu, 999), USFA (page revue le 28 septembre 2026 : rester près de la poêle, couper le feu si l'on quitte la cuisine ou si l'huile fume, couvercle ou plaque à portée de main pour couvrir).",
+  "Thermomètre de cuisson : seule la FSA (conseils aux friteries d'Irlande du Nord, « catering thermometer ») en parle parmi les sources officielles lues ; l'auteur l'a déjà signalé.",
+  "Panier à moitié et retour en température entre deux fournées : règlement 2017/2158 (« repère du milieu »), FSA (« not more than half full » ; « let the oil come back up to the appropriate temperature »), Wikipédia (petites quantités ; panier trop rempli : huile qui refroidit, frites qui collent), Navefri-Unafri (petites portions qui « nagent »).",
+  "Égoutter, secouer, saler, ne pas couvrir : FSA (« Bang, shake and drain » : 20 % de gras absorbé en moins ; les frites continuent d'absorber le gras après la sortie), Wikipédia (salage immédiat : « le sel se dissout mieux et imprègne mieux » ; battement du récipient dans les friteries belges), Chef Simon (« Saler dès la sortie de friture et surtout ne pas couvrir », citation exacte), Semaine de la Frite (sale immédiatement), Meilleur du Chef (« Saler et servir immédiatement »).",
+  "Huile : INC (tournesol, « résiste à la chaleur et convient à la cuisson comme à la friture » ; la plupart des huiles combinées ne conviennent pas à la cuisson), Chef Simon (huile neutre et résistante à la chaleur, arachide ; filtrer l'huile refroidie, récipient fermé, 5 à 7 utilisations dans le lexique, 4 dans la recette ; ne pas y frire de poisson), Wikipédia (huile végétale réutilisable une quinzaine de fois). Friteuse électrique : Chef Simon (Sabine Simon, maîtrise précise de la température), London Fire Brigade, gouvernement du Québec.",
+  "Halal : huile 100 % végétale ; pas de porc ni d'alcool dans la recette ; blanc de bœuf seulement en variante et certifié halal. Tradition belge du bœuf : Frietmuseum (« cuites traditionnellement à la graisse de bœuf »), Wikipédia (bœuf en Belgique, porc en Bretagne : le « ni saindoux » est utile), Navefri-Unafri en néerlandais (autrefois « ossewit » ; aujourd'hui graisse de bœuf, végétale ou mélange). Graisses saturées : FSA (environ 50 % pour la graisse de bœuf, environ 10 % pour le tournesol).",
+  "Variante au four : FSAI (200 °C au plus, 190 °C en chaleur tournante), règlement 2017/2158 (180 à 220 °C ; retourner après 10 minutes ou à mi-cuisson ; jaune doré), Wikipédia (2 cuillerées à soupe d'huile pour 1 kg), pompiers de Cambridgeshire (« why not cook your chips in the oven? »).",
+  "Variante à la friteuse à air, parties lisibles : règlement 2017/2158 (préchauffer four ou friteuse à air entre 180 et 220 °C), FSAI (tremper puis bien égoutter avant de frire ou de cuire au four), EFSA (« hot-air fryers generally produce 30-40% more acrylamide than conventional deep oil fryers », selon des tests de l'industrie et d'associations de consommateurs).",
+  "Variante en une seule cuisson : FSA (5 à 6 minutes à 175 °C en friteuse classique, jusqu'à « a pale, golden colour » ; éviter la double ou triple cuisson), Escoffier (« croustillantes à l'extérieur, tout en restant moelleuses à l'intérieur », citation exacte) ; Meilleur du Chef réserve le bain unique à 180 °C aux tailles fines (chips, gaufrettes, paille).",
+  "Variante belge : Navefri-Unafri en français (Bintje, 1 cm, rinçage, 140 °C environ 7 minutes, refroidissement, 170-175 °C jusqu'à « une jolie croute dorée »), Apaq-W (cornet, mayonnaise).",
+  "Noms : arabe « بطاطا مقلية » confirmé (titre de Wikipédia en arabe, article référencé : « البطاطا المقلية أو البطاطس المحمرة » ; Wiktionnaire anglais « بَطَاطَا مَقْلِيَّة »). Darija « btata mqliya » confirmé (DODa, phrases relues « btata ma9lia », « bTaTa ma9liya » ; titre de Wikipédia en darija) ; « frit » confirmé (Wiktionnaire anglais, arabe marocain « فريت », frīt ; Wikipédia en darija : « ف لمغريب كاينين سميات محليين بحال فريت ولا بطاطا فريت »). La transcription « mqliya » suit l'usage des autres recettes de l'appli (« Hout mqli », « Rouz mqli »).",
+  "Origine et culture : Wikipédia (origine « controversée », versions belge et française ; friteries du Benelux et du nord de la France ; steak-frites et moules-frites « pour les Belges et les Français » ; boulets à la liégeoise ; moutarde, ketchup, mayonnaise), Chef Simon (« spécialité de la cuisine du nord de la France » ; moules marinière), Navefri-Unafri (reconnaissances 2014, 2016, 2017 ; une demande à l'UNESCO suppose la reconnaissance des trois Communautés), Wikipédia (Région flamande le 10 janvier 2014).",
+  "Semaine de la Frite chaque année en novembre : Apaq-W (6 au 13 novembre 2026, 14e édition ; 7 au 14 novembre 2025 ; 8 au 15 novembre 2024, « en Wallonie, mais aussi en Flandre » ; 6 au 12 novembre 2023 ; 7 au 13 novembre 2022). Mayonnaise, sauce vedette en Belgique (43 %), cornet préféré par 39 % des Wallons : Apaq-W 2026. Cornets ou barquettes : Navefri-Unafri.",
+  "Bladi.net « Poulet et frites » (publié le 22 septembre 2005, modifié le 8 mars 2021 d'après les métadonnées) : poulet fermier, oignons, ail, huile d'olive, coriandre, gingembre, safran ; frites disposées sur le poulet.",
+  "Temps et catégorie (recalculés avec python3 -I) : 20 + 25 + 30 = 75 min ; préparation + cuisson = 45 min, au-delà de 30 : catégorie « Accompagnement » et non « Rapide » (filtre « Vite fait » de l'appli non déclenché). 45 min, c'est aussi la durée de la fiche Meilleur du Chef « Cuisson des pommes de terre frites en 2 temps », découpe comprise ; Cuisine Culinaire classe la recette en accompagnement et la note « Facile ».",
+  "Rendu dans l'appli (fonctions fmtQ et fill de app.html exécutées avec node) : 1 personne « Lave 250 g de pommes de terre à chair farineuse… », 4 personnes « 1 kg », 8 personnes « 2 kg » ; {{huile}} et {{sel}} (q null) affichent leur nom (« huile végétale de friture (tournesol ou arachide) », « sel fin ») ; les trois repères correspondent à des ingrédients déclarés et chaque ingrédient est utilisé.",
+  "Liens : les 36 adresses hors VLAM citées dans le fichier répondent (HTTP 200, 7 novembre 2026), dont le PDF de la FSAI et la page « Pan fires » de la London Fire Brigade. Robots.txt vérifiés : aucun n'interdit ces pages aux robots (Meilleur du Chef : délai de 2 s ; EUR-Lex et INC : 10 s, respectés).",
+  "Dates des sources vérifiées sur les pages : Chef Simon (7 décembre 2011, modifié le 10 mai 2026 ; « Tailles » 10 mai 2026 ; lexique 22 juillet 2025 ; friteuse 10 février 2026, par Sabine Simon ; Cuisine Culinaire 7 septembre 2017, modifié le 10 janvier 2024), Meilleur du Chef (27 avril 2013), Semaine de la Frite (4 novembre 2025), gouvernement du Québec (10 octobre 2025), USFA (28 septembre 2026), FSA friteries (10 novembre 2020, Irlande du Nord), FSAI (mai 2009), règlement 1169/2011 (annexe II : arachides, point 5, sans exception)."
+ ],
+ "non_verifiable": [
+  "VLAM bloqué : biendecheznous.be et lekkervanbijons.be répondent HTTP 403 (page Cloudflare « Sorry, you have been blocked ») à la contre-vérification du 7 novembre 2026, sur leur robots.txt et sur deux pages de recette (steak-frites, steak-friet). Conformément à la règle d'accès, ni ces pages ni leurs copies d'archive n'ont été utilisées ; les 11 autres liens VLAM n'ont pas été testés un par un. Les 12 sources VLAM (sources[4] à sources[14]) n'ont donc pas pu être relues. Ce qui ne repose que sur elles : pommes de terre « plutôt grosses et allongées » (ingrédient et secrets[0]) ; « l'humidité de surface s'évapore » (corrections proposées) ; four « environ 45 minutes à 180 °C » et papier cuisson (variants[1]) ; friteuse à air : huile au pinceau ou en spray, panier secoué, « suis sa notice » (variants[2]) ; conservation « au sec » et fourchettes VLAM de 7 à 10 °C et de 4 à 10 °C (secrets[11], discrepancies[7]) ; borne de 3 minutes pour le second bain (seul VLAM donne 3 minutes, Wikipédia dit 2) ; recettes de 600 g et 800 g ; « depuis 2017 » (discrepancies[13]). Ce qui est attribué à VLAM mais confirmé ailleurs : steak-frites et moules-frites (Wikipédia), mayonnaise (Apaq-W), Week van de Friet en Flandre (Navefri-Unafri, Apaq-W 2024), rinçage et séchage (Navefri-Unafri, Chef Simon, Meilleur du Chef), refroidissement entre les bains (Navefri-Unafri), Bintje farineuse (Wikipédia, Semaine de la Frite), pas de frigo (FSAI, EFSA), 1 kg pour 4 (Cuisine Culinaire).",
+  "Temps de cuisson de 25 minutes : estimation sans source précise. Recalcul : les seuls bains font 18 à 20 minutes pour 2 fournées (2 × 7 min + 2 × 2 à 3 min), sans compter la chauffe de l'huile à 140 °C puis 175 °C ni la remontée en température entre les fournées ; c'est serré mais possible pour 4 personnes. Pour 8 personnes (4 fournées), les bains seuls font 36 à 40 minutes, et l'appli n'ajuste pas les temps au nombre de personnes. Préparation de 20 minutes : plausible (Cuisine Culinaire 10 min ; Meilleur du Chef compte 25 min pour la seule taille pont-neuf, faite en pro).",
+  "Reconnaissance par la Communauté germanophone et par la Région de Bruxelles-Capitale (2017) : une seule source (Navefri-Unafri) ; Wikipédia écrit au contraire, sans date, que la Communauté germanophone « ne l'a pas encore reconnue ». La Fédération Wallonie-Bruxelles : 2016 pour Navefri-Unafri (annonce du mercredi 23 novembre 2016), 2017 pour Wikipédia. Inventaires officiels non consultés (la recherche du site flamand immaterieelerfgoed.be est dynamique et le quota de recherche web est épuisé).",
+  "Week van de Friet en Flandre « chaque année en novembre » : confirmée seulement pour 2016 (en même temps que la Wallonie, fin novembre et début décembre), 2021 (statue inaugurée le 28 novembre) et 2024 (Apaq-W) ; la page VLAM est bloquée.",
+  "Composition halal des sauces du commerce (mayonnaise, ketchup, moutarde) : non vérifiée, elle dépend de la marque (lire l'étiquette).",
+  "Variétés de pommes de terre farineuses vendues au Maroc, fréquence des frites dans la cuisine marocaine et numéro des pompiers au Maroc : non vérifiés.",
+  "Limite du quota de recherche web épuisé : il n'a pas été possible de chercher une deuxième source lisible pour 1 kg pour 4 et pour la durée du second bain à 175 °C, des pages officielles belges ou françaises sur le feu d'huile (les plans de site de pompiers.fr et de besafe.be n'en listent pas ; la page du SPF Santé publique sur l'acrylamide date d'un communiqué de 2002), les inventaires officiels du patrimoine immatériel, ni le communiqué de la FSA annonçant son nouvel avis sur le frigo. Sites refusés pendant cette contre-vérification : VLAM (403), Fiwap (robots.txt en 403), Hespress (robots.txt en 403) ; Test-Achats, Gallica, info.gouv.fr, interieur.gouv.fr et safefood.net n'ont pas été consultés (déjà refusés)."
+ ]
+}

@@ -27,16 +27,19 @@ PHOTOS = {  # slug -> (fichier dans img/, modification faite)
     "bid-maticha": ("bid-maticha.jpg", "recadrée"), "kefta-poele": ("kefta-poele.jpg", "non modifiée"),
     "salade-marocaine": ("salade-marocaine.jpg", "réduite"), "escalopes-poulet-panees": ("escalopes-poulet-panees.jpg", "non modifiée"),
     "poulet-creme-champignons": ("poulet-creme-champignons.jpg", "non modifiée"), "taboule": ("taboule.jpg", "réduite"),
+    "frites": ("frites.jpg", "réduite"),
 }
 # pays d'origine des recettes qui ne sont pas marocaines (d'après le champ « region » de leur recherche)
 CUISINE = {"riz-saute-oeufs": "Chinoise", "salade-pois-chiches-thon": "Italienne", "soupe-lentilles-corail": "Turque",
            "spaghetti-aglio-olio": "Italienne", "pates-thon-tomate": "Italienne", "omelette": "Française",
-           "escalopes-poulet-panees": "Française", "poulet-creme-champignons": "Française et suisse", "taboule": "Libanaise"}
+           "escalopes-poulet-panees": "Française", "poulet-creme-champignons": "Française et suisse", "taboule": "Libanaise",
+           "frites": "Belge et française"}
 # date de la contre-vérification (deuxième série : faite le 7 novembre 2026)
 SERIE2 = {"lentilles", "loubia", "bissara", "dchicha", "chakchouka", "maqarouna", "poisson-frit", "sandwich-poisson", "tajine-poisson",
           "baghrir", "cake-marocain", "malwi", "rghayef", "spaghetti-aglio-olio", "pates-thon-tomate", "omelette", "riz-saute-oeufs",
           "salade-pois-chiches-thon", "soupe-lentilles-corail",
           "bid-maticha", "kefta-poele", "salade-marocaine", "escalopes-poulet-panees", "poulet-creme-champignons", "taboule"}
+SERIE4 = {"frites"}  # contre-vérification faite après le 7 novembre : date lue sur le fichier de vérification
 # texte alternatif quand la photo ne montre pas exactement la recette (la photo du tajine aux pruneaux est un tajine de veau)
 IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
            "khobz": "Piles de khobz ronds sur un étal de Chefchaouen",
@@ -63,7 +66,8 @@ IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans s
            "salade-marocaine": "Tomates, concombre et persil coupés en petits dés dans un saladier (photo d'une salade arabe, très proche)",
            "escalopes-poulet-panees": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
            "poulet-creme-champignons": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
-           "taboule": "Taboulé au persil garni de rondelles de citron et de feuilles de laitue (photo prise en Jordanie)"}
+           "taboule": "Taboulé au persil garni de rondelles de citron et de feuilles de laitue (photo prise en Jordanie)",
+           "frites": "Frites maison dorées, coupées en gros bâtonnets, sur une assiette"}
 # rayon de l'accueil (catégories)
 RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajines", "harira": "Soupes",
          "pastilla-poulet": "Plats", "tajine-kefta-oeufs": "Tajines", "msemen": "Pains",
@@ -78,7 +82,7 @@ RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajin
          "soupe-lentilles-corail": ["D'ailleurs", "Soupes"],
          # troisième série : 6 recettes faciles
          "bid-maticha": "Plats", "kefta-poele": "Plats", "salade-marocaine": "Salades", "escalopes-poulet-panees": "D'ailleurs",
-         "poulet-creme-champignons": "D'ailleurs", "taboule": ["D'ailleurs", "Salades"]}
+         "poulet-creme-champignons": "D'ailleurs", "taboule": ["D'ailleurs", "Salades"], "frites": "D'ailleurs"}
 # « à servir avec » : seulement quand le service de la recette (sourcé) cite l'accompagnement
 PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"], "tajine-agneau-pruneaux": ["khobz"],
          "tajine-kefta-oeufs": ["khobz"], "msemen": ["the-menthe"], "harcha": ["the-menthe"], "zaalouk": ["khobz"],
@@ -91,7 +95,7 @@ PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"]
 PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz", "poisson-frit": "En sandwich", "sandwich-poisson": "Les recettes utilisées"}
 # nom du temps d'attente quand ce n'est pas un simple repos
 REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée", "poisson-frit": "Marinade", "sandwich-poisson": "Marinade", "tajine-poisson": "Marinade",
-              "loubia": "Trempage"}
+              "loubia": "Trempage", "frites": "Repos"}  # frites : repos entre les deux cuissons (libellé court pour les cartes)
 # ingrédient qui renvoie vers une autre recette de l'application
 LINKS = {"rfissa-poulet": {"msemen": "msemen"}}
 credits = {c["file"]: c for c in json.load(open(os.path.join(APP, "img", "credits.json"), encoding="utf-8"))}
@@ -124,6 +128,7 @@ STEP_SPECIFIC = {  # slug -> {index d'étape (0 = première): (photo, texte alte
     "rghayef": {7: ("msemen-etaler.jpg", "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)", "Étirer du bout des doigts"),
                 12: ("msemen-cuisson.jpg", "Galettes feuilletées carrées qui dorent sur une grande plaque", "Cuire jusqu'à ce qu'elles soient bien dorées")},
     "poisson-frit": {13: ("sardines-friture.jpg", "Sardines frites et dorées, posées sur du papier absorbant", "Égoutter sur du papier absorbant")},
+    "frites": {5: ("frites-bain.jpg", "Frites encore pâles qui cuisent dans un panier plongé dans l'huile, sur le feu", "Les frites dans le bain d'huile")},
 }
 def dims(path):
     import subprocess
@@ -267,6 +272,11 @@ def appliquer_verif(slug, r):
         if sa["url"] not in known:
             r.setdefault("sources", []).append({"name": sa["name"], "url": sa["url"], "used_for": "Contre-vérification : " + sa["ce_qu_elle_confirme"]})
     quand = "7 novembre 2026" if slug in SERIE2 else "6 novembre 2026"
+    if slug in SERIE4:  # date réelle du fichier de contre-vérification
+        import datetime
+        d = datetime.date.fromtimestamp(os.path.getmtime(fn))
+        mois = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+        quand = f"{'1er' if d.day == 1 else d.day} {mois[d.month - 1]} {d.year}"
     r.setdefault("discrepancies", []).append(f"Contre-vérifiée le {quand} par une seconde recherche indépendante : verdict « {v['verdict']} », {n} correction(s) appliquée(s)."
         + (f" {len(VERIF_SKIP.get(slug, {}))} correction(s) proposée(s) non retenue(s) : " + " ; ".join(VERIF_SKIP[slug].values()) if VERIF_SKIP.get(slug) else ""))
     return v
@@ -449,6 +459,37 @@ def apres_verif(slug, r):
         rep(r, "region", "Tout le Maroc : un plat", "Maroc : un plat")
     if slug == "salade-marocaine" and not any("hlada" in u for u in r["unverified"]):
         r["unverified"].append("« Chlada » : transcription en lettres latines du nom arabe شلاضة ; aucune source lue ne l'écrit ainsi en lettres latines.")
+    if slug == "frites":
+        # VLAM (« Bien de chez nous », « Lekker van bij ons ») : lu à la recherche, bloqué (403) à la contre-vérification ;
+        # on retire ce qui ne reposait que sur lui (liste de la contre-vérification du 7 novembre 2026)
+        it = r["ingredients"][0]["items"][0]
+        assert it["id"] == "pdt"
+        rep(it, "note", "type Bintje ou Agria, plutôt grosses et allongées", "type Bintje ou Agria")
+        r["secrets"][0]["text"] = "Prends une pomme de terre à chair farineuse, comme la Bintje : riche en amidon, elle donne des frites dorées et croustillantes."
+        k = next(k for k, v in enumerate(r["variants"]) if v.startswith("Au four"))
+        r["variants"][k] = ("Au four : préchauffe le four entre 180 et 200 °C (190 °C au plus en chaleur tournante). Mélange les frites rincées et bien séchées "
+                            "avec un filet d'huile (Wikipédia : 2 c. à s. pour 1 kg de pommes de terre), étale-les sur une plaque et retourne-les à mi-cuisson. "
+                            "Arrête-toi au jaune doré (règlement UE 2017/2158, FSAI). Les pompiers de Cambridgeshire conseillent d'ailleurs le four, plus sûr que la casserole d'huile.")
+        k = next(k for k, v in enumerate(r["variants"]) if v.startswith("À la friteuse à air"))
+        r["variants"][k] = ("À la friteuse à air (Airfryer) : le règlement UE parle de 180 à 220 °C pour préchauffer un four ou une friteuse à air. Arrête-toi au jaune doré : "
+                            "selon des tests de l'industrie et d'associations de consommateurs cités par l'EFSA, la friteuse à air peut donner 30 à 40 % d'acrylamide de plus qu'une friteuse à huile.")
+        r["secrets"][11] = {"text": "Garde les pommes de terre au frais et dans le noir, idéalement entre 8 et 10 °C. Trop froides, elles font du sucre et brunissent vite à la friture.",
+                            "source": "Apaq-W (8 à 10 °C), EFSA (sous 8 °C, plus de sucres), FSAI (8 °C ou un peu plus)"}
+        r["discrepancies"][next(k for k, v in enumerate(r["discrepancies"]) if v.startswith("Conservation :"))] = (
+            "Conservation : la FSA (Royaume-Uni) juge le frigo acceptable depuis le printemps 2022 (étude revue par le COT), alors que la FSAI (2009) et l'EFSA (2015) "
+            "préviennent que le froid augmente les sucres et le brunissement. Retenu : endroit frais et sombre, idéalement 8 à 10 °C (Apaq-W, compatible avec la FSAI et l'EFSA), "
+            "pas de frigo pour les pommes de terre à frire, en signalant l'avis de la FSA.")
+        rep(r["steps"][9], "text", "Sinon, prolonge d'une minute au plus, en surveillant la couleur.", "Sinon, prolonge un peu en surveillant la couleur, et sors-les dès qu'elles sont jaune doré.")
+        k = next(k for k, v in enumerate(r["discrepancies"]) if v.startswith("Durée du second bain"))
+        r["discrepancies"][k] = ("Durée du second bain : 2 minutes (Wikipédia), un peu plus d'1 minute à 180 °C (Frietmuseum), « jusqu'à dorure » ailleurs. "
+                                 "Retenu : 2 minutes, puis un peu plus si besoin, jusqu'au jaune doré.")
+        k = next(k for k, v in enumerate(r["discrepancies"]) if v.startswith("Quantité pour 4"))
+        r["discrepancies"][k] = "Quantité pour 4 : 1 kg (Cuisine Culinaire sur Chef Simon ; trois recettes VLAM lues à la recherche). Retenu : 1 kg."
+        rep(r["discrepancies"], next(k for k, v in enumerate(r["discrepancies"]) if v.startswith("Reconnaissance du fritkot")), ", « depuis 2017 » selon VLAM", "")
+        r["unverified"] = [u for u in r["unverified"] if not u.startswith("Four : la durée de 45 minutes")]
+        r["unverified"].append("VLAM (sites « Bien de chez nous » et « Lekker van bij ons ») : lu à la recherche, mais bloqué (erreur 403) à la contre-vérification du "
+                               "7 novembre 2026. Ce qui ne reposait que sur lui a été retiré : pommes de terre « grosses et allongées », papier cuisson et 45 minutes au four, "
+                               "conseils de la friteuse à air, conservation « au sec », borne de 3 minutes pour le second bain, recettes de 600 et 800 g.")
     if slug == "kefta-poele":
         # seule source : Choumicha, que la contre-vérification n'a pas pu relire (site hors ligne, copies d'archive non rouvertes)
         assert r["secrets"][10]["text"].startswith("Choumicha mixe d'abord les herbes")
