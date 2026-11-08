@@ -82,10 +82,6 @@
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
-  },
   "ing.ail.note": {
    "fr": "à peler",
    "t": "очистить"
@@ -109,10 +105,6 @@
   "ing.citron-jus.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron-jus.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron-jus.note": {
    "fr": "pour le jus ; ou du vinaigre, comme Choumicha",
@@ -165,10 +157,6 @@
   "ing.citron-service.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron-service.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron-service.note": {
    "fr": "en quartiers ou en tranches",
@@ -264,7 +252,7 @@
   },
   "steps.4.title": {
    "fr": "Termine la chermoula",
-   "t": "Закончите чермулу"
+   "t": "Доведите чермулу до готовности"
   },
   "steps.4.text": {
    "fr": "Mets la pâte dans un bol. Ajoute {{cumin}} de cumin, {{paprika}} de paprika et le jus de {{citron-jus:full}}. Mélange bien. Si tu aimes le piquant, ajoute un peu de {{piment-fort}}.",
@@ -304,7 +292,7 @@
   },
   "steps.7.timer.label": {
    "fr": "Marinade",
-   "t": "Маринад"
+   "t": "Маринование"
   },
   "steps.7.timer.done": {
    "fr": "La marinade est prête. Passe à la friture.",
@@ -328,7 +316,7 @@
   },
   "steps.9.tip": {
    "fr": "Si l'huile prend feu : ne jette jamais d'eau. Glisse le couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi. Appelle sans attendre les pompiers, même si le feu semble éteint. Si le feu ne s'éteint pas ou s'étend, fais sortir tout le monde, ferme la porte de la cuisine et ne rentre pas.",
-   "t": "Если масло загорелось, никогда не лейте на него воду. Надвиньте на сковороду крышку, выключите огонь, если это можно сделать без опасности, не переносите сковороду и не снимайте крышку, пока она не остынет. Сразу вызовите пожарных, даже если кажется, что огонь погас. Если огонь не гаснет или распространяется, выведите всех, закройте дверь кухни и не возвращайтесь."
+   "t": "Если масло загорелось, никогда не лейте на него воду. Надвиньте на сковороду крышку, выключите огонь, если это можно сделать без опасности, не переносите сковороду и не снимайте крышку, пока сковорода не остынет. Сразу вызовите пожарных, даже если кажется, что огонь погас. Если огонь не гаснет или распространяется, выведите всех, закройте дверь кухни и не возвращайтесь."
   },
   "steps.10.title": {
    "fr": "Farine le poisson",
@@ -520,7 +508,7 @@
   },
   "mistakes.0": {
    "fr": "Jeter de l'eau sur de l'huile en feu : ça provoque une explosion de flammes. Glisse un couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi ; appelle sans attendre les pompiers, même si le feu semble éteint, et si le feu continue, fais sortir tout le monde et ferme la porte (USFA ; gouvernement du Québec ; pompiers du Cambridgeshire ; comté du Warwickshire).",
-   "t": "Лить воду на горящее масло: это вызывает взрывную вспышку пламени. Надвиньте на сковороду крышку, выключите огонь, если это можно сделать без опасности, не переносите сковороду и не снимайте крышку, пока она не остынет; сразу вызовите пожарных, даже если кажется, что огонь погас, а если огонь не утихает, выведите всех и закройте дверь (USFA; правительство Квебека; пожарная служба Кембриджшира; графство Уорикшир)."
+   "t": "Лить воду на горящее масло: это вызывает взрывную вспышку пламени. Надвиньте на сковороду крышку, выключите огонь, если это можно сделать без опасности, не переносите сковороду и не снимайте крышку, пока сковорода не остынет; сразу вызовите пожарных, даже если кажется, что огонь погас, а если огонь не утихает, выведите всех и закройте дверь (USFA; правительство Квебека; пожарная служба Кембриджшира; графство Уорикшир)."
   },
   "mistakes.1": {
    "fr": "Continuer à chauffer une huile qui fume : baisse le feu et laisse-la refroidir avant d'y mettre le poisson (gouvernement du Québec ; pompiers du Cambridgeshire ; SFDA).",
@@ -601,6 +589,18 @@
   "variants.10": {
    "fr": "À El Jadida, les fritures de poissons font partie du f'tour du ramadan (Hespress, 2021).",
    "t": "В Эль-Джадиде жареная рыба входит в ифтар в Рамадан (Hespress, 2021)."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.citron-jus.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron-service.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

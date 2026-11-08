@@ -266,7 +266,7 @@ window.RECETTES.push({
    "source": "Taste of Maroc ; Choumicha passe toujours sa purée à la passoire fine"
   },
   {
-   "text": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati y ajoute du piment vert et du piment frit.",
+   "text": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati la sert aussi avec du piment vert et du piment fort frit.",
    "source": "Hespress (2014, restaurant de Tanger) ; Lalla Moulati (2014) ; My Moroccan Food (oignon haché)"
   },
   {
@@ -442,7 +442,8 @@ window.RECETTES.push({
   "Mixeur ou tamis : Choumicha passe la purée à la passoire fine ou au tamis ; Taste of Maroc, My Moroccan Food, Cooking with Alia, Lalla Moulati et Chhiwat mixent. Retenu : mixeur plongeant, avec le tamis ou le moulin en option.",
   "Garniture : paprika (Choumicha, My Moroccan Food, Cooking with Alia, Le360, Bladi.net, Morocco World News) ou piment fort (Taste of Maroc : cayenne ou harissa ; Lalla Moulati 2020 ; Sky News Arabia ; Chhiwat met de la « soudania », un piment en poudre dont la force n'a pas été confirmée). Choumicha n° 343 écrit « piment rouge » dans la liste et « paprika » dans la préparation. Retenu : paprika saupoudré, piment fort sur la table.",
   "Citron : jus de citron sur chaque assiette chez Bladi.net (1 citron dans la liste) ; facultatif chez Taste of Maroc (dans la purée), Cooking with Alia et Hespress ; absent chez Choumicha. Retenu : en quartiers, sur la table.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Une source officielle française ou marocaine sur le favisme : la page du NHS sur le déficit en G6PD n'existe plus (erreur 404, aucune entrée G6PD dans son index de A à Z), la recherche du site de la Haute Autorité de santé a été refusée (erreur 403), celle du site du ministère de la Santé marocain renvoie une erreur, et la page d'Orphanet en direct est protégée par une vérification anti-robots. La mise en garde ajoutée à l'ingrédient « fèves » s'appuie sur MedlinePlus (Bibliothèque nationale de médecine des États-Unis) et sur un groupe de travail de l'OMS (1989).",

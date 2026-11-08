@@ -58,10 +58,6 @@
    "fr": "gros oignons",
    "t": "луковицы крупного размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "gros oignon / gros oignons",
-   "t": "луковиц крупного размера"
-  },
   "ing.celeri.name": {
    "fr": "branche de céleri avec ses feuilles",
    "t": "стебель сельдерея с листьями"
@@ -70,13 +66,9 @@
    "fr": "branches de céleri avec leurs feuilles",
    "t": "стебля сельдерея с листьями"
   },
-  "ing.celeri.pl5": {
-   "fr": "branche de céleri avec ses feuilles / branches de céleri avec leurs feuilles",
-   "t": "стеблей сельдерея с листьями"
-  },
   "ing.celeri.note": {
-   "fr": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
-   "t": "в Марокко берут тонколистный сельдерей, похожий на китайский: небольшой пучок"
+   "fr": "ou, à la place de chaque branche, une petite botte de céleri chinois (à feuilles fines, il ressemble à une botte de persil) : c'est celui qu'on utilise au Maroc",
+   "t": "или вместо каждого стебля — небольшой пучок китайского сельдерея (он тонколистный и похож на пучок петрушки): именно такой используют в Марокко"
   },
   "ing.persil.name": {
    "fr": "de persil plat",
@@ -148,7 +140,7 @@
   },
   "ing.sel.note": {
    "fr": "à rectifier en fin de cuisson",
-   "t": "уточните по вкусу в конце варки"
+   "t": "доведите до вкуса в конце варки"
   },
   "ing.eau.name": {
    "fr": "d'eau",
@@ -205,10 +197,6 @@
   "ing.citron.pl": {
    "fr": "citrons, en quartiers",
    "t": "лимона (нарезать дольками)"
-  },
-  "ing.citron.pl5": {
-   "fr": "citron, en quartiers / citrons, en quartiers",
-   "t": "лимонов (нарезать дольками)"
   },
   "equipment.0": {
    "fr": "Grande marmite à fond épais (6 l environ) ou cocotte-minute",
@@ -508,7 +496,7 @@
   },
   "mistakes.0": {
    "fr": "Verser la tadouira d'un coup ou sans remuer : elle fait des grumeaux.",
-   "t": "Вливать тадуиру сразу или не помешивая: образуются комки."
+   "t": "Вливать всю тадуиру разом или не помешивая: образуются комки."
   },
   "mistakes.1": {
    "fr": "Lier une soupe qui ne bout pas assez fort : elle doit reprendre vite l'ébullition.",
@@ -581,6 +569,18 @@
   "variants.9": {
    "fr": "Sans viande : une version végétarienne existe, la viande apportant surtout du goût — Taste of Maroc ; Morocco World News (2021).",
    "t": "Без мяса: существует вегетарианская версия, ведь мясо в основном добавляет вкус — Taste of Maroc; Morocco World News (2021)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.celeri.pl5": {
+   "fr": "branche de céleri avec ses feuilles / branches de céleri avec leurs feuilles",
+   "t": "стеблей сельдерея с листьями"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron, en quartiers / citrons, en quartiers",
+   "t": "лимонов (нарезать дольками)"
   }
  }
 }

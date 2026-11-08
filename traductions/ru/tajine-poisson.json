@@ -62,10 +62,6 @@
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
-  },
   "ing.ail.note": {
    "fr": "à peler",
    "t": "очистить"
@@ -96,7 +92,7 @@
   },
   "ing.2.group": {
    "fr": "Lit de légumes et garniture",
-   "t": "Овощная подушка и гарнир"
+   "t": "Овощная подушка и добавки"
   },
   "ing.huile-fond.name": {
    "fr": "d'huile d'olive, pour le fond",
@@ -118,10 +114,6 @@
    "fr": "carottes",
    "t": "моркови"
   },
-  "ing.carottes.pl5": {
-   "fr": "carotte / carottes",
-   "t": "морковей"
-  },
   "ing.carottes.note": {
    "fr": "à peler et couper en bâtonnets de 0,5 cm",
    "t": "очистить и нарезать брусочками по 0,5 см"
@@ -138,10 +130,6 @@
    "fr": "environ 200 g pièce ; à peler et couper en rondelles de 0,5 cm",
    "t": "около 200 г каждая; очистить и нарезать кружками толщиной 0,5 см"
   },
-  "ing.pommes-de-terre.pl5": {
-   "fr": "grosse pomme de terre / grosses pommes de terre",
-   "t": "картофелин крупного размера"
-  },
   "ing.tomates.name": {
    "fr": "grosse tomate mûre",
    "t": "помидор крупного размера (выбирайте спелые)"
@@ -149,10 +137,6 @@
   "ing.tomates.pl": {
    "fr": "grosses tomates mûres",
    "t": "помидора крупного размера (выбирайте спелые)"
-  },
-  "ing.tomates.pl5": {
-   "fr": "grosse tomate mûre / grosses tomates mûres",
-   "t": "помидоров крупного размера (выбирайте спелые)"
   },
   "ing.tomates.note": {
    "fr": "à couper en rondelles",
@@ -165,10 +149,6 @@
   "ing.poivrons.pl": {
    "fr": "poivrons (verts, rouges ou jaunes)",
    "t": "стручка сладкого перца (зелёного, красного или жёлтого)"
-  },
-  "ing.poivrons.pl5": {
-   "fr": "poivron (vert, rouge ou jaune) / poivrons (verts, rouges ou jaunes)",
-   "t": "стручков сладкого перца (зелёного, красного или жёлтого)"
   },
   "ing.poivrons.note": {
    "fr": "à épépiner et couper en fines lanières ; un poivron rouge adoucit le plat",
@@ -185,10 +165,6 @@
   "ing.piment-vert.pl": {
    "fr": "piments verts piquants",
    "t": "стручка острого зелёного перца"
-  },
-  "ing.piment-vert.pl5": {
-   "fr": "piment vert piquant / piments verts piquants",
-   "t": "стручков острого зелёного перца"
   },
   "ing.piment-vert.note": {
    "fr": "facultatif ; à poser entier",
@@ -208,10 +184,6 @@
   },
   "ing.citron-confit.pl": {
    "fr": "citrons confits",
-   "t": "шт. солёного лимона"
-  },
-  "ing.citron-confit.pl5": {
-   "fr": "citron confit / citrons confits",
    "t": "шт. солёного лимона"
   },
   "ing.citron-confit.note": {
@@ -352,7 +324,7 @@
   },
   "steps.9.title": {
    "fr": "Pose le poisson et la garniture",
-   "t": "Выложите рыбу и гарнир"
+   "t": "Выложите рыбу и добавки"
   },
   "steps.9.text": {
    "fr": "Dispose les darnes et leur marinade sur les tomates. Couvre-les de lanières de poivron, puis ajoute {{piment-vert:full}} si tu veux et {{citron-rondelles}}. Répartis {{olives}} d'olives et les quartiers de citron confit tout autour.",
@@ -372,7 +344,7 @@
   },
   "steps.11.text": {
    "fr": "Laisse cuire 30 min à couvert, puis vérifie : les pommes de terre doivent être tendres et le poisson doit se détacher facilement à la fourchette. Sinon, poursuis à feu doux et vérifie souvent. Au tajine en terre, c'est plus long : Taste of Maroc compte environ 1 h de frémissement.",
-   "t": "Готовьте 30 мин под крышкой, затем проверьте: картофель должен стать мягким, а рыба — легко отделяться вилкой. Если нет, продолжайте готовить на слабом огне и часто проверяйте. В глиняном таджине это дольше: Taste of Maroc отводит около 1 ч слабого кипения."
+   "t": "Готовьте 30 мин под крышкой, затем проверьте: картофель должен стать мягким, а рыба — легко отделяться вилкой. Если нет, продолжайте готовить на слабом огне и часто проверяйте. В глиняном таджине блюдо готовится дольше: Taste of Maroc отводит около 1 ч слабого кипения."
   },
   "steps.11.tip": {
    "fr": "Avec un thermomètre, le cœur du poisson doit atteindre 70 °C (Santé Canada).",
@@ -459,8 +431,8 @@
    "t": "My Moroccan Food (Nargisse Benkabbou) и Taste of Maroc (Christine Benlafquih)"
   },
   "secrets.6.text": {
-   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
-   "t": "В Марокко берут плотную толстую рыбу: горбыля, сибаса, дораду или пагеля, морского угря. Подойдут и целые сардины или мерланы. Морской угорь жирный, но в нём мало костей, и при готовке он выделяет воду: с ним можно обойтись без воды."
+   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre peut être gras, mais il a relativement peu d'arêtes à gérer à table, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "t": "В Марокко берут плотную толстую рыбу: горбыля, сибаса, дораду или пагеля, морского угря. Подойдут и целые сардины или мерланы. Морской угорь бывает жирным, но в нём сравнительно мало костей, с которыми приходится возиться за столом, и при готовке он выделяет воду: с ним можно обойтись без воды."
   },
   "secrets.6.source": {
    "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha",
@@ -605,6 +577,34 @@
   "variants.11": {
    "fr": "Chermoula au citron confit, cuite 5 min à feu doux avec herbes, ail, piment doux, cumin, vinaigre et huile ; elle se garde une semaine au frais en bocal fermé (Choumicha).",
    "t": "Чермула с солёным лимоном, которую готовят 5 мин на слабом огне с зеленью, чесноком, сладким перцем, кумином, уксусом и маслом; она хранится неделю в холодильнике в закрытой банке (Choumicha)."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.carottes.pl5": {
+   "fr": "carotte / carottes",
+   "t": "морковей"
+  },
+  "ing.pommes-de-terre.pl5": {
+   "fr": "grosse pomme de terre / grosses pommes de terre",
+   "t": "картофелин крупного размера"
+  },
+  "ing.tomates.pl5": {
+   "fr": "grosse tomate mûre / grosses tomates mûres",
+   "t": "помидоров крупного размера (выбирайте спелые)"
+  },
+  "ing.poivrons.pl5": {
+   "fr": "poivron (vert, rouge ou jaune) / poivrons (verts, rouges ou jaunes)",
+   "t": "стручков сладкого перца (зелёного, красного или жёлтого)"
+  },
+  "ing.piment-vert.pl5": {
+   "fr": "piment vert piquant / piments verts piquants",
+   "t": "стручков острого зелёного перца"
+  },
+  "ing.citron-confit.pl5": {
+   "fr": "citron confit / citrons confits",
+   "t": "шт. солёного лимона"
   }
  }
 }

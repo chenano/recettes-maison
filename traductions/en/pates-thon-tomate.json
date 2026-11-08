@@ -16,7 +16,7 @@
   },
   "occasion": {
    "fr": "Dîner express avec des conserves du placard. En Italie, c'est le plat des étudiants, et autrefois celui des jours sans viande (Dissapore, Il Giornale del Cibo)",
-   "t": "Quick dinner using tins from the cupboard. In Italy, it is the students' dish, and it used to be the dish for meatless days (Dissapore, Il Giornale del Cibo)"
+   "t": "Quick dinner using tins from the cupboard. In Italy, it is the classic student dish, and it used to be the dish for meatless days (Dissapore, Il Giornale del Cibo)"
   },
   "img_alt": {
    "fr": "Spaghetti nappés de sauce tomate au thon",
@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Tout de suite, avec un peu de persil cru sur l'assiette si tu aimes (recette bolognaise, d'après Dissapore et Il Giornale del Cibo). Les restes : dans une boîte hermétique au réfrigérateur, au plus 1 jour (Cookist) ; mets-les au froid dans les 2 heures après la cuisson (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
-   "t": "Straight away, with a little raw parsley on the plate if you like (the Bologna recipe, according to Dissapore and Il Giornale del Cibo). Leftovers: in an airtight container in the fridge, for 1 day at most (Cookist); refrigerate them within 2 hours of cooking (1 hour if it is above 32 °C) and reheat them until the centre reaches 74 °C (FDA, the US health agency; Anses for the 2 hours)."
+   "t": "Straight away, with a little raw parsley on the plate if you like (the Bologna recipe, according to Dissapore and Il Giornale del Cibo). Leftovers: in an airtight container in the fridge, for 1 day at most (Cookist); refrigerate them within 2 hours of cooking (1 hour if the temperature is above 32 °C) and reheat them until the centre reaches 74 °C (FDA, the US health agency; Anses for the 2 hours)."
   },
   "ing.0.group": {
    "fr": "Sauce",
@@ -108,7 +108,7 @@
   },
   "equipment.0": {
    "fr": "Une grande casserole avec son couvercle",
-   "t": "A large saucepan with its lid"
+   "t": "A large saucepan with a lid"
   },
   "equipment.1": {
    "fr": "Une sauteuse ou une grande poêle",
@@ -145,14 +145,6 @@
   "steps.1.text": {
    "fr": "Pèle et émince très finement {{oignon:full}}.",
    "t": "Peel and very thinly slice {{oignon:full}}."
-  },
-  "steps.1.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "Sliced onion and crushed garlic on a board"
-  },
-  "steps.1.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "Slicing the onion"
   },
   "steps.2.title": {
    "fr": "Prépare le thon et les tomates",
@@ -196,7 +188,7 @@
   },
   "steps.7.title": {
    "fr": "Garde un peu d'eau",
-   "t": "Save some water"
+   "t": "Save some pasta water"
   },
   "steps.7.text": {
    "fr": "Juste avant d'égoutter, puise un peu d'{{eau-cuisson}} dans un bol.",

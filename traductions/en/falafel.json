@@ -1,0 +1,622 @@
+{
+ "_slug": "falafel",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Falafels aux pois chiches",
+   "t": "Chickpea falafel"
+  },
+  "tagline": {
+   "fr": "Les boulettes croustillantes des rues du Liban, de Syrie et de Palestine : des pois chiches trempés, jamais cuits, des herbes fraîches et du cumin, dans un pain pita avec la sauce au tahini.",
+   "t": "The crispy street-food balls of Lebanon, Syria and Palestine: soaked chickpeas, never cooked, fresh herbs and cumin, in pitta bread with tahini sauce."
+  },
+  "region": {
+   "fr": "Proche-Orient. Au Liban, en Syrie, en Palestine et en Jordanie, les falafels se font aux pois chiches, ou avec un mélange de pois chiches et de fèves ; en Égypte, la ta'ameya se fait aux fèves (Wikipédia en anglais et en arabe ; Mama's Lebanese Kitchen). Le plat vient très probablement d'Égypte (Wikipédia en français et en anglais ; Taste of Beirut). Ce n'est pas un plat marocain.",
+   "t": "Near East. In Lebanon, Syria, Palestine and Jordan, falafel is made with chickpeas, or with a mix of chickpeas and fava beans; in Egypt, ta'ameya is made with fava beans (English and Arabic Wikipedia; Mama's Lebanese Kitchen). The dish most probably comes from Egypt (French and English Wikipedia; Taste of Beirut). It is not a Moroccan dish."
+  },
+  "occasion": {
+   "fr": "Cuisine de rue au Liban, aussi populaire que le chawarma : chaque quartier de Beyrouth a ses adresses (Taste of Beirut). En mezzé, avec du houmous et du taboulé (The Matbakh ; recettelibanaise.com). Plat sans viande, mangé pendant le carême par les chrétiens arabes, et parfois servi à l'iftar pendant le ramadan (Wikipédia en anglais). En Égypte, la ta'ameya se mange surtout au petit déjeuner (Wikipédia en arabe et en français).",
+   "t": "Street food in Lebanon, as popular as shawarma: every Beirut neighbourhood has its favourite places (Taste of Beirut). As part of a mezze, with hummus and tabbouleh (The Matbakh; recettelibanaise.com). A meatless dish, eaten during Lent by Arab Christians, and sometimes served at iftar during Ramadan (English Wikipedia). In Egypt, ta'ameya is mostly eaten at breakfast (Arabic and French Wikipedia)."
+  },
+  "img_alt": {
+   "fr": "Falafels dorés, alignés",
+   "t": "Golden falafel, lined up in a row"
+  },
+  "serving": {
+   "fr": "Sers les falafels bien chauds (Anissa Helou ; Dima Al Sharif). Au Liban, dans un pain libanais ou un pita, avec la sauce au tahini (tarator), des tomates, du persil et des pickles de concombre et de navet (Mama's Lebanese Kitchen ; Anissa Helou ; recettelibanaise.com ; The Matbakh). Mama's Lebanese Kitchen écrase trois ou quatre falafels le long du pain et ajoute une sauce piquante si on aime ; Samira Kazan (Alphafoodie) en met trois, avec concombre, laitue et oignon. En mezzé, avec du houmous et du taboulé, qui est dans l'application (The Matbakh ; recettelibanaise.com). En Syrie, avec une sauce au yaourt et au tahini ou un houmous, des tomates, des pickles de concombre et de navet et du persil (Wikipédia en arabe) ; cette page ajoute un peu de sumac et de sésame sur les falafels après la friture. Restes : au réfrigérateur dans les 2 heures, à manger dans les 2 jours, et réchauffés une seule fois, jusqu'à être bien chauds à cœur (FSA).",
+   "t": "Serve the falafel piping hot (Anissa Helou; Dima Al Sharif). In Lebanon, in Lebanese bread or a pitta, with tahini sauce (tarator), tomatoes, parsley and cucumber and turnip pickles (Mama's Lebanese Kitchen; Anissa Helou; recettelibanaise.com; The Matbakh). Mama's Lebanese Kitchen crushes three or four falafel along the bread and adds a hot sauce if you like; Samira Kazan (Alphafoodie) uses three, with cucumber, lettuce and onion. As part of a mezze, with hummus and tabbouleh, which is in the app (The Matbakh; recettelibanaise.com). In Syria, with a yoghurt and tahini sauce or hummus, tomatoes, cucumber and turnip pickles and parsley (Arabic Wikipedia); that page adds a little sumac and sesame on the falafel after frying. Leftovers: into the fridge within 2 hours, to be eaten within 2 days, and reheated only once, until piping hot right through (FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Les falafels",
+   "t": "The falafel"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "dried chickpeas"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "ni en conserve, ni cuits",
+   "t": "neither tinned nor cooked"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à éplucher",
+   "t": "to be peeled"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher",
+   "t": "to be peeled"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "sans les grosses tiges",
+   "t": "without the thick stalks"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "fresh coriander"
+  },
+  "ing.coriandre.note": {
+   "fr": "sans les grosses tiges",
+   "t": "without the thick stalks"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin en poudre",
+   "t": "ground cumin"
+  },
+  "ing.coriandre-moulue.name": {
+   "fr": "de coriandre en poudre",
+   "t": "ground coriander"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.piment.name": {
+   "fr": "piment de Cayenne",
+   "t": "cayenne pepper"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif, selon ton goût",
+   "t": "optional, to taste"
+  },
+  "ing.bicarbonate.name": {
+   "fr": "de bicarbonate de soude",
+   "t": "bicarbonate of soda"
+  },
+  "ing.bicarbonate.note": {
+   "fr": "à ajouter juste avant la friture",
+   "t": "to be added just before frying"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "sesame seeds"
+  },
+  "ing.sesame.note": {
+   "fr": "facultatif ; le sésame est un allergène (règlement UE 1169/2011)",
+   "t": "optional; sesame is an allergen (EU Regulation 1169/2011)"
+  },
+  "ing.1.group": {
+   "fr": "Pour la friture",
+   "t": "For frying"
+  },
+  "ing.huile.name": {
+   "fr": "huile de tournesol (ou une autre huile neutre)",
+   "t": "sunflower oil (or another neutral oil)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour que les falafels baignent",
+   "t": "enough for the falafel to be fully immersed"
+  },
+  "ing.2.group": {
+   "fr": "La sauce au tahini (tarator)",
+   "t": "The tahini sauce (tarator)"
+  },
+  "ing.tahini.name": {
+   "fr": "de tahini (crème de sésame)",
+   "t": "tahini (sesame paste)"
+  },
+  "ing.tahini.note": {
+   "fr": "bien remué dans son pot ; allergène : sésame",
+   "t": "stirred well in its jar; allergen: sesame"
+  },
+  "ing.citron-sauce.name": {
+   "fr": "de jus de citron frais",
+   "t": "fresh lemon juice"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "un peu plus si la sauce est trop épaisse",
+   "t": "a little more if the sauce is too thick"
+  },
+  "ing.ail-sauce.name": {
+   "fr": "petite gousse d'ail",
+   "t": "small garlic clove"
+  },
+  "ing.ail-sauce.pl": {
+   "fr": "petites gousses d'ail",
+   "t": "small garlic cloves"
+  },
+  "ing.ail-sauce.note": {
+   "fr": "à écraser",
+   "t": "to be crushed"
+  },
+  "ing.sel-sauce.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel-sauce.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.3.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.pain.name": {
+   "fr": "pain pita (pain libanais)",
+   "t": "pitta bread (Lebanese bread)"
+  },
+  "ing.pain.pl": {
+   "fr": "pains pita (pains libanais)",
+   "t": "pitta breads (Lebanese breads)"
+  },
+  "ing.pain.note": {
+   "fr": "contient du gluten (blé)",
+   "t": "contains gluten (wheat)"
+  },
+  "ing.tomates.name": {
+   "fr": "tomates",
+   "t": "tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "en rondelles",
+   "t": "sliced"
+  },
+  "ing.persil-service.name": {
+   "fr": "persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.persil-service.note": {
+   "fr": "lavé et haché",
+   "t": "washed and chopped"
+  },
+  "ing.cornichons.name": {
+   "fr": "cornichons au sel (ou navets roses marinés)",
+   "t": "brine-pickled cucumbers (or pink pickled turnips)"
+  },
+  "ing.cornichons.note": {
+   "fr": "en tranches",
+   "t": "sliced"
+  },
+  "ing.laitue.name": {
+   "fr": "feuilles de laitue",
+   "t": "lettuce leaves"
+  },
+  "ing.laitue.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier pour le trempage : les pois chiches doublent, voire triplent de volume (Alphafoodie)",
+   "t": "A large bowl for soaking: the chickpeas double or even triple in volume (Alphafoodie)"
+  },
+  "equipment.1": {
+   "fr": "Une passoire et un torchon propre",
+   "t": "A colander and a clean tea towel"
+  },
+  "equipment.2": {
+   "fr": "Un robot mixeur, ou un hachoir à viande avec la grille fine (Anissa Helou ; Taste of Beirut)",
+   "t": "A food processor, or a meat mincer with the fine plate (Anissa Helou; Taste of Beirut)"
+  },
+  "equipment.3": {
+   "fr": "Une friteuse électrique avec thermostat : c'est le plus sûr (London Fire Brigade ; gouvernement du Québec)",
+   "t": "An electric deep fryer with a thermostat: this is the safest option (London Fire Brigade; Quebec government)"
+  },
+  "equipment.4": {
+   "fr": "À défaut : une casserole profonde, remplie au tiers au plus, et un thermomètre de cuisson (London Fire Brigade). Le gouvernement du Québec, lui, déconseille de frire dans une casserole : la friteuse à thermostat reste le meilleur choix",
+   "t": "Failing that: a deep saucepan, filled no more than a third full, and a cooking thermometer (London Fire Brigade). The Quebec government, however, advises against frying in a saucepan: a deep fryer with a thermostat remains the best choice"
+  },
+  "equipment.5": {
+   "fr": "Un couvercle assez grand pour couvrir la friteuse ou la casserole, toujours à portée de main",
+   "t": "A lid big enough to cover the fryer or saucepan, always within reach"
+  },
+  "equipment.6": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "A skimmer and kitchen paper"
+  },
+  "equipment.7": {
+   "fr": "Deux cuillères à soupe, ou un moule à falafels (aaleb)",
+   "t": "Two tablespoons, or a falafel mould (aaleb)"
+  },
+  "equipment.8": {
+   "fr": "Un bol et un fouet pour la sauce",
+   "t": "A bowl and a whisk for the sauce"
+  },
+  "steps.0.title": {
+   "fr": "Fais tremper les pois chiches",
+   "t": "Soak the chickpeas"
+  },
+  "steps.0.text": {
+   "fr": "Trie {{pois-chiches}} de pois chiches secs et retire les petits cailloux, puis rince-les. Mets-les dans un grand saladier et couvre-les largement d'eau froide : ils vont doubler, voire tripler de volume. Laisse-les tremper au moins 12 heures, et jusqu'à 24 heures.",
+   "t": "Sort through {{pois-chiches}} of dried chickpeas and remove any small stones, then rinse them. Put them in a large bowl and cover them generously with cold water: they will double or even triple in volume. Leave them to soak for at least 12 hours, and up to 24 hours."
+  },
+  "steps.0.tip": {
+   "fr": "Ne les fais jamais cuire, et ne prends pas de pois chiches en conserve : trop mous, les falafels se défont dans l'huile (Wikipédia en anglais ; Alphafoodie ; The Matbakh ; The Mediterranean Dish).",
+   "t": "Never cook them, and do not use tinned chickpeas: they are too soft, and the falafel fall apart in the oil (English Wikipedia; Alphafoodie; The Matbakh; The Mediterranean Dish)."
+  },
+  "steps.1.title": {
+   "fr": "Égoutte et sèche les pois chiches",
+   "t": "Drain and dry the chickpeas"
+  },
+  "steps.1.text": {
+   "fr": "Égoutte les pois chiches et rince-les à l'eau fraîche. Étale-les sur un torchon propre et sèche-les bien : la pâte doit être la plus sèche possible.",
+   "t": "Drain the chickpeas and rinse them under cold water. Spread them out on a clean tea towel and dry them well: the mixture must be as dry as possible."
+  },
+  "steps.1.tip": {
+   "fr": "Taste of Beirut, recettelibanaise.com et The Matbakh insistent : les pois chiches doivent être secs. Et l'eau avec l'huile chaude fait un mélange dangereux (London Fire Brigade).",
+   "t": "Taste of Beirut, recettelibanaise.com and The Matbakh insist: the chickpeas must be dry. And water with hot oil makes a dangerous mix (London Fire Brigade)."
+  },
+  "steps.2.title": {
+   "fr": "Lave et sèche les herbes",
+   "t": "Wash and dry the herbs"
+  },
+  "steps.2.text": {
+   "fr": "Lave {{persil}} de persil et {{coriandre}} de coriandre fraîche. Sèche-les bien dans un torchon propre, puis coupe les grosses tiges.",
+   "t": "Wash {{persil}} of parsley and {{coriandre}} of fresh coriander. Dry them well in a clean tea towel, then cut off the thick stalks."
+  },
+  "steps.2.tip": {
+   "fr": "Ce sont les herbes qui rendent l'intérieur vert ; sans herbes, il reste jaune (Alphafoodie ; Wikipédia en anglais).",
+   "t": "The herbs are what make the inside green; without herbs, it stays yellow (Alphafoodie; English Wikipedia)."
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon et l'ail",
+   "t": "Chop the onion and garlic"
+  },
+  "steps.3.text": {
+   "fr": "Épluche et coupe en morceaux {{oignon:full}}. Épluche {{ail:full}}. Mixe l'oignon et l'ail dans le robot jusqu'à ce qu'ils soient hachés fin.",
+   "t": "Peel and cut {{oignon:full}} into pieces. Peel {{ail:full}}. Blitz the onion and garlic in the food processor until finely chopped."
+  },
+  "steps.4.title": {
+   "fr": "Mixe les pois chiches",
+   "t": "Blitz the chickpeas"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute les pois chiches dans le robot. Mixe par à-coups, en raclant les bords de temps en temps, jusqu'à obtenir une pâte fine qui colle un peu. Elle doit rester légèrement granuleuse : pas de purée lisse.",
+   "t": "Add the chickpeas to the food processor. Pulse, scraping down the sides from time to time, until you have a fine mixture that sticks together a little. It should stay slightly grainy: not a smooth purée."
+  },
+  "steps.4.tip": {
+   "fr": "Mama's Lebanese Kitchen mixe les pois chiches jusqu'à ce qu'ils ressemblent à de la chapelure ; Samira Kazan (Alphafoodie) veut une pâte épaisse et un peu granuleuse.",
+   "t": "Mama's Lebanese Kitchen processes the chickpeas until they look like breadcrumbs; Samira Kazan (Alphafoodie) wants a thick, slightly grainy mixture."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les herbes",
+   "t": "Add the herbs"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute le persil et la coriandre. Mixe encore quelques secondes, juste assez pour que la pâte devienne verte.",
+   "t": "Add the parsley and coriander. Blitz for a few more seconds, just long enough for the mixture to turn green."
+  },
+  "steps.6.title": {
+   "fr": "Assaisonne la pâte",
+   "t": "Season the mixture"
+  },
+  "steps.6.text": {
+   "fr": "Verse la pâte dans un saladier. Ajoute {{cumin}} de cumin, {{coriandre-moulue}} de coriandre en poudre, {{poivre}} de poivre, {{sel}} de sel et, si tu aimes, un peu de {{piment}}. Mélange bien avec une cuillère.",
+   "t": "Tip the mixture into a bowl. Add {{cumin}} of cumin, {{coriandre-moulue}} of ground coriander, {{poivre}} of pepper, {{sel}} of salt and, if you like, a little {{piment}}. Mix well with a spoon."
+  },
+  "steps.7.title": {
+   "fr": "Laisse reposer au frais",
+   "t": "Leave to rest in the fridge"
+  },
+  "steps.7.text": {
+   "fr": "Couvre le saladier et mets-le au réfrigérateur au moins 30 minutes. La pâte va raffermir : elle sera plus facile à façonner.",
+   "t": "Cover the bowl and put it in the fridge for at least 30 minutes. The mixture will firm up and be easier to shape."
+  },
+  "steps.7.tip": {
+   "fr": "Samira Kazan (Alphafoodie) et Anissa Helou la laissent 30 minutes au frais ; The Matbakh et recettelibanaise.com, 1 heure.",
+   "t": "Samira Kazan (Alphafoodie) and Anissa Helou chill it for 30 minutes; The Matbakh and recettelibanaise.com, for 1 hour."
+  },
+  "steps.7.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Mixture resting"
+  },
+  "steps.7.timer.done": {
+   "fr": "La pâte est prête. Chauffe l'huile.",
+   "t": "The mixture is ready. Heat the oil."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la sauce au tahini",
+   "t": "Make the tahini sauce"
+  },
+  "steps.8.text": {
+   "fr": "Pendant le repos, écrase {{ail-sauce:full}} avec un peu de {{sel-sauce}}. Remue bien le tahini dans son pot, puis verse {{tahini}} de tahini dans un bol. Ajoute l'ail écrasé, {{citron-sauce}} de jus de citron et {{eau}} d'eau, en fouettant. La sauce épaissit d'abord : continue de fouetter, elle redevient lisse. Elle doit être crémeuse ; ajoute un peu d'eau si elle est trop épaisse, et sale à ton goût.",
+   "t": "While it rests, crush {{ail-sauce:full}} with a little {{sel-sauce}}. Stir the tahini well in its jar, then pour {{tahini}} of tahini into a bowl. Add the crushed garlic, {{citron-sauce}} of lemon juice and {{eau}} of water, whisking. The sauce thickens at first: keep whisking and it becomes smooth again. It should be creamy; add a little water if it is too thick, and salt to taste."
+  },
+  "steps.8.tip": {
+   "fr": "Hadia la garde au réfrigérateur dans un bocal en verre bien propre, et la remue avant de servir.",
+   "t": "Hadia keeps it in the fridge in a very clean glass jar, and stirs it before serving."
+  },
+  "steps.9.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "Heat the oil to 180 °C"
+  },
+  "steps.9.text": {
+   "fr": "Remplis la friteuse d'{{huile}} comme l'indique sa notice et règle-la sur 180 °C. Sans friteuse, prends une casserole profonde : remplis-la au tiers au plus et vérifie la température avec un thermomètre de cuisson. Garde un couvercle à portée de main. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "Fill the deep fryer with {{huile}} as its instructions say and set it to 180 °C. Without a deep fryer, use a deep saucepan: fill it no more than a third full and check the temperature with a cooking thermometer. Keep a lid within reach. From now on, never take your eyes off the oil."
+  },
+  "steps.9.tip": {
+   "fr": "Sans thermomètre : plonge un petit morceau de pain dans l'huile ; s'il grésille et que l'huile bouillonne autour, elle est prête (Anissa Helou ; Taste of Beirut). Si l'huile fume, elle est trop chaude : coupe le feu et laisse-la refroidir (London Fire Brigade). Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le feu et pose sur le récipient un couvercle de la bonne taille (gouvernement du Québec). Puis sors de la pièce, ferme la porte et appelle les pompiers, même si le feu semble éteint (London Fire Brigade ; gouvernement du Québec).",
+   "t": "Without a thermometer: dip a small piece of bread into the oil; if it sizzles and the oil bubbles around it, the oil is ready (Anissa Helou; Taste of Beirut). If the oil smokes, it is too hot: turn off the heat and let it cool (London Fire Brigade). If the oil catches fire: never use water, and do not move the pan. If you can do it safely, turn off the heat and put a lid of the right size on the pan (Quebec government). Then leave the room, close the door and call the fire brigade, even if the fire seems to be out (London Fire Brigade; Quebec government)."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute le bicarbonate",
+   "t": "Add the bicarbonate of soda"
+  },
+  "steps.10.text": {
+   "fr": "Sors la pâte du réfrigérateur. Juste avant de façonner les falafels, ajoute {{bicarbonate}} de bicarbonate et mélange bien.",
+   "t": "Take the mixture out of the fridge. Just before shaping the falafel, add {{bicarbonate}} of bicarbonate of soda and mix well."
+  },
+  "steps.10.tip": {
+   "fr": "Ajouté au dernier moment, le bicarbonate rend les falafels plus légers (Alphafoodie ; Taste of Beirut). Mama's Lebanese Kitchen, Anissa Helou et recettelibanaise.com l'ajoutent aussi juste avant la friture.",
+   "t": "Added at the last moment, the bicarbonate of soda makes the falafel lighter (Alphafoodie; Taste of Beirut). Mama's Lebanese Kitchen, Anissa Helou and recettelibanaise.com also add it just before frying."
+  },
+  "steps.11.title": {
+   "fr": "Façonne les falafels",
+   "t": "Shape the falafel"
+  },
+  "steps.11.text": {
+   "fr": "Prends une cuillère à soupe bien pleine de pâte et forme une boulette ou un petit palet : à la main, avec deux cuillères, ou avec un moule à falafels. Si tu veux, parsème-les de {{sesame}} de graines de sésame.",
+   "t": "Take a heaped tablespoon of mixture and shape it into a ball or a small patty: by hand, with two spoons, or with a falafel mould. If you like, sprinkle them with {{sesame}} of sesame seeds."
+  },
+  "steps.11.tip": {
+   "fr": "Le moule à falafels s'appelle « aaleb » ; on le trouve dans les épiceries orientales (Taste of Beirut ; Wikipédia en anglais). Si la pâte est trop collante, Mama's Lebanese Kitchen ajoute un peu de farine.",
+   "t": "The falafel mould is called an “aaleb”; you can find it in Middle Eastern grocery shops (Taste of Beirut; English Wikipedia). If the mixture is too sticky, Mama's Lebanese Kitchen adds a little plain flour."
+  },
+  "steps.12.title": {
+   "fr": "Fais frire",
+   "t": "Fry the falafel"
+  },
+  "steps.12.text": {
+   "fr": "Glisse doucement quelques falafels dans l'huile chaude, sans trop en mettre à la fois. Fais-les frire environ 4 minutes, en les retournant, jusqu'à ce qu'ils soient bien dorés et croustillants.",
+   "t": "Gently slide a few falafel into the hot oil, without adding too many at once. Fry them for about 4 minutes, turning them, until nicely golden and crisp."
+  },
+  "steps.12.tip": {
+   "fr": "recettelibanaise.com les sort quand ils remontent à la surface. Une huile trop chaude les brûle (Alphafoodie).",
+   "t": "recettelibanaise.com takes them out when they rise to the surface. Oil that is too hot burns them (Alphafoodie)."
+  },
+  "steps.12.timer.label": {
+   "fr": "Friture des falafels",
+   "t": "Frying the falafel"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bien dorés ? Sors-les. Sinon, laisse-les encore un peu.",
+   "t": "Nicely golden? Take them out. If not, leave them a little longer."
+  },
+  "steps.12.img.alt": {
+   "fr": "Falafels qui frient dans une grande poêle d'huile, à Alep (Syrie)",
+   "t": "Falafel frying in a large pan of oil, in Aleppo (Syria)"
+  },
+  "steps.12.img.caption": {
+   "fr": "La friture des falafels",
+   "t": "Frying falafel"
+  },
+  "steps.13.title": {
+   "fr": "Égoutte et continue",
+   "t": "Drain and carry on"
+  },
+  "steps.13.text": {
+   "fr": "Sors les falafels avec une écumoire et pose-les sur du papier absorbant. Fais cuire le reste de la pâte de la même façon, par petites fournées. À la fin, éteins la friteuse.",
+   "t": "Lift the falafel out with a skimmer and put them on kitchen paper. Cook the rest of the mixture in the same way, in small batches. When you have finished, turn off the deep fryer."
+  },
+  "steps.14.title": {
+   "fr": "Garnis les pains et sers",
+   "t": "Fill the breads and serve"
+  },
+  "steps.14.text": {
+   "fr": "Ouvre {{pain:full}}. Dans chaque pain, écrase légèrement trois ou quatre falafels chauds. Ajoute de la sauce au tahini, des {{tomates}}, du {{persil-service}}, des {{cornichons}} et, si tu veux, quelques {{laitue}}. Roule et sers tout de suite.",
+   "t": "Open {{pain:full}}. In each bread, lightly crush three or four hot falafel. Add tahini sauce, {{tomates}}, {{persil-service}}, {{cornichons}} and, if you like, a few {{laitue}}. Roll up and serve straight away."
+  },
+  "steps.14.tip": {
+   "fr": "Restes : au réfrigérateur dans les 2 heures, à manger dans les 2 jours. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient bien chauds à cœur (FSA).",
+   "t": "Leftovers: into the fridge within 2 hours, to be eaten within 2 days. Reheat them only once, until piping hot right through (FSA)."
+  },
+  "secrets.0.text": {
+   "fr": "Des pois chiches secs, trempés, jamais cuits : cuits ou en conserve, ils font une pâte trop molle et les falafels se défont dans l'huile.",
+   "t": "Dried chickpeas, soaked, never cooked: cooked or tinned, they make a mixture that is too soft, and the falafel fall apart in the oil."
+  },
+  "secrets.0.source": {
+   "fr": "Wikipédia en anglais ; Alphafoodie (Samira Kazan) ; The Matbakh",
+   "t": "English Wikipedia; Alphafoodie (Samira Kazan); The Matbakh"
+  },
+  "secrets.1.text": {
+   "fr": "Un long trempage : au moins 12 heures, jusqu'à 24 heures, dans beaucoup d'eau froide.",
+   "t": "A long soak: at least 12 hours, up to 24 hours, in plenty of cold water."
+  },
+  "secrets.1.source": {
+   "fr": "Alphafoodie ; Taste of Beirut ; recettelibanaise.com ; Mama's Lebanese Kitchen ; Gulf News (cheffe Salam Dakkak)",
+   "t": "Alphafoodie; Taste of Beirut; recettelibanaise.com; Mama's Lebanese Kitchen; Gulf News (chef Salam Dakkak)"
+  },
+  "secrets.2.text": {
+   "fr": "Sèche bien les pois chiches et les herbes : une pâte mouillée se tient mal.",
+   "t": "Dry the chickpeas and herbs well: a wet mixture does not hold together well."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Beirut ; recettelibanaise.com ; The Matbakh ; Mama's Lebanese Kitchen (herbes égouttées)",
+   "t": "Taste of Beirut; recettelibanaise.com; The Matbakh; Mama's Lebanese Kitchen (drained herbs)"
+  },
+  "secrets.3.text": {
+   "fr": "Le bicarbonate s'ajoute à la toute fin, juste avant de façonner : il rend les falafels légers.",
+   "t": "The bicarbonate of soda goes in at the very end, just before shaping: it makes the falafel light."
+  },
+  "secrets.3.source": {
+   "fr": "Alphafoodie ; Taste of Beirut ; Mama's Lebanese Kitchen ; Anissa Helou ; recettelibanaise.com",
+   "t": "Alphafoodie; Taste of Beirut; Mama's Lebanese Kitchen; Anissa Helou; recettelibanaise.com"
+  },
+  "secrets.4.text": {
+   "fr": "Un repos au frais raffermit la pâte : elle se façonne mieux.",
+   "t": "Resting in the fridge firms up the mixture: it is easier to shape."
+  },
+  "secrets.4.source": {
+   "fr": "Alphafoodie ; Anissa Helou ; The Matbakh ; recettelibanaise.com",
+   "t": "Alphafoodie; Anissa Helou; The Matbakh; recettelibanaise.com"
+  },
+  "secrets.5.text": {
+   "fr": "Une huile à 180 °C. Sans thermomètre, un petit morceau de pain doit y grésiller, entouré de bulles.",
+   "t": "Oil at 180 °C. Without a thermometer, a small piece of bread should sizzle in it, surrounded by bubbles."
+  },
+  "secrets.5.source": {
+   "fr": "Alphafoodie (180 °C) ; Anissa Helou et Taste of Beirut (test du pain)",
+   "t": "Alphafoodie (180 °C); Anissa Helou and Taste of Beirut (bread test)"
+  },
+  "secrets.6.text": {
+   "fr": "Peu de falafels à la fois dans l'huile, pour qu'ils dorent bien.",
+   "t": "Only a few falafel in the oil at a time, so that they brown well."
+  },
+  "secrets.6.source": {
+   "fr": "Alphafoodie ; Anissa Helou",
+   "t": "Alphafoodie; Anissa Helou"
+  },
+  "secrets.7.text": {
+   "fr": "Le moule à falafels (aaleb) donne des falafels réguliers ; deux cuillères ou les mains marchent aussi.",
+   "t": "The falafel mould (aaleb) makes evenly shaped falafel; two spoons or your hands work too."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Beirut ; Mama's Lebanese Kitchen ; Anissa Helou ; Wikipédia en anglais",
+   "t": "Taste of Beirut; Mama's Lebanese Kitchen; Anissa Helou; English Wikipedia"
+  },
+  "secrets.8.text": {
+   "fr": "Des graines de sésame sur les falafels avant la friture, pour le croquant : c'est facultatif.",
+   "t": "Sesame seeds on the falafel before frying, for crunch: this is optional."
+  },
+  "secrets.8.source": {
+   "fr": "Alphafoodie ; The Matbakh ; Taste of Beirut",
+   "t": "Alphafoodie; The Matbakh; Taste of Beirut"
+  },
+  "secrets.9.text": {
+   "fr": "Au Liban, les falafels sont toujours arrosés de tarator, la sauce au tahini.",
+   "t": "In Lebanon, falafel are always drizzled with tarator, the tahini sauce."
+  },
+  "secrets.9.source": {
+   "fr": "The Matbakh ; Hadia's Lebanese Cuisine",
+   "t": "The Matbakh; Hadia's Lebanese Cuisine"
+  },
+  "secrets.10.text": {
+   "fr": "Quand on ajoute le citron et l'eau, le tahini épaissit d'abord, puis redevient lisse : continue de fouetter.",
+   "t": "When you add the lemon juice and water, the tahini thickens at first, then becomes smooth again: keep whisking."
+  },
+  "secrets.10.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Anissa Helou",
+   "t": "Hadia's Lebanese Cuisine; Anissa Helou"
+  },
+  "secrets.11.text": {
+   "fr": "Tu peux congeler la pâte crue, sans le bicarbonate. Fais-la décongeler au réfrigérateur, puis ajoute le bicarbonate juste avant la friture.",
+   "t": "You can freeze the raw mixture, without the bicarbonate of soda. Thaw it in the fridge, then add the bicarbonate of soda just before frying."
+  },
+  "secrets.11.source": {
+   "fr": "Mama's Lebanese Kitchen (congélation) ; Alphafoodie (décongélation au réfrigérateur) ; The Matbakh (bicarbonate après décongélation)",
+   "t": "Mama's Lebanese Kitchen (freezing); Alphafoodie (thawing in the fridge); The Matbakh (bicarbonate after thawing)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre des pois chiches en conserve ou cuits : la pâte se défait dans l'huile (Wikipédia en anglais ; Alphafoodie ; The Matbakh).",
+   "t": "Using tinned or cooked chickpeas: the mixture falls apart in the oil (English Wikipedia; Alphafoodie; The Matbakh)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre des pois chiches ou des herbes encore mouillés : la pâte est trop molle (Taste of Beirut ; recettelibanaise.com), et l'eau fait un mélange dangereux avec l'huile chaude (London Fire Brigade).",
+   "t": "Using chickpeas or herbs that are still wet: the mixture is too soft (Taste of Beirut; recettelibanaise.com), and water makes a dangerous mix with hot oil (London Fire Brigade)."
+  },
+  "mistakes.2": {
+   "fr": "Mixer jusqu'à obtenir une purée lisse : Mama's Lebanese Kitchen et Alphafoodie gardent une pâte un peu granuleuse.",
+   "t": "Blending to a smooth purée: Mama's Lebanese Kitchen and Alphafoodie keep the mixture slightly grainy."
+  },
+  "mistakes.3": {
+   "fr": "Ajouter le bicarbonate trop tôt : il marche mieux à la dernière minute (Alphafoodie).",
+   "t": "Adding the bicarbonate of soda too early: it works best at the last minute (Alphafoodie)."
+  },
+  "mistakes.4": {
+   "fr": "Mettre trop de falafels à la fois dans l'huile (Alphafoodie ; Anissa Helou).",
+   "t": "Putting too many falafel in the oil at once (Alphafoodie; Anissa Helou)."
+  },
+  "mistakes.5": {
+   "fr": "Faire chauffer l'huile trop fort : les falafels brûlent (Alphafoodie). Si l'huile fume, coupe le feu (London Fire Brigade ; gouvernement du Québec).",
+   "t": "Heating the oil too much: the falafel burn (Alphafoodie). If the oil smokes, turn off the heat (London Fire Brigade; Quebec government)."
+  },
+  "mistakes.6": {
+   "fr": "Sortir les falafels avant qu'ils soient bien dorés : la pâte est faite de pois chiches crus, seulement trempés (Wikipédia en anglais). La FSA britannique rappelle que les haricots crus ou pas assez cuits peuvent être à risque, surtout les haricots rouges.",
+   "t": "Taking the falafel out before they are nicely golden: the mixture is made of raw chickpeas, only soaked (English Wikipedia). The British FSA points out that raw or undercooked beans can be risky, especially red kidney beans."
+  },
+  "mistakes.7": {
+   "fr": "Remplir une casserole d'huile à plus d'un tiers (London Fire Brigade).",
+   "t": "Filling a saucepan more than a third full of oil (London Fire Brigade)."
+  },
+  "mistakes.8": {
+   "fr": "Laisser l'huile chaude sans surveillance (gouvernement du Québec).",
+   "t": "Leaving hot oil unattended (Quebec government)."
+  },
+  "mistakes.9": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer le récipient en flammes (gouvernement du Québec ; London Fire Brigade).",
+   "t": "Throwing water on an oil fire, or moving the burning pan (Quebec government; London Fire Brigade)."
+  },
+  "variants.0": {
+   "fr": "Façon libanaise, avec un mélange de pois chiches et de fèves sèches décortiquées (Wikipédia en arabe) : moitié-moitié chez recettelibanaise.com et The Matbakh ; plus de fèves que de pois chiches chez Mama's Lebanese Kitchen (qui les fait tremper séparément), Anissa Helou et Taste of Beirut (d'après May Bsisu).",
+   "t": "Lebanese style, with a mix of chickpeas and dried, skinned fava beans (Arabic Wikipedia): half and half for recettelibanaise.com and The Matbakh; more fava beans than chickpeas for Mama's Lebanese Kitchen (which soaks them separately), Anissa Helou and Taste of Beirut (citing May Bsisu)."
+  },
+  "variants.1": {
+   "fr": "Ta'ameya égyptienne : seulement des fèves sèches décortiquées et concassées, trempées une journée entière, mixées avec beaucoup de verdure (poireau, persil, coriandre), de l'oignon, de l'ail, du piment, du cumin et de la coriandre en poudre (Sada El Balad, recette du chef Nehad El Gendy ; Wikipédia en anglais ; Mama's Lebanese Kitchen). En Égypte, on la mange au petit déjeuner, avec le foul (Wikipédia en arabe). Attention : les personnes qui ont un déficit en G6PD (favisme) doivent éviter les fèves, même cuites (Singapore Food Agency).",
+   "t": "Egyptian ta'ameya: only dried fava beans, skinned and crushed, soaked for a whole day, blended with plenty of greens (leek, parsley, coriander), onion, garlic, chilli, cumin and ground coriander (Sada El Balad, recipe by chef Nehad El Gendy; English Wikipedia; Mama's Lebanese Kitchen). In Egypt, it is eaten at breakfast, with foul (Arabic Wikipedia). Warning: people with G6PD deficiency (favism) must avoid fava beans, even cooked (Singapore Food Agency)."
+  },
+  "variants.2": {
+   "fr": "Façon syrienne : aux pois chiches seuls, avec un peu de sumac et de sésame sur les falafels après la friture (Wikipédia en arabe).",
+   "t": "Syrian style: with chickpeas only, and a little sumac and sesame on the falafel after frying (Arabic Wikipedia)."
+  },
+  "variants.3": {
+   "fr": "Avec de la menthe fraîche (recettelibanaise.com ; Dima Al Sharif), ou avec du poivron vert et un piment vert (Dima Al Sharif, cuisine palestinienne).",
+   "t": "With fresh mint (recettelibanaise.com; Dima Al Sharif), or with green pepper and a green chilli (Dima Al Sharif, Palestinian cooking)."
+  },
+  "variants.4": {
+   "fr": "Avec un peu de levure chimique en plus du bicarbonate (Taste of Beirut ; recettelibanaise.com ; Dima Al Sharif).",
+   "t": "With a little baking powder as well as the bicarbonate of soda (Taste of Beirut; recettelibanaise.com; Dima Al Sharif)."
+  },
+  "variants.5": {
+   "fr": "Avec du piment de la Jamaïque (Anissa Helou ; Taste of Beirut ; The Matbakh).",
+   "t": "With allspice (Anissa Helou; Taste of Beirut; The Matbakh)."
+  },
+  "variants.6": {
+   "fr": "Avec un peu de bicarbonate dans l'eau de trempage (Anissa Helou ; Wikipédia en anglais).",
+   "t": "With a little bicarbonate of soda in the soaking water (Anissa Helou; English Wikipedia)."
+  },
+  "variants.7": {
+   "fr": "Falafels farcis d'oignon et de sumac, une façon palestinienne (Wikipédia en anglais).",
+   "t": "Falafel stuffed with onion and sumac, a Palestinian way (English Wikipedia)."
+  },
+  "variants.8": {
+   "fr": "Au four : plus légers, mais moins croustillants (recettelibanaise.com). Mama's Lebanese Kitchen les cuit sur une plaque légèrement huilée, 7 à 10 minutes à 204 °C (400 °F). The Matbakh les arrose d'un filet d'huile et les cuit 4 à 5 minutes à 232 °C (450 °F), en bas du four.",
+   "t": "In the oven: lighter, but less crisp (recettelibanaise.com). Mama's Lebanese Kitchen bakes them on a lightly oiled baking tray, 7 to 10 minutes at 204 °C (400 °F). The Matbakh drizzles them with a little oil and bakes them for 4 to 5 minutes at 232 °C (450 °F), at the bottom of the oven."
+  }
+ }
+}

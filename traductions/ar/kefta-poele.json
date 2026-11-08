@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Sers la kefta bien chaude, dès la sortie de la poêle (Cooking With Alia ; Choumicha). Au Maroc, on la mange avec du pain (Choumicha ; Cooking With Alia), du thé à la menthe (Choumicha ; Cooking With Alia ; My Moroccan Food) et une salade fraîche : tomates et concombre coupés tout petits (Cooking With Alia ; My Moroccan Food, pour qui c'est la salade la plus courante à côté des grillades), ou tomates, oignon et poivron vert (Choumicha). Lalla Moulati en fait aussi des sandwichs avec de la laitue. Restes : au frigo dans les 2 heures, et à manger dans les 2 jours ; réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
-   "t": "قدّم الكفتة ساخنة جدًا، فور إخراجها من المقلاة (Cooking With Alia؛ Choumicha). في المغرب، تؤكل مع الخبز (Choumicha؛ Cooking With Alia)، والشاي بالنعناع (Choumicha؛ Cooking With Alia؛ My Moroccan Food)، وسلطة طازجة: طماطم وخيار مقطّعان قطعًا صغيرة جدًا (Cooking With Alia؛ My Moroccan Food، الذي يرى أنها السلطة الأكثر شيوعًا مع المشويات)، أو طماطم وبصل وفلفل حلو أخضر (Choumicha). وتحضّر منها Lalla Moulati أيضًا سندويتشات بالخس. البقايا: تُوضع في الثلاجة خلال 2 ساعة، وتؤكل خلال 2 يوم؛ سخّنها مرة واحدة فقط، حتى تصبح ساخنة جدًا في وسطها (FSA). يجب أن تكون حرارة ثلاجتك 4 درجات مئوية في أبرد جزء منها (Anses)."
+   "t": "قدّم الكفتة ساخنة جدًا، فور إخراجها من المقلاة (Cooking With Alia؛ Choumicha). في المغرب، تؤكل مع الخبز (Choumicha؛ Cooking With Alia)، والشاي بالنعناع (Choumicha؛ Cooking With Alia؛ My Moroccan Food)، وسلطة طازجة: طماطم وخيار مقطّعان قطعًا صغيرة جدًا (Cooking With Alia؛ My Moroccan Food، الذي يرى أنها السلطة الأكثر شيوعًا مع المشويات)، أو طماطم وبصل وفلفل حلو أخضر (Choumicha). وتحضّر منها Lalla Moulati أيضًا سندويتشات بالخس. البقايا: تُوضع في الثلاجة خلال ساعتين، وتؤكل خلال يومين؛ سخّنها مرة واحدة فقط، حتى تصبح ساخنة جدًا في وسطها (FSA). يجب أن تكون حرارة ثلاجتك 4 درجات مئوية في أبرد جزء منها (Anses)."
   },
   "ing.0.group": {
    "fr": "La kefta",
@@ -240,7 +240,7 @@
   },
   "steps.8.tip": {
    "fr": "La FSA précise : 70 °C au cœur pendant 2 minutes, ou 75 °C pendant 30 secondes. Ensuite, retire la kefta : trop cuite, elle devient sèche (Cooking With Alia).",
-   "t": "توضّح FSA: حرارة 70 درجة مئوية في الوسط لمدة 2 دقيقة، أو 75 درجة مئوية لمدة 30 ثانية. بعد ذلك، أخرج الكفتة: فإذا أفرطت في طهيها صارت جافة (Cooking With Alia)."
+   "t": "توضّح FSA: حرارة 70 درجة مئوية في الوسط لمدة دقيقتين، أو 75 درجة مئوية لمدة 30 ثانية. بعد ذلك، أخرج الكفتة: فإذا أفرطت في طهيها صارت جافة (Cooking With Alia)."
   },
   "steps.9.title": {
    "fr": "Change d'assiette",
@@ -332,7 +332,7 @@
   },
   "secrets.8.source": {
    "fr": "FSA (Royaume-Uni), « Cooking your food » (70 °C pendant 2 minutes, sonde à laver) ; Anses, article sur les E. coli (2022)",
-   "t": "FSA (المملكة المتحدة)، «Cooking your food» (حرارة 70 درجة مئوية لمدة 2 دقيقة، ويُغسل المسبار)؛ Anses، مقال عن بكتيريا E. coli (سنة 2022)"
+   "t": "FSA (المملكة المتحدة)، «Cooking your food» (حرارة 70 درجة مئوية لمدة دقيقتين، ويُغسل المسبار)؛ Anses، مقال عن بكتيريا E. coli (سنة 2022)"
   },
   "secrets.9.text": {
    "fr": "Les recettes de kefta de Choumicha, de Cooking With Alia et de My Moroccan Food n'ont ni œuf ni chapelure.",
@@ -380,7 +380,7 @@
   },
   "mistakes.7": {
    "fr": "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
-   "t": "ترك البقايا أكثر من 2 ساعة في درجة حرارة الغرفة قبل وضعها في الثلاجة (Anses؛ FSA)."
+   "t": "ترك البقايا أكثر من ساعتين في درجة حرارة الغرفة قبل وضعها في الثلاجة (Anses؛ FSA)."
   },
   "mistakes.8": {
    "fr": "Ranger la viande hachée crue en haut du frigo : mets-la en bas, dans son emballage ou une boîte fermée, pour qu'elle ne coule pas sur le reste (FSA).",
@@ -407,7 +407,7 @@
    "t": "بالثوم (Choumicha، رقم 943؛ Bladi.net)."
   },
   "variants.5": {
-   "fr": "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+   "fr": "Version de Bladi.net : agneau, ail, ras el hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
    "t": "نسخة Bladi.net: لحم خروف وثوم ورأس الحانوت وبيضة، على شكل كويرات في أسياخ، تحت شواية الفرن، 6 دقائق لكل جهة."
   },
   "variants.6": {
@@ -428,7 +428,7 @@
   },
   "variants.10": {
    "fr": "Version libanaise (kafta) : bœuf, oignon, persil et sept-épices ; Hadia la sert avec du taboulé et du houmous (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
-   "t": "النسخة اللبنانية: لحم بقر وبصل وبقدونس وبهارات سبعة؛ وتقدّمها Hadia مع التبولة والحمص بالطحينة (Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine)."
+   "t": "النسخة اللبنانية: لحم بقر وبصل وبقدونس وسبع بهارات؛ وتقدّمها Hadia مع التبولة والحمص بالطحينة (Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine)."
   }
  }
 }

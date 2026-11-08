@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Tout de suite, roulée et lustrée au beurre (Escoffier, Chef Simon), avec une salade verte si tu veux, comme le permet l'usage cité par Wikipédia. S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la dans les 3 à 4 jours et réchauffe-la à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
-   "t": "فورًا، ملفوفة ولامعة بالزبدة (Escoffier، Chef Simon)، مع سلطة خضراء إن شئت، كما تسمح به العادة التي تذكرها Wikipédia. وإذا بقي منها شيء، فضعه في الثلاجة خلال 2 ساعة (1 ساعة إذا تجاوزت الحرارة 32 درجة مئوية)، وكُله خلال 3 إلى 4 أيام، وسخّنه حتى وسطه، إلى 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية)."
+   "t": "فورًا، ملفوفة ولامعة بالزبدة (Escoffier، Chef Simon)، مع سلطة خضراء إن شئت، كما تسمح به العادة التي تذكرها Wikipédia. وإذا بقي منها شيء، فضعه في الثلاجة خلال ساعتين (ساعة واحدة إذا تجاوزت الحرارة 32 درجة مئوية)، وكُله خلال 3 إلى 4 أيام، وسخّنه حتى وسطه، إلى 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية)."
   },
   "ing.0.group": {
    "fr": "Omelette",
@@ -129,14 +129,6 @@
   "steps.0.tip": {
    "fr": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon).",
    "t": "قطّعها تقطيعًا دقيقًا ولا تفرمها: فالأعشاب المفرومة تعطي العجة «طعم العشب» (Chef Simon)."
-  },
-  "steps.0.img.alt": {
-   "fr": "Persil haché au couteau sur une planche",
-   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
-  },
-  "steps.0.img.caption": {
-   "fr": "Hacher les herbes",
-   "t": "فرم الأعشاب"
   },
   "steps.1.title": {
    "fr": "Casse les œufs",

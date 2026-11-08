@@ -1,0 +1,542 @@
+{
+ "_slug": "mrouzia",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Mrouzia : agneau confit au miel, aux raisins secs et aux amandes",
+   "t": "Мрузия: томлёная баранина с мёдом, изюмом и миндалём"
+  },
+  "darija": {
+   "fr": "Mrouzia",
+   "t": "Мрузия"
+  },
+  "tagline": {
+   "fr": "L'agneau de l'Aïd, mariné au ras el hanout et confit doucement au smen, puis glacé au miel avec des raisins secs, sous des amandes frites.",
+   "t": "Баранина к Курбан-байраму, замаринованная с рас-эль-ханутом и медленно томлённая в смене, затем глазированная мёдом с изюмом, под жареным миндалём."
+  },
+  "region": {
+   "fr": "Maroc, dans presque toutes les régions (variantes à Essaouira, Fès, Rabat, Qasbat Tadla et dans le Rif)",
+   "t": "Марокко, почти все регионы (варианты в Эс-Сувейре, Фесе, Рабате, Касба-Тадле и в Рифе)"
+  },
+  "occasion": {
+   "fr": "Aïd al-Adha (Aïd el-Kébir), surtout les jours qui suivent le sacrifice",
+   "t": "Курбан-байрам (Ид эль-Кебир), особенно в дни после жертвоприношения"
+  },
+  "img_alt": {
+   "fr": "Mrouzia en gros plan : agneau au miel, raisins secs et amandes (photo prise au Maroc)",
+   "t": "Мрузия крупным планом: баранина с мёдом, изюмом и миндалём (фото сделано в Марокко)"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, dans un plat creux réchauffé : la viande au centre, les raisins dessus, la sauce par-dessus, puis les amandes frites et, si tu veux, le sésame (Taste of Maroc ; Cooking with Alia ; MWN Lifestyle). Avec du pain pour saucer (Cooking with Alia ; MWN Lifestyle). Ce n'est souvent pas le premier repas de l'Aïd, mais un plat des jours suivants (MWN Lifestyle) ; autrefois, on en réchauffait une part à chaque visite de la famille ou des voisins (Taste of Maroc). Restes : au réfrigérateur dans les 2 heures, 2 jours au plus, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses).",
+   "t": "Подавайте мрузию очень горячей, в подогретом глубоком блюде: мясо в центре, на него изюм, сверху соус, затем жареный миндаль и, по желанию, кунжут (Taste of Maroc; Cooking with Alia; MWN Lifestyle). С хлебом, чтобы макать в соус (Cooking with Alia; MWN Lifestyle). Часто это не первая трапеза Курбан-байрама, а блюдо следующих дней (MWN Lifestyle); раньше порцию разогревали при каждом визите родных или соседей (Taste of Maroc). Остатки: в холодильник не позднее чем через 2 часа, хранить не более 2 дней, разогреть только один раз, до обжигающе горячего состояния (FSA; Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Marinade",
+   "t": "Маринад"
+  },
+  "ing.ras-el-hanout.name": {
+   "fr": "de ras el hanout",
+   "t": "рас-эль-ханута"
+  },
+  "ing.ras-el-hanout.note": {
+   "fr": "frais, acheté chez un épicier de confiance",
+   "t": "свежий, купленный у надёжного продавца специй"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "в конце поправить по вкусу"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "нитей шафрана"
+  },
+  "ing.eau-marinade.name": {
+   "fr": "un peu d'eau",
+   "t": "немного воды"
+  },
+  "ing.eau-marinade.note": {
+   "fr": "juste de quoi délayer les épices",
+   "t": "ровно столько, чтобы развести специи"
+  },
+  "ing.1.group": {
+   "fr": "Viande et sauce",
+   "t": "Мясо и соус"
+  },
+  "ing.agneau.name": {
+   "fr": "d'agneau halal avec os (collier, épaule ou souris)",
+   "t": "баранины халяль на кости (шея, лопатка или голяшка)"
+  },
+  "ing.agneau.note": {
+   "fr": "en gros morceaux",
+   "t": "крупными кусками"
+  },
+  "ing.oignons.name": {
+   "fr": "gros oignon",
+   "t": "луковица крупного размера"
+  },
+  "ing.oignons.pl": {
+   "fr": "gros oignons",
+   "t": "луковицы крупного размера"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive, ou moitié olive, moitié huile neutre",
+   "t": "оливкового масла или наполовину оливкового, наполовину растительного"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "смена (марокканского выдержанного солёного масла)"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "палочка корицы"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "палочки корицы"
+  },
+  "ing.cannelle-baton.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau chaude",
+   "t": "горячей воды"
+  },
+  "ing.eau.note": {
+   "fr": "et un peu plus si la sauce attache",
+   "t": "и ещё немного, если соус начнёт пригорать"
+  },
+  "ing.2.group": {
+   "fr": "Raisins au miel",
+   "t": "Изюм в мёде"
+  },
+  "ing.raisins.name": {
+   "fr": "de raisins secs",
+   "t": "изюма"
+  },
+  "ing.raisins.note": {
+   "fr": "de préférence foncés et pas trop sucrés",
+   "t": "лучше тёмный и не слишком сладкий"
+  },
+  "ing.miel.name": {
+   "fr": "de miel",
+   "t": "мёда"
+  },
+  "ing.miel.note": {
+   "fr": "Taste of Maroc et Morocco World News acceptent du sucre à la place",
+   "t": "Taste of Maroc и Morocco World News допускают вместо него сахар"
+  },
+  "ing.3.group": {
+   "fr": "Décor",
+   "t": "Для украшения"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes entières mondées (sans peau)",
+   "t": "цельного очищенного миндаля (без кожицы)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "un fond d'huile neutre",
+   "t": "тонкий слой растительного масла"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "для обжаривания миндаля"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame grillées",
+   "t": "обжаренных семян кунжута"
+  },
+  "ing.sesame.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "equipment.0": {
+   "fr": "Grand saladier et film alimentaire, pour la marinade au réfrigérateur",
+   "t": "Большая миска и пищевая плёнка, для маринования в холодильнике"
+  },
+  "equipment.1": {
+   "fr": "Cocotte ou marmite à fond épais avec couvercle",
+   "t": "Казан или кастрюля с толстым дном и крышкой"
+  },
+  "equipment.2": {
+   "fr": "Râpe (gros trous)",
+   "t": "Тёрка (с крупными отверстиями)"
+  },
+  "equipment.3": {
+   "fr": "Bol, pour faire tremper les raisins",
+   "t": "Миска, чтобы замочить изюм"
+  },
+  "equipment.4": {
+   "fr": "Petite poêle, écumoire et papier absorbant, pour les amandes",
+   "t": "Небольшая сковорода, шумовка и бумажные полотенца, для миндаля"
+  },
+  "equipment.5": {
+   "fr": "Plat de service creux, réchauffé",
+   "t": "Глубокое сервировочное блюдо, подогретое"
+  },
+  "equipment.6": {
+   "fr": "Petites boîtes hermétiques, pour les restes",
+   "t": "Небольшие герметичные контейнеры, для остатков"
+  },
+  "steps.0.title": {
+   "fr": "Prépare la marinade",
+   "t": "Приготовьте маринад"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{ras-el-hanout}} de ras el hanout, {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{cannelle-moulue}} de cannelle et {{sel}} de sel. Émiette {{safran}} de safran par-dessus. Délaye avec {{eau-marinade}} pour obtenir une sauce épaisse.",
+   "t": "В большой миске смешайте {{ras-el-hanout}} рас-эль-ханута, {{gingembre}} имбиря, {{curcuma}} куркумы, {{poivre}} перца, {{cannelle-moulue}} корицы и {{sel}} соли. Раскрошите сверху шафран ({{safran}}). Разведите смесь небольшим количеством воды, чтобы получился густой соус."
+  },
+  "steps.1.title": {
+   "fr": "Fais mariner la viande au frais",
+   "t": "Замаринуйте мясо в холодильнике"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{agneau}} d'agneau et frotte bien chaque morceau avec la marinade. Couvre de film alimentaire et laisse mariner au réfrigérateur au moins 2 h, ou toute la nuit.",
+   "t": "Добавьте {{agneau}} баранины и хорошо натрите маринадом каждый кусок. Накройте пищевой плёнкой и оставьте мариноваться в холодильнике минимум на 2 ч или на всю ночь."
+  },
+  "steps.1.tip": {
+   "fr": "Une nuit de marinade donne un goût plus profond (MWN Lifestyle) ; Taste of Maroc compte 6 à 12 h, et Choumicha 24 h. Viande crue du mouton de l'Aïd : au réfrigérateur à +3 °C au plus, pendant 5 jours, ou au congélateur à -18 °C (ONSSA).",
+   "t": "Ночь в маринаде даёт более глубокий вкус (MWN Lifestyle); Taste of Maroc маринует 6–12 ч, а Choumicha — 24 ч. Сырое мясо барана, заколотого на Курбан-байрам: в холодильнике при температуре не выше +3 °C — 5 дней, или в морозильнике при -18 °C (ONSSA)."
+  },
+  "steps.1.timer.label": {
+   "fr": "Marinade",
+   "t": "Маринование"
+  },
+  "steps.1.timer.done": {
+   "fr": "La viande a mariné : tu peux lancer la cuisson.",
+   "t": "Мясо замариновалось: можно начинать готовить."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les oignons",
+   "t": "Натрите лук на тёрке"
+  },
+  "steps.2.text": {
+   "fr": "Épluche et râpe {{oignons:full}} avec les gros trous de la râpe, ou hache finement.",
+   "t": "Очистите луковицы ({{oignons}} шт.) и натрите их на тёрке с крупными отверстиями или мелко порубите."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre les oignons",
+   "t": "Обжарьте лук до мягкости"
+  },
+  "steps.3.text": {
+   "fr": "Dans une cocotte à fond épais, à feu moyen, chauffe {{huile}} d'huile avec {{smen}} de smen. Ajoute l'oignon râpé et fais cuire 5 min en remuant, jusqu'à ce qu'il ramollisse.",
+   "t": "В казане с толстым дном разогрейте на среднем огне {{huile}} масла и {{smen}} смена. Добавьте натёртый лук и готовьте 5 мин, помешивая, пока он не станет мягким."
+  },
+  "steps.3.timer.label": {
+   "fr": "Oignons",
+   "t": "Лук"
+  },
+  "steps.3.timer.done": {
+   "fr": "Ajoute la viande et sa marinade.",
+   "t": "Добавьте мясо вместе с маринадом."
+  },
+  "steps.4.title": {
+   "fr": "Fais revenir la viande",
+   "t": "Обжарьте мясо"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute la viande avec toute sa marinade, puis {{cannelle-baton:full}}. Fais revenir 10 min en retournant les morceaux de temps en temps, jusqu'à ce qu'ils changent de couleur.",
+   "t": "Добавьте мясо со всем маринадом, затем палочки корицы ({{cannelle-baton}} шт.). Обжаривайте 10 мин, время от времени переворачивая куски, пока они не изменят цвет."
+  },
+  "steps.4.timer.label": {
+   "fr": "Viande revenue",
+   "t": "Обжаренное мясо"
+  },
+  "steps.4.timer.done": {
+   "fr": "Verse l'eau chaude.",
+   "t": "Влейте горячую воду."
+  },
+  "steps.5.title": {
+   "fr": "Mouille et laisse mijoter 2 h",
+   "t": "Залейте водой и тушите 2 ч"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{eau}} d'eau chaude le long de la paroi de la cocotte, pas directement sur la viande. Porte à frémissement, couvre et laisse cuire 2 h à feu doux. Surveille de temps en temps : la viande ne doit pas attacher. Si la sauce baisse trop vite, ajoute un peu d'eau chaude.",
+   "t": "Влейте {{eau}} горячей воды по стенке казана, а не прямо на мясо. Доведите до лёгкого кипения, накройте крышкой и тушите 2 ч на слабом огне. Время от времени проверяйте: мясо не должно пригорать. Если соус уваривается слишком быстро, добавьте немного горячей воды."
+  },
+  "steps.5.tip": {
+   "fr": "Plutôt que de remuer avec une cuillère, secoue doucement la cocotte en la tenant par les anses : les morceaux restent entiers (Choumicha).",
+   "t": "Вместо того чтобы мешать ложкой, осторожно встряхивайте казан, держа его за ручки: так куски останутся целыми (Choumicha)."
+  },
+  "steps.5.timer.label": {
+   "fr": "Mijotage",
+   "t": "Тушение"
+  },
+  "steps.5.timer.done": {
+   "fr": "Vérifie la viande : elle doit être très tendre.",
+   "t": "Проверьте мясо: оно должно быть очень мягким."
+  },
+  "steps.6.title": {
+   "fr": "Pendant ce temps, fais tremper les raisins",
+   "t": "Тем временем замочите изюм"
+  },
+  "steps.6.text": {
+   "fr": "Rince {{raisins}} de raisins secs, couvre-les d'eau et laisse-les tremper au moins 1 h, pendant que la viande cuit.",
+   "t": "Промойте {{raisins}} изюма, залейте водой и оставьте замачиваться минимум на 1 ч, пока готовится мясо."
+  },
+  "steps.7.title": {
+   "fr": "Pendant ce temps, fais frire les amandes",
+   "t": "Тем временем обжарьте миндаль"
+  },
+  "steps.7.text": {
+   "fr": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen : l'huile doit être chaude, pas fumante. Fais-y frire {{amandes}} d'amandes en remuant souvent, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant.",
+   "t": "Налейте в небольшую сковороду {{huile-friture}} и разогрейте на среднем огне: масло должно быть горячим, но не дымиться. Обжарьте в нём {{amandes}} миндаля, часто помешивая, до золотистого цвета. Выложите миндаль на бумажное полотенце, чтобы стекло масло."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie que la viande est tendre",
+   "t": "Проверьте, что мясо мягкое"
+  },
+  "steps.8.text": {
+   "fr": "Au bout de 2 h, la viande doit être très tendre et se détacher facilement de l'os. Sinon, couvre et prolonge la cuisson en vérifiant souvent. Retire les bâtons de cannelle.",
+   "t": "Через 2 ч мясо должно быть очень мягким и легко отделяться от кости. Если нет, накройте крышкой и продолжайте тушить, часто проверяя. Выньте палочки корицы."
+  },
+  "steps.8.tip": {
+   "fr": "À ce moment, la sauce doit couvrir à peu près la moitié de la viande (Cooking with Alia).",
+   "t": "К этому моменту соус должен покрывать примерно половину мяса (Cooking with Alia)."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les raisins et le miel",
+   "t": "Добавьте изюм и мёд"
+  },
+  "steps.9.text": {
+   "fr": "Égoutte les raisins et ajoute-les dans la cocotte avec {{miel}} de miel. Secoue doucement la cocotte pour les répartir. Laisse cuire à découvert, à feu moyen-doux, au moins 10 min, en secouant de temps en temps. La sauce est prête quand elle est épaisse et sirupeuse, sans liquide clair. Surveille bien pour qu'elle n'attache pas. Goûte et rectifie le sel.",
+   "t": "Откиньте изюм и положите его в казан вместе с {{miel}} мёда. Осторожно встряхните казан, чтобы всё распределилось. Готовьте без крышки на огне ниже среднего не менее 10 мин, время от времени встряхивая. Соус готов, когда он густой и похож на сироп, без прозрачной жидкости. Следите, чтобы он не пригорел. Попробуйте и при необходимости досолите."
+  },
+  "steps.9.timer.label": {
+   "fr": "Sauce au miel",
+   "t": "Медовый соус"
+  },
+  "steps.9.timer.done": {
+   "fr": "Sauce épaisse et sirupeuse ? Sinon, continue quelques minutes en surveillant.",
+   "t": "Соус густой и похож на сироп? Если нет, готовьте ещё несколько минут, внимательно следя."
+  },
+  "steps.10.title": {
+   "fr": "Dresse et sers bien chaud",
+   "t": "Выложите на блюдо и подавайте горячим"
+  },
+  "steps.10.text": {
+   "fr": "Pose la viande au centre d'un plat chaud. Mets les raisins dessus et nappe de sauce. Parsème d'amandes frites et de {{sesame}} de sésame. Sers aussitôt, bien chaud, avec du pain.",
+   "t": "Положите мясо в центр горячего блюда. Сверху выложите изюм и полейте соусом. Посыпьте жареным миндалём и кунжутом ({{sesame}}). Подавайте сразу, очень горячим, с хлебом."
+  },
+  "steps.11.title": {
+   "fr": "Range vite les restes",
+   "t": "Быстро уберите остатки"
+  },
+  "steps.11.text": {
+   "fr": "Répartis les restes dans de petites boîtes fermées et mets-les au réfrigérateur dans les 2 h. Mange-les dans les 2 jours, ou congèle-les. Réchauffe seulement la part à servir, à couvert et à feu doux, jusqu'à ce qu'elle soit brûlante au cœur, et une seule fois. Garde les amandes à part et ajoute-les au moment de servir.",
+   "t": "Разложите остатки по небольшим закрытым контейнерам и уберите в холодильник не позднее чем через 2 ч. Съешьте их в течение 2 дней или заморозьте. Разогревайте только ту порцию, которую будете подавать, под крышкой и на слабом огне, пока она не станет обжигающе горячей в середине, и только один раз. Миндаль храните отдельно и добавляйте при подаче."
+  },
+  "secrets.0.text": {
+   "fr": "Le nom « mrouzia » vient de l'arabe classique « marwaziyya », qui veut dire « de Marw » : Merv, une ancienne ville d'Asie centrale, aujourd'hui Mary, au Turkménistan. Le mot existait déjà en arabe d'al-Andalus, pour un plat de bœuf ou de poulet.",
+   "t": "Название «мрузия» происходит от классического арабского «марвазийя», что значит «из Марва»: Мерв — древний город в Средней Азии, ныне Мары в Туркменистане. Это слово уже существовало в арабском языке аль-Андалуса — для блюда из говядины или курицы."
+  },
+  "secrets.0.source": {
+   "fr": "Jordi Aguadé et Laila Benyahia, Estudios de Dialectología Norteafricana y Andalusí n° 8, 2004 (d'après le dictionnaire de Federico Corriente) ; Hespress (Saâd Sarhane, 2020), qui donne aussi Marw, ville du Khorassan, comme l'une des versions de l'origine du nom",
+   "t": "Jordi Aguadé и Laila Benyahia, Estudios de Dialectología Norteafricana y Andalusí № 8, 2004 (по словарю Federico Corriente); Hespress (Saâd Sarhane, 2020), где Марв, город в Хорасане, тоже приводится как одна из версий происхождения названия"
+  },
+  "secrets.1.text": {
+   "fr": "Autrefois, sans réfrigérateur, la mrouzia servait à garder la viande du mouton de l'Aïd : on la faisait riche en gras et en miel, on la cuisait jusqu'à ce qu'il ne reste plus d'eau, puis on la rangeait dans des jarres en terre, couverte de sa sauce. En refroidissant, le gras formait une couche protectrice.",
+   "t": "Раньше, когда не было холодильников, мрузия помогала сохранить мясо барана, заколотого на Курбан-байрам: её готовили с большим количеством жира и мёда, тушили, пока не выкипит вся вода, а затем раскладывали по глиняным кувшинам, залив соусом. Остывая, жир образовывал защитный слой."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (« riche en graisse et en miel afin d'en permettre la conservation ») ; Taste of Maroc ; Bladi.net ; Hespress ; Morocco World News (2012)",
+   "t": "Choumicha («богатая жиром и мёдом, чтобы её можно было хранить»); Taste of Maroc; Bladi.net; Hespress; Morocco World News (2012)"
+  },
+  "secrets.2.text": {
+   "fr": "Aujourd'hui, ne la garde pas comme autrefois : mets les restes au réfrigérateur dans les 2 heures, en petites boîtes, et mange-les dans les 2 jours (moins de 3 jours selon l'Anses), ou congèle-les. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants.",
+   "t": "Сегодня не храните её так, как раньше: уберите остатки в холодильник не позднее чем через 2 часа, в небольших контейнерах, и съешьте их в течение 2 дней (по данным Anses — менее чем за 3 дня) или заморозьте. Разогревайте их только один раз, до обжигающе горячего состояния."
+  },
+  "secrets.2.source": {
+   "fr": "Food Standards Agency (Royaume-Uni) ; Anses (France)",
+   "t": "Food Standards Agency (Великобритания); Anses (Франция)"
+  },
+  "secrets.3.text": {
+   "fr": "Choisis des morceaux avec os qui supportent une longue cuisson : collier, épaule ou souris. Le collier, cuit à petit feu, devient très tendre.",
+   "t": "Выбирайте куски на кости, которые выдерживают долгое тушение: шею, лопатку или голяшку. Шея, приготовленная на медленном огне, становится очень мягкой."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha (collier) ; Taste of Maroc ; Cooking with Alia ; MWN Lifestyle ; Le360 (collier « très tendre » à petit feu)",
+   "t": "Choumicha (шея); Taste of Maroc; Cooking with Alia; MWN Lifestyle; Le360 (шея, «очень мягкая» на медленном огне)"
+  },
+  "secrets.4.text": {
+   "fr": "Achète ton ras el hanout chez un épicier de confiance : avec de bons raisins secs, c'est lui qui fait une bonne mrouzia. Autrefois, la veille de l'Aïd, les mères exigeaient au souk des épices un ras el hanout bien complet.",
+   "t": "Покупайте рас-эль-ханут у надёжного продавца специй: вместе с хорошим изюмом именно он делает мрузию удачной. Раньше накануне Курбан-байрама матери требовали на рынке специй рас-эль-ханут с самым полным набором пряностей."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Hespress (Saâd Sarhane)",
+   "t": "Taste of Maroc и Hespress (Saâd Sarhane)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais mariner la viande au réfrigérateur au moins 2 heures, et toute la nuit si tu peux.",
+   "t": "Маринуйте мясо в холодильнике минимум 2 часа, а если можете — всю ночь."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia ; MWN Lifestyle ; Taste of Maroc (6 à 12 h) ; Choumicha (24 h)",
+   "t": "Cooking with Alia; MWN Lifestyle; Taste of Maroc (6–12 ч); Choumicha (24 ч)"
+  },
+  "secrets.6.text": {
+   "fr": "Astuce d'une cuisinière de Casablanca : délaye les épices dans un verre d'eau, mets la moitié sur la viande, et fais tremper les raisins dans l'autre moitié.",
+   "t": "Совет кулинарки из Касабланки: разведите специи в стакане воды, половину вылейте на мясо, а в другой половине замочите изюм."
+  },
+  "secrets.6.source": {
+   "fr": "Jordi Aguadé et Laila Benyahia (recette recueillie à Casablanca, 2004)",
+   "t": "Jordi Aguadé и Laila Benyahia (рецепт, записанный в Касабланке, 2004)"
+  },
+  "secrets.7.text": {
+   "fr": "Verse l'eau le long de la paroi, pas sur la viande : tu ne rinces pas les épices.",
+   "t": "Вливайте воду по стенке, а не на мясо: так вы не смоете специи."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "Ne remue pas avec une cuillère : secoue la cocotte en la tenant par les anses, et la viande reste entière.",
+   "t": "Не мешайте ложкой: встряхивайте казан, держа его за ручки, и мясо останется целым."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.9.text": {
+   "fr": "Ajoute les raisins et le miel seulement quand la viande est tendre, puis fais réduire jusqu'à une sauce épaisse et sirupeuse : il ne doit pas rester de sauce liquide.",
+   "t": "Добавляйте изюм и мёд, только когда мясо стало мягким, затем уваривайте до густого соуса, похожего на сироп: жидкого соуса остаться не должно."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Bladi.net ; Taste of Maroc ; Cooking with Alia ; MWN Lifestyle ; Femmes du Maroc",
+   "t": "Choumicha, Bladi.net, Taste of Maroc, Cooking with Alia, MWN Lifestyle и Femmes du Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Prends des raisins secs foncés, un peu acidulés plutôt que très sucrés : ils équilibrent le miel.",
+   "t": "Берите тёмный изюм, скорее слегка кисловатый, чем очень сладкий: он уравновешивает мёд."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Fais frire les amandes dans une huile chaude, mais pas trop, et retire-les dès qu'elles sont dorées. Garde-les à part et ajoute-les au dernier moment.",
+   "t": "Обжаривайте миндаль в горячем, но не слишком, масле и вынимайте, как только он станет золотистым. Храните его отдельно и добавляйте в последний момент."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MWN Lifestyle ; Cooking with Alia",
+   "t": "Taste of Maroc, MWN Lifestyle и Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Le goût de la mrouzia se renforce après une nuit au réfrigérateur ; réchauffe-la doucement, à feu doux, jusqu'à ce qu'elle soit brûlante au cœur (FSA ; Anses).",
+   "t": "Вкус мрузии становится насыщеннее после ночи в холодильнике; разогревайте её бережно, на слабом огне, пока она не станет обжигающе горячей в середине (FSA; Anses)."
+  },
+  "secrets.12.source": {
+   "fr": "MWN Lifestyle",
+   "t": "MWN Lifestyle"
+  },
+  "mistakes.0": {
+   "fr": "Ajouter les raisins et le miel au début : toutes les recettes les mettent quand la viande est tendre (Choumicha, Taste of Maroc, Cooking with Alia, Bladi.net, MWN Lifestyle).",
+   "t": "Добавлять изюм и мёд в начале: во всех рецептах их кладут, когда мясо стало мягким (Choumicha, Taste of Maroc, Cooking with Alia, Bladi.net, MWN Lifestyle)."
+  },
+  "mistakes.1": {
+   "fr": "Servir avec une sauce liquide : elle doit être épaisse et sirupeuse, sans liquide clair (Taste of Maroc ; MWN Lifestyle).",
+   "t": "Подавать с жидким соусом: он должен быть густым и похожим на сироп, без прозрачной жидкости (Taste of Maroc; MWN Lifestyle)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la viande attacher et brûler au fond de la cocotte : surveille, et rajoute un peu d'eau chaude si besoin (Taste of Maroc ; Cooking with Alia ; MWN Lifestyle).",
+   "t": "Допускать, чтобы мясо прилипало ко дну казана и пригорало: следите и при необходимости подливайте немного горячей воды (Taste of Maroc; Cooking with Alia; MWN Lifestyle)."
+  },
+  "mistakes.3": {
+   "fr": "Remuer avec une cuillère : la viande se défait (Choumicha).",
+   "t": "Мешать ложкой: мясо разваливается (Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Verser l'eau directement sur la viande : elle rince les épices (Taste of Maroc).",
+   "t": "Лить воду прямо на мясо: она смывает специи (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Frire les amandes dans une huile trop chaude (Taste of Maroc).",
+   "t": "Обжаривать миндаль в слишком горячем масле (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser mariner la viande hors du réfrigérateur : la marinade se fait au froid (Cooking with Alia ; Taste of Maroc ; Choumicha ; Anses : viandes dans la zone la plus froide du réfrigérateur).",
+   "t": "Мариновать мясо не в холодильнике: маринование идёт в холоде (Cooking with Alia; Taste of Maroc; Choumicha; Anses: мясо — в самую холодную зону холодильника)."
+  },
+  "mistakes.7": {
+   "fr": "Garder la mrouzia des semaines, comme autrefois : 2 jours au réfrigérateur (FSA), moins de 3 jours (Anses), sinon au congélateur.",
+   "t": "Хранить мрузию неделями, как раньше: 2 дня в холодильнике (FSA), менее 3 дней (Anses), иначе — в морозильник."
+  },
+  "mistakes.8": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur, ou les réchauffer plusieurs fois (Anses ; FSA).",
+   "t": "Оставлять остатки вне холодильника дольше 2 часов или разогревать их несколько раз (Anses; FSA)."
+  },
+  "variants.0": {
+   "fr": "M'rouzia d'Essaouira (Choumicha) : collier d'agneau mariné 2 h dans de l'eau épicée (avec du cubèbe), graisse de rognons hachée, 3 h de cuisson ; sans miel : les raisins secs beldi d'Essaouira et les amandes confisent dans le gras de cuisson de la viande.",
+   "t": "Мрузия из Эс-Сувейры (Choumicha): баранья шея, замаринованная на 2 ч в воде со специями (с кубебой), рубленый почечный жир, 3 ч тушения; без мёда: изюм бельди из Эс-Сувейры и миндаль томятся в жире, вытопившемся из мяса."
+  },
+  "variants.1": {
+   "fr": "Version allégée de Choumicha : sans oignon, avec 8 gousses d'ail pilées pour 2 kg de viande, du miel de fleurs d'oranger et une marinade de 24 h au réfrigérateur ; amandes grillées et concassées.",
+   "t": "Облегчённый вариант Choumicha: без лука, с 8 толчёными зубчиками чеснока на 2 кг мяса, с мёдом из цветков апельсина и маринадом на 24 ч в холодильнике; миндаль подсушенный и раздробленный."
+  },
+  "variants.2": {
+   "fr": "Avec de l'ail : Choumicha, Femmes du Maroc et Morocco World News (2012) en mettent ; Hespress le cite parmi les ingrédients de base.",
+   "t": "С чесноком: его кладут Choumicha, Femmes du Maroc и Morocco World News (2012); Hespress называет его среди основных ингредиентов."
+  },
+  "variants.3": {
+   "fr": "Plus riche : avec du beurre en plus de l'huile (Bladi.net, Cooking with Alia, Morocco World News 2012, recette de Casablanca recueillie par Aguadé et Benyahia).",
+   "t": "Более насыщенная: со сливочным маслом в дополнение к растительному (Bladi.net, Cooking with Alia, Morocco World News 2012, рецепт из Касабланки, записанный Aguadé и Benyahia)."
+  },
+  "variants.4": {
+   "fr": "Avec les os : à l'origine, chez les Fassis, on faisait la mrouzia avec les os et les morceaux restés après la découpe (Taste of Maroc) ; à Casablanca, on la prépare le troisième jour de l'Aïd avec les os et les jarrets du mouton (recette recueillie par Aguadé et Benyahia).",
+   "t": "С костями: изначально жители Феса готовили мрузию из костей и кусков, оставшихся после разделки (Taste of Maroc); в Касабланке её готовят на третий день Курбан-байрама из костей и голяшек барана (рецепт, записанный Aguadé и Benyahia)."
+  },
+  "variants.5": {
+   "fr": "Variantes régionales selon Taste of Maroc : avec du cumin à Qasbat Tadla ; appelée « m'assal » à Rabat et chez des Juifs marocains ; dans le Rif, la « tahlia » remplace les raisins par un jus de raisin concentré (samt).",
+   "t": "Региональные варианты по Taste of Maroc: с кумином (зирой) в Касба-Тадле; в Рабате и у марокканских евреев её называют «мъассаль»; в Рифе в «тахлии» вместо изюма берут концентрированный виноградный сок (самт)."
+  },
+  "variants.6": {
+   "fr": "À l'autocuiseur : 40 min sous pression, puis 10 min avec les raisins et le miel (Morocco World News, 2012).",
+   "t": "В скороварке: 40 мин под давлением, затем 10 мин с изюмом и мёдом (Morocco World News, 2012)."
+  },
+  "variants.7": {
+   "fr": "Au sucre à la place du miel (Taste of Maroc ; Morocco World News, 2012).",
+   "t": "С сахаром вместо мёда (Taste of Maroc; Morocco World News, 2012)."
+  },
+  "variants.8": {
+   "fr": "Amandes grillées plutôt que frites : au four à 160 °C environ 25 min (Taste of Maroc) ; grillées chez Choumicha et Femmes du Maroc.",
+   "t": "Миндаль, подсушенный без масла, а не жареный: в духовке при 160 °C около 25 мин (Taste of Maroc); подсушенный миндаль — у Choumicha и Femmes du Maroc."
+  },
+  "variants.9": {
+   "fr": "Aux pruneaux : Bladi.net publie aussi une « mrouzia » aux pruneaux caramélisés, sans raisins secs.",
+   "t": "С черносливом: Bladi.net публикует также «мрузию» с карамелизованным черносливом, без изюма."
+  },
+  "variants.10": {
+   "fr": "Décor : quelques pétales de rose séchés (Taste of Maroc).",
+   "t": "Украшение: несколько сушёных лепестков розы (Taste of Maroc)."
+  },
+  "ing.oignons.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.cannelle-baton.pl5": {
+   "fr": "bâton de cannelle / bâtons de cannelle",
+   "t": "палочек корицы"
+  }
+ }
+}

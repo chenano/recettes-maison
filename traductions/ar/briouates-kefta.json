@@ -1,0 +1,502 @@
+{
+ "_slug": "briouates-kefta",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Briouates à la kefta",
+   "t": "البريوات بالكفتة"
+  },
+  "darija": {
+   "fr": "briwat bel kefta",
+   "t": "بريوات بالكفتة"
+  },
+  "tagline": {
+   "fr": "De petits triangles de feuilles de brick croustillants, farcis de kefta aux herbes, au cumin et à la cannelle, liée aux œufs : un classique marocain, à saupoudrer de sucre glace si tu aimes le sucré-salé.",
+   "t": "مثلثات صغيرة مقرمشة من ورق البريك، محشوة بالكفتة بالأعشاب والكمون والقرفة، مربوطة بالبيض: طبق مغربي كلاسيكي، يُرشّ بالسكر الناعم (سكر الحلويات) إن كنت تحب المالح الحلو."
+  },
+  "region": {
+   "fr": "Maroc. My Moroccan Food la dit « classique au Maroc ». Aucune source lue ne donne de région d'origine précise.",
+   "t": "المغرب. يصفها My Moroccan Food بأنها «كلاسيكية في المغرب». ولا يذكر أي مصدر مقروء منطقة أصل محددة."
+  },
+  "occasion": {
+   "fr": "Ftour du ramadan (Femmes du Maroc ; Choumicha, rubrique Ramadan) et réceptions (Choumicha, rubriques « Pour recevoir » et « Recettes de fêtes »).",
+   "t": "فطور رمضان (Femmes du Maroc؛ Choumicha، ركن رمضان) وحفلات الاستقبال (Choumicha، ركنا «للاستقبال» و«وصفات الأعياد»)."
+  },
+  "img_alt": {
+   "fr": "Briouates pliées en triangle et dorées, sur une assiette blanche (la photo ne précise pas leur garniture)",
+   "t": "بريوات مطوية على شكل مثلث ومحمّرة، على صحن أبيض (لا تبيّن الصورة نوع حشوتها)"
+  },
+  "serving": {
+   "fr": "Sers les briouates bien chaudes (Choumicha ; Bladi.net ; Femmes du Maroc). Bladi.net les pose en couronne autour d'une soucoupe de sucre glace et de cannelle ; Femmes du Maroc les saupoudre de cannelle et de sucre glace ; My Moroccan Food les sert sur de la menthe hachée, avec beaucoup de sucre glace et de cannelle. Elles se servent au ftour du ramadan (Femmes du Maroc) et aux réceptions (Choumicha). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "قدّم البريوات ساخنة جيدًا (Choumicha؛ Bladi.net؛ Femmes du Maroc). يرتّبها Bladi.net في شكل تاج حول صحن صغير فيه السكر الناعم والقرفة؛ وترشّها Femmes du Maroc بالقرفة والسكر الناعم؛ ويقدّمها My Moroccan Food على نعناع مفروم، مع كثير من السكر الناعم والقرفة. تُقدَّم في فطور رمضان (Femmes du Maroc) وفي حفلات الاستقبال (Choumicha). البقايا: في الثلاجة خلال ساعتين، وتؤكل خلال 48 ساعة؛ سخّنها مرة واحدة فقط، حتى تصبح شديدة السخونة في وسطها (FSA). يجب أن تكون حرارة ثلاجتك 4 درجات مئوية في أبرد جزء منها (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La farce",
+   "t": "الحشوة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile (ou de beurre)",
+   "t": "زيت (أو زبدة)"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher finement",
+   "t": "تُفرَم فرمًا ناعمًا"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf ou agneau)",
+   "t": "لحم مفروم حلال (بقر أو خروف)"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة مفرومة"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.1.group": {
+   "fr": "Pliage et friture",
+   "t": "الطيّ والقلي"
+  },
+  "ing.feuilles.name": {
+   "fr": "de feuilles de brick (ou de warqa)",
+   "t": "ورق البريك (أو الورقة، ورقة البسطيلة)"
+  },
+  "ing.jaune.name": {
+   "fr": "jaune d'œuf",
+   "t": "صفار بيضة"
+  },
+  "ing.jaune.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "صفارات بيض"
+  },
+  "ing.jaune.note": {
+   "fr": "pour coller ; prends un jaune entier, même pour une petite fournée",
+   "t": "للّصق؛ استعمل صفارًا كاملًا، حتى لدفعة صغيرة"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile végétale de friture",
+   "t": "زيت نباتي للقلي"
+  },
+  "ing.huile-friture.note": {
+   "fr": "casserole remplie au tiers de sa hauteur au plus",
+   "t": "قدر مملوءة إلى ثلث ارتفاعها على الأكثر"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir (facultatif)",
+   "t": "للتقديم (اختياري)"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "sucre glace",
+   "t": "السكر الناعم"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "si tu aimes le sucré-salé",
+   "t": "إن كنت تحب المالح الحلو"
+  },
+  "ing.cannelle-service.name": {
+   "fr": "cannelle moulue",
+   "t": "القرفة المطحونة"
+  },
+  "ing.cannelle-service.note": {
+   "fr": "avec le sucre glace",
+   "t": "مع السكر الناعم"
+  },
+  "equipment.0": {
+   "fr": "Une planche et un couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle et une cuillère en bois",
+   "t": "مقلاة كبيرة وملعقة خشبية"
+  },
+  "equipment.2": {
+   "fr": "Un bol et une fourchette pour les œufs",
+   "t": "وعاء وشوكة للبيض"
+  },
+  "equipment.3": {
+   "fr": "Un grand plat pour laisser refroidir la farce",
+   "t": "طبق كبير لتبريد الحشوة"
+  },
+  "equipment.4": {
+   "fr": "Un torchon propre, légèrement humide, pour couvrir les feuilles",
+   "t": "منشفة نظيفة مبلّلة قليلًا، لتغطية الأوراق"
+  },
+  "equipment.5": {
+   "fr": "Une plaque couverte de papier sulfurisé",
+   "t": "صفيحة مغطّاة بورق الطهي"
+  },
+  "equipment.6": {
+   "fr": "Un pinceau ou une petite cuillère pour le jaune d'œuf",
+   "t": "فرشاة أو ملعقة صغيرة لصفار البيض"
+  },
+  "equipment.7": {
+   "fr": "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde",
+   "t": "مقلاة كهربائية بمنظّم حرارة (الأكثر أمانًا)، أو قدر عميقة"
+  },
+  "equipment.8": {
+   "fr": "Un couvercle à la taille de la casserole, toujours à portée de main",
+   "t": "غطاء بمقاس القدر، في متناول يدك دائمًا"
+  },
+  "equipment.9": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "مغرفة مثقوبة وورق ماصّ"
+  },
+  "steps.0.title": {
+   "fr": "Hache l'oignon et les herbes",
+   "t": "افرم البصل والأعشاب"
+  },
+  "steps.0.text": {
+   "fr": "Épluche et hache finement {{oignon:full}}. Lave le persil et la coriandre, sèche-les bien, puis hache-les : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "قشّر {{oignon:full}} وافرمها فرمًا ناعمًا. اغسل البقدونس والكزبرة، وجفّفهما جيدًا، ثم افرمهما: تحتاج إلى {{persil}} من البقدونس و{{coriandre}} من الكزبرة."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "شوّح البصل"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande poêle, chauffe {{huile}} d'huile (ou de beurre) à feu moyen. Ajoute l'oignon et fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "t": "في مقلاة كبيرة، سخّن {{huile}} من الزيت (أو الزبدة) على نار متوسطة. أضف البصل وشوّحه مع التقليب، حتى يصبح شفافًا."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute la viande et les épices",
+   "t": "أضف اللحم والتوابل"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{viande}} de viande hachée, les herbes, {{paprika}} de paprika, {{cumin}} de cumin, {{cannelle}} de cannelle, {{sel}} de sel et {{poivre}} de poivre.",
+   "t": "أضف {{viande}} من اللحم المفروم، والأعشاب، و{{paprika}} من الفلفل الأحمر الحلو، و{{cumin}} من الكمون، و{{cannelle}} من القرفة، و{{sel}} من الملح، و{{poivre}} من الفلفل الأسود."
+  },
+  "steps.2.tip": {
+   "fr": "Si tu as touché la viande crue, lave-toi les mains à l'eau et au savon (Anses).",
+   "t": "إذا لمست اللحم النيء، فاغسل يديك بالماء والصابون (Anses)."
+  },
+  "steps.3.title": {
+   "fr": "Émiette et cuis la viande",
+   "t": "فتّت اللحم واطبخه"
+  },
+  "steps.3.text": {
+   "fr": "Écrase la viande avec la cuillère en bois pour bien l'émietter. Laisse cuire en remuant, jusqu'à ce que tout le liquide de la viande se soit évaporé.",
+   "t": "اهرس اللحم بالملعقة الخشبية لتفتيته جيدًا. اتركه يطهى مع التقليب، حتى يتبخر كل سائل اللحم."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha cuit sa viande 5 minutes, My Moroccan Food environ 7 minutes. S'il reste du liquide, égoutte la viande : la farce ne doit pas être mouillée (My Moroccan Food).",
+   "t": "تطبخ Choumicha لحمها 5 دقائق، وMy Moroccan Food نحو 7 دقائق. إذا بقي سائل، فصفِّ اللحم: يجب ألا تكون الحشوة مبلّلة (My Moroccan Food)."
+  },
+  "steps.4.title": {
+   "fr": "Vérifie la cuisson de la viande",
+   "t": "تحقّق من نضج اللحم"
+  },
+  "steps.4.text": {
+   "fr": "Regarde bien : il ne doit plus rester aucun morceau rose. Toute la viande doit être brune, et de la vapeur doit s'en dégager quand tu la remues. Sinon, prolonge la cuisson de quelques minutes.",
+   "t": "انظر جيدًا: يجب ألا تبقى أي قطعة وردية. يجب أن يكون اللحم كله بنيًا، وأن يتصاعد منه البخار عندما تقلّبه. وإلا، فأطِل الطهي بضع دقائق."
+  },
+  "steps.4.tip": {
+   "fr": "La viande hachée doit être cuite jusqu'au centre (FSA, agence sanitaire britannique), surtout pour les jeunes enfants, les femmes enceintes et les personnes immunodéprimées (Anses).",
+   "t": "يجب أن يُطهى اللحم المفروم حتى وسطه (FSA، الوكالة الصحية البريطانية)، خاصة للأطفال الصغار والنساء الحوامل والأشخاص ضعيفي المناعة (Anses)."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les œufs",
+   "t": "أضف البيض"
+  },
+  "steps.5.text": {
+   "fr": "Bats {{oeufs:full}} à la fourchette. Baisse le feu. Verse les œufs battus peu à peu sur la viande (pour une petite fournée, bats un œuf entier et n'en verse que la part indiquée) et remue sans arrêt, jusqu'à ce qu'ils soient bien cuits, sans partie liquide.",
+   "t": "اخفق {{oeufs:full}} بالشوكة. اخفض النار. صبّ البيض المخفوق شيئًا فشيئًا على اللحم (لدفعة صغيرة، اخفق بيضة كاملة ولا تصبّ منها إلا الجزء المحدد) وحرّك دون توقف، حتى ينضج جيدًا، دون أي جزء سائل."
+  },
+  "steps.5.tip": {
+   "fr": "Femmes du Maroc laisse d'abord prendre les œufs, puis mélange toute la farce. My Moroccan Food les brouille à part dans un peu de beurre, puis les mêle à la viande.",
+   "t": "تترك Femmes du Maroc البيض يتماسك أولًا، ثم تخلط الحشوة كلها. ويخفق My Moroccan Food البيض على حدة في قليل من الزبدة، ثم يمزجه باللحم."
+  },
+  "steps.6.title": {
+   "fr": "Laisse refroidir la farce",
+   "t": "اترك الحشوة تبرد"
+  },
+  "steps.6.text": {
+   "fr": "Verse la farce dans un grand plat et laisse-la refroidir complètement avant de plier les briouates.",
+   "t": "صبّ الحشوة في طبق كبير واتركها تبرد تمامًا قبل طيّ البريوات."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu ne plies pas les briouates dans les 2 heures, couvre la farce et mets-la au frigo (Anses ; FSA).",
+   "t": "إذا لم تطوِ البريوات خلال ساعتين، فغطِّ الحشوة وضعها في الثلاجة (Anses؛ FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Prépare les feuilles",
+   "t": "جهّز الأوراق"
+  },
+  "steps.7.text": {
+   "fr": "Coupe chaque feuille de brick en deux ({{feuilles}} en tout). Garde-les sous un torchon propre, légèrement humide, pour qu'elles ne sèchent pas.",
+   "t": "اقطع كل ورقة بريك إلى نصفين ({{feuilles}} في المجموع). أبقها تحت منشفة نظيفة مبلّلة قليلًا، حتى لا تجفّ."
+  },
+  "steps.8.title": {
+   "fr": "Forme une bande",
+   "t": "شكّل شريطًا"
+  },
+  "steps.8.text": {
+   "fr": "Prends une demi-feuille. Rabats le côté arrondi vers le centre, pour obtenir une bande rectangulaire.",
+   "t": "خذ نصف ورقة. اطوِ الجانب المقوّس نحو الوسط، لتحصل على شريط مستطيل."
+  },
+  "steps.9.title": {
+   "fr": "Garnis et plie en triangle",
+   "t": "احشُ واطوِ على شكل مثلث"
+  },
+  "steps.9.text": {
+   "fr": "Pose environ 2 cuillères à café de farce (un peu plus d'une demi-cuillère à soupe) à un bout de la bande : avec cette dose, la farce suffit pour toutes les pièces. Rabats un coin sur la farce pour former un triangle. Plie ensuite le triangle sur lui-même, une fois vers la droite, une fois vers la gauche, jusqu'au bout de la bande. La farce doit être bien enfermée.",
+   "t": "ضع نحو ملعقتين صغيرتين من الحشوة (أكثر بقليل من نصف ملعقة كبيرة) عند أحد طرفي الشريط: بهذه الكمية تكفي الحشوة لكل القطع. اطوِ زاوية على الحشوة لتكوين مثلث. ثم اطوِ المثلث على نفسه، مرة نحو اليمين ومرة نحو اليسار، حتى نهاية الشريط. يجب أن تكون الحشوة مغلقة عليها جيدًا."
+  },
+  "steps.9.tip": {
+   "fr": "Quatre ou cinq plis suffisent : trop de couches de feuille, c'est inutile (Taste of Maroc).",
+   "t": "أربع أو خمس طيّات تكفي: لا فائدة من طبقات كثيرة من الورق (Taste of Maroc)."
+  },
+  "steps.10.title": {
+   "fr": "Colle la briouate",
+   "t": "ألصق البريوة"
+  },
+  "steps.10.text": {
+   "fr": "Coupe ce qui dépasse de la feuille. Bats {{jaune:full}}, mets-en un peu sur le bord, puis rentre ce bord sous le pli. Pose la briouate sur la plaque. Plie toutes les autres de la même façon.",
+   "t": "اقطع ما زاد من الورقة. اخفق {{jaune:full}}، وضع قليلًا منه على الحافة، ثم أدخل هذه الحافة تحت الطيّة. ضع البريوة على الصفيحة. اطوِ الباقي كله بالطريقة نفسها."
+  },
+  "steps.10.tip": {
+   "fr": "Choumicha colle ses briouates au blanc d'œuf.",
+   "t": "تلصق Choumicha بريواتها ببياض البيض."
+  },
+  "steps.11.title": {
+   "fr": "Chauffe l'huile",
+   "t": "سخّن الزيت"
+  },
+  "steps.11.text": {
+   "fr": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile-friture}} : jamais plus d'un tiers de la hauteur. Pose un couvercle de la bonne taille à portée de main. Chauffe à feu moyen : l'huile doit être bien chaude, mais ne jamais fumer. À partir de maintenant, ne la quitte plus des yeux.",
+   "t": "استعمل مقلاة كهربائية بمنظّم حرارة أو قدرًا عميقة. صبّ الزيت النباتي للقلي: لا يتجاوز أبدًا ثلث الارتفاع. ضع غطاءً بالمقاس المناسب في متناول يدك. سخّن على نار متوسطة: يجب أن يكون الزيت ساخنًا جيدًا، دون أن يتصاعد منه الدخان أبدًا. ومن الآن فصاعدًا، لا ترفع عينيك عنه."
+  },
+  "steps.11.tip": {
+   "fr": "Si l'huile fume, coupe le feu et laisse-la refroidir (London Fire Brigade). Si elle prend feu : jamais d'eau, ne déplace pas la casserole, pose vite le couvercle et coupe le feu si tu peux, puis appelle les pompiers (gouvernement du Québec).",
+   "t": "إذا تصاعد الدخان من الزيت، فأطفئ النار واتركه يبرد (London Fire Brigade). إذا اشتعل: لا ماء أبدًا، ولا تحرّك القدر، وضع الغطاء بسرعة وأطفئ النار إن استطعت، ثم اتصل بالإطفاء (حكومة كيبيك)."
+  },
+  "steps.12.title": {
+   "fr": "Fais frire les briouates",
+   "t": "اقلِ البريوات"
+  },
+  "steps.12.text": {
+   "fr": "Fais frire quelques briouates à la fois, sans les serrer. Retourne-les, jusqu'à ce qu'elles soient bien dorées des deux côtés. Sors-les avec l'écumoire et pose-les sur du papier absorbant. Continue avec les autres, puis éteins le feu.",
+   "t": "اقلِ بضع بريوات في كل مرة، دون أن تتزاحم. اقلبها حتى تتحمّر جيدًا من الجهتين. أخرجها بالمغرفة المثقوبة وضعها على ورق ماصّ. واصل مع الباقي، ثم أطفئ النار."
+  },
+  "steps.13.title": {
+   "fr": "Sers chaud",
+   "t": "قدّمها ساخنة"
+  },
+  "steps.13.text": {
+   "fr": "Sers les briouates bien chaudes. Si tu aimes le sucré-salé, saupoudre-les de {{sucre-glace}} et de {{cannelle-service}}, ou pose-les en couronne autour d'une petite soucoupe de sucre glace mêlé de cannelle.",
+   "t": "قدّم البريوات ساخنة جيدًا. إن كنت تحب المالح الحلو، فرُشّ عليها {{sucre-glace}} و{{cannelle-service}}، أو رتّبها في شكل تاج حول صحن صغير فيه السكر الناعم ممزوجًا بالقرفة."
+  },
+  "secrets.0.text": {
+   "fr": "Cuis toujours la farce avant de plier les briouates.",
+   "t": "اطبخ الحشوة دائمًا قبل طيّ البريوات."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha n° 131 et 1330 ; Bladi.net ; Femmes du Maroc ; My Moroccan Food ; Lalla Moulati n° 30191",
+   "t": "Choumicha رقم 131 و1330؛ Bladi.net؛ Femmes du Maroc؛ My Moroccan Food؛ Lalla Moulati رقم 30191"
+  },
+  "secrets.1.text": {
+   "fr": "Émiette bien la viande à la cuillère pendant la cuisson, pour une farce fine.",
+   "t": "فتّت اللحم جيدًا بالملعقة أثناء الطهي، لحشوة ناعمة."
+  },
+  "secrets.1.source": {
+   "fr": "Bladi.net ; My Moroccan Food ; Lalla Moulati n° 30191 et 14937",
+   "t": "Bladi.net؛ My Moroccan Food؛ Lalla Moulati رقم 30191 و14937"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le liquide de la viande s'évaporer, ou égoutte-le : la farce ne doit pas être mouillée.",
+   "t": "اترك سائل اللحم يتبخر، أو صفِّه: يجب ألا تكون الحشوة مبلّلة."
+  },
+  "secrets.2.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net؛ Femmes du Maroc؛ My Moroccan Food"
+  },
+  "secrets.3.text": {
+   "fr": "La farce classique est liée aux œufs, cuits avec la viande.",
+   "t": "الحشوة الكلاسيكية مربوطة بالبيض، المطبوخ مع اللحم."
+  },
+  "secrets.3.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net؛ Femmes du Maroc؛ My Moroccan Food"
+  },
+  "secrets.4.text": {
+   "fr": "La cannelle et le cumin parfument la farce, avec le persil et la coriandre.",
+   "t": "القرفة والكمون يعطّران الحشوة، مع البقدونس والكزبرة."
+  },
+  "secrets.4.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food (cannelle avec sa kefta au cumin, au persil et à la coriandre)",
+   "t": "Bladi.net؛ Femmes du Maroc؛ My Moroccan Food (القرفة مع كفتته بالكمون والبقدونس والكزبرة)"
+  },
+  "secrets.5.text": {
+   "fr": "Laisse refroidir la farce avant de la mettre dans les feuilles.",
+   "t": "اترك الحشوة تبرد قبل وضعها في الأوراق."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha n° 131 et 1330 ; Lalla Moulati n° 196443 et 14937 ; Bladi.net (cigares)",
+   "t": "Choumicha رقم 131 و1330؛ Lalla Moulati رقم 196443 و14937؛ Bladi.net (السيجار)"
+  },
+  "secrets.6.text": {
+   "fr": "Garde les feuilles sous un linge humide pendant le pliage, sinon elles sèchent.",
+   "t": "أبقِ الأوراق تحت قماش مبلّل أثناء الطيّ، وإلا جفّت."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; Bladi.net (cigares)",
+   "t": "My Moroccan Food؛ Bladi.net (السيجار)"
+  },
+  "secrets.7.text": {
+   "fr": "Une demi-feuille, côtés rabattus vers le centre, et un peu de farce : environ 2 cuillères à café par pièce.",
+   "t": "نصف ورقة، جانباها مطويّان نحو الوسط، وقليل من الحشوة: نحو ملعقتين صغيرتين لكل قطعة."
+  },
+  "secrets.7.source": {
+   "fr": "Femmes du Maroc ; Bladi.net",
+   "t": "Femmes du Maroc؛ Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Plie en triangle, une fois à droite, une fois à gauche, puis colle le bout et rentre-le sous le pli.",
+   "t": "اطوِ على شكل مثلث، مرة نحو اليمين ومرة نحو اليسار، ثم ألصق الطرف وأدخله تحت الطيّة."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha n° 493 ; Taste of Maroc (Christine Benlafquih) ; My Moroccan Food",
+   "t": "Choumicha رقم 493؛ Taste of Maroc (Christine Benlafquih)؛ My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Un peu de jaune d'œuf suffit pour coller la briouate.",
+   "t": "قليل من صفار البيض يكفي لإلصاق البريوة."
+  },
+  "secrets.9.source": {
+   "fr": "Femmes du Maroc ; Taste of Maroc ; Choumicha, elle, prend du blanc d'œuf",
+   "t": "Femmes du Maroc؛ Taste of Maroc؛ أما Choumicha فتستعمل بياض البيض"
+  },
+  "secrets.10.text": {
+   "fr": "Traditionnellement, on les fait frire ; au four, elles sont bonnes aussi.",
+   "t": "تقليديًا، تُقلى البريوات؛ وفي الفرن، تكون لذيذة أيضًا."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Choumicha n° 477 ; Lalla Moulati n° 30191",
+   "t": "My Moroccan Food؛ Choumicha رقم 477؛ Lalla Moulati رقم 30191"
+  },
+  "secrets.11.text": {
+   "fr": "Sers-les bien chaudes, avec du sucre glace et de la cannelle si tu aimes le sucré-salé.",
+   "t": "قدّمها ساخنة جيدًا، مع السكر الناعم والقرفة إن كنت تحب المالح الحلو."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net؛ Femmes du Maroc؛ My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Plier les briouates avec une viande encore rose : la viande hachée doit être cuite jusqu'au centre (FSA ; Anses).",
+   "t": "طيّ البريوات واللحم لا يزال ورديًا: يجب أن يُطهى اللحم المفروم حتى وسطه (FSA؛ Anses)."
+  },
+  "mistakes.1": {
+   "fr": "Garder du liquide dans la farce : elle devient mouillée (My Moroccan Food).",
+   "t": "ترك السائل في الحشوة: تصبح مبلّلة (My Moroccan Food)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre la farce chaude dans les feuilles : laisse-la refroidir avant (Choumicha ; Lalla Moulati).",
+   "t": "وضع الحشوة ساخنة في الأوراق: اتركها تبرد قبل ذلك (Choumicha؛ Lalla Moulati)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les feuilles à l'air pendant le pliage : elles sèchent (My Moroccan Food ; Bladi.net).",
+   "t": "ترك الأوراق مكشوفة للهواء أثناء الطيّ: تجفّ (My Moroccan Food؛ Bladi.net)."
+  },
+  "mistakes.4": {
+   "fr": "Utiliser pour la farce cuite le plat ou la planche de la viande crue (Anses).",
+   "t": "استعمال طبق اللحم النيء أو لوحه للحشوة المطبوخة (Anses)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la farce ou les briouates plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "ترك الحشوة أو البريوات أكثر من ساعتين في حرارة الغرفة قبل وضعها في الثلاجة (Anses؛ FSA)."
+  },
+  "mistakes.6": {
+   "fr": "Remplir la casserole de plus d'un tiers d'huile, ou laisser l'huile fumer (London Fire Brigade).",
+   "t": "ملء القدر بالزيت إلى أكثر من الثلث، أو ترك الزيت يتصاعد منه الدخان (London Fire Brigade)."
+  },
+  "mistakes.7": {
+   "fr": "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+   "t": "صبّ الماء على زيت مشتعل، أو تحريك القدر المشتعلة (حكومة كيبيك)."
+  },
+  "mistakes.8": {
+   "fr": "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+   "t": "مغادرة المطبخ أثناء القلي (حكومة كيبيك)."
+  },
+  "variants.0": {
+   "fr": "Au four : My Moroccan Food beurre des rectangles de filo, les dore au jaune d'œuf et les cuit 20 à 25 minutes à 180 °C. Lalla Moulati (n° 30191) cuit ses cigares sur une plaque huilée, jusqu'à ce qu'ils soient dorés dessus et dessous.",
+   "t": "في الفرن: يدهن My Moroccan Food مستطيلات من عجين الفيلو بالزبدة، ويدهنها بصفار البيض ويخبزها من 20 إلى 25 دقيقة على 180 درجة مئوية. وتخبز Lalla Moulati (رقم 30191) سيجارها على صفيحة مدهونة بالزيت، حتى تتحمّر من الأعلى والأسفل."
+  },
+  "variants.1": {
+   "fr": "En cigares, roulés au lieu d'être pliés en triangle (Choumicha n° 1330 ; Bladi.net ; Lalla Moulati n° 30191).",
+   "t": "على شكل سيجار، ملفوفة بدل طيّها على شكل مثلث (Choumicha رقم 1330؛ Bladi.net؛ Lalla Moulati رقم 30191)."
+  },
+  "variants.2": {
+   "fr": "Sans œufs, plus relevée : Choumicha (n° 1330) poche d'abord la viande 15 minutes dans de l'eau au laurier, la hache de nouveau avec ail et coriandre, puis la cuit à la poêle avec paprika, piment fort, cumin, sel et un peu de vinaigre. Lalla Moulati (n° 30191) met ail, herbes, poivre et paprika.",
+   "t": "دون بيض، وبنكهة أقوى: تسلق Choumicha (رقم 1330) اللحم أولًا 15 دقيقة في ماء بورق الغار، ثم تفرمه من جديد مع الثوم والكزبرة، ثم تطبخه في المقلاة مع الفلفل الأحمر المطحون والفلفل الحار والكمون والملح وقليل من الخل. وتضع Lalla Moulati (رقم 30191) الثوم والأعشاب والفلفل الأسود والفلفل الأحمر المطحون."
+  },
+  "variants.3": {
+   "fr": "Au cheddar, à l'aneth et au piment vert (Choumicha n° 131, republiée par Femmes du Maroc). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "بجبن الشيدر والشبت والفلفل الأخضر الحار (Choumicha رقم 131، أعادت نشرها Femmes du Maroc). إن أردت الاحتياط في الحلال، فاختر جبنًا مصنوعًا بمخثّر ميكروبي، دون منفحة حيوانية."
+  },
+  "variants.4": {
+   "fr": "Avec des olives coupées (Lalla Moulati n° 14937), ou avec des vermicelles chinois et des champignons noirs (Lalla Moulati n° 196443).",
+   "t": "مع الزيتون المقطّع (Lalla Moulati رقم 14937)، أو مع الشعيرية الصينية والفطر الأسود (Lalla Moulati رقم 196443)."
+  },
+  "variants.5": {
+   "fr": "Aux abricots secs et aux amandes (Choumicha n° 477) : agneau, gingembre, muscade, abricots trempés dans du jus d'orange et pâte d'amandes ; au four, ou frites.",
+   "t": "بالمشمش المجفف واللوز (Choumicha رقم 477): لحم خروف، وزنجبيل، وجوزة الطيب، ومشمش منقوع في عصير البرتقال، وعجينة اللوز؛ في الفرن، أو مقلية."
+  },
+  "variants.6": {
+   "fr": "Avec du curcuma, du safran et un peu de sucre dans la farce (Femmes du Maroc).",
+   "t": "مع الكركم والزعفران وقليل من السكر في الحشوة (Femmes du Maroc)."
+  },
+  "variants.7": {
+   "fr": "Grandes briouates : 3 c. à s. de farce dans des rectangles de filo de 10 x 30 cm, environ 15 pièces pour 450 g de viande (My Moroccan Food).",
+   "t": "بريوات كبيرة: 3 ملاعق كبيرة من الحشوة في مستطيلات من عجين الفيلو بمقاس 10 × 30 سم، نحو 15 قطعة لكل 450 غ من اللحم (My Moroccan Food)."
+  },
+  "variants.8": {
+   "fr": "Sans warqa : double épaisseur de pâte filo épaisse, ou feuilles de rouleaux de printemps à base de farine, collées avec un peu d'eau (Taste of Maroc).",
+   "t": "دون الورقة: طبقتان من عجين الفيلو السميك، أو أوراق لفائف الربيع المصنوعة من الدقيق، تُلصق بقليل من الماء (Taste of Maroc)."
+  }
+ }
+}

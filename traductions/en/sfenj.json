@@ -1,0 +1,450 @@
+{
+ "_slug": "sfenj",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Sfenj, beignets marocains en anneau",
+   "t": "Sfenj, Moroccan ring doughnuts"
+  },
+  "darija": {
+   "fr": "sfenj",
+   "t": "sfenj"
+  },
+  "tagline": {
+   "fr": "Des beignets en anneau, croustillants dehors, légers et moelleux dedans, à manger tout chauds avec du sucre ou du miel et un thé à la menthe.",
+   "t": "Ring doughnuts, crisp on the outside, light and soft inside, to eat piping hot with sugar or honey and a mint tea."
+  },
+  "region": {
+   "fr": "Maroc ; aussi dans tout le Maghreb (Algérie, Tunisie, Libye)",
+   "t": "Morocco; also throughout the Maghreb (Algeria, Tunisia, Libya)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé à la menthe",
+   "t": "Breakfast, afternoon snack with mint tea"
+  },
+  "img_alt": {
+   "fr": "Sfenj en anneau, dorés et brillants, sur une assiette, à Marrakech",
+   "t": "Ring-shaped sfenj, golden and glossy, on a plate in Marrakesh"
+  },
+  "serving": {
+   "fr": "Tout chauds, dès la sortie de l'huile (Morocco World News, 2013 ; Jewish Food Society), au petit-déjeuner ou au goûter de fin d'après-midi (Morocco World News, 2013 ; Wikipédia), avec un thé à la menthe (Morocco World News ; Hespress ; Wikipédia), ou avec un café ou une boisson au lait (Morocco World News, 2022). Nature, saupoudrés de sucre ou de sucre glace, ou trempés dans le miel (Wikipédia ; Morocco World News ; My Moroccan Food). Au Maroc, on les achète souvent tôt le matin chez le sfenji, dans les médinas (Morocco World News, 2013 ; Hespress). S'ils ont refroidi, réchauffe-les avant de servir (My Moroccan Food).",
+   "t": "Piping hot, straight out of the oil (Morocco World News, 2013; Jewish Food Society), at breakfast or as a late-afternoon snack (Morocco World News, 2013; Wikipedia), with mint tea (Morocco World News; Hespress; Wikipedia), or with coffee or a milky drink (Morocco World News, 2022). Plain, sprinkled with sugar or icing sugar, or dipped in honey (Wikipedia; Morocco World News; My Moroccan Food). In Morocco, they are often bought early in the morning from the sfenji, in the medinas (Morocco World News, 2013; Hespress). If they have cooled, reheat them before serving (My Moroccan Food)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Dough"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "dried yeast"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (farine ordinaire)",
+   "t": "white flour (plain flour)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "lukewarm water"
+  },
+  "ing.eau.note": {
+   "fr": "environ : la pâte doit être très collante ; ajoute quelques cuillères d'eau si elle ne l'est pas",
+   "t": "approximately: the dough should be very sticky; add a few spoonfuls of water if it isn't"
+  },
+  "ing.1.group": {
+   "fr": "Friture",
+   "t": "For frying"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture (par exemple tournesol)",
+   "t": "vegetable oil for frying (sunflower, for example)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour 6 cm de profondeur, sans dépasser le tiers de la hauteur de la casserole",
+   "t": "enough for a depth of 6 cm, without filling more than a third of the height of the saucepan"
+  },
+  "ing.huile-mains.name": {
+   "fr": "huile (pour les mains)",
+   "t": "oil (for your hands)"
+  },
+  "ing.huile-mains.note": {
+   "fr": "un petit bol",
+   "t": "a small bowl"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir, au choix",
+   "t": "To serve, as you prefer"
+  },
+  "ing.sucre.name": {
+   "fr": "sucre en poudre ou sucre glace",
+   "t": "caster sugar or icing sugar"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "honey"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier et deux petits bols",
+   "t": "A large mixing bowl and two small bowls"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Kitchen scales and a measuring jug"
+  },
+  "equipment.2": {
+   "fr": "Du film alimentaire ou un torchon propre",
+   "t": "Cling film or a clean tea towel"
+  },
+  "equipment.3": {
+   "fr": "Le plus sûr : une friteuse électrique avec thermostat",
+   "t": "Safest: an electric deep-fat fryer with a thermostat"
+  },
+  "equipment.4": {
+   "fr": "Sinon : une casserole large et profonde, à fond épais, d'au moins 18 cm de haut, et un thermomètre de cuisson",
+   "t": "Otherwise: a wide, deep, heavy-based saucepan at least 18 cm high, and a cooking thermometer"
+  },
+  "equipment.5": {
+   "fr": "Un couvercle ou une plaque assez grand pour couvrir la casserole, toujours à portée de main",
+   "t": "A lid or a baking sheet big enough to cover the saucepan, always within reach"
+  },
+  "equipment.6": {
+   "fr": "Une écumoire (ou une araignée) et une fourchette",
+   "t": "A slotted spoon (or a spider strainer) and a fork"
+  },
+  "equipment.7": {
+   "fr": "Une grille garnie de papier absorbant, ou un plat garni de papier absorbant",
+   "t": "A wire rack lined with kitchen paper, or a dish lined with kitchen paper"
+  },
+  "steps.0.title": {
+   "fr": "Délaye la levure",
+   "t": "Dissolve the yeast"
+  },
+  "steps.0.text": {
+   "fr": "Dans un petit bol, mélange {{levure}} de levure avec un peu d'eau tiède, prise sur les {{eau}} d'eau. Laisse reposer 10 minutes.",
+   "t": "In a small bowl, mix {{levure}} yeast with a little lukewarm water, taken from the {{eau}} of water. Leave to stand for 10 minutes."
+  },
+  "steps.0.tip": {
+   "fr": "Morocco World News (2022) laisse la levure au moins 10 minutes dans l'eau tiède ; My Moroccan Food, 5 à 10 minutes, jusqu'à ce qu'elle mousse.",
+   "t": "Morocco World News (2022) leaves the yeast in the lukewarm water for at least 10 minutes; My Moroccan Food, 5 to 10 minutes, until it froths."
+  },
+  "steps.0.timer.label": {
+   "fr": "Levure",
+   "t": "Yeast"
+  },
+  "steps.0.timer.done": {
+   "fr": "La levure a reposé : prépare la pâte.",
+   "t": "The yeast has stood: make the dough."
+  },
+  "steps.1.title": {
+   "fr": "Mélange la pâte",
+   "t": "Mix the dough"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine et {{sel}} de sel. Ajoute la levure, puis verse le reste de l'eau petit à petit, en mélangeant à la main. La pâte doit être très collante, presque comme une pâte à crêpes épaisse. Si elle ne colle pas, ajoute quelques cuillères d'eau.",
+   "t": "In a large mixing bowl, mix {{farine}} flour and {{sel}} salt. Add the yeast, then pour in the rest of the water gradually, mixing by hand. The dough should be very sticky, almost like a thick crêpe batter. If it isn't sticky, add a few spoonfuls of water."
+  },
+  "steps.2.title": {
+   "fr": "Pétris longuement",
+   "t": "Knead for a long time"
+  },
+  "steps.2.text": {
+   "fr": "Pétris la pâte au moins 10 minutes, avec la paume de la main, dans le saladier ou sur un plan de travail fariné. Au début, elle colle beaucoup : c'est normal, ça devient plus facile après quelques minutes. Elle est prête quand elle est lisse et très élastique. Tu peux aussi utiliser un robot pétrisseur.",
+   "t": "Knead the dough for at least 10 minutes with the palm of your hand, in the bowl or on a floured work surface. At first it is very sticky: that's normal, it gets easier after a few minutes. It is ready when it is smooth and very elastic. You can also use a stand mixer."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Kneading"
+  },
+  "steps.2.timer.done": {
+   "fr": "Lisse et très élastique ? Mets la pâte à lever. Sinon, pétris encore quelques minutes.",
+   "t": "Smooth and very elastic? Leave the dough to rise. If not, knead for a few more minutes."
+  },
+  "steps.3.title": {
+   "fr": "Laisse lever 4 heures",
+   "t": "Leave to rise for 4 hours"
+  },
+  "steps.3.text": {
+   "fr": "Couvre le saladier de film alimentaire ou d'un torchon propre. Laisse lever 4 heures dans un endroit tiède, jusqu'à ce que la pâte ait triplé de volume.",
+   "t": "Cover the bowl with cling film or a clean tea towel. Leave to rise for 4 hours in a warm place, until the dough has tripled in volume."
+  },
+  "steps.3.tip": {
+   "fr": "Chez Mohamed El Hadri, sfenji de la médina de Chefchaouen, la pâte se préparait la nuit et levait jusqu'au matin (Hespress).",
+   "t": "At Mohamed El Hadri's, a sfenji in the Chefchaouen medina, the dough was made at night and left to rise until morning (Hespress)."
+  },
+  "steps.3.timer.label": {
+   "fr": "Levée de la pâte",
+   "t": "Dough rising"
+  },
+  "steps.3.timer.done": {
+   "fr": "La pâte a triplé ? Prépare la friture. Sinon, laisse-la lever encore un peu.",
+   "t": "Has the dough tripled? Set up for frying. If not, leave it to rise a little longer."
+  },
+  "steps.4.title": {
+   "fr": "Prépare la friture",
+   "t": "Set up for frying"
+  },
+  "steps.4.text": {
+   "fr": "Le plus sûr est une friteuse électrique avec thermostat. Sinon, prends une casserole large et profonde, à fond épais, d'au moins 18 cm de haut. Verse l'{{huile}} sur 6 cm de profondeur, jamais plus d'un tiers de la hauteur. Tourne les poignées vers l'intérieur. Garde à portée de main un couvercle assez grand pour couvrir la casserole.",
+   "t": "The safest option is an electric deep-fat fryer with a thermostat. Otherwise, use a wide, deep, heavy-based saucepan at least 18 cm high. Pour in the oil to a depth of 6 cm, never filling it more than a third of the way up. Turn the handles inwards. Keep a lid big enough to cover the saucepan within reach."
+  },
+  "steps.4.tip": {
+   "fr": "La friteuse avec thermostat règle la température toute seule : c'est bien plus sûr (London Fire Brigade). Le gouvernement du Québec déconseille même de frire dans une casserole.",
+   "t": "A fryer with a thermostat regulates the temperature by itself: it is much safer (London Fire Brigade). The Government of Québec even advises against frying in a saucepan."
+  },
+  "steps.5.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "Heat the oil to 180 °C"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe l'huile à feu moyen-vif jusqu'à 180 °C sur le thermomètre, puis règle le feu pour garder cette température. À partir de maintenant, ne quitte plus l'huile des yeux. Si elle fume, elle est trop chaude : coupe le feu et laisse-la refroidir.",
+   "t": "Heat the oil over medium-high heat until it reaches 180 °C on the thermometer, then adjust the heat to keep it at this temperature. From now on, never take your eyes off the oil. If it smokes, it is too hot: turn off the heat and let it cool."
+  },
+  "steps.5.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas la casserole. Si tu peux le faire sans danger, pose vite le couvercle sur la casserole (gouvernement du Québec, USFA), puis coupe le feu (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec), sans te pencher au-dessus de la casserole (pompiers de Cambridgeshire). Appelle ensuite les pompiers, même si le feu semble éteint (gouvernement du Québec). Si le feu grandit, ou si tu ne peux pas approcher sans danger, n'essaie pas de l'éteindre : fais sortir tout le monde, ferme la porte et appelle les pompiers (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec).",
+   "t": "If the oil catches fire: never use water, and don't move the saucepan. If you can do so safely, quickly put the lid on the saucepan (Government of Québec, USFA), then turn off the heat (London Fire Brigade, Cambridgeshire Fire & Rescue Service, Government of Québec), without leaning over the saucepan (Cambridgeshire Fire & Rescue Service). Then call the fire brigade, even if the fire seems to be out (Government of Québec). If the fire grows, or if you can't get close safely, don't try to put it out: get everyone out, close the door and call the fire brigade (London Fire Brigade, Cambridgeshire Fire & Rescue Service, Government of Québec)."
+  },
+  "steps.6.title": {
+   "fr": "Façonne un anneau",
+   "t": "Shape a ring"
+  },
+  "steps.6.text": {
+   "fr": "Verse un peu d'{{huile-mains}} dans un petit bol et huile-toi les doigts. Prends un morceau de pâte de la taille d'un œuf. Enfonce les pouces au centre pour faire un trou, puis étire la pâte en un grand anneau, large comme un bracelet. Fais un trou bien grand : il rétrécit beaucoup à la cuisson.",
+   "t": "Pour a little oil into a small bowl and oil your fingers. Take a piece of dough the size of an egg. Push your thumbs into the centre to make a hole, then stretch the dough into a large ring, as wide as a bracelet. Make the hole very big: it shrinks a lot during frying."
+  },
+  "steps.6.tip": {
+   "fr": "Beaucoup de recettes trempent les mains dans l'eau. Ici, on les huile, comme le propose aussi Morocco World News (2013) : l'eau et l'huile chaude font un mélange dangereux (London Fire Brigade).",
+   "t": "Many recipes dip the hands in water. Here, you oil them, as Morocco World News (2013) also suggests: water and hot oil are a dangerous combination (London Fire Brigade)."
+  },
+  "steps.7.title": {
+   "fr": "Plonge-le doucement",
+   "t": "Lower it in gently"
+  },
+  "steps.7.text": {
+   "fr": "Fais glisser l'anneau doucement dans l'huile chaude, en le posant loin de toi. Fais-en frire 3 ou 4 à la fois au plus, selon la taille de la casserole, sans les serrer.",
+   "t": "Slide the ring gently into the hot oil, laying it down away from you. Fry 3 or 4 at a time at most, depending on the size of the saucepan, without crowding them."
+  },
+  "steps.8.title": {
+   "fr": "Fais dorer les deux faces",
+   "t": "Brown both sides"
+  },
+  "steps.8.text": {
+   "fr": "Laisse frire 1 à 2 minutes, puis retourne le sfenj avec l'écumoire. Compte encore 1 à 2 minutes, jusqu'à ce qu'il soit gonflé et bien doré des deux côtés.",
+   "t": "Fry for 1 to 2 minutes, then turn the sfenj over with the slotted spoon. Allow another 1 to 2 minutes, until it is puffed up and golden brown on both sides."
+  },
+  "steps.9.title": {
+   "fr": "Égoutte",
+   "t": "Drain"
+  },
+  "steps.9.text": {
+   "fr": "Sors le sfenj avec l'écumoire ou une fourchette, jamais avec les doigts. Pose-le sur la grille garnie de papier absorbant.",
+   "t": "Lift out the sfenj with the slotted spoon or a fork, never with your fingers. Place it on the wire rack lined with kitchen paper."
+  },
+  "steps.10.title": {
+   "fr": "Continue par fournées",
+   "t": "Continue in batches"
+  },
+  "steps.10.text": {
+   "fr": "Façonne et fais frire le reste de la pâte de la même façon, en te huilant les doigts avant chaque morceau. Garde l'huile autour de 180 °C.",
+   "t": "Shape and fry the rest of the dough in the same way, oiling your fingers before each piece. Keep the oil at around 180 °C."
+  },
+  "steps.11.title": {
+   "fr": "Éteins le feu",
+   "t": "Turn off the heat"
+  },
+  "steps.11.text": {
+   "fr": "Dès que le dernier sfenj est sorti, éteins le feu ou la friteuse. Ne laisse pas la casserole d'huile chaude sans surveillance.",
+   "t": "As soon as the last sfenj is out, turn off the heat or the fryer. Don't leave the saucepan of hot oil unattended."
+  },
+  "steps.12.title": {
+   "fr": "Sers tout chaud",
+   "t": "Serve piping hot"
+  },
+  "steps.12.text": {
+   "fr": "Sers les sfenj tout de suite, bien chauds, avec un thé à la menthe. Mange-les nature, saupoudrés de {{sucre}}, ou trempés dans le {{miel}}.",
+   "t": "Serve the sfenj straight away, nice and hot, with a mint tea. Eat them plain, sprinkled with {{sucre}}, or dipped in {{miel}}."
+  },
+  "steps.12.tip": {
+   "fr": "S'ils ont refroidi, réchauffe-les avant de servir (My Moroccan Food).",
+   "t": "If they have cooled, reheat them before serving (My Moroccan Food)."
+  },
+  "secrets.0.text": {
+   "fr": "La pâte doit être très molle et collante, presque comme une pâte à crêpes épaisse. Si elle ne colle pas, ajoute quelques cuillères d'eau.",
+   "t": "The dough should be very soft and sticky, almost like a thick crêpe batter. If it isn't sticky, add a few spoonfuls of water."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Bladi.net (« pâte semi-liquide, visqueuse ») ; Jewish Food Society (famille Stulman, de Rabat : « très lâche et collante »)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Bladi.net (“semi-liquid, viscous dough”); Jewish Food Society (the Stulman family, from Rabat: “very loose and sticky”)"
+  },
+  "secrets.1.text": {
+   "fr": "Pétris jusqu'à ce que la pâte soit très élastique : elle colle au début, puis devient plus facile à travailler.",
+   "t": "Knead until the dough is very elastic: it is sticky at first, then becomes easier to work."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (10 minutes) ; Jewish Food Society (15 minutes)",
+   "t": "My Moroccan Food (10 minutes); Jewish Food Society (15 minutes)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse la pâte lever jusqu'à ce qu'elle triple : 4 heures dans un endroit tiède.",
+   "t": "Let the dough rise until it has tripled: 4 hours in a warm place."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (4 heures) ; Morocco World News, 2022 (4 à 5 heures)",
+   "t": "My Moroccan Food (4 hours); Morocco World News, 2022 (4 to 5 hours)"
+  },
+  "secrets.3.text": {
+   "fr": "Mohamed El Hadri, sfenji à Chefchaouen à partir du milieu des années 1940, préparait sa pâte la nuit, avec de la levure, du sel et de la farine tamisée, bien pétris. Il la laissait lever dans un récipient couvert, puis faisait frire dès les premières heures du matin.",
+   "t": "Mohamed El Hadri, a sfenji in Chefchaouen from the mid-1940s, made his dough at night, with yeast, salt and sifted flour, well kneaded. He left it to rise in a covered container, then started frying in the early hours of the morning."
+  },
+  "secrets.3.source": {
+   "fr": "Hespress (Chefchaouen, 31 mai 2019)",
+   "t": "Hespress (Chefchaouen, 31 May 2019)"
+  },
+  "secrets.4.text": {
+   "fr": "Fais un grand trou : il rétrécit beaucoup à la friture. S'il est trop petit, tu obtiens une boule plutôt qu'un anneau.",
+   "t": "Make a big hole: it shrinks a lot during frying. If it is too small, you get a ball rather than a ring."
+  },
+  "secrets.4.source": {
+   "fr": "Jewish Food Society (famille Stulman, de Rabat) ; My Moroccan Food (« un large anneau »)",
+   "t": "Jewish Food Society (the Stulman family, from Rabat); My Moroccan Food (“a large ring”)"
+  },
+  "secrets.5.text": {
+   "fr": "Vérifie la température avec un thermomètre : 180 °C.",
+   "t": "Check the temperature with a thermometer: 180 °C."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (180 °C) ; Jewish Food Society, deux recettes (350 °F, soit environ 177 °C)",
+   "t": "My Moroccan Food (180 °C); Jewish Food Society, two recipes (350 °F, i.e. about 177 °C)"
+  },
+  "secrets.6.text": {
+   "fr": "Ne charge pas trop la casserole : 3 ou 4 sfenj à la fois, selon sa taille.",
+   "t": "Don't overcrowd the saucepan: 3 or 4 sfenj at a time, depending on its size."
+  },
+  "secrets.6.source": {
+   "fr": "Jewish Food Society (3 à la fois ; 4 ou 5 chez la famille Stulman)",
+   "t": "Jewish Food Society (3 at a time; 4 or 5 for the Stulman family)"
+  },
+  "secrets.7.text": {
+   "fr": "La pâte n'est pas sucrée : chacun choisit sa garniture, sucre, miel ou même un œuf.",
+   "t": "The dough isn't sweetened: everyone chooses their own topping, sugar, honey or even an egg."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food (sfenj non sucré ; sucre, miel ou œuf au plat) ; Morocco World News, 2022 (une pincée de sucre par-dessus)",
+   "t": "My Moroccan Food (unsweetened sfenj; sugar, honey or a fried egg); Morocco World News, 2022 (a pinch of sugar on top)"
+  },
+  "secrets.8.text": {
+   "fr": "Le sfenj se mange chaud. S'il a refroidi, réchauffe-le avant de le servir.",
+   "t": "Sfenj is eaten hot. If it has cooled, reheat it before serving."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Morocco World News, 2013 (« servez-les chauds »)",
+   "t": "My Moroccan Food; Morocco World News, 2013 (“serve them hot”)"
+  },
+  "secrets.9.text": {
+   "fr": "Chez le sfenji, les beignets sont enfilés sur de fines lanières de feuille de palmier, pour les emporter en grappes.",
+   "t": "At the sfenji's, the doughnuts are threaded onto thin strips of palm leaf so they can be carried away in bunches."
+  },
+  "secrets.9.source": {
+   "fr": "Hespress (Chefchaouen) ; Wikipédia (photo prise à Essaouira)",
+   "t": "Hespress (Chefchaouen); Wikipedia (photo taken in Essaouira)"
+  },
+  "secrets.10.text": {
+   "fr": "À Chefchaouen, Mohamed El Hadri faisait d'abord frire le sfenj à l'huile d'olive ; au milieu des années 1950, il est passé à l'« huile roumi », vendue en fûts.",
+   "t": "In Chefchaouen, Mohamed El Hadri first fried the sfenj in olive oil; in the mid-1950s, he switched to “roumi oil”, sold in barrels."
+  },
+  "secrets.10.source": {
+   "fr": "Hespress (souvenirs du fils d'un sfenji de Chefchaouen)",
+   "t": "Hespress (memories of the son of a Chefchaouen sfenji)"
+  },
+  "secrets.11.text": {
+   "fr": "Sors les sfenj avec une écumoire ou une fourchette, jamais avec les doigts.",
+   "t": "Lift out the sfenj with a slotted spoon or a fork, never with your fingers."
+  },
+  "secrets.11.source": {
+   "fr": "Morocco World News, 2022 ; My Moroccan Food (écumoire)",
+   "t": "Morocco World News, 2022; My Moroccan Food (slotted spoon)"
+  },
+  "mistakes.0": {
+   "fr": "Chauffer l'huile jusqu'à ce qu'elle fume, comme le dit une ancienne recette de Bladi.net : une huile qui fume est trop chaude ; il faut couper le feu (London Fire Brigade, USFA), ou au moins le baisser (pompiers de Cambridgeshire, gouvernement du Québec), et ne jamais la laisser continuer à chauffer (gouvernement du Québec).",
+   "t": "Heating the oil until it smokes, as an old Bladi.net recipe says: oil that smokes is too hot; you must turn off the heat (London Fire Brigade, USFA), or at least turn it down (Cambridgeshire Fire & Rescue Service, Government of Québec), and never let it keep heating (Government of Québec)."
+  },
+  "mistakes.1": {
+   "fr": "Remplir la casserole d'huile à plus d'un tiers de sa hauteur (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Filling the saucepan with oil to more than a third of its height (London Fire Brigade, Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.2": {
+   "fr": "Quitter l'huile des yeux, même quelques secondes (pompiers de Cambridgeshire, USFA, gouvernement du Québec).",
+   "t": "Taking your eyes off the oil, even for a few seconds (Cambridgeshire Fire & Rescue Service, USFA, Government of Québec)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser tomber de l'eau dans l'huile chaude : l'huile peut bouillonner et déborder (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Letting water drop into the hot oil: the oil can bubble up and overflow (London Fire Brigade, Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.4": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer la casserole en flammes (London Fire Brigade, gouvernement du Québec, pompiers de Cambridgeshire).",
+   "t": "Throwing water on an oil fire, or moving the burning saucepan (London Fire Brigade, Government of Québec, Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.5": {
+   "fr": "Se pencher au-dessus d'une casserole en feu pour atteindre les boutons (pompiers de Cambridgeshire).",
+   "t": "Leaning over a burning saucepan to reach the controls (Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre trop de sfenj à la fois dans l'huile (Jewish Food Society).",
+   "t": "Putting too many sfenj in the oil at once (Jewish Food Society)."
+  },
+  "mistakes.7": {
+   "fr": "Faire un trou trop petit : le sfenj devient une boule (Jewish Food Society).",
+   "t": "Making the hole too small: the sfenj turns into a ball (Jewish Food Society)."
+  },
+  "mistakes.8": {
+   "fr": "Faire une pâte trop ferme : elle doit être très collante (My Moroccan Food).",
+   "t": "Making the dough too firm: it should be very sticky (My Moroccan Food)."
+  },
+  "mistakes.9": {
+   "fr": "Écourter la levée : la pâte doit tripler de volume (My Moroccan Food ; Morocco World News, 2022).",
+   "t": "Cutting the rise short: the dough must triple in volume (My Moroccan Food; Morocco World News, 2022)."
+  },
+  "mistakes.10": {
+   "fr": "Sortir les sfenj de l'huile avec les doigts (Morocco World News, 2022).",
+   "t": "Taking the sfenj out of the oil with your fingers (Morocco World News, 2022)."
+  },
+  "variants.0": {
+   "fr": "Sfenj matifiyya : aplati puis frit une seconde fois, parfois avec un œuf (Wikipédia). À Chefchaouen, la « sfenja matfiya » est un œuf beldi entre deux morceaux de sfenj croustillants (Hespress). La mère de Nargisse Benkabbou aime son sfenj avec un œuf au plat (My Moroccan Food).",
+   "t": "Sfenj matifiyya: flattened, then fried a second time, sometimes with an egg (Wikipedia). In Chefchaouen, “sfenja matfiya” is a beldi egg between two pieces of crisp sfenj (Hespress). Nargisse Benkabbou's mother likes her sfenj with a fried egg (My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Au sirop : un sirop de sucre et d'eau, cuit jusqu'à ce qu'une goutte posée sur une assiette garde sa forme (stade « perle »), puis un peu de miel hors du feu ; on y trempe les sfenj égouttés (Bladi.net).",
+   "t": "In syrup: a syrup of sugar and water, cooked until a drop placed on a plate holds its shape (the “pearl” stage), then a little honey off the heat; the drained sfenj are dipped in it (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Salés, ou nature (Bladi.net).",
+   "t": "Salted, or plain (Bladi.net)."
+  },
+  "variants.3": {
+   "fr": "À la cuillère : prends la pâte avec une cuillère et pousse-la dans l'huile avec une autre cuillère (Bladi.net, qui précise qu'on la façonne normalement avec les doigts).",
+   "t": "With a spoon: scoop up the dough with one spoon and push it into the oil with another spoon (Bladi.net, which points out that it is normally shaped with the fingers)."
+  },
+  "variants.4": {
+   "fr": "Pâte encore plus liquide, presque une pâte à frire : Bladi.net la travaille au pétrin électrique ; Morocco World News (2022) la mélange simplement à la cuillère en bois.",
+   "t": "An even runnier dough, almost a batter: Bladi.net works it in an electric kneading machine; Morocco World News (2022) simply mixes it with a wooden spoon."
+  },
+  "variants.5": {
+   "fr": "Chez les juifs marocains, le sfenj est un classique de Hanoukka (Wikipédia ; The Nosher) : avec un zeste d'orange dans la pâte, arrosé de miel et de pistaches moulues (Jewish Food Society), ou avec du sucre dans la pâte et servi au sucre, au sucre à la cannelle ou au miel (Jewish Food Society, famille Stulman, de Rabat).",
+   "t": "Among Moroccan Jews, sfenj is a Hanukkah classic (Wikipedia; The Nosher): with orange zest in the dough, drizzled with honey and sprinkled with ground pistachios (Jewish Food Society), or with sugar in the dough and served with sugar, cinnamon sugar or honey (Jewish Food Society, the Stulman family, from Rabat)."
+  },
+  "variants.6": {
+   "fr": "Version « prestige », enrichie d'œufs, de lait tiède, de beurre fondu et d'eau de fleur d'oranger (Lalla Moulati).",
+   "t": "A “prestige” version, enriched with eggs, lukewarm milk, melted butter and orange blossom water (Lalla Moulati)."
+  },
+  "variants.7": {
+   "fr": "Ailleurs au Maghreb : khfaf ou ftayr en Algérie, sfinz en Libye (Wikipédia).",
+   "t": "Elsewhere in the Maghreb: khfaf or ftayr in Algeria, sfinz in Libya (Wikipedia)."
+  },
+  "variants.8": {
+   "fr": "Autrefois à Marrakech, à l'époque des grands-parents du chef Mustafa an-Nakir, on mangeait souvent au petit-déjeuner de la viande de tête avec du sfenj (Wikipédia).",
+   "t": "In the past in Marrakesh, in the days of chef Mustafa an-Nakir's grandparents, people often ate head meat with sfenj for breakfast (Wikipedia)."
+  }
+ }
+}

@@ -122,10 +122,6 @@
    "fr": "œufs",
    "t": "яйца"
   },
-  "ing.oeufs.pl5": {
-   "fr": "œuf / œufs",
-   "t": "яиц"
-  },
   "ing.1.group": {
    "fr": "Couche d'amandes",
    "t": "Миндальный слой"
@@ -178,13 +174,9 @@
    "fr": "feuilles de warqa ou de brick, pour le tour",
    "t": "листа теста варка или брик (для боков)"
   },
-  "ing.feuilles-tour.pl5": {
-   "fr": "feuille de warqa ou de brick, pour le tour / feuilles de warqa ou de brick, pour le tour",
-   "t": "листов теста варка или брик (для боков)"
-  },
   "ing.feuilles-tour.note": {
-   "fr": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
-   "t": "всего возьмите 12–15 листов, с запасом"
+   "fr": "prévois en tout un peu plus de feuilles que la somme des trois lignes (tour, fond, dessus), pour avoir de la marge : pour 8 personnes, 12 à 15 feuilles",
+   "t": "всего возьмите чуть больше листов, чем в сумме по трём строкам (бока, дно, верх), чтобы был запас: на 8 человек — 12–15 листов"
   },
   "ing.feuilles-fond.name": {
    "fr": "feuille de warqa ou de brick, pour le fond",
@@ -194,10 +186,6 @@
    "fr": "feuilles de warqa ou de brick, pour le fond",
    "t": "листа теста варка или брик (для дна)"
   },
-  "ing.feuilles-fond.pl5": {
-   "fr": "feuille de warqa ou de brick, pour le fond / feuilles de warqa ou de brick, pour le fond",
-   "t": "листов теста варка или брик (для дна)"
-  },
   "ing.feuilles-dessus.name": {
    "fr": "feuille de warqa ou de brick, pour le dessus",
    "t": "лист теста варка или брик (для верха)"
@@ -206,10 +194,6 @@
    "fr": "feuilles de warqa ou de brick, pour le dessus",
    "t": "листа теста варка или брик (для верха)"
   },
-  "ing.feuilles-dessus.pl5": {
-   "fr": "feuille de warqa ou de brick, pour le dessus / feuilles de warqa ou de brick, pour le dessus",
-   "t": "листов теста варка или брик (для верха)"
-  },
   "ing.jaune.name": {
    "fr": "jaune d'œuf",
    "t": "желток"
@@ -217,10 +201,6 @@
   "ing.jaune.pl": {
    "fr": "jaunes d'œufs",
    "t": "желтка"
-  },
-  "ing.jaune.pl5": {
-   "fr": "jaune d'œuf / jaunes d'œufs",
-   "t": "желтков"
   },
   "ing.jaune.note": {
    "fr": "pour coller les plis",
@@ -408,7 +388,7 @@
   },
   "steps.12.text": {
    "fr": "Rabats les feuilles qui débordent sur les amandes, en les badigeonnant de beurre au fur et à mesure. Bats {{jaune:full}} et passe-le sur les plis pour bien les coller.",
-   "t": "Заверните свисающие листы на миндальный слой, по ходу смазывая их маслом. Взбейте {{jaune:full}} и смажьте складки взбитым желтком, чтобы они хорошо склеились."
+   "t": "Заверните свисающие листы на миндальный слой, по ходу смазывая их маслом. Взбейте {{jaune:full}} и смажьте складки, чтобы они хорошо склеились."
   },
   "steps.13.title": {
    "fr": "Couvre le dessus",
@@ -591,8 +571,28 @@
    "t": "По рецепту Paula Wolfert (The Food of Morocco): 20 мин в духовке при 220 °C, затем пастилью переворачивают на смазанный маслом противень, смазывают маслом и ставят в духовку ещё на 10 мин; она также добавляет в соус лимонный сок перед яйцами и мускатный орех на кончике ножа."
   },
   "variants.7": {
-   "fr": "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
-   "t": "Другие семейные штрихи: немного толчёного гуммиарабика в соусе (Cooking with Alia, рецепт 695; Épices et douceurs) или рас-эль-ханута (Femmes du Maroc)."
+   "fr": "Autres touches selon les familles : un peu de gomme arabique dans la sauce, en petits grains (Cooking with Alia, recette 695) ou écrasée (Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
+   "t": "Другие семейные штрихи: немного гуммиарабика в соусе, мелкими крупинками (Cooking with Alia, рецепт 695) или толчёного (Épices et douceurs), либо рас-эль-ханута (Femmes du Maroc)."
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.feuilles-tour.pl5": {
+   "fr": "feuille de warqa ou de brick, pour le tour / feuilles de warqa ou de brick, pour le tour",
+   "t": "листов теста варка или брик (для боков)"
+  },
+  "ing.feuilles-fond.pl5": {
+   "fr": "feuille de warqa ou de brick, pour le fond / feuilles de warqa ou de brick, pour le fond",
+   "t": "листов теста варка или брик (для дна)"
+  },
+  "ing.feuilles-dessus.pl5": {
+   "fr": "feuille de warqa ou de brick, pour le dessus / feuilles de warqa ou de brick, pour le dessus",
+   "t": "листов теста варка или брик (для верха)"
+  },
+  "ing.jaune.pl5": {
+   "fr": "jaune d'œuf / jaunes d'œufs",
+   "t": "желтков"
   }
  }
 }

@@ -66,10 +66,6 @@
    "fr": "oignons",
    "t": "луковицы"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon / oignons",
-   "t": "луковиц"
-  },
   "ing.champignons.name": {
    "fr": "de champignons de Paris",
    "t": "шампиньонов"
@@ -181,14 +177,6 @@
   "steps.1.text": {
    "fr": "Pèle et hache finement {{oignon:full}}.",
    "t": "Очистите и мелко порубите лук ({{oignon}} шт.)."
-  },
-  "steps.1.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "Нашинкованный лук и раздавленный чеснок на доске"
-  },
-  "steps.1.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "Нарезка лука"
   },
   "steps.2.title": {
    "fr": "Nettoie les champignons",
@@ -485,6 +473,10 @@
   "variants.6": {
    "fr": "Fricassée à l'ancienne, pour le week-end : un poulet en morceaux cuit 40 minutes dans un fond de volaille, puis la sauce à la crème et aux champignons (Chef Simon).",
    "t": "Фрикасе по-старинному, для выходных: курица, разрезанная на куски, 40 минут тушится в курином фонде, затем готовят соус со сливками и грибами (Chef Simon)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon / oignons",
+   "t": "луковиц"
   }
  }
 }

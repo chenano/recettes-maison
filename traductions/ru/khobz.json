@@ -155,8 +155,8 @@
    "t": "Сформуйте шары"
   },
   "steps.3.text": {
-   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
-   "t": "Разделите тесто на одинаковые шары, по одному на каждый хлеб, с гладкой верхушкой. Выложите их на противень на большом расстоянии друг от друга: расплющенный до 6 мм, каждый шар даст диск шириной 27–30 см. Если два диска такого размера не помещаются рядом на вашем противне (нужно не меньше 55 см в длину), кладите по одному шару на противень."
+   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 60 cm de long), mets une boule par plaque.",
+   "t": "Разделите тесто на одинаковые шары, по одному на каждый хлеб, с гладкой верхушкой. Выложите их на противень на большом расстоянии друг от друга: расплющенный до 6 мм, каждый шар даст диск шириной 27–30 см. Если два диска такого размера не помещаются рядом на вашем противне (нужно не меньше 60 см в длину), кладите по одному шару на противень."
   },
   "steps.4.title": {
    "fr": "Repos sous un torchon",
@@ -195,8 +195,8 @@
    "t": "Расстойка хлеба"
   },
   "steps.6.timer.done": {
-   "fr": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
-   "t": "Слегка нажмите на тесто кончиком пальца: если оно восстанавливает форму, всё готово. Если нет, подождите ещё немного."
+   "fr": "Appuie légèrement du bout du doigt : si le creux remonte lentement, c'est prêt. S'il remonte tout de suite, attends encore un peu ; s'il ne remonte pas du tout, la pâte a trop levé.",
+   "t": "Слегка нажмите на тесто кончиком пальца: если ямка выравнивается медленно, всё готово. Если она выравнивается сразу, подождите ещё немного; если не выравнивается совсем, тесто слишком поднялось."
   },
   "steps.7.title": {
    "fr": "Piquer et humidifier",
@@ -228,7 +228,7 @@
   },
   "steps.9.text": {
    "fr": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
-   "t": "Чтобы испечь хлеб в ферране, общественной печи квартала: уже на этапе шаров выложите их не на противень, а на доску для хлеба, посыпанную семолиной, расплющите и дайте подняться на ней под полотенцем, затем отнесите доску в печь. Пекарь (террах) печёт хлеб на дровах около 20 минут. Он по памяти узнаёт хлеб каждой семьи — по порядку, в котором его разложил, по доске и по полотенцу."
+   "t": "Чтобы испечь хлеб в ферране, общественной печи квартала: уже на этапе шаров выложите их не на противень, а на доску для хлеба, посыпанную семолиной, расплющите и дайте подняться на ней под полотенцем, затем отнесите доску в ферран. Пекарь (террах) печёт хлеб на дровах около 20 минут. Он по памяти узнаёт хлеб каждой семьи — по порядку, в котором его разложил, по доске и по полотенцу."
   },
   "steps.9.img.alt": {
    "fr": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
@@ -264,7 +264,7 @@
   },
   "secrets.0.text": {
    "fr": "La pâte doit être molle : souple et facile à pétrir, mais sans coller. Trop ferme, le pain sort dur et dense. Ajuste toujours l'eau ou la farine : chaque farine boit différemment, et même l'humidité de l'air compte.",
-   "t": "Тесто должно быть мягким: податливым и легко меситься, но не липнуть. Из слишком крутого теста хлеб получается твёрдым и плотным. Всегда регулируйте количество воды или муки: каждая мука впитывает по-разному, и даже влажность воздуха имеет значение."
+   "t": "Тесто должно быть мягким: податливым и удобным для замеса, но не липким. Из слишком крутого теста хлеб получается твёрдым и плотным. Всегда регулируйте количество воды или муки: каждая мука впитывает по-разному, и даже влажность воздуха имеет значение."
   },
   "secrets.0.source": {
    "fr": "Taste of Maroc (Christine Benlafquih), recette et réponses aux lecteurs",
@@ -360,7 +360,7 @@
   },
   "secrets.12.text": {
    "fr": "Un repas de fête ou un ftour ? Précuis les pains la veille jusqu'à ce qu'ils colorent à peine, emballe-les bien, et termine la cuisson juste avant de servir.",
-   "t": "Праздничный обед или ифтар? Накануне выпеките хлеб, пока он едва начнёт румяниться, хорошо заверните, а допеките прямо перед подачей."
+   "t": "Праздничный обед или ифтар? Накануне подпеките хлеб до едва заметного румянца, хорошо заверните, а допеките прямо перед подачей."
   },
   "secrets.12.source": {
    "fr": "Taste of Maroc",

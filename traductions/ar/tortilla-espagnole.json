@@ -1,0 +1,426 @@
+{
+ "_slug": "tortilla-espagnole",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Tortilla espagnole (tortilla de patatas)",
+   "t": "التورتيا الإسبانية (عجة البطاطا)"
+  },
+  "tagline": {
+   "fr": "La vraie tortilla d'Espagne : des pommes de terre cuites doucement dans l'huile d'olive, liées par des œufs battus et dorées des deux côtés. Avec ou sans oignon, c'est toi qui choisis.",
+   "t": "التورتيا الإسبانية الأصيلة: بطاطا مطهوّة ببطء في زيت الزيتون، يجمعها بيض مخفوق، ومحمّرة من الجهتين. بالبصل أو بدونه، الخيار لك."
+  },
+  "region": {
+   "fr": "Espagne : un des plats les plus connus du pays (Wikipédia en espagnol). Les premières traces écrites datent du XVIIIe siècle : 1767 (Valcárcel), 1798 à Villanueva de la Serena en Estrémadure, puis 1817 en Navarre (Wikipédia en espagnol). À Betanzos, en Galice, elle se fait sans oignon et très baveuse (Directo al Paladar).",
+   "t": "إسبانيا: من أشهر أطباق البلد (Wikipédia بالإسبانية). تعود أولى الإشارات المكتوبة إليها إلى القرن الثامن عشر: 1767 (Valcárcel)، و1798 في Villanueva de la Serena بإقليم إكستريمادورا، ثم 1817 في نافارا (Wikipédia بالإسبانية). وفي Betanzos، في غاليسيا، تُحضَّر بلا بصل وتكون شبه سائلة من الداخل (Directo al Paladar)."
+  },
+  "occasion": {
+   "fr": "Un des plats les plus courants en Espagne, souvent en dîner léger à la maison (Wikipédia en arabe). Chaude, tiède ou froide, en plat, en tapa, en pincho ou en sandwich (bocadillo) (Spain.info ; Wikipédia en espagnol). Plus épaisse, elle part en pique-nique (Spain.info).",
+   "t": "من أكثر الأطباق شيوعًا في إسبانيا، وغالبًا ما تؤكل عشاءً خفيفًا في البيت (Wikipédia بالعربية). ساخنة أو فاترة أو باردة، طبقًا، أو تابا (tapa)، أو بينتشو (pincho)، أو في سندويتش (bocadillo) (Spain.info؛ Wikipédia بالإسبانية). وحين تكون أسمك، تُؤخذ في النزهات (Spain.info)."
+  },
+  "img_alt": {
+   "fr": "Tortilla de patatas entière et dorée, sur une assiette",
+   "t": "تورتيا بطاطا كاملة ومحمّرة، على صحن"
+  },
+  "steps.5.title": {
+   "fr": "Remue de temps en temps",
+   "t": "حرّك من حين لآخر"
+  },
+  "steps.5.text": {
+   "fr": "Laisse cuire environ 10 minutes. Remue de temps en temps avec l'écumoire, en coupant les morceaux avec. Les pommes de terre doivent devenir tendres et commencer à peine à dorer.",
+   "t": "اتركها تُطهى نحو 10 دقائق. حرّك من حين لآخر بالمغرفة المثقّبة، مع تقطيع القطع بها. يجب أن تصبح البطاطا طرية وأن تبدأ بالكاد في التحمّر."
+  },
+  "steps.5.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "البطاطا"
+  },
+  "steps.5.timer.done": {
+   "fr": "Vérifie : elles doivent être tendres. Sinon, laisse cuire encore un peu.",
+   "t": "تحقّق: يجب أن تكون طرية. وإلا، فاتركها تُطهى قليلًا بعد."
+  },
+  "steps.6.title": {
+   "fr": "Égoutte et garde l'huile",
+   "t": "صفِّ البطاطا واحتفظ بالزيت"
+  },
+  "steps.6.text": {
+   "fr": "Verse les pommes de terre (et l'oignon) dans la passoire posée sur un bol. Laisse bien égoutter. Garde l'huile : il en faut un peu pour cuire la tortilla.",
+   "t": "اسكب البطاطا (والبصل) في المصفاة الموضوعة فوق الوعاء. اتركها تتصفّى جيدًا. احتفظ بالزيت: ستحتاج إلى قليل منه لطهي التورتيا."
+  },
+  "steps.7.title": {
+   "fr": "Mélange et laisse reposer",
+   "t": "اخلط واترك الخليط يرتاح"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute les pommes de terre égouttées (et l'oignon) dans les œufs battus. Mélange doucement, puis laisse reposer quelques minutes : les pommes de terre s'imprègnent d'œuf.",
+   "t": "أضف البطاطا المصفّاة (والبصل) إلى البيض المخفوق. اخلط برفق، ثم اترك الخليط يرتاح بضع دقائق: فتتشرّب البطاطا البيض."
+  },
+  "steps.7.tip": {
+   "fr": "Joseba Arguiñano laisse reposer 3 à 4 minutes (Hogarmania).",
+   "t": "يترك Joseba Arguiñano الخليط يرتاح من 3 إلى 4 دقائق (Hogarmania)."
+  },
+  "steps.8.title": {
+   "fr": "Cuis le dessous",
+   "t": "اطهُ الجهة السفلى"
+  },
+  "steps.8.text": {
+   "fr": "Mets la poêle moyenne sur le feu avec un peu de l'huile gardée. Quand elle est chaude, verse le mélange. Baisse le feu, couvre et laisse cuire doucement environ 5 minutes, jusqu'à ce que le dessous soit doré.",
+   "t": "ضع المقلاة المتوسطة على النار مع قليل من الزيت المحتفَظ به. وحين تسخن المقلاة، اسكب الخليط. خفّف النار، وغطِّ المقلاة، واتركها تُطهى ببطء نحو 5 دقائق، حتى تتحمّر الجهة السفلى."
+  },
+  "steps.9.title": {
+   "fr": "Retourne la tortilla",
+   "t": "اقلب التورتيا"
+  },
+  "steps.9.text": {
+   "fr": "Pose le couvercle plat ou la grande assiette sur la poêle. Tiens-le bien et retourne le tout d'un coup. Fais ensuite glisser la tortilla dans la poêle, la face dorée au-dessus.",
+   "t": "ضع الغطاء المسطّح أو الصحن الكبير فوق المقلاة. أمسكه جيدًا واقلب الكل دفعة واحدة. ثم أزلق التورتيا إلى المقلاة، والجهة المحمّرة إلى الأعلى."
+  },
+  "steps.10.title": {
+   "fr": "Finis la cuisson",
+   "t": "أكمل الطهي"
+  },
+  "steps.10.text": {
+   "fr": "Laisse cuire l'autre face à feu doux, jusqu'à ce que l'œuf soit bien pris au centre et que la tortilla soit dorée des deux côtés.",
+   "t": "اترك الجهة الأخرى تُطهى على نار هادئة، حتى يتماسك البيض جيدًا في الوسط وتتحمّر التورتيا من الجهتين."
+  },
+  "steps.10.tip": {
+   "fr": "Avec un thermomètre : au moins 71 °C au centre (FDA, 160 °F). Tu la veux baveuse ? La Comunidad de Madrid conseille alors des œufs pasteurisés, et de ne pas la servir aux personnes fragiles.",
+   "t": "بميزان الحرارة: 71 درجة مئوية على الأقل في الوسط (FDA، 160 °F). هل تريدها طرية سائلة من الداخل؟ تنصح Comunidad de Madrid حينئذ ببيض مبستر، وبعدم تقديمها للأشخاص الأكثر هشاشة."
+  },
+  "steps.11.title": {
+   "fr": "Sers dans une assiette propre",
+   "t": "قدّمها في صحن نظيف"
+  },
+  "steps.11.text": {
+   "fr": "Fais glisser la tortilla dans une assiette propre, jamais celle qui a servi à la retourner : elle a touché l'œuf cru. Laisse-la reposer quelques minutes avant de la couper.",
+   "t": "أزلق التورتيا إلى صحن نظيف، وليس أبدًا الصحن الذي استعملته لقلبها: فقد لامس البيض النيء. اتركها ترتاح بضع دقائق قبل تقطيعها."
+  },
+  "steps.12.title": {
+   "fr": "Sers ou mets au frais",
+   "t": "قدّمها أو ضعها في الثلاجة"
+  },
+  "steps.12.text": {
+   "fr": "Sers-la chaude, tiède ou froide. Mets les restes au réfrigérateur dans les 2 heures, et mange-les dans les 2 jours.",
+   "t": "قدّمها ساخنة أو فاترة أو باردة. ضع البقايا في الثلاجة خلال ساعتين، وتناولها خلال يومين."
+  },
+  "secrets.0.text": {
+   "fr": "Les pommes de terre doivent cuire doucement, plus confites que frites : feu moyen, sans te presser.",
+   "t": "يجب أن تُطهى البطاطا ببطء، أقرب إلى الطهي البطيء في الزيت منها إلى القلي: على نار متوسطة، ودون استعجال."
+  },
+  "secrets.0.source": {
+   "fr": "Spain.info (cuisson lente à feu moyen) ; Directo al Paladar ; Wikipédia en espagnol (« plus cuites que frites »)",
+   "t": "Spain.info (طهي بطيء على نار متوسطة)؛ Directo al Paladar؛ Wikipédia بالإسبانية (« مطهوّة أكثر منها مقلية »)"
+  },
+  "secrets.1.text": {
+   "fr": "Garde l'huile de cuisson : un peu suffit pour cuire la tortilla. Joseba Arguiñano garde le reste pour une autre fois.",
+   "t": "احتفظ بزيت الطهي: يكفي قليل منه لطهي التورتيا. ويحتفظ Joseba Arguiñano بالباقي لمرة أخرى."
+  },
+  "secrets.1.source": {
+   "fr": "Spain.info ; Hogarmania ; Directo al Paladar (une cuillère à soupe d'huile pour la poêle)",
+   "t": "Spain.info؛ Hogarmania؛ Directo al Paladar (ملعقة كبيرة من الزيت للمقلاة)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse les pommes de terre quelques minutes dans les œufs battus avant de cuire : elles s'en imprègnent.",
+   "t": "اترك البطاطا بضع دقائق في البيض المخفوق قبل الطهي: فتتشرّبه."
+  },
+  "secrets.2.source": {
+   "fr": "Wikipédia en espagnol ; Directo al Paladar ; Hogarmania (3 à 4 minutes)",
+   "t": "Wikipédia بالإسبانية؛ Directo al Paladar؛ Hogarmania (من 3 إلى 4 دقائق)"
+  },
+  "secrets.3.text": {
+   "fr": "Bats les œufs sans trop y faire entrer d'air. Pour la tortilla de Betanzos, on les remue seulement.",
+   "t": "اخفق البيض دون أن تُدخل فيه كثيرًا من الهواء. أما في تورتيا Betanzos، فيُحرَّك البيض فقط."
+  },
+  "secrets.3.source": {
+   "fr": "Directo al Paladar (deux articles, 2022)",
+   "t": "Directo al Paladar (مقالان، 2022)"
+  },
+  "secrets.4.text": {
+   "fr": "La proportion : environ 100 g de pommes de terre par œuf. Pour 4 à 6 personnes, Directo al Paladar compte 600 à 750 g de pommes de terre et 6 à 8 œufs.",
+   "t": "النسبة: نحو 100 غ من البطاطا لكل بيضة. ولعدد من 4 إلى 6 أشخاص، يحسب Directo al Paladar من 600 إلى 750 غ من البطاطا ومن 6 إلى 8 بيضات."
+  },
+  "secrets.4.source": {
+   "fr": "Directo al Paladar (Liliana Fuchs, 2022)",
+   "t": "Directo al Paladar (Liliana Fuchs، 2022)"
+  },
+  "secrets.5.text": {
+   "fr": "La règle 6-3-1 de Karlos Arguiñano : 6 œufs, 3 pommes de terre et 1 oignon. Le chef Mario Sandoval suit la même règle.",
+   "t": "قاعدة 6-3-1 عند Karlos Arguiñano: 6 بيضات، و3 حبات بطاطا، وبصلة واحدة. ويتبع الطاهي Mario Sandoval القاعدة نفسها."
+  },
+  "secrets.5.source": {
+   "fr": "Directo al Paladar (articles de 2022 et de 2024)",
+   "t": "Directo al Paladar (مقال من 2022 وآخر من 2024)"
+  },
+  "secrets.6.text": {
+   "fr": "Plus d'œuf donne une tortilla plus juteuse, comme à Betanzos. Moins d'œuf donne une tortilla plus ferme.",
+   "t": "كلما زاد البيض صارت التورتيا أكثر طراوة وعصارة، كما في Betanzos. وكلما قلّ صارت أكثر تماسكًا."
+  },
+  "secrets.6.source": {
+   "fr": "Directo al Paladar",
+   "t": "Directo al Paladar"
+  },
+  "secrets.7.text": {
+   "fr": "Le grand débat : avec ou sans oignon. Pour : il donne de la douceur et du moelleux. Contre : l'œuf et la pomme de terre sont déjà doux, et un oignon mal cuit gâche la tortilla. En 2023, une enquête du Centro de Investigaciones Sociológicas (CIS) a trouvé 70,4 % des Espagnols pour l'oignon et 20,9 % contre.",
+   "t": "الجدل الكبير: بالبصل أم بدونه. المؤيدون: يمنحها حلاوة وطراوة. المعارضون: البيض والبطاطا لطيفا المذاق أصلًا، والبصل غير المطهو جيدًا يفسد التورتيا. في 2023، وجد استطلاع أجراه Centro de Investigaciones Sociológicas (CIS) أن 70,4 % من الإسبان يؤيدون البصل و20,9 % يعارضونه."
+  },
+  "secrets.7.source": {
+   "fr": "Directo al Paladar (2022 et 2023) ; Wikipédia en espagnol (enquête du CIS de 2023)",
+   "t": "Directo al Paladar (2022 و2023)؛ Wikipédia بالإسبانية (استطلاع CIS لعام 2023)"
+  },
+  "secrets.8.text": {
+   "fr": "Les chefs aussi sont divisés. Sans oignon : Dabiz Muñoz, Dani García, Ferran Adrià, Ángel León. Avec : Karlos Arguiñano, Martín Berasategui, José Andrés, Joan Roca, Alberto Chicote. Pour Dabiz Muñoz, un bon œuf, une bonne pomme de terre et de l'huile d'olive suffisent, avec du sel.",
+   "t": "الطهاة أيضًا منقسمون. بلا بصل: Dabiz Muñoz، وDani García، وFerran Adrià، وÁngel León. وبالبصل: Karlos Arguiñano، وMartín Berasategui، وJosé Andrés، وJoan Roca، وAlberto Chicote. بالنسبة إلى Dabiz Muñoz، تكفي بيضة جيدة، وبطاطا جيدة، وزيت زيتون، مع الملح."
+  },
+  "secrets.8.source": {
+   "fr": "Directo al Paladar (Miguel Ayuso, 2022)",
+   "t": "Directo al Paladar (Miguel Ayuso، 2022)"
+  },
+  "secrets.9.text": {
+   "fr": "Si tu mets de l'oignon, il doit être bien fondu. Joan Roca l'aime très tendre ; Alberto Chicote le fait fondre à part jusqu'à ce qu'il caramélise, sans sucre.",
+   "t": "إذا أضفت البصل، فيجب أن يكون مطهوًّا جيدًا حتى يذبل تمامًا. يحبّه Joan Roca طريًّا جدًا؛ ويطهوه Alberto Chicote على حدة حتى يتكرمل، دون سكر."
+  },
+  "secrets.9.source": {
+   "fr": "Directo al Paladar",
+   "t": "Directo al Paladar"
+  },
+  "serving": {
+   "fr": "Chaude, tiède ou froide (Spain.info ; Directo al Paladar), en plat, en tapa, en pincho ou en sandwich (Wikipédia en espagnol ; Directo al Paladar). Avec une salade verte, une tomate assaisonnée, une salade composée ou des poivrons verts frits (Directo al Paladar). Laisse-la reposer quelques minutes avant de la couper (Directo al Paladar). Restes : au réfrigérateur dans les 2 heures (FDA), et à manger dans les 2 jours (Comunidad de Madrid ; FSA). Une tortilla peu prise se mange tout de suite, ou reste au frigo jusqu'au repas (Comunidad de Madrid).",
+   "t": "ساخنة أو فاترة أو باردة (Spain.info؛ Directo al Paladar)، طبقًا، أو تابا، أو بينتشو، أو في سندويتش (Wikipédia بالإسبانية؛ Directo al Paladar). مع سلطة خضراء، أو طماطم متبّلة، أو سلطة مشكّلة، أو فلفل أخضر مقلي (Directo al Paladar). اتركها ترتاح بضع دقائق قبل تقطيعها (Directo al Paladar). البقايا: في الثلاجة خلال ساعتين (FDA)، وتؤكل خلال يومين (Comunidad de Madrid؛ FSA). التورتيا القليلة التماسك تؤكل فورًا، أو تبقى في الثلاجة حتى وقت الوجبة (Comunidad de Madrid)."
+  },
+  "ing.0.group": {
+   "fr": "La tortilla",
+   "t": "التورتيا"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "pomme de terre moyenne",
+   "t": "حبة بطاطا متوسطة"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "pommes de terre moyennes",
+   "t": "حبات بطاطا متوسطة"
+  },
+  "ing.pommes-de-terre.note": {
+   "fr": "environ 175 g pièce",
+   "t": "نحو 175 غ للحبة الواحدة"
+  },
+  "secrets.10.text": {
+   "fr": "L'autre débat : baveuse ou bien prise. Selon le CIS (2023), 53,9 % des Espagnols la veulent peu cuite et 26,9 % très cuite. Ici, on la cuit bien par défaut, comme le conseillent les autorités sanitaires.",
+   "t": "الجدل الآخر: طرية سائلة من الداخل أم متماسكة جيدًا. حسب CIS (2023)، يريدها 53,9 % من الإسبان قليلة الطهي و26,9 % كثيرة الطهي. هنا، نطهوها جيدًا افتراضيًا، كما توصي السلطات الصحية."
+  },
+  "secrets.10.source": {
+   "fr": "Directo al Paladar (enquête du CIS, 2023) ; Wikipédia en espagnol ; Comunidad de Madrid ; FDA",
+   "t": "Directo al Paladar (استطلاع CIS، 2023)؛ Wikipédia بالإسبانية؛ Comunidad de Madrid؛ FDA"
+  },
+  "secrets.11.text": {
+   "fr": "Pour un pique-nique ou des petits cubes à l'apéritif, mets plus de pommes de terre : la tortilla est plus dense, plus facile à transporter et à couper. On la mange alors froide.",
+   "t": "للنزهة أو لمكعبات صغيرة مع المقبّلات، ضع مزيدًا من البطاطا: تصبح التورتيا أكثر كثافة، وأسهل في النقل والتقطيع. وتؤكل حينئذ باردة."
+  },
+  "secrets.11.source": {
+   "fr": "Spain.info",
+   "t": "Spain.info"
+  },
+  "secrets.12.text": {
+   "fr": "Pour la retourner sans risque, il existe des poêles doubles faites pour la tortilla.",
+   "t": "لقلبها دون مجازفة، توجد مقلاة مزدوجة مصنوعة خصيصًا للتورتيا."
+  },
+  "secrets.12.source": {
+   "fr": "Directo al Paladar",
+   "t": "Directo al Paladar"
+  },
+  "secrets.13.text": {
+   "fr": "Achète des œufs à la coquille intacte, garde-les au frigo sans les laver, et ne les casse pas sur le bord d'une assiette.",
+   "t": "اشترِ بيضًا سليم القشرة، واحفظه في الثلاجة دون غسله، ولا تكسره على حافة صحن."
+  },
+  "secrets.13.source": {
+   "fr": "Comunidad de Madrid (santé publique)",
+   "t": "Comunidad de Madrid (الصحة العامة)"
+  },
+  "mistakes.0": {
+   "fr": "Cuire les pommes de terre à feu vif dès le début : elles doivent cuire doucement (Spain.info ; Directo al Paladar ; Wikipédia en espagnol).",
+   "t": "طهي البطاطا على نار قوية منذ البداية: يجب أن تُطهى ببطء (Spain.info؛ Directo al Paladar؛ Wikipédia بالإسبانية)."
+  },
+  "mistakes.1": {
+   "fr": "Oublier de bien égoutter les pommes de terre (Spain.info ; Directo al Paladar).",
+   "t": "نسيان تصفية البطاطا جيدًا (Spain.info؛ Directo al Paladar)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop peu d'œuf : la tortilla devient un bloc sec (Directo al Paladar).",
+   "t": "وضع القليل جدًا من البيض: فتصبح التورتيا كتلة جافة (Directo al Paladar)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre un oignon mal cuit : il gâche la tortilla (Directo al Paladar).",
+   "t": "إضافة بصل غير مطهو جيدًا: فهو يفسد التورتيا (Directo al Paladar)."
+  },
+  "mistakes.4": {
+   "fr": "Servir la tortilla dans l'assiette qui a servi à la retourner : elle a touché l'œuf cru (Comunidad de Madrid).",
+   "t": "تقديم التورتيا في الصحن الذي استُعمل لقلبها: فقد لامس البيض النيء (Comunidad de Madrid)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la tortilla hors du frigo : pas plus de 2 heures, ou 1 heure au-dessus de 32 °C (FDA, 90 °F). En été, des tortillas gardées plus de 20 heures à température ambiante causent des intoxications (Comunidad de Madrid).",
+   "t": "ترك التورتيا خارج الثلاجة: ليس أكثر من ساعتين، أو ساعة واحدة فوق 32 درجة مئوية (FDA، 90 °F). في الصيف، تتسبّب تورتيات محفوظة أكثر من 20 ساعة في درجة حرارة الغرفة في حالات تسمّم (Comunidad de Madrid)."
+  },
+  "mistakes.6": {
+   "fr": "Servir une tortilla baveuse aux femmes enceintes, aux personnes âgées, aux jeunes enfants ou aux personnes fragiles (Comunidad de Madrid ; FDA).",
+   "t": "تقديم تورتيا طرية سائلة من الداخل للحوامل، أو للمسنّين، أو للأطفال الصغار، أو للأشخاص الأكثر هشاشة (Comunidad de Madrid؛ FDA)."
+  },
+  "mistakes.7": {
+   "fr": "Laver les œufs avant de les ranger, ou les casser sur le bord d'une assiette (Comunidad de Madrid).",
+   "t": "غسل البيض قبل حفظه، أو كسره على حافة صحن (Comunidad de Madrid)."
+  },
+  "variants.0": {
+   "fr": "Sans oignon : œufs, pommes de terre, huile d'olive et sel, rien d'autre, comme à Betanzos (Directo al Paladar, qui cite la mairie de Betanzos).",
+   "t": "بلا بصل: بيض، وبطاطا، وزيت زيتون، وملح، ولا شيء غير ذلك، كما في Betanzos (Directo al Paladar، نقلًا عن بلدية Betanzos)."
+  },
+  "variants.1": {
+   "fr": "Façon Betanzos, très baveuse : pour 4, 350 g de pommes de terre en tout (4 « moyennes » sur la fiche) et 5 gros œufs, 1 minute de cuisson par face (Directo al Paladar). Prends alors des œufs pasteurisés. Avec des œufs crus ordinaires, fais-la au dernier moment, garde-la au frigo jusqu'au repas, ne la sers pas aux personnes fragiles et jette les restes (Comunidad de Madrid).",
+   "t": "على طريقة Betanzos، طرية سائلة جدًا من الداخل: لـ 4 أشخاص، 350 غ من البطاطا في المجموع (4 حبات « متوسطة » في بطاقة الوصفة) و5 بيضات كبيرة، ودقيقة واحدة من الطهي لكل جهة (Directo al Paladar). استعمل حينئذ بيضًا مبسترًا. ومع البيض النيء العادي، حضّرها في آخر لحظة، واحفظها في الثلاجة حتى وقت الوجبة، ولا تقدّمها للأشخاص الأكثر هشاشة، وارمِ البقايا (Comunidad de Madrid)."
+  },
+  "variants.2": {
+   "fr": "Oignon fondu à part, à feu très doux pendant environ 30 minutes, puis mêlé aux pommes de terre (Directo al Paladar ; Alberto Chicote, cité par Directo al Paladar).",
+   "t": "بصل يُطهى على حدة حتى يذبل، على نار هادئة جدًا لمدة 30 دقيقة تقريبًا، ثم يُخلط مع البطاطا (Directo al Paladar؛ Alberto Chicote، نقلًا عن Directo al Paladar)."
+  },
+  "variants.3": {
+   "fr": "Avec un poivron vert, comme Karlos Arguiñano (Directo al Paladar).",
+   "t": "مع حبة فلفل أخضر، كما يفعل Karlos Arguiñano (Directo al Paladar)."
+  },
+  "variants.4": {
+   "fr": "Formule 7-3-4-1-1 de Joseba Arguiñano : 7 œufs, 3 jaunes, 4 pommes de terre, 1 petit poireau et 1 oignon, en 4 petites tortillas (Hogarmania).",
+   "t": "صيغة 7-3-4-1-1 عند Joseba Arguiñano: 7 بيضات، و3 صفارات بيض، و4 حبات بطاطا، و1 حبة كرّاث صغيرة، و1 بصلة، في 4 تورتيات صغيرة (Hogarmania)."
+  },
+  "variants.5": {
+   "fr": "Plus épaisse pour le pique-nique, avec plus de pommes de terre, et mangée froide (Spain.info).",
+   "t": "أسمك للنزهة، مع مزيد من البطاطا، وتؤكل باردة (Spain.info)."
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf frais",
+   "t": "بيضة طازجة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs frais",
+   "t": "بيضات طازجة"
+  },
+  "ing.oeufs.note": {
+   "fr": "coquille intacte, gardés au réfrigérateur",
+   "t": "سليمة القشرة، ومحفوظة في الثلاجة"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.oignon.note": {
+   "fr": "facultatif : sans oignon, c'est la tortilla de Betanzos",
+   "t": "اختياري: بلا بصل، تصبح تورتيا Betanzos"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.huile.note": {
+   "fr": "pour la cuisson ; tu en gardes une partie",
+   "t": "للطهي؛ ستحتفظ بجزء منه"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "equipment.0": {
+   "fr": "Un économe, un couteau et une planche",
+   "t": "مقشّرة، وسكين، ولوح تقطيع"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle profonde, pour cuire les pommes de terre dans l'huile",
+   "t": "مقلاة كبيرة عميقة، لطهي البطاطا في الزيت"
+  },
+  "equipment.2": {
+   "fr": "Une écumoire",
+   "t": "مغرفة مثقّبة"
+  },
+  "equipment.3": {
+   "fr": "Une passoire posée sur un bol, pour égoutter et garder l'huile",
+   "t": "مصفاة موضوعة فوق وعاء، لتصفية البطاطا والاحتفاظ بالزيت"
+  },
+  "equipment.4": {
+   "fr": "Un grand saladier et une fourchette",
+   "t": "وعاء كبير وشوكة"
+  },
+  "equipment.5": {
+   "fr": "Une poêle moyenne avec un couvercle (Directo al Paladar prend une poêle de 22 cm)",
+   "t": "مقلاة متوسطة بغطاء (يستعمل Directo al Paladar مقلاة قطرها 22 سم)"
+  },
+  "equipment.6": {
+   "fr": "Un couvercle plat ou une grande assiette, pour retourner la tortilla",
+   "t": "غطاء مسطّح أو صحن كبير، لقلب التورتيا"
+  },
+  "equipment.7": {
+   "fr": "Une assiette propre pour servir",
+   "t": "صحن نظيف للتقديم"
+  },
+  "equipment.8": {
+   "fr": "Un thermomètre de cuisine, si tu en as un",
+   "t": "ميزان حرارة للمطبخ، إن كان لديك واحد"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "قشّر البطاطا"
+  },
+  "steps.0.text": {
+   "fr": "Épluche, lave et sèche bien {{pommes-de-terre:full}} avec un torchon propre.",
+   "t": "قشّر {{pommes-de-terre:full}}، واغسلها، وجفّفها جيدًا بمنشفة نظيفة."
+  },
+  "steps.1.title": {
+   "fr": "Coupe en rondelles fines",
+   "t": "قطّع البطاطا شرائح رقيقة"
+  },
+  "steps.1.text": {
+   "fr": "Coupe en rondelles fines, toutes de la même épaisseur, pour une cuisson égale.",
+   "t": "قطّعها شرائح دائرية رقيقة، كلها بالسُّمك نفسه، لتنضج بالتساوي."
+  },
+  "steps.1.tip": {
+   "fr": "À Betanzos, on les coupe au couteau en petits morceaux fins (Directo al Paladar). Joseba Arguiñano les coupe en petits carrés fins (Hogarmania).",
+   "t": "في Betanzos، تُقطَّع بالسكين قطعًا صغيرة رقيقة (Directo al Paladar). ويقطّعها Joseba Arguiñano مربعات صغيرة رقيقة (Hogarmania)."
+  },
+  "steps.2.title": {
+   "fr": "Émince l'oignon",
+   "t": "قطّع البصل شرائح رفيعة"
+  },
+  "steps.2.text": {
+   "fr": "Si tu mets de l'oignon, épluche {{oignon:full}} et émince très finement.",
+   "t": "إذا كنت ستضيف البصل، فقشّر {{oignon:full}} وقطّعها شرائح رفيعة جدًا."
+  },
+  "steps.2.tip": {
+   "fr": "Avec ou sans oignon ? C'est le grand débat de l'Espagne : lis l'onglet des secrets.",
+   "t": "بالبصل أم بدونه؟ إنه الجدل الكبير في إسبانيا: اقرأ تبويب « الأسرار »."
+  },
+  "steps.3.title": {
+   "fr": "Bats les œufs",
+   "t": "اخفق البيض"
+  },
+  "steps.3.text": {
+   "fr": "Casse {{oeufs:full}} un par un dans le grand saladier, sans les cogner sur le bord d'une assiette. Ajoute un peu de {{sel}} et bats-les à la fourchette, juste pour bien mélanger.",
+   "t": "اكسر {{oeufs:full}} واحدة تلو الأخرى في الوعاء الكبير، دون أن تضربها على حافة صحن. أضف قليلًا من الملح واخفقها بالشوكة، فقط حتى تختلط جيدًا."
+  },
+  "steps.3.tip": {
+   "fr": "La coquille peut porter des salmonelles : ne sépare pas les jaunes avec la coquille, et ne lave pas les œufs avant de les ranger au frigo (Comunidad de Madrid).",
+   "t": "قد تحمل القشرة بكتيريا السالمونيلا: لا تفصل الصفار بالقشرة، ولا تغسل البيض قبل وضعه في الثلاجة (Comunidad de Madrid)."
+  },
+  "steps.4.title": {
+   "fr": "Cuis doucement dans l'huile",
+   "t": "اطهُ البطاطا ببطء في الزيت"
+  },
+  "steps.4.text": {
+   "fr": "Verse {{huile}} d'huile d'olive dans la grande poêle profonde, sur feu moyen. Ajoute les pommes de terre, puis l'oignon si tu en mets. Elles doivent cuire doucement, plus confites que frites.",
+   "t": "اسكب {{huile}} من زيت الزيتون في المقلاة الكبيرة العميقة، على نار متوسطة. أضف البطاطا، ثم البصل إن كنت تستعمله. يجب أن تُطهى ببطء: أقرب إلى الطهي البطيء في الزيت منها إلى القلي."
+  },
+  "steps.4.tip": {
+   "fr": "Directo al Paladar met les pommes de terre dans l'huile encore presque froide : elles confisent au lieu de dorer.",
+   "t": "يضع Directo al Paladar البطاطا في الزيت وهو لا يزال شبه بارد: فتُطهى ببطء وتطرى بدل أن تتحمّر."
+  }
+ }
+}

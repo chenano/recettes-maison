@@ -74,10 +74,6 @@
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
-  },
   "ing.piment.name": {
    "fr": "piment rouge fort",
    "t": "стручок острого красного перца"
@@ -85,10 +81,6 @@
   "ing.piment.pl": {
    "fr": "piments rouges forts",
    "t": "стручка острого красного перца"
-  },
-  "ing.piment.pl5": {
-   "fr": "piment rouge fort / piments rouges forts",
-   "t": "стручков острого красного перца"
   },
   "ing.piment.note": {
    "fr": "frais de préférence, sinon sec",
@@ -156,7 +148,7 @@
   },
   "steps.3.text": {
    "fr": "Si tu en mets, hache finement le {{persil}} et garde-en un peu à part pour le service.",
-   "t": "Если вы её добавляете, мелко порубите петрушку и отложите немного для подачи."
+   "t": "Если вы добавляете петрушку, мелко порубите её и отложите немного для подачи."
   },
   "steps.3.img.alt": {
    "fr": "Persil haché au couteau sur une planche",
@@ -172,7 +164,7 @@
   },
   "steps.4.text": {
    "fr": "Quand l'eau bout, sale-la bien avec le {{sel}}, puis plonge {{spaghetti}} de spaghettis. Regarde le temps de cuisson indiqué sur le paquet : tu les égoutteras un peu avant, bien al dente.",
-   "t": "Когда вода закипит, хорошо посолите её, затем опустите в неё {{spaghetti}} спагетти. Посмотрите время варки на упаковке: откинуть спагетти нужно будет немного раньше, когда они ещё хорошо аль денте."
+   "t": "Когда вода закипит, хорошо посолите её, затем опустите в неё {{spaghetti}} спагетти. Посмотрите время варки на упаковке: откинуть спагетти нужно будет немного раньше, пока они ещё упругие, аль денте."
   },
   "steps.5.title": {
    "fr": "Fais blondir l'ail à feu doux",
@@ -208,7 +200,7 @@
   },
   "steps.8.text": {
    "fr": "Égoutte les spaghettis encore bien al dente, ou sors-les de l'eau avec une pince.",
-   "t": "Откиньте спагетти на дуршлаг, пока они ещё хорошо аль денте, или достаньте их из воды щипцами."
+   "t": "Откиньте спагетти на дуршлаг, пока они ещё упругие, аль денте, или достаньте их из воды щипцами."
   },
   "steps.9.title": {
    "fr": "Fais sauter pâtes et sauce",
@@ -284,7 +276,7 @@
   },
   "secrets.7.text": {
    "fr": "Pas de fromage : Antonio Carluccio n'en met pas, et ni Turismo Roma ni les deux recettes de Dissapore n'en prévoient.",
-   "t": "Без сыра: Antonio Carluccio его не кладёт, и ни Turismo Roma, ни оба рецепта Dissapore его не предусматривают."
+   "t": "Без сыра: Antonio Carluccio его не кладёт, и его не предусматривают ни Turismo Roma, ни один из двух рецептов Dissapore."
   },
   "secrets.7.source": {
    "fr": "Antonio Carluccio (Great Italian Chefs), Turismo Roma, Dissapore",
@@ -356,7 +348,7 @@
   },
   "mistakes.5": {
    "fr": "Faire attendre le plat : il se mange dès qu'il est prêt (Turismo Roma, Giorgio Locatelli).",
-   "t": "Заставлять блюдо ждать: его едят сразу, как только оно готово (Turismo Roma, Giorgio Locatelli)."
+   "t": "Тянуть с подачей: блюдо едят сразу, как только оно готово (Turismo Roma, Giorgio Locatelli)."
   },
   "variants.0": {
    "fr": "À l'anchois : fais fondre des filets d'anchois hachés dans l'huile avec l'ail ; Antonio Carluccio en met 4 pour 4 personnes (Great Italian Chefs). Dissapore cite aussi les olives.",
@@ -368,7 +360,7 @@
   },
   "variants.2": {
    "fr": "Sans persil : seulement l'ail, l'huile et le piment, comme Antonio Carluccio et Giorgio Locatelli ; Dissapore (2022) le juge « pas nécessaire ».",
-   "t": "Без петрушки: только чеснок, масло и острый перец, как у Antonio Carluccio и Giorgio Locatelli; Dissapore (2022) считает её «не обязательной»."
+   "t": "Без петрушки: только чеснок, масло и острый перец, как у Antonio Carluccio и Giorgio Locatelli; Dissapore (2022) считает её «необязательной»."
   },
   "variants.3": {
    "fr": "Aux crevettes rouges et au persil (suggestion de Great Italian Chefs autour de la recette d'Antonio Carluccio).",
@@ -377,6 +369,14 @@
   "variants.4": {
    "fr": "Au fromage râpé, comme Giorgio Locatelli (parmesan ou grana padano). Attention : le parmesan (parmigiano reggiano) et le grana padano se font toujours avec de la présure de veau, exigée par leurs cahiers des charges ; si tu veux être strict, prends un autre fromage à pâte dure fait avec un coagulant microbien, sans présure animale.",
    "t": "С тёртым сыром, как у Giorgio Locatelli (пармезан или грана падано). Внимание: пармезан (parmigiano reggiano) и грана падано всегда делают на телячьем сычужном ферменте, этого требуют их регламенты производства; если для вас это принципиально, возьмите другой твёрдый сыр, сделанный на микробном коагулянте, без животного сычужного фермента."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.piment.pl5": {
+   "fr": "piment rouge fort / piments rouges forts",
+   "t": "стручков острого красного перца"
   }
  }
 }

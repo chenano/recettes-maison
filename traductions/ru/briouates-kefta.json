@@ -1,0 +1,514 @@
+{
+ "_slug": "briouates-kefta",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Briouates à la kefta",
+   "t": "Бриуаты с кефтой"
+  },
+  "darija": {
+   "fr": "briwat bel kefta",
+   "t": "бриуат бель кефта"
+  },
+  "tagline": {
+   "fr": "De petits triangles de feuilles de brick croustillants, farcis de kefta aux herbes, au cumin et à la cannelle, liée aux œufs : un classique marocain, à saupoudrer de sucre glace si tu aimes le sucré-salé.",
+   "t": "Маленькие хрустящие треугольники из листов теста брик с начинкой из кефты с зеленью, кумином и корицей, связанной яйцами: марокканская классика; если любите сладко-солёное, посыпьте их сахарной пудрой."
+  },
+  "region": {
+   "fr": "Maroc. My Moroccan Food la dit « classique au Maroc ». Aucune source lue ne donne de région d'origine précise.",
+   "t": "Марокко. My Moroccan Food называет их «классикой в Марокко». Ни в одном из изученных источников не указан точный регион происхождения."
+  },
+  "occasion": {
+   "fr": "Ftour du ramadan (Femmes du Maroc ; Choumicha, rubrique Ramadan) et réceptions (Choumicha, rubriques « Pour recevoir » et « Recettes de fêtes »).",
+   "t": "Ифтар в Рамадан (Femmes du Maroc; Choumicha, рубрика Ramadan) и приёмы гостей (Choumicha, рубрики «Pour recevoir» и «Recettes de fêtes»)."
+  },
+  "img_alt": {
+   "fr": "Briouates pliées en triangle et dorées, sur une assiette blanche (la photo ne précise pas leur garniture)",
+   "t": "Золотистые бриуаты, сложенные треугольником, на белой тарелке (по фото не видно, какая у них начинка)"
+  },
+  "serving": {
+   "fr": "Sers les briouates bien chaudes (Choumicha ; Bladi.net ; Femmes du Maroc). Bladi.net les pose en couronne autour d'une soucoupe de sucre glace et de cannelle ; Femmes du Maroc les saupoudre de cannelle et de sucre glace ; My Moroccan Food les sert sur de la menthe hachée, avec beaucoup de sucre glace et de cannelle. Elles se servent au ftour du ramadan (Femmes du Maroc) et aux réceptions (Choumicha). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "Подавайте бриуаты горячими (Choumicha; Bladi.net; Femmes du Maroc). Bladi.net выкладывает их венком вокруг блюдца с сахарной пудрой и корицей; Femmes du Maroc посыпает их корицей и сахарной пудрой; My Moroccan Food подаёт их на рубленой мяте, щедро посыпав сахарной пудрой и корицей. Их подают на ифтар в Рамадан (Femmes du Maroc) и на приёмах (Choumicha). Остатки: уберите в холодильник в течение 2 часов и съешьте в течение 48 часов; разогревайте их только один раз, пока они не станут очень горячими в центре (FSA). В самой холодной зоне вашего холодильника должно быть 4 °C (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La farce",
+   "t": "Начинка"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile (ou de beurre)",
+   "t": "растительного масла (или сливочного)"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher finement",
+   "t": "мелко нарезать"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf ou agneau)",
+   "t": "халяльного мясного фарша (говяжьего или бараньего)"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина (зиры)"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.1.group": {
+   "fr": "Pliage et friture",
+   "t": "Формовка и жарка"
+  },
+  "ing.feuilles.name": {
+   "fr": "de feuilles de brick (ou de warqa)",
+   "t": "листов теста брик (или варки, тончайших листов теста)"
+  },
+  "ing.jaune.name": {
+   "fr": "jaune d'œuf",
+   "t": "желток"
+  },
+  "ing.jaune.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "желтка"
+  },
+  "ing.jaune.note": {
+   "fr": "pour coller ; prends un jaune entier, même pour une petite fournée",
+   "t": "чтобы склеивать; возьмите целый желток, даже для небольшой порции"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile végétale de friture",
+   "t": "растительное масло для фритюра"
+  },
+  "ing.huile-friture.note": {
+   "fr": "casserole remplie au tiers de sa hauteur au plus",
+   "t": "не больше трети высоты кастрюли"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir (facultatif)",
+   "t": "Для подачи (по желанию)"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "sucre glace",
+   "t": "сахарная пудра"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "si tu aimes le sucré-salé",
+   "t": "если любите сладко-солёное"
+  },
+  "ing.cannelle-service.name": {
+   "fr": "cannelle moulue",
+   "t": "молотая корица"
+  },
+  "ing.cannelle-service.note": {
+   "fr": "avec le sucre glace",
+   "t": "вместе с сахарной пудрой"
+  },
+  "equipment.0": {
+   "fr": "Une planche et un couteau",
+   "t": "Разделочная доска и нож"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle et une cuillère en bois",
+   "t": "Большая сковорода и деревянная ложка"
+  },
+  "equipment.2": {
+   "fr": "Un bol et une fourchette pour les œufs",
+   "t": "Миска и вилка для яиц"
+  },
+  "equipment.3": {
+   "fr": "Un grand plat pour laisser refroidir la farce",
+   "t": "Большое блюдо, чтобы остудить начинку"
+  },
+  "equipment.4": {
+   "fr": "Un torchon propre, légèrement humide, pour couvrir les feuilles",
+   "t": "Чистое, слегка влажное полотенце, чтобы накрыть листы"
+  },
+  "equipment.5": {
+   "fr": "Une plaque couverte de papier sulfurisé",
+   "t": "Противень, застеленный пергаментом"
+  },
+  "equipment.6": {
+   "fr": "Un pinceau ou une petite cuillère pour le jaune d'œuf",
+   "t": "Кисточка или чайная ложка для желтка"
+  },
+  "equipment.7": {
+   "fr": "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde",
+   "t": "Электрическая фритюрница с термостатом (самый безопасный вариант) или глубокая кастрюля"
+  },
+  "equipment.8": {
+   "fr": "Un couvercle à la taille de la casserole, toujours à portée de main",
+   "t": "Крышка по размеру кастрюли — всегда под рукой"
+  },
+  "equipment.9": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "Шумовка и бумажные полотенца"
+  },
+  "steps.0.title": {
+   "fr": "Hache l'oignon et les herbes",
+   "t": "Нарежьте лук и зелень"
+  },
+  "steps.0.text": {
+   "fr": "Épluche et hache finement {{oignon:full}}. Lave le persil et la coriandre, sèche-les bien, puis hache-les : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Очистите и мелко нарежьте лук ({{oignon}} шт.). Вымойте петрушку и кинзу, хорошо обсушите, затем порубите: вам понадобится {{persil}} петрушки и {{coriandre}} кинзы."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, нарубленная ножом на доске"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Нарезка зелени"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Обжарьте лук"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande poêle, chauffe {{huile}} d'huile (ou de beurre) à feu moyen. Ajoute l'oignon et fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "t": "В большой сковороде разогрейте {{huile}} растительного масла (или сливочного) на среднем огне. Добавьте лук и обжаривайте, помешивая, пока он не станет прозрачным."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute la viande et les épices",
+   "t": "Добавьте мясо и специи"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{viande}} de viande hachée, les herbes, {{paprika}} de paprika, {{cumin}} de cumin, {{cannelle}} de cannelle, {{sel}} de sel et {{poivre}} de poivre.",
+   "t": "Добавьте {{viande}} мясного фарша, зелень, {{paprika}} паприки, {{cumin}} кумина, {{cannelle}} корицы, {{sel}} соли и {{poivre}} перца."
+  },
+  "steps.2.tip": {
+   "fr": "Si tu as touché la viande crue, lave-toi les mains à l'eau et au savon (Anses).",
+   "t": "Если вы трогали сырое мясо, вымойте руки водой с мылом (Anses)."
+  },
+  "steps.3.title": {
+   "fr": "Émiette et cuis la viande",
+   "t": "Разомните и прожарьте мясо"
+  },
+  "steps.3.text": {
+   "fr": "Écrase la viande avec la cuillère en bois pour bien l'émietter. Laisse cuire en remuant, jusqu'à ce que tout le liquide de la viande se soit évaporé.",
+   "t": "Разминайте мясо деревянной ложкой, чтобы оно хорошо раскрошилось. Готовьте, помешивая, пока вся жидкость из мяса не испарится."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha cuit sa viande 5 minutes, My Moroccan Food environ 7 minutes. S'il reste du liquide, égoutte la viande : la farce ne doit pas être mouillée (My Moroccan Food).",
+   "t": "Choumicha готовит мясо 5 минут, My Moroccan Food — около 7 минут. Если жидкость осталась, слейте её с мяса: начинка не должна быть мокрой (My Moroccan Food)."
+  },
+  "steps.4.title": {
+   "fr": "Vérifie la cuisson de la viande",
+   "t": "Проверьте готовность мяса"
+  },
+  "steps.4.text": {
+   "fr": "Regarde bien : il ne doit plus rester aucun morceau rose. Toute la viande doit être brune, et de la vapeur doit s'en dégager quand tu la remues. Sinon, prolonge la cuisson de quelques minutes.",
+   "t": "Посмотрите внимательно: не должно остаться ни одного розового кусочка. Всё мясо должно стать коричневым, а при помешивании от него должен идти пар. Если нет, готовьте ещё несколько минут."
+  },
+  "steps.4.tip": {
+   "fr": "La viande hachée doit être cuite jusqu'au centre (FSA, agence sanitaire britannique), surtout pour les jeunes enfants, les femmes enceintes et les personnes immunodéprimées (Anses).",
+   "t": "Мясной фарш должен быть прожарен до самой середины (FSA, британское санитарное ведомство), особенно для маленьких детей, беременных женщин и людей с ослабленным иммунитетом (Anses)."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les œufs",
+   "t": "Добавьте яйца"
+  },
+  "steps.5.text": {
+   "fr": "Bats {{oeufs:full}} à la fourchette. Baisse le feu. Verse les œufs battus peu à peu sur la viande (pour une petite fournée, bats un œuf entier et n'en verse que la part indiquée) et remue sans arrêt, jusqu'à ce qu'ils soient bien cuits, sans partie liquide.",
+   "t": "Взбейте вилкой {{oeufs:full}}. Убавьте огонь. Понемногу вливайте взбитые яйца в мясо (для небольшой порции взбейте целое яйцо и влейте только указанную часть) и непрерывно помешивайте, пока они полностью не приготовятся и не останется жидких участков."
+  },
+  "steps.5.tip": {
+   "fr": "Femmes du Maroc laisse d'abord prendre les œufs, puis mélange toute la farce. My Moroccan Food les brouille à part dans un peu de beurre, puis les mêle à la viande.",
+   "t": "Femmes du Maroc сначала даёт яйцам схватиться, а затем перемешивает всю начинку. My Moroccan Food готовит из них болтунью отдельно на небольшом количестве сливочного масла, а затем смешивает с мясом."
+  },
+  "steps.6.title": {
+   "fr": "Laisse refroidir la farce",
+   "t": "Остудите начинку"
+  },
+  "steps.6.text": {
+   "fr": "Verse la farce dans un grand plat et laisse-la refroidir complètement avant de plier les briouates.",
+   "t": "Выложите начинку на большое блюдо и дайте ей полностью остыть, прежде чем формовать бриуаты."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu ne plies pas les briouates dans les 2 heures, couvre la farce et mets-la au frigo (Anses ; FSA).",
+   "t": "Если вы не формуете бриуаты в течение 2 часов, накройте начинку и уберите в холодильник (Anses; FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Prépare les feuilles",
+   "t": "Подготовьте листы"
+  },
+  "steps.7.text": {
+   "fr": "Coupe chaque feuille de brick en deux ({{feuilles}} en tout). Garde-les sous un torchon propre, légèrement humide, pour qu'elles ne sèchent pas.",
+   "t": "Разрежьте каждый лист теста брик пополам (всего {{feuilles}}). Держите их под чистым, слегка влажным полотенцем, чтобы они не подсохли."
+  },
+  "steps.8.title": {
+   "fr": "Forme une bande",
+   "t": "Сформируйте полоску"
+  },
+  "steps.8.text": {
+   "fr": "Prends une demi-feuille. Rabats le côté arrondi vers le centre, pour obtenir une bande rectangulaire.",
+   "t": "Возьмите половинку листа. Загните закруглённый край к центру, чтобы получилась прямоугольная полоска."
+  },
+  "steps.9.title": {
+   "fr": "Garnis et plie en triangle",
+   "t": "Положите начинку и сверните треугольником"
+  },
+  "steps.9.text": {
+   "fr": "Pose environ 2 cuillères à café de farce (un peu plus d'une demi-cuillère à soupe) à un bout de la bande : avec cette dose, la farce suffit pour toutes les pièces. Rabats un coin sur la farce pour former un triangle. Plie ensuite le triangle sur lui-même, une fois vers la droite, une fois vers la gauche, jusqu'au bout de la bande. La farce doit être bien enfermée.",
+   "t": "Положите около 2 чайных ложек начинки (чуть больше половины столовой ложки) на один конец полоски: при такой порции начинки хватит на все штуки. Загните угол на начинку, чтобы получился треугольник. Затем сворачивайте треугольник, перекидывая его то вправо, то влево, до конца полоски. Начинка должна быть хорошо закрыта."
+  },
+  "steps.9.tip": {
+   "fr": "Quatre ou cinq plis suffisent : trop de couches de feuille, c'est inutile (Taste of Maroc).",
+   "t": "Четырёх-пяти сгибов достаточно: лишние слои теста ни к чему (Taste of Maroc)."
+  },
+  "steps.10.title": {
+   "fr": "Colle la briouate",
+   "t": "Заклейте бриуат"
+  },
+  "steps.10.text": {
+   "fr": "Coupe ce qui dépasse de la feuille. Bats {{jaune:full}}, mets-en un peu sur le bord, puis rentre ce bord sous le pli. Pose la briouate sur la plaque. Plie toutes les autres de la même façon.",
+   "t": "Обрежьте выступающий край листа. Взбейте {{jaune:full}}, немного смажьте край желтком, затем подверните этот край под складку. Выложите бриуат на противень. Так же сверните все остальные."
+  },
+  "steps.10.tip": {
+   "fr": "Choumicha colle ses briouates au blanc d'œuf.",
+   "t": "Choumicha заклеивает свои бриуаты яичным белком."
+  },
+  "steps.11.title": {
+   "fr": "Chauffe l'huile",
+   "t": "Нагрейте масло"
+  },
+  "steps.11.text": {
+   "fr": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile-friture}} : jamais plus d'un tiers de la hauteur. Pose un couvercle de la bonne taille à portée de main. Chauffe à feu moyen : l'huile doit être bien chaude, mais ne jamais fumer. À partir de maintenant, ne la quitte plus des yeux.",
+   "t": "Возьмите фритюрницу с термостатом или глубокую кастрюлю. Налейте {{huile-friture}} — никогда не выше трети высоты. Положите под рукой крышку подходящего размера. Нагревайте на среднем огне: масло должно быть хорошо горячим, но ни в коем случае не дымить. С этого момента не спускайте с него глаз."
+  },
+  "steps.11.tip": {
+   "fr": "Si l'huile fume, coupe le feu et laisse-la refroidir (London Fire Brigade). Si elle prend feu : jamais d'eau, ne déplace pas la casserole, pose vite le couvercle et coupe le feu si tu peux, puis appelle les pompiers (gouvernement du Québec).",
+   "t": "Если масло дымит, выключите огонь и дайте ему остыть (London Fire Brigade). Если оно загорелось: ни в коем случае не лейте воду, не передвигайте кастрюлю, быстро накройте её крышкой и, если можете, выключите огонь, затем вызовите пожарных (правительство Квебека)."
+  },
+  "steps.12.title": {
+   "fr": "Fais frire les briouates",
+   "t": "Обжарьте бриуаты"
+  },
+  "steps.12.text": {
+   "fr": "Fais frire quelques briouates à la fois, sans les serrer. Retourne-les, jusqu'à ce qu'elles soient bien dorées des deux côtés. Sors-les avec l'écumoire et pose-les sur du papier absorbant. Continue avec les autres, puis éteins le feu.",
+   "t": "Жарьте по нескольку бриуатов за раз, чтобы им не было тесно. Переворачивайте их, пока они не станут хорошо золотистыми с обеих сторон. Выньте их шумовкой и выложите на бумажные полотенца. Продолжайте с остальными, затем выключите огонь."
+  },
+  "steps.13.title": {
+   "fr": "Sers chaud",
+   "t": "Подавайте горячими"
+  },
+  "steps.13.text": {
+   "fr": "Sers les briouates bien chaudes. Si tu aimes le sucré-salé, saupoudre-les de {{sucre-glace}} et de {{cannelle-service}}, ou pose-les en couronne autour d'une petite soucoupe de sucre glace mêlé de cannelle.",
+   "t": "Подавайте бриуаты горячими. Если любите сладко-солёное, посыпьте их сахарной пудрой и корицей или выложите венком вокруг маленького блюдца с сахарной пудрой, смешанной с корицей."
+  },
+  "secrets.0.text": {
+   "fr": "Cuis toujours la farce avant de plier les briouates.",
+   "t": "Всегда прожаривайте начинку, прежде чем формовать бриуаты."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha n° 131 et 1330 ; Bladi.net ; Femmes du Maroc ; My Moroccan Food ; Lalla Moulati n° 30191",
+   "t": "Choumicha № 131 и 1330; Bladi.net; Femmes du Maroc; My Moroccan Food; Lalla Moulati № 30191"
+  },
+  "secrets.1.text": {
+   "fr": "Émiette bien la viande à la cuillère pendant la cuisson, pour une farce fine.",
+   "t": "Во время жарки хорошо разминайте мясо ложкой, чтобы начинка была мелкой."
+  },
+  "secrets.1.source": {
+   "fr": "Bladi.net ; My Moroccan Food ; Lalla Moulati n° 30191 et 14937",
+   "t": "Bladi.net; My Moroccan Food; Lalla Moulati № 30191 и 14937"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le liquide de la viande s'évaporer, ou égoutte-le : la farce ne doit pas être mouillée.",
+   "t": "Дайте жидкости из мяса испариться или слейте её: начинка не должна быть мокрой."
+  },
+  "secrets.2.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net; Femmes du Maroc и My Moroccan Food"
+  },
+  "secrets.3.text": {
+   "fr": "La farce classique est liée aux œufs, cuits avec la viande.",
+   "t": "Классическая начинка связывается яйцами, которые готовят вместе с мясом."
+  },
+  "secrets.3.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net; Femmes du Maroc и My Moroccan Food"
+  },
+  "secrets.4.text": {
+   "fr": "La cannelle et le cumin parfument la farce, avec le persil et la coriandre.",
+   "t": "Корица и кумин вместе с петрушкой и кинзой придают начинке аромат."
+  },
+  "secrets.4.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food (cannelle avec sa kefta au cumin, au persil et à la coriandre)",
+   "t": "Bladi.net; Femmes du Maroc; My Moroccan Food (корица в кефте с кумином, петрушкой и кинзой)"
+  },
+  "secrets.5.text": {
+   "fr": "Laisse refroidir la farce avant de la mettre dans les feuilles.",
+   "t": "Дайте начинке остыть, прежде чем выкладывать её на листы."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha n° 131 et 1330 ; Lalla Moulati n° 196443 et 14937 ; Bladi.net (cigares)",
+   "t": "Choumicha № 131 и 1330; Lalla Moulati № 196443 и 14937; Bladi.net (сигары)"
+  },
+  "secrets.6.text": {
+   "fr": "Garde les feuilles sous un linge humide pendant le pliage, sinon elles sèchent.",
+   "t": "Во время формовки держите листы под влажной тканью, иначе они подсохнут."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; Bladi.net (cigares)",
+   "t": "My Moroccan Food; Bladi.net (сигары)"
+  },
+  "secrets.7.text": {
+   "fr": "Une demi-feuille, côtés rabattus vers le centre, et un peu de farce : environ 2 cuillères à café par pièce.",
+   "t": "Половинка листа с загнутыми к центру сторонами и немного начинки: около 2 чайных ложек на штуку."
+  },
+  "secrets.7.source": {
+   "fr": "Femmes du Maroc ; Bladi.net",
+   "t": "Femmes du Maroc; Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Plie en triangle, une fois à droite, une fois à gauche, puis colle le bout et rentre-le sous le pli.",
+   "t": "Сворачивайте треугольником, то вправо, то влево, затем приклейте конец и подверните его под складку."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha n° 493 ; Taste of Maroc (Christine Benlafquih) ; My Moroccan Food",
+   "t": "Choumicha № 493; Taste of Maroc (Christine Benlafquih) и My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Un peu de jaune d'œuf suffit pour coller la briouate.",
+   "t": "Чтобы заклеить бриуат, достаточно немного яичного желтка."
+  },
+  "secrets.9.source": {
+   "fr": "Femmes du Maroc ; Taste of Maroc ; Choumicha, elle, prend du blanc d'œuf",
+   "t": "Femmes du Maroc; Taste of Maroc; а Choumicha использует яичный белок"
+  },
+  "secrets.10.text": {
+   "fr": "Traditionnellement, on les fait frire ; au four, elles sont bonnes aussi.",
+   "t": "Традиционно их жарят во фритюре; в духовке они тоже получаются вкусными."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Choumicha n° 477 ; Lalla Moulati n° 30191",
+   "t": "My Moroccan Food; Choumicha № 477 и Lalla Moulati № 30191"
+  },
+  "secrets.11.text": {
+   "fr": "Sers-les bien chaudes, avec du sucre glace et de la cannelle si tu aimes le sucré-salé.",
+   "t": "Подавайте их горячими, с сахарной пудрой и корицей, если любите сладко-солёное."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net; Femmes du Maroc и My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Plier les briouates avec une viande encore rose : la viande hachée doit être cuite jusqu'au centre (FSA ; Anses).",
+   "t": "Формовать бриуаты с мясом, которое ещё розовое: мясной фарш должен быть прожарен до самой середины (FSA; Anses)."
+  },
+  "mistakes.1": {
+   "fr": "Garder du liquide dans la farce : elle devient mouillée (My Moroccan Food).",
+   "t": "Оставлять жидкость в начинке: она становится мокрой (My Moroccan Food)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre la farce chaude dans les feuilles : laisse-la refroidir avant (Choumicha ; Lalla Moulati).",
+   "t": "Выкладывать на листы горячую начинку: сначала дайте ей остыть (Choumicha; Lalla Moulati)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les feuilles à l'air pendant le pliage : elles sèchent (My Moroccan Food ; Bladi.net).",
+   "t": "Оставлять листы на воздухе во время формовки: они подсыхают (My Moroccan Food; Bladi.net)."
+  },
+  "mistakes.4": {
+   "fr": "Utiliser pour la farce cuite le plat ou la planche de la viande crue (Anses).",
+   "t": "Использовать для готовой начинки блюдо или доску, на которых было сырое мясо (Anses)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la farce ou les briouates plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "Оставлять начинку или бриуаты при комнатной температуре дольше 2 часов, прежде чем убрать в холодильник (Anses; FSA)."
+  },
+  "mistakes.6": {
+   "fr": "Remplir la casserole de plus d'un tiers d'huile, ou laisser l'huile fumer (London Fire Brigade).",
+   "t": "Наливать в кастрюлю масло выше трети её высоты или допускать, чтобы масло дымило (London Fire Brigade)."
+  },
+  "mistakes.7": {
+   "fr": "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+   "t": "Заливать водой горящее масло или передвигать горящую кастрюлю (правительство Квебека)."
+  },
+  "mistakes.8": {
+   "fr": "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+   "t": "Уходить из кухни во время жарки во фритюре (правительство Квебека)."
+  },
+  "variants.0": {
+   "fr": "Au four : My Moroccan Food beurre des rectangles de filo, les dore au jaune d'œuf et les cuit 20 à 25 minutes à 180 °C. Lalla Moulati (n° 30191) cuit ses cigares sur une plaque huilée, jusqu'à ce qu'ils soient dorés dessus et dessous.",
+   "t": "В духовке: My Moroccan Food смазывает прямоугольники теста фило сливочным маслом, покрывает их желтком и выпекает 20–25 минут при 180 °C. Lalla Moulati (№ 30191) выпекает свои сигары на смазанном маслом противне, пока они не подрумянятся сверху и снизу."
+  },
+  "variants.1": {
+   "fr": "En cigares, roulés au lieu d'être pliés en triangle (Choumicha n° 1330 ; Bladi.net ; Lalla Moulati n° 30191).",
+   "t": "В виде сигар: их сворачивают трубочкой, а не складывают треугольником (Choumicha № 1330; Bladi.net; Lalla Moulati № 30191)."
+  },
+  "variants.2": {
+   "fr": "Sans œufs, plus relevée : Choumicha (n° 1330) poche d'abord la viande 15 minutes dans de l'eau au laurier, la hache de nouveau avec ail et coriandre, puis la cuit à la poêle avec paprika, piment fort, cumin, sel et un peu de vinaigre. Lalla Moulati (n° 30191) met ail, herbes, poivre et paprika.",
+   "t": "Без яиц, острее: Choumicha (№ 1330) сначала отваривает мясо 15 минут в воде с лавровым листом, снова измельчает его с чесноком и кинзой, затем обжаривает на сковороде с паприкой, острым перцем, кумином, солью и небольшим количеством уксуса. Lalla Moulati (№ 30191) кладёт чеснок, зелень, перец и паприку."
+  },
+  "variants.3": {
+   "fr": "Au cheddar, à l'aneth et au piment vert (Choumicha n° 131, republiée par Femmes du Maroc). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "С чеддером, укропом и зелёным перцем чили (Choumicha № 131, перепечатано Femmes du Maroc). Если вы строго соблюдаете халяль, берите сыр на микробном ферменте, без животного сычужного фермента."
+  },
+  "variants.4": {
+   "fr": "Avec des olives coupées (Lalla Moulati n° 14937), ou avec des vermicelles chinois et des champignons noirs (Lalla Moulati n° 196443).",
+   "t": "С нарезанными оливками (Lalla Moulati № 14937) или с китайской вермишелью и чёрными грибами (Lalla Moulati № 196443)."
+  },
+  "variants.5": {
+   "fr": "Aux abricots secs et aux amandes (Choumicha n° 477) : agneau, gingembre, muscade, abricots trempés dans du jus d'orange et pâte d'amandes ; au four, ou frites.",
+   "t": "С курагой и миндалём (Choumicha № 477): баранина, имбирь, мускатный орех, курага, замоченная в апельсиновом соке, и миндальная паста; в духовке или жареные во фритюре."
+  },
+  "variants.6": {
+   "fr": "Avec du curcuma, du safran et un peu de sucre dans la farce (Femmes du Maroc).",
+   "t": "С куркумой, шафраном и небольшим количеством сахара в начинке (Femmes du Maroc)."
+  },
+  "variants.7": {
+   "fr": "Grandes briouates : 3 c. à s. de farce dans des rectangles de filo de 10 x 30 cm, environ 15 pièces pour 450 g de viande (My Moroccan Food).",
+   "t": "Большие бриуаты: 3 ст. л. начинки на прямоугольник теста фило размером 10 x 30 см, около 15 штук на 450 г мяса (My Moroccan Food)."
+  },
+  "variants.8": {
+   "fr": "Sans warqa : double épaisseur de pâte filo épaisse, ou feuilles de rouleaux de printemps à base de farine, collées avec un peu d'eau (Taste of Maroc).",
+   "t": "Без листов варки: двойной слой толстого теста фило или мучные листы для спринг-роллов, склеенные небольшим количеством воды (Taste of Maroc)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.jaune.pl5": {
+   "fr": "jaune d'œuf / jaunes d'œufs",
+   "t": "желтков"
+  }
+ }
+}

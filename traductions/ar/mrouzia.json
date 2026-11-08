@@ -1,0 +1,534 @@
+{
+ "_slug": "mrouzia",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Mrouzia : agneau confit au miel, aux raisins secs et aux amandes",
+   "t": "المروزية: لحم الغنم المطهو ببطء بالعسل والزبيب واللوز"
+  },
+  "darija": {
+   "fr": "Mrouzia",
+   "t": "المروزية"
+  },
+  "tagline": {
+   "fr": "L'agneau de l'Aïd, mariné au ras el hanout et confit doucement au smen, puis glacé au miel avec des raisins secs, sous des amandes frites.",
+   "t": "لحم غنم العيد، متبّل برأس الحانوت ومطهو على مهل بالسمن البلدي، ثم مكسوّ بالعسل مع الزبيب، تحت اللوز المقلي."
+  },
+  "region": {
+   "fr": "Maroc, dans presque toutes les régions (variantes à Essaouira, Fès, Rabat, Qasbat Tadla et dans le Rif)",
+   "t": "المغرب، في جميع المناطق تقريبًا (مع اختلافات في الصويرة وفاس والرباط وقصبة تادلة والريف)"
+  },
+  "occasion": {
+   "fr": "Aïd al-Adha (Aïd el-Kébir), surtout les jours qui suivent le sacrifice",
+   "t": "عيد الأضحى (العيد الكبير)، خاصة في الأيام التي تلي ذبح الأضحية"
+  },
+  "img_alt": {
+   "fr": "Mrouzia en gros plan : agneau au miel, raisins secs et amandes (photo prise au Maroc)",
+   "t": "المروزية عن قرب: لحم غنم بالعسل والزبيب واللوز (صورة التُقطت في المغرب)"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, dans un plat creux réchauffé : la viande au centre, les raisins dessus, la sauce par-dessus, puis les amandes frites et, si tu veux, le sésame (Taste of Maroc ; Cooking with Alia ; MWN Lifestyle). Avec du pain pour saucer (Cooking with Alia ; MWN Lifestyle). Ce n'est souvent pas le premier repas de l'Aïd, mais un plat des jours suivants (MWN Lifestyle) ; autrefois, on en réchauffait une part à chaque visite de la famille ou des voisins (Taste of Maroc). Restes : au réfrigérateur dans les 2 heures, 2 jours au plus, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses).",
+   "t": "قدّمها ساخنة جدًا في طبق عميق مُسخَّن: اللحم في الوسط، والزبيب فوقه، والصلصة فوق الجميع، ثم اللوز المقلي، والسمسم إن شئت (Taste of Maroc؛ Cooking with Alia؛ MWN Lifestyle). مع الخبز لغمسه في الصلصة (Cooking with Alia؛ MWN Lifestyle). وغالبًا لا تكون أول وجبة في العيد، بل طبقًا للأيام التالية (MWN Lifestyle)؛ وفي الماضي، كانت تُسخَّن منها حصة عند كل زيارة من العائلة أو الجيران (Taste of Maroc). البقايا: تُحفظ في الثلاجة خلال ساعتين، ولمدة يومين على الأكثر، وتُسخَّن مرة واحدة فقط حتى تصبح شديدة السخونة (FSA؛ Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Marinade",
+   "t": "التتبيلة"
+  },
+  "ing.ras-el-hanout.name": {
+   "fr": "de ras el hanout",
+   "t": "رأس الحانوت"
+  },
+  "ing.ras-el-hanout.note": {
+   "fr": "frais, acheté chez un épicier de confiance",
+   "t": "طازج، يُشترى من عطّار موثوق"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "يُعدَّل في النهاية"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "شعيرات زعفران"
+  },
+  "ing.eau-marinade.name": {
+   "fr": "un peu d'eau",
+   "t": "قليل من الماء"
+  },
+  "ing.eau-marinade.note": {
+   "fr": "juste de quoi délayer les épices",
+   "t": "ما يكفي فقط لتخفيف التوابل"
+  },
+  "ing.1.group": {
+   "fr": "Viande et sauce",
+   "t": "اللحم والصلصة"
+  },
+  "ing.agneau.name": {
+   "fr": "d'agneau halal avec os (collier, épaule ou souris)",
+   "t": "لحم غنم حلال بالعظم (رقبة أو كتف أو ساق)"
+  },
+  "ing.agneau.note": {
+   "fr": "en gros morceaux",
+   "t": "قطع كبيرة"
+  },
+  "ing.oignons.name": {
+   "fr": "gros oignon",
+   "t": "بصلة كبيرة"
+  },
+  "ing.oignons.pl": {
+   "fr": "gros oignons",
+   "t": "بصلات كبيرة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive, ou moitié olive, moitié huile neutre",
+   "t": "زيت الزيتون، أو نصفه زيت زيتون ونصفه زيت المائدة"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "سمن بلدي"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "عود قرفة"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "أعواد قرفة"
+  },
+  "ing.cannelle-baton.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau chaude",
+   "t": "ماء ساخن"
+  },
+  "ing.eau.note": {
+   "fr": "et un peu plus si la sauce attache",
+   "t": "وقليل إضافي إذا التصقت الصلصة بالقاع"
+  },
+  "ing.2.group": {
+   "fr": "Raisins au miel",
+   "t": "الزبيب بالعسل"
+  },
+  "ing.raisins.name": {
+   "fr": "de raisins secs",
+   "t": "زبيب"
+  },
+  "ing.raisins.note": {
+   "fr": "de préférence foncés et pas trop sucrés",
+   "t": "يُفضَّل أن يكون داكنًا وغير شديد الحلاوة"
+  },
+  "ing.miel.name": {
+   "fr": "de miel",
+   "t": "عسل"
+  },
+  "ing.miel.note": {
+   "fr": "Taste of Maroc et Morocco World News acceptent du sucre à la place",
+   "t": "يقبل Taste of Maroc وMorocco World News السكر بدلًا منه"
+  },
+  "ing.3.group": {
+   "fr": "Décor",
+   "t": "التزيين"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes entières mondées (sans peau)",
+   "t": "لوز كامل مقشّر (منزوع الجلدة)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "un fond d'huile neutre",
+   "t": "طبقة رقيقة من زيت المائدة"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "لقلي اللوز"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame grillées",
+   "t": "بذور سمسم محمّصة"
+  },
+  "ing.sesame.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "equipment.0": {
+   "fr": "Grand saladier et film alimentaire, pour la marinade au réfrigérateur",
+   "t": "وعاء كبير وغلاف بلاستيكي للطعام، لتتبيل اللحم في الثلاجة"
+  },
+  "equipment.1": {
+   "fr": "Cocotte ou marmite à fond épais avec couvercle",
+   "t": "طنجرة أو قدر بقاع سميك وغطاء"
+  },
+  "equipment.2": {
+   "fr": "Râpe (gros trous)",
+   "t": "مبشرة (بثقوب كبيرة)"
+  },
+  "equipment.3": {
+   "fr": "Bol, pour faire tremper les raisins",
+   "t": "وعاء، لنقع الزبيب"
+  },
+  "equipment.4": {
+   "fr": "Petite poêle, écumoire et papier absorbant, pour les amandes",
+   "t": "مقلاة صغيرة ومغرفة مثقوبة وورق ماص، للوز"
+  },
+  "equipment.5": {
+   "fr": "Plat de service creux, réchauffé",
+   "t": "طبق تقديم عميق، مُسخَّن"
+  },
+  "equipment.6": {
+   "fr": "Petites boîtes hermétiques, pour les restes",
+   "t": "علب صغيرة محكمة الإغلاق، للبقايا"
+  },
+  "steps.0.title": {
+   "fr": "Prépare la marinade",
+   "t": "حضّر التتبيلة"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{ras-el-hanout}} de ras el hanout, {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{cannelle-moulue}} de cannelle et {{sel}} de sel. Émiette {{safran}} de safran par-dessus. Délaye avec {{eau-marinade}} pour obtenir une sauce épaisse.",
+   "t": "في وعاء كبير، اخلط {{ras-el-hanout}} من رأس الحانوت و{{gingembre}} من الزنجبيل و{{curcuma}} من الكركم و{{poivre}} من الفلفل الأسود و{{cannelle-moulue}} من القرفة و{{sel}} من الملح. فتّت {{safran}} من الزعفران فوق الخليط. خفّفه بقليل من الماء للحصول على صلصة كثيفة."
+  },
+  "steps.1.title": {
+   "fr": "Fais mariner la viande au frais",
+   "t": "اترك اللحم في التتبيلة داخل الثلاجة"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{agneau}} d'agneau et frotte bien chaque morceau avec la marinade. Couvre de film alimentaire et laisse mariner au réfrigérateur au moins 2 h, ou toute la nuit.",
+   "t": "أضف {{agneau}} من لحم الغنم وافرك كل قطعة جيدًا بالتتبيلة. غطِّ الوعاء بالغلاف البلاستيكي واترك اللحم في الثلاجة ساعتين على الأقل، أو طوال الليل."
+  },
+  "steps.1.tip": {
+   "fr": "Une nuit de marinade donne un goût plus profond (MWN Lifestyle) ; Taste of Maroc compte 6 à 12 h, et Choumicha 24 h. Viande crue du mouton de l'Aïd : au réfrigérateur à +3 °C au plus, pendant 5 jours, ou au congélateur à -18 °C (ONSSA).",
+   "t": "ليلة كاملة في التتبيلة تعطي مذاقًا أعمق (MWN Lifestyle)؛ ويحسب Taste of Maroc من 6 إلى 12 ساعة، وChoumicha مدة 24 ساعة. لحم أضحية العيد النيء: في الثلاجة بحرارة لا تتجاوز 3 درجات مئوية، لمدة 5 أيام، أو في المجمّد بحرارة 18 درجة مئوية تحت الصفر (ONSSA)."
+  },
+  "steps.1.timer.label": {
+   "fr": "Marinade",
+   "t": "التتبيل"
+  },
+  "steps.1.timer.done": {
+   "fr": "La viande a mariné : tu peux lancer la cuisson.",
+   "t": "تتبّل اللحم: يمكنك أن تبدأ الطهي."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les oignons",
+   "t": "ابشر البصل"
+  },
+  "steps.2.text": {
+   "fr": "Épluche et râpe {{oignons:full}} avec les gros trous de la râpe, ou hache finement.",
+   "t": "قشّر {{oignons:full}} وابشرها بالثقوب الكبيرة للمبشرة، أو افرمها ناعمًا."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre les oignons",
+   "t": "اطهُ البصل حتى يلين"
+  },
+  "steps.3.text": {
+   "fr": "Dans une cocotte à fond épais, à feu moyen, chauffe {{huile}} d'huile avec {{smen}} de smen. Ajoute l'oignon râpé et fais cuire 5 min en remuant, jusqu'à ce qu'il ramollisse.",
+   "t": "في طنجرة بقاع سميك، على نار متوسطة، سخّن {{huile}} من الزيت مع {{smen}} من السمن البلدي. أضف البصل المبشور واطهه 5 دقائق مع التحريك، حتى يلين."
+  },
+  "steps.3.timer.label": {
+   "fr": "Oignons",
+   "t": "البصل"
+  },
+  "steps.3.timer.done": {
+   "fr": "Ajoute la viande et sa marinade.",
+   "t": "أضف اللحم مع تتبيلته."
+  },
+  "steps.4.title": {
+   "fr": "Fais revenir la viande",
+   "t": "شوّح اللحم"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute la viande avec toute sa marinade, puis {{cannelle-baton:full}}. Fais revenir 10 min en retournant les morceaux de temps en temps, jusqu'à ce qu'ils changent de couleur.",
+   "t": "أضف اللحم مع كل تتبيلته، ثم {{cannelle-baton:full}}. شوّحه 10 دقائق مع تقليب القطع من حين لآخر، حتى يتغيّر لونها."
+  },
+  "steps.4.timer.label": {
+   "fr": "Viande revenue",
+   "t": "تشويح اللحم"
+  },
+  "steps.4.timer.done": {
+   "fr": "Verse l'eau chaude.",
+   "t": "اسكب الماء الساخن."
+  },
+  "steps.5.title": {
+   "fr": "Mouille et laisse mijoter 2 h",
+   "t": "أضف الماء واترك اللحم ينضج ببطء ساعتين"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{eau}} d'eau chaude le long de la paroi de la cocotte, pas directement sur la viande. Porte à frémissement, couvre et laisse cuire 2 h à feu doux. Surveille de temps en temps : la viande ne doit pas attacher. Si la sauce baisse trop vite, ajoute un peu d'eau chaude.",
+   "t": "اسكب {{eau}} من الماء الساخن على جدار الطنجرة، لا على اللحم مباشرة. سخّن حتى يبدأ السائل بالغليان الخفيف، ثم غطِّ الطنجرة واترك اللحم ينضج ساعتين على نار هادئة. راقب الطنجرة من حين لآخر: يجب ألا يلتصق اللحم بالقاع. وإذا نقصت الصلصة بسرعة كبيرة، فأضف قليلًا من الماء الساخن."
+  },
+  "steps.5.tip": {
+   "fr": "Plutôt que de remuer avec une cuillère, secoue doucement la cocotte en la tenant par les anses : les morceaux restent entiers (Choumicha).",
+   "t": "بدل التحريك بملعقة، هزّ الطنجرة برفق ممسكًا إياها من مقبضيها: فتبقى القطع كاملة (Choumicha)."
+  },
+  "steps.5.timer.label": {
+   "fr": "Mijotage",
+   "t": "الطهي ببطء"
+  },
+  "steps.5.timer.done": {
+   "fr": "Vérifie la viande : elle doit être très tendre.",
+   "t": "تحقّق من اللحم: يجب أن يكون طريًا جدًا."
+  },
+  "steps.6.title": {
+   "fr": "Pendant ce temps, fais tremper les raisins",
+   "t": "في هذه الأثناء، انقع الزبيب"
+  },
+  "steps.6.text": {
+   "fr": "Rince {{raisins}} de raisins secs, couvre-les d'eau et laisse-les tremper au moins 1 h, pendant que la viande cuit.",
+   "t": "اغسل {{raisins}} من الزبيب، واغمره بالماء واتركه منقوعًا ساعة على الأقل، بينما ينضج اللحم."
+  },
+  "steps.7.title": {
+   "fr": "Pendant ce temps, fais frire les amandes",
+   "t": "في هذه الأثناء، اقلِ اللوز"
+  },
+  "steps.7.text": {
+   "fr": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen : l'huile doit être chaude, pas fumante. Fais-y frire {{amandes}} d'amandes en remuant souvent, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant.",
+   "t": "في مقلاة صغيرة، سخّن {{huile-friture}} على نار متوسطة: يجب أن يكون الزيت ساخنًا دون أن يتصاعد منه الدخان. اقلِ فيه {{amandes}} من اللوز مع التحريك كثيرًا، حتى يصبح ذهبي اللون. صفّه على ورق ماص."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie que la viande est tendre",
+   "t": "تحقّق من أن اللحم طري"
+  },
+  "steps.8.text": {
+   "fr": "Au bout de 2 h, la viande doit être très tendre et se détacher facilement de l'os. Sinon, couvre et prolonge la cuisson en vérifiant souvent. Retire les bâtons de cannelle.",
+   "t": "بعد ساعتين، يجب أن يكون اللحم طريًا جدًا وأن ينفصل عن العظم بسهولة. وإلا، فغطِّ الطنجرة وأطِل مدة الطهي مع التحقق كثيرًا. أخرج أعواد القرفة."
+  },
+  "steps.8.tip": {
+   "fr": "À ce moment, la sauce doit couvrir à peu près la moitié de la viande (Cooking with Alia).",
+   "t": "في هذه المرحلة، يجب أن تغطي الصلصة نصف اللحم تقريبًا (Cooking with Alia)."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les raisins et le miel",
+   "t": "أضف الزبيب والعسل"
+  },
+  "steps.9.text": {
+   "fr": "Égoutte les raisins et ajoute-les dans la cocotte avec {{miel}} de miel. Secoue doucement la cocotte pour les répartir. Laisse cuire à découvert, à feu moyen-doux, au moins 10 min, en secouant de temps en temps. La sauce est prête quand elle est épaisse et sirupeuse, sans liquide clair. Surveille bien pour qu'elle n'attache pas. Goûte et rectifie le sel.",
+   "t": "صفِّ الزبيب وأضفه إلى الطنجرة مع {{miel}} من العسل. هزّ الطنجرة برفق لتوزيعه. واصل الطهي دون غطاء على نار متوسطة إلى هادئة 10 دقائق على الأقل، مع هزّ الطنجرة من حين لآخر. تكون الصلصة جاهزة عندما تصبح كثيفة وقوامها كالشراب، دون سائل صافٍ. راقبها جيدًا حتى لا تلتصق بالقاع. تذوّق وعدّل الملح."
+  },
+  "steps.9.timer.label": {
+   "fr": "Sauce au miel",
+   "t": "صلصة العسل"
+  },
+  "steps.9.timer.done": {
+   "fr": "Sauce épaisse et sirupeuse ? Sinon, continue quelques minutes en surveillant.",
+   "t": "هل الصلصة كثيفة وقوامها كالشراب؟ وإلا، فواصل بضع دقائق مع المراقبة."
+  },
+  "steps.10.title": {
+   "fr": "Dresse et sers bien chaud",
+   "t": "رتّب الطبق وقدّمه ساخنًا جدًا"
+  },
+  "steps.10.text": {
+   "fr": "Pose la viande au centre d'un plat chaud. Mets les raisins dessus et nappe de sauce. Parsème d'amandes frites et de {{sesame}} de sésame. Sers aussitôt, bien chaud, avec du pain.",
+   "t": "ضع اللحم في وسط طبق ساخن. ضع الزبيب فوقه واسكب عليه الصلصة. رشّ عليه اللوز المقلي و{{sesame}} من السمسم. قدّمه فورًا وهو ساخن جدًا، مع الخبز."
+  },
+  "steps.11.title": {
+   "fr": "Range vite les restes",
+   "t": "احفظ البقايا بسرعة"
+  },
+  "steps.11.text": {
+   "fr": "Répartis les restes dans de petites boîtes fermées et mets-les au réfrigérateur dans les 2 h. Mange-les dans les 2 jours, ou congèle-les. Réchauffe seulement la part à servir, à couvert et à feu doux, jusqu'à ce qu'elle soit brûlante au cœur, et une seule fois. Garde les amandes à part et ajoute-les au moment de servir.",
+   "t": "وزّع البقايا في علب صغيرة مغلقة وضعها في الثلاجة خلال ساعتين. كُلها خلال يومين، أو جمّدها. سخّن فقط الحصة التي ستقدّمها، مغطّاة وعلى نار هادئة، حتى تصبح شديدة السخونة في القلب، ومرة واحدة فقط. احتفظ باللوز على حدة وأضفه عند التقديم."
+  },
+  "secrets.0.text": {
+   "fr": "Le nom « mrouzia » vient de l'arabe classique « marwaziyya », qui veut dire « de Marw » : Merv, une ancienne ville d'Asie centrale, aujourd'hui Mary, au Turkménistan. Le mot existait déjà en arabe d'al-Andalus, pour un plat de bœuf ou de poulet.",
+   "t": "اسم «المروزية» مأخوذ من الكلمة العربية الفصحى «مَرْوَزِيّة»، أي «المنسوبة إلى مَرْو»، وهي مدينة قديمة في آسيا الوسطى تُسمّى اليوم ماري، في تركمانستان. وكانت الكلمة موجودة من قبل في عربية الأندلس، لطبق من لحم البقر أو الدجاج."
+  },
+  "secrets.0.source": {
+   "fr": "Jordi Aguadé et Laila Benyahia, Estudios de Dialectología Norteafricana y Andalusí n° 8, 2004 (d'après le dictionnaire de Federico Corriente) ; Hespress (Saâd Sarhane, 2020), qui donne aussi Marw, ville du Khorassan, comme l'une des versions de l'origine du nom",
+   "t": "Jordi Aguadé وLaila Benyahia، Estudios de Dialectología Norteafricana y Andalusí العدد 8، 2004 (استنادًا إلى قاموس Federico Corriente)؛ Hespress (Saâd Sarhane، 2020)، الذي يذكر أيضًا مرو، مدينة خراسان، كإحدى روايات أصل الاسم"
+  },
+  "secrets.1.text": {
+   "fr": "Autrefois, sans réfrigérateur, la mrouzia servait à garder la viande du mouton de l'Aïd : on la faisait riche en gras et en miel, on la cuisait jusqu'à ce qu'il ne reste plus d'eau, puis on la rangeait dans des jarres en terre, couverte de sa sauce. En refroidissant, le gras formait une couche protectrice.",
+   "t": "في الماضي، ومن دون ثلاجة، كانت المروزية وسيلة لحفظ لحم أضحية العيد: كانت تُحضَّر غنية بالدهن والعسل، وتُطهى حتى لا يبقى فيها ماء، ثم تُحفظ في جرار من الطين مغطّاة بصلصتها. وعندما تبرد، يشكّل الدهن طبقة واقية."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (« riche en graisse et en miel afin d'en permettre la conservation ») ; Taste of Maroc ; Bladi.net ; Hespress ; Morocco World News (2012)",
+   "t": "Choumicha («غنية بالدهن والعسل لتسمح بحفظها»)؛ Taste of Maroc؛ Bladi.net؛ Hespress؛ Morocco World News (2012)"
+  },
+  "secrets.2.text": {
+   "fr": "Aujourd'hui, ne la garde pas comme autrefois : mets les restes au réfrigérateur dans les 2 heures, en petites boîtes, et mange-les dans les 2 jours (moins de 3 jours selon l'Anses), ou congèle-les. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants.",
+   "t": "أما اليوم، فلا تحفظها كما في الماضي: ضع البقايا في الثلاجة خلال ساعتين، في علب صغيرة، وكُلها خلال يومين (أقل من 3 أيام حسب Anses)، أو جمّدها. وأعد تسخينها مرة واحدة فقط، حتى تصبح شديدة السخونة."
+  },
+  "secrets.2.source": {
+   "fr": "Food Standards Agency (Royaume-Uni) ; Anses (France)",
+   "t": "Food Standards Agency (المملكة المتحدة)؛ Anses (فرنسا)"
+  },
+  "secrets.3.text": {
+   "fr": "Choisis des morceaux avec os qui supportent une longue cuisson : collier, épaule ou souris. Le collier, cuit à petit feu, devient très tendre.",
+   "t": "اختر قطعًا بالعظم تتحمّل الطهي الطويل: الرقبة أو الكتف أو الساق. فالرقبة تصبح طرية جدًا عندما تُطهى على نار هادئة."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha (collier) ; Taste of Maroc ; Cooking with Alia ; MWN Lifestyle ; Le360 (collier « très tendre » à petit feu)",
+   "t": "Choumicha (الرقبة)؛ Taste of Maroc؛ Cooking with Alia؛ MWN Lifestyle؛ Le360 (الرقبة «طرية جدًا» على نار هادئة)"
+  },
+  "secrets.4.text": {
+   "fr": "Achète ton ras el hanout chez un épicier de confiance : avec de bons raisins secs, c'est lui qui fait une bonne mrouzia. Autrefois, la veille de l'Aïd, les mères exigeaient au souk des épices un ras el hanout bien complet.",
+   "t": "اشترِ رأس الحانوت من عطّار موثوق: فهو، مع زبيب جيد، ما يصنع مروزية جيدة. وفي الماضي، عشية العيد، كانت الأمهات يشترطن في سوق التوابل رأس حانوت مكتمل العناصر."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Hespress (Saâd Sarhane)",
+   "t": "Taste of Maroc؛ Hespress (Saâd Sarhane)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais mariner la viande au réfrigérateur au moins 2 heures, et toute la nuit si tu peux.",
+   "t": "اترك اللحم في التتبيلة داخل الثلاجة ساعتين على الأقل، وطوال الليل إن استطعت."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia ; MWN Lifestyle ; Taste of Maroc (6 à 12 h) ; Choumicha (24 h)",
+   "t": "Cooking with Alia؛ MWN Lifestyle؛ Taste of Maroc (من 6 إلى 12 ساعة)؛ Choumicha (24 ساعة)"
+  },
+  "secrets.6.text": {
+   "fr": "Astuce d'une cuisinière de Casablanca : délaye les épices dans un verre d'eau, mets la moitié sur la viande, et fais tremper les raisins dans l'autre moitié.",
+   "t": "نصيحة من طبّاخة من الدار البيضاء: خفّف التوابل في كأس من الماء، وضع نصفه على اللحم، وانقع الزبيب في النصف الآخر."
+  },
+  "secrets.6.source": {
+   "fr": "Jordi Aguadé et Laila Benyahia (recette recueillie à Casablanca, 2004)",
+   "t": "Jordi Aguadé وLaila Benyahia (وصفة جُمعت في الدار البيضاء، 2004)"
+  },
+  "secrets.7.text": {
+   "fr": "Verse l'eau le long de la paroi, pas sur la viande : tu ne rinces pas les épices.",
+   "t": "اسكب الماء على جدار الطنجرة، لا على اللحم: فلا تغسل التوابل عنه."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "Ne remue pas avec une cuillère : secoue la cocotte en la tenant par les anses, et la viande reste entière.",
+   "t": "لا تحرّك بملعقة: هزّ الطنجرة ممسكًا إياها من مقبضيها، فيبقى اللحم قطعًا كاملة."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.9.text": {
+   "fr": "Ajoute les raisins et le miel seulement quand la viande est tendre, puis fais réduire jusqu'à une sauce épaisse et sirupeuse : il ne doit pas rester de sauce liquide.",
+   "t": "لا تضف الزبيب والعسل إلا عندما يصبح اللحم طريًا، ثم كثّف الصلصة حتى تصبح كثيفة وقوامها كالشراب: يجب ألا تبقى صلصة سائلة."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Bladi.net ; Taste of Maroc ; Cooking with Alia ; MWN Lifestyle ; Femmes du Maroc",
+   "t": "Choumicha؛ Bladi.net؛ Taste of Maroc؛ Cooking with Alia؛ MWN Lifestyle؛ Femmes du Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Prends des raisins secs foncés, un peu acidulés plutôt que très sucrés : ils équilibrent le miel.",
+   "t": "اختر زبيبًا داكنًا، مائلًا قليلًا إلى الحموضة بدل أن يكون شديد الحلاوة: فهو يوازن العسل."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Fais frire les amandes dans une huile chaude, mais pas trop, et retire-les dès qu'elles sont dorées. Garde-les à part et ajoute-les au dernier moment.",
+   "t": "اقلِ اللوز في زيت ساخن، لكن ليس أكثر من اللازم، وأخرجه فور أن يصبح ذهبي اللون. احتفظ به على حدة وأضفه في اللحظة الأخيرة."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MWN Lifestyle ; Cooking with Alia",
+   "t": "Taste of Maroc؛ MWN Lifestyle؛ Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Le goût de la mrouzia se renforce après une nuit au réfrigérateur ; réchauffe-la doucement, à feu doux, jusqu'à ce qu'elle soit brûlante au cœur (FSA ; Anses).",
+   "t": "يقوى مذاق المروزية بعد ليلة في الثلاجة؛ سخّنها على مهل، على نار هادئة، حتى تصبح شديدة السخونة في القلب (FSA؛ Anses)."
+  },
+  "secrets.12.source": {
+   "fr": "MWN Lifestyle",
+   "t": "MWN Lifestyle"
+  },
+  "mistakes.0": {
+   "fr": "Ajouter les raisins et le miel au début : toutes les recettes les mettent quand la viande est tendre (Choumicha, Taste of Maroc, Cooking with Alia, Bladi.net, MWN Lifestyle).",
+   "t": "إضافة الزبيب والعسل في البداية: كل الوصفات تضيفهما عندما يصبح اللحم طريًا (Choumicha، Taste of Maroc، Cooking with Alia، Bladi.net، MWN Lifestyle)."
+  },
+  "mistakes.1": {
+   "fr": "Servir avec une sauce liquide : elle doit être épaisse et sirupeuse, sans liquide clair (Taste of Maroc ; MWN Lifestyle).",
+   "t": "التقديم بصلصة سائلة: يجب أن تكون كثيفة وقوامها كالشراب، دون سائل صافٍ (Taste of Maroc؛ MWN Lifestyle)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la viande attacher et brûler au fond de la cocotte : surveille, et rajoute un peu d'eau chaude si besoin (Taste of Maroc ; Cooking with Alia ; MWN Lifestyle).",
+   "t": "ترك اللحم يلتصق بقاع الطنجرة ويحترق: راقبه، وأضف قليلًا من الماء الساخن عند الحاجة (Taste of Maroc؛ Cooking with Alia؛ MWN Lifestyle)."
+  },
+  "mistakes.3": {
+   "fr": "Remuer avec une cuillère : la viande se défait (Choumicha).",
+   "t": "التحريك بملعقة: فيتفتّت اللحم (Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Verser l'eau directement sur la viande : elle rince les épices (Taste of Maroc).",
+   "t": "سكب الماء على اللحم مباشرة: فهو يغسل التوابل عنه (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Frire les amandes dans une huile trop chaude (Taste of Maroc).",
+   "t": "قلي اللوز في زيت شديد السخونة (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser mariner la viande hors du réfrigérateur : la marinade se fait au froid (Cooking with Alia ; Taste of Maroc ; Choumicha ; Anses : viandes dans la zone la plus froide du réfrigérateur).",
+   "t": "ترك اللحم في التتبيلة خارج الثلاجة: فالتتبيل يتم في البرودة (Cooking with Alia؛ Taste of Maroc؛ Choumicha؛ Anses: اللحوم في أبرد جزء من الثلاجة)."
+  },
+  "mistakes.7": {
+   "fr": "Garder la mrouzia des semaines, comme autrefois : 2 jours au réfrigérateur (FSA), moins de 3 jours (Anses), sinon au congélateur.",
+   "t": "حفظ المروزية أسابيع كما في الماضي: يومان في الثلاجة (FSA)، أقل من 3 أيام (Anses)، وإلا ففي المجمّد."
+  },
+  "mistakes.8": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur, ou les réchauffer plusieurs fois (Anses ; FSA).",
+   "t": "ترك البقايا أكثر من ساعتين خارج الثلاجة، أو إعادة تسخينها عدة مرات (Anses؛ FSA)."
+  },
+  "variants.0": {
+   "fr": "M'rouzia d'Essaouira (Choumicha) : collier d'agneau mariné 2 h dans de l'eau épicée (avec du cubèbe), graisse de rognons hachée, 3 h de cuisson ; sans miel : les raisins secs beldi d'Essaouira et les amandes confisent dans le gras de cuisson de la viande.",
+   "t": "مروزية الصويرة (Choumicha): رقبة غنم متبّلة ساعتين في ماء بالتوابل (مع الكبابة)، وشحم الكلى المفروم، و3 ساعات من الطهي؛ بلا عسل: ينضج زبيب الصويرة البلدي واللوز على مهل في الدهن الناتج عن طهي اللحم."
+  },
+  "variants.1": {
+   "fr": "Version allégée de Choumicha : sans oignon, avec 8 gousses d'ail pilées pour 2 kg de viande, du miel de fleurs d'oranger et une marinade de 24 h au réfrigérateur ; amandes grillées et concassées.",
+   "t": "نسخة Choumicha الخفيفة: بلا بصل، مع 8 فصوص ثوم مهروسة لكل 2 كغ من اللحم، وعسل زهر البرتقال، وتتبيل 24 ساعة في الثلاجة؛ ولوز محمّص ومجروش."
+  },
+  "variants.2": {
+   "fr": "Avec de l'ail : Choumicha, Femmes du Maroc et Morocco World News (2012) en mettent ; Hespress le cite parmi les ingrédients de base.",
+   "t": "بالثوم: تضعه Choumicha وFemmes du Maroc وMorocco World News (2012)؛ ويذكره Hespress ضمن المكونات الأساسية."
+  },
+  "variants.3": {
+   "fr": "Plus riche : avec du beurre en plus de l'huile (Bladi.net, Cooking with Alia, Morocco World News 2012, recette de Casablanca recueillie par Aguadé et Benyahia).",
+   "t": "أغنى: مع الزبدة إضافةً إلى الزيت (Bladi.net، Cooking with Alia، Morocco World News 2012، ووصفة الدار البيضاء التي جمعها Aguadé وBenyahia)."
+  },
+  "variants.4": {
+   "fr": "Avec les os : à l'origine, chez les Fassis, on faisait la mrouzia avec les os et les morceaux restés après la découpe (Taste of Maroc) ; à Casablanca, on la prépare le troisième jour de l'Aïd avec les os et les jarrets du mouton (recette recueillie par Aguadé et Benyahia).",
+   "t": "بالعظام: في الأصل، كان أهل فاس يحضّرون المروزية بالعظام والقطع المتبقية بعد التقطيع (Taste of Maroc)؛ وفي الدار البيضاء، تُحضَّر في اليوم الثالث من العيد بعظام الخروف وعراقيبه (وصفة جمعها Aguadé وBenyahia)."
+  },
+  "variants.5": {
+   "fr": "Variantes régionales selon Taste of Maroc : avec du cumin à Qasbat Tadla ; appelée « m'assal » à Rabat et chez des Juifs marocains ; dans le Rif, la « tahlia » remplace les raisins par un jus de raisin concentré (samt).",
+   "t": "اختلافات جهوية حسب Taste of Maroc: بالكمون في قصبة تادلة؛ وتُسمّى «المعسّل» في الرباط ولدى بعض اليهود المغاربة؛ وفي الريف، تُعوِّض «التحلية» الزبيب بعصير عنب مركّز (samt)."
+  },
+  "variants.6": {
+   "fr": "À l'autocuiseur : 40 min sous pression, puis 10 min avec les raisins et le miel (Morocco World News, 2012).",
+   "t": "في طنجرة الضغط: 40 دقيقة تحت الضغط، ثم 10 دقائق مع الزبيب والعسل (Morocco World News، 2012)."
+  },
+  "variants.7": {
+   "fr": "Au sucre à la place du miel (Taste of Maroc ; Morocco World News, 2012).",
+   "t": "بالسكر بدل العسل (Taste of Maroc؛ Morocco World News، 2012)."
+  },
+  "variants.8": {
+   "fr": "Amandes grillées plutôt que frites : au four à 160 °C environ 25 min (Taste of Maroc) ; grillées chez Choumicha et Femmes du Maroc.",
+   "t": "لوز محمّص بدل المقلي: في الفرن على حرارة 160 درجة مئوية لمدة 25 دقيقة تقريبًا (Taste of Maroc)؛ ومحمّص عند Choumicha وFemmes du Maroc."
+  },
+  "variants.9": {
+   "fr": "Aux pruneaux : Bladi.net publie aussi une « mrouzia » aux pruneaux caramélisés, sans raisins secs.",
+   "t": "بالبرقوق: ينشر Bladi.net أيضًا «مروزية» بالبرقوق المكرمل، دون زبيب."
+  },
+  "variants.10": {
+   "fr": "Décor : quelques pétales de rose séchés (Taste of Maroc).",
+   "t": "التزيين: بضع بتلات من الورد المجفّف (Taste of Maroc)."
+  }
+ }
+}

@@ -1,0 +1,550 @@
+{
+ "_slug": "tajine-petits-pois-artichauts",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Tajine de viande aux petits pois et aux artichauts",
+   "t": "Таджин из мяса с горошком и артишоками"
+  },
+  "darija": {
+   "fr": "Tajine jelbana",
+   "t": "Таджин жельбана"
+  },
+  "tagline": {
+   "fr": "Une viande fondante au gingembre et au curcuma, des cœurs d'artichauts et des petits pois tendres, et une touche de citron confit.",
+   "t": "Тающее во рту мясо с имбирём и куркумой, сердцевины артишоков, нежный зелёный горошек и нотка солёного лимона."
+  },
+  "region": {
+   "fr": "Maroc : selon My Moroccan Food, le tajine d'artichauts s'y prépare traditionnellement avec de la viande et des petits pois. Aucune source lue ne le rattache à une région précise.",
+   "t": "Марокко: по данным My Moroccan Food, таджин с артишоками там традиционно готовят с мясом и горошком. Ни один из прочитанных источников не связывает его с конкретным регионом."
+  },
+  "occasion": {
+   "fr": "Plat familial (Rachida) : au Maroc, le tajine est le plat principal du déjeuner de tous les jours (Morocco World News). C'est le tajine du printemps, quand les artichauts et les petits pois frais arrivent au marché (MarocMama) ; Rachida le dit aussi très apprécié pendant le Ramadan, quelques heures après le ftour.",
+   "t": "Семейное блюдо (Rachida): в Марокко таджин — главное блюдо повседневного обеда (Morocco World News). Это весенний таджин: его готовят, когда на рынке появляются свежие артишоки и горошек (MarocMama); по словам Rachida, его также очень любят во время Рамадана, через несколько часов после ифтара."
+  },
+  "img_alt": {
+   "fr": "Tajine de bœuf aux petits pois et au citron confit, servi sur de la semoule (photo d'une version sans artichauts)",
+   "t": "Таджин из говядины с горошком и солёным лимоном, поданный на семолине (фото варианта без артишоков)"
+  },
+  "serving": {
+   "fr": "Bien chaud (Choumicha) et aussitôt (Cooking With Alia) : la viande au centre, les petits pois dessus, les fonds d'artichauts en décor et la sauce autour (Rachida ; Bladi.net ; Cooking With Alia). Au Maroc, le tajine est le plat principal du déjeuner, mangé avec du pain maison (Morocco World News). Rachida le sert avec du pain maison ou du matlou3 ; Cooking With Alia avec du pain marocain ou une baguette ; My Moroccan Food sert sa version végétale avec du couscous ou du pain.",
+   "t": "Очень горячим (Choumicha) и сразу (Cooking With Alia): мясо в центре, горошек сверху, донца артишоков для украшения, соус вокруг (Rachida; Bladi.net; Cooking With Alia). В Марокко таджин — главное блюдо обеда, его едят с домашним хлебом (Morocco World News). Rachida подаёт его с домашним хлебом или matlou3; Cooking With Alia — с марокканским хлебом или багетом; My Moroccan Food подаёт свой вариант без мяса с кускусом или хлебом."
+  },
+  "ing.0.group": {
+   "fr": "Viande et sauce",
+   "t": "Мясо и соус"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de veau halal (épaule, collier ou gigot, avec os)",
+   "t": "баранины или телятины халяль (лопатка, шея или окорок, на кости)"
+  },
+  "ing.viande.note": {
+   "fr": "en gros morceaux",
+   "t": "крупными кусками"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher finement",
+   "t": "мелко нарезать"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser ou à râper",
+   "t": "раздавить или натереть"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "в конце скорректировать по вкусу"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "рылец шафрана"
+  },
+  "ing.safran.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "рубленой свежей кинзы и петрушки"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.eau.note": {
+   "fr": "juste de quoi couvrir la viande",
+   "t": "ровно столько, чтобы покрыть мясо"
+  },
+  "ing.1.group": {
+   "fr": "Légumes",
+   "t": "Овощи"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.note": {
+   "fr": "pour l'eau citronnée des artichauts",
+   "t": "для воды с лимоном, в которую кладут артишоки"
+  },
+  "ing.artichauts.name": {
+   "fr": "artichaut frais",
+   "t": "свежий артишок"
+  },
+  "ing.artichauts.pl": {
+   "fr": "artichauts frais",
+   "t": "свежих артишока"
+  },
+  "ing.artichauts.note": {
+   "fr": "ou le même nombre de fonds d'artichauts surgelés (6 fonds pèsent environ 350 g)",
+   "t": "или столько же замороженных донец артишоков (6 донец весят около 350 г)"
+  },
+  "ing.petits-pois.name": {
+   "fr": "de petits pois écossés, frais ou surgelés",
+   "t": "очищенного зелёного горошка, свежего или замороженного"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "Завершение и подача"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "солёный лимон"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "солёного лимона"
+  },
+  "ing.citron-confit.note": {
+   "fr": "l'écorce seulement",
+   "t": "только корка"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives violettes",
+   "t": "фиолетовых оливок"
+  },
+  "ing.olives.note": {
+   "fr": "facultatives",
+   "t": "по желанию"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre et persil hachés",
+   "t": "рубленые кинза и петрушка"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour servir",
+   "t": "для подачи"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "хлеб (хобз)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "чтобы собирать соус"
+  },
+  "equipment.0": {
+   "fr": "Cocotte à fond épais avec couvercle (ou tajine en terre posé sur un diffuseur de chaleur)",
+   "t": "Кастрюля с толстым дном и крышкой (или глиняный таджин на рассекателе пламени)"
+  },
+  "equipment.1": {
+   "fr": "Grand bol, pour l'eau citronnée",
+   "t": "Большая миска для воды с лимоном"
+  },
+  "equipment.2": {
+   "fr": "Couteau d'office à lame inox",
+   "t": "Овощной нож с лезвием из нержавеющей стали"
+  },
+  "equipment.3": {
+   "fr": "Petite cuillère, pour retirer le foin des artichauts",
+   "t": "Чайная ложка, чтобы удалить ворсинки артишоков"
+  },
+  "equipment.4": {
+   "fr": "Planche à découper",
+   "t": "Разделочная доска"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "equipment.6": {
+   "fr": "Plat de service creux",
+   "t": "Глубокое блюдо для подачи"
+  },
+  "steps.0.title": {
+   "fr": "Prépare l'eau citronnée",
+   "t": "Приготовьте воду с лимоном"
+  },
+  "steps.0.text": {
+   "fr": "Remplis un grand bol d'eau froide. Presse {{citron:full}} et verse le jus dans l'eau. Garde le citron pressé pour frotter les artichauts.",
+   "t": "Наполните большую миску холодной водой. Выжмите {{citron:full}} и влейте сок в воду. Выжатый лимон сохраните, чтобы натирать им артишоки."
+  },
+  "steps.0.tip": {
+   "fr": "Frotte-toi aussi le bout des doigts avec un peu de citron : tes doigts ne se tacheront pas (Cooking With Alia).",
+   "t": "Натрите небольшим количеством лимона и кончики пальцев: тогда на них не останется пятен (Cooking With Alia)."
+  },
+  "steps.1.title": {
+   "fr": "Nettoie les artichauts",
+   "t": "Очистите артишоки"
+  },
+  "steps.1.text": {
+   "fr": "Avec un couteau à lame inox, retire les feuilles dures de {{artichauts:full}}, puis les feuilles tendres, jusqu'au cœur. Coupe la tige au ras du fond et pare le contour pour ne laisser aucun reste de feuille. Retire le foin avec une petite cuillère. Frotte chaque fond avec un morceau de citron et plonge-le aussitôt dans l'eau citronnée.",
+   "t": "Ножом с лезвием из нержавеющей стали удалите с артишоков ({{artichauts}} шт.) жёсткие листья, затем мягкие — до самой сердцевины. Срежьте стебель вровень с донцем и зачистите края, чтобы не осталось ни кусочка листьев. Чайной ложкой удалите ворсинки. Натрите каждое донце кусочком лимона и сразу опустите его в воду с лимоном."
+  },
+  "steps.1.tip": {
+   "fr": "Avec des fonds d'artichauts surgelés, saute cette étape : laisse-les au congélateur jusqu'au moment de les cuire (Rachida).",
+   "t": "Если вы берёте замороженные донца артишоков, пропустите этот шаг: держите их в морозильной камере до самого приготовления (Rachida)."
+  },
+  "steps.2.title": {
+   "fr": "Hache oignon, ail et herbes",
+   "t": "Измельчите лук, чеснок и зелень"
+  },
+  "steps.2.text": {
+   "fr": "Hache finement {{oignon:full}}. Écrase ou râpe {{ail:full}}. Hache la coriandre et le persil : il en faut {{herbes}}, plus un peu pour servir.",
+   "t": "Мелко нарежьте лук ({{oignon}} шт.). Раздавите или натрите {{ail:full}}. Порубите кинзу и петрушку: их нужно {{herbes}} и ещё немного для подачи."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, нарубленная ножом на разделочной доске"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir la viande dans les épices",
+   "t": "Обжарьте мясо со специями"
+  },
+  "steps.3.text": {
+   "fr": "Dans une cocotte à fond épais, mets {{viande}} de viande en gros morceaux, l'oignon, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran si tu en mets, et les herbes hachées. Mélange bien pour que la viande s'imprègne des épices. Couvre et laisse revenir 10 minutes à feu doux, en remuant souvent.",
+   "t": "Положите в кастрюлю с толстым дном {{viande}} мяса крупными кусками, лук, чеснок и {{huile:full}}. Добавьте {{gingembre:full}}, {{curcuma:full}}, {{poivre:full}}, {{sel:full}}, шафран ({{safran}}), если используете, и рубленую зелень. Хорошо перемешайте, чтобы мясо пропиталось специями. Накройте крышкой и обжаривайте 10 минут на слабом огне, часто помешивая."
+  },
+  "steps.3.timer.label": {
+   "fr": "Viande revenue",
+   "t": "Мясо обжарено"
+  },
+  "steps.3.timer.done": {
+   "fr": "La viande s'est imprégnée des épices : verse l'eau.",
+   "t": "Мясо пропиталось специями: влейте воду."
+  },
+  "steps.4.title": {
+   "fr": "Mouille et laisse mijoter 1 heure",
+   "t": "Залейте водой и тушите 1 час"
+  },
+  "steps.4.text": {
+   "fr": "Verse {{eau}} d'eau : la viande doit être juste couverte, complète un peu si besoin. Porte à ébullition, couvre et baisse le feu. Laisse mijoter 1 heure à feu doux, en remuant de temps en temps. Si la sauce baisse trop, ajoute un peu d'eau.",
+   "t": "Влейте {{eau}} воды: мясо должно быть едва покрыто, при необходимости немного долейте. Доведите до кипения, накройте крышкой и убавьте огонь. Тушите 1 час на слабом огне, время от времени помешивая. Если соус слишком уварится, добавьте немного воды."
+  },
+  "steps.4.timer.label": {
+   "fr": "Mijotage de la viande",
+   "t": "Тушение мяса"
+  },
+  "steps.4.timer.done": {
+   "fr": "Pique un morceau avec la pointe d'un couteau : elle doit entrer facilement. Sinon, prolonge un peu la cuisson.",
+   "t": "Проткните кусок мяса кончиком ножа: он должен входить легко. Если нет, тушите ещё немного."
+  },
+  "steps.5.title": {
+   "fr": "Prépare le citron confit et les olives",
+   "t": "Подготовьте солёный лимон и оливки"
+  },
+  "steps.5.text": {
+   "fr": "Pendant que la viande mijote, rince {{citron-confit:full}} pour enlever un peu de sel. Retire la pulpe et coupe l'écorce en fines lanières. Garde à portée de main {{olives}} d'olives violettes, si tu en mets.",
+   "t": "Пока мясо тушится, промойте {{citron-confit:full}}, чтобы убрать часть соли. Удалите мякоть, а корку нарежьте тонкой соломкой. Держите под рукой {{olives:full}}, если используете их."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute les artichauts et les petits pois frais",
+   "t": "Добавьте артишоки и свежий горошек"
+  },
+  "steps.6.text": {
+   "fr": "Égoutte les fonds d'artichauts et rince-les. Pose-les sur la viande avec {{petits-pois}} de petits pois, s'ils sont frais. Si tes légumes sont surgelés, mets les fonds d'artichauts maintenant, sans les décongeler, et garde les petits pois pour l'étape suivante. La sauce doit couvrir les légumes à moitié : ajoute un peu d'eau si besoin. Couvre et laisse cuire 10 minutes à feu doux.",
+   "t": "Достаньте донца артишоков из воды и промойте их. Выложите их на мясо вместе с {{petits-pois}} горошка, если он свежий. Если овощи замороженные, положите донца артишоков сейчас, не размораживая, а горошек оставьте для следующего шага. Соус должен покрывать овощи наполовину: при необходимости добавьте немного воды. Накройте крышкой и тушите 10 минут на слабом огне."
+  },
+  "steps.6.timer.label": {
+   "fr": "Artichauts à couvert",
+   "t": "Артишоки под крышкой"
+  },
+  "steps.6.timer.done": {
+   "fr": "Ajoute maintenant les petits pois s'ils sont surgelés, puis le citron confit et les olives.",
+   "t": "Теперь добавьте горошек, если он замороженный, затем солёный лимон и оливки."
+  },
+  "steps.7.title": {
+   "fr": "Termine à découvert",
+   "t": "Доведите до готовности без крышки"
+  },
+  "steps.7.text": {
+   "fr": "Si tes petits pois sont surgelés, ajoute-les maintenant, sans les décongeler. Ajoute les lanières de citron confit et les olives. Laisse cuire 10 minutes à découvert, à feu doux. C'est prêt quand les artichauts sont tendres sous la pointe d'un couteau et que la sauce a réduit.",
+   "t": "Если горошек замороженный, добавьте его сейчас, не размораживая. Добавьте соломку солёного лимона и оливки. Готовьте 10 минут без крышки на слабом огне. Блюдо готово, когда артишоки легко протыкаются кончиком ножа, а соус уварился."
+  },
+  "steps.7.timer.label": {
+   "fr": "Fin de cuisson",
+   "t": "Конец приготовления"
+  },
+  "steps.7.timer.done": {
+   "fr": "Artichauts tendres et sauce réduite ? Sinon, prolonge de quelques minutes.",
+   "t": "Артишоки мягкие, соус уварился? Если нет, готовьте ещё несколько минут."
+  },
+  "steps.8.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Попробуйте и доведите вкус"
+  },
+  "steps.8.text": {
+   "fr": "Goûte la sauce et rectifie le sel et le poivre. Elle doit être onctueuse, juste assez abondante pour napper : si elle est encore trop liquide, laisse-la réduire quelques minutes de plus à découvert.",
+   "t": "Попробуйте соус и при необходимости досолите и поперчите. Он должен быть густым и бархатистым, и его должно быть ровно столько, чтобы полить блюдо: если он ещё слишком жидкий, уварите его ещё несколько минут без крышки."
+  },
+  "steps.9.title": {
+   "fr": "Dresse le tajine",
+   "t": "Выложите таджин"
+  },
+  "steps.9.text": {
+   "fr": "Retire délicatement les fonds d'artichauts. Mets la viande au centre du plat et verse les petits pois dessus. Décore avec les fonds d'artichauts, bien en vue. Nappe de sauce, ajoute le citron confit et les olives, puis parsème de {{herbes-service}}.",
+   "t": "Осторожно выньте донца артишоков. Положите мясо в центр блюда и выложите сверху горошек. Украсьте донцами артишоков так, чтобы их было хорошо видно. Полейте соусом, добавьте солёный лимон и оливки, затем посыпьте рубленой кинзой и петрушкой."
+  },
+  "steps.10.title": {
+   "fr": "Sers bien chaud",
+   "t": "Подавайте очень горячим"
+  },
+  "steps.10.text": {
+   "fr": "Sers aussitôt, bien chaud, avec du {{khobz}} pour saucer.",
+   "t": "Подавайте сразу, очень горячим, с хлебом (хобз), чтобы собирать соус."
+  },
+  "secrets.0.text": {
+   "fr": "La chair de l'artichaut noircit au contact de l'air : épluche-le avec un couteau à lame inox et plonge aussitôt les fonds dans de l'eau citronnée.",
+   "t": "Мякоть артишока темнеет на воздухе: чистите его ножом с лезвием из нержавеющей стали и сразу опускайте донца в воду с лимоном."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha, astuce « Autour de l'artichaut » ; Rachida ; Morocco World News ; Lalla Moulati",
+   "t": "Choumicha, совет «Autour de l'artichaut»; Rachida; Morocco World News; Lalla Moulati"
+  },
+  "secrets.1.text": {
+   "fr": "Choisis des artichauts compacts, lourds dans la main, fermes et bien verts, aux feuilles serrées. Des feuilles ouvertes annoncent un artichaut trop mûr, dur, avec beaucoup de foin.",
+   "t": "Выбирайте плотные артишоки, тяжёлые в руке, упругие и ярко-зелёные, с плотно прилегающими листьями. Раскрытые листья говорят о том, что артишок перезрел, он жёсткий и в нём много ворсинок."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha, « L'artichaut, un cœur tendre »",
+   "t": "Choumicha, статья «L'artichaut, un cœur tendre»"
+  },
+  "secrets.2.text": {
+   "fr": "Pour les petits pois frais, prends des cosses fermes, d'un vert intense, sans taches, et évite les pois jaunes. Non écossés, ils se gardent deux jours dans le bac à légumes du réfrigérateur.",
+   "t": "Для свежего горошка выбирайте упругие стручки насыщенного зелёного цвета, без пятен, и избегайте пожелтевшего горошка. Неочищенным он хранится два дня в овощном ящике холодильника."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha, « Les petits pois, une saveur pleine de douceur »",
+   "t": "Choumicha, статья «Les petits pois, une saveur pleine de douceur»"
+  },
+  "secrets.3.text": {
+   "fr": "Avec des surgelés, sors les fonds d'artichauts et les petits pois du congélateur juste avant de les mettre dans la cocotte, sans les décongeler. S'ils ne sont pas lavés, rince-les vite dans une passoire.",
+   "t": "Если вы берёте замороженные овощи, доставайте донца артишоков и горошек из морозильной камеры непосредственно перед тем, как положить их в кастрюлю, не размораживая. Если они не мытые, быстро промойте их в дуршлаге."
+  },
+  "secrets.3.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida)",
+   "t": "Rachida (Gâteau et cuisine Rachida)"
+  },
+  "secrets.4.text": {
+   "fr": "Les petits pois cuisent vite : une dizaine de minutes suffit. Avec des surgelés, ajoute-les seulement pour les 10 dernières minutes.",
+   "t": "Горошек готовится быстро: достаточно примерно десяти минут. Замороженный горошек добавляйте только на последние 10 минут."
+  },
+  "secrets.4.source": {
+   "fr": "MarocMama (petits pois frais ou surgelés ajoutés dans les 10 dernières minutes, au tajine) ; Bladi.net, Said A. (petits pois cuits 10 minutes)",
+   "t": "MarocMama (свежий или замороженный горошек добавляют на последние 10 минут, при готовке в таджине); Bladi.net, Said A. (горошек варится 10 минут)"
+  },
+  "secrets.5.text": {
+   "fr": "Les petits pois surgelés peuvent contenir des bactéries : ils doivent toujours être bien cuits avant d'être mangés.",
+   "t": "Замороженный горошек может содержать бактерии: перед едой его всегда нужно как следует проварить."
+  },
+  "secrets.5.source": {
+   "fr": "Food Standards Agency (Royaume-Uni), « Cooking your food »",
+   "t": "Food Standards Agency (Великобритания), «Cooking your food»"
+  },
+  "secrets.6.text": {
+   "fr": "Pas besoin de beaucoup d'épices : gingembre, curcuma et poivre laissent toute la place au goût de la viande, des artichauts et des petits pois.",
+   "t": "Много специй не нужно: имбирь, куркума и перец оставляют на первом плане вкус мяса, артишоков и горошка."
+  },
+  "secrets.6.source": {
+   "fr": "Rachida ; mêmes épices de base chez Morocco World News, Cooking With Alia et Lalla Moulati",
+   "t": "Rachida; те же базовые специи у Morocco World News, Cooking With Alia и Lalla Moulati"
+  },
+  "secrets.7.text": {
+   "fr": "Les légumes cuisent posés sur la viande : chez Lalla Moulati, d'abord les petits pois, puis les artichauts par-dessus.",
+   "t": "Овощи готовятся, лёжа на мясе: у Lalla Moulati сначала выкладывают горошек, а сверху — артишоки."
+  },
+  "secrets.7.source": {
+   "fr": "Lalla Moulati ; Morocco World News (artichauts et petits pois posés sur le dessus)",
+   "t": "Lalla Moulati; Morocco World News (артишоки и горошек выкладывают сверху)"
+  },
+  "secrets.8.text": {
+   "fr": "Rince le citron confit pour enlever un peu de sel et garde seulement l'écorce, en fines lanières.",
+   "t": "Промойте солёный лимон, чтобы убрать часть соли, и используйте только корку, нарезанную тонкой соломкой."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia (n° 128 et n° 437) ; Bladi.net (écorce) ; My Moroccan Food (pulpe jetée)",
+   "t": "Cooking With Alia (№ 128 и № 437); Bladi.net (корка); My Moroccan Food (мякоть выбрасывают)"
+  },
+  "secrets.9.text": {
+   "fr": "La sauce doit finir onctueuse et assez réduite : il en reste juste de quoi napper la viande et les légumes.",
+   "t": "В конце соус должен быть бархатистым и хорошо уваренным: его остаётся ровно столько, чтобы полить мясо и овощи."
+  },
+  "secrets.9.source": {
+   "fr": "Rachida ; MarocMama (sauce épaisse) ; Choumicha (cuisson jusqu'à réduction de la sauce)",
+   "t": "Rachida; MarocMama (густой соус); Choumicha (готовить, пока соус не уварится)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour la présentation, mets la viande au centre, les petits pois dessus et les fonds d'artichauts bien en vue.",
+   "t": "Для подачи положите мясо в центр, горошек сверху, а донца артишоков — так, чтобы их было хорошо видно."
+  },
+  "secrets.10.source": {
+   "fr": "Rachida ; Bladi.net ; Cooking With Alia",
+   "t": "Rachida; Bladi.net; Cooking With Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Au tajine en terre, Lalla Moulati étale des rondelles d'oignon au fond et pose la viande dessus : elle n'attache pas, et l'oignon qui confit parfume le plat.",
+   "t": "В глиняном таджине Lalla Moulati раскладывает на дне кружочки лука, а сверху кладёт мясо: оно не пригорает, а томящийся лук придаёт блюду аромат."
+  },
+  "secrets.11.source": {
+   "fr": "Lalla Moulati",
+   "t": "Lalla Moulati"
+  },
+  "secrets.12.text": {
+   "fr": "Tajine en terre : utilise un diffuseur de chaleur sur le gaz ou l'électrique, et commence à feu très doux. Une fois cuit, ne le pose jamais sur une surface froide comme le marbre ou le granit : il pourrait se fendre. Pose-le sur une planche en bois.",
+   "t": "Глиняный таджин: на газовой или электрической плите используйте рассекатель пламени и начинайте на очень слабом огне. После готовки никогда не ставьте его на холодную поверхность, например на мрамор или гранит: он может треснуть. Ставьте его на деревянную доску."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food, « Introduction to the Tagine Pot »",
+   "t": "My Moroccan Food, статья «Introduction to the Tagine Pot»"
+  },
+  "secrets.13.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte couverte, et à manger dans les 48 heures. Réchauffe-les une seule fois, en remuant, jusqu'à ce qu'ils soient bien fumants partout.",
+   "t": "Остатки: уберите в холодильник в течение 2 часов, в закрытом контейнере, и съешьте в течение 48 часов. Разогревайте их только один раз, помешивая, пока они не прогреются целиком и от них не пойдёт пар."
+  },
+  "secrets.13.source": {
+   "fr": "Food Standards Agency (Royaume-Uni) ; FDA (règle des 2 heures)",
+   "t": "Food Standards Agency (Великобритания); FDA (правило 2 часов)"
+  },
+  "mistakes.0": {
+   "fr": "Laisser les fonds d'artichauts à l'air : ils noircissent (Choumicha ; Rachida).",
+   "t": "Оставлять донца артишоков на воздухе: они темнеют (Choumicha; Rachida)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser la sauce attacher : surveille le niveau d'eau et ajoutes-en un peu si besoin (Bladi.net ; Morocco World News ; Rachida ; MarocMama).",
+   "t": "Допустить, чтобы соус пригорел: следите за уровнем воды и при необходимости немного доливайте (Bladi.net; Morocco World News; Rachida; MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de rincer le citron confit : il est très salé (Cooking With Alia).",
+   "t": "Забыть промыть солёный лимон: он очень солёный (Cooking With Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Servir sans goûter : rectifie le sel et le poivre à la fin (Cooking With Alia).",
+   "t": "Подавать, не попробовав: в конце скорректируйте соль и перец (Cooking With Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Avec la variante à la cocotte-minute : l'ouvrir avant que toute la vapeur soit sortie (Rachida ; Cooking With Alia).",
+   "t": "В варианте со скороваркой: открывать её до того, как выйдет весь пар (Rachida; Cooking With Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Poser un tajine en terre sur le feu sans diffuseur, ou le poser chaud sur un plan de travail froid (My Moroccan Food).",
+   "t": "Ставить глиняный таджин на огонь без рассекателя или ставить горячий таджин на холодную столешницу (My Moroccan Food)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (Food Standards Agency ; FDA).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов (Food Standards Agency; FDA)."
+  },
+  "variants.0": {
+   "fr": "Au tajine en terre (Lalla Moulati) : sur un diffuseur, fais revenir la viande avec un oignon émincé, l'ail, les épices, les herbes et l'huile. Retire-la, étale des rondelles d'oignon au fond, remets la viande dessus, puis les petits pois et les artichauts. Verse un verre d'eau mélangé à un peu de toutes les épices, ajoute un filet d'huile d'olive, ferme et laisse cuire doucement, sur la braise ou au gaz. Morocco World News compte environ 1 heure de cuisson au tajine ; MarocMama compte environ 2 heures et ajoute les petits pois dans les 10 dernières minutes.",
+   "t": "В глиняном таджине (Lalla Moulati): на рассекателе обжарьте мясо с тонко нарезанной луковицей, чесноком, специями, зеленью и маслом. Выньте мясо, разложите на дне кружочки лука, снова положите на них мясо, затем горошек и артишоки. Влейте стакан воды, смешанной с небольшим количеством всех специй, добавьте немного оливкового масла, закройте и готовьте на медленном огне — на углях или на газу. По данным Morocco World News, в таджине блюдо готовится около 1 часа; MarocMama указывает около 2 часов и добавляет горошек на последние 10 минут."
+  },
+  "variants.1": {
+   "fr": "À la cocotte-minute : la viande d'abord, 20 à 30 minutes à partir du sifflement (Bladi.net 20 ; Rachida 25 ; MarocMama et Cooking With Alia 30), puis les légumes, 10 à 30 minutes (Rachida 10 ; MarocMama 15 ; Bladi.net 20 ; Cooking With Alia 30). N'ouvre qu'une fois toute la vapeur sortie (Rachida ; Cooking With Alia).",
+   "t": "В скороварке: сначала мясо, от 20 до 30 минут после того, как скороварка засвистит (Bladi.net — 20; Rachida — 25; MarocMama и Cooking With Alia — 30), затем овощи, от 10 до 30 минут (Rachida — 10; MarocMama — 15; Bladi.net — 20; Cooking With Alia — 30). Открывайте только после того, как выйдет весь пар (Rachida; Cooking With Alia)."
+  },
+  "variants.2": {
+   "fr": "Viande gardée au chaud (Choumicha, tajine de veau aux cardons et aux artichauts) : quand la viande est tendre, sors-la et couvre-la. Cuis les légumes 15 à 20 minutes à couvert dans la sauce avec le citron confit, puis ajoute les olives et l'huile d'olive pour 10 minutes. Remets la viande au moment de servir, dans un plat chaud.",
+   "t": "Мясо держат в тепле (Choumicha, таджин из телятины с кардонами и артишоками): когда мясо станет мягким, выньте его и накройте. Тушите овощи от 15 до 20 минут под крышкой в соусе с солёным лимоном, затем добавьте оливки и оливковое масло ещё на 10 минут. Верните мясо в момент подачи, в горячем блюде."
+  },
+  "variants.3": {
+   "fr": "Légumes cuits à part (Bladi.net, Said A.) : fonds d'artichauts cuits 15 à 20 minutes dans de l'eau bouillante salée avec un peu de sauce de la viande, petits pois cuits 10 minutes à l'eau, puis réunis avec la viande. Cooking With Alia (n° 128) fait cuire ses artichauts entiers dans de l'eau citronnée avant de les nettoyer.",
+   "t": "Овощи готовят отдельно (Bladi.net, Said A.): донца артишоков варят от 15 до 20 минут в кипящей подсоленной воде с небольшим количеством соуса от мяса, горошек варят 10 минут в воде, затем всё соединяют с мясом. Cooking With Alia (№ 128) варит артишоки целиком в воде с лимоном, а потом чистит их."
+  },
+  "variants.4": {
+   "fr": "Avec des fèves fraîches, à la place des petits pois (Bladi.net, Said A.) ou en plus (Lalla Moulati, 2016).",
+   "t": "Со свежими бобами фава — вместо горошка (Bladi.net, Said A.) или вместе с ним (Lalla Moulati, 2016)."
+  },
+  "variants.5": {
+   "fr": "Avec deux pommes de terre coupées en longueur (Lalla Moulati, 2020), ou une carotte (MarocMama).",
+   "t": "С двумя картофелинами, нарезанными вдоль (Lalla Moulati, 2020), или с одной морковкой (MarocMama)."
+  },
+  "variants.6": {
+   "fr": "Avec une tomate hachée, cuite avec l'oignon et les épices (Rachida ; Lalla Moulati, 2016).",
+   "t": "С одним мелко нарезанным помидором, приготовленным вместе с луком и специями (Rachida; Lalla Moulati, 2016)."
+  },
+  "variants.7": {
+   "fr": "Une pointe de cannelle (Rachida), ou une cuillère à café de coriandre moulue (Cooking With Alia, n° 861).",
+   "t": "Немного корицы на кончике ножа (Rachida) или одна чайная ложка молотого кориандра (Cooking With Alia, № 861)."
+  },
+  "variants.8": {
+   "fr": "Petits pois et artichauts surgelés trempés quelques minutes dans de l'eau tiède avant la cuisson, pour qu'ils arrivent à température ambiante (MarocMama).",
+   "t": "Замороженные горошек и артишоки перед готовкой замачивают на несколько минут в тёплой воде, чтобы они нагрелись до комнатной температуры (MarocMama)."
+  },
+  "variants.9": {
+   "fr": "Version végétale (My Moroccan Food) : sans viande, avec des petites pommes de terre et un bouillon de légumes ; les petits pois ne cuisent que 3 à 4 minutes à la fin.",
+   "t": "Вариант без мяса (My Moroccan Food): с мелким картофелем и овощным бульоном; горошек варится в конце всего от 3 до 4 минут."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.artichauts.pl5": {
+   "fr": "artichaut frais / artichauts frais",
+   "t": "свежих артишоков"
+  },
+  "ing.citron-confit.pl5": {
+   "fr": "citron confit / citrons confits",
+   "t": "солёных лимонов"
+  }
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "slug": "maakouda",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [],
+ "corrections": [
+  {
+   "champ": "sources[2].url",
+   "actuel": "https://www.hespress.com/560166-560166.html",
+   "propose": "",
+   "pourquoi": "Retirer toute l'entrée sources[2] (Hespress, Saad Sarhan : name, url, used_for). Hespress renvoie 403, même pour son robots.txt ; la règle de la série n'admet cette page que par une copie web.archive.org (le robots.txt archivé le permet : « User-agent: * », « Disallow: » vide). Or aucune copie n'existe : web.archive.org/web/2024/https://www.hespress.com/560166-560166.html renvoie 404, et l'API « available » ne trouve rien pour 560166-560166.html, 560166.html, ?p=560166 ni amp/560166-560166.html. Page illisible : ce qui ne reposait que sur elle est retiré dans les corrections suivantes.",
+   "gravite": "majeure",
+   "sources": "archive.org/wayback/available (consulté le 8 novembre 2026) ; robots.txt archivé de hespress.com"
+  },
+  {
+   "champ": "region",
+   "actuel": "Selon l'écrivain Saad Sarhan (Hespress), la maakouda, qu'on appelle aussi « maqrouta », est née dans les années 1960 dans le quartier des Achabine, à Fès. Un vendeur de maakouda de Fès dit aussi qu'elle vient de ce quartier (Febrayer).",
+   "propose": "Selon un vendeur de maakouda de Fès, c'est un plat d'origine fassie, né dans le quartier des Achabine (Febrayer). C'est à Fès qu'elle est la plus célèbre (MWN Lifestyle, 2021).",
+   "pourquoi": "Saad Sarhan, le nom « maqrouta » et les « années 1960 » ne viennent que de Hespress, illisible (voir sources[2]). Febrayer (7 novembre 2019) confirme : un vendeur de Fès, Al-Mohammadi Mohammed, dit que la maakouda est un plat fassi « sorti de la zone des Achabine » ; MWN Lifestyle (30 juillet 2021) : « Most famous in Morocco's former capital of Fez ».",
+   "gravite": "majeure",
+   "sources": "Febrayer n° 679681 ; MWN Lifestyle 2021"
+  },
+  {
+   "champ": "secrets[0].source",
+   "actuel": "Hespress (Saad Sarhan : farine, safran et levure) ; ",
+   "propose": "",
+   "pourquoi": "Hespress est illisible (voir sources[2]). Le reste est confirmé : My Moroccan Food (levure, farine, curcuma) et Lalla Moulati n° 229999, « معقودة المطاعم » (farine, eau tiède, curcuma, sel, levure).",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food ; Lalla Moulati n° 229999"
+  },
+  {
+   "champ": "secrets[1].source",
+   "actuel": "Hespress (Saad Sarhan) ; ",
+   "propose": "",
+   "pourquoi": "Hespress est illisible (voir sources[2]). My Moroccan Food (persil, ail, sel, poivre) et Febrayer (ail, sel, piment fort) suffisent.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food ; Febrayer n° 679681"
+  },
+  {
+   "champ": "secrets[2].text",
+   "actuel": "jaune ; à Fès, Saad Sarhan parle aussi de safran.",
+   "propose": "jaune.",
+   "pourquoi": "Le safran à Fès ne vient que de Saad Sarhan (Hespress), illisible (voir sources[2]). Le curcuma dans la pâte est confirmé par My Moroccan Food, Dialna et Lalla Moulati n° 229999 et 292849.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food ; Dialna (Asif) ; Lalla Moulati n° 229999 et 292849"
+  },
+  {
+   "champ": "secrets[2].source",
+   "actuel": "292849 ; Hespress",
+   "propose": "292849",
+   "pourquoi": "Hespress est illisible (voir sources[2]).",
+   "gravite": "mineure",
+   "sources": "web.archive.org (aucune copie de la page Hespress)"
+  },
+  {
+   "champ": "variants[6]",
+   "actuel": "Un peu de safran au lieu du curcuma dans la pâte (Hespress, Saad Sarhan).",
+   "propose": "",
+   "pourquoi": "Retirer cet élément de « variants » : il ne repose que sur Hespress (Saad Sarhan), illisible (voir sources[2]). Aucune autre source lue ne met de safran dans la pâte.",
+   "gravite": "mineure",
+   "sources": "web.archive.org (aucune copie de la page Hespress)"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Hespress, à Fès ; ",
+   "propose": "",
+   "pourquoi": "Hespress est illisible (voir sources[2]) ; la pâte à la levure reste confirmée par My Moroccan Food, Dialna et Lalla Moulati.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food ; Dialna (Asif) ; Lalla Moulati n° 229999"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "la façon des snacks de Fès, la seule chiffrée par deux recettes (avec la température de l'huile).",
+   "propose": "la façon des snacks (Lalla Moulati n° 229999 l'appelle « معقودة المطاعم », la maakouda des restaurants), la seule dont deux recettes donnent les quantités et la température de l'huile (My Moroccan Food ; Dialna).",
+   "pourquoi": "Le lien entre cette pâte et les snacks de Fès ne vient que de Hespress, illisible. Et la version à l'œuf est elle aussi chiffrée par deux recettes (Cooking With Alia : 800 g, 2 œufs, 60 g de farine ; MarocMama : 680 g, 1 œuf, ½ tasse), mais sans température d'huile : la phrase actuelle est ambiguë.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati n° 229999 ; My Moroccan Food ; Dialna (Asif) ; Cooking With Alia n° 599 ; MarocMama"
+  },
+  {
+   "champ": "tagline",
+   "actuel": "la maakouda des snacks de Fès.",
+   "propose": "la maakouda des snacks marocains.",
+   "pourquoi": "Le lien entre cette pâte jaune à la levure et les snacks de Fès ne vient que de Hespress, illisible (voir sources[2]). Febrayer et MWN Lifestyle situent la maakouda à Fès, mais sans parler de pâte à la levure. Ce qui est confirmé : Lalla Moulati n° 229999 appelle cette version « معقودة المطاعم » (des restaurants) et My Moroccan Food en fait l'un des plats de rue les plus courants au Maroc.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati n° 229999 ; My Moroccan Food"
+  },
+  {
+   "champ": "unverified[2]",
+   "actuel": "Histoire de la maakouda (née aux Achabine, à Fès, dans les années 1960, inventée par un certain « Ba Mohammed ») : racontée par l'écrivain Saad Sarhan (« on dit que ») et par un vendeur de Fès (Febrayer) ; aucune source historique lue.",
+   "propose": "Histoire de la maakouda (née dans le quartier des Achabine, à Fès) : racontée seulement par un vendeur de Fès (Febrayer) ; aucune source historique lue. L'article de Hespress (Saad Sarhan) n'a pas pu être lu : site en 403 et aucune copie web.archive.org.",
+   "pourquoi": "Les années 1960, « Ba Mohammed » et le « on dit que » viennent de Hespress, illisible (voir sources[2]) : on ne les reprend pas.",
+   "gravite": "mineure",
+   "sources": "Febrayer n° 679681 ; web.archive.org"
+  },
+  {
+   "champ": "unverified[11]",
+   "actuel": " ; « maqrouta » (مقروطة) seulement chez Hespress.",
+   "propose": ".",
+   "pourquoi": "Le nom « maqrouta » ne vient que de Hespress, illisible (voir sources[2]).",
+   "gravite": "mineure",
+   "sources": "web.archive.org (aucune copie de la page Hespress)"
+  },
+  {
+   "champ": "ingredients[2].items[1].name",
+   "actuel": "pain, khobz ou demi-baguette",
+   "propose": "pain (khobz ou demi-baguette)",
+   "pourquoi": "q est null, donc {{pain}} affiche le nom : l'étape 12 donne aujourd'hui « en sandwich dans du pain, khobz ou demi-baguette » (« du demi-baguette » est faux et on lit trois choix). Avec ce nom, l'étape donne « dans du pain (khobz ou demi-baguette) », et la liste reste claire. Le khobz vient de Wikipédia (« Moroccan bread »), la demi-baguette de Cooking With Alia.",
+   "gravite": "mineure",
+   "sources": "app.html (rendu de {{id}} quand q est null) ; Wikipédia « Ma'quda » ; Cooking With Alia n° 599"
+  },
+  {
+   "champ": "steps[12].text",
+   "actuel": "seules avec un peu de {{harissa}}",
+   "propose": "seules, avec un peu de {{harissa}}",
+   "pourquoi": "Sans virgule, « seules avec un peu de harissa » est ambigu (seules ou avec ?) et risque d'être mal traduit.",
+   "gravite": "mineure",
+   "sources": "MWN Lifestyle 2021 (« by itself or inside a sandwich ») ; MWN Lifestyle 2026 (« Serve hot with harissa »)"
+  },
+  {
+   "champ": "steps[0].tip",
+   "actuel": "assez épaisse pour bien couvrir les galettes, mais pas trop liquide, sinon elle se défait dans l'huile (My Moroccan Food). Dialna la compare à une pâte à crêpes épaisse ou à une béchamel.",
+   "propose": "ni trop épaisse (ajoute 2 c. à s. d'eau si besoin), ni trop liquide, sinon elle se défait dans l'huile (My Moroccan Food). Dialna la veut lisse et épaisse, comme une pâte à pancakes ou une béchamel.",
+   "pourquoi": "My Moroccan Food dit l'inverse de « assez épaisse » : « make sure that the batter is not too thick », « light enough to coat the potato cakes but not too runny either », en ajoutant si besoin « a couple of tablespoons of water ». C'est Dialna qui la veut « smooth and thick », comme une « pancake batter » (pâte à pancakes, pas pâte à crêpes) ou une béchamel.",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food ; Dialna (Asif)"
+  },
+  {
+   "champ": "serving",
+   "actuel": "dès la sortie de l'huile (My Moroccan Food ; Cooking With Alia ; MWN Lifestyle).",
+   "propose": "juste après les avoir égouttées (MWN Lifestyle ; My Moroccan Food).",
+   "pourquoi": "« Dès la sortie de l'huile » n'est écrit nulle part : MWN Lifestyle égoutte puis laisse reposer une minute (« let them rest for a minute. Serve hot ») ; My Moroccan Food dit « Enjoy warm » ; Cooking With Alia ne dit rien du service (seulement le papier absorbant).",
+   "gravite": "mineure",
+   "sources": "MWN Lifestyle 2026 ; My Moroccan Food ; Cooking With Alia n° 599"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "eau 200 ml ou 150 ml",
+   "propose": "eau 200 ml, plus 2 c. à s. pour activer la levure (My Moroccan Food), ou 150 ml (Dialna)",
+   "pourquoi": "My Moroccan Food active la levure dans « 2 tablespoons of lukewarm water » en plus des 200 ml, et permet d'en rajouter. Les 175 ml retenus restent dans la fourchette des deux sources (pâte à 121 % d'eau, contre 115 % et 171 %).",
+   "gravite": "mineure",
+   "sources": "My Moroccan Food ; Dialna (Asif) ; calcul python3 -I"
+  },
+  {
+   "champ": "ingredients[2].items[0].note",
+   "actuel": "casserole remplie au tiers de sa hauteur au plus",
+   "propose": "tournesol, arachide ou olive : elles fument vers 210 à 220 °C, au-dessus des 180 °C de la friture, alors que la graisse végétale à frire fume dès 175 °C (gouvernement du Québec) ; casserole remplie au tiers de sa hauteur au plus",
+   "pourquoi": "La recette chauffe à 180 °C et dit « elle ne doit jamais fumer ». Le tableau des points de fumée du gouvernement du Québec (source déjà citée) donne : graisse végétale à frire 175 °C, huile d'olive 210 °C, tournesol 210 °C, arachide 220 °C. Dialna frit à l'huile d'olive.",
+   "gravite": "mineure",
+   "sources": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » ; Dialna (Asif)"
+  },
+  {
+   "champ": "unverified[4]",
+   "actuel": "MarocMama une chair tendre",
+   "propose": "MarocMama une Yukon Gold « ou une autre pomme de terre tendre » (soft), à peau fine, qu'elle cuit et garde avec la peau",
+   "pourquoi": "MarocMama écrit « Yukon Gold or another soft potato » et « I like to use a soft skin potato so that I can keep the skin on » : elle parle surtout de la peau, pas seulement de la chair. Dialna écrit bien « waxy potatoes » (chair ferme).",
+   "gravite": "mineure",
+   "sources": "MarocMama ; Dialna (Asif)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Enrobage (étape 9) : galette posée dans la pâte et couverte des deux côtés, avec deux grandes cuillères (« 2 large tablespoons »), puis glissée vite et avec précaution dans l'huile (My Moroccan Food) ; trempée, bien enrobée de tous les côtés et soulevée à la fourchette (Dialna) : My Moroccan Food ; Dialna (Asif).",
+  "Quantités pour 15 pièces : 500 g de pommes de terre pour 15 maakouda de 5 cm (My Moroccan Food, page rouverte : 200, 14 janvier 2016). Médianes recalculées avec python3 -I : farine 143,75 → 145 g ; levure 0,875 → 1 c. à c. ; curcuma et sel 0,3125 → ¼ ; persil 2 c. à s. (0,625 ; 2 ; 4) ; ail 1,12 → 1 c. à c. ; MarocMama ramenée à 500 g : ail 0,735, sel 0,368, poivre 1,103 ; 350 °F = 176,7 °C ; 1,5 lb = 680,4 g : My Moroccan Food ; Dialna ; Cooking With Alia ; MarocMama.",
+  "Friture à 180 °C, gardée à cette température (My Moroccan Food ; Dialna : « maintain the oil temperature at 180°C ») ; 5 cm d'huile ou « a few centimeters (1 inch or so) » ; le beignet « quickly puffs up and emerges to the top », retourné plusieurs fois, environ 3 minutes ; ne pas surcharger (Dialna ; MWN Lifestyle ; MarocMama).",
+  "Acrylamide (étape 10, erreur 7) : « aim for a golden yellow colour or lighter when frying, baking, toasting or roasting starchy foods » : FSA, « Acrylamide », publié le 9 janvier 2018.",
+  "Sécurité de la friture (étapes 7 et 8, erreurs 3 à 6) : casserole au tiers au plus ; huile qui fume = couper le feu et laisser refroidir ; friteuse électrique à thermostat « much safer » (London Fire Brigade). Surveiller en tout temps, surtout avec l'huile ; couvercle à portée de main ; jamais d'eau ; ne pas déplacer la casserole en flammes ; couvercle de bonne taille ; couper les éléments si possible ; appeler les pompiers même si le feu semble éteint (gouvernement du Québec, mis à jour le 10 octobre 2025).",
+  "Restes (service, erreur 8) : frigo « within two hours », « Eat leftovers within 48 hours », réchauffer « only ever ... once », « steaming hot throughout » (FSA, « Cooking your food », 18 décembre 2017, section 7) ; pas plus de 2 heures à température ambiante, 4 °C dans la zone la plus froide du frigo (Anses, dix gestes).",
+  "Rendu dans l'appli (règles de app.html) : pour 15, les quantités de la liste ; pour 30, 290 g de farine, 2 c. à c. de levure, ½ c. à c. de curcuma et de sel, 350 ml d'eau, 1 kg de pommes de terre, 4 c. à s. de persil, 2 c. à c. d'ail, 1 c. à c. de sel ; pour 1, 10 g de farine, 12 ml d'eau, 35 g de pommes de terre, et ⅛ c. à c. (plancher de l'appli) pour la levure, le curcuma, les sels, l'ail et le persil. Le sel de la pâte est alors 7,5 fois trop fort (limite de l'appli, sans source pour corriger). Les autres {{id}} donnent des phrases justes (« 145 g de farine », « une pincée de sel », « Verse l'huile végétale de friture ») ; seul {{pain}} est corrigé.",
+  "Temps : 25 + 35 + 30 = 90 min, comme Dialna (1:30) ; minuteur de 20 min à l'étape 2 (Cooking With Alia : environ 20 min ; Dialna : 20 à 25 min) ; pas une recette « Rapide ».",
+  "Halal : ni porc ni alcool ; le sandwich de Meknès à la charcuterie (« bologna », MWN Lifestyle 2021) n'est pas repris ; note sur la présure pour la variante au fromage (Febrayer ; Lalla Moulati n° 349170).",
+  "Noms : معقودة (Cooking With Alia ; Lalla Moulati ; Febrayer, « المعقودة ») ; « maakouda » (Cooking With Alia ; My Moroccan Food ; MWN Lifestyle).",
+  "Sources marocaines ouvertes le 8 novembre 2026 : Febrayer n° 679681 (vendeur de Fès : Achabine ; ail, sel, piment fort ; œufs et fromage possibles) ; Lalla Moulati n° 229999 (« معقودة المطاعم », sans œufs : pâte de farine, eau tiède, curcuma, sel, levure), n° 292849 (150 ml d'eau, 4 c. à s. de farine, un sachet de levure chimique de 8 g), n° 349170 (2 œufs, persil et coriandre, cumin, fromage) ; MWN Lifestyle 2021 (Fès, « almost any city ») et 2026 (ftour, servir chaud avec harissa ou ketchup).",
+  "Variantes et sauces : Cooking With Alia (800 g, 2 œufs battus, 60 g de farine, feu moyen, sandwich demi-baguette, ketchup ou harissa, laitue, tomate) ; Dialna (persil et coriandre, ¼ c. à c. de cumin et 1 c. à c. de harissa pour 1 kg, sauce de tomates râpées sans peau, sel, huile d'olive, ail ou harissa) ; sauce de My Moroccan Food (2 c. à s. de concentré de tomate, 2 c. à c. de harissa, jus d'un citron, ½ c. à c. de sel, ¼ c. à c. de cumin) ; Wikipédia (« served inside Moroccan bread and often accompanied by harissa ») ; Choumicha n° 1258 : autre plat (viande hachée, œufs, fromage, au four à 170 °C).",
+  "Liens : les 17 autres sources répondent (200) et disent ce qui leur est attribué, aux nuances corrigées près ; dates et titres conformes."
+ ],
+ "non_verifiable": [
+  "Hespress (Saad Sarhan) : page illisible (403 même pour robots.txt, aucune copie web.archive.org) ; d'où le retrait proposé.",
+  "Aucune nouvelle source marocaine trouvée sans outil de recherche (quota épuisé) : la recherche interne de Femmes du Maroc (« maakouda ») ne donne rien, l'index des recettes de Bladi n'a pas de maakouda. Les quantités de la pâte reposent donc sur My Moroccan Food et Dialna ; Lalla Moulati ne chiffre que le n° 292849 (pâte à la levure chimique).",
+  "Lalla Moulati : méthodes seulement en vidéo, non regardées (seules les listes d'ingrédients ont servi).",
+  "Choumicha n° 1260 non ouvert ; « aucune maakouda de pommes de terre chez Choumicha » : invérifiable sans recherche.",
+  "Durée de friture par fournée et nombre de fournées : seules les « about 3 minutes » de My Moroccan Food ; le temps de cuisson de 35 min reste une estimation.",
+  "Taste of Maroc, chhiwat.com, foodish.anumuseum.org.il, tabletmag.com, 196flavors.com, kosher.com : non rouverts (le suivi précédent les a écartés pour robots.txt ou 403).",
+  "Congélation, test de l'huile sans thermomètre, numéro des pompiers au Maroc : non vérifiés."
+ ]
+}

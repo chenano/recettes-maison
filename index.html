@@ -638,8 +638,8 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
 <div class="toast" id="toast" role="status" aria-live="polite" hidden><span id="toast-t"></span><button type="button" id="toast-a" hidden></button></div>
 <p class="sprite" id="sr-live" aria-live="assertive"></p>
 
-<script src="i18n/interface.js?v=a96c41d7f1"></script>
-<script src="recettes.js?v=20261108055257"></script>
+<script src="i18n/interface.js?v=71c1f55ec4"></script>
+<script src="recettes.js?v=20261108121418"></script>
 <script>
 (() => {
   'use strict';
@@ -652,7 +652,8 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
   const PHOTOS = window.PHOTOS || {};
   const UI_ALL = window.UI_TXT || {}, DICO = window.DICO || {}, LINFO = window.I18N_LANGUES || [{ code: 'fr', nom: 'Français', dir: 'ltr' }];
   const LANGS = LINFO.map(x => x.code);
-  const maxN = r => Math.max(r.servings * 4, 12);   // parts : de 1 à 4 fois la recette (au moins 12)
+  const stepN = r => Math.max(1, Number(r && r.serv_step) || 1);   // pas du choix des parts (recettes de 40 ou 80 pièces : par lots)
+  const maxN = r => { const st = stepN(r); return Math.floor(Math.max(r.servings * 4, 12) / st) * st; };   // parts : de 1 à 4 fois la recette (au moins 12)
   const K = { st: 'recettes-maison-v1', fav: 'recettes-maison-favoris', shop: 'recettes-maison-courses', ui: 'recettes-maison-ui', lang: 'recettes-maison-langue' };
   const mq = q => { try { return window.matchMedia(q).matches; } catch (e) { return false; } };
   const reduceMotion = mq('(prefers-reduced-motion: reduce)');
@@ -699,7 +700,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       };
       const tm = setTimeout(() => done(false), 9000);
       s.onload = () => done(true); s.onerror = () => done(false);
-      s.src = `i18n/${l}.js?v=a96c41d7f1`;
+      s.src = `i18n/${l}.js?v=71c1f55ec4`;
       document.head.appendChild(s);
     });
   }
@@ -709,6 +710,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     if (!s || typeof s !== 'object') s = ST[slug] = {};
     const r = BY[slug], base = r ? r.servings : 1;
     if (!(Number.isInteger(s.n) && s.n >= 1)) s.n = (typeof s.mult === 'number' && s.mult > 0) ? Math.max(1, Math.round(s.mult * base)) : base;
+    if (r) { const st = stepN(r); s.n = Math.max(st, Math.round(s.n / st) * st); }
     if (r && s.n > maxN(r)) s.n = maxN(r);
     delete s.mult;
     if (!s.checks || typeof s.checks !== 'object') s.checks = {};
@@ -1105,7 +1107,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
         <p class="tagline">${esc(r.tagline)}</p>
         ${r.region ? `<p class="origin">${ico('pin')}<span>${esc(r.region)}</span></p>` : ''}
         <ul class="stats">${stats.map(([ic, v, l]) => `<li>${ic}<b>${esc(v)}</b><span>${esc(l)}</span></li>`).join('')}</ul>
-        <div class="serv"><span class="serv-l">${ico('users')}${esc(t('for'))}</span><span class="stepper"><button type="button" data-n="-1" aria-label="${esc(t('lessPart'))}"${n <= 1 ? ' disabled' : ''}>${ico('minus')}</button><label class="nsel"><span class="sprite">${esc(t('nParts'))}</span><select data-nsel>${Array.from({ length: maxN(r) }, (_, k) => `<option value="${k + 1}"${k + 1 === n ? ' selected' : ''}>${esc(nServ(r, k + 1))}</option>`).join('')}</select><output class="nsel-v" aria-hidden="true">${esc(nTxt)}</output></label><button type="button" data-n="1" aria-label="${esc(t('morePart'))}"${n >= maxN(r) ? ' disabled' : ''}>${ico('plus')}</button></span></div>
+        <div class="serv"><span class="serv-l">${ico('users')}${esc(t('for'))}</span><span class="stepper"><button type="button" data-n="-1" aria-label="${esc(t('lessPart'))}"${n <= stepN(r) ? ' disabled' : ''}>${ico('minus')}</button><label class="nsel"><span class="sprite">${esc(t('nParts'))}</span><select data-nsel>${Array.from({ length: maxN(r) / stepN(r) }, (_, k) => (k + 1) * stepN(r)).map(v => `<option value="${v}"${v === n ? ' selected' : ''}>${esc(nServ(r, v))}</option>`).join('')}</select><output class="nsel-v" aria-hidden="true">${esc(nTxt)}</output></label><button type="button" data-n="1" aria-label="${esc(t('morePart'))}"${n >= maxN(r) ? ' disabled' : ''}>${ico('plus')}</button></span></div>
         ${n !== r.servings ? `<p class="serv-hint">${esc(t('servHint', nTxt, nServ(r, r.servings)))} <button type="button" class="linkish" data-nreset>${esc(t('backTo', r.servings))}</button></p>` : ''}
         <div class="go-row"><button class="go" type="button" data-go>${ico('play')}${esc(inProgress ? t('resumeAt', Math.min(r.steps.length, s.step + 1)) : t('cookStart'))}</button>${inProgress ? `<button class="btn-ghost" type="button" data-restart>${esc(t('restart'))}</button>` : ''}</div>
         ${r.occasion ? `<p class="origin">${ico('info')}<span>${esc(r.occasion)}</span></p>` : ''}
@@ -1539,7 +1541,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       const li = el.closest('.tl-i');
       if (li) { li.classList.toggle('is-done', el.checked); li.querySelector('.tl-dot').innerHTML = el.checked ? TICK : String(Number(id.slice(2)) + 1); }
     } else if (el.matches('[data-nsel]') && CUR) {
-      const s = rs(CUR.slug); s.n = Math.max(1, Math.min(maxN(CUR), Number(el.value) || CUR.servings)); save();
+      const s = rs(CUR.slug), st = stepN(CUR); s.n = Math.max(st, Math.min(maxN(CUR), Math.round((Number(el.value) || CUR.servings) / st) * st)); save();
       const y = window.scrollY; renderRecipe(); window.scrollTo(0, y);
     } else if (el.matches('[data-shop]')) {
       const x = SHOP[Number(el.dataset.shop)]; if (!x) return;
@@ -1577,8 +1579,8 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
     else if (d.go != null) startCook(false);
     else if (d.restart != null) startCook(true);
     else if (d.n) {
-      const s = rs(CUR.slug), k = s.n + Number(d.n);
-      if (k >= 1 && k <= maxN(CUR)) { s.n = k; save(); const y = window.scrollY; renderRecipe(); window.scrollTo(0, y); }
+      const s = rs(CUR.slug), k = s.n + Number(d.n) * stepN(CUR);
+      if (k >= stepN(CUR) && k <= maxN(CUR)) { s.n = k; save(); const y = window.scrollY; renderRecipe(); window.scrollTo(0, y); }
     }
     else if (d.nreset != null) { const s = rs(CUR.slug); s.n = CUR.servings; save(); const y = window.scrollY; renderRecipe(); window.scrollTo(0, y); }
     else if (d.share != null) { if (CUR) shareRecipe(CUR); }

@@ -54,10 +54,6 @@
    "fr": "tomates bien mûres",
    "t": "помидора"
   },
-  "ing.tomates.pl5": {
-   "fr": "tomate bien mûre / tomates bien mûres",
-   "t": "помидоров"
-  },
   "ing.tomates.note": {
    "fr": "chair râpée, sans la peau",
    "t": "очень спелые; натереть мякоть, без кожицы"
@@ -70,10 +66,6 @@
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
-  },
   "ing.oignon.note": {
    "fr": "à râper",
    "t": "натереть на тёрке"
@@ -85,10 +77,6 @@
   "ing.ail.pl": {
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
-  },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
   },
   "ing.ail.note": {
    "fr": "à hacher finement ou à presser",
@@ -124,7 +112,7 @@
   },
   "ing.sel.note": {
    "fr": "à rectifier en fin de cuisson",
-   "t": "уточните по вкусу в конце приготовления"
+   "t": "доведите до вкуса в конце приготовления"
   },
   "ing.gingembre.name": {
    "fr": "de gingembre moulu",
@@ -509,6 +497,18 @@
   "variants.9": {
    "fr": "Une partie de l'huile d'olive ajoutée seulement en fin de cuisson (Morocco World News 2023) ; dans sa version aux poivrons, Choumicha ajoute même toute l'huile et les épices une fois les haricots cuits.",
    "t": "Часть оливкового масла добавляют только в конце варки (Morocco World News 2023); в версии с перцем Choumicha даже добавляет всё масло и специи, когда фасоль уже сварилась."
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate bien mûre / tomates bien mûres",
+   "t": "помидоров"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
   }
  }
 }

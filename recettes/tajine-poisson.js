@@ -340,7 +340,7 @@ window.RECETTES.push({
    "source": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc (Christine Benlafquih)"
   },
   {
-   "text": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "text": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre peut être gras, mais il a relativement peu d'arêtes à gérer à table, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
    "source": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha"
   },
   {
@@ -594,7 +594,8 @@ window.RECETTES.push({
   "Restes : à manger dans les 3 jours (ANSES) ; Santé Canada donne 2 à 4 jours, mais pour la volaille. Retenu 3 jours (ANSES). Réchauffage : jusqu'à la vapeur (ANSES) et 74 °C (Santé Canada).",
   "Préparation : 30 min (Taste of Maroc) et 15 à 35 min selon les recettes de Choumicha (médiane 25 min). Retenu 30 min.",
   "Conversions faites avec python3 : 35 oz = 992 g ; ⅓ tasse = 79 ml ≈ 5,3 c. à s. ; ¼ à ½ tasse = 59 à 118 ml ; ¼ de pouce = 0,64 cm, que Taste of Maroc écrit lui-même 0,5 cm ; 145 °F = 62,8 °C ; 40 °F = 4,4 °C ; 165 °F = 73,9 °C ; 158 °F = 70 °C.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 8 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 8 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Variante propre à la côte atlantique (Safi, Essaouira, El Jadida, Agadir) : aucune des sources lues ne la décrit. Seul Taste of Maroc dit que les boulettes de sardines sont surtout appréciées sur la côte.",

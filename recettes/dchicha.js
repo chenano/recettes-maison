@@ -221,7 +221,7 @@ window.RECETTES.push({
    "source": "Taste of Maroc ; Choumicha ; Lalla Moulati"
   },
   {
-   "text": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
+   "text": "La grosse dchicha garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau. Taste of Maroc réserve le nom « dchicha » à la grosse orge concassée ; Lalla Moulati l'emploie pour l'orge concassée en général, comme cette recette.",
    "source": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne"
   },
   {
@@ -389,7 +389,8 @@ window.RECETTES.push({
   "Durée de cuisson de l'orge : 15 min après l'avoir versée chez Taste of Maroc (45 min de cuisson en tout), 45 min de cuisson en tout chez Choumicha, environ 50 min chez Cooking with Alia, 45 à 60 min chez MWN Lifestyle ; 25 à 40 min pour les soupes d'orge blanches ou au lait (Choumicha n° 1479 et 1496, Lalla Moulati 2014, Taste of Maroc). Retenu : un minuteur de 30 min, puis goûter et prolonger si besoin (la grosse orge cuit plus longtemps, selon Taste of Maroc) ; 45 min de cuisson au total, comme Choumicha et Taste of Maroc.",
   "Tomates : râpées chez Choumicha ; râpées sans peau chez Cooking with Alia ; sans peau ni pépins chez Taste of Maroc. Retenu : râpées, peau jetée.",
   "Feu pour l'oignon : moyen chez Taste of Maroc, doux chez Choumicha. Retenu : moyen, en remuant, jusqu'à ce que l'oignon soit translucide (les deux sources).",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Aucune source ne dit clairement quelle version est la plus courante au Maroc : le choix vient du décompte des recettes lues et des noms qu'elles emploient. Le quota de recherche web était épuisé : je n'ai pas pu chercher d'article de presse marocaine sur ce point précis.",

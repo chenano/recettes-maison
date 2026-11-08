@@ -58,10 +58,6 @@
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
-  },
   "ing.ail.note": {
    "fr": "à éplucher, sans couper",
    "t": "очистить, не разрезая"
@@ -367,8 +363,8 @@
    "t": "Taste of Maroc; Choumicha по-прежнему протирает пюре через мелкое сито"
   },
   "secrets.10.text": {
-   "fr": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati y ajoute du piment vert et du piment frit.",
-   "t": "На севере её едят с несколькими оливками и кусочками лука. Lalla Moulati добавляет к ней зелёный острый перец и жареный острый перец."
+   "fr": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati la sert aussi avec du piment vert et du piment fort frit.",
+   "t": "На севере её едят с несколькими оливками и кусочками лука. Lalla Moulati также подаёт её с зелёным перцем чили и жареным острым перцем."
   },
   "secrets.10.source": {
    "fr": "Hespress (2014, restaurant de Tanger) ; Lalla Moulati (2014) ; My Moroccan Food (oignon haché)",
@@ -449,6 +445,10 @@
   "variants.7": {
    "fr": "Crème de fèves servie avec une salade de tomates, poivron grillé, oignon et olives vertes, assaisonnée de citron et de cumin (Choumicha).",
    "t": "Кремовое пюре из бобов, поданное с салатом из помидоров, печёного сладкого перца, лука и зелёных оливок, заправленным лимоном и кумином (Choumicha)."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
   }
  }
 }

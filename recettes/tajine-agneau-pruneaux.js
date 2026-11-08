@@ -35,7 +35,7 @@ window.RECETTES.push({
      "q": 1.5,
      "u": "kg",
      "name": "d'agneau halal (épaule ou collier, avec os)",
-     "note": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
+     "note": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food de l'épaule, du collier ou des souris",
      "canon": "agneau"
     },
     {
@@ -331,15 +331,15 @@ window.RECETTES.push({
   },
   {
    "text": "Pose sur la viande un bouquet ficelé de coriandre et de persil, et retire-le avant de servir.",
-   "source": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)"
+   "source": "Choumicha (bouquet persil-coriandre) ; My Moroccan Food (bouquet de coriandre ficelé)"
   },
   {
    "text": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
    "source": "Choumicha (conseil donné pour le tajine en terre) ; Cooking with Alia (viande à moitié couverte) ; My Moroccan Food (eau ajoutée si ça attache)"
   },
   {
-   "text": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
-   "source": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)"
+   "text": "La sauce est prête quand elle a réduit et qu'elle est épaisse, liée par les oignons fondus.",
+   "source": "Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse ») ; My Moroccan Food (beaucoup d'oignons pour une sauce épaisse)"
   },
   {
    "text": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
@@ -355,11 +355,11 @@ window.RECETTES.push({
   },
   {
    "text": "Choisis un morceau qui supporte une longue cuisson, avec os : épaule, collier ou souris d'agneau.",
-   "source": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)"
+   "source": "My Moroccan Food ; Choumicha (épaule ou gigot) ; Bladi (épaule)"
   },
   {
-   "text": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
-   "source": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech"
+   "text": "Le tajine en terre décoré sert surtout au service : réchauffe-le avant d'y dresser la viande cuite à la cocotte.",
+   "source": "Choumicha (fiche du tajine en terre : le tajine décoré est réservé au service et réchauffé avant de dresser)"
   },
   {
    "text": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
@@ -367,24 +367,23 @@ window.RECETTES.push({
   }
  ],
  "mistakes": [
-  "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+  "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Les cuire avec la viande n'est pas une faute pour autant : My Moroccan Food précise qu'il n'y a rien de mal à le faire, et la recette « Tajine d'agneau aux pruneaux » de Bladi.net les ajoute à la viande.",
   "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
   "Laisser la sauce s'assécher : la viande attache. Rajoute un peu d'eau chaude dès qu'il n'en reste presque plus (My Moroccan Food, Cooking with Alia).",
   "Arrêter la cuisson trop tôt : la viande doit se détacher facilement de l'os (My Moroccan Food).",
   "Brusquer les pruneaux en fin de cuisson : mélange-les délicatement (Cooking with Alia).",
   "Trop griller le sésame : il doit juste blondir (Bladi : « griller légèrement »).",
   "Mettre un tajine en terre sur un feu vif : il peut se fissurer. Toujours à feu doux, avec un diffuseur sur le gaz (Choumicha).",
-  "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
-  "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain."
+  "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha)."
  ],
- "serving": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
+ "serving": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer (Morocco World News) ; My Moroccan Food propose aussi du couscous.",
  "variants": [
   "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
   "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
   "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
   "Pruneaux et abricots : Femmes du Maroc (abricots secs) et la cheffe Asmaa Alami (Le360) associent pruneaux et abricots caramélisés ; Femmes du Maroc ajoute aussi des coings ou des pommes caramélisés.",
   "Épices en plus : une pincée de ras el hanout (Choumicha, Cooking with Alia) ou un peu de curcuma (My Moroccan Food, Morocco World News, Cooking with Alia).",
-  "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
+  "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360).",
   "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha)."
  ],
  "sources": [
@@ -422,11 +421,6 @@ window.RECETTES.push({
    "name": "Cooking with Alia – « 413 – Beef Tagine with Prunes / طاجين اللحم بالبرقوق »",
    "url": "https://www.cookingwithalia.com/413-beef-tagine-with-prunes/",
    "used_for": "Safran infusé 10 min ; oignons râpés ; viande toujours à moitié couverte, 1 à 2 h ; pruneaux trempés 15 min puis cuits dans beurre et sauce, avec miel et cannelle, jusqu'au sirop épais ; amandes frites et sésame ; nom arabe du plat."
-  },
-  {
-   "name": "Grantourismo (Terence Carter) – « Moroccan Lamb Tagine with Prunes and Almonds Recipe from Marrakech », recette apprise de Jamila, cuisinière d'un riad de Marrakech, retouchée par l'auteur",
-   "url": "https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/",
-   "used_for": "Cuisson en cocotte puis service dans le tajine en terre ; sauce réduite en oignons sirupeux ; bouquet à retirer ; servi avec du pain ou du couscous nature, en rappelant que pour les Marocains le couscous est un plat à part ; épaule, collier ou souris."
   },
   {
    "name": "Le360 (La Rédaction) – « À l'heure du Ftour : le tagine aux pruneaux, l'incontournable de la cuisine marocaine », 25/02/2026",
@@ -478,15 +472,16 @@ window.RECETTES.push({
   "Saisir ou non : My Moroccan Food saisit la viande seule à feu vif avant les oignons ; Femmes du Maroc la fait revenir avec oignons et épices « jusqu'à ce que la viande soit bien caramélisée », Cooking with Alia quelques minutes jusqu'à coloration, Choumicha 2 min à feu doux ; Bladi met tout à cru dans l'autocuiseur. Retenu : 5 à 10 min avec oignons et épices, sans saisir à part.",
   "Liquide des pruneaux : sauce de la viande chez Bladi, My Moroccan Food, Cooking with Alia et Morocco World News ; eau chez Choumicha (25 cl pour 500 g) et Femmes du Maroc. Retenu : la sauce (majorité), plus le nappage sauce et sirop de Choumicha.",
   "Sucre ou miel : sucre chez Choumicha, Bladi et Femmes du Maroc ; miel chez My Moroccan Food et Cooking with Alia ; les deux chez Morocco World News. Ramenée à 500 g de pruneaux, la dose va de 3 à 6 c. à s. chez Choumicha, Bladi, My Moroccan Food, Cooking with Alia et Morocco World News (médiane 5) ; Femmes du Maroc, bien plus sucrée, en met environ 165 g (100 g pour 300 g de pruneaux), soit une douzaine de c. à s. Retenu : 5 c. à s. de sucre, miel en variante.",
-  "Amandes : frites chez Bladi, Femmes du Maroc et Cooking with Alia ; grillées chez Choumicha et My Moroccan Food ; effilées chez Le360 et Grantourismo. Retenu : entières, mondées et frites.",
+  "Amandes : frites chez Bladi, Femmes du Maroc et Cooking with Alia ; grillées chez Choumicha et My Moroccan Food ; effilées chez Le360. Retenu : entières, mondées et frites.",
   "Pruneaux : de 250 g par kilo de viande (Morocco World News, My Moroccan Food) à 500 g par kilo (Choumicha), médiane d'environ 320 g ; Femmes du Maroc, qui ajoute autant d'abricots secs, n'en met qu'environ 90 g par kilo (300 g pour 3,3 kg). Retenu : 500 g pour 1,5 kg, comme Bladi.",
   "Eau : 350 ml pour 1 kg chez Choumicha, 320 ml pour 1,2 kg chez My Moroccan Food (médiane d'environ 330 ml par kilo sur 4 recettes en cocotte) ; Cooking with Alia couvre presque la viande. Retenu : 500 ml pour 1,5 kg, en rajoutant de l'eau chaude si besoin.",
-  "Curcuma (My Moroccan Food, Morocco World News, Cooking with Alia) et ras el hanout (Choumicha, Cooking with Alia en option, Grantourismo) : chacun absent de la majorité des recettes, donc passés en variante.",
-  "Moment des pruneaux : Grantourismo (recette de Jamila retouchée par l'auteur) les met dans la cocotte 1 h avant la fin, avec les amandes, et le sucre ou le miel y est facultatif ; toutes les autres sources les cuisent à part. Retenu : à part.",
+  "Curcuma (My Moroccan Food, Morocco World News, Cooking with Alia) et ras el hanout (Choumicha, Cooking with Alia en option) : chacun absent de la majorité des recettes, donc passés en variante.",
+  "Moment des pruneaux : toutes les sources lisibles les cuisent à part. Retenu : à part.",
   "Choumicha ajoute 1 c. à c. de sel au sirop des pruneaux ; aucune autre source ne le fait. Non retenu.",
   "Bladi saupoudre aussi la viande de 2 c. à s. de sucre et ajoute un deuxième oignon émincé en fin de cuisson : seule source à le faire, non retenu.",
-  "Durée en cocotte : 1 h 30 (Choumicha), 1 à 2 h (Cooking with Alia), 2 h (My Moroccan Food), au moins 2 h (Grantourismo). Retenu : 1 h 30 de mijotage, prolongé tant que la viande ne se détache pas de l'os, puis réduction.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s)."
+  "Durée en cocotte : 1 h 30 (Choumicha), 1 à 2 h (Cooking with Alia), 2 h (My Moroccan Food). Retenu : 1 h 30 de mijotage, prolongé tant que la viande ne se détache pas de l'os, puis réduction.",
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Eau de fleur d'oranger : seule la recette « Agneau aux pruneaux et aux amandes » de Bladi.net en met (1 c. à s. dans le liquide de cuisson), une recette atypique sans oignons ni autre épice que la cannelle, avec 1 tasse de sucre (https://www.bladi.net/recettes/agneau-aux-pruneaux-et-aux-amandes.html). Aucune des sources retenues n'en utilise : non retenue.",
@@ -496,7 +491,8 @@ window.RECETTES.push({
   "Nom en darija : la graphie « Lham bel barkouk » vient de la demande, aucune page ouverte ne l'écrit ainsi ; le nom arabe اللحم بالبرقوق est confirmé par Cooking with Alia (« طاجين اللحم بالبرقوق »).",
   "Site de Choumicha hors ligne (erreur 525) : ses deux pages ont été lues sur les copies archivées de web.archive.org.",
   "Le360 : la recette de la cheffe Asmaa Alami est en vidéo ; seul le texte d'introduction a été lu, sans les quantités.",
-  "Taste of Maroc (page refusée, erreur 403) et Royal Mansour (aucune recette de ce plat trouvée en recherche) n'ont pas pu être consultés. Lalla Moulati, introuvable lors de la rédaction, a été lue par la contre-vérification : recettes d'اللحم بالبرقوق de 2021 et 2023."
+  "Taste of Maroc (page refusée, erreur 403) et Royal Mansour (aucune recette de ce plat trouvée en recherche) n'ont pas pu être consultés. Lalla Moulati, introuvable lors de la rédaction, a été lue par la contre-vérification : recettes d'اللحم بالبرقوق de 2021 et 2023.",
+  "Grantourismo (recette de Terence Carter) : son fichier robots.txt interdit tout le site aux robots d'Anthropic (relu le 8 novembre 2026). La source est retirée, avec ce qui ne reposait que sur elle : la cuisson en cocotte puis le service dans le tajine en terre, la sauce « sirupeuse » et l'idée que le couscous serait toujours un plat à part."
  ],
  "cuisine": "Marocaine",
  "rayon": "Tajines",

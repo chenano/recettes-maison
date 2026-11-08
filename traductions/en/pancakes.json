@@ -1,0 +1,466 @@
+{
+ "_slug": "pancakes",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Pancakes américains moelleux",
+   "t": "Fluffy American pancakes"
+  },
+  "tagline": {
+   "fr": "Épais, moelleux et dorés : les pancakes du petit-déjeuner américain, servis en pile avec du beurre et du sirop d'érable ou du miel.",
+   "t": "Thick, fluffy and golden: the pancakes of the American breakfast, served in a stack with butter and maple syrup or honey."
+  },
+  "region": {
+   "fr": "États-Unis (et Canada) ; on les appelle aussi hotcakes, griddlecakes ou flapjacks (Wikipédia). En français, on dit parfois « crêpes américaines » (Wikipédia, d'après l'Office québécois de la langue française).",
+   "t": "United States (and Canada); they are also called hotcakes, griddlecakes or flapjacks (Wikipedia). In French, they are sometimes called “crêpes américaines” (Wikipedia, citing the Office québécois de la langue française)."
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner ou brunch : aux États-Unis, les pancakes sont un plat du matin, servis en pile de deux ou trois (Wikipédia).",
+   "t": "Breakfast or brunch: in the United States, pancakes are a morning dish, served in stacks of two or three (Wikipedia)."
+  },
+  "img_alt": {
+   "fr": "Pile de pancakes américains nappés de sirop d'érable",
+   "t": "A stack of American pancakes topped with maple syrup"
+  },
+  "serving": {
+   "fr": "Bien chauds, en pile de deux ou trois, avec du beurre et du sirop d'érable (Wikipédia ; Fannie Farmer ; King Arthur ; Taste of Home). Autres garnitures classiques : miel, confiture, fruits, sucre glace ou crème fouettée (Wikipédia ; Taste of Home). Aux États-Unis, on les sert souvent avec des œufs (Wikipédia). Restes : la FDA demande de ne pas laisser les plats aux œufs plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (90 °F). Laisse refroidir les pancakes, puis garde-les dans une boîte hermétique au réfrigérateur 3 jours au plus (Taste of Home ; Food Hero, de l'université d'État de l'Oregon, dit 2 jours ; la FDA, 3 à 4 jours pour les plats aux œufs). Ils se congèlent jusqu'à 3 mois, séparés par du papier cuisson (Taste of Home ; Betty Crocker dit plutôt 1 à 2 mois) ; King Arthur précise qu'on peut les congeler le jour même. Réchauffe-les au four à environ 175 °C (350 °F), 5 minutes s'ils sortent du réfrigérateur et 10 minutes s'ils sont congelés (Taste of Home), ou au micro-ondes (Betty Crocker), jusqu'à ce qu'ils soient bien chauds à cœur (FDA : 74 °C pour les plats aux œufs).",
+   "t": "Nice and hot, in stacks of two or three, with butter and maple syrup (Wikipedia; Fannie Farmer; King Arthur; Taste of Home). Other classic toppings: honey, jam, fruit, icing sugar or whipped cream (Wikipedia; Taste of Home). In the United States, they are often served with eggs (Wikipedia). Leftovers: the FDA says not to leave egg dishes out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C (90 °F). Let the pancakes cool, then keep them in an airtight container in the fridge for 3 days at most (Taste of Home; Food Hero, from Oregon State University, says 2 days; the FDA, 3 to 4 days for egg dishes). They can be frozen for up to 3 months, separated by baking paper (Taste of Home; Betty Crocker says 1 to 2 months instead); King Arthur specifies that they can be frozen the same day. Reheat them in the oven at about 175 °C (350 °F), 5 minutes if they come from the fridge and 10 minutes if frozen (Taste of Home), or in the microwave (Betty Crocker), until piping hot right through (FDA: 74 °C for egg dishes)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Batter"
+  },
+  "ing.farine.name": {
+   "fr": "de farine de blé",
+   "t": "wheat flour"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche ordinaire",
+   "t": "plain white flour"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "caster sugar"
+  },
+  "ing.levure.name": {
+   "fr": "de levure chimique",
+   "t": "baking powder"
+  },
+  "ing.levure.note": {
+   "fr": "bien fraîche, non périmée",
+   "t": "fresh, not out of date"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.oeufs.note": {
+   "fr": "à température ambiante si possible",
+   "t": "at room temperature if possible"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "milk"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.beurre.note": {
+   "fr": "à faire fondre puis à laisser tiédir (4 c. à s. pour 16 pancakes) ; ou le même volume d'huile neutre",
+   "t": "melt it, then let it cool until lukewarm (4 tbsp for 16 pancakes); or the same volume of neutral oil (sunflower)"
+  },
+  "ing.1.group": {
+   "fr": "Pour la cuisson",
+   "t": "For cooking"
+  },
+  "ing.huile.name": {
+   "fr": "huile neutre",
+   "t": "neutral oil"
+  },
+  "ing.huile.note": {
+   "fr": "ou un peu de beurre, pour graisser la poêle",
+   "t": "or a little butter, to grease the frying pan"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.beurre-service.name": {
+   "fr": "beurre",
+   "t": "butter"
+  },
+  "ing.sirop-erable.name": {
+   "fr": "sirop d'érable",
+   "t": "maple syrup"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "honey"
+  },
+  "ing.miel.note": {
+   "fr": "ou de la confiture",
+   "t": "or jam"
+  },
+  "equipment.0": {
+   "fr": "Une balance de cuisine, un verre doseur et des cuillères à mesurer",
+   "t": "Kitchen scales, a measuring jug and measuring spoons"
+  },
+  "equipment.1": {
+   "fr": "Deux bols, un grand et un moyen",
+   "t": "Two bowls, one large and one medium"
+  },
+  "equipment.2": {
+   "fr": "Un fouet et une spatule souple",
+   "t": "A whisk and a flexible spatula"
+  },
+  "equipment.3": {
+   "fr": "Une petite casserole, pour faire fondre le beurre",
+   "t": "A small saucepan, for melting the butter"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle antiadhésive, ou une plaque de cuisson",
+   "t": "A large non-stick frying pan, or a griddle"
+  },
+  "equipment.5": {
+   "fr": "Une petite louche, ou une cuillère doseuse de 4 c. à s. (60 ml)",
+   "t": "A small ladle, or a 4 tbsp (60 ml) measuring scoop"
+  },
+  "equipment.6": {
+   "fr": "Une large spatule plate, pour retourner les pancakes",
+   "t": "A wide, flat spatula, for turning the pancakes"
+  },
+  "equipment.7": {
+   "fr": "Du papier absorbant, pour graisser la poêle",
+   "t": "Kitchen paper, for greasing the frying pan"
+  },
+  "equipment.8": {
+   "fr": "Une plaque de four, pour garder les pancakes au chaud",
+   "t": "A baking tray, to keep the pancakes warm"
+  },
+  "steps.0.title": {
+   "fr": "Fais fondre le beurre",
+   "t": "Melt the butter"
+  },
+  "steps.0.text": {
+   "fr": "Fais fondre {{beurre}} de beurre dans une petite casserole, à feu doux. Retire du feu et laisse tiédir.",
+   "t": "Melt {{beurre}} butter in a small saucepan over low heat. Take off the heat and leave to cool until lukewarm."
+  },
+  "steps.1.title": {
+   "fr": "Mélange les ingrédients secs",
+   "t": "Mix the dry ingredients"
+  },
+  "steps.1.text": {
+   "fr": "Dans le grand bol, mélange au fouet {{farine}} de farine, {{sucre}} de sucre, {{levure}} de levure chimique et {{sel}} de sel.",
+   "t": "In the large bowl, whisk together {{farine}} flour, {{sucre}} sugar, {{levure}} baking powder and {{sel}} salt."
+  },
+  "steps.2.title": {
+   "fr": "Mélange les liquides",
+   "t": "Mix the wet ingredients"
+  },
+  "steps.2.text": {
+   "fr": "Dans l'autre bol, bats {{oeufs:full}} au fouet. Ajoute {{lait}} de lait, puis le beurre fondu tiède, et mélange bien.",
+   "t": "In the other bowl, beat {{oeufs:full}} with the whisk. Add {{lait}} of milk, then the lukewarm melted butter, and mix well."
+  },
+  "steps.3.title": {
+   "fr": "Réunis sans trop mélanger",
+   "t": "Combine without overmixing"
+  },
+  "steps.3.text": {
+   "fr": "Verse les liquides sur les ingrédients secs. Mélange à la spatule, juste assez pour humidifier toute la farine. La pâte doit rester épaisse, avec quelques petits grumeaux.",
+   "t": "Pour the wet ingredients onto the dry ingredients. Mix with the spatula, just enough to moisten all the flour. The batter should stay thick, with a few small lumps."
+  },
+  "steps.3.tip": {
+   "fr": "Trop mélangée, la pâte donne des pancakes durs et compacts (Betty Crocker, Taste of Home). Si elle est trop épaisse pour couler, ajoute un peu de lait, cuillère par cuillère (Betty Crocker, Land O'Lakes).",
+   "t": "Overmixed batter gives tough, dense pancakes (Betty Crocker, Taste of Home). If it is too thick to pour, add a little milk, a spoonful at a time (Betty Crocker, Land O'Lakes)."
+  },
+  "steps.4.title": {
+   "fr": "Laisse reposer 5 minutes",
+   "t": "Leave to rest for 5 minutes"
+  },
+  "steps.4.text": {
+   "fr": "Laisse reposer la pâte 5 minutes. Pendant ce temps, chauffe la poêle.",
+   "t": "Leave the batter to rest for 5 minutes. Meanwhile, heat the frying pan."
+  },
+  "steps.4.tip": {
+   "fr": "Le repos hydrate la farine, détend le gluten et laisse la levure commencer à agir : les pancakes sont plus tendres et plus gonflés (Taste of Home). King Arthur laisse même reposer sa pâte 15 minutes.",
+   "t": "Resting hydrates the flour, relaxes the gluten and lets the baking powder start working: the pancakes are more tender and puffier (Taste of Home). King Arthur even rests its batter for 15 minutes."
+  },
+  "steps.4.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Batter resting"
+  },
+  "steps.4.timer.done": {
+   "fr": "La pâte a reposé : vérifie que la poêle est bien chaude.",
+   "t": "The batter has rested: check that the frying pan is nice and hot."
+  },
+  "steps.5.title": {
+   "fr": "Chauffe la poêle à feu moyen",
+   "t": "Heat the frying pan over medium heat"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe une grande poêle antiadhésive (ou une plaque) à feu moyen. Elle est prête quand quelques gouttes d'eau y dansent et grésillent.",
+   "t": "Heat a large non-stick frying pan (or a griddle) over medium heat. It is ready when a few drops of water dance and sizzle on it."
+  },
+  "steps.5.tip": {
+   "fr": "Sur une plaque électrique réglable : environ 175 à 190 °C (350 °F pour King Arthur et Land O'Lakes, 375 °F pour Betty Crocker).",
+   "t": "On an adjustable electric griddle: about 175 to 190 °C (350 °F for King Arthur and Land O'Lakes, 375 °F for Betty Crocker)."
+  },
+  "steps.6.title": {
+   "fr": "Graisse légèrement la poêle",
+   "t": "Lightly grease the frying pan"
+  },
+  "steps.6.text": {
+   "fr": "Graisse légèrement la poêle avec un papier absorbant imbibé d'un peu d'{{huile}} ou de beurre. Essuie l'excès.",
+   "t": "Lightly grease the frying pan with kitchen paper dipped in a little {{huile}} or butter. Wipe off the excess."
+  },
+  "steps.7.title": {
+   "fr": "Verse la pâte",
+   "t": "Pour in the batter"
+  },
+  "steps.7.text": {
+   "fr": "Pour chaque pancake, verse environ 4 cuillères à soupe de pâte (une petite louche). Laisse de l'espace entre les pancakes.",
+   "t": "For each pancake, pour in about 4 tbsp of batter (a small ladle). Leave space between the pancakes."
+  },
+  "steps.7.tip": {
+   "fr": "Cela fait environ 60 ml de pâte par pancake (King Arthur, Taste of Home, Land O'Lakes). Des pancakes de même taille cuisent dans le même temps (Betty Crocker).",
+   "t": "That's about 60 ml of batter per pancake (King Arthur, Taste of Home, Land O'Lakes). Pancakes of the same size cook in the same time (Betty Crocker)."
+  },
+  "steps.8.title": {
+   "fr": "Cuis le premier côté",
+   "t": "Cook the first side"
+  },
+  "steps.8.text": {
+   "fr": "Laisse cuire environ 2 minutes, jusqu'à ce que des bulles se forment et éclatent sur le dessus, que le bord paraisse sec et que le dessous soit doré.",
+   "t": "Cook for about 2 minutes, until bubbles form and burst on the top, the edge looks dry and the underside is golden."
+  },
+  "steps.8.tip": {
+   "fr": "Soulève un bord avec la spatule : s'il se détache sans casser et que le dessous est doré, tu peux retourner (Betty Crocker).",
+   "t": "Lift an edge with the spatula: if it comes away without breaking and the underside is golden, you can turn it (Betty Crocker)."
+  },
+  "steps.8.timer.label": {
+   "fr": "Premier côté",
+   "t": "First side"
+  },
+  "steps.8.timer.done": {
+   "fr": "Des bulles éclatent et le bord est sec ? Retourne les pancakes.",
+   "t": "Are bubbles bursting and is the edge dry? Turn the pancakes."
+  },
+  "steps.9.title": {
+   "fr": "Retourne et termine la cuisson",
+   "t": "Turn and finish cooking"
+  },
+  "steps.9.text": {
+   "fr": "Retourne chaque pancake d'un geste vif, puis pose-le doucement. Laisse cuire encore 1 à 2 minutes, jusqu'à ce que le second côté soit doré.",
+   "t": "Turn each pancake over with a quick flick, then lay it down gently. Cook for another 1 to 2 minutes, until the second side is golden."
+  },
+  "steps.9.tip": {
+   "fr": "Posé doucement, le pancake garde son air et reste gonflé. Bien cuit, il reprend sa forme quand on appuie dessus du doigt ; en cas de doute, coupe-en un (King Arthur).",
+   "t": "Laid down gently, the pancake keeps its air and stays fluffy. When cooked through, it springs back when you press it with a finger; if in doubt, cut one open (King Arthur)."
+  },
+  "steps.10.title": {
+   "fr": "Garde-les au chaud",
+   "t": "Keep them warm"
+  },
+  "steps.10.text": {
+   "fr": "Pose les pancakes cuits sur une plaque, en une seule couche, dans le four allumé à sa température la plus basse.",
+   "t": "Place the cooked pancakes on a baking tray, in a single layer, in the oven set to its lowest temperature."
+  },
+  "steps.10.tip": {
+   "fr": "King Arthur indique environ 200 °F (93 °C), Taste of Home 250 °F (121 °C). Refroidis, les pancakes retombent un peu (King Arthur).",
+   "t": "King Arthur suggests about 200 °F (93 °C), Taste of Home 250 °F (121 °C). Once cooled, pancakes sink a little (King Arthur)."
+  },
+  "steps.11.title": {
+   "fr": "Continue jusqu'à la fin de la pâte",
+   "t": "Carry on until the batter is used up"
+  },
+  "steps.11.text": {
+   "fr": "Regraisse légèrement la poêle et recommence jusqu'à la fin de la pâte. Si les pancakes brunissent trop vite alors que le centre reste cru, baisse un peu le feu.",
+   "t": "Lightly regrease the frying pan and repeat until the batter is used up. If the pancakes brown too quickly while the centre stays raw, turn the heat down a little."
+  },
+  "steps.11.tip": {
+   "fr": "Le premier pancake rate souvent, quand la poêle n'est pas encore assez chaude : fais un essai avec une petite cuillerée de pâte (Taste of Home).",
+   "t": "The first pancake often goes wrong, when the pan isn't hot enough yet: do a test with a small spoonful of batter (Taste of Home)."
+  },
+  "steps.12.title": {
+   "fr": "Sers en pile",
+   "t": "Serve in a stack"
+  },
+  "steps.12.text": {
+   "fr": "Sers les pancakes bien chauds, en pile de deux ou trois, avec un morceau de {{beurre-service}} et du {{sirop-erable}}, ou du {{miel}}.",
+   "t": "Serve the pancakes nice and hot, in stacks of two or three, with a knob of {{beurre-service}} and {{sirop-erable}}, or {{miel}}."
+  },
+  "secrets.0.text": {
+   "fr": "Ne mélange pas trop : quelques grumeaux, c'est normal. Une pâte trop travaillée donne des pancakes durs.",
+   "t": "Don't overmix: a few lumps are normal. Overworked batter gives tough pancakes."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Crocker ; Taste of Home ; King Arthur",
+   "t": "Betty Crocker; Taste of Home; King Arthur"
+  },
+  "secrets.1.text": {
+   "fr": "Un court repos hydrate la farine, détend le gluten et laisse la levure commencer à agir : les pancakes sont plus tendres et plus gonflés.",
+   "t": "A short rest hydrates the flour, relaxes the gluten and lets the baking powder start working: the pancakes are more tender and puffier."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Home (5 minutes) ; Betty Crocker (5 à 10 minutes) ; King Arthur (15 minutes)",
+   "t": "Taste of Home (5 minutes); Betty Crocker (5 to 10 minutes); King Arthur (15 minutes)"
+  },
+  "secrets.2.text": {
+   "fr": "Un œuf pour 120 g de farine : c'est la règle de King Arthur pour des pancakes bien gonflés, et la dose de Betty Crocker, Taste of Home et Land O'Lakes.",
+   "t": "One egg per 120 g of flour: that's King Arthur's rule for well-risen pancakes, and the ratio used by Betty Crocker, Taste of Home and Land O'Lakes."
+  },
+  "secrets.2.source": {
+   "fr": "King Arthur (blog) ; Betty Crocker ; Taste of Home ; Land O'Lakes",
+   "t": "King Arthur (blog); Betty Crocker; Taste of Home; Land O'Lakes"
+  },
+  "secrets.3.text": {
+   "fr": "Teste la poêle avec quelques gouttes d'eau : si elles dansent et grésillent, elle est prête.",
+   "t": "Test the frying pan with a few drops of water: if they dance and sizzle, it is ready."
+  },
+  "secrets.3.source": {
+   "fr": "King Arthur ; Betty Crocker ; Land O'Lakes",
+   "t": "King Arthur; Betty Crocker; Land O'Lakes"
+  },
+  "secrets.4.text": {
+   "fr": "Trop chaude, la poêle brunit le dehors et laisse le cœur cru ; pas assez chaude, les pancakes ne gonflent pas.",
+   "t": "Too hot, and the pan browns the outside and leaves the centre raw; not hot enough, and the pancakes don't rise."
+  },
+  "secrets.4.source": {
+   "fr": "Betty Crocker ; King Arthur (cuisson à feu moyen-doux une fois la pâte versée, dans son blog)",
+   "t": "Betty Crocker; King Arthur (cooking over medium-low heat once the batter is poured, on its blog)"
+  },
+  "secrets.5.text": {
+   "fr": "Le bon moment pour retourner : des bulles éclatent sur le dessus et laissent de petits trous, et le bord paraît sec.",
+   "t": "The right moment to turn: bubbles burst on the top, leaving small holes, and the edge looks dry."
+  },
+  "secrets.5.source": {
+   "fr": "Betty Crocker ; Taste of Home ; Land O'Lakes ; Fannie Farmer",
+   "t": "Betty Crocker; Taste of Home; Land O'Lakes; Fannie Farmer"
+  },
+  "secrets.6.text": {
+   "fr": "Retourne d'un geste vif, puis pose le pancake doucement : l'air reste dedans et le rend moelleux.",
+   "t": "Turn with a quick flick, then lay the pancake down gently: the air stays inside and makes it fluffy."
+  },
+  "secrets.6.source": {
+   "fr": "King Arthur (blog)",
+   "t": "King Arthur (blog)"
+  },
+  "secrets.7.text": {
+   "fr": "Environ 4 c. à s. de pâte (60 ml) par pancake, toujours la même dose : ils ont tous la même taille et cuisent ensemble.",
+   "t": "About 4 tbsp of batter (60 ml) per pancake, always the same amount: they are all the same size and cook together."
+  },
+  "secrets.7.source": {
+   "fr": "King Arthur ; Taste of Home ; Land O'Lakes ; Betty Crocker",
+   "t": "King Arthur; Taste of Home; Land O'Lakes; Betty Crocker"
+  },
+  "secrets.8.text": {
+   "fr": "Utilise une levure chimique fraîche, non périmée : c'est elle qui fait lever les pancakes.",
+   "t": "Use fresh baking powder that isn't out of date: it is what makes the pancakes rise."
+  },
+  "secrets.8.source": {
+   "fr": "Betty Crocker ; Taste of Home (la levure rend les pancakes tendres et gonflés)",
+   "t": "Betty Crocker; Taste of Home (baking powder makes pancakes tender and fluffy)"
+  },
+  "secrets.9.text": {
+   "fr": "Le babeurre réagit avec le bicarbonate et rend les pancakes encore plus légers : beaucoup de restaurants américains en mettent, selon Betty Crocker.",
+   "t": "Buttermilk reacts with bicarbonate of soda and makes pancakes even lighter: many American restaurants use it, according to Betty Crocker."
+  },
+  "secrets.9.source": {
+   "fr": "Betty Crocker ; King Arthur ; Wikipédia (le buttermilk pancake est courant aux États-Unis)",
+   "t": "Betty Crocker; King Arthur; Wikipedia (buttermilk pancakes are common in the United States)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour servir tout le monde en même temps, garde les pancakes au four tiède, en une seule couche sur une plaque.",
+   "t": "To serve everyone at the same time, keep the pancakes warm in a low oven, in a single layer on a baking tray."
+  },
+  "secrets.10.source": {
+   "fr": "King Arthur ; Taste of Home",
+   "t": "King Arthur; Taste of Home"
+  },
+  "secrets.11.text": {
+   "fr": "Aux États-Unis, on les mange au petit-déjeuner, en pile, avec du beurre et du sirop d'érable. Fannie Farmer le conseillait déjà dans son livre de cuisine (édition de 1910).",
+   "t": "In the United States, they are eaten at breakfast, in a stack, with butter and maple syrup. Fannie Farmer was already recommending this in her cookbook (1910 edition)."
+  },
+  "secrets.11.source": {
+   "fr": "Wikipédia ; Fannie Farmer, Boston Cooking-School Cook Book ; King Arthur ; Taste of Home",
+   "t": "Wikipedia; Fannie Farmer, Boston Cooking-School Cook Book; King Arthur; Taste of Home"
+  },
+  "mistakes.0": {
+   "fr": "Trop mélanger la pâte : les pancakes deviennent durs et compacts (Betty Crocker ; Taste of Home ; King Arthur).",
+   "t": "Overmixing the batter: the pancakes become tough and dense (Betty Crocker; Taste of Home; King Arthur)."
+  },
+  "mistakes.1": {
+   "fr": "Une poêle trop chaude ou pas assez chaude : dehors brun et dedans cru, ou pancakes plats (Betty Crocker).",
+   "t": "A frying pan that is too hot or not hot enough: brown outside and raw inside, or flat pancakes (Betty Crocker)."
+  },
+  "mistakes.2": {
+   "fr": "Retourner trop tôt, avant que les bulles éclatent et que le bord soit sec (Betty Crocker ; Taste of Home ; Fannie Farmer).",
+   "t": "Turning too early, before the bubbles burst and the edge is dry (Betty Crocker; Taste of Home; Fannie Farmer)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser retomber le pancake brutalement en le retournant : l'air s'échappe et il s'aplatit (King Arthur).",
+   "t": "Letting the pancake drop down heavily when turning it: the air escapes and it flattens (King Arthur)."
+  },
+  "mistakes.4": {
+   "fr": "Utiliser une levure chimique éventée ou périmée : les pancakes lèvent mal (Betty Crocker).",
+   "t": "Using stale or out-of-date baking powder: the pancakes don't rise well (Betty Crocker)."
+  },
+  "mistakes.5": {
+   "fr": "Goûter la pâte crue : la farine et les œufs crus peuvent contenir des bactéries (FDA, agence sanitaire américaine).",
+   "t": "Tasting the raw batter: raw flour and raw eggs can contain bacteria (FDA, the US health agency)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre de l'extrait de vanille : aux États-Unis, il contient au moins 35 % d'alcool (eCFR, règlement américain) ; prends plutôt du sucre vanillé ou de la vanille en poudre, que la même réglementation définit comme de la vanille moulue (ou son oléorésine) mélangée à du sucre ou à un autre support, sans alcool parmi les ingrédients (norme américaine).",
+   "t": "Adding vanilla extract: in the United States, it contains at least 35% alcohol (eCFR, US regulations); use vanilla sugar or vanilla powder instead, which the same regulations define as ground vanilla (or its oleoresin) mixed with sugar or another carrier, with no alcohol among the ingredients (US standard)."
+  },
+  "variants.0": {
+   "fr": "Au babeurre, la recette de King Arthur : 240 g de farine, 35 g de sucre (3 c. à s.), 1 c. à c. de levure chimique, 1 c. à c. de bicarbonate de soude, ½ c. à c. de sel, 1 gros œuf, environ 475 ml de babeurre (454 g) et 28 g de beurre fondu (2 c. à s.) ; repos de 15 minutes ; 14 à 16 pancakes d'environ 10 cm. King Arthur ajoute en option de l'extrait de vanille : remplace-le par du sucre vanillé ou de la vanille en poudre.",
+   "t": "With buttermilk, King Arthur's recipe: 240 g of flour, 35 g of sugar (3 tbsp), 1 tsp of baking powder, 1 tsp of bicarbonate of soda, ½ tsp of salt, 1 large egg, about 475 ml of buttermilk (454 g) and 28 g of melted butter (2 tbsp); a 15-minute rest; 14 to 16 pancakes about 10 cm across. King Arthur adds vanilla extract as an option: replace it with vanilla sugar or vanilla powder."
+  },
+  "variants.1": {
+   "fr": "Babeurre à la place du lait, version Betty Crocker : pour 120 g de farine, environ 235 ml de babeurre au lieu d'environ 175 ml de lait, 1 c. à c. de levure chimique au lieu de 3, et ½ c. à c. de bicarbonate de soude.",
+   "t": "Buttermilk instead of milk, Betty Crocker's version: for 120 g of flour, about 235 ml of buttermilk instead of about 175 ml of milk, 1 tsp of baking powder instead of 3, and ½ tsp of bicarbonate of soda."
+  },
+  "variants.2": {
+   "fr": "Sans babeurre sous la main : mets 1 c. à s. de vinaigre ou de jus de citron dans un verre doseur, complète avec du lait jusqu'à environ 235 ml et laisse reposer 5 minutes (Land O'Lakes). King Arthur propose aussi un mélange d'un tiers de yaourt grec nature et de deux tiers de lait.",
+   "t": "No buttermilk to hand: put 1 tbsp of vinegar or lemon juice in a measuring jug, top up with milk to about 235 ml and leave to stand for 5 minutes (Land O'Lakes). King Arthur also suggests a mixture of one third plain Greek yoghurt and two thirds milk."
+  },
+  "variants.3": {
+   "fr": "Extra moelleux : sépare les œufs, mets les jaunes dans les liquides, bats les blancs en neige (King Arthur en ajoute un de plus) et incorpore-les délicatement juste avant la cuisson (King Arthur).",
+   "t": "Extra fluffy: separate the eggs, put the yolks in the wet ingredients, whisk the whites until stiff (King Arthur adds an extra one) and fold them in gently just before cooking (King Arthur)."
+  },
+  "variants.4": {
+   "fr": "Aux myrtilles : incorpore délicatement des myrtilles fraîches, ou surgelées puis décongelées (Land O'Lakes : environ 235 ml de myrtilles pour 120 g de farine). Iowa State University conseille de décongeler et d'égoutter les myrtilles surgelées, puis d'y mélanger un peu de farine (2 c. à c. pour sa recette).",
+   "t": "With blueberries: gently fold in fresh blueberries, or frozen ones that have been thawed (Land O'Lakes: about 235 ml of blueberries per 120 g of flour). Iowa State University advises thawing and draining frozen blueberries, then mixing a little flour into them (2 tsp for its recipe)."
+  },
+  "variants.5": {
+   "fr": "À la farine complète : Betty Crocker accepte la farine complète à la place de la farine blanche ; Iowa State University en fait des pancakes aux myrtilles au lait écrémé, cuits à feu moyen-doux, environ 4 minutes puis 3 minutes.",
+   "t": "With wholemeal flour: Betty Crocker accepts wholemeal flour instead of white flour; Iowa State University uses it for blueberry pancakes made with skimmed milk, cooked over medium-low heat for about 4 minutes, then 3 minutes."
+  },
+  "variants.6": {
+   "fr": "À l'ancienne, au lait aigre (Fannie Farmer, Boston Cooking-School Cook Book) : 300 g de farine, ½ c. à c. de sel, 1 ¼ c. à c. de bicarbonate, environ 475 ml de lait aigre et 1 œuf, sans sucre ni beurre ; servis avec du beurre et du sirop d'érable.",
+   "t": "Old-fashioned, with sour milk (Fannie Farmer, Boston Cooking-School Cook Book): 300 g of flour, ½ tsp of salt, 1 ¼ tsp of bicarbonate of soda, about 475 ml of sour milk and 1 egg, with no sugar or butter; served with butter and maple syrup."
+  },
+  "variants.7": {
+   "fr": "Très hauts, dans des cercles : King Arthur verse environ 80 ml de pâte dans des cercles à muffins anglais d'environ 10 cm graissés, puis cuit environ 1 minute à feu moyen et 4 à 5 minutes à feu doux avant de retourner.",
+   "t": "Extra tall, in rings: King Arthur pours about 80 ml of batter into greased English muffin rings about 10 cm across, then cooks them for about 1 minute over medium heat and 4 to 5 minutes over low heat before turning."
+  },
+  "variants.8": {
+   "fr": "À l'huile : Betty Crocker et King Arthur acceptent l'huile neutre à la place du beurre fondu.",
+   "t": "With oil: Betty Crocker and King Arthur accept neutral oil instead of melted butter."
+  },
+  "variants.9": {
+   "fr": "Parfum vanille : King Arthur met en option 1 ½ c. à c. d'extrait de vanille, qui contient de l'alcool (au moins 35 % selon la norme américaine). Prends à la place du sucre vanillé ou de la vanille en poudre, selon le goût (aucune source ne donne la dose).",
+   "t": "Vanilla flavour: King Arthur adds 1 ½ tsp of vanilla extract as an option, which contains alcohol (at least 35% under the US standard). Use vanilla sugar or vanilla powder instead, to taste (no source gives the amount)."
+  }
+ }
+}

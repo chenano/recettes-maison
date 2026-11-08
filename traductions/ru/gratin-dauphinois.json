@@ -82,10 +82,6 @@
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
-  },
   "ing.ail.note": {
    "fr": "pour le lait",
    "t": "для молока"
@@ -413,6 +409,10 @@
   "variants.8": {
    "fr": "Pommes de terre à la savoyarde : comme le gratin dauphinois, mais avec du consommé à la place du lait (Escoffier) ; prends un bouillon certifié halal.",
    "t": "Картофель по-савойски: как гратен дофинуа, но с консоме вместо молока (Escoffier); берите бульон с сертификатом халяль."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
   }
  }
 }

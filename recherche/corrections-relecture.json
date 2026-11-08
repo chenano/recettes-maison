@@ -1,0 +1,513 @@
+{
+ "chakchouka": {
+  "corrections": [
+   {
+    "champ": "secrets[10].source",
+    "actuel": "Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)",
+    "propose": "Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner)",
+    "pourquoi": "Le robots.txt d'alquds.co.uk (lu le 2026-11-08) interdit tout le site à ClaudeBot, Claude-SearchBot et anthropic-ai (« Disallow: / ») : ni l'article ni ses copies archivées ne peuvent être utilisés, donc « le repas le plus simple, le plus connu et le moins cher » n'est pas vérifié. Le dossier bid-maticha l'avait déjà écarté pour la même raison. Le nom « bid w maticha » reste appuyé par Wikipedia EN, Lalla Moulati et Hespress.",
+    "sources": "https://www.alquds.co.uk/robots.txt (lu le 2026-11-08) ; recherche/bid-maticha.json (même constat)"
+   }
+  ],
+  "retirer_sources": [
+   "https://www.alquds.co.uk/%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%BA%D8%B6%D8%A8%D9%87%D9%85-%D9%85%D9%86-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B6%D8%A7%D8%B1/"
+  ],
+  "sources_ajoutees": []
+ },
+ "frites": {
+  "corrections": [
+   {
+    "champ": "secrets[8].source",
+    "actuel": "FSA (jusqu'à 20 % de gras absorbé en moins)",
+    "propose": "FSA (20 % de gras absorbé en moins en secouant les frites et en tapant le panier)",
+    "pourquoi": "La FSA écrit « By shaking the chips and banging the wire scoop several times, you can reduce fat absorption by 20% » : 20 %, pas « jusqu'à 20 % ». Harmonisé avec steps[10].tip et avec la recherche et sa contre-vérification, qui disent toutes deux 20 %.",
+    "sources": "FSA, « Healthier catering tips for chip shops » (GOV.UK, page lue le 2026-11-08) ; recherche/frites.json et recherche/verification-frites.json"
+   },
+   {
+    "champ": "steps[10].tip",
+    "actuel": "la FSA parle de 20 % de gras absorbé en moins.",
+    "propose": "la FSA parle de 20 % de gras absorbé en moins quand on secoue les frites et qu'on tape plusieurs fois le panier.",
+    "pourquoi": "Le chiffre de 20 % est juste, mais la FSA le lie à deux gestes (secouer les frites et taper plusieurs fois le panier), pas au seul fait de secouer. Formulation alignée sur la FSA et sur secrets[8].source.",
+    "sources": "FSA, « Healthier catering tips for chip shops » (GOV.UK) : « Bang, shake and drain chips »"
+   },
+   {
+    "champ": "steps[4].tip",
+    "actuel": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
+    "propose": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire). Coupe le chauffage seulement si tu peux le faire sans danger, sans te pencher au-dessus du récipient (London Fire Brigade, pompiers de Cambridgeshire) ; le gouvernement du Québec dit d'éteindre aussi, si possible, le four et la hotte. Le gouvernement du Québec et l'USFA conseillent de couvrir vite le récipient avec un couvercle adapté (l'USFA cite aussi une plaque de four). La London Fire Brigade et les pompiers de Cambridgeshire disent, eux, de ne pas attaquer le feu soi-même : sors de la pièce en fermant la porte, préviens les autres et fais sortir tout le monde, puis appelle les pompiers. Cambridgeshire ajoute de ne pas retourner à l'intérieur et, si le chauffage a pu être coupé et que le feu ne s'étend pas, de laisser le récipient refroidir au moins 30 minutes sans y toucher. Appelle les pompiers même si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec).",
+    "pourquoi": "La phrase attribuait tout aux quatre sources. Relu le 2026-11-08 : le couvercle vient du gouvernement du Québec (« couvercle de dimension appropriée ») et de l'USFA (« pan lid or baking sheet ») ; la London Fire Brigade et les pompiers de Cambridgeshire ne parlent pas de couvercle et disent « Don't tackle the fire yourself » / « Do not attempt to tackle the fire ». Les 30 minutes et « ne pas retourner à l'intérieur » viennent de Cambridgeshire ; l'appel même si le feu semble éteint (conduit de la hotte), du Québec ; l'USFA ne parle ni d'eau, ni de déplacer le récipient, ni d'appeler les pompiers. Toutes les consignes d'origine sont gardées ; s'y ajoutent, d'après ces pages : ne pas se pencher au-dessus du récipient, éteindre four et hotte, prévenir les autres.",
+    "sources": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » ; USFA, « Cooking fire safety » (revue le 28 sept. 2026) ; London Fire Brigade, « Pan fires » (https://www.london-fire.gov.uk/safety/the-home/cooking/pan-fires/) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; même désaccord déjà noté dans discrepancies[10]"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "bissara": {
+  "corrections": [
+   {
+    "champ": "secrets[10].text",
+    "actuel": "Lalla Moulati y ajoute du piment vert et du piment frit.",
+    "propose": "Lalla Moulati la sert aussi avec du piment vert et du piment fort frit.",
+    "pourquoi": "Sur la page de Lalla Moulati (2014), le piment vert (« فلفلة خضرة ») et le piment fort frit (« فلفلة حارة مقلية ») figurent dans la liste « للتقديم » (pour servir), avec l'oignon, les olives et le citron ; la méthode ne les met pas dans la purée (on verse seulement l'huile et le cumin dessus). « y ajoute » pouvait se lire comme un ajout dans la bissara. La contre-vérification les classe aussi parmi les accompagnements.",
+    "sources": "Lalla Moulati, « بالخطوات المصورة تحضير البيصارة المغربية بالفول » (https://www.lalamoulati.net/8843.html, lue le 2026-11-08) ; recherche/verification-bissara.json"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "couscous-sept-legumes": {
+  "corrections": [
+   {
+    "champ": "ingredients[0].items[2].name",
+    "actuel": "gros oignon (environ 200 g)",
+    "propose": "gros oignon",
+    "pourquoi": "Une fois la quantité recalculée, « ¼ gros oignon (environ 200 g) » laisse croire que le quart pèse 200 g. Le poids passe dans la note (voir ingredients[0].items[2].note), avec le même sens : un gros oignon pèse environ 200 g.",
+    "sources": "Texte actuel de la recette (aucun changement de quantité) ; tournure « environ 200 g pièce » déjà employée dans tajine-poisson"
+   },
+   {
+    "champ": "ingredients[0].items[2].pl",
+    "actuel": "gros oignons (environ 200 g chacun)",
+    "propose": "gros oignons",
+    "pourquoi": "Même raison que pour le nom : le poids passe dans la note.",
+    "sources": "Texte actuel de la recette"
+   },
+   {
+    "champ": "ingredients[0].items[2].note",
+    "actuel": "",
+    "propose": "environ 200 g pièce",
+    "pourquoi": "Champ « note » ABSENT de cet ingrédient : à créer avec cette valeur (d'où « actuel » vide). L'appli affiche la note sous le nom, sans la recalculer.",
+    "sources": "app.html (classe .note) ; même tournure dans tajine-poisson (« environ 200 g pièce »)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "escalopes-poulet-panees": {
+  "corrections": [
+   {
+    "champ": "variants[3]",
+    "actuel": "les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
+    "propose": "ici, contrairement à la recette de base, où l'on pane juste avant de cuire, les escalopes panées reposent environ 30 minutes au réfrigérateur avant la cuisson : c'est le choix propre à Cyril Lignac, pour que les œufs « s'amalgament » bien (Journal des Femmes, 2024).",
+    "pourquoi": "Les deux consignes sont exactes mais viennent de sources différentes : Betty Bossi (« Évitez de paner trop longtemps avant la cuisson », « de préférence juste avant la cuisson ») et Migusto (« paner les escalopes … juste avant la cuisson ») pour la recette de base ; Cyril Lignac, cité par le Journal des Femmes (6 mai 2024), fait l'inverse pour sa panure aux blancs mousseux : « réservez-la au frais », « comptez environ 30 min au frigo », « pour que les œufs s'amalgament bien ». La reformulation présente le repos comme le choix de cette variante ; « 30 minutes » devient « environ 30 minutes », comme dans l'article.",
+    "sources": "Journal des Femmes, « Cyril Lignac a trouvé la combine pour une escalope panée plus légère… » (6 mai 2024 ; copie web.archive.org du 18 sept. 2025, site en 403 pour les robots, robots.txt archivé sans interdiction) ; Betty Bossi, « Paner – Modes de cuisson en toute simplicité » ; Migusto, « Escalopes viennoises »"
+   },
+   {
+    "champ": "region",
+    "actuel": "l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine.",
+    "propose": "l'escalope viennoise (Wiener Schnitzel), plat de Vienne fait de veau et pané de la même façon (farine, œuf, chapelure), est une proche cousine de ces escalopes de poulet panées.",
+    "pourquoi": "« en est la cousine » pouvait renvoyer à la technique (la panure à l'anglaise) plutôt qu'au plat. La phrase dit maintenant clairement que c'est le plat viennois qui est cousin de ces escalopes. « à l'origine » devient « fait de veau » : l'Office du tourisme de Vienne le décrit aujourd'hui comme « ein zartes Stück Kalbfleisch, das in Mehl, Ei und Bröseln gewendet wird », et Wikipédia précise que la version au porc est souvent appelée autrement (« Wiener Schnitzel vom Schwein » en Autriche).",
+    "sources": "Office du tourisme de Vienne, « Das Wiener Schnitzel » (lu le 2026-11-08) ; Wikipédia FR, « Escalope viennoise » (lu le 2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "baghrir": {
+  "corrections": [
+   {
+    "champ": "secrets[5].text",
+    "actuel": "Respecte la dose de levure et le temps de repos.",
+    "propose": "Respecte les doses des deux levures (levure boulangère et levure chimique) et le temps de repos.",
+    "pourquoi": "La recette emploie deux levures (ingrédients « levure boulangère sèche » et « levure chimique »). L'astuce de Choumicha dit « Respecter les dosages de la levure et le temps de repos de la pâte », au pluriel, et sa propre recette de beghrir contient justement « 1 c. à thé de levure boulangère » et « 1 sachet de levure chimique » ; My Moroccan Food utilise aussi les deux (« active dry yeast » et « baking powder »). La précision lève l'ambiguïté sans changer le conseil.",
+    "sources": "Choumicha, astuce « Pour réussir les crêpes au mille trous » (copie web.archive.org du 28 août 2016) ; Choumicha, « Beghrir ou crêpes aux mille trous » (copie web.archive.org du 11 déc. 2025) ; choumicha.ma hors ligne (erreur 525), robots.txt archivé sans interdiction ; My Moroccan Food, « Moroccan Pancakes - Baghrir » (lu le 2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "pastilla-poulet": {
+  "corrections": [
+   {
+    "champ": "ingredients[2].items[1].note",
+    "actuel": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
+    "propose": "prévois en tout un peu plus de feuilles que la somme des trois lignes (tour, fond, dessus), pour avoir de la marge : pour 8 personnes, 12 à 15 feuilles",
+    "pourquoi": "La note ne suit pas le recalcul des parts (l'appli l'affiche telle quelle). Pour 8 personnes, la recette compte 6 + 2 + 4 = 12 feuilles ; « 12 à 15 » vient de la leçon de La Cuisine Marocaine, qui donne « 12 à 15 feuilles de pastilla » pour un moule d'environ 40 cm (sans nombre de personnes). La nouvelle note reste vraie quel que soit le nombre de parts et garde le chiffre pour 8.",
+    "sources": "La Cuisine Marocaine, leçon « Comment plier la pastilla » (https://www.la-cuisine-marocaine.com/lecons-de-cuisine/comment-plier-pastilla/, lue le 2026-11-08) ; quantités de la recette (servings 8)"
+   },
+   {
+    "champ": "variants[7]",
+    "actuel": "un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs)",
+    "propose": "un peu de gomme arabique dans la sauce, en petits grains (Cooking with Alia, recette 695) ou écrasée (Épices et douceurs)",
+    "pourquoi": "« Gomme arabique » est juste : Cooking with Alia écrit « 1/2 teaspoon Arabic gum pebbles » et Épices et douceurs « 1 c à café de gomme d'arabique » ; rien n'indique qu'elles parlent du mastic. Taste of Maroc précise qu'au Maroc la gomme arabique s'appelle « awerwar » (parfois aussi « meska »), alors que « meska horra » désigne le mastic, et qu'on emploie l'une ou l'autre en petite quantité. Seule correction : « pilée » ne vaut que pour Épices et douceurs (« la gomme d'arabique écrasé ») ; Cooking with Alia met les grains entiers dans la sauce.",
+    "sources": "Cooking with Alia, « Sweet Chicken-Almond Pastilla » (recette 695, lue le 2026-11-08) ; Épices et douceurs, « Pastilla de pigeons » (copie web.archive.org du 22 sept. 2015, le site affiche un contrôle anti-robots) ; Taste of Maroc, « Gum Arabic in Morocco – Awerwar or Meska » (copie web.archive.org du 16 juil. 2026)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": [
+   {
+    "name": "Taste of Maroc, Christine Benlafquih, « Gum Arabic in Morocco – Awerwar or Meska » (mis à jour le 5 décembre 2019 ; copie archivée du 16 juillet 2026, le site renvoie une erreur 403 aux robots, son robots.txt autorise tout)",
+    "url": "https://web.archive.org/web/20260716014327/http://tasteofmaroc.com/gum-arabic-in-morocco-awerwar-or-meska/",
+    "ce_qu_elle_confirme": "Au Maroc, la gomme arabique (« awerwar », parfois appelée « meska ») est un autre produit que le mastic (« meska horra ») ; on emploie l'un ou l'autre en très petite quantité dans certaines recettes."
+   }
+  ]
+ },
+ "sandwich-poisson": {
+  "corrections": [
+   {
+    "champ": "variants[3]",
+    "actuel": "avec des sardines ou un autre poisson blanc pêché du jour",
+    "propose": "avec du poisson pêché du jour, sardines ou poisson blanc",
+    "pourquoi": "Morocco World News écrit bien « freshly-caught fish such as sardines or other white fish » (erreur reprise de la source), mais la sardine est un poisson gras (poisson bleu), pas un poisson blanc : le NHS la range parmi les « oily fish » et Wikipédia parmi les « poissons bleus ». La nouvelle tournure garde les exemples de la source sans faire de la sardine un poisson blanc.",
+    "sources": "Morocco World News, « Five Street Foods in Morocco That Are Uniquely Moroccan » (30 juillet 2021 ; même texte sur MWN Lifestyle, lu le 2026-11-08) ; NHS, « Fish and shellfish » (https://www.nhs.uk/live-well/eat-well/food-types/fish-and-shellfish-nutrition/) ; Wikipédia FR, « Poisson gras »"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "rghayef": {
+  "corrections": [
+   {
+    "champ": "steps[0].title",
+    "actuel": "Fondre les oignons",
+    "propose": "Fais fondre les oignons",
+    "pourquoi": "Titre à l'infinitif mis à l'impératif (2e personne), comme les textes des étapes et la plupart des recettes de l'appli ; sens inchangé.",
+    "sources": "Texte des étapes de la recette ; tournures déjà employées ailleurs dans l'appli (« Pétris 10 minutes », « Mélange la pâte », « Chauffe la poêle à sec », « Cuis la première face », « Sers bien chaud »)"
+   },
+   {
+    "champ": "steps[1].title",
+    "actuel": "Ajouter khlii, persil et épices",
+    "propose": "Ajoute khlii, persil et épices",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[2].title",
+    "actuel": "Goûter et refroidir",
+    "propose": "Goûte et laisse refroidir",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[3].title",
+    "actuel": "Mélanger la pâte",
+    "propose": "Mélange la pâte",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[4].title",
+    "actuel": "Pétrir 10 minutes",
+    "propose": "Pétris 10 minutes",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[5].title",
+    "actuel": "Former les pâtons",
+    "propose": "Forme les pâtons",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[6].title",
+    "actuel": "Préparer ton poste",
+    "propose": "Prépare ton poste",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[7].title",
+    "actuel": "Étirer très fin",
+    "propose": "Étire très fin",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[8].title",
+    "actuel": "Badigeonner et garnir",
+    "propose": "Badigeonne et garnis",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[9].title",
+    "actuel": "Fermer en carré",
+    "propose": "Ferme en carré",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[10].title",
+    "actuel": "Chauffer la poêle",
+    "propose": "Chauffe la poêle",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[11].title",
+    "actuel": "Aplatir doucement",
+    "propose": "Aplatis doucement",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[12].title",
+    "actuel": "Cuire en retournant",
+    "propose": "Cuis en retournant",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[13].title",
+    "actuel": "Continuer avec les autres",
+    "propose": "Continue avec les autres",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   },
+   {
+    "champ": "steps[14].title",
+    "actuel": "Servir brûlant",
+    "propose": "Sers brûlant",
+    "pourquoi": "Même harmonisation (infinitif → impératif), sens inchangé.",
+    "sources": "Texte de l'étape"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "the-menthe": {
+  "corrections": [
+   {
+    "champ": "variants[3]",
+    "actuel": "pour l'absinthe, mêmes précautions que pour la chiba",
+    "propose": "cette absinthe est la chiba de la variante d'hiver, avec les mêmes précautions",
+    "pourquoi": "Une seule plante : Hespress (dépêche Anadolu) écrit que les Marocains appellent « الشيبة » (chiba) les parties hautes et les feuilles fleuries de la plante connue comme « الأفسنتين » (absinthe) ; Moroccan Zest parle seulement d'« absinthe » ajoutée par temps froid, sans autre nom. La phrase laissait croire à deux plantes. Nuance non tranchée, sans effet sur la correction : Wikipédia EN parle de « tree wormwood » (armoise arborescente) pour la chiba.",
+    "sources": "Hespress, sources[8] de la recette (« المغرب البلد الوحيد بالعالم الذي يُنكه الشاي بنبتة الشيبة », lu le 2026-11-08) ; Moroccan Zest, « Moroccan Mint Tea Recipe » (lu le 2026-11-08) ; Wikipédia EN, « Maghrebi mint tea »"
+   },
+   {
+    "champ": "mistakes[3]",
+    "actuel": "laisse environ 2,5 cm de vide.",
+    "propose": "remplis-la environ aux trois quarts, comme le dit la note de l'eau (Cooking with Alia ; Moroccan Zest, lui, garde environ 2,5 cm de vide).",
+    "pourquoi": "Deux sources, deux mesures : Cooking with Alia (« until it is three quarters full ») a donné la note de l'ingrédient eau (« environ aux trois quarts, jamais jusqu'au bord ») ; Moroccan Zest (« Don't fill the teapot to the brim keeping one inch space ») a donné les 2,5 cm. Les deux mesures ne coïncident pas forcément : la faute à éviter suit désormais la note, et la mesure de Moroccan Zest reste citée comme telle.",
+    "sources": "Cooking with Alia, « 444 – Moroccan Mint Tea » (lu le 2026-11-08) ; Moroccan Zest, « Moroccan Mint Tea Recipe » (lu le 2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "tajine-kefta-oeufs": {
+  "corrections": [
+   {
+    "champ": "steps[8].timer.done",
+    "actuel": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
+    "propose": "Blanc pris, jaune encore coulant : coupe le feu tout de suite. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, prolonge de quelques minutes, jusqu'à ce que le jaune soit pris.",
+    "pourquoi": "Le minuteur disait de couper le feu dans tous les cas, alors que le texte de l'étape demande de prolonger la cuisson pour les personnes vulnérables. L'Institut Pasteur écrit que les personnes les plus vulnérables « devraient éviter la consommation d'œufs crus ou peu cuits ». Longueur (environ 190 caractères) comparable à d'autres messages de minuteur de l'appli (jusqu'à 262).",
+    "sources": "Institut Pasteur, fiche « Salmonellose » (lue le 2026-11-08) ; texte de steps[8]"
+   },
+   {
+    "champ": "steps[3].text",
+    "actuel": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux",
+    "propose": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse,",
+    "pourquoi": "L'étape imposait le diffuseur dans tous les cas, alors que la liste du matériel et l'astuce de la recette le réservent aux feux autres que le gaz. Taste of Maroc : « over any heat source other than gas, be sure to use a diffuser. If cooking over gas without a diffuser, be sure the flames don't touch the bottom of the tagine. »",
+    "sources": "Taste of Maroc, « Classic Moroccan Meatball Tagine with Tomato Sauce » (copie web.archive.org du 16 juil. 2026) ; equipment[1] et astuce « Tajine en terre » de la recette"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "tajine-agneau-pruneaux": {
+  "corrections": [
+   {
+    "champ": "mistakes[0]",
+    "actuel": "Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+    "propose": "Les cuire avec la viande n'est pas une faute pour autant : My Moroccan Food précise qu'il n'y a rien de mal à le faire, et la recette « Tajine d'agneau aux pruneaux » de Bladi.net les ajoute à la viande.",
+    "pourquoi": "La phrase semblait dire que My Moroccan Food déconseille et approuve à la fois. Elle écrit en fait : « some of the recipes don't advise to cook the prunes separately; there is nothing wrong with it », puis explique pourquoi elle préfère les cuire à part (caramélisation, plat qui ne brunit pas). Bladi.net : « Rincez alors les pruneaux et incorporez-les à la viande ». Grantourismo est retiré de cette phrase : son robots.txt interdit anthropic-ai et Claude-Web (« Disallow: / »), la page n'a donc pas été relue.",
+    "sources": "My Moroccan Food, « Lamb Tagine with Prunes » (lu le 2026-11-08) ; Bladi.net, « Tajine d'agneau aux pruneaux » (lu le 2026-11-08) ; https://grantourismotravels.com/robots.txt (lu le 2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "tajine-poisson": {
+  "corrections": [
+   {
+    "champ": "secrets[6].text",
+    "actuel": "Le congre est gras mais a peu d'arêtes,",
+    "propose": "Le congre peut être gras, mais il a relativement peu d'arêtes à gérer à table,",
+    "pourquoi": "Confirmé, à une nuance près : Taste of Maroc écrit « conger eel. The latter can be fatty but offers the advantage of having relatively few bones to contend with at the table ». La phrase est alignée sur cette formulation (« peut être gras », « relativement peu d'arêtes »). Aucune seconde source lue ne parle des arêtes du congre (Wikipédia FR, « Congre », n'en dit rien) : l'affirmation repose sur Taste of Maroc seul.",
+    "sources": "Taste of Maroc, Christine Benlafquih, « Classic Moroccan Fish Tagine with Chermoula and Vegetables » (copie web.archive.org du 15 mai 2026, sources[0] de la recette)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "tajine-poulet-citron-olives": {
+  "corrections": [
+   {
+    "champ": "steps[2].text",
+    "actuel": "Coupe le poulet en 4 à 6 morceaux.",
+    "propose": "Coupe la volaille en morceaux, 4 à 6 par poulet.",
+    "pourquoi": "La recette compte 1 poulet pour 4 personnes ; en recalculant les parts, il peut y en avoir plusieurs (ou une partie d'un seul). « 4 à 6 par poulet » reste juste pour tout nombre de parts, comme la note de l'ingrédient (« environ 1,5 kg pièce, à couper en 4 à 6 morceaux »).",
+    "sources": "Texte et quantités actuels de la recette (servings 4, poulet q = 1)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "khobz": {
+  "corrections": [
+   {
+    "champ": "steps[6].timer.done",
+    "actuel": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
+    "propose": "Appuie légèrement du bout du doigt : si le creux remonte lentement, c'est prêt. S'il remonte tout de suite, attends encore un peu ; s'il ne remonte pas du tout, la pâte a trop levé.",
+    "pourquoi": "Taste of Maroc (source de la recette) dit seulement « until the dough springs back when pressed lightly », sans parler de vitesse. Les références de boulangerie précisent : King Arthur Baking, « If it pops back out, give it a bit more time » ; The Perfect Loaf, « If the dough springs back quickly, it's underproofed. If it springs back very slowly, it's properly proofed and ready to bake. Finally, if it never springs back, the dough is overproofed ». Le message actuel disait l'inverse pour une pâte qui remonte vite, et « attends » pour une pâte qui ne remonte plus.",
+    "sources": "Taste of Maroc, « Moroccan Khobz Recipe » (copie web.archive.org du 16 juil. 2026) ; King Arthur Baking, « How to tell if bread dough has risen enough » (22 août 2022) ; The Perfect Loaf, « How to use the dough poke test » (lus le 2026-11-08)"
+   },
+   {
+    "champ": "steps[3].text",
+    "actuel": "(il faut au moins 55 cm de long)",
+    "propose": "(il faut au moins 60 cm de long)",
+    "pourquoi": "Deux disques de 30 cm côte à côte font 60 cm (calcul) ; 55 cm ne suffisait que pour des disques de 27 cm.",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": [
+   {
+    "name": "King Arthur Baking, « How to tell if bread dough has risen enough » (22 août 2022)",
+    "url": "https://www.kingarthurbaking.com/blog/2022/08/22/how-to-tell-if-bread-dough-has-risen-enough",
+    "ce_qu_elle_confirme": "Test du doigt : si le creux remonte tout de suite, la pâte doit lever encore."
+   },
+   {
+    "name": "The Perfect Loaf, « How to use the dough poke test »",
+    "url": "https://www.theperfectloaf.com/how-to-use-the-dough-poke-test/",
+    "ce_qu_elle_confirme": "Creux qui remonte vite : pas assez levé ; lentement : prêt ; pas du tout : trop levé."
+   }
+  ]
+ },
+ "harira": {
+  "corrections": [
+   {
+    "champ": "ingredients[0].items[4].note",
+    "actuel": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
+    "propose": "ou, à la place de chaque branche, une petite botte de céleri chinois (à feuilles fines, il ressemble à une botte de persil) : c'est celui qu'on utilise au Maroc",
+    "pourquoi": "La note semblait contredire la quantité (« 1 branche » / « une petite botte »). Taste of Maroc donne les deux comme équivalents : « 1 rib celery with leaves, chopped - (or 1 small bunch Chinese celery, chopped) », et précise « In Morocco, Chinese celery is used to make harira. Chinese celery looks more like a bunch of parsley ». « À la place de chaque branche » garde l'équivalence quand les parts sont recalculées (la note n'est pas recalculée par l'appli).",
+    "sources": "Taste of Maroc, Christine Benlafquih, « Harira Recipe » (copie web.archive.org du 29 oct. 2026, sources[0] de la recette)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "zaalouk": {
+  "corrections": [
+   {
+    "champ": "variants[3]",
+    "actuel": "1 c. à thé de concentré de tomate",
+    "propose": "1 c. à c. de concentré de tomate",
+    "pourquoi": "Unité de l'appli : les ingrédients écrivent toujours « c. à c. » (154 fois) et « c. à s. », jamais « c. à thé ». « Cuillère à thé » (mot de Choumicha) et « cuillère à café » désignent la même mesure : sens inchangé.",
+    "sources": "Unités des ingrédients de toutes les recettes (comptage du 2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "kefta-poele": {
+  "corrections": [
+   {
+    "champ": "variants[5]",
+    "actuel": "ras-el-hanout",
+    "propose": "ras el hanout",
+    "pourquoi": "Forme de l'appli : « ras el hanout » (40 occurrences dans les fichiers recettes), contre 9 « ras-el-hanout ». Seul le texte affiché de la variante est corrigé ; sources[17].used_for (note de contre-vérification) garde aussi la forme à tiret.",
+    "sources": "Comptage des graphies dans recettes/*.js (2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "dchicha": {
+  "corrections": [
+   {
+    "champ": "secrets[1].text",
+    "actuel": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
+    "propose": "La grosse dchicha garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau. Taste of Maroc réserve le nom « dchicha » à la grosse orge concassée ; Lalla Moulati l'emploie pour l'orge concassée en général, comme cette recette.",
+    "pourquoi": "La recette emploie « dchicha » au sens large (ingrédient « dchicha d'orge (orge concassée) », « grosse dchicha », « la moyenne »), mais secrets[1] le réservait à la grosse. Les deux usages existent : Taste of Maroc écrit « large barley grits (referred to as dchicha) » ; Lalla Moulati écrit « زلافة الدشيشة مغسولة ومصفية » (un bol de dchicha lavée), sans calibre. Le sens large est gardé partout et le sens étroit est attribué à Taste of Maroc.",
+    "sources": "Taste of Maroc, « Moroccan Cracked Barley Soup with Tomatoes – Hssoua Belboula Hamra » (copie web.archive.org du 24 janv. 2026) ; Lalla Moulati, « شوربة الدشيشة الساخنة بالاعشاب المنسمة » (https://www.lalamoulati.net/34466.html, lu le 2026-11-08)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "double-cheeseburger-smash": {
+  "corrections": [
+   {
+    "champ": "steps[13].text[4]",
+    "actuel": "À cette épaisseur, le steak est cuit à cœur.",
+    "propose": "Vérifie que le steak est cuit à cœur : coupé au centre, il ne doit plus être rosé et de la vapeur doit s'en échapper ; avec un thermomètre, il faut 70 °C à cœur pendant 2 minutes ou 75 °C pendant 30 secondes. Sinon, prolonge la cuisson.",
+    "pourquoi": "L'affirmation n'était pas contrôlée. La FSA dit que la viande hachée et les burgers doivent être cuits à cœur, contrôlés au thermomètre (70 °C pendant 2 min, ou 75 °C pendant 30 s) ou, sans thermomètre, à la vapeur au centre et au brunissement, et que « Burgers shouldn't be served rare or pink at home ». L'Anses recommande une viande hachée « bien cuite à cœur » pour les jeunes enfants, les femmes enceintes et les personnes immunodéprimées.",
+    "sources": "FSA, « Cooking your food » (GOV.UK, lu le 2026-11-08) ; Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (lu le 2026-11-08)"
+   },
+   {
+    "champ": "steps[13].timer.done",
+    "actuel": "Le fromage a fondu ? Sors les steaks.",
+    "propose": "Le fromage a fondu et le steak est cuit à cœur ? Sors les steaks.",
+    "pourquoi": "Le minuteur doit suivre le contrôle de cuisson ajouté au texte de l'étape.",
+    "sources": "Mêmes sources (FSA, Anses)"
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": [
+   {
+    "name": "FSA (Food Standards Agency), « Cooking your food »",
+    "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+    "ce_qu_elle_confirme": "Viande hachée et burgers cuits à cœur : 70 °C pendant 2 min ou 75 °C pendant 30 s, sinon vapeur au centre et brunissement ; pas de burger saignant ou rosé à la maison."
+   },
+   {
+    "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples »",
+    "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+    "ce_qu_elle_confirme": "Viande hachée bien cuite à cœur recommandée aux jeunes enfants, aux femmes enceintes et aux personnes immunodéprimées."
+   }
+  ]
+ },
+ "tortilla-espagnole": {
+  "corrections": [
+   {
+    "champ": "ingredients[0].items[0].note",
+    "actuel": "environ 700 g en tout",
+    "propose": "environ 175 g pièce",
+    "pourquoi": "Le poids total ne suivait pas le nombre de personnes ; 700 g pour 4 pommes de terre = 175 g pièce (calcul).",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "maakouda": {
+  "corrections": [
+   {
+    "champ": "serving",
+    "actuel": "jusqu'à ce qu'ils soient brûlants au centre",
+    "propose": "jusqu'à ce qu'elles soient brûlantes au centre",
+    "pourquoi": "Accord avec « les maakouda » (féminin).",
+    "sources": []
+   },
+   {
+    "champ": "steps[3].text",
+    "actuel": "Remets-les dans un saladier",
+    "propose": "Mets-les dans un saladier",
+    "pourquoi": "Les pommes de terre n'ont pas encore été dans un saladier.",
+    "sources": []
+   },
+   {
+    "champ": "secrets[11].text",
+    "actuel": "on la sert avec une sauce piquante : harissa, sauce tomate citronnée ou ketchup.",
+    "propose": "on la sert avec une sauce : harissa, sauce tomate citronnée ou ketchup.",
+    "pourquoi": "Le ketchup n'est pas une sauce piquante.",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "houmous": {
+  "corrections": [
+   {
+    "champ": "variants[0]",
+    "actuel": "4 c. à s. de tahina délayée",
+    "propose": "4 c. à s. de tahini délayé",
+    "pourquoi": "Même produit, même orthographe que dans le reste de la recette (tahini).",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ }
+}

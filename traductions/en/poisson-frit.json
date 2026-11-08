@@ -180,7 +180,7 @@
   },
   "equipment.4": {
    "fr": "Assiette creuse pour la farine",
-   "t": "Deep plate for the flour"
+   "t": "Shallow dish for the flour"
   },
   "equipment.5": {
    "fr": "Friteuse électrique à thermostat, ou grande poêle profonde à bords hauts",
@@ -296,7 +296,7 @@
   },
   "steps.7.timer.done": {
    "fr": "La marinade est prête. Passe à la friture.",
-   "t": "The marinating is done. Move on to the frying."
+   "t": "Marinating time is up. Move on to the frying."
   },
   "steps.8.title": {
    "fr": "Prépare la poêle",
@@ -324,7 +324,7 @@
   },
   "steps.10.text": {
    "fr": "Sors le poisson de la marinade et laisse-le égoutter. Juste avant de le frire, passe chaque morceau dans la {{farine}}, des deux côtés. Tu peux mélanger un peu de {{semoule}} à la farine.",
-   "t": "Take the fish out of the marinade and let it drain. Just before frying, dip each piece in the {{farine}} on both sides. You can mix a little {{semoule}} into the flour."
+   "t": "Take the fish out of the marinade and let it drain. Just before frying, coat both sides of each piece in the {{farine}}. You can mix a little {{semoule}} into the flour."
   },
   "steps.11.title": {
    "fr": "Fais frire la première face",
@@ -392,7 +392,7 @@
   },
   "steps.14.tip": {
    "fr": "Ne laisse pas le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
-   "t": "Do not leave the fried fish out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C."
+   "t": "Do not leave the fried fish out of the fridge for more than 2 hours, or more than 1 hour if the temperature is above 32 °C."
   },
   "secrets.0.text": {
    "fr": "Choisis des sardines de moins de 15 cm : plus la sardine est petite, plus sa chair est délicieuse. Elles doivent être brillantes, fermes, garder leurs écailles, avec des branchies rouge carmin et humides.",
@@ -544,7 +544,7 @@
   },
   "mistakes.9": {
    "fr": "Laisser le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
-   "t": "Leaving the fried fish out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C (FDA)."
+   "t": "Leaving the fried fish out of the fridge for more than 2 hours, or more than 1 hour if the temperature is above 32 °C (FDA)."
   },
   "variants.0": {
    "fr": "Seulement des sardines farcies : c'est le grand classique de la rue (Taste of Maroc ; Bladi, « Sardines farcies »).",

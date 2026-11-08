@@ -128,7 +128,7 @@
   },
   "ing.piment-sauce.note": {
    "fr": "ou 2 petits piments forts entiers",
-   "t": "أو 2 حبة فلفل حار صغيرة، كاملة"
+   "t": "أو حبتان صغيرتان كاملتان من الفلفل الحار"
   },
   "ing.persil-sauce.name": {
    "fr": "de persil plat haché",
@@ -212,7 +212,7 @@
   },
   "steps.0.text": {
    "fr": "Dans un saladier, mets {{viande:full}}, {{oignon-kefta:full}}, {{persil-kefta:full}} et {{coriandre-kefta:full}}. Ajoute {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} et {{piment-kefta:full}}. Pétris à la main 1 à 2 minutes, juste assez pour bien répartir les épices, sans tasser. N'ajoute ni œuf ni chapelure.",
-   "t": "في وعاء سلطة، ضع {{viande}} من اللحم المفروم الحلال (بقر أو خروف أو خليط منهما)، و{{oignon-kefta:full}}، و{{persil-kefta}} من البقدونس المفروم، و{{coriandre-kefta}} من الكزبرة الطازجة المفرومة. أضف {{paprika-kefta}} من الفلفل الأحمر الحلو، و{{cumin-kefta}} من الكمون المطحون، و{{sel-kefta}} من الملح الناعم، و{{poivre-kefta}} من الفلفل الأسود المطحون، و{{piment-kefta}} من فلفل الكايين. اعجن باليد من 1 إلى 2 دقيقة، فقط بما يكفي لتوزيع التوابل جيدًا، دون ضغط. لا تضف بيضًا ولا فتات خبز."
+   "t": "في وعاء سلطة، ضع {{viande}} من اللحم المفروم الحلال (بقر أو خروف أو خليط منهما)، و{{oignon-kefta:full}}، و{{persil-kefta}} من البقدونس المفروم، و{{coriandre-kefta}} من الكزبرة الطازجة المفرومة. أضف {{paprika-kefta}} من الفلفل الأحمر الحلو، و{{cumin-kefta}} من الكمون المطحون، و{{sel-kefta}} من الملح الناعم، و{{poivre-kefta}} من الفلفل الأسود المطحون، و{{piment-kefta}} من فلفل الكايين. اعجن باليد من دقيقة إلى دقيقتين، فقط بما يكفي لتوزيع التوابل جيدًا، دون ضغط. لا تضف بيضًا ولا فتات خبز."
   },
   "steps.1.title": {
    "fr": "Roule de petites boulettes",
@@ -243,8 +243,8 @@
    "t": "شوّح البصل والثوم"
   },
   "steps.3.text": {
-   "fr": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
-   "t": "ضع الطاجين على موزّع الحرارة (أو استعمل مقلاة عميقة) على نار متوسطة إلى هادئة، وسخّن فيه {{huile}} من زيت الزيتون. أضف {{oignon-sauce:full}} واتركها تذبل بضع دقائق مع التحريك. أضف {{ail:full}} وحرّك من 1 إلى 2 دقيقة حتى تفوح رائحة الثوم، دون أن يحترق."
+   "fr": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "t": "ضع الطاجين على نار متوسطة إلى هادئة (على موزّع الحرارة إن لم تكن تطبخ على الغاز؛ وعلى الغاز دون موزّع، يجب ألّا يلمس اللهب قاعه)، أو استعمل مقلاة عميقة، وسخّن فيه {{huile}} من زيت الزيتون. أضف {{oignon-sauce:full}} واتركها تذبل بضع دقائق مع التحريك. أضف {{ail:full}} وحرّك من دقيقة إلى دقيقتين حتى تفوح رائحة الثوم، دون أن يحترق."
   },
   "steps.4.title": {
    "fr": "Fais mijoter la sauce",
@@ -307,8 +307,8 @@
    "t": "البيض"
   },
   "steps.8.timer.done": {
-   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
-   "t": "البياض متماسك والصفار ما يزال سائلًا: أطفئ النار فورًا."
+   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, prolonge de quelques minutes, jusqu'à ce que le jaune soit pris.",
+   "t": "البياض متماسك والصفار ما يزال سائلًا: أطفئ النار فورًا. ولامرأة حامل أو طفل صغير أو شخص مسنّ أو ضعيف الصحة، أطِل الطهي بضع دقائق حتى يتماسك الصفار."
   },
   "steps.9.title": {
    "fr": "Sers dans le tajine",

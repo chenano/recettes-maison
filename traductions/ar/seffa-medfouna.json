@@ -1,0 +1,594 @@
+{
+ "_slug": "seffa-medfouna",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Seffa medfouna au poulet et aux cheveux d'ange",
+   "t": "السفة المدفونة بالدجاج وشعرية الشعر الرقيقة"
+  },
+  "darija": {
+   "fr": "Seffa medfouna",
+   "t": "سفة مدفونة"
+  },
+  "tagline": {
+   "fr": "Un dôme de cheveux d'ange cuits à la vapeur et beurrés cache un poulet fondant dans sa sauce aux oignons ; dessus, de la cannelle, du sucre glace et des amandes frites.",
+   "t": "قبة من شعرية الشعر المطهوة على البخار والممزوجة بالزبدة تخفي دجاجًا طريًا في صلصته بالبصل؛ وفوقها قرفة وسكر ناعم ولوز مقلي."
+  },
+  "region": {
+   "fr": "Maroc",
+   "t": "المغرب"
+  },
+  "occasion": {
+   "fr": "Fêtes, réceptions et grandes occasions ; aussi un repas de famille",
+   "t": "الأعياد والولائم والمناسبات الكبرى؛ وأيضًا وجبة عائلية"
+  },
+  "img_alt": {
+   "fr": "Seffa de vermicelles en dôme, décorée de lignes de cannelle et de sucre glace, dans un plat bleu, au Maroc",
+   "t": "سفة بالشعرية على شكل قبة، مزيّنة بخطوط من القرفة والسكر الناعم، في طبق أزرق، في المغرب"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, dès qu'elle est montée, au centre de la table : selon la tradition, chacun mange de son côté du plat (Taste of Maroc). Mets à côté de petits bols de sucre glace, de cannelle et d'amandes, pour ceux qui en veulent plus (Taste of Maroc). Choumicha l'accompagne de lait parfumé à l'eau de fleur d'oranger. Restes : au réfrigérateur dans les 2 heures, à manger dans les 48 heures, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses : dans les 3 jours).",
+   "t": "قدّمها ساخنة جدًا فور تشكيلها، في وسط المائدة: فحسب التقاليد، يأكل كل واحد من جهته من الطبق (Taste of Maroc). ضع بجانبها أوعية صغيرة فيها السكر الناعم والقرفة واللوز، لمن يريد المزيد (Taste of Maroc). وتقدّمها Choumicha مع حليب معطّر بماء الزهر. البقايا: تُحفظ في الثلاجة خلال ساعتين، وتؤكل خلال 48 ساعة، وتُسخَّن مرة واحدة فقط حتى تصبح شديدة السخونة (FSA؛ Anses: خلال 3 أيام)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet en sauce aux oignons",
+   "t": "الدجاج بصلصة البصل"
+  },
+  "ing.poulet.name": {
+   "fr": "de poulet halal, coupé en morceaux",
+   "t": "دجاج حلال، مقطّع إلى قطع"
+  },
+  "ing.poulet.note": {
+   "fr": "un poulet entier ; Choumicha prend un poulet de 1,5 kg pour 6",
+   "t": "دجاجة كاملة؛ وتستعمل Choumicha دجاجة وزنها 1,5 كغ لـ6 أشخاص"
+  },
+  "ing.oignons.name": {
+   "fr": "d'oignons",
+   "t": "بصل"
+  },
+  "ing.oignons.note": {
+   "fr": "émincés finement",
+   "t": "مقطّع إلى شرائح رقيقة"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "râpées ou écrasées",
+   "t": "مبشور أو مهروس"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "سمن بلدي"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "يُعدَّل في النهاية"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "شعيرات زعفران"
+  },
+  "ing.safran.note": {
+   "fr": "Choumicha en compte 8",
+   "t": "تستعمل منها Choumicha 8 شعيرات"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "عود قرفة"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "أعواد قرفة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة طازجة مفرومة"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.eau.note": {
+   "fr": "et un peu d'eau chaude en plus si ça attache",
+   "t": "وقليل من الماء الساخن الإضافي إذا بدأ الطعام يلتصق بالقاع"
+  },
+  "ing.1.group": {
+   "fr": "Vermicelles à la vapeur",
+   "t": "الشعرية المطهوة على البخار"
+  },
+  "ing.vermicelles.name": {
+   "fr": "de vermicelles très fins « cheveux d'ange » (chaariya)",
+   "t": "شعرية الشعر الرقيقة جدًا"
+  },
+  "ing.vermicelles.note": {
+   "fr": "en petits morceaux ; s'ils sont longs, casse-les",
+   "t": "بقطع صغيرة؛ وإذا كانت طويلة، فكسّرها"
+  },
+  "ing.huile-vermicelles.name": {
+   "fr": "d'huile neutre (tournesol), et un peu plus pour huiler le panier",
+   "t": "زيت المائدة (دوار الشمس)، وقليل إضافي لدهن سلة البخار"
+  },
+  "ing.eau-vermicelles.name": {
+   "fr": "d'eau, pour arroser les vermicelles",
+   "t": "ماء، لرشّ الشعرية"
+  },
+  "ing.sel-vermicelles.name": {
+   "fr": "de sel fin, pour l'eau d'arrosage",
+   "t": "ملح ناعم، لماء الرشّ"
+  },
+  "ing.eau-couscoussier.name": {
+   "fr": "eau",
+   "t": "ماء"
+  },
+  "ing.eau-couscoussier.note": {
+   "fr": "pour remplir le bas du couscoussier à moitié environ",
+   "t": "لملء الجزء السفلي من الكسكاس إلى النصف تقريبًا"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "un peu ramolli",
+   "t": "طرية قليلًا"
+  },
+  "ing.2.group": {
+   "fr": "Décor",
+   "t": "التزيين"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (sans peau)",
+   "t": "لوز مقشّر (منزوع الجلدة)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "un fond d'huile neutre",
+   "t": "طبقة رقيقة من زيت المائدة"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "لقلي اللوز"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "سكر ناعم (سكر الحلويات)"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "equipment.0": {
+   "fr": "Couscoussier (marmite et panier vapeur), ou grande marmite surmontée d'un panier vapeur",
+   "t": "الكسكاس (القدر وسلة البخار)، أو قدر كبيرة تعلوها سلة بخار"
+  },
+  "equipment.1": {
+   "fr": "Grande marmite à fond épais avec couvercle, pour le poulet",
+   "t": "قدر كبيرة بقاع سميك وغطاء، للدجاج"
+  },
+  "equipment.2": {
+   "fr": "Très grand plat creux ou bassine, pour défaire et arroser les vermicelles",
+   "t": "طبق عميق كبير جدًا أو طست، لفكّ الشعرية ورشّها بالماء"
+  },
+  "equipment.3": {
+   "fr": "Deux fourchettes",
+   "t": "شوكتان"
+  },
+  "equipment.4": {
+   "fr": "Petite poêle, écumoire et papier absorbant, pour les amandes",
+   "t": "مقلاة صغيرة ومغرفة مثقوبة وورق ماص، للوز"
+  },
+  "equipment.5": {
+   "fr": "Mortier et pilon, ou mixeur, pour concasser les amandes",
+   "t": "هاون ومدقة، أو خلاط، لجرش اللوز"
+  },
+  "equipment.6": {
+   "fr": "Grand plat de service rond",
+   "t": "طبق تقديم كبير مستدير"
+  },
+  "equipment.7": {
+   "fr": "Passoire fine, pour le sucre glace",
+   "t": "مصفاة دقيقة، للسكر الناعم"
+  },
+  "equipment.8": {
+   "fr": "Thermomètre de cuisine (facultatif)",
+   "t": "ميزان حرارة للمطبخ (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Prépare les oignons, l'ail et les herbes",
+   "t": "حضّر البصل والثوم والأعشاب"
+  },
+  "steps.0.text": {
+   "fr": "Émince finement {{oignons}} d'oignons. Râpe ou écrase {{ail:full}}. Hache {{persil}} de persil et {{coriandre}} de coriandre, mélange-les, puis partage-les en deux tas. Si le boucher ne l'a pas fait, coupe {{poulet}} de poulet en morceaux.",
+   "t": "قطّع {{oignons}} من البصل إلى شرائح رقيقة. ابشر أو اهرس {{ail:full}}. افرم {{persil}} من البقدونس و{{coriandre}} من الكزبرة، واخلطهما، ثم قسّمهما إلى كومتين. وإن لم يفعل الجزار ذلك، فقطّع {{poulet}} من الدجاج إلى قطع."
+  },
+  "steps.0.tip": {
+   "fr": "Après avoir touché le poulet cru, lave-toi les mains et nettoie la planche et le couteau avant de t'en servir pour autre chose (Anses).",
+   "t": "بعد لمس الدجاج النيء، اغسل يديك ونظّف لوح التقطيع والسكين قبل استعمالهما لأي شيء آخر (Anses)."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir le poulet aux épices",
+   "t": "شوّح الدجاج مع التوابل"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande marmite à fond épais, mets le poulet, les oignons, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran émietté et {{cannelle-baton:full}}. Fais revenir 10 min à feu moyen-doux, en remuant souvent pour que rien n'attache.",
+   "t": "في قدر كبيرة بقاع سميك، ضع الدجاج والبصل والثوم و{{huile}} من زيت الزيتون. أضف {{gingembre}} من الزنجبيل و{{curcuma}} من الكركم و{{poivre}} من الفلفل الأسود و{{sel}} من الملح و{{safran}} من الزعفران المفتّت و{{cannelle-baton:full}}. شوّح الخليط 10 دقائق على نار متوسطة إلى هادئة، مع التحريك كثيرًا حتى لا يلتصق شيء بالقاع."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poulet aux épices",
+   "t": "الدجاج بالتوابل"
+  },
+  "steps.1.timer.done": {
+   "fr": "Ajoute le smen, la moitié des herbes et l'eau.",
+   "t": "أضف السمن البلدي ونصف الأعشاب والماء."
+  },
+  "steps.2.title": {
+   "fr": "Laisse mijoter à couvert",
+   "t": "غطِّ القدر واترك الدجاج ينضج ببطء"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{smen}} de smen, la moitié des herbes et {{eau}} d'eau. Couvre et laisse mijoter 45 min à feu moyen-doux, en remuant de temps en temps. Le poulet cuit surtout dans son propre jus. Si ça attache, ajoute juste un peu d'eau chaude.",
+   "t": "أضف {{smen}} من السمن البلدي ونصف الأعشاب و{{eau}} من الماء. غطِّ القدر واترك الدجاج ينضج ببطء 45 دقيقة على نار متوسطة إلى هادئة، مع التحريك من حين لآخر. فالدجاج ينضج أساسًا في عصارته. وإذا التصق الطعام بالقاع، فأضف قليلًا من الماء الساخن فقط."
+  },
+  "steps.2.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "طهي الدجاج ببطء"
+  },
+  "steps.2.timer.done": {
+   "fr": "Vérifie que le poulet est bien cuit.",
+   "t": "تحقّق من أن الدجاج نضج جيدًا."
+  },
+  "steps.3.title": {
+   "fr": "Pendant ce temps, fais frire les amandes",
+   "t": "في هذه الأثناء، اقلِ اللوز"
+  },
+  "steps.3.text": {
+   "fr": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant. Quand elles ont refroidi, concasse-les grossièrement au mortier ou au mixeur, par petits coups.",
+   "t": "في مقلاة صغيرة، سخّن {{huile-friture}} على نار متوسطة. اقلِ فيها {{amandes}} من اللوز المقشّر مع التحريك دون توقف، حتى يصبح ذهبي اللون. صفّه على ورق ماص. وعندما يبرد، اجرشه جرشًا خشنًا في الهاون أو بالخلاط، بضغطات قصيرة."
+  },
+  "steps.4.title": {
+   "fr": "Vérifie que le poulet est bien cuit",
+   "t": "تحقّق من نضج الدجاج جيدًا"
+  },
+  "steps.4.text": {
+   "fr": "Coupe le plus gros morceau, près de l'os. La chair doit être blanche jusqu'au centre, sans trace rose, et le jus doit être clair. La viande doit se détacher facilement de l'os. Avec un thermomètre de cuisine piqué au cœur de la partie la plus épaisse, la chair doit atteindre 75 °C pendant 30 secondes, ou 70 °C pendant 2 minutes. Sinon, couvre et laisse cuire encore un peu, puis vérifie de nouveau.",
+   "t": "اقطع أكبر قطعة قرب العظم. يجب أن يكون اللحم أبيض حتى وسطه، دون أي أثر وردي، وأن تكون العصارة صافية. ويجب أن ينفصل اللحم عن العظم بسهولة. وبميزان حرارة للمطبخ مغروز في قلب الجزء الأسمك، يجب أن تبلغ حرارة اللحم 75 درجة مئوية لمدة 30 ثانية، أو 70 درجة مئوية لمدة دقيقتين. وإلا، فغطِّ القدر واتركه ينضج مدة قصيرة أخرى، ثم تحقّق من جديد."
+  },
+  "steps.4.tip": {
+   "fr": "La partie la plus épaisse du poulet est la cuisse : vérifie à la jointure entre le pilon et le haut de cuisse, qui ne doit pas être rosée (FSA ; Anses).",
+   "t": "أسمك جزء في الدجاج هو الفخذ: تحقّق عند المفصل بين الساق وأعلى الفخذ، ويجب ألا يكون ورديًا (FSA؛ Anses)."
+  },
+  "steps.5.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "كثّف صلصة البصل"
+  },
+  "steps.5.text": {
+   "fr": "Sors les morceaux de poulet et pose-les dans un plat. Ajoute le reste des herbes dans la marmite. Laisse cuire la sauce à découvert, à feu moyen, en remuant souvent, jusqu'à ce que les oignons soient fondus comme une compote et que la sauce soit épaisse. Retire les bâtons de cannelle. Goûte et rectifie le sel.",
+   "t": "أخرج قطع الدجاج وضعها في طبق. أضف باقي الأعشاب إلى القدر. اترك الصلصة تُطهى دون غطاء على نار متوسطة، مع التحريك كثيرًا، حتى يذوب البصل ويصير كالمربّى وتتكثف الصلصة. أخرج أعواد القرفة. تذوّق وعدّل الملح."
+  },
+  "steps.6.title": {
+   "fr": "Désosse le poulet",
+   "t": "انزع عظام الدجاج"
+  },
+  "steps.6.text": {
+   "fr": "Dès que le poulet est assez tiède pour être touché, retire la peau et les os. Coupe ou effiloche la chair en morceaux. Remets-la dans la sauce, mélange, couvre et garde la marmite de côté.",
+   "t": "ما إن يفتر الدجاج بما يكفي للمسه، انزع الجلد والعظام. قطّع اللحم أو فتّته إلى قطع. أعده إلى الصلصة، واخلط، ثم غطِّ القدر وضعها جانبًا."
+  },
+  "steps.6.tip": {
+   "fr": "Ne laisse pas le poulet cuit plus de 2 heures à température ambiante : tu le réchaufferas juste avant de servir (Anses ; FSA).",
+   "t": "لا تترك الدجاج المطهو أكثر من ساعتين في حرارة الغرفة: ستعيد تسخينه قبيل التقديم (Anses؛ FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Huile les vermicelles et fais une première vapeur",
+   "t": "ادهن الشعرية بالزيت وبخّرها للمرة الأولى"
+  },
+  "steps.7.text": {
+   "fr": "Remplis à moitié le bas du couscoussier d'{{eau-couscoussier}} et porte à ébullition. Huile légèrement le haut du couscoussier. Dans un très grand plat, mélange {{vermicelles}} de vermicelles avec {{huile-vermicelles}} d'huile, à la main, jusqu'à ce que tous les brins soient enrobés. Mets-les dans le haut du couscoussier et pose-le sur la marmite. Dès que la vapeur traverse les vermicelles, compte 20 min.",
+   "t": "املأ الجزء السفلي من الكسكاس إلى نصفه بالماء وسخّنه حتى الغليان. ادهن الجزء العلوي من الكسكاس بقليل من الزيت. في طبق كبير جدًا، اخلط {{vermicelles}} من الشعرية مع {{huile-vermicelles}} من الزيت، بيدك، حتى تتغلّف كل الخيوط بالزيت. ضعها في الجزء العلوي من الكسكاس، ثم ضعه فوق القدر. وما إن يخترق البخار الشعرية، احسب 20 دقيقة."
+  },
+  "steps.7.tip": {
+   "fr": "Manipule les vermicelles délicatement et ne les tasse pas dans le couscoussier (Taste of Maroc).",
+   "t": "تعامل مع الشعرية برفق ولا تضغطها في الكسكاس (Taste of Maroc)."
+  },
+  "steps.7.timer.label": {
+   "fr": "1re vapeur",
+   "t": "التبخير رقم 1"
+  },
+  "steps.7.timer.done": {
+   "fr": "Verse les vermicelles dans le grand plat.",
+   "t": "أفرغ الشعرية في الطبق الكبير."
+  },
+  "steps.7.img.alt": {
+   "fr": "Le haut d'un couscoussier posé sur la marmite, ici rempli de graine de couscous",
+   "t": "الجزء العلوي من كسكاس موضوع فوق القدر، مملوء هنا بحبات الكسكس"
+  },
+  "steps.7.img.caption": {
+   "fr": "La cuisson à la vapeur du couscoussier",
+   "t": "الطهي على البخار في الكسكاس"
+  },
+  "steps.8.title": {
+   "fr": "Arrose les vermicelles et fais une deuxième vapeur",
+   "t": "رشّ الشعرية بالماء وبخّرها للمرة الثانية"
+  },
+  "steps.8.text": {
+   "fr": "Fais fondre {{sel-vermicelles}} de sel dans {{eau-vermicelles}} d'eau. Verse les vermicelles dans le grand plat et défais les paquets avec deux fourchettes, puis à la main quand ils ont un peu tiédi. Arrose-les de la moitié de l'eau salée et mélange jusqu'à ce qu'elle soit absorbée. Remets-les dans le haut du couscoussier et compte 20 min dès que la vapeur les traverse. Vérifie qu'il reste assez d'eau dans le bas.",
+   "t": "أذب {{sel-vermicelles}} من الملح في {{eau-vermicelles}} من الماء. أفرغ الشعرية في الطبق الكبير وفكّ تكتّلاتها بشوكتين، ثم بيدك عندما تفتر قليلًا. رشّها بنصف الماء المملّح واخلط حتى يُمتصّ. أعدها إلى الجزء العلوي من الكسكاس واحسب 20 دقيقة ما إن يخترقها البخار. وتأكّد من أنه بقي ما يكفي من الماء في الجزء السفلي."
+  },
+  "steps.8.timer.label": {
+   "fr": "2e vapeur",
+   "t": "التبخير رقم 2"
+  },
+  "steps.8.timer.done": {
+   "fr": "Verse les vermicelles dans le grand plat.",
+   "t": "أفرغ الشعرية في الطبق الكبير."
+  },
+  "steps.9.title": {
+   "fr": "Fais la dernière vapeur",
+   "t": "بخّر الشعرية للمرة الأخيرة"
+  },
+  "steps.9.text": {
+   "fr": "Défais de nouveau les vermicelles dans le plat et arrose-les du reste de l'eau salée. Remets-les dans le haut du couscoussier et compte 15 min dès que la vapeur les traverse. Goûte : les brins doivent être tendres, légers et bien séparés. S'ils sont encore un peu fermes, laisse-les encore 5 min. S'ils restent fermes, arrose-les d'un peu d'eau et fais une quatrième vapeur de 15 à 20 min, sans trop les cuire.",
+   "t": "فكّ الشعرية من جديد في الطبق ورشّها بباقي الماء المملّح. أعدها إلى الجزء العلوي من الكسكاس واحسب 15 دقيقة ما إن يخترقها البخار. تذوّق: يجب أن تكون الخيوط طرية وخفيفة ومنفصلة جيدًا. وإذا كانت لا تزال صلبة قليلًا، فاتركها 5 دقائق أخرى. وإذا بقيت صلبة، فرشّها بقليل من الماء وبخّرها مرة رابعة من 15 إلى 20 دقيقة، دون أن تُفرط في طهيها."
+  },
+  "steps.9.timer.label": {
+   "fr": "3e vapeur",
+   "t": "التبخير رقم 3"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte : tendres et légers ? Sinon, encore une vapeur.",
+   "t": "تذوّق: هل هي طرية وخفيفة؟ وإلا، فبخّرها مرة أخرى."
+  },
+  "steps.10.title": {
+   "fr": "Pendant ce temps, réchauffe le poulet",
+   "t": "في هذه الأثناء، سخّن الدجاج"
+  },
+  "steps.10.text": {
+   "fr": "Remets la marmite du poulet sur feu moyen-doux. Réchauffe en remuant doucement, jusqu'à ce que la sauce bouillonne et que le poulet soit brûlant.",
+   "t": "أعد قدر الدجاج إلى نار متوسطة إلى هادئة. سخّنه مع التحريك برفق، حتى تغلي الصلصة ويصبح الدجاج شديد السخونة."
+  },
+  "steps.11.title": {
+   "fr": "Beurre les vermicelles",
+   "t": "أضف الزبدة إلى الشعرية"
+  },
+  "steps.11.text": {
+   "fr": "Verse les vermicelles brûlants dans le grand plat. Ajoute {{beurre}} de beurre et mélange avec une fourchette pour bien les aérer.",
+   "t": "أفرغ الشعرية وهي شديدة السخونة في الطبق الكبير. أضف {{beurre}} من الزبدة واخلط بشوكة لتهويتها جيدًا."
+  },
+  "steps.12.title": {
+   "fr": "Cache le poulet sous les vermicelles",
+   "t": "اخفِ الدجاج تحت الشعرية"
+  },
+  "steps.12.text": {
+   "fr": "Étale la moitié des vermicelles dans le plat de service. Dispose le poulet au centre et nappe-le de sauce. Recouvre avec le reste des vermicelles et forme un dôme avec les mains : le poulet ne doit plus se voir.",
+   "t": "افرد نصف الشعرية في طبق التقديم. ضع الدجاج في الوسط واسكب عليه الصلصة. غطّه بباقي الشعرية وشكّل قبة بيديك: يجب ألا يبقى الدجاج ظاهرًا."
+  },
+  "steps.13.title": {
+   "fr": "Décore et sers aussitôt",
+   "t": "زيّن وقدّم فورًا"
+  },
+  "steps.13.text": {
+   "fr": "Trace des lignes sur le dôme avec {{cannelle-moulue}} de cannelle, du sommet vers le bas. Saupoudre {{sucre-glace}} de sucre glace à travers une passoire fine, entre les lignes. Parsème les amandes concassées, surtout au sommet. Sers tout de suite, bien chaud.",
+   "t": "ارسم على القبة خطوطًا من القمة إلى الأسفل مستعملًا {{cannelle-moulue}} من القرفة. انثر {{sucre-glace}} من السكر الناعم عبر مصفاة دقيقة بين الخطوط. وزّع اللوز المجروش، خاصة على القمة. قدّمها فورًا وهي ساخنة جدًا."
+  },
+  "secrets.0.text": {
+   "fr": "Cuis les vermicelles à la vapeur, jamais dans l'eau : les brins gonflent et restent légers et séparés, sans devenir collants ni lourds.",
+   "t": "اطهُ الشعرية على البخار، ولا تطهها في الماء أبدًا: فالخيوط تنتفخ وتبقى خفيفة ومنفصلة، دون أن تصبح لزجة أو ثقيلة."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (recette et guide de la vapeur) ; Choumicha (cheveux d'ange cuits trois fois à la vapeur)",
+   "t": "Taste of Maroc (الوصفة ودليل الطهي على البخار)؛ Choumicha (شعرية الشعر مطهوة على البخار ثلاث مرات)"
+  },
+  "secrets.1.text": {
+   "fr": "Avant la première vapeur, enrobe d'huile les vermicelles secs, avec les mains, jusqu'au dernier brin : ils ne collent pas entre eux.",
+   "t": "قبل التبخير الأول، غلّف الشعرية الجافة بالزيت بيديك، حتى آخر خيط: فلا تلتصق الخيوط ببعضها."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc؛ Choumicha؛ Cooking with Alia؛ Lalla Moulati"
+  },
+  "secrets.2.text": {
+   "fr": "Compte le temps de vapeur à partir du moment où la vapeur traverse les vermicelles, pas dès que tu poses le couscoussier.",
+   "t": "احسب مدة التبخير ابتداءً من اللحظة التي يخترق فيها البخار الشعرية، لا من لحظة وضع الكسكاس."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Morocco World News",
+   "t": "Taste of Maroc؛ Morocco World News"
+  },
+  "secrets.3.text": {
+   "fr": "À la fin de chaque vapeur, des brins se dressent à la surface des vermicelles : c'est le signe que tu peux passer à l'étape suivante.",
+   "t": "في نهاية كل تبخير، تنتصب بعض الخيوط على سطح الشعرية: وهذه علامة على أنك تستطيع الانتقال إلى المرحلة التالية."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (recette du 13 mai 2023)",
+   "t": "Taste of Maroc؛ Lalla Moulati (وصفة 13 ماي 2023)"
+  },
+  "secrets.4.text": {
+   "fr": "Entre deux vapeurs, défais bien les paquets, avec deux fourchettes puis à la main, et arrose d'eau salée : à chaque passage, les vermicelles gonflent et s'attendrissent.",
+   "t": "بين تبخير وآخر، فكّ التكتلات جيدًا، بشوكتين ثم بيدك، ورشّ الشعرية بالماء المملّح: ففي كل مرة تنتفخ الشعرية وتزداد طراوة."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha (deux fourchettes) ; Taste of Maroc ; Morocco World News ; Cooking with Alia ; Lalla Moulati",
+   "t": "Choumicha (شوكتان)؛ Taste of Maroc؛ Morocco World News؛ Cooking with Alia؛ Lalla Moulati"
+  },
+  "secrets.5.text": {
+   "fr": "Manipule les vermicelles délicatement et ne les tasse jamais dans le haut du couscoussier.",
+   "t": "تعامل مع الشعرية برفق ولا تضغطها أبدًا في الجزء العلوي من الكسكاس."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Le poulet cuit presque sans eau : il braise dans son propre jus.",
+   "t": "يُطهى الدجاج تقريبًا بلا ماء: فهو ينضج ببطء في عصارته."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (pas d'eau sauf si c'est nécessaire) ; Choumicha (10 cl d'eau pour un poulet de 1,5 kg)",
+   "t": "Taste of Maroc (لا ماء إلا عند الضرورة)؛ Choumicha (10 سنتيلترات من الماء لدجاجة وزنها 1,5 كغ)"
+  },
+  "secrets.7.text": {
+   "fr": "Sors le poulet avant de réduire la sauce : les oignons fondent en compote pendant que la viande attend à part.",
+   "t": "أخرج الدجاج قبل تكثيف الصلصة: فالبصل يذوب ويصير كالمربّى بينما ينتظر اللحم جانبًا."
+  },
+  "secrets.7.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Morocco World News",
+   "t": "Choumicha؛ Cooking with Alia؛ Morocco World News"
+  },
+  "secrets.8.text": {
+   "fr": "Désosse le poulet et retire la peau avant de le cacher sous les vermicelles. Christine Benlafquih (Taste of Maroc) laisse le plus souvent les os.",
+   "t": "انزع عظام الدجاج وجلده قبل أن تخفيه تحت الشعرية. أما Christine Benlafquih (Taste of Maroc) فتترك العظام في أغلب الأحيان."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Morocco World News ; Lalla Moulati (peau et os retirés) ; Taste of Maroc",
+   "t": "Choumicha؛ Morocco World News؛ Lalla Moulati (مع نزع الجلد والعظام)؛ Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Prépare le poulet à l'avance et cuis les vermicelles juste avant de servir ; réchauffe le poulet au dernier moment.",
+   "t": "حضّر الدجاج مسبقًا واطهُ الشعرية قبيل التقديم؛ ثم سخّن الدجاج في اللحظة الأخيرة."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia ; Taste of Maroc (réchauffer le poulet à feu moyen-doux s'il a refroidi)",
+   "t": "Cooking with Alia؛ Taste of Maroc (يُعاد تسخين الدجاج على نار متوسطة إلى هادئة إذا برد)"
+  },
+  "secrets.10.text": {
+   "fr": "Tu peux passer les vermicelles à la vapeur le matin ou la veille, puis les réchauffer à la vapeur ou au micro-ondes. Entre-temps, mets-les au réfrigérateur dans les 2 heures.",
+   "t": "يمكنك تبخير الشعرية في الصباح أو في اليوم السابق، ثم إعادة تسخينها على البخار أو في الميكروويف. وفي الأثناء، ضعها في الثلاجة خلال ساعتين."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (réponse de Christine Benlafquih à une lectrice) ; FSA et Anses pour le réfrigérateur",
+   "t": "Taste of Maroc (ردّ Christine Benlafquih على إحدى القارئات)؛ FSA وAnses بخصوص الثلاجة"
+  },
+  "secrets.11.text": {
+   "fr": "Pour décorer, trace des lignes de cannelle et de sucre glace sur le dôme, et garde les amandes pour le sommet.",
+   "t": "للتزيين، ارسم على القبة خطوطًا من القرفة والسكر الناعم، واحتفظ باللوز للقمة."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi.net (grille de cannelle et de sucre glace) ; Lalla Moulati (lignes de sucre glace et de cannelle, amandes au centre)",
+   "t": "Bladi.net (شبكة من القرفة والسكر الناعم)؛ Lalla Moulati (خطوط من السكر الناعم والقرفة، واللوز في الوسط)"
+  },
+  "secrets.12.text": {
+   "fr": "« Medfouna » veut dire « enterrée » : le poulet est caché à l'intérieur du dôme de vermicelles.",
+   "t": "اسم «مدفونة» يعني أن الدجاج مدفون: فهو مخبّأ داخل قبة الشعرية."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; Morocco World News (« enterre le poulet sous le reste de la seffa »)",
+   "t": "Taste of Maroc؛ Morocco World News («ادفن الدجاج تحت باقي السفة»)"
+  },
+  "mistakes.0": {
+   "fr": "Faire bouillir les vermicelles dans l'eau : ils deviennent mous et collants ; la vapeur les garde légers (Taste of Maroc).",
+   "t": "سلق الشعرية في الماء: فتصبح رخوة ولزجة؛ أما البخار فيُبقيها خفيفة (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Tasser les vermicelles dans le couscoussier (Taste of Maroc).",
+   "t": "ضغط الشعرية في الكسكاس (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Trop cuire les vermicelles à la dernière vapeur : ils deviennent trop mous (Cooking with Alia).",
+   "t": "الإفراط في طهي الشعرية في التبخير الأخير: فتصبح رخوة أكثر من اللازم (Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Noyer le poulet d'eau : il doit cuire surtout dans son propre jus (Taste of Maroc ; Choumicha n'ajoute que 10 cl d'eau).",
+   "t": "إغراق الدجاج بالماء: يجب أن ينضج أساسًا في عصارته (Taste of Maroc؛ وChoumicha لا تضيف سوى 10 سنتيلترات من الماء)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser attacher et brûler le poulet ou les oignons au fond de la marmite : cela gâche la sauce (Taste of Maroc).",
+   "t": "ترك الدجاج أو البصل يلتصق بقاع القدر ويحترق: فهذا يُفسد الصلصة (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Servir le poulet sans vérifier qu'il est cuit à cœur : chair blanche, jus clair, 70 °C à cœur (Anses) ou 75 °C pendant 30 secondes (FSA).",
+   "t": "تقديم الدجاج دون التحقق من نضجه حتى القلب: لحم أبيض، وعصارة صافية، و70 درجة مئوية في القلب (Anses) أو 75 درجة مئوية لمدة 30 ثانية (FSA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le poulet cuit plus de 2 heures à température ambiante (Anses ; FSA).",
+   "t": "ترك الدجاج المطهو أكثر من ساعتين في حرارة الغرفة (Anses؛ FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Servir tiède : la seffa medfouna se mange tout de suite, bien chaude (Taste of Maroc ; Cooking with Alia ; Choumicha ; Lalla Moulati).",
+   "t": "تقديمها فاترة: فالسفة المدفونة تؤكل فورًا وهي ساخنة جدًا (Taste of Maroc؛ Cooking with Alia؛ Choumicha؛ Lalla Moulati)."
+  },
+  "mistakes.8": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce qu'ils soient brûlants (FSA).",
+   "t": "إعادة تسخين البقايا عدة مرات: تُسخَّن مرة واحدة فقط، حتى تصبح شديدة السخونة (FSA)."
+  },
+  "variants.0": {
+   "fr": "Aux raisins secs : rince-les, fais-les tremper, puis mélange-les aux vermicelles pour la dernière vapeur. Choumicha les ajoute « toujours » à la dernière cuisson à la vapeur ; Taste of Maroc, Morocco World News et Cooking with Alia aussi. Taste of Maroc propose aussi de les caraméliser à part, avec un peu de beurre et de sucre ou de miel.",
+   "t": "بالزبيب: اغسله وانقعه، ثم اخلطه مع الشعرية للتبخير الأخير. تضيفه Choumicha «دائمًا» في آخر طهي على البخار؛ وكذلك Taste of Maroc وMorocco World News وCooking with Alia. ويقترح Taste of Maroc أيضًا أن تُكرمله على حدة، مع قليل من الزبدة والسكر أو العسل."
+  },
+  "variants.1": {
+   "fr": "Plus sucrée : mélange du sucre glace (ou du sucre) aux vermicelles chauds avec le beurre (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati).",
+   "t": "أكثر حلاوة: اخلط السكر الناعم (أو السكر العادي) والزبدة مع الشعرية الساخنة (Taste of Maroc، Morocco World News، Bladi.net، Lalla Moulati)."
+  },
+  "variants.2": {
+   "fr": "Sauce sucrée : un peu de miel dans la sauce réduite (Morocco World News et Cooking with Alia : 2 c. à s. pour un poulet), avec de la cannelle moulue (Cooking with Alia ; Lalla Moulati, qui ajoute aussi une cuillère de sucre).",
+   "t": "صلصة حلوة: قليل من العسل في الصلصة المكثّفة (Morocco World News وCooking with Alia: ملعقتان كبيرتان لدجاجة واحدة)، مع قرفة مطحونة (Cooking with Alia؛ وLalla Moulati التي تضيف أيضًا ملعقة سكر)."
+  },
+  "variants.3": {
+   "fr": "Sauce plus riche : Taste of Maroc ajoute du beurre à l'huile d'olive.",
+   "t": "صلصة أغنى: يضيف Taste of Maroc الزبدة إلى زيت الزيتون."
+  },
+  "variants.4": {
+   "fr": "Lait au dernier arrosage : Taste of Maroc remplace l'eau par du lait pour une version sucrée ; Lalla Moulati arrose les vermicelles d'un verre de lait ; Cooking with Alia ajoute du lait en poudre.",
+   "t": "الحليب في آخر رشّة: يستبدل Taste of Maroc الماء بالحليب للحصول على نسخة حلوة؛ وترشّ Lalla Moulati الشعرية بكأس من الحليب؛ ويضيف Cooking with Alia الحليب المجفّف."
+  },
+  "variants.5": {
+   "fr": "Méthode de Choumicha : après la première et la deuxième vapeur, pose le haut du couscoussier sur un bol, sale les vermicelles et rince-les à l'eau bouillante, puis huile-les, aère-les et laisse-les refroidir avant la vapeur suivante. Bladi.net verse aussi l'eau chaude du bas du couscoussier sur les vermicelles, puis les égoutte.",
+   "t": "طريقة Choumicha: بعد التبخير الأول والثاني، ضع الجزء العلوي من الكسكاس فوق وعاء، وملّح الشعرية واشطفها بالماء المغلي، ثم ادهنها بالزيت وهوِّها واتركها تبرد قبل التبخير التالي. ويسكب Bladi.net أيضًا الماء الساخن من الجزء السفلي من الكسكاس على الشعرية، ثم يصفّيها."
+  },
+  "variants.6": {
+   "fr": "À l'agneau ou au bœuf : Choumicha cache des brochettes d'agneau cuites dans une sauce aux oignons compotés, avec des raisins secs dans les vermicelles ; Taste of Maroc prend de l'agneau ou du bœuf tendre, sans os, couvert d'eau et cuit plus longtemps.",
+   "t": "بلحم الغنم أو البقر: تخفي Choumicha أسياخ لحم غنم مطهوة في صلصة من البصل المطهو حتى يصير كالمربّى، مع زبيب في الشعرية؛ ويستعمل Taste of Maroc لحم غنم أو بقر طريًا بلا عظم، مغمورًا بالماء ومطهوًا مدة أطول."
+  },
+  "variants.7": {
+   "fr": "Au couscous à la place des vermicelles (Taste of Maroc ; Morocco World News).",
+   "t": "بالكسكس بدل الشعرية (Taste of Maroc؛ Morocco World News)."
+  },
+  "variants.8": {
+   "fr": "Décor de fête : abricots secs et dattes caramélisés, noix et petits œufs durs (Cooking with Alia) ; œufs durs et cacahuètes (Lalla Moulati) ; amandes frites mixées avec un peu de sucre glace et d'eau de fleur d'oranger (Taste of Maroc ; Cooking with Alia).",
+   "t": "تزيين للمناسبات: مشمش مجفّف وتمر مكرملان، وجوز وبيض صغير مسلوق (Cooking with Alia)؛ بيض مسلوق وفول سوداني (Lalla Moulati)؛ لوز مقلي مطحون بالخلاط مع قليل من السكر الناعم وماء الزهر (Taste of Maroc؛ Cooking with Alia)."
+  },
+  "variants.9": {
+   "fr": "Sans viande : la seffa sucrée se sert aussi en dessert (Morocco World News) ; Choumicha la fait aux raisins secs et aux amandes, servie avec du lait parfumé à l'eau de fleur d'oranger.",
+   "t": "بلا لحم: تُقدَّم السفة الحلوة أيضًا كتحلية (Morocco World News)؛ وتحضّرها Choumicha بالزبيب واللوز، وتقدّمها مع حليب معطّر بماء الزهر."
+  }
+ }
+}

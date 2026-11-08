@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Sers-le tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine), en entrée de mezzé (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine) ou à côté de grillades (Hadia's Lebanese Cuisine, qui sert par exemple sa kafta avec du taboulé). On le mange à la main avec des feuilles de laitue romaine (Taste of Beirut ; Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Wikipédia), de chou blanc ou de vigne (Hadia's Lebanese Cuisine ; Wikipédia) ; du pain libanais peut aussi l'accompagner (recettelibanaise.com ; Libnanews). Il est meilleur tout de suite : assaisonné trop tôt, les herbes ramollissent et la salade détrempe (Taste of Beirut ; Mama's Lebanese Kitchen). Restes : au frigo dans les 2 heures (Anses ; FSA), frigo à 4 °C dans sa zone la plus froide (Anses), et à manger dans les 2 jours (FSA).",
-   "t": "قدّمها فورًا (Taste of Beirut؛ Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine)، طبقًا أول ضمن المازة (Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine) أو بجانب المشويات (Hadia's Lebanese Cuisine، التي تقدّم مثلًا الكفتة مع التبولة). تؤكل باليد مع أوراق الخس الروماني (Taste of Beirut؛ Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ Wikipédia)، أو أوراق الكرنب الأبيض أو أوراق العنب (Hadia's Lebanese Cuisine؛ Wikipédia)؛ ويمكن أن يرافقها الخبز اللبناني أيضًا (recettelibanaise.com؛ Libnanews). وهي ألذّ ما تكون فور تحضيرها: إذا تُبّلت قبل الأوان، ذبلت الأعشاب وغرقت السلطة في الماء (Taste of Beirut؛ Mama's Lebanese Kitchen). البقايا: توضع في الثلاجة خلال 2 ساعة (Anses؛ FSA)، في ثلاجة حرارتها 4 درجات مئوية في أبرد جزء منها (Anses)، وتؤكل خلال 2 يوم (FSA)."
+   "t": "قدّمها فورًا (Taste of Beirut؛ Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine)، طبقًا أول ضمن المازة (Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine) أو بجانب المشويات (Hadia's Lebanese Cuisine، التي تقدّم مثلًا الكفتة مع التبولة). تؤكل باليد مع أوراق الخس الروماني (Taste of Beirut؛ Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ Wikipédia)، أو أوراق الكرنب الأبيض أو أوراق العنب (Hadia's Lebanese Cuisine؛ Wikipédia)؛ ويمكن أن يرافقها الخبز اللبناني أيضًا (recettelibanaise.com؛ Libnanews). وهي ألذّ ما تكون فور تحضيرها: إذا تُبّلت قبل الأوان، ذبلت الأعشاب وغرقت السلطة في الماء (Taste of Beirut؛ Mama's Lebanese Kitchen). البقايا: توضع في الثلاجة خلال ساعتين (Anses؛ FSA)، في ثلاجة حرارتها 4 درجات مئوية في أبرد جزء منها (Anses)، وتؤكل خلال يومين (FSA)."
   },
   "ing.0.group": {
    "fr": "Les herbes et les légumes",
@@ -56,7 +56,7 @@
   },
   "ing.tomates.note": {
    "fr": "bien rouge, mûre mais ferme, à choisir une à une",
-   "t": "حمراء جيدًا، ناضجة لكن متماسكة، تُختار حبةً حبةً"
+   "t": "شديدة الحمرة، ناضجة لكن متماسكة، تُختار حبةً حبةً"
   },
   "ing.oignon.name": {
    "fr": "oignon blanc",
@@ -208,7 +208,7 @@
   },
   "steps.4.text": {
    "fr": "Serre le persil en petits paquets et tranche-le très fin, en fines lanières, avec un couteau bien aiguisé. Fais-le à la main : le robot écrase les feuilles et en fait une bouillie.",
-   "t": "اجمع البقدونس في حزم صغيرة مضغوطة، وقطّعه رفيعًا جدًا، شرائط دقيقة، بسكين حاد. افعل ذلك بيدك: فمحضّرة الطعام تسحق الأوراق وتحوّلها إلى عجينة."
+   "t": "اجمع البقدونس في حزم صغيرة مضغوطة، وقطّعه شرائط دقيقة جدًا بسكين حاد. افعل ذلك بيدك: فمحضّرة الطعام تسحق الأوراق وتحوّلها إلى عجينة."
   },
   "steps.4.img.alt": {
    "fr": "Persil haché au couteau sur une planche",
@@ -241,14 +241,6 @@
   "steps.7.text": {
    "fr": "Hache {{oignon:full}} très finement.",
    "t": "افرم {{oignon:full}} فرمًا ناعمًا جدًا."
-  },
-  "steps.7.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "بصل مقطّع شرائح رفيعة وثوم مهروس على لوح تقطيع"
-  },
-  "steps.7.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "تقطيع البصل شرائح رفيعة"
   },
   "steps.8.title": {
    "fr": "Mélange au dernier moment",
@@ -428,7 +420,7 @@
   },
   "mistakes.9": {
    "fr": "Laisser le taboulé plus de 2 heures à température ambiante avant de le mettre au frigo (Anses).",
-   "t": "ترك التبولة أكثر من 2 ساعة في حرارة الغرفة قبل وضعها في الثلاجة (Anses)."
+   "t": "ترك التبولة أكثر من ساعتين في حرارة الغرفة قبل وضعها في الثلاجة (Anses)."
   },
   "variants.0": {
    "fr": "Avec des oignons verts à la place de l'oignon blanc (Taste of Beirut ; Wikipédia en arabe).",

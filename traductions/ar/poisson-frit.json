@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Sers le poisson chaud, aussitôt égoutté : les sardines se mangent de préférence chaudes, avec des tranches de citron (Bladi) ; Cooking With Alia les sert tout de suite, avec un filet de jus de citron. Taste of Maroc les sert aussi tièdes ou à température ambiante, sur un lit de persil ou de salade, avec des quartiers de citron et de la harissa, à côté de haricots blancs à la tomate ou d'une salade concombre-tomate-oignon. Choumicha accompagne sa friture d'une salade verte, de tranches de citron et d'olives m'chermlines. Ne laisse pas le poisson plus de 2 heures hors du réfrigérateur (FDA).",
-   "t": "قدّم السمك ساخنًا فور تصفيته: يُفضَّل أكل السردين ساخنًا، مع شرائح الليمون (Bladi)؛ وتقدّمه Cooking With Alia فورًا، مع قليل من عصير الليمون. وفي Taste of Maroc يُقدَّم أيضًا فاترًا أو بحرارة الغرفة، على فرشة من البقدونس أو الخس، مع أرباع الليمون والهريسة، إلى جانب الفاصوليا البيضاء (اللوبيا) بالطماطم أو سلطة الخيار والطماطم والبصل. وترافق Choumicha قليتها بسلطة خضراء وشرائح الليمون والزيتون المشرمل. لا تترك السمك خارج الثلاجة أكثر من 2 ساعة (FDA)."
+   "t": "قدّم السمك ساخنًا فور تصفيته: يُفضَّل أكل السردين ساخنًا، مع شرائح الليمون (Bladi)؛ وتقدّمه Cooking With Alia فورًا، مع قليل من عصير الليمون. وفي Taste of Maroc يُقدَّم أيضًا فاترًا أو بحرارة الغرفة، على فرشة من البقدونس أو الخس، مع أرباع الليمون والهريسة، إلى جانب الفاصوليا البيضاء (اللوبيا) بالطماطم أو سلطة الخيار والطماطم والبصل. وتقدّم Choumicha سمكها المقلي مع سلطة خضراء وشرائح الليمون والزيتون المشرمل. لا تترك السمك خارج الثلاجة أكثر من ساعتين (FDA)."
   },
   "pairs_label": {
    "fr": "En sandwich",
@@ -232,7 +232,7 @@
   },
   "steps.3.title": {
    "fr": "Pile l'ail et les herbes",
-   "t": "ادقّ الثوم والأعشاب"
+   "t": "دُقّ الثوم والأعشاب"
   },
   "steps.3.text": {
    "fr": "Hache très finement {{persil}} de persil et {{coriandre}} de coriandre. Au mortier, écrase {{ail:full}} avec {{sel}} de sel. Ajoute les herbes et pile encore un peu.",
@@ -288,7 +288,7 @@
   },
   "steps.7.text": {
    "fr": "Couvre et mets au réfrigérateur au moins 30 minutes. Taste of Maroc laisse mariner au moins 2 heures.",
-   "t": "غطِّه وضعه في الثلاجة 30 دقيقة على الأقل. في Taste of Maroc يُترك في التتبيلة 2 ساعة على الأقل."
+   "t": "غطِّه وضعه في الثلاجة 30 دقيقة على الأقل. في Taste of Maroc يُترك في التتبيلة ساعتين على الأقل."
   },
   "steps.7.timer.label": {
    "fr": "Marinade",
@@ -392,7 +392,7 @@
   },
   "steps.14.tip": {
    "fr": "Ne laisse pas le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
-   "t": "لا تترك السمك المقلي خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية."
+   "t": "لا تترك السمك المقلي خارج الثلاجة أكثر من ساعتين، أو أكثر من ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية."
   },
   "secrets.0.text": {
    "fr": "Choisis des sardines de moins de 15 cm : plus la sardine est petite, plus sa chair est délicieuse. Elles doivent être brillantes, fermes, garder leurs écailles, avec des branchies rouge carmin et humides.",
@@ -444,7 +444,7 @@
   },
   "secrets.6.text": {
    "fr": "Pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées : hachées grossièrement, elles donnent une chermoula qui fait des fils.",
-   "t": "ادقّ الثوم مع الملح أولًا، ثم أضف الأعشاب المفرومة جيدًا: إذا فُرمت فرمًا خشنًا، تكوّنت في الشرمولة خيوط."
+   "t": "دُقّ الثوم مع الملح أولًا، ثم أضف الأعشاب المفرومة جيدًا: إذا فُرمت فرمًا خشنًا، تكوّنت في الشرمولة خيوط."
   },
   "secrets.6.source": {
    "fr": "Taste of Maroc (Nada Kiffa) ; Bladi, « Chermoula pour le poisson » (coriandre pilée au mortier avec le gros sel et l'ail) ; Choumicha (herbes émincées)",
@@ -544,7 +544,7 @@
   },
   "mistakes.9": {
    "fr": "Laisser le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
-   "t": "ترك السمك المقلي خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA)."
+   "t": "ترك السمك المقلي خارج الثلاجة أكثر من ساعتين، أو أكثر من ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA)."
   },
   "variants.0": {
    "fr": "Seulement des sardines farcies : c'est le grand classique de la rue (Taste of Maroc ; Bladi, « Sardines farcies »).",

@@ -258,7 +258,7 @@ window.RECETTES.push({
   {
    "phase": "Cuisson",
    "title": "Fais revenir l'oignon et l'ail",
-   "text": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "text": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
    "timer": null
   },
   {
@@ -300,7 +300,7 @@ window.RECETTES.push({
    "timer": {
     "min": 5,
     "label": "Œufs",
-    "done": "Blanc pris, jaune encore coulant : coupe le feu tout de suite."
+    "done": "Blanc pris, jaune encore coulant : coupe le feu tout de suite. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, prolonge de quelques minutes, jusqu'à ce que le jaune soit pris."
    }
   },
   {
@@ -498,7 +498,8 @@ window.RECETTES.push({
   "Poivron vert et laurier : seulement chez Taste of Maroc, donc mis en variante.",
   "Ustensile : tajine en terre traditionnel (Taste of Maroc, MarocMama) ou poêle et sauteuse (My Moroccan Food, Amour de cuisine, Cooking With Alia). Les deux sont donnés.",
   "Amour de cuisine figure parmi les exemples de sources, mais son autrice (Soulef Zaoui) a des racines algériennes : elle n'est pas comptée comme source marocaine.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme », 1 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme », 1 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Choumicha : le site officiel choumicha.ma était inaccessible le 2026-11-06 (erreur Cloudflare 525, avec WebFetch et dans le navigateur). Aucune de ses recettes n'a pu être lue ; les extraits de moteur de recherche (« Tajine de tomate au khliï et aux œufs », page « La tomate » qui cite les tajines aux œufs et aux boulettes de kefta) ne sont pas utilisés.",

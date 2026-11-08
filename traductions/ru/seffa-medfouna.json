@@ -1,0 +1,602 @@
+{
+ "_slug": "seffa-medfouna",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Seffa medfouna au poulet et aux cheveux d'ange",
+   "t": "Сеффа медфуна с курицей и тонкой вермишелью"
+  },
+  "darija": {
+   "fr": "Seffa medfouna",
+   "t": "Сеффа медфуна"
+  },
+  "tagline": {
+   "fr": "Un dôme de cheveux d'ange cuits à la vapeur et beurrés cache un poulet fondant dans sa sauce aux oignons ; dessus, de la cannelle, du sucre glace et des amandes frites.",
+   "t": "Под куполом из вермишели «волосы ангела», приготовленной на пару и заправленной сливочным маслом, прячется нежная курица в луковом соусе; сверху — корица, сахарная пудра и жареный миндаль."
+  },
+  "region": {
+   "fr": "Maroc",
+   "t": "Марокко"
+  },
+  "occasion": {
+   "fr": "Fêtes, réceptions et grandes occasions ; aussi un repas de famille",
+   "t": "Праздники, приёмы гостей и торжественные случаи; а также семейный обед"
+  },
+  "img_alt": {
+   "fr": "Seffa de vermicelles en dôme, décorée de lignes de cannelle et de sucre glace, dans un plat bleu, au Maroc",
+   "t": "Сеффа из вермишели в виде купола, украшенная линиями из корицы и сахарной пудры, на синем блюде, в Марокко"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, dès qu'elle est montée, au centre de la table : selon la tradition, chacun mange de son côté du plat (Taste of Maroc). Mets à côté de petits bols de sucre glace, de cannelle et d'amandes, pour ceux qui en veulent plus (Taste of Maroc). Choumicha l'accompagne de lait parfumé à l'eau de fleur d'oranger. Restes : au réfrigérateur dans les 2 heures, à manger dans les 48 heures, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses : dans les 3 jours).",
+   "t": "Подавайте сеффу очень горячей, сразу после сборки, в центре стола: по традиции каждый ест со своей стороны блюда (Taste of Maroc). Поставьте рядом маленькие пиалы с сахарной пудрой, корицей и миндалём для тех, кто хочет добавить ещё (Taste of Maroc). Choumicha подаёт к ней молоко, ароматизированное водой из цветков апельсина. Остатки: в холодильник не позднее чем через 2 часа, съесть в течение 48 часов, разогреть только один раз, до обжигающе горячего состояния (FSA; Anses: в течение 3 дней)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet en sauce aux oignons",
+   "t": "Курица в луковом соусе"
+  },
+  "ing.poulet.name": {
+   "fr": "de poulet halal, coupé en morceaux",
+   "t": "курицы халяль, разрезанной на куски"
+  },
+  "ing.poulet.note": {
+   "fr": "un poulet entier ; Choumicha prend un poulet de 1,5 kg pour 6",
+   "t": "целая курица; Choumicha берёт курицу весом 1,5 кг на 6 человек"
+  },
+  "ing.oignons.name": {
+   "fr": "d'oignons",
+   "t": "репчатого лука"
+  },
+  "ing.oignons.note": {
+   "fr": "émincés finement",
+   "t": "тонко нашинковать"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "râpées ou écrasées",
+   "t": "натереть или раздавить"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "смена (марокканского выдержанного солёного масла)"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "в конце поправить по вкусу"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "нитей шафрана"
+  },
+  "ing.safran.note": {
+   "fr": "Choumicha en compte 8",
+   "t": "Choumicha кладёт 8 нитей"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "палочка корицы"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "палочки корицы"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.eau.note": {
+   "fr": "et un peu d'eau chaude en plus si ça attache",
+   "t": "и ещё немного горячей воды, если начнёт пригорать"
+  },
+  "ing.1.group": {
+   "fr": "Vermicelles à la vapeur",
+   "t": "Вермишель на пару"
+  },
+  "ing.vermicelles.name": {
+   "fr": "de vermicelles très fins « cheveux d'ange » (chaariya)",
+   "t": "очень тонкой вермишели «волосы ангела» (шаария)"
+  },
+  "ing.vermicelles.note": {
+   "fr": "en petits morceaux ; s'ils sont longs, casse-les",
+   "t": "мелкими кусочками; если вермишель длинная, разломайте её"
+  },
+  "ing.huile-vermicelles.name": {
+   "fr": "d'huile neutre (tournesol), et un peu plus pour huiler le panier",
+   "t": "растительного (подсолнечного) масла и ещё немного, чтобы смазать корзину"
+  },
+  "ing.eau-vermicelles.name": {
+   "fr": "d'eau, pour arroser les vermicelles",
+   "t": "воды для сбрызгивания вермишели"
+  },
+  "ing.sel-vermicelles.name": {
+   "fr": "de sel fin, pour l'eau d'arrosage",
+   "t": "мелкой соли — в воду для сбрызгивания"
+  },
+  "ing.eau-couscoussier.name": {
+   "fr": "eau",
+   "t": "вода"
+  },
+  "ing.eau-couscoussier.note": {
+   "fr": "pour remplir le bas du couscoussier à moitié environ",
+   "t": "чтобы наполнить нижнюю кастрюлю кускусницы примерно наполовину"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "сливочного масла"
+  },
+  "ing.beurre.note": {
+   "fr": "un peu ramolli",
+   "t": "слегка размягчённое"
+  },
+  "ing.2.group": {
+   "fr": "Décor",
+   "t": "Для украшения"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (sans peau)",
+   "t": "очищенного миндаля (без кожицы)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "un fond d'huile neutre",
+   "t": "тонкий слой растительного масла"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "для обжаривания миндаля"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "сахарной пудры"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "equipment.0": {
+   "fr": "Couscoussier (marmite et panier vapeur), ou grande marmite surmontée d'un panier vapeur",
+   "t": "Кускусница (кастрюля и корзина-пароварка) или большая кастрюля с корзиной-пароваркой сверху"
+  },
+  "equipment.1": {
+   "fr": "Grande marmite à fond épais avec couvercle, pour le poulet",
+   "t": "Большая кастрюля с толстым дном и крышкой, для курицы"
+  },
+  "equipment.2": {
+   "fr": "Très grand plat creux ou bassine, pour défaire et arroser les vermicelles",
+   "t": "Очень большое глубокое блюдо или таз, чтобы разбирать комки и сбрызгивать вермишель"
+  },
+  "equipment.3": {
+   "fr": "Deux fourchettes",
+   "t": "Две вилки"
+  },
+  "equipment.4": {
+   "fr": "Petite poêle, écumoire et papier absorbant, pour les amandes",
+   "t": "Небольшая сковорода, шумовка и бумажные полотенца, для миндаля"
+  },
+  "equipment.5": {
+   "fr": "Mortier et pilon, ou mixeur, pour concasser les amandes",
+   "t": "Ступка с пестиком или блендер, чтобы раздробить миндаль"
+  },
+  "equipment.6": {
+   "fr": "Grand plat de service rond",
+   "t": "Большое круглое сервировочное блюдо"
+  },
+  "equipment.7": {
+   "fr": "Passoire fine, pour le sucre glace",
+   "t": "Мелкое ситечко, для сахарной пудры"
+  },
+  "equipment.8": {
+   "fr": "Thermomètre de cuisine (facultatif)",
+   "t": "Кухонный термометр (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Prépare les oignons, l'ail et les herbes",
+   "t": "Подготовьте лук, чеснок и зелень"
+  },
+  "steps.0.text": {
+   "fr": "Émince finement {{oignons}} d'oignons. Râpe ou écrase {{ail:full}}. Hache {{persil}} de persil et {{coriandre}} de coriandre, mélange-les, puis partage-les en deux tas. Si le boucher ne l'a pas fait, coupe {{poulet}} de poulet en morceaux.",
+   "t": "Тонко нашинкуйте {{oignons:full}}. Натрите или раздавите {{ail:full}}. Порубите {{persil}} петрушки и {{coriandre}} кинзы, перемешайте и разделите на две кучки. Если мясник этого не сделал, разрежьте {{poulet}} курицы на куски."
+  },
+  "steps.0.tip": {
+   "fr": "Après avoir touché le poulet cru, lave-toi les mains et nettoie la planche et le couteau avant de t'en servir pour autre chose (Anses).",
+   "t": "Прикоснувшись к сырой курице, вымойте руки; доску и нож тоже вымойте, прежде чем использовать их для чего-то другого (Anses)."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом, на доске"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir le poulet aux épices",
+   "t": "Обжарьте курицу со специями"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande marmite à fond épais, mets le poulet, les oignons, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran émietté et {{cannelle-baton:full}}. Fais revenir 10 min à feu moyen-doux, en remuant souvent pour que rien n'attache.",
+   "t": "Положите в большую кастрюлю с толстым дном курицу, лук и чеснок, влейте {{huile}} оливкового масла. Добавьте {{gingembre}} имбиря, {{curcuma}} куркумы, {{poivre}} перца, {{sel}} соли, раскрошенный шафран ({{safran}}) и палочки корицы ({{cannelle-baton}} шт.). Обжаривайте 10 мин на огне ниже среднего, часто помешивая, чтобы ничего не пригорело."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poulet aux épices",
+   "t": "Курица со специями"
+  },
+  "steps.1.timer.done": {
+   "fr": "Ajoute le smen, la moitié des herbes et l'eau.",
+   "t": "Добавьте смен, половину зелени и воду."
+  },
+  "steps.2.title": {
+   "fr": "Laisse mijoter à couvert",
+   "t": "Тушите под крышкой"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{smen}} de smen, la moitié des herbes et {{eau}} d'eau. Couvre et laisse mijoter 45 min à feu moyen-doux, en remuant de temps en temps. Le poulet cuit surtout dans son propre jus. Si ça attache, ajoute juste un peu d'eau chaude.",
+   "t": "Добавьте {{smen}} смена, половину зелени и {{eau}} воды. Накройте крышкой и тушите 45 мин на огне ниже среднего, время от времени помешивая. Курица готовится в основном в собственном соку. Если начнёт пригорать, добавьте совсем немного горячей воды."
+  },
+  "steps.2.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "Тушение курицы"
+  },
+  "steps.2.timer.done": {
+   "fr": "Vérifie que le poulet est bien cuit.",
+   "t": "Проверьте готовность курицы."
+  },
+  "steps.3.title": {
+   "fr": "Pendant ce temps, fais frire les amandes",
+   "t": "Тем временем обжарьте миндаль"
+  },
+  "steps.3.text": {
+   "fr": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant. Quand elles ont refroidi, concasse-les grossièrement au mortier ou au mixeur, par petits coups.",
+   "t": "Налейте в небольшую сковороду {{huile-friture}} и разогрейте на среднем огне. Обжарьте в масле {{amandes}} очищенного миндаля, непрерывно помешивая, до золотистого цвета. Выложите миндаль на бумажное полотенце, чтобы стекло масло. Когда он остынет, крупно раздробите его в ступке или блендером, короткими импульсами."
+  },
+  "steps.4.title": {
+   "fr": "Vérifie que le poulet est bien cuit",
+   "t": "Проверьте готовность курицы"
+  },
+  "steps.4.text": {
+   "fr": "Coupe le plus gros morceau, près de l'os. La chair doit être blanche jusqu'au centre, sans trace rose, et le jus doit être clair. La viande doit se détacher facilement de l'os. Avec un thermomètre de cuisine piqué au cœur de la partie la plus épaisse, la chair doit atteindre 75 °C pendant 30 secondes, ou 70 °C pendant 2 minutes. Sinon, couvre et laisse cuire encore un peu, puis vérifie de nouveau.",
+   "t": "Надрежьте самый крупный кусок у кости. Мясо должно быть белым до самой середины, без розовых следов, а сок — прозрачным. Мясо должно легко отделяться от кости. Кухонный термометр, введённый в середину самой толстой части, должен показывать 75 °C в течение 30 секунд или 70 °C в течение 2 минут. Если нет, накройте крышкой, готовьте ещё немного и проверьте снова."
+  },
+  "steps.4.tip": {
+   "fr": "La partie la plus épaisse du poulet est la cuisse : vérifie à la jointure entre le pilon et le haut de cuisse, qui ne doit pas être rosée (FSA ; Anses).",
+   "t": "Самая толстая часть курицы — окорочок: проверяйте мясо у сустава между голенью и бедром, оно не должно быть розоватым (FSA; Anses)."
+  },
+  "steps.5.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "Уварите луковый соус"
+  },
+  "steps.5.text": {
+   "fr": "Sors les morceaux de poulet et pose-les dans un plat. Ajoute le reste des herbes dans la marmite. Laisse cuire la sauce à découvert, à feu moyen, en remuant souvent, jusqu'à ce que les oignons soient fondus comme une compote et que la sauce soit épaisse. Retire les bâtons de cannelle. Goûte et rectifie le sel.",
+   "t": "Выньте куски курицы и переложите на блюдо. Добавьте в кастрюлю оставшуюся зелень. Уваривайте соус без крышки на среднем огне, часто помешивая, пока лук не разварится в мягкое пюре, а соус не загустеет. Выньте палочки корицы. Попробуйте и при необходимости досолите."
+  },
+  "steps.6.title": {
+   "fr": "Désosse le poulet",
+   "t": "Отделите мясо от костей"
+  },
+  "steps.6.text": {
+   "fr": "Dès que le poulet est assez tiède pour être touché, retire la peau et les os. Coupe ou effiloche la chair en morceaux. Remets-la dans la sauce, mélange, couvre et garde la marmite de côté.",
+   "t": "Как только курица остынет настолько, что её можно будет трогать руками, снимите кожу и удалите кости. Нарежьте мясо кусочками или разберите его на волокна. Верните мясо в соус, перемешайте, накройте крышкой и отставьте кастрюлю в сторону."
+  },
+  "steps.6.tip": {
+   "fr": "Ne laisse pas le poulet cuit plus de 2 heures à température ambiante : tu le réchaufferas juste avant de servir (Anses ; FSA).",
+   "t": "Не оставляйте готовую курицу при комнатной температуре дольше 2 часов: вы разогреете её прямо перед подачей (Anses; FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Huile les vermicelles et fais une première vapeur",
+   "t": "Смажьте вермишель маслом и пропарьте в первый раз"
+  },
+  "steps.7.text": {
+   "fr": "Remplis à moitié le bas du couscoussier d'{{eau-couscoussier}} et porte à ébullition. Huile légèrement le haut du couscoussier. Dans un très grand plat, mélange {{vermicelles}} de vermicelles avec {{huile-vermicelles}} d'huile, à la main, jusqu'à ce que tous les brins soient enrobés. Mets-les dans le haut du couscoussier et pose-le sur la marmite. Dès que la vapeur traverse les vermicelles, compte 20 min.",
+   "t": "Наполовину наполните нижнюю кастрюлю кускусницы водой и доведите до кипения. Слегка смажьте маслом верхнюю часть кускусницы. В очень большом блюде перемешайте руками {{vermicelles}} вермишели с {{huile-vermicelles}} масла, пока все нити не покроются маслом. Переложите вермишель в верхнюю часть кускусницы и поставьте её на нижнюю кастрюлю. Как только пар пойдёт сквозь вермишель, засеките 20 мин."
+  },
+  "steps.7.tip": {
+   "fr": "Manipule les vermicelles délicatement et ne les tasse pas dans le couscoussier (Taste of Maroc).",
+   "t": "Обращайтесь с вермишелью бережно и не утрамбовывайте её в кускуснице (Taste of Maroc)."
+  },
+  "steps.7.timer.label": {
+   "fr": "1re vapeur",
+   "t": "1-е пропаривание"
+  },
+  "steps.7.timer.done": {
+   "fr": "Verse les vermicelles dans le grand plat.",
+   "t": "Высыпьте вермишель в большое блюдо."
+  },
+  "steps.7.img.alt": {
+   "fr": "Le haut d'un couscoussier posé sur la marmite, ici rempli de graine de couscous",
+   "t": "Верхняя часть кускусницы на кастрюле — здесь она наполнена крупой кускус"
+  },
+  "steps.7.img.caption": {
+   "fr": "La cuisson à la vapeur du couscoussier",
+   "t": "Приготовление на пару в кускуснице"
+  },
+  "steps.8.title": {
+   "fr": "Arrose les vermicelles et fais une deuxième vapeur",
+   "t": "Сбрызните вермишель и пропарьте во второй раз"
+  },
+  "steps.8.text": {
+   "fr": "Fais fondre {{sel-vermicelles}} de sel dans {{eau-vermicelles}} d'eau. Verse les vermicelles dans le grand plat et défais les paquets avec deux fourchettes, puis à la main quand ils ont un peu tiédi. Arrose-les de la moitié de l'eau salée et mélange jusqu'à ce qu'elle soit absorbée. Remets-les dans le haut du couscoussier et compte 20 min dès que la vapeur les traverse. Vérifie qu'il reste assez d'eau dans le bas.",
+   "t": "Растворите {{sel-vermicelles}} соли в {{eau-vermicelles}} воды. Высыпьте вермишель в большое блюдо и разберите комки двумя вилками, а когда она немного остынет — руками. Сбрызните её половиной подсоленной воды и перемешайте, пока вода не впитается. Снова переложите вермишель в верхнюю часть кускусницы и засеките 20 мин, как только пар пойдёт сквозь неё. Проверьте, достаточно ли воды осталось в нижней кастрюле."
+  },
+  "steps.8.timer.label": {
+   "fr": "2e vapeur",
+   "t": "2-е пропаривание"
+  },
+  "steps.8.timer.done": {
+   "fr": "Verse les vermicelles dans le grand plat.",
+   "t": "Высыпьте вермишель в большое блюдо."
+  },
+  "steps.9.title": {
+   "fr": "Fais la dernière vapeur",
+   "t": "Пропарьте в последний раз"
+  },
+  "steps.9.text": {
+   "fr": "Défais de nouveau les vermicelles dans le plat et arrose-les du reste de l'eau salée. Remets-les dans le haut du couscoussier et compte 15 min dès que la vapeur les traverse. Goûte : les brins doivent être tendres, légers et bien séparés. S'ils sont encore un peu fermes, laisse-les encore 5 min. S'ils restent fermes, arrose-les d'un peu d'eau et fais une quatrième vapeur de 15 à 20 min, sans trop les cuire.",
+   "t": "Снова разберите комки вермишели в блюде и сбрызните её оставшейся подсоленной водой. Переложите её в верхнюю часть кускусницы и засеките 15 мин, как только пар пойдёт сквозь неё. Попробуйте: нити должны быть мягкими, лёгкими и хорошо отделяться друг от друга. Если они ещё немного твёрдые, оставьте их на пару ещё на 5 мин. Если они так и остаются твёрдыми, сбрызните их небольшим количеством воды и пропарьте в четвёртый раз, 15–20 мин, не переваривая."
+  },
+  "steps.9.timer.label": {
+   "fr": "3e vapeur",
+   "t": "3-е пропаривание"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte : tendres et légers ? Sinon, encore une vapeur.",
+   "t": "Попробуйте: мягкие и лёгкие? Если нет — ещё одно пропаривание."
+  },
+  "steps.10.title": {
+   "fr": "Pendant ce temps, réchauffe le poulet",
+   "t": "Тем временем разогрейте курицу"
+  },
+  "steps.10.text": {
+   "fr": "Remets la marmite du poulet sur feu moyen-doux. Réchauffe en remuant doucement, jusqu'à ce que la sauce bouillonne et que le poulet soit brûlant.",
+   "t": "Снова поставьте кастрюлю с курицей на огонь ниже среднего. Разогревайте, осторожно помешивая, пока соус не закипит, а курица не станет обжигающе горячей."
+  },
+  "steps.11.title": {
+   "fr": "Beurre les vermicelles",
+   "t": "Заправьте вермишель сливочным маслом"
+  },
+  "steps.11.text": {
+   "fr": "Verse les vermicelles brûlants dans le grand plat. Ajoute {{beurre}} de beurre et mélange avec une fourchette pour bien les aérer.",
+   "t": "Высыпьте обжигающе горячую вермишель в большое блюдо. Добавьте {{beurre}} сливочного масла и перемешайте вилкой, чтобы хорошо её разрыхлить."
+  },
+  "steps.12.title": {
+   "fr": "Cache le poulet sous les vermicelles",
+   "t": "Спрячьте курицу под вермишелью"
+  },
+  "steps.12.text": {
+   "fr": "Étale la moitié des vermicelles dans le plat de service. Dispose le poulet au centre et nappe-le de sauce. Recouvre avec le reste des vermicelles et forme un dôme avec les mains : le poulet ne doit plus se voir.",
+   "t": "Выложите половину вермишели на сервировочное блюдо. Положите курицу в центр и полейте соусом. Накройте оставшейся вермишелью и руками сформируйте купол: курицы не должно быть видно."
+  },
+  "steps.13.title": {
+   "fr": "Décore et sers aussitôt",
+   "t": "Украсьте и сразу подавайте"
+  },
+  "steps.13.text": {
+   "fr": "Trace des lignes sur le dôme avec {{cannelle-moulue}} de cannelle, du sommet vers le bas. Saupoudre {{sucre-glace}} de sucre glace à travers une passoire fine, entre les lignes. Parsème les amandes concassées, surtout au sommet. Sers tout de suite, bien chaud.",
+   "t": "Проведите на куполе линии корицей ({{cannelle-moulue}}) от вершины вниз. Просейте {{sucre-glace}} сахарной пудры через мелкое ситечко между линиями. Посыпьте раздробленным миндалём, особенно вершину. Подавайте сразу, пока блюдо очень горячее."
+  },
+  "secrets.0.text": {
+   "fr": "Cuis les vermicelles à la vapeur, jamais dans l'eau : les brins gonflent et restent légers et séparés, sans devenir collants ni lourds.",
+   "t": "Готовьте вермишель на пару и никогда не варите её в воде: нити набухают и остаются лёгкими и рассыпчатыми, не становясь липкими и тяжёлыми."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (recette et guide de la vapeur) ; Choumicha (cheveux d'ange cuits trois fois à la vapeur)",
+   "t": "Taste of Maroc (рецепт и руководство по приготовлению на пару); Choumicha (вермишель «волосы ангела», трижды приготовленная на пару)"
+  },
+  "secrets.1.text": {
+   "fr": "Avant la première vapeur, enrobe d'huile les vermicelles secs, avec les mains, jusqu'au dernier brin : ils ne collent pas entre eux.",
+   "t": "Перед первым пропариванием руками покройте сухую вермишель маслом, до последней нити: тогда нити не слипаются между собой."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc, Choumicha, Cooking with Alia и Lalla Moulati"
+  },
+  "secrets.2.text": {
+   "fr": "Compte le temps de vapeur à partir du moment où la vapeur traverse les vermicelles, pas dès que tu poses le couscoussier.",
+   "t": "Отсчитывайте время пропаривания с момента, когда пар пошёл сквозь вермишель, а не с того момента, как вы поставили кускусницу."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Morocco World News",
+   "t": "Taste of Maroc и Morocco World News"
+  },
+  "secrets.3.text": {
+   "fr": "À la fin de chaque vapeur, des brins se dressent à la surface des vermicelles : c'est le signe que tu peux passer à l'étape suivante.",
+   "t": "В конце каждого пропаривания на поверхности вермишели встают торчком отдельные нити: это знак, что можно переходить к следующему этапу."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (recette du 13 mai 2023)",
+   "t": "Taste of Maroc; Lalla Moulati (рецепт от 13 мая 2023 г.)"
+  },
+  "secrets.4.text": {
+   "fr": "Entre deux vapeurs, défais bien les paquets, avec deux fourchettes puis à la main, et arrose d'eau salée : à chaque passage, les vermicelles gonflent et s'attendrissent.",
+   "t": "Между пропариваниями хорошо разбирайте комки — сначала двумя вилками, потом руками — и сбрызгивайте подсоленной водой: с каждым разом вермишель набухает и становится мягче."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha (deux fourchettes) ; Taste of Maroc ; Morocco World News ; Cooking with Alia ; Lalla Moulati",
+   "t": "Choumicha (две вилки); Taste of Maroc; Morocco World News; Cooking with Alia; Lalla Moulati"
+  },
+  "secrets.5.text": {
+   "fr": "Manipule les vermicelles délicatement et ne les tasse jamais dans le haut du couscoussier.",
+   "t": "Обращайтесь с вермишелью бережно и никогда не утрамбовывайте её в верхней части кускусницы."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Le poulet cuit presque sans eau : il braise dans son propre jus.",
+   "t": "Курица готовится почти без воды: она тушится в собственном соку."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (pas d'eau sauf si c'est nécessaire) ; Choumicha (10 cl d'eau pour un poulet de 1,5 kg)",
+   "t": "Taste of Maroc (воду не добавлять, разве что при необходимости); Choumicha (10 сл воды на курицу весом 1,5 кг)"
+  },
+  "secrets.7.text": {
+   "fr": "Sors le poulet avant de réduire la sauce : les oignons fondent en compote pendant que la viande attend à part.",
+   "t": "Выньте курицу, прежде чем уваривать соус: лук разваривается в пюре, пока мясо ждёт отдельно."
+  },
+  "secrets.7.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Morocco World News",
+   "t": "Choumicha, Cooking with Alia и Morocco World News"
+  },
+  "secrets.8.text": {
+   "fr": "Désosse le poulet et retire la peau avant de le cacher sous les vermicelles. Christine Benlafquih (Taste of Maroc) laisse le plus souvent les os.",
+   "t": "Перед тем как спрятать курицу под вермишелью, удалите кости и снимите кожу. Christine Benlafquih (Taste of Maroc) чаще всего оставляет кости."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Morocco World News ; Lalla Moulati (peau et os retirés) ; Taste of Maroc",
+   "t": "Choumicha; Morocco World News; Lalla Moulati (кожа и кости удалены); Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Prépare le poulet à l'avance et cuis les vermicelles juste avant de servir ; réchauffe le poulet au dernier moment.",
+   "t": "Приготовьте курицу заранее, а вермишель — прямо перед подачей; курицу разогрейте в последний момент."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia ; Taste of Maroc (réchauffer le poulet à feu moyen-doux s'il a refroidi)",
+   "t": "Cooking with Alia; Taste of Maroc (если курица остыла, разогреть её на огне ниже среднего)"
+  },
+  "secrets.10.text": {
+   "fr": "Tu peux passer les vermicelles à la vapeur le matin ou la veille, puis les réchauffer à la vapeur ou au micro-ondes. Entre-temps, mets-les au réfrigérateur dans les 2 heures.",
+   "t": "Вермишель можно пропарить утром или накануне, а затем разогреть на пару или в микроволновой печи. В промежутке уберите её в холодильник не позднее чем через 2 часа."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (réponse de Christine Benlafquih à une lectrice) ; FSA et Anses pour le réfrigérateur",
+   "t": "Taste of Maroc (ответ Christine Benlafquih читательнице); FSA и Anses — о холодильнике"
+  },
+  "secrets.11.text": {
+   "fr": "Pour décorer, trace des lignes de cannelle et de sucre glace sur le dôme, et garde les amandes pour le sommet.",
+   "t": "Для украшения проведите на куполе линии из корицы и сахарной пудры, а миндаль оставьте для вершины."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi.net (grille de cannelle et de sucre glace) ; Lalla Moulati (lignes de sucre glace et de cannelle, amandes au centre)",
+   "t": "Bladi.net (сетка из корицы и сахарной пудры); Lalla Moulati (линии из сахарной пудры и корицы, миндаль в центре)"
+  },
+  "secrets.12.text": {
+   "fr": "« Medfouna » veut dire « enterrée » : le poulet est caché à l'intérieur du dôme de vermicelles.",
+   "t": "«Медфуна» означает «зарытая»: курица спрятана внутри купола из вермишели."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; Morocco World News (« enterre le poulet sous le reste de la seffa »)",
+   "t": "Taste of Maroc; Morocco World News («заройте курицу под остальной сеффой»)"
+  },
+  "mistakes.0": {
+   "fr": "Faire bouillir les vermicelles dans l'eau : ils deviennent mous et collants ; la vapeur les garde légers (Taste of Maroc).",
+   "t": "Варить вермишель в воде: она становится мягкой и липкой; на пару она остаётся лёгкой (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Tasser les vermicelles dans le couscoussier (Taste of Maroc).",
+   "t": "Утрамбовывать вермишель в кускуснице (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Trop cuire les vermicelles à la dernière vapeur : ils deviennent trop mous (Cooking with Alia).",
+   "t": "Передерживать вермишель при последнем пропаривании: она становится слишком мягкой (Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Noyer le poulet d'eau : il doit cuire surtout dans son propre jus (Taste of Maroc ; Choumicha n'ajoute que 10 cl d'eau).",
+   "t": "Заливать курицу большим количеством воды: она должна готовиться в основном в собственном соку (Taste of Maroc; Choumicha добавляет всего 10 сл воды)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser attacher et brûler le poulet ou les oignons au fond de la marmite : cela gâche la sauce (Taste of Maroc).",
+   "t": "Допускать, чтобы курица или лук прилипали ко дну кастрюли и пригорали: это портит соус (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Servir le poulet sans vérifier qu'il est cuit à cœur : chair blanche, jus clair, 70 °C à cœur (Anses) ou 75 °C pendant 30 secondes (FSA).",
+   "t": "Подавать курицу, не проверив, что она готова до самой середины: белое мясо, прозрачный сок, 70 °C в середине (Anses) или 75 °C в течение 30 секунд (FSA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le poulet cuit plus de 2 heures à température ambiante (Anses ; FSA).",
+   "t": "Оставлять готовую курицу при комнатной температуре дольше 2 часов (Anses; FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Servir tiède : la seffa medfouna se mange tout de suite, bien chaude (Taste of Maroc ; Cooking with Alia ; Choumicha ; Lalla Moulati).",
+   "t": "Подавать блюдо чуть тёплым: сеффу медфуну едят сразу, очень горячей (Taste of Maroc; Cooking with Alia; Choumicha; Lalla Moulati)."
+  },
+  "mistakes.8": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce qu'ils soient brûlants (FSA).",
+   "t": "Разогревать остатки несколько раз: только один раз, пока они не станут обжигающе горячими (FSA)."
+  },
+  "variants.0": {
+   "fr": "Aux raisins secs : rince-les, fais-les tremper, puis mélange-les aux vermicelles pour la dernière vapeur. Choumicha les ajoute « toujours » à la dernière cuisson à la vapeur ; Taste of Maroc, Morocco World News et Cooking with Alia aussi. Taste of Maroc propose aussi de les caraméliser à part, avec un peu de beurre et de sucre ou de miel.",
+   "t": "С изюмом: промойте его, замочите, затем перемешайте с вермишелью перед последним пропариванием. Choumicha «всегда» добавляет его при последнем пропаривании; Taste of Maroc, Morocco World News и Cooking with Alia — тоже. Taste of Maroc также предлагает карамелизовать его отдельно с небольшим количеством сливочного масла и сахара или мёда."
+  },
+  "variants.1": {
+   "fr": "Plus sucrée : mélange du sucre glace (ou du sucre) aux vermicelles chauds avec le beurre (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati).",
+   "t": "Более сладкая: вместе со сливочным маслом вмешайте в горячую вермишель сахарную пудру или обычный сахар (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati)."
+  },
+  "variants.2": {
+   "fr": "Sauce sucrée : un peu de miel dans la sauce réduite (Morocco World News et Cooking with Alia : 2 c. à s. pour un poulet), avec de la cannelle moulue (Cooking with Alia ; Lalla Moulati, qui ajoute aussi une cuillère de sucre).",
+   "t": "Сладкий соус: немного мёда в уваренный соус (Morocco World News и Cooking with Alia: 2 ст. л. на одну курицу) вместе с молотой корицей (Cooking with Alia; Lalla Moulati, которая добавляет ещё и ложку сахара)."
+  },
+  "variants.3": {
+   "fr": "Sauce plus riche : Taste of Maroc ajoute du beurre à l'huile d'olive.",
+   "t": "Более насыщенный соус: Taste of Maroc добавляет к оливковому маслу сливочное."
+  },
+  "variants.4": {
+   "fr": "Lait au dernier arrosage : Taste of Maroc remplace l'eau par du lait pour une version sucrée ; Lalla Moulati arrose les vermicelles d'un verre de lait ; Cooking with Alia ajoute du lait en poudre.",
+   "t": "Молоко для последнего сбрызгивания: Taste of Maroc для сладкого варианта заменяет воду молоком; Lalla Moulati поливает вермишель стаканом молока; Cooking with Alia добавляет сухое молоко."
+  },
+  "variants.5": {
+   "fr": "Méthode de Choumicha : après la première et la deuxième vapeur, pose le haut du couscoussier sur un bol, sale les vermicelles et rince-les à l'eau bouillante, puis huile-les, aère-les et laisse-les refroidir avant la vapeur suivante. Bladi.net verse aussi l'eau chaude du bas du couscoussier sur les vermicelles, puis les égoutte.",
+   "t": "Способ Choumicha: после первого и второго пропаривания поставьте верхнюю часть кускусницы на миску, посолите вермишель и промойте её кипятком, затем смажьте маслом, разрыхлите и дайте остыть перед следующим пропариванием. Bladi.net тоже поливает вермишель горячей водой из нижней кастрюли кускусницы, а затем даёт ей стечь."
+  },
+  "variants.6": {
+   "fr": "À l'agneau ou au bœuf : Choumicha cache des brochettes d'agneau cuites dans une sauce aux oignons compotés, avec des raisins secs dans les vermicelles ; Taste of Maroc prend de l'agneau ou du bœuf tendre, sans os, couvert d'eau et cuit plus longtemps.",
+   "t": "С бараниной или говядиной: Choumicha прячет шашлычки из баранины, приготовленные в соусе из томлёного лука, а в вермишель добавляет изюм; Taste of Maroc берёт нежную баранину или говядину без костей, заливает водой и готовит дольше."
+  },
+  "variants.7": {
+   "fr": "Au couscous à la place des vermicelles (Taste of Maroc ; Morocco World News).",
+   "t": "С кускусом вместо вермишели (Taste of Maroc; Morocco World News)."
+  },
+  "variants.8": {
+   "fr": "Décor de fête : abricots secs et dattes caramélisés, noix et petits œufs durs (Cooking with Alia) ; œufs durs et cacahuètes (Lalla Moulati) ; amandes frites mixées avec un peu de sucre glace et d'eau de fleur d'oranger (Taste of Maroc ; Cooking with Alia).",
+   "t": "Праздничное украшение: карамелизованные курага и финики, грецкие орехи и маленькие яйца вкрутую (Cooking with Alia); яйца вкрутую и арахис (Lalla Moulati); жареный миндаль, измельчённый в блендере с небольшим количеством сахарной пудры и воды из цветков апельсина (Taste of Maroc; Cooking with Alia)."
+  },
+  "variants.9": {
+   "fr": "Sans viande : la seffa sucrée se sert aussi en dessert (Morocco World News) ; Choumicha la fait aux raisins secs et aux amandes, servie avec du lait parfumé à l'eau de fleur d'oranger.",
+   "t": "Без мяса: сладкую сеффу подают и как десерт (Morocco World News); Choumicha готовит её с изюмом и миндалём и подаёт с молоком, ароматизированным водой из цветков апельсина."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.cannelle-baton.pl5": {
+   "fr": "bâton de cannelle / bâtons de cannelle",
+   "t": "палочек корицы"
+  }
+ }
+}

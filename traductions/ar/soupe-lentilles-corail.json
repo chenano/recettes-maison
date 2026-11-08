@@ -190,21 +190,13 @@
    "fr": "Pèle et hache {{oignon:full}}. Pèle et râpe gros {{carotte:full}}. Pèle et coupe en petits dés {{pomme-de-terre:full}}.",
    "t": "قشّر {{oignon:full}} وافرمها. قشّر {{carotte:full}} وابشرها بالثقوب الكبيرة للمبشرة. قشّر {{pomme-de-terre:full}} وقطّعها مكعبات صغيرة."
   },
-  "steps.2.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "بصل مقطّع شرائح رفيعة وثوم مهروس على لوح تقطيع"
-  },
-  "steps.2.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "تقطيع البصل شرائح رفيعة"
-  },
   "steps.3.title": {
    "fr": "Fais revenir l'oignon",
    "t": "شوّح البصل"
   },
   "steps.3.text": {
    "fr": "Dans la cocotte-minute ouverte, chauffe {{huile}} d'huile à feu moyen. Fais revenir l'oignon 1 à 2 minutes en remuant.",
-   "t": "في طنجرة الضغط وهي مفتوحة، سخّن {{huile}} من الزيت على نار متوسطة. شوّح البصل من 1 إلى 2 دقيقة مع التحريك."
+   "t": "في طنجرة الضغط وهي مفتوحة، سخّن {{huile}} من الزيت على نار متوسطة. شوّح البصل من دقيقة إلى دقيقتين مع التحريك."
   },
   "steps.4.title": {
    "fr": "Ajoute les légumes",
@@ -220,7 +212,7 @@
   },
   "steps.5.text": {
    "fr": "Ajoute les lentilles égouttées et remue 1 minute dans l'huile.",
-   "t": "أضف العدس المصفّى وقلّبه في الزيت لمدة 1 دقيقة."
+   "t": "أضف العدس المصفّى وقلّبه في الزيت لمدة دقيقة واحدة."
   },
   "steps.6.title": {
    "fr": "Mouille et écume",
@@ -260,7 +252,7 @@
   },
   "steps.9.text": {
    "fr": "Attends 1 à 2 minutes, puis mixe au mixeur plongeant jusqu'à obtenir un velouté bien lisse. Sans mixeur, passe la soupe dans une passoire fine en écrasant avec le dos de la louche.",
-   "t": "انتظر من 1 إلى 2 دقيقة، ثم اخلطها بالخلاط اليدوي حتى يصبح قوامها كريميًا ناعمًا تمامًا. إن لم يكن لديك خلاط، مرّر الشوربة في مصفاة ناعمة واهرسها بظهر المغرفة."
+   "t": "انتظر من دقيقة إلى دقيقتين، ثم اخلطها بالخلاط اليدوي حتى يصبح قوامها كريميًا ناعمًا تمامًا. إن لم يكن لديك خلاط، مرّر الشوربة في مصفاة ناعمة واهرسها بظهر المغرفة."
   },
   "steps.10.title": {
    "fr": "Assaisonne et ajuste",
@@ -396,7 +388,7 @@
   },
   "mistakes.1": {
    "fr": "Mixer la soupe dès l'ouverture : Yemek.com attend 1 à 2 minutes avant de la mixer.",
-   "t": "خلط الشوربة بالخلاط فور فتح الطنجرة: ينتظر Yemek.com من 1 إلى 2 دقيقة قبل خلطها."
+   "t": "خلط الشوربة بالخلاط فور فتح الطنجرة: ينتظر Yemek.com من دقيقة إلى دقيقتين قبل خلطها."
   },
   "mistakes.2": {
    "fr": "Mal rincer les lentilles (Nefis Yemek Tarifleri, Elif Atalar).",
@@ -416,7 +408,7 @@
   },
   "mistakes.6": {
    "fr": "Laisser les restes à température ambiante : mets-les au frigo dans les 1 à 2 heures, mange-les dans les 48 heures et réchauffe-les une seule fois, jusqu'à ce qu'ils fument partout (Food Standards Agency, Royaume-Uni).",
-   "t": "ترك البقايا في حرارة الغرفة: ضعها في الثلاجة خلال 1 إلى 2 ساعة، وتناولها خلال 48 ساعة، وسخّنها مرة واحدة فقط حتى يتصاعد منها البخار في كل أجزائها (Food Standards Agency، المملكة المتحدة)."
+   "t": "ترك البقايا في حرارة الغرفة: ضعها في الثلاجة خلال ساعة إلى ساعتين، وتناولها خلال 48 ساعة، وسخّنها مرة واحدة فقط حتى يتصاعد منها البخار في كل أجزائها (Food Standards Agency، المملكة المتحدة)."
   },
   "variants.0": {
    "fr": "Sans cocotte-minute : même recette dans une grande casserole, à petit frémissement, couvercle entrouvert, 20 à 25 minutes (Ozlem Warren, 2026) ou 25 à 30 minutes (Türk Mutfağı Haftası), en remuant de temps en temps. Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",

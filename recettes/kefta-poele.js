@@ -275,7 +275,7 @@ window.RECETTES.push({
   "Avec 3 c. à s. d'huile d'olive mélangées à la viande (Cooking With Alia, n° 664 et n° 453).",
   "Avec une pointe de cannelle et de la marjolaine (Choumicha, n° 771 et n° 943 ; cannelle aussi chez Taste of Maroc, en option, et chez Lalla Moulati en 2014 ; marjolaine séchée aussi chez Nada Kiffa, Taste of Maroc).",
   "Avec de l'ail (Choumicha n° 943 ; Bladi.net).",
-  "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+  "Version de Bladi.net : agneau, ail, ras el hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
   "Version de Lalla Moulati : fenouil (besbes) moulu, coriandre sèche, cumin, persil, piment fort (soudania) et petits morceaux de beurre.",
   "En brochettes grillées sur la braise, la façon la plus classique (Choumicha ; Cooking With Alia ; My Moroccan Food).",
   "Avec une sauce au yaourt, au persil, à la menthe et au citron (Cooking With Alia n° 453 ; Femmes du Maroc).",
@@ -467,7 +467,8 @@ window.RECETTES.push({
   "Œuf : seul Bladi.net en met un ; aucune des recettes de Choumicha, Cooking With Alia ou My Moroccan Food. Retenu : sans œuf.",
   "Lalla Moulati (2014) donne une kefta d'agneau à la menthe et à la cannelle (2 cuillères pour 1 kg), et ses articles d'assaisonnement de 2023 mettent cardamome, muscade, clou de girofle ou thym : style levantin, pas retenu pour les proportions.",
   "Femmes du Maroc republie la recette d'Alia Al Kasimi : elle n'est pas comptée comme une source indépendante de Cooking With Alia.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 15 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 15 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Taste of Maroc (tasteofmaroc.com) : la page « Moroccan Kefta Recipe » répond 403 (pare-feu « Blocked because of Malicious Activities ») le 7 novembre 2026 ; l'auteur n'a utilisé ni la page ni ses copies d'archive. Le même jour, à la contre-vérification, la page a répondu normalement (code 200, robots.txt sans interdiction) : elle et la recette de Nada Kiffa, sur le même site, ont alors été lues et servent de sources ajoutées ; la graisse de rognon qu'elles ajoutent à la viande n'est pas reprise.",

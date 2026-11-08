@@ -1,0 +1,450 @@
+{
+ "_slug": "sfenj",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Sfenj, beignets marocains en anneau",
+   "t": "Сфендж, марокканские пончики-кольца"
+  },
+  "darija": {
+   "fr": "sfenj",
+   "t": "сфендж"
+  },
+  "tagline": {
+   "fr": "Des beignets en anneau, croustillants dehors, légers et moelleux dedans, à manger tout chauds avec du sucre ou du miel et un thé à la menthe.",
+   "t": "Пончики-кольца, хрустящие снаружи, лёгкие и мягкие внутри; их едят горячими с сахаром или мёдом и мятным чаем."
+  },
+  "region": {
+   "fr": "Maroc ; aussi dans tout le Maghreb (Algérie, Tunisie, Libye)",
+   "t": "Марокко; также по всему Магрибу (Алжир, Тунис, Ливия)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé à la menthe",
+   "t": "Завтрак, полдник с мятным чаем"
+  },
+  "img_alt": {
+   "fr": "Sfenj en anneau, dorés et brillants, sur une assiette, à Marrakech",
+   "t": "Золотистые блестящие кольца сфенджа на тарелке, в Марракеше"
+  },
+  "serving": {
+   "fr": "Tout chauds, dès la sortie de l'huile (Morocco World News, 2013 ; Jewish Food Society), au petit-déjeuner ou au goûter de fin d'après-midi (Morocco World News, 2013 ; Wikipédia), avec un thé à la menthe (Morocco World News ; Hespress ; Wikipédia), ou avec un café ou une boisson au lait (Morocco World News, 2022). Nature, saupoudrés de sucre ou de sucre glace, ou trempés dans le miel (Wikipédia ; Morocco World News ; My Moroccan Food). Au Maroc, on les achète souvent tôt le matin chez le sfenji, dans les médinas (Morocco World News, 2013 ; Hespress). S'ils ont refroidi, réchauffe-les avant de servir (My Moroccan Food).",
+   "t": "Подают горячими, прямо из масла (Morocco World News, 2013; Jewish Food Society), на завтрак или на полдник ближе к вечеру (Morocco World News, 2013; Wikipédia), с мятным чаем (Morocco World News; Hespress; Wikipédia) или с кофе либо молочным напитком (Morocco World News, 2022). Без добавок, посыпанными сахаром или сахарной пудрой либо обмакнутыми в мёд (Wikipédia; Morocco World News; My Moroccan Food). В Марокко их часто покупают рано утром у продавца сфенджа, в мединах (Morocco World News, 2013; Hespress). Если они остыли, разогрейте их перед подачей (My Moroccan Food)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "сухих дрожжей"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (farine ordinaire)",
+   "t": "белой пшеничной муки (обычной)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "тёплой воды"
+  },
+  "ing.eau.note": {
+   "fr": "environ : la pâte doit être très collante ; ajoute quelques cuillères d'eau si elle ne l'est pas",
+   "t": "примерно: тесто должно быть очень липким; если это не так, добавьте несколько ложек воды"
+  },
+  "ing.1.group": {
+   "fr": "Friture",
+   "t": "Для фритюра"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture (par exemple tournesol)",
+   "t": "растительное масло для фритюра (например, подсолнечное)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour 6 cm de profondeur, sans dépasser le tiers de la hauteur de la casserole",
+   "t": "столько, чтобы слой был глубиной 6 см, но не выше трети высоты кастрюли"
+  },
+  "ing.huile-mains.name": {
+   "fr": "huile (pour les mains)",
+   "t": "масло (для рук)"
+  },
+  "ing.huile-mains.note": {
+   "fr": "un petit bol",
+   "t": "маленькая мисочка"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir, au choix",
+   "t": "Для подачи, на выбор"
+  },
+  "ing.sucre.name": {
+   "fr": "sucre en poudre ou sucre glace",
+   "t": "сахарный песок или сахарная пудра"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "мёд"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier et deux petits bols",
+   "t": "Большая миска и две маленькие мисочки"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Кухонные весы и мерный стакан"
+  },
+  "equipment.2": {
+   "fr": "Du film alimentaire ou un torchon propre",
+   "t": "Пищевая плёнка или чистое полотенце"
+  },
+  "equipment.3": {
+   "fr": "Le plus sûr : une friteuse électrique avec thermostat",
+   "t": "Самый безопасный вариант: электрическая фритюрница с термостатом"
+  },
+  "equipment.4": {
+   "fr": "Sinon : une casserole large et profonde, à fond épais, d'au moins 18 cm de haut, et un thermomètre de cuisson",
+   "t": "Или: широкая глубокая кастрюля высотой не менее 18 см с толстым дном и кухонный термометр"
+  },
+  "equipment.5": {
+   "fr": "Un couvercle ou une plaque assez grand pour couvrir la casserole, toujours à portée de main",
+   "t": "Крышка или противень, достаточно большие, чтобы накрыть кастрюлю, — всегда под рукой"
+  },
+  "equipment.6": {
+   "fr": "Une écumoire (ou une araignée) et une fourchette",
+   "t": "Шумовка (или сетчатая шумовка-паук) и вилка"
+  },
+  "equipment.7": {
+   "fr": "Une grille garnie de papier absorbant, ou un plat garni de papier absorbant",
+   "t": "Решётка, застеленная бумажными полотенцами, или блюдо, застеленное бумажными полотенцами"
+  },
+  "steps.0.title": {
+   "fr": "Délaye la levure",
+   "t": "Разведите дрожжи"
+  },
+  "steps.0.text": {
+   "fr": "Dans un petit bol, mélange {{levure}} de levure avec un peu d'eau tiède, prise sur les {{eau}} d'eau. Laisse reposer 10 minutes.",
+   "t": "В маленькой мисочке смешайте {{levure}} дрожжей с небольшим количеством тёплой воды из отмеренных {{eau}}. Оставьте на 10 минут."
+  },
+  "steps.0.tip": {
+   "fr": "Morocco World News (2022) laisse la levure au moins 10 minutes dans l'eau tiède ; My Moroccan Food, 5 à 10 minutes, jusqu'à ce qu'elle mousse.",
+   "t": "Morocco World News (2022) оставляет дрожжи в тёплой воде не менее чем на 10 минут; My Moroccan Food — на 5–10 минут, пока они не вспенятся."
+  },
+  "steps.0.timer.label": {
+   "fr": "Levure",
+   "t": "Дрожжи"
+  },
+  "steps.0.timer.done": {
+   "fr": "La levure a reposé : prépare la pâte.",
+   "t": "Дрожжи постояли: замесите тесто."
+  },
+  "steps.1.title": {
+   "fr": "Mélange la pâte",
+   "t": "Замесите тесто"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine et {{sel}} de sel. Ajoute la levure, puis verse le reste de l'eau petit à petit, en mélangeant à la main. La pâte doit être très collante, presque comme une pâte à crêpes épaisse. Si elle ne colle pas, ajoute quelques cuillères d'eau.",
+   "t": "В большой миске смешайте {{farine}} муки и {{sel}} соли. Добавьте дрожжи, затем понемногу вливайте оставшуюся воду, перемешивая рукой. Тесто должно быть очень липким, почти как густое тесто для блинов. Если оно не липнет, добавьте несколько ложек воды."
+  },
+  "steps.2.title": {
+   "fr": "Pétris longuement",
+   "t": "Вымешивайте долго"
+  },
+  "steps.2.text": {
+   "fr": "Pétris la pâte au moins 10 minutes, avec la paume de la main, dans le saladier ou sur un plan de travail fariné. Au début, elle colle beaucoup : c'est normal, ça devient plus facile après quelques minutes. Elle est prête quand elle est lisse et très élastique. Tu peux aussi utiliser un robot pétrisseur.",
+   "t": "Вымешивайте тесто ладонью не менее 10 минут, в миске или на присыпанной мукой рабочей поверхности. Вначале оно сильно липнет — это нормально, через несколько минут станет легче. Тесто готово, когда оно гладкое и очень эластичное. Можно также использовать тестомес."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Вымешивание"
+  },
+  "steps.2.timer.done": {
+   "fr": "Lisse et très élastique ? Mets la pâte à lever. Sinon, pétris encore quelques minutes.",
+   "t": "Гладкое и очень эластичное? Поставьте тесто подниматься. Если нет, вымешивайте ещё несколько минут."
+  },
+  "steps.3.title": {
+   "fr": "Laisse lever 4 heures",
+   "t": "Дайте подняться 4 часа"
+  },
+  "steps.3.text": {
+   "fr": "Couvre le saladier de film alimentaire ou d'un torchon propre. Laisse lever 4 heures dans un endroit tiède, jusqu'à ce que la pâte ait triplé de volume.",
+   "t": "Накройте миску пищевой плёнкой или чистым полотенцем. Оставьте подниматься на 4 часа в тёплом месте, пока тесто не увеличится в объёме втрое."
+  },
+  "steps.3.tip": {
+   "fr": "Chez Mohamed El Hadri, sfenji de la médina de Chefchaouen, la pâte se préparait la nuit et levait jusqu'au matin (Hespress).",
+   "t": "У Mohamed El Hadri, мастера сфенджа из медины Шефшауэна, тесто готовили ночью, и оно поднималось до утра (Hespress)."
+  },
+  "steps.3.timer.label": {
+   "fr": "Levée de la pâte",
+   "t": "Подъём теста"
+  },
+  "steps.3.timer.done": {
+   "fr": "La pâte a triplé ? Prépare la friture. Sinon, laisse-la lever encore un peu.",
+   "t": "Тесто увеличилось втрое? Подготовьте фритюр. Если нет, дайте ему подняться ещё немного."
+  },
+  "steps.4.title": {
+   "fr": "Prépare la friture",
+   "t": "Подготовьте фритюр"
+  },
+  "steps.4.text": {
+   "fr": "Le plus sûr est une friteuse électrique avec thermostat. Sinon, prends une casserole large et profonde, à fond épais, d'au moins 18 cm de haut. Verse l'{{huile}} sur 6 cm de profondeur, jamais plus d'un tiers de la hauteur. Tourne les poignées vers l'intérieur. Garde à portée de main un couvercle assez grand pour couvrir la casserole.",
+   "t": "Самый безопасный вариант — электрическая фритюрница с термостатом. Если её нет, возьмите широкую глубокую кастрюлю высотой не менее 18 см с толстым дном. Налейте {{huile}} слоем 6 см, но никогда не выше трети высоты кастрюли. Поверните ручки внутрь. Держите под рукой крышку, достаточно большую, чтобы накрыть кастрюлю."
+  },
+  "steps.4.tip": {
+   "fr": "La friteuse avec thermostat règle la température toute seule : c'est bien plus sûr (London Fire Brigade). Le gouvernement du Québec déconseille même de frire dans une casserole.",
+   "t": "Фритюрница с термостатом сама поддерживает температуру — это гораздо безопаснее (London Fire Brigade). Правительство Квебека даже не рекомендует жарить во фритюре в кастрюле."
+  },
+  "steps.5.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "Нагрейте масло до 180 °C"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe l'huile à feu moyen-vif jusqu'à 180 °C sur le thermomètre, puis règle le feu pour garder cette température. À partir de maintenant, ne quitte plus l'huile des yeux. Si elle fume, elle est trop chaude : coupe le feu et laisse-la refroidir.",
+   "t": "Нагревайте масло на огне выше среднего до 180 °C по термометру, затем отрегулируйте огонь, чтобы держать эту температуру. С этого момента не спускайте глаз с масла. Если оно дымит, оно перегрето: выключите огонь и дайте ему остыть."
+  },
+  "steps.5.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas la casserole. Si tu peux le faire sans danger, pose vite le couvercle sur la casserole (gouvernement du Québec, USFA), puis coupe le feu (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec), sans te pencher au-dessus de la casserole (pompiers de Cambridgeshire). Appelle ensuite les pompiers, même si le feu semble éteint (gouvernement du Québec). Si le feu grandit, ou si tu ne peux pas approcher sans danger, n'essaie pas de l'éteindre : fais sortir tout le monde, ferme la porte et appelle les pompiers (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec).",
+   "t": "Если масло загорелось: ни в коем случае не лейте воду и не передвигайте кастрюлю. Если это можно сделать без опасности, быстро накройте кастрюлю крышкой (правительство Квебека, USFA), затем выключите огонь (London Fire Brigade, пожарная служба Кембриджшира, правительство Квебека), не наклоняясь над кастрюлей (пожарная служба Кембриджшира). Затем вызовите пожарных, даже если огонь, кажется, погас (правительство Квебека). Если огонь разгорается или вы не можете безопасно подойти, не пытайтесь его потушить: выведите всех, закройте дверь и вызовите пожарных (London Fire Brigade, пожарная служба Кембриджшира, правительство Квебека)."
+  },
+  "steps.6.title": {
+   "fr": "Façonne un anneau",
+   "t": "Сформуйте кольцо"
+  },
+  "steps.6.text": {
+   "fr": "Verse un peu d'{{huile-mains}} dans un petit bol et huile-toi les doigts. Prends un morceau de pâte de la taille d'un œuf. Enfonce les pouces au centre pour faire un trou, puis étire la pâte en un grand anneau, large comme un bracelet. Fais un trou bien grand : il rétrécit beaucoup à la cuisson.",
+   "t": "Налейте немного масла в маленькую мисочку и смажьте им пальцы. Возьмите кусок теста размером с яйцо. Продавите большими пальцами отверстие в центре, затем растяните тесто в большое кольцо шириной с браслет. Делайте отверстие очень большим: при жарке оно сильно уменьшается."
+  },
+  "steps.6.tip": {
+   "fr": "Beaucoup de recettes trempent les mains dans l'eau. Ici, on les huile, comme le propose aussi Morocco World News (2013) : l'eau et l'huile chaude font un mélange dangereux (London Fire Brigade).",
+   "t": "Во многих рецептах руки смачивают водой. Здесь их смазывают маслом, как советует и Morocco World News (2013): вода и горячее масло — опасное сочетание (London Fire Brigade)."
+  },
+  "steps.7.title": {
+   "fr": "Plonge-le doucement",
+   "t": "Осторожно опустите в масло"
+  },
+  "steps.7.text": {
+   "fr": "Fais glisser l'anneau doucement dans l'huile chaude, en le posant loin de toi. Fais-en frire 3 ou 4 à la fois au plus, selon la taille de la casserole, sans les serrer.",
+   "t": "Осторожно опустите кольцо в горячее масло, движением от себя. Жарьте не больше 3 или 4 штук за раз, в зависимости от размера кастрюли, чтобы им не было тесно."
+  },
+  "steps.8.title": {
+   "fr": "Fais dorer les deux faces",
+   "t": "Обжарьте с обеих сторон"
+  },
+  "steps.8.text": {
+   "fr": "Laisse frire 1 à 2 minutes, puis retourne le sfenj avec l'écumoire. Compte encore 1 à 2 minutes, jusqu'à ce qu'il soit gonflé et bien doré des deux côtés.",
+   "t": "Жарьте 1–2 минуты, затем переверните сфендж шумовкой. Жарьте ещё 1–2 минуты, пока он не станет пышным и хорошо подрумяненным с обеих сторон."
+  },
+  "steps.9.title": {
+   "fr": "Égoutte",
+   "t": "Дайте стечь маслу"
+  },
+  "steps.9.text": {
+   "fr": "Sors le sfenj avec l'écumoire ou une fourchette, jamais avec les doigts. Pose-le sur la grille garnie de papier absorbant.",
+   "t": "Выньте сфендж шумовкой или вилкой, ни в коем случае не пальцами. Положите его на решётку, застеленную бумажными полотенцами."
+  },
+  "steps.10.title": {
+   "fr": "Continue par fournées",
+   "t": "Продолжайте партиями"
+  },
+  "steps.10.text": {
+   "fr": "Façonne et fais frire le reste de la pâte de la même façon, en te huilant les doigts avant chaque morceau. Garde l'huile autour de 180 °C.",
+   "t": "Сформуйте и обжарьте остальное тесто так же, смазывая пальцы маслом перед каждым куском. Держите температуру масла около 180 °C."
+  },
+  "steps.11.title": {
+   "fr": "Éteins le feu",
+   "t": "Выключите огонь"
+  },
+  "steps.11.text": {
+   "fr": "Dès que le dernier sfenj est sorti, éteins le feu ou la friteuse. Ne laisse pas la casserole d'huile chaude sans surveillance.",
+   "t": "Как только вынете последний сфендж, выключите огонь или фритюрницу. Не оставляйте кастрюлю с горячим маслом без присмотра."
+  },
+  "steps.12.title": {
+   "fr": "Sers tout chaud",
+   "t": "Подавайте горячим"
+  },
+  "steps.12.text": {
+   "fr": "Sers les sfenj tout de suite, bien chauds, avec un thé à la menthe. Mange-les nature, saupoudrés de {{sucre}}, ou trempés dans le {{miel}}.",
+   "t": "Подавайте сфендж сразу, горячим, с мятным чаем. Ешьте его без добавок, посыпав сахарным песком или сахарной пудрой, или обмакивая в мёд."
+  },
+  "steps.12.tip": {
+   "fr": "S'ils ont refroidi, réchauffe-les avant de servir (My Moroccan Food).",
+   "t": "Если сфендж остыл, разогрейте его перед подачей (My Moroccan Food)."
+  },
+  "secrets.0.text": {
+   "fr": "La pâte doit être très molle et collante, presque comme une pâte à crêpes épaisse. Si elle ne colle pas, ajoute quelques cuillères d'eau.",
+   "t": "Тесто должно быть очень мягким и липким, почти как густое тесто для блинов. Если оно не липнет, добавьте несколько ложек воды."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Bladi.net (« pâte semi-liquide, visqueuse ») ; Jewish Food Society (famille Stulman, de Rabat : « très lâche et collante »)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Bladi.net («полужидкое, вязкое тесто»); Jewish Food Society (семья Stulman из Рабата: «очень жидкое и липкое»)"
+  },
+  "secrets.1.text": {
+   "fr": "Pétris jusqu'à ce que la pâte soit très élastique : elle colle au début, puis devient plus facile à travailler.",
+   "t": "Вымешивайте, пока тесто не станет очень эластичным: вначале оно липнет, а потом с ним становится легче работать."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (10 minutes) ; Jewish Food Society (15 minutes)",
+   "t": "My Moroccan Food (10 минут); Jewish Food Society (15 минут)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse la pâte lever jusqu'à ce qu'elle triple : 4 heures dans un endroit tiède.",
+   "t": "Дайте тесту подняться, пока оно не увеличится втрое: 4 часа в тёплом месте."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (4 heures) ; Morocco World News, 2022 (4 à 5 heures)",
+   "t": "My Moroccan Food (4 часа); Morocco World News, 2022 (4–5 часов)"
+  },
+  "secrets.3.text": {
+   "fr": "Mohamed El Hadri, sfenji à Chefchaouen à partir du milieu des années 1940, préparait sa pâte la nuit, avec de la levure, du sel et de la farine tamisée, bien pétris. Il la laissait lever dans un récipient couvert, puis faisait frire dès les premières heures du matin.",
+   "t": "Mohamed El Hadri, мастер сфенджа в Шефшауэне с середины 1940-х годов, готовил тесто ночью из дрожжей, соли и просеянной муки, хорошо его вымешивая. Он оставлял тесто подниматься в накрытой посуде, а жарить начинал с самого раннего утра."
+  },
+  "secrets.3.source": {
+   "fr": "Hespress (Chefchaouen, 31 mai 2019)",
+   "t": "Hespress (Шефшауэн, 31 мая 2019 г.)"
+  },
+  "secrets.4.text": {
+   "fr": "Fais un grand trou : il rétrécit beaucoup à la friture. S'il est trop petit, tu obtiens une boule plutôt qu'un anneau.",
+   "t": "Делайте большое отверстие: при жарке оно сильно уменьшается. Если оно слишком маленькое, получится скорее шарик, чем кольцо."
+  },
+  "secrets.4.source": {
+   "fr": "Jewish Food Society (famille Stulman, de Rabat) ; My Moroccan Food (« un large anneau »)",
+   "t": "Jewish Food Society (семья Stulman из Рабата); My Moroccan Food («широкое кольцо»)"
+  },
+  "secrets.5.text": {
+   "fr": "Vérifie la température avec un thermomètre : 180 °C.",
+   "t": "Проверяйте температуру термометром: 180 °C."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (180 °C) ; Jewish Food Society, deux recettes (350 °F, soit environ 177 °C)",
+   "t": "My Moroccan Food (180 °C); Jewish Food Society, два рецепта (350 °F, то есть около 177 °C)"
+  },
+  "secrets.6.text": {
+   "fr": "Ne charge pas trop la casserole : 3 ou 4 sfenj à la fois, selon sa taille.",
+   "t": "Не перегружайте кастрюлю: 3 или 4 сфенджа за раз, в зависимости от её размера."
+  },
+  "secrets.6.source": {
+   "fr": "Jewish Food Society (3 à la fois ; 4 ou 5 chez la famille Stulman)",
+   "t": "Jewish Food Society (по 3 за раз; у семьи Stulman — 4 или 5)"
+  },
+  "secrets.7.text": {
+   "fr": "La pâte n'est pas sucrée : chacun choisit sa garniture, sucre, miel ou même un œuf.",
+   "t": "Тесто несладкое: каждый сам выбирает, с чем его есть, — с сахаром, мёдом или даже с яйцом."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food (sfenj non sucré ; sucre, miel ou œuf au plat) ; Morocco World News, 2022 (une pincée de sucre par-dessus)",
+   "t": "My Moroccan Food (несладкий сфендж; сахар, мёд или яичница-глазунья); Morocco World News, 2022 (щепотка сахара сверху)"
+  },
+  "secrets.8.text": {
+   "fr": "Le sfenj se mange chaud. S'il a refroidi, réchauffe-le avant de le servir.",
+   "t": "Сфендж едят горячим. Если он остыл, разогрейте его перед подачей."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Morocco World News, 2013 (« servez-les chauds »)",
+   "t": "My Moroccan Food; Morocco World News, 2013 («подавайте их горячими»)"
+  },
+  "secrets.9.text": {
+   "fr": "Chez le sfenji, les beignets sont enfilés sur de fines lanières de feuille de palmier, pour les emporter en grappes.",
+   "t": "У продавца сфенджа пончики нанизывают на тонкие полоски пальмового листа, чтобы уносить их связками."
+  },
+  "secrets.9.source": {
+   "fr": "Hespress (Chefchaouen) ; Wikipédia (photo prise à Essaouira)",
+   "t": "Hespress (Шефшауэн); Wikipédia (фото сделано в Эс-Сувейре)"
+  },
+  "secrets.10.text": {
+   "fr": "À Chefchaouen, Mohamed El Hadri faisait d'abord frire le sfenj à l'huile d'olive ; au milieu des années 1950, il est passé à l'« huile roumi », vendue en fûts.",
+   "t": "В Шефшауэне Mohamed El Hadri сначала жарил сфендж на оливковом масле; в середине 1950-х годов он перешёл на «масло руми», которое продавали в бочках."
+  },
+  "secrets.10.source": {
+   "fr": "Hespress (souvenirs du fils d'un sfenji de Chefchaouen)",
+   "t": "Hespress (воспоминания сына мастера сфенджа из Шефшауэна)"
+  },
+  "secrets.11.text": {
+   "fr": "Sors les sfenj avec une écumoire ou une fourchette, jamais avec les doigts.",
+   "t": "Вынимайте сфендж шумовкой или вилкой, ни в коем случае не пальцами."
+  },
+  "secrets.11.source": {
+   "fr": "Morocco World News, 2022 ; My Moroccan Food (écumoire)",
+   "t": "Morocco World News, 2022; My Moroccan Food (шумовка)"
+  },
+  "mistakes.0": {
+   "fr": "Chauffer l'huile jusqu'à ce qu'elle fume, comme le dit une ancienne recette de Bladi.net : une huile qui fume est trop chaude ; il faut couper le feu (London Fire Brigade, USFA), ou au moins le baisser (pompiers de Cambridgeshire, gouvernement du Québec), et ne jamais la laisser continuer à chauffer (gouvernement du Québec).",
+   "t": "Нагревать масло до появления дыма, как сказано в одном старом рецепте Bladi.net: дымящееся масло перегрето; нужно выключить огонь (London Fire Brigade, USFA) или хотя бы убавить его (пожарная служба Кембриджшира, правительство Квебека) и никогда не давать маслу нагреваться дальше (правительство Квебека)."
+  },
+  "mistakes.1": {
+   "fr": "Remplir la casserole d'huile à plus d'un tiers de sa hauteur (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Наливать масло в кастрюлю выше трети её высоты (London Fire Brigade, пожарная служба Кембриджшира)."
+  },
+  "mistakes.2": {
+   "fr": "Quitter l'huile des yeux, même quelques secondes (pompiers de Cambridgeshire, USFA, gouvernement du Québec).",
+   "t": "Отводить глаза от масла, даже на несколько секунд (пожарная служба Кембриджшира, USFA, правительство Квебека)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser tomber de l'eau dans l'huile chaude : l'huile peut bouillonner et déborder (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Допускать, чтобы вода попала в горячее масло: масло может забурлить и перелиться через край (London Fire Brigade, пожарная служба Кембриджшира)."
+  },
+  "mistakes.4": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer la casserole en flammes (London Fire Brigade, gouvernement du Québec, pompiers de Cambridgeshire).",
+   "t": "Заливать водой горящее масло или передвигать горящую кастрюлю (London Fire Brigade, правительство Квебека, пожарная служба Кембриджшира)."
+  },
+  "mistakes.5": {
+   "fr": "Se pencher au-dessus d'une casserole en feu pour atteindre les boutons (pompiers de Cambridgeshire).",
+   "t": "Наклоняться над горящей кастрюлей, чтобы дотянуться до переключателей плиты (пожарная служба Кембриджшира)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre trop de sfenj à la fois dans l'huile (Jewish Food Society).",
+   "t": "Жарить слишком много сфенджа за раз (Jewish Food Society)."
+  },
+  "mistakes.7": {
+   "fr": "Faire un trou trop petit : le sfenj devient une boule (Jewish Food Society).",
+   "t": "Делать слишком маленькое отверстие: сфендж превращается в шарик (Jewish Food Society)."
+  },
+  "mistakes.8": {
+   "fr": "Faire une pâte trop ferme : elle doit être très collante (My Moroccan Food).",
+   "t": "Делать слишком тугое тесто: оно должно быть очень липким (My Moroccan Food)."
+  },
+  "mistakes.9": {
+   "fr": "Écourter la levée : la pâte doit tripler de volume (My Moroccan Food ; Morocco World News, 2022).",
+   "t": "Сокращать подъём теста: тесто должно увеличиться в объёме втрое (My Moroccan Food; Morocco World News, 2022)."
+  },
+  "mistakes.10": {
+   "fr": "Sortir les sfenj de l'huile avec les doigts (Morocco World News, 2022).",
+   "t": "Вынимать сфендж из масла пальцами (Morocco World News, 2022)."
+  },
+  "variants.0": {
+   "fr": "Sfenj matifiyya : aplati puis frit une seconde fois, parfois avec un œuf (Wikipédia). À Chefchaouen, la « sfenja matfiya » est un œuf beldi entre deux morceaux de sfenj croustillants (Hespress). La mère de Nargisse Benkabbou aime son sfenj avec un œuf au plat (My Moroccan Food).",
+   "t": "Сфендж матифийя: его расплющивают и обжаривают второй раз, иногда с яйцом (Wikipédia). В Шефшауэне «сфенджа матфия» — это деревенское яйцо между двумя кусками хрустящего сфенджа (Hespress). Мама Nargisse Benkabbou любит сфендж с яичницей-глазуньей (My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Au sirop : un sirop de sucre et d'eau, cuit jusqu'à ce qu'une goutte posée sur une assiette garde sa forme (stade « perle »), puis un peu de miel hors du feu ; on y trempe les sfenj égouttés (Bladi.net).",
+   "t": "С сиропом: сироп из сахара и воды варят, пока капля на тарелке не будет держать форму (стадия «жемчуг»), затем вне огня добавляют немного мёда; в него обмакивают обсушенный сфендж (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Salés, ou nature (Bladi.net).",
+   "t": "Солёный или без добавок (Bladi.net)."
+  },
+  "variants.3": {
+   "fr": "À la cuillère : prends la pâte avec une cuillère et pousse-la dans l'huile avec une autre cuillère (Bladi.net, qui précise qu'on la façonne normalement avec les doigts).",
+   "t": "Ложкой: наберите тесто одной ложкой и столкните его в масло другой (Bladi.net, где уточняется, что обычно его формуют пальцами)."
+  },
+  "variants.4": {
+   "fr": "Pâte encore plus liquide, presque une pâte à frire : Bladi.net la travaille au pétrin électrique ; Morocco World News (2022) la mélange simplement à la cuillère en bois.",
+   "t": "Ещё более жидкое тесто, почти как кляр: Bladi.net замешивает его в электрическом тестомесе; Morocco World News (2022) просто перемешивает его деревянной ложкой."
+  },
+  "variants.5": {
+   "fr": "Chez les juifs marocains, le sfenj est un classique de Hanoukka (Wikipédia ; The Nosher) : avec un zeste d'orange dans la pâte, arrosé de miel et de pistaches moulues (Jewish Food Society), ou avec du sucre dans la pâte et servi au sucre, au sucre à la cannelle ou au miel (Jewish Food Society, famille Stulman, de Rabat).",
+   "t": "У марокканских евреев сфендж — классическое блюдо Хануки (Wikipédia; The Nosher): с апельсиновой цедрой в тесте, политый мёдом и посыпанный молотыми фисташками (Jewish Food Society), или с сахаром в тесте, его подают с сахаром, сахаром с корицей или мёдом (Jewish Food Society, семья Stulman из Рабата)."
+  },
+  "variants.6": {
+   "fr": "Version « prestige », enrichie d'œufs, de lait tiède, de beurre fondu et d'eau de fleur d'oranger (Lalla Moulati).",
+   "t": "Версия «престиж», обогащённая яйцами, тёплым молоком, растопленным сливочным маслом и водой из цветков апельсина (Lalla Moulati)."
+  },
+  "variants.7": {
+   "fr": "Ailleurs au Maghreb : khfaf ou ftayr en Algérie, sfinz en Libye (Wikipédia).",
+   "t": "В других странах Магриба: хфаф или фтайр в Алжире, сфинз в Ливии (Wikipédia)."
+  },
+  "variants.8": {
+   "fr": "Autrefois à Marrakech, à l'époque des grands-parents du chef Mustafa an-Nakir, on mangeait souvent au petit-déjeuner de la viande de tête avec du sfenj (Wikipédia).",
+   "t": "Раньше в Марракеше, во времена бабушек и дедушек шеф-повара Mustafa an-Nakir, на завтрак часто ели мясо с головы со сфенджем (Wikipédia)."
+  }
+ }
+}

@@ -39,12 +39,12 @@
    "t": "olive oil or neutral oil (sunflower)"
   },
   "ing.oignon.name": {
-   "fr": "gros oignon (environ 200 g)",
-   "t": "large onion (about 200 g)"
+   "fr": "gros oignon",
+   "t": "large onion"
   },
   "ing.oignon.pl": {
-   "fr": "gros oignons (environ 200 g chacun)",
-   "t": "large onions (about 200 g each)"
+   "fr": "gros oignons",
+   "t": "large onions"
   },
   "ing.tomates-rapees.name": {
    "fr": "tomate mûre",
@@ -252,7 +252,7 @@
   },
   "steps.1.text": {
    "fr": "Hache grossièrement {{oignon:full}}. Râpe {{tomates-rapees:full}} et jette la peau. Ficelle ensemble {{persil}} de persil et {{coriandre}} de coriandre en un bouquet.",
-   "t": "Roughly chop {{oignon:full}}. Grate {{tomates-rapees:full}} and throw away the skin. Tie {{persil}} of parsley and {{coriandre}} of coriander together into a bouquet."
+   "t": "Roughly chop {{oignon:full}}. Grate {{tomates-rapees:full}} and throw away the skin. Tie {{persil}} of parsley and {{coriandre}} of coriander together with string to make a bunch of herbs."
   },
   "steps.1.img.alt": {
    "fr": "Tomate râpée sur une râpe",
@@ -440,7 +440,7 @@
   },
   "secrets.1.text": {
    "fr": "Garde la viande en gros morceaux (sur l'os chez Taste of Maroc) : selon Nargisse Benkabbou, les petits morceaux rapetissent pendant les heures de cuisson et se perdent dans le bouillon.",
-   "t": "Keep the meat in large pieces (on the bone at Taste of Maroc): according to Nargisse Benkabbou, small pieces shrink during the hours of cooking and get lost in the broth."
+   "t": "Keep the meat in large pieces (on the bone in Taste of Maroc's recipe): according to Nargisse Benkabbou, small pieces shrink during the hours of cooking and get lost in the broth."
   },
   "secrets.1.source": {
    "fr": "My Moroccan Food, Nargisse Benkabbou ; Taste of Maroc, recette du couscous bidaoui",
@@ -600,7 +600,7 @@
   },
   "variants.0": {
    "fr": "Tfaya (variante, pas la base) : oignons, rouges de préférence, et raisins secs trempés 15 min, mijotés à couvert sur feu moyen-doux 30 min à 1 h avec beurre, miel, cannelle, poivre, gingembre, curcuma, safran, une pincée de sel et un peu d'eau, jusqu'à ce que le jus devienne un sirop épais ; un peu d'eau de fleur d'oranger à la fin si tu veux. Pose-la sur le couscous ou sers-la à part (Taste of Maroc ; version au miel et à la cannelle chez My Moroccan Food).",
-   "t": "Tfaya (a variation, not the basic recipe): onions, preferably red, and raisins soaked for 15 min, simmered covered over medium-low heat for 30 min to 1 h with butter, honey, cinnamon, pepper, ginger, turmeric, saffron, a pinch of salt and a little water, until the juices become a thick syrup; a little orange blossom water at the end if you like. Spoon it over the couscous or serve it separately (Taste of Maroc; a honey and cinnamon version at My Moroccan Food)."
+   "t": "Tfaya (a variation, not the basic recipe): onions, preferably red, and raisins soaked for 15 min, simmered covered over medium-low heat for 30 min to 1 h with butter, honey, cinnamon, pepper, ginger, turmeric, saffron, a pinch of salt and a little water, until the juices become a thick syrup; a little orange blossom water at the end if you like. Spoon it over the couscous or serve it separately (Taste of Maroc; a honey and cinnamon version from My Moroccan Food)."
   },
   "variants.1": {
    "fr": "Graine au lait : remplace l'eau du troisième roulage par du lait pour une semoule plus riche (Taste of Maroc).",
@@ -608,7 +608,7 @@
   },
   "variants.2": {
    "fr": "Légumes de saison : fèves avec le chou, patate douce avec la courge (Taste of Maroc) ; aubergine chez Royal Mansour, Dari et Le Petit Journal, qui cite aussi le céleri et les fèves en été.",
-   "t": "Seasonal vegetables: fava beans with the cabbage, sweet potato with the squash (Taste of Maroc); aubergine at Royal Mansour, Dari and Le Petit Journal, which also mentions celery and fava beans in summer."
+   "t": "Seasonal vegetables: fava beans with the cabbage, sweet potato with the squash (Taste of Maroc); aubergine in the recipes from Royal Mansour, Dari and Le Petit Journal, which also mentions celery and fava beans in summer."
   },
   "variants.3": {
    "fr": "Smen sur la graine chaude au lieu du bouillon (Couscous Dari ; My Moroccan Food).",
@@ -633,6 +633,10 @@
   "variants.8": {
    "fr": "Version palace du chef Karim Benbaba (Royal Mansour) : chaque légume cuit à part dans un bouillon de légumes filtré, puis dressé en alternant les couleurs.",
    "t": "Luxury hotel version by chef Karim Benbaba (Royal Mansour): each vegetable cooked separately in a strained vegetable stock, then arranged in alternating colours."
+  },
+  "ing.oignon.note": {
+   "fr": "environ 200 g pièce",
+   "t": "about 200 g each"
   }
  }
 }

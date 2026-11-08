@@ -1,0 +1,502 @@
+{
+ "_slug": "briouates-kefta",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Briouates à la kefta",
+   "t": "Kefta briouats"
+  },
+  "darija": {
+   "fr": "briwat bel kefta",
+   "t": "briwat bel kefta"
+  },
+  "tagline": {
+   "fr": "De petits triangles de feuilles de brick croustillants, farcis de kefta aux herbes, au cumin et à la cannelle, liée aux œufs : un classique marocain, à saupoudrer de sucre glace si tu aimes le sucré-salé.",
+   "t": "Small, crisp triangles of brick pastry sheets, filled with kefta seasoned with herbs, cumin and cinnamon and bound with egg: a Moroccan classic, to dust with icing sugar if you like sweet and savoury together."
+  },
+  "region": {
+   "fr": "Maroc. My Moroccan Food la dit « classique au Maroc ». Aucune source lue ne donne de région d'origine précise.",
+   "t": "Morocco. My Moroccan Food calls it a classic in Morocco. None of the sources read gives a precise region of origin."
+  },
+  "occasion": {
+   "fr": "Ftour du ramadan (Femmes du Maroc ; Choumicha, rubrique Ramadan) et réceptions (Choumicha, rubriques « Pour recevoir » et « Recettes de fêtes »).",
+   "t": "Ramadan iftar (Femmes du Maroc; Choumicha, Ramadan section) and receptions (Choumicha, “Pour recevoir” and “Recettes de fêtes” sections)."
+  },
+  "img_alt": {
+   "fr": "Briouates pliées en triangle et dorées, sur une assiette blanche (la photo ne précise pas leur garniture)",
+   "t": "Golden briouats folded into triangles, on a white plate (the photo does not specify their filling)"
+  },
+  "serving": {
+   "fr": "Sers les briouates bien chaudes (Choumicha ; Bladi.net ; Femmes du Maroc). Bladi.net les pose en couronne autour d'une soucoupe de sucre glace et de cannelle ; Femmes du Maroc les saupoudre de cannelle et de sucre glace ; My Moroccan Food les sert sur de la menthe hachée, avec beaucoup de sucre glace et de cannelle. Elles se servent au ftour du ramadan (Femmes du Maroc) et aux réceptions (Choumicha). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "Serve the briouats piping hot (Choumicha; Bladi.net; Femmes du Maroc). Bladi.net arranges them in a ring around a saucer of icing sugar and cinnamon; Femmes du Maroc dusts them with cinnamon and icing sugar; My Moroccan Food serves them on chopped mint, with plenty of icing sugar and cinnamon. They are served at the Ramadan iftar (Femmes du Maroc) and at receptions (Choumicha). Leftovers: into the fridge within 2 hours, eat within 48 hours; reheat them only once, until piping hot in the centre (FSA). Your fridge should be at 4 °C in its coldest part (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La farce",
+   "t": "The filling"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile (ou de beurre)",
+   "t": "oil (or butter)"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher finement",
+   "t": "to be finely chopped"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf ou agneau)",
+   "t": "halal minced meat (beef or lamb)"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle moulue",
+   "t": "ground cinnamon"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.1.group": {
+   "fr": "Pliage et friture",
+   "t": "Folding and frying"
+  },
+  "ing.feuilles.name": {
+   "fr": "de feuilles de brick (ou de warqa)",
+   "t": "brick pastry sheets (or warqa)"
+  },
+  "ing.jaune.name": {
+   "fr": "jaune d'œuf",
+   "t": "egg yolk"
+  },
+  "ing.jaune.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "egg yolks"
+  },
+  "ing.jaune.note": {
+   "fr": "pour coller ; prends un jaune entier, même pour une petite fournée",
+   "t": "for sealing; use a whole yolk, even for a small batch"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile végétale de friture",
+   "t": "vegetable oil for deep-frying"
+  },
+  "ing.huile-friture.note": {
+   "fr": "casserole remplie au tiers de sa hauteur au plus",
+   "t": "saucepan filled to a third of its depth at most"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir (facultatif)",
+   "t": "To serve (optional)"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "sucre glace",
+   "t": "icing sugar"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "si tu aimes le sucré-salé",
+   "t": "if you like sweet and savoury together"
+  },
+  "ing.cannelle-service.name": {
+   "fr": "cannelle moulue",
+   "t": "ground cinnamon"
+  },
+  "ing.cannelle-service.note": {
+   "fr": "avec le sucre glace",
+   "t": "with the icing sugar"
+  },
+  "equipment.0": {
+   "fr": "Une planche et un couteau",
+   "t": "A chopping board and a knife"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle et une cuillère en bois",
+   "t": "A large frying pan and a wooden spoon"
+  },
+  "equipment.2": {
+   "fr": "Un bol et une fourchette pour les œufs",
+   "t": "A bowl and a fork for the eggs"
+  },
+  "equipment.3": {
+   "fr": "Un grand plat pour laisser refroidir la farce",
+   "t": "A large dish to let the filling cool"
+  },
+  "equipment.4": {
+   "fr": "Un torchon propre, légèrement humide, pour couvrir les feuilles",
+   "t": "A clean, slightly damp tea towel to cover the sheets"
+  },
+  "equipment.5": {
+   "fr": "Une plaque couverte de papier sulfurisé",
+   "t": "A tray lined with baking parchment"
+  },
+  "equipment.6": {
+   "fr": "Un pinceau ou une petite cuillère pour le jaune d'œuf",
+   "t": "A pastry brush or a teaspoon for the egg yolk"
+  },
+  "equipment.7": {
+   "fr": "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde",
+   "t": "An electric deep fryer with a thermostat (the safest option), or a deep saucepan"
+  },
+  "equipment.8": {
+   "fr": "Un couvercle à la taille de la casserole, toujours à portée de main",
+   "t": "A lid that fits the saucepan, always within reach"
+  },
+  "equipment.9": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "A slotted spoon and kitchen paper"
+  },
+  "steps.0.title": {
+   "fr": "Hache l'oignon et les herbes",
+   "t": "Chop the onion and herbs"
+  },
+  "steps.0.text": {
+   "fr": "Épluche et hache finement {{oignon:full}}. Lave le persil et la coriandre, sèche-les bien, puis hache-les : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Peel and finely chop {{oignon:full}}. Wash the parsley and coriander, dry them well, then chop them: you need {{persil}} of parsley and {{coriandre}} of coriander."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a chopping board"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Fry the onion"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande poêle, chauffe {{huile}} d'huile (ou de beurre) à feu moyen. Ajoute l'oignon et fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "t": "In a large frying pan, heat {{huile}} of oil (or butter) over medium heat. Add the onion and fry it, stirring, until it turns translucent."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute la viande et les épices",
+   "t": "Add the meat and spices"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{viande}} de viande hachée, les herbes, {{paprika}} de paprika, {{cumin}} de cumin, {{cannelle}} de cannelle, {{sel}} de sel et {{poivre}} de poivre.",
+   "t": "Add {{viande}} of minced meat, the herbs, {{paprika}} of paprika, {{cumin}} of cumin, {{cannelle}} of cinnamon, {{sel}} of salt and {{poivre}} of pepper."
+  },
+  "steps.2.tip": {
+   "fr": "Si tu as touché la viande crue, lave-toi les mains à l'eau et au savon (Anses).",
+   "t": "If you have touched the raw meat, wash your hands with soap and water (Anses)."
+  },
+  "steps.3.title": {
+   "fr": "Émiette et cuis la viande",
+   "t": "Break up and cook the meat"
+  },
+  "steps.3.text": {
+   "fr": "Écrase la viande avec la cuillère en bois pour bien l'émietter. Laisse cuire en remuant, jusqu'à ce que tout le liquide de la viande se soit évaporé.",
+   "t": "Press the meat with the wooden spoon to break it up well. Cook, stirring, until all the liquid from the meat has evaporated."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha cuit sa viande 5 minutes, My Moroccan Food environ 7 minutes. S'il reste du liquide, égoutte la viande : la farce ne doit pas être mouillée (My Moroccan Food).",
+   "t": "Choumicha cooks her meat for 5 minutes, My Moroccan Food for about 7 minutes. If there is liquid left, drain the meat: the filling must not be wet (My Moroccan Food)."
+  },
+  "steps.4.title": {
+   "fr": "Vérifie la cuisson de la viande",
+   "t": "Check that the meat is cooked"
+  },
+  "steps.4.text": {
+   "fr": "Regarde bien : il ne doit plus rester aucun morceau rose. Toute la viande doit être brune, et de la vapeur doit s'en dégager quand tu la remues. Sinon, prolonge la cuisson de quelques minutes.",
+   "t": "Look carefully: there must be no pink bits left. All the meat must be brown, and steam must rise from it when you stir it. If not, cook it for a few more minutes."
+  },
+  "steps.4.tip": {
+   "fr": "La viande hachée doit être cuite jusqu'au centre (FSA, agence sanitaire britannique), surtout pour les jeunes enfants, les femmes enceintes et les personnes immunodéprimées (Anses).",
+   "t": "Minced meat must be cooked right through to the centre (FSA, the UK food safety agency), especially for young children, pregnant women and people with weakened immune systems (Anses)."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les œufs",
+   "t": "Add the eggs"
+  },
+  "steps.5.text": {
+   "fr": "Bats {{oeufs:full}} à la fourchette. Baisse le feu. Verse les œufs battus peu à peu sur la viande (pour une petite fournée, bats un œuf entier et n'en verse que la part indiquée) et remue sans arrêt, jusqu'à ce qu'ils soient bien cuits, sans partie liquide.",
+   "t": "Beat {{oeufs:full}} with a fork. Lower the heat. Pour the beaten eggs over the meat little by little (for a small batch, beat a whole egg and pour in only the amount shown) and stir constantly until they are fully cooked, with no runny parts."
+  },
+  "steps.5.tip": {
+   "fr": "Femmes du Maroc laisse d'abord prendre les œufs, puis mélange toute la farce. My Moroccan Food les brouille à part dans un peu de beurre, puis les mêle à la viande.",
+   "t": "Femmes du Maroc first lets the eggs set, then mixes the whole filling. My Moroccan Food scrambles them separately in a little butter, then mixes them into the meat."
+  },
+  "steps.6.title": {
+   "fr": "Laisse refroidir la farce",
+   "t": "Let the filling cool"
+  },
+  "steps.6.text": {
+   "fr": "Verse la farce dans un grand plat et laisse-la refroidir complètement avant de plier les briouates.",
+   "t": "Tip the filling into a large dish and let it cool completely before folding the briouats."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu ne plies pas les briouates dans les 2 heures, couvre la farce et mets-la au frigo (Anses ; FSA).",
+   "t": "If you are not folding the briouats within 2 hours, cover the filling and put it in the fridge (Anses; FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Prépare les feuilles",
+   "t": "Prepare the sheets"
+  },
+  "steps.7.text": {
+   "fr": "Coupe chaque feuille de brick en deux ({{feuilles}} en tout). Garde-les sous un torchon propre, légèrement humide, pour qu'elles ne sèchent pas.",
+   "t": "Cut each brick pastry sheet in half ({{feuilles}} in all). Keep them under a clean, slightly damp tea towel so they do not dry out."
+  },
+  "steps.8.title": {
+   "fr": "Forme une bande",
+   "t": "Make a strip"
+  },
+  "steps.8.text": {
+   "fr": "Prends une demi-feuille. Rabats le côté arrondi vers le centre, pour obtenir une bande rectangulaire.",
+   "t": "Take a half-sheet. Fold the rounded side in towards the centre to make a rectangular strip."
+  },
+  "steps.9.title": {
+   "fr": "Garnis et plie en triangle",
+   "t": "Fill and fold into a triangle"
+  },
+  "steps.9.text": {
+   "fr": "Pose environ 2 cuillères à café de farce (un peu plus d'une demi-cuillère à soupe) à un bout de la bande : avec cette dose, la farce suffit pour toutes les pièces. Rabats un coin sur la farce pour former un triangle. Plie ensuite le triangle sur lui-même, une fois vers la droite, une fois vers la gauche, jusqu'au bout de la bande. La farce doit être bien enfermée.",
+   "t": "Put about 2 tsp of filling (a little more than half a tablespoon) at one end of the strip: at this amount, the filling is enough for all the pieces. Fold one corner over the filling to form a triangle. Then fold the triangle over on itself, once to the right, once to the left, until you reach the end of the strip. The filling must be completely enclosed."
+  },
+  "steps.9.tip": {
+   "fr": "Quatre ou cinq plis suffisent : trop de couches de feuille, c'est inutile (Taste of Maroc).",
+   "t": "Four or five folds are enough: more layers of pastry than that serve no purpose (Taste of Maroc)."
+  },
+  "steps.10.title": {
+   "fr": "Colle la briouate",
+   "t": "Seal the briouat"
+  },
+  "steps.10.text": {
+   "fr": "Coupe ce qui dépasse de la feuille. Bats {{jaune:full}}, mets-en un peu sur le bord, puis rentre ce bord sous le pli. Pose la briouate sur la plaque. Plie toutes les autres de la même façon.",
+   "t": "Trim off any excess pastry. Beat {{jaune:full}}, dab a little on the edge, then tuck that edge under the fold. Place the briouat on the tray. Fold all the others the same way."
+  },
+  "steps.10.tip": {
+   "fr": "Choumicha colle ses briouates au blanc d'œuf.",
+   "t": "Choumicha seals her briouats with egg white."
+  },
+  "steps.11.title": {
+   "fr": "Chauffe l'huile",
+   "t": "Heat the oil"
+  },
+  "steps.11.text": {
+   "fr": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile-friture}} : jamais plus d'un tiers de la hauteur. Pose un couvercle de la bonne taille à portée de main. Chauffe à feu moyen : l'huile doit être bien chaude, mais ne jamais fumer. À partir de maintenant, ne la quitte plus des yeux.",
+   "t": "Use a deep fryer with a thermostat or a deep saucepan. Pour in the {{huile-friture}}: never more than a third of the way up. Keep a lid of the right size within reach. Heat over medium heat: the oil must be very hot, but never smoking. From now on, do not take your eyes off it."
+  },
+  "steps.11.tip": {
+   "fr": "Si l'huile fume, coupe le feu et laisse-la refroidir (London Fire Brigade). Si elle prend feu : jamais d'eau, ne déplace pas la casserole, pose vite le couvercle et coupe le feu si tu peux, puis appelle les pompiers (gouvernement du Québec).",
+   "t": "If the oil smokes, turn off the heat and let it cool (London Fire Brigade). If it catches fire: never use water, do not move the pan, quickly put the lid on and turn off the heat if you can, then call the fire brigade (Quebec government)."
+  },
+  "steps.12.title": {
+   "fr": "Fais frire les briouates",
+   "t": "Fry the briouats"
+  },
+  "steps.12.text": {
+   "fr": "Fais frire quelques briouates à la fois, sans les serrer. Retourne-les, jusqu'à ce qu'elles soient bien dorées des deux côtés. Sors-les avec l'écumoire et pose-les sur du papier absorbant. Continue avec les autres, puis éteins le feu.",
+   "t": "Fry a few briouats at a time, without crowding them. Turn them until they are golden brown on both sides. Lift them out with the slotted spoon and put them on kitchen paper. Carry on with the rest, then turn off the heat."
+  },
+  "steps.13.title": {
+   "fr": "Sers chaud",
+   "t": "Serve hot"
+  },
+  "steps.13.text": {
+   "fr": "Sers les briouates bien chaudes. Si tu aimes le sucré-salé, saupoudre-les de {{sucre-glace}} et de {{cannelle-service}}, ou pose-les en couronne autour d'une petite soucoupe de sucre glace mêlé de cannelle.",
+   "t": "Serve the briouats piping hot. If you like sweet and savoury together, dust them with {{sucre-glace}} and {{cannelle-service}}, or arrange them in a ring around a small saucer of icing sugar mixed with cinnamon."
+  },
+  "secrets.0.text": {
+   "fr": "Cuis toujours la farce avant de plier les briouates.",
+   "t": "Always cook the filling before folding the briouats."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha n° 131 et 1330 ; Bladi.net ; Femmes du Maroc ; My Moroccan Food ; Lalla Moulati n° 30191",
+   "t": "Choumicha no. 131 and 1330; Bladi.net; Femmes du Maroc; My Moroccan Food; Lalla Moulati no. 30191"
+  },
+  "secrets.1.text": {
+   "fr": "Émiette bien la viande à la cuillère pendant la cuisson, pour une farce fine.",
+   "t": "Break the meat up well with the spoon while it cooks, for a fine filling."
+  },
+  "secrets.1.source": {
+   "fr": "Bladi.net ; My Moroccan Food ; Lalla Moulati n° 30191 et 14937",
+   "t": "Bladi.net; My Moroccan Food; Lalla Moulati no. 30191 and 14937"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le liquide de la viande s'évaporer, ou égoutte-le : la farce ne doit pas être mouillée.",
+   "t": "Let the liquid from the meat evaporate, or drain it off: the filling must not be wet."
+  },
+  "secrets.2.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net; Femmes du Maroc; My Moroccan Food"
+  },
+  "secrets.3.text": {
+   "fr": "La farce classique est liée aux œufs, cuits avec la viande.",
+   "t": "The classic filling is bound with eggs, cooked with the meat."
+  },
+  "secrets.3.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net; Femmes du Maroc; My Moroccan Food"
+  },
+  "secrets.4.text": {
+   "fr": "La cannelle et le cumin parfument la farce, avec le persil et la coriandre.",
+   "t": "Cinnamon and cumin flavour the filling, along with parsley and coriander."
+  },
+  "secrets.4.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food (cannelle avec sa kefta au cumin, au persil et à la coriandre)",
+   "t": "Bladi.net; Femmes du Maroc; My Moroccan Food (cinnamon with its kefta seasoned with cumin, parsley and coriander)"
+  },
+  "secrets.5.text": {
+   "fr": "Laisse refroidir la farce avant de la mettre dans les feuilles.",
+   "t": "Let the filling cool before putting it in the sheets."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha n° 131 et 1330 ; Lalla Moulati n° 196443 et 14937 ; Bladi.net (cigares)",
+   "t": "Choumicha no. 131 and 1330; Lalla Moulati no. 196443 and 14937; Bladi.net (cigars)"
+  },
+  "secrets.6.text": {
+   "fr": "Garde les feuilles sous un linge humide pendant le pliage, sinon elles sèchent.",
+   "t": "Keep the sheets under a damp cloth while you fold, or they dry out."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; Bladi.net (cigares)",
+   "t": "My Moroccan Food; Bladi.net (cigars)"
+  },
+  "secrets.7.text": {
+   "fr": "Une demi-feuille, côtés rabattus vers le centre, et un peu de farce : environ 2 cuillères à café par pièce.",
+   "t": "A half-sheet, sides folded in towards the centre, and a little filling: about 2 tsp per piece."
+  },
+  "secrets.7.source": {
+   "fr": "Femmes du Maroc ; Bladi.net",
+   "t": "Femmes du Maroc; Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Plie en triangle, une fois à droite, une fois à gauche, puis colle le bout et rentre-le sous le pli.",
+   "t": "Fold into a triangle, once to the right, once to the left, then seal the end and tuck it under the fold."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha n° 493 ; Taste of Maroc (Christine Benlafquih) ; My Moroccan Food",
+   "t": "Choumicha no. 493; Taste of Maroc (Christine Benlafquih); My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Un peu de jaune d'œuf suffit pour coller la briouate.",
+   "t": "A little egg yolk is enough to seal the briouat."
+  },
+  "secrets.9.source": {
+   "fr": "Femmes du Maroc ; Taste of Maroc ; Choumicha, elle, prend du blanc d'œuf",
+   "t": "Femmes du Maroc; Taste of Maroc; Choumicha, for her part, uses egg white"
+  },
+  "secrets.10.text": {
+   "fr": "Traditionnellement, on les fait frire ; au four, elles sont bonnes aussi.",
+   "t": "Traditionally, they are fried; baked in the oven, they are good too."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Choumicha n° 477 ; Lalla Moulati n° 30191",
+   "t": "My Moroccan Food; Choumicha no. 477; Lalla Moulati no. 30191"
+  },
+  "secrets.11.text": {
+   "fr": "Sers-les bien chaudes, avec du sucre glace et de la cannelle si tu aimes le sucré-salé.",
+   "t": "Serve them piping hot, with icing sugar and cinnamon if you like sweet and savoury together."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi.net ; Femmes du Maroc ; My Moroccan Food",
+   "t": "Bladi.net; Femmes du Maroc; My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Plier les briouates avec une viande encore rose : la viande hachée doit être cuite jusqu'au centre (FSA ; Anses).",
+   "t": "Folding the briouats with meat that is still pink: minced meat must be cooked right through to the centre (FSA; Anses)."
+  },
+  "mistakes.1": {
+   "fr": "Garder du liquide dans la farce : elle devient mouillée (My Moroccan Food).",
+   "t": "Leaving liquid in the filling: it ends up wet (My Moroccan Food)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre la farce chaude dans les feuilles : laisse-la refroidir avant (Choumicha ; Lalla Moulati).",
+   "t": "Putting hot filling in the sheets: let it cool first (Choumicha; Lalla Moulati)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les feuilles à l'air pendant le pliage : elles sèchent (My Moroccan Food ; Bladi.net).",
+   "t": "Leaving the sheets uncovered while folding: they dry out (My Moroccan Food; Bladi.net)."
+  },
+  "mistakes.4": {
+   "fr": "Utiliser pour la farce cuite le plat ou la planche de la viande crue (Anses).",
+   "t": "Using the dish or board that held the raw meat for the cooked filling (Anses)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la farce ou les briouates plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "Leaving the filling or the briouats at room temperature for more than 2 hours before putting them in the fridge (Anses; FSA)."
+  },
+  "mistakes.6": {
+   "fr": "Remplir la casserole de plus d'un tiers d'huile, ou laisser l'huile fumer (London Fire Brigade).",
+   "t": "Filling the saucepan more than a third full of oil, or letting the oil smoke (London Fire Brigade)."
+  },
+  "mistakes.7": {
+   "fr": "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+   "t": "Throwing water on burning oil, or moving the pan while it is on fire (Quebec government)."
+  },
+  "mistakes.8": {
+   "fr": "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+   "t": "Leaving the kitchen while frying (Quebec government)."
+  },
+  "variants.0": {
+   "fr": "Au four : My Moroccan Food beurre des rectangles de filo, les dore au jaune d'œuf et les cuit 20 à 25 minutes à 180 °C. Lalla Moulati (n° 30191) cuit ses cigares sur une plaque huilée, jusqu'à ce qu'ils soient dorés dessus et dessous.",
+   "t": "In the oven: My Moroccan Food butters rectangles of filo, glazes them with egg yolk and bakes them for 20 to 25 minutes at 180 °C. Lalla Moulati (no. 30191) bakes her cigars on an oiled tray until golden on top and underneath."
+  },
+  "variants.1": {
+   "fr": "En cigares, roulés au lieu d'être pliés en triangle (Choumicha n° 1330 ; Bladi.net ; Lalla Moulati n° 30191).",
+   "t": "As cigars, rolled instead of folded into triangles (Choumicha no. 1330; Bladi.net; Lalla Moulati no. 30191)."
+  },
+  "variants.2": {
+   "fr": "Sans œufs, plus relevée : Choumicha (n° 1330) poche d'abord la viande 15 minutes dans de l'eau au laurier, la hache de nouveau avec ail et coriandre, puis la cuit à la poêle avec paprika, piment fort, cumin, sel et un peu de vinaigre. Lalla Moulati (n° 30191) met ail, herbes, poivre et paprika.",
+   "t": "Without eggs, spicier: Choumicha (no. 1330) first poaches the meat for 15 minutes in water with bay leaf, minces it again with garlic and coriander, then cooks it in a frying pan with paprika, hot chilli, cumin, salt and a little vinegar. Lalla Moulati (no. 30191) uses garlic, herbs, pepper and paprika."
+  },
+  "variants.3": {
+   "fr": "Au cheddar, à l'aneth et au piment vert (Choumicha n° 131, republiée par Femmes du Maroc). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "With cheddar, dill and green chilli (Choumicha no. 131, republished by Femmes du Maroc). If you want to be strict about halal, use a cheese made with a microbial coagulant, without animal rennet."
+  },
+  "variants.4": {
+   "fr": "Avec des olives coupées (Lalla Moulati n° 14937), ou avec des vermicelles chinois et des champignons noirs (Lalla Moulati n° 196443).",
+   "t": "With chopped olives (Lalla Moulati no. 14937), or with Chinese vermicelli and black mushrooms (Lalla Moulati no. 196443)."
+  },
+  "variants.5": {
+   "fr": "Aux abricots secs et aux amandes (Choumicha n° 477) : agneau, gingembre, muscade, abricots trempés dans du jus d'orange et pâte d'amandes ; au four, ou frites.",
+   "t": "With dried apricots and almonds (Choumicha no. 477): lamb, ginger, nutmeg, apricots soaked in orange juice, and almond paste; baked or fried."
+  },
+  "variants.6": {
+   "fr": "Avec du curcuma, du safran et un peu de sucre dans la farce (Femmes du Maroc).",
+   "t": "With turmeric, saffron and a little sugar in the filling (Femmes du Maroc)."
+  },
+  "variants.7": {
+   "fr": "Grandes briouates : 3 c. à s. de farce dans des rectangles de filo de 10 x 30 cm, environ 15 pièces pour 450 g de viande (My Moroccan Food).",
+   "t": "Large briouats: 3 tbsp of filling in 10 x 30 cm rectangles of filo, about 15 pieces for 450 g of meat (My Moroccan Food)."
+  },
+  "variants.8": {
+   "fr": "Sans warqa : double épaisseur de pâte filo épaisse, ou feuilles de rouleaux de printemps à base de farine, collées avec un peu d'eau (Taste of Maroc).",
+   "t": "Without warqa: a double layer of thick filo pastry, or flour-based spring roll wrappers, sealed with a little water (Taste of Maroc)."
+  }
+ }
+}

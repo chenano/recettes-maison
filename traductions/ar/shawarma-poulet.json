@@ -1,0 +1,634 @@
+{
+ "_slug": "shawarma-poulet",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Chawarma de poulet au four",
+   "t": "شاورما الدجاج في الفرن"
+  },
+  "tagline": {
+   "fr": "Le sandwich des rues du Liban, fait à la maison sans broche : du poulet mariné toute une nuit, rôti au four, roulé dans un pain libanais avec la toum, la sauce à l'ail.",
+   "t": "سندويتش شوارع لبنان، محضّر في البيت دون سيخ: دجاج متبّل طوال الليل، مشوي في الفرن، ملفوف في خبز لبناني مع الثومية، صلصة الثوم."
+  },
+  "region": {
+   "fr": "Levant (Liban, Syrie, Palestine, Jordanie). Le chawarma est né au Levant sous l'Empire ottoman, de la même technique de broche verticale que le döner turc (Wikipédia en anglais ; Wikipédia en arabe pour l'origine au Levant, sous les Ottomans). Son nom viendrait du turc « çevirme », qui veut dire « tourner » (Wikipédia ; Hadia's Lebanese Cuisine). Ce n'est pas un plat marocain.",
+   "t": "بلاد الشام (لبنان وسوريا وفلسطين والأردن). نشأت الشاورما في بلاد الشام في عهد الدولة العثمانية، بتقنية السيخ العمودي نفسها التي يُحضَّر بها الدونر التركي (Wikipédia بالإنجليزية؛ Wikipédia بالعربية بشأن نشأتها في بلاد الشام في العهد العثماني). ويُقال إن اسمها مأخوذ من الكلمة التركية «çevirme»، ومعناها «التدوير» (Wikipédia؛ Hadia's Lebanese Cuisine). ليست طبقًا مغربيًا."
+  },
+  "occasion": {
+   "fr": "Au Liban, le chawarma se mange au restaurant et dans les snacks de rue ; Hadia Zebib a mis au point cette version au four pour le faire à la maison, sans broche verticale (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen). C'est l'un des plats de rue les plus connus au monde (Wikipédia en anglais et en arabe).",
+   "t": "في لبنان، تؤكل الشاورما في المطاعم وفي محلات الأكل السريع في الشوارع؛ وقد ابتكرت Hadia Zebib هذه النسخة في الفرن لتحضيرها في البيت، دون سيخ عمودي (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen). وهي من أشهر أكلات الشوارع في العالم (Wikipédia بالإنجليزية وبالعربية)."
+  },
+  "img_alt": {
+   "fr": "Chawarma de poulet roulé dans un pain lavash et coupé en deux, avec de la roquette",
+   "t": "شاورما دجاج ملفوفة في خبز اللافاش ومقطوعة إلى نصفين، مع الجرجير"
+  },
+  "serving": {
+   "fr": "Dans un pain libanais, un pain arabe fin ou un pain saj : une bonne couche de toum, le poulet, des cornichons au sel, des frites et de la laitue romaine, puis le sandwich roulé serré et passé à la presse ou au four (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie ; The Matbakh). Au Proche-Orient, le chawarma de poulet se sert avec la sauce à l'ail, des frites et des pickles (Wikipédia en anglais et en arabe). Mama's Lebanese Kitchen ajoute des tomates grillées, Alphafoodie des tomates fraîches. Il se mange aussi en assiette, avec du riz, des salades et du houmous (Alphafoodie ; The Matbakh, avec du riz aux vermicelles). Pour les frites, suis la recette de l'application. Restes de poulet : au réfrigérateur dans les 2 heures, à manger dans les 2 jours, réchauffés une seule fois jusqu'à être fumants à cœur (FSA ; Santé Canada : 74 °C). Toum : au réfrigérateur, à manger dans les 4 jours (NCHFP), une semaine au plus (Santé Canada).",
+   "t": "داخل خبز لبناني، أو خبز عربي رقيق، أو خبز الصاج: طبقة جيدة من الثومية، ثم الدجاج، ومخلل الخيار بالملح، والبطاطس المقلية وخس الرومين، ثم يُلفّ السندويتش بإحكام ويُمرَّر على المكبس أو في الفرن (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ Alphafoodie؛ The Matbakh). في الشرق الأدنى، تُقدَّم شاورما الدجاج مع صلصة الثوم والبطاطس المقلية والمخللات (Wikipédia بالإنجليزية وبالعربية). تضيف Mama's Lebanese Kitchen طماطم مشوية، وAlphafoodie طماطم طازجة. وتؤكل أيضًا في صحن، مع الأرز والسلطات والحمص بالطحينة (Alphafoodie؛ The Matbakh، مع الأرز بالشعيرية). للبطاطس المقلية، اتبع وصفة التطبيق. بقايا الدجاج: في الثلاجة خلال ساعتين، وتؤكل خلال يومين، وتُسخَّن مرة واحدة فقط حتى يتصاعد البخار من قلبها (FSA؛ Santé Canada: 74 درجة مئوية). الثومية: في الثلاجة، وتؤكل خلال 4 أيام (NCHFP)، وأسبوعًا على الأكثر (Santé Canada)."
+  },
+  "ing.0.group": {
+   "fr": "Le poulet et sa marinade",
+   "t": "الدجاج وتتبيلته"
+  },
+  "ing.poulet.name": {
+   "fr": "de hauts de cuisse de poulet halal, désossés et sans peau",
+   "t": "أفخاذ دجاج علوية حلال، منزوعة العظم والجلد"
+  },
+  "ing.poulet.note": {
+   "fr": "ou des blancs, ou un mélange des deux",
+   "t": "أو صدور الدجاج، أو خليط من الاثنين"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.oignon.note": {
+   "fr": "à émincer",
+   "t": "تُقطَّع شرائح رقيقة"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser",
+   "t": "تُهرَس"
+  },
+  "ing.yaourt.name": {
+   "fr": "de yaourt nature",
+   "t": "زبادي طبيعي"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "عصير ليمون طازج"
+  },
+  "ing.citron.note": {
+   "fr": "pas de jus en bouteille",
+   "t": "لا العصير المعبّأ في قنينة"
+  },
+  "ing.vinaigre.name": {
+   "fr": "de vinaigre blanc",
+   "t": "خل أبيض"
+  },
+  "ing.vinaigre.note": {
+   "fr": "ou autant de jus de citron",
+   "t": "أو المقدار نفسه من عصير الليمون"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.huile.note": {
+   "fr": "ou de tournesol",
+   "t": "أو زيت عباد الشمس"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "فلفل أحمر مطحون (بابريكا)"
+  },
+  "ing.coriandre-moulue.name": {
+   "fr": "de coriandre en poudre",
+   "t": "كزبرة مطحونة"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre blanc moulu",
+   "t": "فلفل أبيض مطحون"
+  },
+  "ing.poivre.note": {
+   "fr": "ou noir",
+   "t": "أو أسود"
+  },
+  "ing.cardamome.name": {
+   "fr": "de cardamome en poudre",
+   "t": "هيل مطحون"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre en poudre",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle en poudre",
+   "t": "قرفة مطحونة"
+  },
+  "ing.muscade.name": {
+   "fr": "de noix de muscade râpée",
+   "t": "جوزة طيب مبشورة"
+  },
+  "ing.1.group": {
+   "fr": "La toum (sauce à l'ail)",
+   "t": "الثومية (صلصة الثوم)"
+  },
+  "ing.ail-toum.name": {
+   "fr": "tête d'ail",
+   "t": "رأس ثوم"
+  },
+  "ing.ail-toum.pl": {
+   "fr": "têtes d'ail",
+   "t": "رؤوس ثوم"
+  },
+  "ing.ail-toum.note": {
+   "fr": "bien fraîche, sans germe vert",
+   "t": "طازج جدًا، دون برعم أخضر"
+  },
+  "ing.sel-toum.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.huile-toum.name": {
+   "fr": "d'huile neutre (tournesol)",
+   "t": "زيت مائدة (عباد الشمس)"
+  },
+  "ing.huile-toum.note": {
+   "fr": "pas d'huile d'olive",
+   "t": "لا زيت الزيتون"
+  },
+  "ing.citron-toum.name": {
+   "fr": "de jus de citron frais",
+   "t": "عصير ليمون طازج"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.pain.name": {
+   "fr": "pain libanais (pain arabe fin)",
+   "t": "رغيف خبز لبناني (خبز عربي رقيق)"
+  },
+  "ing.pain.pl": {
+   "fr": "pains libanais (pains arabes fins)",
+   "t": "أرغفة خبز لبناني (خبز عربي رقيق)"
+  },
+  "ing.pain.note": {
+   "fr": "ou des pains pita ; contient du gluten (blé)",
+   "t": "أو أرغفة بيتا؛ يحتوي على الغلوتين (القمح)"
+  },
+  "ing.cornichons.name": {
+   "fr": "cornichons au sel",
+   "t": "مخلل الخيار بالملح"
+  },
+  "ing.cornichons.note": {
+   "fr": "en fines tranches",
+   "t": "مقطّع شرائح رقيقة"
+  },
+  "ing.frites.name": {
+   "fr": "frites",
+   "t": "البطاطس المقلية"
+  },
+  "ing.frites.note": {
+   "fr": "à faire avec la recette des frites de l'application",
+   "t": "تُحضَّر حسب وصفة البطاطس المقلية في التطبيق"
+  },
+  "ing.laitue.name": {
+   "fr": "feuilles de laitue romaine",
+   "t": "أوراق خس الرومين"
+  },
+  "ing.laitue.note": {
+   "fr": "lavées, en lanières",
+   "t": "مغسولة ومقطّعة شرائط"
+  },
+  "ing.tomates.name": {
+   "fr": "tomates",
+   "t": "الطماطم"
+  },
+  "ing.tomates.note": {
+   "fr": "en rondelles ; facultatif",
+   "t": "مقطّعة شرائح دائرية؛ اختيارية"
+  },
+  "equipment.0": {
+   "fr": "Une planche et un couteau réservés à la viande crue (FSA)",
+   "t": "لوح تقطيع وسكين مخصّصان للحم النيء (FSA)"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier avec un couvercle ou du film alimentaire",
+   "t": "سلطانية كبيرة بغطاء أو بغشاء بلاستيكي للطعام"
+  },
+  "equipment.2": {
+   "fr": "Un grand plat à four, d'environ 23 x 33 cm (The Matbakh)",
+   "t": "طبق فرن كبير، بمقاس 23 × 33 سم تقريبًا (The Matbakh)"
+  },
+  "equipment.3": {
+   "fr": "Un thermomètre de cuisson : le seul moyen d'être sûr que le poulet est cuit (Alphafoodie ; Santé Canada)",
+   "t": "ميزان حرارة للطبخ: الوسيلة الوحيدة للتأكد من أن الدجاج قد نضج (Alphafoodie؛ Santé Canada)"
+  },
+  "equipment.4": {
+   "fr": "Un robot mixeur ou un mini-hachoir, pour la toum",
+   "t": "محضّرة طعام أو مفرمة صغيرة، للثومية"
+  },
+  "equipment.5": {
+   "fr": "Un bocal propre avec son couvercle, pour garder la toum",
+   "t": "برطمان نظيف بغطائه، لحفظ الثومية"
+  },
+  "equipment.6": {
+   "fr": "Une presse à panini ou une poêle, pour griller les sandwichs (facultatif)",
+   "t": "مكبس بانيني أو مقلاة، لتحميص السندويتشات (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Coupe le poulet",
+   "t": "قطّع الدجاج"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains. Sur une planche réservée à la viande crue, coupe {{poulet}} de poulet en fines lanières, d'environ 1 cm d'épaisseur. Ne lave pas le poulet.",
+   "t": "اغسل يديك. على لوح مخصّص للحم النيء، قطّع {{poulet}} من الدجاج شرائط رفيعة، بسمك 1 سم تقريبًا. لا تغسل الدجاج."
+  },
+  "steps.0.tip": {
+   "fr": "Laver le poulet cru projette les bactéries sur les mains, le plan de travail et les ustensiles (FSA). Tu peux aussi demander au boucher de le couper en fines tranches (Gulf News).",
+   "t": "غسل الدجاج النيء يرشّ البكتيريا على اليدين وسطح العمل والأدوات (FSA). ويمكنك أيضًا أن تطلب من الجزار تقطيعه شرائح رقيقة (Gulf News)."
+  },
+  "steps.1.title": {
+   "fr": "Prépare l'ail et l'oignon",
+   "t": "حضّر الثوم والبصل"
+  },
+  "steps.1.text": {
+   "fr": "Écrase {{ail:full}}. Épluche et émince finement {{oignon:full}}.",
+   "t": "اهرس {{ail:full}}. قشّر {{oignon:full}} وقطّعها شرائح رقيقة جدًا."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع شرائح رقيقة وثوم مهروس على لوح تقطيع"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل شرائح رقيقة"
+  },
+  "steps.2.title": {
+   "fr": "Prépare la marinade",
+   "t": "حضّر التتبيلة"
+  },
+  "steps.2.text": {
+   "fr": "Dans un grand saladier, mets {{yaourt}} de yaourt, {{citron}} de jus de citron, {{vinaigre}} de vinaigre, {{huile}} d'huile et l'ail écrasé. Ajoute {{sel}} de sel, {{paprika}} de paprika, {{coriandre-moulue}} de coriandre en poudre, {{poivre}} de poivre, {{cardamome}} de cardamome, {{gingembre}} de gingembre, {{cannelle}} de cannelle et {{muscade}} de muscade. Fouette jusqu'à ce que la marinade soit bien lisse.",
+   "t": "في سلطانية كبيرة، ضع {{yaourt}} من الزبادي، و{{citron}} من عصير الليمون، و{{vinaigre}} من الخل، و{{huile}} من الزيت، والثوم المهروس. أضف {{sel}} من الملح، و{{paprika}} من الفلفل الأحمر المطحون، و{{coriandre-moulue}} من الكزبرة المطحونة، و{{poivre}} من الفلفل، و{{cardamome}} من الهيل، و{{gingembre}} من الزنجبيل، و{{cannelle}} من القرفة، و{{muscade}} من جوزة الطيب. اخفق حتى تصبح التتبيلة ملساء تمامًا."
+  },
+  "steps.2.tip": {
+   "fr": "Une marinade de chawarma, c'est un acide (citron, vinaigre), une huile et des épices (Hadia's Lebanese Cuisine). Le citron, le vinaigre et le yaourt attendrissent le poulet (Hadia's Lebanese Cuisine ; Alphafoodie).",
+   "t": "تتبيلة الشاورما هي حمض (ليمون، خل)، وزيت وتوابل (Hadia's Lebanese Cuisine). والليمون والخل والزبادي تطرّي الدجاج (Hadia's Lebanese Cuisine؛ Alphafoodie)."
+  },
+  "steps.3.title": {
+   "fr": "Fais mariner une nuit",
+   "t": "تبّله طوال الليل"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute le poulet et l'oignon dans la marinade, et mélange pour bien enrober chaque morceau. Couvre et mets au réfrigérateur au moins 6 heures, idéalement toute une nuit, mais pas plus de 24 heures.",
+   "t": "أضف الدجاج والبصل إلى التتبيلة، واخلط لتغليف كل قطعة جيدًا. غطِّ السلطانية وضعها في الثلاجة 6 ساعات على الأقل، والأفضل طوال الليل، لكن ليس أكثر من 24 ساعة."
+  },
+  "steps.3.tip": {
+   "fr": "Toujours au réfrigérateur, jamais sur le plan de travail (Santé Canada). Pose le saladier bien couvert en bas du réfrigérateur, pour que rien ne coule sur les autres aliments (FSA).",
+   "t": "دائمًا في الثلاجة، لا على سطح العمل أبدًا (Santé Canada). ضع السلطانية مغطّاة جيدًا في أسفل الثلاجة، حتى لا يسيل شيء على الأطعمة الأخرى (FSA)."
+  },
+  "steps.4.title": {
+   "fr": "Écrase l'ail de la toum",
+   "t": "اهرس ثوم الثومية"
+  },
+  "steps.4.text": {
+   "fr": "Prépare la toum pendant que le poulet marine, ou la veille. Sépare et épluche les gousses de {{ail-toum:full}}. Mets-les dans le robot avec {{sel-toum}} de sel. Mixe 10 à 20 secondes, arrête et racle les bords. Recommence trois ou quatre fois, jusqu'à obtenir une pâte.",
+   "t": "حضّر الثومية أثناء تتبيل الدجاج، أو في اليوم السابق. افصل فصوص الثوم ({{ail-toum:full}}) وقشّرها. ضعها في المحضّرة مع {{sel-toum}} من الملح. شغّلها من 10 إلى 20 ثانية، ثم أوقفها واكشط الجوانب. كرّر ذلك ثلاث أو أربع مرات، حتى تحصل على معجون."
+  },
+  "steps.4.tip": {
+   "fr": "Prends de l'ail ferme, sans germe vert : il donne un goût amer (Hadia's Lebanese Cuisine ; Alphafoodie). Attention : dans un grand robot, Mama's Lebanese Kitchen conseille au moins 3 têtes d'ail, car les grandes lames attrapent mal une petite quantité.",
+   "t": "اختر ثومًا صلبًا، دون برعم أخضر: فالبرعم يعطي طعمًا مرًّا (Hadia's Lebanese Cuisine؛ Alphafoodie). انتبه: في المحضّرة الكبيرة، تنصح Mama's Lebanese Kitchen باستعمال 3 رؤوس ثوم على الأقل، لأن الشفرات الكبيرة لا تلتقط الكمية الصغيرة جيدًا."
+  },
+  "steps.5.title": {
+   "fr": "Monte la toum",
+   "t": "اخفق الثومية"
+  },
+  "steps.5.text": {
+   "fr": "Remets le robot en marche et ne l'arrête plus. Verse {{huile-toum}} d'huile en filet très fin, petit à petit. Garde à côté {{citron-toum}} de jus de citron. Quand l'ail devient crémeux, alterne : un peu d'huile, puis un peu de jus de citron, jusqu'à tout utiliser. Compte environ 10 minutes.",
+   "t": "أعد تشغيل المحضّرة ولا توقفها بعد ذلك. صبّ {{huile-toum}} من الزيت في خيط رفيع جدًا، شيئًا فشيئًا. أبقِ بجانبك {{citron-toum}} من عصير الليمون. عندما يصبح الثوم كريميًا، بادل بينهما: قليل من الزيت، ثم قليل من عصير الليمون، حتى تستعملهما كلهما. احسب نحو 10 دقائق."
+  },
+  "steps.5.tip": {
+   "fr": "Va très lentement : si l'huile coule trop vite, la sauce tranche et redevient liquide (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine). Huile neutre seulement : l'huile d'olive a un goût trop fort et rend la toum moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "تمهّل كثيرًا: إذا سال الزيت بسرعة كبيرة، تنفصل الصلصة وتعود سائلة (Mama's Lebanese Kitchen؛ Alphafoodie؛ Hadia's Lebanese Cuisine). زيت المائدة فقط: لزيت الزيتون طعم قوي جدًا ويجعل الثومية أقل بياضًا (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ Alphafoodie)."
+  },
+  "steps.6.title": {
+   "fr": "Garde la toum au frais",
+   "t": "احفظ الثومية في البرودة"
+  },
+  "steps.6.text": {
+   "fr": "Mets la toum dans un bocal propre et fermé, au réfrigérateur. Elle va raffermir au froid.",
+   "t": "ضع الثومية في برطمان نظيف ومغلق، في الثلاجة. ستتماسك أكثر في البرودة."
+  },
+  "steps.6.tip": {
+   "fr": "Hadia la trouve encore meilleure quelques heures plus tard, ou le lendemain. Garde-la toujours au froid, à 4 °C ou moins, jamais à température ambiante. Mange-la dans les 4 jours : c'est le délai le plus prudent, celui du NCHFP américain pour l'ail dans l'huile ; Santé Canada donne une semaine au plus.",
+   "t": "تجدها Hadia ألذّ بعد بضع ساعات، أو في اليوم التالي. احفظها دائمًا في البرودة، على 4 درجات مئوية أو أقل، ولا تتركها أبدًا في حرارة الغرفة. كُلها خلال 4 أيام: هذه هي المدة الأكثر احتياطًا، وهي مدة NCHFP الأمريكي للثوم في الزيت؛ وتعطي Santé Canada أسبوعًا على الأكثر."
+  },
+  "steps.7.title": {
+   "fr": "Préchauffe le four et étale le poulet",
+   "t": "سخّن الفرن وافرد الدجاج"
+  },
+  "steps.7.text": {
+   "fr": "Préchauffe le four à 220 °C. Verse le poulet, l'oignon et toute la marinade dans un grand plat à four. Étale bien, en une seule couche.",
+   "t": "سخّن الفرن مسبقًا على 220 درجة مئوية. صبّ الدجاج والبصل والتتبيلة كلها في طبق فرن كبير. افردها جيدًا في طبقة واحدة."
+  },
+  "steps.7.tip": {
+   "fr": "Hadia fait cuire le reste de la marinade avec le poulet. Laisse un peu d'espace entre les morceaux : ils rôtissent et grillent au lieu de cuire à la vapeur (Alphafoodie).",
+   "t": "تطهو Hadia باقي التتبيلة مع الدجاج. اترك قليلًا من المسافة بين القطع: فتُشوى وتتحمّر بدل أن تُطهى بالبخار (Alphafoodie)."
+  },
+  "steps.8.title": {
+   "fr": "Fais rôtir",
+   "t": "اشوِ الدجاج"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour 40 minutes environ. À mi-cuisson, remue le poulet une fois.",
+   "t": "أدخل الطبق إلى الفرن نحو 40 دقيقة. في منتصف مدة الطهي، قلّب الدجاج مرة واحدة."
+  },
+  "steps.8.tip": {
+   "fr": "Le temps dépend du four et de la quantité : 40 à 45 minutes chez The Matbakh, environ 50 minutes chez Hadia pour 1 kg, 25 à 30 minutes chez Alphafoodie pour une petite quantité étalée sur une plaque. C'est la cuisson à cœur qui compte : vérifie-la à l'étape suivante.",
+   "t": "تتوقف المدة على الفرن وعلى الكمية: من 40 إلى 45 دقيقة عند The Matbakh، ونحو 50 دقيقة عند Hadia لكمية 1 كغ، ومن 25 إلى 30 دقيقة عند Alphafoodie لكمية صغيرة مفرودة على صفيحة. المهم هو نضج الدجاج حتى قلبه: تحقّق منه في الخطوة التالية."
+  },
+  "steps.8.timer.label": {
+   "fr": "Poulet au four",
+   "t": "الدجاج في الفرن"
+  },
+  "steps.8.timer.done": {
+   "fr": "Vérifie la cuisson du poulet.",
+   "t": "تحقّق من نضج الدجاج."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "تحقّق من النضج"
+  },
+  "steps.9.text": {
+   "fr": "Plante un thermomètre au cœur du morceau le plus épais : il doit indiquer au moins 74 °C. Sans thermomètre, coupe le plus gros morceau : la viande doit être fumante, sans trace de rose, et le jus doit être clair. Sinon, remets au four quelques minutes et vérifie encore.",
+   "t": "اغرز ميزان الحرارة في قلب أسمك قطعة: يجب أن يشير إلى 74 درجة مئوية على الأقل. إن لم يكن لديك ميزان حرارة، فاقطع أكبر قطعة: يجب أن يتصاعد البخار من اللحم، دون أي أثر للون الوردي، وأن يكون العصير صافيًا. وإلا، فأعده إلى الفرن بضع دقائق وتحقّق مرة أخرى."
+  },
+  "steps.9.tip": {
+   "fr": "74 °C pour les morceaux de volaille (Santé Canada ; Alphafoodie). Sans thermomètre : chair fumante, plus rose, jus clair (FSA).",
+   "t": "74 درجة مئوية لقطع الدواجن (Santé Canada؛ Alphafoodie). دون ميزان حرارة: لحم يتصاعد منه البخار، بلا لون وردي، وعصير صافٍ (FSA)."
+  },
+  "steps.10.title": {
+   "fr": "Fais griller sous le gril",
+   "t": "حمّره تحت الشواية"
+  },
+  "steps.10.text": {
+   "fr": "Allume le gril du four et compte 2 minutes, en surveillant : les bords doivent griller sans brûler. Si besoin, laisse une minute de plus au plus.",
+   "t": "شغّل شواية الفرن واحسب دقيقتين، مع المراقبة: يجب أن تتحمّر الحواف دون أن تحترق. وعند الحاجة، اتركه دقيقة إضافية على الأكثر."
+  },
+  "steps.10.tip": {
+   "fr": "Hadia et Alphafoodie passent le plat 2 à 3 minutes sous le gril, pour des bords plus grillés et plus colorés.",
+   "t": "تضع Hadia وAlphafoodie الطبق من 2 إلى 3 دقائق تحت الشواية، لتصبح الحواف أكثر تحمّرًا ولونًا."
+  },
+  "steps.10.timer.label": {
+   "fr": "Gril",
+   "t": "الشواية"
+  },
+  "steps.10.timer.done": {
+   "fr": "Les bords sont dorés ? Sors le plat. Sinon, une minute de plus au plus.",
+   "t": "هل تحمّرت الحواف؟ أخرج الطبق. وإلا، فدقيقة إضافية على الأكثر."
+  },
+  "steps.11.title": {
+   "fr": "Émince le poulet",
+   "t": "قطّع الدجاج شرائح رقيقة"
+  },
+  "steps.11.text": {
+   "fr": "Laisse reposer le poulet quelques minutes, puis coupe-le en fines lamelles.",
+   "t": "اترك الدجاج يرتاح بضع دقائق، ثم قطّعه شرائح رقيقة."
+  },
+  "steps.11.tip": {
+   "fr": "Le repos garde le poulet juteux (Alphafoodie). Mama's Lebanese Kitchen l'effiloche finement.",
+   "t": "الراحة تحفظ عصارة الدجاج (Alphafoodie). وتفتّته Mama's Lebanese Kitchen إلى خيوط رفيعة."
+  },
+  "steps.12.title": {
+   "fr": "Garnis les pains",
+   "t": "احشُ الخبز"
+  },
+  "steps.12.text": {
+   "fr": "Étale une bonne couche de toum sur {{pain:full}}. Ajoute le poulet, des {{cornichons}}, des {{frites}}, quelques {{laitue}} et, si tu veux, des {{tomates}}.",
+   "t": "افرد طبقة جيدة من الثومية على {{pain:full}}. أضف الدجاج، و{{cornichons}}، و{{frites}}، وبعض {{laitue}}، وإن شئت {{tomates}}."
+  },
+  "steps.12.tip": {
+   "fr": "Au Liban, le chawarma de poulet se mange avec la toum. Hadia déconseille d'y ajouter de la mayonnaise, du yaourt à l'ail ou une autre sauce : ils peuvent atténuer le goût des autres ingrédients.",
+   "t": "في لبنان، تؤكل شاورما الدجاج مع الثومية. وتنصح Hadia بعدم إضافة المايونيز، أو الزبادي بالثوم، أو أي صلصة أخرى: فقد تُضعف طعم المكونات الأخرى."
+  },
+  "steps.13.title": {
+   "fr": "Roule, fais griller et sers",
+   "t": "لُفّ وحمّص وقدّم"
+  },
+  "steps.13.text": {
+   "fr": "Roule chaque sandwich bien serré. Si tu veux, passe-le dans une presse à panini, une poêle ou le four, jusqu'à ce qu'il soit doré et croustillant. Sers aussitôt.",
+   "t": "لُفّ كل سندويتش بإحكام. إن شئت، مرّره في مكبس بانيني، أو في مقلاة، أو في الفرن، حتى يصبح ذهبيًا ومقرمشًا. قدّمه فورًا."
+  },
+  "steps.14.title": {
+   "fr": "Range les restes",
+   "t": "احفظ البقايا"
+  },
+  "steps.14.text": {
+   "fr": "Mets les restes de poulet au réfrigérateur dans les 2 heures, et mange-les dans les 2 jours. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient fumants à cœur.",
+   "t": "ضع بقايا الدجاج في الثلاجة خلال ساعتين، وكُلها خلال يومين. سخّنها مرة واحدة فقط، حتى يتصاعد البخار من قلبها."
+  },
+  "steps.14.tip": {
+   "fr": "Santé Canada indique 74 °C pour réchauffer les restes ; la FSA demande qu'ils soient fumants partout, et réchauffés une seule fois.",
+   "t": "تشير Santé Canada إلى 74 درجة مئوية لتسخين البقايا؛ وتطلب FSA أن يتصاعد منها البخار في كل أجزائها، وأن تُسخَّن مرة واحدة فقط."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des hauts de cuisse : un peu plus gras, ils restent juteux. Le blanc marche aussi, mais il sèche vite s'il cuit trop.",
+   "t": "اختر الأفخاذ العلوية: فهي أكثر دهنًا قليلًا، فتبقى طرية وغنية بالعصارة. والصدر يصلح أيضًا، لكنه يجفّ بسرعة إذا طُهي أكثر من اللازم."
+  },
+  "secrets.0.source": {
+   "fr": "Alphafoodie (Samira Kazan) ; Gulf News, avec le restaurant libanais Zahrat Lebnan ; Mama's Lebanese Kitchen (75 % de blanc et 25 % de cuisse)",
+   "t": "Alphafoodie (Samira Kazan)؛ Gulf News، مع المطعم اللبناني Zahrat Lebnan؛ Mama's Lebanese Kitchen (75 % صدر و25 % فخذ)"
+  },
+  "secrets.1.text": {
+   "fr": "Coupe le poulet en fines lanières : la marinade touche plus de surface, et chaque bouchée a plus de goût.",
+   "t": "قطّع الدجاج شرائط رفيعة: فتلامس التتبيلة مساحة أكبر، ويصبح لكل لقمة طعم أقوى."
+  },
+  "secrets.1.source": {
+   "fr": "Alphafoodie ; Mama's Lebanese Kitchen ; Gulf News (Zahrat Lebnan)",
+   "t": "Alphafoodie؛ Mama's Lebanese Kitchen؛ Gulf News (Zahrat Lebnan)"
+  },
+  "secrets.2.text": {
+   "fr": "Une marinade de chawarma a trois parties : un acide (citron, vinaigre), une huile et les épices.",
+   "t": "لتتبيلة الشاورما ثلاثة أجزاء: حمض (ليمون، خل)، وزيت، وتوابل."
+  },
+  "secrets.2.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Gulf News (Zahrat Lebnan : citron, vinaigre de cidre, huile d'olive, épices) ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine؛ Gulf News (Zahrat Lebnan: ليمون، خل التفاح، زيت الزيتون، توابل)؛ Alphafoodie"
+  },
+  "secrets.3.text": {
+   "fr": "Laisse mariner longtemps, toujours au réfrigérateur : une nuit chez Mama's Lebanese Kitchen, de 6 à 24 heures chez Hadia, et jamais plus de 24 heures.",
+   "t": "اترك الدجاج في التتبيلة مدة طويلة، دائمًا في الثلاجة: ليلة كاملة عند Mama's Lebanese Kitchen، ومن 6 إلى 24 ساعة عند Hadia، ولا أكثر من 24 ساعة أبدًا."
+  },
+  "secrets.3.source": {
+   "fr": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; Alphafoodie (24 heures au plus)",
+   "t": "Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine؛ Alphafoodie (24 ساعة على الأكثر)"
+  },
+  "secrets.4.text": {
+   "fr": "Un four bien chaud, à 220 °C, puis 2 à 3 minutes sous le gril pour griller les bords.",
+   "t": "فرن ساخن جيدًا، على 220 درجة مئوية، ثم من 2 إلى 3 دقائق تحت الشواية لتحمير الحواف."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie ; The Matbakh (220 °C)",
+   "t": "Hadia's Lebanese Cuisine؛ Alphafoodie؛ The Matbakh (220 درجة مئوية)"
+  },
+  "secrets.5.text": {
+   "fr": "La toum est la sauce du chawarma de poulet ; le tarator, la sauce au tahini, va avec le chawarma de viande et les falafels.",
+   "t": "الثومية هي صلصة شاورما الدجاج؛ أما الطراطور، صلصة الطحينة، فيُقدَّم مع شاورما اللحم والفلافل."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Wikipédia en anglais et en arabe",
+   "t": "Hadia's Lebanese Cuisine؛ Wikipédia بالإنجليزية وبالعربية"
+  },
+  "secrets.6.text": {
+   "fr": "Pour la toum, verse l'huile en filet très fin, robot en marche, et alterne avec le citron : c'est une émulsion, comme une mayonnaise.",
+   "t": "للثومية، صبّ الزيت في خيط رفيع جدًا والمحضّرة تعمل، وبادل بينه وبين الليمون: إنها مستحلب، مثل المايونيز."
+  },
+  "secrets.6.source": {
+   "fr": "Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine",
+   "t": "Mama's Lebanese Kitchen؛ Alphafoodie؛ Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Huile neutre pour la toum, jamais d'huile d'olive.",
+   "t": "زيت المائدة للثومية، ولا زيت الزيتون أبدًا."
+  },
+  "secrets.7.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ Alphafoodie"
+  },
+  "secrets.8.text": {
+   "fr": "Ail frais et ferme, sans germe vert, pour une toum qui n'est pas amère.",
+   "t": "ثوم طازج وصلب، دون برعم أخضر، لثومية غير مُرّة."
+  },
+  "secrets.8.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine؛ Alphafoodie"
+  },
+  "secrets.9.text": {
+   "fr": "Autrefois, la toum se faisait au mortier : l'ail pilé avec le sel, puis l'huile ajoutée par toutes petites quantités, pendant 30 à 40 minutes, avec quelques gouttes de citron.",
+   "t": "في الماضي، كانت الثومية تُحضَّر في المهراس: يُدقّ الثوم مع الملح، ثم يُضاف الزيت بكميات صغيرة جدًا، طوال 30 إلى 40 دقيقة، مع بضع قطرات من الليمون."
+  },
+  "secrets.9.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "secrets.10.text": {
+   "fr": "Si ta toum tranche, ne la jette pas : Mama's Lebanese Kitchen s'en sert comme marinade pour du poulet grillé ; Alphafoodie recommence avec un peu d'ail et y ajoute peu à peu la sauce ratée.",
+   "t": "إذا انفصلت الثومية، فلا ترمها: تستعملها Mama's Lebanese Kitchen تتبيلةً للدجاج المشوي؛ وتعيد Alphafoodie المحاولة بقليل من الثوم وتضيف إليه الصلصة الفاشلة شيئًا فشيئًا."
+  },
+  "secrets.10.source": {
+   "fr": "Mama's Lebanese Kitchen ; Alphafoodie",
+   "t": "Mama's Lebanese Kitchen؛ Alphafoodie"
+  },
+  "secrets.11.text": {
+   "fr": "Roule le sandwich bien serré et passe-le à la presse ou au four : il devient croustillant.",
+   "t": "لُفّ السندويتش بإحكام ومرّره على المكبس أو في الفرن: فيصبح مقرمشًا."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie (à la poêle)",
+   "t": "Hadia's Lebanese Cuisine؛ Alphafoodie (في المقلاة)"
+  },
+  "secrets.12.text": {
+   "fr": "Un thermomètre est le seul moyen d'être sûr que le poulet est cuit (74 °C), sans le dessécher.",
+   "t": "ميزان الحرارة هو الوسيلة الوحيدة للتأكد من أن الدجاج قد نضج (74 درجة مئوية)، دون أن يجفّ."
+  },
+  "secrets.12.source": {
+   "fr": "Alphafoodie ; Santé Canada",
+   "t": "Alphafoodie؛ Santé Canada"
+  },
+  "secrets.13.text": {
+   "fr": "Prends des cornichons au sel, à la libanaise.",
+   "t": "اختر مخلل الخيار بالملح، على الطريقة اللبنانية."
+  },
+  "secrets.13.source": {
+   "fr": "Mama's Lebanese Kitchen (« salty cucumber pickles ») ; Hadia's Lebanese Cuisine (pickles en fines tranches)",
+   "t": "Mama's Lebanese Kitchen («salty cucumber pickles»)؛ Hadia's Lebanese Cuisine (مخللات مقطّعة شرائح رقيقة)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : l'eau projette les bactéries sur les mains, le plan de travail et les ustensiles (FSA).",
+   "t": "غسل الدجاج النيء: يرشّ الماء البكتيريا على اليدين وسطح العمل والأدوات (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser mariner sur le plan de travail : la marinade se fait au réfrigérateur (Santé Canada).",
+   "t": "ترك الدجاج في التتبيلة على سطح العمل: التتبيل يكون في الثلاجة (Santé Canada)."
+  },
+  "mistakes.2": {
+   "fr": "Verser sur le poulet cuit de la marinade qui a touché la viande crue (Santé Canada).",
+   "t": "صبّ تتبيلة لامست اللحم النيء على الدجاج المطبوخ (Santé Canada)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire le blanc de poulet : il devient sec (Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "طهي صدر الدجاج أكثر من اللازم: يصبح جافًا (Mama's Lebanese Kitchen؛ Alphafoodie)."
+  },
+  "mistakes.4": {
+   "fr": "Se fier à la couleur seule : vérifie 74 °C au cœur avec un thermomètre (Alphafoodie ; Santé Canada).",
+   "t": "الاعتماد على اللون وحده: تحقّق من بلوغ 74 درجة مئوية في القلب بميزان حرارة (Alphafoodie؛ Santé Canada)."
+  },
+  "mistakes.5": {
+   "fr": "Verser l'huile trop vite dans la toum : elle tranche (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine).",
+   "t": "صبّ الزيت بسرعة كبيرة في الثومية: تنفصل (Mama's Lebanese Kitchen؛ Alphafoodie؛ Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.6": {
+   "fr": "Faire la toum à l'huile d'olive : goût trop fort, couleur moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "تحضير الثومية بزيت الزيتون: طعم قوي جدًا، ولون أقل بياضًا (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ Alphafoodie)."
+  },
+  "mistakes.7": {
+   "fr": "Prendre de l'ail germé : la toum devient amère (Hadia's Lebanese Cuisine ; Alphafoodie).",
+   "t": "استعمال ثوم نابت: تصبح الثومية مُرّة (Hadia's Lebanese Cuisine؛ Alphafoodie)."
+  },
+  "mistakes.8": {
+   "fr": "Garder la toum à température ambiante, ou trop longtemps au réfrigérateur (Santé Canada ; NCHFP).",
+   "t": "حفظ الثومية في حرارة الغرفة، أو مدة طويلة جدًا في الثلاجة (Santé Canada؛ NCHFP)."
+  },
+  "mistakes.9": {
+   "fr": "Servir le chawarma de poulet avec de la mayonnaise ou du yaourt à l'ail : au Liban, c'est la toum (Hadia's Lebanese Cuisine).",
+   "t": "تقديم شاورما الدجاج مع المايونيز أو الزبادي بالثوم: في لبنان، تُقدَّم مع الثومية (Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.10": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur, ou les réchauffer plus d'une fois (FSA).",
+   "t": "ترك البقايا أكثر من ساعتين خارج الثلاجة، أو تسخينها أكثر من مرة (FSA)."
+  },
+  "variants.0": {
+   "fr": "Avec la sauce au tahini (tarator) à la place de la toum. Hadia précise que ce n'est pas la sauce traditionnelle du chawarma de poulet : elle va plutôt avec le chawarma de viande et les falafels (Hadia's Lebanese Cuisine ; Wikipédia en anglais).",
+   "t": "مع صلصة الطحينة (الطراطور) بدل الثومية. وتوضّح Hadia أنها ليست الصلصة التقليدية لشاورما الدجاج: فهي تُقدَّم بالأحرى مع شاورما اللحم والفلافل (Hadia's Lebanese Cuisine؛ Wikipédia بالإنجليزية)."
+  },
+  "variants.1": {
+   "fr": "La toum « facile » de Hadia : on y ajoute une crème de fécule de maïs cuite et refroidie, qui la rend plus facile à réussir (Hadia's Lebanese Cuisine).",
+   "t": "الثومية «السهلة» عند Hadia: يُضاف إليها كريم من نشا الذرة المطبوخ والمبرَّد، يجعل نجاحها أسهل (Hadia's Lebanese Cuisine)."
+  },
+  "variants.2": {
+   "fr": "À la poêle : 12 à 15 minutes à feu moyen-vif, par petites quantités (Alphafoodie).",
+   "t": "في المقلاة: من 12 إلى 15 دقيقة على نار متوسطة إلى قوية، على دفعات صغيرة (Alphafoodie)."
+  },
+  "variants.3": {
+   "fr": "À la friteuse à air : 10 à 14 minutes à 205 °C (400 °F), en secouant à mi-cuisson (Alphafoodie).",
+   "t": "في المقلاة الهوائية: من 10 إلى 14 دقيقة على 205 درجة مئوية (400 درجة فهرنهايت)، مع الرجّ في منتصف مدة الطهي (Alphafoodie)."
+  },
+  "variants.4": {
+   "fr": "Au grill à panini : environ 15 minutes à feu moyen. Mama's Lebanese Kitchen préfère cette méthode, qui garde le poulet plus juteux que le four.",
+   "t": "في شواية البانيني: نحو 15 دقيقة على نار متوسطة. تفضّل Mama's Lebanese Kitchen هذه الطريقة، لأنها تحفظ عصارة الدجاج أكثر من الفرن."
+  },
+  "variants.5": {
+   "fr": "Avec des tomates et un oignon en tranches, cuits dans le plat avec le poulet (The Matbakh).",
+   "t": "مع الطماطم وبصلة مقطّعة شرائح، تُطهى في الطبق مع الدجاج (The Matbakh)."
+  },
+  "variants.6": {
+   "fr": "Façon Zahrat Lebnan, restaurant libanais d'Abou Dhabi : poulet mariné 4 à 6 heures, cuit 2 heures à couvert entre 130 et 150 °C, puis effiloché ; environ 100 g par pain, avec une sauce au tahini, des tomates grillées, des frites, du cerfeuil ou du persil et de la coriandre (Gulf News).",
+   "t": "على طريقة Zahrat Lebnan، مطعم لبناني في أبوظبي: دجاج متبّل من 4 إلى 6 ساعات، يُطهى ساعتين مغطّى على حرارة بين 130 و150 درجة مئوية، ثم يُفتّت؛ نحو 100 غ لكل رغيف، مع صلصة الطحينة، وطماطم مشوية، وبطاطس مقلية، والشرفيل أو البقدونس، والكزبرة (Gulf News)."
+  },
+  "variants.7": {
+   "fr": "Sandwich croustillant d'Alphafoodie : des chips dans le sandwich, l'extérieur badigeonné d'huile d'olive, de pâte de piment et d'un peu de mélasse de grenade, puis grillé à la poêle.",
+   "t": "سندويتش Alphafoodie المقرمش: رقائق البطاطس داخل السندويتش، والخارج مدهون بزيت الزيتون ومعجون الفلفل الحار وقليل من دبس الرمان، ثم يُحمَّص في المقلاة."
+  },
+  "variants.8": {
+   "fr": "Chawarma de viande à la libanaise (bœuf ou agneau halal) : avec le tarator, des tomates, du persil, de l'oignon au sumac et des pickles (Taste of Beirut ; Hadia's Lebanese Cuisine).",
+   "t": "شاورما اللحم على الطريقة اللبنانية (لحم بقر أو خروف حلال): مع الطراطور، والطماطم، والبقدونس، والبصل بالسماق، والمخللات (Taste of Beirut؛ Hadia's Lebanese Cuisine)."
+  },
+  "variants.9": {
+   "fr": "En Syrie, le chawarma se sert surtout avec la sauce à l'ail ; en Palestine, avec du sumac, des oignons et du tahini (Wikipédia en anglais).",
+   "t": "في سوريا، تُقدَّم الشاورما خاصة مع صلصة الثوم؛ وفي فلسطين، مع السماق والبصل والطحينة (Wikipédia بالإنجليزية)."
+  },
+  "variants.10": {
+   "fr": "Dans certains restaurants libanais, une salade de chou à la mayonnaise remplace les frites (Mama's Lebanese Kitchen).",
+   "t": "في بعض المطاعم اللبنانية، تحلّ سلطة الملفوف بالمايونيز محلّ البطاطس المقلية (Mama's Lebanese Kitchen)."
+  }
+ }
+}

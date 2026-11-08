@@ -168,7 +168,7 @@
   },
   "ing.piment-vert.note": {
    "fr": "facultatif ; à poser entier",
-   "t": "اختياري؛ يوضع كاملًا"
+   "t": "اختياري؛ توضع كاملة"
   },
   "ing.citron-rondelles.name": {
    "fr": "quelques rondelles de citron frais",
@@ -232,11 +232,11 @@
   },
   "steps.0.text": {
    "fr": "Prends {{poisson:full}}. Il doit sentir frais et doux, jamais fort, aigre ou l'ammoniaque. Entier, il a l'œil clair et brillant, les ouïes rouges et une chair ferme qui reprend sa forme quand tu appuies dessus. Demande au poissonnier de l'écailler, de le vider et de le couper en darnes épaisses.",
-   "t": "خذ {{poisson:full}}. يجب أن تكون رائحته طازجة وخفيفة، لا قوية ولا حامضة ولا برائحة الأمونيا أبدًا. وإذا كان كاملًا، تكون عينه صافية لامعة، وخياشيمه حمراء، ولحمه متماسكًا يعود إلى شكله حين تضغط عليه. اطلب من بائع السمك أن ينزع حراشفه، وينظّف أحشاءه، ويقطّعه قطعًا عرضية سميكة."
+   "t": "خذ {{poisson:full}}. يجب أن تكون رائحته طازجة وخفيفة، لا قوية ولا حامضة ولا برائحة الأمونيا أبدًا. وإذا كان كاملًا، تكون عينه صافية لامعة، وخياشيمه حمراء، ولحمه متماسكًا يعود إلى شكله حين تضغط عليه. اطلب من بائع السمك أن ينزع حراشفه، وينزع أحشاءه، ويقطّعه قطعًا عرضية سميكة."
   },
   "steps.0.tip": {
    "fr": "Garde-le dans la partie la plus froide du réfrigérateur (4 °C) et cuisine-le dans les 2 jours ; sinon, congèle-le. Surgelé, fais-le décongeler une nuit au réfrigérateur (FDA ; ANSES).",
-   "t": "احفظه في أبرد جزء من الثلاجة (4 درجات مئوية)، واطبخه خلال 2 يوم؛ وإلا فجمّده. وإذا كان مجمّدًا، ففكّ تجميده في الثلاجة طوال ليلة (FDA؛ ANSES)."
+   "t": "احفظه في أبرد جزء من الثلاجة (4 درجات مئوية)، واطبخه خلال يومين؛ وإلا فجمّده. وإذا كان مجمّدًا، ففكّ تجميده في الثلاجة طوال ليلة (FDA؛ ANSES)."
   },
   "steps.1.title": {
    "fr": "Rince et sèche le poisson",
@@ -256,7 +256,7 @@
   },
   "steps.2.tip": {
    "fr": "Hache bien la coriandre avant de la piler, sinon la chermoula devient filandreuse. Sans mortier, un hachoir ou un mixeur fait l'affaire.",
-   "t": "افرم الكزبرة جيدًا قبل هرسها، وإلا صارت الشرمولة كثيرة الألياف. وإن لم يكن لديك هاون، فالمفرمة أو الخلاط يفيان بالغرض."
+   "t": "افرم الكزبرة جيدًا قبل هرسها، وإلا صارت الشرمولة كثيرة الألياف. وإن لم يكن لديك هاون، فالمفرمة أو الخلاط يفي بالغرض."
   },
   "steps.3.title": {
    "fr": "Mets la moitié de la chermoula de côté",
@@ -272,7 +272,7 @@
   },
   "steps.4.text": {
    "fr": "Enrobe bien chaque darne avec l'autre moitié de la chermoula. Couvre et laisse mariner au réfrigérateur au moins 30 min, et jusqu'à 2 h si tu as le temps.",
-   "t": "غلّف كل قطعة جيدًا بالنصف الآخر من الشرمولة. غطِّ الطبق واتركه يتشرّب التتبيلة في الثلاجة 30 دقيقة على الأقل، وحتى 2 ساعة إن كان لديك وقت."
+   "t": "غلّف كل قطعة جيدًا بالنصف الآخر من الشرمولة. غطِّ الطبق واتركه يتشرّب التتبيلة في الثلاجة 30 دقيقة على الأقل، وحتى ساعتين إن كان لديك وقت."
   },
   "steps.4.tip": {
    "fr": "Ne laisse pas le poisson cru mariner hors du réfrigérateur.",
@@ -284,7 +284,7 @@
   },
   "steps.4.timer.done": {
    "fr": "Le poisson a mariné 30 min : tu peux monter le tajine, ou le laisser jusqu'à 2 h au frais.",
-   "t": "تشرّب السمك التتبيلة 30 دقيقة: يمكنك الآن تركيب الطاجين، أو تركه حتى 2 ساعة في الثلاجة."
+   "t": "تشرّب السمك التتبيلة 30 دقيقة: يمكنك الآن تركيب الطاجين، أو تركه حتى ساعتين في الثلاجة."
   },
   "steps.5.title": {
    "fr": "Coupe les légumes",
@@ -344,7 +344,7 @@
   },
   "steps.11.text": {
    "fr": "Laisse cuire 30 min à couvert, puis vérifie : les pommes de terre doivent être tendres et le poisson doit se détacher facilement à la fourchette. Sinon, poursuis à feu doux et vérifie souvent. Au tajine en terre, c'est plus long : Taste of Maroc compte environ 1 h de frémissement.",
-   "t": "اتركه يُطهى 30 دقيقة وهو مغطّى، ثم تحقّق: يجب أن تكون البطاطا طرية، وأن ينفصل لحم السمك بسهولة بالشوكة. وإلا فواصل الطهي على نار هادئة وتحقّق كثيرًا. في الطاجين الطيني يستغرق الأمر وقتًا أطول: يحسب Taste of Maroc نحو 1 ساعة من الغليان الخفيف."
+   "t": "اتركه يُطهى 30 دقيقة وهو مغطّى، ثم تحقّق: يجب أن تكون البطاطا طرية، وأن ينفصل لحم السمك بسهولة بالشوكة. وإلا فواصل الطهي على نار هادئة وتحقّق كثيرًا. في الطاجين الطيني يستغرق الأمر وقتًا أطول: يحسب Taste of Maroc نحو ساعة من الغليان الخفيف."
   },
   "steps.11.tip": {
    "fr": "Avec un thermomètre, le cœur du poisson doit atteindre 70 °C (Santé Canada).",
@@ -380,7 +380,7 @@
   },
   "steps.14.text": {
    "fr": "Ne laisse pas le tajine plus de 2 h à température ambiante, ni plus d'1 h s'il fait plus de 32 °C. Mets les restes dans une boîte fermée au réfrigérateur et mange-les dans les 3 jours. Réchauffe-les à couvert jusqu'à ce que la vapeur s'échappe et que ce soit bien chaud à cœur (74 °C).",
-   "t": "لا تترك الطاجين أكثر من 2 ساعة في حرارة الغرفة، ولا أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية. ضع البقايا في علبة مغلقة في الثلاجة، وتناولها خلال 3 أيام. سخّنها مغطّاة حتى يتصاعد البخار وتصير ساخنة جيدًا في قلبها (74 درجة مئوية)."
+   "t": "لا تترك الطاجين أكثر من ساعتين في حرارة الغرفة، ولا أكثر من ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية. ضع البقايا في علبة مغلقة في الثلاجة، وتناولها خلال 3 أيام. سخّنها مغطّاة حتى يتصاعد البخار وتصير ساخنة جيدًا في قلبها (74 درجة مئوية)."
   },
   "secrets.0.text": {
    "fr": "Protège le fond : Choumicha tapisse le tajine de tiges de coriandre ou de brochettes en bois, Bladi pose des branches de coriandre en quadrillage, Lalla Moulati un peu de persil et de légumes, et Taste of Maroc des bâtonnets de céleri ou de petites brochettes. Rien ne touche le fond, rien n'attache.",
@@ -431,8 +431,8 @@
    "t": "My Moroccan Food (Nargisse Benkabbou)؛ Taste of Maroc (Christine Benlafquih)"
   },
   "secrets.6.text": {
-   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
-   "t": "في المغرب، يُختار سمك متماسك وسميك: maigre أو loup أو dorade أو pageot أو congre. ويصلح أيضًا السردين أو سمك merlan، كاملين. سمك congre دهني لكنه قليل الحسك، ويُخرج ماءً في أثناء طهيه: معه يمكنك الاستغناء عن الماء."
+   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre peut être gras, mais il a relativement peu d'arêtes à gérer à table, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "t": "في المغرب، يُختار سمك متماسك وسميك: maigre أو loup أو dorade أو pageot أو congre. ويصلح أيضًا السردين أو سمك merlan، كاملين. قد يكون سمك congre دهنيًا، لكن حسكه الذي يلزم التعامل معه على المائدة قليل نسبيًا، ويُخرج ماءً في أثناء طهيه: معه يمكنك الاستغناء عن الماء."
   },
   "secrets.6.source": {
    "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha",
@@ -528,11 +528,11 @@
   },
   "mistakes.8": {
    "fr": "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid, ou plus d'1 h s'il fait plus de 32 °C (FDA ; ANSES).",
-   "t": "ترك الطبق أكثر من 2 ساعة في حرارة الغرفة قبل وضعه في البرودة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA؛ ANSES)."
+   "t": "ترك الطبق أكثر من ساعتين في حرارة الغرفة قبل وضعه في الثلاجة، أو أكثر من ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA؛ ANSES)."
   },
   "variants.0": {
    "fr": "Nord du Maroc : à Tanger et à Tétouan, beaucoup de plats de poisson cuisent dans une tagra, un plat ovale en terre poreuse non vernissée, fait par des potiers près de l'oued Laou, sur la braise ou au four du boulanger ; elle laisse l'humidité s'évaporer lentement et donne au poisson un goût de terre ; Paula Wolfert y superpose pommes de terre, carottes, tomates, poivron rouge et sardines, met la tagra dans le four, l'allume à 180 °C et cuit 1 h ; à la sortie, elle la pose sur du bois ou un torchon plié pour éviter qu'elle se fende, et laisse reposer 30 min. La plupart des tagras n'ont pas de couvercle : couvre-la de papier aluminium sans serrer (Paula Wolfert ; Taste of Maroc).",
-   "t": "شمال المغرب: في طنجة وتطوان، تُطهى أطباق كثيرة من السمك في tagra، وهي آنية بيضوية من طين مسامي غير مزجّج، يصنعها خزّافون قرب واد لاو، على الجمر أو في فرن الخبّاز؛ فهي تترك الرطوبة تتبخّر ببطء، وتمنح السمك طعم الطين؛ تضع فيها Paula Wolfert طبقات من البطاطا والجزر والطماطم والفلفل الأحمر الحلو والسردين، ثم تضع الـ tagra في الفرن، وتشغّله على 180 درجة مئوية، وتطهو 1 ساعة؛ وعند إخراجها، تضعها على الخشب أو على منشفة مطوية حتى لا تتشقّق، وتتركها ترتاح 30 دقيقة. ومعظم آنية الـ tagra بلا غطاء: غطّها بورق الألمنيوم دون إحكام (Paula Wolfert؛ Taste of Maroc)."
+   "t": "شمال المغرب: في طنجة وتطوان، تُطهى أطباق كثيرة من السمك في tagra، وهي آنية بيضوية من طين مسامي غير مزجّج، يصنعها خزّافون قرب واد لاو، على الجمر أو في فرن الخبّاز؛ فهي تترك الرطوبة تتبخّر ببطء، وتمنح السمك طعم الطين؛ تضع فيها Paula Wolfert طبقات من البطاطا والجزر والطماطم والفلفل الأحمر الحلو والسردين، ثم تضع الـ tagra في الفرن، وتشغّله على 180 درجة مئوية، وتطهو ساعة واحدة؛ وعند إخراجها، تضعها على الخشب أو على منشفة مطوية حتى لا تتشقّق، وتتركها ترتاح 30 دقيقة. ومعظم آنية الـ tagra بلا غطاء: غطّها بورق الألمنيوم دون إحكام (Paula Wolfert؛ Taste of Maroc)."
   },
   "variants.1": {
    "fr": "Au four : poisson entier sur un lit de pommes de terre en fines rondelles, tomates, poivrons grillés et piments, environ 40 min à four moyen-chaud en arrosant à mi-cuisson (Bladi.net) ; Choumicha cuit un poisson de 700 g 25 min à 170 °C puis le laisse reposer 15 à 20 min dans le four éteint ; My Moroccan Food cuit ses sardines 30 à 35 min à 200 °C sous papier aluminium.",
@@ -544,7 +544,7 @@
   },
   "variants.3": {
    "fr": "Tajine de poisson safrané : darnes de loup marinées 1 h dans une chermoula au safran, au smen et au poivre blanc, posées sur des branches de coriandre avec olives vertes et citron confit, sans légumes, 20 à 25 min sur le charbon (Bladi.net).",
-   "t": "طاجين السمك بالزعفران: قطع عرضية من سمك loup تُتبّل 1 ساعة في شرمولة بالزعفران والسمن البلدي والفلفل الأبيض، وتوضع على أغصان الكزبرة مع الزيتون الأخضر والليمون المخلل، بدون خضر، من 20 إلى 25 دقيقة على الفحم (Bladi.net)."
+   "t": "طاجين السمك بالزعفران: قطع عرضية من سمك loup تُتبّل ساعة واحدة في شرمولة بالزعفران والسمن البلدي والفلفل الأبيض، وتوضع على أغصان الكزبرة مع الزيتون الأخضر والليمون المخلل، بدون خضر، من 20 إلى 25 دقيقة على الفحم (Bladi.net)."
   },
   "variants.4": {
    "fr": "Pageot aux olives m'slalla : oignons et tomates au fond, laurier, olives vertes m'slalla et écorce de citron confit, chermoula au vinaigre, 45 min au four à 180 °C ou sur le charbon (Choumicha).",

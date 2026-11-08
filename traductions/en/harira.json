@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Au ftour du Ramadan, la harira se sert bien chaude dès la rupture du jeûne, chaque jour du mois. Chacun presse un quartier de citron dans son bol. Autour : des dattes (ou des figues sèches), des chebakia, des œufs durs à tremper dans du sel et du cumin, et souvent du msemen, des briouates ou du pain maison. Hors Ramadan, elle se sert en entrée, en dîner léger ou lors des rassemblements de famille.",
-   "t": "At the Ramadan iftar, harira is served piping hot as soon as the fast is broken, every day of the month. Everyone squeezes a lemon wedge into their bowl. Around it: dates (or dried figs), chebakia, hard-boiled eggs to dip in salt and cumin, and often msemen, briouates or homemade bread. Outside Ramadan, it is served as a starter, as a light dinner or at family gatherings."
+   "t": "At the Ramadan iftar, harira is served piping hot as soon as the fast is broken, every day of the month. Everyone squeezes a lemon wedge into their bowl. Around it: dates (or dried figs), chebakia, hard-boiled eggs to dip in salt and cumin, and often msemen, briouats or homemade bread. Outside Ramadan, it is served as a starter, as a light dinner or at family gatherings."
   },
   "ing.0.group": {
    "fr": "Bouillon",
@@ -67,8 +67,8 @@
    "t": "celery sticks with their leaves"
   },
   "ing.celeri.note": {
-   "fr": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
-   "t": "in Morocco, a fine-leaved celery similar to Chinese celery is used: a small bunch"
+   "fr": "ou, à la place de chaque branche, une petite botte de céleri chinois (à feuilles fines, il ressemble à une botte de persil) : c'est celui qu'on utilise au Maroc",
+   "t": "or, instead of each stick, a small bunch of Chinese celery (fine-leaved, it looks like a bunch of parsley): this is the one used in Morocco"
   },
   "ing.persil.name": {
    "fr": "de persil plat",
@@ -384,7 +384,7 @@
   },
   "secrets.0.text": {
    "fr": "Pèle les pois chiches après le trempage, en les frottant vigoureusement dans un torchon : toutes les recettes marocaines consultées les veulent sans peau.",
-   "t": "Skin the chickpeas after soaking, rubbing them vigorously in a tea towel: all the Moroccan recipes consulted want them without their skins."
+   "t": "Skin the chickpeas after soaking, rubbing them vigorously in a tea towel: all the Moroccan recipes consulted call for them skinned."
   },
   "secrets.0.source": {
    "fr": "Taste of Maroc ; Gâteau et cuisine Rachida ; Royal Mansour (chef Karim Ben Baba) ; Choumicha (Gulf News) ; Morocco World News",
@@ -540,7 +540,7 @@
   },
   "variants.2": {
    "fr": "Harira oujdia (Oujda) : préparée avec un levain pétri la veille et beaucoup de persil, de coriandre et de céleri (Aujourd'hui le Maroc, repris par Yabiladi) ; selon Rachida, très parfumée au carvi et au piment de la Jamaïque, et certaines familles ajoutent des fèves sèches aux pois chiches — Gâteau et cuisine Rachida.",
-   "t": "Harira oujdia (Oujda): made with a leaven kneaded the day before and plenty of parsley, coriander and celery (Aujourd'hui le Maroc, reported by Yabiladi); according to Rachida, strongly flavoured with caraway and allspice, and some families add dried fava beans to the chickpeas — Gâteau et cuisine Rachida."
+   "t": "Harira oujdia (Oujda): made with a leaven kneaded the day before and plenty of parsley, coriander and celery (Aujourd'hui le Maroc, republished by Yabiladi); according to Rachida, strongly flavoured with caraway and allspice, and some families add dried fava beans to the chickpeas — Gâteau et cuisine Rachida."
   },
   "variants.3": {
    "fr": "Harira bidaouia (Casablanca) : on y ajoute le plus souvent un œuf battu après la tadouira (Gâteau et cuisine Rachida) ; certaines familles lient même la harira aux œufs à la place de la tadouira (Taste of Maroc).",

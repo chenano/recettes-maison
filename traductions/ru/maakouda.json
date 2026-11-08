@@ -1,0 +1,470 @@
+{
+ "_slug": "maakouda",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Maakouda (beignets de pommes de terre)",
+   "t": "Маакуда (картофельные оладьи во фритюре)"
+  },
+  "darija": {
+   "fr": "maakouda",
+   "t": "маакуда"
+  },
+  "tagline": {
+   "fr": "De petites galettes de purée à l'ail et au persil, trempées dans une pâte jaune à la levure et frites : croustillantes dehors, fondantes dedans, la maakouda des snacks marocains.",
+   "t": "Небольшие лепёшки из картофельного пюре с чесноком и петрушкой, обмакнутые в жёлтое дрожжевое тесто и обжаренные во фритюре: хрустящие снаружи, нежные внутри — маакуда из марокканских закусочных."
+  },
+  "region": {
+   "fr": "Fès. Selon un vendeur de maakouda de Fès, c'est un plat d'origine fassie, né dans le quartier des Achabine (Febrayer). C'est à Fès qu'elle est la plus célèbre (MWN Lifestyle, 2021). Elle est aujourd'hui vendue dans presque toutes les villes du Maroc (MWN Lifestyle).",
+   "t": "Фес. По словам продавца маакуды из Феса, это блюдо фесского происхождения, появившееся в квартале Ашабин (Febrayer). Больше всего она славится именно в Фесе (MWN Lifestyle, 2021). Сегодня её продают почти во всех городах Марокко (MWN Lifestyle)."
+  },
+  "occasion": {
+   "fr": "En-cas de rue, entrée, accompagnement ou garniture de sandwich (My Moroccan Food). Elle est aussi servie au ftour du ramadan (MWN Lifestyle, Morocco World News).",
+   "t": "Уличный перекус, закуска, гарнир или начинка для сэндвича (My Moroccan Food). Её также подают на ифтар в Рамадан (MWN Lifestyle, Morocco World News)."
+  },
+  "img_alt": {
+   "fr": "Maakouda : galettes de pommes de terre aux herbes, dorées à la friture",
+   "t": "Маакуда: картофельные лепёшки с зеленью, обжаренные во фритюре до золотистого цвета"
+  },
+  "serving": {
+   "fr": "Sers les maakouda chaudes, juste après les avoir égouttées (MWN Lifestyle ; My Moroccan Food). Mange-les seules avec de la harissa ou du ketchup (MWN Lifestyle), avec une sauce tomate à la harissa et au citron (My Moroccan Food), ou en sandwich : dans le pain marocain avec de la harissa (Wikipédia), ou dans une demi-baguette avec ketchup ou harissa, laitue et tomate (Cooking With Alia). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "Подавайте маакуду горячей, сразу после того, как с неё стечёт масло (MWN Lifestyle; My Moroccan Food). Ешьте её саму по себе с хариссой или кетчупом (MWN Lifestyle), с томатным соусом с хариссой и лимоном (My Moroccan Food) или в сэндвиче: в марокканском хлебе с хариссой (Wikipédia) или в половинке багета с кетчупом или хариссой, салатом-латуком и помидором (Cooking With Alia). Остатки: в холодильник в течение 2 часов, съесть в течение 48 часов; разогревайте их только один раз, пока середина не станет обжигающе горячей (FSA). В самой холодной зоне вашего холодильника должно быть 4 °C (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La pâte à beignets",
+   "t": "Кляр"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche",
+   "t": "белой пшеничной муки"
+  },
+  "ing.levure.name": {
+   "fr": "de levure de boulanger sèche",
+   "t": "сухих хлебопекарных дрожжей"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.curcuma.note": {
+   "fr": "pour la couleur jaune",
+   "t": "для жёлтого цвета"
+  },
+  "ing.sel-pate.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "тёплой воды"
+  },
+  "ing.1.group": {
+   "fr": "La purée",
+   "t": "Пюре"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre",
+   "t": "картофеля"
+  },
+  "ing.sel-cuisson.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel-cuisson.note": {
+   "fr": "une pincée, pour l'eau de cuisson",
+   "t": "щепотка — в воду для варки"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché finement",
+   "t": "мелко нарубленной петрушки"
+  },
+  "ing.ail.name": {
+   "fr": "d'ail haché finement",
+   "t": "мелко нарубленного чеснока"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "скорректировать по вкусу, попробовав"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "молотый чёрный перец"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût ; My Moroccan Food en met ¼ c. à c. pour 500 g",
+   "t": "по вкусу; My Moroccan Food кладёт ¼ ч. л. на 500 г"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort en poudre",
+   "t": "молотый острый перец"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif ; Cooking With Alia en met ¼ c. à c. pour 800 g",
+   "t": "по желанию; Cooking With Alia кладёт ¼ ч. л. на 800 г"
+  },
+  "ing.2.group": {
+   "fr": "Friture et service",
+   "t": "Жарка и подача"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture",
+   "t": "растительное масло для фритюра"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, arachide ou olive : elles fument vers 210 à 220 °C, au-dessus des 180 °C de la friture, alors que la graisse végétale à frire fume dès 175 °C (gouvernement du Québec) ; casserole remplie au tiers de sa hauteur au plus",
+   "t": "подсолнечное, арахисовое или оливковое: они начинают дымить примерно при 210–220 °C, то есть выше 180 °C, нужных для фритюра, тогда как растительный жир для фритюра дымит уже при 175 °C (gouvernement du Québec); кастрюля заполнена не больше чем на треть высоты"
+  },
+  "ing.pain.name": {
+   "fr": "pain (khobz ou demi-baguette)",
+   "t": "хлеб (хобз или половинка багета)"
+  },
+  "ing.pain.note": {
+   "fr": "facultatif, pour les sandwichs",
+   "t": "по желанию, для сэндвичей"
+  },
+  "ing.harissa.name": {
+   "fr": "harissa",
+   "t": "харисса"
+  },
+  "ing.harissa.note": {
+   "fr": "facultatif, pour servir",
+   "t": "по желанию, для подачи"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier et un fouet pour la pâte",
+   "t": "Большая миска и венчик для кляра"
+  },
+  "equipment.1": {
+   "fr": "Un torchon propre ou du film alimentaire",
+   "t": "Чистое полотенце или пищевая плёнка"
+  },
+  "equipment.2": {
+   "fr": "Une casserole pour les pommes de terre, et une passoire",
+   "t": "Кастрюля для картофеля и дуршлаг"
+  },
+  "equipment.3": {
+   "fr": "Un presse-purée, une fourchette ou une cuillère en bois",
+   "t": "Толкушка для пюре, вилка или деревянная ложка"
+  },
+  "equipment.4": {
+   "fr": "Une plaque avec du papier sulfurisé",
+   "t": "Противень с пергаментной бумагой"
+  },
+  "equipment.5": {
+   "fr": "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde et un thermomètre de cuisson",
+   "t": "Электрическая фритюрница с термостатом (самый безопасный вариант) или глубокая кастрюля и кулинарный термометр"
+  },
+  "equipment.6": {
+   "fr": "Un couvercle à la taille de la casserole, toujours à portée de main",
+   "t": "Крышка по размеру кастрюли — всегда под рукой"
+  },
+  "equipment.7": {
+   "fr": "Deux cuillères ou une fourchette pour enrober",
+   "t": "Две ложки или вилка, чтобы покрывать кляром"
+  },
+  "equipment.8": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "Шумовка и бумажные полотенца"
+  },
+  "steps.0.title": {
+   "fr": "Prépare la pâte à beignets",
+   "t": "Приготовьте кляр"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{levure}} de levure, {{curcuma}} de curcuma et {{sel-pate}} de sel. Verse {{eau}} d'eau tiède peu à peu, en fouettant, jusqu'à une pâte lisse et épaisse, sans grumeaux.",
+   "t": "В большой миске смешайте {{farine:full}}, {{levure:full}}, {{curcuma:full}} и {{sel-pate:full}}. Понемногу вливайте {{eau:full}}, взбивая венчиком, пока не получится гладкое густое тесто без комочков."
+  },
+  "steps.0.tip": {
+   "fr": "La pâte doit napper : ni trop épaisse (ajoute 2 c. à s. d'eau si besoin), ni trop liquide, sinon elle se défait dans l'huile (My Moroccan Food). Dialna la veut lisse et épaisse, comme une pâte à pancakes ou une béchamel.",
+   "t": "Кляр должен обволакивать: не слишком густой (при необходимости добавьте 2 ст. л. воды) и не слишком жидкий, иначе он расползётся в масле (My Moroccan Food). Dialna добивается гладкого и густого кляра, как тесто для панкейков или бешамель."
+  },
+  "steps.1.title": {
+   "fr": "Laisse lever la pâte",
+   "t": "Дайте кляру подняться"
+  },
+  "steps.1.text": {
+   "fr": "Couvre le saladier avec un torchon propre ou du film alimentaire. Laisse lever la pâte à température ambiante de 30 minutes à 1 heure. Pendant ce temps, prépare la purée.",
+   "t": "Накройте миску чистым полотенцем или пищевой плёнкой. Оставьте кляр подниматься при комнатной температуре от 30 минут до 1 часа. Тем временем приготовьте пюре."
+  },
+  "steps.2.title": {
+   "fr": "Cuis les pommes de terre",
+   "t": "Сварите картофель"
+  },
+  "steps.2.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre et coupe-les en morceaux. Mets-les dans une casserole d'eau froide avec une pincée de {{sel-cuisson}}. Porte à ébullition, puis laisse cuire à feu moyen environ 20 minutes, jusqu'à ce qu'elles soient bien tendres.",
+   "t": "Очистите {{pdt:full}} и нарежьте кусками. Положите их в кастрюлю с холодной водой и щепоткой соли. Доведите до кипения, затем варите на среднем огне около 20 минут, пока картофель не станет совсем мягким."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Картофель"
+  },
+  "steps.2.timer.done": {
+   "fr": "Pique un morceau avec un couteau : il doit entrer sans résistance.",
+   "t": "Проткните кусочек ножом: он должен входить без сопротивления."
+  },
+  "steps.3.title": {
+   "fr": "Écrase en purée",
+   "t": "Разомните в пюре"
+  },
+  "steps.3.text": {
+   "fr": "Égoutte bien les pommes de terre dans une passoire. Mets-les dans un saladier et écrase-les en purée bien lisse.",
+   "t": "Хорошо откиньте картофель на дуршлаг. Переложите его в миску и разомните в совершенно гладкое пюре."
+  },
+  "steps.4.title": {
+   "fr": "Assaisonne la purée",
+   "t": "Приправьте пюре"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute {{persil}} de persil, {{ail}} d'ail, {{sel}} de sel et un peu de {{poivre}}. Si tu aimes le piquant, ajoute un peu de {{piment}}. Mélange bien, goûte et rectifie le sel.",
+   "t": "Добавьте {{persil:full}}, {{ail:full}}, {{sel:full}} и немного молотого чёрного перца. Если любите поострее, добавьте немного молотого острого перца. Хорошо перемешайте, попробуйте и при необходимости досолите."
+  },
+  "steps.5.title": {
+   "fr": "Laisse tiédir",
+   "t": "Дайте остыть до тёплого"
+  },
+  "steps.5.text": {
+   "fr": "Laisse tiédir la purée jusqu'à ce que tu puisses la prendre dans tes mains sans te brûler.",
+   "t": "Дайте пюре остыть настолько, чтобы его можно было взять в руки, не обжигаясь."
+  },
+  "steps.6.title": {
+   "fr": "Façonne les galettes",
+   "t": "Сформируйте лепёшки"
+  },
+  "steps.6.text": {
+   "fr": "Prends un peu de purée, roule-la en boule puis aplatis-la entre tes paumes : une galette d'environ 5 cm de large. Pose les galettes sur une plaque couverte de papier sulfurisé et garde-les au frais jusqu'à la friture.",
+   "t": "Возьмите немного пюре, скатайте шарик, затем расплющите его между ладонями: получится лепёшка шириной около 5 см. Выложите лепёшки на противень, застеленный пергаментной бумагой, и держите их в прохладе до жарки."
+  },
+  "steps.7.title": {
+   "fr": "Prépare la friture",
+   "t": "Подготовьте фритюр"
+  },
+  "steps.7.text": {
+   "fr": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile}} : jamais plus d'un tiers de la hauteur de la casserole. Pose un couvercle de la bonne taille à portée de main.",
+   "t": "Возьмите фритюрницу с термостатом или глубокую кастрюлю. Налейте растительное масло для фритюра: никогда не больше чем на треть высоты кастрюли. Держите под рукой крышку подходящего размера."
+  },
+  "steps.7.tip": {
+   "fr": "My Moroccan Food met environ 5 cm d'huile, Dialna quelques centimètres (environ 2,5 cm). Une friteuse électrique règle seule la température : elle est plus sûre (London Fire Brigade, gouvernement du Québec).",
+   "t": "My Moroccan Food наливает около 5 см масла, Dialna — несколько сантиметров (около 2,5 см). Электрическая фритюрница сама поддерживает температуру, поэтому она безопаснее (London Fire Brigade, gouvernement du Québec)."
+  },
+  "steps.8.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "Нагрейте масло до 180 °C"
+  },
+  "steps.8.text": {
+   "fr": "Chauffe l'huile à 180 °C, en la contrôlant avec le thermostat ou un thermomètre. Elle ne doit jamais fumer : si elle fume, coupe le feu et laisse-la refroidir. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "Нагрейте масло до 180 °C, контролируя температуру термостатом или термометром. Масло никогда не должно дымить: если оно задымилось, выключите огонь и дайте ему остыть. С этого момента не спускайте глаз с масла."
+  },
+  "steps.8.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas la casserole. Pose vite le couvercle dessus et coupe le feu si tu peux. Puis appelle les pompiers, même si le feu semble éteint (gouvernement du Québec).",
+   "t": "Если масло загорелось: никакой воды и не переносите кастрюлю. Быстро накройте её крышкой и, если можете, выключите огонь. Затем вызовите пожарных, даже если кажется, что огонь погас (gouvernement du Québec)."
+  },
+  "steps.9.title": {
+   "fr": "Enrobe une galette de pâte",
+   "t": "Покройте лепёшку кляром"
+  },
+  "steps.9.text": {
+   "fr": "Plonge une galette dans la pâte et retourne-la avec deux cuillères ou une fourchette, pour la couvrir entièrement. Soulève-la et glisse-la doucement dans l'huile chaude.",
+   "t": "Опустите лепёшку в кляр и переверните её двумя ложками или вилкой, чтобы она полностью покрылась кляром. Достаньте её и аккуратно опустите в горячее масло."
+  },
+  "steps.10.title": {
+   "fr": "Fais frire par petites fournées",
+   "t": "Жарьте небольшими партиями"
+  },
+  "steps.10.text": {
+   "fr": "Fais frire quelques galettes à la fois, sans les serrer. Retourne-les plusieurs fois, jusqu'à ce qu'elles soient dorées de tous les côtés. Ne les laisse pas brunir.",
+   "t": "Жарьте по несколько лепёшек за раз, не укладывая их плотно. Переворачивайте их несколько раз, пока они не станут золотистыми со всех сторон. Не давайте им потемнеть."
+  },
+  "steps.10.tip": {
+   "fr": "Le beignet gonfle et remonte vite à la surface ; My Moroccan Food compte environ 3 minutes. La FSA (agence sanitaire britannique) conseille une couleur jaune doré, pas plus foncée, quand on fait frire des aliments riches en amidon comme la pomme de terre.",
+   "t": "Оладья быстро вздувается и всплывает; My Moroccan Food отводит на жарку около 3 минут. FSA (британское агентство по безопасности пищевых продуктов) советует при жарке богатых крахмалом продуктов, таких как картофель, добиваться золотисто-жёлтого цвета, не темнее."
+  },
+  "steps.11.title": {
+   "fr": "Égoutte et continue",
+   "t": "Обсушите и продолжайте"
+  },
+  "steps.11.text": {
+   "fr": "Sors les maakouda avec l'écumoire et pose-les sur du papier absorbant. Attends que l'huile revienne à 180 °C, puis fais frire la fournée suivante. Éteins le feu dès la dernière fournée sortie.",
+   "t": "Достаньте маакуду шумовкой и выложите на бумажные полотенца. Подождите, пока масло снова нагреется до 180 °C, затем жарьте следующую партию. Выключите огонь сразу, как только достанете последнюю партию."
+  },
+  "steps.12.title": {
+   "fr": "Sers chaud",
+   "t": "Подавайте горячей"
+  },
+  "steps.12.text": {
+   "fr": "Sers les maakouda bien chaudes, seules, avec un peu de {{harissa}}, ou en sandwich dans du {{pain}}.",
+   "t": "Подавайте маакуду очень горячей — саму по себе, с небольшим количеством хариссы или в сэндвиче, в хлебе (хобзе или половинке багета)."
+  },
+  "steps.12.tip": {
+   "fr": "Pour le sandwich, Cooking With Alia tartine une demi-baguette de ketchup ou de harissa, puis ajoute de la laitue, les maakouda et des tranches de tomate.",
+   "t": "Для сэндвича Cooking With Alia намазывает половинку багета кетчупом или хариссой, затем кладёт салат-латук, маакуду и ломтики помидора."
+  },
+  "secrets.0.text": {
+   "fr": "La maakouda des snacks est une petite galette de purée trempée dans une pâte jaune à la levure, puis frite.",
+   "t": "Маакуда из закусочных — это небольшая лепёшка из пюре, обмакнутая в жёлтый дрожжевой кляр и обжаренная во фритюре."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (levure, farine, curcuma) ; Lalla Moulati n° 229999 (farine, eau tiède, curcuma, sel, levure)",
+   "t": "My Moroccan Food (дрожжи, мука, куркума); Lalla Moulati № 229999 (мука, тёплая вода, куркума, соль, дрожжи)"
+  },
+  "secrets.1.text": {
+   "fr": "La purée est simple : pomme de terre cuite à l'eau, persil, ail, sel et poivre.",
+   "t": "Пюре простое: варёный картофель, петрушка, чеснок, соль и перец."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food ; Febrayer (ail, sel et piment, selon un vendeur de Fès)",
+   "t": "My Moroccan Food; Febrayer (чеснок, соль и острый перец, по словам продавца из Феса)"
+  },
+  "secrets.2.text": {
+   "fr": "Le curcuma donne à la pâte sa couleur jaune.",
+   "t": "Куркума придаёт кляру жёлтый цвет."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif) ; Lalla Moulati n° 229999 et 292849",
+   "t": "My Moroccan Food; Dialna (Asif); Lalla Moulati № 229999 и 292849"
+  },
+  "secrets.3.text": {
+   "fr": "Laisse lever la pâte avant de l'utiliser : 30 minutes chez My Moroccan Food, 1 heure chez Dialna.",
+   "t": "Дайте кляру подняться, прежде чем его использовать: 30 минут у My Moroccan Food, 1 час у Dialna."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif)",
+   "t": "My Moroccan Food; Dialna (Asif)"
+  },
+  "secrets.4.text": {
+   "fr": "Écrase les pommes de terre en purée bien lisse.",
+   "t": "Разомните картофель в совершенно гладкое пюре."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia n° 599 ; My Moroccan Food ; Dialna (Asif) ; MWN Lifestyle",
+   "t": "Cooking With Alia № 599; My Moroccan Food; Dialna (Asif) и MWN Lifestyle"
+  },
+  "secrets.5.text": {
+   "fr": "Fais des galettes d'environ 5 cm de large.",
+   "t": "Делайте лепёшки шириной около 5 см."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia n° 599 ; My Moroccan Food",
+   "t": "Cooking With Alia № 599 и My Moroccan Food"
+  },
+  "secrets.6.text": {
+   "fr": "Garde les galettes au frais jusqu'au moment de les frire.",
+   "t": "Держите лепёшки в прохладе до самой жарки."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.7.text": {
+   "fr": "Fais frire à 180 °C, et garde l'huile à cette température pendant toute la friture.",
+   "t": "Жарьте при 180 °C и поддерживайте эту температуру масла на протяжении всей жарки."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif)",
+   "t": "My Moroccan Food; Dialna (Asif)"
+  },
+  "secrets.8.text": {
+   "fr": "Ne surcharge pas la casserole : l'huile doit garder sa chaleur, et les beignets restent croustillants.",
+   "t": "Не перегружайте кастрюлю: масло должно сохранять жар, тогда оладьи останутся хрустящими."
+  },
+  "secrets.8.source": {
+   "fr": "Dialna (Asif) ; MWN Lifestyle ; MarocMama",
+   "t": "Dialna (Asif); MWN Lifestyle; MarocMama"
+  },
+  "secrets.9.text": {
+   "fr": "Retourne les beignets plusieurs fois, doucement, jusqu'à ce qu'ils soient dorés.",
+   "t": "Аккуратно переворачивайте оладьи несколько раз, пока они не станут золотистыми."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia n° 599",
+   "t": "My Moroccan Food и Cooking With Alia № 599"
+  },
+  "secrets.10.text": {
+   "fr": "Égoutte-les sur du papier absorbant et mange-les chauds.",
+   "t": "Обсушите их на бумажных полотенцах и ешьте горячими."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif) ; Cooking With Alia n° 599 ; MWN Lifestyle",
+   "t": "My Moroccan Food; Dialna (Asif); Cooking With Alia № 599 и MWN Lifestyle"
+  },
+  "secrets.11.text": {
+   "fr": "En sandwich, on la sert avec une sauce : harissa, sauce tomate citronnée ou ketchup.",
+   "t": "В сэндвиче её подают с соусом: хариссой, томатным соусом с лимоном или кетчупом."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia n° 599 ; Wikipédia (anglais), « Ma'quda »",
+   "t": "My Moroccan Food; Cooking With Alia № 599; Wikipédia (на английском), «Ma'quda»"
+  },
+  "mistakes.0": {
+   "fr": "Faire une pâte trop liquide : elle se défait dans l'huile (My Moroccan Food).",
+   "t": "Делать слишком жидкий кляр: он расползается в масле (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre trop de beignets à la fois : l'huile refroidit (Dialna ; MWN Lifestyle).",
+   "t": "Класть слишком много оладий за раз: масло остывает (Dialna; MWN Lifestyle)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser l'huile fumer : elle est trop chaude et peut prendre feu. Coupe le feu et laisse-la refroidir (London Fire Brigade ; gouvernement du Québec).",
+   "t": "Допускать, чтобы масло дымило: оно слишком горячее и может загореться. Выключите огонь и дайте ему остыть (London Fire Brigade; gouvernement du Québec)."
+  },
+  "mistakes.3": {
+   "fr": "Remplir la casserole de plus d'un tiers d'huile (London Fire Brigade).",
+   "t": "Наливать масло больше чем на треть высоты кастрюли (London Fire Brigade)."
+  },
+  "mistakes.4": {
+   "fr": "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+   "t": "Лить воду на горящее масло или переносить горящую кастрюлю (gouvernement du Québec)."
+  },
+  "mistakes.5": {
+   "fr": "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+   "t": "Уходить из кухни во время жарки (gouvernement du Québec)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les beignets brunir : vise le jaune doré (FSA, conseils sur l'acrylamide).",
+   "t": "Давать оладьям потемнеть: добивайтесь золотисто-жёлтого цвета (FSA, рекомендации по акриламиду)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов, прежде чем убрать их в холодильник (Anses; FSA)."
+  },
+  "variants.0": {
+   "fr": "Maakouda maison à l'œuf, sans pâte à la levure : Cooking With Alia (n° 599) trempe les galettes dans 2 œufs battus, puis les farine légèrement (60 g de farine pour 800 g de pommes de terre), et les fait frire à feu moyen quelques minutes de chaque côté.",
+   "t": "Домашняя маакуда на яйце, без дрожжевого кляра: Cooking With Alia (№ 599) обмакивает лепёшки в 2 взбитых яйца, затем слегка обваливает в муке (60 г муки на 800 г картофеля) и жарит на среднем огне по несколько минут с каждой стороны."
+  },
+  "variants.1": {
+   "fr": "Œuf et farine dans la purée, puis galettes farinées avant la friture (MWN Lifestyle ; MarocMama). Lalla Moulati met 2 œufs dans la purée (n° 349170).",
+   "t": "Яйцо и мука в пюре, затем лепёшки обваливают в муке перед жаркой (MWN Lifestyle; MarocMama). Lalla Moulati кладёт в пюре 2 яйца (№ 349170)."
+  },
+  "variants.2": {
+   "fr": "Persil et coriandre mêlés (Dialna ; Lalla Moulati n° 229999 et 349170).",
+   "t": "Смесь петрушки и кинзы (Dialna; Lalla Moulati № 229999 и 349170)."
+  },
+  "variants.3": {
+   "fr": "Un peu de cumin dans la purée (Dialna : ¼ c. à c. pour 1 kg ; Lalla Moulati n° 229999 et 349170).",
+   "t": "Немного кумина в пюре (Dialna: ¼ ч. л. на 1 кг; Lalla Moulati № 229999 и 349170)."
+  },
+  "variants.4": {
+   "fr": "1 c. à c. de harissa dans la purée pour 1 kg de pommes de terre (Dialna).",
+   "t": "1 ч. л. хариссы в пюре на 1 кг картофеля (Dialna)."
+  },
+  "variants.5": {
+   "fr": "Pâte à la levure chimique (un sachet de 8 g) au lieu de la levure de boulanger (Lalla Moulati n° 292849).",
+   "t": "Кляр на разрыхлителе (один пакетик 8 г) вместо хлебопекарных дрожжей (Lalla Moulati № 292849)."
+  },
+  "variants.6": {
+   "fr": "Avec du fromage dans la purée (Febrayer ; Lalla Moulati n° 349170). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "С сыром в пюре (Febrayer; Lalla Moulati № 349170). Если вы строго соблюдаете халяль, берите сыр на микробном коагулянте, без животного сычужного фермента."
+  },
+  "variants.7": {
+   "fr": "Sauce de My Moroccan Food : 2 c. à s. de concentré de tomate, 2 c. à c. de harissa, le jus d'un citron, ½ c. à c. de sel et ¼ c. à c. de cumin, mélangés.",
+   "t": "Соус от My Moroccan Food: 2 ст. л. томатной пасты, 2 ч. л. хариссы, сок одного лимона, ½ ч. л. соли и ¼ ч. л. кумина, всё перемешать."
+  },
+  "variants.8": {
+   "fr": "Sauce de Dialna : tomates râpées sans la peau, sel et huile d'olive, avec un peu d'ail râpé ou de harissa si tu veux.",
+   "t": "Соус от Dialna: натёртые на тёрке помидоры без кожицы, соль и оливковое масло, по желанию — немного тёртого чеснока или хариссы."
+  }
+ }
+}

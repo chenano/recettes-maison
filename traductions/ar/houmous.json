@@ -1,0 +1,470 @@
+{
+ "_slug": "houmous",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Houmous libanais (hummus bi tahini)",
+   "t": "الحمص بالطحينة على الطريقة اللبنانية"
+  },
+  "tagline": {
+   "fr": "La purée de pois chiches du Liban : des pois chiches secs trempés une nuit, cuits jusqu'à fondre, puis mixés avec du tahini, du citron et de l'ail. Lisse et crémeux, à manger avec du pain libanais.",
+   "t": "مهروس الحمص اللبناني: حمص يابس منقوع ليلة كاملة، مطهو حتى يذوب، ثم مخلوط في الخلاط مع الطحينة والليمون والثوم. ناعم وكريمي، يؤكل مع الخبز اللبناني."
+  },
+  "region": {
+   "fr": "Liban et Levant : on pense qu'il vient du pays de Cham (Liban, Syrie, Palestine, Jordanie) (Mama's Lebanese Kitchen). Son origine reste disputée entre plusieurs pays, et la presse parle de « guerre du houmous » (Wikipédia). « Houmous » veut dire « pois chiche » en arabe (Wikipédia ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
+   "t": "لبنان والمشرق: يُعتقد أنه جاء من بلاد الشام (لبنان، سوريا، فلسطين، الأردن) (Mama's Lebanese Kitchen). ولا يزال أصله موضع خلاف بين عدة بلدان، وتتحدث الصحافة عن « حرب الحمص » (Wikipédia). وكلمة « حمص » بالعربية تعني حبّ الحمص (Wikipédia؛ Mama's Lebanese Kitchen؛ Hadia's Lebanese Cuisine)."
+  },
+  "occasion": {
+   "fr": "En mezzé, avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Au petit-déjeuner libanais, avec du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+   "t": "ضمن المازة، مع الخبز اللبناني أو خبز البيتا (Mama's Lebanese Kitchen؛ recettelibanaise.com). وفي فطور الصباح اللبناني، مع الفول، والنعناع، والبصل النيء، والخبز (Hadia's Lebanese Cuisine)."
+  },
+  "img_alt": {
+   "fr": "Houmous à la libanaise dans un bol, avec huile d'olive, pois chiches entiers et paprika",
+   "t": "حمص على الطريقة اللبنانية في وعاء، مع زيت الزيتون، وحبات حمص كاملة، والبابريكا"
+  },
+  "steps.2.title": {
+   "fr": "Égoutte et rince",
+   "t": "صفِّ الحمص واشطفه"
+  },
+  "steps.2.text": {
+   "fr": "Le lendemain, jette l'eau du trempage. Rince les pois chiches à l'eau froide.",
+   "t": "في اليوم التالي، تخلّص من ماء النقع. اشطف الحمص بالماء البارد."
+  },
+  "steps.3.title": {
+   "fr": "Porte à ébullition",
+   "t": "أوصله إلى الغليان"
+  },
+  "steps.3.text": {
+   "fr": "Mets-les dans la grande casserole avec {{eau-cuisson}} d'eau fraîche. L'eau doit bien les couvrir. Porte à ébullition sur feu vif.",
+   "t": "ضعه في القدر الكبير مع {{eau-cuisson}} من الماء البارد. يجب أن يغمره الماء جيدًا. أوصله إلى الغليان على نار قوية."
+  },
+  "steps.3.tip": {
+   "fr": "recettelibanaise.com et Chef in Disguise veulent environ 10 cm d'eau au-dessus des pois chiches.",
+   "t": "يريد recettelibanaise.com وChef in Disguise نحو 10 سم من الماء فوق الحمص."
+  },
+  "steps.4.title": {
+   "fr": "Retire la mousse",
+   "t": "أزل الرغوة"
+  },
+  "steps.4.text": {
+   "fr": "Une mousse blanche monte à la surface : retire-la avec l'écumoire, sans enlever l'eau.",
+   "t": "تطفو رغوة بيضاء على السطح: أزلها بالمغرفة المثقّبة، دون أن تأخذ معها الماء."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute le bicarbonate",
+   "t": "أضف البيكربونات"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute {{bicarbonate-cuisson}} de bicarbonate. L'eau mousse de nouveau : écume encore.",
+   "t": "أضف {{bicarbonate-cuisson}} من البيكربونات. سيرغو الماء من جديد: أزل الرغوة مرة أخرى."
+  },
+  "steps.6.title": {
+   "fr": "Laisse frémir 1 heure",
+   "t": "اتركه يغلي بهدوء ساعة"
+  },
+  "steps.6.text": {
+   "fr": "Baisse le feu, couvre et laisse frémir environ 1 heure. Si l'eau baisse trop, ajoute un peu d'eau chaude.",
+   "t": "خفّف النار، وغطِّ القدر، واتركه يغلي بهدوء نحو ساعة. إذا نقص الماء كثيرًا، فأضف قليلًا من الماء الساخن."
+  },
+  "steps.6.timer.label": {
+   "fr": "Pois chiches",
+   "t": "الحمص"
+  },
+  "steps.6.timer.done": {
+   "fr": "Écrase un pois chiche entre tes doigts : il doit s'écraser très facilement. Sinon, prolonge la cuisson.",
+   "t": "اهرس حبة حمص بين أصابعك: يجب أن تنهرس بسهولة كبيرة. وإلا، فأطِل الطهي."
+  },
+  "steps.7.title": {
+   "fr": "Vérifie qu'ils sont très tendres",
+   "t": "تأكّد أنه طريّ جدًا"
+  },
+  "steps.7.text": {
+   "fr": "Les pois chiches doivent être très tendres et presque fondre quand tu les presses. Trop cuits vaut mieux que pas assez : c'est le secret d'un houmous lisse.",
+   "t": "يجب أن يكون الحمص طريًّا جدًا وأن يكاد يذوب حين تضغط عليه. الإفراط في طهيه أفضل من نقصه: هذا هو سرّ الحمص الناعم."
+  },
+  "steps.7.tip": {
+   "fr": "Selon les pois chiches, il faut parfois jusqu'à 2 heures (Hadia's Lebanese Cuisine).",
+   "t": "حسب نوع الحمص، قد يحتاج أحيانًا إلى ساعتين (Hadia's Lebanese Cuisine)."
+  },
+  "steps.8.title": {
+   "fr": "Égoutte",
+   "t": "صفِّ الحمص"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pois chiches dans la passoire. Si tu veux, garde-en une poignée pour décorer.",
+   "t": "صفِّ الحمص في المصفاة. وإن شئت، فاحتفظ بحفنة منه للتزيين."
+  },
+  "steps.8.tip": {
+   "fr": "recettelibanaise.com retire aussi les peaux qui flottent sur l'eau avant d'égoutter.",
+   "t": "يزيل recettelibanaise.com أيضًا القشور الطافية على الماء قبل التصفية."
+  },
+  "steps.9.title": {
+   "fr": "Mixe les pois chiches chauds",
+   "t": "اخلط الحمص وهو ساخن"
+  },
+  "steps.9.text": {
+   "fr": "Mets les pois chiches encore chauds dans le robot. Mixe jusqu'à obtenir une purée bien lisse. Arrête de temps en temps pour racler les bords avec la spatule.",
+   "t": "ضع الحمص وهو لا يزال ساخنًا في محضّرة الطعام. اخلطه حتى تحصل على مهروس ناعم جدًا. توقّف من حين لآخر لتكشط الجوانب بالمكشطة."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute l'ail et le sel",
+   "t": "أضف الثوم والملح"
+  },
+  "steps.10.text": {
+   "fr": "Épluche l'ail. Mets dans le robot {{ail:full}} et {{sel}} de sel, puis mixe encore.",
+   "t": "قشّر الثوم. ضع في محضّرة الطعام {{ail:full}} و{{sel}} من الملح، ثم اخلط مرة أخرى."
+  },
+  "steps.11.title": {
+   "fr": "Verse le tahini",
+   "t": "اسكب الطحينة"
+  },
+  "steps.11.text": {
+   "fr": "Robot en marche, verse {{tahini}} de tahini en mince filet.",
+   "t": "ومحضّرة الطعام تعمل، اسكب {{tahini}} من الطحينة في خيط رفيع."
+  },
+  "steps.12.title": {
+   "fr": "Ajoute le citron",
+   "t": "أضف الليمون"
+  },
+  "steps.12.text": {
+   "fr": "Ajoute {{citron}} de jus de citron, puis laisse tourner le robot encore quelques minutes.",
+   "t": "أضف {{citron}} من عصير الليمون، ثم اترك محضّرة الطعام تعمل بضع دقائق أخرى."
+  },
+  "steps.13.title": {
+   "fr": "Allonge et goûte",
+   "t": "خفّفه وتذوّقه"
+  },
+  "steps.13.text": {
+   "fr": "Si le houmous est trop épais, verse petit à petit jusqu'à {{eau-froide}} d'eau très froide, ou mets quelques glaçons, en mixant. Il doit devenir lisse et crémeux. Goûte, et ajoute un peu de sel ou de citron si besoin.",
+   "t": "إذا كان الحمص كثيفًا جدًا، فاسكب شيئًا فشيئًا ما يصل إلى {{eau-froide}} من الماء شديد البرودة، أو ضع بضعة مكعبات ثلج، مع الخلط. يجب أن يصبح ناعمًا وكريميًا. تذوّقه، وأضف قليلًا من الملح أو الليمون عند الحاجة."
+  },
+  "steps.13.tip": {
+   "fr": "Les glaçons refroidissent les lames du robot et rendent le houmous plus léger (Hadia's Lebanese Cuisine).",
+   "t": "تبرّد مكعبات الثلج شفرات محضّرة الطعام وتجعل الحمص أخفّ (Hadia's Lebanese Cuisine)."
+  },
+  "steps.14.title": {
+   "fr": "Dresse et sers",
+   "t": "رتّبه في الصحن وقدّمه"
+  },
+  "steps.14.text": {
+   "fr": "Étale le houmous dans l'assiette creuse et fais un creux au centre avec le dos d'une cuillère. Arrose d'un filet d'{{huile-olive}}, saupoudre de {{paprika}} et, si tu veux, de {{cumin}}.",
+   "t": "افرد الحمص في الصحن العميق واصنع تجويفًا في وسطه بظهر ملعقة. اسكب عليه خيطًا من زيت الزيتون البكر الممتاز، ورشّ عليه البابريكا، والكمون المطحون إن شئت."
+  },
+  "steps.14.tip": {
+   "fr": "Ajoute les pois chiches gardés pour décorer (Hadia's Lebanese Cuisine), ou du persil et des olives noires (recettelibanaise.com).",
+   "t": "أضف حبات الحمص التي احتفظت بها للتزيين (Hadia's Lebanese Cuisine)، أو البقدونس والزيتون الأسود (recettelibanaise.com)."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des pois chiches secs, pas en conserve : pour Hadia, ils sont indispensables pour la bonne texture et le goût.",
+   "t": "استعمل الحمص اليابس، لا المعلّب: فهو بالنسبة إلى Hadia ضروري للحصول على القوام والنكهة الجيدين."
+  },
+  "secrets.0.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Le bicarbonate, dans le trempage puis dans la cuisson, attendrit les pois chiches et défait leur peau : pas besoin de les éplucher.",
+   "t": "البيكربونات، في ماء النقع ثم في ماء الطهي، تليّن الحمص وتفكّك قشرته: فلا حاجة إلى تقشيره."
+  },
+  "secrets.1.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen (ils cuisent plus vite) ; Chef in Disguise (les éplucher ne change presque rien)",
+   "t": "Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen (ينضج أسرع)؛ Chef in Disguise (تقشيره لا يغيّر شيئًا تقريبًا)"
+  },
+  "secrets.2.text": {
+   "fr": "Trop cuits vaut mieux que pas assez : des pois chiches qui fondent donnent un houmous crémeux.",
+   "t": "الإفراط في الطهي أفضل من نقصه: الحمص الذي يذوب يعطي حمصًا بالطحينة كريميًا."
+  },
+  "secrets.2.source": {
+   "fr": "recettelibanaise.com ; Hadia's Lebanese Cuisine ; Chef in Disguise",
+   "t": "recettelibanaise.com؛ Hadia's Lebanese Cuisine؛ Chef in Disguise"
+  },
+  "secrets.3.text": {
+   "fr": "Mixe les pois chiches encore chauds : la purée ne sera pas granuleuse.",
+   "t": "اخلط الحمص وهو لا يزال ساخنًا: فلن يكون المهروس محبّبًا."
+  },
+  "secrets.3.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen"
+  },
+  "secrets.4.text": {
+   "fr": "Verse le tahini en mince filet, robot en marche.",
+   "t": "اسكب الطحينة في خيط رفيع، ومحضّرة الطعام تعمل."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen"
+  },
+  "serving": {
+   "fr": "Dans une assiette creuse, avec un creux au centre, un filet d'huile d'olive et du paprika (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com), avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Mama's le sert tiède, avec des cornichons salés, des piments au vinaigre, des olives, de la menthe, des poivrons verts et des oignons ; recettelibanaise.com ajoute un quartier de citron. Restes : dans une boîte fermée, au frigo entre 0 et 5 °C, mis au frais dans les 2 heures, et à manger dans les 2 jours (FSA). Hadia dit qu'il se garde jusqu'à 6 jours, et Chef in Disguise 5 à 7 jours : on garde ici la règle officielle, plus prudente.",
+   "t": "في صحن عميق، مع تجويف في الوسط، وخيط من زيت الزيتون والبابريكا (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ recettelibanaise.com)، مع الخبز اللبناني أو خبز البيتا (Mama's Lebanese Kitchen؛ recettelibanaise.com). تقدّمه Mama's فاترًا، مع الخيار المخلل المملّح، والفلفل الحار بالخل، والزيتون، والنعناع، والفلفل الأخضر، والبصل؛ ويضيف recettelibanaise.com ربع ليمونة. البقايا: في علبة مغلقة، في الثلاجة بين 0 و5 درجات مئوية، توضع في البرد خلال ساعتين، وتؤكل خلال يومين (FSA). تقول Hadia إنه يُحفظ حتى 6 أيام، وChef in Disguise من 5 إلى 7 أيام: نعتمد هنا القاعدة الرسمية، وهي أكثر حذرًا."
+  },
+  "ing.0.group": {
+   "fr": "Le trempage et la cuisson",
+   "t": "النقع والطهي"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "حمص يابس"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "pas de conserve pour cette version",
+   "t": "لا يُستعمل الحمص المعلّب في هذه النسخة"
+  },
+  "ing.bicarbonate-trempage.name": {
+   "fr": "de bicarbonate de soude alimentaire",
+   "t": "بيكربونات الصودا الغذائية"
+  },
+  "secrets.5.text": {
+   "fr": "De l'eau glacée ou des glaçons rendent le houmous plus lisse et plus léger.",
+   "t": "الماء المثلّج أو مكعبات الثلج تجعل الحمص أنعم وأخفّ."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; recettelibanaise.com",
+   "t": "Hadia's Lebanese Cuisine؛ recettelibanaise.com"
+  },
+  "secrets.6.text": {
+   "fr": "Presse le citron toi-même et filtre le jus : la pulpe peut donner de l'amertume avec le temps.",
+   "t": "اعصر الليمون بنفسك وصفِّ العصير: فاللب قد يُكسبه مرارة مع الوقت."
+  },
+  "secrets.6.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Choisis un bon tahini, de préférence libanais : sa qualité fait le goût du houmous.",
+   "t": "اختر طحينة جيدة، ويُفضَّل أن تكون لبنانية: فجودتها تصنع نكهة الحمص."
+  },
+  "secrets.7.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.8.text": {
+   "fr": "Si tu sens le goût du bicarbonate, rince les pois chiches cuits et égoutte-les bien avant de les mixer.",
+   "t": "إذا شعرت بطعم البيكربونات، فاشطف الحمص المطهو وصفِّه جيدًا قبل خلطه."
+  },
+  "secrets.8.source": {
+   "fr": "Chef in Disguise",
+   "t": "Chef in Disguise"
+  },
+  "secrets.9.text": {
+   "fr": "Si tu le prépares à l'avance, ajoute l'ail au moment de servir : avec le temps, son goût devient plus fort et change.",
+   "t": "إذا حضّرته مسبقًا، فأضف الثوم عند التقديم: فمع الوقت، يشتدّ طعمه ويتغيّر."
+  },
+  "secrets.9.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.10.text": {
+   "fr": "Deux astuces de restaurant, selon Hadia : un peu d'acide citrique pour la couleur claire et le goût acidulé ; et, comme les grands chefs de Beyrouth, un filet d'huile de tournesol à la fin pour un houmous plus soyeux.",
+   "t": "حيلتان من المطاعم، حسب Hadia: قليل من حمض الستريك للّون الفاتح والطعم الحامض؛ وخيط من زيت عباد الشمس في النهاية، كما يفعل كبار الطهاة في بيروت، لحمص أنعم ملمسًا."
+  },
+  "secrets.10.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.11.text": {
+   "fr": "Hadia mixe les pois chiches la veille et met la purée une nuit au frigo. Le lendemain, elle la fouette avec les glaçons, le citron et le tahini.",
+   "t": "تخلط Hadia الحمص في اليوم السابق وتضع المهروس ليلة في الثلاجة. وفي اليوم التالي، تخفقه مع مكعبات الثلج والليمون والطحينة."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.12.text": {
+   "fr": "Mama's Lebanese Kitchen raconte que des chefs libanais ont battu le record Guinness du plus grand plat de houmous, avec plus de 2 tonnes (date non donnée).",
+   "t": "تروي Mama's Lebanese Kitchen أن طهاة لبنانيين حطّموا الرقم القياسي لموسوعة Guinness لأكبر طبق حمص، بأكثر من 2 طن (دون ذكر التاريخ)."
+  },
+  "secrets.12.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "mistakes.0": {
+   "fr": "Mixer des pois chiches pas assez cuits ou trop fermes : le houmous reste granuleux (Chef in Disguise ; recettelibanaise.com ; Hadia's Lebanese Cuisine).",
+   "t": "خلط حمص غير مطهو بما يكفي أو قاسٍ جدًا: فيبقى الحمص بالطحينة محبّبًا (Chef in Disguise؛ recettelibanaise.com؛ Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire les pois chiches dans l'eau du trempage : jette-la et rince-les (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+   "t": "طهي الحمص في ماء النقع: تخلّص منه واشطف الحمص (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ recettelibanaise.com؛ Chef in Disguise)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la mousse de cuisson : retire-la à l'écumoire (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+   "t": "ترك رغوة الطهي: أزلها بالمغرفة المثقّبة (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen؛ recettelibanaise.com؛ Chef in Disguise)."
+  },
+  "mistakes.3": {
+   "fr": "Verser tout le tahini d'un coup, au lieu d'un mince filet (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+   "t": "سكب الطحينة كلها دفعة واحدة، بدل سكبها في خيط رفيع (Hadia's Lebanese Cuisine؛ Mama's Lebanese Kitchen)."
+  },
+  "mistakes.4": {
+   "fr": "Prendre du jus de citron en bouteille, ou ne pas le filtrer (Hadia's Lebanese Cuisine).",
+   "t": "استعمال عصير ليمون معبّأ في قنينة، أو عدم تصفيته (Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.5": {
+   "fr": "Mettre le houmous encore chaud au frigo : laisse-le refroidir, puis mets-le au frais dans les 2 heures (FSA).",
+   "t": "وضع الحمص في الثلاجة وهو لا يزال ساخنًا: اتركه يبرد، ثم ضعه في الثلاجة خلال ساعتين (FSA)."
+  },
+  "variants.0": {
+   "fr": "Version rapide avec des pois chiches en conserve, pour 4 : 250 g de pois chiches en conserve mixés en purée, puis 4 c. à s. de tahini délayé dans 2 c. à s. de jus de citron, 2 gousses d'ail écrasées avec du sel, ½ c. à c. de sel, ½ c. à c. de cumin, et un peu d'eau froide si besoin (recettelibanaise.com). Chef in Disguise trouve le résultat correct mais un peu granuleux ; Hadia refuse la conserve.",
+   "t": "نسخة سريعة بالحمص المعلّب، لـ 4 أشخاص: 250 غ من الحمص المعلّب مخلوطة حتى تصير مهروسة، ثم 4 ملاعق كبيرة من الطحينة مذوّبة في 2 ملعقة كبيرة من عصير الليمون، و2 فص ثوم مهروس مع الملح، و½ ملعقة صغيرة من الملح، و½ ملعقة صغيرة من الكمون، وقليل من الماء البارد عند الحاجة (recettelibanaise.com). يرى Chef in Disguise أن النتيجة مقبولة لكنها محبّبة قليلًا؛ أما Hadia فترفض الحمص المعلّب."
+  },
+  "variants.1": {
+   "fr": "Petit-déjeuner libanais : houmous servi avec des pois chiches chauds, du cumin, du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+   "t": "فطور الصباح اللبناني: حمص بالطحينة يُقدَّم مع حبات حمص ساخنة، والكمون، والفول، والنعناع، والبصل النيء، والخبز (Hadia's Lebanese Cuisine)."
+  },
+  "variants.2": {
+   "fr": "Tahini d'abord : recettelibanaise.com mixe l'ail, le citron, le sel, le cumin et le tahini avec l'eau glacée, puis ajoute les pois chiches.",
+   "t": "الطحينة أولًا: يخلط recettelibanaise.com الثوم، والليمون، والملح، والكمون، والطحينة مع الماء المثلّج، ثم يضيف الحمص."
+  },
+  "variants.3": {
+   "fr": "Façon restaurant : acide citrique, huile de tournesol, et purée reposée une nuit au frigo (Hadia's Lebanese Cuisine).",
+   "t": "على طريقة المطاعم: حمض الستريك، وزيت عباد الشمس، ومهروس يُترك ليلة في الثلاجة (Hadia's Lebanese Cuisine)."
+  },
+  "variants.4": {
+   "fr": "Autres garnitures : sumac (Hadia's Lebanese Cuisine), ou persil et olives noires (recettelibanaise.com).",
+   "t": "إضافات أخرى للتزيين: السمّاق (Hadia's Lebanese Cuisine)، أو البقدونس والزيتون الأسود (recettelibanaise.com)."
+  },
+  "variants.5": {
+   "fr": "Avec une cuillère de yaourt grec, pour un goût plus acidulé (Chef in Disguise).",
+   "t": "مع ملعقة من الزبادي اليوناني، لطعم أكثر حموضة (Chef in Disguise)."
+  },
+  "ing.bicarbonate-trempage.note": {
+   "fr": "pour l'eau du trempage",
+   "t": "لماء النقع"
+  },
+  "ing.eau-cuisson.name": {
+   "fr": "d'eau fraîche",
+   "t": "ماء بارد"
+  },
+  "ing.eau-cuisson.note": {
+   "fr": "pour la cuisson ; un peu plus si besoin",
+   "t": "للطهي؛ وقليل إضافي عند الحاجة"
+  },
+  "ing.bicarbonate-cuisson.name": {
+   "fr": "de bicarbonate de soude alimentaire",
+   "t": "بيكربونات الصودا الغذائية"
+  },
+  "ing.bicarbonate-cuisson.note": {
+   "fr": "pour l'eau de cuisson",
+   "t": "لماء الطهي"
+  },
+  "ing.1.group": {
+   "fr": "Le houmous",
+   "t": "الحمص بالطحينة"
+  },
+  "ing.tahini.name": {
+   "fr": "de tahini (crème de sésame)",
+   "t": "طحينة (معجون السمسم)"
+  },
+  "ing.tahini.note": {
+   "fr": "de préférence libanais",
+   "t": "يُفضَّل أن تكون لبنانية"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "عصير ليمون طازج"
+  },
+  "ing.citron.note": {
+   "fr": "pressé et filtré",
+   "t": "معصور ومصفّى"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher",
+   "t": "يُقشَّر"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster selon le goût",
+   "t": "يُضبط حسب الذوق"
+  },
+  "ing.eau-froide.name": {
+   "fr": "d'eau très froide",
+   "t": "ماء شديد البرودة"
+  },
+  "ing.eau-froide.note": {
+   "fr": "ou des glaçons ; à ajouter petit à petit",
+   "t": "أو مكعبات ثلج؛ يُضاف شيئًا فشيئًا"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.huile-olive.name": {
+   "fr": "huile d'olive vierge extra",
+   "t": "زيت زيتون بكر ممتاز"
+  },
+  "ing.paprika.name": {
+   "fr": "paprika",
+   "t": "بابريكا"
+  },
+  "ing.cumin.name": {
+   "fr": "cumin en poudre",
+   "t": "كمون مطحون"
+  },
+  "ing.cumin.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier, pour le trempage",
+   "t": "وعاء كبير، للنقع"
+  },
+  "equipment.1": {
+   "fr": "Une grande casserole avec un couvercle",
+   "t": "قدر كبير بغطاء"
+  },
+  "equipment.2": {
+   "fr": "Une écumoire",
+   "t": "مغرفة مثقّبة"
+  },
+  "equipment.3": {
+   "fr": "Une passoire",
+   "t": "مصفاة"
+  },
+  "equipment.4": {
+   "fr": "Un robot culinaire, ou un mixeur puissant",
+   "t": "محضّرة طعام، أو خلاط قوي"
+  },
+  "equipment.5": {
+   "fr": "Une spatule souple, pour racler les bords",
+   "t": "مكشطة مرنة، لكشط الجوانب"
+  },
+  "equipment.6": {
+   "fr": "Une assiette creuse pour servir",
+   "t": "صحن عميق للتقديم"
+  },
+  "equipment.7": {
+   "fr": "Une boîte hermétique pour les restes",
+   "t": "علبة محكمة الإغلاق للبقايا"
+  },
+  "steps.0.title": {
+   "fr": "Rince les pois chiches",
+   "t": "اشطف الحمص"
+  },
+  "steps.0.text": {
+   "fr": "Rince {{pois-chiches}} de pois chiches secs à l'eau froide, pour enlever la poussière et les petites impuretés.",
+   "t": "اشطف {{pois-chiches}} من الحمص اليابس بالماء البارد، لإزالة الغبار والشوائب الصغيرة."
+  },
+  "steps.1.title": {
+   "fr": "Mets-les à tremper",
+   "t": "انقع الحمص"
+  },
+  "steps.1.text": {
+   "fr": "Mets-les dans le grand saladier. Couvre-les d'eau froide, au moins deux fois leur volume, et ajoute {{bicarbonate-trempage}} de bicarbonate. Laisse tremper une nuit, environ 10 heures.",
+   "t": "ضعه في الوعاء الكبير. غطّه بالماء البارد، بما لا يقل عن ضعفي حجمه، وأضف {{bicarbonate-trempage}} من البيكربونات. اتركه منقوعًا ليلة كاملة، نحو 10 ساعات."
+  },
+  "steps.1.tip": {
+   "fr": "Ils vont presque doubler de volume : prends un saladier assez grand (recettelibanaise.com ; Chef in Disguise).",
+   "t": "سيتضاعف حجمه تقريبًا: استعمل وعاءً كبيرًا بما يكفي (recettelibanaise.com؛ Chef in Disguise)."
+  }
+ }
+}

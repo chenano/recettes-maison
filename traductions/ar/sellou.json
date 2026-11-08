@@ -1,0 +1,526 @@
+{
+ "_slug": "sellou",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Sellou, la douceur du ramadan",
+   "t": "السلّو، حلوى رمضان"
+  },
+  "darija": {
+   "fr": "sellou ; on dit aussi slilou ou sfouf",
+   "t": "سلّو؛ ويُقال أيضًا سليلو أو سفوف"
+  },
+  "tagline": {
+   "fr": "De la farine grillée, des amandes frites et du sésame grillé, moulus puis liés au beurre, avec de la cannelle et de l'anis. On le prépare pour le ramadan et on le garde en boîte.",
+   "t": "دقيق محمّص، ولوز مقلي، وسمسم محمّص، تُطحن ثم تُربط بالزبدة، مع القرفة واليانسون. يُحضَّر لرمضان ويُحفظ في علبة."
+  },
+  "region": {
+   "fr": "Tout le Maroc, où on lui donne plusieurs noms (Al3omk) ; le rapport amandes, sésame et farine (1:1:1) suit la version de Fès décrite par Taste of Maroc ; les autres quantités viennent de la comparaison des recettes lues",
+   "t": "المغرب كله، حيث يُعرف بأسماء عدة (Al3omk)؛ ونسبة اللوز والسمسم والدقيق (1:1:1) تتبع نسخة فاس التي وصفتها Taste of Maroc؛ أما الكميات الأخرى فمأخوذة من مقارنة الوصفات التي اطّلعنا عليها"
+  },
+  "occasion": {
+   "fr": "Ramadan (au ftour ou après les tarawih), naissances, mariages et fêtes de famille",
+   "t": "رمضان (عند الفطور أو بعد صلاة التراويح)، والولادات، والأعراس، والمناسبات العائلية"
+  },
+  "img_alt": {
+   "fr": "Sellou moulé en dôme et décoré d'amandes, une part coupée",
+   "t": "سلّو مشكّل على هيئة قبة ومزيّن باللوز، وقد قُطعت منه حصة"
+  },
+  "serving": {
+   "fr": "Dresse-le en petit dôme ou en cône sur une assiette, saupoudré de sucre glace et décoré d'amandes frites et de sésame grillé (Taste of Maroc ; Bladi.net ; Cooking with Alia). On le mange à la cuillère, avec du thé ou du café (Morocco World News ; Al3omk, qui le sert avec le thé, souvent après les tarawih ; Wikipédia en arabe). Pendant le ramadan, on le sert aussi au ftour (Taste of Maroc ; Morocco World News). Tu peux aussi le presser en petites boules ou en carrés, dans des caissettes (Taste of Maroc ; Cooking with Alia). Conservation, dans des boîtes hermétiques : Taste of Maroc le garde plusieurs mois à température ambiante et jusqu'à un an au congélateur ; Cooking with Alia le garde au réfrigérateur, jusqu'à un mois, et le sort avant de servir pour qu'il revienne à température ambiante. Si tu ne comptes pas le finir en un ou deux mois, congèles-en une partie (Taste of Maroc).",
+   "t": "رتّبه على شكل قبة صغيرة أو مخروط في صحن، مرشوشًا بالسكر الناعم (سكر الحلويات) ومزيّنًا باللوز المقلي والسمسم المحمّص (Taste of Maroc؛ Bladi.net؛ Cooking with Alia). يؤكل بالملعقة، مع الشاي أو القهوة (Morocco World News؛ Al3omk، الذي يقدّمه مع الشاي، غالبًا بعد صلاة التراويح؛ Wikipédia بالعربية). وفي رمضان، يُقدَّم أيضًا عند الفطور (Taste of Maroc؛ Morocco World News). ويمكنك أيضًا أن تضغطه على شكل كرات صغيرة أو مربعات، في قوالب ورقية صغيرة (Taste of Maroc؛ Cooking with Alia). الحفظ، في علب محكمة الإغلاق: تحفظه Taste of Maroc عدة أشهر في درجة حرارة الغرفة وحتى سنة في المجمّد؛ وتحفظه Cooking with Alia في الثلاجة، حتى شهر، وتخرجه قبل التقديم ليعود إلى درجة حرارة الغرفة. وإذا كنت لا تنوي إنهاءه في شهر أو شهرين، فجمّد جزءًا منه (Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Base",
+   "t": "الأساس"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche ordinaire",
+   "t": "دقيق أبيض عادي"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (blanchies et pelées)",
+   "t": "لوز مقشّر (مسلوق ومقشّر)"
+  },
+  "ing.amandes.note": {
+   "fr": "une fois frites, garde-en une petite poignée pour le décor",
+   "t": "بعد قليه، احتفظ بحفنة صغيرة منه للتزيين"
+  },
+  "ing.huile-friture.name": {
+   "fr": "Huile de table, pour frire les amandes",
+   "t": "زيت المائدة، لقلي اللوز"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "حبوب السمسم"
+  },
+  "ing.sesame.note": {
+   "fr": "garde deux petites poignées de graines entières : une pour le mélange, une pour le décor",
+   "t": "احتفظ بحفنتين صغيرتين من الحبوب الكاملة: واحدة للخليط، وأخرى للتزيين"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "سكر ناعم"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "selon ton goût : goûte et ajuste",
+   "t": "حسب ذوقك: تذوّق وعدّل"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "ing.anis.name": {
+   "fr": "d'anis vert moulu",
+   "t": "يانسون مطحون"
+  },
+  "ing.anis.note": {
+   "fr": "nom marocain non confirmé : « النافع » selon Al3omk et Lalla Moulati, « الحبة الحلوة » selon Wikipédia en arabe",
+   "t": "اسمه المغربي غير مؤكَّد: «النافع» حسب Al3omk وLalla Moulati، و«الحبة الحلوة» حسب Wikipédia بالعربية"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.mastic.name": {
+   "fr": "de mastic en grains (meska, « المسكة الحرة »)",
+   "t": "حبوب المسكة الحرة"
+  },
+  "ing.mastic.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.sucre-mastic.name": {
+   "fr": "Un peu de sucre semoule, pour piler le mastic",
+   "t": "قليل من السكر الأبيض، لدقّ المسكة"
+  },
+  "ing.muscade.name": {
+   "fr": "Un peu de noix de muscade râpée (facultatif)",
+   "t": "قليل من جوزة الطيب المبشورة (اختياري)"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre doux",
+   "t": "زبدة غير مملّحة"
+  },
+  "ing.beurre.note": {
+   "fr": "à clarifier ; c'est un maximum, tu n'en utiliseras peut-être pas tout",
+   "t": "تُصفّى؛ وهذه كمية قصوى، فقد لا تستعملها كلها"
+  },
+  "ing.1.group": {
+   "fr": "Décor",
+   "t": "التزيين"
+  },
+  "ing.sucre-glace-decor.name": {
+   "fr": "Un peu de sucre glace",
+   "t": "قليل من السكر الناعم"
+  },
+  "equipment.0": {
+   "fr": "Un four et un grand plat à four (ou une grande plaque à rôtir)",
+   "t": "فرن وصينية فرن كبيرة (أو صينية تحمير كبيرة)"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle à fond épais",
+   "t": "مقلاة كبيرة سميكة القاع"
+  },
+  "equipment.2": {
+   "fr": "Une poêle profonde ou une sauteuse pour frire les amandes",
+   "t": "مقلاة عميقة أو قدر تشويح لقلي اللوز"
+  },
+  "equipment.3": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "مغرفة مثقوبة وورق ماص"
+  },
+  "equipment.4": {
+   "fr": "Une petite casserole, pour clarifier le beurre",
+   "t": "قدر صغير، لتصفية الزبدة"
+  },
+  "equipment.5": {
+   "fr": "Un robot mixeur puissant",
+   "t": "محضّرة طعام (روبو) قوية"
+  },
+  "equipment.6": {
+   "fr": "Un tamis fin",
+   "t": "غربال دقيق"
+  },
+  "equipment.7": {
+   "fr": "Un très grand saladier ou une bassine",
+   "t": "وعاء كبير جدًا أو طست"
+  },
+  "equipment.8": {
+   "fr": "Un mortier et un pilon (ou le dos d'une cuillère), pour le mastic",
+   "t": "مهراس ويد مهراس (أو ظهر ملعقة)، للمسكة"
+  },
+  "equipment.9": {
+   "fr": "Des boîtes hermétiques",
+   "t": "علب محكمة الإغلاق"
+  },
+  "steps.0.title": {
+   "fr": "Clarifier le beurre",
+   "t": "صفِّ الزبدة"
+  },
+  "steps.0.text": {
+   "fr": "Fais fondre {{beurre}} de beurre doux à feu doux, dans une petite casserole. Laisse chauffer jusqu'à ce que le petit-lait se dépose au fond et que de l'écume se forme dessus. Retire toute l'écume avec une cuillère.",
+   "t": "أذِب {{beurre}} من الزبدة غير المملّحة على نار هادئة، في قدر صغير. اتركها تسخن حتى يترسّب اللبن في القاع وتتكوّن رغوة على السطح. أزل الرغوة كلها بملعقة."
+  },
+  "steps.0.tip": {
+   "fr": "Pas le temps ? Taste of Maroc a aussi fait son sellou avec du ghee (beurre clarifié) du commerce.",
+   "t": "ليس لديك وقت؟ حضّرت Taste of Maroc السلّو أيضًا بالسمن الهندي (غي)، أي الزبدة المصفّاة، الجاهز من المتجر."
+  },
+  "steps.1.title": {
+   "fr": "Laisser durcir le beurre au frais",
+   "t": "اترك الزبدة تتجمّد في الثلاجة"
+  },
+  "steps.1.text": {
+   "fr": "Mets la casserole au réfrigérateur au moins 1 heure, ou une nuit. Le beurre durcit. Sors le bloc de beurre et jette le liquide blanc resté dessous. Garde ce beurre clarifié au frais pendant que tu prépares le reste.",
+   "t": "ضع القدر في الثلاجة ساعة على الأقل، أو ليلة كاملة. تتجمّد الزبدة. أخرج قالب الزبدة وتخلّص من السائل الأبيض المتبقّي تحته. احفظ هذه الزبدة المصفّاة في الثلاجة ريثما تحضّر الباقي."
+  },
+  "steps.1.tip": {
+   "fr": "Taste of Maroc explique qu'enlever tout le petit-lait aide le sellou à rester frais et à ne pas se gâter.",
+   "t": "تشرح Taste of Maroc أن إزالة اللبن كله تساعد السلّو على أن يبقى طازجًا ولا يفسد."
+  },
+  "steps.2.title": {
+   "fr": "Griller la farine",
+   "t": "حمّص الدقيق"
+  },
+  "steps.2.text": {
+   "fr": "Préchauffe le four à 200 °C. Étale {{farine}} de farine dans un grand plat à four. Enfourne 30 minutes et remue toutes les 5 minutes, jusqu'à une couleur dorée, claire à moyenne. Elle ne doit pas brûler.",
+   "t": "سخّن الفرن مسبقًا إلى 200 درجة مئوية. افرد {{farine}} من الدقيق في صينية فرن كبيرة. أدخلها الفرن 30 دقيقة وحرّك الدقيق كل 5 دقائق، حتى يصير لونه ذهبيًا فاتحًا إلى متوسط. يجب ألا يحترق."
+  },
+  "steps.2.tip": {
+   "fr": "Choumicha la fait dorer à 160 °C, en la remuant de temps en temps ; Cooking with Alia la laisse environ 45 minutes à 200 °C, jusqu'à une couleur brune.",
+   "t": "تحمّره Choumicha على 160 درجة مئوية، مع تحريكه من حين لآخر؛ وتتركه Cooking with Alia نحو 45 دقيقة على 200 درجة مئوية، حتى يصير لونه بنيًا."
+  },
+  "steps.2.timer.label": {
+   "fr": "Farine au four",
+   "t": "الدقيق في الفرن"
+  },
+  "steps.2.timer.done": {
+   "fr": "La farine est dorée, claire à moyenne ? Sors-la. Sinon, laisse-la encore quelques minutes, en remuant.",
+   "t": "هل صار الدقيق ذهبيًا فاتحًا إلى متوسط؟ أخرجه. وإلا فاتركه بضع دقائق أخرى، مع التحريك."
+  },
+  "steps.3.title": {
+   "fr": "Tamiser la farine",
+   "t": "انخل الدقيق"
+  },
+  "steps.3.text": {
+   "fr": "Laisse refroidir la farine grillée. Tamise-la plusieurs fois. Écrase les petites boules dans le tamis avec une cuillère, et jette celles qui ne passent pas.",
+   "t": "اترك الدقيق المحمّص يبرد. انخله عدة مرات. اسحق الكتل الصغيرة في الغربال بملعقة، وتخلّص من تلك التي لا تمرّ."
+  },
+  "steps.3.tip": {
+   "fr": "Prends ton temps : pour Taste of Maroc, une farine bien tamisée est très importante pour le sellou.",
+   "t": "خذ وقتك: فحسب Taste of Maroc، نخل الدقيق جيدًا أمر مهم جدًا للسلّو."
+  },
+  "steps.4.title": {
+   "fr": "Griller le sésame",
+   "t": "حمّص السمسم"
+  },
+  "steps.4.text": {
+   "fr": "Mets {{sesame}} de sésame dans une grande poêle sèche, à feu moyen, en plusieurs fois si ta poêle est petite. Remue sans arrêt, jusqu'à ce que les graines soient un peu plus foncées, croquantes, et sentent bon le grillé. Laisse refroidir.",
+   "t": "ضع {{sesame}} من السمسم في مقلاة كبيرة جافة، على نار متوسطة، على دفعات إذا كانت مقلاتك صغيرة. حرّك دون توقف، حتى تصير الحبوب أغمق قليلًا ومقرمشة، وتفوح منها رائحة التحميص الطيبة. اتركه يبرد."
+  },
+  "steps.4.tip": {
+   "fr": "Au four, Taste of Maroc grille le sésame à 200 °C pendant 15 à 20 minutes, en remuant de temps en temps. Si les graines sont sales, lave-les et sèche-les bien avant (Taste of Maroc).",
+   "t": "في الفرن، تحمّص Taste of Maroc السمسم على 200 درجة مئوية مدة 15 إلى 20 دقيقة، مع التحريك من حين لآخر. وإذا كانت الحبوب متّسخة، فاغسلها وجفّفها جيدًا قبل ذلك (Taste of Maroc)."
+  },
+  "steps.5.title": {
+   "fr": "Frire les amandes",
+   "t": "اقلِ اللوز"
+  },
+  "steps.5.text": {
+   "fr": "Verse un fond d'huile d'environ 1 cm dans une poêle profonde, à feu moyen. Quand l'huile est chaude, fais frire {{amandes}} d'amandes mondées, en plusieurs fois, en remuant sans arrêt, jusqu'à une couleur dorée, claire à moyenne. Sors-les aussitôt avec l'écumoire et pose-les sur du papier absorbant : elles foncent encore en refroidissant. Laisse-les refroidir complètement.",
+   "t": "صبّ طبقة من الزيت بعمق 1 سم تقريبًا في مقلاة عميقة، على نار متوسطة. عندما يسخن الزيت، اقلِ {{amandes}} من اللوز المقشّر على دفعات، مع التحريك دون توقف، حتى يصير لونه ذهبيًا فاتحًا إلى متوسط. أخرجه فورًا بالمغرفة المثقوبة وضعه على ورق ماص: فلونه يغمق أكثر وهو يبرد. اتركه يبرد تمامًا."
+  },
+  "steps.5.tip": {
+   "fr": "Pour tester l'huile, plonges-y une amande : de petites bulles doivent monter autour (Cooking with Alia). Si les amandes colorent en moins de 5 minutes, l'huile est trop chaude : baisse le feu (Taste of Maroc).",
+   "t": "لاختبار الزيت، اغمس فيه حبة لوز: يجب أن تصعد حولها فقاعات صغيرة (Cooking with Alia). وإذا تلوّن اللوز في أقل من 5 دقائق، فالزيت ساخن جدًا: اخفض النار (Taste of Maroc)."
+  },
+  "steps.6.title": {
+   "fr": "Piler le mastic",
+   "t": "دُقّ المسكة"
+  },
+  "steps.6.text": {
+   "fr": "Si tu en mets, pile {{mastic}} de grains de mastic avec un peu de sucre semoule, au mortier ou avec le dos d'une cuillère, jusqu'à obtenir une poudre fine.",
+   "t": "إذا كنت ستضيفها، فدُقّ {{mastic}} من حبوب المسكة مع قليل من السكر الأبيض، في المهراس أو بظهر ملعقة، حتى تحصل على مسحوق ناعم."
+  },
+  "steps.6.tip": {
+   "fr": "Le sucre empêche le mastic de coller à la cuillère (Taste of Maroc).",
+   "t": "السكر يمنع المسكة من الالتصاق بالملعقة (Taste of Maroc)."
+  },
+  "steps.7.title": {
+   "fr": "Mélanger les ingrédients secs",
+   "t": "اخلط المكوّنات الجافة"
+  },
+  "steps.7.text": {
+   "fr": "Dans un très grand saladier, tamise ensemble la farine grillée, {{sucre-glace}} de sucre glace, {{cannelle}} de cannelle, {{anis}} d'anis moulu, {{sel}} de sel et le mastic pilé. Ajoute un peu de muscade râpée, si tu en mets. Mélange avec les mains.",
+   "t": "في وعاء كبير جدًا، انخل معًا الدقيق المحمّص، و{{sucre-glace}} من السكر الناعم، و{{cannelle}} من القرفة، و{{anis}} من اليانسون المطحون، و{{sel}} من الملح، والمسكة المدقوقة. أضف قليلًا من جوزة الطيب المبشورة، إذا كنت ستضيفها. اخلط بيديك."
+  },
+  "steps.8.title": {
+   "fr": "Moudre le sésame",
+   "t": "اطحن السمسم"
+  },
+  "steps.8.text": {
+   "fr": "Garde deux petites poignées de sésame entier. Mixe le reste au robot, en plusieurs fois, jusqu'à obtenir presque une pâte. Verse le sésame moulu dans le saladier, avec une des poignées de graines entières. Garde l'autre poignée pour le décor.",
+   "t": "احتفظ بحفنتين صغيرتين من السمسم الكامل. اطحن الباقي في محضّرة الطعام، على دفعات، حتى يكاد يصير عجينة. صبّ السمسم المطحون في الوعاء، مع إحدى حفنتي الحبوب الكاملة. واحتفظ بالحفنة الأخرى للتزيين."
+  },
+  "steps.9.title": {
+   "fr": "Moudre les amandes",
+   "t": "اطحن اللوز"
+  },
+  "steps.9.text": {
+   "fr": "Garde une petite poignée d'amandes frites pour le décor. Mixe la moitié du reste en pâte lisse, et l'autre moitié en poudre. Ajoute les deux au saladier.",
+   "t": "احتفظ بحفنة صغيرة من اللوز المقلي للتزيين. اطحن نصف الباقي حتى يصير عجينة ملساء، والنصف الآخر حتى يصير مسحوقًا. أضف الاثنين إلى الوعاء."
+  },
+  "steps.9.tip": {
+   "fr": "Pour plus de croquant, concasse grossièrement quelques amandes frites et ajoute-les au mélange (Taste of Maroc ; Choumicha).",
+   "t": "لمزيد من القرمشة، اجرش بضع حبات من اللوز المقلي جرشًا خشنًا وأضفها إلى الخليط (Taste of Maroc؛ Choumicha)."
+  },
+  "steps.10.title": {
+   "fr": "Mélanger longuement à la main",
+   "t": "اخلط بيديك مدة طويلة"
+  },
+  "steps.10.text": {
+   "fr": "Mélange tout avec les mains pendant 10 minutes, en frottant le mélange entre tes paumes, jusqu'à ce qu'il ne reste aucune boule ni grumeau. Goûte, et ajoute un peu de sucre glace, de cannelle ou d'anis si tu veux.",
+   "t": "اخلط كل المكوّنات بيديك مدة 10 دقائق، وأنت تفرك الخليط بين راحتيك، حتى لا تبقى أي كتلة أو تكتّل. تذوّق، وأضف قليلًا من السكر الناعم أو القرفة أو اليانسون إذا أردت."
+  },
+  "steps.10.timer.label": {
+   "fr": "Mélange à la main",
+   "t": "الخلط باليد"
+  },
+  "steps.10.timer.done": {
+   "fr": "Plus aucun grumeau ? Goûte et ajuste, puis passe au beurre.",
+   "t": "ألم تعد هناك أي تكتّلات؟ تذوّق وعدّل، ثم انتقل إلى الزبدة."
+  },
+  "steps.11.title": {
+   "fr": "Ajouter le beurre peu à peu",
+   "t": "أضف الزبدة شيئًا فشيئًا"
+  },
+  "steps.11.text": {
+   "fr": "Fais fondre le beurre clarifié à feu très doux. Verse-le peu à peu sur le mélange, en pétrissant après chaque ajout. Arrête-toi quand le sellou brille et tient quand tu le presses : ferme, mais souple. Tu n'utiliseras peut-être pas tout le beurre.",
+   "t": "أذِب الزبدة المصفّاة على نار هادئة جدًا. صبّها على الخليط شيئًا فشيئًا، واعجن بعد كل إضافة. توقّف عندما يلمع السلّو ويتماسك حين تضغطه: متماسكًا لكن ليّنًا. فقد لا تستعمل الزبدة كلها."
+  },
+  "steps.11.tip": {
+   "fr": "Avec moins de beurre, le sellou reste plus poudreux. Taste of Maroc le préfère assez humide pour le presser et le manger à la main.",
+   "t": "مع زبدة أقل، يبقى السلّو أقرب إلى المسحوق. وتفضّله Taste of Maroc رطبًا بما يكفي لضغطه وأكله باليد."
+  },
+  "steps.12.title": {
+   "fr": "Pétrir 5 minutes",
+   "t": "اعجن 5 دقائق"
+  },
+  "steps.12.text": {
+   "fr": "Pétris encore 5 minutes, jusqu'à obtenir un mélange bien homogène.",
+   "t": "اعجن 5 دقائق أخرى، حتى تحصل على خليط متجانس جيدًا."
+  },
+  "steps.12.timer.label": {
+   "fr": "Pétrissage",
+   "t": "العجن"
+  },
+  "steps.12.timer.done": {
+   "fr": "Le sellou est homogène ? Mets-le en boîte.",
+   "t": "هل صار السلّو متجانسًا؟ ضعه في العلب."
+  },
+  "steps.13.title": {
+   "fr": "Refroidir avant de fermer",
+   "t": "اتركه يبرد قبل إغلاق العلب"
+  },
+  "steps.13.text": {
+   "fr": "Mets le sellou dans des boîtes hermétiques. Laisse-le refroidir complètement, sans couvercle, pendant plusieurs heures. Ferme ensuite les boîtes.",
+   "t": "ضع السلّو في علب محكمة الإغلاق. اتركه يبرد تمامًا، دون غطاء، عدة ساعات. ثم أغلق العلب."
+  },
+  "steps.13.tip": {
+   "fr": "Morocco World News le laisse une nuit dans le saladier avant de le mettre en boîte.",
+   "t": "يتركه Morocco World News ليلة كاملة في الوعاء قبل وضعه في العلب."
+  },
+  "steps.14.title": {
+   "fr": "Dresser et servir",
+   "t": "رتّبه وقدّمه"
+  },
+  "steps.14.text": {
+   "fr": "Pour servir, dresse le sellou en petit dôme sur une assiette. Saupoudre-le d'un peu de sucre glace, puis décore avec les amandes frites et le sésame gardés. Sers-le avec le thé.",
+   "t": "للتقديم، رتّب السلّو على شكل قبة صغيرة في صحن. رشّه بقليل من السكر الناعم، ثم زيّنه باللوز المقلي والسمسم اللذين احتفظت بهما. قدّمه مع الشاي."
+  },
+  "steps.14.tip": {
+   "fr": "Tu peux aussi le presser en petites boules ou en carrés (Taste of Maroc ; Cooking with Alia).",
+   "t": "يمكنك أيضًا أن تضغطه على شكل كرات صغيرة أو مربعات (Taste of Maroc؛ Cooking with Alia)."
+  },
+  "secrets.0.text": {
+   "fr": "Autant d'amandes et de sésame que de farine, en poids : c'est la version de Fès. N'augmente pas la farine : ce sont les amandes et le sésame en bonne quantité qui font un bon sellou maison.",
+   "t": "وزن اللوز ووزن السمسم يساويان وزن الدقيق: هذه نسخة فاس. لا تزد الدقيق: فاللوز والسمسم بكمية وافرة هما ما يصنع سلّوًا منزليًا جيدًا."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; même rapport chez Cooking with Alia (n° 777), Lalla Moulati (n° 359492) et Wikipédia en arabe",
+   "t": "Taste of Maroc؛ والنسبة نفسها عند Cooking with Alia (رقم 777)، وLalla Moulati (رقم 359492)، وWikipédia بالعربية"
+  },
+  "secrets.1.text": {
+   "fr": "Remue souvent la farine pendant qu'elle grille, et ne la laisse pas brûler.",
+   "t": "حرّك الدقيق كثيرًا وهو يتحمّص، ولا تتركه يحترق."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (toutes les 5 minutes) ; Choumicha ; Cooking with Alia",
+   "t": "Taste of Maroc (كل 5 دقائق)؛ Choumicha؛ Cooking with Alia"
+  },
+  "secrets.2.text": {
+   "fr": "Tamise plusieurs fois la farine grillée et prends ton temps : c'est très important pour le sellou.",
+   "t": "انخل الدقيق المحمّص عدة مرات وخذ وقتك: فهذا مهم جدًا للسلّو."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Choumicha et Cooking with Alia tamisent aussi",
+   "t": "Taste of Maroc؛ وتنخله Choumicha وCooking with Alia أيضًا"
+  },
+  "secrets.3.text": {
+   "fr": "Clarifie le beurre et enlève tout le petit-lait : c'est important pour que le sellou reste frais et ne se gâte pas.",
+   "t": "صفِّ الزبدة وأزل اللبن كله: فهذا مهم لكي يبقى السلّو طازجًا ولا يفسد."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; Morocco World News, Cooking with Alia et Lalla Moulati clarifient aussi le beurre",
+   "t": "Taste of Maroc؛ ويصفّي Morocco World News وCooking with Alia وLalla Moulati الزبدة أيضًا"
+  },
+  "secrets.4.text": {
+   "fr": "La façon traditionnelle est de frire les amandes. Les griller au four est possible, mais c'est moins traditionnel.",
+   "t": "الطريقة التقليدية هي قلي اللوز. ويمكن تحميصه في الفرن، لكن ذلك أقل التزامًا بالتقاليد."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Bladi.net, Cooking with Alia, Lalla Moulati et Wikipédia en arabe les font frire ; Choumicha les grille au four",
+   "t": "Taste of Maroc؛ ويقليه Bladi.net وCooking with Alia وLalla Moulati وWikipédia بالعربية؛ أما Choumicha فتحمّصه في الفرن"
+  },
+  "secrets.5.text": {
+   "fr": "Sors les amandes de l'huile dès qu'elles sont dorées : elles continuent de foncer en refroidissant.",
+   "t": "أخرج اللوز من الزيت بمجرد أن يصير ذهبيًا: فلونه يستمر في الاغمقاق وهو يبرد."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia",
+   "t": "Taste of Maroc؛ Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Mixe le sésame presque en pâte, mais garde quelques graines entières dans le mélange.",
+   "t": "اطحن السمسم حتى يكاد يصير عجينة، لكن احتفظ ببعض الحبوب الكاملة في الخليط."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Wikipédia en arabe met aussi des graines entières dans le mélange ; Morocco World News met une demi-tasse de sésame de côté, sans dire à quoi elle sert",
+   "t": "Taste of Maroc؛ وتضع Wikipédia بالعربية أيضًا حبوبًا كاملة في الخليط؛ ويترك Morocco World News نصف كوب من السمسم جانبًا، دون أن يذكر الغرض منه"
+  },
+  "secrets.7.text": {
+   "fr": "Mixe une partie des amandes en pâte lisse et l'autre en poudre ; quelques amandes concassées ajoutent du croquant.",
+   "t": "اطحن جزءًا من اللوز حتى يصير عجينة ملساء، والجزء الآخر حتى يصير مسحوقًا؛ وبضع حبات لوز مجروشة تضيف قرمشة."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Choumicha (200 g d'amandes concassées en plus, pour 500 g de farine)",
+   "t": "Taste of Maroc؛ Choumicha (200 غ إضافية من اللوز المجروش، لكل 500 غ من الدقيق)"
+  },
+  "secrets.8.text": {
+   "fr": "Pile le mastic avec un peu de sucre : il ne colle plus à la cuillère.",
+   "t": "دُقّ المسكة مع قليل من السكر: فلا تعود تلتصق بالملعقة."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia pile aussi la gomme avec du sucre",
+   "t": "Taste of Maroc؛ وتدقّ Cooking with Alia العلك أيضًا مع السكر"
+  },
+  "secrets.9.text": {
+   "fr": "Mélange longuement à la main, au moins 10 minutes, en frottant entre tes paumes, avant d'ajouter le beurre.",
+   "t": "اخلط بيديك مدة طويلة، 10 دقائق على الأقل، وأنت تفرك الخليط بين راحتيك، قبل إضافة الزبدة."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc ; Choumicha pétrit 10 à 15 minutes",
+   "t": "Taste of Maroc؛ وتعجن Choumicha من 10 إلى 15 دقيقة"
+  },
+  "secrets.10.text": {
+   "fr": "Goûte avant d'ajouter le beurre, et ajuste le sucre, la cannelle ou l'anis : chaque famille a son goût.",
+   "t": "تذوّق قبل إضافة الزبدة، وعدّل السكر أو القرفة أو اليانسون: فلكل عائلة ذوقها."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia",
+   "t": "Taste of Maroc؛ Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Ajoute le beurre peu à peu, juste ce qu'il faut : le sellou doit briller et rester souple.",
+   "t": "أضف الزبدة شيئًا فشيئًا، بالقدر اللازم فقط: يجب أن يلمع السلّو ويبقى ليّنًا."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; Choumicha incorpore le beurre en pétrissant",
+   "t": "Taste of Maroc؛ وتُدمج Choumicha الزبدة وهي تعجن"
+  },
+  "secrets.12.text": {
+   "fr": "Laisse le sellou refroidir complètement avant de fermer la boîte.",
+   "t": "اترك السلّو يبرد تمامًا قبل إغلاق العلبة."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; Morocco World News (une nuit dans le saladier)",
+   "t": "Taste of Maroc؛ Morocco World News (ليلة كاملة في الوعاء)"
+  },
+  "secrets.13.text": {
+   "fr": "Si l'huile remonte à la surface, surtout quand il fait chaud, c'est normal : remélange avant de servir.",
+   "t": "إذا صعد الزيت إلى السطح، خاصة في الطقس الحار، فهذا طبيعي: أعد خلطه قبل التقديم."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Laisser brûler la farine au four : remue-la souvent (Taste of Maroc ; Choumicha ; Cooking with Alia).",
+   "t": "ترك الدقيق يحترق في الفرن: حرّكه كثيرًا (Taste of Maroc؛ Choumicha؛ Cooking with Alia)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre plus de farine que d'amandes et de sésame : le goût des fruits secs s'efface (Taste of Maroc).",
+   "t": "وضع دقيق أكثر من اللوز والسمسم: فيضيع طعم المكسّرات (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de tamiser la farine grillée : il reste des boules (Taste of Maroc ; Cooking with Alia).",
+   "t": "نسيان نخل الدقيق المحمّص: فتبقى فيه كتل (Taste of Maroc؛ Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les amandes trop longtemps dans l'huile : elles foncent encore après (Taste of Maroc ; Cooking with Alia).",
+   "t": "ترك اللوز مدة طويلة جدًا في الزيت: فلونه يستمر في الاغمقاق بعد ذلك (Taste of Maroc؛ Cooking with Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Garder le petit-lait dans le beurre clarifié (Taste of Maroc ; Morocco World News).",
+   "t": "إبقاء اللبن في الزبدة المصفّاة (Taste of Maroc؛ Morocco World News)."
+  },
+  "mistakes.5": {
+   "fr": "Verser tout le beurre d'un coup : ajoute-le peu à peu (Taste of Maroc ; Choumicha).",
+   "t": "صبّ الزبدة كلها دفعة واحدة: أضفها شيئًا فشيئًا (Taste of Maroc؛ Choumicha)."
+  },
+  "mistakes.6": {
+   "fr": "Fermer la boîte quand le sellou est encore chaud (Taste of Maroc ; Morocco World News).",
+   "t": "إغلاق العلبة والسلّو ما زال ساخنًا (Taste of Maroc؛ Morocco World News)."
+  },
+  "mistakes.7": {
+   "fr": "Pour la variante au miel : ne pas en donner à un bébé de moins d'un an, à cause du risque de botulisme infantile (NHS, service de santé britannique). Et pas d'amandes entières, comme celles du décor, avant 5 ans : un enfant peut s'étouffer avec (NHS).",
+   "t": "لنسخة العسل: لا تعطِها لرضيع عمره أقل من سنة، بسبب خطر التسمم الوشيقي لدى الرضّع (NHS، هيئة الخدمات الصحية البريطانية). ولا تعطِ اللوز الكامل، مثل لوز التزيين، لطفل دون 5 سنوات: فقد يختنق به (NHS)."
+  },
+  "variants.0": {
+   "fr": "Version de Choumicha, moins riche en fruits secs et plus sucrée : 500 g de farine dorée au four à 160 °C, 250 g d'amandes grillées au four, 250 g de sésame, 400 g de sucre glace, ½ c. à s. d'anis moulu, 1 c. à s. de cannelle, ½ c. à c. de sel, ¼ c. à c. de mastic, 260 g de beurre fondu. Le sésame est moulu chaud avec la moitié du sucre glace, les amandes avec le reste. Le sellou est tassé sur 2 cm dans un moule, gardé 2 heures au réfrigérateur, puis coupé en losanges (Choumicha).",
+   "t": "نسخة Choumicha، أقل غنى بالمكسّرات وأكثر حلاوة: 500 غ من الدقيق المحمّر في الفرن على 160 درجة مئوية، و250 غ من اللوز المحمّص في الفرن، و250 غ من السمسم، و400 غ من السكر الناعم، و½ ملعقة كبيرة من اليانسون المطحون، وملعقة كبيرة واحدة من القرفة، و½ ملعقة صغيرة من الملح، و¼ ملعقة صغيرة من المسكة، و260 غ من الزبدة المذابة. يُطحن السمسم ساخنًا مع نصف السكر الناعم، واللوز مع الباقي. ويُرصّ السلّو في قالب بسمك 2 سم، ويُترك ساعتين في الثلاجة، ثم يُقطّع على شكل معيّنات (Choumicha)."
+  },
+  "variants.1": {
+   "fr": "Avec cacahuètes, anis et fenouil : 1 kg de farine, 500 g de sésame, 500 g d'amandes, 500 g de cacahuètes grillées, 2 c. à s. de graines d'anis et 2 c. à s. de graines de fenouil, grillées puis moulues, 1 c. à s. de cannelle, 200 g de sucre glace, ½ tasse de miel, 125 g de beurre clarifié et de l'huile chauffée puis refroidie (Morocco World News). Les cacahuètes reviennent aussi chez Lalla Moulati (n° 360164), Cooking with Alia (n° 146) et Wikipédia en arabe.",
+   "t": "بالفول السوداني واليانسون والشمر: 1 كغ من الدقيق، و500 غ من السمسم، و500 غ من اللوز، و500 غ من الفول السوداني المحمّص، وملعقتان كبيرتان من حبوب اليانسون وملعقتان كبيرتان من حبوب الشمر، محمّصة ثم مطحونة، وملعقة كبيرة واحدة من القرفة، و200 غ من السكر الناعم، و½ كوب من العسل، و125 غ من الزبدة المصفّاة، وزيت مسخّن ثم مبرّد (Morocco World News). ويظهر الفول السوداني أيضًا عند Lalla Moulati (رقم 360164)، وCooking with Alia (رقم 146)، وWikipédia بالعربية."
+  },
+  "variants.2": {
+   "fr": "Au miel : Taste of Maroc remplace le sucre glace par du miel et met alors moins de beurre ; Wikipédia en arabe et Cooking with Alia mettent aussi du miel. Pas de miel pour un bébé de moins d'un an (NHS).",
+   "t": "بالعسل: تستبدل Taste of Maroc السكر الناعم بالعسل، وتضع عندئذ زبدة أقل؛ وتضع Wikipédia بالعربية وCooking with Alia العسل أيضًا. لا عسل لرضيع عمره أقل من سنة (NHS)."
+  },
+  "variants.3": {
+   "fr": "À l'huile : un peu de l'huile de friture des amandes à la place du beurre clarifié (Taste of Maroc), ou en plus du beurre (Lalla Moulati n° 359492 : ¾ de verre de chaque), ou de l'huile d'olive au lieu du beurre (Taste of Maroc ; Lalla Moulati n° 359364, un verre d'huile d'olive pour 1 kg de farine).",
+   "t": "بالزيت: قليل من زيت قلي اللوز بدلًا من الزبدة المصفّاة (Taste of Maroc)، أو إضافةً إلى الزبدة (Lalla Moulati رقم 359492: ¾ كأس من كل منهما)، أو زيت الزيتون بدلًا من الزبدة (Taste of Maroc؛ Lalla Moulati رقم 359364، كأس من زيت الزيتون لكل 1 كغ من الدقيق)."
+  },
+  "variants.4": {
+   "fr": "Version de Bladi.net : 1 kg de farine, 750 g de sésame, 500 g d'amandes frites, 500 g de sucre glace, 3 c. à s. de cannelle, 1 c. à s. de gomme (« masqua horra »), du beurre fondu et de l'huile ; le sellou est dressé en pyramide (Bladi.net).",
+   "t": "نسخة Bladi.net: 1 كغ من الدقيق، و750 غ من السمسم، و500 غ من اللوز المقلي، و500 غ من السكر الناعم، و3 ملاعق كبيرة من القرفة، وملعقة كبيرة واحدة من العلك («masqua horra»)، وزبدة مذابة وزيت؛ ويُرتَّب السلّو على شكل هرم (Bladi.net)."
+  },
+  "variants.5": {
+   "fr": "Version de Cooking with Alia (n° 777) : 500 g de farine grillée environ 45 minutes à 200 °C, 500 g d'amandes frites, 500 g de sésame, 1 c. à c. de muscade, 300 g de beurre clarifié, sucre glace et miel au goût.",
+   "t": "نسخة Cooking with Alia (رقم 777): 500 غ من الدقيق المحمّص نحو 45 دقيقة على 200 درجة مئوية، و500 غ من اللوز المقلي، و500 غ من السمسم، وملعقة صغيرة واحدة من جوزة الطيب، و300 غ من الزبدة المصفّاة، والسكر الناعم والعسل حسب الذوق."
+  },
+  "variants.6": {
+   "fr": "Autres parfums : graines de lin grillées (Lalla Moulati n° 359492), cardamome (Cooking with Alia n° 146), muscade (Cooking with Alia ; Lalla Moulati).",
+   "t": "نكهات أخرى: بذور الكتان المحمّصة (Lalla Moulati رقم 359492)، والهيل (Cooking with Alia رقم 146)، وجوزة الطيب (Cooking with Alia؛ Lalla Moulati)."
+  },
+  "variants.7": {
+   "fr": "À la farine complète, au miel et à l'huile d'olive ou d'argan (Taste of Maroc ; Cooking with Alia n° 495). Sans gluten : une farine sans gluten grillée et de l'huile d'argan (Taste of Maroc).",
+   "t": "بدقيق القمح الكامل، والعسل، وزيت الزيتون أو زيت الأركان (Taste of Maroc؛ Cooking with Alia رقم 495). ودون غلوتين: دقيق خالٍ من الغلوتين محمّص وزيت الأركان (Taste of Maroc)."
+  },
+  "variants.8": {
+   "fr": "Zmita (ou zomita) : une douceur proche, avec de la farine d'orge, du millet, des graines de lin et des herbes (Taste of Maroc).",
+   "t": "الزميتة (zmita أو zomita): حلوى قريبة منه، بدقيق الشعير، والدخن، وبذور الكتان، والأعشاب (Taste of Maroc)."
+  }
+ }
+}

@@ -151,8 +151,8 @@
    "t": "Fill the fryer with {{huile}} as its instructions say and set it to 140 °C. Without a fryer, use a deep saucepan: fill it no more than a third full and check the temperature with a cooking thermometer. Put a lid that fits within reach. From now on, don't take your eyes off the oil."
   },
   "steps.4.tip": {
-   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
-   "t": "If the oil catches fire: never use water, and don't move the fryer or pan. If you can do it safely, turn off the heat and put the lid on, then leave it to cool for at least 30 minutes without touching it. Otherwise, get out, close the door and call the fire brigade. Call them even if the fire seems to be out: it may have spread into the cooker hood duct (Quebec government, USFA, London Fire Brigade, Cambridgeshire Fire & Rescue Service)."
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire). Coupe le chauffage seulement si tu peux le faire sans danger, sans te pencher au-dessus du récipient (London Fire Brigade, pompiers de Cambridgeshire) ; le gouvernement du Québec dit d'éteindre aussi, si possible, le four et la hotte. Le gouvernement du Québec et l'USFA conseillent de couvrir vite le récipient avec un couvercle adapté (l'USFA cite aussi une plaque de four). La London Fire Brigade et les pompiers de Cambridgeshire disent, eux, de ne pas attaquer le feu soi-même : sors de la pièce en fermant la porte, préviens les autres et fais sortir tout le monde, puis appelle les pompiers. Cambridgeshire ajoute de ne pas retourner à l'intérieur et, si le chauffage a pu être coupé et que le feu ne s'étend pas, de laisser le récipient refroidir au moins 30 minutes sans y toucher. Appelle les pompiers même si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec).",
+   "t": "If the oil catches fire: never use water, and don't move the fryer or pan (Quebec government, London Fire Brigade, Cambridgeshire Fire & Rescue Service). Turn off the heat only if you can do so safely, without leaning over the fryer or pan (London Fire Brigade, Cambridgeshire Fire & Rescue Service); the Quebec government says to also turn off the oven and the cooker hood, if possible. The Quebec government and the USFA advise quickly covering the fryer or pan with a suitable lid (the USFA also mentions a baking tray). The London Fire Brigade and Cambridgeshire Fire & Rescue Service, for their part, say not to tackle the fire yourself: leave the room, closing the door behind you, warn the others and get everyone out, then call the fire brigade. Cambridgeshire adds not to go back inside and, if you were able to turn off the heat and the fire is not spreading, to leave the fryer or pan to cool for at least 30 minutes without touching it. Call the fire brigade even if the fire seems to be out: it may have spread into the cooker hood duct (Quebec government)."
   },
   "steps.5.title": {
    "fr": "Première cuisson",
@@ -247,8 +247,8 @@
    "t": "Lift out the basket and shake it well over the oil. Tip the fries onto kitchen paper and salt them straight away with a little {{sel}}, while they are piping hot. Don't cover them."
   },
   "steps.10.tip": {
-   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
-   "t": "Shaking the basket knocks off the surface oil: the FSA talks of 20% less fat absorbed. In Belgian chip shops, they shake and tap the container to drain them (Wikipedia)."
+   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins quand on secoue les frites et qu'on tape plusieurs fois le panier. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
+   "t": "Shaking the basket knocks off the surface oil: the FSA talks of 20% less fat absorbed when you shake the fries and tap the basket several times. In Belgian chip shops, they shake and tap the container to drain them (Wikipedia)."
   },
   "steps.11.title": {
    "fr": "Cuis les autres fournées",
@@ -351,8 +351,8 @@
    "t": "Shake the basket as soon as it comes out of the oil and drain on kitchen paper: fries keep absorbing oil as they cool."
   },
   "secrets.8.source": {
-   "fr": "FSA (jusqu'à 20 % de gras absorbé en moins), Wikipédia, Navefri-Unafri",
-   "t": "FSA (up to 20% less fat absorbed), Wikipedia, Navefri-Unafri"
+   "fr": "FSA (20 % de gras absorbé en moins en secouant les frites et en tapant le panier), Wikipédia, Navefri-Unafri",
+   "t": "FSA (20% less fat absorbed by shaking the fries and tapping the basket), Wikipedia, Navefri-Unafri"
   },
   "secrets.9.text": {
    "fr": "Sale tout de suite, à la sortie de l'huile, quand les frites sont encore brûlantes : le sel se dissout et imprègne mieux. Et ne les couvre pas.",

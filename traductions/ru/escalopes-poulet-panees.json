@@ -11,8 +11,8 @@
    "t": "Тонкие куриные эскалопы, обвалянные в муке, яйце и сухарях и обжаренные на сковороде до золотистого цвета: хрустящие снаружи, нежные внутри."
   },
   "region": {
-   "fr": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
-   "t": "Франция и Центральная Европа. Панировка «по-английски» (мука, яйцо, сухари) — классический приём французской кухни (Escoffier, Chef Simon); венский шницель (Wiener Schnitzel, Вена) — родственное блюдо, изначально из телятины. Курицу в панировке едят также в Египте («фрах пане») и в Израиле (Wikipédia)."
+   "fr": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel), plat de Vienne fait de veau et pané de la même façon (farine, œuf, chapelure), est une proche cousine de ces escalopes de poulet panées. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
+   "t": "Франция и Центральная Европа. Панировка «по-английски» (мука, яйцо, сухари) — классический приём французской кухни (Escoffier, Chef Simon); венский шницель (Wiener Schnitzel), блюдо из Вены, которое готовят из телятины и панируют так же (мука, яйцо, сухари), — близкий родственник этих куриных эскалопов в панировке. Курицу в панировке едят также в Египте («фрах пане») и в Израиле (Wikipédia)."
   },
   "occasion": {
    "fr": "Dîner rapide des soirs de fatigue. Les enfants adorent l'escalope panée (Migusto, Betty Bossi).",
@@ -37,10 +37,6 @@
   "ing.escalopes.pl": {
    "fr": "escalopes de poulet halal",
    "t": "халяльных куриных эскалопа"
-  },
-  "ing.escalopes.pl5": {
-   "fr": "escalope de poulet halal / escalopes de poulet halal",
-   "t": "халяльных куриных эскалопов"
   },
   "ing.escalopes.note": {
    "fr": "une par personne, de 100 à 150 g environ ; ou des blancs de poulet tranchés en deux dans l'épaisseur",
@@ -74,10 +70,6 @@
    "fr": "œufs",
    "t": "яйца"
   },
-  "ing.oeufs.pl5": {
-   "fr": "œuf / œufs",
-   "t": "яиц"
-  },
   "ing.chapelure.name": {
    "fr": "de chapelure",
    "t": "панировочных сухарей"
@@ -105,10 +97,6 @@
   "ing.citron.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron.note": {
    "fr": "en quartiers, pour servir",
@@ -451,8 +439,8 @@
    "t": "Двойная панировка: ещё раз обмакните запанированный эскалоп в яйцо, а затем в сухари, чтобы корочка была толще (Betty Bossi, Ben Tish)."
   },
   "variants.3": {
-   "fr": "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
-   "t": "Полегче, как у Cyril Lignac: только взбитые в пену белки, без муки, и сухари, смешанные с дроблёным арахисом и небольшим количеством специй тандури; запанированные эскалопы выдерживают 30 минут в холодильнике перед жаркой (Journal des Femmes, 2024)."
+   "fr": "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; ici, contrairement à la recette de base, où l'on pane juste avant de cuire, les escalopes panées reposent environ 30 minutes au réfrigérateur avant la cuisson : c'est le choix propre à Cyril Lignac, pour que les œufs « s'amalgament » bien (Journal des Femmes, 2024).",
+   "t": "Полегче, как у Cyril Lignac: только взбитые в пену белки, без муки, и сухари, смешанные с дроблёным арахисом и небольшим количеством специй тандури; здесь, в отличие от основного рецепта (где эскалопы панируют прямо перед жаркой), запанированные эскалопы выдерживают около 30 минут в холодильнике перед жаркой: это выбор самого Cyril Lignac, чтобы яйца хорошо «схватились» (Journal des Femmes, 2024)."
   },
   "variants.4": {
    "fr": "Façon israélienne : chapelure relevée de paprika ou de graines de sésame, cuisson à l'huile végétale (Wikipédia).",
@@ -469,6 +457,18 @@
   "variants.7": {
    "fr": "Au beurre clarifié, comme Escoffier, Chef Simon et Cyril Lignac, à la place de l'huile.",
    "t": "На топлёном масле вместо растительного, как у Escoffier, Chef Simon и Cyril Lignac."
+  },
+  "ing.escalopes.pl5": {
+   "fr": "escalope de poulet halal / escalopes de poulet halal",
+   "t": "халяльных куриных эскалопов"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

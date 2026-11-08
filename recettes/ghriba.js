@@ -425,6 +425,7 @@ window.RECETTES.push({
  "pairs": [
   "the-menthe"
  ],
+ "serv_step": 10,
  "img_alt": "Ghriba aux amandes craquelée et poudrée de sucre glace",
  "img": "img/ghriba.jpg",
  "photo": {

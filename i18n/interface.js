@@ -285,6 +285,7 @@
       'Poisson': f3('Fish', 'سمك', 'Рыба'),
       'Sandwich': f3('Sandwich', 'سندويتش', 'Сэндвич'),
       'Accompagnement': f3('Side dish', 'طبق جانبي', 'Гарнир'),
+      'Entrée': f3('Starter', 'مقبلات', 'Закуска'),
       'Rapide': f3('Quick', 'سريعة', 'Быстро'),
       'Boisson': f3('Drink', 'مشروب', 'Напиток'),
       'Burger': f3('Burger', 'برغر', 'Бургер'),

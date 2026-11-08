@@ -155,8 +155,8 @@
    "t": "شكّل الكرات"
   },
   "steps.3.text": {
-   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
-   "t": "قسّم العجين إلى كرات متساوية، كرة لكل رغيف، ملساء جيدًا من الأعلى. ضعها على الصينية مع ترك مسافة كافية بينها: فعند تسطيحها إلى سمك 6 مم، ستعطي كل كرة قرصًا عرضه من 27 إلى 30 سم. إذا لم يتسع قرصان بهذا الحجم جنبًا إلى جنب على صينيتك (يلزم طول 55 سم على الأقل)، فضع كرة واحدة في كل صينية."
+   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 60 cm de long), mets une boule par plaque.",
+   "t": "قسّم العجين إلى كرات متساوية، كرة لكل رغيف، ملساء جيدًا من الأعلى. ضعها على الصينية مع ترك مسافة كافية بينها: فعند تسطيحها إلى سمك 6 مم، ستعطي كل كرة قرصًا عرضه من 27 إلى 30 سم. إذا لم يتسع قرصان بهذا الحجم جنبًا إلى جنب على صينيتك (يلزم طول 60 سم على الأقل)، فضع كرة واحدة في كل صينية."
   },
   "steps.4.title": {
    "fr": "Repos sous un torchon",
@@ -188,15 +188,15 @@
   },
   "steps.6.text": {
    "fr": "Couvre de nouveau d'un torchon et laisse lever environ 1 heure dans un endroit tiède, plus longtemps si la pièce est fraîche. S'il fait froid, ajoute une couche, ou une petite couverture. Pendant la levée, préchauffe le four à 220 °C : il doit être bien chaud pour le pain.",
-   "t": "غطِّها من جديد بفوطة واتركها تختمر نحو 1 ساعة في مكان دافئ، ومدة أطول إذا كانت الغرفة باردة. وإذا كان الجو باردًا، فأضف طبقة أخرى أو بطانية صغيرة. أثناء التخمير، سخّن الفرن مسبقًا على 220 درجة مئوية: يجب أن يكون ساخنًا جيدًا للخبز."
+   "t": "غطِّها من جديد بفوطة واتركها تختمر نحو ساعة في مكان دافئ، ومدة أطول إذا كانت الغرفة باردة. وإذا كان الجو باردًا، فأضف طبقة أخرى أو بطانية صغيرة. أثناء التخمير، سخّن الفرن مسبقًا على 220 درجة مئوية: يجب أن يكون ساخنًا جيدًا للخبز."
   },
   "steps.6.timer.label": {
    "fr": "Levée des pains",
    "t": "تخمير الأرغفة"
   },
   "steps.6.timer.done": {
-   "fr": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
-   "t": "اضغط برفق بطرف إصبعك: إذا استعاد العجين شكله، فهو جاهز. وإلا فانتظر قليلًا بعد."
+   "fr": "Appuie légèrement du bout du doigt : si le creux remonte lentement, c'est prêt. S'il remonte tout de suite, attends encore un peu ; s'il ne remonte pas du tout, la pâte a trop levé.",
+   "t": "اضغط برفق بطرف إصبعك: إذا عادت الحفرة لتمتلئ ببطء، فالعجين جاهز. وإذا امتلأت فورًا، فانتظر قليلًا بعد؛ وإذا لم تمتلئ أبدًا، فقد اختمر العجين أكثر من اللازم."
   },
   "steps.7.title": {
    "fr": "Piquer et humidifier",
@@ -304,7 +304,7 @@
   },
   "secrets.5.text": {
    "fr": "Une seule levée suffit, une fois les pains aplatis : quelques minutes de repos en boules, puis environ 1 heure sous un torchon. Par temps froid, couvre de plusieurs couches ou d'une petite couverture, ou fais lever dans le four, juste la lampe allumée ; dans ce cas, sors les pains, le torchon et la couverture avant de préchauffer le four.",
-   "t": "يكفي تخمير واحد بعد تسطيح الأرغفة: بضع دقائق من الراحة وهي كرات، ثم نحو 1 ساعة تحت فوطة. وفي الطقس البارد، غطِّها بعدة طبقات أو ببطانية صغيرة، أو اتركها تختمر داخل الفرن مع إشعال مصباحه فقط؛ وفي هذه الحالة، أخرج الأرغفة والفوطة والبطانية قبل تسخين الفرن."
+   "t": "يكفي تخمير واحد بعد تسطيح الأرغفة: بضع دقائق من الراحة وهي كرات، ثم نحو ساعة تحت فوطة. وفي الطقس البارد، غطِّها بعدة طبقات أو ببطانية صغيرة، أو اتركها تختمر داخل الفرن مع إشعال مصباحه فقط؛ وفي هذه الحالة، أخرج الأرغفة والفوطة والبطانية قبل تسخين الفرن."
   },
   "secrets.5.source": {
    "fr": "Taste of Maroc ; MarocMama",
@@ -412,7 +412,7 @@
   },
   "variants.1": {
    "fr": "Petits pains à la semoule de Nargisse Benkabbou (My Moroccan Food), son pain marocain préféré : 280 g de farine, 300 g de semoule fine, 250 ml d'eau et 250 ml de lait tièdes (verse d'abord 300 ml, puis par cuillerées), 1 c. à s. de levure sèche, 2 c. à c. de sel, 2 c. à c. de sucre, 3 c. à s. d'huile d'olive ; 10 pains de 10 cm aplatis à 2 cm, levée 1 h, entaillés au couteau et saupoudrés de semoule, 18 à 20 min à 200 °C.",
-   "t": "أرغفة السميد الصغيرة عند Nargisse Benkabbou (My Moroccan Food)، وهي خبزها المغربي المفضل: 280 غ من الدقيق، و300 غ من السميد الرقيق، و250 مل من الماء و250 مل من الحليب فاترين (اسكب أولًا 300 مل، ثم أضف الباقي ملعقة بعد ملعقة)، و1 ملعقة كبيرة من الخميرة الجافة، و2 ملعقة صغيرة من الملح، و2 ملعقة صغيرة من السكر، و3 ملاعق كبيرة من زيت الزيتون؛ 10 أرغفة بعرض 10 سم تُسطَّح إلى سمك 2 سم، وتختمر 1 ساعة، وتُشقّ بالسكين وتُرشّ بالسميد، وتُخبز من 18 إلى 20 دقيقة على 200 درجة مئوية."
+   "t": "أرغفة السميد الصغيرة عند Nargisse Benkabbou (My Moroccan Food)، وهي خبزها المغربي المفضل: 280 غ من الدقيق، و300 غ من السميد الرقيق، و250 مل من الماء و250 مل من الحليب فاترين (اسكب أولًا 300 مل، ثم أضف الباقي ملعقة بعد ملعقة)، و1 ملعقة كبيرة من الخميرة الجافة، و2 ملعقة صغيرة من الملح، و2 ملعقة صغيرة من السكر، و3 ملاعق كبيرة من زيت الزيتون؛ 10 أرغفة بعرض 10 سم تُسطَّح إلى سمك 2 سم، وتختمر ساعة، وتُشقّ بالسكين وتُرشّ بالسميد، وتُخبز من 18 إلى 20 دقيقة على 200 درجة مئوية."
   },
   "variants.2": {
    "fr": "Khobz complet (Choumicha) : 250 g de farine de blé tendre et 500 g de farine complète, 1 c. à c. de sel, 20 g de levure boulangère, 40 cl d'eau tiède ; boules roulées dans 80 g de farine complète, même méthode que le pain de semoule. Taste of Maroc conseille de débuter avec moitié farine complète, moitié farine blanche, et assez d'eau pour une pâte molle. Le pain complet se dit khobz zraa (Hespress ; Taste of Maroc).",

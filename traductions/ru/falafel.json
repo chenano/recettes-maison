@@ -1,0 +1,638 @@
+{
+ "_slug": "falafel",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Falafels aux pois chiches",
+   "t": "Фалафель из нута"
+  },
+  "tagline": {
+   "fr": "Les boulettes croustillantes des rues du Liban, de Syrie et de Palestine : des pois chiches trempés, jamais cuits, des herbes fraîches et du cumin, dans un pain pita avec la sauce au tahini.",
+   "t": "Хрустящие шарики с улиц Ливана, Сирии и Палестины: замоченный, но ни в коем случае не варёный нут, свежая зелень и кумин — в пите с соусом из тахини."
+  },
+  "region": {
+   "fr": "Proche-Orient. Au Liban, en Syrie, en Palestine et en Jordanie, les falafels se font aux pois chiches, ou avec un mélange de pois chiches et de fèves ; en Égypte, la ta'ameya se fait aux fèves (Wikipédia en anglais et en arabe ; Mama's Lebanese Kitchen). Le plat vient très probablement d'Égypte (Wikipédia en français et en anglais ; Taste of Beirut). Ce n'est pas un plat marocain.",
+   "t": "Ближний Восток. В Ливане, Сирии, Палестине и Иордании фалафель готовят из нута или из смеси нута и бобов фава; в Египте таамию делают из бобов фава (Wikipédia на английском и арабском; Mama's Lebanese Kitchen). Скорее всего, блюдо родом из Египта (Wikipédia на французском и английском; Taste of Beirut). Это не марокканское блюдо."
+  },
+  "img_alt": {
+   "fr": "Falafels dorés, alignés",
+   "t": "Золотистые шарики фалафеля, выложенные в ряд"
+  },
+  "occasion": {
+   "fr": "Cuisine de rue au Liban, aussi populaire que le chawarma : chaque quartier de Beyrouth a ses adresses (Taste of Beirut). En mezzé, avec du houmous et du taboulé (The Matbakh ; recettelibanaise.com). Plat sans viande, mangé pendant le carême par les chrétiens arabes, et parfois servi à l'iftar pendant le ramadan (Wikipédia en anglais). En Égypte, la ta'ameya se mange surtout au petit déjeuner (Wikipédia en arabe et en français).",
+   "t": "Уличная еда в Ливане, такая же популярная, как шаурма: в каждом квартале Бейрута есть свои любимые места (Taste of Beirut). В составе мезе — с хумусом и табуле (The Matbakh; recettelibanaise.com). Блюдо без мяса: его едят арабы-христиане в Великий пост, а иногда подают на ифтар в Рамадан (Wikipédia на английском). В Египте таамию едят в основном на завтрак (Wikipédia на арабском и французском)."
+  },
+  "serving": {
+   "fr": "Sers les falafels bien chauds (Anissa Helou ; Dima Al Sharif). Au Liban, dans un pain libanais ou un pita, avec la sauce au tahini (tarator), des tomates, du persil et des pickles de concombre et de navet (Mama's Lebanese Kitchen ; Anissa Helou ; recettelibanaise.com ; The Matbakh). Mama's Lebanese Kitchen écrase trois ou quatre falafels le long du pain et ajoute une sauce piquante si on aime ; Samira Kazan (Alphafoodie) en met trois, avec concombre, laitue et oignon. En mezzé, avec du houmous et du taboulé, qui est dans l'application (The Matbakh ; recettelibanaise.com). En Syrie, avec une sauce au yaourt et au tahini ou un houmous, des tomates, des pickles de concombre et de navet et du persil (Wikipédia en arabe) ; cette page ajoute un peu de sumac et de sésame sur les falafels après la friture. Restes : au réfrigérateur dans les 2 heures, à manger dans les 2 jours, et réchauffés une seule fois, jusqu'à être bien chauds à cœur (FSA).",
+   "t": "Подавайте фалафель очень горячим (Anissa Helou; Dima Al Sharif). В Ливане — в ливанской лепёшке или пите, с соусом из тахини (таратором), помидорами, петрушкой и маринованными огурцами и репой (Mama's Lebanese Kitchen; Anissa Helou; recettelibanaise.com; The Matbakh). Mama's Lebanese Kitchen разминает три-четыре шарика вдоль лепёшки и, если нравится, добавляет острый соус; Samira Kazan (Alphafoodie) кладёт три, с огурцом, салатом-латуком и луком. В составе мезе — с хумусом и табуле, который есть в приложении (The Matbakh; recettelibanaise.com). В Сирии — с соусом из йогурта и тахини или с хумусом, помидорами, маринованными огурцами и репой и петрушкой (арабская Wikipédia, где после жарки фалафель ещё посыпают небольшим количеством сумаха и кунжута). Остатки: в холодильник в течение 2 часов, съесть в течение 2 дней и разогревать только один раз, пока он не станет очень горячим в центре (FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Les falafels",
+   "t": "Фалафель"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "сухого нута"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "ni en conserve, ni cuits",
+   "t": "не консервированный и не варёный"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à éplucher",
+   "t": "очистить"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher",
+   "t": "очистить"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "sans les grosses tiges",
+   "t": "без толстых стеблей"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "кинзы"
+  },
+  "ing.coriandre.note": {
+   "fr": "sans les grosses tiges",
+   "t": "без толстых стеблей"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin en poudre",
+   "t": "молотого кумина (зиры)"
+  },
+  "ing.coriandre-moulue.name": {
+   "fr": "de coriandre en poudre",
+   "t": "молотого кориандра"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.piment.name": {
+   "fr": "piment de Cayenne",
+   "t": "кайенский перец"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif, selon ton goût",
+   "t": "по желанию, по вкусу"
+  },
+  "ing.bicarbonate.name": {
+   "fr": "de bicarbonate de soude",
+   "t": "пищевой соды"
+  },
+  "ing.bicarbonate.note": {
+   "fr": "à ajouter juste avant la friture",
+   "t": "добавить непосредственно перед жаркой"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "семян кунжута"
+  },
+  "ing.sesame.note": {
+   "fr": "facultatif ; le sésame est un allergène (règlement UE 1169/2011)",
+   "t": "по желанию; кунжут — аллерген (регламент ЕС 1169/2011)"
+  },
+  "ing.1.group": {
+   "fr": "Pour la friture",
+   "t": "Для жарки"
+  },
+  "ing.huile.name": {
+   "fr": "huile de tournesol (ou une autre huile neutre)",
+   "t": "подсолнечное масло (или другое растительное масло без запаха)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour que les falafels baignent",
+   "t": "столько, чтобы фалафель был полностью погружён в масло"
+  },
+  "ing.2.group": {
+   "fr": "La sauce au tahini (tarator)",
+   "t": "Соус из тахини (таратор)"
+  },
+  "ing.tahini.name": {
+   "fr": "de tahini (crème de sésame)",
+   "t": "тахини (кунжутной пасты)"
+  },
+  "ing.tahini.note": {
+   "fr": "bien remué dans son pot ; allergène : sésame",
+   "t": "хорошо перемешайте в банке; аллерген: кунжут"
+  },
+  "ing.citron-sauce.name": {
+   "fr": "de jus de citron frais",
+   "t": "свежевыжатого лимонного сока"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.eau.note": {
+   "fr": "un peu plus si la sauce est trop épaisse",
+   "t": "чуть больше, если соус слишком густой"
+  },
+  "ing.ail-sauce.name": {
+   "fr": "petite gousse d'ail",
+   "t": "зубчик чеснока небольшого размера"
+  },
+  "ing.ail-sauce.pl": {
+   "fr": "petites gousses d'ail",
+   "t": "зубчика чеснока небольшого размера"
+  },
+  "ing.ail-sauce.note": {
+   "fr": "à écraser",
+   "t": "раздавить"
+  },
+  "ing.sel-sauce.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel-sauce.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.3.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.pain.name": {
+   "fr": "pain pita (pain libanais)",
+   "t": "лепёшка пита (ливанский хлеб)"
+  },
+  "ing.pain.pl": {
+   "fr": "pains pita (pains libanais)",
+   "t": "лепёшки пита (ливанский хлеб)"
+  },
+  "ing.pain.note": {
+   "fr": "contient du gluten (blé)",
+   "t": "содержит глютен (пшеница)"
+  },
+  "ing.tomates.name": {
+   "fr": "tomates",
+   "t": "помидоры"
+  },
+  "ing.tomates.note": {
+   "fr": "en rondelles",
+   "t": "кружочками"
+  },
+  "ing.persil-service.name": {
+   "fr": "persil plat",
+   "t": "петрушка"
+  },
+  "ing.persil-service.note": {
+   "fr": "lavé et haché",
+   "t": "вымытая и нарубленная"
+  },
+  "ing.cornichons.name": {
+   "fr": "cornichons au sel (ou navets roses marinés)",
+   "t": "солёные огурцы (или маринованная розовая репа)"
+  },
+  "ing.cornichons.note": {
+   "fr": "en tranches",
+   "t": "ломтиками"
+  },
+  "ing.laitue.name": {
+   "fr": "feuilles de laitue",
+   "t": "листья салата-латука"
+  },
+  "ing.laitue.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier pour le trempage : les pois chiches doublent, voire triplent de volume (Alphafoodie)",
+   "t": "Большая миска для замачивания: нут увеличивается в объёме в два, а то и в три раза (Alphafoodie)"
+  },
+  "equipment.1": {
+   "fr": "Une passoire et un torchon propre",
+   "t": "Дуршлаг и чистое кухонное полотенце"
+  },
+  "equipment.2": {
+   "fr": "Un robot mixeur, ou un hachoir à viande avec la grille fine (Anissa Helou ; Taste of Beirut)",
+   "t": "Кухонный комбайн или мясорубка с мелкой решёткой (Anissa Helou; Taste of Beirut)"
+  },
+  "equipment.3": {
+   "fr": "Une friteuse électrique avec thermostat : c'est le plus sûr (London Fire Brigade ; gouvernement du Québec)",
+   "t": "Электрическая фритюрница с термостатом — это самый безопасный вариант (London Fire Brigade; gouvernement du Québec)"
+  },
+  "equipment.4": {
+   "fr": "À défaut : une casserole profonde, remplie au tiers au plus, et un thermomètre de cuisson (London Fire Brigade). Le gouvernement du Québec, lui, déconseille de frire dans une casserole : la friteuse à thermostat reste le meilleur choix",
+   "t": "Если её нет — глубокая кастрюля, заполненная маслом не больше чем на треть, и кулинарный термометр (London Fire Brigade). А gouvernement du Québec не советует жарить во фритюре в кастрюле: фритюрница с термостатом остаётся лучшим выбором"
+  },
+  "equipment.5": {
+   "fr": "Un couvercle assez grand pour couvrir la friteuse ou la casserole, toujours à portée de main",
+   "t": "Крышка, достаточно большая, чтобы накрыть фритюрницу или кастрюлю, — всегда под рукой"
+  },
+  "equipment.6": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "Шумовка и бумажные полотенца"
+  },
+  "equipment.7": {
+   "fr": "Deux cuillères à soupe, ou un moule à falafels (aaleb)",
+   "t": "Две столовые ложки или форма для фалафеля (аалеб)"
+  },
+  "equipment.8": {
+   "fr": "Un bol et un fouet pour la sauce",
+   "t": "Миска и венчик для соуса"
+  },
+  "steps.0.title": {
+   "fr": "Fais tremper les pois chiches",
+   "t": "Замочите нут"
+  },
+  "steps.0.text": {
+   "fr": "Trie {{pois-chiches}} de pois chiches secs et retire les petits cailloux, puis rince-les. Mets-les dans un grand saladier et couvre-les largement d'eau froide : ils vont doubler, voire tripler de volume. Laisse-les tremper au moins 12 heures, et jusqu'à 24 heures.",
+   "t": "Переберите {{pois-chiches:full}}, удалите мелкие камешки, затем промойте. Положите нут в большую миску и залейте большим количеством холодной воды: он увеличится в объёме в два, а то и в три раза. Оставьте замачиваться минимум на 12 часов и до 24 часов."
+  },
+  "steps.0.tip": {
+   "fr": "Ne les fais jamais cuire, et ne prends pas de pois chiches en conserve : trop mous, les falafels se défont dans l'huile (Wikipédia en anglais ; Alphafoodie ; The Matbakh ; The Mediterranean Dish).",
+   "t": "Никогда не варите нут и не берите консервированный: он слишком мягкий, и фалафель разваливается в масле (Wikipédia на английском; Alphafoodie; The Matbakh; The Mediterranean Dish)."
+  },
+  "steps.1.title": {
+   "fr": "Égoutte et sèche les pois chiches",
+   "t": "Откиньте и обсушите нут"
+  },
+  "steps.1.text": {
+   "fr": "Égoutte les pois chiches et rince-les à l'eau fraîche. Étale-les sur un torchon propre et sèche-les bien : la pâte doit être la plus sèche possible.",
+   "t": "Откиньте нут на дуршлаг и промойте холодной водой. Разложите его на чистом кухонном полотенце и хорошо обсушите: масса должна быть как можно суше."
+  },
+  "steps.1.tip": {
+   "fr": "Taste of Beirut, recettelibanaise.com et The Matbakh insistent : les pois chiches doivent être secs. Et l'eau avec l'huile chaude fait un mélange dangereux (London Fire Brigade).",
+   "t": "Taste of Beirut, recettelibanaise.com и The Matbakh настаивают: нут должен быть сухим. К тому же вода и горячее масло — опасное сочетание (London Fire Brigade)."
+  },
+  "steps.2.title": {
+   "fr": "Lave et sèche les herbes",
+   "t": "Вымойте и обсушите зелень"
+  },
+  "steps.2.text": {
+   "fr": "Lave {{persil}} de persil et {{coriandre}} de coriandre fraîche. Sèche-les bien dans un torchon propre, puis coupe les grosses tiges.",
+   "t": "Вымойте {{persil:full}} и {{coriandre:full}}. Хорошо обсушите зелень в чистом кухонном полотенце, затем срежьте толстые стебли."
+  },
+  "steps.2.tip": {
+   "fr": "Ce sont les herbes qui rendent l'intérieur vert ; sans herbes, il reste jaune (Alphafoodie ; Wikipédia en anglais).",
+   "t": "Именно зелень делает фалафель зелёным внутри; без зелени он остаётся жёлтым (Alphafoodie; Wikipédia на английском)."
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon et l'ail",
+   "t": "Измельчите лук и чеснок"
+  },
+  "steps.3.text": {
+   "fr": "Épluche et coupe en morceaux {{oignon:full}}. Épluche {{ail:full}}. Mixe l'oignon et l'ail dans le robot jusqu'à ce qu'ils soient hachés fin.",
+   "t": "Очистите лук ({{oignon}} шт.) и нарежьте кусочками. Очистите {{ail:full}}. Измельчите лук и чеснок в комбайне до мелкой крошки."
+  },
+  "steps.4.title": {
+   "fr": "Mixe les pois chiches",
+   "t": "Измельчите нут"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute les pois chiches dans le robot. Mixe par à-coups, en raclant les bords de temps en temps, jusqu'à obtenir une pâte fine qui colle un peu. Elle doit rester légèrement granuleuse : pas de purée lisse.",
+   "t": "Добавьте нут в комбайн. Измельчайте в импульсном режиме, время от времени счищая массу со стенок, пока не получится мелкая, слегка липкая масса. Она должна оставаться немного зернистой, а не превратиться в гладкое пюре."
+  },
+  "steps.4.tip": {
+   "fr": "Mama's Lebanese Kitchen mixe les pois chiches jusqu'à ce qu'ils ressemblent à de la chapelure ; Samira Kazan (Alphafoodie) veut une pâte épaisse et un peu granuleuse.",
+   "t": "Mama's Lebanese Kitchen измельчает нут до состояния панировочных сухарей; Samira Kazan (Alphafoodie) добивается густой, слегка зернистой массы."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les herbes",
+   "t": "Добавьте зелень"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute le persil et la coriandre. Mixe encore quelques secondes, juste assez pour que la pâte devienne verte.",
+   "t": "Добавьте петрушку и кинзу. Измельчайте ещё несколько секунд — ровно столько, чтобы масса стала зелёной."
+  },
+  "steps.6.title": {
+   "fr": "Assaisonne la pâte",
+   "t": "Приправьте массу"
+  },
+  "steps.6.text": {
+   "fr": "Verse la pâte dans un saladier. Ajoute {{cumin}} de cumin, {{coriandre-moulue}} de coriandre en poudre, {{poivre}} de poivre, {{sel}} de sel et, si tu aimes, un peu de {{piment}}. Mélange bien avec une cuillère.",
+   "t": "Переложите массу в миску. Добавьте {{cumin:full}}, {{coriandre-moulue:full}}, {{poivre:full}}, {{sel:full}} и, если любите, немного кайенского перца. Хорошо перемешайте ложкой."
+  },
+  "steps.7.title": {
+   "fr": "Laisse reposer au frais",
+   "t": "Дайте массе постоять в холодильнике"
+  },
+  "steps.7.text": {
+   "fr": "Couvre le saladier et mets-le au réfrigérateur au moins 30 minutes. La pâte va raffermir : elle sera plus facile à façonner.",
+   "t": "Накройте миску и уберите в холодильник минимум на 30 минут. Масса станет плотнее, и из неё будет легче формовать шарики."
+  },
+  "steps.7.tip": {
+   "fr": "Samira Kazan (Alphafoodie) et Anissa Helou la laissent 30 minutes au frais ; The Matbakh et recettelibanaise.com, 1 heure.",
+   "t": "Samira Kazan (Alphafoodie) и Anissa Helou держат её в холодильнике 30 минут; The Matbakh и recettelibanaise.com — 1 час."
+  },
+  "steps.7.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Масса отдыхает"
+  },
+  "steps.7.timer.done": {
+   "fr": "La pâte est prête. Chauffe l'huile.",
+   "t": "Масса готова. Разогрейте масло."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la sauce au tahini",
+   "t": "Приготовьте соус из тахини"
+  },
+  "steps.8.text": {
+   "fr": "Pendant le repos, écrase {{ail-sauce:full}} avec un peu de {{sel-sauce}}. Remue bien le tahini dans son pot, puis verse {{tahini}} de tahini dans un bol. Ajoute l'ail écrasé, {{citron-sauce}} de jus de citron et {{eau}} d'eau, en fouettant. La sauce épaissit d'abord : continue de fouetter, elle redevient lisse. Elle doit être crémeuse ; ajoute un peu d'eau si elle est trop épaisse, et sale à ton goût.",
+   "t": "Пока масса отдыхает, раздавите {{ail-sauce:full}} с небольшим количеством соли. Хорошо перемешайте тахини в банке, затем выложите {{tahini}} тахини в миску. Взбивая венчиком, добавьте раздавленный чеснок, {{citron-sauce}} лимонного сока и {{eau:full}}. Сначала соус загустеет: продолжайте взбивать, и он снова станет гладким. Он должен быть кремовым; если он слишком густой, добавьте немного воды, и посолите по вкусу."
+  },
+  "steps.8.tip": {
+   "fr": "Hadia la garde au réfrigérateur dans un bocal en verre bien propre, et la remue avant de servir.",
+   "t": "Hadia хранит его в холодильнике в очень чистой стеклянной банке и перемешивает перед подачей."
+  },
+  "steps.9.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "Разогрейте масло до 180 °C"
+  },
+  "steps.9.text": {
+   "fr": "Remplis la friteuse d'{{huile}} comme l'indique sa notice et règle-la sur 180 °C. Sans friteuse, prends une casserole profonde : remplis-la au tiers au plus et vérifie la température avec un thermomètre de cuisson. Garde un couvercle à portée de main. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "Налейте во фритюрницу масло, как указано в инструкции, и установите 180 °C. Если фритюрницы нет, возьмите глубокую кастрюлю: заполните её не больше чем на треть и проверяйте температуру кулинарным термометром. Держите крышку под рукой. С этого момента не спускайте глаз с масла."
+  },
+  "steps.9.tip": {
+   "fr": "Sans thermomètre : plonge un petit morceau de pain dans l'huile ; s'il grésille et que l'huile bouillonne autour, elle est prête (Anissa Helou ; Taste of Beirut). Si l'huile fume, elle est trop chaude : coupe le feu et laisse-la refroidir (London Fire Brigade). Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le feu et pose sur le récipient un couvercle de la bonne taille (gouvernement du Québec). Puis sors de la pièce, ferme la porte et appelle les pompiers, même si le feu semble éteint (London Fire Brigade ; gouvernement du Québec).",
+   "t": "Без термометра: опустите в масло маленький кусочек хлеба; если он шипит и масло вокруг него бурлит, масло готово (Anissa Helou; Taste of Beirut). Если масло дымит, оно слишком горячее: выключите огонь и дайте ему остыть (London Fire Brigade). Если масло загорелось: никогда не лейте воду и не передвигайте посуду. Если это можно сделать без опасности, выключите огонь и накройте посуду подходящей по размеру крышкой (gouvernement du Québec). Затем выйдите из помещения, закройте дверь и вызовите пожарных, даже если кажется, что огонь погас (London Fire Brigade; gouvernement du Québec)."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute le bicarbonate",
+   "t": "Добавьте соду"
+  },
+  "steps.10.text": {
+   "fr": "Sors la pâte du réfrigérateur. Juste avant de façonner les falafels, ajoute {{bicarbonate}} de bicarbonate et mélange bien.",
+   "t": "Достаньте массу из холодильника. Непосредственно перед формовкой шариков добавьте {{bicarbonate:full}} и хорошо перемешайте."
+  },
+  "steps.10.tip": {
+   "fr": "Ajouté au dernier moment, le bicarbonate rend les falafels plus légers (Alphafoodie ; Taste of Beirut). Mama's Lebanese Kitchen, Anissa Helou et recettelibanaise.com l'ajoutent aussi juste avant la friture.",
+   "t": "Сода, добавленная в последний момент, делает фалафель более лёгким (Alphafoodie; Taste of Beirut). Mama's Lebanese Kitchen, Anissa Helou и recettelibanaise.com тоже добавляют её непосредственно перед жаркой."
+  },
+  "steps.11.title": {
+   "fr": "Façonne les falafels",
+   "t": "Сформуйте шарики"
+  },
+  "steps.11.text": {
+   "fr": "Prends une cuillère à soupe bien pleine de pâte et forme une boulette ou un petit palet : à la main, avec deux cuillères, ou avec un moule à falafels. Si tu veux, parsème-les de {{sesame}} de graines de sésame.",
+   "t": "Возьмите полную столовую ложку массы и сформуйте шарик или маленькую плоскую лепёшечку — руками, двумя ложками или формой для фалафеля. По желанию посыпьте сверху {{sesame:full}}."
+  },
+  "steps.11.tip": {
+   "fr": "Le moule à falafels s'appelle « aaleb » ; on le trouve dans les épiceries orientales (Taste of Beirut ; Wikipédia en anglais). Si la pâte est trop collante, Mama's Lebanese Kitchen ajoute un peu de farine.",
+   "t": "Форма для фалафеля называется «аалеб»; её можно найти в восточных магазинах (Taste of Beirut; Wikipédia на английском). Если масса слишком липкая, Mama's Lebanese Kitchen добавляет немного муки."
+  },
+  "steps.12.title": {
+   "fr": "Fais frire",
+   "t": "Обжарьте во фритюре"
+  },
+  "steps.12.text": {
+   "fr": "Glisse doucement quelques falafels dans l'huile chaude, sans trop en mettre à la fois. Fais-les frire environ 4 minutes, en les retournant, jusqu'à ce qu'ils soient bien dorés et croustillants.",
+   "t": "Аккуратно опустите в горячее масло несколько шариков, не кладя слишком много за раз. Жарьте около 4 минут, переворачивая, пока они не станут хорошо подрумяненными и хрустящими."
+  },
+  "steps.12.tip": {
+   "fr": "recettelibanaise.com les sort quand ils remontent à la surface. Une huile trop chaude les brûle (Alphafoodie).",
+   "t": "recettelibanaise.com вынимает их, когда они всплывают на поверхность. В слишком горячем масле они подгорают (Alphafoodie)."
+  },
+  "steps.12.timer.label": {
+   "fr": "Friture des falafels",
+   "t": "Жарка фалафеля"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bien dorés ? Sors-les. Sinon, laisse-les encore un peu.",
+   "t": "Хорошо подрумянились? Выньте их. Если нет, оставьте ещё ненадолго."
+  },
+  "steps.12.img.alt": {
+   "fr": "Falafels qui frient dans une grande poêle d'huile, à Alep (Syrie)",
+   "t": "Шарики фалафеля жарятся в большой сковороде с маслом в Алеппо (Сирия)"
+  },
+  "steps.12.img.caption": {
+   "fr": "La friture des falafels",
+   "t": "Жарка фалафеля"
+  },
+  "steps.13.title": {
+   "fr": "Égoutte et continue",
+   "t": "Обсушите и продолжайте"
+  },
+  "steps.13.text": {
+   "fr": "Sors les falafels avec une écumoire et pose-les sur du papier absorbant. Fais cuire le reste de la pâte de la même façon, par petites fournées. À la fin, éteins la friteuse.",
+   "t": "Выньте фалафель шумовкой и выложите на бумажные полотенца. Таким же образом обжарьте остальную массу небольшими партиями. В конце выключите фритюрницу."
+  },
+  "steps.14.title": {
+   "fr": "Garnis les pains et sers",
+   "t": "Начините лепёшки и подавайте"
+  },
+  "steps.14.text": {
+   "fr": "Ouvre {{pain:full}}. Dans chaque pain, écrase légèrement trois ou quatre falafels chauds. Ajoute de la sauce au tahini, des {{tomates}}, du {{persil-service}}, des {{cornichons}} et, si tu veux, quelques {{laitue}}. Roule et sers tout de suite.",
+   "t": "Откройте лепёшки пита ({{pain}} шт.). В каждую положите три-четыре горячих шарика фалафеля и слегка раздавите их. Добавьте соус из тахини, помидоры, петрушку, солёные огурцы (или маринованную розовую репу) и, по желанию, несколько листьев салата-латука. Сверните и сразу подавайте."
+  },
+  "steps.14.tip": {
+   "fr": "Restes : au réfrigérateur dans les 2 heures, à manger dans les 2 jours. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient bien chauds à cœur (FSA).",
+   "t": "Остатки: в холодильник в течение 2 часов, съесть в течение 2 дней. Разогревайте их только один раз, пока они не станут очень горячими в центре (FSA)."
+  },
+  "secrets.0.text": {
+   "fr": "Des pois chiches secs, trempés, jamais cuits : cuits ou en conserve, ils font une pâte trop molle et les falafels se défont dans l'huile.",
+   "t": "Сухой нут, замоченный и ни в коем случае не варёный: из варёного или консервированного получается слишком мягкая масса, и фалафель разваливается в масле."
+  },
+  "secrets.0.source": {
+   "fr": "Wikipédia en anglais ; Alphafoodie (Samira Kazan) ; The Matbakh",
+   "t": "Wikipédia на английском; Alphafoodie (Samira Kazan); The Matbakh"
+  },
+  "secrets.1.text": {
+   "fr": "Un long trempage : au moins 12 heures, jusqu'à 24 heures, dans beaucoup d'eau froide.",
+   "t": "Долгое замачивание: минимум 12 часов и до 24 часов, в большом количестве холодной воды."
+  },
+  "secrets.1.source": {
+   "fr": "Alphafoodie ; Taste of Beirut ; recettelibanaise.com ; Mama's Lebanese Kitchen ; Gulf News (cheffe Salam Dakkak)",
+   "t": "Alphafoodie; Taste of Beirut; recettelibanaise.com; Mama's Lebanese Kitchen; Gulf News (шеф-повар Salam Dakkak)"
+  },
+  "secrets.2.text": {
+   "fr": "Sèche bien les pois chiches et les herbes : une pâte mouillée se tient mal.",
+   "t": "Хорошо обсушите нут и зелень: влажная масса плохо держит форму."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Beirut ; recettelibanaise.com ; The Matbakh ; Mama's Lebanese Kitchen (herbes égouttées)",
+   "t": "Taste of Beirut; recettelibanaise.com; The Matbakh; Mama's Lebanese Kitchen (обсушенная зелень)"
+  },
+  "secrets.3.text": {
+   "fr": "Le bicarbonate s'ajoute à la toute fin, juste avant de façonner : il rend les falafels légers.",
+   "t": "Соду добавляют в самом конце, непосредственно перед формовкой: она делает фалафель лёгким."
+  },
+  "secrets.3.source": {
+   "fr": "Alphafoodie ; Taste of Beirut ; Mama's Lebanese Kitchen ; Anissa Helou ; recettelibanaise.com",
+   "t": "Alphafoodie, Taste of Beirut, Mama's Lebanese Kitchen, Anissa Helou и recettelibanaise.com"
+  },
+  "secrets.4.text": {
+   "fr": "Un repos au frais raffermit la pâte : elle se façonne mieux.",
+   "t": "Отдых в холодильнике делает массу плотнее: из неё легче формовать шарики."
+  },
+  "secrets.4.source": {
+   "fr": "Alphafoodie ; Anissa Helou ; The Matbakh ; recettelibanaise.com",
+   "t": "Alphafoodie, Anissa Helou, The Matbakh и recettelibanaise.com"
+  },
+  "secrets.5.text": {
+   "fr": "Une huile à 180 °C. Sans thermomètre, un petit morceau de pain doit y grésiller, entouré de bulles.",
+   "t": "Масло — 180 °C. Без термометра: маленький кусочек хлеба должен в нём шипеть, окружённый пузырьками."
+  },
+  "secrets.5.source": {
+   "fr": "Alphafoodie (180 °C) ; Anissa Helou et Taste of Beirut (test du pain)",
+   "t": "Alphafoodie (180 °C); Anissa Helou и Taste of Beirut (проверка хлебом)"
+  },
+  "secrets.6.text": {
+   "fr": "Peu de falafels à la fois dans l'huile, pour qu'ils dorent bien.",
+   "t": "Кладите в масло немного шариков за раз, чтобы они хорошо подрумянились."
+  },
+  "secrets.6.source": {
+   "fr": "Alphafoodie ; Anissa Helou",
+   "t": "Alphafoodie; Anissa Helou"
+  },
+  "secrets.7.text": {
+   "fr": "Le moule à falafels (aaleb) donne des falafels réguliers ; deux cuillères ou les mains marchent aussi.",
+   "t": "Форма для фалафеля (аалеб) даёт ровные шарики; двумя ложками или руками тоже получается."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Beirut ; Mama's Lebanese Kitchen ; Anissa Helou ; Wikipédia en anglais",
+   "t": "Taste of Beirut, Mama's Lebanese Kitchen, Anissa Helou и Wikipédia на английском"
+  },
+  "secrets.8.text": {
+   "fr": "Des graines de sésame sur les falafels avant la friture, pour le croquant : c'est facultatif.",
+   "t": "Семена кунжута на шариках перед жаркой — для хруста; это по желанию."
+  },
+  "secrets.8.source": {
+   "fr": "Alphafoodie ; The Matbakh ; Taste of Beirut",
+   "t": "Alphafoodie, The Matbakh и Taste of Beirut"
+  },
+  "secrets.9.text": {
+   "fr": "Au Liban, les falafels sont toujours arrosés de tarator, la sauce au tahini.",
+   "t": "В Ливане фалафель всегда поливают таратором — соусом из тахини."
+  },
+  "secrets.9.source": {
+   "fr": "The Matbakh ; Hadia's Lebanese Cuisine",
+   "t": "The Matbakh; Hadia's Lebanese Cuisine"
+  },
+  "secrets.10.text": {
+   "fr": "Quand on ajoute le citron et l'eau, le tahini épaissit d'abord, puis redevient lisse : continue de fouetter.",
+   "t": "Когда добавляют лимонный сок и воду, тахини сначала густеет, а потом снова становится гладким: продолжайте взбивать."
+  },
+  "secrets.10.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Anissa Helou",
+   "t": "Hadia's Lebanese Cuisine; Anissa Helou"
+  },
+  "secrets.11.text": {
+   "fr": "Tu peux congeler la pâte crue, sans le bicarbonate. Fais-la décongeler au réfrigérateur, puis ajoute le bicarbonate juste avant la friture.",
+   "t": "Сырую массу можно заморозить, но без соды. Разморозьте её в холодильнике, затем добавьте соду непосредственно перед жаркой."
+  },
+  "secrets.11.source": {
+   "fr": "Mama's Lebanese Kitchen (congélation) ; Alphafoodie (décongélation au réfrigérateur) ; The Matbakh (bicarbonate après décongélation)",
+   "t": "Mama's Lebanese Kitchen (заморозка); Alphafoodie (разморозка в холодильнике); The Matbakh (сода после разморозки)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre des pois chiches en conserve ou cuits : la pâte se défait dans l'huile (Wikipédia en anglais ; Alphafoodie ; The Matbakh).",
+   "t": "Брать консервированный или варёный нут: масса разваливается в масле (Wikipédia на английском; Alphafoodie; The Matbakh)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre des pois chiches ou des herbes encore mouillés : la pâte est trop molle (Taste of Beirut ; recettelibanaise.com), et l'eau fait un mélange dangereux avec l'huile chaude (London Fire Brigade).",
+   "t": "Использовать ещё влажный нут или зелень: масса получается слишком мягкой (Taste of Beirut; recettelibanaise.com), а вода с горячим маслом — опасное сочетание (London Fire Brigade)."
+  },
+  "mistakes.2": {
+   "fr": "Mixer jusqu'à obtenir une purée lisse : Mama's Lebanese Kitchen et Alphafoodie gardent une pâte un peu granuleuse.",
+   "t": "Измельчать до гладкого пюре: Mama's Lebanese Kitchen и Alphafoodie оставляют массу слегка зернистой."
+  },
+  "mistakes.3": {
+   "fr": "Ajouter le bicarbonate trop tôt : il marche mieux à la dernière minute (Alphafoodie).",
+   "t": "Добавлять соду слишком рано: лучше всего она действует в последнюю минуту (Alphafoodie)."
+  },
+  "mistakes.4": {
+   "fr": "Mettre trop de falafels à la fois dans l'huile (Alphafoodie ; Anissa Helou).",
+   "t": "Класть в масло слишком много шариков за раз (Alphafoodie; Anissa Helou)."
+  },
+  "mistakes.5": {
+   "fr": "Faire chauffer l'huile trop fort : les falafels brûlent (Alphafoodie). Si l'huile fume, coupe le feu (London Fire Brigade ; gouvernement du Québec).",
+   "t": "Слишком сильно нагревать масло: фалафель подгорает (Alphafoodie). Если масло дымит, выключите огонь (London Fire Brigade; gouvernement du Québec)."
+  },
+  "mistakes.6": {
+   "fr": "Sortir les falafels avant qu'ils soient bien dorés : la pâte est faite de pois chiches crus, seulement trempés (Wikipédia en anglais). La FSA britannique rappelle que les haricots crus ou pas assez cuits peuvent être à risque, surtout les haricots rouges.",
+   "t": "Вынимать фалафель, пока он не подрумянился как следует: масса сделана из сырого, только замоченного нута (Wikipédia на английском). Британское агентство FSA напоминает, что сырая или недоваренная фасоль может быть опасна, особенно красная фасоль."
+  },
+  "mistakes.7": {
+   "fr": "Remplir une casserole d'huile à plus d'un tiers (London Fire Brigade).",
+   "t": "Наливать масло в кастрюлю больше чем на треть (London Fire Brigade)."
+  },
+  "mistakes.8": {
+   "fr": "Laisser l'huile chaude sans surveillance (gouvernement du Québec).",
+   "t": "Оставлять горячее масло без присмотра (gouvernement du Québec)."
+  },
+  "mistakes.9": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer le récipient en flammes (gouvernement du Québec ; London Fire Brigade).",
+   "t": "Лить воду на горящее масло или передвигать горящую посуду (gouvernement du Québec; London Fire Brigade)."
+  },
+  "variants.0": {
+   "fr": "Façon libanaise, avec un mélange de pois chiches et de fèves sèches décortiquées (Wikipédia en arabe) : moitié-moitié chez recettelibanaise.com et The Matbakh ; plus de fèves que de pois chiches chez Mama's Lebanese Kitchen (qui les fait tremper séparément), Anissa Helou et Taste of Beirut (d'après May Bsisu).",
+   "t": "По-ливански, из смеси нута и очищенных сушёных бобов фава (Wikipédia на арабском): поровну у recettelibanaise.com и The Matbakh; бобов больше, чем нута, у Mama's Lebanese Kitchen (замачивает их отдельно), Anissa Helou и Taste of Beirut (со ссылкой на May Bsisu)."
+  },
+  "variants.1": {
+   "fr": "Ta'ameya égyptienne : seulement des fèves sèches décortiquées et concassées, trempées une journée entière, mixées avec beaucoup de verdure (poireau, persil, coriandre), de l'oignon, de l'ail, du piment, du cumin et de la coriandre en poudre (Sada El Balad, recette du chef Nehad El Gendy ; Wikipédia en anglais ; Mama's Lebanese Kitchen). En Égypte, on la mange au petit déjeuner, avec le foul (Wikipédia en arabe). Attention : les personnes qui ont un déficit en G6PD (favisme) doivent éviter les fèves, même cuites (Singapore Food Agency).",
+   "t": "Египетская таамия: только очищенные дроблёные сушёные бобы фава, замоченные на целые сутки и измельчённые с большим количеством зелени (лук-порей, петрушка, кинза), луком, чесноком, острым перцем, кумином и молотым кориандром (Sada El Balad, рецепт шефа Nehad El Gendy; Wikipédia на английском; Mama's Lebanese Kitchen). В Египте её едят на завтрак вместе с фулем (Wikipédia на арабском). Внимание: людям с дефицитом G6PD (фавизмом) нужно избегать бобов фава, даже приготовленных (Singapore Food Agency)."
+  },
+  "variants.2": {
+   "fr": "Façon syrienne : aux pois chiches seuls, avec un peu de sumac et de sésame sur les falafels après la friture (Wikipédia en arabe).",
+   "t": "По-сирийски: только из нута, с небольшим количеством сумаха и кунжута на шариках после жарки (Wikipédia на арабском)."
+  },
+  "variants.3": {
+   "fr": "Avec de la menthe fraîche (recettelibanaise.com ; Dima Al Sharif), ou avec du poivron vert et un piment vert (Dima Al Sharif, cuisine palestinienne).",
+   "t": "Со свежей мятой (recettelibanaise.com; Dima Al Sharif) или с зелёным сладким перцем и зелёным острым перцем (Dima Al Sharif, палестинская кухня)."
+  },
+  "variants.4": {
+   "fr": "Avec un peu de levure chimique en plus du bicarbonate (Taste of Beirut ; recettelibanaise.com ; Dima Al Sharif).",
+   "t": "С небольшим количеством разрыхлителя в дополнение к соде (Taste of Beirut; recettelibanaise.com; Dima Al Sharif)."
+  },
+  "variants.5": {
+   "fr": "Avec du piment de la Jamaïque (Anissa Helou ; Taste of Beirut ; The Matbakh).",
+   "t": "С душистым перцем (Anissa Helou; Taste of Beirut; The Matbakh)."
+  },
+  "variants.6": {
+   "fr": "Avec un peu de bicarbonate dans l'eau de trempage (Anissa Helou ; Wikipédia en anglais).",
+   "t": "С небольшим количеством соды в воде для замачивания (Anissa Helou; Wikipédia на английском)."
+  },
+  "variants.7": {
+   "fr": "Falafels farcis d'oignon et de sumac, une façon palestinienne (Wikipédia en anglais).",
+   "t": "Фалафель с начинкой из лука и сумаха — палестинский вариант (Wikipédia на английском)."
+  },
+  "variants.8": {
+   "fr": "Au four : plus légers, mais moins croustillants (recettelibanaise.com). Mama's Lebanese Kitchen les cuit sur une plaque légèrement huilée, 7 à 10 minutes à 204 °C (400 °F). The Matbakh les arrose d'un filet d'huile et les cuit 4 à 5 minutes à 232 °C (450 °F), en bas du four.",
+   "t": "В духовке: легче, но менее хрустящий (recettelibanaise.com). Mama's Lebanese Kitchen запекает шарики на слегка смазанном маслом противне 7–10 минут при 204 °C (400 °F). The Matbakh сбрызгивает их маслом и запекает 4–5 минут при 232 °C (450 °F) в нижней части духовки."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail-sauce.pl5": {
+   "fr": "petite gousse d'ail / petites gousses d'ail",
+   "t": "зубчиков чеснока небольшого размера"
+  },
+  "ing.pain.pl5": {
+   "fr": "pain pita (pain libanais) / pains pita (pains libanais)",
+   "t": "лепёшек пита (ливанский хлеб)"
+  }
+ }
+}

@@ -42,10 +42,6 @@
    "fr": "tomates moyennes",
    "t": "помидора среднего размера"
   },
-  "ing.tomates.pl5": {
-   "fr": "tomate moyenne / tomates moyennes",
-   "t": "помидоров среднего размера"
-  },
   "ing.concombre.name": {
    "fr": "concombre",
    "t": "огурец"
@@ -54,10 +50,6 @@
    "fr": "concombres",
    "t": "огурца"
   },
-  "ing.concombre.pl5": {
-   "fr": "concombre / concombres",
-   "t": "огурцов"
-  },
   "ing.oignon.name": {
    "fr": "petit oignon",
    "t": "луковица небольшого размера"
@@ -65,10 +57,6 @@
   "ing.oignon.pl": {
    "fr": "petits oignons",
    "t": "луковицы небольшого размера"
-  },
-  "ing.oignon.pl5": {
-   "fr": "petit oignon / petits oignons",
-   "t": "луковиц небольшого размера"
   },
   "ing.persil.name": {
    "fr": "de persil plat haché",
@@ -300,7 +288,7 @@
   },
   "secrets.5.text": {
    "fr": "Le jus de citron plutôt que le vinaigre, si tu en as.",
-   "t": "Лучше лимонный сок, чем уксус, если он у вас есть."
+   "t": "Если есть лимон, берите лимонный сок, а не уксус."
   },
   "secrets.5.source": {
    "fr": "Lalla Moulati (2019) ; citron chez My Moroccan Food et Cooking With Alia",
@@ -393,6 +381,18 @@
   "variants.4": {
    "fr": "Coriandre à la place du persil, et un peu d'écorce de citron confit (Cooking With Alia, recette 208).",
    "t": "Кинза вместо петрушки и немного корки солёного лимона (Cooking With Alia, рецепт 208)."
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne / tomates moyennes",
+   "t": "помидоров среднего размера"
+  },
+  "ing.concombre.pl5": {
+   "fr": "concombre / concombres",
+   "t": "огурцов"
+  },
+  "ing.oignon.pl5": {
+   "fr": "petit oignon / petits oignons",
+   "t": "луковиц небольшого размера"
   }
  }
 }

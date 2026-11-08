@@ -42,10 +42,6 @@
    "fr": "poivrons verts",
    "t": "зелёных сладких перца"
   },
-  "ing.poivrons.pl5": {
-   "fr": "poivron vert / poivrons verts",
-   "t": "зелёных сладких перцев"
-  },
   "ing.poivrons.note": {
    "fr": "à griller sans les couper",
    "t": "запечь целиком, не разрезая"
@@ -66,10 +62,6 @@
    "fr": "oignons",
    "t": "луковицы"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon / oignons",
-   "t": "луковиц"
-  },
   "ing.oignon.note": {
    "fr": "à hacher",
    "t": "мелко нарезать"
@@ -81,10 +73,6 @@
   "ing.ail.pl": {
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
-  },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
   },
   "ing.ail.note": {
    "fr": "à hacher",
@@ -129,10 +117,6 @@
   "ing.oeufs.pl": {
    "fr": "œufs",
    "t": "яйца"
-  },
-  "ing.oeufs.pl5": {
-   "fr": "œuf / œufs",
-   "t": "яиц"
   },
   "ing.oeufs.note": {
    "fr": "un par personne",
@@ -399,8 +383,8 @@
    "t": "У повседневного марокканского блюда из яиц и помидоров другое название: «бид у матиша» (яйца и помидоры)."
   },
   "secrets.10.source": {
-   "fr": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)",
-   "t": "Wikipedia EN (Shakshouka); Lalla Moulati (2018: «البيض ومطيشة», которое «умеет готовить каждый»); Hespress (2012: многие марокканки выбирают его на ужин); Al-Quds al-Arabi (2023: для марокканцев это самая простая, самая известная и самая дешёвая еда)"
+   "fr": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner)",
+   "t": "Wikipedia EN (Shakshouka); Lalla Moulati (2018: «البيض ومطيشة», которое «умеет готовить каждый»); Hespress (2012: многие марокканки выбирают его на ужин)"
   },
   "secrets.11.text": {
    "fr": "Tomates pas assez douces ? My Moroccan Food ajoute une demi-cuillère à café de sucre à sa taktouka, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
@@ -465,6 +449,22 @@
   "variants.6": {
    "fr": "Sans oignon : seulement poivrons, tomates, ail et épices, comme chez plusieurs internautes de Yabiladi (2006 ; d'autres y mettent de l'oignon) et le chef Brahim Sakroune (2023) ; Rachida propose aussi de l'essayer sans oignon.",
    "t": "Без лука: только перцы, помидоры, чеснок и специи, как у нескольких пользователей Yabiladi (2006; другие кладут лук) и у шефа Brahim Sakroune (2023); Rachida тоже предлагает попробовать без лука."
+  },
+  "ing.poivrons.pl5": {
+   "fr": "poivron vert / poivrons verts",
+   "t": "зелёных сладких перцев"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon / oignons",
+   "t": "луковиц"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
   }
  }
 }

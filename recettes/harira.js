@@ -67,7 +67,7 @@ window.RECETTES.push({
      "q": 1,
      "u": "",
      "name": "branche de céleri avec ses feuilles",
-     "note": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
+     "note": "ou, à la place de chaque branche, une petite botte de céleri chinois (à feuilles fines, il ressemble à une botte de persil) : c'est celui qu'on utilise au Maroc",
      "pl": "branches de céleri avec leurs feuilles",
      "canon": "celeri"
     },
@@ -528,7 +528,8 @@ window.RECETTES.push({
   "Trempage : « la veille » ou « une nuit » (Taste of Maroc, Rachida, Morocco World News 2020) ou 24 h, lentilles comprises (Royal Mansour). time.rest = 720 min par convention (une nuit d'environ 12 h).",
   "Préparation : 10 min (Choumicha, Gulf News), 30 min (Fatéma Hal ; Le Courrier de l'Atlas), 45 min (Taste of Maroc). Retenu 45 min, qui comprend l'épluchage des pois chiches et des tomates.",
   "Étymologie : « soie » selon Taste of Maroc ; Wikipédia (fr) traduit harir par « velouté » ; selon La Libre (Abdelhaï Diouri), le mot désignait peut-être à l'origine le roux qui lie la soupe.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Conseils de Fatéma Hal dans son entretien à TelQuel (2021) : carvi ajouté dans les 5 dernières minutes, levain, préférence pour la harira d'Oujda. Vus seulement dans un résumé de moteur de recherche ; la page refuse l'accès (erreur 403). Non utilisés.",

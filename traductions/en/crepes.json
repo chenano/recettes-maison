@@ -1,0 +1,546 @@
+{
+ "_slug": "crepes",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Crêpes de froment sucrées",
+   "t": "Sweet wheat crêpes"
+  },
+  "tagline": {
+   "fr": "Fines, dorées et souples : les crêpes de froment de Bretagne, à manger chaudes avec du beurre et du sucre, de la confiture ou du miel.",
+   "t": "Thin, golden and supple: wheat crêpes from Brittany, to eat hot with butter and sugar, jam or honey."
+  },
+  "region": {
+   "fr": "France, Bretagne : les crêpes se disent krampouezh en breton ; celle de froment est la version sucrée, et sa cousine au blé noir (sarrasin) est salée et s'appelle galette dans l'est de la région (Wikipédia, Tourisme Bretagne).",
+   "t": "France, Brittany: crêpes are called krampouezh in Breton; the wheat crêpe is the sweet version, and its buckwheat cousin is savoury and is called a galette in the east of the region (Wikipedia, Tourisme Bretagne)."
+  },
+  "occasion": {
+   "fr": "Goûter, dessert ou en-cas (Wikipédia, Meilleur du Chef, 750g) ; en France, surtout à la Chandeleur (2 février) et à Mardi gras (Wikipédia, Meilleur du Chef). En Bretagne, on n'attend pas la Chandeleur pour en manger (Tourisme Bretagne).",
+   "t": "Afternoon snack, dessert or a quick bite (Wikipedia, Meilleur du Chef, 750g); in France, especially at Candlemas (2 February) and on Shrove Tuesday (Wikipedia, Meilleur du Chef). In Brittany, people don't wait for Candlemas to eat them (Tourisme Bretagne)."
+  },
+  "img_alt": {
+   "fr": "Crêpe bretonne pliée, nappée de caramel au beurre salé et de sucre glace (une des garnitures possibles)",
+   "t": "A folded Breton crêpe, topped with salted butter caramel and icing sugar (one of the possible toppings)"
+  },
+  "serving": {
+   "fr": "Chaudes, nature ou garnies : le beurre-sucre, la garniture emblématique (Tourisme Bretagne), confiture, miel, chocolat, caramel au beurre salé ou pommes poêlées (Morbihan Tourisme, Tourisme Bretagne, Wikipédia). Plie-les en deux puis en quatre, roule-les ou ferme-les en petit paquet (Wikipédia, Chef Simon). En Bretagne, on boit avec les crêpes de l'eau ou du lait ribot, un lait aigre (Wikipédia) ; le cidre, boisson alcoolisée, n'est pas halal. Restes : empilées sur une assiette et bien filmées, les crêpes se gardent 3 jours au réfrigérateur (Chef Simon ; 750g, d'après une virologiste ; la FDA dit 3 à 4 jours pour les plats aux œufs), à condition de les y mettre dans les 2 heures (Anses) ; réchauffe-les à la poêle à feu moyen ou au micro-ondes (750g). 750g indique aussi qu'elles se congèlent environ 3 mois, emballées dans du papier d'aluminium puis dans un sac de congélation, et qu'on les décongèle au réfrigérateur.",
+   "t": "Hot, plain or with a topping: butter and sugar, the signature topping (Tourisme Bretagne), jam, honey, chocolate, salted butter caramel or pan-fried apples (Morbihan Tourisme, Tourisme Bretagne, Wikipedia). Fold them in half then in quarters, roll them up or fold them into a little parcel (Wikipedia, Chef Simon). In Brittany, people drink water or lait ribot, a sour milk, with crêpes (Wikipedia); cider, an alcoholic drink, is not halal. Leftovers: stacked on a plate and well wrapped in cling film, crêpes keep for 3 days in the fridge (Chef Simon; 750g, citing a virologist; the FDA says 3 to 4 days for egg dishes), provided they go in within 2 hours (Anses); reheat them in a frying pan over medium heat or in the microwave (750g). 750g also says they can be frozen for about 3 months, wrapped in foil and then in a freezer bag, and thawed in the fridge."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Batter"
+  },
+  "ing.farine.name": {
+   "fr": "de farine de blé (froment)",
+   "t": "wheat flour"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche type 45, 55 ou 65 ; tamisée si possible",
+   "t": "white flour, type 45, 55 or 65; sifted if possible"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "caster sugar"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.oeufs.note": {
+   "fr": "moyens à gros",
+   "t": "medium to large"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "milk"
+  },
+  "ing.lait.note": {
+   "fr": "entier ou demi-écrémé",
+   "t": "whole or semi-skimmed"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.beurre.note": {
+   "fr": "à faire fondre, puis à laisser tiédir",
+   "t": "melt it, then let it cool until lukewarm"
+  },
+  "ing.1.group": {
+   "fr": "Parfum, au choix (facultatif)",
+   "t": "Flavouring, as you prefer (optional)"
+  },
+  "ing.sucre-vanille.name": {
+   "fr": "sachet de sucre vanillé",
+   "t": "sachet of vanilla sugar"
+  },
+  "ing.sucre-vanille.pl": {
+   "fr": "sachets de sucre vanillé",
+   "t": "sachets of vanilla sugar"
+  },
+  "ing.sucre-vanille.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "eau de fleur d'oranger",
+   "t": "orange blossom water"
+  },
+  "ing.fleur-oranger.note": {
+   "fr": "facultatif : quelques gouttes, selon le goût ; elle remplace le rhum de certaines recettes",
+   "t": "optional: a few drops, to taste; it replaces the rum used in some recipes"
+  },
+  "ing.2.group": {
+   "fr": "Pour la cuisson",
+   "t": "For cooking"
+  },
+  "ing.huile.name": {
+   "fr": "huile de tournesol",
+   "t": "sunflower oil"
+  },
+  "ing.huile.note": {
+   "fr": "ou un peu de beurre, pour graisser la poêle ; jamais de saindoux (graisse de porc) ni de lardiguel (saindoux et jaune d'œuf)",
+   "t": "or a little butter, to grease the frying pan; never lard (pork fat) or lardiguel (lard and egg yolk)"
+  },
+  "ing.3.group": {
+   "fr": "Pour garnir (au choix)",
+   "t": "For topping (as you prefer)"
+  },
+  "ing.beurre-garniture.name": {
+   "fr": "beurre",
+   "t": "butter"
+  },
+  "ing.sucre-garniture.name": {
+   "fr": "sucre en poudre",
+   "t": "caster sugar"
+  },
+  "ing.confiture.name": {
+   "fr": "confiture",
+   "t": "jam"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "honey"
+  },
+  "equipment.0": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Kitchen scales and a measuring jug"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier et un fouet",
+   "t": "A large mixing bowl and a whisk"
+  },
+  "equipment.2": {
+   "fr": "Un tamis, si tu en as un (facultatif)",
+   "t": "A sieve, if you have one (optional)"
+  },
+  "equipment.3": {
+   "fr": "Une petite casserole, pour faire fondre le beurre",
+   "t": "A small saucepan, for melting the butter"
+  },
+  "equipment.4": {
+   "fr": "Du film alimentaire ou une assiette, pour couvrir la pâte au réfrigérateur",
+   "t": "Cling film or a plate, to cover the batter in the fridge"
+  },
+  "equipment.5": {
+   "fr": "Une poêle à crêpes antiadhésive (ou une crêpière, ou un billig)",
+   "t": "A non-stick crêpe pan (or a crêpe griddle, or a billig)"
+  },
+  "equipment.6": {
+   "fr": "Une louche",
+   "t": "A ladle"
+  },
+  "equipment.7": {
+   "fr": "Une large spatule plate, pour retourner les crêpes",
+   "t": "A wide, flat spatula, for turning the crêpes"
+  },
+  "equipment.8": {
+   "fr": "Du papier absorbant, pour graisser la poêle",
+   "t": "Kitchen paper, for greasing the frying pan"
+  },
+  "equipment.9": {
+   "fr": "Deux grandes assiettes, ou une assiette et un torchon propre ou du papier d'aluminium, pour garder les crêpes au chaud",
+   "t": "Two large plates, or a plate and a clean tea towel or foil, to keep the crêpes warm"
+  },
+  "equipment.10": {
+   "fr": "Un chinois ou un mixeur plongeant, seulement s'il reste des grumeaux (facultatif)",
+   "t": "A fine conical strainer or a stick blender, only if there are lumps left (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Fais fondre le beurre",
+   "t": "Melt the butter"
+  },
+  "steps.0.text": {
+   "fr": "Fais fondre {{beurre}} de beurre dans une petite casserole, à feu doux. Retire du feu et laisse tiédir.",
+   "t": "Melt {{beurre}} butter in a small saucepan over low heat. Take off the heat and leave to cool until lukewarm."
+  },
+  "steps.0.tip": {
+   "fr": "Chef Simon utilise un beurre noisette, chauffé jusqu'à prendre une couleur dorée et un goût de noisette (définition de 750g), ou de l'huile.",
+   "t": "Chef Simon uses brown butter, heated until it turns golden and takes on a hazelnut flavour (750g's definition), or oil."
+  },
+  "steps.1.title": {
+   "fr": "Mélange les ingrédients secs",
+   "t": "Mix the dry ingredients"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{sucre}} de sucre et {{sel}} de sel. Creuse un puits au centre.",
+   "t": "In a large mixing bowl, mix {{farine}} flour, {{sucre}} sugar and {{sel}} of salt. Make a well in the centre."
+  },
+  "steps.1.tip": {
+   "fr": "Tamise la farine si tu peux : cela aide à éviter les grumeaux (Meilleur du Chef, 750g).",
+   "t": "Sift the flour if you can: it helps prevent lumps (Meilleur du Chef, 750g)."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute les œufs et un peu de lait",
+   "t": "Add the eggs and a little milk"
+  },
+  "steps.2.text": {
+   "fr": "Casse {{oeufs:full}} dans le puits et ajoute un peu de lait. Fouette au centre, en ramenant petit à petit la farine des bords.",
+   "t": "Break {{oeufs:full}} into the well and add a little milk. Whisk in the centre, gradually drawing in the flour from the sides."
+  },
+  "steps.2.tip": {
+   "fr": "Incorpore la farine petit à petit et verse le lait en plusieurs fois : c'est ce qui évite les grumeaux (Chef Simon, Meilleur du Chef, 750g).",
+   "t": "Work the flour in gradually and pour in the milk in several additions: this is what prevents lumps (Chef Simon, Meilleur du Chef, 750g)."
+  },
+  "steps.3.title": {
+   "fr": "Verse le reste du lait",
+   "t": "Pour in the rest of the milk"
+  },
+  "steps.3.text": {
+   "fr": "Verse le reste du lait petit à petit ({{lait}} de lait en tout), sans cesser de fouetter, jusqu'à obtenir une pâte lisse et fluide.",
+   "t": "Pour in the rest of the milk gradually ({{lait}} of milk in all), whisking constantly, until you have a smooth, runny batter."
+  },
+  "steps.3.tip": {
+   "fr": "S'il reste des grumeaux, passe la pâte au chinois ou donne un petit coup de mixeur plongeant (Meilleur du Chef).",
+   "t": "If there are still lumps, pass the batter through a fine conical strainer or give it a quick blitz with a stick blender (Meilleur du Chef)."
+  },
+  "steps.4.title": {
+   "fr": "Incorpore le beurre fondu",
+   "t": "Whisk in the melted butter"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute le beurre fondu tiède et fouette jusqu'à ce qu'il soit bien mélangé. Si tu veux parfumer la pâte, ajoute maintenant {{sucre-vanille:full}}, ou quelques gouttes d'{{fleur-oranger}}.",
+   "t": "Add the lukewarm melted butter and whisk until well combined. If you want to flavour the batter, add {{sucre-vanille:full}} now, or a few drops of {{fleur-oranger}}."
+  },
+  "steps.4.tip": {
+   "fr": "Le parfum est facultatif. Morbihan Tourisme cite la vanille, la cannelle et la fleur d'oranger, et ajoute : « rien ne vaut le naturel ».",
+   "t": "The flavouring is optional. Morbihan Tourisme mentions vanilla, cinnamon and orange blossom, and adds: “nothing beats natural”."
+  },
+  "steps.5.title": {
+   "fr": "Laisse reposer 1 heure au frais",
+   "t": "Leave to rest in the fridge for 1 hour"
+  },
+  "steps.5.text": {
+   "fr": "Couvre le saladier avec du film alimentaire ou une assiette. Laisse reposer la pâte 1 heure (60 minutes) au réfrigérateur.",
+   "t": "Cover the bowl with cling film or a plate. Leave the batter to rest for 1 hour (60 minutes) in the fridge."
+  },
+  "steps.5.tip": {
+   "fr": "Pendant le repos, l'amidon de la farine gonfle et les bulles d'air s'échappent : les crêpes seront plus moelleuses (Meilleur du Chef, 750g). Tu peux préparer la pâte la veille (Chef Simon), mais garde-la couverte au réfrigérateur et cuis-la le lendemain au plus tard : elle contient des œufs crus et du lait (750g conseille 6 à 8 heures, voire une nuit).",
+   "t": "While it rests, the starch in the flour swells and the air bubbles escape: the crêpes will be softer (Meilleur du Chef, 750g). You can make the batter the day before (Chef Simon), but keep it covered in the fridge and cook it the next day at the latest: it contains raw eggs and milk (750g recommends 6 to 8 hours, or even overnight)."
+  },
+  "steps.5.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Batter resting"
+  },
+  "steps.5.timer.done": {
+   "fr": "La pâte a reposé : remue-la et chauffe la poêle.",
+   "t": "The batter has rested: stir it and heat the pan."
+  },
+  "steps.6.title": {
+   "fr": "Remue la pâte",
+   "t": "Stir the batter"
+  },
+  "steps.6.text": {
+   "fr": "Sors la pâte et remue-la bien. Elle a un peu épaissi : si elle ne coule plus facilement, ajoute un peu de lait et mélange.",
+   "t": "Take the batter out and stir it well. It will have thickened slightly: if it no longer pours easily, add a little milk and mix."
+  },
+  "steps.6.tip": {
+   "fr": "Morbihan Tourisme ajoute encore un peu de lait après le repos ; Meilleur du Chef explique que le repos épaissit la pâte.",
+   "t": "Morbihan Tourisme adds a little more milk after resting; Meilleur du Chef explains that resting thickens the batter."
+  },
+  "steps.7.title": {
+   "fr": "Chauffe et graisse la poêle",
+   "t": "Heat and grease the pan"
+  },
+  "steps.7.text": {
+   "fr": "Chauffe la poêle à crêpes sur feu moyen, jusqu'à ce qu'elle soit bien chaude. Graisse-la légèrement avec un papier absorbant imbibé d'un peu d'{{huile}} ou de beurre.",
+   "t": "Heat the crêpe pan over medium heat until it is very hot. Grease it lightly with kitchen paper dipped in a little {{huile}} or butter."
+  },
+  "steps.7.tip": {
+   "fr": "Si la poêle n'est pas assez chaude, la pâte attache ; si elle est trop chaude, la pâte prend tout de suite et la crêpe est irrégulière (Chef Simon).",
+   "t": "If the pan isn't hot enough, the batter sticks; if it is too hot, the batter sets immediately and the crêpe is uneven (Chef Simon)."
+  },
+  "steps.8.title": {
+   "fr": "Verse une louche de pâte",
+   "t": "Pour in a ladle of batter"
+  },
+  "steps.8.text": {
+   "fr": "Verse une petite louche de pâte au centre de la poêle. Tourne aussitôt la poêle dans tous les sens pour couvrir tout le fond d'une couche fine.",
+   "t": "Pour a small ladle of batter into the centre of the pan. Immediately tilt the pan in all directions to coat the whole base with a thin layer."
+  },
+  "steps.9.title": {
+   "fr": "Cuis la première face",
+   "t": "Cook the first side"
+  },
+  "steps.9.text": {
+   "fr": "Laisse cuire 1 à 2 minutes environ, jusqu'à ce que le bord se décolle et que le dessous soit doré.",
+   "t": "Cook for about 1 to 2 minutes, until the edge comes away and the underside is golden."
+  },
+  "steps.9.tip": {
+   "fr": "Plus la crêpe cuit, plus elle devient croustillante (Chef Simon). En Bretagne, on dit « kraz » pour une crêpe croustillante et « soupic » pour une crêpe souple (Krampouz).",
+   "t": "The longer the crêpe cooks, the crisper it becomes (Chef Simon). In Brittany, a crisp crêpe is called “kraz” and a soft one “soupic” (Krampouz)."
+  },
+  "steps.9.img.alt": {
+   "fr": "Crêpe qui cuit sur une crêpière électrique",
+   "t": "A crêpe cooking on an electric crêpe griddle"
+  },
+  "steps.9.img.caption": {
+   "fr": "La crêpe cuit en couche fine",
+   "t": "The crêpe cooks in a thin layer"
+  },
+  "steps.10.title": {
+   "fr": "Retourne la crêpe",
+   "t": "Turn the crêpe"
+  },
+  "steps.10.text": {
+   "fr": "Glisse la spatule sous la crêpe et retourne-la (ou fais-la sauter). Laisse dorer l'autre face quelques instants seulement.",
+   "t": "Slide the spatula under the crêpe and turn it over (or toss it). Let the other side brown for just a few moments."
+  },
+  "steps.10.tip": {
+   "fr": "La crêpe de froment cuit vite : la seconde face ne demande que quelques secondes (Krampouz).",
+   "t": "A wheat crêpe cooks quickly: the second side needs only a few seconds (Krampouz)."
+  },
+  "steps.11.title": {
+   "fr": "Empile et garde au chaud",
+   "t": "Stack and keep warm"
+  },
+  "steps.11.text": {
+   "fr": "Fais glisser la crêpe sur une assiette. Empile les suivantes au fur et à mesure, et couvre la pile avec une autre assiette, du papier d'aluminium ou un torchon propre.",
+   "t": "Slide the crêpe onto a plate. Stack the next ones as you go, and cover the pile with another plate, foil or a clean tea towel."
+  },
+  "steps.11.tip": {
+   "fr": "Couvertes, les crêpes restent chaudes et ne sèchent pas (Chef Simon, 750g). Chef Simon pose même l'assiette sur une casserole d'eau frémissante.",
+   "t": "Covered, the crêpes stay warm and don't dry out (Chef Simon, 750g). Chef Simon even sets the plate over a pan of simmering water."
+  },
+  "steps.12.title": {
+   "fr": "Continue jusqu'à la fin de la pâte",
+   "t": "Carry on until the batter is used up"
+  },
+  "steps.12.text": {
+   "fr": "Regraisse légèrement la poêle quand la crêpe accroche, puis recommence jusqu'à la fin de la pâte. Si les crêpes brunissent trop vite, baisse un peu le feu.",
+   "t": "Lightly regrease the pan whenever the crêpe sticks, then repeat until the batter is used up. If the crêpes brown too quickly, turn the heat down a little."
+  },
+  "steps.12.tip": {
+   "fr": "La première crêpe est souvent ratée, le temps que la poêle trouve la bonne chaleur (Chef Simon). Un dicton breton la donne au chat ou au chien (Wikipédia).",
+   "t": "The first crêpe often goes wrong, until the pan reaches the right heat (Chef Simon). A Breton saying gives it to the cat or the dog (Wikipedia)."
+  },
+  "steps.13.title": {
+   "fr": "Garnis et sers",
+   "t": "Top and serve"
+  },
+  "steps.13.text": {
+   "fr": "Sers les crêpes chaudes avec un peu de {{beurre-garniture}} et de {{sucre-garniture}}, de la {{confiture}} ou du {{miel}}. Plie-les en deux puis en quatre, ou roule-les.",
+   "t": "Serve the crêpes hot with a little {{beurre-garniture}} and {{sucre-garniture}}, {{confiture}} or {{miel}}. Fold them in half then in quarters, or roll them up."
+  },
+  "steps.13.tip": {
+   "fr": "Pour juger une pâte, rien ne vaut la crêpe beurre-sucre (Tourisme Bretagne).",
+   "t": "To judge a batter, nothing beats a butter-and-sugar crêpe (Tourisme Bretagne)."
+  },
+  "secrets.0.text": {
+   "fr": "En Bretagne, la crêpe de froment (farine de blé) est sucrée. Celle de blé noir (sarrasin) est salée ; dans l'est de la région, on l'appelle galette.",
+   "t": "In Brittany, the wheat crêpe (made with wheat flour) is sweet. The buckwheat one is savoury; in the east of the region, it is called a galette."
+  },
+  "secrets.0.source": {
+   "fr": "Tourisme Bretagne ; Wikipédia ; 750g",
+   "t": "Tourisme Bretagne; Wikipedia; 750g"
+  },
+  "secrets.1.text": {
+   "fr": "Le repos d'une heure au frais laisse gonfler l'amidon, détend le gluten et chasse les bulles d'air : les crêpes sont plus moelleuses et moins élastiques.",
+   "t": "The one-hour rest in the fridge lets the starch swell, relaxes the gluten and drives out the air bubbles: the crêpes are softer and less elastic."
+  },
+  "secrets.1.source": {
+   "fr": "Meilleur du Chef (Chef Philippe) ; 750g ; Chef Simon (« laisser gonfler les amidons ») ; Morbihan Tourisme et Krampouz (1 heure)",
+   "t": "Meilleur du Chef (Chef Philippe); 750g; Chef Simon (“let the starches swell”); Morbihan Tourisme and Krampouz (1 hour)"
+  },
+  "secrets.2.text": {
+   "fr": "Contre les grumeaux : verse le lait petit à petit en fouettant au centre, jamais la farine d'un coup dans le liquide.",
+   "t": "To avoid lumps: pour the milk in gradually while whisking in the centre, and never tip the flour into the liquid all at once."
+  },
+  "secrets.2.source": {
+   "fr": "Chef Simon ; Meilleur du Chef ; Morbihan Tourisme ; 750g",
+   "t": "Chef Simon; Meilleur du Chef; Morbihan Tourisme; 750g"
+  },
+  "secrets.3.text": {
+   "fr": "Tout est une question de chaleur : poêle trop froide, la pâte attache ; trop chaude, la crêpe devient irrégulière. Une cuisson trop lente la dessèche et la rend cartonneuse.",
+   "t": "It's all about heat: if the pan is too cold, the batter sticks; too hot, and the crêpe turns out uneven. Cooking too slowly dries it out and makes it leathery."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon ; Krampouz",
+   "t": "Chef Simon; Krampouz"
+  },
+  "secrets.4.text": {
+   "fr": "Sur une crêpière bretonne (billig), Krampouz conseille de régler la plaque entre 200 et 220 °C pour les crêpes de froment.",
+   "t": "On a Breton crêpe griddle (billig), Krampouz recommends setting the plate to between 200 and 220 °C for wheat crêpes."
+  },
+  "secrets.4.source": {
+   "fr": "Krampouz (conseils de cuisson ; sa recette indique 210 °C)",
+   "t": "Krampouz (cooking advice; its recipe gives 210 °C)"
+  },
+  "secrets.5.text": {
+   "fr": "La crêpe de froment cuit vite : on la retourne quand le bord se décolle, et la seconde face ne demande que quelques secondes.",
+   "t": "A wheat crêpe cooks quickly: you turn it when the edge comes away, and the second side needs only a few seconds."
+  },
+  "secrets.5.source": {
+   "fr": "Krampouz ; Morbihan Tourisme (« quelques instants ») ; Chef Simon (retourner dès coloration)",
+   "t": "Krampouz; Morbihan Tourisme (“a few moments”); Chef Simon (turn as soon as it colours)"
+  },
+  "secrets.6.text": {
+   "fr": "Kraz ou soupic : plus la crêpe cuit, plus elle devient craquante ; cuite plus longtemps et nourrie de beurre, elle est croustillante (kraz), sans beurre elle devient sèche et cassante, tandis que la crêpe soupic reste toute souple. En crêperie, une crêpe combine souvent les deux : bord croustillant, centre souple.",
+   "t": "Kraz or soupic: the longer the crêpe cooks, the crunchier it becomes; cooked longer with plenty of butter, it is crisp (kraz), while without butter it becomes dry and brittle, whereas a soupic crêpe stays completely soft. In a crêperie, a crêpe often combines the two: a crisp edge and a soft centre."
+  },
+  "secrets.6.source": {
+   "fr": "Krampouz ; Chef Simon",
+   "t": "Krampouz; Chef Simon"
+  },
+  "secrets.7.text": {
+   "fr": "Pas trop de sucre dans la pâte : il colore la crêpe et peut noircir avant qu'elle soit cuite. Chef Simon et Chef Philippe préfèrent même sucrer après la cuisson.",
+   "t": "Not too much sugar in the batter: it colours the crêpe and can blacken before it is cooked. Chef Simon and Chef Philippe even prefer to sweeten after cooking."
+  },
+  "secrets.7.source": {
+   "fr": "Wikipédia ; 750g ; Chef Simon ; Meilleur du Chef",
+   "t": "Wikipedia; 750g; Chef Simon; Meilleur du Chef"
+  },
+  "secrets.8.text": {
+   "fr": "Pour juger une pâte, rien ne vaut une crêpe beurre-sucre, toute simple.",
+   "t": "To judge a batter, nothing beats a simple butter-and-sugar crêpe."
+  },
+  "secrets.8.source": {
+   "fr": "Tourisme Bretagne",
+   "t": "Tourisme Bretagne"
+  },
+  "secrets.9.text": {
+   "fr": "Jusque dans les années 1960, le seul accompagnement de la crêpe bretonne était le beurre.",
+   "t": "Until the 1960s, the only accompaniment to the Breton crêpe was butter."
+  },
+  "secrets.9.source": {
+   "fr": "Krampouz",
+   "t": "Krampouz"
+  },
+  "secrets.10.text": {
+   "fr": "Empile les crêpes au fur et à mesure et couvre-les : elles restent chaudes, souples et ne sèchent pas.",
+   "t": "Stack the crêpes as you go and cover them: they stay warm and soft, and don't dry out."
+  },
+  "secrets.10.source": {
+   "fr": "Chef Simon ; 750g",
+   "t": "Chef Simon; 750g"
+  },
+  "secrets.11.text": {
+   "fr": "La première crêpe est souvent ratée, le temps de trouver la bonne chaleur. Un dicton breton la réserve au chat, au chien ou à l'innocent de la maison.",
+   "t": "The first crêpe often goes wrong, while you find the right heat. A Breton saying keeps it for the cat, the dog or the household simpleton."
+  },
+  "secrets.11.source": {
+   "fr": "Chef Simon ; Wikipédia",
+   "t": "Chef Simon; Wikipedia"
+  },
+  "secrets.12.text": {
+   "fr": "Un mot très ancien : le Catholicon, premier dictionnaire breton-latin-français (1499), contient déjà le mot « crampoezenn », traduit par « crêpe ».",
+   "t": "A very old word: the Catholicon, the first Breton-Latin-French dictionary (1499), already contains the word “crampoezenn”, translated as “crêpe”."
+  },
+  "secrets.12.source": {
+   "fr": "Bécédia (Bretagne Culture Diversité) ; Wikipédia (krampouezh en breton moderne)",
+   "t": "Bécédia (Bretagne Culture Diversité); Wikipedia (krampouezh in modern Breton)"
+  },
+  "secrets.13.text": {
+   "fr": "Fin août, à Sainte-Anne-d'Auray, le festival Galettes du Monde célèbre la galette et ses cousines du monde entier, dont le msemen.",
+   "t": "At the end of August, in Sainte-Anne-d'Auray, the Galettes du Monde festival celebrates the galette and its cousins from around the world, including msemen."
+  },
+  "secrets.13.source": {
+   "fr": "Tourisme Bretagne ; Morbihan Tourisme",
+   "t": "Tourisme Bretagne; Morbihan Tourisme"
+  },
+  "mistakes.0": {
+   "fr": "Verser tout le lait d'un coup sur la farine : cela fait des grumeaux (Chef Simon ; Meilleur du Chef ; 750g).",
+   "t": "Pouring all the milk onto the flour at once: it makes lumps (Chef Simon; Meilleur du Chef; 750g)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire sans laisser reposer la pâte : les crêpes sont moins moelleuses (750g ; Meilleur du Chef).",
+   "t": "Cooking without letting the batter rest: the crêpes are less soft (750g; Meilleur du Chef)."
+  },
+  "mistakes.2": {
+   "fr": "Une poêle pas assez chaude : la pâte attache (Chef Simon ; Wikipédia).",
+   "t": "A pan that isn't hot enough: the batter sticks (Chef Simon; Wikipedia)."
+  },
+  "mistakes.3": {
+   "fr": "Un feu trop vif : crêpes cassantes ou irrégulières ; baisse le feu au fil de la cuisson (750g ; Chef Simon).",
+   "t": "Too high a heat: brittle or uneven crêpes; turn the heat down as you go (750g; Chef Simon)."
+  },
+  "mistakes.4": {
+   "fr": "Trop sucrer la pâte : la crêpe colore et noircit trop vite (Wikipédia ; 750g).",
+   "t": "Putting too much sugar in the batter: the crêpe colours and blackens too quickly (Wikipedia; 750g)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la pâte crue hors du réfrigérateur, ou la garder au-delà du lendemain : elle contient des œufs crus et du lait (750g conseille 6 à 8 heures au frais, voire une nuit ; l'Anses déconseille de laisser un aliment plus de 2 heures à température ambiante).",
+   "t": "Leaving the raw batter out of the fridge, or keeping it beyond the next day: it contains raw eggs and milk (750g recommends 6 to 8 hours in the fridge, or even overnight; Anses advises against leaving food at room temperature for more than 2 hours)."
+  },
+  "mistakes.6": {
+   "fr": "Goûter la pâte crue : la farine et les œufs crus peuvent contenir des bactéries (FDA, agence sanitaire américaine ; Santé publique France cite la pâte à crêpe parmi les préparations à base de farine à ne pas manger crues ou peu cuites).",
+   "t": "Tasting the raw batter: raw flour and raw eggs can contain bacteria (FDA, the US health agency; Santé publique France lists crêpe batter among the flour-based preparations not to be eaten raw or undercooked)."
+  },
+  "mistakes.7": {
+   "fr": "Laver les œufs avant de les ranger : cela aide les microbes à entrer dans la coquille (Anses).",
+   "t": "Washing eggs before storing them: it helps germs get into the shell (Anses)."
+  },
+  "mistakes.8": {
+   "fr": "Graisser la poêle au saindoux, graisse de porc, ou au lardiguel, mélange de saindoux et de jaune d'œuf cité par Krampouz pour les billigs : prends de l'huile de tournesol, que Krampouz recommande, ou un peu de beurre (Bretagne Culture Diversité ; Morbihan Tourisme).",
+   "t": "Greasing the pan with lard, a pork fat, or with lardiguel, a mixture of lard and egg yolk mentioned by Krampouz for billigs: use sunflower oil, which Krampouz recommends, or a little butter (Bretagne Culture Diversité; Morbihan Tourisme)."
+  },
+  "variants.0": {
+   "fr": "Bretagne Sud, sans beurre dans la pâte : 1 kg de farine type 65, 250 g de sucre, 7 œufs moyens et 1,5 l de lait entier ; après 1 heure de repos au frais, encore 20 cl de lait. Pour 30 crêpes sur une crêpière beurrée (Morbihan Tourisme).",
+   "t": "South Brittany, with no butter in the batter: 1 kg of type 65 flour, 250 g of sugar, 7 medium eggs and 1.5 l of whole milk; after 1 hour resting in the fridge, another 20 cl of milk. For 30 crêpes on a buttered crêpe griddle (Morbihan Tourisme)."
+  },
+  "variants.1": {
+   "fr": "Façon crêperie, sur billig : 500 g de farine de froment, 120 g de sucre, 3 œufs, 1 pincée de sel, 50 g de beurre fondu et 1 l de lait demi-écrémé, pour environ 15 grandes crêpes ; repos d'au moins 1 heure, plaque à 210 °C (Krampouz).",
+   "t": "Crêperie-style, on a billig: 500 g of wheat flour, 120 g of sugar, 3 eggs, 1 pinch of salt, 50 g of melted butter and 1 l of semi-skimmed milk, for about 15 large crêpes; a rest of at least 1 hour, plate at 210 °C (Krampouz)."
+  },
+  "variants.2": {
+   "fr": "Avec un peu d'eau, plus légère : 250 g de farine, 4 gros œufs, 50 cl de lait, 10 cl d'eau, 50 g de beurre fondu, 2 c. à s. de sucre et 1 pincée de sel, repos de 30 à 45 minutes au frais, pour 12 crêpes cuites environ 2 minutes par face (Bretagne Culture Diversité). 750g conseille aussi de remplacer un tiers du lait par de l'eau.",
+   "t": "With a little water, lighter: 250 g of flour, 4 large eggs, 50 cl of milk, 10 cl of water, 50 g of melted butter, 2 tbsp of sugar and 1 pinch of salt, rested for 30 to 45 minutes in the fridge, for 12 crêpes cooked for about 2 minutes per side (Bretagne Culture Diversité). 750g also suggests replacing a third of the milk with water."
+  },
+  "variants.3": {
+   "fr": "Sans long repos : avec du lait tiède, 10 minutes d'attente suffisent (Chef Damien, 750g : 250 g de farine, 50 g de sucre, 1 pincée de sel, 2 gros œufs et 2 jaunes, 50 cl de lait tiède, 25 g de beurre fondu). Les crêpes sont un peu moins moelleuses qu'après une heure de repos (750g).",
+   "t": "Without a long rest: with lukewarm milk, a 10-minute wait is enough (Chef Damien, 750g: 250 g of flour, 50 g of sugar, 1 pinch of salt, 2 large eggs and 2 yolks, 50 cl of lukewarm milk, 25 g of melted butter). The crêpes are slightly less soft than after an hour's rest (750g)."
+  },
+  "variants.4": {
+   "fr": "À la fleur d'oranger, sans alcool : pour 250 g de farine, 1 c. à s. d'eau de fleur d'oranger et 1 sachet de sucre vanillé (750g, recette d'un membre). Meilleur du Chef propose l'arôme de fleur d'oranger à la place du rhum.",
+   "t": "With orange blossom, alcohol-free: for 250 g of flour, 1 tbsp of orange blossom water and 1 sachet of vanilla sugar (750g, a member's recipe). Meilleur du Chef suggests orange blossom flavouring instead of rum."
+  },
+  "variants.5": {
+   "fr": "À la vanille, sans alcool : Escoffier parfume sa pâte avec une cuillerée de sucre vanillé, ou de sucre d'orange ou de citron, au lieu de la liqueur ; Krampouz ajoute 2 sachets de sucre vanillé pour 500 g de farine.",
+   "t": "With vanilla, alcohol-free: Escoffier flavours his batter with a spoonful of vanilla sugar, or orange or lemon sugar, instead of liqueur; Krampouz adds 2 sachets of vanilla sugar per 500 g of flour."
+  },
+  "variants.6": {
+   "fr": "À la cannelle : Morbihan Tourisme la cite parmi les parfums possibles de la pâte ; dose non donnée.",
+   "t": "With cinnamon: Morbihan Tourisme lists it among the possible flavourings for the batter; no amount given."
+  },
+  "variants.7": {
+   "fr": "La pâte d'Escoffier (1903), très riche en œufs : 500 g de farine, 200 g de sucre, 1 prise de sel, 12 œufs et 1,5 l de lait ajouté petit à petit (composition A du Guide culinaire). Parfume-la au sucre vanillé, pas à la liqueur.",
+   "t": "Escoffier's batter (1903), very rich in eggs: 500 g of flour, 200 g of sugar, 1 pinch of salt, 12 eggs and 1.5 l of milk added gradually (composition A in the Guide culinaire). Flavour it with vanilla sugar, not liqueur."
+  },
+  "variants.8": {
+   "fr": "Sans beurre dans la pâte : Chef Simon met 5 cl d'huile à la place de 50 g de beurre noisette pour 500 g de farine ; 750g dit qu'on peut aussi simplement le retirer.",
+   "t": "Without butter in the batter: Chef Simon uses 5 cl of oil instead of 50 g of brown butter per 500 g of flour; 750g says you can also simply leave it out."
+  },
+  "variants.9": {
+   "fr": "La galette de blé noir, sa cousine salée, est une autre pâte : farine de sarrasin, eau et sel (Wikipédia, Chef Simon).",
+   "t": "The buckwheat galette, its savoury cousin, is a different batter: buckwheat flour, water and salt (Wikipedia, Chef Simon)."
+  }
+ }
+}

@@ -244,7 +244,7 @@ window.RECETTES.push({
   "Hout quari de Marrakech : sardines hachées avec du ras el hanout, du smen et de la coriandre, façonnées en boulettes, grillées ou poêlées, puis servies dans du pain avec une sauce tomate crue, de l'oignon cru, de la harissa et des olives vertes ; le pain est parfois beurré de beurre clarifié et chacun compose son sandwich (MarocMama ; Halal Xplorer). Choumicha fait aussi une kefta de sardines, avec graisse de rognons (halal), oignon, herbes et épices, en brochettes grillées au charbon.",
   "Kefta de sardines en sauce : la kefta de sardine se vend toute prête au marché aux poissons (Taste of Maroc) ; Choumicha la cuit en boulettes avec des olives vertes, et à Marrakech les boulettes de sardines se font en tajine (Le360).",
   "Sardines grillées d'Essaouira : marinées à la chermoula, grillées au feu, servies avec du pain et des olives (Morocco World News Lifestyle, 2024).",
-  "Bocadillo au poisson dans le Nord : avec des sardines ou un autre poisson blanc pêché du jour (Morocco World News, 2021).",
+  "Bocadillo au poisson dans le Nord : avec du poisson pêché du jour, sardines ou poisson blanc (Morocco World News, 2021).",
   "Sans pain : les sardines farcies avec la salade tomate-oignon (Morocco World News, 2021), ou avec des haricots blancs à la tomate et des salades (Taste of Maroc)."
  ],
  "sources": [
@@ -357,7 +357,8 @@ window.RECETTES.push({
   "Morocco World News (2021) parle d'un goût fort d'ail et de gingembre. Le gingembre n'apparaît dans aucune chermoula de sardines frites lue (Choumicha, Bladi, Cooking With Alia), sauf en option (1 c. à c.) dans la recette de chermoula de Taste of Maroc ; on le trouve chez Hassan M'Souli (SBS) et dans la kefta de sardines de Choumicha. Non retenu.",
   "Prix : 10 dirhams en 2013 (Morocco World News, d'après CNN), environ 20 à 25 dirhams pour les sandwichs de rue en 2021 (Morocco World News, pour les bocadillos). Non utilisé dans la recette.",
   "Temps : ceux de la recette du poisson frit de l'application (préparation 25 min, cuisson 20 min, marinade 30 min), car c'est elle qui fait l'essentiel du travail. Le temps d'assemblage n'est chiffré par aucune source.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Nom du sandwich en darija et en arabe : aucune source ne donne de nom pour le sandwich lui-même. « Sardine mzeouej » est le nom des sardines farcies (Taste of Maroc) ; « سندويتش السردين » est une simple description.",

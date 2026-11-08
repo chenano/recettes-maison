@@ -1,0 +1,546 @@
+{
+ "_slug": "crepes",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Crêpes de froment sucrées",
+   "t": "الكريب الحلو بدقيق القمح"
+  },
+  "tagline": {
+   "fr": "Fines, dorées et souples : les crêpes de froment de Bretagne, à manger chaudes avec du beurre et du sucre, de la confiture ou du miel.",
+   "t": "رقيق وذهبي وليّن: كريب القمح من بريتاني، يؤكل ساخنًا بالزبدة والسكر، أو بالمربى، أو بالعسل."
+  },
+  "region": {
+   "fr": "France, Bretagne : les crêpes se disent krampouezh en breton ; celle de froment est la version sucrée, et sa cousine au blé noir (sarrasin) est salée et s'appelle galette dans l'est de la région (Wikipédia, Tourisme Bretagne).",
+   "t": "فرنسا، بريتاني: يُسمّى الكريب krampouezh باللغة البريتونية؛ وكريب القمح هو النسخة الحلوة، أما قريبه المصنوع من القمح الأسود (الحنطة السوداء) فمالح ويُسمّى galette في شرق المنطقة (Wikipédia، Tourisme Bretagne)."
+  },
+  "occasion": {
+   "fr": "Goûter, dessert ou en-cas (Wikipédia, Meilleur du Chef, 750g) ; en France, surtout à la Chandeleur (2 février) et à Mardi gras (Wikipédia, Meilleur du Chef). En Bretagne, on n'attend pas la Chandeleur pour en manger (Tourisme Bretagne).",
+   "t": "اللمجة، أو التحلية، أو وجبة خفيفة (Wikipédia، Meilleur du Chef، 750g)؛ وفي فرنسا، خاصة في عيد الشموع (2 فبراير) وفي ماردي غرا (Wikipédia، Meilleur du Chef). وفي بريتاني، لا ينتظر الناس عيد الشموع ليأكلوه (Tourisme Bretagne)."
+  },
+  "img_alt": {
+   "fr": "Crêpe bretonne pliée, nappée de caramel au beurre salé et de sucre glace (une des garnitures possibles)",
+   "t": "كريب بريتاني مطوي، مغطّى بكراميل الزبدة المملّحة والسكر الناعم (إحدى الإضافات الممكنة)"
+  },
+  "serving": {
+   "fr": "Chaudes, nature ou garnies : le beurre-sucre, la garniture emblématique (Tourisme Bretagne), confiture, miel, chocolat, caramel au beurre salé ou pommes poêlées (Morbihan Tourisme, Tourisme Bretagne, Wikipédia). Plie-les en deux puis en quatre, roule-les ou ferme-les en petit paquet (Wikipédia, Chef Simon). En Bretagne, on boit avec les crêpes de l'eau ou du lait ribot, un lait aigre (Wikipédia) ; le cidre, boisson alcoolisée, n'est pas halal. Restes : empilées sur une assiette et bien filmées, les crêpes se gardent 3 jours au réfrigérateur (Chef Simon ; 750g, d'après une virologiste ; la FDA dit 3 à 4 jours pour les plats aux œufs), à condition de les y mettre dans les 2 heures (Anses) ; réchauffe-les à la poêle à feu moyen ou au micro-ondes (750g). 750g indique aussi qu'elles se congèlent environ 3 mois, emballées dans du papier d'aluminium puis dans un sac de congélation, et qu'on les décongèle au réfrigérateur.",
+   "t": "يُقدَّم ساخنًا، سادةً أو مع إضافات: الزبدة والسكر، وهي الإضافة الأشهر (Tourisme Bretagne)، أو المربى، أو العسل، أو الشوكولاتة، أو كراميل الزبدة المملّحة، أو التفاح المحمّر في المقلاة (Morbihan Tourisme، Tourisme Bretagne، Wikipédia). اطوِه إلى نصفين ثم إلى أرباع، أو لفّه، أو أغلقه على شكل صُرّة صغيرة (Wikipédia، Chef Simon). وفي بريتاني، يُشرب مع الكريب الماء أو lait ribot، وهو حليب حامض (Wikipédia)؛ أما السيدر، وهو مشروب كحولي، فليس حلالًا. البقايا: يُحفظ الكريب 3 أيام في الثلاجة، مكدّسًا في صحن ومغلّفًا جيدًا بالغلاف البلاستيكي (Chef Simon؛ 750g، نقلًا عن عالمة فيروسات؛ وتذكر FDA مدة من 3 إلى 4 أيام للأطباق التي تحتوي على البيض)، بشرط وضعه في الثلاجة خلال ساعتين (Anses)؛ سخّنه في المقلاة على نار متوسطة أو في الميكروويف (750g). ويذكر موقع 750g أيضًا أنه يمكن تجميده نحو 3 أشهر، ملفوفًا في ورق الألمنيوم ثم في كيس تجميد، وأنه يُذوَّب في الثلاجة."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجينة"
+  },
+  "ing.farine.name": {
+   "fr": "de farine de blé (froment)",
+   "t": "دقيق القمح (القمح الطري)"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche type 45, 55 ou 65 ; tamisée si possible",
+   "t": "دقيق أبيض من نوع 45 أو 55 أو 65؛ منخول إن أمكن"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "سكر أبيض"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.oeufs.note": {
+   "fr": "moyens à gros",
+   "t": "متوسطة إلى كبيرة الحجم"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "حليب"
+  },
+  "ing.lait.note": {
+   "fr": "entier ou demi-écrémé",
+   "t": "كامل الدسم أو نصف دسم"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "à faire fondre, puis à laisser tiédir",
+   "t": "تُذاب ثم تُترك حتى تفتر"
+  },
+  "ing.1.group": {
+   "fr": "Parfum, au choix (facultatif)",
+   "t": "للنكهة، حسب الاختيار (اختياري)"
+  },
+  "ing.sucre-vanille.name": {
+   "fr": "sachet de sucre vanillé",
+   "t": "كيس سكر فانيلي"
+  },
+  "ing.sucre-vanille.pl": {
+   "fr": "sachets de sucre vanillé",
+   "t": "أكياس سكر فانيلي"
+  },
+  "ing.sucre-vanille.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "eau de fleur d'oranger",
+   "t": "ماء الزهر"
+  },
+  "ing.fleur-oranger.note": {
+   "fr": "facultatif : quelques gouttes, selon le goût ; elle remplace le rhum de certaines recettes",
+   "t": "اختياري: بضع قطرات، حسب الذوق؛ ويحلّ محلّ الروم الموجود في بعض الوصفات"
+  },
+  "ing.2.group": {
+   "fr": "Pour la cuisson",
+   "t": "للطهي"
+  },
+  "ing.huile.name": {
+   "fr": "huile de tournesol",
+   "t": "زيت دوار الشمس"
+  },
+  "ing.huile.note": {
+   "fr": "ou un peu de beurre, pour graisser la poêle ; jamais de saindoux (graisse de porc) ni de lardiguel (saindoux et jaune d'œuf)",
+   "t": "أو قليل من الزبدة، لدهن المقلاة؛ ولا تستعمل أبدًا شحم الخنزير، ولا lardiguel (خليط شحم الخنزير وصفار البيض)"
+  },
+  "ing.3.group": {
+   "fr": "Pour garnir (au choix)",
+   "t": "الإضافات (حسب الاختيار)"
+  },
+  "ing.beurre-garniture.name": {
+   "fr": "beurre",
+   "t": "زبدة"
+  },
+  "ing.sucre-garniture.name": {
+   "fr": "sucre en poudre",
+   "t": "سكر أبيض"
+  },
+  "ing.confiture.name": {
+   "fr": "confiture",
+   "t": "مربى"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "عسل"
+  },
+  "equipment.0": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "ميزان مطبخ وكوب قياس"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier et un fouet",
+   "t": "وعاء كبير ومخفقة"
+  },
+  "equipment.2": {
+   "fr": "Un tamis, si tu en as un (facultatif)",
+   "t": "غربال، إن كان لديك (اختياري)"
+  },
+  "equipment.3": {
+   "fr": "Une petite casserole, pour faire fondre le beurre",
+   "t": "قدر صغير، لإذابة الزبدة"
+  },
+  "equipment.4": {
+   "fr": "Du film alimentaire ou une assiette, pour couvrir la pâte au réfrigérateur",
+   "t": "غلاف بلاستيكي شفاف أو صحن، لتغطية العجينة في الثلاجة"
+  },
+  "equipment.5": {
+   "fr": "Une poêle à crêpes antiadhésive (ou une crêpière, ou un billig)",
+   "t": "مقلاة كريب غير لاصقة (أو آلة كريب، أو billig)"
+  },
+  "equipment.6": {
+   "fr": "Une louche",
+   "t": "مغرفة"
+  },
+  "equipment.7": {
+   "fr": "Une large spatule plate, pour retourner les crêpes",
+   "t": "ملعقة تقليب عريضة ومسطحة، لقلب الكريب"
+  },
+  "equipment.8": {
+   "fr": "Du papier absorbant, pour graisser la poêle",
+   "t": "ورق ماص، لدهن المقلاة"
+  },
+  "equipment.9": {
+   "fr": "Deux grandes assiettes, ou une assiette et un torchon propre ou du papier d'aluminium, pour garder les crêpes au chaud",
+   "t": "صحنان كبيران، أو صحن ومنشفة نظيفة أو ورق ألمنيوم، لإبقاء الكريب ساخنًا"
+  },
+  "equipment.10": {
+   "fr": "Un chinois ou un mixeur plongeant, seulement s'il reste des grumeaux (facultatif)",
+   "t": "مصفاة مخروطية دقيقة أو خلاط يدوي، فقط إذا بقيت كتل (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Fais fondre le beurre",
+   "t": "أذِب الزبدة"
+  },
+  "steps.0.text": {
+   "fr": "Fais fondre {{beurre}} de beurre dans une petite casserole, à feu doux. Retire du feu et laisse tiédir.",
+   "t": "أذِب {{beurre}} من الزبدة في قدر صغير على نار هادئة. ارفعها عن النار واتركها حتى تفتر."
+  },
+  "steps.0.tip": {
+   "fr": "Chef Simon utilise un beurre noisette, chauffé jusqu'à prendre une couleur dorée et un goût de noisette (définition de 750g), ou de l'huile.",
+   "t": "يستعمل Chef Simon الزبدة المحمّرة (beurre noisette)، وهي زبدة تُسخَّن حتى تصير ذهبية اللون وتأخذ نكهة البندق (حسب تعريف 750g)، أو الزيت."
+  },
+  "steps.1.title": {
+   "fr": "Mélange les ingrédients secs",
+   "t": "اخلط المكوّنات الجافة"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{sucre}} de sucre et {{sel}} de sel. Creuse un puits au centre.",
+   "t": "في وعاء كبير، اخلط {{farine}} من الدقيق، و{{sucre}} من السكر، و{{sel}} من الملح. اصنع حفرة في الوسط."
+  },
+  "steps.1.tip": {
+   "fr": "Tamise la farine si tu peux : cela aide à éviter les grumeaux (Meilleur du Chef, 750g).",
+   "t": "انخل الدقيق إن استطعت: فهذا يساعد على تجنّب التكتلات (Meilleur du Chef، 750g)."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute les œufs et un peu de lait",
+   "t": "أضف البيض وقليلًا من الحليب"
+  },
+  "steps.2.text": {
+   "fr": "Casse {{oeufs:full}} dans le puits et ajoute un peu de lait. Fouette au centre, en ramenant petit à petit la farine des bords.",
+   "t": "اكسر {{oeufs:full}} في الحفرة وأضف قليلًا من الحليب. اخفق في الوسط، وأنت تجرّ الدقيق من الأطراف شيئًا فشيئًا."
+  },
+  "steps.2.tip": {
+   "fr": "Incorpore la farine petit à petit et verse le lait en plusieurs fois : c'est ce qui évite les grumeaux (Chef Simon, Meilleur du Chef, 750g).",
+   "t": "أدمج الدقيق شيئًا فشيئًا وصبّ الحليب على دفعات: فهذا ما يمنع التكتلات (Chef Simon، Meilleur du Chef، 750g)."
+  },
+  "steps.3.title": {
+   "fr": "Verse le reste du lait",
+   "t": "صبّ باقي الحليب"
+  },
+  "steps.3.text": {
+   "fr": "Verse le reste du lait petit à petit ({{lait}} de lait en tout), sans cesser de fouetter, jusqu'à obtenir une pâte lisse et fluide.",
+   "t": "صبّ باقي الحليب شيئًا فشيئًا ({{lait}} من الحليب في المجموع)، دون أن تتوقف عن الخفق، حتى تحصل على عجينة ملساء وسائلة."
+  },
+  "steps.3.tip": {
+   "fr": "S'il reste des grumeaux, passe la pâte au chinois ou donne un petit coup de mixeur plongeant (Meilleur du Chef).",
+   "t": "إذا بقيت تكتلات، فصفِّ العجينة بالمصفاة المخروطية أو اخلطها قليلًا بالخلاط اليدوي (Meilleur du Chef)."
+  },
+  "steps.4.title": {
+   "fr": "Incorpore le beurre fondu",
+   "t": "أضف الزبدة المذابة"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute le beurre fondu tiède et fouette jusqu'à ce qu'il soit bien mélangé. Si tu veux parfumer la pâte, ajoute maintenant {{sucre-vanille:full}}, ou quelques gouttes d'{{fleur-oranger}}.",
+   "t": "أضف الزبدة المذابة الفاترة واخفق حتى تمتزج جيدًا. وإذا أردت أن تعطّر العجينة، فأضف الآن {{sucre-vanille:full}}، أو بضع قطرات من {{fleur-oranger}}."
+  },
+  "steps.4.tip": {
+   "fr": "Le parfum est facultatif. Morbihan Tourisme cite la vanille, la cannelle et la fleur d'oranger, et ajoute : « rien ne vaut le naturel ».",
+   "t": "النكهة اختيارية. يذكر Morbihan Tourisme الفانيليا والقرفة وماء الزهر، ويضيف: «لا شيء يضاهي الطعم الطبيعي»."
+  },
+  "steps.5.title": {
+   "fr": "Laisse reposer 1 heure au frais",
+   "t": "اترك العجينة ترتاح ساعة في الثلاجة"
+  },
+  "steps.5.text": {
+   "fr": "Couvre le saladier avec du film alimentaire ou une assiette. Laisse reposer la pâte 1 heure (60 minutes) au réfrigérateur.",
+   "t": "غطِّ الوعاء بغلاف بلاستيكي شفاف أو بصحن. اترك العجينة ترتاح ساعة (60 دقيقة) في الثلاجة."
+  },
+  "steps.5.tip": {
+   "fr": "Pendant le repos, l'amidon de la farine gonfle et les bulles d'air s'échappent : les crêpes seront plus moelleuses (Meilleur du Chef, 750g). Tu peux préparer la pâte la veille (Chef Simon), mais garde-la couverte au réfrigérateur et cuis-la le lendemain au plus tard : elle contient des œufs crus et du lait (750g conseille 6 à 8 heures, voire une nuit).",
+   "t": "أثناء الراحة، ينتفخ نشا الدقيق وتخرج فقاعات الهواء: فيصير الكريب أطرى (Meilleur du Chef، 750g). يمكنك أن تحضّر العجينة في اليوم السابق (Chef Simon)، لكن احفظها مغطاة في الثلاجة واطهُها في اليوم التالي على أبعد تقدير: فهي تحتوي على بيض نيء وحليب (وينصح 750g بمدة من 6 إلى 8 ساعات، بل ليلة كاملة)."
+  },
+  "steps.5.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "راحة العجينة"
+  },
+  "steps.5.timer.done": {
+   "fr": "La pâte a reposé : remue-la et chauffe la poêle.",
+   "t": "ارتاحت العجينة: حرّكها وسخّن المقلاة."
+  },
+  "steps.6.title": {
+   "fr": "Remue la pâte",
+   "t": "حرّك العجينة"
+  },
+  "steps.6.text": {
+   "fr": "Sors la pâte et remue-la bien. Elle a un peu épaissi : si elle ne coule plus facilement, ajoute un peu de lait et mélange.",
+   "t": "أخرج العجينة وحرّكها جيدًا. ستكون قد ثخنت قليلًا: إذا لم تعد تسيل بسهولة، فأضف قليلًا من الحليب واخلط."
+  },
+  "steps.6.tip": {
+   "fr": "Morbihan Tourisme ajoute encore un peu de lait après le repos ; Meilleur du Chef explique que le repos épaissit la pâte.",
+   "t": "يضيف Morbihan Tourisme قليلًا آخر من الحليب بعد الراحة؛ ويشرح Meilleur du Chef أن الراحة تجعل العجينة أثخن."
+  },
+  "steps.7.title": {
+   "fr": "Chauffe et graisse la poêle",
+   "t": "سخّن المقلاة وادهنها"
+  },
+  "steps.7.text": {
+   "fr": "Chauffe la poêle à crêpes sur feu moyen, jusqu'à ce qu'elle soit bien chaude. Graisse-la légèrement avec un papier absorbant imbibé d'un peu d'{{huile}} ou de beurre.",
+   "t": "سخّن مقلاة الكريب على نار متوسطة حتى تسخن جيدًا. ادهنها دهنًا خفيفًا بورقة ماصة مبلّلة بقليل من {{huile}} أو الزبدة."
+  },
+  "steps.7.tip": {
+   "fr": "Si la poêle n'est pas assez chaude, la pâte attache ; si elle est trop chaude, la pâte prend tout de suite et la crêpe est irrégulière (Chef Simon).",
+   "t": "إذا لم تكن المقلاة ساخنة بما يكفي، التصقت العجينة؛ وإذا كانت ساخنة جدًا، تماسكت العجينة فورًا وجاء الكريب غير منتظم (Chef Simon)."
+  },
+  "steps.8.title": {
+   "fr": "Verse une louche de pâte",
+   "t": "صبّ مغرفة من العجينة"
+  },
+  "steps.8.text": {
+   "fr": "Verse une petite louche de pâte au centre de la poêle. Tourne aussitôt la poêle dans tous les sens pour couvrir tout le fond d'une couche fine.",
+   "t": "صبّ مغرفة صغيرة من العجينة في وسط المقلاة. أدِر المقلاة فورًا في كل الاتجاهات لتغطي قاعها كله بطبقة رقيقة."
+  },
+  "steps.9.title": {
+   "fr": "Cuis la première face",
+   "t": "اطهُ الوجه الأول"
+  },
+  "steps.9.text": {
+   "fr": "Laisse cuire 1 à 2 minutes environ, jusqu'à ce que le bord se décolle et que le dessous soit doré.",
+   "t": "اتركه يُطهى نحو دقيقة إلى دقيقتين، حتى تنفصل الحافة ويصير الوجه السفلي ذهبيًا."
+  },
+  "steps.9.tip": {
+   "fr": "Plus la crêpe cuit, plus elle devient croustillante (Chef Simon). En Bretagne, on dit « kraz » pour une crêpe croustillante et « soupic » pour une crêpe souple (Krampouz).",
+   "t": "كلما طال طهي الكريب، صار أكثر قرمشة (Chef Simon). وفي بريتاني، يُقال «kraz» للكريب المقرمش و«soupic» للكريب الليّن (Krampouz)."
+  },
+  "steps.9.img.alt": {
+   "fr": "Crêpe qui cuit sur une crêpière électrique",
+   "t": "كريب يُطهى على آلة كريب كهربائية"
+  },
+  "steps.9.img.caption": {
+   "fr": "La crêpe cuit en couche fine",
+   "t": "يُطهى الكريب في طبقة رقيقة"
+  },
+  "steps.10.title": {
+   "fr": "Retourne la crêpe",
+   "t": "اقلب الكريب"
+  },
+  "steps.10.text": {
+   "fr": "Glisse la spatule sous la crêpe et retourne-la (ou fais-la sauter). Laisse dorer l'autre face quelques instants seulement.",
+   "t": "أدخل ملعقة التقليب تحت الكريب واقلبه (أو اقلبه بقذفه في الهواء). اترك الوجه الآخر يتحمّر لبضع لحظات فقط."
+  },
+  "steps.10.tip": {
+   "fr": "La crêpe de froment cuit vite : la seconde face ne demande que quelques secondes (Krampouz).",
+   "t": "كريب القمح ينضج بسرعة: فالوجه الثاني لا يحتاج إلا إلى بضع ثوانٍ (Krampouz)."
+  },
+  "steps.11.title": {
+   "fr": "Empile et garde au chaud",
+   "t": "كدّسه واحفظه ساخنًا"
+  },
+  "steps.11.text": {
+   "fr": "Fais glisser la crêpe sur une assiette. Empile les suivantes au fur et à mesure, et couvre la pile avec une autre assiette, du papier d'aluminium ou un torchon propre.",
+   "t": "انقل الكريب إلى صحن. كدّس القطع التالية فوقه كلما نضجت، وغطِّ الكومة بصحن آخر، أو بورق الألمنيوم، أو بمنشفة نظيفة."
+  },
+  "steps.11.tip": {
+   "fr": "Couvertes, les crêpes restent chaudes et ne sèchent pas (Chef Simon, 750g). Chef Simon pose même l'assiette sur une casserole d'eau frémissante.",
+   "t": "إذا غُطّي الكريب، بقي ساخنًا ولم يجفّ (Chef Simon، 750g). بل إن Chef Simon يضع الصحن فوق قدر فيه ماء على وشك الغليان."
+  },
+  "steps.12.title": {
+   "fr": "Continue jusqu'à la fin de la pâte",
+   "t": "تابع حتى تنتهي العجينة"
+  },
+  "steps.12.text": {
+   "fr": "Regraisse légèrement la poêle quand la crêpe accroche, puis recommence jusqu'à la fin de la pâte. Si les crêpes brunissent trop vite, baisse un peu le feu.",
+   "t": "ادهن المقلاة من جديد دهنًا خفيفًا عندما يبدأ الكريب في الالتصاق، ثم كرّر العملية حتى تنتهي العجينة. وإذا اسمرّ الكريب بسرعة كبيرة، فاخفض النار قليلًا."
+  },
+  "steps.12.tip": {
+   "fr": "La première crêpe est souvent ratée, le temps que la poêle trouve la bonne chaleur (Chef Simon). Un dicton breton la donne au chat ou au chien (Wikipédia).",
+   "t": "كثيرًا ما تفشل أول قطعة كريب، ريثما تبلغ المقلاة الحرارة المناسبة (Chef Simon). ويقول مثل بريتاني إنها من نصيب القط أو الكلب (Wikipédia)."
+  },
+  "steps.13.title": {
+   "fr": "Garnis et sers",
+   "t": "أضف الحشوة وقدّمه"
+  },
+  "steps.13.text": {
+   "fr": "Sers les crêpes chaudes avec un peu de {{beurre-garniture}} et de {{sucre-garniture}}, de la {{confiture}} ou du {{miel}}. Plie-les en deux puis en quatre, ou roule-les.",
+   "t": "قدّم الكريب ساخنًا مع قليل من الزبدة والسكر، أو المربى، أو العسل. اطوِه إلى نصفين ثم إلى أرباع، أو لفّه."
+  },
+  "steps.13.tip": {
+   "fr": "Pour juger une pâte, rien ne vaut la crêpe beurre-sucre (Tourisme Bretagne).",
+   "t": "للحكم على جودة العجينة، لا شيء يضاهي كريب الزبدة والسكر (Tourisme Bretagne)."
+  },
+  "secrets.0.text": {
+   "fr": "En Bretagne, la crêpe de froment (farine de blé) est sucrée. Celle de blé noir (sarrasin) est salée ; dans l'est de la région, on l'appelle galette.",
+   "t": "في بريتاني، كريب القمح الطري (دقيق القمح) حلو. أما كريب القمح الأسود (الحنطة السوداء) فمالح؛ ويُسمّى galette في شرق المنطقة."
+  },
+  "secrets.0.source": {
+   "fr": "Tourisme Bretagne ; Wikipédia ; 750g",
+   "t": "Tourisme Bretagne؛ Wikipédia؛ 750g"
+  },
+  "secrets.1.text": {
+   "fr": "Le repos d'une heure au frais laisse gonfler l'amidon, détend le gluten et chasse les bulles d'air : les crêpes sont plus moelleuses et moins élastiques.",
+   "t": "راحة العجينة ساعة في الثلاجة تترك النشا ينتفخ، وترخي الغلوتين، وتطرد فقاعات الهواء: فيصير الكريب أطرى وأقل مطاطية."
+  },
+  "secrets.1.source": {
+   "fr": "Meilleur du Chef (Chef Philippe) ; 750g ; Chef Simon (« laisser gonfler les amidons ») ; Morbihan Tourisme et Krampouz (1 heure)",
+   "t": "Meilleur du Chef (Chef Philippe)؛ 750g؛ Chef Simon («ترك النشويات تنتفخ»)؛ Morbihan Tourisme وKrampouz (ساعة واحدة)"
+  },
+  "secrets.2.text": {
+   "fr": "Contre les grumeaux : verse le lait petit à petit en fouettant au centre, jamais la farine d'un coup dans le liquide.",
+   "t": "لتجنّب التكتلات: صبّ الحليب شيئًا فشيئًا وأنت تخفق في الوسط، ولا تُلقِ الدقيق دفعة واحدة في السائل أبدًا."
+  },
+  "secrets.2.source": {
+   "fr": "Chef Simon ; Meilleur du Chef ; Morbihan Tourisme ; 750g",
+   "t": "Chef Simon؛ Meilleur du Chef؛ Morbihan Tourisme؛ 750g"
+  },
+  "secrets.3.text": {
+   "fr": "Tout est une question de chaleur : poêle trop froide, la pâte attache ; trop chaude, la crêpe devient irrégulière. Une cuisson trop lente la dessèche et la rend cartonneuse.",
+   "t": "كل شيء مسألة حرارة: إذا كانت المقلاة باردة جدًا، التصقت العجينة؛ وإذا كانت ساخنة جدًا، جاء الكريب غير منتظم. والطهي البطيء جدًا يجفّفه ويجعله كالورق المقوّى."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon ; Krampouz",
+   "t": "Chef Simon؛ Krampouz"
+  },
+  "secrets.4.text": {
+   "fr": "Sur une crêpière bretonne (billig), Krampouz conseille de régler la plaque entre 200 et 220 °C pour les crêpes de froment.",
+   "t": "على صفيحة الكريب البريتانية (billig)، ينصح Krampouz بضبط حرارة الصفيحة بين 200 و220 درجة مئوية لكريب القمح."
+  },
+  "secrets.4.source": {
+   "fr": "Krampouz (conseils de cuisson ; sa recette indique 210 °C)",
+   "t": "Krampouz (نصائح الطهي؛ وتذكر وصفته 210 درجة مئوية)"
+  },
+  "secrets.5.text": {
+   "fr": "La crêpe de froment cuit vite : on la retourne quand le bord se décolle, et la seconde face ne demande que quelques secondes.",
+   "t": "كريب القمح ينضج بسرعة: يُقلب عندما تنفصل حافته، ولا يحتاج الوجه الثاني إلا إلى بضع ثوانٍ."
+  },
+  "secrets.5.source": {
+   "fr": "Krampouz ; Morbihan Tourisme (« quelques instants ») ; Chef Simon (retourner dès coloration)",
+   "t": "Krampouz؛ Morbihan Tourisme («بضع لحظات»)؛ Chef Simon (القلب بمجرد أن يتلوّن)"
+  },
+  "secrets.6.text": {
+   "fr": "Kraz ou soupic : plus la crêpe cuit, plus elle devient craquante ; cuite plus longtemps et nourrie de beurre, elle est croustillante (kraz), sans beurre elle devient sèche et cassante, tandis que la crêpe soupic reste toute souple. En crêperie, une crêpe combine souvent les deux : bord croustillant, centre souple.",
+   "t": "Kraz أو soupic: كلما طال طهي الكريب، صار أكثر قرمشة؛ فإذا طُهي مدة أطول وتشرّب الزبدة، صار مقرمشًا (kraz)، ودون زبدة يصير جافًا وسريع الانكسار، أما كريب soupic فيبقى ليّنًا تمامًا. وفي محلات الكريب، كثيرًا ما يجمع الكريب بين الاثنين: حافة مقرمشة، ووسط ليّن."
+  },
+  "secrets.6.source": {
+   "fr": "Krampouz ; Chef Simon",
+   "t": "Krampouz؛ Chef Simon"
+  },
+  "secrets.7.text": {
+   "fr": "Pas trop de sucre dans la pâte : il colore la crêpe et peut noircir avant qu'elle soit cuite. Chef Simon et Chef Philippe préfèrent même sucrer après la cuisson.",
+   "t": "لا تُكثر السكر في العجينة: فهو يلوّن الكريب وقد يجعله يسودّ قبل أن ينضج. بل إن Chef Simon وChef Philippe يفضّلان إضافة السكر بعد الطهي."
+  },
+  "secrets.7.source": {
+   "fr": "Wikipédia ; 750g ; Chef Simon ; Meilleur du Chef",
+   "t": "Wikipédia؛ 750g؛ Chef Simon؛ Meilleur du Chef"
+  },
+  "secrets.8.text": {
+   "fr": "Pour juger une pâte, rien ne vaut une crêpe beurre-sucre, toute simple.",
+   "t": "للحكم على جودة العجينة، لا شيء يضاهي كريبًا بسيطًا بالزبدة والسكر."
+  },
+  "secrets.8.source": {
+   "fr": "Tourisme Bretagne",
+   "t": "Tourisme Bretagne"
+  },
+  "secrets.9.text": {
+   "fr": "Jusque dans les années 1960, le seul accompagnement de la crêpe bretonne était le beurre.",
+   "t": "حتى سنوات 1960، كانت الزبدة هي الإضافة الوحيدة للكريب البريتاني."
+  },
+  "secrets.9.source": {
+   "fr": "Krampouz",
+   "t": "Krampouz"
+  },
+  "secrets.10.text": {
+   "fr": "Empile les crêpes au fur et à mesure et couvre-les : elles restent chaudes, souples et ne sèchent pas.",
+   "t": "كدّس الكريب كلما نضج وغطّه: فيبقى ساخنًا وليّنًا ولا يجفّ."
+  },
+  "secrets.10.source": {
+   "fr": "Chef Simon ; 750g",
+   "t": "Chef Simon؛ 750g"
+  },
+  "secrets.11.text": {
+   "fr": "La première crêpe est souvent ratée, le temps de trouver la bonne chaleur. Un dicton breton la réserve au chat, au chien ou à l'innocent de la maison.",
+   "t": "كثيرًا ما تفشل أول قطعة كريب، ريثما تُضبط الحرارة المناسبة. ويقول مثل بريتاني إنها من نصيب القط، أو الكلب، أو ساذج البيت."
+  },
+  "secrets.11.source": {
+   "fr": "Chef Simon ; Wikipédia",
+   "t": "Chef Simon؛ Wikipédia"
+  },
+  "secrets.12.text": {
+   "fr": "Un mot très ancien : le Catholicon, premier dictionnaire breton-latin-français (1499), contient déjà le mot « crampoezenn », traduit par « crêpe ».",
+   "t": "كلمة قديمة جدًا: فـCatholicon، أول قاموس بريتوني-لاتيني-فرنسي (1499)، يتضمن بالفعل كلمة «crampoezenn»، مترجمةً بـ«crêpe»."
+  },
+  "secrets.12.source": {
+   "fr": "Bécédia (Bretagne Culture Diversité) ; Wikipédia (krampouezh en breton moderne)",
+   "t": "Bécédia (Bretagne Culture Diversité)؛ Wikipédia (krampouezh في اللغة البريتونية الحديثة)"
+  },
+  "secrets.13.text": {
+   "fr": "Fin août, à Sainte-Anne-d'Auray, le festival Galettes du Monde célèbre la galette et ses cousines du monde entier, dont le msemen.",
+   "t": "في أواخر غشت، يحتفي مهرجان Galettes du Monde في Sainte-Anne-d'Auray بالـgalette وبقريباتها من العالم كله، ومنها المسمن."
+  },
+  "secrets.13.source": {
+   "fr": "Tourisme Bretagne ; Morbihan Tourisme",
+   "t": "Tourisme Bretagne؛ Morbihan Tourisme"
+  },
+  "mistakes.0": {
+   "fr": "Verser tout le lait d'un coup sur la farine : cela fait des grumeaux (Chef Simon ; Meilleur du Chef ; 750g).",
+   "t": "صبّ الحليب كله دفعة واحدة على الدقيق: فهذا يسبّب التكتلات (Chef Simon؛ Meilleur du Chef؛ 750g)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire sans laisser reposer la pâte : les crêpes sont moins moelleuses (750g ; Meilleur du Chef).",
+   "t": "طهي الكريب دون ترك العجينة ترتاح: فيكون الكريب أقل طراوة (750g؛ Meilleur du Chef)."
+  },
+  "mistakes.2": {
+   "fr": "Une poêle pas assez chaude : la pâte attache (Chef Simon ; Wikipédia).",
+   "t": "مقلاة غير ساخنة بما يكفي: فتلتصق العجينة (Chef Simon؛ Wikipédia)."
+  },
+  "mistakes.3": {
+   "fr": "Un feu trop vif : crêpes cassantes ou irrégulières ; baisse le feu au fil de la cuisson (750g ; Chef Simon).",
+   "t": "نار قوية جدًا: كريب سريع الانكسار أو غير منتظم؛ اخفض النار مع تقدّم الطهي (750g؛ Chef Simon)."
+  },
+  "mistakes.4": {
+   "fr": "Trop sucrer la pâte : la crêpe colore et noircit trop vite (Wikipédia ; 750g).",
+   "t": "الإكثار من السكر في العجينة: فيتلوّن الكريب ويسودّ بسرعة كبيرة (Wikipédia؛ 750g)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la pâte crue hors du réfrigérateur, ou la garder au-delà du lendemain : elle contient des œufs crus et du lait (750g conseille 6 à 8 heures au frais, voire une nuit ; l'Anses déconseille de laisser un aliment plus de 2 heures à température ambiante).",
+   "t": "ترك العجينة النيئة خارج الثلاجة، أو الاحتفاظ بها إلى ما بعد اليوم التالي: فهي تحتوي على بيض نيء وحليب (ينصح 750g بمدة من 6 إلى 8 ساعات في الثلاجة، بل ليلة كاملة؛ وتنصح Anses بعدم ترك أي طعام أكثر من ساعتين في درجة حرارة الغرفة)."
+  },
+  "mistakes.6": {
+   "fr": "Goûter la pâte crue : la farine et les œufs crus peuvent contenir des bactéries (FDA, agence sanitaire américaine ; Santé publique France cite la pâte à crêpe parmi les préparations à base de farine à ne pas manger crues ou peu cuites).",
+   "t": "تذوّق العجينة النيئة: فالدقيق والبيض النيء قد يحتويان على بكتيريا (FDA، الوكالة الصحية الأمريكية؛ وتذكر Santé publique France عجينة الكريب ضمن المستحضرات المصنوعة من الدقيق التي لا ينبغي أكلها نيئة أو غير مطهوة جيدًا)."
+  },
+  "mistakes.7": {
+   "fr": "Laver les œufs avant de les ranger : cela aide les microbes à entrer dans la coquille (Anses).",
+   "t": "غسل البيض قبل تخزينه: فهذا يساعد الميكروبات على اختراق القشرة (Anses)."
+  },
+  "mistakes.8": {
+   "fr": "Graisser la poêle au saindoux, graisse de porc, ou au lardiguel, mélange de saindoux et de jaune d'œuf cité par Krampouz pour les billigs : prends de l'huile de tournesol, que Krampouz recommande, ou un peu de beurre (Bretagne Culture Diversité ; Morbihan Tourisme).",
+   "t": "دهن المقلاة بشحم الخنزير، أو بـlardiguel، وهو خليط من شحم الخنزير وصفار البيض يذكره Krampouz لصفائح billig: استعمل زيت دوار الشمس، الذي يوصي به Krampouz، أو قليلًا من الزبدة (Bretagne Culture Diversité؛ Morbihan Tourisme)."
+  },
+  "variants.0": {
+   "fr": "Bretagne Sud, sans beurre dans la pâte : 1 kg de farine type 65, 250 g de sucre, 7 œufs moyens et 1,5 l de lait entier ; après 1 heure de repos au frais, encore 20 cl de lait. Pour 30 crêpes sur une crêpière beurrée (Morbihan Tourisme).",
+   "t": "جنوب بريتاني، دون زبدة في العجينة: 1 كغ من دقيق نوع 65، و250 غ من السكر، و7 بيضات متوسطة، و1,5 ل من الحليب كامل الدسم؛ وبعد ساعة من الراحة في الثلاجة، 20 سنتيلتر أخرى من الحليب. لصنع 30 قطعة كريب على صفيحة كريب مدهونة بالزبدة (Morbihan Tourisme)."
+  },
+  "variants.1": {
+   "fr": "Façon crêperie, sur billig : 500 g de farine de froment, 120 g de sucre, 3 œufs, 1 pincée de sel, 50 g de beurre fondu et 1 l de lait demi-écrémé, pour environ 15 grandes crêpes ; repos d'au moins 1 heure, plaque à 210 °C (Krampouz).",
+   "t": "على طريقة محلات الكريب، على صفيحة billig: 500 غ من دقيق القمح الطري، و120 غ من السكر، و3 بيضات، ورشة ملح، و50 غ من الزبدة المذابة، و1 ل من الحليب نصف الدسم، لصنع نحو 15 قطعة كريب كبيرة؛ راحة ساعة على الأقل، وحرارة الصفيحة 210 درجة مئوية (Krampouz)."
+  },
+  "variants.2": {
+   "fr": "Avec un peu d'eau, plus légère : 250 g de farine, 4 gros œufs, 50 cl de lait, 10 cl d'eau, 50 g de beurre fondu, 2 c. à s. de sucre et 1 pincée de sel, repos de 30 à 45 minutes au frais, pour 12 crêpes cuites environ 2 minutes par face (Bretagne Culture Diversité). 750g conseille aussi de remplacer un tiers du lait par de l'eau.",
+   "t": "بقليل من الماء، لكريب أخف: 250 غ من الدقيق، و4 بيضات كبيرة، و50 سنتيلتر من الحليب، و10 سنتيلتر من الماء، و50 غ من الزبدة المذابة، وملعقتين كبيرتين من السكر، ورشة ملح، مع راحة من 30 إلى 45 دقيقة في الثلاجة، لصنع 12 قطعة كريب تُطهى كل واحدة نحو دقيقتين على كل وجه (Bretagne Culture Diversité). وينصح 750g أيضًا باستبدال ثلث الحليب بالماء."
+  },
+  "variants.3": {
+   "fr": "Sans long repos : avec du lait tiède, 10 minutes d'attente suffisent (Chef Damien, 750g : 250 g de farine, 50 g de sucre, 1 pincée de sel, 2 gros œufs et 2 jaunes, 50 cl de lait tiède, 25 g de beurre fondu). Les crêpes sont un peu moins moelleuses qu'après une heure de repos (750g).",
+   "t": "دون راحة طويلة: مع الحليب الفاتر، يكفي انتظار 10 دقائق (Chef Damien، 750g: 250 غ من الدقيق، و50 غ من السكر، ورشة ملح، وبيضتان كبيرتان وصفاران، و50 سنتيلتر من الحليب الفاتر، و25 غ من الزبدة المذابة). ويكون الكريب أقل طراوة قليلًا مما هو عليه بعد ساعة من الراحة (750g)."
+  },
+  "variants.4": {
+   "fr": "À la fleur d'oranger, sans alcool : pour 250 g de farine, 1 c. à s. d'eau de fleur d'oranger et 1 sachet de sucre vanillé (750g, recette d'un membre). Meilleur du Chef propose l'arôme de fleur d'oranger à la place du rhum.",
+   "t": "بماء الزهر، دون كحول: لكل 250 غ من الدقيق، ملعقة كبيرة واحدة من ماء الزهر وكيس واحد من السكر الفانيلي (750g، وصفة أحد الأعضاء). ويقترح Meilleur du Chef منكّه زهر البرتقال بدلًا من الروم."
+  },
+  "variants.5": {
+   "fr": "À la vanille, sans alcool : Escoffier parfume sa pâte avec une cuillerée de sucre vanillé, ou de sucre d'orange ou de citron, au lieu de la liqueur ; Krampouz ajoute 2 sachets de sucre vanillé pour 500 g de farine.",
+   "t": "بالفانيليا، دون كحول: يعطّر Escoffier عجينته بملعقة من السكر الفانيلي، أو من السكر المعطّر بالبرتقال أو الليمون، بدلًا من الليكور؛ ويضيف Krampouz كيسين من السكر الفانيلي لكل 500 غ من الدقيق."
+  },
+  "variants.6": {
+   "fr": "À la cannelle : Morbihan Tourisme la cite parmi les parfums possibles de la pâte ; dose non donnée.",
+   "t": "بالقرفة: يذكرها Morbihan Tourisme ضمن النكهات الممكنة للعجينة؛ دون تحديد الكمية."
+  },
+  "variants.7": {
+   "fr": "La pâte d'Escoffier (1903), très riche en œufs : 500 g de farine, 200 g de sucre, 1 prise de sel, 12 œufs et 1,5 l de lait ajouté petit à petit (composition A du Guide culinaire). Parfume-la au sucre vanillé, pas à la liqueur.",
+   "t": "عجينة Escoffier (1903)، الغنية جدًا بالبيض: 500 غ من الدقيق، و200 غ من السكر، ورشة ملح، و12 بيضة، و1,5 ل من الحليب يُضاف شيئًا فشيئًا (التركيبة A في Guide culinaire). عطّرها بالسكر الفانيلي، لا بالليكور."
+  },
+  "variants.8": {
+   "fr": "Sans beurre dans la pâte : Chef Simon met 5 cl d'huile à la place de 50 g de beurre noisette pour 500 g de farine ; 750g dit qu'on peut aussi simplement le retirer.",
+   "t": "دون زبدة في العجينة: يضع Chef Simon 5 سنتيلتر من الزيت بدلًا من 50 غ من الزبدة المحمّرة لكل 500 غ من الدقيق؛ ويقول 750g إنه يمكن أيضًا الاستغناء عنها ببساطة."
+  },
+  "variants.9": {
+   "fr": "La galette de blé noir, sa cousine salée, est une autre pâte : farine de sarrasin, eau et sel (Wikipédia, Chef Simon).",
+   "t": "أما galette القمح الأسود، قريبته المالحة، فعجينة أخرى: دقيق الحنطة السوداء، والماء، والملح (Wikipédia، Chef Simon)."
+  }
+ }
+}

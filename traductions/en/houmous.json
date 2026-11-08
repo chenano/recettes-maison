@@ -1,0 +1,470 @@
+{
+ "_slug": "houmous",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Houmous libanais (hummus bi tahini)",
+   "t": "Lebanese hummus (hummus bi tahini)"
+  },
+  "tagline": {
+   "fr": "La purée de pois chiches du Liban : des pois chiches secs trempés une nuit, cuits jusqu'à fondre, puis mixés avec du tahini, du citron et de l'ail. Lisse et crémeux, à manger avec du pain libanais.",
+   "t": "Lebanon's chickpea purée: dried chickpeas soaked overnight, cooked until meltingly soft, then blended with tahini, lemon and garlic. Smooth and creamy, to eat with Lebanese bread."
+  },
+  "region": {
+   "fr": "Liban et Levant : on pense qu'il vient du pays de Cham (Liban, Syrie, Palestine, Jordanie) (Mama's Lebanese Kitchen). Son origine reste disputée entre plusieurs pays, et la presse parle de « guerre du houmous » (Wikipédia). « Houmous » veut dire « pois chiche » en arabe (Wikipédia ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
+   "t": "Lebanon and the Levant: it is thought to come from the land of Sham (Lebanon, Syria, Palestine, Jordan) (Mama's Lebanese Kitchen). Its origin is still disputed between several countries, and the press talks of a “hummus war” (Wikipédia). “Hummus” means “chickpea” in Arabic (Wikipédia; Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine)."
+  },
+  "occasion": {
+   "fr": "En mezzé, avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Au petit-déjeuner libanais, avec du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+   "t": "As part of a mezze, with Lebanese bread or pitta bread (Mama's Lebanese Kitchen; recettelibanaise.com). At a Lebanese breakfast, with foul, mint, raw onion and bread (Hadia's Lebanese Cuisine)."
+  },
+  "img_alt": {
+   "fr": "Houmous à la libanaise dans un bol, avec huile d'olive, pois chiches entiers et paprika",
+   "t": "Lebanese-style hummus in a bowl, with olive oil, whole chickpeas and paprika"
+  },
+  "serving": {
+   "fr": "Dans une assiette creuse, avec un creux au centre, un filet d'huile d'olive et du paprika (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com), avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Mama's le sert tiède, avec des cornichons salés, des piments au vinaigre, des olives, de la menthe, des poivrons verts et des oignons ; recettelibanaise.com ajoute un quartier de citron. Restes : dans une boîte fermée, au frigo entre 0 et 5 °C, mis au frais dans les 2 heures, et à manger dans les 2 jours (FSA). Hadia dit qu'il se garde jusqu'à 6 jours, et Chef in Disguise 5 à 7 jours : on garde ici la règle officielle, plus prudente.",
+   "t": "In a deep plate, with a hollow in the centre, a drizzle of olive oil and paprika (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; recettelibanaise.com), with Lebanese bread or pitta bread (Mama's Lebanese Kitchen; recettelibanaise.com). Mama's serves it warm, with gherkins in brine, chillies in vinegar, olives, mint, green peppers and onions; recettelibanaise.com adds a lemon wedge. Leftovers: in a closed container, in the fridge between 0 and 5 °C; put them in the fridge within 2 hours and eat them within 2 days (FSA). Hadia says it keeps for up to 6 days, and Chef in Disguise 5 to 7 days: here we stick to the official rule, which is more cautious."
+  },
+  "ing.0.group": {
+   "fr": "Le trempage et la cuisson",
+   "t": "Soaking and cooking"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "dried chickpeas"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "pas de conserve pour cette version",
+   "t": "no tinned chickpeas for this version"
+  },
+  "ing.bicarbonate-trempage.name": {
+   "fr": "de bicarbonate de soude alimentaire",
+   "t": "food-grade bicarbonate of soda"
+  },
+  "ing.bicarbonate-trempage.note": {
+   "fr": "pour l'eau du trempage",
+   "t": "for the soaking water"
+  },
+  "ing.eau-cuisson.name": {
+   "fr": "d'eau fraîche",
+   "t": "fresh cold water"
+  },
+  "ing.eau-cuisson.note": {
+   "fr": "pour la cuisson ; un peu plus si besoin",
+   "t": "for cooking; a little more if needed"
+  },
+  "ing.bicarbonate-cuisson.name": {
+   "fr": "de bicarbonate de soude alimentaire",
+   "t": "food-grade bicarbonate of soda"
+  },
+  "ing.bicarbonate-cuisson.note": {
+   "fr": "pour l'eau de cuisson",
+   "t": "for the cooking water"
+  },
+  "ing.1.group": {
+   "fr": "Le houmous",
+   "t": "The hummus"
+  },
+  "ing.tahini.name": {
+   "fr": "de tahini (crème de sésame)",
+   "t": "tahini (sesame paste)"
+  },
+  "ing.tahini.note": {
+   "fr": "de préférence libanais",
+   "t": "preferably Lebanese"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "fresh lemon juice"
+  },
+  "ing.citron.note": {
+   "fr": "pressé et filtré",
+   "t": "squeezed and strained"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher",
+   "t": "to be peeled"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster selon le goût",
+   "t": "adjust to taste"
+  },
+  "ing.eau-froide.name": {
+   "fr": "d'eau très froide",
+   "t": "very cold water"
+  },
+  "ing.eau-froide.note": {
+   "fr": "ou des glaçons ; à ajouter petit à petit",
+   "t": "or ice cubes; add a little at a time"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.huile-olive.name": {
+   "fr": "huile d'olive vierge extra",
+   "t": "extra virgin olive oil"
+  },
+  "ing.paprika.name": {
+   "fr": "paprika",
+   "t": "paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "cumin en poudre",
+   "t": "ground cumin"
+  },
+  "ing.cumin.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier, pour le trempage",
+   "t": "A large mixing bowl, for soaking"
+  },
+  "equipment.1": {
+   "fr": "Une grande casserole avec un couvercle",
+   "t": "A large saucepan with a lid"
+  },
+  "equipment.2": {
+   "fr": "Une écumoire",
+   "t": "A skimmer"
+  },
+  "equipment.3": {
+   "fr": "Une passoire",
+   "t": "A colander"
+  },
+  "equipment.4": {
+   "fr": "Un robot culinaire, ou un mixeur puissant",
+   "t": "A food processor, or a powerful blender"
+  },
+  "equipment.5": {
+   "fr": "Une spatule souple, pour racler les bords",
+   "t": "A flexible spatula, for scraping down the sides"
+  },
+  "equipment.6": {
+   "fr": "Une assiette creuse pour servir",
+   "t": "A deep plate for serving"
+  },
+  "equipment.7": {
+   "fr": "Une boîte hermétique pour les restes",
+   "t": "An airtight container for leftovers"
+  },
+  "steps.0.title": {
+   "fr": "Rince les pois chiches",
+   "t": "Rinse the chickpeas"
+  },
+  "steps.0.text": {
+   "fr": "Rince {{pois-chiches}} de pois chiches secs à l'eau froide, pour enlever la poussière et les petites impuretés.",
+   "t": "Rinse {{pois-chiches:full}} in cold water, to remove dust and small impurities."
+  },
+  "steps.1.title": {
+   "fr": "Mets-les à tremper",
+   "t": "Soak them"
+  },
+  "steps.1.text": {
+   "fr": "Mets-les dans le grand saladier. Couvre-les d'eau froide, au moins deux fois leur volume, et ajoute {{bicarbonate-trempage}} de bicarbonate. Laisse tremper une nuit, environ 10 heures.",
+   "t": "Put them in the large mixing bowl. Cover them with cold water, at least twice their volume, and add {{bicarbonate-trempage}} bicarbonate of soda. Leave them to soak overnight, about 10 hours."
+  },
+  "steps.1.tip": {
+   "fr": "Ils vont presque doubler de volume : prends un saladier assez grand (recettelibanaise.com ; Chef in Disguise).",
+   "t": "They will almost double in volume: use a big enough bowl (recettelibanaise.com; Chef in Disguise)."
+  },
+  "steps.2.title": {
+   "fr": "Égoutte et rince",
+   "t": "Drain and rinse"
+  },
+  "steps.2.text": {
+   "fr": "Le lendemain, jette l'eau du trempage. Rince les pois chiches à l'eau froide.",
+   "t": "The next day, throw away the soaking water. Rinse the chickpeas in cold water."
+  },
+  "steps.3.title": {
+   "fr": "Porte à ébullition",
+   "t": "Bring to the boil"
+  },
+  "steps.3.text": {
+   "fr": "Mets-les dans la grande casserole avec {{eau-cuisson}} d'eau fraîche. L'eau doit bien les couvrir. Porte à ébullition sur feu vif.",
+   "t": "Put them in the large saucepan with {{eau-cuisson:full}}. The water must cover them well. Bring to the boil over high heat."
+  },
+  "steps.3.tip": {
+   "fr": "recettelibanaise.com et Chef in Disguise veulent environ 10 cm d'eau au-dessus des pois chiches.",
+   "t": "recettelibanaise.com and Chef in Disguise call for about 10 cm of water above the chickpeas."
+  },
+  "steps.4.title": {
+   "fr": "Retire la mousse",
+   "t": "Skim off the foam"
+  },
+  "steps.4.text": {
+   "fr": "Une mousse blanche monte à la surface : retire-la avec l'écumoire, sans enlever l'eau.",
+   "t": "A white foam rises to the surface: remove it with the skimmer, without removing the water."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute le bicarbonate",
+   "t": "Add the bicarbonate of soda"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute {{bicarbonate-cuisson}} de bicarbonate. L'eau mousse de nouveau : écume encore.",
+   "t": "Add {{bicarbonate-cuisson}} bicarbonate of soda. The water foams again: skim it once more."
+  },
+  "steps.6.title": {
+   "fr": "Laisse frémir 1 heure",
+   "t": "Simmer for 1 hour"
+  },
+  "steps.6.text": {
+   "fr": "Baisse le feu, couvre et laisse frémir environ 1 heure. Si l'eau baisse trop, ajoute un peu d'eau chaude.",
+   "t": "Lower the heat, cover and leave to simmer for about 1 hour. If the water level drops too much, add a little hot water."
+  },
+  "steps.6.timer.label": {
+   "fr": "Pois chiches",
+   "t": "Chickpeas"
+  },
+  "steps.6.timer.done": {
+   "fr": "Écrase un pois chiche entre tes doigts : il doit s'écraser très facilement. Sinon, prolonge la cuisson.",
+   "t": "Crush a chickpea between your fingers: it should crush very easily. If not, cook them for longer."
+  },
+  "steps.7.title": {
+   "fr": "Vérifie qu'ils sont très tendres",
+   "t": "Check that they are very tender"
+  },
+  "steps.7.text": {
+   "fr": "Les pois chiches doivent être très tendres et presque fondre quand tu les presses. Trop cuits vaut mieux que pas assez : c'est le secret d'un houmous lisse.",
+   "t": "The chickpeas should be very tender and almost melt when you press them. Overcooked is better than undercooked: that is the secret of a smooth hummus."
+  },
+  "steps.7.tip": {
+   "fr": "Selon les pois chiches, il faut parfois jusqu'à 2 heures (Hadia's Lebanese Cuisine).",
+   "t": "Depending on the chickpeas, it can sometimes take up to 2 hours (Hadia's Lebanese Cuisine)."
+  },
+  "steps.8.title": {
+   "fr": "Égoutte",
+   "t": "Drain"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pois chiches dans la passoire. Si tu veux, garde-en une poignée pour décorer.",
+   "t": "Drain the chickpeas in the colander. If you like, keep a handful aside for garnish."
+  },
+  "steps.8.tip": {
+   "fr": "recettelibanaise.com retire aussi les peaux qui flottent sur l'eau avant d'égoutter.",
+   "t": "recettelibanaise.com also removes the skins floating on the water before draining."
+  },
+  "steps.9.title": {
+   "fr": "Mixe les pois chiches chauds",
+   "t": "Blend the hot chickpeas"
+  },
+  "steps.9.text": {
+   "fr": "Mets les pois chiches encore chauds dans le robot. Mixe jusqu'à obtenir une purée bien lisse. Arrête de temps en temps pour racler les bords avec la spatule.",
+   "t": "Put the still-hot chickpeas in the food processor. Blend until you have a very smooth purée. Stop from time to time to scrape down the sides with the spatula."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute l'ail et le sel",
+   "t": "Add the garlic and salt"
+  },
+  "steps.10.text": {
+   "fr": "Épluche l'ail. Mets dans le robot {{ail:full}} et {{sel}} de sel, puis mixe encore.",
+   "t": "Peel the garlic. Put {{ail:full}} and {{sel}} salt in the food processor, then blend again."
+  },
+  "steps.11.title": {
+   "fr": "Verse le tahini",
+   "t": "Pour in the tahini"
+  },
+  "steps.11.text": {
+   "fr": "Robot en marche, verse {{tahini}} de tahini en mince filet.",
+   "t": "With the food processor running, pour in {{tahini}} tahini in a thin stream."
+  },
+  "steps.12.title": {
+   "fr": "Ajoute le citron",
+   "t": "Add the lemon"
+  },
+  "steps.12.text": {
+   "fr": "Ajoute {{citron}} de jus de citron, puis laisse tourner le robot encore quelques minutes.",
+   "t": "Add {{citron}} lemon juice, then let the food processor run for a few more minutes."
+  },
+  "steps.13.title": {
+   "fr": "Allonge et goûte",
+   "t": "Loosen and taste"
+  },
+  "steps.13.text": {
+   "fr": "Si le houmous est trop épais, verse petit à petit jusqu'à {{eau-froide}} d'eau très froide, ou mets quelques glaçons, en mixant. Il doit devenir lisse et crémeux. Goûte, et ajoute un peu de sel ou de citron si besoin.",
+   "t": "If the hummus is too thick, gradually pour in up to {{eau-froide}} very cold water, or add a few ice cubes, while blending. It should become smooth and creamy. Taste, and add a little salt or lemon if needed."
+  },
+  "steps.13.tip": {
+   "fr": "Les glaçons refroidissent les lames du robot et rendent le houmous plus léger (Hadia's Lebanese Cuisine).",
+   "t": "Ice cubes cool the food processor's blades and make the hummus lighter (Hadia's Lebanese Cuisine)."
+  },
+  "steps.14.title": {
+   "fr": "Dresse et sers",
+   "t": "Plate and serve"
+  },
+  "steps.14.text": {
+   "fr": "Étale le houmous dans l'assiette creuse et fais un creux au centre avec le dos d'une cuillère. Arrose d'un filet d'{{huile-olive}}, saupoudre de {{paprika}} et, si tu veux, de {{cumin}}.",
+   "t": "Spread the hummus in the deep plate and make a hollow in the centre with the back of a spoon. Drizzle with {{huile-olive}}, sprinkle with {{paprika}} and, if you like, {{cumin}}."
+  },
+  "steps.14.tip": {
+   "fr": "Ajoute les pois chiches gardés pour décorer (Hadia's Lebanese Cuisine), ou du persil et des olives noires (recettelibanaise.com).",
+   "t": "Add the chickpeas you kept aside for garnish (Hadia's Lebanese Cuisine), or some parsley and black olives (recettelibanaise.com)."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des pois chiches secs, pas en conserve : pour Hadia, ils sont indispensables pour la bonne texture et le goût.",
+   "t": "Use dried chickpeas, not tinned: for Hadia, they are essential for the right texture and flavour."
+  },
+  "secrets.0.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Le bicarbonate, dans le trempage puis dans la cuisson, attendrit les pois chiches et défait leur peau : pas besoin de les éplucher.",
+   "t": "Bicarbonate of soda, first in the soaking water and then in the cooking water, softens the chickpeas and loosens their skins: no need to peel them."
+  },
+  "secrets.1.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen (ils cuisent plus vite) ; Chef in Disguise (les éplucher ne change presque rien)",
+   "t": "Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen (they cook faster); Chef in Disguise (peeling them makes almost no difference)"
+  },
+  "secrets.2.text": {
+   "fr": "Trop cuits vaut mieux que pas assez : des pois chiches qui fondent donnent un houmous crémeux.",
+   "t": "Overcooked is better than undercooked: chickpeas that melt give a creamy hummus."
+  },
+  "secrets.2.source": {
+   "fr": "recettelibanaise.com ; Hadia's Lebanese Cuisine ; Chef in Disguise",
+   "t": "recettelibanaise.com; Hadia's Lebanese Cuisine; Chef in Disguise"
+  },
+  "secrets.3.text": {
+   "fr": "Mixe les pois chiches encore chauds : la purée ne sera pas granuleuse.",
+   "t": "Blend the chickpeas while they are still hot: the purée will not be grainy."
+  },
+  "secrets.3.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen"
+  },
+  "secrets.4.text": {
+   "fr": "Verse le tahini en mince filet, robot en marche.",
+   "t": "Pour the tahini in a thin stream, with the food processor running."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen"
+  },
+  "secrets.5.text": {
+   "fr": "De l'eau glacée ou des glaçons rendent le houmous plus lisse et plus léger.",
+   "t": "Iced water or ice cubes make the hummus smoother and lighter."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; recettelibanaise.com",
+   "t": "Hadia's Lebanese Cuisine; recettelibanaise.com"
+  },
+  "secrets.6.text": {
+   "fr": "Presse le citron toi-même et filtre le jus : la pulpe peut donner de l'amertume avec le temps.",
+   "t": "Squeeze the lemon yourself and strain the juice: the pulp can turn it bitter over time."
+  },
+  "secrets.6.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Choisis un bon tahini, de préférence libanais : sa qualité fait le goût du houmous.",
+   "t": "Choose a good tahini, preferably Lebanese: its quality makes the flavour of the hummus."
+  },
+  "secrets.7.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.8.text": {
+   "fr": "Si tu sens le goût du bicarbonate, rince les pois chiches cuits et égoutte-les bien avant de les mixer.",
+   "t": "If you can taste the bicarbonate of soda, rinse the cooked chickpeas and drain them well before blending."
+  },
+  "secrets.8.source": {
+   "fr": "Chef in Disguise",
+   "t": "Chef in Disguise"
+  },
+  "secrets.9.text": {
+   "fr": "Si tu le prépares à l'avance, ajoute l'ail au moment de servir : avec le temps, son goût devient plus fort et change.",
+   "t": "If you make it ahead, add the garlic just before serving: over time, its flavour gets stronger and changes."
+  },
+  "secrets.9.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.10.text": {
+   "fr": "Deux astuces de restaurant, selon Hadia : un peu d'acide citrique pour la couleur claire et le goût acidulé ; et, comme les grands chefs de Beyrouth, un filet d'huile de tournesol à la fin pour un houmous plus soyeux.",
+   "t": "Two restaurant tricks, according to Hadia: a little citric acid for a pale colour and a tangy taste; and, like the great chefs of Beirut, a drizzle of sunflower oil at the end for a silkier hummus."
+  },
+  "secrets.10.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.11.text": {
+   "fr": "Hadia mixe les pois chiches la veille et met la purée une nuit au frigo. Le lendemain, elle la fouette avec les glaçons, le citron et le tahini.",
+   "t": "Hadia blends the chickpeas the day before and puts the purée in the fridge overnight. The next day, she whips it with the ice cubes, lemon and tahini."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.12.text": {
+   "fr": "Mama's Lebanese Kitchen raconte que des chefs libanais ont battu le record Guinness du plus grand plat de houmous, avec plus de 2 tonnes (date non donnée).",
+   "t": "Mama's Lebanese Kitchen says that Lebanese chefs broke the Guinness record for the largest dish of hummus, with more than 2 tonnes (date not given)."
+  },
+  "secrets.12.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "mistakes.0": {
+   "fr": "Mixer des pois chiches pas assez cuits ou trop fermes : le houmous reste granuleux (Chef in Disguise ; recettelibanaise.com ; Hadia's Lebanese Cuisine).",
+   "t": "Blending chickpeas that are undercooked or too firm: the hummus stays grainy (Chef in Disguise; recettelibanaise.com; Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire les pois chiches dans l'eau du trempage : jette-la et rince-les (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+   "t": "Cooking the chickpeas in the soaking water: throw it away and rinse them (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; recettelibanaise.com; Chef in Disguise)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la mousse de cuisson : retire-la à l'écumoire (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+   "t": "Leaving the foam from cooking: skim it off with the skimmer (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; recettelibanaise.com; Chef in Disguise)."
+  },
+  "mistakes.3": {
+   "fr": "Verser tout le tahini d'un coup, au lieu d'un mince filet (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+   "t": "Pouring in all the tahini at once, instead of in a thin stream (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen)."
+  },
+  "mistakes.4": {
+   "fr": "Prendre du jus de citron en bouteille, ou ne pas le filtrer (Hadia's Lebanese Cuisine).",
+   "t": "Using bottled lemon juice, or not straining it (Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.5": {
+   "fr": "Mettre le houmous encore chaud au frigo : laisse-le refroidir, puis mets-le au frais dans les 2 heures (FSA).",
+   "t": "Putting the hummus in the fridge while it is still hot: let it cool, then put it in the fridge within 2 hours (FSA)."
+  },
+  "variants.0": {
+   "fr": "Version rapide avec des pois chiches en conserve, pour 4 : 250 g de pois chiches en conserve mixés en purée, puis 4 c. à s. de tahini délayé dans 2 c. à s. de jus de citron, 2 gousses d'ail écrasées avec du sel, ½ c. à c. de sel, ½ c. à c. de cumin, et un peu d'eau froide si besoin (recettelibanaise.com). Chef in Disguise trouve le résultat correct mais un peu granuleux ; Hadia refuse la conserve.",
+   "t": "Quick version with tinned chickpeas, for 4: 250 g tinned chickpeas blended to a purée, then 4 tbsp tahini thinned with 2 tbsp lemon juice, 2 garlic cloves crushed with salt, ½ tsp salt, ½ tsp cumin, and a little cold water if needed (recettelibanaise.com). Chef in Disguise finds the result decent but a little grainy; Hadia refuses tinned chickpeas."
+  },
+  "variants.1": {
+   "fr": "Petit-déjeuner libanais : houmous servi avec des pois chiches chauds, du cumin, du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+   "t": "Lebanese breakfast: hummus served with hot chickpeas, cumin, foul, mint, raw onion and bread (Hadia's Lebanese Cuisine)."
+  },
+  "variants.2": {
+   "fr": "Tahini d'abord : recettelibanaise.com mixe l'ail, le citron, le sel, le cumin et le tahini avec l'eau glacée, puis ajoute les pois chiches.",
+   "t": "Tahini first: recettelibanaise.com blends the garlic, lemon, salt, cumin and tahini with the iced water, then adds the chickpeas."
+  },
+  "variants.3": {
+   "fr": "Façon restaurant : acide citrique, huile de tournesol, et purée reposée une nuit au frigo (Hadia's Lebanese Cuisine).",
+   "t": "Restaurant style: citric acid, sunflower oil, and a purée rested overnight in the fridge (Hadia's Lebanese Cuisine)."
+  },
+  "variants.4": {
+   "fr": "Autres garnitures : sumac (Hadia's Lebanese Cuisine), ou persil et olives noires (recettelibanaise.com).",
+   "t": "Other toppings: sumac (Hadia's Lebanese Cuisine), or parsley and black olives (recettelibanaise.com)."
+  },
+  "variants.5": {
+   "fr": "Avec une cuillère de yaourt grec, pour un goût plus acidulé (Chef in Disguise).",
+   "t": "With a spoonful of Greek yoghurt, for a tangier taste (Chef in Disguise)."
+  }
+ }
+}

@@ -110,10 +110,6 @@
    "fr": "pains à burger moelleux au sésame (ou briochés)",
    "t": "мягкие булочки для бургера с кунжутом (или сдобные)"
   },
-  "ing.pains.pl5": {
-   "fr": "pain à burger moelleux au sésame (ou brioché) / pains à burger moelleux au sésame (ou briochés)",
-   "t": "мягких булочек для бургера с кунжутом (или сдобных)"
-  },
   "ing.cheddar.name": {
    "fr": "tranche de cheddar spécial burger (celui qui fond bien)",
    "t": "ломтик чеддера для бургеров (который хорошо плавится)"
@@ -121,10 +117,6 @@
   "ing.cheddar.pl": {
    "fr": "tranches de cheddar spécial burger (celui qui fond bien)",
    "t": "ломтика чеддера для бургеров (который хорошо плавится)"
-  },
-  "ing.cheddar.pl5": {
-   "fr": "tranche de cheddar spécial burger (celui qui fond bien) / tranches de cheddar spécial burger (celui qui fond bien)",
-   "t": "ломтиков чеддера для бургеров (который хорошо плавится)"
   },
   "ing.2.group": {
    "fr": "Légumes",
@@ -153,10 +145,6 @@
   "ing.tomate.pl": {
    "fr": "tomates rondes, mûres mais bien fermes",
    "t": "круглых помидора, спелых, но плотных"
-  },
-  "ing.tomate.pl5": {
-   "fr": "tomate ronde, mûre mais bien ferme / tomates rondes, mûres mais bien fermes",
-   "t": "круглых помидоров, спелых, но плотных"
   },
   "ing.tomate.note": {
    "fr": "1 tranche par burger, 2 bonnes tranches par tomate",
@@ -603,16 +591,16 @@
    "t": "Сразу положите на каждую котлету по 1 ломтику чеддера."
   },
   "steps.13.text.4": {
-   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur.",
-   "t": "Подержите от 30 с до 1 мин, пока сыр не расплавится. При такой толщине котлета прожаривается насквозь."
+   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. Vérifie que le steak est cuit à cœur : coupé au centre, il ne doit plus être rosé et de la vapeur doit s'en échapper ; avec un thermomètre, il faut 70 °C à cœur pendant 2 minutes ou 75 °C pendant 30 secondes. Sinon, prolonge la cuisson.",
+   "t": "Подержите от 30 с до 1 мин, пока сыр не расплавится. Убедитесь, что котлета прожарилась насквозь: в разрезе по центру она не должна быть розовой, и из неё должен идти пар; по термометру в центре должно быть 70 °C в течение 2 минут или 75 °C в течение 30 секунд. Если нет, продолжайте жарить."
   },
   "steps.13.timer.label": {
    "fr": "Fromage",
    "t": "Сыр"
   },
   "steps.13.timer.done": {
-   "fr": "Le fromage a fondu ? Sors les steaks.",
-   "t": "Сыр расплавился? Снимайте котлеты."
+   "fr": "Le fromage a fondu et le steak est cuit à cœur ? Sors les steaks.",
+   "t": "Сыр расплавился, а котлета прожарилась насквозь? Снимайте котлеты."
   },
   "steps.14.title": {
    "fr": "Monter le burger",
@@ -693,6 +681,18 @@
   "mistakes.5": {
    "fr": "Attendre avant de manger : un smash burger se mange tout de suite.",
    "t": "Откладывать еду: смэш-бургер едят сразу."
+  },
+  "ing.pains.pl5": {
+   "fr": "pain à burger moelleux au sésame (ou brioché) / pains à burger moelleux au sésame (ou briochés)",
+   "t": "мягких булочек для бургера с кунжутом (или сдобных)"
+  },
+  "ing.cheddar.pl5": {
+   "fr": "tranche de cheddar spécial burger (celui qui fond bien) / tranches de cheddar spécial burger (celui qui fond bien)",
+   "t": "ломтиков чеддера для бургеров (который хорошо плавится)"
+  },
+  "ing.tomate.pl5": {
+   "fr": "tomate ronde, mûre mais bien ferme / tomates rondes, mûres mais bien fermes",
+   "t": "круглых помидоров, спелых, но плотных"
   }
  }
 }

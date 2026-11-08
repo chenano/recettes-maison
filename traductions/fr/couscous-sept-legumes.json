@@ -14,7 +14,7 @@
   "oignon": {
    "q": 1,
    "u": "",
-   "fr": "gros oignon (environ 200 g) / gros oignons (environ 200 g chacun)",
+   "fr": "gros oignon / gros oignons",
    "formes": "compté à la pièce : donner les formes du pluriel"
   },
   "tomates-rapees": {
@@ -167,8 +167,9 @@
   "ing.0.group": "Viande et bouillon",
   "ing.viande.name": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux",
   "ing.huile.name": "d'huile d'olive ou d'huile neutre",
-  "ing.oignon.name": "gros oignon (environ 200 g)",
-  "ing.oignon.pl": "gros oignons (environ 200 g chacun)",
+  "ing.oignon.name": "gros oignon",
+  "ing.oignon.pl": "gros oignons",
+  "ing.oignon.note": "environ 200 g pièce",
   "ing.tomates-rapees.name": "tomate mûre",
   "ing.tomates-rapees.pl": "tomates mûres",
   "ing.gingembre.name": "de gingembre moulu",

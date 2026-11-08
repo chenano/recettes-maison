@@ -1,0 +1,650 @@
+{
+ "_slug": "shawarma-poulet",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Chawarma de poulet au four",
+   "t": "Куриная шаурма в духовке"
+  },
+  "tagline": {
+   "fr": "Le sandwich des rues du Liban, fait à la maison sans broche : du poulet mariné toute une nuit, rôti au four, roulé dans un pain libanais avec la toum, la sauce à l'ail.",
+   "t": "Уличный сэндвич Ливана, приготовленный дома без вертела: курица, замаринованная на всю ночь и запечённая в духовке, завёрнута в ливанскую лепёшку с тумом — чесночным соусом."
+  },
+  "region": {
+   "fr": "Levant (Liban, Syrie, Palestine, Jordanie). Le chawarma est né au Levant sous l'Empire ottoman, de la même technique de broche verticale que le döner turc (Wikipédia en anglais ; Wikipédia en arabe pour l'origine au Levant, sous les Ottomans). Son nom viendrait du turc « çevirme », qui veut dire « tourner » (Wikipédia ; Hadia's Lebanese Cuisine). Ce n'est pas un plat marocain.",
+   "t": "Левант (Ливан, Сирия, Палестина, Иордания). Шаурма появилась в Леванте во времена Османской империи благодаря той же технике вертикального вертела, что и турецкий дёнер (Wikipédia на английском; Wikipédia на арабском — о происхождении в Леванте при османах). Её название, по-видимому, происходит от турецкого «çevirme» — «вращать» (Wikipédia; Hadia's Lebanese Cuisine). Это не марокканское блюдо."
+  },
+  "occasion": {
+   "fr": "Au Liban, le chawarma se mange au restaurant et dans les snacks de rue ; Hadia Zebib a mis au point cette version au four pour le faire à la maison, sans broche verticale (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen). C'est l'un des plats de rue les plus connus au monde (Wikipédia en anglais et en arabe).",
+   "t": "В Ливане шаурму едят в ресторанах и уличных закусочных; Hadia Zebib придумала этот вариант в духовке, чтобы готовить её дома без вертикального вертела (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen). Это одно из самых известных в мире уличных блюд (Wikipédia на английском и арабском)."
+  },
+  "img_alt": {
+   "fr": "Chawarma de poulet roulé dans un pain lavash et coupé en deux, avec de la roquette",
+   "t": "Куриная шаурма, завёрнутая в лаваш и разрезанная пополам, с рукколой"
+  },
+  "serving": {
+   "fr": "Dans un pain libanais, un pain arabe fin ou un pain saj : une bonne couche de toum, le poulet, des cornichons au sel, des frites et de la laitue romaine, puis le sandwich roulé serré et passé à la presse ou au four (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie ; The Matbakh). Au Proche-Orient, le chawarma de poulet se sert avec la sauce à l'ail, des frites et des pickles (Wikipédia en anglais et en arabe). Mama's Lebanese Kitchen ajoute des tomates grillées, Alphafoodie des tomates fraîches. Il se mange aussi en assiette, avec du riz, des salades et du houmous (Alphafoodie ; The Matbakh, avec du riz aux vermicelles). Pour les frites, suis la recette de l'application. Restes de poulet : au réfrigérateur dans les 2 heures, à manger dans les 2 jours, réchauffés une seule fois jusqu'à être fumants à cœur (FSA ; Santé Canada : 74 °C). Toum : au réfrigérateur, à manger dans les 4 jours (NCHFP), une semaine au plus (Santé Canada).",
+   "t": "В ливанской лепёшке, тонком арабском хлебе или лепёшке садж: толстый слой тума, курица, солёные огурцы, картофель фри и листья салата ромэн; затем сэндвич плотно сворачивают и прогревают в прессе или в духовке (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie; The Matbakh). На Ближнем Востоке куриную шаурму подают с чесночным соусом, картофелем фри и маринованными овощами (Wikipédia на английском и арабском). Mama's Lebanese Kitchen добавляет помидоры-гриль, Alphafoodie — свежие помидоры. Её едят и на тарелке, с рисом, салатами и хумусом (Alphafoodie; The Matbakh — с рисом с вермишелью). Картофель фри готовьте по рецепту из приложения. Остатки курицы: в холодильник в течение 2 часов, съесть в течение 2 дней, разогревать только один раз, пока в центре не пойдёт пар (FSA; Santé Canada: 74 °C). Тум: хранить в холодильнике и съесть в течение 4 дней (NCHFP), максимум за неделю (Santé Canada)."
+  },
+  "ing.0.group": {
+   "fr": "Le poulet et sa marinade",
+   "t": "Курица и маринад"
+  },
+  "ing.poulet.name": {
+   "fr": "de hauts de cuisse de poulet halal, désossés et sans peau",
+   "t": "куриных бёдер халяль, без кости и без кожи"
+  },
+  "ing.poulet.note": {
+   "fr": "ou des blancs, ou un mélange des deux",
+   "t": "или куриные грудки, или смесь того и другого"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à émincer",
+   "t": "тонко нарезать"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser",
+   "t": "раздавить"
+  },
+  "ing.yaourt.name": {
+   "fr": "de yaourt nature",
+   "t": "натурального йогурта"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "свежевыжатого лимонного сока"
+  },
+  "ing.citron.note": {
+   "fr": "pas de jus en bouteille",
+   "t": "не сок из бутылки"
+  },
+  "ing.vinaigre.name": {
+   "fr": "de vinaigre blanc",
+   "t": "белого уксуса"
+  },
+  "ing.vinaigre.note": {
+   "fr": "ou autant de jus de citron",
+   "t": "или столько же лимонного сока"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.huile.note": {
+   "fr": "ou de tournesol",
+   "t": "или подсолнечного"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "паприки"
+  },
+  "ing.coriandre-moulue.name": {
+   "fr": "de coriandre en poudre",
+   "t": "молотого кориандра"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre blanc moulu",
+   "t": "молотого белого перца"
+  },
+  "ing.poivre.note": {
+   "fr": "ou noir",
+   "t": "или чёрного"
+  },
+  "ing.cardamome.name": {
+   "fr": "de cardamome en poudre",
+   "t": "молотого кардамона"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre en poudre",
+   "t": "молотого имбиря"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle en poudre",
+   "t": "молотой корицы"
+  },
+  "ing.muscade.name": {
+   "fr": "de noix de muscade râpée",
+   "t": "тёртого мускатного ореха"
+  },
+  "ing.1.group": {
+   "fr": "La toum (sauce à l'ail)",
+   "t": "Тум (чесночный соус)"
+  },
+  "ing.ail-toum.name": {
+   "fr": "tête d'ail",
+   "t": "головка чеснока"
+  },
+  "ing.ail-toum.pl": {
+   "fr": "têtes d'ail",
+   "t": "головки чеснока"
+  },
+  "ing.ail-toum.note": {
+   "fr": "bien fraîche, sans germe vert",
+   "t": "очень свежая, без зелёного ростка"
+  },
+  "ing.sel-toum.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.huile-toum.name": {
+   "fr": "d'huile neutre (tournesol)",
+   "t": "растительного масла без запаха (подсолнечного)"
+  },
+  "ing.huile-toum.note": {
+   "fr": "pas d'huile d'olive",
+   "t": "не оливковое масло"
+  },
+  "ing.citron-toum.name": {
+   "fr": "de jus de citron frais",
+   "t": "свежевыжатого лимонного сока"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.pain.name": {
+   "fr": "pain libanais (pain arabe fin)",
+   "t": "ливанская лепёшка (тонкий арабский хлеб)"
+  },
+  "ing.pain.pl": {
+   "fr": "pains libanais (pains arabes fins)",
+   "t": "ливанские лепёшки (тонкий арабский хлеб)"
+  },
+  "ing.pain.note": {
+   "fr": "ou des pains pita ; contient du gluten (blé)",
+   "t": "или лепёшки пита; содержит глютен (пшеница)"
+  },
+  "ing.cornichons.name": {
+   "fr": "cornichons au sel",
+   "t": "солёные огурцы"
+  },
+  "ing.cornichons.note": {
+   "fr": "en fines tranches",
+   "t": "тонкими ломтиками"
+  },
+  "ing.frites.name": {
+   "fr": "frites",
+   "t": "картофель фри"
+  },
+  "ing.frites.note": {
+   "fr": "à faire avec la recette des frites de l'application",
+   "t": "приготовить по рецепту картофеля фри из приложения"
+  },
+  "ing.laitue.name": {
+   "fr": "feuilles de laitue romaine",
+   "t": "листья салата ромэн"
+  },
+  "ing.laitue.note": {
+   "fr": "lavées, en lanières",
+   "t": "вымытые, нарезанные полосками"
+  },
+  "ing.tomates.name": {
+   "fr": "tomates",
+   "t": "помидоры"
+  },
+  "ing.tomates.note": {
+   "fr": "en rondelles ; facultatif",
+   "t": "кружочками; по желанию"
+  },
+  "equipment.0": {
+   "fr": "Une planche et un couteau réservés à la viande crue (FSA)",
+   "t": "Доска и нож только для сырого мяса (FSA)"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier avec un couvercle ou du film alimentaire",
+   "t": "Большая миска с крышкой или пищевой плёнкой"
+  },
+  "equipment.2": {
+   "fr": "Un grand plat à four, d'environ 23 x 33 cm (The Matbakh)",
+   "t": "Большая форма для запекания, примерно 23 × 33 см (The Matbakh)"
+  },
+  "equipment.3": {
+   "fr": "Un thermomètre de cuisson : le seul moyen d'être sûr que le poulet est cuit (Alphafoodie ; Santé Canada)",
+   "t": "Кулинарный термометр — единственный способ убедиться, что курица готова (Alphafoodie; Santé Canada)"
+  },
+  "equipment.4": {
+   "fr": "Un robot mixeur ou un mini-hachoir, pour la toum",
+   "t": "Кухонный комбайн или мини-измельчитель для тума"
+  },
+  "equipment.5": {
+   "fr": "Un bocal propre avec son couvercle, pour garder la toum",
+   "t": "Чистая банка с крышкой для хранения тума"
+  },
+  "equipment.6": {
+   "fr": "Une presse à panini ou une poêle, pour griller les sandwichs (facultatif)",
+   "t": "Пресс для панини или сковорода, чтобы подрумянить сэндвичи (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Coupe le poulet",
+   "t": "Нарежьте курицу"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains. Sur une planche réservée à la viande crue, coupe {{poulet}} de poulet en fines lanières, d'environ 1 cm d'épaisseur. Ne lave pas le poulet.",
+   "t": "Вымойте руки. На доске только для сырого мяса нарежьте {{poulet}} курицы тонкими полосками толщиной около 1 см. Не мойте курицу."
+  },
+  "steps.0.tip": {
+   "fr": "Laver le poulet cru projette les bactéries sur les mains, le plan de travail et les ustensiles (FSA). Tu peux aussi demander au boucher de le couper en fines tranches (Gulf News).",
+   "t": "Когда моют сырую курицу, брызги разносят бактерии на руки, рабочую поверхность и посуду (FSA). Можно также попросить мясника нарезать её тонкими ломтиками (Gulf News)."
+  },
+  "steps.1.title": {
+   "fr": "Prépare l'ail et l'oignon",
+   "t": "Подготовьте чеснок и лук"
+  },
+  "steps.1.text": {
+   "fr": "Écrase {{ail:full}}. Épluche et émince finement {{oignon:full}}.",
+   "t": "Раздавите {{ail:full}}. Очистите и тонко нарежьте лук ({{oignon}} шт.)."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Нарезанный лук и раздавленный чеснок на доске"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Нарезка лука"
+  },
+  "steps.2.title": {
+   "fr": "Prépare la marinade",
+   "t": "Приготовьте маринад"
+  },
+  "steps.2.text": {
+   "fr": "Dans un grand saladier, mets {{yaourt}} de yaourt, {{citron}} de jus de citron, {{vinaigre}} de vinaigre, {{huile}} d'huile et l'ail écrasé. Ajoute {{sel}} de sel, {{paprika}} de paprika, {{coriandre-moulue}} de coriandre en poudre, {{poivre}} de poivre, {{cardamome}} de cardamome, {{gingembre}} de gingembre, {{cannelle}} de cannelle et {{muscade}} de muscade. Fouette jusqu'à ce que la marinade soit bien lisse.",
+   "t": "Положите в большую миску {{yaourt}} йогурта, {{citron}} лимонного сока, {{vinaigre}} уксуса, {{huile}} масла и раздавленный чеснок. Добавьте {{sel}} соли, {{paprika}} паприки, {{coriandre-moulue}} молотого кориандра, {{poivre}} перца, {{cardamome}} кардамона, {{gingembre}} имбиря, {{cannelle}} корицы и {{muscade}} мускатного ореха. Взбивайте венчиком, пока маринад не станет совсем однородным."
+  },
+  "steps.2.tip": {
+   "fr": "Une marinade de chawarma, c'est un acide (citron, vinaigre), une huile et des épices (Hadia's Lebanese Cuisine). Le citron, le vinaigre et le yaourt attendrissent le poulet (Hadia's Lebanese Cuisine ; Alphafoodie).",
+   "t": "Маринад для шаурмы — это кислота (лимон, уксус), масло и специи (Hadia's Lebanese Cuisine). Лимон, уксус и йогурт делают курицу мягче (Hadia's Lebanese Cuisine; Alphafoodie)."
+  },
+  "steps.3.title": {
+   "fr": "Fais mariner une nuit",
+   "t": "Замаринуйте на ночь"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute le poulet et l'oignon dans la marinade, et mélange pour bien enrober chaque morceau. Couvre et mets au réfrigérateur au moins 6 heures, idéalement toute une nuit, mais pas plus de 24 heures.",
+   "t": "Добавьте в маринад курицу и лук и перемешайте, чтобы каждый кусочек был хорошо покрыт. Накройте и уберите в холодильник минимум на 6 часов, лучше на всю ночь, но не больше чем на 24 часа."
+  },
+  "steps.3.tip": {
+   "fr": "Toujours au réfrigérateur, jamais sur le plan de travail (Santé Canada). Pose le saladier bien couvert en bas du réfrigérateur, pour que rien ne coule sur les autres aliments (FSA).",
+   "t": "Только в холодильнике, никогда на рабочем столе (Santé Canada). Поставьте хорошо накрытую миску на нижнюю полку холодильника, чтобы ничего не капало на другие продукты (FSA)."
+  },
+  "steps.4.title": {
+   "fr": "Écrase l'ail de la toum",
+   "t": "Измельчите чеснок для тума"
+  },
+  "steps.4.text": {
+   "fr": "Prépare la toum pendant que le poulet marine, ou la veille. Sépare et épluche les gousses de {{ail-toum:full}}. Mets-les dans le robot avec {{sel-toum}} de sel. Mixe 10 à 20 secondes, arrête et racle les bords. Recommence trois ou quatre fois, jusqu'à obtenir une pâte.",
+   "t": "Приготовьте тум, пока курица маринуется, или накануне. Разберите на зубчики и очистите головки чеснока ({{ail-toum}} шт.). Положите зубчики в комбайн, добавьте {{sel-toum}} соли. Измельчайте 10–20 секунд, остановите и счистите массу со стенок. Повторите три-четыре раза, пока не получится паста."
+  },
+  "steps.4.tip": {
+   "fr": "Prends de l'ail ferme, sans germe vert : il donne un goût amer (Hadia's Lebanese Cuisine ; Alphafoodie). Attention : dans un grand robot, Mama's Lebanese Kitchen conseille au moins 3 têtes d'ail, car les grandes lames attrapent mal une petite quantité.",
+   "t": "Берите плотный чеснок без зелёного ростка: росток даёт горечь (Hadia's Lebanese Cuisine; Alphafoodie). Внимание: для большого комбайна Mama's Lebanese Kitchen советует брать не меньше 3 головок чеснока, потому что большие ножи плохо захватывают маленькое количество."
+  },
+  "steps.5.title": {
+   "fr": "Monte la toum",
+   "t": "Взбейте тум"
+  },
+  "steps.5.text": {
+   "fr": "Remets le robot en marche et ne l'arrête plus. Verse {{huile-toum}} d'huile en filet très fin, petit à petit. Garde à côté {{citron-toum}} de jus de citron. Quand l'ail devient crémeux, alterne : un peu d'huile, puis un peu de jus de citron, jusqu'à tout utiliser. Compte environ 10 minutes.",
+   "t": "Снова включите комбайн и больше его не выключайте. Понемногу вливайте {{huile-toum:full}} очень тонкой струйкой. Держите рядом {{citron-toum:full}}. Когда чеснок станет кремовым, чередуйте: немного масла, затем немного лимонного сока, пока всё не используете. Это займёт около 10 минут."
+  },
+  "steps.5.tip": {
+   "fr": "Va très lentement : si l'huile coule trop vite, la sauce tranche et redevient liquide (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine). Huile neutre seulement : l'huile d'olive a un goût trop fort et rend la toum moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "Действуйте очень медленно: если масло льётся слишком быстро, соус расслаивается и снова становится жидким (Mama's Lebanese Kitchen; Alphafoodie; Hadia's Lebanese Cuisine). Только масло без запаха: у оливкового масла слишком сильный вкус, и тум получается не таким белым (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie)."
+  },
+  "steps.6.title": {
+   "fr": "Garde la toum au frais",
+   "t": "Храните тум в холодильнике"
+  },
+  "steps.6.text": {
+   "fr": "Mets la toum dans un bocal propre et fermé, au réfrigérateur. Elle va raffermir au froid.",
+   "t": "Переложите тум в чистую банку, закройте и уберите в холодильник. На холоде он станет плотнее."
+  },
+  "steps.6.tip": {
+   "fr": "Hadia la trouve encore meilleure quelques heures plus tard, ou le lendemain. Garde-la toujours au froid, à 4 °C ou moins, jamais à température ambiante. Mange-la dans les 4 jours : c'est le délai le plus prudent, celui du NCHFP américain pour l'ail dans l'huile ; Santé Canada donne une semaine au plus.",
+   "t": "Hadia считает, что через несколько часов или на следующий день он ещё вкуснее. Всегда храните его в холоде, при 4 °C или ниже, никогда при комнатной температуре. Съешьте его в течение 4 дней: это самый осторожный срок — его даёт американский NCHFP для чеснока в масле; Santé Canada допускает не больше недели."
+  },
+  "steps.7.title": {
+   "fr": "Préchauffe le four et étale le poulet",
+   "t": "Разогрейте духовку и выложите курицу"
+  },
+  "steps.7.text": {
+   "fr": "Préchauffe le four à 220 °C. Verse le poulet, l'oignon et toute la marinade dans un grand plat à four. Étale bien, en une seule couche.",
+   "t": "Разогрейте духовку до 220 °C. Выложите курицу, лук и весь маринад в большую форму для запекания. Хорошо распределите одним слоем."
+  },
+  "steps.7.tip": {
+   "fr": "Hadia fait cuire le reste de la marinade avec le poulet. Laisse un peu d'espace entre les morceaux : ils rôtissent et grillent au lieu de cuire à la vapeur (Alphafoodie).",
+   "t": "Hadia запекает остаток маринада вместе с курицей. Оставляйте немного места между кусочками: тогда они запекаются и подрумяниваются, а не тушатся на пару (Alphafoodie)."
+  },
+  "steps.8.title": {
+   "fr": "Fais rôtir",
+   "t": "Запекайте"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour 40 minutes environ. À mi-cuisson, remue le poulet une fois.",
+   "t": "Поставьте форму в духовку примерно на 40 минут. В середине запекания один раз перемешайте курицу."
+  },
+  "steps.8.tip": {
+   "fr": "Le temps dépend du four et de la quantité : 40 à 45 minutes chez The Matbakh, environ 50 minutes chez Hadia pour 1 kg, 25 à 30 minutes chez Alphafoodie pour une petite quantité étalée sur une plaque. C'est la cuisson à cœur qui compte : vérifie-la à l'étape suivante.",
+   "t": "Время зависит от духовки и количества: 40–45 минут у The Matbakh, около 50 минут у Hadia на 1 кг, 25–30 минут у Alphafoodie для небольшого количества, разложенного на противне. Главное — чтобы курица пропеклась до самой середины: проверьте это на следующем шаге."
+  },
+  "steps.8.timer.label": {
+   "fr": "Poulet au four",
+   "t": "Курица в духовке"
+  },
+  "steps.8.timer.done": {
+   "fr": "Vérifie la cuisson du poulet.",
+   "t": "Проверьте готовность курицы."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Проверьте готовность"
+  },
+  "steps.9.text": {
+   "fr": "Plante un thermomètre au cœur du morceau le plus épais : il doit indiquer au moins 74 °C. Sans thermomètre, coupe le plus gros morceau : la viande doit être fumante, sans trace de rose, et le jus doit être clair. Sinon, remets au four quelques minutes et vérifie encore.",
+   "t": "Вставьте термометр в середину самого толстого кусочка: он должен показать не меньше 74 °C. Если термометра нет, разрежьте самый крупный кусочек: от мяса должен идти пар, розового цвета быть не должно, а сок должен быть прозрачным. Если нет, верните форму в духовку на несколько минут и проверьте снова."
+  },
+  "steps.9.tip": {
+   "fr": "74 °C pour les morceaux de volaille (Santé Canada ; Alphafoodie). Sans thermomètre : chair fumante, plus rose, jus clair (FSA).",
+   "t": "74 °C для кусков птицы (Santé Canada; Alphafoodie). Без термометра: от мяса идёт пар, розового цвета нет, сок прозрачный (FSA)."
+  },
+  "steps.10.title": {
+   "fr": "Fais griller sous le gril",
+   "t": "Подрумяньте под грилем"
+  },
+  "steps.10.text": {
+   "fr": "Allume le gril du four et compte 2 minutes, en surveillant : les bords doivent griller sans brûler. Si besoin, laisse une minute de plus au plus.",
+   "t": "Включите гриль духовки и засеките 2 минуты, не отходя: края должны подрумяниться, но не подгореть. Если нужно, оставьте ещё максимум на минуту."
+  },
+  "steps.10.tip": {
+   "fr": "Hadia et Alphafoodie passent le plat 2 à 3 minutes sous le gril, pour des bords plus grillés et plus colorés.",
+   "t": "Hadia и Alphafoodie держат форму под грилем 2–3 минуты, чтобы края были более поджаристыми и румяными."
+  },
+  "steps.10.timer.label": {
+   "fr": "Gril",
+   "t": "Гриль"
+  },
+  "steps.10.timer.done": {
+   "fr": "Les bords sont dorés ? Sors le plat. Sinon, une minute de plus au plus.",
+   "t": "Края подрумянились? Достаньте форму. Если нет, ещё максимум минуту."
+  },
+  "steps.11.title": {
+   "fr": "Émince le poulet",
+   "t": "Нарежьте курицу тонко"
+  },
+  "steps.11.text": {
+   "fr": "Laisse reposer le poulet quelques minutes, puis coupe-le en fines lamelles.",
+   "t": "Дайте курице постоять несколько минут, затем нарежьте её тонкими полосками."
+  },
+  "steps.11.tip": {
+   "fr": "Le repos garde le poulet juteux (Alphafoodie). Mama's Lebanese Kitchen l'effiloche finement.",
+   "t": "Отдых сохраняет курицу сочной (Alphafoodie). Mama's Lebanese Kitchen мелко разбирает её на волокна."
+  },
+  "steps.12.title": {
+   "fr": "Garnis les pains",
+   "t": "Начините лепёшки"
+  },
+  "steps.12.text": {
+   "fr": "Étale une bonne couche de toum sur {{pain:full}}. Ajoute le poulet, des {{cornichons}}, des {{frites}}, quelques {{laitue}} et, si tu veux, des {{tomates}}.",
+   "t": "Намажьте толстым слоем тума ливанские лепёшки ({{pain}} шт.). Выложите курицу, солёные огурцы, картофель фри, несколько листьев салата ромэн и, по желанию, помидоры."
+  },
+  "steps.12.tip": {
+   "fr": "Au Liban, le chawarma de poulet se mange avec la toum. Hadia déconseille d'y ajouter de la mayonnaise, du yaourt à l'ail ou une autre sauce : ils peuvent atténuer le goût des autres ingrédients.",
+   "t": "В Ливане куриную шаурму едят с тумом. Hadia не советует добавлять майонез, чесночный йогурт или другой соус: они могут заглушить вкус остальных ингредиентов."
+  },
+  "steps.13.title": {
+   "fr": "Roule, fais griller et sers",
+   "t": "Сверните, подрумяньте и подавайте"
+  },
+  "steps.13.text": {
+   "fr": "Roule chaque sandwich bien serré. Si tu veux, passe-le dans une presse à panini, une poêle ou le four, jusqu'à ce qu'il soit doré et croustillant. Sers aussitôt.",
+   "t": "Плотно сверните каждый сэндвич. По желанию прогрейте его в прессе для панини, на сковороде или в духовке, пока он не станет золотистым и хрустящим. Сразу подавайте."
+  },
+  "steps.14.title": {
+   "fr": "Range les restes",
+   "t": "Уберите остатки"
+  },
+  "steps.14.text": {
+   "fr": "Mets les restes de poulet au réfrigérateur dans les 2 heures, et mange-les dans les 2 jours. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient fumants à cœur.",
+   "t": "Уберите остатки курицы в холодильник в течение 2 часов и съешьте их в течение 2 дней. Разогревайте их только один раз, пока в центре не пойдёт пар."
+  },
+  "steps.14.tip": {
+   "fr": "Santé Canada indique 74 °C pour réchauffer les restes ; la FSA demande qu'ils soient fumants partout, et réchauffés une seule fois.",
+   "t": "Santé Canada указывает 74 °C для разогрева остатков; FSA требует, чтобы они были горячими, с паром, повсюду и разогревались только один раз."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des hauts de cuisse : un peu plus gras, ils restent juteux. Le blanc marche aussi, mais il sèche vite s'il cuit trop.",
+   "t": "Берите бёдра: они чуть жирнее и остаются сочными. Грудка тоже подходит, но быстро пересыхает, если её передержать."
+  },
+  "secrets.0.source": {
+   "fr": "Alphafoodie (Samira Kazan) ; Gulf News, avec le restaurant libanais Zahrat Lebnan ; Mama's Lebanese Kitchen (75 % de blanc et 25 % de cuisse)",
+   "t": "Alphafoodie (Samira Kazan); Gulf News, вместе с ливанским рестораном Zahrat Lebnan; Mama's Lebanese Kitchen (75 % грудки и 25 % бедра)"
+  },
+  "secrets.1.text": {
+   "fr": "Coupe le poulet en fines lanières : la marinade touche plus de surface, et chaque bouchée a plus de goût.",
+   "t": "Нарежьте курицу тонкими полосками: маринад покрывает большую поверхность, и каждый кусочек вкуснее."
+  },
+  "secrets.1.source": {
+   "fr": "Alphafoodie ; Mama's Lebanese Kitchen ; Gulf News (Zahrat Lebnan)",
+   "t": "Alphafoodie, Mama's Lebanese Kitchen и Gulf News (Zahrat Lebnan)"
+  },
+  "secrets.2.text": {
+   "fr": "Une marinade de chawarma a trois parties : un acide (citron, vinaigre), une huile et les épices.",
+   "t": "В маринаде для шаурмы три составляющие: кислота (лимон, уксус), масло и специи."
+  },
+  "secrets.2.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Gulf News (Zahrat Lebnan : citron, vinaigre de cidre, huile d'olive, épices) ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine; Gulf News (Zahrat Lebnan: лимон, яблочный уксус, оливковое масло, специи); Alphafoodie"
+  },
+  "secrets.3.text": {
+   "fr": "Laisse mariner longtemps, toujours au réfrigérateur : une nuit chez Mama's Lebanese Kitchen, de 6 à 24 heures chez Hadia, et jamais plus de 24 heures.",
+   "t": "Маринуйте долго, всегда в холодильнике: одну ночь у Mama's Lebanese Kitchen, от 6 до 24 часов у Hadia, и никогда не дольше 24 часов."
+  },
+  "secrets.3.source": {
+   "fr": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; Alphafoodie (24 heures au plus)",
+   "t": "Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine; Alphafoodie (не больше 24 часов)"
+  },
+  "secrets.4.text": {
+   "fr": "Un four bien chaud, à 220 °C, puis 2 à 3 minutes sous le gril pour griller les bords.",
+   "t": "Хорошо разогретая духовка, 220 °C, затем 2–3 минуты под грилем, чтобы подрумянить края."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie ; The Matbakh (220 °C)",
+   "t": "Hadia's Lebanese Cuisine, Alphafoodie и The Matbakh (220 °C)"
+  },
+  "secrets.5.text": {
+   "fr": "La toum est la sauce du chawarma de poulet ; le tarator, la sauce au tahini, va avec le chawarma de viande et les falafels.",
+   "t": "Тум — соус для куриной шаурмы; таратор, соус из тахини, подают к шаурме из мяса и к фалафелю."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Wikipédia en anglais et en arabe",
+   "t": "Hadia's Lebanese Cuisine; Wikipédia на английском и арабском"
+  },
+  "secrets.6.text": {
+   "fr": "Pour la toum, verse l'huile en filet très fin, robot en marche, et alterne avec le citron : c'est une émulsion, comme une mayonnaise.",
+   "t": "Для тума вливайте масло очень тонкой струйкой при работающем комбайне и чередуйте с лимонным соком: это эмульсия, как майонез."
+  },
+  "secrets.6.source": {
+   "fr": "Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine",
+   "t": "Mama's Lebanese Kitchen, Alphafoodie и Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Huile neutre pour la toum, jamais d'huile d'olive.",
+   "t": "Для тума — только масло без запаха, никогда не оливковое."
+  },
+  "secrets.7.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine, Mama's Lebanese Kitchen и Alphafoodie"
+  },
+  "secrets.8.text": {
+   "fr": "Ail frais et ferme, sans germe vert, pour une toum qui n'est pas amère.",
+   "t": "Свежий плотный чеснок без зелёного ростка — тогда тум не будет горчить."
+  },
+  "secrets.8.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine; Alphafoodie"
+  },
+  "secrets.9.text": {
+   "fr": "Autrefois, la toum se faisait au mortier : l'ail pilé avec le sel, puis l'huile ajoutée par toutes petites quantités, pendant 30 à 40 minutes, avec quelques gouttes de citron.",
+   "t": "Раньше тум делали в ступке: чеснок толкли с солью, затем добавляли масло совсем маленькими порциями в течение 30–40 минут, с несколькими каплями лимонного сока."
+  },
+  "secrets.9.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "secrets.10.text": {
+   "fr": "Si ta toum tranche, ne la jette pas : Mama's Lebanese Kitchen s'en sert comme marinade pour du poulet grillé ; Alphafoodie recommence avec un peu d'ail et y ajoute peu à peu la sauce ratée.",
+   "t": "Если тум расслоился, не выбрасывайте его: Mama's Lebanese Kitchen использует его как маринад для курицы-гриль; Alphafoodie начинает заново с небольшим количеством чеснока и понемногу добавляет неудавшийся соус."
+  },
+  "secrets.10.source": {
+   "fr": "Mama's Lebanese Kitchen ; Alphafoodie",
+   "t": "Mama's Lebanese Kitchen; Alphafoodie"
+  },
+  "secrets.11.text": {
+   "fr": "Roule le sandwich bien serré et passe-le à la presse ou au four : il devient croustillant.",
+   "t": "Плотно сверните сэндвич и прогрейте его в прессе или в духовке: он станет хрустящим."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie (à la poêle)",
+   "t": "Hadia's Lebanese Cuisine; Alphafoodie (на сковороде)"
+  },
+  "secrets.12.text": {
+   "fr": "Un thermomètre est le seul moyen d'être sûr que le poulet est cuit (74 °C), sans le dessécher.",
+   "t": "Термометр — единственный способ быть уверенным, что курица готова (74 °C), и не пересушить её."
+  },
+  "secrets.12.source": {
+   "fr": "Alphafoodie ; Santé Canada",
+   "t": "Alphafoodie; Santé Canada"
+  },
+  "secrets.13.text": {
+   "fr": "Prends des cornichons au sel, à la libanaise.",
+   "t": "Берите солёные огурцы, как в Ливане."
+  },
+  "secrets.13.source": {
+   "fr": "Mama's Lebanese Kitchen (« salty cucumber pickles ») ; Hadia's Lebanese Cuisine (pickles en fines tranches)",
+   "t": "Mama's Lebanese Kitchen («salty cucumber pickles»); Hadia's Lebanese Cuisine (соленья тонкими ломтиками)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : l'eau projette les bactéries sur les mains, le plan de travail et les ustensiles (FSA).",
+   "t": "Мыть сырую курицу: брызги воды разносят бактерии на руки, рабочую поверхность и посуду (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser mariner sur le plan de travail : la marinade se fait au réfrigérateur (Santé Canada).",
+   "t": "Мариновать на рабочем столе: мариновать нужно в холодильнике (Santé Canada)."
+  },
+  "mistakes.2": {
+   "fr": "Verser sur le poulet cuit de la marinade qui a touché la viande crue (Santé Canada).",
+   "t": "Поливать готовую курицу маринадом, который касался сырого мяса (Santé Canada)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire le blanc de poulet : il devient sec (Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "Передерживать куриную грудку: она становится сухой (Mama's Lebanese Kitchen; Alphafoodie)."
+  },
+  "mistakes.4": {
+   "fr": "Se fier à la couleur seule : vérifie 74 °C au cœur avec un thermomètre (Alphafoodie ; Santé Canada).",
+   "t": "Полагаться только на цвет: проверьте термометром, что в центре 74 °C (Alphafoodie; Santé Canada)."
+  },
+  "mistakes.5": {
+   "fr": "Verser l'huile trop vite dans la toum : elle tranche (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine).",
+   "t": "Слишком быстро вливать масло в тум: он расслаивается (Mama's Lebanese Kitchen; Alphafoodie; Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.6": {
+   "fr": "Faire la toum à l'huile d'olive : goût trop fort, couleur moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "Делать тум на оливковом масле: вкус слишком сильный, цвет не такой белый (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie)."
+  },
+  "mistakes.7": {
+   "fr": "Prendre de l'ail germé : la toum devient amère (Hadia's Lebanese Cuisine ; Alphafoodie).",
+   "t": "Брать проросший чеснок: тум становится горьким (Hadia's Lebanese Cuisine; Alphafoodie)."
+  },
+  "mistakes.8": {
+   "fr": "Garder la toum à température ambiante, ou trop longtemps au réfrigérateur (Santé Canada ; NCHFP).",
+   "t": "Хранить тум при комнатной температуре или слишком долго в холодильнике (Santé Canada; NCHFP)."
+  },
+  "mistakes.9": {
+   "fr": "Servir le chawarma de poulet avec de la mayonnaise ou du yaourt à l'ail : au Liban, c'est la toum (Hadia's Lebanese Cuisine).",
+   "t": "Подавать куриную шаурму с майонезом или чесночным йогуртом: в Ливане её едят с тумом (Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.10": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur, ou les réchauffer plus d'une fois (FSA).",
+   "t": "Оставлять остатки вне холодильника дольше 2 часов или разогревать их больше одного раза (FSA)."
+  },
+  "variants.0": {
+   "fr": "Avec la sauce au tahini (tarator) à la place de la toum. Hadia précise que ce n'est pas la sauce traditionnelle du chawarma de poulet : elle va plutôt avec le chawarma de viande et les falafels (Hadia's Lebanese Cuisine ; Wikipédia en anglais).",
+   "t": "С соусом из тахини (таратором) вместо тума. Hadia уточняет, что это не традиционный соус для куриной шаурмы: он больше подходит к шаурме из мяса и к фалафелю (Hadia's Lebanese Cuisine; Wikipédia на английском)."
+  },
+  "variants.1": {
+   "fr": "La toum « facile » de Hadia : on y ajoute une crème de fécule de maïs cuite et refroidie, qui la rend plus facile à réussir (Hadia's Lebanese Cuisine).",
+   "t": "«Лёгкий» тум от Hadia: в него добавляют сваренный и остывший крем из кукурузного крахмала, с ним тум проще удаётся (Hadia's Lebanese Cuisine)."
+  },
+  "variants.2": {
+   "fr": "À la poêle : 12 à 15 minutes à feu moyen-vif, par petites quantités (Alphafoodie).",
+   "t": "На сковороде: 12–15 минут на огне выше среднего, небольшими порциями (Alphafoodie)."
+  },
+  "variants.3": {
+   "fr": "À la friteuse à air : 10 à 14 minutes à 205 °C (400 °F), en secouant à mi-cuisson (Alphafoodie).",
+   "t": "В аэрогриле: 10–14 минут при 205 °C (400 °F), встряхнув в середине приготовления (Alphafoodie)."
+  },
+  "variants.4": {
+   "fr": "Au grill à panini : environ 15 minutes à feu moyen. Mama's Lebanese Kitchen préfère cette méthode, qui garde le poulet plus juteux que le four.",
+   "t": "В гриле для панини: около 15 минут на среднем огне. Mama's Lebanese Kitchen предпочитает этот способ: курица остаётся сочнее, чем в духовке."
+  },
+  "variants.5": {
+   "fr": "Avec des tomates et un oignon en tranches, cuits dans le plat avec le poulet (The Matbakh).",
+   "t": "С помидорами и нарезанным кольцами луком, запечёнными в форме вместе с курицей (The Matbakh)."
+  },
+  "variants.6": {
+   "fr": "Façon Zahrat Lebnan, restaurant libanais d'Abou Dhabi : poulet mariné 4 à 6 heures, cuit 2 heures à couvert entre 130 et 150 °C, puis effiloché ; environ 100 g par pain, avec une sauce au tahini, des tomates grillées, des frites, du cerfeuil ou du persil et de la coriandre (Gulf News).",
+   "t": "По рецепту Zahrat Lebnan, ливанского ресторана в Абу-Даби: курицу маринуют 4–6 часов, готовят 2 часа под крышкой при 130–150 °C, затем разбирают на волокна; около 100 г на лепёшку, с соусом из тахини, помидорами-гриль, картофелем фри, кервелем или петрушкой и кинзой (Gulf News)."
+  },
+  "variants.7": {
+   "fr": "Sandwich croustillant d'Alphafoodie : des chips dans le sandwich, l'extérieur badigeonné d'huile d'olive, de pâte de piment et d'un peu de mélasse de grenade, puis grillé à la poêle.",
+   "t": "Хрустящий сэндвич от Alphafoodie: внутрь кладут чипсы, снаружи смазывают оливковым маслом, пастой из острого перца и небольшим количеством гранатовой патоки, затем обжаривают на сковороде."
+  },
+  "variants.8": {
+   "fr": "Chawarma de viande à la libanaise (bœuf ou agneau halal) : avec le tarator, des tomates, du persil, de l'oignon au sumac et des pickles (Taste of Beirut ; Hadia's Lebanese Cuisine).",
+   "t": "Шаурма из мяса по-ливански (говядина или баранина халяль): с таратором, помидорами, петрушкой, луком с сумахом и соленьями (Taste of Beirut; Hadia's Lebanese Cuisine)."
+  },
+  "variants.9": {
+   "fr": "En Syrie, le chawarma se sert surtout avec la sauce à l'ail ; en Palestine, avec du sumac, des oignons et du tahini (Wikipédia en anglais).",
+   "t": "В Сирии шаурму подают в основном с чесночным соусом; в Палестине — с сумахом, луком и тахини (Wikipédia на английском)."
+  },
+  "variants.10": {
+   "fr": "Dans certains restaurants libanais, une salade de chou à la mayonnaise remplace les frites (Mama's Lebanese Kitchen).",
+   "t": "В некоторых ливанских ресторанах вместо картофеля фри кладут капустный салат с майонезом (Mama's Lebanese Kitchen)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail-toum.pl5": {
+   "fr": "tête d'ail / têtes d'ail",
+   "t": "головок чеснока"
+  },
+  "ing.pain.pl5": {
+   "fr": "pain libanais (pain arabe fin) / pains libanais (pains arabes fins)",
+   "t": "ливанских лепёшек (тонкий арабский хлеб)"
+  }
+ }
+}

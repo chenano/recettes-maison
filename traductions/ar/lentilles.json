@@ -228,7 +228,7 @@
   },
   "steps.0.tip": {
    "fr": "Pas besoin de trempage : les recettes avec viande de Choumicha et de My Moroccan Food mettent les lentilles sèches. Si tu les as fait tremper, elles cuiront plus vite : surveille-les. Sans trempage, les lentilles brunes du Maroc peuvent demander bien plus de 40 minutes (1 h 30 à 2 h à la marmite selon le blog Mamatkamal) : goûte-les avant d'ajouter les pommes de terre.",
-   "t": "لا حاجة إلى النقع: ففي وصفات Choumicha وMy Moroccan Food باللحم يُوضع العدس يابسًا. وإذا نقعته، فسينضج أسرع: راقبه. ودون نقع، قد يحتاج العدس البني المغربي إلى أكثر من 40 دقيقة بكثير (من 1 ساعة و30 دقيقة إلى 2 ساعة في القدر حسب مدونة Mamatkamal): تذوّقه قبل إضافة البطاطس."
+   "t": "لا حاجة إلى النقع: ففي وصفات Choumicha وMy Moroccan Food باللحم يُوضع العدس يابسًا. وإذا نقعته، فسينضج أسرع: راقبه. ودون نقع، قد يحتاج العدس البني المغربي إلى أكثر من 40 دقيقة بكثير (من ساعة و30 دقيقة إلى ساعتين في القدر حسب مدونة Mamatkamal): تذوّقه قبل إضافة البطاطس."
   },
   "steps.1.title": {
    "fr": "Coupe l'agneau",
@@ -380,7 +380,7 @@
   },
   "steps.12.text": {
    "fr": "Ne laisse pas le plat plus de 2 heures à température ambiante : mets les restes au réfrigérateur dans une boîte fermée et mange-les dans les 3 jours. S'il y en a plus d'un litre, répartis-les en petites portions pour qu'ils refroidissent vite. Réchauffe à couvert jusqu'à ce que la vapeur s'échappe, avec un peu d'eau chaude si c'est trop épais.",
-   "t": "لا تترك الطبق أكثر من 2 ساعة في درجة حرارة الغرفة: ضع البقايا في الثلاجة في علبة مغلقة وكُلها خلال 3 أيام. إذا كانت أكثر من لتر، فوزّعها في حصص صغيرة لتبرد بسرعة. سخّنها مغطاة حتى يتصاعد منها البخار، مع قليل من الماء الساخن إذا كانت كثيفة جدًا."
+   "t": "لا تترك الطبق أكثر من ساعتين في درجة حرارة الغرفة: ضع البقايا في الثلاجة في علبة مغلقة وكُلها خلال 3 أيام. إذا كانت أكثر من لتر، فوزّعها في حصص صغيرة لتبرد بسرعة. سخّنها مغطاة حتى يتصاعد منها البخار، مع قليل من الماء الساخن إذا كانت كثيفة جدًا."
   },
   "secrets.0.text": {
    "fr": "Fais d'abord cuire l'agneau seul dans la sauce : les lentilles cuisent bien plus vite que la viande. Ajoute-les quand les morceaux commencent à s'attendrir, sans être encore fondants.",
@@ -388,7 +388,7 @@
   },
   "secrets.0.source": {
    "fr": "My Moroccan Food (viande « à mi-cuisson », environ 1 heure, avant les lentilles) ; Bladi (viande 40 minutes avant les lentilles) ; Choumicha (viande séchée 30 à 40 minutes avant les lentilles et les carottes)",
-   "t": "My Moroccan Food (اللحم «في منتصف الطهي»، نحو 1 ساعة، قبل العدس)؛ Bladi (اللحم 40 دقيقة قبل العدس)؛ Choumicha (اللحم المجفف من 30 إلى 40 دقيقة قبل العدس والجزر)"
+   "t": "My Moroccan Food (اللحم «في منتصف الطهي»، نحو ساعة، قبل العدس)؛ Bladi (اللحم 40 دقيقة قبل العدس)؛ Choumicha (اللحم المجفف من 30 إلى 40 دقيقة قبل العدس والجزر)"
   },
   "secrets.1.text": {
    "fr": "Les carottes cuisent avec les lentilles ; les pommes de terre n'arrivent que 20 minutes avant la fin, sinon elles se défont.",
@@ -464,7 +464,7 @@
   },
   "secrets.10.text": {
    "fr": "Le trempage n'est pas obligatoire : les versions avec viande mettent les lentilles sèches. Trempées (1 heure à une nuit), elles cuisent plus vite.",
-   "t": "النقع ليس ضروريًا: ففي النسخ باللحم يُوضع العدس يابسًا. وإذا نُقع (من 1 ساعة إلى ليلة كاملة)، نضج أسرع."
+   "t": "النقع ليس ضروريًا: ففي النسخ باللحم يُوضع العدس يابسًا. وإذا نُقع (من ساعة إلى ليلة كاملة)، نضج أسرع."
   },
   "secrets.10.source": {
    "fr": "Choumicha et My Moroccan Food (sans trempage) ; Morocco World News 2019 et 2020, Cooking With Alia n° 094 et n° 462 (avec trempage)",
@@ -488,7 +488,7 @@
   },
   "mistakes.0": {
    "fr": "Mettre les lentilles avec l'agneau cru : la viande doit d'abord cuire seule jusqu'à commencer à s'attendrir, car elle cuit bien plus longtemps que les lentilles (My Moroccan Food : environ 1 heure, puis 40 minutes pour les lentilles ; Choumicha et Bladi cuisent aussi la viande d'abord).",
-   "t": "وضع العدس مع لحم الخروف النيء: يجب أن يُطهى اللحم وحده أولًا حتى يبدأ في الطراوة، لأنه يحتاج إلى وقت أطول بكثير من العدس (My Moroccan Food: نحو 1 ساعة، ثم 40 دقيقة للعدس؛ وChoumicha وBladi يطهوان اللحم أولًا أيضًا)."
+   "t": "وضع العدس مع لحم الخروف النيء: يجب أن يُطهى اللحم وحده أولًا حتى يبدأ في الطراوة، لأنه يحتاج إلى وقت أطول بكثير من العدس (My Moroccan Food: نحو ساعة، ثم 40 دقيقة للعدس؛ وChoumicha وBladi يطهوان اللحم أولًا أيضًا)."
   },
   "mistakes.1": {
    "fr": "Ajouter les pommes de terre en même temps que les lentilles, ou les couper trop petites : elles se défont (Cooking With Alia ; Choumicha et My Moroccan Food ajoutent ces légumes en fin de cuisson).",
@@ -516,7 +516,7 @@
   },
   "mistakes.7": {
    "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
-   "t": "ترك البقايا أكثر من 2 ساعة في درجة حرارة الغرفة، أو حفظها أكثر من 3 أيام في الثلاجة (Anses)."
+   "t": "ترك البقايا أكثر من ساعتين في درجة حرارة الغرفة، أو حفظها أكثر من 3 أيام في الثلاجة (Anses)."
   },
   "variants.0": {
    "fr": "Au bœuf : même méthode avec des morceaux de bœuf halal (blog Mamatkamal : 200 g de bœuf pour 350 g de lentilles ; Bladi met 300 g de « viande rouge » pour 300 g de lentilles).",

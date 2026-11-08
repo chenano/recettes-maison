@@ -67,8 +67,8 @@
    "t": "أعواد كرفس بأوراقها"
   },
   "ing.celeri.note": {
-   "fr": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
-   "t": "في المغرب يُستعمل كرفس رقيق الأوراق، قريب من الكرفس الصيني: حزمة صغيرة"
+   "fr": "ou, à la place de chaque branche, une petite botte de céleri chinois (à feuilles fines, il ressemble à une botte de persil) : c'est celui qu'on utilise au Maroc",
+   "t": "أو، بدل كل عود، حزمة صغيرة من الكرفس الصيني (رقيق الأوراق، يشبه حزمة البقدونس): وهو الذي يُستعمل في المغرب"
   },
   "ing.persil.name": {
    "fr": "de persil plat",
@@ -316,7 +316,7 @@
   },
   "steps.7.text": {
    "fr": "Verse l'eau ({{eau}}) et porte à ébullition à feu vif. Couvre et laisse cuire 1 heure à feu moyen, en remuant de temps en temps, jusqu'à ce que les pois chiches soient tendres. En cocotte-minute, compte 20 à 30 minutes après la mise sous pression.",
-   "t": "اسكب الماء ({{eau}}) واتركه حتى يغلي على نار قوية. غطِّ القدر واتركه يُطهى 1 ساعة على نار متوسطة، مع التحريك من حين لآخر، حتى ينضج الحمص. في طنجرة الضغط، احسب من 20 إلى 30 دقيقة بعد أن تبلغ الطنجرة الضغط."
+   "t": "اسكب الماء ({{eau}}) واتركه حتى يغلي على نار قوية. غطِّ القدر واترك الحساء يُطهى ساعة على نار متوسطة، مع التحريك من حين لآخر، حتى ينضج الحمص. في طنجرة الضغط، احسب من 20 إلى 30 دقيقة بعد أن تبلغ الطنجرة الضغط."
   },
   "steps.7.timer.label": {
    "fr": "Cuisson du bouillon",
@@ -448,7 +448,7 @@
   },
   "secrets.8.text": {
    "fr": "Après la liaison, laisse mijoter jusqu'à ce que l'écume formée par la tadouira ait disparu.",
-   "t": "بعد التكثيف، اترك الحساء على نار هادئة حتى تختفي الرغوة التي تُكوّنها التدويرة."
+   "t": "بعد التكثيف، اترك الحساء ينضج ببطء حتى تختفي الرغوة التي تُكوّنها التدويرة."
   },
   "secrets.8.source": {
    "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
@@ -548,7 +548,7 @@
   },
   "variants.4": {
    "fr": "Tadouira à l'ancienne, fermentée : au levain chez les grands-mères, ce qui rendait la harira plus digeste et légèrement acidulée (Gâteau et cuisine Rachida), ou avec de la levure et 1 à 2 jours de fermentation (Taste of Maroc).",
-   "t": "تدويرة على الطريقة القديمة، مخمّرة: بالخميرة الطبيعية عند الجدات، مما كان يجعل الحريرة أسهل هضمًا وحامضة قليلًا (Gâteau et cuisine Rachida)، أو بخميرة الخبز مع تخمير من 1 إلى 2 يوم (Taste of Maroc)."
+   "t": "تدويرة على الطريقة القديمة، مخمّرة: بالخميرة الطبيعية عند الجدات، مما كان يجعل الحريرة أسهل هضمًا وحامضة قليلًا (Gâteau et cuisine Rachida)، أو بخميرة الخبز مع تخمير من يوم إلى يومين (Taste of Maroc)."
   },
   "variants.5": {
    "fr": "Liaison à la fécule de maïs délayée dans de l'eau : version du Royal Mansour, et solution sans gluten selon Taste of Maroc.",

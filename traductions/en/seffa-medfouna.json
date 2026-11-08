@@ -1,0 +1,594 @@
+{
+ "_slug": "seffa-medfouna",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Seffa medfouna au poulet et aux cheveux d'ange",
+   "t": "Seffa medfouna with chicken and angel hair vermicelli"
+  },
+  "darija": {
+   "fr": "Seffa medfouna",
+   "t": "Seffa medfouna"
+  },
+  "tagline": {
+   "fr": "Un dôme de cheveux d'ange cuits à la vapeur et beurrés cache un poulet fondant dans sa sauce aux oignons ; dessus, de la cannelle, du sucre glace et des amandes frites.",
+   "t": "A dome of steamed, buttered angel hair vermicelli hides melt-in-the-mouth chicken in its onion sauce; on top go cinnamon, icing sugar and fried almonds."
+  },
+  "region": {
+   "fr": "Maroc",
+   "t": "Morocco"
+  },
+  "occasion": {
+   "fr": "Fêtes, réceptions et grandes occasions ; aussi un repas de famille",
+   "t": "Celebrations, receptions and special occasions; also a family meal"
+  },
+  "img_alt": {
+   "fr": "Seffa de vermicelles en dôme, décorée de lignes de cannelle et de sucre glace, dans un plat bleu, au Maroc",
+   "t": "Vermicelli seffa shaped into a dome, decorated with lines of cinnamon and icing sugar, in a blue dish, in Morocco"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, dès qu'elle est montée, au centre de la table : selon la tradition, chacun mange de son côté du plat (Taste of Maroc). Mets à côté de petits bols de sucre glace, de cannelle et d'amandes, pour ceux qui en veulent plus (Taste of Maroc). Choumicha l'accompagne de lait parfumé à l'eau de fleur d'oranger. Restes : au réfrigérateur dans les 2 heures, à manger dans les 48 heures, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses : dans les 3 jours).",
+   "t": "Serve it very hot, as soon as it is assembled, in the centre of the table: traditionally, everyone eats from their own side of the dish (Taste of Maroc). Put small bowls of icing sugar, cinnamon and almonds alongside for anyone who wants more (Taste of Maroc). Choumicha serves it with milk flavoured with orange blossom water. Leftovers: into the fridge within 2 hours, to be eaten within 48 hours, reheated only once until piping hot (FSA; Anses: within 3 days)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet en sauce aux oignons",
+   "t": "Chicken in onion sauce"
+  },
+  "ing.poulet.name": {
+   "fr": "de poulet halal, coupé en morceaux",
+   "t": "halal chicken, cut into pieces"
+  },
+  "ing.poulet.note": {
+   "fr": "un poulet entier ; Choumicha prend un poulet de 1,5 kg pour 6",
+   "t": "a whole chicken; Choumicha uses a 1.5 kg chicken for 6"
+  },
+  "ing.oignons.name": {
+   "fr": "d'oignons",
+   "t": "onions"
+  },
+  "ing.oignons.note": {
+   "fr": "émincés finement",
+   "t": "thinly sliced"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "râpées ou écrasées",
+   "t": "grated or crushed"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "smen (aged salted butter)"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "adjust at the end"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "saffron threads"
+  },
+  "ing.safran.note": {
+   "fr": "Choumicha en compte 8",
+   "t": "Choumicha counts out 8 threads"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "cinnamon stick"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "cinnamon sticks"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "et un peu d'eau chaude en plus si ça attache",
+   "t": "plus a little extra hot water if it starts to stick"
+  },
+  "ing.1.group": {
+   "fr": "Vermicelles à la vapeur",
+   "t": "Steamed vermicelli"
+  },
+  "ing.vermicelles.name": {
+   "fr": "de vermicelles très fins « cheveux d'ange » (chaariya)",
+   "t": "very fine “angel hair” vermicelli (chaariya)"
+  },
+  "ing.vermicelles.note": {
+   "fr": "en petits morceaux ; s'ils sont longs, casse-les",
+   "t": "in short pieces; if the strands are long, break them up"
+  },
+  "ing.huile-vermicelles.name": {
+   "fr": "d'huile neutre (tournesol), et un peu plus pour huiler le panier",
+   "t": "neutral oil (sunflower), plus a little extra for oiling the steamer basket"
+  },
+  "ing.eau-vermicelles.name": {
+   "fr": "d'eau, pour arroser les vermicelles",
+   "t": "water, for sprinkling the vermicelli"
+  },
+  "ing.sel-vermicelles.name": {
+   "fr": "de sel fin, pour l'eau d'arrosage",
+   "t": "fine salt, for the sprinkling water"
+  },
+  "ing.eau-couscoussier.name": {
+   "fr": "eau",
+   "t": "water"
+  },
+  "ing.eau-couscoussier.note": {
+   "fr": "pour remplir le bas du couscoussier à moitié environ",
+   "t": "to fill the bottom of the couscoussier (couscous steamer) about halfway"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.beurre.note": {
+   "fr": "un peu ramolli",
+   "t": "slightly softened"
+  },
+  "ing.2.group": {
+   "fr": "Décor",
+   "t": "Decoration"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (sans peau)",
+   "t": "blanched almonds (skins removed)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "un fond d'huile neutre",
+   "t": "a thin layer of neutral oil"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "for frying the almonds"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "icing sugar"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "ground cinnamon"
+  },
+  "equipment.0": {
+   "fr": "Couscoussier (marmite et panier vapeur), ou grande marmite surmontée d'un panier vapeur",
+   "t": "Couscoussier (pot and steamer basket), or a large pot topped with a steamer basket"
+  },
+  "equipment.1": {
+   "fr": "Grande marmite à fond épais avec couvercle, pour le poulet",
+   "t": "Large heavy-based pot with a lid, for the chicken"
+  },
+  "equipment.2": {
+   "fr": "Très grand plat creux ou bassine, pour défaire et arroser les vermicelles",
+   "t": "Very large deep dish or basin, for breaking up and sprinkling the vermicelli"
+  },
+  "equipment.3": {
+   "fr": "Deux fourchettes",
+   "t": "Two forks"
+  },
+  "equipment.4": {
+   "fr": "Petite poêle, écumoire et papier absorbant, pour les amandes",
+   "t": "Small frying pan, slotted spoon and kitchen paper, for the almonds"
+  },
+  "equipment.5": {
+   "fr": "Mortier et pilon, ou mixeur, pour concasser les amandes",
+   "t": "Pestle and mortar, or a blender, for crushing the almonds"
+  },
+  "equipment.6": {
+   "fr": "Grand plat de service rond",
+   "t": "Large round serving dish"
+  },
+  "equipment.7": {
+   "fr": "Passoire fine, pour le sucre glace",
+   "t": "Fine sieve, for the icing sugar"
+  },
+  "equipment.8": {
+   "fr": "Thermomètre de cuisine (facultatif)",
+   "t": "Cooking thermometer (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Prépare les oignons, l'ail et les herbes",
+   "t": "Prepare the onions, garlic and herbs"
+  },
+  "steps.0.text": {
+   "fr": "Émince finement {{oignons}} d'oignons. Râpe ou écrase {{ail:full}}. Hache {{persil}} de persil et {{coriandre}} de coriandre, mélange-les, puis partage-les en deux tas. Si le boucher ne l'a pas fait, coupe {{poulet}} de poulet en morceaux.",
+   "t": "Thinly slice {{oignons}} onions. Grate or crush {{ail:full}}. Chop {{persil}} parsley and {{coriandre}} coriander, mix them together, then divide them into two piles. If the butcher hasn't done it, cut {{poulet}} chicken into pieces."
+  },
+  "steps.0.tip": {
+   "fr": "Après avoir touché le poulet cru, lave-toi les mains et nettoie la planche et le couteau avant de t'en servir pour autre chose (Anses).",
+   "t": "After handling raw chicken, wash your hands and clean the board and knife before using them for anything else (Anses)."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a chopping board"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir le poulet aux épices",
+   "t": "Sauté the chicken with the spices"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande marmite à fond épais, mets le poulet, les oignons, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran émietté et {{cannelle-baton:full}}. Fais revenir 10 min à feu moyen-doux, en remuant souvent pour que rien n'attache.",
+   "t": "Put the chicken, onions, garlic and {{huile}} olive oil in a large heavy-based pot. Add {{gingembre}} ginger, {{curcuma}} turmeric, {{poivre}} pepper, {{sel}} salt, {{safran}} crumbled saffron and {{cannelle-baton:full}}. Sauté for 10 min over medium-low heat, stirring often so that nothing sticks."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poulet aux épices",
+   "t": "Spiced chicken"
+  },
+  "steps.1.timer.done": {
+   "fr": "Ajoute le smen, la moitié des herbes et l'eau.",
+   "t": "Add the smen, half the herbs and the water."
+  },
+  "steps.2.title": {
+   "fr": "Laisse mijoter à couvert",
+   "t": "Cover and simmer"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{smen}} de smen, la moitié des herbes et {{eau}} d'eau. Couvre et laisse mijoter 45 min à feu moyen-doux, en remuant de temps en temps. Le poulet cuit surtout dans son propre jus. Si ça attache, ajoute juste un peu d'eau chaude.",
+   "t": "Add {{smen}} smen, half the herbs and {{eau}} water. Cover and simmer for 45 min over medium-low heat, stirring from time to time. The chicken cooks mainly in its own juices. If it starts to stick, add just a little hot water."
+  },
+  "steps.2.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "Chicken simmering"
+  },
+  "steps.2.timer.done": {
+   "fr": "Vérifie que le poulet est bien cuit.",
+   "t": "Check that the chicken is cooked through."
+  },
+  "steps.3.title": {
+   "fr": "Pendant ce temps, fais frire les amandes",
+   "t": "Meanwhile, fry the almonds"
+  },
+  "steps.3.text": {
+   "fr": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant. Quand elles ont refroidi, concasse-les grossièrement au mortier ou au mixeur, par petits coups.",
+   "t": "In a small frying pan, heat {{huile-friture}} over medium heat. Fry {{amandes}} blanched almonds in it, stirring constantly, until golden. Drain them on kitchen paper. Once they have cooled, crush them coarsely with the pestle and mortar, or in the blender using short pulses."
+  },
+  "steps.4.title": {
+   "fr": "Vérifie que le poulet est bien cuit",
+   "t": "Check that the chicken is cooked through"
+  },
+  "steps.4.text": {
+   "fr": "Coupe le plus gros morceau, près de l'os. La chair doit être blanche jusqu'au centre, sans trace rose, et le jus doit être clair. La viande doit se détacher facilement de l'os. Avec un thermomètre de cuisine piqué au cœur de la partie la plus épaisse, la chair doit atteindre 75 °C pendant 30 secondes, ou 70 °C pendant 2 minutes. Sinon, couvre et laisse cuire encore un peu, puis vérifie de nouveau.",
+   "t": "Cut into the largest piece, close to the bone. The flesh must be white right through to the centre, with no trace of pink, and the juices must run clear. The meat must come away easily from the bone. With a cooking thermometer inserted into the centre of the thickest part, the flesh must reach 75 °C for 30 seconds, or 70 °C for 2 minutes. If not, cover and cook a little longer, then check again."
+  },
+  "steps.4.tip": {
+   "fr": "La partie la plus épaisse du poulet est la cuisse : vérifie à la jointure entre le pilon et le haut de cuisse, qui ne doit pas être rosée (FSA ; Anses).",
+   "t": "The thickest part of the chicken is the leg: check at the joint between the drumstick and the thigh, which must not be pink (FSA; Anses)."
+  },
+  "steps.5.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "Reduce the onion sauce"
+  },
+  "steps.5.text": {
+   "fr": "Sors les morceaux de poulet et pose-les dans un plat. Ajoute le reste des herbes dans la marmite. Laisse cuire la sauce à découvert, à feu moyen, en remuant souvent, jusqu'à ce que les oignons soient fondus comme une compote et que la sauce soit épaisse. Retire les bâtons de cannelle. Goûte et rectifie le sel.",
+   "t": "Take out the chicken pieces and put them on a dish. Add the rest of the herbs to the pot. Cook the sauce uncovered over medium heat, stirring often, until the onions have melted into a soft compote and the sauce is thick. Remove the cinnamon. Taste and adjust the salt."
+  },
+  "steps.6.title": {
+   "fr": "Désosse le poulet",
+   "t": "Bone the chicken"
+  },
+  "steps.6.text": {
+   "fr": "Dès que le poulet est assez tiède pour être touché, retire la peau et les os. Coupe ou effiloche la chair en morceaux. Remets-la dans la sauce, mélange, couvre et garde la marmite de côté.",
+   "t": "As soon as the chicken is cool enough to handle, remove the skin and bones. Cut or shred the meat into pieces. Return it to the sauce, stir, cover and set the pot aside."
+  },
+  "steps.6.tip": {
+   "fr": "Ne laisse pas le poulet cuit plus de 2 heures à température ambiante : tu le réchaufferas juste avant de servir (Anses ; FSA).",
+   "t": "Do not leave the cooked chicken at room temperature for more than 2 hours: you will reheat it just before serving (Anses; FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Huile les vermicelles et fais une première vapeur",
+   "t": "Oil the vermicelli and give it a first steaming"
+  },
+  "steps.7.text": {
+   "fr": "Remplis à moitié le bas du couscoussier d'{{eau-couscoussier}} et porte à ébullition. Huile légèrement le haut du couscoussier. Dans un très grand plat, mélange {{vermicelles}} de vermicelles avec {{huile-vermicelles}} d'huile, à la main, jusqu'à ce que tous les brins soient enrobés. Mets-les dans le haut du couscoussier et pose-le sur la marmite. Dès que la vapeur traverse les vermicelles, compte 20 min.",
+   "t": "Half-fill the bottom of the couscoussier with {{eau-couscoussier}} and bring to the boil. Lightly oil the top part of the couscoussier. In a very large dish, mix {{vermicelles}} vermicelli with {{huile-vermicelles}} oil by hand, until every strand is coated. Tip it into the top of the couscoussier and set the top on the pot. Once steam is coming through the vermicelli, steam for 20 min."
+  },
+  "steps.7.tip": {
+   "fr": "Manipule les vermicelles délicatement et ne les tasse pas dans le couscoussier (Taste of Maroc).",
+   "t": "Handle the vermicelli gently and don't pack it down in the couscoussier (Taste of Maroc)."
+  },
+  "steps.7.timer.label": {
+   "fr": "1re vapeur",
+   "t": "1st steaming"
+  },
+  "steps.7.timer.done": {
+   "fr": "Verse les vermicelles dans le grand plat.",
+   "t": "Tip the vermicelli into the large dish."
+  },
+  "steps.7.img.alt": {
+   "fr": "Le haut d'un couscoussier posé sur la marmite, ici rempli de graine de couscous",
+   "t": "The top of a couscoussier set on the pot, here filled with couscous grain"
+  },
+  "steps.7.img.caption": {
+   "fr": "La cuisson à la vapeur du couscoussier",
+   "t": "Steaming in the couscoussier"
+  },
+  "steps.8.title": {
+   "fr": "Arrose les vermicelles et fais une deuxième vapeur",
+   "t": "Sprinkle the vermicelli and give it a second steaming"
+  },
+  "steps.8.text": {
+   "fr": "Fais fondre {{sel-vermicelles}} de sel dans {{eau-vermicelles}} d'eau. Verse les vermicelles dans le grand plat et défais les paquets avec deux fourchettes, puis à la main quand ils ont un peu tiédi. Arrose-les de la moitié de l'eau salée et mélange jusqu'à ce qu'elle soit absorbée. Remets-les dans le haut du couscoussier et compte 20 min dès que la vapeur les traverse. Vérifie qu'il reste assez d'eau dans le bas.",
+   "t": "Dissolve {{sel-vermicelles}} salt in {{eau-vermicelles}} water. Tip the vermicelli into the large dish and break up the clumps with two forks, then with your hands once it has cooled a little. Sprinkle it with half the salted water and mix until the water is absorbed. Return it to the top of the couscoussier and steam for 20 min from the moment steam comes through. Check that there is still enough water in the bottom."
+  },
+  "steps.8.timer.label": {
+   "fr": "2e vapeur",
+   "t": "2nd steaming"
+  },
+  "steps.8.timer.done": {
+   "fr": "Verse les vermicelles dans le grand plat.",
+   "t": "Tip the vermicelli into the large dish."
+  },
+  "steps.9.title": {
+   "fr": "Fais la dernière vapeur",
+   "t": "Give it the final steaming"
+  },
+  "steps.9.text": {
+   "fr": "Défais de nouveau les vermicelles dans le plat et arrose-les du reste de l'eau salée. Remets-les dans le haut du couscoussier et compte 15 min dès que la vapeur les traverse. Goûte : les brins doivent être tendres, légers et bien séparés. S'ils sont encore un peu fermes, laisse-les encore 5 min. S'ils restent fermes, arrose-les d'un peu d'eau et fais une quatrième vapeur de 15 à 20 min, sans trop les cuire.",
+   "t": "Break up the vermicelli again in the dish and sprinkle it with the rest of the salted water. Return it to the top of the couscoussier and steam for 15 min from the moment steam comes through. Taste: the strands should be tender, light and well separated. If they are still a little firm, give them another 5 min. If they are still firm after that, sprinkle them with a little water and give them a fourth steaming of 15 to 20 min, without overcooking them."
+  },
+  "steps.9.timer.label": {
+   "fr": "3e vapeur",
+   "t": "3rd steaming"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte : tendres et légers ? Sinon, encore une vapeur.",
+   "t": "Taste: tender and light? If not, steam it once more."
+  },
+  "steps.10.title": {
+   "fr": "Pendant ce temps, réchauffe le poulet",
+   "t": "Meanwhile, reheat the chicken"
+  },
+  "steps.10.text": {
+   "fr": "Remets la marmite du poulet sur feu moyen-doux. Réchauffe en remuant doucement, jusqu'à ce que la sauce bouillonne et que le poulet soit brûlant.",
+   "t": "Put the pot of chicken back over medium-low heat. Reheat, stirring gently, until the sauce is bubbling and the chicken is piping hot."
+  },
+  "steps.11.title": {
+   "fr": "Beurre les vermicelles",
+   "t": "Butter the vermicelli"
+  },
+  "steps.11.text": {
+   "fr": "Verse les vermicelles brûlants dans le grand plat. Ajoute {{beurre}} de beurre et mélange avec une fourchette pour bien les aérer.",
+   "t": "Tip the piping-hot vermicelli into the large dish. Add {{beurre}} butter and mix with a fork to fluff it up well."
+  },
+  "steps.12.title": {
+   "fr": "Cache le poulet sous les vermicelles",
+   "t": "Hide the chicken under the vermicelli"
+  },
+  "steps.12.text": {
+   "fr": "Étale la moitié des vermicelles dans le plat de service. Dispose le poulet au centre et nappe-le de sauce. Recouvre avec le reste des vermicelles et forme un dôme avec les mains : le poulet ne doit plus se voir.",
+   "t": "Spread half the vermicelli over the serving dish. Arrange the chicken in the centre and spoon the sauce over it. Cover with the rest of the vermicelli and shape it into a dome with your hands: the chicken should no longer be visible."
+  },
+  "steps.13.title": {
+   "fr": "Décore et sers aussitôt",
+   "t": "Decorate and serve straight away"
+  },
+  "steps.13.text": {
+   "fr": "Trace des lignes sur le dôme avec {{cannelle-moulue}} de cannelle, du sommet vers le bas. Saupoudre {{sucre-glace}} de sucre glace à travers une passoire fine, entre les lignes. Parsème les amandes concassées, surtout au sommet. Sers tout de suite, bien chaud.",
+   "t": "Draw lines on the dome with {{cannelle-moulue}} cinnamon, from the top downwards. Dust {{sucre-glace}} icing sugar through a fine sieve between the lines. Scatter over the crushed almonds, mostly on the top. Serve immediately, very hot."
+  },
+  "secrets.0.text": {
+   "fr": "Cuis les vermicelles à la vapeur, jamais dans l'eau : les brins gonflent et restent légers et séparés, sans devenir collants ni lourds.",
+   "t": "Steam the vermicelli, never boil it in water: the strands swell and stay light and separate, without becoming sticky or heavy."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (recette et guide de la vapeur) ; Choumicha (cheveux d'ange cuits trois fois à la vapeur)",
+   "t": "Taste of Maroc (recipe and steaming guide); Choumicha (angel hair steamed three times)"
+  },
+  "secrets.1.text": {
+   "fr": "Avant la première vapeur, enrobe d'huile les vermicelles secs, avec les mains, jusqu'au dernier brin : ils ne collent pas entre eux.",
+   "t": "Before the first steaming, coat the dry vermicelli with oil using your hands, down to the very last strand: that way the strands don't stick together."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc; Choumicha; Cooking with Alia; Lalla Moulati"
+  },
+  "secrets.2.text": {
+   "fr": "Compte le temps de vapeur à partir du moment où la vapeur traverse les vermicelles, pas dès que tu poses le couscoussier.",
+   "t": "Time the steaming from the moment steam comes through the vermicelli, not from when you put the couscoussier on."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Morocco World News",
+   "t": "Taste of Maroc; Morocco World News"
+  },
+  "secrets.3.text": {
+   "fr": "À la fin de chaque vapeur, des brins se dressent à la surface des vermicelles : c'est le signe que tu peux passer à l'étape suivante.",
+   "t": "At the end of each steaming, a few strands stand up on the surface of the vermicelli: that's the sign you can move on to the next step."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (recette du 13 mai 2023)",
+   "t": "Taste of Maroc; Lalla Moulati (recipe of 13 May 2023)"
+  },
+  "secrets.4.text": {
+   "fr": "Entre deux vapeurs, défais bien les paquets, avec deux fourchettes puis à la main, et arrose d'eau salée : à chaque passage, les vermicelles gonflent et s'attendrissent.",
+   "t": "Between steamings, break up the clumps thoroughly, with two forks and then by hand, and sprinkle with salted water: with each round, the vermicelli swells and softens."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha (deux fourchettes) ; Taste of Maroc ; Morocco World News ; Cooking with Alia ; Lalla Moulati",
+   "t": "Choumicha (two forks); Taste of Maroc; Morocco World News; Cooking with Alia; Lalla Moulati"
+  },
+  "secrets.5.text": {
+   "fr": "Manipule les vermicelles délicatement et ne les tasse jamais dans le haut du couscoussier.",
+   "t": "Handle the vermicelli gently and never pack it down in the top of the couscoussier."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Le poulet cuit presque sans eau : il braise dans son propre jus.",
+   "t": "The chicken cooks with almost no water: it braises in its own juices."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (pas d'eau sauf si c'est nécessaire) ; Choumicha (10 cl d'eau pour un poulet de 1,5 kg)",
+   "t": "Taste of Maroc (no water unless needed); Choumicha (10 cl of water for a 1.5 kg chicken)"
+  },
+  "secrets.7.text": {
+   "fr": "Sors le poulet avant de réduire la sauce : les oignons fondent en compote pendant que la viande attend à part.",
+   "t": "Take the chicken out before reducing the sauce: the onions melt down into a compote while the meat waits separately."
+  },
+  "secrets.7.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Morocco World News",
+   "t": "Choumicha; Cooking with Alia; Morocco World News"
+  },
+  "secrets.8.text": {
+   "fr": "Désosse le poulet et retire la peau avant de le cacher sous les vermicelles. Christine Benlafquih (Taste of Maroc) laisse le plus souvent les os.",
+   "t": "Bone the chicken and remove the skin before hiding it under the vermicelli. Christine Benlafquih (Taste of Maroc) usually leaves the bones in."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Morocco World News ; Lalla Moulati (peau et os retirés) ; Taste of Maroc",
+   "t": "Choumicha; Morocco World News; Lalla Moulati (skin and bones removed); Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Prépare le poulet à l'avance et cuis les vermicelles juste avant de servir ; réchauffe le poulet au dernier moment.",
+   "t": "Make the chicken ahead and cook the vermicelli just before serving; reheat the chicken at the last minute."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia ; Taste of Maroc (réchauffer le poulet à feu moyen-doux s'il a refroidi)",
+   "t": "Cooking with Alia; Taste of Maroc (reheat the chicken over medium-low heat if it has cooled)"
+  },
+  "secrets.10.text": {
+   "fr": "Tu peux passer les vermicelles à la vapeur le matin ou la veille, puis les réchauffer à la vapeur ou au micro-ondes. Entre-temps, mets-les au réfrigérateur dans les 2 heures.",
+   "t": "You can steam the vermicelli in the morning or the day before, then reheat it by steaming or in the microwave. In the meantime, put it in the fridge within 2 hours."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (réponse de Christine Benlafquih à une lectrice) ; FSA et Anses pour le réfrigérateur",
+   "t": "Taste of Maroc (Christine Benlafquih's reply to a reader); FSA and Anses for the fridge"
+  },
+  "secrets.11.text": {
+   "fr": "Pour décorer, trace des lignes de cannelle et de sucre glace sur le dôme, et garde les amandes pour le sommet.",
+   "t": "To decorate, draw lines of cinnamon and icing sugar on the dome, and keep the almonds for the top."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi.net (grille de cannelle et de sucre glace) ; Lalla Moulati (lignes de sucre glace et de cannelle, amandes au centre)",
+   "t": "Bladi.net (a lattice of cinnamon and icing sugar); Lalla Moulati (lines of icing sugar and cinnamon, almonds in the centre)"
+  },
+  "secrets.12.text": {
+   "fr": "« Medfouna » veut dire « enterrée » : le poulet est caché à l'intérieur du dôme de vermicelles.",
+   "t": "“Medfouna” means “buried”: the chicken is hidden inside the dome of vermicelli."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; Morocco World News (« enterre le poulet sous le reste de la seffa »)",
+   "t": "Taste of Maroc; Morocco World News (“bury the chicken under the rest of the seffa”)"
+  },
+  "mistakes.0": {
+   "fr": "Faire bouillir les vermicelles dans l'eau : ils deviennent mous et collants ; la vapeur les garde légers (Taste of Maroc).",
+   "t": "Boiling the vermicelli in water: it turns soft and sticky; steaming keeps it light (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Tasser les vermicelles dans le couscoussier (Taste of Maroc).",
+   "t": "Packing the vermicelli down in the couscoussier (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Trop cuire les vermicelles à la dernière vapeur : ils deviennent trop mous (Cooking with Alia).",
+   "t": "Overcooking the vermicelli in the final steaming: it becomes too soft (Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Noyer le poulet d'eau : il doit cuire surtout dans son propre jus (Taste of Maroc ; Choumicha n'ajoute que 10 cl d'eau).",
+   "t": "Drowning the chicken in water: it should cook mainly in its own juices (Taste of Maroc; Choumicha adds only 10 cl of water)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser attacher et brûler le poulet ou les oignons au fond de la marmite : cela gâche la sauce (Taste of Maroc).",
+   "t": "Letting the chicken or onions stick and burn on the bottom of the pot: it ruins the sauce (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Servir le poulet sans vérifier qu'il est cuit à cœur : chair blanche, jus clair, 70 °C à cœur (Anses) ou 75 °C pendant 30 secondes (FSA).",
+   "t": "Serving the chicken without checking it is cooked through: white flesh, clear juices, 70 °C at the centre (Anses) or 75 °C for 30 seconds (FSA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le poulet cuit plus de 2 heures à température ambiante (Anses ; FSA).",
+   "t": "Leaving the cooked chicken at room temperature for more than 2 hours (Anses; FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Servir tiède : la seffa medfouna se mange tout de suite, bien chaude (Taste of Maroc ; Cooking with Alia ; Choumicha ; Lalla Moulati).",
+   "t": "Serving it lukewarm: seffa medfouna is eaten straight away, very hot (Taste of Maroc; Cooking with Alia; Choumicha; Lalla Moulati)."
+  },
+  "mistakes.8": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce qu'ils soient brûlants (FSA).",
+   "t": "Reheating leftovers more than once: reheat them only once, until piping hot (FSA)."
+  },
+  "variants.0": {
+   "fr": "Aux raisins secs : rince-les, fais-les tremper, puis mélange-les aux vermicelles pour la dernière vapeur. Choumicha les ajoute « toujours » à la dernière cuisson à la vapeur ; Taste of Maroc, Morocco World News et Cooking with Alia aussi. Taste of Maroc propose aussi de les caraméliser à part, avec un peu de beurre et de sucre ou de miel.",
+   "t": "With raisins: rinse them, soak them, then mix them into the vermicelli for the final steaming. Choumicha “always” adds them at the last steaming; so do Taste of Maroc, Morocco World News and Cooking with Alia. Taste of Maroc also suggests caramelising them separately with a little butter and sugar or honey."
+  },
+  "variants.1": {
+   "fr": "Plus sucrée : mélange du sucre glace (ou du sucre) aux vermicelles chauds avec le beurre (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati).",
+   "t": "Sweeter: mix icing sugar (or sugar) into the hot vermicelli along with the butter (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati)."
+  },
+  "variants.2": {
+   "fr": "Sauce sucrée : un peu de miel dans la sauce réduite (Morocco World News et Cooking with Alia : 2 c. à s. pour un poulet), avec de la cannelle moulue (Cooking with Alia ; Lalla Moulati, qui ajoute aussi une cuillère de sucre).",
+   "t": "Sweet sauce: a little honey in the reduced sauce (Morocco World News and Cooking with Alia: 2 tbsp for one chicken), with ground cinnamon (Cooking with Alia; Lalla Moulati, who also adds a spoonful of sugar)."
+  },
+  "variants.3": {
+   "fr": "Sauce plus riche : Taste of Maroc ajoute du beurre à l'huile d'olive.",
+   "t": "Richer sauce: Taste of Maroc adds butter to the olive oil."
+  },
+  "variants.4": {
+   "fr": "Lait au dernier arrosage : Taste of Maroc remplace l'eau par du lait pour une version sucrée ; Lalla Moulati arrose les vermicelles d'un verre de lait ; Cooking with Alia ajoute du lait en poudre.",
+   "t": "Milk for the last sprinkling: Taste of Maroc replaces the water with milk for a sweet version; Lalla Moulati sprinkles the vermicelli with a glass of milk; Cooking with Alia adds powdered milk."
+  },
+  "variants.5": {
+   "fr": "Méthode de Choumicha : après la première et la deuxième vapeur, pose le haut du couscoussier sur un bol, sale les vermicelles et rince-les à l'eau bouillante, puis huile-les, aère-les et laisse-les refroidir avant la vapeur suivante. Bladi.net verse aussi l'eau chaude du bas du couscoussier sur les vermicelles, puis les égoutte.",
+   "t": "Choumicha's method: after the first and second steamings, set the top of the couscoussier over a bowl, salt the vermicelli and rinse it with boiling water, then oil it, fluff it up and leave it to cool before the next steaming. Bladi.net also pours the hot water from the bottom of the couscoussier over the vermicelli, then drains it."
+  },
+  "variants.6": {
+   "fr": "À l'agneau ou au bœuf : Choumicha cache des brochettes d'agneau cuites dans une sauce aux oignons compotés, avec des raisins secs dans les vermicelles ; Taste of Maroc prend de l'agneau ou du bœuf tendre, sans os, couvert d'eau et cuit plus longtemps.",
+   "t": "With lamb or beef: Choumicha hides lamb skewers cooked in a sauce of onions cooked down to a compote, with raisins in the vermicelli; Taste of Maroc uses tender boneless lamb or beef, covered with water and cooked for longer."
+  },
+  "variants.7": {
+   "fr": "Au couscous à la place des vermicelles (Taste of Maroc ; Morocco World News).",
+   "t": "With couscous instead of vermicelli (Taste of Maroc; Morocco World News)."
+  },
+  "variants.8": {
+   "fr": "Décor de fête : abricots secs et dattes caramélisés, noix et petits œufs durs (Cooking with Alia) ; œufs durs et cacahuètes (Lalla Moulati) ; amandes frites mixées avec un peu de sucre glace et d'eau de fleur d'oranger (Taste of Maroc ; Cooking with Alia).",
+   "t": "Festive decoration: caramelised dried apricots and dates, walnuts and small hard-boiled eggs (Cooking with Alia); hard-boiled eggs and peanuts (Lalla Moulati); fried almonds blended with a little icing sugar and orange blossom water (Taste of Maroc; Cooking with Alia)."
+  },
+  "variants.9": {
+   "fr": "Sans viande : la seffa sucrée se sert aussi en dessert (Morocco World News) ; Choumicha la fait aux raisins secs et aux amandes, servie avec du lait parfumé à l'eau de fleur d'oranger.",
+   "t": "Without meat: sweet seffa is also served as a dessert (Morocco World News); Choumicha makes it with raisins and almonds, served with milk flavoured with orange blossom water."
+  }
+ }
+}

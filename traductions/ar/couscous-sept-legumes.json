@@ -39,12 +39,12 @@
    "t": "زيت الزيتون أو زيت المائدة"
   },
   "ing.oignon.name": {
-   "fr": "gros oignon (environ 200 g)",
-   "t": "بصلة كبيرة (نحو 200 غ للبصلة)"
+   "fr": "gros oignon",
+   "t": "بصلة كبيرة"
   },
   "ing.oignon.pl": {
-   "fr": "gros oignons (environ 200 g chacun)",
-   "t": "بصلات كبيرة (نحو 200 غ للبصلة)"
+   "fr": "gros oignons",
+   "t": "بصلات كبيرة"
   },
   "ing.tomates-rapees.name": {
    "fr": "tomate mûre",
@@ -164,7 +164,7 @@
   },
   "ing.semoule.note": {
    "fr": "pas de couscous instantané",
-   "t": "ليس الكسكس سريع التحضير"
+   "t": "لا تستعمل الكسكس سريع التحضير"
   },
   "ing.huile-graine.name": {
    "fr": "d'huile d'olive ou d'huile neutre",
@@ -308,7 +308,7 @@
   },
   "steps.5.text": {
    "fr": "Verse {{semoule}} de couscous dans la gsaa et arrose de {{huile-graine}} d'huile. Frotte la graine entre tes paumes 1 à 2 min pour bien l'enrober. Ajoute {{eau-1}} d'eau froide en pluie, puis frotte encore jusqu'à ce qu'elle soit absorbée, en écrasant les petits grumeaux.",
-   "t": "اسكب {{semoule}} من الكسكس في القصعة واسقه بـ{{huile-graine}} من الزيت. افرك الحبات بين راحتيك من 1 إلى 2 دقيقة حتى تتغطى جيدًا بالزيت. أضف {{eau-1}} من الماء البارد رشًّا، ثم افرك مجددًا حتى يتشرّب الماء، مع سحق الكتل الصغيرة."
+   "t": "اسكب {{semoule}} من الكسكس في القصعة واسقه بـ{{huile-graine}} من الزيت. افرك الحبات بين راحتيك من دقيقة إلى دقيقتين حتى تتغطى جيدًا بالزيت. أضف {{eau-1}} من الماء البارد رشًّا، ثم افرك مجددًا حتى يتشرّب الماء، مع سحق الكتل الصغيرة."
   },
   "steps.6.title": {
    "fr": "Première vapeur",
@@ -520,7 +520,7 @@
   },
   "secrets.11.text": {
    "fr": "Les légumes entrent par ordre de dureté pour être prêts ensemble : courge et courgettes en dernier, car une fois cuites elles deviennent très fragiles.",
-   "t": "تُضاف الخضر حسب صلابتها لتنضج كلها معًا: القرع والكوسة في الأخير، لأنهما تصيران هشّتين جدًا بعد نضجهما."
+   "t": "تُضاف الخضر حسب صلابتها لتنضج كلها معًا: القرع والكوسة في الأخير، لأنهما يصيران هشّين جدًا بعد نضجهما."
   },
   "secrets.11.source": {
    "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
@@ -600,7 +600,7 @@
   },
   "variants.0": {
    "fr": "Tfaya (variante, pas la base) : oignons, rouges de préférence, et raisins secs trempés 15 min, mijotés à couvert sur feu moyen-doux 30 min à 1 h avec beurre, miel, cannelle, poivre, gingembre, curcuma, safran, une pincée de sel et un peu d'eau, jusqu'à ce que le jus devienne un sirop épais ; un peu d'eau de fleur d'oranger à la fin si tu veux. Pose-la sur le couscous ou sers-la à part (Taste of Maroc ; version au miel et à la cannelle chez My Moroccan Food).",
-   "t": "التفاية (نسخة بديلة، وليست الأساس): بصل، ويُفضَّل الأحمر، وزبيب منقوع 15 دقيقة، يُطهيان مغطّيَين على نار متوسطة إلى هادئة من 30 دقيقة إلى 1 ساعة مع الزبدة والعسل والقرفة والفلفل الأسود والزنجبيل والكركم والزعفران ورشة ملح وقليل من الماء، حتى يصير العصير شرابًا كثيفًا؛ وقليل من ماء الزهر في النهاية إن شئت. ضعها فوق الكسكس أو قدّمها على حدة (Taste of Maroc؛ ونسخة بالعسل والقرفة عند My Moroccan Food)."
+   "t": "التفاية (نسخة بديلة، وليست الأساس): بصل، ويُفضَّل الأحمر، وزبيب منقوع 15 دقيقة، يُطهيان مغطّيَين على نار متوسطة إلى هادئة من 30 دقيقة إلى ساعة مع الزبدة والعسل والقرفة والفلفل الأسود والزنجبيل والكركم والزعفران ورشة ملح وقليل من الماء، حتى يصير العصير شرابًا كثيفًا؛ وقليل من ماء الزهر في النهاية إن شئت. ضعها فوق الكسكس أو قدّمها على حدة (Taste of Maroc؛ ونسخة بالعسل والقرفة عند My Moroccan Food)."
   },
   "variants.1": {
    "fr": "Graine au lait : remplace l'eau du troisième roulage par du lait pour une semoule plus riche (Taste of Maroc).",
@@ -633,6 +633,10 @@
   "variants.8": {
    "fr": "Version palace du chef Karim Benbaba (Royal Mansour) : chaque légume cuit à part dans un bouillon de légumes filtré, puis dressé en alternant les couleurs.",
    "t": "نسخة الفنادق الفاخرة للشيف Karim Benbaba (Royal Mansour): تُطهى كل خضرة على حدة في مرق خضر مصفّى، ثم تُرتَّب بتناوب الألوان."
+  },
+  "ing.oignon.note": {
+   "fr": "environ 200 g pièce",
+   "t": "نحو 200 غ للبصلة"
   }
  }
 }

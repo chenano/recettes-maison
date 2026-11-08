@@ -16,7 +16,7 @@
   },
   "region": {
    "fr": "Tout le Maroc ; à Fès, le msemmen au khlii fait partie des gourmandises du ftour",
-   "t": "All of Morocco; in Fez, msemmen with khlii is one of the iftar treats"
+   "t": "All of Morocco; in Fez, msemen with khlii is one of the iftar treats"
   },
   "occasion": {
    "fr": "Petit-déjeuner, goûter, ftour du ramadan",
@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Bien chauds, au petit-déjeuner ou au goûter, avec un thé (Morocco World News 2013 : « Serve hot with tea » ; Guinaudeau : mangés chauds avec le thé du petit-déjeuner ; Choumicha : « Servir les r'ghaifs chaudes »). On les sert aussi au ftour du ramadan : Choumicha range la moitié de ses r'ghaifs (5 recettes sur 10, dont celle à la viande hachée et aux légumes) dans « Ramadan », et Femmes du Maroc cite le msemmen au khlii parmi les gourmandises du ftour à Fès. Les restes vont au réfrigérateur dans les 2 heures, se mangent dans les 3 jours et se réchauffent jusqu'à être très chauds à cœur, à la poêle ou au four (Anses).",
-   "t": "Piping hot, at breakfast or as an afternoon snack, with tea (Morocco World News 2013: “Serve hot with tea”; Guinaudeau: eaten hot with breakfast tea; Choumicha: “Serve the r'ghaifs hot”). They are also served at the Ramadan iftar: Choumicha files half of her r'ghaifs (5 recipes out of 10, including the one with minced meat and vegetables) under “Ramadan”, and Femmes du Maroc lists msemmen with khlii among the iftar treats in Fez. Leftovers go in the fridge within 2 hours, should be eaten within 3 days and are reheated until piping hot right through, in a frying pan or in the oven (Anses)."
+   "t": "Piping hot, at breakfast or as an afternoon snack, with tea (Morocco World News 2013: “Serve hot with tea”; Guinaudeau: eaten hot with breakfast tea; Choumicha: “Serve the r'ghaifs hot”). They are also served at the Ramadan iftar: Choumicha files half of her r'ghaifs (5 recipes out of 10, including the one with minced meat and vegetables) under “Ramadan”, and Femmes du Maroc lists msemen with khlii among the iftar treats in Fez. Leftovers go in the fridge within 2 hours, should be eaten within 3 days and are reheated until piping hot right through, in a frying pan or in the oven (Anses)."
   },
   "ing.0.group": {
    "fr": "Farce",
@@ -191,7 +191,7 @@
    "t": "A spatula"
   },
   "steps.0.title": {
-   "fr": "Fondre les oignons",
+   "fr": "Fais fondre les oignons",
    "t": "Soften the onions"
   },
   "steps.0.text": {
@@ -207,7 +207,7 @@
    "t": "Is the onion tender and translucent? If not, give it a few more minutes."
   },
   "steps.1.title": {
-   "fr": "Ajouter khlii, persil et épices",
+   "fr": "Ajoute khlii, persil et épices",
    "t": "Add the khlii, parsley and spices"
   },
   "steps.1.text": {
@@ -223,15 +223,15 @@
    "t": "If there is still some liquid, let it evaporate, then turn off the heat."
   },
   "steps.2.title": {
-   "fr": "Goûter et refroidir",
-   "t": "Taste and cool"
+   "fr": "Goûte et laisse refroidir",
+   "t": "Taste and leave to cool"
   },
   "steps.2.text": {
    "fr": "Goûte la farce et ajoute du {{sel-farce}} seulement si besoin : le khlii est déjà assaisonné. Étale-la dans une grande assiette et laisse-la refroidir complètement : chaude, elle abîme la pâte. Si tu la prépares à l'avance, mets-la au réfrigérateur dans les 2 heures.",
    "t": "Taste the filling and add {{sel-farce}} only if needed: the khlii is already seasoned. Spread it out on a large plate and leave it to cool completely: if it is hot, it damages the dough. If you make it in advance, put it in the fridge within 2 hours."
   },
   "steps.3.title": {
-   "fr": "Mélanger la pâte",
+   "fr": "Mélange la pâte",
    "t": "Mix the dough"
   },
   "steps.3.text": {
@@ -239,7 +239,7 @@
    "t": "In a large mixing bowl, mix {{farine}} of flour, {{semoule}} of fine semolina and {{sel}} of salt. Gradually pour in {{eau}} of lukewarm water, mixing by hand, until it forms a soft ball. If it is sticky, add a little flour; if it is dry, a little water."
   },
   "steps.4.title": {
-   "fr": "Pétrir 10 minutes",
+   "fr": "Pétris 10 minutes",
    "t": "Knead for 10 minutes"
   },
   "steps.4.text": {
@@ -263,7 +263,7 @@
    "t": "Kneading the dough"
   },
   "steps.5.title": {
-   "fr": "Former les pâtons",
+   "fr": "Forme les pâtons",
    "t": "Shape the dough balls"
   },
   "steps.5.text": {
@@ -279,7 +279,7 @@
    "t": "The dough balls have rested: you can stretch and fill them."
   },
   "steps.6.title": {
-   "fr": "Préparer ton poste",
+   "fr": "Prépare ton poste",
    "t": "Set up your work station"
   },
   "steps.6.text": {
@@ -287,7 +287,7 @@
    "t": "While the dough rests, mix {{beurre}} of melted butter with {{huile-beurre}} of oil. Put this mixture within reach, along with a bowl of {{huile-faconnage}}, {{semoule-faconnage}} of fine semolina and the cold filling. Oil your work surface generously."
   },
   "steps.7.title": {
-   "fr": "Étirer très fin",
+   "fr": "Étire très fin",
    "t": "Stretch very thin"
   },
   "steps.7.text": {
@@ -303,7 +303,7 @@
    "t": "Stretching with the fingertips"
   },
   "steps.8.title": {
-   "fr": "Badigeonner et garnir",
+   "fr": "Badigeonne et garnis",
    "t": "Brush and fill"
   },
   "steps.8.text": {
@@ -311,7 +311,7 @@
    "t": "Brush the disc with the butter and oil mixture and sprinkle it with a little semolina. Place 1 to 2 tablespoons of filling in the centre, leaving the edges clear: the filling must last for all the flatbreads."
   },
   "steps.9.title": {
-   "fr": "Fermer en carré",
+   "fr": "Ferme en carré",
    "t": "Fold into a square"
   },
   "steps.9.text": {
@@ -319,7 +319,7 @@
    "t": "Fold three sides of the dough over the filling, then the fourth over the top, stretching it a little: this last fold, with no filling, strengthens the flatbread and stops it from opening. Put the closed square on the second oiled tray and repeat with the other dough balls."
   },
   "steps.10.title": {
-   "fr": "Chauffer la poêle",
+   "fr": "Chauffe la poêle",
    "t": "Heat the pan"
   },
   "steps.10.text": {
@@ -327,7 +327,7 @@
    "t": "Heat a large heavy-based frying pan over medium-high heat, then oil it lightly."
   },
   "steps.11.title": {
-   "fr": "Aplatir doucement",
+   "fr": "Aplatis doucement",
    "t": "Flatten gently"
   },
   "steps.11.text": {
@@ -335,7 +335,7 @@
    "t": "With oiled hands, flatten the first square with your fingertips, without piercing the dough, until each side is about 12 to 15 cm. The filling must stay well sealed inside."
   },
   "steps.12.title": {
-   "fr": "Cuire en retournant",
+   "fr": "Cuis en retournant",
    "t": "Cook, turning several times"
   },
   "steps.12.text": {
@@ -351,7 +351,7 @@
    "t": "Cooking until golden brown"
   },
   "steps.13.title": {
-   "fr": "Continuer avec les autres",
+   "fr": "Continue avec les autres",
    "t": "Carry on with the rest"
   },
   "steps.13.text": {
@@ -359,7 +359,7 @@
    "t": "Put the cooked flatbread on a board or a rack, and carry on with the other squares, flattening them as you go."
   },
   "steps.14.title": {
-   "fr": "Servir brûlant",
+   "fr": "Sers brûlant",
    "t": "Serve piping hot"
   },
   "steps.14.text": {

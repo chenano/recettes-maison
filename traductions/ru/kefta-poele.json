@@ -50,10 +50,6 @@
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
-  },
   "ing.oignon.note": {
    "fr": "à râper, puis à presser pour enlever le jus",
    "t": "натереть на тёрке, затем отжать сок"
@@ -73,10 +69,6 @@
   "ing.menthe.pl": {
    "fr": "grandes feuilles de menthe",
    "t": "крупных листа мяты"
-  },
-  "ing.menthe.pl5": {
-   "fr": "grande feuille de menthe / grandes feuilles de menthe",
-   "t": "крупных листьев мяты"
   },
   "ing.menthe.note": {
    "fr": "à hacher",
@@ -288,7 +280,7 @@
   },
   "secrets.2.text": {
    "fr": "Râpe l'oignon, puis presse-le pour enlever son jus avant de le mêler à la viande.",
-   "t": "Натрите лук, затем отожмите сок, прежде чем смешивать его с фаршем."
+   "t": "Натрите лук и отожмите из него сок, прежде чем смешивать лук с фаршем."
   },
   "secrets.2.source": {
    "fr": "Cooking With Alia, burger marocain n° 182 (oignon râpé et pressé) ; Mama's Lebanese Kitchen, kafta (oignon mixé puis égoutté) ; oignon râpé aussi chez My Moroccan Food, Cooking With Alia n° 664 et Choumicha n° 467",
@@ -360,11 +352,11 @@
   },
   "mistakes.0": {
    "fr": "Servir la kefta encore rosée au centre : la viande hachée doit être cuite à cœur (70 °C), surtout pour les jeunes enfants, les femmes enceintes, les personnes âgées et les personnes immunodéprimées (Anses ; FSA, pour qui la viande hachée doit être cuite jusqu'au centre et les burgers ne doivent jamais être servis rosés à la maison).",
-   "t": "Подавать кефту, ещё розовую в центре: фарш должен прожариться насквозь (70 °C), особенно для маленьких детей, беременных, пожилых людей и людей с ослабленным иммунитетом (Anses; FSA: фарш нужно готовить до самого центра, а бургеры дома никогда не подают с розовой серединой)."
+   "t": "Подавать кефту, ещё розовую в центре: фарш должен прожариться насквозь (70 °C), особенно для маленьких детей, беременных, пожилых людей и людей с ослабленным иммунитетом (Anses; FSA: фарш нужно готовить до самого центра, а бургеры дома никогда нельзя подавать с розовой серединой)."
   },
   "mistakes.1": {
    "fr": "Remettre la kefta cuite dans l'assiette de la viande crue, ou hacher les herbes sur la planche de la viande (Anses).",
-   "t": "Класть готовую кефту на тарелку из-под сырого мяса или рубить зелень на доске для мяса (Anses)."
+   "t": "Класть готовую кефту на тарелку из-под сырого мяса или рубить зелень на доске, на которой резали мясо (Anses)."
   },
   "mistakes.2": {
    "fr": "Oublier de se laver les mains au savon après avoir touché la viande crue (Anses).",
@@ -415,7 +407,7 @@
    "t": "С чесноком (Choumicha № 943; Bladi.net)."
   },
   "variants.5": {
-   "fr": "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+   "fr": "Version de Bladi.net : agneau, ail, ras el hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
    "t": "Версия Bladi.net: баранина, чеснок, рас-эль-ханут и яйцо; фрикадельки на шпажках, под грилем духовки, по 6 минут с каждой стороны."
   },
   "variants.6": {
@@ -437,6 +429,14 @@
   "variants.10": {
    "fr": "Version libanaise (kafta) : bœuf, oignon, persil et sept-épices ; Hadia la sert avec du taboulé et du houmous (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
    "t": "Ливанская версия (кафта): говядина, лук, петрушка и смесь «семь специй»; Hadia подаёт её с табуле и хумусом (Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.menthe.pl5": {
+   "fr": "grande feuille de menthe / grandes feuilles de menthe",
+   "t": "крупных листьев мяты"
   }
  }
 }

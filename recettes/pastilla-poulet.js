@@ -205,7 +205,7 @@ window.RECETTES.push({
      "q": 6,
      "u": "",
      "name": "feuille de warqa ou de brick, pour le tour",
-     "note": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
+     "note": "prévois en tout un peu plus de feuilles que la somme des trois lignes (tour, fond, dessus), pour avoir de la marge : pour 8 personnes, 12 à 15 feuilles",
      "pl": "feuilles de warqa ou de brick, pour le tour",
      "canon": "warqa"
     },
@@ -443,7 +443,7 @@ window.RECETTES.push({
   "Pastillas individuelles : mêmes garnitures dans des cercles de 8 à 12 cm, 20 à 30 min au four (Femmes du Maroc : 180 °C, 20 à 25 min ; Amour de cuisine : 180 °C, environ 30 min ; My Moroccan Food : 200 °C, environ 25 min).",
   "Pâte filo à la place de la warqa ou de la brick : 2 à 3 feuilles de filo beurrées par couche et environ 5 min de cuisson en plus (Amour de cuisine).",
   "Façon Paula Wolfert (The Food of Morocco) : four à 220 °C pendant 20 min, puis pastilla retournée sur une plaque beurrée, badigeonnée de beurre et remise 10 min au four ; elle ajoute aussi du jus de citron dans la sauce avant les œufs et une pointe de muscade.",
-  "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc)."
+  "Autres touches selon les familles : un peu de gomme arabique dans la sauce, en petits grains (Cooking with Alia, recette 695) ou écrasée (Épices et douceurs) ou de ras el hanout (Femmes du Maroc)."
  ],
  "sources": [
   {
@@ -535,6 +535,11 @@ window.RECETTES.push({
    "name": "Chhiwat.net (site marocain de recettes, recette de la membre « نينا الطباخة »), « بسطيلة الدجاج »",
    "url": "https://www.chhiwat.net/%D8%B4%D9%87%D9%8A%D9%88%D8%A7%D8%AA/%D8%A8%D8%B3%D8%B7%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC/",
    "used_for": "Contre-vérification : Poulet de 2 kg, 1 kg d'oignons, gingembre, cannelle, safran, persil ; sauce filtrée dont on garde oignons et gras, œufs ajoutés en remuant jusqu'à épaissir, puis égouttés et refroidis ; amandes grillées concassées avec sucre, cannelle et eau de fleur d'oranger ; décor sucre glace et cannelle."
+  },
+  {
+   "name": "Taste of Maroc, Christine Benlafquih, « Gum Arabic in Morocco – Awerwar or Meska » (mis à jour le 5 décembre 2019 ; copie archivée du 16 juillet 2026, le site renvoie une erreur 403 aux robots, son robots.txt autorise tout)",
+   "url": "https://web.archive.org/web/20260716014327/http://tasteofmaroc.com/gum-arabic-in-morocco-awerwar-or-meska/",
+   "used_for": "Relecture : Au Maroc, la gomme arabique (« awerwar », parfois appelée « meska ») est un autre produit que le mastic (« meska horra ») ; on emploie l'un ou l'autre en très petite quantité dans certaines recettes."
   }
  ],
  "discrepancies": [
@@ -554,7 +559,8 @@ window.RECETTES.push({
   "Retourner la pastilla pendant la cuisson (Paula Wolfert ; La Cuisine Marocaine l'arrose de beurre dessus et dessous) : minoritaire, donné en variante.",
   "Épices du poulet, sel, poivre et sucre : quantités calculées sur la médiane des sources par kilo de poulet ; le sel et le poivre restent « selon le goût » avec un repère.",
   "Contre-vérification : sucre glace des amandes porté de 40 g à 60 g (17 %), plus proche des sources marocaines (15 % chez Femmes du Maroc, 21 % chez Chhiwat, 40 % chez Lalla Moulati).",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Choumicha (choumicha.ma) : la page « Pastilla au poulet et aux amandes » était inaccessible le 6 novembre 2026 (erreur HTTP 525) ; sa recette n'a pas été utilisée.",

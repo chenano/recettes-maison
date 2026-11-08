@@ -260,19 +260,19 @@
   },
   "steps.9.text": {
    "fr": "Sers la soupe tout de suite, bien chaude, avec un filet d'{{huile-service}} si tu aimes. En attendant, l'orge continue de gonfler et la soupe épaissit.",
-   "t": "قدّم الحساء فورًا وهو ساخن جدًا، مع خيط رفيع من زيت الزيتون إن أحببت. فإذا انتظر، يواصل الشعير الانتفاخ ويتكثّف الحساء."
+   "t": "قدّم الحساء فورًا وهو ساخن جدًا، مع خيط رفيع من زيت الزيتون إن أحببت. ففي أثناء الانتظار، يواصل الشعير الانتفاخ ويتكثّف الحساء."
   },
   "secrets.0.text": {
    "fr": "Lave la dchicha dans plusieurs eaux, jusqu'à ce que l'eau ne soit plus trouble, puis égoutte-la.",
-   "t": "اغسل الدشيشة في عدة مياه، حتى لا يبقى الماء عكرًا، ثم صفّها."
+   "t": "اغسل الدشيشة مرات عدة مع تغيير الماء، حتى لا يبقى الماء عكرًا، ثم صفّها."
   },
   "secrets.0.source": {
    "fr": "Taste of Maroc ; Choumicha ; Lalla Moulati",
    "t": "Taste of Maroc؛ Choumicha؛ Lalla Moulati"
   },
   "secrets.1.text": {
-   "fr": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
-   "t": "الشعير المجروش الخشن، أي «الدشيشة»، يحتفظ بحبات متماسكة؛ أما المتوسط (البلبولة) فيعطي حساءً أنعم. ويحتاج الخشن إلى وقت أطول للنضج وإلى ماء أكثر قليلًا."
+   "fr": "La grosse dchicha garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau. Taste of Maroc réserve le nom « dchicha » à la grosse orge concassée ; Lalla Moulati l'emploie pour l'orge concassée en général, comme cette recette.",
+   "t": "الدشيشة الخشنة تحتفظ بحبات متماسكة؛ أما المتوسطة (البلبولة) فتعطي حساءً أنعم. وتحتاج الخشنة إلى وقت أطول للنضج وإلى ماء أكثر قليلًا. يخصّ Taste of Maroc اسم «الدشيشة» بالشعير المجروش الخشن؛ أما Lalla Moulati فتستعمله للشعير المجروش عمومًا، كما في هذه الوصفة."
   },
   "secrets.1.source": {
    "fr": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne",
@@ -328,7 +328,7 @@
   },
   "secrets.8.text": {
    "fr": "Sers la soupe dès qu'elle est prête : en attendant, l'orge gonfle et la soupe épaissit.",
-   "t": "قدّم الحساء فور جاهزيته: فإذا انتظر، ينتفخ الشعير ويتكثّف الحساء."
+   "t": "قدّم الحساء فور جاهزيته: ففي أثناء الانتظار، ينتفخ الشعير ويتكثّف الحساء."
   },
   "secrets.8.source": {
    "fr": "Taste of Maroc ; Choumicha (« servir la h'ssoua aussitôt »)",
@@ -352,11 +352,11 @@
   },
   "secrets.11.text": {
    "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées, et mange-les dans les 3 jours.",
-   "t": "ضع البقايا في الثلاجة خلال 2 ساعة، في علب صغيرة مغلقة، وكُلها خلال 3 أيام."
+   "t": "ضع البقايا في الثلاجة خلال ساعتين، في علب صغيرة مغلقة، وكُلها خلال 3 أيام."
   },
   "secrets.11.source": {
    "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours)",
-   "t": "ANSES (2 ساعة، 3 أيام، حصص صغيرة)؛ USDA (2 ساعة، من 3 إلى 4 أيام)"
+   "t": "ANSES (ساعتان، 3 أيام، حصص صغيرة)؛ USDA (ساعتان، من 3 إلى 4 أيام)"
   },
   "mistakes.0": {
    "fr": "Ne pas laver l'orge (Taste of Maroc, Choumicha et Lalla Moulati la lavent toujours).",
@@ -380,11 +380,11 @@
   },
   "mistakes.5": {
    "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
-   "t": "ترك البقايا أكثر من 2 ساعة في حرارة الغرفة (ANSES؛ USDA)."
+   "t": "ترك البقايا أكثر من ساعتين في حرارة الغرفة (ANSES؛ USDA)."
   },
   "variants.0": {
    "fr": "Au lait, la h'ssoua belboula au lait (« hessoua blanche » chez Cooking with Alia) : l'orge cuit d'abord dans l'eau avec un peu d'huile d'olive, du sel, du poivre et du cumin, en remuant ; on ajoute le lait à la fin et on laisse cuire encore un peu. Lalla Moulati (2014) : 250 g d'orge, 1,5 l d'eau, 2 c. à s. d'huile, 30 min de cuisson avec du thym ajouté à mi-cuisson, puis 1/4 l de lait et 10 min. Cooking with Alia : lait ajouté après 15 min, puis 10 min, thym séché émietté dessus. Taste of Maroc : 30 à 40 min, puis lait, beurre et lait concentré non sucré, cumin au service.",
-   "t": "بالحليب، حسوة البلبولة بالحليب («الحسوة البيضاء» عند Cooking with Alia): يُطهى الشعير أولًا في الماء مع قليل من زيت الزيتون والملح والفلفل الأسود والكمون، مع التحريك؛ ثم يُضاف الحليب في النهاية ويُترك لينضج قليلًا بعد. Lalla Moulati (2014): 250 غ من الشعير، و1,5 ل من الماء، و2 ملعقة كبيرة من الزيت، و30 دقيقة من الطهي مع إضافة الزعتر في منتصفه، ثم 1/4 ل من الحليب و10 دقائق. Cooking with Alia: يُضاف الحليب بعد 15 دقيقة، ثم 10 دقائق، مع زعتر يابس مفتّت فوقه. Taste of Maroc: من 30 إلى 40 دقيقة، ثم الحليب والزبدة والحليب المركّز غير المحلّى، والكمون عند التقديم."
+   "t": "بالحليب، حسوة البلبولة بالحليب («الحسوة البيضاء» عند Cooking with Alia): يُطهى الشعير أولًا في الماء مع قليل من زيت الزيتون والملح والفلفل الأسود والكمون، مع التحريك؛ ثم يُضاف الحليب في النهاية ويُترك لينضج مدة قصيرة أخرى. Lalla Moulati (2014): 250 غ من الشعير، و1,5 ل من الماء، و2 ملعقة كبيرة من الزيت، و30 دقيقة من الطهي مع إضافة الزعتر في منتصفه، ثم 1/4 ل من الحليب و10 دقائق. Cooking with Alia: يُضاف الحليب بعد 15 دقيقة، ثم 10 دقائق، مع زعتر يابس مفتّت فوقه. Taste of Maroc: من 30 إلى 40 دقيقة، ثم الحليب والزبدة والحليب المركّز غير المحلّى، والكمون عند التقديم."
   },
   "variants.1": {
    "fr": "Avec un peu de viande halal : fais revenir de l'agneau ou du bœuf en petits dés avec l'oignon, puis laisse cuire le bouillon 15 à 20 minutes avant d'ajouter l'orge (Taste of Maroc : 85 g pour 4). Choumicha met 250 g de poitrine d'agneau pour 6, revenue 5 minutes.",
@@ -392,7 +392,7 @@
   },
   "variants.2": {
    "fr": "Aux crevettes : Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur). Garde les crevettes dans la partie la plus froide du réfrigérateur jusqu'à la cuisson, comme l'ANSES le recommande pour les viandes et les poissons.",
-   "t": "بالجمبري: تحضّر Choumicha مرقًا بالرؤوس والقشور، وتشوّح الجمبري 1 دقيقة في الزيت ثم تضعه جانبًا، وتضيف ورق الغار والهريسة والبقدونس والكزبرة، ثم تعيد الجمبري إلى الحساء الساخن قبيل التقديم. اتركه حتى يصير لحمه متماسكًا لؤلؤي اللون وغير شفاف (FDA: 63 درجة مئوية في قلبه). واحفظ الجمبري في أبرد جزء من الثلاجة حتى وقت الطهي، كما توصي ANSES بالنسبة للحوم والأسماك."
+   "t": "بالجمبري: تحضّر Choumicha مرقًا بالرؤوس والقشور، وتشوّح الجمبري دقيقة واحدة في الزيت ثم تضعه جانبًا، وتضيف ورق الغار والهريسة والبقدونس والكزبرة، ثم تعيد الجمبري إلى الحساء الساخن قبيل التقديم. اتركه حتى يصير لحمه متماسكًا لؤلؤي اللون وغير شفاف (FDA: 63 درجة مئوية في قلبه). واحفظ الجمبري في أبرد جزء من الثلاجة حتى وقت الطهي، كما توصي ANSES بالنسبة للحوم والأسماك."
   },
   "variants.3": {
    "fr": "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet.",

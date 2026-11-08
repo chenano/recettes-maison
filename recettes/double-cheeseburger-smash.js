@@ -141,8 +141,8 @@ window.RECETTES.push({
       "Retourne-le.",
       "Tu l'aimes plus salé ? Mets une petite pincée de sel sur cette face.",
       "Pose tout de suite 1 tranche de cheddar sur chaque steak.",
-      "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur."],
-      timer: { min: 0.75, label: "Fromage", done: "Le fromage a fondu ? Sors les steaks." } },
+      "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. Vérifie que le steak est cuit à cœur : coupé au centre, il ne doit plus être rosé et de la vapeur doit s'en échapper ; avec un thermomètre, il faut 70 °C à cœur pendant 2 minutes ou 75 °C pendant 30 secondes. Sinon, prolonge la cuisson."],
+      timer: { min: 0.75, label: "Fromage", done: "Le fromage a fondu et le steak est cuit à cœur ? Sors les steaks." } },
     { phase: "Service", title: "Monter le burger", text: [
       "Pose le premier steak-fromage sur un pain du bas garni, puis le deuxième par-dessus.",
       "Ajoute 2 rondelles d'oignon, puis 4 lamelles de cornichon.",
@@ -170,7 +170,12 @@ window.RECETTES.push({
   ],
   serving: "Tout de suite, dès que le burger est monté.",
   variants: [],
-  sources: [],
-  discrepancies: [],
+  sources: [
+    { name: "FSA (Food Standards Agency), « Cooking your food »", url: "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+      used_for: "Relecture : viande hachée et burgers cuits à cœur, 70 °C pendant 2 min ou 75 °C pendant 30 s, sinon plus de rosé et vapeur au centre ; pas de burger saignant ou rosé à la maison." },
+    { name: "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples »", url: "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+      used_for: "Relecture : viande hachée bien cuite à cœur, recommandée aux jeunes enfants, aux femmes enceintes et aux personnes immunodéprimées." }
+  ],
+  discrepancies: ["Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources (cuisson à cœur du steak haché)."],
   unverified: []
 });

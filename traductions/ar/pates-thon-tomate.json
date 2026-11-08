@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Tout de suite, avec un peu de persil cru sur l'assiette si tu aimes (recette bolognaise, d'après Dissapore et Il Giornale del Cibo). Les restes : dans une boîte hermétique au réfrigérateur, au plus 1 jour (Cookist) ; mets-les au froid dans les 2 heures après la cuisson (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
-   "t": "قدّمها فورًا، مع قليل من البقدونس النيء على الصحن إن أحببت (وصفة بولونيا، حسب Dissapore وIl Giornale del Cibo). البقايا: في علبة محكمة الإغلاق في الثلاجة، مدة أقصاها 1 يوم (Cookist)؛ ضعها في الثلاجة خلال 2 ساعة بعد الطهي (1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية)، وسخّنها حتى يبلغ قلبها 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية؛ وAnses بالنسبة إلى مدة 2 ساعة)."
+   "t": "قدّمها فورًا، مع قليل من البقدونس النيء على الصحن إن أحببت (وصفة بولونيا، حسب Dissapore وIl Giornale del Cibo). البقايا: في علبة محكمة الإغلاق في الثلاجة، مدة أقصاها يوم واحد (Cookist)؛ ضعها في الثلاجة خلال ساعتين بعد الطهي (ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية)، وسخّنها حتى يبلغ قلبها 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية؛ وAnses بالنسبة إلى مدة الساعتين)."
   },
   "ing.0.group": {
    "fr": "Sauce",
@@ -145,14 +145,6 @@
   "steps.1.text": {
    "fr": "Pèle et émince très finement {{oignon:full}}.",
    "t": "قشّر {{oignon:full}} وقطّعها إلى شرائح رقيقة جدًا."
-  },
-  "steps.1.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
-  },
-  "steps.1.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "تقطيع البصل إلى شرائح"
   },
   "steps.2.title": {
    "fr": "Prépare le thon et les tomates",
@@ -324,7 +316,7 @@
   },
   "mistakes.4": {
    "fr": "Garder le plat plus d'un jour : au plus 1 jour au réfrigérateur, en boîte hermétique (Cookist).",
-   "t": "الاحتفاظ بالطبق أكثر من يوم: مدة أقصاها 1 يوم في الثلاجة، في علبة محكمة الإغلاق (Cookist)."
+   "t": "الاحتفاظ بالطبق أكثر من يوم: مدة أقصاها يوم واحد في الثلاجة، في علبة محكمة الإغلاق (Cookist)."
   },
   "variants.0": {
    "fr": "La recette de Bologne, déposée par l'Accademia Italiana della Cucina (reprise par Dissapore en 2018 et par Il Giornale del Cibo en 2019) : pour 4, 320 g de spaghettis, 180 g de thon à l'huile, un oignon et 700 g de tomates fraîches (ou une boîte de 400 g de pelées), cuites une demi-heure à feu doux ; le thon s'ajoute 10 minutes avant la fin. Plus longue que la version rapide. Variantes admises : anchois ou persil.",

@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Bien fraîche, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté du plat : tajine, grillades ou poisson (My Moroccan Food ; MarocMama), avec du pain (Cooking With Alia). Au Maroc, plusieurs salades sont souvent posées sur la table avec le plat principal (Wikipédia FR, Cuisine marocaine).",
-   "t": "قدّمها باردة جيدًا، طبقًا أول (Wikipédia FR، Cuisine marocaine) أو إلى جانب الطبق: طاجين أو مشويات أو سمك (My Moroccan Food؛ MarocMama)، مع الخبز (Cooking With Alia). في المغرب، توضع غالبًا عدة سلطات على المائدة مع الطبق الرئيسي (Wikipédia FR، Cuisine marocaine)."
+   "t": "قدّمها مبرّدة جيدًا، طبقًا أول (Wikipédia FR، Cuisine marocaine) أو إلى جانب الطبق: طاجين أو مشويات أو سمك (My Moroccan Food؛ MarocMama)، مع الخبز (Cooking With Alia). في المغرب، توضع غالبًا عدة سلطات على المائدة مع الطبق الرئيسي (Wikipédia FR، Cuisine marocaine)."
   },
   "ing.0.group": {
    "fr": "Légumes et herbes",
@@ -108,11 +108,11 @@
   },
   "ing.khobz.note": {
    "fr": "pour accompagner",
-   "t": "للمرافقة"
+   "t": "يُقدَّم معها"
   },
   "equipment.0": {
    "fr": "Planche et couteau bien aiguisé",
-   "t": "لوح تقطيع وسكين حاد جيدًا"
+   "t": "لوح تقطيع وسكين شديد الحدّة"
   },
   "equipment.1": {
    "fr": "Brosse à légumes propre, pour le concombre",
@@ -178,14 +178,6 @@
    "fr": "Épluche et hache très finement {{oignon:full}}.",
    "t": "قشّر {{oignon:full}} وافرمها فرمًا ناعمًا جدًا."
   },
-  "steps.3.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
-  },
-  "steps.3.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "تقطيع البصل إلى شرائح"
-  },
   "steps.4.title": {
    "fr": "Hache le persil",
    "t": "افرم البقدونس"
@@ -244,11 +236,11 @@
   },
   "steps.9.title": {
    "fr": "Sers bien frais",
-   "t": "قدّمها باردة جيدًا"
+   "t": "قدّمها مبرّدة جيدًا"
   },
   "steps.9.text": {
    "fr": "Sers tout de suite, bien frais, avec du {{khobz}}, à côté d'un tajine, de grillades ou de poisson.",
-   "t": "قدّمها فورًا، باردة جيدًا، مع {{khobz}}، إلى جانب طاجين أو مشويات أو سمك."
+   "t": "قدّمها فورًا، مبرّدة جيدًا، مع {{khobz}}، إلى جانب طاجين أو مشويات أو سمك."
   },
   "steps.9.tip": {
    "fr": "Pour une jolie assiette, tasse la salade dans un grand emporte-pièce posé sur l'assiette, puis retire-le doucement (Cooking With Alia).",
@@ -368,7 +360,7 @@
   },
   "mistakes.4": {
    "fr": "Laisser la salade plus de 2 heures à température ambiante (Anses).",
-   "t": "ترك السلطة أكثر من 2 ساعة في حرارة الغرفة (Anses)."
+   "t": "ترك السلطة أكثر من ساعتين في حرارة الغرفة (Anses)."
   },
   "variants.0": {
    "fr": "Salade marocaine de Choumicha : 4 tomates, 1 oignon, 1 poivron vert en petits morceaux, persil, huile d'olive, vinaigre ou jus de citron, sel ; sans concombre, servie avec des brochettes de kefta.",

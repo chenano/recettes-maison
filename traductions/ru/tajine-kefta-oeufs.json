@@ -8,7 +8,7 @@
   },
   "darija": {
    "fr": "Tajine kefta mkaouara bel bid",
-   "t": "Tajine kefta mkaouara bel bid"
+   "t": "Таджин кефта мкауара бель бид"
   },
   "tagline": {
    "fr": "De petites boulettes aux herbes et au cumin qui mijotent dans une sauce tomate relevée, des œufs au jaune coulant, et du khobz pour tout saucer.",
@@ -45,10 +45,6 @@
   "ing.oignon-kefta.pl": {
    "fr": "petits oignons, râpés",
    "t": "луковицы небольшого размера (натереть на тёрке)"
-  },
-  "ing.oignon-kefta.pl5": {
-   "fr": "petit oignon, râpé / petits oignons, râpés",
-   "t": "луковиц небольшого размера (натереть на тёрке)"
   },
   "ing.persil-kefta.name": {
    "fr": "de persil plat haché",
@@ -98,10 +94,6 @@
    "fr": "oignons moyens, hachés finement",
    "t": "луковицы среднего размера (мелко нарезать)"
   },
-  "ing.oignon-sauce.pl5": {
-   "fr": "oignon moyen, haché finement / oignons moyens, hachés finement",
-   "t": "луковиц среднего размера (мелко нарезать)"
-  },
   "ing.ail.name": {
    "fr": "gousse d'ail, écrasée",
    "t": "зубчик чеснока (раздавить)"
@@ -109,10 +101,6 @@
   "ing.ail.pl": {
    "fr": "gousses d'ail, écrasées",
    "t": "зубчика чеснока (раздавить)"
-  },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail, écrasée / gousses d'ail, écrasées",
-   "t": "зубчиков чеснока (раздавить)"
   },
   "ing.paprika-sauce.name": {
    "fr": "de paprika doux",
@@ -169,10 +157,6 @@
   "ing.oeufs.pl": {
    "fr": "œufs",
    "t": "яйца"
-  },
-  "ing.oeufs.pl5": {
-   "fr": "œuf / œufs",
-   "t": "яиц"
   },
   "ing.oeufs.note": {
    "fr": "fermiers (beldi) de préférence",
@@ -259,8 +243,8 @@
    "t": "Обжарьте лук и чеснок"
   },
   "steps.3.text": {
-   "fr": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
-   "t": "Поставьте таджин на рассекатель пламени (или возьмите сотейник) на огонь ниже среднего и разогрейте {{huile:full}}. Добавьте мелко нарезанный лук ({{oignon-sauce}} шт.) и, помешивая, дайте ему размягчиться несколько минут. Добавьте раздавленный чеснок ({{ail}} шт.) и помешивайте 1–2 минуты, пока не появится аромат, не давая чесноку подгореть."
+   "fr": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "t": "Поставьте таджин на огонь ниже среднего (на рассекатель, если у вас не газовая плита; на газу без рассекателя пламя не должно касаться дна) или возьмите сотейник. Разогрейте {{huile:full}}. Добавьте мелко нарезанный лук ({{oignon-sauce}} шт.) и, помешивая, дайте ему размягчиться несколько минут. Добавьте раздавленный чеснок ({{ail}} шт.) и помешивайте 1–2 минуты, пока не появится аромат, не давая чесноку подгореть."
   },
   "steps.4.title": {
    "fr": "Fais mijoter la sauce",
@@ -323,8 +307,8 @@
    "t": "Яйца"
   },
   "steps.8.timer.done": {
-   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
-   "t": "Белок схватился, желток ещё жидкий: сразу выключите огонь."
+   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, prolonge de quelques minutes, jusqu'à ce que le jaune soit pris.",
+   "t": "Белок схватился, желток ещё жидкий: сразу выключите огонь. Если блюдо для беременной женщины, маленького ребёнка, пожилого или ослабленного человека, готовьте ещё несколько минут, пока желток не схватится."
   },
   "steps.9.title": {
    "fr": "Sers dans le tajine",
@@ -332,7 +316,7 @@
   },
   "steps.9.text": {
    "fr": "Parsème {{coriandre-deco:full}}. Pose le tajine au milieu de la table et sers tout de suite, dans le plat de cuisson. Chacun se sert à la main avec des morceaux de {{khobz:full}}, en trempant le pain dans la sauce et le jaune.",
-   "t": "Посыпьте {{coriandre-deco:full}}. Поставьте таджин в центр стола и сразу подавайте, прямо в посуде, в которой готовили. Каждый берёт еду руками с кусочками хобза, обмакивая хлеб в соус и желток."
+   "t": "Посыпьте {{coriandre-deco:full}}. Поставьте таджин в центр стола и сразу подавайте, прямо в посуде, в которой готовили. Каждый ест руками, помогая себе кусочками хобза и обмакивая хлеб в соус и желток."
   },
   "secrets.0.text": {
    "fr": "L'assaisonnement classique de la kefta repose au minimum sur le paprika, le cumin, l'oignon et les herbes fraîches.",
@@ -460,7 +444,7 @@
   },
   "mistakes.5": {
    "fr": "Ajouter les boulettes avant que la sauce ait épaissi.",
-   "t": "Добавлять фрикадельки, пока соус не загустел."
+   "t": "Добавлять фрикадельки до того, как соус загустеет."
   },
   "mistakes.6": {
    "fr": "Prolonger la cuisson des boulettes : elles durcissent.",
@@ -524,7 +508,7 @@
   },
   "variants.10": {
    "fr": "Jaune bien cuit (MarocMama), œufs battus versés sur la sauce, ou pas d'œufs du tout : ils restent facultatifs (MarocMama, Taste of Maroc).",
-   "t": "Хорошо приготовленный желток (MarocMama), взбитые яйца, вылитые на соус, или вовсе без яиц: они необязательны (MarocMama, Taste of Maroc)."
+   "t": "Полностью схватившийся желток (MarocMama), взбитые яйца, вылитые на соус, или вовсе без яиц: они необязательны (MarocMama, Taste of Maroc)."
   },
   "variants.11": {
    "fr": "Avec des légumes : petits pois (MarocMama, Amour de cuisine), aubergine en dés et harissa (My Moroccan Food), courgette ou poivron (Amour de cuisine).",
@@ -541,6 +525,22 @@
   "variants.14": {
    "fr": "Tomates en conserve pour dépanner (pelées chez My Moroccan Food, en morceaux chez Amour de cuisine).",
    "t": "Консервированные помидоры, если нет свежих (очищенные — у My Moroccan Food, кусочками — у Amour de cuisine)."
+  },
+  "ing.oignon-kefta.pl5": {
+   "fr": "petit oignon, râpé / petits oignons, râpés",
+   "t": "луковиц небольшого размера (натереть на тёрке)"
+  },
+  "ing.oignon-sauce.pl5": {
+   "fr": "oignon moyen, haché finement / oignons moyens, hachés finement",
+   "t": "луковиц среднего размера (мелко нарезать)"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail, écrasée / gousses d'ail, écrasées",
+   "t": "зубчиков чеснока (раздавить)"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
   }
  }
 }

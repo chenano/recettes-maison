@@ -1,0 +1,80 @@
+{
+ "slug": "houmous",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [],
+ "corrections": [
+  {
+   "champ": "sources[8]",
+   "actuel": "USDA FoodData Central, « Chickpeas (garbanzo beans, bengal gram), mature seeds, raw » (SR Legacy, n° 173756)",
+   "propose": "(retirer toute l'entrée sources[8])",
+   "pourquoi": "Le lien est un appel d'API avec la clé de démonstration DEMO_KEY : ce n'est pas une source citable. La page publique équivalente (fdc.nal.usda.gov/food-details/173756/nutrients) répond 404 à la lecture : la conversion 1 tasse = 200 g n'a pas pu être revérifiée.",
+   "gravite": "majeure",
+   "sources": "Consigne du coordinateur (clé de démonstration non citable) ; essai de la page publique FoodData Central le 8 novembre 2026"
+  },
+  {
+   "champ": "discrepancies[15]",
+   "actuel": "1 tasse de pois chiches secs = 200 g (USDA)",
+   "propose": "1 tasse de pois chiches secs = 200 g (USDA FoodData Central, non revérifié sur une page publique)",
+   "pourquoi": "Suite du retrait du lien DEMO_KEY : la valeur reste une hypothèse de calcul, utilisée pour les quantités de recettelibanaise.com.",
+   "gravite": "mineure",
+   "sources": "Idem"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "1 tasse = 200 g selon l'USDA",
+   "propose": "1 tasse = 200 g selon l'USDA, non revérifié",
+   "pourquoi": "Même raison : le seul lien vers cette valeur est l'API avec DEMO_KEY, à retirer.",
+   "gravite": "mineure",
+   "sources": "Consigne du coordinateur ; page publique FoodData Central en 404"
+  },
+  {
+   "champ": "secrets[12].text",
+   "actuel": "Des chefs libanais ont battu le record Guinness du plus grand plat de houmous : 2 tonnes.",
+   "propose": "Mama's Lebanese Kitchen raconte que des chefs libanais ont battu le record Guinness du plus grand plat de houmous, avec plus de 2 tonnes (date non donnée).",
+   "pourquoi": "La source dit « A few years ago ... weighing over 2 Tons », sans date, dans un article de 2011. Le fait n'est confirmé par aucune autre source lue (Wikipédia en français n'en parle pas) et le record a pu être battu depuis : il faut l'attribuer à la source.",
+   "gravite": "mineure",
+   "sources": "Mama's Lebanese Kitchen (2 juin 2011, mis à jour 2026) ; Wikipédia (français), « Houmous »"
+  },
+  {
+   "champ": "unverified[9]",
+   "actuel": "Difficulté « Facile » : choix de rédaction, aucune source ne la note pour cette recette.",
+   "propose": "Difficulté « Facile » : la même que recettelibanaise.com (« Difficulté : facile »).",
+   "pourquoi": "La page « Houmous ultra crémeux » donne dans ses infos pratiques « Difficulté : facile ».",
+   "gravite": "mineure",
+   "sources": "recettelibanaise.com, « Houmous ultra crémeux », 28 mars 2020"
+  },
+  {
+   "champ": "unverified[6]",
+   "actuel": "Date et auteur de la recette « Hommos » de recettelibanaise.com : non relevés.",
+   "propose": "Recette « Hommos » de recettelibanaise.com : publiée le 24 février 2020, auteur affiché « Recette Libanaise » (pas de nom de personne).",
+   "pourquoi": "Date et auteur lus dans les données de la page (datePublished 2020-02-24, author « Recette Libanaise »).",
+   "gravite": "mineure",
+   "sources": "recettelibanaise.com, « Hommos »"
+  },
+  {
+   "champ": "sources[3].name",
+   "actuel": "recettelibanaise.com, « Hommos »",
+   "propose": "recettelibanaise.com, « Hommos », 24 février 2020",
+   "pourquoi": "Date de publication lue sur la page (datePublished 2020-02-24).",
+   "gravite": "mineure",
+   "sources": "recettelibanaise.com, « Hommos »"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Robots.txt : Hadia's Lebanese Cuisine, recettelibanaise.com, Wikipédia et gov.uk n'interdisent pas les pages utiles ; Mama's Lebanese Kitchen autorise explicitement ClaudeBot, Claude-User et Claude-SearchBot (25 septembre 2026).",
+  "Chef in Disguise : son robots.txt (WordPress.com, généré le 30 janvier 2026) n'interdit que des pages d'administration et ne cite aucun robot Claude ; la page répond 200 à la lecture, sans 403. Source gardée. Lu : trempage d'une nuit, ils doublent presque ; eau jetée et rinçage ; 10 cm d'eau ; écume ; 1 c. à c. de bicarbonate pour 500 g ; 20 à 30 minutes ou écrasés aux doigts ; refroidir ; éplucher change très peu ; conserve « a little gritty » ; un peu trop cuits pour un houmous lisse ; rincer contre le goût du bicarbonate ; frigo 5 à 7 jours ; yaourt grec. Page « About » : palestinienne, née à Jénine, élevée à Amman, de retour en Jordanie en 2018.",
+  "Hadia (fiche : 7 personnes, cuisson 60 min) : 500 g, 400 g de tahini, 2 c. à c. de bicarbonate, 1 c. à s. de sel, 2 c. à s. de citron filtré, 1 c. à s. d'acide citrique, 1 tasse de glaçons, 2 ou 3 gousses ; deux fois leur volume d'eau ; 1,5 l d'eau fraîche ; écumer deux fois ; frémir 1 à 2 heures ; mixer chaud ; tahini en filet ; refus de la conserve ; tahini libanais ; pulpe amère ; acide citrique ; tournesol des chefs de Beyrouth ; glaçons qui refroidissent les lames ; peaux défaites par le bicarbonate ; 6 jours et ail au service ; petit-déjeuner (foul, menthe, oignon cru, pita) : conforme.",
+  "Mama's (2 juin 2011 ; 4 personnes) : 1 lb, 4 gousses, 8 c. à s. de tahini, ⅔ tasse de citron, ⅓ c. à c. de sel ; trempage 10 heures avec ½ c. à c. de bicarbonate ; rinçage ; environ 6 tasses d'eau ; frémir environ 1 heure à couvert ; écumer sans enlever l'eau ; test à 45 minutes ; mixer chaud avec ½ à 1 tasse d'eau tiède ; sel et ail puis tahini lentement ; citron à la fin ; servi tiède avec pickles, olives, menthe, poivrons verts, oignons ; pita ; « Sham region » ; « Hummus » = pois chiches : conforme.",
+  "recettelibanaise.com, « Houmous ultra crémeux » (28 mars 2020 ; 4 personnes ; 30 min, 1 h) : 1 tasse, 2 c. à c. de bicarbonate (trempage et cuisson), 1 gousse, ⅓ tasse de citron, 1 c. à c. de sel, ½ c. à c. de cumin, ½ tasse de tahini, ¼ tasse d'eau glacée ; ils doublent ; 10 cm d'eau ; écume ; 1 heure à couvert ; « pois chiches trop cuits » ; peaux retirées ; tahini d'abord ; persil, olives, citron, pain libanais grillé : conforme. « Hommos » : version conserve conforme.",
+  "Wikipédia (français) : حمص بطحينة (ḥummuṣ bi-ṭaḥīna), « pois chiche » en arabe, origine très disputée, « guerre du houmous » : conforme. FSA : frigo 0 à 5 °C, pas de plat chaud au frigo, refroidir puis frigo dans les 1 à 2 heures, restes 2 jours : conforme.",
+  "Calculs (python3 -I) : 500 g pour 7 = 71 g par personne ; ramenés à 500 g : tahini 296 et 130 ml, citron 174 et 197 ml, sel 3, 2,5 et 0,37 c. à c., ail 2,5 et 4,4, bicarbonate 0,55, eau de cuisson 1,56 l ; médianes retenues cohérentes. Temps : trempage 600 min = 10 h, cuisson 60 min = minuteur.",
+  "Rendu dans l'appli : pour 1, 70 g, 215 ml, ⅛ c. à c., ½ gousse d'ail, ⅜ c. à c. de sel, 45 ml, 25 ml, 30 ml ; pour 7, 500 g, 1,5 l, 3 gousses, 2½ c. à c., 300, 175 et 200 ml ; pour 14, 1 kg, 3 l, 6 gousses, 600, 350 et 400 ml ; ingrédients sans quantité affichés par leur nom. Halal : ni viande ni alcool."
+ ],
+ "non_verifiable": [
+  "Aucune source libanaise ou levantine nouvelle exploitable : Taste of Beirut (robots.txt permissif) renvoie une page de recherche vide ; Anissa Helou non consultée faute de lien connu ; quota de recherche web épuisé.",
+  "Conversion 1 tasse de pois chiches secs = 200 g : non revérifiée (API DEMO_KEY non citable, page publique FoodData Central en 404). Les quantités tirées de recettelibanaise.com en dépendent.",
+  "Record Guinness : date et poids actuels non vérifiés (pas de source autre que Mama's).",
+  "Avis d'une autorité sanitaire libanaise ou marocaine sur la conservation du houmous : non consulté ; la règle des 2 jours est celle de la FSA pour les restes.",
+  "Nom en darija : aucune source trouvée."
+ ]
+}

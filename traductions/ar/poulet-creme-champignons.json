@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Bien chaud, nappé de sauce, avec du riz (Chef Simon le sert avec un riz créole) ou des pâtes, des tagliatelles par exemple (Betty Bossi ; Chef Simon conseille des pâtes fraîches). En Suisse, on le sert aussi avec des röstis ou des spätzli (Migusto, Wikipédia). Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA). Crème entamée : suis la durée « après ouverture » de l'étiquette, sinon 3 jours au plus (Anses, FSA).",
-   "t": "قدّمه ساخنًا جيدًا، مغطّى بالصلصة، مع الأرز (يقدّمه Chef Simon مع أرز كريولي) أو المعكرونة، كالتالياتيلي مثلًا (Betty Bossi؛ وينصح Chef Simon بالمعكرونة الطازجة). وفي سويسرا، يُقدَّم أيضًا مع الروستي أو الشبيتزلي (Migusto، Wikipédia). البقايا: يوضع الدجاج بالصلصة في الثلاجة خلال 2 ساعة (Anses، FSA)، ويؤكل في غضون 2 يوم (FSA؛ وتقول Anses أقل من 3 أيام للطبق المطبوخ). أما الأرز فيُبرَّد بأسرع ما يمكن، ويُستحسن خلال ساعة، ويُحفظ 24 ساعة على الأكثر في الثلاجة (FSA). ويُسخَّن الكل مرة واحدة فقط، مغطّى، حتى يصير ساخنًا جدًا ويتصاعد منه البخار (Anses، FSA). القشدة المفتوحة: اتبع مدة «بعد الفتح» المكتوبة على الملصق، وإلا فـ3 أيام على الأكثر (Anses، FSA)."
+   "t": "قدّمه ساخنًا جدًا، مغطّى بالصلصة، مع الأرز (يقدّمه Chef Simon مع أرز كريولي) أو المعكرونة، كالتالياتيلي مثلًا (Betty Bossi؛ وينصح Chef Simon بالمعكرونة الطازجة). وفي سويسرا، يُقدَّم أيضًا مع الروستي أو الشبيتزلي (Migusto، Wikipédia). البقايا: يوضع الدجاج بالصلصة في الثلاجة خلال ساعتين (Anses، FSA)، ويؤكل في غضون يومين (FSA؛ وتقول Anses أقل من 3 أيام للطبق المطبوخ). أما الأرز فيُبرَّد بأسرع ما يمكن، ويُستحسن خلال ساعة، ويُحفظ 24 ساعة على الأكثر في الثلاجة (FSA). ويُسخَّن الكل مرة واحدة فقط، مغطّى، حتى يصير ساخنًا جدًا ويتصاعد منه البخار (Anses، FSA). القشدة المفتوحة: اتبع مدة «بعد الفتح» المكتوبة على الملصق، وإلا فـ3 أيام على الأكثر (Anses، FSA)."
   },
   "ing.0.group": {
    "fr": "Poulet",
@@ -144,7 +144,7 @@
   },
   "equipment.2": {
    "fr": "Une planche à découper et un couteau bien aiguisé",
-   "t": "لوح تقطيع وسكين حاد جيدًا"
+   "t": "لوح تقطيع وسكين شديد الحدّة"
   },
   "equipment.3": {
    "fr": "Une assiette propre, pour le poulet saisi",
@@ -177,14 +177,6 @@
   "steps.1.text": {
    "fr": "Pèle et hache finement {{oignon:full}}.",
    "t": "قشّر {{oignon:full}} وافرمها فرمًا ناعمًا."
-  },
-  "steps.1.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
-  },
-  "steps.1.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "تقطيع البصل إلى شرائح"
   },
   "steps.2.title": {
    "fr": "Nettoie les champignons",
@@ -228,7 +220,7 @@
   },
   "steps.6.text": {
    "fr": "Dans la grande poêle, chauffe à feu vif la moitié de l'huile ({{huile}} en tout), bien chaude mais sans fumer. Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ : laisse-le d'abord sans y toucher, puis retourne-le pour dorer tous les côtés.",
-   "t": "في المقلاة الكبيرة، سخّن على نار قوية نصف الزيت ({{huile}} في المجموع) حتى يصير ساخنًا جيدًا دون أن يدخّن. ضع نصف الدجاج، أو نحو 300 غ إذا كنت تطبخ لأكثر من 4 أشخاص، واتركه يتحمّر نحو 2 دقيقة: اتركه أولًا دون أن تلمسه، ثم اقلبه ليتحمّر من كل الجهات."
+   "t": "في المقلاة الكبيرة، سخّن على نار قوية نصف الزيت ({{huile}} في المجموع) حتى يصير ساخنًا جيدًا دون أن يدخّن. ضع نصف الدجاج، أو نحو 300 غ إذا كنت تطبخ لأكثر من 4 أشخاص، واتركه يتحمّر نحو دقيقتين: اتركه أولًا دون أن تلمسه، ثم اقلبه ليتحمّر من كل الجهات."
   },
   "steps.6.tip": {
    "fr": "Si tu remues trop tôt ou sans arrêt, la poêle refroidit et le poulet cuit à la vapeur au lieu de dorer (Betty Bossi).",
@@ -248,7 +240,7 @@
   },
   "steps.7.text": {
    "fr": "Sors le poulet sur une assiette propre, pas celle du poulet cru. Verse le reste de l'huile et saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
-   "t": "أخرج الدجاج إلى صحن نظيف، لا الصحن الذي كان فيه الدجاج النيء. اسكب باقي الزيت وحمّر باقي الدجاج بالطريقة نفسها، نحو 2 دقيقة لكل دفعة، ثم أخرجه هو أيضًا."
+   "t": "أخرج الدجاج إلى صحن نظيف، لا الصحن الذي كان فيه الدجاج النيء. اسكب باقي الزيت وحمّر باقي الدجاج بالطريقة نفسها، نحو دقيقتين لكل دفعة، ثم أخرجه هو أيضًا."
   },
   "steps.7.tip": {
    "fr": "Le poulet finira de cuire dans la sauce : à la fin, il doit être bien cuit (Migusto).",
@@ -308,7 +300,7 @@
   },
   "steps.12.text": {
    "fr": "Remets le poulet dans la sauce, avec le jus qu'il a rendu dans l'assiette. Laisse frémir doucement quelques minutes, sans faire bouillir fort, jusqu'à ce qu'il soit cuit à cœur : coupe le plus gros morceau, il doit être blanc au centre, sans rose, avec un jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C.",
-   "t": "أعد الدجاج إلى الصلصة، مع العصارة التي خرجت منه في الصحن. اتركه يغلي غليانًا خفيفًا بضع دقائق، دون غليان قوي، حتى ينضج حتى قلبه: اقطع أكبر قطعة، يجب أن تكون بيضاء في الوسط، دون أي لون وردي، وعصارتها صافية. بميزان الحرارة، يجب أن تبلغ حرارة القلب 75 درجة مئوية على الأقل."
+   "t": "أعد الدجاج إلى الصلصة، مع العصارة التي خرجت منه في الصحن. اتركه يغلي غليانًا خفيفًا بضع دقائق، دون غليان قوي، حتى ينضج من الداخل تمامًا: اقطع أكبر قطعة، يجب أن تكون بيضاء في الوسط، دون أي لون وردي، وعصارتها صافية. بميزان الحرارة، يجب أن تبلغ حرارة القلب 75 درجة مئوية على الأقل."
   },
   "steps.12.tip": {
    "fr": "Un gros bouillon durcit le blanc de poulet : un petit frémissement suffit (Escoffier, Chef Simon).",

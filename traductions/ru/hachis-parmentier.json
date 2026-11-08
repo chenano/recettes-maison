@@ -86,10 +86,6 @@
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
-  },
   "ing.ail.name": {
    "fr": "gousse d'ail",
    "t": "зубчик чеснока"
@@ -97,10 +93,6 @@
   "ing.ail.pl": {
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
-  },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
   },
   "ing.boeuf.name": {
    "fr": "de bœuf haché halal",
@@ -533,6 +525,14 @@
   "variants.10": {
    "fr": "Ailleurs : le cottage pie au Royaume-Uni, et le pâté chinois au Québec, avec une couche de maïs (Wikipédia).",
    "t": "В других странах: коттедж-пай в Великобритании и пате шинуа в Квебеке, со слоем кукурузы (Wikipédia)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
   }
  }
 }

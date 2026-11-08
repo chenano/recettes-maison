@@ -113,7 +113,7 @@ window.RECETTES.push({
   {
    "phase": "Préparation",
    "title": "Former les boules",
-   "text": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
+   "text": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 60 cm de long), mets une boule par plaque.",
    "timer": null
   },
   {
@@ -139,7 +139,7 @@ window.RECETTES.push({
    "timer": {
     "min": 60,
     "label": "Levée des pains",
-    "done": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu."
+    "done": "Appuie légèrement du bout du doigt : si le creux remonte lentement, c'est prêt. S'il remonte tout de suite, attends encore un peu ; s'il ne remonte pas du tout, la pâte a trop levé."
    }
   },
   {
@@ -380,6 +380,16 @@ window.RECETTES.push({
    "name": "Wiktionary (anglais), « aɣrum »",
    "url": "https://en.wiktionary.org/wiki/a%C9%A3rum",
    "used_for": "Contre-vérification : aɣrum (ⴰⵖⵔⵓⵎ) veut dire « pain » en tachelhit, en tarifit et en senhaja de Srair : recoupe « agroum en tachelhit ». La page ne dit rien de « kesra »."
+  },
+  {
+   "name": "King Arthur Baking, « How to tell if bread dough has risen enough » (22 août 2022)",
+   "url": "https://www.kingarthurbaking.com/blog/2022/08/22/how-to-tell-if-bread-dough-has-risen-enough",
+   "used_for": "Relecture : Test du doigt : si le creux remonte tout de suite, la pâte doit lever encore."
+  },
+  {
+   "name": "The Perfect Loaf, « How to use the dough poke test »",
+   "url": "https://www.theperfectloaf.com/how-to-use-the-dough-poke-test/",
+   "used_for": "Relecture : Creux qui remonte vite : pas assez levé ; lentement : prêt ; pas du tout : trop levé."
   }
  ],
  "discrepancies": [
@@ -397,7 +407,8 @@ window.RECETTES.push({
   "Plaque : papier cuisson, huile, semoule ou semoule de maïs (Taste of Maroc) ; boules roulées dans la semoule ou la farine (Choumicha) ; plaque graissée ou chemisée (My Moroccan Food). Retenu : semoule fine.",
   "Nombre de pains : 2 pains de 8 pouces (20 cm) chez Taste of Maroc ; pâte partagée en 2 ou 3 et « 3-4 rounds » chez MarocMama ; 10 petits pains de 10 cm chez My Moroccan Food ; nombre non précisé chez Choumicha. Retenu : 2 pains, comme la base de Taste of Maroc ; aplatis à 6 mm comme chez Taste of Maroc, MarocMama et Cooking with Alia, ils font 27 à 30 cm de large (calcul sur environ 835 g de pâte), et non 20 cm : à 20 cm, chacun ferait 1,1 à 1,3 cm d'épaisseur avant la levée.",
   "Durées : Taste of Maroc indique 15 min de préparation, 1 h 15 de levée et 20 min de cuisson ; MarocMama 1 h 15 de préparation (levées comprises) et 20 min de cuisson. Retenu : 20 min de préparation (estimation, voir non vérifié), 1 h 15 de repos et de levée (15 + 60 min), 20 min de cuisson.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s). 1 correction(s) proposée(s) non retenue(s) : l'appli affiche désormais 315 ml, car elle arrondit à 5 ml près sous 500 ml"
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s). 1 correction(s) proposée(s) non retenue(s) : l'appli affiche désormais 315 ml, car elle arrondit à 5 ml près sous 500 ml",
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Choumicha : son site officiel ne répond pas (erreur 525 le 6 novembre 2026) ; ses recettes ont été lues sur les copies archivées de web.archive.org (fin 2021). Le type de levure de ses « 20 g de levure boulangère » (fraîche ou sèche) n'est pas précisé ; aucune équivalence levure fraîche / levure sèche n'est donnée ici.",

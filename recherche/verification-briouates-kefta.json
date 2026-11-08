@@ -1,0 +1,76 @@
+{
+ "slug": "briouates-kefta",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [],
+ "corrections": [
+  {
+   "champ": "steps[9].text",
+   "actuel": "Pose une bonne cuillère à soupe de farce à un bout de la bande.",
+   "propose": "Pose environ 2 cuillères à café de farce (un peu plus d'une demi-cuillère à soupe) à un bout de la bande : avec cette dose, la farce suffit pour toutes les pièces.",
+   "pourquoi": "Incohérence de quantité, déjà présente dans la source : Femmes du Maroc annonce 80 briouates avec 500 g de viande ET « 1 bonne cuillère à soupe » par pièce. My Moroccan Food remplit 15 briouates de 3 c. à s. avec 450 g de kefta et 3 œufs, soit 45 c. à s. de farce, environ 50 c. à s. pour 500 g (calcul python3 -I) : pour 80 pièces, il reste environ 0,6 c. à s. (1,9 c. à c.) par pièce. Avec une bonne cuillère à soupe, la farce s'arrête vers 50 pièces. Bladi.net (cigares) met justement 1 c. à c. par pièce, et Choumicha (n° 493) « un peu de farce ». Si la famille préfère garder une bonne cuillère à soupe, il faut plutôt passer servings à environ 50 : c'est à l'utilisateur de choisir.",
+   "gravite": "majeure",
+   "sources": "Femmes du Maroc (80 briouates, 500 g, 1 bonne c. à s.) ; My Moroccan Food Classic Kefta Briouate (15 pièces, 3 c. à s., 450 g, 3 œufs) ; Bladi.net Cigares au kefta (1 c. à c.) ; Choumicha n° 493 ; calcul python3 -I"
+  },
+  {
+   "champ": "secrets[7].text",
+   "actuel": "et une cuillère à soupe de farce : c'est la taille classique.",
+   "propose": "et un peu de farce : environ 2 cuillères à café par pièce.",
+   "pourquoi": "« Taille classique » ne figure dans aucune source lue. Femmes du Maroc et Bladi.net disent 1 (bonne) c. à s., mais cette dose ne permet pas 80 pièces avec 500 g de viande (voir la correction de steps[9].text) ; Choumicha (n° 493) dit seulement « un peu de farce ».",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc ; Bladi.net Briouats à la viande hachée ; Choumicha n° 493 ; My Moroccan Food ; calcul python3 -I"
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "Nombre : 80 pièces chez Femmes du Maroc, seule à le chiffrer ; My Moroccan Food fait 15 grandes briouates de 3 c. à s. avec 450 g.",
+   "propose": "Nombre : 80 pièces chez Femmes du Maroc, seule à le chiffrer pour ce style ; My Moroccan Food fait 15 grandes briouates de 3 c. à s. avec 450 g, soit environ 50 c. à s. de farce pour 500 g : pour 80 pièces, il faut environ 2 c. à c. par pièce, pas une bonne c. à s. (calcul python3 -I). Choumicha compte 24 cigares pour 600 g (n° 1330, 12 feuilles coupées en deux) et 12 briouates pour 200 g d'agneau (n° 477, 12 bandes de filo) ; Bladi.net (cigares) met 1 c. à c. par pièce.",
+   "pourquoi": "Le texte actuel ne signale pas que les 80 pièces de Femmes du Maroc sont incompatibles avec sa propre « bonne cuillère à soupe », alors que les autres sources chiffrées donnent bien plus de viande par pièce (Femmes du Maroc 6,25 g crue, Choumicha 16,7 et 25 g, My Moroccan Food 30 g).",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc ; My Moroccan Food ; Choumicha n° 1330 et 477 ; Bladi.net Cigares au kefta ; calcul python3 -I"
+  },
+  {
+   "champ": "steps[7].text",
+   "actuel": "Coupe {{feuilles}} de feuilles de brick en deux.",
+   "propose": "Coupe chaque feuille de brick en deux ({{feuilles}} en tout).",
+   "pourquoi": "Phrase ambiguë, surtout pour la traduction : l'appli affiche « Coupe 1 kg de feuilles de brick en deux », qu'on peut lire comme « partage le kilo en deux tas ». Femmes du Maroc et Bladi.net coupent chaque feuille en deux (une demi-feuille par pièce).",
+   "gravite": "mineure",
+   "sources": "Femmes du Maroc ; Bladi.net ; rendu reproduit d'après app.html (fmtQ)"
+  },
+  {
+   "champ": "steps[5].text",
+   "actuel": "Verse les œufs peu à peu sur la viande",
+   "propose": "Verse les œufs battus peu à peu sur la viande (pour une petite fournée, bats un œuf entier et n'en verse que la part indiquée)",
+   "pourquoi": "Rendu dans l'appli : sous 24 pièces, la quantité d'œufs devient une fraction (« ¼ œuf » de 1 à 9 pièces, « ½ œuf » de 10 à 16, « ¾ œuf » de 17 à 23 ; l'appli n'affiche jamais 0, minimum ¼), et à 1 pièce le texte dit « Bats ¼ œuf […] Verse les œufs ». La précision évite la confusion.",
+   "gravite": "mineure",
+   "sources": "app.html : renderRecipe (m = n / servings), fmtQ et frac (minimum ¼ pour les pièces), reproduits avec python3 -I"
+  },
+  {
+   "champ": "ingredients[1].items[1].note",
+   "actuel": "pour coller",
+   "propose": "pour coller ; prends un jaune entier, même pour une petite fournée",
+   "pourquoi": "Rendu dans l'appli : de 1 à 29 pièces, la liste affiche « ¼ jaune d'œuf » (minimum ¼, jamais 0), et steps[10] dit « Bats ¼ jaune d'œuf », impossible à faire. On peut aussi ajouter \"round\": \"up\" à cet ingrédient : l'appli le gère (fonction scaled, déjà utilisé dans taktouka.json) et affichera alors 1 jaune jusqu'à 80 pièces.",
+   "gravite": "mineure",
+   "sources": "app.html : scaled (round up), fmtQ et frac, reproduits avec python3 -I ; recherche/taktouka.json"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 21 sources répondent (HTTP 200, le 8 novembre 2026) ; Choumicha et Taste of Maroc lus sur leurs copies web.archive.org (robots.txt contrôlés par le vérificateur précédent, pages autorisées).",
+  "Pliage en triangle (steps[8] à steps[10]) : demi-feuille, côté arrondi rabattu vers le centre en bande (Femmes du Maroc ; Bladi.net : les côtés), farce à un bout, pointe rabattue, triangle une fois à droite, une fois à gauche, excédent coupé, bord rentré sous le pli : Choumicha n° 493 et n° 131, Femmes du Maroc, Taste of Maroc (« four or five flips »), My Moroccan Food.",
+  "Collage : jaune d'œuf (Femmes du Maroc ; Taste of Maroc), blanc d'œuf chez Choumicha (n° 131, 493, 1330), œuf chez Bladi.net : conforme à steps[10] et à son astuce.",
+  "Quantités de Femmes du Maroc (25 mars 2024) : 80 briouates, 1 kg de feuilles, 500 g de viande, 4 œufs (3 dans la farce, jaune pour coller), 2 oignons, cumin, curcuma, cannelle, safran, sucre ; servies chaudes avec cannelle et sucre glace.",
+  "Bladi.net (n° 447 et viande hachée) : 500 g, 4 œufs, 1 kg de feuilles, 1 c. à s. par demi-feuille, huile très chaude, écumoire, papier absorbant, couronne autour d'une soucoupe de sucre glace et de cannelle ; cigares : 5 œufs « crémeux », linge humide, four 150 °C 25 à 30 min.",
+  "My Moroccan Food : « a classic in Morocco », « traditionally deep fried », kefta environ 7 min, liquide égoutté, œufs « fully cooked », filo sous un torchon humide, four 180 °C 20 à 25 min, menthe et « very generous » sucre glace et cannelle ; kefta : 450 g, 1 oignon, 2 c. à s. de persil et de coriandre, 2 c. à c. de paprika, 1 de cumin, 1 de sel, ½ de poivre.",
+  "Choumicha : n° 131 (350 g, 5 min, refroidie, bain d'huile chaude, servir bien chaud ; rubriques Ramadan, Pour recevoir, Recettes de fêtes ; mot-clé « Briwat »), n° 1330 (viande pochée 15 min au laurier, puis 10 à 15 min avec paprika, piment fort, cumin, sel, vinaigre), n° 477 (agneau, gingembre, muscade, abricots au jus d'orange, pâte d'amandes, four ou friture) ; temps 40 et 50 min pour 12 et 8 personnes.",
+  "Lalla Moulati : n° 196443 (titre « بريوات بالكفتة », 25 mai 2019, rubrique Ramadan, vermicelles chinois et champignons noirs, farce refroidie, frites), n° 30191 (½ kg, 4 gousses d'ail, 1 c. à c. de poivre, ½ de paprika, 2 c. à s. d'huile, cigares au four sur plaque huilée), n° 14937 (kefta aux olives, cumin, gingembre, safran, persil, viande écrasée, refroidie).",
+  "Cooking With Alia (n° 664) : 2 c. à s. de persil et 2 de coriandre pour 500 g. Wikipédia : « بريوات », briwat, triangle ou cylindre, frites ou au four, parfois du sucre glace.",
+  "Sécurité de la viande (steps[2] à steps[4], steps[6], mistakes, serving) : FSA (viande hachée cuite jusqu'au centre ; sans thermomètre, vapeur et couleur brune ; restes au frigo dans les 2 heures, mangés sous 48 heures, réchauffés une seule fois jusqu'à être brûlants) ; Anses (mains à l'eau et au savon, planches séparées, 2 heures au plus à température ambiante, 4 °C, viande hachée bien cuite à cœur pour enfants, femmes enceintes, immunodéprimés).",
+  "Friture (equipment[7] et [8], steps[11] et [12], mistakes[6] à [8]) : London Fire Brigade (un tiers au plus, huile qui fume = couper le feu et laisser refroidir, friteuse à contrôle automatique de température plus sûre) ; Québec (surveiller sans arrêt, couvercle à portée, jamais d'eau, ne pas déplacer, couvercle, couper les éléments, appeler les pompiers). Feu moyen et par fournées : Taste of Maroc. Sans thermomètre, l'absence de température est cohérente avec les sources.",
+  "Halal : viande halal, ni porc ni alcool ; note sur la présure pour la variante au cheddar. Rendu à 80 et 160 pièces correct (2 c. à s. d'huile, 1 oignon moyen, 500 g, 3 œufs, 1 kg, 1 jaune ; puis 2 oignons moyens, 1 kg, 6 œufs, 2 kg, 2 jaunes). Variantes 0 à 8 conformes à leurs sources."
+ ],
+ "non_verifiable": [
+  "Rendement réel : aucune source ne pèse la farce cuite ; « environ 2 c. à c. par pièce » est un calcul fait à partir de My Moroccan Food. Garder 80 pièces (petites) ou passer à environ 50 pièces d'une bonne cuillère à soupe : décision à prendre par l'utilisateur.",
+  "Nombre de feuilles dans 1 kg : non vérifié (poids d'une feuille non trouvé). 80 pièces demandent 40 feuilles coupées en deux ; il faudrait des feuilles d'environ 25 g pour que 1 kg corresponde (calcul python3 -I).",
+  "Température et durée de friture des briouates à la viande : aucune source ne les donne (seul Taste of Maroc, pour des briouates aux amandes : feu moyen, 5 à 7 min).",
+  "Temps de préparation (60 min) et de cuisson (45 min) : estimations de l'auteur, aucun minuteur ; aucune source ne chiffre 80 pièces.",
+  "Aucune source nouvelle consultée (limite de la mission, recherche web indisponible) : Chhiwat non consulté (robots.txt, selon le vérificateur précédent, non revérifié ici)."
+ ]
+}

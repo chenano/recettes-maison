@@ -54,10 +54,6 @@
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
-  },
   "ing.oignon.note": {
    "fr": "à râper",
    "t": "натереть на тёрке"
@@ -69,10 +65,6 @@
   "ing.tomates.pl": {
    "fr": "tomates bien mûres",
    "t": "очень спелых помидора"
-  },
-  "ing.tomates.pl5": {
-   "fr": "tomate bien mûre / tomates bien mûres",
-   "t": "очень спелых помидоров"
   },
   "ing.tomates.note": {
    "fr": "à râper, sans la peau",
@@ -279,8 +271,8 @@
    "t": "Taste of Maroc, Choumicha и Lalla Moulati"
   },
   "secrets.1.text": {
-   "fr": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
-   "t": "Крупный дроблёный ячмень, «дшиша», сохраняет упругие зёрна; средний (бельбула) даёт более нежный суп. Крупный варится дольше и требует чуть больше воды."
+   "fr": "La grosse dchicha garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau. Taste of Maroc réserve le nom « dchicha » à la grosse orge concassée ; Lalla Moulati l'emploie pour l'orge concassée en général, comme cette recette.",
+   "t": "Крупная дшиша сохраняет упругие зёрна; средняя (бельбула) даёт более нежный суп. Крупная варится дольше и требует чуть больше воды. Taste of Maroc называет «дшишей» только крупный дроблёный ячмень; Lalla Moulati называет так дроблёный ячмень вообще, как и в этом рецепте."
   },
   "secrets.1.source": {
    "fr": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne",
@@ -417,6 +409,14 @@
   "variants.6": {
    "fr": "Tchicha de blé : à Ouarzazate, la tchicha est une soupe de blé (Hespress, 2021).",
    "t": "Пшеничная тшиша: в Уарзазате тшиша — это суп из пшеницы (Hespress, 2021)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate bien mûre / tomates bien mûres",
+   "t": "очень спелых помидоров"
   }
  }
 }

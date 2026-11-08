@@ -242,7 +242,7 @@ window.RECETTES.push({
    "source": "Cooking with Alia (500 ml puis le reste, sur 750 ml) ; Morocco World News 2019 (600 ml puis le reste, sur 800 ml)"
   },
   {
-   "text": "Respecte la dose de levure et le temps de repos. Si le premier baghrir n'a pas de trous, laisse reposer la pâte encore 5 à 10 minutes, ou allonge-la d'un peu d'eau tiède si elle est épaisse.",
+   "text": "Respecte les doses des deux levures (levure boulangère et levure chimique) et le temps de repos. Si le premier baghrir n'a pas de trous, laisse reposer la pâte encore 5 à 10 minutes, ou allonge-la d'un peu d'eau tiède si elle est épaisse.",
    "source": "Choumicha (astuce « Pour réussir les crêpes au mille trous ») ; My Moroccan Food ; Taste of Maroc"
   },
   {
@@ -408,7 +408,8 @@ window.RECETTES.push({
   "Cuisson de chaque baghrir : environ 1 min (My Moroccan Food), 1 à 2 min (Taste of Maroc), 3 min (Cooking with Alia, fiche). Retenu : 1 à 2 minutes, en se fiant surtout aux signes (plus de zone humide, test du doigt).",
   "Sirop : miel et beurre à parts égales (My Moroccan Food ; Lalla Moulati, 2 c. à s. de chaque) ; deux fois plus de miel que de beurre, avec de la crème fraîche (Choumicha) ; « au goût » (Cooking with Alia). Retenu : parts égales.",
   "Nombre de baghrir : 20 baghrir moyens (Cooking with Alia, mêmes quantités de sec et d'eau) ; ramenés à 400 g de sec et 750 ml d'eau, environ 22 de 12 cm d'après My Moroccan Food et environ 17 d'après Taste of Maroc (calculs). Retenu : 20 baghrir d'environ 12 cm.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 10 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Conservation : une seule source (Taste of Maroc). Un autre site (Arabic Post), vu seulement dans un résumé de moteur de recherche et non lu, déconseillerait le congélateur : non vérifié.",

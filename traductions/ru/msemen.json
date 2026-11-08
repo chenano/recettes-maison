@@ -1,0 +1,442 @@
+{
+ "_slug": "msemen",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Msemen, crêpes feuilletées carrées",
+   "t": "Мсемен, квадратные слоёные лепёшки"
+  },
+  "darija": {
+   "fr": "msemen (aussi rghaïf)",
+   "t": "мсемен (также ргаиф)"
+  },
+  "tagline": {
+   "fr": "Des carrés feuilletés à la main, légèrement croustillants dehors et moelleux dedans, à tremper tout chauds dans le miel et le beurre fondu.",
+   "t": "Квадраты, расслоённые вручную, слегка хрустящие снаружи и мягкие внутри; их обмакивают совсем горячими в мёд и растопленное сливочное масло."
+  },
+  "region": {
+   "fr": "Maroc (aussi en Algérie et en Tunisie)",
+   "t": "Марокко (также Алжир и Тунис)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "Завтрак, полдник с чаем, ифтар в Рамадан"
+  },
+  "serving": {
+   "fr": "Bien chaud, trempé des deux côtés dans un sirop chaud de miel et de beurre à parts égales : c'est la façon la plus traditionnelle selon Taste of Maroc. Ou simplement arrosé de miel et de beurre fondu, avec un thé à la menthe (Rachida, Pâtisserie GATÔ). Au petit-déjeuner, au goûter et sur la table du ftour pendant le ramadan. Il se mange aussi nature ou avec de la confiture. Une fois refroidis, les msemen se congèlent bien : réchauffe-les sans les décongeler, à la poêle à feu moyen-doux, ou sur une grille au four à 180 °C (Taste of Maroc).",
+   "t": "Очень горячим, обмакнув с обеих сторон в горячий сироп из мёда и сливочного масла в равных долях: по Taste of Maroc, это самый традиционный способ. Или просто полив мёдом и растопленным сливочным маслом, с мятным чаем (Rachida, Pâtisserie GATÔ). На завтрак, полдник и на стол ифтара в Рамадан. Его едят и без добавок или с вареньем. Остывшие мсемены хорошо замораживаются: разогревайте их, не размораживая, на сковороде на огне чуть ниже среднего или на решётке в духовке при 180 °C (Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (T45 ou T55)",
+   "t": "белой пшеничной муки (T45 или T55)"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur",
+   "t": "мелкой семолины из твёрдой пшеницы"
+  },
+  "ing.semoule.note": {
+   "fr": "ou semoule extra-fine, ou farine de blé dur",
+   "t": "или очень мелкая семолина, или мука из твёрдой пшеницы"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "1 à 2 c. à c. selon les sources",
+   "t": "по разным источникам — от 1 до 2 ч. л."
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "тёплой воды"
+  },
+  "ing.eau.note": {
+   "fr": "à verser petit à petit, ajuste selon ta farine",
+   "t": "вливать понемногу; количество зависит от муки"
+  },
+  "ing.1.group": {
+   "fr": "Pour feuilleter",
+   "t": "Для слоения"
+  },
+  "ing.huile-faconnage.name": {
+   "fr": "d'huile neutre (tournesol ou colza), pour le plan de travail, les mains et les pâtons",
+   "t": "растительного масла без запаха (подсолнечного или рапсового) для рабочей поверхности, рук и шариков теста"
+  },
+  "ing.huile-faconnage.note": {
+   "fr": "environ ; la pâte ne l'absorbe pas, il en restera",
+   "t": "примерно; тесто его не впитывает, часть останется"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, fondu",
+   "t": "сливочного масла, растопленного"
+  },
+  "ing.beurre.note": {
+   "fr": "doux ou demi-sel",
+   "t": "несолёного или слабосолёного"
+  },
+  "ing.huile-melange.name": {
+   "fr": "d'huile neutre, à mélanger au beurre fondu",
+   "t": "растительного масла без запаха, чтобы смешать с растопленным сливочным маслом"
+  },
+  "ing.semoule-pliage.name": {
+   "fr": "de semoule fine, à saupoudrer entre les couches",
+   "t": "мелкой семолины, чтобы посыпать между слоями"
+  },
+  "ing.semoule-pliage.note": {
+   "fr": "environ 1 c. à c. par msemen",
+   "t": "примерно 1 ч. л. на один мсемен"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.miel.name": {
+   "fr": "Miel, autant que de beurre",
+   "t": "Мёд, столько же, сколько сливочного масла"
+  },
+  "ing.miel.note": {
+   "fr": "à parts égales avec le beurre",
+   "t": "в равных долях со сливочным маслом"
+  },
+  "ing.beurre-service.name": {
+   "fr": "Beurre doux, autant que de miel",
+   "t": "Несолёное сливочное масло, столько же, сколько мёда"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier",
+   "t": "Большая миска"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine",
+   "t": "Кухонные весы"
+  },
+  "equipment.2": {
+   "fr": "Un grand plan de travail lisse (granit, inox) ou un grand plateau",
+   "t": "Большая гладкая рабочая поверхность (гранит, нержавеющая сталь) или большой поднос"
+  },
+  "equipment.3": {
+   "fr": "Un plateau ou une plaque, huilé, pour les pâtons et les carrés",
+   "t": "Смазанный маслом поднос или противень для шариков теста и квадратов"
+  },
+  "equipment.4": {
+   "fr": "Trois bols : huile, beurre-huile, semoule",
+   "t": "Три миски: для растительного масла, смеси сливочного и растительного масла и для семолины"
+  },
+  "equipment.5": {
+   "fr": "Un pinceau",
+   "t": "Кисточка"
+  },
+  "equipment.6": {
+   "fr": "Du film alimentaire",
+   "t": "Пищевая плёнка"
+  },
+  "equipment.7": {
+   "fr": "Une grande poêle à fond épais (fonte) ou antiadhésive, ou une plaque de cuisson",
+   "t": "Большая сковорода с толстым дном (чугунная) или с антипригарным покрытием, или жарочная плита"
+  },
+  "equipment.8": {
+   "fr": "Une grille",
+   "t": "Решётка"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger la pâte",
+   "t": "Смешайте тесто"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine et {{sel}} de sel. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une boule. Si la pâte colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "t": "В большой миске смешайте {{farine}} муки, {{semoule}} мелкой семолины и {{sel}} соли. Понемногу вливайте {{eau}} тёплой воды, перемешивая рукой, пока тесто не соберётся в шар. Если оно липнет, добавьте немного муки; если сухое — немного воды."
+  },
+  "steps.1.title": {
+   "fr": "Pétrir longtemps",
+   "t": "Месите долго"
+  },
+  "steps.1.text": {
+   "fr": "Pétris pendant 15 minutes : écrase la pâte avec la paume ou le poing, replie-la, recommence. Elle est prête quand elle est lisse, souple et élastique, et ne colle plus aux doigts. Ne raccourcis pas : c'est ce pétrissage qui permet d'étaler la pâte très fin.",
+   "t": "Месите 15 минут: придавливайте тесто ладонью или кулаком, складывайте и повторяйте. Оно готово, когда станет гладким, мягким и эластичным и перестанет липнуть к пальцам. Не сокращайте время: именно этот замес позволяет растянуть тесто очень тонко."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Замес"
+  },
+  "steps.1.timer.done": {
+   "fr": "Touche la pâte : si elle n'est pas encore lisse, souple et élastique, pétris encore quelques minutes.",
+   "t": "Потрогайте тесто: если оно ещё не гладкое, не мягкое и не эластичное, помесите ещё несколько минут."
+  },
+  "steps.1.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Руки, замешивающие тесто"
+  },
+  "steps.1.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Замес теста"
+  },
+  "steps.2.title": {
+   "fr": "Former les pâtons",
+   "t": "Сформуйте шарики теста"
+  },
+  "steps.2.text": {
+   "fr": "Huile tes mains et un grand plateau. Partage la pâte en boules égales d'environ 85 g, une par msemen, bien lisses sur le dessus. Roule-les dans l'huile, pose-les sur le plateau sans qu'elles se touchent, couvre de film et laisse reposer 15 minutes.",
+   "t": "Смажьте маслом руки и большой поднос. Разделите тесто на одинаковые шарики примерно по 85 г, по одному на каждый мсемен, с гладкой верхушкой. Обваляйте их в масле, выложите на поднос так, чтобы они не касались друг друга, накройте плёнкой и оставьте на 15 минут."
+  },
+  "steps.2.timer.label": {
+   "fr": "Repos des pâtons",
+   "t": "Отдых шариков теста"
+  },
+  "steps.2.timer.done": {
+   "fr": "Les pâtons sont détendus : tu peux commencer à étaler.",
+   "t": "Шарики теста отдохнули: можно начинать растягивать."
+  },
+  "steps.3.title": {
+   "fr": "Préparer ton poste",
+   "t": "Подготовьте рабочее место"
+  },
+  "steps.3.text": {
+   "fr": "Pendant le repos, mélange {{beurre}} de beurre fondu avec {{huile-melange}} d'huile. Mets à portée de main ce mélange, un bol avec {{huile-faconnage}} d'huile et un bol avec {{semoule-pliage}} de semoule. Huile largement ton plan de travail et tes mains.",
+   "t": "Пока тесто отдыхает, смешайте {{beurre}} растопленного сливочного масла с {{huile-melange}} растительного масла. Поставьте под рукой эту смесь, миску с {{huile-faconnage}} растительного масла и миску с {{semoule-pliage}} семолины. Щедро смажьте маслом рабочую поверхность и руки."
+  },
+  "steps.4.title": {
+   "fr": "Étaler très fin",
+   "t": "Растяните очень тонко"
+  },
+  "steps.4.text": {
+   "fr": "Trempe un pâton dans l'huile et pose-le au centre du plan de travail. Étire-le du centre vers les bords, du bout des doigts, par petits gestes rapides, jusqu'à un disque d'environ 25 cm, si fin qu'on voit presque le plan de travail à travers. Quelques petits trous ne sont pas graves. Va vite, sinon la pâte sèche.",
+   "t": "Обмакните шарик теста в масло и положите в центр рабочей поверхности. Растягивайте его от центра к краям кончиками пальцев, мелкими быстрыми движениями, в диск около 25 см, такой тонкий, что сквозь него почти видна рабочая поверхность. Несколько маленьких дырочек — не страшно. Действуйте быстро, иначе тесто подсохнет."
+  },
+  "steps.4.img.alt": {
+   "fr": "Mains qui étirent la pâte à msemen sur un plan huilé",
+   "t": "Руки растягивают тесто для мсемена на смазанной маслом поверхности"
+  },
+  "steps.5.title": {
+   "fr": "Premier pliage",
+   "t": "Первое складывание"
+  },
+  "steps.5.text": {
+   "fr": "Badigeonne tout le disque de mélange beurre-huile et saupoudre-le légèrement de semoule. Rabats un bord jusqu'au centre, puis le bord opposé par-dessus : tu obtiens une longue bande.",
+   "t": "Смажьте весь диск смесью сливочного и растительного масла и слегка посыпьте семолиной. Загните один край до середины, затем сверху противоположный: получится длинная полоса."
+  },
+  "steps.6.title": {
+   "fr": "Plier en carré",
+   "t": "Сложите квадратом"
+  },
+  "steps.6.text": {
+   "fr": "Badigeonne la bande de beurre-huile et saupoudre-la de semoule. Rabats une extrémité jusqu'au centre, puis l'autre par-dessus : tu obtiens un carré d'environ 8 cm. Pose-le sur le plateau huilé et recommence avec les autres pâtons, en retenant l'ordre.",
+   "t": "Смажьте полосу смесью масел и посыпьте семолиной. Загните один конец до середины, затем сверху другой: получится квадрат около 8 см. Положите его на смазанный маслом поднос и повторите с остальными шариками теста, запоминая порядок."
+  },
+  "steps.7.title": {
+   "fr": "Laisser reposer les carrés",
+   "t": "Дайте квадратам отдохнуть"
+  },
+  "steps.7.text": {
+   "fr": "Couvre les carrés de film et laisse-les se détendre au moins 15 minutes. S'ils résistent quand tu les aplatis, laisse-les reposer encore un peu au lieu de forcer.",
+   "t": "Накройте квадраты плёнкой и дайте им отдохнуть не меньше 15 минут. Если при расплющивании они сопротивляются, не давите, а дайте им отдохнуть ещё немного."
+  },
+  "steps.7.timer.label": {
+   "fr": "Repos des carrés",
+   "t": "Отдых квадратов"
+  },
+  "steps.7.timer.done": {
+   "fr": "Les carrés ont reposé : fais chauffer la poêle.",
+   "t": "Квадраты отдохнули: разогрейте сковороду."
+  },
+  "steps.8.title": {
+   "fr": "Chauffer la poêle",
+   "t": "Разогрейте сковороду"
+  },
+  "steps.8.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais à feu moyen. Elle est prête quand une goutte d'eau grésille et s'évapore presque aussitôt. Huile-la légèrement, au pinceau ou avec du papier absorbant.",
+   "t": "Разогрейте большую сковороду с толстым дном на среднем огне. Она готова, когда капля воды шипит и почти сразу испаряется. Слегка смажьте её маслом кисточкой или бумажным полотенцем."
+  },
+  "steps.9.title": {
+   "fr": "Aplatir au double",
+   "t": "Расплющьте вдвое"
+  },
+  "steps.9.text": {
+   "fr": "Prends le premier carré plié et pose-le sur le plan de travail huilé. Mains huilées, tapote-le fermement jusqu'à environ 18 cm de côté, un peu plus du double du carré plié, en gardant la forme carrée. Ne le travaille pas trop, sinon les couches se soudent.",
+   "t": "Возьмите первый сложенный квадрат и положите на смазанную маслом рабочую поверхность. Смазанными маслом руками с усилием прихлопывайте его, пока сторона не станет около 18 см — чуть больше чем вдвое шире сложенного квадрата, сохраняя квадратную форму. Не обрабатывайте его слишком долго, иначе слои слипнутся."
+  },
+  "steps.10.title": {
+   "fr": "Cuire en retournant",
+   "t": "Жарьте, переворачивая"
+  },
+  "steps.10.text": {
+   "fr": "Dépose-le dans la poêle chaude et retourne-le plusieurs fois, environ 5 minutes en tout. Il est prêt quand il est doré et croustillant dehors, et bien cuit au centre. S'il colore trop vite, baisse un peu le feu : sinon le centre reste cru. Si ta poêle est grande, cuis-en deux à la fois.",
+   "t": "Выложите его на горячую сковороду и несколько раз переверните, всего около 5 минут. Он готов, когда снаружи золотистый и хрустящий, а в центре хорошо пропёкся. Если он слишком быстро темнеет, немного убавьте огонь: иначе середина останется сырой. Если сковорода большая, жарьте по два сразу."
+  },
+  "steps.10.timer.label": {
+   "fr": "Cuisson d'un msemen",
+   "t": "Жарка одного мсемена"
+  },
+  "steps.10.timer.done": {
+   "fr": "Doré et croustillant des deux côtés ? Sors-le sur la grille.",
+   "t": "Подрумянился и хрустит с обеих сторон? Переложите его на решётку."
+  },
+  "steps.10.img.alt": {
+   "fr": "Msemen en train de cuire sur une grande plaque",
+   "t": "Мсемен жарится на большой жарочной плите"
+  },
+  "steps.11.title": {
+   "fr": "Séparer les couches",
+   "t": "Разделите слои"
+  },
+  "steps.11.text": {
+   "fr": "Pose le msemen sur une grille. Après 1 à 2 minutes, prends-le par deux bords opposés et fais-le plier d'avant en arrière quelques secondes, comme une balançoire : les couches se décollent. Continue avec les autres carrés, dans l'ordre où tu les as pliés.",
+   "t": "Положите мсемен на решётку. Через 1–2 минуты возьмите его за два противоположных края и несколько секунд сгибайте туда-сюда, как качели: слои отделятся друг от друга. Продолжайте с остальными квадратами в том порядке, в каком вы их складывали."
+  },
+  "steps.12.title": {
+   "fr": "Miel, beurre et thé",
+   "t": "Мёд, масло и чай"
+  },
+  "steps.12.text": {
+   "fr": "Dans une poêle, chauffe le miel et le beurre à parts égales. Dès que le mélange commence à frémir, coupe le feu. Trempe chaque msemen chaud des deux côtés, puis sers tout de suite avec un thé à la menthe.",
+   "t": "На сковороде разогрейте мёд и сливочное масло в равных долях. Как только смесь начнёт слегка закипать, выключите огонь. Обмакните каждый горячий мсемен с обеих сторон и сразу подавайте с мятным чаем."
+  },
+  "secrets.0.text": {
+   "fr": "Le vrai secret, c'est le pétrissage : au moins 15 minutes, jusqu'à pouvoir étaler la pâte si fin qu'on voit le plan de travail à travers.",
+   "t": "Главный секрет — замес: не меньше 15 минут, пока тесто не удастся растянуть так тонко, что сквозь него видна рабочая поверхность."
+  },
+  "secrets.0.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.1.text": {
+   "fr": "Mets de la semoule fine avec la farine : sans elle, le msemen reste élastique en bouche après cuisson.",
+   "t": "Добавляйте к муке мелкую семолину: без неё мсемен после жарки остаётся тягучим во рту."
+  },
+  "secrets.1.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.2.text": {
+   "fr": "La semoule saupoudrée entre les couches les garde séparées pendant la cuisson.",
+   "t": "Семолина, которой посыпают слои, не даёт им слипнуться при жарке."
+  },
+  "secrets.2.source": {
+   "fr": "Morocco World News (Layla Dahamou) ; MarocMama",
+   "t": "Morocco World News (Layla Dahamou) и MarocMama"
+  },
+  "secrets.3.text": {
+   "fr": "Sois généreux avec l'huile pour étaler : elle n'est pas absorbée par la pâte, et un msemen bien fait n'est pas gras.",
+   "t": "Не жалейте масла, когда растягиваете тесто: тесто его не впитывает, и хорошо приготовленный мсемен не жирный."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.4.text": {
+   "fr": "Laisse reposer les pâtons, puis les carrés : si la pâte résiste à l'étirement, attends encore un peu au lieu de forcer.",
+   "t": "Давайте отдохнуть сначала шарикам теста, потом квадратам: если тесто сопротивляется растягиванию, не давите, а подождите ещё немного."
+  },
+  "secrets.4.source": {
+   "fr": "The Hot Bread Kitchen Cookbook (via The Splendid Table)",
+   "t": "The Hot Bread Kitchen Cookbook (в изложении The Splendid Table)"
+  },
+  "secrets.5.text": {
+   "fr": "Étale vite : sinon la pâte sèche et risque de se déchirer.",
+   "t": "Растягивайте быстро: иначе тесто подсохнет и может порваться."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou)",
+   "t": "My Moroccan Food (Nargisse Benkabbou)"
+  },
+  "secrets.6.text": {
+   "fr": "Feu moyen, pas plus : trop chaud, le msemen colore trop vite, le centre reste cru et les couches se séparent mal.",
+   "t": "Средний огонь, не сильнее: на слишком сильном мсемен слишком быстро темнеет, середина остаётся сырой, а слои плохо разделяются."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.7.text": {
+   "fr": "Une à deux minutes après la cuisson, fais « balancer » le msemen tenu par deux bords opposés : les couches se décollent.",
+   "t": "Через одну-две минуты после жарки возьмите мсемен за два противоположных края и «покачайте» его: слои отделятся друг от друга."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.8.text": {
+   "fr": "Cuis les carrés dans l'ordre où tu les as pliés.",
+   "t": "Жарьте квадраты в том порядке, в каком вы их складывали."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; The Hot Bread Kitchen Cookbook",
+   "t": "Taste of Maroc и The Hot Bread Kitchen Cookbook"
+  },
+  "mistakes.0": {
+   "fr": "Verser toute l'eau d'un coup : la pâte devient très collante et ne se pétrit plus (My Moroccan Food).",
+   "t": "Вливать всю воду сразу: тесто становится очень липким, и его уже не вымесить (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Écourter le pétrissage : c'est lui qui permet d'étaler très fin (Rachida).",
+   "t": "Сокращать замес: именно он позволяет растянуть тесто очень тонко (Rachida)."
+  },
+  "mistakes.2": {
+   "fr": "Être avare de beurre et de semoule au pliage : les couches ne se séparent pas (Taste of Maroc).",
+   "t": "Жалеть масла и семолины при складывании: слои не разделяются (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Cuire sur un feu trop vif : dehors trop coloré, centre cru (Taste of Maroc).",
+   "t": "Жарить на слишком сильном огне: снаружи слишком тёмный, в центре сырой (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Forcer une pâte qui résiste au lieu de la laisser reposer un peu plus (Hot Bread Kitchen).",
+   "t": "Растягивать силой сопротивляющееся тесто вместо того, чтобы дать ему ещё немного отдохнуть (Hot Bread Kitchen)."
+  },
+  "mistakes.5": {
+   "fr": "Empiler les msemen pendant que tu les étires : ils collent entre eux (Hot Bread Kitchen).",
+   "t": "Складывать мсемены стопкой, пока растягиваете остальные: они слипаются (Hot Bread Kitchen)."
+  },
+  "mistakes.6": {
+   "fr": "Trop travailler le carré en l'aplatissant : les couches se soudent (MarocMama).",
+   "t": "Слишком долго обрабатывать квадрат при расплющивании: слои слипаются (MarocMama)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser lever la pâte si tu as mis de la levure (Rachida).",
+   "t": "Давать тесту подняться, если вы положили дрожжи (Rachida)."
+  },
+  "variants.0": {
+   "fr": "Msemen farci (rghaïf) : la farce se pose sur le disque étalé avant de plier. Farce classique : oignon, persil, khlii (viande séchée confite) et épices (Bladi.net).",
+   "t": "Мсемен с начинкой (ргаиф): начинку кладут на растянутый диск перед складыванием. Классическая начинка: лук, петрушка, хлии (вяленое мясо в жиру) и специи (Bladi.net)."
+  },
+  "variants.1": {
+   "fr": "Rghaïf aux oignons : beaucoup d'oignons émincés très fin, un gros bouquet de persil, sel, cumin, piment rouge et une pincée de poivre, revenus dans l'huile avec de la graisse de bœuf ou du khlii ; environ 2 c. à s. de farce au centre du disque, puis on referme la pâte autour (Bladi.net).",
+   "t": "Ргаиф с луком: много очень тонко нарезанного лука, большой пучок петрушки, соль, кумин, красный перец и щепотка чёрного перца, обжаренные в растительном масле с говяжьим жиром или хлии; около 2 ст. л. начинки кладут в центр диска, затем заворачивают тесто вокруг неё (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Farce à la viande hachée : viande hachée, oignon, poivrons, persil, cumin et paprika, cuits puis refroidis avant de farcir (Morocco World News ; My Moroccan Food, version de sa mère). Traditionnellement cuits un par un à la poêle, ils peuvent aussi aller au four (My Moroccan Food).",
+   "t": "Начинка из мясного фарша: фарш, лук, сладкий перец, петрушка, кумин и паприка, приготовленные и остуженные перед тем, как начинять (Morocco World News; My Moroccan Food, версия её мамы). Традиционно их жарят по одному на сковороде, но можно и запечь в духовке (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Farce sucrée : amandes pilées et sucre (Bladi.net).",
+   "t": "Сладкая начинка: толчёный миндаль и сахар (Bladi.net)."
+  },
+  "variants.4": {
+   "fr": "Avec une pincée de levure boulangère ajoutée à la fin du pétrissage, sans laisser lever : msemen plus moelleux tout en restant croustillants (Rachida). Taste of Maroc et Morocco World News n'en mettent que 1/4 de c. à c. pour toute la pâte.",
+   "t": "Со щепоткой дрожжей, добавленной в конце замеса, без расстойки: мсемены получаются мягче, но остаются хрустящими (Rachida). Taste of Maroc и Morocco World News кладут всего 1/4 ч. л. на всё тесто."
+  },
+  "variants.5": {
+   "fr": "Un peu de levure chimique mélangée à la semoule qu'on saupoudre entre les couches (Rachida ; Pâtisserie GATÔ).",
+   "t": "Немного разрыхлителя, смешанного с семолиной, которой посыпают слои (Rachida; Pâtisserie GATÔ)."
+  },
+  "variants.6": {
+   "fr": "Plus de semoule dans la pâte : moitié farine, moitié semoule (My Moroccan Food, Pâtisserie GATÔ, Kookmutsjes), voire plus de semoule que de farine (Paula Wolfert) ; Taste of Maroc trouve la texture plus grossière avec moitié-moitié.",
+   "t": "Больше семолины в тесте: пополам мука и семолина (My Moroccan Food, Pâtisserie GATÔ, Kookmutsjes) или даже семолины больше, чем муки (Paula Wolfert); по мнению Taste of Maroc, при соотношении пополам текстура получается грубее."
+  },
+  "variants.7": {
+   "fr": "Encore plus feuilleté : enveloppe un carré plié dans un second disque de pâte très fine, puis replie en carré (Rachida ; Pâtisserie GATÔ).",
+   "t": "Ещё более слоёный: заверните сложенный квадрат во второй очень тонкий диск теста и снова сложите квадратом (Rachida; Pâtisserie GATÔ)."
+  },
+  "variants.8": {
+   "fr": "Rfissa : les msemen cuits sont déchirés chauds, réchauffés à la vapeur, puis nappés de poulet, de lentilles et de bouillon ; plat des grandes occasions (Paula Wolfert).",
+   "t": "Рфиса: готовые мсемены рвут на кусочки горячими, прогревают на пару, затем выкладывают сверху курицу, чечевицу и поливают бульоном; блюдо для особых случаев (Paula Wolfert)."
+  },
+  "variants.9": {
+   "fr": "Meloui : le cousin rond du msemen, roulé en spirale (Taste of Maroc).",
+   "t": "Мелуи: круглый родственник мсемена, свёрнутый спиралью (Taste of Maroc)."
+  }
+ }
+}

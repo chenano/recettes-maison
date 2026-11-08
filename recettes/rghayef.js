@@ -178,7 +178,7 @@ window.RECETTES.push({
  "steps": [
   {
    "phase": "Préparation",
-   "title": "Fondre les oignons",
+   "title": "Fais fondre les oignons",
    "text": "Dans une sauteuse, fais chauffer {{huile-farce}} d'huile à feu moyen. Ajoute l'oignon émincé ({{oignons:full}}), couvre et laisse cuire 10 minutes en remuant de temps en temps, jusqu'à ce qu'il soit tendre et translucide.",
    "timer": {
     "min": 10,
@@ -188,7 +188,7 @@ window.RECETTES.push({
   },
   {
    "phase": "Préparation",
-   "title": "Ajouter khlii, persil et épices",
+   "title": "Ajoute khlii, persil et épices",
    "text": "Ajoute {{khlii}} de khlii émietté, {{persil}} de persil ciselé, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre et, si tu aimes, un peu de {{piment}}. Laisse cuire 5 minutes à découvert, en remuant, jusqu'à ce qu'il ne reste plus de liquide.",
    "timer": {
     "min": 5,
@@ -198,19 +198,19 @@ window.RECETTES.push({
   },
   {
    "phase": "Préparation",
-   "title": "Goûter et refroidir",
+   "title": "Goûte et laisse refroidir",
    "text": "Goûte la farce et ajoute du {{sel-farce}} seulement si besoin : le khlii est déjà assaisonné. Étale-la dans une grande assiette et laisse-la refroidir complètement : chaude, elle abîme la pâte. Si tu la prépares à l'avance, mets-la au réfrigérateur dans les 2 heures.",
    "timer": null
   },
   {
    "phase": "Préparation",
-   "title": "Mélanger la pâte",
+   "title": "Mélange la pâte",
    "text": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine et {{sel}} de sel. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une boule souple. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
    "timer": null
   },
   {
    "phase": "Préparation",
-   "title": "Pétrir 10 minutes",
+   "title": "Pétris 10 minutes",
    "text": "Pétris pendant 10 minutes, jusqu'à ce que la pâte soit lisse, souple et élastique, et ne colle plus.",
    "timer": {
     "min": 10,
@@ -223,12 +223,12 @@ window.RECETTES.push({
     "caption": "Pétrir la pâte",
     "w": 1000,
     "h": 668,
-    "credit": "Photo de l'étape « Pétrir 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+    "credit": "Photo de l'étape « Pétris 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
    }
   },
   {
    "phase": "Préparation",
-   "title": "Former les pâtons",
+   "title": "Forme les pâtons",
    "text": "Huile tes mains et un plateau. Partage la pâte en boules d'environ 75 g, une par galette. Roule-les dans l'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
    "timer": {
     "min": 15,
@@ -238,13 +238,13 @@ window.RECETTES.push({
   },
   {
    "phase": "Préparation",
-   "title": "Préparer ton poste",
+   "title": "Prépare ton poste",
    "text": "Pendant le repos, mélange {{beurre}} de beurre fondu avec {{huile-beurre}} d'huile. Mets à portée de main ce mélange, un bol d'{{huile-faconnage}}, {{semoule-faconnage}} de semoule fine et la farce froide. Huile largement ton plan de travail.",
    "timer": null
   },
   {
    "phase": "Préparation",
-   "title": "Étirer très fin",
+   "title": "Étire très fin",
    "text": "Pose un pâton sur le plan huilé. Mains huilées, étire-le du bout des doigts, du centre vers les bords, jusqu'à un disque très fin d'environ 28 cm. Remets de l'huile si la pâte accroche.",
    "timer": null,
    "img": {
@@ -253,36 +253,36 @@ window.RECETTES.push({
     "caption": "Étirer du bout des doigts",
     "w": 1200,
     "h": 1200,
-    "credit": "Photo de l'étape « Étirer très fin » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+    "credit": "Photo de l'étape « Étire très fin » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
    }
   },
   {
    "phase": "Préparation",
-   "title": "Badigeonner et garnir",
+   "title": "Badigeonne et garnis",
    "text": "Badigeonne le disque de mélange beurre-huile et saupoudre-le d'un peu de semoule. Pose au centre 1 à 2 cuillerées à soupe de farce, en laissant les bords libres : la farce doit suffire pour toutes les galettes.",
    "timer": null
   },
   {
    "phase": "Préparation",
-   "title": "Fermer en carré",
+   "title": "Ferme en carré",
    "text": "Rabats trois côtés de la pâte sur la farce, puis le quatrième par-dessus en l'étirant un peu : ce dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir. Pose le carré fermé sur le second plateau huilé et recommence avec les autres pâtons.",
    "timer": null
   },
   {
    "phase": "Cuisson",
-   "title": "Chauffer la poêle",
+   "title": "Chauffe la poêle",
    "text": "Fais chauffer une grande poêle à fond épais à feu moyen-vif, puis huile-la légèrement.",
    "timer": null
   },
   {
    "phase": "Cuisson",
-   "title": "Aplatir doucement",
+   "title": "Aplatis doucement",
    "text": "Mains huilées, aplatis le premier carré du bout des doigts, sans percer la pâte, jusqu'à environ 12 à 15 cm de côté. La farce doit rester bien enfermée.",
    "timer": null
   },
   {
    "phase": "Cuisson",
-   "title": "Cuire en retournant",
+   "title": "Cuis en retournant",
    "text": "Dépose la galette dans la poêle et retourne-la plusieurs fois, jusqu'à ce qu'elle soit bien dorée et croustillante des deux côtés. Si elle colore trop vite, baisse un peu le feu : la pâte doit cuire jusqu'au centre.",
    "timer": null,
    "img": {
@@ -291,18 +291,18 @@ window.RECETTES.push({
     "caption": "Cuire jusqu'à ce qu'elles soient bien dorées",
     "w": 1200,
     "h": 900,
-    "credit": "Photo de l'étape « Cuire en retournant » : Popo le Chien, Wikimedia Commons, licence CC0 (réduite)."
+    "credit": "Photo de l'étape « Cuis en retournant » : Popo le Chien, Wikimedia Commons, licence CC0 (réduite)."
    }
   },
   {
    "phase": "Cuisson",
-   "title": "Continuer avec les autres",
+   "title": "Continue avec les autres",
    "text": "Pose la galette cuite sur une planche ou une grille, et continue avec les autres carrés, en les aplatissant au fur et à mesure.",
    "timer": null
   },
   {
    "phase": "Service",
-   "title": "Servir brûlant",
+   "title": "Sers brûlant",
    "text": "Sers les rghayef bien chauds, avec un thé.",
    "timer": null
   }
@@ -551,7 +551,8 @@ window.RECETTES.push({
   "Beurre et huile pour façonner : à parts égales (Choumicha : 100 g de beurre et 10 cl d'huile ; Bladi.net : « moitié-moitié »). Beurre : 1/4 de tasse, environ 57 g (Morocco World News, MarocMama), 100 g pour 500 g de pâte (Choumicha). Retenu : 60 g de beurre et 4 c. à s. d'huile. Semoule : 6 c. à s. (Cooking with Alia), 1/2 tasse (MarocMama), 2 c. à s. (Bladi.net) : retenu 6 c. à s.",
   "MarocMama met la viande crue dans la farce et compte sur la cuisson de la galette : non retenu. Pour la sécurité, la farce est entièrement cuite avant de garnir, comme chez Choumicha, My Moroccan Food, Morocco World News et Cooking with Alia ; l'Anses indique que 70 °C à cœur élimine la majorité des microbes pathogènes.",
   "Durées affichées : préparation de 60 min : 45 min chez MarocMama, dont la farce est crue et mixée, plus les 15 min de cuisson de la farce (minuteurs de 10 et 5 min) ; Choumicha n° 111 annonce aussi 45 min, pour des r'ghaifs cuits au four ; cuisson de 30 min (Choumicha n° 497 et 111 ; MarocMama) ; repos de 15 min pour les pâtons. Le refroidissement de la farce se fait pendant le pétrissage et le repos.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 15 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Durée de cuisson d'une galette à la poêle : seule Cooking with Alia donne un chiffre (3 min par face, en retournant plusieurs fois) ; pas de minuteur pour cette étape.",

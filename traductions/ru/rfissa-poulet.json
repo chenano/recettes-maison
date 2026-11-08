@@ -46,10 +46,6 @@
    "fr": "gros oignons",
    "t": "луковицы крупного размера"
   },
-  "ing.oignons.pl5": {
-   "fr": "gros oignon / gros oignons",
-   "t": "луковиц крупного размера"
-  },
   "ing.oignons.note": {
    "fr": "à émincer finement",
    "t": "тонко нашинковать"
@@ -158,10 +154,6 @@
    "fr": "msemen",
    "t": "мсемена"
   },
-  "ing.msemen.pl5": {
-   "fr": "msemen / msemen",
-   "t": "мсеменов"
-  },
   "ing.msemen.note": {
    "fr": "une fournée de la recette du msemen de l'application, soit 2 par personne",
    "t": "одна партия по рецепту мсемена из приложения, то есть 2 на человека"
@@ -240,7 +232,7 @@
   },
   "steps.4.text": {
    "fr": "Couvre et laisse cuire à feu moyen 20 min, en remuant de temps en temps. C'est prêt quand les oignons ont ramolli et qu'une sauce épaisse s'est formée.",
-   "t": "Накройте крышкой и готовьте на среднем огне 20 мин, время от времени помешивая. Всё готово, когда лук размягчится и образуется густой соус."
+   "t": "Накройте крышкой и готовьте на среднем огне 20 мин, время от времени помешивая. Можно переходить к следующему шагу, когда лук размягчится и образуется густой соус."
   },
   "steps.4.timer.label": {
    "fr": "Sauce aux oignons",
@@ -340,7 +332,7 @@
   },
   "secrets.2.text": {
    "fr": "Le bouillon épais et parfumé (« mdaghmar ») vient des oignons : mets-en beaucoup et laisse-les cuire longtemps à feu doux, jusqu'à ce qu'ils fondent comme une crème.",
-   "t": "Густой ароматный бульон («mdaghmar») получается благодаря луку: кладите его много и долго томите на слабом огне, пока он не растает, как крем."
+   "t": "Густой ароматный бульон («mdaghmar») получается благодаря луку: кладите его побольше и долго томите на слабом огне, пока он не станет мягким и кремообразным."
   },
   "secrets.2.source": {
    "fr": "Barlamane (Hajja Fatima)",
@@ -457,6 +449,14 @@
   "variants.9": {
    "fr": "Sans couscoussier : arrose les lanières d'un peu d'eau, couvre-les et réchauffe-les au micro-ondes (Taste of Maroc).",
    "t": "Без кускусницы: сбрызните полоски небольшим количеством воды, накройте и разогрейте в микроволновке (Taste of Maroc)."
+  },
+  "ing.oignons.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.msemen.pl5": {
+   "fr": "msemen / msemen",
+   "t": "мсеменов"
   }
  }
 }

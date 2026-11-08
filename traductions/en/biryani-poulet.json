@@ -1,0 +1,662 @@
+{
+ "_slug": "biryani-poulet",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Biryani au poulet de Hyderabad",
+   "t": "Hyderabadi chicken biryani"
+  },
+  "tagline": {
+   "fr": "Un poulet mariné au yaourt et aux épices, recouvert de riz basmati parfumé au safran et d'oignons frits, puis cuit à l'étouffée dans une marmite bien fermée : le biryani des fêtes de Hyderabad.",
+   "t": "Chicken marinated in yoghurt and spices, covered with saffron-scented basmati rice and fried onions, then steam-cooked in a tightly sealed pot: the festive biryani of Hyderabad."
+  },
+  "region": {
+   "fr": "Inde, Hyderabad (Télangana). Le biryani hyderabadi est né dans les cuisines des Nizams, les princes de Hyderabad, selon la tradition locale ; son origine exacte reste incertaine (Wikipédia ; NewsMeter ; Vismai Food). Il en existe deux méthodes : « kachchi », la viande crue cuite avec le riz, et « pakki », la viande cuite avant d'être recouverte de riz (Wikipédia ; NewsMeter ; Swasthi). Cette recette suit la méthode pakki, au poulet.",
+   "t": "India, Hyderabad (Telangana). Hyderabadi biryani was born in the kitchens of the Nizams, the princes of Hyderabad, according to local tradition; its exact origin remains uncertain (Wikipedia; NewsMeter; Vismai Food). There are two methods: “kachchi”, where the raw meat cooks with the rice, and “pakki”, where the meat is cooked before being covered with rice (Wikipedia; NewsMeter; Swasthi). This recipe follows the pakki method, with chicken."
+  },
+  "occasion": {
+   "fr": "Mariages, fêtes et grands repas de famille : à Hyderabad, il n'y a pas de mariage ni de réunion sans biryani (NewsMeter). Ranveer Brar classe son biryani hyderabadi au poulet parmi ses recettes de l'Aïd (« Eid Special ») et du Ramadan (« Ramadan Special »).",
+   "t": "Weddings, celebrations and big family meals: in Hyderabad, there is no wedding or gathering without biryani (NewsMeter). Ranveer Brar lists his Hyderabadi chicken biryani among his Eid (“Eid Special”) and Ramadan (“Ramadan Special”) recipes."
+  },
+  "img_alt": {
+   "fr": "Biryani de poulet à la hyderabadi dans une marmite en cuivre, avec du raïta",
+   "t": "Hyderabadi chicken biryani in a copper pot, with raita"
+  },
+  "serving": {
+   "fr": "Chaud, avec une raïta au yaourt (Swasthi ; Ranveer Brar ; Kunal Kapur). À Hyderabad, on le sert avec le mirchi ka salan (curry de piments) et la dahi ki chutney (sauce au yaourt) (NewsMeter ; Wikipédia), et une salade d'oignon, de carotte, de concombre et de citron (Wikipédia). Sanjeev Kapoor ajoute des piments frits et des rondelles d'oignon. Restes : refroidis-les vite, idéalement en moins d'une heure, sans les laisser dans la marmite (FSA), et mets-les au réfrigérateur au plus tard dans les 2 heures (Anses). Garde-les 1 jour au plus, et réchauffe-les une seule fois, jusqu'à ce qu'ils soient fumants partout (FSA).",
+   "t": "Hot, with a yoghurt raita (Swasthi; Ranveer Brar; Kunal Kapur). In Hyderabad, it is served with mirchi ka salan (chilli curry) and dahi ki chutney (yoghurt sauce) (NewsMeter; Wikipedia), and a salad of onion, carrot, cucumber and lemon (Wikipedia). Sanjeev Kapoor adds fried chillies and onion rings. Leftovers: cool them quickly, ideally in less than an hour, without leaving them in the pot (FSA), and put them in the fridge within 2 hours at the latest (Anses). Keep them for 1 day at most, and reheat them only once, until they are steaming hot all the way through (FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Oignons frits",
+   "t": "Fried onions"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile neutre pour la friture",
+   "t": "neutral oil for frying"
+  },
+  "ing.huile-friture.note": {
+   "fr": "une bonne couche au fond de la poêle",
+   "t": "a good layer in the bottom of the frying pan"
+  },
+  "ing.1.group": {
+   "fr": "Poulet mariné",
+   "t": "Marinated chicken"
+  },
+  "ing.poulet.name": {
+   "fr": "de morceaux de poulet avec os, sans peau",
+   "t": "bone-in, skinless chicken pieces"
+  },
+  "ing.poulet.note": {
+   "fr": "halal ; hauts de cuisse et pilons, de taille moyenne",
+   "t": "halal; thighs and drumsticks, medium-sized"
+  },
+  "ing.yaourt.name": {
+   "fr": "de yaourt nature entier",
+   "t": "plain whole-milk yoghurt"
+  },
+  "ing.yaourt.note": {
+   "fr": "frais, pas acide ; pas de yaourt grec",
+   "t": "fresh, not sour; not Greek yoghurt"
+  },
+  "ing.pag.name": {
+   "fr": "de pâte d'ail et de gingembre frais",
+   "t": "fresh garlic and ginger paste"
+  },
+  "ing.pag.note": {
+   "fr": "ou moitié ail, moitié gingembre, râpés finement",
+   "t": "or half garlic, half ginger, finely grated"
+  },
+  "ing.piment.name": {
+   "fr": "de piment rouge en poudre (type cachemire)",
+   "t": "red chilli powder (Kashmiri type)"
+  },
+  "ing.piment.note": {
+   "fr": "ou paprika ; à ajuster selon ton goût",
+   "t": "or paprika; adjust to your taste"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.garam.name": {
+   "fr": "de garam masala",
+   "t": "garam masala"
+  },
+  "ing.garam.note": {
+   "fr": "ou de biryani masala",
+   "t": "or biryani masala"
+  },
+  "ing.piments-verts.name": {
+   "fr": "piment vert",
+   "t": "green chilli"
+  },
+  "ing.piments-verts.pl": {
+   "fr": "piments verts",
+   "t": "green chillies"
+  },
+  "ing.piments-verts.note": {
+   "fr": "fendus en deux",
+   "t": "split in two"
+  },
+  "ing.menthe.name": {
+   "fr": "de feuilles de menthe hachées",
+   "t": "chopped mint leaves"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.2.group": {
+   "fr": "Cuisson du poulet",
+   "t": "Cooking the chicken"
+  },
+  "ing.huile-cuisson.name": {
+   "fr": "de l'huile de friture des oignons",
+   "t": "oil from frying the onions"
+  },
+  "ing.huile-cuisson.note": {
+   "fr": "ou de ghee",
+   "t": "or ghee"
+  },
+  "ing.carvi-poulet.name": {
+   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+   "t": "caraway seeds, or shahi jeera (black cumin) if you can find it"
+  },
+  "ing.3.group": {
+   "fr": "Riz",
+   "t": "Rice"
+  },
+  "ing.riz.name": {
+   "fr": "de riz basmati",
+   "t": "basmati rice"
+  },
+  "ing.riz.note": {
+   "fr": "de préférence vieilli (« aged »)",
+   "t": "preferably “aged”"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.sel-riz.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel-riz.note": {
+   "fr": "beaucoup : l'eau doit être nettement salée",
+   "t": "plenty: the water must taste clearly salty"
+  },
+  "ing.huile-riz.name": {
+   "fr": "d'huile",
+   "t": "oil"
+  },
+  "ing.laurier.name": {
+   "fr": "feuille de laurier",
+   "t": "bay leaf"
+  },
+  "ing.laurier.pl": {
+   "fr": "feuilles de laurier",
+   "t": "bay leaves"
+  },
+  "ing.cannelle.name": {
+   "fr": "petit bâton de cannelle (environ 4 cm)",
+   "t": "small cinnamon stick (about 4 cm)"
+  },
+  "ing.cannelle.pl": {
+   "fr": "petits bâtons de cannelle (environ 4 cm)",
+   "t": "small cinnamon sticks (about 4 cm)"
+  },
+  "ing.cardamome.name": {
+   "fr": "gousse de cardamome verte",
+   "t": "green cardamom pod"
+  },
+  "ing.cardamome.pl": {
+   "fr": "gousses de cardamome verte",
+   "t": "green cardamom pods"
+  },
+  "ing.clous.name": {
+   "fr": "clou de girofle",
+   "t": "clove"
+  },
+  "ing.clous.pl": {
+   "fr": "clous de girofle",
+   "t": "cloves"
+  },
+  "ing.badiane.name": {
+   "fr": "étoile de badiane (anis étoilé)",
+   "t": "star anise pod"
+  },
+  "ing.badiane.pl": {
+   "fr": "étoiles de badiane (anis étoilé)",
+   "t": "star anise pods"
+  },
+  "ing.carvi-riz.name": {
+   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+   "t": "caraway seeds, or shahi jeera (black cumin) if you can find it"
+  },
+  "ing.4.group": {
+   "fr": "Montage",
+   "t": "Assembly"
+  },
+  "ing.safran.name": {
+   "fr": "de safran en filaments",
+   "t": "saffron threads"
+  },
+  "ing.lait.name": {
+   "fr": "de lait chaud",
+   "t": "hot milk"
+  },
+  "ing.ghee.name": {
+   "fr": "de ghee (beurre clarifié)",
+   "t": "ghee (clarified butter)"
+  },
+  "ing.ghee.note": {
+   "fr": "fondu",
+   "t": "melted"
+  },
+  "equipment.0": {
+   "fr": "Une grande marmite à fond épais, avec un couvercle qui ferme bien (Swasthi, Vismai Food)",
+   "t": "A large heavy-based pot with a tight-fitting lid (Swasthi, Vismai Food)"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle épaisse ou une plaque en fonte, à poser sous la marmite pendant la cuisson à l'étouffée (Swasthi, Ranveer Brar)",
+   "t": "A large heavy frying pan or a cast-iron griddle, to place under the pot during the sealed slow cooking (Swasthi, Ranveer Brar)"
+  },
+  "equipment.2": {
+   "fr": "Une poêle ou une sauteuse, pour frire les oignons",
+   "t": "A frying pan or a sauté pan, for frying the onions"
+  },
+  "equipment.3": {
+   "fr": "Une grande casserole pour cuire le riz, et une passoire",
+   "t": "A large saucepan for cooking the rice, and a colander"
+  },
+  "equipment.4": {
+   "fr": "Un grand bol, pour la marinade",
+   "t": "A large bowl, for the marinade"
+  },
+  "equipment.5": {
+   "fr": "Du papier aluminium (Swasthi, Sanjeev Kapoor)",
+   "t": "Aluminium foil (Swasthi, Sanjeev Kapoor)"
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant",
+   "t": "Kitchen paper"
+  },
+  "equipment.7": {
+   "fr": "Une louche et une spatule plate, pour servir (Vismai Food)",
+   "t": "A ladle and a flat spatula, for serving (Vismai Food)"
+  },
+  "equipment.8": {
+   "fr": "Un thermomètre de cuisson (conseillé par la FSA)",
+   "t": "A cooking thermometer (recommended by the FSA)"
+  },
+  "steps.0.title": {
+   "fr": "Émince les oignons",
+   "t": "Slice the onions"
+  },
+  "steps.0.text": {
+   "fr": "Pèle {{oignons:full}} et coupe en lamelles fines et régulières. Sépare les couches.",
+   "t": "Peel {{oignons:full}} and cut them into thin, even slices. Separate the layers."
+  },
+  "steps.1.title": {
+   "fr": "Fais frire les oignons",
+   "t": "Fry the onions"
+  },
+  "steps.1.text": {
+   "fr": "Dans la poêle, chauffe l'{{huile-friture}} à feu moyen. Fais frire les oignons en petites quantités, en remuant souvent, jusqu'à ce qu'ils soient bien dorés. Ne les laisse pas brûler. Égoutte-les sur du papier absorbant et garde l'huile de friture.",
+   "t": "In the frying pan, heat the {{huile-friture}} over medium heat. Fry the onions in small batches, stirring often, until deep golden brown. Do not let them burn. Drain them on kitchen paper and keep the frying oil."
+  },
+  "steps.1.tip": {
+   "fr": "Brûlés, les oignons deviennent amers (Swasthi). Tu peux les frire la veille (Swasthi).",
+   "t": "Burnt onions turn bitter (Swasthi). You can fry them the day before (Swasthi)."
+  },
+  "steps.2.title": {
+   "fr": "Prépare la marinade",
+   "t": "Make the marinade"
+  },
+  "steps.2.text": {
+   "fr": "Dans un grand bol, mélange {{yaourt}} de yaourt, {{pag}} de pâte ail-gingembre, {{piment}} de piment, {{curcuma}} de curcuma, {{piments-verts:full}} et du {{sel}}. Ajoute presque tout le garam masala ({{garam}} en tout), en gardant une pincée pour le montage. Ajoute la moitié des oignons frits, émiettés, puis la moitié de la menthe ({{menthe}} en tout) et de la coriandre ({{coriandre}} en tout).",
+   "t": "In a large bowl, mix {{yaourt}} yoghurt, {{pag}} garlic-ginger paste, {{piment}} chilli powder, {{curcuma}} turmeric, {{piments-verts:full}} and some {{sel}}. Add almost all the garam masala ({{garam}} in total), keeping a pinch for the assembly. Add half the fried onions, crumbled, then half the mint ({{menthe}} in total) and half the coriander ({{coriandre}} in total)."
+  },
+  "steps.2.tip": {
+   "fr": "Prends un yaourt frais, pas acide (Swasthi).",
+   "t": "Use fresh yoghurt that is not sour (Swasthi)."
+  },
+  "steps.3.title": {
+   "fr": "Fais mariner le poulet",
+   "t": "Marinate the chicken"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute {{poulet}} de poulet et enrobe bien chaque morceau. Couvre et mets au réfrigérateur au moins 2 heures, ou toute une nuit. Ne lave pas le poulet cru. Lave-toi les mains au savon après l'avoir touché.",
+   "t": "Add {{poulet}} chicken and coat each piece well. Cover and refrigerate for at least 2 hours, or overnight. Do not wash the raw chicken. Wash your hands with soap after touching it."
+  },
+  "steps.3.tip": {
+   "fr": "Une nuit au réfrigérateur rend le poulet plus tendre et plus juteux (Swasthi ; Vismai Food). Ne le laisse pas plus de 2 heures à température ambiante (Anses).",
+   "t": "A night in the fridge makes the chicken more tender and juicier (Swasthi; Vismai Food). Do not leave it at room temperature for more than 2 hours (Anses)."
+  },
+  "steps.4.title": {
+   "fr": "Fais tremper le riz",
+   "t": "Soak the rice"
+  },
+  "steps.4.text": {
+   "fr": "Rince {{riz}} de riz dans plusieurs eaux, jusqu'à ce que l'eau reste claire. Couvre-le d'eau froide et laisse-le tremper 30 minutes.",
+   "t": "Rinse {{riz}} rice in several changes of water, until the water stays clear. Cover it with cold water and leave it to soak for 30 minutes."
+  },
+  "steps.4.tip": {
+   "fr": "Pendant le trempage, commence la cuisson du poulet.",
+   "t": "While it soaks, start cooking the chicken."
+  },
+  "steps.4.timer.label": {
+   "fr": "Trempage du riz",
+   "t": "Soaking the rice"
+  },
+  "steps.4.timer.done": {
+   "fr": "Égoutte le riz dans la passoire.",
+   "t": "Drain the rice in the colander."
+  },
+  "steps.5.title": {
+   "fr": "Cuis le poulet mariné",
+   "t": "Cook the marinated chicken"
+  },
+  "steps.5.text": {
+   "fr": "Dans la grande marmite, chauffe {{huile-cuisson}} de l'huile de friture à feu moyen. Ajoute {{carvi-poulet}} de carvi. Dès qu'il grésille, verse le poulet avec toute sa marinade. Remue quelques minutes à feu moyen-vif, puis étale les morceaux en une seule couche. Couvre et laisse cuire à feu moyen-doux, en remuant de temps en temps, jusqu'à ce que le poulet soit tendre et qu'il reste une sauce épaisse.",
+   "t": "In the large pot, heat {{huile-cuisson}} of the frying oil over medium heat. Add {{carvi-poulet}} caraway seeds. As soon as they sizzle, add the chicken with all its marinade. Stir for a few minutes over medium-high heat, then spread the pieces out in a single layer. Cover and cook over medium-low heat, stirring from time to time, until the chicken is tender and a thick sauce remains."
+  },
+  "steps.5.tip": {
+   "fr": "C'est la méthode « pakki » : le poulet est cuit avant d'être recouvert de riz (Swasthi ; NewsMeter).",
+   "t": "This is the “pakki” method: the chicken is cooked before being covered with rice (Swasthi; NewsMeter)."
+  },
+  "steps.6.title": {
+   "fr": "Vérifie la cuisson du poulet",
+   "t": "Check that the chicken is cooked"
+  },
+  "steps.6.text": {
+   "fr": "Coupe le plus gros morceau près de l'os : la chair ne doit plus être rose, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, pique loin de l'os : le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau. Coupe ensuite le feu.",
+   "t": "Cut into the largest piece near the bone: the flesh must no longer be pink, the juices must run clear and steam must come out. With a thermometer, insert the probe away from the bone: the centre must reach 75 °C for 30 seconds. If not, keep cooking, covered, then check again. Then turn off the heat."
+  },
+  "steps.6.tip": {
+   "fr": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
+   "t": "The FSA calls for 75 °C at the centre for 30 seconds or 70 °C for 2 minutes; Anses calls for poultry to be cooked right through, at 70 °C."
+  },
+  "steps.7.title": {
+   "fr": "Prépare l'eau du riz",
+   "t": "Prepare the rice water"
+  },
+  "steps.7.text": {
+   "fr": "Dans la grande casserole, porte à ébullition {{eau}} d'eau avec {{laurier:full}}, {{cannelle:full}}, {{cardamome:full}}, {{clous:full}}, {{badiane:full}}, {{carvi-riz}} de carvi et {{huile-riz}} d'huile. Sale bien avec du {{sel-riz}} : l'eau doit avoir un goût nettement salé. Laisse bouillir 5 minutes.",
+   "t": "In the large saucepan, bring {{eau}} water to the boil with {{laurier:full}}, {{cannelle:full}}, {{cardamome:full}}, {{clous:full}}, {{badiane:full}}, {{carvi-riz}} caraway seeds and {{huile-riz}} oil. Season it generously with {{sel-riz}}: the water must taste clearly salty. Let it boil for 5 minutes."
+  },
+  "steps.7.tip": {
+   "fr": "L'eau doit être salée comme de l'eau de mer : c'est le seul sel que prendra le riz (Vismai Food).",
+   "t": "The water must be as salty as seawater: it is the only salt the rice will get (Vismai Food)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Eau parfumée",
+   "t": "Flavoured water"
+  },
+  "steps.7.timer.done": {
+   "fr": "Verse le riz égoutté dans l'eau bouillante.",
+   "t": "Pour the drained rice into the boiling water."
+  },
+  "steps.8.title": {
+   "fr": "Prépare le lait au safran",
+   "t": "Prepare the saffron milk"
+  },
+  "steps.8.text": {
+   "fr": "Fais tremper {{safran}} de safran dans {{lait}} de lait chaud.",
+   "t": "Soak {{safran}} of saffron in {{lait}} of hot milk."
+  },
+  "steps.9.title": {
+   "fr": "Cuis le riz aux trois quarts",
+   "t": "Cook the rice three-quarters of the way"
+  },
+  "steps.9.text": {
+   "fr": "Verse le riz égoutté dans l'eau qui bout à gros bouillons et remue doucement une fois. Laisse cuire 5 minutes environ, puis goûte un grain : il doit être cuit aux trois quarts et encore résister au centre. Égoutte aussitôt, en gardant une louche d'eau de cuisson.",
+   "t": "Pour the drained rice into the water at a rolling boil and stir gently once. Cook for about 5 minutes, then taste a grain: it must be three-quarters cooked and still firm in the centre. Drain straight away, keeping a ladle of the cooking water."
+  },
+  "steps.9.tip": {
+   "fr": "Le riz ne doit surtout pas devenir pâteux : il finit de cuire à l'étouffée (Swasthi ; Sanjeev Kapoor).",
+   "t": "Above all, the rice must not turn mushy: it finishes cooking in the sealed pot (Swasthi; Sanjeev Kapoor)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Riz aux trois quarts",
+   "t": "Rice three-quarters cooked"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte un grain : il doit encore résister au centre.",
+   "t": "Taste a grain: it must still be firm in the centre."
+  },
+  "steps.10.title": {
+   "fr": "Monte le biryani",
+   "t": "Assemble the biryani"
+  },
+  "steps.10.text": {
+   "fr": "Étale le riz sur le poulet, en couche égale, sans tasser. Parsème le reste des oignons frits, de la menthe et de la coriandre, puis la pincée de garam masala. Verse le lait au safran en filet, puis {{ghee}} de ghee. Si le fond te paraît sec, ajoute la louche d'eau de cuisson du riz.",
+   "t": "Spread the rice over the chicken in an even layer, without pressing it down. Scatter over the rest of the fried onions, mint and coriander, then the pinch of garam masala. Drizzle over the saffron milk, then {{ghee}} of ghee. If the bottom looks dry to you, add the ladle of rice cooking water."
+  },
+  "steps.11.title": {
+   "fr": "Ferme hermétiquement",
+   "t": "Seal the pot tightly"
+  },
+  "steps.11.text": {
+   "fr": "Couvre la marmite d'une feuille de papier aluminium bien serrée sur les bords, puis pose le couvercle. S'il ferme mal, pose un poids dessus. La vapeur ne doit pas s'échapper.",
+   "t": "Cover the pot with a sheet of aluminium foil pressed tightly around the edges, then put the lid on. If it does not close well, put a weight on top. No steam must escape."
+  },
+  "steps.11.tip": {
+   "fr": "À l'ancienne, on colle le couvercle avec un boudin de pâte de farine et d'eau (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",
+   "t": "The old-fashioned way is to seal the lid with a rope of flour-and-water dough (Kunal Kapur; Sanjeev Kapoor; Onmanorama)."
+  },
+  "steps.12.title": {
+   "fr": "Cuis à l'étouffée (dum)",
+   "t": "Cook on dum (sealed slow cooking)"
+  },
+  "steps.12.text": {
+   "fr": "Fais chauffer la grande poêle épaisse ou la plaque en fonte sur le feu, puis pose la marmite par-dessus. Laisse cuire 15 minutes à feu doux, sans ouvrir.",
+   "t": "Heat the large heavy frying pan or the cast-iron griddle on the hob, then set the pot on top of it. Cook for 15 minutes over low heat, without opening."
+  },
+  "steps.12.tip": {
+   "fr": "La plaque sous la marmite répartit la chaleur et évite que le fond brûle (Swasthi).",
+   "t": "The griddle under the pot spreads the heat and stops the bottom from burning (Swasthi)."
+  },
+  "steps.12.timer.label": {
+   "fr": "Cuisson à l'étouffée",
+   "t": "Dum cooking"
+  },
+  "steps.12.timer.done": {
+   "fr": "Coupe le feu sans ouvrir la marmite.",
+   "t": "Turn off the heat without opening the pot."
+  },
+  "steps.13.title": {
+   "fr": "Laisse reposer",
+   "t": "Leave to rest"
+  },
+  "steps.13.text": {
+   "fr": "Coupe le feu et laisse reposer 10 minutes, marmite fermée, sur la plaque encore chaude.",
+   "t": "Turn off the heat and leave to rest for 10 minutes, with the pot closed, on the still-hot griddle."
+  },
+  "steps.13.tip": {
+   "fr": "Laisse la marmite sur le feu éteint : posée ailleurs, elle perd sa chaleur et le biryani cuit moins bien (Vismai Food).",
+   "t": "Leave the pot on the hob with the heat off: moved elsewhere, it loses its heat and the biryani does not cook as well (Vismai Food)."
+  },
+  "steps.13.timer.label": {
+   "fr": "Repos",
+   "t": "Resting"
+  },
+  "steps.13.timer.done": {
+   "fr": "Ouvre la marmite et sers.",
+   "t": "Open the pot and serve."
+  },
+  "steps.14.title": {
+   "fr": "Sers à la spatule",
+   "t": "Serve with a spatula"
+  },
+  "steps.14.text": {
+   "fr": "Ouvre la marmite : tout doit être fumant. Sers avec une spatule plate, en allant jusqu'au fond, pour avoir du riz et du poulet dans chaque assiette. Ne mélange pas le biryani dans la marmite.",
+   "t": "Open the pot: everything must be steaming hot. Serve with a flat spatula, going right down to the bottom, so that every plate gets rice and chicken. Do not stir the biryani in the pot."
+  },
+  "steps.14.tip": {
+   "fr": "Vismai Food sert en soulevant le biryani depuis le fond avec une spatule plate, sans le remuer.",
+   "t": "Vismai Food serves it by lifting the biryani up from the bottom with a flat spatula, without stirring it."
+  },
+  "secrets.0.text": {
+   "fr": "Prends un riz basmati vieilli : Vismai Food le veut de plus d'un an, pour un beau grain. Fais-le tremper 30 minutes avant de le cuire.",
+   "t": "Use aged basmati rice: Vismai Food wants it more than a year old, for lovely grains. Soak it for 30 minutes before cooking it."
+  },
+  "secrets.0.source": {
+   "fr": "Swasthi (« aged » basmati, trempage de 30 minutes) ; Vismai Food (riz de plus d'un an) ; Kunal Kapur (30 à 45 minutes) ; Sanjeev Kapoor (30 minutes)",
+   "t": "Swasthi (“aged” basmati, 30-minute soak); Vismai Food (rice over a year old); Kunal Kapur (30 to 45 minutes); Sanjeev Kapoor (30 minutes)"
+  },
+  "secrets.1.text": {
+   "fr": "Sale beaucoup l'eau du riz, comme de l'eau de mer : le sel ajouté plus tard ne pénètre plus le riz.",
+   "t": "Salt the rice water heavily, like seawater: salt added later no longer gets into the rice."
+  },
+  "secrets.1.source": {
+   "fr": "Vismai Food ; Swasthi (« the water has to taste salty »)",
+   "t": "Vismai Food; Swasthi (“the water has to taste salty”)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais bouillir les épices entières 5 minutes dans l'eau avant d'y verser le riz : elles parfument l'eau.",
+   "t": "Boil the whole spices in the water for 5 minutes before adding the rice: they flavour the water."
+  },
+  "secrets.2.source": {
+   "fr": "Swasthi ; Kunal Kapur",
+   "t": "Swasthi; Kunal Kapur"
+  },
+  "secrets.3.text": {
+   "fr": "Arrête le riz aux trois quarts de sa cuisson : il finit de cuire dans la vapeur de la marmite.",
+   "t": "Stop cooking the rice when it is three-quarters done: it finishes cooking in the steam inside the pot."
+  },
+  "secrets.3.source": {
+   "fr": "Sanjeev Kapoor (« three fourth done ») ; Swasthi (75 %) ; Vismai Food (70 %) ; Ranveer Brar (60 %)",
+   "t": "Sanjeev Kapoor (“three fourth done”); Swasthi (75%); Vismai Food (70%); Ranveer Brar (60%)"
+  },
+  "secrets.4.text": {
+   "fr": "Les oignons frits font partie des ingrédients de base du biryani hyderabadi : fais-les bien dorer, en petites quantités, sans les brûler.",
+   "t": "Fried onions are one of the basic ingredients of Hyderabadi biryani: fry them in small batches until deep golden, without burning them."
+  },
+  "secrets.4.source": {
+   "fr": "Wikipédia (ingrédients de base) ; Swasthi ; Ranveer Brar (frits « in small batches »)",
+   "t": "Wikipedia (basic ingredients); Swasthi; Ranveer Brar (fried “in small batches”)"
+  },
+  "secrets.5.text": {
+   "fr": "Garde l'huile de friture des oignons : elle donne son parfum au biryani.",
+   "t": "Keep the oil the onions were fried in: it gives the biryani its aroma."
+  },
+  "secrets.5.source": {
+   "fr": "Vismai Food ; Swasthi ; Ranveer Brar (« fried onion oil »)",
+   "t": "Vismai Food; Swasthi; Ranveer Brar (“fried onion oil”)"
+  },
+  "secrets.6.text": {
+   "fr": "Prends un yaourt frais, pas acide, et un poulet jeune : les gros poulets âgés cuisent mal.",
+   "t": "Use fresh yoghurt that is not sour, and a young chicken: large, older birds do not cook well."
+  },
+  "secrets.6.source": {
+   "fr": "Swasthi (« do not use sour curd ») ; Vismai Food (poulet de moins d'un kilo)",
+   "t": "Swasthi (“do not use sour curd”); Vismai Food (chicken under a kilo)"
+  },
+  "secrets.7.text": {
+   "fr": "Marine le poulet longtemps au réfrigérateur, une nuit si tu peux : il devient tendre et juteux.",
+   "t": "Marinate the chicken for a long time in the fridge, overnight if you can: it becomes tender and juicy."
+  },
+  "secrets.7.source": {
+   "fr": "Swasthi ; Vismai Food",
+   "t": "Swasthi; Vismai Food"
+  },
+  "secrets.8.text": {
+   "fr": "Fais tremper le safran dans du lait chaud, puis verse-le en filet sur le riz.",
+   "t": "Soak the saffron in warm milk, then drizzle it over the rice."
+  },
+  "secrets.8.source": {
+   "fr": "Swasthi ; Sanjeev Kapoor ; Ranveer Brar",
+   "t": "Swasthi; Sanjeev Kapoor; Ranveer Brar"
+  },
+  "secrets.9.text": {
+   "fr": "Une marmite à fond épais, posée sur une poêle épaisse ou une plaque en fonte, évite que le fond brûle pendant la cuisson à l'étouffée.",
+   "t": "A heavy-based pot, set on a heavy frying pan or a cast-iron griddle, keeps the bottom from burning during the sealed slow cooking."
+  },
+  "secrets.9.source": {
+   "fr": "Swasthi (tawa sous la marmite) ; Vismai Food (récipient à fond épais) ; Ranveer Brar (marmite posée sur le tawa)",
+   "t": "Swasthi (tawa under the pot); Vismai Food (heavy-based vessel); Ranveer Brar (pot set on the tawa)"
+  },
+  "secrets.10.text": {
+   "fr": "Ferme bien la marmite : la vapeur ne doit pas s'échapper, c'est elle qui cuit le riz.",
+   "t": "Seal the pot well: the steam must not escape, because it is the steam that cooks the rice."
+  },
+  "secrets.10.source": {
+   "fr": "Swasthi ; Kunal Kapur (couvercle collé à la pâte) ; Vismai Food",
+   "t": "Swasthi; Kunal Kapur (lid sealed with dough); Vismai Food"
+  },
+  "secrets.11.text": {
+   "fr": "Ne remue jamais le biryani chaud : laisse-le reposer, marmite fermée, sur le feu éteint.",
+   "t": "Never stir the hot biryani: let it rest, with the pot closed, after turning off the heat."
+  },
+  "secrets.11.source": {
+   "fr": "Vismai Food",
+   "t": "Vismai Food"
+  },
+  "secrets.12.text": {
+   "fr": "Le ghee rend le biryani meilleur : Vismai Food conseille d'en mettre plus. Le biryani hyderabadi traditionnel en compte près de 300 g par kilo de riz.",
+   "t": "Ghee makes the biryani better: Vismai Food advises adding more of it. Traditional Hyderabadi biryani uses nearly 300 g per kilo of rice."
+  },
+  "secrets.12.source": {
+   "fr": "Vismai Food (« tastes better with more Ghee ») ; NewsMeter",
+   "t": "Vismai Food (“tastes better with more Ghee”); NewsMeter"
+  },
+  "secrets.13.text": {
+   "fr": "Le biryani hyderabadi traditionnel contient peu d'épices moulues : il est moins chargé en masala que les biryanis de restaurant.",
+   "t": "Traditional Hyderabadi biryani contains few ground spices: it is less heavy on masala than restaurant biryanis."
+  },
+  "secrets.13.source": {
+   "fr": "Swasthi (« minimal amount of ground spices »)",
+   "t": "Swasthi (“minimal amount of ground spices”)"
+  },
+  "mistakes.0": {
+   "fr": "Trop cuire le riz avant le montage : il devient pâteux (Swasthi).",
+   "t": "Overcooking the rice before assembling: it turns mushy (Swasthi)."
+  },
+  "mistakes.1": {
+   "fr": "Brûler les oignons : ils donnent un goût amer (Swasthi).",
+   "t": "Burning the onions: they give a bitter taste (Swasthi)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre une marmite à fond fin, ou la poser sans plaque sur le feu : le fond brûle (Swasthi ; Vismai Food).",
+   "t": "Using a thin-based pot, or putting it straight on the heat without a griddle underneath: the bottom burns (Swasthi; Vismai Food)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser la vapeur s'échapper par un couvercle mal fermé : elle doit rester dans la marmite (Swasthi).",
+   "t": "Letting the steam escape through a badly sealed lid: it must stay in the pot (Swasthi)."
+  },
+  "mistakes.4": {
+   "fr": "Monter le biryani sans avoir vérifié que le poulet est cuit à cœur (FSA, Anses).",
+   "t": "Assembling the biryani without checking that the chicken is cooked through (FSA, Anses)."
+  },
+  "mistakes.5": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA). Kunal Kapur et Ranveer Brar le lavent dans leurs recettes : ne le fais pas.",
+   "t": "Washing raw chicken: it splashes bacteria everywhere, and only cooking kills them (FSA). Kunal Kapur and Ranveer Brar wash it in their recipes: don't."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le poulet mariner longtemps hors du réfrigérateur : pas plus de 2 heures à température ambiante (Anses). Vismai Food le permet quand on n'a pas de réfrigérateur : ne le fais pas.",
+   "t": "Leaving the chicken to marinate for a long time out of the fridge: no more than 2 hours at room temperature (Anses). Vismai Food allows it when you have no fridge: don't."
+  },
+  "mistakes.7": {
+   "fr": "Laisser refroidir les restes dans la marmite ou à température ambiante : Bacillus cereus, dont les spores survivent à la cuisson du riz, peut s'y multiplier et produire une toxine que la chaleur ne détruit pas (Anses ; FSA).",
+   "t": "Leaving leftovers to cool in the pot or at room temperature: Bacillus cereus, whose spores survive cooking the rice, can multiply there and produce a toxin that heat does not destroy (Anses; FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Réchauffer le biryani plus d'une fois (FSA).",
+   "t": "Reheating the biryani more than once (FSA)."
+  },
+  "mistakes.9": {
+   "fr": "Ajouter de l'eau de kewra ou un arôme sans lire l'étiquette : Swasthi rappelle que ces produits contiennent des conservateurs et des additifs. Pour rester halal, choisis-les sans alcool.",
+   "t": "Adding kewra water or a flavouring without reading the label: Swasthi points out that these products contain preservatives and additives. To keep it halal, choose them alcohol-free."
+  },
+  "variants.0": {
+   "fr": "Biryani « kachchi », le plus célèbre à Hyderabad (NewsMeter) : le poulet cru et mariné va au fond de la marmite, en une seule couche, sous le riz cuit aux trois quarts ; la marmite fermée cuit 20 minutes à feu moyen-vif sur une plaque, puis 15 minutes à feu très doux, et repose 20 à 30 minutes (Swasthi). Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable, et Wikipédia rappelle qu'il faut surveiller de près le temps et la chaleur pour que la viande soit assez cuite. Vérifie toujours la cuisson du poulet avant de servir (FSA).",
+   "t": "“Kachchi” biryani, the most famous in Hyderabad (NewsMeter): the raw marinated chicken goes in the bottom of the pot, in a single layer, under the three-quarters-cooked rice; the closed pot cooks for 20 minutes over medium-high heat on a griddle, then 15 minutes over very low heat, and rests for 20 to 30 minutes (Swasthi). Swasthi calls it easy but advises against it for anyone new to cooking chicken or cooking on a portable stove, and Wikipedia stresses that the time and heat must be watched closely so that the meat cooks enough. Always check that the chicken is cooked before serving (FSA)."
+  },
+  "variants.1": {
+   "fr": "Cuisson à l'étouffée au four : marmite fermée au papier aluminium, 15 à 25 minutes à 180 °C pour un biryani pakki (Swasthi).",
+   "t": "Sealed slow cooking in the oven: pot sealed with aluminium foil, 15 to 25 minutes at 180 °C for a pakki biryani (Swasthi)."
+  },
+  "variants.2": {
+   "fr": "Couvercle collé avec un boudin de pâte de farine et d'eau, à la place du papier aluminium (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",
+   "t": "Lid sealed with a rope of flour-and-water dough instead of aluminium foil (Kunal Kapur; Sanjeev Kapoor; Onmanorama)."
+  },
+  "variants.3": {
+   "fr": "Avec quelques gouttes d'eau de rose ou d'eau de kewra sur le riz (Sanjeev Kapoor ; Ranveer Brar) : seulement sans alcool, vérifie l'étiquette.",
+   "t": "With a few drops of rose water or kewra water over the rice (Sanjeev Kapoor; Ranveer Brar): alcohol-free only, check the label."
+  },
+  "variants.4": {
+   "fr": "Avec des pétales de rose séchés et une julienne de gingembre sur le riz (Sanjeev Kapoor, 2024).",
+   "t": "With dried rose petals and julienned ginger over the rice (Sanjeev Kapoor, 2024)."
+  },
+  "variants.5": {
+   "fr": "Avec un trait de jus de citron dans la marinade (Swasthi ; Vismai Food).",
+   "t": "With a dash of lemon juice in the marinade (Swasthi; Vismai Food)."
+  },
+  "variants.6": {
+   "fr": "En deux couches, dans une marmite plus petite : la moitié du poulet, la moitié du riz, puis on recommence (Swasthi).",
+   "t": "In two layers, in a smaller pot: half the chicken, half the rice, then repeat (Swasthi)."
+  },
+  "variants.7": {
+   "fr": "À la viande, comme le biryani hyderabadi d'origine, le plus souvent de la chèvre (Wikipédia). Sanjeev Kapoor et Kunal Kapur le font au « mutton » : la viande cuit plus longtemps, jusqu'à être tendre, avant le montage.",
+   "t": "With meat, like the original Hyderabadi biryani, most often goat (Wikipedia). Sanjeev Kapoor and Kunal Kapur make it with “mutton”: the meat cooks longer, until tender, before assembling."
+  },
+  "variants.8": {
+   "fr": "Biryani « sufiyani », blanc et doux, au lait, sans safran (NewsMeter).",
+   "t": "“Sufiyani” biryani, white and mild, made with milk and without saffron (NewsMeter)."
+  }
+ }
+}

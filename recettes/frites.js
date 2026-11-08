@@ -94,7 +94,7 @@ window.RECETTES.push({
    "title": "Chauffe l'huile à 140 °C",
    "text": "Remplis la friteuse d'{{huile}} comme l'indique sa notice et règle-la sur 140 °C. Sans friteuse, prends une casserole profonde : remplis-la au tiers au plus et contrôle la température avec un thermomètre de cuisson. Pose un couvercle adapté à portée de main. À partir de maintenant, ne quitte plus l'huile des yeux.",
    "timer": null,
-   "tip": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire)."
+   "tip": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire). Coupe le chauffage seulement si tu peux le faire sans danger, sans te pencher au-dessus du récipient (London Fire Brigade, pompiers de Cambridgeshire) ; le gouvernement du Québec dit d'éteindre aussi, si possible, le four et la hotte. Le gouvernement du Québec et l'USFA conseillent de couvrir vite le récipient avec un couvercle adapté (l'USFA cite aussi une plaque de four). La London Fire Brigade et les pompiers de Cambridgeshire disent, eux, de ne pas attaquer le feu soi-même : sors de la pièce en fermant la porte, préviens les autres et fais sortir tout le monde, puis appelle les pompiers. Cambridgeshire ajoute de ne pas retourner à l'intérieur et, si le chauffage a pu être coupé et que le feu ne s'étend pas, de laisser le récipient refroidir au moins 30 minutes sans y toucher. Appelle les pompiers même si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec)."
   },
   {
    "phase": "Cuisson",
@@ -152,7 +152,7 @@ window.RECETTES.push({
    "title": "Secoue et sale",
    "text": "Sors le panier et secoue-le bien au-dessus de l'huile. Verse les frites sur du papier absorbant et sale-les aussitôt avec un peu de {{sel}}, pendant qu'elles sont brûlantes. Ne les couvre pas.",
    "timer": null,
-   "tip": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia)."
+   "tip": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins quand on secoue les frites et qu'on tape plusieurs fois le panier. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia)."
   },
   {
    "phase": "Cuisson",
@@ -210,7 +210,7 @@ window.RECETTES.push({
   },
   {
    "text": "Secoue le panier dès la sortie du bain et égoutte sur du papier absorbant : les frites continuent d'absorber l'huile en refroidissant.",
-   "source": "FSA (jusqu'à 20 % de gras absorbé en moins), Wikipédia, Navefri-Unafri"
+   "source": "FSA (20 % de gras absorbé en moins en secouant les frites et en tapant le panier), Wikipédia, Navefri-Unafri"
   },
   {
    "text": "Sale tout de suite, à la sortie de l'huile, quand les frites sont encore brûlantes : le sel se dissout et imprègne mieux. Et ne les couvre pas.",
@@ -537,7 +537,8 @@ window.RECETTES.push({
   "Réutilisation de l'huile : Chef Simon dit 4 utilisations (recette) ou 5 à 7 (lexique), Wikipédia une quinzaine. Retenu : la fourchette prudente de Chef Simon.",
   "Four : 180 °C pendant 45 minutes (VLAM), 180 à 220 °C (règlement UE), 200 °C au plus et 190 °C en chaleur tournante (FSAI). Retenu : 180 à 200 °C (190 °C au plus en chaleur tournante).",
   "Reconnaissance du fritkot en Fédération Wallonie-Bruxelles : 2016 selon Navefri-Unafri (annonce du 23 novembre 2016), 2017 selon le texte de Wikipédia. Retenu : la date de Navefri-Unafri, acteur de la demande.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 22 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 22 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 3 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Temps de l'appli (20 min de préparation, 25 min de cuisson) : estimations. Les sources ne chiffrent pas de façon concordante la préparation (Cuisine Culinaire : 10 min de préparation et 10 min de cuisson ; Meilleur du Chef : 45 minutes pour tout le procédé). Le nombre de fournées dépend de la friteuse. Avec le repos de 30 minutes, le total dépasse largement 30 minutes : catégorie « Accompagnement », pas « Rapide ».",

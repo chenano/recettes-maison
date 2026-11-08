@@ -1,0 +1,426 @@
+{
+ "_slug": "taktouka",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Taktouka",
+   "t": "Тактука"
+  },
+  "darija": {
+   "fr": "Taktouka",
+   "t": "Тактука"
+  },
+  "tagline": {
+   "fr": "Des poivrons verts grillés au goût fumé, mijotés dans une sauce tomate à l'ail, au cumin et au paprika. Tiède ou froide, avec du pain.",
+   "t": "Печёный зелёный сладкий перец с дымным вкусом, тушённый в томатном соусе с чесноком, кумином и паприкой. Её едят тёплой или холодной, с хлебом."
+  },
+  "region": {
+   "fr": "Tout le Maroc : pour My Moroccan Food, c'est une salade très courante ; selon Wikipédia (fr), la recette change d'une région marocaine à l'autre.",
+   "t": "По всему Марокко: по словам My Moroccan Food, это очень распространённый салат; по данным Wikipédia (fr), рецепт меняется от одного марокканского региона к другому."
+  },
+  "occasion": {
+   "fr": "Salade cuite de tous les jours, servie en entrée avec d'autres salades, ou à côté d'un tajine, d'un plat de poulet, de grillades ou de poisson (My Moroccan Food ; MarocMama ; Wikipédia).",
+   "t": "Повседневный салат из приготовленных овощей: его подают как закуску вместе с другими салатами или к таджину, блюду из курицы, мясу на гриле или рыбе (My Moroccan Food; MarocMama; Wikipédia)."
+  },
+  "img_alt": {
+   "fr": "Taktouka, salade cuite de poivrons et de tomates (photographiée dans un restaurant marocain et libanais d'Honolulu)",
+   "t": "Тактука, салат из приготовленных перцев и помидоров (снято в марокканско-ливанском ресторане в Гонолулу)"
+  },
+  "serving": {
+   "fr": "Tiède ou froide (Choumicha ; My Moroccan Food ; Cooking With Alia ; Wikipédia ; chaude ou froide chez Lalla Moulati), en entrée avec d'autres salades marocaines (MarocMama ; Wikipédia) ou à côté d'un tajine (MarocMama ; Wikipédia fr), d'un plat de poulet (MarocMama), de grillades ou de poisson (My Moroccan Food). Elle se mange avec du pain (Bladi.net ; Morocco World News ; Cooking With Alia ; Wikipédia) ; My Moroccan Food la met aussi en sandwich. Bladi.net et Morocco World News la préfèrent tiède.",
+   "t": "Тёплой или холодной (Choumicha; My Moroccan Food; Cooking With Alia; Wikipédia; у Lalla Moulati — горячей или холодной), как закуску вместе с другими марокканскими салатами (MarocMama; Wikipédia) или к таджину (MarocMama; Wikipédia fr), блюду из курицы (MarocMama), мясу на гриле или рыбе (My Moroccan Food). Её едят с хлебом (Bladi.net; Morocco World News; Cooking With Alia; Wikipédia); My Moroccan Food кладёт её и в сэндвичи. Bladi.net и Morocco World News предпочитают её тёплой."
+  },
+  "ing.0.group": {
+   "fr": "Légumes",
+   "t": "Овощи"
+  },
+  "ing.poivrons.name": {
+   "fr": "gros poivron vert",
+   "t": "крупный зелёный сладкий перец"
+  },
+  "ing.poivrons.pl": {
+   "fr": "gros poivrons verts",
+   "t": "крупных зелёных сладких перца"
+  },
+  "ing.poivrons.note": {
+   "fr": "à griller entier",
+   "t": "запечь целиком"
+  },
+  "ing.tomates.name": {
+   "fr": "grosse tomate bien mûre",
+   "t": "крупный очень спелый помидор"
+  },
+  "ing.tomates.pl": {
+   "fr": "grosses tomates bien mûres",
+   "t": "крупных очень спелых помидора"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser",
+   "t": "раздавить"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson et épices",
+   "t": "Приготовление и специи"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина (зиры)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "скорректировать по вкусу, попробовав"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "рубленой свежей кинзы и петрушки"
+  },
+  "ing.2.group": {
+   "fr": "Service",
+   "t": "Подача"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre ou persil haché",
+   "t": "рубленая кинза или петрушка"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour décorer",
+   "t": "для украшения"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "хлеб (хобз)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour accompagner",
+   "t": "к столу"
+  },
+  "equipment.0": {
+   "fr": "Gazinière (sinon, four en position gril et une plaque)",
+   "t": "Газовая плита (или духовка в режиме гриля и противень)"
+  },
+  "equipment.1": {
+   "fr": "Pince de cuisine, pour retourner les poivrons",
+   "t": "Кухонные щипцы, чтобы переворачивать перцы"
+  },
+  "equipment.2": {
+   "fr": "Sac en plastique propre (type sac de congélation)",
+   "t": "Чистый полиэтиленовый пакет (например, пакет для заморозки)"
+  },
+  "equipment.3": {
+   "fr": "Grande poêle profonde ou sauteuse, avec couvercle",
+   "t": "Большая глубокая сковорода или сотейник с крышкой"
+  },
+  "equipment.4": {
+   "fr": "Planche et couteau",
+   "t": "Доска и нож"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "steps.0.title": {
+   "fr": "Grille les poivrons",
+   "t": "Запеките перцы"
+  },
+  "steps.0.text": {
+   "fr": "Fais griller {{poivrons:full}} directement sur la flamme du gaz, à feu vif, en tournant souvent avec une pince, jusqu'à ce que la peau soit noire et craquelée de tous les côtés, et la chair molle. Sans gaz : mets-les sur une plaque, dans le four préchauffé à 200 °C en position gril, et tourne-les régulièrement.",
+   "t": "Запекайте {{poivrons:full}} прямо на пламени газовой конфорки, на сильном огне, часто переворачивая щипцами, пока кожица не почернеет и не потрескается со всех сторон, а мякоть не станет мягкой. Без газа: выложите их на противень и поставьте в духовку, разогретую до 200 °C в режиме гриля; регулярно переворачивайте их."
+  },
+  "steps.0.tip": {
+   "fr": "Sous le gril du four, surveille-les sans t'éloigner : ils peuvent prendre feu (MarocMama).",
+   "t": "Под грилем духовки не отходите и следите за ними: они могут загореться (MarocMama)."
+  },
+  "steps.1.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "Закройте их в пакете"
+  },
+  "steps.1.text": {
+   "fr": "Glisse les poivrons encore chauds dans un sac en plastique et ferme-le. Laisse-les 10 minutes : la vapeur décolle la peau.",
+   "t": "Положите ещё горячие перцы в полиэтиленовый пакет и закройте его. Оставьте на 10 минут: пар отделит кожицу."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poivrons dans le sac",
+   "t": "Перцы в пакете"
+  },
+  "steps.1.timer.done": {
+   "fr": "Les poivrons ont tiédi : tu peux les peler.",
+   "t": "Перцы немного остыли: можно снимать кожицу."
+  },
+  "steps.2.title": {
+   "fr": "Prépare les tomates",
+   "t": "Подготовьте помидоры"
+  },
+  "steps.2.text": {
+   "fr": "Pendant ce temps, pèle {{tomates:full}}. Coupe chaque tomate en deux, retire les graines et coupe la chair en petits morceaux.",
+   "t": "Тем временем очистите от кожицы {{tomates:full}}. Разрежьте каждый помидор пополам, удалите семена и нарежьте мякоть мелкими кусочками."
+  },
+  "steps.2.tip": {
+   "fr": "Pour peler les tomates facilement, fais une croix à la base et plonge-les 2 à 3 minutes dans l'eau bouillante (MarocMama). Plus rapide : coupe-les en deux, râpe la chair et jette la peau (Cooking With Alia).",
+   "t": "Чтобы легко снять кожицу с помидоров, сделайте у основания крестообразный надрез и опустите их в кипящую воду на 2–3 минуты (MarocMama). Быстрее: разрежьте их пополам, натрите мякоть на тёрке, а кожицу выбросьте (Cooking With Alia)."
+  },
+  "steps.3.title": {
+   "fr": "Prépare l'ail et les herbes",
+   "t": "Подготовьте чеснок и зелень"
+  },
+  "steps.3.text": {
+   "fr": "Pèle et écrase {{ail:full}}. Lave et hache finement la coriandre et le persil : il en faut {{herbes}}, plus un peu pour décorer.",
+   "t": "Очистите и раздавите {{ail:full}}. Промойте и мелко порубите кинзу и петрушку: их нужно {{herbes}} и ещё немного для украшения."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, нарубленная ножом на разделочной доске"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.4.title": {
+   "fr": "Fais fondre les tomates",
+   "t": "Протушите помидоры"
+  },
+  "steps.4.text": {
+   "fr": "Dans une grande poêle profonde, à feu moyen-doux, mets {{huile}} d'huile d'olive, les tomates et l'ail. Ajoute {{paprika}} de paprika, {{cumin}} de cumin, {{sel}} de sel, {{poivre}} de poivre et les herbes hachées. Couvre et laisse cuire 10 minutes, en remuant de temps en temps, jusqu'à ce que les tomates soient fondues.",
+   "t": "В большой глубокой сковороде на огне чуть слабее среднего соедините {{huile:full}}, помидоры и чеснок. Добавьте {{paprika:full}}, {{cumin:full}}, {{sel:full}}, {{poivre:full}} и рубленую зелень. Накройте крышкой и готовьте 10 минут, время от времени помешивая, пока помидоры не разварятся."
+  },
+  "steps.4.timer.label": {
+   "fr": "Tomates",
+   "t": "Помидоры"
+  },
+  "steps.4.timer.done": {
+   "fr": "Les tomates sont fondues ? Ajoute les poivrons.",
+   "t": "Помидоры разварились? Добавьте перцы."
+  },
+  "steps.5.title": {
+   "fr": "Pèle les poivrons",
+   "t": "Очистите перцы"
+  },
+  "steps.5.text": {
+   "fr": "Sors les poivrons du sac. Retire la peau brûlée avec les doigts, sans passer les poivrons sous l'eau : rince-toi plutôt les mains. Enlève la queue et les graines, puis coupe la chair en petits dés.",
+   "t": "Достаньте перцы из пакета. Снимите обгоревшую кожицу пальцами, не промывая перцы под водой: лучше ополаскивайте руки. Удалите плодоножку и семена, затем нарежьте мякоть мелкими кубиками."
+  },
+  "steps.5.tip": {
+   "fr": "Garde quelques lanières de poivron pour décorer le plat (Lalla Moulati).",
+   "t": "Оставьте несколько полосок перца, чтобы украсить блюдо (Lalla Moulati)."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute les poivrons et fais réduire",
+   "t": "Добавьте перцы и уварите"
+  },
+  "steps.6.text": {
+   "fr": "Découvre la poêle et ajoute les dés de poivron. Mélange et laisse mijoter 10 minutes à découvert, à feu doux, en remuant de temps en temps. C'est prêt quand l'eau des tomates s'est évaporée et que la taktouka est épaisse.",
+   "t": "Снимите крышку и добавьте кубики перца. Перемешайте и тушите 10 минут без крышки на слабом огне, время от времени помешивая. Тактука готова, когда жидкость от помидоров испарится, а сама тактука станет густой."
+  },
+  "steps.6.timer.label": {
+   "fr": "Taktouka",
+   "t": "Тактука"
+  },
+  "steps.6.timer.done": {
+   "fr": "Plus de jus au fond ? C'est prêt. Sinon, prolonge de quelques minutes en remuant.",
+   "t": "На дне больше нет сока? Готово. Если сок ещё есть, готовьте ещё несколько минут, помешивая."
+  },
+  "steps.7.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Попробуйте и доведите вкус"
+  },
+  "steps.7.text": {
+   "fr": "Goûte et rectifie le sel et les épices. Retire du feu.",
+   "t": "Попробуйте и скорректируйте соль и специи. Снимите с огня."
+  },
+  "steps.8.title": {
+   "fr": "Sers tiède ou froide",
+   "t": "Подавайте тёплой или холодной"
+  },
+  "steps.8.text": {
+   "fr": "Verse la taktouka dans un plat et parsème-la de {{herbes-service}}. Sers-la tiède ou froide, avec du {{khobz}}.",
+   "t": "Выложите тактуку на блюдо и посыпьте рубленой кинзой или петрушкой. Подавайте её тёплой или холодной, с хлебом (хобз)."
+  },
+  "secrets.0.text": {
+   "fr": "Grille les poivrons jusqu'à ce que la peau soit bien noire : c'est ce qui donne à la taktouka son goût fumé.",
+   "t": "Запекайте перцы, пока кожица как следует не почернеет: именно это придаёт тактуке дымный вкус."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking With Alia (n° 125) ; MarocMama ; My Moroccan Food",
+   "t": "Cooking With Alia (№ 125); MarocMama и My Moroccan Food"
+  },
+  "secrets.1.text": {
+   "fr": "Enferme les poivrons grillés encore chauds dans un sac fermé pendant 10 minutes : la peau s'enlève ensuite très facilement.",
+   "t": "Положите ещё горячие запечённые перцы в закрытый пакет на 10 минут: потом кожица снимается очень легко."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (salade de tomates et de poivrons : 10 minutes) ; Cooking With Alia (n° 396 : 10 minutes) ; Lalla Moulati ; MarocMama",
+   "t": "Choumicha (салат из помидоров и перцев: 10 минут); Cooking With Alia (№ 396: 10 минут); Lalla Moulati; MarocMama"
+  },
+  "secrets.2.text": {
+   "fr": "Ne passe pas les poivrons grillés sous l'eau : pèle-les à sec et rince-toi plutôt les mains.",
+   "t": "Не промывайте запечённые перцы под водой: очищайте их насухо, а ополаскивайте лучше руки."
+  },
+  "secrets.2.source": {
+   "fr": "Lalla Moulati (2014 et 2019) ; Choumicha",
+   "t": "Lalla Moulati (2014 и 2019); Choumicha"
+  },
+  "secrets.3.text": {
+   "fr": "Fais d'abord fondre les tomates avec l'ail et les épices, et ajoute seulement ensuite les poivrons. Lalla Moulati attend même que l'eau des tomates se soit évaporée.",
+   "t": "Сначала протушите помидоры с чесноком и специями до мягкости и только потом добавляйте перцы. Lalla Moulati даже ждёт, пока жидкость от помидоров испарится."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia (n° 125) ; Bladi.net ; Choumicha ; Lalla Moulati (2014)",
+   "t": "My Moroccan Food; Cooking With Alia (№ 125); Bladi.net; Choumicha и Lalla Moulati (2014)"
+  },
+  "secrets.4.text": {
+   "fr": "La taktouka est prête quand elle est épaisse et presque sèche, sans jus au fond de la poêle.",
+   "t": "Тактука готова, когда она густая и почти сухая, без сока на дне сковороды."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia (n° 125) ; My Moroccan Food ; Lalla Moulati (2014)",
+   "t": "Cooking With Alia (№ 125); My Moroccan Food и Lalla Moulati (2014)"
+  },
+  "secrets.5.text": {
+   "fr": "Sans gaz, grille les poivrons au four à 200 °C, en position gril, en les retournant régulièrement.",
+   "t": "Без газа запекайте перцы в духовке при 200 °C в режиме гриля, регулярно переворачивая их."
+  },
+  "secrets.5.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida) ; Cooking With Alia (n° 440 : 200 °C, sans préciser le gril) ; MarocMama (gril du four, en les retournant souvent)",
+   "t": "Rachida (Gâteau et cuisine Rachida); Cooking With Alia (№ 440: 200 °C, без уточнения про гриль); MarocMama (гриль духовки, перцы часто переворачивают)"
+  },
+  "secrets.6.text": {
+   "fr": "Tes tomates manquent de douceur ? My Moroccan Food ajoute une demi-cuillère à café de sucre, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
+   "t": "Помидоры недостаточно сладкие? My Moroccan Food добавляет половину чайной ложки сахара и обходится без него, когда помидоры хорошо сладкие, как в Марокко."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.7.text": {
+   "fr": "Pour une jolie assiette, dispose des lanières de poivron en cercle, mets la taktouka au centre et ajoute une olive noire.",
+   "t": "Для красивой подачи выложите полоски перца по кругу, тактуку — в центр и добавьте одну чёрную оливку."
+  },
+  "secrets.7.source": {
+   "fr": "Lalla Moulati (2019)",
+   "t": "Lalla Moulati (2019)"
+  },
+  "secrets.8.text": {
+   "fr": "Cooking With Alia décore aussi sa taktouka d'écorce de citron confit, rincée pour enlever un peu de sel.",
+   "t": "Cooking With Alia также украшает свою тактуку коркой солёного лимона, промытой, чтобы убрать часть соли."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia (n° 125)",
+   "t": "Cooking With Alia (№ 125)"
+  },
+  "secrets.9.text": {
+   "fr": "À la marocaine, on la mange en la prenant avec des morceaux de pain. Elle va aussi très bien à côté d'un tajine, de grillades ou de poisson, ou en sandwich.",
+   "t": "По-мароккански её едят, захватывая кусочками хлеба. Она также отлично подходит к таджину, мясу на гриле или рыбе, а ещё её кладут в сэндвич."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food ; MarocMama ; Wikipédia",
+   "t": "My Moroccan Food; MarocMama; Wikipédia"
+  },
+  "secrets.10.text": {
+   "fr": "Ne la confonds pas avec la chakchouka : la taktouka est une salade cuite, sans œufs. Ce sont deux plats différents.",
+   "t": "Не путайте её с шакшукой: тактука — это салат из приготовленных овощей, без яиц. Это два разных блюда."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Rachida",
+   "t": "My Moroccan Food; Rachida"
+  },
+  "secrets.11.text": {
+   "fr": "Elle peut se manger froide si elle a été mise au réfrigérateur dans les 2 heures après la cuisson. Garde-la dans une boîte couverte et mange-la dans les 48 heures.",
+   "t": "Её можно есть холодной, если её убрали в холодильник в течение 2 часов после приготовления. Храните её в закрытом контейнере и съешьте в течение 48 часов."
+  },
+  "secrets.11.source": {
+   "fr": "Food Standards Agency (Royaume-Uni) ; FDA (règle des 2 heures, boîte couverte)",
+   "t": "Food Standards Agency (Великобритания); FDA (правило 2 часов, закрытый контейнер)"
+  },
+  "mistakes.0": {
+   "fr": "Passer les poivrons grillés sous l'eau : pèle-les à sec ; après 10 minutes dans le sac, la peau s'enlève facilement sans eau (Lalla Moulati ; Choumicha).",
+   "t": "Промывать запечённые перцы под водой: очищайте их насухо; после 10 минут в пакете кожица легко снимается и без воды (Lalla Moulati; Choumicha)."
+  },
+  "mistakes.1": {
+   "fr": "Ajouter les poivrons dans une sauce encore pleine d'eau : laisse d'abord fondre et réduire les tomates (Lalla Moulati, 2014).",
+   "t": "Добавлять перцы в соус, в котором ещё много жидкости: сначала дайте помидорам развариться и увариться (Lalla Moulati, 2014)."
+  },
+  "mistakes.2": {
+   "fr": "Arrêter la cuisson trop tôt : la taktouka doit être épaisse, sans jus (Cooking With Alia ; My Moroccan Food).",
+   "t": "Заканчивать готовку слишком рано: тактука должна быть густой, без сока (Cooking With Alia; My Moroccan Food)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les poivrons sans surveillance sous le gril du four : ils peuvent prendre feu (MarocMama).",
+   "t": "Оставлять перцы под грилем духовки без присмотра: они могут загореться (MarocMama)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser la taktouka plus de 2 heures à température ambiante (Food Standards Agency ; FDA).",
+   "t": "Оставлять тактуку при комнатной температуре дольше 2 часов (Food Standards Agency; FDA)."
+  },
+  "variants.0": {
+   "fr": "Tektouka marqa de Choumicha : tomates pelées et épépinées en quartiers, huile d'olive et un peu d'huile de tournesol, ail, sel, à couvert à feu doux jusqu'à ce que les tomates rendent leur eau ; puis un poivron vert et un poivron rouge grillés, en lanières, et des épices pour chermoula, 8 à 10 minutes à couvert ; coriandre à la fin.",
+   "t": "Tektouka marqa от Choumicha: очищенные от кожицы и семян помидоры, нарезанные четвертинками, оливковое масло и немного подсолнечного, чеснок, соль — под крышкой на слабом огне, пока помидоры не пустят сок; затем по одному запечённому зелёному и красному перцу, нарезанных полосками, и специи для чермулы — от 8 до 10 минут под крышкой; кинза в конце."
+  },
+  "variants.1": {
+   "fr": "Poivrons de couleurs : un rouge et un vert (Lalla Moulati, 2014 ; Choumicha) ; Lalla Moulati (2019) accepte aussi le rouge et le jaune.",
+   "t": "Разноцветные перцы: один красный и один зелёный (Lalla Moulati, 2014; Choumicha); Lalla Moulati (2019) допускает также красный и жёлтый."
+  },
+  "variants.2": {
+   "fr": "En lanières plutôt qu'en dés (Choumicha ; Cooking With Alia, n° 440).",
+   "t": "Полосками, а не кубиками (Choumicha; Cooking With Alia, № 440)."
+  },
+  "variants.3": {
+   "fr": "Avec une cuillère à soupe de concentré de tomate dans la sauce (Cooking With Alia, n° 125).",
+   "t": "С одной столовой ложкой томатной пасты в соусе (Cooking With Alia, № 125)."
+  },
+  "variants.4": {
+   "fr": "Un peu de piquant : une pincée de piment de Cayenne (My Moroccan Food ; Cooking With Alia, n° 440).",
+   "t": "Немного остроты: щепотка кайенского перца (My Moroccan Food; Cooking With Alia, № 440)."
+  },
+  "variants.5": {
+   "fr": "Version de MarocMama, plus épicée : 1 c. à s. de paprika, 2 c. à c. de cumin et ¼ de c. à c. de curcuma ; l'ail revient 1 à 2 minutes dans l'huile avant les légumes, et les tomates sont écrasées à la fourchette pendant la cuisson.",
+   "t": "Вариант MarocMama, более пряный: 1 ст. л. паприки, 2 ч. л. кумина и ¼ ч. л. куркумы; чеснок обжаривают в масле от 1 до 2 минут перед овощами, а помидоры во время готовки разминают вилкой."
+  },
+  "variants.6": {
+   "fr": "Version de Morocco World News : 3 poivrons pour 2 tomates, 4 gousses d'ail ; les poivrons vont d'abord dans l'huile, puis le reste, 5 à 10 minutes ; servie tiède.",
+   "t": "Вариант Morocco World News: 3 перца на 2 помидора, 4 зубчика чеснока; сначала в масло отправляются перцы, затем всё остальное, от 5 до 10 минут; подают тёплой."
+  },
+  "variants.7": {
+   "fr": "Chlada medqouqa (Choumicha), une salade voisine : tomates, poivrons et un piment grillés, pelés, épépinés et pilés en purée avec du sel et de l'huile d'olive, servie froide.",
+   "t": "Chlada medqouqa (Choumicha) — похожий салат: запечённые помидоры, сладкие перцы и один острый перец, очищенные от кожицы и семян и растолчённые в пюре с солью и оливковым маслом; подают холодным."
+  },
+  "variants.8": {
+   "fr": "Selon Wikipédia (fr), certaines familles ajoutent des oignons et des œufs : on se rapproche alors de la chakchouka (selon Rachida, la chakchouka ressemble beaucoup à la taktouka, qui est sans œufs).",
+   "t": "По данным Wikipédia (fr), некоторые семьи добавляют лук и яйца — тогда блюдо приближается к шакшуке (по словам Rachida, шакшука очень похожа на тактуку, в которой нет яиц)."
+  },
+  "ing.poivrons.pl5": {
+   "fr": "gros poivron vert / gros poivrons verts",
+   "t": "крупных зелёных сладких перцев"
+  },
+  "ing.tomates.pl5": {
+   "fr": "grosse tomate bien mûre / grosses tomates bien mûres",
+   "t": "крупных очень спелых помидоров"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  }
+ }
+}

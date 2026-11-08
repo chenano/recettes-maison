@@ -46,10 +46,6 @@
    "fr": "œufs",
    "t": "яйца"
   },
-  "ing.oeufs.pl5": {
-   "fr": "œuf / œufs",
-   "t": "яиц"
-  },
   "ing.oignons-verts.name": {
    "fr": "oignon vert (cébette)",
    "t": "стебель зелёного лука"
@@ -57,10 +53,6 @@
   "ing.oignons-verts.pl": {
    "fr": "oignons verts (cébettes)",
    "t": "стебля зелёного лука"
-  },
-  "ing.oignons-verts.pl5": {
-   "fr": "oignon vert (cébette) / oignons verts (cébettes)",
-   "t": "стеблей зелёного лука"
   },
   "ing.oignons-verts.note": {
    "fr": "le blanc et le vert",
@@ -184,7 +176,7 @@
   },
   "steps.9.title": {
    "fr": "Laisse croustiller et sers",
-   "t": "Дайте рису подхрустеть и подавайте"
+   "t": "Дайте рису стать хрустящим и подавайте"
   },
   "steps.9.text": {
    "fr": "Coupe le feu et laisse le riz une minute dans la poêle chaude pour qu'il croustille encore. Sers tout de suite, bien chaud.",
@@ -240,7 +232,7 @@
   },
   "secrets.6.text": {
    "fr": "Le 蛋炒饭 de maison n'a que du sel : le riz et l'œuf gardent le premier rôle.",
-   "t": "В домашнем 蛋炒饭 нет ничего, кроме соли: главная роль остаётся за рисом и яйцом."
+   "t": "Домашний 蛋炒饭 приправляют только солью: главная роль остаётся за рисом и яйцом."
   },
   "secrets.6.source": {
    "fr": "Omnivore's Cookbook (« seasoned with nothing but salt ») ; 下厨房 ; 美食天下 (deux recettes) ; 香港01",
@@ -348,7 +340,7 @@
   },
   "variants.5": {
    "fr": "Un filet d'huile de sésame grillé, hors du feu, si tu as cuit à l'huile neutre (Omnivore's Cookbook ; 美食天下, 双鱼座的美食, qui finit au 香油).",
-   "t": "Немного масла из обжаренного кунжута, сняв с огня, если вы жарили на растительном масле (Omnivore's Cookbook; 美食天下, 双鱼座的美食, где блюдо завершают 香油)."
+   "t": "Немного масла из обжаренного кунжута — добавьте его, сняв сковороду с огня, если вы жарили на растительном масле (Omnivore's Cookbook; 美食天下, 双鱼座的美食, где блюдо завершают 香油)."
   },
   "variants.6": {
    "fr": "Une pincée de bouillon de poule en poudre pour plus de goût (Omnivore's Cookbook) : seulement s'il est certifié halal.",
@@ -361,6 +353,14 @@
   "variants.8": {
    "fr": "Riz de Yangzhou (扬州炒饭), la version riche : la norme de l'association culinaire de Yangzhou y ajoute concombre de mer, poulet, coquilles Saint-Jacques séchées, crevettes, champignons, pousses de bambou et petits pois, mais aussi du jambon et du vin de Shaoxing (绍酒) : pas halal tel quel (中国新闻网, d'après le Ta Kung Pao, 2013).",
    "t": "Рис по-янчжоуски (扬州炒饭), богатая версия: стандарт кулинарной ассоциации Янчжоу добавляет трепанга, курицу, сушёные морские гребешки, креветки, грибы, побеги бамбука и зелёный горошек, а также ветчину и шаосинское вино (绍酒): в таком виде это не халяль (中国新闻网, по данным Ta Kung Pao, 2013)."
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.oignons-verts.pl5": {
+   "fr": "oignon vert (cébette) / oignons verts (cébettes)",
+   "t": "стеблей зелёного лука"
   }
  }
 }

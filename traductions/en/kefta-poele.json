@@ -136,7 +136,7 @@
   },
   "equipment.4": {
    "fr": "Une assiette pour la kefta crue, et une autre, propre, pour la kefta cuite",
-   "t": "A plate for the raw kefta, and another, clean one for the cooked kefta"
+   "t": "A plate for the raw kefta, and a separate clean one for the cooked kefta"
   },
   "equipment.5": {
    "fr": "Une spatule",
@@ -152,7 +152,7 @@
   },
   "steps.0.text": {
    "fr": "Épluche {{oignon:full}}, puis râpe l'oignon dans un bol. Prends la pulpe dans ta main et presse-la au-dessus de l'évier pour enlever le jus.",
-   "t": "Peel {{oignon:full}}, then grate it into a bowl. Take the pulp in your hand and squeeze it over the sink to remove the juice."
+   "t": "Peel and grate {{oignon:full}} into a bowl. Take the pulp in your hand and squeeze it over the sink to remove the juice."
   },
   "steps.1.title": {
    "fr": "Lave et hache les herbes",
@@ -400,14 +400,14 @@
   },
   "variants.3": {
    "fr": "Avec une pointe de cannelle et de la marjolaine (Choumicha, n° 771 et n° 943 ; cannelle aussi chez Taste of Maroc, en option, et chez Lalla Moulati en 2014 ; marjolaine séchée aussi chez Nada Kiffa, Taste of Maroc).",
-   "t": "With a hint of cinnamon and some marjoram (Choumicha, no. 771 and no. 943; cinnamon also in Taste of Maroc, as an option, and in Lalla Moulati in 2014; dried marjoram also from Nada Kiffa, Taste of Maroc)."
+   "t": "With a hint of cinnamon and some marjoram (Choumicha, no. 771 and no. 943; cinnamon also in Taste of Maroc, as an option, and in Lalla Moulati (2014); dried marjoram also from Nada Kiffa, Taste of Maroc)."
   },
   "variants.4": {
    "fr": "Avec de l'ail (Choumicha n° 943 ; Bladi.net).",
    "t": "With garlic (Choumicha no. 943; Bladi.net)."
   },
   "variants.5": {
-   "fr": "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+   "fr": "Version de Bladi.net : agneau, ail, ras el hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
    "t": "Bladi.net's version: lamb, garlic, ras el hanout and an egg, shaped into balls on skewers, under the oven grill, 6 minutes per side."
   },
   "variants.6": {

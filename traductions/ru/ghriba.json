@@ -1,0 +1,478 @@
+{
+ "_slug": "ghriba",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Ghriba aux amandes, craquelée au sucre glace",
+   "t": "Миндальная гриба в сахарной пудре"
+  },
+  "darija": {
+   "fr": "ghrieba d'ellouz ; on dit aussi mlewza ou mlouza",
+   "t": "гриеба д'эллуз; говорят также млевза или млуза"
+  },
+  "tagline": {
+   "fr": "Des boules de pâte d'amandes roulées dans le sucre glace : elles craquellent au four, restent moelleuses dedans et accompagnent le thé des jours de fête.",
+   "t": "Шарики из миндальной массы, обвалянные в сахарной пудре: в духовке они покрываются трещинками, внутри остаются мягкими и подаются к чаю в праздничные дни."
+  },
+  "region": {
+   "fr": "Maroc ; Wikipédia (fr) cite la mlouwza (ou mlawza), ghriba aux amandes, parmi les ghriba marocaines",
+   "t": "Марокко; Wikipédia (fr) называет млувзу (или млавзу), миндальную грибу, среди марокканских гриб"
+  },
+  "occasion": {
+   "fr": "Aïd al-Fitr, mariages et fêtes, thé pour les invités",
+   "t": "Ураза-байрам, свадьбы и праздники, чай для гостей"
+  },
+  "img_alt": {
+   "fr": "Ghriba aux amandes craquelée et poudrée de sucre glace",
+   "t": "Миндальная гриба с трещинками, обсыпанная сахарной пудрой"
+  },
+  "serving": {
+   "fr": "Avec un thé à la menthe (Cooking with Alia ; Wikipédia fr : thé à la menthe ou café), surtout pour l'Aïd, les fêtes et les invités (Choumicha ; Lalla Moulati ; Taste of Maroc, qui la voit à chaque mariage). Conservation, selon Taste of Maroc (seule source lue sur ce point) : deux bonnes semaines dans une boîte hermétique, avec du papier entre les couches ; plusieurs mois au congélateur, bien fermée ; 15 minutes à température ambiante avant de servir.",
+   "t": "С мятным чаем (Cooking with Alia; Wikipédia fr: с мятным чаем или кофе), особенно на байрам, в праздники и для гостей (Choumicha; Lalla Moulati; Taste of Maroc, где её видят на каждой свадьбе). Хранение, по Taste of Maroc (единственный источник, прочитанный по этому вопросу): добрых две недели в герметичной коробке, с бумагой между слоями; несколько месяцев в морозильнике, в плотно закрытой посуде; перед подачей — 15 минут при комнатной температуре."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (blanchies et pelées), bien sèches",
+   "t": "очищенного миндаля (бланшированного и без кожицы), хорошо высушенного"
+  },
+  "ing.amandes.note": {
+   "fr": "entières : pas de poudre d'amandes toute prête",
+   "t": "целый миндаль, а не готовая миндальная мука"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule",
+   "t": "сахара"
+  },
+  "ing.mastic.name": {
+   "fr": "de mastic en grains (meska)",
+   "t": "мастики в зёрнах (меска)"
+  },
+  "ing.mastic.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.jaunes.name": {
+   "fr": "jaune d'œuf",
+   "t": "желток"
+  },
+  "ing.jaunes.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "желтка"
+  },
+  "ing.jaunes.note": {
+   "fr": "œufs moyens ; garde les blancs pour une autre recette",
+   "t": "от яиц среднего размера; белки оставьте для другого рецепта"
+  },
+  "ing.oeuf.name": {
+   "fr": "œuf entier moyen",
+   "t": "яйцо среднего размера (целиком)"
+  },
+  "ing.oeuf.pl": {
+   "fr": "œufs entiers moyens",
+   "t": "яйца среднего размера (целиком)"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.note": {
+   "fr": "pour son zeste râpé",
+   "t": "ради тёртой цедры"
+  },
+  "ing.levure.name": {
+   "fr": "de levure chimique",
+   "t": "разрыхлителя"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre fondu et refroidi",
+   "t": "растопленного и остывшего сливочного масла"
+  },
+  "ing.1.group": {
+   "fr": "Pour façonner",
+   "t": "Для формовки"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "Sucre glace, pour enrober",
+   "t": "Сахарная пудра, для обваливания"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "Eau de fleur d'oranger (ou eau), pour les mains",
+   "t": "Вода из цветков апельсина (или вода), для рук"
+  },
+  "equipment.0": {
+   "fr": "Un four et deux plaques de four",
+   "t": "Духовка и два противня"
+  },
+  "equipment.1": {
+   "fr": "Du papier cuisson",
+   "t": "Пергамент для выпечки"
+  },
+  "equipment.2": {
+   "fr": "Un robot mixeur puissant (ou un moulin à amandes)",
+   "t": "Мощный кухонный комбайн (или мельница для миндаля)"
+  },
+  "equipment.3": {
+   "fr": "Un saladier et un bol",
+   "t": "Большая миска и маленькая миска"
+  },
+  "equipment.4": {
+   "fr": "Une fourchette ou un petit fouet",
+   "t": "Вилка или маленький венчик"
+  },
+  "equipment.5": {
+   "fr": "Une râpe fine",
+   "t": "Мелкая тёрка"
+  },
+  "equipment.6": {
+   "fr": "Un mortier et un pilon (ou le dos d'un verre), pour le mastic",
+   "t": "Ступка с пестиком (или донышко стакана) для мастики"
+  },
+  "equipment.7": {
+   "fr": "Une assiette creuse pour le sucre glace",
+   "t": "Глубокая тарелка для сахарной пудры"
+  },
+  "equipment.8": {
+   "fr": "Un petit bol d'eau de fleur d'oranger (ou d'eau) pour les mains",
+   "t": "Маленькая миска с водой из цветков апельсина (или с водой) для рук"
+  },
+  "equipment.9": {
+   "fr": "Une casserole et un torchon propre, si les amandes ne sont pas mondées",
+   "t": "Кастрюля и чистое кухонное полотенце, если миндаль не очищен"
+  },
+  "equipment.10": {
+   "fr": "Une boîte hermétique",
+   "t": "Герметичная коробка"
+  },
+  "steps.0.title": {
+   "fr": "Monder les amandes, si besoin",
+   "t": "Очистите миндаль, если нужно"
+  },
+  "steps.0.text": {
+   "fr": "Si tes amandes ont encore leur peau, plonge-les 1 à 2 minutes dans de l'eau bouillante. Égoutte-les, puis pèle-les en les pinçant entre tes doigts. Sèche-les très bien dans un torchon propre.",
+   "t": "Если миндаль ещё в кожице, опустите его на 1–2 минуты в кипящую воду. Откиньте, затем снимите кожицу, сжимая каждый орех пальцами. Очень хорошо обсушите миндаль в чистом кухонном полотенце."
+  },
+  "steps.0.tip": {
+   "fr": "Pour beaucoup d'amandes, frotte-les fort dans un torchon pour enlever la peau (Cooking with Alia). Elles doivent être bien sèches avant d'être moulues (Taste of Maroc).",
+   "t": "Если миндаля много, сильно потрите его в полотенце, чтобы снять кожицу (Cooking with Alia). Перед помолом миндаль должен быть хорошо высушен (Taste of Maroc)."
+  },
+  "steps.1.title": {
+   "fr": "Préparer le four et les plaques",
+   "t": "Подготовьте духовку и противни"
+  },
+  "steps.1.text": {
+   "fr": "Préchauffe le four à 180 °C. Couvre deux plaques de papier cuisson. Verse du sucre glace dans une assiette creuse.",
+   "t": "Разогрейте духовку до 180 °C. Застелите два противня пергаментом. Насыпьте сахарную пудру в глубокую тарелку."
+  },
+  "steps.2.title": {
+   "fr": "Piler le mastic",
+   "t": "Разотрите мастику"
+  },
+  "steps.2.text": {
+   "fr": "Si tu en mets, pile {{mastic}} de mastic avec une petite cuillerée du sucre semoule, au mortier ou avec le dos d'un verre, jusqu'à obtenir une poudre.",
+   "t": "Если используете мастику, разотрите её ({{mastic}}) с маленькой ложкой сахара в ступке или донышком стакана до состояния порошка."
+  },
+  "steps.2.tip": {
+   "fr": "Le sucre empêche le mastic de coller (Taste of Maroc).",
+   "t": "Сахар не даёт мастике прилипать (Taste of Maroc)."
+  },
+  "steps.3.title": {
+   "fr": "Moudre les amandes avec le sucre",
+   "t": "Измельчите миндаль с сахаром"
+  },
+  "steps.3.text": {
+   "fr": "Mixe {{amandes}} d'amandes avec le reste des {{sucre}} de sucre semoule, {{sel}} de sel et le mastic pilé, jusqu'à obtenir une pâte d'amandes lisse, ou presque.",
+   "t": "Положите в комбайн {{amandes}} миндаля, оставшийся сахар (всего {{sucre}}), соль ({{sel}}) и растёртую мастику. Измельчите до гладкой или почти гладкой миндальной массы."
+  },
+  "steps.3.tip": {
+   "fr": "Lalla Moulati moud deux fois les amandes avec le sucre.",
+   "t": "Lalla Moulati измельчает миндаль с сахаром дважды."
+  },
+  "steps.4.title": {
+   "fr": "Préparer le mélange aux œufs",
+   "t": "Приготовьте яичную смесь"
+  },
+  "steps.4.text": {
+   "fr": "Dans un bol, bats légèrement {{jaunes:full}} et {{oeuf:full}}. Râpe au-dessus le zeste de {{citron:full}}. Ajoute {{levure}} de levure chimique et {{beurre}} de beurre fondu, puis mélange.",
+   "t": "В маленькой миске слегка взбейте {{jaunes:full}} и {{oeuf:full}}. Натрите сверху цедру лимона ({{citron}} шт.). Добавьте {{levure:full}} и {{beurre:full}}, затем перемешайте."
+  },
+  "steps.5.title": {
+   "fr": "Former la pâte",
+   "t": "Замесите тесто"
+  },
+  "steps.5.text": {
+   "fr": "Verse ce mélange sur la pâte d'amandes. Mélange à la main, juste assez pour obtenir une pâte homogène et souple, sans grumeaux, qui tient en boule. Ne la travaille pas trop.",
+   "t": "Вылейте эту смесь на миндальную массу. Перемешайте руками — ровно столько, чтобы получилось однородное мягкое тесто без комочков, которое держит форму шара. Не вымешивайте его слишком долго."
+  },
+  "steps.5.tip": {
+   "fr": "Taste of Maroc cuit d'abord quelques ghriba d'essai, puis ajuste la pâte si besoin avant de façonner les autres.",
+   "t": "Taste of Maroc сначала выпекает несколько пробных гриб, а затем при необходимости поправляет тесто, прежде чем формовать остальные."
+  },
+  "steps.6.title": {
+   "fr": "Façonner les boules",
+   "t": "Сформуйте шарики"
+  },
+  "steps.6.text": {
+   "fr": "Mouille-toi légèrement les mains avec de la fleur d'oranger ou de l'eau. Forme des boules lisses de la taille d'une noix, d'environ 3 cm.",
+   "t": "Слегка смочите руки водой из цветков апельсина или обычной водой. Скатайте гладкие шарики размером с грецкий орех, около 3 см."
+  },
+  "steps.6.tip": {
+   "fr": "Si la pâte colle, rince-toi les mains et garde-les juste humides (Taste of Maroc).",
+   "t": "Если тесто липнет, сполосните руки и держите их лишь слегка влажными (Taste of Maroc)."
+  },
+  "steps.7.title": {
+   "fr": "Rouler dans le sucre glace",
+   "t": "Обваляйте в сахарной пудре"
+  },
+  "steps.7.text": {
+   "fr": "Roule chaque boule dans le sucre glace, pour bien couvrir le dessus et les côtés.",
+   "t": "Обваляйте каждый шарик в сахарной пудре, чтобы она хорошо покрыла верх и бока."
+  },
+  "steps.8.title": {
+   "fr": "Disposer sur les plaques",
+   "t": "Разложите на противни"
+  },
+  "steps.8.text": {
+   "fr": "Pose les boules sur les plaques, en laissant au moins 8 cm entre elles. Appuie un peu au centre avec le pouce, sans trop les aplatir.",
+   "t": "Разложите шарики на противни, оставляя между ними не меньше 8 см. Слегка надавите большим пальцем в центр, не расплющивая их слишком сильно."
+  },
+  "steps.9.title": {
+   "fr": "Cuire une plaque 12 minutes",
+   "t": "Выпекайте один противень 12 минут"
+  },
+  "steps.9.text": {
+   "fr": "Enfourne une plaque au milieu du four, à 180 °C, pendant 12 minutes. Les ghriba sont prêtes quand le dessus est craquelé et reste clair. Si besoin, laisse-les encore 2 ou 3 minutes. Cuis ensuite la deuxième plaque de la même façon.",
+   "t": "Поставьте один противень в середину духовки и выпекайте при 180 °C 12 минут. Гриба готова, когда верх покрылся трещинками и остался светлым. Если нужно, оставьте ещё на 2 или 3 минуты. Затем так же выпеките второй противень."
+  },
+  "steps.9.tip": {
+   "fr": "Dans un four classique sans chaleur tournante, Taste of Maroc commence en haut du four, gril allumé, environ 5 minutes, jusqu'à ce que le dessus craquelle, puis descend la plaque pour finir : 15 à 18 minutes en tout. Lalla Moulati cuit aussi d'abord par le haut, puis par le bas.",
+   "t": "В обычной духовке без конвекции Taste of Maroc начинает в верхней части духовки с включённым грилем, около 5 минут, пока верх не потрескается, затем переставляет противень ниже, чтобы допечь: всего 15–18 минут. Lalla Moulati тоже сначала печёт сверху, потом снизу."
+  },
+  "steps.9.timer.label": {
+   "fr": "Cuisson des ghriba",
+   "t": "Выпечка грибы"
+  },
+  "steps.9.timer.done": {
+   "fr": "Le dessus est craquelé et encore clair ? Sors la plaque. Sinon, laisse-la encore 2 ou 3 minutes.",
+   "t": "Верх потрескался и ещё светлый? Достаньте противень. Если нет, оставьте ещё на 2 или 3 минуты."
+  },
+  "steps.10.title": {
+   "fr": "Laisser refroidir sur la plaque",
+   "t": "Остудите на противне"
+  },
+  "steps.10.text": {
+   "fr": "Laisse refroidir complètement les ghriba sur la plaque avant de les décoller. Chaudes, elles sont encore molles ; elles se raffermissent en refroidissant et restent moelleuses dedans.",
+   "t": "Дайте грибе полностью остыть на противне, прежде чем снимать её. Горячая, она ещё мягкая; остывая, она становится твёрже, а внутри остаётся мягкой."
+  },
+  "steps.11.title": {
+   "fr": "Ranger et servir",
+   "t": "Уберите на хранение и подавайте"
+  },
+  "steps.11.text": {
+   "fr": "Range-les dans une boîte hermétique, avec une feuille de papier cuisson entre chaque couche pour ne pas abîmer le sucre glace. Sers-les avec un thé à la menthe.",
+   "t": "Сложите грибу в герметичную коробку, перекладывая каждый слой листом пергамента, чтобы не повредить сахарную пудру. Подавайте с мятным чаем."
+  },
+  "secrets.0.text": {
+   "fr": "Mouds toi-même des amandes mondées entières et bien sèches, avec le sucre. Taste of Maroc déconseille la poudre d'amandes toute prête.",
+   "t": "Мелите сами целый очищенный и хорошо высушенный миндаль вместе с сахаром. Taste of Maroc не советует брать готовую миндальную муку."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha et Lalla Moulati moulent aussi les amandes avec le sucre",
+   "t": "Taste of Maroc; Choumicha и Lalla Moulati тоже мелют миндаль с сахаром"
+  },
+  "secrets.1.text": {
+   "fr": "Le mastic (meska) est l'ingrédient secret qui donne à cette ghriba son goût délicat. Pile-le avec un peu de sucre.",
+   "t": "Мастика (меска) — секретный ингредиент, который придаёт этой грибе тонкий вкус. Растирайте её с небольшим количеством сахара."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi.net et Lalla Moulati en mettent une pincée",
+   "t": "Taste of Maroc (Nada Kiffa); Bladi.net и Lalla Moulati кладут щепотку"
+  },
+  "secrets.2.text": {
+   "fr": "Prends des œufs moyens : leur taille change la pâte. Mets juste ce qu'il faut d'œufs pour lier la pâte.",
+   "t": "Берите яйца среднего размера: от их размера зависит тесто. Добавляйте ровно столько яиц, сколько нужно, чтобы связать тесто."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (n° 65048 : 2 œufs au lieu de 3 s'ils sont gros)",
+   "t": "Taste of Maroc; Lalla Moulati (№ 65048: 2 яйца вместо 3, если они крупные)"
+  },
+  "secrets.3.text": {
+   "fr": "Mélange juste assez : ne travaille pas trop la pâte.",
+   "t": "Перемешивайте ровно столько, сколько нужно: не вымешивайте тесто слишком долго."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.4.text": {
+   "fr": "Mouille-toi les mains pour façonner, avec de la fleur d'oranger ou de l'eau : la pâte colle moins.",
+   "t": "Смачивайте руки при формовке водой из цветков апельсина или обычной водой: тесто меньше липнет."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati ; Cooking with Alia ; Taste of Maroc (à l'eau)",
+   "t": "Lalla Moulati; Cooking with Alia; Taste of Maroc (водой)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais des boules lisses de la taille d'une noix, environ 3 cm.",
+   "t": "Скатывайте гладкие шарики размером с грецкий орех, около 3 см."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati ; Cooking with Alia",
+   "t": "Taste of Maroc, Lalla Moulati и Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Roule-les bien dans le sucre glace, sur le dessus et sur les côtés.",
+   "t": "Хорошо обваляйте их в сахарной пудре — сверху и с боков."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; toutes les recettes lues roulent la ghriba dans le sucre glace",
+   "t": "Taste of Maroc; во всех прочитанных рецептах грибу обваливают в сахарной пудре"
+  },
+  "secrets.7.text": {
+   "fr": "Espace bien les boules sur la plaque, d'au moins 8 cm.",
+   "t": "Раскладывайте шарики на противне с хорошим промежутком — не меньше 8 см."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (3 pouces) ; Choumicha les espace aussi",
+   "t": "Taste of Maroc (3 дюйма); Choumicha тоже оставляет между ними промежутки"
+  },
+  "secrets.8.text": {
+   "fr": "Appuie légèrement au centre avec le pouce, sans trop aplatir.",
+   "t": "Слегка надавите большим пальцем в центр, не расплющивая слишком сильно."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc, Cooking with Alia и Lalla Moulati"
+  },
+  "secrets.9.text": {
+   "fr": "Ne les cuis pas trop : le sucre glace ne doit presque pas colorer. Chaudes, elles sont molles ; elles se raffermissent en refroidissant.",
+   "t": "Не передерживайте её в духовке: сахарная пудра почти не должна темнеть. Горячая гриба мягкая; остывая, она становится твёрже."
+  },
+  "secrets.9.source": {
+   "fr": "Lalla Moulati ; Cooking with Alia",
+   "t": "Lalla Moulati; Cooking with Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Laisse-les refroidir complètement sur la plaque avant de les décoller.",
+   "t": "Дайте ей полностью остыть на противне, прежде чем снимать."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha (trois recettes) ; Lalla Moulati",
+   "t": "Choumicha (три рецепта); Lalla Moulati"
+  },
+  "secrets.11.text": {
+   "fr": "Cuis d'abord quelques ghriba d'essai, et ajuste la pâte si les craquelures ne te plaisent pas.",
+   "t": "Сначала испеките несколько пробных гриб и поправьте тесто, если трещинки вам не нравятся."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.12.text": {
+   "fr": "Range-les avec une feuille de papier entre les couches, pour garder le sucre glace intact.",
+   "t": "Храните их, перекладывая слои листом бумаги, чтобы сахарная пудра осталась нетронутой."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.13.text": {
+   "fr": "Les blancs d'œufs qui restent peuvent servir : Bladi.net et Lalla Moulati trempent les boules dans le blanc d'œuf avant de les rouler dans le sucre glace.",
+   "t": "Оставшиеся белки можно использовать: Bladi.net и Lalla Moulati обмакивают шарики в яичный белок, прежде чем обвалять их в сахарной пудре."
+  },
+  "secrets.13.source": {
+   "fr": "Bladi.net ; Lalla Moulati (n° 61802)",
+   "t": "Bladi.net; Lalla Moulati (№ 61802)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre de la poudre d'amandes du commerce au lieu d'amandes entières moulues (Taste of Maroc).",
+   "t": "Брать покупную миндальную муку вместо молотого целого миндаля (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Moudre des amandes encore humides après les avoir mondées : sèche-les bien (Taste of Maroc ; Lalla Moulati ; Cooking with Alia).",
+   "t": "Молоть миндаль, который после очистки ещё влажный: хорошо обсушите его (Taste of Maroc; Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Trop travailler la pâte (Taste of Maroc).",
+   "t": "Слишком долго вымешивать тесто (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Serrer les boules sur la plaque : espace-les (Taste of Maroc ; Choumicha).",
+   "t": "Класть шарики на противень слишком тесно: оставляйте между ними место (Taste of Maroc; Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Trop cuire les ghriba : le sucre ne doit presque pas colorer (Lalla Moulati ; Cooking with Alia).",
+   "t": "Передерживать грибу в духовке: сахар почти не должен темнеть (Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Les décoller de la plaque encore chaudes, quand elles sont molles (Choumicha ; Lalla Moulati ; Cooking with Alia).",
+   "t": "Снимать её с противня ещё горячей, пока она мягкая (Choumicha; Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.6": {
+   "fr": "Empiler les ghriba sans papier entre les couches : le sucre glace s'abîme (Taste of Maroc).",
+   "t": "Складывать грибу стопкой без бумаги между слоями: сахарная пудра портится (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Ajouter de l'extrait d'amande alcoolisé : Taste of Maroc le propose en option ; la recette s'en passe, pour rester halal.",
+   "t": "Добавлять миндальный экстракт на спирту: Taste of Maroc предлагает его как вариант; в этом рецепте его нет, чтобы он оставался халяль."
+  },
+  "variants.0": {
+   "fr": "Mlewza de Taste of Maroc (Nada Kiffa) : 500 g d'amandes, 200 g de sucre semoule, 1 œuf et 1 jaune, 2 c. à s. de beurre, 2 c. à s. de confiture d'abricots filtrée pour le moelleux, 3 ou 4 grains de mastic, ½ c. à c. de levure chimique, 1½ c. à c. de zeste de citron, une pincée de sel ; environ 40 pièces.",
+   "t": "Млевза от Taste of Maroc (Nada Kiffa): 500 г миндаля, 200 г сахара, 1 яйцо и 1 желток, 2 ст. л. сливочного масла, 2 ст. л. процеженного абрикосового джема для мягкости, 3 или 4 зёрнышка мастики, ½ ч. л. разрыхлителя, 1½ ч. л. лимонной цедры, щепотка соли; около 40 штук."
+  },
+  "variants.1": {
+   "fr": "Avec de la farine (Choumicha) : 250 g d'amandes mondées moulues avec 125 g de sucre semoule, le zeste de 1 citron, 1 c. à s. de beurre, 2 œufs, 190 g de farine, 7 g de levure chimique, ½ c. à c. de sel ; boules roulées dans le sucre glace ; 180 °C, 12 à 15 minutes.",
+   "t": "С мукой (Choumicha): 250 г очищенного миндаля, смолотого со 125 г сахара, цедра 1 лимона, 1 ст. л. сливочного масла, 2 яйца, 190 г муки, 7 г разрыхлителя, ½ ч. л. соли; шарики обваливают в сахарной пудре; 180 °C, 12–15 минут."
+  },
+  "variants.2": {
+   "fr": "Amandes et noix (Choumicha) : 250 g de noix grillées 5 minutes et pelées, 250 g d'amandes, 250 g de sucre semoule, 30 g de beurre fondu, 1 c. à c. de levure chimique, 1 grand œuf, 1 c. à s. de fleur d'oranger, 1 c. à c. de zeste, 2 pincées de sel ; 180 °C, 12 minutes.",
+   "t": "С миндалём и грецкими орехами (Choumicha): 250 г грецких орехов, обжаренных 5 минут и очищенных от кожицы, 250 г миндаля, 250 г сахара, 30 г растопленного сливочного масла, 1 ч. л. разрыхлителя, 1 крупное яйцо, 1 ст. л. воды из цветков апельсина, 1 ч. л. цедры, 2 щепотки соли; 180 °C, 12 минут."
+  },
+  "variants.3": {
+   "fr": "Amandes et noix de coco (Choumicha) : 500 g d'amandes entières, 250 g de noix de coco, 180 g de sucre, 4 œufs, 12 cl d'huile, 14 g de levure chimique, 1½ c. à s. de confiture d'abricots, ½ c. à c. de sel ; mains à la fleur d'oranger ; 180 °C, 12 à 15 minutes.",
+   "t": "С миндалём и кокосом (Choumicha): 500 г целого миндаля, 250 г кокосовой стружки, 180 г сахара, 4 яйца, 12 сл масла, 14 г разрыхлителя, 1½ ст. л. абрикосового джема, ½ ч. л. соли; руки смачивают водой из цветков апельсина; 180 °C, 12–15 минут."
+  },
+  "variants.4": {
+   "fr": "À la semoule (Bladi.net) : 1 kg d'amandes mondées hachées, 200 g de semoule fine, 7 œufs, 250 g de sucre semoule, 1 sachet de levure, le zeste de 1 citron ; boules légèrement aplaties sur le sucre glace ; four moyen, 20 à 25 minutes.",
+   "t": "С семолиной (Bladi.net): 1 кг рубленого очищенного миндаля, 200 г мелкой семолины, 7 яиц, 250 г сахара, 1 пакетик разрыхлителя, цедра 1 лимона; шарики слегка приплющивают на сахарной пудре; духовка средней температуры, 20–25 минут."
+  },
+  "variants.5": {
+   "fr": "Au blanc d'œuf (Bladi.net ; Lalla Moulati n° 61802) : les boules sont trempées dans le blanc d'œuf, puis roulées dans le sucre glace.",
+   "t": "С яичным белком (Bladi.net; Lalla Moulati № 61802): шарики обмакивают в яичный белок, затем обваливают в сахарной пудре."
+  },
+  "variants.6": {
+   "fr": "Au four doux : 160 °C pendant 25 à 30 minutes (Lalla Moulati n° 61802), ou four doux environ 30 minutes, sans laisser le sucre colorer (Lalla Moulati n° 209123).",
+   "t": "В нежаркой духовке: 160 °C 25–30 минут (Lalla Moulati № 61802) или около 30 минут в нежаркой духовке, не давая сахару потемнеть (Lalla Moulati № 209123)."
+  },
+  "variants.7": {
+   "fr": "Au glucose et à la fleur d'oranger (Lalla Moulati n° 111678) : 1 c. à s. de glucose et 1 c. à s. de fleur d'oranger dans la pâte ; 160 °C, 10 minutes.",
+   "t": "С глюкозой и водой из цветков апельсина (Lalla Moulati № 111678): 1 ст. л. глюкозы и 1 ст. л. воды из цветков апельсина в тесто; 160 °C, 10 минут."
+  },
+  "variants.8": {
+   "fr": "Amandes non pelées, grillées à la poêle, avec du miel (Lalla Moulati n° 65048).",
+   "t": "Из неочищенного миндаля, обжаренного на сковороде, с мёдом (Lalla Moulati № 65048)."
+  },
+  "ing.jaunes.pl5": {
+   "fr": "jaune d'œuf / jaunes d'œufs",
+   "t": "желтков"
+  },
+  "ing.oeuf.pl5": {
+   "fr": "œuf entier moyen / œufs entiers moyens",
+   "t": "яиц среднего размера (целиком)"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  }
+ }
+}

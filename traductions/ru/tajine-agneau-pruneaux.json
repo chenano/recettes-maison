@@ -27,8 +27,8 @@
    "t": "Таджин с черносливом и миндалём в глиняной посуде"
   },
   "serving": {
-   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
-   "t": "Подавайте очень горячим, в подогретом сервировочном таджине или в глубоком блюде, которое ставят в центр стола, чтобы есть всем вместе: мясо, политое соусом с небольшим количеством сиропа, сверху карамелизованный чернослив, затем жареный миндаль и поджаренный кунжут. С хлебом, чтобы собирать соус; кускус — отдельное блюдо."
+   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer (Morocco World News) ; My Moroccan Food propose aussi du couscous.",
+   "t": "Подавайте очень горячим, в подогретом сервировочном таджине или в глубоком блюде, которое ставят в центр стола, чтобы есть всем вместе: мясо, политое соусом с небольшим количеством сиропа, сверху карамелизованный чернослив, затем жареный миндаль и поджаренный кунжут. С хлебом, чтобы собирать соус (Morocco World News); My Moroccan Food предлагает также кускус."
   },
   "ing.0.group": {
    "fr": "Viande et sauce",
@@ -39,8 +39,8 @@
    "t": "халяльной баранины (лопатка или шея, на кости)"
   },
   "ing.viande.note": {
-   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
-   "t": "крупными кусками; Choumicha берёт лопатку или окорок, My Moroccan Food и Grantourismo — лопатку, шею или голяшки"
+   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food de l'épaule, du collier ou des souris",
+   "t": "крупными кусками; Choumicha берёт лопатку или окорок, My Moroccan Food — лопатку, шею или голяшки"
   },
   "ing.oignons.name": {
    "fr": "oignon moyen",
@@ -49,10 +49,6 @@
   "ing.oignons.pl": {
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
-  },
-  "ing.oignons.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
   },
   "ing.oignons.note": {
    "fr": "à hacher finement, ou à râper",
@@ -65,10 +61,6 @@
   "ing.ail.pl": {
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
-  },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
   },
   "ing.huile.name": {
    "fr": "d'huile d'olive ou d'huile neutre",
@@ -117,10 +109,6 @@
   "ing.cannelle-baton.pl": {
    "fr": "bâtons de cannelle",
    "t": "палочки корицы"
-  },
-  "ing.cannelle-baton.pl5": {
-   "fr": "bâton de cannelle / bâtons de cannelle",
-   "t": "палочек корицы"
   },
   "ing.coriandre.name": {
    "fr": "de coriandre fraîche",
@@ -292,7 +280,7 @@
   },
   "steps.5.text": {
    "fr": "Chauffe un fond d'huile dans une petite poêle, à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient bien dorées. Égoutte-les sur du papier absorbant.",
-   "t": "Разогрейте в небольшой сковороде немного масла, чтобы покрыло дно, на среднем огне. Обжарьте в нём {{amandes}} очищенного миндаля, непрерывно помешивая, до золотистого цвета. Выложите на бумажные полотенца, чтобы стекло масло."
+   "t": "Разогрейте на среднем огне в небольшой сковороде немного масла, чтобы оно покрыло дно. Обжарьте в нём {{amandes}} очищенного миндаля, непрерывно помешивая, до золотистого цвета. Выложите на бумажные полотенца, чтобы стекло масло."
   },
   "steps.6.title": {
    "fr": "Fais griller le sésame",
@@ -372,7 +360,7 @@
   },
   "steps.11.text": {
    "fr": "Dispose la viande dans le plat chaud et garnis-la des pruneaux. Mélange la sauce de la viande avec un peu de sirop des pruneaux et nappe-en la viande. Parsème d'amandes frites et de graines de sésame grillées. Sers aussitôt, au centre de la table, avec du pain.",
-   "t": "Выложите мясо на горячее блюдо и разложите сверху чернослив. Смешайте соус от мяса с небольшим количеством сиропа от чернослива и полейте им мясо. Посыпьте жареным миндалём и поджаренным кунжутом. Сразу подавайте в центр стола, с хлебом."
+   "t": "Выложите мясо на горячее блюдо и разложите сверху чернослив. Смешайте соус от мяса с небольшим количеством сиропа от чернослива и полейте им мясо. Посыпьте жареным миндалём и поджаренным кунжутом. Сразу подавайте с хлебом, поставив блюдо в центр стола."
   },
   "secrets.0.text": {
    "fr": "Fais cuire les pruneaux à part, pas dans la cocotte : ils caramélisent mieux et le plat ne vire pas au brun-noir.",
@@ -419,8 +407,8 @@
    "t": "Положите на мясо связанный пучок кинзы и петрушки и выньте его перед подачей."
   },
   "secrets.5.source": {
-   "fr": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)",
-   "t": "Choumicha (пучок петрушки и кинзы); Grantourismo, рецепт Terence Carter, перенятый у Jamila и затем доработанный (пучок вынимают); My Moroccan Food (связанный пучок кинзы)"
+   "fr": "Choumicha (bouquet persil-coriandre) ; My Moroccan Food (bouquet de coriandre ficelé)",
+   "t": "Choumicha (пучок петрушки и кинзы); My Moroccan Food (связанный пучок кинзы)"
   },
   "secrets.6.text": {
    "fr": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
@@ -431,12 +419,12 @@
    "t": "Choumicha (совет для глиняного таджина); Cooking with Alia (мясо покрыто наполовину); My Moroccan Food (если пригорает, подливают воду)"
   },
   "secrets.7.text": {
-   "fr": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
-   "t": "Соус готов, когда он уварился до разварившегося лука и масла — густой и тягучий, как сироп."
+   "fr": "La sauce est prête quand elle a réduit et qu'elle est épaisse, liée par les oignons fondus.",
+   "t": "Соус готов, когда он уварился и стал густым: его связывает разварившийся лук."
   },
   "secrets.7.source": {
-   "fr": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)",
-   "t": "Grantourismo (рецепт Terence Carter, доработанный по рецепту Jamila); Choumicha («уваренный соус»); Cooking with Alia («густой соус»)"
+   "fr": "Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse ») ; My Moroccan Food (beaucoup d'oignons pour une sauce épaisse)",
+   "t": "Choumicha («уваренный соус»); Cooking with Alia («густой соус»); My Moroccan Food (много лука для густого соуса)"
   },
   "secrets.8.text": {
    "fr": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
@@ -467,16 +455,16 @@
    "t": "Выбирайте кусок на кости, который выдерживает долгое тушение: лопатку, шею или бараньи голяшки."
   },
   "secrets.11.source": {
-   "fr": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
-   "t": "My Moroccan Food; Grantourismo; Choumicha (лопатка или окорок); Bladi (лопатка)"
+   "fr": "My Moroccan Food ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
+   "t": "My Moroccan Food; Choumicha (лопатка или окорок); Bladi (лопатка)"
   },
   "secrets.12.text": {
-   "fr": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
-   "t": "Сегодня в Марокко таджин часто готовят в большой кастрюле, а затем перекладывают в глиняный таджин, чтобы подать в центр стола."
+   "fr": "Le tajine en terre décoré sert surtout au service : réchauffe-le avant d'y dresser la viande cuite à la cocotte.",
+   "t": "Расписной глиняный таджин служит в основном для подачи: подогрейте его, прежде чем выложить в него мясо, приготовленное в кастрюле."
   },
   "secrets.12.source": {
-   "fr": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech",
-   "t": "Grantourismo, по словам Jamila, повара риада в Марракеше"
+   "fr": "Choumicha (fiche du tajine en terre : le tajine décoré est réservé au service et réchauffé avant de dresser)",
+   "t": "Choumicha (статья о глиняном таджине: расписной таджин предназначен только для подачи, его подогревают, прежде чем выложить блюдо)"
   },
   "secrets.13.text": {
    "fr": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
@@ -487,8 +475,8 @@
    "t": "Choumicha (советы о таджине)"
   },
   "mistakes.0": {
-   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
-   "t": "Варить чернослив в кастрюле вместе с мясом, если вы хотите, чтобы он хорошо карамелизовался: он карамелизуется хуже, а блюдо темнеет (My Moroccan Food). При этом ошибкой это не считается: так говорит My Moroccan Food, а Grantourismo, как и другой рецепт Bladi.net, варят его в кастрюле."
+   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Les cuire avec la viande n'est pas une faute pour autant : My Moroccan Food précise qu'il n'y a rien de mal à le faire, et la recette « Tajine d'agneau aux pruneaux » de Bladi.net les ajoute à la viande.",
+   "t": "Варить чернослив в кастрюле вместе с мясом, если вы хотите, чтобы он хорошо карамелизовался: он карамелизуется хуже, а блюдо темнеет (My Moroccan Food). При этом варить его с мясом — не ошибка: My Moroccan Food уточняет, что в этом нет ничего плохого, а в рецепте «Tajine d'agneau aux pruneaux» на Bladi.net его добавляют к мясу."
   },
   "mistakes.1": {
    "fr": "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
@@ -518,17 +506,13 @@
    "fr": "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
    "t": "Ставить на огонь глазурованный расписной таджин: он предназначен только для подачи (Choumicha)."
   },
-  "mistakes.8": {
-   "fr": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
-   "t": "Думать, что в Марокко таджин едят с кускусом: кускус там обычно отдельное блюдо, а таджин едят с хлебом, собирая им соус (Grantourismo; Morocco World News). Но ничто не мешает подать и кускус: My Moroccan Food предлагает кускус или хлеб."
-  },
   "variants.0": {
    "fr": "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
    "t": "Говядина: голяшка или шея, тот же способ; тушите дольше, пока мясо не станет мягким (Cooking with Alia: 1–2 ч в зависимости от куска; My Moroccan Food, Femmes du Maroc, Morocco World News)."
   },
   "variants.1": {
    "fr": "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
-   "t": "Скороварка: Bladi готовит лопатку 20 мин под давлением, затем доводит около 15 мин, помешивая; Morocco World News отводит 40 мин на говядину, затем уваривает соус без крышки."
+   "t": "Скороварка: Bladi готовит лопатку 20 мин под давлением, затем доводит до готовности около 15 мин, помешивая; Morocco World News отводит 40 мин на говядину, затем уваривает соус без крышки."
   },
   "variants.2": {
    "fr": "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
@@ -543,12 +527,24 @@
    "t": "Больше специй: щепотка рас-эль-ханута (Choumicha, Cooking with Alia) или немного куркумы (My Moroccan Food, Morocco World News, Cooking with Alia)."
   },
   "variants.5": {
-   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
-   "t": "Поджаренный миндаль вместо жаренного в масле (Choumicha, My Moroccan Food) или миндальные лепестки (Le360, Grantourismo)."
+   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360).",
+   "t": "Поджаренный миндаль вместо жаренного в масле (Choumicha, My Moroccan Food) или миндальные лепестки (Le360)."
   },
   "variants.6": {
    "fr": "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha).",
    "t": "Всё приготовление в глиняном глазурованном таджине: на газу с рассекателем, всегда на слабом огне; выстелите дно стеблями петрушки и кинзы или кольцами лука, чтобы ничего не пригорало (Choumicha)."
+  },
+  "ing.oignons.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.cannelle-baton.pl5": {
+   "fr": "bâton de cannelle / bâtons de cannelle",
+   "t": "палочек корицы"
   }
  }
 }

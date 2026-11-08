@@ -62,10 +62,6 @@
    "fr": "petits oignons rouges",
    "t": "головки красного лука небольшого размера"
   },
-  "ing.oignon-rouge.pl5": {
-   "fr": "petit oignon rouge / petits oignons rouges",
-   "t": "головок красного лука небольшого размера"
-  },
   "ing.eau.name": {
    "fr": "eau froide",
    "t": "холодная вода"
@@ -93,10 +89,6 @@
   "ing.citron.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron.note": {
    "fr": "pour le jus",
@@ -397,6 +389,14 @@
   "variants.9": {
    "fr": "Autre poisson : maquereau au naturel ou saumon fumé à la place du thon (Donna Moderna ; Cookist pour le saumon fumé). Si tu es enceinte, le NHS demande de cuire le saumon fumé jusqu'à ce qu'il soit fumant, à cause de la listeria, et de ne pas dépasser 2 portions par semaine de poisson gras comme le maquereau.",
    "t": "Другая рыба: скумбрия в собственном соку или копчёный лосось вместо тунца (Donna Moderna; Cookist — для копчёного лосося). Если вы беременны, NHS требует прогревать копчёного лосося, пока от него не пойдёт пар, из-за листерии, и есть не больше 2 порций жирной рыбы, например скумбрии, в неделю."
+  },
+  "ing.oignon-rouge.pl5": {
+   "fr": "petit oignon rouge / petits oignons rouges",
+   "t": "головок красного лука небольшого размера"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

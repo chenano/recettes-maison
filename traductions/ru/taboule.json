@@ -50,10 +50,6 @@
    "fr": "tomates moyennes",
    "t": "помидора среднего размера"
   },
-  "ing.tomates.pl5": {
-   "fr": "tomate moyenne / tomates moyennes",
-   "t": "помидоров среднего размера"
-  },
   "ing.tomates.note": {
    "fr": "bien rouge, mûre mais ferme, à choisir une à une",
    "t": "ярко-красные, спелые, но плотные; выбирайте каждый помидор отдельно"
@@ -65,10 +61,6 @@
   "ing.oignon.pl": {
    "fr": "oignons blancs",
    "t": "головки белого лука"
-  },
-  "ing.oignon.pl5": {
-   "fr": "oignon blanc / oignons blancs",
-   "t": "головок белого лука"
   },
   "serving": {
    "fr": "Sers-le tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine), en entrée de mezzé (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine) ou à côté de grillades (Hadia's Lebanese Cuisine, qui sert par exemple sa kafta avec du taboulé). On le mange à la main avec des feuilles de laitue romaine (Taste of Beirut ; Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Wikipédia), de chou blanc ou de vigne (Hadia's Lebanese Cuisine ; Wikipédia) ; du pain libanais peut aussi l'accompagner (recettelibanaise.com ; Libnanews). Il est meilleur tout de suite : assaisonné trop tôt, les herbes ramollissent et la salade détrempe (Taste of Beirut ; Mama's Lebanese Kitchen). Restes : au frigo dans les 2 heures (Anses ; FSA), frigo à 4 °C dans sa zone la plus froide (Anses), et à manger dans les 2 jours (FSA).",
@@ -97,10 +89,6 @@
   "ing.citrons.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citrons.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citrons.note": {
    "fr": "frais, à presser toi-même (pas de jus en bouteille)",
@@ -473,6 +461,18 @@
   "variants.9": {
    "fr": "Kısır turc et eetch arménien : bien plus de boulgour que de persil (Wikipédia).",
    "t": "Турецкий kısır и армянский eetch: булгура гораздо больше, чем петрушки (Wikipédia)."
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne / tomates moyennes",
+   "t": "помидоров среднего размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon blanc / oignons blancs",
+   "t": "головок белого лука"
+  },
+  "ing.citrons.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

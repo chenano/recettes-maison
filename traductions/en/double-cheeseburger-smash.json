@@ -460,7 +460,7 @@
   },
   "steps.9.text.2": {
    "fr": "Juste avant de poser la viande, ajoute un filet d'huile neutre.",
-   "t": "Just before adding the meat, add a drizzle of neutral oil."
+   "t": "Just before putting the meat in, add a drizzle of neutral oil."
   },
   "steps.9.text.3": {
    "fr": "C'est prêt quand l'huile ondule et fume légèrement.",
@@ -591,16 +591,16 @@
    "t": "Immediately put 1 slice of cheddar on each patty."
   },
   "steps.13.text.4": {
-   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur.",
-   "t": "Leave for 30 s to 1 min, until the cheese melts. At this thickness, the patty is cooked through."
+   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. Vérifie que le steak est cuit à cœur : coupé au centre, il ne doit plus être rosé et de la vapeur doit s'en échapper ; avec un thermomètre, il faut 70 °C à cœur pendant 2 minutes ou 75 °C pendant 30 secondes. Sinon, prolonge la cuisson.",
+   "t": "Leave for 30 s to 1 min, until the cheese melts. Check that the patty is cooked through: when cut in the centre, it should no longer be pink and steam should come out of it; with a thermometer, the centre needs to be at 70 °C for 2 minutes or 75 °C for 30 seconds. If not, cook it for longer."
   },
   "steps.13.timer.label": {
    "fr": "Fromage",
    "t": "Cheese"
   },
   "steps.13.timer.done": {
-   "fr": "Le fromage a fondu ? Sors les steaks.",
-   "t": "Has the cheese melted? Take the patties out."
+   "fr": "Le fromage a fondu et le steak est cuit à cœur ? Sors les steaks.",
+   "t": "Has the cheese melted and is the patty cooked through? Take the patties out."
   },
   "steps.14.title": {
    "fr": "Monter le burger",
@@ -680,7 +680,7 @@
   },
   "mistakes.5": {
    "fr": "Attendre avant de manger : un smash burger se mange tout de suite.",
-   "t": "Waiting before eating: a smash burger is eaten straight away."
+   "t": "Waiting before eating: a smash burger should be eaten straight away."
   }
  }
 }

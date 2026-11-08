@@ -42,10 +42,6 @@
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
-  },
   "ing.tomates.name": {
    "fr": "de tomates pelées en conserve",
    "t": "консервированных очищенных томатов"
@@ -149,14 +145,6 @@
   "steps.1.text": {
    "fr": "Pèle et émince très finement {{oignon:full}}.",
    "t": "Очистите и очень тонко нашинкуйте лук ({{oignon}} шт.)."
-  },
-  "steps.1.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "Нашинкованный лук и раздавленный чеснок на доске"
-  },
-  "steps.1.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "Нарезка лука"
   },
   "steps.2.title": {
    "fr": "Prépare le thon et les tomates",
@@ -349,6 +337,10 @@
   "variants.4": {
    "fr": "À Palerme : sans tomate, avec raisins secs, pignons et fenouil sauvage (Wikipédia).",
    "t": "В Палермо: без томатов, с изюмом, кедровыми орешками и диким фенхелем (Wikipédia)."
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
   }
  }
 }

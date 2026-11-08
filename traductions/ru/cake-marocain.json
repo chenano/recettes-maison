@@ -42,10 +42,6 @@
    "fr": "gros œufs",
    "t": "крупных яйца"
   },
-  "ing.oeufs.pl5": {
-   "fr": "gros œuf / gros œufs",
-   "t": "крупных яиц"
-  },
   "ing.sucre.name": {
    "fr": "de sucre semoule",
    "t": "сахарного песка"
@@ -58,10 +54,6 @@
    "fr": "sachets de sucre vanillé",
    "t": "пакетика ванильного сахара"
   },
-  "ing.sucre-vanille.pl5": {
-   "fr": "sachet de sucre vanillé / sachets de sucre vanillé",
-   "t": "пакетиков ванильного сахара"
-  },
   "ing.sucre-vanille.note": {
    "fr": "sans alcool : il remplace l'extrait de vanille",
    "t": "без спирта: заменяет ванильный экстракт"
@@ -72,7 +64,7 @@
   },
   "ing.huile.name": {
    "fr": "d'huile neutre (tournesol ou huile de table)",
-   "t": "растительного масла без запаха (подсолнечного или столового)"
+   "t": "растительного масла без запаха (подсолнечного или другого)"
   },
   "ing.lait.name": {
    "fr": "de lait",
@@ -97,10 +89,6 @@
   "ing.citron.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron.note": {
    "fr": "pour le zeste râpé et le jus",
@@ -436,7 +424,7 @@
   },
   "variants.4": {
    "fr": "Au verre, marbré (Lalla Moulati) : 3 œufs, 1 verre de sucre, 1 verre d'huile, 1 verre de lait, un peu moins de 3 verres de farine, 3 sachets de levure chimique, vanille et quelques gouttes de vinaigre ; une partie de la pâte est mélangée à 1 cuillère de cacao et versée au milieu ; moule beurré et fariné ; nappé de miel et de noix de coco à la sortie du four.",
-   "t": "Мраморный, в стаканах (Lalla Moulati): 3 яйца, 1 стакан сахара, 1 стакан растительного масла, 1 стакан молока, чуть меньше 3 стаканов муки, 3 пакетика разрыхлителя, ваниль и несколько капель уксуса; часть теста смешивают с 1 ложкой какао и выливают в середину; форма, смазанная маслом и посыпанная мукой; сразу после духовки кекс покрывают мёдом и кокосовой стружкой."
+   "t": "Мраморный кекс, меры в стаканах (Lalla Moulati): 3 яйца, 1 стакан сахара, 1 стакан растительного масла, 1 стакан молока, чуть меньше 3 стаканов муки, 3 пакетика разрыхлителя, ваниль и несколько капель уксуса; часть теста смешивают с 1 ложкой какао и выливают в середину; форма, смазанная маслом и посыпанная мукой; сразу после духовки кекс покрывают мёдом и кокосовой стружкой."
   },
   "variants.5": {
    "fr": "Aux pépites de chocolat (Choumicha) : 4 œufs, 180 g de sucre, 1 sachet de sucre vanillé, ½ c. à c. de sel, 18 cl d'huile, 12 cl de lait, 350 g de farine, 14 g de levure chimique et 80 g de pépites de chocolat ; moule à cake beurré et fariné ; 180 °C, 35 à 40 minutes ; sucre glace.",
@@ -453,6 +441,18 @@
   "variants.8": {
    "fr": "Avec seulement 2 œufs (Lalla Moulati) : 2 œufs, 1 verre de lait tiède, ½ verre d'huile, 2 verres de farine, 1 verre de sucre, 16 g de levure chimique et du sucre vanillé.",
    "t": "Всего с 2 яйцами (Lalla Moulati): 2 яйца, 1 стакан тёплого молока, ½ стакана растительного масла, 2 стакана муки, 1 стакан сахара, 16 г разрыхлителя и ванильный сахар."
+  },
+  "ing.oeufs.pl5": {
+   "fr": "gros œuf / gros œufs",
+   "t": "крупных яиц"
+  },
+  "ing.sucre-vanille.pl5": {
+   "fr": "sachet de sucre vanillé / sachets de sucre vanillé",
+   "t": "пакетиков ванильного сахара"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

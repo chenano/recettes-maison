@@ -1,0 +1,470 @@
+{
+ "_slug": "maakouda",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Maakouda (beignets de pommes de terre)",
+   "t": "Maakouda (potato fritters)"
+  },
+  "darija": {
+   "fr": "maakouda",
+   "t": "maakouda"
+  },
+  "tagline": {
+   "fr": "De petites galettes de purée à l'ail et au persil, trempées dans une pâte jaune à la levure et frites : croustillantes dehors, fondantes dedans, la maakouda des snacks marocains.",
+   "t": "Small patties of mashed potato with garlic and parsley, dipped in a yellow yeast batter and fried: crisp outside, meltingly soft inside, the maakouda of Moroccan snack bars."
+  },
+  "region": {
+   "fr": "Fès. Selon un vendeur de maakouda de Fès, c'est un plat d'origine fassie, né dans le quartier des Achabine (Febrayer). C'est à Fès qu'elle est la plus célèbre (MWN Lifestyle, 2021). Elle est aujourd'hui vendue dans presque toutes les villes du Maroc (MWN Lifestyle).",
+   "t": "Fez. According to a maakouda seller in Fez, the dish comes from Fez and was born in the Achabine quarter (Febrayer). Fez is where it is most famous (MWN Lifestyle, 2021). Today it is sold in almost every city in Morocco (MWN Lifestyle)."
+  },
+  "occasion": {
+   "fr": "En-cas de rue, entrée, accompagnement ou garniture de sandwich (My Moroccan Food). Elle est aussi servie au ftour du ramadan (MWN Lifestyle, Morocco World News).",
+   "t": "A street snack, starter, side dish or sandwich filling (My Moroccan Food). It is also served at iftar during Ramadan (MWN Lifestyle, Morocco World News)."
+  },
+  "img_alt": {
+   "fr": "Maakouda : galettes de pommes de terre aux herbes, dorées à la friture",
+   "t": "Maakouda: herby potato patties, fried until golden"
+  },
+  "serving": {
+   "fr": "Sers les maakouda chaudes, juste après les avoir égouttées (MWN Lifestyle ; My Moroccan Food). Mange-les seules avec de la harissa ou du ketchup (MWN Lifestyle), avec une sauce tomate à la harissa et au citron (My Moroccan Food), ou en sandwich : dans le pain marocain avec de la harissa (Wikipédia), ou dans une demi-baguette avec ketchup ou harissa, laitue et tomate (Cooking With Alia). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "Serve the maakouda hot, straight after draining them (MWN Lifestyle; My Moroccan Food). Eat them on their own with harissa or ketchup (MWN Lifestyle), with a tomato sauce with harissa and lemon (My Moroccan Food), or in a sandwich: in Moroccan bread with harissa (Wikipedia), or in half a baguette with ketchup or harissa, lettuce and tomato (Cooking With Alia). Leftovers: in the fridge within 2 hours, to be eaten within 48 hours; reheat them only once, until they are piping hot in the centre (FSA). Your fridge should be at 4 °C in its coldest part (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La pâte à beignets",
+   "t": "The fritter batter"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche",
+   "t": "plain white flour"
+  },
+  "ing.levure.name": {
+   "fr": "de levure de boulanger sèche",
+   "t": "dried yeast"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.curcuma.note": {
+   "fr": "pour la couleur jaune",
+   "t": "for the yellow colour"
+  },
+  "ing.sel-pate.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "lukewarm water"
+  },
+  "ing.1.group": {
+   "fr": "La purée",
+   "t": "The mashed potato"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre",
+   "t": "potatoes"
+  },
+  "ing.sel-cuisson.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel-cuisson.note": {
+   "fr": "une pincée, pour l'eau de cuisson",
+   "t": "a pinch, for the cooking water"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché finement",
+   "t": "finely chopped flat-leaf parsley"
+  },
+  "ing.ail.name": {
+   "fr": "d'ail haché finement",
+   "t": "finely chopped garlic"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust after tasting"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût ; My Moroccan Food en met ¼ c. à c. pour 500 g",
+   "t": "to taste; My Moroccan Food uses ¼ tsp for 500 g"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort en poudre",
+   "t": "hot chilli powder"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif ; Cooking With Alia en met ¼ c. à c. pour 800 g",
+   "t": "optional; Cooking With Alia uses ¼ tsp for 800 g"
+  },
+  "ing.2.group": {
+   "fr": "Friture et service",
+   "t": "Frying and serving"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture",
+   "t": "vegetable oil for frying"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, arachide ou olive : elles fument vers 210 à 220 °C, au-dessus des 180 °C de la friture, alors que la graisse végétale à frire fume dès 175 °C (gouvernement du Québec) ; casserole remplie au tiers de sa hauteur au plus",
+   "t": "sunflower, groundnut or olive: they smoke at around 210 to 220 °C, above the 180 °C of frying, whereas vegetable frying fat smokes from 175 °C (gouvernement du Québec); fill the saucepan no more than a third of its height"
+  },
+  "ing.pain.name": {
+   "fr": "pain (khobz ou demi-baguette)",
+   "t": "bread (khobz or half a baguette)"
+  },
+  "ing.pain.note": {
+   "fr": "facultatif, pour les sandwichs",
+   "t": "optional, for sandwiches"
+  },
+  "ing.harissa.name": {
+   "fr": "harissa",
+   "t": "harissa"
+  },
+  "ing.harissa.note": {
+   "fr": "facultatif, pour servir",
+   "t": "optional, to serve"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier et un fouet pour la pâte",
+   "t": "A large mixing bowl and a whisk for the batter"
+  },
+  "equipment.1": {
+   "fr": "Un torchon propre ou du film alimentaire",
+   "t": "A clean tea towel or cling film"
+  },
+  "equipment.2": {
+   "fr": "Une casserole pour les pommes de terre, et une passoire",
+   "t": "A saucepan for the potatoes, and a colander"
+  },
+  "equipment.3": {
+   "fr": "Un presse-purée, une fourchette ou une cuillère en bois",
+   "t": "A potato masher, a fork or a wooden spoon"
+  },
+  "equipment.4": {
+   "fr": "Une plaque avec du papier sulfurisé",
+   "t": "A baking tray lined with baking paper"
+  },
+  "equipment.5": {
+   "fr": "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde et un thermomètre de cuisson",
+   "t": "An electric deep-fat fryer with a thermostat (the safest), or a deep saucepan and a cooking thermometer"
+  },
+  "equipment.6": {
+   "fr": "Un couvercle à la taille de la casserole, toujours à portée de main",
+   "t": "A lid that fits the saucepan, always within reach"
+  },
+  "equipment.7": {
+   "fr": "Deux cuillères ou une fourchette pour enrober",
+   "t": "Two spoons or a fork for coating"
+  },
+  "equipment.8": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "A skimmer and kitchen paper"
+  },
+  "steps.0.title": {
+   "fr": "Prépare la pâte à beignets",
+   "t": "Make the fritter batter"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{levure}} de levure, {{curcuma}} de curcuma et {{sel-pate}} de sel. Verse {{eau}} d'eau tiède peu à peu, en fouettant, jusqu'à une pâte lisse et épaisse, sans grumeaux.",
+   "t": "In a large mixing bowl, mix {{farine}} flour, {{levure}} yeast, {{curcuma}} turmeric and {{sel-pate}} salt. Gradually pour in {{eau}} lukewarm water, whisking, until you have a smooth, thick batter with no lumps."
+  },
+  "steps.0.tip": {
+   "fr": "La pâte doit napper : ni trop épaisse (ajoute 2 c. à s. d'eau si besoin), ni trop liquide, sinon elle se défait dans l'huile (My Moroccan Food). Dialna la veut lisse et épaisse, comme une pâte à pancakes ou une béchamel.",
+   "t": "The batter should have a coating consistency: not too thick (add 2 tbsp water if needed), nor too runny, or it will come apart in the oil (My Moroccan Food). Dialna wants it smooth and thick, like a pancake batter or a béchamel."
+  },
+  "steps.1.title": {
+   "fr": "Laisse lever la pâte",
+   "t": "Let the batter rise"
+  },
+  "steps.1.text": {
+   "fr": "Couvre le saladier avec un torchon propre ou du film alimentaire. Laisse lever la pâte à température ambiante de 30 minutes à 1 heure. Pendant ce temps, prépare la purée.",
+   "t": "Cover the bowl with a clean tea towel or cling film. Leave the batter to rise at room temperature for 30 minutes to 1 hour. Meanwhile, make the mashed potato."
+  },
+  "steps.2.title": {
+   "fr": "Cuis les pommes de terre",
+   "t": "Cook the potatoes"
+  },
+  "steps.2.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre et coupe-les en morceaux. Mets-les dans une casserole d'eau froide avec une pincée de {{sel-cuisson}}. Porte à ébullition, puis laisse cuire à feu moyen environ 20 minutes, jusqu'à ce qu'elles soient bien tendres.",
+   "t": "Peel {{pdt:full}} and cut them into pieces. Put them in a saucepan of cold water with a pinch of {{sel-cuisson}}. Bring to the boil, then cook over medium heat for about 20 minutes, until they are very tender."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Potatoes"
+  },
+  "steps.2.timer.done": {
+   "fr": "Pique un morceau avec un couteau : il doit entrer sans résistance.",
+   "t": "Prick a piece with a knife: it should go in without resistance."
+  },
+  "steps.3.title": {
+   "fr": "Écrase en purée",
+   "t": "Mash the potatoes"
+  },
+  "steps.3.text": {
+   "fr": "Égoutte bien les pommes de terre dans une passoire. Mets-les dans un saladier et écrase-les en purée bien lisse.",
+   "t": "Drain the potatoes well in a colander. Transfer them to a mixing bowl and mash them until very smooth."
+  },
+  "steps.4.title": {
+   "fr": "Assaisonne la purée",
+   "t": "Season the mash"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute {{persil}} de persil, {{ail}} d'ail, {{sel}} de sel et un peu de {{poivre}}. Si tu aimes le piquant, ajoute un peu de {{piment}}. Mélange bien, goûte et rectifie le sel.",
+   "t": "Add {{persil}} parsley, {{ail}} garlic, {{sel}} salt and a little {{poivre}}. If you like it spicy, add a little {{piment}}. Mix well, taste and adjust the salt."
+  },
+  "steps.5.title": {
+   "fr": "Laisse tiédir",
+   "t": "Leave to cool until warm"
+  },
+  "steps.5.text": {
+   "fr": "Laisse tiédir la purée jusqu'à ce que tu puisses la prendre dans tes mains sans te brûler.",
+   "t": "Leave the mash to cool until you can hold it in your hands without burning yourself."
+  },
+  "steps.6.title": {
+   "fr": "Façonne les galettes",
+   "t": "Shape the patties"
+  },
+  "steps.6.text": {
+   "fr": "Prends un peu de purée, roule-la en boule puis aplatis-la entre tes paumes : une galette d'environ 5 cm de large. Pose les galettes sur une plaque couverte de papier sulfurisé et garde-les au frais jusqu'à la friture.",
+   "t": "Take a little mash, roll it into a ball, then flatten it between your palms: a patty about 5 cm wide. Place the patties on a baking tray lined with baking paper and keep them cool until frying."
+  },
+  "steps.7.title": {
+   "fr": "Prépare la friture",
+   "t": "Set up for frying"
+  },
+  "steps.7.text": {
+   "fr": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile}} : jamais plus d'un tiers de la hauteur de la casserole. Pose un couvercle de la bonne taille à portée de main.",
+   "t": "Use a deep-fat fryer with a thermostat or a deep saucepan. Pour in the {{huile}}: never more than a third of the height of the saucepan. Put a lid of the right size within reach."
+  },
+  "steps.7.tip": {
+   "fr": "My Moroccan Food met environ 5 cm d'huile, Dialna quelques centimètres (environ 2,5 cm). Une friteuse électrique règle seule la température : elle est plus sûre (London Fire Brigade, gouvernement du Québec).",
+   "t": "My Moroccan Food uses about 5 cm of oil, Dialna a few centimetres (about 2.5 cm). An electric deep-fat fryer controls the temperature by itself: it is safer (London Fire Brigade, gouvernement du Québec)."
+  },
+  "steps.8.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "Heat the oil to 180 °C"
+  },
+  "steps.8.text": {
+   "fr": "Chauffe l'huile à 180 °C, en la contrôlant avec le thermostat ou un thermomètre. Elle ne doit jamais fumer : si elle fume, coupe le feu et laisse-la refroidir. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "Heat the oil to 180 °C, checking it with the thermostat or a thermometer. It must never smoke: if it does, turn off the heat and let it cool. From now on, never take your eyes off the oil."
+  },
+  "steps.8.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas la casserole. Pose vite le couvercle dessus et coupe le feu si tu peux. Puis appelle les pompiers, même si le feu semble éteint (gouvernement du Québec).",
+   "t": "If the oil catches fire: never use water, and do not move the saucepan. Quickly put the lid on it and turn off the heat if you can. Then call the fire brigade, even if the fire seems to be out (gouvernement du Québec)."
+  },
+  "steps.9.title": {
+   "fr": "Enrobe une galette de pâte",
+   "t": "Coat a patty in batter"
+  },
+  "steps.9.text": {
+   "fr": "Plonge une galette dans la pâte et retourne-la avec deux cuillères ou une fourchette, pour la couvrir entièrement. Soulève-la et glisse-la doucement dans l'huile chaude.",
+   "t": "Dip a patty in the batter and turn it with two spoons or a fork, to coat it completely. Lift it out and gently slide it into the hot oil."
+  },
+  "steps.10.title": {
+   "fr": "Fais frire par petites fournées",
+   "t": "Fry in small batches"
+  },
+  "steps.10.text": {
+   "fr": "Fais frire quelques galettes à la fois, sans les serrer. Retourne-les plusieurs fois, jusqu'à ce qu'elles soient dorées de tous les côtés. Ne les laisse pas brunir.",
+   "t": "Fry a few patties at a time, without crowding them. Turn them several times, until they are golden on all sides. Do not let them turn brown."
+  },
+  "steps.10.tip": {
+   "fr": "Le beignet gonfle et remonte vite à la surface ; My Moroccan Food compte environ 3 minutes. La FSA (agence sanitaire britannique) conseille une couleur jaune doré, pas plus foncée, quand on fait frire des aliments riches en amidon comme la pomme de terre.",
+   "t": "The fritter puffs up and quickly rises to the surface; My Moroccan Food allows about 3 minutes. The FSA (the British food safety agency) advises a golden yellow colour, no darker, when frying starchy foods such as potatoes."
+  },
+  "steps.11.title": {
+   "fr": "Égoutte et continue",
+   "t": "Drain and carry on"
+  },
+  "steps.11.text": {
+   "fr": "Sors les maakouda avec l'écumoire et pose-les sur du papier absorbant. Attends que l'huile revienne à 180 °C, puis fais frire la fournée suivante. Éteins le feu dès la dernière fournée sortie.",
+   "t": "Lift out the maakouda with the skimmer and place them on kitchen paper. Wait for the oil to come back to 180 °C, then fry the next batch. Turn off the heat as soon as the last batch is out."
+  },
+  "steps.12.title": {
+   "fr": "Sers chaud",
+   "t": "Serve hot"
+  },
+  "steps.12.text": {
+   "fr": "Sers les maakouda bien chaudes, seules, avec un peu de {{harissa}}, ou en sandwich dans du {{pain}}.",
+   "t": "Serve the maakouda very hot, on their own, with a little {{harissa}}, or as a sandwich in {{pain}}."
+  },
+  "steps.12.tip": {
+   "fr": "Pour le sandwich, Cooking With Alia tartine une demi-baguette de ketchup ou de harissa, puis ajoute de la laitue, les maakouda et des tranches de tomate.",
+   "t": "For the sandwich, Cooking With Alia spreads half a baguette with ketchup or harissa, then adds lettuce, the maakouda and tomato slices."
+  },
+  "secrets.0.text": {
+   "fr": "La maakouda des snacks est une petite galette de purée trempée dans une pâte jaune à la levure, puis frite.",
+   "t": "Snack-bar maakouda is a small patty of mashed potato dipped in a yellow yeast batter, then fried."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (levure, farine, curcuma) ; Lalla Moulati n° 229999 (farine, eau tiède, curcuma, sel, levure)",
+   "t": "My Moroccan Food (yeast, flour, turmeric); Lalla Moulati no. 229999 (flour, lukewarm water, turmeric, salt, yeast)"
+  },
+  "secrets.1.text": {
+   "fr": "La purée est simple : pomme de terre cuite à l'eau, persil, ail, sel et poivre.",
+   "t": "The mash is simple: boiled potato, parsley, garlic, salt and pepper."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food ; Febrayer (ail, sel et piment, selon un vendeur de Fès)",
+   "t": "My Moroccan Food; Febrayer (garlic, salt and chilli, according to a seller in Fez)"
+  },
+  "secrets.2.text": {
+   "fr": "Le curcuma donne à la pâte sa couleur jaune.",
+   "t": "Turmeric gives the batter its yellow colour."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif) ; Lalla Moulati n° 229999 et 292849",
+   "t": "My Moroccan Food; Dialna (Asif); Lalla Moulati nos. 229999 and 292849"
+  },
+  "secrets.3.text": {
+   "fr": "Laisse lever la pâte avant de l'utiliser : 30 minutes chez My Moroccan Food, 1 heure chez Dialna.",
+   "t": "Let the batter rise before using it: 30 minutes for My Moroccan Food, 1 hour for Dialna."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif)",
+   "t": "My Moroccan Food; Dialna (Asif)"
+  },
+  "secrets.4.text": {
+   "fr": "Écrase les pommes de terre en purée bien lisse.",
+   "t": "Mash the potatoes until very smooth."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia n° 599 ; My Moroccan Food ; Dialna (Asif) ; MWN Lifestyle",
+   "t": "Cooking With Alia no. 599; My Moroccan Food; Dialna (Asif); MWN Lifestyle"
+  },
+  "secrets.5.text": {
+   "fr": "Fais des galettes d'environ 5 cm de large.",
+   "t": "Make patties about 5 cm wide."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia n° 599 ; My Moroccan Food",
+   "t": "Cooking With Alia no. 599; My Moroccan Food"
+  },
+  "secrets.6.text": {
+   "fr": "Garde les galettes au frais jusqu'au moment de les frire.",
+   "t": "Keep the patties cool until it is time to fry them."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.7.text": {
+   "fr": "Fais frire à 180 °C, et garde l'huile à cette température pendant toute la friture.",
+   "t": "Fry at 180 °C, and keep the oil at that temperature throughout the frying."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif)",
+   "t": "My Moroccan Food; Dialna (Asif)"
+  },
+  "secrets.8.text": {
+   "fr": "Ne surcharge pas la casserole : l'huile doit garder sa chaleur, et les beignets restent croustillants.",
+   "t": "Do not overcrowd the saucepan: the oil must keep its heat, and the fritters will stay crisp."
+  },
+  "secrets.8.source": {
+   "fr": "Dialna (Asif) ; MWN Lifestyle ; MarocMama",
+   "t": "Dialna (Asif); MWN Lifestyle; MarocMama"
+  },
+  "secrets.9.text": {
+   "fr": "Retourne les beignets plusieurs fois, doucement, jusqu'à ce qu'ils soient dorés.",
+   "t": "Turn the fritters several times, gently, until they are golden."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia n° 599",
+   "t": "My Moroccan Food; Cooking With Alia no. 599"
+  },
+  "secrets.10.text": {
+   "fr": "Égoutte-les sur du papier absorbant et mange-les chauds.",
+   "t": "Drain them on kitchen paper and eat them hot."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif) ; Cooking With Alia n° 599 ; MWN Lifestyle",
+   "t": "My Moroccan Food; Dialna (Asif); Cooking With Alia no. 599; MWN Lifestyle"
+  },
+  "secrets.11.text": {
+   "fr": "En sandwich, on la sert avec une sauce : harissa, sauce tomate citronnée ou ketchup.",
+   "t": "In a sandwich, it is served with a sauce: harissa, lemony tomato sauce or ketchup."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia n° 599 ; Wikipédia (anglais), « Ma'quda »",
+   "t": "My Moroccan Food; Cooking With Alia no. 599; Wikipedia (English), “Ma'quda”"
+  },
+  "mistakes.0": {
+   "fr": "Faire une pâte trop liquide : elle se défait dans l'huile (My Moroccan Food).",
+   "t": "Making the batter too runny: it comes apart in the oil (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre trop de beignets à la fois : l'huile refroidit (Dialna ; MWN Lifestyle).",
+   "t": "Putting in too many fritters at once: the oil cools down (Dialna; MWN Lifestyle)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser l'huile fumer : elle est trop chaude et peut prendre feu. Coupe le feu et laisse-la refroidir (London Fire Brigade ; gouvernement du Québec).",
+   "t": "Letting the oil smoke: it is too hot and can catch fire. Turn off the heat and let it cool (London Fire Brigade; gouvernement du Québec)."
+  },
+  "mistakes.3": {
+   "fr": "Remplir la casserole de plus d'un tiers d'huile (London Fire Brigade).",
+   "t": "Filling the saucepan more than a third full of oil (London Fire Brigade)."
+  },
+  "mistakes.4": {
+   "fr": "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+   "t": "Throwing water on burning oil, or moving the saucepan while it is on fire (gouvernement du Québec)."
+  },
+  "mistakes.5": {
+   "fr": "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+   "t": "Leaving the kitchen while frying (gouvernement du Québec)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les beignets brunir : vise le jaune doré (FSA, conseils sur l'acrylamide).",
+   "t": "Letting the fritters brown: aim for golden yellow (FSA, advice on acrylamide)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "Leaving leftovers at room temperature for more than 2 hours before putting them in the fridge (Anses; FSA)."
+  },
+  "variants.0": {
+   "fr": "Maakouda maison à l'œuf, sans pâte à la levure : Cooking With Alia (n° 599) trempe les galettes dans 2 œufs battus, puis les farine légèrement (60 g de farine pour 800 g de pommes de terre), et les fait frire à feu moyen quelques minutes de chaque côté.",
+   "t": "Home-made maakouda with egg, without the yeast batter: Cooking With Alia (no. 599) dips the patties in 2 beaten eggs, then dusts them lightly with flour (60 g flour for 800 g potatoes), and fries them over medium heat for a few minutes on each side."
+  },
+  "variants.1": {
+   "fr": "Œuf et farine dans la purée, puis galettes farinées avant la friture (MWN Lifestyle ; MarocMama). Lalla Moulati met 2 œufs dans la purée (n° 349170).",
+   "t": "Egg and flour in the mash, then patties dusted with flour before frying (MWN Lifestyle; MarocMama). Lalla Moulati puts 2 eggs in the mash (no. 349170)."
+  },
+  "variants.2": {
+   "fr": "Persil et coriandre mêlés (Dialna ; Lalla Moulati n° 229999 et 349170).",
+   "t": "Parsley and coriander mixed together (Dialna; Lalla Moulati nos. 229999 and 349170)."
+  },
+  "variants.3": {
+   "fr": "Un peu de cumin dans la purée (Dialna : ¼ c. à c. pour 1 kg ; Lalla Moulati n° 229999 et 349170).",
+   "t": "A little cumin in the mash (Dialna: ¼ tsp for 1 kg; Lalla Moulati nos. 229999 and 349170)."
+  },
+  "variants.4": {
+   "fr": "1 c. à c. de harissa dans la purée pour 1 kg de pommes de terre (Dialna).",
+   "t": "1 tsp harissa in the mash for 1 kg potatoes (Dialna)."
+  },
+  "variants.5": {
+   "fr": "Pâte à la levure chimique (un sachet de 8 g) au lieu de la levure de boulanger (Lalla Moulati n° 292849).",
+   "t": "Batter made with baking powder (one 8 g sachet) instead of yeast (Lalla Moulati no. 292849)."
+  },
+  "variants.6": {
+   "fr": "Avec du fromage dans la purée (Febrayer ; Lalla Moulati n° 349170). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "With cheese in the mash (Febrayer; Lalla Moulati no. 349170). If you want to be strict about halal, choose a cheese made with a microbial coagulant, without animal rennet."
+  },
+  "variants.7": {
+   "fr": "Sauce de My Moroccan Food : 2 c. à s. de concentré de tomate, 2 c. à c. de harissa, le jus d'un citron, ½ c. à c. de sel et ¼ c. à c. de cumin, mélangés.",
+   "t": "My Moroccan Food's sauce: 2 tbsp tomato purée, 2 tsp harissa, the juice of one lemon, ½ tsp salt and ¼ tsp cumin, mixed together."
+  },
+  "variants.8": {
+   "fr": "Sauce de Dialna : tomates râpées sans la peau, sel et huile d'olive, avec un peu d'ail râpé ou de harissa si tu veux.",
+   "t": "Dialna's sauce: grated tomatoes without the skin, salt and olive oil, with a little grated garlic or harissa if you like."
+  }
+ }
+}

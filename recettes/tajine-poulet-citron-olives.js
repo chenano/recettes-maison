@@ -195,7 +195,7 @@ window.RECETTES.push({
   {
    "phase": "Préparation",
    "title": "Fais mariner le poulet",
-   "text": "Coupe le poulet en 4 à 6 morceaux. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
+   "text": "Coupe la volaille en morceaux, 4 à 6 par poulet. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
    "timer": {
     "min": 120,
     "label": "Marinade du poulet",
@@ -487,7 +487,8 @@ window.RECETTES.push({
   "Préparation : 15 min (Taste of Maroc), 25 min d'après Choumicha (1 h 10 au total moins 45 min de cuisson). Retenu : 25 min.",
   "Unités : Taste of Maroc donne des mesures américaines, converties par calcul : 3,3 lb ≈ 1,5 kg ; ¼ de tasse ≈ 59 ml, arrondi à 60 ml.",
   "Adaptations de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika, cumin, bouillon de volaille, cuisson courte ou au four. Non retenues, car absentes des sources marocaines.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 2 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Le site de Choumicha (choumicha.ma) répondait par une erreur HTTP 525 le 06/11/2026 : ses recettes ont été lues sur des copies archivées (Wayback Machine, 2021 et 2024). Leur contenu actuel n'a pas pu être revérifié.",

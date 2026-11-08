@@ -1,0 +1,474 @@
+{
+ "_slug": "houmous",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Houmous libanais (hummus bi tahini)",
+   "t": "Ливанский хумус (хумус би тахини)"
+  },
+  "tagline": {
+   "fr": "La purée de pois chiches du Liban : des pois chiches secs trempés une nuit, cuits jusqu'à fondre, puis mixés avec du tahini, du citron et de l'ail. Lisse et crémeux, à manger avec du pain libanais.",
+   "t": "Ливанское пюре из нута: сухой нут замачивают на ночь, разваривают до мягкости, затем пробивают в блендере с тахини, лимоном и чесноком. Гладкий и кремовый, его едят с ливанским хлебом."
+  },
+  "region": {
+   "fr": "Liban et Levant : on pense qu'il vient du pays de Cham (Liban, Syrie, Palestine, Jordanie) (Mama's Lebanese Kitchen). Son origine reste disputée entre plusieurs pays, et la presse parle de « guerre du houmous » (Wikipédia). « Houmous » veut dire « pois chiche » en arabe (Wikipédia ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
+   "t": "Ливан и Левант: считается, что он родом из Шама (Ливан, Сирия, Палестина, Иордания) (Mama's Lebanese Kitchen). Его происхождение до сих пор оспаривают несколько стран, и пресса пишет о «хумусной войне» (Wikipédia). «Хумус» по-арабски значит «нут» (Wikipédia; Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine)."
+  },
+  "occasion": {
+   "fr": "En mezzé, avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Au petit-déjeuner libanais, avec du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+   "t": "В составе мезе, с ливанским хлебом или питой (Mama's Lebanese Kitchen; recettelibanaise.com). На ливанский завтрак — с фулем, мятой, сырым луком и хлебом (Hadia's Lebanese Cuisine)."
+  },
+  "img_alt": {
+   "fr": "Houmous à la libanaise dans un bol, avec huile d'olive, pois chiches entiers et paprika",
+   "t": "Хумус по-ливански в миске, с оливковым маслом, целым нутом и паприкой"
+  },
+  "serving": {
+   "fr": "Dans une assiette creuse, avec un creux au centre, un filet d'huile d'olive et du paprika (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com), avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Mama's le sert tiède, avec des cornichons salés, des piments au vinaigre, des olives, de la menthe, des poivrons verts et des oignons ; recettelibanaise.com ajoute un quartier de citron. Restes : dans une boîte fermée, au frigo entre 0 et 5 °C, mis au frais dans les 2 heures, et à manger dans les 2 jours (FSA). Hadia dit qu'il se garde jusqu'à 6 jours, et Chef in Disguise 5 à 7 jours : on garde ici la règle officielle, plus prudente.",
+   "t": "В глубокой тарелке, с углублением в центре, с небольшим количеством оливкового масла и паприкой (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; recettelibanaise.com), с ливанским хлебом или питой (Mama's Lebanese Kitchen; recettelibanaise.com). Mama's подаёт его тёплым, с солёными огурчиками, острым перцем в уксусе, оливками, мятой, зелёным сладким перцем и луком; recettelibanaise.com добавляет дольку лимона. Остатки: в закрытом контейнере, в холодильнике при температуре от 0 до 5 °C; убрать туда в течение 2 часов и съесть в течение 2 дней (FSA). Hadia говорит, что он хранится до 6 дней, а Chef in Disguise — от 5 до 7 дней: здесь мы придерживаемся официального, более осторожного правила."
+  },
+  "ing.0.group": {
+   "fr": "Le trempage et la cuisson",
+   "t": "Замачивание и варка"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "сухого нута"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "pas de conserve pour cette version",
+   "t": "для этого варианта — не консервированный"
+  },
+  "ing.bicarbonate-trempage.name": {
+   "fr": "de bicarbonate de soude alimentaire",
+   "t": "пищевой соды (бикарбоната натрия)"
+  },
+  "ing.bicarbonate-trempage.note": {
+   "fr": "pour l'eau du trempage",
+   "t": "в воду для замачивания"
+  },
+  "ing.eau-cuisson.name": {
+   "fr": "d'eau fraîche",
+   "t": "свежей прохладной воды"
+  },
+  "ing.eau-cuisson.note": {
+   "fr": "pour la cuisson ; un peu plus si besoin",
+   "t": "для варки; при необходимости чуть больше"
+  },
+  "ing.bicarbonate-cuisson.name": {
+   "fr": "de bicarbonate de soude alimentaire",
+   "t": "пищевой соды (бикарбоната натрия)"
+  },
+  "ing.bicarbonate-cuisson.note": {
+   "fr": "pour l'eau de cuisson",
+   "t": "в воду для варки"
+  },
+  "ing.1.group": {
+   "fr": "Le houmous",
+   "t": "Хумус"
+  },
+  "ing.tahini.name": {
+   "fr": "de tahini (crème de sésame)",
+   "t": "тахини (кунжутной пасты)"
+  },
+  "ing.tahini.note": {
+   "fr": "de préférence libanais",
+   "t": "желательно ливанского производства"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "свежего лимонного сока"
+  },
+  "ing.citron.note": {
+   "fr": "pressé et filtré",
+   "t": "выжать и процедить"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher",
+   "t": "очистить"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster selon le goût",
+   "t": "скорректировать по вкусу"
+  },
+  "ing.eau-froide.name": {
+   "fr": "d'eau très froide",
+   "t": "очень холодной воды"
+  },
+  "ing.eau-froide.note": {
+   "fr": "ou des glaçons ; à ajouter petit à petit",
+   "t": "или кубики льда; добавлять понемногу"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.huile-olive.name": {
+   "fr": "huile d'olive vierge extra",
+   "t": "оливковое масло extra virgin"
+  },
+  "ing.paprika.name": {
+   "fr": "paprika",
+   "t": "паприка"
+  },
+  "ing.cumin.name": {
+   "fr": "cumin en poudre",
+   "t": "молотый кумин (зира)"
+  },
+  "ing.cumin.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier, pour le trempage",
+   "t": "Большая миска для замачивания"
+  },
+  "equipment.1": {
+   "fr": "Une grande casserole avec un couvercle",
+   "t": "Большая кастрюля с крышкой"
+  },
+  "equipment.2": {
+   "fr": "Une écumoire",
+   "t": "Шумовка"
+  },
+  "equipment.3": {
+   "fr": "Une passoire",
+   "t": "Дуршлаг"
+  },
+  "equipment.4": {
+   "fr": "Un robot culinaire, ou un mixeur puissant",
+   "t": "Кухонный комбайн или мощный блендер"
+  },
+  "equipment.5": {
+   "fr": "Une spatule souple, pour racler les bords",
+   "t": "Гибкая лопатка, чтобы счищать массу со стенок"
+  },
+  "equipment.6": {
+   "fr": "Une assiette creuse pour servir",
+   "t": "Глубокая тарелка для подачи"
+  },
+  "equipment.7": {
+   "fr": "Une boîte hermétique pour les restes",
+   "t": "Герметичный контейнер для остатков"
+  },
+  "steps.0.title": {
+   "fr": "Rince les pois chiches",
+   "t": "Промойте нут"
+  },
+  "steps.0.text": {
+   "fr": "Rince {{pois-chiches}} de pois chiches secs à l'eau froide, pour enlever la poussière et les petites impuretés.",
+   "t": "Промойте {{pois-chiches:full}} холодной водой, чтобы удалить пыль и мелкий сор."
+  },
+  "steps.1.title": {
+   "fr": "Mets-les à tremper",
+   "t": "Замочите нут"
+  },
+  "steps.1.text": {
+   "fr": "Mets-les dans le grand saladier. Couvre-les d'eau froide, au moins deux fois leur volume, et ajoute {{bicarbonate-trempage}} de bicarbonate. Laisse tremper une nuit, environ 10 heures.",
+   "t": "Положите его в большую миску. Залейте холодной водой — не меньше двойного объёма нута — и добавьте {{bicarbonate-trempage:full}}. Оставьте замачиваться на ночь, примерно на 10 часов."
+  },
+  "steps.1.tip": {
+   "fr": "Ils vont presque doubler de volume : prends un saladier assez grand (recettelibanaise.com ; Chef in Disguise).",
+   "t": "Нут увеличится в объёме почти вдвое: возьмите достаточно большую миску (recettelibanaise.com; Chef in Disguise)."
+  },
+  "steps.2.title": {
+   "fr": "Égoutte et rince",
+   "t": "Слейте воду и промойте"
+  },
+  "steps.2.text": {
+   "fr": "Le lendemain, jette l'eau du trempage. Rince les pois chiches à l'eau froide.",
+   "t": "На следующий день слейте воду, в которой замачивался нут. Промойте нут холодной водой."
+  },
+  "steps.3.title": {
+   "fr": "Porte à ébullition",
+   "t": "Доведите до кипения"
+  },
+  "steps.3.text": {
+   "fr": "Mets-les dans la grande casserole avec {{eau-cuisson}} d'eau fraîche. L'eau doit bien les couvrir. Porte à ébullition sur feu vif.",
+   "t": "Положите нут в большую кастрюлю и залейте {{eau-cuisson:full}}. Вода должна хорошо покрывать нут. Доведите до кипения на сильном огне."
+  },
+  "steps.3.tip": {
+   "fr": "recettelibanaise.com et Chef in Disguise veulent environ 10 cm d'eau au-dessus des pois chiches.",
+   "t": "recettelibanaise.com и Chef in Disguise советуют, чтобы вода покрывала нут примерно на 10 см."
+  },
+  "steps.4.title": {
+   "fr": "Retire la mousse",
+   "t": "Снимите пену"
+  },
+  "steps.4.text": {
+   "fr": "Une mousse blanche monte à la surface : retire-la avec l'écumoire, sans enlever l'eau.",
+   "t": "На поверхности поднимется белая пена: снимите её шумовкой, не зачерпывая воду."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute le bicarbonate",
+   "t": "Добавьте соду"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute {{bicarbonate-cuisson}} de bicarbonate. L'eau mousse de nouveau : écume encore.",
+   "t": "Добавьте {{bicarbonate-cuisson:full}}. Вода снова запенится: ещё раз снимите пену."
+  },
+  "steps.6.title": {
+   "fr": "Laisse frémir 1 heure",
+   "t": "Варите на слабом кипении 1 час"
+  },
+  "steps.6.text": {
+   "fr": "Baisse le feu, couvre et laisse frémir environ 1 heure. Si l'eau baisse trop, ajoute un peu d'eau chaude.",
+   "t": "Убавьте огонь, накройте крышкой и варите на слабом кипении около 1 часа. Если воды станет слишком мало, долейте немного горячей воды."
+  },
+  "steps.6.timer.label": {
+   "fr": "Pois chiches",
+   "t": "Нут"
+  },
+  "steps.6.timer.done": {
+   "fr": "Écrase un pois chiche entre tes doigts : il doit s'écraser très facilement. Sinon, prolonge la cuisson.",
+   "t": "Раздавите одну горошину нута пальцами: она должна раздавливаться очень легко. Если нет, продолжайте варить."
+  },
+  "steps.7.title": {
+   "fr": "Vérifie qu'ils sont très tendres",
+   "t": "Убедитесь, что нут очень мягкий"
+  },
+  "steps.7.text": {
+   "fr": "Les pois chiches doivent être très tendres et presque fondre quand tu les presses. Trop cuits vaut mieux que pas assez : c'est le secret d'un houmous lisse.",
+   "t": "Нут должен быть очень мягким и почти таять, когда вы его сжимаете. Лучше переварить, чем недоварить: в этом секрет гладкого хумуса."
+  },
+  "steps.7.tip": {
+   "fr": "Selon les pois chiches, il faut parfois jusqu'à 2 heures (Hadia's Lebanese Cuisine).",
+   "t": "В зависимости от нута иногда нужно до 2 часов (Hadia's Lebanese Cuisine)."
+  },
+  "steps.8.title": {
+   "fr": "Égoutte",
+   "t": "Откиньте на дуршлаг"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pois chiches dans la passoire. Si tu veux, garde-en une poignée pour décorer.",
+   "t": "Откиньте нут на дуршлаг. По желанию отложите горсть для украшения."
+  },
+  "steps.8.tip": {
+   "fr": "recettelibanaise.com retire aussi les peaux qui flottent sur l'eau avant d'égoutter.",
+   "t": "recettelibanaise.com также убирает всплывшие на поверхность шкурки, прежде чем слить воду."
+  },
+  "steps.9.title": {
+   "fr": "Mixe les pois chiches chauds",
+   "t": "Измельчите горячий нут"
+  },
+  "steps.9.text": {
+   "fr": "Mets les pois chiches encore chauds dans le robot. Mixe jusqu'à obtenir une purée bien lisse. Arrête de temps en temps pour racler les bords avec la spatule.",
+   "t": "Переложите ещё горячий нут в кухонный комбайн. Измельчайте до очень гладкого пюре. Время от времени останавливайте комбайн и счищайте массу со стенок лопаткой."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute l'ail et le sel",
+   "t": "Добавьте чеснок и соль"
+  },
+  "steps.10.text": {
+   "fr": "Épluche l'ail. Mets dans le robot {{ail:full}} et {{sel}} de sel, puis mixe encore.",
+   "t": "Очистите чеснок. Положите в комбайн {{ail:full}} и {{sel:full}}, затем снова измельчите."
+  },
+  "steps.11.title": {
+   "fr": "Verse le tahini",
+   "t": "Влейте тахини"
+  },
+  "steps.11.text": {
+   "fr": "Robot en marche, verse {{tahini}} de tahini en mince filet.",
+   "t": "Не выключая комбайн, влейте тонкой струйкой {{tahini}} тахини."
+  },
+  "steps.12.title": {
+   "fr": "Ajoute le citron",
+   "t": "Добавьте лимонный сок"
+  },
+  "steps.12.text": {
+   "fr": "Ajoute {{citron}} de jus de citron, puis laisse tourner le robot encore quelques minutes.",
+   "t": "Добавьте {{citron:full}}, затем дайте комбайну поработать ещё несколько минут."
+  },
+  "steps.13.title": {
+   "fr": "Allonge et goûte",
+   "t": "Разбавьте и попробуйте"
+  },
+  "steps.13.text": {
+   "fr": "Si le houmous est trop épais, verse petit à petit jusqu'à {{eau-froide}} d'eau très froide, ou mets quelques glaçons, en mixant. Il doit devenir lisse et crémeux. Goûte, et ajoute un peu de sel ou de citron si besoin.",
+   "t": "Если хумус слишком густой, не выключая комбайн, понемногу вливайте до {{eau-froide:full}} или добавьте несколько кубиков льда. Он должен стать гладким и кремовым. Попробуйте и при необходимости добавьте немного соли или лимонного сока."
+  },
+  "steps.13.tip": {
+   "fr": "Les glaçons refroidissent les lames du robot et rendent le houmous plus léger (Hadia's Lebanese Cuisine).",
+   "t": "Кубики льда охлаждают ножи комбайна, и хумус получается более лёгким (Hadia's Lebanese Cuisine)."
+  },
+  "steps.14.title": {
+   "fr": "Dresse et sers",
+   "t": "Выложите и подавайте"
+  },
+  "steps.14.text": {
+   "fr": "Étale le houmous dans l'assiette creuse et fais un creux au centre avec le dos d'une cuillère. Arrose d'un filet d'{{huile-olive}}, saupoudre de {{paprika}} et, si tu veux, de {{cumin}}.",
+   "t": "Распределите хумус по глубокой тарелке и тыльной стороной ложки сделайте углубление в центре. Полейте небольшим количеством оливкового масла extra virgin, посыпьте паприкой и, по желанию, молотым кумином."
+  },
+  "steps.14.tip": {
+   "fr": "Ajoute les pois chiches gardés pour décorer (Hadia's Lebanese Cuisine), ou du persil et des olives noires (recettelibanaise.com).",
+   "t": "Добавьте отложенный для украшения нут (Hadia's Lebanese Cuisine) или петрушку и чёрные оливки (recettelibanaise.com)."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des pois chiches secs, pas en conserve : pour Hadia, ils sont indispensables pour la bonne texture et le goût.",
+   "t": "Берите сухой нут, а не консервированный: по мнению Hadia, он необходим для правильной текстуры и вкуса."
+  },
+  "secrets.0.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Le bicarbonate, dans le trempage puis dans la cuisson, attendrit les pois chiches et défait leur peau : pas besoin de les éplucher.",
+   "t": "Сода — сначала при замачивании, затем при варке — размягчает нут и отделяет его шкурку: очищать его не нужно."
+  },
+  "secrets.1.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen (ils cuisent plus vite) ; Chef in Disguise (les éplucher ne change presque rien)",
+   "t": "Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen (так он быстрее варится); Chef in Disguise (очистка от шкурок почти ничего не меняет)"
+  },
+  "secrets.2.text": {
+   "fr": "Trop cuits vaut mieux que pas assez : des pois chiches qui fondent donnent un houmous crémeux.",
+   "t": "Лучше переварить, чем недоварить: тающий нут даёт кремовый хумус."
+  },
+  "secrets.2.source": {
+   "fr": "recettelibanaise.com ; Hadia's Lebanese Cuisine ; Chef in Disguise",
+   "t": "recettelibanaise.com; Hadia's Lebanese Cuisine и Chef in Disguise"
+  },
+  "secrets.3.text": {
+   "fr": "Mixe les pois chiches encore chauds : la purée ne sera pas granuleuse.",
+   "t": "Измельчайте нут, пока он ещё горячий: пюре не будет зернистым."
+  },
+  "secrets.3.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine и Mama's Lebanese Kitchen"
+  },
+  "secrets.4.text": {
+   "fr": "Verse le tahini en mince filet, robot en marche.",
+   "t": "Вливайте тахини тонкой струйкой, не выключая комбайн."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine и Mama's Lebanese Kitchen"
+  },
+  "secrets.5.text": {
+   "fr": "De l'eau glacée ou des glaçons rendent le houmous plus lisse et plus léger.",
+   "t": "Ледяная вода или кубики льда делают хумус более гладким и лёгким."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; recettelibanaise.com",
+   "t": "Hadia's Lebanese Cuisine и recettelibanaise.com"
+  },
+  "secrets.6.text": {
+   "fr": "Presse le citron toi-même et filtre le jus : la pulpe peut donner de l'amertume avec le temps.",
+   "t": "Выжимайте лимон сами и процеживайте сок: мякоть со временем может дать горечь."
+  },
+  "secrets.6.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Choisis un bon tahini, de préférence libanais : sa qualité fait le goût du houmous.",
+   "t": "Выбирайте хорошую тахини, желательно ливанского производства: от её качества зависит вкус хумуса."
+  },
+  "secrets.7.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.8.text": {
+   "fr": "Si tu sens le goût du bicarbonate, rince les pois chiches cuits et égoutte-les bien avant de les mixer.",
+   "t": "Если чувствуется вкус соды, промойте сваренный нут и дайте ему хорошо стечь, прежде чем измельчать."
+  },
+  "secrets.8.source": {
+   "fr": "Chef in Disguise",
+   "t": "Chef in Disguise"
+  },
+  "secrets.9.text": {
+   "fr": "Si tu le prépares à l'avance, ajoute l'ail au moment de servir : avec le temps, son goût devient plus fort et change.",
+   "t": "Если вы готовите хумус заранее, добавляйте чеснок перед подачей: со временем его вкус становится сильнее и меняется."
+  },
+  "secrets.9.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.10.text": {
+   "fr": "Deux astuces de restaurant, selon Hadia : un peu d'acide citrique pour la couleur claire et le goût acidulé ; et, comme les grands chefs de Beyrouth, un filet d'huile de tournesol à la fin pour un houmous plus soyeux.",
+   "t": "Две ресторанные хитрости, по словам Hadia: немного лимонной кислоты — для светлого цвета и кисловатого вкуса; и, как делают известные шеф-повара Бейрута, немного подсолнечного масла в конце — для более шелковистого хумуса."
+  },
+  "secrets.10.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.11.text": {
+   "fr": "Hadia mixe les pois chiches la veille et met la purée une nuit au frigo. Le lendemain, elle la fouette avec les glaçons, le citron et le tahini.",
+   "t": "Hadia измельчает нут накануне и оставляет пюре на ночь в холодильнике. На следующий день она взбивает его с кубиками льда, лимонным соком и тахини."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine",
+   "t": "Hadia's Lebanese Cuisine"
+  },
+  "secrets.12.text": {
+   "fr": "Mama's Lebanese Kitchen raconte que des chefs libanais ont battu le record Guinness du plus grand plat de houmous, avec plus de 2 tonnes (date non donnée).",
+   "t": "Mama's Lebanese Kitchen рассказывает, что ливанские шеф-повара побили рекорд Guinness за самое большое блюдо хумуса — более 2 тонн (дата не указана)."
+  },
+  "secrets.12.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "mistakes.0": {
+   "fr": "Mixer des pois chiches pas assez cuits ou trop fermes : le houmous reste granuleux (Chef in Disguise ; recettelibanaise.com ; Hadia's Lebanese Cuisine).",
+   "t": "Измельчать недоваренный или слишком твёрдый нут: хумус остаётся зернистым (Chef in Disguise; recettelibanaise.com; Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire les pois chiches dans l'eau du trempage : jette-la et rince-les (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+   "t": "Варить нут в воде, в которой он замачивался: слейте её и промойте нут (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; recettelibanaise.com; Chef in Disguise)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la mousse de cuisson : retire-la à l'écumoire (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+   "t": "Не снимать пену при варке: снимайте её шумовкой (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; recettelibanaise.com; Chef in Disguise)."
+  },
+  "mistakes.3": {
+   "fr": "Verser tout le tahini d'un coup, au lieu d'un mince filet (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+   "t": "Вливать всю тахини сразу, а не тонкой струйкой (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen)."
+  },
+  "mistakes.4": {
+   "fr": "Prendre du jus de citron en bouteille, ou ne pas le filtrer (Hadia's Lebanese Cuisine).",
+   "t": "Брать лимонный сок из бутылки или не процеживать его (Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.5": {
+   "fr": "Mettre le houmous encore chaud au frigo : laisse-le refroidir, puis mets-le au frais dans les 2 heures (FSA).",
+   "t": "Убирать в холодильник ещё горячий хумус: дайте ему остыть, затем уберите в холодильник в течение 2 часов (FSA)."
+  },
+  "variants.0": {
+   "fr": "Version rapide avec des pois chiches en conserve, pour 4 : 250 g de pois chiches en conserve mixés en purée, puis 4 c. à s. de tahini délayé dans 2 c. à s. de jus de citron, 2 gousses d'ail écrasées avec du sel, ½ c. à c. de sel, ½ c. à c. de cumin, et un peu d'eau froide si besoin (recettelibanaise.com). Chef in Disguise trouve le résultat correct mais un peu granuleux ; Hadia refuse la conserve.",
+   "t": "Быстрый вариант с консервированным нутом, на 4 человек: 250 г консервированного нута измельчают в пюре, затем добавляют 4 ст. л. тахини, разведённой в 2 ст. л. лимонного сока, 2 зубчика чеснока, растёртых с солью, ½ ч. л. соли, ½ ч. л. кумина и при необходимости немного холодной воды (recettelibanaise.com). Chef in Disguise считает результат приемлемым, но немного зернистым; Hadia консервированный нут не признаёт."
+  },
+  "variants.1": {
+   "fr": "Petit-déjeuner libanais : houmous servi avec des pois chiches chauds, du cumin, du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+   "t": "Ливанский завтрак: хумус подают с горячим нутом, кумином, фулем, мятой, сырым луком и хлебом (Hadia's Lebanese Cuisine)."
+  },
+  "variants.2": {
+   "fr": "Tahini d'abord : recettelibanaise.com mixe l'ail, le citron, le sel, le cumin et le tahini avec l'eau glacée, puis ajoute les pois chiches.",
+   "t": "Сначала тахини: recettelibanaise.com измельчает чеснок, лимонный сок, соль, кумин и тахини с ледяной водой, а затем добавляет нут."
+  },
+  "variants.3": {
+   "fr": "Façon restaurant : acide citrique, huile de tournesol, et purée reposée une nuit au frigo (Hadia's Lebanese Cuisine).",
+   "t": "Как в ресторане: лимонная кислота, подсолнечное масло и пюре, выдержанное ночь в холодильнике (Hadia's Lebanese Cuisine)."
+  },
+  "variants.4": {
+   "fr": "Autres garnitures : sumac (Hadia's Lebanese Cuisine), ou persil et olives noires (recettelibanaise.com).",
+   "t": "Другие добавки для украшения: сумах (Hadia's Lebanese Cuisine) или петрушка и чёрные оливки (recettelibanaise.com)."
+  },
+  "variants.5": {
+   "fr": "Avec une cuillère de yaourt grec, pour un goût plus acidulé (Chef in Disguise).",
+   "t": "С одной ложкой греческого йогурта — для более кисловатого вкуса (Chef in Disguise)."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  }
+ }
+}

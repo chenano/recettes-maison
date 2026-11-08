@@ -1,0 +1,530 @@
+{
+ "_slug": "tajine-petits-pois-artichauts",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Tajine de viande aux petits pois et aux artichauts",
+   "t": "طاجين اللحم بالجلبانة والقوق"
+  },
+  "darija": {
+   "fr": "Tajine jelbana",
+   "t": "طاجين جلبانة"
+  },
+  "tagline": {
+   "fr": "Une viande fondante au gingembre et au curcuma, des cœurs d'artichauts et des petits pois tendres, et une touche de citron confit.",
+   "t": "لحم طريّ يذوب في الفم بالزنجبيل (سكينجبير) والكركم (الخرقوم)، وقلوب القوق والجلبانة الطرية، ولمسة من الليمون المخلل (الحامض المصيّر)."
+  },
+  "region": {
+   "fr": "Maroc : selon My Moroccan Food, le tajine d'artichauts s'y prépare traditionnellement avec de la viande et des petits pois. Aucune source lue ne le rattache à une région précise.",
+   "t": "المغرب: حسب My Moroccan Food، يُحضَّر طاجين القوق هناك تقليديًا باللحم والجلبانة. ولا يربطه أيّ مصدر من المصادر المقروءة بمنطقة محددة."
+  },
+  "occasion": {
+   "fr": "Plat familial (Rachida) : au Maroc, le tajine est le plat principal du déjeuner de tous les jours (Morocco World News). C'est le tajine du printemps, quand les artichauts et les petits pois frais arrivent au marché (MarocMama) ; Rachida le dit aussi très apprécié pendant le Ramadan, quelques heures après le ftour.",
+   "t": "طبق عائلي (Rachida): في المغرب، الطاجين هو الطبق الرئيسي في غداء كل يوم (Morocco World News). وهو طاجين الربيع، حين يصل القوق الطازج والجلبانة الطازجة إلى السوق (MarocMama)؛ وتقول Rachida أيضًا إنه محبوب جدًا في رمضان، بعد الفطور ببضع ساعات."
+  },
+  "equipment.0": {
+   "fr": "Cocotte à fond épais avec couvercle (ou tajine en terre posé sur un diffuseur de chaleur)",
+   "t": "قدر بقاع سميك وغطاء (أو طاجين من الفخار موضوع فوق موزّع للحرارة)"
+  },
+  "equipment.1": {
+   "fr": "Grand bol, pour l'eau citronnée",
+   "t": "وعاء كبير، لماء الليمون"
+  },
+  "equipment.2": {
+   "fr": "Couteau d'office à lame inox",
+   "t": "سكين تقشير صغير بنصل من الفولاذ المقاوم للصدأ"
+  },
+  "equipment.3": {
+   "fr": "Petite cuillère, pour retirer le foin des artichauts",
+   "t": "ملعقة صغيرة، لإزالة زغب القوق"
+  },
+  "equipment.4": {
+   "fr": "Planche à découper",
+   "t": "لوح التقطيع"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "equipment.6": {
+   "fr": "Plat de service creux",
+   "t": "طبق تقديم عميق"
+  },
+  "steps.0.title": {
+   "fr": "Prépare l'eau citronnée",
+   "t": "حضّر ماء الليمون"
+  },
+  "steps.0.text": {
+   "fr": "Remplis un grand bol d'eau froide. Presse {{citron:full}} et verse le jus dans l'eau. Garde le citron pressé pour frotter les artichauts.",
+   "t": "املأ وعاءً كبيرًا بالماء البارد. اعصر {{citron:full}} واسكب العصير في الماء. احتفظ بالليمون المعصور لتفرك به القوق."
+  },
+  "steps.0.tip": {
+   "fr": "Frotte-toi aussi le bout des doigts avec un peu de citron : tes doigts ne se tacheront pas (Cooking With Alia).",
+   "t": "افرك أطراف أصابعك أيضًا بقليل من الليمون، فلن تتلطّخ أصابعك (Cooking With Alia)."
+  },
+  "steps.1.title": {
+   "fr": "Nettoie les artichauts",
+   "t": "نظّف القوق"
+  },
+  "steps.1.text": {
+   "fr": "Avec un couteau à lame inox, retire les feuilles dures de {{artichauts:full}}, puis les feuilles tendres, jusqu'au cœur. Coupe la tige au ras du fond et pare le contour pour ne laisser aucun reste de feuille. Retire le foin avec une petite cuillère. Frotte chaque fond avec un morceau de citron et plonge-le aussitôt dans l'eau citronnée.",
+   "t": "بسكين ذي نصل من الفولاذ المقاوم للصدأ، انزع الأوراق القاسية من {{artichauts:full}}، ثم الأوراق الطرية، حتى تصل إلى القلب. اقطع الساق بمحاذاة القاعدة تمامًا، وشذّب المحيط حتى لا يبقى أيّ أثر للأوراق. أزل الزغب بملعقة صغيرة. افرك كل قلب بقطعة ليمون، ثم اغمره فورًا في ماء الليمون."
+  },
+  "steps.1.tip": {
+   "fr": "Avec des fonds d'artichauts surgelés, saute cette étape : laisse-les au congélateur jusqu'au moment de les cuire (Rachida).",
+   "t": "إذا استعملت قلوب القوق المجمّدة، فتجاوز هذه الخطوة: اتركها في المجمّد حتى وقت طهيها (Rachida)."
+  },
+  "steps.2.title": {
+   "fr": "Hache oignon, ail et herbes",
+   "t": "افرم البصل والثوم والأعشاب"
+  },
+  "steps.2.text": {
+   "fr": "Hache finement {{oignon:full}}. Écrase ou râpe {{ail:full}}. Hache la coriandre et le persil : il en faut {{herbes}}, plus un peu pour servir.",
+   "t": "افرم {{oignon:full}} فرمًا ناعمًا. اهرس الثوم ({{ail}}) أو ابشره. افرم الكزبرة والبقدونس: تحتاج إلى {{herbes}} منهما، وقليلًا إضافيًا للتقديم."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir la viande dans les épices",
+   "t": "شوّح اللحم مع التوابل"
+  },
+  "steps.3.text": {
+   "fr": "Dans une cocotte à fond épais, mets {{viande}} de viande en gros morceaux, l'oignon, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran si tu en mets, et les herbes hachées. Mélange bien pour que la viande s'imprègne des épices. Couvre et laisse revenir 10 minutes à feu doux, en remuant souvent.",
+   "t": "في قدر بقاع سميك، ضع {{viande}} من اللحم المقطّع قطعًا كبيرة، والبصل، والثوم، و{{huile}} من زيت الزيتون. أضف {{gingembre}} من الزنجبيل، و{{curcuma}} من الكركم، و{{poivre}} من الفلفل، و{{sel}} من الملح، و{{safran}} من الزعفران إن كنت تستعمله، والأعشاب المفرومة. اخلط جيدًا حتى يتشرّب اللحم التوابل. غطِّ القدر واتركه يتشوّح 10 دقائق على نار هادئة، مع التحريك مرارًا."
+  },
+  "steps.3.timer.label": {
+   "fr": "Viande revenue",
+   "t": "تشويح اللحم"
+  },
+  "steps.3.timer.done": {
+   "fr": "La viande s'est imprégnée des épices : verse l'eau.",
+   "t": "تشرّب اللحم التوابل: اسكب الماء."
+  },
+  "steps.4.title": {
+   "fr": "Mouille et laisse mijoter 1 heure",
+   "t": "أضف الماء واترك اللحم يُطهى على نار هادئة ساعة"
+  },
+  "steps.4.text": {
+   "fr": "Verse {{eau}} d'eau : la viande doit être juste couverte, complète un peu si besoin. Porte à ébullition, couvre et baisse le feu. Laisse mijoter 1 heure à feu doux, en remuant de temps en temps. Si la sauce baisse trop, ajoute un peu d'eau.",
+   "t": "اسكب {{eau}} من الماء: يجب أن يغمر الماء اللحم بالكاد، فأضف قليلًا عند الحاجة. اتركه حتى يغلي، ثم غطِّ القدر وخفّف النار. اتركه يُطهى ساعة على نار هادئة، مع التحريك من حين لآخر. إذا نقص المرق كثيرًا، فأضف قليلًا من الماء."
+  },
+  "steps.4.timer.label": {
+   "fr": "Mijotage de la viande",
+   "t": "طهي اللحم على نار هادئة"
+  },
+  "steps.4.timer.done": {
+   "fr": "Pique un morceau avec la pointe d'un couteau : elle doit entrer facilement. Sinon, prolonge un peu la cuisson.",
+   "t": "اغرز رأس سكين في قطعة لحم: يجب أن يدخل بسهولة. وإلا، فأطِل الطهي قليلًا."
+  },
+  "steps.5.title": {
+   "fr": "Prépare le citron confit et les olives",
+   "t": "حضّر الليمون المخلل والزيتون"
+  },
+  "steps.5.text": {
+   "fr": "Pendant que la viande mijote, rince {{citron-confit:full}} pour enlever un peu de sel. Retire la pulpe et coupe l'écorce en fines lanières. Garde à portée de main {{olives}} d'olives violettes, si tu en mets.",
+   "t": "بينما يُطهى اللحم على نار هادئة، اشطف {{citron-confit:full}} لتزيل بعض الملح. أزل اللب وقطّع القشرة شرائح رفيعة. واجعل {{olives}} من الزيتون البنفسجي في متناول يدك، إن كنت تستعمله."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute les artichauts et les petits pois frais",
+   "t": "أضف القوق والجلبانة الطازجة"
+  },
+  "steps.6.text": {
+   "fr": "Égoutte les fonds d'artichauts et rince-les. Pose-les sur la viande avec {{petits-pois}} de petits pois, s'ils sont frais. Si tes légumes sont surgelés, mets les fonds d'artichauts maintenant, sans les décongeler, et garde les petits pois pour l'étape suivante. La sauce doit couvrir les légumes à moitié : ajoute un peu d'eau si besoin. Couvre et laisse cuire 10 minutes à feu doux.",
+   "t": "صفِّ قلوب القوق واشطفها. ضعها فوق اللحم مع {{petits-pois}} من الجلبانة، إن كانت طازجة. إذا كانت خضرك مجمّدة، فضع قلوب القوق الآن دون أن تذوّبها، واحتفظ بالجلبانة للخطوة التالية. يجب أن يغطي المرق الخضر حتى منتصفها: أضف قليلًا من الماء عند الحاجة. غطِّ القدر واتركه يُطهى 10 دقائق على نار هادئة."
+  },
+  "steps.6.timer.label": {
+   "fr": "Artichauts à couvert",
+   "t": "القوق تحت الغطاء"
+  },
+  "steps.6.timer.done": {
+   "fr": "Ajoute maintenant les petits pois s'ils sont surgelés, puis le citron confit et les olives.",
+   "t": "أضف الآن الجلبانة إن كانت مجمّدة، ثم الليمون المخلل والزيتون."
+  },
+  "steps.7.title": {
+   "fr": "Termine à découvert",
+   "t": "أكمل الطهي دون غطاء"
+  },
+  "steps.7.text": {
+   "fr": "Si tes petits pois sont surgelés, ajoute-les maintenant, sans les décongeler. Ajoute les lanières de citron confit et les olives. Laisse cuire 10 minutes à découvert, à feu doux. C'est prêt quand les artichauts sont tendres sous la pointe d'un couteau et que la sauce a réduit.",
+   "t": "إذا كانت الجلبانة مجمّدة، فأضفها الآن دون أن تذوّبها. أضف شرائح الليمون المخلل والزيتون. اتركه يُطهى 10 دقائق دون غطاء على نار هادئة. يكون الطاجين جاهزًا حين يصبح القوق طريًّا عند غرز رأس السكين فيه، وينقص المرق."
+  },
+  "steps.7.timer.label": {
+   "fr": "Fin de cuisson",
+   "t": "نهاية الطهي"
+  },
+  "steps.7.timer.done": {
+   "fr": "Artichauts tendres et sauce réduite ? Sinon, prolonge de quelques minutes.",
+   "t": "هل أصبح القوق طريًّا ونقص المرق؟ وإلا، فأطِل الطهي بضع دقائق."
+  },
+  "steps.8.title": {
+   "fr": "Goûte et rectifie",
+   "t": "تذوّق وعدّل التتبيل"
+  },
+  "steps.8.text": {
+   "fr": "Goûte la sauce et rectifie le sel et le poivre. Elle doit être onctueuse, juste assez abondante pour napper : si elle est encore trop liquide, laisse-la réduire quelques minutes de plus à découvert.",
+   "t": "تذوّق المرق وعدّل الملح والفلفل. يجب أن يكون كثيفًا ناعم القوام، وبكمية تكفي بالكاد لتغطية المكونات: إذا كان لا يزال سائلًا جدًا، فاتركه ينقص بضع دقائق أخرى دون غطاء."
+  },
+  "steps.9.title": {
+   "fr": "Dresse le tajine",
+   "t": "رتّب الطاجين في طبق التقديم"
+  },
+  "steps.9.text": {
+   "fr": "Retire délicatement les fonds d'artichauts. Mets la viande au centre du plat et verse les petits pois dessus. Décore avec les fonds d'artichauts, bien en vue. Nappe de sauce, ajoute le citron confit et les olives, puis parsème de {{herbes-service}}.",
+   "t": "أخرج قلوب القوق برفق. ضع اللحم في وسط الطبق واسكب الجلبانة فوقه. زيّنه بقلوب القوق بحيث تكون ظاهرة جيدًا. اسكب عليه المرق، وأضف الليمون المخلل والزيتون، ثم رشّ عليه الكزبرة والبقدونس المفرومين."
+  },
+  "steps.10.title": {
+   "fr": "Sers bien chaud",
+   "t": "قدّمه ساخنًا جدًا"
+  },
+  "steps.10.text": {
+   "fr": "Sers aussitôt, bien chaud, avec du {{khobz}} pour saucer.",
+   "t": "قدّمه فورًا وهو ساخن جدًا، مع {{khobz}} للتغميس في المرق."
+  },
+  "secrets.0.text": {
+   "fr": "La chair de l'artichaut noircit au contact de l'air : épluche-le avec un couteau à lame inox et plonge aussitôt les fonds dans de l'eau citronnée.",
+   "t": "يسودّ لبّ القوق عند تعرّضه للهواء: قشّره بسكين ذي نصل من الفولاذ المقاوم للصدأ، واغمر القلوب فورًا في ماء الليمون."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha, astuce « Autour de l'artichaut » ; Rachida ; Morocco World News ; Lalla Moulati",
+   "t": "Choumicha، نصيحة « Autour de l'artichaut »؛ Rachida؛ Morocco World News؛ Lalla Moulati"
+  },
+  "secrets.1.text": {
+   "fr": "Choisis des artichauts compacts, lourds dans la main, fermes et bien verts, aux feuilles serrées. Des feuilles ouvertes annoncent un artichaut trop mûr, dur, avec beaucoup de foin.",
+   "t": "اختر قوقًا متماسكًا، ثقيلًا في اليد، صلبًا وشديد الخضرة، بأوراق متلاصقة. الأوراق المتفتحة تدلّ على قوق ناضج أكثر من اللازم، قاسٍ، وكثير الزغب."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha, « L'artichaut, un cœur tendre »",
+   "t": "Choumicha، « L'artichaut, un cœur tendre »"
+  },
+  "secrets.2.text": {
+   "fr": "Pour les petits pois frais, prends des cosses fermes, d'un vert intense, sans taches, et évite les pois jaunes. Non écossés, ils se gardent deux jours dans le bac à légumes du réfrigérateur.",
+   "t": "للجلبانة الطازجة، اختر قرونًا صلبة، شديدة الخضرة، بلا بقع، وتجنّب الحبات الصفراء. تُحفظ الجلبانة غير المقشّرة يومين في درج الخضر بالثلاجة."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha, « Les petits pois, une saveur pleine de douceur »",
+   "t": "Choumicha، « Les petits pois, une saveur pleine de douceur »"
+  },
+  "img_alt": {
+   "fr": "Tajine de bœuf aux petits pois et au citron confit, servi sur de la semoule (photo d'une version sans artichauts)",
+   "t": "طاجين لحم البقر بالجلبانة والليمون المخلل، مقدَّم على السميد (صورة لنسخة بلا قوق)"
+  },
+  "serving": {
+   "fr": "Bien chaud (Choumicha) et aussitôt (Cooking With Alia) : la viande au centre, les petits pois dessus, les fonds d'artichauts en décor et la sauce autour (Rachida ; Bladi.net ; Cooking With Alia). Au Maroc, le tajine est le plat principal du déjeuner, mangé avec du pain maison (Morocco World News). Rachida le sert avec du pain maison ou du matlou3 ; Cooking With Alia avec du pain marocain ou une baguette ; My Moroccan Food sert sa version végétale avec du couscous ou du pain.",
+   "t": "ساخنًا جدًا (Choumicha) وفورًا (Cooking With Alia): اللحم في الوسط، والجلبانة فوقه، وقلوب القوق للتزيين، والمرق حوله (Rachida؛ Bladi.net؛ Cooking With Alia). في المغرب، الطاجين هو الطبق الرئيسي في الغداء، ويؤكل مع خبز الدار (Morocco World News). تقدّمه Rachida مع خبز الدار أو المطلوع (matlou3)؛ وCooking With Alia مع الخبز المغربي أو الباغيت؛ وتقدّم My Moroccan Food نسختها النباتية مع الكسكس أو الخبز."
+  },
+  "ing.0.group": {
+   "fr": "Viande et sauce",
+   "t": "اللحم والمرق"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de veau halal (épaule, collier ou gigot, avec os)",
+   "t": "لحم خروف أو عجل حلال (كتف أو رقبة أو فخذ، بالعظم)"
+  },
+  "ing.viande.note": {
+   "fr": "en gros morceaux",
+   "t": "مقطّع قطعًا كبيرة"
+  },
+  "secrets.3.text": {
+   "fr": "Avec des surgelés, sors les fonds d'artichauts et les petits pois du congélateur juste avant de les mettre dans la cocotte, sans les décongeler. S'ils ne sont pas lavés, rince-les vite dans une passoire.",
+   "t": "مع الخضر المجمّدة، أخرج قلوب القوق والجلبانة من المجمّد قبيل وضعها في القدر مباشرة، دون أن تذوّبها. وإذا لم تكن مغسولة، فاشطفها بسرعة في مصفاة."
+  },
+  "secrets.3.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida)",
+   "t": "Rachida (Gâteau et cuisine Rachida)"
+  },
+  "secrets.4.text": {
+   "fr": "Les petits pois cuisent vite : une dizaine de minutes suffit. Avec des surgelés, ajoute-les seulement pour les 10 dernières minutes.",
+   "t": "تنضج الجلبانة بسرعة: تكفيها عشر دقائق تقريبًا. وإذا كانت مجمّدة، فلا تضفها إلا في آخر 10 دقائق."
+  },
+  "secrets.4.source": {
+   "fr": "MarocMama (petits pois frais ou surgelés ajoutés dans les 10 dernières minutes, au tajine) ; Bladi.net, Said A. (petits pois cuits 10 minutes)",
+   "t": "MarocMama (جلبانة طازجة أو مجمّدة تُضاف في آخر 10 دقائق، في الطاجين)؛ Bladi.net، Said A. (جلبانة مطهوّة 10 دقائق)"
+  },
+  "secrets.5.text": {
+   "fr": "Les petits pois surgelés peuvent contenir des bactéries : ils doivent toujours être bien cuits avant d'être mangés.",
+   "t": "قد تحتوي الجلبانة المجمّدة على بكتيريا: يجب دائمًا طهيها جيدًا قبل أكلها."
+  },
+  "secrets.5.source": {
+   "fr": "Food Standards Agency (Royaume-Uni), « Cooking your food »",
+   "t": "Food Standards Agency (المملكة المتحدة)، « Cooking your food »"
+  },
+  "secrets.6.text": {
+   "fr": "Pas besoin de beaucoup d'épices : gingembre, curcuma et poivre laissent toute la place au goût de la viande, des artichauts et des petits pois.",
+   "t": "لا حاجة إلى كثير من التوابل: الزنجبيل والكركم والفلفل تترك المجال كاملًا لنكهة اللحم والقوق والجلبانة."
+  },
+  "secrets.6.source": {
+   "fr": "Rachida ; mêmes épices de base chez Morocco World News, Cooking With Alia et Lalla Moulati",
+   "t": "Rachida؛ والتوابل الأساسية نفسها عند Morocco World News وCooking With Alia وLalla Moulati"
+  },
+  "secrets.7.text": {
+   "fr": "Les légumes cuisent posés sur la viande : chez Lalla Moulati, d'abord les petits pois, puis les artichauts par-dessus.",
+   "t": "تُطهى الخضر موضوعة فوق اللحم: عند Lalla Moulati، توضع الجلبانة أولًا، ثم القوق فوقها."
+  },
+  "secrets.7.source": {
+   "fr": "Lalla Moulati ; Morocco World News (artichauts et petits pois posés sur le dessus)",
+   "t": "Lalla Moulati؛ Morocco World News (القوق والجلبانة موضوعان في الأعلى)"
+  },
+  "secrets.8.text": {
+   "fr": "Rince le citron confit pour enlever un peu de sel et garde seulement l'écorce, en fines lanières.",
+   "t": "اشطف الليمون المخلل لتزيل بعض الملح، واحتفظ بالقشرة فقط، مقطّعة شرائح رفيعة."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia (n° 128 et n° 437) ; Bladi.net (écorce) ; My Moroccan Food (pulpe jetée)",
+   "t": "Cooking With Alia (رقم 128 ورقم 437)؛ Bladi.net (القشرة)؛ My Moroccan Food (اللب يُرمى)"
+  },
+  "secrets.9.text": {
+   "fr": "La sauce doit finir onctueuse et assez réduite : il en reste juste de quoi napper la viande et les légumes.",
+   "t": "يجب أن يصبح المرق في النهاية كثيفًا ناعم القوام وناقصًا بما يكفي: لا يبقى منه إلا ما يكفي لتغطية اللحم والخضر."
+  },
+  "secrets.9.source": {
+   "fr": "Rachida ; MarocMama (sauce épaisse) ; Choumicha (cuisson jusqu'à réduction de la sauce)",
+   "t": "Rachida؛ MarocMama (مرق كثيف)؛ Choumicha (الطهي حتى ينقص المرق)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour la présentation, mets la viande au centre, les petits pois dessus et les fonds d'artichauts bien en vue.",
+   "t": "عند التقديم، ضع اللحم في الوسط، والجلبانة فوقه، وقلوب القوق ظاهرة جيدًا."
+  },
+  "secrets.10.source": {
+   "fr": "Rachida ; Bladi.net ; Cooking With Alia",
+   "t": "Rachida؛ Bladi.net؛ Cooking With Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Au tajine en terre, Lalla Moulati étale des rondelles d'oignon au fond et pose la viande dessus : elle n'attache pas, et l'oignon qui confit parfume le plat.",
+   "t": "في طاجين الفخار، تفرش Lalla Moulati حلقات البصل في القاع وتضع اللحم فوقها: فلا يلتصق اللحم، والبصل الذي يذبل ببطء يعطّر الطبق."
+  },
+  "secrets.11.source": {
+   "fr": "Lalla Moulati",
+   "t": "Lalla Moulati"
+  },
+  "secrets.12.text": {
+   "fr": "Tajine en terre : utilise un diffuseur de chaleur sur le gaz ou l'électrique, et commence à feu très doux. Une fois cuit, ne le pose jamais sur une surface froide comme le marbre ou le granit : il pourrait se fendre. Pose-le sur une planche en bois.",
+   "t": "طاجين الفخار: استعمل موزّعًا للحرارة على موقد الغاز أو الموقد الكهربائي، وابدأ على نار هادئة جدًا. بعد انتهاء الطهي، لا تضعه أبدًا على سطح بارد كالرخام أو الغرانيت: فقد يتشقّق. ضعه على لوح خشبي."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food, « Introduction to the Tagine Pot »",
+   "t": "My Moroccan Food، « Introduction to the Tagine Pot »"
+  },
+  "secrets.13.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte couverte, et à manger dans les 48 heures. Réchauffe-les une seule fois, en remuant, jusqu'à ce qu'ils soient bien fumants partout.",
+   "t": "البقايا: ضعها في الثلاجة خلال ساعتين، في علبة مغطّاة، وتناولها خلال 48 ساعة. أعد تسخينها مرة واحدة فقط، مع التحريك، حتى يتصاعد منها البخار بقوة في كل أجزائها."
+  },
+  "secrets.13.source": {
+   "fr": "Food Standards Agency (Royaume-Uni) ; FDA (règle des 2 heures)",
+   "t": "Food Standards Agency (المملكة المتحدة)؛ FDA (قاعدة الساعتين)"
+  },
+  "mistakes.0": {
+   "fr": "Laisser les fonds d'artichauts à l'air : ils noircissent (Choumicha ; Rachida).",
+   "t": "ترك قلوب القوق معرّضة للهواء: فهي تسودّ (Choumicha؛ Rachida)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser la sauce attacher : surveille le niveau d'eau et ajoutes-en un peu si besoin (Bladi.net ; Morocco World News ; Rachida ; MarocMama).",
+   "t": "ترك المرق يلتصق بالقاع: راقب مستوى الماء وأضف قليلًا منه عند الحاجة (Bladi.net؛ Morocco World News؛ Rachida؛ MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de rincer le citron confit : il est très salé (Cooking With Alia).",
+   "t": "نسيان شطف الليمون المخلل: فهو مالح جدًا (Cooking With Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Servir sans goûter : rectifie le sel et le poivre à la fin (Cooking With Alia).",
+   "t": "التقديم دون تذوّق: عدّل الملح والفلفل في النهاية (Cooking With Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Avec la variante à la cocotte-minute : l'ouvrir avant que toute la vapeur soit sortie (Rachida ; Cooking With Alia).",
+   "t": "في طريقة طنجرة الضغط: فتحها قبل أن يخرج البخار كله (Rachida؛ Cooking With Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Poser un tajine en terre sur le feu sans diffuseur, ou le poser chaud sur un plan de travail froid (My Moroccan Food).",
+   "t": "وضع طاجين الفخار على النار دون موزّع للحرارة، أو وضعه ساخنًا على سطح عمل بارد (My Moroccan Food)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (Food Standards Agency ; FDA).",
+   "t": "ترك البقايا أكثر من ساعتين في درجة حرارة الغرفة (Food Standards Agency؛ FDA)."
+  },
+  "variants.0": {
+   "fr": "Au tajine en terre (Lalla Moulati) : sur un diffuseur, fais revenir la viande avec un oignon émincé, l'ail, les épices, les herbes et l'huile. Retire-la, étale des rondelles d'oignon au fond, remets la viande dessus, puis les petits pois et les artichauts. Verse un verre d'eau mélangé à un peu de toutes les épices, ajoute un filet d'huile d'olive, ferme et laisse cuire doucement, sur la braise ou au gaz. Morocco World News compte environ 1 heure de cuisson au tajine ; MarocMama compte environ 2 heures et ajoute les petits pois dans les 10 dernières minutes.",
+   "t": "في طاجين الفخار (Lalla Moulati): فوق موزّع للحرارة، شوّح اللحم مع بصلة مقطّعة شرائح رفيعة، والثوم، والتوابل، والأعشاب، والزيت. أخرجه، وافرش حلقات البصل في القاع، وأعد اللحم فوقها، ثم الجلبانة والقوق. اسكب كأس ماء ممزوجًا بقليل من كل التوابل، وأضف خيطًا رفيعًا من زيت الزيتون، وأغلق الطاجين واتركه يُطهى ببطء على الجمر أو على الغاز. يحسب Morocco World News نحو ساعة من الطهي في الطاجين؛ وتحسب MarocMama نحو ساعتين وتضيف الجلبانة في آخر 10 دقائق."
+  },
+  "variants.1": {
+   "fr": "À la cocotte-minute : la viande d'abord, 20 à 30 minutes à partir du sifflement (Bladi.net 20 ; Rachida 25 ; MarocMama et Cooking With Alia 30), puis les légumes, 10 à 30 minutes (Rachida 10 ; MarocMama 15 ; Bladi.net 20 ; Cooking With Alia 30). N'ouvre qu'une fois toute la vapeur sortie (Rachida ; Cooking With Alia).",
+   "t": "في طنجرة الضغط: اللحم أولًا، من 20 إلى 30 دقيقة ابتداءً من الصفير (Bladi.net 20؛ Rachida 25؛ MarocMama وCooking With Alia 30)، ثم الخضر، من 10 إلى 30 دقيقة (Rachida 10؛ MarocMama 15؛ Bladi.net 20؛ Cooking With Alia 30). لا تفتحها إلا بعد خروج البخار كله (Rachida؛ Cooking With Alia)."
+  },
+  "variants.2": {
+   "fr": "Viande gardée au chaud (Choumicha, tajine de veau aux cardons et aux artichauts) : quand la viande est tendre, sors-la et couvre-la. Cuis les légumes 15 à 20 minutes à couvert dans la sauce avec le citron confit, puis ajoute les olives et l'huile d'olive pour 10 minutes. Remets la viande au moment de servir, dans un plat chaud.",
+   "t": "لحم يُحفظ ساخنًا (Choumicha، طاجين لحم العجل بالخرشف والقوق): عندما يصبح اللحم طريًّا، أخرجه وغطّه. اطهُ الخضر من 15 إلى 20 دقيقة في المرق مع الليمون المخلل والقدر مغطّى، ثم أضف الزيتون وزيت الزيتون لمدة 10 دقائق. أعد اللحم عند التقديم، في طبق ساخن."
+  },
+  "variants.3": {
+   "fr": "Légumes cuits à part (Bladi.net, Said A.) : fonds d'artichauts cuits 15 à 20 minutes dans de l'eau bouillante salée avec un peu de sauce de la viande, petits pois cuits 10 minutes à l'eau, puis réunis avec la viande. Cooking With Alia (n° 128) fait cuire ses artichauts entiers dans de l'eau citronnée avant de les nettoyer.",
+   "t": "خضر تُطهى على حدة (Bladi.net، Said A.): قلوب القوق تُطهى من 15 إلى 20 دقيقة في ماء مغلي مملّح مع قليل من مرق اللحم، والجلبانة تُطهى 10 دقائق في الماء، ثم تُجمع مع اللحم. أما Cooking With Alia (رقم 128) فتطهو حبات القوق كاملة في ماء الليمون قبل تنظيفها."
+  },
+  "variants.4": {
+   "fr": "Avec des fèves fraîches, à la place des petits pois (Bladi.net, Said A.) ou en plus (Lalla Moulati, 2016).",
+   "t": "بالفول الطازج، بدلًا من الجلبانة (Bladi.net، Said A.) أو إضافةً إليها (Lalla Moulati، 2016)."
+  },
+  "variants.5": {
+   "fr": "Avec deux pommes de terre coupées en longueur (Lalla Moulati, 2020), ou une carotte (MarocMama).",
+   "t": "بحبتين من البطاطا مقطّعتين طولًا (Lalla Moulati، 2020)، أو بجزرة (MarocMama)."
+  },
+  "variants.6": {
+   "fr": "Avec une tomate hachée, cuite avec l'oignon et les épices (Rachida ; Lalla Moulati, 2016).",
+   "t": "بحبة طماطم مفرومة، تُطهى مع البصل والتوابل (Rachida؛ Lalla Moulati، 2016)."
+  },
+  "variants.7": {
+   "fr": "Une pointe de cannelle (Rachida), ou une cuillère à café de coriandre moulue (Cooking With Alia, n° 861).",
+   "t": "قليل جدًا من القرفة (Rachida)، أو ملعقة صغيرة من الكزبرة المطحونة (Cooking With Alia، رقم 861)."
+  },
+  "variants.8": {
+   "fr": "Petits pois et artichauts surgelés trempés quelques minutes dans de l'eau tiède avant la cuisson, pour qu'ils arrivent à température ambiante (MarocMama).",
+   "t": "جلبانة وقوق مجمّدان يُنقعان بضع دقائق في ماء فاتر قبل الطهي، حتى يصلا إلى درجة حرارة الغرفة (MarocMama)."
+  },
+  "variants.9": {
+   "fr": "Version végétale (My Moroccan Food) : sans viande, avec des petites pommes de terre et un bouillon de légumes ; les petits pois ne cuisent que 3 à 4 minutes à la fin.",
+   "t": "نسخة نباتية (My Moroccan Food): بلا لحم، مع حبات بطاطا صغيرة ومرق خضر؛ ولا تُطهى الجلبانة إلا من 3 إلى 4 دقائق في النهاية."
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher finement",
+   "t": "تُفرم فرمًا ناعمًا"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser ou à râper",
+   "t": "يُهرس أو يُبشر"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "يُعدَّل في النهاية"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "خيوط زعفران"
+  },
+  "ing.safran.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "كزبرة وبقدونس طازجين مفرومين"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.eau.note": {
+   "fr": "juste de quoi couvrir la viande",
+   "t": "بالقدر الذي يغطي اللحم فقط"
+  },
+  "ing.1.group": {
+   "fr": "Légumes",
+   "t": "الخضر"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron.note": {
+   "fr": "pour l'eau citronnée des artichauts",
+   "t": "لماء الليمون الخاص بالقوق"
+  },
+  "ing.artichauts.name": {
+   "fr": "artichaut frais",
+   "t": "حبة قوق طازجة"
+  },
+  "ing.artichauts.pl": {
+   "fr": "artichauts frais",
+   "t": "حبات قوق طازجة"
+  },
+  "ing.artichauts.note": {
+   "fr": "ou le même nombre de fonds d'artichauts surgelés (6 fonds pèsent environ 350 g)",
+   "t": "أو العدد نفسه من قلوب القوق المجمّدة (6 قلوب تزن نحو 350 غ)"
+  },
+  "ing.petits-pois.name": {
+   "fr": "de petits pois écossés, frais ou surgelés",
+   "t": "جلبانة مقشّرة، طازجة أو مجمّدة"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "اللمسات الأخيرة والتقديم"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "ليمونة مخللة"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "ليمونات مخللة"
+  },
+  "ing.citron-confit.note": {
+   "fr": "l'écorce seulement",
+   "t": "القشرة فقط"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives violettes",
+   "t": "زيتون بنفسجي"
+  },
+  "ing.olives.note": {
+   "fr": "facultatives",
+   "t": "اختياري"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre et persil hachés",
+   "t": "كزبرة وبقدونس مفرومان"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour servir",
+   "t": "للتقديم"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "للتغميس في المرق"
+  }
+ }
+}

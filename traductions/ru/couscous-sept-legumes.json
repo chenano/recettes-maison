@@ -39,16 +39,12 @@
    "t": "оливкового или растительного масла"
   },
   "ing.oignon.name": {
-   "fr": "gros oignon (environ 200 g)",
-   "t": "крупная луковица (около 200 г)"
+   "fr": "gros oignon",
+   "t": "луковица крупного размера"
   },
   "ing.oignon.pl": {
-   "fr": "gros oignons (environ 200 g chacun)",
-   "t": "крупные луковицы (около 200 г каждая)"
-  },
-  "ing.oignon.pl5": {
-   "fr": "gros oignon (environ 200 g) / gros oignons (environ 200 g chacun)",
-   "t": "крупных луковиц (около 200 г каждая)"
+   "fr": "gros oignons",
+   "t": "луковицы крупного размера"
   },
   "ing.tomates-rapees.name": {
    "fr": "tomate mûre",
@@ -57,10 +53,6 @@
   "ing.tomates-rapees.pl": {
    "fr": "tomates mûres",
    "t": "спелых помидора"
-  },
-  "ing.tomates-rapees.pl5": {
-   "fr": "tomate mûre / tomates mûres",
-   "t": "спелых помидоров"
   },
   "ing.gingembre.name": {
    "fr": "de gingembre moulu",
@@ -120,27 +112,19 @@
   },
   "ing.petits-oignons.name": {
    "fr": "petit oignon",
-   "t": "маленькая луковица"
+   "t": "луковица небольшого размера"
   },
   "ing.petits-oignons.pl": {
    "fr": "petits oignons",
-   "t": "маленькие луковицы"
-  },
-  "ing.petits-oignons.pl5": {
-   "fr": "petit oignon / petits oignons",
-   "t": "маленьких луковиц"
+   "t": "луковицы небольшого размера"
   },
   "ing.tomates-quartiers.name": {
    "fr": "petite tomate",
-   "t": "небольшой помидор"
+   "t": "помидор небольшого размера"
   },
   "ing.tomates-quartiers.pl": {
    "fr": "petites tomates",
-   "t": "небольших помидора"
-  },
-  "ing.tomates-quartiers.pl5": {
-   "fr": "petite tomate / petites tomates",
-   "t": "небольших помидоров"
+   "t": "помидора небольшого размера"
   },
   "ing.carottes.name": {
    "fr": "de carottes",
@@ -160,15 +144,11 @@
   },
   "ing.piments.name": {
    "fr": "piment vert",
-   "t": "зелёный острый перец"
+   "t": "стручок зелёного острого перца"
   },
   "ing.piments.pl": {
    "fr": "piments verts",
-   "t": "зелёных острых перца"
-  },
-  "ing.piments.pl5": {
-   "fr": "piment vert / piments verts",
-   "t": "зелёных острых перцев"
+   "t": "стручка зелёного острого перца"
   },
   "ing.piments.note": {
    "fr": "facultatif",
@@ -540,7 +520,7 @@
   },
   "secrets.11.text": {
    "fr": "Les légumes entrent par ordre de dureté pour être prêts ensemble : courge et courgettes en dernier, car une fois cuites elles deviennent très fragiles.",
-   "t": "Овощи закладывают по степени твёрдости, чтобы они были готовы одновременно: тыкву и кабачки — в последнюю очередь, потому что после варки они становятся очень хрупкими."
+   "t": "Овощи закладывают по степени твёрдости, чтобы они были готовы одновременно: тыкву и кабачки — в последнюю очередь, потому что после варки они становятся очень нежными и легко разваливаются."
   },
   "secrets.11.source": {
    "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
@@ -608,7 +588,7 @@
   },
   "mistakes.7": {
    "fr": "Mettre tous les légumes en même temps : courge et courgettes, très fragiles une fois cuites, se défont.",
-   "t": "Закладывать все овощи одновременно: тыква и кабачки, очень хрупкие после варки, разваливаются."
+   "t": "Закладывать все овощи одновременно: тыква и кабачки, очень нежные после варки, разваливаются."
   },
   "mistakes.8": {
    "fr": "Couper la viande en petits morceaux : ils rapetissent et se perdent dans le bouillon.",
@@ -632,7 +612,7 @@
   },
   "variants.3": {
    "fr": "Smen sur la graine chaude au lieu du bouillon (Couscous Dari ; My Moroccan Food).",
-   "t": "Смен на горячую крупу вместо бульона (Couscous Dari; My Moroccan Food)."
+   "t": "Смен кладут на горячую крупу, а не в бульон (Couscous Dari; My Moroccan Food)."
   },
   "variants.4": {
    "fr": "Deuxième bouquet persil-coriandre ajouté avec les légumes tendres (Couscous Dari).",
@@ -653,6 +633,30 @@
   "variants.8": {
    "fr": "Version palace du chef Karim Benbaba (Royal Mansour) : chaque légume cuit à part dans un bouillon de légumes filtré, puis dressé en alternant les couleurs.",
    "t": "Версия роскошного отеля от шефа Karim Benbaba (Royal Mansour): каждый овощ варят отдельно в процеженном овощном бульоне, а затем выкладывают, чередуя цвета."
+  },
+  "ing.oignon.note": {
+   "fr": "environ 200 g pièce",
+   "t": "около 200 г каждая"
+  },
+  "ing.oignon.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.tomates-rapees.pl5": {
+   "fr": "tomate mûre / tomates mûres",
+   "t": "спелых помидоров"
+  },
+  "ing.petits-oignons.pl5": {
+   "fr": "petit oignon / petits oignons",
+   "t": "луковиц небольшого размера"
+  },
+  "ing.tomates-quartiers.pl5": {
+   "fr": "petite tomate / petites tomates",
+   "t": "помидоров небольшого размера"
+  },
+  "ing.piments.pl5": {
+   "fr": "piment vert / piments verts",
+   "t": "стручков зелёного острого перца"
   }
  }
 }

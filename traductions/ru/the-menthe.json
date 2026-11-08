@@ -1,0 +1,326 @@
+{
+ "_slug": "the-menthe",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Thé à la menthe marocain",
+   "t": "Марокканский мятный чай"
+  },
+  "darija": {
+   "fr": "Atay b nanaa",
+   "t": "Атай б наана"
+  },
+  "tagline": {
+   "fr": "Le thé vert à la menthe des familles marocaines : on garde le premier jet, on rince le thé, puis on le verse de haut pour la mousse.",
+   "t": "Зелёный чай с мятой, как его готовят в марокканских семьях: первую заварку сохраняют, чай промывают, а затем наливают с высоты, чтобы появилась пенка."
+  },
+  "region": {
+   "fr": "Tout le Maroc (boisson nationale) ; les herbes changent avec les saisons.",
+   "t": "Всё Марокко (национальный напиток); травы меняются в зависимости от сезона."
+  },
+  "occasion": {
+   "fr": "Tous les jours, à toute heure : c'est la boisson de l'hospitalité, la première chose qu'on prépare pour accueillir un invité.",
+   "t": "Каждый день, в любое время: это напиток гостеприимства, первое, что готовят, чтобы встретить гостя."
+  },
+  "img_alt": {
+   "fr": "Théières marocaines et verre de thé à la menthe sur un plateau",
+   "t": "Марокканские чайники и стакан мятного чая на подносе"
+  },
+  "serving": {
+   "fr": "Sers très chaud, dans de petits verres et non dans des tasses, posés sur un plateau (sinia) autour de la théière (berrad) ; prévois plus de verres que d'invités. Traditionnellement, c'est le maître de maison qui prépare le thé devant ses invités. Les feuilles restent dans la théière : on sert au moins trois verres, chacun plus fort que le précédent ; un dicton dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort ; il en existe une autre version, où le premier est amer comme la vie et le dernier apaisant comme la mort. Pour plus d'arôme, glisse un peu de menthe fraîche dans chaque verre. Avec des cornes de gazelle, des ghriba ou des briouates aux amandes, ou simplement du pain et des olives.",
+   "t": "Подавайте очень горячим, в маленьких стаканчиках, а не в чашках, расставленных на подносе (синия) вокруг чайника (беррад); приготовьте больше стаканчиков, чем гостей. По традиции чай готовит перед гостями хозяин дома. Листья остаются в чайнике: подают не меньше трёх стаканчиков, каждый крепче предыдущего; поговорка гласит, что первый сладок, как жизнь, второй крепок, как любовь, а последний горек, как смерть; есть и другой вариант, где первый горек, как жизнь, а последний умиротворяет, как смерть. Для большего аромата положите в каждый стаканчик немного свежей мяты. Подавайте с «рожками газели», ghriba или бриуатами с миндалём либо просто с хлебом и оливками."
+  },
+  "pairs_label": {
+   "fr": "Avec le thé",
+   "t": "К чаю"
+  },
+  "ing.0.group": {
+   "fr": "Thé à la menthe",
+   "t": "Мятный чай"
+  },
+  "ing.the.name": {
+   "fr": "de thé vert de Chine gunpowder",
+   "t": "китайского зелёного чая ганпаудер"
+  },
+  "ing.the.note": {
+   "fr": "bien remplie ; thé roulé en petits grains. À défaut, du chunmee",
+   "t": "полная, с верхом; чай, скрученный в маленькие гранулы. Если такого нет — chunmee"
+  },
+  "ing.menthe.name": {
+   "fr": "de menthe fraîche (nanaa)",
+   "t": "свежей мяты (наана)"
+  },
+  "ing.menthe.note": {
+   "fr": "une grosse botte de menthe verte, tiges comprises",
+   "t": "большой пучок колосовой мяты вместе со стеблями"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "сахара"
+  },
+  "ing.sucre.note": {
+   "fr": "idéalement en morceaux cassés d'un pain de sucre ; à ajuster après avoir goûté",
+   "t": "лучше всего — кусочки, отколотые от сахарной головы; количество уточните, попробовав"
+  },
+  "ing.1.group": {
+   "fr": "Eau bouillante",
+   "t": "Кипяток"
+  },
+  "ing.eau-premier-jet.name": {
+   "fr": "d'eau bouillante, pour le premier jet",
+   "t": "кипятка для первой заварки"
+  },
+  "ing.eau-rincage.name": {
+   "fr": "d'eau bouillante, pour rincer le thé",
+   "t": "кипятка для промывания чая"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau bouillante, pour remplir la théière",
+   "t": "кипятка, чтобы наполнить чайник"
+  },
+  "ing.eau.note": {
+   "fr": "selon ta théière : environ aux trois quarts, jamais jusqu'au bord",
+   "t": "в зависимости от чайника: примерно на три четверти, никогда не до краёв"
+  },
+  "equipment.0": {
+   "fr": "Théière marocaine (berrad) qui supporte le feu, ou une bouilloire qui va sur le feu",
+   "t": "Марокканский заварочный чайник (беррад), который можно ставить на огонь, или чайник для плиты"
+  },
+  "equipment.1": {
+   "fr": "Bouilloire pour faire bouillir l'eau",
+   "t": "Чайник для кипячения воды"
+  },
+  "equipment.2": {
+   "fr": "Petits verres à thé, plus un verre pour garder le premier jet",
+   "t": "Маленькие стаканчики для чая и ещё один стакан для первой заварки"
+  },
+  "equipment.3": {
+   "fr": "Plateau (sinia)",
+   "t": "Поднос (синия)"
+  },
+  "equipment.4": {
+   "fr": "Torchon en coton pour tenir l'anse brûlante",
+   "t": "Хлопковое полотенце, чтобы держать горячую ручку"
+  },
+  "equipment.5": {
+   "fr": "Petite passoire, si tu prépares le thé dans une bouilloire",
+   "t": "Маленькое ситечко, если вы готовите чай в чайнике для плиты"
+  },
+  "equipment.6": {
+   "fr": "Petit marteau pour casser le pain de sucre (facultatif)",
+   "t": "Молоточек, чтобы колоть сахарную голову (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Fais bouillir l'eau et lave la menthe",
+   "t": "Вскипятите воду и вымойте мяту"
+  },
+  "steps.0.text": {
+   "fr": "Fais bouillir toute l'eau de la liste dans une bouilloire. Pendant ce temps, lave délicatement {{menthe}} de menthe et égoutte-la.",
+   "t": "Вскипятите в чайнике всю воду, указанную в списке. Тем временем осторожно вымойте {{menthe}} мяты и дайте воде стечь."
+  },
+  "steps.1.title": {
+   "fr": "Le premier jet : garde l'esprit du thé",
+   "t": "Первая заварка: сохраните «душу» чая"
+  },
+  "steps.1.text": {
+   "fr": "Mets {{the}} de thé vert dans la théière et verse dessus {{eau-premier-jet}} d'eau bouillante. Laisse infuser 1 minute, puis verse ce premier jet dans un verre et garde-le de côté : c'est l'esprit du thé, ne le jette pas.",
+   "t": "Положите в заварочный чайник {{the}} зелёного чая и залейте {{eau-premier-jet}} кипятка. Дайте настояться 1 минуту, затем слейте эту первую заварку в стакан и отставьте: это «душа» чая, не выливайте её."
+  },
+  "steps.1.timer.label": {
+   "fr": "Premier jet",
+   "t": "Первая заварка"
+  },
+  "steps.1.timer.done": {
+   "fr": "Verse le premier jet dans un verre et garde-le.",
+   "t": "Слейте первую заварку в стакан и сохраните её."
+  },
+  "steps.2.title": {
+   "fr": "Rince le thé et jette cette eau",
+   "t": "Промойте чай и вылейте эту воду"
+  },
+  "steps.2.text": {
+   "fr": "Verse {{eau-rincage}} d'eau bouillante sur les feuilles et fais tourner la théière deux ou trois fois. Jette cette eau, plus foncée, par le bec : elle emporte l'amertume et la poussière, et les feuilles restent dans la théière.",
+   "t": "Залейте листья {{eau-rincage}} кипятка и два-три раза покачайте чайник по кругу. Вылейте эту более тёмную воду через носик: она уносит горечь и пыль, а листья остаются в чайнике."
+  },
+  "steps.3.title": {
+   "fr": "Ajoute la menthe, le sucre et le premier jet",
+   "t": "Добавьте мяту, сахар и первую заварку"
+  },
+  "steps.3.text": {
+   "fr": "Tasse la menthe dans la théière, tiges comprises, et ajoute {{sucre}} de sucre. Reverse le premier jet, puis complète avec {{eau}} d'eau bouillante, sans remplir jusqu'au bord. La menthe doit être entièrement sous l'eau.",
+   "t": "Плотно уложите мяту в чайник вместе со стеблями и добавьте {{sucre}} сахара. Влейте обратно первую заварку, затем долейте {{eau}} кипятка, не доливая до краёв. Мята должна быть полностью под водой."
+  },
+  "steps.4.title": {
+   "fr": "Porte doucement à ébullition",
+   "t": "Медленно доведите до кипения"
+  },
+  "steps.4.text": {
+   "fr": "Pose la théière sur feu doux à moyen et laisse-la monter lentement jusqu'à l'ébullition : de la vapeur s'échappe de la théière. Retire-la aussitôt du feu, en tenant l'anse avec un torchon, car elle est brûlante.",
+   "t": "Поставьте чайник на огонь от слабого до среднего и дайте ему медленно дойти до кипения: из чайника пойдёт пар. Сразу снимите его с огня, держа ручку полотенцем: чайник обжигающе горячий."
+  },
+  "steps.5.title": {
+   "fr": "Mélange en versant et reversant",
+   "t": "Перемешайте, переливая туда и обратно"
+  },
+  "steps.5.text": {
+   "fr": "Remplis un verre de thé et reverse-le dans la théière. Recommence 2 ou 3 fois : le sucre fond et les saveurs se mélangent.",
+   "t": "Наполните стакан чаем и вылейте обратно в чайник. Повторите 2–3 раза: сахар растворится, а вкусы смешаются."
+  },
+  "steps.6.title": {
+   "fr": "Goûte et rectifie le sucre",
+   "t": "Попробуйте и доведите сладость до вкуса"
+  },
+  "steps.6.text": {
+   "fr": "Verse un fond de verre et goûte. S'il manque du sucre, ajoutes-en, puis refais un aller-retour entre le verre et la théière.",
+   "t": "Налейте немного на дно стакана и попробуйте. Если не хватает сахара, добавьте его, затем ещё раз перелейте чай из чайника в стакан и обратно."
+  },
+  "steps.7.title": {
+   "fr": "Sers de haut pour la mousse",
+   "t": "Наливайте с высоты, чтобы была пенка"
+  },
+  "steps.7.text": {
+   "fr": "Verse le thé dans les petits verres en levant haut la théière, d'un geste régulier : plus tu verses de haut, plus il mousse. Cette mousse doit occuper environ un quart du verre. Sers très chaud.",
+   "t": "Разлейте чай по стаканчикам, высоко поднимая чайник, ровным движением: чем выше наливаете, тем больше пенки. Пенка должна занимать примерно четверть стакана. Подавайте очень горячим."
+  },
+  "steps.7.img.alt": {
+   "fr": "Homme qui verse le thé de haut dans les verres",
+   "t": "Мужчина наливает чай в стаканы с высоты"
+  },
+  "steps.7.img.caption": {
+   "fr": "Verser de haut",
+   "t": "Чай наливают с высоты"
+  },
+  "secrets.0.text": {
+   "fr": "Garde le premier jet : cette première eau, versée sur le thé et laissée 1 minute, est « l'esprit du thé », la plus parfumée. Mets-la de côté dans un verre, elle retourne ensuite dans la théière.",
+   "t": "Сохраняйте первую заварку: эта первая вода, которой залили чай и дали постоять 1 минуту, — «душа чая», самая ароматная. Отставьте её в стакан, потом она вернётся в чайник."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking with Alia (« spirit of the tea », nom employé au Maroc selon elle) ; My Moroccan Food (« essence », « ne la jette pas ») ; Royal Mansour (« premier essentiel retenu »)",
+   "t": "Cooking with Alia («spirit of the tea», по её словам, так говорят в Марокко); My Moroccan Food («эссенция», «не выливайте её»); Royal Mansour («главную первую заварку сохраняют»)"
+  },
+  "secrets.1.text": {
+   "fr": "C'est la deuxième eau, celle du rinçage, qu'on jette : elle lave les feuilles, retire une partie de l'amertume et la poussière, et ressort plus foncée.",
+   "t": "Выливают вторую воду — ту, которой промывают чай: она моет листья, убирает часть горечи и пыль и выходит более тёмной."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia, My Moroccan Food et Royal Mansour (deuxième eau jetée, plus foncée chez Alia) ; Al Jazeera (Hend Aklaw) et Moroccan Zest (le rinçage retire l'amertume, les goûts forts et la poussière)",
+   "t": "Cooking with Alia, My Moroccan Food и Royal Mansour (вторую воду выливают, у Alia она темнее); Al Jazeera (Hend Aklaw) и Moroccan Zest (промывание убирает горечь, резкие привкусы и пыль)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le thé monter doucement à ébullition, sur feu doux à moyen : c'est ce qui donne au thé et à la menthe le temps d'infuser.",
+   "t": "Дайте чаю медленно дойти до кипения на огне от слабого до среднего: так чай и мята успевают настояться."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Cooking with Alia ; Morocco World News",
+   "t": "My Moroccan Food, Cooking with Alia и Morocco World News"
+  },
+  "secrets.3.text": {
+   "fr": "Sois généreux avec la menthe et tasse-la, en pliant les tiges s'il le faut, mais garde-la sous l'eau : à l'air, elle peut rendre le thé amer.",
+   "t": "Не жалейте мяты и уминайте её, при необходимости сгибая стебли, но держите её под водой: на воздухе она может придать чаю горечь."
+  },
+  "secrets.3.source": {
+   "fr": "Moroccan Zest",
+   "t": "Moroccan Zest"
+  },
+  "secrets.4.text": {
+   "fr": "Mélange en versant un verre de thé et en le reversant dans la théière, plusieurs fois, puis goûte et rectifie le sucre avant de servir.",
+   "t": "Перемешивайте, наливая стакан чая и выливая его обратно в чайник несколько раз, затем попробуйте и доведите сладость до вкуса перед подачей."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking with Alia (2 à 3 fois) ; Al Jazeera (3 ou 4 verres, on goûte puis on ajoute du sucre)",
+   "t": "Cooking with Alia (2–3 раза); Al Jazeera (3 или 4 стакана, пробуют, затем добавляют сахар)"
+  },
+  "secrets.5.text": {
+   "fr": "Verse de haut : plus la théière est haute, plus il y a de mousse. Cette mousse occupe environ un quart du verre ; le chroniqueur marocain Najib Refaif la compare, en plaisantant, à une « rozza » (un turban).",
+   "t": "Наливайте с высоты: чем выше чайник, тем больше пенки. Пенка занимает примерно четверть стакана; марокканский колумнист Najib Refaif в шутку сравнивает её с «rozza» (тюрбаном)."
+  },
+  "secrets.5.source": {
+   "fr": "La Vie Éco (Najib Refaif, pour l'image de la « rozza ») ; Moroccan Zest ; Al Jazeera ; Cooking with Alia",
+   "t": "La Vie Éco (Najib Refaif — образ «rozza»); Moroccan Zest; Al Jazeera; Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Le sucre vient d'un pain de sucre, cassé au petit marteau ou avec le fond d'un verre ; les connaisseurs le préfèrent aux briques de sucre.",
+   "t": "Сахар берут от сахарной головы, отколотый молоточком или дном стакана; знатоки предпочитают его прессованному кусковому сахару."
+  },
+  "secrets.6.source": {
+   "fr": "Maroc.ma (dépêche MAP) ; Morocco World News",
+   "t": "Maroc.ma (сообщение агентства MAP) и Morocco World News"
+  },
+  "secrets.7.text": {
+   "fr": "Le thé se prépare devant les invités, traditionnellement par le maître de maison, avec plus de verres que d'invités sur le plateau.",
+   "t": "Чай готовят перед гостями, по традиции это делает хозяин дома, а на подносе ставят больше стаканчиков, чем гостей."
+  },
+  "secrets.7.source": {
+   "fr": "Royal Mansour ; Al Jazeera ; Moroccan Zest",
+   "t": "Royal Mansour, Al Jazeera и Moroccan Zest"
+  },
+  "secrets.8.text": {
+   "fr": "La base est un thé vert de Chine roulé en petits grains, le gunpowder.",
+   "t": "Основа — китайский зелёный чай, скрученный в маленькие гранулы, ганпаудер."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Moroccan Zest ; Morocco World News ; Maroc.ma (« souvent de type Gunpowder »)",
+   "t": "My Moroccan Food; Moroccan Zest; Morocco World News; Maroc.ma («часто типа Gunpowder»)"
+  },
+  "mistakes.0": {
+   "fr": "Jeter le premier jet : c'est l'esprit du thé, il doit retourner dans la théière.",
+   "t": "Выливать первую заварку: это «душа» чая, она должна вернуться в чайник."
+  },
+  "mistakes.1": {
+   "fr": "Oublier le rinçage : le thé reste amer et garde sa poussière.",
+   "t": "Забывать промыть чай: он остаётся горьким и с пылью."
+  },
+  "mistakes.2": {
+   "fr": "Laisser des tiges de menthe hors de l'eau : le thé peut devenir amer.",
+   "t": "Оставлять стебли мяты над водой: чай может стать горьким."
+  },
+  "mistakes.3": {
+   "fr": "Remplir la théière jusqu'au bord : remplis-la environ aux trois quarts, comme le dit la note de l'eau (Cooking with Alia ; Moroccan Zest, lui, garde environ 2,5 cm de vide).",
+   "t": "Наливать чайник до краёв: наполняйте его примерно на три четверти, как указано в примечании к воде (Cooking with Alia; Moroccan Zest оставляет около 2,5 см свободного места)."
+  },
+  "mistakes.4": {
+   "fr": "Chauffer à feu vif : le thé doit monter doucement à ébullition.",
+   "t": "Нагревать на сильном огне: чай должен медленно дойти до кипения."
+  },
+  "mistakes.5": {
+   "fr": "Laisser bouillir longtemps : plus le thé bout, plus il est fort et chargé en caféine.",
+   "t": "Долго кипятить: чем дольше чай кипит, тем он крепче и тем больше в нём кофеина."
+  },
+  "mistakes.6": {
+   "fr": "Servir dans des tasses : le thé marocain se boit dans de petits verres.",
+   "t": "Подавать в чашках: марокканский чай пьют из маленьких стаканчиков."
+  },
+  "mistakes.7": {
+   "fr": "Verser de trop près : c'est la hauteur qui fait la mousse.",
+   "t": "Наливать слишком низко: пенку даёт именно высота."
+  },
+  "variants.0": {
+   "fr": "Chiba (absinthe, la plante) en hiver : d'octobre à avril, elle remplace la menthe quand il fait froid et que la menthe est moins bonne ; dans les cafés, on la sert à part et chacun l'ajoute dans son verre. Goût nettement plus amer. Mets-en peu : l'absinthe contient de la thuyone, réputée neurotoxique ; l'Agence européenne des médicaments la réserve aux adultes et la déconseille pendant la grossesse et l'allaitement, ainsi qu'en cas de maladie du foie ou des voies biliaires ou d'allergie aux astéracées — Hespress (dépêche Anadolu) ; Agence européenne des médicaments ; aussi Al Jazeera, Moroccan Zest, Morocco World News, Wikipédia.",
+   "t": "Шиба (полынь горькая, растение) зимой: с октября по апрель она заменяет мяту, когда холодно и мята хуже; в кафе её подают отдельно, и каждый добавляет её в свой стакан. Вкус заметно горше. Кладите её немного: полынь содержит туйон, который считается нейротоксичным; Agence européenne des médicaments рекомендует её только взрослым и не советует при беременности и грудном вскармливании, а также при заболеваниях печени или желчевыводящих путей и при аллергии на астровые — Hespress (сообщение Anadolu); Agence européenne des médicaments; также Al Jazeera, Moroccan Zest, Morocco World News, Wikipédia."
+  },
+  "variants.1": {
+   "fr": "Louiza (verveine citronnelle), à la place de la menthe ou avec elle — Al Jazeera ; Morocco World News ; la verveine aussi chez My Moroccan Food et Moroccan Zest.",
+   "t": "Луиза (лимонная вербена) вместо мяты или вместе с ней — Al Jazeera; Morocco World News; вербена также у My Moroccan Food и Moroccan Zest."
+  },
+  "variants.2": {
+   "fr": "Zaatar en hiver, à la place de la menthe — Hespress (dépêche Anadolu) ; Asharq cite aussi le « أتاي بالزعتر ».",
+   "t": "Заатар зимой, вместо мяты — Hespress (сообщение Anadolu); Asharq упоминает также «أتاي بالزعتر»."
+  },
+  "variants.3": {
+   "fr": "Menthe pouliot et absinthe quand il fait froid, réputées réchauffantes ; cette absinthe est la chiba de la variante d'hiver, avec les mêmes précautions — Moroccan Zest ; Agence européenne des médicaments. Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
+   "t": "Мята блошиная и полынь в холода: считается, что они согревают; эта полынь — та же шиба, что и в зимнем варианте, с теми же мерами предосторожности — Moroccan Zest; Agence européenne des médicaments. Прежде чем употреблять блошиную мяту во время беременности, посоветуйтесь с медицинским работником: её масло раньше использовали, чтобы вызвать аборт (Agence européenne des médicaments, заявление о пулегоне)."
+  },
+  "variants.4": {
+   "fr": "Fleur d'oranger : de l'eau de fleur d'oranger ajoutée hors du feu — Moroccan Zest ; Al Jazeera cite aussi les fleurs d'agrumes (« زهر الليمون ») à la place de la menthe.",
+   "t": "Цветки апельсина: вода из цветков апельсина, добавленная после снятия с огня — Moroccan Zest; Al Jazeera упоминает также цветки цитрусовых («زهر الليمون») вместо мяты."
+  },
+  "variants.5": {
+   "fr": "Géranium, thym sauvage ou sauge à la place de la menthe — Morocco World News ; le géranium aussi chez My Moroccan Food.",
+   "t": "Герань, дикий тимьян или шалфей вместо мяты — Morocco World News; герань также у My Moroccan Food."
+  },
+  "variants.6": {
+   "fr": "Pour les fêtes (fiançailles, mariages) : boutons de rose, verveine et cannelle — Moroccan Zest.",
+   "t": "Для праздников (помолвки, свадьбы): бутоны роз, вербена и корица — Moroccan Zest."
+  }
+ }
+}

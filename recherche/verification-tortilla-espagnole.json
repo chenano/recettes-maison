@@ -1,0 +1,84 @@
+{
+ "slug": "tortilla-espagnole",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [],
+ "corrections": [
+  {
+   "champ": "variants[1]",
+   "actuel": "Prends alors des œufs pasteurisés, et ne la sers pas aux personnes fragiles (Comunidad de Madrid).",
+   "propose": "Prends alors des œufs pasteurisés. Avec des œufs crus ordinaires, fais-la au dernier moment, garde-la au frigo jusqu'au repas, ne la sers pas aux personnes fragiles et jette les restes (Comunidad de Madrid).",
+   "pourquoi": "La Comunidad de Madrid dit, si l'on utilise de l'œuf cru : préparer la tortilla le plus tard possible, la garder au frigo jusqu'au repas, ne pas la servir aux personnes sensibles et « Desechar las sobras » (jeter les restes). Sans cette phrase, la règle générale des 2 jours semble s'appliquer à une tortilla très baveuse (intérieur « prácticamente crudo » à Betanzos, Directo al Paladar 2018).",
+   "gravite": "majeure",
+   "sources": "Comunidad de Madrid, « Precauciones con las tortillas » (mise à jour 11 août 2026) ; Directo al Paladar, 11 octobre 2018"
+  },
+  {
+   "champ": "mistakes[5]",
+   "actuel": "pas plus de 2 heures (FDA)",
+   "propose": "pas plus de 2 heures, ou 1 heure au-dessus de 32 °C (FDA, 90 °F)",
+   "pourquoi": "La FDA écrit : « Never leave cooked eggs or egg dishes out of the refrigerator for more than 2 hours or for more than 1 hour when temperatures are above 90° F ». 90 °F = 32,2 °C (python3 -I). Utile en été, saison des intoxications selon la Comunidad de Madrid.",
+   "gravite": "mineure",
+   "sources": "FDA, « What You Need to Know About Egg Safety » (03/05/2024)"
+  },
+  {
+   "champ": "variants[1]",
+   "actuel": "4 pommes de terre moyennes (350 g)",
+   "propose": "350 g de pommes de terre en tout (4 « moyennes » sur la fiche)",
+   "pourquoi": "La fiche écrit « Patata mediana (350 g) 4 » et « Huevo L (275 g) 5 » : le poids entre parenthèses est le total (275 g pour 5 œufs). Écrit tel quel, « 4 pommes de terre moyennes (350 g) » contredit la note de l'ingrédient (4 moyennes = environ 700 g).",
+   "gravite": "mineure",
+   "sources": "Directo al Paladar (Carmen Tía Alia), Betanzos, 24 mai 2022"
+  },
+  {
+   "champ": "steps[8].text",
+   "actuel": "Remets la poêle moyenne sur le feu",
+   "propose": "Mets la poêle moyenne sur le feu",
+   "pourquoi": "La poêle moyenne n'a pas encore servi (les pommes de terre cuisent dans la grande poêle profonde) : « Remets » est incohérent. Spain.info remet la même poêle (« Poner de nuevo la sartén »), mais la recette en utilise deux.",
+   "gravite": "mineure",
+   "sources": "Cohérence interne (equipment, étapes 4 et 8) ; Spain.info"
+  },
+  {
+   "champ": "steps[3].text",
+   "actuel": "un par un dans le grand saladier, pas sur le bord d'une assiette.",
+   "propose": "un par un dans le grand saladier, sans les cogner sur le bord d'une assiette.",
+   "pourquoi": "Phrase ambiguë (on peut lire « casse-les pas sur le bord »). La Comunidad de Madrid dit : « No cascar el huevo en el borde del plato » (ne pas casser l'œuf sur le bord de l'assiette, la coquille pouvant porter la salmonelle).",
+   "gravite": "mineure",
+   "sources": "Comunidad de Madrid, « Precauciones con las tortillas »"
+  },
+  {
+   "champ": "secrets[3].text",
+   "actuel": "Bats les œufs sans y faire entrer d'air.",
+   "propose": "Bats les œufs sans trop y faire entrer d'air.",
+   "pourquoi": "Directo al Paladar (Liliana Fuchs) écrit « procurando no introducir mucho aire » (sans trop d'air) ; seul l'article Betanzos dit de ne pas battre du tout, ce que la 2e phrase du secret dit déjà.",
+   "gravite": "mineure",
+   "sources": "Directo al Paladar, 10 mars 2022 et 24 mai 2022"
+  },
+  {
+   "champ": "occasion",
+   "actuel": "Le plat de tous les jours en Espagne",
+   "propose": "Un des plats les plus courants en Espagne",
+   "pourquoi": "Wikipédia en arabe dit « من أكثر الأطباق شيوعا في إسبانيا » (un des plats les plus répandus), pas « le plat de tous les jours ».",
+   "gravite": "mineure",
+   "sources": "Wikipédia en arabe, « طورطية البطاطا » (lu le 8 novembre 2026)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Robots.txt : spain.info, hogarmania.com, comunidad.madrid, fda.gov, gov.uk et Wikipédia n'interdisent pas les pages utiles ; directoalpaladar.com autorise explicitement ClaudeBot, Claude-User et Claude-SearchBot.",
+  "Spain.info : 4 patatas medianas, 4 ó 5 huevos, 1 cebolla mediana, ¼ l d'huile, sel ; rondelles fines, feu moyen, cuisson lente avec l'oignon, écumoire, environ 10 minutes, égoutter ; œufs battus salés ; un peu d'huile ; feu doux couvert 5 à 10 minutes ; couvercle ; dorée des deux côtés ; chaude ou froide ; plus de pomme de terre pour l'emporter ; « Tiempo de cocción: 1 hora » : conforme.",
+  "Directo al Paladar, oignon (Pakus, 16 septembre 2026) : 700 g, 300 g d'oignon, 6 œufs pour 4 ; oignon fondu à part environ 30 minutes ; huile presque froide ; bien égoutter ; une cuillère d'huile, 3 à 4 minutes ; poêles doubles ; salade composée ou poivrons verts frits ; 30 + 15 min, difficulté moyenne : conforme.",
+  "Directo al Paladar, Betanzos (24 mai 2022) : 5 œufs L, 250 ml d'huile, œuf, pomme de terre et sel ; œufs remués sans air ; égouttage ; repos ; poêle de 22 cm ; 1 minute par face ; repos avant de couper ; salade verte ou tomate ; 30 + 35 min : conforme.",
+  "Directo al Paladar, proportions (10 mars 2022), 14 chefs (25 mai 2022), CIS (15 septembre 2023 : 70,4 %, 53,9 %, 26,9 %), règle 6-3-1 (18 mai 2024) et Betanzos sans oignon (11 octobre 2018) : chiffres, chefs, citations et poivron vert d'Arguiñano conformes.",
+  "Hogarmania (8 août 2024) : 7-3-4-1-1, tournesol, carrés fins 15 + 3 minutes, huile gardée, repos 3 à 4 minutes, 4 petites tortillas retournées à l'assiette : conforme.",
+  "Wikipédia en espagnol : 1767, 1798, 1817 ; plus cuites que frites ; olive ou tournesol ; laissées dans l'œuf ; prise ou mi-prise ; plat, tapa, pincho, bocadillo ; CIS 2023 70,4 % contre 20,9 % : conforme. Wikipédia en arabe : nom, « العجة الإسبانية », dîner léger : conforme.",
+  "Comunidad de Madrid (mise à jour 11 août 2026) : plus de 20 heures à température ambiante en été ; coquille intacte, frigo, ne pas laver ; pas sur le bord de l'assiette ; ne pas séparer avec la coquille ; œufs pasteurisés si peu prise ; à manger tout de suite ou au frigo ; jeter après 2 jours ; jamais l'assiette du retournement ; personnes sensibles ; 63 °C 20 s et 70 °C 2 s : conforme.",
+  "FDA (03/05/2024) : œuf ferme, plats aux œufs à 160 °F = 71,1 °C (python3 -I), 2 heures hors du frigo, restes 3 à 4 jours, groupes à risque : conforme. FSA (18 décembre 2017) : frigo 0 à 5 °C, restes au frigo dans les 2 heures, à manger dans les 2 jours : conforme.",
+  "Calculs (python3 -I) : 700 g / 6 œufs = 117 g par œuf, entre 100 et 125 g ; médiane des œufs 6 ; prep 30 et cook 35 = Directo al Paladar Betanzos ; minuteur de 10 minutes = texte de l'étape 5.",
+  "Rendu dans l'appli (réplique python de fmtQ) : pour 1, « 1 pomme de terre moyenne », « ¼ oignon moyen », « 1½ œufs frais », « 65 ml d'huile d'olive » ; pour 4, 4, 1, 6 et 250 ml ; pour 8, « 8 pommes de terre moyennes », « 2 oignons moyens », 12 œufs, 500 ml ; {{sel}} affiche « sel ». Pluriels corrects.",
+  "Halal : ni viande ni alcool ; huile d'olive ; chorizo et jambon non repris."
+ ],
+ "non_verifiable": [
+  "Aucune source espagnole nouvelle exploitable : AS.com (référence CIS de Wikipédia en espagnol) interdit ClaudeBot, Claude-User et Claude-SearchBot dans son robots.txt, donc non lu ; page de Villanueva de la Serena sur 1798 en 404, copie web.archive.org aussi ; trois pages de l'AESAN lues sans conseil grand public sur la tortilla ; FSIS (USDA) répond 403, non contourné. Quota de recherche web épuisé : pas d'autre recherche possible.",
+  "Étude originale du CIS (2023) non lue : chiffres recoupés seulement par Directo al Paladar et Wikipédia en espagnol.",
+  "Date 1798 : Directo al Paladar (10 mars 2022) signale que la thèse d'Ana Cordero sur une invention à Villanueva de la Serena est « polémica » et contestée par l'historienne Ana Vega. La recette parle seulement d'une trace écrite (Wikipédia en espagnol, livre de López Linage) : pas de correction, mais nuance possible.",
+  "Pour 1 personne, l'appli affiche « Casse 1½ œufs frais un par un » (arrondi à la moitié prévu par l'appli) : correct mais peu naturel ; aucune correction de la recette possible.",
+  "Nom en darija : aucune source trouvée ; avis de l'ONSSA (Maroc) non consulté."
+ ]
+}

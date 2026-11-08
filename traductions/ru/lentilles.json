@@ -58,10 +58,6 @@
    "fr": "gros oignons",
    "t": "луковицы крупного размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "gros oignon / gros oignons",
-   "t": "луковиц крупного размера"
-  },
   "ing.oignon.note": {
    "fr": "à râper",
    "t": "натереть на тёрке"
@@ -74,10 +70,6 @@
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
-  },
   "ing.ail.note": {
    "fr": "à hacher finement",
    "t": "мелко порубить"
@@ -89,10 +81,6 @@
   "ing.tomates.pl": {
    "fr": "tomates moyennes bien mûres",
    "t": "помидора среднего размера"
-  },
-  "ing.tomates.pl5": {
-   "fr": "tomate moyenne bien mûre / tomates moyennes bien mûres",
-   "t": "помидоров среднего размера"
   },
   "ing.tomates.note": {
    "fr": "chair râpée, sans la peau",
@@ -120,7 +108,7 @@
   },
   "ing.sel.note": {
    "fr": "à rectifier en fin de cuisson",
-   "t": "уточните по вкусу в конце приготовления"
+   "t": "доведите до вкуса в конце приготовления"
   },
   "ing.cayenne.name": {
    "fr": "une pincée de piment de Cayenne",
@@ -170,10 +158,6 @@
    "fr": "carottes moyennes",
    "t": "моркови среднего размера"
   },
-  "ing.carottes.pl5": {
-   "fr": "carotte moyenne / carottes moyennes",
-   "t": "морковей среднего размера"
-  },
   "ing.pommes-de-terre.name": {
    "fr": "petite pomme de terre",
    "t": "картофелина небольшого размера"
@@ -181,10 +165,6 @@
   "ing.pommes-de-terre.pl": {
    "fr": "petites pommes de terre",
    "t": "картофелины небольшого размера"
-  },
-  "ing.pommes-de-terre.pl5": {
-   "fr": "petite pomme de terre / petites pommes de terre",
-   "t": "картофелин небольшого размера"
   },
   "ing.3.group": {
    "fr": "Pour servir",
@@ -197,10 +177,6 @@
   "ing.citron.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron.note": {
    "fr": "facultatif",
@@ -577,6 +553,30 @@
   "secrets.12.source": {
    "fr": "Anses (une planche pour la viande crue, une autre pour les produits cuits et les légumes propres)",
    "t": "Anses (одна доска для сырого мяса, другая — для готовых продуктов и чистых овощей)"
+  },
+  "ing.oignon.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne bien mûre / tomates moyennes bien mûres",
+   "t": "помидоров среднего размера"
+  },
+  "ing.carottes.pl5": {
+   "fr": "carotte moyenne / carottes moyennes",
+   "t": "морковей среднего размера"
+  },
+  "ing.pommes-de-terre.pl5": {
+   "fr": "petite pomme de terre / petites pommes de terre",
+   "t": "картофелин небольшого размера"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

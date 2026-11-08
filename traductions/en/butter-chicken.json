@@ -1,0 +1,606 @@
+{
+ "_slug": "butter-chicken",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Butter chicken (murgh makhani)",
+   "t": "Butter chicken (murgh makhani)"
+  },
+  "tagline": {
+   "fr": "Du poulet mariné au yaourt, doré à la poêle, puis mijoté dans une sauce tomate au beurre, douce et veloutée : le grand classique de Delhi, fait à la maison sans four tandoor.",
+   "t": "Chicken marinated in yoghurt, browned in a frying pan, then simmered in a mild, velvety buttery tomato sauce: the great Delhi classic, made at home without a tandoor oven."
+  },
+  "region": {
+   "fr": "Inde, Delhi. Le plat est lié au restaurant Moti Mahal de Daryaganj, dans le Vieux Delhi, ouvert par des cuisiniers réfugiés de Peshawar après la Partition de 1947 (Outlook India, The National, Wikipédia). Son inventeur est disputé : la famille Gujral (Moti Mahal) l'attribue à Kundan Lal Gujral, qui l'aurait créé à Peshawar dans les années 1930 ; la famille Jaggi (restaurant Daryaganj) l'attribue à Kundan Lal Jaggi, associé de Gujral, à Delhi en 1947. Moti Mahal a attaqué le restaurant Daryaganj devant la Haute Cour de Delhi, qui a tenu sa première audience le 16 janvier 2024 (The Week, Onmanorama, Dawn) ; l'issue du procès n'a pas été vérifiée. Les deux récits s'accordent sur un point : le plat est né de poulet tandoori déjà cuit, ajouté à une sauce aux tomates et au beurre (Monish Gujral ; daryaganj.com).",
+   "t": "India, Delhi. The dish is linked to the Moti Mahal restaurant in Daryaganj, Old Delhi, opened by cooks who came as refugees from Peshawar after the 1947 Partition (Outlook India, The National, Wikipédia). Its inventor is disputed: the Gujral family (Moti Mahal) credits Kundan Lal Gujral, who is said to have created it in Peshawar in the 1930s; the Jaggi family (Daryaganj restaurant) credits Kundan Lal Jaggi, Gujral's partner, in Delhi in 1947. Moti Mahal took the Daryaganj restaurant to the Delhi High Court, which held its first hearing on 16 January 2024 (The Week, Onmanorama, Dawn); the outcome of the case has not been verified. Both accounts agree on one point: the dish was born from tandoori chicken that was already cooked, added to a tomato and butter sauce (Monish Gujral; daryaganj.com)."
+  },
+  "occasion": {
+   "fr": "Repas du dimanche ou repas de fête : Ranveer Brar range sa recette dans « Sunday special », « Party main course », « Kids Special » et « Ramadan Special ». C'est un plat doux, sans épices trop fortes (Swasthi ; The National, d'après le chef Sandeep Pande).",
+   "t": "Sunday meals or celebration meals: Ranveer Brar files his recipe under “Sunday special”, “Party main course”, “Kids Special” and “Ramadan Special”. It is a mild dish, without overly strong spices (Swasthi; The National, citing chef Sandeep Pande)."
+  },
+  "img_alt": {
+   "fr": "Butter chicken (murgh makhani) dans un bol blanc, avec de la coriandre",
+   "t": "Butter chicken (murgh makhani) in a white bowl, with coriander"
+  },
+  "serving": {
+   "fr": "Bien chaud, avec du naan, un roti, un paratha, du riz basmati, du riz au cumin ou du riz au curcuma (Swasthi). Kunal Kapur le sert avec un naan tandoori fin et croustillant ; The National cite aussi le chapati et le riz. Kunal Kapur le trouve encore meilleur le lendemain. Restes : au réfrigérateur dans les 2 heures (FSA, Anses), à manger sous 48 heures (FSA), et réchauffés une seule fois, jusqu'à être fumants partout (FSA).",
+   "t": "Very hot, with naan, roti, paratha, basmati rice, cumin rice or turmeric rice (Swasthi). Kunal Kapur serves it with a thin, crisp tandoori naan; The National also mentions chapati and rice. Kunal Kapur finds it even better the next day. Leftovers: into the fridge within 2 hours (FSA, Anses), to be eaten within 48 hours (FSA), and reheated only once, until steaming hot throughout (FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et marinades",
+   "t": "Chicken and marinades"
+  },
+  "ing.poulet.name": {
+   "fr": "de hauts de cuisse de poulet désossés et sans peau",
+   "t": "boneless, skinless chicken thighs"
+  },
+  "ing.poulet.note": {
+   "fr": "halal ; ou des blancs de poulet",
+   "t": "halal; or chicken breasts"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron",
+   "t": "lemon juice"
+  },
+  "ing.piment-marinade.name": {
+   "fr": "de piment du Cachemire en poudre",
+   "t": "Kashmiri chilli powder"
+  },
+  "ing.piment-marinade.note": {
+   "fr": "à défaut, moitié paprika fumé, moitié piment de Cayenne (Swasthi)",
+   "t": "if unavailable, half smoked paprika, half cayenne pepper (Swasthi)"
+  },
+  "ing.sel-marinade.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.yaourt.name": {
+   "fr": "de yaourt grec ou de yaourt égoutté",
+   "t": "Greek yoghurt or strained yoghurt"
+  },
+  "ing.yaourt.note": {
+   "fr": "bien épais",
+   "t": "very thick"
+  },
+  "ing.pag-marinade.name": {
+   "fr": "de pâte d'ail et de gingembre frais",
+   "t": "fresh garlic and ginger paste"
+  },
+  "ing.garam-marinade.name": {
+   "fr": "de garam masala",
+   "t": "garam masala"
+  },
+  "ing.huile-marinade.name": {
+   "fr": "d'huile neutre",
+   "t": "neutral oil"
+  },
+  "ing.1.group": {
+   "fr": "Pour dorer le poulet",
+   "t": "For browning the chicken"
+  },
+  "ing.huile-poele.name": {
+   "fr": "d'huile neutre ou de ghee",
+   "t": "neutral oil or ghee"
+  },
+  "ing.2.group": {
+   "fr": "Sauce makhani",
+   "t": "Makhani sauce"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.cardamome.name": {
+   "fr": "gousse de cardamome verte",
+   "t": "green cardamom pod"
+  },
+  "ing.cardamome.pl": {
+   "fr": "gousses de cardamome verte",
+   "t": "green cardamom pods"
+  },
+  "ing.clous.name": {
+   "fr": "clou de girofle",
+   "t": "clove"
+  },
+  "ing.clous.pl": {
+   "fr": "clous de girofle",
+   "t": "cloves"
+  },
+  "ing.cannelle.name": {
+   "fr": "petit bâton de cannelle (environ 5 cm)",
+   "t": "small cinnamon stick (about 5 cm)"
+  },
+  "ing.cannelle.pl": {
+   "fr": "petits bâtons de cannelle (environ 5 cm)",
+   "t": "small cinnamon sticks (about 5 cm)"
+  },
+  "ing.laurier.name": {
+   "fr": "feuille de laurier",
+   "t": "bay leaf"
+  },
+  "ing.laurier.pl": {
+   "fr": "feuilles de laurier",
+   "t": "bay leaves"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.pag-sauce.name": {
+   "fr": "de pâte d'ail et de gingembre frais",
+   "t": "fresh garlic and ginger paste"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.cajou.name": {
+   "fr": "de noix de cajou nature",
+   "t": "plain cashew nuts"
+  },
+  "ing.cajou.note": {
+   "fr": "ni salées ni grillées, une vingtaine",
+   "t": "neither salted nor roasted, about twenty"
+  },
+  "ing.piment-sauce.name": {
+   "fr": "de piment du Cachemire en poudre",
+   "t": "Kashmiri chilli powder"
+  },
+  "ing.piment-sauce.note": {
+   "fr": "moyennement fort, il donne une belle couleur (Swasthi) ; à défaut, moitié paprika fumé, moitié piment de Cayenne",
+   "t": "medium-hot, it gives a lovely colour (Swasthi); if unavailable, half smoked paprika, half cayenne pepper"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.garam-sauce.name": {
+   "fr": "de garam masala",
+   "t": "garam masala"
+  },
+  "ing.methi.name": {
+   "fr": "de feuilles de fenugrec séchées (kasuri methi)",
+   "t": "kasuri methi (dried fenugreek leaves)"
+  },
+  "ing.methi.note": {
+   "fr": "pas de la poudre de graines de fenugrec",
+   "t": "not ground fenugreek seeds"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "sugar"
+  },
+  "ing.creme.name": {
+   "fr": "de crème liquide entière",
+   "t": "full-fat liquid cream"
+  },
+  "ing.piment-vert.name": {
+   "fr": "piment vert",
+   "t": "green chilli"
+  },
+  "ing.piment-vert.pl": {
+   "fr": "piments verts",
+   "t": "green chillies"
+  },
+  "ing.piment-vert.note": {
+   "fr": "facultatif ; épépiné et émincé",
+   "t": "optional; deseeded and thinly sliced"
+  },
+  "ing.coriandre.name": {
+   "fr": "coriandre fraîche",
+   "t": "fresh coriander"
+  },
+  "ing.coriandre.note": {
+   "fr": "quelques brins",
+   "t": "a few sprigs"
+  },
+  "equipment.0": {
+   "fr": "Une casserole à fond épais, pour la sauce",
+   "t": "A heavy-based saucepan, for the sauce"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle, ou une poêle-gril si tu en as une (Sanjeev Kapoor, Ranveer Brar, Kunal Kapur)",
+   "t": "A large frying pan, or a griddle pan if you have one (Sanjeev Kapoor, Ranveer Brar, Kunal Kapur)"
+  },
+  "equipment.2": {
+   "fr": "Un mixeur (blender) ou un mixeur plongeant",
+   "t": "A blender or a stick blender"
+  },
+  "equipment.3": {
+   "fr": "Une passoire fine ou un tamis, et une cuillère pour presser la sauce",
+   "t": "A fine-mesh strainer or a sieve, and a spoon to press the sauce through"
+  },
+  "equipment.4": {
+   "fr": "Deux bols, pour les deux marinades",
+   "t": "Two bowls, for the two marinades"
+  },
+  "equipment.5": {
+   "fr": "Une planche et un couteau réservés au poulet cru, et une autre planche pour les légumes (Anses)",
+   "t": "A chopping board and a knife used only for raw chicken, and another board for the vegetables (Anses)"
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant",
+   "t": "Kitchen paper"
+  },
+  "equipment.7": {
+   "fr": "Une assiette propre, pour le poulet doré (Anses)",
+   "t": "A clean plate, for the browned chicken (Anses)"
+  },
+  "equipment.8": {
+   "fr": "Un thermomètre de cuisson (conseillé par la FSA)",
+   "t": "A cooking thermometer (recommended by the FSA)"
+  },
+  "steps.0.title": {
+   "fr": "Prépare la pâte ail-gingembre",
+   "t": "Make the garlic and ginger paste"
+  },
+  "steps.0.text": {
+   "fr": "Si tu n'as pas de pâte toute prête, pèle de l'ail et du gingembre frais, à parts égales. Râpe-les très finement ou écrase-les au pilon. Il t'en faut {{pag-marinade}} pour la marinade et {{pag-sauce}} pour la sauce.",
+   "t": "If you don't have ready-made paste, peel equal amounts of fresh garlic and ginger. Grate them very finely or crush them with a pestle. You need {{pag-marinade}} for the marinade and {{pag-sauce}} for the sauce."
+  },
+  "steps.0.tip": {
+   "fr": "Swasthi remplace la pâte par moitié gingembre râpé, moitié ail râpé.",
+   "t": "Swasthi uses half grated ginger and half grated garlic instead of the paste."
+  },
+  "steps.1.title": {
+   "fr": "Coupe et sèche le poulet",
+   "t": "Cut and dry the chicken"
+  },
+  "steps.1.text": {
+   "fr": "Coupe {{poulet}} de poulet en morceaux de 2,5 à 4 cm. Sèche-les bien avec du papier absorbant. Ne lave pas le poulet cru. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+   "t": "Cut {{poulet}} chicken into 2.5 to 4 cm pieces. Pat them thoroughly dry with kitchen paper. Do not wash raw chicken. Then wash your hands, the board and the knife with soap."
+  },
+  "steps.1.tip": {
+   "fr": "Laver la volaille crue n'enlève pas les bactéries : seule la cuisson les détruit, et l'eau les éclabousse partout (FSA).",
+   "t": "Washing raw poultry does not remove bacteria: only cooking kills them, and the water splashes them everywhere (FSA)."
+  },
+  "steps.2.title": {
+   "fr": "Fais la première marinade",
+   "t": "Make the first marinade"
+  },
+  "steps.2.text": {
+   "fr": "Dans un grand bol, mélange le poulet avec {{citron}} de jus de citron, {{piment-marinade}} de piment et un peu de {{sel-marinade}}. Couvre et laisse reposer 20 minutes.",
+   "t": "In a large bowl, mix the chicken with {{citron}} lemon juice, {{piment-marinade}} chilli powder and a little {{sel-marinade}}. Cover and leave to rest for 20 minutes."
+  },
+  "steps.2.tip": {
+   "fr": "C'est la double marinade des cuisiniers indiens : d'abord le citron, le piment et le sel, puis le yaourt et les épices (Monish Gujral ; Swasthi ; Kunal Kapur).",
+   "t": "This is the double marinade of Indian cooks: first the lemon, chilli and salt, then the yoghurt and spices (Monish Gujral; Swasthi; Kunal Kapur)."
+  },
+  "steps.2.timer.label": {
+   "fr": "Première marinade",
+   "t": "First marinade"
+  },
+  "steps.2.timer.done": {
+   "fr": "Passe à la deuxième marinade.",
+   "t": "Move on to the second marinade."
+  },
+  "steps.3.title": {
+   "fr": "Fais la deuxième marinade",
+   "t": "Make the second marinade"
+  },
+  "steps.3.text": {
+   "fr": "Dans un autre bol, mélange {{yaourt}} de yaourt, {{pag-marinade}} de pâte ail-gingembre, {{garam-marinade}} de garam masala et {{huile-marinade}} d'huile. Verse sur le poulet et mélange bien. Couvre et mets au réfrigérateur au moins 1 heure, et jusqu'au lendemain si tu peux.",
+   "t": "In another bowl, mix {{yaourt}} yoghurt, {{pag-marinade}} garlic and ginger paste, {{garam-marinade}} garam masala and {{huile-marinade}} oil. Pour over the chicken and mix well. Cover and refrigerate for at least 1 hour, and up to overnight if you can."
+  },
+  "steps.3.tip": {
+   "fr": "Plus la marinade est longue, plus le poulet est tendre : Swasthi conseille 12 heures, et jamais plus de 48 heures.",
+   "t": "The longer the marinade, the more tender the chicken: Swasthi recommends 12 hours, and never more than 48 hours."
+  },
+  "steps.4.title": {
+   "fr": "Prépare les légumes",
+   "t": "Prepare the vegetables"
+  },
+  "steps.4.text": {
+   "fr": "Pèle et hache {{oignon:full}}. Lave {{tomates}} de tomates et coupe-les en morceaux.",
+   "t": "Peel and chop {{oignon:full}}. Wash {{tomates}} tomatoes and cut them into pieces."
+  },
+  "steps.5.title": {
+   "fr": "Parfume le beurre",
+   "t": "Flavour the butter"
+  },
+  "steps.5.text": {
+   "fr": "Dans la casserole, fais fondre la moitié du beurre ({{beurre}} en tout) à feu moyen. Ajoute {{cardamome:full}}, {{clous:full}}, {{cannelle:full}} et {{laurier:full}}. Laisse grésiller quelques secondes.",
+   "t": "In the saucepan, melt half the butter ({{beurre}} in total) over medium heat. Add {{cardamome:full}}, {{clous:full}}, {{cannelle:full}} and {{laurier:full}}. Let them sizzle for a few seconds."
+  },
+  "steps.6.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Fry the onion"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute l'oignon et fais-le revenir 2 à 3 minutes, jusqu'à ce qu'il ramollisse. Ajoute {{pag-sauce}} de pâte ail-gingembre et remue 1 à 2 minutes, sans la laisser brûler.",
+   "t": "Add the onion and fry it for 2 to 3 minutes, until it softens. Add {{pag-sauce}} garlic and ginger paste and stir for 1 to 2 minutes, without letting it burn."
+  },
+  "steps.6.tip": {
+   "fr": "La pâte doit sentir bon, sans brûler (Swasthi).",
+   "t": "The paste should smell fragrant, without burning (Swasthi)."
+  },
+  "steps.7.title": {
+   "fr": "Cuis les tomates",
+   "t": "Cook the tomatoes"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute les tomates, {{cajou}} de noix de cajou, {{piment-sauce}} de piment, {{eau}} d'eau et un peu de {{sel}}. Porte à ébullition, puis couvre et laisse cuire 12 minutes à feu moyen-doux, jusqu'à ce que les tomates soient fondantes.",
+   "t": "Add the tomatoes, {{cajou}} cashew nuts, {{piment-sauce}} chilli powder, {{eau}} water and a little {{sel}}. Bring to the boil, then cover and cook for 12 minutes over medium-low heat, until the tomatoes are very soft."
+  },
+  "steps.7.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "Tomato sauce"
+  },
+  "steps.7.timer.done": {
+   "fr": "Les tomates doivent être fondantes. Retire les épices entières.",
+   "t": "The tomatoes should be very soft. Remove the whole spices."
+  },
+  "steps.8.title": {
+   "fr": "Mixe et passe la sauce",
+   "t": "Blend and strain the sauce"
+  },
+  "steps.8.text": {
+   "fr": "Retire la cardamome, les clous, la cannelle et le laurier. Laisse tiédir un peu, puis mixe le contenu de la casserole en purée très fine. Passe-la au tamis en pressant avec une cuillère.",
+   "t": "Remove the cardamom, cloves, cinnamon and bay. Leave to cool slightly, then blend the contents of the saucepan to a very smooth purée. Pass it through the sieve, pressing with a spoon."
+  },
+  "steps.8.tip": {
+   "fr": "C'est ce qui donne la sauce soyeuse des restaurants (Kunal Kapur).",
+   "t": "This is what gives the sauce its silky, restaurant-style texture (Kunal Kapur)."
+  },
+  "steps.9.title": {
+   "fr": "Fais mijoter la sauce",
+   "t": "Simmer the sauce"
+  },
+  "steps.9.text": {
+   "fr": "Remets la sauce dans la casserole avec le reste du beurre et {{garam-sauce}} de garam masala. Laisse mijoter à feu doux en remuant de temps en temps, jusqu'à ce qu'elle épaississe un peu et que des traces de beurre apparaissent à la surface. Si elle devient trop épaisse, ajoute un peu d'eau chaude.",
+   "t": "Return the sauce to the saucepan with the rest of the butter and {{garam-sauce}} garam masala. Simmer over low heat, stirring from time to time, until it thickens slightly and traces of butter appear on the surface. If it becomes too thick, add a little hot water."
+  },
+  "steps.10.title": {
+   "fr": "Fais dorer le poulet",
+   "t": "Brown the chicken"
+  },
+  "steps.10.text": {
+   "fr": "Pendant ce temps, chauffe une partie de l'huile ({{huile-poele}} en tout) dans la grande poêle, à feu moyen-vif. Fais dorer le poulet en deux ou trois fournées, selon la taille de la poêle, les morceaux bien espacés. Laisse dorer sans toucher, puis retourne les morceaux, jusqu'à ce qu'ils soient dorés de tous les côtés et que la marinade ait séché. Mets-les dans une assiette propre et continue avec le reste de l'huile et du poulet.",
+   "t": "Meanwhile, heat some of the oil ({{huile-poele}} in total) in the large frying pan over medium-high heat. Brown the chicken in two or three batches, depending on the size of the pan, with the pieces well spaced. Let them brown without touching, then turn them, until they are golden on all sides and the marinade has dried. Put them on a clean plate and carry on with the rest of the oil and chicken."
+  },
+  "steps.10.tip": {
+   "fr": "Le poulet n'a pas besoin d'être cuit à cœur ici : il finit de cuire dans la sauce (Swasthi ; Ranveer Brar).",
+   "t": "The chicken does not need to be cooked through here: it finishes cooking in the sauce (Swasthi; Ranveer Brar)."
+  },
+  "steps.11.title": {
+   "fr": "Mijote le poulet dans la sauce",
+   "t": "Simmer the chicken in the sauce"
+  },
+  "steps.11.text": {
+   "fr": "Ajoute le poulet doré et son jus dans la sauce. Couvre et laisse mijoter 7 minutes à feu doux.",
+   "t": "Add the browned chicken and its juices to the sauce. Cover and simmer for 7 minutes over low heat."
+  },
+  "steps.11.timer.label": {
+   "fr": "Poulet dans la sauce",
+   "t": "Chicken in the sauce"
+  },
+  "steps.11.timer.done": {
+   "fr": "Vérifie la cuisson du plus gros morceau.",
+   "t": "Check that the largest piece is cooked through."
+  },
+  "steps.12.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Check for doneness"
+  },
+  "steps.12.text": {
+   "fr": "Coupe le plus gros morceau en deux : la chair ne doit plus être rose au centre, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau.",
+   "t": "Cut the largest piece in half: the flesh must no longer be pink in the centre, the juices must run clear and steam must come out of it. With a thermometer, the centre must reach 75 °C for 30 seconds. If not, keep cooking, covered, then check again."
+  },
+  "steps.12.tip": {
+   "fr": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
+   "t": "The FSA asks for 75 °C at the centre for 30 seconds or 70 °C for 2 minutes; Anses asks for poultry to be cooked through, to 70 °C."
+  },
+  "steps.13.title": {
+   "fr": "Ajoute le fenugrec et le sucre",
+   "t": "Add the fenugreek and sugar"
+  },
+  "steps.13.text": {
+   "fr": "Émiette {{methi}} de kasuri methi entre tes paumes, au-dessus de la casserole. Ajoute {{sucre}} de sucre, mélange et goûte. Rectifie le {{sel}}.",
+   "t": "Crumble {{methi}} kasuri methi between your palms over the saucepan. Add {{sucre}} sugar, stir and taste. Adjust the {{sel}}."
+  },
+  "steps.14.title": {
+   "fr": "Ajoute la crème et sers",
+   "t": "Add the cream and serve"
+  },
+  "steps.14.text": {
+   "fr": "Coupe le feu. Dans un bol, mélange {{creme}} de crème avec quelques cuillerées de sauce chaude, puis verse le tout dans la casserole et remue. Parsème de {{coriandre}} ciselée et ajoute {{piment-vert:full}} si tu aimes. Sers tout de suite, avec du naan ou du riz basmati.",
+   "t": "Turn off the heat. In a bowl, mix {{creme}} cream with a few spoonfuls of the hot sauce, then pour it all into the saucepan and stir. Sprinkle with finely chopped {{coriandre}} and add {{piment-vert:full}} if you like. Serve straight away, with naan or basmati rice."
+  },
+  "steps.14.tip": {
+   "fr": "Mélanger d'abord la crème avec un peu de sauce chaude l'empêche de trancher (Swasthi).",
+   "t": "Mixing the cream with a little hot sauce first stops it from splitting (Swasthi)."
+  },
+  "secrets.0.text": {
+   "fr": "Sèche bien le poulet avec du papier absorbant avant de le mariner.",
+   "t": "Pat the chicken thoroughly dry with kitchen paper before marinating it."
+  },
+  "secrets.0.source": {
+   "fr": "Kunal Kapur (« pat dry the chicken ») ; Monish Gujral (poulet « pat dried ») ; Swasthi",
+   "t": "Kunal Kapur (“pat dry the chicken”); Monish Gujral (chicken “pat dried”); Swasthi"
+  },
+  "secrets.1.text": {
+   "fr": "Fais deux marinades : d'abord le citron, le piment et le sel, puis le yaourt et les épices. C'est la « double marinade » qui permettait de rôtir vite le poulet dans le tandoor.",
+   "t": "Make two marinades: first the lemon, chilli and salt, then the yoghurt and spices. This is the “double marinade” that made it possible to roast the chicken quickly in the tandoor."
+  },
+  "secrets.1.source": {
+   "fr": "Monish Gujral (recette de Moti Mahal) ; Kunal Kapur ; Ranveer Brar ; Swasthi ; Outlook India (2004)",
+   "t": "Monish Gujral (Moti Mahal recipe); Kunal Kapur; Ranveer Brar; Swasthi; Outlook India (2004)"
+  },
+  "secrets.2.text": {
+   "fr": "Prends un yaourt bien épais (égoutté ou grec). Un yaourt liquide rend trop d'eau à la cuisson : la marinade reste dans la poêle et le poulet est fade.",
+   "t": "Use a very thick yoghurt (strained or Greek). A runny yoghurt releases too much water as it cooks: the marinade stays in the pan and the chicken is bland."
+  },
+  "secrets.2.source": {
+   "fr": "Swasthi ; Kunal Kapur et Ranveer Brar utilisent aussi du yaourt égoutté (« hung curd »)",
+   "t": "Swasthi; Kunal Kapur and Ranveer Brar also use strained yoghurt (“hung curd”)"
+  },
+  "secrets.3.text": {
+   "fr": "Plus le poulet marine longtemps au réfrigérateur, plus il est tendre et juteux.",
+   "t": "The longer the chicken marinates in the fridge, the more tender and juicy it is."
+  },
+  "secrets.3.source": {
+   "fr": "Swasthi (12 heures conseillées, 48 heures au plus)",
+   "t": "Swasthi (12 hours recommended, 48 hours at most)"
+  },
+  "secrets.4.text": {
+   "fr": "Mixe la sauce très finement, puis passe-la au tamis : elle devient lisse et soyeuse.",
+   "t": "Blend the sauce very finely, then pass it through a sieve: it becomes smooth and silky."
+  },
+  "secrets.4.source": {
+   "fr": "Kunal Kapur ; Sanjeev Kapoor ; Monish Gujral ; Monish Gujral dans The National",
+   "t": "Kunal Kapur; Sanjeev Kapoor; Monish Gujral; Monish Gujral in The National"
+  },
+  "secrets.5.text": {
+   "fr": "Les noix de cajou épaississent la sauce et la rendent onctueuse.",
+   "t": "Cashew nuts thicken the sauce and make it creamy."
+  },
+  "secrets.5.source": {
+   "fr": "Swasthi ; Kunal Kapur ; Monish Gujral (pâte de cajou)",
+   "t": "Swasthi; Kunal Kapur; Monish Gujral (cashew paste)"
+  },
+  "secrets.6.text": {
+   "fr": "Les feuilles de fenugrec séchées (kasuri methi) sont l'ingrédient clé : rien ne les remplace. La poudre de graines de fenugrec n'a pas le même goût.",
+   "t": "Dried fenugreek leaves (kasuri methi) are the key ingredient: nothing can replace them. Ground fenugreek seeds do not taste the same."
+  },
+  "secrets.6.source": {
+   "fr": "Swasthi",
+   "t": "Swasthi"
+  },
+  "secrets.7.text": {
+   "fr": "Émiette ou grille un peu le kasuri methi avant de l'ajouter : il renforce le goût de la tomate.",
+   "t": "Crumble or lightly toast the kasuri methi before adding it: it enhances the flavour of the tomato."
+  },
+  "secrets.7.source": {
+   "fr": "Kunal Kapur (kasuri methi grillé) ; Sanjeev Kapoor (« roasted and powdered ») ; Ranveer Brar (« crushed »)",
+   "t": "Kunal Kapur (toasted kasuri methi); Sanjeev Kapoor (“roasted and powdered”); Ranveer Brar (“crushed”)"
+  },
+  "secrets.8.text": {
+   "fr": "Un peu de sucre ou de miel équilibre l'acidité des tomates.",
+   "t": "A little sugar or honey balances the acidity of the tomatoes."
+  },
+  "secrets.8.source": {
+   "fr": "Kunal Kapur ; Swasthi ; Ranveer Brar (miel)",
+   "t": "Kunal Kapur; Swasthi; Ranveer Brar (honey)"
+  },
+  "secrets.9.text": {
+   "fr": "Le piment du Cachemire est moyennement fort et donne une belle couleur rouge. Sinon, prends moitié paprika fumé, moitié piment de Cayenne.",
+   "t": "Kashmiri chilli is moderately hot and gives a lovely red colour. Otherwise, use half smoked paprika and half cayenne pepper."
+  },
+  "secrets.9.source": {
+   "fr": "Swasthi",
+   "t": "Swasthi"
+  },
+  "secrets.10.text": {
+   "fr": "Dore le poulet en deux ou trois fournées, selon la taille de la poêle, morceaux espacés, sans le cuire à cœur : il finit de cuire dans la sauce.",
+   "t": "Brown the chicken in two or three batches, depending on the size of the pan, with the pieces spaced apart, without cooking it through: it finishes cooking in the sauce."
+  },
+  "secrets.10.source": {
+   "fr": "Swasthi ; Ranveer Brar (poulet grillé « half cooked », puis fini dans la sauce)",
+   "t": "Swasthi; Ranveer Brar (chicken grilled “half cooked”, then finished in the sauce)"
+  },
+  "secrets.11.text": {
+   "fr": "Mélange la crème avec un peu de sauce chaude avant de la verser : elle ne tranche pas.",
+   "t": "Mix the cream with a little hot sauce before pouring it in: it will not split."
+  },
+  "secrets.11.source": {
+   "fr": "Swasthi",
+   "t": "Swasthi"
+  },
+  "secrets.12.text": {
+   "fr": "Le butter chicken est un plat doux : sa sauce au beurre et à la crème n'a pas d'épices trop fortes.",
+   "t": "Butter chicken is a mild dish: its butter and cream sauce has no overpowering spices."
+  },
+  "secrets.12.source": {
+   "fr": "Swasthi (« a mild dish ») ; The National (chef Sandeep Pande)",
+   "t": "Swasthi (“a mild dish”); The National (chef Sandeep Pande)"
+  },
+  "secrets.13.text": {
+   "fr": "Cette sauce makhani sert aussi de base à d'autres plats, comme le paneer makhani.",
+   "t": "This makhani sauce is also the base for other dishes, such as paneer makhani."
+  },
+  "secrets.13.source": {
+   "fr": "Kunal Kapur ; Outlook India (Monish Gujral : le shahi paneer « shares the same gravy »)",
+   "t": "Kunal Kapur; Outlook India (Monish Gujral: shahi paneer “shares the same gravy”)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre un yaourt liquide : il rend trop d'eau et le poulet est fade (Swasthi).",
+   "t": "Using runny yoghurt: it gives off too much water and the chicken turns out bland (Swasthi)."
+  },
+  "mistakes.1": {
+   "fr": "Remplacer les feuilles de fenugrec séchées par de la poudre de graines de fenugrec : le goût n'est pas le même (Swasthi).",
+   "t": "Replacing dried fenugreek leaves with ground fenugreek seeds: the taste is not the same (Swasthi)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser brûler la pâte ail-gingembre au fond de la casserole (Swasthi).",
+   "t": "Letting the garlic and ginger paste burn on the bottom of the pan (Swasthi)."
+  },
+  "mistakes.3": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "Washing raw chicken: it splashes bacteria everywhere, and only cooking kills them (FSA)."
+  },
+  "mistakes.4": {
+   "fr": "Couper les légumes sur la planche du poulet cru sans la laver, ou remettre le poulet doré dans le plat du cru (Anses, FSA).",
+   "t": "Cutting vegetables on the raw-chicken board without washing it, or putting the browned chicken back in the dish that held it raw (Anses, FSA)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser le poulet mariner longtemps hors du réfrigérateur : pas plus de 2 heures à température ambiante (Anses).",
+   "t": "Leaving the chicken to marinate for a long time out of the fridge: no more than 2 hours at room temperature (Anses)."
+  },
+  "mistakes.6": {
+   "fr": "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+   "t": "Serving without checking that the chicken is cooked through (FSA, Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Verser d'un coup la crème froide dans la sauce bouillante : elle risque de trancher (Swasthi).",
+   "t": "Pouring cold cream into the boiling sauce all at once: it may split (Swasthi)."
+  },
+  "mistakes.8": {
+   "fr": "Réchauffer les restes plus d'une fois (FSA).",
+   "t": "Reheating leftovers more than once (FSA)."
+  },
+  "variants.0": {
+   "fr": "Poulet cuit au four, comme Monish Gujral et Kunal Kapur : 180 °C pendant 20 minutes (Kunal Kapur), 200 °C pendant 15 à 18 minutes (Monish Gujral, dans The National) ou 240 °C pendant 20 à 22 minutes en le retournant (Swasthi), puis quelques minutes dans la sauce.",
+   "t": "Oven-cooked chicken, like Monish Gujral and Kunal Kapur: 180 °C for 20 minutes (Kunal Kapur), 200 °C for 15 to 18 minutes (Monish Gujral, in The National) or 240 °C for 20 to 22 minutes, turning it over (Swasthi), then a few minutes in the sauce."
+  },
+  "variants.1": {
+   "fr": "À l'ancienne, avec un poulet en morceaux avec os, comme le poulet tandoori de Moti Mahal (Monish Gujral ; Sanjeev Kapoor ; Ranveer Brar, version du Vieux Delhi, avec cuisses et pilons). Avec les os, il faut plus de temps dans la sauce : Sanjeev Kapoor compte 10 à 15 minutes à couvert, jusqu'à cuisson complète.",
+   "t": "The old way, with bone-in chicken pieces, like Moti Mahal's tandoori chicken (Monish Gujral; Sanjeev Kapoor; Ranveer Brar, Old Delhi version, with thighs and drumsticks). With the bones, it needs longer in the sauce: Sanjeev Kapoor allows 10 to 15 minutes, covered, until fully cooked."
+  },
+  "variants.2": {
+   "fr": "Fumé au charbon (« dhungar ») : un morceau de charbon de bois chauffé au rouge, posé dans un petit bol en inox au milieu du poulet, arrosé de ghee ou de beurre, puis couvercle fermé (Sanjeev Kapoor ; Ranveer Brar, qui compte 2 à 3 minutes). Attention : ce qui brûle du bois ou du charbon peut dégager du monoxyde de carbone ; le NHS déconseille d'utiliser un barbecue à l'intérieur et conseille de bien aérer. Fais-le fenêtre grande ouverte.",
+   "t": "Smoked with charcoal (“dhungar”): a piece of red-hot charcoal, set in a small stainless-steel bowl in the middle of the chicken, drizzled with ghee or butter, then the lid closed (Sanjeev Kapoor; Ranveer Brar, who allows 2 to 3 minutes). Careful: anything that burns wood or charcoal can give off carbon monoxide; the NHS advises against using a barbecue indoors and recommends good ventilation. Do it with the window wide open."
+  },
+  "variants.3": {
+   "fr": "Avec de l'huile de moutarde dans la marinade, comme Sanjeev Kapoor, Ranveer Brar et Kunal Kapur.",
+   "t": "With mustard oil in the marinade, like Sanjeev Kapoor, Ranveer Brar and Kunal Kapur."
+  },
+  "variants.4": {
+   "fr": "Avec un peu de farine de pois chiches grillée et du poivre noir concassé dans la marinade (Ranveer Brar, 2024).",
+   "t": "With a little toasted chickpea flour and crushed black pepper in the marinade (Ranveer Brar, 2024)."
+  },
+  "variants.5": {
+   "fr": "Sans noix de cajou : mets moins d'eau et plus de crème à la fin (Swasthi). Ou remplace-les par des amandes trempées 2 heures dans l'eau chaude, puis pelées et mixées (Swasthi).",
+   "t": "Without cashew nuts: use less water and more cream at the end (Swasthi). Or replace them with almonds soaked for 2 hours in hot water, then skinned and blended (Swasthi)."
+  },
+  "variants.6": {
+   "fr": "Avec un mélange d'épices maison : cardamome verte, cardamome noire, macis, clous de girofle et poivre noir, grillés à sec puis moulus (Ranveer Brar, version du Vieux Delhi).",
+   "t": "With a homemade spice mix: green cardamom, black cardamom, mace, cloves and black pepper, dry-toasted then ground (Ranveer Brar, Old Delhi version)."
+  },
+  "variants.7": {
+   "fr": "Avec du miel à la place du sucre (Ranveer Brar ; Kunal Kapur en parle aussi).",
+   "t": "With honey instead of sugar (Ranveer Brar; Kunal Kapur mentions it too)."
+  },
+  "variants.8": {
+   "fr": "Paneer makhani : la même sauce, avec du paneer à la place du poulet (Kunal Kapur). Le paneer se fait en caillant le lait chaud avec un acide (jus de citron, acide citrique ou vinaigre), sans présure (Wikipédia ; Swasthi) ; s'il est acheté tout fait, lis l'étiquette.",
+   "t": "Paneer makhani: the same sauce, with paneer instead of chicken (Kunal Kapur). Paneer is made by curdling hot milk with an acid (lemon juice, citric acid or vinegar), without rennet (Wikipedia; Swasthi); if you buy it ready-made, read the label."
+  }
+ }
+}

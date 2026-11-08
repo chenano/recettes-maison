@@ -1,0 +1,526 @@
+{
+ "_slug": "sellou",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Sellou, la douceur du ramadan",
+   "t": "Селлу, сладость Рамадана"
+  },
+  "darija": {
+   "fr": "sellou ; on dit aussi slilou ou sfouf",
+   "t": "селлу; также говорят слилу или сфуф"
+  },
+  "tagline": {
+   "fr": "De la farine grillée, des amandes frites et du sésame grillé, moulus puis liés au beurre, avec de la cannelle et de l'anis. On le prépare pour le ramadan et on le garde en boîte.",
+   "t": "Обжаренная мука, жаренный в масле миндаль и обжаренный кунжут, смолотые и соединённые со сливочным маслом, с корицей и анисом. Его готовят к Рамадану и хранят в контейнере."
+  },
+  "region": {
+   "fr": "Tout le Maroc, où on lui donne plusieurs noms (Al3omk) ; le rapport amandes, sésame et farine (1:1:1) suit la version de Fès décrite par Taste of Maroc ; les autres quantités viennent de la comparaison des recettes lues",
+   "t": "По всему Марокко, где у него несколько названий (Al3omk); соотношение миндаля, кунжута и муки (1:1:1) взято из фесского варианта, описанного Taste of Maroc; остальные количества — из сравнения изученных рецептов"
+  },
+  "occasion": {
+   "fr": "Ramadan (au ftour ou après les tarawih), naissances, mariages et fêtes de famille",
+   "t": "Рамадан (на ифтар или после молитв таравих), рождение детей, свадьбы и семейные праздники"
+  },
+  "img_alt": {
+   "fr": "Sellou moulé en dôme et décoré d'amandes, une part coupée",
+   "t": "Селлу, выложенный куполом и украшенный миндалём, один кусок отрезан"
+  },
+  "serving": {
+   "fr": "Dresse-le en petit dôme ou en cône sur une assiette, saupoudré de sucre glace et décoré d'amandes frites et de sésame grillé (Taste of Maroc ; Bladi.net ; Cooking with Alia). On le mange à la cuillère, avec du thé ou du café (Morocco World News ; Al3omk, qui le sert avec le thé, souvent après les tarawih ; Wikipédia en arabe). Pendant le ramadan, on le sert aussi au ftour (Taste of Maroc ; Morocco World News). Tu peux aussi le presser en petites boules ou en carrés, dans des caissettes (Taste of Maroc ; Cooking with Alia). Conservation, dans des boîtes hermétiques : Taste of Maroc le garde plusieurs mois à température ambiante et jusqu'à un an au congélateur ; Cooking with Alia le garde au réfrigérateur, jusqu'à un mois, et le sort avant de servir pour qu'il revienne à température ambiante. Si tu ne comptes pas le finir en un ou deux mois, congèles-en une partie (Taste of Maroc).",
+   "t": "Выложите его на тарелку небольшим куполом или конусом, посыпьте сахарной пудрой и украсьте жареным миндалём и обжаренным кунжутом (Taste of Maroc; Bladi.net; Cooking with Alia). Его едят ложкой, с чаем или кофе (Morocco World News; Al3omk, где его подают с чаем, часто после молитв таравих; арабская Wikipédia). Во время Рамадана его подают и на ифтар (Taste of Maroc; Morocco World News). Можно также спрессовать его в маленькие шарики или квадратики в бумажных формочках (Taste of Maroc; Cooking with Alia). Хранение — в герметичных контейнерах: Taste of Maroc хранит его несколько месяцев при комнатной температуре и до года в морозильнике; Cooking with Alia хранит его в холодильнике до месяца и достаёт перед подачей, чтобы он согрелся до комнатной температуры. Если не собираетесь съесть его за один-два месяца, заморозьте часть (Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Base",
+   "t": "Основа"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche ordinaire",
+   "t": "обычной белой пшеничной муки"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (blanchies et pelées)",
+   "t": "очищенного миндаля (бланшированного и без кожицы)"
+  },
+  "ing.amandes.note": {
+   "fr": "une fois frites, garde-en une petite poignée pour le décor",
+   "t": "после жарки отложите небольшую горсть для украшения"
+  },
+  "ing.huile-friture.name": {
+   "fr": "Huile de table, pour frire les amandes",
+   "t": "Растительное масло для жарки миндаля"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "кунжута"
+  },
+  "ing.sesame.note": {
+   "fr": "garde deux petites poignées de graines entières : une pour le mélange, une pour le décor",
+   "t": "оставьте две небольшие горсти целых семян: одну для смеси, другую для украшения"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "сахарной пудры"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "selon ton goût : goûte et ajuste",
+   "t": "по вкусу: попробуйте и отрегулируйте"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "ing.anis.name": {
+   "fr": "d'anis vert moulu",
+   "t": "молотого зелёного аниса"
+  },
+  "ing.anis.note": {
+   "fr": "nom marocain non confirmé : « النافع » selon Al3omk et Lalla Moulati, « الحبة الحلوة » selon Wikipédia en arabe",
+   "t": "марокканское название не подтверждено: «النافع» по данным Al3omk и Lalla Moulati, «الحبة الحلوة» по данным арабской Wikipédia"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.mastic.name": {
+   "fr": "de mastic en grains (meska, « المسكة الحرة »)",
+   "t": "мастики в зёрнах (меска, «المسكة الحرة»)"
+  },
+  "ing.mastic.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.sucre-mastic.name": {
+   "fr": "Un peu de sucre semoule, pour piler le mastic",
+   "t": "Немного сахарного песка, чтобы растолочь мастику"
+  },
+  "ing.muscade.name": {
+   "fr": "Un peu de noix de muscade râpée (facultatif)",
+   "t": "Немного тёртого мускатного ореха (по желанию)"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre doux",
+   "t": "несолёного сливочного масла"
+  },
+  "ing.beurre.note": {
+   "fr": "à clarifier ; c'est un maximum, tu n'en utiliseras peut-être pas tout",
+   "t": "его нужно перетопить; это максимум, возможно, понадобится не всё"
+  },
+  "ing.1.group": {
+   "fr": "Décor",
+   "t": "Для украшения"
+  },
+  "ing.sucre-glace-decor.name": {
+   "fr": "Un peu de sucre glace",
+   "t": "Немного сахарной пудры"
+  },
+  "equipment.0": {
+   "fr": "Un four et un grand plat à four (ou une grande plaque à rôtir)",
+   "t": "Духовка и большая форма для запекания (или большой противень)"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle à fond épais",
+   "t": "Большая сковорода с толстым дном"
+  },
+  "equipment.2": {
+   "fr": "Une poêle profonde ou une sauteuse pour frire les amandes",
+   "t": "Глубокая сковорода или сотейник для жарки миндаля"
+  },
+  "equipment.3": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "Шумовка и бумажные полотенца"
+  },
+  "equipment.4": {
+   "fr": "Une petite casserole, pour clarifier le beurre",
+   "t": "Маленькая кастрюлька, чтобы перетопить сливочное масло"
+  },
+  "equipment.5": {
+   "fr": "Un robot mixeur puissant",
+   "t": "Мощный кухонный комбайн"
+  },
+  "equipment.6": {
+   "fr": "Un tamis fin",
+   "t": "Мелкое сито"
+  },
+  "equipment.7": {
+   "fr": "Un très grand saladier ou une bassine",
+   "t": "Очень большая миска или таз"
+  },
+  "equipment.8": {
+   "fr": "Un mortier et un pilon (ou le dos d'une cuillère), pour le mastic",
+   "t": "Ступка и пестик (или тыльная сторона ложки) для мастики"
+  },
+  "equipment.9": {
+   "fr": "Des boîtes hermétiques",
+   "t": "Герметичные контейнеры"
+  },
+  "steps.0.title": {
+   "fr": "Clarifier le beurre",
+   "t": "Перетопите сливочное масло"
+  },
+  "steps.0.text": {
+   "fr": "Fais fondre {{beurre}} de beurre doux à feu doux, dans une petite casserole. Laisse chauffer jusqu'à ce que le petit-lait se dépose au fond et que de l'écume se forme dessus. Retire toute l'écume avec une cuillère.",
+   "t": "Растопите {{beurre}} несолёного сливочного масла на слабом огне в маленькой кастрюльке. Нагревайте, пока сыворотка не осядет на дно, а сверху не образуется пена. Снимите всю пену ложкой."
+  },
+  "steps.0.tip": {
+   "fr": "Pas le temps ? Taste of Maroc a aussi fait son sellou avec du ghee (beurre clarifié) du commerce.",
+   "t": "Нет времени? Taste of Maroc готовил селлу и на покупном гхи (топлёном масле)."
+  },
+  "steps.1.title": {
+   "fr": "Laisser durcir le beurre au frais",
+   "t": "Дайте маслу застыть в холодильнике"
+  },
+  "steps.1.text": {
+   "fr": "Mets la casserole au réfrigérateur au moins 1 heure, ou une nuit. Le beurre durcit. Sors le bloc de beurre et jette le liquide blanc resté dessous. Garde ce beurre clarifié au frais pendant que tu prépares le reste.",
+   "t": "Поставьте кастрюльку в холодильник минимум на 1 час или на ночь. Масло затвердеет. Выньте брусок масла и вылейте белую жидкость, оставшуюся под ним. Держите это топлёное масло в холодильнике, пока готовите остальное."
+  },
+  "steps.1.tip": {
+   "fr": "Taste of Maroc explique qu'enlever tout le petit-lait aide le sellou à rester frais et à ne pas se gâter.",
+   "t": "Taste of Maroc объясняет, что если удалить всю сыворотку, селлу дольше остаётся свежим и не портится."
+  },
+  "steps.2.title": {
+   "fr": "Griller la farine",
+   "t": "Обжарьте муку"
+  },
+  "steps.2.text": {
+   "fr": "Préchauffe le four à 200 °C. Étale {{farine}} de farine dans un grand plat à four. Enfourne 30 minutes et remue toutes les 5 minutes, jusqu'à une couleur dorée, claire à moyenne. Elle ne doit pas brûler.",
+   "t": "Разогрейте духовку до 200 °C. Распределите {{farine}} муки по большой форме для запекания. Поставьте в духовку на 30 минут и перемешивайте каждые 5 минут, пока мука не станет золотистой, от светлого до среднего оттенка. Она не должна подгореть."
+  },
+  "steps.2.tip": {
+   "fr": "Choumicha la fait dorer à 160 °C, en la remuant de temps en temps ; Cooking with Alia la laisse environ 45 minutes à 200 °C, jusqu'à une couleur brune.",
+   "t": "Choumicha подрумянивает её при 160 °C, время от времени помешивая; Cooking with Alia держит её около 45 минут при 200 °C, до коричневого цвета."
+  },
+  "steps.2.timer.label": {
+   "fr": "Farine au four",
+   "t": "Мука в духовке"
+  },
+  "steps.2.timer.done": {
+   "fr": "La farine est dorée, claire à moyenne ? Sors-la. Sinon, laisse-la encore quelques minutes, en remuant.",
+   "t": "Мука золотистая, от светлого до среднего оттенка? Выньте её. Если нет, оставьте ещё на несколько минут, помешивая."
+  },
+  "steps.3.title": {
+   "fr": "Tamiser la farine",
+   "t": "Просейте муку"
+  },
+  "steps.3.text": {
+   "fr": "Laisse refroidir la farine grillée. Tamise-la plusieurs fois. Écrase les petites boules dans le tamis avec une cuillère, et jette celles qui ne passent pas.",
+   "t": "Дайте обжаренной муке остыть. Просейте её несколько раз. Разминайте комочки в сите ложкой, а те, что не проходят, выбросьте."
+  },
+  "steps.3.tip": {
+   "fr": "Prends ton temps : pour Taste of Maroc, une farine bien tamisée est très importante pour le sellou.",
+   "t": "Не торопитесь: по мнению Taste of Maroc, хорошо просеянная мука очень важна для селлу."
+  },
+  "steps.4.title": {
+   "fr": "Griller le sésame",
+   "t": "Обжарьте кунжут"
+  },
+  "steps.4.text": {
+   "fr": "Mets {{sesame}} de sésame dans une grande poêle sèche, à feu moyen, en plusieurs fois si ta poêle est petite. Remue sans arrêt, jusqu'à ce que les graines soient un peu plus foncées, croquantes, et sentent bon le grillé. Laisse refroidir.",
+   "t": "Насыпьте {{sesame}} кунжута в большую сухую сковороду и обжаривайте на среднем огне, в несколько приёмов, если сковорода маленькая. Постоянно помешивайте, пока семена не станут чуть темнее, хрустящими и не начнут приятно пахнуть обжаренным. Дайте остыть."
+  },
+  "steps.4.tip": {
+   "fr": "Au four, Taste of Maroc grille le sésame à 200 °C pendant 15 à 20 minutes, en remuant de temps en temps. Si les graines sont sales, lave-les et sèche-les bien avant (Taste of Maroc).",
+   "t": "Taste of Maroc обжаривает кунжут в духовке при 200 °C 15–20 минут, время от времени помешивая. Если семена грязные, заранее промойте их и хорошо просушите (Taste of Maroc)."
+  },
+  "steps.5.title": {
+   "fr": "Frire les amandes",
+   "t": "Обжарьте миндаль"
+  },
+  "steps.5.text": {
+   "fr": "Verse un fond d'huile d'environ 1 cm dans une poêle profonde, à feu moyen. Quand l'huile est chaude, fais frire {{amandes}} d'amandes mondées, en plusieurs fois, en remuant sans arrêt, jusqu'à une couleur dorée, claire à moyenne. Sors-les aussitôt avec l'écumoire et pose-les sur du papier absorbant : elles foncent encore en refroidissant. Laisse-les refroidir complètement.",
+   "t": "Налейте в глубокую сковороду масло слоем около 1 см и поставьте на средний огонь. Когда масло нагреется, обжарьте {{amandes}} очищенного миндаля в несколько приёмов, постоянно помешивая, до золотистого цвета, от светлого до среднего оттенка. Сразу выньте его шумовкой и выложите на бумажные полотенца: остывая, он ещё темнеет. Дайте ему полностью остыть."
+  },
+  "steps.5.tip": {
+   "fr": "Pour tester l'huile, plonges-y une amande : de petites bulles doivent monter autour (Cooking with Alia). Si les amandes colorent en moins de 5 minutes, l'huile est trop chaude : baisse le feu (Taste of Maroc).",
+   "t": "Чтобы проверить масло, опустите в него миндалину: вокруг неё должны подниматься мелкие пузырьки (Cooking with Alia). Если миндаль подрумянивается быстрее чем за 5 минут, масло слишком горячее: убавьте огонь (Taste of Maroc)."
+  },
+  "steps.6.title": {
+   "fr": "Piler le mastic",
+   "t": "Растолките мастику"
+  },
+  "steps.6.text": {
+   "fr": "Si tu en mets, pile {{mastic}} de grains de mastic avec un peu de sucre semoule, au mortier ou avec le dos d'une cuillère, jusqu'à obtenir une poudre fine.",
+   "t": "Если вы её используете, растолките {{mastic}} зёрен мастики с небольшим количеством сахарного песка в ступке или тыльной стороной ложки до состояния мелкого порошка."
+  },
+  "steps.6.tip": {
+   "fr": "Le sucre empêche le mastic de coller à la cuillère (Taste of Maroc).",
+   "t": "Сахар не даёт мастике прилипать к ложке (Taste of Maroc)."
+  },
+  "steps.7.title": {
+   "fr": "Mélanger les ingrédients secs",
+   "t": "Смешайте сухие ингредиенты"
+  },
+  "steps.7.text": {
+   "fr": "Dans un très grand saladier, tamise ensemble la farine grillée, {{sucre-glace}} de sucre glace, {{cannelle}} de cannelle, {{anis}} d'anis moulu, {{sel}} de sel et le mastic pilé. Ajoute un peu de muscade râpée, si tu en mets. Mélange avec les mains.",
+   "t": "В очень большую миску просейте вместе обжаренную муку, {{sucre-glace}} сахарной пудры, {{cannelle}} корицы, {{anis}} молотого аниса, {{sel}} соли и толчёную мастику. Добавьте немного тёртого мускатного ореха, если используете. Перемешайте руками."
+  },
+  "steps.8.title": {
+   "fr": "Moudre le sésame",
+   "t": "Смелите кунжут"
+  },
+  "steps.8.text": {
+   "fr": "Garde deux petites poignées de sésame entier. Mixe le reste au robot, en plusieurs fois, jusqu'à obtenir presque une pâte. Verse le sésame moulu dans le saladier, avec une des poignées de graines entières. Garde l'autre poignée pour le décor.",
+   "t": "Отложите две небольшие горсти целого кунжута. Остальное измельчите в комбайне в несколько приёмов почти до состояния пасты. Высыпьте молотый кунжут в миску вместе с одной горстью целых семян. Другую горсть оставьте для украшения."
+  },
+  "steps.9.title": {
+   "fr": "Moudre les amandes",
+   "t": "Смелите миндаль"
+  },
+  "steps.9.text": {
+   "fr": "Garde une petite poignée d'amandes frites pour le décor. Mixe la moitié du reste en pâte lisse, et l'autre moitié en poudre. Ajoute les deux au saladier.",
+   "t": "Отложите небольшую горсть жареного миндаля для украшения. Половину остального измельчите в гладкую пасту, а другую половину — в порошок. Добавьте и то и другое в миску."
+  },
+  "steps.9.tip": {
+   "fr": "Pour plus de croquant, concasse grossièrement quelques amandes frites et ajoute-les au mélange (Taste of Maroc ; Choumicha).",
+   "t": "Для хруста крупно порубите несколько жареных миндалин и добавьте их в смесь (Taste of Maroc; Choumicha)."
+  },
+  "steps.10.title": {
+   "fr": "Mélanger longuement à la main",
+   "t": "Долго перемешивайте руками"
+  },
+  "steps.10.text": {
+   "fr": "Mélange tout avec les mains pendant 10 minutes, en frottant le mélange entre tes paumes, jusqu'à ce qu'il ne reste aucune boule ni grumeau. Goûte, et ajoute un peu de sucre glace, de cannelle ou d'anis si tu veux.",
+   "t": "Перемешивайте всё руками 10 минут, растирая смесь между ладонями, пока не останется ни шариков, ни комочков. Попробуйте и, если хотите, добавьте немного сахарной пудры, корицы или аниса."
+  },
+  "steps.10.timer.label": {
+   "fr": "Mélange à la main",
+   "t": "Перемешивание руками"
+  },
+  "steps.10.timer.done": {
+   "fr": "Plus aucun grumeau ? Goûte et ajuste, puis passe au beurre.",
+   "t": "Комочков больше нет? Попробуйте, отрегулируйте вкус и переходите к маслу."
+  },
+  "steps.11.title": {
+   "fr": "Ajouter le beurre peu à peu",
+   "t": "Добавляйте масло понемногу"
+  },
+  "steps.11.text": {
+   "fr": "Fais fondre le beurre clarifié à feu très doux. Verse-le peu à peu sur le mélange, en pétrissant après chaque ajout. Arrête-toi quand le sellou brille et tient quand tu le presses : ferme, mais souple. Tu n'utiliseras peut-être pas tout le beurre.",
+   "t": "Растопите топлёное масло на очень слабом огне. Понемногу вливайте его в смесь, вымешивая после каждой порции. Остановитесь, когда селлу заблестит и будет держать форму при сжатии: плотный, но мягкий. Возможно, понадобится не всё масло."
+  },
+  "steps.11.tip": {
+   "fr": "Avec moins de beurre, le sellou reste plus poudreux. Taste of Maroc le préfère assez humide pour le presser et le manger à la main.",
+   "t": "Если масла меньше, селлу остаётся более рассыпчатым. Taste of Maroc предпочитает его достаточно влажным, чтобы его можно было спрессовать и есть руками."
+  },
+  "steps.12.title": {
+   "fr": "Pétrir 5 minutes",
+   "t": "Вымешивайте 5 минут"
+  },
+  "steps.12.text": {
+   "fr": "Pétris encore 5 minutes, jusqu'à obtenir un mélange bien homogène.",
+   "t": "Вымешивайте ещё 5 минут, пока смесь не станет совершенно однородной."
+  },
+  "steps.12.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Вымешивание"
+  },
+  "steps.12.timer.done": {
+   "fr": "Le sellou est homogène ? Mets-le en boîte.",
+   "t": "Селлу однородный? Разложите его по контейнерам."
+  },
+  "steps.13.title": {
+   "fr": "Refroidir avant de fermer",
+   "t": "Остудите, прежде чем закрыть"
+  },
+  "steps.13.text": {
+   "fr": "Mets le sellou dans des boîtes hermétiques. Laisse-le refroidir complètement, sans couvercle, pendant plusieurs heures. Ferme ensuite les boîtes.",
+   "t": "Разложите селлу по герметичным контейнерам. Дайте ему полностью остыть без крышки в течение нескольких часов. Затем закройте контейнеры."
+  },
+  "steps.13.tip": {
+   "fr": "Morocco World News le laisse une nuit dans le saladier avant de le mettre en boîte.",
+   "t": "Morocco World News оставляет его на ночь в миске, прежде чем разложить по контейнерам."
+  },
+  "steps.14.title": {
+   "fr": "Dresser et servir",
+   "t": "Выложите и подавайте"
+  },
+  "steps.14.text": {
+   "fr": "Pour servir, dresse le sellou en petit dôme sur une assiette. Saupoudre-le d'un peu de sucre glace, puis décore avec les amandes frites et le sésame gardés. Sers-le avec le thé.",
+   "t": "Для подачи выложите селлу на тарелку небольшим куполом. Посыпьте его небольшим количеством сахарной пудры, затем украсьте отложенным жареным миндалём и кунжутом. Подавайте с чаем."
+  },
+  "steps.14.tip": {
+   "fr": "Tu peux aussi le presser en petites boules ou en carrés (Taste of Maroc ; Cooking with Alia).",
+   "t": "Можно также спрессовать его в маленькие шарики или квадратики (Taste of Maroc; Cooking with Alia)."
+  },
+  "secrets.0.text": {
+   "fr": "Autant d'amandes et de sésame que de farine, en poids : c'est la version de Fès. N'augmente pas la farine : ce sont les amandes et le sésame en bonne quantité qui font un bon sellou maison.",
+   "t": "Миндаля и кунжута — столько же, сколько муки, по весу: таков фесский вариант. Не увеличивайте количество муки: хороший домашний селлу получается именно благодаря щедрому количеству миндаля и кунжута."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; même rapport chez Cooking with Alia (n° 777), Lalla Moulati (n° 359492) et Wikipédia en arabe",
+   "t": "Taste of Maroc; такое же соотношение у Cooking with Alia (№ 777), Lalla Moulati (№ 359492) и в арабской Wikipédia"
+  },
+  "secrets.1.text": {
+   "fr": "Remue souvent la farine pendant qu'elle grille, et ne la laisse pas brûler.",
+   "t": "Часто перемешивайте муку, пока она обжаривается, и не давайте ей подгореть."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (toutes les 5 minutes) ; Choumicha ; Cooking with Alia",
+   "t": "Taste of Maroc (каждые 5 минут); Choumicha; Cooking with Alia"
+  },
+  "secrets.2.text": {
+   "fr": "Tamise plusieurs fois la farine grillée et prends ton temps : c'est très important pour le sellou.",
+   "t": "Просейте обжаренную муку несколько раз и не торопитесь: для селлу это очень важно."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Choumicha et Cooking with Alia tamisent aussi",
+   "t": "Taste of Maroc; Choumicha и Cooking with Alia тоже просеивают"
+  },
+  "secrets.3.text": {
+   "fr": "Clarifie le beurre et enlève tout le petit-lait : c'est important pour que le sellou reste frais et ne se gâte pas.",
+   "t": "Перетопите сливочное масло и удалите всю сыворотку: это важно, чтобы селлу оставался свежим и не портился."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; Morocco World News, Cooking with Alia et Lalla Moulati clarifient aussi le beurre",
+   "t": "Taste of Maroc; Morocco World News, Cooking with Alia и Lalla Moulati тоже перетапливают масло"
+  },
+  "secrets.4.text": {
+   "fr": "La façon traditionnelle est de frire les amandes. Les griller au four est possible, mais c'est moins traditionnel.",
+   "t": "Традиционно миндаль жарят в масле. Можно обжарить его в духовке, но это менее традиционно."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Bladi.net, Cooking with Alia, Lalla Moulati et Wikipédia en arabe les font frire ; Choumicha les grille au four",
+   "t": "Taste of Maroc; Bladi.net, Cooking with Alia, Lalla Moulati и арабская Wikipédia жарят его в масле; Choumicha обжаривает его в духовке"
+  },
+  "secrets.5.text": {
+   "fr": "Sors les amandes de l'huile dès qu'elles sont dorées : elles continuent de foncer en refroidissant.",
+   "t": "Вынимайте миндаль из масла, как только он станет золотистым: остывая, он продолжает темнеть."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia",
+   "t": "Taste of Maroc; Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Mixe le sésame presque en pâte, mais garde quelques graines entières dans le mélange.",
+   "t": "Измельчите кунжут почти в пасту, но оставьте в смеси немного целых семян."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Wikipédia en arabe met aussi des graines entières dans le mélange ; Morocco World News met une demi-tasse de sésame de côté, sans dire à quoi elle sert",
+   "t": "Taste of Maroc; арабская Wikipédia тоже добавляет в смесь целые семена; Morocco World News откладывает полчашки кунжута, не уточняя, для чего"
+  },
+  "secrets.7.text": {
+   "fr": "Mixe une partie des amandes en pâte lisse et l'autre en poudre ; quelques amandes concassées ajoutent du croquant.",
+   "t": "Часть миндаля измельчите в гладкую пасту, а другую — в порошок; несколько порубленных миндалин добавят хруста."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Choumicha (200 g d'amandes concassées en plus, pour 500 g de farine)",
+   "t": "Taste of Maroc; Choumicha (дополнительно 200 г порубленного миндаля на 500 г муки)"
+  },
+  "secrets.8.text": {
+   "fr": "Pile le mastic avec un peu de sucre : il ne colle plus à la cuillère.",
+   "t": "Толките мастику с небольшим количеством сахара: тогда она не прилипает к ложке."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia pile aussi la gomme avec du sucre",
+   "t": "Taste of Maroc; Cooking with Alia тоже толчёт смолу с сахаром"
+  },
+  "secrets.9.text": {
+   "fr": "Mélange longuement à la main, au moins 10 minutes, en frottant entre tes paumes, avant d'ajouter le beurre.",
+   "t": "Долго перемешивайте руками, не менее 10 минут, растирая смесь между ладонями, прежде чем добавлять масло."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc ; Choumicha pétrit 10 à 15 minutes",
+   "t": "Taste of Maroc; Choumicha вымешивает 10–15 минут"
+  },
+  "secrets.10.text": {
+   "fr": "Goûte avant d'ajouter le beurre, et ajuste le sucre, la cannelle ou l'anis : chaque famille a son goût.",
+   "t": "Попробуйте, прежде чем добавлять масло, и отрегулируйте количество сахара, корицы или аниса: у каждой семьи свой вкус."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia",
+   "t": "Taste of Maroc; Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Ajoute le beurre peu à peu, juste ce qu'il faut : le sellou doit briller et rester souple.",
+   "t": "Добавляйте масло понемногу, ровно столько, сколько нужно: селлу должен блестеть и оставаться мягким."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; Choumicha incorpore le beurre en pétrissant",
+   "t": "Taste of Maroc; Choumicha вмешивает масло, вымешивая смесь"
+  },
+  "secrets.12.text": {
+   "fr": "Laisse le sellou refroidir complètement avant de fermer la boîte.",
+   "t": "Дайте селлу полностью остыть, прежде чем закрыть контейнер."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; Morocco World News (une nuit dans le saladier)",
+   "t": "Taste of Maroc; Morocco World News (ночь в миске)"
+  },
+  "secrets.13.text": {
+   "fr": "Si l'huile remonte à la surface, surtout quand il fait chaud, c'est normal : remélange avant de servir.",
+   "t": "Если масло выступает на поверхность, особенно в жару, это нормально: перемешайте перед подачей."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Laisser brûler la farine au four : remue-la souvent (Taste of Maroc ; Choumicha ; Cooking with Alia).",
+   "t": "Дать муке подгореть в духовке: часто её перемешивайте (Taste of Maroc; Choumicha; Cooking with Alia)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre plus de farine que d'amandes et de sésame : le goût des fruits secs s'efface (Taste of Maroc).",
+   "t": "Класть муки больше, чем миндаля и кунжута: ореховый вкус теряется (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de tamiser la farine grillée : il reste des boules (Taste of Maroc ; Cooking with Alia).",
+   "t": "Забыть просеять обжаренную муку: остаются комочки (Taste of Maroc; Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les amandes trop longtemps dans l'huile : elles foncent encore après (Taste of Maroc ; Cooking with Alia).",
+   "t": "Передерживать миндаль в масле: он продолжает темнеть и потом (Taste of Maroc; Cooking with Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Garder le petit-lait dans le beurre clarifié (Taste of Maroc ; Morocco World News).",
+   "t": "Оставлять сыворотку в топлёном масле (Taste of Maroc; Morocco World News)."
+  },
+  "mistakes.5": {
+   "fr": "Verser tout le beurre d'un coup : ajoute-le peu à peu (Taste of Maroc ; Choumicha).",
+   "t": "Вливать всё масло сразу: добавляйте его понемногу (Taste of Maroc; Choumicha)."
+  },
+  "mistakes.6": {
+   "fr": "Fermer la boîte quand le sellou est encore chaud (Taste of Maroc ; Morocco World News).",
+   "t": "Закрывать контейнер, пока селлу ещё горячий (Taste of Maroc; Morocco World News)."
+  },
+  "mistakes.7": {
+   "fr": "Pour la variante au miel : ne pas en donner à un bébé de moins d'un an, à cause du risque de botulisme infantile (NHS, service de santé britannique). Et pas d'amandes entières, comme celles du décor, avant 5 ans : un enfant peut s'étouffer avec (NHS).",
+   "t": "Для варианта с мёдом: не давайте его детям до одного года из-за риска младенческого ботулизма (NHS, британская служба здравоохранения). И никакого цельного миндаля, как тот, что для украшения, детям до 5 лет: ребёнок может им подавиться (NHS)."
+  },
+  "variants.0": {
+   "fr": "Version de Choumicha, moins riche en fruits secs et plus sucrée : 500 g de farine dorée au four à 160 °C, 250 g d'amandes grillées au four, 250 g de sésame, 400 g de sucre glace, ½ c. à s. d'anis moulu, 1 c. à s. de cannelle, ½ c. à c. de sel, ¼ c. à c. de mastic, 260 g de beurre fondu. Le sésame est moulu chaud avec la moitié du sucre glace, les amandes avec le reste. Le sellou est tassé sur 2 cm dans un moule, gardé 2 heures au réfrigérateur, puis coupé en losanges (Choumicha).",
+   "t": "Вариант Choumicha, с меньшим количеством орехов и более сладкий: 500 г муки, подрумяненной в духовке при 160 °C, 250 г миндаля, обжаренного в духовке, 250 г кунжута, 400 г сахарной пудры, ½ ст. л. молотого аниса, 1 ст. л. корицы, ½ ч. л. соли, ¼ ч. л. мастики, 260 г растопленного сливочного масла. Кунжут мелют горячим с половиной сахарной пудры, миндаль — с остальной. Селлу утрамбовывают в форму слоем 2 см, выдерживают 2 часа в холодильнике, затем нарезают ромбами (Choumicha)."
+  },
+  "variants.1": {
+   "fr": "Avec cacahuètes, anis et fenouil : 1 kg de farine, 500 g de sésame, 500 g d'amandes, 500 g de cacahuètes grillées, 2 c. à s. de graines d'anis et 2 c. à s. de graines de fenouil, grillées puis moulues, 1 c. à s. de cannelle, 200 g de sucre glace, ½ tasse de miel, 125 g de beurre clarifié et de l'huile chauffée puis refroidie (Morocco World News). Les cacahuètes reviennent aussi chez Lalla Moulati (n° 360164), Cooking with Alia (n° 146) et Wikipédia en arabe.",
+   "t": "С арахисом, анисом и фенхелем: 1 кг муки, 500 г кунжута, 500 г миндаля, 500 г обжаренного арахиса, 2 ст. л. семян аниса и 2 ст. л. семян фенхеля, обжаренных и смолотых, 1 ст. л. корицы, 200 г сахарной пудры, ½ чашки мёда, 125 г топлёного масла и растительное масло, нагретое, а затем остуженное (Morocco World News). Арахис встречается также у Lalla Moulati (№ 360164), Cooking with Alia (№ 146) и в арабской Wikipédia."
+  },
+  "variants.2": {
+   "fr": "Au miel : Taste of Maroc remplace le sucre glace par du miel et met alors moins de beurre ; Wikipédia en arabe et Cooking with Alia mettent aussi du miel. Pas de miel pour un bébé de moins d'un an (NHS).",
+   "t": "С мёдом: Taste of Maroc заменяет сахарную пудру мёдом и тогда кладёт меньше сливочного масла; в арабской Wikipédia и у Cooking with Alia тоже кладут мёд. Не давайте мёд младенцам до одного года (NHS)."
+  },
+  "variants.3": {
+   "fr": "À l'huile : un peu de l'huile de friture des amandes à la place du beurre clarifié (Taste of Maroc), ou en plus du beurre (Lalla Moulati n° 359492 : ¾ de verre de chaque), ou de l'huile d'olive au lieu du beurre (Taste of Maroc ; Lalla Moulati n° 359364, un verre d'huile d'olive pour 1 kg de farine).",
+   "t": "На растительном масле: немного масла, в котором жарили миндаль, вместо топлёного масла (Taste of Maroc) или в дополнение к нему (Lalla Moulati № 359492: по ¾ стакана того и другого), либо оливковое масло вместо сливочного (Taste of Maroc; Lalla Moulati № 359364: стакан оливкового масла на 1 кг муки)."
+  },
+  "variants.4": {
+   "fr": "Version de Bladi.net : 1 kg de farine, 750 g de sésame, 500 g d'amandes frites, 500 g de sucre glace, 3 c. à s. de cannelle, 1 c. à s. de gomme (« masqua horra »), du beurre fondu et de l'huile ; le sellou est dressé en pyramide (Bladi.net).",
+   "t": "Вариант Bladi.net: 1 кг муки, 750 г кунжута, 500 г жареного миндаля, 500 г сахарной пудры, 3 ст. л. корицы, 1 ст. л. смолы («masqua horra»), растопленное сливочное масло и растительное масло; селлу выкладывают пирамидой (Bladi.net)."
+  },
+  "variants.5": {
+   "fr": "Version de Cooking with Alia (n° 777) : 500 g de farine grillée environ 45 minutes à 200 °C, 500 g d'amandes frites, 500 g de sésame, 1 c. à c. de muscade, 300 g de beurre clarifié, sucre glace et miel au goût.",
+   "t": "Вариант Cooking with Alia (№ 777): 500 г муки, обжаренной около 45 минут при 200 °C, 500 г жареного миндаля, 500 г кунжута, 1 ч. л. мускатного ореха, 300 г топлёного масла, сахарная пудра и мёд по вкусу."
+  },
+  "variants.6": {
+   "fr": "Autres parfums : graines de lin grillées (Lalla Moulati n° 359492), cardamome (Cooking with Alia n° 146), muscade (Cooking with Alia ; Lalla Moulati).",
+   "t": "Другие ароматы: обжаренные семена льна (Lalla Moulati № 359492), кардамон (Cooking with Alia № 146), мускатный орех (Cooking with Alia; Lalla Moulati)."
+  },
+  "variants.7": {
+   "fr": "À la farine complète, au miel et à l'huile d'olive ou d'argan (Taste of Maroc ; Cooking with Alia n° 495). Sans gluten : une farine sans gluten grillée et de l'huile d'argan (Taste of Maroc).",
+   "t": "С цельнозерновой мукой, мёдом и оливковым или аргановым маслом (Taste of Maroc; Cooking with Alia № 495). Без глютена: обжаренная мука без глютена и аргановое масло (Taste of Maroc)."
+  },
+  "variants.8": {
+   "fr": "Zmita (ou zomita) : une douceur proche, avec de la farine d'orge, du millet, des graines de lin et des herbes (Taste of Maroc).",
+   "t": "Змита (или зомита): похожая сладость из ячменной муки, проса, семян льна и трав (Taste of Maroc)."
+  }
+ }
+}

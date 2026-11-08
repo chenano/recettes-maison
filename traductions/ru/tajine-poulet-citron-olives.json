@@ -38,10 +38,6 @@
    "fr": "poulets halal, fermiers (beldi) de préférence",
    "t": "тушки халяльной курицы, лучше фермерской (бельди)"
   },
-  "ing.poulet.pl5": {
-   "fr": "poulet halal, fermier (beldi) de préférence / poulets halal, fermiers (beldi) de préférence",
-   "t": "тушек халяльной курицы, лучше фермерской (бельди)"
-  },
   "ing.poulet.note": {
    "fr": "environ 1,5 kg pièce, à couper en 4 à 6 morceaux",
    "t": "около 1,5 кг каждая, разрезать на 4–6 частей"
@@ -98,10 +94,6 @@
    "fr": "gousses d'ail, écrasées ou râpées",
    "t": "зубчика чеснока (раздавить или натереть)"
   },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail, écrasée ou râpée / gousses d'ail, écrasées ou râpées",
-   "t": "зубчиков чеснока (раздавить или натереть)"
-  },
   "ing.jus-citron.name": {
    "fr": "de jus de citron frais",
    "t": "свежего лимонного сока"
@@ -121,10 +113,6 @@
   "ing.oignons.pl": {
    "fr": "oignons moyens (jaunes, blancs ou rouges)",
    "t": "луковицы среднего размера (жёлтого, белого или красного лука)"
-  },
-  "ing.oignons.pl5": {
-   "fr": "oignon moyen (jaune, blanc ou rouge) / oignons moyens (jaunes, blancs ou rouges)",
-   "t": "луковиц среднего размера (жёлтого, белого или красного лука)"
   },
   "ing.oignons.note": {
    "fr": "à hacher finement",
@@ -156,10 +144,6 @@
   },
   "ing.citron-confit.pl": {
    "fr": "citrons confits",
-   "t": "шт. солёного лимона"
-  },
-  "ing.citron-confit.pl5": {
-   "fr": "citron confit / citrons confits",
    "t": "шт. солёного лимона"
   },
   "ing.citron-confit.note": {
@@ -231,8 +215,8 @@
    "t": "Замаринуйте курицу"
   },
   "steps.2.text": {
-   "fr": "Coupe le poulet en 4 à 6 morceaux. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
-   "t": "Разрежьте курицу на 4–6 частей. Хорошо натрите каждый кусок маринадом, в том числе под кожей. Накройте и оставьте в холодильнике минимум на 1 ч, а лучше на 2 ч или на всю ночь."
+   "fr": "Coupe la volaille en morceaux, 4 à 6 par poulet. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
+   "t": "Разрежьте птицу на части: по 4–6 из каждой курицы. Хорошо натрите каждый кусок маринадом, в том числе под кожей. Накройте и оставьте в холодильнике минимум на 1 ч, а лучше на 2 ч или на всю ночь."
   },
   "steps.2.timer.label": {
    "fr": "Marinade du poulet",
@@ -553,6 +537,22 @@
   "variants.8": {
    "fr": "Adaptations anglophones de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika et cumin dans la marinade, bouillon de volaille, cuisson plus courte ou au four ; non retenues car absentes des sources marocaines consultées.",
    "t": "Англоязычные адаптации Paula Wolfert (Sunset, Zarela): тёртый лук, паприка и кумин в маринаде, бульон из птицы, более короткое приготовление или запекание в духовке; не использованы, так как их нет в изученных марокканских источниках."
+  },
+  "ing.poulet.pl5": {
+   "fr": "poulet halal, fermier (beldi) de préférence / poulets halal, fermiers (beldi) de préférence",
+   "t": "тушек халяльной курицы, лучше фермерской (бельди)"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail, écrasée ou râpée / gousses d'ail, écrasées ou râpées",
+   "t": "зубчиков чеснока (раздавить или натереть)"
+  },
+  "ing.oignons.pl5": {
+   "fr": "oignon moyen (jaune, blanc ou rouge) / oignons moyens (jaunes, blancs ou rouges)",
+   "t": "луковиц среднего размера (жёлтого, белого или красного лука)"
+  },
+  "ing.citron-confit.pl5": {
+   "fr": "citron confit / citrons confits",
+   "t": "шт. солёного лимона"
   }
  }
 }

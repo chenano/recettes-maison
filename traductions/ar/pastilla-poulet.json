@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Sers-la bien chaude, sur un grand plat rond. Dans un repas de fête, elle se sert en entrée, avant le tajine de poulet ou le méchoui. Tu peux ajouter quelques amandes frites entières sur le décor.",
-   "t": "قدّمها ساخنة جيدًا في طبق كبير مستدير. في ولائم المناسبات تُقدَّم طبقًا أوّل، قبل طاجين الدجاج أو المشوي. يمكنك أن تضيف بعض حبات اللوز المقلي الكاملة فوق الزينة."
+   "t": "قدّمها ساخنة جدًا في طبق كبير مستدير. في ولائم المناسبات تُقدَّم طبقًا أوّل، قبل طاجين الدجاج أو المشوي. يمكنك أن تضيف بعض حبات اللوز المقلي الكاملة فوق الزينة."
   },
   "ing.0.group": {
    "fr": "Poulet et sauce aux oignons",
@@ -175,8 +175,8 @@
    "t": "أوراق بسطيلة أو بريك للجوانب"
   },
   "ing.feuilles-tour.note": {
-   "fr": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
-   "t": "جهّز من 12 إلى 15 ورقة في المجموع حتى يكون لديك احتياط"
+   "fr": "prévois en tout un peu plus de feuilles que la somme des trois lignes (tour, fond, dessus), pour avoir de la marge : pour 8 personnes, 12 à 15 feuilles",
+   "t": "جهّز في المجموع أوراقًا أكثر قليلًا من مجموع الأسطر الثلاثة (الجوانب، القاع، الوجه)، حتى يكون لديك احتياط: لـ 8 أشخاص، من 12 إلى 15 ورقة"
   },
   "ing.feuilles-fond.name": {
    "fr": "feuille de warqa ou de brick, pour le fond",
@@ -420,7 +420,7 @@
   },
   "steps.15.text": {
    "fr": "Laisse reposer la pastilla avant de la couper. Fais-la glisser délicatement sur un grand plat rond. Saupoudre {{sucre-glace-decor}} de sucre glace à travers une passoire fine, puis trace des croisillons avec {{cannelle-decor}} de cannelle. Sers bien chaud.",
-   "t": "اترك البسطيلة ترتاح قبل تقطيعها. دعها تنزلق بلطف إلى طبق كبير مستدير. رشّ {{sucre-glace-decor}} من السكر الناعم عبر مصفاة دقيقة، ثم ارسم خطوطًا متقاطعة باستعمال {{cannelle-decor}} من القرفة. قدّمها ساخنة جيدًا."
+   "t": "اترك البسطيلة ترتاح قبل تقطيعها. دعها تنزلق بلطف إلى طبق كبير مستدير. رشّ {{sucre-glace-decor}} من السكر الناعم عبر مصفاة دقيقة، ثم ارسم خطوطًا متقاطعة باستعمال {{cannelle-decor}} من القرفة. قدّمها ساخنة جدًا."
   },
   "steps.15.timer.label": {
    "fr": "Repos avant découpe",
@@ -428,7 +428,7 @@
   },
   "steps.15.timer.done": {
    "fr": "Décore et sers bien chaud !",
-   "t": "زيّنها وقدّمها ساخنة جيدًا!"
+   "t": "زيّنها وقدّمها ساخنة جدًا!"
   },
   "secrets.0.text": {
    "fr": "Fais réduire la sauce aux oignons jusqu'à ce qu'elle « tienne dans son gras » : plus une goutte de liquide. Une farce humide ramollit la pastilla.",
@@ -440,7 +440,7 @@
   },
   "secrets.1.text": {
    "fr": "Cuis les œufs dans la sauce réduite en remuant sans arrêt, jusqu'à une texture d'œufs brouillés bien secs.",
-   "t": "اطبخ البيض في الصلصة المكثفة مع التحريك دون توقف، حتى يصير قوامه مثل بيض مخفوق مطبوخ في المقلاة حتى جفّ تمامًا."
+   "t": "اطبخ البيض في الصلصة المكثفة مع التحريك دون توقف، إلى أن يصير قوامه مثل بيض مخفوق مطبوخ في المقلاة حتى جفّ تمامًا."
   },
   "secrets.1.source": {
    "fr": "Cooking with Alia ; Ma fleur d'oranger ; Paula Wolfert (The Food of Morocco)",
@@ -571,8 +571,8 @@
    "t": "على طريقة Paula Wolfert (The Food of Morocco): الفرن على 220 درجة مئوية لمدة 20 دقيقة، ثم تُقلب البسطيلة على صينية مدهونة بالزبدة، وتُدهن بالزبدة، وتُعاد إلى الفرن 10 دقائق؛ وتضيف أيضًا عصير الليمون إلى الصلصة قبل البيض، وقليلًا جدًا من جوزة الطيب."
   },
   "variants.7": {
-   "fr": "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
-   "t": "لمسات أخرى حسب العائلات: قليل من الصمغ العربي المدقوق في الصلصة (Cooking with Alia، الوصفة 695؛ Épices et douceurs) أو من رأس الحانوت (Femmes du Maroc)."
+   "fr": "Autres touches selon les familles : un peu de gomme arabique dans la sauce, en petits grains (Cooking with Alia, recette 695) ou écrasée (Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
+   "t": "لمسات أخرى حسب العائلات: قليل من الصمغ العربي في الصلصة، على شكل حبيبات صغيرة (Cooking with Alia، الوصفة 695) أو مدقوقًا (Épices et douceurs)، أو من رأس الحانوت (Femmes du Maroc)."
   }
  }
 }

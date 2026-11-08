@@ -1,0 +1,470 @@
+{
+ "_slug": "maakouda",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Maakouda (beignets de pommes de terre)",
+   "t": "المعقودة (أقراص البطاطا المقلية)"
+  },
+  "darija": {
+   "fr": "maakouda",
+   "t": "معقودة"
+  },
+  "tagline": {
+   "fr": "De petites galettes de purée à l'ail et au persil, trempées dans une pâte jaune à la levure et frites : croustillantes dehors, fondantes dedans, la maakouda des snacks marocains.",
+   "t": "أقراص صغيرة من مهروس البطاطا بالثوم والبقدونس، تُغمس في عجينة صفراء بخميرة الخبز ثم تُقلى: مقرمشة من الخارج، طرية من الداخل، إنها معقودة محلات السناك المغربية."
+  },
+  "region": {
+   "fr": "Fès. Selon un vendeur de maakouda de Fès, c'est un plat d'origine fassie, né dans le quartier des Achabine (Febrayer). C'est à Fès qu'elle est la plus célèbre (MWN Lifestyle, 2021). Elle est aujourd'hui vendue dans presque toutes les villes du Maroc (MWN Lifestyle).",
+   "t": "فاس. حسب بائع معقودة في فاس، هي طبق فاسي الأصل، وُلد في حي العشّابين (Febrayer). وهي أشهر ما تكون في فاس (MWN Lifestyle، 2021). وتُباع اليوم في كل مدن المغرب تقريبًا (MWN Lifestyle)."
+  },
+  "occasion": {
+   "fr": "En-cas de rue, entrée, accompagnement ou garniture de sandwich (My Moroccan Food). Elle est aussi servie au ftour du ramadan (MWN Lifestyle, Morocco World News).",
+   "t": "وجبة خفيفة في الشارع، أو مقبّلات، أو طبق جانبي، أو حشوة لسندويتش (My Moroccan Food). وتُقدَّم أيضًا على مائدة الفطور في رمضان (MWN Lifestyle، Morocco World News)."
+  },
+  "steps.0.tip": {
+   "fr": "La pâte doit napper : ni trop épaisse (ajoute 2 c. à s. d'eau si besoin), ni trop liquide, sinon elle se défait dans l'huile (My Moroccan Food). Dialna la veut lisse et épaisse, comme une pâte à pancakes ou une béchamel.",
+   "t": "يجب أن تغلّف العجينة جيدًا: لا كثيفة جدًا (أضف 2 ملعقة كبيرة من الماء عند الحاجة)، ولا سائلة جدًا، وإلا تفكّكت في الزيت (My Moroccan Food). وتريدها Dialna ناعمة وكثيفة، مثل عجينة البان كيك أو صلصة البشاميل."
+  },
+  "steps.1.title": {
+   "fr": "Laisse lever la pâte",
+   "t": "اترك العجينة تختمر"
+  },
+  "steps.1.text": {
+   "fr": "Couvre le saladier avec un torchon propre ou du film alimentaire. Laisse lever la pâte à température ambiante de 30 minutes à 1 heure. Pendant ce temps, prépare la purée.",
+   "t": "غطِّ الوعاء بمنشفة نظيفة أو بغلاف بلاستيكي للطعام. اترك العجينة تختمر في درجة حرارة الغرفة من 30 دقيقة إلى ساعة. وفي هذه الأثناء، حضّر مهروس البطاطا."
+  },
+  "steps.2.title": {
+   "fr": "Cuis les pommes de terre",
+   "t": "اسلق البطاطا"
+  },
+  "steps.2.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre et coupe-les en morceaux. Mets-les dans une casserole d'eau froide avec une pincée de {{sel-cuisson}}. Porte à ébullition, puis laisse cuire à feu moyen environ 20 minutes, jusqu'à ce qu'elles soient bien tendres.",
+   "t": "قشّر {{pdt}} من البطاطا وقطّعها قطعًا. ضعها في قدر فيه ماء بارد مع رشة من الملح. أوصل الماء إلى الغليان، ثم اتركها تُطهى على نار متوسطة نحو 20 دقيقة، حتى تصبح طرية جيدًا."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "البطاطا"
+  },
+  "steps.2.timer.done": {
+   "fr": "Pique un morceau avec un couteau : il doit entrer sans résistance.",
+   "t": "اغرز سكينًا في قطعة: يجب أن يدخل دون مقاومة."
+  },
+  "steps.3.title": {
+   "fr": "Écrase en purée",
+   "t": "اهرس البطاطا"
+  },
+  "steps.3.text": {
+   "fr": "Égoutte bien les pommes de terre dans une passoire. Mets-les dans un saladier et écrase-les en purée bien lisse.",
+   "t": "صفِّ البطاطا جيدًا في مصفاة. ضعها في وعاء واهرسها حتى تصبح مهروسًا ناعمًا جدًا."
+  },
+  "steps.4.title": {
+   "fr": "Assaisonne la purée",
+   "t": "تبّل مهروس البطاطا"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute {{persil}} de persil, {{ail}} d'ail, {{sel}} de sel et un peu de {{poivre}}. Si tu aimes le piquant, ajoute un peu de {{piment}}. Mélange bien, goûte et rectifie le sel.",
+   "t": "أضف {{persil}} من البقدونس، و{{ail}} من الثوم، و{{sel}} من الملح، وقليلًا من الفلفل الأسود المطحون. وإذا كنت تحب الطعم الحار، فأضف قليلًا من الفلفل الحار المطحون. اخلط جيدًا، وتذوّق، وعدّل الملح."
+  },
+  "steps.5.title": {
+   "fr": "Laisse tiédir",
+   "t": "اتركه حتى يفتر"
+  },
+  "steps.5.text": {
+   "fr": "Laisse tiédir la purée jusqu'à ce que tu puisses la prendre dans tes mains sans te brûler.",
+   "t": "اترك المهروس حتى يفتر، إلى أن تستطيع حمله بيديك دون أن تحترق."
+  },
+  "steps.6.title": {
+   "fr": "Façonne les galettes",
+   "t": "شكّل الأقراص"
+  },
+  "steps.6.text": {
+   "fr": "Prends un peu de purée, roule-la en boule puis aplatis-la entre tes paumes : une galette d'environ 5 cm de large. Pose les galettes sur une plaque couverte de papier sulfurisé et garde-les au frais jusqu'à la friture.",
+   "t": "خذ قليلًا من المهروس، وكوّره ثم افرده بين راحتيك: قرص عرضه نحو 5 سم. ضع الأقراص على صينية مغطّاة بورق الزبدة واحفظها في مكان بارد حتى وقت القلي."
+  },
+  "steps.7.title": {
+   "fr": "Prépare la friture",
+   "t": "حضّر زيت القلي"
+  },
+  "steps.7.text": {
+   "fr": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile}} : jamais plus d'un tiers de la hauteur de la casserole. Pose un couvercle de la bonne taille à portée de main.",
+   "t": "استعمل مقلاة كهربائية عميقة بمنظّم حرارة أو قدرًا عميقًا. اسكب الزيت النباتي للقلي: لا يتجاوز أبدًا ثلث ارتفاع القدر. ضع غطاءً بالحجم المناسب في متناول يدك."
+  },
+  "steps.7.tip": {
+   "fr": "My Moroccan Food met environ 5 cm d'huile, Dialna quelques centimètres (environ 2,5 cm). Une friteuse électrique règle seule la température : elle est plus sûre (London Fire Brigade, gouvernement du Québec).",
+   "t": "تضع My Moroccan Food نحو 5 سم من الزيت، وDialna بضعة سنتيمترات (نحو 2,5 سم). المقلاة الكهربائية تضبط الحرارة وحدها: فهي أكثر أمانًا (London Fire Brigade، gouvernement du Québec)."
+  },
+  "steps.8.title": {
+   "fr": "Chauffe l'huile à 180 °C",
+   "t": "سخّن الزيت إلى 180 درجة مئوية"
+  },
+  "steps.8.text": {
+   "fr": "Chauffe l'huile à 180 °C, en la contrôlant avec le thermostat ou un thermomètre. Elle ne doit jamais fumer : si elle fume, coupe le feu et laisse-la refroidir. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "سخّن الزيت إلى 180 درجة مئوية، مع مراقبته بمنظّم الحرارة أو بميزان الحرارة. يجب ألا يتصاعد منه الدخان أبدًا: إذا بدأ يدخّن، فأطفئ النار واتركه يبرد. ومن الآن فصاعدًا، لا ترفع عينيك عن الزيت."
+  },
+  "steps.8.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas la casserole. Pose vite le couvercle dessus et coupe le feu si tu peux. Puis appelle les pompiers, même si le feu semble éteint (gouvernement du Québec).",
+   "t": "إذا اشتعلت النار في الزيت: لا تستعمل الماء أبدًا، ولا تحرّك القدر. ضع الغطاء فوقه بسرعة وأطفئ النار إن استطعت. ثم اتصل برجال الإطفاء، حتى لو بدا أن النار انطفأت (gouvernement du Québec)."
+  },
+  "steps.9.title": {
+   "fr": "Enrobe une galette de pâte",
+   "t": "غلّف قرصًا بالعجينة"
+  },
+  "steps.9.text": {
+   "fr": "Plonge une galette dans la pâte et retourne-la avec deux cuillères ou une fourchette, pour la couvrir entièrement. Soulève-la et glisse-la doucement dans l'huile chaude.",
+   "t": "اغمس قرصًا في العجينة واقلبه بملعقتين أو بشوكة، حتى يتغطّى بالكامل. ارفعه وأزلقه برفق في الزيت الساخن."
+  },
+  "steps.10.title": {
+   "fr": "Fais frire par petites fournées",
+   "t": "اقلِ الأقراص على دفعات صغيرة"
+  },
+  "steps.10.text": {
+   "fr": "Fais frire quelques galettes à la fois, sans les serrer. Retourne-les plusieurs fois, jusqu'à ce qu'elles soient dorées de tous les côtés. Ne les laisse pas brunir.",
+   "t": "اقلِ بضعة أقراص في كل مرة، دون أن تتزاحم. اقلبها عدة مرات، حتى تتحمّر من كل الجهات. لا تتركها تصير بنية داكنة."
+  },
+  "steps.10.tip": {
+   "fr": "Le beignet gonfle et remonte vite à la surface ; My Moroccan Food compte environ 3 minutes. La FSA (agence sanitaire britannique) conseille une couleur jaune doré, pas plus foncée, quand on fait frire des aliments riches en amidon comme la pomme de terre.",
+   "t": "ينتفخ القرص ويطفو بسرعة على السطح؛ وتحسب My Moroccan Food نحو 3 دقائق. وتنصح FSA (الوكالة الصحية البريطانية) بلون أصفر ذهبي، لا أغمق، عند قلي الأطعمة الغنية بالنشا مثل البطاطا."
+  },
+  "steps.11.title": {
+   "fr": "Égoutte et continue",
+   "t": "صفِّها وتابع"
+  },
+  "steps.11.text": {
+   "fr": "Sors les maakouda avec l'écumoire et pose-les sur du papier absorbant. Attends que l'huile revienne à 180 °C, puis fais frire la fournée suivante. Éteins le feu dès la dernière fournée sortie.",
+   "t": "أخرج المعقودة بالمغرفة المثقّبة وضعها على ورق ماص. انتظر حتى يعود الزيت إلى 180 درجة مئوية، ثم اقلِ الدفعة التالية. أطفئ النار بمجرد إخراج آخر دفعة."
+  },
+  "steps.12.title": {
+   "fr": "Sers chaud",
+   "t": "قدّمها ساخنة"
+  },
+  "steps.12.text": {
+   "fr": "Sers les maakouda bien chaudes, seules, avec un peu de {{harissa}}, ou en sandwich dans du {{pain}}.",
+   "t": "قدّم المعقودة ساخنة جدًا، وحدها، مع قليل من الهريسة، أو في سندويتش داخل خبز الدار أو نصف باغيت."
+  },
+  "steps.12.tip": {
+   "fr": "Pour le sandwich, Cooking With Alia tartine une demi-baguette de ketchup ou de harissa, puis ajoute de la laitue, les maakouda et des tranches de tomate.",
+   "t": "لتحضير السندويتش، تدهن Cooking With Alia نصف باغيت بالكاتشب أو الهريسة، ثم تضيف الخس، والمعقودة، وشرائح الطماطم."
+  },
+  "secrets.0.text": {
+   "fr": "La maakouda des snacks est une petite galette de purée trempée dans une pâte jaune à la levure, puis frite.",
+   "t": "معقودة محلات السناك قرص صغير من مهروس البطاطا يُغمس في عجينة صفراء بخميرة الخبز، ثم يُقلى."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (levure, farine, curcuma) ; Lalla Moulati n° 229999 (farine, eau tiède, curcuma, sel, levure)",
+   "t": "My Moroccan Food (الخميرة، الدقيق، الكركم)؛ Lalla Moulati رقم 229999 (الدقيق، الماء الفاتر، الكركم، الملح، الخميرة)"
+  },
+  "secrets.1.text": {
+   "fr": "La purée est simple : pomme de terre cuite à l'eau, persil, ail, sel et poivre.",
+   "t": "المهروس بسيط: بطاطا مسلوقة في الماء، وبقدونس، وثوم، وملح، وفلفل أسود."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food ; Febrayer (ail, sel et piment, selon un vendeur de Fès)",
+   "t": "My Moroccan Food؛ Febrayer (الثوم والملح والفلفل الحار، حسب بائع من فاس)"
+  },
+  "secrets.2.text": {
+   "fr": "Le curcuma donne à la pâte sa couleur jaune.",
+   "t": "الكركم يمنح العجينة لونها الأصفر."
+  },
+  "img_alt": {
+   "fr": "Maakouda : galettes de pommes de terre aux herbes, dorées à la friture",
+   "t": "المعقودة: أقراص بطاطا بالأعشاب، محمّرة بالقلي"
+  },
+  "serving": {
+   "fr": "Sers les maakouda chaudes, juste après les avoir égouttées (MWN Lifestyle ; My Moroccan Food). Mange-les seules avec de la harissa ou du ketchup (MWN Lifestyle), avec une sauce tomate à la harissa et au citron (My Moroccan Food), ou en sandwich : dans le pain marocain avec de la harissa (Wikipédia), ou dans une demi-baguette avec ketchup ou harissa, laitue et tomate (Cooking With Alia). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "قدّم المعقودة ساخنة، مباشرة بعد تصفيتها (MWN Lifestyle؛ My Moroccan Food). كُلها وحدها مع الهريسة أو الكاتشب (MWN Lifestyle)، أو مع صلصة طماطم بالهريسة والليمون (My Moroccan Food)، أو في سندويتش: في الخبز المغربي مع الهريسة (Wikipédia)، أو في نصف باغيت مع الكاتشب أو الهريسة، والخس والطماطم (Cooking With Alia). البقايا: في الثلاجة خلال ساعتين، وتؤكل خلال 48 ساعة؛ أعد تسخينها مرة واحدة فقط، حتى تصبح شديدة السخونة في وسطها (FSA). يجب أن تكون حرارة ثلاجتك 4 درجات مئوية في أبرد جزء منها (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La pâte à beignets",
+   "t": "عجينة الغمس"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche",
+   "t": "دقيق أبيض"
+  },
+  "ing.levure.name": {
+   "fr": "de levure de boulanger sèche",
+   "t": "خميرة خبز جافة"
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif) ; Lalla Moulati n° 229999 et 292849",
+   "t": "My Moroccan Food؛ Dialna (Asif)؛ Lalla Moulati رقم 229999 و292849"
+  },
+  "secrets.3.text": {
+   "fr": "Laisse lever la pâte avant de l'utiliser : 30 minutes chez My Moroccan Food, 1 heure chez Dialna.",
+   "t": "اترك العجينة تختمر قبل استعمالها: 30 دقيقة عند My Moroccan Food، وساعة عند Dialna."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif)",
+   "t": "My Moroccan Food؛ Dialna (Asif)"
+  },
+  "secrets.4.text": {
+   "fr": "Écrase les pommes de terre en purée bien lisse.",
+   "t": "اهرس البطاطا حتى تصبح مهروسًا ناعمًا جدًا."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia n° 599 ; My Moroccan Food ; Dialna (Asif) ; MWN Lifestyle",
+   "t": "Cooking With Alia رقم 599؛ My Moroccan Food؛ Dialna (Asif)؛ MWN Lifestyle"
+  },
+  "secrets.5.text": {
+   "fr": "Fais des galettes d'environ 5 cm de large.",
+   "t": "شكّل أقراصًا عرضها نحو 5 سم."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia n° 599 ; My Moroccan Food",
+   "t": "Cooking With Alia رقم 599؛ My Moroccan Food"
+  },
+  "secrets.6.text": {
+   "fr": "Garde les galettes au frais jusqu'au moment de les frire.",
+   "t": "احفظ الأقراص في مكان بارد حتى وقت قليها."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.7.text": {
+   "fr": "Fais frire à 180 °C, et garde l'huile à cette température pendant toute la friture.",
+   "t": "اقلِ على 180 درجة مئوية، وحافظ على الزيت في هذه الحرارة طوال مدة القلي."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif)",
+   "t": "My Moroccan Food؛ Dialna (Asif)"
+  },
+  "secrets.8.text": {
+   "fr": "Ne surcharge pas la casserole : l'huile doit garder sa chaleur, et les beignets restent croustillants.",
+   "t": "لا تملأ القدر أكثر من اللازم: يجب أن يحتفظ الزيت بحرارته، فتبقى الأقراص مقرمشة."
+  },
+  "secrets.8.source": {
+   "fr": "Dialna (Asif) ; MWN Lifestyle ; MarocMama",
+   "t": "Dialna (Asif)؛ MWN Lifestyle؛ MarocMama"
+  },
+  "secrets.9.text": {
+   "fr": "Retourne les beignets plusieurs fois, doucement, jusqu'à ce qu'ils soient dorés.",
+   "t": "اقلب الأقراص عدة مرات، برفق، حتى تتحمّر."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia n° 599",
+   "t": "My Moroccan Food؛ Cooking With Alia رقم 599"
+  },
+  "secrets.10.text": {
+   "fr": "Égoutte-les sur du papier absorbant et mange-les chauds.",
+   "t": "صفِّها على ورق ماص وكُلها ساخنة."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Dialna (Asif) ; Cooking With Alia n° 599 ; MWN Lifestyle",
+   "t": "My Moroccan Food؛ Dialna (Asif)؛ Cooking With Alia رقم 599؛ MWN Lifestyle"
+  },
+  "secrets.11.text": {
+   "fr": "En sandwich, on la sert avec une sauce : harissa, sauce tomate citronnée ou ketchup.",
+   "t": "في السندويتش، تُقدَّم مع صلصة: الهريسة، أو صلصة الطماطم بالليمون، أو الكاتشب."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Cooking With Alia n° 599 ; Wikipédia (anglais), « Ma'quda »",
+   "t": "My Moroccan Food؛ Cooking With Alia رقم 599؛ Wikipédia (بالإنجليزية)، « Ma'quda »"
+  },
+  "mistakes.0": {
+   "fr": "Faire une pâte trop liquide : elle se défait dans l'huile (My Moroccan Food).",
+   "t": "تحضير عجينة سائلة جدًا: فهي تتفكّك في الزيت (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Mettre trop de beignets à la fois : l'huile refroidit (Dialna ; MWN Lifestyle).",
+   "t": "وضع عدد كبير جدًا من الأقراص دفعة واحدة: فيبرد الزيت (Dialna؛ MWN Lifestyle)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser l'huile fumer : elle est trop chaude et peut prendre feu. Coupe le feu et laisse-la refroidir (London Fire Brigade ; gouvernement du Québec).",
+   "t": "ترك الزيت يدخّن: فهو ساخن جدًا وقد يشتعل. أطفئ النار واتركه يبرد (London Fire Brigade؛ gouvernement du Québec)."
+  },
+  "mistakes.3": {
+   "fr": "Remplir la casserole de plus d'un tiers d'huile (London Fire Brigade).",
+   "t": "ملء القدر بالزيت أكثر من ثلثه (London Fire Brigade)."
+  },
+  "mistakes.4": {
+   "fr": "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+   "t": "سكب الماء على زيت مشتعل، أو تحريك القدر وهو يشتعل (gouvernement du Québec)."
+  },
+  "mistakes.5": {
+   "fr": "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+   "t": "مغادرة المطبخ أثناء القلي (gouvernement du Québec)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les beignets brunir : vise le jaune doré (FSA, conseils sur l'acrylamide).",
+   "t": "ترك الأقراص تصير بنية داكنة: استهدف اللون الأصفر الذهبي (FSA، نصائح بشأن الأكريلاميد)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "ترك البقايا أكثر من ساعتين في درجة حرارة الغرفة قبل وضعها في الثلاجة (Anses؛ FSA)."
+  },
+  "variants.0": {
+   "fr": "Maakouda maison à l'œuf, sans pâte à la levure : Cooking With Alia (n° 599) trempe les galettes dans 2 œufs battus, puis les farine légèrement (60 g de farine pour 800 g de pommes de terre), et les fait frire à feu moyen quelques minutes de chaque côté.",
+   "t": "معقودة منزلية بالبيض، بلا عجينة الخميرة: تغمس Cooking With Alia (رقم 599) الأقراص في بيضتين مخفوقتين، ثم تمرّرها في قليل من الدقيق (60 غ من الدقيق لكل 800 غ من البطاطا)، وتقليها على نار متوسطة بضع دقائق من كل جهة."
+  },
+  "variants.1": {
+   "fr": "Œuf et farine dans la purée, puis galettes farinées avant la friture (MWN Lifestyle ; MarocMama). Lalla Moulati met 2 œufs dans la purée (n° 349170).",
+   "t": "بيض ودقيق في المهروس، ثم أقراص تُمرَّر في الدقيق قبل القلي (MWN Lifestyle؛ MarocMama). وتضع Lalla Moulati بيضتين في المهروس (رقم 349170)."
+  },
+  "variants.2": {
+   "fr": "Persil et coriandre mêlés (Dialna ; Lalla Moulati n° 229999 et 349170).",
+   "t": "بقدونس وكزبرة معًا (Dialna؛ Lalla Moulati رقم 229999 و349170)."
+  },
+  "variants.3": {
+   "fr": "Un peu de cumin dans la purée (Dialna : ¼ c. à c. pour 1 kg ; Lalla Moulati n° 229999 et 349170).",
+   "t": "قليل من الكمون في المهروس (Dialna: ¼ ملعقة صغيرة لكل 1 كغ؛ Lalla Moulati رقم 229999 و349170)."
+  },
+  "variants.4": {
+   "fr": "1 c. à c. de harissa dans la purée pour 1 kg de pommes de terre (Dialna).",
+   "t": "1 ملعقة صغيرة من الهريسة في المهروس لكل 1 كغ من البطاطا (Dialna)."
+  },
+  "variants.5": {
+   "fr": "Pâte à la levure chimique (un sachet de 8 g) au lieu de la levure de boulanger (Lalla Moulati n° 292849).",
+   "t": "عجينة بالخميرة الكيميائية (كيس واحد من 8 غ) بدلًا من خميرة الخبز (Lalla Moulati رقم 292849)."
+  },
+  "variants.6": {
+   "fr": "Avec du fromage dans la purée (Febrayer ; Lalla Moulati n° 349170). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "مع الجبن في المهروس (Febrayer؛ Lalla Moulati رقم 349170). وإذا أردت التشدّد في الحلال، فاختر جبنًا مصنوعًا بمخثّر ميكروبي، بلا منفحة حيوانية."
+  },
+  "variants.7": {
+   "fr": "Sauce de My Moroccan Food : 2 c. à s. de concentré de tomate, 2 c. à c. de harissa, le jus d'un citron, ½ c. à c. de sel et ¼ c. à c. de cumin, mélangés.",
+   "t": "صلصة My Moroccan Food: 2 ملعقة كبيرة من مركز الطماطم، و2 ملعقة صغيرة من الهريسة، وعصير ليمونة واحدة، و½ ملعقة صغيرة من الملح، و¼ ملعقة صغيرة من الكمون، تُخلط معًا."
+  },
+  "variants.8": {
+   "fr": "Sauce de Dialna : tomates râpées sans la peau, sel et huile d'olive, avec un peu d'ail râpé ou de harissa si tu veux.",
+   "t": "صلصة Dialna: طماطم مبشورة بلا قشر، وملح، وزيت زيتون، مع قليل من الثوم المبشور أو الهريسة إن شئت."
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.curcuma.note": {
+   "fr": "pour la couleur jaune",
+   "t": "للّون الأصفر"
+  },
+  "ing.sel-pate.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "ماء فاتر"
+  },
+  "ing.1.group": {
+   "fr": "La purée",
+   "t": "مهروس البطاطا"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre",
+   "t": "بطاطا"
+  },
+  "ing.sel-cuisson.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.sel-cuisson.note": {
+   "fr": "une pincée, pour l'eau de cuisson",
+   "t": "رشة، لماء الطهي"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché finement",
+   "t": "بقدونس مفروم فرمًا ناعمًا"
+  },
+  "ing.ail.name": {
+   "fr": "d'ail haché finement",
+   "t": "ثوم مفروم فرمًا ناعمًا"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "يُضبط بالتذوّق"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût ; My Moroccan Food en met ¼ c. à c. pour 500 g",
+   "t": "حسب الذوق؛ تضع منه My Moroccan Food ¼ ملعقة صغيرة لكل 500 غ"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort en poudre",
+   "t": "فلفل حار مطحون"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif ; Cooking With Alia en met ¼ c. à c. pour 800 g",
+   "t": "اختياري؛ تضع منه Cooking With Alia ¼ ملعقة صغيرة لكل 800 غ"
+  },
+  "ing.2.group": {
+   "fr": "Friture et service",
+   "t": "القلي والتقديم"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture",
+   "t": "زيت نباتي للقلي"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, arachide ou olive : elles fument vers 210 à 220 °C, au-dessus des 180 °C de la friture, alors que la graisse végétale à frire fume dès 175 °C (gouvernement du Québec) ; casserole remplie au tiers de sa hauteur au plus",
+   "t": "زيت عباد الشمس أو الفول السوداني أو الزيتون: يبدأ تصاعد دخانها عند 210 إلى 220 درجة مئوية تقريبًا، أي فوق 180 درجة مئوية اللازمة للقلي، بينما يبدأ دخان الدهن النباتي المخصص للقلي من 175 درجة مئوية (gouvernement du Québec)؛ ولا يُملأ القدر إلا إلى ثلث ارتفاعه على الأكثر."
+  },
+  "ing.pain.name": {
+   "fr": "pain (khobz ou demi-baguette)",
+   "t": "خبز (خبز الدار أو نصف باغيت)"
+  },
+  "ing.pain.note": {
+   "fr": "facultatif, pour les sandwichs",
+   "t": "اختياري، للسندويتشات"
+  },
+  "ing.harissa.name": {
+   "fr": "harissa",
+   "t": "هريسة"
+  },
+  "ing.harissa.note": {
+   "fr": "facultatif, pour servir",
+   "t": "اختيارية، للتقديم"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier et un fouet pour la pâte",
+   "t": "وعاء كبير ومخفقة للعجينة"
+  },
+  "equipment.1": {
+   "fr": "Un torchon propre ou du film alimentaire",
+   "t": "منشفة نظيفة أو غلاف بلاستيكي للطعام"
+  },
+  "equipment.2": {
+   "fr": "Une casserole pour les pommes de terre, et une passoire",
+   "t": "قدر للبطاطا، ومصفاة"
+  },
+  "equipment.3": {
+   "fr": "Un presse-purée, une fourchette ou une cuillère en bois",
+   "t": "هرّاسة بطاطا، أو شوكة، أو ملعقة خشبية"
+  },
+  "equipment.4": {
+   "fr": "Une plaque avec du papier sulfurisé",
+   "t": "صينية مغطّاة بورق الزبدة"
+  },
+  "equipment.5": {
+   "fr": "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde et un thermomètre de cuisson",
+   "t": "مقلاة كهربائية عميقة بمنظّم حرارة (الأكثر أمانًا)، أو قدر عميق وميزان حرارة للطهي"
+  },
+  "equipment.6": {
+   "fr": "Un couvercle à la taille de la casserole, toujours à portée de main",
+   "t": "غطاء بحجم القدر، في متناول يدك دائمًا"
+  },
+  "equipment.7": {
+   "fr": "Deux cuillères ou une fourchette pour enrober",
+   "t": "ملعقتان أو شوكة لتغليفها بالعجينة"
+  },
+  "equipment.8": {
+   "fr": "Une écumoire et du papier absorbant",
+   "t": "مغرفة مثقّبة وورق ماص"
+  },
+  "steps.0.title": {
+   "fr": "Prépare la pâte à beignets",
+   "t": "حضّر عجينة الغمس"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{levure}} de levure, {{curcuma}} de curcuma et {{sel-pate}} de sel. Verse {{eau}} d'eau tiède peu à peu, en fouettant, jusqu'à une pâte lisse et épaisse, sans grumeaux.",
+   "t": "في وعاء كبير، اخلط {{farine}} من الدقيق، و{{levure}} من الخميرة، و{{curcuma}} من الكركم، و{{sel-pate}} من الملح. اسكب {{eau}} من الماء الفاتر شيئًا فشيئًا، مع الخفق، حتى تحصل على عجينة ناعمة وكثيفة، بلا كتل."
+  }
+ }
+}

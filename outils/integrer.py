@@ -140,11 +140,12 @@ PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"]
          "taktouka": ["khobz", "salade-marocaine", "zaalouk"], "shawarma-poulet": ["frites"]}
 PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz", "poisson-frit": "En sandwich", "sandwich-poisson": "Les recettes utilisées"}
 # nom du temps d'attente quand ce n'est pas un simple repos
+SERV_STEP = {"briouates-kefta": 20, "ghriba": 10, "maakouda": 5}  # pas du choix des parts dans l'appli
 REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée", "poisson-frit": "Marinade", "sandwich-poisson": "Marinade", "tajine-poisson": "Marinade",
               "loubia": "Trempage", "frites": "Repos",  # frites : repos entre les deux cuissons (libellé court pour les cartes)
               "batbout": "Levée", "sfenj": "Levée", "crepes": "Repos", "pancakes": "Repos", "mrouzia": "Marinade",
               "butter-chicken": "Marinade", "biryani-poulet": "Marinade", "falafel": "Trempage", "shawarma-poulet": "Marinade",
-              "sellou": "Beurre au frais"}  # sellou : le beurre clarifié durcit au frais pendant la suite de la préparation
+              "sellou": "Beurre au frais", "houmous": "Trempage", "maakouda": "Levée"}  # sellou : le beurre clarifié durcit au frais pendant la suite de la préparation
 # ingrédient qui renvoie vers une autre recette de l'application
 LINKS = {"rfissa-poulet": {"msemen": "msemen"}}
 credits = {c["file"]: c for c in json.load(open(os.path.join(APP, "img", "credits.json"), encoding="utf-8"))}
@@ -316,18 +317,32 @@ def appliquer_verif(slug, r):
         return None
     v = json.load(open(fn, encoding="utf-8"))
     n = 0
+    a_retirer = []  # entrées entières à retirer (« (retirer toute l'entrée …) »), supprimées après les autres corrections
     for k, c in enumerate(v.get("corrections", [])):
         if k in VERIF_SKIP.get(slug, {}):
             continue
         obj, key = chemin(r, c["champ"])
         cur = obj[key]
+        if isinstance(cur, dict) and isinstance(c["propose"], str) and c["propose"].startswith("(retirer"):
+            a_retirer.append((obj, key)); n += 1
+            continue
         if isinstance(cur, str):
             assert c["actuel"] in cur, f"{slug} : correction {k} introuvable dans {c['champ']} : {c['actuel'][:70]}"
-            obj[key] = cur.replace(c["actuel"], c["propose"], 1)
+            nouveau = cur.replace(c["actuel"], c["propose"], 1)
+            m = re.fullmatch(r"sources\[(\d+)\]\.url", c["champ"])
+            if m and nouveau == "":  # URL vidée : toute la source est retirée
+                a_retirer.append((r["sources"], int(m.group(1)))); n += 1
+                continue
+            if isinstance(obj, list) and nouveau.strip() == "":  # élément de liste vidé (variante, erreur…) : retiré
+                a_retirer.append((obj, key)); n += 1
+                continue
+            obj[key] = nouveau
         else:
             new = c["propose"]
             obj[key] = json.loads(new) if isinstance(new, str) and re.fullmatch(r"-?\d+(\.\d+)?|null", new.strip()) else new
         n += 1
+    for obj, key in sorted(a_retirer, key=lambda t: -t[1]):
+        del obj[key]
     known = {x["url"] for x in r.get("sources", [])}
     for sa in v.get("sources_ajoutees", []):
         if sa["url"] not in known:
@@ -400,9 +415,46 @@ NOTE_FIXES = {
 # Ingrédients qui se préparent entiers : quantité arrondie à l'unité supérieure (on grille un poivron entier, pas ¾)
 ROUND_UP = {"chakchouka": ["poivrons"], "escalopes-poulet-panees": ["oeufs"],  # un œuf entier pour paner, même pour 1
             # épices entières : un clou, une feuille, une pincée entière, même pour 1 personne (on ne coupe pas un clou de girofle en quatre)
-            "butter-chicken": ["clous", "laurier"], "biryani-poulet": ["clous", "laurier", "safran"], "couscous-sept-legumes": ["safran"]}
+            "butter-chicken": ["clous", "laurier"], "biryani-poulet": ["clous", "laurier", "safran"], "couscous-sept-legumes": ["safran"],
+            "tortilla-espagnole": ["oeufs"],  # pas « 1½ œuf » pour 1 personne
+            "briouates-kefta": ["jaune"]}  # un jaune entier pour coller, même pour une petite fournée
 def apres_verif(slug, r):
     """Ajouts faits après lecture des contre-vérifications, avec leur source."""
+    if slug == "tajine-agneau-pruneaux":
+        # Grantourismo : son robots.txt interdit tout le site à anthropic-ai et Claude-Web (relu le 8 novembre 2026). La source est
+        # retirée avec ce qui ne reposait que sur elle ; le reste est attribué aux sources lisibles qui le disent (relu le même jour).
+        r["sources"] = [x for x in r["sources"] if "grantourismo" not in x["url"]]
+        it = next(i for g in r["ingredients"] for i in g["items"] if "Grantourismo" in i.get("note", ""))
+        it["note"] = it["note"].replace("My Moroccan Food et Grantourismo de l'épaule", "My Moroccan Food de l'épaule")
+        def sec(start):
+            return next(x for x in r["secrets"] if x["text"].startswith(start))
+        x = sec("Pose sur la viande un bouquet")
+        rep(x, "source", " ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer)", "")
+        x = sec("La sauce est prête quand")
+        x["text"] = "La sauce est prête quand elle a réduit et qu'elle est épaisse, liée par les oignons fondus."
+        x["source"] = "Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse ») ; My Moroccan Food (beaucoup d'oignons pour une sauce épaisse)"
+        x = sec("Choisis un morceau")
+        rep(x, "source", "My Moroccan Food ; Grantourismo ;", "My Moroccan Food ;")
+        x = sec("Aujourd'hui, au Maroc, on cuit souvent le tajine")
+        x["text"] = "Le tajine en terre décoré sert surtout au service : réchauffe-le avant d'y dresser la viande cuite à la cocotte."
+        x["source"] = "Choumicha (fiche du tajine en terre : le tajine décoré est réservé au service et réchauffé avant de dresser)"
+        k = next(i for i, m in enumerate(r["mistakes"]) if m.startswith("Croire qu'au Maroc le tajine s'accompagne de couscous"))
+        del r["mistakes"][k]  # seule Grantourismo disait que le couscous est un plat à part
+        assert "le couscous est un plat à part" in r["serving"]
+        r["serving"] = r["serving"].replace("Avec du pain pour saucer ; le couscous est un plat à part.",
+                                            "Avec du pain pour saucer (Morocco World News) ; My Moroccan Food propose aussi du couscous.")
+        k = next(i for i, v in enumerate(r["variants"]) if v.startswith("Amandes grillées plutôt que frites"))
+        rep(r["variants"], k, "(Le360, Grantourismo)", "(Le360)")
+        def dis(start):
+            return next(i for i, v in enumerate(r["discrepancies"]) if v.startswith(start))
+        rep(r["discrepancies"], dis("Amandes : frites"), "effilées chez Le360 et Grantourismo", "effilées chez Le360")
+        rep(r["discrepancies"], dis("Curcuma (My Moroccan Food"), "Cooking with Alia en option, Grantourismo)", "Cooking with Alia en option)")
+        r["discrepancies"][dis("Moment des pruneaux")] = "Moment des pruneaux : toutes les sources lisibles les cuisent à part. Retenu : à part."
+        rep(r["discrepancies"], dis("Durée en cocotte"), ", au moins 2 h (Grantourismo)", "")
+        r.setdefault("unverified", []).append(
+            "Grantourismo (recette de Terence Carter) : son fichier robots.txt interdit tout le site aux robots d'Anthropic (relu le 8 novembre 2026). "
+            "La source est retirée, avec ce qui ne reposait que sur elle : la cuisson en cocotte puis le service dans le tajine en terre, "
+            "la sauce « sirupeuse » et l'idée que le couscous serait toujours un plat à part.")
     if slug == "gratin-dauphinois":  # contre-vérification : l'appli affichait « ¼ gousse d'ail » pour 1 personne
         next(it for g in r["ingredients"] for it in g["items"] if it["id"] == "ail-plat")["fixed"] = True
     for g in r["ingredients"]:
@@ -609,6 +661,8 @@ def relecture(slug, r):
     n = 0
     for c in d.get("corrections", []):
         obj, key = chemin(r, c["champ"])
+        if isinstance(obj, dict) and key not in obj and c["actuel"] == "":  # champ à créer (par exemple une note d'ingrédient)
+            obj[key] = ""
         cur = obj[key]
         if isinstance(cur, str):
             assert c["actuel"] in cur, f"{slug} : relecture introuvable dans {c['champ']} : {c['actuel'][:70]}"
@@ -657,6 +711,9 @@ for slug in sys.argv[1:]:
     appliquer_verif(slug, r)
     apres_verif(slug, r)
     relecture(slug, r)
+    if slug == "tajine-agneau-pruneaux":  # Grantourismo (robots.txt) ne doit plus être cité que dans la note qui explique son retrait
+        reste = json.dumps(r, ensure_ascii=False).replace("Grantourismo (recette de Terence Carter) : son fichier", "")
+        assert "grantourismo" not in reste.lower(), reste[max(0, reste.lower().find("grantourismo") - 200):reste.lower().find("grantourismo") + 80]
     inconnues = []
     for g in r["ingredients"]:
         for it in g["items"]:
@@ -679,6 +736,9 @@ for slug in sys.argv[1:]:
         r["pairs_label"] = PAIRS_LABEL[slug]
     if slug in REST_LABEL and r["time"].get("rest"):
         r["time"]["rest_label"] = REST_LABEL[slug]
+    if slug in SERV_STEP:  # recettes de 40 ou 80 pièces : on choisit les parts par lots, jamais « ¼ œuf » pour une seule pièce
+        assert r["servings"] % SERV_STEP[slug] == 0
+        r["serv_step"] = SERV_STEP[slug]
     if slug in IMG_ALT:
         r["img_alt"] = IMG_ALT[slug]
     fname, mod = PHOTOS[slug]

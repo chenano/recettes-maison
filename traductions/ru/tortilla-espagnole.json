@@ -1,0 +1,438 @@
+{
+ "_slug": "tortilla-espagnole",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Tortilla espagnole (tortilla de patatas)",
+   "t": "Испанская тортилья (картофельный омлет)"
+  },
+  "tagline": {
+   "fr": "La vraie tortilla d'Espagne : des pommes de terre cuites doucement dans l'huile d'olive, liées par des œufs battus et dorées des deux côtés. Avec ou sans oignon, c'est toi qui choisis.",
+   "t": "Настоящая испанская тортилья: картофель, медленно приготовленный в оливковом масле, скреплённый взбитыми яйцами и подрумяненный с обеих сторон. С луком или без — решать вам."
+  },
+  "region": {
+   "fr": "Espagne : un des plats les plus connus du pays (Wikipédia en espagnol). Les premières traces écrites datent du XVIIIe siècle : 1767 (Valcárcel), 1798 à Villanueva de la Serena en Estrémadure, puis 1817 en Navarre (Wikipédia en espagnol). À Betanzos, en Galice, elle se fait sans oignon et très baveuse (Directo al Paladar).",
+   "t": "Испания: одно из самых известных блюд страны (Wikipédia на испанском). Первые письменные упоминания относятся к XVIII веку: 1767 год (Valcárcel), 1798 год — Вильянуэва-де-ла-Серена в Эстремадуре, затем 1817 год — Наварра (Wikipédia на испанском). В Бетансосе, в Галисии, её готовят без лука и с очень жидкой серединой (Directo al Paladar)."
+  },
+  "occasion": {
+   "fr": "Un des plats les plus courants en Espagne, souvent en dîner léger à la maison (Wikipédia en arabe). Chaude, tiède ou froide, en plat, en tapa, en pincho ou en sandwich (bocadillo) (Spain.info ; Wikipédia en espagnol). Plus épaisse, elle part en pique-nique (Spain.info).",
+   "t": "Одно из самых распространённых блюд в Испании, часто это лёгкий домашний ужин (Wikipédia на арабском). Её едят горячей, тёплой или холодной — как основное блюдо, как тапас, пинчо или в сэндвиче (бокадильо) (Spain.info; Wikipédia на испанском). Более толстую тортилью берут на пикник (Spain.info)."
+  },
+  "img_alt": {
+   "fr": "Tortilla de patatas entière et dorée, sur une assiette",
+   "t": "Целая золотистая тортилья де патата на тарелке"
+  },
+  "serving": {
+   "fr": "Chaude, tiède ou froide (Spain.info ; Directo al Paladar), en plat, en tapa, en pincho ou en sandwich (Wikipédia en espagnol ; Directo al Paladar). Avec une salade verte, une tomate assaisonnée, une salade composée ou des poivrons verts frits (Directo al Paladar). Laisse-la reposer quelques minutes avant de la couper (Directo al Paladar). Restes : au réfrigérateur dans les 2 heures (FDA), et à manger dans les 2 jours (Comunidad de Madrid ; FSA). Une tortilla peu prise se mange tout de suite, ou reste au frigo jusqu'au repas (Comunidad de Madrid).",
+   "t": "Горячей, тёплой или холодной (Spain.info; Directo al Paladar), как основное блюдо, как тапас, пинчо или в сэндвиче (Wikipédia на испанском; Directo al Paladar). С зелёным салатом, заправленным помидором, смешанным салатом или жареным зелёным перцем (Directo al Paladar). Перед нарезкой дайте ей постоять несколько минут (Directo al Paladar). Остатки: убрать в холодильник в течение 2 часов (FDA) и съесть в течение 2 дней (Comunidad de Madrid; FSA). Слабо схватившуюся тортилью едят сразу или держат в холодильнике до самой еды (Comunidad de Madrid)."
+  },
+  "ing.0.group": {
+   "fr": "La tortilla",
+   "t": "Тортилья"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "pomme de terre moyenne",
+   "t": "картофелина среднего размера"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "pommes de terre moyennes",
+   "t": "картофелины среднего размера"
+  },
+  "ing.pommes-de-terre.note": {
+   "fr": "environ 175 g pièce",
+   "t": "около 175 г каждая"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf frais",
+   "t": "свежее яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs frais",
+   "t": "свежих яйца"
+  },
+  "ing.oeufs.note": {
+   "fr": "coquille intacte, gardés au réfrigérateur",
+   "t": "с целой скорлупой, хранившиеся в холодильнике"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "facultatif : sans oignon, c'est la tortilla de Betanzos",
+   "t": "по желанию: без лука получается тортилья, как в Бетансосе"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.huile.note": {
+   "fr": "pour la cuisson ; tu en gardes une partie",
+   "t": "для приготовления; часть масла вы сохраните"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "equipment.0": {
+   "fr": "Un économe, un couteau et une planche",
+   "t": "Овощечистка, нож и разделочная доска"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle profonde, pour cuire les pommes de terre dans l'huile",
+   "t": "Большая глубокая сковорода, чтобы готовить картофель в масле"
+  },
+  "equipment.2": {
+   "fr": "Une écumoire",
+   "t": "Шумовка"
+  },
+  "equipment.3": {
+   "fr": "Une passoire posée sur un bol, pour égoutter et garder l'huile",
+   "t": "Дуршлаг, поставленный на миску, чтобы слить и сохранить масло"
+  },
+  "equipment.4": {
+   "fr": "Un grand saladier et une fourchette",
+   "t": "Большая миска и вилка"
+  },
+  "equipment.5": {
+   "fr": "Une poêle moyenne avec un couvercle (Directo al Paladar prend une poêle de 22 cm)",
+   "t": "Средняя сковорода с крышкой (Directo al Paladar берёт сковороду диаметром 22 см)"
+  },
+  "equipment.6": {
+   "fr": "Un couvercle plat ou une grande assiette, pour retourner la tortilla",
+   "t": "Плоская крышка или большая тарелка, чтобы перевернуть тортилью"
+  },
+  "equipment.7": {
+   "fr": "Une assiette propre pour servir",
+   "t": "Чистая тарелка для подачи"
+  },
+  "equipment.8": {
+   "fr": "Un thermomètre de cuisine, si tu en as un",
+   "t": "Кухонный термометр, если он у вас есть"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "Очистите картофель"
+  },
+  "steps.0.text": {
+   "fr": "Épluche, lave et sèche bien {{pommes-de-terre:full}} avec un torchon propre.",
+   "t": "Очистите, промойте и хорошо обсушите чистым полотенцем картофель ({{pommes-de-terre}} шт.)."
+  },
+  "steps.1.title": {
+   "fr": "Coupe en rondelles fines",
+   "t": "Нарежьте тонкими кружочками"
+  },
+  "steps.1.text": {
+   "fr": "Coupe en rondelles fines, toutes de la même épaisseur, pour une cuisson égale.",
+   "t": "Нарежьте тонкими кружочками одинаковой толщины, чтобы картофель приготовился равномерно."
+  },
+  "steps.1.tip": {
+   "fr": "À Betanzos, on les coupe au couteau en petits morceaux fins (Directo al Paladar). Joseba Arguiñano les coupe en petits carrés fins (Hogarmania).",
+   "t": "В Бетансосе картофель режут ножом на маленькие тонкие кусочки (Directo al Paladar). Joseba Arguiñano нарезает его маленькими тонкими квадратиками (Hogarmania)."
+  },
+  "steps.2.title": {
+   "fr": "Émince l'oignon",
+   "t": "Нашинкуйте лук"
+  },
+  "steps.2.text": {
+   "fr": "Si tu mets de l'oignon, épluche {{oignon:full}} et émince très finement.",
+   "t": "Если вы добавляете лук, очистите его ({{oignon}} шт.) и нарежьте очень тонко."
+  },
+  "steps.2.tip": {
+   "fr": "Avec ou sans oignon ? C'est le grand débat de l'Espagne : lis l'onglet des secrets.",
+   "t": "С луком или без? Это великий спор всей Испании: загляните во вкладку «Секреты»."
+  },
+  "steps.3.title": {
+   "fr": "Bats les œufs",
+   "t": "Взбейте яйца"
+  },
+  "steps.3.text": {
+   "fr": "Casse {{oeufs:full}} un par un dans le grand saladier, sans les cogner sur le bord d'une assiette. Ajoute un peu de {{sel}} et bats-les à la fourchette, juste pour bien mélanger.",
+   "t": "Разбейте {{oeufs:full}} по одному в большую миску, не ударяя их о край тарелки. Добавьте немного соли и взбейте их вилкой — только чтобы хорошо перемешать."
+  },
+  "steps.3.tip": {
+   "fr": "La coquille peut porter des salmonelles : ne sépare pas les jaunes avec la coquille, et ne lave pas les œufs avant de les ranger au frigo (Comunidad de Madrid).",
+   "t": "На скорлупе могут быть сальмонеллы: не отделяйте желтки с помощью скорлупы и не мойте яйца, прежде чем убрать их в холодильник (Comunidad de Madrid)."
+  },
+  "steps.4.title": {
+   "fr": "Cuis doucement dans l'huile",
+   "t": "Медленно готовьте в масле"
+  },
+  "steps.4.text": {
+   "fr": "Verse {{huile}} d'huile d'olive dans la grande poêle profonde, sur feu moyen. Ajoute les pommes de terre, puis l'oignon si tu en mets. Elles doivent cuire doucement, plus confites que frites.",
+   "t": "Влейте {{huile:full}} в большую глубокую сковороду на среднем огне. Добавьте картофель, затем лук, если используете его. Картофель должен готовиться медленно — скорее томиться в масле, чем жариться."
+  },
+  "steps.4.tip": {
+   "fr": "Directo al Paladar met les pommes de terre dans l'huile encore presque froide : elles confisent au lieu de dorer.",
+   "t": "Directo al Paladar кладёт картофель в ещё почти холодное масло: так он томится, а не румянится."
+  },
+  "steps.5.title": {
+   "fr": "Remue de temps en temps",
+   "t": "Время от времени помешивайте"
+  },
+  "steps.5.text": {
+   "fr": "Laisse cuire environ 10 minutes. Remue de temps en temps avec l'écumoire, en coupant les morceaux avec. Les pommes de terre doivent devenir tendres et commencer à peine à dorer.",
+   "t": "Готовьте около 10 минут. Время от времени помешивайте шумовкой, разрезая ею кусочки. Картофель должен стать мягким и только-только начать румяниться."
+  },
+  "steps.5.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Картофель"
+  },
+  "steps.5.timer.done": {
+   "fr": "Vérifie : elles doivent être tendres. Sinon, laisse cuire encore un peu.",
+   "t": "Проверьте: картофель должен быть мягким. Если нет, готовьте ещё немного."
+  },
+  "steps.6.title": {
+   "fr": "Égoutte et garde l'huile",
+   "t": "Слейте и сохраните масло"
+  },
+  "steps.6.text": {
+   "fr": "Verse les pommes de terre (et l'oignon) dans la passoire posée sur un bol. Laisse bien égoutter. Garde l'huile : il en faut un peu pour cuire la tortilla.",
+   "t": "Переложите картофель (и лук) в дуршлаг, поставленный на миску. Дайте маслу хорошо стечь. Сохраните масло: немного его понадобится, чтобы жарить тортилью."
+  },
+  "steps.7.title": {
+   "fr": "Mélange et laisse reposer",
+   "t": "Перемешайте и дайте постоять"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute les pommes de terre égouttées (et l'oignon) dans les œufs battus. Mélange doucement, puis laisse reposer quelques minutes : les pommes de terre s'imprègnent d'œuf.",
+   "t": "Добавьте обсушенный от масла картофель (и лук) к взбитым яйцам. Аккуратно перемешайте и дайте постоять несколько минут: картофель пропитается яйцом."
+  },
+  "steps.7.tip": {
+   "fr": "Joseba Arguiñano laisse reposer 3 à 4 minutes (Hogarmania).",
+   "t": "Joseba Arguiñano оставляет смесь на 3–4 минуты (Hogarmania)."
+  },
+  "steps.8.title": {
+   "fr": "Cuis le dessous",
+   "t": "Обжарьте нижнюю сторону"
+  },
+  "steps.8.text": {
+   "fr": "Mets la poêle moyenne sur le feu avec un peu de l'huile gardée. Quand elle est chaude, verse le mélange. Baisse le feu, couvre et laisse cuire doucement environ 5 minutes, jusqu'à ce que le dessous soit doré.",
+   "t": "Поставьте среднюю сковороду на огонь с небольшим количеством сохранённого масла. Когда сковорода нагреется, вылейте в неё смесь. Убавьте огонь, накройте крышкой и готовьте на медленном огне около 5 минут, пока низ не зарумянится."
+  },
+  "steps.9.title": {
+   "fr": "Retourne la tortilla",
+   "t": "Переверните тортилью"
+  },
+  "steps.9.text": {
+   "fr": "Pose le couvercle plat ou la grande assiette sur la poêle. Tiens-le bien et retourne le tout d'un coup. Fais ensuite glisser la tortilla dans la poêle, la face dorée au-dessus.",
+   "t": "Накройте сковороду плоской крышкой или большой тарелкой. Крепко придерживая её, переверните всё одним движением. Затем сдвиньте тортилью обратно в сковороду золотистой стороной вверх."
+  },
+  "steps.10.title": {
+   "fr": "Finis la cuisson",
+   "t": "Доведите до готовности"
+  },
+  "steps.10.text": {
+   "fr": "Laisse cuire l'autre face à feu doux, jusqu'à ce que l'œuf soit bien pris au centre et que la tortilla soit dorée des deux côtés.",
+   "t": "Готовьте другую сторону на слабом огне, пока яйцо полностью не схватится в центре, а тортилья не зарумянится с обеих сторон."
+  },
+  "steps.10.tip": {
+   "fr": "Avec un thermomètre : au moins 71 °C au centre (FDA, 160 °F). Tu la veux baveuse ? La Comunidad de Madrid conseille alors des œufs pasteurisés, et de ne pas la servir aux personnes fragiles.",
+   "t": "С термометром: не менее 71 °C в центре (FDA, 160 °F). Хотите, чтобы середина была жидкой? Тогда Comunidad de Madrid советует брать пастеризованные яйца и не подавать такую тортилью уязвимым людям."
+  },
+  "steps.11.title": {
+   "fr": "Sers dans une assiette propre",
+   "t": "Подавайте на чистой тарелке"
+  },
+  "steps.11.text": {
+   "fr": "Fais glisser la tortilla dans une assiette propre, jamais celle qui a servi à la retourner : elle a touché l'œuf cru. Laisse-la reposer quelques minutes avant de la couper.",
+   "t": "Переложите тортилью на чистую тарелку — ни в коем случае не на ту, которой вы её переворачивали: она касалась сырого яйца. Перед нарезкой дайте ей постоять несколько минут."
+  },
+  "steps.12.title": {
+   "fr": "Sers ou mets au frais",
+   "t": "Подавайте или уберите в холодильник"
+  },
+  "steps.12.text": {
+   "fr": "Sers-la chaude, tiède ou froide. Mets les restes au réfrigérateur dans les 2 heures, et mange-les dans les 2 jours.",
+   "t": "Подавайте её горячей, тёплой или холодной. Остатки уберите в холодильник в течение 2 часов и съешьте в течение 2 дней."
+  },
+  "secrets.0.text": {
+   "fr": "Les pommes de terre doivent cuire doucement, plus confites que frites : feu moyen, sans te presser.",
+   "t": "Картофель должен готовиться медленно, скорее томиться, чем жариться: средний огонь, без спешки."
+  },
+  "secrets.0.source": {
+   "fr": "Spain.info (cuisson lente à feu moyen) ; Directo al Paladar ; Wikipédia en espagnol (« plus cuites que frites »)",
+   "t": "Spain.info (медленная готовка на среднем огне); Directo al Paladar; Wikipédia на испанском («скорее проваренный, чем обжаренный»)"
+  },
+  "secrets.1.text": {
+   "fr": "Garde l'huile de cuisson : un peu suffit pour cuire la tortilla. Joseba Arguiñano garde le reste pour une autre fois.",
+   "t": "Сохраните масло после готовки картофеля: для жарки тортильи хватит немного. Joseba Arguiñano оставляет остальное на другой раз."
+  },
+  "secrets.1.source": {
+   "fr": "Spain.info ; Hogarmania ; Directo al Paladar (une cuillère à soupe d'huile pour la poêle)",
+   "t": "Spain.info; Hogarmania; Directo al Paladar (одна столовая ложка масла для сковороды)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse les pommes de terre quelques minutes dans les œufs battus avant de cuire : elles s'en imprègnent.",
+   "t": "Перед жаркой оставьте картофель на несколько минут во взбитых яйцах: он ими пропитается."
+  },
+  "secrets.2.source": {
+   "fr": "Wikipédia en espagnol ; Directo al Paladar ; Hogarmania (3 à 4 minutes)",
+   "t": "Wikipédia на испанском; Directo al Paladar; Hogarmania (3–4 минуты)"
+  },
+  "secrets.3.text": {
+   "fr": "Bats les œufs sans trop y faire entrer d'air. Pour la tortilla de Betanzos, on les remue seulement.",
+   "t": "Взбивайте яйца, не насыщая их слишком сильно воздухом. Для тортильи из Бетансоса их только перемешивают."
+  },
+  "secrets.3.source": {
+   "fr": "Directo al Paladar (deux articles, 2022)",
+   "t": "Directo al Paladar (две статьи, 2022)"
+  },
+  "secrets.4.text": {
+   "fr": "La proportion : environ 100 g de pommes de terre par œuf. Pour 4 à 6 personnes, Directo al Paladar compte 600 à 750 g de pommes de terre et 6 à 8 œufs.",
+   "t": "Пропорция: около 100 г картофеля на одно яйцо. На 4–6 человек Directo al Paladar берёт от 600 до 750 г картофеля и от 6 до 8 яиц."
+  },
+  "secrets.4.source": {
+   "fr": "Directo al Paladar (Liliana Fuchs, 2022)",
+   "t": "Directo al Paladar (Liliana Fuchs, 2022)"
+  },
+  "secrets.5.text": {
+   "fr": "La règle 6-3-1 de Karlos Arguiñano : 6 œufs, 3 pommes de terre et 1 oignon. Le chef Mario Sandoval suit la même règle.",
+   "t": "Правило 6-3-1 от Karlos Arguiñano: 6 яиц, 3 картофелины и 1 луковица. Шеф-повар Mario Sandoval следует тому же правилу."
+  },
+  "secrets.5.source": {
+   "fr": "Directo al Paladar (articles de 2022 et de 2024)",
+   "t": "Directo al Paladar (статьи 2022 и 2024 годов)"
+  },
+  "secrets.6.text": {
+   "fr": "Plus d'œuf donne une tortilla plus juteuse, comme à Betanzos. Moins d'œuf donne une tortilla plus ferme.",
+   "t": "Чем больше яйца, тем сочнее тортилья, как в Бетансосе. Чем меньше яйца, тем она плотнее."
+  },
+  "secrets.6.source": {
+   "fr": "Directo al Paladar",
+   "t": "Directo al Paladar"
+  },
+  "secrets.7.text": {
+   "fr": "Le grand débat : avec ou sans oignon. Pour : il donne de la douceur et du moelleux. Contre : l'œuf et la pomme de terre sont déjà doux, et un oignon mal cuit gâche la tortilla. En 2023, une enquête du Centro de Investigaciones Sociológicas (CIS) a trouvé 70,4 % des Espagnols pour l'oignon et 20,9 % contre.",
+   "t": "Великий спор: с луком или без. За: он придаёт мягкость вкуса и сочность. Против: яйцо и картофель и так мягкие на вкус, а плохо приготовленный лук портит тортилью. В 2023 году опрос Centro de Investigaciones Sociológicas (CIS) показал: 70,4 % испанцев за лук и 20,9 % против."
+  },
+  "secrets.7.source": {
+   "fr": "Directo al Paladar (2022 et 2023) ; Wikipédia en espagnol (enquête du CIS de 2023)",
+   "t": "Directo al Paladar (2022 и 2023); Wikipédia на испанском (опрос CIS 2023 года)"
+  },
+  "secrets.8.text": {
+   "fr": "Les chefs aussi sont divisés. Sans oignon : Dabiz Muñoz, Dani García, Ferran Adrià, Ángel León. Avec : Karlos Arguiñano, Martín Berasategui, José Andrés, Joan Roca, Alberto Chicote. Pour Dabiz Muñoz, un bon œuf, une bonne pomme de terre et de l'huile d'olive suffisent, avec du sel.",
+   "t": "Шеф-повара тоже разделились. Без лука: Dabiz Muñoz, Dani García, Ferran Adrià, Ángel León. С луком: Karlos Arguiñano, Martín Berasategui, José Andrés, Joan Roca, Alberto Chicote. По мнению Dabiz Muñoz, достаточно хорошего яйца, хорошего картофеля и оливкового масла, плюс соль."
+  },
+  "secrets.8.source": {
+   "fr": "Directo al Paladar (Miguel Ayuso, 2022)",
+   "t": "Directo al Paladar (Miguel Ayuso, 2022)"
+  },
+  "secrets.9.text": {
+   "fr": "Si tu mets de l'oignon, il doit être bien fondu. Joan Roca l'aime très tendre ; Alberto Chicote le fait fondre à part jusqu'à ce qu'il caramélise, sans sucre.",
+   "t": "Если вы добавляете лук, он должен быть хорошо протомлён. Joan Roca любит его очень мягким; Alberto Chicote томит его отдельно, пока он не карамелизуется, без сахара."
+  },
+  "secrets.9.source": {
+   "fr": "Directo al Paladar",
+   "t": "Directo al Paladar"
+  },
+  "secrets.10.text": {
+   "fr": "L'autre débat : baveuse ou bien prise. Selon le CIS (2023), 53,9 % des Espagnols la veulent peu cuite et 26,9 % très cuite. Ici, on la cuit bien par défaut, comme le conseillent les autorités sanitaires.",
+   "t": "Второй спор: с жидкой серединой или хорошо прожаренная. По данным CIS (2023), 53,9 % испанцев предпочитают её слабо прожаренной, а 26,9 % — сильно прожаренной. В этом рецепте её по умолчанию хорошо прожаривают, как советуют органы здравоохранения."
+  },
+  "secrets.10.source": {
+   "fr": "Directo al Paladar (enquête du CIS, 2023) ; Wikipédia en espagnol ; Comunidad de Madrid ; FDA",
+   "t": "Directo al Paladar (опрос CIS, 2023); Wikipédia на испанском; Comunidad de Madrid; FDA"
+  },
+  "secrets.11.text": {
+   "fr": "Pour un pique-nique ou des petits cubes à l'apéritif, mets plus de pommes de terre : la tortilla est plus dense, plus facile à transporter et à couper. On la mange alors froide.",
+   "t": "Для пикника или маленьких кубиков к аперитиву кладите больше картофеля: тортилья получится плотнее, её легче перевозить и резать. В этом случае её едят холодной."
+  },
+  "secrets.11.source": {
+   "fr": "Spain.info",
+   "t": "Spain.info"
+  },
+  "secrets.12.text": {
+   "fr": "Pour la retourner sans risque, il existe des poêles doubles faites pour la tortilla.",
+   "t": "Чтобы перевернуть её без риска, существуют двойные сковороды, сделанные специально для тортильи."
+  },
+  "secrets.12.source": {
+   "fr": "Directo al Paladar",
+   "t": "Directo al Paladar"
+  },
+  "secrets.13.text": {
+   "fr": "Achète des œufs à la coquille intacte, garde-les au frigo sans les laver, et ne les casse pas sur le bord d'une assiette.",
+   "t": "Покупайте яйца с целой скорлупой, храните их в холодильнике, не моя, и не разбивайте их о край тарелки."
+  },
+  "secrets.13.source": {
+   "fr": "Comunidad de Madrid (santé publique)",
+   "t": "Comunidad de Madrid (здравоохранение)"
+  },
+  "mistakes.0": {
+   "fr": "Cuire les pommes de terre à feu vif dès le début : elles doivent cuire doucement (Spain.info ; Directo al Paladar ; Wikipédia en espagnol).",
+   "t": "Готовить картофель на сильном огне с самого начала: он должен готовиться медленно (Spain.info; Directo al Paladar; Wikipédia на испанском)."
+  },
+  "mistakes.1": {
+   "fr": "Oublier de bien égoutter les pommes de terre (Spain.info ; Directo al Paladar).",
+   "t": "Забыть как следует дать стечь маслу с картофеля (Spain.info; Directo al Paladar)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop peu d'œuf : la tortilla devient un bloc sec (Directo al Paladar).",
+   "t": "Класть слишком мало яйца: тортилья превращается в сухой плотный кусок (Directo al Paladar)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre un oignon mal cuit : il gâche la tortilla (Directo al Paladar).",
+   "t": "Класть плохо приготовленный лук: он портит тортилью (Directo al Paladar)."
+  },
+  "mistakes.4": {
+   "fr": "Servir la tortilla dans l'assiette qui a servi à la retourner : elle a touché l'œuf cru (Comunidad de Madrid).",
+   "t": "Подавать тортилью на той тарелке, которой её переворачивали: она касалась сырого яйца (Comunidad de Madrid)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la tortilla hors du frigo : pas plus de 2 heures, ou 1 heure au-dessus de 32 °C (FDA, 90 °F). En été, des tortillas gardées plus de 20 heures à température ambiante causent des intoxications (Comunidad de Madrid).",
+   "t": "Оставлять тортилью вне холодильника: не больше 2 часов, или 1 часа при температуре выше 32 °C (FDA, 90 °F). Летом тортильи, пролежавшие при комнатной температуре больше 20 часов, вызывают отравления (Comunidad de Madrid)."
+  },
+  "mistakes.6": {
+   "fr": "Servir une tortilla baveuse aux femmes enceintes, aux personnes âgées, aux jeunes enfants ou aux personnes fragiles (Comunidad de Madrid ; FDA).",
+   "t": "Подавать тортилью с жидкой серединой беременным, пожилым людям, маленьким детям или уязвимым людям (Comunidad de Madrid; FDA)."
+  },
+  "mistakes.7": {
+   "fr": "Laver les œufs avant de les ranger, ou les casser sur le bord d'une assiette (Comunidad de Madrid).",
+   "t": "Мыть яйца, прежде чем убрать их на хранение, или разбивать их о край тарелки (Comunidad de Madrid)."
+  },
+  "variants.0": {
+   "fr": "Sans oignon : œufs, pommes de terre, huile d'olive et sel, rien d'autre, comme à Betanzos (Directo al Paladar, qui cite la mairie de Betanzos).",
+   "t": "Без лука: яйца, картофель, оливковое масло и соль — и ничего больше, как в Бетансосе (Directo al Paladar со ссылкой на мэрию Бетансоса)."
+  },
+  "variants.1": {
+   "fr": "Façon Betanzos, très baveuse : pour 4, 350 g de pommes de terre en tout (4 « moyennes » sur la fiche) et 5 gros œufs, 1 minute de cuisson par face (Directo al Paladar). Prends alors des œufs pasteurisés. Avec des œufs crus ordinaires, fais-la au dernier moment, garde-la au frigo jusqu'au repas, ne la sers pas aux personnes fragiles et jette les restes (Comunidad de Madrid).",
+   "t": "По-бетансосски, с очень жидкой серединой: на 4 человек — всего 350 г картофеля (в карточке рецепта — 4 «средние» картофелины) и 5 крупных яиц, по 1 минуте с каждой стороны (Directo al Paladar). В этом случае берите пастеризованные яйца. С обычными сырыми яйцами готовьте её в последний момент, держите в холодильнике до еды, не подавайте уязвимым людям, а остатки выбрасывайте (Comunidad de Madrid)."
+  },
+  "variants.2": {
+   "fr": "Oignon fondu à part, à feu très doux pendant environ 30 minutes, puis mêlé aux pommes de terre (Directo al Paladar ; Alberto Chicote, cité par Directo al Paladar).",
+   "t": "Лук томят отдельно на очень слабом огне около 30 минут, затем смешивают с картофелем (Directo al Paladar; Alberto Chicote, которого цитирует Directo al Paladar)."
+  },
+  "variants.3": {
+   "fr": "Avec un poivron vert, comme Karlos Arguiñano (Directo al Paladar).",
+   "t": "С одним зелёным сладким перцем, как у Karlos Arguiñano (Directo al Paladar)."
+  },
+  "variants.4": {
+   "fr": "Formule 7-3-4-1-1 de Joseba Arguiñano : 7 œufs, 3 jaunes, 4 pommes de terre, 1 petit poireau et 1 oignon, en 4 petites tortillas (Hogarmania).",
+   "t": "Формула 7-3-4-1-1 от Joseba Arguiñano: 7 яиц, 3 желтка, 4 картофелины, 1 небольшой лук-порей и 1 луковица — на 4 маленькие тортильи (Hogarmania)."
+  },
+  "variants.5": {
+   "fr": "Plus épaisse pour le pique-nique, avec plus de pommes de terre, et mangée froide (Spain.info).",
+   "t": "Более толстая — для пикника: с большим количеством картофеля, её едят холодной (Spain.info)."
+  },
+  "ing.pommes-de-terre.pl5": {
+   "fr": "pomme de terre moyenne / pommes de terre moyennes",
+   "t": "картофелин среднего размера"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf frais / œufs frais",
+   "t": "свежих яиц"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  }
+ }
+}

@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Bien chauds, au petit-déjeuner ou au goûter, avec un thé (Morocco World News 2013 : « Serve hot with tea » ; Guinaudeau : mangés chauds avec le thé du petit-déjeuner ; Choumicha : « Servir les r'ghaifs chaudes »). On les sert aussi au ftour du ramadan : Choumicha range la moitié de ses r'ghaifs (5 recettes sur 10, dont celle à la viande hachée et aux légumes) dans « Ramadan », et Femmes du Maroc cite le msemmen au khlii parmi les gourmandises du ftour à Fès. Les restes vont au réfrigérateur dans les 2 heures, se mangent dans les 3 jours et se réchauffent jusqu'à être très chauds à cœur, à la poêle ou au four (Anses).",
-   "t": "قدّمها ساخنة جيدًا، في الفطور الصباحي أو في اللمجة، مع الشاي (Morocco World News 2013: «تُقدَّم ساخنة مع الشاي»؛ Guinaudeau: تؤكل ساخنة مع شاي الصباح؛ Choumicha: «قدّموا الرغايف ساخنة»). وتُقدَّم أيضًا في فطور رمضان: تصنّف Choumicha نصف وصفاتها للرغايف (5 وصفات من 10، منها وصفة اللحم المفروم والخضر) في قسم «رمضان»، وتذكر Femmes du Maroc المسمن بالخليع ضمن أطايب الفطور في فاس. تُوضع البقايا في الثلاجة خلال 2 ساعة، وتؤكل في غضون 3 أيام، وتُسخَّن حتى تصير ساخنة جدًا في قلبها، في المقلاة أو في الفرن (Anses)."
+   "t": "قدّمها ساخنة جدًا، في الفطور الصباحي أو في اللمجة، مع الشاي (Morocco World News 2013: «تُقدَّم ساخنة مع الشاي»؛ Guinaudeau: تؤكل ساخنة مع شاي الصباح؛ Choumicha: «قدّموا الرغايف ساخنة»). وتُقدَّم أيضًا في فطور رمضان: تصنّف Choumicha نصف وصفاتها للرغايف (5 وصفات من 10، منها وصفة اللحم المفروم والخضر) في قسم «رمضان»، وتذكر Femmes du Maroc المسمن بالخليع ضمن أطايب الفطور في فاس. تُوضع البقايا في الثلاجة خلال ساعتين، وتؤكل في غضون 3 أيام، وتُسخَّن حتى تصير ساخنة جدًا في قلبها، في المقلاة أو في الفرن (Anses)."
   },
   "ing.0.group": {
    "fr": "Farce",
@@ -191,7 +191,7 @@
    "t": "ملعقة مسطّحة"
   },
   "steps.0.title": {
-   "fr": "Fondre les oignons",
+   "fr": "Fais fondre les oignons",
    "t": "ذبّل البصل"
   },
   "steps.0.text": {
@@ -207,7 +207,7 @@
    "t": "هل صار البصل طريًّا وشفافًا؟ وإلا فأطل الطهي بضع دقائق."
   },
   "steps.1.title": {
-   "fr": "Ajouter khlii, persil et épices",
+   "fr": "Ajoute khlii, persil et épices",
    "t": "أضف الخليع والبقدونس والتوابل"
   },
   "steps.1.text": {
@@ -223,15 +223,15 @@
    "t": "إذا بقي سائل، فاتركه يتبخر، ثم أطفئ النار."
   },
   "steps.2.title": {
-   "fr": "Goûter et refroidir",
+   "fr": "Goûte et laisse refroidir",
    "t": "تذوّق الحشوة ودعها تبرد"
   },
   "steps.2.text": {
    "fr": "Goûte la farce et ajoute du {{sel-farce}} seulement si besoin : le khlii est déjà assaisonné. Étale-la dans une grande assiette et laisse-la refroidir complètement : chaude, elle abîme la pâte. Si tu la prépares à l'avance, mets-la au réfrigérateur dans les 2 heures.",
-   "t": "تذوّق الحشوة وأضف {{sel-farce}} عند الحاجة فقط: فالخليع متبّل من قبل. افردها في صحن كبير واتركها تبرد تمامًا: إذا كانت ساخنة أفسدت العجين. إذا حضّرتها مسبقًا، فضعها في الثلاجة خلال 2 ساعة."
+   "t": "تذوّق الحشوة وأضف {{sel-farce}} عند الحاجة فقط: فالخليع متبّل من قبل. افردها في صحن كبير واتركها تبرد تمامًا: إذا كانت ساخنة أفسدت العجين. إذا حضّرتها مسبقًا، فضعها في الثلاجة خلال ساعتين."
   },
   "steps.3.title": {
-   "fr": "Mélanger la pâte",
+   "fr": "Mélange la pâte",
    "t": "اخلط مكونات العجين"
   },
   "steps.3.text": {
@@ -239,7 +239,7 @@
    "t": "في وعاء كبير، اخلط {{farine}} من الدقيق و{{semoule}} من السميد الرقيق و{{sel}} من الملح. اسكب {{eau}} من الماء الفاتر شيئًا فشيئًا، مع الخلط باليد، حتى تتكوّن كرة لينة. إذا التصقت، أضف قليلًا من الدقيق؛ وإذا كانت جافة، قليلًا من الماء."
   },
   "steps.4.title": {
-   "fr": "Pétrir 10 minutes",
+   "fr": "Pétris 10 minutes",
    "t": "اعجن 10 دقائق"
   },
   "steps.4.text": {
@@ -252,7 +252,7 @@
   },
   "steps.4.timer.done": {
    "fr": "Touche la pâte : si elle n'est pas lisse et élastique, pétris encore un peu.",
-   "t": "المس العجين: إذا لم يكن أملس ومرنًا، فاعجنه قليلًا بعد."
+   "t": "المس العجين: إذا لم يكن أملس ومرنًا، فواصل عجنه قليلًا."
   },
   "steps.4.img.alt": {
    "fr": "Mains qui pétrissent une pâte",
@@ -263,7 +263,7 @@
    "t": "عجن العجين"
   },
   "steps.5.title": {
-   "fr": "Former les pâtons",
+   "fr": "Forme les pâtons",
    "t": "شكّل كرات العجين"
   },
   "steps.5.text": {
@@ -279,7 +279,7 @@
    "t": "ارتاحت كرات العجين: يمكنك الآن فردها وحشوها."
   },
   "steps.6.title": {
-   "fr": "Préparer ton poste",
+   "fr": "Prépare ton poste",
    "t": "جهّز مكان عملك"
   },
   "steps.6.text": {
@@ -287,7 +287,7 @@
    "t": "أثناء الراحة، اخلط {{beurre}} من الزبدة المذابة مع {{huile-beurre}} من الزيت. ضع في متناول يدك هذا الخليط، ووعاءً من {{huile-faconnage}}، و{{semoule-faconnage}} من السميد الرقيق، والحشوة الباردة. ادهن سطح العمل بالزيت جيدًا."
   },
   "steps.7.title": {
-   "fr": "Étirer très fin",
+   "fr": "Étire très fin",
    "t": "افرد العجين رقيقًا جدًا"
   },
   "steps.7.text": {
@@ -303,7 +303,7 @@
    "t": "الفرد بأطراف الأصابع"
   },
   "steps.8.title": {
-   "fr": "Badigeonner et garnir",
+   "fr": "Badigeonne et garnis",
    "t": "ادهن العجين واحشُه"
   },
   "steps.8.text": {
@@ -311,7 +311,7 @@
    "t": "ادهن القرص بخليط الزبدة والزيت ورشّ عليه قليلًا من السميد. ضع في الوسط من 1 إلى 2 ملعقة كبيرة من الحشوة، مع ترك الأطراف فارغة: يجب أن تكفي الحشوة لكل الفطائر."
   },
   "steps.9.title": {
-   "fr": "Fermer en carré",
+   "fr": "Ferme en carré",
    "t": "أغلقه على شكل مربع"
   },
   "steps.9.text": {
@@ -319,7 +319,7 @@
    "t": "اثنِ ثلاثة جوانب من العجين فوق الحشوة، ثم الجانب الرابع فوقها مع شدّه قليلًا: هذه الطيّة الأخيرة، دون حشوة، تقوّي الفطيرة وتمنعها من الانفتاح. ضع المربع المغلق على الصينية الثانية المدهونة بالزيت وكرّر العملية مع باقي كرات العجين."
   },
   "steps.10.title": {
-   "fr": "Chauffer la poêle",
+   "fr": "Chauffe la poêle",
    "t": "سخّن المقلاة"
   },
   "steps.10.text": {
@@ -327,7 +327,7 @@
    "t": "سخّن مقلاة كبيرة ذات قاع سميك على نار متوسطة إلى قوية، ثم ادهنها بقليل من الزيت."
   },
   "steps.11.title": {
-   "fr": "Aplatir doucement",
+   "fr": "Aplatis doucement",
    "t": "سطّحه برفق"
   },
   "steps.11.text": {
@@ -335,7 +335,7 @@
    "t": "بيدين مدهونتين بالزيت، سطّح المربع الأول بأطراف أصابعك، دون أن تثقب العجين، حتى يصير طول ضلعه من 12 إلى 15 سم تقريبًا. يجب أن تبقى الحشوة محكمة الإغلاق داخله."
   },
   "steps.12.title": {
-   "fr": "Cuire en retournant",
+   "fr": "Cuis en retournant",
    "t": "اطبخها واقلبها مرارًا"
   },
   "steps.12.text": {
@@ -351,7 +351,7 @@
    "t": "الطهي حتى تصير ذهبية جيدًا"
   },
   "steps.13.title": {
-   "fr": "Continuer avec les autres",
+   "fr": "Continue avec les autres",
    "t": "واصل مع الباقي"
   },
   "steps.13.text": {
@@ -359,12 +359,12 @@
    "t": "ضع الفطيرة المطبوخة على لوح أو شبكة، وواصل مع باقي المربعات، وسطّحها واحدًا تلو الآخر."
   },
   "steps.14.title": {
-   "fr": "Servir brûlant",
+   "fr": "Sers brûlant",
    "t": "قدّمها ساخنة جدًا"
   },
   "steps.14.text": {
    "fr": "Sers les rghayef bien chauds, avec un thé.",
-   "t": "قدّم الرغايف ساخنة جيدًا، مع الشاي."
+   "t": "قدّم الرغايف ساخنة جدًا، مع الشاي."
   },
   "secrets.0.text": {
    "fr": "Au Maroc, on appelle rghayef m'ammrin (« farcis ») les galettes feuilletées farcies : au khlii, à la viande hachée, aux légumes ou à la graisse épicée.",
@@ -432,7 +432,7 @@
   },
   "secrets.8.text": {
    "fr": "La farce se prépare jusqu'à 2 jours à l'avance, au réfrigérateur.",
-   "t": "يمكن تحضير الحشوة حتى 2 يوم مسبقًا، وحفظها في الثلاجة."
+   "t": "يمكن تحضير الحشوة حتى يومين مسبقًا، وحفظها في الثلاجة."
   },
   "secrets.8.source": {
    "fr": "My Moroccan Food ; l'Anses recommande de consommer les plats cuisinés maison dans les 3 jours",
@@ -488,7 +488,7 @@
   },
   "mistakes.6": {
    "fr": "Laisser la farce ou les galettes plus de 2 heures à température ambiante avant de les mettre au réfrigérateur (Anses).",
-   "t": "ترك الحشوة أو الفطائر أكثر من 2 ساعة في حرارة الغرفة قبل وضعها في الثلاجة (Anses)."
+   "t": "ترك الحشوة أو الفطائر أكثر من ساعتين في حرارة الغرفة قبل وضعها في الثلاجة (Anses)."
   },
   "mistakes.7": {
    "fr": "Cuire sur un feu trop fort : la galette dore avant que la pâte ne cuise au centre (Taste of Maroc, pour les galettes feuilletées ; MarocMama ; Cooking with Alia : cuire jusqu'à ce que « le centre soit cuit »).",
@@ -500,7 +500,7 @@
   },
   "variants.1": {
    "fr": "À la graisse de bœuf halal (chehma) au lieu du khlii : Bladi.net met « 1 verre de gras de bœuf ou de khlii », ajouté à l'oignon adouci et cuit 5 minutes en remuant, comme le khlii ici ; à Fès, Guinaudeau décrit une farce de graisse de mouton ou de bœuf hachée, relevée de piment rouge doux et fort, cuite juste assez pour que la graisse commence à fondre, mais ces rghaif cuisaient ensuite au four du quartier.",
-   "t": "بشحم البقر الحلال (الشحمة) بدل الخليع: يضع Bladi.net «1 كأس من شحم البقر أو الخليع»، يُضاف إلى البصل الطري ويُطهى 5 دقائق مع التحريك، مثل الخليع هنا؛ وفي فاس، تصف Guinaudeau حشوة من شحم الضأن أو البقر المفروم، متبّلة بالفلفل الأحمر الحلو والحار، تُطهى بالقدر الكافي فقط ليبدأ الشحم في الذوبان، لكن هذه الرغايف كانت تُخبز بعد ذلك في فرن الحي."
+   "t": "بشحم البقر الحلال (الشحمة) بدل الخليع: يضع Bladi.net «1 كأس من شحم البقر أو الخليع»، يُضاف إلى البصل المذبّل ويُطهى 5 دقائق مع التحريك، مثل الخليع هنا؛ وفي فاس، تصف Guinaudeau حشوة من شحم الضأن أو البقر المفروم، متبّلة بالفلفل الأحمر الحلو والحار، تُطهى بالقدر الكافي فقط ليبدأ الشحم في الذوبان، لكن هذه الرغايف كانت تُخبز بعد ذلك في فرن الحي."
   },
   "variants.2": {
    "fr": "Khlii étalé sur toute la feuille, puis pliée en carré comme un msemen : 1 c. à s. de khlii par galette et de la semoule mêlée d'un peu de levure chimique (Cooking with Alia, « Msemmen with Khlii »).",
@@ -516,7 +516,7 @@
   },
   "variants.5": {
    "fr": "Au four : sur une plaque tapissée de papier cuisson, dorés à l'œuf battu, à 180 °C jusqu'à ce qu'ils soient dorés (Choumicha), ou 18 à 20 minutes à 200 °C (My Moroccan Food) ; badigeonne-les d'huile en cours de cuisson pour la couleur et le croustillant (Choumicha).",
-   "t": "في الفرن: على صفيحة مغطاة بورق الطهي، مدهونة بالبيض المخفوق، على 180 درجة مئوية حتى تتحمّر (Choumicha)، أو من 18 إلى 20 دقيقة على 200 درجة مئوية (My Moroccan Food)؛ ادهنها بالزيت أثناء الطهي لتكتسب اللون والقرمشة (Choumicha)."
+   "t": "في الفرن: تُوضع الرغايف على صفيحة مغطاة بورق الطهي وتُدهن بالبيض المخفوق، ثم تُخبز على 180 درجة مئوية حتى تتحمّر (Choumicha)، أو من 18 إلى 20 دقيقة على 200 درجة مئوية (My Moroccan Food)؛ ادهنها بالزيت أثناء الطهي لتكتسب اللون والقرمشة (Choumicha)."
   },
   "variants.6": {
    "fr": "Sucrés : r'ghaifs farcis d'amandes, de sucre et de cannelle, frits puis trempés dans le miel et parsemés de sésame, pour le ramadan et l'Aïd el-Fitr (Choumicha) ; Lalla Moulati publie aussi des « رغايف معسلة » (rghayef au miel) pour le ramadan, et des rghayef de Meknès aux amandes parmi les gâteaux de l'Aïd.",

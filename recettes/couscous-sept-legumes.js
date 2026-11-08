@@ -48,8 +48,9 @@ window.RECETTES.push({
      "id": "oignon",
      "q": 1,
      "u": "",
-     "name": "gros oignon (environ 200 g)",
-     "pl": "gros oignons (environ 200 g chacun)",
+     "name": "gros oignon",
+     "pl": "gros oignons",
+     "note": "environ 200 g pièce",
      "canon": "oignon"
     },
     {
@@ -608,7 +609,8 @@ window.RECETTES.push({
   "Huile du bouillon : ¼ de tasse pour 8 (Taste of Maroc), ¼ de tasse pour 500 g de viande (Cooking with Alia), 2 c. à s. (Benkabbou), « 8 سل » pour 8 (Dari). Retenu : 4 c. à s. (60 ml).",
   "Eau du bouillon : environ 3 l pour 8 chez Taste of Maroc (2,25 l pour 6), qui conseille d'en mettre plus pour avoir du bouillon en plus. Retenu : 2,5 l.",
   "Temps de cuisson : Taste of Maroc annonce 2 h ; ici 135 min, calculés ainsi : 115 min de minuteurs, plus environ 5 min de montée en vapeur à chacun des trois passages (Cooking with Alia), plus environ 5 min pour le deuxième roulage, sans compter la montée à ébullition.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme », 3 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme », 3 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 3 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Version de Fès : Paula Wolfert publie « Couscous with seven vegetables in the Fes manner » (The Food of Morocco, p. 209), mais la fiche Eat Your Books a renvoyé une erreur 429 trois fois et le livre n'a pas été consulté ; aucune particularité fassie n'est donc donnée.",

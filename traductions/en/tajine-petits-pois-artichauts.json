@@ -1,0 +1,530 @@
+{
+ "_slug": "tajine-petits-pois-artichauts",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Tajine de viande aux petits pois et aux artichauts",
+   "t": "Meat tagine with peas and artichokes"
+  },
+  "darija": {
+   "fr": "Tajine jelbana",
+   "t": "Tajine jelbana"
+  },
+  "tagline": {
+   "fr": "Une viande fondante au gingembre et au curcuma, des cœurs d'artichauts et des petits pois tendres, et une touche de citron confit.",
+   "t": "Melt-in-the-mouth meat with ginger and turmeric, artichoke hearts, tender peas and a touch of preserved lemon."
+  },
+  "region": {
+   "fr": "Maroc : selon My Moroccan Food, le tajine d'artichauts s'y prépare traditionnellement avec de la viande et des petits pois. Aucune source lue ne le rattache à une région précise.",
+   "t": "Morocco: according to My Moroccan Food, artichoke tagine is traditionally made there with meat and peas. None of the sources read links it to a specific region."
+  },
+  "occasion": {
+   "fr": "Plat familial (Rachida) : au Maroc, le tajine est le plat principal du déjeuner de tous les jours (Morocco World News). C'est le tajine du printemps, quand les artichauts et les petits pois frais arrivent au marché (MarocMama) ; Rachida le dit aussi très apprécié pendant le Ramadan, quelques heures après le ftour.",
+   "t": "Family dish (Rachida): in Morocco, tagine is the main dish of the everyday lunch (Morocco World News). It is the spring tagine, made when fresh artichokes and peas arrive at the market (MarocMama); Rachida also says it is very popular during Ramadan, a few hours after iftar."
+  },
+  "img_alt": {
+   "fr": "Tajine de bœuf aux petits pois et au citron confit, servi sur de la semoule (photo d'une version sans artichauts)",
+   "t": "Beef tagine with peas and preserved lemon, served on semolina (photo of a version without artichokes)"
+  },
+  "serving": {
+   "fr": "Bien chaud (Choumicha) et aussitôt (Cooking With Alia) : la viande au centre, les petits pois dessus, les fonds d'artichauts en décor et la sauce autour (Rachida ; Bladi.net ; Cooking With Alia). Au Maroc, le tajine est le plat principal du déjeuner, mangé avec du pain maison (Morocco World News). Rachida le sert avec du pain maison ou du matlou3 ; Cooking With Alia avec du pain marocain ou une baguette ; My Moroccan Food sert sa version végétale avec du couscous ou du pain.",
+   "t": "Piping hot (Choumicha) and straight away (Cooking With Alia): the meat in the centre, the peas on top, the artichoke bottoms as decoration and the sauce around (Rachida; Bladi.net; Cooking With Alia). In Morocco, tagine is the main dish at lunch, eaten with homemade bread (Morocco World News). Rachida serves it with homemade bread or matlou3; Cooking With Alia with Moroccan bread or a baguette; My Moroccan Food serves its plant-based version with couscous or bread."
+  },
+  "ing.0.group": {
+   "fr": "Viande et sauce",
+   "t": "Meat and sauce"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de veau halal (épaule, collier ou gigot, avec os)",
+   "t": "halal lamb or veal (shoulder, neck or leg, on the bone)"
+  },
+  "ing.viande.note": {
+   "fr": "en gros morceaux",
+   "t": "in large pieces"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher finement",
+   "t": "to be finely chopped"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser ou à râper",
+   "t": "to be crushed or grated"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "adjust at the end"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "saffron threads"
+  },
+  "ing.safran.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "chopped fresh coriander and parsley"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "juste de quoi couvrir la viande",
+   "t": "just enough to cover the meat"
+  },
+  "ing.1.group": {
+   "fr": "Légumes",
+   "t": "Vegetables"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron.note": {
+   "fr": "pour l'eau citronnée des artichauts",
+   "t": "for the artichokes' lemon water"
+  },
+  "ing.artichauts.name": {
+   "fr": "artichaut frais",
+   "t": "fresh artichoke"
+  },
+  "ing.artichauts.pl": {
+   "fr": "artichauts frais",
+   "t": "fresh artichokes"
+  },
+  "ing.artichauts.note": {
+   "fr": "ou le même nombre de fonds d'artichauts surgelés (6 fonds pèsent environ 350 g)",
+   "t": "or the same number of frozen artichoke bottoms (6 bottoms weigh about 350 g)"
+  },
+  "ing.petits-pois.name": {
+   "fr": "de petits pois écossés, frais ou surgelés",
+   "t": "shelled peas, fresh or frozen"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "Finishing and serving"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "preserved lemon"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "preserved lemons"
+  },
+  "ing.citron-confit.note": {
+   "fr": "l'écorce seulement",
+   "t": "the peel only"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives violettes",
+   "t": "purple olives"
+  },
+  "ing.olives.note": {
+   "fr": "facultatives",
+   "t": "optional"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre et persil hachés",
+   "t": "chopped coriander and parsley"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour servir",
+   "t": "to serve"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "bread (khobz)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "for mopping up the sauce"
+  },
+  "equipment.0": {
+   "fr": "Cocotte à fond épais avec couvercle (ou tajine en terre posé sur un diffuseur de chaleur)",
+   "t": "Heavy-based casserole with a lid (or a clay tagine set on a heat diffuser)"
+  },
+  "equipment.1": {
+   "fr": "Grand bol, pour l'eau citronnée",
+   "t": "Large bowl, for the lemon water"
+  },
+  "equipment.2": {
+   "fr": "Couteau d'office à lame inox",
+   "t": "Stainless-steel paring knife"
+  },
+  "equipment.3": {
+   "fr": "Petite cuillère, pour retirer le foin des artichauts",
+   "t": "Teaspoon, to remove the choke from the artichokes"
+  },
+  "equipment.4": {
+   "fr": "Planche à découper",
+   "t": "Chopping board"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "equipment.6": {
+   "fr": "Plat de service creux",
+   "t": "Deep serving dish"
+  },
+  "steps.0.title": {
+   "fr": "Prépare l'eau citronnée",
+   "t": "Prepare the lemon water"
+  },
+  "steps.0.text": {
+   "fr": "Remplis un grand bol d'eau froide. Presse {{citron:full}} et verse le jus dans l'eau. Garde le citron pressé pour frotter les artichauts.",
+   "t": "Fill a large bowl with cold water. Squeeze {{citron:full}} and pour the juice into the water. Keep the squeezed lemon for rubbing the artichokes."
+  },
+  "steps.0.tip": {
+   "fr": "Frotte-toi aussi le bout des doigts avec un peu de citron : tes doigts ne se tacheront pas (Cooking With Alia).",
+   "t": "Rub your fingertips with a little lemon too: your fingers won't stain (Cooking With Alia)."
+  },
+  "steps.1.title": {
+   "fr": "Nettoie les artichauts",
+   "t": "Trim the artichokes"
+  },
+  "steps.1.text": {
+   "fr": "Avec un couteau à lame inox, retire les feuilles dures de {{artichauts:full}}, puis les feuilles tendres, jusqu'au cœur. Coupe la tige au ras du fond et pare le contour pour ne laisser aucun reste de feuille. Retire le foin avec une petite cuillère. Frotte chaque fond avec un morceau de citron et plonge-le aussitôt dans l'eau citronnée.",
+   "t": "Using a stainless-steel knife, remove the tough leaves from {{artichauts:full}}, then the tender leaves, down to the heart. Cut off the stem flush with the base and trim all round so that no bits of leaf are left. Remove the choke with a teaspoon. Rub each bottom with a piece of lemon and drop it straight into the lemon water."
+  },
+  "steps.1.tip": {
+   "fr": "Avec des fonds d'artichauts surgelés, saute cette étape : laisse-les au congélateur jusqu'au moment de les cuire (Rachida).",
+   "t": "If you are using frozen artichoke bottoms, skip this step: leave them in the freezer until it is time to cook them (Rachida)."
+  },
+  "steps.2.title": {
+   "fr": "Hache oignon, ail et herbes",
+   "t": "Chop the onion, garlic and herbs"
+  },
+  "steps.2.text": {
+   "fr": "Hache finement {{oignon:full}}. Écrase ou râpe {{ail:full}}. Hache la coriandre et le persil : il en faut {{herbes}}, plus un peu pour servir.",
+   "t": "Finely chop {{oignon:full}}. Crush or grate {{ail:full}}. Chop the coriander and parsley: you need {{herbes}}, plus a little to serve."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a chopping board"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir la viande dans les épices",
+   "t": "Sauté the meat in the spices"
+  },
+  "steps.3.text": {
+   "fr": "Dans une cocotte à fond épais, mets {{viande}} de viande en gros morceaux, l'oignon, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran si tu en mets, et les herbes hachées. Mélange bien pour que la viande s'imprègne des épices. Couvre et laisse revenir 10 minutes à feu doux, en remuant souvent.",
+   "t": "Put {{viande}} meat in large pieces, the onion, the garlic and {{huile}} olive oil into a heavy-based casserole. Add {{gingembre}} ginger, {{curcuma}} turmeric, {{poivre}} pepper, {{sel}} salt, {{safran}} saffron if using, and the chopped herbs. Mix well so that the meat soaks up the spices. Cover and leave to sauté for 10 minutes over low heat, stirring often."
+  },
+  "steps.3.timer.label": {
+   "fr": "Viande revenue",
+   "t": "Sautéing the meat"
+  },
+  "steps.3.timer.done": {
+   "fr": "La viande s'est imprégnée des épices : verse l'eau.",
+   "t": "The meat has soaked up the spices: pour in the water."
+  },
+  "steps.4.title": {
+   "fr": "Mouille et laisse mijoter 1 heure",
+   "t": "Add the water and simmer for 1 hour"
+  },
+  "steps.4.text": {
+   "fr": "Verse {{eau}} d'eau : la viande doit être juste couverte, complète un peu si besoin. Porte à ébullition, couvre et baisse le feu. Laisse mijoter 1 heure à feu doux, en remuant de temps en temps. Si la sauce baisse trop, ajoute un peu d'eau.",
+   "t": "Pour in {{eau}} water: the meat should be just covered; add a little more if needed. Bring to the boil, cover and turn the heat down. Simmer for 1 hour over low heat, stirring from time to time. If the sauce reduces too much, add a little water."
+  },
+  "steps.4.timer.label": {
+   "fr": "Mijotage de la viande",
+   "t": "Simmering the meat"
+  },
+  "steps.4.timer.done": {
+   "fr": "Pique un morceau avec la pointe d'un couteau : elle doit entrer facilement. Sinon, prolonge un peu la cuisson.",
+   "t": "Pierce a piece with the tip of a knife: it should go in easily. If not, cook a little longer."
+  },
+  "steps.5.title": {
+   "fr": "Prépare le citron confit et les olives",
+   "t": "Prepare the preserved lemon and olives"
+  },
+  "steps.5.text": {
+   "fr": "Pendant que la viande mijote, rince {{citron-confit:full}} pour enlever un peu de sel. Retire la pulpe et coupe l'écorce en fines lanières. Garde à portée de main {{olives}} d'olives violettes, si tu en mets.",
+   "t": "While the meat is simmering, rinse {{citron-confit:full}} to remove some of the salt. Remove the pulp and cut the peel into thin strips. Keep {{olives}} purple olives close at hand, if using."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute les artichauts et les petits pois frais",
+   "t": "Add the artichokes and fresh peas"
+  },
+  "steps.6.text": {
+   "fr": "Égoutte les fonds d'artichauts et rince-les. Pose-les sur la viande avec {{petits-pois}} de petits pois, s'ils sont frais. Si tes légumes sont surgelés, mets les fonds d'artichauts maintenant, sans les décongeler, et garde les petits pois pour l'étape suivante. La sauce doit couvrir les légumes à moitié : ajoute un peu d'eau si besoin. Couvre et laisse cuire 10 minutes à feu doux.",
+   "t": "Drain the artichoke bottoms and rinse them. Lay them on the meat with {{petits-pois}} peas, if they are fresh. If your vegetables are frozen, add the artichoke bottoms now, without thawing them, and keep the peas for the next step. The sauce should come halfway up the vegetables: add a little water if needed. Cover and cook for 10 minutes over low heat."
+  },
+  "steps.6.timer.label": {
+   "fr": "Artichauts à couvert",
+   "t": "Artichokes, lid on"
+  },
+  "steps.6.timer.done": {
+   "fr": "Ajoute maintenant les petits pois s'ils sont surgelés, puis le citron confit et les olives.",
+   "t": "Now add the peas if they are frozen, then the preserved lemon and the olives."
+  },
+  "steps.7.title": {
+   "fr": "Termine à découvert",
+   "t": "Finish uncovered"
+  },
+  "steps.7.text": {
+   "fr": "Si tes petits pois sont surgelés, ajoute-les maintenant, sans les décongeler. Ajoute les lanières de citron confit et les olives. Laisse cuire 10 minutes à découvert, à feu doux. C'est prêt quand les artichauts sont tendres sous la pointe d'un couteau et que la sauce a réduit.",
+   "t": "If your peas are frozen, add them now, without thawing them. Add the preserved lemon strips and the olives. Cook uncovered for 10 minutes over low heat. It is ready once the artichokes are tender when pierced with the tip of a knife and the sauce has reduced."
+  },
+  "steps.7.timer.label": {
+   "fr": "Fin de cuisson",
+   "t": "Final cooking"
+  },
+  "steps.7.timer.done": {
+   "fr": "Artichauts tendres et sauce réduite ? Sinon, prolonge de quelques minutes.",
+   "t": "Artichokes tender and sauce reduced? If not, cook for a few more minutes."
+  },
+  "steps.8.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Taste and adjust"
+  },
+  "steps.8.text": {
+   "fr": "Goûte la sauce et rectifie le sel et le poivre. Elle doit être onctueuse, juste assez abondante pour napper : si elle est encore trop liquide, laisse-la réduire quelques minutes de plus à découvert.",
+   "t": "Taste the sauce and adjust the salt and pepper. It should be velvety and just plentiful enough to coat the meat: if it is still too thin, let it reduce for a few more minutes, uncovered."
+  },
+  "steps.9.title": {
+   "fr": "Dresse le tajine",
+   "t": "Arrange the tagine"
+  },
+  "steps.9.text": {
+   "fr": "Retire délicatement les fonds d'artichauts. Mets la viande au centre du plat et verse les petits pois dessus. Décore avec les fonds d'artichauts, bien en vue. Nappe de sauce, ajoute le citron confit et les olives, puis parsème de {{herbes-service}}.",
+   "t": "Carefully lift out the artichoke bottoms. Put the meat in the centre of the dish and spoon the peas over it. Decorate with the artichoke bottoms, clearly visible. Spoon the sauce over, add the preserved lemon and olives, then sprinkle with {{herbes-service}}."
+  },
+  "steps.10.title": {
+   "fr": "Sers bien chaud",
+   "t": "Serve piping hot"
+  },
+  "steps.10.text": {
+   "fr": "Sers aussitôt, bien chaud, avec du {{khobz}} pour saucer.",
+   "t": "Serve straight away, piping hot, with {{khobz}} for mopping up the sauce."
+  },
+  "secrets.0.text": {
+   "fr": "La chair de l'artichaut noircit au contact de l'air : épluche-le avec un couteau à lame inox et plonge aussitôt les fonds dans de l'eau citronnée.",
+   "t": "Artichoke flesh turns black on contact with the air: peel it with a stainless-steel knife and drop the bottoms straight into lemon water."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha, astuce « Autour de l'artichaut » ; Rachida ; Morocco World News ; Lalla Moulati",
+   "t": "Choumicha, tip “Autour de l'artichaut”; Rachida; Morocco World News; Lalla Moulati"
+  },
+  "secrets.1.text": {
+   "fr": "Choisis des artichauts compacts, lourds dans la main, fermes et bien verts, aux feuilles serrées. Des feuilles ouvertes annoncent un artichaut trop mûr, dur, avec beaucoup de foin.",
+   "t": "Choose compact artichokes that feel heavy in the hand, firm and bright green, with tightly packed leaves. Open leaves are the sign of an over-ripe, tough artichoke with a lot of choke."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha, « L'artichaut, un cœur tendre »",
+   "t": "Choumicha, “L'artichaut, un cœur tendre”"
+  },
+  "secrets.2.text": {
+   "fr": "Pour les petits pois frais, prends des cosses fermes, d'un vert intense, sans taches, et évite les pois jaunes. Non écossés, ils se gardent deux jours dans le bac à légumes du réfrigérateur.",
+   "t": "For fresh peas, choose firm, deep green pods with no blemishes, and avoid yellow peas. Unshelled, they keep for two days in the vegetable drawer of the fridge."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha, « Les petits pois, une saveur pleine de douceur »",
+   "t": "Choumicha, “Les petits pois, une saveur pleine de douceur”"
+  },
+  "secrets.3.text": {
+   "fr": "Avec des surgelés, sors les fonds d'artichauts et les petits pois du congélateur juste avant de les mettre dans la cocotte, sans les décongeler. S'ils ne sont pas lavés, rince-les vite dans une passoire.",
+   "t": "With frozen vegetables, take the artichoke bottoms and peas out of the freezer just before putting them into the casserole, without thawing them. If they are not pre-washed, give them a quick rinse in a colander."
+  },
+  "secrets.3.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida)",
+   "t": "Rachida (Gâteau et cuisine Rachida)"
+  },
+  "secrets.4.text": {
+   "fr": "Les petits pois cuisent vite : une dizaine de minutes suffit. Avec des surgelés, ajoute-les seulement pour les 10 dernières minutes.",
+   "t": "Peas cook quickly: about ten minutes is enough. With frozen peas, add them only for the last 10 minutes."
+  },
+  "secrets.4.source": {
+   "fr": "MarocMama (petits pois frais ou surgelés ajoutés dans les 10 dernières minutes, au tajine) ; Bladi.net, Said A. (petits pois cuits 10 minutes)",
+   "t": "MarocMama (fresh or frozen peas added to the tagine for the last 10 minutes); Bladi.net, Said A. (peas cooked for 10 minutes)"
+  },
+  "secrets.5.text": {
+   "fr": "Les petits pois surgelés peuvent contenir des bactéries : ils doivent toujours être bien cuits avant d'être mangés.",
+   "t": "Frozen peas can contain bacteria: they must always be thoroughly cooked before eating."
+  },
+  "secrets.5.source": {
+   "fr": "Food Standards Agency (Royaume-Uni), « Cooking your food »",
+   "t": "Food Standards Agency (United Kingdom), “Cooking your food”"
+  },
+  "secrets.6.text": {
+   "fr": "Pas besoin de beaucoup d'épices : gingembre, curcuma et poivre laissent toute la place au goût de la viande, des artichauts et des petits pois.",
+   "t": "No need for lots of spices: ginger, turmeric and pepper let the flavour of the meat, artichokes and peas come through."
+  },
+  "secrets.6.source": {
+   "fr": "Rachida ; mêmes épices de base chez Morocco World News, Cooking With Alia et Lalla Moulati",
+   "t": "Rachida; the same basic spices in Morocco World News, Cooking With Alia and Lalla Moulati"
+  },
+  "secrets.7.text": {
+   "fr": "Les légumes cuisent posés sur la viande : chez Lalla Moulati, d'abord les petits pois, puis les artichauts par-dessus.",
+   "t": "The vegetables cook on top of the meat: Lalla Moulati puts the peas in first, then the artichokes on top of them."
+  },
+  "secrets.7.source": {
+   "fr": "Lalla Moulati ; Morocco World News (artichauts et petits pois posés sur le dessus)",
+   "t": "Lalla Moulati; Morocco World News (artichokes and peas laid on top)"
+  },
+  "secrets.8.text": {
+   "fr": "Rince le citron confit pour enlever un peu de sel et garde seulement l'écorce, en fines lanières.",
+   "t": "Rinse the preserved lemon to remove some of the salt and keep only the peel, cut into thin strips."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia (n° 128 et n° 437) ; Bladi.net (écorce) ; My Moroccan Food (pulpe jetée)",
+   "t": "Cooking With Alia (no. 128 and no. 437); Bladi.net (peel); My Moroccan Food (pulp discarded)"
+  },
+  "secrets.9.text": {
+   "fr": "La sauce doit finir onctueuse et assez réduite : il en reste juste de quoi napper la viande et les légumes.",
+   "t": "The sauce should end up velvety and well reduced: there should be just enough left to coat the meat and vegetables."
+  },
+  "secrets.9.source": {
+   "fr": "Rachida ; MarocMama (sauce épaisse) ; Choumicha (cuisson jusqu'à réduction de la sauce)",
+   "t": "Rachida; MarocMama (thick sauce); Choumicha (cooked until the sauce has reduced)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour la présentation, mets la viande au centre, les petits pois dessus et les fonds d'artichauts bien en vue.",
+   "t": "For presentation, put the meat in the centre, the peas on top and the artichoke bottoms clearly visible."
+  },
+  "secrets.10.source": {
+   "fr": "Rachida ; Bladi.net ; Cooking With Alia",
+   "t": "Rachida; Bladi.net; Cooking With Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Au tajine en terre, Lalla Moulati étale des rondelles d'oignon au fond et pose la viande dessus : elle n'attache pas, et l'oignon qui confit parfume le plat.",
+   "t": "In a clay tagine, Lalla Moulati spreads onion slices over the base and lays the meat on top: it doesn't stick, and the onion, cooking down until soft and sweet, flavours the dish."
+  },
+  "secrets.11.source": {
+   "fr": "Lalla Moulati",
+   "t": "Lalla Moulati"
+  },
+  "secrets.12.text": {
+   "fr": "Tajine en terre : utilise un diffuseur de chaleur sur le gaz ou l'électrique, et commence à feu très doux. Une fois cuit, ne le pose jamais sur une surface froide comme le marbre ou le granit : il pourrait se fendre. Pose-le sur une planche en bois.",
+   "t": "Clay tagine: use a heat diffuser on a gas or electric hob, and start over very low heat. Once it is cooked, never put it down on a cold surface such as marble or granite: it could crack. Put it on a wooden board."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food, « Introduction to the Tagine Pot »",
+   "t": "My Moroccan Food, “Introduction to the Tagine Pot”"
+  },
+  "secrets.13.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte couverte, et à manger dans les 48 heures. Réchauffe-les une seule fois, en remuant, jusqu'à ce qu'ils soient bien fumants partout.",
+   "t": "Leftovers: put them in the fridge within 2 hours, in a covered container, and eat them within 48 hours. Reheat them only once, stirring, until they are steaming hot all the way through."
+  },
+  "secrets.13.source": {
+   "fr": "Food Standards Agency (Royaume-Uni) ; FDA (règle des 2 heures)",
+   "t": "Food Standards Agency (United Kingdom); FDA (2-hour rule)"
+  },
+  "mistakes.0": {
+   "fr": "Laisser les fonds d'artichauts à l'air : ils noircissent (Choumicha ; Rachida).",
+   "t": "Leaving the artichoke bottoms exposed to the air: they turn black (Choumicha; Rachida)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser la sauce attacher : surveille le niveau d'eau et ajoutes-en un peu si besoin (Bladi.net ; Morocco World News ; Rachida ; MarocMama).",
+   "t": "Letting the sauce catch: keep an eye on the water level and add a little if needed (Bladi.net; Morocco World News; Rachida; MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de rincer le citron confit : il est très salé (Cooking With Alia).",
+   "t": "Forgetting to rinse the preserved lemon: it is very salty (Cooking With Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Servir sans goûter : rectifie le sel et le poivre à la fin (Cooking With Alia).",
+   "t": "Serving without tasting: adjust the salt and pepper at the end (Cooking With Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Avec la variante à la cocotte-minute : l'ouvrir avant que toute la vapeur soit sortie (Rachida ; Cooking With Alia).",
+   "t": "With the pressure cooker variation: opening it before all the steam has escaped (Rachida; Cooking With Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Poser un tajine en terre sur le feu sans diffuseur, ou le poser chaud sur un plan de travail froid (My Moroccan Food).",
+   "t": "Putting a clay tagine on the heat without a diffuser, or setting it down hot on a cold worktop (My Moroccan Food)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (Food Standards Agency ; FDA).",
+   "t": "Leaving leftovers at room temperature for more than 2 hours (Food Standards Agency; FDA)."
+  },
+  "variants.0": {
+   "fr": "Au tajine en terre (Lalla Moulati) : sur un diffuseur, fais revenir la viande avec un oignon émincé, l'ail, les épices, les herbes et l'huile. Retire-la, étale des rondelles d'oignon au fond, remets la viande dessus, puis les petits pois et les artichauts. Verse un verre d'eau mélangé à un peu de toutes les épices, ajoute un filet d'huile d'olive, ferme et laisse cuire doucement, sur la braise ou au gaz. Morocco World News compte environ 1 heure de cuisson au tajine ; MarocMama compte environ 2 heures et ajoute les petits pois dans les 10 dernières minutes.",
+   "t": "In a clay tagine (Lalla Moulati): on a diffuser, sauté the meat with a sliced onion, the garlic, spices, herbs and oil. Take it out, spread onion slices over the base, put the meat back on top, then the peas and artichokes. Pour in a glass of water mixed with a little of each spice, add a drizzle of olive oil, put the lid on and cook gently, over embers or on gas. Morocco World News allows about 1 hour of cooking in the tagine; MarocMama allows about 2 hours and adds the peas for the last 10 minutes."
+  },
+  "variants.1": {
+   "fr": "À la cocotte-minute : la viande d'abord, 20 à 30 minutes à partir du sifflement (Bladi.net 20 ; Rachida 25 ; MarocMama et Cooking With Alia 30), puis les légumes, 10 à 30 minutes (Rachida 10 ; MarocMama 15 ; Bladi.net 20 ; Cooking With Alia 30). N'ouvre qu'une fois toute la vapeur sortie (Rachida ; Cooking With Alia).",
+   "t": "In a pressure cooker: the meat first, 20 to 30 minutes from when it starts hissing (Bladi.net 20; Rachida 25; MarocMama and Cooking With Alia 30), then the vegetables, 10 to 30 minutes (Rachida 10; MarocMama 15; Bladi.net 20; Cooking With Alia 30). Only open it once all the steam has escaped (Rachida; Cooking With Alia)."
+  },
+  "variants.2": {
+   "fr": "Viande gardée au chaud (Choumicha, tajine de veau aux cardons et aux artichauts) : quand la viande est tendre, sors-la et couvre-la. Cuis les légumes 15 à 20 minutes à couvert dans la sauce avec le citron confit, puis ajoute les olives et l'huile d'olive pour 10 minutes. Remets la viande au moment de servir, dans un plat chaud.",
+   "t": "Meat kept warm (Choumicha, veal tagine with cardoons and artichokes): when the meat is tender, take it out and cover it. Cook the vegetables for 15 to 20 minutes, covered, in the sauce with the preserved lemon, then add the olives and the olive oil for 10 minutes. Put the meat back when serving, in a warm dish."
+  },
+  "variants.3": {
+   "fr": "Légumes cuits à part (Bladi.net, Said A.) : fonds d'artichauts cuits 15 à 20 minutes dans de l'eau bouillante salée avec un peu de sauce de la viande, petits pois cuits 10 minutes à l'eau, puis réunis avec la viande. Cooking With Alia (n° 128) fait cuire ses artichauts entiers dans de l'eau citronnée avant de les nettoyer.",
+   "t": "Vegetables cooked separately (Bladi.net, Said A.): artichoke bottoms cooked for 15 to 20 minutes in boiling salted water with a little of the meat sauce, peas boiled for 10 minutes, then combined with the meat. Cooking With Alia (no. 128) cooks the artichokes whole in lemon water before trimming them."
+  },
+  "variants.4": {
+   "fr": "Avec des fèves fraîches, à la place des petits pois (Bladi.net, Said A.) ou en plus (Lalla Moulati, 2016).",
+   "t": "With fresh broad beans, instead of the peas (Bladi.net, Said A.) or as well as them (Lalla Moulati, 2016)."
+  },
+  "variants.5": {
+   "fr": "Avec deux pommes de terre coupées en longueur (Lalla Moulati, 2020), ou une carotte (MarocMama).",
+   "t": "With two potatoes cut lengthways (Lalla Moulati, 2020), or a carrot (MarocMama)."
+  },
+  "variants.6": {
+   "fr": "Avec une tomate hachée, cuite avec l'oignon et les épices (Rachida ; Lalla Moulati, 2016).",
+   "t": "With a chopped tomato, cooked with the onion and spices (Rachida; Lalla Moulati, 2016)."
+  },
+  "variants.7": {
+   "fr": "Une pointe de cannelle (Rachida), ou une cuillère à café de coriandre moulue (Cooking With Alia, n° 861).",
+   "t": "A hint of cinnamon (Rachida), or a teaspoon of ground coriander (Cooking With Alia, no. 861)."
+  },
+  "variants.8": {
+   "fr": "Petits pois et artichauts surgelés trempés quelques minutes dans de l'eau tiède avant la cuisson, pour qu'ils arrivent à température ambiante (MarocMama).",
+   "t": "Frozen peas and artichokes soaked for a few minutes in lukewarm water before cooking, so that they come up to room temperature (MarocMama)."
+  },
+  "variants.9": {
+   "fr": "Version végétale (My Moroccan Food) : sans viande, avec des petites pommes de terre et un bouillon de légumes ; les petits pois ne cuisent que 3 à 4 minutes à la fin.",
+   "t": "Plant-based version (My Moroccan Food): no meat, with small potatoes and vegetable stock; the peas cook for only 3 to 4 minutes at the end."
+  }
+ }
+}

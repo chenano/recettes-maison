@@ -36,7 +36,7 @@
   },
   "ing.poulet.note": {
    "fr": "entier ou coupé en quatre ; un poulet beldi demande environ 1 h de cuisson de plus",
-   "t": "كاملًا أو مقطّعًا إلى أربعة؛ الدجاج البلدي يحتاج نحو 1 ساعة إضافية من الطهي"
+   "t": "كاملًا أو مقطّعًا إلى أربعة؛ الدجاج البلدي يحتاج نحو ساعة إضافية من الطهي"
   },
   "ing.oignons.name": {
    "fr": "gros oignon",
@@ -192,7 +192,7 @@
   },
   "steps.0.text": {
    "fr": "Mets {{fenugrec}} de graines de fenugrec dans un bol et couvre-les largement d'eau froide. Laisse tremper toute la nuit, ou au moins 6 h : les graines ramollissent et deviennent moins fortes. Tu as oublié ? Verse de l'eau bouillante dessus et attends 1 à 2 h.",
-   "t": "ضع {{fenugrec}} من بذور الحلبة في وعاء وغطّها بكمية وافرة من الماء البارد. اتركها منقوعة طوال الليل، أو 6 ساعات على الأقل: تلين البذور وتخفّ حدّتها. نسيت؟ اسكب عليها ماءً مغليًا وانتظر من 1 إلى 2 ساعة."
+   "t": "ضع {{fenugrec}} من بذور الحلبة في وعاء وغطّها بكمية وافرة من الماء البارد. اتركها منقوعة طوال الليل، أو 6 ساعات على الأقل: تلين البذور وتخفّ حدّتها. نسيت؟ اسكب عليها ماءً مغليًا وانتظر من ساعة إلى ساعتين."
   },
   "steps.1.title": {
    "fr": "Prépare les msemen à l'avance",
@@ -248,11 +248,11 @@
   },
   "steps.5.text": {
    "fr": "Ajoute le fenugrec égoutté, les herbes hachées et {{eau}} d'eau. Porte à ébullition, puis couvre et baisse à feu moyen-doux. Poulet beldi : laisse mijoter 1 h avant d'ajouter les lentilles. Poulet standard : ajoute les lentilles tout de suite et passe à l'étape suivante.",
-   "t": "أضف الحلبة المصفّاة والأعشاب المفرومة و{{eau}} من الماء. اتركه حتى يغلي، ثم غطِّ القدر واخفض النار إلى ما بين المتوسطة والهادئة. الدجاج البلدي: اتركه ينضج على نار هادئة 1 ساعة قبل إضافة العدس. الدجاج العادي: أضف العدس فورًا وانتقل إلى الخطوة التالية."
+   "t": "أضف الحلبة المصفّاة والأعشاب المفرومة و{{eau}} من الماء. اتركه حتى يغلي، ثم غطِّ القدر واخفض النار إلى ما بين المتوسطة والهادئة. الدجاج البلدي: اتركه ينضج على نار هادئة ساعة واحدة قبل إضافة العدس. الدجاج العادي: أضف العدس فورًا وانتقل إلى الخطوة التالية."
   },
   "steps.5.timer.label": {
    "fr": "Poulet beldi, 1re heure",
-   "t": "الدجاج البلدي، الساعة 1"
+   "t": "الدجاج البلدي، الساعة الأولى"
   },
   "steps.5.timer.done": {
    "fr": "Ajoute les lentilles : c'est l'étape suivante.",
@@ -264,7 +264,7 @@
   },
   "steps.6.text": {
    "fr": "Ajoute les lentilles, couvre et laisse mijoter à feu moyen-doux environ 1 h, jusqu'à ce que les lentilles et le poulet soient bien tendres. À mi-cuisson, goûte le bouillon et rajoute de l'eau chaude s'il a trop baissé : il doit en rester beaucoup. Si le poulet est cuit avant les lentilles, sors-le et mets-le de côté, couvert.",
-   "t": "أضف العدس، وغطِّ القدر واتركه ينضج على نار بين المتوسطة والهادئة نحو 1 ساعة، حتى يصير العدس والدجاج طريَّين جيدًا. في منتصف الطهي، تذوّق المرق وأضف ماءً ساخنًا إذا نقص كثيرًا: يجب أن يبقى منه الكثير. إذا نضج الدجاج قبل العدس، أخرجه وضعه جانبًا، مغطّى."
+   "t": "أضف العدس، وغطِّ القدر واتركه ينضج على نار بين المتوسطة والهادئة نحو ساعة، حتى يصير العدس والدجاج طريَّين جيدًا. في منتصف الطهي، تذوّق المرق وأضف ماءً ساخنًا إذا نقص كثيرًا: يجب أن يبقى منه الكثير. إذا نضج الدجاج قبل العدس، أخرجه وضعه جانبًا، مغطّى."
   },
   "steps.6.timer.label": {
    "fr": "Lentilles",
@@ -280,7 +280,7 @@
   },
   "steps.7.text": {
    "fr": "Goûte le bouillon : il doit être très parfumé. Rectifie le sel, puis ajoute {{smen-fin}} de smen et fais tourner la marmite pour le fondre dans le bouillon. Si tu avais sorti le poulet, remets-le quelques minutes pour le réchauffer.",
-   "t": "تذوّق المرق: يجب أن يكون عطِر النكهة جدًا. عدّل الملح، ثم أضف {{smen-fin}} من السمن البلدي وحرّك القدر حركة دائرية ليذوب في المرق. إذا كنت قد أخرجت الدجاج، فأعده بضع دقائق ليسخن."
+   "t": "تذوّق المرق: يجب أن يكون عطِرًا جدًا. عدّل الملح، ثم أضف {{smen-fin}} من السمن البلدي وحرّك القدر حركة دائرية ليذوب في المرق. إذا كنت قد أخرجت الدجاج، فأعده بضع دقائق ليسخن."
   },
   "steps.8.title": {
    "fr": "Réchauffe les msemen à la vapeur",
@@ -316,7 +316,7 @@
   },
   "secrets.0.text": {
    "fr": "Fais tremper le fenugrec toute la nuit, ou au moins 6 h : les graines ramollissent et perdent une partie de leur force. Oublié ? Couvre-les d'eau bouillante et attends 1 à 2 h.",
-   "t": "انقع الحلبة طوال الليل، أو 6 ساعات على الأقل: تلين البذور وتفقد جزءًا من حدّتها. نسيت؟ غطّها بماء مغلي وانتظر من 1 إلى 2 ساعة."
+   "t": "انقع الحلبة طوال الليل، أو 6 ساعات على الأقل: تلين البذور وتفقد جزءًا من حدّتها. نسيت؟ غطّها بماء مغلي وانتظر من ساعة إلى ساعتين."
   },
   "secrets.0.source": {
    "fr": "Taste of Maroc ; Paula Wolfert (au moins 4 h dans l'eau tiède)",
@@ -348,7 +348,7 @@
   },
   "secrets.4.text": {
    "fr": "Prévois un bouillon abondant : les msemen en boivent beaucoup. Rajoute de l'eau chaude en cours de cuisson s'il baisse, goûte-le (il doit être très parfumé) et garde-en un ou deux bols pour servir à part.",
-   "t": "احرص على مرق وافر: المسمن يتشرّب منه الكثير. أضف ماءً ساخنًا أثناء الطهي إذا نقص، وتذوّقه (يجب أن يكون عطِر النكهة جدًا)، واحتفظ منه بوعاء أو وعاءين لتقدّمهما على حدة."
+   "t": "احرص على مرق وافر: المسمن يتشرّب منه الكثير. أضف ماءً ساخنًا أثناء الطهي إذا نقص، وتذوّقه (يجب أن يكون عطِرًا جدًا)، واحتفظ منه بوعاء أو وعاءين لتقدّمهما على حدة."
   },
   "secrets.4.source": {
    "fr": "Taste of Maroc ; MarocMama ; Paula Wolfert ; Lalla Moulati",

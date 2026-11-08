@@ -268,7 +268,7 @@
   },
   "steps.6.text": {
    "fr": "Couvre et laisse cuire à feu moyen environ 1 h 30, jusqu'à ce que les haricots soient fondants. Le liquide doit bouillir à petits bouillons, et pas seulement frémir, au moins pendant les 30 premières minutes. Remue de temps en temps. Si le liquide réduit avant que les haricots soient cuits, ajoute {{eau-plus}}.",
-   "t": "غطِّ الطنجرة واتركها تُطهى على نار متوسطة نحو 1 ساعة و30 دقيقة، حتى تصبح الفاصوليا طرية جدًا. يجب أن يغلي السائل غليانًا خفيفًا، لا أن يكاد يغلي فقط، خلال أول 30 دقيقة على الأقل. حرّك من حين لآخر. وإذا نقص السائل قبل أن تنضج الفاصوليا، فأضف قليلًا من الماء."
+   "t": "غطِّ الطنجرة واتركها تُطهى على نار متوسطة نحو ساعة و30 دقيقة، حتى تصبح الفاصوليا طرية جدًا. يجب أن يغلي السائل غليانًا خفيفًا، لا أن يكاد يغلي فقط، خلال أول 30 دقيقة على الأقل. حرّك من حين لآخر. وإذا نقص السائل قبل أن تنضج الفاصوليا، فأضف قليلًا من الماء."
   },
   "steps.6.timer.label": {
    "fr": "Loubia",
@@ -320,7 +320,7 @@
   },
   "steps.11.text": {
    "fr": "Ne laisse pas la loubia plus de 2 heures à température ambiante : mets-la au réfrigérateur dans une boîte fermée et mange-la dans les 3 jours. S'il y en a plus d'un litre, répartis-la en petites portions pour qu'elle refroidisse vite. Réchauffe-la doucement, à couvert, avec un peu d'eau, jusqu'à ce que la vapeur s'échappe.",
-   "t": "لا تترك اللوبيا أكثر من 2 ساعة في درجة حرارة الغرفة: ضعها في الثلاجة في علبة مغلقة وكُلها خلال 3 أيام. إذا كانت أكثر من لتر، فوزّعها في حصص صغيرة لتبرد بسرعة. سخّنها على مهل، مغطاة، مع قليل من الماء، حتى يتصاعد منها البخار."
+   "t": "لا تترك اللوبيا أكثر من ساعتين في درجة حرارة الغرفة: ضعها في الثلاجة في علبة مغلقة وكُلها خلال 3 أيام. إذا كانت أكثر من لتر، فوزّعها في حصص صغيرة لتبرد بسرعة. سخّنها على مهل، مغطاة، مع قليل من الماء، حتى يتصاعد منها البخار."
   },
   "secrets.0.text": {
    "fr": "Fais tremper les haricots toute une nuit, dans beaucoup d'eau : ils gonflent et en absorbent une partie.",
@@ -336,7 +336,7 @@
   },
   "secrets.1.source": {
    "fr": "FDA (au moins 5 heures de trempage) ; MarocMama (au moins quelques heures, et plus de cuisson) ; Choumicha (2 à 3 heures pour ses haricots aux poivrons frits, 2 heures pour ses haricots aux boulettes)",
-   "t": "FDA (نقع 5 ساعات على الأقل)؛ MarocMama (بضع ساعات على الأقل، وطهي أطول)؛ Choumicha (من 2 إلى 3 ساعات لفاصولياها بالفلفل المقلي، و2 ساعة لفاصولياها بالكويرات)"
+   "t": "FDA (نقع 5 ساعات على الأقل)؛ MarocMama (بضع ساعات على الأقل، وطهي أطول)؛ Choumicha (من 2 إلى 3 ساعات لفاصولياها بالفلفل المقلي، وساعتان لفاصولياها بالكويرات)"
   },
   "secrets.2.text": {
    "fr": "Râpe les tomates et l'oignon.",
@@ -404,7 +404,7 @@
   },
   "secrets.10.text": {
    "fr": "À l'autocuiseur, n'ouvre pas tout de suite : laisse la pression retomber, pour ne pas te brûler.",
-   "t": "في طنجرة الضغط، لا تفتحها فورًا: اترك الضغط ينخفض، كي لا تحترق."
+   "t": "في طنجرة الضغط، لا تفتحها فورًا: اترك الضغط ينخفض، كي لا تُصاب بحروق."
   },
   "secrets.10.source": {
    "fr": "Morocco World News 2023",
@@ -456,15 +456,15 @@
   },
   "mistakes.5": {
    "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
-   "t": "ترك البقايا أكثر من 2 ساعة في درجة حرارة الغرفة، أو حفظها أكثر من 3 أيام في الثلاجة (Anses)."
+   "t": "ترك البقايا أكثر من ساعتين في درجة حرارة الغرفة، أو حفظها أكثر من 3 أيام في الثلاجة (Anses)."
   },
   "variants.0": {
    "fr": "À l'autocuiseur : mêmes ingrédients, 40 minutes sous pression à feu moyen (Taste of Maroc ; MarocMama ; Morocco World News 2023 compte 40 à 45 minutes). Taste of Maroc garde les 2 litres d'eau et fait ensuite réduire à découvert ; Morocco World News 2023 et MarocMama mettent juste assez d'eau pour couvrir largement les haricots. Laisse retomber la pression avant d'ouvrir (Morocco World News 2023).",
-   "t": "في طنجرة الضغط: المكونات نفسها، 40 دقيقة تحت الضغط على نار متوسطة (Taste of Maroc؛ MarocMama؛ ويحسب Morocco World News 2023 من 40 إلى 45 دقيقة). ويُبقي Taste of Maroc على 2 لتر من الماء ثم يكثّف الصلصة دون غطاء؛ أما Morocco World News 2023 وMarocMama فيضعان من الماء ما يكفي فقط لتغطية الفاصوليا بسخاء. اترك الضغط ينخفض قبل الفتح (Morocco World News 2023)."
+   "t": "في طنجرة الضغط: المكونات نفسها، 40 دقيقة تحت الضغط على نار متوسطة (Taste of Maroc؛ MarocMama؛ ويحسب Morocco World News 2023 من 40 إلى 45 دقيقة). ويُبقي Taste of Maroc على لترَي الماء ثم يكثّف الصلصة دون غطاء؛ أما Morocco World News 2023 وMarocMama فيضعان من الماء ما يكفي فقط لتغطية الفاصوليا بسخاء. اترك الضغط ينخفض قبل الفتح (Morocco World News 2023)."
   },
   "variants.1": {
    "fr": "Avec de la viande halal : 1 livre (environ 450 g) de bœuf ou d'agneau avec os pour 1 livre de haricots, dorée d'abord dans l'huile d'olive (Taste of Maroc) ; Bladi cuit 500 g de veau avec 250 g de haricots, du cumin, du coulis de tomate et une pincée de safran.",
-   "t": "باللحم الحلال: 1 رطل (نحو 450 غ) من لحم البقر أو الخروف بالعظم لكل 1 رطل من الفاصوليا، يُحمَّر أولًا في زيت الزيتون (Taste of Maroc)؛ ويطهو Bladi مقدار 500 غ من لحم العجل مع 250 غ من الفاصوليا والكمون وهريس الطماطم ورشة من الزعفران."
+   "t": "باللحم الحلال: رطل (نحو 450 غ) من لحم البقر أو الخروف بالعظم لكل رطل من الفاصوليا، يُحمَّر أولًا في زيت الزيتون (Taste of Maroc)؛ ويطهو Bladi مقدار 500 غ من لحم العجل مع 250 غ من الفاصوليا والكمون وهريس الطماطم ورشة من الزعفران."
   },
   "variants.2": {
    "fr": "À la viande séchée (gueddid) : Choumicha cuit d'abord les haricots 30 minutes avec l'ail en chemise et un bouquet de coriandre et de persil, puis ajoute la viande séchée, les tomates râpées, le concentré, les épices et l'huile d'olive ; elle retire le bouquet au service.",
@@ -476,7 +476,7 @@
   },
   "variants.4": {
    "fr": "À la douara (tripes de mouton) : Choumicha cuit les tripes 30 minutes avec les épices, puis ajoute les haricots trempés, enfermés dans un sac de mousseline, et laisse cuire environ 1 h 30. Selon MarocMama, quand on met de la viande dans la loubia, le plus courant au Maroc, ce sont des morceaux d'estomac de mouton.",
-   "t": "بالدوارة (كرشة الخروف): تطهو Choumicha الكرشة 30 دقيقة مع التوابل، ثم تضيف الفاصوليا المنقوعة داخل كيس من الشاش، وتتركها تُطهى نحو 1 ساعة و30 دقيقة. وحسب MarocMama، عندما يُضاف اللحم إلى اللوبيا، فالأكثر شيوعًا في المغرب هو قطع من معدة الخروف."
+   "t": "بالدوارة (كرشة الخروف): تطهو Choumicha الكرشة 30 دقيقة مع التوابل، ثم تضيف الفاصوليا المنقوعة داخل كيس من الشاش، وتتركها تُطهى نحو ساعة و30 دقيقة. وحسب MarocMama، عندما يُضاف اللحم إلى اللوبيا، فالأكثر شيوعًا في المغرب هو قطع من معدة الخروف."
   },
   "variants.5": {
    "fr": "Aux poivrons rouges frits, ou aux boulettes de viande hachée ajoutées 5 minutes avant la fin (Choumicha).",

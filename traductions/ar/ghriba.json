@@ -1,0 +1,466 @@
+{
+ "_slug": "ghriba",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Ghriba aux amandes, craquelée au sucre glace",
+   "t": "غريبة اللوز المشقّقة بالسكر الناعم"
+  },
+  "darija": {
+   "fr": "ghrieba d'ellouz ; on dit aussi mlewza ou mlouza",
+   "t": "غريبة اللوز (ghrieba d'ellouz)؛ ويقال أيضًا الملوزة (mlewza أو mlouza)"
+  },
+  "tagline": {
+   "fr": "Des boules de pâte d'amandes roulées dans le sucre glace : elles craquellent au four, restent moelleuses dedans et accompagnent le thé des jours de fête.",
+   "t": "كرات من عجينة اللوز مدحرجة في السكر الناعم (سكر الحلويات): تتشقق في الفرن، وتبقى طرية من الداخل، وترافق الشاي في أيام الأعياد."
+  },
+  "region": {
+   "fr": "Maroc ; Wikipédia (fr) cite la mlouwza (ou mlawza), ghriba aux amandes, parmi les ghriba marocaines",
+   "t": "المغرب؛ تذكر Wikipédia (بالفرنسية) الملوزة (mlouwza أو mlawza)، غريبة اللوز، ضمن أنواع الغريبة المغربية"
+  },
+  "occasion": {
+   "fr": "Aïd al-Fitr, mariages et fêtes, thé pour les invités",
+   "t": "عيد الفطر، والأعراس والحفلات، وشاي الضيوف"
+  },
+  "img_alt": {
+   "fr": "Ghriba aux amandes craquelée et poudrée de sucre glace",
+   "t": "غريبة اللوز مشقّقة ومرشوشة بالسكر الناعم"
+  },
+  "serving": {
+   "fr": "Avec un thé à la menthe (Cooking with Alia ; Wikipédia fr : thé à la menthe ou café), surtout pour l'Aïd, les fêtes et les invités (Choumicha ; Lalla Moulati ; Taste of Maroc, qui la voit à chaque mariage). Conservation, selon Taste of Maroc (seule source lue sur ce point) : deux bonnes semaines dans une boîte hermétique, avec du papier entre les couches ; plusieurs mois au congélateur, bien fermée ; 15 minutes à température ambiante avant de servir.",
+   "t": "مع شاي بالنعناع (Cooking with Alia؛ Wikipédia بالفرنسية: شاي بالنعناع أو قهوة)، خاصة في العيد والحفلات ومع الضيوف (Choumicha؛ Lalla Moulati؛ Taste of Maroc، الذي يراها في كل عرس). الحفظ، حسب Taste of Maroc (المصدر الوحيد الذي قُرئ في هذه النقطة): أسبوعان كاملان في علبة محكمة الإغلاق، مع ورق بين الطبقات؛ وعدة أشهر في المجمّد، مغلقة جيدًا؛ و15 دقيقة في حرارة الغرفة قبل التقديم."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجينة"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (blanchies et pelées), bien sèches",
+   "t": "لوز مقشّر (مسموط ومنزوع القشرة)، جاف جيدًا"
+  },
+  "ing.amandes.note": {
+   "fr": "entières : pas de poudre d'amandes toute prête",
+   "t": "حبات كاملة: لا لوز مطحون جاهز"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule",
+   "t": "سكر أبيض ناعم الحبيبات"
+  },
+  "ing.mastic.name": {
+   "fr": "de mastic en grains (meska)",
+   "t": "حبيبات المسكة الحرة"
+  },
+  "ing.mastic.note": {
+   "fr": "facultatif",
+   "t": "اختيارية"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.jaunes.name": {
+   "fr": "jaune d'œuf",
+   "t": "صفار بيضة"
+  },
+  "ing.jaunes.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "صفارات بيض"
+  },
+  "ing.jaunes.note": {
+   "fr": "œufs moyens ; garde les blancs pour une autre recette",
+   "t": "من بيض متوسط الحجم؛ احتفظ بالبياض لوصفة أخرى"
+  },
+  "ing.oeuf.name": {
+   "fr": "œuf entier moyen",
+   "t": "بيضة كاملة متوسطة"
+  },
+  "ing.oeuf.pl": {
+   "fr": "œufs entiers moyens",
+   "t": "بيضات كاملة متوسطة"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron.note": {
+   "fr": "pour son zeste râpé",
+   "t": "لقشرتها المبشورة"
+  },
+  "ing.levure.name": {
+   "fr": "de levure chimique",
+   "t": "خميرة كيميائية"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre fondu et refroidi",
+   "t": "زبدة مذوّبة ومبرَّدة"
+  },
+  "ing.1.group": {
+   "fr": "Pour façonner",
+   "t": "للتشكيل"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "Sucre glace, pour enrober",
+   "t": "السكر الناعم، للتغليف"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "Eau de fleur d'oranger (ou eau), pour les mains",
+   "t": "ماء الزهر (أو الماء)، لليدين"
+  },
+  "equipment.0": {
+   "fr": "Un four et deux plaques de four",
+   "t": "فرن وصفيحتا فرن"
+  },
+  "equipment.1": {
+   "fr": "Du papier cuisson",
+   "t": "ورق الطهي"
+  },
+  "equipment.2": {
+   "fr": "Un robot mixeur puissant (ou un moulin à amandes)",
+   "t": "محضّرة طعام قوية (أو مطحنة لوز)"
+  },
+  "equipment.3": {
+   "fr": "Un saladier et un bol",
+   "t": "سلطانية ووعاء"
+  },
+  "equipment.4": {
+   "fr": "Une fourchette ou un petit fouet",
+   "t": "شوكة أو مخفقة صغيرة"
+  },
+  "equipment.5": {
+   "fr": "Une râpe fine",
+   "t": "مبشرة ناعمة"
+  },
+  "equipment.6": {
+   "fr": "Un mortier et un pilon (ou le dos d'un verre), pour le mastic",
+   "t": "مهراس ومدقة (أو قعر كأس)، للمسكة"
+  },
+  "equipment.7": {
+   "fr": "Une assiette creuse pour le sucre glace",
+   "t": "صحن عميق للسكر الناعم"
+  },
+  "equipment.8": {
+   "fr": "Un petit bol d'eau de fleur d'oranger (ou d'eau) pour les mains",
+   "t": "وعاء صغير فيه ماء الزهر (أو الماء) لليدين"
+  },
+  "equipment.9": {
+   "fr": "Une casserole et un torchon propre, si les amandes ne sont pas mondées",
+   "t": "قدر ومنشفة نظيفة، إذا لم يكن اللوز مقشّرًا"
+  },
+  "equipment.10": {
+   "fr": "Une boîte hermétique",
+   "t": "علبة محكمة الإغلاق"
+  },
+  "steps.0.title": {
+   "fr": "Monder les amandes, si besoin",
+   "t": "قشّر اللوز، إن لزم الأمر"
+  },
+  "steps.0.text": {
+   "fr": "Si tes amandes ont encore leur peau, plonge-les 1 à 2 minutes dans de l'eau bouillante. Égoutte-les, puis pèle-les en les pinçant entre tes doigts. Sèche-les très bien dans un torchon propre.",
+   "t": "إذا كان لوزك لا يزال بقشرته، فاغمسه في ماء يغلي من دقيقة إلى دقيقتين. صفّه، ثم انزع قشرته بالضغط عليه بين أصابعك. جفّفه جيدًا جدًا في منشفة نظيفة."
+  },
+  "steps.0.tip": {
+   "fr": "Pour beaucoup d'amandes, frotte-les fort dans un torchon pour enlever la peau (Cooking with Alia). Elles doivent être bien sèches avant d'être moulues (Taste of Maroc).",
+   "t": "للكميات الكبيرة من اللوز، افركه بقوة في منشفة لإزالة القشرة (Cooking with Alia). يجب أن يكون جافًا جيدًا قبل طحنه (Taste of Maroc)."
+  },
+  "steps.1.title": {
+   "fr": "Préparer le four et les plaques",
+   "t": "جهّز الفرن والصفيحتين"
+  },
+  "steps.1.text": {
+   "fr": "Préchauffe le four à 180 °C. Couvre deux plaques de papier cuisson. Verse du sucre glace dans une assiette creuse.",
+   "t": "سخّن الفرن مسبقًا على 180 درجة مئوية. غطِّ صفيحتين بورق الطهي. صبّ السكر الناعم في صحن عميق."
+  },
+  "steps.2.title": {
+   "fr": "Piler le mastic",
+   "t": "دُقّ المسكة"
+  },
+  "steps.2.text": {
+   "fr": "Si tu en mets, pile {{mastic}} de mastic avec une petite cuillerée du sucre semoule, au mortier ou avec le dos d'un verre, jusqu'à obtenir une poudre.",
+   "t": "إن كنت ستستعملها، فدُقّ {{mastic}} من المسكة مع ملء ملعقة صغيرة من السكر الأبيض، في المهراس أو بقعر كأس، حتى تحصل على مسحوق."
+  },
+  "steps.2.tip": {
+   "fr": "Le sucre empêche le mastic de coller (Taste of Maroc).",
+   "t": "السكر يمنع المسكة من الالتصاق (Taste of Maroc)."
+  },
+  "steps.3.title": {
+   "fr": "Moudre les amandes avec le sucre",
+   "t": "اطحن اللوز مع السكر"
+  },
+  "steps.3.text": {
+   "fr": "Mixe {{amandes}} d'amandes avec le reste des {{sucre}} de sucre semoule, {{sel}} de sel et le mastic pilé, jusqu'à obtenir une pâte d'amandes lisse, ou presque.",
+   "t": "اطحن {{amandes}} من اللوز مع ما تبقّى من {{sucre}} من السكر الأبيض، و{{sel}} من الملح والمسكة المدقوقة، حتى تحصل على عجينة لوز ملساء، أو شبه ملساء."
+  },
+  "steps.3.tip": {
+   "fr": "Lalla Moulati moud deux fois les amandes avec le sucre.",
+   "t": "تطحن Lalla Moulati اللوز مع السكر مرتين."
+  },
+  "steps.4.title": {
+   "fr": "Préparer le mélange aux œufs",
+   "t": "حضّر خليط البيض"
+  },
+  "steps.4.text": {
+   "fr": "Dans un bol, bats légèrement {{jaunes:full}} et {{oeuf:full}}. Râpe au-dessus le zeste de {{citron:full}}. Ajoute {{levure}} de levure chimique et {{beurre}} de beurre fondu, puis mélange.",
+   "t": "في وعاء، اخفق قليلًا {{jaunes:full}} و{{oeuf:full}}. ابشر فوقها قشرة {{citron:full}}. أضف {{levure}} من الخميرة الكيميائية و{{beurre}} من الزبدة المذوّبة، ثم اخلط."
+  },
+  "steps.5.title": {
+   "fr": "Former la pâte",
+   "t": "كوّن العجينة"
+  },
+  "steps.5.text": {
+   "fr": "Verse ce mélange sur la pâte d'amandes. Mélange à la main, juste assez pour obtenir une pâte homogène et souple, sans grumeaux, qui tient en boule. Ne la travaille pas trop.",
+   "t": "صبّ هذا الخليط على عجينة اللوز. اخلط باليد، بما يكفي فقط للحصول على عجينة متجانسة وليّنة، دون كتل، تتماسك على شكل كرة. لا تعجنها أكثر من اللازم."
+  },
+  "steps.5.tip": {
+   "fr": "Taste of Maroc cuit d'abord quelques ghriba d'essai, puis ajuste la pâte si besoin avant de façonner les autres.",
+   "t": "يخبز Taste of Maroc أولًا بضع حبات من الغريبة للتجربة، ثم يعدّل العجينة عند الحاجة قبل تشكيل الباقي."
+  },
+  "steps.6.title": {
+   "fr": "Façonner les boules",
+   "t": "شكّل الكرات"
+  },
+  "steps.6.text": {
+   "fr": "Mouille-toi légèrement les mains avec de la fleur d'oranger ou de l'eau. Forme des boules lisses de la taille d'une noix, d'environ 3 cm.",
+   "t": "بلّل يديك قليلًا بماء الزهر أو بالماء. شكّل كرات ملساء بحجم الجوزة، قطرها 3 سم تقريبًا."
+  },
+  "steps.6.tip": {
+   "fr": "Si la pâte colle, rince-toi les mains et garde-les juste humides (Taste of Maroc).",
+   "t": "إذا التصقت العجينة، فاشطف يديك وأبقهما رطبتين فقط (Taste of Maroc)."
+  },
+  "steps.7.title": {
+   "fr": "Rouler dans le sucre glace",
+   "t": "دحرجها في السكر الناعم"
+  },
+  "steps.7.text": {
+   "fr": "Roule chaque boule dans le sucre glace, pour bien couvrir le dessus et les côtés.",
+   "t": "دحرج كل كرة في السكر الناعم، لتغطية سطحها وجوانبها جيدًا."
+  },
+  "steps.8.title": {
+   "fr": "Disposer sur les plaques",
+   "t": "رتّبها على الصفيحتين"
+  },
+  "steps.8.text": {
+   "fr": "Pose les boules sur les plaques, en laissant au moins 8 cm entre elles. Appuie un peu au centre avec le pouce, sans trop les aplatir.",
+   "t": "ضع الكرات على الصفيحتين، مع ترك 8 سم على الأقل بينها. اضغط قليلًا على وسطها بالإبهام، دون أن تفلطحها كثيرًا."
+  },
+  "steps.9.title": {
+   "fr": "Cuire une plaque 12 minutes",
+   "t": "اخبز صفيحة واحدة 12 دقيقة"
+  },
+  "steps.9.text": {
+   "fr": "Enfourne une plaque au milieu du four, à 180 °C, pendant 12 minutes. Les ghriba sont prêtes quand le dessus est craquelé et reste clair. Si besoin, laisse-les encore 2 ou 3 minutes. Cuis ensuite la deuxième plaque de la même façon.",
+   "t": "أدخل صفيحة واحدة إلى وسط الفرن، على 180 درجة مئوية، لمدة 12 دقيقة. تكون الغريبة جاهزة عندما يتشقق سطحها ويبقى فاتح اللون. وعند الحاجة، اتركها دقيقتين أو 3 دقائق أخرى. ثم اخبز الصفيحة الثانية بالطريقة نفسها."
+  },
+  "steps.9.tip": {
+   "fr": "Dans un four classique sans chaleur tournante, Taste of Maroc commence en haut du four, gril allumé, environ 5 minutes, jusqu'à ce que le dessus craquelle, puis descend la plaque pour finir : 15 à 18 minutes en tout. Lalla Moulati cuit aussi d'abord par le haut, puis par le bas.",
+   "t": "في فرن عادي دون هواء دوّار، يبدأ Taste of Maroc في أعلى الفرن، مع تشغيل الشواية، نحو 5 دقائق، حتى يتشقق السطح، ثم يُنزل الصفيحة لإكمال الخَبز: من 15 إلى 18 دقيقة في المجموع. وتخبز Lalla Moulati أيضًا من الأعلى أولًا، ثم من الأسفل."
+  },
+  "steps.9.timer.label": {
+   "fr": "Cuisson des ghriba",
+   "t": "خَبز الغريبة"
+  },
+  "steps.9.timer.done": {
+   "fr": "Le dessus est craquelé et encore clair ? Sors la plaque. Sinon, laisse-la encore 2 ou 3 minutes.",
+   "t": "هل تشقق السطح وبقي فاتح اللون؟ أخرج الصفيحة. وإلا، فاتركها دقيقتين أو 3 دقائق أخرى."
+  },
+  "steps.10.title": {
+   "fr": "Laisser refroidir sur la plaque",
+   "t": "اتركها تبرد على الصفيحة"
+  },
+  "steps.10.text": {
+   "fr": "Laisse refroidir complètement les ghriba sur la plaque avant de les décoller. Chaudes, elles sont encore molles ; elles se raffermissent en refroidissant et restent moelleuses dedans.",
+   "t": "اترك الغريبة تبرد تمامًا على الصفيحة قبل نزعها. فهي طرية وهي ساخنة؛ وتتماسك عندما تبرد وتبقى طرية من الداخل."
+  },
+  "steps.11.title": {
+   "fr": "Ranger et servir",
+   "t": "احفظها وقدّمها"
+  },
+  "steps.11.text": {
+   "fr": "Range-les dans une boîte hermétique, avec une feuille de papier cuisson entre chaque couche pour ne pas abîmer le sucre glace. Sers-les avec un thé à la menthe.",
+   "t": "رتّبها في علبة محكمة الإغلاق، مع ورقة من ورق الطهي بين كل طبقة وأخرى حتى لا يفسد السكر الناعم. قدّمها مع شاي بالنعناع."
+  },
+  "secrets.0.text": {
+   "fr": "Mouds toi-même des amandes mondées entières et bien sèches, avec le sucre. Taste of Maroc déconseille la poudre d'amandes toute prête.",
+   "t": "اطحن بنفسك لوزًا مقشّرًا كاملًا وجافًا جيدًا، مع السكر. ولا ينصح Taste of Maroc باللوز المطحون الجاهز."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha et Lalla Moulati moulent aussi les amandes avec le sucre",
+   "t": "Taste of Maroc؛ وتطحن Choumicha و Lalla Moulati أيضًا اللوز مع السكر"
+  },
+  "secrets.1.text": {
+   "fr": "Le mastic (meska) est l'ingrédient secret qui donne à cette ghriba son goût délicat. Pile-le avec un peu de sucre.",
+   "t": "المسكة الحرة هي المكوّن السري الذي يمنح هذه الغريبة طعمها الرقيق. دُقّها مع قليل من السكر."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi.net et Lalla Moulati en mettent une pincée",
+   "t": "Taste of Maroc (Nada Kiffa)؛ ويضع Bladi.net و Lalla Moulati رشة منها"
+  },
+  "secrets.2.text": {
+   "fr": "Prends des œufs moyens : leur taille change la pâte. Mets juste ce qu'il faut d'œufs pour lier la pâte.",
+   "t": "استعمل بيضًا متوسط الحجم: فحجمه يغيّر العجينة. ضع من البيض ما يكفي فقط لربط العجينة."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (n° 65048 : 2 œufs au lieu de 3 s'ils sont gros)",
+   "t": "Taste of Maroc؛ Lalla Moulati (رقم 65048: بيضتان بدل 3 إذا كان البيض كبيرًا)"
+  },
+  "secrets.3.text": {
+   "fr": "Mélange juste assez : ne travaille pas trop la pâte.",
+   "t": "اخلط بما يكفي فقط: لا تعجن العجينة أكثر من اللازم."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.4.text": {
+   "fr": "Mouille-toi les mains pour façonner, avec de la fleur d'oranger ou de l'eau : la pâte colle moins.",
+   "t": "بلّل يديك للتشكيل، بماء الزهر أو بالماء: فتلتصق العجينة أقل."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati ; Cooking with Alia ; Taste of Maroc (à l'eau)",
+   "t": "Lalla Moulati؛ Cooking with Alia؛ Taste of Maroc (بالماء)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais des boules lisses de la taille d'une noix, environ 3 cm.",
+   "t": "شكّل كرات ملساء بحجم الجوزة، قطرها 3 سم تقريبًا."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati ; Cooking with Alia",
+   "t": "Taste of Maroc؛ Lalla Moulati؛ Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Roule-les bien dans le sucre glace, sur le dessus et sur les côtés.",
+   "t": "دحرجها جيدًا في السكر الناعم، على السطح والجوانب."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; toutes les recettes lues roulent la ghriba dans le sucre glace",
+   "t": "Taste of Maroc؛ وكل الوصفات التي قُرئت تدحرج الغريبة في السكر الناعم"
+  },
+  "secrets.7.text": {
+   "fr": "Espace bien les boules sur la plaque, d'au moins 8 cm.",
+   "t": "باعد بين الكرات جيدًا على الصفيحة، بمسافة 8 سم على الأقل."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (3 pouces) ; Choumicha les espace aussi",
+   "t": "Taste of Maroc (3 بوصات)؛ وتباعد Choumicha بينها أيضًا"
+  },
+  "secrets.8.text": {
+   "fr": "Appuie légèrement au centre avec le pouce, sans trop aplatir.",
+   "t": "اضغط قليلًا على الوسط بالإبهام، دون أن تفلطحها كثيرًا."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc؛ Cooking with Alia؛ Lalla Moulati"
+  },
+  "secrets.9.text": {
+   "fr": "Ne les cuis pas trop : le sucre glace ne doit presque pas colorer. Chaudes, elles sont molles ; elles se raffermissent en refroidissant.",
+   "t": "لا تُطل خَبزها: يجب ألا يتلوّن السكر الناعم تقريبًا. فهي طرية وهي ساخنة؛ وتتماسك عندما تبرد."
+  },
+  "secrets.9.source": {
+   "fr": "Lalla Moulati ; Cooking with Alia",
+   "t": "Lalla Moulati؛ Cooking with Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Laisse-les refroidir complètement sur la plaque avant de les décoller.",
+   "t": "اتركها تبرد تمامًا على الصفيحة قبل نزعها."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha (trois recettes) ; Lalla Moulati",
+   "t": "Choumicha (ثلاث وصفات)؛ Lalla Moulati"
+  },
+  "secrets.11.text": {
+   "fr": "Cuis d'abord quelques ghriba d'essai, et ajuste la pâte si les craquelures ne te plaisent pas.",
+   "t": "اخبز أولًا بضع حبات من الغريبة للتجربة، وعدّل العجينة إذا لم تعجبك التشققات."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.12.text": {
+   "fr": "Range-les avec une feuille de papier entre les couches, pour garder le sucre glace intact.",
+   "t": "احفظها مع ورقة بين الطبقات، ليبقى السكر الناعم سليمًا."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.13.text": {
+   "fr": "Les blancs d'œufs qui restent peuvent servir : Bladi.net et Lalla Moulati trempent les boules dans le blanc d'œuf avant de les rouler dans le sucre glace.",
+   "t": "يمكن الاستفادة من بياض البيض المتبقي: يغمس Bladi.net و Lalla Moulati الكرات في بياض البيض قبل دحرجتها في السكر الناعم."
+  },
+  "secrets.13.source": {
+   "fr": "Bladi.net ; Lalla Moulati (n° 61802)",
+   "t": "Bladi.net؛ Lalla Moulati (رقم 61802)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre de la poudre d'amandes du commerce au lieu d'amandes entières moulues (Taste of Maroc).",
+   "t": "استعمال اللوز المطحون التجاري بدل اللوز الكامل المطحون في البيت (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Moudre des amandes encore humides après les avoir mondées : sèche-les bien (Taste of Maroc ; Lalla Moulati ; Cooking with Alia).",
+   "t": "طحن اللوز وهو لا يزال رطبًا بعد تقشيره: جفّفه جيدًا (Taste of Maroc؛ Lalla Moulati؛ Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Trop travailler la pâte (Taste of Maroc).",
+   "t": "عجن العجينة أكثر من اللازم (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Serrer les boules sur la plaque : espace-les (Taste of Maroc ; Choumicha).",
+   "t": "تقريب الكرات من بعضها على الصفيحة: باعد بينها (Taste of Maroc؛ Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Trop cuire les ghriba : le sucre ne doit presque pas colorer (Lalla Moulati ; Cooking with Alia).",
+   "t": "الإفراط في خَبز الغريبة: يجب ألا يتلوّن السكر تقريبًا (Lalla Moulati؛ Cooking with Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Les décoller de la plaque encore chaudes, quand elles sont molles (Choumicha ; Lalla Moulati ; Cooking with Alia).",
+   "t": "نزعها عن الصفيحة وهي لا تزال ساخنة، حين تكون طرية (Choumicha؛ Lalla Moulati؛ Cooking with Alia)."
+  },
+  "mistakes.6": {
+   "fr": "Empiler les ghriba sans papier entre les couches : le sucre glace s'abîme (Taste of Maroc).",
+   "t": "رصّ الغريبة دون ورق بين الطبقات: يفسد السكر الناعم (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Ajouter de l'extrait d'amande alcoolisé : Taste of Maroc le propose en option ; la recette s'en passe, pour rester halal.",
+   "t": "إضافة خلاصة اللوز الكحولية: يقترحها Taste of Maroc اختيارًا؛ والوصفة تستغني عنها، لتبقى حلالًا."
+  },
+  "variants.0": {
+   "fr": "Mlewza de Taste of Maroc (Nada Kiffa) : 500 g d'amandes, 200 g de sucre semoule, 1 œuf et 1 jaune, 2 c. à s. de beurre, 2 c. à s. de confiture d'abricots filtrée pour le moelleux, 3 ou 4 grains de mastic, ½ c. à c. de levure chimique, 1½ c. à c. de zeste de citron, une pincée de sel ; environ 40 pièces.",
+   "t": "ملوزة Taste of Maroc (Nada Kiffa): 500 غ لوز، و200 غ سكر أبيض، وبيضة واحدة وصفار واحد، و2 ملعقة كبيرة زبدة، و2 ملعقة كبيرة مربى مشمش مصفّى للطراوة، و3 أو 4 حبات مسكة، و½ ملعقة صغيرة خميرة كيميائية، و1½ ملعقة صغيرة قشر ليمون، ورشة ملح؛ نحو 40 حبة."
+  },
+  "variants.1": {
+   "fr": "Avec de la farine (Choumicha) : 250 g d'amandes mondées moulues avec 125 g de sucre semoule, le zeste de 1 citron, 1 c. à s. de beurre, 2 œufs, 190 g de farine, 7 g de levure chimique, ½ c. à c. de sel ; boules roulées dans le sucre glace ; 180 °C, 12 à 15 minutes.",
+   "t": "بالدقيق (Choumicha): 250 غ لوز مقشّر مطحون مع 125 غ سكر أبيض، وقشر ليمونة واحدة، و1 ملعقة كبيرة زبدة، وبيضتان، و190 غ دقيق، و7 غ خميرة كيميائية، و½ ملعقة صغيرة ملح؛ كرات مدحرجة في السكر الناعم؛ 180 درجة مئوية، من 12 إلى 15 دقيقة."
+  },
+  "variants.2": {
+   "fr": "Amandes et noix (Choumicha) : 250 g de noix grillées 5 minutes et pelées, 250 g d'amandes, 250 g de sucre semoule, 30 g de beurre fondu, 1 c. à c. de levure chimique, 1 grand œuf, 1 c. à s. de fleur d'oranger, 1 c. à c. de zeste, 2 pincées de sel ; 180 °C, 12 minutes.",
+   "t": "باللوز والجوز (Choumicha): 250 غ جوز محمّص 5 دقائق ومقشّر، و250 غ لوز، و250 غ سكر أبيض، و30 غ زبدة مذوّبة، و1 ملعقة صغيرة خميرة كيميائية، وبيضة كبيرة واحدة، و1 ملعقة كبيرة ماء الزهر، و1 ملعقة صغيرة قشر مبشور، ورشتان من الملح؛ 180 درجة مئوية، 12 دقيقة."
+  },
+  "variants.3": {
+   "fr": "Amandes et noix de coco (Choumicha) : 500 g d'amandes entières, 250 g de noix de coco, 180 g de sucre, 4 œufs, 12 cl d'huile, 14 g de levure chimique, 1½ c. à s. de confiture d'abricots, ½ c. à c. de sel ; mains à la fleur d'oranger ; 180 °C, 12 à 15 minutes.",
+   "t": "باللوز وجوز الهند (Choumicha): 500 غ لوز كامل، و250 غ جوز الهند، و180 غ سكر، و4 بيضات، و12 سنتيلتر زيت، و14 غ خميرة كيميائية، و1½ ملعقة كبيرة مربى مشمش، و½ ملعقة صغيرة ملح؛ اليدان مبلّلتان بماء الزهر؛ 180 درجة مئوية، من 12 إلى 15 دقيقة."
+  },
+  "variants.4": {
+   "fr": "À la semoule (Bladi.net) : 1 kg d'amandes mondées hachées, 200 g de semoule fine, 7 œufs, 250 g de sucre semoule, 1 sachet de levure, le zeste de 1 citron ; boules légèrement aplaties sur le sucre glace ; four moyen, 20 à 25 minutes.",
+   "t": "بالسميد (Bladi.net): 1 كغ لوز مقشّر مفروم، و200 غ سميد رقيق، و7 بيضات، و250 غ سكر أبيض، وكيس خميرة واحد، وقشر ليمونة واحدة؛ كرات مفلطحة قليلًا على السكر الناعم؛ فرن متوسط، من 20 إلى 25 دقيقة."
+  },
+  "variants.5": {
+   "fr": "Au blanc d'œuf (Bladi.net ; Lalla Moulati n° 61802) : les boules sont trempées dans le blanc d'œuf, puis roulées dans le sucre glace.",
+   "t": "ببياض البيض (Bladi.net؛ Lalla Moulati رقم 61802): تُغمس الكرات في بياض البيض، ثم تُدحرج في السكر الناعم."
+  },
+  "variants.6": {
+   "fr": "Au four doux : 160 °C pendant 25 à 30 minutes (Lalla Moulati n° 61802), ou four doux environ 30 minutes, sans laisser le sucre colorer (Lalla Moulati n° 209123).",
+   "t": "في فرن هادئ: 160 درجة مئوية لمدة 25 إلى 30 دقيقة (Lalla Moulati رقم 61802)، أو فرن هادئ نحو 30 دقيقة، دون ترك السكر يتلوّن (Lalla Moulati رقم 209123)."
+  },
+  "variants.7": {
+   "fr": "Au glucose et à la fleur d'oranger (Lalla Moulati n° 111678) : 1 c. à s. de glucose et 1 c. à s. de fleur d'oranger dans la pâte ; 160 °C, 10 minutes.",
+   "t": "بالغلوكوز وماء الزهر (Lalla Moulati رقم 111678): 1 ملعقة كبيرة غلوكوز و1 ملعقة كبيرة ماء الزهر في العجينة؛ 160 درجة مئوية، 10 دقائق."
+  },
+  "variants.8": {
+   "fr": "Amandes non pelées, grillées à la poêle, avec du miel (Lalla Moulati n° 65048).",
+   "t": "بلوز غير مقشّر، محمّص في المقلاة، مع العسل (Lalla Moulati رقم 65048)."
+  }
+ }
+}

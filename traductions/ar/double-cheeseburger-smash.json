@@ -44,7 +44,7 @@
   },
   "notes.1.items.2": {
    "fr": "Environ 20 % de gras. Si le morceau est trop maigre, demande-lui d'ajouter du gras de bœuf (chehma) : c'est ce gras qui rend le burger juteux.",
-   "t": "نحو 20 % من الدهون. وإذا كانت القطعة قليلة الدهن جدًا، فاطلب منه أن يضيف شحمة البقر: فهذه الدهون هي التي تجعل البرغر عصيريًا."
+   "t": "نحو 20 % من الدهون. وإذا كانت القطعة قليلة الدهن جدًا، فاطلب منه أن يضيف شحمة البقر: فهذه الدهون هي التي تجعل البرغر غنيًا بالعصارة."
   },
   "notes.1.items.3": {
    "fr": "Pas de bacon : le cheeseburger classique n'en a pas besoin.",
@@ -320,7 +320,7 @@
   },
   "steps.4.text.0": {
    "fr": "Coupe 4 fines lamelles dans la longueur par burger, soit 1 à 2 cornichons selon leur taille.",
-   "t": "اقطع 4 شرائح رقيقة بالطول لكل برغر، أي من 1 إلى 2 حبة خيار مخلل حسب حجمها."
+   "t": "اقطع 4 شرائح رقيقة بالطول لكل برغر، أي حبة أو حبتين من الخيار المخلل حسب حجمها."
   },
   "steps.4.text.1": {
    "fr": "Tu peux aussi les couper en rondelles.",
@@ -388,7 +388,7 @@
   },
   "steps.7.dur": {
    "fr": "1 min",
-   "t": "1 دقيقة"
+   "t": "دقيقة واحدة"
   },
   "steps.7.text.0": {
    "fr": "Poêle à feu moyen.",
@@ -400,7 +400,7 @@
   },
   "steps.7.text.2": {
    "fr": "Pose les moitiés face coupée contre la poêle pendant environ 1 min, jusqu'à ce qu'elles soient dorées.",
-   "t": "ضع الأنصاف ووجهها المقطوع على المقلاة نحو 1 دقيقة، حتى تتحمّر."
+   "t": "ضع الأنصاف ووجهها المقطوع على المقلاة نحو دقيقة واحدة، حتى تتحمّر."
   },
   "steps.7.text.3": {
    "fr": "Réserve-les face grillée vers le haut.",
@@ -492,7 +492,7 @@
   },
   "steps.10.text.1": {
    "fr": "Pose 1 ou 2 boules dans la poêle, bien espacées. Une fois écrasé, chaque steak fait 13 à 14 cm de large : ils ne doivent pas se toucher. Sur une plancha, tu peux en faire plus.",
-   "t": "ضع 1 أو 2 كرة في المقلاة، متباعدة جيدًا. بعد السحق، يبلغ عرض كل قرص من 13 إلى 14 سم: يجب ألا تتلامس الأقراص. وعلى صفيحة الشواء، يمكنك أن تطهو عددًا أكبر."
+   "t": "ضع كرة أو كرتين في المقلاة، متباعدة جيدًا. بعد السحق، يبلغ عرض كل قرص من 13 إلى 14 سم: يجب ألا تتلامس الأقراص. وعلى صفيحة الشواء، يمكنك أن تطهو عددًا أكبر."
   },
   "steps.10.text.2": {
    "fr": "Pose un carré de papier cuisson sur la boule et écrase fort avec la spatule, tout de suite. Appuie avec l'autre main sur la spatule, ou avec le fond d'une casserole.",
@@ -524,7 +524,7 @@
   },
   "steps.11.text.1": {
    "fr": "Puis 1 ou 2 tours de moulin à poivre.",
-   "t": "ثم 1 أو 2 لفة من مطحنة الفلفل الأسود."
+   "t": "ثم لفة أو لفتان من مطحنة الفلفل الأسود."
   },
   "steps.11.text.2": {
    "fr": "Une seule face suffit : le steak est très fin.",
@@ -548,11 +548,11 @@
   },
   "steps.12.dur": {
    "fr": "2 min",
-   "t": "2 دقيقة"
+   "t": "دقيقتان"
   },
   "steps.12.text.0": {
    "fr": "Ne touche à rien pendant environ 2 min.",
-   "t": "لا تلمس شيئًا لمدة 2 دقيقة تقريبًا."
+   "t": "لا تلمس شيئًا لمدة دقيقتين تقريبًا."
   },
   "steps.12.text.1": {
    "fr": "C'est prêt à retourner quand les bords sont brun foncé et croustillants, et que le dessus devient gris sur le pourtour.",
@@ -572,7 +572,7 @@
   },
   "steps.13.dur": {
    "fr": "30 s à 1 min",
-   "t": "من 30 ثانية إلى 1 دقيقة"
+   "t": "من 30 ثانية إلى دقيقة"
   },
   "steps.13.text.0": {
    "fr": "Glisse la spatule sous le steak en raclant fort le fond de la poêle : la croûte doit rester collée au steak.",
@@ -591,16 +591,16 @@
    "t": "ضع فورًا 1 شريحة شيدر على كل قرص."
   },
   "steps.13.text.4": {
-   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur.",
-   "t": "اتركه من 30 ثانية إلى 1 دقيقة، حتى يذوب الجبن. وبهذا السُّمك، ينضج القرص حتى قلبه."
+   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. Vérifie que le steak est cuit à cœur : coupé au centre, il ne doit plus être rosé et de la vapeur doit s'en échapper ; avec un thermomètre, il faut 70 °C à cœur pendant 2 minutes ou 75 °C pendant 30 secondes. Sinon, prolonge la cuisson.",
+   "t": "اتركه من 30 ثانية إلى دقيقة، حتى يذوب الجبن. تأكّد من أن القرص نضج حتى قلبه: عند قطعه من الوسط، يجب ألّا يبقى ورديًا وأن يتصاعد منه البخار؛ وبميزان الحرارة، تلزم 70 درجة مئوية في القلب لمدة دقيقتين أو 75 درجة مئوية لمدة 30 ثانية. وإلا، فأطِل مدة الطهي."
   },
   "steps.13.timer.label": {
    "fr": "Fromage",
    "t": "الجبن"
   },
   "steps.13.timer.done": {
-   "fr": "Le fromage a fondu ? Sors les steaks.",
-   "t": "هل ذاب الجبن؟ أخرج الأقراص."
+   "fr": "Le fromage a fondu et le steak est cuit à cœur ? Sors les steaks.",
+   "t": "هل ذاب الجبن ونضج القرص حتى قلبه؟ أخرج الأقراص."
   },
   "steps.14.title": {
    "fr": "Monter le burger",
@@ -656,7 +656,7 @@
   },
   "secrets.4.text": {
    "fr": "Le gras du bœuf (environ 20 %) fait le burger juteux : demande-le à ton boucher.",
-   "t": "دهن البقر (نحو 20 %) يجعل البرغر عصيريًا: اطلبه من جزارك."
+   "t": "دهن البقر (نحو 20 %) يجعل البرغر غنيًا بالعصارة: اطلبه من جزارك."
   },
   "mistakes.0": {
    "fr": "Saler la viande à l'avance : elle devient élastique comme une saucisse.",

@@ -212,7 +212,7 @@
   },
   "steps.4.text": {
    "fr": "Couvre la marmite à moitié pour que ça ne déborde pas. Laisse cuire à feu doux pendant 1 heure, jusqu'à ce que les fèves soient fondantes. Remue de temps en temps en raclant le fond. Si le niveau baisse trop, ajoute un peu d'{{eau-chaude}}.",
-   "t": "غطِّ القدر إلى النصف حتى لا يفيض. اتركه ينضج على نار هادئة لمدة 1 ساعة، حتى يصير الفول طريًا ذائبًا. حرّك من حين لآخر مع كشط القاع. وإذا انخفض مستوى الماء كثيرًا، فأضف قليلًا من الماء الساخن."
+   "t": "غطِّ القدر إلى النصف حتى لا يفيض. اتركه ينضج على نار هادئة لمدة ساعة، حتى يصير الفول طريًا ذائبًا. حرّك من حين لآخر مع كشط القاع. وإذا انخفض مستوى الماء كثيرًا، فأضف قليلًا من الماء الساخن."
   },
   "steps.4.timer.label": {
    "fr": "Cuisson des fèves",
@@ -363,8 +363,8 @@
    "t": "Taste of Maroc؛ ولا تزال Choumicha تمرّر هريسها في مصفاة دقيقة"
   },
   "secrets.10.text": {
-   "fr": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati y ajoute du piment vert et du piment frit.",
-   "t": "في الشمال، تؤكل مع بعض حبات الزيتون وقطع البصل. وتضيف إليها Lalla Moulati الفلفل الأخضر الحار والفلفل الحار المقلي."
+   "fr": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati la sert aussi avec du piment vert et du piment fort frit.",
+   "t": "في الشمال، تؤكل مع بعض حبات الزيتون وقطع البصل. وتقدّمها Lalla Moulati أيضًا مع الفلفل الأخضر الحار والفلفل الحار المقلي."
   },
   "secrets.10.source": {
    "fr": "Hespress (2014, restaurant de Tanger) ; Lalla Moulati (2014) ; My Moroccan Food (oignon haché)",
@@ -380,11 +380,11 @@
   },
   "secrets.12.text": {
    "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées pour qu'ils refroidissent vite, et mange-les dans les 3 jours.",
-   "t": "ضع البقايا في الثلاجة خلال 2 ساعة، في علب صغيرة مغلقة حتى تبرد بسرعة، وكُلها خلال 3 أيام."
+   "t": "ضع البقايا في الثلاجة خلال ساعتين، في علب صغيرة مغلقة حتى تبرد بسرعة، وكُلها خلال 3 أيام."
   },
   "secrets.12.source": {
    "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours, petits récipients)",
-   "t": "ANSES (2 ساعة، 3 أيام، حصص صغيرة)؛ USDA (2 ساعة، من 3 إلى 4 أيام، أوعية صغيرة)"
+   "t": "ANSES (ساعتان، 3 أيام، حصص صغيرة)؛ USDA (ساعتان، من 3 إلى 4 أيام، أوعية صغيرة)"
   },
   "mistakes.0": {
    "fr": "Prendre des fèves fraîches ou surgelées : la bissara se fait avec des fèves sèches (Taste of Maroc ; Hespress).",
@@ -412,7 +412,7 @@
   },
   "mistakes.6": {
    "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
-   "t": "ترك البقايا أكثر من 2 ساعة في حرارة الغرفة (ANSES؛ USDA)."
+   "t": "ترك البقايا أكثر من ساعتين في حرارة الغرفة (ANSES؛ USDA)."
   },
   "variants.0": {
    "fr": "Bissara aux pois cassés, ou « bissara d'jelbana » (Hespress, 2011). Choumicha fait tremper les pois cassés une heure, puis les cuit avec oignon, ail, persil, coriandre, gingembre, curcuma et poivre. Taste of Maroc ne les fait pas tremper et ajoute de l'oignon.",

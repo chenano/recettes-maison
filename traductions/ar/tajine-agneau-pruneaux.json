@@ -27,8 +27,8 @@
    "t": "طاجين بالبرقوق واللوز في آنيته الطينية"
   },
   "serving": {
-   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
-   "t": "يُقدَّم ساخنًا جدًا، في طاجين تقديم مسخَّن أو في طبق عميق يوضع وسط المائدة ليتقاسمه الجميع: اللحم مغطّى بمرقه الممزوج بقليل من الشراب، والبرقوق المعسّل فوقه، ثم اللوز المقلي والسمسم المحمّص. يؤكل مع الخبز لتغميسه في المرق؛ أما الكسكس فطبق مستقل."
+   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer (Morocco World News) ; My Moroccan Food propose aussi du couscous.",
+   "t": "يُقدَّم ساخنًا جدًا، في طاجين تقديم مسخَّن أو في طبق عميق يوضع وسط المائدة ليتقاسمه الجميع: اللحم مغطّى بمرقه الممزوج بقليل من الشراب، والبرقوق المعسّل فوقه، ثم اللوز المقلي والسمسم المحمّص. يؤكل مع الخبز لتغميسه في المرق (Morocco World News)؛ ويقترح My Moroccan Food أيضًا الكسكس."
   },
   "ing.0.group": {
    "fr": "Viande et sauce",
@@ -39,8 +39,8 @@
    "t": "لحم خروف حلال (كتف أو رقبة، بالعظم)"
   },
   "ing.viande.note": {
-   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
-   "t": "مقطّع قطعًا كبيرة؛ تختار Choumicha الكتف أو الفخذ، ويختار My Moroccan Food وGrantourismo الكتف أو الرقبة أو لحم الساق"
+   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food de l'épaule, du collier ou des souris",
+   "t": "مقطّع قطعًا كبيرة؛ تختار Choumicha الكتف أو الفخذ، ويختار My Moroccan Food الكتف أو الرقبة أو لحم الساق"
   },
   "ing.oignons.name": {
    "fr": "oignon moyen",
@@ -226,14 +226,6 @@
    "fr": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
    "t": "افرم {{oignons:full}} فرمًا ناعمًا أو ابشرها، واهرس {{ail:full}}. اربط بالخيط {{coriandre}} من الكزبرة و{{persil}} من البقدونس معًا في حزمة صغيرة. إن لم يفعل الجزار ذلك، فقطّع اللحم قطعًا كبيرة مع الإبقاء على العظام."
   },
-  "steps.1.img.alt": {
-   "fr": "Oignon émincé et ail écrasé sur une planche",
-   "t": "بصل مقطّع شرائح رفيعة وثوم مهروس على لوح تقطيع"
-  },
-  "steps.1.img.caption": {
-   "fr": "Émincer l'oignon",
-   "t": "تقطيع البصل شرائح رفيعة"
-  },
   "steps.2.title": {
    "fr": "Fais revenir la viande dans les épices",
    "t": "شوّح اللحم مع التوابل"
@@ -252,19 +244,19 @@
   },
   "steps.3.title": {
    "fr": "Mouille et laisse mijoter 1 h",
-   "t": "أضف الماء واطبخ على نار هادئة 1 ساعة"
+   "t": "أضف الماء واطبخ على نار هادئة ساعة واحدة"
   },
   "steps.3.text": {
    "fr": "Verse {{eau}} d'eau chaude, jamais froide : la viande doit être à peu près à moitié couverte, complète un peu si besoin. Pose le bouquet d'herbes dessus et porte à ébullition. Couvre, baisse à feu doux et laisse mijoter 1 h en remuant de temps en temps.",
-   "t": "اسكب {{eau}} من الماء الساخن، ولا يكون باردًا أبدًا: يجب أن يغطي الماء نصف اللحم تقريبًا، فأضف قليلًا إن لزم. ضع حزمة الأعشاب فوقه واتركه حتى يغلي. غطِّ القدر، واخفض النار إلى هادئة، واتركه يُطهى 1 ساعة مع التحريك من حين لآخر."
+   "t": "اسكب {{eau}} من الماء الساخن، ولا يكون باردًا أبدًا: يجب أن يغطي الماء نصف اللحم تقريبًا، فأضف قليلًا إن لزم. ضع حزمة الأعشاب فوقه واتركه حتى يغلي. غطِّ القدر، واخفض النار إلى هادئة، واتركه يُطهى ساعة واحدة مع التحريك من حين لآخر."
   },
   "steps.3.timer.label": {
    "fr": "Mijotage : 1re heure",
-   "t": "الطهي على نار هادئة: الساعة 1"
+   "t": "الطهي على نار هادئة: الساعة الأولى"
   },
   "steps.3.timer.done": {
    "fr": "1 h de mijotage : prélève de la sauce pour les pruneaux.",
-   "t": "مرّت 1 ساعة على الطهي: خذ قليلًا من المرق للبرقوق."
+   "t": "مرّت ساعة على الطهي: خذ قليلًا من المرق للبرقوق."
   },
   "steps.4.title": {
    "fr": "Pendant ce temps, fais gonfler les pruneaux",
@@ -384,7 +376,7 @@
   },
   "secrets.1.source": {
    "fr": "Cooking with Alia ; Morocco World News ; Bladi (« deux louches de sauce ») ; My Moroccan Food (sauce prélevée au bout d'1 h)",
-   "t": "Cooking with Alia؛ Morocco World News؛ Bladi («مغرفتان من المرق»)؛ My Moroccan Food (مرق يؤخذ بعد 1 ساعة)"
+   "t": "Cooking with Alia؛ Morocco World News؛ Bladi («مغرفتان من المرق»)؛ My Moroccan Food (مرق يؤخذ بعد ساعة)"
   },
   "secrets.2.text": {
    "fr": "Fais d'abord gonfler les pruneaux dans l'eau bouillante pour les attendrir.",
@@ -415,8 +407,8 @@
    "t": "ضع فوق اللحم حزمة من الكزبرة والبقدونس مربوطة بالخيط، وأخرجها قبل التقديم."
   },
   "secrets.5.source": {
-   "fr": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)",
-   "t": "Choumicha (حزمة بقدونس وكزبرة)؛ Grantourismo، وصفة Terence Carter التي تعلّمها من Jamila ثم عدّلها (حزمة تُخرج لاحقًا)؛ My Moroccan Food (حزمة كزبرة مربوطة)"
+   "fr": "Choumicha (bouquet persil-coriandre) ; My Moroccan Food (bouquet de coriandre ficelé)",
+   "t": "Choumicha (حزمة بقدونس وكزبرة)؛ My Moroccan Food (حزمة كزبرة مربوطة)"
   },
   "secrets.6.text": {
    "fr": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
@@ -427,12 +419,12 @@
    "t": "Choumicha (نصيحة خاصة بالطاجين الطيني)؛ Cooking with Alia (اللحم مغمور إلى نصفه)؛ My Moroccan Food (يُضاف الماء إذا التصق)"
   },
   "secrets.7.text": {
-   "fr": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
-   "t": "يكون المرق جاهزًا حين يتكثّف فلا يبقى منه إلا البصل الذائب والزيت، كثيفًا ولزجًا كالشراب."
+   "fr": "La sauce est prête quand elle a réduit et qu'elle est épaisse, liée par les oignons fondus.",
+   "t": "يكون المرق جاهزًا حين يقلّ ويصير كثيفًا، متماسكًا بفضل البصل الذائب."
   },
   "secrets.7.source": {
-   "fr": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)",
-   "t": "Grantourismo (بطاقة وصفة Terence Carter، معدّلة عن وصفة Jamila)؛ Choumicha («مرق متكثّف»)؛ Cooking with Alia («مرق كثيف»)"
+   "fr": "Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse ») ; My Moroccan Food (beaucoup d'oignons pour une sauce épaisse)",
+   "t": "Choumicha («مرق متكثّف»)؛ Cooking with Alia («مرق كثيف»)؛ My Moroccan Food (بصل كثير للحصول على مرق كثيف)"
   },
   "secrets.8.text": {
    "fr": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
@@ -463,16 +455,16 @@
    "t": "اختر قطعة تتحمّل الطهي الطويل، بالعظم: الكتف أو الرقبة أو لحم الساق من الخروف."
   },
   "secrets.11.source": {
-   "fr": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
-   "t": "My Moroccan Food؛ Grantourismo؛ Choumicha (الكتف أو الفخذ)؛ Bladi (الكتف)"
+   "fr": "My Moroccan Food ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
+   "t": "My Moroccan Food؛ Choumicha (الكتف أو الفخذ)؛ Bladi (الكتف)"
   },
   "secrets.12.text": {
-   "fr": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
-   "t": "اليوم، في المغرب، كثيرًا ما يُطهى الطاجين في قدر كبير، ثم يُنقل إلى الطاجين الطيني ليُقدَّم وسط المائدة."
+   "fr": "Le tajine en terre décoré sert surtout au service : réchauffe-le avant d'y dresser la viande cuite à la cocotte.",
+   "t": "الطاجين الطيني المزخرف يُستعمل أساسًا للتقديم: سخّنه قبل أن تضع فيه اللحم المطهو في القدر."
   },
   "secrets.12.source": {
-   "fr": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech",
-   "t": "Grantourismo، نقلًا عن Jamila، طبّاخة في رياض بمراكش"
+   "fr": "Choumicha (fiche du tajine en terre : le tajine décoré est réservé au service et réchauffé avant de dresser)",
+   "t": "Choumicha (بطاقة عن الطاجين الطيني: الطاجين المزخرف مخصّص للتقديم ويُسخَّن قبل وضع الطعام فيه)"
   },
   "secrets.13.text": {
    "fr": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
@@ -483,8 +475,8 @@
    "t": "Choumicha (نصائح حول الطاجين)"
   },
   "mistakes.0": {
-   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
-   "t": "طهي البرقوق في القدر مع اللحم إذا كنت تريده معسّلًا جيدًا: فهو يتعسّل بدرجة أقل ويصير لون الطبق بنيًا (My Moroccan Food). ومع ذلك فليس هذا خطأً بالمعنى الدقيق: هذا ما يقوله My Moroccan Food، كما أن Grantourismo ووصفة أخرى من Bladi.net يطهوانه في القدر."
+   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Les cuire avec la viande n'est pas une faute pour autant : My Moroccan Food précise qu'il n'y a rien de mal à le faire, et la recette « Tajine d'agneau aux pruneaux » de Bladi.net les ajoute à la viande.",
+   "t": "طهي البرقوق في القدر مع اللحم إذا كنت تريده معسّلًا جيدًا: فهو يتعسّل بدرجة أقل ويصير لون الطبق بنيًا (My Moroccan Food). ومع ذلك فليس طهيه مع اللحم خطأً: يوضّح My Moroccan Food أنه لا بأس في ذلك، ووصفة «Tajine d'agneau aux pruneaux» من Bladi.net تضيفه إلى اللحم."
   },
   "mistakes.1": {
    "fr": "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
@@ -514,13 +506,9 @@
    "fr": "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
    "t": "وضع الطاجين المزجّج والمزخرف على النار: فهو للتقديم فقط (Choumicha)."
   },
-  "mistakes.8": {
-   "fr": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
-   "t": "الاعتقاد بأن الطاجين يُقدَّم في المغرب مع الكسكس: فالكسكس هناك عادةً طبق مستقل، والطاجين يؤكل بالخبز الذي يُغمَّس في المرق (Grantourismo؛ Morocco World News). ولا مانع من تقديمه معه: يقترح My Moroccan Food الكسكس أو الخبز."
-  },
   "variants.0": {
    "fr": "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
-   "t": "لحم البقر: الساق أو الرقبة، بالطريقة نفسها؛ مدّد الطهي على نار هادئة حتى يصير اللحم طريًا جدًا (Cooking with Alia: من 1 إلى 2 ساعة حسب القطعة؛ My Moroccan Food، Femmes du Maroc، Morocco World News)."
+   "t": "لحم البقر: الساق أو الرقبة، بالطريقة نفسها؛ مدّد الطهي على نار هادئة حتى يصير اللحم طريًا جدًا (Cooking with Alia: من ساعة إلى ساعتين حسب القطعة؛ My Moroccan Food، Femmes du Maroc، Morocco World News)."
   },
   "variants.1": {
    "fr": "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
@@ -539,8 +527,8 @@
    "t": "توابل إضافية: رشة من رأس الحانوت (Choumicha، Cooking with Alia) أو قليل من الكركم (My Moroccan Food، Morocco World News، Cooking with Alia)."
   },
   "variants.5": {
-   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
-   "t": "لوز محمّص بدل المقلي (Choumicha، My Moroccan Food)، أو لوز مقطّع شرائح رقيقة (Le360، Grantourismo)."
+   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360).",
+   "t": "لوز محمّص بدل المقلي (Choumicha، My Moroccan Food)، أو لوز مقطّع شرائح رقيقة (Le360)."
   },
   "variants.6": {
    "fr": "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha).",

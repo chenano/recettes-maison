@@ -16,7 +16,7 @@
   },
   "region": {
    "fr": "Fès (version fassie)",
-   "t": "Fez (the Fez version)"
+   "t": "Fez (Fez style)"
   },
   "occasion": {
    "fr": "Fêtes, mariages et grands dîners de réception",
@@ -175,8 +175,8 @@
    "t": "warqa or brick pastry sheets (for the sides)"
   },
   "ing.feuilles-tour.note": {
-   "fr": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
-   "t": "allow 12 to 15 sheets in all, to be on the safe side"
+   "fr": "prévois en tout un peu plus de feuilles que la somme des trois lignes (tour, fond, dessus), pour avoir de la marge : pour 8 personnes, 12 à 15 feuilles",
+   "t": "in all, allow a few more sheets than the three lines add up to (sides, base, top), to be on the safe side: for 8 people, 12 to 15 sheets"
   },
   "ing.feuilles-fond.name": {
    "fr": "feuille de warqa ou de brick, pour le fond",
@@ -571,8 +571,8 @@
    "t": "Paula Wolfert's way (The Food of Morocco): oven at 220 °C for 20 min, then the pastilla is turned out onto a buttered baking tray, brushed with butter and put back in the oven for 10 min; she also adds lemon juice to the sauce before the eggs, and a pinch of nutmeg."
   },
   "variants.7": {
-   "fr": "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
-   "t": "Other touches, depending on the family: a little crushed gum arabic in the sauce (Cooking with Alia, recipe 695; Épices et douceurs) or some ras el hanout (Femmes du Maroc)."
+   "fr": "Autres touches selon les familles : un peu de gomme arabique dans la sauce, en petits grains (Cooking with Alia, recette 695) ou écrasée (Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
+   "t": "Other touches, depending on the family: a little gum arabic in the sauce, as small grains (Cooking with Alia, recipe 695) or crushed (Épices et douceurs), or some ras el hanout (Femmes du Maroc)."
   }
  }
 }

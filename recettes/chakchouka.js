@@ -278,7 +278,7 @@ window.RECETTES.push({
   },
   {
    "text": "Le plat marocain de tous les jours aux œufs et à la tomate porte un autre nom : « bid w maticha » (œufs et tomates).",
-   "source": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)"
+   "source": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner)"
   },
   {
    "text": "Tomates pas assez douces ? My Moroccan Food ajoute une demi-cuillère à café de sucre à sa taktouka, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
@@ -413,11 +413,6 @@ window.RECETTES.push({
    "used_for": "Contre-vérification : Pour régler la question du dîner, beaucoup de Marocaines se tournent vers « البيض ومطيشة » (œufs et tomates), plat auquel les Marocains sont très attachés selon l'autrice : c'est bien le plat de tous les jours, sous ce nom. Article cité par Wikipedia EN (Shakshouka)."
   },
   {
-   "name": "Al-Quds al-Arabi, Abdelaziz Benabbou (Rabat), « المغاربة يواجهون غضبهم من غلاء الخضار بالسخرية… », 12 février 2023",
-   "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%BA%D8%B6%D8%A8%D9%87%D9%85-%D9%85%D9%86-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%B6%D8%A7%D8%B1/",
-   "used_for": "Contre-vérification : Pour les Marocains, le repas « البيض ومطيشة » (œufs et tomates) est le plus simple, le plus connu et le moins cher. Article cité par Wikipedia EN (Shakshouka)."
-  },
-  {
    "name": "Bladi.net (site marocain), « Taktouka », rubrique Les entrées des recettes de cuisine marocaine",
    "url": "https://www.bladi.net/recettes/taktouka.html",
    "used_for": "Contre-vérification : Taktouka sans œufs : 3 poivrons grillés sur le feu, pelés, épépinés et coupés en petits morceaux, 3 tomates pelées et épépinées, 2 gousses d'ail, persil et coriandre, 1 c. à c. de piment doux, 1 c. à c. de cumin, huile d'olive ; servie tiède avec du pain. La recherche interne de Bladi ne donne aucune recette de chakchouka."
@@ -446,7 +441,8 @@ window.RECETTES.push({
   "Ail : Rachida le fait revenir quelques secondes sans le laisser dorer ; le chef Brahim Sakroune le fait dorer légèrement. Retenu : sans dorer (Rachida), puisqu'il ne reste que quelques secondes avant les poivrons.",
   "Temps dans le sac : 15 min (Rachida) ; 15 à 20 min (Cooking With Alia 125) ; 5 min (Cooking With Alia 440) ; « quelques minutes » (Lalla Moulati). Retenu 15 min.",
   "Persil : 2 c. à s. (Lalla Moulati 2019) ; « pour décorer », sans quantité (Rachida). Retenu 2 c. à s.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Aucune source ne mesure quelle version est la plus courante au Maroc ; le choix (poivrons grillés, oignon, œufs) suit la majorité des sources lues.",

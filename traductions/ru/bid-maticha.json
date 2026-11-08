@@ -42,10 +42,6 @@
    "fr": "tomates moyennes bien mûres",
    "t": "очень спелых помидора среднего размера"
   },
-  "ing.tomates.pl5": {
-   "fr": "tomate moyenne bien mûre / tomates moyennes bien mûres",
-   "t": "очень спелых помидоров среднего размера"
-  },
   "ing.tomates.note": {
    "fr": "environ 125 g chacune",
    "t": "около 125 г каждый"
@@ -57,10 +53,6 @@
   "ing.ail.pl": {
    "fr": "gousses d'ail",
    "t": "зубчика чеснока"
-  },
-  "ing.ail.pl5": {
-   "fr": "gousse d'ail / gousses d'ail",
-   "t": "зубчиков чеснока"
   },
   "ing.huile.name": {
    "fr": "d'huile d'olive",
@@ -101,10 +93,6 @@
   "ing.oeufs.pl": {
    "fr": "œufs",
    "t": "яйца"
-  },
-  "ing.oeufs.pl5": {
-   "fr": "œuf / œufs",
-   "t": "яиц"
   },
   "ing.oeufs.note": {
    "fr": "un par personne",
@@ -340,11 +328,11 @@
   },
   "secrets.10.text": {
    "fr": "Au Maroc, la chakchouka se fait souvent avec du poivron vert. Ici, pas de poivrons : seulement des tomates, de l'ail, des épices et des œufs.",
-   "t": "В Марокко шакшуку часто готовят с зелёным сладким перцем. Здесь перца нет: только помидоры, чеснок, специи и яйца."
+   "t": "В Марокко шакшуку часто готовят с зелёным сладким перцем. Здесь сладкого перца нет: только помидоры, чеснок, специи и яйца."
   },
   "secrets.10.source": {
    "fr": "Wikipédia FR (Chakchouka, section Maroc : avec poivron vert) ; Cooking With Alia (chekchouka au poivron vert) ; Choumicha (tajine de tomates aux œufs, sans poivrons)",
-   "t": "Wikipédia FR (статья «Chakchouka», раздел о Марокко: с зелёным перцем); Cooking With Alia (шекшука с зелёным перцем); Choumicha (таджин из помидоров с яйцами, без перца)"
+   "t": "Wikipédia FR (статья «Chakchouka», раздел о Марокко: с зелёным сладким перцем); Cooking With Alia (шекшука с зелёным сладким перцем); Choumicha (таджин из помидоров с яйцами, без сладкого перца)"
   },
   "secrets.11.text": {
    "fr": "Ne lave pas les œufs avant de les ranger : le lavage aide les microbes à entrer dans l'œuf. Garde-les toujours à la même température.",
@@ -409,6 +397,18 @@
   "variants.6": {
    "fr": "Au four, à la façon de Lalla Moulati (2018) : tomates évidées, garnies de blanc d'œuf mélangé à de l'oignon, du persil et des épices, puis du jaune et du reste du mélange, et cuites au four ou sur la braise.",
    "t": "В духовке, как у Lalla Moulati (2018): помидоры с вынутой мякотью начиняют яичным белком, смешанным с луком, петрушкой и специями, затем желтком и остатком смеси и запекают в духовке или на углях."
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne bien mûre / tomates moyennes bien mûres",
+   "t": "очень спелых помидоров среднего размера"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
   }
  }
 }

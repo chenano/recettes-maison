@@ -1,0 +1,346 @@
+{
+ "_slug": "omelette",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Omelette roulée aux fines herbes",
+   "t": "Омлет-рулет с травами"
+  },
+  "tagline": {
+   "fr": "Trois œufs battus avec persil, ciboulette et autres fines herbes, cuits en un instant au beurre puis roulés : lisse dehors, moelleuse dedans, à la française.",
+   "t": "Три яйца, взбитые с петрушкой, шнитт-луком и другими пряными травами, за мгновение приготовленные на сливочном масле и свёрнутые рулетом: гладкий снаружи, нежный внутри, по-французски."
+  },
+  "region": {
+   "fr": "France : la cuisine classique d'Escoffier (Le Guide culinaire, 1903)",
+   "t": "Франция: классическая кухня Escoffier (Le Guide culinaire, 1903)"
+  },
+  "occasion": {
+   "fr": "Repas express, en quelques minutes, dès qu'il y a des œufs et un peu d'herbes fraîches",
+   "t": "Быстрая еда за несколько минут, когда есть яйца и немного свежей зелени"
+  },
+  "img_alt": {
+   "fr": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette",
+   "t": "Омлет-рулет, жёлтый, без румяной корочки, посыпанный шнитт-луком"
+  },
+  "serving": {
+   "fr": "Tout de suite, roulée et lustrée au beurre (Escoffier, Chef Simon), avec une salade verte si tu veux, comme le permet l'usage cité par Wikipédia. S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la dans les 3 à 4 jours et réchauffe-la à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
+   "t": "Сразу же, свёрнутым и смазанным для блеска сливочным маслом (Escoffier, Chef Simon), по желанию с зелёным салатом, как допускает обычай, упомянутый в Wikipédia. Если омлет остался, уберите его в холодильник в течение 2 часов (1 часа, если жарче 32 °C), съешьте в течение 3–4 дней и разогрейте насквозь, до 74 °C (FDA, американское агентство по безопасности пищевых продуктов)."
+  },
+  "ing.0.group": {
+   "fr": "Omelette",
+   "t": "Омлет"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf frais",
+   "t": "свежее яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs frais",
+   "t": "свежих яйца"
+  },
+  "ing.oeufs.note": {
+   "fr": "3 par omelette ; jette ceux qui sont fêlés ou cassés, et ne les lave pas (Anses)",
+   "t": "по 3 на омлет; треснувшие или разбитые выбросьте и не мойте яйца (Anses)"
+  },
+  "ing.sel.name": {
+   "fr": "sel fin",
+   "t": "мелкая соль"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "перец"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "сливочного масла"
+  },
+  "ing.beurre.note": {
+   "fr": "15 g par omelette, pour la cuisson",
+   "t": "по 15 г на омлет, для жарки"
+  },
+  "ing.1.group": {
+   "fr": "Fines herbes",
+   "t": "Пряные травы"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "петрушка"
+  },
+  "ing.ciboulette.name": {
+   "fr": "ciboulette",
+   "t": "шнитт-лук"
+  },
+  "ing.cerfeuil.name": {
+   "fr": "cerfeuil",
+   "t": "кервель"
+  },
+  "ing.cerfeuil.note": {
+   "fr": "facultatif, si tu en trouves",
+   "t": "по желанию, если найдёте"
+  },
+  "ing.estragon.name": {
+   "fr": "estragon",
+   "t": "эстрагон"
+  },
+  "ing.estragon.note": {
+   "fr": "facultatif, si tu en trouves",
+   "t": "по желанию, если найдёте"
+  },
+  "ing.2.group": {
+   "fr": "Pour finir",
+   "t": "Для завершения"
+  },
+  "ing.beurre-lustrer.name": {
+   "fr": "beurre",
+   "t": "сливочное масло"
+  },
+  "ing.beurre-lustrer.note": {
+   "fr": "un petit morceau par omelette, pour la faire briller",
+   "t": "маленький кусочек на омлет, для блеска"
+  },
+  "equipment.0": {
+   "fr": "Un bol par omelette et une fourchette",
+   "t": "Миска на каждый омлет и вилка"
+  },
+  "equipment.1": {
+   "fr": "Une petite poêle antiadhésive",
+   "t": "Небольшая сковорода с антипригарным покрытием"
+  },
+  "equipment.2": {
+   "fr": "Une spatule souple (une fourchette en métal abîme l'antiadhésif)",
+   "t": "Мягкая лопатка (металлическая вилка портит антипригарное покрытие)"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau bien aiguisé, pour ciseler les herbes",
+   "t": "Доска и хорошо заточенный нож, чтобы мелко нарезать травы"
+  },
+  "equipment.4": {
+   "fr": "Une assiette par omelette",
+   "t": "Тарелка на каждый омлет"
+  },
+  "steps.0.title": {
+   "fr": "Cisèle les herbes",
+   "t": "Нарежьте травы"
+  },
+  "steps.0.text": {
+   "fr": "Cisèle finement le {{persil}}, la {{ciboulette}} et, si tu en as, le {{cerfeuil}} et l'{{estragon}}, avec un couteau bien aiguisé.",
+   "t": "Хорошо заточенным ножом мелко нарежьте петрушку, шнитт-лук и, если есть, кервель и эстрагон."
+  },
+  "steps.0.tip": {
+   "fr": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon).",
+   "t": "Нарезайте тонко, а не рубите: рубленые травы придают омлету «вкус газона» (Chef Simon)."
+  },
+  "steps.1.title": {
+   "fr": "Casse les œufs",
+   "t": "Разбейте яйца"
+  },
+  "steps.1.text": {
+   "fr": "Casse les œufs : 3 par omelette, dans un bol pour chacune ({{oeufs:full}} en tout).",
+   "t": "Разбейте яйца: по 3 на омлет, в отдельную миску для каждого (всего {{oeufs:full}})."
+  },
+  "steps.2.title": {
+   "fr": "Assaisonne et bats",
+   "t": "Приправьте и взбейте"
+  },
+  "steps.2.text": {
+   "fr": "Dans chaque bol, ajoute le {{sel}}, le {{poivre}} et sa part d'herbes. Bats à la fourchette, sans excès, juste pour bien mêler les blancs et les jaunes.",
+   "t": "В каждую миску добавьте соль, перец и свою долю трав. Взбейте вилкой, без усердия, только чтобы хорошо перемешать белки и желтки."
+  },
+  "steps.3.title": {
+   "fr": "Chauffe le beurre",
+   "t": "Разогрейте масло"
+  },
+  "steps.3.text": {
+   "fr": "Mets 15 g de beurre dans la petite poêle (la part d'une omelette ; {{beurre}} en tout) et chauffe sur feu moyen. Attends qu'il fonde et mousse, sans le laisser brunir.",
+   "t": "Положите 15 г сливочного масла в небольшую сковороду (доля одного омлета; всего {{beurre}}) и разогрейте на среднем огне. Дождитесь, пока оно растает и начнёт пениться, но не давайте ему потемнеть."
+  },
+  "steps.3.tip": {
+   "fr": "Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "t": "Chef Simon предпочитает осветлённое сливочное масло или смесь сливочного и растительного масла."
+  },
+  "steps.4.title": {
+   "fr": "Verse et remue",
+   "t": "Влейте и перемешайте"
+  },
+  "steps.4.text": {
+   "fr": "Verse les œufs battus d'un bol dans la poêle chaude. Remue aussitôt avec la spatule, en ramenant vers le centre les bords qui commencent à prendre, pour que l'œuf encore liquide coule et cuise à son tour.",
+   "t": "Вылейте взбитые яйца из одной миски на горячую сковороду. Сразу перемешивайте лопаткой, сдвигая к центру края, которые начинают схватываться, чтобы ещё жидкое яйцо стекало и тоже готовилось."
+  },
+  "steps.5.title": {
+   "fr": "Arrête quand c'est encore baveux",
+   "t": "Остановитесь, пока верх ещё жидковат"
+  },
+  "steps.5.text": {
+   "fr": "Arrête de remuer quand l'omelette est presque prise et qu'il reste sur le dessus une fine couche d'œuf encore baveuse. Le dessous doit rester pâle, sans coloration.",
+   "t": "Перестаньте помешивать, когда омлет почти схватится, а сверху останется тонкий слой ещё жидковатого яйца. Низ должен остаться светлым, без румяной корочки."
+  },
+  "steps.5.tip": {
+   "fr": "La FDA (agence sanitaire américaine) conseille de cuire les œufs jusqu'à ce que le blanc et le jaune soient fermes, et rappelle que les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles risquent plus une salmonellose grave : pour eux, cuis l'omelette jusqu'à ce qu'elle soit bien prise.",
+   "t": "FDA (американское агентство по безопасности пищевых продуктов) советует готовить яйца, пока белок и желток не станут плотными, и напоминает, что у детей, пожилых, беременных и ослабленных людей выше риск тяжёлого сальмонеллёза: для них готовьте омлет, пока он полностью не схватится."
+  },
+  "steps.6.title": {
+   "fr": "Roule l'omelette",
+   "t": "Сверните омлет"
+  },
+  "steps.6.text": {
+   "fr": "Baisse le feu. Décolle le bord avec la spatule, puis penche la poêle au-dessus de l'assiette : l'omelette roule sur elle-même. Aide-la avec la spatule.",
+   "t": "Убавьте огонь. Отделите край лопаткой, затем наклоните сковороду над тарелкой: омлет сам свернётся рулетом. Помогите ему лопаткой."
+  },
+  "steps.7.title": {
+   "fr": "Fais-la briller et sers",
+   "t": "Придайте блеск и подавайте"
+  },
+  "steps.7.text": {
+   "fr": "Frotte un petit morceau de {{beurre-lustrer}} sur le dessus pour la faire briller, et sers aussitôt. S'il y a d'autres omelettes, reprends à l'étape « Chauffe le beurre » avec le bol suivant.",
+   "t": "Натрите верх маленьким кусочком сливочного масла, чтобы омлет заблестел, и сразу подавайте. Если нужно приготовить ещё омлеты, вернитесь к шагу «Разогрейте масло» со следующей миской."
+  },
+  "secrets.0.text": {
+   "fr": "Une omelette, selon Escoffier, ce sont « des œufs brouillés d'un genre spécial enfermés dans une enveloppe d'œufs coagulés » : moelleuse dedans, juste assez prise dehors pour être roulée.",
+   "t": "По Escoffier, омлет — это «особого рода яичница-болтунья, заключённая в оболочку из свернувшихся яиц»: нежный внутри и снаружи схватившийся ровно настолько, чтобы его можно было свернуть."
+  },
+  "secrets.0.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903) ; Cuisine et Vins de France, cité par Wikipédia",
+   "t": "Escoffier, Le Guide culinaire (1903); Cuisine et Vins de France, по цитате в Wikipédia"
+  },
+  "secrets.1.text": {
+   "fr": "Les vraies fines herbes, ce sont le persil, la ciboulette, le cerfeuil et l'estragon. Pour Escoffier, une omelette où le persil est seul n'est pas une omelette aux fines herbes.",
+   "t": "Настоящие «fines herbes» — это петрушка, шнитт-лук, кервель и эстрагон. По Escoffier, омлет с одной лишь петрушкой — не омлет с травами."
+  },
+  "secrets.1.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903) ; Wikipédia (définition reprise par le Larousse gastronomique de 1938)",
+   "t": "Escoffier, Le Guide culinaire (1903); Wikipédia (определение, повторённое в Larousse gastronomique 1938 года)"
+  },
+  "secrets.2.text": {
+   "fr": "Les mesures d'Escoffier pour une omelette de 3 œufs : une demi-pincée de sel fin, une prise de poivre, 15 g de beurre et une cuillerée de fines herbes.",
+   "t": "Пропорции Escoffier для омлета из 3 яиц: полщепотки мелкой соли, щепотка перца, 15 г сливочного масла и ложка пряных трав."
+  },
+  "secrets.2.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903)",
+   "t": "Escoffier, Le Guide culinaire (1903)"
+  },
+  "secrets.3.text": {
+   "fr": "Cisèle les herbes au couteau au lieu de les hacher, sinon l'omelette prend un « goût de gazon ».",
+   "t": "Нарезайте травы ножом, а не рубите, иначе у омлета появится «вкус газона»."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon",
+   "t": "Chef Simon"
+  },
+  "secrets.4.text": {
+   "fr": "Bats peu : quelques coups de fourchette suffisent à mêler les blancs et les jaunes.",
+   "t": "Взбивайте недолго: нескольких движений вилкой достаточно, чтобы смешать белки и желтки."
+  },
+  "secrets.4.source": {
+   "fr": "Chef Simon (« sans excès ») ; Jules Gouffé et A. Bautte, cités par Wikipédia",
+   "t": "Chef Simon («без усердия»); Jules Gouffé и A. Bautte, по цитате в Wikipédia"
+  },
+  "secrets.5.text": {
+   "fr": "Le beurre ne doit jamais brunir. Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "t": "Сливочное масло ни в коем случае не должно темнеть. Chef Simon предпочитает осветлённое сливочное масло или смесь сливочного и растительного масла."
+  },
+  "secrets.5.source": {
+   "fr": "Wikipédia (toutes les autorités demandent du très bon beurre, sans le brûler) ; Chef Simon",
+   "t": "Wikipédia (все авторитеты требуют очень хорошего сливочного масла, которое нельзя пережигать); Chef Simon"
+  },
+  "secrets.6.text": {
+   "fr": "Pas de coloration : l'omelette roulée reste jaune pâle. Chef Simon juge ce point « très important ».",
+   "t": "Без румяной корочки: омлет-рулет остаётся бледно-жёлтым. Chef Simon считает это «очень важным»."
+  },
+  "secrets.6.source": {
+   "fr": "Chef Simon ; Wikipédia en anglais, d'après Julia Child (omelette française pas ou très peu dorée)",
+   "t": "Chef Simon; Wikipédia на английском, по Julia Child (французский омлет не подрумянивают или подрумянивают совсем чуть-чуть)"
+  },
+  "secrets.7.text": {
+   "fr": "La cuisson est rapide : le Larousse définit l'omelette comme des œufs battus « cuits rapidement à la poêle ».",
+   "t": "Готовится он быстро: Larousse определяет омлет как взбитые яйца, «быстро приготовленные на сковороде»."
+  },
+  "secrets.7.source": {
+   "fr": "Larousse ; Wikipédia (« la cuisson doit rester rapide »)",
+   "t": "Larousse; Wikipédia («готовить нужно быстро»)"
+  },
+  "secrets.8.text": {
+   "fr": "Baveuse veut dire assez peu cuite pour que l'intérieur reste moelleux. Mais, rappelle Escoffier, certains la veulent très cuite, d'autres à point : demande à chacun.",
+   "t": "«Baveuse» значит приготовленный настолько недолго, что внутри он остаётся нежным. Но, как напоминает Escoffier, одни любят омлет хорошо прожаренным, другие — в самый раз: спросите каждого."
+  },
+  "secrets.8.source": {
+   "fr": "Larousse (« baveux ») ; Escoffier ; Chef Simon (baveuse, moelleuse ou bien cuite)",
+   "t": "Larousse («baveux»); Escoffier; Chef Simon (жидковатый внутри, нежный или хорошо прожаренный)"
+  },
+  "secrets.9.text": {
+   "fr": "Une poêle à la bonne taille : trop d'œufs pour la poêle, et l'omelette devient épaisse, mal cuite et dure.",
+   "t": "Сковорода подходящего размера: если яиц слишком много для сковороды, омлет получается толстым, плохо пропечённым и жёстким."
+  },
+  "secrets.9.source": {
+   "fr": "Wikipédia, d'après Cora Millet-Robinet (1884) ; Il Giornale del Cibo conseille une poêle de 18 à 20 cm",
+   "t": "Wikipédia, по Cora Millet-Robinet (1884); Il Giornale del Cibo советует сковороду 18–20 см"
+  },
+  "secrets.10.text": {
+   "fr": "La touche finale des chefs : un peu de beurre sur l'omelette roulée pour la faire briller.",
+   "t": "Последний штрих поваров: немного сливочного масла на свёрнутый омлет, чтобы он блестел."
+  },
+  "secrets.10.source": {
+   "fr": "Escoffier ; Chef Simon ; Wikipédia (« lustrer », d'après Michel Maincent-Morel)",
+   "t": "Escoffier; Chef Simon; Wikipédia («lustrer», по Michel Maincent-Morel)"
+  },
+  "secrets.11.text": {
+   "fr": "Plusieurs convives ? Fais plusieurs omelettes plutôt qu'une trop grosse.",
+   "t": "Гостей несколько? Приготовьте несколько омлетов, а не один слишком большой."
+  },
+  "secrets.11.source": {
+   "fr": "Jules Gouffé (1873), cité par Wikipédia ; Escoffier prend l'omelette de 3 œufs comme modèle",
+   "t": "Jules Gouffé (1873), по цитате в Wikipédia; Escoffier берёт за образец омлет из 3 яиц"
+  },
+  "mistakes.0": {
+   "fr": "Battre trop longtemps les œufs (Chef Simon ; Jules Gouffé, cité par Wikipédia).",
+   "t": "Слишком долго взбивать яйца (Chef Simon; Jules Gouffé, по цитате в Wikipédia)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser brunir le beurre ou dorer l'omelette (Chef Simon ; Wikipédia).",
+   "t": "Давать сливочному маслу потемнеть, а омлету подрумяниться (Chef Simon; Wikipédia)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop d'œufs dans une petite poêle : l'omelette devient épaisse et dure (Wikipédia, d'après Cora Millet-Robinet).",
+   "t": "Выливать слишком много яиц на маленькую сковороду: омлет получается толстым и жёстким (Wikipédia, по Cora Millet-Robinet)."
+  },
+  "mistakes.3": {
+   "fr": "Trop la cuire : elle devient sèche (Wikipédia, d'après Louis Liger).",
+   "t": "Пережаривать омлет: он становится сухим (Wikipédia, по Louis Liger)."
+  },
+  "mistakes.4": {
+   "fr": "Hacher les herbes au lieu de les ciseler (Chef Simon).",
+   "t": "Рубить травы вместо того, чтобы тонко нарезать их ножом (Chef Simon)."
+  },
+  "mistakes.5": {
+   "fr": "Ne mettre que du persil et l'appeler « aux fines herbes » (Escoffier).",
+   "t": "Класть одну петрушку и называть омлет «с травами» (Escoffier)."
+  },
+  "variants.0": {
+   "fr": "Aux champignons : Escoffier ajoute aux œufs 40 g de champignons émincés et sautés au beurre pour une omelette de 3 œufs.",
+   "t": "С грибами: Escoffier добавляет в яйца 40 г нарезанных и обжаренных на сливочном масле грибов на омлет из 3 яиц."
+  },
+  "variants.1": {
+   "fr": "À l'estragon seul, « à la Chartres » : une pincée d'estragon haché dans les œufs (Escoffier).",
+   "t": "Только с эстрагоном, «à la Chartres»: щепотка рубленого эстрагона в яйцах (Escoffier)."
+  },
+  "variants.2": {
+   "fr": "À la coriandre : Chef Simon laisse le choix des herbes (ciboulette, cerfeuil ou coriandre).",
+   "t": "С кинзой: Chef Simon оставляет выбор трав за вами (шнитт-лук, кервель или кинза)."
+  },
+  "variants.3": {
+   "fr": "Plus moelleuse et moins chère avec du lait : pour 4 personnes, Chef Simon remplace ses 9 œufs habituels par 6 œufs et 1,5 dl (150 ml) de lait.",
+   "t": "Нежнее и дешевле, с молоком: на 4 человек Chef Simon вместо обычных 9 яиц берёт 6 яиц и 1,5 дл (150 мл) молока."
+  },
+  "variants.4": {
+   "fr": "Pliée en trois, à la manière classique (Wikipédia), ou en deux, à l'anglaise (Great British Chefs), au lieu d'être roulée.",
+   "t": "Сложенный втрое, классическим способом (Wikipédia), или вдвое, по-английски (Great British Chefs), вместо того чтобы сворачивать рулетом."
+  },
+  "variants.5": {
+   "fr": "Au fromage, garniture classique selon Great British Chefs. Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "t": "С сыром — классическая начинка, по Great British Chefs. Если вы придерживаетесь строгих правил: сыр на микробном ферменте, без животного сычужного фермента."
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf frais / œufs frais",
+   "t": "свежих яиц"
+  }
+ }
+}

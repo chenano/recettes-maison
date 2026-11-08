@@ -42,10 +42,6 @@
    "fr": "oignons moyens",
    "t": "луковицы среднего размера"
   },
-  "ing.oignon.pl5": {
-   "fr": "oignon moyen / oignons moyens",
-   "t": "луковиц среднего размера"
-  },
   "ing.carotte.name": {
    "fr": "carotte",
    "t": "морковь"
@@ -54,10 +50,6 @@
    "fr": "carottes",
    "t": "моркови"
   },
-  "ing.carotte.pl5": {
-   "fr": "carotte / carottes",
-   "t": "морковей"
-  },
   "ing.pomme-de-terre.name": {
    "fr": "pomme de terre moyenne",
    "t": "картофелина среднего размера"
@@ -65,10 +57,6 @@
   "ing.pomme-de-terre.pl": {
    "fr": "pommes de terre moyennes",
    "t": "картофелины среднего размера"
-  },
-  "ing.pomme-de-terre.pl5": {
-   "fr": "pomme de terre moyenne / pommes de terre moyennes",
-   "t": "картофелин среднего размера"
   },
   "ing.huile.name": {
    "fr": "d'huile de tournesol",
@@ -124,7 +112,7 @@
   },
   "ing.paprika.note": {
    "fr": "doux, ou en partie piquant si tu aimes",
-   "t": "сладкой или частично острой, если любите острое"
+   "t": "сладкой; если любите острое, часть можно заменить острой"
   },
   "ing.citron.name": {
    "fr": "citron",
@@ -133,10 +121,6 @@
   "ing.citron.pl": {
    "fr": "citrons",
    "t": "лимона"
-  },
-  "ing.citron.pl5": {
-   "fr": "citron / citrons",
-   "t": "лимонов"
   },
   "ing.citron.note": {
    "fr": "en quartiers",
@@ -244,7 +228,7 @@
   },
   "steps.10.text": {
    "fr": "Ajoute {{cumin}} de cumin et du {{poivre}}, goûte et rectifie le sel. Si la soupe est trop épaisse, ajoute un peu d'eau chaude. Laisse frémir 2 à 3 minutes en remuant.",
-   "t": "Добавьте {{cumin}} кумина и {{poivre}}, попробуйте и при необходимости досолите. Если суп слишком густой, добавьте немного горячей воды. Дайте ему слабо покипеть 2–3 минуты, помешивая."
+   "t": "Добавьте {{cumin}} кумина и {{poivre}}, попробуйте и при необходимости досолите. Если суп слишком густой, добавьте немного горячей воды. Дайте супу слегка покипеть 2–3 минуты, помешивая."
   },
   "steps.11.title": {
    "fr": "Fais le beurre au paprika",
@@ -396,7 +380,7 @@
   },
   "variants.0": {
    "fr": "Sans cocotte-minute : même recette dans une grande casserole, à petit frémissement, couvercle entrouvert, 20 à 25 minutes (Ozlem Warren, 2026) ou 25 à 30 minutes (Türk Mutfağı Haftası), en remuant de temps en temps. Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",
-   "t": "Без скороварки: тот же рецепт в большой кастрюле, на очень слабом кипении, под приоткрытой крышкой, 20–25 минут (Ozlem Warren, 2026) или 25–30 минут (Türk Mutfağı Haftası), время от времени помешивая. Тогда рассчитывайте на 45–55 минут в общей сложности, включая подготовку: 15 + 30 минут у Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 минут у Türk Mutfağı Haftası, 15 + 40 минут у Ozlem Warren в 2010 году; Nefis указывает около 40 минут варки в кастрюле."
+   "t": "Без скороварки: тот же рецепт в большой кастрюле, при очень слабом кипении, под приоткрытой крышкой, 20–25 минут (Ozlem Warren, 2026) или 25–30 минут (Türk Mutfağı Haftası), время от времени помешивая. Тогда рассчитывайте на 45–55 минут в общей сложности, включая подготовку: 15 + 30 минут у Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 минут у Türk Mutfağı Haftası, 15 + 40 минут у Ozlem Warren в 2010 году; Nefis указывает около 40 минут варки в кастрюле."
   },
   "variants.1": {
    "fr": "Version de la Semaine de la cuisine turque (Türk Mutfağı Haftası) : seulement lentilles, oignon doré au beurre et bouillon de viande halal, maison ou certifié (ou bouillon de légumes, ou eau chaude), mixés, puis beurre au paprika ; à Istanbul, la version la plus courante est aussi aux lentilles seules (Ozlem Warren).",
@@ -457,6 +441,22 @@
   "equipment.7": {
    "fr": "Louche",
    "t": "Половник"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.carotte.pl5": {
+   "fr": "carotte / carottes",
+   "t": "морковей"
+  },
+  "ing.pomme-de-terre.pl5": {
+   "fr": "pomme de terre moyenne / pommes de terre moyennes",
+   "t": "картофелин среднего размера"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
   }
  }
 }

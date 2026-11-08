@@ -1,0 +1,362 @@
+/* Recette : Tortilla espagnole (tortilla de patatas). Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "tortilla-espagnole",
+ "title": "Tortilla espagnole (tortilla de patatas)",
+ "darija": "",
+ "arabic": "طورطية البطاطا",
+ "tagline": "La vraie tortilla d'Espagne : des pommes de terre cuites doucement dans l'huile d'olive, liées par des œufs battus et dorées des deux côtés. Avec ou sans oignon, c'est toi qui choisis.",
+ "category": "Plat",
+ "occasion": "Un des plats les plus courants en Espagne, souvent en dîner léger à la maison (Wikipédia en arabe). Chaude, tiède ou froide, en plat, en tapa, en pincho ou en sandwich (bocadillo) (Spain.info ; Wikipédia en espagnol). Plus épaisse, elle part en pique-nique (Spain.info).",
+ "region": "Espagne : un des plats les plus connus du pays (Wikipédia en espagnol). Les premières traces écrites datent du XVIIIe siècle : 1767 (Valcárcel), 1798 à Villanueva de la Serena en Estrémadure, puis 1817 en Navarre (Wikipédia en espagnol). À Betanzos, en Galice, elle se fait sans oignon et très baveuse (Directo al Paladar).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 30,
+  "cook": 35,
+  "rest": 0
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un économe, un couteau et une planche",
+  "Une grande poêle profonde, pour cuire les pommes de terre dans l'huile",
+  "Une écumoire",
+  "Une passoire posée sur un bol, pour égoutter et garder l'huile",
+  "Un grand saladier et une fourchette",
+  "Une poêle moyenne avec un couvercle (Directo al Paladar prend une poêle de 22 cm)",
+  "Un couvercle plat ou une grande assiette, pour retourner la tortilla",
+  "Une assiette propre pour servir",
+  "Un thermomètre de cuisine, si tu en as un"
+ ],
+ "ingredients": [
+  {
+   "group": "La tortilla",
+   "items": [
+    {
+     "id": "pommes-de-terre",
+     "q": 4,
+     "u": "",
+     "name": "pomme de terre moyenne",
+     "pl": "pommes de terre moyennes",
+     "note": "environ 175 g pièce",
+     "canon": "pomme-de-terre"
+    },
+    {
+     "id": "oeufs",
+     "q": 6,
+     "u": "",
+     "name": "œuf frais",
+     "pl": "œufs frais",
+     "note": "coquille intacte, gardés au réfrigérateur",
+     "round": "up",
+     "canon": "oeuf"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "note": "facultatif : sans oignon, c'est la tortilla de Betanzos",
+     "canon": "oignon"
+    },
+    {
+     "id": "huile",
+     "q": 250,
+     "u": "ml",
+     "name": "d'huile d'olive",
+     "note": "pour la cuisson ; tu en gardes une partie",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "selon le goût",
+     "canon": "sel"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Épluche les pommes de terre",
+   "text": "Épluche, lave et sèche bien {{pommes-de-terre:full}} avec un torchon propre.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe en rondelles fines",
+   "text": "Coupe en rondelles fines, toutes de la même épaisseur, pour une cuisson égale.",
+   "timer": null,
+   "tip": "À Betanzos, on les coupe au couteau en petits morceaux fins (Directo al Paladar). Joseba Arguiñano les coupe en petits carrés fins (Hogarmania)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Émince l'oignon",
+   "text": "Si tu mets de l'oignon, épluche {{oignon:full}} et émince très finement.",
+   "timer": null,
+   "tip": "Avec ou sans oignon ? C'est le grand débat de l'Espagne : lis l'onglet des secrets."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Bats les œufs",
+   "text": "Casse {{oeufs:full}} un par un dans le grand saladier, sans les cogner sur le bord d'une assiette. Ajoute un peu de {{sel}} et bats-les à la fourchette, juste pour bien mélanger.",
+   "timer": null,
+   "tip": "La coquille peut porter des salmonelles : ne sépare pas les jaunes avec la coquille, et ne lave pas les œufs avant de les ranger au frigo (Comunidad de Madrid)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis doucement dans l'huile",
+   "text": "Verse {{huile}} d'huile d'olive dans la grande poêle profonde, sur feu moyen. Ajoute les pommes de terre, puis l'oignon si tu en mets. Elles doivent cuire doucement, plus confites que frites.",
+   "timer": null,
+   "tip": "Directo al Paladar met les pommes de terre dans l'huile encore presque froide : elles confisent au lieu de dorer."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Remue de temps en temps",
+   "text": "Laisse cuire environ 10 minutes. Remue de temps en temps avec l'écumoire, en coupant les morceaux avec. Les pommes de terre doivent devenir tendres et commencer à peine à dorer.",
+   "timer": {
+    "min": 10,
+    "label": "Pommes de terre",
+    "done": "Vérifie : elles doivent être tendres. Sinon, laisse cuire encore un peu."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte et garde l'huile",
+   "text": "Verse les pommes de terre (et l'oignon) dans la passoire posée sur un bol. Laisse bien égoutter. Garde l'huile : il en faut un peu pour cuire la tortilla.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Mélange et laisse reposer",
+   "text": "Ajoute les pommes de terre égouttées (et l'oignon) dans les œufs battus. Mélange doucement, puis laisse reposer quelques minutes : les pommes de terre s'imprègnent d'œuf.",
+   "timer": null,
+   "tip": "Joseba Arguiñano laisse reposer 3 à 4 minutes (Hogarmania)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis le dessous",
+   "text": "Mets la poêle moyenne sur le feu avec un peu de l'huile gardée. Quand elle est chaude, verse le mélange. Baisse le feu, couvre et laisse cuire doucement environ 5 minutes, jusqu'à ce que le dessous soit doré.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Retourne la tortilla",
+   "text": "Pose le couvercle plat ou la grande assiette sur la poêle. Tiens-le bien et retourne le tout d'un coup. Fais ensuite glisser la tortilla dans la poêle, la face dorée au-dessus.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Finis la cuisson",
+   "text": "Laisse cuire l'autre face à feu doux, jusqu'à ce que l'œuf soit bien pris au centre et que la tortilla soit dorée des deux côtés.",
+   "timer": null,
+   "tip": "Avec un thermomètre : au moins 71 °C au centre (FDA, 160 °F). Tu la veux baveuse ? La Comunidad de Madrid conseille alors des œufs pasteurisés, et de ne pas la servir aux personnes fragiles."
+  },
+  {
+   "phase": "Service",
+   "title": "Sers dans une assiette propre",
+   "text": "Fais glisser la tortilla dans une assiette propre, jamais celle qui a servi à la retourner : elle a touché l'œuf cru. Laisse-la reposer quelques minutes avant de la couper.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers ou mets au frais",
+   "text": "Sers-la chaude, tiède ou froide. Mets les restes au réfrigérateur dans les 2 heures, et mange-les dans les 2 jours.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Les pommes de terre doivent cuire doucement, plus confites que frites : feu moyen, sans te presser.",
+   "source": "Spain.info (cuisson lente à feu moyen) ; Directo al Paladar ; Wikipédia en espagnol (« plus cuites que frites »)"
+  },
+  {
+   "text": "Garde l'huile de cuisson : un peu suffit pour cuire la tortilla. Joseba Arguiñano garde le reste pour une autre fois.",
+   "source": "Spain.info ; Hogarmania ; Directo al Paladar (une cuillère à soupe d'huile pour la poêle)"
+  },
+  {
+   "text": "Laisse les pommes de terre quelques minutes dans les œufs battus avant de cuire : elles s'en imprègnent.",
+   "source": "Wikipédia en espagnol ; Directo al Paladar ; Hogarmania (3 à 4 minutes)"
+  },
+  {
+   "text": "Bats les œufs sans trop y faire entrer d'air. Pour la tortilla de Betanzos, on les remue seulement.",
+   "source": "Directo al Paladar (deux articles, 2022)"
+  },
+  {
+   "text": "La proportion : environ 100 g de pommes de terre par œuf. Pour 4 à 6 personnes, Directo al Paladar compte 600 à 750 g de pommes de terre et 6 à 8 œufs.",
+   "source": "Directo al Paladar (Liliana Fuchs, 2022)"
+  },
+  {
+   "text": "La règle 6-3-1 de Karlos Arguiñano : 6 œufs, 3 pommes de terre et 1 oignon. Le chef Mario Sandoval suit la même règle.",
+   "source": "Directo al Paladar (articles de 2022 et de 2024)"
+  },
+  {
+   "text": "Plus d'œuf donne une tortilla plus juteuse, comme à Betanzos. Moins d'œuf donne une tortilla plus ferme.",
+   "source": "Directo al Paladar"
+  },
+  {
+   "text": "Le grand débat : avec ou sans oignon. Pour : il donne de la douceur et du moelleux. Contre : l'œuf et la pomme de terre sont déjà doux, et un oignon mal cuit gâche la tortilla. En 2023, une enquête du Centro de Investigaciones Sociológicas (CIS) a trouvé 70,4 % des Espagnols pour l'oignon et 20,9 % contre.",
+   "source": "Directo al Paladar (2022 et 2023) ; Wikipédia en espagnol (enquête du CIS de 2023)"
+  },
+  {
+   "text": "Les chefs aussi sont divisés. Sans oignon : Dabiz Muñoz, Dani García, Ferran Adrià, Ángel León. Avec : Karlos Arguiñano, Martín Berasategui, José Andrés, Joan Roca, Alberto Chicote. Pour Dabiz Muñoz, un bon œuf, une bonne pomme de terre et de l'huile d'olive suffisent, avec du sel.",
+   "source": "Directo al Paladar (Miguel Ayuso, 2022)"
+  },
+  {
+   "text": "Si tu mets de l'oignon, il doit être bien fondu. Joan Roca l'aime très tendre ; Alberto Chicote le fait fondre à part jusqu'à ce qu'il caramélise, sans sucre.",
+   "source": "Directo al Paladar"
+  },
+  {
+   "text": "L'autre débat : baveuse ou bien prise. Selon le CIS (2023), 53,9 % des Espagnols la veulent peu cuite et 26,9 % très cuite. Ici, on la cuit bien par défaut, comme le conseillent les autorités sanitaires.",
+   "source": "Directo al Paladar (enquête du CIS, 2023) ; Wikipédia en espagnol ; Comunidad de Madrid ; FDA"
+  },
+  {
+   "text": "Pour un pique-nique ou des petits cubes à l'apéritif, mets plus de pommes de terre : la tortilla est plus dense, plus facile à transporter et à couper. On la mange alors froide.",
+   "source": "Spain.info"
+  },
+  {
+   "text": "Pour la retourner sans risque, il existe des poêles doubles faites pour la tortilla.",
+   "source": "Directo al Paladar"
+  },
+  {
+   "text": "Achète des œufs à la coquille intacte, garde-les au frigo sans les laver, et ne les casse pas sur le bord d'une assiette.",
+   "source": "Comunidad de Madrid (santé publique)"
+  }
+ ],
+ "mistakes": [
+  "Cuire les pommes de terre à feu vif dès le début : elles doivent cuire doucement (Spain.info ; Directo al Paladar ; Wikipédia en espagnol).",
+  "Oublier de bien égoutter les pommes de terre (Spain.info ; Directo al Paladar).",
+  "Mettre trop peu d'œuf : la tortilla devient un bloc sec (Directo al Paladar).",
+  "Mettre un oignon mal cuit : il gâche la tortilla (Directo al Paladar).",
+  "Servir la tortilla dans l'assiette qui a servi à la retourner : elle a touché l'œuf cru (Comunidad de Madrid).",
+  "Laisser la tortilla hors du frigo : pas plus de 2 heures, ou 1 heure au-dessus de 32 °C (FDA, 90 °F). En été, des tortillas gardées plus de 20 heures à température ambiante causent des intoxications (Comunidad de Madrid).",
+  "Servir une tortilla baveuse aux femmes enceintes, aux personnes âgées, aux jeunes enfants ou aux personnes fragiles (Comunidad de Madrid ; FDA).",
+  "Laver les œufs avant de les ranger, ou les casser sur le bord d'une assiette (Comunidad de Madrid)."
+ ],
+ "serving": "Chaude, tiède ou froide (Spain.info ; Directo al Paladar), en plat, en tapa, en pincho ou en sandwich (Wikipédia en espagnol ; Directo al Paladar). Avec une salade verte, une tomate assaisonnée, une salade composée ou des poivrons verts frits (Directo al Paladar). Laisse-la reposer quelques minutes avant de la couper (Directo al Paladar). Restes : au réfrigérateur dans les 2 heures (FDA), et à manger dans les 2 jours (Comunidad de Madrid ; FSA). Une tortilla peu prise se mange tout de suite, ou reste au frigo jusqu'au repas (Comunidad de Madrid).",
+ "variants": [
+  "Sans oignon : œufs, pommes de terre, huile d'olive et sel, rien d'autre, comme à Betanzos (Directo al Paladar, qui cite la mairie de Betanzos).",
+  "Façon Betanzos, très baveuse : pour 4, 350 g de pommes de terre en tout (4 « moyennes » sur la fiche) et 5 gros œufs, 1 minute de cuisson par face (Directo al Paladar). Prends alors des œufs pasteurisés. Avec des œufs crus ordinaires, fais-la au dernier moment, garde-la au frigo jusqu'au repas, ne la sers pas aux personnes fragiles et jette les restes (Comunidad de Madrid).",
+  "Oignon fondu à part, à feu très doux pendant environ 30 minutes, puis mêlé aux pommes de terre (Directo al Paladar ; Alberto Chicote, cité par Directo al Paladar).",
+  "Avec un poivron vert, comme Karlos Arguiñano (Directo al Paladar).",
+  "Formule 7-3-4-1-1 de Joseba Arguiñano : 7 œufs, 3 jaunes, 4 pommes de terre, 1 petit poireau et 1 oignon, en 4 petites tortillas (Hogarmania).",
+  "Plus épaisse pour le pique-nique, avec plus de pommes de terre, et mangée froide (Spain.info)."
+ ],
+ "sources": [
+  {
+   "name": "Spain.info, « Tortilla de patata » (recette espagnole pour 4)",
+   "url": "https://www.spain.info/es/receta/tortilla-patata/",
+   "used_for": "4 pommes de terre moyennes, 4 ou 5 œufs, 1 oignon moyen, ¼ l d'huile d'olive, sel ; rondelles fines cuites lentement à feu moyen avec l'oignon, en remuant à l'écumoire, environ 10 minutes, puis égouttées ; œufs battus avec un peu de sel ; un peu d'huile gardée ; feu doux à couvert 5 à 10 minutes ; retournée avec un couvercle ; dorée des deux côtés ; chaude ou froide ; plus de pommes de terre pour l'emporter ; cuisson 1 heure."
+  },
+  {
+   "name": "Directo al Paladar (Pakus), « Empezando en la cocina: receta de tortilla de patatas con cebolla », mis à jour le 16 septembre 2026",
+   "url": "https://www.directoalpaladar.com/recetas-de-huevos-y-tortillas/empezando-en-la-cocina-receta-de-tortilla-de-patatas-con-cebolla",
+   "used_for": "Pour 4 : 700 g de pommes de terre, 300 g d'oignon, 6 œufs ; oignon fondu à part environ 30 minutes ; huile presque froide pour confire ; environ 10 minutes ; bien égoutter ; une cuillère d'huile, 3 à 4 minutes ; poêle double ; salade composée ou poivrons verts frits ; froide en sandwich ; préparation 30 min, cuisson 15 min ; difficulté moyenne."
+  },
+  {
+   "name": "Directo al Paladar (Carmen Tía Alia), « Tortilla de patatas al estilo de Betanzos », 24 mai 2022",
+   "url": "https://www.directoalpaladar.com/recetas-de-huevos-y-tortillas/tortilla-al-estilo-betanzos-receta-casera-este-gran-clasico-cocina-gallega",
+   "used_for": "Pour 4 : 4 pommes de terre moyennes (350 g), 5 gros œufs, 250 ml d'huile d'olive, sel ; seulement œuf, pomme de terre et sel ; œufs remués sans air ; égouttage, repos de quelques minutes ; poêle de 22 cm, 1 minute par face ; repos avant de couper ; salade verte ou tomate ; préparation 30 min, cuisson 35 min."
+  },
+  {
+   "name": "Directo al Paladar (Liliana Fuchs), « Cuántos huevos hay que echar a la tortilla de patatas para que salga perfecta y jugosa », 10 mars 2022",
+   "url": "https://www.directoalpaladar.com/recetas-de-huevos-y-tortillas/cuantos-huevos-hay-que-echar-a-tortilla-patatas-salga-perfecta-jugosa",
+   "used_for": "Proportions des chefs (Arguiñano 600 g et 6 œufs, ou 750 g et 6 œufs ; David de Jorge et Dani García 1 kg et 8 œufs) ; 600 à 750 g et 6 à 8 œufs pour 4 à 6 ; environ 100 g de pomme de terre par œuf ; plus d'œuf pour une tortilla juteuse ; trop peu d'œuf donne un bloc sec."
+  },
+  {
+   "name": "Directo al Paladar (Miguel Ayuso Rejas), « La tortilla de patatas ¿con o sin cebolla? Esto es lo que opinan los 14 chefs más populares de España », 25 mai 2022",
+   "url": "https://www.directoalpaladar.com/cultura-gastronomica/tortilla-patatas-cebolla-esto-que-opinan-14-chefs-populares-espana",
+   "used_for": "Arguments pour et contre l'oignon ; préférence pour l'oignon d'environ 3 contre 1 dans les sondages informels ; chefs sans oignon (Dabiz Muñoz, Dani García, Ferran Adrià, Ángel León) et avec (Arguiñano, Berasategui, José Andrés, Joan Roca, Chicote, Mario Sandoval) ; recette d'Arguiñano avec un poivron vert."
+  },
+  {
+   "name": "Directo al Paladar (Miguel Ayuso Rejas), « El 70% de los españoles prefiere la tortilla de patatas con cebolla. Lo dice el CIS », 15 septembre 2023",
+   "url": "https://www.directoalpaladar.com/actualidad-1/70-espanoles-prefieren-tortilla-patatas-cebolla-dice-cis",
+   "used_for": "Enquête du CIS de 2023 : 70,4 % pour l'oignon ; 53,9 % la veulent peu cuite, 26,9 % très cuite."
+  },
+  {
+   "name": "Directo al Paladar (Jaime de las Heras), « La regla 6-3-1 de Karlos Arguiñano para hacer la tortilla de patatas perfecta », 18 mai 2024",
+   "url": "https://www.directoalpaladar.com/cultura-gastronomica/regla-6-3-1-karlos-arguinano-para-hacer-tortilla-patatas-perfecta-1",
+   "used_for": "Règle 6-3-1 (6 œufs, 3 pommes de terre, 1 oignon), aussi suivie par Mario Sandoval ; Betanzos très liquide ; chaude, tiède ou froide selon les goûts."
+  },
+  {
+   "name": "Directo al Paladar, « Betanzos prohíbe oficialmente la cebolla en su célebre tortilla de patatas », 11 octobre 2018",
+   "url": "https://www.directoalpaladar.com/cultura-gastronomica/betanzos-prohibe-oficialmente-cebolla-su-celebre-tortilla-patatas",
+   "used_for": "Tortilla de Betanzos : œuf, pomme de terre et sel, sans oignon, très juteuse ; la mairie veut rester fidèle à « pommes de terre, huile, œuf et sel »."
+  },
+  {
+   "name": "Hogarmania (Marisol Mattos), « La curiosa fórmula 7-3-4-1-1 para hacer la tortilla de patatas perfecta según Joseba Arguiñano », 8 août 2024",
+   "url": "https://www.hogarmania.com/cocina/escuela-cocina/formula-para-la-tortilla-de-patatas-perfecta.html",
+   "used_for": "4 pommes de terre ; légumes cuits à feu doux ; égouttés, huile gardée ; œufs battus et salés ; repos de 3 à 4 minutes ; poêle avec un peu d'huile d'olive ; retournée avec une assiette ; variante 7-3-4-1-1 au poireau."
+  },
+  {
+   "name": "Wikipédia en espagnol, « Tortilla de patatas », consulté le 8 novembre 2026",
+   "url": "https://es.wikipedia.org/wiki/Tortilla_de_patatas",
+   "used_for": "Un des plats les plus connus d'Espagne ; premières traces écrites (1767, 1798 à Villanueva de la Serena, 1817 en Navarre) ; oignon, ajout le plus courant ; pommes de terre plus cuites que frites, laissées dans l'œuf battu ; œuf bien pris ou à moitié pris ; en plat, tapa, pincho ou sandwich ; enquête du CIS de 2023 (70,4 % pour l'oignon, 20,9 % contre, majorité pour une tortilla peu cuite)."
+  },
+  {
+   "name": "Wikipédia en arabe, « طورطية البطاطا », consulté le 8 novembre 2026",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D8%B1%D8%B7%D9%8A%D8%A9_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B7%D8%A7",
+   "used_for": "Nom arabe du plat (aussi appelé « العجة الإسبانية », l'omelette espagnole) ; plat très courant en Espagne, souvent fait à la maison pour un dîner léger."
+  },
+  {
+   "name": "Comunidad de Madrid (santé publique), « Precauciones con las tortillas », mis à jour le 11 août 2026",
+   "url": "https://www.comunidad.madrid/salud/precauciones-tortillas",
+   "used_for": "Salmonelle : bien cuire l'œuf, surtout l'été ; tortilla peu prise = risque, œufs pasteurisés conseillés ; à manger tout de suite ou au frigo ; jamais servie dans l'assiette qui a servi à la retourner ; pas pour les femmes enceintes, les personnes âgées, les très jeunes enfants et les personnes fragiles si l'œuf reste cru ; à jeter après 2 jours ; œufs à coquille intacte, au frigo, non lavés, pas cassés sur le bord d'une assiette ; règle des bars : 63 °C pendant 20 secondes au centre et service immédiat, ou 70 °C pendant 2 secondes."
+  },
+  {
+   "name": "FDA (agence sanitaire américaine), « What You Need to Know About Egg Safety », contenu à jour au 5 mars 2024",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+   "used_for": "Cuire les œufs jusqu'à ce que blanc et jaune soient fermes ; plats aux œufs à 160 °F (71 °C, conversion python3 -I) ; pas plus de 2 heures hors du frigo ; restes à manger dans les 3 à 4 jours ; enfants, personnes âgées, femmes enceintes et personnes immunodéprimées plus à risque."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « How to chill, freeze and defrost food safely », GOV.UK, 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Frigo entre 0 et 5 °C ; restes au frigo dans les 1 à 2 heures ; à manger dans les 2 jours."
+  }
+ ],
+ "discrepancies": [
+  "Pommes de terre : 4 moyennes (Spain.info ; Directo al Paladar, Betanzos ; Hogarmania), 700 g (Directo al Paladar), 600 ou 750 g (Arguiñano), 1 kg (David de Jorge, Dani García), ces trois derniers d'après Directo al Paladar. Retenu : 4 moyennes, trois sources d'accord ; « environ 700 g » vient de Directo al Paladar.",
+  "Œufs pour 4 : 4 ou 5 (Spain.info), 5 gros (Directo al Paladar, Betanzos), 6 (Directo al Paladar ; Arguiñano et Mario Sandoval, d'après Directo al Paladar), 7 et 3 jaunes (Hogarmania), 8 pour 1 kg, soit 5,6 pour 700 g (David de Jorge, Dani García). Retenu : 6, la médiane (calcul python3 -I). Cela fait 117 g de pomme de terre par œuf, entre les 100 et 125 g des recettes citées par Directo al Paladar.",
+  "Oignon : 1 moyen (Spain.info), 1 (Hogarmania ; Arguiñano, « petit », et Mario Sandoval, d'après Directo al Paladar), 300 g (Directo al Paladar), 150 g de cébette (David de Jorge), aucun (Betanzos ; Dabiz Muñoz, Dani García…). Retenu : 1 oignon moyen, facultatif.",
+  "Huile : ¼ l (Spain.info) et 250 ml (Directo al Paladar, Betanzos), « abondante » (Directo al Paladar) ; huile de tournesol pour Joseba Arguiñano (Hogarmania) ; olive ou tournesol (Wikipédia en espagnol). Retenu : 250 ml d'huile d'olive, la valeur de deux sources.",
+  "Oignon cuit dans la même poêle que les pommes de terre (Spain.info ; Hogarmania, qui le met avant) ou fondu à part (Directo al Paladar ; Alberto Chicote). Retenu : dans la même poêle, le plus simple ; à part en variante.",
+  "Cuisson des pommes de terre : environ 10 minutes (Spain.info ; Directo al Paladar), 15 minutes puis 3 minutes à feu plus vif, en petits dés (Hogarmania). Retenu : 10 minutes, la médiane, avec la consigne de vérifier qu'elles sont tendres.",
+  "Première face : 5 à 10 minutes à feu doux, à couvert (Spain.info), 3 à 4 minutes (Directo al Paladar), 1 minute (Betanzos, Directo al Paladar), « brièvement » (Hogarmania). Retenu : environ 5 minutes, jusqu'à ce que le dessous soit doré ; pas de minuteur, faute de durée commune.",
+  "Cuisson de l'œuf : bien prise et dorée des deux côtés (Spain.info) ; plus ou moins prise, au goût (Directo al Paladar ; Wikipédia en espagnol) ; très baveuse à Betanzos. Les autorités sanitaires demandent un œuf ferme (FDA) et bien pris l'été, avec des œufs pasteurisés si on la veut peu prise (Comunidad de Madrid). Retenu : bien prise par défaut ; baveuse en variante, avec ces précautions.",
+  "Température à cœur : 160 °F, soit 71 °C, pour les plats aux œufs (FDA ; conversion python3 -I) ; 70 °C pendant 2 secondes, ou 63 °C pendant 20 secondes avec service immédiat (règle des bars et restaurants, Comunidad de Madrid). Retenu : au moins 71 °C, la valeur la plus prudente.",
+  "Œufs versés sur les pommes de terre (Directo al Paladar, « Cuántos huevos ») ou pommes de terre ajoutées aux œufs (Spain.info ; Directo al Paladar, Betanzos ; Hogarmania). Retenu : la majorité, pommes de terre dans les œufs.",
+  "Œufs battus après la cuisson des pommes de terre (Spain.info) ou pendant (Directo al Paladar, Betanzos). Retenu : juste avant de cuire les pommes de terre, pour que les étapes s'enchaînent dans l'appli.",
+  "Conservation des restes : 2 jours (Comunidad de Madrid ; FSA), 3 à 4 jours (FDA). Retenu : 2 jours, la règle la plus prudente.",
+  "Temps : préparation 30 minutes (Directo al Paladar, deux recettes) ; cuisson 1 heure (Spain.info), 15 minutes (Directo al Paladar) ou 35 minutes (Directo al Paladar, Betanzos). Retenu : 30 et 35 minutes, la médiane (calcul python3 -I).",
+  "Halal : la recette n'a ni viande ni alcool. Les variantes au chorizo et au jambon citées par Wikipédia en espagnol ne sont pas reprises.",
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
+ ],
+ "unverified": [
+  "Site du CIS : l'ancien lien de son étude 3419 (2023) renvoie une erreur 404. Les chiffres de l'enquête viennent de Directo al Paladar et de Wikipédia en espagnol, pas du CIS lui-même.",
+  "Les livres de Karlos Arguiñano n'ont pas été lus : ses proportions (règle 6-3-1, 600 ou 750 g de pommes de terre) et son poivron vert viennent de Directo al Paladar.",
+  "Les avis des chefs (Dabiz Muñoz, Dani García, Ferran Adrià, Joan Roca, Alberto Chicote…) sont rapportés par Directo al Paladar ; non vérifiés à la source.",
+  "RTVE refuse l'accès à l'agent d'Anthropic, et le robots.txt d'El País (El Comidista) interdit ClaudeBot et Claude-User : non utilisés.",
+  "Rapport de l'AESAN (agence espagnole de sécurité alimentaire) sur la cuisson des œufs : non lu. Les règles des 63 °C et 70 °C viennent de la Comunidad de Madrid.",
+  "Poids d'une pomme de terre moyenne : non standard. « Environ 700 g » pour 4 vient d'une seule source (Directo al Paladar).",
+  "Durée de cuisson de chaque face : aucune durée commune aux sources, donc pas de minuteur.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide. Le nom arabe vient de Wikipédia en arabe.",
+  "Avis de l'ONSSA (Maroc) sur les œufs peu cuits : non consulté.",
+  "Taille de la poêle : seule Directo al Paladar la donne (22 cm, pour la tortilla de Betanzos)."
+ ],
+ "cuisine": "Espagnole",
+ "rayon": "D'ailleurs",
+ "img_alt": "Tortilla de patatas entière et dorée, sur une assiette",
+ "img": "img/tortilla-espagnole.jpg",
+ "photo": {
+  "author": "Juan Emilio Prades Bel",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tortilla_Espa%C3%B1ola.jpg",
+  "modified": "réduite"
+ }
+});

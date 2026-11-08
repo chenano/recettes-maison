@@ -140,7 +140,7 @@
   },
   "steps.2.timer.done": {
    "fr": "Pâte lisse, souple et élastique ? Passe aux boules. Sinon, pétris encore jusqu'à 5 minutes.",
-   "t": "Dough smooth, supple and elastic? Move on to the balls. If not, knead for up to 5 minutes more."
+   "t": "Dough smooth, supple and elastic? Move on to shaping the balls. If not, knead for up to 5 minutes more."
   },
   "steps.2.img.alt": {
    "fr": "Mains qui pétrissent une pâte",
@@ -155,8 +155,8 @@
    "t": "Shape the balls"
   },
   "steps.3.text": {
-   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
-   "t": "Divide the dough into equal balls, one per loaf, nice and smooth on top. Place them on the tray, well apart: flattened to 6 mm, each ball will make a disc 27 to 30 cm across. If two discs of this size do not fit side by side on your tray (it needs to be at least 55 cm long), put one ball per tray."
+   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 60 cm de long), mets une boule par plaque.",
+   "t": "Divide the dough into equal balls, one per loaf, nice and smooth on top. Place them on the tray, well apart: flattened to 6 mm, each ball will make a disc 27 to 30 cm across. If two discs of this size do not fit side by side on your tray (it needs to be at least 60 cm long), put one ball per tray."
   },
   "steps.4.title": {
    "fr": "Repos sous un torchon",
@@ -195,8 +195,8 @@
    "t": "Loaves rising"
   },
   "steps.6.timer.done": {
-   "fr": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
-   "t": "Press lightly with a fingertip: if the dough springs back into shape, it is ready. If not, wait a little longer."
+   "fr": "Appuie légèrement du bout du doigt : si le creux remonte lentement, c'est prêt. S'il remonte tout de suite, attends encore un peu ; s'il ne remonte pas du tout, la pâte a trop levé.",
+   "t": "Press lightly with a fingertip: if the dent springs back slowly, it is ready. If it springs back straight away, wait a little longer; if it doesn't spring back at all, the dough has risen too much."
   },
   "steps.7.title": {
    "fr": "Piquer et humidifier",
@@ -228,7 +228,7 @@
   },
   "steps.9.text": {
    "fr": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
-   "t": "To bake it at the ferran, the neighbourhood oven: from the ball stage, place the balls on a bread board dusted with semolina instead of the tray, flatten them and leave them to rise on it under a tea towel, then take the board to the oven. The oven keeper (terrah) bakes them over a wood fire, for about 20 minutes. He recognises each family's loaves from memory, by the order in which he arranged them, by the board and by the tea towel."
+   "t": "To bake it at the ferran, the neighbourhood oven: from the ball stage, place the balls on a bread board dusted with semolina instead of the tray, flatten them and leave them to rise on it under a tea towel, then take the board to the oven. The oven keeper (terrah) bakes them in the wood-fired oven, for about 20 minutes. He recognises each family's loaves from memory, by the order in which he arranged them, by the board and by the tea towel."
   },
   "steps.9.img.alt": {
    "fr": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
@@ -320,7 +320,7 @@
   },
   "secrets.7.text": {
    "fr": "Si tu préfères une entaille au couteau, reste léger : trop profonde, le pain monte trop à cet endroit. La fourchette, un pain plus plat ou un peu moins de levure évitent ce défaut.",
-   "t": "If you prefer to score it with a knife, keep it light: too deep, and the bread rises too much at that spot. A fork, a flatter loaf or a little less yeast avoid this problem."
+   "t": "If you prefer to score it with a knife, keep it light: too deep, and the bread rises too much at that spot. A fork, a flatter loaf or a little less yeast will prevent this problem."
   },
   "secrets.7.source": {
    "fr": "Taste of Maroc",

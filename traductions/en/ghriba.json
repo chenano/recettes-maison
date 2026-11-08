@@ -1,0 +1,466 @@
+{
+ "_slug": "ghriba",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Ghriba aux amandes, craquelée au sucre glace",
+   "t": "Almond ghriba, crackled with icing sugar"
+  },
+  "darija": {
+   "fr": "ghrieba d'ellouz ; on dit aussi mlewza ou mlouza",
+   "t": "ghrieba d'ellouz; also called mlewza or mlouza"
+  },
+  "tagline": {
+   "fr": "Des boules de pâte d'amandes roulées dans le sucre glace : elles craquellent au four, restent moelleuses dedans et accompagnent le thé des jours de fête.",
+   "t": "Balls of almond paste rolled in icing sugar: they crackle in the oven, stay soft inside and go with tea on festive days."
+  },
+  "region": {
+   "fr": "Maroc ; Wikipédia (fr) cite la mlouwza (ou mlawza), ghriba aux amandes, parmi les ghriba marocaines",
+   "t": "Morocco; French Wikipedia lists mlouwza (or mlawza), almond ghriba, among the Moroccan ghriba"
+  },
+  "occasion": {
+   "fr": "Aïd al-Fitr, mariages et fêtes, thé pour les invités",
+   "t": "Eid al-Fitr, weddings and celebrations, tea for guests"
+  },
+  "img_alt": {
+   "fr": "Ghriba aux amandes craquelée et poudrée de sucre glace",
+   "t": "Crackled almond ghriba dusted with icing sugar"
+  },
+  "serving": {
+   "fr": "Avec un thé à la menthe (Cooking with Alia ; Wikipédia fr : thé à la menthe ou café), surtout pour l'Aïd, les fêtes et les invités (Choumicha ; Lalla Moulati ; Taste of Maroc, qui la voit à chaque mariage). Conservation, selon Taste of Maroc (seule source lue sur ce point) : deux bonnes semaines dans une boîte hermétique, avec du papier entre les couches ; plusieurs mois au congélateur, bien fermée ; 15 minutes à température ambiante avant de servir.",
+   "t": "With mint tea (Cooking with Alia; French Wikipedia: mint tea or coffee), especially for Eid, celebrations and guests (Choumicha; Lalla Moulati; Taste of Maroc, who sees it at every wedding). Storage, according to Taste of Maroc (the only source read on this point): a good two weeks in an airtight container, with paper between the layers; several months in the freezer, tightly sealed; 15 minutes at room temperature before serving."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Dough"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (blanchies et pelées), bien sèches",
+   "t": "blanched almonds (scalded and skinned), thoroughly dried"
+  },
+  "ing.amandes.note": {
+   "fr": "entières : pas de poudre d'amandes toute prête",
+   "t": "whole: not ready-made ground almonds"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule",
+   "t": "caster sugar"
+  },
+  "ing.mastic.name": {
+   "fr": "de mastic en grains (meska)",
+   "t": "mastic grains (meska)"
+  },
+  "ing.mastic.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.jaunes.name": {
+   "fr": "jaune d'œuf",
+   "t": "egg yolk"
+  },
+  "ing.jaunes.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "egg yolks"
+  },
+  "ing.jaunes.note": {
+   "fr": "œufs moyens ; garde les blancs pour une autre recette",
+   "t": "from medium eggs; keep the whites for another recipe"
+  },
+  "ing.oeuf.name": {
+   "fr": "œuf entier moyen",
+   "t": "medium whole egg"
+  },
+  "ing.oeuf.pl": {
+   "fr": "œufs entiers moyens",
+   "t": "medium whole eggs"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron.note": {
+   "fr": "pour son zeste râpé",
+   "t": "for its grated zest"
+  },
+  "ing.levure.name": {
+   "fr": "de levure chimique",
+   "t": "baking powder"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre fondu et refroidi",
+   "t": "melted butter, cooled"
+  },
+  "ing.1.group": {
+   "fr": "Pour façonner",
+   "t": "For shaping"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "Sucre glace, pour enrober",
+   "t": "Icing sugar, for coating"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "Eau de fleur d'oranger (ou eau), pour les mains",
+   "t": "Orange blossom water (or water), for your hands"
+  },
+  "equipment.0": {
+   "fr": "Un four et deux plaques de four",
+   "t": "An oven and two baking trays"
+  },
+  "equipment.1": {
+   "fr": "Du papier cuisson",
+   "t": "Baking paper"
+  },
+  "equipment.2": {
+   "fr": "Un robot mixeur puissant (ou un moulin à amandes)",
+   "t": "A powerful food processor (or an almond grinder)"
+  },
+  "equipment.3": {
+   "fr": "Un saladier et un bol",
+   "t": "A mixing bowl and a small bowl"
+  },
+  "equipment.4": {
+   "fr": "Une fourchette ou un petit fouet",
+   "t": "A fork or a small whisk"
+  },
+  "equipment.5": {
+   "fr": "Une râpe fine",
+   "t": "A fine grater"
+  },
+  "equipment.6": {
+   "fr": "Un mortier et un pilon (ou le dos d'un verre), pour le mastic",
+   "t": "A mortar and pestle (or the back of a glass), for the mastic"
+  },
+  "equipment.7": {
+   "fr": "Une assiette creuse pour le sucre glace",
+   "t": "A deep plate for the icing sugar"
+  },
+  "equipment.8": {
+   "fr": "Un petit bol d'eau de fleur d'oranger (ou d'eau) pour les mains",
+   "t": "A small bowl of orange blossom water (or water) for your hands"
+  },
+  "equipment.9": {
+   "fr": "Une casserole et un torchon propre, si les amandes ne sont pas mondées",
+   "t": "A saucepan and a clean tea towel, if the almonds are not already skinned"
+  },
+  "equipment.10": {
+   "fr": "Une boîte hermétique",
+   "t": "An airtight container"
+  },
+  "steps.0.title": {
+   "fr": "Monder les amandes, si besoin",
+   "t": "Skin the almonds, if needed"
+  },
+  "steps.0.text": {
+   "fr": "Si tes amandes ont encore leur peau, plonge-les 1 à 2 minutes dans de l'eau bouillante. Égoutte-les, puis pèle-les en les pinçant entre tes doigts. Sèche-les très bien dans un torchon propre.",
+   "t": "If your almonds still have their skins, drop them into boiling water for 1 to 2 minutes. Drain them, then peel them by pinching them between your fingers. Dry them very well in a clean tea towel."
+  },
+  "steps.0.tip": {
+   "fr": "Pour beaucoup d'amandes, frotte-les fort dans un torchon pour enlever la peau (Cooking with Alia). Elles doivent être bien sèches avant d'être moulues (Taste of Maroc).",
+   "t": "For a lot of almonds, rub them hard in a tea towel to remove the skins (Cooking with Alia). They must be completely dry before they are ground (Taste of Maroc)."
+  },
+  "steps.1.title": {
+   "fr": "Préparer le four et les plaques",
+   "t": "Prepare the oven and the trays"
+  },
+  "steps.1.text": {
+   "fr": "Préchauffe le four à 180 °C. Couvre deux plaques de papier cuisson. Verse du sucre glace dans une assiette creuse.",
+   "t": "Preheat the oven to 180 °C. Line two baking trays with baking paper. Pour some icing sugar into a deep plate."
+  },
+  "steps.2.title": {
+   "fr": "Piler le mastic",
+   "t": "Pound the mastic"
+  },
+  "steps.2.text": {
+   "fr": "Si tu en mets, pile {{mastic}} de mastic avec une petite cuillerée du sucre semoule, au mortier ou avec le dos d'un verre, jusqu'à obtenir une poudre.",
+   "t": "If you are using it, pound {{mastic}} of mastic with a small spoonful of the caster sugar, in the mortar or with the back of a glass, until you have a powder."
+  },
+  "steps.2.tip": {
+   "fr": "Le sucre empêche le mastic de coller (Taste of Maroc).",
+   "t": "The sugar stops the mastic from sticking (Taste of Maroc)."
+  },
+  "steps.3.title": {
+   "fr": "Moudre les amandes avec le sucre",
+   "t": "Grind the almonds with the sugar"
+  },
+  "steps.3.text": {
+   "fr": "Mixe {{amandes}} d'amandes avec le reste des {{sucre}} de sucre semoule, {{sel}} de sel et le mastic pilé, jusqu'à obtenir une pâte d'amandes lisse, ou presque.",
+   "t": "Blend {{amandes}} of almonds with the rest of the {{sucre}} of caster sugar, {{sel}} of salt and the pounded mastic, until you have a smooth, or almost smooth, almond paste."
+  },
+  "steps.3.tip": {
+   "fr": "Lalla Moulati moud deux fois les amandes avec le sucre.",
+   "t": "Lalla Moulati grinds the almonds with the sugar twice."
+  },
+  "steps.4.title": {
+   "fr": "Préparer le mélange aux œufs",
+   "t": "Make the egg mixture"
+  },
+  "steps.4.text": {
+   "fr": "Dans un bol, bats légèrement {{jaunes:full}} et {{oeuf:full}}. Râpe au-dessus le zeste de {{citron:full}}. Ajoute {{levure}} de levure chimique et {{beurre}} de beurre fondu, puis mélange.",
+   "t": "In a small bowl, lightly beat {{jaunes:full}} and {{oeuf:full}}. Grate the zest of {{citron:full}} over the top. Add {{levure}} of baking powder and {{beurre}} of melted butter, then mix."
+  },
+  "steps.5.title": {
+   "fr": "Former la pâte",
+   "t": "Form the dough"
+  },
+  "steps.5.text": {
+   "fr": "Verse ce mélange sur la pâte d'amandes. Mélange à la main, juste assez pour obtenir une pâte homogène et souple, sans grumeaux, qui tient en boule. Ne la travaille pas trop.",
+   "t": "Pour this mixture over the almond paste. Mix by hand, just enough to get an even, supple dough with no lumps that holds together in a ball. Do not overwork it."
+  },
+  "steps.5.tip": {
+   "fr": "Taste of Maroc cuit d'abord quelques ghriba d'essai, puis ajuste la pâte si besoin avant de façonner les autres.",
+   "t": "Taste of Maroc first bakes a few test ghriba, then adjusts the dough if needed before shaping the rest."
+  },
+  "steps.6.title": {
+   "fr": "Façonner les boules",
+   "t": "Shape the balls"
+  },
+  "steps.6.text": {
+   "fr": "Mouille-toi légèrement les mains avec de la fleur d'oranger ou de l'eau. Forme des boules lisses de la taille d'une noix, d'environ 3 cm.",
+   "t": "Lightly wet your hands with orange blossom water or plain water. Shape smooth, walnut-sized balls, about 3 cm across."
+  },
+  "steps.6.tip": {
+   "fr": "Si la pâte colle, rince-toi les mains et garde-les juste humides (Taste of Maroc).",
+   "t": "If the dough sticks, rinse your hands and keep them just damp (Taste of Maroc)."
+  },
+  "steps.7.title": {
+   "fr": "Rouler dans le sucre glace",
+   "t": "Roll in the icing sugar"
+  },
+  "steps.7.text": {
+   "fr": "Roule chaque boule dans le sucre glace, pour bien couvrir le dessus et les côtés.",
+   "t": "Roll each ball in the icing sugar, to coat the top and sides well."
+  },
+  "steps.8.title": {
+   "fr": "Disposer sur les plaques",
+   "t": "Arrange on the trays"
+  },
+  "steps.8.text": {
+   "fr": "Pose les boules sur les plaques, en laissant au moins 8 cm entre elles. Appuie un peu au centre avec le pouce, sans trop les aplatir.",
+   "t": "Place the balls on the trays, leaving at least 8 cm between them. Press the centre lightly with your thumb, without flattening them too much."
+  },
+  "steps.9.title": {
+   "fr": "Cuire une plaque 12 minutes",
+   "t": "Bake one tray for 12 minutes"
+  },
+  "steps.9.text": {
+   "fr": "Enfourne une plaque au milieu du four, à 180 °C, pendant 12 minutes. Les ghriba sont prêtes quand le dessus est craquelé et reste clair. Si besoin, laisse-les encore 2 ou 3 minutes. Cuis ensuite la deuxième plaque de la même façon.",
+   "t": "Put one tray in the middle of the oven, at 180 °C, for 12 minutes. The ghriba are ready when the tops are crackled and still pale. If needed, leave them for another 2 or 3 minutes. Then bake the second tray the same way."
+  },
+  "steps.9.tip": {
+   "fr": "Dans un four classique sans chaleur tournante, Taste of Maroc commence en haut du four, gril allumé, environ 5 minutes, jusqu'à ce que le dessus craquelle, puis descend la plaque pour finir : 15 à 18 minutes en tout. Lalla Moulati cuit aussi d'abord par le haut, puis par le bas.",
+   "t": "In a conventional oven without a fan, Taste of Maroc starts at the top of the oven with the grill on, for about 5 minutes, until the tops crackle, then moves the tray lower to finish: 15 to 18 minutes in all. Lalla Moulati also bakes with heat from the top first, then from the bottom."
+  },
+  "steps.9.timer.label": {
+   "fr": "Cuisson des ghriba",
+   "t": "Baking the ghriba"
+  },
+  "steps.9.timer.done": {
+   "fr": "Le dessus est craquelé et encore clair ? Sors la plaque. Sinon, laisse-la encore 2 ou 3 minutes.",
+   "t": "Are the tops crackled and still pale? Take the tray out. If not, leave it for another 2 or 3 minutes."
+  },
+  "steps.10.title": {
+   "fr": "Laisser refroidir sur la plaque",
+   "t": "Leave to cool on the tray"
+  },
+  "steps.10.text": {
+   "fr": "Laisse refroidir complètement les ghriba sur la plaque avant de les décoller. Chaudes, elles sont encore molles ; elles se raffermissent en refroidissant et restent moelleuses dedans.",
+   "t": "Let the ghriba cool completely on the tray before lifting them off. While warm, they are still soft; they firm up as they cool and stay soft inside."
+  },
+  "steps.11.title": {
+   "fr": "Ranger et servir",
+   "t": "Store and serve"
+  },
+  "steps.11.text": {
+   "fr": "Range-les dans une boîte hermétique, avec une feuille de papier cuisson entre chaque couche pour ne pas abîmer le sucre glace. Sers-les avec un thé à la menthe.",
+   "t": "Store them in an airtight container, with a sheet of baking paper between each layer so as not to spoil the icing sugar. Serve them with mint tea."
+  },
+  "secrets.0.text": {
+   "fr": "Mouds toi-même des amandes mondées entières et bien sèches, avec le sucre. Taste of Maroc déconseille la poudre d'amandes toute prête.",
+   "t": "Grind whole, skinned, thoroughly dried almonds yourself, with the sugar. Taste of Maroc advises against ready-made ground almonds."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha et Lalla Moulati moulent aussi les amandes avec le sucre",
+   "t": "Taste of Maroc; Choumicha and Lalla Moulati also grind the almonds with the sugar"
+  },
+  "secrets.1.text": {
+   "fr": "Le mastic (meska) est l'ingrédient secret qui donne à cette ghriba son goût délicat. Pile-le avec un peu de sucre.",
+   "t": "Mastic (meska) is the secret ingredient that gives this ghriba its delicate flavour. Pound it with a little sugar."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi.net et Lalla Moulati en mettent une pincée",
+   "t": "Taste of Maroc (Nada Kiffa); Bladi.net and Lalla Moulati use a pinch"
+  },
+  "secrets.2.text": {
+   "fr": "Prends des œufs moyens : leur taille change la pâte. Mets juste ce qu'il faut d'œufs pour lier la pâte.",
+   "t": "Use medium eggs: their size changes the dough. Add just enough egg to bind the dough."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (n° 65048 : 2 œufs au lieu de 3 s'ils sont gros)",
+   "t": "Taste of Maroc; Lalla Moulati (no. 65048: 2 eggs instead of 3 if they are large)"
+  },
+  "secrets.3.text": {
+   "fr": "Mélange juste assez : ne travaille pas trop la pâte.",
+   "t": "Mix just enough: do not overwork the dough."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.4.text": {
+   "fr": "Mouille-toi les mains pour façonner, avec de la fleur d'oranger ou de l'eau : la pâte colle moins.",
+   "t": "Wet your hands for shaping, with orange blossom water or plain water: the dough sticks less."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati ; Cooking with Alia ; Taste of Maroc (à l'eau)",
+   "t": "Lalla Moulati; Cooking with Alia; Taste of Maroc (with water)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais des boules lisses de la taille d'une noix, environ 3 cm.",
+   "t": "Make smooth, walnut-sized balls, about 3 cm across."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati ; Cooking with Alia",
+   "t": "Taste of Maroc; Lalla Moulati; Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Roule-les bien dans le sucre glace, sur le dessus et sur les côtés.",
+   "t": "Roll them well in the icing sugar, on the top and sides."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; toutes les recettes lues roulent la ghriba dans le sucre glace",
+   "t": "Taste of Maroc; every recipe read rolls the ghriba in icing sugar"
+  },
+  "secrets.7.text": {
+   "fr": "Espace bien les boules sur la plaque, d'au moins 8 cm.",
+   "t": "Space the balls well apart on the tray, at least 8 cm."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (3 pouces) ; Choumicha les espace aussi",
+   "t": "Taste of Maroc (3 inches); Choumicha spaces them out too"
+  },
+  "secrets.8.text": {
+   "fr": "Appuie légèrement au centre avec le pouce, sans trop aplatir.",
+   "t": "Press the centre lightly with your thumb, without flattening too much."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc; Cooking with Alia; Lalla Moulati"
+  },
+  "secrets.9.text": {
+   "fr": "Ne les cuis pas trop : le sucre glace ne doit presque pas colorer. Chaudes, elles sont molles ; elles se raffermissent en refroidissant.",
+   "t": "Do not overbake them: the icing sugar should barely colour. While warm, they are soft; they firm up as they cool."
+  },
+  "secrets.9.source": {
+   "fr": "Lalla Moulati ; Cooking with Alia",
+   "t": "Lalla Moulati; Cooking with Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Laisse-les refroidir complètement sur la plaque avant de les décoller.",
+   "t": "Let them cool completely on the tray before lifting them off."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha (trois recettes) ; Lalla Moulati",
+   "t": "Choumicha (three recipes); Lalla Moulati"
+  },
+  "secrets.11.text": {
+   "fr": "Cuis d'abord quelques ghriba d'essai, et ajuste la pâte si les craquelures ne te plaisent pas.",
+   "t": "Bake a few test ghriba first, and adjust the dough if you are not happy with the cracks."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.12.text": {
+   "fr": "Range-les avec une feuille de papier entre les couches, pour garder le sucre glace intact.",
+   "t": "Store them with a sheet of paper between the layers, to keep the icing sugar intact."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.13.text": {
+   "fr": "Les blancs d'œufs qui restent peuvent servir : Bladi.net et Lalla Moulati trempent les boules dans le blanc d'œuf avant de les rouler dans le sucre glace.",
+   "t": "The leftover egg whites can be put to use: Bladi.net and Lalla Moulati dip the balls in egg white before rolling them in the icing sugar."
+  },
+  "secrets.13.source": {
+   "fr": "Bladi.net ; Lalla Moulati (n° 61802)",
+   "t": "Bladi.net; Lalla Moulati (no. 61802)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre de la poudre d'amandes du commerce au lieu d'amandes entières moulues (Taste of Maroc).",
+   "t": "Using shop-bought ground almonds instead of ground whole almonds (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Moudre des amandes encore humides après les avoir mondées : sèche-les bien (Taste of Maroc ; Lalla Moulati ; Cooking with Alia).",
+   "t": "Grinding almonds that are still damp after skinning them: dry them well (Taste of Maroc; Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Trop travailler la pâte (Taste of Maroc).",
+   "t": "Overworking the dough (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Serrer les boules sur la plaque : espace-les (Taste of Maroc ; Choumicha).",
+   "t": "Crowding the balls on the tray: space them out (Taste of Maroc; Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Trop cuire les ghriba : le sucre ne doit presque pas colorer (Lalla Moulati ; Cooking with Alia).",
+   "t": "Overbaking the ghriba: the sugar should barely colour (Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Les décoller de la plaque encore chaudes, quand elles sont molles (Choumicha ; Lalla Moulati ; Cooking with Alia).",
+   "t": "Lifting them off the tray while still warm, when they are soft (Choumicha; Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.6": {
+   "fr": "Empiler les ghriba sans papier entre les couches : le sucre glace s'abîme (Taste of Maroc).",
+   "t": "Stacking the ghriba without paper between the layers: the icing sugar gets spoiled (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Ajouter de l'extrait d'amande alcoolisé : Taste of Maroc le propose en option ; la recette s'en passe, pour rester halal.",
+   "t": "Adding alcohol-based almond extract: Taste of Maroc offers it as an option; this recipe leaves it out, to stay halal."
+  },
+  "variants.0": {
+   "fr": "Mlewza de Taste of Maroc (Nada Kiffa) : 500 g d'amandes, 200 g de sucre semoule, 1 œuf et 1 jaune, 2 c. à s. de beurre, 2 c. à s. de confiture d'abricots filtrée pour le moelleux, 3 ou 4 grains de mastic, ½ c. à c. de levure chimique, 1½ c. à c. de zeste de citron, une pincée de sel ; environ 40 pièces.",
+   "t": "Taste of Maroc's mlewza (Nada Kiffa): 500 g almonds, 200 g caster sugar, 1 egg and 1 yolk, 2 tbsp butter, 2 tbsp strained apricot jam for softness, 3 or 4 mastic grains, ½ tsp baking powder, 1½ tsp lemon zest, a pinch of salt; about 40 pieces."
+  },
+  "variants.1": {
+   "fr": "Avec de la farine (Choumicha) : 250 g d'amandes mondées moulues avec 125 g de sucre semoule, le zeste de 1 citron, 1 c. à s. de beurre, 2 œufs, 190 g de farine, 7 g de levure chimique, ½ c. à c. de sel ; boules roulées dans le sucre glace ; 180 °C, 12 à 15 minutes.",
+   "t": "With flour (Choumicha): 250 g skinned almonds ground with 125 g caster sugar, the zest of 1 lemon, 1 tbsp butter, 2 eggs, 190 g plain flour, 7 g baking powder, ½ tsp salt; balls rolled in icing sugar; 180 °C, 12 to 15 minutes."
+  },
+  "variants.2": {
+   "fr": "Amandes et noix (Choumicha) : 250 g de noix grillées 5 minutes et pelées, 250 g d'amandes, 250 g de sucre semoule, 30 g de beurre fondu, 1 c. à c. de levure chimique, 1 grand œuf, 1 c. à s. de fleur d'oranger, 1 c. à c. de zeste, 2 pincées de sel ; 180 °C, 12 minutes.",
+   "t": "Almonds and walnuts (Choumicha): 250 g walnuts, toasted for 5 minutes and skinned, 250 g almonds, 250 g caster sugar, 30 g melted butter, 1 tsp baking powder, 1 large egg, 1 tbsp orange blossom water, 1 tsp zest, 2 pinches of salt; 180 °C, 12 minutes."
+  },
+  "variants.3": {
+   "fr": "Amandes et noix de coco (Choumicha) : 500 g d'amandes entières, 250 g de noix de coco, 180 g de sucre, 4 œufs, 12 cl d'huile, 14 g de levure chimique, 1½ c. à s. de confiture d'abricots, ½ c. à c. de sel ; mains à la fleur d'oranger ; 180 °C, 12 à 15 minutes.",
+   "t": "Almonds and coconut (Choumicha): 500 g whole almonds, 250 g coconut, 180 g sugar, 4 eggs, 12 cl oil, 14 g baking powder, 1½ tbsp apricot jam, ½ tsp salt; hands moistened with orange blossom water; 180 °C, 12 to 15 minutes."
+  },
+  "variants.4": {
+   "fr": "À la semoule (Bladi.net) : 1 kg d'amandes mondées hachées, 200 g de semoule fine, 7 œufs, 250 g de sucre semoule, 1 sachet de levure, le zeste de 1 citron ; boules légèrement aplaties sur le sucre glace ; four moyen, 20 à 25 minutes.",
+   "t": "With semolina (Bladi.net): 1 kg skinned, chopped almonds, 200 g fine semolina, 7 eggs, 250 g caster sugar, 1 sachet of raising agent, the zest of 1 lemon; balls lightly flattened on the icing sugar; moderate oven, 20 to 25 minutes."
+  },
+  "variants.5": {
+   "fr": "Au blanc d'œuf (Bladi.net ; Lalla Moulati n° 61802) : les boules sont trempées dans le blanc d'œuf, puis roulées dans le sucre glace.",
+   "t": "With egg white (Bladi.net; Lalla Moulati no. 61802): the balls are dipped in egg white, then rolled in icing sugar."
+  },
+  "variants.6": {
+   "fr": "Au four doux : 160 °C pendant 25 à 30 minutes (Lalla Moulati n° 61802), ou four doux environ 30 minutes, sans laisser le sucre colorer (Lalla Moulati n° 209123).",
+   "t": "In a low oven: 160 °C for 25 to 30 minutes (Lalla Moulati no. 61802), or a low oven for about 30 minutes, without letting the sugar colour (Lalla Moulati no. 209123)."
+  },
+  "variants.7": {
+   "fr": "Au glucose et à la fleur d'oranger (Lalla Moulati n° 111678) : 1 c. à s. de glucose et 1 c. à s. de fleur d'oranger dans la pâte ; 160 °C, 10 minutes.",
+   "t": "With glucose and orange blossom water (Lalla Moulati no. 111678): 1 tbsp glucose and 1 tbsp orange blossom water in the dough; 160 °C, 10 minutes."
+  },
+  "variants.8": {
+   "fr": "Amandes non pelées, grillées à la poêle, avec du miel (Lalla Moulati n° 65048).",
+   "t": "Unskinned almonds, toasted in a frying pan, with honey (Lalla Moulati no. 65048)."
+  }
+ }
+}

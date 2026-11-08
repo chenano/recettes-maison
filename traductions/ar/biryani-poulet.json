@@ -1,0 +1,662 @@
+{
+ "_slug": "biryani-poulet",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Biryani au poulet de Hyderabad",
+   "t": "برياني الدجاج على طريقة حيدر آباد"
+  },
+  "tagline": {
+   "fr": "Un poulet mariné au yaourt et aux épices, recouvert de riz basmati parfumé au safran et d'oignons frits, puis cuit à l'étouffée dans une marmite bien fermée : le biryani des fêtes de Hyderabad.",
+   "t": "دجاج متبّل بالزبادي والتوابل، مغطّى بأرز بسمتي معطّر بالزعفران وبصل مقلي، ثم مطهو على نار هادئة في قدر محكمة الإغلاق: برياني المناسبات في حيدر آباد."
+  },
+  "region": {
+   "fr": "Inde, Hyderabad (Télangana). Le biryani hyderabadi est né dans les cuisines des Nizams, les princes de Hyderabad, selon la tradition locale ; son origine exacte reste incertaine (Wikipédia ; NewsMeter ; Vismai Food). Il en existe deux méthodes : « kachchi », la viande crue cuite avec le riz, et « pakki », la viande cuite avant d'être recouverte de riz (Wikipédia ; NewsMeter ; Swasthi). Cette recette suit la méthode pakki, au poulet.",
+   "t": "الهند، حيدر آباد (تيلانغانا). وُلد البرياني الحيدر آبادي في مطابخ Nizams، أمراء حيدر آباد، حسب التقاليد المحلية؛ ويبقى أصله الدقيق غير مؤكد (Wikipédia؛ NewsMeter؛ Vismai Food). وله طريقتان: «kachchi»، حيث يُطهى اللحم نيئًا مع الأرز، و«pakki»، حيث يُطهى اللحم قبل أن يُغطّى بالأرز (Wikipédia؛ NewsMeter؛ Swasthi). وهذه الوصفة تتبع طريقة pakki، بالدجاج."
+  },
+  "occasion": {
+   "fr": "Mariages, fêtes et grands repas de famille : à Hyderabad, il n'y a pas de mariage ni de réunion sans biryani (NewsMeter). Ranveer Brar classe son biryani hyderabadi au poulet parmi ses recettes de l'Aïd (« Eid Special ») et du Ramadan (« Ramadan Special »).",
+   "t": "الأعراس والأعياد والوجبات العائلية الكبرى: في حيدر آباد، لا عرس ولا اجتماع دون برياني (NewsMeter). ويصنّف Ranveer Brar برياني الدجاج الحيدر آبادي ضمن وصفاته للعيد («Eid Special») ولرمضان («Ramadan Special»)."
+  },
+  "img_alt": {
+   "fr": "Biryani de poulet à la hyderabadi dans une marmite en cuivre, avec du raïta",
+   "t": "برياني دجاج على الطريقة الحيدر آبادية في قدر من النحاس، مع الرايتا"
+  },
+  "serving": {
+   "fr": "Chaud, avec une raïta au yaourt (Swasthi ; Ranveer Brar ; Kunal Kapur). À Hyderabad, on le sert avec le mirchi ka salan (curry de piments) et la dahi ki chutney (sauce au yaourt) (NewsMeter ; Wikipédia), et une salade d'oignon, de carotte, de concombre et de citron (Wikipédia). Sanjeev Kapoor ajoute des piments frits et des rondelles d'oignon. Restes : refroidis-les vite, idéalement en moins d'une heure, sans les laisser dans la marmite (FSA), et mets-les au réfrigérateur au plus tard dans les 2 heures (Anses). Garde-les 1 jour au plus, et réchauffe-les une seule fois, jusqu'à ce qu'ils soient fumants partout (FSA).",
+   "t": "يُقدَّم ساخنًا مع رايتا بالزبادي (Swasthi؛ Ranveer Brar؛ Kunal Kapur). وفي حيدر آباد، يُقدَّم مع mirchi ka salan (كاري الفلفل الحار) وdahi ki chutney (صلصة الزبادي) (NewsMeter؛ Wikipédia)، ومع سلطة من البصل والجزر والخيار والليمون (Wikipédia). ويضيف Sanjeev Kapoor فلفلًا حارًا مقليًا وحلقات بصل. البقايا: برّدها بسرعة، ويُفضَّل في أقل من ساعة، دون أن تتركها في القدر (FSA)، وضعها في الثلاجة خلال ساعتين على الأكثر (Anses). احفظها يومًا واحدًا على الأكثر، وأعد تسخينها مرة واحدة فقط، حتى يتصاعد منها البخار في كل أجزائها (FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Oignons frits",
+   "t": "البصل المقلي"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile neutre pour la friture",
+   "t": "زيت المائدة للقلي"
+  },
+  "ing.huile-friture.note": {
+   "fr": "une bonne couche au fond de la poêle",
+   "t": "طبقة جيدة في قاع المقلاة"
+  },
+  "ing.1.group": {
+   "fr": "Poulet mariné",
+   "t": "الدجاج المتبّل"
+  },
+  "ing.poulet.name": {
+   "fr": "de morceaux de poulet avec os, sans peau",
+   "t": "قطع دجاج بالعظم، منزوعة الجلد"
+  },
+  "ing.poulet.note": {
+   "fr": "halal ; hauts de cuisse et pilons, de taille moyenne",
+   "t": "حلال؛ أفخاذ وسيقان، متوسطة الحجم"
+  },
+  "ing.yaourt.name": {
+   "fr": "de yaourt nature entier",
+   "t": "زبادي طبيعي كامل الدسم"
+  },
+  "ing.yaourt.note": {
+   "fr": "frais, pas acide ; pas de yaourt grec",
+   "t": "طازج وغير حامض؛ وليس زباديًا يونانيًا"
+  },
+  "ing.pag.name": {
+   "fr": "de pâte d'ail et de gingembre frais",
+   "t": "معجون الثوم والزنجبيل الطازج"
+  },
+  "ing.pag.note": {
+   "fr": "ou moitié ail, moitié gingembre, râpés finement",
+   "t": "أو نصفه ثوم ونصفه زنجبيل، مبشوران بشرًا ناعمًا"
+  },
+  "ing.piment.name": {
+   "fr": "de piment rouge en poudre (type cachemire)",
+   "t": "فلفل أحمر حار مطحون (من النوع الكشميري)"
+  },
+  "ing.piment.note": {
+   "fr": "ou paprika ; à ajuster selon ton goût",
+   "t": "أو بابريكا؛ تُعدَّل الكمية حسب ذوقك"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.garam.name": {
+   "fr": "de garam masala",
+   "t": "غرام ماسالا"
+  },
+  "ing.garam.note": {
+   "fr": "ou de biryani masala",
+   "t": "أو برياني ماسالا"
+  },
+  "ing.piments-verts.name": {
+   "fr": "piment vert",
+   "t": "حبة فلفل أخضر حار"
+  },
+  "ing.piments-verts.pl": {
+   "fr": "piments verts",
+   "t": "حبات فلفل أخضر حار"
+  },
+  "ing.piments-verts.note": {
+   "fr": "fendus en deux",
+   "t": "مشقوقة إلى نصفين"
+  },
+  "ing.menthe.name": {
+   "fr": "de feuilles de menthe hachées",
+   "t": "أوراق نعناع مفرومة"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة طازجة مفرومة"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.2.group": {
+   "fr": "Cuisson du poulet",
+   "t": "طهي الدجاج"
+  },
+  "ing.huile-cuisson.name": {
+   "fr": "de l'huile de friture des oignons",
+   "t": "زيت قلي البصل"
+  },
+  "ing.huile-cuisson.note": {
+   "fr": "ou de ghee",
+   "t": "أو سمن هندي (غي)"
+  },
+  "ing.carvi-poulet.name": {
+   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+   "t": "بذور كراوية، أو شاهي جيرا (كمون أسود) إن وجدته"
+  },
+  "ing.3.group": {
+   "fr": "Riz",
+   "t": "الأرز"
+  },
+  "ing.riz.name": {
+   "fr": "de riz basmati",
+   "t": "أرز بسمتي"
+  },
+  "ing.riz.note": {
+   "fr": "de préférence vieilli (« aged »)",
+   "t": "ويُفضَّل أن يكون معتّقًا («aged»)"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.sel-riz.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.sel-riz.note": {
+   "fr": "beaucoup : l'eau doit être nettement salée",
+   "t": "بكمية كبيرة: يجب أن يكون الماء مالحًا بوضوح"
+  },
+  "ing.huile-riz.name": {
+   "fr": "d'huile",
+   "t": "زيت"
+  },
+  "ing.laurier.name": {
+   "fr": "feuille de laurier",
+   "t": "ورقة غار"
+  },
+  "ing.laurier.pl": {
+   "fr": "feuilles de laurier",
+   "t": "أوراق غار"
+  },
+  "ing.cannelle.name": {
+   "fr": "petit bâton de cannelle (environ 4 cm)",
+   "t": "عود قرفة صغير (حوالي 4 سم)"
+  },
+  "ing.cannelle.pl": {
+   "fr": "petits bâtons de cannelle (environ 4 cm)",
+   "t": "أعواد قرفة صغيرة (حوالي 4 سم)"
+  },
+  "ing.cardamome.name": {
+   "fr": "gousse de cardamome verte",
+   "t": "حبة هيل خضراء"
+  },
+  "ing.cardamome.pl": {
+   "fr": "gousses de cardamome verte",
+   "t": "حبات هيل خضراء"
+  },
+  "ing.clous.name": {
+   "fr": "clou de girofle",
+   "t": "حبة قرنفل"
+  },
+  "ing.clous.pl": {
+   "fr": "clous de girofle",
+   "t": "حبات قرنفل"
+  },
+  "ing.badiane.name": {
+   "fr": "étoile de badiane (anis étoilé)",
+   "t": "نجمة يانسون نجمي (باديان)"
+  },
+  "ing.badiane.pl": {
+   "fr": "étoiles de badiane (anis étoilé)",
+   "t": "نجمات يانسون نجمي (باديان)"
+  },
+  "ing.carvi-riz.name": {
+   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+   "t": "بذور كراوية، أو شاهي جيرا (كمون أسود) إن وجدته"
+  },
+  "ing.4.group": {
+   "fr": "Montage",
+   "t": "تركيب الطبقات"
+  },
+  "ing.safran.name": {
+   "fr": "de safran en filaments",
+   "t": "شعيرات زعفران"
+  },
+  "ing.lait.name": {
+   "fr": "de lait chaud",
+   "t": "حليب ساخن"
+  },
+  "ing.ghee.name": {
+   "fr": "de ghee (beurre clarifié)",
+   "t": "سمن هندي (غي)"
+  },
+  "ing.ghee.note": {
+   "fr": "fondu",
+   "t": "مذاب"
+  },
+  "equipment.0": {
+   "fr": "Une grande marmite à fond épais, avec un couvercle qui ferme bien (Swasthi, Vismai Food)",
+   "t": "قدر كبيرة بقاع سميك، بغطاء محكم الإغلاق (Swasthi، Vismai Food)"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle épaisse ou une plaque en fonte, à poser sous la marmite pendant la cuisson à l'étouffée (Swasthi, Ranveer Brar)",
+   "t": "مقلاة كبيرة سميكة أو صفيحة من الحديد الزهر، توضع تحت القدر أثناء الطهي على نار هادئة في القدر المحكم (Swasthi، Ranveer Brar)"
+  },
+  "equipment.2": {
+   "fr": "Une poêle ou une sauteuse, pour frire les oignons",
+   "t": "مقلاة أو مقلاة عميقة، لقلي البصل"
+  },
+  "equipment.3": {
+   "fr": "Une grande casserole pour cuire le riz, et une passoire",
+   "t": "طنجرة كبيرة لطهي الأرز، ومصفاة"
+  },
+  "equipment.4": {
+   "fr": "Un grand bol, pour la marinade",
+   "t": "وعاء كبير، للتتبيلة"
+  },
+  "equipment.5": {
+   "fr": "Du papier aluminium (Swasthi, Sanjeev Kapoor)",
+   "t": "ورق ألومنيوم (Swasthi، Sanjeev Kapoor)"
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant",
+   "t": "ورق ماص"
+  },
+  "equipment.7": {
+   "fr": "Une louche et une spatule plate, pour servir (Vismai Food)",
+   "t": "مغرفة وملعقة مسطّحة، للتقديم (Vismai Food)"
+  },
+  "equipment.8": {
+   "fr": "Un thermomètre de cuisson (conseillé par la FSA)",
+   "t": "ميزان حرارة للطهي (تنصح به FSA)"
+  },
+  "steps.0.title": {
+   "fr": "Émince les oignons",
+   "t": "قطّع البصل إلى شرائح"
+  },
+  "steps.0.text": {
+   "fr": "Pèle {{oignons:full}} et coupe en lamelles fines et régulières. Sépare les couches.",
+   "t": "قشّر {{oignons:full}} وقطّعها إلى شرائح رقيقة ومنتظمة. افصل طبقاتها."
+  },
+  "steps.1.title": {
+   "fr": "Fais frire les oignons",
+   "t": "اقلِ البصل"
+  },
+  "steps.1.text": {
+   "fr": "Dans la poêle, chauffe l'{{huile-friture}} à feu moyen. Fais frire les oignons en petites quantités, en remuant souvent, jusqu'à ce qu'ils soient bien dorés. Ne les laisse pas brûler. Égoutte-les sur du papier absorbant et garde l'huile de friture.",
+   "t": "في المقلاة، سخّن {{huile-friture}} على نار متوسطة. اقلِ البصل على دفعات صغيرة، مع التحريك كثيرًا، حتى يصبح ذهبيًا جيدًا. لا تتركه يحترق. صفّه على ورق ماص واحتفظ بزيت القلي."
+  },
+  "steps.1.tip": {
+   "fr": "Brûlés, les oignons deviennent amers (Swasthi). Tu peux les frire la veille (Swasthi).",
+   "t": "إذا احترق البصل صار مُرًّا (Swasthi). ويمكنك قليه في اليوم السابق (Swasthi)."
+  },
+  "steps.2.title": {
+   "fr": "Prépare la marinade",
+   "t": "حضّر التتبيلة"
+  },
+  "steps.2.text": {
+   "fr": "Dans un grand bol, mélange {{yaourt}} de yaourt, {{pag}} de pâte ail-gingembre, {{piment}} de piment, {{curcuma}} de curcuma, {{piments-verts:full}} et du {{sel}}. Ajoute presque tout le garam masala ({{garam}} en tout), en gardant une pincée pour le montage. Ajoute la moitié des oignons frits, émiettés, puis la moitié de la menthe ({{menthe}} en tout) et de la coriandre ({{coriandre}} en tout).",
+   "t": "في وعاء كبير، اخلط {{yaourt}} من الزبادي و{{pag}} من معجون الثوم والزنجبيل و{{piment}} من الفلفل الحار و{{curcuma}} من الكركم و{{piments-verts:full}} والملح. أضف الغرام ماسالا كله تقريبًا ({{garam}} في المجموع)، واحتفظ برشة منه للتركيب. أضف نصف البصل المقلي مفتّتًا، ثم نصف النعناع ({{menthe}} في المجموع) ونصف الكزبرة ({{coriandre}} في المجموع)."
+  },
+  "steps.2.tip": {
+   "fr": "Prends un yaourt frais, pas acide (Swasthi).",
+   "t": "استعمل زباديًا طازجًا، غير حامض (Swasthi)."
+  },
+  "steps.3.title": {
+   "fr": "Fais mariner le poulet",
+   "t": "تبّل الدجاج"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute {{poulet}} de poulet et enrobe bien chaque morceau. Couvre et mets au réfrigérateur au moins 2 heures, ou toute une nuit. Ne lave pas le poulet cru. Lave-toi les mains au savon après l'avoir touché.",
+   "t": "أضف {{poulet}} من الدجاج وغلّف كل قطعة جيدًا بالتتبيلة. غطِّ الوعاء وضعه في الثلاجة ساعتين على الأقل، أو ليلة كاملة. لا تغسل الدجاج النيء. واغسل يديك بالصابون بعد لمسه."
+  },
+  "steps.3.tip": {
+   "fr": "Une nuit au réfrigérateur rend le poulet plus tendre et plus juteux (Swasthi ; Vismai Food). Ne le laisse pas plus de 2 heures à température ambiante (Anses).",
+   "t": "ليلة في الثلاجة تجعل الدجاج أطرى وأكثر عصارة (Swasthi؛ Vismai Food). ولا تتركه أكثر من ساعتين في حرارة الغرفة (Anses)."
+  },
+  "steps.4.title": {
+   "fr": "Fais tremper le riz",
+   "t": "انقع الأرز"
+  },
+  "steps.4.text": {
+   "fr": "Rince {{riz}} de riz dans plusieurs eaux, jusqu'à ce que l'eau reste claire. Couvre-le d'eau froide et laisse-le tremper 30 minutes.",
+   "t": "اغسل {{riz}} من الأرز في عدة مياه، حتى يبقى الماء صافيًا. اغمره بالماء البارد واتركه منقوعًا 30 دقيقة."
+  },
+  "steps.4.tip": {
+   "fr": "Pendant le trempage, commence la cuisson du poulet.",
+   "t": "أثناء النقع، ابدأ طهي الدجاج."
+  },
+  "steps.4.timer.label": {
+   "fr": "Trempage du riz",
+   "t": "نقع الأرز"
+  },
+  "steps.4.timer.done": {
+   "fr": "Égoutte le riz dans la passoire.",
+   "t": "صفِّ الأرز في المصفاة."
+  },
+  "steps.5.title": {
+   "fr": "Cuis le poulet mariné",
+   "t": "اطهُ الدجاج المتبّل"
+  },
+  "steps.5.text": {
+   "fr": "Dans la grande marmite, chauffe {{huile-cuisson}} de l'huile de friture à feu moyen. Ajoute {{carvi-poulet}} de carvi. Dès qu'il grésille, verse le poulet avec toute sa marinade. Remue quelques minutes à feu moyen-vif, puis étale les morceaux en une seule couche. Couvre et laisse cuire à feu moyen-doux, en remuant de temps en temps, jusqu'à ce que le poulet soit tendre et qu'il reste une sauce épaisse.",
+   "t": "في القدر الكبيرة، سخّن {{huile-cuisson}} من زيت القلي على نار متوسطة. أضف {{carvi-poulet}} من الكراوية. وما إن تبدأ بالأزيز، اسكب الدجاج مع كل تتبيلته. حرّك بضع دقائق على نار متوسطة إلى قوية، ثم افرد القطع في طبقة واحدة. غطِّ القدر واتركه ينضج على نار متوسطة إلى هادئة، مع التحريك من حين لآخر، حتى يصبح الدجاج طريًا وتبقى صلصة كثيفة."
+  },
+  "steps.5.tip": {
+   "fr": "C'est la méthode « pakki » : le poulet est cuit avant d'être recouvert de riz (Swasthi ; NewsMeter).",
+   "t": "هذه هي طريقة «pakki»: يُطهى الدجاج قبل أن يُغطّى بالأرز (Swasthi؛ NewsMeter)."
+  },
+  "steps.6.title": {
+   "fr": "Vérifie la cuisson du poulet",
+   "t": "تحقّق من نضج الدجاج"
+  },
+  "steps.6.text": {
+   "fr": "Coupe le plus gros morceau près de l'os : la chair ne doit plus être rose, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, pique loin de l'os : le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau. Coupe ensuite le feu.",
+   "t": "اقطع أكبر قطعة قرب العظم: يجب ألا يبقى اللحم ورديًا، وأن تكون العصارة صافية، وأن يتصاعد البخار من القطعة. وبميزان الحرارة، اغرزه بعيدًا عن العظم: يجب أن تبلغ حرارة القلب 75 درجة مئوية لمدة 30 ثانية. وإلا، فأطِل مدة الطهي مع التغطية، ثم تحقّق من جديد. ثم أطفئ النار."
+  },
+  "steps.6.tip": {
+   "fr": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
+   "t": "تشترط FSA في القلب 75 درجة مئوية لمدة 30 ثانية أو 70 درجة مئوية لمدة دقيقتين؛ وتشترط Anses طهي الدواجن حتى القلب، على حرارة 70 درجة مئوية."
+  },
+  "steps.7.title": {
+   "fr": "Prépare l'eau du riz",
+   "t": "حضّر ماء الأرز"
+  },
+  "steps.7.text": {
+   "fr": "Dans la grande casserole, porte à ébullition {{eau}} d'eau avec {{laurier:full}}, {{cannelle:full}}, {{cardamome:full}}, {{clous:full}}, {{badiane:full}}, {{carvi-riz}} de carvi et {{huile-riz}} d'huile. Sale bien avec du {{sel-riz}} : l'eau doit avoir un goût nettement salé. Laisse bouillir 5 minutes.",
+   "t": "في الطنجرة الكبيرة، اغلِ {{eau}} من الماء مع {{laurier:full}} و{{cannelle:full}} و{{cardamome:full}} و{{clous:full}} و{{badiane:full}} و{{carvi-riz}} من الكراوية و{{huile-riz}} من الزيت. ملّحه جيدًا: يجب أن يكون طعم الماء مالحًا بوضوح. اتركه يغلي 5 دقائق."
+  },
+  "steps.7.tip": {
+   "fr": "L'eau doit être salée comme de l'eau de mer : c'est le seul sel que prendra le riz (Vismai Food).",
+   "t": "يجب أن يكون الماء مالحًا كماء البحر: فهذا هو الملح الوحيد الذي سيأخذه الأرز (Vismai Food)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Eau parfumée",
+   "t": "الماء المعطّر"
+  },
+  "steps.7.timer.done": {
+   "fr": "Verse le riz égoutté dans l'eau bouillante.",
+   "t": "اسكب الأرز المصفّى في الماء المغلي."
+  },
+  "steps.8.title": {
+   "fr": "Prépare le lait au safran",
+   "t": "حضّر حليب الزعفران"
+  },
+  "steps.8.text": {
+   "fr": "Fais tremper {{safran}} de safran dans {{lait}} de lait chaud.",
+   "t": "انقع {{safran}} من الزعفران في {{lait}} من الحليب الساخن."
+  },
+  "steps.9.title": {
+   "fr": "Cuis le riz aux trois quarts",
+   "t": "اطهُ الأرز حتى ثلاثة أرباع نضجه"
+  },
+  "steps.9.text": {
+   "fr": "Verse le riz égoutté dans l'eau qui bout à gros bouillons et remue doucement une fois. Laisse cuire 5 minutes environ, puis goûte un grain : il doit être cuit aux trois quarts et encore résister au centre. Égoutte aussitôt, en gardant une louche d'eau de cuisson.",
+   "t": "اسكب الأرز المصفّى في الماء الذي يغلي بقوة وحرّكه برفق مرة واحدة. اتركه ينضج 5 دقائق تقريبًا، ثم تذوّق حبة: يجب أن تكون قد نضجت بمقدار ثلاثة أرباع وأن يبقى وسطها متماسكًا. صفّه فورًا، مع الاحتفاظ بمغرفة من ماء الطهي."
+  },
+  "steps.9.tip": {
+   "fr": "Le riz ne doit surtout pas devenir pâteux : il finit de cuire à l'étouffée (Swasthi ; Sanjeev Kapoor).",
+   "t": "يجب ألا يصبح الأرز عجينيًا أبدًا: فهو يكمل نضجه على نار هادئة في القدر المحكم (Swasthi؛ Sanjeev Kapoor)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Riz aux trois quarts",
+   "t": "الأرز بثلاثة أرباع النضج"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte un grain : il doit encore résister au centre.",
+   "t": "تذوّق حبة: يجب أن يبقى وسطها متماسكًا."
+  },
+  "steps.10.title": {
+   "fr": "Monte le biryani",
+   "t": "رتّب طبقات البرياني"
+  },
+  "steps.10.text": {
+   "fr": "Étale le riz sur le poulet, en couche égale, sans tasser. Parsème le reste des oignons frits, de la menthe et de la coriandre, puis la pincée de garam masala. Verse le lait au safran en filet, puis {{ghee}} de ghee. Si le fond te paraît sec, ajoute la louche d'eau de cuisson du riz.",
+   "t": "افرد الأرز فوق الدجاج في طبقة متساوية، دون ضغط. انثر باقي البصل المقلي والنعناع والكزبرة، ثم رشة الغرام ماسالا. اسكب حليب الزعفران في خيط رفيع، ثم {{ghee}} من السمن الهندي. وإذا بدا لك القاع جافًا، فأضف مغرفة ماء طهي الأرز."
+  },
+  "steps.11.title": {
+   "fr": "Ferme hermétiquement",
+   "t": "أحكم إغلاق القدر"
+  },
+  "steps.11.text": {
+   "fr": "Couvre la marmite d'une feuille de papier aluminium bien serrée sur les bords, puis pose le couvercle. S'il ferme mal, pose un poids dessus. La vapeur ne doit pas s'échapper.",
+   "t": "غطِّ القدر بورقة ألومنيوم مشدودة جيدًا على الحواف، ثم ضع الغطاء. وإذا كان لا يُحكم الإغلاق، فضع فوقه ثقلًا. يجب ألا يخرج البخار."
+  },
+  "steps.11.tip": {
+   "fr": "À l'ancienne, on colle le couvercle avec un boudin de pâte de farine et d'eau (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",
+   "t": "على الطريقة القديمة، يُلصق الغطاء بشريط من عجين الدقيق والماء (Kunal Kapur؛ Sanjeev Kapoor؛ Onmanorama)."
+  },
+  "steps.12.title": {
+   "fr": "Cuis à l'étouffée (dum)",
+   "t": "اطهُ بطريقة الدم (على نار هادئة في قدر محكم)"
+  },
+  "steps.12.text": {
+   "fr": "Fais chauffer la grande poêle épaisse ou la plaque en fonte sur le feu, puis pose la marmite par-dessus. Laisse cuire 15 minutes à feu doux, sans ouvrir.",
+   "t": "سخّن المقلاة الكبيرة السميكة أو صفيحة الحديد الزهر على النار، ثم ضع القدر فوقها. اترك البرياني ينضج 15 دقيقة على نار هادئة، دون أن تفتح القدر."
+  },
+  "steps.12.tip": {
+   "fr": "La plaque sous la marmite répartit la chaleur et évite que le fond brûle (Swasthi).",
+   "t": "الصفيحة الموضوعة تحت القدر توزّع الحرارة وتمنع احتراق القاع (Swasthi)."
+  },
+  "steps.12.timer.label": {
+   "fr": "Cuisson à l'étouffée",
+   "t": "الطهي بطريقة الدم"
+  },
+  "steps.12.timer.done": {
+   "fr": "Coupe le feu sans ouvrir la marmite.",
+   "t": "أطفئ النار دون أن تفتح القدر."
+  },
+  "steps.13.title": {
+   "fr": "Laisse reposer",
+   "t": "اتركه يرتاح"
+  },
+  "steps.13.text": {
+   "fr": "Coupe le feu et laisse reposer 10 minutes, marmite fermée, sur la plaque encore chaude.",
+   "t": "أطفئ النار واترك البرياني يرتاح 10 دقائق، والقدر مغلقة، فوق الصفيحة التي لا تزال ساخنة."
+  },
+  "steps.13.tip": {
+   "fr": "Laisse la marmite sur le feu éteint : posée ailleurs, elle perd sa chaleur et le biryani cuit moins bien (Vismai Food).",
+   "t": "اترك القدر فوق النار المطفأة: فإذا وضعتها في مكان آخر، فقدت حرارتها ونضج البرياني بشكل أقل جودة (Vismai Food)."
+  },
+  "steps.13.timer.label": {
+   "fr": "Repos",
+   "t": "الراحة"
+  },
+  "steps.13.timer.done": {
+   "fr": "Ouvre la marmite et sers.",
+   "t": "افتح القدر وقدّم."
+  },
+  "steps.14.title": {
+   "fr": "Sers à la spatule",
+   "t": "قدّم بالملعقة المسطّحة"
+  },
+  "steps.14.text": {
+   "fr": "Ouvre la marmite : tout doit être fumant. Sers avec une spatule plate, en allant jusqu'au fond, pour avoir du riz et du poulet dans chaque assiette. Ne mélange pas le biryani dans la marmite.",
+   "t": "افتح القدر: يجب أن يتصاعد البخار من كل شيء. قدّم بملعقة مسطّحة تصل بها إلى القاع، ليكون في كل صحن أرز ودجاج. لا تخلط البرياني في القدر."
+  },
+  "steps.14.tip": {
+   "fr": "Vismai Food sert en soulevant le biryani depuis le fond avec une spatule plate, sans le remuer.",
+   "t": "يقدّم Vismai Food البرياني برفعه من القاع بملعقة مسطّحة، دون تحريكه."
+  },
+  "secrets.0.text": {
+   "fr": "Prends un riz basmati vieilli : Vismai Food le veut de plus d'un an, pour un beau grain. Fais-le tremper 30 minutes avant de le cuire.",
+   "t": "استعمل أرزًا بسمتيًا معتّقًا: يريده Vismai Food أقدم من سنة، لحبة جميلة. وانقعه 30 دقيقة قبل طهيه."
+  },
+  "secrets.0.source": {
+   "fr": "Swasthi (« aged » basmati, trempage de 30 minutes) ; Vismai Food (riz de plus d'un an) ; Kunal Kapur (30 à 45 minutes) ; Sanjeev Kapoor (30 minutes)",
+   "t": "Swasthi (بسمتي «aged»، ونقع 30 دقيقة)؛ Vismai Food (أرز أقدم من سنة)؛ Kunal Kapur (من 30 إلى 45 دقيقة)؛ Sanjeev Kapoor (30 دقيقة)"
+  },
+  "secrets.1.text": {
+   "fr": "Sale beaucoup l'eau du riz, comme de l'eau de mer : le sel ajouté plus tard ne pénètre plus le riz.",
+   "t": "ملّح ماء الأرز كثيرًا، كماء البحر: فالملح الذي يُضاف لاحقًا لا يتغلغل في الأرز."
+  },
+  "secrets.1.source": {
+   "fr": "Vismai Food ; Swasthi (« the water has to taste salty »)",
+   "t": "Vismai Food؛ Swasthi («the water has to taste salty»)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais bouillir les épices entières 5 minutes dans l'eau avant d'y verser le riz : elles parfument l'eau.",
+   "t": "اغلِ التوابل الكاملة 5 دقائق في الماء قبل أن تسكب فيه الأرز: فهي تعطّر الماء."
+  },
+  "secrets.2.source": {
+   "fr": "Swasthi ; Kunal Kapur",
+   "t": "Swasthi؛ Kunal Kapur"
+  },
+  "secrets.3.text": {
+   "fr": "Arrête le riz aux trois quarts de sa cuisson : il finit de cuire dans la vapeur de la marmite.",
+   "t": "أوقف طهي الأرز عند ثلاثة أرباع نضجه: فهو يكمل نضجه في بخار القدر."
+  },
+  "secrets.3.source": {
+   "fr": "Sanjeev Kapoor (« three fourth done ») ; Swasthi (75 %) ; Vismai Food (70 %) ; Ranveer Brar (60 %)",
+   "t": "Sanjeev Kapoor («three fourth done»)؛ Swasthi (75 %)؛ Vismai Food (70 %)؛ Ranveer Brar (60 %)"
+  },
+  "secrets.4.text": {
+   "fr": "Les oignons frits font partie des ingrédients de base du biryani hyderabadi : fais-les bien dorer, en petites quantités, sans les brûler.",
+   "t": "البصل المقلي من المكونات الأساسية للبرياني الحيدر آبادي: حمّره جيدًا، على دفعات صغيرة، دون أن تحرقه."
+  },
+  "secrets.4.source": {
+   "fr": "Wikipédia (ingrédients de base) ; Swasthi ; Ranveer Brar (frits « in small batches »)",
+   "t": "Wikipédia (المكونات الأساسية)؛ Swasthi؛ Ranveer Brar (مقلي «in small batches»)"
+  },
+  "secrets.5.text": {
+   "fr": "Garde l'huile de friture des oignons : elle donne son parfum au biryani.",
+   "t": "احتفظ بزيت قلي البصل: فهو يمنح البرياني عطره."
+  },
+  "secrets.5.source": {
+   "fr": "Vismai Food ; Swasthi ; Ranveer Brar (« fried onion oil »)",
+   "t": "Vismai Food؛ Swasthi؛ Ranveer Brar («fried onion oil»)"
+  },
+  "secrets.6.text": {
+   "fr": "Prends un yaourt frais, pas acide, et un poulet jeune : les gros poulets âgés cuisent mal.",
+   "t": "استعمل زباديًا طازجًا غير حامض، ودجاجًا صغير السن: فالدجاج الكبير المسنّ لا ينضج جيدًا."
+  },
+  "secrets.6.source": {
+   "fr": "Swasthi (« do not use sour curd ») ; Vismai Food (poulet de moins d'un kilo)",
+   "t": "Swasthi («do not use sour curd»)؛ Vismai Food (دجاج أقل من كيلوغرام)"
+  },
+  "secrets.7.text": {
+   "fr": "Marine le poulet longtemps au réfrigérateur, une nuit si tu peux : il devient tendre et juteux.",
+   "t": "تبّل الدجاج مدة طويلة في الثلاجة، ليلة كاملة إن استطعت: فيصبح طريًا وكثير العصارة."
+  },
+  "secrets.7.source": {
+   "fr": "Swasthi ; Vismai Food",
+   "t": "Swasthi؛ Vismai Food"
+  },
+  "secrets.8.text": {
+   "fr": "Fais tremper le safran dans du lait chaud, puis verse-le en filet sur le riz.",
+   "t": "انقع الزعفران في الحليب الساخن، ثم اسكبه في خيط رفيع على الأرز."
+  },
+  "secrets.8.source": {
+   "fr": "Swasthi ; Sanjeev Kapoor ; Ranveer Brar",
+   "t": "Swasthi؛ Sanjeev Kapoor؛ Ranveer Brar"
+  },
+  "secrets.9.text": {
+   "fr": "Une marmite à fond épais, posée sur une poêle épaisse ou une plaque en fonte, évite que le fond brûle pendant la cuisson à l'étouffée.",
+   "t": "قدر بقاع سميك، موضوعة فوق مقلاة سميكة أو صفيحة من الحديد الزهر، تمنع احتراق القاع أثناء الطهي على نار هادئة في القدر المحكم."
+  },
+  "secrets.9.source": {
+   "fr": "Swasthi (tawa sous la marmite) ; Vismai Food (récipient à fond épais) ; Ranveer Brar (marmite posée sur le tawa)",
+   "t": "Swasthi (tawa تحت القدر)؛ Vismai Food (إناء بقاع سميك)؛ Ranveer Brar (القدر فوق tawa)"
+  },
+  "secrets.10.text": {
+   "fr": "Ferme bien la marmite : la vapeur ne doit pas s'échapper, c'est elle qui cuit le riz.",
+   "t": "أحكم إغلاق القدر: يجب ألا يخرج البخار، فهو الذي يُنضج الأرز."
+  },
+  "secrets.10.source": {
+   "fr": "Swasthi ; Kunal Kapur (couvercle collé à la pâte) ; Vismai Food",
+   "t": "Swasthi؛ Kunal Kapur (غطاء ملصق بالعجين)؛ Vismai Food"
+  },
+  "secrets.11.text": {
+   "fr": "Ne remue jamais le biryani chaud : laisse-le reposer, marmite fermée, sur le feu éteint.",
+   "t": "لا تحرّك البرياني الساخن أبدًا: اتركه يرتاح، والقدر مغلقة، فوق النار المطفأة."
+  },
+  "secrets.11.source": {
+   "fr": "Vismai Food",
+   "t": "Vismai Food"
+  },
+  "secrets.12.text": {
+   "fr": "Le ghee rend le biryani meilleur : Vismai Food conseille d'en mettre plus. Le biryani hyderabadi traditionnel en compte près de 300 g par kilo de riz.",
+   "t": "السمن الهندي يجعل البرياني ألذّ: وينصح Vismai Food بوضع كمية أكبر منه. ويحتوي البرياني الحيدر آبادي التقليدي على حوالي 300 غ منه لكل كيلوغرام من الأرز."
+  },
+  "secrets.12.source": {
+   "fr": "Vismai Food (« tastes better with more Ghee ») ; NewsMeter",
+   "t": "Vismai Food («tastes better with more Ghee»)؛ NewsMeter"
+  },
+  "secrets.13.text": {
+   "fr": "Le biryani hyderabadi traditionnel contient peu d'épices moulues : il est moins chargé en masala que les biryanis de restaurant.",
+   "t": "يحتوي البرياني الحيدر آبادي التقليدي على قليل من التوابل المطحونة: فهو أقل امتلاءً بالماسالا من برياني المطاعم."
+  },
+  "secrets.13.source": {
+   "fr": "Swasthi (« minimal amount of ground spices »)",
+   "t": "Swasthi (بعبارة «minimal amount of ground spices»)"
+  },
+  "mistakes.0": {
+   "fr": "Trop cuire le riz avant le montage : il devient pâteux (Swasthi).",
+   "t": "الإفراط في طهي الأرز قبل تركيب الطبقات: فيصبح عجينيًا (Swasthi)."
+  },
+  "mistakes.1": {
+   "fr": "Brûler les oignons : ils donnent un goût amer (Swasthi).",
+   "t": "حرق البصل: فهو يعطي مذاقًا مُرًّا (Swasthi)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre une marmite à fond fin, ou la poser sans plaque sur le feu : le fond brûle (Swasthi ; Vismai Food).",
+   "t": "استعمال قدر بقاع رقيق، أو وضعها على النار دون صفيحة: فيحترق القاع (Swasthi؛ Vismai Food)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser la vapeur s'échapper par un couvercle mal fermé : elle doit rester dans la marmite (Swasthi).",
+   "t": "ترك البخار يخرج من غطاء غير محكم: يجب أن يبقى داخل القدر (Swasthi)."
+  },
+  "mistakes.4": {
+   "fr": "Monter le biryani sans avoir vérifié que le poulet est cuit à cœur (FSA, Anses).",
+   "t": "تركيب طبقات البرياني دون التحقق من نضج الدجاج حتى القلب (FSA، Anses)."
+  },
+  "mistakes.5": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA). Kunal Kapur et Ranveer Brar le lavent dans leurs recettes : ne le fais pas.",
+   "t": "غسل الدجاج النيء: فهذا ينثر البكتيريا في كل مكان، والطهي وحده يقضي عليها (FSA). يغسله Kunal Kapur وRanveer Brar في وصفاتهما: فلا تفعل ذلك."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le poulet mariner longtemps hors du réfrigérateur : pas plus de 2 heures à température ambiante (Anses). Vismai Food le permet quand on n'a pas de réfrigérateur : ne le fais pas.",
+   "t": "ترك الدجاج في التتبيلة مدة طويلة خارج الثلاجة: لا أكثر من ساعتين في حرارة الغرفة (Anses). ويسمح بذلك Vismai Food عند عدم وجود ثلاجة: فلا تفعل ذلك."
+  },
+  "mistakes.7": {
+   "fr": "Laisser refroidir les restes dans la marmite ou à température ambiante : Bacillus cereus, dont les spores survivent à la cuisson du riz, peut s'y multiplier et produire une toxine que la chaleur ne détruit pas (Anses ; FSA).",
+   "t": "ترك البقايا تبرد في القدر أو في حرارة الغرفة: فبكتيريا Bacillus cereus، التي تنجو أبواغها من طهي الأرز، قد تتكاثر فيها وتُفرز سمًّا لا تقضي عليه الحرارة (Anses؛ FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Réchauffer le biryani plus d'une fois (FSA).",
+   "t": "إعادة تسخين البرياني أكثر من مرة واحدة (FSA)."
+  },
+  "mistakes.9": {
+   "fr": "Ajouter de l'eau de kewra ou un arôme sans lire l'étiquette : Swasthi rappelle que ces produits contiennent des conservateurs et des additifs. Pour rester halal, choisis-les sans alcool.",
+   "t": "إضافة ماء الكيورا أو منكّه دون قراءة الملصق: فحسب Swasthi، تحتوي هذه المنتجات على مواد حافظة ومضافات. ولتبقى حلالًا، اخترها خالية من الكحول."
+  },
+  "variants.0": {
+   "fr": "Biryani « kachchi », le plus célèbre à Hyderabad (NewsMeter) : le poulet cru et mariné va au fond de la marmite, en une seule couche, sous le riz cuit aux trois quarts ; la marmite fermée cuit 20 minutes à feu moyen-vif sur une plaque, puis 15 minutes à feu très doux, et repose 20 à 30 minutes (Swasthi). Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable, et Wikipédia rappelle qu'il faut surveiller de près le temps et la chaleur pour que la viande soit assez cuite. Vérifie toujours la cuisson du poulet avant de servir (FSA).",
+   "t": "برياني «kachchi»، الأشهر في حيدر آباد (NewsMeter): يوضع الدجاج النيء المتبّل في قاع القدر، في طبقة واحدة، تحت الأرز المطهو بمقدار ثلاثة أرباع؛ وتُطهى القدر المغلقة 20 دقيقة على نار متوسطة إلى قوية فوق صفيحة، ثم 15 دقيقة على نار هادئة جدًا، وتُترك لترتاح من 20 إلى 30 دقيقة (Swasthi). وحسب Swasthi، هو سهل لكن لا يُنصح به لمن يبدأ طهي الدجاج أو يطهو على موقد متنقل، وتذكّر Wikipédia بضرورة مراقبة الوقت والحرارة عن كثب لكي ينضج اللحم بما يكفي. تحقّق دائمًا من نضج الدجاج قبل التقديم (FSA)."
+  },
+  "variants.1": {
+   "fr": "Cuisson à l'étouffée au four : marmite fermée au papier aluminium, 15 à 25 minutes à 180 °C pour un biryani pakki (Swasthi).",
+   "t": "الطهي على نار هادئة في الفرن: قدر مغلقة بورق الألومنيوم، من 15 إلى 25 دقيقة على حرارة 180 درجة مئوية لبرياني pakki (Swasthi)."
+  },
+  "variants.2": {
+   "fr": "Couvercle collé avec un boudin de pâte de farine et d'eau, à la place du papier aluminium (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",
+   "t": "غطاء ملصق بشريط من عجين الدقيق والماء، بدل ورق الألومنيوم (Kunal Kapur؛ Sanjeev Kapoor؛ Onmanorama)."
+  },
+  "variants.3": {
+   "fr": "Avec quelques gouttes d'eau de rose ou d'eau de kewra sur le riz (Sanjeev Kapoor ; Ranveer Brar) : seulement sans alcool, vérifie l'étiquette.",
+   "t": "ببضع قطرات من ماء الورد أو ماء الكيورا على الأرز (Sanjeev Kapoor؛ Ranveer Brar): بشرط أن يكون خاليًا من الكحول، فتحقّق من الملصق."
+  },
+  "variants.4": {
+   "fr": "Avec des pétales de rose séchés et une julienne de gingembre sur le riz (Sanjeev Kapoor, 2024).",
+   "t": "ببتلات ورد مجفّفة وشرائح رفيعة من الزنجبيل على الأرز (Sanjeev Kapoor، 2024)."
+  },
+  "variants.5": {
+   "fr": "Avec un trait de jus de citron dans la marinade (Swasthi ; Vismai Food).",
+   "t": "بقليل من عصير الليمون في التتبيلة (Swasthi؛ Vismai Food)."
+  },
+  "variants.6": {
+   "fr": "En deux couches, dans une marmite plus petite : la moitié du poulet, la moitié du riz, puis on recommence (Swasthi).",
+   "t": "على طبقتين، في قدر أصغر: نصف الدجاج، ثم نصف الأرز، ثم يُعاد ذلك مرة أخرى (Swasthi)."
+  },
+  "variants.7": {
+   "fr": "À la viande, comme le biryani hyderabadi d'origine, le plus souvent de la chèvre (Wikipédia). Sanjeev Kapoor et Kunal Kapur le font au « mutton » : la viande cuit plus longtemps, jusqu'à être tendre, avant le montage.",
+   "t": "باللحم، مثل البرياني الحيدر آبادي الأصلي، وغالبًا ما يكون لحم الماعز (Wikipédia). ويحضّره Sanjeev Kapoor وKunal Kapur بلحم «mutton»: يُطهى اللحم مدة أطول، حتى يصبح طريًا، قبل تركيب الطبقات."
+  },
+  "variants.8": {
+   "fr": "Biryani « sufiyani », blanc et doux, au lait, sans safran (NewsMeter).",
+   "t": "برياني «sufiyani»، أبيض ولطيف المذاق، بالحليب ودون زعفران (NewsMeter)."
+  }
+ }
+}

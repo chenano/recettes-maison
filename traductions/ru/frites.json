@@ -151,8 +151,8 @@
    "t": "Налейте во фритюрницу растительное масло для фритюра, как указано в инструкции, и установите 140 °C. Если фритюрницы нет, возьмите глубокую кастрюлю: заполните её не больше чем на треть и контролируйте температуру кулинарным термометром. Держите подходящую крышку под рукой. С этого момента не спускайте глаз с масла."
   },
   "steps.4.tip": {
-   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
-   "t": "Если масло загорелось: никакой воды и не передвигайте ёмкость. Если это можно сделать без опасности, выключите нагрев и накройте ёмкость крышкой, затем оставьте её остывать не меньше 30 минут, не трогая. Если нельзя, выйдите, закройте дверь и вызовите пожарных. Вызовите их, даже если огонь, кажется, погас: он мог перекинуться в воздуховод вытяжки (правительство Квебека, USFA, London Fire Brigade, пожарные Кембриджшира)."
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire). Coupe le chauffage seulement si tu peux le faire sans danger, sans te pencher au-dessus du récipient (London Fire Brigade, pompiers de Cambridgeshire) ; le gouvernement du Québec dit d'éteindre aussi, si possible, le four et la hotte. Le gouvernement du Québec et l'USFA conseillent de couvrir vite le récipient avec un couvercle adapté (l'USFA cite aussi une plaque de four). La London Fire Brigade et les pompiers de Cambridgeshire disent, eux, de ne pas attaquer le feu soi-même : sors de la pièce en fermant la porte, préviens les autres et fais sortir tout le monde, puis appelle les pompiers. Cambridgeshire ajoute de ne pas retourner à l'intérieur et, si le chauffage a pu être coupé et que le feu ne s'étend pas, de laisser le récipient refroidir au moins 30 minutes sans y toucher. Appelle les pompiers même si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec).",
+   "t": "Если масло загорелось: никакой воды и не передвигайте ёмкость (правительство Квебека, London Fire Brigade, пожарные Кембриджшира). Выключайте нагрев, только если это можно сделать без опасности, не наклоняясь над ёмкостью (London Fire Brigade, пожарные Кембриджшира); по словам правительства Квебека, по возможности нужно выключить также духовку и вытяжку. Правительство Квебека и USFA советуют быстро накрыть ёмкость подходящей крышкой (USFA называет также противень). А London Fire Brigade и пожарные Кембриджшира советуют не тушить огонь самостоятельно: выйдите из помещения, закрыв за собой дверь, предупредите остальных и выведите всех, затем вызовите пожарных. Пожарные Кембриджшира добавляют: не возвращайтесь внутрь, а если нагрев удалось выключить и огонь не распространяется, оставьте ёмкость остывать не меньше 30 минут, не трогая её. Вызовите пожарных, даже если огонь, кажется, погас: он мог перекинуться в воздуховод вытяжки (правительство Квебека)."
   },
   "steps.5.title": {
    "fr": "Première cuisson",
@@ -247,8 +247,8 @@
    "t": "Выньте корзину и хорошо встряхните её над маслом. Высыпьте картофель на бумажные полотенца и сразу, пока он обжигающе горячий, посолите небольшим количеством мелкой соли. Не накрывайте его."
   },
   "steps.10.tip": {
-   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
-   "t": "Когда встряхиваете корзину, масло с поверхности стекает: по данным FSA, картофель впитывает на 20 % меньше жира. В бельгийских фритюрных ёмкость встряхивают и постукивают по ней, чтобы стекло масло (Wikipédia)."
+   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins quand on secoue les frites et qu'on tape plusieurs fois le panier. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
+   "t": "Когда встряхиваете корзину, масло с поверхности стекает: по данным FSA, картофель впитывает на 20 % меньше жира, если его встряхнуть и несколько раз постучать по корзине. В бельгийских фритюрных ёмкость встряхивают и постукивают по ней, чтобы стекло масло (Wikipédia)."
   },
   "steps.11.title": {
    "fr": "Cuis les autres fournées",
@@ -351,8 +351,8 @@
    "t": "Встряхивайте корзину сразу, как вынули её из масла, и выкладывайте картофель на бумажные полотенца: остывая, он продолжает впитывать масло."
   },
   "secrets.8.source": {
-   "fr": "FSA (jusqu'à 20 % de gras absorbé en moins), Wikipédia, Navefri-Unafri",
-   "t": "FSA (до 20 % меньше впитанного жира), Wikipédia, Navefri-Unafri"
+   "fr": "FSA (20 % de gras absorbé en moins en secouant les frites et en tapant le panier), Wikipédia, Navefri-Unafri",
+   "t": "FSA (на 20 % меньше впитанного жира, если встряхнуть картофель и постучать по корзине), Wikipédia, Navefri-Unafri"
   },
   "secrets.9.text": {
    "fr": "Sale tout de suite, à la sortie de l'huile, quand les frites sont encore brûlantes : le sel se dissout et imprègne mieux. Et ne les couvre pas.",

@@ -58,10 +58,6 @@
    "fr": "petits pains ronds",
    "t": "булочки круглой формы"
   },
-  "ing.pain.pl5": {
-   "fr": "petit pain rond / petits pains ronds",
-   "t": "булочек круглой формы"
-  },
   "ing.pain.note": {
    "fr": "khobz ; un demi-pain par sandwich",
    "t": "хобз (марокканский хлеб); половина булочки на один сэндвич"
@@ -359,12 +355,16 @@
    "t": "Сардины на гриле из Эс-Сувейры: замаринованные в чермуле, обжаренные на огне, их подают с хлебом и оливками (Morocco World News Lifestyle, 2024)."
   },
   "variants.3": {
-   "fr": "Bocadillo au poisson dans le Nord : avec des sardines ou un autre poisson blanc pêché du jour (Morocco World News, 2021).",
-   "t": "Бокадильо с рыбой на севере: с сардинами или другой белой рыбой из сегодняшнего улова (Morocco World News, 2021)."
+   "fr": "Bocadillo au poisson dans le Nord : avec du poisson pêché du jour, sardines ou poisson blanc (Morocco World News, 2021).",
+   "t": "Бокадильо с рыбой на севере: с рыбой из сегодняшнего улова — сардинами или белой рыбой (Morocco World News, 2021)."
   },
   "variants.4": {
    "fr": "Sans pain : les sardines farcies avec la salade tomate-oignon (Morocco World News, 2021), ou avec des haricots blancs à la tomate et des salades (Taste of Maroc).",
    "t": "Без хлеба: фаршированные сардины с салатом из помидоров и лука (Morocco World News, 2021) или с белой фасолью в томатном соусе и салатами (Taste of Maroc)."
+  },
+  "ing.pain.pl5": {
+   "fr": "petit pain rond / petits pains ronds",
+   "t": "булочек круглой формы"
   }
  }
 }

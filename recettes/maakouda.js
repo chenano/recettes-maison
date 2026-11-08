@@ -1,0 +1,452 @@
+/* Recette : Maakouda (beignets de pommes de terre). Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "maakouda",
+ "title": "Maakouda (beignets de pommes de terre)",
+ "darija": "maakouda",
+ "arabic": "معقودة",
+ "tagline": "De petites galettes de purée à l'ail et au persil, trempées dans une pâte jaune à la levure et frites : croustillantes dehors, fondantes dedans, la maakouda des snacks marocains.",
+ "category": "Accompagnement",
+ "occasion": "En-cas de rue, entrée, accompagnement ou garniture de sandwich (My Moroccan Food). Elle est aussi servie au ftour du ramadan (MWN Lifestyle, Morocco World News).",
+ "region": "Fès. Selon un vendeur de maakouda de Fès, c'est un plat d'origine fassie, né dans le quartier des Achabine (Febrayer). C'est à Fès qu'elle est la plus célèbre (MWN Lifestyle, 2021). Elle est aujourd'hui vendue dans presque toutes les villes du Maroc (MWN Lifestyle).",
+ "servings": 15,
+ "servings_label": "pièces",
+ "time": {
+  "prep": 25,
+  "cook": 35,
+  "rest": 30,
+  "rest_label": "Levée"
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un grand saladier et un fouet pour la pâte",
+  "Un torchon propre ou du film alimentaire",
+  "Une casserole pour les pommes de terre, et une passoire",
+  "Un presse-purée, une fourchette ou une cuillère en bois",
+  "Une plaque avec du papier sulfurisé",
+  "Une friteuse électrique à thermostat (le plus sûr), ou une casserole profonde et un thermomètre de cuisson",
+  "Un couvercle à la taille de la casserole, toujours à portée de main",
+  "Deux cuillères ou une fourchette pour enrober",
+  "Une écumoire et du papier absorbant"
+ ],
+ "ingredients": [
+  {
+   "group": "La pâte à beignets",
+   "items": [
+    {
+     "id": "farine",
+     "q": 145,
+     "u": "g",
+     "name": "de farine blanche",
+     "canon": "farine"
+    },
+    {
+     "id": "levure",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de levure de boulanger sèche",
+     "canon": "levure-boulangere"
+    },
+    {
+     "id": "curcuma",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de curcuma",
+     "note": "pour la couleur jaune",
+     "canon": "curcuma"
+    },
+    {
+     "id": "sel-pate",
+     "q": 0.25,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "eau",
+     "q": 175,
+     "u": "ml",
+     "name": "d'eau tiède",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "La purée",
+   "items": [
+    {
+     "id": "pdt",
+     "q": 500,
+     "u": "g",
+     "name": "de pommes de terre",
+     "canon": "pomme-de-terre"
+    },
+    {
+     "id": "sel-cuisson",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "note": "une pincée, pour l'eau de cuisson",
+     "canon": "sel"
+    },
+    {
+     "id": "persil",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de persil plat haché finement",
+     "canon": "persil"
+    },
+    {
+     "id": "ail",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "d'ail haché finement",
+     "canon": "ail"
+    },
+    {
+     "id": "sel",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre noir moulu",
+     "note": "selon le goût ; My Moroccan Food en met ¼ c. à c. pour 500 g",
+     "canon": "poivre"
+    },
+    {
+     "id": "piment",
+     "q": null,
+     "u": "",
+     "name": "piment fort en poudre",
+     "note": "facultatif ; Cooking With Alia en met ¼ c. à c. pour 800 g",
+     "canon": "piment-cayenne"
+    }
+   ]
+  },
+  {
+   "group": "Friture et service",
+   "items": [
+    {
+     "id": "huile",
+     "q": null,
+     "u": "",
+     "name": "huile végétale de friture",
+     "note": "tournesol, arachide ou olive : elles fument vers 210 à 220 °C, au-dessus des 180 °C de la friture, alors que la graisse végétale à frire fume dès 175 °C (gouvernement du Québec) ; casserole remplie au tiers de sa hauteur au plus",
+     "canon": "huile"
+    },
+    {
+     "id": "pain",
+     "q": null,
+     "u": "",
+     "name": "pain (khobz ou demi-baguette)",
+     "note": "facultatif, pour les sandwichs",
+     "canon": "khobz"
+    },
+    {
+     "id": "harissa",
+     "q": null,
+     "u": "",
+     "name": "harissa",
+     "note": "facultatif, pour servir",
+     "canon": "harissa"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Prépare la pâte à beignets",
+   "text": "Dans un grand saladier, mélange {{farine}} de farine, {{levure}} de levure, {{curcuma}} de curcuma et {{sel-pate}} de sel. Verse {{eau}} d'eau tiède peu à peu, en fouettant, jusqu'à une pâte lisse et épaisse, sans grumeaux.",
+   "timer": null,
+   "tip": "La pâte doit napper : ni trop épaisse (ajoute 2 c. à s. d'eau si besoin), ni trop liquide, sinon elle se défait dans l'huile (My Moroccan Food). Dialna la veut lisse et épaisse, comme une pâte à pancakes ou une béchamel."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisse lever la pâte",
+   "text": "Couvre le saladier avec un torchon propre ou du film alimentaire. Laisse lever la pâte à température ambiante de 30 minutes à 1 heure. Pendant ce temps, prépare la purée.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis les pommes de terre",
+   "text": "Épluche {{pdt}} de pommes de terre et coupe-les en morceaux. Mets-les dans une casserole d'eau froide avec une pincée de {{sel-cuisson}}. Porte à ébullition, puis laisse cuire à feu moyen environ 20 minutes, jusqu'à ce qu'elles soient bien tendres.",
+   "timer": {
+    "min": 20,
+    "label": "Pommes de terre",
+    "done": "Pique un morceau avec un couteau : il doit entrer sans résistance."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Écrase en purée",
+   "text": "Égoutte bien les pommes de terre dans une passoire. Mets-les dans un saladier et écrase-les en purée bien lisse.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Assaisonne la purée",
+   "text": "Ajoute {{persil}} de persil, {{ail}} d'ail, {{sel}} de sel et un peu de {{poivre}}. Si tu aimes le piquant, ajoute un peu de {{piment}}. Mélange bien, goûte et rectifie le sel.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisse tiédir",
+   "text": "Laisse tiédir la purée jusqu'à ce que tu puisses la prendre dans tes mains sans te brûler.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Façonne les galettes",
+   "text": "Prends un peu de purée, roule-la en boule puis aplatis-la entre tes paumes : une galette d'environ 5 cm de large. Pose les galettes sur une plaque couverte de papier sulfurisé et garde-les au frais jusqu'à la friture.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Prépare la friture",
+   "text": "Prends une friteuse à thermostat ou une casserole profonde. Verse l'{{huile}} : jamais plus d'un tiers de la hauteur de la casserole. Pose un couvercle de la bonne taille à portée de main.",
+   "timer": null,
+   "tip": "My Moroccan Food met environ 5 cm d'huile, Dialna quelques centimètres (environ 2,5 cm). Une friteuse électrique règle seule la température : elle est plus sûre (London Fire Brigade, gouvernement du Québec)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffe l'huile à 180 °C",
+   "text": "Chauffe l'huile à 180 °C, en la contrôlant avec le thermostat ou un thermomètre. Elle ne doit jamais fumer : si elle fume, coupe le feu et laisse-la refroidir. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "timer": null,
+   "tip": "Si l'huile prend feu : jamais d'eau, et ne déplace pas la casserole. Pose vite le couvercle dessus et coupe le feu si tu peux. Puis appelle les pompiers, même si le feu semble éteint (gouvernement du Québec)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Enrobe une galette de pâte",
+   "text": "Plonge une galette dans la pâte et retourne-la avec deux cuillères ou une fourchette, pour la couvrir entièrement. Soulève-la et glisse-la doucement dans l'huile chaude.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais frire par petites fournées",
+   "text": "Fais frire quelques galettes à la fois, sans les serrer. Retourne-les plusieurs fois, jusqu'à ce qu'elles soient dorées de tous les côtés. Ne les laisse pas brunir.",
+   "timer": null,
+   "tip": "Le beignet gonfle et remonte vite à la surface ; My Moroccan Food compte environ 3 minutes. La FSA (agence sanitaire britannique) conseille une couleur jaune doré, pas plus foncée, quand on fait frire des aliments riches en amidon comme la pomme de terre."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte et continue",
+   "text": "Sors les maakouda avec l'écumoire et pose-les sur du papier absorbant. Attends que l'huile revienne à 180 °C, puis fais frire la fournée suivante. Éteins le feu dès la dernière fournée sortie.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers chaud",
+   "text": "Sers les maakouda bien chaudes, seules, avec un peu de {{harissa}}, ou en sandwich dans du {{pain}}.",
+   "timer": null,
+   "tip": "Pour le sandwich, Cooking With Alia tartine une demi-baguette de ketchup ou de harissa, puis ajoute de la laitue, les maakouda et des tranches de tomate."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "La maakouda des snacks est une petite galette de purée trempée dans une pâte jaune à la levure, puis frite.",
+   "source": "My Moroccan Food (levure, farine, curcuma) ; Lalla Moulati n° 229999 (farine, eau tiède, curcuma, sel, levure)"
+  },
+  {
+   "text": "La purée est simple : pomme de terre cuite à l'eau, persil, ail, sel et poivre.",
+   "source": "My Moroccan Food ; Febrayer (ail, sel et piment, selon un vendeur de Fès)"
+  },
+  {
+   "text": "Le curcuma donne à la pâte sa couleur jaune.",
+   "source": "My Moroccan Food ; Dialna (Asif) ; Lalla Moulati n° 229999 et 292849"
+  },
+  {
+   "text": "Laisse lever la pâte avant de l'utiliser : 30 minutes chez My Moroccan Food, 1 heure chez Dialna.",
+   "source": "My Moroccan Food ; Dialna (Asif)"
+  },
+  {
+   "text": "Écrase les pommes de terre en purée bien lisse.",
+   "source": "Cooking With Alia n° 599 ; My Moroccan Food ; Dialna (Asif) ; MWN Lifestyle"
+  },
+  {
+   "text": "Fais des galettes d'environ 5 cm de large.",
+   "source": "Cooking With Alia n° 599 ; My Moroccan Food"
+  },
+  {
+   "text": "Garde les galettes au frais jusqu'au moment de les frire.",
+   "source": "My Moroccan Food"
+  },
+  {
+   "text": "Fais frire à 180 °C, et garde l'huile à cette température pendant toute la friture.",
+   "source": "My Moroccan Food ; Dialna (Asif)"
+  },
+  {
+   "text": "Ne surcharge pas la casserole : l'huile doit garder sa chaleur, et les beignets restent croustillants.",
+   "source": "Dialna (Asif) ; MWN Lifestyle ; MarocMama"
+  },
+  {
+   "text": "Retourne les beignets plusieurs fois, doucement, jusqu'à ce qu'ils soient dorés.",
+   "source": "My Moroccan Food ; Cooking With Alia n° 599"
+  },
+  {
+   "text": "Égoutte-les sur du papier absorbant et mange-les chauds.",
+   "source": "My Moroccan Food ; Dialna (Asif) ; Cooking With Alia n° 599 ; MWN Lifestyle"
+  },
+  {
+   "text": "En sandwich, on la sert avec une sauce : harissa, sauce tomate citronnée ou ketchup.",
+   "source": "My Moroccan Food ; Cooking With Alia n° 599 ; Wikipédia (anglais), « Ma'quda »"
+  }
+ ],
+ "mistakes": [
+  "Faire une pâte trop liquide : elle se défait dans l'huile (My Moroccan Food).",
+  "Mettre trop de beignets à la fois : l'huile refroidit (Dialna ; MWN Lifestyle).",
+  "Laisser l'huile fumer : elle est trop chaude et peut prendre feu. Coupe le feu et laisse-la refroidir (London Fire Brigade ; gouvernement du Québec).",
+  "Remplir la casserole de plus d'un tiers d'huile (London Fire Brigade).",
+  "Jeter de l'eau sur de l'huile en feu, ou déplacer la casserole en flammes (gouvernement du Québec).",
+  "Quitter la cuisine pendant la friture (gouvernement du Québec).",
+  "Laisser les beignets brunir : vise le jaune doré (FSA, conseils sur l'acrylamide).",
+  "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA)."
+ ],
+ "serving": "Sers les maakouda chaudes, juste après les avoir égouttées (MWN Lifestyle ; My Moroccan Food). Mange-les seules avec de la harissa ou du ketchup (MWN Lifestyle), avec une sauce tomate à la harissa et au citron (My Moroccan Food), ou en sandwich : dans le pain marocain avec de la harissa (Wikipédia), ou dans une demi-baguette avec ketchup ou harissa, laitue et tomate (Cooking With Alia). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+ "variants": [
+  "Maakouda maison à l'œuf, sans pâte à la levure : Cooking With Alia (n° 599) trempe les galettes dans 2 œufs battus, puis les farine légèrement (60 g de farine pour 800 g de pommes de terre), et les fait frire à feu moyen quelques minutes de chaque côté.",
+  "Œuf et farine dans la purée, puis galettes farinées avant la friture (MWN Lifestyle ; MarocMama). Lalla Moulati met 2 œufs dans la purée (n° 349170).",
+  "Persil et coriandre mêlés (Dialna ; Lalla Moulati n° 229999 et 349170).",
+  "Un peu de cumin dans la purée (Dialna : ¼ c. à c. pour 1 kg ; Lalla Moulati n° 229999 et 349170).",
+  "1 c. à c. de harissa dans la purée pour 1 kg de pommes de terre (Dialna).",
+  "Pâte à la levure chimique (un sachet de 8 g) au lieu de la levure de boulanger (Lalla Moulati n° 292849).",
+  "Avec du fromage dans la purée (Febrayer ; Lalla Moulati n° 349170). Si tu veux être strict sur le halal, prends un fromage à coagulant microbien, sans présure animale.",
+  "Sauce de My Moroccan Food : 2 c. à s. de concentré de tomate, 2 c. à c. de harissa, le jus d'un citron, ½ c. à c. de sel et ¼ c. à c. de cumin, mélangés.",
+  "Sauce de Dialna : tomates râpées sans la peau, sel et huile d'olive, avec un peu d'ail râpé ou de harissa si tu veux."
+ ],
+ "sources": [
+  {
+   "name": "Cooking With Alia (Alia Al Kasimi), « Maakouda / معقودة » (n° 599)",
+   "url": "https://www.cookingwithalia.com/599-maakouda/",
+   "used_for": "Source marocaine : nom darija et arabe ; 800 g de pommes de terre, ail, persil, paprika, piment ; cuisson à l'eau froide salée, environ 20 min ; purée lisse ; galettes de 5 cm ; variante œuf puis farine, frite à feu moyen ; retourner doucement ; papier absorbant ; sandwich demi-baguette, ketchup ou harissa, laitue, tomate."
+  },
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Maakouda – Moroccan Potato Beignet », 14 janvier 2016",
+   "url": "https://www.mymoroccanfood.com/home/maakouda-moroccan-potato-beignet",
+   "used_for": "Source marocaine : 15 pièces pour 500 g ; persil, ail, sel, poivre ; pâte à la levure, farine, curcuma, sel, eau, 30 min de levée, ni trop épaisse ni trop liquide ; disques de 5 cm au frais ; 5 cm d'huile à 180 °C ; environ 3 min en retournant ; papier absorbant ; sauce harissa-tomate ; entrée, accompagnement ou sandwich, street food très courante."
+  },
+  {
+   "name": "Febrayer, Zakaria, « المعقودة..تعرف على قصة أشهر أكلة فاسية..أكلة الطلبة وأولاد الشعب », 7 novembre 2019",
+   "url": "https://febrayer.com/679681.html",
+   "used_for": "Source marocaine : plat fassi né aux Achabine, selon un vendeur de maakouda de Fès ; pommes de terre cuites à l'eau, ail, sel, piment fort ; œuf et fromage possibles ; plat économique des étudiants et des familles."
+  },
+  {
+   "name": "MWN Lifestyle (Morocco World News), Majda Bouzaroita, « Your New Ramadan Snack: Maakouda », 22 février 2026",
+   "url": "https://mwnlifestyle.com/2026/02/22/your-new-ramadan-snack-maakouda/",
+   "used_for": "Source marocaine : purée lisse, version à l'œuf et à la farine ; huile à feu moyen ; ne pas surcharger ; papier absorbant ; servir chaud avec harissa, ketchup ou salade ; ftour du ramadan, souks et maisons."
+  },
+  {
+   "name": "MWN Lifestyle, Majda Bouzaroita, « Five Street Foods in Morocco That Are Uniquely Moroccan », 30 juillet 2021",
+   "url": "https://mwnlifestyle.com/2021/07/30/five-street-foods-in-morocco-that-are-uniquely-moroccan/",
+   "used_for": "Source marocaine : maakouda très connue à Fès, mangée seule ou en sandwich ; vendue dans presque toutes les villes ; sandwichs garnis à Meknès."
+  },
+  {
+   "name": "Lalla Moulati, « معقودة المطاعم بدون بيض ... مع صلصة الطماطم الخاصة بها » (n° 229999), 2 avril 2020",
+   "url": "https://www.lalamoulati.net/229999.html",
+   "used_for": "Source marocaine : maakouda des restaurants sans œuf ; purée à l'ail, coriandre, persil, épices ; pâte de farine, eau tiède, curcuma, sel et levure (liste d'ingrédients ; méthode seulement en vidéo, non vue)."
+  },
+  {
+   "name": "Lalla Moulati, « حضري معقودة البطاطس أحسن من المطاعم ... بلا نشا ولا بيض » (n° 292849), 18 septembre 2021",
+   "url": "https://www.lalamoulati.net/292849.html",
+   "used_for": "Source marocaine : pâte liquide au curcuma et à la levure chimique (8 g) ; liste d'ingrédients, méthode en vidéo (non vue)."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة جديدة تحضري بها معقودة مغربية على حقها وطريقها » (n° 349170), 12 décembre 2022",
+   "url": "https://www.lalamoulati.net/349170.html",
+   "used_for": "Source marocaine, variante : 2 œufs dans la purée, ail, persil, coriandre, cumin, piment, fromage."
+  },
+  {
+   "name": "Asif (centre culinaire, Tel-Aviv), Reut Ezer-Asaraf et Michal Waxman, « Maakouda: Deep-Fried Potato Cakes », tirée de leur livre « Dialna »",
+   "url": "https://asif.org/en/recipes/maakuda/",
+   "used_for": "Recettes de famille marocaines (non comptée comme source marocaine) : pâte de 175 g de farine, 300 ml d'eau, levure, curcuma et sel, levée 1 h ; 1 kg de pommes de terre cuites 20 à 25 min ; galettes aplaties ; friture à 180 °C, sans surcharger ; papier absorbant ; sauce tomate."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki, Américaine vivant au Maroc), « Ma'akouda – The Moroccan \"French Fry\" »",
+   "url": "https://marocmama.com/maakouda-the-moroccan-french-fry/",
+   "used_for": "Source non marocaine, comparaison : version œuf et farine ; 680 g de pommes de terre (1 1/2 lb) ; huile à feu moyen ; ne pas surcharger ; papier absorbant ; Essaouira."
+  },
+  {
+   "name": "Wikipédia (anglais), « Ma'quda », consultée le 8 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Ma%27quda",
+   "used_for": "Au Maroc, vendue dans la rue, surtout en sandwich dans le pain marocain avec de la harissa ; plat bon marché des étudiants à Fès ; ftour du ramadan."
+  },
+  {
+   "name": "Choumicha, « Maâqouda à la viande hachée » (n° 1258), copie Wayback Machine du 9 février 2026",
+   "url": "https://web.archive.org/web/20260209212003/https://www.choumicha.ma/recette/1258-maaqouda-a-la-viande-hachee.html",
+   "used_for": "Montre qu'une autre « maâqouda » est un plat d'œufs cuit au four (aussi n° 1260 au poulet) : pas la même recette."
+  },
+  {
+   "name": "London Fire Brigade (pompiers de Londres), « Deep fat fryers », consultée le 8 novembre 2026",
+   "url": "https://www.london-fire.gov.uk/safety/the-home/cooking/deep-fat-fryers/",
+   "used_for": "Casserole remplie au tiers au plus ; aliments secs ; huile qui fume = trop chaude, couper le feu et laisser refroidir ; friteuse électrique à thermostat, plus sûre."
+  },
+  {
+   "name": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez », mis à jour le 10 octobre 2025",
+   "url": "https://www.quebec.ca/securite-situations-urgence/securite-incendie/prevenir-incendie/cuisine",
+   "used_for": "Surveiller la cuisson à l'huile ; couvercle à portée de main ; friteuse à thermostat ; ne jamais laisser chauffer une huile qui fume ; feu d'huile : jamais d'eau, ne pas déplacer, couvercle, couper les éléments si possible, appeler les pompiers."
+  },
+  {
+   "name": "FSA (Food Standards Agency, Royaume-Uni), « Acrylamide », GOV.UK, publié le 9 janvier 2018",
+   "url": "https://www.gov.uk/government/publications/acrylamide/acrylamide",
+   "used_for": "Viser une couleur jaune doré ou plus claire quand on fait frire des aliments riches en amidon, comme la pomme de terre."
+  },
+  {
+   "name": "FSA, « Cooking your food », GOV.UK, publié le 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Restes au frigo dans les 2 heures, mangés dans les 48 heures, réchauffés une seule fois jusqu'à être brûlants partout."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », consultée le 8 novembre 2026",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Pas plus de 2 heures à température ambiante avant le frigo ; frigo à 4 °C dans sa zone la plus froide."
+  }
+ ],
+ "discrepancies": [
+  "Deux façons de faire : galettes trempées dans une pâte jaune à la levure (My Moroccan Food ; Dialna ; Lalla Moulati n° 229999 et 292849), ou galettes à l'œuf et à la farine (Cooking With Alia ; MWN Lifestyle ; MarocMama ; Lalla Moulati n° 349170). Retenu : la pâte à la levure, la façon des snacks (Lalla Moulati n° 229999 l'appelle « معقودة المطاعم », la maakouda des restaurants), la seule dont deux recettes donnent les quantités et la température de l'huile (My Moroccan Food ; Dialna). L'autre est donnée en variante.",
+  "Chez Choumicha, « maâqouda » désigne un autre plat : des œufs battus avec viande ou poulet et fromage, cuits au four (n° 1258 et 1260). Aucune maakouda de pommes de terre trouvée chez elle.",
+  "Pâte, ramenée à 500 g de pommes de terre : farine 200 g (My Moroccan Food) ou 87,5 g (Dialna) ; eau 200 ml, plus 2 c. à s. pour activer la levure (My Moroccan Food), ou 150 ml (Dialna) ; levure 1 ou ¾ c. à c. (Dialna : ½ c. à s. pour 1 kg) ; curcuma ½ ou ⅛ c. à c. ; sel ½ ou ⅛ c. à c. Retenu : la médiane, arrondie : 145 g de farine, 175 ml d'eau, 1 c. à c. de levure (médiane 0,875), ¼ c. à c. de curcuma et ¼ de sel (médiane 0,31). Calculs faits avec python3 -I.",
+  "Persil, pour 500 g : 2 c. à s. (My Moroccan Food), 4 c. à s. d'herbes mêlées (Dialna : ½ tasse, soit 8 c. à s., pour 1 kg), 0,6 c. à s. (Cooking With Alia : 1 c. à s. pour 800 g). Retenu : 2 c. à s. (médiane).",
+  "Ail, pour 500 g : 1,5 c. à c. haché (My Moroccan Food), 0,7 c. à c. (MarocMama : 1 c. à c. pour 680 g) ; Cooking With Alia met 1 gousse pour 800 g. Retenu : 1 c. à c. (médiane 1,1). Dialna n'en met pas.",
+  "Sel de la purée, pour 500 g : ½ c. à c. (My Moroccan Food), 0,37 (MarocMama) ; « selon le goût » chez Cooking With Alia et Dialna. Retenu : ½ c. à c., à goûter. Poivre : ¼ c. à c. (My Moroccan Food) contre 1,1 (MarocMama) : trop différent, laissé « selon le goût ».",
+  "Levée de la pâte : 30 minutes (My Moroccan Food) ou 1 heure (Dialna) : pas de minuteur ; « rest » compte 30 minutes.",
+  "Cuisson des pommes de terre : environ 20 minutes (Cooking With Alia), 20 à 25 minutes (Dialna) : minuteur de 20 minutes. Épluchées avant la cuisson (Cooking With Alia ; Dialna) ou après (My Moroccan Food) : retenu avant.",
+  "Huile : 5 cm (My Moroccan Food) ou environ 2,5 cm (Dialna) ; huile d'olive chez Dialna, huile végétale chez Cooking With Alia. Retenu : huile végétale, casserole remplie au tiers au plus (London Fire Brigade).",
+  "Taille : galettes de 5 cm (My Moroccan Food ; Cooking With Alia) ; boules de la taille d'une balle de ping-pong, aplaties (Dialna). Nombre : 15 pour 500 g (My Moroccan Food) ; Dialna en fait 10 à 15, plus grosses, avec 1 kg. Retenu : 15 pièces de 5 cm.",
+  "Durée de friture : environ 3 minutes (My Moroccan Food) ; « jusqu'à doré » (Dialna) ; « quelques minutes de chaque côté » (Cooking With Alia, version à l'œuf). Pas de minuteur : on juge à la couleur.",
+  "Conversions faites avec python3 -I : 350 °F = 176,7 °C (My Moroccan Food écrit 180 °C) ; 1 pouce = 2,54 cm ; 1 ½ lb = 680 g.",
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 19 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 3 précision(s) apportée(s) après vérification des sources."
+ ],
+ "unverified": [
+  "Temps de préparation (25 min) et de cuisson (35 min) : estimations ; les sources ne donnent que des totaux différents (Dialna 1 h 30 avec 1 h de levée ; Cooking With Alia 1 h, version à l'œuf).",
+  "Quantités de la pâte : une seule source marocaine les chiffre (My Moroccan Food) ; la deuxième est le livre « Dialna », de recettes de famille marocaines, publié en Israël.",
+  "Histoire de la maakouda (née dans le quartier des Achabine, à Fès) : racontée seulement par un vendeur de Fès (Febrayer) ; aucune source historique lue. L'article de Hespress (Saad Sarhan) n'a pas pu être lu : site en 403 et aucune copie web.archive.org.",
+  "Lalla Moulati : les méthodes sont seulement en vidéo (YouTube), non regardées ; seules les listes d'ingrédients ont servi.",
+  "Variété de pomme de terre : Dialna prend une chair ferme, MarocMama une Yukon Gold « ou une autre pomme de terre tendre » (soft), à peau fine, qu'elle cuit et garde avec la peau, les autres ne disent rien ; non précisée dans la recette.",
+  "Test de l'huile sans thermomètre : aucune source lue ; la recette demande un thermostat ou un thermomètre.",
+  "Congélation des maakouda : non vérifiée.",
+  "Taste of Maroc : site en 403 (pare-feu) ; aucune maakouda dans ses copies Wayback. Non consultés car leur robots.txt l'interdit : chhiwat.com, foodish.anumuseum.org.il, tabletmag.com, 196flavors.com.",
+  "Version de Pâque de kosher.com (jaunes d'œufs, safran, piment de la Jamaïque, citron, sans farine) : lue, non retenue (autre style).",
+  "MWN Lifestyle décrit à Meknès un sandwich avec de la charcuterie : non repris.",
+  "Numéro des pompiers au Maroc : non vérifié ; la recette dit seulement « appelle les pompiers ».",
+  "Nom « maakouda » en lettres latines : écrit ainsi par Cooking With Alia, My Moroccan Food et MWN Lifestyle."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "serv_step": 5,
+ "img_alt": "Maakouda : galettes de pommes de terre aux herbes, dorées à la friture",
+ "img": "img/maakouda.jpg",
+ "photo": {
+  "author": "eric.delcroix",
+  "license": "CC BY-NC-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "page": "https://www.flickr.com/photos/24998164@N06/25664374184",
+  "modified": "non modifiée"
+ }
+});

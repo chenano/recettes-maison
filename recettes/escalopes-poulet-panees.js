@@ -8,7 +8,7 @@ window.RECETTES.push({
  "tagline": "Des escalopes de poulet bien fines, passées dans la farine, l'œuf et la chapelure, puis dorées à la poêle : croustillantes dehors, moelleuses dedans.",
  "category": "Rapide",
  "occasion": "Dîner rapide des soirs de fatigue. Les enfants adorent l'escalope panée (Migusto, Betty Bossi).",
- "region": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
+ "region": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel), plat de Vienne fait de veau et pané de la même façon (farine, œuf, chapelure), est une proche cousine de ces escalopes de poulet panées. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
  "servings": 4,
  "servings_label": "personnes",
  "time": {
@@ -275,7 +275,7 @@ window.RECETTES.push({
   "Façon milanaise : mélange du parmesan râpé à la chapelure (Chef Simon : un tiers de parmesan ; la rédaction du Journal des Femmes en met avec du persil). Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
   "Au panko, la chapelure japonaise (Great British Chefs, Ben Tish ; Betty Bossi la propose aussi).",
   "Double panure : repasse l'escalope déjà panée dans l'œuf, puis dans la chapelure, pour une croûte plus épaisse (Betty Bossi, Ben Tish).",
-  "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
+  "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; ici, contrairement à la recette de base, où l'on pane juste avant de cuire, les escalopes panées reposent environ 30 minutes au réfrigérateur avant la cuisson : c'est le choix propre à Cyril Lignac, pour que les œufs « s'amalgament » bien (Journal des Femmes, 2024).",
   "Façon israélienne : chapelure relevée de paprika ou de graines de sésame, cuisson à l'huile végétale (Wikipédia).",
   "Holstein : un œuf au plat posé sur chaque escalope (Chef Simon, qui ajoute des filets d'anchois).",
   "Avec des cuisses de poulet désossées, plus juteuses, et un beurre noisette aux câpres (Diana Henry, BBC Good Food).",
@@ -452,7 +452,8 @@ window.RECETTES.push({
   "Temps total : 20 minutes (Cyril Lignac, cité par le Journal des Femmes, pour 4), 30 minutes (Diana Henry, 4 hauts de cuisse pour 2 personnes ; Cuisine AZ, pour 4), 35 minutes (Great British Chefs, 6 schnitzels), 40 minutes (Migusto, pour 4, une escalope à la fois, environ 3 minutes chacune). Retenu : 30 minutes (médiane), soit environ 12 minutes pour aplatir et paner et 18 minutes pour deux fournées de 2 fois 4 minutes ; avec une petite poêle, une escalope à la fois, compte plutôt 45 minutes (12 minutes, plus 4 fournées de 8 minutes, calcul python).",
   "Repos : Cuisine AZ laisse les escalopes panées 15 minutes à température ambiante, Cyril Lignac 30 minutes au réfrigérateur (version légère) ; Betty Bossi et Migusto demandent de paner juste avant de cuire. Retenu : pas de repos.",
   "Feu d'huile : le BPA conseille d'étouffer avec un couvercle ou une couverture anti-feu ; le gouvernement britannique dit de couper le feu si c'est sans danger et de ne pas affronter le feu soi-même. Les deux conseils sont donnés, avec la priorité à la sécurité.",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 13 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Température à cœur de 74 °C (165 °F) de la FDA : non vérifiée. Le site de la FDA a bloqué l'accès (page de détection d'abus) et ceux de l'USDA, de Santé Canada, de FoodSafety.gov et des CDC ont répondu 403 ; ils ne sont pas utilisés. La recette suit l'Anses (70 °C à cœur) et la FSA (75 °C pendant 30 secondes).",

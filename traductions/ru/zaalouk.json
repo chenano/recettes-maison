@@ -1,0 +1,474 @@
+{
+ "_slug": "zaalouk",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Zaalouk d'aubergines",
+   "t": "Заалук из баклажанов"
+  },
+  "darija": {
+   "fr": "Zaâlouk",
+   "t": "Заалук"
+  },
+  "tagline": {
+   "fr": "Des aubergines grillées au goût fumé, écrasées dans une sauce tomate à l'ail, au cumin et au paprika, puis cuites jusqu'à ce que tout épaississe. Tiède ou froid, avec du pain.",
+   "t": "Запечённые на огне баклажаны с дымным вкусом, размятые в томатном соусе с чесноком, кумином (зирой) и паприкой и тушённые, пока всё не загустеет. Едят тёплым или холодным, с хлебом."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; la recette change d'une région et d'une famille à l'autre (My Moroccan Food)",
+   "t": "Всё Марокко; рецепт меняется от региона к региону и от семьи к семье (My Moroccan Food)"
+  },
+  "occasion": {
+   "fr": "Salade cuite du quotidien, servie en entrée ou à côté des plats principaux, avec du pain",
+   "t": "Повседневный салат из тушёных овощей, который подают как закуску или к основным блюдам, с хлебом"
+  },
+  "serving": {
+   "fr": "Sers le zaalouk tiède, froid ou à température ambiante (Taste of Maroc ; Choumicha : tiède ou froid ; Cooking With Alia : chaud ou froid, avec du pain). Il se mange en entrée (Morocco World News ; El Fenn) ou à côté des plats principaux, en le prenant avec du khobz, qui sert de couverts (Taste of Maroc). Arrose-le d'un filet d'huile d'olive et parsème-le de coriandre ou de persil (Taste of Maroc, My Moroccan Food). Fatéma Hal le sert avec des quartiers de citron et des olives noires.",
+   "t": "Подавайте заалук тёплым, холодным или комнатной температуры (Taste of Maroc; Choumicha: тёплым или холодным; Cooking With Alia: горячим или холодным, с хлебом). Его едят как закуску (Morocco World News; El Fenn) или с основными блюдами, захватывая хобзом (марокканским хлебом), который заменяет столовые приборы (Taste of Maroc). Полейте его тонкой струйкой оливкового масла и посыпьте кинзой или петрушкой (Taste of Maroc, My Moroccan Food). Fatéma Hal подаёт его с дольками лимона и чёрными оливками."
+  },
+  "ing.0.group": {
+   "fr": "Aubergines",
+   "t": "Баклажаны"
+  },
+  "ing.aubergines.name": {
+   "fr": "d'aubergines",
+   "t": "баклажанов"
+  },
+  "ing.aubergines.note": {
+   "fr": "entières, avec la peau et la queue",
+   "t": "целых, с кожурой и плодоножкой"
+  },
+  "ing.1.group": {
+   "fr": "Sauce tomate",
+   "t": "Томатный соус"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "очень спелых помидоров"
+  },
+  "ing.tomates.note": {
+   "fr": "tendres et bien rouges",
+   "t": "мягких и ярко-красных"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "количество уточните, пробуя на вкус"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой свежей кинзы"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "вода"
+  },
+  "ing.eau.note": {
+   "fr": "seulement si la sauce attache",
+   "t": "только если соус начинает прилипать"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "Завершение и подача"
+  },
+  "ing.citron-jus.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron-jus.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron-jus.note": {
+   "fr": "pour le jus",
+   "t": "для сока"
+  },
+  "ing.citron-service.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron-service.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron-service.note": {
+   "fr": "en quartiers, pour servir",
+   "t": "дольками, для подачи"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "оливковое масло"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, pour servir",
+   "t": "тонкой струйкой, для подачи"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre ou persil haché",
+   "t": "рубленая кинза или петрушка"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour décorer",
+   "t": "для украшения"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "хобз (марокканский хлеб)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour prendre le zaalouk",
+   "t": "чтобы захватывать заалук"
+  },
+  "equipment.0": {
+   "fr": "Gazinière ou gril (sinon, four avec fonction gril et plaque couverte de papier aluminium)",
+   "t": "Газовая плита или гриль (иначе — духовка с функцией гриля и противень, застеленный фольгой)"
+  },
+  "equipment.1": {
+   "fr": "Sac en plastique propre",
+   "t": "Чистый полиэтиленовый пакет"
+  },
+  "equipment.2": {
+   "fr": "Grande sauteuse profonde",
+   "t": "Большой глубокий сотейник"
+  },
+  "equipment.3": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "equipment.4": {
+   "fr": "Grand saladier et fourchette",
+   "t": "Большая миска и вилка"
+  },
+  "equipment.5": {
+   "fr": "Éplucheur à dents ou râpe, pour les tomates",
+   "t": "Овощечистка с зубчатым лезвием или тёрка, для помидоров"
+  },
+  "equipment.6": {
+   "fr": "Presse-ail, ou mortier et pilon",
+   "t": "Пресс для чеснока или ступка с пестиком"
+  },
+  "steps.0.title": {
+   "fr": "Prépare tomates, ail et herbes",
+   "t": "Подготовьте помидоры, чеснок и зелень"
+  },
+  "steps.0.text": {
+   "fr": "Pèle {{tomates}} de tomates (un éplucheur à dents aide), épépine-les et coupe-les en tout petits dés. Plus simple : coupe-les en deux, râpe la chair et jette la peau. Pèle et écrase {{ail:full}} au presse-ail ou au pilon. Lave et hache finement la coriandre et le persil, et garde-en un peu pour servir.",
+   "t": "Очистите от кожицы {{tomates}} помидоров (поможет овощечистка с зубчатым лезвием), удалите семена и нарежьте совсем мелкими кубиками. Проще: разрежьте их пополам, натрите мякоть на тёрке, а кожицу выбросьте. Очистите и раздавите {{ail:full}} прессом или пестиком. Вымойте и мелко порубите кинзу и петрушку, немного оставьте для подачи."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом, на разделочной доске"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.1.title": {
+   "fr": "Grille les aubergines",
+   "t": "Запеките баклажаны на огне"
+  },
+  "steps.1.text": {
+   "fr": "Pose {{aubergines}} d'aubergines entières, avec la peau et la queue, directement sur la flamme du gaz à feu moyen, ou sur un gril. Retourne-les de temps en temps, jusqu'à ce que la peau soit noircie partout et la chair très molle. Sans gaz : coupe-les en deux dans la longueur, pose-les peau vers le haut sur une plaque couverte d'aluminium et passe-les 20 à 25 minutes sous le gril du four, au plus près de la résistance.",
+   "t": "Положите {{aubergines}} целых баклажанов, с кожурой и плодоножкой, прямо на пламя газовой конфорки на среднем огне или на гриль. Время от времени переворачивайте, пока кожура не почернеет со всех сторон, а мякоть не станет очень мягкой. Если плита не газовая, разрежьте их вдоль пополам, положите кожурой вверх на противень, застеленный фольгой, и запекайте 20–25 минут под грилем духовки, как можно ближе к нагревательному элементу."
+  },
+  "steps.1.timer.label": {
+   "fr": "Aubergines sur la flamme",
+   "t": "Баклажаны на огне"
+  },
+  "steps.1.timer.done": {
+   "fr": "Peau noircie partout et chair très molle ? Sinon, laisse-les encore quelques minutes en les retournant. Au four, compte 20 à 25 minutes en tout.",
+   "t": "Кожура почернела со всех сторон, а мякоть очень мягкая? Если нет, подержите их ещё несколько минут, переворачивая. В духовке это занимает 20–25 минут в общей сложности."
+  },
+  "steps.2.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "Закройте их в пакете"
+  },
+  "steps.2.text": {
+   "fr": "Glisse les aubergines encore chaudes dans un sac en plastique, ferme-le et laisse-les tiédir pendant que tu fais la sauce. La peau brûlée s'enlèvera ensuite très facilement. Ne les passe pas sous l'eau : elles perdraient leur goût et la peau s'enlèverait moins bien.",
+   "t": "Положите ещё горячие баклажаны в полиэтиленовый пакет, закройте его и оставьте остывать, пока готовите соус. Потом обгоревшая кожура снимется очень легко. Не промывайте их водой: они потеряют вкус, а кожура будет сниматься хуже."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre les tomates en sauce",
+   "t": "Потушите помидоры до соуса"
+  },
+  "steps.3.text": {
+   "fr": "Dans une grande sauteuse profonde, à feu moyen, mets les tomates, l'ail, {{huile}} d'huile d'olive, {{paprika}} de paprika, {{cumin}} de cumin et {{sel}} de sel. Ajoute {{coriandre}} de coriandre et {{persil}} de persil hachés. Laisse cuire en remuant souvent, jusqu'à ce que les tomates fondent en une sauce épaisse. Si ça attache, ajoute un peu d'{{eau}}.",
+   "t": "В большой глубокий сотейник на среднем огне положите помидоры, чеснок, {{huile}} оливкового масла, {{paprika}} паприки, {{cumin}} кумина и {{sel}} соли. Добавьте {{coriandre}} рубленой кинзы и {{persil}} рубленой петрушки. Готовьте, часто помешивая, пока помидоры не разварятся в густой соус. Если начинает прилипать, добавьте немного воды."
+  },
+  "steps.3.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "Томатный соус"
+  },
+  "steps.3.timer.done": {
+   "fr": "Les tomates doivent avoir fondu en une sauce épaisse. Sinon, prolonge de quelques minutes.",
+   "t": "Помидоры должны развариться в густой соус. Если нет, готовьте ещё несколько минут."
+  },
+  "steps.4.title": {
+   "fr": "Pèle et écrase les aubergines",
+   "t": "Очистите и разомните баклажаны"
+  },
+  "steps.4.text": {
+   "fr": "Sors les aubergines du sac. Gratte doucement la peau brûlée et coupe la queue ; pour des moitiés passées au four, récupère simplement la chair à la cuillère. Mets la chair dans un grand saladier et écrase-la à la fourchette jusqu'à obtenir une pâte.",
+   "t": "Выньте баклажаны из пакета. Осторожно соскоблите обгоревшую кожуру и срежьте плодоножку; если половинки запекались в духовке, просто выберите мякоть ложкой. Положите мякоть в большую миску и разомните вилкой до состояния пасты."
+  },
+  "steps.5.title": {
+   "fr": "Fais réduire le zaalouk",
+   "t": "Уварите заалук"
+  },
+  "steps.5.text": {
+   "fr": "Verse l'aubergine écrasée dans la sauce et mélange bien. Laisse cuire à feu moyen en remuant régulièrement et en raclant le fond, et écrase au dos de la cuillère les morceaux restés fermes. C'est prêt quand le mélange est épais et qu'il ne reste plus de jus.",
+   "t": "Переложите размятый баклажан в соус и хорошо перемешайте. Готовьте на среднем огне, регулярно помешивая и соскребая со дна, и разминайте тыльной стороной ложки оставшиеся твёрдые кусочки. Заалук готов, когда смесь густая и сока больше не осталось."
+  },
+  "steps.5.timer.label": {
+   "fr": "Réduction",
+   "t": "Уваривание"
+  },
+  "steps.5.timer.done": {
+   "fr": "Le zaalouk doit être épais, sans jus au fond. Sinon, prolonge en remuant ; baisse le feu s'il attache.",
+   "t": "Заалук должен быть густым, без сока на дне. Если нет, готовьте дольше, помешивая; если начинает прилипать, убавьте огонь."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute le citron",
+   "t": "Добавьте лимон"
+  },
+  "steps.6.text": {
+   "fr": "Presse {{citron-jus:full}} et verse le jus dans le zaalouk. Mélange et laisse cuire encore 2 minutes. Goûte, rectifie le sel, puis retire du feu.",
+   "t": "Выжмите {{citron-jus:full}} и влейте сок в заалук. Перемешайте и готовьте ещё 2 минуты. Попробуйте, при необходимости досолите и снимите с огня."
+  },
+  "steps.6.timer.label": {
+   "fr": "Citron",
+   "t": "Лимон"
+  },
+  "steps.6.timer.done": {
+   "fr": "Goûte, rectifie le sel et retire du feu.",
+   "t": "Попробуйте, при необходимости досолите и снимите с огня."
+  },
+  "steps.7.title": {
+   "fr": "Sers tiède ou froid",
+   "t": "Подавайте тёплым или холодным"
+  },
+  "steps.7.text": {
+   "fr": "Étale le zaalouk dans un plat peu profond et sers-le tiède ou froid. Arrose d'un filet d'{{huile-service}} et parsème de {{herbes-service}}. Pose autour les quartiers de {{citron-service:full}}. Chacun le prend avec des morceaux de {{khobz}}, qui servent de couverts.",
+   "t": "Выложите заалук в неглубокое блюдо и подавайте тёплым или холодным. Полейте тонкой струйкой оливкового масла и посыпьте рубленой кинзой или петрушкой. Разложите вокруг дольки лимона ({{citron-service}} шт.). Каждый берёт заалук кусочками хобза, которые заменяют столовые приборы."
+  },
+  "secrets.0.text": {
+   "fr": "Le zaalouk a le goût de la chermoula : cumin, paprika, ail, coriandre, persil et huile d'olive. Plus tu mets de tomates, plus il faut assaisonner.",
+   "t": "У заалука вкус чермулы: кумин, паприка, чеснок, кинза, петрушка и оливковое масло. Чем больше помидоров, тем больше нужно приправ."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih, qui tient ce rapprochement de l'autrice culinaire marocaine Nada Kiffa) ; Choumicha assaisonne son zaalouk avec un mélange d'épices pour chermoula",
+   "t": "Taste of Maroc (Christine Benlafquih, которая взяла это сравнение у марокканского кулинарного автора Nada Kiffa); Choumicha приправляет свой заалук смесью специй для чермулы"
+  },
+  "secrets.1.text": {
+   "fr": "Grille les aubergines entières jusqu'à ce que la peau soit noircie partout : c'est ce qui donne au zaalouk son goût fumé.",
+   "t": "Запекайте баклажаны целиком, пока кожура не почернеет со всех сторон: именно это даёт заалуку дымный вкус."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking With Alia (zaalouk n° 689) ; Taste of Maroc",
+   "t": "Cooking With Alia (заалук № 689) и Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Enferme les aubergines grillées quelques instants dans un sac en plastique : la peau brûlée s'enlève ensuite très facilement.",
+   "t": "Закройте запечённые баклажаны ненадолго в полиэтиленовом пакете: потом обгоревшая кожура снимается очень легко."
+  },
+  "secrets.2.source": {
+   "fr": "Lalla Moulati, « الزعلوك بطريقة جديدة » (10 novembre 2014)",
+   "t": "Lalla Moulati, «الزعلوك بطريقة جديدة» (10 ноября 2014 года)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne passe jamais les aubergines grillées sous l'eau : elles perdent leur saveur, et la peau s'enlève moins bien.",
+   "t": "Никогда не промывайте запечённые баклажаны водой: они теряют вкус, а кожура снимается хуже."
+  },
+  "secrets.3.source": {
+   "fr": "Lalla Moulati : « زعلوك بالدنجال مشوي » (13 août 2016) pour la saveur, « الزعلوك بطريقة جديدة » (2014) pour la peau",
+   "t": "Lalla Moulati: «زعلوك بالدنجال مشوي» (13 августа 2016 года) — о вкусе, «الزعلوك بطريقة جديدة» (2014) — о кожуре"
+  },
+  "secrets.4.text": {
+   "fr": "Choisis des tomates mûres, tendres et bien rouges : les tomates fermes fondent moins bien en sauce et peuvent être plus acides.",
+   "t": "Выбирайте спелые, мягкие и ярко-красные помидоры: плотные хуже развариваются в соус и могут быть кислее."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia, recette de Ch'hiwatine (tomates « super red »)",
+   "t": "Taste of Maroc; Cooking With Alia, рецепт Ch'hiwatine (помидоры «super red»)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais d'abord fondre les tomates en sauce épaisse avec l'huile, l'ail, les épices et les herbes, et ajoute seulement ensuite l'aubergine.",
+   "t": "Сначала доведите помидоры с маслом, чесноком, специями и зеленью до густого соуса и только потом добавляйте баклажан."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (2014) ; Cooking With Alia (n° 689) ; Choumicha",
+   "t": "Taste of Maroc; Lalla Moulati (2014); Cooking With Alia (№ 689) и Choumicha"
+  },
+  "secrets.6.text": {
+   "fr": "Prends une grande sauteuse profonde plutôt qu'une petite casserole : avec plus de surface, le liquide s'évapore plus vite.",
+   "t": "Берите большой глубокий сотейник, а не маленькую кастрюлю: чем больше поверхность, тем быстрее испаряется жидкость."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "La texture est une affaire de goût, du zaalouk en morceaux à la purée : écrase bien à la fourchette pour une pâte, moins pour garder des morceaux.",
+   "t": "Текстура — дело вкуса, от заалука кусочками до пюре: для пасты хорошо разомните вилкой, для кусочков — меньше."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (2014, écrasé à la fourchette)",
+   "t": "Taste of Maroc; Lalla Moulati (2014, размят вилкой)"
+  },
+  "secrets.8.text": {
+   "fr": "Un peu de jus de citron en fin de cuisson réveille le goût. Fatéma Hal met le jus d'un demi-citron dans la poêle et sert l'autre moitié en quartiers.",
+   "t": "Немного лимонного сока в конце освежает вкус. Fatéma Hal добавляет в сковороду сок половинки лимона, а другую половину подаёт дольками."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Fatéma Hal (fiche recette Gaggenau)",
+   "t": "Taste of Maroc; Fatéma Hal (карточка рецепта Gaggenau)"
+  },
+  "secrets.9.text": {
+   "fr": "Trop acide ? Une toute petite pointe de sucre ou de miel corrige, mais vas-y doucement : mieux vaut un zaalouk un peu acide que trop sucré.",
+   "t": "Слишком кисло? Исправит самая малость сахара или мёда, но не переусердствуйте: лучше чуть кисловатый заалук, чем слишком сладкий."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Le khobz sert de couverts : comme beaucoup de salades marocaines, le zaalouk se mange en le prenant avec des morceaux de pain.",
+   "t": "Хобз заменяет столовые приборы: как и многие марокканские салаты, заалук едят, захватывая его кусочками хлеба."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Mets-le au réfrigérateur dans les 2 heures qui suivent la cuisson, dans une boîte fermée : il se garde ainsi 3 jours. Au congélateur, il se garde 2 à 3 mois. Décongèle-le au réfrigérateur, réchauffe-le à la poêle pour réduire l'excès de liquide, rectifie l'assaisonnement et ne le recongèle pas.",
+   "t": "Уберите его в холодильник в течение 2 часов после приготовления, в закрытом контейнере: так он хранится 3 дня. В морозилке он хранится 2–3 месяца. Размораживайте его в холодильнике, разогревайте на сковороде, чтобы выпарить лишнюю жидкость, доведите вкус специями и не замораживайте повторно."
+  },
+  "secrets.11.source": {
+   "fr": "Anses (plats cuisinés maison : au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, décongélation au réfrigérateur, pas de recongélation) ; My Moroccan Food (jusqu'à 4 jours) ; Taste of Maroc (2 à 3 mois au congélateur, réchauffage à la poêle)",
+   "t": "Anses (домашние блюда: в холодильник в течение 2 часов, съесть в течение 3 дней, размораживать в холодильнике, не замораживать повторно); My Moroccan Food (до 4 дней); Taste of Maroc (2–3 месяца в морозилке, разогрев на сковороде)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les aubergines grillées sous l'eau : elles perdent leur goût et la peau s'enlève moins bien (Lalla Moulati).",
+   "t": "Промывать запечённые баклажаны водой: они теряют вкус, а кожура снимается хуже (Lalla Moulati)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre des tomates fermes ou pas assez mûres : elles fondent moins bien et peuvent rendre le zaalouk acide (Taste of Maroc).",
+   "t": "Брать плотные или недостаточно спелые помидоры: они хуже развариваются и могут сделать заалук кислым (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Arrêter la cuisson trop tôt : le zaalouk doit être épais, sans jus (Cooking With Alia, My Moroccan Food, Lalla Moulati).",
+   "t": "Заканчивать готовку слишком рано: заалук должен быть густым, без сока (Cooking With Alia, My Moroccan Food, Lalla Moulati)."
+  },
+  "mistakes.3": {
+   "fr": "Le laisser attacher : remue souvent, racle le fond et baisse le feu si besoin (Taste of Maroc, My Moroccan Food).",
+   "t": "Давать ему прилипать: часто помешивайте, соскребайте со дна и при необходимости убавьте огонь (Taste of Maroc, My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Forcer sur le citron : avec les tomates pas mûres, c'est ce qui rend un zaalouk trop acide (Taste of Maroc).",
+   "t": "Перебарщивать с лимоном: вместе с недозрелыми помидорами именно это делает заалук слишком кислым (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Rattraper l'acidité avec trop de sucre : mieux vaut un peu acide que trop sucré (Taste of Maroc).",
+   "t": "Исправлять кислоту большим количеством сахара: лучше чуть кисловато, чем слишком сладко (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Croire que le paprika fumé ou l'ail rôti font partie de la recette traditionnelle : ni l'un ni l'autre n'est traditionnel, même si Christine Benlafquih trouve que le paprika fumé peut très bien aller dans le zaalouk et y ajoute parfois de l'ail rôti (Taste of Maroc).",
+   "t": "Думать, что копчёная паприка или запечённый чеснок входят в традиционный рецепт: ни то ни другое не традиционно, хотя Christine Benlafquih считает, что копчёная паприка может очень хорошо подойти к заалуку, и иногда добавляет в него запечённый чеснок (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Oublier de goûter à la fin pour rectifier le sel (Taste of Maroc, My Moroccan Food).",
+   "t": "Забывать попробовать в конце и досолить (Taste of Maroc, My Moroccan Food)."
+  },
+  "variants.0": {
+   "fr": "Méthode familiale tout dans la marmite (la belle-mère de Christine Benlafquih, la mère de Nargisse Benkabbou) : aubergines pelées, en gardant si tu veux quelques bandes de peau pour la couleur, coupées et cuites avec les tomates, l'huile, l'ail, les épices et les herbes, plus un fond d'eau (¼ à ⅓ de tasse, soit environ 60 à 80 ml, chez Taste of Maroc ; pas d'eau chez My Moroccan Food), à couvert à feu moyen ou moyen-doux 25 à 35 minutes, puis à découvert en écrasant jusqu'à évaporation du liquide (Taste of Maroc ; My Moroccan Food).",
+   "t": "Семейный способ «всё в одной кастрюле» (свекровь Christine Benlafquih, мама Nargisse Benkabbou): баклажаны очищают, по желанию оставляя несколько полосок кожуры для цвета, нарезают и готовят с помидорами, маслом, чесноком, специями и зеленью, добавив немного воды (от ¼ до ⅓ чашки, то есть около 60–80 мл, у Taste of Maroc; без воды у My Moroccan Food), под крышкой на среднем огне или огне ниже среднего 25–35 минут, затем без крышки, разминая, пока жидкость не выпарится (Taste of Maroc; My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Aubergines bouillies (Cooking With Alia, épisode 47) : pelées en entier ou à moitié, coupées en dés, cuites 20 à 30 minutes à l'eau salée, égouttées et pressées à la cuillère pour chasser toute l'eau, puis cuites 30 minutes à feu moyen avec les tomates, l'huile, l'ail et les épices en écrasant à la cuillère en bois ; 1 c. à c. de vinaigre dans les 5 dernières minutes.",
+   "t": "Отварные баклажаны (Cooking With Alia, выпуск 47): очищенные полностью или наполовину, нарезанные кубиками, их варят 20–30 минут в подсоленной воде, откидывают и отжимают ложкой, чтобы удалить всю воду, затем готовят 30 минут на среднем огне с помидорами, маслом, чесноком и специями, разминая деревянной ложкой; 1 ч. л. уксуса — в последние 5 минут."
+  },
+  "variants.2": {
+   "fr": "Aubergines à la vapeur : citées par Taste of Maroc parmi les façons de faire, et par Fiona Dunlop (The North African Kitchen), qui présente la version vapeur d'une cuisinière, Aicha, comme plus légère. Méthode détaillée non lue.",
+   "t": "Баклажаны на пару: этот способ упоминает Taste of Maroc, а также Fiona Dunlop (The North African Kitchen), которая представляет паровой вариант кухарки по имени Aicha как более лёгкий. Подробный способ не изучен."
+  },
+  "variants.3": {
+   "fr": "Aubergines frites (Choumicha) : rondelles de 1 cm salées et mises à dégorger, rincées, pressées et épongées, frites puis hachées grossièrement ; sauce de tomates pelées et épépinées avec 1 c. à c. de concentré de tomate, 10 cl d'eau, ail et épices pour chermoula, 8 à 10 minutes à couvert à feu doux ; aubergines ajoutées 3 minutes, puis coriandre. Fiona Dunlop présente la version frite comme la façon traditionnelle.",
+   "t": "Жареные баклажаны (Choumicha): кружки толщиной 1 см солят и оставляют, чтобы вышла горечь, промывают, отжимают и обсушивают, обжаривают, затем крупно рубят; соус из очищенных помидоров без семян с 1 ч. л. томатной пасты, 10 сл воды, чесноком и специями для чермулы, 8–10 минут под крышкой на слабом огне; баклажаны добавляют на 3 минуты, затем кинзу. Fiona Dunlop называет жареный вариант традиционным способом."
+  },
+  "variants.4": {
+   "fr": "Version de Ch'hiwatine (sur Cooking With Alia) : aubergines pelées en partie, coupées en tranches, salées et frites ; tomates réduites seules en pâte épaisse ; un demi-poivron rouge grillé, cumin, sel et ail ; 10 à 15 minutes en remuant sans arrêt.",
+   "t": "Вариант Ch'hiwatine (на Cooking With Alia): баклажаны частично очищают, нарезают ломтиками, солят и обжаривают; помидоры отдельно уваривают до густой пасты; половинка запечённого красного сладкого перца, кумин, соль и чеснок; 10–15 минут, непрерывно помешивая."
+  },
+  "variants.5": {
+   "fr": "Au four (Fatéma Hal) : aubergines grillées une quarantaine de minutes sur une plaque au four, pelées, coupées en dés et écrasées, puis cuites 30 minutes à la poêle avec tous les autres ingrédients et le jus d'un demi-citron.",
+   "t": "В духовке (Fatéma Hal): баклажаны запекают около сорока минут на противне в духовке, очищают, нарезают кубиками и разминают, затем готовят 30 минут на сковороде со всеми остальными ингредиентами и соком половинки лимона."
+  },
+  "variants.6": {
+   "fr": "Vinaigre au lieu du citron : 1 c. à c. dans les 5 dernières minutes (Cooking With Alia, épisode 47), 1 c. à s. de vinaigre ou de jus de citron pendant 2 minutes (n° 689), ou un demi-verre ajouté hors du feu (Lalla Moulati, 2016).",
+   "t": "Уксус вместо лимона: 1 ч. л. в последние 5 минут (Cooking With Alia, выпуск 47), 1 ст. л. уксуса или лимонного сока на 2 минуты (№ 689) или полстакана, добавленные после снятия с огня (Lalla Moulati, 2016)."
+  },
+  "variants.7": {
+   "fr": "Un peu de piquant : Cayenne ou piments entiers au goût (Taste of Maroc), 1 c. à c. de piment moulu (Cooking With Alia, n° 689), ½ c. à c. de piment fort (Lalla Moulati, 2014).",
+   "t": "Немного остроты: кайенский перец или целые острые перчики по вкусу (Taste of Maroc), 1 ч. л. молотого острого перца (Cooking With Alia, № 689), ½ ч. л. жгучего перца (Lalla Moulati, 2014)."
+  },
+  "variants.8": {
+   "fr": "Poivre noir : ¼ c. à c. (Cooking With Alia, épisode 47) ou ½ c. à c. (Fatéma Hal).",
+   "t": "Чёрный перец: ¼ ч. л. (Cooking With Alia, выпуск 47) или ½ ч. л. (Fatéma Hal)."
+  },
+  "variants.9": {
+   "fr": "Plus rouge et plus saucé : 2 à 3 tomates par aubergine, comme la belle-mère de Christine Benlafquih, ou une cuillerée de concentré de tomate (Taste of Maroc ; Choumicha).",
+   "t": "Краснее и с большим количеством соуса: 2–3 помидора на один баклажан, как у свекрови Christine Benlafquih, или ложка томатной пасты (Taste of Maroc; Choumicha)."
+  },
+  "variants.10": {
+   "fr": "Avec un ou deux poivrons grillés, à mi-chemin de la taktouka (Taste of Maroc), ou avec des courgettes et des poivrons rouges (My Moroccan Food).",
+   "t": "С одним-двумя запечёнными сладкими перцами — нечто среднее с тактукой (Taste of Maroc), или с кабачками и красным сладким перцем (My Moroccan Food)."
+  },
+  "variants.11": {
+   "fr": "Zaalouk « à la nouvelle manière » : 100 g d'olives dénoyautées et un demi-citron confit, ajoutés après l'aubergine en continuant de remuer, puis cuisson jusqu'à ce que le zaalouk soit bien réduit (Lalla Moulati, 2014).",
+   "t": "Заалук «по-новому»: 100 г оливок без косточек и половинка солёного лимона, добавленные после баклажана, продолжая помешивать, затем готовят, пока заалук хорошо не уварится (Lalla Moulati, 2014)."
+  },
+  "variants.12": {
+   "fr": "Tomates râpées au lieu d'être pelées et coupées (Cooking With Alia, n° 689 ; Fiona Dunlop appelle la tomate râpée une technique marocaine classique).",
+   "t": "Натёртые помидоры вместо очищенных и нарезанных (Cooking With Alia, № 689; Fiona Dunlop называет натёртый помидор классическим марокканским приёмом)."
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.citron-jus.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron-service.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  }
+ }
+}

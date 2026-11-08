@@ -1,0 +1,466 @@
+{
+ "_slug": "pancakes",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Pancakes américains moelleux",
+   "t": "البان كيك الأمريكي الهش"
+  },
+  "tagline": {
+   "fr": "Épais, moelleux et dorés : les pancakes du petit-déjeuner américain, servis en pile avec du beurre et du sirop d'érable ou du miel.",
+   "t": "سميك وطري وذهبي: البان كيك الذي يُقدَّم في فطور الصباح الأمريكي، في كومة مع الزبدة وشراب القيقب أو العسل."
+  },
+  "region": {
+   "fr": "États-Unis (et Canada) ; on les appelle aussi hotcakes, griddlecakes ou flapjacks (Wikipédia). En français, on dit parfois « crêpes américaines » (Wikipédia, d'après l'Office québécois de la langue française).",
+   "t": "الولايات المتحدة (وكندا)؛ ويُسمّى أيضًا hotcakes أو griddlecakes أو flapjacks (Wikipédia). وبالفرنسية، يُقال أحيانًا «crêpes américaines» (Wikipédia، نقلًا عن Office québécois de la langue française)."
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner ou brunch : aux États-Unis, les pancakes sont un plat du matin, servis en pile de deux ou trois (Wikipédia).",
+   "t": "فطور الصباح أو البرانش: في الولايات المتحدة، البان كيك طبق صباحي، يُقدَّم في كومة من قطعتين أو ثلاث (Wikipédia)."
+  },
+  "img_alt": {
+   "fr": "Pile de pancakes américains nappés de sirop d'érable",
+   "t": "كومة من البان كيك الأمريكي مغطاة بشراب القيقب"
+  },
+  "serving": {
+   "fr": "Bien chauds, en pile de deux ou trois, avec du beurre et du sirop d'érable (Wikipédia ; Fannie Farmer ; King Arthur ; Taste of Home). Autres garnitures classiques : miel, confiture, fruits, sucre glace ou crème fouettée (Wikipédia ; Taste of Home). Aux États-Unis, on les sert souvent avec des œufs (Wikipédia). Restes : la FDA demande de ne pas laisser les plats aux œufs plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (90 °F). Laisse refroidir les pancakes, puis garde-les dans une boîte hermétique au réfrigérateur 3 jours au plus (Taste of Home ; Food Hero, de l'université d'État de l'Oregon, dit 2 jours ; la FDA, 3 à 4 jours pour les plats aux œufs). Ils se congèlent jusqu'à 3 mois, séparés par du papier cuisson (Taste of Home ; Betty Crocker dit plutôt 1 à 2 mois) ; King Arthur précise qu'on peut les congeler le jour même. Réchauffe-les au four à environ 175 °C (350 °F), 5 minutes s'ils sortent du réfrigérateur et 10 minutes s'ils sont congelés (Taste of Home), ou au micro-ondes (Betty Crocker), jusqu'à ce qu'ils soient bien chauds à cœur (FDA : 74 °C pour les plats aux œufs).",
+   "t": "يُقدَّم ساخنًا جيدًا، في كومة من قطعتين أو ثلاث، مع الزبدة وشراب القيقب (Wikipédia؛ Fannie Farmer؛ King Arthur؛ Taste of Home). ومن الإضافات الكلاسيكية الأخرى: العسل، أو المربى، أو الفواكه، أو السكر الناعم (سكر الحلويات)، أو الكريمة المخفوقة (Wikipédia؛ Taste of Home). وفي الولايات المتحدة، كثيرًا ما يُقدَّم مع البيض (Wikipédia). البقايا: تطلب FDA عدم ترك الأطباق التي تحتوي على البيض خارج الثلاجة أكثر من ساعتين، أو أكثر من ساعة إذا تجاوزت الحرارة 32 درجة مئوية (90 درجة فهرنهايت). اترك البان كيك يبرد، ثم احفظه في علبة محكمة الإغلاق في الثلاجة 3 أيام على الأكثر (Taste of Home؛ ويذكر Food Hero، التابع لجامعة ولاية أوريغون، يومين؛ وتذكر FDA من 3 إلى 4 أيام للأطباق التي تحتوي على البيض). ويمكن تجميده حتى 3 أشهر، مع الفصل بين القطع بورق الخبز (Taste of Home؛ أما Betty Crocker فتذكر من شهر إلى شهرين)؛ ويوضّح King Arthur أنه يمكن تجميده في اليوم نفسه. سخّنه في الفرن على نحو 175 درجة مئوية (350 درجة فهرنهايت)، 5 دقائق إذا كان خارجًا من الثلاجة و10 دقائق إذا كان مجمّدًا (Taste of Home)، أو في الميكروويف (Betty Crocker)، حتى يسخن جيدًا حتى قلبه (FDA: 74 درجة مئوية للأطباق التي تحتوي على البيض)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجينة"
+  },
+  "ing.farine.name": {
+   "fr": "de farine de blé",
+   "t": "دقيق القمح"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche ordinaire",
+   "t": "دقيق أبيض عادي"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "سكر أبيض"
+  },
+  "ing.levure.name": {
+   "fr": "de levure chimique",
+   "t": "خميرة كيميائية"
+  },
+  "ing.levure.note": {
+   "fr": "bien fraîche, non périmée",
+   "t": "طازجة، غير منتهية الصلاحية"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.oeufs.note": {
+   "fr": "à température ambiante si possible",
+   "t": "في درجة حرارة الغرفة إن أمكن"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "حليب"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "à faire fondre puis à laisser tiédir (4 c. à s. pour 16 pancakes) ; ou le même volume d'huile neutre",
+   "t": "تُذاب ثم تُترك حتى تفتر (4 ملاعق كبيرة لصنع 16 قطعة بان كيك)؛ أو الحجم نفسه من زيت المائدة"
+  },
+  "ing.1.group": {
+   "fr": "Pour la cuisson",
+   "t": "للطهي"
+  },
+  "ing.huile.name": {
+   "fr": "huile neutre",
+   "t": "زيت المائدة"
+  },
+  "ing.huile.note": {
+   "fr": "ou un peu de beurre, pour graisser la poêle",
+   "t": "أو قليل من الزبدة، لدهن المقلاة"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.beurre-service.name": {
+   "fr": "beurre",
+   "t": "زبدة"
+  },
+  "ing.sirop-erable.name": {
+   "fr": "sirop d'érable",
+   "t": "شراب القيقب"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "عسل"
+  },
+  "ing.miel.note": {
+   "fr": "ou de la confiture",
+   "t": "أو مربى"
+  },
+  "equipment.0": {
+   "fr": "Une balance de cuisine, un verre doseur et des cuillères à mesurer",
+   "t": "ميزان مطبخ، وكوب قياس، وملاعق قياس"
+  },
+  "equipment.1": {
+   "fr": "Deux bols, un grand et un moyen",
+   "t": "وعاءان، أحدهما كبير والآخر متوسط"
+  },
+  "equipment.2": {
+   "fr": "Un fouet et une spatule souple",
+   "t": "مخفقة وملعقة مطاطية مرنة"
+  },
+  "equipment.3": {
+   "fr": "Une petite casserole, pour faire fondre le beurre",
+   "t": "قدر صغير، لإذابة الزبدة"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle antiadhésive, ou une plaque de cuisson",
+   "t": "مقلاة كبيرة غير لاصقة، أو صفيحة طهي"
+  },
+  "equipment.5": {
+   "fr": "Une petite louche, ou une cuillère doseuse de 4 c. à s. (60 ml)",
+   "t": "مغرفة صغيرة، أو ملعقة قياس سعتها 4 ملاعق كبيرة (60 مل)"
+  },
+  "equipment.6": {
+   "fr": "Une large spatule plate, pour retourner les pancakes",
+   "t": "ملعقة تقليب عريضة ومسطحة، لقلب البان كيك"
+  },
+  "equipment.7": {
+   "fr": "Du papier absorbant, pour graisser la poêle",
+   "t": "ورق ماص، لدهن المقلاة"
+  },
+  "equipment.8": {
+   "fr": "Une plaque de four, pour garder les pancakes au chaud",
+   "t": "صينية فرن، لإبقاء البان كيك ساخنًا"
+  },
+  "steps.0.title": {
+   "fr": "Fais fondre le beurre",
+   "t": "أذِب الزبدة"
+  },
+  "steps.0.text": {
+   "fr": "Fais fondre {{beurre}} de beurre dans une petite casserole, à feu doux. Retire du feu et laisse tiédir.",
+   "t": "أذِب {{beurre}} من الزبدة في قدر صغير على نار هادئة. ارفعها عن النار واتركها حتى تفتر."
+  },
+  "steps.1.title": {
+   "fr": "Mélange les ingrédients secs",
+   "t": "اخلط المكوّنات الجافة"
+  },
+  "steps.1.text": {
+   "fr": "Dans le grand bol, mélange au fouet {{farine}} de farine, {{sucre}} de sucre, {{levure}} de levure chimique et {{sel}} de sel.",
+   "t": "في الوعاء الكبير، اخلط بالمخفقة {{farine}} من الدقيق، و{{sucre}} من السكر، و{{levure}} من الخميرة الكيميائية، و{{sel}} من الملح."
+  },
+  "steps.2.title": {
+   "fr": "Mélange les liquides",
+   "t": "اخلط المكوّنات السائلة"
+  },
+  "steps.2.text": {
+   "fr": "Dans l'autre bol, bats {{oeufs:full}} au fouet. Ajoute {{lait}} de lait, puis le beurre fondu tiède, et mélange bien.",
+   "t": "في الوعاء الآخر، اخفق {{oeufs:full}} بالمخفقة. أضف {{lait}} من الحليب، ثم الزبدة المذابة الفاترة، واخلط جيدًا."
+  },
+  "steps.3.title": {
+   "fr": "Réunis sans trop mélanger",
+   "t": "اجمع الخليطين دون إفراط في الخلط"
+  },
+  "steps.3.text": {
+   "fr": "Verse les liquides sur les ingrédients secs. Mélange à la spatule, juste assez pour humidifier toute la farine. La pâte doit rester épaisse, avec quelques petits grumeaux.",
+   "t": "صبّ المكوّنات السائلة على المكوّنات الجافة. اخلط بالملعقة المطاطية، بالقدر الكافي فقط لترطيب الدقيق كله. يجب أن تبقى العجينة كثيفة، مع بعض التكتلات الصغيرة."
+  },
+  "steps.3.tip": {
+   "fr": "Trop mélangée, la pâte donne des pancakes durs et compacts (Betty Crocker, Taste of Home). Si elle est trop épaisse pour couler, ajoute un peu de lait, cuillère par cuillère (Betty Crocker, Land O'Lakes).",
+   "t": "إذا أفرطت في خلط العجينة، جاء البان كيك قاسيًا وكثيفًا (Betty Crocker، Taste of Home). وإذا كانت كثيفة جدًا لا تسيل، فأضف قليلًا من الحليب، ملعقةً بعد ملعقة (Betty Crocker، Land O'Lakes)."
+  },
+  "steps.4.title": {
+   "fr": "Laisse reposer 5 minutes",
+   "t": "اترك العجينة ترتاح 5 دقائق"
+  },
+  "steps.4.text": {
+   "fr": "Laisse reposer la pâte 5 minutes. Pendant ce temps, chauffe la poêle.",
+   "t": "اترك العجينة ترتاح 5 دقائق. وفي أثناء ذلك، سخّن المقلاة."
+  },
+  "steps.4.tip": {
+   "fr": "Le repos hydrate la farine, détend le gluten et laisse la levure commencer à agir : les pancakes sont plus tendres et plus gonflés (Taste of Home). King Arthur laisse même reposer sa pâte 15 minutes.",
+   "t": "الراحة ترطّب الدقيق، وترخي الغلوتين، وتترك الخميرة تبدأ عملها: فيصير البان كيك أطرى وأكثر انتفاخًا (Taste of Home). بل إن King Arthur يترك عجينته ترتاح 15 دقيقة."
+  },
+  "steps.4.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "راحة العجينة"
+  },
+  "steps.4.timer.done": {
+   "fr": "La pâte a reposé : vérifie que la poêle est bien chaude.",
+   "t": "ارتاحت العجينة: تأكّد من أن المقلاة ساخنة جيدًا."
+  },
+  "steps.5.title": {
+   "fr": "Chauffe la poêle à feu moyen",
+   "t": "سخّن المقلاة على نار متوسطة"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe une grande poêle antiadhésive (ou une plaque) à feu moyen. Elle est prête quand quelques gouttes d'eau y dansent et grésillent.",
+   "t": "سخّن مقلاة كبيرة غير لاصقة (أو صفيحة طهي) على نار متوسطة. تكون جاهزة عندما ترقص عليها بضع قطرات من الماء وتطقطق."
+  },
+  "steps.5.tip": {
+   "fr": "Sur une plaque électrique réglable : environ 175 à 190 °C (350 °F pour King Arthur et Land O'Lakes, 375 °F pour Betty Crocker).",
+   "t": "على صفيحة طهي كهربائية قابلة للضبط: نحو 175 إلى 190 درجة مئوية (350 درجة فهرنهايت عند King Arthur وLand O'Lakes، و375 درجة فهرنهايت عند Betty Crocker)."
+  },
+  "steps.6.title": {
+   "fr": "Graisse légèrement la poêle",
+   "t": "ادهن المقلاة دهنًا خفيفًا"
+  },
+  "steps.6.text": {
+   "fr": "Graisse légèrement la poêle avec un papier absorbant imbibé d'un peu d'{{huile}} ou de beurre. Essuie l'excès.",
+   "t": "ادهن المقلاة دهنًا خفيفًا بورقة ماصة مبلّلة بقليل من {{huile}} أو الزبدة. امسح الزائد."
+  },
+  "steps.7.title": {
+   "fr": "Verse la pâte",
+   "t": "صبّ العجينة"
+  },
+  "steps.7.text": {
+   "fr": "Pour chaque pancake, verse environ 4 cuillères à soupe de pâte (une petite louche). Laisse de l'espace entre les pancakes.",
+   "t": "لكل قطعة بان كيك، صبّ نحو 4 ملاعق كبيرة من العجينة (مغرفة صغيرة). واترك مسافة بين القطع."
+  },
+  "steps.7.tip": {
+   "fr": "Cela fait environ 60 ml de pâte par pancake (King Arthur, Taste of Home, Land O'Lakes). Des pancakes de même taille cuisent dans le même temps (Betty Crocker).",
+   "t": "أي نحو 60 مل من العجينة لكل قطعة (King Arthur، Taste of Home، Land O'Lakes). والقطع المتساوية في الحجم تنضج في الوقت نفسه (Betty Crocker)."
+  },
+  "steps.8.title": {
+   "fr": "Cuis le premier côté",
+   "t": "اطهُ الوجه الأول"
+  },
+  "steps.8.text": {
+   "fr": "Laisse cuire environ 2 minutes, jusqu'à ce que des bulles se forment et éclatent sur le dessus, que le bord paraisse sec et que le dessous soit doré.",
+   "t": "اتركه يُطهى نحو دقيقتين، حتى تتكوّن فقاعات على سطحه وتنفجر، وتبدو الحافة جافة، ويصير الوجه السفلي ذهبيًا."
+  },
+  "steps.8.tip": {
+   "fr": "Soulève un bord avec la spatule : s'il se détache sans casser et que le dessous est doré, tu peux retourner (Betty Crocker).",
+   "t": "ارفع طرفه بملعقة التقليب: إذا انفصل دون أن ينكسر وكان الوجه السفلي ذهبيًا، فيمكنك قلبه (Betty Crocker)."
+  },
+  "steps.8.timer.label": {
+   "fr": "Premier côté",
+   "t": "الوجه الأول"
+  },
+  "steps.8.timer.done": {
+   "fr": "Des bulles éclatent et le bord est sec ? Retourne les pancakes.",
+   "t": "هل تنفجر الفقاعات وجفّت الحافة؟ اقلب البان كيك."
+  },
+  "steps.9.title": {
+   "fr": "Retourne et termine la cuisson",
+   "t": "اقلبه وأكمل الطهي"
+  },
+  "steps.9.text": {
+   "fr": "Retourne chaque pancake d'un geste vif, puis pose-le doucement. Laisse cuire encore 1 à 2 minutes, jusqu'à ce que le second côté soit doré.",
+   "t": "اقلب كل قطعة بحركة سريعة، ثم ضعها برفق. اتركها تُطهى من دقيقة إلى دقيقتين أخريين، حتى يصير الوجه الثاني ذهبيًا."
+  },
+  "steps.9.tip": {
+   "fr": "Posé doucement, le pancake garde son air et reste gonflé. Bien cuit, il reprend sa forme quand on appuie dessus du doigt ; en cas de doute, coupe-en un (King Arthur).",
+   "t": "إذا وُضع برفق، احتفظ البان كيك بالهواء الذي فيه وبقي منتفخًا. وعندما ينضج جيدًا، يستعيد شكله إذا ضغطت عليه بإصبعك؛ وإذا شككت، فاقطع واحدة منها (King Arthur)."
+  },
+  "steps.10.title": {
+   "fr": "Garde-les au chaud",
+   "t": "احفظه ساخنًا"
+  },
+  "steps.10.text": {
+   "fr": "Pose les pancakes cuits sur une plaque, en une seule couche, dans le four allumé à sa température la plus basse.",
+   "t": "ضع البان كيك المطهو على صينية، في طبقة واحدة، داخل الفرن المشغّل على أدنى درجة حرارة."
+  },
+  "steps.10.tip": {
+   "fr": "King Arthur indique environ 200 °F (93 °C), Taste of Home 250 °F (121 °C). Refroidis, les pancakes retombent un peu (King Arthur).",
+   "t": "يذكر King Arthur نحو 200 درجة فهرنهايت (93 درجة مئوية)، ويذكر Taste of Home حرارة 250 درجة فهرنهايت (121 درجة مئوية). وعندما يبرد البان كيك، يهبط قليلًا (King Arthur)."
+  },
+  "steps.11.title": {
+   "fr": "Continue jusqu'à la fin de la pâte",
+   "t": "تابع حتى تنتهي العجينة"
+  },
+  "steps.11.text": {
+   "fr": "Regraisse légèrement la poêle et recommence jusqu'à la fin de la pâte. Si les pancakes brunissent trop vite alors que le centre reste cru, baisse un peu le feu.",
+   "t": "ادهن المقلاة من جديد دهنًا خفيفًا، وكرّر العملية حتى تنتهي العجينة. وإذا اسمرّ البان كيك بسرعة كبيرة بينما يبقى وسطه نيئًا، فاخفض النار قليلًا."
+  },
+  "steps.11.tip": {
+   "fr": "Le premier pancake rate souvent, quand la poêle n'est pas encore assez chaude : fais un essai avec une petite cuillerée de pâte (Taste of Home).",
+   "t": "كثيرًا ما تفشل أول قطعة، عندما لا تكون المقلاة ساخنة بما يكفي بعد: جرّب أولًا بقليل من العجينة، ملء ملعقة صغيرة (Taste of Home)."
+  },
+  "steps.12.title": {
+   "fr": "Sers en pile",
+   "t": "قدّمه في كومة"
+  },
+  "steps.12.text": {
+   "fr": "Sers les pancakes bien chauds, en pile de deux ou trois, avec un morceau de {{beurre-service}} et du {{sirop-erable}}, ou du {{miel}}.",
+   "t": "قدّم البان كيك ساخنًا جيدًا، في كومة من قطعتين أو ثلاث، مع قطعة من الزبدة وشراب القيقب، أو العسل."
+  },
+  "secrets.0.text": {
+   "fr": "Ne mélange pas trop : quelques grumeaux, c'est normal. Une pâte trop travaillée donne des pancakes durs.",
+   "t": "لا تُفرط في الخلط: وجود بعض التكتلات أمر طبيعي. والعجينة التي تُخلط أكثر من اللازم تعطي بان كيك قاسيًا."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Crocker ; Taste of Home ; King Arthur",
+   "t": "Betty Crocker؛ Taste of Home؛ King Arthur"
+  },
+  "secrets.1.text": {
+   "fr": "Un court repos hydrate la farine, détend le gluten et laisse la levure commencer à agir : les pancakes sont plus tendres et plus gonflés.",
+   "t": "راحة قصيرة ترطّب الدقيق، وترخي الغلوتين، وتترك الخميرة تبدأ عملها: فيصير البان كيك أطرى وأكثر انتفاخًا."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Home (5 minutes) ; Betty Crocker (5 à 10 minutes) ; King Arthur (15 minutes)",
+   "t": "Taste of Home (5 دقائق)؛ Betty Crocker (من 5 إلى 10 دقائق)؛ King Arthur (15 دقيقة)"
+  },
+  "secrets.2.text": {
+   "fr": "Un œuf pour 120 g de farine : c'est la règle de King Arthur pour des pancakes bien gonflés, et la dose de Betty Crocker, Taste of Home et Land O'Lakes.",
+   "t": "بيضة واحدة لكل 120 غ من الدقيق: هذه قاعدة King Arthur لبان كيك منتفخ جيدًا، وهي أيضًا الكمية عند Betty Crocker وTaste of Home وLand O'Lakes."
+  },
+  "secrets.2.source": {
+   "fr": "King Arthur (blog) ; Betty Crocker ; Taste of Home ; Land O'Lakes",
+   "t": "King Arthur (المدوّنة)؛ Betty Crocker؛ Taste of Home؛ Land O'Lakes"
+  },
+  "secrets.3.text": {
+   "fr": "Teste la poêle avec quelques gouttes d'eau : si elles dansent et grésillent, elle est prête.",
+   "t": "اختبر المقلاة ببضع قطرات من الماء: إذا رقصت وطقطقت، فهي جاهزة."
+  },
+  "secrets.3.source": {
+   "fr": "King Arthur ; Betty Crocker ; Land O'Lakes",
+   "t": "King Arthur؛ Betty Crocker؛ Land O'Lakes"
+  },
+  "secrets.4.text": {
+   "fr": "Trop chaude, la poêle brunit le dehors et laisse le cœur cru ; pas assez chaude, les pancakes ne gonflent pas.",
+   "t": "إذا كانت المقلاة ساخنة جدًا، اسمرّ الخارج وبقي القلب نيئًا؛ وإذا لم تكن ساخنة بما يكفي، لم ينتفخ البان كيك."
+  },
+  "secrets.4.source": {
+   "fr": "Betty Crocker ; King Arthur (cuisson à feu moyen-doux une fois la pâte versée, dans son blog)",
+   "t": "Betty Crocker؛ King Arthur (الطهي على نار متوسطة إلى هادئة بعد صبّ العجينة، في مدوّنته)"
+  },
+  "secrets.5.text": {
+   "fr": "Le bon moment pour retourner : des bulles éclatent sur le dessus et laissent de petits trous, et le bord paraît sec.",
+   "t": "اللحظة المناسبة للقلب: عندما تنفجر الفقاعات على السطح وتترك ثقوبًا صغيرة، وتبدو الحافة جافة."
+  },
+  "secrets.5.source": {
+   "fr": "Betty Crocker ; Taste of Home ; Land O'Lakes ; Fannie Farmer",
+   "t": "Betty Crocker؛ Taste of Home؛ Land O'Lakes؛ Fannie Farmer"
+  },
+  "secrets.6.text": {
+   "fr": "Retourne d'un geste vif, puis pose le pancake doucement : l'air reste dedans et le rend moelleux.",
+   "t": "اقلبه بحركة سريعة، ثم ضع البان كيك برفق: فيبقى الهواء في داخله ويجعله طريًا."
+  },
+  "secrets.6.source": {
+   "fr": "King Arthur (blog)",
+   "t": "King Arthur (المدوّنة)"
+  },
+  "secrets.7.text": {
+   "fr": "Environ 4 c. à s. de pâte (60 ml) par pancake, toujours la même dose : ils ont tous la même taille et cuisent ensemble.",
+   "t": "نحو 4 ملاعق كبيرة من العجينة (60 مل) لكل قطعة، وبالكمية نفسها دائمًا: فتكون كلها بالحجم نفسه وتنضج معًا."
+  },
+  "secrets.7.source": {
+   "fr": "King Arthur ; Taste of Home ; Land O'Lakes ; Betty Crocker",
+   "t": "King Arthur؛ Taste of Home؛ Land O'Lakes؛ Betty Crocker"
+  },
+  "secrets.8.text": {
+   "fr": "Utilise une levure chimique fraîche, non périmée : c'est elle qui fait lever les pancakes.",
+   "t": "استعمل خميرة كيميائية طازجة، غير منتهية الصلاحية: فهي التي تجعل البان كيك ينتفخ."
+  },
+  "secrets.8.source": {
+   "fr": "Betty Crocker ; Taste of Home (la levure rend les pancakes tendres et gonflés)",
+   "t": "Betty Crocker؛ Taste of Home (الخميرة تجعل البان كيك طريًا ومنتفخًا)"
+  },
+  "secrets.9.text": {
+   "fr": "Le babeurre réagit avec le bicarbonate et rend les pancakes encore plus légers : beaucoup de restaurants américains en mettent, selon Betty Crocker.",
+   "t": "يتفاعل مخيض اللبن مع بيكربونات الصوديوم ويجعل البان كيك أخف: وكثير من المطاعم الأمريكية تستعمله، حسب Betty Crocker."
+  },
+  "secrets.9.source": {
+   "fr": "Betty Crocker ; King Arthur ; Wikipédia (le buttermilk pancake est courant aux États-Unis)",
+   "t": "Betty Crocker؛ King Arthur؛ Wikipédia (buttermilk pancake، أي البان كيك بمخيض اللبن، شائع في الولايات المتحدة)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour servir tout le monde en même temps, garde les pancakes au four tiède, en une seule couche sur une plaque.",
+   "t": "لكي تقدّم للجميع في الوقت نفسه، احفظ البان كيك في فرن دافئ، في طبقة واحدة على صينية."
+  },
+  "secrets.10.source": {
+   "fr": "King Arthur ; Taste of Home",
+   "t": "King Arthur؛ Taste of Home"
+  },
+  "secrets.11.text": {
+   "fr": "Aux États-Unis, on les mange au petit-déjeuner, en pile, avec du beurre et du sirop d'érable. Fannie Farmer le conseillait déjà dans son livre de cuisine (édition de 1910).",
+   "t": "في الولايات المتحدة، يؤكل البان كيك في فطور الصباح، في كومة، مع الزبدة وشراب القيقب. وكانت Fannie Farmer تنصح بذلك في كتابها للطبخ (طبعة 1910)."
+  },
+  "secrets.11.source": {
+   "fr": "Wikipédia ; Fannie Farmer, Boston Cooking-School Cook Book ; King Arthur ; Taste of Home",
+   "t": "Wikipédia؛ Fannie Farmer، Boston Cooking-School Cook Book؛ King Arthur؛ Taste of Home"
+  },
+  "mistakes.0": {
+   "fr": "Trop mélanger la pâte : les pancakes deviennent durs et compacts (Betty Crocker ; Taste of Home ; King Arthur).",
+   "t": "الإفراط في خلط العجينة: فيصير البان كيك قاسيًا وكثيفًا (Betty Crocker؛ Taste of Home؛ King Arthur)."
+  },
+  "mistakes.1": {
+   "fr": "Une poêle trop chaude ou pas assez chaude : dehors brun et dedans cru, ou pancakes plats (Betty Crocker).",
+   "t": "مقلاة ساخنة جدًا أو غير ساخنة بما يكفي: خارج أسمر وداخل نيء، أو بان كيك مسطّح (Betty Crocker)."
+  },
+  "mistakes.2": {
+   "fr": "Retourner trop tôt, avant que les bulles éclatent et que le bord soit sec (Betty Crocker ; Taste of Home ; Fannie Farmer).",
+   "t": "القلب في وقت مبكر جدًا، قبل أن تنفجر الفقاعات وتجفّ الحافة (Betty Crocker؛ Taste of Home؛ Fannie Farmer)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser retomber le pancake brutalement en le retournant : l'air s'échappe et il s'aplatit (King Arthur).",
+   "t": "ترك البان كيك يسقط بعنف عند قلبه: فيخرج منه الهواء ويتسطّح (King Arthur)."
+  },
+  "mistakes.4": {
+   "fr": "Utiliser une levure chimique éventée ou périmée : les pancakes lèvent mal (Betty Crocker).",
+   "t": "استعمال خميرة كيميائية فقدت مفعولها أو منتهية الصلاحية: فلا ينتفخ البان كيك جيدًا (Betty Crocker)."
+  },
+  "mistakes.5": {
+   "fr": "Goûter la pâte crue : la farine et les œufs crus peuvent contenir des bactéries (FDA, agence sanitaire américaine).",
+   "t": "تذوّق العجينة النيئة: فالدقيق والبيض النيء قد يحتويان على بكتيريا (FDA، الوكالة الصحية الأمريكية)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre de l'extrait de vanille : aux États-Unis, il contient au moins 35 % d'alcool (eCFR, règlement américain) ; prends plutôt du sucre vanillé ou de la vanille en poudre, que la même réglementation définit comme de la vanille moulue (ou son oléorésine) mélangée à du sucre ou à un autre support, sans alcool parmi les ingrédients (norme américaine).",
+   "t": "إضافة خلاصة الفانيليا: ففي الولايات المتحدة، تحتوي على 35 % من الكحول على الأقل (eCFR، اللوائح الأمريكية)؛ استعمل بدلًا منها السكر الفانيلي أو الفانيليا المسحوقة، التي تعرّفها اللوائح نفسها بأنها فانيليا مطحونة (أو راتنجها الزيتي) ممزوجة بالسكر أو بمادة حاملة أخرى، دون كحول ضمن المكوّنات (المعيار الأمريكي)."
+  },
+  "variants.0": {
+   "fr": "Au babeurre, la recette de King Arthur : 240 g de farine, 35 g de sucre (3 c. à s.), 1 c. à c. de levure chimique, 1 c. à c. de bicarbonate de soude, ½ c. à c. de sel, 1 gros œuf, environ 475 ml de babeurre (454 g) et 28 g de beurre fondu (2 c. à s.) ; repos de 15 minutes ; 14 à 16 pancakes d'environ 10 cm. King Arthur ajoute en option de l'extrait de vanille : remplace-le par du sucre vanillé ou de la vanille en poudre.",
+   "t": "بمخيض اللبن، وصفة King Arthur: 240 غ من الدقيق، و35 غ من السكر (3 ملاعق كبيرة)، وملعقة صغيرة واحدة من الخميرة الكيميائية، وملعقة صغيرة واحدة من بيكربونات الصوديوم، و½ ملعقة صغيرة من الملح، وبيضة كبيرة واحدة، ونحو 475 مل من مخيض اللبن (454 غ)، و28 غ من الزبدة المذابة (ملعقتان كبيرتان)؛ راحة 15 دقيقة؛ من 14 إلى 16 قطعة بان كيك قطرها نحو 10 سم. ويضيف King Arthur خلاصة الفانيليا اختياريًا: عوّضها بالسكر الفانيلي أو الفانيليا المسحوقة."
+  },
+  "variants.1": {
+   "fr": "Babeurre à la place du lait, version Betty Crocker : pour 120 g de farine, environ 235 ml de babeurre au lieu d'environ 175 ml de lait, 1 c. à c. de levure chimique au lieu de 3, et ½ c. à c. de bicarbonate de soude.",
+   "t": "مخيض اللبن بدلًا من الحليب، نسخة Betty Crocker: لكل 120 غ من الدقيق، نحو 235 مل من مخيض اللبن بدلًا من نحو 175 مل من الحليب، و1 ملعقة صغيرة من الخميرة الكيميائية بدلًا من 3، و½ ملعقة صغيرة من بيكربونات الصوديوم."
+  },
+  "variants.2": {
+   "fr": "Sans babeurre sous la main : mets 1 c. à s. de vinaigre ou de jus de citron dans un verre doseur, complète avec du lait jusqu'à environ 235 ml et laisse reposer 5 minutes (Land O'Lakes). King Arthur propose aussi un mélange d'un tiers de yaourt grec nature et de deux tiers de lait.",
+   "t": "إذا لم يكن لديك مخيض اللبن: ضع ملعقة كبيرة واحدة من الخل أو من عصير الليمون في كوب القياس، وأكمل بالحليب حتى نحو 235 مل، واتركه 5 دقائق (Land O'Lakes). ويقترح King Arthur أيضًا خليطًا من ثلث زبادي يوناني سادة وثلثين من الحليب."
+  },
+  "variants.3": {
+   "fr": "Extra moelleux : sépare les œufs, mets les jaunes dans les liquides, bats les blancs en neige (King Arthur en ajoute un de plus) et incorpore-les délicatement juste avant la cuisson (King Arthur).",
+   "t": "طري جدًا: افصل البيض، وضع الصفار مع المكوّنات السائلة، واخفق البياض حتى يصير ثلجيًا (ويضيف King Arthur بياض بيضة إضافيًا)، ثم أدمجه برفق قبيل الطهي مباشرة (King Arthur)."
+  },
+  "variants.4": {
+   "fr": "Aux myrtilles : incorpore délicatement des myrtilles fraîches, ou surgelées puis décongelées (Land O'Lakes : environ 235 ml de myrtilles pour 120 g de farine). Iowa State University conseille de décongeler et d'égoutter les myrtilles surgelées, puis d'y mélanger un peu de farine (2 c. à c. pour sa recette).",
+   "t": "بالتوت الأزرق: أدمج برفق توتًا أزرق طازجًا، أو مجمّدًا ثم مذوّبًا (Land O'Lakes: نحو 235 مل من التوت الأزرق لكل 120 غ من الدقيق). وتنصح Iowa State University بتذويب التوت الأزرق المجمّد وتصفيته، ثم خلطه بقليل من الدقيق (ملعقتان صغيرتان في وصفتها)."
+  },
+  "variants.5": {
+   "fr": "À la farine complète : Betty Crocker accepte la farine complète à la place de la farine blanche ; Iowa State University en fait des pancakes aux myrtilles au lait écrémé, cuits à feu moyen-doux, environ 4 minutes puis 3 minutes.",
+   "t": "بدقيق القمح الكامل: تقبل Betty Crocker دقيق القمح الكامل بدلًا من الدقيق الأبيض؛ وتصنع منه Iowa State University بان كيك بالتوت الأزرق والحليب منزوع الدسم، يُطهى على نار متوسطة إلى هادئة، نحو 4 دقائق ثم 3 دقائق."
+  },
+  "variants.6": {
+   "fr": "À l'ancienne, au lait aigre (Fannie Farmer, Boston Cooking-School Cook Book) : 300 g de farine, ½ c. à c. de sel, 1 ¼ c. à c. de bicarbonate, environ 475 ml de lait aigre et 1 œuf, sans sucre ni beurre ; servis avec du beurre et du sirop d'érable.",
+   "t": "على الطريقة القديمة، بالحليب الحامض (Fannie Farmer، Boston Cooking-School Cook Book): 300 غ من الدقيق، و½ ملعقة صغيرة من الملح، و1 ¼ ملعقة صغيرة من البيكربونات، ونحو 475 مل من الحليب الحامض، وبيضة واحدة، دون سكر ولا زبدة؛ ويُقدَّم مع الزبدة وشراب القيقب."
+  },
+  "variants.7": {
+   "fr": "Très hauts, dans des cercles : King Arthur verse environ 80 ml de pâte dans des cercles à muffins anglais d'environ 10 cm graissés, puis cuit environ 1 minute à feu moyen et 4 à 5 minutes à feu doux avant de retourner.",
+   "t": "عالية جدًا، داخل حلقات: يصبّ King Arthur نحو 80 مل من العجينة في حلقات مدهونة خاصة بالمافن الإنجليزي، قطرها نحو 10 سم، ثم يطهوها نحو دقيقة على نار متوسطة، ومن 4 إلى 5 دقائق على نار هادئة قبل قلبها."
+  },
+  "variants.8": {
+   "fr": "À l'huile : Betty Crocker et King Arthur acceptent l'huile neutre à la place du beurre fondu.",
+   "t": "بالزيت: يقبل كلٌّ من Betty Crocker وKing Arthur زيت المائدة بدلًا من الزبدة المذابة."
+  },
+  "variants.9": {
+   "fr": "Parfum vanille : King Arthur met en option 1 ½ c. à c. d'extrait de vanille, qui contient de l'alcool (au moins 35 % selon la norme américaine). Prends à la place du sucre vanillé ou de la vanille en poudre, selon le goût (aucune source ne donne la dose).",
+   "t": "بنكهة الفانيليا: يضع King Arthur اختياريًا 1 ½ ملعقة صغيرة من خلاصة الفانيليا، وهي تحتوي على الكحول (35 % على الأقل حسب المعيار الأمريكي). استعمل بدلًا منها السكر الفانيلي أو الفانيليا المسحوقة، حسب الذوق (لا يذكر أي مصدر الكمية)."
+  }
+ }
+}

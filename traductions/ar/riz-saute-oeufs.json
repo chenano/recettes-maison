@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Sers aussitôt, bien chaud, en plat léger ou en accompagnement (Omnivore's Cookbook). Maggie Zhu l'accompagne d'une salade de concombre quand elle en fait un repas, ou d'un plat en sauce et d'une soupe pour un dîner chinois complet (Omnivore's Cookbook) ; les Woks of Life le servent avec beaucoup de sauce piquante ; chez Made With Lau, on tasse le riz dans un bol qu'on retourne sur l'assiette, pour un joli dôme.",
-   "t": "قدّمه فورًا، ساخنًا جيدًا، طبقًا خفيفًا أو طبقًا جانبيًا (Omnivore's Cookbook). ترافقه Maggie Zhu بسلطة خيار عندما تجعله وجبة، أو بطبق بالصلصة وحساء لعشاء صيني متكامل (Omnivore's Cookbook)؛ ويقدّمه فريق Woks of Life مع الكثير من الصلصة الحارة؛ وفي Made With Lau، يُكبس الأرز في وعاء ثم يُقلب على الصحن، ليتخذ شكل قبة جميلة."
+   "t": "قدّمه فورًا، ساخنًا جدًا، طبقًا خفيفًا أو طبقًا جانبيًا (Omnivore's Cookbook). تقدّمه Maggie Zhu مع سلطة خيار عندما تجعله وجبة، أو مع طبق بالصلصة وحساء لعشاء صيني متكامل (Omnivore's Cookbook)؛ ويقدّمه فريق Woks of Life مع الكثير من الصلصة الحارة؛ وفي Made With Lau، يُكبس الأرز في وعاء ثم يُقلب على الصحن، ليتخذ شكل قبة جميلة."
   },
   "ing.0.group": {
    "fr": "Riz sauté",
@@ -32,11 +32,11 @@
   },
   "ing.riz.name": {
    "fr": "de riz blanc cuit la veille, bien froid",
-   "t": "أرز أبيض مطبوخ في اليوم السابق، بارد جيدًا"
+   "t": "أرز أبيض مطبوخ في اليوم السابق، بارد تمامًا"
   },
   "ing.riz.note": {
    "fr": "grains longs ; refroidi en moins d'une heure après cuisson et gardé au frigo un jour au plus",
-   "t": "حبة طويلة؛ بُرّد في أقل من ساعة بعد طهيه، وحُفظ في الثلاجة يومًا واحدًا على الأكثر"
+   "t": "طويل الحبة؛ بُرّد في أقل من ساعة بعد طهيه، وحُفظ في الثلاجة يومًا واحدًا على الأكثر"
   },
   "ing.oeufs.name": {
    "fr": "œuf",
@@ -148,7 +148,7 @@
   },
   "steps.6.text": {
    "fr": "Remue en raclant le fond tout autour, le long des bords, pas seulement au centre. Continue de hacher et de remuer environ 2 minutes, jusqu'à ce que les grains soient bien séparés et chauds. S'il reste des mottes sèches, quelques gouttes d'eau dessus aident à les défaire.",
-   "t": "حرّك مع كشط القاع من كل الجهات، على طول الحواف، لا في الوسط فقط. واصل التقطيع والتحريك نحو 2 دقيقة، حتى تنفصل الحبات جيدًا وتسخن. إذا بقيت كتل جافة، فبضع قطرات من الماء عليها تساعد على تفكيكها."
+   "t": "حرّك مع كشط القاع من كل الجهات، على طول الحواف، لا في الوسط فقط. واصل التقطيع والتحريك نحو دقيقتين، حتى تنفصل الحبات جيدًا وتسخن. إذا بقيت كتل جافة، فبضع قطرات من الماء عليها تساعد على تفكيكها."
   },
   "steps.7.title": {
    "fr": "Sale et fais dorer",
@@ -168,7 +168,7 @@
   },
   "steps.8.title": {
    "fr": "Vérifie que c'est bien chaud",
-   "t": "تأكّد من أنه ساخن جيدًا"
+   "t": "تأكّد من أنه ساخن تمامًا"
   },
   "steps.8.text": {
    "fr": "Le riz doit être fumant partout, au cœur aussi : de la vapeur doit s'en échapper quand tu remues. Goûte et ajoute un peu de sel si besoin.",
@@ -180,7 +180,7 @@
   },
   "steps.9.text": {
    "fr": "Coupe le feu et laisse le riz une minute dans la poêle chaude pour qu'il croustille encore. Sers tout de suite, bien chaud.",
-   "t": "أطفئ النار واترك الأرز دقيقة في المقلاة الساخنة ليزداد قرمشة. قدّمه فورًا، ساخنًا جيدًا."
+   "t": "أطفئ النار واترك الأرز دقيقة في المقلاة الساخنة ليزداد قرمشة. قدّمه فورًا، ساخنًا جدًا."
   },
   "secrets.0.text": {
    "fr": "Prends du riz cuit la veille : ses grains restent fermes et se séparent bien au lieu de coller.",
@@ -252,7 +252,7 @@
   },
   "secrets.8.source": {
    "fr": "Omnivore's Cookbook (4 oignons verts pour 3 tasses de riz) ; 美食天下, compte officiel (2 tiges pour 2 œufs)",
-   "t": "Omnivore's Cookbook (4 أعواد بصل أخضر لـ3 أكواب من الأرز)؛ 美食天下، الحساب الرسمي (2 من الأعواد لكل 2 من البيض)"
+   "t": "Omnivore's Cookbook (4 أعواد بصل أخضر لـ3 أكواب من الأرز)؛ 美食天下، الحساب الرسمي (عودان لكل بيضتين)"
   },
   "secrets.9.text": {
    "fr": "Plus parfumé : fais d'abord revenir un peu d'oignon vert dans l'huile chaude, puis ajoute le riz.",
@@ -332,7 +332,7 @@
   },
   "variants.3": {
    "fr": "Version des Woks of Life : une partie des œufs battue avec un peu d'eau, de curcuma et de paprika pour un riz bien jaune, plus oignon, poivron rouge et petits pois.",
-   "t": "نسخة Woks of Life: جزء من البيض يُخفق مع قليل من الماء والكركم والبابريكا لأرز أصفر جيدًا، مع البصل والفليفلة الحمراء والبازلاء."
+   "t": "نسخة Woks of Life: جزء من البيض يُخفق مع قليل من الماء والكركم والبابريكا لأرز شديد الصفرة، مع البصل والفليفلة الحمراء والبازلاء."
   },
   "variants.4": {
    "fr": "Version de HowToCook (programme collaboratif chinois) : jambon, carotte, concombre et un peu de sauce soja claire (生抽). Jambon de volaille et sauce soja certifiés halal seulement.",
@@ -348,7 +348,7 @@
   },
   "variants.7": {
    "fr": "Sans riz de la veille : étale le riz frais sur un plateau, laisse-le refroidir puis mets-le au moins 30 minutes au frigo (Omnivore's Cookbook), ou laisse-le à découvert jusqu'à ce qu'il ne fume plus (The Woks of Life), ou aère-le 1 à 2 minutes aux baguettes pour laisser partir la vapeur (Made With Lau). Le plat dépasse alors les 30 minutes.",
-   "t": "دون أرز اليوم السابق: افرد الأرز الطازج على صينية، واتركه يبرد ثم ضعه في الثلاجة 30 دقيقة على الأقل (Omnivore's Cookbook)، أو اتركه مكشوفًا حتى يتوقف تصاعد البخار منه (The Woks of Life)، أو قلّبه بعيدان الأكل من 1 إلى 2 دقيقة ليخرج البخار (Made With Lau). وعندها يتجاوز وقت الطبق 30 دقيقة."
+   "t": "دون أرز اليوم السابق: افرد الأرز الطازج على صينية، واتركه يبرد ثم ضعه في الثلاجة 30 دقيقة على الأقل (Omnivore's Cookbook)، أو اتركه مكشوفًا حتى يتوقف تصاعد البخار منه (The Woks of Life)، أو قلّبه بعيدان الأكل من دقيقة إلى دقيقتين ليخرج البخار (Made With Lau). وعندها يتجاوز وقت الطبق 30 دقيقة."
   },
   "variants.8": {
    "fr": "Riz de Yangzhou (扬州炒饭), la version riche : la norme de l'association culinaire de Yangzhou y ajoute concombre de mer, poulet, coquilles Saint-Jacques séchées, crevettes, champignons, pousses de bambou et petits pois, mais aussi du jambon et du vin de Shaoxing (绍酒) : pas halal tel quel (中国新闻网, d'après le Ta Kung Pao, 2013).",

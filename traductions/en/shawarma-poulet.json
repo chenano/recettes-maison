@@ -1,0 +1,634 @@
+{
+ "_slug": "shawarma-poulet",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Chawarma de poulet au four",
+   "t": "Oven-baked chicken shawarma"
+  },
+  "tagline": {
+   "fr": "Le sandwich des rues du Liban, fait à la maison sans broche : du poulet mariné toute une nuit, rôti au four, roulé dans un pain libanais avec la toum, la sauce à l'ail.",
+   "t": "Lebanon's street sandwich, made at home without a spit: chicken marinated overnight, roasted in the oven, then rolled in Lebanese flatbread with toum, the garlic sauce."
+  },
+  "region": {
+   "fr": "Levant (Liban, Syrie, Palestine, Jordanie). Le chawarma est né au Levant sous l'Empire ottoman, de la même technique de broche verticale que le döner turc (Wikipédia en anglais ; Wikipédia en arabe pour l'origine au Levant, sous les Ottomans). Son nom viendrait du turc « çevirme », qui veut dire « tourner » (Wikipédia ; Hadia's Lebanese Cuisine). Ce n'est pas un plat marocain.",
+   "t": "The Levant (Lebanon, Syria, Palestine, Jordan). Shawarma was born in the Levant under the Ottoman Empire, from the same vertical-spit technique as Turkish döner (English Wikipedia; Arabic Wikipedia for the Levantine origin, under the Ottomans). Its name is thought to come from the Turkish “çevirme”, which means “to turn” (Wikipedia; Hadia's Lebanese Cuisine). It is not a Moroccan dish."
+  },
+  "occasion": {
+   "fr": "Au Liban, le chawarma se mange au restaurant et dans les snacks de rue ; Hadia Zebib a mis au point cette version au four pour le faire à la maison, sans broche verticale (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen). C'est l'un des plats de rue les plus connus au monde (Wikipédia en anglais et en arabe).",
+   "t": "In Lebanon, shawarma is eaten in restaurants and at street snack bars; Hadia Zebib developed this oven version so it can be made at home, without a vertical spit (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen). It is one of the best-known street foods in the world (English and Arabic Wikipedia)."
+  },
+  "img_alt": {
+   "fr": "Chawarma de poulet roulé dans un pain lavash et coupé en deux, avec de la roquette",
+   "t": "Chicken shawarma rolled in lavash bread and cut in half, with rocket"
+  },
+  "serving": {
+   "fr": "Dans un pain libanais, un pain arabe fin ou un pain saj : une bonne couche de toum, le poulet, des cornichons au sel, des frites et de la laitue romaine, puis le sandwich roulé serré et passé à la presse ou au four (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie ; The Matbakh). Au Proche-Orient, le chawarma de poulet se sert avec la sauce à l'ail, des frites et des pickles (Wikipédia en anglais et en arabe). Mama's Lebanese Kitchen ajoute des tomates grillées, Alphafoodie des tomates fraîches. Il se mange aussi en assiette, avec du riz, des salades et du houmous (Alphafoodie ; The Matbakh, avec du riz aux vermicelles). Pour les frites, suis la recette de l'application. Restes de poulet : au réfrigérateur dans les 2 heures, à manger dans les 2 jours, réchauffés une seule fois jusqu'à être fumants à cœur (FSA ; Santé Canada : 74 °C). Toum : au réfrigérateur, à manger dans les 4 jours (NCHFP), une semaine au plus (Santé Canada).",
+   "t": "In Lebanese flatbread, thin Arabic bread or saj bread: a generous layer of toum, the chicken, brine-pickled gherkins, fries and romaine lettuce, then the sandwich, rolled up tightly, goes into a press or the oven (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie; The Matbakh). In the Middle East, chicken shawarma is served with garlic sauce, fries and pickles (English and Arabic Wikipedia). Mama's Lebanese Kitchen adds grilled tomatoes, Alphafoodie fresh tomatoes. It is also eaten on a plate, with rice, salads and hummus (Alphafoodie; The Matbakh, with vermicelli rice). For the fries, follow the recipe in the app. Leftover chicken: into the fridge within 2 hours, eat within 2 days, and reheat only once, until steaming hot all the way through (FSA; Santé Canada: 74 °C). Toum: keep in the fridge and eat within 4 days (NCHFP), a week at most (Santé Canada)."
+  },
+  "ing.0.group": {
+   "fr": "Le poulet et sa marinade",
+   "t": "The chicken and its marinade"
+  },
+  "ing.poulet.name": {
+   "fr": "de hauts de cuisse de poulet halal, désossés et sans peau",
+   "t": "boneless, skinless halal chicken thighs"
+  },
+  "ing.poulet.note": {
+   "fr": "ou des blancs, ou un mélange des deux",
+   "t": "or breasts, or a mix of both"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à émincer",
+   "t": "to be thinly sliced"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à écraser",
+   "t": "to be crushed"
+  },
+  "ing.yaourt.name": {
+   "fr": "de yaourt nature",
+   "t": "natural yoghurt"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "fresh lemon juice"
+  },
+  "ing.citron.note": {
+   "fr": "pas de jus en bouteille",
+   "t": "not bottled juice"
+  },
+  "ing.vinaigre.name": {
+   "fr": "de vinaigre blanc",
+   "t": "white vinegar"
+  },
+  "ing.vinaigre.note": {
+   "fr": "ou autant de jus de citron",
+   "t": "or the same amount of lemon juice"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.huile.note": {
+   "fr": "ou de tournesol",
+   "t": "or sunflower oil"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "paprika"
+  },
+  "ing.coriandre-moulue.name": {
+   "fr": "de coriandre en poudre",
+   "t": "ground coriander"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre blanc moulu",
+   "t": "ground white pepper"
+  },
+  "ing.poivre.note": {
+   "fr": "ou noir",
+   "t": "or black"
+  },
+  "ing.cardamome.name": {
+   "fr": "de cardamome en poudre",
+   "t": "ground cardamom"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre en poudre",
+   "t": "ground ginger"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle en poudre",
+   "t": "ground cinnamon"
+  },
+  "ing.muscade.name": {
+   "fr": "de noix de muscade râpée",
+   "t": "grated nutmeg"
+  },
+  "ing.1.group": {
+   "fr": "La toum (sauce à l'ail)",
+   "t": "Toum (garlic sauce)"
+  },
+  "ing.ail-toum.name": {
+   "fr": "tête d'ail",
+   "t": "head of garlic"
+  },
+  "ing.ail-toum.pl": {
+   "fr": "têtes d'ail",
+   "t": "heads of garlic"
+  },
+  "ing.ail-toum.note": {
+   "fr": "bien fraîche, sans germe vert",
+   "t": "very fresh, with no green sprout"
+  },
+  "ing.sel-toum.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.huile-toum.name": {
+   "fr": "d'huile neutre (tournesol)",
+   "t": "neutral oil (sunflower)"
+  },
+  "ing.huile-toum.note": {
+   "fr": "pas d'huile d'olive",
+   "t": "not olive oil"
+  },
+  "ing.citron-toum.name": {
+   "fr": "de jus de citron frais",
+   "t": "fresh lemon juice"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.pain.name": {
+   "fr": "pain libanais (pain arabe fin)",
+   "t": "Lebanese flatbread (thin Arabic bread)"
+  },
+  "ing.pain.pl": {
+   "fr": "pains libanais (pains arabes fins)",
+   "t": "Lebanese flatbreads (thin Arabic breads)"
+  },
+  "ing.pain.note": {
+   "fr": "ou des pains pita ; contient du gluten (blé)",
+   "t": "or pitta breads; contains gluten (wheat)"
+  },
+  "ing.cornichons.name": {
+   "fr": "cornichons au sel",
+   "t": "brine-pickled gherkins"
+  },
+  "ing.cornichons.note": {
+   "fr": "en fines tranches",
+   "t": "thinly sliced"
+  },
+  "ing.frites.name": {
+   "fr": "frites",
+   "t": "fries"
+  },
+  "ing.frites.note": {
+   "fr": "à faire avec la recette des frites de l'application",
+   "t": "to be made with the app's fries recipe"
+  },
+  "ing.laitue.name": {
+   "fr": "feuilles de laitue romaine",
+   "t": "romaine lettuce leaves"
+  },
+  "ing.laitue.note": {
+   "fr": "lavées, en lanières",
+   "t": "washed, cut into strips"
+  },
+  "ing.tomates.name": {
+   "fr": "tomates",
+   "t": "tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "en rondelles ; facultatif",
+   "t": "sliced into rounds; optional"
+  },
+  "equipment.0": {
+   "fr": "Une planche et un couteau réservés à la viande crue (FSA)",
+   "t": "A chopping board and a knife used only for raw meat (FSA)"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier avec un couvercle ou du film alimentaire",
+   "t": "A large mixing bowl with a lid or cling film"
+  },
+  "equipment.2": {
+   "fr": "Un grand plat à four, d'environ 23 x 33 cm (The Matbakh)",
+   "t": "A large ovenproof dish, about 23 x 33 cm (The Matbakh)"
+  },
+  "equipment.3": {
+   "fr": "Un thermomètre de cuisson : le seul moyen d'être sûr que le poulet est cuit (Alphafoodie ; Santé Canada)",
+   "t": "A cooking thermometer: the only way to be sure the chicken is cooked (Alphafoodie; Santé Canada)"
+  },
+  "equipment.4": {
+   "fr": "Un robot mixeur ou un mini-hachoir, pour la toum",
+   "t": "A food processor or a mini chopper, for the toum"
+  },
+  "equipment.5": {
+   "fr": "Un bocal propre avec son couvercle, pour garder la toum",
+   "t": "A clean jar with its lid, to keep the toum"
+  },
+  "equipment.6": {
+   "fr": "Une presse à panini ou une poêle, pour griller les sandwichs (facultatif)",
+   "t": "A panini press or a frying pan, to toast the sandwiches (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Coupe le poulet",
+   "t": "Cut the chicken"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains. Sur une planche réservée à la viande crue, coupe {{poulet}} de poulet en fines lanières, d'environ 1 cm d'épaisseur. Ne lave pas le poulet.",
+   "t": "Wash your hands. On a board kept for raw meat, cut {{poulet}} of chicken into thin strips, about 1 cm thick. Do not wash the chicken."
+  },
+  "steps.0.tip": {
+   "fr": "Laver le poulet cru projette les bactéries sur les mains, le plan de travail et les ustensiles (FSA). Tu peux aussi demander au boucher de le couper en fines tranches (Gulf News).",
+   "t": "Washing raw chicken splashes bacteria onto your hands, the worktop and utensils (FSA). You can also ask the butcher to cut it into thin slices (Gulf News)."
+  },
+  "steps.1.title": {
+   "fr": "Prépare l'ail et l'oignon",
+   "t": "Prepare the garlic and onion"
+  },
+  "steps.1.text": {
+   "fr": "Écrase {{ail:full}}. Épluche et émince finement {{oignon:full}}.",
+   "t": "Crush {{ail:full}}. Peel and thinly slice {{oignon:full}}."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Thinly sliced onion and crushed garlic on a chopping board"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.2.title": {
+   "fr": "Prépare la marinade",
+   "t": "Make the marinade"
+  },
+  "steps.2.text": {
+   "fr": "Dans un grand saladier, mets {{yaourt}} de yaourt, {{citron}} de jus de citron, {{vinaigre}} de vinaigre, {{huile}} d'huile et l'ail écrasé. Ajoute {{sel}} de sel, {{paprika}} de paprika, {{coriandre-moulue}} de coriandre en poudre, {{poivre}} de poivre, {{cardamome}} de cardamome, {{gingembre}} de gingembre, {{cannelle}} de cannelle et {{muscade}} de muscade. Fouette jusqu'à ce que la marinade soit bien lisse.",
+   "t": "In a large mixing bowl, put {{yaourt}} of yoghurt, {{citron}} of lemon juice, {{vinaigre}} of vinegar, {{huile}} of oil and the crushed garlic. Add {{sel}} of salt, {{paprika}} of paprika, {{coriandre-moulue}} of ground coriander, {{poivre}} of pepper, {{cardamome}} of cardamom, {{gingembre}} of ginger, {{cannelle}} of cinnamon and {{muscade}} of nutmeg. Whisk until the marinade is very smooth."
+  },
+  "steps.2.tip": {
+   "fr": "Une marinade de chawarma, c'est un acide (citron, vinaigre), une huile et des épices (Hadia's Lebanese Cuisine). Le citron, le vinaigre et le yaourt attendrissent le poulet (Hadia's Lebanese Cuisine ; Alphafoodie).",
+   "t": "A shawarma marinade is an acid (lemon, vinegar), an oil and spices (Hadia's Lebanese Cuisine). The lemon, vinegar and yoghurt tenderise the chicken (Hadia's Lebanese Cuisine; Alphafoodie)."
+  },
+  "steps.3.title": {
+   "fr": "Fais mariner une nuit",
+   "t": "Marinate overnight"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute le poulet et l'oignon dans la marinade, et mélange pour bien enrober chaque morceau. Couvre et mets au réfrigérateur au moins 6 heures, idéalement toute une nuit, mais pas plus de 24 heures.",
+   "t": "Add the chicken and onion to the marinade and mix to coat every piece well. Cover and refrigerate for at least 6 hours, ideally overnight, but no more than 24 hours."
+  },
+  "steps.3.tip": {
+   "fr": "Toujours au réfrigérateur, jamais sur le plan de travail (Santé Canada). Pose le saladier bien couvert en bas du réfrigérateur, pour que rien ne coule sur les autres aliments (FSA).",
+   "t": "Always in the fridge, never on the worktop (Santé Canada). Put the well-covered bowl at the bottom of the fridge, so that nothing drips onto other food (FSA)."
+  },
+  "steps.4.title": {
+   "fr": "Écrase l'ail de la toum",
+   "t": "Crush the garlic for the toum"
+  },
+  "steps.4.text": {
+   "fr": "Prépare la toum pendant que le poulet marine, ou la veille. Sépare et épluche les gousses de {{ail-toum:full}}. Mets-les dans le robot avec {{sel-toum}} de sel. Mixe 10 à 20 secondes, arrête et racle les bords. Recommence trois ou quatre fois, jusqu'à obtenir une pâte.",
+   "t": "Make the toum while the chicken marinates, or the day before. Separate and peel the cloves from {{ail-toum:full}}. Put them in the food processor with {{sel-toum}} of salt. Blend for 10 to 20 seconds, stop and scrape down the sides. Repeat three or four times, until you get a paste."
+  },
+  "steps.4.tip": {
+   "fr": "Prends de l'ail ferme, sans germe vert : il donne un goût amer (Hadia's Lebanese Cuisine ; Alphafoodie). Attention : dans un grand robot, Mama's Lebanese Kitchen conseille au moins 3 têtes d'ail, car les grandes lames attrapent mal une petite quantité.",
+   "t": "Use firm garlic with no green sprout: the sprout gives a bitter taste (Hadia's Lebanese Cuisine; Alphafoodie). Careful: in a large food processor, Mama's Lebanese Kitchen recommends at least 3 heads of garlic, because large blades do not catch a small amount well."
+  },
+  "steps.5.title": {
+   "fr": "Monte la toum",
+   "t": "Emulsify the toum"
+  },
+  "steps.5.text": {
+   "fr": "Remets le robot en marche et ne l'arrête plus. Verse {{huile-toum}} d'huile en filet très fin, petit à petit. Garde à côté {{citron-toum}} de jus de citron. Quand l'ail devient crémeux, alterne : un peu d'huile, puis un peu de jus de citron, jusqu'à tout utiliser. Compte environ 10 minutes.",
+   "t": "Turn the food processor back on and do not stop it again. Pour in {{huile-toum}} of oil in a very thin stream, little by little. Keep {{citron-toum}} of lemon juice to hand. When the garlic turns creamy, alternate: a little oil, then a little lemon juice, until it is all used up. Allow about 10 minutes."
+  },
+  "steps.5.tip": {
+   "fr": "Va très lentement : si l'huile coule trop vite, la sauce tranche et redevient liquide (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine). Huile neutre seulement : l'huile d'olive a un goût trop fort et rend la toum moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "Go very slowly: if the oil goes in too fast, the sauce splits and turns liquid again (Mama's Lebanese Kitchen; Alphafoodie; Hadia's Lebanese Cuisine). Neutral oil only: olive oil tastes too strong and makes the toum less white (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie)."
+  },
+  "steps.6.title": {
+   "fr": "Garde la toum au frais",
+   "t": "Keep the toum chilled"
+  },
+  "steps.6.text": {
+   "fr": "Mets la toum dans un bocal propre et fermé, au réfrigérateur. Elle va raffermir au froid.",
+   "t": "Put the toum in a clean, closed jar in the fridge. It will firm up as it chills."
+  },
+  "steps.6.tip": {
+   "fr": "Hadia la trouve encore meilleure quelques heures plus tard, ou le lendemain. Garde-la toujours au froid, à 4 °C ou moins, jamais à température ambiante. Mange-la dans les 4 jours : c'est le délai le plus prudent, celui du NCHFP américain pour l'ail dans l'huile ; Santé Canada donne une semaine au plus.",
+   "t": "Hadia finds it even better a few hours later, or the next day. Always keep it cold, at 4 °C or below, never at room temperature. Eat it within 4 days: this is the most cautious limit, the one the US NCHFP gives for garlic in oil; Santé Canada gives a week at most."
+  },
+  "steps.7.title": {
+   "fr": "Préchauffe le four et étale le poulet",
+   "t": "Preheat the oven and spread out the chicken"
+  },
+  "steps.7.text": {
+   "fr": "Préchauffe le four à 220 °C. Verse le poulet, l'oignon et toute la marinade dans un grand plat à four. Étale bien, en une seule couche.",
+   "t": "Preheat the oven to 220 °C. Tip the chicken, onion and all the marinade into a large ovenproof dish. Spread it out well, in a single layer."
+  },
+  "steps.7.tip": {
+   "fr": "Hadia fait cuire le reste de la marinade avec le poulet. Laisse un peu d'espace entre les morceaux : ils rôtissent et grillent au lieu de cuire à la vapeur (Alphafoodie).",
+   "t": "Hadia cooks the rest of the marinade with the chicken. Leave a little space between the pieces: they roast and brown instead of steaming (Alphafoodie)."
+  },
+  "steps.8.title": {
+   "fr": "Fais rôtir",
+   "t": "Roast"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour 40 minutes environ. À mi-cuisson, remue le poulet une fois.",
+   "t": "Put the dish in the oven for about 40 minutes. Halfway through, stir the chicken once."
+  },
+  "steps.8.tip": {
+   "fr": "Le temps dépend du four et de la quantité : 40 à 45 minutes chez The Matbakh, environ 50 minutes chez Hadia pour 1 kg, 25 à 30 minutes chez Alphafoodie pour une petite quantité étalée sur une plaque. C'est la cuisson à cœur qui compte : vérifie-la à l'étape suivante.",
+   "t": "The time depends on the oven and the amount: 40 to 45 minutes for The Matbakh, about 50 minutes for Hadia for 1 kg, 25 to 30 minutes for Alphafoodie for a small amount spread on a baking tray. What matters is that it is cooked right through: check it in the next step."
+  },
+  "steps.8.timer.label": {
+   "fr": "Poulet au four",
+   "t": "Chicken in the oven"
+  },
+  "steps.8.timer.done": {
+   "fr": "Vérifie la cuisson du poulet.",
+   "t": "Check that the chicken is cooked."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Check that it is cooked"
+  },
+  "steps.9.text": {
+   "fr": "Plante un thermomètre au cœur du morceau le plus épais : il doit indiquer au moins 74 °C. Sans thermomètre, coupe le plus gros morceau : la viande doit être fumante, sans trace de rose, et le jus doit être clair. Sinon, remets au four quelques minutes et vérifie encore.",
+   "t": "Insert a thermometer into the centre of the thickest piece: it must read at least 74 °C. Without a thermometer, cut open the biggest piece: the meat must be steaming hot, with no trace of pink, and the juices must run clear. If not, put it back in the oven for a few minutes and check again."
+  },
+  "steps.9.tip": {
+   "fr": "74 °C pour les morceaux de volaille (Santé Canada ; Alphafoodie). Sans thermomètre : chair fumante, plus rose, jus clair (FSA).",
+   "t": "74 °C for poultry pieces (Santé Canada; Alphafoodie). Without a thermometer: steaming hot meat, no longer pink, clear juices (FSA)."
+  },
+  "steps.10.title": {
+   "fr": "Fais griller sous le gril",
+   "t": "Brown under the grill"
+  },
+  "steps.10.text": {
+   "fr": "Allume le gril du four et compte 2 minutes, en surveillant : les bords doivent griller sans brûler. Si besoin, laisse une minute de plus au plus.",
+   "t": "Turn on the oven grill and allow 2 minutes, keeping an eye on it: the edges should char without burning. If needed, leave it one more minute at most."
+  },
+  "steps.10.tip": {
+   "fr": "Hadia et Alphafoodie passent le plat 2 à 3 minutes sous le gril, pour des bords plus grillés et plus colorés.",
+   "t": "Hadia and Alphafoodie put the dish under the grill for 2 to 3 minutes, for more charred, deeper-coloured edges."
+  },
+  "steps.10.timer.label": {
+   "fr": "Gril",
+   "t": "Grill"
+  },
+  "steps.10.timer.done": {
+   "fr": "Les bords sont dorés ? Sors le plat. Sinon, une minute de plus au plus.",
+   "t": "Are the edges golden? Take the dish out. If not, one more minute at most."
+  },
+  "steps.11.title": {
+   "fr": "Émince le poulet",
+   "t": "Slice the chicken"
+  },
+  "steps.11.text": {
+   "fr": "Laisse reposer le poulet quelques minutes, puis coupe-le en fines lamelles.",
+   "t": "Let the chicken rest for a few minutes, then cut it into thin slivers."
+  },
+  "steps.11.tip": {
+   "fr": "Le repos garde le poulet juteux (Alphafoodie). Mama's Lebanese Kitchen l'effiloche finement.",
+   "t": "Resting keeps the chicken juicy (Alphafoodie). Mama's Lebanese Kitchen shreds it finely."
+  },
+  "steps.12.title": {
+   "fr": "Garnis les pains",
+   "t": "Fill the flatbreads"
+  },
+  "steps.12.text": {
+   "fr": "Étale une bonne couche de toum sur {{pain:full}}. Ajoute le poulet, des {{cornichons}}, des {{frites}}, quelques {{laitue}} et, si tu veux, des {{tomates}}.",
+   "t": "Spread a generous layer of toum over {{pain:full}}. Add the chicken, {{cornichons}}, {{frites}}, a few {{laitue}} and, if you like, {{tomates}}."
+  },
+  "steps.12.tip": {
+   "fr": "Au Liban, le chawarma de poulet se mange avec la toum. Hadia déconseille d'y ajouter de la mayonnaise, du yaourt à l'ail ou une autre sauce : ils peuvent atténuer le goût des autres ingrédients.",
+   "t": "In Lebanon, chicken shawarma is eaten with toum. Hadia advises against adding mayonnaise, garlic yoghurt or any other sauce: they can dull the taste of the other ingredients."
+  },
+  "steps.13.title": {
+   "fr": "Roule, fais griller et sers",
+   "t": "Roll, toast and serve"
+  },
+  "steps.13.text": {
+   "fr": "Roule chaque sandwich bien serré. Si tu veux, passe-le dans une presse à panini, une poêle ou le four, jusqu'à ce qu'il soit doré et croustillant. Sers aussitôt.",
+   "t": "Roll each sandwich up tightly. If you like, toast it in a panini press, a frying pan or the oven until golden and crisp. Serve straight away."
+  },
+  "steps.14.title": {
+   "fr": "Range les restes",
+   "t": "Store the leftovers"
+  },
+  "steps.14.text": {
+   "fr": "Mets les restes de poulet au réfrigérateur dans les 2 heures, et mange-les dans les 2 jours. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient fumants à cœur.",
+   "t": "Put any leftover chicken in the fridge within 2 hours and eat it within 2 days. Reheat it only once, until it is steaming hot all the way through."
+  },
+  "steps.14.tip": {
+   "fr": "Santé Canada indique 74 °C pour réchauffer les restes ; la FSA demande qu'ils soient fumants partout, et réchauffés une seule fois.",
+   "t": "Santé Canada gives 74 °C for reheating leftovers; the FSA asks for them to be steaming hot throughout, and reheated only once."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des hauts de cuisse : un peu plus gras, ils restent juteux. Le blanc marche aussi, mais il sèche vite s'il cuit trop.",
+   "t": "Use thighs: being a little fattier, they stay juicy. Breast works too, but it dries out quickly if overcooked."
+  },
+  "secrets.0.source": {
+   "fr": "Alphafoodie (Samira Kazan) ; Gulf News, avec le restaurant libanais Zahrat Lebnan ; Mama's Lebanese Kitchen (75 % de blanc et 25 % de cuisse)",
+   "t": "Alphafoodie (Samira Kazan); Gulf News, with the Lebanese restaurant Zahrat Lebnan; Mama's Lebanese Kitchen (75% breast and 25% thigh)"
+  },
+  "secrets.1.text": {
+   "fr": "Coupe le poulet en fines lanières : la marinade touche plus de surface, et chaque bouchée a plus de goût.",
+   "t": "Cut the chicken into thin strips: the marinade reaches more surface, and every bite has more flavour."
+  },
+  "secrets.1.source": {
+   "fr": "Alphafoodie ; Mama's Lebanese Kitchen ; Gulf News (Zahrat Lebnan)",
+   "t": "Alphafoodie; Mama's Lebanese Kitchen; Gulf News (Zahrat Lebnan)"
+  },
+  "secrets.2.text": {
+   "fr": "Une marinade de chawarma a trois parties : un acide (citron, vinaigre), une huile et les épices.",
+   "t": "A shawarma marinade has three parts: an acid (lemon, vinegar), an oil and the spices."
+  },
+  "secrets.2.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Gulf News (Zahrat Lebnan : citron, vinaigre de cidre, huile d'olive, épices) ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine; Gulf News (Zahrat Lebnan: lemon, cider vinegar, olive oil, spices); Alphafoodie"
+  },
+  "secrets.3.text": {
+   "fr": "Laisse mariner longtemps, toujours au réfrigérateur : une nuit chez Mama's Lebanese Kitchen, de 6 à 24 heures chez Hadia, et jamais plus de 24 heures.",
+   "t": "Marinate for a long time, always in the fridge: overnight for Mama's Lebanese Kitchen, 6 to 24 hours for Hadia, and never more than 24 hours."
+  },
+  "secrets.3.source": {
+   "fr": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; Alphafoodie (24 heures au plus)",
+   "t": "Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine; Alphafoodie (24 hours at most)"
+  },
+  "secrets.4.text": {
+   "fr": "Un four bien chaud, à 220 °C, puis 2 à 3 minutes sous le gril pour griller les bords.",
+   "t": "A very hot oven, at 220 °C, then 2 to 3 minutes under the grill to char the edges."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie ; The Matbakh (220 °C)",
+   "t": "Hadia's Lebanese Cuisine; Alphafoodie; The Matbakh (220 °C)"
+  },
+  "secrets.5.text": {
+   "fr": "La toum est la sauce du chawarma de poulet ; le tarator, la sauce au tahini, va avec le chawarma de viande et les falafels.",
+   "t": "Toum is the sauce for chicken shawarma; tarator, the tahini sauce, goes with meat shawarma and falafel."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Wikipédia en anglais et en arabe",
+   "t": "Hadia's Lebanese Cuisine; English and Arabic Wikipedia"
+  },
+  "secrets.6.text": {
+   "fr": "Pour la toum, verse l'huile en filet très fin, robot en marche, et alterne avec le citron : c'est une émulsion, comme une mayonnaise.",
+   "t": "For the toum, pour the oil in a very thin stream with the food processor running, and alternate with the lemon: it is an emulsion, like mayonnaise."
+  },
+  "secrets.6.source": {
+   "fr": "Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine",
+   "t": "Mama's Lebanese Kitchen; Alphafoodie; Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Huile neutre pour la toum, jamais d'huile d'olive.",
+   "t": "Neutral oil for the toum, never olive oil."
+  },
+  "secrets.7.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie"
+  },
+  "secrets.8.text": {
+   "fr": "Ail frais et ferme, sans germe vert, pour une toum qui n'est pas amère.",
+   "t": "Fresh, firm garlic with no green sprout, for a toum that is not bitter."
+  },
+  "secrets.8.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie",
+   "t": "Hadia's Lebanese Cuisine; Alphafoodie"
+  },
+  "secrets.9.text": {
+   "fr": "Autrefois, la toum se faisait au mortier : l'ail pilé avec le sel, puis l'huile ajoutée par toutes petites quantités, pendant 30 à 40 minutes, avec quelques gouttes de citron.",
+   "t": "In the past, toum was made with a mortar and pestle: the garlic pounded with the salt, then the oil added in very small amounts, over 30 to 40 minutes, with a few drops of lemon."
+  },
+  "secrets.9.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "secrets.10.text": {
+   "fr": "Si ta toum tranche, ne la jette pas : Mama's Lebanese Kitchen s'en sert comme marinade pour du poulet grillé ; Alphafoodie recommence avec un peu d'ail et y ajoute peu à peu la sauce ratée.",
+   "t": "If your toum splits, do not throw it away: Mama's Lebanese Kitchen uses it as a marinade for grilled chicken; Alphafoodie starts again with a little garlic and gradually adds the split sauce to it."
+  },
+  "secrets.10.source": {
+   "fr": "Mama's Lebanese Kitchen ; Alphafoodie",
+   "t": "Mama's Lebanese Kitchen; Alphafoodie"
+  },
+  "secrets.11.text": {
+   "fr": "Roule le sandwich bien serré et passe-le à la presse ou au four : il devient croustillant.",
+   "t": "Roll the sandwich up tightly and put it in a press or the oven: it turns crisp."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Alphafoodie (à la poêle)",
+   "t": "Hadia's Lebanese Cuisine; Alphafoodie (in a frying pan)"
+  },
+  "secrets.12.text": {
+   "fr": "Un thermomètre est le seul moyen d'être sûr que le poulet est cuit (74 °C), sans le dessécher.",
+   "t": "A thermometer is the only way to be sure the chicken is cooked (74 °C) without drying it out."
+  },
+  "secrets.12.source": {
+   "fr": "Alphafoodie ; Santé Canada",
+   "t": "Alphafoodie; Santé Canada"
+  },
+  "secrets.13.text": {
+   "fr": "Prends des cornichons au sel, à la libanaise.",
+   "t": "Use brine-pickled gherkins, the Lebanese way."
+  },
+  "secrets.13.source": {
+   "fr": "Mama's Lebanese Kitchen (« salty cucumber pickles ») ; Hadia's Lebanese Cuisine (pickles en fines tranches)",
+   "t": "Mama's Lebanese Kitchen (“salty cucumber pickles”); Hadia's Lebanese Cuisine (thinly sliced pickles)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : l'eau projette les bactéries sur les mains, le plan de travail et les ustensiles (FSA).",
+   "t": "Washing raw chicken: the water splashes bacteria onto your hands, the worktop and utensils (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser mariner sur le plan de travail : la marinade se fait au réfrigérateur (Santé Canada).",
+   "t": "Marinating on the worktop: marinating is done in the fridge (Santé Canada)."
+  },
+  "mistakes.2": {
+   "fr": "Verser sur le poulet cuit de la marinade qui a touché la viande crue (Santé Canada).",
+   "t": "Pouring marinade that has touched raw meat over the cooked chicken (Santé Canada)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire le blanc de poulet : il devient sec (Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "Overcooking chicken breast: it turns dry (Mama's Lebanese Kitchen; Alphafoodie)."
+  },
+  "mistakes.4": {
+   "fr": "Se fier à la couleur seule : vérifie 74 °C au cœur avec un thermomètre (Alphafoodie ; Santé Canada).",
+   "t": "Relying on colour alone: check for 74 °C in the centre with a thermometer (Alphafoodie; Santé Canada)."
+  },
+  "mistakes.5": {
+   "fr": "Verser l'huile trop vite dans la toum : elle tranche (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine).",
+   "t": "Pouring the oil into the toum too fast: it splits (Mama's Lebanese Kitchen; Alphafoodie; Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.6": {
+   "fr": "Faire la toum à l'huile d'olive : goût trop fort, couleur moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
+   "t": "Making toum with olive oil: too strong a taste, a less white colour (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Alphafoodie)."
+  },
+  "mistakes.7": {
+   "fr": "Prendre de l'ail germé : la toum devient amère (Hadia's Lebanese Cuisine ; Alphafoodie).",
+   "t": "Using sprouted garlic: the toum turns bitter (Hadia's Lebanese Cuisine; Alphafoodie)."
+  },
+  "mistakes.8": {
+   "fr": "Garder la toum à température ambiante, ou trop longtemps au réfrigérateur (Santé Canada ; NCHFP).",
+   "t": "Keeping toum at room temperature, or for too long in the fridge (Santé Canada; NCHFP)."
+  },
+  "mistakes.9": {
+   "fr": "Servir le chawarma de poulet avec de la mayonnaise ou du yaourt à l'ail : au Liban, c'est la toum (Hadia's Lebanese Cuisine).",
+   "t": "Serving chicken shawarma with mayonnaise or garlic yoghurt: in Lebanon, it comes with toum (Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.10": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur, ou les réchauffer plus d'une fois (FSA).",
+   "t": "Leaving leftovers out of the fridge for more than 2 hours, or reheating them more than once (FSA)."
+  },
+  "variants.0": {
+   "fr": "Avec la sauce au tahini (tarator) à la place de la toum. Hadia précise que ce n'est pas la sauce traditionnelle du chawarma de poulet : elle va plutôt avec le chawarma de viande et les falafels (Hadia's Lebanese Cuisine ; Wikipédia en anglais).",
+   "t": "With tahini sauce (tarator) instead of toum. Hadia points out that it is not the traditional sauce for chicken shawarma: it goes better with meat shawarma and falafel (Hadia's Lebanese Cuisine; English Wikipedia)."
+  },
+  "variants.1": {
+   "fr": "La toum « facile » de Hadia : on y ajoute une crème de fécule de maïs cuite et refroidie, qui la rend plus facile à réussir (Hadia's Lebanese Cuisine).",
+   "t": "Hadia's “easy” toum: a cooked, cooled cornflour paste is added to it, which makes it easier to get right (Hadia's Lebanese Cuisine)."
+  },
+  "variants.2": {
+   "fr": "À la poêle : 12 à 15 minutes à feu moyen-vif, par petites quantités (Alphafoodie).",
+   "t": "In a frying pan: 12 to 15 minutes over medium-high heat, in small batches (Alphafoodie)."
+  },
+  "variants.3": {
+   "fr": "À la friteuse à air : 10 à 14 minutes à 205 °C (400 °F), en secouant à mi-cuisson (Alphafoodie).",
+   "t": "In an air fryer: 10 to 14 minutes at 205 °C (400 °F), shaking halfway through (Alphafoodie)."
+  },
+  "variants.4": {
+   "fr": "Au grill à panini : environ 15 minutes à feu moyen. Mama's Lebanese Kitchen préfère cette méthode, qui garde le poulet plus juteux que le four.",
+   "t": "In a panini grill: about 15 minutes over medium heat. Mama's Lebanese Kitchen prefers this method, which keeps the chicken juicier than the oven does."
+  },
+  "variants.5": {
+   "fr": "Avec des tomates et un oignon en tranches, cuits dans le plat avec le poulet (The Matbakh).",
+   "t": "With sliced tomatoes and onion, cooked in the dish with the chicken (The Matbakh)."
+  },
+  "variants.6": {
+   "fr": "Façon Zahrat Lebnan, restaurant libanais d'Abou Dhabi : poulet mariné 4 à 6 heures, cuit 2 heures à couvert entre 130 et 150 °C, puis effiloché ; environ 100 g par pain, avec une sauce au tahini, des tomates grillées, des frites, du cerfeuil ou du persil et de la coriandre (Gulf News).",
+   "t": "Zahrat Lebnan style, a Lebanese restaurant in Abu Dhabi: chicken marinated for 4 to 6 hours, cooked covered for 2 hours at 130 to 150 °C, then shredded; about 100 g per flatbread, with tahini sauce, grilled tomatoes, fries, chervil or parsley, and coriander (Gulf News)."
+  },
+  "variants.7": {
+   "fr": "Sandwich croustillant d'Alphafoodie : des chips dans le sandwich, l'extérieur badigeonné d'huile d'olive, de pâte de piment et d'un peu de mélasse de grenade, puis grillé à la poêle.",
+   "t": "Alphafoodie's crispy sandwich: crisps inside the sandwich, the outside brushed with olive oil, chilli paste and a little pomegranate molasses, then toasted in a frying pan."
+  },
+  "variants.8": {
+   "fr": "Chawarma de viande à la libanaise (bœuf ou agneau halal) : avec le tarator, des tomates, du persil, de l'oignon au sumac et des pickles (Taste of Beirut ; Hadia's Lebanese Cuisine).",
+   "t": "Lebanese-style meat shawarma (halal beef or lamb): with tarator, tomatoes, parsley, sumac onion and pickles (Taste of Beirut; Hadia's Lebanese Cuisine)."
+  },
+  "variants.9": {
+   "fr": "En Syrie, le chawarma se sert surtout avec la sauce à l'ail ; en Palestine, avec du sumac, des oignons et du tahini (Wikipédia en anglais).",
+   "t": "In Syria, shawarma is mostly served with garlic sauce; in Palestine, with sumac, onions and tahini (English Wikipedia)."
+  },
+  "variants.10": {
+   "fr": "Dans certains restaurants libanais, une salade de chou à la mayonnaise remplace les frites (Mama's Lebanese Kitchen).",
+   "t": "In some Lebanese restaurants, a cabbage and mayonnaise salad replaces the fries (Mama's Lebanese Kitchen)."
+  }
+ }
+}

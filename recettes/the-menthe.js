@@ -188,7 +188,7 @@ window.RECETTES.push({
   "Jeter le premier jet : c'est l'esprit du thé, il doit retourner dans la théière.",
   "Oublier le rinçage : le thé reste amer et garde sa poussière.",
   "Laisser des tiges de menthe hors de l'eau : le thé peut devenir amer.",
-  "Remplir la théière jusqu'au bord : laisse environ 2,5 cm de vide.",
+  "Remplir la théière jusqu'au bord : remplis-la environ aux trois quarts, comme le dit la note de l'eau (Cooking with Alia ; Moroccan Zest, lui, garde environ 2,5 cm de vide).",
   "Chauffer à feu vif : le thé doit monter doucement à ébullition.",
   "Laisser bouillir longtemps : plus le thé bout, plus il est fort et chargé en caféine.",
   "Servir dans des tasses : le thé marocain se boit dans de petits verres.",
@@ -199,7 +199,7 @@ window.RECETTES.push({
   "Chiba (absinthe, la plante) en hiver : d'octobre à avril, elle remplace la menthe quand il fait froid et que la menthe est moins bonne ; dans les cafés, on la sert à part et chacun l'ajoute dans son verre. Goût nettement plus amer. Mets-en peu : l'absinthe contient de la thuyone, réputée neurotoxique ; l'Agence européenne des médicaments la réserve aux adultes et la déconseille pendant la grossesse et l'allaitement, ainsi qu'en cas de maladie du foie ou des voies biliaires ou d'allergie aux astéracées — Hespress (dépêche Anadolu) ; Agence européenne des médicaments ; aussi Al Jazeera, Moroccan Zest, Morocco World News, Wikipédia.",
   "Louiza (verveine citronnelle), à la place de la menthe ou avec elle — Al Jazeera ; Morocco World News ; la verveine aussi chez My Moroccan Food et Moroccan Zest.",
   "Zaatar en hiver, à la place de la menthe — Hespress (dépêche Anadolu) ; Asharq cite aussi le « أتاي بالزعتر ».",
-  "Menthe pouliot et absinthe quand il fait froid, réputées réchauffantes ; pour l'absinthe, mêmes précautions que pour la chiba — Moroccan Zest ; Agence européenne des médicaments. Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
+  "Menthe pouliot et absinthe quand il fait froid, réputées réchauffantes ; cette absinthe est la chiba de la variante d'hiver, avec les mêmes précautions — Moroccan Zest ; Agence européenne des médicaments. Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
   "Fleur d'oranger : de l'eau de fleur d'oranger ajoutée hors du feu — Moroccan Zest ; Al Jazeera cite aussi les fleurs d'agrumes (« زهر الليمون ») à la place de la menthe.",
   "Géranium, thym sauvage ou sauge à la place de la menthe — Morocco World News ; le géranium aussi chez My Moroccan Food.",
   "Pour les fêtes (fiançailles, mariages) : boutons de rose, verveine et cannelle — Moroccan Zest."
@@ -311,7 +311,8 @@ window.RECETTES.push({
   "Volumes : aucune source ne donne la contenance de la théière. Premier jet et rinçage : une demi-tasse (environ 120 ml) chez My Moroccan Food et Morocco World News, une tasse (environ 240 ml) chez Cooking with Alia et pour le rinçage de Moroccan Zest ; Al Jazeera et Bladi disent « un peu d'eau ». La base de 6 verres (120 ml de premier jet et 600 ml d'eau dans la théière) est un calcul : Moroccan Zest compte 3 tasses d'eau pour 4 personnes, My Moroccan Food 500 ml d'eau pour 400 ml de thé.",
   "« Chaara » : la demande en fait le gunpowder, mais aucune source solide lue ne le confirme ; des fiches marchandes vues en résultats de recherche (« Sultan 4011 Chaara ») le présentent comme un chunmee, un autre thé vert de Chine, en feuilles torsadées et non en grains. Le mot n'est donc pas employé dans la recette.",
   "Durées (5 min de préparation, 10 min de cuisson) : estimations ; seule Moroccan Zest annonce un temps (moins de 10 minutes).",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Le mot darija « roh » pour le premier jet : aucune source lue ne l'écrit ; elles disent « spirit of the tea » (Cooking with Alia, qui précise que c'est le nom employé au Maroc), « essence » (My Moroccan Food), « premier essentiel retenu » (Royal Mansour). La recette dit donc « l'esprit du thé ».",
