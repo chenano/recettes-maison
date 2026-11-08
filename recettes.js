@@ -369,8 +369,15 @@ window.INGREDIENTS = {
   "modified": "recadrée en carré et réduite"
  },
  "coriandre-moulue": {
+  "title": "Coriander powder.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Coriander_powder.JPG",
+  "author": "Nithyasrm",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "label": "Coriandre moulue",
-  "aisle": "Épices"
+  "aisle": "Épices",
+  "file": "coriandre-moulue.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "cornichons": {
   "title": "Polish style pickled cucumbers IMGP0529.jpg",
@@ -2067,7 +2074,7 @@ window.RECETTES.push({
    "source": "Taste of Maroc (Christine Benlafquih) ; toutes les recettes lues en mettent, sauf Morocco World News (MarocMama la laisse au choix avec la farine de blé)"
   },
   {
-   "text": "Tu peux mettre plus de semoule : Taste of Maroc conseille de ne pas dépasser la moitié de farine blanche, sinon la mie peut devenir collante.",
+   "text": "Tu peux mettre plus de semoule que dans cette recette : Taste of Maroc conseille que la farine blanche ne dépasse pas la moitié du total, sinon la mie peut devenir collante.",
    "source": "Taste of Maroc (Christine Benlafquih)"
   },
   {
@@ -2225,7 +2232,8 @@ window.RECETTES.push({
   "Nombre et taille : 20 pains de 10 cm pour environ 1,47 kg de pâte (Taste of Maroc), 10 à 12 pains pour une quantité proche (MarocMama), 14 minis de 7 cm pour environ 0,37 kg (My Moroccan Food). Poids de pâte par pain : 26 g, 73 g et 120 à 147 g ; médiane 73 g (calcul). Retenu : boules d'environ 70 g ; notre pâte (environ 840 g, calcul) donne donc 12 pains.",
   "Conversions : les tasses de MarocMama sont converties avec les équivalences que Taste of Maroc donne pour la même recette (3 tasses de farine blanche = 375 g, 2 tasses de semoule = 384 g, 2 tasses d'eau = 500 ml) ; 1 pouce = 2,54 cm (calcul python).",
   "Durées affichées : préparation de 20 min (Taste of Maroc ; Cooking with Alia) ; cuisson de 20 min (Cooking with Alia ; Taste of Maroc compte 10 min avec une double plaque, MarocMama 45 min) ; repos de 70 min = 10 min pour les boules et 60 min pour les disques.",
-  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s)."
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Choumicha : la page qui liste ses recettes de batbout (copie web.archive.org du 4 juillet 2017) et sa fiche « Batbot » (copie du 20 mai 2018, lue à la contre-vérification : 250 g de farine de blé dur, 250 g de farine, 1 c. à c. de sel, 10 g de levure fraîche, 30 cl d'eau tiède) ont pu être lues. Sa fiche « Batbot ou Pain Metlouâ » n'a pas été ouverte : le 8 novembre 2026, web.archive.org a bloqué plusieurs requêtes (erreur 429, « trafic de robot suspect ») et ce blocage n'a pas été contourné.",
@@ -2837,7 +2845,7 @@ window.RECETTES.push({
      "id": "carvi-poulet",
      "q": 1,
      "u": "c. à c.",
-     "name": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+     "name": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
      "canon": "carvi"
     }
    ]
@@ -2921,7 +2929,7 @@ window.RECETTES.push({
      "id": "carvi-riz",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+     "name": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
      "canon": "carvi"
     }
    ]
@@ -3270,7 +3278,12 @@ window.RECETTES.push({
   {
    "name": "Wikipédia (anglais), « Bunium persicum », consultée le 8 novembre 2026",
    "url": "https://en.wikipedia.org/wiki/Bunium_persicum",
-   "used_for": "Contre-vérification : Le shahi zeera (« imperial cumin ») ou kala zeera est Bunium persicum, apparenté au cumin, « sometimes called black cumin, or black caraway » : une autre plante que le carvi, qui sert de remplacement."
+   "used_for": "Contre-vérification : Le shahi zeera (« imperial cumin ») ou kala zeera est Bunium persicum, apparenté au cumin, « sometimes called black cumin, or black caraway » : une autre plante que le carvi, qui sert de remplacement. La page, aujourd'hui « Elwendia persica », ajoute qu'on la confond souvent avec la nigelle (« often confused with Nigella sativa »)."
+  },
+  {
+   "name": "Wikipédia, « Nigelle cultivée » (lue le 8 novembre 2026)",
+   "url": "https://fr.wikipedia.org/wiki/Nigelle_cultiv%C3%A9e",
+   "used_for": "Relecture : La nigelle cultivée (Nigella sativa) s'appelle aussi cumin noir : d'où la précision « pas la nigelle » à côté du shahi jeera."
   }
  ],
  "discrepancies": [
@@ -3282,7 +3295,7 @@ window.RECETTES.push({
   "Oignons frits pour 4 : 1 gros (Swasthi kachchi) à 4 ou 5 gros (Sanjeev Kapoor kachchi) ; 2 moyens (Swasthi pakki), 3 moyens pour 2 à 4 (Ranveer Brar). Médiane : 330 g d'oignon cru, soit 3 oignons moyens de 110 g (USDA). Retenu : 3.",
   "Menthe et coriandre : 4 c. à s. de chaque chez Swasthi ; 4 c. à s. de coriandre et 2 à 3 c. à s. de menthe plus des feuilles entières chez Sanjeev Kapoor 2024 ; « une poignée » chez Swasthi pakki ; ½ tasse chez Sanjeev Kapoor kachchi. Retenu : 4 c. à s. de chaque.",
   "Épices entières de l'eau du riz : cannelle de ½ à 3 pouces (médiane 1,5 pouce, environ 4 cm) ; cardamome 3 à 10 (médiane 4) ; clous 4 à 10 (médiane 6) ; badiane 1 (Swasthi, Sanjeev Kapoor 2024) ; laurier 1 (Swasthi, Sanjeev Kapoor, Ranveer Brar). Carvi (shahi jeera) en tout : 0,5 à 2 c. à c. (médiane 1,5) ; retenu ½ c. à c. dans l'eau du riz et 1 c. à c. avec le poulet. Le macis, la cardamome noire et le poivre (Sanjeev Kapoor, Swasthi) ne sont pas repris.",
-  "Shahi jeera : Swasthi et Sanjeev Kapoor le traduisent par « caraway seeds » (carvi) ; Vismai Food parle de « black cumin ». Le shahi jeera est pourtant une autre plante, Bunium persicum, appelée aussi cumin noir (Wikipédia). Retenu : graines de carvi, faciles à trouver au Maroc, ou shahi jeera si tu en as.",
+  "Shahi jeera : Swasthi et Sanjeev Kapoor le traduisent par « caraway seeds » (carvi) ; Vismai Food parle de « black cumin ». Le shahi jeera est pourtant une autre plante, Bunium persicum, appelée aussi cumin noir (Wikipédia), à ne pas confondre avec la nigelle (Nigella sativa), qui porte le même nom (Wikipédia, « Nigelle cultivée »). Retenu : graines de carvi, faciles à trouver au Maroc, ou shahi jeera si tu en as.",
   "Cuisson du riz : 60 % (Ranveer Brar), 70 % (Vismai Food), 75 % (Swasthi kachchi), trois quarts (Sanjeev Kapoor, Kunal Kapur pour les légumes), 80 % (Ranveer Brar, Chicken Dum), 90 % pour un pakki (Swasthi), à moitié (Kunal Kapur, mouton pakki). Médiane : environ 75 %. Retenu : aux trois quarts. Durée : 4 à 5 minutes (Ranveer Brar), 5 à 6 minutes (Sanjeev Kapoor) ; minuteur de 5 minutes, puis on goûte un grain.",
   "Cuisson à l'étouffée (pakki) : 12 à 15 minutes à feu moyen sur le tawa (Swasthi), 1 minute à feu vif puis 12 à 15 minutes à feu doux (Kunal Kapur), 15 à 20 minutes à feu doux (Sanjeev Kapoor 2024 ; Ranveer Brar, Chicken Dum). Retenu : 15 minutes à feu doux, durée commune aux quatre.",
   "Repos : 10 minutes (Kunal Kapur), 10 à 12 minutes (Ranveer Brar), 15 à 20 minutes (Vismai Food), au moins 20 minutes (Swasthi). Retenu : 10 minutes, durée donnée par deux sources ; tu peux attendre un peu plus.",
@@ -3296,7 +3309,8 @@ window.RECETTES.push({
   "Halal : aucune source n'utilise d'alcool. L'eau de kewra et l'eau de rose (Sanjeev Kapoor, Ranveer Brar, Kunal Kapur) sont sorties de la recette principale : leur composition n'a pas été vérifiée. Poulet halal.",
   "Laver le poulet : Kunal Kapur et Ranveer Brar le lavent ; la FSA le déconseille. Retenu : on ne le lave pas.",
   "Temps total : les sources annoncent de 25 à 60 minutes de cuisson (Ranveer Brar, Sanjeev Kapoor, Vismai Food, Swasthi). La recette compte 75 minutes de cuisson, friture des oignons comprise, et 130 minutes de repos (2 heures de marinade et 10 minutes de repos final).",
-  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s)."
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 4 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Nom en darija : aucun trouvé en lettres latines dans une source, laissé vide. Le nom arabe « برياني الدجاج » vient du site marocain Lalla Moulati.",
@@ -4474,7 +4488,7 @@ window.RECETTES.push({
      "q": 30,
      "u": "g",
      "name": "de noix de cajou nature",
-     "note": "ni salées ni grillées, une vingtaine",
+     "note": "ni salées ni grillées ; une vingtaine pour 4 personnes",
      "canon": "noix-cajou"
     },
     {
@@ -4889,7 +4903,8 @@ window.RECETTES.push({
   "Halal : aucune source ne met d'alcool. Retirés : l'eau de kewra (Ranveer Brar, Vieux Delhi), dont la composition n'a pas été vérifiée ; le colorant rouge facultatif et le sel noir (kala namak) de Monish Gujral, absents des autres recettes. Poulet halal.",
   "Laver le poulet : aucune des recettes de butter chicken citées ne le lave (Kunal Kapur et Ranveer Brar le lavent dans leurs biryanis) ; la FSA le déconseille. Retenu : on le sèche sans le laver.",
   "Origine : date et lieu disputés. Moti Mahal parle de Peshawar dans les années 1930 (plainte de 2024) ; Daryaganj parle de Delhi en 1947 ; Wikipédia et le livre de Monish Gujral de 2013 parlent des années 1950 à Delhi ; Kunal Kapur rappelle qu'il n'existe aucune trace écrite. La recette donne les deux versions sans trancher.",
-  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s)."
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Issue du procès Moti Mahal contre Daryaganj : non vérifiée. Les articles lus s'arrêtent à l'audience prévue le 29 mai 2024 ; aucune décision n'a été trouvée.",
@@ -16103,7 +16118,7 @@ window.RECETTES.push({
      "q": 1.5,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "1 à 2 c. à c. selon les sources",
+     "note": "de 1 à 2 c. à c. pour 12 msemen selon les sources",
      "canon": "sel"
     },
     {
@@ -16462,7 +16477,8 @@ window.RECETTES.push({
   "Sel : Hot Bread Kitchen indique 1,5 c. à c. de sel casher, plus grossier que le sel fin. Retenu : 1,5 c. à c. de sel fin, dans la fourchette des autres sources (1 c. à c. pour 650 g de farine et semoule chez Rachida, 2 c. à c. pour 700 g chez Morocco World News).",
   "Taille : de 10 cm (Taste of Maroc, My Moroccan Food) à 23 cm (Kookmutsjes). Retenu : le format Hot Bread Kitchen, 12 pâtons de 85 g pour des carrés d'environ 18 cm.",
   "Durées affichées : préparation (45 min) et cuisson (30 min) reprises de MarocMama pour 10 à 12 msemen ; repos = 15 min pour les pâtons + 15 min pour les carrés.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 3 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 3 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Recette de Choumicha : choumicha.com est un nom de domaine à vendre et choumicha.ma renvoie une erreur serveur ; aucune page fiable reprenant sa recette n'a été trouvée.",
@@ -25936,7 +25952,7 @@ window.RECETTES.push({
   {
    "phase": "Cuisson",
    "title": "Fais revenir l'oignon et l'ail",
-   "text": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "text": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}}, puis laisse ramollir quelques minutes en remuant. Ajoute {{ail:full}}, puis remue 1 à 2 minutes, jusqu'à ce que ça embaume, sans laisser brûler.",
    "timer": null
   },
   {
@@ -26177,7 +26193,7 @@ window.RECETTES.push({
   "Ustensile : tajine en terre traditionnel (Taste of Maroc, MarocMama) ou poêle et sauteuse (My Moroccan Food, Amour de cuisine, Cooking With Alia). Les deux sont donnés.",
   "Amour de cuisine figure parmi les exemples de sources, mais son autrice (Soulef Zaoui) a des racines algériennes : elle n'est pas comptée comme source marocaine.",
   "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme », 1 correction(s) appliquée(s).",
-  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
+  "Relue le 8 novembre 2026 pendant la traduction : 3 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Choumicha : le site officiel choumicha.ma était inaccessible le 2026-11-06 (erreur Cloudflare 525, avec WebFetch et dans le navigateur). Aucune de ses recettes n'a pu être lue ; les extraits de moteur de recherche (« Tajine de tomate au khliï et aux œufs », page « La tomate » qui cite les tajines aux œufs et aux boulettes de kefta) ne sont pas utilisés.",

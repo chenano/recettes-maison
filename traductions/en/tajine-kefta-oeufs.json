@@ -243,8 +243,8 @@
    "t": "Sauté the onion and garlic"
   },
   "steps.3.text": {
-   "fr": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
-   "t": "Put the tagine over medium-low heat (on a diffuser if you are not cooking on gas; on gas without a diffuser, the flame must not touch the base), or use a sauté pan, and heat {{huile:full}}. Add {{oignon-sauce:full}} and let it soften for a few minutes, stirring. Add {{ail:full}} and stir for 1 to 2 minutes, until fragrant, without letting the garlic burn."
+   "fr": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse, et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}}, puis laisse ramollir quelques minutes en remuant. Ajoute {{ail:full}}, puis remue 1 à 2 minutes, jusqu'à ce que ça embaume, sans laisser brûler.",
+   "t": "Put the tagine over medium-low heat (on a diffuser if you are not cooking on gas; on gas without a diffuser, the flame must not touch the base), or use a sauté pan, and heat {{huile:full}}. Add {{oignon-sauce:full}}, and cook for a few minutes, stirring, until softened. Add {{ail:full}}, and stir for 1 to 2 minutes, until fragrant, without letting the garlic burn."
   },
   "steps.4.title": {
    "fr": "Fais mijoter la sauce",
@@ -328,7 +328,7 @@
   },
   "secrets.1.text": {
    "fr": "Pas d'œuf ni de chapelure dans la kefta : c'est un écart à la tradition marocaine.",
-   "t": "No egg or breadcrumbs in the kefta: that is a departure from Moroccan tradition."
+   "t": "No egg or breadcrumbs in the kefta: adding them is a departure from Moroccan tradition."
   },
   "secrets.1.source": {
    "fr": "Taste of Maroc (Christine Benlafquih)",
@@ -524,7 +524,7 @@
   },
   "variants.14": {
    "fr": "Tomates en conserve pour dépanner (pelées chez My Moroccan Food, en morceaux chez Amour de cuisine).",
-   "t": "Tinned tomatoes at a pinch (whole peeled for My Moroccan Food, chopped for Amour de cuisine)."
+   "t": "Tinned tomatoes at a pinch (peeled for My Moroccan Food, chopped for Amour de cuisine)."
   }
  }
 }

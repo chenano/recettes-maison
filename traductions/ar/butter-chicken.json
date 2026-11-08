@@ -143,8 +143,8 @@
    "t": "كاجو طبيعي"
   },
   "ing.cajou.note": {
-   "fr": "ni salées ni grillées, une vingtaine",
-   "t": "غير مملّح وغير محمّص، حوالي عشرين حبة"
+   "fr": "ni salées ni grillées ; une vingtaine pour 4 personnes",
+   "t": "غير مملّح وغير محمّص؛ حوالي عشرين حبة لـ4 أشخاص"
   },
   "ing.piment-sauce.name": {
    "fr": "de piment du Cachemire en poudre",
@@ -248,7 +248,7 @@
   },
   "steps.0.tip": {
    "fr": "Swasthi remplace la pâte par moitié gingembre râpé, moitié ail râpé.",
-   "t": "عند Swasthi، يُستبدل المعجون بنصفه زنجبيل مبشور ونصفه ثوم مبشور."
+   "t": "تستبدل Swasthi المعجون بخليط نصفه زنجبيل مبشور ونصفه ثوم مبشور."
   },
   "steps.1.title": {
    "fr": "Coupe et sèche le poulet",
@@ -292,7 +292,7 @@
   },
   "steps.3.tip": {
    "fr": "Plus la marinade est longue, plus le poulet est tendre : Swasthi conseille 12 heures, et jamais plus de 48 heures.",
-   "t": "كلما طالت مدة التتبيل، صار الدجاج أطرى: ونصيحة Swasthi هي 12 ساعة، ولا أكثر من 48 ساعة أبدًا."
+   "t": "كلما طالت مدة التتبيل، صار الدجاج أطرى: تنصح Swasthi بمدة 12 ساعة، ولا أكثر من 48 ساعة أبدًا."
   },
   "steps.4.title": {
    "fr": "Prépare les légumes",
@@ -492,7 +492,7 @@
   },
   "secrets.9.text": {
    "fr": "Le piment du Cachemire est moyennement fort et donne une belle couleur rouge. Sinon, prends moitié paprika fumé, moitié piment de Cayenne.",
-   "t": "الفلفل الحار الكشميري متوسط الحرارة ويعطي لونًا أحمر جميلًا. وإلا، فاستعمل نصفه بابريكا مدخّنة ونصفه فلفل الكايين."
+   "t": "الفلفل الحار الكشميري متوسط الحرارة ويعطي لونًا أحمر جميلًا. وإن لم يتوفر، فاستعمل خليطًا نصفه بابريكا مدخّنة ونصفه فلفل الكايين."
   },
   "secrets.9.source": {
    "fr": "Swasthi",
@@ -572,11 +572,11 @@
   },
   "variants.1": {
    "fr": "À l'ancienne, avec un poulet en morceaux avec os, comme le poulet tandoori de Moti Mahal (Monish Gujral ; Sanjeev Kapoor ; Ranveer Brar, version du Vieux Delhi, avec cuisses et pilons). Avec les os, il faut plus de temps dans la sauce : Sanjeev Kapoor compte 10 à 15 minutes à couvert, jusqu'à cuisson complète.",
-   "t": "على الطريقة القديمة، بدجاج مقطّع بالعظم، مثل الدجاج التندوري في Moti Mahal (Monish Gujral؛ Sanjeev Kapoor؛ Ranveer Brar، نسخة دلهي القديمة، بالأفخاذ والسيقان). ومع العظم، يحتاج الدجاج إلى وقت أطول في الصلصة: يحسب Sanjeev Kapoor من 10 إلى 15 دقيقة مع التغطية، حتى ينضج تمامًا."
+   "t": "على الطريقة القديمة، بدجاج مقطّع بالعظم، مثل الدجاج التندوري في Moti Mahal (Monish Gujral؛ Sanjeev Kapoor؛ Ranveer Brar، نسخة دلهي القديمة، بالأفخاذ والسيقان). ومع العظم، يحتاج الدجاج إلى وقت أطول في الصلصة: يتركه Sanjeev Kapoor من 10 إلى 15 دقيقة مع التغطية، حتى ينضج تمامًا."
   },
   "variants.2": {
    "fr": "Fumé au charbon (« dhungar ») : un morceau de charbon de bois chauffé au rouge, posé dans un petit bol en inox au milieu du poulet, arrosé de ghee ou de beurre, puis couvercle fermé (Sanjeev Kapoor ; Ranveer Brar, qui compte 2 à 3 minutes). Attention : ce qui brûle du bois ou du charbon peut dégager du monoxyde de carbone ; le NHS déconseille d'utiliser un barbecue à l'intérieur et conseille de bien aérer. Fais-le fenêtre grande ouverte.",
-   "t": "مدخّن بالفحم («dhungar»): قطعة من فحم الخشب مسخّنة حتى الاحمرار، توضع في وعاء صغير من الفولاذ المقاوم للصدأ وسط الدجاج، ويُسكب عليها السمن الهندي أو الزبدة، ثم يُغلق الغطاء (Sanjeev Kapoor؛ Ranveer Brar، الذي يحسب من 2 إلى 3 دقائق). انتبه: كل ما يحرق الخشب أو الفحم قد يطلق أول أكسيد الكربون؛ وينصح NHS بعدم استعمال الشواية داخل البيت ويوصي بالتهوية الجيدة. افعل ذلك والنافذة مفتوحة على مصراعيها."
+   "t": "مدخّن بالفحم («dhungar»): قطعة من فحم الخشب مسخّنة حتى الاحمرار، توضع في وعاء صغير من الفولاذ المقاوم للصدأ وسط الدجاج، ويُسكب عليها السمن الهندي أو الزبدة، ثم يُغلق الغطاء (Sanjeev Kapoor؛ Ranveer Brar، الذي يقدّر المدة بـ2 إلى 3 دقائق). انتبه: كل ما يحرق الخشب أو الفحم قد يطلق أول أكسيد الكربون؛ وينصح NHS بعدم استعمال شواية الفحم داخل البيت ويوصي بالتهوية الجيدة. افعل ذلك والنافذة مفتوحة على مصراعيها."
   },
   "variants.3": {
    "fr": "Avec de l'huile de moutarde dans la marinade, comme Sanjeev Kapoor, Ranveer Brar et Kunal Kapur.",

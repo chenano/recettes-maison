@@ -219,7 +219,7 @@ window.RECETTES.push({
    "source": "Taste of Maroc (Christine Benlafquih) ; toutes les recettes lues en mettent, sauf Morocco World News (MarocMama la laisse au choix avec la farine de blé)"
   },
   {
-   "text": "Tu peux mettre plus de semoule : Taste of Maroc conseille de ne pas dépasser la moitié de farine blanche, sinon la mie peut devenir collante.",
+   "text": "Tu peux mettre plus de semoule que dans cette recette : Taste of Maroc conseille que la farine blanche ne dépasse pas la moitié du total, sinon la mie peut devenir collante.",
    "source": "Taste of Maroc (Christine Benlafquih)"
   },
   {
@@ -377,7 +377,8 @@ window.RECETTES.push({
   "Nombre et taille : 20 pains de 10 cm pour environ 1,47 kg de pâte (Taste of Maroc), 10 à 12 pains pour une quantité proche (MarocMama), 14 minis de 7 cm pour environ 0,37 kg (My Moroccan Food). Poids de pâte par pain : 26 g, 73 g et 120 à 147 g ; médiane 73 g (calcul). Retenu : boules d'environ 70 g ; notre pâte (environ 840 g, calcul) donne donc 12 pains.",
   "Conversions : les tasses de MarocMama sont converties avec les équivalences que Taste of Maroc donne pour la même recette (3 tasses de farine blanche = 375 g, 2 tasses de semoule = 384 g, 2 tasses d'eau = 500 ml) ; 1 pouce = 2,54 cm (calcul python).",
   "Durées affichées : préparation de 20 min (Taste of Maroc ; Cooking with Alia) ; cuisson de 20 min (Cooking with Alia ; Taste of Maroc compte 10 min avec une double plaque, MarocMama 45 min) ; repos de 70 min = 10 min pour les boules et 60 min pour les disques.",
-  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s)."
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Choumicha : la page qui liste ses recettes de batbout (copie web.archive.org du 4 juillet 2017) et sa fiche « Batbot » (copie du 20 mai 2018, lue à la contre-vérification : 250 g de farine de blé dur, 250 g de farine, 1 c. à c. de sel, 10 g de levure fraîche, 30 cl d'eau tiède) ont pu être lues. Sa fiche « Batbot ou Pain Metlouâ » n'a pas été ouverte : le 8 novembre 2026, web.archive.org a bloqué plusieurs requêtes (erreur 429, « trafic de robot suspect ») et ce blocage n'a pas été contourné.",

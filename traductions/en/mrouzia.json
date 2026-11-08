@@ -20,7 +20,7 @@
   },
   "occasion": {
    "fr": "Aïd al-Adha (Aïd el-Kébir), surtout les jours qui suivent le sacrifice",
-   "t": "Eid al-Adha (Eid el-Kebir), especially the days after the sacrifice"
+   "t": "Eid al-Adha (Eid el-Kebir), especially in the days after the sacrifice"
   },
   "img_alt": {
    "fr": "Mrouzia en gros plan : agneau au miel, raisins secs et amandes (photo prise au Maroc)",
@@ -148,7 +148,7 @@
   },
   "ing.3.group": {
    "fr": "Décor",
-   "t": "Decoration"
+   "t": "Garnish"
   },
   "ing.amandes.name": {
    "fr": "d'amandes entières mondées (sans peau)",
@@ -228,7 +228,7 @@
   },
   "steps.2.title": {
    "fr": "Râpe les oignons",
-   "t": "Grate the onion"
+   "t": "Grate the onions"
   },
   "steps.2.text": {
    "fr": "Épluche et râpe {{oignons:full}} avec les gros trous de la râpe, ou hache finement.",
@@ -236,7 +236,7 @@
   },
   "steps.3.title": {
    "fr": "Fais fondre les oignons",
-   "t": "Soften the onion"
+   "t": "Soften the onions"
   },
   "steps.3.text": {
    "fr": "Dans une cocotte à fond épais, à feu moyen, chauffe {{huile}} d'huile avec {{smen}} de smen. Ajoute l'oignon râpé et fais cuire 5 min en remuant, jusqu'à ce qu'il ramollisse.",
@@ -244,7 +244,7 @@
   },
   "steps.3.timer.label": {
    "fr": "Oignons",
-   "t": "Onion"
+   "t": "Onions"
   },
   "steps.3.timer.done": {
    "fr": "Ajoute la viande et sa marinade.",
@@ -488,7 +488,7 @@
   },
   "variants.0": {
    "fr": "M'rouzia d'Essaouira (Choumicha) : collier d'agneau mariné 2 h dans de l'eau épicée (avec du cubèbe), graisse de rognons hachée, 3 h de cuisson ; sans miel : les raisins secs beldi d'Essaouira et les amandes confisent dans le gras de cuisson de la viande.",
-   "t": "Essaouira m'rouzia (Choumicha): lamb neck marinated for 2 h in spiced water (with cubeb), chopped kidney fat, 3 h of cooking; no honey: Essaouira's beldi raisins and the almonds confit in the meat's cooking fat."
+   "t": "Essaouira m'rouzia (Choumicha): lamb neck marinated for 2 h in spiced water (with cubeb), chopped kidney fat, 3 h of cooking; no honey: Essaouira's beldi raisins and the almonds cook slowly in the meat's cooking fat."
   },
   "variants.1": {
    "fr": "Version allégée de Choumicha : sans oignon, avec 8 gousses d'ail pilées pour 2 kg de viande, du miel de fleurs d'oranger et une marinade de 24 h au réfrigérateur ; amandes grillées et concassées.",
@@ -528,7 +528,7 @@
   },
   "variants.10": {
    "fr": "Décor : quelques pétales de rose séchés (Taste of Maroc).",
-   "t": "Decoration: a few dried rose petals (Taste of Maroc)."
+   "t": "Garnish: a few dried rose petals (Taste of Maroc)."
   }
  }
 }

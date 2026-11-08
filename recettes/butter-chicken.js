@@ -177,7 +177,7 @@ window.RECETTES.push({
      "q": 30,
      "u": "g",
      "name": "de noix de cajou nature",
-     "note": "ni salées ni grillées, une vingtaine",
+     "note": "ni salées ni grillées ; une vingtaine pour 4 personnes",
      "canon": "noix-cajou"
     },
     {
@@ -592,7 +592,8 @@ window.RECETTES.push({
   "Halal : aucune source ne met d'alcool. Retirés : l'eau de kewra (Ranveer Brar, Vieux Delhi), dont la composition n'a pas été vérifiée ; le colorant rouge facultatif et le sel noir (kala namak) de Monish Gujral, absents des autres recettes. Poulet halal.",
   "Laver le poulet : aucune des recettes de butter chicken citées ne le lave (Kunal Kapur et Ranveer Brar le lavent dans leurs biryanis) ; la FSA le déconseille. Retenu : on le sèche sans le laver.",
   "Origine : date et lieu disputés. Moti Mahal parle de Peshawar dans les années 1930 (plainte de 2024) ; Daryaganj parle de Delhi en 1947 ; Wikipédia et le livre de Monish Gujral de 2013 parlent des années 1950 à Delhi ; Kunal Kapur rappelle qu'il n'existe aucune trace écrite. La recette donne les deux versions sans trancher.",
-  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s)."
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Issue du procès Moti Mahal contre Daryaganj : non vérifiée. Les articles lus s'arrêtent à l'audience prévue le 29 mai 2024 ; aucune décision n'a été trouvée.",

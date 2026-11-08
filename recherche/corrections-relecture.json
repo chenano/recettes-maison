@@ -306,6 +306,13 @@
     "propose": "Pose le tajine sur feu moyen-doux (sur un diffuseur si tu ne cuisines pas au gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond), ou prends une sauteuse,",
     "pourquoi": "L'étape imposait le diffuseur dans tous les cas, alors que la liste du matériel et l'astuce de la recette le réservent aux feux autres que le gaz. Taste of Maroc : « over any heat source other than gas, be sure to use a diffuser. If cooking over gas without a diffuser, be sure the flames don't touch the bottom of the tagine. »",
     "sources": "Taste of Maroc, « Classic Moroccan Meatball Tagine with Tomato Sauce » (copie web.archive.org du 16 juil. 2026) ; equipment[1] et astuce « Tajine en terre » de la recette"
+   },
+   {
+    "champ": "steps[3].text",
+    "actuel": "Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+    "propose": "Ajoute {{oignon-sauce:full}}, puis laisse ramollir quelques minutes en remuant. Ajoute {{ail:full}}, puis remue 1 à 2 minutes, jusqu'à ce que ça embaume, sans laisser brûler.",
+    "pourquoi": "Accord : « laisse-le » et « il » ne collaient pas avec 2 oignons ou plusieurs gousses.",
+    "sources": []
    }
   ],
   "retirer_sources": [],
@@ -542,5 +549,83 @@
   ],
   "retirer_sources": [],
   "sources_ajoutees": []
+ },
+ "msemen": {
+  "corrections": [
+   {
+    "champ": "ingredients[0].items[2].note",
+    "actuel": "1 à 2 c. à c. selon les sources",
+    "propose": "de 1 à 2 c. à c. pour 12 msemen selon les sources",
+    "pourquoi": "La fourchette ne suivait pas le nombre de msemen choisi.",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "batbout": {
+  "corrections": [
+   {
+    "champ": "secrets[1].text",
+    "actuel": "Tu peux mettre plus de semoule : Taste of Maroc conseille de ne pas dépasser la moitié de farine blanche, sinon la mie peut devenir collante.",
+    "propose": "Tu peux mettre plus de semoule que dans cette recette : Taste of Maroc conseille que la farine blanche ne dépasse pas la moitié du total, sinon la mie peut devenir collante.",
+    "pourquoi": "Phrase ambiguë pour plusieurs traducteurs ; Taste of Maroc : « keep white flour to no more than half of the total quantity used ».",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "butter-chicken": {
+  "corrections": [
+   {
+    "champ": "ingredients[2].items[8].note",
+    "actuel": "ni salées ni grillées, une vingtaine",
+    "propose": "ni salées ni grillées ; une vingtaine pour 4 personnes",
+    "pourquoi": "Le nombre de noix ne suivait pas le nombre de parts choisi.",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "biryani-poulet": {
+  "corrections": [
+   {
+    "champ": "ingredients[2].items[1].name",
+    "actuel": "shahi jeera (cumin noir)",
+    "propose": "shahi jeera (Bunium persicum, pas la nigelle)",
+    "pourquoi": "« Cumin noir » désigne aussi la nigelle (Nigella sativa) : Wikipédia l'écrit dans « Nigelle cultivée », et Wikipedia en anglais (« Elwendia persica », le nouveau nom de Bunium persicum) dit que le shahi jeera est souvent confondu avec Nigella sativa. Sans précision, on risque d'acheter de la nigelle. Point signalé par le relecteur arabe (« كمون أسود » a le même double sens).",
+    "sources": "https://fr.wikipedia.org/wiki/Nigelle_cultiv%C3%A9e ; https://en.wikipedia.org/wiki/Elwendia_persica (lues le 2026-11-08)"
+   },
+   {
+    "champ": "ingredients[3].items[9].name",
+    "actuel": "shahi jeera (cumin noir)",
+    "propose": "shahi jeera (Bunium persicum, pas la nigelle)",
+    "pourquoi": "« Cumin noir » désigne aussi la nigelle (Nigella sativa) : Wikipédia l'écrit dans « Nigelle cultivée », et Wikipedia en anglais (« Elwendia persica », le nouveau nom de Bunium persicum) dit que le shahi jeera est souvent confondu avec Nigella sativa. Sans précision, on risque d'acheter de la nigelle. Point signalé par le relecteur arabe (« كمون أسود » a le même double sens).",
+    "sources": "https://fr.wikipedia.org/wiki/Nigelle_cultiv%C3%A9e ; https://en.wikipedia.org/wiki/Elwendia_persica (lues le 2026-11-08)"
+   },
+   {
+    "champ": "discrepancies[8]",
+    "actuel": "appelée aussi cumin noir (Wikipédia).",
+    "propose": "appelée aussi cumin noir (Wikipédia), à ne pas confondre avec la nigelle (Nigella sativa), qui porte le même nom (Wikipédia, « Nigelle cultivée »).",
+    "pourquoi": "« Cumin noir » désigne aussi la nigelle (Nigella sativa) : Wikipédia l'écrit dans « Nigelle cultivée », et Wikipedia en anglais (« Elwendia persica », le nouveau nom de Bunium persicum) dit que le shahi jeera est souvent confondu avec Nigella sativa. Sans précision, on risque d'acheter de la nigelle. Point signalé par le relecteur arabe (« كمون أسود » a le même double sens).",
+    "sources": "https://fr.wikipedia.org/wiki/Nigelle_cultiv%C3%A9e ; https://en.wikipedia.org/wiki/Elwendia_persica (lues le 2026-11-08)"
+   },
+   {
+    "champ": "sources[21].used_for",
+    "actuel": "une autre plante que le carvi, qui sert de remplacement.",
+    "propose": "une autre plante que le carvi, qui sert de remplacement. La page, aujourd'hui « Elwendia persica », ajoute qu'on la confond souvent avec la nigelle (« often confused with Nigella sativa »).",
+    "pourquoi": "Relu le 8 novembre 2026 à l'adresse https://en.wikipedia.org/wiki/Elwendia_persica (Bunium persicum y redirige).",
+    "sources": "https://en.wikipedia.org/wiki/Elwendia_persica"
+   }
+  ],
+  "sources_ajoutees": [
+   {
+    "name": "Wikipédia, « Nigelle cultivée » (lue le 8 novembre 2026)",
+    "url": "https://fr.wikipedia.org/wiki/Nigelle_cultiv%C3%A9e",
+    "ce_qu_elle_confirme": "La nigelle cultivée (Nigella sativa) s'appelle aussi cumin noir : d'où la précision « pas la nigelle » à côté du shahi jeera."
+   }
+  ]
  }
 }

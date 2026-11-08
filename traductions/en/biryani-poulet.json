@@ -131,8 +131,8 @@
    "t": "or ghee"
   },
   "ing.carvi-poulet.name": {
-   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
-   "t": "caraway seeds, or shahi jeera (black cumin) if you can find it"
+   "fr": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
+   "t": "caraway seeds, or shahi jeera (Bunium persicum, not nigella seeds) if you can find it"
   },
   "ing.3.group": {
    "fr": "Riz",
@@ -203,8 +203,8 @@
    "t": "star anise pods"
   },
   "ing.carvi-riz.name": {
-   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
-   "t": "caraway seeds, or shahi jeera (black cumin) if you can find it"
+   "fr": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
+   "t": "caraway seeds, or shahi jeera (Bunium persicum, not nigella seeds) if you can find it"
   },
   "ing.4.group": {
    "fr": "Montage",
@@ -268,7 +268,7 @@
   },
   "steps.0.text": {
    "fr": "Pèle {{oignons:full}} et coupe en lamelles fines et régulières. Sépare les couches.",
-   "t": "Peel {{oignons:full}} and cut them into thin, even slices. Separate the layers."
+   "t": "Peel {{oignons:full}} and cut into thin, even slices. Separate the layers."
   },
   "steps.1.title": {
    "fr": "Fais frire les oignons",
@@ -380,7 +380,7 @@
   },
   "steps.9.title": {
    "fr": "Cuis le riz aux trois quarts",
-   "t": "Cook the rice three-quarters of the way"
+   "t": "Cook the rice until three-quarters done"
   },
   "steps.9.text": {
    "fr": "Verse le riz égoutté dans l'eau qui bout à gros bouillons et remue doucement une fois. Laisse cuire 5 minutes environ, puis goûte un grain : il doit être cuit aux trois quarts et encore résister au centre. Égoutte aussitôt, en gardant une louche d'eau de cuisson.",
@@ -536,7 +536,7 @@
   },
   "secrets.8.text": {
    "fr": "Fais tremper le safran dans du lait chaud, puis verse-le en filet sur le riz.",
-   "t": "Soak the saffron in warm milk, then drizzle it over the rice."
+   "t": "Soak the saffron in hot milk, then drizzle it over the rice."
   },
   "secrets.8.source": {
    "fr": "Swasthi ; Sanjeev Kapoor ; Ranveer Brar",
@@ -560,7 +560,7 @@
   },
   "secrets.11.text": {
    "fr": "Ne remue jamais le biryani chaud : laisse-le reposer, marmite fermée, sur le feu éteint.",
-   "t": "Never stir the hot biryani: let it rest, with the pot closed, after turning off the heat."
+   "t": "Never stir the hot biryani: let it rest, with the pot closed, on the hob with the heat off."
   },
   "secrets.11.source": {
    "fr": "Vismai Food",
@@ -624,7 +624,7 @@
   },
   "variants.0": {
    "fr": "Biryani « kachchi », le plus célèbre à Hyderabad (NewsMeter) : le poulet cru et mariné va au fond de la marmite, en une seule couche, sous le riz cuit aux trois quarts ; la marmite fermée cuit 20 minutes à feu moyen-vif sur une plaque, puis 15 minutes à feu très doux, et repose 20 à 30 minutes (Swasthi). Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable, et Wikipédia rappelle qu'il faut surveiller de près le temps et la chaleur pour que la viande soit assez cuite. Vérifie toujours la cuisson du poulet avant de servir (FSA).",
-   "t": "“Kachchi” biryani, the most famous in Hyderabad (NewsMeter): the raw marinated chicken goes in the bottom of the pot, in a single layer, under the three-quarters-cooked rice; the closed pot cooks for 20 minutes over medium-high heat on a griddle, then 15 minutes over very low heat, and rests for 20 to 30 minutes (Swasthi). Swasthi calls it easy but advises against it for anyone new to cooking chicken or cooking on a portable stove, and Wikipedia stresses that the time and heat must be watched closely so that the meat cooks enough. Always check that the chicken is cooked before serving (FSA)."
+   "t": "“Kachchi” biryani, the most famous in Hyderabad (NewsMeter): the raw marinated chicken goes in the bottom of the pot, in a single layer, under the three-quarters-cooked rice; the closed pot cooks for 20 minutes over medium-high heat on a griddle, then 15 minutes over very low heat, and rests for 20 to 30 minutes (Swasthi). Swasthi calls it easy but advises against it for anyone new to cooking chicken, or for anyone cooking on a portable stove, and Wikipedia stresses that the time and heat must be watched closely so that the meat cooks enough. Always check that the chicken is cooked before serving (FSA)."
   },
   "variants.1": {
    "fr": "Cuisson à l'étouffée au four : marmite fermée au papier aluminium, 15 à 25 minutes à 180 °C pour un biryani pakki (Swasthi).",

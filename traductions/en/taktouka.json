@@ -16,11 +16,11 @@
   },
   "region": {
    "fr": "Tout le Maroc : pour My Moroccan Food, c'est une salade très courante ; selon Wikipédia (fr), la recette change d'une région marocaine à l'autre.",
-   "t": "All over Morocco: for My Moroccan Food, it is a very common salad; according to Wikipédia (fr), the recipe changes from one Moroccan region to another."
+   "t": "All over Morocco: for My Moroccan Food, it is a very common salad; according to French Wikipedia, the recipe changes from one Moroccan region to another."
   },
   "occasion": {
    "fr": "Salade cuite de tous les jours, servie en entrée avec d'autres salades, ou à côté d'un tajine, d'un plat de poulet, de grillades ou de poisson (My Moroccan Food ; MarocMama ; Wikipédia).",
-   "t": "An everyday cooked salad, served as a starter with other salads, or alongside a tagine, a chicken dish, grilled meat or fish (My Moroccan Food; MarocMama; Wikipédia)."
+   "t": "An everyday cooked salad, served as a starter with other salads, or alongside a tagine, a chicken dish, grilled meat or fish (My Moroccan Food; MarocMama; Wikipedia)."
   },
   "img_alt": {
    "fr": "Taktouka, salade cuite de poivrons et de tomates (photographiée dans un restaurant marocain et libanais d'Honolulu)",
@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Tiède ou froide (Choumicha ; My Moroccan Food ; Cooking With Alia ; Wikipédia ; chaude ou froide chez Lalla Moulati), en entrée avec d'autres salades marocaines (MarocMama ; Wikipédia) ou à côté d'un tajine (MarocMama ; Wikipédia fr), d'un plat de poulet (MarocMama), de grillades ou de poisson (My Moroccan Food). Elle se mange avec du pain (Bladi.net ; Morocco World News ; Cooking With Alia ; Wikipédia) ; My Moroccan Food la met aussi en sandwich. Bladi.net et Morocco World News la préfèrent tiède.",
-   "t": "Warm or cold (Choumicha; My Moroccan Food; Cooking With Alia; Wikipédia; hot or cold for Lalla Moulati), as a starter with other Moroccan salads (MarocMama; Wikipédia) or alongside a tagine (MarocMama; Wikipédia fr), a chicken dish (MarocMama), grilled meat or fish (My Moroccan Food). It is eaten with bread (Bladi.net; Morocco World News; Cooking With Alia; Wikipédia); My Moroccan Food also puts it in sandwiches. Bladi.net and Morocco World News prefer it warm."
+   "t": "Warm or cold (Choumicha; My Moroccan Food; Cooking With Alia; Wikipedia; hot or cold for Lalla Moulati), as a starter with other Moroccan salads (MarocMama; Wikipedia) or alongside a tagine (MarocMama; French Wikipedia), a chicken dish (MarocMama), grilled meat or fish (My Moroccan Food). It is eaten with bread (Bladi.net; Morocco World News; Cooking With Alia; Wikipedia); My Moroccan Food also puts it in sandwiches. Bladi.net and Morocco World News prefer it warm."
   },
   "ing.0.group": {
    "fr": "Légumes",
@@ -268,7 +268,7 @@
   },
   "secrets.1.text": {
    "fr": "Enferme les poivrons grillés encore chauds dans un sac fermé pendant 10 minutes : la peau s'enlève ensuite très facilement.",
-   "t": "Seal the grilled peppers in a closed bag while still hot for 10 minutes: the skin then comes off very easily."
+   "t": "Seal the still-hot grilled peppers in a closed bag for 10 minutes: the skin then comes off very easily."
   },
   "secrets.1.source": {
    "fr": "Choumicha (salade de tomates et de poivrons : 10 minutes) ; Cooking With Alia (n° 396 : 10 minutes) ; Lalla Moulati ; MarocMama",
@@ -324,7 +324,7 @@
   },
   "secrets.8.text": {
    "fr": "Cooking With Alia décore aussi sa taktouka d'écorce de citron confit, rincée pour enlever un peu de sel.",
-   "t": "Cooking With Alia also garnishes her taktouka with preserved lemon peel, rinsed to remove some of the salt."
+   "t": "Cooking With Alia also garnishes its taktouka with preserved lemon peel, rinsed to remove some of the salt."
   },
   "secrets.8.source": {
    "fr": "Cooking With Alia (n° 125)",
@@ -336,7 +336,7 @@
   },
   "secrets.9.source": {
    "fr": "My Moroccan Food ; MarocMama ; Wikipédia",
-   "t": "My Moroccan Food; MarocMama; Wikipédia"
+   "t": "My Moroccan Food; MarocMama; Wikipedia"
   },
   "secrets.10.text": {
    "fr": "Ne la confonds pas avec la chakchouka : la taktouka est une salade cuite, sans œufs. Ce sont deux plats différents.",
@@ -408,7 +408,7 @@
   },
   "variants.8": {
    "fr": "Selon Wikipédia (fr), certaines familles ajoutent des oignons et des œufs : on se rapproche alors de la chakchouka (selon Rachida, la chakchouka ressemble beaucoup à la taktouka, qui est sans œufs).",
-   "t": "According to Wikipédia (fr), some families add onions and eggs: it then comes closer to chakchouka (according to Rachida, chakchouka is very similar to taktouka, which has no eggs)."
+   "t": "According to French Wikipedia, some families add onions and eggs: it then comes closer to chakchouka (according to Rachida, chakchouka is very similar to taktouka, which has no eggs)."
   }
  }
 }

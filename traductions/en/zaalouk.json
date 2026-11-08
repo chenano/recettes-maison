@@ -16,7 +16,7 @@
   },
   "region": {
    "fr": "Tout le Maroc ; la recette change d'une région et d'une famille à l'autre (My Moroccan Food)",
-   "t": "All over Morocco; the recipe changes from one region and one family to another (My Moroccan Food)"
+   "t": "All over Morocco; the recipe varies from region to region and from family to family (My Moroccan Food)"
   },
   "occasion": {
    "fr": "Salade cuite du quotidien, servie en entrée ou à côté des plats principaux, avec du pain",
@@ -148,7 +148,7 @@
   },
   "equipment.0": {
    "fr": "Gazinière ou gril (sinon, four avec fonction gril et plaque couverte de papier aluminium)",
-   "t": "Gas hob or grill (otherwise, an oven with a grill function and a baking tray lined with foil)"
+   "t": "Gas hob or barbecue (otherwise, an oven with a grill function and a baking tray lined with foil)"
   },
   "equipment.1": {
    "fr": "Sac en plastique propre",
@@ -196,7 +196,7 @@
   },
   "steps.1.text": {
    "fr": "Pose {{aubergines}} d'aubergines entières, avec la peau et la queue, directement sur la flamme du gaz à feu moyen, ou sur un gril. Retourne-les de temps en temps, jusqu'à ce que la peau soit noircie partout et la chair très molle. Sans gaz : coupe-les en deux dans la longueur, pose-les peau vers le haut sur une plaque couverte d'aluminium et passe-les 20 à 25 minutes sous le gril du four, au plus près de la résistance.",
-   "t": "Put {{aubergines}} of whole aubergines, with skin and stalk, directly on the gas flame over medium heat, or on a grill. Turn them from time to time, until the skin is blackened all over and the flesh is very soft. Without gas: cut them in half lengthways, place them skin side up on a foil-lined baking tray and put them under the oven grill for 20 to 25 minutes, as close as possible to the heating element."
+   "t": "Put {{aubergines}} of whole aubergines, with skin and stalk, directly on the gas flame over medium heat, or on a barbecue. Turn them from time to time, until the skin is blackened all over and the flesh is very soft. Without gas: cut them in half lengthways, place them skin side up on a foil-lined baking tray and put them under the oven grill for 20 to 25 minutes, as close as possible to the heating element."
   },
   "steps.1.timer.label": {
    "fr": "Aubergines sur la flamme",
@@ -416,7 +416,7 @@
   },
   "variants.2": {
    "fr": "Aubergines à la vapeur : citées par Taste of Maroc parmi les façons de faire, et par Fiona Dunlop (The North African Kitchen), qui présente la version vapeur d'une cuisinière, Aicha, comme plus légère. Méthode détaillée non lue.",
-   "t": "Steamed aubergines: mentioned by Taste of Maroc among the possible methods, and by Fiona Dunlop (The North African Kitchen), who presents the steamed version of a cook, Aicha, as lighter. Detailed method not read."
+   "t": "Steamed aubergines: mentioned by Taste of Maroc among the possible methods, and by Fiona Dunlop (The North African Kitchen), who presents the steamed version made by a cook, Aicha, as lighter. Detailed method not read."
   },
   "variants.3": {
    "fr": "Aubergines frites (Choumicha) : rondelles de 1 cm salées et mises à dégorger, rincées, pressées et épongées, frites puis hachées grossièrement ; sauce de tomates pelées et épépinées avec 1 c. à c. de concentré de tomate, 10 cl d'eau, ail et épices pour chermoula, 8 à 10 minutes à couvert à feu doux ; aubergines ajoutées 3 minutes, puis coriandre. Fiona Dunlop présente la version frite comme la façon traditionnelle.",

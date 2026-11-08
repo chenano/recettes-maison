@@ -244,7 +244,7 @@
   },
   "steps.4.title": {
    "fr": "Départ à cru, sans huile",
-   "t": "Start from raw, without oil"
+   "t": "Start cooking from raw, without oil"
   },
   "steps.4.text": {
    "fr": "Mets le poulet et toute sa marinade dans une cocotte à fond épais avec les oignons et {{eau-depart}} d'eau. Laisse frémir 10 à 15 min à feu moyen en retournant les morceaux de temps en temps. C'est prêt quand l'eau s'est presque évaporée et que le poulet a changé de couleur sur toutes ses faces. Au tajine en terre, pose-le sur un diffuseur si tu n'as pas le gaz et ne dépasse pas le feu moyen.",
@@ -252,7 +252,7 @@
   },
   "steps.4.timer.label": {
    "fr": "Départ à cru",
-   "t": "Raw start"
+   "t": "Cooking from raw"
   },
   "steps.4.timer.done": {
    "fr": "L'eau a presque disparu et le poulet a changé de couleur partout ? Passe à l'étape suivante.",
@@ -272,7 +272,7 @@
   },
   "steps.6.text": {
    "fr": "Couvre et laisse mijoter à feu doux à moyen-doux environ 50 min, en vérifiant souvent que rien n'attache au fond. Le poulet est prêt quand il est tendre au toucher et que le liquide a bien réduit. Un poulet beldi, comme la cuisson au tajine en terre, demande nettement plus de temps.",
-   "t": "Cover and leave to simmer over low to medium-low heat for about 50 min, checking often that nothing is sticking to the bottom. The chicken is ready when it feels tender and the liquid has reduced well. A beldi chicken, like cooking in an earthenware tagine, takes considerably longer."
+   "t": "Cover and leave to simmer over low to medium-low heat for about 50 min, checking often that nothing is sticking to the bottom. The chicken is ready when it feels tender and the liquid has reduced well. A beldi chicken takes considerably longer, as does cooking in an earthenware tagine."
   },
   "steps.6.timer.label": {
    "fr": "Mijotage du poulet",
@@ -388,7 +388,7 @@
   },
   "secrets.6.text": {
    "fr": "Sors le poulet, couvert, pendant que la sauce réduit, et remets-le seulement à la fin. Garde quand même un peu de liquide : la sauce ne doit pas finir à sec.",
-   "t": "Take the chicken out and keep it covered while the sauce reduces, and only put it back at the end. Still keep a little liquid: the sauce must not end up dry."
+   "t": "Take the chicken out and keep it covered while the sauce reduces, and only put it back at the end. But do keep a little liquid: the sauce must not end up dry."
   },
   "secrets.6.source": {
    "fr": "Taste of Maroc (Nada Kiffa) ; My Moroccan Food (Nargisse Benkabbou)",
@@ -472,11 +472,11 @@
   },
   "mistakes.1": {
    "fr": "Diminuer l'huile pour alléger : la sauce aux oignons n'épaissit pas et ne devient pas soyeuse.",
-   "t": "Cutting down the oil to make it lighter: the onion sauce does not thicken or turn silky."
+   "t": "Cutting down on the oil to make it lighter: the onion sauce does not thicken or turn silky."
   },
   "mistakes.2": {
    "fr": "Laisser attacher le fond : surveille la cocotte pendant le mijotage et la réduction, remue et ajoute un peu d'eau si ça accroche.",
-   "t": "Letting the bottom stick: keep an eye on the pot while it simmers and reduces, stir and add a little water if it catches."
+   "t": "Letting it stick to the bottom: keep an eye on the pot while it simmers and reduces, stir and add a little water if it catches."
   },
   "mistakes.3": {
    "fr": "Réduire la sauce complètement à sec : il doit rester un peu de liquide.",
@@ -528,15 +528,15 @@
   },
   "variants.6": {
    "fr": "Rôti (Christine Benlafquih, Taste of Maroc) : poulet entier mariné une nuit puis rôti à 160 °C pendant 2 h 30 à 3 h ; la sauce d'oignons émincés cuit à part 1 à 2 h, puis reçoit le jus de cuisson, le citron confit et les olives pendant 5 à 10 min.",
-   "t": "Roast (Christine Benlafquih, Taste of Maroc): a whole chicken marinated overnight, then roasted at 160 °C for 2 h 30 to 3 h; the sliced-onion sauce cooks separately for 1 to 2 h, then the cooking juices, preserved lemon and olives are added to it for 5 to 10 min."
+   "t": "Roast (Christine Benlafquih, Taste of Maroc): a whole chicken marinated overnight, then roasted at 160 °C for 2 h 30 min to 3 h; the sliced-onion sauce cooks separately for 1 to 2 h, then the cooking juices, preserved lemon and olives are added to it for 5 to 10 min."
   },
   "variants.7": {
    "fr": "Version à deux poulets beldis entiers (Bladi.net) : oignons en lamelles, ail, safran, gingembre, jus de citron et un verre d'eau, à couvert à feu moyen ; l'écorce de citron confit et les olives vertes finissent 5 min à feu doux.",
-   "t": "Version with two whole beldi chickens (Bladi.net): sliced onions, garlic, saffron, ginger, lemon juice and a glass of water, covered, over medium heat; the preserved lemon peel and green olives finish with 5 min over low heat."
+   "t": "Version with two whole beldi chickens (Bladi.net): sliced onions, garlic, saffron, ginger, lemon juice and a glass of water, covered, over medium heat; the preserved lemon peel and green olives go in for the last 5 min over low heat."
   },
   "variants.8": {
    "fr": "Adaptations anglophones de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika et cumin dans la marinade, bouillon de volaille, cuisson plus courte ou au four ; non retenues car absentes des sources marocaines consultées.",
-   "t": "English-language adaptations of Paula Wolfert's recipe (Sunset, Zarela): grated onion, paprika and cumin in the marinade, chicken stock, shorter cooking or oven cooking; not used here because they are absent from the Moroccan sources consulted."
+   "t": "English-language adaptations of Paula Wolfert's recipes (Sunset, Zarela): grated onion, paprika and cumin in the marinade, chicken stock, shorter cooking or oven cooking; not used here because they are absent from the Moroccan sources consulted."
   }
  }
 }

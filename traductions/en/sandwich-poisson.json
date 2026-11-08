@@ -160,7 +160,7 @@
   },
   "steps.1.timer.done": {
    "fr": "La marinade est prête. Prépare la friture.",
-   "t": "The marinating is done. Get ready to fry."
+   "t": "Marinating time is up. Get ready to fry."
   },
   "steps.2.title": {
    "fr": "Râpe les tomates",
@@ -240,7 +240,7 @@
   },
   "steps.8.text": {
    "fr": "Mange tout de suite, tant que les sardines sont chaudes. Ne garde pas un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
-   "t": "Eat straight away, while the sardines are hot. Do not keep a sandwich out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C."
+   "t": "Eat straight away, while the sardines are hot. Do not keep a sandwich out of the fridge for more than 2 hours, or more than 1 hour if the temperature is above 32 °C."
   },
   "secrets.0.text": {
    "fr": "Les sardines farcies frites sont un des plats de rue les plus classiques du Maroc, même loin de la côte, parfois seulement certains jours : on les trouve à Jemaa el-Fna à Marrakech et dans la vieille médina de Fès.",
@@ -328,7 +328,7 @@
   },
   "mistakes.1": {
    "fr": "Laisser un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
-   "t": "Leaving a sandwich out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C (FDA)."
+   "t": "Leaving a sandwich out of the fridge for more than 2 hours, or more than 1 hour if the temperature is above 32 °C (FDA)."
   },
   "mistakes.2": {
    "fr": "Prendre des sardines qui ne sont pas du jour : la sardine est très fragile (Choumicha ; FDA pour les signes de fraîcheur).",

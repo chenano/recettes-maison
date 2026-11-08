@@ -131,8 +131,8 @@
    "t": "أو سمن هندي (غي)"
   },
   "ing.carvi-poulet.name": {
-   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
-   "t": "بذور كراوية، أو شاهي جيرا (كمون أسود) إن وجدته"
+   "fr": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
+   "t": "بذور كراوية، أو شاهي جيرا (Bunium persicum، وليس حبة البركة أو السانوج) إن وجدته"
   },
   "ing.3.group": {
    "fr": "Riz",
@@ -203,8 +203,8 @@
    "t": "نجمات يانسون نجمي (باديان)"
   },
   "ing.carvi-riz.name": {
-   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
-   "t": "بذور كراوية، أو شاهي جيرا (كمون أسود) إن وجدته"
+   "fr": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
+   "t": "بذور كراوية، أو شاهي جيرا (Bunium persicum، وليس حبة البركة أو السانوج) إن وجدته"
   },
   "ing.4.group": {
    "fr": "Montage",
@@ -312,7 +312,7 @@
   },
   "steps.4.text": {
    "fr": "Rince {{riz}} de riz dans plusieurs eaux, jusqu'à ce que l'eau reste claire. Couvre-le d'eau froide et laisse-le tremper 30 minutes.",
-   "t": "اغسل {{riz}} من الأرز في عدة مياه، حتى يبقى الماء صافيًا. اغمره بالماء البارد واتركه منقوعًا 30 دقيقة."
+   "t": "اغسل {{riz}} من الأرز بتغيير الماء عدة مرات، حتى يبقى الماء صافيًا. اغمره بالماء البارد واتركه منقوعًا 30 دقيقة."
   },
   "steps.4.tip": {
    "fr": "Pendant le trempage, commence la cuisson du poulet.",
@@ -440,7 +440,7 @@
   },
   "steps.13.title": {
    "fr": "Laisse reposer",
-   "t": "اتركه يرتاح"
+   "t": "اترك البرياني يرتاح"
   },
   "steps.13.text": {
    "fr": "Coupe le feu et laisse reposer 10 minutes, marmite fermée, sur la plaque encore chaude.",
@@ -472,7 +472,7 @@
   },
   "secrets.0.text": {
    "fr": "Prends un riz basmati vieilli : Vismai Food le veut de plus d'un an, pour un beau grain. Fais-le tremper 30 minutes avant de le cuire.",
-   "t": "استعمل أرزًا بسمتيًا معتّقًا: يريده Vismai Food أقدم من سنة، لحبة جميلة. وانقعه 30 دقيقة قبل طهيه."
+   "t": "استعمل أرزًا بسمتيًا معتّقًا: يريده Vismai Food أقدم من سنة، لتكون حبّاته جميلة. وانقعه 30 دقيقة قبل طهيه."
   },
   "secrets.0.source": {
    "fr": "Swasthi (« aged » basmati, trempage de 30 minutes) ; Vismai Food (riz de plus d'un an) ; Kunal Kapur (30 à 45 minutes) ; Sanjeev Kapoor (30 minutes)",
@@ -576,7 +576,7 @@
   },
   "secrets.13.text": {
    "fr": "Le biryani hyderabadi traditionnel contient peu d'épices moulues : il est moins chargé en masala que les biryanis de restaurant.",
-   "t": "يحتوي البرياني الحيدر آبادي التقليدي على قليل من التوابل المطحونة: فهو أقل امتلاءً بالماسالا من برياني المطاعم."
+   "t": "يحتوي البرياني الحيدر آبادي التقليدي على قليل من التوابل المطحونة: فالماسالا فيه أقل منها في برياني المطاعم."
   },
   "secrets.13.source": {
    "fr": "Swasthi (« minimal amount of ground spices »)",
@@ -620,15 +620,15 @@
   },
   "mistakes.9": {
    "fr": "Ajouter de l'eau de kewra ou un arôme sans lire l'étiquette : Swasthi rappelle que ces produits contiennent des conservateurs et des additifs. Pour rester halal, choisis-les sans alcool.",
-   "t": "إضافة ماء الكيورا أو منكّه دون قراءة الملصق: فحسب Swasthi، تحتوي هذه المنتجات على مواد حافظة ومضافات. ولتبقى حلالًا، اخترها خالية من الكحول."
+   "t": "إضافة ماء الكيورا أو منكّه دون قراءة الملصق: فحسب Swasthi، تحتوي هذه المنتجات على مواد حافظة ومضافات. وليبقى الطبق حلالًا، اخترها خالية من الكحول."
   },
   "variants.0": {
    "fr": "Biryani « kachchi », le plus célèbre à Hyderabad (NewsMeter) : le poulet cru et mariné va au fond de la marmite, en une seule couche, sous le riz cuit aux trois quarts ; la marmite fermée cuit 20 minutes à feu moyen-vif sur une plaque, puis 15 minutes à feu très doux, et repose 20 à 30 minutes (Swasthi). Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable, et Wikipédia rappelle qu'il faut surveiller de près le temps et la chaleur pour que la viande soit assez cuite. Vérifie toujours la cuisson du poulet avant de servir (FSA).",
-   "t": "برياني «kachchi»، الأشهر في حيدر آباد (NewsMeter): يوضع الدجاج النيء المتبّل في قاع القدر، في طبقة واحدة، تحت الأرز المطهو بمقدار ثلاثة أرباع؛ وتُطهى القدر المغلقة 20 دقيقة على نار متوسطة إلى قوية فوق صفيحة، ثم 15 دقيقة على نار هادئة جدًا، وتُترك لترتاح من 20 إلى 30 دقيقة (Swasthi). وحسب Swasthi، هو سهل لكن لا يُنصح به لمن يبدأ طهي الدجاج أو يطهو على موقد متنقل، وتذكّر Wikipédia بضرورة مراقبة الوقت والحرارة عن كثب لكي ينضج اللحم بما يكفي. تحقّق دائمًا من نضج الدجاج قبل التقديم (FSA)."
+   "t": "برياني «kachchi»، الأشهر في حيدر آباد (NewsMeter): يوضع الدجاج النيء المتبّل في قاع القدر، في طبقة واحدة، تحت الأرز المطهو بمقدار ثلاثة أرباع؛ وتُطهى القدر المغلقة 20 دقيقة على نار متوسطة إلى قوية فوق صفيحة، ثم 15 دقيقة على نار هادئة جدًا، وتُترك لترتاح من 20 إلى 30 دقيقة (Swasthi). وحسب Swasthi، هو سهل لكن لا يُنصح به للمبتدئين في طهي الدجاج ولا لمن يطهو على موقد متنقل، وتذكّر Wikipédia بضرورة مراقبة الوقت والحرارة عن كثب لكي ينضج اللحم بما يكفي. تحقّق دائمًا من نضج الدجاج قبل التقديم (FSA)."
   },
   "variants.1": {
    "fr": "Cuisson à l'étouffée au four : marmite fermée au papier aluminium, 15 à 25 minutes à 180 °C pour un biryani pakki (Swasthi).",
-   "t": "الطهي على نار هادئة في الفرن: قدر مغلقة بورق الألومنيوم، من 15 إلى 25 دقيقة على حرارة 180 درجة مئوية لبرياني pakki (Swasthi)."
+   "t": "الطهي بطريقة الدم في الفرن: قدر مغلقة بورق الألومنيوم، من 15 إلى 25 دقيقة على حرارة 180 درجة مئوية لبرياني pakki (Swasthi)."
   },
   "variants.2": {
    "fr": "Couvercle collé avec un boudin de pâte de farine et d'eau, à la place du papier aluminium (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",

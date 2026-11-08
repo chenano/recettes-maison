@@ -52,7 +52,7 @@ window.RECETTES.push({
      "q": 1.5,
      "u": "c. à c.",
      "name": "de sel fin",
-     "note": "1 à 2 c. à c. selon les sources",
+     "note": "de 1 à 2 c. à c. pour 12 msemen selon les sources",
      "canon": "sel"
     },
     {
@@ -411,7 +411,8 @@ window.RECETTES.push({
   "Sel : Hot Bread Kitchen indique 1,5 c. à c. de sel casher, plus grossier que le sel fin. Retenu : 1,5 c. à c. de sel fin, dans la fourchette des autres sources (1 c. à c. pour 650 g de farine et semoule chez Rachida, 2 c. à c. pour 700 g chez Morocco World News).",
   "Taille : de 10 cm (Taste of Maroc, My Moroccan Food) à 23 cm (Kookmutsjes). Retenu : le format Hot Bread Kitchen, 12 pâtons de 85 g pour des carrés d'environ 18 cm.",
   "Durées affichées : préparation (45 min) et cuisson (30 min) reprises de MarocMama pour 10 à 12 msemen ; repos = 15 min pour les pâtons + 15 min pour les carrés.",
-  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 3 correction(s) appliquée(s)."
+  "Contre-vérifiée le 6 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 3 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Recette de Choumicha : choumicha.com est un nom de domaine à vendre et choumicha.ma renvoie une erreur serveur ; aucune page fiable reprenant sa recette n'a été trouvée.",

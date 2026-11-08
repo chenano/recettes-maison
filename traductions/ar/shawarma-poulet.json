@@ -72,7 +72,7 @@
   },
   "ing.citron.note": {
    "fr": "pas de jus en bouteille",
-   "t": "لا العصير المعبّأ في قنينة"
+   "t": "لا تستعمل العصير المعبّأ في قنينة"
   },
   "ing.vinaigre.name": {
    "fr": "de vinaigre blanc",
@@ -152,7 +152,7 @@
   },
   "ing.huile-toum.note": {
    "fr": "pas d'huile d'olive",
-   "t": "لا زيت الزيتون"
+   "t": "لا تستعمل زيت الزيتون"
   },
   "ing.citron-toum.name": {
    "fr": "de jus de citron frais",
@@ -276,7 +276,7 @@
   },
   "steps.3.title": {
    "fr": "Fais mariner une nuit",
-   "t": "تبّله طوال الليل"
+   "t": "اترك الدجاج في التتبيلة ليلة كاملة"
   },
   "steps.3.text": {
    "fr": "Ajoute le poulet et l'oignon dans la marinade, et mélange pour bien enrober chaque morceau. Couvre et mets au réfrigérateur au moins 6 heures, idéalement toute une nuit, mais pas plus de 24 heures.",
@@ -304,7 +304,7 @@
   },
   "steps.5.text": {
    "fr": "Remets le robot en marche et ne l'arrête plus. Verse {{huile-toum}} d'huile en filet très fin, petit à petit. Garde à côté {{citron-toum}} de jus de citron. Quand l'ail devient crémeux, alterne : un peu d'huile, puis un peu de jus de citron, jusqu'à tout utiliser. Compte environ 10 minutes.",
-   "t": "أعد تشغيل المحضّرة ولا توقفها بعد ذلك. صبّ {{huile-toum}} من الزيت في خيط رفيع جدًا، شيئًا فشيئًا. أبقِ بجانبك {{citron-toum}} من عصير الليمون. عندما يصبح الثوم كريميًا، بادل بينهما: قليل من الزيت، ثم قليل من عصير الليمون، حتى تستعملهما كلهما. احسب نحو 10 دقائق."
+   "t": "أعد تشغيل المحضّرة ولا توقفها بعد ذلك. صبّ {{huile-toum}} من الزيت في خيط رفيع جدًا، شيئًا فشيئًا. أبقِ بجانبك {{citron-toum}} من عصير الليمون. عندما يصبح الثوم كريميًا، بادل بينهما: قليل من الزيت، ثم قليل من عصير الليمون، حتى تستعملهما كليهما. يستغرق ذلك نحو 10 دقائق."
   },
   "steps.5.tip": {
    "fr": "Va très lentement : si l'huile coule trop vite, la sauce tranche et redevient liquide (Mama's Lebanese Kitchen ; Alphafoodie ; Hadia's Lebanese Cuisine). Huile neutre seulement : l'huile d'olive a un goût trop fort et rend la toum moins blanche (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Alphafoodie).",
@@ -312,15 +312,15 @@
   },
   "steps.6.title": {
    "fr": "Garde la toum au frais",
-   "t": "احفظ الثومية في البرودة"
+   "t": "احفظ الثومية في الثلاجة"
   },
   "steps.6.text": {
    "fr": "Mets la toum dans un bocal propre et fermé, au réfrigérateur. Elle va raffermir au froid.",
-   "t": "ضع الثومية في برطمان نظيف ومغلق، في الثلاجة. ستتماسك أكثر في البرودة."
+   "t": "ضع الثومية في برطمان نظيف ومغلق، في الثلاجة. ستتماسك أكثر مع البرودة."
   },
   "steps.6.tip": {
    "fr": "Hadia la trouve encore meilleure quelques heures plus tard, ou le lendemain. Garde-la toujours au froid, à 4 °C ou moins, jamais à température ambiante. Mange-la dans les 4 jours : c'est le délai le plus prudent, celui du NCHFP américain pour l'ail dans l'huile ; Santé Canada donne une semaine au plus.",
-   "t": "تجدها Hadia ألذّ بعد بضع ساعات، أو في اليوم التالي. احفظها دائمًا في البرودة، على 4 درجات مئوية أو أقل، ولا تتركها أبدًا في حرارة الغرفة. كُلها خلال 4 أيام: هذه هي المدة الأكثر احتياطًا، وهي مدة NCHFP الأمريكي للثوم في الزيت؛ وتعطي Santé Canada أسبوعًا على الأكثر."
+   "t": "تجدها Hadia ألذّ بعد بضع ساعات، أو في اليوم التالي. احفظها دائمًا في الثلاجة، على 4 درجات مئوية أو أقل، ولا تتركها أبدًا في حرارة الغرفة. كُلها خلال 4 أيام: هذه هي المدة الأكثر احتياطًا، وهي مدة NCHFP الأمريكي للثوم في الزيت؛ وتعطي Santé Canada أسبوعًا على الأكثر."
   },
   "steps.7.title": {
    "fr": "Préchauffe le four et étale le poulet",
@@ -332,7 +332,7 @@
   },
   "steps.7.tip": {
    "fr": "Hadia fait cuire le reste de la marinade avec le poulet. Laisse un peu d'espace entre les morceaux : ils rôtissent et grillent au lieu de cuire à la vapeur (Alphafoodie).",
-   "t": "تطهو Hadia باقي التتبيلة مع الدجاج. اترك قليلًا من المسافة بين القطع: فتُشوى وتتحمّر بدل أن تُطهى بالبخار (Alphafoodie)."
+   "t": "تطهو Hadia باقي التتبيلة مع الدجاج. اترك مسافة صغيرة بين القطع: فتُشوى وتتحمّر بدل أن تُطهى بالبخار (Alphafoodie)."
   },
   "steps.8.title": {
    "fr": "Fais rôtir",
@@ -368,11 +368,11 @@
   },
   "steps.10.title": {
    "fr": "Fais griller sous le gril",
-   "t": "حمّره تحت الشواية"
+   "t": "حمّر الدجاج تحت الشواية"
   },
   "steps.10.text": {
    "fr": "Allume le gril du four et compte 2 minutes, en surveillant : les bords doivent griller sans brûler. Si besoin, laisse une minute de plus au plus.",
-   "t": "شغّل شواية الفرن واحسب دقيقتين، مع المراقبة: يجب أن تتحمّر الحواف دون أن تحترق. وعند الحاجة، اتركه دقيقة إضافية على الأكثر."
+   "t": "شغّل شواية الفرن واترك الطبق تحتها دقيقتين، مع المراقبة: يجب أن تتحمّر الحواف دون أن تحترق. وعند الحاجة، اتركه دقيقة إضافية على الأكثر."
   },
   "steps.10.tip": {
    "fr": "Hadia et Alphafoodie passent le plat 2 à 3 minutes sous le gril, pour des bords plus grillés et plus colorés.",
@@ -432,7 +432,7 @@
   },
   "secrets.0.text": {
    "fr": "Prends des hauts de cuisse : un peu plus gras, ils restent juteux. Le blanc marche aussi, mais il sèche vite s'il cuit trop.",
-   "t": "اختر الأفخاذ العلوية: فهي أكثر دهنًا قليلًا، فتبقى طرية وغنية بالعصارة. والصدر يصلح أيضًا، لكنه يجفّ بسرعة إذا طُهي أكثر من اللازم."
+   "t": "اختر الأفخاذ العلوية: فهي أكثر دهنًا قليلًا، فتبقى غنية بالعصارة. والصدر يصلح أيضًا، لكنه يجفّ بسرعة إذا طُهي أكثر من اللازم."
   },
   "secrets.0.source": {
    "fr": "Alphafoodie (Samira Kazan) ; Gulf News, avec le restaurant libanais Zahrat Lebnan ; Mama's Lebanese Kitchen (75 % de blanc et 25 % de cuisse)",
@@ -592,7 +592,7 @@
   },
   "variants.1": {
    "fr": "La toum « facile » de Hadia : on y ajoute une crème de fécule de maïs cuite et refroidie, qui la rend plus facile à réussir (Hadia's Lebanese Cuisine).",
-   "t": "الثومية «السهلة» عند Hadia: يُضاف إليها كريم من نشا الذرة المطبوخ والمبرَّد، يجعل نجاحها أسهل (Hadia's Lebanese Cuisine)."
+   "t": "الثومية «السهلة» عند Hadia: يُضاف إليها كريمة من نشا الذرة مطبوخة ومبرَّدة، تجعل نجاحها أسهل (Hadia's Lebanese Cuisine)."
   },
   "variants.2": {
    "fr": "À la poêle : 12 à 15 minutes à feu moyen-vif, par petites quantités (Alphafoodie).",

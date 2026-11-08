@@ -148,7 +148,7 @@ window.RECETTES.push({
      "id": "carvi-poulet",
      "q": 1,
      "u": "c. à c.",
-     "name": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+     "name": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
      "canon": "carvi"
     }
    ]
@@ -232,7 +232,7 @@ window.RECETTES.push({
      "id": "carvi-riz",
      "q": 0.5,
      "u": "c. à c.",
-     "name": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+     "name": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
      "canon": "carvi"
     }
    ]
@@ -581,7 +581,12 @@ window.RECETTES.push({
   {
    "name": "Wikipédia (anglais), « Bunium persicum », consultée le 8 novembre 2026",
    "url": "https://en.wikipedia.org/wiki/Bunium_persicum",
-   "used_for": "Contre-vérification : Le shahi zeera (« imperial cumin ») ou kala zeera est Bunium persicum, apparenté au cumin, « sometimes called black cumin, or black caraway » : une autre plante que le carvi, qui sert de remplacement."
+   "used_for": "Contre-vérification : Le shahi zeera (« imperial cumin ») ou kala zeera est Bunium persicum, apparenté au cumin, « sometimes called black cumin, or black caraway » : une autre plante que le carvi, qui sert de remplacement. La page, aujourd'hui « Elwendia persica », ajoute qu'on la confond souvent avec la nigelle (« often confused with Nigella sativa »)."
+  },
+  {
+   "name": "Wikipédia, « Nigelle cultivée » (lue le 8 novembre 2026)",
+   "url": "https://fr.wikipedia.org/wiki/Nigelle_cultiv%C3%A9e",
+   "used_for": "Relecture : La nigelle cultivée (Nigella sativa) s'appelle aussi cumin noir : d'où la précision « pas la nigelle » à côté du shahi jeera."
   }
  ],
  "discrepancies": [
@@ -593,7 +598,7 @@ window.RECETTES.push({
   "Oignons frits pour 4 : 1 gros (Swasthi kachchi) à 4 ou 5 gros (Sanjeev Kapoor kachchi) ; 2 moyens (Swasthi pakki), 3 moyens pour 2 à 4 (Ranveer Brar). Médiane : 330 g d'oignon cru, soit 3 oignons moyens de 110 g (USDA). Retenu : 3.",
   "Menthe et coriandre : 4 c. à s. de chaque chez Swasthi ; 4 c. à s. de coriandre et 2 à 3 c. à s. de menthe plus des feuilles entières chez Sanjeev Kapoor 2024 ; « une poignée » chez Swasthi pakki ; ½ tasse chez Sanjeev Kapoor kachchi. Retenu : 4 c. à s. de chaque.",
   "Épices entières de l'eau du riz : cannelle de ½ à 3 pouces (médiane 1,5 pouce, environ 4 cm) ; cardamome 3 à 10 (médiane 4) ; clous 4 à 10 (médiane 6) ; badiane 1 (Swasthi, Sanjeev Kapoor 2024) ; laurier 1 (Swasthi, Sanjeev Kapoor, Ranveer Brar). Carvi (shahi jeera) en tout : 0,5 à 2 c. à c. (médiane 1,5) ; retenu ½ c. à c. dans l'eau du riz et 1 c. à c. avec le poulet. Le macis, la cardamome noire et le poivre (Sanjeev Kapoor, Swasthi) ne sont pas repris.",
-  "Shahi jeera : Swasthi et Sanjeev Kapoor le traduisent par « caraway seeds » (carvi) ; Vismai Food parle de « black cumin ». Le shahi jeera est pourtant une autre plante, Bunium persicum, appelée aussi cumin noir (Wikipédia). Retenu : graines de carvi, faciles à trouver au Maroc, ou shahi jeera si tu en as.",
+  "Shahi jeera : Swasthi et Sanjeev Kapoor le traduisent par « caraway seeds » (carvi) ; Vismai Food parle de « black cumin ». Le shahi jeera est pourtant une autre plante, Bunium persicum, appelée aussi cumin noir (Wikipédia), à ne pas confondre avec la nigelle (Nigella sativa), qui porte le même nom (Wikipédia, « Nigelle cultivée »). Retenu : graines de carvi, faciles à trouver au Maroc, ou shahi jeera si tu en as.",
   "Cuisson du riz : 60 % (Ranveer Brar), 70 % (Vismai Food), 75 % (Swasthi kachchi), trois quarts (Sanjeev Kapoor, Kunal Kapur pour les légumes), 80 % (Ranveer Brar, Chicken Dum), 90 % pour un pakki (Swasthi), à moitié (Kunal Kapur, mouton pakki). Médiane : environ 75 %. Retenu : aux trois quarts. Durée : 4 à 5 minutes (Ranveer Brar), 5 à 6 minutes (Sanjeev Kapoor) ; minuteur de 5 minutes, puis on goûte un grain.",
   "Cuisson à l'étouffée (pakki) : 12 à 15 minutes à feu moyen sur le tawa (Swasthi), 1 minute à feu vif puis 12 à 15 minutes à feu doux (Kunal Kapur), 15 à 20 minutes à feu doux (Sanjeev Kapoor 2024 ; Ranveer Brar, Chicken Dum). Retenu : 15 minutes à feu doux, durée commune aux quatre.",
   "Repos : 10 minutes (Kunal Kapur), 10 à 12 minutes (Ranveer Brar), 15 à 20 minutes (Vismai Food), au moins 20 minutes (Swasthi). Retenu : 10 minutes, durée donnée par deux sources ; tu peux attendre un peu plus.",
@@ -607,7 +612,8 @@ window.RECETTES.push({
   "Halal : aucune source n'utilise d'alcool. L'eau de kewra et l'eau de rose (Sanjeev Kapoor, Ranveer Brar, Kunal Kapur) sont sorties de la recette principale : leur composition n'a pas été vérifiée. Poulet halal.",
   "Laver le poulet : Kunal Kapur et Ranveer Brar le lavent ; la FSA le déconseille. Retenu : on ne le lave pas.",
   "Temps total : les sources annoncent de 25 à 60 minutes de cuisson (Ranveer Brar, Sanjeev Kapoor, Vismai Food, Swasthi). La recette compte 75 minutes de cuisson, friture des oignons comprise, et 130 minutes de repos (2 heures de marinade et 10 minutes de repos final).",
-  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s)."
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 11 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 4 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Nom en darija : aucun trouvé en lettres latines dans une source, laissé vide. Le nom arabe « برياني الدجاج » vient du site marocain Lalla Moulati.",

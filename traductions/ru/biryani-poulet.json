@@ -139,8 +139,8 @@
    "t": "или гхи"
   },
   "ing.carvi-poulet.name": {
-   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
-   "t": "семян тмина или, если найдёте, шахи джиры (чёрного кумина)"
+   "fr": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
+   "t": "семян тмина или, если найдёте, шахи джиры (Bunium persicum, не путать с чернушкой)"
   },
   "ing.3.group": {
    "fr": "Riz",
@@ -231,8 +231,8 @@
    "t": "звёздочек бадьяна (звёздчатого аниса)"
   },
   "ing.carvi-riz.name": {
-   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
-   "t": "семян тмина или, если найдёте, шахи джиры (чёрного кумина)"
+   "fr": "de graines de carvi, ou de shahi jeera (Bunium persicum, pas la nigelle) si tu en trouves",
+   "t": "семян тмина или, если найдёте, шахи джиры (Bunium persicum, не путать с чернушкой)"
   },
   "ing.4.group": {
    "fr": "Montage",
@@ -372,7 +372,7 @@
   },
   "steps.6.text": {
    "fr": "Coupe le plus gros morceau près de l'os : la chair ne doit plus être rose, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, pique loin de l'os : le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau. Coupe ensuite le feu.",
-   "t": "Надрежьте самый крупный кусок у кости: мясо не должно быть розовым, сок должен быть прозрачным, и из него должен идти пар. Термометр вводите подальше от кости: в середине должно быть 75 °C в течение 30 секунд. Если нет, продолжайте готовить под крышкой и проверьте снова. Затем выключите огонь."
+   "t": "Надрежьте самый крупный кусок у кости: мясо не должно быть розовым, сок должен быть прозрачным, и от куска должен идти пар. Термометр вводите подальше от кости: в середине должно быть 75 °C в течение 30 секунд. Если нет, продолжайте готовить под крышкой и проверьте снова. Затем выключите огонь."
   },
   "steps.6.tip": {
    "fr": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
@@ -412,7 +412,7 @@
   },
   "steps.9.text": {
    "fr": "Verse le riz égoutté dans l'eau qui bout à gros bouillons et remue doucement une fois. Laisse cuire 5 minutes environ, puis goûte un grain : il doit être cuit aux trois quarts et encore résister au centre. Égoutte aussitôt, en gardant une louche d'eau de cuisson.",
-   "t": "Высыпьте откинутый рис в бурно кипящую воду и один раз осторожно перемешайте. Варите около 5 минут, затем попробуйте зёрнышко: оно должно быть готово на три четверти и ещё твёрдым в середине. Сразу откиньте рис, сохранив половник воды, в которой он варился."
+   "t": "Высыпьте откинутый рис в бурно кипящую воду и один раз осторожно перемешайте. Варите около 5 минут, затем попробуйте зёрнышко: оно должно быть сварено на три четверти, но в середине ещё оставаться твёрдым. Сразу откиньте рис, сохранив половник воды, в которой он варился."
   },
   "steps.9.tip": {
    "fr": "Le riz ne doit surtout pas devenir pâteux : il finit de cuire à l'étouffée (Swasthi ; Sanjeev Kapoor).",
@@ -616,11 +616,11 @@
   },
   "mistakes.1": {
    "fr": "Brûler les oignons : ils donnent un goût amer (Swasthi).",
-   "t": "Сжигать лук: он даёт горький вкус (Swasthi)."
+   "t": "Давать луку подгорать: он придаёт горький вкус (Swasthi)."
   },
   "mistakes.2": {
    "fr": "Prendre une marmite à fond fin, ou la poser sans plaque sur le feu : le fond brûle (Swasthi ; Vismai Food).",
-   "t": "Брать кастрюлю с тонким дном или ставить её на огонь без плиты: дно подгорает (Swasthi; Vismai Food)."
+   "t": "Брать кастрюлю с тонким дном или ставить её прямо на огонь, без чугунной плиты: дно подгорает (Swasthi; Vismai Food)."
   },
   "mistakes.3": {
    "fr": "Laisser la vapeur s'échapper par un couvercle mal fermé : elle doit rester dans la marmite (Swasthi).",
@@ -652,7 +652,7 @@
   },
   "variants.0": {
    "fr": "Biryani « kachchi », le plus célèbre à Hyderabad (NewsMeter) : le poulet cru et mariné va au fond de la marmite, en une seule couche, sous le riz cuit aux trois quarts ; la marmite fermée cuit 20 minutes à feu moyen-vif sur une plaque, puis 15 minutes à feu très doux, et repose 20 à 30 minutes (Swasthi). Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable, et Wikipédia rappelle qu'il faut surveiller de près le temps et la chaleur pour que la viande soit assez cuite. Vérifie toujours la cuisson du poulet avant de servir (FSA).",
-   "t": "Бирьяни «каччи», самое известное в Хайдарабаде (NewsMeter): сырую маринованную курицу кладут на дно кастрюли одним слоем, под рис, сваренный на три четверти; закрытую кастрюлю готовят 20 минут на плите на огне выше среднего, затем 15 минут на очень слабом огне и дают постоять 20–30 минут (Swasthi). Swasthi называет этот способ простым, но не советует его тем, кто только начинает готовить курицу или готовит на переносной плитке, а Wikipédia напоминает, что нужно внимательно следить за временем и жаром, чтобы мясо успело приготовиться. Всегда проверяйте готовность курицы перед подачей (FSA)."
+   "t": "Бирьяни «каччи», самое известное в Хайдарабаде (NewsMeter): сырую маринованную курицу кладут на дно кастрюли одним слоем, под рис, сваренный на три четверти; закрытую кастрюлю готовят 20 минут на чугунной плите на огне выше среднего, затем 15 минут на очень слабом огне и дают постоять 20–30 минут (Swasthi). Swasthi называет этот способ простым, но не советует его тем, кто только начинает готовить курицу или готовит на переносной плитке, а Wikipédia напоминает, что нужно внимательно следить за временем и жаром, чтобы мясо успело приготовиться. Всегда проверяйте готовность курицы перед подачей (FSA)."
   },
   "variants.1": {
    "fr": "Cuisson à l'étouffée au four : marmite fermée au papier aluminium, 15 à 25 minutes à 180 °C pour un biryani pakki (Swasthi).",
@@ -680,7 +680,7 @@
   },
   "variants.7": {
    "fr": "À la viande, comme le biryani hyderabadi d'origine, le plus souvent de la chèvre (Wikipédia). Sanjeev Kapoor et Kunal Kapur le font au « mutton » : la viande cuit plus longtemps, jusqu'à être tendre, avant le montage.",
-   "t": "С мясом, как исходное хайдарабадское бирьяни, чаще всего с козлятиной (Wikipédia). Sanjeev Kapoor и Kunal Kapur готовят его с «mutton»: мясо варят дольше, до мягкости, прежде чем собирать слои."
+   "t": "С мясом, как исходное хайдарабадское бирьяни, чаще всего с козлятиной (Wikipédia). Sanjeev Kapoor и Kunal Kapur готовят его с «mutton»: мясо готовят дольше, до мягкости, прежде чем собирать слои."
   },
   "variants.8": {
    "fr": "Biryani « sufiyani », blanc et doux, au lait, sans safran (NewsMeter).",

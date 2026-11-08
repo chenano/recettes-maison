@@ -12,7 +12,7 @@
   },
   "region": {
    "fr": "Inde, Delhi. Le plat est lié au restaurant Moti Mahal de Daryaganj, dans le Vieux Delhi, ouvert par des cuisiniers réfugiés de Peshawar après la Partition de 1947 (Outlook India, The National, Wikipédia). Son inventeur est disputé : la famille Gujral (Moti Mahal) l'attribue à Kundan Lal Gujral, qui l'aurait créé à Peshawar dans les années 1930 ; la famille Jaggi (restaurant Daryaganj) l'attribue à Kundan Lal Jaggi, associé de Gujral, à Delhi en 1947. Moti Mahal a attaqué le restaurant Daryaganj devant la Haute Cour de Delhi, qui a tenu sa première audience le 16 janvier 2024 (The Week, Onmanorama, Dawn) ; l'issue du procès n'a pas été vérifiée. Les deux récits s'accordent sur un point : le plat est né de poulet tandoori déjà cuit, ajouté à une sauce aux tomates et au beurre (Monish Gujral ; daryaganj.com).",
-   "t": "Индия, Дели. Блюдо связано с рестораном Moti Mahal в районе Дарьягандж в Старом Дели, который открыли повара — беженцы из Пешавара после раздела Индии в 1947 году (Outlook India, The National, Wikipédia). Его автор спорен: семья Gujral (Moti Mahal) приписывает блюдо Kundan Lal Gujral, который якобы создал его в Пешаваре в 1930-х годах; семья Jaggi (ресторан Daryaganj) — Kundan Lal Jaggi, компаньону Gujral, в Дели в 1947 году. Moti Mahal подал иск против ресторана Daryaganj в Высокий суд Дели, первое заседание которого прошло 16 января 2024 года (The Week, Onmanorama, Dawn); исход процесса не проверен. Обе версии сходятся в одном: блюдо родилось из уже готовой курицы тандури, добавленной в соус из помидоров и сливочного масла (Monish Gujral; daryaganj.com)."
+   "t": "Индия, Дели. Блюдо связано с рестораном Moti Mahal в районе Дарьягандж в Старом Дели, который открыли повара — беженцы из Пешавара после раздела Индии в 1947 году (Outlook India, The National, Wikipédia). Авторство блюда оспаривается: семья Gujral (Moti Mahal) приписывает блюдо Kundan Lal Gujral, который якобы создал его в Пешаваре в 1930-х годах; семья Jaggi (ресторан Daryaganj) — Kundan Lal Jaggi, компаньону Gujral, в Дели в 1947 году. Moti Mahal подал иск против ресторана Daryaganj в Высокий суд Дели; первое заседание по делу прошло 16 января 2024 года (The Week, Onmanorama, Dawn); исход процесса не проверен. Обе версии сходятся в одном: блюдо родилось из уже готовой курицы тандури, добавленной в соус из помидоров и сливочного масла (Monish Gujral; daryaganj.com)."
   },
   "occasion": {
    "fr": "Repas du dimanche ou repas de fête : Ranveer Brar range sa recette dans « Sunday special », « Party main course », « Kids Special » et « Ramadan Special ». C'est un plat doux, sans épices trop fortes (Swasthi ; The National, d'après le chef Sandeep Pande).",
@@ -143,8 +143,8 @@
    "t": "натуральных орехов кешью"
   },
   "ing.cajou.note": {
-   "fr": "ni salées ni grillées, une vingtaine",
-   "t": "не солёных и не жареных, около двадцати штук"
+   "fr": "ni salées ni grillées ; une vingtaine pour 4 personnes",
+   "t": "не солёных и не жареных; около двадцати штук на 4 порции"
   },
   "ing.piment-sauce.name": {
    "fr": "de piment du Cachemire en poudre",
@@ -352,11 +352,11 @@
   },
   "steps.9.title": {
    "fr": "Fais mijoter la sauce",
-   "t": "Протушите соус"
+   "t": "Потомите соус"
   },
   "steps.9.text": {
    "fr": "Remets la sauce dans la casserole avec le reste du beurre et {{garam-sauce}} de garam masala. Laisse mijoter à feu doux en remuant de temps en temps, jusqu'à ce qu'elle épaississe un peu et que des traces de beurre apparaissent à la surface. Si elle devient trop épaisse, ajoute un peu d'eau chaude.",
-   "t": "Верните соус в сотейник вместе с оставшимся сливочным маслом и {{garam-sauce}} гарам масалы. Тушите на слабом огне, время от времени помешивая, пока соус немного не загустеет и на поверхности не появятся капли масла. Если он станет слишком густым, добавьте немного горячей воды."
+   "t": "Верните соус в сотейник вместе с оставшимся сливочным маслом и {{garam-sauce}} гарам масалы. Томите на слабом огне, время от времени помешивая, пока соус немного не загустеет и на поверхности не появятся капли масла. Если он станет слишком густым, добавьте немного горячей воды."
   },
   "steps.10.title": {
    "fr": "Fais dorer le poulet",
@@ -392,7 +392,7 @@
   },
   "steps.12.text": {
    "fr": "Coupe le plus gros morceau en deux : la chair ne doit plus être rose au centre, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau.",
-   "t": "Разрежьте самый крупный кусочек пополам: мясо в середине не должно быть розовым, сок должен быть прозрачным, и из него должен идти пар. Термометр в середине кусочка должен показывать 75 °C в течение 30 секунд. Если нет, продолжайте тушить под крышкой и проверьте снова."
+   "t": "Разрежьте самый крупный кусочек пополам: мясо в середине не должно быть розовым, сок должен быть прозрачным, и от кусочка должен идти пар. Термометр в середине кусочка должен показывать 75 °C в течение 30 секунд. Если нет, продолжайте тушить под крышкой и проверьте снова."
   },
   "steps.12.tip": {
    "fr": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
@@ -560,7 +560,7 @@
   },
   "mistakes.7": {
    "fr": "Verser d'un coup la crème froide dans la sauce bouillante : elle risque de trancher (Swasthi).",
-   "t": "Сразу вливать холодные сливки в кипящий соус: они могут свернуться (Swasthi)."
+   "t": "Вливать все холодные сливки в кипящий соус сразу: они могут свернуться (Swasthi)."
   },
   "mistakes.8": {
    "fr": "Réchauffer les restes plus d'une fois (FSA).",
