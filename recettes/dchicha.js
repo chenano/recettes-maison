@@ -278,7 +278,7 @@ window.RECETTES.push({
   "Au lait, la h'ssoua belboula au lait (« hessoua blanche » chez Cooking with Alia) : l'orge cuit d'abord dans l'eau avec un peu d'huile d'olive, du sel, du poivre et du cumin, en remuant ; on ajoute le lait à la fin et on laisse cuire encore un peu. Lalla Moulati (2014) : 250 g d'orge, 1,5 l d'eau, 2 c. à s. d'huile, 30 min de cuisson avec du thym ajouté à mi-cuisson, puis 1/4 l de lait et 10 min. Cooking with Alia : lait ajouté après 15 min, puis 10 min, thym séché émietté dessus. Taste of Maroc : 30 à 40 min, puis lait, beurre et lait concentré non sucré, cumin au service.",
   "Avec un peu de viande halal : fais revenir de l'agneau ou du bœuf en petits dés avec l'oignon, puis laisse cuire le bouillon 15 à 20 minutes avant d'ajouter l'orge (Taste of Maroc : 85 g pour 4). Choumicha met 250 g de poitrine d'agneau pour 6, revenue 5 minutes.",
   "Aux crevettes : Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur). Garde les crevettes dans la partie la plus froide du réfrigérateur jusqu'à la cuisson, comme l'ANSES le recommande pour les viandes et les poissons.",
-  "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet.",
+  "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet. Pour le fliou (menthe pouliot) pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
   "Aux légumes : navet, carottes, courgettes, chou et tomates, au ftour à la place de la harira (Lalla Moulati, 2020).",
   "Plus relevée : Taste of Maroc ajoute 1 c. à c. de gingembre moulu pour 4 ; Lalla Moulati en met aussi dans sa dchicha aux herbes.",
   "Tchicha de blé : à Ouarzazate, la tchicha est une soupe de blé (Hespress, 2021)."
@@ -373,6 +373,11 @@ window.RECETTES.push({
    "name": "FDA (Food and Drug Administration, États-Unis), « Selecting and Serving Fresh and Frozen Seafood Safely », contenu à jour au 5 mars 2024",
    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
    "used_for": "Contre-vérification : La plupart des produits de la mer se cuisent à 145 °F (63 °C) à cœur ; sans thermomètre, les crevettes sont cuites quand leur chair devient ferme, nacrée et opaque (page lue le 7 novembre 2026)."
+  },
+  {
+   "name": "Agence européenne des médicaments (HMPC), « Public statement on the use of herbal medicinal products containing pulegone and menthofuran », révision 1",
+   "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-pulegone-and-menthofuran-revision-1_en.pdf",
+   "used_for": "Relecture : L'huile de menthe pouliot a servi autrefois à provoquer les règles et l'avortement (même source que pour le thé à la menthe)."
   }
  ],
  "discrepancies": [
@@ -390,7 +395,7 @@ window.RECETTES.push({
   "Tomates : râpées chez Choumicha ; râpées sans peau chez Cooking with Alia ; sans peau ni pépins chez Taste of Maroc. Retenu : râpées, peau jetée.",
   "Feu pour l'oignon : moyen chez Taste of Maroc, doux chez Choumicha. Retenu : moyen, en remuant, jusqu'à ce que l'oignon soit translucide (les deux sources).",
   "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s).",
-  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
+  "Relue le 8 novembre 2026 pendant la traduction : 2 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Aucune source ne dit clairement quelle version est la plus courante au Maroc : le choix vient du décompte des recettes lues et des noms qu'elles emploient. Le quota de recherche web était épuisé : je n'ai pas pu chercher d'article de presse marocaine sur ce point précis.",

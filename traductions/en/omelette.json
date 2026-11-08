@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Tout de suite, roulée et lustrée au beurre (Escoffier, Chef Simon), avec une salade verte si tu veux, comme le permet l'usage cité par Wikipédia. S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la dans les 3 à 4 jours et réchauffe-la à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
-   "t": "Straight away, rolled and glazed with butter (Escoffier, Chef Simon), with a green salad if you like, as the custom cited by Wikipedia allows. If there is any left, put it in the fridge within 2 hours (1 hour if it is above 32 °C), eat it within 3 to 4 days and reheat it right through, to 74 °C (FDA, the US health agency)."
+   "t": "Straight away, rolled and glazed with butter (Escoffier, Chef Simon), with a green salad if you like, as the custom cited by Wikipedia allows. If there is any left, put it in the fridge within 2 hours (1 hour if the temperature is above 32 °C), eat it within 3 to 4 days and reheat it right through, to 74 °C (FDA, the US health agency)."
   },
   "ing.0.group": {
    "fr": "Omelette",
@@ -164,7 +164,7 @@
   },
   "steps.4.text": {
    "fr": "Verse les œufs battus d'un bol dans la poêle chaude. Remue aussitôt avec la spatule, en ramenant vers le centre les bords qui commencent à prendre, pour que l'œuf encore liquide coule et cuise à son tour.",
-   "t": "Pour the beaten eggs from one bowl into the hot pan. Stir immediately with the spatula, drawing the edges that are starting to set towards the centre, so that the egg that is still liquid runs out and cooks in turn."
+   "t": "Pour the beaten eggs from one bowl into the hot pan. Stir immediately with the spatula, drawing the edges that are starting to set towards the centre, so that the still-liquid egg flows in and cooks in turn."
   },
   "steps.5.title": {
    "fr": "Arrête quand c'est encore baveux",
@@ -332,7 +332,7 @@
   },
   "variants.4": {
    "fr": "Pliée en trois, à la manière classique (Wikipédia), ou en deux, à l'anglaise (Great British Chefs), au lieu d'être roulée.",
-   "t": "Folded in three, the classic way (Wikipedia), or in half, the English way (Great British Chefs), instead of rolled."
+   "t": "Folded in three, the classic way (Wikipedia), or in half, the English way (Great British Chefs), instead of being rolled."
   },
   "variants.5": {
    "fr": "Au fromage, garniture classique selon Great British Chefs. Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",

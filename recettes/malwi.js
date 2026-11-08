@@ -75,7 +75,7 @@ window.RECETTES.push({
      "q": 220,
      "u": "ml",
      "name": "d'eau tiède",
-     "note": "environ : verse-la petit à petit, il en faut de 200 à 225 ml selon ta farine",
+     "note": "environ : verse-la petit à petit ; selon ta farine, il en faut un peu plus ou un peu moins (de 200 à 225 ml pour 10 galettes)",
      "canon": "eau"
     }
    ]
@@ -435,7 +435,8 @@ window.RECETTES.push({
   "Feu : moyen (Taste of Maroc), vif puis moyen-vif (Cooking with Alia), poêle « chaude » (Choumicha). Retenu : moyen, car les deux premières sources insistent sur la cuisson du centre.",
   "Huile dans la poêle : Cooking with Alia en met un filet ; Choumicha et Taste of Maroc n'en parlent pas, la pâte étant déjà huilée. Retenu : pas d'huile ajoutée.",
   "Durées affichées : préparation de 45 min (Taste of Maroc) ; cuisson de 30 min, entre les 20 min de Taste of Maroc (16 malwi, plaque double) et les 40 min de Choumicha ; repos de 30 min (15 + 15).",
-  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 4 correction(s) appliquée(s)."
+  "Contre-vérifiée le 7 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 4 correction(s) appliquée(s).",
+  "Relue le 8 novembre 2026 pendant la traduction : 1 précision(s) apportée(s) après vérification des sources."
  ],
  "unverified": [
   "Durée de cuisson d'un malwi : aucune source ne donne de chiffre précis (« plusieurs minutes » chez Taste of Maroc, « quelques minutes de chaque côté » chez Cooking with Alia) ; pas de minuteur pour cette étape.",

@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Mange le sandwich tout de suite, quand les sardines sont encore chaudes (Bladi : les sardines farcies se mangent de préférence chaudes). Morocco World News propose de glisser les sardines farcies dans un demi petit pain et de les accompagner d'une boisson, ou de les servir avec la salade marocaine tomate-oignon. Taste of Maroc ajoute du citron et de la harissa. Ne le garde pas plus de 2 heures hors du réfrigérateur (FDA).",
-   "t": "كُل السندويتش فورًا، والسردين لا يزال ساخنًا (Bladi: يُفضَّل أكل السردين المحشو ساخنًا). ويقترح Morocco World News دسّ السردين المحشو في نصف خبزة صغيرة مع مشروب، أو تقديمه مع السلطة المغربية بالطماطم والبصل. ويضيف Taste of Maroc الليمون والهريسة. لا تتركه خارج الثلاجة أكثر من 2 ساعة (FDA)."
+   "t": "كُل السندويتش فورًا، والسردين لا يزال ساخنًا (Bladi: يُفضَّل أكل السردين المحشو ساخنًا). ويقترح Morocco World News دسّ السردين المحشو في نصف خبزة صغيرة مع مشروب، أو تقديمه مع السلطة المغربية بالطماطم والبصل. ويضيف Taste of Maroc الليمون والهريسة. لا تتركه خارج الثلاجة أكثر من ساعتين (FDA)."
   },
   "pairs_label": {
    "fr": "Les recettes utilisées",
@@ -144,7 +144,7 @@
   },
   "steps.0.tip": {
    "fr": "Prends de petites sardines bien fraîches, achetées le jour même.",
-   "t": "اختر سردينًا صغيرًا طازجًا جيدًا، مشترى في اليوم نفسه."
+   "t": "اختر سردينًا صغيرًا طازجًا جدًا، تشتريه في اليوم نفسه."
   },
   "steps.1.title": {
    "fr": "Laisse mariner au frais",
@@ -160,7 +160,7 @@
   },
   "steps.1.timer.done": {
    "fr": "La marinade est prête. Prépare la friture.",
-   "t": "التتبيلة جاهزة. حضّر القلي."
+   "t": "التتبيلة جاهزة. استعدّ للقلي."
   },
   "steps.2.title": {
    "fr": "Râpe les tomates",
@@ -240,7 +240,7 @@
   },
   "steps.8.text": {
    "fr": "Mange tout de suite, tant que les sardines sont chaudes. Ne garde pas un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
-   "t": "كُل فورًا، ما دام السردين ساخنًا. لا تترك السندويتش خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية."
+   "t": "كُل فورًا، ما دام السردين ساخنًا. لا تترك السندويتش خارج الثلاجة أكثر من ساعتين، أو أكثر من ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية."
   },
   "secrets.0.text": {
    "fr": "Les sardines farcies frites sont un des plats de rue les plus classiques du Maroc, même loin de la côte, parfois seulement certains jours : on les trouve à Jemaa el-Fna à Marrakech et dans la vieille médina de Fès.",
@@ -328,7 +328,7 @@
   },
   "mistakes.1": {
    "fr": "Laisser un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
-   "t": "ترك السندويتش خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA)."
+   "t": "ترك السندويتش خارج الثلاجة أكثر من ساعتين، أو أكثر من ساعة واحدة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA)."
   },
   "mistakes.2": {
    "fr": "Prendre des sardines qui ne sont pas du jour : la sardine est très fragile (Choumicha ; FDA pour les signes de fraîcheur).",

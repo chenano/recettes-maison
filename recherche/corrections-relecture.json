@@ -36,6 +36,13 @@
     "propose": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire). Coupe le chauffage seulement si tu peux le faire sans danger, sans te pencher au-dessus du récipient (London Fire Brigade, pompiers de Cambridgeshire) ; le gouvernement du Québec dit d'éteindre aussi, si possible, le four et la hotte. Le gouvernement du Québec et l'USFA conseillent de couvrir vite le récipient avec un couvercle adapté (l'USFA cite aussi une plaque de four). La London Fire Brigade et les pompiers de Cambridgeshire disent, eux, de ne pas attaquer le feu soi-même : sors de la pièce en fermant la porte, préviens les autres et fais sortir tout le monde, puis appelle les pompiers. Cambridgeshire ajoute de ne pas retourner à l'intérieur et, si le chauffage a pu être coupé et que le feu ne s'étend pas, de laisser le récipient refroidir au moins 30 minutes sans y toucher. Appelle les pompiers même si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec).",
     "pourquoi": "La phrase attribuait tout aux quatre sources. Relu le 2026-11-08 : le couvercle vient du gouvernement du Québec (« couvercle de dimension appropriée ») et de l'USFA (« pan lid or baking sheet ») ; la London Fire Brigade et les pompiers de Cambridgeshire ne parlent pas de couvercle et disent « Don't tackle the fire yourself » / « Do not attempt to tackle the fire ». Les 30 minutes et « ne pas retourner à l'intérieur » viennent de Cambridgeshire ; l'appel même si le feu semble éteint (conduit de la hotte), du Québec ; l'USFA ne parle ni d'eau, ni de déplacer le récipient, ni d'appeler les pompiers. Toutes les consignes d'origine sont gardées ; s'y ajoutent, d'après ces pages : ne pas se pencher au-dessus du récipient, éteindre four et hotte, prévenir les autres.",
     "sources": "Gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » ; USFA, « Cooking fire safety » (revue le 28 sept. 2026) ; London Fire Brigade, « Pan fires » (https://www.london-fire.gov.uk/safety/the-home/cooking/pan-fires/) ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; même désaccord déjà noté dans discrepancies[10]"
+   },
+   {
+    "champ": "serving",
+    "actuel": "Écarte les frites trop brunes (Anses), et garde-les pour le plaisir :",
+    "propose": "Écarte les frites trop brunes (Anses), et garde les frites pour le plaisir, de temps en temps :",
+    "pourquoi": "« garde-les » pouvait viser les frites trop brunes.",
+    "sources": []
    }
   ],
   "retirer_sources": [],
@@ -421,10 +428,23 @@
     "propose": "La grosse dchicha garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau. Taste of Maroc réserve le nom « dchicha » à la grosse orge concassée ; Lalla Moulati l'emploie pour l'orge concassée en général, comme cette recette.",
     "pourquoi": "La recette emploie « dchicha » au sens large (ingrédient « dchicha d'orge (orge concassée) », « grosse dchicha », « la moyenne »), mais secrets[1] le réservait à la grosse. Les deux usages existent : Taste of Maroc écrit « large barley grits (referred to as dchicha) » ; Lalla Moulati écrit « زلافة الدشيشة مغسولة ومصفية » (un bol de dchicha lavée), sans calibre. Le sens large est gardé partout et le sens étroit est attribué à Taste of Maroc.",
     "sources": "Taste of Maroc, « Moroccan Cracked Barley Soup with Tomatoes – Hssoua Belboula Hamra » (copie web.archive.org du 24 janv. 2026) ; Lalla Moulati, « شوربة الدشيشة الساخنة بالاعشاب المنسمة » (https://www.lalamoulati.net/34466.html, lu le 2026-11-08)"
+   },
+   {
+    "champ": "variants[3]",
+    "actuel": "ou avec un peu de millet.",
+    "propose": "ou avec un peu de millet. Pour le fliou (menthe pouliot) pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
+    "pourquoi": "Même mise en garde que dans le thé à la menthe.",
+    "sources": []
    }
   ],
   "retirer_sources": [],
-  "sources_ajoutees": []
+  "sources_ajoutees": [
+   {
+    "name": "Agence européenne des médicaments (HMPC), « Public statement on the use of herbal medicinal products containing pulegone and menthofuran », révision 1",
+    "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/public-statement-use-herbal-medicinal-products-containing-pulegone-and-menthofuran-revision-1_en.pdf",
+    "ce_qu_elle_confirme": "L'huile de menthe pouliot a servi autrefois à provoquer les règles et l'avortement (même source que pour le thé à la menthe)."
+   }
+  ]
  },
  "double-cheeseburger-smash": {
   "corrections": [
@@ -504,6 +524,19 @@
     "actuel": "4 c. à s. de tahina délayée",
     "propose": "4 c. à s. de tahini délayé",
     "pourquoi": "Même produit, même orthographe que dans le reste de la recette (tahini).",
+    "sources": []
+   }
+  ],
+  "retirer_sources": [],
+  "sources_ajoutees": []
+ },
+ "malwi": {
+  "corrections": [
+   {
+    "champ": "ingredients[0].items[5].note",
+    "actuel": "environ : verse-la petit à petit, il en faut de 200 à 225 ml selon ta farine",
+    "propose": "environ : verse-la petit à petit ; selon ta farine, il en faut un peu plus ou un peu moins (de 200 à 225 ml pour 10 galettes)",
+    "pourquoi": "La fourchette en ml ne suivait pas le nombre de galettes choisi.",
     "sources": []
    }
   ],

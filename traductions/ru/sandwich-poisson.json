@@ -156,7 +156,7 @@
   },
   "steps.1.timer.label": {
    "fr": "Marinade",
-   "t": "Маринад"
+   "t": "Маринование"
   },
   "steps.1.timer.done": {
    "fr": "La marinade est prête. Prépare la friture.",
@@ -248,7 +248,7 @@
   },
   "secrets.0.source": {
    "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; Morocco World News (2013, d'après CNN : la sardine, plat de rue de base, est le plus souvent frite ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich »)",
-   "t": "Taste of Maroc (Nada Kiffa, уроженка Касабланки); Morocco World News (2013, по данным CNN: сардину, основу уличной еды, чаще всего жарят; фаршированная острой чермулой, она получается «вкусным сэндвичем»)"
+   "t": "Taste of Maroc (Nada Kiffa, уроженка Касабланки); Morocco World News (2013, по данным CNN: сардину, основу уличной еды, чаще всего жарят; фаршированная острой чермулой, из неё получается «вкусный сэндвич»)"
   },
   "secrets.1.text": {
    "fr": "Au Maroc, la sardine se prépare de bien des façons, mais la friture reste la plus populaire.",
@@ -284,7 +284,7 @@
   },
   "secrets.5.text": {
    "fr": "Les olives vont bien avec le poisson frit, et les olives vertes dans le sandwich.",
-   "t": "Оливки хорошо сочетаются с жареной рыбой, а зелёные оливки — с сэндвичем."
+   "t": "Оливки хорошо сочетаются с жареной рыбой, а зелёные оливки хороши в сэндвиче."
   },
   "secrets.5.source": {
    "fr": "Choumicha (friture servie avec des olives m'chermlines) ; MarocMama (olives vertes en rondelles) ; Halal Xplorer (olives hachées)",
@@ -352,7 +352,7 @@
   },
   "variants.2": {
    "fr": "Sardines grillées d'Essaouira : marinées à la chermoula, grillées au feu, servies avec du pain et des olives (Morocco World News Lifestyle, 2024).",
-   "t": "Сардины на гриле из Эс-Сувейры: замаринованные в чермуле, обжаренные на огне, их подают с хлебом и оливками (Morocco World News Lifestyle, 2024)."
+   "t": "Сардины на гриле из Эс-Сувейры: их маринуют в чермуле, жарят на огне и подают с хлебом и оливками (Morocco World News Lifestyle, 2024)."
   },
   "variants.3": {
    "fr": "Bocadillo au poisson dans le Nord : avec du poisson pêché du jour, sardines ou poisson blanc (Morocco World News, 2021).",

@@ -417,7 +417,8 @@ ROUND_UP = {"chakchouka": ["poivrons"], "escalopes-poulet-panees": ["oeufs"],  #
             # épices entières : un clou, une feuille, une pincée entière, même pour 1 personne (on ne coupe pas un clou de girofle en quatre)
             "butter-chicken": ["clous", "laurier"], "biryani-poulet": ["clous", "laurier", "safran"], "couscous-sept-legumes": ["safran"],
             "tortilla-espagnole": ["oeufs"],  # pas « 1½ œuf » pour 1 personne
-            "briouates-kefta": ["jaune"]}  # un jaune entier pour coller, même pour une petite fournée
+            "briouates-kefta": ["jaune"],
+            "bissara": ["ail"]}  # l'ail reste en gousses entières (« Garde l'ail entier »)  # un jaune entier pour coller, même pour une petite fournée
 def apres_verif(slug, r):
     """Ajouts faits après lecture des contre-vérifications, avec leur source."""
     if slug == "tajine-agneau-pruneaux":

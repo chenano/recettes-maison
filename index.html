@@ -638,8 +638,8 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
 <div class="toast" id="toast" role="status" aria-live="polite" hidden><span id="toast-t"></span><button type="button" id="toast-a" hidden></button></div>
 <p class="sprite" id="sr-live" aria-live="assertive"></p>
 
-<script src="i18n/interface.js?v=71c1f55ec4"></script>
-<script src="recettes.js?v=20261108121418"></script>
+<script src="i18n/interface.js?v=cc505f2fac"></script>
+<script src="recettes.js?v=20261108134911"></script>
 <script>
 (() => {
   'use strict';
@@ -700,7 +700,7 @@ body.in-cook .toast{bottom:calc(100px + env(safe-area-inset-bottom,0px))}
       };
       const tm = setTimeout(() => done(false), 9000);
       s.onload = () => done(true); s.onerror = () => done(false);
-      s.src = `i18n/${l}.js?v=71c1f55ec4`;
+      s.src = `i18n/${l}.js?v=cc505f2fac`;
       document.head.appendChild(s);
     });
   }

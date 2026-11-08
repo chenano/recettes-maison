@@ -112,11 +112,11 @@
   },
   "steps.0.title": {
    "fr": "Fais bouillir l'eau et lave la menthe",
-   "t": "اغلِ الماء واغسل النعناع"
+   "t": "أغلِ الماء واغسل النعناع"
   },
   "steps.0.text": {
    "fr": "Fais bouillir toute l'eau de la liste dans une bouilloire. Pendant ce temps, lave délicatement {{menthe}} de menthe et égoutte-la.",
-   "t": "اغلِ كل الماء المذكور في القائمة في غلاية. وفي هذه الأثناء، اغسل {{menthe}} من النعناع برفق وصفّه."
+   "t": "أغلِ كل الماء المذكور في القائمة في غلاية. وفي هذه الأثناء، اغسل {{menthe}} من النعناع برفق وصفّه."
   },
   "steps.1.title": {
    "fr": "Le premier jet : garde l'esprit du thé",
@@ -124,7 +124,7 @@
   },
   "steps.1.text": {
    "fr": "Mets {{the}} de thé vert dans la théière et verse dessus {{eau-premier-jet}} d'eau bouillante. Laisse infuser 1 minute, puis verse ce premier jet dans un verre et garde-le de côté : c'est l'esprit du thé, ne le jette pas.",
-   "t": "ضع {{the}} من الشاي الأخضر في الإبريق، واسكب فوقه {{eau-premier-jet}} من الماء المغلي. اتركه منقوعًا 1 دقيقة، ثم اسكب هذا النقيع الأول في كأس واحتفظ به جانبًا: إنه روح الشاي، فلا ترمه."
+   "t": "ضع {{the}} من الشاي الأخضر في الإبريق، واسكب فوقه {{eau-premier-jet}} من الماء المغلي. اتركه منقوعًا دقيقة واحدة، ثم اسكب هذا النقيع الأول في كأس واحتفظ به جانبًا: إنه روح الشاي، فلا ترمه."
   },
   "steps.1.timer.label": {
    "fr": "Premier jet",
@@ -164,7 +164,7 @@
   },
   "steps.5.text": {
    "fr": "Remplis un verre de thé et reverse-le dans la théière. Recommence 2 ou 3 fois : le sucre fond et les saveurs se mélangent.",
-   "t": "املأ كأسًا من الشاي وأعد سكبها في الإبريق. كرّر ذلك 2 أو 3 مرات: فيذوب السكر وتمتزج النكهات."
+   "t": "املأ كأسًا من الشاي وأعد سكبها في الإبريق. كرّر ذلك مرتين أو 3 مرات: فيذوب السكر وتمتزج النكهات."
   },
   "steps.6.title": {
    "fr": "Goûte et rectifie le sucre",
@@ -192,7 +192,7 @@
   },
   "secrets.0.text": {
    "fr": "Garde le premier jet : cette première eau, versée sur le thé et laissée 1 minute, est « l'esprit du thé », la plus parfumée. Mets-la de côté dans un verre, elle retourne ensuite dans la théière.",
-   "t": "احتفظ بالنقيع الأول: هذا الماء الأول، الذي يُسكب على الشاي ويُترك 1 دقيقة، هو «روح الشاي»، وهو الأكثر عطرًا. ضعه جانبًا في كأس، فهو يعود بعد ذلك إلى الإبريق."
+   "t": "احتفظ بالنقيع الأول: هذا الماء الأول، الذي يُسكب على الشاي ويُترك دقيقة واحدة، هو «روح الشاي»، وهو الأكثر عطرًا. ضعه جانبًا في كأس، فهو يعود بعد ذلك إلى الإبريق."
   },
   "secrets.0.source": {
    "fr": "Cooking with Alia (« spirit of the tea », nom employé au Maroc selon elle) ; My Moroccan Food (« essence », « ne la jette pas ») ; Royal Mansour (« premier essentiel retenu »)",
@@ -216,7 +216,7 @@
   },
   "secrets.3.text": {
    "fr": "Sois généreux avec la menthe et tasse-la, en pliant les tiges s'il le faut, mais garde-la sous l'eau : à l'air, elle peut rendre le thé amer.",
-   "t": "كن سخيًا بالنعناع واضغطه، مع ثني السيقان إن لزم، لكن أبقه مغمورًا بالماء: فإذا بقي في الهواء، قد يجعل الشاي مرًّا."
+   "t": "كن سخيًا بالنعناع واضغطه، مع ثني السيقان إن لزم، لكن أبقه مغمورًا بالماء: فإذا بقي في الهواء، فقد يجعل الشاي مرًّا."
   },
   "secrets.3.source": {
    "fr": "Moroccan Zest",

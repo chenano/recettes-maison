@@ -24,7 +24,7 @@
   },
   "serving": {
    "fr": "Bien chaud, sur un plat ou directement dans le tajine posé au centre de la table : la sauce au fond, le poulet dessus, nappé de sauce aux oignons et décoré d'olives et de lanières de citron confit. Au Maroc, les tajines se mangent traditionnellement à la main, avec des morceaux de pain marocain pour attraper le poulet et la sauce ; il peut aussi s'accompagner de riz ou de couscous, et certains le servent avec des frites posées dessus ou autour.",
-   "t": "Подавайте очень горячим, на блюде или прямо в таджине, поставив его в центр стола: соус на дне, сверху курица, политая луковым соусом и украшенная оливками и полосками солёного лимона. В Марокко таджины традиционно едят руками, захватывая курицу и соус кусочками марокканского хлеба; к нему можно подать также рис или кускус, а некоторые подают его с картофелем фри — сверху или вокруг."
+   "t": "Подавайте очень горячим, на блюде или прямо в таджине, поставив его в центр стола: соус на дне, сверху курица, политая луковым соусом и украшенная оливками и полосками солёного лимона. В Марокко таджины традиционно едят руками, захватывая курицу и соус кусочками марокканского хлеба; к этому блюду можно подать также рис или кускус, а некоторые подают его с картофелем фри — сверху или вокруг."
   },
   "ing.0.group": {
    "fr": "Poulet et marinade",
@@ -80,7 +80,7 @@
   },
   "ing.smen.name": {
    "fr": "de smen (beurre rance marocain)",
-   "t": "смена (выдержанного марокканского масла)"
+   "t": "смена (выдержанного солёного масла)"
   },
   "ing.smen.note": {
    "fr": "ou du beurre ; facultatif",
@@ -340,7 +340,7 @@
   },
   "secrets.0.text": {
    "fr": "Le m'qalli repose sur deux épices maîtresses, le safran et le gingembre, et se reconnaît à sa sauce jaune.",
-   "t": "Мкалли держится на двух главных специях — шафране и имбире, и его узнают по жёлтому соусу."
+   "t": "Мкалли основан на двух главных специях — шафране и имбире — и узнаётся по жёлтому соусу."
   },
   "secrets.0.source": {
    "fr": "Taste of Maroc (Nada Kiffa), Cooking Styles and Sauces in Moroccan Cuisine",
@@ -380,7 +380,7 @@
   },
   "secrets.5.text": {
    "fr": "Pour la sauce aux oignons (daghmira), réduis patiemment en remuant et en écrasant les oignons à la spatule, jusqu'à ce qu'on ne les reconnaisse plus et que la sauce, soyeuse, se sépare de l'huile.",
-   "t": "Луковый соус (daghmira) терпеливо уваривайте, помешивая и разминая лук лопаткой, пока его уже нельзя будет различить, а шелковистый соус не отделится от масла."
+   "t": "Луковый соус (daghmira) терпеливо уваривайте, помешивая и разминая лук лопаткой, пока он не станет неразличим, а шелковистый соус не отделится от масла."
   },
   "secrets.5.source": {
    "fr": "Taste of Maroc (Nada Kiffa ; Christine Benlafquih)",
@@ -504,7 +504,7 @@
   },
   "variants.0": {
    "fr": "Daghmira plus épaisse (version de fête) : fais cuire le poulet avec un seul oignon, retire-le une fois cuit, puis fais fondre les deux autres oignons hachés dans la sauce jusqu'à obtenir une pâte soyeuse qui se sépare de l'huile (Taste of Maroc).",
-   "t": "Более густая daghmira (праздничный вариант): готовьте курицу только с одной луковицей, выньте её, когда она будет готова, затем доведите в соусе две остальные рубленые луковицы до шелковистой пасты, которая отделяется от масла (Taste of Maroc)."
+   "t": "Более густая daghmira (праздничный вариант): готовьте курицу только с одной луковицей, выньте курицу, когда она будет готова, затем доведите в соусе две остальные рубленые луковицы до шелковистой пасты, которая отделяется от масла (Taste of Maroc)."
   },
   "variants.1": {
    "fr": "Aux foies de volaille : blanchis les foies 10 à 15 min, puis fais-les cuire dans la sauce pendant qu'elle réduit ; laisse-les entiers ou écrase-les dans la sauce pour une texture plus riche (Taste of Maroc ; My Moroccan Food).",
@@ -532,7 +532,7 @@
   },
   "variants.7": {
    "fr": "Version à deux poulets beldis entiers (Bladi.net) : oignons en lamelles, ail, safran, gingembre, jus de citron et un verre d'eau, à couvert à feu moyen ; l'écorce de citron confit et les olives vertes finissent 5 min à feu doux.",
-   "t": "Вариант с двумя целыми курицами бельди (Bladi.net): лук пластинками, чеснок, шафран, имбирь, лимонный сок и стакан воды, под крышкой на среднем огне; кожура солёного лимона и зелёные оливки доходят 5 мин на слабом огне."
+   "t": "Вариант с двумя целыми курицами бельди (Bladi.net): лук пластинками, чеснок, шафран, имбирь, лимонный сок и стакан воды, под крышкой на среднем огне; кожуру солёного лимона и зелёные оливки добавляют на последние 5 мин, на слабом огне."
   },
   "variants.8": {
    "fr": "Adaptations anglophones de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika et cumin dans la marinade, bouillon de volaille, cuisson plus courte ou au four ; non retenues car absentes des sources marocaines consultées.",

@@ -12,7 +12,7 @@
   },
   "region": {
    "fr": "France, Bretagne : les crêpes se disent krampouezh en breton ; celle de froment est la version sucrée, et sa cousine au blé noir (sarrasin) est salée et s'appelle galette dans l'est de la région (Wikipédia, Tourisme Bretagne).",
-   "t": "Франция, Бретань: по-бретонски блины называются krampouezh; пшеничный блин — сладкий вариант, а его родственник из «чёрной пшеницы», то есть гречихи, — солёный, и на востоке региона его называют «галет» (Wikipédia, Tourisme Bretagne)."
+   "t": "Франция, Бретань: по-бретонски блины называются krampouezh; пшеничный блин — сладкий вариант, а его родственник из «чёрной пшеницы», то есть гречихи, — несладкий, и на востоке региона его называют «галет» (Wikipédia, Tourisme Bretagne)."
   },
   "occasion": {
    "fr": "Goûter, dessert ou en-cas (Wikipédia, Meilleur du Chef, 750g) ; en France, surtout à la Chandeleur (2 février) et à Mardi gras (Wikipédia, Meilleur du Chef). En Bretagne, on n'attend pas la Chandeleur pour en manger (Tourisme Bretagne).",
@@ -96,7 +96,7 @@
   },
   "ing.fleur-oranger.note": {
    "fr": "facultatif : quelques gouttes, selon le goût ; elle remplace le rhum de certaines recettes",
-   "t": "по желанию: несколько капель, по вкусу; она заменяет ром, который кладут в некоторых рецептах"
+   "t": "по желанию: несколько капель, по вкусу; она заменяет ром, который добавляют в некоторых рецептах"
   },
   "ing.2.group": {
    "fr": "Pour la cuisson",
@@ -272,7 +272,7 @@
   },
   "steps.7.text": {
    "fr": "Chauffe la poêle à crêpes sur feu moyen, jusqu'à ce qu'elle soit bien chaude. Graisse-la légèrement avec un papier absorbant imbibé d'un peu d'{{huile}} ou de beurre.",
-   "t": "Разогрейте блинную сковороду на среднем огне, чтобы она стала хорошо горячей. Слегка смажьте её бумажным полотенцем, смоченным небольшим количеством подсолнечного или сливочного масла."
+   "t": "Хорошо разогрейте блинную сковороду на среднем огне. Слегка смажьте её бумажным полотенцем, смоченным небольшим количеством подсолнечного или сливочного масла."
   },
   "steps.7.tip": {
    "fr": "Si la poêle n'est pas assez chaude, la pâte attache ; si elle est trop chaude, la pâte prend tout de suite et la crêpe est irrégulière (Chef Simon).",
@@ -356,7 +356,7 @@
   },
   "secrets.0.text": {
    "fr": "En Bretagne, la crêpe de froment (farine de blé) est sucrée. Celle de blé noir (sarrasin) est salée ; dans l'est de la région, on l'appelle galette.",
-   "t": "В Бретани пшеничный блин (из пшеничной муки) — сладкий. Блин из «чёрной пшеницы» (гречихи) — солёный; на востоке региона его называют «галет»."
+   "t": "В Бретани пшеничный блин (из пшеничной муки) — сладкий. Блин из «чёрной пшеницы» (гречихи) — несладкий; на востоке региона его называют «галет»."
   },
   "secrets.0.source": {
    "fr": "Tourisme Bretagne ; Wikipédia ; 750g",
@@ -540,7 +540,7 @@
   },
   "variants.9": {
    "fr": "La galette de blé noir, sa cousine salée, est une autre pâte : farine de sarrasin, eau et sel (Wikipédia, Chef Simon).",
-   "t": "Галет из «чёрной пшеницы», солёный родственник блина, — это другое тесто: гречневая мука, вода и соль (Wikipédia, Chef Simon)."
+   "t": "Галет из «чёрной пшеницы», несладкий родственник блина, — это другое тесто: гречневая мука, вода и соль (Wikipédia, Chef Simon)."
   },
   "ing.oeufs.pl5": {
    "fr": "œuf / œufs",

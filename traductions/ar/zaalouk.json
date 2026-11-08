@@ -48,7 +48,7 @@
   },
   "ing.tomates.note": {
    "fr": "tendres et bien rouges",
-   "t": "طرية وحمراء جيدًا"
+   "t": "طرية وشديدة الحمرة"
   },
   "ing.huile.name": {
    "fr": "d'huile d'olive",
@@ -128,7 +128,7 @@
   },
   "ing.huile-service.note": {
    "fr": "un filet, pour servir",
-   "t": "رشّة، للتقديم"
+   "t": "خيط رفيع، للتقديم"
   },
   "ing.herbes-service.name": {
    "fr": "coriandre ou persil haché",
@@ -260,7 +260,7 @@
   },
   "steps.6.text": {
    "fr": "Presse {{citron-jus:full}} et verse le jus dans le zaalouk. Mélange et laisse cuire encore 2 minutes. Goûte, rectifie le sel, puis retire du feu.",
-   "t": "اعصر {{citron-jus:full}} واسكب العصير في الزعلوك. اخلط واتركه يُطهى 2 دقيقة أخرى. تذوّق، وعدّل الملح، ثم ارفعه عن النار."
+   "t": "اعصر {{citron-jus:full}} واسكب العصير في الزعلوك. اخلط واتركه يُطهى دقيقتين أخريين. تذوّق، وعدّل الملح، ثم ارفعه عن النار."
   },
   "steps.6.timer.label": {
    "fr": "Citron",
@@ -312,7 +312,7 @@
   },
   "secrets.4.text": {
    "fr": "Choisis des tomates mûres, tendres et bien rouges : les tomates fermes fondent moins bien en sauce et peuvent être plus acides.",
-   "t": "اختر طماطم ناضجة وطرية وحمراء جيدًا: فالطماطم المتماسكة لا تذوب جيدًا في الصلصة، وقد تكون أكثر حموضة."
+   "t": "اختر طماطم ناضجة وطرية وشديدة الحمرة: فالطماطم المتماسكة لا تذوب جيدًا في الصلصة، وقد تكون أكثر حموضة."
   },
   "secrets.4.source": {
    "fr": "Taste of Maroc ; Cooking With Alia, recette de Ch'hiwatine (tomates « super red »)",
@@ -368,11 +368,11 @@
   },
   "secrets.11.text": {
    "fr": "Mets-le au réfrigérateur dans les 2 heures qui suivent la cuisson, dans une boîte fermée : il se garde ainsi 3 jours. Au congélateur, il se garde 2 à 3 mois. Décongèle-le au réfrigérateur, réchauffe-le à la poêle pour réduire l'excès de liquide, rectifie l'assaisonnement et ne le recongèle pas.",
-   "t": "ضعه في الثلاجة خلال 2 ساعة بعد الطهي، في علبة مغلقة: فيُحفظ هكذا 3 أيام. وفي المجمّد، يُحفظ من 2 إلى 3 أشهر. فكّ تجميده في الثلاجة، وسخّنه في المقلاة لتقليل السائل الزائد، وعدّل التتبيل، ولا تُعِد تجميده."
+   "t": "ضعه في الثلاجة خلال ساعتين بعد الطهي، في علبة مغلقة: فيُحفظ هكذا 3 أيام. وفي المجمّد، يُحفظ من 2 إلى 3 أشهر. فكّ تجميده في الثلاجة، وسخّنه في المقلاة لتقليل السائل الزائد، وعدّل التتبيل، ولا تُعِد تجميده."
   },
   "secrets.11.source": {
    "fr": "Anses (plats cuisinés maison : au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, décongélation au réfrigérateur, pas de recongélation) ; My Moroccan Food (jusqu'à 4 jours) ; Taste of Maroc (2 à 3 mois au congélateur, réchauffage à la poêle)",
-   "t": "Anses (الأطباق المنزلية: في الثلاجة خلال 2 ساعة، وتؤكل خلال 3 أيام، ويُفكّ تجميدها في الثلاجة، ولا يُعاد تجميدها)؛ My Moroccan Food (حتى 4 أيام)؛ Taste of Maroc (من 2 إلى 3 أشهر في المجمّد، وإعادة التسخين في المقلاة)"
+   "t": "Anses (الأطباق المنزلية: في الثلاجة خلال ساعتين، وتؤكل خلال 3 أيام، ويُفكّ تجميدها في الثلاجة، ولا يُعاد تجميدها)؛ My Moroccan Food (حتى 4 أيام)؛ Taste of Maroc (من 2 إلى 3 أشهر في المجمّد، وإعادة التسخين في المقلاة)"
   },
   "mistakes.0": {
    "fr": "Rincer les aubergines grillées sous l'eau : elles perdent leur goût et la peau s'enlève moins bien (Lalla Moulati).",
@@ -432,7 +432,7 @@
   },
   "variants.6": {
    "fr": "Vinaigre au lieu du citron : 1 c. à c. dans les 5 dernières minutes (Cooking With Alia, épisode 47), 1 c. à s. de vinaigre ou de jus de citron pendant 2 minutes (n° 689), ou un demi-verre ajouté hors du feu (Lalla Moulati, 2016).",
-   "t": "الخل بدل الليمون: 1 ملعقة صغيرة في آخر 5 دقائق (Cooking With Alia، الحلقة 47)، أو 1 ملعقة كبيرة من الخل أو عصير الليمون لمدة 2 دقيقة (رقم 689)، أو نصف كأس يُضاف بعيدًا عن النار (Lalla Moulati، 2016)."
+   "t": "الخل بدل الليمون: 1 ملعقة صغيرة في آخر 5 دقائق (Cooking With Alia، الحلقة 47)، أو 1 ملعقة كبيرة من الخل أو عصير الليمون لمدة دقيقتين (رقم 689)، أو نصف كأس يُضاف بعيدًا عن النار (Lalla Moulati، 2016)."
   },
   "variants.7": {
    "fr": "Un peu de piquant : Cayenne ou piments entiers au goût (Taste of Maroc), 1 c. à c. de piment moulu (Cooking With Alia, n° 689), ½ c. à c. de piment fort (Lalla Moulati, 2014).",

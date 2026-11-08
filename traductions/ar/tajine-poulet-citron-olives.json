@@ -8,7 +8,7 @@
   },
   "darija": {
    "fr": "Djaj mqualli bel hamd marqad w zitoun",
-   "t": "دجاج مقلي بالحامض المرقد والزيتون"
+   "t": "دجاج مقلّي بالحامض المرقد والزيتون"
   },
   "tagline": {
    "fr": "Un poulet fondant au safran et au gingembre, nappé d'oignons fondus en sauce, relevé de citron confit et d'olives.",
@@ -216,7 +216,7 @@
   },
   "steps.2.text": {
    "fr": "Coupe la volaille en morceaux, 4 à 6 par poulet. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
-   "t": "قطّع الدجاج قطعًا، من 4 إلى 6 قطع لكل دجاجة. غلّف كل قطعة بالتتبيلة مع الفرك جيدًا، حتى تحت الجلد. غطِّ الوعاء واتركه في الثلاجة 1 ساعة على الأقل، والأفضل 2 ساعة أو ليلة كاملة."
+   "t": "قطّع الدجاج قطعًا، من 4 إلى 6 قطع لكل دجاجة. غلّف كل قطعة بالتتبيلة مع الفرك جيدًا، حتى تحت الجلد. غطِّ الوعاء واتركه في الثلاجة ساعة على الأقل، والأفضل أن تتركه ساعتين أو ليلة كاملة."
   },
   "steps.2.timer.label": {
    "fr": "Marinade du poulet",
@@ -244,7 +244,7 @@
   },
   "steps.4.title": {
    "fr": "Départ à cru, sans huile",
-   "t": "البداية على النيء، بلا زيت"
+   "t": "ابدأ الطهي على النيء، بلا زيت"
   },
   "steps.4.text": {
    "fr": "Mets le poulet et toute sa marinade dans une cocotte à fond épais avec les oignons et {{eau-depart}} d'eau. Laisse frémir 10 à 15 min à feu moyen en retournant les morceaux de temps en temps. C'est prêt quand l'eau s'est presque évaporée et que le poulet a changé de couleur sur toutes ses faces. Au tajine en terre, pose-le sur un diffuseur si tu n'as pas le gaz et ne dépasse pas le feu moyen.",
@@ -252,7 +252,7 @@
   },
   "steps.4.timer.label": {
    "fr": "Départ à cru",
-   "t": "البداية على النيء"
+   "t": "بداية الطهي على النيء"
   },
   "steps.4.timer.done": {
    "fr": "L'eau a presque disparu et le poulet a changé de couleur partout ? Passe à l'étape suivante.",
@@ -328,7 +328,7 @@
   },
   "steps.10.text": {
    "fr": "Remets les morceaux de poulet dans la cocotte, à feu moyen. Retourne-les plusieurs fois dans l'huile qui s'est séparée de la sauce, jusqu'à ce qu'ils soient bien chauds et dorés. Au tajine, reverse simplement la sauce réduite autour du poulet.",
-   "t": "أعد قطع الدجاج إلى القدر، على نار متوسطة. قلّبها عدة مرات في الزيت الذي انفصل عن الصلصة، حتى تسخن جيدًا ويصير لونها ذهبيًا. وفي الطاجين، أعد سكب الصلصة المتكثّفة حول الدجاج فقط."
+   "t": "أعد قطع الدجاج إلى القدر، على نار متوسطة. قلّبها عدة مرات في الزيت الذي انفصل عن الصلصة، حتى تسخن جيدًا ويصير لونها ذهبيًا. وفي الطاجين، يكفي أن تعيد سكب الصلصة المتكثّفة حول الدجاج."
   },
   "steps.11.title": {
    "fr": "Dresse et sers bien chaud",
@@ -356,7 +356,7 @@
   },
   "secrets.2.text": {
    "fr": "Laisse mariner au moins 1 h, idéalement 2 h ou une nuit au frais, en faisant pénétrer la marinade jusque sous la peau.",
-   "t": "اترك الدجاج في التتبيلة 1 ساعة على الأقل، والأفضل 2 ساعة أو ليلة كاملة في الثلاجة، مع إدخال التتبيلة حتى تحت الجلد."
+   "t": "اترك الدجاج في التتبيلة ساعة على الأقل، والأفضل أن تتركه ساعتين أو ليلة كاملة في الثلاجة، مع إدخال التتبيلة حتى تحت الجلد."
   },
   "secrets.2.source": {
    "fr": "Choumicha ; Taste of Maroc (Nada Kiffa)",
@@ -364,7 +364,7 @@
   },
   "secrets.3.text": {
    "fr": "Départ « à cru » : le poulet cuit d'abord 10 à 15 min dans sa marinade avec les oignons et un fond d'eau, à feu moyen. L'huile et l'eau chaude ne viennent qu'ensuite, quand l'eau s'est presque évaporée et que la viande a changé de couleur.",
-   "t": "البداية «على النيء»: يُطهى الدجاج أولًا من 10 إلى 15 دقيقة في تتبيلته مع البصل وقليل من الماء، على نار متوسطة. ولا يُضاف الزيت والماء الساخن إلا بعد ذلك، حين يكاد الماء يتبخّر ويتغيّر لون اللحم."
+   "t": "بداية الطهي «على النيء»: يُطهى الدجاج أولًا من 10 إلى 15 دقيقة في تتبيلته مع البصل وقليل من الماء، على نار متوسطة. ولا يُضاف الزيت والماء الساخن إلا بعد ذلك، حين يكاد الماء يتبخّر ويتغيّر لون اللحم."
   },
   "secrets.3.source": {
    "fr": "Taste of Maroc (Nada Kiffa)",
@@ -428,7 +428,7 @@
   },
   "secrets.11.text": {
    "fr": "L'ail doit rester discret : 1 à 2 gousses par poulet suffisent.",
-   "t": "يجب أن يبقى الثوم خفيفًا: يكفي من 1 إلى 2 فص لكل دجاجة."
+   "t": "يجب أن يبقى الثوم خفيفًا: يكفي فص أو فصّان لكل دجاجة."
   },
   "secrets.11.source": {
    "fr": "Taste of Maroc (Nada Kiffa, réponse à un commentaire)",
@@ -436,7 +436,7 @@
   },
   "secrets.12.text": {
    "fr": "Dans les familles marocaines, on nettoie le poulet (on retire les amas de graisse sous la peau), puis on le laisse au moins 30 min dans une saumure d'eau froide, de sel, de citron et d'un peu de vinaigre blanc, avant de le rincer et de le mariner. Bladi le sale simplement et le laisse dégorger 2 h. Nettoie ensuite soigneusement tout ce qui a touché le poulet cru. Les autorités sanitaires déconseillent toutefois de rincer la volaille crue, car les éclaboussures propagent les bactéries : si tu gardes ce geste, fais-le sans éclabousser et nettoie évier et plan de travail juste après.",
-   "t": "في البيوت المغربية، يُنظَّف الدجاج (تُزال كتل الدهن تحت الجلد)، ثم يُترك 30 دقيقة على الأقل في محلول من الماء البارد والملح والليمون وقليل من الخل الأبيض، قبل شطفه وتتبيله. أما Bladi فيملّحه فقط ويتركه 2 ساعة ليُخرج ماءه. نظّف بعد ذلك بعناية كل ما لمس الدجاج النيء. غير أن السلطات الصحية لا تنصح بشطف الدواجن النيئة، لأن الرذاذ ينشر البكتيريا: فإن أبقيت على هذه العادة، فافعلها دون أن يتطاير الماء، ونظّف الحوض وسطح العمل مباشرة بعدها."
+   "t": "في البيوت المغربية، يُنظَّف الدجاج (تُزال كتل الدهن تحت الجلد)، ثم يُترك 30 دقيقة على الأقل في محلول من الماء البارد والملح والليمون وقليل من الخل الأبيض، قبل شطفه وتتبيله. أما Bladi فيملّحه فقط ويتركه ساعتين ليُخرج ماءه. نظّف بعد ذلك بعناية كل ما لمس الدجاج النيء. غير أن السلطات الصحية لا تنصح بشطف الدواجن النيئة، لأن الرذاذ ينشر البكتيريا: فإن أبقيت على هذه العادة، فافعلها دون أن يتطاير الماء، ونظّف الحوض وسطح العمل مباشرة بعدها."
   },
   "secrets.12.source": {
    "fr": "Taste of Maroc (Nada Kiffa), Cleaning and Brining Chicken the Moroccan Way ; Bladi.net",
@@ -524,11 +524,11 @@
   },
   "variants.5": {
    "fr": "Doré au four : badigeonne le poulet cuit d'un peu d'huile de la sauce et fais-le dorer environ 20 min à 200 °C en le retournant ; un poulet entier peut demander jusqu'à 30 min (Taste of Maroc).",
-   "t": "محمَّر في الفرن: ادهن الدجاج المطهو بقليل من زيت الصلصة، وحمّره نحو 20 دقيقة على 200 درجة مئوية مع تقليبه؛ وقد تحتاج الدجاجة الكاملة إلى 30 دقيقة (Taste of Maroc)."
+   "t": "محمَّر في الفرن: ادهن الدجاج المطهو بقليل من زيت الصلصة، وحمّره نحو 20 دقيقة على 200 درجة مئوية مع تقليبه؛ وقد تحتاج الدجاجة الكاملة إلى ما يصل إلى 30 دقيقة (Taste of Maroc)."
   },
   "variants.6": {
    "fr": "Rôti (Christine Benlafquih, Taste of Maroc) : poulet entier mariné une nuit puis rôti à 160 °C pendant 2 h 30 à 3 h ; la sauce d'oignons émincés cuit à part 1 à 2 h, puis reçoit le jus de cuisson, le citron confit et les olives pendant 5 à 10 min.",
-   "t": "مشويّ في الفرن (Christine Benlafquih، Taste of Maroc): دجاجة كاملة تُتبّل ليلة كاملة ثم تُشوى على 160 درجة مئوية من 2 ساعة و30 دقيقة إلى 3 ساعات؛ وتُطهى صلصة البصل المقطّع شرائح رفيعة على حدة من 1 إلى 2 ساعة، ثم يُضاف إليها عصير الطهي والليمون المخلل والزيتون من 5 إلى 10 دقائق."
+   "t": "مشويّ في الفرن (Christine Benlafquih، Taste of Maroc): دجاجة كاملة تُتبّل ليلة كاملة ثم تُشوى على 160 درجة مئوية من ساعتين و30 دقيقة إلى 3 ساعات؛ وتُطهى صلصة البصل المقطّع شرائح رفيعة على حدة من ساعة إلى ساعتين، ثم يُضاف إليها عصير الطهي والليمون المخلل والزيتون من 5 إلى 10 دقائق."
   },
   "variants.7": {
    "fr": "Version à deux poulets beldis entiers (Bladi.net) : oignons en lamelles, ail, safran, gingembre, jus de citron et un verre d'eau, à couvert à feu moyen ; l'écorce de citron confit et les olives vertes finissent 5 min à feu doux.",

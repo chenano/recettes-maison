@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Sers très chaud, dans de petits verres et non dans des tasses, posés sur un plateau (sinia) autour de la théière (berrad) ; prévois plus de verres que d'invités. Traditionnellement, c'est le maître de maison qui prépare le thé devant ses invités. Les feuilles restent dans la théière : on sert au moins trois verres, chacun plus fort que le précédent ; un dicton dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort ; il en existe une autre version, où le premier est amer comme la vie et le dernier apaisant comme la mort. Pour plus d'arôme, glisse un peu de menthe fraîche dans chaque verre. Avec des cornes de gazelle, des ghriba ou des briouates aux amandes, ou simplement du pain et des olives.",
-   "t": "Подавайте очень горячим, в маленьких стаканчиках, а не в чашках, расставленных на подносе (синия) вокруг чайника (беррад); приготовьте больше стаканчиков, чем гостей. По традиции чай готовит перед гостями хозяин дома. Листья остаются в чайнике: подают не меньше трёх стаканчиков, каждый крепче предыдущего; поговорка гласит, что первый сладок, как жизнь, второй крепок, как любовь, а последний горек, как смерть; есть и другой вариант, где первый горек, как жизнь, а последний умиротворяет, как смерть. Для большего аромата положите в каждый стаканчик немного свежей мяты. Подавайте с «рожками газели», ghriba или бриуатами с миндалём либо просто с хлебом и оливками."
+   "t": "Подавайте очень горячим, в маленьких стаканчиках, а не в чашках; стаканчики расставляют на подносе (синия) вокруг чайника (беррад); приготовьте больше стаканчиков, чем гостей. По традиции чай готовит перед гостями хозяин дома. Листья остаются в чайнике: подают не меньше трёх стаканчиков, каждый крепче предыдущего; поговорка гласит, что первый сладок, как жизнь, второй крепок, как любовь, а последний горек, как смерть; есть и другой вариант, где первый горек, как жизнь, а последний умиротворяет, как смерть. Для большего аромата положите в каждый стаканчик немного свежей мяты. Подавайте с «рожками газели», печеньем гриба или бриуатами с миндалём либо просто с хлебом и оливками."
   },
   "pairs_label": {
    "fr": "Avec le thé",
@@ -148,7 +148,7 @@
   },
   "steps.3.text": {
    "fr": "Tasse la menthe dans la théière, tiges comprises, et ajoute {{sucre}} de sucre. Reverse le premier jet, puis complète avec {{eau}} d'eau bouillante, sans remplir jusqu'au bord. La menthe doit être entièrement sous l'eau.",
-   "t": "Плотно уложите мяту в чайник вместе со стеблями и добавьте {{sucre}} сахара. Влейте обратно первую заварку, затем долейте {{eau}} кипятка, не доливая до краёв. Мята должна быть полностью под водой."
+   "t": "Плотно уложите мяту в чайник вместе со стеблями и добавьте {{sucre}} сахара. Влейте обратно первую заварку, затем долейте {{eau}} кипятка, не наполняя его до краёв. Мята должна быть полностью под водой."
   },
   "steps.4.title": {
    "fr": "Porte doucement à ébullition",
@@ -240,7 +240,7 @@
   },
   "secrets.6.text": {
    "fr": "Le sucre vient d'un pain de sucre, cassé au petit marteau ou avec le fond d'un verre ; les connaisseurs le préfèrent aux briques de sucre.",
-   "t": "Сахар берут от сахарной головы, отколотый молоточком или дном стакана; знатоки предпочитают его прессованному кусковому сахару."
+   "t": "Сахар откалывают от сахарной головы молоточком или дном стакана; знатоки предпочитают его прессованному кусковому сахару."
   },
   "secrets.6.source": {
    "fr": "Maroc.ma (dépêche MAP) ; Morocco World News",

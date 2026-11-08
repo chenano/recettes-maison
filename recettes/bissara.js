@@ -44,6 +44,7 @@ window.RECETTES.push({
      "name": "gousse d'ail",
      "pl": "gousses d'ail",
      "note": "à éplucher, sans couper",
+     "round": "up",
      "canon": "ail"
     },
     {

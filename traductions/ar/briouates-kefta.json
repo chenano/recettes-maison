@@ -28,7 +28,7 @@
   },
   "serving": {
    "fr": "Sers les briouates bien chaudes (Choumicha ; Bladi.net ; Femmes du Maroc). Bladi.net les pose en couronne autour d'une soucoupe de sucre glace et de cannelle ; Femmes du Maroc les saupoudre de cannelle et de sucre glace ; My Moroccan Food les sert sur de la menthe hachée, avec beaucoup de sucre glace et de cannelle. Elles se servent au ftour du ramadan (Femmes du Maroc) et aux réceptions (Choumicha). Restes : au frigo dans les 2 heures, à manger dans les 48 heures ; réchauffe-les une seule fois, jusqu'à ce qu'elles soient brûlantes au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
-   "t": "قدّم البريوات ساخنة جيدًا (Choumicha؛ Bladi.net؛ Femmes du Maroc). يرتّبها Bladi.net في شكل تاج حول صحن صغير فيه السكر الناعم والقرفة؛ وترشّها Femmes du Maroc بالقرفة والسكر الناعم؛ ويقدّمها My Moroccan Food على نعناع مفروم، مع كثير من السكر الناعم والقرفة. تُقدَّم في فطور رمضان (Femmes du Maroc) وفي حفلات الاستقبال (Choumicha). البقايا: في الثلاجة خلال ساعتين، وتؤكل خلال 48 ساعة؛ سخّنها مرة واحدة فقط، حتى تصبح شديدة السخونة في وسطها (FSA). يجب أن تكون حرارة ثلاجتك 4 درجات مئوية في أبرد جزء منها (Anses)."
+   "t": "قدّم البريوات ساخنة جيدًا (Choumicha؛ Bladi.net؛ Femmes du Maroc). يرتّبها Bladi.net في شكل دائرة حول صحن صغير فيه السكر الناعم والقرفة؛ وترشّها Femmes du Maroc بالقرفة والسكر الناعم؛ ويقدّمها My Moroccan Food على نعناع مفروم، مع كثير من السكر الناعم والقرفة. تُقدَّم في فطور رمضان (Femmes du Maroc) وفي حفلات الاستقبال (Choumicha). البقايا: في الثلاجة خلال ساعتين، وتؤكل خلال 48 ساعة؛ سخّنها مرة واحدة فقط، حتى تصبح شديدة السخونة في وسطها (FSA). يجب أن تكون حرارة ثلاجتك 4 درجات مئوية في أبرد جزء منها (Anses)."
   },
   "ing.0.group": {
    "fr": "La farce",
@@ -248,7 +248,7 @@
   },
   "steps.5.tip": {
    "fr": "Femmes du Maroc laisse d'abord prendre les œufs, puis mélange toute la farce. My Moroccan Food les brouille à part dans un peu de beurre, puis les mêle à la viande.",
-   "t": "تترك Femmes du Maroc البيض يتماسك أولًا، ثم تخلط الحشوة كلها. ويخفق My Moroccan Food البيض على حدة في قليل من الزبدة، ثم يمزجه باللحم."
+   "t": "تترك Femmes du Maroc البيض يتماسك أولًا، ثم تخلط الحشوة كلها. ويطهو My Moroccan Food البيض مخفوقًا على حدة في قليل من الزبدة، ثم يمزجه باللحم."
   },
   "steps.6.title": {
    "fr": "Laisse refroidir la farce",
@@ -284,7 +284,7 @@
   },
   "steps.9.text": {
    "fr": "Pose environ 2 cuillères à café de farce (un peu plus d'une demi-cuillère à soupe) à un bout de la bande : avec cette dose, la farce suffit pour toutes les pièces. Rabats un coin sur la farce pour former un triangle. Plie ensuite le triangle sur lui-même, une fois vers la droite, une fois vers la gauche, jusqu'au bout de la bande. La farce doit être bien enfermée.",
-   "t": "ضع نحو ملعقتين صغيرتين من الحشوة (أكثر بقليل من نصف ملعقة كبيرة) عند أحد طرفي الشريط: بهذه الكمية تكفي الحشوة لكل القطع. اطوِ زاوية على الحشوة لتكوين مثلث. ثم اطوِ المثلث على نفسه، مرة نحو اليمين ومرة نحو اليسار، حتى نهاية الشريط. يجب أن تكون الحشوة مغلقة عليها جيدًا."
+   "t": "ضع نحو ملعقتين صغيرتين من الحشوة (أكثر بقليل من نصف ملعقة كبيرة) عند أحد طرفي الشريط: بهذه الكمية تكفي الحشوة لكل القطع. اطوِ زاوية على الحشوة لتكوين مثلث. ثم اطوِ المثلث على نفسه، مرة نحو اليمين ومرة نحو اليسار، حتى نهاية الشريط. يجب أن تُحبس الحشوة جيدًا داخل الورقة."
   },
   "steps.9.tip": {
    "fr": "Quatre ou cinq plis suffisent : trop de couches de feuille, c'est inutile (Taste of Maroc).",
@@ -312,7 +312,7 @@
   },
   "steps.11.tip": {
    "fr": "Si l'huile fume, coupe le feu et laisse-la refroidir (London Fire Brigade). Si elle prend feu : jamais d'eau, ne déplace pas la casserole, pose vite le couvercle et coupe le feu si tu peux, puis appelle les pompiers (gouvernement du Québec).",
-   "t": "إذا تصاعد الدخان من الزيت، فأطفئ النار واتركه يبرد (London Fire Brigade). إذا اشتعل: لا ماء أبدًا، ولا تحرّك القدر، وضع الغطاء بسرعة وأطفئ النار إن استطعت، ثم اتصل بالإطفاء (حكومة كيبيك)."
+   "t": "إذا تصاعد الدخان من الزيت، فأطفئ النار واتركه يبرد (London Fire Brigade). إذا اشتعل: لا ماء أبدًا، ولا تحرّك القدر، وضع الغطاء بسرعة وأطفئ الموقد إن استطعت، ثم اتصل برجال الإطفاء (حكومة كيبيك)."
   },
   "steps.12.title": {
    "fr": "Fais frire les briouates",
@@ -328,7 +328,7 @@
   },
   "steps.13.text": {
    "fr": "Sers les briouates bien chaudes. Si tu aimes le sucré-salé, saupoudre-les de {{sucre-glace}} et de {{cannelle-service}}, ou pose-les en couronne autour d'une petite soucoupe de sucre glace mêlé de cannelle.",
-   "t": "قدّم البريوات ساخنة جيدًا. إن كنت تحب المالح الحلو، فرُشّ عليها {{sucre-glace}} و{{cannelle-service}}، أو رتّبها في شكل تاج حول صحن صغير فيه السكر الناعم ممزوجًا بالقرفة."
+   "t": "قدّم البريوات ساخنة جيدًا. إن كنت تحب المالح الحلو، فرُشّ عليها {{sucre-glace}} و{{cannelle-service}}، أو رتّبها في شكل دائرة حول صحن صغير فيه السكر الناعم ممزوجًا بالقرفة."
   },
   "secrets.0.text": {
    "fr": "Cuis toujours la farce avant de plier les briouates.",
