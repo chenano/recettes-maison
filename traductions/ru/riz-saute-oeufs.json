@@ -1,0 +1,366 @@
+{
+ "_slug": "riz-saute-oeufs",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Riz sauté aux œufs",
+   "t": "Жареный рис с яйцом"
+  },
+  "darija": {
+   "fr": "Rouz mqli b l-bid",
+   "t": "Руз мкли б ль-бид"
+  },
+  "tagline": {
+   "fr": "Le riz de la veille, des œufs, des oignons verts et du sel : le riz sauté le plus simple de Chine, prêt en un quart d'heure.",
+   "t": "Вчерашний рис, яйца, зелёный лук и соль: самый простой китайский жареный рис, готовый за четверть часа."
+  },
+  "region": {
+   "fr": "Chine : le 蛋炒饭 (dàn chǎofàn), le riz sauté chinois le plus simple. Maggie Zhu en mangeait enfant à Pékin, au goûter ; Yangzhou en a tiré une version riche, le riz de Yangzhou (Omnivore's Cookbook ; 中国新闻网).",
+   "t": "Китай: 蛋炒饭 (dàn chǎofàn) — самый простой китайский жареный рис. Maggie Zhu ела его в детстве в Пекине на полдник; в Янчжоу из него сделали богатую версию — рис по-янчжоуски (Omnivore's Cookbook; 中国新闻网)."
+  },
+  "occasion": {
+   "fr": "Soir de fatigue, quand il reste du riz cuit au frigo : petit plat complet ou accompagnement. En Chine, c'est un plat de maison, pas de restaurant (Omnivore's Cookbook) ; dans le vieux Yangzhou, les familles le faisaient le soir avec le riz resté du midi (中国新闻网, d'après le Ta Kung Pao).",
+   "t": "Вечер, когда нет сил, а в холодильнике остался варёный рис: небольшое самостоятельное блюдо или гарнир. В Китае это домашнее, а не ресторанное блюдо (Omnivore's Cookbook); в старом Янчжоу семьи готовили его вечером из риса, оставшегося от обеда (中国新闻网, по данным Ta Kung Pao)."
+  },
+  "serving": {
+   "fr": "Sers aussitôt, bien chaud, en plat léger ou en accompagnement (Omnivore's Cookbook). Maggie Zhu l'accompagne d'une salade de concombre quand elle en fait un repas, ou d'un plat en sauce et d'une soupe pour un dîner chinois complet (Omnivore's Cookbook) ; les Woks of Life le servent avec beaucoup de sauce piquante ; chez Made With Lau, on tasse le riz dans un bol qu'on retourne sur l'assiette, pour un joli dôme.",
+   "t": "Подавайте сразу, очень горячим, как лёгкое блюдо или гарнир (Omnivore's Cookbook). Maggie Zhu, когда ест его как основное блюдо, добавляет к нему салат из огурцов, а для полноценного китайского ужина — блюдо в соусе и суп (Omnivore's Cookbook); The Woks of Life подают его с большим количеством острого соуса; у Made With Lau рис плотно утрамбовывают в миску и переворачивают на тарелку, чтобы получился красивый купол."
+  },
+  "ing.0.group": {
+   "fr": "Riz sauté",
+   "t": "Жареный рис"
+  },
+  "ing.riz.name": {
+   "fr": "de riz blanc cuit la veille, bien froid",
+   "t": "белого риса, сваренного накануне, хорошо охлаждённого"
+  },
+  "ing.riz.note": {
+   "fr": "grains longs ; refroidi en moins d'une heure après cuisson et gardé au frigo un jour au plus",
+   "t": "длиннозёрный; остужен меньше чем за час после варки и хранился в холодильнике не больше суток"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.oignons-verts.name": {
+   "fr": "oignon vert (cébette)",
+   "t": "стебель зелёного лука"
+  },
+  "ing.oignons-verts.pl": {
+   "fr": "oignons verts (cébettes)",
+   "t": "стебля зелёного лука"
+  },
+  "ing.oignons-verts.pl5": {
+   "fr": "oignon vert (cébette) / oignons verts (cébettes)",
+   "t": "стеблей зелёного лука"
+  },
+  "ing.oignons-verts.note": {
+   "fr": "le blanc et le vert",
+   "t": "и белая, и зелёная часть"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "растительного масла"
+  },
+  "ing.huile.note": {
+   "fr": "arachide ou tournesol",
+   "t": "арахисовое или подсолнечное"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "поправьте по вкусу"
+  },
+  "equipment.0": {
+   "fr": "Wok ou grande poêle d'environ 30 cm",
+   "t": "Вок или большая сковорода диаметром около 30 см"
+  },
+  "equipment.1": {
+   "fr": "Spatule large",
+   "t": "Широкая лопатка"
+  },
+  "equipment.2": {
+   "fr": "Bol et fourchette (ou baguettes) pour battre les œufs",
+   "t": "Миска и вилка (или палочки), чтобы взбить яйца"
+  },
+  "equipment.3": {
+   "fr": "Planche et couteau",
+   "t": "Доска и нож"
+  },
+  "equipment.4": {
+   "fr": "Cuillère pour émietter le riz",
+   "t": "Ложка, чтобы разбить комки риса"
+  },
+  "steps.0.title": {
+   "fr": "Émiette le riz froid",
+   "t": "Разберите холодный рис"
+  },
+  "steps.0.text": {
+   "fr": "Sors {{riz}} de riz du frigo juste avant de cuisiner. Émiette-le à la cuillère ou du bout des doigts pour défaire les mottes et séparer les grains.",
+   "t": "Достаньте {{riz}} риса из холодильника непосредственно перед готовкой. Разберите его ложкой или кончиками пальцев, чтобы разбить комки и отделить зёрна друг от друга."
+  },
+  "steps.1.title": {
+   "fr": "Bats les œufs",
+   "t": "Взбейте яйца"
+  },
+  "steps.1.text": {
+   "fr": "Casse {{oeufs:full}} dans un bol. Bats juste assez pour mélanger le jaune et le blanc.",
+   "t": "Разбейте {{oeufs:full}} в миску. Взбейте ровно настолько, чтобы желток смешался с белком."
+  },
+  "steps.2.title": {
+   "fr": "Émince les oignons verts",
+   "t": "Нарежьте зелёный лук"
+  },
+  "steps.2.text": {
+   "fr": "Lave et coupe en fines rondelles {{oignons-verts:full}}, le blanc comme le vert.",
+   "t": "Вымойте и нарежьте тонкими колечками {{oignons-verts:full}} — и белую, и зелёную часть."
+  },
+  "steps.3.title": {
+   "fr": "Chauffe l'huile",
+   "t": "Разогрейте масло"
+  },
+  "steps.3.text": {
+   "fr": "Mets le wok ou la grande poêle à feu moyen-vif avec {{huile}} d'huile. Attends que l'huile soit très chaude et commence à fumer légèrement. Avec une poêle antiadhésive, ne va pas jusqu'à la fumée : l'huile est prête quand sa surface se met à onduler.",
+   "t": "Поставьте вок или большую сковороду на огонь выше среднего и налейте {{huile}} масла. Подождите, пока масло сильно разогреется и начнёт слегка дымить. Если сковорода антипригарная, не доводите до дыма: масло готово, когда по его поверхности пойдёт рябь."
+  },
+  "steps.4.title": {
+   "fr": "Saisis les œufs",
+   "t": "Обжарьте яйца"
+  },
+  "steps.4.text": {
+   "fr": "Verse le contenu du bol dans l'huile chaude. Laisse prendre le dessous une quinzaine de secondes, puis brouille grossièrement. Arrête quand c'est presque pris mais encore un peu baveux sur le dessus.",
+   "t": "Вылейте содержимое миски в горячее масло. Дайте низу схватиться секунд пятнадцать, затем крупно перемешайте, как для болтуньи. Остановитесь, когда яйца почти схватились, но сверху ещё немного жидкие."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute le riz",
+   "t": "Добавьте рис"
+  },
+  "steps.5.text": {
+   "fr": "Verse aussitôt le riz par-dessus, tant que le dessus est encore baveux. Avec la spatule tenue bien droite, hache le tout en petits morceaux, pour qu'une partie des grains s'enrobe d'œuf.",
+   "t": "Сразу высыпьте сверху рис, пока яйца сверху ещё жидкие. Держа лопатку вертикально, порубите всё на мелкие кусочки, чтобы часть зёрен покрылась яйцом."
+  },
+  "steps.6.title": {
+   "fr": "Fais sauter le riz",
+   "t": "Обжарьте рис, помешивая"
+  },
+  "steps.6.text": {
+   "fr": "Remue en raclant le fond tout autour, le long des bords, pas seulement au centre. Continue de hacher et de remuer environ 2 minutes, jusqu'à ce que les grains soient bien séparés et chauds. S'il reste des mottes sèches, quelques gouttes d'eau dessus aident à les défaire.",
+   "t": "Перемешивайте, соскребая дно по всему кругу, вдоль краёв, а не только в центре. Продолжайте рубить и перемешивать около 2 минут, пока зёрна не отделятся друг от друга и не прогреются. Если остались сухие комки, несколько капель воды помогут их разбить."
+  },
+  "steps.7.title": {
+   "fr": "Sale et fais dorer",
+   "t": "Посолите и подрумяньте"
+  },
+  "steps.7.text": {
+   "fr": "Parsème {{sel}} de sel et ajoute les rondelles d'oignon vert. Étale le riz en couche contre la poêle et laisse-le 30 à 45 secondes sans y toucher, puis remue et recommence. Continue ainsi pendant 3 minutes environ, jusqu'à ce que le riz soit légèrement doré.",
+   "t": "Посыпьте {{sel}} соли и добавьте колечки зелёного лука. Распределите рис слоем по сковороде и оставьте на 30–45 секунд, не трогая, затем перемешайте и повторите. Продолжайте так около 3 минут, пока рис слегка не зарумянится."
+  },
+  "steps.7.timer.label": {
+   "fr": "Riz qui dore",
+   "t": "Рис румянится"
+  },
+  "steps.7.timer.done": {
+   "fr": "Le riz doit être légèrement doré et fumant partout. Goûte et rectifie le sel.",
+   "t": "Рис должен слегка зарумяниться и везде парить. Попробуйте и досолите по вкусу."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie que c'est bien chaud",
+   "t": "Проверьте, хорошо ли прогрелся рис"
+  },
+  "steps.8.text": {
+   "fr": "Le riz doit être fumant partout, au cœur aussi : de la vapeur doit s'en échapper quand tu remues. Goûte et ajoute un peu de sel si besoin.",
+   "t": "Рис должен парить везде, в том числе внутри: при помешивании от него должен подниматься пар. Попробуйте и при необходимости немного досолите."
+  },
+  "steps.9.title": {
+   "fr": "Laisse croustiller et sers",
+   "t": "Дайте рису подхрустеть и подавайте"
+  },
+  "steps.9.text": {
+   "fr": "Coupe le feu et laisse le riz une minute dans la poêle chaude pour qu'il croustille encore. Sers tout de suite, bien chaud.",
+   "t": "Выключите огонь и оставьте рис на минуту в горячей сковороде, чтобы он стал ещё более хрустящим. Сразу подавайте, очень горячим."
+  },
+  "secrets.0.text": {
+   "fr": "Prends du riz cuit la veille : ses grains restent fermes et se séparent bien au lieu de coller.",
+   "t": "Берите рис, сваренный накануне: его зёрна остаются упругими и хорошо отделяются друг от друга, а не слипаются."
+  },
+  "secrets.0.source": {
+   "fr": "下厨房 (Xiachufang), recette de 张恩勾 : « 身骨要挺，隔夜为佳 » ; 美食天下 : « 隔夜米饭是蛋炒饭的最佳选择 » ; Omnivore's Cookbook ; The Woks of Life",
+   "t": "下厨房 (Xiachufang), рецепт 张恩勾: «身骨要挺，隔夜为佳»; 美食天下: «隔夜米饭是蛋炒饭的最佳选择»; Omnivore's Cookbook; The Woks of Life"
+  },
+  "secrets.1.text": {
+   "fr": "Le riz ne doit être ni trop humide ni trop sec : trop humide, il devient mou ; trop sec, il reste dur sous la dent.",
+   "t": "Рис не должен быть ни слишком влажным, ни слишком сухим: слишком влажный становится мягким, слишком сухой остаётся жёстким на зубах."
+  },
+  "secrets.1.source": {
+   "fr": "下厨房 (Xiachufang), recette de 张恩勾, « 小贴士 »",
+   "t": "下厨房 (Xiachufang), рецепт 张恩勾, «小贴士»"
+  },
+  "secrets.2.text": {
+   "fr": "Pour un riz bien sec en surface, Maggie Zhu le met au frigo une à deux heures sans couvercle, puis le ferme.",
+   "t": "Чтобы поверхность риса хорошо подсохла, Maggie Zhu ставит его в холодильник на один-два часа без крышки, а потом закрывает."
+  },
+  "secrets.2.source": {
+   "fr": "Omnivore's Cookbook (Maggie Zhu)",
+   "t": "Omnivore's Cookbook (Maggie Zhu)"
+  },
+  "secrets.3.text": {
+   "fr": "Défais les mottes de riz froid avant la cuisson, à la cuillère, à la spatule ou avec les doigts.",
+   "t": "Разбейте комки холодного риса до начала жарки — ложкой, лопаткой или пальцами."
+  },
+  "secrets.3.source": {
+   "fr": "美食天下 (compte officiel et 双鱼座的美食) ; Omnivore's Cookbook ; The Woks of Life",
+   "t": "美食天下 (официальный аккаунт и 双鱼座的美食); Omnivore's Cookbook; The Woks of Life"
+  },
+  "secrets.4.text": {
+   "fr": "Tiens la spatule bien droite et « hache » le riz : les grains se séparent mieux et collent moins.",
+   "t": "Держите лопатку вертикально и «рубите» рис: так зёрна лучше отделяются и меньше слипаются."
+  },
+  "secrets.4.source": {
+   "fr": "美食天下, compte officiel : « 锅铲直立的炒制方法，可让饭粒更松散不易粘在一起 » ; Omnivore's Cookbook",
+   "t": "美食天下, официальный аккаунт: «锅铲直立的炒制方法，可让饭粒更松散不易粘在一起»; Omnivore's Cookbook"
+  },
+  "secrets.5.text": {
+   "fr": "Verse le riz sur des œufs encore baveux : une partie des grains s'enrobe d'œuf, et le dessous un peu grillé des œufs se brise en petits morceaux.",
+   "t": "Высыпайте рис на ещё жидковатые яйца: часть зёрен покрывается яйцом, а слегка поджаренный низ яичной массы разбивается на мелкие кусочки."
+  },
+  "secrets.5.source": {
+   "fr": "Omnivore's Cookbook ; Made With Lau (œufs pris mais encore moelleux avant d'ajouter le riz)",
+   "t": "Omnivore's Cookbook; Made With Lau (яйца схватились, но ещё мягкие, прежде чем добавить рис)"
+  },
+  "secrets.6.text": {
+   "fr": "Le 蛋炒饭 de maison n'a que du sel : le riz et l'œuf gardent le premier rôle.",
+   "t": "В домашнем 蛋炒饭 нет ничего, кроме соли: главная роль остаётся за рисом и яйцом."
+  },
+  "secrets.6.source": {
+   "fr": "Omnivore's Cookbook (« seasoned with nothing but salt ») ; 下厨房 ; 美食天下 (deux recettes) ; 香港01",
+   "t": "Omnivore's Cookbook («seasoned with nothing but salt»); 下厨房; 美食天下 (два рецепта); 香港01"
+  },
+  "secrets.7.text": {
+   "fr": "N'économise pas l'huile : sans assez d'huile, le riz cuit à la vapeur au lieu de griller.",
+   "t": "Не жалейте масла: если его мало, рис парится, а не обжаривается."
+  },
+  "secrets.7.source": {
+   "fr": "Omnivore's Cookbook (2 c. à s. au minimum pour 3 tasses de riz)",
+   "t": "Omnivore's Cookbook (не меньше 2 ст. л. на 3 чашки риса)"
+  },
+  "secrets.8.text": {
+   "fr": "Mets beaucoup d'oignon vert, le blanc et le vert : c'est presque le seul parfum du plat.",
+   "t": "Кладите много зелёного лука, и белую, и зелёную часть: это почти единственный аромат блюда."
+  },
+  "secrets.8.source": {
+   "fr": "Omnivore's Cookbook (4 oignons verts pour 3 tasses de riz) ; 美食天下, compte officiel (2 tiges pour 2 œufs)",
+   "t": "Omnivore's Cookbook (4 стебля зелёного лука на 3 чашки риса); 美食天下, официальный аккаунт (2 стебля на 2 яйца)"
+  },
+  "secrets.9.text": {
+   "fr": "Plus parfumé : fais d'abord revenir un peu d'oignon vert dans l'huile chaude, puis ajoute le riz.",
+   "t": "Для большего аромата сначала обжарьте немного зелёного лука в горячем масле, затем добавьте рис."
+  },
+  "secrets.9.source": {
+   "fr": "下厨房, 张恩勾 : « 用底油，把切好的少许葱花呛锅 » ; 美食天下, 双鱼座的美食 : « 热油下葱花，爆香，下米饭 »",
+   "t": "下厨房, рецепт 张恩勾: «用底油，把切好的少许葱花呛锅»; 美食天下, 双鱼座的美食: «热油下葱花，爆香，下米饭»"
+  },
+  "secrets.10.text": {
+   "fr": "Prends un wok ou une grande poêle : le riz s'étale en couche fine. Dans une petite poêle, il s'entasse et étuve.",
+   "t": "Берите вок или большую сковороду: рис распределяется тонким слоем. В маленькой сковороде он лежит толстым слоем и парится."
+  },
+  "secrets.10.source": {
+   "fr": "Omnivore's Cookbook",
+   "t": "Omnivore's Cookbook"
+  },
+  "secrets.11.text": {
+   "fr": "Racle le fond tout autour, le long des bords, et pas seulement au centre : sinon tout colle ensemble.",
+   "t": "Соскребайте дно по всему кругу, вдоль краёв, а не только в центре: иначе всё слипнется."
+  },
+  "secrets.11.source": {
+   "fr": "Made With Lau",
+   "t": "Made With Lau"
+  },
+  "secrets.12.text": {
+   "fr": "Son ancêtre légendaire est le « riz aux brisures d'or » (碎金饭) de la dynastie Sui : l'œuf brouillé en petits éclats dorés, « 碎金 ».",
+   "t": "Его легендарный предок — «рис с золотой крошкой» (碎金饭) времён династии Суй: яйцо, обжаренное болтуньей мелкими золотистыми крупинками, — «碎金»."
+  },
+  "secrets.12.source": {
+   "fr": "下厨房 (description de la recette de 张恩勾) ; 中国新闻网, « 扬州炒饭 », 2013",
+   "t": "下厨房 (описание рецепта 张恩勾); 中国新闻网, «扬州炒饭», 2013"
+  },
+  "mistakes.0": {
+   "fr": "Prendre du riz tout juste cuit, chaud et humide : il colle et devient mou (下厨房 ; Made With Lau note que le riz frais colle davantage).",
+   "t": "Брать только что сваренный рис, горячий и влажный: он слипается и становится мягким (下厨房; Made With Lau отмечает, что свежий рис слипается сильнее)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser le riz cuit traîner à température ambiante, ou le garder plus d'un jour au frigo avant de le réchauffer : il peut donner une intoxication (Bacillus cereus). Refroidis-le vite, idéalement en moins d'une heure (Food Standards Agency, Royaume-Uni).",
+   "t": "Оставлять варёный рис при комнатной температуре или хранить его в холодильнике дольше суток, прежде чем разогреть: им можно отравиться (Bacillus cereus). Остужайте его быстро, в идеале меньше чем за час (Food Standards Agency, Великобритания)."
+  },
+  "mistakes.2": {
+   "fr": "Réchauffer une deuxième fois les restes de riz sauté : le riz ne se réchauffe qu'une seule fois. Fais juste la quantité à manger (Food Standards Agency).",
+   "t": "Разогревать остатки жареного риса второй раз: рис разогревают только один раз. Готовьте ровно столько, сколько съедите (Food Standards Agency)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire les œufs avant d'ajouter le riz : ils doivent rester un peu baveux (Omnivore's Cookbook ; Made With Lau).",
+   "t": "Пережаривать яйца до того, как добавить рис: они должны оставаться чуть жидковатыми (Omnivore's Cookbook; Made With Lau)."
+  },
+  "mistakes.4": {
+   "fr": "Une poêle trop petite ou trop peu d'huile : le riz étuve au lieu de griller (Omnivore's Cookbook).",
+   "t": "Слишком маленькая сковорода или слишком мало масла: рис парится, а не обжаривается (Omnivore's Cookbook)."
+  },
+  "mistakes.5": {
+   "fr": "Entasser trop de riz d'un coup : Omnivore's Cookbook compte un wok ou une poêle de 30 cm pour 3 tasses de riz (environ 475 g). Si tu en fais nettement plus, par exemple pour 8 personnes, fais-le en plusieurs fois, comme le conseille aussi Made With Lau.",
+   "t": "Класть сразу слишком много риса: Omnivore's Cookbook рассчитывает вок или сковороду диаметром 30 см на 3 чашки риса (около 475 г). Если готовите заметно больше, например на 8 человек, жарьте в несколько приёмов, как советует и Made With Lau."
+  },
+  "mistakes.6": {
+   "fr": "Ajouter des légumes pleins d'eau comme le chou : le riz sauté doit rester sec, sans jus au fond (Made With Lau).",
+   "t": "Добавлять водянистые овощи, например капусту: жареный рис должен оставаться сухим, без сока на дне (Made With Lau)."
+  },
+  "mistakes.7": {
+   "fr": "Mettre du vin de Shaoxing, du saindoux ou de la sauce soja ordinaire pour « faire chinois » : la version classique n'a que du sel, et la sauce soja brassée contient de l'alcool de fermentation (Kikkoman : plus de 2 % en volume).",
+   "t": "Добавлять шаосинское вино, свиной жир или обычный соевый соус, чтобы было «по-китайски»: в классической версии только соль, а соевый соус естественного брожения содержит спирт, образующийся при ферментации (Kikkoman: больше 2 % по объёму)."
+  },
+  "variants.0": {
+   "fr": "Riz « or et argent » (金包银), méthode d'un chef publiée par le média hongkongais 香港01 : mélange les jaunes d'œufs au riz encore chaud pour enrober chaque grain, avec environ 3 g de sel ; fais cuire les blancs à moitié dans une cuillerée à soupe d'huile à feu moyen, puis ajoute le riz et fais sauter. Le chef déconseille d'enrober le riz d'œuf entier, car le blanc mouille le riz (香港01, chef 尤瑞昌, 2025).",
+   "t": "Рис «золото и серебро» (金包银) — способ шефа, опубликованный гонконгским изданием 香港01: смешайте желтки с ещё горячим рисом, чтобы покрыть каждое зёрнышко, добавив около 3 г соли; белки обжарьте до полуготовности в столовой ложке масла на среднем огне, затем добавьте рис и обжарьте, помешивая. Шеф не советует покрывать рис целым яйцом, потому что белок делает рис влажным (香港01, шеф 尤瑞昌, 2025)."
+  },
+  "variants.1": {
+   "fr": "Version restaurant cantonaise : carotte en petits dés, maïs et petits pois, puis sauce soja claire et foncée, sucre et bouillon de poule en poudre (Made With Lau). En halal : sauce soja certifiée halal et bouillon certifié halal, ou bien sel seul, comme Made With Lau le permet (« skip, use more salt »).",
+   "t": "Кантонская ресторанная версия: морковь мелкими кубиками, кукуруза и зелёный горошек, затем светлый и тёмный соевый соус, сахар и сухой куриный бульон (Made With Lau). Для халяль: соевый соус и бульон с сертификатом халяль или только соль, как допускает Made With Lau («skip, use more salt»)."
+  },
+  "variants.2": {
+   "fr": "Version à la sauce soja d'Omnivore's Cookbook : à la place du sel, 2 c. à s. de sauce soja, 1 c. à c. de sauce soja foncée et ½ c. à c. de sucre pour 3 tasses de riz. Même remarque : sauce soja certifiée halal seulement.",
+   "t": "Версия Omnivore's Cookbook с соевым соусом: вместо соли — 2 ст. л. соевого соуса, 1 ч. л. тёмного соевого соуса и ½ ч. л. сахара на 3 чашки риса. То же замечание: только соевый соус с сертификатом халяль."
+  },
+  "variants.3": {
+   "fr": "Version des Woks of Life : une partie des œufs battue avec un peu d'eau, de curcuma et de paprika pour un riz bien jaune, plus oignon, poivron rouge et petits pois.",
+   "t": "Версия The Woks of Life: часть яиц взбивают с небольшим количеством воды, куркумы и паприки, чтобы рис стал ярко-жёлтым, плюс лук, красный сладкий перец и зелёный горошек."
+  },
+  "variants.4": {
+   "fr": "Version de HowToCook (programme collaboratif chinois) : jambon, carotte, concombre et un peu de sauce soja claire (生抽). Jambon de volaille et sauce soja certifiés halal seulement.",
+   "t": "Версия HowToCook (китайский коллективный проект): ветчина, морковь, огурец и немного светлого соевого соуса (生抽). Только ветчина из птицы и соевый соус с сертификатом халяль."
+  },
+  "variants.5": {
+   "fr": "Un filet d'huile de sésame grillé, hors du feu, si tu as cuit à l'huile neutre (Omnivore's Cookbook ; 美食天下, 双鱼座的美食, qui finit au 香油).",
+   "t": "Немного масла из обжаренного кунжута, сняв с огня, если вы жарили на растительном масле (Omnivore's Cookbook; 美食天下, 双鱼座的美食, где блюдо завершают 香油)."
+  },
+  "variants.6": {
+   "fr": "Une pincée de bouillon de poule en poudre pour plus de goût (Omnivore's Cookbook) : seulement s'il est certifié halal.",
+   "t": "Щепотка сухого куриного бульона для вкуса (Omnivore's Cookbook): только если у него есть сертификат халяль."
+  },
+  "variants.7": {
+   "fr": "Sans riz de la veille : étale le riz frais sur un plateau, laisse-le refroidir puis mets-le au moins 30 minutes au frigo (Omnivore's Cookbook), ou laisse-le à découvert jusqu'à ce qu'il ne fume plus (The Woks of Life), ou aère-le 1 à 2 minutes aux baguettes pour laisser partir la vapeur (Made With Lau). Le plat dépasse alors les 30 minutes.",
+   "t": "Без вчерашнего риса: разложите свежесваренный рис на подносе, дайте остыть, затем уберите в холодильник минимум на 30 минут (Omnivore's Cookbook), или оставьте открытым, пока он не перестанет парить (The Woks of Life), или поворошите палочками 1–2 минуты, чтобы вышел пар (Made With Lau). Тогда блюдо займёт больше 30 минут."
+  },
+  "variants.8": {
+   "fr": "Riz de Yangzhou (扬州炒饭), la version riche : la norme de l'association culinaire de Yangzhou y ajoute concombre de mer, poulet, coquilles Saint-Jacques séchées, crevettes, champignons, pousses de bambou et petits pois, mais aussi du jambon et du vin de Shaoxing (绍酒) : pas halal tel quel (中国新闻网, d'après le Ta Kung Pao, 2013).",
+   "t": "Рис по-янчжоуски (扬州炒饭), богатая версия: стандарт кулинарной ассоциации Янчжоу добавляет трепанга, курицу, сушёные морские гребешки, креветки, грибы, побеги бамбука и зелёный горошек, а также ветчину и шаосинское вино (绍酒): в таком виде это не халяль (中国新闻网, по данным Ta Kung Pao, 2013)."
+  }
+ }
+}

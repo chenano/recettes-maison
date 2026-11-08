@@ -1,0 +1,313 @@
+{
+ "_slug": "biryani-poulet",
+ "_ingredients": {
+  "oignons": {
+   "q": 3,
+   "u": "",
+   "fr": "oignon moyen / oignons moyens",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "huile-friture": {
+   "q": null,
+   "u": "",
+   "fr": "huile neutre pour la friture"
+  },
+  "poulet": {
+   "q": 700,
+   "u": "g",
+   "fr": "de morceaux de poulet avec os, sans peau"
+  },
+  "yaourt": {
+   "q": 280,
+   "u": "g",
+   "fr": "de yaourt nature entier"
+  },
+  "pag": {
+   "q": 1.5,
+   "u": "c. à s.",
+   "fr": "de pâte d'ail et de gingembre frais"
+  },
+  "piment": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de piment rouge en poudre (type cachemire)"
+  },
+  "curcuma": {
+   "q": 0.25,
+   "u": "c. à c.",
+   "fr": "de curcuma"
+  },
+  "garam": {
+   "q": 2,
+   "u": "c. à c.",
+   "fr": "de garam masala"
+  },
+  "piments-verts": {
+   "q": 2,
+   "u": "",
+   "fr": "piment vert / piments verts",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "menthe": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "de feuilles de menthe hachées"
+  },
+  "coriandre": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "de coriandre fraîche hachée"
+  },
+  "sel": {
+   "q": null,
+   "u": "",
+   "fr": "sel"
+  },
+  "huile-cuisson": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de l'huile de friture des oignons"
+  },
+  "carvi-poulet": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves"
+  },
+  "riz": {
+   "q": 370,
+   "u": "g",
+   "fr": "de riz basmati"
+  },
+  "eau": {
+   "q": 2,
+   "u": "l",
+   "fr": "d'eau"
+  },
+  "sel-riz": {
+   "q": null,
+   "u": "",
+   "fr": "sel"
+  },
+  "huile-riz": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "d'huile"
+  },
+  "laurier": {
+   "q": 1,
+   "u": "",
+   "fr": "feuille de laurier / feuilles de laurier",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "cannelle": {
+   "q": 1,
+   "u": "",
+   "fr": "petit bâton de cannelle (environ 4 cm) / petits bâtons de cannelle (environ 4 cm)",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "cardamome": {
+   "q": 4,
+   "u": "",
+   "fr": "gousse de cardamome verte / gousses de cardamome verte",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "clous": {
+   "q": 6,
+   "u": "",
+   "fr": "clou de girofle / clous de girofle",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "badiane": {
+   "q": 1,
+   "u": "",
+   "fr": "étoile de badiane (anis étoilé) / étoiles de badiane (anis étoilé)",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "carvi-riz": {
+   "q": 0.5,
+   "u": "c. à c.",
+   "fr": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves"
+  },
+  "safran": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de safran en filaments"
+  },
+  "lait": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de lait chaud"
+  },
+  "ghee": {
+   "q": 2,
+   "u": "c. à s.",
+   "fr": "de ghee (beurre clarifié)"
+  }
+ },
+ "textes": {
+  "title": "Biryani au poulet de Hyderabad",
+  "tagline": "Un poulet mariné au yaourt et aux épices, recouvert de riz basmati parfumé au safran et d'oignons frits, puis cuit à l'étouffée dans une marmite bien fermée : le biryani des fêtes de Hyderabad.",
+  "region": "Inde, Hyderabad (Télangana). Le biryani hyderabadi est né dans les cuisines des Nizams, les princes de Hyderabad, selon la tradition locale ; son origine exacte reste incertaine (Wikipédia ; NewsMeter ; Vismai Food). Il en existe deux méthodes : « kachchi », la viande crue cuite avec le riz, et « pakki », la viande cuite avant d'être recouverte de riz (Wikipédia ; NewsMeter ; Swasthi). Cette recette suit la méthode pakki, au poulet.",
+  "occasion": "Mariages, fêtes et grands repas de famille : à Hyderabad, il n'y a pas de mariage ni de réunion sans biryani (NewsMeter). Ranveer Brar classe son biryani hyderabadi au poulet parmi ses recettes de l'Aïd (« Eid Special ») et du Ramadan (« Ramadan Special »).",
+  "img_alt": "Biryani de poulet à la hyderabadi dans une marmite en cuivre, avec du raïta",
+  "serving": "Chaud, avec une raïta au yaourt (Swasthi ; Ranveer Brar ; Kunal Kapur). À Hyderabad, on le sert avec le mirchi ka salan (curry de piments) et la dahi ki chutney (sauce au yaourt) (NewsMeter ; Wikipédia), et une salade d'oignon, de carotte, de concombre et de citron (Wikipédia). Sanjeev Kapoor ajoute des piments frits et des rondelles d'oignon. Restes : refroidis-les vite, idéalement en moins d'une heure, sans les laisser dans la marmite (FSA), et mets-les au réfrigérateur au plus tard dans les 2 heures (Anses). Garde-les 1 jour au plus, et réchauffe-les une seule fois, jusqu'à ce qu'ils soient fumants partout (FSA).",
+  "ing.0.group": "Oignons frits",
+  "ing.oignons.name": "oignon moyen",
+  "ing.oignons.pl": "oignons moyens",
+  "ing.huile-friture.name": "huile neutre pour la friture",
+  "ing.huile-friture.note": "une bonne couche au fond de la poêle",
+  "ing.1.group": "Poulet mariné",
+  "ing.poulet.name": "de morceaux de poulet avec os, sans peau",
+  "ing.poulet.note": "halal ; hauts de cuisse et pilons, de taille moyenne",
+  "ing.yaourt.name": "de yaourt nature entier",
+  "ing.yaourt.note": "frais, pas acide ; pas de yaourt grec",
+  "ing.pag.name": "de pâte d'ail et de gingembre frais",
+  "ing.pag.note": "ou moitié ail, moitié gingembre, râpés finement",
+  "ing.piment.name": "de piment rouge en poudre (type cachemire)",
+  "ing.piment.note": "ou paprika ; à ajuster selon ton goût",
+  "ing.curcuma.name": "de curcuma",
+  "ing.garam.name": "de garam masala",
+  "ing.garam.note": "ou de biryani masala",
+  "ing.piments-verts.name": "piment vert",
+  "ing.piments-verts.pl": "piments verts",
+  "ing.piments-verts.note": "fendus en deux",
+  "ing.menthe.name": "de feuilles de menthe hachées",
+  "ing.coriandre.name": "de coriandre fraîche hachée",
+  "ing.sel.name": "sel",
+  "ing.2.group": "Cuisson du poulet",
+  "ing.huile-cuisson.name": "de l'huile de friture des oignons",
+  "ing.huile-cuisson.note": "ou de ghee",
+  "ing.carvi-poulet.name": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+  "ing.3.group": "Riz",
+  "ing.riz.name": "de riz basmati",
+  "ing.riz.note": "de préférence vieilli (« aged »)",
+  "ing.eau.name": "d'eau",
+  "ing.sel-riz.name": "sel",
+  "ing.sel-riz.note": "beaucoup : l'eau doit être nettement salée",
+  "ing.huile-riz.name": "d'huile",
+  "ing.laurier.name": "feuille de laurier",
+  "ing.laurier.pl": "feuilles de laurier",
+  "ing.cannelle.name": "petit bâton de cannelle (environ 4 cm)",
+  "ing.cannelle.pl": "petits bâtons de cannelle (environ 4 cm)",
+  "ing.cardamome.name": "gousse de cardamome verte",
+  "ing.cardamome.pl": "gousses de cardamome verte",
+  "ing.clous.name": "clou de girofle",
+  "ing.clous.pl": "clous de girofle",
+  "ing.badiane.name": "étoile de badiane (anis étoilé)",
+  "ing.badiane.pl": "étoiles de badiane (anis étoilé)",
+  "ing.carvi-riz.name": "de graines de carvi, ou de shahi jeera (cumin noir) si tu en trouves",
+  "ing.4.group": "Montage",
+  "ing.safran.name": "de safran en filaments",
+  "ing.lait.name": "de lait chaud",
+  "ing.ghee.name": "de ghee (beurre clarifié)",
+  "ing.ghee.note": "fondu",
+  "equipment.0": "Une grande marmite à fond épais, avec un couvercle qui ferme bien (Swasthi, Vismai Food)",
+  "equipment.1": "Une grande poêle épaisse ou une plaque en fonte, à poser sous la marmite pendant la cuisson à l'étouffée (Swasthi, Ranveer Brar)",
+  "equipment.2": "Une poêle ou une sauteuse, pour frire les oignons",
+  "equipment.3": "Une grande casserole pour cuire le riz, et une passoire",
+  "equipment.4": "Un grand bol, pour la marinade",
+  "equipment.5": "Du papier aluminium (Swasthi, Sanjeev Kapoor)",
+  "equipment.6": "Du papier absorbant",
+  "equipment.7": "Une louche et une spatule plate, pour servir (Vismai Food)",
+  "equipment.8": "Un thermomètre de cuisson (conseillé par la FSA)",
+  "steps.0.title": "Émince les oignons",
+  "steps.0.text": "Pèle {{oignons:full}} et coupe en lamelles fines et régulières. Sépare les couches.",
+  "steps.1.title": "Fais frire les oignons",
+  "steps.1.text": "Dans la poêle, chauffe l'{{huile-friture}} à feu moyen. Fais frire les oignons en petites quantités, en remuant souvent, jusqu'à ce qu'ils soient bien dorés. Ne les laisse pas brûler. Égoutte-les sur du papier absorbant et garde l'huile de friture.",
+  "steps.1.tip": "Brûlés, les oignons deviennent amers (Swasthi). Tu peux les frire la veille (Swasthi).",
+  "steps.2.title": "Prépare la marinade",
+  "steps.2.text": "Dans un grand bol, mélange {{yaourt}} de yaourt, {{pag}} de pâte ail-gingembre, {{piment}} de piment, {{curcuma}} de curcuma, {{piments-verts:full}} et du {{sel}}. Ajoute presque tout le garam masala ({{garam}} en tout), en gardant une pincée pour le montage. Ajoute la moitié des oignons frits, émiettés, puis la moitié de la menthe ({{menthe}} en tout) et de la coriandre ({{coriandre}} en tout).",
+  "steps.2.tip": "Prends un yaourt frais, pas acide (Swasthi).",
+  "steps.3.title": "Fais mariner le poulet",
+  "steps.3.text": "Ajoute {{poulet}} de poulet et enrobe bien chaque morceau. Couvre et mets au réfrigérateur au moins 2 heures, ou toute une nuit. Ne lave pas le poulet cru. Lave-toi les mains au savon après l'avoir touché.",
+  "steps.3.tip": "Une nuit au réfrigérateur rend le poulet plus tendre et plus juteux (Swasthi ; Vismai Food). Ne le laisse pas plus de 2 heures à température ambiante (Anses).",
+  "steps.4.title": "Fais tremper le riz",
+  "steps.4.text": "Rince {{riz}} de riz dans plusieurs eaux, jusqu'à ce que l'eau reste claire. Couvre-le d'eau froide et laisse-le tremper 30 minutes.",
+  "steps.4.tip": "Pendant le trempage, commence la cuisson du poulet.",
+  "steps.4.timer.label": "Trempage du riz",
+  "steps.4.timer.done": "Égoutte le riz dans la passoire.",
+  "steps.5.title": "Cuis le poulet mariné",
+  "steps.5.text": "Dans la grande marmite, chauffe {{huile-cuisson}} de l'huile de friture à feu moyen. Ajoute {{carvi-poulet}} de carvi. Dès qu'il grésille, verse le poulet avec toute sa marinade. Remue quelques minutes à feu moyen-vif, puis étale les morceaux en une seule couche. Couvre et laisse cuire à feu moyen-doux, en remuant de temps en temps, jusqu'à ce que le poulet soit tendre et qu'il reste une sauce épaisse.",
+  "steps.5.tip": "C'est la méthode « pakki » : le poulet est cuit avant d'être recouvert de riz (Swasthi ; NewsMeter).",
+  "steps.6.title": "Vérifie la cuisson du poulet",
+  "steps.6.text": "Coupe le plus gros morceau près de l'os : la chair ne doit plus être rose, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, pique loin de l'os : le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau. Coupe ensuite le feu.",
+  "steps.6.tip": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
+  "steps.7.title": "Prépare l'eau du riz",
+  "steps.7.text": "Dans la grande casserole, porte à ébullition {{eau}} d'eau avec {{laurier:full}}, {{cannelle:full}}, {{cardamome:full}}, {{clous:full}}, {{badiane:full}}, {{carvi-riz}} de carvi et {{huile-riz}} d'huile. Sale bien avec du {{sel-riz}} : l'eau doit avoir un goût nettement salé. Laisse bouillir 5 minutes.",
+  "steps.7.tip": "L'eau doit être salée comme de l'eau de mer : c'est le seul sel que prendra le riz (Vismai Food).",
+  "steps.7.timer.label": "Eau parfumée",
+  "steps.7.timer.done": "Verse le riz égoutté dans l'eau bouillante.",
+  "steps.8.title": "Prépare le lait au safran",
+  "steps.8.text": "Fais tremper {{safran}} de safran dans {{lait}} de lait chaud.",
+  "steps.9.title": "Cuis le riz aux trois quarts",
+  "steps.9.text": "Verse le riz égoutté dans l'eau qui bout à gros bouillons et remue doucement une fois. Laisse cuire 5 minutes environ, puis goûte un grain : il doit être cuit aux trois quarts et encore résister au centre. Égoutte aussitôt, en gardant une louche d'eau de cuisson.",
+  "steps.9.tip": "Le riz ne doit surtout pas devenir pâteux : il finit de cuire à l'étouffée (Swasthi ; Sanjeev Kapoor).",
+  "steps.9.timer.label": "Riz aux trois quarts",
+  "steps.9.timer.done": "Goûte un grain : il doit encore résister au centre.",
+  "steps.10.title": "Monte le biryani",
+  "steps.10.text": "Étale le riz sur le poulet, en couche égale, sans tasser. Parsème le reste des oignons frits, de la menthe et de la coriandre, puis la pincée de garam masala. Verse le lait au safran en filet, puis {{ghee}} de ghee. Si le fond te paraît sec, ajoute la louche d'eau de cuisson du riz.",
+  "steps.11.title": "Ferme hermétiquement",
+  "steps.11.text": "Couvre la marmite d'une feuille de papier aluminium bien serrée sur les bords, puis pose le couvercle. S'il ferme mal, pose un poids dessus. La vapeur ne doit pas s'échapper.",
+  "steps.11.tip": "À l'ancienne, on colle le couvercle avec un boudin de pâte de farine et d'eau (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",
+  "steps.12.title": "Cuis à l'étouffée (dum)",
+  "steps.12.text": "Fais chauffer la grande poêle épaisse ou la plaque en fonte sur le feu, puis pose la marmite par-dessus. Laisse cuire 15 minutes à feu doux, sans ouvrir.",
+  "steps.12.tip": "La plaque sous la marmite répartit la chaleur et évite que le fond brûle (Swasthi).",
+  "steps.12.timer.label": "Cuisson à l'étouffée",
+  "steps.12.timer.done": "Coupe le feu sans ouvrir la marmite.",
+  "steps.13.title": "Laisse reposer",
+  "steps.13.text": "Coupe le feu et laisse reposer 10 minutes, marmite fermée, sur la plaque encore chaude.",
+  "steps.13.tip": "Laisse la marmite sur le feu éteint : posée ailleurs, elle perd sa chaleur et le biryani cuit moins bien (Vismai Food).",
+  "steps.13.timer.label": "Repos",
+  "steps.13.timer.done": "Ouvre la marmite et sers.",
+  "steps.14.title": "Sers à la spatule",
+  "steps.14.text": "Ouvre la marmite : tout doit être fumant. Sers avec une spatule plate, en allant jusqu'au fond, pour avoir du riz et du poulet dans chaque assiette. Ne mélange pas le biryani dans la marmite.",
+  "steps.14.tip": "Vismai Food sert en soulevant le biryani depuis le fond avec une spatule plate, sans le remuer.",
+  "secrets.0.text": "Prends un riz basmati vieilli : Vismai Food le veut de plus d'un an, pour un beau grain. Fais-le tremper 30 minutes avant de le cuire.",
+  "secrets.0.source": "Swasthi (« aged » basmati, trempage de 30 minutes) ; Vismai Food (riz de plus d'un an) ; Kunal Kapur (30 à 45 minutes) ; Sanjeev Kapoor (30 minutes)",
+  "secrets.1.text": "Sale beaucoup l'eau du riz, comme de l'eau de mer : le sel ajouté plus tard ne pénètre plus le riz.",
+  "secrets.1.source": "Vismai Food ; Swasthi (« the water has to taste salty »)",
+  "secrets.2.text": "Fais bouillir les épices entières 5 minutes dans l'eau avant d'y verser le riz : elles parfument l'eau.",
+  "secrets.2.source": "Swasthi ; Kunal Kapur",
+  "secrets.3.text": "Arrête le riz aux trois quarts de sa cuisson : il finit de cuire dans la vapeur de la marmite.",
+  "secrets.3.source": "Sanjeev Kapoor (« three fourth done ») ; Swasthi (75 %) ; Vismai Food (70 %) ; Ranveer Brar (60 %)",
+  "secrets.4.text": "Les oignons frits font partie des ingrédients de base du biryani hyderabadi : fais-les bien dorer, en petites quantités, sans les brûler.",
+  "secrets.4.source": "Wikipédia (ingrédients de base) ; Swasthi ; Ranveer Brar (frits « in small batches »)",
+  "secrets.5.text": "Garde l'huile de friture des oignons : elle donne son parfum au biryani.",
+  "secrets.5.source": "Vismai Food ; Swasthi ; Ranveer Brar (« fried onion oil »)",
+  "secrets.6.text": "Prends un yaourt frais, pas acide, et un poulet jeune : les gros poulets âgés cuisent mal.",
+  "secrets.6.source": "Swasthi (« do not use sour curd ») ; Vismai Food (poulet de moins d'un kilo)",
+  "secrets.7.text": "Marine le poulet longtemps au réfrigérateur, une nuit si tu peux : il devient tendre et juteux.",
+  "secrets.7.source": "Swasthi ; Vismai Food",
+  "secrets.8.text": "Fais tremper le safran dans du lait chaud, puis verse-le en filet sur le riz.",
+  "secrets.8.source": "Swasthi ; Sanjeev Kapoor ; Ranveer Brar",
+  "secrets.9.text": "Une marmite à fond épais, posée sur une poêle épaisse ou une plaque en fonte, évite que le fond brûle pendant la cuisson à l'étouffée.",
+  "secrets.9.source": "Swasthi (tawa sous la marmite) ; Vismai Food (récipient à fond épais) ; Ranveer Brar (marmite posée sur le tawa)",
+  "secrets.10.text": "Ferme bien la marmite : la vapeur ne doit pas s'échapper, c'est elle qui cuit le riz.",
+  "secrets.10.source": "Swasthi ; Kunal Kapur (couvercle collé à la pâte) ; Vismai Food",
+  "secrets.11.text": "Ne remue jamais le biryani chaud : laisse-le reposer, marmite fermée, sur le feu éteint.",
+  "secrets.11.source": "Vismai Food",
+  "secrets.12.text": "Le ghee rend le biryani meilleur : Vismai Food conseille d'en mettre plus. Le biryani hyderabadi traditionnel en compte près de 300 g par kilo de riz.",
+  "secrets.12.source": "Vismai Food (« tastes better with more Ghee ») ; NewsMeter",
+  "secrets.13.text": "Le biryani hyderabadi traditionnel contient peu d'épices moulues : il est moins chargé en masala que les biryanis de restaurant.",
+  "secrets.13.source": "Swasthi (« minimal amount of ground spices »)",
+  "mistakes.0": "Trop cuire le riz avant le montage : il devient pâteux (Swasthi).",
+  "mistakes.1": "Brûler les oignons : ils donnent un goût amer (Swasthi).",
+  "mistakes.2": "Prendre une marmite à fond fin, ou la poser sans plaque sur le feu : le fond brûle (Swasthi ; Vismai Food).",
+  "mistakes.3": "Laisser la vapeur s'échapper par un couvercle mal fermé : elle doit rester dans la marmite (Swasthi).",
+  "mistakes.4": "Monter le biryani sans avoir vérifié que le poulet est cuit à cœur (FSA, Anses).",
+  "mistakes.5": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA). Kunal Kapur et Ranveer Brar le lavent dans leurs recettes : ne le fais pas.",
+  "mistakes.6": "Laisser le poulet mariner longtemps hors du réfrigérateur : pas plus de 2 heures à température ambiante (Anses). Vismai Food le permet quand on n'a pas de réfrigérateur : ne le fais pas.",
+  "mistakes.7": "Laisser refroidir les restes dans la marmite ou à température ambiante : Bacillus cereus, dont les spores survivent à la cuisson du riz, peut s'y multiplier et produire une toxine que la chaleur ne détruit pas (Anses ; FSA).",
+  "mistakes.8": "Réchauffer le biryani plus d'une fois (FSA).",
+  "mistakes.9": "Ajouter de l'eau de kewra ou un arôme sans lire l'étiquette : Swasthi rappelle que ces produits contiennent des conservateurs et des additifs. Pour rester halal, choisis-les sans alcool.",
+  "variants.0": "Biryani « kachchi », le plus célèbre à Hyderabad (NewsMeter) : le poulet cru et mariné va au fond de la marmite, en une seule couche, sous le riz cuit aux trois quarts ; la marmite fermée cuit 20 minutes à feu moyen-vif sur une plaque, puis 15 minutes à feu très doux, et repose 20 à 30 minutes (Swasthi). Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable, et Wikipédia rappelle qu'il faut surveiller de près le temps et la chaleur pour que la viande soit assez cuite. Vérifie toujours la cuisson du poulet avant de servir (FSA).",
+  "variants.1": "Cuisson à l'étouffée au four : marmite fermée au papier aluminium, 15 à 25 minutes à 180 °C pour un biryani pakki (Swasthi).",
+  "variants.2": "Couvercle collé avec un boudin de pâte de farine et d'eau, à la place du papier aluminium (Kunal Kapur ; Sanjeev Kapoor ; Onmanorama).",
+  "variants.3": "Avec quelques gouttes d'eau de rose ou d'eau de kewra sur le riz (Sanjeev Kapoor ; Ranveer Brar) : seulement sans alcool, vérifie l'étiquette.",
+  "variants.4": "Avec des pétales de rose séchés et une julienne de gingembre sur le riz (Sanjeev Kapoor, 2024).",
+  "variants.5": "Avec un trait de jus de citron dans la marinade (Swasthi ; Vismai Food).",
+  "variants.6": "En deux couches, dans une marmite plus petite : la moitié du poulet, la moitié du riz, puis on recommence (Swasthi).",
+  "variants.7": "À la viande, comme le biryani hyderabadi d'origine, le plus souvent de la chèvre (Wikipédia). Sanjeev Kapoor et Kunal Kapur le font au « mutton » : la viande cuit plus longtemps, jusqu'à être tendre, avant le montage.",
+  "variants.8": "Biryani « sufiyani », blanc et doux, au lait, sans safran (NewsMeter)."
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "hachis-parmentier",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Wikilivres, « Livre de cuisine/Hachis parmentier », dernière modification le 24 mai 2020 (lu le 8 novembre 2026)",
+   "url": "https://fr.wikibooks.org/wiki/Livre_de_cuisine/Hachis_parmentier",
+   "ce_qu_elle_confirme": "Pour 4 : 1 kg de pommes de terre « farineuses », 600 g de bœuf de pot-au-feu haché, 1 oignon et 1 gousse d'ail, 1/4 l de lait, 100 g de beurre, une pincée de muscade, persil, 1 œuf, 60 g de chapelure ou de fromage râpé. « Faire cuire la viande hachée à la poêle si elle n'est pas déjà cuite » avant le four ; pommes de terre cuites à l'eau « pendant une demi-heure » ; moitié de la purée, viande, reste de la purée ; four à 220 °C, environ 25 minutes ; « À servir avec une salade verte ou des tomates ». Recette collaborative, utilisée en recoupement."
+  },
+  {
+   "name": "Santé Canada (gouvernement du Canada), « Températures sécuritaires de cuisson interne », publiée le 4 juin 2024 (lu le 8 novembre 2026)",
+   "url": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html",
+   "ce_qu_elle_confirme": "Viande hachée de bœuf : 71 °C (160 °F) à cœur ; restes réchauffés : 74 °C (165 °F) ; une planche pour les fruits et légumes, une autre pour la viande crue ; thermomètre planté au centre de la partie la plus épaisse. Recoupe l'Anses (70 °C) et la FSA (70 °C pendant 2 minutes)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[1].text",
+   "actuel": "Porte à ébullition une grande casserole d'{{eau}} salée. Plonge les pommes de terre et laisse cuire environ 30 minutes.",
+   "propose": "Mets les pommes de terre dans une grande casserole et couvre-les d'{{eau}} froide salée. Porte à ébullition, puis laisse cuire environ 30 minutes.",
+   "pourquoi": "Le départ dans l'eau bouillante n'est écrit que chez Hervé Cuisine (et dans une recette d'internaute 750g déjà écartée). Le départ à froid est écrit chez l'Académie du Goût (« eau froide salée », « Porter à ébullition »), chez Alain Ducasse (« rondeau rempli d'eau froide salée ») et chez Meilleur du Chef : sa cuisson « à l'anglaise » est définie dans le lexique de la même page, « Dans le cas des pommes de terre, la cuisson démarre à froid ». Chef Simon (« eau frémissante salée »), Escoffier (« cuire vivement à l'eau salée ») et Wikilivres (« à l'eau pendant une demi-heure ») ne précisent pas. Trois sources contre une : le choix actuel repose sur un décompte erroné (voir la correction suivante). Rendu vérifié : « couvre-les d'eau froide salée ». Minuteur de 30 minutes inchangé (Meilleur du Chef « une trentaine de minutes », Wikilivres « une demi-heure »).",
+   "gravite": "majeure",
+   "sources": "Meilleur du Chef, recette « Hachis parmentier » et son lexique « À l'anglaise » ; Académie du Goût (la rédaction) ; Alain Ducasse (Académie du Goût) ; Hervé Cuisine ; Wikilivres."
+  },
+  {
+   "champ": "discrepancies[7]",
+   "actuel": "dans l'eau salée bouillante (Meilleur du Chef « à l'anglaise », Hervé Cuisine, Chef Simon, Escoffier) ou départ eau froide (Académie du Goût, Alain Ducasse)",
+   "propose": "départ à l'eau froide salée (Académie du Goût, Alain Ducasse ; Meilleur du Chef, dont la cuisson « à l'anglaise » démarre à froid pour les pommes de terre selon le lexique de la même page) ou dans l'eau bouillante (Hervé Cuisine) ; Chef Simon (« eau frémissante salée ») et Escoffier (« cuire vivement à l'eau salée ») ne précisent pas le départ",
+   "pourquoi": "Meilleur du Chef est rangé à tort en eau bouillante : son lexique dit que, pour les pommes de terre, la cuisson à l'anglaise démarre à froid. Chef Simon et Escoffier n'écrivent ni « bouillante » ni « départ à froid ».",
+   "gravite": "majeure",
+   "sources": "Meilleur du Chef (lexique « À l'anglaise ») ; Chef Simon, « Purée de pommes de terre » ; Escoffier, chapitre « Légumes » (Wikisource) ; Académie du Goût ; Alain Ducasse ; Hervé Cuisine."
+  },
+  {
+   "champ": "discrepancies[7]",
+   "actuel": "Retenu : eau bouillante, environ 30 minutes, avec le test du couteau.",
+   "propose": "Retenu : départ à l'eau froide salée (trois sources contre une), environ 30 minutes, avec le test du couteau.",
+   "pourquoi": "Suite de la correction de l'étape 2 : le texte retenu doit suivre le nouveau décompte.",
+   "gravite": "majeure",
+   "sources": "Académie du Goût ; Alain Ducasse ; Meilleur du Chef (lexique « À l'anglaise »)."
+  },
+  {
+   "champ": "steps[3].text",
+   "actuel": "Ajoute l'ail juste avant la fin et mélange.",
+   "propose": "Ajoute l'ail juste avant la fin de la cuisson de l'oignon et mélange.",
+   "pourquoi": "« Juste avant la fin » ne dit pas de quoi ; la phrase sera traduite. Meilleur du Chef : « incorporer l'ail avant la fin de la cuisson de l'oignon ».",
+   "gravite": "mineure",
+   "sources": "Meilleur du Chef, « Hachis parmentier », étape 9."
+  },
+  {
+   "champ": "secrets[11].text",
+   "actuel": "une trentaine de minutes s'ils sont encore chauds, plus s'ils sont froids.",
+   "propose": "une trentaine de minutes, selon qu'ils sont encore chauds ou froids.",
+   "pourquoi": "Chef Simon écrit « une trentaine de minutes selon que vos ingrédients sont encore chauds ou froids » ; il ne dit pas « une trentaine s'ils sont chauds, plus s'ils sont froids ». Le conseil de prolonger jusqu'à ce que ce soit fumant au centre reste dans l'astuce de l'étape 12 (FSA).",
+   "gravite": "mineure",
+   "sources": "Chef Simon, « Hachis parmentier », étape 8."
+  },
+  {
+   "champ": "variants[2]",
+   "actuel": "ou revenues avec l'oignon (Hervé Cuisine, Inspirations Cuisine).",
+   "propose": "revenues avec l'oignon (Hervé Cuisine), ou en petits dés ajoutés à la viande (Inspirations Cuisine).",
+   "pourquoi": "Inspirations Cuisine fait fondre les oignons au beurre, ajoute le bœuf, puis « Rajoutez-y votre brunoise de carottes » : les carottes ne sont pas revenues avec l'oignon. Hervé Cuisine fait bien revenir carottes et oignons ensemble 5 minutes.",
+   "gravite": "mineure",
+   "sources": "Inspirations Cuisine, « Hachis Parmentier facile et rapide » ; Hervé Cuisine."
+  },
+  {
+   "champ": "occasion",
+   "actuel": "Plat familial de tous les jours, nourrissant et économique.",
+   "propose": "Plat familial, réconfortant et économique.",
+   "pourquoi": "« De tous les jours » et « nourrissant » ne sont ni chez Wikipédia ni chez Chef Simon, cités pour ce champ. Wikipédia : « Plat familial et traditionnel […] il est également économique » ; Chef Simon : « Une recette réconfortante qui plait à toute la famille ».",
+   "gravite": "mineure",
+   "sources": "Wikipédia, « Hachis parmentier » ; Chef Simon, « Hachis parmentier »."
+  },
+  {
+   "champ": "sources[9].used_for",
+   "actuel": "Quantités non lisibles sur la page.",
+   "propose": "Quantités lisibles sur la page (sélecteur de 2 à 10 personnes) ; pour 4 : 1 kg de pommes de terre, 7 c. à s. de lait, 50 g de beurre, 500 g de viande hachée, 1 oignon, 2 gousses d'ail, 2 c. à s. d'huile d'olive, 2 c. à s. de concentré de tomate, fromage râpé, muscade.",
+   "pourquoi": "Les quantités figurent bien dans la page de Pradel (bloc « Pour 4 personnes » avec un sélecteur 2, 4, 6, 8, 10). Elles confirment 1 kg de pommes de terre et 50 g de beurre pour 4 ; la viande (500 g) reste dans la fourchette des autres sources (calcul python : médiane des cinq recettes au bœuf haché cru, Pradel compris, 467 g pour 4).",
+   "gravite": "mineure",
+   "sources": "Pradel France, « Hachis parmentier », 17 janvier 2024."
+  },
+  {
+   "champ": "unverified[10]",
+   "actuel": "la FSA autorise à congeler un plat cuit, puis à le réchauffer une seule fois ; l'Anses interdit de recongeler un aliment décongelé.",
+   "propose": "la FSA autorise à congeler un plat cuit, même fait avec une viande décongelée, puis à le réchauffer une seule fois ; l'Anses dit de ne pas recongeler un aliment décongelé, sans parler des plats cuisinés avec.",
+   "pourquoi": "La FSA écrit « you can freeze food again once cooked, but you'll only be able to reheat it once after that ». L'Anses écrit « Les aliments décongelés ne doivent pas être recongelés » ; « interdit » est plus fort que le texte et elle ne parle pas d'un plat cuit fait avec une viande décongelée. Le conseil de prudence qui suit peut rester, il est présenté comme tel.",
+   "gravite": "mineure",
+   "sources": "FSA, « How to chill, freeze and defrost food safely » ; Anses, « Date limite de consommation (DLC) et date de durabilité minimale (DDM) »."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 21 pages citées (dont les deux 750g et la purée d'Escoffier) répondent en HTTP 200 le 8 novembre 2026 ; aucun robots.txt n'interdit ces pages (User-agent * ; aucun groupe Claude, ClaudeBot, Claude-SearchBot ou anthropic-ai) : meilleurduchef.com, chefsimon.com, academiedugout.fr, hervecuisine.com, 750g.com, wikisource, wikipedia, pradel-france.com, inspirations-cuisine.fr, anses.fr, gov.uk, bfr.bund.de, inspection.canada.ca, efsa.europa.eu.",
+  "Meilleur du Chef (6 avril 2013, Chef Philippe) : pour 4, 1 kg de Bintje, 400 g de bœuf haché « (ex : marmite, pot au feu) », 1 oignon, 1 gousse d'ail, 1/2 botte de persil (facultatif), 1 à 2 œufs, 110 g de beurre, 30 cl de lait, muscade, piment d'Espelette, variante 150 g d'emmental ou chapelure ; oignon sué au beurre, ail « avant la fin de la cuisson de l'oignon », translucide ; moulin à légumes ; beurre puis lait chaud ; purée, viande, purée ; surface lissée à la spatule coudée ; 200 °C jusqu'à dorure ; « servir immédiatement » ; durée 1 h 30 ; réponse du Chef Philippe du 6 février 2020 (« la veille et le réchauffer ») ; Parmentier présenté comme le « créateur » du plat.",
+  "Chef Simon, « Hachis parmentier » (publié le 7 décembre 2011, modifié le 10 mai 2026) : pour 6, 1 kg de purée, 700 g de viande (restes de rôti, hachis porc et veau, bœuf haché), 3 gousses d'ail, 3 oignons, 3 échalotes, huile, 150 g de fromage ; viande revenue, « en ayant dégraissé si nécessaire », purée « beurrée et légèrement crémée », lisser, four préchauffé à 180 °C, une trentaine de minutes ; « En cuisine rien ne se perd » ; préparation 30 min, cuisson 30 min. « Purée de pommes de terre » : pour 4, 1 kg, 100 g de beurre, 5 cl de crème, muscade ; presse-purée ou moulin pour éviter une purée « cordée » ; « souple sans être liquide » ; mise au point avec un peu de lait.",
+  "Académie du Goût (rédaction) : pour 6, 700 g de chair farineuse, 3 carottes facultatives, 100 ml de lait, 4 c. à s. de crème, 40 g de beurre, 400 g de bœuf haché, 2 tomates, 2 oignons, 2 gousses, huile d'olive, farine, herbes de Provence, 1 jaune, 125 g d'emmental ; 20 à 25 minutes ; viande « une dizaine de minutes » ; fine couche de purée, viande, purée lissée ; 200 °C, 10 à 15 minutes ; « Servir immédiatement ». Alain Ducasse : pour 4, 1 kg d'Agria, 1 kg de restes de pot-au-feu, 1 oignon, 3 échalotes, 3 gousses suées 3 à 4 minutes, 80 g de mie de pain, 10 cl de lait, 1 œuf, purée à 20 cl de lait et 20 g de beurre, 100 g de chapelure ou panko ; suite réservée aux abonnés.",
+  "Hervé Cuisine (mis à jour le 12 novembre 2018) : 700 g de bœuf haché, 2 oignons, 2 carottes, 1 gousse, quatre-épices, thym, 1 bouillon de bœuf, persil plat, 1,5 kg de pommes de terre en cubes 30 minutes dans l'eau bouillante, 30 cl de lait, 75 g de beurre, 1 jaune (dans la purée), 50 g de parmesan ou gruyère ; viande « que vous détachez bien », 15 minutes ; purée, viande, dômes de purée ; 180 °C, 30 minutes ; petites cocottes ; préparation 45 min. Nuance : la page indique « Portion 8 ou + », pas exactement 8 ; les calculs « pour 4 » restent valables à peu près.",
+  "750g : article de Pascale Weeks (14 février 2022 ; ancienne rédactrice en chef de 750g pendant 9 ans) confirmé mot pour mot (chair farineuse, cuisson entière ou vapeur, « Évitez le mixeur », matières grasses sur pommes de terre bien chaudes, « trop de lait d'un seul coup ») ; recettes d'internautes : r1613 (publiée le 15 juillet 2015, modifiée le 16 novembre 2023 ; 1,2 kg, 750 g, 50 g de beurre, 60 cl de lait, viande crue au fond, 25 minutes à 180 °C) et r52027 (Stéph031, 2015 ; chair à saucisse, couteau « sans forcer », 20 minutes à 180 °C). Chef Simon, membre Nadji (6 octobre 2014) : quantités confirmées, conseil de chauffer le lait.",
+  "Escoffier, Le Guide culinaire, Émile Colin, 1903 (Wikisource) : « Hachis Parmentier » (pommes Hollande cuites au four, pulpe sautée au beurre, même poids de viande en petits dés, oignon, persil, filet de vinaigre, sauce Lyonnaise, dix minutes au four) et « Hachis à la Grand'Mère » (tiers de purée, plat en terre beurré, mince couche de purée, fromage et chapelure, four vif) ; purée : quartiers « cuits vivement à l'eau salée », 200 g de beurre par kilo, environ 2,5 dl de lait bouillant « petit à petit ». La variante 10 est exacte.",
+  "Wikipédia, « Hachis parmentier » (dernière modification le 22 septembre 2026) : « plat parisien » ; « apparu en 1892 » (Jean Vitaux) et « Fin XVIIIe siècle » dans l'infobox ; Antoine-Augustin Parmentier (1737-1813) ; citation de Frédéric Zégierman (eau de cuisson, pot-au-feu, oignon, persil, œuf) ; plat économique pour les restes ; pâté chinois avec du maïs ; cottage pie et shepherd's pie ; orthographes selon l'Académie française et le TLFi (Parmentier) et Larousse (parmentier). Articles liés en 5 langues (ca, en, es, ja, pt), pas en arabe ; le Wiktionnaire n'a pas de traduction arabe : noms arabe et darija laissés vides à raison.",
+  "Inspirations Cuisine (Sébastien, 22 avril 2021) et Pradel (17 janvier 2024) : quantités, 210 °C 30 à 45 minutes, salade verte (Inspirations) ; stries à la fourchette « pour aider à obtenir une belle coloration », concentré de tomate, 200 °C 20 minutes (Pradel) : confirmés.",
+  "Calculs refaits (python3 -I) : viande pour 4, médiane 433 g (six sources) et 408 g (quatre au bœuf cru) ; pommes de terre 1 kg ; beurre 50 g par kilo (cinq recettes ; 50 g aussi avec Pradel) ; lait 200 ml par kilo (200 ml aussi avec Pradel, 7 c. à s. ≈ 105 ml) ; oignon et ail, médiane 1,17 pour 4 ; fromage 25 à 150 g, médiane 83 g. Conversions justes (20 cl = 200 ml ; 30 cl = 300 ml ; 2,5 dl = 250 ml).",
+  "Sécurité de la viande : Anses E. coli (11 juillet 2022 : viande hachée de bœuf crue ou peu cuite parmi les aliments les plus en cause ; enfants de moins de 15 ans, surtout de moins de 5 ans, et personnes âgées ; savon après les aliments crus ; « cuire à cœur (70 °C) les viandes hachées » pour les populations sensibles) ; FSA « Cooking your food » (18 décembre 2017 : le hachage porte les bactéries de la surface dans toute la viande ; signes : vapeur au centre et viande qui brunit ; burgers jamais rosés ; 70 °C pendant 2 minutes) ; Santé Canada (71 °C). L'étape 5 et son astuce sont justes.",
+  "Hygiène et restes : Anses « dix gestes » (24 décembre 2020 : une planche pour la viande crue, une autre pour les produits cuits et les légumes ; pas plus de 2 heures à température ambiante ; moins de 3 jours conseillé pour les plats cuisinés sans date limite ; 4 °C) ; Anses DLC (4 janvier 2021 : récipient couvert jusqu'à la vapeur ; décongélation au réfrigérateur ; 3 jours au plus ; pas de recongélation) ; FSA (restes au réfrigérateur dans les 2 heures, mangés sous 48 heures ou congelés, réchauffés une seule fois, lasagnes mieux réchauffées en petites portions ; 0 à 5 °C ; décongelé, à manger sous 24 heures ; viande crue en bas ; eau chaude savonneuse). Service, restes et erreurs 4 à 8 : conformes.",
+  "Pommes de terre : BfR (communiqué 15/2018 du 23 avril 2018 : au frais, au sec, dans le noir ; parties vertes et « yeux » largement retirés ; plat amer à ne pas manger ; eau de cuisson à ne pas réutiliser ; glycoalcaloïdes concentrés dans les tubercules verts, germés, abîmés et dans la peau) ; ACIA (modifié le 9 décembre 2019 : « Glycoalkaloids are not destroyed by cooking » ; surtout dans la peau ; jeter les très verts ; pas de pommes de terre amères) ; EFSA (11 août 2020 : épluchage 25 à 75 %, cuisson à l'eau 5 à 65 %). Nuance : « la cuisson ne la détruit pas » vient de l'ACIA, pas du communiqué du BfR ; la phrase cite les deux, elle reste juste.",
+  "Halal : bœuf haché halal ; aucune des recettes lues ne met de vin (Meilleur du Chef cite seulement du porto blanc dans des versions de bistrot revisitées, non repris) ; sauce Lyonnaise et vinaigre d'Escoffier non repris ; chair à saucisse et hachis porc et veau (Chef Simon, 750g r52027) bien écartés ; fromage facultatif avec la note sur la présure ; bouillon seulement certifié halal, en variante.",
+  "Rendu dans l'appli, recalculé avec le code de app.html (fmtQ, fill) pour 1, 4 et 8 personnes : pommes de terre 250 g, 1 kg, 2 kg ; beurre 13 g, 50 g, 100 g ; lait 50 ml, 200 ml, 400 ml ; « ¼ oignon moyen », « 1 oignon moyen », « 2 oignons moyens » ; « ¼ gousse d'ail », « 1 gousse d'ail », « 2 gousses d'ail » ; bœuf 100 g, 400 g, 800 g ; persil ¼ botte (⅛ arrondi au quart), ½ botte, 1 botte. Quand q est null, {{eau}}, {{huile}}, {{sel}}, {{poivre}}, {{muscade}}, {{fromage}} et {{beurre-plat}} affichent bien leur nom (« casserole d'eau », « filet d'huile d'olive »…). Tous les {{id}} des étapes existent.",
+  "Cohérence interne : minuteurs 30 + 30 = 60 minutes = time.cook ; les quantités de la liste sont celles des étapes ; four à 180 °C pendant 30 minutes, seule combinaison donnée par deux sources (Chef Simon, Hervé Cuisine) ; recette non classée « Rapide ».",
+  "Variantes et secrets, chacun relu dans sa source : pot-au-feu avec œuf (Meilleur du Chef, Zégierman), échalotes et mie de pain (Alain Ducasse), trois couches (Meilleur du Chef, Académie du Goût, Hervé Cuisine), tomates (Académie du Goût, Inspirations Cuisine, Pradel), thym et quatre-épices (Hervé Cuisine), herbes de Provence (Académie du Goût), jaune dans la purée (Hervé Cuisine), crème (Académie du Goût, Chef Simon, Inspirations Cuisine), chapelure ou panko (Meilleur du Chef, Alain Ducasse), cocottes (Hervé Cuisine), cottage pie et pâté chinois (Wikipédia) ; les autres secrets (tous sauf secrets[11], corrigé) sont conformes à leurs sources."
+ ],
+ "non_verifiable": [
+  "Recherche web indisponible (quota épuisé) : pages ouvertes directement seulement. Aucune autre recette de grand chef ni de grand média français n'a pu être trouvée ; seule source française ajoutée : Wikilivres (recette collaborative).",
+  "USDA FSIS (« Ground Beef and Food Safety », « Leftovers and Food Safety ») : le site répond HTTP 403 « Access Denied », y compris pour son robots.txt ; non utilisé, sans contournement. Santé Canada sert de recoupement officiel à la place.",
+  "Noms arabe et darija : aucune source trouvée (Wikipédia sans article arabe, Wiktionnaire sans traduction arabe) ; les champs vides sont justifiés, mais un nom courant au Maroc n'a pas pu être cherché sans moteur de recherche.",
+  "Alain Ducasse : la suite des étapes est réservée aux abonnés ; seuls les ingrédients et le début ont été relus.",
+  "Livres cités par Wikipédia (Jean Vitaux ; Frédéric Zégierman via keldelice.com) : non lus ; leurs dates et leur description restent « selon Wikipédia ».",
+  "Temps de préparation (25 min) : estimation de l'auteur ; les sources donnent 20 à 45 min selon les recettes (Chef Simon 30, Hervé Cuisine 45, Académie du Goût 30).",
+  "Variétés vendues au Maroc (Bintje, Agria) et statut halal des fromages et bouillons vendus au Maroc : non vérifiés."
+ ]
+}

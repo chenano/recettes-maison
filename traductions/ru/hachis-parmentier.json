@@ -1,0 +1,538 @@
+{
+ "_slug": "hachis-parmentier",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Hachis parmentier",
+   "t": "Аши пармантье (запеканка с фаршем)"
+  },
+  "tagline": {
+   "fr": "Du bœuf haché bien cuit avec de l'oignon, sous une purée maison dorée au four : le grand plat familial français, sans vin.",
+   "t": "Хорошо прожаренный говяжий фарш с луком под домашним картофельным пюре, подрумяненным в духовке: классическое французское семейное блюдо, без вина."
+  },
+  "region": {
+   "fr": "France. Plat parisien selon Wikipédia (d'après le journaliste Frédéric Zégierman), nommé en l'honneur d'Antoine-Augustin Parmentier (1737-1813), qui a popularisé la pomme de terre en France. Ses cousins : le cottage pie britannique et le pâté chinois québécois (Wikipédia).",
+   "t": "Франция. Парижское блюдо, по данным Wikipédia (со ссылкой на журналиста Frédéric Zégierman), названное в честь Antoine-Augustin Parmentier (1737–1813), который популяризировал картофель во Франции. Его родственники — британский коттедж-пай и квебекский пате шинуа (Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Plat familial, réconfortant et économique. C'est aussi le plat français classique pour utiliser des restes de viande, comme le pot-au-feu ou le rôti (Wikipédia, Chef Simon).",
+   "t": "Семейное блюдо — сытное, уютное и недорогое. Это также классическое французское блюдо для остатков мяса, например от пот-о-фё или запечённого мяса (Wikipédia, Chef Simon)."
+  },
+  "img_alt": {
+   "fr": "Hachis parmentier gratiné et entamé : la purée sur la viande hachée",
+   "t": "Запечённый аши пармантье, от которого уже взяли порцию: пюре поверх фарша"
+  },
+  "serving": {
+   "fr": "Bien chaud, dès la sortie du four (Meilleur du Chef, Académie du Goût), en plat unique. Inspirations Cuisine le sert avec une salade verte. Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 48 heures (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné) ; sinon, au congélateur (FSA). Réchauffe une seule fois, au four ou au micro-ondes, jusqu'à ce que ce soit fumant au centre ; un grand plat se réchauffe mieux en petites portions (FSA). L'Anses conseille de réchauffer dans un plat couvert, jusqu'à ce que la vapeur s'échappe. Décongèle au réfrigérateur et mange dans les 24 heures (FSA ; l'Anses dit 3 jours au plus, sans recongeler).",
+   "t": "Очень горячим, сразу из духовки (Meilleur du Chef, Académie du Goût), как самостоятельное блюдо. Inspirations Cuisine подаёт его с зелёным салатом. Остатки: в холодильник в течение 2 часов (Anses, FSA), съесть в течение 48 часов (FSA; по Anses — менее 3 дней для готового блюда); иначе — в морозильник (FSA). Разогревайте только один раз, в духовке или в микроволновке, пока в центре не пойдёт пар; большое блюдо лучше разогревать небольшими порциями (FSA). Anses советует разогревать в накрытой посуде, пока не начнёт выходить пар. Размораживайте в холодильнике и съешьте в течение 24 часов (FSA; по Anses — не более 3 дней, без повторной заморозки)."
+  },
+  "ing.0.group": {
+   "fr": "Purée maison",
+   "t": "Домашнее пюре"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair farineuse",
+   "t": "рассыпчатого картофеля"
+  },
+  "ing.pdt.note": {
+   "fr": "type Bintje ou Agria ; ni vertes, ni germées",
+   "t": "например, сорта Bintje или Agria; не позеленевший и не проросший"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "вода"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, salée",
+   "t": "большая кастрюля, подсоленная"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "сливочного масла"
+  },
+  "ing.beurre.note": {
+   "fr": "en morceaux",
+   "t": "кусочками"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "молока"
+  },
+  "ing.muscade.name": {
+   "fr": "noix de muscade",
+   "t": "мускатный орех"
+  },
+  "ing.muscade.note": {
+   "fr": "à râper",
+   "t": "для натирания"
+  },
+  "ing.1.group": {
+   "fr": "Viande",
+   "t": "Мясо"
+  },
+  "ing.huile.name": {
+   "fr": "huile d'olive",
+   "t": "оливковое масло"
+  },
+  "ing.huile.note": {
+   "fr": "un filet ; ou une huile neutre",
+   "t": "немного; или растительное масло"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.boeuf.name": {
+   "fr": "de bœuf haché halal",
+   "t": "говяжьего фарша халяль"
+  },
+  "ing.boeuf.note": {
+   "fr": "bien frais ; garde-le au réfrigérateur jusqu'au dernier moment",
+   "t": "совсем свежий; держите его в холодильнике до последней минуты"
+  },
+  "ing.persil.name": {
+   "fr": "de persil",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.2.group": {
+   "fr": "Assaisonnement et plat",
+   "t": "Приправы и форма для запекания"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "чёрный перец"
+  },
+  "ing.beurre-plat.name": {
+   "fr": "beurre",
+   "t": "сливочное масло"
+  },
+  "ing.beurre-plat.note": {
+   "fr": "un petit morceau, pour le plat",
+   "t": "небольшой кусочек, для формы"
+  },
+  "ing.fromage.name": {
+   "fr": "fromage râpé",
+   "t": "тёртый сыр"
+  },
+  "ing.fromage.note": {
+   "fr": "facultatif : une petite poignée d'emmental, de comté ou de gruyère ; à coagulant microbien, sans présure animale, si tu veux être strict",
+   "t": "по желанию: небольшая горсть эмменталя, конте или грюйера; если хотите быть строгими — сыр на микробном ферменте, без сычужного фермента животного происхождения"
+  },
+  "equipment.0": {
+   "fr": "Une grande casserole et une passoire",
+   "t": "Большая кастрюля и дуршлаг"
+  },
+  "equipment.1": {
+   "fr": "Un économe et un couteau",
+   "t": "Овощечистка и нож"
+  },
+  "equipment.2": {
+   "fr": "Deux planches à découper : une pour la viande crue, une pour le reste (Anses)",
+   "t": "Две разделочные доски: одна для сырого мяса, другая для всего остального (Anses)"
+  },
+  "equipment.3": {
+   "fr": "Une grande poêle ou une sauteuse, et une cuillère en bois",
+   "t": "Большая сковорода или сотейник и деревянная ложка"
+  },
+  "equipment.4": {
+   "fr": "Un moulin à légumes ou un presse-purée (pas de mixeur)",
+   "t": "Овощная мельница или толкушка для пюре (не блендер)"
+  },
+  "equipment.5": {
+   "fr": "Une petite casserole, pour le lait",
+   "t": "Маленькая кастрюля для молока"
+  },
+  "equipment.6": {
+   "fr": "Un plat à gratin",
+   "t": "Форма для запекания"
+  },
+  "equipment.7": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "Кулинарный термометр (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "Очистите картофель"
+  },
+  "steps.0.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre. Retire les parties vertes et les germes. Lave-les, puis coupe les plus grosses en deux ou en quatre, pour avoir des morceaux de taille égale.",
+   "t": "Очистите {{pdt}} картофеля. Удалите зелёные участки и ростки. Промойте клубни, затем крупные разрежьте пополам или на четыре части, чтобы кусочки были одинакового размера."
+  },
+  "steps.0.tip": {
+   "fr": "Jette une pomme de terre très verte, abîmée ou amère. Les parties vertes et les germes concentrent la solanine, qui peut causer une intoxication, et la cuisson ne la détruit pas (BfR, agence allemande ; ACIA, agence canadienne). L'épluchage en enlève une bonne partie (EFSA).",
+   "t": "Выбросьте картофелину, если она сильно позеленела, повреждена или горчит. В зелёных участках и ростках накапливается соланин, который может вызвать отравление, и при тепловой обработке он не разрушается (BfR, немецкое агентство; ACIA, канадское агентство). При очистке удаляется значительная его часть (EFSA)."
+  },
+  "steps.1.title": {
+   "fr": "Cuis les pommes de terre",
+   "t": "Отварите картофель"
+  },
+  "steps.1.text": {
+   "fr": "Mets les pommes de terre dans une grande casserole et couvre-les d'{{eau}} froide salée. Porte à ébullition, puis laisse cuire environ 30 minutes. Elles sont cuites quand la pointe d'un couteau s'y enfonce sans résistance.",
+   "t": "Положите картофель в большую кастрюлю и залейте холодной подсоленной водой. Доведите до кипения, затем варите около 30 минут. Картофель готов, когда кончик ножа входит в него без сопротивления."
+  },
+  "steps.1.tip": {
+   "fr": "Pendant la cuisson des pommes de terre, prépare la viande.",
+   "t": "Пока варится картофель, приготовьте мясо."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Картофель"
+  },
+  "steps.1.timer.done": {
+   "fr": "Pique un morceau : le couteau doit entrer sans résistance.",
+   "t": "Проткните кусочек: нож должен входить без сопротивления."
+  },
+  "steps.2.title": {
+   "fr": "Hache l'oignon et l'ail",
+   "t": "Измельчите лук и чеснок"
+  },
+  "steps.2.text": {
+   "fr": "Pèle et hache finement {{oignon:full}} et {{ail:full}}. Lave et hache {{persil}} de persil.",
+   "t": "Очистите и мелко нарежьте лук ({{oignon}} шт.) и {{ail:full}}. Вымойте и нарежьте {{persil}} петрушки."
+  },
+  "steps.2.tip": {
+   "fr": "Coupe les légumes avant de toucher la viande crue, ou prends une autre planche : l'Anses conseille une planche pour la viande crue et une autre pour le reste.",
+   "t": "Нарежьте овощи, прежде чем прикасаться к сырому мясу, или возьмите другую доску: Anses советует одну доску для сырого мяса, а другую — для всего остального."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, нарубленная ножом на доске"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Нарезка зелени"
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Спассеруйте лук"
+  },
+  "steps.3.text": {
+   "fr": "Dans la grande poêle, chauffe un filet d'{{huile}}. Ajoute l'oignon et fais-le cuire en remuant, jusqu'à ce qu'il devienne translucide. Ajoute l'ail juste avant la fin de la cuisson de l'oignon et mélange.",
+   "t": "В большой сковороде разогрейте немного оливкового масла. Добавьте лук и готовьте, помешивая, пока он не станет прозрачным. Чеснок добавьте незадолго до того, как лук будет готов, и перемешайте."
+  },
+  "steps.4.title": {
+   "fr": "Fais cuire la viande",
+   "t": "Обжарьте мясо"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute {{boeuf}} de bœuf haché. Fais-le cuire 10 à 15 minutes environ, en remuant souvent et en séparant bien la viande avec la cuillère. Elle est prête quand elle a bruni partout, sans aucune trace rose, et qu'elle fume bien. Lave-toi les mains au savon après avoir touché la viande crue.",
+   "t": "Добавьте {{boeuf}} говяжьего фарша. Обжаривайте примерно 10–15 минут, часто помешивая и хорошо разбивая фарш ложкой. Фарш готов, когда он полностью подрумянился, нигде не осталось розового и от него идёт густой пар. Вымойте руки с мылом после того, как прикасались к сырому мясу."
+  },
+  "steps.4.tip": {
+   "fr": "La viande hachée doit toujours être cuite à cœur : le hachage répartit les bactéries de la surface dans toute la viande (FSA, agence britannique). L'Anses recommande 70 °C à cœur, surtout pour les jeunes enfants et les personnes âgées.",
+   "t": "Фарш всегда нужно прожаривать до самой середины: при измельчении бактерии с поверхности распределяются по всему мясу (FSA, британское агентство). Anses рекомендует 70 °C в центре, особенно для маленьких детей и пожилых людей."
+  },
+  "steps.5.title": {
+   "fr": "Assaisonne la viande",
+   "t": "Приправьте мясо"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute du {{sel}} et du {{poivre}}, puis le persil haché. Mélange et retire du feu.",
+   "t": "Добавьте {{sel}} и {{poivre}}, затем рубленую петрушку. Перемешайте и снимите с огня."
+  },
+  "steps.5.tip": {
+   "fr": "S'il y a beaucoup de graisse au fond de la poêle, retire-la avec une cuillère (Chef Simon).",
+   "t": "Если на дне сковороды много жира, удалите его ложкой (Chef Simon)."
+  },
+  "steps.6.title": {
+   "fr": "Allume le four",
+   "t": "Включите духовку"
+  },
+  "steps.6.text": {
+   "fr": "Préchauffe le four à 180 °C. Beurre le plat à gratin avec un petit morceau de {{beurre-plat}}.",
+   "t": "Разогрейте духовку до 180 °C. Смажьте форму для запекания небольшим кусочком сливочного масла."
+  },
+  "steps.7.title": {
+   "fr": "Chauffe le lait",
+   "t": "Подогрейте молоко"
+  },
+  "steps.7.text": {
+   "fr": "Fais chauffer {{lait:full}} dans une petite casserole, jusqu'à ce qu'il soit bien chaud.",
+   "t": "Подогрейте {{lait:full}} в маленькой кастрюле, пока оно не станет очень горячим."
+  },
+  "steps.8.title": {
+   "fr": "Écrase les pommes de terre",
+   "t": "Разомните картофель"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pommes de terre. Passe-les tout de suite, bien chaudes, au moulin à légumes ou au presse-purée. N'utilise pas de mixeur : la purée deviendrait collante.",
+   "t": "Слейте воду с картофеля. Сразу же, пока он очень горячий, протрите его через овощную мельницу или разомните толкушкой. Не используйте блендер: пюре станет клейким."
+  },
+  "steps.8.tip": {
+   "fr": "Jette l'eau de cuisson : l'agence allemande BfR conseille de ne pas la réutiliser.",
+   "t": "Вылейте воду, в которой варился картофель: немецкое агентство BfR советует не использовать её повторно."
+  },
+  "steps.9.title": {
+   "fr": "Termine la purée",
+   "t": "Доведите пюре до готовности"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute {{beurre}} de beurre en morceaux et mélange. Verse ensuite le lait chaud petit à petit, en mélangeant avec une spatule, jusqu'à obtenir une purée souple mais pas liquide. Sale, poivre et râpe un peu de {{muscade}}.",
+   "t": "Добавьте {{beurre}} сливочного масла кусочками и перемешайте. Затем понемногу вливайте горячее молоко, перемешивая лопаткой, пока пюре не станет мягким, но не жидким. Посолите, поперчите и натрите немного мускатного ореха."
+  },
+  "steps.9.tip": {
+   "fr": "Le beurre se met quand les pommes de terre sont encore bien chaudes. Le lait se verse petit à petit : versé d'un coup, il rend la purée trop liquide (750g, Pascale Weeks).",
+   "t": "Масло добавляют, пока картофель ещё очень горячий. Молоко вливают понемногу: если влить его сразу, пюре станет слишком жидким (750g, Pascale Weeks)."
+  },
+  "steps.10.title": {
+   "fr": "Monte le hachis",
+   "t": "Соберите запеканку"
+  },
+  "steps.10.text": {
+   "fr": "Étale la viande au fond du plat. Couvre-la avec toute la purée et lisse le dessus avec une spatule. Si tu veux, parsème un peu de {{fromage}}.",
+   "t": "Выложите мясо ровным слоем на дно формы. Накройте его всем пюре и разровняйте поверхность лопаткой. По желанию слегка посыпьте тёртым сыром."
+  },
+  "steps.10.tip": {
+   "fr": "Trace des stries sur la purée avec une fourchette : elle dorera mieux (Pradel).",
+   "t": "Проведите вилкой бороздки по пюре: так оно лучше подрумянится (Pradel)."
+  },
+  "steps.11.title": {
+   "fr": "Enfourne pour 30 minutes",
+   "t": "Запекайте 30 минут"
+  },
+  "steps.11.text": {
+   "fr": "Enfourne pour environ 30 minutes, jusqu'à ce que le dessus soit bien doré. Le centre du plat doit être brûlant et fumant.",
+   "t": "Поставьте форму в духовку примерно на 30 минут, пока верх хорошо не подрумянится. В центре блюдо должно быть обжигающе горячим, и от него должен идти пар."
+  },
+  "steps.11.tip": {
+   "fr": "Si le hachis a été préparé à l'avance et sort du réfrigérateur, laisse-le plus longtemps, jusqu'à ce qu'il soit fumant au centre (Chef Simon ; FSA).",
+   "t": "Если запеканку приготовили заранее и достали из холодильника, держите её в духовке дольше, пока в центре не пойдёт пар (Chef Simon; FSA)."
+  },
+  "steps.11.timer.label": {
+   "fr": "Hachis au four",
+   "t": "Запеканка в духовке"
+  },
+  "steps.11.timer.done": {
+   "fr": "Le dessus est doré ? Sors le plat du four.",
+   "t": "Верх подрумянился? Достаньте форму из духовки."
+  },
+  "steps.12.title": {
+   "fr": "Sers aussitôt",
+   "t": "Сразу подавайте"
+  },
+  "steps.12.text": {
+   "fr": "Sers le hachis bien chaud, dès la sortie du four.",
+   "t": "Подавайте запеканку очень горячей, сразу из духовки."
+  },
+  "steps.12.tip": {
+   "fr": "Restes : au réfrigérateur dans les 2 heures, à manger sous 2 jours, réchauffés une seule fois jusqu'à être fumants au centre (FSA, Anses).",
+   "t": "Остатки: в холодильник в течение 2 часов, съесть в течение 2 дней, разогревать только один раз, пока в центре не пойдёт пар (FSA, Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Pour la purée, prends des pommes de terre à chair farineuse, comme la Bintje ou l'Agria.",
+   "t": "Для пюре берите рассыпчатый картофель, например сорта Bintje или Agria."
+  },
+  "secrets.0.source": {
+   "fr": "Meilleur du Chef (Bintje) ; Alain Ducasse (Agria) ; Académie du Goût (chair farineuse) ; 750g, Pascale Weeks (chair farineuse)",
+   "t": "Meilleur du Chef (Bintje); Alain Ducasse (Agria); Académie du Goût (рассыпчатый картофель); 750g, Pascale Weeks (рассыпчатый картофель)"
+  },
+  "secrets.1.text": {
+   "fr": "Écrase les pommes de terre au moulin à légumes ou au presse-purée, jamais au mixeur : il libère trop d'amidon et rend la purée collante.",
+   "t": "Протирайте картофель через овощную мельницу или разминайте толкушкой, но никогда не блендером: он высвобождает слишком много крахмала, и пюре становится клейким."
+  },
+  "secrets.1.source": {
+   "fr": "Chef Simon (purée « cordée ») ; 750g, Pascale Weeks",
+   "t": "Chef Simon («тягучее» пюре); 750g, Pascale Weeks"
+  },
+  "secrets.2.text": {
+   "fr": "Mets le beurre quand les pommes de terre sont encore bien chaudes, puis le lait chaud.",
+   "t": "Добавляйте масло, пока картофель ещё очень горячий, а затем горячее молоко."
+  },
+  "secrets.2.source": {
+   "fr": "Meilleur du Chef ; Escoffier (lait bouillant) ; 750g, Pascale Weeks",
+   "t": "Meilleur du Chef; Escoffier (кипящее молоко); 750g, Pascale Weeks"
+  },
+  "secrets.3.text": {
+   "fr": "Verse le lait petit à petit : la purée doit rester souple, sans devenir liquide.",
+   "t": "Вливайте молоко понемногу: пюре должно оставаться мягким и не становиться жидким."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon (« souple sans être liquide ») ; Escoffier (« petit à petit ») ; 750g, Pascale Weeks",
+   "t": "Chef Simon («мягкое, но не жидкое»); Escoffier («понемногу»); 750g, Pascale Weeks"
+  },
+  "secrets.4.text": {
+   "fr": "Un peu de noix de muscade râpée dans la purée, c'est le parfum classique.",
+   "t": "Немного тёртого мускатного ореха в пюре — классический аромат."
+  },
+  "secrets.4.source": {
+   "fr": "Meilleur du Chef ; Chef Simon (purée) ; Inspirations Cuisine ; Pradel",
+   "t": "Meilleur du Chef; Chef Simon (пюре); Inspirations Cuisine; Pradel"
+  },
+  "secrets.5.text": {
+   "fr": "Fais d'abord fondre l'oignon jusqu'à ce qu'il soit translucide, et ajoute l'ail seulement après.",
+   "t": "Сначала спассеруйте лук до прозрачности и только потом добавляйте чеснок."
+  },
+  "secrets.5.source": {
+   "fr": "Meilleur du Chef (ail ajouté avant la fin de la cuisson de l'oignon) ; Hervé Cuisine (ail ajouté après l'oignon, avec la viande)",
+   "t": "Meilleur du Chef (чеснок добавляют незадолго до готовности лука); Hervé Cuisine (чеснок добавляют после лука, вместе с мясом)"
+  },
+  "secrets.6.text": {
+   "fr": "La viande hachée se cuit toujours à cœur : plus aucune trace rose, et elle fume au centre.",
+   "t": "Фарш всегда прожаривают до самой середины: никаких розовых следов, и в центре от него идёт пар."
+  },
+  "secrets.6.source": {
+   "fr": "FSA (agence britannique) ; Anses (70 °C à cœur pour les populations sensibles)",
+   "t": "FSA (британское агентство); Anses (70 °C в центре для уязвимых групп)"
+  },
+  "secrets.7.text": {
+   "fr": "Retire l'excès de graisse de la viande avant de la mettre dans le plat.",
+   "t": "Удалите лишний жир из мяса, прежде чем выкладывать его в форму."
+  },
+  "secrets.7.source": {
+   "fr": "Chef Simon (« en ayant dégraissé si nécessaire »)",
+   "t": "Chef Simon («при необходимости удалив жир»)"
+  },
+  "secrets.8.text": {
+   "fr": "Le hachis parmentier est le plat idéal pour les restes : bœuf du pot-au-feu ou rôti, haché, à la place de la viande crue.",
+   "t": "Аши пармантье — идеальное блюдо для остатков: вместо сырого мяса возьмите измельчённую говядину из пот-о-фё или запечённую говядину."
+  },
+  "secrets.8.source": {
+   "fr": "Wikipédia (Frédéric Zégierman) ; Chef Simon ; Meilleur du Chef ; Alain Ducasse",
+   "t": "Wikipédia (Frédéric Zégierman), Chef Simon, Meilleur du Chef и Alain Ducasse"
+  },
+  "secrets.9.text": {
+   "fr": "Lisse bien la purée à la spatule ; des stries à la fourchette l'aident à dorer.",
+   "t": "Хорошо разровняйте пюре лопаткой; бороздки от вилки помогают ему подрумяниться."
+  },
+  "secrets.9.source": {
+   "fr": "Meilleur du Chef, Académie du Goût et Chef Simon (lisser) ; Pradel (stries)",
+   "t": "Meilleur du Chef, Académie du Goût и Chef Simon (разровнять); Pradel (бороздки)"
+  },
+  "secrets.10.text": {
+   "fr": "Tu peux préparer le hachis la veille et le réchauffer au moment du repas. Mets-le au réfrigérateur dans les 2 heures.",
+   "t": "Запеканку можно приготовить накануне и разогреть перед едой. Уберите её в холодильник в течение 2 часов."
+  },
+  "secrets.10.source": {
+   "fr": "Meilleur du Chef (réponse du Chef Philippe, 6 février 2020) ; Anses et FSA (2 heures au plus hors du réfrigérateur)",
+   "t": "Meilleur du Chef (ответ шефа Philippe, 6 февраля 2020 года); Anses и FSA (не более 2 часов вне холодильника)"
+  },
+  "secrets.11.text": {
+   "fr": "Le temps de four dépend des ingrédients : une trentaine de minutes, selon qu'ils sont encore chauds ou froids.",
+   "t": "Время запекания зависит от ингредиентов: около тридцати минут, в зависимости от того, горячие они ещё или уже холодные."
+  },
+  "secrets.11.source": {
+   "fr": "Chef Simon",
+   "t": "Chef Simon"
+  },
+  "secrets.12.text": {
+   "fr": "Sers dès la sortie du four.",
+   "t": "Подавайте сразу из духовки."
+  },
+  "secrets.12.source": {
+   "fr": "Meilleur du Chef ; Académie du Goût",
+   "t": "Meilleur du Chef; Académie du Goût"
+  },
+  "mistakes.0": {
+   "fr": "Mettre la viande hachée crue directement sous la purée : fais-la toujours cuire d'abord à la poêle, jusqu'à ce qu'il ne reste plus de rose (FSA, Anses). Une recette d'internaute sur 750g le fait : ne la suis pas.",
+   "t": "Класть сырой фарш прямо под пюре: всегда сначала обжаривайте его на сковороде, пока не исчезнет розовый цвет (FSA, Anses). Так делают в одном пользовательском рецепте на 750g — не следуйте ему."
+  },
+  "mistakes.1": {
+   "fr": "Mixer la purée : elle devient collante (Chef Simon, 750g).",
+   "t": "Взбивать пюре блендером: оно становится клейким (Chef Simon, 750g)."
+  },
+  "mistakes.2": {
+   "fr": "Verser tout le lait d'un coup : la purée devient trop liquide (750g, Pascale Weeks).",
+   "t": "Вливать всё молоко сразу: пюре становится слишком жидким (750g, Pascale Weeks)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les légumes sur la planche de la viande crue sans la laver (Anses).",
+   "t": "Резать овощи на доске для сырого мяса, не вымыв её (Anses)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier de te laver les mains au savon après avoir touché la viande crue (Anses, FSA).",
+   "t": "Забыть вымыть руки с мылом после того, как прикасались к сырому мясу (Anses, FSA)."
+  },
+  "mistakes.5": {
+   "fr": "Garder des pommes de terre vertes, germées, abîmées ou amères (BfR, ACIA).",
+   "t": "Оставлять позеленевший, проросший, повреждённый или горький картофель (BfR, ACIA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le plat plus de 2 heures à température ambiante (Anses, FSA).",
+   "t": "Оставлять блюдо при комнатной температуре дольше 2 часов (Anses, FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce que ce soit fumant (FSA).",
+   "t": "Разогревать остатки несколько раз: только один раз, пока не пойдёт пар (FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Prendre de la chair à saucisse ou un mélange porc et veau, comme le proposent certaines recettes (750g, Chef Simon) : ici, seulement du bœuf haché halal.",
+   "t": "Брать колбасный фарш или смесь свинины и телятины, как предлагают некоторые рецепты (750g, Chef Simon): здесь — только говяжий фарш халяль."
+  },
+  "mistakes.9": {
+   "fr": "Ajouter un cube de bouillon ou un fromage sans vérifier qu'ils sont halal.",
+   "t": "Добавлять бульонный кубик или сыр, не проверив, что они халяль."
+  },
+  "variants.0": {
+   "fr": "À l'ancienne, avec un reste de pot-au-feu (bœuf halal) : la viande cuite, hachée, mélangée à l'oignon fondu, au persil et à un œuf (Meilleur du Chef ; Wikipédia, d'après Frédéric Zégierman). Alain Ducasse ajoute des échalotes et de la mie de pain trempée dans le lait.",
+   "t": "По-старинному, из остатков пот-о-фё (говядина халяль): варёное мясо измельчают и смешивают с пассерованным луком, петрушкой и яйцом (Meilleur du Chef; Wikipédia, со ссылкой на Frédéric Zégierman). Alain Ducasse добавляет лук-шалот и хлебный мякиш, размоченный в молоке."
+  },
+  "variants.1": {
+   "fr": "En trois couches : purée, viande, puis purée (Meilleur du Chef, Académie du Goût, Hervé Cuisine).",
+   "t": "В три слоя: пюре, мясо, затем снова пюре (Meilleur du Chef, Académie du Goût, Hervé Cuisine)."
+  },
+  "variants.2": {
+   "fr": "Avec des carottes : cuites avec les pommes de terre dans la purée (Académie du Goût), revenues avec l'oignon (Hervé Cuisine), ou en petits dés ajoutés à la viande (Inspirations Cuisine).",
+   "t": "С морковью: сваренной вместе с картофелем и добавленной в пюре (Académie du Goût), обжаренной с луком (Hervé Cuisine) или нарезанной мелкими кубиками и добавленной к мясу (Inspirations Cuisine)."
+  },
+  "variants.3": {
+   "fr": "À la tomate : tomates fraîches en dés (Académie du Goût, Inspirations Cuisine) ou concentré de tomate (Pradel), mijotés avec la viande.",
+   "t": "С томатами: свежие помидоры кубиками (Académie du Goût, Inspirations Cuisine) или томатная паста (Pradel), потушенные вместе с мясом."
+  },
+  "variants.4": {
+   "fr": "Plus parfumé : thym et mélange quatre-épices (Hervé Cuisine), ou herbes de Provence (Académie du Goût). Hervé Cuisine et Inspirations Cuisine ajoutent du bouillon de bœuf : prends-le certifié halal.",
+   "t": "Ароматнее: тимьян и смесь «четыре специи» (Hervé Cuisine) или прованские травы (Académie du Goût). Hervé Cuisine и Inspirations Cuisine добавляют говяжий бульон: берите бульон с сертификатом халяль."
+  },
+  "variants.5": {
+   "fr": "Purée plus riche : un jaune d'œuf (Hervé Cuisine), ou un peu de crème fraîche (Académie du Goût, Chef Simon, Inspirations Cuisine).",
+   "t": "Более насыщенное пюре: яичный желток (Hervé Cuisine) или немного крем-фреш (Académie du Goût, Chef Simon, Inspirations Cuisine)."
+  },
+  "variants.6": {
+   "fr": "Gratiné au fromage râpé (Chef Simon, Académie du Goût, Hervé Cuisine) ou à la chapelure (Meilleur du Chef ; panko chez Alain Ducasse).",
+   "t": "Запечённое под тёртым сыром (Chef Simon, Académie du Goût, Hervé Cuisine) или под панировочными сухарями (Meilleur du Chef; панко у Alain Ducasse)."
+  },
+  "variants.7": {
+   "fr": "Avec des échalotes en plus de l'oignon (Chef Simon, Alain Ducasse).",
+   "t": "С луком-шалотом в дополнение к репчатому луку (Chef Simon, Alain Ducasse)."
+  },
+  "variants.8": {
+   "fr": "En portions individuelles, dans de petites cocottes (Hervé Cuisine).",
+   "t": "Порционно, в маленьких кокотницах (Hervé Cuisine)."
+  },
+  "variants.9": {
+   "fr": "Le « hachis Parmentier » d'Escoffier (1903) était un autre plat : des pommes de terre cuites au four, vidées, puis farcies de leur pulpe sautée au beurre et de viande en dés. Le plat en couches d'aujourd'hui ressemble plutôt à son « hachis à la grand-mère » : hachis lié à la purée, dans un plat en terre beurré, sous une fine couche de purée gratinée (Escoffier).",
+   "t": "«Аши Пармантье» у Escoffier (1903) было другим блюдом: картофель, запечённый в духовке, из которого вынимали мякоть, а затем начиняли его этой же мякотью, обжаренной на сливочном масле, и мясом, нарезанным кубиками. Нынешнее слоёное блюдо скорее похоже на его «аши по-бабушкиному»: рубленое мясо, связанное пюре, в смазанной маслом глиняной форме, под тонким слоем запечённого до корочки пюре (Escoffier)."
+  },
+  "variants.10": {
+   "fr": "Ailleurs : le cottage pie au Royaume-Uni, et le pâté chinois au Québec, avec une couche de maïs (Wikipédia).",
+   "t": "В других странах: коттедж-пай в Великобритании и пате шинуа в Квебеке, со слоем кукурузы (Wikipédia)."
+  }
+ }
+}

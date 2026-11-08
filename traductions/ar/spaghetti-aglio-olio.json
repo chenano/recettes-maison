@@ -1,0 +1,374 @@
+{
+ "_slug": "spaghetti-aglio-olio",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Spaghetti aglio, olio e peperoncino",
+   "t": "سباغيتي بالثوم وزيت الزيتون والفلفل الحار"
+  },
+  "tagline": {
+   "fr": "Des spaghettis enrobés d'huile d'olive parfumée à l'ail à peine blond et au piment : le grand classique napolitain, prêt pendant que les pâtes cuisent.",
+   "t": "سباغيتي مغلّفة بزيت الزيتون المعطّر بالفلفل الحار وبالثوم الذي صار ذهبيًا فاتحًا بالكاد: الطبق النابولي الكلاسيكي الشهير، يجهز في الوقت الذي تُسلق فيه المعكرونة."
+  },
+  "region": {
+   "fr": "Italie. Attribué par tradition au Latium, il est né à Naples et en Campanie selon Turismo Roma et Reporter Gourmet ; l'origine reste discutée entre la Toscane, Naples et Rome (Dissapore)",
+   "t": "إيطاليا. يُنسب تقليديًا إلى منطقة لاتسيو، لكنه نشأ في نابولي وكامبانيا حسب Turismo Roma وReporter Gourmet؛ ويبقى أصله محلّ نقاش بين توسكانا ونابولي وروما (Dissapore)"
+  },
+  "occasion": {
+   "fr": "Dîner express des soirs de fatigue, avec des ingrédients qu'on a toujours à la maison (Turismo Roma) ; Antonio Carluccio en fait même un plat de minuit",
+   "t": "عشاء سريع لأمسيات التعب، بمكوّنات موجودة دائمًا في البيت (Turismo Roma)؛ بل يجعله Antonio Carluccio طبقًا لمنتصف الليل"
+  },
+  "img_alt": {
+   "fr": "Spaghetti à l'ail, à l'huile d'olive et au piment rouge, avec du persil",
+   "t": "سباغيتي بالثوم وزيت الزيتون والفلفل الأحمر الحار، مع البقدونس"
+  },
+  "serving": {
+   "fr": "Tout de suite, bien chaud, avec un peu de persil cru par-dessus (Turismo Roma, Dissapore). Giorgio Locatelli conseille une salade verte à côté (Reporter Gourmet). S'il en reste, mets les restes au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+   "t": "قدّم الطبق فورًا وهو ساخن جدًا، مع قليل من البقدونس النيء فوقه (Turismo Roma، Dissapore). وينصح Giorgio Locatelli بسلطة خضراء بجانبه (Reporter Gourmet). إن بقي منه شيء، فضع البقايا في الثلاجة خلال 2 ساعة (1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية)، وسخّنها جيدًا حتى تبلغ حرارة قلبها 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية؛ وAnses بالنسبة إلى مهلة 2 ساعة)."
+  },
+  "ing.0.group": {
+   "fr": "Pâtes",
+   "t": "المعكرونة"
+  },
+  "ing.spaghetti.name": {
+   "fr": "de spaghettis",
+   "t": "سباغيتي"
+  },
+  "ing.spaghetti.note": {
+   "fr": "ou de vermicelles ou de linguine",
+   "t": "أو فيرميشيلي أو لينغويني"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "ماء"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, pour cuire les pâtes",
+   "t": "ما يملأ قدرًا كبيرًا، لسلق المعكرونة"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "pour l'eau des pâtes : c'est le seul sel de la recette",
+   "t": "لماء المعكرونة: هو الملح الوحيد في الوصفة"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "الصلصة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive vierge extra",
+   "t": "زيت زيتون بكر ممتاز"
+  },
+  "ing.huile.note": {
+   "fr": "de bonne qualité : c'est elle, la sauce",
+   "t": "جيد الجودة: فهو الصلصة نفسها"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.piment.name": {
+   "fr": "piment rouge fort",
+   "t": "حبة فلفل أحمر حار"
+  },
+  "ing.piment.pl": {
+   "fr": "piments rouges forts",
+   "t": "حبات فلفل أحمر حار"
+  },
+  "ing.piment.note": {
+   "fr": "frais de préférence, sinon sec",
+   "t": "يُفضَّل أن تكون طازجة، وإلا فمجففة"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "بقدونس"
+  },
+  "ing.persil.note": {
+   "fr": "selon le goût, facultatif",
+   "t": "حسب الذوق، اختياري"
+  },
+  "ing.eau-cuisson.name": {
+   "fr": "eau de cuisson des pâtes",
+   "t": "ماء سلق المعكرونة"
+  },
+  "ing.eau-cuisson.note": {
+   "fr": "quelques cuillerées, prises dans la casserole",
+   "t": "بضع ملاعق، تؤخذ من القدر"
+  },
+  "equipment.0": {
+   "fr": "Une grande casserole avec son couvercle, pour beaucoup d'eau",
+   "t": "قدر كبير بغطائه، يتسع لكمية كبيرة من الماء"
+  },
+  "equipment.1": {
+   "fr": "Une grande poêle ou une sauteuse, assez large pour y faire sauter les pâtes",
+   "t": "مقلاة كبيرة أو مقلاة عميقة، واسعة بما يكفي لتقليب المعكرونة فيها"
+  },
+  "equipment.2": {
+   "fr": "Une passoire, ou une pince à pâtes pour sortir les spaghettis de l'eau",
+   "t": "مصفاة، أو ملقط معكرونة لإخراج السباغيتي من الماء"
+  },
+  "equipment.3": {
+   "fr": "Un bol, pour garder un peu d'eau de cuisson",
+   "t": "وعاء، للاحتفاظ بقليل من ماء السلق"
+  },
+  "equipment.4": {
+   "fr": "Une planche et un petit couteau bien aiguisé",
+   "t": "لوح تقطيع وسكين صغير حاد جدًا"
+  },
+  "steps.0.title": {
+   "fr": "Mets l'eau à chauffer",
+   "t": "ضع الماء على النار"
+  },
+  "steps.0.text": {
+   "fr": "Remplis une grande casserole d'{{eau}}, couvre-la et porte-la à ébullition.",
+   "t": "املأ قدرًا كبيرًا {{eau}}، وغطّه، واتركه على النار حتى يغلي."
+  },
+  "steps.0.tip": {
+   "fr": "Le couvercle fait économiser de l'énergie pendant que l'eau chauffe (étude des pastiers italiens d'Unione Italiana Food, citée par Il Giornale del Cibo).",
+   "t": "الغطاء يوفّر الطاقة في أثناء تسخين الماء (دراسة لصانعي المعكرونة الإيطاليين في Unione Italiana Food، ذكرها Il Giornale del Cibo)."
+  },
+  "steps.1.title": {
+   "fr": "Taille l'ail",
+   "t": "قطّع الثوم"
+  },
+  "steps.1.text": {
+   "fr": "Pèle {{ail:full}}. Coupe chaque gousse en deux dans la longueur, retire le germe du centre, puis taille-les en fines lamelles.",
+   "t": "قشّر {{ail:full}}. اقسم كل فص إلى نصفين بالطول، وانزع البرعم من وسطه، ثم قطّع الفصوص إلى شرائح رفيعة."
+  },
+  "steps.1.tip": {
+   "fr": "Tu n'aimes pas croquer l'ail ? Garde les gousses coupées en deux et retire-les de la poêle avant d'y mettre les pâtes, comme le fait Dissapore.",
+   "t": "لا تحب أن تقضم قطع الثوم؟ اترك الفصوص مقسومة إلى نصفين، وأخرجها من المقلاة قبل إضافة المعكرونة، كما يفعل Dissapore."
+  },
+  "steps.2.title": {
+   "fr": "Prépare le piment",
+   "t": "حضّر الفلفل الحار"
+  },
+  "steps.2.text": {
+   "fr": "Fends {{piment:full}} dans la longueur, retire les graines et taille la chair en fines lanières.",
+   "t": "شُقّ {{piment:full}} بالطول، وانزع البذور، ثم قطّعها إلى شرائح رفيعة."
+  },
+  "steps.3.title": {
+   "fr": "Hache le persil",
+   "t": "افرم البقدونس"
+  },
+  "steps.3.text": {
+   "fr": "Si tu en mets, hache finement le {{persil}} et garde-en un peu à part pour le service.",
+   "t": "إن كنت ستستعمله، فافرم البقدونس فرمًا ناعمًا، واحتفظ بقليل منه جانبًا للتقديم."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.4.title": {
+   "fr": "Lance les pâtes",
+   "t": "ابدأ سلق المعكرونة"
+  },
+  "steps.4.text": {
+   "fr": "Quand l'eau bout, sale-la bien avec le {{sel}}, puis plonge {{spaghetti}} de spaghettis. Regarde le temps de cuisson indiqué sur le paquet : tu les égoutteras un peu avant, bien al dente.",
+   "t": "عندما يغلي الماء، ملّحه جيدًا، ثم ضع فيه {{spaghetti}} من السباغيتي. انظر إلى مدة الطهي المكتوبة على العبوة: ستصفّيها قبلها بقليل، وهي ما تزال متماسكة (al dente)."
+  },
+  "steps.5.title": {
+   "fr": "Fais blondir l'ail à feu doux",
+   "t": "اطهُ الثوم على نار هادئة حتى يصفرّ"
+  },
+  "steps.5.text": {
+   "fr": "Pendant que les pâtes cuisent, verse {{huile}} d'huile d'olive dans la grande poêle. Ajoute l'ail et le piment, puis chauffe à feu doux. Laisse l'ail cuire tout doucement jusqu'à ce qu'il soit à peine blond : il ne doit jamais brunir.",
+   "t": "في أثناء سلق المعكرونة، اسكب {{huile}} من زيت الزيتون في المقلاة الكبيرة. أضف الثوم والفلفل الحار، ثم سخّن على نار هادئة. اترك الثوم ينضج على مهل حتى يصير ذهبيًا فاتحًا بالكاد: يجب ألا يصير بنيًّا أبدًا."
+  },
+  "steps.5.tip": {
+   "fr": "Autre façon (Turismo Roma, Dissapore, Giorgio Locatelli) : mets le piment seulement quand l'ail commence à blondir.",
+   "t": "طريقة أخرى (Turismo Roma، Dissapore، Giorgio Locatelli): لا تضع الفلفل الحار إلا عندما يبدأ الثوم في الاصفرار."
+  },
+  "steps.6.title": {
+   "fr": "Arrête la cuisson de l'ail",
+   "t": "أوقف طهي الثوم"
+  },
+  "steps.6.text": {
+   "fr": "Dès que l'ail est blond, retire la poêle du feu et verse quelques cuillerées d'{{eau-cuisson}}, prises dans la casserole. Cela arrête la cuisson de l'ail et allonge l'huile en sauce.",
+   "t": "بمجرد أن يصير الثوم ذهبيًا فاتحًا، ارفع المقلاة عن النار واسكب فيها بضع ملاعق من {{eau-cuisson}}، تأخذها من القدر. هذا يوقف طهي الثوم، ويخفّف الزيت فيحوّله إلى صلصة."
+  },
+  "steps.7.title": {
+   "fr": "Garde un peu d'eau",
+   "t": "احتفظ بقليل من الماء"
+  },
+  "steps.7.text": {
+   "fr": "Juste avant d'égoutter, puise encore un peu d'eau de cuisson dans un bol et garde-la à côté.",
+   "t": "قبيل التصفية مباشرة، اغرف قليلًا آخر من ماء السلق في وعاء، واحتفظ به بجانبك."
+  },
+  "steps.8.title": {
+   "fr": "Égoutte les pâtes al dente",
+   "t": "صفِّ المعكرونة وهي متماسكة"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les spaghettis encore bien al dente, ou sors-les de l'eau avec une pince.",
+   "t": "صفِّ السباغيتي وهي ما تزال متماسكة جيدًا، أو أخرجها من الماء بالملقط."
+  },
+  "steps.9.title": {
+   "fr": "Fais sauter pâtes et sauce",
+   "t": "قلّب المعكرونة مع الصلصة على النار"
+  },
+  "steps.9.text": {
+   "fr": "Remets la poêle sur le feu et verses-y les spaghettis. Mélange vivement avec la pince, en ajoutant un peu d'eau de cuisson si c'est sec, jusqu'à ce que les pâtes soient bien enrobées.",
+   "t": "أعد المقلاة إلى النار وضع فيها السباغيتي. قلّب بسرعة بالملقط، مع إضافة قليل من ماء السلق إذا جفّ الخليط، حتى تتغلّف المعكرونة جيدًا بالصلصة."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute le persil et sers",
+   "t": "أضف البقدونس وقدّم"
+  },
+  "steps.10.text": {
+   "fr": "Hors du feu, ajoute presque tout le persil, si tu en mets, et mélange. Sers aussitôt, bien chaud, avec le reste du persil par-dessus.",
+   "t": "بعيدًا عن النار، أضف البقدونس كله تقريبًا إن كنت تستعمله، وقلّب. قدّم الطبق فورًا وهو ساخن جدًا، مع بقية البقدونس فوقه."
+  },
+  "secrets.0.text": {
+   "fr": "L'ail doit cuire tout doucement et seulement blondir, sans jamais brunir ni brûler.",
+   "t": "يجب أن ينضج الثوم على مهل وأن يصير ذهبيًا فاتحًا فقط، دون أن يصير بنيًّا أو يحترق أبدًا."
+  },
+  "secrets.0.source": {
+   "fr": "Turismo Roma, Dissapore, Giorgio Locatelli ; Antonio Carluccio le veut même sans aucune couleur",
+   "t": "Turismo Roma، Dissapore، Giorgio Locatelli؛ بل يريده Antonio Carluccio بلا أي لون"
+  },
+  "secrets.1.text": {
+   "fr": "Dès que l'ail est blond, quelques cuillerées d'eau des pâtes versées dans l'huile arrêtent sa cuisson et allongent l'huile en sauce.",
+   "t": "بمجرد أن يصير الثوم ذهبيًا فاتحًا، فإن بضع ملاعق من ماء المعكرونة تُسكب في الزيت توقف طهيه، وتخفّف الزيت فيصير صلصة."
+  },
+  "secrets.1.source": {
+   "fr": "Turismo Roma, Giorgio Locatelli",
+   "t": "Turismo Roma، Giorgio Locatelli"
+  },
+  "secrets.2.text": {
+   "fr": "Prends cette eau au dernier moment : en fin de cuisson, elle est plus riche en amidon. Elle allège l'huile tout en lui donnant une consistance de sauce.",
+   "t": "خذ هذا الماء في اللحظة الأخيرة: ففي نهاية السلق يكون أغنى بالنشا. إنه يخفّف الزيت ويمنحه في الوقت نفسه قوام الصلصة."
+  },
+  "secrets.2.source": {
+   "fr": "Turismo Roma",
+   "t": "Turismo Roma"
+  },
+  "secrets.3.text": {
+   "fr": "Pas de sel dans la poêle : l'eau des pâtes, bien salée, assaisonne toute la sauce.",
+   "t": "لا ملح في المقلاة: ماء المعكرونة المملّح جيدًا يتبّل الصلصة كلها."
+  },
+  "secrets.3.source": {
+   "fr": "Turismo Roma (aucun autre sel n'est prévu) ; Dissapore (sel seulement pour l'eau des spaghettis)",
+   "t": "Turismo Roma (لا ملح آخر في الوصفة)؛ Dissapore (الملح لماء السباغيتي فقط)"
+  },
+  "secrets.4.text": {
+   "fr": "Égoutte les pâtes un peu avant la fin du temps du paquet : elles finissent de cuire dans la poêle, avec la sauce.",
+   "t": "صفِّ المعكرونة قبل انتهاء المدة المكتوبة على العبوة بقليل: فهي تكمل نضجها في المقلاة مع الصلصة."
+  },
+  "secrets.4.source": {
+   "fr": "Dissapore (une minute avant la fin), Turismo Roma",
+   "t": "Dissapore (قبل النهاية بدقيقة)، Turismo Roma"
+  },
+  "secrets.5.text": {
+   "fr": "La sauce se fait pendant que les pâtes cuisent : elle ne demande que quelques minutes.",
+   "t": "تُحضَّر الصلصة في أثناء سلق المعكرونة: فهي لا تحتاج إلا إلى بضع دقائق."
+  },
+  "secrets.5.source": {
+   "fr": "Antonio Carluccio (pas plus de 5 minutes), Turismo Roma",
+   "t": "Antonio Carluccio (لا أكثر من 5 دقائق)، Turismo Roma"
+  },
+  "secrets.6.text": {
+   "fr": "L'huile d'olive, c'est la sauce : prends une vierge extra de bonne qualité, au goût bien marqué.",
+   "t": "زيت الزيتون هو الصلصة: اختر زيتًا بكرًا ممتازًا جيد الجودة، ذا طعم واضح وقوي."
+  },
+  "secrets.6.source": {
+   "fr": "Dissapore (conseils de Piero Palanti, du guide Extravoglio), Giorgio Locatelli, Turismo Roma",
+   "t": "Dissapore (نصائح Piero Palanti من دليل Extravoglio)، Giorgio Locatelli، Turismo Roma"
+  },
+  "secrets.7.text": {
+   "fr": "Pas de fromage : Antonio Carluccio n'en met pas, et ni Turismo Roma ni les deux recettes de Dissapore n'en prévoient.",
+   "t": "لا جبن: لا يضعه Antonio Carluccio، ولا يذكره Turismo Roma ولا وصفتا Dissapore."
+  },
+  "secrets.7.source": {
+   "fr": "Antonio Carluccio (Great Italian Chefs), Turismo Roma, Dissapore",
+   "t": "Antonio Carluccio (Great Italian Chefs)، Turismo Roma، Dissapore"
+  },
+  "secrets.8.text": {
+   "fr": "Retire le germe de l'ail. Pour un goût plus doux, laisse les gousses entières ou en deux et retire-les avant d'ajouter les pâtes.",
+   "t": "انزع برعم الثوم. ولطعم ألطف، اترك الفصوص كاملة أو مقسومة إلى نصفين، وأخرجها قبل إضافة المعكرونة."
+  },
+  "secrets.8.source": {
+   "fr": "Dissapore (ses deux recettes)",
+   "t": "Dissapore (وصفتاه كلتاهما)"
+  },
+  "secrets.9.text": {
+   "fr": "Les tiges de persil hachées très fin, ajoutées avec le piment, parfument l'huile ; les feuilles se mettent à la fin, hors du feu.",
+   "t": "سيقان البقدونس المفرومة فرمًا ناعمًا جدًا، إذا أُضيفت مع الفلفل الحار، تعطّر الزيت؛ أما الأوراق فتوضع في النهاية، بعيدًا عن النار."
+  },
+  "secrets.9.source": {
+   "fr": "Turismo Roma",
+   "t": "Turismo Roma"
+  },
+  "secrets.10.text": {
+   "fr": "Spaghettis, vermicelles ou linguine : il faut une pâte longue, ni trop épaisse ni trop large.",
+   "t": "سباغيتي أو فيرميشيلي أو لينغويني: يلزم نوع طويل من المعكرونة، لا هو سميك جدًا ولا عريض جدًا."
+  },
+  "secrets.10.source": {
+   "fr": "Turismo Roma ; Dissapore (d'après le gastronome Carnacina)",
+   "t": "Turismo Roma؛ Dissapore (نقلًا عن خبير الطعام Carnacina)"
+  },
+  "secrets.11.text": {
+   "fr": "C'est un plat pauvre de Naples : selon Turismo Roma, on le faisait quand on ne pouvait pas s'offrir les palourdes.",
+   "t": "إنه طبق فقراء من نابولي: حسب Turismo Roma، كان يُحضَّر حين لا يقدر الناس على شراء المحار."
+  },
+  "secrets.11.source": {
+   "fr": "Turismo Roma ; Reporter Gourmet (article sur Giorgio Locatelli) le rapproche lui aussi des vermicelles aux palourdes",
+   "t": "Turismo Roma؛ ويقرّبه Reporter Gourmet أيضًا (في مقال عن Giorgio Locatelli) من طبق الفيرميشيلي بالمحار"
+  },
+  "mistakes.0": {
+   "fr": "Laisser brunir ou brûler l'ail (Turismo Roma, Dissapore, Giorgio Locatelli).",
+   "t": "ترك الثوم يصير بنيًّا أو يحترق (Turismo Roma، Dissapore، Giorgio Locatelli)."
+  },
+  "mistakes.1": {
+   "fr": "Chauffer trop fort : l'ail cuit à feu doux (Turismo Roma, Antonio Carluccio).",
+   "t": "التسخين على نار قوية جدًا: الثوم يُطهى على نار هادئة (Turismo Roma، Antonio Carluccio)."
+  },
+  "mistakes.2": {
+   "fr": "Trop cuire les pâtes : égoutte-les al dente, elles finissent dans la poêle (Dissapore, Turismo Roma).",
+   "t": "الإفراط في سلق المعكرونة: صفِّها وهي متماسكة، فهي تكمل نضجها في المقلاة (Dissapore، Turismo Roma)."
+  },
+  "mistakes.3": {
+   "fr": "Jeter toute l'eau de cuisson : garde-en un peu pour lier la sauce (Dissapore, Giorgio Locatelli).",
+   "t": "التخلص من ماء السلق كله: احتفظ بقليل منه ليتماسك قوام الصلصة (Dissapore، Giorgio Locatelli)."
+  },
+  "mistakes.4": {
+   "fr": "Saler la sauce alors que l'eau des pâtes l'assaisonne déjà (Turismo Roma).",
+   "t": "تمليح الصلصة مع أن ماء المعكرونة يتبّلها أصلًا (Turismo Roma)."
+  },
+  "mistakes.5": {
+   "fr": "Faire attendre le plat : il se mange dès qu'il est prêt (Turismo Roma, Giorgio Locatelli).",
+   "t": "ترك الطبق ينتظر: فهو يؤكل بمجرد أن يجهز (Turismo Roma، Giorgio Locatelli)."
+  },
+  "variants.0": {
+   "fr": "À l'anchois : fais fondre des filets d'anchois hachés dans l'huile avec l'ail ; Antonio Carluccio en met 4 pour 4 personnes (Great Italian Chefs). Dissapore cite aussi les olives.",
+   "t": "بالأنشوفة: ذوّب شرائح أنشوفة مفرومة في الزيت مع الثوم؛ يضع Antonio Carluccio منها 4 شرائح لـ 4 أشخاص (Great Italian Chefs). ويذكر Dissapore أيضًا الزيتون."
+  },
+  "variants.1": {
+   "fr": "Avec de la chapelure (pangrattato), un ajout « pas rare » selon Dissapore.",
+   "t": "مع فتات الخبز (pangrattato)، وهي إضافة «ليست نادرة» حسب Dissapore."
+  },
+  "variants.2": {
+   "fr": "Sans persil : seulement l'ail, l'huile et le piment, comme Antonio Carluccio et Giorgio Locatelli ; Dissapore (2022) le juge « pas nécessaire ».",
+   "t": "بدون بقدونس: الثوم والزيت والفلفل الحار فقط، كما يفعل Antonio Carluccio وGiorgio Locatelli؛ ويراه Dissapore (2022) «غير ضروري»."
+  },
+  "variants.3": {
+   "fr": "Aux crevettes rouges et au persil (suggestion de Great Italian Chefs autour de la recette d'Antonio Carluccio).",
+   "t": "بالجمبري الأحمر والبقدونس (اقتراح من Great Italian Chefs مرافق لوصفة Antonio Carluccio)."
+  },
+  "variants.4": {
+   "fr": "Au fromage râpé, comme Giorgio Locatelli (parmesan ou grana padano). Attention : le parmesan (parmigiano reggiano) et le grana padano se font toujours avec de la présure de veau, exigée par leurs cahiers des charges ; si tu veux être strict, prends un autre fromage à pâte dure fait avec un coagulant microbien, sans présure animale.",
+   "t": "بالجبن المبشور، كما يفعل Giorgio Locatelli (البارميزان أو grana padano). انتبه: البارميزان (parmigiano reggiano) وgrana padano يُصنعان دائمًا بإنفحة العجل، التي تفرضها مواصفاتهما الرسمية؛ وإن أردت التشدد، فاختر جبنًا صلبًا آخر مصنوعًا بمخثّر ميكروبي، بدون إنفحة حيوانية."
+  }
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "_slug": "salade-marocaine",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Salade marocaine",
+   "t": "Moroccan salad"
+  },
+  "darija": {
+   "fr": "Chlada",
+   "t": "Chlada"
+  },
+  "tagline": {
+   "fr": "Tomates, concombre et oignon coupés tout petits, persil, citron, huile d'olive et une pointe de cumin : la salade fraîche, sans cuisson, qui accompagne beaucoup de plats au Maroc.",
+   "t": "Tomatoes, cucumber and onion cut very small, parsley, lemon, olive oil and a hint of cumin: the fresh, no-cook salad that goes with many dishes in Morocco."
+  },
+  "region": {
+   "fr": "Tout le Maroc : pour My Moroccan Food, c'est la salade la plus courante et la plus simple de la cuisine marocaine.",
+   "t": "All of Morocco: according to My Moroccan Food, it is the most common and simplest salad in Moroccan cooking."
+  },
+  "occasion": {
+   "fr": "Tous les jours, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté d'un tajine, de grillades ou de poisson (My Moroccan Food ; MarocMama). Prête en 20 minutes, sans cuisson (Cooking With Alia ; Choumicha).",
+   "t": "Every day, as a starter (Wikipedia FR, Cuisine marocaine) or alongside a tagine, grilled meat or fish (My Moroccan Food; MarocMama). Ready in 20 minutes, with no cooking (Cooking With Alia; Choumicha)."
+  },
+  "img_alt": {
+   "fr": "Tomates, concombre et persil coupés en petits dés dans un saladier (photo d'une salade arabe, très proche)",
+   "t": "Tomatoes, cucumber and parsley cut into small dice in a salad bowl (photo of an Arab salad, very similar)"
+  },
+  "serving": {
+   "fr": "Bien fraîche, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté du plat : tajine, grillades ou poisson (My Moroccan Food ; MarocMama), avec du pain (Cooking With Alia). Au Maroc, plusieurs salades sont souvent posées sur la table avec le plat principal (Wikipédia FR, Cuisine marocaine).",
+   "t": "Well chilled, as a starter (Wikipedia FR, Cuisine marocaine) or alongside the main dish: tagine, grilled meat or fish (My Moroccan Food; MarocMama), with bread (Cooking With Alia). In Morocco, several salads are often put on the table with the main course (Wikipedia FR, Cuisine marocaine)."
+  },
+  "ing.0.group": {
+   "fr": "Légumes et herbes",
+   "t": "Vegetables and herbs"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne",
+   "t": "medium tomato"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes",
+   "t": "medium tomatoes"
+  },
+  "ing.concombre.name": {
+   "fr": "concombre",
+   "t": "cucumber"
+  },
+  "ing.concombre.pl": {
+   "fr": "concombres",
+   "t": "cucumbers"
+  },
+  "ing.oignon.name": {
+   "fr": "petit oignon",
+   "t": "small onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "petits oignons",
+   "t": "small onions"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "ou de coriandre fraîche",
+   "t": "or fresh coriander"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "Dressing"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron",
+   "t": "lemon juice"
+  },
+  "ing.citron.note": {
+   "fr": "un citron donne environ 3 c. à s. de jus",
+   "t": "one lemon gives about 3 tbsp of juice"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust to taste"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "ground black pepper, to taste"
+  },
+  "ing.2.group": {
+   "fr": "Service",
+   "t": "To serve"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "khobz (Moroccan bread)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour accompagner",
+   "t": "to go with it"
+  },
+  "equipment.0": {
+   "fr": "Planche et couteau bien aiguisé",
+   "t": "Board and a sharp knife"
+  },
+  "equipment.1": {
+   "fr": "Brosse à légumes propre, pour le concombre",
+   "t": "Clean vegetable brush, for the cucumber"
+  },
+  "equipment.2": {
+   "fr": "Torchon propre ou papier absorbant",
+   "t": "Clean tea towel or kitchen paper"
+  },
+  "equipment.3": {
+   "fr": "Saladier",
+   "t": "Salad bowl"
+  },
+  "equipment.4": {
+   "fr": "Petit bol, pour la sauce",
+   "t": "Small bowl, for the dressing"
+  },
+  "equipment.5": {
+   "fr": "Presse-agrumes (facultatif)",
+   "t": "Lemon squeezer (optional)"
+  },
+  "equipment.6": {
+   "fr": "Grand emporte-pièce (facultatif, pour la présentation)",
+   "t": "Large pastry cutter (optional, for presentation)"
+  },
+  "steps.0.title": {
+   "fr": "Lave les légumes",
+   "t": "Wash the vegetables"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains au savon. Rince {{tomates:full}}, {{concombre:full}} et le persil sous l'eau courante, sans savon. Frotte le concombre avec une brosse propre, puis sèche le tout avec un torchon propre.",
+   "t": "Wash your hands with soap. Rinse {{tomates:full}}, {{concombre:full}} and the parsley under running water, without soap. Scrub the cucumber with a clean brush, then dry everything with a clean tea towel."
+  },
+  "steps.0.tip": {
+   "fr": "Les légumes et les herbes qui se mangent crus doivent être lavés soigneusement (Anses). Pas de savon ni de produit vaisselle : les légumes peuvent l'absorber (FDA).",
+   "t": "Vegetables and herbs eaten raw must be washed carefully (Anses). No soap or washing-up liquid: vegetables can absorb it (FDA)."
+  },
+  "steps.1.title": {
+   "fr": "Coupe les tomates",
+   "t": "Cut the tomatoes"
+  },
+  "steps.1.text": {
+   "fr": "Coupe chaque tomate en deux, retire les graines, puis coupe la chair en petits dés d'environ ½ cm.",
+   "t": "Cut each tomato in half, remove the seeds, then cut the flesh into small dice of about ½ cm."
+  },
+  "steps.1.tip": {
+   "fr": "Garde la peau, comme Cooking With Alia. Choumicha, elle, pèle ses tomates (salades 627 et 629).",
+   "t": "Keep the skin on, as Cooking With Alia does. Choumicha, on the other hand, peels her tomatoes (salads 627 and 629)."
+  },
+  "steps.2.title": {
+   "fr": "Coupe le concombre",
+   "t": "Cut the cucumber"
+  },
+  "steps.2.text": {
+   "fr": "Coupe chaque concombre en deux dans la longueur, retire les graines, puis coupe-le en petits dés de la même taille.",
+   "t": "Cut each cucumber in half lengthways, remove the seeds, then cut it into small dice of the same size."
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon",
+   "t": "Chop the onion"
+  },
+  "steps.3.text": {
+   "fr": "Épluche et hache très finement {{oignon:full}}.",
+   "t": "Peel and very finely chop {{oignon:full}}."
+  },
+  "steps.3.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.4.title": {
+   "fr": "Hache le persil",
+   "t": "Chop the parsley"
+  },
+  "steps.4.text": {
+   "fr": "Effeuille le persil et hache-le finement : il en faut {{persil}} pour la salade.",
+   "t": "Pick the parsley leaves and chop them finely: you need {{persil}} for the salad."
+  },
+  "steps.4.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.4.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.5.title": {
+   "fr": "Réunis les légumes",
+   "t": "Combine the vegetables"
+  },
+  "steps.5.text": {
+   "fr": "Mets les tomates, le concombre, l'oignon et le persil dans un saladier. Garde-le au réfrigérateur jusqu'au moment de servir.",
+   "t": "Put the tomatoes, cucumber, onion and parsley in a salad bowl. Keep it in the fridge until it is time to serve."
+  },
+  "steps.6.title": {
+   "fr": "Prépare la sauce",
+   "t": "Make the dressing"
+  },
+  "steps.6.text": {
+   "fr": "Dans un petit bol, mélange {{huile}} d'huile d'olive, {{citron}} de jus de citron, {{sel}} de sel, {{cumin}} de cumin et du {{poivre}}.",
+   "t": "In a small bowl, mix {{huile}} of olive oil, {{citron}} of lemon juice, {{sel}} of salt, {{cumin}} of cumin and some {{poivre}}."
+  },
+  "steps.6.tip": {
+   "fr": "Lalla Moulati garde sa sauce au réfrigérateur, à part, jusqu'au service.",
+   "t": "Lalla Moulati keeps her dressing separately in the fridge until serving time."
+  },
+  "steps.7.title": {
+   "fr": "Assaisonne au dernier moment",
+   "t": "Dress at the last moment"
+  },
+  "steps.7.text": {
+   "fr": "Juste avant de servir, verse la sauce sur les légumes et mélange bien.",
+   "t": "Just before serving, pour the dressing over the vegetables and mix well."
+  },
+  "steps.7.tip": {
+   "fr": "Salée trop tôt, la salade rend son eau (Choumicha).",
+   "t": "If it is salted too early, the salad releases its water (Choumicha)."
+  },
+  "steps.8.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Taste and adjust"
+  },
+  "steps.8.text": {
+   "fr": "Goûte et ajuste le sel, le citron ou le cumin.",
+   "t": "Taste and adjust the salt, lemon or cumin."
+  },
+  "steps.9.title": {
+   "fr": "Sers bien frais",
+   "t": "Serve well chilled"
+  },
+  "steps.9.text": {
+   "fr": "Sers tout de suite, bien frais, avec du {{khobz}}, à côté d'un tajine, de grillades ou de poisson.",
+   "t": "Serve straight away, well chilled, with {{khobz}}, alongside a tagine, grilled meat or fish."
+  },
+  "steps.9.tip": {
+   "fr": "Pour une jolie assiette, tasse la salade dans un grand emporte-pièce posé sur l'assiette, puis retire-le doucement (Cooking With Alia).",
+   "t": "For a pretty plate, pack the salad into a large pastry cutter set on the plate, then gently lift it off (Cooking With Alia)."
+  },
+  "secrets.0.text": {
+   "fr": "Le secret, c'est la taille : coupe tout très petit, pour avoir un peu de chaque légume dans chaque bouchée.",
+   "t": "The secret is the size: cut everything very small, so that you get a little of each vegetable in every mouthful."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking With Alia (recettes 208 et 543)",
+   "t": "Cooking With Alia (recipes 208 and 543)"
+  },
+  "secrets.1.text": {
+   "fr": "Vise des petits dés réguliers d'environ ½ cm, et un oignon haché encore plus fin.",
+   "t": "Aim for small, even dice of about ½ cm, and onion chopped even more finely."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (dés de ½ cm) ; Cooking With Alia, Lalla Moulati (2019) et MarocMama (oignon très fin)",
+   "t": "My Moroccan Food (½ cm dice); Cooking With Alia, Lalla Moulati (2019) and MarocMama (very finely chopped onion)"
+  },
+  "secrets.2.text": {
+   "fr": "Garde seulement la chair : retire les graines des tomates, et celles du concombre.",
+   "t": "Keep only the flesh: remove the seeds from the tomatoes, and from the cucumber."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (tomates et concombre) ; MarocMama et Choumicha (tomates)",
+   "t": "My Moroccan Food (tomatoes and cucumber); MarocMama and Choumicha (tomatoes)"
+  },
+  "secrets.3.text": {
+   "fr": "Sel et citron au tout dernier moment : sinon les tomates rendent leur eau.",
+   "t": "Salt and lemon at the very last moment: otherwise the tomatoes release their water."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha, Salade de tomates et de poivrons",
+   "t": "Choumicha, tomato and pepper salad"
+  },
+  "secrets.4.text": {
+   "fr": "Prépare la sauce à part et garde-la au frais jusqu'au service. Servie sans sauce, la salade qui reste se recycle facilement, en omelette par exemple.",
+   "t": "Make the dressing separately and keep it chilled until serving. If it is served without dressing, leftover salad is easy to reuse, in an omelette for example."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati (2019) ; Choumicha, conseil « حول السلطة »",
+   "t": "Lalla Moulati (2019); Choumicha, tip “حول السلطة”"
+  },
+  "secrets.5.text": {
+   "fr": "Le jus de citron plutôt que le vinaigre, si tu en as.",
+   "t": "Lemon juice rather than vinegar, if you have some."
+  },
+  "secrets.5.source": {
+   "fr": "Lalla Moulati (2019) ; citron chez My Moroccan Food et Cooking With Alia",
+   "t": "Lalla Moulati (2019); lemon in My Moroccan Food and Cooking With Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Une pointe de cumin dans la sauce, comme chez Cooking With Alia, Choumicha et Lalla Moulati.",
+   "t": "A hint of cumin in the dressing, as Cooking With Alia, Choumicha and Lalla Moulati do."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia (recette 208) ; Choumicha, Salade de tomates et de poivrons ; Lalla Moulati (2019)",
+   "t": "Cooking With Alia (recipe 208); Choumicha, tomato and pepper salad; Lalla Moulati (2019)"
+  },
+  "secrets.7.text": {
+   "fr": "De bonnes tomates, c'est la clé : la salade ne vaut que ce que valent ses légumes.",
+   "t": "Good tomatoes are the key: the salad is only as good as its vegetables."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.8.text": {
+   "fr": "Tomates pas assez sucrées ? Nargisse Benkabbou ajoute une cuillère à café de miel pour équilibrer l'acidité.",
+   "t": "Tomatoes not sweet enough? Nargisse Benkabbou adds a teaspoon of honey to balance the acidity."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Persil ou coriandre : les deux se font au Maroc.",
+   "t": "Parsley or coriander: both are used in Morocco."
+  },
+  "secrets.9.source": {
+   "fr": "Persil : My Moroccan Food, Choumicha ; coriandre : Cooking With Alia",
+   "t": "Parsley: My Moroccan Food, Choumicha; coriander: Cooking With Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Un peu d'écorce de citron confit hachée (sans la pulpe) parfume la salade.",
+   "t": "A little chopped preserved lemon peel (without the pulp) adds fragrance to the salad."
+  },
+  "secrets.10.source": {
+   "fr": "Cooking With Alia (recette 208, facultatif) ; Choumicha (salades de tomates au citron confit)",
+   "t": "Cooking With Alia (recipe 208, optional); Choumicha (tomato salads with preserved lemon)"
+  },
+  "secrets.11.text": {
+   "fr": "Au Maroc, elle accompagne surtout les tajines, les grillades et le poisson.",
+   "t": "In Morocco, it mainly accompanies tagines, grilled meat and fish."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; MarocMama",
+   "t": "My Moroccan Food; MarocMama"
+  },
+  "mistakes.0": {
+   "fr": "Saler la salade longtemps à l'avance : les tomates rendent leur eau (Choumicha).",
+   "t": "Salting the salad long in advance: the tomatoes release their water (Choumicha)."
+  },
+  "mistakes.1": {
+   "fr": "Couper les légumes trop gros (Cooking With Alia).",
+   "t": "Cutting the vegetables too large (Cooking With Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Laver les légumes au savon ou au produit vaisselle (FDA).",
+   "t": "Washing the vegetables with soap or washing-up liquid (FDA)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les légumes sur la planche de la viande crue sans l'avoir lavée (Anses).",
+   "t": "Cutting the vegetables on the raw meat board without washing it first (Anses)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser la salade plus de 2 heures à température ambiante (Anses).",
+   "t": "Leaving the salad at room temperature for more than 2 hours (Anses)."
+  },
+  "variants.0": {
+   "fr": "Salade marocaine de Choumicha : 4 tomates, 1 oignon, 1 poivron vert en petits morceaux, persil, huile d'olive, vinaigre ou jus de citron, sel ; sans concombre, servie avec des brochettes de kefta.",
+   "t": "Choumicha's Moroccan salad: 4 tomatoes, 1 onion, 1 green pepper cut into small pieces, parsley, olive oil, vinegar or lemon juice, salt; no cucumber, served with kefta skewers."
+  },
+  "variants.1": {
+   "fr": "Chlada aux poivrons grillés de Lalla Moulati (2019) : poivrons rouge, vert et jaune grillés et pelés, 4 tomates, un petit oignon, olives vertes et noires, maïs si tu veux ; sauce au citron (ou au vinaigre), huile d'olive, sel, cumin et un peu de poivre.",
+   "t": "Lalla Moulati's chlada with grilled peppers (2019): red, green and yellow peppers, grilled and peeled, 4 tomatoes, a small onion, green and black olives, sweetcorn if you like; a dressing of lemon (or vinegar), olive oil, salt, cumin and a little pepper."
+  },
+  "variants.2": {
+   "fr": "Salade de tomates au citron confit de Choumicha : tomates pelées, épépinées et concassées, écorce de citron confit, persil, une gousse d'ail, huile d'olive et sel.",
+   "t": "Choumicha's tomato salad with preserved lemon: tomatoes peeled, deseeded and chopped, preserved lemon peel, parsley, a garlic clove, olive oil and salt."
+  },
+  "variants.3": {
+   "fr": "Tomate et oignon seulement, au vinaigre et à l'huile d'olive : la salade qui accompagne le poisson chez MarocMama.",
+   "t": "Tomato and onion only, with vinegar and olive oil: the salad MarocMama serves with fish."
+  },
+  "variants.4": {
+   "fr": "Coriandre à la place du persil, et un peu d'écorce de citron confit (Cooking With Alia, recette 208).",
+   "t": "Coriander instead of parsley, and a little preserved lemon peel (Cooking With Alia, recipe 208)."
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "sfenj",
+  "verdict": "conforme avec corrections",
+  "sources_ajoutees": [
+    {
+      "name": "Choumicha (site officiel), page « Les recettes avec pour mot clé Sfenj » (copie web.archive.org du 1er décembre 2020) et fiche « Beignets » (copie du 27 janvier 2021)",
+      "url": "https://web.archive.org/web/20210127122322/https://choumicha.ma/recette/863-beignets.html",
+      "ce_qu_elle_confirme": "Source marocaine que l'auteur n'avait pas pu lire, mais qui ne confirme pas la recette : sous le mot clé « Sfenj », Choumicha ne range que des « Beignets » classés « Cuisine du monde » (farine, lait, beurre, œuf, sucre, sucre vanillé, levure chimique et levure boulangère, pâte étalée, découpée à l'emporte-pièce, fourrée de confiture). Ce n'est pas le sfenj traditionnel : à ne pas citer comme recette de sfenj. Elle confirme seulement des gestes communs : pétrissage de 10 min, levée au tiède jusqu'à doubler, friture des deux côtés dans l'huile chaude, égouttage sur papier absorbant."
+    },
+    {
+      "name": "My Moroccan Food, page « About »",
+      "url": "https://www.mymoroccanfood.com/about",
+      "ce_qu_elle_confirme": "Biographie citée dans sources[0] : Nargisse Benkabbou a été élevée à Bruxelles dans une famille marocaine, a été cheffe exécutive de L'Mida Marrakech et a écrit « Casablanca: My Moroccan Food »."
+    }
+  ],
+  "corrections": [
+    {
+      "champ": "steps[5].tip",
+      "actuel": "Si tu peux le faire sans danger, coupe le feu et couvre la casserole avec le couvercle, sans te pencher au-dessus (gouvernement du Québec, USFA, pompiers de Cambridgeshire). Sinon, n'essaie pas d'éteindre le feu : sors, ferme la porte et appelle les pompiers (London Fire Brigade, pompiers de Cambridgeshire).",
+      "propose": "Si tu peux le faire sans danger, pose vite le couvercle sur la casserole (gouvernement du Québec, USFA), puis coupe le feu (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec), sans te pencher au-dessus de la casserole (pompiers de Cambridgeshire). Appelle ensuite les pompiers, même si le feu semble éteint (gouvernement du Québec). Si le feu grandit, ou si tu ne peux pas approcher sans danger, n'essaie pas de l'éteindre : fais sortir tout le monde, ferme la porte et appelle les pompiers (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec).",
+      "pourquoi": "Sécurité. 1) Les pompiers de Cambridgeshire ne parlent pas de couvercle : ils disent de couper le feu seulement si c'est sans danger, sans jamais se pencher au-dessus de la casserole pour atteindre les boutons, puis « Do not attempt to tackle the fire » ; la London Fire Brigade dit aussi « Don't tackle the fire yourself ». Le couvercle vient seulement du gouvernement du Québec (« Placez rapidement un couvercle de dimension appropriée ») et de l'USFA (« Use it to cover the pan if it catches on fire »). 2) Le Québec demande d'appeler les pompiers même si le feu semble éteint, car il a pu passer dans le conduit de la hotte : la recette ne le disait pas. 3) La London Fire Brigade dit de prévenir les autres, Cambridgeshire de faire sortir tout le monde ; le Québec dit d'évacuer si le feu se propage. 4) L'ordre suit le Québec : d'abord le couvercle, puis « Si possible, fermez tous les éléments chauffants ».",
+      "gravite": "majeure",
+      "sources": "London Fire Brigade, « Pan fires » ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; gouvernement du Québec, « Prévenir les risques d'incendie lorsque vous cuisinez » (10 octobre 2025) ; USFA, « Cooking Fire Safety » (revue le 28 septembre 2026) ; pages lues le 8 novembre 2026"
+    },
+    {
+      "champ": "mistakes[0]",
+      "actuel": "une huile qui fume est trop chaude, il faut couper le feu (London Fire Brigade, pompiers de Cambridgeshire, gouvernement du Québec, USFA)",
+      "propose": "une huile qui fume est trop chaude ; il faut couper le feu (London Fire Brigade, USFA), ou au moins le baisser (pompiers de Cambridgeshire, gouvernement du Québec), et ne jamais la laisser continuer à chauffer (gouvernement du Québec)",
+      "pourquoi": "Les pompiers de Cambridgeshire écrivent « Turn down the heat and wait for the oil to cool » et le Québec « il est alors recommandé de diminuer la température » puis « Ne laissez jamais continuer de chauffer une huile qui fume » ; seuls la London Fire Brigade et l'USFA disent de couper le feu. La consigne de l'étape « Chauffe l'huile à 180 °C » (couper le feu) reste la plus prudente et n'a pas à changer.",
+      "gravite": "mineure",
+      "sources": "London Fire Brigade, « Deep fat fryers » ; USFA, « Cooking Fire Safety » ; Cambridgeshire Fire & Rescue Service, « Chip pan » ; gouvernement du Québec, page citée"
+    },
+    {
+      "champ": "steps[6].tip",
+      "actuel": "comme le propose aussi Morocco World News",
+      "propose": "comme le propose aussi Morocco World News (2013)",
+      "pourquoi": "Seul l'article de 2013 (Layla Dahamou : « Dip hands in water or put some oil on them ») propose l'huile ; celui de 2022 (Safaa Kasraoui) fait tremper la main dans l'eau. La recette cite les deux articles : sans la date, la phrase est ambiguë.",
+      "gravite": "mineure",
+      "sources": "Morocco World News, 18 janvier 2013 et 26 août 2022"
+    },
+    {
+      "champ": "steps[3].tip",
+      "actuel": "Dans les échoppes de sfenj de Chefchaouen, la pâte se préparait la nuit et levait jusqu'au matin (Hespress).",
+      "propose": "Chez Mohamed El Hadri, sfenji de la médina de Chefchaouen, la pâte se préparait la nuit et levait jusqu'au matin (Hespress).",
+      "pourquoi": "Hespress ne décrit la pâte préparée la nuit que chez Mohamed El Hadri (souvenirs de son fils) et précise que la préparation variait d'un maître sfenji à l'autre : la généralisation à toutes les échoppes n'est pas dans la source.",
+      "gravite": "mineure",
+      "sources": "Hespress, Abdeljaouad El Khnifi, 31 mai 2019"
+    },
+    {
+      "champ": "discrepancies[5]",
+      "actuel": "une nuit chez les sfenjis de Chefchaouen (Hespress)",
+      "propose": "une nuit chez un sfenji de Chefchaouen, Mohamed El Hadri (Hespress)",
+      "pourquoi": "Même raison : Hespress ne donne cette levée de nuit que pour Mohamed El Hadri.",
+      "gravite": "mineure",
+      "sources": "Hespress, 31 mai 2019"
+    },
+    {
+      "champ": "equipment[7]",
+      "actuel": "Une grille posée sur du papier absorbant",
+      "propose": "Une grille garnie de papier absorbant",
+      "pourquoi": "L'étape « Égoutte » dit « la grille garnie de papier absorbant » ; My Moroccan Food (« wire rack lined with paper towels ») et la Jewish Food Society (« cooling rack lined with paper towels ») mettent le papier sur la grille, pas dessous. Cohérence interne et traduction.",
+      "gravite": "mineure",
+      "sources": "My Moroccan Food, « Sfenj - Moroccan Donuts » ; Jewish Food Society, 15 janvier 2021"
+    },
+    {
+      "champ": "secrets[7].source",
+      "actuel": "My Moroccan Food ; Morocco World News, 2022",
+      "propose": "My Moroccan Food (sfenj non sucré ; sucre, miel ou œuf au plat) ; Morocco World News, 2022 (une pincée de sucre par-dessus)",
+      "pourquoi": "Morocco World News 2022 ne dit pas que la pâte n'est pas sucrée : elle prévoit même une demi-tasse de sucre « for those with a sweet tooth » et une pincée de sucre en décor. La pâte non sucrée, le miel et l'œuf au plat viennent de My Moroccan Food.",
+      "gravite": "mineure",
+      "sources": "My Moroccan Food, 3 juin 2016 ; Morocco World News, 26 août 2022"
+    },
+    {
+      "champ": "variants[6]",
+      "actuel": "Version moderne « prestige »",
+      "propose": "Version « prestige »",
+      "pourquoi": "Le mot « moderne » n'est pas dans la source, qui s'intitule « السفنج برستيج بطريقة ممتازة وسهلة ».",
+      "gravite": "mineure",
+      "sources": "Lalla Moulati, 263743.html, 11 janvier 2021"
+    }
+  ],
+  "verifie_sans_correction": [
+    "Liens : les 16 adresses de « sources » répondent (HTTP 200) le 8 novembre 2026 ; Morocco World News 2022 redirige vers /2022/08/42269/sfenj-donuts-an-unmissable-snack-while-visiting-morocco/ et Hespress vers l'adresse longue de l'article : les deux liens cités marchent.",
+    "robots.txt : mymoroccanfood.com (ClaudeBot et anthropic-ai dans le groupe de *, pages de recettes permises), moroccoworldnews.com (Crawl-delay de 120 s respecté), bladi.net, hespress.com, lalamoulati.net, en.wikipedia.org, jewishfoodsociety.org, myjewishlearning.com et quebec.ca autorisent les pages lues ; london-fire.gov.uk et cambsfire.gov.uk n'ont pas de robots.txt (404) ; celui de usfa.fema.gov ne contient aucune règle.",
+    "My Moroccan Food (3 juin 2016) : 14 sfenj ; 1 c. à s. de levure sèche active (activée 5 à 10 min avec ¼ c. à c. de sucre), 500 g de farine, 1 c. à c. de sel, 400 ml d'eau tiède ; pâte très collante, « almost like a batter consistency but thicker », quelques cuillères d'eau si elle ne colle pas ; pétrissage de 10 min jusqu'à très élastique, difficile au début ; levée de 4 h au chaud jusqu'à tripler ; 6 cm d'huile à feu moyen-vif jusqu'à 180 °C ; mains mouillées, morceau de la taille d'une prune, trou, large anneau ; friture des deux côtés jusqu'à croustillant et doré ; écumoire, grille garnie de papier absorbant ; sfenj non sucré, avec sucre, miel ou glaçage, œuf au plat chez sa mère ; à réchauffer s'il a refroidi.",
+    "Morocco World News (Layla Dahamou, Taroudant, 18 janvier 2013) : 500 g de farine blanche, 15 g de « baking yeast », ½ c. à c. de sel, eau tiède versée peu à peu ; pâte molle, élastique et collante ; levée de 2 heures ou plus selon la température ; grande casserole profonde ; mains mouillées ou huilées ; trou au centre, anneau étiré ; doré clair ; égoutté sur papier ; sucre glace ; servi chaud avec le thé, au petit-déjeuner ou le soir ; échoppes de sfenj tôt le matin dans les médinas.",
+    "Morocco World News (Safaa Kasraoui, Rabat, 26 août 2022) : levure et ¼ de tasse d'eau au moins 10 min ; pâte lisse et collante à la cuillère en bois ; levée de 4 à 5 heures, jusqu'à tripler ou plus ; main trempée dans l'eau ; anneau ; sortir avec une fourchette, pas avec la main ; plus croustillant qu'un donut américain ; huile « extremely hot » ; thé à la menthe, café ou boisson au lait, pincée de sucre.",
+    "Bladi.net (Said A., 30 octobre 2005, mise à jour le 8 mars 2021) : 250 g de farine, levure, 1 c. à c. de sel, environ ¼ l d'eau ; pâte semi-liquide et visqueuse, au pétrin électrique ; huile « fumante » ; deux cuillères, ou normalement morceau de la taille d'un œuf étiré presque en anneau avec les doigts ; sirop au stade « perle » puis un peu de miel hors du feu ; salées, saupoudrées de sucre ou nature.",
+    "Hespress (Abdeljaouad El Khnifi, Chefchaouen, vendredi 31 mai 2019, jour recalculé) : graphie السْفنجْ ; échoppes de la médina ; Mohamed El Hadri, né en 1924, sfenji à partir du milieu des années 1940, pâte préparée la nuit (levure, sel, farine tamisée, bien pétris) et laissée lever dans un récipient couvert, friture dès les premières heures du matin ; beignets enfilés sur de fines lanières de palmier vert (« العزف ») ; « سفنجة مطفية » : un œuf beldi entre deux morceaux croustillants ; huile d'olive, puis « huile roumi » vendue en fûts à partir du milieu des années 1950 ; thé à la menthe.",
+    "Lalla Moulati : 237462 (22 mai 2020 : 6 verres et demi de farine blanche, 3 verres d'eau tiède, 1 c. à s. de levure, 1 c. à c. de sucre, 1 c. à c. de sel, huile végétale de friture ; méthode en vidéo) ; 263743 (11 janvier 2021 : 750 g de farine, 10 g de levure, ½ c. à c. de sel, 2 œufs, 1 c. à s. d'eau de fleur d'oranger, 335 ml de lait tiède, 4 c. à s. d'huile, 1 c. à s. de vinaigre, 250 g de beurre fondu). Le site se décrit comme un site marocain pour la femme marocaine.",
+    "Wikipédia (anglais), « Sfenj » : سفنج, « sponge » ; beignet du Maghreb léger et spongieux ; nature, au sucre ou au miel ; tôt le matin ou en fin d'après-midi avec le thé à la menthe ou le café ; Sfenz en Libye (sfinz dans l'infobox) ; khfaf ou ftayr en Algérie ; sfenj matifiyya aplati et refrit, avec ou sans œuf ; photo d'Essaouira (sfenj liés par une feuille de palmier) ; viande de tête et sfenj au petit-déjeuner à Marrakech du temps des grands-parents de Mustafa an-Nakir ; Hanoukka chez les juifs maghrébins en Israël ; section Histoire signalée comme mal sourcée (février 2024).",
+    "Jewish Food Society, « Sfenj (Moroccan Yeasted Doughnut) » (15 janvier 2021, mise à jour le 8 juin 2023, auteur non nommé) : 350 °F au thermomètre ; mains mouillées ; morceau de la taille d'un petit œuf, trou fait au pouce, anneau d'environ 4 pouces ; « Drop the donut away from you » ; 3 à la fois ; 2 min puis 1 min 30 ; pétrissage de 15 min dans le saladier, avec la paume ; levée d'environ 1 heure ; grille garnie de papier absorbant ; zeste d'orange, miel, pistaches.",
+    "Jewish Food Society, « Moroccan Sfenj » (Ruth et Gabriel Stulman, parcours Rabat puis Virginie, 11 avril 2019, mise à jour le 21 août 2024) : pâte « very loose, sticky » à la cuillère en bois ; levée de 30 à 60 min ; 350 °F au thermomètre dans une casserole à bords hauts ; mains mouillées ; morceau de la taille d'un œuf ; « bracelet-like shape with a large circle », le trou rétrécit, sinon une boule ; 4 ou 5 à la fois sans surcharger ; 1 à 2 min par face, retournés à l'araignée ou à l'écumoire ; servis chauds avec le thé à la menthe, au sucre, au sucre à la cannelle ou au miel.",
+    "The Nosher (Dikla Frances, One Sarcastic Baker, 24 décembre 2019) : 500 g de farine, 2 c. à c. de levure, 1 c. à c. de sel, 1 c. à s. de sucre, 2 jaunes d'œufs, 360 ml d'eau ; levée de 1 à 2 h puis 30 à 60 min ; 15 pâtons ; casserole remplie du tiers à la moitié, 340 à 400 °F ; environ 3 min par face ; « very popular with Moroccan Jews » ; rubrique Hanoukka.",
+    "London Fire Brigade, « Deep fat fryers » : jamais plus d'un tiers de graisse ou d'huile ; aliments secs, « oil and water are a dangerous mix » ; huile qui fume = trop chaude, couper le feu et laisser refroidir ; friteuse électrique avec contrôle automatique de la température, « much safer ». « Pan fires » : ne pas attaquer le feu soi-même ni déplacer la casserole ; jamais d'eau (boule de feu) ; couper le feu seulement si c'est sans danger ; quitter la pièce, fermer la porte, prévenir les autres, appeler le 999.",
+    "Cambridgeshire Fire & Rescue Service, « Chip pan » : huile qui fume = trop chaude, baisser le feu et attendre ; jamais plus d'un tiers d'huile ; ne jamais quitter la casserole des yeux, même quelques secondes ; frites mouillées = l'huile bouillonne et déborde ; en cas de feu : ne pas paniquer, jamais d'eau, ne pas déplacer la casserole, couper le feu si c'est sans danger sans se pencher au-dessus, ne pas attaquer le feu, fermer la porte, faire sortir tout le monde, appeler le 999.",
+    "USFA, « Cooking Fire Safety » (revue le 28 septembre 2026) : rester près de la poêle et couper le feu si l'on quitte la cuisine ; fumée ou graisse qui bout = couper le feu ; poignées vers l'arrière ; couvercle ou plaque à portée de main pour couvrir la poêle en feu. Gouvernement du Québec (mise à jour du 10 octobre 2025) : surveiller en tout temps, surtout avec l'huile ; poignées qui ne dépassent pas ; couvercle à portée de main ; « N'utilisez jamais une casserole pour frire » ; friteuse certifiée munie d'un thermostat ; point de fumée du tournesol 210 °C ; ne jamais laisser chauffer une huile qui fume ; feu : jamais d'eau, ne pas déplacer le récipient, couvercle, couper les éléments, appeler les pompiers même si le feu semble éteint, évacuer s'il se propage.",
+    "Sécurité de la friture, recette confrontée aux sources officielles : 6 cm d'huile sans dépasser le tiers de la hauteur, d'où une casserole d'au moins 18 cm (6 × 3, calcul) : conforme à la London Fire Brigade et à Cambridgeshire ; 180 °C au thermomètre, sous le point de fumée du tournesol (210 °C, Québec) ; huile qui fume : couper le feu et laisser refroidir (London Fire Brigade) ; friteuse à thermostat présentée comme le plus sûr (London Fire Brigade, Québec) ; poignées tournées (Québec, USFA) ; couvercle à portée de main (Québec, USFA) ; ne pas quitter l'huile des yeux (Cambridgeshire, USFA, Québec) ; feu éteint dès la fin (USFA) ; jamais d'eau ni de déplacement en cas de feu (les quatre sources).",
+    "Mains huilées plutôt que mouillées : choix cohérent avec les consignes officielles « Make sure food is dry before putting it in hot oil » (London Fire Brigade) et « ensure your chips are dry » (Cambridgeshire), et proposé par Morocco World News 2013 (« put some oil on them ») ; My Moroccan Food, Morocco World News 2022 et les deux recettes de la Jewish Food Society mouillent les mains, comme le dit la recette. Anneau posé loin de soi : Jewish Food Society 2021 ; sortie à l'écumoire ou à la fourchette, jamais aux doigts : My Moroccan Food, Morocco World News 2022.",
+    "Calculs refaits avec python3 -I : eau de 72 % (The Nosher) à 133 % (famille Stulman), médiane 90 %, et 80 % pour les seules recettes en grammes ; levure pour 500 g : 2 ; 3 ; 4 ; 4,57 ; 8 c. à c., médiane 4 ; sel : 0,33 à 2 c. à c., médiane 0,88 ; 340, 350 et 400 °F = 171,1, 176,7 et 204,4 °C ; pâte ≈ 915 g, soit 65 g par sfenj pour 14 ; médiane des levées marocaines chiffrées (2 h, 4 h, 4 à 5 h) : 4 h.",
+    "Rendu dans l'appli (simulation du code de fmtQ et fill de app.html) : pour 1 beignet, ⅛ c. à s. de levure, 35 g de farine, ⅛ c. à c. de sel, 30 ml d'eau ; pour 14, 1 c. à s., 500 g, 1 c. à c., 400 ml ; pour 28, 2 c. à s., 1 kg, 2 c. à c., 800 ml. Les ingrédients sans quantité (huile de friture, huile pour les mains, sucre, miel) affichent leur nom dans les étapes ; aucun {{id}} inconnu ; aucune balise :full ; phrases correctes aux trois tailles.",
+    "Cohérence interne : minuteurs de 10, 10 et 240 min identiques aux textes ; repos 240 min = la levée ; préparation de 25 min pour 20 min de minuteurs ; cuisson de 30 min (estimation de l'auteur, sans minuteur) ; quantités de steps[0] et steps[1] identiques à la liste ; 6 cm et 18 cm cohérents entre l'équipement, la liste et l'étape ; catégorie Douceur, pas Rapide.",
+    "Halal : farine, levure, sel, eau, huile végétale, sucre, miel : sans porc ni alcool. Les variantes ne donnent pas de recette avec viande (la viande de tête de Marrakech n'est qu'un souvenir historique, Wikipédia) ; la version « prestige » de Lalla Moulati contient du vinaigre, non repris dans la variante.",
+    "Noms : سفنج (Wikipédia, Lalla Moulati) ; السْفنجْ (Hespress) ; darija sfenj ; khfaf, ftayr, Sfenz ou sfinz ailleurs au Maghreb (Wikipédia).",
+    "Service et occasions : petit-déjeuner et fin d'après-midi (Morocco World News 2013, Wikipédia) ; thé à la menthe (Morocco World News, Hespress, Wikipédia, Jewish Food Society) ; café ou boisson au lait (Morocco World News 2022) ; nature, sucre, sucre glace, miel (Wikipédia, Morocco World News, My Moroccan Food) ; achat tôt le matin chez le sfenji, dans les médinas (Morocco World News 2013, Hespress)."
+  ],
+  "non_verifiable": [
+    "Aucune nouvelle source marocaine confirmant la recette traditionnelle n'a été trouvée. Recherche web indisponible (quota épuisé) ; recherches internes sans résultat : Femmes du Maroc, fr.hespress.com, H24info, LesEco, L'Opinion ; recherche de hespress.com (arabe) et de Barlamane chargée en JavaScript, illisible ; refus 403 : TelQuel, Le Desk, 2M, Le Matin, Medias24 ; recherche interne interdite par robots.txt : Le360 (/recherche), visitmorocco.com, maroc.ma, Alyaoum24 ; Hibapress interdit ClaudeBot ; chhiwatbladi.com est un domaine parqué. Choumicha ne range sous « Sfenj » que des beignets à la confiture (voir sources_ajoutees).",
+    "Choumicha : robots.txt illisible (site en erreur 525 ; copie web.archive.org refusée par une erreur 429 à 01 h 47) ; utilisée via web.archive.org comme le prévoient les consignes.",
+    "Taste of Maroc : existence d'une page sur le sfenj non vérifiée ; le site en direct renvoie 403 et la copie web.archive.org de son plan du site a été refusée (erreur 429, « trafic de robot suspect », 02 h 10) ; blocage non contourné.",
+    "Numéro des pompiers au Maroc : non vérifié sur une source officielle, donc à ne pas ajouter.",
+    "Mains huilées avec cette pâte très collante, rendement de 14 sfenj, durées de préparation et de cuisson (la chauffe de l'huile n'est pas comptée à part dans les 30 min) : non testés.",
+    "Morocco World News 2013 : type de levure (« baking yeast ») non précisé ; Lalla Moulati : méthodes en vidéo, non regardées, et volume des « verres » inconnu.",
+    "SNRT News : robots.txt non relu à la contre-vérification ; Yabiladi interdit bien ClaudeBot (Disallow: /), non lu."
+  ]
+}

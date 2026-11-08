@@ -1,0 +1,686 @@
+{
+ "_slug": "double-cheeseburger-smash",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Double cheeseburger smash",
+   "t": "دبل تشيز برغر سماش"
+  },
+  "tagline": {
+   "fr": "Des boules de bœuf écrasées très fines dans une poêle brûlante : une croûte bien grillée, du cheddar fondu, un pain moelleux. La vraie recette américaine, en version halal.",
+   "t": "كرات من لحم البقر تُسحق رقيقة جدًا في مقلاة شديدة السخونة: قشرة محمّرة جيدًا، وجبن شيدر ذائب، وخبز طري. الوصفة الأمريكية الأصلية، في نسخة حلال."
+  },
+  "region": {
+   "fr": "États-Unis",
+   "t": "الولايات المتحدة"
+  },
+  "occasion": {
+   "fr": "Repas rapide, entre amis",
+   "t": "وجبة سريعة، مع الأصدقاء"
+  },
+  "serving": {
+   "fr": "Tout de suite, dès que le burger est monté.",
+   "t": "فورًا، بمجرد تركيب البرغر."
+  },
+  "notes.0.title": {
+   "fr": "La règle d'or",
+   "t": "القاعدة الذهبية"
+  },
+  "notes.0.text": {
+   "fr": "Du bœuf, du sel, du poivre. Pas d'œuf, pas de chapelure, pas d'oignon ni d'épices dans la viande : sinon c'est une kefta, pas un burger.",
+   "t": "لحم بقر، وملح، وفلفل أسود. لا بيض، ولا فتات خبز، ولا بصل ولا توابل في اللحم: وإلا فهي كفتة، لا برغر."
+  },
+  "notes.1.title": {
+   "fr": "Chez le boucher (halal)",
+   "t": "عند الجزار (الحلال)"
+  },
+  "notes.1.items.0": {
+   "fr": "Demande du paleron ou de la basse côte, hachés devant toi le jour même.",
+   "t": "اطلب لحم الكتف (paleron) أو لحم أعلى الضلوع (basse côte)، مفرومًا أمامك في اليوم نفسه."
+  },
+  "notes.1.items.1": {
+   "fr": "Nature : sans oignon, sans persil, sans épices.",
+   "t": "بلا إضافات: لا بصل، ولا بقدونس، ولا توابل."
+  },
+  "notes.1.items.2": {
+   "fr": "Environ 20 % de gras. Si le morceau est trop maigre, demande-lui d'ajouter du gras de bœuf (chehma) : c'est ce gras qui rend le burger juteux.",
+   "t": "نحو 20 % من الدهون. وإذا كانت القطعة قليلة الدهن جدًا، فاطلب منه أن يضيف شحمة البقر: فهذه الدهون هي التي تجعل البرغر عصيريًا."
+  },
+  "notes.1.items.3": {
+   "fr": "Pas de bacon : le cheeseburger classique n'en a pas besoin.",
+   "t": "لا بيكون: التشيز برغر الكلاسيكي لا يحتاج إليه."
+  },
+  "notes.1.items.4": {
+   "fr": "Si tu veux être strict : fromage avec mention halal ou « coagulant microbien » (pas de présure animale), et pain sans alcool dans la liste des ingrédients.",
+   "t": "إن أردت التشدد: جبن يحمل علامة حلال أو عبارة «مخثّر ميكروبي» (لا إنفحة حيوانية)، وخبز لا يتضمن الكحول في قائمة مكوناته."
+  },
+  "notes.2.title": {
+   "fr": "Le montage, de bas en haut",
+   "t": "التركيب، من الأسفل إلى الأعلى"
+  },
+  "notes.2.items.0": {
+   "fr": "Pain du bas, face grillée, avec 1 c. à soupe de sauce.",
+   "t": "النصف السفلي من الخبز، وعلى وجهه المحمّص 1 ملعقة كبيرة من الصلصة."
+  },
+  "notes.2.items.1": {
+   "fr": "1 feuille de salade pliée.",
+   "t": "1 ورقة خس مطوية."
+  },
+  "notes.2.items.2": {
+   "fr": "1 tranche de tomate de 5 mm.",
+   "t": "1 شريحة طماطم بسُمك 5 مم."
+  },
+  "notes.2.items.3": {
+   "fr": "Le premier steak avec son cheddar, puis le deuxième.",
+   "t": "قرص اللحم الأول مع جبن الشيدر الخاص به، ثم الثاني."
+  },
+  "notes.2.items.4": {
+   "fr": "2 rondelles fines d'oignon.",
+   "t": "2 شريحة بصل دائرية رقيقة."
+  },
+  "notes.2.items.5": {
+   "fr": "4 lamelles de cornichon.",
+   "t": "4 شرائح طولية من الخيار المخلل."
+  },
+  "notes.2.items.6": {
+   "fr": "Pain du haut, face grillée, avec 1 c. à soupe de sauce.",
+   "t": "النصف العلوي من الخبز، وعلى وجهه المحمّص 1 ملعقة كبيرة من الصلصة."
+  },
+  "ing.0.group": {
+   "fr": "Viande",
+   "t": "اللحم"
+  },
+  "ing.boeuf.name": {
+   "fr": "de bœuf haché, environ 20 % de gras",
+   "t": "لحم بقر مفروم، فيه نحو 20 % من الدهون"
+  },
+  "ing.boeuf.note": {
+   "fr": "2 boules de 80 g par burger",
+   "t": "2 كرة من 80 غ لكل برغر"
+  },
+  "ing.1.group": {
+   "fr": "Pain et fromage",
+   "t": "الخبز والجبن"
+  },
+  "ing.pains.name": {
+   "fr": "pain à burger moelleux au sésame (ou brioché)",
+   "t": "رغيف برغر طري بالسمسم (أو من البريوش)"
+  },
+  "ing.pains.pl": {
+   "fr": "pains à burger moelleux au sésame (ou briochés)",
+   "t": "أرغفة برغر طرية بالسمسم (أو من البريوش)"
+  },
+  "ing.cheddar.name": {
+   "fr": "tranche de cheddar spécial burger (celui qui fond bien)",
+   "t": "شريحة جبن شيدر خاص بالبرغر (من النوع الذي يذوب جيدًا)"
+  },
+  "ing.cheddar.pl": {
+   "fr": "tranches de cheddar spécial burger (celui qui fond bien)",
+   "t": "شرائح جبن شيدر خاص بالبرغر (من النوع الذي يذوب جيدًا)"
+  },
+  "ing.2.group": {
+   "fr": "Légumes",
+   "t": "الخضر"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon blanc",
+   "t": "بصلة بيضاء"
+  },
+  "ing.oignon.note": {
+   "fr": "2 rondelles fines par burger",
+   "t": "2 شريحة دائرية رقيقة لكل برغر"
+  },
+  "ing.salade.name": {
+   "fr": "laitue iceberg, ou romaine",
+   "t": "خسة آيسبرغ، أو خسة رومانية"
+  },
+  "ing.salade.note": {
+   "fr": "1 feuille par burger",
+   "t": "1 ورقة لكل برغر"
+  },
+  "ing.tomate.name": {
+   "fr": "tomate ronde, mûre mais bien ferme",
+   "t": "حبة طماطم مستديرة، ناضجة لكن متماسكة جيدًا"
+  },
+  "ing.tomate.pl": {
+   "fr": "tomates rondes, mûres mais bien fermes",
+   "t": "حبات طماطم مستديرة، ناضجة لكن متماسكة جيدًا"
+  },
+  "ing.tomate.note": {
+   "fr": "1 tranche par burger, 2 bonnes tranches par tomate",
+   "t": "1 شريحة لكل برغر، و2 شريحة جيدة من كل حبة طماطم"
+  },
+  "ing.cornichons.name": {
+   "fr": "bocal de cornichons",
+   "t": "مرطبان خيار مخلل"
+  },
+  "ing.cornichons.note": {
+   "fr": "pour la sauce et la garniture",
+   "t": "للصلصة والحشوة"
+  },
+  "ing.3.group": {
+   "fr": "Sauce",
+   "t": "الصلصة"
+  },
+  "ing.mayo.name": {
+   "fr": "de mayonnaise",
+   "t": "مايونيز"
+  },
+  "ing.ketchup.name": {
+   "fr": "de ketchup",
+   "t": "كاتشب"
+  },
+  "ing.moutarde.name": {
+   "fr": "de moutarde",
+   "t": "خردل"
+  },
+  "ing.corn-haches.name": {
+   "fr": "de cornichons hachés très fin",
+   "t": "خيار مخلل مفروم ناعمًا جدًا"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.4.group": {
+   "fr": "Le reste",
+   "t": "الباقي"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, pour les pains",
+   "t": "زبدة، للخبز"
+  },
+  "ing.huile.name": {
+   "fr": "Un filet d'huile neutre (tournesol)",
+   "t": "خيط رفيع من زيت المائدة (دوار الشمس)"
+  },
+  "ing.sel-poivre.name": {
+   "fr": "Sel fin et poivre noir du moulin",
+   "t": "ملح ناعم وفلفل أسود مطحون طازجًا"
+  },
+  "equipment.0": {
+   "fr": "Une poêle épaisse en fonte ou en inox, ou une plancha. Pas d'antiadhésif : il n'est pas fait pour le feu vif.",
+   "t": "مقلاة سميكة من الحديد الزهر أو الفولاذ المقاوم للصدأ، أو صفيحة شواء (بلانشا). لا مقلاة غير لاصقة: فهي غير مصنوعة للنار القوية."
+  },
+  "equipment.1": {
+   "fr": "Une spatule en métal, large et rigide.",
+   "t": "ملعقة مسطّحة معدنية، عريضة وصلبة."
+  },
+  "equipment.2": {
+   "fr": "Du papier cuisson, en carrés d'environ 20 cm.",
+   "t": "ورق الخبز، مقطّع مربعات مقاسها نحو 20 سم."
+  },
+  "equipment.3": {
+   "fr": "Une balance de cuisine.",
+   "t": "ميزان مطبخ."
+  },
+  "equipment.4": {
+   "fr": "Une planche et un couteau bien aiguisé.",
+   "t": "لوح تقطيع وسكين حاد جيدًا."
+  },
+  "equipment.5": {
+   "fr": "Un bol, une cuillère à soupe et une cuillère à café.",
+   "t": "وعاء، وملعقة كبيرة، وملعقة صغيرة."
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant.",
+   "t": "ورق ماص."
+  },
+  "steps.0.title": {
+   "fr": "La sauce",
+   "t": "حضّر الصلصة"
+  },
+  "steps.0.text.0": {
+   "fr": "Hache des cornichons très fin, en dés de 2 à 3 mm, jusqu'à en avoir {{corn-haches}}.",
+   "t": "افرم الخيار المخلل ناعمًا جدًا، مكعبات من 2 إلى 3 مم، حتى تحصل على {{corn-haches}} منه."
+  },
+  "steps.0.text.1": {
+   "fr": "Mets dans un bol {{mayo}} de mayonnaise, {{ketchup}} de ketchup, {{moutarde}} de moutarde, les cornichons hachés et {{paprika}} de paprika doux.",
+   "t": "ضع في وعاء {{mayo}} من المايونيز، و{{ketchup}} من الكاتشب، و{{moutarde}} من الخردل، والخيار المخلل المفروم، و{{paprika}} من الفلفل الأحمر الحلو."
+  },
+  "steps.0.text.2": {
+   "fr": "Mélange jusqu'à ce que la couleur soit uniforme, sans traces blanches ni rouges.",
+   "t": "اخلط حتى يصير اللون متجانسًا، دون آثار بيضاء ولا حمراء."
+  },
+  "steps.0.text.3": {
+   "fr": "Couvre et mets au frigo : elle repose pendant que tu prépares le reste.",
+   "t": "غطّها وضعها في الثلاجة: لترتاح بينما تحضّر الباقي."
+  },
+  "steps.0.tip.l": {
+   "fr": "Bon à savoir",
+   "t": "معلومة مفيدة"
+  },
+  "steps.0.tip.t": {
+   "fr": "Toutes les cuillères sont rases. Version express : ketchup et moutarde, le duo classique.",
+   "t": "كل الملاعق ممسوحة. النسخة السريعة: الكاتشب والخردل، الثنائي الكلاسيكي."
+  },
+  "steps.1.title": {
+   "fr": "L'oignon",
+   "t": "حضّر البصل"
+  },
+  "steps.1.text.0": {
+   "fr": "Épluche l'oignon blanc et coupe 2 rondelles très fines (2 mm) par burger, au milieu de l'oignon, là où elles sont les plus larges.",
+   "t": "قشّر البصلة البيضاء واقطع 2 شريحة دائرية رقيقة جدًا (2 مم) لكل برغر، من وسط البصلة، حيث تكون الشرائح أعرض."
+  },
+  "steps.1.text.1": {
+   "fr": "Sépare chaque rondelle en anneaux.",
+   "t": "افصل كل شريحة إلى حلقات."
+  },
+  "steps.1.text.2": {
+   "fr": "Trop fort pour toi ? Laisse les anneaux 10 min dans un bol d'eau froide, puis sèche-les bien dans du papier absorbant.",
+   "t": "طعمه قوي عليك؟ اترك الحلقات 10 دقائق في وعاء من الماء البارد، ثم جفّفها جيدًا بورق ماص."
+  },
+  "steps.1.text.3": {
+   "fr": "Garde le reste de l'oignon pour une autre recette.",
+   "t": "احتفظ بباقي البصلة لوصفة أخرى."
+  },
+  "steps.1.timer.label": {
+   "fr": "Trempage de l'oignon",
+   "t": "نقع البصل"
+  },
+  "steps.1.timer.done": {
+   "fr": "Égoutte l'oignon et sèche-le bien.",
+   "t": "صفِّ البصل وجفّفه جيدًا."
+  },
+  "steps.2.title": {
+   "fr": "La salade",
+   "t": "حضّر الخس"
+  },
+  "steps.2.text.0": {
+   "fr": "Détache 1 feuille d'iceberg (ou de romaine) par burger.",
+   "t": "انزع 1 ورقة من خس الآيسبرغ (أو الخس الروماني) لكل برغر."
+  },
+  "steps.2.text.1": {
+   "fr": "Lave-les, puis sèche-les à fond avec du papier absorbant : une salade mouillée ramollit le pain.",
+   "t": "اغسل الأوراق، ثم جفّفها تمامًا بورق ماص: فالخس المبلّل يليّن الخبز."
+  },
+  "steps.2.text.2": {
+   "fr": "Plie chaque feuille à la taille du pain et garde-les au frais.",
+   "t": "اطوِ كل ورقة على مقاس الخبز واحفظها في مكان بارد."
+  },
+  "steps.3.title": {
+   "fr": "La tomate",
+   "t": "حضّر الطماطم"
+  },
+  "steps.3.text.0": {
+   "fr": "Prends {{tomate:full}}.",
+   "t": "خذ {{tomate:full}}."
+  },
+  "steps.3.text.1": {
+   "fr": "Coupe 1 tranche d'environ 5 mm par burger, au milieu de la tomate, là où les tranches sont les plus larges (2 bonnes tranches par tomate).",
+   "t": "اقطع 1 شريحة بسُمك 5 مم تقريبًا لكل برغر، من وسط حبة الطماطم، حيث تكون الشرائح أعرض (2 شريحة جيدة من كل حبة)."
+  },
+  "steps.3.text.2": {
+   "fr": "Garde le reste pour une salade.",
+   "t": "احتفظ بالباقي لسلطة."
+  },
+  "steps.4.title": {
+   "fr": "Les cornichons",
+   "t": "حضّر الخيار المخلل"
+  },
+  "steps.4.text.0": {
+   "fr": "Coupe 4 fines lamelles dans la longueur par burger, soit 1 à 2 cornichons selon leur taille.",
+   "t": "اقطع 4 شرائح رقيقة بالطول لكل برغر، أي من 1 إلى 2 حبة خيار مخلل حسب حجمها."
+  },
+  "steps.4.text.1": {
+   "fr": "Tu peux aussi les couper en rondelles.",
+   "t": "يمكنك أيضًا تقطيعها إلى شرائح دائرية."
+  },
+  "steps.4.text.2": {
+   "fr": "Pose-les sur du papier absorbant.",
+   "t": "ضعها على ورق ماص."
+  },
+  "steps.5.title": {
+   "fr": "Les boules de viande",
+   "t": "شكّل كرات اللحم"
+  },
+  "steps.5.text.0": {
+   "fr": "Pèse des boules de 80 g, 2 par burger, soit {{boeuf}} en tout. Sans balance, coupe la viande en parts égales.",
+   "t": "زِن كرات من 80 غ، 2 كرة لكل برغر، أي {{boeuf}} في المجموع. وإن لم يكن لديك ميزان، فقسّم اللحم إلى حصص متساوية."
+  },
+  "steps.5.text.1": {
+   "fr": "Roule-les sans tasser, juste assez pour qu'elles tiennent.",
+   "t": "كوّرها دون ضغط، بالقدر الكافي فقط لتتماسك."
+  },
+  "steps.5.text.2": {
+   "fr": "Pas de sel, pas d'épices.",
+   "t": "لا ملح، ولا توابل."
+  },
+  "steps.5.text.3": {
+   "fr": "Pose-les sur une assiette et garde-les au frigo jusqu'au moment de cuire.",
+   "t": "ضعها في صحن واحفظها في الثلاجة حتى وقت الطهي."
+  },
+  "steps.5.text.4": {
+   "fr": "Lave-toi les mains.",
+   "t": "اغسل يديك."
+  },
+  "steps.6.title": {
+   "fr": "Le poste de cuisson",
+   "t": "جهّز مكان الطهي"
+  },
+  "steps.6.text.0": {
+   "fr": "À côté de la poêle : le sel fin, le poivre, la spatule et des carrés de papier cuisson.",
+   "t": "بجانب المقلاة: الملح الناعم، والفلفل الأسود، والملعقة المسطّحة، ومربعات ورق الخبز."
+  },
+  "steps.6.text.1": {
+   "fr": "Sors les tranches de cheddar de leur emballage ({{cheddar}}).",
+   "t": "أخرج شرائح الشيدر من غلافها ({{cheddar}})."
+  },
+  "steps.6.text.2": {
+   "fr": "Ouvre les pains en deux.",
+   "t": "افتح الخبز إلى نصفين."
+  },
+  "steps.6.text.3": {
+   "fr": "Garde à portée de main la sauce, la salade, la tomate, l'oignon et les cornichons.",
+   "t": "أبقِ في متناول يدك الصلصة والخس والطماطم والبصل والخيار المخلل."
+  },
+  "steps.6.tip.l": {
+   "fr": "Pourquoi ?",
+   "t": "لماذا؟"
+  },
+  "steps.6.tip.t": {
+   "fr": "Une fournée ne dure que 3 à 4 minutes : tout doit être prêt avant d'allumer le feu.",
+   "t": "الدفعة الواحدة لا تستغرق إلا من 3 إلى 4 دقائق: يجب أن يكون كل شيء جاهزًا قبل إشعال النار."
+  },
+  "steps.7.title": {
+   "fr": "Toaster les pains",
+   "t": "حمّص الخبز"
+  },
+  "steps.7.dur": {
+   "fr": "1 min",
+   "t": "1 دقيقة"
+  },
+  "steps.7.text.0": {
+   "fr": "Poêle à feu moyen.",
+   "t": "المقلاة على نار متوسطة."
+  },
+  "steps.7.text.1": {
+   "fr": "Étale {{beurre}} de beurre sur les faces coupées (5 g par pain).",
+   "t": "افرد {{beurre}} من الزبدة على الأوجه المقطوعة (5 غ لكل رغيف)."
+  },
+  "steps.7.text.2": {
+   "fr": "Pose les moitiés face coupée contre la poêle pendant environ 1 min, jusqu'à ce qu'elles soient dorées.",
+   "t": "ضع الأنصاف ووجهها المقطوع على المقلاة نحو 1 دقيقة، حتى تتحمّر."
+  },
+  "steps.7.text.3": {
+   "fr": "Réserve-les face grillée vers le haut.",
+   "t": "ضعها جانبًا ووجهها المحمّص إلى الأعلى."
+  },
+  "steps.7.text.4": {
+   "fr": "Essuie la poêle avec du papier absorbant bien plié, car elle est chaude : à feu vif, le beurre brûlerait.",
+   "t": "امسح المقلاة بورق ماص مطوي جيدًا، لأنها ساخنة: فعلى النار القوية تحترق الزبدة."
+  },
+  "steps.7.timer.label": {
+   "fr": "Pains",
+   "t": "الخبز"
+  },
+  "steps.7.timer.done": {
+   "fr": "Faces dorées ? Retire les pains.",
+   "t": "هل تحمّرت الأوجه؟ ارفع الخبز."
+  },
+  "steps.8.title": {
+   "fr": "Garnir les pains",
+   "t": "ضع الحشوة في الخبز"
+  },
+  "steps.8.text.0": {
+   "fr": "Sur chaque pain du bas : 1 c. à soupe de sauce étalée jusqu'aux bords, 1 feuille de salade, puis 1 tranche de tomate.",
+   "t": "على كل نصف سفلي: 1 ملعقة كبيرة من الصلصة مفرودة حتى الحواف، و1 ورقة خس، ثم 1 شريحة طماطم."
+  },
+  "steps.8.text.1": {
+   "fr": "Sur chaque pain du haut : 1 c. à soupe de sauce.",
+   "t": "على كل نصف علوي: 1 ملعقة كبيرة من الصلصة."
+  },
+  "steps.8.text.2": {
+   "fr": "Les steaks iront directement dessus en sortant de la poêle.",
+   "t": "ستوضع أقراص اللحم فوقه مباشرة عند خروجها من المقلاة."
+  },
+  "steps.8.tip.l": {
+   "fr": "Bon à savoir",
+   "t": "معلومة مفيدة"
+  },
+  "steps.8.tip.t": {
+   "fr": "Il restera un petit fond de sauce, c'est normal.",
+   "t": "سيبقى قليل من الصلصة، وهذا طبيعي."
+  },
+  "steps.9.title": {
+   "fr": "Chauffer la poêle",
+   "t": "سخّن المقلاة"
+  },
+  "steps.9.dur": {
+   "fr": "3 à 4 min",
+   "t": "من 3 إلى 4 دقائق"
+  },
+  "steps.9.text.0": {
+   "fr": "Feu vif, poêle vide, pendant 3 à 4 min.",
+   "t": "نار قوية، والمقلاة فارغة، لمدة 3 إلى 4 دقائق."
+  },
+  "steps.9.text.1": {
+   "fr": "Allume la hotte ou ouvre la fenêtre : ça va fumer.",
+   "t": "شغّل الشفّاط أو افتح النافذة: سيتصاعد الدخان."
+  },
+  "steps.9.text.2": {
+   "fr": "Juste avant de poser la viande, ajoute un filet d'huile neutre.",
+   "t": "قبيل وضع اللحم، أضف خيطًا رفيعًا من زيت المائدة."
+  },
+  "steps.9.text.3": {
+   "fr": "C'est prêt quand l'huile ondule et fume légèrement.",
+   "t": "تكون جاهزة عندما يتموّج الزيت ويتصاعد منه دخان خفيف."
+  },
+  "steps.9.tip.l": {
+   "fr": "Attention",
+   "t": "تنبيه"
+  },
+  "steps.9.tip.t": {
+   "fr": "Pas de poêle antiadhésive : elle n'est pas faite pour le feu vif.",
+   "t": "لا مقلاة غير لاصقة: فهي غير مصنوعة للنار القوية."
+  },
+  "steps.9.timer.label": {
+   "fr": "Préchauffage",
+   "t": "التسخين المسبق"
+  },
+  "steps.9.timer.done": {
+   "fr": "La poêle est très chaude : ajoute l'huile.",
+   "t": "المقلاة ساخنة جدًا: أضف الزيت."
+  },
+  "steps.10.title": {
+   "fr": "Écraser",
+   "t": "اسحق كرات اللحم"
+  },
+  "steps.10.text.0": {
+   "fr": "Sors du frigo les boules que tu vas cuire.",
+   "t": "أخرج من الثلاجة الكرات التي ستطهوها."
+  },
+  "steps.10.text.1": {
+   "fr": "Pose 1 ou 2 boules dans la poêle, bien espacées. Une fois écrasé, chaque steak fait 13 à 14 cm de large : ils ne doivent pas se toucher. Sur une plancha, tu peux en faire plus.",
+   "t": "ضع 1 أو 2 كرة في المقلاة، متباعدة جيدًا. بعد السحق، يبلغ عرض كل قرص من 13 إلى 14 سم: يجب ألا تتلامس الأقراص. وعلى صفيحة الشواء، يمكنك أن تطهو عددًا أكبر."
+  },
+  "steps.10.text.2": {
+   "fr": "Pose un carré de papier cuisson sur la boule et écrase fort avec la spatule, tout de suite. Appuie avec l'autre main sur la spatule, ou avec le fond d'une casserole.",
+   "t": "ضع مربعًا من ورق الخبز على الكرة واسحقها بقوة بالملعقة المسطّحة، فورًا. اضغط على الملعقة بيدك الأخرى، أو بقاع طنجرة."
+  },
+  "steps.10.text.3": {
+   "fr": "Vise environ 0,5 cm d'épaisseur, un peu plus large que le pain : le steak rétrécit à la cuisson.",
+   "t": "استهدف سُمكًا يقارب 0,5 سم، وعرضًا أكبر قليلًا من الخبز: فالقرص ينكمش أثناء الطهي."
+  },
+  "steps.10.text.4": {
+   "fr": "Retire le papier. Ensuite, on n'appuie plus jamais.",
+   "t": "أزل الورق. وبعد ذلك، لا تضغط عليه أبدًا."
+  },
+  "steps.10.tip.l": {
+   "fr": "Pourquoi une seule fois ?",
+   "t": "لماذا مرة واحدة فقط؟"
+  },
+  "steps.10.tip.t": {
+   "fr": "Si tu appuies plus tard, le jus sort du steak.",
+   "t": "إذا ضغطت لاحقًا، خرجت العصارة من القرص."
+  },
+  "steps.11.title": {
+   "fr": "Saler et poivrer",
+   "t": "ملّح وفلفل"
+  },
+  "steps.11.text.0": {
+   "fr": "Tout de suite après avoir écrasé : une bonne pincée de sel fin, lâchée d'une vingtaine de centimètres de haut pour couvrir jusqu'aux bords.",
+   "t": "فور السحق: رشة جيدة من الملح الناعم، تُسقطها من ارتفاع عشرين سنتيمترًا تقريبًا لتغطي القرص حتى الحواف."
+  },
+  "steps.11.text.1": {
+   "fr": "Puis 1 ou 2 tours de moulin à poivre.",
+   "t": "ثم 1 أو 2 لفة من مطحنة الفلفل الأسود."
+  },
+  "steps.11.text.2": {
+   "fr": "Une seule face suffit : le steak est très fin.",
+   "t": "يكفي وجه واحد: فالقرص رقيق جدًا."
+  },
+  "steps.11.text.3": {
+   "fr": "Si tu cuis en plusieurs fournées, assaisonne chaque steak au moment où tu l'écrases.",
+   "t": "إذا كنت تطهو على عدة دفعات، فتبّل كل قرص لحظة سحقه."
+  },
+  "steps.11.tip.l": {
+   "fr": "Pourquoi pas avant ?",
+   "t": "لماذا لا نملّح قبل ذلك؟"
+  },
+  "steps.11.tip.t": {
+   "fr": "Le sel mélangé à la viande crue dissout certaines protéines, qui se collent entre elles : le steak devient serré et élastique comme une saucisse.",
+   "t": "الملح المخلوط باللحم النيء يذيب بعض البروتينات، فتلتصق ببعضها: فيصير القرص متماسكًا ومطاطيًا مثل النقانق."
+  },
+  "steps.12.title": {
+   "fr": "Cuire la première face",
+   "t": "اطبخ الوجه الأول"
+  },
+  "steps.12.dur": {
+   "fr": "2 min",
+   "t": "2 دقيقة"
+  },
+  "steps.12.text.0": {
+   "fr": "Ne touche à rien pendant environ 2 min.",
+   "t": "لا تلمس شيئًا لمدة 2 دقيقة تقريبًا."
+  },
+  "steps.12.text.1": {
+   "fr": "C'est prêt à retourner quand les bords sont brun foncé et croustillants, et que le dessus devient gris sur le pourtour.",
+   "t": "يكون جاهزًا للقلب عندما تصير الحواف بنية داكنة ومقرمشة، ويصير لون السطح رماديًا حول الأطراف."
+  },
+  "steps.12.timer.label": {
+   "fr": "Première face",
+   "t": "الوجه الأول"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bords bien bruns ? Retourne les steaks.",
+   "t": "هل صارت الحواف بنية جيدًا؟ اقلب الأقراص."
+  },
+  "steps.13.title": {
+   "fr": "Retourner et ajouter le cheddar",
+   "t": "اقلب القرص وأضف الشيدر"
+  },
+  "steps.13.dur": {
+   "fr": "30 s à 1 min",
+   "t": "من 30 ثانية إلى 1 دقيقة"
+  },
+  "steps.13.text.0": {
+   "fr": "Glisse la spatule sous le steak en raclant fort le fond de la poêle : la croûte doit rester collée au steak.",
+   "t": "أدخل الملعقة المسطّحة تحت القرص مع كشط قاع المقلاة بقوة: يجب أن تبقى القشرة ملتصقة بالقرص."
+  },
+  "steps.13.text.1": {
+   "fr": "Retourne-le.",
+   "t": "اقلبه."
+  },
+  "steps.13.text.2": {
+   "fr": "Tu l'aimes plus salé ? Mets une petite pincée de sel sur cette face.",
+   "t": "تحبه أكثر ملوحة؟ ضع رشة صغيرة من الملح على هذا الوجه."
+  },
+  "steps.13.text.3": {
+   "fr": "Pose tout de suite 1 tranche de cheddar sur chaque steak.",
+   "t": "ضع فورًا 1 شريحة شيدر على كل قرص."
+  },
+  "steps.13.text.4": {
+   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur.",
+   "t": "اتركه من 30 ثانية إلى 1 دقيقة، حتى يذوب الجبن. وبهذا السُّمك، ينضج القرص حتى قلبه."
+  },
+  "steps.13.timer.label": {
+   "fr": "Fromage",
+   "t": "الجبن"
+  },
+  "steps.13.timer.done": {
+   "fr": "Le fromage a fondu ? Sors les steaks.",
+   "t": "هل ذاب الجبن؟ أخرج الأقراص."
+  },
+  "steps.14.title": {
+   "fr": "Monter le burger",
+   "t": "ركّب البرغر"
+  },
+  "steps.14.text.0": {
+   "fr": "Pose le premier steak-fromage sur un pain du bas garni, puis le deuxième par-dessus.",
+   "t": "ضع القرص الأول بجبنه على نصف سفلي محشو، ثم الثاني فوقه."
+  },
+  "steps.14.text.1": {
+   "fr": "Ajoute 2 rondelles d'oignon, puis 4 lamelles de cornichon.",
+   "t": "أضف 2 شريحة بصل، ثم 4 شرائح من الخيار المخلل."
+  },
+  "steps.14.text.2": {
+   "fr": "Ferme avec le pain du haut, face sauce vers le bas.",
+   "t": "أغلقه بالنصف العلوي، ووجه الصلصة إلى الأسفل."
+  },
+  "steps.14.text.3": {
+   "fr": "Mange tout de suite.",
+   "t": "كُله فورًا."
+  },
+  "steps.15.title": {
+   "fr": "Fournée suivante",
+   "t": "انتقل إلى الدفعة التالية"
+  },
+  "steps.15.text.0": {
+   "fr": "S'il reste des boules : racle la poêle avec la spatule pour enlever les restes collés, sinon ils brûlent.",
+   "t": "إن بقيت كرات: اكشط المقلاة بالملعقة المسطّحة لإزالة البقايا الملتصقة، وإلا احترقت."
+  },
+  "steps.15.text.1": {
+   "fr": "Remets un filet d'huile et attends qu'elle fume légèrement.",
+   "t": "أضف من جديد خيطًا رفيعًا من الزيت وانتظر حتى يتصاعد منه دخان خفيف."
+  },
+  "steps.15.text.2": {
+   "fr": "Reprends à l'étape « Écraser », jusqu'à ce que tous les steaks soient cuits.",
+   "t": "عُد إلى خطوة «اسحق كرات اللحم»، حتى تنضج كل الأقراص."
+  },
+  "secrets.0.text": {
+   "fr": "On n'écrase qu'une fois, tout de suite après avoir posé la boule : après, le jus s'en va.",
+   "t": "لا نسحق إلا مرة واحدة، فور وضع الكرة: بعد ذلك تخرج العصارة."
+  },
+  "secrets.1.text": {
+   "fr": "On sale seulement le dessus, juste après avoir écrasé, jamais la viande crue à l'avance.",
+   "t": "نملّح السطح فقط، مباشرة بعد السحق، ولا نملّح اللحم النيء مسبقًا أبدًا."
+  },
+  "secrets.2.text": {
+   "fr": "Une poêle en fonte très chaude, sans antiadhésif : c'est la croûte qui fait le goût.",
+   "t": "مقلاة من الحديد الزهر ساخنة جدًا، بلا طلاء غير لاصق: فالقشرة هي التي تصنع النكهة."
+  },
+  "secrets.3.text": {
+   "fr": "On racle fort sous le steak au moment de le retourner, pour garder toute la croûte.",
+   "t": "نكشط بقوة تحت القرص عند قلبه، للحفاظ على القشرة كاملة."
+  },
+  "secrets.4.text": {
+   "fr": "Le gras du bœuf (environ 20 %) fait le burger juteux : demande-le à ton boucher.",
+   "t": "دهن البقر (نحو 20 %) يجعل البرغر عصيريًا: اطلبه من جزارك."
+  },
+  "mistakes.0": {
+   "fr": "Saler la viande à l'avance : elle devient élastique comme une saucisse.",
+   "t": "تمليح اللحم مسبقًا: يصير مطاطيًا مثل النقانق."
+  },
+  "mistakes.1": {
+   "fr": "Appuyer encore sur le steak : on n'écrase qu'une fois, au début, sinon le jus s'en va.",
+   "t": "الضغط على القرص مرة أخرى: لا نسحق إلا مرة واحدة، في البداية، وإلا خرجت العصارة."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop de steaks à la fois : la poêle refroidit et la viande bout au lieu de griller.",
+   "t": "وضع أقراص كثيرة في وقت واحد: تبرد المقلاة ويُسلق اللحم بدل أن يتحمّر."
+  },
+  "mistakes.3": {
+   "fr": "Une poêle pas assez chaude : pas de croûte.",
+   "t": "مقلاة غير ساخنة بما يكفي: لا قشرة."
+  },
+  "mistakes.4": {
+   "fr": "Une salade mal séchée : le pain devient mou.",
+   "t": "خس غير مجفّف جيدًا: يتليّن الخبز."
+  },
+  "mistakes.5": {
+   "fr": "Attendre avant de manger : un smash burger se mange tout de suite.",
+   "t": "الانتظار قبل الأكل: السماش برغر يؤكل فورًا."
+  }
+ }
+}

@@ -1,0 +1,610 @@
+{
+ "_slug": "tajine-poisson",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Tajine de poisson à la chermoula",
+   "t": "Рыбный таджин с чермулой"
+  },
+  "darija": {
+   "fr": "Tajine l'hout bel chermoula",
+   "t": "Таджин ль-хут бель чермула"
+  },
+  "tagline": {
+   "fr": "Du poisson mariné dans une chermoula bien citronnée, cuit doucement sur un lit de carottes, de pommes de terre et de tomates, avec poivrons, olives et citron confit.",
+   "t": "Рыба, маринованная в чермуле с ярким лимонным вкусом и медленно приготовленная на подушке из моркови, картофеля и помидоров, со сладким перцем, оливками и солёным лимоном."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; dans le Nord (Tanger, Tétouan), le poisson cuit aussi dans une tagra",
+   "t": "Всё Марокко; на севере (Танжер, Тетуан) рыбу готовят также в тагре"
+  },
+  "occasion": {
+   "fr": "Plat à partager, seul ou avec des salades",
+   "t": "Блюдо, которое едят все вместе, само по себе или с салатами"
+  },
+  "img_alt": {
+   "fr": "Tajine de poisson aux pommes de terre et aux olives vertes, en sauce tomate",
+   "t": "Рыбный таджин с картофелем и зелёными оливками в томатном соусе"
+  },
+  "serving": {
+   "fr": "Bien chaud ou tiède (Bladi.net), directement dans le tajine posé au centre de la table : chacun mange de son côté avec du pain marocain, en plat unique ou avec des salades (Taste of Maroc). Cooking with Alia le sert avec du pain croustillant ; My Moroccan Food sert son tajine de sardines avec du pain ou du couscous.",
+   "t": "Подавайте очень горячим или тёплым (Bladi.net), прямо в таджине, поставив его в центр стола: каждый ест со своей стороны с марокканским хлебом, как самостоятельное блюдо или с салатами (Taste of Maroc). Cooking with Alia подаёт его с хрустящим хлебом; My Moroccan Food подаёт свой таджин из сардин с хлебом или кускусом."
+  },
+  "ing.0.group": {
+   "fr": "Poisson",
+   "t": "Рыба"
+  },
+  "ing.poisson.name": {
+   "fr": "de poisson à chair ferme (loup, dorade, pageot, maigre ou congre)",
+   "t": "рыбы с плотным мясом (сибас, дорада, пагель, горбыль или морской угорь)"
+  },
+  "ing.poisson.note": {
+   "fr": "écaillé, vidé et coupé en darnes épaisses ; ou un poisson entier",
+   "t": "очищенной от чешуи, выпотрошенной и нарезанной толстыми стейками; или целая рыба"
+  },
+  "ing.1.group": {
+   "fr": "Chermoula",
+   "t": "Чермула"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "свежей кинзы"
+  },
+  "ing.coriandre.note": {
+   "fr": "les feuilles pour la chermoula, les tiges pour le fond du tajine",
+   "t": "листья — для чермулы, стебли — на дно таджина"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à peler",
+   "t": "очистить"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment doux en poudre)",
+   "t": "сладкой паприки (молотого сладкого перца)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина (зиры)"
+  },
+  "ing.piment.name": {
+   "fr": "de piment fort en poudre (cayenne), facultatif",
+   "t": "молотого острого перца (кайенского), по желанию"
+  },
+  "ing.jus-citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "свежего лимонного сока"
+  },
+  "ing.huile-chermoula.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.2.group": {
+   "fr": "Lit de légumes et garniture",
+   "t": "Овощная подушка и гарнир"
+  },
+  "ing.huile-fond.name": {
+   "fr": "d'huile d'olive, pour le fond",
+   "t": "оливкового масла для дна"
+  },
+  "ing.celeri.name": {
+   "fr": "branches de céleri ou petites brochettes en bois",
+   "t": "стебли сельдерея или маленькие деревянные шпажки"
+  },
+  "ing.celeri.note": {
+   "fr": "facultatif : seulement si les tiges de coriandre ne suffisent pas à couvrir le fond",
+   "t": "по желанию: только если стеблей кинзы не хватает, чтобы покрыть дно"
+  },
+  "ing.carottes.name": {
+   "fr": "carotte",
+   "t": "морковь"
+  },
+  "ing.carottes.pl": {
+   "fr": "carottes",
+   "t": "моркови"
+  },
+  "ing.carottes.pl5": {
+   "fr": "carotte / carottes",
+   "t": "морковей"
+  },
+  "ing.carottes.note": {
+   "fr": "à peler et couper en bâtonnets de 0,5 cm",
+   "t": "очистить и нарезать брусочками по 0,5 см"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "grosse pomme de terre",
+   "t": "картофелина крупного размера"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "grosses pommes de terre",
+   "t": "картофелины крупного размера"
+  },
+  "ing.pommes-de-terre.note": {
+   "fr": "environ 200 g pièce ; à peler et couper en rondelles de 0,5 cm",
+   "t": "около 200 г каждая; очистить и нарезать кружками толщиной 0,5 см"
+  },
+  "ing.pommes-de-terre.pl5": {
+   "fr": "grosse pomme de terre / grosses pommes de terre",
+   "t": "картофелин крупного размера"
+  },
+  "ing.tomates.name": {
+   "fr": "grosse tomate mûre",
+   "t": "помидор крупного размера (выбирайте спелые)"
+  },
+  "ing.tomates.pl": {
+   "fr": "grosses tomates mûres",
+   "t": "помидора крупного размера (выбирайте спелые)"
+  },
+  "ing.tomates.pl5": {
+   "fr": "grosse tomate mûre / grosses tomates mûres",
+   "t": "помидоров крупного размера (выбирайте спелые)"
+  },
+  "ing.tomates.note": {
+   "fr": "à couper en rondelles",
+   "t": "нарезать кружками"
+  },
+  "ing.poivrons.name": {
+   "fr": "poivron (vert, rouge ou jaune)",
+   "t": "стручок сладкого перца (зелёного, красного или жёлтого)"
+  },
+  "ing.poivrons.pl": {
+   "fr": "poivrons (verts, rouges ou jaunes)",
+   "t": "стручка сладкого перца (зелёного, красного или жёлтого)"
+  },
+  "ing.poivrons.pl5": {
+   "fr": "poivron (vert, rouge ou jaune) / poivrons (verts, rouges ou jaunes)",
+   "t": "стручков сладкого перца (зелёного, красного или жёлтого)"
+  },
+  "ing.poivrons.note": {
+   "fr": "à épépiner et couper en fines lanières ; un poivron rouge adoucit le plat",
+   "t": "удалить семена и нарезать тонкими полосками; красный перец делает блюдо мягче"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "молотый чёрный перец по вкусу"
+  },
+  "ing.piment-vert.name": {
+   "fr": "piment vert piquant",
+   "t": "стручок острого зелёного перца"
+  },
+  "ing.piment-vert.pl": {
+   "fr": "piments verts piquants",
+   "t": "стручка острого зелёного перца"
+  },
+  "ing.piment-vert.pl5": {
+   "fr": "piment vert piquant / piments verts piquants",
+   "t": "стручков острого зелёного перца"
+  },
+  "ing.piment-vert.note": {
+   "fr": "facultatif ; à poser entier",
+   "t": "по желанию; положить целиком"
+  },
+  "ing.citron-rondelles.name": {
+   "fr": "quelques rondelles de citron frais",
+   "t": "несколько кружков свежего лимона"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives vertes ou rouges",
+   "t": "зелёных или красных оливок"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "шт. солёного лимона"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "шт. солёного лимона"
+  },
+  "ing.citron-confit.pl5": {
+   "fr": "citron confit / citrons confits",
+   "t": "шт. солёного лимона"
+  },
+  "ing.citron-confit.note": {
+   "fr": "à couper en quartiers, sans les pépins",
+   "t": "нарезать дольками, без косточек"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "equipment.0": {
+   "fr": "Grand tajine en terre avec son couvercle, ou sauteuse profonde avec couvercle",
+   "t": "Большой глиняный таджин с крышкой или глубокий сотейник с крышкой"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+   "t": "Рассекатель пламени (для глиняного таджина, если плита не газовая)"
+  },
+  "equipment.2": {
+   "fr": "Mortier et pilon, ou hachoir",
+   "t": "Ступка с пестиком или измельчитель"
+  },
+  "equipment.3": {
+   "fr": "Plat creux avec couvercle ou film, pour la marinade",
+   "t": "Глубокое блюдо с крышкой или пищевой плёнкой, для маринада"
+  },
+  "equipment.4": {
+   "fr": "Petit bol",
+   "t": "Мисочка"
+  },
+  "equipment.5": {
+   "fr": "Planche et couteau réservés au poisson cru",
+   "t": "Доска и нож только для сырой рыбы"
+  },
+  "equipment.6": {
+   "fr": "Papier absorbant",
+   "t": "Бумажные полотенца"
+  },
+  "equipment.7": {
+   "fr": "Petite casserole (pour réduire la sauce si besoin)",
+   "t": "Небольшая кастрюля (чтобы при необходимости уварить соус)"
+  },
+  "steps.0.title": {
+   "fr": "Choisis un poisson bien frais",
+   "t": "Выберите очень свежую рыбу"
+  },
+  "steps.0.text": {
+   "fr": "Prends {{poisson:full}}. Il doit sentir frais et doux, jamais fort, aigre ou l'ammoniaque. Entier, il a l'œil clair et brillant, les ouïes rouges et une chair ferme qui reprend sa forme quand tu appuies dessus. Demande au poissonnier de l'écailler, de le vider et de le couper en darnes épaisses.",
+   "t": "Возьмите {{poisson:full}}. Она должна пахнуть свежо и мягко, но ни в коем случае не резко, не кисло и не аммиаком. У целой рыбы глаза прозрачные и блестящие, жабры красные, а мясо плотное и восстанавливает форму, если на него надавить. Попросите продавца очистить её от чешуи, выпотрошить и нарезать толстыми стейками."
+  },
+  "steps.0.tip": {
+   "fr": "Garde-le dans la partie la plus froide du réfrigérateur (4 °C) et cuisine-le dans les 2 jours ; sinon, congèle-le. Surgelé, fais-le décongeler une nuit au réfrigérateur (FDA ; ANSES).",
+   "t": "Храните её в самой холодной части холодильника (4 °C) и приготовьте в течение 2 дней; иначе заморозьте. Замороженную рыбу размораживайте в течение ночи в холодильнике (FDA; ANSES)."
+  },
+  "steps.1.title": {
+   "fr": "Rince et sèche le poisson",
+   "t": "Промойте и обсушите рыбу"
+  },
+  "steps.1.text": {
+   "fr": "Rince les darnes à l'eau froide, égoutte-les, puis sèche-les avec du papier absorbant. Lave-toi ensuite les mains au savon pendant 20 secondes, puis la planche, le couteau et le plan de travail à l'eau chaude savonneuse.",
+   "t": "Промойте стейки холодной водой, дайте воде стечь, затем обсушите их бумажными полотенцами. Потом вымойте руки с мылом в течение 20 секунд, а доску, нож и рабочую поверхность — горячей мыльной водой."
+  },
+  "steps.2.title": {
+   "fr": "Pile la chermoula",
+   "t": "Разотрите чермулу в ступке"
+  },
+  "steps.2.text": {
+   "fr": "Lave et effeuille {{coriandre:full}} : hache finement les feuilles et garde les tiges. Au mortier, pile {{ail:full}} avec {{sel}} de sel, puis ajoute la coriandre hachée et pile encore. Mélange avec {{paprika}} de paprika doux, {{cumin}} de cumin, {{piment}} de piment fort si tu aimes, {{jus-citron}} de jus de citron et {{huile-chermoula}} d'huile d'olive. Si la chermoula est trop épaisse, détends-la avec un peu d'eau.",
+   "t": "Вымойте {{coriandre:full}} и оборвите листья: мелко порубите их, а стебли сохраните. В ступке разотрите {{ail:full}} с {{sel}} соли, затем добавьте рубленую кинзу и ещё раз разотрите. Смешайте с {{paprika}} сладкой паприки, {{cumin}} кумина, {{piment}} острого перца, если любите острое, {{jus-citron}} лимонного сока и {{huile-chermoula}} оливкового масла. Если чермула слишком густая, разбавьте её небольшим количеством воды."
+  },
+  "steps.2.tip": {
+   "fr": "Hache bien la coriandre avant de la piler, sinon la chermoula devient filandreuse. Sans mortier, un hachoir ou un mixeur fait l'affaire.",
+   "t": "Хорошо порубите кинзу, прежде чем растирать её, иначе чермула получится волокнистой. Если ступки нет, подойдёт измельчитель или блендер."
+  },
+  "steps.3.title": {
+   "fr": "Mets la moitié de la chermoula de côté",
+   "t": "Отложите половину чермулы"
+  },
+  "steps.3.text": {
+   "fr": "Avant de toucher le poisson, verse la moitié de la chermoula dans un petit bol : elle servira aux légumes. Couvre-la et garde-la au réfrigérateur.",
+   "t": "Прежде чем прикасаться к рыбе, переложите половину чермулы в мисочку: она пойдёт на овощи. Накройте её и уберите в холодильник."
+  },
+  "steps.4.title": {
+   "fr": "Fais mariner le poisson",
+   "t": "Замаринуйте рыбу"
+  },
+  "steps.4.text": {
+   "fr": "Enrobe bien chaque darne avec l'autre moitié de la chermoula. Couvre et laisse mariner au réfrigérateur au moins 30 min, et jusqu'à 2 h si tu as le temps.",
+   "t": "Хорошо обмажьте каждый стейк второй половиной чермулы. Накройте и оставьте мариноваться в холодильнике минимум на 30 мин, а если есть время — до 2 ч."
+  },
+  "steps.4.tip": {
+   "fr": "Ne laisse pas le poisson cru mariner hors du réfrigérateur.",
+   "t": "Не оставляйте сырую рыбу мариноваться вне холодильника."
+  },
+  "steps.4.timer.label": {
+   "fr": "Marinade du poisson",
+   "t": "Рыба маринуется"
+  },
+  "steps.4.timer.done": {
+   "fr": "Le poisson a mariné 30 min : tu peux monter le tajine, ou le laisser jusqu'à 2 h au frais.",
+   "t": "Рыба мариновалась 30 мин: можно собирать таджин или оставить её в холодильнике до 2 ч."
+  },
+  "steps.5.title": {
+   "fr": "Coupe les légumes",
+   "t": "Нарежьте овощи"
+  },
+  "steps.5.text": {
+   "fr": "Pendant la marinade, lave les légumes et le citron frais à l'eau potable. Pèle {{carottes:full}}, puis coupe en bâtonnets de 0,5 cm. Pèle {{pommes-de-terre:full}}, puis coupe en rondelles de 0,5 cm, pas plus épaisses. Coupe {{tomates:full}} en rondelles et {{poivrons:full}} en fines lanières, sans les graines. Coupe {{citron-confit:full}} en quartiers, sans les pépins.",
+   "t": "Пока рыба маринуется, вымойте овощи и свежий лимон питьевой водой. Очистите морковь ({{carottes}} шт.) и нарежьте брусочками по 0,5 см. Очистите картофель ({{pommes-de-terre}} шт.) и нарежьте кружками толщиной 0,5 см, не толще. Нарежьте кружками помидоры ({{tomates}} шт.), а сладкий перец ({{poivrons}} шт.) — тонкими полосками, удалив семена. Нарежьте дольками солёный лимон ({{citron-confit}} шт.), удалив косточки."
+  },
+  "steps.5.tip": {
+   "fr": "Des rondelles trop épaisses cuisent trop lentement : le poisson sécherait avant qu'elles soient tendres.",
+   "t": "Слишком толстые кружки готовятся слишком медленно: рыба пересохнет раньше, чем они станут мягкими."
+  },
+  "steps.6.title": {
+   "fr": "Tapisse le fond du tajine",
+   "t": "Выстелите дно таджина"
+  },
+  "steps.6.text": {
+   "fr": "Verse {{huile-fond}} d'huile d'olive au fond du tajine. Pose dessus les tiges de coriandre en croisillons ; s'il en manque, complète avec quelques {{celeri}}. Ce lit empêche le reste de toucher le fond, d'attacher et de brûler.",
+   "t": "Влейте на дно таджина {{huile-fond}} оливкового масла. Выложите сверху крест-накрест стебли кинзы; если их не хватает, добавьте несколько стеблей сельдерея или маленьких деревянных шпажек. Эта подложка не даёт остальному касаться дна, прилипать и подгорать."
+  },
+  "steps.7.title": {
+   "fr": "Monte le lit de carottes et de pommes de terre",
+   "t": "Выложите подушку из моркови и картофеля"
+  },
+  "steps.7.text": {
+   "fr": "Étale les bâtonnets de carottes sur les tiges, puis couvre-les avec les rondelles de pommes de terre. Saupoudre de {{poivre}}, mais ne sale pas : le citron confit et les olives saleront le plat.",
+   "t": "Разложите брусочки моркови на стеблях, затем накройте их кружками картофеля. Посыпьте молотым чёрным перцем по вкусу, но не солите: солёный лимон и оливки сделают блюдо солёным."
+  },
+  "steps.8.title": {
+   "fr": "Ajoute les tomates et la chermoula gardée",
+   "t": "Добавьте помидоры и отложенную чермулу"
+  },
+  "steps.8.text": {
+   "fr": "Couvre les pommes de terre avec les rondelles de tomates, puis étale dessus la chermoula que tu as mise de côté.",
+   "t": "Накройте картофель кружками помидоров, затем распределите сверху отложенную чермулу."
+  },
+  "steps.9.title": {
+   "fr": "Pose le poisson et la garniture",
+   "t": "Выложите рыбу и гарнир"
+  },
+  "steps.9.text": {
+   "fr": "Dispose les darnes et leur marinade sur les tomates. Couvre-les de lanières de poivron, puis ajoute {{piment-vert:full}} si tu veux et {{citron-rondelles}}. Répartis {{olives}} d'olives et les quartiers de citron confit tout autour.",
+   "t": "Выложите стейки вместе с маринадом на помидоры. Накройте их полосками сладкого перца, затем, по желанию, добавьте {{piment-vert:full}} и {{citron-rondelles}}. Разложите вокруг {{olives}} оливок и дольки солёного лимона."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute l'eau et mets sur le feu",
+   "t": "Добавьте воду и поставьте на огонь"
+  },
+  "steps.10.text": {
+   "fr": "Verse {{eau}} d'eau dans le tajine et couvre. Pose-le sur feu moyen-doux et laisse le frémissement venir doucement. Sans gaz, mets toujours un diffuseur sous un tajine en terre.",
+   "t": "Влейте в таджин {{eau}} воды и накройте крышкой. Поставьте его на огонь ниже среднего и дайте содержимому постепенно дойти до лёгкого кипения. Если плита не газовая, всегда ставьте под глиняный таджин рассекатель."
+  },
+  "steps.11.title": {
+   "fr": "Laisse cuire à couvert",
+   "t": "Готовьте под крышкой"
+  },
+  "steps.11.text": {
+   "fr": "Laisse cuire 30 min à couvert, puis vérifie : les pommes de terre doivent être tendres et le poisson doit se détacher facilement à la fourchette. Sinon, poursuis à feu doux et vérifie souvent. Au tajine en terre, c'est plus long : Taste of Maroc compte environ 1 h de frémissement.",
+   "t": "Готовьте 30 мин под крышкой, затем проверьте: картофель должен стать мягким, а рыба — легко отделяться вилкой. Если нет, продолжайте готовить на слабом огне и часто проверяйте. В глиняном таджине это дольше: Taste of Maroc отводит около 1 ч слабого кипения."
+  },
+  "steps.11.tip": {
+   "fr": "Avec un thermomètre, le cœur du poisson doit atteindre 70 °C (Santé Canada).",
+   "t": "Если есть термометр: в толще рыбы должно быть 70 °C (Santé Canada)."
+  },
+  "steps.11.timer.label": {
+   "fr": "Cuisson du tajine",
+   "t": "Таджин готовится"
+  },
+  "steps.11.timer.done": {
+   "fr": "Pommes de terre tendres et poisson qui se détache à la fourchette ? Sinon, prolonge à feu doux et vérifie souvent.",
+   "t": "Картофель мягкий, а рыба легко отделяется вилкой? Если нет, готовьте дольше на слабом огне и часто проверяйте."
+  },
+  "steps.12.title": {
+   "fr": "Ajuste la sauce",
+   "t": "Доведите соус до нужной густоты"
+  },
+  "steps.12.text": {
+   "fr": "La sauce doit être réduite et épaisse. S'il y en a trop, verse-la délicatement dans une petite casserole, fais-la réduire, puis reverse-la sur le poisson. Goûte et ajoute du sel seulement si besoin.",
+   "t": "Соус должен увариться и стать густым. Если его слишком много, осторожно слейте его в небольшую кастрюлю, уварите, затем снова полейте им рыбу. Попробуйте и добавьте соль, только если нужно."
+  },
+  "steps.13.title": {
+   "fr": "Sers dans le tajine",
+   "t": "Подавайте в таджине"
+  },
+  "steps.13.text": {
+   "fr": "Sers bien chaud ou tiède, directement dans le tajine posé au centre de la table. Chacun mange de son côté, avec du pain marocain.",
+   "t": "Подавайте очень горячим или тёплым, прямо в таджине, поставив его в центр стола. Каждый ест со своей стороны, с марокканским хлебом."
+  },
+  "steps.14.title": {
+   "fr": "Range vite les restes",
+   "t": "Быстро уберите остатки"
+  },
+  "steps.14.text": {
+   "fr": "Ne laisse pas le tajine plus de 2 h à température ambiante, ni plus d'1 h s'il fait plus de 32 °C. Mets les restes dans une boîte fermée au réfrigérateur et mange-les dans les 3 jours. Réchauffe-les à couvert jusqu'à ce que la vapeur s'échappe et que ce soit bien chaud à cœur (74 °C).",
+   "t": "Не оставляйте таджин при комнатной температуре дольше 2 ч, а если жарче 32 °C — дольше 1 ч. Переложите остатки в закрытый контейнер, уберите в холодильник и съешьте в течение 3 дней. Разогревайте их под крышкой, пока не пойдёт пар и всё не прогреется насквозь (74 °C)."
+  },
+  "secrets.0.text": {
+   "fr": "Protège le fond : Choumicha tapisse le tajine de tiges de coriandre ou de brochettes en bois, Bladi pose des branches de coriandre en quadrillage, Lalla Moulati un peu de persil et de légumes, et Taste of Maroc des bâtonnets de céleri ou de petites brochettes. Rien ne touche le fond, rien n'attache.",
+   "t": "Защитите дно: Choumicha выстилает таджин стеблями кинзы или деревянными шпажками, Bladi выкладывает веточки кинзы решёткой, Lalla Moulati — немного петрушки и овощей, а Taste of Maroc — брусочки сельдерея или маленькие шпажки. Ничто не касается дна, ничего не прилипает."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha ; Bladi.net ; Lalla Moulati ; Taste of Maroc (Christine Benlafquih)",
+   "t": "Choumicha, Bladi.net, Lalla Moulati и Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.1.text": {
+   "fr": "Les carottes forment le premier étage du lit, sous les pommes de terre ; chez Cooking with Alia et Lalla Moulati, elles sont posées directement au fond du tajine.",
+   "t": "Морковь — нижний ярус подушки, под картофелем; у Cooking with Alia и Lalla Moulati её кладут прямо на дно таджина."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc (Christine Benlafquih), Cooking with Alia и Lalla Moulati"
+  },
+  "secrets.2.text": {
+   "fr": "Moitié-moitié : une moitié de la chermoula marine le poisson, l'autre parfume les légumes. Mets-la de côté avant de toucher le poisson cru.",
+   "t": "Пополам: одна половина чермулы маринует рыбу, другая ароматизирует овощи. Отложите её, прежде чем прикасаться к сырой рыбе."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Choumicha ; My Moroccan Food (Nargisse Benkabbou) ; Lalla Moulati",
+   "t": "Taste of Maroc (Christine Benlafquih); Choumicha; My Moroccan Food (Nargisse Benkabbou) и Lalla Moulati"
+  },
+  "secrets.3.text": {
+   "fr": "La meilleure chermoula se fait au mortier : pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées et les épices.",
+   "t": "Лучшая чермула получается в ступке: сначала разотрите чеснок с солью, затем добавьте хорошо порубленную зелень и специи."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi.net",
+   "t": "Taste of Maroc (Nada Kiffa) и Bladi.net"
+  },
+  "secrets.4.text": {
+   "fr": "Pour le poisson, on aime une chermoula bien citronnée. Choumicha, elle, met du vinaigre.",
+   "t": "Для рыбы любят чермулу с ярким лимонным вкусом. А Choumicha кладёт уксус."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha",
+   "t": "Taste of Maroc (Nada Kiffa) и Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Coupe les pommes de terre finement (0,5 cm) : trop épaisses, elles demandent plus de cuisson et le poisson sèche avant qu'elles soient tendres.",
+   "t": "Нарезайте картофель тонко (0,5 см): слишком толстый готовится дольше, и рыба пересыхает раньше, чем он станет мягким."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc (Christine Benlafquih)",
+   "t": "My Moroccan Food (Nargisse Benkabbou) и Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "t": "В Марокко берут плотную толстую рыбу: горбыля, сибаса, дораду или пагеля, морского угря. Подойдут и целые сардины или мерланы. Морской угорь жирный, но в нём мало костей, и при готовке он выделяет воду: с ним можно обойтись без воды."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha",
+   "t": "Taste of Maroc (Christine Benlafquih), Bladi.net и Choumicha"
+  },
+  "secrets.7.text": {
+   "fr": "Avec des filets fins ou de petits poissons, fais d'abord cuire les légumes à moitié, puis pose le poisson dessus pour finir la cuisson.",
+   "t": "С тонким филе или мелкой рыбой сначала доведите овощи до полуготовности, затем положите на них рыбу и доготовьте."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih, réponse à une lectrice) ; My Moroccan Food (version rapide)",
+   "t": "Taste of Maroc (Christine Benlafquih, ответ читательнице); My Moroccan Food (быстрый вариант)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour une cuisson courte, Choumicha met de petites pommes de terre déjà cuites à l'eau ; Akhbarona les fait légèrement blanchir avant de les mettre sous le poisson.",
+   "t": "Чтобы сократить время приготовления, Choumicha кладёт маленькие картофелины, уже отваренные в воде; Akhbarona слегка бланширует картофель, прежде чем положить его под рыбу."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Akhbarona",
+   "t": "Choumicha и Akhbarona"
+  },
+  "secrets.9.text": {
+   "fr": "Le citron confit sale beaucoup : s'il cuit dès le début, ne sale pas les légumes. Taste of Maroc préfère souvent l'ajouter à la fin, quelques minutes, juste le temps de le chauffer.",
+   "t": "Солёный лимон даёт много соли: если он готовится с самого начала, не солите овощи. Taste of Maroc часто предпочитает добавлять его в конце, на несколько минут, только чтобы прогреть."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.10.text": {
+   "fr": "Trop de sauce à la fin ? Verse-la dans une petite casserole, fais-la réduire, puis remets-la : la sauce doit être épaisse.",
+   "t": "Слишком много соуса в конце? Слейте его в небольшую кастрюлю, уварите и верните обратно: соус должен быть густым."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net",
+   "t": "Taste of Maroc (Christine Benlafquih) и Bladi.net"
+  },
+  "secrets.11.text": {
+   "fr": "Au tajine en terre, hors gaz, le diffuseur est obligatoire, et la cuisson est plus longue qu'en sauteuse.",
+   "t": "В глиняном таджине на любой плите, кроме газовой, рассекатель обязателен, а готовится блюдо дольше, чем в сотейнике."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.12.text": {
+   "fr": "Ne cuis pas trop le poisson : sa chair doit rester juteuse. Adapte le temps à son poids.",
+   "t": "Не передерживайте рыбу: её мясо должно оставаться сочным. Подбирайте время по её весу."
+  },
+  "secrets.12.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.13.text": {
+   "fr": "Avec un poisson entier, enduis aussi l'intérieur de chermoula et incise le dos pour qu'elle pénètre.",
+   "t": "Если рыба целая, смажьте чермулой и внутреннюю часть, а на спинке сделайте надрезы, чтобы чермула пропитала рыбу."
+  },
+  "secrets.13.source": {
+   "fr": "Bladi.net ; Choumicha ; Akhbarona",
+   "t": "Bladi.net, Choumicha и Akhbarona"
+  },
+  "mistakes.0": {
+   "fr": "Cuisiner un poisson qui sent fort, aigre ou l'ammoniaque : il n'est plus frais, ne le mange pas (FDA).",
+   "t": "Готовить рыбу, которая пахнет резко, кисло или аммиаком: она уже несвежая, не ешьте её (FDA)."
+  },
+  "mistakes.1": {
+   "fr": "Faire mariner le poisson cru hors du réfrigérateur (Taste of Maroc ; Bladi.net ; My Moroccan Food ; MarocMama).",
+   "t": "Мариновать сырую рыбу вне холодильника (Taste of Maroc; Bladi.net; My Moroccan Food; MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Toucher le poisson cru avant d'avoir mis de côté la chermoula des légumes (Taste of Maroc).",
+   "t": "Прикасаться к сырой рыбе, не отложив заранее чермулу для овощей (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les pommes de terre trop épaisses : le poisson sèche avant qu'elles soient cuites (My Moroccan Food).",
+   "t": "Нарезать картофель слишком толсто: рыба пересыхает раньше, чем он приготовится (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier le lit de tiges ou de carottes au fond : les légumes attachent et brûlent (Taste of Maroc ; Choumicha ; Lalla Moulati).",
+   "t": "Забывать подложку из стеблей или моркови на дне: овощи прилипают и подгорают (Taste of Maroc; Choumicha; Lalla Moulati)."
+  },
+  "mistakes.5": {
+   "fr": "Saler les légumes alors que le citron confit cuit avec eux (Taste of Maroc).",
+   "t": "Солить овощи, когда вместе с ними готовится солёный лимон (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur (Taste of Maroc).",
+   "t": "Ставить глиняный таджин на электрическую или стеклокерамическую плиту без рассекателя (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Trop cuire le poisson : il devient sec (Choumicha).",
+   "t": "Передерживать рыбу на огне: она становится сухой (Choumicha)."
+  },
+  "mistakes.8": {
+   "fr": "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid, ou plus d'1 h s'il fait plus de 32 °C (FDA ; ANSES).",
+   "t": "Оставлять блюдо при комнатной температуре дольше 2 ч, прежде чем убрать в холодильник, или дольше 1 ч, если жарче 32 °C (FDA; ANSES)."
+  },
+  "variants.0": {
+   "fr": "Nord du Maroc : à Tanger et à Tétouan, beaucoup de plats de poisson cuisent dans une tagra, un plat ovale en terre poreuse non vernissée, fait par des potiers près de l'oued Laou, sur la braise ou au four du boulanger ; elle laisse l'humidité s'évaporer lentement et donne au poisson un goût de terre ; Paula Wolfert y superpose pommes de terre, carottes, tomates, poivron rouge et sardines, met la tagra dans le four, l'allume à 180 °C et cuit 1 h ; à la sortie, elle la pose sur du bois ou un torchon plié pour éviter qu'elle se fende, et laisse reposer 30 min. La plupart des tagras n'ont pas de couvercle : couvre-la de papier aluminium sans serrer (Paula Wolfert ; Taste of Maroc).",
+   "t": "Север Марокко: в Танжере и Тетуане многие рыбные блюда готовят в тагре — овальной посуде из пористой неглазурованной глины, которую делают гончары у реки Лау, — на углях или в печи пекаря; она позволяет влаге медленно испаряться и придаёт рыбе вкус глины. Paula Wolfert укладывает в неё слоями картофель, морковь, помидоры, красный сладкий перец и сардины, ставит тагру в духовку, затем включает её на 180 °C и готовит 1 ч; вынув, ставит тагру на дерево или сложенное полотенце, чтобы она не треснула, и оставляет на 30 мин. У большинства тагр нет крышки: накройте её фольгой неплотно (Paula Wolfert; Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Au four : poisson entier sur un lit de pommes de terre en fines rondelles, tomates, poivrons grillés et piments, environ 40 min à four moyen-chaud en arrosant à mi-cuisson (Bladi.net) ; Choumicha cuit un poisson de 700 g 25 min à 170 °C puis le laisse reposer 15 à 20 min dans le four éteint ; My Moroccan Food cuit ses sardines 30 à 35 min à 200 °C sous papier aluminium.",
+   "t": "В духовке: целая рыба на подушке из тонких кружков картофеля, помидоров, запечённого сладкого перца и острого перца, около 40 мин в умеренно горячей духовке, поливая соком на середине готовки (Bladi.net); Choumicha запекает рыбу весом 700 г 25 мин при 170 °C, затем оставляет её на 15–20 мин в выключенной духовке; My Moroccan Food запекает свои сардины 30–35 мин при 200 °C под фольгой."
+  },
+  "variants.2": {
+   "fr": "Poisson entier farci de chermoula, posé sur des pommes de terre, des carottes et des tomates en rondelles, couvert de poivrons : la version traditionnelle décrite par Nargisse Benkabbou (My Moroccan Food).",
+   "t": "Целая рыба, начинённая чермулой, на кружках картофеля, моркови и помидоров, накрытая сладким перцем: традиционный вариант, описанный Nargisse Benkabbou (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Tajine de poisson safrané : darnes de loup marinées 1 h dans une chermoula au safran, au smen et au poivre blanc, posées sur des branches de coriandre avec olives vertes et citron confit, sans légumes, 20 à 25 min sur le charbon (Bladi.net).",
+   "t": "Рыбный таджин с шафраном: стейки сибаса, замаринованные на 1 ч в чермуле с шафраном, сменом (выдержанным солёным маслом) и белым перцем, выложенные на веточки кинзы с зелёными оливками и солёным лимоном, без овощей, 20–25 мин на углях (Bladi.net)."
+  },
+  "variants.4": {
+   "fr": "Pageot aux olives m'slalla : oignons et tomates au fond, laurier, olives vertes m'slalla et écorce de citron confit, chermoula au vinaigre, 45 min au four à 180 °C ou sur le charbon (Choumicha).",
+   "t": "Пагель с оливками m'slalla: лук и помидоры на дне, лавровый лист, зелёные оливки m'slalla и корка солёного лимона, чермула с уксусом, 45 мин в духовке при 180 °C или на углях (Choumicha)."
+  },
+  "variants.5": {
+   "fr": "Tajine d'espadon : cubes d'espadon, carottes et chou en julienne, petites pommes de terre déjà cuites, tomates cerises et olives, 20 à 25 min à feu moyen (Choumicha).",
+   "t": "Таджин из меч-рыбы: кубики меч-рыбы, морковь и капуста соломкой, маленькие уже отваренные картофелины, помидоры черри и оливки, 20–25 мин на среднем огне (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "Darnes de congre farinées et dorées, puis mijotées avec oignons, poivron rouge, tomates, thym et laurier (Choumicha).",
+   "t": "Стейки морского угря, обвалянные в муке и обжаренные до золотистого цвета, затем потушенные с луком, красным сладким перцем, помидорами, тимьяном и лавровым листом (Choumicha)."
+  },
+  "variants.7": {
+   "fr": "Aux oignons et raisins secs : morceaux de congre avec beaucoup d'oignons émincés, raisins secs, safran, gingembre, curcuma et cannelle, 40 min à feu moyen (Cooking with Alia).",
+   "t": "С луком и изюмом: куски морского угря с большим количеством тонко нарезанного лука, изюмом, шафраном, имбирём, куркумой и корицей, 40 мин на среднем огне (Cooking with Alia)."
+  },
+  "variants.8": {
+   "fr": "Tajine de boulettes de sardines (kefta) en sauce tomate, fini avec citron confit et olives vertes (Cooking with Alia) ; Taste of Maroc le dit apprécié dans tout le Maroc, surtout sur la côte, où le poisson abonde.",
+   "t": "Таджин из фрикаделек из сардин (кефта) в томатном соусе, в конце — солёный лимон и зелёные оливки (Cooking with Alia); по словам Taste of Maroc, его любят по всему Марокко, особенно на побережье, где много рыбы."
+  },
+  "variants.9": {
+   "fr": "Lit d'oignons émincés au fond, qui caramélisent pendant la cuisson (Taste of Maroc ; Choumicha pour le pageot).",
+   "t": "Подушка из тонко нарезанного лука на дне, который карамелизуется во время готовки (Taste of Maroc; Choumicha — для пагеля)."
+  },
+  "variants.10": {
+   "fr": "Épices en plus : gingembre et curcuma sur les légumes, safran dans la chermoula (Taste of Maroc) ; harissa à la place du piment (Choumicha, Lalla Moulati, My Moroccan Food) ; une feuille de laurier (Cooking with Alia ; Choumicha) ; un peu de concentré de tomate (Cooking with Alia) ou de sauce tomate (Lalla Moulati) dans la chermoula.",
+   "t": "Больше специй: имбирь и куркума на овощи, шафран в чермулу (Taste of Maroc); харисса вместо острого перца (Choumicha, Lalla Moulati, My Moroccan Food); лавровый лист (Cooking with Alia; Choumicha); немного томатной пасты (Cooking with Alia) или томатного соуса (Lalla Moulati) в чермулу."
+  },
+  "variants.11": {
+   "fr": "Chermoula au citron confit, cuite 5 min à feu doux avec herbes, ail, piment doux, cumin, vinaigre et huile ; elle se garde une semaine au frais en bocal fermé (Choumicha).",
+   "t": "Чермула с солёным лимоном, которую готовят 5 мин на слабом огне с зеленью, чесноком, сладким перцем, кумином, уксусом и маслом; она хранится неделю в холодильнике в закрытой банке (Choumicha)."
+  }
+ }
+}

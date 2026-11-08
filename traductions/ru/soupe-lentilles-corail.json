@@ -1,0 +1,462 @@
+{
+ "_slug": "soupe-lentilles-corail",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Soupe de lentilles corail à la turque",
+   "t": "Турецкий суп из красной чечевицы"
+  },
+  "darija": {
+   "fr": "Chorba d l-âdes l-hmer",
+   "t": "Шорба д ль-адес ль-хмер"
+  },
+  "tagline": {
+   "fr": "Le mercimek çorbası, l'une des soupes les plus consommées de Turquie : lentilles corail, oignon, carotte et pomme de terre mixés en velouté, avec un filet de beurre au paprika et un quartier de citron. Prête en 30 minutes à la cocotte-minute ; compte 45 à 55 minutes à la casserole.",
+   "t": "Мерджимек чорбасы — один из супов, которые в Турции едят чаще всего: красная чечевица, лук, морковь и картофель, измельчённые блендером в однородный суп-пюре, со струйкой сливочного масла с паприкой и долькой лимона. В скороварке он готов за 30 минут; в кастрюле рассчитывайте на 45–55 минут."
+  },
+  "region": {
+   "fr": "Turquie, tout le pays. À Istanbul, la version la plus courante est faite de lentilles seules ; Ozlem Warren, comme sa mère, y ajoute carotte et pomme de terre (Ozlem's Turkish Table), comme la plupart des recettes turques lues (Nefis Yemek Tarifleri ; Yemek.com).",
+   "t": "Турция, вся страна. В Стамбуле чаще всего готовят вариант из одной чечевицы; Ozlem Warren, как и её мама, добавляет морковь и картофель (Ozlem's Turkish Table), как и большинство изученных турецких рецептов (Nefis Yemek Tarifleri; Yemek.com)."
+  },
+  "occasion": {
+   "fr": "Soupe de tous les jours, en entrée ou en repas léger ; c'est la reine des menus des lokanta, les petits restaurants turcs (Türk Mutfağı Haftası). En Anatolie, on la mange même au petit-déjeuner (Ozlem Warren).",
+   "t": "Суп на каждый день: на первое или как лёгкая еда; это король меню локант — небольших турецких ресторанов (Türk Mutfağı Haftası). В Анатолии его едят даже на завтрак (Ozlem Warren)."
+  },
+  "serving": {
+   "fr": "Sers bien chaud, avec un filet de beurre au paprika, un quartier de citron à presser dans le bol et du pain grillé (Türk Mutfağı Haftası) ; Ozlem Warren propose aussi des croûtons. La soupe se congèle bien : Ozlem Warren en fait souvent le double pour en congeler une partie (à réchauffer une seule fois, selon la Food Standards Agency).",
+   "t": "Подавайте суп очень горячим, со струйкой масла с паприкой, долькой лимона, чтобы выжать её в тарелку, и поджаренным хлебом (Türk Mutfağı Haftası); Ozlem Warren предлагает также гренки. Суп хорошо переносит заморозку: Ozlem Warren часто варит двойную порцию, чтобы часть заморозить (разогревать только один раз, согласно Food Standards Agency)."
+  },
+  "ing.0.group": {
+   "fr": "Soupe",
+   "t": "Суп"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles corail",
+   "t": "красной чечевицы"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.carotte.name": {
+   "fr": "carotte",
+   "t": "морковь"
+  },
+  "ing.carotte.pl": {
+   "fr": "carottes",
+   "t": "моркови"
+  },
+  "ing.carotte.pl5": {
+   "fr": "carotte / carottes",
+   "t": "морковей"
+  },
+  "ing.pomme-de-terre.name": {
+   "fr": "pomme de terre moyenne",
+   "t": "картофелина среднего размера"
+  },
+  "ing.pomme-de-terre.pl": {
+   "fr": "pommes de terre moyennes",
+   "t": "картофелины среднего размера"
+  },
+  "ing.pomme-de-terre.pl5": {
+   "fr": "pomme de terre moyenne / pommes de terre moyennes",
+   "t": "картофелин среднего размера"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile de tournesol",
+   "t": "подсолнечного масла"
+  },
+  "ing.huile.note": {
+   "fr": "ou d'huile d'olive",
+   "t": "или оливкового масла"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau bien chaude",
+   "t": "очень горячей воды"
+  },
+  "ing.eau.note": {
+   "fr": "chauffée à la bouilloire",
+   "t": "нагретой в чайнике"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "молотый чёрный перец"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина (зиры)"
+  },
+  "ing.cumin.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.1.group": {
+   "fr": "Beurre au paprika et service",
+   "t": "Масло с паприкой и подача"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "сливочного масла"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "паприки"
+  },
+  "ing.paprika.note": {
+   "fr": "doux, ou en partie piquant si tu aimes",
+   "t": "сладкой или частично острой, если любите острое"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers",
+   "t": "нарезать дольками"
+  },
+  "ing.pain.name": {
+   "fr": "pain grillé",
+   "t": "поджаренный хлеб"
+  },
+  "ing.pain.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "steps.0.title": {
+   "fr": "Chauffe l'eau",
+   "t": "Нагрейте воду"
+  },
+  "steps.0.text": {
+   "fr": "Fais chauffer {{eau}} d'eau à la bouilloire : avec de l'eau déjà chaude, la soupe bout plus vite.",
+   "t": "Нагрейте в чайнике {{eau}} воды: если вода уже горячая, суп закипит быстрее."
+  },
+  "steps.1.title": {
+   "fr": "Rince les lentilles",
+   "t": "Промойте чечевицу"
+  },
+  "steps.1.text": {
+   "fr": "Mets {{lentilles}} de lentilles corail dans une passoire. Rince-les sous l'eau en remuant, jusqu'à ce que l'eau coule claire, puis laisse égoutter.",
+   "t": "Высыпьте {{lentilles}} красной чечевицы в сито. Промойте её под проточной водой, перемешивая, пока вода не станет прозрачной, затем дайте стечь."
+  },
+  "steps.2.title": {
+   "fr": "Prépare les légumes",
+   "t": "Подготовьте овощи"
+  },
+  "steps.2.text": {
+   "fr": "Pèle et hache {{oignon:full}}. Pèle et râpe gros {{carotte:full}}. Pèle et coupe en petits dés {{pomme-de-terre:full}}.",
+   "t": "Очистите и мелко порубите лук ({{oignon}} шт.). Очистите морковь ({{carotte}} шт.) и натрите её на крупной тёрке. Очистите картофель ({{pomme-de-terre}} шт.) и нарежьте мелкими кубиками."
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Обжарьте лук"
+  },
+  "steps.3.text": {
+   "fr": "Dans la cocotte-minute ouverte, chauffe {{huile}} d'huile à feu moyen. Fais revenir l'oignon 1 à 2 minutes en remuant.",
+   "t": "В открытой скороварке разогрейте {{huile}} масла на среднем огне. Обжарьте лук 1–2 минуты, помешивая."
+  },
+  "steps.4.title": {
+   "fr": "Ajoute les légumes",
+   "t": "Добавьте овощи"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute la carotte râpée et les dés de pomme de terre. Fais-les revenir quelques minutes en remuant, jusqu'à ce qu'ils commencent à ramollir : leur couleur passe dans l'huile et rend la soupe bien dorée.",
+   "t": "Добавьте тёртую морковь и кубики картофеля. Обжаривайте их несколько минут, помешивая, пока они не начнут размягчаться: их цвет переходит в масло, и суп получается насыщенного золотистого цвета."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les lentilles",
+   "t": "Добавьте чечевицу"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute les lentilles égouttées et remue 1 minute dans l'huile.",
+   "t": "Добавьте чечевицу, с которой стекла вода, и помешивайте её в масле 1 минуту."
+  },
+  "steps.6.title": {
+   "fr": "Mouille et écume",
+   "t": "Залейте водой и снимите пену"
+  },
+  "steps.6.text": {
+   "fr": "Verse l'eau chaude, ajoute du {{sel}} et remue. Porte à ébullition et retire à la cuillère l'écume qui monte.",
+   "t": "Влейте горячую воду, добавьте {{sel}} и перемешайте. Доведите до кипения и снимайте ложкой поднимающуюся пену."
+  },
+  "steps.7.title": {
+   "fr": "Cuis sous pression",
+   "t": "Варите под давлением"
+  },
+  "steps.7.text": {
+   "fr": "Ferme la cocotte. Dès qu'elle siffle, baisse le feu et laisse cuire 10 minutes.",
+   "t": "Закройте скороварку. Как только она засвистит, убавьте огонь и варите 10 минут."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson sous pression",
+   "t": "Варка под давлением"
+  },
+  "steps.7.timer.done": {
+   "fr": "Coupe le feu. Fais retomber la pression comme le dit le mode d'emploi de ta cocotte avant d'ouvrir.",
+   "t": "Выключите огонь. Прежде чем открывать, сбросьте давление, как указано в инструкции к вашей скороварке."
+  },
+  "steps.8.title": {
+   "fr": "Ouvre la cocotte",
+   "t": "Откройте скороварку"
+  },
+  "steps.8.text": {
+   "fr": "Coupe le feu. Fais retomber la pression en suivant le mode d'emploi de ta cocotte, puis ouvre-la avec précaution.",
+   "t": "Выключите огонь. Сбросьте давление, следуя инструкции к вашей скороварке, затем осторожно откройте её."
+  },
+  "steps.9.title": {
+   "fr": "Mixe la soupe",
+   "t": "Измельчите суп блендером"
+  },
+  "steps.9.text": {
+   "fr": "Attends 1 à 2 minutes, puis mixe au mixeur plongeant jusqu'à obtenir un velouté bien lisse. Sans mixeur, passe la soupe dans une passoire fine en écrasant avec le dos de la louche.",
+   "t": "Подождите 1–2 минуты, затем измельчите суп погружным блендером в совершенно гладкое пюре. Если блендера нет, протрите суп через мелкое сито, придавливая тыльной стороной половника."
+  },
+  "steps.10.title": {
+   "fr": "Assaisonne et ajuste",
+   "t": "Приправьте и доведите до вкуса"
+  },
+  "steps.10.text": {
+   "fr": "Ajoute {{cumin}} de cumin et du {{poivre}}, goûte et rectifie le sel. Si la soupe est trop épaisse, ajoute un peu d'eau chaude. Laisse frémir 2 à 3 minutes en remuant.",
+   "t": "Добавьте {{cumin}} кумина и {{poivre}}, попробуйте и при необходимости досолите. Если суп слишком густой, добавьте немного горячей воды. Дайте ему слабо покипеть 2–3 минуты, помешивая."
+  },
+  "steps.11.title": {
+   "fr": "Fais le beurre au paprika",
+   "t": "Приготовьте масло с паприкой"
+  },
+  "steps.11.text": {
+   "fr": "Dans une petite poêle, fais fondre {{beurre}} de beurre à feu doux. Ajoute {{paprika}} de paprika, laisse grésiller quelques secondes et retire aussitôt du feu.",
+   "t": "В маленькой сковороде растопите {{beurre}} сливочного масла на слабом огне. Добавьте {{paprika}} паприки, дайте ей пошкворчать несколько секунд и сразу снимите с огня."
+  },
+  "steps.12.title": {
+   "fr": "Sers bien chaud",
+   "t": "Подавайте суп очень горячим"
+  },
+  "steps.12.text": {
+   "fr": "Coupe {{citron:full}} en quartiers. Verse la soupe dans les bols, arrose d'un filet de beurre au paprika et pose un quartier de citron à côté. Sers avec du {{pain}}.",
+   "t": "Нарежьте {{citron:full}} дольками. Разлейте суп по тарелкам, полейте тонкой струйкой масла с паприкой и положите рядом дольку лимона. Подавайте с поджаренным хлебом."
+  },
+  "secrets.0.text": {
+   "fr": "Rince les lentilles dans beaucoup d'eau, jusqu'à ce qu'elle coule claire.",
+   "t": "Промывайте чечевицу в большом количестве воды, пока вода не станет прозрачной."
+  },
+  "secrets.0.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası ; Ev usulü mercimek çorbası)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar); Yemek.com (Türk Mutfağı Haftası и Ev usulü mercimek çorbası)"
+  },
+  "secrets.1.text": {
+   "fr": "Verse de l'eau déjà chaude : la soupe bout plus tôt et cuit plus vite.",
+   "t": "Вливайте уже горячую воду: суп раньше закипит и быстрее сварится."
+  },
+  "secrets.1.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı, Altın mercimek çorbası) ; eau chaude aussi chez Elif Atalar et sur Yemek.com (Düdüklüde mercimek çorbası)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı, Altın mercimek çorbası); горячая вода также у Elif Atalar и на Yemek.com (Düdüklüde mercimek çorbası)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais revenir carotte et pomme de terre dans l'huile avant d'ajouter l'eau : leur couleur passe dans l'huile et rend la soupe brillante, d'un beau jaune doré.",
+   "t": "Обжарьте морковь и картофель в масле, прежде чем добавлять воду: их цвет переходит в масло, и суп получается блестящим, красивого золотисто-жёлтого цвета."
+  },
+  "secrets.2.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı)",
+   "t": "Nefis Yemek Tarifleri (рецепт Nesli'nin Mutfağı)"
+  },
+  "secrets.3.text": {
+   "fr": "Remue les lentilles environ une minute dans la matière grasse avant de mouiller.",
+   "t": "Прежде чем залить воду, помешивайте чечевицу в масле около минуты."
+  },
+  "secrets.3.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası : « 1 dakika kadar karıştırarak kavurun ») ; Nesli'nin Mutfağı (2 ou 3 tours de cuillère)",
+   "t": "Yemek.com (Türk Mutfağı Haftası: «1 dakika kadar karıştırarak kavurun»); Nesli'nin Mutfağı (2 или 3 раза помешать ложкой)"
+  },
+  "secrets.4.text": {
+   "fr": "La cocotte-minute raccourcit beaucoup la cuisson : environ 40 minutes de cuisson à la casserole, contre 15 à 20 minutes en tout à la cocotte-minute, dont 10 à 15 sous pression.",
+   "t": "Скороварка сильно сокращает время варки: около 40 минут в кастрюле против 15–20 минут в общей сложности в скороварке, из них 10–15 под давлением."
+  },
+  "secrets.4.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : « yaklaşık olarak 40 dakika » à la casserole ; 10 minutes sous pression) ; Yemek.com (Gökçen Mutaf : 10 à 15 minutes) ; Nesli'nin Mutfağı (10 à 15 minutes)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: «yaklaşık olarak 40 dakika» в кастрюле; 10 минут под давлением); Yemek.com (Gökçen Mutaf: 10–15 минут); Nesli'nin Mutfağı (10–15 минут)"
+  },
+  "secrets.5.text": {
+   "fr": "Pour une soupe d'un jaune doré et soyeuse, passe-la encore chaude dans une passoire au lieu de la mixer : au mixeur, elle devient plus terne. Yemek.com fait les deux, mixeur puis passoire fine.",
+   "t": "Чтобы суп получился золотисто-жёлтым и шелковистым, протрите его ещё горячим через сито, а не измельчайте блендером: после блендера он становится более тусклым. Yemek.com делает и то и другое: сначала блендер, затем мелкое сито."
+  },
+  "secrets.5.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı) ; Yemek.com (Süzme mercimek çorbası, Çiğdem Esastürk)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı) и Yemek.com (Süzme mercimek çorbası, Çiğdem Esastürk)"
+  },
+  "secrets.6.text": {
+   "fr": "« Süzme » (passée) désigne la texture lisse et veloutée de cette soupe, la reine des menus des lokanta.",
+   "t": "«Süzme» (протёртый) означает гладкую, бархатистую текстуру этого супа — короля меню локант."
+  },
+  "secrets.6.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası, avec la contribution du ministère turc de la Culture et du Tourisme)",
+   "t": "Yemek.com (Türk Mutfağı Haftası, при участии Министерства культуры и туризма Турции)"
+  },
+  "secrets.7.text": {
+   "fr": "La soupe épaissit en attendant : rallonge-la avec un peu d'eau chaude.",
+   "t": "Постояв, суп загустевает: разбавьте его небольшим количеством горячей воды."
+  },
+  "secrets.7.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar ; Nesli'nin Mutfağı) ; Ozlem's Turkish Table",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar и Nesli'nin Mutfağı); Ozlem's Turkish Table"
+  },
+  "secrets.8.text": {
+   "fr": "Un bouillon de poule ou de viande donne plus de goût : un à deux verres suffisent. En halal, prends un bouillon maison ou un cube certifié halal.",
+   "t": "Куриный или мясной бульон делает вкус насыщеннее: достаточно одного-двух стаканов. Если вы готовите халяль, возьмите домашний бульон или бульонный кубик с сертификатом халяль."
+  },
+  "secrets.8.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası, au bouillon de viande)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar); Yemek.com (Türk Mutfağı Haftası, на мясном бульоне)"
+  },
+  "secrets.9.text": {
+   "fr": "Le beurre au paprika ne chauffe que quelques secondes, puis il quitte le feu.",
+   "t": "Масло с паприкой греют всего несколько секунд, затем снимают с огня."
+  },
+  "secrets.9.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası : « birkaç saniye kızdırın ve ocaktan alın ») ; Ozlem Warren (piment infusé 35 secondes à feu doux)",
+   "t": "Yemek.com (Türk Mutfağı Haftası: «birkaç saniye kızdırın ve ocaktan alın»); Ozlem Warren (острый перец прогревают 35 секунд на слабом огне)"
+  },
+  "secrets.10.text": {
+   "fr": "Le plus souvent, on la sert avec un quartier de citron et un beurre grésillant au piment.",
+   "t": "Чаще всего его подают с долькой лимона и шкворчащим сливочным маслом с острым перцем."
+  },
+  "secrets.10.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası) ; Nefis Yemek Tarifleri (Elif Atalar) ; Ozlem's Turkish Table",
+   "t": "Yemek.com (Türk Mutfağı Haftası), Nefis Yemek Tarifleri (Elif Atalar) и Ozlem's Turkish Table"
+  },
+  "secrets.11.text": {
+   "fr": "Le cumin s'ajoute à la fin, avec le poivre.",
+   "t": "Кумин добавляют в конце, вместе с чёрным перцем."
+  },
+  "secrets.11.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : après le mixage) ; Ozlem's Turkish Table (une fois la soupe cuite)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: после измельчения блендером); Ozlem's Turkish Table (когда суп сварился)"
+  },
+  "secrets.12.text": {
+   "fr": "Tu aimes le piquant ? Mets plus de piment (pul biber).",
+   "t": "Любите острое? Положите больше острого перца (pul biber)."
+  },
+  "secrets.12.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : « Acı seviyorsanız pul biber miktarını artırabilirsiniz »)",
+   "t": "Nefis Yemek Tarifleri (у Elif Atalar: «Acı seviyorsanız pul biber miktarını artırabilirsiniz»)"
+  },
+  "mistakes.0": {
+   "fr": "Ouvrir la cocotte sans avoir fait retomber la pression : suis toujours le mode d'emploi (Yemek.com, Düdüklüde mercimek çorbası).",
+   "t": "Открывать скороварку, не сбросив давление: всегда следуйте инструкции (Yemek.com, Düdüklüde mercimek çorbası)."
+  },
+  "mistakes.1": {
+   "fr": "Mixer la soupe dès l'ouverture : Yemek.com attend 1 à 2 minutes avant de la mixer.",
+   "t": "Измельчать суп блендером сразу после открытия скороварки: Yemek.com ждёт 1–2 минуты, прежде чем его измельчить."
+  },
+  "mistakes.2": {
+   "fr": "Mal rincer les lentilles (Nefis Yemek Tarifleri, Elif Atalar).",
+   "t": "Плохо промывать чечевицу (Nefis Yemek Tarifleri, Elif Atalar)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser brûler la farine, si tu en mets : ne la fais pas revenir sur un feu trop fort (Nefis Yemek Tarifleri, Elif Atalar, recette lokanta usulü).",
+   "t": "Давать муке подгореть, если вы её добавляете: не обжаривайте её на слишком сильном огне (Nefis Yemek Tarifleri, Elif Atalar, рецепт lokanta usulü)."
+  },
+  "mistakes.4": {
+   "fr": "Servir une soupe trop épaisse : elle épaissit encore en refroidissant, rallonge-la d'eau chaude (Elif Atalar ; Nesli'nin Mutfağı).",
+   "t": "Подавать слишком густой суп: остывая, он густеет ещё сильнее; разбавьте его горячей водой (Elif Atalar; Nesli'nin Mutfağı)."
+  },
+  "mistakes.5": {
+   "fr": "À la casserole, oublier de remuer : les lentilles attachent au fond (Ozlem Warren).",
+   "t": "Забывать помешивать суп в кастрюле: чечевица прилипает ко дну (Ozlem Warren)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes à température ambiante : mets-les au frigo dans les 1 à 2 heures, mange-les dans les 48 heures et réchauffe-les une seule fois, jusqu'à ce qu'ils fument partout (Food Standards Agency, Royaume-Uni).",
+   "t": "Оставлять остатки при комнатной температуре: уберите их в холодильник в течение 1–2 часов, съешьте в течение 48 часов и разогревайте только один раз, пока от них не пойдёт пар по всему объёму (Food Standards Agency, Великобритания)."
+  },
+  "variants.0": {
+   "fr": "Sans cocotte-minute : même recette dans une grande casserole, à petit frémissement, couvercle entrouvert, 20 à 25 minutes (Ozlem Warren, 2026) ou 25 à 30 minutes (Türk Mutfağı Haftası), en remuant de temps en temps. Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",
+   "t": "Без скороварки: тот же рецепт в большой кастрюле, на очень слабом кипении, под приоткрытой крышкой, 20–25 минут (Ozlem Warren, 2026) или 25–30 минут (Türk Mutfağı Haftası), время от времени помешивая. Тогда рассчитывайте на 45–55 минут в общей сложности, включая подготовку: 15 + 30 минут у Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 минут у Türk Mutfağı Haftası, 15 + 40 минут у Ozlem Warren в 2010 году; Nefis указывает около 40 минут варки в кастрюле."
+  },
+  "variants.1": {
+   "fr": "Version de la Semaine de la cuisine turque (Türk Mutfağı Haftası) : seulement lentilles, oignon doré au beurre et bouillon de viande halal, maison ou certifié (ou bouillon de légumes, ou eau chaude), mixés, puis beurre au paprika ; à Istanbul, la version la plus courante est aussi aux lentilles seules (Ozlem Warren).",
+   "t": "Вариант Недели турецкой кухни (Türk Mutfağı Haftası): только чечевица, лук, обжаренный на сливочном масле до золотистого цвета, и халяльный мясной бульон, домашний или сертифицированный (или овощной бульон, или горячая вода), всё измельчено блендером, затем масло с паприкой; в Стамбуле самый распространённый вариант тоже готовят из одной чечевицы (Ozlem Warren)."
+  },
+  "variants.2": {
+   "fr": "Avec un peu de riz long, cuit avec les lentilles (Ozlem Warren : 25 g pour 4).",
+   "t": "С небольшим количеством длиннозёрного риса, сваренного вместе с чечевицей (Ozlem Warren: 25 г на 4 порции)."
+  },
+  "variants.3": {
+   "fr": "Plus épaisse : un roux de beurre et de farine (Türk Mutfağı Haftası : 20 g de beurre et 1 c. à s. de farine) ; Elif Atalar fait revenir 2 c. à s. de farine avec l'oignon.",
+   "t": "Погуще: с ру из сливочного масла и муки (Türk Mutfağı Haftası: 20 г сливочного масла и 1 ст. л. муки); Elif Atalar обжаривает 2 ст. л. муки вместе с луком."
+  },
+  "variants.4": {
+   "fr": "Avec du concentré de tomate ou de poivron revenu avec l'oignon (Elif Atalar ; Yemek.com, Düdüklüde mercimek çorbası).",
+   "t": "С томатной или перцовой пастой, обжаренной вместе с луком (Elif Atalar; Yemek.com, Düdüklüde mercimek çorbası)."
+  },
+  "variants.5": {
+   "fr": "Avec curcuma et cumin dans la soupe, sans carotte ni pomme de terre (Elif Atalar, recette lokanta usulü).",
+   "t": "С куркумой и кумином в супе, без моркови и картофеля (Elif Atalar, рецепт lokanta usulü)."
+  },
+  "variants.6": {
+   "fr": "Huile d'olive au piment (pul biber) à la place du beurre au paprika, avec le jus d'un citron dans la soupe (Ozlem Warren).",
+   "t": "Оливковое масло с острым перцем (pul biber) вместо сливочного масла с паприкой и сок одного лимона в супе (Ozlem Warren)."
+  },
+  "variants.7": {
+   "fr": "Avec un verre de bouillon de poule à la place d'une partie de l'eau (Elif Atalar, recette sous pression) : bouillon maison ou certifié halal.",
+   "t": "Со стаканом куриного бульона вместо части воды (Elif Atalar, рецепт для скороварки): бульон домашний или с сертификатом халяль."
+  },
+  "equipment.0": {
+   "fr": "Cocotte-minute (autocuiseur)",
+   "t": "Скороварка"
+  },
+  "equipment.1": {
+   "fr": "Mixeur plongeant, ou passoire fine et louche",
+   "t": "Погружной блендер или мелкое сито и половник"
+  },
+  "equipment.2": {
+   "fr": "Bouilloire",
+   "t": "Чайник"
+  },
+  "equipment.3": {
+   "fr": "Passoire pour rincer les lentilles",
+   "t": "Сито для промывания чечевицы"
+  },
+  "equipment.4": {
+   "fr": "Râpe à gros trous",
+   "t": "Тёрка с крупными отверстиями"
+  },
+  "equipment.5": {
+   "fr": "Planche et couteau",
+   "t": "Разделочная доска и нож"
+  },
+  "equipment.6": {
+   "fr": "Petite poêle",
+   "t": "Маленькая сковорода"
+  },
+  "equipment.7": {
+   "fr": "Louche",
+   "t": "Половник"
+  }
+ }
+}

@@ -1,0 +1,554 @@
+{
+ "_slug": "tajine-agneau-pruneaux",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Tajine d'agneau aux pruneaux et aux amandes",
+   "t": "Таджин из баранины с черносливом и миндалём"
+  },
+  "darija": {
+   "fr": "Lham bel barkouk",
+   "t": "Лхам бель баркук"
+  },
+  "tagline": {
+   "fr": "Un agneau fondant au safran et au gingembre dans sa sauce aux oignons, couronné de pruneaux caramélisés à la cannelle, d'amandes frites et de sésame grillé.",
+   "t": "Тающая во рту баранина с шафраном и имбирём в луковом соусе, а сверху — карамелизованный с корицей чернослив, жареный миндаль и поджаренный кунжут."
+  },
+  "region": {
+   "fr": "Maroc, plat phare de la cuisine marocaine",
+   "t": "Марокко, одно из главных блюд марокканской кухни"
+  },
+  "occasion": {
+   "fr": "Fêtes et mariages, Aïd al-Adha, réceptions, ftour du Ramadan",
+   "t": "Праздники и свадьбы, Курбан-байрам, приёмы гостей, ифтар в Рамадан"
+  },
+  "img_alt": {
+   "fr": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
+   "t": "Таджин с черносливом и миндалём в глиняной посуде"
+  },
+  "serving": {
+   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
+   "t": "Подавайте очень горячим, в подогретом сервировочном таджине или в глубоком блюде, которое ставят в центр стола, чтобы есть всем вместе: мясо, политое соусом с небольшим количеством сиропа, сверху карамелизованный чернослив, затем жареный миндаль и поджаренный кунжут. С хлебом, чтобы собирать соус; кускус — отдельное блюдо."
+  },
+  "ing.0.group": {
+   "fr": "Viande et sauce",
+   "t": "Мясо и соус"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau halal (épaule ou collier, avec os)",
+   "t": "халяльной баранины (лопатка или шея, на кости)"
+  },
+  "ing.viande.note": {
+   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
+   "t": "крупными кусками; Choumicha берёт лопатку или окорок, My Moroccan Food и Grantourismo — лопатку, шею или голяшки"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignons.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.oignons.note": {
+   "fr": "à hacher finement, ou à râper",
+   "t": "мелко нарезать или натереть на тёрке"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "оливкового или растительного масла"
+  },
+  "ing.smen.name": {
+   "fr": "de smen",
+   "t": "смена (выдержанного солёного масла)"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif ; c'est la touche de Choumicha",
+   "t": "по желанию; это фирменный штрих Choumicha"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "количество уточните в конце приготовления"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "нитей шафрана"
+  },
+  "ing.safran.note": {
+   "fr": "Choumicha en compte 8 pour 1 kg de viande",
+   "t": "Choumicha берёт 8 нитей на 1 кг мяса"
+  },
+  "ing.eau-safran.name": {
+   "fr": "d'eau tiède, pour le safran",
+   "t": "тёплой воды для шафрана"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "палочка корицы"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "палочки корицы"
+  },
+  "ing.cannelle-baton.pl5": {
+   "fr": "bâton de cannelle / bâtons de cannelle",
+   "t": "палочек корицы"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "свежей кинзы"
+  },
+  "ing.persil.name": {
+   "fr": "de persil frais",
+   "t": "свежей петрушки"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau chaude",
+   "t": "горячей воды"
+  },
+  "ing.eau.note": {
+   "fr": "jamais froide ; rajoutes-en un peu en cours de cuisson si la viande n'est plus à moitié couverte",
+   "t": "ни в коем случае не холодной; во время тушения подливайте немного, если мясо уже не покрыто водой наполовину"
+  },
+  "ing.1.group": {
+   "fr": "Pruneaux caramélisés",
+   "t": "Карамелизованный чернослив"
+  },
+  "ing.pruneaux.name": {
+   "fr": "de pruneaux secs",
+   "t": "сушёного чернослива"
+  },
+  "ing.pruneaux.note": {
+   "fr": "Choumicha les dénoyaute",
+   "t": "Choumicha удаляет из него косточки"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "сливочного масла"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule (ou de miel)",
+   "t": "сахарного песка (или мёда)"
+  },
+  "ing.sucre.note": {
+   "fr": "un peu moins si tu le veux moins sucré",
+   "t": "чуть меньше, если хотите не так сладко"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "ing.2.group": {
+   "fr": "Décoration",
+   "t": "Украшение"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (sans peau)",
+   "t": "очищенного миндаля (без кожицы)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile pour frire les amandes",
+   "t": "масло для обжаривания миндаля"
+  },
+  "ing.huile-friture.pl": {
+   "fr": "huile pour frire les amandes",
+   "t": "масло для обжаривания миндаля"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "кунжута"
+  },
+  "equipment.0": {
+   "fr": "Grande cocotte à fond épais avec couvercle, ou tajine en terre vernissé sur diffuseur de chaleur",
+   "t": "Большая кастрюля с толстым дном и крышкой или глиняный глазурованный таджин на рассекателе пламени"
+  },
+  "equipment.1": {
+   "fr": "Tajine de service ou plat creux",
+   "t": "Сервировочный таджин или глубокое блюдо"
+  },
+  "equipment.2": {
+   "fr": "Petite casserole avec couvercle (pruneaux)",
+   "t": "Небольшая кастрюля с крышкой (для чернослива)"
+  },
+  "equipment.3": {
+   "fr": "Petite poêle (amandes, puis sésame)",
+   "t": "Небольшая сковорода (для миндаля, затем для кунжута)"
+  },
+  "equipment.4": {
+   "fr": "Petit bol et saladier",
+   "t": "Мисочка и большая миска"
+  },
+  "equipment.5": {
+   "fr": "Ficelle de cuisine",
+   "t": "Кулинарная нить"
+  },
+  "equipment.6": {
+   "fr": "Écumoire et papier absorbant",
+   "t": "Шумовка и бумажные полотенца"
+  },
+  "steps.0.title": {
+   "fr": "Fais infuser le safran",
+   "t": "Настойте шафран"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{safran}} de pistils de safran dans un petit bol avec {{eau-safran}} d'eau tiède. Laisse infuser 10 min pendant que tu prépares le reste.",
+   "t": "Положите нити шафрана ({{safran}}) в мисочку и залейте {{eau-safran}} тёплой воды. Оставьте настаиваться на 10 мин, пока готовите остальное."
+  },
+  "steps.0.timer.label": {
+   "fr": "Infusion du safran",
+   "t": "Шафран настаивается"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le safran a infusé : garde le bol à portée de main.",
+   "t": "Шафран настоялся: держите мисочку под рукой."
+  },
+  "steps.1.title": {
+   "fr": "Prépare oignons, ail et bouquet",
+   "t": "Подготовьте лук, чеснок и пучок зелени"
+  },
+  "steps.1.text": {
+   "fr": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
+   "t": "Мелко нарежьте или натрите на тёрке лук ({{oignons}} шт.) и раздавите {{ail:full}}. Свяжите кулинарной нитью {{coriandre}} кинзы и {{persil}} петрушки в небольшой пучок. Если мясник этого не сделал, нарежьте мясо крупными кусками, сохраняя кости."
+  },
+  "steps.2.title": {
+   "fr": "Fais revenir la viande dans les épices",
+   "t": "Обжарьте мясо со специями"
+  },
+  "steps.2.text": {
+   "fr": "Dans une grande cocotte à fond épais, à feu moyen-doux, mets {{huile}} d'huile, {{smen}} de smen, les oignons, l'ail, {{gingembre}} de gingembre, {{poivre}} de poivre, {{sel}} de sel, {{cannelle-baton:full}} et l'eau safranée. Mélange, ajoute {{viande}} d'agneau et fais revenir le tout 5 à 10 min en remuant souvent : la viande doit se colorer de tous côtés, sans brûler.",
+   "t": "В большую кастрюлю с толстым дном, на огне ниже среднего, положите {{huile}} масла, {{smen}} смена, лук, чеснок, {{gingembre}} имбиря, {{poivre}} перца, {{sel}} соли, корицу в палочках ({{cannelle-baton}} шт.) и шафрановую воду. Перемешайте, добавьте {{viande}} баранины и обжаривайте всё 5–10 мин, часто помешивая: мясо должно подрумяниться со всех сторон, но не подгореть."
+  },
+  "steps.2.timer.label": {
+   "fr": "Viande revenue",
+   "t": "Обжаривание мяса"
+  },
+  "steps.2.timer.done": {
+   "fr": "La viande est colorée de tous côtés : verse l'eau chaude.",
+   "t": "Мясо подрумянилось со всех сторон: влейте горячую воду."
+  },
+  "steps.3.title": {
+   "fr": "Mouille et laisse mijoter 1 h",
+   "t": "Залейте водой и тушите 1 ч"
+  },
+  "steps.3.text": {
+   "fr": "Verse {{eau}} d'eau chaude, jamais froide : la viande doit être à peu près à moitié couverte, complète un peu si besoin. Pose le bouquet d'herbes dessus et porte à ébullition. Couvre, baisse à feu doux et laisse mijoter 1 h en remuant de temps en temps.",
+   "t": "Влейте {{eau}} горячей воды, ни в коем случае не холодной: мясо должно быть покрыто примерно наполовину; при необходимости немного долейте. Положите сверху пучок зелени и доведите до кипения. Накройте крышкой, убавьте огонь до слабого и тушите 1 ч, время от времени помешивая."
+  },
+  "steps.3.timer.label": {
+   "fr": "Mijotage : 1re heure",
+   "t": "Тушение: 1-й час"
+  },
+  "steps.3.timer.done": {
+   "fr": "1 h de mijotage : prélève de la sauce pour les pruneaux.",
+   "t": "1 ч тушения позади: отберите часть соуса для чернослива."
+  },
+  "steps.4.title": {
+   "fr": "Pendant ce temps, fais gonfler les pruneaux",
+   "t": "Тем временем запарьте чернослив"
+  },
+  "steps.4.text": {
+   "fr": "Rince {{pruneaux}} de pruneaux, couvre-les d'eau bouillante et laisse-les gonfler 15 min. Égoutte-les.",
+   "t": "Промойте {{pruneaux}} чернослива, залейте кипятком и оставьте набухать на 15 мин. Откиньте на дуршлаг."
+  },
+  "steps.4.timer.label": {
+   "fr": "Trempage des pruneaux",
+   "t": "Чернослив замачивается"
+  },
+  "steps.4.timer.done": {
+   "fr": "Égoutte les pruneaux et garde-les de côté.",
+   "t": "Откиньте чернослив на дуршлаг и отложите."
+  },
+  "steps.5.title": {
+   "fr": "Fais frire les amandes",
+   "t": "Обжарьте миндаль"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe un fond d'huile dans une petite poêle, à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient bien dorées. Égoutte-les sur du papier absorbant.",
+   "t": "Разогрейте в небольшой сковороде немного масла, чтобы покрыло дно, на среднем огне. Обжарьте в нём {{amandes}} очищенного миндаля, непрерывно помешивая, до золотистого цвета. Выложите на бумажные полотенца, чтобы стекло масло."
+  },
+  "steps.6.title": {
+   "fr": "Fais griller le sésame",
+   "t": "Поджарьте кунжут"
+  },
+  "steps.6.text": {
+   "fr": "Essuie la poêle et fais-y griller à sec {{sesame}} de graines de sésame, à feu moyen-doux, en remuant, juste jusqu'à ce qu'elles blondissent. Verse-les aussitôt dans un bol.",
+   "t": "Протрите сковороду и поджарьте на ней без масла {{sesame}} кунжута на огне ниже среднего, помешивая, только пока семена не станут золотистыми. Сразу пересыпьте их в мисочку."
+  },
+  "steps.7.title": {
+   "fr": "Prélève de la sauce pour les pruneaux",
+   "t": "Отлейте соус для чернослива"
+  },
+  "steps.7.text": {
+   "fr": "Au bout d'une heure de mijotage, verse environ un quart de la sauce de la cocotte dans une petite casserole. S'il ne reste presque plus de sauce, rajoute un peu d'eau chaude dans la cocotte. Recouvre et laisse la viande mijoter encore 30 min à feu doux.",
+   "t": "Через час тушения перелейте примерно четверть соуса из кастрюли в небольшую кастрюльку. Если соуса почти не осталось, подлейте в большую кастрюлю немного горячей воды. Снова накройте крышкой и тушите мясо ещё 30 мин на слабом огне."
+  },
+  "steps.7.timer.label": {
+   "fr": "Fin du mijotage",
+   "t": "Конец тушения"
+  },
+  "steps.7.timer.done": {
+   "fr": "Vérifie : la viande doit se détacher de l'os ; sinon, prolonge de 15 min.",
+   "t": "Проверьте: мясо должно отделяться от кости; если нет, тушите ещё 15 мин."
+  },
+  "steps.8.title": {
+   "fr": "Cuis les pruneaux dans la sauce",
+   "t": "Потушите чернослив в соусе"
+  },
+  "steps.8.text": {
+   "fr": "Ajoute {{beurre}} de beurre dans la petite casserole et fais-le fondre à feu moyen. Ajoute les pruneaux égouttés, couvre et laisse cuire 10 min, jusqu'à ce qu'ils soient tendres.",
+   "t": "Положите в небольшую кастрюльку {{beurre}} сливочного масла и растопите на среднем огне. Добавьте чернослив, с которого стекла вода, накройте крышкой и варите 10 мин, пока он не станет мягким."
+  },
+  "steps.8.timer.label": {
+   "fr": "Pruneaux dans la sauce",
+   "t": "Чернослив в соусе"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les pruneaux sont tendres : ajoute le sucre et la cannelle.",
+   "t": "Чернослив стал мягким: добавьте сахар и корицу."
+  },
+  "steps.9.title": {
+   "fr": "Caramélise les pruneaux",
+   "t": "Карамелизуйте чернослив"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute {{sucre}} de sucre (ou de miel) et {{cannelle-moulue}} de cannelle moulue, puis mélange délicatement pour ne pas écraser les pruneaux. Couvre et laisse confire 10 min à feu doux : ils doivent être brillants, dans un sirop épais. Si le sirop reste liquide, découvre et laisse réduire quelques minutes. Garde au chaud.",
+   "t": "Добавьте {{sucre}} сахара (или мёда) и {{cannelle-moulue}} молотой корицы, затем осторожно перемешайте, чтобы не раздавить чернослив. Накройте крышкой и томите 10 мин на слабом огне: чернослив должен стать блестящим, в густом сиропе. Если сироп остаётся жидким, снимите крышку и уварите его несколько минут. Держите в тепле."
+  },
+  "steps.9.timer.label": {
+   "fr": "Pruneaux caramélisés",
+   "t": "Карамелизованный чернослив"
+  },
+  "steps.9.timer.done": {
+   "fr": "Sirop épais, pruneaux brillants : garde-les au chaud.",
+   "t": "Сироп густой, чернослив блестит: держите его в тепле."
+  },
+  "steps.10.title": {
+   "fr": "Fais réduire la sauce de la viande",
+   "t": "Уварите соус от мяса"
+  },
+  "steps.10.text": {
+   "fr": "Quand la viande se détache de l'os, retire le bouquet d'herbes. Si la sauce est encore liquide, fais-la réduire à découvert 10 à 15 min à feu moyen-doux, en remuant de temps en temps : elle doit être épaisse, avec des oignons fondus. Goûte et rectifie le sel. Pendant ce temps, réchauffe le plat de service au four chaud éteint, ou remplis-le d'eau chaude puis vide-le.",
+   "t": "Когда мясо начнёт отделяться от кости, выньте пучок зелени. Если соус ещё жидкий, уваривайте его без крышки 10–15 мин на огне ниже среднего, время от времени помешивая: он должен стать густым, а лук — совсем разварившимся. Попробуйте и при необходимости досолите. Тем временем подогрейте сервировочное блюдо в горячей выключенной духовке или наполните его горячей водой, а затем вылейте её."
+  },
+  "steps.10.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "Уваривание соуса"
+  },
+  "steps.10.timer.done": {
+   "fr": "La sauce est épaisse : passe au service.",
+   "t": "Соус загустел: переходите к подаче."
+  },
+  "steps.11.title": {
+   "fr": "Dresse et sers",
+   "t": "Выложите на блюдо и подавайте"
+  },
+  "steps.11.text": {
+   "fr": "Dispose la viande dans le plat chaud et garnis-la des pruneaux. Mélange la sauce de la viande avec un peu de sirop des pruneaux et nappe-en la viande. Parsème d'amandes frites et de graines de sésame grillées. Sers aussitôt, au centre de la table, avec du pain.",
+   "t": "Выложите мясо на горячее блюдо и разложите сверху чернослив. Смешайте соус от мяса с небольшим количеством сиропа от чернослива и полейте им мясо. Посыпьте жареным миндалём и поджаренным кунжутом. Сразу подавайте в центр стола, с хлебом."
+  },
+  "secrets.0.text": {
+   "fr": "Fais cuire les pruneaux à part, pas dans la cocotte : ils caramélisent mieux et le plat ne vire pas au brun-noir.",
+   "t": "Варите чернослив отдельно, а не в общей кастрюле: так он лучше карамелизуется, а блюдо не становится буро-чёрным."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; cuisson à part aussi chez Choumicha, Bladi, Cooking with Alia, Morocco World News et Femmes du Maroc",
+   "t": "My Moroccan Food (Nargisse Benkabbou); отдельно его готовят также Choumicha, Bladi, Cooking with Alia, Morocco World News и Femmes du Maroc"
+  },
+  "secrets.1.text": {
+   "fr": "Confis les pruneaux dans un peu de sauce prélevée sur la viande, avec du beurre, puis le sucre ou le miel et la cannelle, jusqu'à un sirop épais.",
+   "t": "Томите чернослив в небольшом количестве соуса, отобранного от мяса, со сливочным маслом, затем с сахаром или мёдом и корицей, до густого сиропа."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia ; Morocco World News ; Bladi (« deux louches de sauce ») ; My Moroccan Food (sauce prélevée au bout d'1 h)",
+   "t": "Cooking with Alia; Morocco World News; Bladi («два половника соуса»); My Moroccan Food (соус отбирают через 1 ч)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais d'abord gonfler les pruneaux dans l'eau bouillante pour les attendrir.",
+   "t": "Сначала запарьте чернослив в кипятке, чтобы он стал мягче."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking with Alia (15 min) ; My Moroccan Food (5 min) ; Bladi (pruneaux « gonflés dans l'eau »)",
+   "t": "Cooking with Alia (15 мин); My Moroccan Food (5 мин); Bladi (чернослив, «набухший в воде»)"
+  },
+  "secrets.3.text": {
+   "fr": "Fais infuser les pistils de safran 10 min dans un peu d'eau tiède avant de les verser dans la cocotte.",
+   "t": "Настаивайте нити шафрана 10 мин в небольшом количестве тёплой воды, прежде чем вливать их в кастрюлю."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.4.text": {
+   "fr": "Ajoute une cuillerée de smen avec les épices de la viande.",
+   "t": "Добавляйте ложку смена вместе со специями для мяса."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Pose sur la viande un bouquet ficelé de coriandre et de persil, et retire-le avant de servir.",
+   "t": "Положите на мясо связанный пучок кинзы и петрушки и выньте его перед подачей."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)",
+   "t": "Choumicha (пучок петрушки и кинзы); Grantourismo, рецепт Terence Carter, перенятый у Jamila и затем доработанный (пучок вынимают); My Moroccan Food (связанный пучок кинзы)"
+  },
+  "secrets.6.text": {
+   "fr": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
+   "t": "Во время тушения всегда подливайте горячую воду, никогда не холодную, и следите, чтобы мясо было покрыто наполовину: если соус начинает прилипать, подлейте немного горячей воды."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha (conseil donné pour le tajine en terre) ; Cooking with Alia (viande à moitié couverte) ; My Moroccan Food (eau ajoutée si ça attache)",
+   "t": "Choumicha (совет для глиняного таджина); Cooking with Alia (мясо покрыто наполовину); My Moroccan Food (если пригорает, подливают воду)"
+  },
+  "secrets.7.text": {
+   "fr": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
+   "t": "Соус готов, когда он уварился до разварившегося лука и масла — густой и тягучий, как сироп."
+  },
+  "secrets.7.source": {
+   "fr": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)",
+   "t": "Grantourismo (рецепт Terence Carter, доработанный по рецепту Jamila); Choumicha («уваренный соус»); Cooking with Alia («густой соус»)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
+   "t": "Чтобы соус был гуще и его было больше, положите больше лука: My Moroccan Food кладёт 800 г на 1,2 кг мяса."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Avant de napper, mélange la sauce de la viande avec un peu du sirop des pruneaux.",
+   "t": "Прежде чем полить мясо соусом, смешайте соус от мяса с небольшим количеством сиропа от чернослива."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.10.text": {
+   "fr": "Amandes mondées frites dans l'huile puis égouttées ; sésame grillé légèrement, à sec.",
+   "t": "Очищенный миндаль обжаривают в масле, затем дают маслу стечь; кунжут слегка поджаривают без масла."
+  },
+  "secrets.10.source": {
+   "fr": "Bladi ; Femmes du Maroc (amandes « émondées et frites ») ; Cooking with Alia (amandes frites)",
+   "t": "Bladi; Femmes du Maroc (миндаль «очищенный и обжаренный»); Cooking with Alia (жареный миндаль)"
+  },
+  "secrets.11.text": {
+   "fr": "Choisis un morceau qui supporte une longue cuisson, avec os : épaule, collier ou souris d'agneau.",
+   "t": "Выбирайте кусок на кости, который выдерживает долгое тушение: лопатку, шею или бараньи голяшки."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
+   "t": "My Moroccan Food; Grantourismo; Choumicha (лопатка или окорок); Bladi (лопатка)"
+  },
+  "secrets.12.text": {
+   "fr": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
+   "t": "Сегодня в Марокко таджин часто готовят в большой кастрюле, а затем перекладывают в глиняный таджин, чтобы подать в центр стола."
+  },
+  "secrets.12.source": {
+   "fr": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech",
+   "t": "Grantourismo, по словам Jamila, повара риада в Марракеше"
+  },
+  "secrets.13.text": {
+   "fr": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
+   "t": "Глазурованный расписной сервировочный таджин никогда не ставят на огонь: подогрейте его перед подачей в горячей выключенной духовке или горячей водой."
+  },
+  "secrets.13.source": {
+   "fr": "Choumicha (conseils sur le tajine)",
+   "t": "Choumicha (советы о таджине)"
+  },
+  "mistakes.0": {
+   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+   "t": "Варить чернослив в кастрюле вместе с мясом, если вы хотите, чтобы он хорошо карамелизовался: он карамелизуется хуже, а блюдо темнеет (My Moroccan Food). При этом ошибкой это не считается: так говорит My Moroccan Food, а Grantourismo, как и другой рецепт Bladi.net, варят его в кастрюле."
+  },
+  "mistakes.1": {
+   "fr": "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
+   "t": "Подливать во время тушения холодную воду: только горячую (Choumicha, совет для глиняного таджина)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la sauce s'assécher : la viande attache. Rajoute un peu d'eau chaude dès qu'il n'en reste presque plus (My Moroccan Food, Cooking with Alia).",
+   "t": "Давать соусу выкипеть: мясо прилипает ко дну. Подлейте немного горячей воды, как только соуса почти не останется (My Moroccan Food, Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Arrêter la cuisson trop tôt : la viande doit se détacher facilement de l'os (My Moroccan Food).",
+   "t": "Заканчивать тушение слишком рано: мясо должно легко отделяться от кости (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Brusquer les pruneaux en fin de cuisson : mélange-les délicatement (Cooking with Alia).",
+   "t": "Грубо обращаться с черносливом в конце приготовления: перемешивайте его осторожно (Cooking with Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Trop griller le sésame : il doit juste blondir (Bladi : « griller légèrement »).",
+   "t": "Пережаривать кунжут: он должен лишь слегка зазолотиться (Bladi: «слегка поджарить»)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre un tajine en terre sur un feu vif : il peut se fissurer. Toujours à feu doux, avec un diffuseur sur le gaz (Choumicha).",
+   "t": "Ставить глиняный таджин на сильный огонь: он может треснуть. Только на слабый огонь, а на газу — с рассекателем (Choumicha)."
+  },
+  "mistakes.7": {
+   "fr": "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
+   "t": "Ставить на огонь глазурованный расписной таджин: он предназначен только для подачи (Choumicha)."
+  },
+  "mistakes.8": {
+   "fr": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
+   "t": "Думать, что в Марокко таджин едят с кускусом: кускус там обычно отдельное блюдо, а таджин едят с хлебом, собирая им соус (Grantourismo; Morocco World News). Но ничто не мешает подать и кускус: My Moroccan Food предлагает кускус или хлеб."
+  },
+  "variants.0": {
+   "fr": "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
+   "t": "Говядина: голяшка или шея, тот же способ; тушите дольше, пока мясо не станет мягким (Cooking with Alia: 1–2 ч в зависимости от куска; My Moroccan Food, Femmes du Maroc, Morocco World News)."
+  },
+  "variants.1": {
+   "fr": "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
+   "t": "Скороварка: Bladi готовит лопатку 20 мин под давлением, затем доводит около 15 мин, помешивая; Morocco World News отводит 40 мин на говядину, затем уваривает соус без крышки."
+  },
+  "variants.2": {
+   "fr": "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
+   "t": "С мёдом: My Moroccan Food и Cooking with Alia карамелизуют чернослив с мёдом, а не с сахаром; Morocco World News смешивает сахар и мёд."
+  },
+  "variants.3": {
+   "fr": "Pruneaux et abricots : Femmes du Maroc (abricots secs) et la cheffe Asmaa Alami (Le360) associent pruneaux et abricots caramélisés ; Femmes du Maroc ajoute aussi des coings ou des pommes caramélisés.",
+   "t": "Чернослив и абрикосы: Femmes du Maroc (курага) и шеф-повар Asmaa Alami (Le360) сочетают карамелизованные чернослив и абрикосы; Femmes du Maroc добавляет также карамелизованную айву или яблоки."
+  },
+  "variants.4": {
+   "fr": "Épices en plus : une pincée de ras el hanout (Choumicha, Cooking with Alia) ou un peu de curcuma (My Moroccan Food, Morocco World News, Cooking with Alia).",
+   "t": "Больше специй: щепотка рас-эль-ханута (Choumicha, Cooking with Alia) или немного куркумы (My Moroccan Food, Morocco World News, Cooking with Alia)."
+  },
+  "variants.5": {
+   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
+   "t": "Поджаренный миндаль вместо жаренного в масле (Choumicha, My Moroccan Food) или миндальные лепестки (Le360, Grantourismo)."
+  },
+  "variants.6": {
+   "fr": "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha).",
+   "t": "Всё приготовление в глиняном глазурованном таджине: на газу с рассекателем, всегда на слабом огне; выстелите дно стеблями петрушки и кинзы или кольцами лука, чтобы ничего не пригорало (Choumicha)."
+  }
+ }
+}

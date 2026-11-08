@@ -1,0 +1,606 @@
+{
+ "_slug": "poisson-frit",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Poisson frit à la marocaine",
+   "t": "Жареная рыба по-мароккански"
+  },
+  "darija": {
+   "fr": "Hout mqli",
+   "t": "Хут мкли"
+  },
+  "tagline": {
+   "fr": "Des sardines collées deux par deux avec une chermoula à l'ail, au cumin et au paprika, des filets de merlan marinés, farinés puis frits jusqu'à ce qu'ils soient bien dorés. Avec du citron, c'est la friture de la maison.",
+   "t": "Сардины, склеенные попарно чермулой с чесноком, кумином (зирой) и паприкой, и филе мерланга — замаринованные, обвалянные в муке и обжаренные до золотистой корочки. С лимоном — это домашняя жареная рыба."
+  },
+  "region": {
+   "fr": "Tout le Maroc, surtout les villes côtières. La sardine est le poisson le plus abondant des côtes marocaines (Choumicha) et le merlan un choix très courant (Taste of Maroc). Les sardines farcies frites se vendent aussi dans la rue loin de la mer, parfois seulement certains jours, par exemple à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc).",
+   "t": "По всему Марокко, особенно в прибрежных городах. Сардина — самая распространённая рыба у марокканских берегов (Choumicha), а мерланг выбирают очень часто (Taste of Maroc). Жареные фаршированные сардины продают на улице и вдали от моря, иногда только в определённые дни, например на площади Джемаа-эль-Фна в Марракеше и в медине Феса (Taste of Maroc)."
+  },
+  "occasion": {
+   "fr": "En entrée, ou en plat avec des légumineuses et des salades pour un déjeuner complet (Taste of Maroc) ; au f'tour du ramadan à El Jadida, où les fritures de poissons sont au menu (Hespress)",
+   "t": "Как закуска или как основное блюдо с бобовыми и салатами — для полноценного обеда (Taste of Maroc); на ифтар в Рамадан в Эль-Джадиде, где жареная рыба входит в меню (Hespress)"
+  },
+  "img_alt": {
+   "fr": "Sardines frites, farinées, disposées en rosace avec du citron",
+   "t": "Жареные сардины в муке, выложенные розеткой, с лимоном"
+  },
+  "serving": {
+   "fr": "Sers le poisson chaud, aussitôt égoutté : les sardines se mangent de préférence chaudes, avec des tranches de citron (Bladi) ; Cooking With Alia les sert tout de suite, avec un filet de jus de citron. Taste of Maroc les sert aussi tièdes ou à température ambiante, sur un lit de persil ou de salade, avec des quartiers de citron et de la harissa, à côté de haricots blancs à la tomate ou d'une salade concombre-tomate-oignon. Choumicha accompagne sa friture d'une salade verte, de tranches de citron et d'olives m'chermlines. Ne laisse pas le poisson plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Подавайте рыбу горячей, сразу после того, как стечёт масло: сардины лучше есть горячими, с кружками лимона (Bladi); Cooking With Alia подаёт их сразу, сбрызнув лимонным соком. Taste of Maroc подаёт их и тёплыми или комнатной температуры, на подушке из петрушки или салата, с дольками лимона и хариссой, рядом с белой фасолью в томатном соусе или салатом из огурцов, помидоров и лука. Choumicha подаёт свою жареную рыбу с зелёным салатом, кружками лимона и оливками в чермуле. Не оставляйте рыбу вне холодильника дольше 2 часов (FDA)."
+  },
+  "pairs_label": {
+   "fr": "En sandwich",
+   "t": "В сэндвиче"
+  },
+  "ing.0.group": {
+   "fr": "Poisson",
+   "t": "Рыба"
+  },
+  "ing.sardines.name": {
+   "fr": "de sardines fraîches",
+   "t": "свежих сардин"
+  },
+  "ing.sardines.note": {
+   "fr": "petites de préférence ; à écailler, vider et ouvrir en deux (étape 1)",
+   "t": "лучше мелких; очистить от чешуи, выпотрошить и раскрыть пополам (шаг 1)"
+  },
+  "ing.merlans.name": {
+   "fr": "de merlans",
+   "t": "мерланга"
+  },
+  "ing.merlans.note": {
+   "fr": "à écailler, vider et lever en filets (étape 2), ou déjà en filets chez le poissonnier",
+   "t": "очистить от чешуи, выпотрошить и разделать на филе (шаг 2) или купить уже готовое филе у продавца рыбы"
+  },
+  "ing.1.group": {
+   "fr": "Chermoula",
+   "t": "Чермула"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "finement haché",
+   "t": "мелко нарубленная"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "кинзы"
+  },
+  "ing.coriandre.note": {
+   "fr": "finement hachée",
+   "t": "мелко нарубленная"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à peler",
+   "t": "очистить"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment doux)",
+   "t": "сладкой паприки (сладкого красного перца)"
+  },
+  "ing.citron-jus.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron-jus.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron-jus.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron-jus.note": {
+   "fr": "pour le jus ; ou du vinaigre, comme Choumicha",
+   "t": "для сока; или уксус, как у Choumicha"
+  },
+  "ing.piment-fort.name": {
+   "fr": "piment fort en poudre",
+   "t": "острый молотый перец"
+  },
+  "ing.piment-fort.note": {
+   "fr": "facultatif ; Choumicha en met 1 c. à c. pour 1 kg de poisson",
+   "t": "по желанию; Choumicha кладёт 1 ч. л. на 1 кг рыбы"
+  },
+  "ing.2.group": {
+   "fr": "Friture",
+   "t": "Жарка"
+  },
+  "ing.farine.name": {
+   "fr": "farine",
+   "t": "пшеничная мука"
+  },
+  "ing.farine.note": {
+   "fr": "pour enrober ; Choumicha en prévoit 100 g pour 1 kg de poisson",
+   "t": "для обваливания; Choumicha берёт 100 г на 1 кг рыбы"
+  },
+  "ing.semoule.name": {
+   "fr": "semoule fine",
+   "t": "мелкая семолина (крупка из твёрдой пшеницы)"
+  },
+  "ing.semoule.note": {
+   "fr": "facultatif, à mélanger à la farine",
+   "t": "по желанию, смешать с мукой"
+  },
+  "ing.huile.name": {
+   "fr": "huile de friture",
+   "t": "масло для жарки"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour couvrir au moins la moitié de l'épaisseur du poisson",
+   "t": "столько, чтобы рыба была покрыта хотя бы до половины своей толщины"
+  },
+  "ing.3.group": {
+   "fr": "Service",
+   "t": "Подача"
+  },
+  "ing.citron-service.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron-service.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron-service.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron-service.note": {
+   "fr": "en quartiers ou en tranches",
+   "t": "дольками или кружками"
+  },
+  "equipment.0": {
+   "fr": "Planche à découper et petit couteau",
+   "t": "Разделочная доска и маленький нож"
+  },
+  "equipment.1": {
+   "fr": "Passoire et papier absorbant",
+   "t": "Дуршлаг и бумажные полотенца"
+  },
+  "equipment.2": {
+   "fr": "Mortier et pilon (ou mixeur)",
+   "t": "Ступка и пестик (или блендер)"
+  },
+  "equipment.3": {
+   "fr": "Bol et plat creux pour la marinade, avec un film ou un couvercle",
+   "t": "Миска и глубокое блюдо для маринада, с плёнкой или крышкой"
+  },
+  "equipment.4": {
+   "fr": "Assiette creuse pour la farine",
+   "t": "Глубокая тарелка для муки"
+  },
+  "equipment.5": {
+   "fr": "Friteuse électrique à thermostat, ou grande poêle profonde à bords hauts",
+   "t": "Электрическая фритюрница с термостатом или большая глубокая сковорода с высокими бортами"
+  },
+  "equipment.6": {
+   "fr": "Couvercle à la taille de la poêle, toujours à portée de main",
+   "t": "Крышка по размеру сковороды — всегда под рукой"
+  },
+  "equipment.7": {
+   "fr": "Écumoire ou pince",
+   "t": "Шумовка или щипцы"
+  },
+  "equipment.8": {
+   "fr": "Thermomètre de cuisson (facultatif)",
+   "t": "Кулинарный термометр (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Écaille et vide les sardines",
+   "t": "Очистите сардины от чешуи и выпотрошите"
+  },
+  "steps.0.text": {
+   "fr": "Sous un filet d'eau froide, écaille {{sardines}} de sardines. Coupe la tête, vide le ventre, puis retire l'arête centrale : chaque sardine s'ouvre à plat, en deux filets qui tiennent par le dos. Tu peux aussi demander au poissonnier de le faire.",
+   "t": "Под тонкой струёй холодной воды очистите от чешуи {{sardines}} сардин. Отрежьте голову, выпотрошите брюшко, затем удалите хребет: каждая сардина раскрывается плашмя на два филе, соединённых спинкой. Можно также попросить сделать это продавца рыбы."
+  },
+  "steps.0.tip": {
+   "fr": "Choisis des sardines brillantes et fermes, avec leurs écailles et des branchies bien rouges, à l'odeur fraîche et légère, jamais forte ni d'ammoniaque.",
+   "t": "Выбирайте блестящие и упругие сардины, с чешуёй и ярко-красными жабрами, со свежим и лёгким запахом — никогда не резким и не аммиачным."
+  },
+  "steps.1.title": {
+   "fr": "Prépare les merlans",
+   "t": "Подготовьте мерлангов"
+  },
+  "steps.1.text": {
+   "fr": "Écaille {{merlans}} de merlans et vide-les. Coupe la tête et lève les filets, ou demande au poissonnier de le faire.",
+   "t": "Очистите от чешуи {{merlans}} мерланга и выпотрошите. Отрежьте голову и снимите филе или попросите сделать это продавца рыбы."
+  },
+  "steps.2.title": {
+   "fr": "Rince et sèche le poisson",
+   "t": "Промойте и обсушите рыбу"
+  },
+  "steps.2.text": {
+   "fr": "Rince rapidement tout le poisson à l'eau froide et laisse-le égoutter dans une passoire. Sèche-le bien avec du papier absorbant. Lave-toi ensuite les mains au savon pendant au moins 20 secondes, puis lave la planche et le couteau à l'eau chaude savonneuse.",
+   "t": "Быстро промойте всю рыбу холодной водой и дайте ей стечь в дуршлаге. Хорошо обсушите её бумажными полотенцами. Затем вымойте руки с мылом — не меньше 20 секунд, после чего вымойте доску и нож горячей мыльной водой."
+  },
+  "steps.2.tip": {
+   "fr": "Un poisson bien sec, c'est plus sûr : l'eau fait bouillonner l'huile chaude, qui peut déborder.",
+   "t": "Хорошо обсушенная рыба безопаснее: от воды горячее масло бурлит и может перелиться через край."
+  },
+  "steps.3.title": {
+   "fr": "Pile l'ail et les herbes",
+   "t": "Истолките чеснок и зелень"
+  },
+  "steps.3.text": {
+   "fr": "Hache très finement {{persil}} de persil et {{coriandre}} de coriandre. Au mortier, écrase {{ail:full}} avec {{sel}} de sel. Ajoute les herbes et pile encore un peu.",
+   "t": "Очень мелко порубите {{persil}} петрушки и {{coriandre}} кинзы. В ступке разотрите {{ail:full}} с {{sel}} соли. Добавьте зелень и ещё немного потолките."
+  },
+  "steps.3.tip": {
+   "fr": "Hache bien les herbes avant de les piler, sinon la chermoula fait des fils. Pas de mortier ? Un mixeur fait l'affaire.",
+   "t": "Хорошо порубите зелень, прежде чем толочь, иначе чермула будет тянуться волокнами. Нет ступки? Подойдёт блендер."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.4.title": {
+   "fr": "Termine la chermoula",
+   "t": "Закончите чермулу"
+  },
+  "steps.4.text": {
+   "fr": "Mets la pâte dans un bol. Ajoute {{cumin}} de cumin, {{paprika}} de paprika et le jus de {{citron-jus:full}}. Mélange bien. Si tu aimes le piquant, ajoute un peu de {{piment-fort}}.",
+   "t": "Переложите пасту в миску. Добавьте {{cumin}} кумина, {{paprika}} паприки и лимонный сок (из {{citron-jus}} шт.). Хорошо перемешайте. Если любите поострее, добавьте немного острого молотого перца."
+  },
+  "steps.4.tip": {
+   "fr": "Avant de toucher le poisson cru, mets un peu de chermoula de côté dans un petit bol : elle servira de sauce à table ou dans un sandwich.",
+   "t": "Прежде чем прикасаться к сырой рыбе, отложите немного чермулы в маленькую миску: она пригодится как соус к столу или для сэндвича."
+  },
+  "steps.5.title": {
+   "fr": "Colle les sardines deux par deux",
+   "t": "Склейте сардины попарно"
+  },
+  "steps.5.text": {
+   "fr": "Pose une sardine ouverte, peau dessous. Étale une bonne couche de chermoula sur la chair, puis couvre avec une deuxième sardine, peau dessus. Presse doucement. Continue avec les autres.",
+   "t": "Положите раскрытую сардину кожей вниз. Намажьте мякоть толстым слоем чермулы и накройте второй сардиной кожей вверх. Слегка прижмите. Так же поступите с остальными."
+  },
+  "steps.5.tip": {
+   "fr": "Il reste une sardine seule ? Garnis-la de chermoula et replie-la sur elle-même.",
+   "t": "Осталась одна сардина без пары? Намажьте её чермулой и сложите пополам."
+  },
+  "steps.6.title": {
+   "fr": "Enrobe les merlans",
+   "t": "Обмажьте филе мерланга"
+  },
+  "steps.6.text": {
+   "fr": "Étale de la chermoula sur les filets de merlan et referme-les sur eux-mêmes. Frotte aussi l'extérieur des sardines avec le reste de la chermoula.",
+   "t": "Намажьте чермулой филе мерланга и сложите каждое пополам. Оставшейся чермулой натрите и сардины снаружи."
+  },
+  "steps.7.title": {
+   "fr": "Laisse mariner au frais",
+   "t": "Замаринуйте в холодильнике"
+  },
+  "steps.7.text": {
+   "fr": "Couvre et mets au réfrigérateur au moins 30 minutes. Taste of Maroc laisse mariner au moins 2 heures.",
+   "t": "Накройте и уберите в холодильник минимум на 30 минут. Taste of Maroc маринует не меньше 2 часов."
+  },
+  "steps.7.timer.label": {
+   "fr": "Marinade",
+   "t": "Маринад"
+  },
+  "steps.7.timer.done": {
+   "fr": "La marinade est prête. Passe à la friture.",
+   "t": "Рыба замариновалась. Переходите к жарке."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la poêle",
+   "t": "Подготовьте сковороду"
+  },
+  "steps.8.text": {
+   "fr": "Prends une friteuse à thermostat ou une grande poêle profonde à bords hauts. Verse assez d'{{huile}} pour couvrir au moins la moitié de l'épaisseur du poisson, sans jamais remplir à plus d'un tiers de la hauteur. Garde un couvercle de la bonne taille à portée de main.",
+   "t": "Возьмите фритюрницу с термостатом или большую глубокую сковороду с высокими бортами. Налейте столько масла для жарки, чтобы рыба была покрыта хотя бы до половины своей толщины, но никогда не заполняйте сковороду больше чем на треть высоты. Держите под рукой крышку подходящего размера."
+  },
+  "steps.9.title": {
+   "fr": "Fais chauffer l'huile",
+   "t": "Разогрейте масло"
+  },
+  "steps.9.text": {
+   "fr": "Chauffe l'huile progressivement, à feu moyen. Elle doit être bien chaude mais ne jamais fumer : si elle fume, baisse le feu et attends qu'elle refroidisse un peu. Avec une friteuse ou un thermomètre, ne dépasse pas 180 °C. À partir de maintenant, ne quitte plus la poêle des yeux.",
+   "t": "Разогревайте масло постепенно, на среднем огне. Оно должно быть хорошо разогретым, но никогда не дымить: если появился дым, убавьте огонь и подождите, пока масло немного остынет. С фритюрницей или термометром не превышайте 180 °C. С этого момента не спускайте глаз со сковороды."
+  },
+  "steps.9.tip": {
+   "fr": "Si l'huile prend feu : ne jette jamais d'eau. Glisse le couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi. Appelle sans attendre les pompiers, même si le feu semble éteint. Si le feu ne s'éteint pas ou s'étend, fais sortir tout le monde, ferme la porte de la cuisine et ne rentre pas.",
+   "t": "Если масло загорелось, никогда не лейте на него воду. Надвиньте на сковороду крышку, выключите огонь, если это можно сделать без опасности, не переносите сковороду и не снимайте крышку, пока она не остынет. Сразу вызовите пожарных, даже если кажется, что огонь погас. Если огонь не гаснет или распространяется, выведите всех, закройте дверь кухни и не возвращайтесь."
+  },
+  "steps.10.title": {
+   "fr": "Farine le poisson",
+   "t": "Обваляйте рыбу в муке"
+  },
+  "steps.10.text": {
+   "fr": "Sors le poisson de la marinade et laisse-le égoutter. Juste avant de le frire, passe chaque morceau dans la {{farine}}, des deux côtés. Tu peux mélanger un peu de {{semoule}} à la farine.",
+   "t": "Выньте рыбу из маринада и дайте ей стечь. Непосредственно перед жаркой обваляйте каждый кусок в муке с обеих сторон. В муку можно добавить немного мелкой семолины."
+  },
+  "steps.11.title": {
+   "fr": "Fais frire la première face",
+   "t": "Обжарьте первую сторону"
+  },
+  "steps.11.text": {
+   "fr": "Pose délicatement quelques morceaux dans l'huile, sans les serrer. Laisse frire environ 3 minutes, jusqu'à ce que le dessous soit bien doré.",
+   "t": "Осторожно опустите в масло несколько кусков, не укладывая их вплотную. Жарьте около 3 минут, пока низ не станет золотистым."
+  },
+  "steps.11.timer.label": {
+   "fr": "Première face",
+   "t": "Первая сторона"
+  },
+  "steps.11.timer.done": {
+   "fr": "Retourne les morceaux avec une pince ou une écumoire.",
+   "t": "Переверните куски щипцами или шумовкой."
+  },
+  "steps.12.title": {
+   "fr": "Retourne et finis la cuisson",
+   "t": "Переверните и дожарьте"
+  },
+  "steps.12.text": {
+   "fr": "Retourne les morceaux et laisse frire encore environ 3 minutes. C'est cuit quand c'est bien doré et que la chair se détache facilement à la fourchette.",
+   "t": "Переверните куски и жарьте ещё около 3 минут. Рыба готова, когда она хорошо зарумянилась, а мякоть легко отделяется вилкой."
+  },
+  "steps.12.tip": {
+   "fr": "Avec un thermomètre à sonde, le poisson est cuit à 63 °C à cœur.",
+   "t": "Если есть термометр со щупом: рыба готова, когда в центре 63 °C."
+  },
+  "steps.12.timer.label": {
+   "fr": "Deuxième face",
+   "t": "Вторая сторона"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bien doré des deux côtés ? Sors le poisson de l'huile.",
+   "t": "Хорошо зарумянилась с обеих сторон? Выньте рыбу из масла."
+  },
+  "steps.13.title": {
+   "fr": "Égoutte et continue",
+   "t": "Дайте стечь маслу и продолжайте"
+  },
+  "steps.13.text": {
+   "fr": "Sors le poisson avec l'écumoire et pose-le sur du papier absorbant. Retire les débris qui flottent dans l'huile, puis fais frire la fournée suivante de la même façon. À la fin, éteins le feu.",
+   "t": "Выньте рыбу шумовкой и выложите на бумажное полотенце. Уберите из масла плавающие крошки, затем так же пожарьте следующую партию. В конце выключите огонь."
+  },
+  "steps.13.tip": {
+   "fr": "Une huile devenue brune ou noire, épaisse, qui mousse ou qui fume est abîmée : ne la réutilise pas, et ne la verse jamais dans l'évier.",
+   "t": "Масло, которое стало коричневым или чёрным, густым, пенится или дымит, испорчено: не используйте его повторно и никогда не выливайте в раковину."
+  },
+  "steps.13.img.alt": {
+   "fr": "Sardines frites et dorées, posées sur du papier absorbant",
+   "t": "Золотистые жареные сардины на бумажном полотенце"
+  },
+  "steps.13.img.caption": {
+   "fr": "Égoutter sur du papier absorbant",
+   "t": "Обсушивание на бумажном полотенце"
+  },
+  "steps.14.title": {
+   "fr": "Sers chaud",
+   "t": "Подавайте горячей"
+  },
+  "steps.14.text": {
+   "fr": "Sers tout de suite, avec {{citron-service:full}} en quartiers, une salade verte et des olives.",
+   "t": "Подавайте сразу же с дольками лимона ({{citron-service}} шт.), зелёным салатом и оливками."
+  },
+  "steps.14.tip": {
+   "fr": "Ne laisse pas le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "t": "Не оставляйте жареную рыбу вне холодильника дольше 2 часов, а если жарче 32 °C — дольше 1 часа."
+  },
+  "secrets.0.text": {
+   "fr": "Choisis des sardines de moins de 15 cm : plus la sardine est petite, plus sa chair est délicieuse. Elles doivent être brillantes, fermes, garder leurs écailles, avec des branchies rouge carmin et humides.",
+   "t": "Выбирайте сардины короче 15 см: чем мельче сардина, тем вкуснее её мякоть. Они должны быть блестящими, упругими, с чешуёй и влажными жабрами карминно-красного цвета."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha, « La sardine, un trésor de bienfaits » ; Taste of Maroc (Nada Kiffa) : les petites sardines fraîches sont idéales",
+   "t": "Choumicha, «La sardine, un trésor de bienfaits»; Taste of Maroc (Nada Kiffa): мелкие свежие сардины идеальны"
+  },
+  "secrets.1.text": {
+   "fr": "Un poisson frais sent frais et léger, jamais fort, aigre ou l'ammoniaque. Ses yeux sont clairs et brillants, et sa chair ferme reprend sa forme quand tu appuies dessus.",
+   "t": "Свежая рыба пахнет свежо и легко, никогда не резко, не кисло и не аммиаком. У неё ясные блестящие глаза, а упругая мякоть восстанавливает форму, если на неё надавить."
+  },
+  "secrets.1.source": {
+   "fr": "FDA, « Selecting and Serving Fresh and Frozen Seafood Safely » ; Choumicha (sardines brillantes et fermes, branchies rouges)",
+   "t": "FDA, «Selecting and Serving Fresh and Frozen Seafood Safely»; Choumicha (блестящие и упругие сардины, красные жабры)"
+  },
+  "secrets.2.text": {
+   "fr": "La sardine est très fragile : cuisine-la le jour de l'achat. Au besoin, garde-la 24 heures au plus au réfrigérateur, écaillée, vidée, rincée, essuyée et couverte d'un film, dans un réfrigérateur à 4 °C ou moins.",
+   "t": "Сардина очень быстро портится: готовьте её в день покупки. При необходимости храните её не больше 24 часов в холодильнике при 4 °C или ниже — очищенной от чешуи, выпотрошенной, промытой, обсушенной и накрытой плёнкой."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha (24 h maximum, le jour même de préférence) ; FDA (produits de la mer gardés à 40 °F, soit 4 °C, ou moins)",
+   "t": "Choumicha (не больше 24 ч, лучше в тот же день); FDA (морепродукты хранят при 40 °F, то есть 4 °C, или ниже)"
+  },
+  "secrets.3.text": {
+   "fr": "Les deux sardines collées par la chermoula s'appellent « mzeouej » (mariées), « machrouk » (associées) ou « ʿachiq w maʿchouq » (les amoureux).",
+   "t": "Две сардины, склеенные чермулой, называют «mzeouej» (супруги), «machrouk» (компаньоны) или «ʿachiq w maʿchouq» (влюблённые)."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; SBS (Ellie Bouhadana) : « mzeouejim », qui veut dire « mariés »",
+   "t": "Taste of Maroc (Nada Kiffa, уроженка Касабланки); SBS (Ellie Bouhadana): «mzeouejim», что означает «супруги»"
+  },
+  "secrets.4.text": {
+   "fr": "La vraie chermoula se fait avec des herbes fraîches et de l'ail, pas avec un mélange sec du commerce.",
+   "t": "Настоящую чермулу делают из свежей зелени и чеснока, а не из готовой сухой смеси из магазина."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; toutes les recettes marocaines lues (Choumicha, Bladi, Cooking With Alia) utilisent des herbes fraîches",
+   "t": "Taste of Maroc (Nada Kiffa); во всех изученных марокканских рецептах (Choumicha, Bladi, Cooking With Alia) используется свежая зелень"
+  },
+  "secrets.5.text": {
+   "fr": "Pour le poisson, on aime une chermoula citronnée.",
+   "t": "Для рыбы чермулу любят делать с лимоном."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Nada Kiffa et Christine Benlafquih) ; Bladi (jus de citron dans « Sardines farcies », « Poisson frits » et « Chermoula pour le poisson » ; sa reprise de la recette de Choumicha est au vinaigre) ; Lalla Moulati (jus de citron, avec un peu de vinaigre, dans sa chermoula pour le poisson)",
+   "t": "Taste of Maroc (Nada Kiffa и Christine Benlafquih); Bladi (лимонный сок в «Sardines farcies», «Poisson frits» и «Chermoula pour le poisson»; в его пересказе рецепта Choumicha — уксус); Lalla Moulati (лимонный сок с небольшим количеством уксуса в её чермуле для рыбы)"
+  },
+  "secrets.6.text": {
+   "fr": "Pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées : hachées grossièrement, elles donnent une chermoula qui fait des fils.",
+   "t": "Сначала разотрите чеснок с солью, затем добавьте мелко порубленную зелень: если нарубить её крупно, чермула будет тянуться волокнами."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi, « Chermoula pour le poisson » (coriandre pilée au mortier avec le gros sel et l'ail) ; Choumicha (herbes émincées)",
+   "t": "Taste of Maroc (Nada Kiffa); Bladi, «Chermoula pour le poisson» (кинза, растёртая в ступке с крупной солью и чесноком); Choumicha (мелко нарезанная зелень)"
+  },
+  "secrets.7.text": {
+   "fr": "Garde un peu de chermoula propre, mise de côté avant de toucher le poisson cru, pour la servir en sauce : jamais celle qui a touché le poisson cru.",
+   "t": "Для соуса оставьте немного чистой чермулы, отложенной до того, как вы прикоснулись к сырой рыбе, — и никогда не подавайте ту, что соприкасалась с сырой рыбой."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Nada Kiffa aime en garder un peu de côté pour servir avec les grillades, poisson compris, surtout l'été) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)",
+   "t": "Taste of Maroc (Nada Kiffa любит оставлять немного, чтобы подать к блюдам на гриле, в том числе к рыбе, особенно летом); FDA (не допускать, чтобы бактерии с сырой рыбы попадали на готовую к употреблению еду)"
+  },
+  "secrets.8.text": {
+   "fr": "Égoutte et sèche bien le poisson avant la friture : l'eau fait bouillonner et déborder l'huile.",
+   "t": "Перед жаркой дайте рыбе стечь и хорошо обсушите её: от воды масло бурлит и переливается через край."
+  },
+  "secrets.8.source": {
+   "fr": "SFDA (Autorité saoudienne des aliments et des médicaments) ; pompiers du Cambridgeshire ; Taste of Maroc et Choumicha (poisson essuyé, séché)",
+   "t": "SFDA (Управление по контролю за продуктами и лекарствами Саудовской Аравии); пожарная служба Кембриджшира; Taste of Maroc и Choumicha (рыбу вытирают и обсушивают)"
+  },
+  "secrets.9.text": {
+   "fr": "Farine le poisson juste avant de le plonger dans l'huile.",
+   "t": "Обваливайте рыбу в муке непосредственно перед тем, как опустить её в масло."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (« passer les poissons dans la farine et les plonger dans un bain d'huile chaude ») ; Taste of Maroc (sortir de la marinade, enrober, frire)",
+   "t": "Choumicha («обвалять рыбу в муке и опустить в горячее масло»); Taste of Maroc (вынуть из маринада, обвалять, обжарить)"
+  },
+  "secrets.10.text": {
+   "fr": "Fais frire par petites quantités, sans serrer les morceaux.",
+   "t": "Жарьте небольшими партиями, не укладывая куски вплотную."
+  },
+  "secrets.10.source": {
+   "fr": "SBS (Ellie Bouhadana) : par fournées, sans surcharger la poêle ; Bladi, « Beignets de sardines » : par séries de quatre",
+   "t": "SBS (Ellie Bouhadana): партиями, не перегружая сковороду; Bladi, «Beignets de sardines»: партиями по четыре штуки"
+  },
+  "secrets.11.text": {
+   "fr": "Chauffe l'huile progressivement, à feu moyen, puis garde-la bien chaude sans fumée.",
+   "t": "Разогревайте масло постепенно, на среднем огне, а затем поддерживайте его хорошо разогретым, но без дыма."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi, « Merlans frits » (bain d'huile chauffé à feu moyen) ; SFDA (chauffer lentement, sans atteindre le point de fumée) ; Cooking With Alia (feu baissé une fois l'huile chaude)",
+   "t": "Bladi, «Merlans frits» (масло разогревают на среднем огне); SFDA (нагревать медленно, не доводя до точки дымления); Cooking With Alia (огонь убавляют, когда масло разогрелось)"
+  },
+  "secrets.12.text": {
+   "fr": "Change l'huile dès qu'elle devient brune ou noire. Une huile foncée, épaisse, qui mousse, qui fume ou qui sent le rance est abîmée. Ne la verse pas dans l'évier.",
+   "t": "Меняйте масло, как только оно станет коричневым или чёрным. Тёмное, густое масло, которое пенится, дымит или пахнет прогорклым, испорчено. Не выливайте его в раковину."
+  },
+  "secrets.12.source": {
+   "fr": "SFDA ; SCAV de Genève, « Information sur les huiles de friture »",
+   "t": "SFDA; SCAV (Женева), «Information sur les huiles de friture»"
+  },
+  "secrets.13.text": {
+   "fr": "Au Maroc, le poisson frit se sert souvent avec des haricots blancs à la tomate ou des salades fraîches (concombre, tomate, oignon), ou avec une salade verte, du citron et des olives m'chermlines.",
+   "t": "В Марокко жареную рыбу часто подают с белой фасолью в томатном соусе или свежими салатами (огурец, помидор, лук) либо с зелёным салатом, лимоном и оливками в чермуле."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha, « Friture de poissons m'chermel »",
+   "t": "Taste of Maroc (Nada Kiffa) и Choumicha, «Friture de poissons m'chermel»"
+  },
+  "mistakes.0": {
+   "fr": "Jeter de l'eau sur de l'huile en feu : ça provoque une explosion de flammes. Glisse un couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi ; appelle sans attendre les pompiers, même si le feu semble éteint, et si le feu continue, fais sortir tout le monde et ferme la porte (USFA ; gouvernement du Québec ; pompiers du Cambridgeshire ; comté du Warwickshire).",
+   "t": "Лить воду на горящее масло: это вызывает взрывную вспышку пламени. Надвиньте на сковороду крышку, выключите огонь, если это можно сделать без опасности, не переносите сковороду и не снимайте крышку, пока она не остынет; сразу вызовите пожарных, даже если кажется, что огонь погас, а если огонь не утихает, выведите всех и закройте дверь (USFA; правительство Квебека; пожарная служба Кембриджшира; графство Уорикшир)."
+  },
+  "mistakes.1": {
+   "fr": "Continuer à chauffer une huile qui fume : baisse le feu et laisse-la refroidir avant d'y mettre le poisson (gouvernement du Québec ; pompiers du Cambridgeshire ; SFDA).",
+   "t": "Продолжать нагревать дымящееся масло: убавьте огонь и дайте маслу остыть, прежде чем класть рыбу (правительство Квебека; пожарная служба Кембриджшира; SFDA)."
+  },
+  "mistakes.2": {
+   "fr": "Remplir la poêle à plus d'un tiers d'huile (pompiers du Cambridgeshire ; comté du Warwickshire).",
+   "t": "Наливать масло больше чем на треть высоты сковороды (пожарная служба Кембриджшира; графство Уорикшир)."
+  },
+  "mistakes.3": {
+   "fr": "Quitter la poêle des yeux pendant la friture, même quelques secondes (pompiers du Cambridgeshire ; comté du Warwickshire ; gouvernement du Québec).",
+   "t": "Отводить взгляд от сковороды во время жарки, даже на несколько секунд (пожарная служба Кембриджшира; графство Уорикшир; правительство Квебека)."
+  },
+  "mistakes.4": {
+   "fr": "Mettre dans l'huile un poisson mouillé ou plein de marinade liquide : l'huile bouillonne et peut déborder (SFDA ; pompiers du Cambridgeshire).",
+   "t": "Опускать в масло мокрую рыбу или рыбу с большим количеством жидкого маринада: масло бурлит и может перелиться через край (SFDA; пожарная служба Кембриджшира)."
+  },
+  "mistakes.5": {
+   "fr": "Serrer trop de morceaux dans la poêle (SBS ; Bladi).",
+   "t": "Класть в сковороду слишком много кусков вплотную (SBS; Bladi)."
+  },
+  "mistakes.6": {
+   "fr": "Hacher grossièrement les herbes : la chermoula fait des fils (Taste of Maroc ; Choumicha utilise des herbes émincées).",
+   "t": "Крупно рубить зелень: чермула тянется волокнами (Taste of Maroc; Choumicha использует мелко нарезанную зелень)."
+  },
+  "mistakes.7": {
+   "fr": "Servir en sauce une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+   "t": "Подавать как соус чермулу, которая соприкасалась с сырой рыбой (FDA; Taste of Maroc)."
+  },
+  "mistakes.8": {
+   "fr": "Acheter un poisson qui sent fort, aigre ou l'ammoniaque, ou des sardines ternes et molles (FDA ; Choumicha).",
+   "t": "Покупать рыбу с резким, кислым или аммиачным запахом либо тусклые и мягкие сардины (FDA; Choumicha)."
+  },
+  "mistakes.9": {
+   "fr": "Laisser le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+   "t": "Оставлять жареную рыбу вне холодильника дольше 2 часов, а если жарче 32 °C — дольше 1 часа (FDA)."
+  },
+  "variants.0": {
+   "fr": "Seulement des sardines farcies : c'est le grand classique de la rue (Taste of Maroc ; Bladi, « Sardines farcies »).",
+   "t": "Только фаршированные сардины: это главная уличная классика (Taste of Maroc; Bladi, «Sardines farcies»)."
+  },
+  "variants.1": {
+   "fr": "Une seule sardine garnie de chermoula et repliée sur elle-même, au lieu de deux sardines collées (Taste of Maroc).",
+   "t": "Одна сардина, намазанная чермулой и сложенная пополам, вместо двух склеенных (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Merlans entiers : écaillés, vidés, farcis de chermoula, passés dans la farine tamisée et frits quelques minutes en les retournant, servis avec des quartiers de citron (Bladi, « Merlans frits »).",
+   "t": "Целые мерланги: очищенные от чешуи, выпотрошенные, начинённые чермулой, обвалянные в просеянной муке и обжаренные несколько минут с переворачиванием; их подают с дольками лимона (Bladi, «Merlans frits»)."
+  },
+  "variants.3": {
+   "fr": "Chinchard entier enduit de marinade (persil, ail, cumin, paprika, citron) dehors et un peu dedans, puis fariné et frit (Bladi, « Poisson frits »).",
+   "t": "Целая ставрида, обмазанная маринадом (петрушка, чеснок, кумин, паприка, лимон) снаружи и немного внутри, затем обвалянная в муке и обжаренная (Bladi, «Poisson frits»)."
+  },
+  "variants.4": {
+   "fr": "Chermoula au vinaigre au lieu du citron (Choumicha), ou plus piquante avec du piment fort (Choumicha) ou de la harissa (Taste of Maroc).",
+   "t": "Чермула с уксусом вместо лимона (Choumicha) или поострее — с острым перцем (Choumicha) или хариссой (Taste of Maroc)."
+  },
+  "variants.5": {
+   "fr": "Chermoula à l'huile d'olive (Taste of Maroc ; Cooking With Alia ; Bladi, « Chermoula pour le poisson »).",
+   "t": "Чермула с оливковым маслом (Taste of Maroc; Cooking With Alia; Bladi, «Chermoula pour le poisson»)."
+  },
+  "variants.6": {
+   "fr": "Chermoula du Nord : avec du thym, du poivre noir et beaucoup de persil plat (Taste of Maroc).",
+   "t": "Северная чермула: с тимьяном, чёрным перцем и большим количеством петрушки (Taste of Maroc)."
+  },
+  "variants.7": {
+   "fr": "Chermoula au citron confit (SBS, Ellie Bouhadana ; Taste of Maroc, en option).",
+   "t": "Чермула с солёным лимоном (SBS, Ellie Bouhadana; Taste of Maroc — по желанию)."
+  },
+  "variants.8": {
+   "fr": "Enrobage farine et semoule (SBS, Ellie Bouhadana) ou farine et farine de blé dur (Taste of Maroc).",
+   "t": "Панировка из муки и семолины (SBS, Ellie Bouhadana) или из пшеничной муки и муки из твёрдой пшеницы (Taste of Maroc)."
+  },
+  "variants.9": {
+   "fr": "Beignets de sardines : sardines nettoyées, sans tête ni arête centrale, trempées dans une pâte (œuf, farine, huile, eau glacée) et frites 5 minutes par séries de quatre (Bladi).",
+   "t": "Сардины в кляре: очищенные сардины без головы и хребта обмакивают в кляр (яйцо, мука, масло, ледяная вода) и жарят 5 минут партиями по четыре (Bladi)."
+  },
+  "variants.10": {
+   "fr": "À El Jadida, les fritures de poissons font partie du f'tour du ramadan (Hespress, 2021).",
+   "t": "В Эль-Джадиде жареная рыба входит в ифтар в Рамадан (Hespress, 2021)."
+  }
+ }
+}

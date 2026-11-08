@@ -1,0 +1,350 @@
+{
+ "_slug": "pates-thon-tomate",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Pâtes au thon à la tomate",
+   "t": "معكرونة بالتونة والطماطم"
+  },
+  "tagline": {
+   "fr": "Un oignon fondu, des tomates et du thon à l'huile : une sauce qui mijote pendant que les spaghettis cuisent, le classique italien des soirs où le placard est presque vide.",
+   "t": "بصلة مذبّلة، وطماطم، وتونة بالزيت: صلصة تنضج على نار هادئة بينما تُسلق السباغيتي؛ إنه الطبق الإيطالي الكلاسيكي لأمسيات تكاد فيها خزانة المؤن تفرغ."
+  },
+  "region": {
+   "fr": "Toute l'Italie : recette de Bologne déposée en 2018 par l'Accademia Italiana della Cucina (Dissapore ; Il Giornale del Cibo), versions de Rome et de Palerme (Wikipédia, Dissapore)",
+   "t": "إيطاليا كلها: وصفة بولونيا التي سجّلتها Accademia Italiana della Cucina سنة 2018 (Dissapore؛ Il Giornale del Cibo)، ونسختا روما وباليرمو (Wikipédia، Dissapore)"
+  },
+  "occasion": {
+   "fr": "Dîner express avec des conserves du placard. En Italie, c'est le plat des étudiants, et autrefois celui des jours sans viande (Dissapore, Il Giornale del Cibo)",
+   "t": "عشاء سريع بالمعلّبات المتوفرة في الخزانة. في إيطاليا، هو طبق الطلبة، وكان قديمًا طبق أيام الامتناع عن أكل اللحم (Dissapore، Il Giornale del Cibo)"
+  },
+  "img_alt": {
+   "fr": "Spaghetti nappés de sauce tomate au thon",
+   "t": "سباغيتي مغطاة بصلصة الطماطم بالتونة"
+  },
+  "serving": {
+   "fr": "Tout de suite, avec un peu de persil cru sur l'assiette si tu aimes (recette bolognaise, d'après Dissapore et Il Giornale del Cibo). Les restes : dans une boîte hermétique au réfrigérateur, au plus 1 jour (Cookist) ; mets-les au froid dans les 2 heures après la cuisson (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+   "t": "قدّمها فورًا، مع قليل من البقدونس النيء على الصحن إن أحببت (وصفة بولونيا، حسب Dissapore وIl Giornale del Cibo). البقايا: في علبة محكمة الإغلاق في الثلاجة، مدة أقصاها 1 يوم (Cookist)؛ ضعها في الثلاجة خلال 2 ساعة بعد الطهي (1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية)، وسخّنها حتى يبلغ قلبها 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية؛ وAnses بالنسبة إلى مدة 2 ساعة)."
+  },
+  "ing.0.group": {
+   "fr": "Sauce",
+   "t": "الصلصة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive vierge extra",
+   "t": "زيت زيتون بكر ممتاز"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates pelées en conserve",
+   "t": "طماطم مقشّرة معلّبة"
+  },
+  "ing.tomates.note": {
+   "fr": "ou de pulpe de tomate",
+   "t": "أو لبّ الطماطم"
+  },
+  "ing.thon.name": {
+   "fr": "de thon à l'huile, égoutté",
+   "t": "تونة بالزيت، مصفّاة"
+  },
+  "ing.thon.note": {
+   "fr": "à l'huile d'olive de préférence",
+   "t": "ويُفضَّل أن تكون بزيت الزيتون"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "الملح"
+  },
+  "ing.sel.note": {
+   "fr": "pour la sauce et pour l'eau des pâtes",
+   "t": "للصلصة ولماء سلق المعكرونة"
+  },
+  "ing.1.group": {
+   "fr": "Pâtes",
+   "t": "المعكرونة"
+  },
+  "ing.spaghetti.name": {
+   "fr": "de spaghettis",
+   "t": "سباغيتي"
+  },
+  "ing.spaghetti.note": {
+   "fr": "ou de pâtes courtes",
+   "t": "أو معكرونة قصيرة"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "الماء"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, pour cuire les pâtes",
+   "t": "ما يملأ قدرًا كبيرة، لسلق المعكرونة"
+  },
+  "ing.eau-cuisson.name": {
+   "fr": "eau de cuisson des pâtes",
+   "t": "ماء سلق المعكرونة"
+  },
+  "ing.eau-cuisson.note": {
+   "fr": "quelques cuillerées",
+   "t": "بضع ملاعق"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat haché",
+   "t": "البقدونس المفروم"
+  },
+  "ing.persil.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "equipment.0": {
+   "fr": "Une grande casserole avec son couvercle",
+   "t": "قدر كبيرة بغطائها"
+  },
+  "equipment.1": {
+   "fr": "Une sauteuse ou une grande poêle",
+   "t": "مقلاة عميقة أو مقلاة كبيرة"
+  },
+  "equipment.2": {
+   "fr": "Une passoire",
+   "t": "مصفاة"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.4": {
+   "fr": "Une cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "equipment.5": {
+   "fr": "Un ouvre-boîte et un bol",
+   "t": "فتّاحة علب ووعاء"
+  },
+  "steps.0.title": {
+   "fr": "Mets l'eau à chauffer",
+   "t": "ضع الماء على النار"
+  },
+  "steps.0.text": {
+   "fr": "Remplis une grande casserole d'{{eau}}, couvre-la et porte-la à ébullition.",
+   "t": "املأ قدرًا كبيرة ب{{eau}}، وغطّها واتركها على النار حتى الغليان."
+  },
+  "steps.1.title": {
+   "fr": "Émince l'oignon",
+   "t": "قطّع البصل إلى شرائح"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et émince très finement {{oignon:full}}.",
+   "t": "قشّر {{oignon:full}} وقطّعها إلى شرائح رقيقة جدًا."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل إلى شرائح"
+  },
+  "steps.2.title": {
+   "fr": "Prépare le thon et les tomates",
+   "t": "حضّر التونة والطماطم"
+  },
+  "steps.2.text": {
+   "fr": "Égoutte {{thon}} de thon et émiette-le. Coupe {{tomates}} de tomates pelées en petits morceaux.",
+   "t": "صفِّ {{thon}} من التونة وفتّتها. قطّع {{tomates}} من الطماطم المقشّرة إلى قطع صغيرة."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "ذبّل البصل"
+  },
+  "steps.3.text": {
+   "fr": "Dans la sauteuse, chauffe {{huile}} d'huile d'olive à feu doux et ajoute l'oignon. Laisse-le fondre en remuant de temps en temps, jusqu'à ce qu'il soit tendre et transparent.",
+   "t": "في المقلاة العميقة، سخّن {{huile}} من زيت الزيتون على نار هادئة وأضف البصل. اتركه يذبل مع التحريك من حين لآخر، حتى يصير طريًّا وشفافًا."
+  },
+  "steps.4.title": {
+   "fr": "Ajoute les tomates",
+   "t": "أضف الطماطم"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute les tomates, sale légèrement avec le {{sel}} et laisse mijoter à feu doux, en remuant de temps en temps.",
+   "t": "أضف الطماطم، ثم قليلًا من {{sel}}، واتركها تنضج على نار هادئة مع التحريك من حين لآخر."
+  },
+  "steps.5.title": {
+   "fr": "Lance les pâtes",
+   "t": "ابدأ سلق المعكرونة"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'eau bout, sale-la, puis plonge {{spaghetti}} de spaghettis. Fais-les cuire al dente, selon le temps indiqué sur le paquet.",
+   "t": "عندما يغلي الماء، ملّحه، ثم ضع فيه {{spaghetti}} من السباغيتي. اسلقها حتى تنضج وتبقى متماسكة قليلًا (أل دينتي)، حسب المدة المبيّنة على العلبة."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute le thon",
+   "t": "أضف التونة"
+  },
+  "steps.6.text": {
+   "fr": "Dès que les pâtes sont dans l'eau, ajoute le thon à la sauce et mélange doucement. Laisse mijoter à feu doux jusqu'à ce que la sauce soit veloutée : le thon doit chauffer sans cuire trop longtemps, sinon il se dessèche.",
+   "t": "بمجرد أن تضع المعكرونة في الماء، أضف التونة إلى الصلصة وحرّك برفق. اتركها تنضج على نار هادئة حتى تصير الصلصة ناعمة ومتجانسة: يجب أن تسخن التونة دون أن تُطهى مدة طويلة، وإلا جفّت."
+  },
+  "steps.7.title": {
+   "fr": "Garde un peu d'eau",
+   "t": "احتفظ بقليل من الماء"
+  },
+  "steps.7.text": {
+   "fr": "Juste avant d'égoutter, puise un peu d'{{eau-cuisson}} dans un bol.",
+   "t": "قبل التصفية مباشرة، اغرف قليلًا من {{eau-cuisson}} في وعاء."
+  },
+  "steps.8.title": {
+   "fr": "Mélange pâtes et sauce",
+   "t": "اخلط المعكرونة بالصلصة"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pâtes al dente et verse-les dans la sauteuse. Mélange un instant sur le feu, en ajoutant un peu d'eau de cuisson pour lier la sauce.",
+   "t": "صفِّ المعكرونة وهي ما تزال متماسكة قليلًا (أل دينتي)، وأفرغها في المقلاة العميقة. اخلط لحظة على النار، مع إضافة قليل من ماء السلق لربط الصلصة."
+  },
+  "steps.9.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّمها فورًا"
+  },
+  "steps.9.text": {
+   "fr": "Sers tout de suite. Si tu aimes, parsème un peu de {{persil}} sur chaque assiette.",
+   "t": "قدّمها في الحال. إن أحببت، رشّ قليلًا من {{persil}} على كل صحن."
+  },
+  "secrets.0.text": {
+   "fr": "Ajoute le thon vers la fin : s'il cuit trop longtemps, il se dessèche.",
+   "t": "أضف التونة قرب النهاية: إذا طُهيت مدة طويلة جفّت."
+  },
+  "secrets.0.source": {
+   "fr": "Cookist (chef Ruben Bondì) ; recette bolognaise d'après Dissapore, 2018 (thon ajouté 10 minutes avant la fin) ; Il Giornale del Cibo (le thon ne doit pas cuire longtemps avec la sauce et s'ajoute en fin de préparation) ; Cristina Bragaglia, citée par Dissapore (« à Bologne, le thon s'ajoute après »)",
+   "t": "Cookist (الشيف Ruben Bondì)؛ وصفة بولونيا حسب Dissapore، 2018 (تُضاف التونة قبل 10 دقائق من النهاية)؛ Il Giornale del Cibo (يجب ألا تُطهى التونة طويلًا مع الصلصة، وتُضاف في آخر التحضير)؛ Cristina Bragaglia، كما نقل عنها Dissapore («في بولونيا، تُضاف التونة لاحقًا»)"
+  },
+  "secrets.1.text": {
+   "fr": "Prends du thon à l'huile, de préférence à l'huile d'olive : sa chair est plus moelleuse et plus savoureuse.",
+   "t": "استعمل التونة بالزيت، ويُفضَّل أن تكون بزيت الزيتون: لحمها أطرى وألذّ."
+  },
+  "secrets.1.source": {
+   "fr": "Dissapore (version aux tomates cerises : « consistance plus moelleuse, goût plus riche »)",
+   "t": "Dissapore (النسخة بالطماطم الكرزية: «قوام أطرى، ونكهة أغنى»)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse l'oignon fondre doucement jusqu'à ce qu'il soit tendre et transparent, sans le faire dorer.",
+   "t": "اترك البصل يذبل ببطء حتى يصير طريًّا وشفافًا، دون أن تحمّره."
+  },
+  "secrets.2.source": {
+   "fr": "Dissapore (2018 et 2022)",
+   "t": "Dissapore (2018 و2022)"
+  },
+  "secrets.3.text": {
+   "fr": "Égoutte bien le thon, puis émiette-le.",
+   "t": "صفِّ التونة جيدًا، ثم فتّتها."
+  },
+  "secrets.3.source": {
+   "fr": "Dissapore (thon égoutté) ; recette bolognaise d'après Dissapore, 2018, et Il Giornale del Cibo (thon émietté)",
+   "t": "Dissapore (تونة مصفّاة)؛ وصفة بولونيا حسب Dissapore، 2018، وIl Giornale del Cibo (تونة مفتّتة)"
+  },
+  "secrets.4.text": {
+   "fr": "Un peu d'eau de cuisson des pâtes aide la sauce à bien enrober les pâtes.",
+   "t": "قليل من ماء سلق المعكرونة يساعد الصلصة على تغليف المعكرونة جيدًا."
+  },
+  "secrets.4.source": {
+   "fr": "Dissapore (une demi-louche ; « quelques cuillerées » dans la version aux tomates cerises)",
+   "t": "Dissapore (نصف مغرفة؛ «بضع ملاعق» في النسخة بالطماطم الكرزية)"
+  },
+  "secrets.5.text": {
+   "fr": "Spaghettis ou pâtes courtes ? Les spaghettis sont la tradition ; Dissapore trouve que les pâtes courtes se marient mieux au thon, et Cookist prend des rigatoni.",
+   "t": "سباغيتي أم معكرونة قصيرة؟ السباغيتي هي التقليد؛ ويرى Dissapore أن المعكرونة القصيرة تتناسب أكثر مع التونة، أما Cookist فيستعمل الريغاتوني."
+  },
+  "secrets.5.source": {
+   "fr": "Wikipédia (it) ; Dissapore ; Cookist",
+   "t": "Wikipédia (it)؛ Dissapore؛ Cookist"
+  },
+  "secrets.6.text": {
+   "fr": "Pour une version plus fine, prends de la ventresca, la partie la plus grasse et la plus noble du thon.",
+   "t": "لنسخة أرقى، استعمل الفنتريسكا (ventresca)، وهي أكثر أجزاء التونة دهنًا وأرفعها قيمة."
+  },
+  "secrets.6.source": {
+   "fr": "Dissapore",
+   "t": "Dissapore"
+  },
+  "secrets.7.text": {
+   "fr": "Le persil se met cru, sur l'assiette déjà servie.",
+   "t": "يوضع البقدونس نيئًا على الصحن بعد تقديمه."
+  },
+  "secrets.7.source": {
+   "fr": "Recette bolognaise, d'après Dissapore (2018) et Il Giornale del Cibo (2019) : variante admise",
+   "t": "وصفة بولونيا، حسب Dissapore (2018) وIl Giornale del Cibo (2019): تنويع مقبول"
+  },
+  "secrets.8.text": {
+   "fr": "C'était un plat des jours maigres : à Bologne, on le mangeait le vendredi et la veille de Noël.",
+   "t": "كان طبقًا لأيام الامتناع عن اللحم: في بولونيا، كان يؤكل يوم الجمعة وليلة عيد الميلاد."
+  },
+  "secrets.8.source": {
+   "fr": "Cristina Bragaglia, citée par Il Giornale del Cibo et par Dissapore ; Wikipédia (it)",
+   "t": "Cristina Bragaglia، كما نقل عنها Il Giornale del Cibo وDissapore؛ Wikipédia (it)"
+  },
+  "secrets.9.text": {
+   "fr": "Le thon en boîte est arrivé en Italie en 1868, à Gênes ; la recette s'est répandue ensuite.",
+   "t": "وصلت التونة المعلّبة إلى إيطاليا سنة 1868، إلى جنوة؛ ثم انتشرت الوصفة بعد ذلك."
+  },
+  "secrets.9.source": {
+   "fr": "Il Giornale del Cibo ; Dissapore (Cristina Bragaglia) ; Wikipédia (it)",
+   "t": "Il Giornale del Cibo؛ Dissapore (Cristina Bragaglia)؛ Wikipédia (it)"
+  },
+  "secrets.10.text": {
+   "fr": "La recette bolognaise a été déposée à la Chambre de commerce de Bologne par l'Accademia Italiana della Cucina, après une recherche historique.",
+   "t": "سجّلت Accademia Italiana della Cucina وصفة بولونيا لدى غرفة التجارة في بولونيا، بعد بحث تاريخي."
+  },
+  "secrets.10.source": {
+   "fr": "Dissapore (Anna Silveri, 2018) ; Il Giornale del Cibo ; Wikipédia (it)",
+   "t": "Dissapore (Anna Silveri، 2018)؛ Il Giornale del Cibo؛ Wikipédia (it)"
+  },
+  "mistakes.0": {
+   "fr": "Laisser cuire le thon trop longtemps : il devient sec (Cookist).",
+   "t": "ترك التونة تُطهى مدة طويلة: تصير جافة (Cookist)."
+  },
+  "mistakes.1": {
+   "fr": "Faire dorer l'oignon au lieu de le laisser fondre (Dissapore).",
+   "t": "تحمير البصل بدل تركه يذبل (Dissapore)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier d'égoutter le thon (Dissapore).",
+   "t": "نسيان تصفية التونة (Dissapore)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire les pâtes : égoutte-les al dente (Dissapore, Cookist).",
+   "t": "الإفراط في سلق المعكرونة: صفّها أل دينتي، أي وهي متماسكة قليلًا (Dissapore، Cookist)."
+  },
+  "mistakes.4": {
+   "fr": "Garder le plat plus d'un jour : au plus 1 jour au réfrigérateur, en boîte hermétique (Cookist).",
+   "t": "الاحتفاظ بالطبق أكثر من يوم: مدة أقصاها 1 يوم في الثلاجة، في علبة محكمة الإغلاق (Cookist)."
+  },
+  "variants.0": {
+   "fr": "La recette de Bologne, déposée par l'Accademia Italiana della Cucina (reprise par Dissapore en 2018 et par Il Giornale del Cibo en 2019) : pour 4, 320 g de spaghettis, 180 g de thon à l'huile, un oignon et 700 g de tomates fraîches (ou une boîte de 400 g de pelées), cuites une demi-heure à feu doux ; le thon s'ajoute 10 minutes avant la fin. Plus longue que la version rapide. Variantes admises : anchois ou persil.",
+   "t": "وصفة بولونيا التي سجّلتها Accademia Italiana della Cucina (نقلها Dissapore سنة 2018 وIl Giornale del Cibo سنة 2019): لـ4 أشخاص، 320 غ من السباغيتي، و180 غ من التونة بالزيت، وبصلة واحدة، و700 غ من الطماطم الطازجة (أو علبة 400 غ من الطماطم المقشّرة)، تُطهى نصف ساعة على نار هادئة؛ وتُضاف التونة قبل 10 دقائق من النهاية. وهي أطول من النسخة السريعة. تنويعات مقبولة: الأنشوفة أو البقدونس."
+  },
+  "variants.1": {
+   "fr": "À la romaine : ail et piment à la place de l'oignon (Wikipédia ; Cristina Bragaglia, citée par Dissapore).",
+   "t": "على طريقة روما: الثوم والفلفل الحار بدل البصل (Wikipédia؛ Cristina Bragaglia، كما نقل عنها Dissapore)."
+  },
+  "variants.2": {
+   "fr": "Avec des olives, des câpres ou des petits pois (Dissapore) ; ou olives, câpres et anchois, avec tomates cerises et coulis (Cookist, chef Ruben Bondì).",
+   "t": "بالزيتون أو القبّار أو البازلاء (Dissapore)؛ أو بالزيتون والقبّار والأنشوفة، مع الطماطم الكرزية وصلصة الطماطم الناعمة (Cookist، الشيف Ruben Bondì)."
+  },
+  "variants.3": {
+   "fr": "Aux tomates cerises cuites à feu vif avec une gousse d'ail (Dissapore). La recette ajoute du bouillon en poudre, non repris ici.",
+   "t": "بالطماطم الكرزية المطهوة على نار قوية مع فص ثوم (Dissapore). تضيف الوصفة مسحوق المرق، ولم يُعتمد هنا."
+  },
+  "variants.4": {
+   "fr": "À Palerme : sans tomate, avec raisins secs, pignons et fenouil sauvage (Wikipédia).",
+   "t": "في باليرمو: دون طماطم، مع الزبيب والصنوبر والشمر البري (Wikipédia)."
+  }
+ }
+}

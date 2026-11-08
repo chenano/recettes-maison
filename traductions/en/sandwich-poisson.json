@@ -1,0 +1,374 @@
+{
+ "_slug": "sandwich-poisson",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Sandwich de sardines à la chermoula",
+   "t": "Sardine sandwich with chermoula"
+  },
+  "darija": {
+   "fr": "Sardine mzeouej",
+   "t": "Sardine mzeouej"
+  },
+  "tagline": {
+   "fr": "Un des casse-croûte de rue les plus populaires du Maroc : des sardines farcies à la chermoula, frites et glissées encore chaudes dans un demi-pain, avec de la tomate, de l'oignon et de la harissa.",
+   "t": "One of Morocco's most popular street snacks: sardines stuffed with chermoula, fried and slipped, still hot, into half a roll with tomato, onion and harissa."
+  },
+  "region": {
+   "fr": "Tout le Maroc, surtout les villes côtières ; les sardines farcies frites se vendent aussi, parfois seulement certains jours, à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc). À Marrakech, on trouve aussi un sandwich de kefta de sardines, le hout quari (MarocMama, Halal Xplorer) ; dans le Nord, des bocadillos au poisson (Morocco World News).",
+   "t": "All of Morocco, especially the coastal cities; fried stuffed sardines are also sold, sometimes only on certain days, in Jemaa el-Fna in Marrakesh and in the medina of Fez (Taste of Maroc). In Marrakesh, there is also a sardine kefta sandwich, hout quari (MarocMama, Halal Xplorer); in the north, fish bocadillos (Morocco World News)."
+  },
+  "occasion": {
+   "fr": "Casse-croûte de rue, à manger sur le pouce (Morocco World News ; Taste of Maroc)",
+   "t": "Street snack, to eat on the go (Morocco World News; Taste of Maroc)"
+  },
+  "img_alt": {
+   "fr": "Sandwich de sardines dans un petit pain, avec de la salade",
+   "t": "Sardine sandwich in a roll, with salad"
+  },
+  "serving": {
+   "fr": "Mange le sandwich tout de suite, quand les sardines sont encore chaudes (Bladi : les sardines farcies se mangent de préférence chaudes). Morocco World News propose de glisser les sardines farcies dans un demi petit pain et de les accompagner d'une boisson, ou de les servir avec la salade marocaine tomate-oignon. Taste of Maroc ajoute du citron et de la harissa. Ne le garde pas plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Eat the sandwich straight away, while the sardines are still hot (Bladi: stuffed sardines are best eaten hot). Morocco World News suggests slipping the stuffed sardines into half a small roll and having them with a drink, or serving them with Moroccan tomato and onion salad. Taste of Maroc adds lemon and harissa. Do not keep it out of the fridge for more than 2 hours (FDA)."
+  },
+  "pairs_label": {
+   "fr": "Les recettes utilisées",
+   "t": "The recipes used"
+  },
+  "ing.0.group": {
+   "fr": "Sardines",
+   "t": "Sardines"
+  },
+  "ing.sardines.name": {
+   "fr": "sardines farcies à la chermoula",
+   "t": "sardines stuffed with chermoula"
+  },
+  "ing.sardines.note": {
+   "fr": "à préparer et à frire avec la recette du poisson frit de l'application (partie sardines)",
+   "t": "to be prepared and fried using the app's fried fish recipe (sardine part)"
+  },
+  "ing.1.group": {
+   "fr": "Pain",
+   "t": "Bread"
+  },
+  "ing.pain.name": {
+   "fr": "petit pain rond",
+   "t": "small round roll"
+  },
+  "ing.pain.pl": {
+   "fr": "petits pains ronds",
+   "t": "small round rolls"
+  },
+  "ing.pain.note": {
+   "fr": "khobz ; un demi-pain par sandwich",
+   "t": "khobz (Moroccan bread); half a roll per sandwich"
+  },
+  "ing.2.group": {
+   "fr": "Garniture",
+   "t": "Filling"
+  },
+  "ing.tomate.name": {
+   "fr": "tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.tomate.note": {
+   "fr": "râpées",
+   "t": "grated"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "onion"
+  },
+  "ing.oignon.note": {
+   "fr": "haché finement",
+   "t": "finely chopped"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.harissa.name": {
+   "fr": "harissa",
+   "t": "harissa"
+  },
+  "ing.harissa.note": {
+   "fr": "selon ton goût",
+   "t": "to taste"
+  },
+  "ing.olives.name": {
+   "fr": "olives vertes",
+   "t": "green olives"
+  },
+  "ing.olives.note": {
+   "fr": "dénoyautées, en rondelles ; facultatif",
+   "t": "pitted, sliced; optional"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers",
+   "t": "cut into wedges"
+  },
+  "equipment.0": {
+   "fr": "Le matériel de la recette du poisson frit de l'application (friteuse ou poêle profonde, couvercle, écumoire, papier absorbant)",
+   "t": "The equipment from the app's fried fish recipe (deep-fat fryer or deep frying pan, lid, slotted spoon, kitchen paper)"
+  },
+  "equipment.1": {
+   "fr": "Râpe (pour les tomates)",
+   "t": "Grater (for the tomatoes)"
+  },
+  "equipment.2": {
+   "fr": "Couteau à pain",
+   "t": "Bread knife"
+  },
+  "equipment.3": {
+   "fr": "Planche à découper",
+   "t": "Chopping board"
+  },
+  "equipment.4": {
+   "fr": "Petits bols pour la garniture",
+   "t": "Small bowls for the filling"
+  },
+  "steps.0.title": {
+   "fr": "Prépare les sardines farcies",
+   "t": "Prepare the stuffed sardines"
+  },
+  "steps.0.text": {
+   "fr": "Prépare les {{sardines}} avec la recette du poisson frit de l'application, en ne prenant que des sardines : écaille-les, vide-les, ouvre-les, prépare la chermoula et colle les sardines deux par deux. Avant de toucher le poisson cru, mets un peu de chermoula de côté pour la sauce.",
+   "t": "Prepare the {{sardines}} using the app's fried fish recipe, with sardines only: scale, gut and open them, make the chermoula and sandwich the sardines together in pairs. Before touching the raw fish, set a little chermoula aside for the sauce."
+  },
+  "steps.0.tip": {
+   "fr": "Prends de petites sardines bien fraîches, achetées le jour même.",
+   "t": "Use small, very fresh sardines, bought the same day."
+  },
+  "steps.1.title": {
+   "fr": "Laisse mariner au frais",
+   "t": "Marinate in the fridge"
+  },
+  "steps.1.text": {
+   "fr": "Couvre les sardines farcies et mets-les au réfrigérateur au moins 30 minutes. Pendant ce temps, prépare la garniture.",
+   "t": "Cover the stuffed sardines and refrigerate them for at least 30 minutes. Meanwhile, prepare the filling."
+  },
+  "steps.1.timer.label": {
+   "fr": "Marinade",
+   "t": "Marinating"
+  },
+  "steps.1.timer.done": {
+   "fr": "La marinade est prête. Prépare la friture.",
+   "t": "The marinating is done. Get ready to fry."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "Grate the tomatoes"
+  },
+  "steps.2.text": {
+   "fr": "Coupe les {{tomate}} en deux et retire les graines. Râpe la chair jusqu'à obtenir une pulpe et jette la peau. Assaisonne de {{sel}} et de {{poivre}}.",
+   "t": "Cut the {{tomate}} in half and remove the seeds. Grate the flesh to a pulp and throw away the skin. Season with {{sel}} and {{poivre}}."
+  },
+  "steps.2.tip": {
+   "fr": "La râpe marche mieux avec des tomates très mûres.",
+   "t": "Grating works best with very ripe tomatoes."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Tomato grated on a grater"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon",
+   "t": "Chop the onion"
+  },
+  "steps.3.text": {
+   "fr": "Pèle l'{{oignon}} et hache-le finement.",
+   "t": "Peel the {{oignon}} and chop it finely."
+  },
+  "steps.3.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.4.title": {
+   "fr": "Fais frire les sardines",
+   "t": "Fry the sardines"
+  },
+  "steps.4.text": {
+   "fr": "Fais frire les sardines comme dans la recette du poisson frit de l'application : farinées juste avant, dans une huile bien chaude qui ne fume pas, par petites quantités, environ 3 minutes par face, jusqu'à ce qu'elles soient bien dorées.",
+   "t": "Fry the sardines as in the app's fried fish recipe: floured just beforehand, in very hot oil that is not smoking, in small batches, about 3 minutes per side, until golden brown."
+  },
+  "steps.4.tip": {
+   "fr": "Ne quitte pas la poêle des yeux. Si l'huile prend feu : jamais d'eau ; glisse le couvercle, coupe le feu si c'est sans danger, ne déplace pas la poêle et appelle sans attendre les pompiers, même si le feu semble éteint.",
+   "t": "Do not take your eyes off the pan. If the oil catches fire: never use water; slide the lid over the pan, turn off the heat if it is safe to do so, do not move the pan and call the fire brigade straight away, even if the fire seems to be out."
+  },
+  "steps.4.timer.label": {
+   "fr": "Une face",
+   "t": "One side"
+  },
+  "steps.4.timer.done": {
+   "fr": "Retourne les sardines, puis relance 3 minutes pour l'autre face.",
+   "t": "Turn the sardines over, then restart the timer for 3 minutes for the other side."
+  },
+  "steps.5.title": {
+   "fr": "Égoutte les sardines",
+   "t": "Drain the sardines"
+  },
+  "steps.5.text": {
+   "fr": "Pose les sardines sur du papier absorbant pour enlever l'excès d'huile.",
+   "t": "Put the sardines on kitchen paper to remove the excess oil."
+  },
+  "steps.6.title": {
+   "fr": "Ouvre les pains",
+   "t": "Open the rolls"
+  },
+  "steps.6.text": {
+   "fr": "Il faut un demi-pain par sandwich, soit {{pain:full}} en tout. Coupe chaque pain en deux, puis ouvre chaque moitié en poche, sans la déchirer.",
+   "t": "You need half a roll per sandwich, i.e. {{pain:full}} in all. Cut each roll in half, then open each half into a pocket, without tearing it."
+  },
+  "steps.7.title": {
+   "fr": "Garnis les sandwichs",
+   "t": "Fill the sandwiches"
+  },
+  "steps.7.text": {
+   "fr": "Dans chaque poche, mets un peu de tomate râpée et d'oignon haché, de la {{harissa}} selon ton goût et quelques {{olives}}. Glisse les sardines encore chaudes. Ajoute un filet de jus de {{citron}} et, si tu en as gardé, un peu de chermoula.",
+   "t": "In each pocket, put a little grated tomato and chopped onion, {{harissa}} to taste and a few {{olives}}. Slip in the sardines while still hot. Add a squeeze of {{citron}} juice and, if you kept some aside, a little chermoula."
+  },
+  "steps.8.title": {
+   "fr": "Mange aussitôt",
+   "t": "Eat at once"
+  },
+  "steps.8.text": {
+   "fr": "Mange tout de suite, tant que les sardines sont chaudes. Ne garde pas un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "t": "Eat straight away, while the sardines are hot. Do not keep a sandwich out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C."
+  },
+  "secrets.0.text": {
+   "fr": "Les sardines farcies frites sont un des plats de rue les plus classiques du Maroc, même loin de la côte, parfois seulement certains jours : on les trouve à Jemaa el-Fna à Marrakech et dans la vieille médina de Fès.",
+   "t": "Fried stuffed sardines are one of Morocco's most classic street foods, even far from the coast, sometimes only on certain days: you can find them in Jemaa el-Fna in Marrakesh and in the old medina of Fez."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; Morocco World News (2013, d'après CNN : la sardine, plat de rue de base, est le plus souvent frite ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich »)",
+   "t": "Taste of Maroc (Nada Kiffa, a Casablanca native); Morocco World News (2013, citing CNN: sardines, a basic street food, are most often fried; stuffed with a spicy chermoula, they make “a tasty sandwich”)"
+  },
+  "secrets.1.text": {
+   "fr": "Au Maroc, la sardine se prépare de bien des façons, mais la friture reste la plus populaire.",
+   "t": "In Morocco, sardines are prepared in many ways, but frying remains the most popular."
+  },
+  "secrets.1.source": {
+   "fr": "Morocco World News, 27 mai 2013 (d'après CNN) ; Taste of Maroc (sardines farcies frites, plat de rue emblématique)",
+   "t": "Morocco World News, 27 May 2013 (citing CNN); Taste of Maroc (fried stuffed sardines, an iconic street food)"
+  },
+  "secrets.2.text": {
+   "fr": "Un demi petit pain suffit : glisse-y les sardines farcies.",
+   "t": "Half a small roll is enough: slip the stuffed sardines into it."
+  },
+  "secrets.2.source": {
+   "fr": "Morocco World News, 30 juillet 2021 (« dans un demi petit pain ») ; MarocMama et Halal Xplorer (sandwich de sardines dans du pain frais)",
+   "t": "Morocco World News, 30 July 2021 (“in half a small roll”); MarocMama and Halal Xplorer (sardine sandwich in fresh bread)"
+  },
+  "secrets.3.text": {
+   "fr": "On les mange avec une salade tomate-oignon : dans le sandwich, la tomate râpée et l'oignon haché jouent ce rôle.",
+   "t": "They are eaten with a tomato and onion salad: in the sandwich, the grated tomato and chopped onion play that role."
+  },
+  "secrets.3.source": {
+   "fr": "Morocco World News, 2021 (salade marocaine tomate-oignon) ; Taste of Maroc (salade concombre, tomate, oignon) ; MarocMama et Halal Xplorer (tomate et oignon cru dans le sandwich de Marrakech)",
+   "t": "Morocco World News, 2021 (Moroccan tomato and onion salad); Taste of Maroc (cucumber, tomato and onion salad); MarocMama and Halal Xplorer (tomato and raw onion in the Marrakesh sandwich)"
+  },
+  "secrets.4.text": {
+   "fr": "La harissa accompagne les sardines frites et le sandwich de sardines de Marrakech ; mets-en selon ton goût.",
+   "t": "Harissa goes with fried sardines and with the Marrakesh sardine sandwich; add as much as you like."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (sardines frites servies avec de la harissa) ; MarocMama et Halal Xplorer (harissa dans le sandwich de sardines de Marrakech)",
+   "t": "Taste of Maroc (fried sardines served with harissa); MarocMama and Halal Xplorer (harissa in the Marrakesh sardine sandwich)"
+  },
+  "secrets.5.text": {
+   "fr": "Les olives vont bien avec le poisson frit, et les olives vertes dans le sandwich.",
+   "t": "Olives go well with fried fish, and green olives in the sandwich."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (friture servie avec des olives m'chermlines) ; MarocMama (olives vertes en rondelles) ; Halal Xplorer (olives hachées)",
+   "t": "Choumicha (fried fish served with m'chermlines olives); MarocMama (sliced green olives); Halal Xplorer (chopped olives)"
+  },
+  "secrets.6.text": {
+   "fr": "Garde de côté un peu de chermoula propre, avant de toucher le poisson cru, pour en mettre dans le pain : jamais celle qui a servi à mariner.",
+   "t": "Set aside a little clean chermoula, before touching the raw fish, to put in the bread: never the chermoula used for marinating."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa en garde un peu pour servir avec le poisson) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)",
+   "t": "Taste of Maroc (Nada Kiffa keeps some aside to serve with the fish); FDA (prevent bacteria from raw fish passing to ready-to-eat foods)"
+  },
+  "secrets.7.text": {
+   "fr": "Les petites sardines fraîches sont les meilleures : moins de 15 cm, brillantes et fermes.",
+   "t": "Small fresh sardines are the best: under 15 cm, shiny and firm."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Choumicha, « La sardine, un trésor de bienfaits »",
+   "t": "Taste of Maroc; Choumicha, “La sardine, un trésor de bienfaits”"
+  },
+  "secrets.8.text": {
+   "fr": "Les sardines collées deux par deux s'appellent « mzeouej », les « mariées ».",
+   "t": "Sardines stuck together in pairs are called “mzeouej”, the “married ones”."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; SBS (Ellie Bouhadana : « mzeouejim », mariés)",
+   "t": "Taste of Maroc (Nada Kiffa); SBS (Ellie Bouhadana: “mzeouejim”, married)"
+  },
+  "secrets.9.text": {
+   "fr": "Les sardines farcies se mangent chaudes de préférence, mais aussi tièdes ou froides.",
+   "t": "Stuffed sardines are best eaten hot, but they are also eaten warm or cold."
+  },
+  "secrets.9.source": {
+   "fr": "Bladi, « Sardines farcies » (de préférence chaudes) ; Taste of Maroc (chaudes, tièdes ou à température ambiante) ; Morocco World News, 2021 (froides ou chaudes)",
+   "t": "Bladi, “Sardines farcies” (preferably hot); Taste of Maroc (hot, warm or at room temperature); Morocco World News, 2021 (cold or hot)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre dans le pain une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+   "t": "Putting chermoula that has touched the raw fish into the bread (FDA; Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+   "t": "Leaving a sandwich out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C (FDA)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre des sardines qui ne sont pas du jour : la sardine est très fragile (Choumicha ; FDA pour les signes de fraîcheur).",
+   "t": "Using sardines that were not bought that day: sardines are very perishable (Choumicha; FDA for the signs of freshness)."
+  },
+  "mistakes.3": {
+   "fr": "Râper des tomates fermes : la râpe marche mieux avec des tomates très mûres (Taste of Maroc).",
+   "t": "Grating firm tomatoes: grating works best with very ripe tomatoes (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier les règles de la friture : huile qui fume, poêle remplie à plus d'un tiers, poisson mouillé, eau sur de l'huile en feu. Tout est dans la recette du poisson frit de l'application (gouvernement du Québec ; pompiers du Cambridgeshire ; USFA ; SFDA).",
+   "t": "Forgetting the rules of frying: smoking oil, a pan more than a third full, wet fish, water on burning oil. It is all in the app's fried fish recipe (Québec government; Cambridgeshire Fire & Rescue Service; USFA; SFDA)."
+  },
+  "variants.0": {
+   "fr": "Hout quari de Marrakech : sardines hachées avec du ras el hanout, du smen et de la coriandre, façonnées en boulettes, grillées ou poêlées, puis servies dans du pain avec une sauce tomate crue, de l'oignon cru, de la harissa et des olives vertes ; le pain est parfois beurré de beurre clarifié et chacun compose son sandwich (MarocMama ; Halal Xplorer). Choumicha fait aussi une kefta de sardines, avec graisse de rognons (halal), oignon, herbes et épices, en brochettes grillées au charbon.",
+   "t": "Marrakesh hout quari: sardines minced with ras el hanout, smen (aged salted butter) and coriander, shaped into balls, grilled or pan-fried, then served in bread with a raw tomato sauce, raw onion, harissa and green olives; the bread is sometimes spread with clarified butter and everyone builds their own sandwich (MarocMama; Halal Xplorer). Choumicha also makes a sardine kefta, with kidney fat (halal), onion, herbs and spices, as skewers grilled over charcoal."
+  },
+  "variants.1": {
+   "fr": "Kefta de sardines en sauce : la kefta de sardine se vend toute prête au marché aux poissons (Taste of Maroc) ; Choumicha la cuit en boulettes avec des olives vertes, et à Marrakech les boulettes de sardines se font en tajine (Le360).",
+   "t": "Sardine kefta in sauce: sardine kefta is sold ready-made at the fish market (Taste of Maroc); Choumicha cooks it as balls with green olives, and in Marrakesh sardine balls are made as a tagine (Le360)."
+  },
+  "variants.2": {
+   "fr": "Sardines grillées d'Essaouira : marinées à la chermoula, grillées au feu, servies avec du pain et des olives (Morocco World News Lifestyle, 2024).",
+   "t": "Grilled sardines from Essaouira: marinated in chermoula, grilled over the fire, served with bread and olives (Morocco World News Lifestyle, 2024)."
+  },
+  "variants.3": {
+   "fr": "Bocadillo au poisson dans le Nord : avec des sardines ou un autre poisson blanc pêché du jour (Morocco World News, 2021).",
+   "t": "Fish bocadillo in the north: with sardines or another white fish caught that day (Morocco World News, 2021)."
+  },
+  "variants.4": {
+   "fr": "Sans pain : les sardines farcies avec la salade tomate-oignon (Morocco World News, 2021), ou avec des haricots blancs à la tomate et des salades (Taste of Maroc).",
+   "t": "Without bread: the stuffed sardines with tomato and onion salad (Morocco World News, 2021), or with white beans in tomato sauce and salads (Taste of Maroc)."
+  }
+ }
+}

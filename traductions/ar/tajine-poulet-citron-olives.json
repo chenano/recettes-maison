@@ -1,0 +1,550 @@
+{
+ "_slug": "tajine-poulet-citron-olives",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Tajine de poulet aux citrons confits et aux olives",
+   "t": "طاجين الدجاج بالليمون المخلل والزيتون"
+  },
+  "darija": {
+   "fr": "Djaj mqualli bel hamd marqad w zitoun",
+   "t": "دجاج مقلي بالحامض المرقد والزيتون"
+  },
+  "tagline": {
+   "fr": "Un poulet fondant au safran et au gingembre, nappé d'oignons fondus en sauce, relevé de citron confit et d'olives.",
+   "t": "دجاج طري يذوب في الفم، بالزعفران والزنجبيل (سكينجبير)، مغطّى بصلصة من البصل الذائب، ويزيده الليمون المخلل (الحامض المصيّر) والزيتون نكهة."
+  },
+  "region": {
+   "fr": "Tout le Maroc (plat national), cuisson m'qalli",
+   "t": "كل المغرب (طبق وطني)، بطريقة «المقلّي»"
+  },
+  "occasion": {
+   "fr": "Repas de famille, invités et fêtes",
+   "t": "الموائد العائلية، والضيوف، والأعياد"
+  },
+  "serving": {
+   "fr": "Bien chaud, sur un plat ou directement dans le tajine posé au centre de la table : la sauce au fond, le poulet dessus, nappé de sauce aux oignons et décoré d'olives et de lanières de citron confit. Au Maroc, les tajines se mangent traditionnellement à la main, avec des morceaux de pain marocain pour attraper le poulet et la sauce ; il peut aussi s'accompagner de riz ou de couscous, et certains le servent avec des frites posées dessus ou autour.",
+   "t": "يُقدَّم ساخنًا جدًا، في طبق أو في الطاجين مباشرة، موضوعًا وسط المائدة: الصلصة في القاع، والدجاج فوقها، مغطّى بصلصة البصل ومزيّن بالزيتون وشرائح الليمون المخلل. وفي المغرب، تؤكل أطباق الطاجين تقليديًا باليد، بقطع من الخبز المغربي لالتقاط الدجاج والصلصة؛ ويمكن أن يرافقه أيضًا الأرز أو الكسكس، وبعضهم يقدّمه مع البطاطس المقلية فوقه أو حوله."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et marinade",
+   "t": "الدجاج والتتبيلة"
+  },
+  "ing.poulet.name": {
+   "fr": "poulet halal, fermier (beldi) de préférence",
+   "t": "دجاجة حلال، ويُفضَّل أن تكون بلدية"
+  },
+  "ing.poulet.pl": {
+   "fr": "poulets halal, fermiers (beldi) de préférence",
+   "t": "دجاجات حلال، ويُفضَّل أن تكون بلدية"
+  },
+  "ing.poulet.note": {
+   "fr": "environ 1,5 kg pièce, à couper en 4 à 6 morceaux",
+   "t": "نحو 1,5 كغ للواحدة، تُقطَّع من 4 إلى 6 قطع"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "خيوط زعفران"
+  },
+  "ing.safran.note": {
+   "fr": "une pincée généreuse ; Choumicha en compte 8 pistils",
+   "t": "رشة سخية؛ تعدّ منها Choumicha 8 خيوط"
+  },
+  "ing.eau-safran.name": {
+   "fr": "d'eau chaude, pour infuser le safran",
+   "t": "ماء ساخن، لنقع الزعفران"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin : le citron confit et les olives salent déjà",
+   "t": "يُعدَّل في النهاية: فالليمون المخلل والزيتون مالحان أصلًا"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون"
+  },
+  "ing.gingembre.note": {
+   "fr": "bien bombée",
+   "t": "ملعقة ممتلئة ومقبّبة"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir ou blanc moulu, selon le goût",
+   "t": "فلفل أسود أو أبيض مطحون، حسب الذوق"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "سمن بلدي"
+  },
+  "ing.smen.note": {
+   "fr": "ou du beurre ; facultatif",
+   "t": "أو زبدة؛ اختياري"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail, écrasée ou râpée",
+   "t": "فص ثوم مهروس أو مبشور"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail, écrasées ou râpées",
+   "t": "فصوص ثوم مهروسة أو مبشورة"
+  },
+  "ing.jus-citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "عصير ليمون طازج"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "كزبرة وبقدونس طازجين مفرومين"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson",
+   "t": "الطهي"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen (jaune, blanc ou rouge)",
+   "t": "بصلة متوسطة (صفراء أو بيضاء أو حمراء)"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens (jaunes, blancs ou rouges)",
+   "t": "بصلات متوسطة (صفراء أو بيضاء أو حمراء)"
+  },
+  "ing.oignons.note": {
+   "fr": "à hacher finement",
+   "t": "تُفرم ناعمًا"
+  },
+  "ing.eau-depart.name": {
+   "fr": "d'eau, pour le départ de cuisson",
+   "t": "ماء، لبداية الطهي"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile : moitié huile d'olive, moitié huile neutre",
+   "t": "زيت: نصفه زيت زيتون ونصفه زيت المائدة"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "d'eau chaude",
+   "t": "ماء ساخن"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "le liquide doit arriver à peu près aux deux tiers du poulet",
+   "t": "يجب أن يصل السائل إلى ثلثي ارتفاع الدجاج تقريبًا"
+  },
+  "ing.2.group": {
+   "fr": "Citron confit et olives",
+   "t": "الليمون المخلل والزيتون"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "ليمونة مخللة"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "ليمونات مخللة"
+  },
+  "ing.citron-confit.note": {
+   "fr": "l'écorce seulement, en fines lanières",
+   "t": "القشرة فقط، مقطّعة شرائح رفيعة"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives vertes ou violettes de bonne qualité",
+   "t": "زيتون أخضر أو بنفسجي جيد الجودة"
+  },
+  "ing.olives.note": {
+   "fr": "dénoyautées ou non",
+   "t": "منزوع النوى أو بنواه"
+  },
+  "equipment.0": {
+   "fr": "Cocotte à fond épais avec couvercle, ou tajine en terre",
+   "t": "قدر بقاع سميك وغطاء، أو طاجين طيني"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+   "t": "موزّع حرارة (للطاجين الطيني، على غير الغاز)"
+  },
+  "equipment.2": {
+   "fr": "Grand saladier",
+   "t": "وعاء سلطة كبير"
+  },
+  "equipment.3": {
+   "fr": "Petit bol",
+   "t": "وعاء صغير"
+  },
+  "equipment.4": {
+   "fr": "Petite casserole",
+   "t": "قدر صغير"
+  },
+  "equipment.5": {
+   "fr": "Spatule en bois",
+   "t": "ملعقة خشبية مسطّحة"
+  },
+  "equipment.6": {
+   "fr": "Papier aluminium",
+   "t": "ورق الألمنيوم"
+  },
+  "steps.0.title": {
+   "fr": "Fais infuser le safran",
+   "t": "انقع الزعفران"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{safran}} de safran dans un petit bol avec {{eau-safran}} d'eau chaude. Laisse infuser 10 min.",
+   "t": "ضع {{safran}} من الزعفران في وعاء صغير مع {{eau-safran}} من الماء الساخن. اتركه منقوعًا 10 دقائق."
+  },
+  "steps.0.timer.label": {
+   "fr": "Infusion du safran",
+   "t": "نقع الزعفران"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le safran a infusé : prépare la marinade.",
+   "t": "انتهى نقع الزعفران: حضّر التتبيلة."
+  },
+  "steps.1.title": {
+   "fr": "Prépare la marinade",
+   "t": "حضّر التتبيلة"
+  },
+  "steps.1.text": {
+   "fr": "Verse l'eau safranée dans un grand saladier et ajoute {{sel}} de sel, {{gingembre}} de gingembre, {{curcuma}} de curcuma, le poivre et {{smen}} de smen. Ajoute {{ail:full}}, {{jus-citron}} de jus de citron et {{herbes}} de coriandre et persil hachés, puis mélange bien.",
+   "t": "اسكب ماء الزعفران في وعاء سلطة كبير، وأضف {{sel}} من الملح، و{{gingembre}} من الزنجبيل، و{{curcuma}} من الكركم، والفلفل، و{{smen}} من السمن البلدي. أضف {{ail:full}}، و{{jus-citron}} من عصير الليمون، و{{herbes}} من الكزبرة والبقدونس المفرومين، ثم اخلط جيدًا."
+  },
+  "steps.2.title": {
+   "fr": "Fais mariner le poulet",
+   "t": "تبّل الدجاج"
+  },
+  "steps.2.text": {
+   "fr": "Coupe le poulet en 4 à 6 morceaux. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
+   "t": "قطّع الدجاج من 4 إلى 6 قطع. غلّف كل قطعة بالتتبيلة مع الفرك جيدًا، حتى تحت الجلد. غطِّ الوعاء واتركه في الثلاجة 1 ساعة على الأقل، والأفضل 2 ساعة أو ليلة كاملة."
+  },
+  "steps.2.timer.label": {
+   "fr": "Marinade du poulet",
+   "t": "تتبيل الدجاج"
+  },
+  "steps.2.timer.done": {
+   "fr": "La marinade est prête : passe à la cuisson.",
+   "t": "التتبيل جاهز: انتقل إلى الطهي."
+  },
+  "steps.3.title": {
+   "fr": "Prépare oignons, citron confit et olives",
+   "t": "حضّر البصل والليمون المخلل والزيتون"
+  },
+  "steps.3.text": {
+   "fr": "Pendant la marinade, hache finement {{oignons:full}}. Retire la pulpe de {{citron-confit:full}} et coupe l'écorce en fines lanières. Rince {{olives}} d'olives ; si elles viennent d'une boîte, elles sont plus salées : blanchis-les 10 min dans l'eau bouillante, puis égoutte-les.",
+   "t": "في أثناء التتبيل، افرم {{oignons:full}} فرمًا ناعمًا. انزع لبّ {{citron-confit:full}} وقطّع القشرة شرائح رفيعة. اشطف {{olives}} من الزيتون؛ وإذا كان من علبة، فهو أكثر ملوحة: اسلقه 10 دقائق في الماء المغلي، ثم صفّه."
+  },
+  "steps.3.timer.label": {
+   "fr": "Olives en boîte à blanchir",
+   "t": "سلق الزيتون المعلّب"
+  },
+  "steps.3.timer.done": {
+   "fr": "Égoutte les olives et mets-les de côté.",
+   "t": "صفِّ الزيتون واتركه جانبًا."
+  },
+  "steps.3.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع شرائح رفيعة وثوم مهروس على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل شرائح رفيعة"
+  },
+  "steps.4.title": {
+   "fr": "Départ à cru, sans huile",
+   "t": "البداية على النيء، بلا زيت"
+  },
+  "steps.4.text": {
+   "fr": "Mets le poulet et toute sa marinade dans une cocotte à fond épais avec les oignons et {{eau-depart}} d'eau. Laisse frémir 10 à 15 min à feu moyen en retournant les morceaux de temps en temps. C'est prêt quand l'eau s'est presque évaporée et que le poulet a changé de couleur sur toutes ses faces. Au tajine en terre, pose-le sur un diffuseur si tu n'as pas le gaz et ne dépasse pas le feu moyen.",
+   "t": "ضع الدجاج مع كل تتبيلته في قدر بقاع سميك مع البصل و{{eau-depart}} من الماء. اتركه يغلي غليانًا خفيفًا من 10 إلى 15 دقيقة على نار متوسطة، مع تقليب القطع من حين لآخر. يكون جاهزًا حين يكاد الماء يتبخّر ويتغيّر لون الدجاج من كل جهاته. وفي الطاجين الطيني، ضعه على موزّع حرارة إن لم يكن لديك غاز، ولا تتجاوز النار المتوسطة."
+  },
+  "steps.4.timer.label": {
+   "fr": "Départ à cru",
+   "t": "البداية على النيء"
+  },
+  "steps.4.timer.done": {
+   "fr": "L'eau a presque disparu et le poulet a changé de couleur partout ? Passe à l'étape suivante.",
+   "t": "هل كاد الماء يختفي وتغيّر لون الدجاج في كل مكان؟ انتقل إلى الخطوة التالية."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'huile et l'eau chaude",
+   "t": "أضف الزيت والماء الساخن"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute {{huile}} d'huile et {{eau-chaude}} d'eau chaude : le liquide doit arriver à peu près aux deux tiers du poulet, complète un peu si besoin. Au tajine en terre, mets moins d'eau qu'en cocotte.",
+   "t": "أضف {{huile}} من الزيت و{{eau-chaude}} من الماء الساخن: يجب أن يصل السائل إلى ثلثي ارتفاع الدجاج تقريبًا، فأضف قليلًا إن لزم. وفي الطاجين الطيني، ضع ماءً أقل مما تضعه في القدر."
+  },
+  "steps.6.title": {
+   "fr": "Laisse mijoter à couvert",
+   "t": "اتركه يُطهى على نار هادئة وهو مغطّى"
+  },
+  "steps.6.text": {
+   "fr": "Couvre et laisse mijoter à feu doux à moyen-doux environ 50 min, en vérifiant souvent que rien n'attache au fond. Le poulet est prêt quand il est tendre au toucher et que le liquide a bien réduit. Un poulet beldi, comme la cuisson au tajine en terre, demande nettement plus de temps.",
+   "t": "غطِّ القدر واتركه يُطهى على نار هادئة، أو بين الهادئة والمتوسطة، نحو 50 دقيقة، مع التحقق كثيرًا من أن لا شيء يلتصق بالقاع. يكون الدجاج جاهزًا حين يصير طريًا عند لمسه ويتقلّص السائل جيدًا. والدجاج البلدي، مثل الطهي في الطاجين الطيني، يحتاج إلى وقت أطول بكثير."
+  },
+  "steps.6.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "طهي الدجاج على نار هادئة"
+  },
+  "steps.6.timer.done": {
+   "fr": "Le poulet est-il tendre au toucher ? Sinon, laisse cuire encore et vérifie régulièrement.",
+   "t": "هل صار الدجاج طريًا عند لمسه؟ وإلا فاتركه يُطهى أكثر وتحقّق بانتظام."
+  },
+  "steps.7.title": {
+   "fr": "Sors le poulet",
+   "t": "أخرج الدجاج"
+  },
+  "steps.7.text": {
+   "fr": "Retire délicatement les morceaux de poulet et garde-les au chaud sous une feuille de papier aluminium, sans jeter le jus qui s'en écoule. Au tajine en terre, laisse plutôt le poulet en place et verse la sauce dans une petite casserole pour la réduire à part.",
+   "t": "أخرج قطع الدجاج برفق، واحفظها ساخنة تحت ورقة ألمنيوم، دون أن ترمي العصارة التي تسيل منها. وفي الطاجين الطيني، اترك الدجاج في مكانه، واسكب الصلصة في قدر صغير لتكثيفها على حدة."
+  },
+  "steps.8.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "كثّف صلصة البصل"
+  },
+  "steps.8.text": {
+   "fr": "Fais réduire la sauce à feu moyen environ 20 min, en remuant souvent et en écrasant les oignons à la spatule. C'est prêt quand on ne reconnaît plus les oignons : la sauce est épaisse, soyeuse et commence à se séparer de l'huile. Garde un peu de liquide et, si ça attache, ajoute un peu d'eau.",
+   "t": "كثّف الصلصة على نار متوسطة نحو 20 دقيقة، مع التحريك كثيرًا وهرس البصل بالملعقة الخشبية. تكون جاهزة حين لا يعود البصل ظاهرًا: تصير الصلصة كثيفة وناعمة كالحرير، ويبدأ الزيت في الانفصال عنها. أبقِ قليلًا من السائل، وإذا بدأت تلتصق، فأضف قليلًا من الماء."
+  },
+  "steps.8.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "تكثيف الصلصة"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les oignons ont fondu et la sauce se sépare de l'huile ? Sinon, continue quelques minutes en remuant.",
+   "t": "هل ذاب البصل وبدأ الزيت ينفصل عن الصلصة؟ وإلا فواصل بضع دقائق مع التحريك."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute olives et citron confit",
+   "t": "أضف الزيتون والليمون المخلل"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute les olives et les lanières de citron confit dans la sauce et laisse cuire 10 min à feu moyen-doux. Goûte et rectifie le sel seulement maintenant. Si la sauce devient trop citronnée, retire les lanières et garde-les pour le décor.",
+   "t": "أضف الزيتون وشرائح الليمون المخلل إلى الصلصة، واتركها تُطهى 10 دقائق على نار متوسطة إلى هادئة. تذوّق الآن فقط، وعدّل الملح. وإذا صار طعم الليمون قويًا جدًا في الصلصة، فأخرج الشرائح واحتفظ بها للتزيين."
+  },
+  "steps.9.timer.label": {
+   "fr": "Olives et citron confit",
+   "t": "الزيتون والليمون المخلل"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte la sauce et rectifie le sel.",
+   "t": "تذوّق الصلصة وعدّل الملح."
+  },
+  "steps.10.title": {
+   "fr": "Fais dorer le poulet dans la sauce",
+   "t": "حمّر الدجاج في الصلصة"
+  },
+  "steps.10.text": {
+   "fr": "Remets les morceaux de poulet dans la cocotte, à feu moyen. Retourne-les plusieurs fois dans l'huile qui s'est séparée de la sauce, jusqu'à ce qu'ils soient bien chauds et dorés. Au tajine, reverse simplement la sauce réduite autour du poulet.",
+   "t": "أعد قطع الدجاج إلى القدر، على نار متوسطة. قلّبها عدة مرات في الزيت الذي انفصل عن الصلصة، حتى تسخن جيدًا ويصير لونها ذهبيًا. وفي الطاجين، أعد سكب الصلصة المتكثّفة حول الدجاج فقط."
+  },
+  "steps.11.title": {
+   "fr": "Dresse et sers bien chaud",
+   "t": "رتّب الطبق وقدّمه ساخنًا جدًا"
+  },
+  "steps.11.text": {
+   "fr": "Verse la sauce dans le plat de service, pose le poulet dessus et nappe-le de sauce aux oignons. Décore avec les olives et les lanières de citron confit, puis sers bien chaud avec du pain. Au tajine, pose-le directement au centre de la table.",
+   "t": "اسكب الصلصة في طبق التقديم، وضع الدجاج فوقها، وغطّه بصلصة البصل. زيّنه بالزيتون وشرائح الليمون المخلل، ثم قدّمه ساخنًا جدًا مع الخبز. وإن طهوته في الطاجين، فضعه مباشرة وسط المائدة."
+  },
+  "secrets.0.text": {
+   "fr": "Le m'qalli repose sur deux épices maîtresses, le safran et le gingembre, et se reconnaît à sa sauce jaune.",
+   "t": "يقوم «المقلّي» على تابلين رئيسيين، الزعفران والزنجبيل، ويُعرف بصلصته الصفراء."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Nada Kiffa), Cooking Styles and Sauces in Moroccan Cuisine",
+   "t": "Taste of Maroc (Nada Kiffa)، Cooking Styles and Sauces in Moroccan Cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Fais d'abord infuser le safran une dizaine de minutes dans un peu d'eau chaude, puis mélange-y sel, curcuma, gingembre, poivre et smen : c'est la base de la marinade.",
+   "t": "انقع الزعفران أولًا نحو عشر دقائق في قليل من الماء الساخن، ثم اخلط فيه الملح والكركم والزنجبيل والفلفل والسمن البلدي: هذا أساس التتبيلة."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse mariner au moins 1 h, idéalement 2 h ou une nuit au frais, en faisant pénétrer la marinade jusque sous la peau.",
+   "t": "اترك الدجاج في التتبيلة 1 ساعة على الأقل، والأفضل 2 ساعة أو ليلة كاملة في الثلاجة، مع إدخال التتبيلة حتى تحت الجلد."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Taste of Maroc (Nada Kiffa)",
+   "t": "Choumicha؛ Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.3.text": {
+   "fr": "Départ « à cru » : le poulet cuit d'abord 10 à 15 min dans sa marinade avec les oignons et un fond d'eau, à feu moyen. L'huile et l'eau chaude ne viennent qu'ensuite, quand l'eau s'est presque évaporée et que la viande a changé de couleur.",
+   "t": "البداية «على النيء»: يُطهى الدجاج أولًا من 10 إلى 15 دقيقة في تتبيلته مع البصل وقليل من الماء، على نار متوسطة. ولا يُضاف الزيت والماء الساخن إلا بعد ذلك، حين يكاد الماء يتبخّر ويتغيّر لون اللحم."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.4.text": {
+   "fr": "Ne diminue pas l'huile : avec moins d'huile, la sauce aux oignons risque de ne pas atteindre sa texture épaisse. Utilise un mélange d'huile d'olive et d'huile neutre.",
+   "t": "لا تقلّل الزيت: فبزيت أقل قد لا تبلغ صلصة البصل قوامها الكثيف. استعمل خليطًا من زيت الزيتون وزيت المائدة."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha",
+   "t": "Taste of Maroc (Nada Kiffa)؛ Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Pour la sauce aux oignons (daghmira), réduis patiemment en remuant et en écrasant les oignons à la spatule, jusqu'à ce qu'on ne les reconnaisse plus et que la sauce, soyeuse, se sépare de l'huile.",
+   "t": "لصلصة البصل (الدغميرة)، كثّفها بصبر مع التحريك وهرس البصل بالملعقة الخشبية، حتى لا يعود البصل ظاهرًا، وتصير الصلصة ناعمة كالحرير وينفصل عنها الزيت."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Nada Kiffa ; Christine Benlafquih)",
+   "t": "Taste of Maroc (Nada Kiffa؛ Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Sors le poulet, couvert, pendant que la sauce réduit, et remets-le seulement à la fin. Garde quand même un peu de liquide : la sauce ne doit pas finir à sec.",
+   "t": "أخرج الدجاج واحفظه مغطّى بينما تتكثّف الصلصة، ولا تُعِده إلا في النهاية. ومع ذلك أبقِ قليلًا من السائل: يجب ألا تجفّ الصلصة تمامًا."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; My Moroccan Food (Nargisse Benkabbou)",
+   "t": "Taste of Maroc (Nada Kiffa)؛ My Moroccan Food (Nargisse Benkabbou)"
+  },
+  "secrets.7.text": {
+   "fr": "Le dernier geste donne son nom au plat : on remet le poulet cuit dans l'huile qui s'est séparée de la sauce et on le fait dorer à feu moyen ; il reste moelleux à l'intérieur.",
+   "t": "الخطوة الأخيرة هي التي تعطي الطبق اسمه: يُعاد الدجاج المطهو إلى الزيت الذي انفصل عن الصلصة، ويُحمَّر على نار متوسطة؛ فيبقى طريًا من الداخل."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.8.text": {
+   "fr": "Prends du citron confit, jamais du citron frais à sa place : c'est le seul moyen d'avoir le goût traditionnel. Si la sauce devient trop citronnée, retire les morceaux de citron confit dès que le goût te plaît et garde-les pour le décor.",
+   "t": "استعمل الليمون المخلل، ولا تضع الليمون الطازج مكانه أبدًا: فهذه الطريقة الوحيدة للحصول على الطعم التقليدي. وإذا صار طعم الليمون قويًا جدًا في الصلصة، فأخرج قطع الليمون المخلل بمجرد أن يعجبك الطعم، واحتفظ بها للتزيين."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.9.text": {
+   "fr": "Les olives entrent à la toute fin, ou seulement en décor. Si elles viennent d'une boîte, blanchis-les 10 min dans l'eau bouillante, car elles sont plus salées.",
+   "t": "يُضاف الزيتون في النهاية تمامًا، أو للتزيين فقط. وإذا كان من علبة، فاسلقه 10 دقائق في الماء المغلي، لأنه أكثر ملوحة."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.10.text": {
+   "fr": "Sale avec prudence avant d'ajouter le citron confit et les olives, qui salent beaucoup la sauce, puis rectifie à la fin.",
+   "t": "ملّح بحذر قبل إضافة الليمون المخلل والزيتون، لأنهما يملّحان الصلصة كثيرًا، ثم عدّل الملح في النهاية."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih؛ Nada Kiffa)"
+  },
+  "secrets.11.text": {
+   "fr": "L'ail doit rester discret : 1 à 2 gousses par poulet suffisent.",
+   "t": "يجب أن يبقى الثوم خفيفًا: يكفي من 1 إلى 2 فص لكل دجاجة."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, réponse à un commentaire)",
+   "t": "Taste of Maroc (Nada Kiffa، جوابًا على أحد التعليقات)"
+  },
+  "secrets.12.text": {
+   "fr": "Dans les familles marocaines, on nettoie le poulet (on retire les amas de graisse sous la peau), puis on le laisse au moins 30 min dans une saumure d'eau froide, de sel, de citron et d'un peu de vinaigre blanc, avant de le rincer et de le mariner. Bladi le sale simplement et le laisse dégorger 2 h. Nettoie ensuite soigneusement tout ce qui a touché le poulet cru. Les autorités sanitaires déconseillent toutefois de rincer la volaille crue, car les éclaboussures propagent les bactéries : si tu gardes ce geste, fais-le sans éclabousser et nettoie évier et plan de travail juste après.",
+   "t": "في البيوت المغربية، يُنظَّف الدجاج (تُزال كتل الدهن تحت الجلد)، ثم يُترك 30 دقيقة على الأقل في محلول من الماء البارد والملح والليمون وقليل من الخل الأبيض، قبل شطفه وتتبيله. أما Bladi فيملّحه فقط ويتركه 2 ساعة ليُخرج ماءه. نظّف بعد ذلك بعناية كل ما لمس الدجاج النيء. غير أن السلطات الصحية لا تنصح بشطف الدواجن النيئة، لأن الرذاذ ينشر البكتيريا: فإن أبقيت على هذه العادة، فافعلها دون أن يتطاير الماء، ونظّف الحوض وسطح العمل مباشرة بعدها."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc (Nada Kiffa), Cleaning and Brining Chicken the Moroccan Way ; Bladi.net",
+   "t": "Taste of Maroc (Nada Kiffa)، Cleaning and Brining Chicken the Moroccan Way؛ Bladi.net"
+  },
+  "secrets.13.text": {
+   "fr": "Un poulet fermier (beldi) demande plus de cuisson qu'un poulet d'élevage : fie-toi à la tendreté au toucher, pas seulement à la minuterie.",
+   "t": "الدجاج البلدي يحتاج إلى طهي أطول من دجاج المداجن: اعتمد على طراوته عند اللمس، لا على المؤقّت وحده."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih؛ Nada Kiffa)"
+  },
+  "secrets.14.text": {
+   "fr": "Au tajine en terre : diffuseur obligatoire si tu ne cuisines pas au gaz, feu moyen jusqu'au frémissement (ça peut prendre 15 min ou plus), puis feu moyen-doux. Il faut moins d'eau qu'en cocotte et nettement plus de temps.",
+   "t": "في الطاجين الطيني: موزّع الحرارة ضروري إن كنت لا تطبخ على الغاز، ونار متوسطة حتى يبدأ الغليان الخفيف (قد يستغرق ذلك 15 دقيقة أو أكثر)، ثم نار متوسطة إلى هادئة. ويلزم ماء أقل مما في القدر، ووقت أطول بكثير."
+  },
+  "secrets.14.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih؛ Nada Kiffa)"
+  },
+  "secrets.15.text": {
+   "fr": "Au tajine, si la sauce reste trop liquide en fin de cuisson, verse-la dans une petite casserole pour la réduire à part, puis remets-la dans le tajine.",
+   "t": "في الطاجين، إذا بقيت الصلصة سائلة جدًا في آخر الطهي، فاسكبها في قدر صغير لتكثيفها على حدة، ثم أعدها إلى الطاجين."
+  },
+  "secrets.15.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "mistakes.0": {
+   "fr": "Saler comme d'habitude dès le départ : le citron confit et les olives salent déjà beaucoup la sauce.",
+   "t": "التمليح كالعادة منذ البداية: فالليمون المخلل والزيتون يملّحان الصلصة كثيرًا."
+  },
+  "mistakes.1": {
+   "fr": "Diminuer l'huile pour alléger : la sauce aux oignons n'épaissit pas et ne devient pas soyeuse.",
+   "t": "تقليل الزيت لتخفيف الطبق: لا تتكثّف صلصة البصل ولا تصير ناعمة كالحرير."
+  },
+  "mistakes.2": {
+   "fr": "Laisser attacher le fond : surveille la cocotte pendant le mijotage et la réduction, remue et ajoute un peu d'eau si ça accroche.",
+   "t": "ترك القاع يلتصق: راقب القدر في أثناء الطهي على نار هادئة وفي أثناء التكثيف، وحرّك وأضف قليلًا من الماء إذا بدأ يلتصق."
+  },
+  "mistakes.3": {
+   "fr": "Réduire la sauce complètement à sec : il doit rester un peu de liquide.",
+   "t": "تكثيف الصلصة حتى تجفّ تمامًا: يجب أن يبقى قليل من السائل."
+  },
+  "mistakes.4": {
+   "fr": "Remplacer le citron confit par du citron frais : on perd le goût traditionnel.",
+   "t": "استبدال الليمون المخلل بالليمون الطازج: يضيع الطعم التقليدي."
+  },
+  "mistakes.5": {
+   "fr": "Mettre des olives en boîte sans les blanchir : la sauce devient trop salée.",
+   "t": "وضع الزيتون المعلّب دون سلقه: تصير الصلصة مالحة جدًا."
+  },
+  "mistakes.6": {
+   "fr": "Forcer sur l'ail : il doit rester en arrière-plan.",
+   "t": "الإكثار من الثوم: يجب أن يبقى طعمه في الخلفية."
+  },
+  "mistakes.7": {
+   "fr": "Poser un tajine en terre directement sur une plaque électrique ou vitrocéramique, sans diffuseur.",
+   "t": "وضع طاجين طيني مباشرة على صفيحة كهربائية أو على موقد زجاجي خزفي، دون موزّع حرارة."
+  },
+  "mistakes.8": {
+   "fr": "Sortir trop tôt un poulet beldi : il lui faut plus de cuisson qu'un poulet d'élevage.",
+   "t": "إخراج الدجاج البلدي قبل الأوان: فهو يحتاج إلى طهي أطول من دجاج المداجن."
+  },
+  "variants.0": {
+   "fr": "Daghmira plus épaisse (version de fête) : fais cuire le poulet avec un seul oignon, retire-le une fois cuit, puis fais fondre les deux autres oignons hachés dans la sauce jusqu'à obtenir une pâte soyeuse qui se sépare de l'huile (Taste of Maroc).",
+   "t": "دغميرة أكثف (نسخة الأعياد): اطبخ الدجاج مع بصلة واحدة فقط، وأخرجه حين ينضج، ثم أذب البصلتين الأخريين المفرومتين في الصلصة حتى تحصل على عجينة ناعمة كالحرير ينفصل عنها الزيت (Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Aux foies de volaille : blanchis les foies 10 à 15 min, puis fais-les cuire dans la sauce pendant qu'elle réduit ; laisse-les entiers ou écrase-les dans la sauce pour une texture plus riche (Taste of Maroc ; My Moroccan Food).",
+   "t": "بكبد الدجاج: اسلق الكبد من 10 إلى 15 دقيقة، ثم اطبخه في الصلصة في أثناء تكثيفها؛ اتركه كاملًا أو اهرسه في الصلصة لقوام أغنى (Taste of Maroc؛ My Moroccan Food)."
+  },
+  "variants.2": {
+   "fr": "Plus citronnée : ajoute la pulpe finement hachée d'un demi-citron confit avec les oignons (Taste of Maroc) ; Choumicha met un demi-citron confit en petits dés dans la marinade. La mère de Nargisse Benkabbou trouve que la pulpe rend le plat trop acide.",
+   "t": "بطعم ليمون أقوى: أضف لبّ نصف ليمونة مخللة مفرومًا ناعمًا مع البصل (Taste of Maroc)؛ وتضع Choumicha نصف ليمونة مخللة مقطّعة مكعبات صغيرة في التتبيلة. أما والدة Nargisse Benkabbou فترى أن اللب يجعل الطبق حامضًا جدًا."
+  },
+  "variants.3": {
+   "fr": "Poulet entier (Choumicha, « Poulet M'Qalli aux olives rouges ») : poulet fermier entier frotté jusque sous la peau d'une marinade d'oignon, ail, coriandre, persil, citron confit, jus de citron, smen, épices et huile, puis bridé et cuit à couvert à feu doux ; les olives rouges vont dans la sauce pendant qu'elle réduit.",
+   "t": "دجاجة كاملة (Choumicha، «Poulet M'Qalli aux olives rouges»): دجاجة بلدية كاملة تُفرك حتى تحت الجلد بتتبيلة من البصل والثوم والكزبرة والبقدونس والليمون المخلل وعصير الليمون والسمن البلدي والتوابل والزيت، ثم تُربط أطرافها وتُطهى مغطّاة على نار هادئة؛ ويُضاف الزيتون الأحمر إلى الصلصة في أثناء تكثيفها."
+  },
+  "variants.4": {
+   "fr": "Version de Choumicha « Poulet au safran, coriandre et citron confit » : l'oignon émincé revient 5 min dans l'huile à feu doux avant le poulet, la marinade contient de la coriandre sèche en poudre, et des olives vertes concassées (m'slalla) dénoyautées cuisent avec le poulet jusqu'à la fin.",
+   "t": "نسخة Choumicha «Poulet au safran, coriandre et citron confit»: يُشوَّح البصل المقطّع شرائح رفيعة 5 دقائق في الزيت على نار هادئة قبل الدجاج، وتحتوي التتبيلة على الكزبرة اليابسة المطحونة، ويُطهى زيتون أخضر مكسور (m'slalla) منزوع النوى مع الدجاج حتى النهاية."
+  },
+  "variants.5": {
+   "fr": "Doré au four : badigeonne le poulet cuit d'un peu d'huile de la sauce et fais-le dorer environ 20 min à 200 °C en le retournant ; un poulet entier peut demander jusqu'à 30 min (Taste of Maroc).",
+   "t": "محمَّر في الفرن: ادهن الدجاج المطهو بقليل من زيت الصلصة، وحمّره نحو 20 دقيقة على 200 درجة مئوية مع تقليبه؛ وقد تحتاج الدجاجة الكاملة إلى 30 دقيقة (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Rôti (Christine Benlafquih, Taste of Maroc) : poulet entier mariné une nuit puis rôti à 160 °C pendant 2 h 30 à 3 h ; la sauce d'oignons émincés cuit à part 1 à 2 h, puis reçoit le jus de cuisson, le citron confit et les olives pendant 5 à 10 min.",
+   "t": "مشويّ في الفرن (Christine Benlafquih، Taste of Maroc): دجاجة كاملة تُتبّل ليلة كاملة ثم تُشوى على 160 درجة مئوية من 2 ساعة و30 دقيقة إلى 3 ساعات؛ وتُطهى صلصة البصل المقطّع شرائح رفيعة على حدة من 1 إلى 2 ساعة، ثم يُضاف إليها عصير الطهي والليمون المخلل والزيتون من 5 إلى 10 دقائق."
+  },
+  "variants.7": {
+   "fr": "Version à deux poulets beldis entiers (Bladi.net) : oignons en lamelles, ail, safran, gingembre, jus de citron et un verre d'eau, à couvert à feu moyen ; l'écorce de citron confit et les olives vertes finissent 5 min à feu doux.",
+   "t": "نسخة بدجاجتين بلديتين كاملتين (Bladi.net): بصل مقطّع شرائح، وثوم، وزعفران، وزنجبيل، وعصير ليمون، وكأس ماء، والقدر مغطّى على نار متوسطة؛ ويُكمل قشر الليمون المخلل والزيتون الأخضر طهيهما 5 دقائق على نار هادئة."
+  },
+  "variants.8": {
+   "fr": "Adaptations anglophones de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika et cumin dans la marinade, bouillon de volaille, cuisson plus courte ou au four ; non retenues car absentes des sources marocaines consultées.",
+   "t": "تكييفات بالإنجليزية لوصفة Paula Wolfert (Sunset، Zarela): بصل مبشور، وفلفل أحمر مطحون وكمون في التتبيلة، ومرق دواجن، وطهي أقصر أو في الفرن؛ لم نعتمدها لأنها غائبة عن المصادر المغربية التي رجعنا إليها."
+  }
+ }
+}

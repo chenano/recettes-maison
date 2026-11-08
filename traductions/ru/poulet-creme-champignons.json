@@ -1,0 +1,490 @@
+{
+ "_slug": "poulet-creme-champignons",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Émincé de poulet à la crème et aux champignons",
+   "t": "Курица со сливками и грибами"
+  },
+  "tagline": {
+   "fr": "Des lanières de poulet saisies, des champignons bien dorés et une sauce crémeuse sans vin : un plat du soir doux et réconfortant, avec du riz ou des pâtes.",
+   "t": "Обжаренные полоски курицы, хорошо зарумяненные грибы и сливочный соус без вина: мягкое и уютное блюдо на ужин, с рисом или пастой."
+  },
+  "region": {
+   "fr": "France et Suisse. Poulet sauté à la crème de la cuisine française classique (Escoffier, Chef Simon) et émincé de poulet à la crème des cuisines suisses (Migusto, Betty Bossi), cousin de l'émincé de veau à la zurichoise (Wikipédia).",
+   "t": "Франция и Швейцария. Курица соте со сливками из классической французской кухни (Escoffier, Chef Simon) и швейцарское блюдо из курицы, нарезанной полосками, в сливках (Migusto, Betty Bossi), родственное телятине по-цюрихски (Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Dîner rapide en semaine. Une sauce crémeuse qui « réunit toujours toute la famille autour de la table », selon Migusto.",
+   "t": "Быстрый ужин в будний день. Сливочный соус, который, по словам Migusto, «всегда собирает всю семью за столом»."
+  },
+  "img_alt": {
+   "fr": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
+   "t": "Полоски курицы с грибами в сливочном соусе на тальятелле"
+  },
+  "serving": {
+   "fr": "Bien chaud, nappé de sauce, avec du riz (Chef Simon le sert avec un riz créole) ou des pâtes, des tagliatelles par exemple (Betty Bossi ; Chef Simon conseille des pâtes fraîches). En Suisse, on le sert aussi avec des röstis ou des spätzli (Migusto, Wikipédia). Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA). Crème entamée : suis la durée « après ouverture » de l'étiquette, sinon 3 jours au plus (Anses, FSA).",
+   "t": "Очень горячим, полив соусом, с рисом (Chef Simon подаёт его с рисом по-креольски) или с пастой, например с тальятелле (Betty Bossi; Chef Simon советует свежую пасту). В Швейцарии его подают также с рёшти или шпецле (Migusto, Wikipédia). Остатки: курицу в соусе уберите в холодильник в течение 2 часов (Anses, FSA) и съешьте в течение 2 дней (FSA; Anses говорит о сроке меньше 3 дней для готового блюда). Рис нужно остудить как можно быстрее, в идеале в течение часа, и хранить в холодильнике не больше 24 часов (FSA). Всё разогревают только один раз, под крышкой, пока блюдо не станет обжигающе горячим и не начнёт парить (Anses, FSA). Открытые сливки: соблюдайте срок «после вскрытия», указанный на этикетке, а если его нет — не больше 3 дней (Anses, FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet",
+   "t": "Курица"
+  },
+  "ing.poulet.name": {
+   "fr": "de blancs de poulet halal",
+   "t": "куриного филе халяль"
+  },
+  "ing.poulet.note": {
+   "fr": "ou d'émincé de poulet tout prêt",
+   "t": "или уже нарезанной полосками курицы"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "молотый чёрный перец"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "растительного масла"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, colza ou arachide",
+   "t": "подсолнечное, рапсовое или арахисовое"
+  },
+  "ing.1.group": {
+   "fr": "Sauce aux champignons",
+   "t": "Грибной соус"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "луковица"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "луковицы"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon / oignons",
+   "t": "луковиц"
+  },
+  "ing.champignons.name": {
+   "fr": "de champignons de Paris",
+   "t": "шампиньонов"
+  },
+  "ing.champignons.note": {
+   "fr": "blancs de préférence",
+   "t": "лучше белых"
+  },
+  "ing.beurre.name": {
+   "fr": "beurre",
+   "t": "сливочное масло"
+  },
+  "ing.beurre.note": {
+   "fr": "un petit morceau ; sinon une cuillerée d'huile",
+   "t": "небольшой кусочек; если его нет — ложка растительного масла"
+  },
+  "ing.bouillon.name": {
+   "fr": "de bouillon de volaille halal",
+   "t": "куриного бульона халяль"
+  },
+  "ing.bouillon.note": {
+   "fr": "cube halal dissous dans l'eau chaude, ou bouillon maison ; à défaut, de l'eau (la sauce aura moins de goût)",
+   "t": "бульонный кубик халяль, растворённый в горячей воде, или домашний бульон; если нет — вода (соус будет менее вкусным)"
+  },
+  "ing.creme.name": {
+   "fr": "de crème fraîche épaisse",
+   "t": "густого крем-фреш"
+  },
+  "ing.creme.note": {
+   "fr": "au moins 30 % de matière grasse, ou crème liquide entière ; pas de crème allégée",
+   "t": "жирностью не меньше 30 %, или жирные жидкие сливки; не берите облегчённые сливки"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "петрушка"
+  },
+  "ing.persil.note": {
+   "fr": "quelques brins, facultatif",
+   "t": "несколько веточек, по желанию"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir (au choix)",
+   "t": "Для подачи (на выбор)"
+  },
+  "ing.riz.name": {
+   "fr": "de riz",
+   "t": "риса"
+  },
+  "ing.riz.note": {
+   "fr": "au choix : le riz OU les pâtes",
+   "t": "на выбор: рис ИЛИ паста"
+  },
+  "ing.pates.name": {
+   "fr": "de pâtes (tagliatelles ou spaghettis)",
+   "t": "пасты (тальятелле или спагетти)"
+  },
+  "ing.pates.note": {
+   "fr": "au choix : les pâtes OU le riz",
+   "t": "на выбор: паста ИЛИ рис"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "вода"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, salée",
+   "t": "большая кастрюля, подсоленная"
+  },
+  "equipment.0": {
+   "fr": "Une grande poêle ou une sauteuse (en fonte ou en inox si tu en as une : elle donne plus de sucs)",
+   "t": "Большая сковорода или сотейник (чугунные или из нержавеющей стали, если есть: на них остаётся больше поджаристых частиц)"
+  },
+  "equipment.1": {
+   "fr": "Une grande casserole et une passoire, pour le riz ou les pâtes",
+   "t": "Большая кастрюля и дуршлаг для риса или пасты"
+  },
+  "equipment.2": {
+   "fr": "Une planche à découper et un couteau bien aiguisé",
+   "t": "Разделочная доска и хорошо заточенный нож"
+  },
+  "equipment.3": {
+   "fr": "Une assiette propre, pour le poulet saisi",
+   "t": "Чистая тарелка для обжаренной курицы"
+  },
+  "equipment.4": {
+   "fr": "Une cuillère en bois ou une spatule",
+   "t": "Деревянная ложка или лопатка"
+  },
+  "equipment.5": {
+   "fr": "Du papier absorbant ou une petite brosse, pour les champignons",
+   "t": "Бумажные полотенца или маленькая щёточка для грибов"
+  },
+  "equipment.6": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "Кулинарный термометр (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Mets l'eau à chauffer",
+   "t": "Поставьте воду на огонь"
+  },
+  "steps.0.text": {
+   "fr": "Remplis une grande casserole d'{{eau}}, sale-la et porte-la à ébullition, pour le riz ou les pâtes.",
+   "t": "Наполните большую кастрюлю водой, посолите и доведите до кипения — для риса или пасты."
+  },
+  "steps.1.title": {
+   "fr": "Hache l'oignon",
+   "t": "Порубите лук"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et hache finement {{oignon:full}}.",
+   "t": "Очистите и мелко порубите лук ({{oignon}} шт.)."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Нашинкованный лук и раздавленный чеснок на доске"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Нарезка лука"
+  },
+  "steps.2.title": {
+   "fr": "Nettoie les champignons",
+   "t": "Почистите грибы"
+  },
+  "steps.2.text": {
+   "fr": "Prends {{champignons:full}} : coupe le bout terreux de leur pied, puis essuie-les avec un papier absorbant humide ou une petite brosse. Ne les fais jamais tremper : s'ils sont très sales, passe-les très vite sous l'eau et sèche-les aussitôt.",
+   "t": "Возьмите {{champignons:full}}: срежьте кончик ножки с землёй, затем протрите грибы влажным бумажным полотенцем или маленькой щёточкой. Никогда не замачивайте их: если они очень грязные, очень быстро сполосните под водой и сразу обсушите."
+  },
+  "steps.3.title": {
+   "fr": "Émince les champignons",
+   "t": "Нарежьте грибы"
+  },
+  "steps.3.text": {
+   "fr": "Coupe les champignons en fines lamelles.",
+   "t": "Нарежьте грибы тонкими пластинками."
+  },
+  "steps.4.title": {
+   "fr": "Émince le poulet",
+   "t": "Нарежьте курицу"
+  },
+  "steps.4.text": {
+   "fr": "Coupe {{poulet}} de blancs de poulet en lanières d'environ 1 cm de large. Sale-les et poivre-les. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+   "t": "Нарежьте {{poulet}} куриного филе полосками шириной около 1 см. Посолите и поперчите. Затем вымойте с мылом руки, доску и нож."
+  },
+  "steps.4.tip": {
+   "fr": "Une seule planche ? Coupe toujours les légumes d'abord et le poulet cru en dernier (FSA, agence sanitaire britannique).",
+   "t": "Доска только одна? Всегда сначала режьте овощи, а сырую курицу — в последнюю очередь (FSA, британское санитарное агентство)."
+  },
+  "steps.5.title": {
+   "fr": "Lance le riz ou les pâtes",
+   "t": "Начните варить рис или пасту"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'eau bout, verse {{riz}} de riz ou {{pates}} de pâtes. Fais cuire le temps indiqué sur le paquet, puis égoutte.",
+   "t": "Когда вода закипит, всыпьте {{riz}} риса или {{pates}} пасты. Варите столько, сколько указано на упаковке, затем откиньте на дуршлаг."
+  },
+  "steps.6.title": {
+   "fr": "Saisis une moitié du poulet",
+   "t": "Обжарьте половину курицы"
+  },
+  "steps.6.text": {
+   "fr": "Dans la grande poêle, chauffe à feu vif la moitié de l'huile ({{huile}} en tout), bien chaude mais sans fumer. Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ : laisse-le d'abord sans y toucher, puis retourne-le pour dorer tous les côtés.",
+   "t": "Разогрейте в большой сковороде на сильном огне половину масла (всего {{huile}}) — сильно, но не до дыма. Выложите половину курицы (или около 300 г, если готовите больше чем на 4 человек) и обжаривайте около 2 минут: сначала не трогайте её, затем переворачивайте, чтобы она зарумянилась со всех сторон."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu remues trop tôt ou sans arrêt, la poêle refroidit et le poulet cuit à la vapeur au lieu de dorer (Betty Bossi).",
+   "t": "Если начать мешать слишком рано или мешать постоянно, сковорода остывает, и курица парится вместо того, чтобы зарумяниться (Betty Bossi)."
+  },
+  "steps.6.timer.label": {
+   "fr": "Première moitié",
+   "t": "Первая половина"
+  },
+  "steps.6.timer.done": {
+   "fr": "Sors le poulet sur une assiette propre.",
+   "t": "Выложите курицу на чистую тарелку."
+  },
+  "steps.7.title": {
+   "fr": "Saisis l'autre moitié",
+   "t": "Обжарьте вторую половину"
+  },
+  "steps.7.text": {
+   "fr": "Sors le poulet sur une assiette propre, pas celle du poulet cru. Verse le reste de l'huile et saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
+   "t": "Выложите курицу на чистую тарелку — не на ту, где лежала сырая курица. Влейте оставшееся масло и так же обжарьте остальную курицу, около 2 минут на каждую партию, затем тоже выложите её."
+  },
+  "steps.7.tip": {
+   "fr": "Le poulet finira de cuire dans la sauce : à la fin, il doit être bien cuit (Migusto).",
+   "t": "Курица дойдёт до готовности в соусе: в конце она должна быть полностью готова (Migusto)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Deuxième moitié",
+   "t": "Вторая половина"
+  },
+  "steps.7.timer.done": {
+   "fr": "Sors le poulet et baisse le feu.",
+   "t": "Выньте курицу и убавьте огонь."
+  },
+  "steps.8.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Спассеруйте лук"
+  },
+  "steps.8.text": {
+   "fr": "Baisse à feu moyen. Mets le {{beurre}} dans la poêle, puis l'oignon. Fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "t": "Убавьте огонь до среднего. Положите в сковороду сливочное масло, затем лук. Обжаривайте, помешивая, пока лук не станет прозрачным."
+  },
+  "steps.9.title": {
+   "fr": "Fais dorer les champignons",
+   "t": "Обжарьте грибы до золотистого цвета"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute les champignons. Laisse-les cuire en remuant de temps en temps, jusqu'à ce que leur eau se soit évaporée et qu'ils commencent à dorer.",
+   "t": "Добавьте грибы. Готовьте, время от времени помешивая, пока выделившаяся из них жидкость не испарится и они не начнут румяниться."
+  },
+  "steps.9.tip": {
+   "fr": "Ne les sale pas maintenant : salés trop tôt, ils rendent leur eau et dorent moins (Betty Bossi). Tu saleras la sauce à la fin.",
+   "t": "Не солите их сейчас: если посолить слишком рано, они пускают сок и хуже румянятся (Betty Bossi). Соус посолите в конце."
+  },
+  "steps.10.title": {
+   "fr": "Déglace au bouillon",
+   "t": "Деглазируйте бульоном"
+  },
+  "steps.10.text": {
+   "fr": "Verse {{bouillon:full}}. Gratte le fond de la poêle avec la cuillère en bois pour décoller les sucs dorés : c'est là qu'est le goût de la sauce. Laisse bouillonner un instant.",
+   "t": "Влейте {{bouillon:full}}. Поскребите дно сковороды деревянной ложкой, чтобы отделить поджаристые частицы: именно в них вкус соуса. Дайте немного побурлить."
+  },
+  "steps.11.title": {
+   "fr": "Ajoute la crème",
+   "t": "Добавьте крем-фреш"
+  },
+  "steps.11.text": {
+   "fr": "Ajoute {{creme:full}} et mélange. Laisse frémir doucement, en remuant de temps en temps, jusqu'à ce que la sauce épaississe un peu.",
+   "t": "Добавьте {{creme:full}} и перемешайте. Дайте соусу слегка побулькивать на слабом огне, время от времени помешивая, пока он немного не загустеет."
+  },
+  "steps.11.tip": {
+   "fr": "Une crème allégée peut trancher si elle bout ; la crème fraîche épaisse et la crème entière supportent la cuisson (Betty Bossi, Migusto, Wikipédia).",
+   "t": "Облегчённые сливки при кипении могут свернуться; густой крем-фреш и жирные сливки нагрев выдерживают (Betty Bossi, Migusto, Wikipédia)."
+  },
+  "steps.12.title": {
+   "fr": "Finis la cuisson du poulet",
+   "t": "Доведите курицу до готовности"
+  },
+  "steps.12.text": {
+   "fr": "Remets le poulet dans la sauce, avec le jus qu'il a rendu dans l'assiette. Laisse frémir doucement quelques minutes, sans faire bouillir fort, jusqu'à ce qu'il soit cuit à cœur : coupe le plus gros morceau, il doit être blanc au centre, sans rose, avec un jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C.",
+   "t": "Верните курицу в соус вместе с соком, который натёк на тарелку. Готовьте несколько минут при слабом кипении, не давая сильно бурлить, пока курица не прожарится насквозь: разрежьте самый крупный кусок — внутри он должен быть белым, без розового, а сок — прозрачным. С термометром: в центре должно быть не меньше 75 °C."
+  },
+  "steps.12.tip": {
+   "fr": "Un gros bouillon durcit le blanc de poulet : un petit frémissement suffit (Escoffier, Chef Simon).",
+   "t": "От сильного кипения куриное филе становится жёстким: достаточно лёгкого побулькивания (Escoffier, Chef Simon)."
+  },
+  "steps.13.title": {
+   "fr": "Goûte et sers",
+   "t": "Попробуйте и подавайте"
+  },
+  "steps.13.text": {
+   "fr": "Goûte, puis ajuste le {{sel}} et le {{poivre}}. Parsème de {{persil}} ciselé et sers tout de suite, avec le riz ou les pâtes.",
+   "t": "Попробуйте, затем досолите и поперчите по вкусу. Посыпьте нарезанной петрушкой и сразу подавайте с рисом или пастой."
+  },
+  "secrets.0.text": {
+   "fr": "Coupe et prépare tout avant d'allumer le feu sous la poêle : une fois lancée, la cuisson va vite.",
+   "t": "Нарежьте и подготовьте всё до того, как включить огонь под сковородой: когда начнёте готовить, всё пойдёт быстро."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Bossi (« Faire sauter » : mise en place)",
+   "t": "Betty Bossi («Faire sauter»: предварительная подготовка)"
+  },
+  "secrets.1.text": {
+   "fr": "Saisis le poulet en deux fois, dans une poêle bien chaude : trop serré, il cuit dans son jus au lieu de dorer.",
+   "t": "Обжаривайте курицу в два приёма, на хорошо разогретой сковороде: если положить её слишком плотно, она тушится в собственном соку, а не румянится."
+  },
+  "secrets.1.source": {
+   "fr": "Betty Bossi (« Faire sauter » : en 2 ou 3 portions ; émincé de poulet à la crème : par portions) ; Migusto (émincé de veau à la zurichoise : portion par portion)",
+   "t": "Betty Bossi («Faire sauter»: в 2 или 3 приёма; курица со сливками: порциями); Migusto (телятина по-цюрихски: порция за порцией)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le poulet tranquille une à deux minutes avant de le retourner : une croûte dorée se forme et donne du goût.",
+   "t": "Не трогайте курицу одну-две минуты, прежде чем перевернуть: образуется золотистая корочка, которая даёт вкус."
+  },
+  "secrets.2.source": {
+   "fr": "Betty Bossi (« Faire sauter »)",
+   "t": "Betty Bossi («Faire sauter»)"
+  },
+  "secrets.3.text": {
+   "fr": "Une poêle en fonte ou en inox laisse plus de sucs qu'une poêle antiadhésive : la sauce est plus goûteuse.",
+   "t": "На чугунной сковороде или сковороде из нержавеющей стали остаётся больше поджаристых частиц, чем на антипригарной: соус получается вкуснее."
+  },
+  "secrets.3.source": {
+   "fr": "Betty Bossi (« La crème des crèmes »)",
+   "t": "Betty Bossi («La crème des crèmes»)"
+  },
+  "secrets.4.text": {
+   "fr": "Déglacer, c'est dissoudre les sucs caramélisés au fond de la poêle : c'est la base du goût de la sauce.",
+   "t": "Деглазировать — значит растворить карамелизованные частицы на дне сковороды: это основа вкуса соуса."
+  },
+  "secrets.4.source": {
+   "fr": "Escoffier, Le Guide culinaire (série des poulets sautés) ; Betty Bossi (« La crème des crèmes » : plus de sucs, sauce plus goûteuse)",
+   "t": "Escoffier, Le Guide culinaire (раздел о курице соте); Betty Bossi («La crème des crèmes»: больше поджаристых частиц — вкуснее соус)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas besoin de vin : Escoffier déglace aussi au fonds de volaille ou au jus de cuisson des champignons, et Migusto (émincé de poulet à la crème et aux herbes) comme Chef Simon (fricassée de volaille) font leur sauce sans vin, au bouillon.",
+   "t": "Вино не нужно: Escoffier деглазирует и куриным фондом или отваром от грибов, а Migusto (курица со сливками и травами) и Chef Simon (фрикасе из птицы) готовят соус без вина, на бульоне."
+  },
+  "secrets.5.source": {
+   "fr": "Escoffier ; Migusto ; Chef Simon",
+   "t": "Escoffier, Migusto и Chef Simon"
+  },
+  "secrets.6.text": {
+   "fr": "Le blanc de poulet ne doit pas bouillir à gros bouillons dans la sauce : il durcit. Un petit frémissement suffit.",
+   "t": "Куриное филе не должно сильно кипеть в соусе: оно становится жёстким. Достаточно лёгкого побулькивания."
+  },
+  "secrets.6.source": {
+   "fr": "Escoffier (poulets sautés : l'ébullition durcit les morceaux blancs) ; Chef Simon (fricassée : « toujours cuire à feu doux (petit frémissement) »)",
+   "t": "Escoffier (курица соте: от кипения белое мясо твердеет); Chef Simon (фрикасе: «всегда готовить на слабом огне (лёгкое побулькивание)»)"
+  },
+  "secrets.7.text": {
+   "fr": "Les champignons ne doivent jamais tremper : ils boivent l'eau, perdent leur goût et deviennent mous.",
+   "t": "Грибы никогда нельзя замачивать: они впитывают воду, теряют вкус и становятся мягкими."
+  },
+  "secrets.7.source": {
+   "fr": "Julien Sebbag (Académie du Goût), Migusto, Betty Bossi",
+   "t": "Julien Sebbag (Académie du Goût), Migusto и Betty Bossi"
+  },
+  "secrets.8.text": {
+   "fr": "Pousse bien la cuisson des champignons, jusqu'à ce que leur eau s'évapore et qu'ils dorent : c'est là qu'ils prennent leur goût.",
+   "t": "Жарьте грибы как следует, пока их жидкость не испарится и они не зарумянятся: именно тогда у них появляется вкус."
+  },
+  "secrets.8.source": {
+   "fr": "Julien Sebbag (Académie du Goût) ; Cuisine AZ",
+   "t": "Julien Sebbag (Académie du Goût) и Cuisine AZ"
+  },
+  "secrets.9.text": {
+   "fr": "Pour une sauce claire avec de la volaille, choisis des champignons de Paris blancs.",
+   "t": "Для светлого соуса к птице выбирайте белые шампиньоны."
+  },
+  "secrets.9.source": {
+   "fr": "Betty Bossi (« Champignons d'élevage »)",
+   "t": "Betty Bossi («Champignons d'élevage»)"
+  },
+  "secrets.10.text": {
+   "fr": "Crème fraîche épaisse ou crème entière : elles supportent la cuisson ; les crèmes plus légères risquent de trancher si elles bouillent.",
+   "t": "Густой крем-фреш или жирные сливки выдерживают нагрев; более лёгкие сливки при кипении могут свернуться."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipédia (crème fraîche épaisse : « résiste bien à la cuisson ») ; Betty Bossi et Migusto (demi-crème à ne pas faire bouillir)",
+   "t": "Wikipédia (густой крем-фреш: «хорошо выдерживает нагрев»); Betty Bossi и Migusto (полужирные сливки (demi-crème) не кипятят)"
+  },
+  "secrets.11.text": {
+   "fr": "Remets le poulet dans la sauce avec tout le jus qu'il a rendu dans l'assiette.",
+   "t": "Верните курицу в соус вместе со всем соком, который натёк на тарелку."
+  },
+  "secrets.11.source": {
+   "fr": "Betty Bossi (émincé de poulet à la crème)",
+   "t": "Betty Bossi (курица со сливками)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "Мыть сырую курицу: брызги разносят бактерии повсюду, а уничтожает их только тепловая обработка (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Couper le poulet cru, puis les légumes, sur la même planche sans la laver (FSA, Anses).",
+   "t": "Резать сырую курицу, а потом овощи на одной доске, не помыв её (FSA, Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre tout le poulet d'un coup ou le remuer sans arrêt : il bout dans son jus au lieu de dorer (Betty Bossi).",
+   "t": "Выкладывать всю курицу сразу или постоянно её мешать: она варится в собственном соку вместо того, чтобы зарумяниться (Betty Bossi)."
+  },
+  "mistakes.3": {
+   "fr": "Faire tremper les champignons (Julien Sebbag, Migusto, Betty Bossi).",
+   "t": "Замачивать грибы (Julien Sebbag, Migusto, Betty Bossi)."
+  },
+  "mistakes.4": {
+   "fr": "Faire bouillir fort une crème allégée : elle tranche (Betty Bossi, Migusto).",
+   "t": "Сильно кипятить облегчённые сливки: они сворачиваются (Betty Bossi, Migusto)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser bouillir longtemps le poulet dans la sauce : il durcit (Escoffier).",
+   "t": "Долго кипятить курицу в соусе: она становится жёсткой (Escoffier)."
+  },
+  "mistakes.6": {
+   "fr": "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+   "t": "Подавать, не проверив, что курица прожарилась насквозь (FSA, Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Remettre le poulet saisi dans l'assiette du poulet cru (Anses).",
+   "t": "Класть обжаренную курицу на тарелку, где лежала сырая (Anses)."
+  },
+  "mistakes.8": {
+   "fr": "Prendre un cube de bouillon sans vérifier qu'il est halal, ou garder le vin des recettes suisses (Migusto, Betty Bossi) : remplace-le par du bouillon.",
+   "t": "Брать бульонный кубик, не проверив, что он халяль, или оставлять вино из швейцарских рецептов (Migusto, Betty Bossi): замените его бульоном."
+  },
+  "variants.0": {
+   "fr": "Aux herbes : ciboulette ciselée, et un beurre mêlé d'herbes hachées et de zeste de citron, ajouté au moment de servir (Migusto).",
+   "t": "С травами: нарезанный шнитт-лук и сливочное масло, смешанное с рубленой зеленью и лимонной цедрой, — его добавляют перед подачей (Migusto)."
+  },
+  "variants.1": {
+   "fr": "Au paprika : relève la poêlée de paprika en même temps que le sel et le poivre (Migusto).",
+   "t": "С паприкой: приправьте блюдо паприкой одновременно с солью и перцем (Migusto)."
+  },
+  "variants.2": {
+   "fr": "À l'ail : 2 gousses hachées, revenues avec l'oignon (Cuisine AZ ; recette de lecteur du Journal des Femmes).",
+   "t": "С чесноком: 2 рубленых зубчика, обжаренных вместе с луком (Cuisine AZ; рецепт читателя Journal des Femmes)."
+  },
+  "variants.3": {
+   "fr": "À l'échalote : remplace l'oignon par des échalotes ciselées (Chef Simon, fricassée ; recette de lectrice du Journal des Femmes).",
+   "t": "С шалотом: замените лук мелко нарезанным шалотом (Chef Simon, фрикасе; рецепт читательницы Journal des Femmes)."
+  },
+  "variants.4": {
+   "fr": "Avec d'autres champignons, des shiitakés par exemple (Betty Bossi).",
+   "t": "С другими грибами, например шиитаке (Betty Bossi)."
+  },
+  "variants.5": {
+   "fr": "Émincé à la zurichoise : la version suisse classique, au veau, servie avec des röstis (Migusto, Wikipédia ; Betty Bossi en donne aussi une version) ; à faire sans vin et avec du veau halal.",
+   "t": "Телятина по-цюрихски: классическая швейцарская версия из телятины, которую подают с рёшти (Migusto, Wikipédia; у Betty Bossi тоже есть своя версия); готовьте её без вина и с телятиной халяль."
+  },
+  "variants.6": {
+   "fr": "Fricassée à l'ancienne, pour le week-end : un poulet en morceaux cuit 40 minutes dans un fond de volaille, puis la sauce à la crème et aux champignons (Chef Simon).",
+   "t": "Фрикасе по-старинному, для выходных: курица, разрезанная на куски, 40 минут тушится в курином фонде, затем готовят соус со сливками и грибами (Chef Simon)."
+  }
+ }
+}

@@ -1,0 +1,594 @@
+{
+ "_slug": "poisson-frit",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Poisson frit à la marocaine",
+   "t": "Moroccan fried fish"
+  },
+  "darija": {
+   "fr": "Hout mqli",
+   "t": "Hout mqli"
+  },
+  "tagline": {
+   "fr": "Des sardines collées deux par deux avec une chermoula à l'ail, au cumin et au paprika, des filets de merlan marinés, farinés puis frits jusqu'à ce qu'ils soient bien dorés. Avec du citron, c'est la friture de la maison.",
+   "t": "Sardines sandwiched together in pairs with a garlic, cumin and paprika chermoula, and whiting fillets marinated, floured, then fried until golden brown. With lemon, this is home-style fried fish."
+  },
+  "region": {
+   "fr": "Tout le Maroc, surtout les villes côtières. La sardine est le poisson le plus abondant des côtes marocaines (Choumicha) et le merlan un choix très courant (Taste of Maroc). Les sardines farcies frites se vendent aussi dans la rue loin de la mer, parfois seulement certains jours, par exemple à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc).",
+   "t": "All of Morocco, especially the coastal cities. The sardine is the most abundant fish off the Moroccan coast (Choumicha) and whiting is a very common choice (Taste of Maroc). Fried stuffed sardines are also sold in the street far from the sea, sometimes only on certain days, for example in Jemaa el-Fna in Marrakesh and in the medina of Fez (Taste of Maroc)."
+  },
+  "occasion": {
+   "fr": "En entrée, ou en plat avec des légumineuses et des salades pour un déjeuner complet (Taste of Maroc) ; au f'tour du ramadan à El Jadida, où les fritures de poissons sont au menu (Hespress)",
+   "t": "As a starter, or as a main course with pulses and salads for a full lunch (Taste of Maroc); at the Ramadan iftar in El Jadida, where fried fish is on the menu (Hespress)"
+  },
+  "img_alt": {
+   "fr": "Sardines frites, farinées, disposées en rosace avec du citron",
+   "t": "Floured fried sardines arranged in a rosette with lemon"
+  },
+  "serving": {
+   "fr": "Sers le poisson chaud, aussitôt égoutté : les sardines se mangent de préférence chaudes, avec des tranches de citron (Bladi) ; Cooking With Alia les sert tout de suite, avec un filet de jus de citron. Taste of Maroc les sert aussi tièdes ou à température ambiante, sur un lit de persil ou de salade, avec des quartiers de citron et de la harissa, à côté de haricots blancs à la tomate ou d'une salade concombre-tomate-oignon. Choumicha accompagne sa friture d'une salade verte, de tranches de citron et d'olives m'chermlines. Ne laisse pas le poisson plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Serve the fish hot, as soon as it has drained: sardines are best eaten hot, with lemon slices (Bladi); Cooking With Alia serves them straight away, with a squeeze of lemon juice. Taste of Maroc also serves them warm or at room temperature, on a bed of parsley or lettuce, with lemon wedges and harissa, alongside white beans in tomato sauce or a cucumber, tomato and onion salad. Choumicha serves her fried fish with a green salad, lemon slices and m'chermlines olives. Do not leave the fish out of the fridge for more than 2 hours (FDA)."
+  },
+  "pairs_label": {
+   "fr": "En sandwich",
+   "t": "In a sandwich"
+  },
+  "ing.0.group": {
+   "fr": "Poisson",
+   "t": "Fish"
+  },
+  "ing.sardines.name": {
+   "fr": "de sardines fraîches",
+   "t": "fresh sardines"
+  },
+  "ing.sardines.note": {
+   "fr": "petites de préférence ; à écailler, vider et ouvrir en deux (étape 1)",
+   "t": "preferably small; to be scaled, gutted and opened out flat (step 1)"
+  },
+  "ing.merlans.name": {
+   "fr": "de merlans",
+   "t": "whiting"
+  },
+  "ing.merlans.note": {
+   "fr": "à écailler, vider et lever en filets (étape 2), ou déjà en filets chez le poissonnier",
+   "t": "to be scaled, gutted and filleted (step 2), or bought already filleted from the fishmonger"
+  },
+  "ing.1.group": {
+   "fr": "Chermoula",
+   "t": "Chermoula"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "finement haché",
+   "t": "finely chopped"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "fresh coriander"
+  },
+  "ing.coriandre.note": {
+   "fr": "finement hachée",
+   "t": "finely chopped"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à peler",
+   "t": "to be peeled"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment doux)",
+   "t": "sweet paprika (sweet pepper powder)"
+  },
+  "ing.citron-jus.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron-jus.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron-jus.note": {
+   "fr": "pour le jus ; ou du vinaigre, comme Choumicha",
+   "t": "for the juice; or vinegar, as Choumicha does"
+  },
+  "ing.piment-fort.name": {
+   "fr": "piment fort en poudre",
+   "t": "hot chilli powder"
+  },
+  "ing.piment-fort.note": {
+   "fr": "facultatif ; Choumicha en met 1 c. à c. pour 1 kg de poisson",
+   "t": "optional; Choumicha uses 1 tsp per 1 kg of fish"
+  },
+  "ing.2.group": {
+   "fr": "Friture",
+   "t": "For frying"
+  },
+  "ing.farine.name": {
+   "fr": "farine",
+   "t": "plain flour"
+  },
+  "ing.farine.note": {
+   "fr": "pour enrober ; Choumicha en prévoit 100 g pour 1 kg de poisson",
+   "t": "for coating; Choumicha allows 100 g per 1 kg of fish"
+  },
+  "ing.semoule.name": {
+   "fr": "semoule fine",
+   "t": "fine semolina"
+  },
+  "ing.semoule.note": {
+   "fr": "facultatif, à mélanger à la farine",
+   "t": "optional, to mix with the flour"
+  },
+  "ing.huile.name": {
+   "fr": "huile de friture",
+   "t": "frying oil"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour couvrir au moins la moitié de l'épaisseur du poisson",
+   "t": "enough to cover at least half the thickness of the fish"
+  },
+  "ing.3.group": {
+   "fr": "Service",
+   "t": "To serve"
+  },
+  "ing.citron-service.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron-service.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron-service.note": {
+   "fr": "en quartiers ou en tranches",
+   "t": "cut into wedges or slices"
+  },
+  "equipment.0": {
+   "fr": "Planche à découper et petit couteau",
+   "t": "Chopping board and small knife"
+  },
+  "equipment.1": {
+   "fr": "Passoire et papier absorbant",
+   "t": "Colander and kitchen paper"
+  },
+  "equipment.2": {
+   "fr": "Mortier et pilon (ou mixeur)",
+   "t": "Pestle and mortar (or food processor)"
+  },
+  "equipment.3": {
+   "fr": "Bol et plat creux pour la marinade, avec un film ou un couvercle",
+   "t": "Bowl and deep dish for the marinade, with cling film or a lid"
+  },
+  "equipment.4": {
+   "fr": "Assiette creuse pour la farine",
+   "t": "Deep plate for the flour"
+  },
+  "equipment.5": {
+   "fr": "Friteuse électrique à thermostat, ou grande poêle profonde à bords hauts",
+   "t": "Electric deep-fat fryer with a thermostat, or a large, deep, high-sided frying pan"
+  },
+  "equipment.6": {
+   "fr": "Couvercle à la taille de la poêle, toujours à portée de main",
+   "t": "Lid that fits the pan, always within reach"
+  },
+  "equipment.7": {
+   "fr": "Écumoire ou pince",
+   "t": "Slotted spoon or tongs"
+  },
+  "equipment.8": {
+   "fr": "Thermomètre de cuisson (facultatif)",
+   "t": "Cooking thermometer (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Écaille et vide les sardines",
+   "t": "Scale and gut the sardines"
+  },
+  "steps.0.text": {
+   "fr": "Sous un filet d'eau froide, écaille {{sardines}} de sardines. Coupe la tête, vide le ventre, puis retire l'arête centrale : chaque sardine s'ouvre à plat, en deux filets qui tiennent par le dos. Tu peux aussi demander au poissonnier de le faire.",
+   "t": "Under a trickle of cold water, scale {{sardines}} of sardines. Cut off the head, clean out the belly, then remove the backbone: each sardine opens out flat, into two fillets still joined along the back. You can also ask the fishmonger to do this."
+  },
+  "steps.0.tip": {
+   "fr": "Choisis des sardines brillantes et fermes, avec leurs écailles et des branchies bien rouges, à l'odeur fraîche et légère, jamais forte ni d'ammoniaque.",
+   "t": "Choose shiny, firm sardines with their scales still on and bright red gills, with a fresh, mild smell, never strong or of ammonia."
+  },
+  "steps.1.title": {
+   "fr": "Prépare les merlans",
+   "t": "Prepare the whiting"
+  },
+  "steps.1.text": {
+   "fr": "Écaille {{merlans}} de merlans et vide-les. Coupe la tête et lève les filets, ou demande au poissonnier de le faire.",
+   "t": "Scale and gut {{merlans}} of whiting. Cut off the heads and fillet the fish, or ask the fishmonger to do it."
+  },
+  "steps.2.title": {
+   "fr": "Rince et sèche le poisson",
+   "t": "Rinse and dry the fish"
+  },
+  "steps.2.text": {
+   "fr": "Rince rapidement tout le poisson à l'eau froide et laisse-le égoutter dans une passoire. Sèche-le bien avec du papier absorbant. Lave-toi ensuite les mains au savon pendant au moins 20 secondes, puis lave la planche et le couteau à l'eau chaude savonneuse.",
+   "t": "Quickly rinse all the fish in cold water and leave it to drain in a colander. Pat it thoroughly dry with kitchen paper. Then wash your hands with soap for at least 20 seconds, and wash the board and knife in hot soapy water."
+  },
+  "steps.2.tip": {
+   "fr": "Un poisson bien sec, c'est plus sûr : l'eau fait bouillonner l'huile chaude, qui peut déborder.",
+   "t": "Well-dried fish is safer: water makes hot oil bubble up, and the oil can overflow."
+  },
+  "steps.3.title": {
+   "fr": "Pile l'ail et les herbes",
+   "t": "Pound the garlic and herbs"
+  },
+  "steps.3.text": {
+   "fr": "Hache très finement {{persil}} de persil et {{coriandre}} de coriandre. Au mortier, écrase {{ail:full}} avec {{sel}} de sel. Ajoute les herbes et pile encore un peu.",
+   "t": "Very finely chop {{persil}} of parsley and {{coriandre}} of coriander. In the mortar, crush {{ail:full}} with {{sel}} of salt. Add the herbs and pound a little more."
+  },
+  "steps.3.tip": {
+   "fr": "Hache bien les herbes avant de les piler, sinon la chermoula fait des fils. Pas de mortier ? Un mixeur fait l'affaire.",
+   "t": "Chop the herbs well before pounding them, otherwise the chermoula turns stringy. No mortar? A food processor will do."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.4.title": {
+   "fr": "Termine la chermoula",
+   "t": "Finish the chermoula"
+  },
+  "steps.4.text": {
+   "fr": "Mets la pâte dans un bol. Ajoute {{cumin}} de cumin, {{paprika}} de paprika et le jus de {{citron-jus:full}}. Mélange bien. Si tu aimes le piquant, ajoute un peu de {{piment-fort}}.",
+   "t": "Put the paste in a bowl. Add {{cumin}} of cumin, {{paprika}} of paprika and the juice of {{citron-jus:full}}. Mix well. If you like it spicy, add a little {{piment-fort}}."
+  },
+  "steps.4.tip": {
+   "fr": "Avant de toucher le poisson cru, mets un peu de chermoula de côté dans un petit bol : elle servira de sauce à table ou dans un sandwich.",
+   "t": "Before touching the raw fish, set a little chermoula aside in a small bowl: it will serve as a sauce at the table or in a sandwich."
+  },
+  "steps.5.title": {
+   "fr": "Colle les sardines deux par deux",
+   "t": "Sandwich the sardines in pairs"
+  },
+  "steps.5.text": {
+   "fr": "Pose une sardine ouverte, peau dessous. Étale une bonne couche de chermoula sur la chair, puis couvre avec une deuxième sardine, peau dessus. Presse doucement. Continue avec les autres.",
+   "t": "Lay an opened sardine skin side down. Spread a good layer of chermoula over the flesh, then cover with a second sardine, skin side up. Press gently. Carry on with the rest."
+  },
+  "steps.5.tip": {
+   "fr": "Il reste une sardine seule ? Garnis-la de chermoula et replie-la sur elle-même.",
+   "t": "One sardine left on its own? Fill it with chermoula and fold it over on itself."
+  },
+  "steps.6.title": {
+   "fr": "Enrobe les merlans",
+   "t": "Coat the whiting"
+  },
+  "steps.6.text": {
+   "fr": "Étale de la chermoula sur les filets de merlan et referme-les sur eux-mêmes. Frotte aussi l'extérieur des sardines avec le reste de la chermoula.",
+   "t": "Spread chermoula over the whiting fillets and fold them over on themselves. Also rub the outside of the sardines with the rest of the chermoula."
+  },
+  "steps.7.title": {
+   "fr": "Laisse mariner au frais",
+   "t": "Marinate in the fridge"
+  },
+  "steps.7.text": {
+   "fr": "Couvre et mets au réfrigérateur au moins 30 minutes. Taste of Maroc laisse mariner au moins 2 heures.",
+   "t": "Cover and refrigerate for at least 30 minutes. Taste of Maroc marinates for at least 2 hours."
+  },
+  "steps.7.timer.label": {
+   "fr": "Marinade",
+   "t": "Marinating"
+  },
+  "steps.7.timer.done": {
+   "fr": "La marinade est prête. Passe à la friture.",
+   "t": "The marinating is done. Move on to the frying."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la poêle",
+   "t": "Prepare the pan"
+  },
+  "steps.8.text": {
+   "fr": "Prends une friteuse à thermostat ou une grande poêle profonde à bords hauts. Verse assez d'{{huile}} pour couvrir au moins la moitié de l'épaisseur du poisson, sans jamais remplir à plus d'un tiers de la hauteur. Garde un couvercle de la bonne taille à portée de main.",
+   "t": "Use a deep-fat fryer with a thermostat or a large, deep, high-sided frying pan. Pour in enough {{huile}} to cover at least half the thickness of the fish, but never fill it more than a third of the way up. Keep a lid of the right size within reach."
+  },
+  "steps.9.title": {
+   "fr": "Fais chauffer l'huile",
+   "t": "Heat the oil"
+  },
+  "steps.9.text": {
+   "fr": "Chauffe l'huile progressivement, à feu moyen. Elle doit être bien chaude mais ne jamais fumer : si elle fume, baisse le feu et attends qu'elle refroidisse un peu. Avec une friteuse ou un thermomètre, ne dépasse pas 180 °C. À partir de maintenant, ne quitte plus la poêle des yeux.",
+   "t": "Heat the oil gradually over medium heat. It should be very hot but never smoking: if it smokes, turn the heat down and wait for it to cool a little. With a fryer or a thermometer, do not go above 180 °C. From now on, do not take your eyes off the pan."
+  },
+  "steps.9.tip": {
+   "fr": "Si l'huile prend feu : ne jette jamais d'eau. Glisse le couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi. Appelle sans attendre les pompiers, même si le feu semble éteint. Si le feu ne s'éteint pas ou s'étend, fais sortir tout le monde, ferme la porte de la cuisine et ne rentre pas.",
+   "t": "If the oil catches fire: never throw water on it. Slide the lid over the pan, turn off the heat if you can do so safely, do not move the pan and leave the lid on until it has cooled down. Call the fire brigade straight away, even if the fire seems to be out. If the fire does not go out or spreads, get everyone out, close the kitchen door and do not go back in."
+  },
+  "steps.10.title": {
+   "fr": "Farine le poisson",
+   "t": "Flour the fish"
+  },
+  "steps.10.text": {
+   "fr": "Sors le poisson de la marinade et laisse-le égoutter. Juste avant de le frire, passe chaque morceau dans la {{farine}}, des deux côtés. Tu peux mélanger un peu de {{semoule}} à la farine.",
+   "t": "Take the fish out of the marinade and let it drain. Just before frying, dip each piece in the {{farine}} on both sides. You can mix a little {{semoule}} into the flour."
+  },
+  "steps.11.title": {
+   "fr": "Fais frire la première face",
+   "t": "Fry the first side"
+  },
+  "steps.11.text": {
+   "fr": "Pose délicatement quelques morceaux dans l'huile, sans les serrer. Laisse frire environ 3 minutes, jusqu'à ce que le dessous soit bien doré.",
+   "t": "Carefully lower a few pieces into the oil, without crowding them. Fry for about 3 minutes, until the underside is golden brown."
+  },
+  "steps.11.timer.label": {
+   "fr": "Première face",
+   "t": "First side"
+  },
+  "steps.11.timer.done": {
+   "fr": "Retourne les morceaux avec une pince ou une écumoire.",
+   "t": "Turn the pieces over with tongs or a slotted spoon."
+  },
+  "steps.12.title": {
+   "fr": "Retourne et finis la cuisson",
+   "t": "Turn and finish cooking"
+  },
+  "steps.12.text": {
+   "fr": "Retourne les morceaux et laisse frire encore environ 3 minutes. C'est cuit quand c'est bien doré et que la chair se détache facilement à la fourchette.",
+   "t": "Turn the pieces over and fry for about 3 more minutes. The fish is cooked when it is golden brown and the flesh flakes easily with a fork."
+  },
+  "steps.12.tip": {
+   "fr": "Avec un thermomètre à sonde, le poisson est cuit à 63 °C à cœur.",
+   "t": "With a probe thermometer, the fish is cooked when the centre reaches 63 °C."
+  },
+  "steps.12.timer.label": {
+   "fr": "Deuxième face",
+   "t": "Second side"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bien doré des deux côtés ? Sors le poisson de l'huile.",
+   "t": "Golden brown on both sides? Take the fish out of the oil."
+  },
+  "steps.13.title": {
+   "fr": "Égoutte et continue",
+   "t": "Drain and carry on"
+  },
+  "steps.13.text": {
+   "fr": "Sors le poisson avec l'écumoire et pose-le sur du papier absorbant. Retire les débris qui flottent dans l'huile, puis fais frire la fournée suivante de la même façon. À la fin, éteins le feu.",
+   "t": "Lift the fish out with the slotted spoon and put it on kitchen paper. Remove any bits floating in the oil, then fry the next batch in the same way. When you have finished, turn off the heat."
+  },
+  "steps.13.tip": {
+   "fr": "Une huile devenue brune ou noire, épaisse, qui mousse ou qui fume est abîmée : ne la réutilise pas, et ne la verse jamais dans l'évier.",
+   "t": "Oil that has turned brown or black, thick, foamy or smoking is spent: do not reuse it, and never pour it down the sink."
+  },
+  "steps.13.img.alt": {
+   "fr": "Sardines frites et dorées, posées sur du papier absorbant",
+   "t": "Golden fried sardines on kitchen paper"
+  },
+  "steps.13.img.caption": {
+   "fr": "Égoutter sur du papier absorbant",
+   "t": "Draining on kitchen paper"
+  },
+  "steps.14.title": {
+   "fr": "Sers chaud",
+   "t": "Serve hot"
+  },
+  "steps.14.text": {
+   "fr": "Sers tout de suite, avec {{citron-service:full}} en quartiers, une salade verte et des olives.",
+   "t": "Serve straight away, with {{citron-service:full}} cut into wedges, a green salad and olives."
+  },
+  "steps.14.tip": {
+   "fr": "Ne laisse pas le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "t": "Do not leave the fried fish out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C."
+  },
+  "secrets.0.text": {
+   "fr": "Choisis des sardines de moins de 15 cm : plus la sardine est petite, plus sa chair est délicieuse. Elles doivent être brillantes, fermes, garder leurs écailles, avec des branchies rouge carmin et humides.",
+   "t": "Choose sardines under 15 cm long: the smaller the sardine, the tastier its flesh. They should be shiny and firm, with their scales still on and moist, carmine-red gills."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha, « La sardine, un trésor de bienfaits » ; Taste of Maroc (Nada Kiffa) : les petites sardines fraîches sont idéales",
+   "t": "Choumicha, “La sardine, un trésor de bienfaits”; Taste of Maroc (Nada Kiffa): small fresh sardines are ideal"
+  },
+  "secrets.1.text": {
+   "fr": "Un poisson frais sent frais et léger, jamais fort, aigre ou l'ammoniaque. Ses yeux sont clairs et brillants, et sa chair ferme reprend sa forme quand tu appuies dessus.",
+   "t": "Fresh fish smells fresh and mild, never strong, sour or of ammonia. Its eyes are clear and bright, and its firm flesh springs back when you press it."
+  },
+  "secrets.1.source": {
+   "fr": "FDA, « Selecting and Serving Fresh and Frozen Seafood Safely » ; Choumicha (sardines brillantes et fermes, branchies rouges)",
+   "t": "FDA, “Selecting and Serving Fresh and Frozen Seafood Safely”; Choumicha (shiny, firm sardines, red gills)"
+  },
+  "secrets.2.text": {
+   "fr": "La sardine est très fragile : cuisine-la le jour de l'achat. Au besoin, garde-la 24 heures au plus au réfrigérateur, écaillée, vidée, rincée, essuyée et couverte d'un film, dans un réfrigérateur à 4 °C ou moins.",
+   "t": "Sardines are very perishable: cook them on the day you buy them. If necessary, keep them in the fridge for 24 hours at most, scaled, gutted, rinsed, patted dry and covered with cling film, in a fridge at 4 °C or below."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha (24 h maximum, le jour même de préférence) ; FDA (produits de la mer gardés à 40 °F, soit 4 °C, ou moins)",
+   "t": "Choumicha (24 h maximum, preferably the same day); FDA (seafood kept at 40 °F, i.e. 4 °C, or below)"
+  },
+  "secrets.3.text": {
+   "fr": "Les deux sardines collées par la chermoula s'appellent « mzeouej » (mariées), « machrouk » (associées) ou « ʿachiq w maʿchouq » (les amoureux).",
+   "t": "The two sardines stuck together with chermoula are called “mzeouej” (married), “machrouk” (partnered) or “ʿachiq w maʿchouq” (the lovers)."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; SBS (Ellie Bouhadana) : « mzeouejim », qui veut dire « mariés »",
+   "t": "Taste of Maroc (Nada Kiffa, a Casablanca native); SBS (Ellie Bouhadana): “mzeouejim”, which means “married”"
+  },
+  "secrets.4.text": {
+   "fr": "La vraie chermoula se fait avec des herbes fraîches et de l'ail, pas avec un mélange sec du commerce.",
+   "t": "Real chermoula is made with fresh herbs and garlic, not with a shop-bought dry mix."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; toutes les recettes marocaines lues (Choumicha, Bladi, Cooking With Alia) utilisent des herbes fraîches",
+   "t": "Taste of Maroc (Nada Kiffa); all the Moroccan recipes consulted (Choumicha, Bladi, Cooking With Alia) use fresh herbs"
+  },
+  "secrets.5.text": {
+   "fr": "Pour le poisson, on aime une chermoula citronnée.",
+   "t": "For fish, a lemony chermoula is the favourite."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Nada Kiffa et Christine Benlafquih) ; Bladi (jus de citron dans « Sardines farcies », « Poisson frits » et « Chermoula pour le poisson » ; sa reprise de la recette de Choumicha est au vinaigre) ; Lalla Moulati (jus de citron, avec un peu de vinaigre, dans sa chermoula pour le poisson)",
+   "t": "Taste of Maroc (Nada Kiffa and Christine Benlafquih); Bladi (lemon juice in “Sardines farcies”, “Poisson frits” and “Chermoula pour le poisson”; its version of Choumicha's recipe uses vinegar); Lalla Moulati (lemon juice, with a little vinegar, in her chermoula for fish)"
+  },
+  "secrets.6.text": {
+   "fr": "Pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées : hachées grossièrement, elles donnent une chermoula qui fait des fils.",
+   "t": "First pound the garlic with the salt, then add the finely chopped herbs: if they are roughly chopped, the chermoula turns stringy."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi, « Chermoula pour le poisson » (coriandre pilée au mortier avec le gros sel et l'ail) ; Choumicha (herbes émincées)",
+   "t": "Taste of Maroc (Nada Kiffa); Bladi, “Chermoula pour le poisson” (coriander pounded in a mortar with coarse salt and garlic); Choumicha (finely cut herbs)"
+  },
+  "secrets.7.text": {
+   "fr": "Garde un peu de chermoula propre, mise de côté avant de toucher le poisson cru, pour la servir en sauce : jamais celle qui a touché le poisson cru.",
+   "t": "Keep a little clean chermoula, set aside before touching the raw fish, to serve as a sauce: never the chermoula that has touched the raw fish."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Nada Kiffa aime en garder un peu de côté pour servir avec les grillades, poisson compris, surtout l'été) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)",
+   "t": "Taste of Maroc (Nada Kiffa likes to keep some aside to serve with grilled food, fish included, especially in summer); FDA (prevent bacteria from raw fish passing to ready-to-eat foods)"
+  },
+  "secrets.8.text": {
+   "fr": "Égoutte et sèche bien le poisson avant la friture : l'eau fait bouillonner et déborder l'huile.",
+   "t": "Drain and dry the fish well before frying: water makes the oil bubble up and overflow."
+  },
+  "secrets.8.source": {
+   "fr": "SFDA (Autorité saoudienne des aliments et des médicaments) ; pompiers du Cambridgeshire ; Taste of Maroc et Choumicha (poisson essuyé, séché)",
+   "t": "SFDA (Saudi Food and Drug Authority); Cambridgeshire Fire & Rescue Service; Taste of Maroc and Choumicha (fish wiped and dried)"
+  },
+  "secrets.9.text": {
+   "fr": "Farine le poisson juste avant de le plonger dans l'huile.",
+   "t": "Flour the fish just before lowering it into the oil."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (« passer les poissons dans la farine et les plonger dans un bain d'huile chaude ») ; Taste of Maroc (sortir de la marinade, enrober, frire)",
+   "t": "Choumicha (“dip the fish in the flour and plunge them into a bath of hot oil”); Taste of Maroc (take out of the marinade, coat, fry)"
+  },
+  "secrets.10.text": {
+   "fr": "Fais frire par petites quantités, sans serrer les morceaux.",
+   "t": "Fry in small batches, without crowding the pieces."
+  },
+  "secrets.10.source": {
+   "fr": "SBS (Ellie Bouhadana) : par fournées, sans surcharger la poêle ; Bladi, « Beignets de sardines » : par séries de quatre",
+   "t": "SBS (Ellie Bouhadana): in batches, without overloading the pan; Bladi, “Beignets de sardines”: four at a time"
+  },
+  "secrets.11.text": {
+   "fr": "Chauffe l'huile progressivement, à feu moyen, puis garde-la bien chaude sans fumée.",
+   "t": "Heat the oil gradually over medium heat, then keep it very hot but not smoking."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi, « Merlans frits » (bain d'huile chauffé à feu moyen) ; SFDA (chauffer lentement, sans atteindre le point de fumée) ; Cooking With Alia (feu baissé une fois l'huile chaude)",
+   "t": "Bladi, “Merlans frits” (oil bath heated over medium heat); SFDA (heat slowly, without reaching the smoke point); Cooking With Alia (heat turned down once the oil is hot)"
+  },
+  "secrets.12.text": {
+   "fr": "Change l'huile dès qu'elle devient brune ou noire. Une huile foncée, épaisse, qui mousse, qui fume ou qui sent le rance est abîmée. Ne la verse pas dans l'évier.",
+   "t": "Change the oil as soon as it turns brown or black. Oil that is dark, thick, foamy, smoking or smells rancid is spent. Do not pour it down the sink."
+  },
+  "secrets.12.source": {
+   "fr": "SFDA ; SCAV de Genève, « Information sur les huiles de friture »",
+   "t": "SFDA; SCAV (Geneva), “Information sur les huiles de friture”"
+  },
+  "secrets.13.text": {
+   "fr": "Au Maroc, le poisson frit se sert souvent avec des haricots blancs à la tomate ou des salades fraîches (concombre, tomate, oignon), ou avec une salade verte, du citron et des olives m'chermlines.",
+   "t": "In Morocco, fried fish is often served with white beans in tomato sauce or fresh salads (cucumber, tomato, onion), or with a green salad, lemon and m'chermlines olives."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha, « Friture de poissons m'chermel »",
+   "t": "Taste of Maroc (Nada Kiffa); Choumicha, “Friture de poissons m'chermel”"
+  },
+  "mistakes.0": {
+   "fr": "Jeter de l'eau sur de l'huile en feu : ça provoque une explosion de flammes. Glisse un couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi ; appelle sans attendre les pompiers, même si le feu semble éteint, et si le feu continue, fais sortir tout le monde et ferme la porte (USFA ; gouvernement du Québec ; pompiers du Cambridgeshire ; comté du Warwickshire).",
+   "t": "Throwing water on burning oil: it causes an explosion of flames. Slide a lid over the pan, turn off the heat if you can do so safely, do not move the pan and leave the lid on until it has cooled down; call the fire brigade straight away, even if the fire seems to be out, and if the fire keeps burning, get everyone out and close the door (USFA; Québec government; Cambridgeshire Fire & Rescue Service; Warwickshire County Council)."
+  },
+  "mistakes.1": {
+   "fr": "Continuer à chauffer une huile qui fume : baisse le feu et laisse-la refroidir avant d'y mettre le poisson (gouvernement du Québec ; pompiers du Cambridgeshire ; SFDA).",
+   "t": "Carrying on heating oil that is smoking: turn the heat down and let it cool before adding the fish (Québec government; Cambridgeshire Fire & Rescue Service; SFDA)."
+  },
+  "mistakes.2": {
+   "fr": "Remplir la poêle à plus d'un tiers d'huile (pompiers du Cambridgeshire ; comté du Warwickshire).",
+   "t": "Filling the pan more than a third full of oil (Cambridgeshire Fire & Rescue Service; Warwickshire County Council)."
+  },
+  "mistakes.3": {
+   "fr": "Quitter la poêle des yeux pendant la friture, même quelques secondes (pompiers du Cambridgeshire ; comté du Warwickshire ; gouvernement du Québec).",
+   "t": "Taking your eyes off the pan while frying, even for a few seconds (Cambridgeshire Fire & Rescue Service; Warwickshire County Council; Québec government)."
+  },
+  "mistakes.4": {
+   "fr": "Mettre dans l'huile un poisson mouillé ou plein de marinade liquide : l'huile bouillonne et peut déborder (SFDA ; pompiers du Cambridgeshire).",
+   "t": "Putting wet fish, or fish dripping with liquid marinade, into the oil: the oil bubbles up and can overflow (SFDA; Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.5": {
+   "fr": "Serrer trop de morceaux dans la poêle (SBS ; Bladi).",
+   "t": "Crowding too many pieces into the pan (SBS; Bladi)."
+  },
+  "mistakes.6": {
+   "fr": "Hacher grossièrement les herbes : la chermoula fait des fils (Taste of Maroc ; Choumicha utilise des herbes émincées).",
+   "t": "Chopping the herbs roughly: the chermoula turns stringy (Taste of Maroc; Choumicha uses finely cut herbs)."
+  },
+  "mistakes.7": {
+   "fr": "Servir en sauce une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+   "t": "Serving chermoula that has touched the raw fish as a sauce (FDA; Taste of Maroc)."
+  },
+  "mistakes.8": {
+   "fr": "Acheter un poisson qui sent fort, aigre ou l'ammoniaque, ou des sardines ternes et molles (FDA ; Choumicha).",
+   "t": "Buying fish that smells strong, sour or of ammonia, or dull, soft sardines (FDA; Choumicha)."
+  },
+  "mistakes.9": {
+   "fr": "Laisser le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+   "t": "Leaving the fried fish out of the fridge for more than 2 hours, or more than 1 hour if it is above 32 °C (FDA)."
+  },
+  "variants.0": {
+   "fr": "Seulement des sardines farcies : c'est le grand classique de la rue (Taste of Maroc ; Bladi, « Sardines farcies »).",
+   "t": "Stuffed sardines only: the great street-food classic (Taste of Maroc; Bladi, “Sardines farcies”)."
+  },
+  "variants.1": {
+   "fr": "Une seule sardine garnie de chermoula et repliée sur elle-même, au lieu de deux sardines collées (Taste of Maroc).",
+   "t": "A single sardine filled with chermoula and folded over on itself, instead of two sardines sandwiched together (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Merlans entiers : écaillés, vidés, farcis de chermoula, passés dans la farine tamisée et frits quelques minutes en les retournant, servis avec des quartiers de citron (Bladi, « Merlans frits »).",
+   "t": "Whole whiting: scaled, gutted, stuffed with chermoula, dipped in sifted flour and fried for a few minutes, turning them over, served with lemon wedges (Bladi, “Merlans frits”)."
+  },
+  "variants.3": {
+   "fr": "Chinchard entier enduit de marinade (persil, ail, cumin, paprika, citron) dehors et un peu dedans, puis fariné et frit (Bladi, « Poisson frits »).",
+   "t": "Whole horse mackerel coated with marinade (parsley, garlic, cumin, paprika, lemon) on the outside and a little inside, then floured and fried (Bladi, “Poisson frits”)."
+  },
+  "variants.4": {
+   "fr": "Chermoula au vinaigre au lieu du citron (Choumicha), ou plus piquante avec du piment fort (Choumicha) ou de la harissa (Taste of Maroc).",
+   "t": "Chermoula made with vinegar instead of lemon (Choumicha), or spicier with hot chilli (Choumicha) or harissa (Taste of Maroc)."
+  },
+  "variants.5": {
+   "fr": "Chermoula à l'huile d'olive (Taste of Maroc ; Cooking With Alia ; Bladi, « Chermoula pour le poisson »).",
+   "t": "Chermoula with olive oil (Taste of Maroc; Cooking With Alia; Bladi, “Chermoula pour le poisson”)."
+  },
+  "variants.6": {
+   "fr": "Chermoula du Nord : avec du thym, du poivre noir et beaucoup de persil plat (Taste of Maroc).",
+   "t": "Northern chermoula: with thyme, black pepper and plenty of flat-leaf parsley (Taste of Maroc)."
+  },
+  "variants.7": {
+   "fr": "Chermoula au citron confit (SBS, Ellie Bouhadana ; Taste of Maroc, en option).",
+   "t": "Chermoula with preserved lemon (SBS, Ellie Bouhadana; Taste of Maroc, as an option)."
+  },
+  "variants.8": {
+   "fr": "Enrobage farine et semoule (SBS, Ellie Bouhadana) ou farine et farine de blé dur (Taste of Maroc).",
+   "t": "A flour and semolina coating (SBS, Ellie Bouhadana) or flour and durum wheat flour (Taste of Maroc)."
+  },
+  "variants.9": {
+   "fr": "Beignets de sardines : sardines nettoyées, sans tête ni arête centrale, trempées dans une pâte (œuf, farine, huile, eau glacée) et frites 5 minutes par séries de quatre (Bladi).",
+   "t": "Sardine fritters: cleaned sardines, heads and backbones removed, dipped in a batter (egg, flour, oil, iced water) and fried for 5 minutes, four at a time (Bladi)."
+  },
+  "variants.10": {
+   "fr": "À El Jadida, les fritures de poissons font partie du f'tour du ramadan (Hespress, 2021).",
+   "t": "In El Jadida, fried fish is part of the Ramadan iftar (Hespress, 2021)."
+  }
+ }
+}

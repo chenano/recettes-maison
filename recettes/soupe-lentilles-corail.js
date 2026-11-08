@@ -159,15 +159,7 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare les légumes",
    "text": "Pèle et hache {{oignon:full}}. Pèle et râpe gros {{carotte:full}}. Pèle et coupe en petits dés {{pomme-de-terre:full}}.",
-   "timer": null,
-   "img": {
-    "src": "img/etapes/oignon-emince.jpg",
-    "alt": "Oignon émincé et ail écrasé sur une planche",
-    "caption": "Émincer l'oignon",
-    "w": 1000,
-    "h": 750,
-    "credit": "Photo de l'étape « Prépare les légumes » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
-   }
+   "timer": null
   },
   {
    "phase": "Cuisson",

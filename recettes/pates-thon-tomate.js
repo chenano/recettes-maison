@@ -124,15 +124,7 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Émince l'oignon",
    "text": "Pèle et émince très finement {{oignon:full}}.",
-   "timer": null,
-   "img": {
-    "src": "img/etapes/oignon-emince.jpg",
-    "alt": "Oignon émincé et ail écrasé sur une planche",
-    "caption": "Émincer l'oignon",
-    "w": 1000,
-    "h": 750,
-    "credit": "Photo de l'étape « Émince l'oignon » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
-   }
+   "timer": null
   },
   {
    "phase": "Préparation",

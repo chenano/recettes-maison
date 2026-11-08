@@ -1,0 +1,462 @@
+{
+ "_slug": "escalopes-poulet-panees",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Escalopes de poulet panées",
+   "t": "Breaded chicken escalopes"
+  },
+  "tagline": {
+   "fr": "Des escalopes de poulet bien fines, passées dans la farine, l'œuf et la chapelure, puis dorées à la poêle : croustillantes dehors, moelleuses dedans.",
+   "t": "Nice thin chicken escalopes, dipped in flour, egg and breadcrumbs, then browned in a frying pan: crisp outside, tender inside."
+  },
+  "region": {
+   "fr": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
+   "t": "France and Central Europe. Breading “à l'anglaise” (flour, egg, breadcrumbs) is a classic technique of French cooking (Escoffier, Chef Simon); the Viennese escalope (Wiener Schnitzel, Vienna) is its cousin, originally made with veal. Breaded chicken is also eaten in Egypt (“frakh pané”) and in Israel (Wikipedia)."
+  },
+  "occasion": {
+   "fr": "Dîner rapide des soirs de fatigue. Les enfants adorent l'escalope panée (Migusto, Betty Bossi).",
+   "t": "A quick dinner for tired evenings. Children love breaded escalopes (Migusto, Betty Bossi)."
+  },
+  "img_alt": {
+   "fr": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
+   "t": "Golden breaded chicken escalopes, with broccoli and potatoes"
+  },
+  "serving": {
+   "fr": "Tout de suite, avec du citron, en quartiers (Migusto, Diana Henry) ou en rondelles (Office du tourisme de Vienne). À côté : une salade verte, une salade de pommes de terre ou de concombre, ou des pommes de terre persillées, comme à Vienne ; on les sert aussi avec du riz ou des frites (Office du tourisme de Vienne, Migusto, Wikipédia). Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), réchauffés une seule fois jusqu'à être brûlants à cœur (FSA, Anses).",
+   "t": "Straight away, with lemon, in wedges (Migusto, Diana Henry) or in slices (Vienna Tourist Board). On the side: a green salad, a potato or cucumber salad, or parsley potatoes, as in Vienna; they are also served with rice or fries (Vienna Tourist Board, Migusto, Wikipedia). Leftovers: into the fridge within 2 hours (Anses, FSA), to be eaten within 2 days (FSA; Anses says less than 3 days for a cooked dish), reheated only once, until piping hot all the way through (FSA, Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Escalopes",
+   "t": "Escalopes"
+  },
+  "ing.escalopes.name": {
+   "fr": "escalope de poulet halal",
+   "t": "halal chicken escalope"
+  },
+  "ing.escalopes.pl": {
+   "fr": "escalopes de poulet halal",
+   "t": "halal chicken escalopes"
+  },
+  "ing.escalopes.note": {
+   "fr": "une par personne, de 100 à 150 g environ ; ou des blancs de poulet tranchés en deux dans l'épaisseur",
+   "t": "one per person, about 100 to 150 g each; or chicken breasts sliced in half horizontally"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.1.group": {
+   "fr": "Panure",
+   "t": "Coating"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "plain flour"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche ordinaire",
+   "t": "ordinary white flour"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.chapelure.name": {
+   "fr": "de chapelure",
+   "t": "breadcrumbs"
+  },
+  "ing.chapelure.note": {
+   "fr": "bien fine ; ou du pain rassis séché, mixé finement",
+   "t": "very fine; or dried stale bread, finely blitzed"
+  },
+  "ing.2.group": {
+   "fr": "Cuisson et service",
+   "t": "Cooking and serving"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "neutral oil"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, colza ou arachide : une huile qui supporte la chaleur",
+   "t": "sunflower, rapeseed or groundnut: an oil that can take the heat"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers, pour servir",
+   "t": "in wedges, to serve"
+  },
+  "equipment.0": {
+   "fr": "Une planche à découper réservée au poulet cru",
+   "t": "A chopping board kept for raw chicken only"
+  },
+  "equipment.1": {
+   "fr": "Un rouleau à pâtisserie ou un attendrisseur à viande",
+   "t": "A rolling pin or a meat mallet"
+  },
+  "equipment.2": {
+   "fr": "Du papier sulfurisé (ou du film alimentaire)",
+   "t": "Greaseproof paper (or cling film)"
+  },
+  "equipment.3": {
+   "fr": "Trois assiettes creuses",
+   "t": "Three deep plates"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle",
+   "t": "A large frying pan"
+  },
+  "equipment.5": {
+   "fr": "Une pince ou une spatule",
+   "t": "Tongs or a spatula"
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant et un plat qui va au four",
+   "t": "Kitchen paper and an ovenproof dish"
+  },
+  "equipment.7": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "A cooking thermometer (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Installe les trois assiettes",
+   "t": "Set out the three plates"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{farine}} de farine dans une première assiette creuse, avec un peu de {{sel}} et de {{poivre}}. Casse {{oeufs:full}} dans la deuxième, ajoute un peu de sel et bats juste à la fourchette. Verse {{chapelure}} de chapelure dans la troisième.",
+   "t": "Put {{farine}} flour in the first deep plate, with a little {{sel}} and {{poivre}}. Crack {{oeufs:full}} into the second, add a little salt and just beat with a fork. Tip {{chapelure}} breadcrumbs into the third."
+  },
+  "steps.0.tip": {
+   "fr": "Ne bats pas trop les œufs : battus trop longtemps, ils deviennent trop liquides (recette du Wiener Schnitzel de l'Office du tourisme de Vienne).",
+   "t": "Don't overbeat the eggs: beaten for too long, they become too runny (Wiener Schnitzel recipe from the Vienna Tourist Board)."
+  },
+  "steps.1.title": {
+   "fr": "Aplatis les escalopes",
+   "t": "Flatten the escalopes"
+  },
+  "steps.1.text": {
+   "fr": "Aplatis {{escalopes:full}} : pose la viande entre deux feuilles de papier sulfurisé et tape-la au rouleau à pâtisserie, sans la déchirer, jusqu'à environ 5 mm d'épaisseur, bien régulière.",
+   "t": "Flatten {{escalopes:full}}: put the meat between two sheets of greaseproof paper and beat it with the rolling pin, without tearing it, to about 5 mm thick, nice and even."
+  },
+  "steps.1.tip": {
+   "fr": "Tu as des blancs entiers ? Tranche-les d'abord en deux dans l'épaisseur, la main bien à plat dessus, avant de les aplatir (Chef Simon).",
+   "t": "Got whole breasts? First slice them in half horizontally, with your hand flat on top, before flattening them (Chef Simon)."
+  },
+  "steps.2.title": {
+   "fr": "Sèche et assaisonne",
+   "t": "Dry and season"
+  },
+  "steps.2.text": {
+   "fr": "Éponge la viande avec du papier absorbant, puis sale-la et poivre-la des deux côtés.",
+   "t": "Pat the meat dry with kitchen paper, then season it with salt and pepper on both sides."
+  },
+  "steps.2.tip": {
+   "fr": "Ne lave pas le poulet cru : l'eau projette ses bactéries sur tes mains, le plan de travail et les ustensiles, et seule la cuisson les détruit (FSA, agence sanitaire britannique).",
+   "t": "Don't wash raw chicken: the water splashes its bacteria onto your hands, the worktop and the utensils, and only cooking kills them (FSA, the UK food safety agency)."
+  },
+  "steps.3.title": {
+   "fr": "Passe-les dans la farine",
+   "t": "Coat them in flour"
+  },
+  "steps.3.text": {
+   "fr": "Passe une escalope dans la farine, des deux côtés. Secoue-la pour faire tomber le surplus.",
+   "t": "Coat an escalope in the flour on both sides. Shake it to remove the excess."
+  },
+  "steps.4.title": {
+   "fr": "Puis dans l'œuf",
+   "t": "Then dip in the egg"
+  },
+  "steps.4.text": {
+   "fr": "Trempe-la dans l'œuf battu, des deux côtés. Laisse égoutter le surplus au-dessus de l'assiette.",
+   "t": "Dip it in the beaten egg on both sides. Let the excess drip off over the plate."
+  },
+  "steps.5.title": {
+   "fr": "Puis dans la chapelure",
+   "t": "Then coat in the breadcrumbs"
+  },
+  "steps.5.text": {
+   "fr": "Pose-la dans la chapelure, retourne-la et presse légèrement pour que la chapelure tienne bien. Pose-la sur un plat, puis pane les autres escalopes de la même façon, s'il y en a. Lave-toi ensuite les mains au savon.",
+   "t": "Lay it in the breadcrumbs, turn it over and press lightly so that the crumbs stick well. Put it on a dish, then coat any other escalopes the same way. Then wash your hands with soap."
+  },
+  "steps.5.tip": {
+   "fr": "Pane juste avant de cuire : si elle attend, la panure prend l'humidité et se détache à la cuisson (Betty Bossi, Migusto).",
+   "t": "Coat just before cooking: if it waits, the coating absorbs moisture and comes away during cooking (Betty Bossi, Migusto)."
+  },
+  "steps.6.title": {
+   "fr": "Chauffe l'huile",
+   "t": "Heat the oil"
+  },
+  "steps.6.text": {
+   "fr": "Verse {{huile}} d'huile dans la grande poêle (une petite poêle si tu ne cuis qu'une escalope, pour que l'huile monte assez haut) et chauffe-la à feu moyen-vif, vers 170 °C. Sans thermomètre, plonge une brochette ou un manche en bois dans l'huile : quand de petites bulles se forment tout autour, elle est prête. À partir de maintenant, ne quitte plus la poêle.",
+   "t": "Pour {{huile}} oil into the large frying pan (a small pan if you are cooking only one escalope, so that the oil comes high enough) and heat it over medium-high heat, to about 170 °C. Without a thermometer, dip a wooden skewer or a wooden handle into the oil: when small bubbles form all around it, it is ready. From now on, don't leave the pan."
+  },
+  "steps.6.tip": {
+   "fr": "Si l'huile fume, elle est trop chaude : coupe le feu et laisse-la refroidir un peu (conseils incendie du gouvernement britannique).",
+   "t": "If the oil smokes, it is too hot: turn off the heat and let it cool a little (UK government fire safety advice)."
+  },
+  "steps.7.title": {
+   "fr": "Dore la première face",
+   "t": "Brown the first side"
+  },
+  "steps.7.text": {
+   "fr": "Dépose délicatement les escalopes dans l'huile chaude, deux au plus à la fois. Laisse-les dorer 4 minutes environ, à feu moyen, sans les toucher.",
+   "t": "Carefully lay the escalopes in the hot oil, two at a time at most. Let them brown for about 4 minutes, over medium heat, without touching them."
+  },
+  "steps.7.tip": {
+   "fr": "Pendant ce temps, arrose le dessus d'un peu d'huile chaude, à la cuillère : la panure sera plus croustillante (Betty Bossi ; Migusto incline la poêle pour la même raison).",
+   "t": "Meanwhile, spoon a little hot oil over the top: the coating will be crisper (Betty Bossi; Migusto tilts the pan for the same reason)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Première face",
+   "t": "First side"
+  },
+  "steps.7.timer.done": {
+   "fr": "Retourne les escalopes.",
+   "t": "Turn the escalopes over."
+  },
+  "steps.8.title": {
+   "fr": "Retourne-les",
+   "t": "Turn them over"
+  },
+  "steps.8.text": {
+   "fr": "Retourne les escalopes avec la pince et laisse dorer l'autre face 4 minutes environ. La panure doit être bien dorée, pas brune.",
+   "t": "Turn the escalopes over with the tongs and let the other side brown for about 4 minutes. The coating should be golden, not brown."
+  },
+  "steps.8.timer.label": {
+   "fr": "Deuxième face",
+   "t": "Second side"
+  },
+  "steps.8.timer.done": {
+   "fr": "Vérifie la cuisson.",
+   "t": "Check that they are cooked."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Check that they are cooked"
+  },
+  "steps.9.text": {
+   "fr": "Coupe la plus épaisse en son milieu : la chair doit être blanche, sans aucune trace de rose, et le jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C. Sinon, baisse le feu et prolonge de quelques minutes.",
+   "t": "Cut the thickest one through the middle: the meat should be white, with no trace of pink, and the juices clear. With a thermometer, the centre should reach at least 75 °C. If not, turn the heat down and cook for a few more minutes."
+  },
+  "steps.9.tip": {
+   "fr": "L'Anses recommande une cuisson à cœur de 70 °C pour la volaille ; la FSA, 75 °C pendant 30 secondes (ou 70 °C pendant 2 minutes).",
+   "t": "Anses recommends a core temperature of 70 °C for poultry; the FSA, 75 °C for 30 seconds (or 70 °C for 2 minutes)."
+  },
+  "steps.10.title": {
+   "fr": "Égoutte et garde au chaud",
+   "t": "Drain and keep warm"
+  },
+  "steps.10.text": {
+   "fr": "Pose les escalopes cuites sur du papier absorbant, puis dans un plat propre, au four doux (60 à 80 °C), pendant que tu cuis les autres, s'il en reste. N'utilise pas le plat du poulet cru.",
+   "t": "Put the cooked escalopes on kitchen paper, then in a clean dish in a low oven (60 to 80 °C) while you cook any remaining ones. Don't use the dish that held the raw chicken."
+  },
+  "steps.11.title": {
+   "fr": "Cuis les autres",
+   "t": "Cook the rest"
+  },
+  "steps.11.text": {
+   "fr": "S'il reste des escalopes, fais-les cuire de la même façon, deux au plus à la fois, et vérifie aussi leur cuisson.",
+   "t": "If there are escalopes left, cook them the same way, two at a time at most, and check that they are cooked too."
+  },
+  "steps.12.title": {
+   "fr": "Coupe le feu",
+   "t": "Turn off the heat"
+  },
+  "steps.12.text": {
+   "fr": "Éteins le feu dès la dernière escalope sortie. Laisse l'huile refroidir complètement dans la poêle avant de la déplacer, de la filtrer ou de la jeter.",
+   "t": "Turn off the heat as soon as the last escalope is out. Let the oil cool completely in the pan before moving it, straining it or throwing it away."
+  },
+  "steps.12.tip": {
+   "fr": "Jette ce qui reste de farine, d'œuf et de chapelure : ils ont touché le poulet cru (la FSA rappelle que ses bactéries passent sur ce qu'il touche).",
+   "t": "Throw away any leftover flour, egg and breadcrumbs: they have touched the raw chicken (the FSA points out that its bacteria spread to whatever it touches)."
+  },
+  "steps.13.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve straight away"
+  },
+  "steps.13.text": {
+   "fr": "Sers les escalopes tout de suite, bien chaudes, avec {{citron:full}} en quartiers.",
+   "t": "Serve the escalopes immediately, piping hot, with {{citron:full}} cut into wedges."
+  },
+  "steps.13.tip": {
+   "fr": "Une escalope de volaille panée n'attend pas, sinon elle durcit : sers-la aussitôt, moelleuse et brûlante (Escoffier).",
+   "t": "A breaded poultry escalope won't wait, or it toughens: serve it at once, tender and piping hot (Escoffier)."
+  },
+  "secrets.0.text": {
+   "fr": "Aplatis les escalopes à une épaisseur régulière, environ 5 mm : elles cuisent vite et partout pareil.",
+   "t": "Flatten the escalopes to an even thickness, about 5 mm: they cook quickly and evenly."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Bossi (les escalopes du boucher font environ 5 mm), Ben Tish (Great British Chefs, 0,5 cm), Chef Simon, Migusto, Diana Henry (BBC Good Food)",
+   "t": "Betty Bossi (butcher's escalopes are about 5 mm thick), Ben Tish (Great British Chefs, 0.5 cm), Chef Simon, Migusto, Diana Henry (BBC Good Food)"
+  },
+  "secrets.1.text": {
+   "fr": "Incise très légèrement la surface de la viande avant de l'aplatir : elle se laisse mieux battre et se rétracte moins à la cuisson.",
+   "t": "Score the surface of the meat very lightly before flattening it: it is easier to beat out and shrinks less as it cooks."
+  },
+  "secrets.1.source": {
+   "fr": "Chef Simon (escalope panée à l'anglaise ; tailler et aplatir une escalope de volaille)",
+   "t": "Chef Simon (escalope breaded “à l'anglaise”; cutting and flattening a poultry escalope)"
+  },
+  "secrets.2.text": {
+   "fr": "L'ordre farine, œuf, chapelure a une raison : la farine sèche la surface pour que l'œuf accroche, et l'œuf colle la chapelure.",
+   "t": "The order flour, egg, breadcrumbs has a reason: the flour dries the surface so that the egg clings, and the egg glues on the breadcrumbs."
+  },
+  "secrets.2.source": {
+   "fr": "Betty Bossi (« Paner ») ; Chef Simon (lexique « Paner » : panure à l'anglaise)",
+   "t": "Betty Bossi (“Paner”); Chef Simon (glossary entry “Paner”: breading “à l'anglaise”)"
+  },
+  "secrets.3.text": {
+   "fr": "Secoue l'excédent de farine et laisse égoutter l'œuf : la panure reste fine, régulière, et ne se détache pas.",
+   "t": "Shake off the excess flour and let the egg drip off: the coating stays thin and even, and doesn't come away."
+  },
+  "secrets.3.source": {
+   "fr": "Migusto (« Paner une escalope »), Betty Bossi, Chef Simon, Ben Tish (Great British Chefs)",
+   "t": "Migusto (“Paner une escalope”), Betty Bossi, Chef Simon, Ben Tish (Great British Chefs)"
+  },
+  "secrets.4.text": {
+   "fr": "L'huile doit être bien chaude avant d'y mettre les escalopes : trop froide, la panure boit l'huile et ne croustille pas.",
+   "t": "The oil must be properly hot before the escalopes go in: if it is too cold, the coating soaks up the oil and doesn't crisp."
+  },
+  "secrets.4.source": {
+   "fr": "Betty Bossi (« Paner ») ; Migusto (« La friture »)",
+   "t": "Betty Bossi (“Paner”); Migusto (“La friture”)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas plus de deux escalopes à la fois : trop chargée, la poêle refroidit et la panure devient molle.",
+   "t": "No more than two escalopes at a time: overloaded, the pan cools down and the coating goes soft."
+  },
+  "secrets.5.source": {
+   "fr": "Betty Bossi (« Frire »), Great British Chefs (GBC Kitchen), Journal des Femmes (la rédaction cuit les escalopes deux par deux)",
+   "t": "Betty Bossi (“Frire”), Great British Chefs (GBC Kitchen), Journal des Femmes (the editorial team cooks the escalopes two at a time)"
+  },
+  "secrets.6.text": {
+   "fr": "Arrose le dessus avec l'huile chaude pendant la cuisson, ou incline doucement la poêle : la panure gonfle et croustille.",
+   "t": "Baste the top with the hot oil as they cook, or gently tilt the pan: the coating puffs up and crisps."
+  },
+  "secrets.6.source": {
+   "fr": "Betty Bossi (« Paner ») ; Migusto (escalopes viennoises) ; Office du tourisme de Vienne (recette du Sacher)",
+   "t": "Betty Bossi (“Paner”); Migusto (Viennese escalopes); Vienna Tourist Board (Sacher recipe)"
+  },
+  "secrets.7.text": {
+   "fr": "Égoutte les escalopes sur du papier absorbant dès leur sortie de la poêle.",
+   "t": "Drain the escalopes on kitchen paper as soon as they come out of the pan."
+  },
+  "secrets.7.source": {
+   "fr": "Office du tourisme de Vienne, Migusto, Great British Chefs, Cyril Lignac (cité par le Journal des Femmes)",
+   "t": "Vienna Tourist Board, Migusto, Great British Chefs, Cyril Lignac (quoted by the Journal des Femmes)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour le goût du beurre, prends du beurre clarifié : le beurre ordinaire commence à fumer vers 130 à 150 °C, le beurre clarifié vers 250 °C seulement.",
+   "t": "For a buttery flavour, use clarified butter: ordinary butter starts to smoke at around 130 to 150 °C, clarified butter only at around 250 °C."
+  },
+  "secrets.8.source": {
+   "fr": "Chef Simon (lexique « Beurre clarifié ») ; Escoffier et Cyril Lignac cuisent leurs escalopes panées au beurre clarifié",
+   "t": "Chef Simon (glossary entry “Beurre clarifié”); Escoffier and Cyril Lignac cook their breaded escalopes in clarified butter"
+  },
+  "secrets.9.text": {
+   "fr": "Prends une chapelure bien fine, comme le demande la recette viennoise ; la chapelure maison se fait avec du pain rassis séché, mixé puis tamisé.",
+   "t": "Use very fine breadcrumbs, as the Viennese recipe requires; homemade breadcrumbs are made from dried stale bread, blitzed and then sieved."
+  },
+  "secrets.9.source": {
+   "fr": "Office du tourisme de Vienne (chapelure « très finement râpée ») ; Larousse et Chef Simon (définition de la chapelure)",
+   "t": "Vienna Tourist Board (breadcrumbs “very finely grated”); Larousse and Chef Simon (definition of breadcrumbs)"
+  },
+  "secrets.10.text": {
+   "fr": "Les cuisses de poulet désossées, aplaties de la même façon, donnent des escalopes plus juteuses que le blanc.",
+   "t": "Boneless chicken thighs, flattened the same way, make juicier escalopes than breast."
+  },
+  "secrets.10.source": {
+   "fr": "Diana Henry (BBC Good Food)",
+   "t": "Diana Henry (BBC Good Food)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "Washing raw chicken: it splashes bacteria everywhere, and only cooking kills them (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Décongeler le poulet sur le plan de travail : décongèle-le au réfrigérateur ou au micro-ondes (Anses).",
+   "t": "Defrosting chicken on the worktop: defrost it in the fridge or in the microwave (Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Paner longtemps à l'avance : la panure se ramollit et se détache (Betty Bossi).",
+   "t": "Coating long in advance: the coating goes soft and comes away (Betty Bossi)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre les escalopes dans une huile pas assez chaude : elles boivent l'huile (Betty Bossi, Migusto).",
+   "t": "Putting the escalopes into oil that isn't hot enough: they soak up the oil (Betty Bossi, Migusto)."
+  },
+  "mistakes.4": {
+   "fr": "Remplir la poêle : l'huile refroidit et la panure devient molle (Betty Bossi, Great British Chefs).",
+   "t": "Overfilling the pan: the oil cools down and the coating goes soft (Betty Bossi, Great British Chefs)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la poêle d'huile sans surveillance (BPA, gouvernement britannique).",
+   "t": "Leaving the pan of oil unattended (BPA, UK government)."
+  },
+  "mistakes.6": {
+   "fr": "Jeter de l'eau sur de l'huile en feu : jamais. Coupe le feu si tu peux le faire sans risque ; le BPA conseille d'étouffer les flammes avec un couvercle ou une couverture anti-feu, le gouvernement britannique de ne pas affronter le feu soi-même. Si le feu prend, sors, reste dehors et appelle les secours (gouvernement britannique).",
+   "t": "Throwing water on burning oil: never. Turn off the heat if you can do so safely; the BPA advises smothering the flames with a lid or a fire blanket, the UK government advises not tackling the fire yourself. If a fire starts, get out, stay out and call the emergency services (UK government)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser brunir la panure : vise une couleur jaune doré, comme la FSA le conseille pour les aliments riches en amidon frits, dont le pain (FSA, Betty Bossi).",
+   "t": "Letting the coating go brown: aim for a golden yellow colour, as the FSA advises for fried starchy foods, including bread (FSA, Betty Bossi)."
+  },
+  "mistakes.8": {
+   "fr": "Servir sans vérifier que le cœur est bien cuit (Anses, FSA).",
+   "t": "Serving without checking that the centre is properly cooked (Anses, FSA)."
+  },
+  "mistakes.9": {
+   "fr": "Reposer les escalopes cuites dans le plat du poulet cru (Anses).",
+   "t": "Putting the cooked escalopes back in the dish that held the raw chicken (Anses)."
+  },
+  "variants.0": {
+   "fr": "Façon milanaise : mélange du parmesan râpé à la chapelure (Chef Simon : un tiers de parmesan ; la rédaction du Journal des Femmes en met avec du persil). Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "t": "Milanese style: mix grated parmesan into the breadcrumbs (Chef Simon: one third parmesan; the Journal des Femmes editorial team adds it with parsley). If you want to be strict: cheese made with microbial coagulant, no animal rennet."
+  },
+  "variants.1": {
+   "fr": "Au panko, la chapelure japonaise (Great British Chefs, Ben Tish ; Betty Bossi la propose aussi).",
+   "t": "With panko, Japanese breadcrumbs (Great British Chefs, Ben Tish; Betty Bossi suggests it too)."
+  },
+  "variants.2": {
+   "fr": "Double panure : repasse l'escalope déjà panée dans l'œuf, puis dans la chapelure, pour une croûte plus épaisse (Betty Bossi, Ben Tish).",
+   "t": "Double coating: dip the already coated escalope in the egg again, then in the breadcrumbs, for a thicker crust (Betty Bossi, Ben Tish)."
+  },
+  "variants.3": {
+   "fr": "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
+   "t": "Lighter, Cyril Lignac's way: just frothy egg whites, no flour, and breadcrumbs mixed with crushed peanuts and a little tandoori spice; the coated escalopes rest for 30 minutes in the fridge before cooking (Journal des Femmes, 2024)."
+  },
+  "variants.4": {
+   "fr": "Façon israélienne : chapelure relevée de paprika ou de graines de sésame, cuisson à l'huile végétale (Wikipédia).",
+   "t": "Israeli style: breadcrumbs spiced up with paprika or sesame seeds, fried in vegetable oil (Wikipedia)."
+  },
+  "variants.5": {
+   "fr": "Holstein : un œuf au plat posé sur chaque escalope (Chef Simon, qui ajoute des filets d'anchois).",
+   "t": "Holstein: a fried egg on each escalope (Chef Simon, who adds anchovy fillets)."
+  },
+  "variants.6": {
+   "fr": "Avec des cuisses de poulet désossées, plus juteuses, et un beurre noisette aux câpres (Diana Henry, BBC Good Food).",
+   "t": "With boneless chicken thighs, which are juicier, and brown butter with capers (Diana Henry, BBC Good Food)."
+  },
+  "variants.7": {
+   "fr": "Au beurre clarifié, comme Escoffier, Chef Simon et Cyril Lignac, à la place de l'huile.",
+   "t": "With clarified butter instead of oil, like Escoffier, Chef Simon and Cyril Lignac."
+  }
+ }
+}

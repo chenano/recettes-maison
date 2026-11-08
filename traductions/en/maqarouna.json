@@ -1,0 +1,562 @@
+{
+ "_slug": "maqarouna",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Macaronis à la marocaine",
+   "t": "Moroccan-style macaroni"
+  },
+  "darija": {
+   "fr": "Maqarouna (ma9arouna)",
+   "t": "Maqarouna (ma9arouna)"
+  },
+  "tagline": {
+   "fr": "Des macaronis mêlés à une sauce tomate à la kefta et aux épices marocaines, couverts de béchamel et de fromage, puis dorés au four. Un gratin familial qu'on retrouve dans plusieurs recettes marocaines en darija.",
+   "t": "Macaroni mixed with a tomato and kefta sauce with Moroccan spices, covered with béchamel and cheese, then browned in the oven. A family pasta bake found in several Moroccan recipes written in Darija (Moroccan Arabic)."
+  },
+  "region": {
+   "fr": "Cuisine familiale marocaine (recettes en darija publiées sur Lalla Moulati ; Cooking With Alia)",
+   "t": "Moroccan home cooking (recipes in Darija published on Lalla Moulati; Cooking With Alia)"
+  },
+  "occasion": {
+   "fr": "Plat familial de midi ou du soir",
+   "t": "A family dish for lunch or dinner"
+  },
+  "img_alt": {
+   "fr": "Gratin de macaronis à la viande hachée sous une béchamel dorée (photo d'un pastitsio grec, plat très proche)",
+   "t": "Macaroni and minced meat bake under a golden béchamel (photo of a Greek pastitsio, a very similar dish)"
+  },
+  "serving": {
+   "fr": "Sers chaud, à la sortie du four (Lalla Moulati, 2014 et 2019), après quelques minutes de repos (Lalla Moulati, 2023), avec une salade verte ou d'autres salades (Lalla Moulati, 2019 et 2023).",
+   "t": "Serve hot, straight from the oven (Lalla Moulati, 2014 and 2019), after a few minutes' rest (Lalla Moulati, 2023), with a green salad or other salads (Lalla Moulati, 2019 and 2023)."
+  },
+  "ing.0.group": {
+   "fr": "Pâtes",
+   "t": "Pasta"
+  },
+  "ing.pates.name": {
+   "fr": "de macaronis",
+   "t": "macaroni"
+  },
+  "ing.pates.note": {
+   "fr": "ou d'autres pâtes courtes",
+   "t": "or other short pasta"
+  },
+  "ing.eau-pates.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.sel-pates.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel-pates.note": {
+   "fr": "pour l'eau des pâtes",
+   "t": "for the pasta water"
+  },
+  "ing.huile-pates.name": {
+   "fr": "huile",
+   "t": "oil"
+  },
+  "ing.huile-pates.note": {
+   "fr": "un filet, facultatif",
+   "t": "a drizzle, optional"
+  },
+  "ing.1.group": {
+   "fr": "Sauce à la kefta",
+   "t": "Kefta sauce"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile",
+   "t": "oil"
+  },
+  "ing.huile.note": {
+   "fr": "de table ou d'olive",
+   "t": "neutral oil (sunflower) or olive oil"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.kefta.name": {
+   "fr": "de kefta (bœuf haché)",
+   "t": "kefta (minced beef)"
+  },
+  "ing.kefta.note": {
+   "fr": "halal",
+   "t": "halal"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher",
+   "t": "to be chopped"
+  },
+  "ing.carotte.name": {
+   "fr": "carotte",
+   "t": "carrot"
+  },
+  "ing.carotte.pl": {
+   "fr": "carottes",
+   "t": "carrots"
+  },
+  "ing.carotte.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "tomato purée"
+  },
+  "ing.persil.name": {
+   "fr": "de persil haché",
+   "t": "chopped parsley"
+  },
+  "ing.persil.note": {
+   "fr": "ou persil et coriandre",
+   "t": "or parsley and coriander"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust to taste"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.gingembre.name": {
+   "fr": "gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.gingembre.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.curcuma.name": {
+   "fr": "curcuma",
+   "t": "turmeric"
+  },
+  "ing.curcuma.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.paprika.name": {
+   "fr": "paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.paprika.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.cumin.name": {
+   "fr": "cumin",
+   "t": "cumin"
+  },
+  "ing.cumin.note": {
+   "fr": "un peu",
+   "t": "a little"
+  },
+  "ing.thym.name": {
+   "fr": "de thym séché",
+   "t": "dried thyme"
+  },
+  "ing.thym.note": {
+   "fr": "pas plus",
+   "t": "no more"
+  },
+  "ing.2.group": {
+   "fr": "Béchamel",
+   "t": "Béchamel"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "plain flour"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "milk"
+  },
+  "ing.sel-bech.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.poivre-bech.name": {
+   "fr": "poivre noir",
+   "t": "black pepper"
+  },
+  "ing.muscade.name": {
+   "fr": "noix de muscade râpée",
+   "t": "grated nutmeg"
+  },
+  "ing.muscade.note": {
+   "fr": "une pointe",
+   "t": "a hint"
+  },
+  "ing.3.group": {
+   "fr": "Gratin",
+   "t": "Gratin"
+  },
+  "ing.beurre-plat.name": {
+   "fr": "beurre",
+   "t": "butter"
+  },
+  "ing.beurre-plat.note": {
+   "fr": "pour graisser le plat",
+   "t": "to grease the dish"
+  },
+  "ing.fromage.name": {
+   "fr": "de fromage râpé",
+   "t": "grated cheese"
+  },
+  "ing.fromage.note": {
+   "fr": "si tu veux être strict sur le halal : fromage certifié halal ; à défaut, à coagulant microbien, sans présure ni autre enzyme animale",
+   "t": "if you want to be strict about halal: certified halal cheese; failing that, cheese made with microbial coagulant, with no rennet or other animal enzymes"
+  },
+  "equipment.0": {
+   "fr": "Grand faitout pour cuire les pâtes",
+   "t": "Large stockpot for cooking the pasta"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Colander"
+  },
+  "equipment.2": {
+   "fr": "Grande poêle profonde ou sauteuse",
+   "t": "Large deep frying pan or sauté pan"
+  },
+  "equipment.3": {
+   "fr": "Petite casserole pour la béchamel",
+   "t": "Small saucepan for the béchamel"
+  },
+  "equipment.4": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "equipment.5": {
+   "fr": "Râpe",
+   "t": "Grater"
+  },
+  "equipment.6": {
+   "fr": "Plat à gratin",
+   "t": "Gratin dish"
+  },
+  "equipment.7": {
+   "fr": "Four",
+   "t": "Oven"
+  },
+  "steps.0.title": {
+   "fr": "Râpe et hache les légumes",
+   "t": "Grate and chop the vegetables"
+  },
+  "steps.0.text": {
+   "fr": "Râpe {{oignon:full}} et {{carotte:full}}. Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{ail:full}} et {{persil}} de persil.",
+   "t": "Grate {{oignon:full}} and {{carotte:full}}. Cut {{tomates}} of tomatoes in half and grate the flesh; discard the skin. Chop {{ail:full}} and {{persil}} parsley."
+  },
+  "steps.0.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Tomato grated on a grater"
+  },
+  "steps.0.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Soften the onion"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande poêle profonde, chauffe {{huile}} d'huile à feu doux. Ajoute l'oignon râpé et remue jusqu'à ce qu'il soit tendre.",
+   "t": "In a large deep frying pan, heat {{huile}} oil over low heat. Add the grated onion and stir until it is soft."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute la kefta",
+   "t": "Add the kefta"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{kefta}} de kefta. Émiette-la à la cuillère en bois et fais-la revenir à feu doux en remuant, jusqu'à ce qu'elle soit bien revenue.",
+   "t": "Add {{kefta}} kefta. Break it up with the wooden spoon and fry it over low heat, stirring, until it is well browned."
+  },
+  "steps.2.tip": {
+   "fr": "La viande hachée doit atteindre 71 °C à cœur : vérifie au thermomètre si tu en as un (FDA).",
+   "t": "Minced meat must reach 71 °C in the centre: check with a thermometer if you have one (FDA)."
+  },
+  "steps.3.title": {
+   "fr": "Ajoute tomates et épices",
+   "t": "Add the tomatoes and spices"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute l'ail, la carotte, les tomates râpées et {{concentre}} de concentré de tomate. Assaisonne avec {{sel}} de sel, puis du {{poivre}}, du {{gingembre}}, du {{curcuma}}, du {{paprika}}, un peu de {{cumin}} et {{thym}} de thym. Ajoute le persil et mélange.",
+   "t": "Add the garlic, carrot, grated tomatoes and {{concentre}} tomato purée. Season with {{sel}} salt, then {{poivre}}, {{gingembre}}, {{curcuma}}, {{paprika}}, a little {{cumin}} and {{thym}} of thyme. Add the parsley and mix."
+  },
+  "steps.4.title": {
+   "fr": "Fais réduire la sauce",
+   "t": "Reduce the sauce"
+  },
+  "steps.4.text": {
+   "fr": "Laisse cuire à feu doux en remuant de temps en temps, jusqu'à ce que la sauce soit épaisse et qu'il ne reste presque plus d'eau. Goûte et rectifie le sel.",
+   "t": "Cook over low heat, stirring from time to time, until the sauce is thick and almost no water is left. Taste and adjust the salt."
+  },
+  "steps.5.title": {
+   "fr": "Fais cuire les macaronis",
+   "t": "Cook the macaroni"
+  },
+  "steps.5.text": {
+   "fr": "Pendant ce temps, porte à ébullition {{eau-pates}} d'eau avec du {{sel-pates}} et, si tu veux, un filet d'{{huile-pates}}. Verse {{pates}} de macaronis et fais-les cuire le temps indiqué sur le paquet, en remuant de temps en temps.",
+   "t": "Meanwhile, bring {{eau-pates}} of water to the boil with some {{sel-pates}} and, if you like, a drizzle of {{huile-pates}}. Tip in {{pates}} macaroni and cook for the time shown on the packet, stirring from time to time."
+  },
+  "steps.6.title": {
+   "fr": "Égoutte les pâtes",
+   "t": "Drain the pasta"
+  },
+  "steps.6.text": {
+   "fr": "Égoutte les macaronis dans une passoire et garde-les de côté.",
+   "t": "Drain the macaroni in a colander and set aside."
+  },
+  "steps.7.title": {
+   "fr": "Préchauffe le four",
+   "t": "Preheat the oven"
+  },
+  "steps.7.text": {
+   "fr": "Préchauffe le four à 180 °C (four moyen). Beurre un plat à gratin avec un peu de {{beurre-plat}}.",
+   "t": "Preheat the oven to 180 °C (moderate oven). Butter a gratin dish with a little {{beurre-plat}}."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la béchamel",
+   "t": "Make the béchamel"
+  },
+  "steps.8.text": {
+   "fr": "Dans une petite casserole, à feu doux, fais fondre {{beurre}} de beurre. Ajoute {{farine}} de farine et remue. Verse {{lait}} de lait petit à petit, sans cesser de remuer, jusqu'à ce que la sauce épaississe. Ajoute du {{sel-bech}}, du {{poivre-bech}} et une pointe de {{muscade}}, puis retire du feu.",
+   "t": "In a small saucepan over low heat, melt {{beurre}} butter. Add {{farine}} flour and stir. Pour in {{lait}} of milk little by little, stirring constantly, until the sauce thickens. Add some {{sel-bech}}, {{poivre-bech}} and a hint of {{muscade}}, then remove from the heat."
+  },
+  "steps.9.title": {
+   "fr": "Mélange pâtes et sauce",
+   "t": "Mix the pasta and sauce"
+  },
+  "steps.9.text": {
+   "fr": "Verse les macaronis dans la sauce à la kefta et mélange bien.",
+   "t": "Tip the macaroni into the kefta sauce and mix well."
+  },
+  "steps.10.title": {
+   "fr": "Monte le gratin",
+   "t": "Assemble the gratin"
+  },
+  "steps.10.text": {
+   "fr": "Étale la moitié des pâtes dans le plat. Nappe-les d'une partie de la béchamel et parsème la moitié de {{fromage}} de fromage râpé. Ajoute le reste des pâtes, puis le reste de la béchamel et le reste du fromage.",
+   "t": "Spread half the pasta in the dish. Cover it with some of the béchamel and sprinkle over half of the {{fromage}} of grated cheese. Add the rest of the pasta, then the rest of the béchamel and the rest of the cheese."
+  },
+  "steps.11.title": {
+   "fr": "Fais gratiner",
+   "t": "Bake until golden"
+  },
+  "steps.11.text": {
+   "fr": "Enfourne jusqu'à ce que le dessus soit bien doré et le centre bien chaud : 74 °C (165 °F) au thermomètre si tu en as un (FDA). Regarde au bout de 10 minutes et prolonge si besoin, en surveillant.",
+   "t": "Bake until the top is nicely golden and the centre is piping hot: 74 °C (165 °F) on a thermometer if you have one (FDA). Check after 10 minutes and cook longer if needed, keeping an eye on it."
+  },
+  "steps.11.timer.label": {
+   "fr": "Gratin au four",
+   "t": "Gratin in the oven"
+  },
+  "steps.11.timer.done": {
+   "fr": "Le dessus est-il bien doré ? Sinon, laisse encore quelques minutes en surveillant.",
+   "t": "Is the top nicely golden? If not, give it a few more minutes, keeping an eye on it."
+  },
+  "steps.12.title": {
+   "fr": "Sers chaud",
+   "t": "Serve hot"
+  },
+  "steps.12.text": {
+   "fr": "Laisse reposer quelques minutes, puis sers chaud, avec une salade verte.",
+   "t": "Leave to rest for a few minutes, then serve hot, with a green salad."
+  },
+  "secrets.0.text": {
+   "fr": "Râpe l'oignon, la carotte et les tomates : plusieurs recettes marocaines de maqarouna à la kefta le font (l'oignon y est parfois seulement haché).",
+   "t": "Grate the onion, carrot and tomatoes: several Moroccan recipes for maqarouna with kefta do so (the onion is sometimes just chopped)."
+  },
+  "secrets.0.source": {
+   "fr": "Lalla Moulati : oignon râpé (30 septembre 2015, dans les boulettes ; 23 juillet 2019 ; simplement haché le 10 novembre 2014), carotte râpée (10 novembre 2014 ; 27 décembre 2014 ; 30 septembre 2015), tomates râpées (2015 ; 2019)",
+   "t": "Lalla Moulati: grated onion (30 September 2015, in the meatballs; 23 July 2019; simply chopped on 10 November 2014), grated carrot (10 November 2014; 27 December 2014; 30 September 2015), grated tomatoes (2015; 2019)"
+  },
+  "secrets.1.text": {
+   "fr": "Laisse cuire la sauce jusqu'à ce qu'il ne reste presque plus d'eau avant de la mêler aux pâtes.",
+   "t": "Let the sauce cook until almost no water is left before mixing it with the pasta."
+  },
+  "secrets.1.source": {
+   "fr": "Lalla Moulati (27 décembre 2014 : « يطيب وينشف من الماء »)",
+   "t": "Lalla Moulati (27 December 2014: “يطيب وينشف من الماء”)"
+  },
+  "secrets.2.text": {
+   "fr": "Les épices marocaines de la kefta : sel, poivre (ibzar), gingembre (skinjbir), curcuma (kharqoum), paprika (tahmira) et un peu de cumin.",
+   "t": "The Moroccan spices for the kefta: salt, pepper (ibzar), ginger (skinjbir), turmeric (kharqoum), paprika (tahmira) and a little cumin."
+  },
+  "secrets.2.source": {
+   "fr": "Lalla Moulati (recettes de 2014, 2015 et 2019)",
+   "t": "Lalla Moulati (recipes from 2014, 2015 and 2019)"
+  },
+  "secrets.3.text": {
+   "fr": "Une toute petite pincée de thym séché : c'était le secret de la grand-mère d'Alia. Plus, et la sauce devient amère.",
+   "t": "A tiny pinch of dried thyme: that was the secret of Alia's grandmother. Any more, and the sauce turns bitter."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking With Alia (recette de sa grand-mère) ; le thym est aussi dans deux recettes de Lalla Moulati (2014, 2019)",
+   "t": "Cooking With Alia (her grandmother's recipe); thyme is also in two Lalla Moulati recipes (2014, 2019)"
+  },
+  "secrets.4.text": {
+   "fr": "Beaucoup de fromage râpé sur le dessus : l'autre secret de la grand-mère d'Alia.",
+   "t": "Plenty of grated cheese on top: the other secret of Alia's grandmother."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia (recette de sa grand-mère)",
+   "t": "Cooking With Alia (her grandmother's recipe)"
+  },
+  "secrets.5.text": {
+   "fr": "Compte 1 litre d'eau pour 100 g de pâtes, bien salée.",
+   "t": "Allow 1 litre of water per 100 g of pasta, well salted."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia (3 litres pour 300 g) ; chef Andrea Tranchero, cité par Lalla Moulati (2021)",
+   "t": "Cooking With Alia (3 litres for 300 g); chef Andrea Tranchero, quoted by Lalla Moulati (2021)"
+  },
+  "secrets.6.text": {
+   "fr": "Beaucoup de recettes marocaines ajoutent un filet d'huile dans l'eau des pâtes ; le chef italien cité par Lalla Moulati le juge inutile. À toi de voir.",
+   "t": "Many Moroccan recipes add a drizzle of oil to the pasta water; the Italian chef quoted by Lalla Moulati considers it unnecessary. It is up to you."
+  },
+  "secrets.6.source": {
+   "fr": "Lalla Moulati (2014, 2015) et Cooking With Alia pour l'huile ; Lalla Moulati (2021, chef Andrea Tranchero) contre",
+   "t": "Lalla Moulati (2014, 2015) and Cooking With Alia for the oil; Lalla Moulati (2021, chef Andrea Tranchero) against"
+  },
+  "secrets.7.text": {
+   "fr": "Verse le lait de la béchamel petit à petit, sans arrêter de remuer : elle reste lisse, sans grumeaux.",
+   "t": "Pour the milk for the béchamel in little by little, stirring all the time: it stays smooth, with no lumps."
+  },
+  "secrets.7.source": {
+   "fr": "Lalla Moulati (2014 : remuer jusqu'à ce qu'elle épaississe ; 2023 : lait ajouté peu à peu, sauce lisse et sans grumeaux)",
+   "t": "Lalla Moulati (2014: stir until it thickens; 2023: milk added gradually, smooth sauce with no lumps)"
+  },
+  "secrets.8.text": {
+   "fr": "Une pointe de noix de muscade râpée parfume la béchamel.",
+   "t": "A hint of grated nutmeg flavours the béchamel."
+  },
+  "secrets.8.source": {
+   "fr": "Lalla Moulati (trois recettes en darija de 2014 et 2015)",
+   "t": "Lalla Moulati (three recipes in Darija from 2014 and 2015)"
+  },
+  "secrets.9.text": {
+   "fr": "Beurre le plat avant d'y mettre les pâtes.",
+   "t": "Butter the dish before putting in the pasta."
+  },
+  "secrets.9.source": {
+   "fr": "Lalla Moulati (2014 ; 2023)",
+   "t": "Lalla Moulati (2014; 2023)"
+  },
+  "secrets.10.text": {
+   "fr": "Monte le gratin en deux couches de pâtes, avec de la béchamel et du fromage au milieu et sur le dessus.",
+   "t": "Build the gratin in two layers of pasta, with béchamel and cheese in the middle and on top."
+  },
+  "secrets.10.source": {
+   "fr": "Lalla Moulati (27 décembre 2014 ; béchamel sans fromage le 10 novembre 2014 et le 30 septembre 2015)",
+   "t": "Lalla Moulati (27 December 2014; béchamel without cheese on 10 November 2014 and 30 September 2015)"
+  },
+  "secrets.11.text": {
+   "fr": "Laisse reposer le gratin quelques minutes à la sortie du four avant de le servir.",
+   "t": "Let the gratin rest for a few minutes once it is out of the oven, before serving it."
+  },
+  "secrets.11.source": {
+   "fr": "Lalla Moulati (2023)",
+   "t": "Lalla Moulati (2023)"
+  },
+  "secrets.12.text": {
+   "fr": "Sécurité : la viande hachée doit atteindre 71 °C (160 °F) à cœur. Mets les restes au réfrigérateur dans les 2 heures, dans des boîtes peu profondes, mange-les dans les 3 jours (3 à 4 jours selon l'USDA) et réchauffe-les à 74 °C (165 °F).",
+   "t": "Safety: minced meat must reach 71 °C (160 °F) in the centre. Put leftovers in the fridge within 2 hours, in shallow containers, eat them within 3 days (3 to 4 days according to the USDA) and reheat them to 74 °C (165 °F)."
+  },
+  "secrets.12.source": {
+   "fr": "FDA, « Safe Food Handling » ; Anses (8 avril 2020) ; USDA FSIS, « Leftovers and Food Safety »",
+   "t": "FDA, “Safe Food Handling”; Anses (8 April 2020); USDA FSIS, “Leftovers and Food Safety”"
+  },
+  "mistakes.0": {
+   "fr": "Mettre dans le plat une sauce encore liquide : laisse-la réduire jusqu'à ce qu'il ne reste presque plus d'eau (Lalla Moulati, 2014).",
+   "t": "Putting a sauce that is still runny into the dish: let it reduce until almost no water is left (Lalla Moulati, 2014)."
+  },
+  "mistakes.1": {
+   "fr": "Forcer sur le thym : une petite pincée suffit, sinon c'est amer (Cooking With Alia).",
+   "t": "Overdoing the thyme: a small pinch is enough, otherwise it is bitter (Cooking With Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Verser tout le lait d'un coup dans la béchamel : ajoute-le peu à peu en remuant, pour éviter les grumeaux (Lalla Moulati, 2023).",
+   "t": "Pouring all the milk into the béchamel at once: add it gradually while stirring, to avoid lumps (Lalla Moulati, 2023)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire les pâtes avant le four : une recette de Lalla Moulati (2019) les arrête à mi-cuisson, puisqu'elles passent ensuite au four.",
+   "t": "Overcooking the pasta before it goes in the oven: one Lalla Moulati recipe (2019) stops cooking it halfway, since it then goes into the oven."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Leaving leftovers out of the fridge for more than 2 hours (FDA)."
+  },
+  "variants.0": {
+   "fr": "Aux boulettes : mélange la kefta avec un petit oignon râpé, une carotte râpée, du persil, 2 c. à s. de chapelure, sel, poivre, un peu de cumin, du gingembre et une pincée de cannelle. Forme de petites boulettes et cuis-les dans une sauce de tomates râpées à l'ail (Lalla Moulati, 30 septembre 2015).",
+   "t": "With meatballs: mix the kefta with a small grated onion, a grated carrot, parsley, 2 tbsp breadcrumbs, salt, pepper, a little cumin, ginger and a pinch of cinnamon. Shape into small meatballs and cook them in a sauce of grated tomatoes with garlic (Lalla Moulati, 30 September 2015)."
+  },
+  "variants.1": {
+   "fr": "Plus de légumes : 2 poivrons en petits dés fondus avec l'oignon (Lalla Moulati, 10 novembre 2014) ; une courgette râpée (Lalla Moulati, 27 décembre 2014).",
+   "t": "More vegetables: 2 peppers, finely diced and softened with the onion (Lalla Moulati, 10 November 2014); a grated courgette (Lalla Moulati, 27 December 2014)."
+  },
+  "variants.2": {
+   "fr": "Au poulet ou à la dinde : remplace la kefta par de la dinde (« bibi ») ou du blanc de poulet en petits morceaux (Lalla Moulati, 10 novembre 2014), cuits jusqu'à 74 °C (165 °F) à cœur (FDA). Une version au blanc de poulet, poivrons, petits pois et maïs existe aussi (Amina Marrakchia sur Lalla Moulati, 2023 ; ingrédients seulement).",
+   "t": "With chicken or turkey: replace the kefta with turkey (“bibi”) or chicken breast in small pieces (Lalla Moulati, 10 November 2014), cooked to 74 °C (165 °F) in the centre (FDA). There is also a version with chicken breast, peppers, peas and sweetcorn (Amina Marrakchia on Lalla Moulati, 2023; ingredients only)."
+  },
+  "variants.3": {
+   "fr": "Sans béchamel : kefta, champignons et olives vertes mêlés aux pâtes avec du thym, couverts de fromage râpé, puis passés au four (Lalla Moulati, 23 juillet 2019).",
+   "t": "Without béchamel: kefta, mushrooms and green olives mixed with the pasta and thyme, covered with grated cheese, then baked (Lalla Moulati, 23 July 2019)."
+  },
+  "variants.4": {
+   "fr": "Sans viande : sauce tomate à l'oignon et à l'ail avec une pincée de thym, pâtes couvertes de beaucoup de fromage râpé, 10 minutes au four (Cooking With Alia, recette de sa grand-mère).",
+   "t": "Without meat: tomato sauce with onion and garlic and a pinch of thyme, pasta covered with plenty of grated cheese, 10 minutes in the oven (Cooking With Alia, her grandmother's recipe)."
+  },
+  "variants.5": {
+   "fr": "Avec des œufs : 2 œufs battus dans la béchamel, et 2 cuillerées de béchamel au fond du plat ; la même recette propose les œufs à la place des 50 g de fromage (Lalla Moulati, 10 novembre 2014). Laisse alors au four jusqu'à ce que la béchamel aux œufs soit prise et atteigne 71 °C (160 °F) au centre (FDA).",
+   "t": "With eggs: 2 beaten eggs in the béchamel, and 2 spoonfuls of béchamel in the bottom of the dish; the same recipe suggests the eggs instead of the 50 g of cheese (Lalla Moulati, 10 November 2014). In that case, leave it in the oven until the egg béchamel has set and reaches 71 °C (160 °F) in the centre (FDA)."
+  },
+  "variants.6": {
+   "fr": "Sur le feu, sans four : pâtes cuites mêlées 5 minutes à une sauce tomate à la viande hachée, avec de la mozzarella (Lalla Moulati, 22 novembre 2015 ; recette de style levantin).",
+   "t": "On the hob, without an oven: cooked pasta mixed for 5 minutes into a tomato sauce with minced meat, with mozzarella (Lalla Moulati, 22 November 2015; a Levantine-style recipe)."
+  },
+  "variants.7": {
+   "fr": "Gratin au thon et à la crème : 400 g de pâtes, 250 ml de crème, 100 g de fromage râpé et 1 boîte de thon (Lalla Moulati, 3 novembre 2021).",
+   "t": "Tuna and cream bake: 400 g pasta, 250 ml cream, 100 g grated cheese and 1 tin of tuna (Lalla Moulati, 3 November 2021)."
+  }
+ }
+}

@@ -1,0 +1,530 @@
+{
+ "_slug": "hachis-parmentier",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Hachis parmentier",
+   "t": "Hachis parmentier (French cottage pie)"
+  },
+  "tagline": {
+   "fr": "Du bœuf haché bien cuit avec de l'oignon, sous une purée maison dorée au four : le grand plat familial français, sans vin.",
+   "t": "Thoroughly cooked minced beef with onion, under homemade mash browned in the oven: the great French family dish, without wine."
+  },
+  "region": {
+   "fr": "France. Plat parisien selon Wikipédia (d'après le journaliste Frédéric Zégierman), nommé en l'honneur d'Antoine-Augustin Parmentier (1737-1813), qui a popularisé la pomme de terre en France. Ses cousins : le cottage pie britannique et le pâté chinois québécois (Wikipédia).",
+   "t": "France. A Parisian dish according to Wikipedia (citing the journalist Frédéric Zégierman), named in honour of Antoine-Augustin Parmentier (1737-1813), who popularised the potato in France. Its cousins: British cottage pie and Quebec's pâté chinois (Wikipedia)."
+  },
+  "occasion": {
+   "fr": "Plat familial, réconfortant et économique. C'est aussi le plat français classique pour utiliser des restes de viande, comme le pot-au-feu ou le rôti (Wikipédia, Chef Simon).",
+   "t": "A comforting, economical family dish. It is also the classic French dish for using up leftover meat, such as pot-au-feu or roast (Wikipedia, Chef Simon)."
+  },
+  "img_alt": {
+   "fr": "Hachis parmentier gratiné et entamé : la purée sur la viande hachée",
+   "t": "Hachis parmentier with a golden top, already cut into: the mash over the minced meat"
+  },
+  "serving": {
+   "fr": "Bien chaud, dès la sortie du four (Meilleur du Chef, Académie du Goût), en plat unique. Inspirations Cuisine le sert avec une salade verte. Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 48 heures (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné) ; sinon, au congélateur (FSA). Réchauffe une seule fois, au four ou au micro-ondes, jusqu'à ce que ce soit fumant au centre ; un grand plat se réchauffe mieux en petites portions (FSA). L'Anses conseille de réchauffer dans un plat couvert, jusqu'à ce que la vapeur s'échappe. Décongèle au réfrigérateur et mange dans les 24 heures (FSA ; l'Anses dit 3 jours au plus, sans recongeler).",
+   "t": "Piping hot, straight from the oven (Meilleur du Chef, Académie du Goût), as a one-dish meal. Inspirations Cuisine serves it with a green salad. Leftovers: into the fridge within 2 hours (Anses, FSA), to be eaten within 48 hours (FSA; Anses says less than 3 days for a cooked dish); otherwise, into the freezer (FSA). Reheat only once, in the oven or microwave, until steaming hot in the centre; a large dish reheats better in small portions (FSA). Anses advises reheating in a covered dish until steam escapes. Defrost in the fridge and eat within 24 hours (FSA; Anses says 3 days at most, without refreezing)."
+  },
+  "ing.0.group": {
+   "fr": "Purée maison",
+   "t": "Homemade mash"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair farineuse",
+   "t": "floury potatoes"
+  },
+  "ing.pdt.note": {
+   "fr": "type Bintje ou Agria ; ni vertes, ni germées",
+   "t": "Bintje or Agria type; neither green nor sprouting"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, salée",
+   "t": "a large panful, salted"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.beurre.note": {
+   "fr": "en morceaux",
+   "t": "in pieces"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "milk"
+  },
+  "ing.muscade.name": {
+   "fr": "noix de muscade",
+   "t": "nutmeg"
+  },
+  "ing.muscade.note": {
+   "fr": "à râper",
+   "t": "for grating"
+  },
+  "ing.1.group": {
+   "fr": "Viande",
+   "t": "Meat"
+  },
+  "ing.huile.name": {
+   "fr": "huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.huile.note": {
+   "fr": "un filet ; ou une huile neutre",
+   "t": "a drizzle; or neutral oil (sunflower)"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.boeuf.name": {
+   "fr": "de bœuf haché halal",
+   "t": "halal minced beef"
+  },
+  "ing.boeuf.note": {
+   "fr": "bien frais ; garde-le au réfrigérateur jusqu'au dernier moment",
+   "t": "very fresh; keep it in the fridge until the last moment"
+  },
+  "ing.persil.name": {
+   "fr": "de persil",
+   "t": "parsley"
+  },
+  "ing.persil.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.2.group": {
+   "fr": "Assaisonnement et plat",
+   "t": "Seasoning and for the dish"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "pepper"
+  },
+  "ing.beurre-plat.name": {
+   "fr": "beurre",
+   "t": "butter"
+  },
+  "ing.beurre-plat.note": {
+   "fr": "un petit morceau, pour le plat",
+   "t": "a small knob, for the dish"
+  },
+  "ing.fromage.name": {
+   "fr": "fromage râpé",
+   "t": "grated cheese"
+  },
+  "ing.fromage.note": {
+   "fr": "facultatif : une petite poignée d'emmental, de comté ou de gruyère ; à coagulant microbien, sans présure animale, si tu veux être strict",
+   "t": "optional: a small handful of Emmental, Comté or Gruyère; made with microbial coagulant, without animal rennet, if you want to be strict"
+  },
+  "equipment.0": {
+   "fr": "Une grande casserole et une passoire",
+   "t": "A large saucepan and a colander"
+  },
+  "equipment.1": {
+   "fr": "Un économe et un couteau",
+   "t": "A vegetable peeler and a knife"
+  },
+  "equipment.2": {
+   "fr": "Deux planches à découper : une pour la viande crue, une pour le reste (Anses)",
+   "t": "Two chopping boards: one for raw meat, one for everything else (Anses)"
+  },
+  "equipment.3": {
+   "fr": "Une grande poêle ou une sauteuse, et une cuillère en bois",
+   "t": "A large frying pan or sauté pan, and a wooden spoon"
+  },
+  "equipment.4": {
+   "fr": "Un moulin à légumes ou un presse-purée (pas de mixeur)",
+   "t": "A food mill or a potato masher (not a blender)"
+  },
+  "equipment.5": {
+   "fr": "Une petite casserole, pour le lait",
+   "t": "A small saucepan, for the milk"
+  },
+  "equipment.6": {
+   "fr": "Un plat à gratin",
+   "t": "A gratin dish"
+  },
+  "equipment.7": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "A cooking thermometer (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "Peel the potatoes"
+  },
+  "steps.0.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre. Retire les parties vertes et les germes. Lave-les, puis coupe les plus grosses en deux ou en quatre, pour avoir des morceaux de taille égale.",
+   "t": "Peel {{pdt}} of potatoes. Remove any green parts and sprouts. Wash them, then cut the largest ones in half or into quarters, so that all the pieces are the same size."
+  },
+  "steps.0.tip": {
+   "fr": "Jette une pomme de terre très verte, abîmée ou amère. Les parties vertes et les germes concentrent la solanine, qui peut causer une intoxication, et la cuisson ne la détruit pas (BfR, agence allemande ; ACIA, agence canadienne). L'épluchage en enlève une bonne partie (EFSA).",
+   "t": "Throw away any potato that is very green, damaged or bitter. Green parts and sprouts concentrate solanine, which can cause poisoning, and cooking does not destroy it (BfR, German agency; ACIA, Canadian agency). Peeling removes a good part of it (EFSA)."
+  },
+  "steps.1.title": {
+   "fr": "Cuis les pommes de terre",
+   "t": "Cook the potatoes"
+  },
+  "steps.1.text": {
+   "fr": "Mets les pommes de terre dans une grande casserole et couvre-les d'{{eau}} froide salée. Porte à ébullition, puis laisse cuire environ 30 minutes. Elles sont cuites quand la pointe d'un couteau s'y enfonce sans résistance.",
+   "t": "Put the potatoes in a large saucepan and cover them with cold salted {{eau}}. Bring to the boil, then cook for about 30 minutes. They are done when the tip of a knife slides in without resistance."
+  },
+  "steps.1.tip": {
+   "fr": "Pendant la cuisson des pommes de terre, prépare la viande.",
+   "t": "While the potatoes are cooking, prepare the meat."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Potatoes"
+  },
+  "steps.1.timer.done": {
+   "fr": "Pique un morceau : le couteau doit entrer sans résistance.",
+   "t": "Pierce a piece: the knife should go in without resistance."
+  },
+  "steps.2.title": {
+   "fr": "Hache l'oignon et l'ail",
+   "t": "Chop the onion and garlic"
+  },
+  "steps.2.text": {
+   "fr": "Pèle et hache finement {{oignon:full}} et {{ail:full}}. Lave et hache {{persil}} de persil.",
+   "t": "Peel and finely chop {{oignon:full}} and {{ail:full}}. Wash and chop {{persil}} of parsley."
+  },
+  "steps.2.tip": {
+   "fr": "Coupe les légumes avant de toucher la viande crue, ou prends une autre planche : l'Anses conseille une planche pour la viande crue et une autre pour le reste.",
+   "t": "Cut the vegetables before you touch the raw meat, or use another board: Anses advises one board for raw meat and another for everything else."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping herbs"
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Soften the onion"
+  },
+  "steps.3.text": {
+   "fr": "Dans la grande poêle, chauffe un filet d'{{huile}}. Ajoute l'oignon et fais-le cuire en remuant, jusqu'à ce qu'il devienne translucide. Ajoute l'ail juste avant la fin de la cuisson de l'oignon et mélange.",
+   "t": "In the large frying pan, heat a drizzle of {{huile}}. Add the onion and cook, stirring, until it turns translucent. Add the garlic just before the onion has finished cooking, and stir."
+  },
+  "steps.4.title": {
+   "fr": "Fais cuire la viande",
+   "t": "Cook the meat"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute {{boeuf}} de bœuf haché. Fais-le cuire 10 à 15 minutes environ, en remuant souvent et en séparant bien la viande avec la cuillère. Elle est prête quand elle a bruni partout, sans aucune trace rose, et qu'elle fume bien. Lave-toi les mains au savon après avoir touché la viande crue.",
+   "t": "Add {{boeuf}} of minced beef. Cook for about 10 to 15 minutes, stirring often and breaking up the meat well with the spoon. It is ready when it has browned all over, with no trace of pink, and is steaming hot. Wash your hands with soap after touching the raw meat."
+  },
+  "steps.4.tip": {
+   "fr": "La viande hachée doit toujours être cuite à cœur : le hachage répartit les bactéries de la surface dans toute la viande (FSA, agence britannique). L'Anses recommande 70 °C à cœur, surtout pour les jeunes enfants et les personnes âgées.",
+   "t": "Minced meat must always be cooked right through: mincing spreads bacteria from the surface throughout the meat (FSA, British agency). Anses recommends a core temperature of 70 °C, especially for young children and elderly people."
+  },
+  "steps.5.title": {
+   "fr": "Assaisonne la viande",
+   "t": "Season the meat"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute du {{sel}} et du {{poivre}}, puis le persil haché. Mélange et retire du feu.",
+   "t": "Add {{sel}} and {{poivre}}, then the chopped parsley. Stir and take off the heat."
+  },
+  "steps.5.tip": {
+   "fr": "S'il y a beaucoup de graisse au fond de la poêle, retire-la avec une cuillère (Chef Simon).",
+   "t": "If there is a lot of fat in the bottom of the pan, spoon it off (Chef Simon)."
+  },
+  "steps.6.title": {
+   "fr": "Allume le four",
+   "t": "Turn on the oven"
+  },
+  "steps.6.text": {
+   "fr": "Préchauffe le four à 180 °C. Beurre le plat à gratin avec un petit morceau de {{beurre-plat}}.",
+   "t": "Preheat the oven to 180 °C. Grease the gratin dish with a small knob of {{beurre-plat}}."
+  },
+  "steps.7.title": {
+   "fr": "Chauffe le lait",
+   "t": "Heat the milk"
+  },
+  "steps.7.text": {
+   "fr": "Fais chauffer {{lait:full}} dans une petite casserole, jusqu'à ce qu'il soit bien chaud.",
+   "t": "Heat {{lait}} of milk in a small saucepan until it is very hot."
+  },
+  "steps.8.title": {
+   "fr": "Écrase les pommes de terre",
+   "t": "Mash the potatoes"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pommes de terre. Passe-les tout de suite, bien chaudes, au moulin à légumes ou au presse-purée. N'utilise pas de mixeur : la purée deviendrait collante.",
+   "t": "Drain the potatoes. Straight away, while they are still very hot, put them through the food mill or mash them with the potato masher. Do not use a blender: the mash would turn gluey."
+  },
+  "steps.8.tip": {
+   "fr": "Jette l'eau de cuisson : l'agence allemande BfR conseille de ne pas la réutiliser.",
+   "t": "Throw away the cooking water: the German agency BfR advises against reusing it."
+  },
+  "steps.9.title": {
+   "fr": "Termine la purée",
+   "t": "Finish the mash"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute {{beurre}} de beurre en morceaux et mélange. Verse ensuite le lait chaud petit à petit, en mélangeant avec une spatule, jusqu'à obtenir une purée souple mais pas liquide. Sale, poivre et râpe un peu de {{muscade}}.",
+   "t": "Add {{beurre}} of butter in pieces and stir. Then pour in the hot milk a little at a time, stirring with a spatula, until the mash is soft but not runny. Season with salt and pepper and grate in a little {{muscade}}."
+  },
+  "steps.9.tip": {
+   "fr": "Le beurre se met quand les pommes de terre sont encore bien chaudes. Le lait se verse petit à petit : versé d'un coup, il rend la purée trop liquide (750g, Pascale Weeks).",
+   "t": "The butter goes in while the potatoes are still very hot. The milk goes in a little at a time: poured in all at once, it makes the mash too runny (750g, Pascale Weeks)."
+  },
+  "steps.10.title": {
+   "fr": "Monte le hachis",
+   "t": "Assemble the hachis"
+  },
+  "steps.10.text": {
+   "fr": "Étale la viande au fond du plat. Couvre-la avec toute la purée et lisse le dessus avec une spatule. Si tu veux, parsème un peu de {{fromage}}.",
+   "t": "Spread the meat over the bottom of the dish. Cover it with all the mash and smooth the top with a spatula. If you like, sprinkle with a little {{fromage}}."
+  },
+  "steps.10.tip": {
+   "fr": "Trace des stries sur la purée avec une fourchette : elle dorera mieux (Pradel).",
+   "t": "Make ridges in the mash with a fork: it will brown better (Pradel)."
+  },
+  "steps.11.title": {
+   "fr": "Enfourne pour 30 minutes",
+   "t": "Bake for 30 minutes"
+  },
+  "steps.11.text": {
+   "fr": "Enfourne pour environ 30 minutes, jusqu'à ce que le dessus soit bien doré. Le centre du plat doit être brûlant et fumant.",
+   "t": "Bake for about 30 minutes, until the top is nicely golden. The centre of the dish must be piping hot and steaming."
+  },
+  "steps.11.tip": {
+   "fr": "Si le hachis a été préparé à l'avance et sort du réfrigérateur, laisse-le plus longtemps, jusqu'à ce qu'il soit fumant au centre (Chef Simon ; FSA).",
+   "t": "If the hachis was made ahead and comes out of the fridge, leave it in longer, until it is steaming hot in the centre (Chef Simon; FSA)."
+  },
+  "steps.11.timer.label": {
+   "fr": "Hachis au four",
+   "t": "Hachis in the oven"
+  },
+  "steps.11.timer.done": {
+   "fr": "Le dessus est doré ? Sors le plat du four.",
+   "t": "Is the top golden? Take the dish out of the oven."
+  },
+  "steps.12.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve straight away"
+  },
+  "steps.12.text": {
+   "fr": "Sers le hachis bien chaud, dès la sortie du four.",
+   "t": "Serve the hachis piping hot, straight from the oven."
+  },
+  "steps.12.tip": {
+   "fr": "Restes : au réfrigérateur dans les 2 heures, à manger sous 2 jours, réchauffés une seule fois jusqu'à être fumants au centre (FSA, Anses).",
+   "t": "Leftovers: into the fridge within 2 hours, to be eaten within 2 days, reheated only once until steaming hot in the centre (FSA, Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Pour la purée, prends des pommes de terre à chair farineuse, comme la Bintje ou l'Agria.",
+   "t": "For the mash, use floury potatoes, such as Bintje or Agria."
+  },
+  "secrets.0.source": {
+   "fr": "Meilleur du Chef (Bintje) ; Alain Ducasse (Agria) ; Académie du Goût (chair farineuse) ; 750g, Pascale Weeks (chair farineuse)",
+   "t": "Meilleur du Chef (Bintje); Alain Ducasse (Agria); Académie du Goût (floury potatoes); 750g, Pascale Weeks (floury potatoes)"
+  },
+  "secrets.1.text": {
+   "fr": "Écrase les pommes de terre au moulin à légumes ou au presse-purée, jamais au mixeur : il libère trop d'amidon et rend la purée collante.",
+   "t": "Mash the potatoes with a food mill or a potato masher, never in a blender: it releases too much starch and makes the mash gluey."
+  },
+  "secrets.1.source": {
+   "fr": "Chef Simon (purée « cordée ») ; 750g, Pascale Weeks",
+   "t": "Chef Simon (“gluey” mash); 750g, Pascale Weeks"
+  },
+  "secrets.2.text": {
+   "fr": "Mets le beurre quand les pommes de terre sont encore bien chaudes, puis le lait chaud.",
+   "t": "Add the butter while the potatoes are still very hot, then the hot milk."
+  },
+  "secrets.2.source": {
+   "fr": "Meilleur du Chef ; Escoffier (lait bouillant) ; 750g, Pascale Weeks",
+   "t": "Meilleur du Chef; Escoffier (boiling milk); 750g, Pascale Weeks"
+  },
+  "secrets.3.text": {
+   "fr": "Verse le lait petit à petit : la purée doit rester souple, sans devenir liquide.",
+   "t": "Pour in the milk a little at a time: the mash should stay soft without becoming runny."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon (« souple sans être liquide ») ; Escoffier (« petit à petit ») ; 750g, Pascale Weeks",
+   "t": "Chef Simon (“soft without being runny”); Escoffier (“little by little”); 750g, Pascale Weeks"
+  },
+  "secrets.4.text": {
+   "fr": "Un peu de noix de muscade râpée dans la purée, c'est le parfum classique.",
+   "t": "A little grated nutmeg in the mash is the classic flavouring."
+  },
+  "secrets.4.source": {
+   "fr": "Meilleur du Chef ; Chef Simon (purée) ; Inspirations Cuisine ; Pradel",
+   "t": "Meilleur du Chef; Chef Simon (mashed potato); Inspirations Cuisine; Pradel"
+  },
+  "secrets.5.text": {
+   "fr": "Fais d'abord fondre l'oignon jusqu'à ce qu'il soit translucide, et ajoute l'ail seulement après.",
+   "t": "First soften the onion until translucent, and only then add the garlic."
+  },
+  "secrets.5.source": {
+   "fr": "Meilleur du Chef (ail ajouté avant la fin de la cuisson de l'oignon) ; Hervé Cuisine (ail ajouté après l'oignon, avec la viande)",
+   "t": "Meilleur du Chef (garlic added before the onion has finished cooking); Hervé Cuisine (garlic added after the onion, with the meat)"
+  },
+  "secrets.6.text": {
+   "fr": "La viande hachée se cuit toujours à cœur : plus aucune trace rose, et elle fume au centre.",
+   "t": "Minced meat is always cooked right through: no trace of pink left, and steaming hot in the centre."
+  },
+  "secrets.6.source": {
+   "fr": "FSA (agence britannique) ; Anses (70 °C à cœur pour les populations sensibles)",
+   "t": "FSA (British agency); Anses (70 °C core temperature for vulnerable groups)"
+  },
+  "secrets.7.text": {
+   "fr": "Retire l'excès de graisse de la viande avant de la mettre dans le plat.",
+   "t": "Remove the excess fat from the meat before putting it in the dish."
+  },
+  "secrets.7.source": {
+   "fr": "Chef Simon (« en ayant dégraissé si nécessaire »)",
+   "t": "Chef Simon (“having removed the fat if necessary”)"
+  },
+  "secrets.8.text": {
+   "fr": "Le hachis parmentier est le plat idéal pour les restes : bœuf du pot-au-feu ou rôti, haché, à la place de la viande crue.",
+   "t": "Hachis parmentier is the ideal dish for leftovers: beef from a pot-au-feu or a roast, minced, instead of the raw meat."
+  },
+  "secrets.8.source": {
+   "fr": "Wikipédia (Frédéric Zégierman) ; Chef Simon ; Meilleur du Chef ; Alain Ducasse",
+   "t": "Wikipedia (Frédéric Zégierman); Chef Simon; Meilleur du Chef; Alain Ducasse"
+  },
+  "secrets.9.text": {
+   "fr": "Lisse bien la purée à la spatule ; des stries à la fourchette l'aident à dorer.",
+   "t": "Smooth the mash well with a spatula; ridges made with a fork help it brown."
+  },
+  "secrets.9.source": {
+   "fr": "Meilleur du Chef, Académie du Goût et Chef Simon (lisser) ; Pradel (stries)",
+   "t": "Meilleur du Chef, Académie du Goût and Chef Simon (smoothing); Pradel (ridges)"
+  },
+  "secrets.10.text": {
+   "fr": "Tu peux préparer le hachis la veille et le réchauffer au moment du repas. Mets-le au réfrigérateur dans les 2 heures.",
+   "t": "You can make the hachis the day before and reheat it at mealtime. Put it in the fridge within 2 hours."
+  },
+  "secrets.10.source": {
+   "fr": "Meilleur du Chef (réponse du Chef Philippe, 6 février 2020) ; Anses et FSA (2 heures au plus hors du réfrigérateur)",
+   "t": "Meilleur du Chef (answer from Chef Philippe, 6 February 2020); Anses and FSA (2 hours at most out of the fridge)"
+  },
+  "secrets.11.text": {
+   "fr": "Le temps de four dépend des ingrédients : une trentaine de minutes, selon qu'ils sont encore chauds ou froids.",
+   "t": "The baking time depends on the ingredients: around thirty minutes, depending on whether they are still hot or cold."
+  },
+  "secrets.11.source": {
+   "fr": "Chef Simon",
+   "t": "Chef Simon"
+  },
+  "secrets.12.text": {
+   "fr": "Sers dès la sortie du four.",
+   "t": "Serve straight from the oven."
+  },
+  "secrets.12.source": {
+   "fr": "Meilleur du Chef ; Académie du Goût",
+   "t": "Meilleur du Chef; Académie du Goût"
+  },
+  "mistakes.0": {
+   "fr": "Mettre la viande hachée crue directement sous la purée : fais-la toujours cuire d'abord à la poêle, jusqu'à ce qu'il ne reste plus de rose (FSA, Anses). Une recette d'internaute sur 750g le fait : ne la suis pas.",
+   "t": "Putting raw minced meat straight under the mash: always cook it in the frying pan first, until no pink remains (FSA, Anses). One user-submitted recipe on 750g does this: do not follow it."
+  },
+  "mistakes.1": {
+   "fr": "Mixer la purée : elle devient collante (Chef Simon, 750g).",
+   "t": "Blending the mash: it turns gluey (Chef Simon, 750g)."
+  },
+  "mistakes.2": {
+   "fr": "Verser tout le lait d'un coup : la purée devient trop liquide (750g, Pascale Weeks).",
+   "t": "Pouring in all the milk at once: the mash becomes too runny (750g, Pascale Weeks)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les légumes sur la planche de la viande crue sans la laver (Anses).",
+   "t": "Cutting the vegetables on the raw-meat board without washing it (Anses)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier de te laver les mains au savon après avoir touché la viande crue (Anses, FSA).",
+   "t": "Forgetting to wash your hands with soap after touching the raw meat (Anses, FSA)."
+  },
+  "mistakes.5": {
+   "fr": "Garder des pommes de terre vertes, germées, abîmées ou amères (BfR, ACIA).",
+   "t": "Keeping potatoes that are green, sprouting, damaged or bitter (BfR, ACIA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le plat plus de 2 heures à température ambiante (Anses, FSA).",
+   "t": "Leaving the dish at room temperature for more than 2 hours (Anses, FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce que ce soit fumant (FSA).",
+   "t": "Reheating leftovers several times: reheat them only once, until steaming hot (FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Prendre de la chair à saucisse ou un mélange porc et veau, comme le proposent certaines recettes (750g, Chef Simon) : ici, seulement du bœuf haché halal.",
+   "t": "Using sausage meat or a pork and veal mix, as some recipes suggest (750g, Chef Simon): here, only halal minced beef."
+  },
+  "mistakes.9": {
+   "fr": "Ajouter un cube de bouillon ou un fromage sans vérifier qu'ils sont halal.",
+   "t": "Adding a stock cube or a cheese without checking that they are halal."
+  },
+  "variants.0": {
+   "fr": "À l'ancienne, avec un reste de pot-au-feu (bœuf halal) : la viande cuite, hachée, mélangée à l'oignon fondu, au persil et à un œuf (Meilleur du Chef ; Wikipédia, d'après Frédéric Zégierman). Alain Ducasse ajoute des échalotes et de la mie de pain trempée dans le lait.",
+   "t": "The old-fashioned way, with leftover pot-au-feu (halal beef): the cooked meat, minced and mixed with softened onion, parsley and an egg (Meilleur du Chef; Wikipedia, citing Frédéric Zégierman). Alain Ducasse adds shallots and fresh breadcrumbs soaked in milk."
+  },
+  "variants.1": {
+   "fr": "En trois couches : purée, viande, puis purée (Meilleur du Chef, Académie du Goût, Hervé Cuisine).",
+   "t": "In three layers: mash, meat, then mash (Meilleur du Chef, Académie du Goût, Hervé Cuisine)."
+  },
+  "variants.2": {
+   "fr": "Avec des carottes : cuites avec les pommes de terre dans la purée (Académie du Goût), revenues avec l'oignon (Hervé Cuisine), ou en petits dés ajoutés à la viande (Inspirations Cuisine).",
+   "t": "With carrots: cooked with the potatoes, in the mash (Académie du Goût), sautéed with the onion (Hervé Cuisine), or finely diced and added to the meat (Inspirations Cuisine)."
+  },
+  "variants.3": {
+   "fr": "À la tomate : tomates fraîches en dés (Académie du Goût, Inspirations Cuisine) ou concentré de tomate (Pradel), mijotés avec la viande.",
+   "t": "With tomato: diced fresh tomatoes (Académie du Goût, Inspirations Cuisine) or tomato purée (Pradel), simmered with the meat."
+  },
+  "variants.4": {
+   "fr": "Plus parfumé : thym et mélange quatre-épices (Hervé Cuisine), ou herbes de Provence (Académie du Goût). Hervé Cuisine et Inspirations Cuisine ajoutent du bouillon de bœuf : prends-le certifié halal.",
+   "t": "More aromatic: thyme and four-spice mix (Hervé Cuisine), or herbes de Provence (Académie du Goût). Hervé Cuisine and Inspirations Cuisine add beef stock: use one that is certified halal."
+  },
+  "variants.5": {
+   "fr": "Purée plus riche : un jaune d'œuf (Hervé Cuisine), ou un peu de crème fraîche (Académie du Goût, Chef Simon, Inspirations Cuisine).",
+   "t": "Richer mash: an egg yolk (Hervé Cuisine), or a little crème fraîche (Académie du Goût, Chef Simon, Inspirations Cuisine)."
+  },
+  "variants.6": {
+   "fr": "Gratiné au fromage râpé (Chef Simon, Académie du Goût, Hervé Cuisine) ou à la chapelure (Meilleur du Chef ; panko chez Alain Ducasse).",
+   "t": "With a browned topping of grated cheese (Chef Simon, Académie du Goût, Hervé Cuisine) or breadcrumbs (Meilleur du Chef; panko in Alain Ducasse's version)."
+  },
+  "variants.7": {
+   "fr": "Avec des échalotes en plus de l'oignon (Chef Simon, Alain Ducasse).",
+   "t": "With shallots as well as the onion (Chef Simon, Alain Ducasse)."
+  },
+  "variants.8": {
+   "fr": "En portions individuelles, dans de petites cocottes (Hervé Cuisine).",
+   "t": "In individual portions, in small cocottes (Hervé Cuisine)."
+  },
+  "variants.9": {
+   "fr": "Le « hachis Parmentier » d'Escoffier (1903) était un autre plat : des pommes de terre cuites au four, vidées, puis farcies de leur pulpe sautée au beurre et de viande en dés. Le plat en couches d'aujourd'hui ressemble plutôt à son « hachis à la grand-mère » : hachis lié à la purée, dans un plat en terre beurré, sous une fine couche de purée gratinée (Escoffier).",
+   "t": "Escoffier's “hachis Parmentier” (1903) was a different dish: potatoes baked in the oven, hollowed out, then stuffed with their flesh sautéed in butter and with diced meat. Today's layered dish is closer to his “hachis à la grand-mère”: minced meat bound with mash, in a buttered earthenware dish, under a thin layer of browned mash (Escoffier)."
+  },
+  "variants.10": {
+   "fr": "Ailleurs : le cottage pie au Royaume-Uni, et le pâté chinois au Québec, avec une couche de maïs (Wikipédia).",
+   "t": "Elsewhere: cottage pie in the United Kingdom, and pâté chinois in Quebec, with a layer of sweetcorn (Wikipedia)."
+  }
+ }
+}

@@ -1,0 +1,442 @@
+{
+ "_slug": "kefta-poele",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Kefta à la poêle",
+   "t": "Кефта на сковороде"
+  },
+  "darija": {
+   "fr": "Kefta",
+   "t": "Кефта"
+  },
+  "tagline": {
+   "fr": "De la viande hachée aux herbes, au cumin et au paprika, en petites galettes dorées à la poêle : la kefta marocaine, prête en 30 minutes, avec du khobz et une salade fraîche.",
+   "t": "Мясной фарш с зеленью, кумином (зирой) и паприкой в виде небольших котлеток, подрумяненных на сковороде: марокканская кефта, готовая за 30 минут, с хобзом (марокканским хлебом) и свежим салатом."
+  },
+  "region": {
+   "fr": "Maroc. La kefta y est une institution : chaque famille sait où acheter et manger la meilleure, souvent dans les faubourgs et les petites villes, chez les bouchers qui la grillent et la servent sur place (My Moroccan Food). Aucune source lue ne donne de région d'origine précise.",
+   "t": "Марокко. Кефта там — настоящая традиция: каждая семья знает, где купить и съесть самую лучшую, часто в пригородах и маленьких городах, у мясников, которые жарят её на гриле и подают прямо на месте (My Moroccan Food). Ни один из прочитанных источников не называет точного региона происхождения."
+  },
+  "occasion": {
+   "fr": "Dîner rapide de semaine, pour les soirs de fatigue. Au Maroc, on mange aussi la kefta grillée chez le boucher, avec un thé à la menthe bien sucré (My Moroccan Food).",
+   "t": "Быстрый ужин в будний день, на вечер, когда нет сил. В Марокко кефту, жаренную на гриле, едят и у мясника, с очень сладким мятным чаем (My Moroccan Food)."
+  },
+  "img_alt": {
+   "fr": "Boulettes de kefta cuites, sur une assiette, avec un pain rond et des coupelles de sauce et d'épices",
+   "t": "Готовые фрикадельки кефты на тарелке с круглым хлебом и мисочками с соусом и специями"
+  },
+  "serving": {
+   "fr": "Sers la kefta bien chaude, dès la sortie de la poêle (Cooking With Alia ; Choumicha). Au Maroc, on la mange avec du pain (Choumicha ; Cooking With Alia), du thé à la menthe (Choumicha ; Cooking With Alia ; My Moroccan Food) et une salade fraîche : tomates et concombre coupés tout petits (Cooking With Alia ; My Moroccan Food, pour qui c'est la salade la plus courante à côté des grillades), ou tomates, oignon et poivron vert (Choumicha). Lalla Moulati en fait aussi des sandwichs avec de la laitue. Restes : au frigo dans les 2 heures, et à manger dans les 2 jours ; réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "Подавайте кефту очень горячей, сразу со сковороды (Cooking With Alia; Choumicha). В Марокко её едят с хлебом (Choumicha; Cooking With Alia), мятным чаем (Choumicha; Cooking With Alia; My Moroccan Food) и свежим салатом: мелко нарезанными помидорами и огурцом (Cooking With Alia; My Moroccan Food — по его словам, это самый распространённый салат к блюдам на гриле) или помидорами, луком и зелёным сладким перцем (Choumicha). Lalla Moulati делает из неё и сэндвичи с листьями салата. Остатки: убрать в холодильник в течение 2 часов и съесть в течение 2 дней; разогревайте их только один раз, пока они не станут обжигающе горячими в центре (FSA). В самой холодной зоне вашего холодильника должно быть 4 °C (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La kefta",
+   "t": "Кефта"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+   "t": "мясного фарша халяль (говядина, баранина или их смесь)"
+  },
+  "ing.viande.note": {
+   "fr": "pas trop maigre : 15 à 20 % de gras",
+   "t": "не слишком постный: 15–20 % жира"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper, puis à presser pour enlever le jus",
+   "t": "натереть на тёрке, затем отжать сок"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.menthe.name": {
+   "fr": "grande feuille de menthe",
+   "t": "крупный лист мяты"
+  },
+  "ing.menthe.pl": {
+   "fr": "grandes feuilles de menthe",
+   "t": "крупных листа мяты"
+  },
+  "ing.menthe.pl5": {
+   "fr": "grande feuille de menthe / grandes feuilles de menthe",
+   "t": "крупных листьев мяты"
+  },
+  "ing.menthe.note": {
+   "fr": "à hacher",
+   "t": "порубить"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.piment.name": {
+   "fr": "de piment de Cayenne",
+   "t": "кайенского перца"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson et service",
+   "t": "Жарка и подача"
+  },
+  "ing.huile.name": {
+   "fr": "huile",
+   "t": "растительное масло"
+  },
+  "ing.huile.note": {
+   "fr": "un filet, pour la poêle",
+   "t": "немного, для сковороды"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "хобз (марокканский хлеб)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour servir",
+   "t": "для подачи"
+  },
+  "equipment.0": {
+   "fr": "Une poêle-gril en fonte, ou une grande poêle épaisse",
+   "t": "Чугунная сковорода-гриль или большая сковорода с толстым дном"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier",
+   "t": "Большая миска"
+  },
+  "equipment.2": {
+   "fr": "Une râpe",
+   "t": "Тёрка"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau pour les herbes",
+   "t": "Доска и нож для зелени"
+  },
+  "equipment.4": {
+   "fr": "Une assiette pour la kefta crue, et une autre, propre, pour la kefta cuite",
+   "t": "Тарелка для сырой кефты и другая, чистая, — для готовой"
+  },
+  "equipment.5": {
+   "fr": "Une spatule",
+   "t": "Лопатка"
+  },
+  "equipment.6": {
+   "fr": "Un thermomètre de cuisson, si tu en as un",
+   "t": "Кулинарный термометр, если он у вас есть"
+  },
+  "steps.0.title": {
+   "fr": "Râpe l'oignon",
+   "t": "Натрите лук"
+  },
+  "steps.0.text": {
+   "fr": "Épluche {{oignon:full}}, puis râpe l'oignon dans un bol. Prends la pulpe dans ta main et presse-la au-dessus de l'évier pour enlever le jus.",
+   "t": "Очистите лук ({{oignon}} шт.), затем натрите его на тёрке в миску. Возьмите тёртую массу в руку и отожмите над раковиной, чтобы удалить сок."
+  },
+  "steps.1.title": {
+   "fr": "Lave et hache les herbes",
+   "t": "Вымойте и порубите зелень"
+  },
+  "steps.1.text": {
+   "fr": "Lave le persil, la coriandre et la menthe, puis sèche-les bien. Hache-les finement : il te faut {{persil}} de persil, {{coriandre}} de coriandre et {{menthe:full}}.",
+   "t": "Вымойте петрушку, кинзу и мяту, затем хорошо обсушите. Мелко порубите: вам понадобится {{persil}} петрушки, {{coriandre}} кинзы и {{menthe:full}}."
+  },
+  "steps.1.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.1.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.2.title": {
+   "fr": "Assaisonne la viande",
+   "t": "Приправьте мясо"
+  },
+  "steps.2.text": {
+   "fr": "Mets {{viande}} de viande hachée dans un grand saladier. Ajoute l'oignon râpé, les herbes hachées, {{paprika}} de paprika, {{cumin}} de cumin, {{sel}} de sel, {{poivre}} de poivre et, si tu veux, {{piment}} de piment de Cayenne.",
+   "t": "Положите {{viande}} фарша в большую миску. Добавьте натёртый лук, рубленую зелень, паприку ({{paprika}}), кумин ({{cumin}}), соль ({{sel}}), перец ({{poivre}}) и, по желанию, кайенский перец ({{piment}})."
+  },
+  "steps.3.title": {
+   "fr": "Mélange à la main",
+   "t": "Перемешайте руками"
+  },
+  "steps.3.text": {
+   "fr": "Mélange avec les mains jusqu'à ce que les herbes et les épices soient bien réparties dans la viande.",
+   "t": "Перемешайте руками, пока зелень и специи равномерно не распределятся по фаршу."
+  },
+  "steps.3.tip": {
+   "fr": "Tu as 30 minutes de plus ? Couvre le saladier et mets-le au frigo : les herbes et les épices parfument mieux la viande (Cooking With Alia ; Choumicha).",
+   "t": "Есть ещё 30 минут? Накройте миску и поставьте в холодильник: зелень и специи лучше пропитают мясо ароматом (Cooking With Alia; Choumicha)."
+  },
+  "steps.4.title": {
+   "fr": "Façonne les galettes",
+   "t": "Сформуйте котлетки"
+  },
+  "steps.4.text": {
+   "fr": "Prends un peu de viande, roule-la en boulette, puis aplatis-la entre tes paumes en une petite galette fine, de moins de 1 cm d'épaisseur. Fais-les toutes de la même taille : fines, elles cuisent vite à la poêle. Tu peux aussi former des doigts, comme de petits boudins.",
+   "t": "Возьмите немного фарша, скатайте шарик, затем расплющьте его между ладонями в небольшую тонкую котлетку толщиной меньше 1 см. Делайте все котлетки одного размера: тонкие, они быстро жарятся на сковороде. Можно также сформовать «пальчики» — небольшие колбаски."
+  },
+  "steps.4.tip": {
+   "fr": "Mouille-toi les mains pour façonner : la viande colle moins (Taste of Maroc, Christine Benlafquih et Nada Kiffa ; Alia Al Kasimi, dans sa recette publiée par Femmes du Maroc).",
+   "t": "Смочите руки водой перед формовкой: фарш будет меньше липнуть (Taste of Maroc, Christine Benlafquih и Nada Kiffa; Alia Al Kasimi в рецепте, опубликованном Femmes du Maroc)."
+  },
+  "steps.5.title": {
+   "fr": "Lave-toi les mains",
+   "t": "Вымойте руки"
+  },
+  "steps.5.text": {
+   "fr": "Pose les galettes sur une assiette. Lave-toi les mains au savon : tu viens de toucher de la viande crue.",
+   "t": "Выложите котлетки на тарелку. Вымойте руки с мылом: вы только что трогали сырое мясо."
+  },
+  "steps.6.title": {
+   "fr": "Chauffe la poêle",
+   "t": "Разогрейте сковороду"
+  },
+  "steps.6.text": {
+   "fr": "Mets la poêle sur feu moyen avec un filet d'{{huile}}. Attends qu'elle soit bien chaude avant d'y poser la viande.",
+   "t": "Поставьте сковороду на средний огонь и налейте немного растительного масла. Дождитесь, пока она хорошо разогреется, прежде чем выкладывать мясо."
+  },
+  "steps.7.title": {
+   "fr": "Fais dorer les deux côtés",
+   "t": "Подрумяньте с обеих сторон"
+  },
+  "steps.7.text": {
+   "fr": "Pose les galettes dans la poêle chaude. Laisse dorer un côté quelques minutes, puis retourne-les et fais dorer l'autre côté. Si tout ne tient pas dans la poêle, cuis en plusieurs fois.",
+   "t": "Выложите котлетки на горячую сковороду. Дайте одной стороне подрумяниться несколько минут, затем переверните и подрумяньте другую сторону. Если всё не помещается на сковороде, жарьте в несколько приёмов."
+  },
+  "steps.7.tip": {
+   "fr": "Pour des doigts de kefta sur une poêle-gril, Alia compte 3 à 4 minutes de chaque côté, à feu moyen. Des galettes plus épaisses demandent plus longtemps : elle compte 8 minutes par côté pour ses gros burgers de dinde (Cooking With Alia).",
+   "t": "Для «пальчиков» из кефты на сковороде-гриле Alia отводит 3–4 минуты на каждую сторону на среднем огне. Более толстым котлетам нужно больше времени: для своих больших бургеров из индейки она отводит 8 минут на сторону (Cooking With Alia)."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie la cuisson à cœur",
+   "t": "Проверьте, прожарилось ли мясо внутри"
+  },
+  "steps.8.text": {
+   "fr": "Coupe la plus grosse galette en deux. Il ne doit plus rester de rose au centre, et de la vapeur doit sortir du milieu. Avec un thermomètre, il faut au moins 70 °C au cœur. Pas encore cuit ? Remets quelques minutes et vérifie encore.",
+   "t": "Разрежьте самую большую котлетку пополам. В центре не должно остаться розового, а из середины должен идти пар. Если есть термометр: в центре должно быть не меньше 70 °C. Ещё не готово? Верните на сковороду на несколько минут и проверьте снова."
+  },
+  "steps.8.tip": {
+   "fr": "La FSA précise : 70 °C au cœur pendant 2 minutes, ou 75 °C pendant 30 secondes. Ensuite, retire la kefta : trop cuite, elle devient sèche (Cooking With Alia).",
+   "t": "FSA уточняет: 70 °C в центре в течение 2 минут или 75 °C в течение 30 секунд. После этого снимите кефту: пережаренная, она становится сухой (Cooking With Alia)."
+  },
+  "steps.9.title": {
+   "fr": "Change d'assiette",
+   "t": "Смените тарелку"
+  },
+  "steps.9.text": {
+   "fr": "Mets la kefta cuite dans une assiette propre, jamais dans celle qui a porté la viande crue.",
+   "t": "Выкладывайте готовую кефту на чистую тарелку, ни в коем случае не на ту, где лежало сырое мясо."
+  },
+  "steps.10.title": {
+   "fr": "Sers tout de suite",
+   "t": "Подавайте сразу"
+  },
+  "steps.10.text": {
+   "fr": "Sers bien chaud, avec du {{khobz}} et une salade fraîche.",
+   "t": "Подавайте очень горячей, с хобзом и свежим салатом."
+  },
+  "steps.10.tip": {
+   "fr": "La salade de tomates et de concombre est la salade marocaine la plus courante à côté des grillades (My Moroccan Food). Choumicha sert sa kefta avec une salade de tomates, d'oignon et de poivron vert.",
+   "t": "Салат из помидоров и огурцов — самый распространённый марокканский салат к блюдам на гриле (My Moroccan Food). Choumicha подаёт свою кефту с салатом из помидоров, лука и зелёного сладкого перца."
+  },
+  "secrets.0.text": {
+   "fr": "La kefta marocaine est très parfumée : beaucoup d'herbes fraîches (persil, coriandre, menthe) avec le cumin et le paprika.",
+   "t": "Марокканская кефта очень ароматная: много свежей зелени (петрушка, кинза, мята) вместе с кумином и паприкой."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Cooking With Alia, n° 664 ; Choumicha, brochettes de boulettes d'agneau (n° 1120)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Cooking With Alia, № 664; Choumicha, шашлычки из бараньих фрикаделек (№ 1120)"
+  },
+  "secrets.1.text": {
+   "fr": "Prends une viande pas trop maigre : 15 à 20 % de gras.",
+   "t": "Берите не слишком постное мясо: 15–20 % жира."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food ; Mama's Lebanese Kitchen, kafta libanaise (bœuf à 20 % de gras)",
+   "t": "My Moroccan Food; Mama's Lebanese Kitchen, ливанская кафта (говядина с 20 % жира)"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe l'oignon, puis presse-le pour enlever son jus avant de le mêler à la viande.",
+   "t": "Натрите лук, затем отожмите сок, прежде чем смешивать его с фаршем."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking With Alia, burger marocain n° 182 (oignon râpé et pressé) ; Mama's Lebanese Kitchen, kafta (oignon mixé puis égoutté) ; oignon râpé aussi chez My Moroccan Food, Cooking With Alia n° 664 et Choumicha n° 467",
+   "t": "Cooking With Alia, марокканский бургер № 182 (тёртый и отжатый лук); Mama's Lebanese Kitchen, кафта (лук измельчают блендером и отцеживают); тёртый лук также у My Moroccan Food, Cooking With Alia № 664 и Choumicha № 467"
+  },
+  "secrets.3.text": {
+   "fr": "Si tu as le temps, laisse reposer la kefta assaisonnée 30 minutes au frais, couverte : les herbes et les épices parfument la viande.",
+   "t": "Если есть время, дайте приправленной кефте постоять 30 минут в холодильнике под крышкой: зелень и специи пропитают мясо ароматом."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking With Alia, n° 664 et n° 453 ; Choumicha, brochettes de kefta et sa salade marocaine (n° 467)",
+   "t": "Cooking With Alia, № 664 и № 453; Choumicha, шашлычки из кефты с марокканским салатом (№ 467)"
+  },
+  "secrets.4.text": {
+   "fr": "La même kefta se façonne en doigts, en galettes ou en boulettes.",
+   "t": "Из одной и той же кефты можно сформовать «пальчики», котлетки или фрикадельки."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia, n° 453 ; Lalla Moulati (boulettes ou pièces ovales) ; Mama's Lebanese Kitchen (galettes)",
+   "t": "Cooking With Alia, № 453; Lalla Moulati (фрикадельки или овальные кусочки); Mama's Lebanese Kitchen (котлетки)"
+  },
+  "secrets.5.text": {
+   "fr": "Pose la viande dans une poêle déjà bien chaude, avec juste un peu de matière grasse.",
+   "t": "Выкладывайте мясо на уже хорошо разогретую сковороду с совсем небольшим количеством жира."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia, n° 157 et n° 182 ; Lalla Moulati (poêle chaude avec un peu d'huile, cuisson des deux côtés)",
+   "t": "Cooking With Alia, № 157 и № 182; Lalla Moulati (горячая сковорода с небольшим количеством масла, жарка с обеих сторон)"
+  },
+  "secrets.6.text": {
+   "fr": "Sur une poêle-gril, Alia compte 3 à 4 minutes de chaque côté pour des doigts de kefta, à feu moyen.",
+   "t": "На сковороде-гриле Alia отводит «пальчикам» из кефты 3–4 минуты с каждой стороны на среднем огне."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia, n° 664",
+   "t": "Cooking With Alia, № 664"
+  },
+  "secrets.7.text": {
+   "fr": "Ne la cuis pas plus que nécessaire : trop cuite, la kefta devient sèche.",
+   "t": "Не жарьте её дольше, чем нужно: пережаренная кефта становится сухой."
+  },
+  "secrets.7.source": {
+   "fr": "Cooking With Alia, n° 453 et n° 157 ; Femmes du Maroc (recette d'Alia Al Kasimi)",
+   "t": "Cooking With Alia, № 453 и № 157; Femmes du Maroc (рецепт Alia Al Kasimi)"
+  },
+  "secrets.8.text": {
+   "fr": "Un thermomètre de cuisson propre permet de vérifier la cuisson : 70 °C au cœur. Lave bien la sonde après chaque usage.",
+   "t": "Чистый кулинарный термометр позволяет проверить готовность: 70 °C в центре. Хорошо мойте щуп после каждого использования."
+  },
+  "secrets.8.source": {
+   "fr": "FSA (Royaume-Uni), « Cooking your food » (70 °C pendant 2 minutes, sonde à laver) ; Anses, article sur les E. coli (2022)",
+   "t": "FSA (Великобритания), «Cooking your food» (70 °C в течение 2 минут, щуп нужно мыть); Anses, статья об E. coli (2022)"
+  },
+  "secrets.9.text": {
+   "fr": "Les recettes de kefta de Choumicha, de Cooking With Alia et de My Moroccan Food n'ont ni œuf ni chapelure.",
+   "t": "В рецептах кефты Choumicha, Cooking With Alia и My Moroccan Food нет ни яиц, ни панировочных сухарей."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha n° 467, 771, 943 et 1120 ; Cooking With Alia n° 664 et 453 ; My Moroccan Food",
+   "t": "Choumicha № 467, 771, 943 и 1120; Cooking With Alia № 664 и 453; My Moroccan Food"
+  },
+  "secrets.10.text": {
+   "fr": "Au Maroc, beaucoup de bouchers grillent la kefta sur place et la servent avec un thé à la menthe très sucré.",
+   "t": "В Марокко многие мясники жарят кефту на гриле прямо на месте и подают её с очень сладким мятным чаем."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Choumicha (n° 943 : avec du pain et du thé à la menthe)",
+   "t": "My Moroccan Food; Choumicha (№ 943: с хлебом и мятным чаем)"
+  },
+  "mistakes.0": {
+   "fr": "Servir la kefta encore rosée au centre : la viande hachée doit être cuite à cœur (70 °C), surtout pour les jeunes enfants, les femmes enceintes, les personnes âgées et les personnes immunodéprimées (Anses ; FSA, pour qui la viande hachée doit être cuite jusqu'au centre et les burgers ne doivent jamais être servis rosés à la maison).",
+   "t": "Подавать кефту, ещё розовую в центре: фарш должен прожариться насквозь (70 °C), особенно для маленьких детей, беременных, пожилых людей и людей с ослабленным иммунитетом (Anses; FSA: фарш нужно готовить до самого центра, а бургеры дома никогда не подают с розовой серединой)."
+  },
+  "mistakes.1": {
+   "fr": "Remettre la kefta cuite dans l'assiette de la viande crue, ou hacher les herbes sur la planche de la viande (Anses).",
+   "t": "Класть готовую кефту на тарелку из-под сырого мяса или рубить зелень на доске для мяса (Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de se laver les mains au savon après avoir touché la viande crue (Anses).",
+   "t": "Забывать вымыть руки с мылом после того, как трогали сырое мясо (Anses)."
+  },
+  "mistakes.3": {
+   "fr": "Prendre une viande trop maigre : My Moroccan Food demande 15 à 20 % de gras.",
+   "t": "Брать слишком постное мясо: My Moroccan Food требует 15–20 % жира."
+  },
+  "mistakes.4": {
+   "fr": "Garder tout le jus de l'oignon râpé (Cooking With Alia ; Mama's Lebanese Kitchen).",
+   "t": "Оставлять весь сок тёртого лука (Cooking With Alia; Mama's Lebanese Kitchen)."
+  },
+  "mistakes.5": {
+   "fr": "Poser la viande dans une poêle encore froide (Cooking With Alia ; Lalla Moulati).",
+   "t": "Выкладывать мясо на ещё холодную сковороду (Cooking With Alia; Lalla Moulati)."
+  },
+  "mistakes.6": {
+   "fr": "Trop cuire la kefta : elle sèche (Cooking With Alia).",
+   "t": "Пережаривать кефту: она становится сухой (Cooking With Alia)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов, прежде чем убрать их в холодильник (Anses; FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Ranger la viande hachée crue en haut du frigo : mets-la en bas, dans son emballage ou une boîte fermée, pour qu'elle ne coule pas sur le reste (FSA).",
+   "t": "Хранить сырой фарш на верхней полке холодильника: кладите его вниз, в упаковке или закрытом контейнере, чтобы сок не капал на другие продукты (FSA)."
+  },
+  "variants.0": {
+   "fr": "Kefta d'agneau (Cooking With Alia n° 453 ; Choumicha n° 1120 ; Bladi.net) ou de veau (Choumicha n° 467 ; Nada Kiffa, Taste of Maroc, qui admet bœuf, veau ou agneau, seuls ou mêlés).",
+   "t": "Кефта из баранины (Cooking With Alia № 453; Choumicha № 1120; Bladi.net) или из телятины (Choumicha № 467; Nada Kiffa, Taste of Maroc, по словам которой подходят говядина, телятина или баранина, по отдельности или в смеси)."
+  },
+  "variants.1": {
+   "fr": "Avec du gingembre et de la coriandre moulue : Cooking With Alia met ½ c. à c. de gingembre et 1 c. à c. de coriandre en poudre pour 500 g de viande ; Choumicha en met aussi (n° 943).",
+   "t": "С имбирём и молотым кориандром: Cooking With Alia кладёт ½ ч. л. имбиря и 1 ч. л. молотого кориандра на 500 г мяса; Choumicha тоже их добавляет (№ 943)."
+  },
+  "variants.2": {
+   "fr": "Avec 3 c. à s. d'huile d'olive mélangées à la viande (Cooking With Alia, n° 664 et n° 453).",
+   "t": "С 3 ст. л. оливкового масла, вмешанного в фарш (Cooking With Alia, № 664 и № 453)."
+  },
+  "variants.3": {
+   "fr": "Avec une pointe de cannelle et de la marjolaine (Choumicha, n° 771 et n° 943 ; cannelle aussi chez Taste of Maroc, en option, et chez Lalla Moulati en 2014 ; marjolaine séchée aussi chez Nada Kiffa, Taste of Maroc).",
+   "t": "С корицей на кончике ножа и майораном (Choumicha, № 771 и № 943; корица также у Taste of Maroc, по желанию, и у Lalla Moulati в 2014 году; сушёный майоран также у Nada Kiffa, Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Avec de l'ail (Choumicha n° 943 ; Bladi.net).",
+   "t": "С чесноком (Choumicha № 943; Bladi.net)."
+  },
+  "variants.5": {
+   "fr": "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+   "t": "Версия Bladi.net: баранина, чеснок, рас-эль-ханут и яйцо; фрикадельки на шпажках, под грилем духовки, по 6 минут с каждой стороны."
+  },
+  "variants.6": {
+   "fr": "Version de Lalla Moulati : fenouil (besbes) moulu, coriandre sèche, cumin, persil, piment fort (soudania) et petits morceaux de beurre.",
+   "t": "Версия Lalla Moulati: молотый фенхель (бесбес), сушёный кориандр, кумин, петрушка, острый перец (судания) и маленькие кусочки сливочного масла."
+  },
+  "variants.7": {
+   "fr": "En brochettes grillées sur la braise, la façon la plus classique (Choumicha ; Cooking With Alia ; My Moroccan Food).",
+   "t": "Шашлычки на углях — самый классический способ (Choumicha; Cooking With Alia; My Moroccan Food)."
+  },
+  "variants.8": {
+   "fr": "Avec une sauce au yaourt, au persil, à la menthe et au citron (Cooking With Alia n° 453 ; Femmes du Maroc).",
+   "t": "С соусом из йогурта, петрушки, мяты и лимона (Cooking With Alia № 453; Femmes du Maroc)."
+  },
+  "variants.9": {
+   "fr": "En sandwich, avec de la laitue (Lalla Moulati).",
+   "t": "В сэндвиче, с листьями салата (Lalla Moulati)."
+  },
+  "variants.10": {
+   "fr": "Version libanaise (kafta) : bœuf, oignon, persil et sept-épices ; Hadia la sert avec du taboulé et du houmous (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
+   "t": "Ливанская версия (кафта): говядина, лук, петрушка и смесь «семь специй»; Hadia подаёт её с табуле и хумусом (Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine)."
+  }
+ }
+}

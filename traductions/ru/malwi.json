@@ -1,0 +1,470 @@
+{
+ "_slug": "malwi",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Malwi (meloui), galettes feuilletées en spirale",
+   "t": "Мальви (мелуи), слоёные лепёшки-спирали"
+  },
+  "darija": {
+   "fr": "malwi ou meloui (pluriel : malawi, mlawi)",
+   "t": "мальви, или мелуи (мн. ч.: малави, млави)"
+  },
+  "tagline": {
+   "fr": "Une pâte étirée très fin, pliée en bande puis roulée en escargot : un malwi bien fait se déroule couche par couche, tout chaud, avec du beurre et du miel.",
+   "t": "Тесто, растянутое очень тонко, сложенное полосой и свёрнутое улиткой: хорошо приготовленный мальви разворачивается слой за слоем, горячий, со сливочным маслом и мёдом."
+  },
+  "region": {
+   "fr": "Tout le Maroc (en vente dans la rue et chez les boulangers) ; un grand classique du ftour à Rabat",
+   "t": "По всему Марокко (продаётся на улице и в пекарнях); одно из классических блюд ифтара в Рабате"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "Завтрак, полдник с чаем, ифтар в Рамадан"
+  },
+  "img_alt": {
+   "fr": "Malwi (meloui) servi sur une assiette marocaine, dans un riad de Marrakech",
+   "t": "Мальви (мелуи) на марокканской тарелке в одном из риадов Марракеша"
+  },
+  "serving": {
+   "fr": "Bien chauds, avec du beurre et du miel (Taste of Maroc ; Morocco World News 2017 et 2019), de la confiture ou du fromage frais (Taste of Maroc ; Cooking with Alia : miel ou fromage) ; pour le fromage, choisis-en un à coagulant microbien, sans présure animale, si tu veux être strict. La façon traditionnelle, selon Taste of Maroc : les tremper dans un sirop chaud de beurre fondu et de miel. Au petit-déjeuner et à l'heure du thé (Taste of Maroc), et au ftour du ramadan : Choumicha classe son m'laoui dans « Ramadan », et Femmes du Maroc le cite parmi les grands classiques du ftour à Rabat. Ils ne se gardent pas plus d'un jour à température ambiante ; une fois refroidis, ils se congèlent jusqu'à 2 mois et se réchauffent à la poêle ou au four à 180 °C (Taste of Maroc).",
+   "t": "Очень горячими, со сливочным маслом и мёдом (Taste of Maroc; Morocco World News 2017 и 2019), вареньем или свежим сыром (Taste of Maroc; Cooking with Alia: мёд или сыр); если вы придерживаетесь строгих правил, выбирайте сыр на микробном ферменте, без животного сычужного фермента. Традиционный способ, по Taste of Maroc: обмакивать их в горячий сироп из растопленного сливочного масла и мёда. На завтрак и к чаю (Taste of Maroc), а также на ифтар в Рамадан: Choumicha относит свой млауи к разделу «Рамадан», а Femmes du Maroc называет его одним из классических блюд ифтара в Рабате. При комнатной температуре они хранятся не больше суток; остывшие, их можно заморозить на срок до 2 месяцев и разогреть на сковороде или в духовке при 180 °C (Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (T45 ou T55)",
+   "t": "белой пшеничной муки (T45 или T55)"
+  },
+  "ing.farine.note": {
+   "fr": "farine de blé tendre",
+   "t": "мука из мягкой пшеницы"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule extra-fine (fino) ou de semoule fine",
+   "t": "очень мелкой семолины (fino) или мелкой семолины"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne au malwi son goût et sa texture",
+   "t": "именно она даёт мальви его вкус и текстуру"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère",
+   "t": "дрожжей"
+  },
+  "ing.levure.note": {
+   "fr": "pas plus : une toute petite quantité suffit, sans temps de levée",
+   "t": "не больше: хватит совсем немного, тесто не нужно оставлять подниматься"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "сахара"
+  },
+  "ing.sucre.note": {
+   "fr": "facultatif : Choumicha et Cooking with Alia n'en mettent pas",
+   "t": "по желанию: Choumicha и Cooking with Alia его не кладут"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "тёплой воды"
+  },
+  "ing.eau.note": {
+   "fr": "environ : verse-la petit à petit, il en faut de 200 à 225 ml selon ta farine",
+   "t": "примерно: вливайте её понемногу, в зависимости от муки нужно от 200 до 225 мл"
+  },
+  "ing.1.group": {
+   "fr": "Pour feuilleter",
+   "t": "Для слоения"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre (tournesol), pour le plan de travail, les mains et les pâtons",
+   "t": "растительного масла без запаха (подсолнечного) для рабочей поверхности, рук и шариков теста"
+  },
+  "ing.huile.note": {
+   "fr": "environ",
+   "t": "примерно"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, fondu",
+   "t": "сливочного масла, растопленного"
+  },
+  "ing.semoule-feuilletage.name": {
+   "fr": "de semoule fine, à saupoudrer entre les couches",
+   "t": "мелкой семолины, чтобы посыпать между слоями"
+  },
+  "ing.semoule-feuilletage.note": {
+   "fr": "environ",
+   "t": "примерно"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "мёд"
+  },
+  "ing.beurre-service.name": {
+   "fr": "beurre",
+   "t": "сливочное масло"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier (ou une gsaa)",
+   "t": "Большая миска (или гсаа)"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine",
+   "t": "Кухонные весы"
+  },
+  "equipment.2": {
+   "fr": "Un grand plan de travail lisse, d'au moins 30 cm de côté (ou un grand plateau)",
+   "t": "Большая гладкая рабочая поверхность со стороной не меньше 30 см (или большой поднос)"
+  },
+  "equipment.3": {
+   "fr": "Un grand plateau huilé, pour les pâtons et les spirales",
+   "t": "Большой смазанный маслом поднос для шариков теста и спиралей"
+  },
+  "equipment.4": {
+   "fr": "Trois bols : huile, beurre fondu, semoule",
+   "t": "Три миски: для растительного масла, растопленного сливочного масла и семолины"
+  },
+  "equipment.5": {
+   "fr": "Du film alimentaire ou un torchon propre",
+   "t": "Пищевая плёнка или чистое полотенце"
+  },
+  "equipment.6": {
+   "fr": "Une grande poêle à fond épais (ou deux poêles, ou une plaque double)",
+   "t": "Большая сковорода с толстым дном (или две сковороды, или двойная жарочная поверхность)"
+  },
+  "equipment.7": {
+   "fr": "Une grille",
+   "t": "Решётка"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger la pâte",
+   "t": "Смешайте тесто"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule, {{sel}} de sel, {{levure}} de levure et, si tu en mets, {{sucre}} de sucre. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une pâte souple qui ne colle pas. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "t": "В большой миске смешайте муку ({{farine}}), семолину ({{semoule}}), соль ({{sel}}), дрожжи ({{levure}}) и, если кладёте, сахар ({{sucre}}). Понемногу вливайте {{eau}} тёплой воды, перемешивая рукой, пока не получится мягкое тесто, которое не липнет. Если оно липнет, добавьте немного муки; если сухое — немного воды."
+  },
+  "steps.1.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "Месите 10 минут"
+  },
+  "steps.1.text": {
+   "fr": "Pétris pendant 10 minutes, avec les poings et les paumes, jusqu'à ce que la pâte soit lisse, souple et élastique.",
+   "t": "Месите 10 минут кулаками и ладонями, пока тесто не станет гладким, мягким и эластичным."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Замес"
+  },
+  "steps.1.timer.done": {
+   "fr": "Touche la pâte : si elle n'est pas encore lisse et élastique, pétris encore un peu.",
+   "t": "Потрогайте тесто: если оно ещё не гладкое и не эластичное, помесите ещё немного."
+  },
+  "steps.1.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Руки, замешивающие тесто"
+  },
+  "steps.1.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Замес теста"
+  },
+  "steps.2.title": {
+   "fr": "Former les pâtons",
+   "t": "Сформуйте шарики теста"
+  },
+  "steps.2.text": {
+   "fr": "Huile tes mains et un grand plateau. Partage la pâte en boules de la taille d'un œuf, environ 60 g, une par malwi. Roule-les dans un peu d'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+   "t": "Смажьте маслом руки и большой поднос. Разделите тесто на шарики размером с яйцо, около 60 г, по одному на каждый мальви. Обваляйте их в небольшом количестве масла, выложите на поднос так, чтобы они не касались друг друга, накройте и оставьте на 15 минут."
+  },
+  "steps.2.timer.label": {
+   "fr": "Repos des pâtons",
+   "t": "Отдых шариков теста"
+  },
+  "steps.2.timer.done": {
+   "fr": "Les pâtons ont reposé : tu peux commencer à étirer.",
+   "t": "Шарики отдохнули: можно начинать растягивать."
+  },
+  "steps.3.title": {
+   "fr": "Préparer ton poste",
+   "t": "Подготовьте рабочее место"
+  },
+  "steps.3.text": {
+   "fr": "Pendant le repos, fais fondre {{beurre}} de beurre. Mets à portée de main trois bols : le beurre fondu, {{huile}} d'huile et {{semoule-feuilletage}} de semoule. Huile largement ton plan de travail.",
+   "t": "Пока тесто отдыхает, растопите {{beurre}} сливочного масла. Поставьте под рукой три миски: с растопленным сливочным маслом, с {{huile}} растительного масла и с {{semoule-feuilletage}} семолины. Щедро смажьте маслом рабочую поверхность."
+  },
+  "steps.4.title": {
+   "fr": "Étirer très fin",
+   "t": "Растяните очень тонко"
+  },
+  "steps.4.text": {
+   "fr": "Pose un pâton au centre du plan huilé. Mains huilées, aplatis-le, puis étire-le du bout des doigts, du centre vers les bords, jusqu'à une feuille très fine, presque transparente. Remets de l'huile si la pâte accroche, et essaie de ne pas la déchirer.",
+   "t": "Положите шарик теста в центр смазанной поверхности. Смазанными маслом руками расплющьте его, затем растягивайте кончиками пальцев от центра к краям в очень тонкий, почти прозрачный лист. Если тесто прилипает, добавьте масла и старайтесь его не порвать."
+  },
+  "steps.4.img.alt": {
+   "fr": "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)",
+   "t": "Смазанные маслом руки растягивают очень тонкое тесто, Марокко (здесь для мсемена)"
+  },
+  "steps.4.img.caption": {
+   "fr": "Étirer du bout des doigts",
+   "t": "Растягивание кончиками пальцев"
+  },
+  "steps.5.title": {
+   "fr": "Beurrer et saupoudrer",
+   "t": "Смажьте маслом и посыпьте семолиной"
+  },
+  "steps.5.text": {
+   "fr": "Étale un peu de beurre fondu sur toute la feuille avec les doigts, puis saupoudre-la légèrement de semoule.",
+   "t": "Пальцами распределите немного растопленного сливочного масла по всему листу, затем слегка посыпьте его семолиной."
+  },
+  "steps.6.title": {
+   "fr": "Plier en longue bande",
+   "t": "Сложите длинной полосой"
+  },
+  "steps.6.text": {
+   "fr": "Rabats le bord du haut jusqu'au centre, beurre-le et saupoudre-le d'un peu de semoule. Rabats le bord du bas par-dessus : tu obtiens une longue bande étroite. Beurre-la et saupoudre-la à son tour.",
+   "t": "Загните верхний край до середины, смажьте его сливочным маслом и посыпьте небольшим количеством семолины. Сверху загните нижний край: получится длинная узкая полоса. Смажьте и посыпьте её тоже."
+  },
+  "steps.6.tip": {
+   "fr": "Pour encore plus de couches, plie la feuille en quatre dans la longueur, en beurrant et en saupoudrant à chaque pli.",
+   "t": "Чтобы слоёв было ещё больше, сложите лист вчетверо по длине, смазывая маслом и посыпая семолиной каждый слой."
+  },
+  "steps.7.title": {
+   "fr": "Enrouler en spirale",
+   "t": "Сверните спиралью"
+  },
+  "steps.7.text": {
+   "fr": "Aplatis légèrement la bande pour chasser l'air. Enroule-la sur elle-même, bien serrée, comme un tapis : tu obtiens un escargot. Rentre le bout sous la spirale et pince-le pour qu'il tienne.",
+   "t": "Слегка придавите полосу, чтобы выгнать воздух. Плотно сверните её, как ковёр: получится улитка. Заправьте кончик под спираль и прищипните, чтобы он держался."
+  },
+  "steps.8.title": {
+   "fr": "Laisser reposer les spirales",
+   "t": "Дайте спиралям отдохнуть"
+  },
+  "steps.8.text": {
+   "fr": "Pose la spirale debout sur le plateau huilé, côté enroulé vers le haut. Étire, beurre, plie et enroule de la même façon les autres pâtons, un par un, sans que les spirales se touchent. Couvre et laisse reposer 15 minutes.",
+   "t": "Поставьте спираль на смазанный маслом поднос завитком вверх. Так же по одному растяните, смажьте маслом, сложите и сверните остальные шарики теста, следя, чтобы спирали не касались друг друга. Накройте и оставьте на 15 минут."
+  },
+  "steps.8.timer.label": {
+   "fr": "Repos des spirales",
+   "t": "Отдых спиралей"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les spirales ont reposé : fais chauffer la poêle.",
+   "t": "Спирали отдохнули: разогрейте сковороду."
+  },
+  "steps.9.title": {
+   "fr": "Chauffer la poêle",
+   "t": "Разогрейте сковороду"
+  },
+  "steps.9.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais à feu moyen.",
+   "t": "Разогрейте большую сковороду с толстым дном на среднем огне."
+  },
+  "steps.10.title": {
+   "fr": "Aplatir la spirale",
+   "t": "Расплющите спираль"
+  },
+  "steps.10.text": {
+   "fr": "Huile ton plan de travail et tes mains. Prends la première spirale, côté enroulé vers le haut, et aplatis-la fermement du bout des doigts, du centre vers les bords, jusqu'à un disque d'environ 3 mm d'épaisseur, soit environ 15 cm de large.",
+   "t": "Смажьте маслом рабочую поверхность и руки. Возьмите первую спираль завитком вверх и с усилием расплющьте её кончиками пальцев от центра к краям в диск толщиной около 3 мм, то есть шириной около 15 см."
+  },
+  "steps.11.title": {
+   "fr": "Cuire en retournant",
+   "t": "Жарьте, переворачивая"
+  },
+  "steps.11.text": {
+   "fr": "Dépose le malwi dans la poêle chaude et retourne-le plusieurs fois, jusqu'à ce qu'il soit bien doré et croustillant des deux côtés et cuit au centre : compte quelques minutes. S'il colore trop vite, baisse un peu le feu, sinon le centre reste cru. Si ta poêle est grande, cuis-en deux à la fois.",
+   "t": "Выложите мальви на горячую сковороду и несколько раз переверните, пока он не станет хорошо подрумяненным и хрустящим с обеих сторон и пропечённым в центре: на это уйдёт несколько минут. Если он слишком быстро темнеет, немного убавьте огонь, иначе середина останется сырой. Если сковорода большая, жарьте по два сразу."
+  },
+  "steps.11.img.alt": {
+   "fr": "Malwi qui cuit sur une plaque de terre bombée, au-dessus d'un feu de bois, au Maroc",
+   "t": "Мальви печётся на выпуклой глиняной плите над дровяным огнём, Марокко"
+  },
+  "steps.11.img.caption": {
+   "fr": "La cuisson à l'ancienne, sur le feu de bois",
+   "t": "По-старинному, на дровяном огне"
+  },
+  "steps.12.title": {
+   "fr": "Sortir sur une grille",
+   "t": "Переложите на решётку"
+  },
+  "steps.12.text": {
+   "fr": "Pose le malwi cuit sur une grille. Continue avec les autres spirales, en les aplatissant au fur et à mesure.",
+   "t": "Переложите готовый мальви на решётку. Продолжайте с остальными спиралями, расплющивая их по мере жарки."
+  },
+  "steps.13.title": {
+   "fr": "Servir chaud",
+   "t": "Подавайте горячими"
+  },
+  "steps.13.text": {
+   "fr": "Sers les malwi chauds, avec du {{beurre-service}} et du {{miel}}.",
+   "t": "Подавайте мальви горячими, со сливочным маслом и мёдом."
+  },
+  "steps.13.tip": {
+   "fr": "La façon traditionnelle : chauffe du beurre et du miel à parts égales dans une poêle, coupe le feu dès que ça commence à bouillonner, et trempe chaque malwi chaud des deux côtés.",
+   "t": "Традиционный способ: разогрейте на сковороде сливочное масло и мёд в равных долях, выключите огонь, как только смесь начнёт пузыриться, и обмакните каждый горячий мальви с обеих сторон."
+  },
+  "secrets.0.text": {
+   "fr": "Malwi veut dire « roulé » en darija. Bien fait, il garde la trace de sa spirale : tu peux le dérouler du bord vers le centre en le mangeant.",
+   "t": "На дарижа (марокканском арабском) «мальви» значит «свёрнутый». Хорошо приготовленный, он сохраняет след спирали: его можно разворачивать от края к центру, пока едите."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.1.text": {
+   "fr": "La semoule (ou la farine de blé dur) est la clé du goût et de la texture traditionnels. Ici, elle fait un tiers du mélange de farine.",
+   "t": "Семолина (или мука из твёрдой пшеницы) — ключ к традиционному вкусу и текстуре. Здесь она составляет треть мучной смеси."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; proportion de Choumicha (250 g de farine pour 125 g de blé dur), la même que chez Lalla Moulati (500 g pour 250 g)",
+   "t": "Taste of Maroc; пропорция Choumicha (250 г муки на 125 г твёрдой пшеницы), та же, что у Lalla Moulati (500 г на 250 г)"
+  },
+  "secrets.2.text": {
+   "fr": "La levure n'est là qu'en toute petite quantité, et il n'y a pas d'étape de levée.",
+   "t": "Дрожжей кладут совсем немного, и этапа расстойки нет."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc (« a very tiny amount of yeast ») ; Choumicha (2 pincées, sans levée)",
+   "t": "Taste of Maroc («совсем крошечное количество дрожжей»); Choumicha (2 щепотки, без расстойки)"
+  },
+  "secrets.3.text": {
+   "fr": "Pétris bien, puis laisse reposer : le pétrissage donne l'élasticité qu'il faut pour feuilleter, et le repos rend la pâte plus malléable.",
+   "t": "Хорошо вымесите, затем дайте тесту отдохнуть: замес даёт эластичность, нужную для слоения, а отдых делает тесто податливее."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs",
+   "t": "Choumicha, советы для удачных ргаиф"
+  },
+  "secrets.4.text": {
+   "fr": "Huile les pâtons et couvre-les : sinon, ils forment une croûte.",
+   "t": "Смажьте шарики теста маслом и накройте: иначе они покроются корочкой."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha, conseils pour les r'ghaifs ; Taste of Maroc et Cooking with Alia (pâtons huilés et couverts)",
+   "t": "Choumicha, советы для ргаиф; Taste of Maroc и Cooking with Alia (шарики теста смазаны маслом и накрыты)"
+  },
+  "secrets.5.text": {
+   "fr": "Avant d'enrouler la bande, aplatis-la pour chasser les bulles d'air.",
+   "t": "Прежде чем сворачивать полосу, придавите её, чтобы выгнать пузырьки воздуха."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Enroule bien serré : trop lâches, les couches se séparent quand tu aplatis la spirale.",
+   "t": "Сворачивайте плотно: если слои свёрнуты слишком свободно, они расходятся, когда вы расплющиваете спираль."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Fixe le bout de la bande dans la spirale, sinon elle se déroule.",
+   "t": "Закрепите кончик полосы в спирали, иначе она развернётся."
+  },
+  "secrets.7.source": {
+   "fr": "Choumicha (extrémités rentrées dans la pelote) ; Cooking with Alia (bout pincé)",
+   "t": "Choumicha (концы заправлены внутрь клубка); Cooking with Alia (кончик прищипнут)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour saupoudrer entre les couches, la semoule fine convient mieux que la farine de blé dur.",
+   "t": "Для посыпки между слоями мелкая семолина подходит лучше, чем мука из твёрдой пшеницы."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Cuis les spirales dans l'ordre où tu les as roulées.",
+   "t": "Жарьте спирали в том порядке, в каком вы их сворачивали."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Pas de feu trop vif : le malwi a besoin de temps pour cuire jusqu'au centre.",
+   "t": "Не делайте огонь слишком сильным: мальви нужно время, чтобы пропечься до середины."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia (dorer jusqu'à ce que le centre soit cuit)",
+   "t": "Taste of Maroc; Cooking with Alia (подрумянивать, пока середина не пропечётся)"
+  },
+  "secrets.11.text": {
+   "fr": "Sitôt sorti de la poêle, pousse les bords vers le centre pour l'aérer.",
+   "t": "Сразу после того как снимете мальви со сковороды, сдвиньте края к центру, чтобы он стал воздушнее."
+  },
+  "secrets.11.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Les malwi complètement refroidis se congèlent jusqu'à 2 mois. Réchauffe-les, décongelés ou non, à la poêle, ou quelques minutes directement sur la grille du four à 180 °C.",
+   "t": "Полностью остывшие мальви можно заморозить на срок до 2 месяцев. Разогревайте их, размороженными или нет, на сковороде или несколько минут прямо на решётке духовки при 180 °C."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; congélation aussi chez Lalla Moulati (« طريقة الاحتفاظ به فالمجمد »)",
+   "t": "Taste of Maroc; заморозка также у Lalla Moulati («طريقة الاحتفاظ به فالمجمد»)"
+  },
+  "mistakes.0": {
+   "fr": "Verser toute l'eau d'un coup : la pâte devient collante ; ajoute-la petit à petit (Cooking with Alia ; My Moroccan Food, pour la pâte à msemen).",
+   "t": "Вливать всю воду сразу: тесто становится липким; добавляйте её понемногу (Cooking with Alia; My Moroccan Food — для теста мсемена)."
+  },
+  "mistakes.1": {
+   "fr": "Écourter le pétrissage ou le repos : la pâte est moins souple et se feuillette mal (Choumicha, conseils pour les r'ghaifs).",
+   "t": "Сокращать замес или отдых: тесто становится менее податливым и плохо слоится (Choumicha, советы для ргаиф)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser les pâtons à l'air sans huile : ils font une croûte (Choumicha).",
+   "t": "Оставлять шарики теста на воздухе без масла: они покрываются корочкой (Choumicha)."
+  },
+  "mistakes.3": {
+   "fr": "Déchirer la feuille en l'étirant : remets de l'huile et étire plus doucement (Taste of Maroc).",
+   "t": "Рвать лист, растягивая его: добавьте масла и растягивайте аккуратнее (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Enrouler la bande trop lâche : les couches se séparent à l'aplatissage (Taste of Maroc).",
+   "t": "Сворачивать полосу слишком свободно: при расплющивании слои расходятся (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Cuire sur un feu trop vif : dehors doré, centre cru (Taste of Maroc).",
+   "t": "Жарить на слишком сильном огне: снаружи румяный, внутри сырой (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Garder les malwi plus d'un jour à température ambiante : congèle-les plutôt (Taste of Maroc).",
+   "t": "Хранить мальви при комнатной температуре дольше суток: лучше заморозьте их (Taste of Maroc)."
+  },
+  "variants.0": {
+   "fr": "Malwi au khlii : parsème la feuille de khlii émietté avant de la plier et de l'enrouler ; Choumicha en met 100 g pour sa pâte de 250 g de farine et 125 g de blé dur (Choumicha, « M'laoui / M'laoui au Khliï »). Khlii de viande halal, et de graisse halal elle aussi : il est confit dans du suif de bœuf et de l'huile d'olive, ou conservé dans l'huile d'olive seule (Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »).",
+   "t": "Мальви с хлии (вяленым мясом в жиру): посыпьте лист раскрошенным хлии, прежде чем сложить и свернуть его; Choumicha кладёт 100 г на своё тесто из 250 г муки и 125 г твёрдой пшеницы (Choumicha, «M'laoui / M'laoui au Khliï»). Хлии — из мяса халяль и на жире тоже халяль: его томят в говяжьем жире с оливковым маслом или хранят только в оливковом масле (Taste of Maroc, «Moroccan Preserved Meat – Khlii or Khlea»)."
+  },
+  "variants.1": {
+   "fr": "Moitié semoule, moitié farine : texture plus rustique, le mélange préféré de Taste of Maroc pour le malwi ; Morocco World News (2019) le décrit aussi « moitié semoule, moitié farine » (Taste of Maroc ; Morocco World News).",
+   "t": "Пополам семолина и мука: более деревенская текстура, любимая смесь Taste of Maroc для мальви; Morocco World News (2019) тоже описывает его как «наполовину семолина, наполовину мука» (Taste of Maroc; Morocco World News)."
+  },
+  "variants.2": {
+   "fr": "Un peu de farine complète dans la pâte, pour le goût (Taste of Maroc : 60 g de farine complète sur 630 g).",
+   "t": "Немного цельнозерновой муки в тесте — для вкуса (Taste of Maroc: 60 г цельнозерновой муки из 630 г)."
+  },
+  "variants.3": {
+   "fr": "Méthode rapide de Taste of Maroc : étire un pâton en carré, beurre, saupoudre et roule-le comme un roulé à la cannelle ; enroule ce rouleau dans un deuxième carré, puis un troisième, jusqu'à la moitié des pâtons ; coupe le gros rouleau en 8 tranches, pose-les côté spirale vers le haut et laisse reposer 15 à 20 minutes avant d'aplatir (Taste of Maroc).",
+   "t": "Быстрый способ Taste of Maroc: растяните шарик теста в квадрат, смажьте маслом, посыпьте и сверните рулетом, как булочку с корицей; заверните этот рулет во второй квадрат, потом в третий и так далее, пока не используете половину шариков; разрежьте большой рулет на 8 кусков, положите их спиралью вверх и дайте отдохнуть 15–20 минут, прежде чем расплющивать (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "De la levure chimique dans la pâte : des recettes publiées par Lalla Moulati en mettent un sachet (Lalla Moulati, 2 août 2022 et 2 août 2023 ; la liste du 1er octobre 2023 en cite aussi, sans dire si c'est pour la pâte ou pour feuilleter).",
+   "t": "С разрыхлителем в тесте: в рецептах, опубликованных Lalla Moulati, кладут пакетик (Lalla Moulati, 2 августа 2022 и 2 августа 2023; в списке от 1 октября 2023 он тоже упомянут, но не сказано, для теста или для слоения)."
+  }
+ }
+}

@@ -1,0 +1,454 @@
+{
+ "_slug": "chakchouka",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Chakchouka à la marocaine",
+   "t": "Moroccan-style chakchouka"
+  },
+  "darija": {
+   "fr": "Chakchouka",
+   "t": "Chakchouka"
+  },
+  "tagline": {
+   "fr": "Des poivrons verts grillés et des tomates mijotés à l'ail, au cumin et au paprika, avec des œufs cuits dessus. On la mange bien chaude, dans la poêle, avec du pain.",
+   "t": "Roasted green peppers and tomatoes simmered with garlic, cumin and paprika, with eggs cooked on top. It is eaten piping hot, in the pan, with bread."
+  },
+  "region": {
+   "fr": "Tout le Maghreb. Au Maroc, le nom désigne la poêlée de poivrons verts et de tomates à l'ail, mangée seule en salade cuite ou chaude avec des œufs (Wikipédia FR, section Maroc ; forum Yabiladi).",
+   "t": "The whole Maghreb. In Morocco, the name refers to the pan-cooked mix of green peppers and tomatoes with garlic, eaten on its own as a cooked salad or hot with eggs (Wikipedia FR, Morocco section; Yabiladi forum)."
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, dîner ou plat simple (vite fait avec des poivrons crus) ; Rachida la dit aussi très appréciée pendant le Ramadan. Sans œufs, elle se sert en salade cuite.",
+   "t": "Breakfast, dinner or a simple meal (quick with raw peppers); Rachida also says it is very popular during Ramadan. Without eggs, it is served as a cooked salad."
+  },
+  "img_alt": {
+   "fr": "Œufs cuits dans une poêle en fonte sur des poivrons et des tomates, avec du persil",
+   "t": "Eggs cooked in a cast-iron pan on peppers and tomatoes, with parsley"
+  },
+  "serving": {
+   "fr": "Sers la chakchouka aux œufs bien chaude, dans la poêle, dès la fin de la cuisson, avec du pain pour saucer (Lalla Moulati 2019 ; Rachida). Elle se mange au petit-déjeuner (Lalla Moulati 2019 ; Rachida) ou en plat principal (Rachida). Sans œufs, sers-la tiède ou froide, en salade cuite, comme une taktouka (Wikipédia FR ; chef Brahim Sakroune dans Femmes du Maroc).",
+   "t": "Serve the chakchouka with eggs piping hot, in the pan, as soon as it is cooked, with bread for mopping up (Lalla Moulati 2019; Rachida). It is eaten at breakfast (Lalla Moulati 2019; Rachida) or as a main course (Rachida). Without eggs, serve it warm or cold, as a cooked salad, like a taktouka (Wikipedia FR; chef Brahim Sakroune in Femmes du Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Légumes",
+   "t": "Vegetables"
+  },
+  "ing.poivrons.name": {
+   "fr": "poivron vert",
+   "t": "green pepper"
+  },
+  "ing.poivrons.pl": {
+   "fr": "poivrons verts",
+   "t": "green peppers"
+  },
+  "ing.poivrons.note": {
+   "fr": "à griller sans les couper",
+   "t": "to be roasted whole"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher",
+   "t": "to be chopped"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher",
+   "t": "to be chopped"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson et épices",
+   "t": "Cooking and spices"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust to taste"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.2.group": {
+   "fr": "Œufs et service",
+   "t": "Eggs and serving"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.oeufs.note": {
+   "fr": "un par personne",
+   "t": "one per person"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "ou de coriandre",
+   "t": "or coriander"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, pour servir",
+   "t": "a drizzle, to serve"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "bread (khobz)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "for mopping up"
+  },
+  "equipment.0": {
+   "fr": "Gazinière (sinon, four en position gril et une plaque)",
+   "t": "Gas hob (otherwise, an oven with a grill setting and a baking tray)"
+  },
+  "equipment.1": {
+   "fr": "Sac en plastique propre (type sac de congélation)",
+   "t": "Clean plastic bag (a freezer bag, for example)"
+  },
+  "equipment.2": {
+   "fr": "Grande poêle profonde avec couvercle",
+   "t": "Large deep frying pan with a lid"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "Grater"
+  },
+  "equipment.4": {
+   "fr": "Planche et couteau",
+   "t": "Chopping board and knife"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "steps.0.title": {
+   "fr": "Grille les poivrons",
+   "t": "Roast the peppers"
+  },
+  "steps.0.text": {
+   "fr": "Grille {{poivrons:full}} directement sur la flamme du gaz, en tournant souvent, jusqu'à ce que la peau soit noircie de tous les côtés. Sans gaz, utilise le gril du four, sur une plaque, en tournant régulièrement.",
+   "t": "Roast {{poivrons:full}} directly over the gas flame, turning often, until the skin is blackened on all sides. If you don't have gas, use the oven grill, on a baking tray, turning regularly."
+  },
+  "steps.0.tip": {
+   "fr": "Rachida les grille aussi au four, en position gril, à 200 °C.",
+   "t": "Rachida also roasts them in the oven, on the grill setting, at 200 °C."
+  },
+  "steps.1.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "Seal them in a bag"
+  },
+  "steps.1.text": {
+   "fr": "Glisse les poivrons encore chauds dans un sac en plastique, ferme-le et attends 15 minutes. La vapeur décolle la peau.",
+   "t": "Slip the still-hot peppers into a plastic bag, close it and wait 15 minutes. The steam loosens the skin."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poivrons dans le sac",
+   "t": "Peppers in the bag"
+  },
+  "steps.1.timer.done": {
+   "fr": "Les poivrons ont tiédi : tu peux les peler.",
+   "t": "The peppers have cooled a little: you can peel them."
+  },
+  "steps.2.title": {
+   "fr": "Pèle et coupe les poivrons",
+   "t": "Peel and cut the peppers"
+  },
+  "steps.2.text": {
+   "fr": "Retire la peau brûlée avec les doigts, sans passer les poivrons sous l'eau. Enlève la queue et les graines, puis coupe la chair en petits dés.",
+   "t": "Pull off the charred skin with your fingers, without rinsing the peppers under the tap. Remove the stalk and seeds, then cut the flesh into small dice."
+  },
+  "steps.2.tip": {
+   "fr": "Rince-toi les mains plutôt que les poivrons : ils gardent leur goût fumé.",
+   "t": "Rinse your hands rather than the peppers: that way they keep their smoky flavour."
+  },
+  "steps.3.title": {
+   "fr": "Prépare tomates, oignon, ail et persil",
+   "t": "Prepare the tomatoes, onion, garlic and parsley"
+  },
+  "steps.3.text": {
+   "fr": "Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{oignon:full}} et {{ail:full}}. Lave et hache le persil.",
+   "t": "Cut {{tomates}} tomatoes in half and grate the flesh; throw away the skin. Chop {{oignon:full}} and {{ail:full}}. Wash and chop the parsley."
+  },
+  "steps.3.tip": {
+   "fr": "Tu peux aussi peler les tomates, les épépiner et les couper en petits dés, comme Rachida.",
+   "t": "You can also peel and deseed the tomatoes and cut them into small dice, as Rachida does."
+  },
+  "steps.3.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Grated tomato on a grater"
+  },
+  "steps.3.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.4.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Soften the onion"
+  },
+  "steps.4.text": {
+   "fr": "Dans une grande poêle profonde, chauffe {{huile}} d'huile d'olive à feu doux. Ajoute l'oignon et remue jusqu'à ce qu'il devienne translucide.",
+   "t": "In a large deep frying pan, heat {{huile}} olive oil over low heat. Add the onion and stir until it turns translucent."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'ail et les poivrons",
+   "t": "Add the garlic and peppers"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute l'ail et remue quelques secondes, sans le laisser dorer. Ajoute les dés de poivrons et remue 1 minute.",
+   "t": "Add the garlic and stir for a few seconds, without letting it brown. Add the diced peppers and stir for 1 minute."
+  },
+  "steps.6.title": {
+   "fr": "Assaisonne",
+   "t": "Season"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute {{sel}} de sel, {{paprika}} de paprika, {{cumin}} de cumin et {{poivre}} de poivre noir. Mélange bien.",
+   "t": "Add {{sel}} salt, {{paprika}} paprika, {{cumin}} cumin and {{poivre}} of black pepper. Mix well."
+  },
+  "steps.7.title": {
+   "fr": "Fais mijoter les tomates",
+   "t": "Simmer the tomatoes"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute les tomates râpées et mélange. Laisse mijoter à feu doux, en remuant souvent pour que rien n'attache, jusqu'à obtenir une compotée épaisse, presque sans jus. Goûte et rectifie le sel.",
+   "t": "Add the grated tomatoes and mix. Simmer over low heat, stirring often so that nothing sticks, until you have a thick, jammy mixture with almost no liquid. Taste and adjust the salt."
+  },
+  "steps.8.title": {
+   "fr": "Casse les œufs",
+   "t": "Crack in the eggs"
+  },
+  "steps.8.text": {
+   "fr": "Fais un petit creux dans la sauce pour chaque œuf. Casse {{oeufs:full}} dedans, comme pour des œufs au plat.",
+   "t": "Make a small well in the sauce for each egg. Crack {{oeufs:full}} into the sauce, one in each well, as for fried eggs."
+  },
+  "steps.9.title": {
+   "fr": "Couvre et laisse prendre",
+   "t": "Cover and leave to set"
+  },
+  "steps.9.text": {
+   "fr": "Couvre la poêle et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient bien pris. Pour un jaune bien cuit, laisse 2 à 3 minutes de plus, jusqu'à ce qu'il soit ferme.",
+   "t": "Cover the pan and cook over low heat for about 5 minutes, until the whites are fully set. For a well-cooked yolk, leave it 2 to 3 minutes longer, until it is firm."
+  },
+  "steps.9.tip": {
+   "fr": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Fais-le toujours pour les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles : ce sont eux qui risquent le plus une salmonellose grave (FDA).",
+   "t": "The FDA advises cooking eggs until both the yolk and the white are firm. Always do so for children, elderly people, pregnant women and vulnerable people: they are the most at risk of a serious salmonella infection (FDA)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Œufs à couvert",
+   "t": "Eggs, covered"
+  },
+  "steps.9.timer.done": {
+   "fr": "Les blancs sont-ils bien pris ? Pour un jaune ferme, compte encore 2 à 3 minutes.",
+   "t": "Are the whites fully set? For a firm yolk, allow another 2 to 3 minutes."
+  },
+  "steps.10.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve straight away"
+  },
+  "steps.10.text": {
+   "fr": "Retire du feu. Parsème de {{persil}} de persil haché et arrose d'un filet d'{{huile-service}}. Sers tout de suite dans la poêle, avec du {{khobz}} pour saucer.",
+   "t": "Take off the heat. Scatter over {{persil}} chopped parsley and drizzle with a little {{huile-service}}. Serve immediately in the pan, with {{khobz}} for mopping up."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, on préfère les poivrons grillés, pour leur goût fumé. Pressé ? Coupe-les crus en petits dés et fais-les fondre avec l'oignon : ça marche aussi.",
+   "t": "In Morocco, roasted peppers are preferred, for their smoky flavour. In a hurry? Dice them raw and soften them with the onion: that works too."
+  },
+  "secrets.0.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida) ; forum Yabiladi (2006) pour les deux façons ; Lalla Moulati (2019) pour les poivrons crus",
+   "t": "Rachida (Gâteau et cuisine Rachida); Yabiladi forum (2006) for both methods; Lalla Moulati (2019) for raw peppers"
+  },
+  "secrets.1.text": {
+   "fr": "Enferme les poivrons grillés encore chauds dans un sac fermé : la vapeur décolle la peau, qui s'enlève ensuite très facilement.",
+   "t": "Seal the roasted peppers in a closed bag while they are still hot: the steam loosens the skin, which then comes off very easily."
+  },
+  "secrets.1.source": {
+   "fr": "Rachida (15 min) ; Cooking With Alia (15 à 20 min) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama (méthode de sa belle-mère)",
+   "t": "Rachida (15 min); Cooking With Alia (15 to 20 min); Lalla Moulati (taktouka, 2014 and 2019); MarocMama (her mother-in-law's method)"
+  },
+  "secrets.2.text": {
+   "fr": "Ne passe pas les poivrons grillés sous l'eau : pèle-les à sec pour garder le goût fumé, et rince-toi plutôt les mains.",
+   "t": "Don't rinse the roasted peppers under the tap: peel them dry to keep the smoky flavour, and rinse your hands instead."
+  },
+  "secrets.2.source": {
+   "fr": "Chef Brahim Sakroune dans Femmes du Maroc (2023) ; Lalla Moulati (taktouka, 2014 et 2019)",
+   "t": "Chef Brahim Sakroune in Femmes du Maroc (2023); Lalla Moulati (taktouka, 2014 and 2019)"
+  },
+  "secrets.3.text": {
+   "fr": "Coupe les tomates en deux et râpe la chair en jetant la peau : c'est rapide, et la sauce n'a pas de peaux.",
+   "t": "Cut the tomatoes in half and grate the flesh, throwing away the skin: it's quick, and the sauce has no bits of skin."
+  },
+  "secrets.3.source": {
+   "fr": "Lalla Moulati (tomates râpées, 2019) ; Cooking With Alia (taktouka : chair râpée, peau jetée)",
+   "t": "Lalla Moulati (grated tomatoes, 2019); Cooking With Alia (taktouka: flesh grated, skin discarded)"
+  },
+  "secrets.4.text": {
+   "fr": "L'ail ne doit pas dorer : quelques secondes dans l'huile suffisent pour la parfumer.",
+   "t": "The garlic must not brown: a few seconds in the oil are enough to flavour it."
+  },
+  "secrets.4.source": {
+   "fr": "Rachida",
+   "t": "Rachida"
+  },
+  "secrets.5.text": {
+   "fr": "Avant les œufs, la sauce doit devenir une compotée épaisse. Remue souvent pour qu'elle n'attache pas.",
+   "t": "Before the eggs go in, the sauce must cook down to a thick, jammy mixture. Stir often so that it doesn't stick."
+  },
+  "secrets.5.source": {
+   "fr": "Rachida ; Lalla Moulati (2019 : laisser le mélange épaissir)",
+   "t": "Rachida; Lalla Moulati (2019: let the mixture thicken)"
+  },
+  "secrets.6.text": {
+   "fr": "Casse chaque œuf dans un petit creux de la sauce : il cuit à la surface, comme un œuf au plat.",
+   "t": "Crack each egg into a small well in the sauce: it cooks on the surface, like a fried egg."
+  },
+  "secrets.6.source": {
+   "fr": "Rachida ; Wikipédia FR (section Maroc : œufs au plat cuits à la surface)",
+   "t": "Rachida; Wikipedia FR (Morocco section: fried eggs cooked on the surface)"
+  },
+  "secrets.7.text": {
+   "fr": "Le couvercle cuit le dessus des œufs : environ 5 minutes pour un jaune encore coulant, un peu plus pour un jaune ferme.",
+   "t": "The lid cooks the top of the eggs: about 5 minutes for a still-runny yolk, a little longer for a firm yolk."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama (5 min à couvert, jaune coulant) ; Rachida (couvrir pour un jaune bien cuit) ; Lalla Moulati (2019 : environ 8 min à couvert)",
+   "t": "MarocMama (5 min covered, runny yolk); Rachida (cover for a well-cooked yolk); Lalla Moulati (2019: about 8 min covered)"
+  },
+  "secrets.8.text": {
+   "fr": "Sers dans la poêle, bien chaud, et mange-la à la main avec du pain, à la marocaine.",
+   "t": "Serve in the pan, piping hot, and eat it with your hands and bread, the Moroccan way."
+  },
+  "secrets.8.source": {
+   "fr": "Rachida ; Lalla Moulati (2019 : servir aussitôt)",
+   "t": "Rachida; Lalla Moulati (2019: serve straight away)"
+  },
+  "secrets.9.text": {
+   "fr": "Ne la confonds pas avec la taktouka : c'est le même duo poivrons et tomates, mais en salade cuite, sans œufs, servie tiède ou froide. Pour My Moroccan Food, ce sont deux plats différents.",
+   "t": "Don't confuse it with taktouka: it is the same pepper and tomato pairing, but as a cooked salad, without eggs, served warm or cold. For My Moroccan Food, they are two different dishes."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food (2016) ; Cooking With Alia ; Choumicha (Tektouka marqa) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama ; Rachida",
+   "t": "My Moroccan Food (2016); Cooking With Alia; Choumicha (Tektouka marqa); Lalla Moulati (taktouka, 2014 and 2019); MarocMama; Rachida"
+  },
+  "secrets.10.text": {
+   "fr": "Le plat marocain de tous les jours aux œufs et à la tomate porte un autre nom : « bid w maticha » (œufs et tomates).",
+   "t": "The everyday Moroccan dish of eggs and tomato has another name: “bid w maticha” (eggs and tomatoes)."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)",
+   "t": "Wikipedia EN (Shakshouka); Lalla Moulati (2018: “البيض ومطيشة”, which “everyone knows how to cook”); Hespress (2012: many Moroccan women turn to it for dinner); Al-Quds al-Arabi (2023: for Moroccans, the simplest, best-known and cheapest meal)"
+  },
+  "secrets.11.text": {
+   "fr": "Tomates pas assez douces ? My Moroccan Food ajoute une demi-cuillère à café de sucre à sa taktouka, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
+   "t": "Tomatoes not sweet enough? My Moroccan Food adds half a teaspoon of sugar to her taktouka, and leaves it out when the tomatoes are nice and sweet, as they are in Morocco."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food (taktouka, 2016)",
+   "t": "My Moroccan Food (taktouka, 2016)"
+  },
+  "secrets.12.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte peu profonde, et à manger dans les 3 jours (la FDA va jusqu'à 3 à 4 jours). Réchauffe-les jusqu'à 74 °C (165 °F).",
+   "t": "Leftovers: into the fridge within 2 hours, in a shallow container, to be eaten within 3 days (the FDA allows up to 3 to 4 days). Reheat them to 74 °C (165 °F)."
+  },
+  "secrets.12.source": {
+   "fr": "FDA, « What You Need to Know About Egg Safety » ; Anses, « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques » (8 avril 2020)",
+   "t": "FDA, “What You Need to Know About Egg Safety”; Anses, “Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques” (8 April 2020)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les poivrons grillés sous l'eau : ils perdent leur goût fumé (chef Brahim Sakroune, Femmes du Maroc ; Lalla Moulati).",
+   "t": "Rinsing the roasted peppers under the tap: they lose their smoky flavour (chef Brahim Sakroune, Femmes du Maroc; Lalla Moulati)."
+  },
+  "mistakes.1": {
+   "fr": "Casser les œufs dans une sauce encore liquide : attends qu'elle soit épaisse (Rachida ; Lalla Moulati).",
+   "t": "Cracking the eggs into a sauce that is still runny: wait until it is thick (Rachida; Lalla Moulati)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser attacher la sauce : remue souvent, à feu doux (Rachida).",
+   "t": "Letting the sauce stick: stir often, over low heat (Rachida)."
+  },
+  "mistakes.3": {
+   "fr": "Servir un jaune coulant à un enfant, une personne âgée, une femme enceinte ou une personne fragile : cuis le jaune et le blanc jusqu'à ce qu'ils soient fermes (FDA).",
+   "t": "Serving a runny yolk to a child, an elderly person, a pregnant woman or a vulnerable person: cook the yolk and the white until they are firm (FDA)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Leaving leftovers out of the fridge for more than 2 hours (FDA)."
+  },
+  "variants.0": {
+   "fr": "Sans œufs, en salade cuite : arrête-toi après la compotée et sers tiède ou froid. Au Maroc, certains l'appellent alors aussi taktouka (forum Yabiladi, 2006 : « chekchouka ou taktouka » ; « salade cuite » selon Wikipédia FR ; « salade chakchouka tiède » du chef Brahim Sakroune, Femmes du Maroc, 2023).",
+   "t": "Without eggs, as a cooked salad: stop once the mixture is thick and jammy, and serve warm or cold. In Morocco, some people then also call it taktouka (Yabiladi forum, 2006: “chekchouka or taktouka”; “cooked salad” according to Wikipedia FR; “warm chakchouka salad” by chef Brahim Sakroune, Femmes du Maroc, 2023)."
+  },
+  "variants.1": {
+   "fr": "Poivrons crus, plus rapide : coupe-les en petits dés et fais-les fondre avec l'oignon jusqu'à ce qu'ils soient tendres, puis ajoute l'ail et les épices (Lalla Moulati, 2019 ; forum Yabiladi, 2006).",
+   "t": "Raw peppers, quicker: cut them into small dice and soften them with the onion until tender, then add the garlic and spices (Lalla Moulati, 2019; Yabiladi forum, 2006)."
+  },
+  "variants.2": {
+   "fr": "Œufs brouillés : verse les œufs battus sur la sauce et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014, avec seulement oignon et tomates ; Rachida cite aussi les œufs légèrement brouillés).",
+   "t": "Scrambled eggs: pour the beaten eggs over the sauce and stir until they are cooked (Lalla Moulati, 2014, with just onion and tomatoes; Rachida also mentions lightly scrambled eggs)."
+  },
+  "variants.3": {
+   "fr": "Avec du concentré de tomate : Lalla Moulati (2019) en met 2 c. à s. pour 400 g de tomates râpées.",
+   "t": "With tomato purée: Lalla Moulati (2019) uses 2 tbsp for 400 g grated tomatoes."
+  },
+  "variants.4": {
+   "fr": "Poivrons de couleurs : rouges, verts et jaunes mélangés (Rachida ; chef Brahim Sakroune). Choumicha met un poivron vert et un rouge dans sa tektouka.",
+   "t": "Mixed peppers: red, green and yellow together (Rachida; chef Brahim Sakroune). Choumicha uses one green pepper and one red one in her tektouka."
+  },
+  "variants.5": {
+   "fr": "Plus relevée : un piment, du piment d'Espelette ou de l'harissa (Rachida) ; une pincée de piment de Cayenne (My Moroccan Food, taktouka).",
+   "t": "Spicier: a chilli, piment d'Espelette or harissa (Rachida); a pinch of cayenne pepper (My Moroccan Food, taktouka)."
+  },
+  "variants.6": {
+   "fr": "Sans oignon : seulement poivrons, tomates, ail et épices, comme chez plusieurs internautes de Yabiladi (2006 ; d'autres y mettent de l'oignon) et le chef Brahim Sakroune (2023) ; Rachida propose aussi de l'essayer sans oignon.",
+   "t": "Without onion: just peppers, tomatoes, garlic and spices, the way several Yabiladi forum users (2006; others add onion) and chef Brahim Sakroune (2023) make it; Rachida also suggests trying it without onion."
+  }
+ }
+}

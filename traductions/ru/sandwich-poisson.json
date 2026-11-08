@@ -1,0 +1,370 @@
+{
+ "_slug": "sandwich-poisson",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Sandwich de sardines à la chermoula",
+   "t": "Сэндвич с сардинами и чермулой"
+  },
+  "darija": {
+   "fr": "Sardine mzeouej",
+   "t": "Sardine mzeouej"
+  },
+  "tagline": {
+   "fr": "Un des casse-croûte de rue les plus populaires du Maroc : des sardines farcies à la chermoula, frites et glissées encore chaudes dans un demi-pain, avec de la tomate, de l'oignon et de la harissa.",
+   "t": "Один из самых популярных уличных перекусов Марокко: сардины, фаршированные чермулой, обжаренные и ещё горячими вложенные в половинку булочки, с помидором, луком и хариссой."
+  },
+  "region": {
+   "fr": "Tout le Maroc, surtout les villes côtières ; les sardines farcies frites se vendent aussi, parfois seulement certains jours, à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc). À Marrakech, on trouve aussi un sandwich de kefta de sardines, le hout quari (MarocMama, Halal Xplorer) ; dans le Nord, des bocadillos au poisson (Morocco World News).",
+   "t": "По всему Марокко, особенно в прибрежных городах; жареные фаршированные сардины продают и на площади Джемаа-эль-Фна в Марракеше, и в медине Феса, иногда только в определённые дни (Taste of Maroc). В Марракеше есть и сэндвич с кефтой из сардин — hout quari (MarocMama, Halal Xplorer); на севере — бокадильо с рыбой (Morocco World News)."
+  },
+  "occasion": {
+   "fr": "Casse-croûte de rue, à manger sur le pouce (Morocco World News ; Taste of Maroc)",
+   "t": "Уличный перекус, который едят на ходу (Morocco World News; Taste of Maroc)"
+  },
+  "img_alt": {
+   "fr": "Sandwich de sardines dans un petit pain, avec de la salade",
+   "t": "Сэндвич с сардинами в булочке, с салатом"
+  },
+  "serving": {
+   "fr": "Mange le sandwich tout de suite, quand les sardines sont encore chaudes (Bladi : les sardines farcies se mangent de préférence chaudes). Morocco World News propose de glisser les sardines farcies dans un demi petit pain et de les accompagner d'une boisson, ou de les servir avec la salade marocaine tomate-oignon. Taste of Maroc ajoute du citron et de la harissa. Ne le garde pas plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Ешьте сэндвич сразу, пока сардины ещё горячие (Bladi: фаршированные сардины лучше есть горячими). Morocco World News предлагает вложить фаршированные сардины в половинку булочки и подать с напитком или подать их с марокканским салатом из помидоров и лука. Taste of Maroc добавляет лимон и хариссу. Не держите сэндвич вне холодильника дольше 2 часов (FDA)."
+  },
+  "pairs_label": {
+   "fr": "Les recettes utilisées",
+   "t": "Используемые рецепты"
+  },
+  "ing.0.group": {
+   "fr": "Sardines",
+   "t": "Сардины"
+  },
+  "ing.sardines.name": {
+   "fr": "sardines farcies à la chermoula",
+   "t": "фаршированные чермулой сардины"
+  },
+  "ing.sardines.note": {
+   "fr": "à préparer et à frire avec la recette du poisson frit de l'application (partie sardines)",
+   "t": "приготовить и обжарить по рецепту жареной рыбы из приложения (часть про сардины)"
+  },
+  "ing.1.group": {
+   "fr": "Pain",
+   "t": "Хлеб"
+  },
+  "ing.pain.name": {
+   "fr": "petit pain rond",
+   "t": "булочка круглой формы"
+  },
+  "ing.pain.pl": {
+   "fr": "petits pains ronds",
+   "t": "булочки круглой формы"
+  },
+  "ing.pain.pl5": {
+   "fr": "petit pain rond / petits pains ronds",
+   "t": "булочек круглой формы"
+  },
+  "ing.pain.note": {
+   "fr": "khobz ; un demi-pain par sandwich",
+   "t": "хобз (марокканский хлеб); половина булочки на один сэндвич"
+  },
+  "ing.2.group": {
+   "fr": "Garniture",
+   "t": "Начинка"
+  },
+  "ing.tomate.name": {
+   "fr": "tomates bien mûres",
+   "t": "очень спелые помидоры"
+  },
+  "ing.tomate.note": {
+   "fr": "râpées",
+   "t": "натёртые на тёрке"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "лук"
+  },
+  "ing.oignon.note": {
+   "fr": "haché finement",
+   "t": "мелко порубленный"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "молотый чёрный перец"
+  },
+  "ing.harissa.name": {
+   "fr": "harissa",
+   "t": "харисса"
+  },
+  "ing.harissa.note": {
+   "fr": "selon ton goût",
+   "t": "по вкусу"
+  },
+  "ing.olives.name": {
+   "fr": "olives vertes",
+   "t": "зелёные оливки"
+  },
+  "ing.olives.note": {
+   "fr": "dénoyautées, en rondelles ; facultatif",
+   "t": "без косточек, кружочками; по желанию"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers",
+   "t": "дольками"
+  },
+  "equipment.0": {
+   "fr": "Le matériel de la recette du poisson frit de l'application (friteuse ou poêle profonde, couvercle, écumoire, papier absorbant)",
+   "t": "Всё необходимое для рецепта жареной рыбы из приложения (фритюрница или глубокая сковорода, крышка, шумовка, бумажные полотенца)"
+  },
+  "equipment.1": {
+   "fr": "Râpe (pour les tomates)",
+   "t": "Тёрка (для помидоров)"
+  },
+  "equipment.2": {
+   "fr": "Couteau à pain",
+   "t": "Хлебный нож"
+  },
+  "equipment.3": {
+   "fr": "Planche à découper",
+   "t": "Разделочная доска"
+  },
+  "equipment.4": {
+   "fr": "Petits bols pour la garniture",
+   "t": "Маленькие миски для начинки"
+  },
+  "steps.0.title": {
+   "fr": "Prépare les sardines farcies",
+   "t": "Приготовьте фаршированные сардины"
+  },
+  "steps.0.text": {
+   "fr": "Prépare les {{sardines}} avec la recette du poisson frit de l'application, en ne prenant que des sardines : écaille-les, vide-les, ouvre-les, prépare la chermoula et colle les sardines deux par deux. Avant de toucher le poisson cru, mets un peu de chermoula de côté pour la sauce.",
+   "t": "Приготовьте фаршированные сардины по рецепту жареной рыбы из приложения, используя только сардины: очистите их от чешуи, выпотрошите, раскройте, приготовьте чермулу и склейте сардины попарно. Прежде чем прикасаться к сырой рыбе, отложите немного чермулы для соуса."
+  },
+  "steps.0.tip": {
+   "fr": "Prends de petites sardines bien fraîches, achetées le jour même.",
+   "t": "Берите мелкие, очень свежие сардины, купленные в тот же день."
+  },
+  "steps.1.title": {
+   "fr": "Laisse mariner au frais",
+   "t": "Замаринуйте в холодильнике"
+  },
+  "steps.1.text": {
+   "fr": "Couvre les sardines farcies et mets-les au réfrigérateur au moins 30 minutes. Pendant ce temps, prépare la garniture.",
+   "t": "Накройте фаршированные сардины и уберите в холодильник минимум на 30 минут. Тем временем приготовьте начинку."
+  },
+  "steps.1.timer.label": {
+   "fr": "Marinade",
+   "t": "Маринад"
+  },
+  "steps.1.timer.done": {
+   "fr": "La marinade est prête. Prépare la friture.",
+   "t": "Сардины замариновались. Готовьтесь к жарке."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "Натрите помидоры"
+  },
+  "steps.2.text": {
+   "fr": "Coupe les {{tomate}} en deux et retire les graines. Râpe la chair jusqu'à obtenir une pulpe et jette la peau. Assaisonne de {{sel}} et de {{poivre}}.",
+   "t": "Разрежьте очень спелые помидоры пополам и удалите семена. Натрите мякоть на тёрке до состояния пюре, а кожицу выбросьте. Приправьте солью и молотым чёрным перцем."
+  },
+  "steps.2.tip": {
+   "fr": "La râpe marche mieux avec des tomates très mûres.",
+   "t": "Натирать на тёрке лучше всего очень спелые помидоры."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Помидор на тёрке"
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon",
+   "t": "Порубите лук"
+  },
+  "steps.3.text": {
+   "fr": "Pèle l'{{oignon}} et hache-le finement.",
+   "t": "Очистите лук и мелко порубите."
+  },
+  "steps.4.title": {
+   "fr": "Fais frire les sardines",
+   "t": "Обжарьте сардины"
+  },
+  "steps.4.text": {
+   "fr": "Fais frire les sardines comme dans la recette du poisson frit de l'application : farinées juste avant, dans une huile bien chaude qui ne fume pas, par petites quantités, environ 3 minutes par face, jusqu'à ce qu'elles soient bien dorées.",
+   "t": "Обжарьте сардины, как в рецепте жареной рыбы из приложения: обваляйте в муке непосредственно перед жаркой, жарьте в хорошо разогретом, но не дымящемся масле, небольшими партиями, около 3 минут с каждой стороны, пока они хорошо не зарумянятся."
+  },
+  "steps.4.tip": {
+   "fr": "Ne quitte pas la poêle des yeux. Si l'huile prend feu : jamais d'eau ; glisse le couvercle, coupe le feu si c'est sans danger, ne déplace pas la poêle et appelle sans attendre les pompiers, même si le feu semble éteint.",
+   "t": "Не спускайте глаз со сковороды. Если масло загорелось: никакой воды; надвиньте крышку, выключите огонь, если это безопасно, не переносите сковороду и сразу вызовите пожарных, даже если кажется, что огонь погас."
+  },
+  "steps.4.timer.label": {
+   "fr": "Une face",
+   "t": "Одна сторона"
+  },
+  "steps.4.timer.done": {
+   "fr": "Retourne les sardines, puis relance 3 minutes pour l'autre face.",
+   "t": "Переверните сардины и снова запустите таймер на 3 минуты для другой стороны."
+  },
+  "steps.5.title": {
+   "fr": "Égoutte les sardines",
+   "t": "Обсушите сардины"
+  },
+  "steps.5.text": {
+   "fr": "Pose les sardines sur du papier absorbant pour enlever l'excès d'huile.",
+   "t": "Выложите сардины на бумажное полотенце, чтобы убрать лишнее масло."
+  },
+  "steps.6.title": {
+   "fr": "Ouvre les pains",
+   "t": "Надрежьте булочки"
+  },
+  "steps.6.text": {
+   "fr": "Il faut un demi-pain par sandwich, soit {{pain:full}} en tout. Coupe chaque pain en deux, puis ouvre chaque moitié en poche, sans la déchirer.",
+   "t": "На один сэндвич нужна половина булочки, то есть всего {{pain:full}}. Разрежьте каждую булочку пополам, затем раскройте каждую половинку кармашком, не порвав её."
+  },
+  "steps.7.title": {
+   "fr": "Garnis les sandwichs",
+   "t": "Начините сэндвичи"
+  },
+  "steps.7.text": {
+   "fr": "Dans chaque poche, mets un peu de tomate râpée et d'oignon haché, de la {{harissa}} selon ton goût et quelques {{olives}}. Glisse les sardines encore chaudes. Ajoute un filet de jus de {{citron}} et, si tu en as gardé, un peu de chermoula.",
+   "t": "В каждый кармашек положите немного тёртого помидора и рубленого лука, хариссу по вкусу и несколько зелёных оливок. Вложите ещё горячие сардины. Сбрызните лимонным соком и, если вы оставили чермулу, добавьте немного."
+  },
+  "steps.8.title": {
+   "fr": "Mange aussitôt",
+   "t": "Ешьте сразу"
+  },
+  "steps.8.text": {
+   "fr": "Mange tout de suite, tant que les sardines sont chaudes. Ne garde pas un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "t": "Ешьте сразу, пока сардины горячие. Не держите сэндвич вне холодильника дольше 2 часов, а если жарче 32 °C — дольше 1 часа."
+  },
+  "secrets.0.text": {
+   "fr": "Les sardines farcies frites sont un des plats de rue les plus classiques du Maroc, même loin de la côte, parfois seulement certains jours : on les trouve à Jemaa el-Fna à Marrakech et dans la vieille médina de Fès.",
+   "t": "Жареные фаршированные сардины — одно из самых классических уличных блюд Марокко, даже вдали от побережья, иногда только в определённые дни: их можно найти на площади Джемаа-эль-Фна в Марракеше и в старой медине Феса."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; Morocco World News (2013, d'après CNN : la sardine, plat de rue de base, est le plus souvent frite ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich »)",
+   "t": "Taste of Maroc (Nada Kiffa, уроженка Касабланки); Morocco World News (2013, по данным CNN: сардину, основу уличной еды, чаще всего жарят; фаршированная острой чермулой, она получается «вкусным сэндвичем»)"
+  },
+  "secrets.1.text": {
+   "fr": "Au Maroc, la sardine se prépare de bien des façons, mais la friture reste la plus populaire.",
+   "t": "В Марокко сардины готовят по-разному, но самый популярный способ — жарка."
+  },
+  "secrets.1.source": {
+   "fr": "Morocco World News, 27 mai 2013 (d'après CNN) ; Taste of Maroc (sardines farcies frites, plat de rue emblématique)",
+   "t": "Morocco World News, 27 мая 2013 года (по данным CNN); Taste of Maroc (жареные фаршированные сардины — символ уличной еды)"
+  },
+  "secrets.2.text": {
+   "fr": "Un demi petit pain suffit : glisse-y les sardines farcies.",
+   "t": "Достаточно половинки булочки: вложите в неё фаршированные сардины."
+  },
+  "secrets.2.source": {
+   "fr": "Morocco World News, 30 juillet 2021 (« dans un demi petit pain ») ; MarocMama et Halal Xplorer (sandwich de sardines dans du pain frais)",
+   "t": "Morocco World News, 30 июля 2021 года («в половинке булочки»); MarocMama и Halal Xplorer (сэндвич с сардинами в свежем хлебе)"
+  },
+  "secrets.3.text": {
+   "fr": "On les mange avec une salade tomate-oignon : dans le sandwich, la tomate râpée et l'oignon haché jouent ce rôle.",
+   "t": "Их едят с салатом из помидоров и лука: в сэндвиче эту роль играют тёртый помидор и рубленый лук."
+  },
+  "secrets.3.source": {
+   "fr": "Morocco World News, 2021 (salade marocaine tomate-oignon) ; Taste of Maroc (salade concombre, tomate, oignon) ; MarocMama et Halal Xplorer (tomate et oignon cru dans le sandwich de Marrakech)",
+   "t": "Morocco World News, 2021 (марокканский салат из помидоров и лука); Taste of Maroc (салат из огурцов, помидоров и лука); MarocMama и Halal Xplorer (помидор и сырой лук в марракешском сэндвиче)"
+  },
+  "secrets.4.text": {
+   "fr": "La harissa accompagne les sardines frites et le sandwich de sardines de Marrakech ; mets-en selon ton goût.",
+   "t": "Хариссу подают к жареным сардинам и к марракешскому сэндвичу с сардинами; кладите её по вкусу."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (sardines frites servies avec de la harissa) ; MarocMama et Halal Xplorer (harissa dans le sandwich de sardines de Marrakech)",
+   "t": "Taste of Maroc (жареные сардины подают с хариссой); MarocMama и Halal Xplorer (харисса в марракешском сэндвиче с сардинами)"
+  },
+  "secrets.5.text": {
+   "fr": "Les olives vont bien avec le poisson frit, et les olives vertes dans le sandwich.",
+   "t": "Оливки хорошо сочетаются с жареной рыбой, а зелёные оливки — с сэндвичем."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (friture servie avec des olives m'chermlines) ; MarocMama (olives vertes en rondelles) ; Halal Xplorer (olives hachées)",
+   "t": "Choumicha (жареная рыба с оливками в чермуле); MarocMama (зелёные оливки кружочками); Halal Xplorer (рубленые оливки)"
+  },
+  "secrets.6.text": {
+   "fr": "Garde de côté un peu de chermoula propre, avant de toucher le poisson cru, pour en mettre dans le pain : jamais celle qui a servi à mariner.",
+   "t": "Отложите немного чистой чермулы до того, как прикоснётесь к сырой рыбе, чтобы добавить её в хлеб, — и никогда не берите ту, в которой мариновалась рыба."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa en garde un peu pour servir avec le poisson) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)",
+   "t": "Taste of Maroc (Nada Kiffa оставляет немного, чтобы подать с рыбой); FDA (не допускать, чтобы бактерии с сырой рыбы попадали на готовую к употреблению еду)"
+  },
+  "secrets.7.text": {
+   "fr": "Les petites sardines fraîches sont les meilleures : moins de 15 cm, brillantes et fermes.",
+   "t": "Лучше всего мелкие свежие сардины: короче 15 см, блестящие и упругие."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Choumicha, « La sardine, un trésor de bienfaits »",
+   "t": "Taste of Maroc и Choumicha, «La sardine, un trésor de bienfaits»"
+  },
+  "secrets.8.text": {
+   "fr": "Les sardines collées deux par deux s'appellent « mzeouej », les « mariées ».",
+   "t": "Сардины, склеенные попарно, называют «mzeouej» — «супруги»."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; SBS (Ellie Bouhadana : « mzeouejim », mariés)",
+   "t": "Taste of Maroc (Nada Kiffa); SBS (Ellie Bouhadana: «mzeouejim», супруги)"
+  },
+  "secrets.9.text": {
+   "fr": "Les sardines farcies se mangent chaudes de préférence, mais aussi tièdes ou froides.",
+   "t": "Фаршированные сардины лучше есть горячими, но можно и тёплыми или холодными."
+  },
+  "secrets.9.source": {
+   "fr": "Bladi, « Sardines farcies » (de préférence chaudes) ; Taste of Maroc (chaudes, tièdes ou à température ambiante) ; Morocco World News, 2021 (froides ou chaudes)",
+   "t": "Bladi, «Sardines farcies» (лучше горячими); Taste of Maroc (горячими, тёплыми или комнатной температуры); Morocco World News, 2021 (холодными или горячими)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre dans le pain une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+   "t": "Класть в хлеб чермулу, которая соприкасалась с сырой рыбой (FDA; Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+   "t": "Оставлять сэндвич вне холодильника дольше 2 часов, а если жарче 32 °C — дольше 1 часа (FDA)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre des sardines qui ne sont pas du jour : la sardine est très fragile (Choumicha ; FDA pour les signes de fraîcheur).",
+   "t": "Брать сардины не сегодняшнего улова: сардина очень быстро портится (Choumicha; FDA — о признаках свежести)."
+  },
+  "mistakes.3": {
+   "fr": "Râper des tomates fermes : la râpe marche mieux avec des tomates très mûres (Taste of Maroc).",
+   "t": "Натирать твёрдые помидоры: на тёрке лучше натираются очень спелые (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier les règles de la friture : huile qui fume, poêle remplie à plus d'un tiers, poisson mouillé, eau sur de l'huile en feu. Tout est dans la recette du poisson frit de l'application (gouvernement du Québec ; pompiers du Cambridgeshire ; USFA ; SFDA).",
+   "t": "Забывать правила жарки: дымящееся масло, сковорода, заполненная больше чем на треть, мокрая рыба, вода на горящее масло. Всё это есть в рецепте жареной рыбы из приложения (правительство Квебека; пожарная служба Кембриджшира; USFA; SFDA)."
+  },
+  "variants.0": {
+   "fr": "Hout quari de Marrakech : sardines hachées avec du ras el hanout, du smen et de la coriandre, façonnées en boulettes, grillées ou poêlées, puis servies dans du pain avec une sauce tomate crue, de l'oignon cru, de la harissa et des olives vertes ; le pain est parfois beurré de beurre clarifié et chacun compose son sandwich (MarocMama ; Halal Xplorer). Choumicha fait aussi une kefta de sardines, avec graisse de rognons (halal), oignon, herbes et épices, en brochettes grillées au charbon.",
+   "t": "Hout quari из Марракеша: рубленые сардины с рас-эль-ханутом, сменом (выдержанным солёным маслом) и кориандром, сформованные в шарики, обжаренные на гриле или на сковороде и поданные в хлебе с соусом из сырых помидоров, сырым луком, хариссой и зелёными оливками; хлеб иногда смазывают топлёным маслом, и каждый собирает свой сэндвич сам (MarocMama; Halal Xplorer). Choumicha тоже делает кефту из сардин — с почечным жиром (халяль), луком, зеленью и специями, на шпажках, обжаренных на углях."
+  },
+  "variants.1": {
+   "fr": "Kefta de sardines en sauce : la kefta de sardine se vend toute prête au marché aux poissons (Taste of Maroc) ; Choumicha la cuit en boulettes avec des olives vertes, et à Marrakech les boulettes de sardines se font en tajine (Le360).",
+   "t": "Кефта из сардин в соусе: готовую кефту из сардин продают на рыбном рынке (Taste of Maroc); Choumicha готовит её шариками с зелёными оливками, а в Марракеше шарики из сардин готовят в таджине (Le360)."
+  },
+  "variants.2": {
+   "fr": "Sardines grillées d'Essaouira : marinées à la chermoula, grillées au feu, servies avec du pain et des olives (Morocco World News Lifestyle, 2024).",
+   "t": "Сардины на гриле из Эс-Сувейры: замаринованные в чермуле, обжаренные на огне, их подают с хлебом и оливками (Morocco World News Lifestyle, 2024)."
+  },
+  "variants.3": {
+   "fr": "Bocadillo au poisson dans le Nord : avec des sardines ou un autre poisson blanc pêché du jour (Morocco World News, 2021).",
+   "t": "Бокадильо с рыбой на севере: с сардинами или другой белой рыбой из сегодняшнего улова (Morocco World News, 2021)."
+  },
+  "variants.4": {
+   "fr": "Sans pain : les sardines farcies avec la salade tomate-oignon (Morocco World News, 2021), ou avec des haricots blancs à la tomate et des salades (Taste of Maroc).",
+   "t": "Без хлеба: фаршированные сардины с салатом из помидоров и лука (Morocco World News, 2021) или с белой фасолью в томатном соусе и салатами (Taste of Maroc)."
+  }
+ }
+}

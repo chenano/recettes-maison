@@ -1,0 +1,462 @@
+{
+ "_slug": "zaalouk",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Zaalouk d'aubergines",
+   "t": "Aubergine zaalouk"
+  },
+  "darija": {
+   "fr": "Zaâlouk",
+   "t": "Zaâlouk"
+  },
+  "tagline": {
+   "fr": "Des aubergines grillées au goût fumé, écrasées dans une sauce tomate à l'ail, au cumin et au paprika, puis cuites jusqu'à ce que tout épaississe. Tiède ou froid, avec du pain.",
+   "t": "Smoky grilled aubergines, mashed into a tomato sauce with garlic, cumin and paprika, then cooked until everything thickens. Warm or cold, with bread."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; la recette change d'une région et d'une famille à l'autre (My Moroccan Food)",
+   "t": "All over Morocco; the recipe changes from one region and one family to another (My Moroccan Food)"
+  },
+  "occasion": {
+   "fr": "Salade cuite du quotidien, servie en entrée ou à côté des plats principaux, avec du pain",
+   "t": "An everyday cooked salad, served as a starter or alongside main dishes, with bread"
+  },
+  "serving": {
+   "fr": "Sers le zaalouk tiède, froid ou à température ambiante (Taste of Maroc ; Choumicha : tiède ou froid ; Cooking With Alia : chaud ou froid, avec du pain). Il se mange en entrée (Morocco World News ; El Fenn) ou à côté des plats principaux, en le prenant avec du khobz, qui sert de couverts (Taste of Maroc). Arrose-le d'un filet d'huile d'olive et parsème-le de coriandre ou de persil (Taste of Maroc, My Moroccan Food). Fatéma Hal le sert avec des quartiers de citron et des olives noires.",
+   "t": "Serve the zaalouk warm, cold or at room temperature (Taste of Maroc; Choumicha: warm or cold; Cooking With Alia: hot or cold, with bread). It is eaten as a starter (Morocco World News; El Fenn) or alongside main dishes, scooped up with khobz (Moroccan bread), which serves as cutlery (Taste of Maroc). Drizzle it with olive oil and scatter over coriander or parsley (Taste of Maroc, My Moroccan Food). Fatéma Hal serves it with lemon wedges and black olives."
+  },
+  "ing.0.group": {
+   "fr": "Aubergines",
+   "t": "Aubergines"
+  },
+  "ing.aubergines.name": {
+   "fr": "d'aubergines",
+   "t": "aubergines"
+  },
+  "ing.aubergines.note": {
+   "fr": "entières, avec la peau et la queue",
+   "t": "whole, with skin and stalk"
+  },
+  "ing.1.group": {
+   "fr": "Sauce tomate",
+   "t": "Tomato sauce"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "tendres et bien rouges",
+   "t": "soft and deep red"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust after tasting"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "seulement si la sauce attache",
+   "t": "only if the sauce sticks"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "To finish and serve"
+  },
+  "ing.citron-jus.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron-jus.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron-jus.note": {
+   "fr": "pour le jus",
+   "t": "for the juice"
+  },
+  "ing.citron-service.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron-service.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron-service.note": {
+   "fr": "en quartiers, pour servir",
+   "t": "cut into wedges, to serve"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, pour servir",
+   "t": "a drizzle, to serve"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre ou persil haché",
+   "t": "chopped coriander or parsley"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour décorer",
+   "t": "to garnish"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "khobz (Moroccan bread)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour prendre le zaalouk",
+   "t": "for scooping up the zaalouk"
+  },
+  "equipment.0": {
+   "fr": "Gazinière ou gril (sinon, four avec fonction gril et plaque couverte de papier aluminium)",
+   "t": "Gas hob or grill (otherwise, an oven with a grill function and a baking tray lined with foil)"
+  },
+  "equipment.1": {
+   "fr": "Sac en plastique propre",
+   "t": "Clean plastic bag"
+  },
+  "equipment.2": {
+   "fr": "Grande sauteuse profonde",
+   "t": "Large deep sauté pan"
+  },
+  "equipment.3": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "equipment.4": {
+   "fr": "Grand saladier et fourchette",
+   "t": "Large bowl and fork"
+  },
+  "equipment.5": {
+   "fr": "Éplucheur à dents ou râpe, pour les tomates",
+   "t": "Serrated peeler or grater, for the tomatoes"
+  },
+  "equipment.6": {
+   "fr": "Presse-ail, ou mortier et pilon",
+   "t": "Garlic press, or pestle and mortar"
+  },
+  "steps.0.title": {
+   "fr": "Prépare tomates, ail et herbes",
+   "t": "Prepare the tomatoes, garlic and herbs"
+  },
+  "steps.0.text": {
+   "fr": "Pèle {{tomates}} de tomates (un éplucheur à dents aide), épépine-les et coupe-les en tout petits dés. Plus simple : coupe-les en deux, râpe la chair et jette la peau. Pèle et écrase {{ail:full}} au presse-ail ou au pilon. Lave et hache finement la coriandre et le persil, et garde-en un peu pour servir.",
+   "t": "Peel {{tomates}} of tomatoes (a serrated peeler helps), deseed them and cut them into very small dice. Simpler: cut them in half, grate the flesh and throw away the skin. Peel and crush {{ail:full}} with a garlic press or a pestle. Wash and finely chop the coriander and parsley, and keep a little for serving."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.1.title": {
+   "fr": "Grille les aubergines",
+   "t": "Grill the aubergines"
+  },
+  "steps.1.text": {
+   "fr": "Pose {{aubergines}} d'aubergines entières, avec la peau et la queue, directement sur la flamme du gaz à feu moyen, ou sur un gril. Retourne-les de temps en temps, jusqu'à ce que la peau soit noircie partout et la chair très molle. Sans gaz : coupe-les en deux dans la longueur, pose-les peau vers le haut sur une plaque couverte d'aluminium et passe-les 20 à 25 minutes sous le gril du four, au plus près de la résistance.",
+   "t": "Put {{aubergines}} of whole aubergines, with skin and stalk, directly on the gas flame over medium heat, or on a grill. Turn them from time to time, until the skin is blackened all over and the flesh is very soft. Without gas: cut them in half lengthways, place them skin side up on a foil-lined baking tray and put them under the oven grill for 20 to 25 minutes, as close as possible to the heating element."
+  },
+  "steps.1.timer.label": {
+   "fr": "Aubergines sur la flamme",
+   "t": "Aubergines on the flame"
+  },
+  "steps.1.timer.done": {
+   "fr": "Peau noircie partout et chair très molle ? Sinon, laisse-les encore quelques minutes en les retournant. Au four, compte 20 à 25 minutes en tout.",
+   "t": "Skin blackened all over and flesh very soft? If not, leave them a few more minutes, turning them. Under the oven grill, allow 20 to 25 minutes in all."
+  },
+  "steps.2.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "Seal them in a bag"
+  },
+  "steps.2.text": {
+   "fr": "Glisse les aubergines encore chaudes dans un sac en plastique, ferme-le et laisse-les tiédir pendant que tu fais la sauce. La peau brûlée s'enlèvera ensuite très facilement. Ne les passe pas sous l'eau : elles perdraient leur goût et la peau s'enlèverait moins bien.",
+   "t": "Slip the still-hot aubergines into a plastic bag, close it and leave them to cool slightly while you make the sauce. The charred skin will then come off very easily. Don't run them under water: they would lose their flavour and the skin would be harder to remove."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre les tomates en sauce",
+   "t": "Cook the tomatoes down into a sauce"
+  },
+  "steps.3.text": {
+   "fr": "Dans une grande sauteuse profonde, à feu moyen, mets les tomates, l'ail, {{huile}} d'huile d'olive, {{paprika}} de paprika, {{cumin}} de cumin et {{sel}} de sel. Ajoute {{coriandre}} de coriandre et {{persil}} de persil hachés. Laisse cuire en remuant souvent, jusqu'à ce que les tomates fondent en une sauce épaisse. Si ça attache, ajoute un peu d'{{eau}}.",
+   "t": "Put the tomatoes, garlic, {{huile}} of olive oil, {{paprika}} of paprika, {{cumin}} of cumin and {{sel}} of salt in a large deep sauté pan over medium heat. Add {{coriandre}} of chopped coriander and {{persil}} of chopped parsley. Cook, stirring often, until the tomatoes break down into a thick sauce. If it sticks, add a little {{eau}}."
+  },
+  "steps.3.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "Tomato sauce"
+  },
+  "steps.3.timer.done": {
+   "fr": "Les tomates doivent avoir fondu en une sauce épaisse. Sinon, prolonge de quelques minutes.",
+   "t": "The tomatoes should have broken down into a thick sauce. If not, cook for a few more minutes."
+  },
+  "steps.4.title": {
+   "fr": "Pèle et écrase les aubergines",
+   "t": "Peel and mash the aubergines"
+  },
+  "steps.4.text": {
+   "fr": "Sors les aubergines du sac. Gratte doucement la peau brûlée et coupe la queue ; pour des moitiés passées au four, récupère simplement la chair à la cuillère. Mets la chair dans un grand saladier et écrase-la à la fourchette jusqu'à obtenir une pâte.",
+   "t": "Take the aubergines out of the bag. Gently scrape off the charred skin and cut off the stalk; for halves done in the oven, simply scoop out the flesh with a spoon. Put the flesh in a large bowl and mash it with a fork until you have a paste."
+  },
+  "steps.5.title": {
+   "fr": "Fais réduire le zaalouk",
+   "t": "Reduce the zaalouk"
+  },
+  "steps.5.text": {
+   "fr": "Verse l'aubergine écrasée dans la sauce et mélange bien. Laisse cuire à feu moyen en remuant régulièrement et en raclant le fond, et écrase au dos de la cuillère les morceaux restés fermes. C'est prêt quand le mélange est épais et qu'il ne reste plus de jus.",
+   "t": "Tip the mashed aubergine into the sauce and mix well. Cook over medium heat, stirring regularly and scraping the bottom, and crush any pieces that are still firm with the back of the spoon. It is ready when the mixture is thick and there is no liquid left."
+  },
+  "steps.5.timer.label": {
+   "fr": "Réduction",
+   "t": "Reducing"
+  },
+  "steps.5.timer.done": {
+   "fr": "Le zaalouk doit être épais, sans jus au fond. Sinon, prolonge en remuant ; baisse le feu s'il attache.",
+   "t": "The zaalouk should be thick, with no liquid at the bottom. If not, keep cooking and stirring; turn the heat down if it sticks."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute le citron",
+   "t": "Add the lemon"
+  },
+  "steps.6.text": {
+   "fr": "Presse {{citron-jus:full}} et verse le jus dans le zaalouk. Mélange et laisse cuire encore 2 minutes. Goûte, rectifie le sel, puis retire du feu.",
+   "t": "Squeeze {{citron-jus:full}} and pour the juice into the zaalouk. Mix and cook for another 2 minutes. Taste, adjust the salt, then take off the heat."
+  },
+  "steps.6.timer.label": {
+   "fr": "Citron",
+   "t": "Lemon"
+  },
+  "steps.6.timer.done": {
+   "fr": "Goûte, rectifie le sel et retire du feu.",
+   "t": "Taste, adjust the salt and take off the heat."
+  },
+  "steps.7.title": {
+   "fr": "Sers tiède ou froid",
+   "t": "Serve warm or cold"
+  },
+  "steps.7.text": {
+   "fr": "Étale le zaalouk dans un plat peu profond et sers-le tiède ou froid. Arrose d'un filet d'{{huile-service}} et parsème de {{herbes-service}}. Pose autour les quartiers de {{citron-service:full}}. Chacun le prend avec des morceaux de {{khobz}}, qui servent de couverts.",
+   "t": "Spread the zaalouk in a shallow dish and serve it warm or cold. Drizzle with {{huile-service}} and scatter over {{herbes-service}}. Arrange the wedges of {{citron-service:full}} around it. Everyone scoops it up with pieces of {{khobz}}, which serve as cutlery."
+  },
+  "secrets.0.text": {
+   "fr": "Le zaalouk a le goût de la chermoula : cumin, paprika, ail, coriandre, persil et huile d'olive. Plus tu mets de tomates, plus il faut assaisonner.",
+   "t": "Zaalouk tastes of chermoula: cumin, paprika, garlic, coriander, parsley and olive oil. The more tomatoes you use, the more seasoning it needs."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih, qui tient ce rapprochement de l'autrice culinaire marocaine Nada Kiffa) ; Choumicha assaisonne son zaalouk avec un mélange d'épices pour chermoula",
+   "t": "Taste of Maroc (Christine Benlafquih, who got this comparison from the Moroccan food writer Nada Kiffa); Choumicha seasons her zaalouk with a chermoula spice mix"
+  },
+  "secrets.1.text": {
+   "fr": "Grille les aubergines entières jusqu'à ce que la peau soit noircie partout : c'est ce qui donne au zaalouk son goût fumé.",
+   "t": "Grill the aubergines whole until the skin is blackened all over: this is what gives zaalouk its smoky flavour."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking With Alia (zaalouk n° 689) ; Taste of Maroc",
+   "t": "Cooking With Alia (zaalouk no. 689); Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Enferme les aubergines grillées quelques instants dans un sac en plastique : la peau brûlée s'enlève ensuite très facilement.",
+   "t": "Seal the grilled aubergines in a plastic bag for a few moments: the charred skin then comes off very easily."
+  },
+  "secrets.2.source": {
+   "fr": "Lalla Moulati, « الزعلوك بطريقة جديدة » (10 novembre 2014)",
+   "t": "Lalla Moulati, “الزعلوك بطريقة جديدة” (10 November 2014)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne passe jamais les aubergines grillées sous l'eau : elles perdent leur saveur, et la peau s'enlève moins bien.",
+   "t": "Never run the grilled aubergines under water: they lose their flavour, and the skin is harder to remove."
+  },
+  "secrets.3.source": {
+   "fr": "Lalla Moulati : « زعلوك بالدنجال مشوي » (13 août 2016) pour la saveur, « الزعلوك بطريقة جديدة » (2014) pour la peau",
+   "t": "Lalla Moulati: “زعلوك بالدنجال مشوي” (13 August 2016) for the flavour, “الزعلوك بطريقة جديدة” (2014) for the skin"
+  },
+  "secrets.4.text": {
+   "fr": "Choisis des tomates mûres, tendres et bien rouges : les tomates fermes fondent moins bien en sauce et peuvent être plus acides.",
+   "t": "Choose ripe, soft, deep red tomatoes: firm tomatoes don't break down as well into a sauce and can be more acidic."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia, recette de Ch'hiwatine (tomates « super red »)",
+   "t": "Taste of Maroc; Cooking With Alia, Ch'hiwatine's recipe (“super red” tomatoes)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais d'abord fondre les tomates en sauce épaisse avec l'huile, l'ail, les épices et les herbes, et ajoute seulement ensuite l'aubergine.",
+   "t": "First cook the tomatoes down into a thick sauce with the oil, garlic, spices and herbs, and only then add the aubergine."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (2014) ; Cooking With Alia (n° 689) ; Choumicha",
+   "t": "Taste of Maroc; Lalla Moulati (2014); Cooking With Alia (no. 689); Choumicha"
+  },
+  "secrets.6.text": {
+   "fr": "Prends une grande sauteuse profonde plutôt qu'une petite casserole : avec plus de surface, le liquide s'évapore plus vite.",
+   "t": "Use a large deep sauté pan rather than a small saucepan: with more surface area, the liquid evaporates faster."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "La texture est une affaire de goût, du zaalouk en morceaux à la purée : écrase bien à la fourchette pour une pâte, moins pour garder des morceaux.",
+   "t": "Texture is a matter of taste, from chunky zaalouk to a purée: mash well with a fork for a paste, less to keep some chunks."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (2014, écrasé à la fourchette)",
+   "t": "Taste of Maroc; Lalla Moulati (2014, mashed with a fork)"
+  },
+  "secrets.8.text": {
+   "fr": "Un peu de jus de citron en fin de cuisson réveille le goût. Fatéma Hal met le jus d'un demi-citron dans la poêle et sert l'autre moitié en quartiers.",
+   "t": "A little lemon juice at the end of cooking brightens the flavour. Fatéma Hal puts the juice of half a lemon in the pan and serves the other half in wedges."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Fatéma Hal (fiche recette Gaggenau)",
+   "t": "Taste of Maroc; Fatéma Hal (Gaggenau recipe card)"
+  },
+  "secrets.9.text": {
+   "fr": "Trop acide ? Une toute petite pointe de sucre ou de miel corrige, mais vas-y doucement : mieux vaut un zaalouk un peu acide que trop sucré.",
+   "t": "Too acidic? A tiny touch of sugar or honey will correct it, but go easy: a slightly acidic zaalouk is better than one that is too sweet."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Le khobz sert de couverts : comme beaucoup de salades marocaines, le zaalouk se mange en le prenant avec des morceaux de pain.",
+   "t": "The khobz serves as cutlery: like many Moroccan salads, zaalouk is eaten by scooping it up with pieces of bread."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Mets-le au réfrigérateur dans les 2 heures qui suivent la cuisson, dans une boîte fermée : il se garde ainsi 3 jours. Au congélateur, il se garde 2 à 3 mois. Décongèle-le au réfrigérateur, réchauffe-le à la poêle pour réduire l'excès de liquide, rectifie l'assaisonnement et ne le recongèle pas.",
+   "t": "Put it in the fridge within 2 hours of cooking, in a closed container: it will then keep for 3 days. In the freezer, it keeps for 2 to 3 months. Thaw it in the fridge, reheat it in a frying pan to reduce any excess liquid, adjust the seasoning and don't refreeze it."
+  },
+  "secrets.11.source": {
+   "fr": "Anses (plats cuisinés maison : au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, décongélation au réfrigérateur, pas de recongélation) ; My Moroccan Food (jusqu'à 4 jours) ; Taste of Maroc (2 à 3 mois au congélateur, réchauffage à la poêle)",
+   "t": "Anses (home-cooked dishes: in the fridge within 2 hours, eat within 3 days, thaw in the fridge, do not refreeze); My Moroccan Food (up to 4 days); Taste of Maroc (2 to 3 months in the freezer, reheating in a frying pan)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les aubergines grillées sous l'eau : elles perdent leur goût et la peau s'enlève moins bien (Lalla Moulati).",
+   "t": "Rinsing the grilled aubergines under water: they lose their flavour and the skin is harder to remove (Lalla Moulati)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre des tomates fermes ou pas assez mûres : elles fondent moins bien et peuvent rendre le zaalouk acide (Taste of Maroc).",
+   "t": "Using firm or underripe tomatoes: they don't break down as well and can make the zaalouk acidic (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Arrêter la cuisson trop tôt : le zaalouk doit être épais, sans jus (Cooking With Alia, My Moroccan Food, Lalla Moulati).",
+   "t": "Stopping the cooking too soon: the zaalouk should be thick, with no liquid (Cooking With Alia, My Moroccan Food, Lalla Moulati)."
+  },
+  "mistakes.3": {
+   "fr": "Le laisser attacher : remue souvent, racle le fond et baisse le feu si besoin (Taste of Maroc, My Moroccan Food).",
+   "t": "Letting it stick: stir often, scrape the bottom and turn the heat down if needed (Taste of Maroc, My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Forcer sur le citron : avec les tomates pas mûres, c'est ce qui rend un zaalouk trop acide (Taste of Maroc).",
+   "t": "Overdoing the lemon: along with underripe tomatoes, this is what makes a zaalouk too acidic (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Rattraper l'acidité avec trop de sucre : mieux vaut un peu acide que trop sucré (Taste of Maroc).",
+   "t": "Correcting the acidity with too much sugar: slightly acidic is better than too sweet (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Croire que le paprika fumé ou l'ail rôti font partie de la recette traditionnelle : ni l'un ni l'autre n'est traditionnel, même si Christine Benlafquih trouve que le paprika fumé peut très bien aller dans le zaalouk et y ajoute parfois de l'ail rôti (Taste of Maroc).",
+   "t": "Thinking that smoked paprika or roasted garlic are part of the traditional recipe: neither is traditional, even though Christine Benlafquih finds that smoked paprika can work very well in zaalouk and sometimes adds roasted garlic to it (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Oublier de goûter à la fin pour rectifier le sel (Taste of Maroc, My Moroccan Food).",
+   "t": "Forgetting to taste at the end to adjust the salt (Taste of Maroc, My Moroccan Food)."
+  },
+  "variants.0": {
+   "fr": "Méthode familiale tout dans la marmite (la belle-mère de Christine Benlafquih, la mère de Nargisse Benkabbou) : aubergines pelées, en gardant si tu veux quelques bandes de peau pour la couleur, coupées et cuites avec les tomates, l'huile, l'ail, les épices et les herbes, plus un fond d'eau (¼ à ⅓ de tasse, soit environ 60 à 80 ml, chez Taste of Maroc ; pas d'eau chez My Moroccan Food), à couvert à feu moyen ou moyen-doux 25 à 35 minutes, puis à découvert en écrasant jusqu'à évaporation du liquide (Taste of Maroc ; My Moroccan Food).",
+   "t": "The family all-in-the-pot method (Christine Benlafquih's mother-in-law, Nargisse Benkabbou's mother): aubergines peeled, keeping a few strips of skin for colour if you like, cut up and cooked with the tomatoes, oil, garlic, spices and herbs, plus a splash of water (¼ to ⅓ cup, or about 60 to 80 ml, for Taste of Maroc; no water for My Moroccan Food), covered, over medium or medium-low heat for 25 to 35 minutes, then uncovered, mashing until the liquid has evaporated (Taste of Maroc; My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Aubergines bouillies (Cooking With Alia, épisode 47) : pelées en entier ou à moitié, coupées en dés, cuites 20 à 30 minutes à l'eau salée, égouttées et pressées à la cuillère pour chasser toute l'eau, puis cuites 30 minutes à feu moyen avec les tomates, l'huile, l'ail et les épices en écrasant à la cuillère en bois ; 1 c. à c. de vinaigre dans les 5 dernières minutes.",
+   "t": "Boiled aubergines (Cooking With Alia, episode 47): fully or half peeled, diced, cooked for 20 to 30 minutes in salted water, drained and pressed with a spoon to squeeze out all the water, then cooked for 30 minutes over medium heat with the tomatoes, oil, garlic and spices, mashing with a wooden spoon; 1 tsp of vinegar in the last 5 minutes."
+  },
+  "variants.2": {
+   "fr": "Aubergines à la vapeur : citées par Taste of Maroc parmi les façons de faire, et par Fiona Dunlop (The North African Kitchen), qui présente la version vapeur d'une cuisinière, Aicha, comme plus légère. Méthode détaillée non lue.",
+   "t": "Steamed aubergines: mentioned by Taste of Maroc among the possible methods, and by Fiona Dunlop (The North African Kitchen), who presents the steamed version of a cook, Aicha, as lighter. Detailed method not read."
+  },
+  "variants.3": {
+   "fr": "Aubergines frites (Choumicha) : rondelles de 1 cm salées et mises à dégorger, rincées, pressées et épongées, frites puis hachées grossièrement ; sauce de tomates pelées et épépinées avec 1 c. à thé de concentré de tomate, 10 cl d'eau, ail et épices pour chermoula, 8 à 10 minutes à couvert à feu doux ; aubergines ajoutées 3 minutes, puis coriandre. Fiona Dunlop présente la version frite comme la façon traditionnelle.",
+   "t": "Fried aubergines (Choumicha): 1 cm slices salted and left to drain, rinsed, squeezed and patted dry, fried, then roughly chopped; a sauce of peeled, deseeded tomatoes with 1 tsp of tomato purée, 10 cl of water, garlic and chermoula spices, 8 to 10 minutes covered over low heat; aubergines added for 3 minutes, then coriander. Fiona Dunlop presents the fried version as the traditional way."
+  },
+  "variants.4": {
+   "fr": "Version de Ch'hiwatine (sur Cooking With Alia) : aubergines pelées en partie, coupées en tranches, salées et frites ; tomates réduites seules en pâte épaisse ; un demi-poivron rouge grillé, cumin, sel et ail ; 10 à 15 minutes en remuant sans arrêt.",
+   "t": "Ch'hiwatine's version (on Cooking With Alia): aubergines partly peeled, sliced, salted and fried; tomatoes reduced on their own to a thick paste; half a grilled red pepper, cumin, salt and garlic; 10 to 15 minutes, stirring constantly."
+  },
+  "variants.5": {
+   "fr": "Au four (Fatéma Hal) : aubergines grillées une quarantaine de minutes sur une plaque au four, pelées, coupées en dés et écrasées, puis cuites 30 minutes à la poêle avec tous les autres ingrédients et le jus d'un demi-citron.",
+   "t": "In the oven (Fatéma Hal): aubergines roasted for about forty minutes on a tray in the oven, peeled, diced and mashed, then cooked for 30 minutes in a frying pan with all the other ingredients and the juice of half a lemon."
+  },
+  "variants.6": {
+   "fr": "Vinaigre au lieu du citron : 1 c. à c. dans les 5 dernières minutes (Cooking With Alia, épisode 47), 1 c. à s. de vinaigre ou de jus de citron pendant 2 minutes (n° 689), ou un demi-verre ajouté hors du feu (Lalla Moulati, 2016).",
+   "t": "Vinegar instead of lemon: 1 tsp in the last 5 minutes (Cooking With Alia, episode 47), 1 tbsp of vinegar or lemon juice for 2 minutes (no. 689), or half a glass added off the heat (Lalla Moulati, 2016)."
+  },
+  "variants.7": {
+   "fr": "Un peu de piquant : Cayenne ou piments entiers au goût (Taste of Maroc), 1 c. à c. de piment moulu (Cooking With Alia, n° 689), ½ c. à c. de piment fort (Lalla Moulati, 2014).",
+   "t": "A little heat: cayenne or whole chillies to taste (Taste of Maroc), 1 tsp of ground chilli (Cooking With Alia, no. 689), ½ tsp of hot chilli (Lalla Moulati, 2014)."
+  },
+  "variants.8": {
+   "fr": "Poivre noir : ¼ c. à c. (Cooking With Alia, épisode 47) ou ½ c. à c. (Fatéma Hal).",
+   "t": "Black pepper: ¼ tsp (Cooking With Alia, episode 47) or ½ tsp (Fatéma Hal)."
+  },
+  "variants.9": {
+   "fr": "Plus rouge et plus saucé : 2 à 3 tomates par aubergine, comme la belle-mère de Christine Benlafquih, ou une cuillerée de concentré de tomate (Taste of Maroc ; Choumicha).",
+   "t": "Redder and saucier: 2 to 3 tomatoes per aubergine, like Christine Benlafquih's mother-in-law, or a spoonful of tomato purée (Taste of Maroc; Choumicha)."
+  },
+  "variants.10": {
+   "fr": "Avec un ou deux poivrons grillés, à mi-chemin de la taktouka (Taste of Maroc), ou avec des courgettes et des poivrons rouges (My Moroccan Food).",
+   "t": "With one or two grilled peppers, halfway to taktouka (Taste of Maroc), or with courgettes and red peppers (My Moroccan Food)."
+  },
+  "variants.11": {
+   "fr": "Zaalouk « à la nouvelle manière » : 100 g d'olives dénoyautées et un demi-citron confit, ajoutés après l'aubergine en continuant de remuer, puis cuisson jusqu'à ce que le zaalouk soit bien réduit (Lalla Moulati, 2014).",
+   "t": "Zaalouk “the new way”: 100 g of pitted olives and half a preserved lemon, added after the aubergine while you keep stirring, then cooked until the zaalouk is well reduced (Lalla Moulati, 2014)."
+  },
+  "variants.12": {
+   "fr": "Tomates râpées au lieu d'être pelées et coupées (Cooking With Alia, n° 689 ; Fiona Dunlop appelle la tomate râpée une technique marocaine classique).",
+   "t": "Grated tomatoes instead of peeled and chopped ones (Cooking With Alia, no. 689; Fiona Dunlop calls grated tomato a classic Moroccan technique)."
+  }
+ }
+}

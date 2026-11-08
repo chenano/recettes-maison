@@ -1,0 +1,478 @@
+{
+ "_slug": "harcha",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Harcha, galettes de semoule à la poêle",
+   "t": "Harcha, pan-cooked semolina flatbreads"
+  },
+  "darija": {
+   "fr": "harcha (aussi harsha)",
+   "t": "harcha (also harsha)"
+  },
+  "tagline": {
+   "fr": "Des galettes de semoule sablées, cuites à sec à la poêle, légèrement croustillantes dehors et moelleuses dedans, à manger tièdes avec du miel et du beurre.",
+   "t": "Shortbread-like semolina flatbreads, cooked in a dry frying pan, slightly crisp on the outside and soft on the inside, to be eaten warm with honey and butter."
+  },
+  "region": {
+   "fr": "Maroc ; aussi en Algérie (origine discutée : le Moyen Atlas selon Wikipédia en anglais, l'Algérie selon Wikipédia en français)",
+   "t": "Morocco; also Algeria (origin disputed: the Middle Atlas according to the English Wikipedia, Algeria according to the French Wikipedia)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "Breakfast, afternoon snack with tea, Ramadan iftar"
+  },
+  "serving": {
+   "fr": "Tiède, quand elle est légèrement croustillante dehors et moelleuse dedans (Bladi.net ; My Moroccan Food). Le nappage traditionnel au Maroc est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux (My Moroccan Food). Tu peux aussi l'ouvrir en deux et la garnir de fromage, de confiture ou de miel (Cooking with Alia), par exemple de jben, le fromage frais marocain (Morocco World News). Avec un thé à la menthe (Wikipédia ; Amour de cuisine) ou un verre de lait (Morocco World News), au petit-déjeuner, au goûter ou au ftour du ramadan (My Moroccan Food ; Wikipédia ; Hespress). Elle se garde 1 à 2 jours dans un torchon propre : réchauffe-la quelques secondes à la poêle (Amour de cuisine).",
+   "t": "Warm, when it is slightly crisp on the outside and soft on the inside (Bladi.net; My Moroccan Food). The traditional topping in Morocco is a syrup of equal parts melted honey and butter, with a few drops of orange blossom water if you like (My Moroccan Food). You can also split it in two and fill it with cheese, jam or honey (Cooking with Alia), for example jben, the Moroccan fresh cheese (Morocco World News). With mint tea (Wikipedia; Amour de cuisine) or a glass of milk (Morocco World News), at breakfast, as an afternoon snack or for the Ramadan iftar (My Moroccan Food; Wikipedia; Hespress). It keeps for 1 to 2 days in a clean tea towel: warm it up for a few seconds in a frying pan (Amour de cuisine)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Dough"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur",
+   "t": "fine durum wheat semolina"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne la texture sablée : ne la remplace pas",
+   "t": "this is what gives the shortbread-like texture: do not replace it"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "caster sugar"
+  },
+  "ing.sucre.note": {
+   "fr": "tu peux en mettre moins : d'autres recettes n'en mettent que 2 c. à s. pour 500 g de semoule",
+   "t": "you can use less: other recipes use only 2 tbsp for 500 g semolina"
+  },
+  "ing.levure-chimique.name": {
+   "fr": "de levure chimique",
+   "t": "baking powder"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre doux, bien mou",
+   "t": "unsalted butter, very soft"
+  },
+  "ing.beurre.note": {
+   "fr": "à température ambiante",
+   "t": "at room temperature"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "milk"
+  },
+  "ing.lait.note": {
+   "fr": "environ : ajoute-le petit à petit, la quantité dépend de ta semoule",
+   "t": "approximately: add it gradually, the amount depends on your semolina"
+  },
+  "ing.1.group": {
+   "fr": "Pour enrober",
+   "t": "For coating"
+  },
+  "ing.semoule-enrobage.name": {
+   "fr": "de semoule fine ou moyenne",
+   "t": "fine or medium semolina"
+  },
+  "ing.semoule-enrobage.note": {
+   "fr": "environ",
+   "t": "approximately"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.miel.name": {
+   "fr": "Miel",
+   "t": "Honey"
+  },
+  "ing.miel.pl": {
+   "fr": "Miel",
+   "t": "Honey"
+  },
+  "ing.miel.note": {
+   "fr": "à parts égales avec le beurre, pour le sirop",
+   "t": "in equal parts with the butter, for the syrup"
+  },
+  "ing.beurre-service.name": {
+   "fr": "Beurre",
+   "t": "Butter"
+  },
+  "ing.beurre-service.pl": {
+   "fr": "Beurre",
+   "t": "Butter"
+  },
+  "ing.beurre-service.note": {
+   "fr": "à parts égales avec le miel",
+   "t": "in equal parts with the honey"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "Quelques gouttes d'eau de fleur d'oranger",
+   "t": "A few drops of orange blossom water"
+  },
+  "ing.fleur-oranger.pl": {
+   "fr": "Quelques gouttes d'eau de fleur d'oranger",
+   "t": "A few drops of orange blossom water"
+  },
+  "ing.fleur-oranger.note": {
+   "fr": "facultatif, dans le sirop",
+   "t": "optional, in the syrup"
+  },
+  "ing.jben.name": {
+   "fr": "Jben (fromage frais marocain)",
+   "t": "Jben (Moroccan fresh cheese)"
+  },
+  "ing.jben.pl": {
+   "fr": "Jben (fromage frais marocain)",
+   "t": "Jben (Moroccan fresh cheese)"
+  },
+  "ing.jben.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.confiture.name": {
+   "fr": "Confiture",
+   "t": "Jam"
+  },
+  "ing.confiture.pl": {
+   "fr": "Confiture",
+   "t": "Jam"
+  },
+  "ing.confiture.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier",
+   "t": "A large mixing bowl"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Kitchen scales and a measuring jug"
+  },
+  "equipment.2": {
+   "fr": "Un torchon propre ou du film pour couvrir la pâte",
+   "t": "A clean tea towel or cling film to cover the dough"
+  },
+  "equipment.3": {
+   "fr": "Une assiette creuse pour la semoule d'enrobage",
+   "t": "A deep plate for the coating semolina"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle à fond épais (fonte) ou antiadhésive",
+   "t": "A large heavy-based (cast-iron) or non-stick frying pan"
+  },
+  "equipment.5": {
+   "fr": "Une spatule plate",
+   "t": "A flat spatula"
+  },
+  "equipment.6": {
+   "fr": "Une petite casserole pour le sirop miel-beurre",
+   "t": "A small saucepan for the honey-butter syrup"
+  },
+  "equipment.7": {
+   "fr": "Un couteau bien aiguisé",
+   "t": "A very sharp knife"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger les ingrédients secs",
+   "t": "Mix the dry ingredients"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{semoule}} de semoule fine, {{sucre}} de sucre, {{levure-chimique}} de levure chimique et {{sel}} de sel.",
+   "t": "In a large mixing bowl, mix {{semoule}} fine semolina, {{sucre}} sugar, {{levure-chimique}} baking powder and {{sel}} salt."
+  },
+  "steps.1.title": {
+   "fr": "Sabler avec le beurre",
+   "t": "Rub in the butter"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{beurre}} de beurre bien mou. Frotte le mélange entre tes paumes jusqu'à ce que toute la semoule soit humide et que chaque grain soit enrobé de beurre : c'est ce geste qui rend la harcha sablée et légère.",
+   "t": "Add {{beurre}} very soft butter. Rub the mixture between your palms until all the semolina is moist and every grain is coated in butter: this is what makes the harcha shortbread-like and light."
+  },
+  "steps.2.title": {
+   "fr": "Ajouter le lait petit à petit",
+   "t": "Add the milk gradually"
+  },
+  "steps.2.text": {
+   "fr": "Verse la moitié des {{lait}} de lait et mélange. Ajoute le reste petit à petit, juste jusqu'à obtenir une pâte qui se tient : selon ta semoule, il en faudra un peu plus ou un peu moins. Ne pétris pas, rassemble seulement : si la pâte colle un peu, c'est normal.",
+   "t": "Pour in half of the {{lait}} of milk and mix. Add the rest gradually, just until you have a dough that holds together: depending on your semolina, you will need a little more or a little less. Do not knead, just bring it together: if the dough is a little sticky, that is normal."
+  },
+  "steps.3.title": {
+   "fr": "Laisser gonfler la semoule",
+   "t": "Let the semolina swell"
+  },
+  "steps.3.text": {
+   "fr": "Couvre le saladier et laisse reposer 20 minutes. La semoule boit le lait et gonfle : la pâte devient plus sèche. Si elle s'effrite, ajoute un filet de lait.",
+   "t": "Cover the bowl and leave to rest for 20 minutes. The semolina soaks up the milk and swells: the dough becomes drier. If it crumbles, add a splash of milk."
+  },
+  "steps.3.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Dough resting"
+  },
+  "steps.3.timer.done": {
+   "fr": "La semoule a gonflé. Si la pâte s'effrite, ajoute un filet de lait, puis façonne les galettes.",
+   "t": "The semolina has swelled. If the dough crumbles, add a splash of milk, then shape the flatbreads."
+  },
+  "steps.4.title": {
+   "fr": "Façonner les galettes",
+   "t": "Shape the flatbreads"
+  },
+  "steps.4.text": {
+   "fr": "Partage la pâte en boules égales, une par harcha. Aplatis chaque boule à la main en un disque d'environ 10 cm de diamètre et de 1 cm d'épaisseur. Pas plus épais : sinon la cuisson n'est pas homogène.",
+   "t": "Divide the dough into equal balls, one per harcha. Flatten each ball by hand into a disc about 10 cm in diameter and 1 cm thick. No thicker: otherwise they will not cook evenly."
+  },
+  "steps.5.title": {
+   "fr": "Rouler dans la semoule",
+   "t": "Roll in the semolina"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{semoule-enrobage}} de semoule dans une assiette creuse. Pose chaque galette dedans puis retourne-la, pour enrober les deux faces : c'est ce qui donnera une croûte croustillante.",
+   "t": "Pour {{semoule-enrobage}} semolina into a deep plate. Lay each flatbread in it, then turn it over to coat both sides: this is what will give a crisp crust."
+  },
+  "steps.6.title": {
+   "fr": "Chauffer la poêle à sec",
+   "t": "Heat the frying pan dry"
+  },
+  "steps.6.text": {
+   "fr": "Chauffe une grande poêle à fond épais (fonte) ou antiadhésive à feu moyen, sans matière grasse. Quand elle est chaude, baisse à feu doux ou moyen-doux. C'est très important : à feu trop fort, la harcha brûle dehors et reste crue dedans.",
+   "t": "Heat a large heavy-based (cast-iron) or non-stick frying pan over medium heat, without any fat. When it is hot, turn down to low or medium-low heat. This is very important: over too high a heat, the harcha burns on the outside and stays raw inside."
+  },
+  "steps.7.title": {
+   "fr": "Cuire la première face",
+   "t": "Cook the first side"
+  },
+  "steps.7.text": {
+   "fr": "Dépose une première fournée de galettes dans la poêle chaude. Laisse cuire environ 5 minutes sans y toucher, jusqu'à ce que le dessous soit bien doré.",
+   "t": "Place a first batch of flatbreads in the hot pan. Cook for about 5 minutes without touching them, until the underside is nicely golden."
+  },
+  "steps.7.timer.label": {
+   "fr": "Première face",
+   "t": "First side"
+  },
+  "steps.7.timer.done": {
+   "fr": "Soulève un bord avec la spatule : si le dessous est bien doré, retourne les galettes. Sinon, laisse encore un peu.",
+   "t": "Lift an edge with the spatula: if the underside is nicely golden, turn the flatbreads over. If not, leave them a little longer."
+  },
+  "steps.8.title": {
+   "fr": "Retourner délicatement",
+   "t": "Turn over gently"
+  },
+  "steps.8.text": {
+   "fr": "Retourne-les délicatement avec une spatule plate, car elles sont friables, et cuis l'autre face environ 5 minutes. Elles sont prêtes quand les deux faces sont dorées et qu'elles paraissent sèches sous le doigt. Si elles colorent trop vite, baisse le feu. Entre deux fournées, essuie la poêle pour que la semoule tombée ne brûle pas et ne colle pas aux galettes, puis cuis les suivantes de la même façon.",
+   "t": "Turn them over gently with a flat spatula, as they are crumbly, and cook the other side for about 5 minutes. They are ready when both sides are golden and they feel dry to the touch. If they brown too quickly, turn down the heat. Between batches, wipe out the pan so that fallen semolina does not burn or stick to the flatbreads, then cook the next ones in the same way."
+  },
+  "steps.8.timer.label": {
+   "fr": "Deuxième face",
+   "t": "Second side"
+  },
+  "steps.8.timer.done": {
+   "fr": "Dorées des deux côtés et sèches sous le doigt ? Sors-les et passe à la fournée suivante.",
+   "t": "Golden on both sides and dry to the touch? Take them out and move on to the next batch."
+  },
+  "steps.9.title": {
+   "fr": "Préparer le sirop miel-beurre",
+   "t": "Make the honey-butter syrup"
+  },
+  "steps.9.text": {
+   "fr": "Dans une petite casserole, fais fondre ensemble du miel et du beurre, à parts égales. Ajoute quelques gouttes de fleur d'oranger si tu aimes. C'est le nappage traditionnel de la harcha au Maroc.",
+   "t": "In a small saucepan, melt honey and butter together, in equal parts. Add a few drops of orange blossom water if you like. This is the traditional topping for harcha in Morocco."
+  },
+  "steps.10.title": {
+   "fr": "Servir tiède",
+   "t": "Serve warm"
+  },
+  "steps.10.text": {
+   "fr": "Laisse tiédir un peu les harchas, puis ouvre-les en deux avec un couteau bien aiguisé si tu veux les garnir : trop chaudes, elles s'émiettent. Sers-les tièdes, nappées de sirop miel-beurre ou garnies de jben ou de confiture, avec un thé à la menthe.",
+   "t": "Let the harchas cool a little, then split them in two with a very sharp knife if you want to fill them: when too hot, they crumble. Serve them warm, topped with honey-butter syrup or filled with jben or jam, with mint tea."
+  },
+  "secrets.0.text": {
+   "fr": "Sable d'abord : frotte la semoule et le beurre entre tes paumes jusqu'à ce que chaque grain soit enrobé de gras, avant de mettre le lait. C'est ce qui donne la texture friable et légère.",
+   "t": "Rub in first: rub the semolina and butter between your palms until every grain is coated in fat, before adding the milk. This is what gives the crumbly, light texture."
+  },
+  "secrets.0.source": {
+   "fr": "Amour de cuisine (Soulef Zaoui) ; My Moroccan Food (Nargisse Benkabbou) ; Milk Street (le gras ajouté avant le liquide limite le gluten)",
+   "t": "Amour de cuisine (Soulef Zaoui); My Moroccan Food (Nargisse Benkabbou); Milk Street (fat added before the liquid limits gluten)"
+  },
+  "secrets.1.text": {
+   "fr": "Ici, le beurre est mou, comme chez My Moroccan Food et Bladi.net : selon Milk Street, le beurre fondu donne une texture un peu plus lourde et plus grasse. Choumicha et Amour de cuisine utilisent pourtant du beurre fondu mêlé d'huile : c'est un choix, pas une règle.",
+   "t": "Here the butter is soft, as with My Moroccan Food and Bladi.net: according to Milk Street, melted butter gives a slightly heavier, greasier texture. Choumicha and Amour de cuisine, however, use melted butter mixed with oil: it is a choice, not a rule."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food et Bladi.net (beurre mou) ; Milk Street ; Choumicha et Amour de cuisine (beurre fondu et huile)",
+   "t": "My Moroccan Food and Bladi.net (soft butter); Milk Street; Choumicha and Amour de cuisine (melted butter and oil)"
+  },
+  "secrets.2.text": {
+   "fr": "Verse le lait en plusieurs fois : la quantité dépend de ta semoule. Arrête-toi dès que la pâte se tient.",
+   "t": "Add the milk a little at a time: the amount depends on your semolina. Stop as soon as the dough holds together."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Morocco World News (liquide versé petit à petit)",
+   "t": "My Moroccan Food; Morocco World News (liquid added gradually)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne pétris pas, rassemble juste la pâte : pétrir active le gluten et durcit les harchas. Une pâte un peu collante, c'est normal.",
+   "t": "Do not knead, just bring the dough together: kneading activates the gluten and makes the harchas hard. A slightly sticky dough is normal."
+  },
+  "secrets.3.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "secrets.4.text": {
+   "fr": "Ne saute pas le repos : il faut 20 minutes pour que la semoule boive le lait et gonfle. Une pâte bien reposée donne des harchas moelleuses, pas friables.",
+   "t": "Do not skip the rest: the semolina needs 20 minutes to soak up the milk and swell. A well-rested dough gives soft harchas, not crumbly ones."
+  },
+  "secrets.4.source": {
+   "fr": "My Moroccan Food (20 min) ; Amour de cuisine (20 à 30 min)",
+   "t": "My Moroccan Food (20 min); Amour de cuisine (20 to 30 min)"
+  },
+  "secrets.5.text": {
+   "fr": "Après le repos, la pâte est plus sèche, c'est normal. Si elle s'effrite, ajoute un filet de lait.",
+   "t": "After resting, the dough is drier; that is normal. If it crumbles, add a splash of milk."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Enrobe les deux faces de semoule avant la cuisson : c'est ce qui rend la croûte croustillante.",
+   "t": "Coat both sides in semolina before cooking: this is what makes the crust crisp."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; recette de Paula Wolfert décrite par Milk Street",
+   "t": "My Moroccan Food; Paula Wolfert's recipe as described by Milk Street"
+  },
+  "secrets.7.text": {
+   "fr": "1 cm d'épaisseur, pas plus, pour une cuisson homogène. Plus fine, la harcha est croustillante ; plus épaisse, elle est moelleuse.",
+   "t": "1 cm thick, no more, for even cooking. Thinner, the harcha is crisp; thicker, it is soft."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food, Bladi.net et Amour de cuisine (1 cm) ; Cooking with Alia (fine ou épaisse)",
+   "t": "My Moroccan Food, Bladi.net and Amour de cuisine (1 cm); Cooking with Alia (thin or thick)"
+  },
+  "secrets.8.text": {
+   "fr": "Cuis à sec, sans matière grasse dans la poêle.",
+   "t": "Cook it dry, with no fat in the pan."
+  },
+  "secrets.8.source": {
+   "fr": "Bladi.net (« poêle sèche ») ; Julie Andrieu (« sans matière grasse »)",
+   "t": "Bladi.net (“dry pan”); Julie Andrieu (“without fat”)"
+  },
+  "secrets.9.text": {
+   "fr": "Feu doux à moyen-doux : préchauffe la poêle à feu moyen, puis baisse avant d'y poser les galettes. Sinon elles brûlent dehors et restent crues dedans.",
+   "t": "Low to medium-low heat: preheat the pan over medium heat, then turn it down before putting in the flatbreads. Otherwise they burn on the outside and stay raw inside."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia ; My Moroccan Food (feu moyen-doux) ; Bladi.net (feu doux)",
+   "t": "Cooking with Alia; My Moroccan Food (medium-low heat); Bladi.net (low heat)"
+  },
+  "secrets.10.text": {
+   "fr": "Retourne-la délicatement, avec une spatule plate, quand le dessous est bien doré : elle est friable. La harcha est cuite quand elle est dorée des deux côtés et sèche sous le doigt.",
+   "t": "Turn it over gently, with a flat spatula, when the underside is nicely golden: it is crumbly. The harcha is done when it is golden on both sides and dry to the touch."
+  },
+  "secrets.10.source": {
+   "fr": "Amour de cuisine (retourner délicatement) ; Choumicha (spatule plate) ; Cooking with Alia",
+   "t": "Amour de cuisine (turn gently); Choumicha (flat spatula); Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Laisse-la tiédir avant de l'ouvrir, avec un couteau bien aiguisé : trop chaude, elle s'émiette.",
+   "t": "Let it cool a little before splitting it, with a very sharp knife: when too hot, it crumbles."
+  },
+  "secrets.11.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Le nappage traditionnel, c'est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux.",
+   "t": "The traditional topping is a syrup of equal parts melted honey and butter, with a few drops of orange blossom water if you like."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Verser tout le lait d'un coup : selon la semoule, il en faut plus ou moins (My Moroccan Food ; Morocco World News).",
+   "t": "Pouring in all the milk at once: depending on the semolina, you need more or less (My Moroccan Food; Morocco World News)."
+  },
+  "mistakes.1": {
+   "fr": "Pétrir la pâte comme un pain : ça active le gluten et durcit les harchas (Amour de cuisine).",
+   "t": "Kneading the dough like bread: it activates the gluten and makes the harchas hard (Amour de cuisine)."
+  },
+  "mistakes.2": {
+   "fr": "Sauter le repos : la semoule n'a pas le temps de boire le lait (My Moroccan Food ; Amour de cuisine).",
+   "t": "Skipping the rest: the semolina does not have time to soak up the milk (My Moroccan Food; Amour de cuisine)."
+  },
+  "mistakes.3": {
+   "fr": "Faire des galettes de plus de 1 cm : la cuisson n'est plus homogène (Amour de cuisine).",
+   "t": "Making flatbreads thicker than 1 cm: they no longer cook evenly (Amour de cuisine)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier l'enrobage de semoule : c'est lui qui donne la croûte croustillante (My Moroccan Food).",
+   "t": "Forgetting the semolina coating: it is what gives the crisp crust (My Moroccan Food)."
+  },
+  "mistakes.5": {
+   "fr": "Cuire à feu vif : la harcha brûle dehors et reste crue dedans (Cooking with Alia).",
+   "t": "Cooking over high heat: the harcha burns on the outside and stays raw inside (Cooking with Alia)."
+  },
+  "mistakes.6": {
+   "fr": "L'ouvrir encore brûlante ou avec un couteau qui coupe mal : elle s'émiette (Cooking with Alia).",
+   "t": "Splitting it while still very hot, or with a knife that does not cut well: it crumbles (Cooking with Alia)."
+  },
+  "mistakes.7": {
+   "fr": "Remplacer la semoule par autre chose : la recette ne marche qu'avec de la semoule (Cooking with Alia).",
+   "t": "Replacing the semolina with something else: the recipe only works with semolina (Cooking with Alia)."
+  },
+  "variants.0": {
+   "fr": "Beurre et huile : Amour de cuisine met 100 ml de beurre fondu et 50 ml d'huile pour 500 g de semoule ; Julie Andrieu 40 g de beurre fondu et 1 c. à s. d'huile pour 250 g ; Morocco World News ½ tasse de chaque pour ½ kg.",
+   "t": "Butter and oil: Amour de cuisine uses 100 ml melted butter and 50 ml oil for 500 g semolina; Julie Andrieu 40 g melted butter and 1 tbsp oil for 250 g; Morocco World News ½ cup of each for ½ kg."
+  },
+  "variants.1": {
+   "fr": "À l'eau et sans levure, la plus simple : 400 g de semoule fine, 100 g de beurre ramolli, 50 g de sucre, ½ c. à c. de sel et ¾ de verre d'eau ; galettes de 1 cm cuites à feu doux sur poêle sèche, 5 à 10 min par face (Bladi.net).",
+   "t": "With water and no raising agent, the simplest: 400 g fine semolina, 100 g softened butter, 50 g sugar, ½ tsp salt and ¾ glass of water; 1 cm flatbreads cooked over low heat in a dry pan, 5 to 10 min per side (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Plus croquante : moitié semoule fine, moitié semoule moyenne dans la pâte (Amour de cuisine).",
+   "t": "Crunchier: half fine semolina, half medium semolina in the dough (Amour de cuisine)."
+  },
+  "variants.3": {
+   "fr": "Une seule grande harcha : pâte plus souple (20 cl de lait pour 250 g de semoule) étalée à la main mouillée dans la poêle chaude saupoudrée de semoule moyenne, sur 1 cm au plus, semoule moyenne dessus, 8 à 10 min par face (Julie Andrieu). Wikipédia parle de harchas grandes comme un pneu de camion ; à Fès, Christopher Kimball en a mangé une presque aussi large qu'un tajine (Milk Street).",
+   "t": "One large harcha: a softer dough (20 cl milk for 250 g semolina) spread with a wet hand in the hot pan dusted with medium semolina, 1 cm thick at most, with medium semolina on top, 8 to 10 min per side (Julie Andrieu). Wikipedia mentions harchas as big as a lorry tyre; in Fez, Christopher Kimball ate one almost as wide as a tagine (Milk Street)."
+  },
+  "variants.4": {
+   "fr": "Au four : pâte à l'huile et au lait chaud, un peu coulante, étalée dans une poêle froide beurrée et bien saupoudrée de semoule, semoule et petits morceaux de beurre dessus, puis enfournée ; ni température ni durée données (Lalla Moulati, qui l'attribue à Choumicha).",
+   "t": "In the oven: a slightly runny dough made with oil and hot milk, spread in a cold buttered frying pan well dusted with semolina, topped with semolina and small pieces of butter, then put in the oven; no temperature or time given (Lalla Moulati, who attributes it to Choumicha)."
+  },
+  "variants.5": {
+   "fr": "Farcie : pâte à la levure fraîche (beurre et huile, lait et eau, repos de 30 min) ; chaque boule est creusée, garnie de jben, d'olives noires et de thym, refermée, aplatie puis dorée à la poêle (Morocco World News).",
+   "t": "Stuffed: a dough made with fresh yeast (butter and oil, milk and water, 30 min rest); each ball is hollowed out, filled with jben, black olives and thyme, closed up, flattened and then browned in a frying pan (Morocco World News)."
+  },
+  "variants.6": {
+   "fr": "Salée au zaatar et aux olives : sans sucre, avec 3 c. à s. de zaatar, 2 c. à s. d'olives noires hachées et 1 c. à c. de sel pour 250 g de semoule (My Moroccan Food). Nargisse Benkabbou la dit aussi sucrée ou salée, parfumée ou fourrée de fruits secs, de viande ou d'herbes.",
+   "t": "Savoury with zaatar and olives: no sugar, with 3 tbsp zaatar, 2 tbsp chopped black olives and 1 tsp salt for 250 g semolina (My Moroccan Food). Nargisse Benkabbou also describes it as sweet or savoury, flavoured, or stuffed with dried fruit and nuts, meat or herbs."
+  },
+  "variants.7": {
+   "fr": "Au babeurre ou au yaourt : dans le Rif, du babeurre ou du yaourt allongé d'eau remplace le lait (Wikipédia) ; Milk Street fait sa version au yaourt.",
+   "t": "With buttermilk or yoghurt: in the Rif, buttermilk or yoghurt thinned with water replaces the milk (Wikipedia); Milk Street makes its version with yoghurt."
+  },
+  "variants.8": {
+   "fr": "Avec une pincée de levure boulangère en plus de la levure chimique (Amour de cuisine).",
+   "t": "With a pinch of yeast in addition to the baking powder (Amour de cuisine)."
+  },
+  "variants.9": {
+   "fr": "Aux graines de fenouil concassées, au cumin, à la coriandre ou aux herbes séchées (Julie Andrieu).",
+   "t": "With crushed fennel seeds, cumin, coriander or dried herbs (Julie Andrieu)."
+  },
+  "variants.10": {
+   "fr": "À Khénifra, la harcha du ftour se distingue : elle est préparée avec des plantes médicinales (Hespress).",
+   "t": "In Khenifra, the iftar harcha stands out: it is made with medicinal plants (Hespress)."
+  },
+  "variants.11": {
+   "fr": "En sandwich, fourrée de fromage ou de viande confite (Wikipédia).",
+   "t": "As a sandwich, filled with cheese or confit meat (Wikipedia)."
+  }
+ }
+}

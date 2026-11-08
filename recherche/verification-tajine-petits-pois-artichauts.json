@@ -1,0 +1,85 @@
+{
+ "slug": "tajine-petits-pois-artichauts",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati, « طاجين الخرشوف بلحم الخروف » (tajine d'artichauts à l'agneau), 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/2178.html",
+   "ce_qu_elle_confirme": "Source marocaine non citée : au tajine, viande, oignon et épices (gingembre, safran, poivre) d'abord, puis les artichauts posés sur la viande ; citron en quartiers ; olives facultatives ; filet d'huile d'olive à la fin."
+  },
+  {
+   "name": "Lalla Moulati, astuce « لكل النساء طريقة سهلة لتقشير القوق », 10 décembre 2018",
+   "url": "https://www.lalamoulati.net/174061.html",
+   "ce_qu_elle_confirme": "Source marocaine non citée : artichauts épluchés arrosés de jus de citron pour garder leur couleur."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "secrets[7].text",
+   "actuel": "d'abord les petits pois, puis les artichauts par-dessus.",
+   "propose": "chez Lalla Moulati, d'abord les petits pois, puis les artichauts par-dessus.",
+   "pourquoi": "Cet ordre est celui de Lalla Moulati (et de Cooking With Alia n° 128), pas celui de la recette : avec des surgelés, les étapes 7 et 8 mettent les artichauts d'abord et les petits pois ensuite, par-dessus.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati 84069 ; Cooking With Alia n° 128 ; steps[6] et steps[7] de la recette"
+  },
+  {
+   "champ": "variants[1]",
+   "actuel": "puis les légumes, 10 à 20 minutes",
+   "propose": "puis les légumes, 10 à 30 minutes",
+   "pourquoi": "La fourchette doit inclure les 30 minutes de Cooking With Alia, citées dans la même parenthèse.",
+   "gravite": "mineure",
+   "sources": "Cooking With Alia n° 861 (30 + 30 min) ; Rachida (10) ; MarocMama (15) ; Bladi.net, Laila M. (20)"
+  },
+  {
+   "champ": "steps[0].tip",
+   "actuel": "tes doigts ne noirciront pas",
+   "propose": "tes doigts ne se tacheront pas",
+   "pourquoi": "Cooking With Alia écrit « so your fingers don't become stained » (tachés), pas « noircir ».",
+   "gravite": "mineure",
+   "sources": "Cooking With Alia n° 861"
+  },
+  {
+   "champ": "steps[6].timer.done",
+   "actuel": "Ajoute maintenant les petits pois surgelés, le citron confit et les olives.",
+   "propose": "Ajoute maintenant les petits pois s'ils sont surgelés, puis le citron confit et les olives.",
+   "pourquoi": "Avec des petits pois frais, ils sont déjà dans la cocotte (étape 7) ; la phrase devient conditionnelle comme le texte de l'étape 8, plus claire à traduire.",
+   "gravite": "mineure",
+   "sources": "Cohérence interne : steps[6].text et steps[7].text"
+  },
+  {
+   "champ": "mistakes[4]",
+   "actuel": "Ouvrir une cocotte-minute avant que toute la vapeur soit sortie",
+   "propose": "Avec la variante à la cocotte-minute : l'ouvrir avant que toute la vapeur soit sortie",
+   "pourquoi": "La recette se fait dans une cocotte ordinaire ; cette erreur ne concerne que la variante à la cocotte-minute (variants[1]). Plus clair pour la traduction.",
+   "gravite": "mineure",
+   "sources": "Rachida (« n'ouvrez pas la cocotte tant que tout l'air n'est pas sorti ») ; Cooking With Alia n° 861"
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "donnent 500 g, 600 g, 680 g, 1 kg et 1,5 kg (médiane 680 g)",
+   "propose": "donnent 500 g (Cooking With Alia n° 861 ; Lalla Moulati 2020), 600 g, 680 g, 1 kg et 1,5 kg (médiane 640 g)",
+   "pourquoi": "Lalla Moulati (2020) met ½ kg de viande et manquait à la liste ; médiane recalculée (python) : 640 g. Les 700 g retenus restent dans la fourchette.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati 219017 ; Cooking With Alia n° 861"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Proportions recalculées (python) : viande 667 g pour 4 -> 700 g ; artichauts 5,3 -> 6 ; petits pois 300 g (Rachida ramené à 4) ; huile 56,7 ml ≈ 4 c. à s. ; eau 500 ml ; olives 100 g (Choumicha ramené à 4) ; 6 fonds ≈ 360 g (My Moroccan Food) ; conversions (1 lb, tasses, 90 °F = 32 °C) justes.",
+  "Cohérence : minuteurs 10 + 60 + 10 + 10 = 90 min = time.cook ; quantités des étapes = liste ; ordre des étapes logique.",
+  "Halal : viande halal demandée, ni porc ni alcool ; bouillon et cube non retenus.",
+  "Sécurité alimentaire : petits pois surgelés bien cuits (FSA « Cooking your food ») ; restes au frais dans les 2 h, mangés sous 48 h, réchauffés une seule fois jusqu'à être fumants (FSA) ; boîte couverte et règle des 2 h (FDA) : textes conformes aux pages.",
+  "Liens : les 22 URL répondent (200 ; Choumicha via web.archive.org) ; Morocco World News répond 403 à curl et n'a pas de copie Wayback : lu avec l'outil de lecture web, robots.txt archivé « Allow: / » ; « Taroudant » et le contenu attribué confirmés.",
+  "Secrets relus sur les pages : couteau inox et eau citronnée (Choumicha), choix des artichauts et des petits pois (Choumicha), surgelés sans décongeler (Rachida), épices sobres (Rachida : pas « un florilège d'épices »), oignon au fond du tajine (Lalla Moulati 84069), diffuseur et planche en bois (My Moroccan Food), sauce onctueuse (Rachida), citron confit rincé (Cooking With Alia 128 et 437).",
+  "Occasion et service : plat familial, Ramadan après le ftour, pain maison ou matlou3 (Rachida) ; déjeuner quotidien avec pain maison (Morocco World News) ; tajine du printemps (MarocMama) ; servir très chaud (Choumicha) ; pain marocain ou baguette (Cooking With Alia 128).",
+  "Variantes conformes aux pages (Lalla Moulati 2014, 2016, 2020 ; Bladi.net ; Choumicha 1065 ; MarocMama ; My Moroccan Food ; Cooking With Alia), sauf la fourchette corrigée.",
+  "Noms : arabe = titre de Lalla Moulati 84069 ; « tajine jelbana » طاجين جلبانة chez Rachida.",
+  "Rendu appli (règles de app.html refaites en python) pour 1, 4 et 8 personnes : quantités et pluriels justes (« 1,4 kg », « 1 l », « 2 oignons moyens »). « ¼ pincée » de safran à 1 personne : acceptable."
+ ],
+ "non_verifiable": [
+  "Recherche web impossible (quota épuisé) : seules des recherches internes ont été faites (Lalla Moulati, Femmes du Maroc : aucune autre recette de ce plat exact). Hespress et Le Matin (robots.txt derrière un défi Cloudflare, 403) et chhiwat.com (connexion impossible) n'ont pas été consultés.",
+  "Temps de préparation de 15 min avec des artichauts frais : non confirmé. MarocMama compte 15 min avec des fonds prêts ; Cooking With Alia (n° 861) indique 30 min seulement dans les données cachées de sa page.",
+  "Nom en darija citant l'artichaut : Choumicha écrit « Qouq » et « 9ou9 » dans ses mots-clés, mais aucune source ne nomme ce plat en lettres latines avec l'artichaut.",
+  "Choumicha (« L'artichaut, un cœur tendre ») écrit qu'un artichaut cuit doit être mangé vite : affirmation de santé sans source officielle, non reprise ; la règle FSA des 48 h reste celle de la recette.",
+  "Choumicha lu seulement sur web.archive.org (site en erreur 525) ; Morocco World News lu par l'outil de lecture web (citations rapportées), pas dans le HTML brut."
+ ]
+}

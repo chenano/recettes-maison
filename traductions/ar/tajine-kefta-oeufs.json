@@ -1,0 +1,530 @@
+{
+ "_slug": "tajine-kefta-oeufs",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Tajine de kefta aux œufs",
+   "t": "طاجين الكفتة بالبيض"
+  },
+  "darija": {
+   "fr": "Tajine kefta mkaouara bel bid",
+   "t": "طاجين كفتة مكوّرة بالبيض"
+  },
+  "tagline": {
+   "fr": "De petites boulettes aux herbes et au cumin qui mijotent dans une sauce tomate relevée, des œufs au jaune coulant, et du khobz pour tout saucer.",
+   "t": "كويرات صغيرة بالأعشاب والكمون تُطهى على نار هادئة في صلصة طماطم متبّلة جيدًا، وبيض بصفار سائل، وخبز الدار لتغميس كل شيء."
+  },
+  "region": {
+   "fr": "Maroc (aucune région d'origine précise dans les sources consultées)",
+   "t": "المغرب (لا تذكر المصادر التي رجعنا إليها منطقة أصل محدّدة)"
+  },
+  "occasion": {
+   "fr": "Repas familial simple et rapide, à partager autour du tajine",
+   "t": "وجبة عائلية بسيطة وسريعة، يتقاسمها الجميع حول الطاجين"
+  },
+  "serving": {
+   "fr": "Sers aussitôt, dans le tajine ou la sauteuse de cuisson posé au milieu de la table. La tradition est de manger ensemble directement dans le plat, à la main, avec des morceaux de khobz pour attraper les boulettes, la sauce et le jaune coulant (Taste of Maroc, Amour de cuisine, My Moroccan Food). Un thé à la menthe l'accompagne bien (Taste of Maroc, Cooking With Alia).",
+   "t": "قدّمه فورًا في الطاجين أو المقلاة العميقة التي طُهي فيها، موضوعًا وسط المائدة. والعادة أن يأكل الجميع معًا من الطبق مباشرة، باليد، بقطع من خبز الدار لالتقاط الكويرات والصلصة والصفار السائل (Taste of Maroc، Amour de cuisine، My Moroccan Food). ويناسبه الشاي بالنعناع (Taste of Maroc، Cooking With Alia)."
+  },
+  "ing.0.group": {
+   "fr": "Kefta (boulettes)",
+   "t": "الكفتة (الكويرات)"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+   "t": "لحم مفروم حلال (بقر أو خروف أو خليط منهما)"
+  },
+  "ing.viande.note": {
+   "fr": "pas trop maigre : 15 à 20 % de matière grasse",
+   "t": "غير قليل الدهن جدًا: من 15 إلى 20 % من الدهون"
+  },
+  "ing.oignon-kefta.name": {
+   "fr": "petit oignon, râpé",
+   "t": "بصلة صغيرة مبشورة"
+  },
+  "ing.oignon-kefta.pl": {
+   "fr": "petits oignons, râpés",
+   "t": "بصلات صغيرة مبشورة"
+  },
+  "ing.persil-kefta.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.coriandre-kefta.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة طازجة مفرومة"
+  },
+  "ing.paprika-kefta.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.cumin-kefta.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.sel-kefta.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.poivre-kefta.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.piment-kefta.name": {
+   "fr": "de piment de Cayenne",
+   "t": "فلفل الكايين"
+  },
+  "ing.1.group": {
+   "fr": "Sauce tomate",
+   "t": "صلصة الطماطم"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates fraîches bien mûres",
+   "t": "طماطم طازجة ناضجة جيدًا"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.oignon-sauce.name": {
+   "fr": "oignon moyen, haché finement",
+   "t": "بصلة متوسطة مفرومة ناعمًا"
+  },
+  "ing.oignon-sauce.pl": {
+   "fr": "oignons moyens, hachés finement",
+   "t": "بصلات متوسطة مفرومة ناعمًا"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail, écrasée",
+   "t": "فص ثوم مهروس"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail, écrasées",
+   "t": "فصوص ثوم مهروسة"
+  },
+  "ing.paprika-sauce.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو"
+  },
+  "ing.cumin-sauce.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.sel-sauce.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel-sauce.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "يُعدَّل بعد التذوّق"
+  },
+  "ing.poivre-sauce.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.piment-sauce.name": {
+   "fr": "de piment de Cayenne",
+   "t": "فلفل الكايين"
+  },
+  "ing.piment-sauce.note": {
+   "fr": "ou 2 petits piments forts entiers",
+   "t": "أو 2 حبة فلفل حار صغيرة، كاملة"
+  },
+  "ing.persil-sauce.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.coriandre-sauce.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة طازجة مفرومة"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "ماء"
+  },
+  "ing.eau.note": {
+   "fr": "seulement si la sauce attache",
+   "t": "فقط إذا التصقت الصلصة بالقاع"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "اللمسة الأخيرة والتقديم"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.oeufs.note": {
+   "fr": "fermiers (beldi) de préférence",
+   "t": "يُفضَّل أن تكون بلدية"
+  },
+  "ing.sel-oeufs.name": {
+   "fr": "sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel-oeufs.note": {
+   "fr": "une petite pincée sur chaque œuf",
+   "t": "رشة صغيرة على كل بيضة"
+  },
+  "ing.coriandre-deco.name": {
+   "fr": "de coriandre fraîche ciselée",
+   "t": "كزبرة طازجة مقطّعة ناعمًا"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "à volonté, pour saucer",
+   "t": "حسب الرغبة، للتغميس"
+  },
+  "equipment.0": {
+   "fr": "Tajine en terre ou en céramique, de taille moyenne à grande",
+   "t": "طاجين من الطين أو الخزف، متوسط إلى كبير الحجم"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur si tu ne cuisines pas au gaz",
+   "t": "موزّع حرارة إن كنت لا تطبخ على الغاز"
+  },
+  "equipment.2": {
+   "fr": "Ou une sauteuse profonde avec couvercle",
+   "t": "أو مقلاة عميقة بغطاء"
+  },
+  "equipment.3": {
+   "fr": "Râpe à gros trous",
+   "t": "مبشرة بثقوب كبيرة"
+  },
+  "equipment.4": {
+   "fr": "Grand saladier",
+   "t": "وعاء سلطة كبير"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "steps.0.title": {
+   "fr": "Pétris la kefta",
+   "t": "اعجن الكفتة"
+  },
+  "steps.0.text": {
+   "fr": "Dans un saladier, mets {{viande:full}}, {{oignon-kefta:full}}, {{persil-kefta:full}} et {{coriandre-kefta:full}}. Ajoute {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} et {{piment-kefta:full}}. Pétris à la main 1 à 2 minutes, juste assez pour bien répartir les épices, sans tasser. N'ajoute ni œuf ni chapelure.",
+   "t": "في وعاء سلطة، ضع {{viande}} من اللحم المفروم الحلال (بقر أو خروف أو خليط منهما)، و{{oignon-kefta:full}}، و{{persil-kefta}} من البقدونس المفروم، و{{coriandre-kefta}} من الكزبرة الطازجة المفرومة. أضف {{paprika-kefta}} من الفلفل الأحمر الحلو، و{{cumin-kefta}} من الكمون المطحون، و{{sel-kefta}} من الملح الناعم، و{{poivre-kefta}} من الفلفل الأسود المطحون، و{{piment-kefta}} من فلفل الكايين. اعجن باليد من 1 إلى 2 دقيقة، فقط بما يكفي لتوزيع التوابل جيدًا، دون ضغط. لا تضف بيضًا ولا فتات خبز."
+  },
+  "steps.1.title": {
+   "fr": "Roule de petites boulettes",
+   "t": "كوّر كويرات صغيرة"
+  },
+  "steps.1.text": {
+   "fr": "Forme des boulettes de la taille d'une cerise, environ 2,5 cm de diamètre. Pose-les sur une assiette, couvre et garde-les au frais pendant que tu prépares la sauce.",
+   "t": "شكّل كويرات بحجم حبة الكرز، قطرها نحو 2,5 سم. ضعها في صحن، وغطّها، واحفظها باردة بينما تحضّر الصلصة."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "ابشر الطماطم"
+  },
+  "steps.2.text": {
+   "fr": "Coupe {{tomates:full}} en deux. Râpe-les côté chair sur les gros trous de la râpe, au-dessus d'un saladier. Jette la peau qui te reste dans la main.",
+   "t": "اقسم {{tomates:full}} إلى أنصاف. ابشرها من جهة اللب على الثقوب الكبيرة للمبشرة، فوق وعاء سلطة. تخلّص من القشرة التي تبقى في يدك."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم مبشورة على مبشرة"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir l'oignon et l'ail",
+   "t": "شوّح البصل والثوم"
+  },
+  "steps.3.text": {
+   "fr": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "t": "ضع الطاجين على موزّع الحرارة (أو استعمل مقلاة عميقة) على نار متوسطة إلى هادئة، وسخّن فيه {{huile}} من زيت الزيتون. أضف {{oignon-sauce:full}} واتركها تذبل بضع دقائق مع التحريك. أضف {{ail:full}} وحرّك من 1 إلى 2 دقيقة حتى تفوح رائحة الثوم، دون أن يحترق."
+  },
+  "steps.4.title": {
+   "fr": "Fais mijoter la sauce",
+   "t": "اطبخ الصلصة على نار هادئة"
+  },
+  "steps.4.text": {
+   "fr": "Verse les tomates râpées avec leur jus. Ajoute {{paprika-sauce:full}}, {{cumin-sauce:full}}, {{sel-sauce:full}}, {{poivre-sauce:full}}, {{piment-sauce:full}}, {{persil-sauce:full}} et {{coriandre-sauce:full}}. Porte à frémissement, couvre et laisse mijoter à feu doux en remuant de temps en temps.",
+   "t": "اسكب الطماطم المبشورة مع عصيرها. أضف {{paprika-sauce}} من الفلفل الأحمر الحلو، و{{cumin-sauce}} من الكمون المطحون، و{{sel-sauce}} من الملح الناعم، و{{poivre-sauce}} من الفلفل الأسود المطحون، و{{piment-sauce}} من فلفل الكايين، و{{persil-sauce}} من البقدونس المفروم، و{{coriandre-sauce}} من الكزبرة الطازجة المفرومة. اتركها حتى تبدأ في الغليان الخفيف، ثم غطِّها واتركها تُطهى على نار هادئة مع التحريك من حين لآخر."
+  },
+  "steps.4.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "صلصة الطماطم"
+  },
+  "steps.4.timer.done": {
+   "fr": "Regarde la sauce : elle doit être épaisse et parfumée.",
+   "t": "انظر إلى الصلصة: يجب أن تكون كثيفة وعطرة."
+  },
+  "steps.5.title": {
+   "fr": "Vérifie la sauce",
+   "t": "تحقّق من الصلصة"
+  },
+  "steps.5.text": {
+   "fr": "Écrase les morceaux de tomate avec le dos d'une cuillère. La sauce est prête quand elle est épaisse et parfumée. Si elle attache, ajoute un peu d'{{eau:full}} ; si elle est encore liquide, prolonge la cuisson, car tout dépend de la maturité des tomates. Goûte et rectifie le sel.",
+   "t": "اهرس قطع الطماطم بظهر ملعقة. تكون الصلصة جاهزة حين تصير كثيفة وعطرة. إذا التصقت بالقاع، فأضف قليلًا من الماء؛ وإذا كانت ما تزال سائلة، فمدّد الطهي، لأن كل شيء يتوقف على نضج الطماطم. تذوّق وعدّل الملح."
+  },
+  "steps.6.title": {
+   "fr": "Poche les boulettes",
+   "t": "اطهُ الكويرات في الصلصة"
+  },
+  "steps.6.text": {
+   "fr": "Dépose les boulettes crues une à une dans la sauce, en laissant un peu d'espace entre elles. Couvre et laisse frémir à feu doux. Coupe une boulette pour vérifier qu'elle est cuite à cœur, mais ne prolonge pas : trop cuites, elles durcissent.",
+   "t": "ضع الكويرات النيئة واحدة تلو الأخرى في الصلصة، مع ترك مسافة صغيرة بينها. ضع الغطاء واتركها تغلي غليانًا خفيفًا على نار هادئة. اقطع كويرة لتتأكد أنها نضجت من الداخل، لكن لا تُطِل الطهي: فإذا زاد نضجها قست."
+  },
+  "steps.6.timer.label": {
+   "fr": "Boulettes",
+   "t": "الكويرات"
+  },
+  "steps.6.timer.done": {
+   "fr": "Coupe une boulette : si elle est cuite à cœur, passe tout de suite aux œufs.",
+   "t": "اقطع كويرة: إذا نضجت من الداخل، فانتقل فورًا إلى البيض."
+  },
+  "steps.7.title": {
+   "fr": "Casse les œufs",
+   "t": "اكسر البيض"
+  },
+  "steps.7.text": {
+   "fr": "Creuse un petit nid dans la sauce, entre les boulettes, pour chaque œuf. Casse {{oeufs:full}} un par un dans les nids, sans crever les jaunes. Sale légèrement chaque œuf ({{sel-oeufs:full}}).",
+   "t": "احفر في الصلصة، بين الكويرات، عشًّا صغيرًا لكل بيضة. اكسر {{oeufs:full}} واحدة تلو الأخرى في الأعشاش، دون أن تفقأ الصفار. رشّ قليلًا من الملح على كل بيضة ({{sel-oeufs:full}})."
+  },
+  "steps.8.title": {
+   "fr": "Fais prendre les œufs",
+   "t": "اترك البيض ينضج"
+  },
+  "steps.8.text": {
+   "fr": "Remets le couvercle et laisse cuire à feu doux. C'est prêt quand le blanc est pris et que le jaune reste coulant. Retire aussitôt du feu. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, laisse cuire quelques minutes de plus, jusqu'à ce que le jaune soit pris.",
+   "t": "أعد الغطاء واتركه يُطهى على نار هادئة. يكون جاهزًا حين يتماسك البياض ويبقى الصفار سائلًا. ارفعه عن النار فورًا. وإذا كان الطبق لامرأة حامل أو لطفل صغير أو لشخص مسنّ أو ضعيف الصحة، فاتركه بضع دقائق أخرى حتى يتماسك الصفار."
+  },
+  "steps.8.timer.label": {
+   "fr": "Œufs",
+   "t": "البيض"
+  },
+  "steps.8.timer.done": {
+   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
+   "t": "البياض متماسك والصفار ما يزال سائلًا: أطفئ النار فورًا."
+  },
+  "steps.9.title": {
+   "fr": "Sers dans le tajine",
+   "t": "قدّمه في الطاجين"
+  },
+  "steps.9.text": {
+   "fr": "Parsème {{coriandre-deco:full}}. Pose le tajine au milieu de la table et sers tout de suite, dans le plat de cuisson. Chacun se sert à la main avec des morceaux de {{khobz:full}}, en trempant le pain dans la sauce et le jaune.",
+   "t": "رشّ فوقه {{coriandre-deco}} من الكزبرة الطازجة المقطّعة ناعمًا. ضع الطاجين وسط المائدة وقدّمه فورًا في إناء الطهي نفسه. يأكل كل واحد بيده بقطع من {{khobz:full}}، ويغمّس الخبز في الصلصة والصفار."
+  },
+  "secrets.0.text": {
+   "fr": "L'assaisonnement classique de la kefta repose au minimum sur le paprika, le cumin, l'oignon et les herbes fraîches.",
+   "t": "يقوم التتبيل الكلاسيكي للكفتة، على الأقل، على الفلفل الأحمر والكمون والبصل والأعشاب الطازجة."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih), recette de kefta",
+   "t": "Taste of Maroc (Christine Benlafquih)، وصفة الكفتة"
+  },
+  "secrets.1.text": {
+   "fr": "Pas d'œuf ni de chapelure dans la kefta : c'est un écart à la tradition marocaine.",
+   "t": "لا بيض ولا فتات خبز في الكفتة: فذلك خروج عن التقاليد المغربية."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.2.text": {
+   "fr": "Prends une viande pas trop maigre (15 à 20 % de gras) : un peu de gras est nécessaire pour la texture et le goût classiques de la kefta.",
+   "t": "اختر لحمًا غير قليل الدهن جدًا (من 15 إلى 20 % من الدهون): فقليل من الدهن ضروري للقوام والطعم الكلاسيكيين للكفتة."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc, recette de kefta",
+   "t": "My Moroccan Food (Nargisse Benkabbou)؛ Taste of Maroc، وصفة الكفتة"
+  },
+  "secrets.3.text": {
+   "fr": "Pour Fatéma Hal, ce plat a le parfum du Maroc : persil, coriandre, menthe et cumin. Le cumin, qu'elle juge parfois écrasant, ne trouve grâce selon elle que dans ce tajine.",
+   "t": "ترى Fatéma Hal أن لهذا الطبق عطر المغرب: البقدونس والكزبرة والنعناع والكمون. أما الكمون، الذي تراه أحيانًا طاغيًا، فلا يحظى برضاها إلا في هذا الطاجين."
+  },
+  "secrets.3.source": {
+   "fr": "TelQuel, « À la recherche du goût perdu », Fatéma Hal",
+   "t": "TelQuel، «À la recherche du goût perdu»، Fatéma Hal"
+  },
+  "secrets.4.text": {
+   "fr": "Les boulettes se font traditionnellement toutes petites (taille d'une cerise, environ 2,5 cm) ; plus elles sont petites, plus elles cuisent vite.",
+   "t": "تُصنع الكويرات تقليديًا صغيرة جدًا (بحجم حبة الكرز، نحو 2,5 سم)؛ وكلما صغرت نضجت أسرع."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; My Moroccan Food ; MarocMama",
+   "t": "Taste of Maroc؛ My Moroccan Food؛ MarocMama"
+  },
+  "secrets.5.text": {
+   "fr": "Coupe les tomates en deux, râpe-les et jette la peau, plutôt que de les peler et les hacher : la cuisson est un peu plus courte.",
+   "t": "اقسم الطماطم إلى نصفين، وابشرها، وتخلّص من القشرة، بدل تقشيرها وفرمها: فيصير الطهي أقصر قليلًا."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia ; MarocMama",
+   "t": "Taste of Maroc؛ Cooking With Alia؛ MarocMama"
+  },
+  "secrets.6.text": {
+   "fr": "Préfère des tomates fraîches bien mûres : en conserve, le goût est un peu métallique. Le temps de réduction dépend beaucoup de leur maturité et de leur jus.",
+   "t": "فضّل الطماطم الطازجة الناضجة جيدًا: فالمعلّبة طعمها معدني قليلًا. ومدة تكثيف الصلصة تتوقف كثيرًا على نضج الطماطم وكمية عصيرها."
+  },
+  "secrets.6.source": {
+   "fr": "MarocMama (Amanda Mouttaki) ; Taste of Maroc",
+   "t": "MarocMama (Amanda Mouttaki)؛ Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Fais d'abord réduire la sauce, puis poche les boulettes crues dedans juste le temps de les cuire : trop cuites, elles deviennent dures.",
+   "t": "كثّف الصلصة أولًا، ثم اطهُ فيها الكويرات النيئة بقدر ما يلزم لنضجها فقط: فإذا زاد نضجها صارت قاسية."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; My Moroccan Food",
+   "t": "Taste of Maroc؛ My Moroccan Food"
+  },
+  "secrets.8.text": {
+   "fr": "Laisse un peu d'espace entre les boulettes pour qu'elles s'imprègnent de sauce.",
+   "t": "اترك مسافة صغيرة بين الكويرات لتتشرّب الصلصة."
+  },
+  "secrets.8.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.9.text": {
+   "fr": "Les œufs vont à la toute fin, dans de petits nids, avec une pincée de sel sur chacun, couvercle fermé : 4 à 5 minutes suffisent pour un blanc pris et un jaune coulant.",
+   "t": "يُضاف البيض في النهاية تمامًا، في أعشاش صغيرة، مع رشة ملح على كل بيضة، والغطاء مغلق: تكفي من 4 إلى 5 دقائق ليتماسك البياض ويبقى الصفار سائلًا."
+  },
+  "secrets.9.source": {
+   "fr": "Amour de cuisine ; My Moroccan Food",
+   "t": "Amour de cuisine؛ My Moroccan Food"
+  },
+  "secrets.10.text": {
+   "fr": "Choisis des œufs fermiers (beldi) si tu peux.",
+   "t": "اختر البيض البلدي إن استطعت."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Tajine en terre : utilise toujours un diffuseur sur une source de chaleur autre que le gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond.",
+   "t": "الطاجين الطيني: استعمل دائمًا موزّع حرارة على أي مصدر حرارة غير الغاز؛ وعلى الغاز دون موزّع، يجب ألا يلمس اللهب القاع."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc؛ MarocMama"
+  },
+  "secrets.12.text": {
+   "fr": "Si la sauce est trop acide, une pincée de sucre la corrige.",
+   "t": "إذا كانت الصلصة حامضة جدًا، فرشة سكر تصلحها."
+  },
+  "secrets.12.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "mistakes.0": {
+   "fr": "Mettre de l'œuf ou de la chapelure dans la kefta : ce n'est pas la tradition marocaine.",
+   "t": "وضع البيض أو فتات الخبز في الكفتة: ليس ذلك من التقاليد المغربية."
+  },
+  "mistakes.1": {
+   "fr": "Prendre une viande trop maigre : il faut un peu de gras pour la texture et le goût.",
+   "t": "اختيار لحم قليل الدهن جدًا: يلزم قليل من الدهن للقوام والطعم."
+  },
+  "mistakes.2": {
+   "fr": "Trop pétrir ou tasser la viande : travaille-la juste assez pour mélanger.",
+   "t": "الإفراط في عجن اللحم أو ضغطه: اعجنه فقط بما يكفي لخلطه."
+  },
+  "mistakes.3": {
+   "fr": "Faire de grosses boulettes : traditionnellement, elles sont petites et cuisent plus vite.",
+   "t": "صنع كويرات كبيرة: فهي تقليديًا صغيرة وتنضج أسرع."
+  },
+  "mistakes.4": {
+   "fr": "Laisser brûler l'ail au début de la sauce.",
+   "t": "ترك الثوم يحترق في بداية تحضير الصلصة."
+  },
+  "mistakes.5": {
+   "fr": "Ajouter les boulettes avant que la sauce ait épaissi.",
+   "t": "إضافة الكويرات قبل أن تتكثّف الصلصة."
+  },
+  "mistakes.6": {
+   "fr": "Prolonger la cuisson des boulettes : elles durcissent.",
+   "t": "إطالة طهي الكويرات: فهي تقسو."
+  },
+  "mistakes.7": {
+   "fr": "Serrer les boulettes les unes contre les autres : elles prennent moins la sauce.",
+   "t": "رصّ الكويرات بعضها بجانب بعض: فتتشرّب الصلصة أقل."
+  },
+  "mistakes.8": {
+   "fr": "Crever les jaunes en cassant les œufs.",
+   "t": "فقء الصفار عند كسر البيض."
+  },
+  "mistakes.9": {
+   "fr": "Oublier le couvercle ou laisser les œufs trop longtemps : le jaune n'est plus coulant.",
+   "t": "نسيان الغطاء أو ترك البيض مدة طويلة جدًا: لا يبقى الصفار سائلًا."
+  },
+  "mistakes.10": {
+   "fr": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur.",
+   "t": "وضع طاجين طيني على صفيحة كهربائية أو على موقد زجاجي خزفي دون موزّع حرارة."
+  },
+  "variants.0": {
+   "fr": "Version de Fès sans tomate (Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez) : boulettes de kefta déjà pochées, cuites dans du beurre et de l'eau avec sel et piment soudania jusqu'à ce que l'eau s'évapore presque, puis œufs cassés dessus juste avant de servir. Aucune tomate dans la partie visible de la recette (aperçu ckbk).",
+   "t": "النسخة الفاسية بدون طماطم (Zette Guinaudeau-Franc، Traditional Moroccan Cooking: Recipes from Fez): كويرات كفتة مسلوقة مسبقًا، تُطهى في الزبدة والماء مع الملح وفلفل «السودانية» الحار حتى يكاد الماء يتبخّر، ثم يُكسر البيض فوقها قبيل التقديم. لا طماطم في الجزء المتاح من الوصفة (معاينة على ckbk)."
+  },
+  "variants.1": {
+   "fr": "Olives vertes dénoyautées ajoutées en fin de cuisson, juste pour les réchauffer ; sale alors moins la sauce (Taste of Maroc).",
+   "t": "زيتون أخضر منزوع النوى يُضاف في آخر الطهي فقط ليسخن؛ وقلّل حينها ملح الصلصة (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Poivron vert haché avec l'oignon et une feuille de laurier dans la sauce (Taste of Maroc).",
+   "t": "فلفل أخضر حلو مفروم مع البصل، وورقة غار في الصلصة (Taste of Maroc)."
+  },
+  "variants.3": {
+   "fr": "Menthe fraîche hachée dans la kefta (My Moroccan Food ; facultative chez Taste of Maroc, qui la conseille avec l'agneau).",
+   "t": "نعناع طازج مفروم في الكفتة (My Moroccan Food؛ واختياري عند Taste of Maroc، الذي ينصح به مع لحم الخروف)."
+  },
+  "variants.4": {
+   "fr": "Une pointe de curcuma ou de cannelle dans la kefta (facultatives chez Taste of Maroc ; cannelle chez Cooking With Alia, épisode 372).",
+   "t": "رشة خفيفة من الكركم (الخرقوم) أو القرفة في الكفتة (اختياريان عند Taste of Maroc؛ والقرفة عند Cooking With Alia، الحلقة 372)."
+  },
+  "variants.5": {
+   "fr": "Ail dans la kefta (Cooking With Alia, MarocMama, Amour de cuisine).",
+   "t": "الثوم في الكفتة (Cooking With Alia، MarocMama، Amour de cuisine)."
+  },
+  "variants.6": {
+   "fr": "Kefta assaisonnée laissée reposer 30 minutes, couverte, avant de façonner (Cooking With Alia, épisode 372).",
+   "t": "كفتة متبّلة تُترك لترتاح 30 دقيقة مغطاة قبل تشكيلها (Cooking With Alia، الحلقة 372)."
+  },
+  "variants.7": {
+   "fr": "Sauce au curcuma et au paprika fort « soudaniya » (MarocMama).",
+   "t": "صلصة بالكركم والفلفل الأحمر الحار «السودانية» (MarocMama)."
+  },
+  "variants.8": {
+   "fr": "Concentré de tomate délayé dans de l'eau ajouté à la sauce, boulettes mijotées 40 minutes (Cooking With Alia, épisode 023).",
+   "t": "مركز طماطم مذوّب في الماء يُضاف إلى الصلصة، وكويرات تُطهى على نار هادئة 40 دقيقة (Cooking With Alia، الحلقة 023)."
+  },
+  "variants.9": {
+   "fr": "Boulettes dorées à la poêle avant d'aller dans la sauce, pour plus de goût et une meilleure tenue (MarocMama ; Amour de cuisine quand elle a le temps).",
+   "t": "كويرات تُحمَّر في المقلاة قبل وضعها في الصلصة، لطعم أقوى وتماسك أفضل (MarocMama؛ وAmour de cuisine حين يتوفّر لها الوقت)."
+  },
+  "variants.10": {
+   "fr": "Jaune bien cuit (MarocMama), œufs battus versés sur la sauce, ou pas d'œufs du tout : ils restent facultatifs (MarocMama, Taste of Maroc).",
+   "t": "صفار ناضج تمامًا (MarocMama)، أو بيض مخفوق يُسكب على الصلصة، أو بلا بيض إطلاقًا: فالبيض يبقى اختياريًا (MarocMama، Taste of Maroc)."
+  },
+  "variants.11": {
+   "fr": "Avec des légumes : petits pois (MarocMama, Amour de cuisine), aubergine en dés et harissa (My Moroccan Food), courgette ou poivron (Amour de cuisine).",
+   "t": "بالخضر: البازلاء (MarocMama، Amour de cuisine)، أو الباذنجان المقطّع مكعبات مع الهريسة (My Moroccan Food)، أو الكوسة أو الفلفل الحلو (Amour de cuisine)."
+  },
+  "variants.12": {
+   "fr": "Plus de sauce : augmente la sauce tomate de moitié (Taste of Maroc).",
+   "t": "صلصة أوفر: زد كمية صلصة الطماطم بمقدار النصف (Taste of Maroc)."
+  },
+  "variants.13": {
+   "fr": "Autres viandes halal : poulet ou dinde hachés (Taste of Maroc, MarocMama), avec du gingembre pour le poulet (Cooking With Alia).",
+   "t": "لحوم حلال أخرى: دجاج أو ديك رومي مفروم (Taste of Maroc، MarocMama)، مع الزنجبيل (سكينجبير) للدجاج (Cooking With Alia)."
+  },
+  "variants.14": {
+   "fr": "Tomates en conserve pour dépanner (pelées chez My Moroccan Food, en morceaux chez Amour de cuisine).",
+   "t": "طماطم معلّبة عند الحاجة (مقشّرة عند My Moroccan Food، ومقطّعة عند Amour de cuisine)."
+  }
+ }
+}

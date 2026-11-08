@@ -1,0 +1,276 @@
+{
+ "_slug": "seffa-medfouna",
+ "_ingredients": {
+  "poulet": {
+   "q": 1.5,
+   "u": "kg",
+   "fr": "de poulet halal, coupé en morceaux"
+  },
+  "oignons": {
+   "q": 1,
+   "u": "kg",
+   "fr": "d'oignons"
+  },
+  "ail": {
+   "q": 2,
+   "u": "",
+   "fr": "gousse d'ail / gousses d'ail",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "huile": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive"
+  },
+  "smen": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de smen (beurre rance marocain)"
+  },
+  "gingembre": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de gingembre moulu"
+  },
+  "curcuma": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de curcuma"
+  },
+  "poivre": {
+   "q": 0.5,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "sel": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de sel fin"
+  },
+  "safran": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de pistils de safran"
+  },
+  "cannelle-baton": {
+   "q": 2,
+   "u": "",
+   "fr": "bâton de cannelle / bâtons de cannelle",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "persil": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "de persil plat haché"
+  },
+  "coriandre": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "de coriandre fraîche hachée"
+  },
+  "eau": {
+   "q": 100,
+   "u": "ml",
+   "fr": "d'eau"
+  },
+  "vermicelles": {
+   "q": 500,
+   "u": "g",
+   "fr": "de vermicelles très fins « cheveux d'ange » (chaariya)"
+  },
+  "huile-vermicelles": {
+   "q": 2,
+   "u": "c. à s.",
+   "fr": "d'huile neutre (tournesol), et un peu plus pour huiler le panier"
+  },
+  "eau-vermicelles": {
+   "q": 300,
+   "u": "ml",
+   "fr": "d'eau, pour arroser les vermicelles"
+  },
+  "sel-vermicelles": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de sel fin, pour l'eau d'arrosage"
+  },
+  "eau-couscoussier": {
+   "q": null,
+   "u": "",
+   "fr": "eau"
+  },
+  "beurre": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de beurre"
+  },
+  "amandes": {
+   "q": 90,
+   "u": "g",
+   "fr": "d'amandes mondées (sans peau)"
+  },
+  "huile-friture": {
+   "q": null,
+   "u": "",
+   "fr": "un fond d'huile neutre"
+  },
+  "sucre-glace": {
+   "q": 85,
+   "u": "g",
+   "fr": "de sucre glace"
+  },
+  "cannelle-moulue": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de cannelle moulue"
+  }
+ },
+ "textes": {
+  "title": "Seffa medfouna au poulet et aux cheveux d'ange",
+  "darija": "Seffa medfouna",
+  "tagline": "Un dôme de cheveux d'ange cuits à la vapeur et beurrés cache un poulet fondant dans sa sauce aux oignons ; dessus, de la cannelle, du sucre glace et des amandes frites.",
+  "region": "Maroc",
+  "occasion": "Fêtes, réceptions et grandes occasions ; aussi un repas de famille",
+  "img_alt": "Seffa de vermicelles en dôme, décorée de lignes de cannelle et de sucre glace, dans un plat bleu, au Maroc",
+  "serving": "Sers-la bien chaude, dès qu'elle est montée, au centre de la table : selon la tradition, chacun mange de son côté du plat (Taste of Maroc). Mets à côté de petits bols de sucre glace, de cannelle et d'amandes, pour ceux qui en veulent plus (Taste of Maroc). Choumicha l'accompagne de lait parfumé à l'eau de fleur d'oranger. Restes : au réfrigérateur dans les 2 heures, à manger dans les 48 heures, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses : dans les 3 jours).",
+  "ing.0.group": "Poulet en sauce aux oignons",
+  "ing.poulet.name": "de poulet halal, coupé en morceaux",
+  "ing.poulet.note": "un poulet entier ; Choumicha prend un poulet de 1,5 kg pour 6",
+  "ing.oignons.name": "d'oignons",
+  "ing.oignons.note": "émincés finement",
+  "ing.ail.name": "gousse d'ail",
+  "ing.ail.pl": "gousses d'ail",
+  "ing.ail.note": "râpées ou écrasées",
+  "ing.huile.name": "d'huile d'olive",
+  "ing.smen.name": "de smen (beurre rance marocain)",
+  "ing.smen.note": "facultatif",
+  "ing.gingembre.name": "de gingembre moulu",
+  "ing.curcuma.name": "de curcuma",
+  "ing.poivre.name": "de poivre noir moulu",
+  "ing.sel.name": "de sel fin",
+  "ing.sel.note": "à rectifier à la fin",
+  "ing.safran.name": "de pistils de safran",
+  "ing.safran.note": "Choumicha en compte 8",
+  "ing.cannelle-baton.name": "bâton de cannelle",
+  "ing.cannelle-baton.pl": "bâtons de cannelle",
+  "ing.persil.name": "de persil plat haché",
+  "ing.coriandre.name": "de coriandre fraîche hachée",
+  "ing.eau.name": "d'eau",
+  "ing.eau.note": "et un peu d'eau chaude en plus si ça attache",
+  "ing.1.group": "Vermicelles à la vapeur",
+  "ing.vermicelles.name": "de vermicelles très fins « cheveux d'ange » (chaariya)",
+  "ing.vermicelles.note": "en petits morceaux ; s'ils sont longs, casse-les",
+  "ing.huile-vermicelles.name": "d'huile neutre (tournesol), et un peu plus pour huiler le panier",
+  "ing.eau-vermicelles.name": "d'eau, pour arroser les vermicelles",
+  "ing.sel-vermicelles.name": "de sel fin, pour l'eau d'arrosage",
+  "ing.eau-couscoussier.name": "eau",
+  "ing.eau-couscoussier.note": "pour remplir le bas du couscoussier à moitié environ",
+  "ing.beurre.name": "de beurre",
+  "ing.beurre.note": "un peu ramolli",
+  "ing.2.group": "Décor",
+  "ing.amandes.name": "d'amandes mondées (sans peau)",
+  "ing.huile-friture.name": "un fond d'huile neutre",
+  "ing.huile-friture.note": "pour frire les amandes",
+  "ing.sucre-glace.name": "de sucre glace",
+  "ing.cannelle-moulue.name": "de cannelle moulue",
+  "equipment.0": "Couscoussier (marmite et panier vapeur), ou grande marmite surmontée d'un panier vapeur",
+  "equipment.1": "Grande marmite à fond épais avec couvercle, pour le poulet",
+  "equipment.2": "Très grand plat creux ou bassine, pour défaire et arroser les vermicelles",
+  "equipment.3": "Deux fourchettes",
+  "equipment.4": "Petite poêle, écumoire et papier absorbant, pour les amandes",
+  "equipment.5": "Mortier et pilon, ou mixeur, pour concasser les amandes",
+  "equipment.6": "Grand plat de service rond",
+  "equipment.7": "Passoire fine, pour le sucre glace",
+  "equipment.8": "Thermomètre de cuisine (facultatif)",
+  "steps.0.title": "Prépare les oignons, l'ail et les herbes",
+  "steps.0.text": "Émince finement {{oignons}} d'oignons. Râpe ou écrase {{ail:full}}. Hache {{persil}} de persil et {{coriandre}} de coriandre, mélange-les, puis partage-les en deux tas. Si le boucher ne l'a pas fait, coupe {{poulet}} de poulet en morceaux.",
+  "steps.0.tip": "Après avoir touché le poulet cru, lave-toi les mains et nettoie la planche et le couteau avant de t'en servir pour autre chose (Anses).",
+  "steps.0.img.alt": "Persil haché au couteau sur une planche",
+  "steps.0.img.caption": "Hacher les herbes",
+  "steps.1.title": "Fais revenir le poulet aux épices",
+  "steps.1.text": "Dans une grande marmite à fond épais, mets le poulet, les oignons, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran émietté et {{cannelle-baton:full}}. Fais revenir 10 min à feu moyen-doux, en remuant souvent pour que rien n'attache.",
+  "steps.1.timer.label": "Poulet aux épices",
+  "steps.1.timer.done": "Ajoute le smen, la moitié des herbes et l'eau.",
+  "steps.2.title": "Laisse mijoter à couvert",
+  "steps.2.text": "Ajoute {{smen}} de smen, la moitié des herbes et {{eau}} d'eau. Couvre et laisse mijoter 45 min à feu moyen-doux, en remuant de temps en temps. Le poulet cuit surtout dans son propre jus. Si ça attache, ajoute juste un peu d'eau chaude.",
+  "steps.2.timer.label": "Mijotage du poulet",
+  "steps.2.timer.done": "Vérifie que le poulet est bien cuit.",
+  "steps.3.title": "Pendant ce temps, fais frire les amandes",
+  "steps.3.text": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant. Quand elles ont refroidi, concasse-les grossièrement au mortier ou au mixeur, par petits coups.",
+  "steps.4.title": "Vérifie que le poulet est bien cuit",
+  "steps.4.text": "Coupe le plus gros morceau, près de l'os. La chair doit être blanche jusqu'au centre, sans trace rose, et le jus doit être clair. La viande doit se détacher facilement de l'os. Avec un thermomètre de cuisine piqué au cœur de la partie la plus épaisse, la chair doit atteindre 75 °C pendant 30 secondes, ou 70 °C pendant 2 minutes. Sinon, couvre et laisse cuire encore un peu, puis vérifie de nouveau.",
+  "steps.4.tip": "La partie la plus épaisse du poulet est la cuisse : vérifie à la jointure entre le pilon et le haut de cuisse, qui ne doit pas être rosée (FSA ; Anses).",
+  "steps.5.title": "Réduis la sauce aux oignons",
+  "steps.5.text": "Sors les morceaux de poulet et pose-les dans un plat. Ajoute le reste des herbes dans la marmite. Laisse cuire la sauce à découvert, à feu moyen, en remuant souvent, jusqu'à ce que les oignons soient fondus comme une compote et que la sauce soit épaisse. Retire les bâtons de cannelle. Goûte et rectifie le sel.",
+  "steps.6.title": "Désosse le poulet",
+  "steps.6.text": "Dès que le poulet est assez tiède pour être touché, retire la peau et les os. Coupe ou effiloche la chair en morceaux. Remets-la dans la sauce, mélange, couvre et garde la marmite de côté.",
+  "steps.6.tip": "Ne laisse pas le poulet cuit plus de 2 heures à température ambiante : tu le réchaufferas juste avant de servir (Anses ; FSA).",
+  "steps.7.title": "Huile les vermicelles et fais une première vapeur",
+  "steps.7.text": "Remplis à moitié le bas du couscoussier d'{{eau-couscoussier}} et porte à ébullition. Huile légèrement le haut du couscoussier. Dans un très grand plat, mélange {{vermicelles}} de vermicelles avec {{huile-vermicelles}} d'huile, à la main, jusqu'à ce que tous les brins soient enrobés. Mets-les dans le haut du couscoussier et pose-le sur la marmite. Dès que la vapeur traverse les vermicelles, compte 20 min.",
+  "steps.7.tip": "Manipule les vermicelles délicatement et ne les tasse pas dans le couscoussier (Taste of Maroc).",
+  "steps.7.timer.label": "1re vapeur",
+  "steps.7.timer.done": "Verse les vermicelles dans le grand plat.",
+  "steps.7.img.alt": "Le haut d'un couscoussier posé sur la marmite, ici rempli de graine de couscous",
+  "steps.7.img.caption": "La cuisson à la vapeur du couscoussier",
+  "steps.8.title": "Arrose les vermicelles et fais une deuxième vapeur",
+  "steps.8.text": "Fais fondre {{sel-vermicelles}} de sel dans {{eau-vermicelles}} d'eau. Verse les vermicelles dans le grand plat et défais les paquets avec deux fourchettes, puis à la main quand ils ont un peu tiédi. Arrose-les de la moitié de l'eau salée et mélange jusqu'à ce qu'elle soit absorbée. Remets-les dans le haut du couscoussier et compte 20 min dès que la vapeur les traverse. Vérifie qu'il reste assez d'eau dans le bas.",
+  "steps.8.timer.label": "2e vapeur",
+  "steps.8.timer.done": "Verse les vermicelles dans le grand plat.",
+  "steps.9.title": "Fais la dernière vapeur",
+  "steps.9.text": "Défais de nouveau les vermicelles dans le plat et arrose-les du reste de l'eau salée. Remets-les dans le haut du couscoussier et compte 15 min dès que la vapeur les traverse. Goûte : les brins doivent être tendres, légers et bien séparés. S'ils sont encore un peu fermes, laisse-les encore 5 min. S'ils restent fermes, arrose-les d'un peu d'eau et fais une quatrième vapeur de 15 à 20 min, sans trop les cuire.",
+  "steps.9.timer.label": "3e vapeur",
+  "steps.9.timer.done": "Goûte : tendres et légers ? Sinon, encore une vapeur.",
+  "steps.10.title": "Pendant ce temps, réchauffe le poulet",
+  "steps.10.text": "Remets la marmite du poulet sur feu moyen-doux. Réchauffe en remuant doucement, jusqu'à ce que la sauce bouillonne et que le poulet soit brûlant.",
+  "steps.11.title": "Beurre les vermicelles",
+  "steps.11.text": "Verse les vermicelles brûlants dans le grand plat. Ajoute {{beurre}} de beurre et mélange avec une fourchette pour bien les aérer.",
+  "steps.12.title": "Cache le poulet sous les vermicelles",
+  "steps.12.text": "Étale la moitié des vermicelles dans le plat de service. Dispose le poulet au centre et nappe-le de sauce. Recouvre avec le reste des vermicelles et forme un dôme avec les mains : le poulet ne doit plus se voir.",
+  "steps.13.title": "Décore et sers aussitôt",
+  "steps.13.text": "Trace des lignes sur le dôme avec {{cannelle-moulue}} de cannelle, du sommet vers le bas. Saupoudre {{sucre-glace}} de sucre glace à travers une passoire fine, entre les lignes. Parsème les amandes concassées, surtout au sommet. Sers tout de suite, bien chaud.",
+  "secrets.0.text": "Cuis les vermicelles à la vapeur, jamais dans l'eau : les brins gonflent et restent légers et séparés, sans devenir collants ni lourds.",
+  "secrets.0.source": "Taste of Maroc (recette et guide de la vapeur) ; Choumicha (cheveux d'ange cuits trois fois à la vapeur)",
+  "secrets.1.text": "Avant la première vapeur, enrobe d'huile les vermicelles secs, avec les mains, jusqu'au dernier brin : ils ne collent pas entre eux.",
+  "secrets.1.source": "Taste of Maroc ; Choumicha ; Cooking with Alia ; Lalla Moulati",
+  "secrets.2.text": "Compte le temps de vapeur à partir du moment où la vapeur traverse les vermicelles, pas dès que tu poses le couscoussier.",
+  "secrets.2.source": "Taste of Maroc ; Morocco World News",
+  "secrets.3.text": "À la fin de chaque vapeur, des brins se dressent à la surface des vermicelles : c'est le signe que tu peux passer à l'étape suivante.",
+  "secrets.3.source": "Taste of Maroc ; Lalla Moulati (recette du 13 mai 2023)",
+  "secrets.4.text": "Entre deux vapeurs, défais bien les paquets, avec deux fourchettes puis à la main, et arrose d'eau salée : à chaque passage, les vermicelles gonflent et s'attendrissent.",
+  "secrets.4.source": "Choumicha (deux fourchettes) ; Taste of Maroc ; Morocco World News ; Cooking with Alia ; Lalla Moulati",
+  "secrets.5.text": "Manipule les vermicelles délicatement et ne les tasse jamais dans le haut du couscoussier.",
+  "secrets.5.source": "Taste of Maroc",
+  "secrets.6.text": "Le poulet cuit presque sans eau : il braise dans son propre jus.",
+  "secrets.6.source": "Taste of Maroc (pas d'eau sauf si c'est nécessaire) ; Choumicha (10 cl d'eau pour un poulet de 1,5 kg)",
+  "secrets.7.text": "Sors le poulet avant de réduire la sauce : les oignons fondent en compote pendant que la viande attend à part.",
+  "secrets.7.source": "Choumicha ; Cooking with Alia ; Morocco World News",
+  "secrets.8.text": "Désosse le poulet et retire la peau avant de le cacher sous les vermicelles. Christine Benlafquih (Taste of Maroc) laisse le plus souvent les os.",
+  "secrets.8.source": "Choumicha ; Morocco World News ; Lalla Moulati (peau et os retirés) ; Taste of Maroc",
+  "secrets.9.text": "Prépare le poulet à l'avance et cuis les vermicelles juste avant de servir ; réchauffe le poulet au dernier moment.",
+  "secrets.9.source": "Cooking with Alia ; Taste of Maroc (réchauffer le poulet à feu moyen-doux s'il a refroidi)",
+  "secrets.10.text": "Tu peux passer les vermicelles à la vapeur le matin ou la veille, puis les réchauffer à la vapeur ou au micro-ondes. Entre-temps, mets-les au réfrigérateur dans les 2 heures.",
+  "secrets.10.source": "Taste of Maroc (réponse de Christine Benlafquih à une lectrice) ; FSA et Anses pour le réfrigérateur",
+  "secrets.11.text": "Pour décorer, trace des lignes de cannelle et de sucre glace sur le dôme, et garde les amandes pour le sommet.",
+  "secrets.11.source": "Bladi.net (grille de cannelle et de sucre glace) ; Lalla Moulati (lignes de sucre glace et de cannelle, amandes au centre)",
+  "secrets.12.text": "« Medfouna » veut dire « enterrée » : le poulet est caché à l'intérieur du dôme de vermicelles.",
+  "secrets.12.source": "Taste of Maroc ; Morocco World News (« enterre le poulet sous le reste de la seffa »)",
+  "mistakes.0": "Faire bouillir les vermicelles dans l'eau : ils deviennent mous et collants ; la vapeur les garde légers (Taste of Maroc).",
+  "mistakes.1": "Tasser les vermicelles dans le couscoussier (Taste of Maroc).",
+  "mistakes.2": "Trop cuire les vermicelles à la dernière vapeur : ils deviennent trop mous (Cooking with Alia).",
+  "mistakes.3": "Noyer le poulet d'eau : il doit cuire surtout dans son propre jus (Taste of Maroc ; Choumicha n'ajoute que 10 cl d'eau).",
+  "mistakes.4": "Laisser attacher et brûler le poulet ou les oignons au fond de la marmite : cela gâche la sauce (Taste of Maroc).",
+  "mistakes.5": "Servir le poulet sans vérifier qu'il est cuit à cœur : chair blanche, jus clair, 70 °C à cœur (Anses) ou 75 °C pendant 30 secondes (FSA).",
+  "mistakes.6": "Laisser le poulet cuit plus de 2 heures à température ambiante (Anses ; FSA).",
+  "mistakes.7": "Servir tiède : la seffa medfouna se mange tout de suite, bien chaude (Taste of Maroc ; Cooking with Alia ; Choumicha ; Lalla Moulati).",
+  "mistakes.8": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce qu'ils soient brûlants (FSA).",
+  "variants.0": "Aux raisins secs : rince-les, fais-les tremper, puis mélange-les aux vermicelles pour la dernière vapeur. Choumicha les ajoute « toujours » à la dernière cuisson à la vapeur ; Taste of Maroc, Morocco World News et Cooking with Alia aussi. Taste of Maroc propose aussi de les caraméliser à part, avec un peu de beurre et de sucre ou de miel.",
+  "variants.1": "Plus sucrée : mélange du sucre glace (ou du sucre) aux vermicelles chauds avec le beurre (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati).",
+  "variants.2": "Sauce sucrée : un peu de miel dans la sauce réduite (Morocco World News et Cooking with Alia : 2 c. à s. pour un poulet), avec de la cannelle moulue (Cooking with Alia ; Lalla Moulati, qui ajoute aussi une cuillère de sucre).",
+  "variants.3": "Sauce plus riche : Taste of Maroc ajoute du beurre à l'huile d'olive.",
+  "variants.4": "Lait au dernier arrosage : Taste of Maroc remplace l'eau par du lait pour une version sucrée ; Lalla Moulati arrose les vermicelles d'un verre de lait ; Cooking with Alia ajoute du lait en poudre.",
+  "variants.5": "Méthode de Choumicha : après la première et la deuxième vapeur, pose le haut du couscoussier sur un bol, sale les vermicelles et rince-les à l'eau bouillante, puis huile-les, aère-les et laisse-les refroidir avant la vapeur suivante. Bladi.net verse aussi l'eau chaude du bas du couscoussier sur les vermicelles, puis les égoutte.",
+  "variants.6": "À l'agneau ou au bœuf : Choumicha cache des brochettes d'agneau cuites dans une sauce aux oignons compotés, avec des raisins secs dans les vermicelles ; Taste of Maroc prend de l'agneau ou du bœuf tendre, sans os, couvert d'eau et cuit plus longtemps.",
+  "variants.7": "Au couscous à la place des vermicelles (Taste of Maroc ; Morocco World News).",
+  "variants.8": "Décor de fête : abricots secs et dattes caramélisés, noix et petits œufs durs (Cooking with Alia) ; œufs durs et cacahuètes (Lalla Moulati) ; amandes frites mixées avec un peu de sucre glace et d'eau de fleur d'oranger (Taste of Maroc ; Cooking with Alia).",
+  "variants.9": "Sans viande : la seffa sucrée se sert aussi en dessert (Morocco World News) ; Choumicha la fait aux raisins secs et aux amandes, servie avec du lait parfumé à l'eau de fleur d'oranger."
+ }
+}

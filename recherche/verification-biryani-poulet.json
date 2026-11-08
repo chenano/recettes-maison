@@ -1,0 +1,134 @@
+{
+ "slug": "biryani-poulet",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "The Times of India (Hyderabad), article du 15 novembre 2021 sur la mandi et le biryani",
+   "url": "https://timesofindia.indiatimes.com/city/hyderabad/wazir-mandi-strays-into-biryanis-court/articleshow/87704768.cms",
+   "ce_qu_elle_confirme": "Le biryani hyderabadi « was likely introduced by the Qutub Shahis and perfected in royal kitchens of Nizam, particularly Mir Osman Ali Khan, Nizam VII » ; un arrière-petit-fils du Nizam VII parle de son évolution dans les cuisines des Asaf Jahs. Confirme le lien avec les cuisines des Nizams et une origine qui reste incertaine."
+  },
+  {
+   "name": "Wikipédia (anglais), « Bunium persicum », consultée le 8 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Bunium_persicum",
+   "ce_qu_elle_confirme": "Le shahi zeera (« imperial cumin ») ou kala zeera est Bunium persicum, apparenté au cumin, « sometimes called black cumin, or black caraway » : une autre plante que le carvi, qui sert de remplacement."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[6].text",
+   "actuel": "le cœur doit atteindre 75 °C.",
+   "propose": "le cœur doit atteindre 75 °C pendant 30 secondes.",
+   "pourquoi": "La FSA donne un couple température-durée (« 70°C for 2 minutes », « 75°C for 30 seconds »), pas un seuil instantané. Le conseil de l'étape le dit, pas son texte.",
+   "gravite": "mineure",
+   "sources": "FSA, « Cooking your food » (publié le 18 décembre 2017), section 3 ; Anses, salmonellose (« cuire à coeur (70 °C) »)."
+  },
+  {
+   "champ": "mistakes[7]",
+   "actuel": "la bactérie du riz cuit (Bacillus cereus) peut produire une toxine que la chaleur ne détruit pas",
+   "propose": "Bacillus cereus, dont les spores survivent à la cuisson du riz, peut s'y multiplier et produire une toxine que la chaleur ne détruit pas",
+   "pourquoi": "« La bactérie du riz cuit » est ambigu (elle semble naître de la cuisson) et se traduira mal. La bactérie est déjà dans le riz cru ; ses spores résistent à la cuisson, puis elle se multiplie entre 4 et 55 °C.",
+   "gravite": "mineure",
+   "sources": "FSA, « Home food fact checker » (mis à jour le 21 août 2026) : « Uncooked rice can contain spores of a bacterium called Bacillus cereus [...] can survive being cooked » ; Anses, « Qu'est-ce que Bacillus cereus... » (19 mars 2026) : spores résistantes aux traitements thermiques, multiplication entre 4 et 55 °C, toxine « résistante à la chaleur »."
+  },
+  {
+   "champ": "sources[18].name",
+   "actuel": "(15 décembre 2025)",
+   "propose": "(27 octobre 2025)",
+   "pourquoi": "La page de l'Anses sur la salmonellose est datée du 27/10/2025. Le 15/12/2025 est la « Date de mise en ligne » d'un PDF lié en bas de page (note AST 2023-AST-0069), pas de l'article.",
+   "gravite": "mineure",
+   "sources": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir (lue le 8 novembre 2026)."
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Swasthi le déconseille aux débutants",
+   "propose": "Swasthi, qui le dit facile, le déconseille pourtant à qui débute avec le poulet ou cuisine sur un réchaud portable",
+   "pourquoi": "Swasthi écrit dans sa recette « It is very easy and even a beginner can try without any troubles », puis répond à un commentaire (2025) : « If you are a beginner (cooking with chicken), I won't suggest this recipe » et « This recipe may not work if you are using a portable stove ». Les deux doivent apparaître.",
+   "gravite": "mineure",
+   "sources": "Swasthi's Recipes, « Hyderabadi Biryani » (modifiée le 26 février 2022), texte et réponses aux commentaires (HTML complet)."
+  },
+  {
+   "champ": "variants[0]",
+   "actuel": "Swasthi le déconseille aux débutants",
+   "propose": "Swasthi le dit facile mais le déconseille à qui débute avec le poulet ou cuisine sur un réchaud portable",
+   "pourquoi": "Même constat que pour discrepancies[0].",
+   "gravite": "mineure",
+   "sources": "Même page de Swasthi."
+  },
+  {
+   "champ": "sources[0].used_for",
+   "actuel": "recette déconseillée aux débutants",
+   "propose": "recette dite « very easy », mais déconseillée, en réponse à un commentaire, à qui débute avec le poulet ou cuisine sur un réchaud portable",
+   "pourquoi": "Même constat que pour discrepancies[0].",
+   "gravite": "mineure",
+   "sources": "Même page de Swasthi."
+  },
+  {
+   "champ": "sources[12].used_for",
+   "actuel": "marmite à fond épais fermée avec une pâte de farine",
+   "propose": "marmite bien fermée avec une pâte de farine (maida)",
+   "pourquoi": "La recette d'Onmanorama dit « Close the vessel tightly and seal with maida dough » ; elle ne parle pas de fond épais (aucune occurrence de « heavy » ni de « thick »).",
+   "gravite": "mineure",
+   "sources": "Onmanorama, « Hyderabadi dum biriyani », 6 mai 2019."
+  },
+  {
+   "champ": "ingredients[2].items[1].name",
+   "actuel": " (shahi jeera)",
+   "propose": ", ou de shahi jeera (cumin noir) si tu en trouves",
+   "pourquoi": "Le nom présente carvi et shahi jeera comme une seule épice. Le shahi jeera (shahi zeera) est une autre plante, Bunium persicum, appelée aussi cumin noir ; Vismai Food l'appelle « Black Cumin ». Swasthi et Sanjeev Kapoor le traduisent par « caraway seeds » : le carvi reste le remplacement retenu.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (anglais), « Bunium persicum » (« shahi zeera », « sometimes called black cumin, or black caraway ») ; Vismai Food ; Swasthi ; Sanjeev Kapoor."
+  },
+  {
+   "champ": "ingredients[3].items[9].name",
+   "actuel": " (shahi jeera)",
+   "propose": ", ou de shahi jeera (cumin noir) si tu en trouves",
+   "pourquoi": "Même constat que pour ingredients[2].items[1].name.",
+   "gravite": "mineure",
+   "sources": "Mêmes sources."
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "Retenu : graines de carvi, faciles à trouver au Maroc.",
+   "propose": "Le shahi jeera est pourtant une autre plante, Bunium persicum, appelée aussi cumin noir (Wikipédia). Retenu : graines de carvi, faciles à trouver au Maroc, ou shahi jeera si tu en as.",
+   "pourquoi": "L'équivalence laissée « non vérifiée » est maintenant tranchée : Wikipédia identifie le shahi zeera à Bunium persicum, distinct du carvi.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (anglais), « Bunium persicum » ; Vismai Food (« Black Cumin »)."
+  },
+  {
+   "champ": "unverified[6]",
+   "actuel": "leur équivalence botanique n'a pas été vérifiée.",
+   "propose": "ce sont pourtant deux plantes différentes (le shahi jeera est Bunium persicum, Wikipédia) ; l'écart de goût n'a pas été vérifié.",
+   "pourquoi": "Point vérifié lors de la contre-vérification ; seul l'écart de goût reste sans source.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (anglais), « Bunium persicum »."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Swasthi, kachchi (22 février 2019, modifiée le 26 février 2022, 4 personnes) : 1½ tasse de basmati vieilli, ½ kg de cuisses et pilons sans peau, ⅔ tasse (165 ml) de yaourt, 1¼ c. à s. d'ail-gingembre, ¼ c. à c. de curcuma, 4 c. à s. de menthe et de coriandre, 2 c. à s. de ghee, safran dans 3 c. à s. de lait chaud ; 2 h à une nuit au réfrigérateur ; trempage 30 min ; eau qui « has to taste salty » bouillie 5 min avec laurier, 3 pouces de cannelle, 6 clous, 4 cardamomes, badiane et ½ c. à c. de carvi ; riz à 75 % ; « Do not burn else they turn bitter » ; couche unique ; « Do not use sour curd » ; alu et couvercle lourd ; tawa ; 20 puis 15 min ; repos 20 à 30 min.",
+  "Swasthi, réponses aux commentaires (2025, même page) : « minimal amount of ground spices » ; kewra et eau de rose « have preservatives and additives » ; le yaourt grec, plus épais, « may cause the burn » ; tawa en fonte « for diffusing » (un fond fin fait brûler le poulet).",
+  "Swasthi, pakki (25 octobre 2012, modifiée le 6 août 2022, 4 personnes) : définitions du kachchi et du pakki ; poulet cuit « until the meat is completely cooked » ; deux couches dans une petite marmite ; four à 180 °C pendant 15 à 25 min. Page basmati : riz vieilli, trempage de 30 à 40 min, riz à 75 % pour un kachchi et à 90 % pour un pakki.",
+  "Ranveer Brar, Hyderabadi (4 novembre 2022, modifiée le 18 avril 2023, 2 à 4 personnes) : 3 oignons moyens frits « in small batches », « Fried Onion Oil », 1 tasse de yaourt, ½ c. à c. de piment, ¼ c. à c. de curcuma, 700 g de cuisses et pilons, 3 tasses de basmati trempé 20 min, 4-5 min à feu vif (60 %), marmite sur le tawa, 2-3 min puis 15-20 min, repos 10-12 min ; étiquettes « Eid Special » et « Ramadan Special ».",
+  "Ranveer Brar, Chicken Dum (26 avril 2022, modifiée le 18 avril 2023, 4 personnes) : une nuit ou 3 h au moins, 7-8 min dans le ghee, riz « on low flame for 80% », eau, lait et safran sur le riz, eau de rose et kewra, 15-20 min à feu doux, raïta, poulet « cleaned and washed ».",
+  "Sanjeev Kapoor, 25 novembre 2024 (« Serve 4 ») : 750 g avec os, 2 tasses de basmati trempé 30 min, ¾ tasse de yaourt, 1 c. à s. d'ail-gingembre, 1½ c. à c. de piment, ½ c. à c. de curcuma, 2-3 c. à s. de ghee, carvi et piments verts revenus, 10 min à couvert, riz 5-6 min avec badiane, macis, cardamomes, laurier et cannelle, alu et couvercle, 15-20 min à feu doux, salan, piments frits et rondelles d'oignon.",
+  "Sanjeev Kapoor, kachchi (20 février 2017, 4 personnes) : 800 g, riz « three fourth done », four à 200 °C, couvercle collé à la pâte, kewra et eau de rose. Mouton (21 août 2019, 4 personnes) : 2 h au réfrigérateur, riz « three fourth done », « cook under dum till done », raïta.",
+  "Kunal Kapur (4 mars 2021) : poulet (4 personnes) 500 g, « Wash and pat dry the chicken », 1½ tasse de yaourt, 2 c. à c. de carvi, trempage 30-45 min, eau bouillie 5 min, couvercle collé à la pâte, 2-3 min puis 10-12 min, repos 10 min ; mouton (6 personnes) : viande cuite jusqu'à être tendre, riz à moitié cuit, « a laddle of the hot water strained from the rice », 1 min puis 12-15 min, repos 10 min, raïta ; légumes : riz « ¾th cooked », eau de rose et kewra.",
+  "Vismai Food (3 personnes) : 500 g, 250 ml de yaourt, 1,5 tasse (225 g) trempée une heure, 2 l d'eau, riz « older than a year », eau « like seawater », riz à 70 %, poulet « less than a kilo », 2 h ou une nuit au réfrigérateur, récipient « thick-bottomed », 8 min à feu moyen et 7 min à feu doux, repos de 15 min (étape 6) à 20 min, marmite laissée sur le feu éteint, jamais mélangé chaud, « tastes better with more Ghee », « flat ladle from the bottom », « Black Cumin », biryani « introduced by the Nizams ».",
+  "NewsMeter (28 janvier 2023, Syed Khaled Shahbaaz) : biryani arrivé sous le 4e Nizam ; aucun mariage ni réunion sans biryani ; « nearly 300 grams of pure ghee for a kilo of rice » ; kachchi le plus populaire ; pakki = viande marinée cuite à part ; sufiyani au lait et au khoya, sans safran ; Mirch ka Salan et Dahi ki Chutney.",
+  "Onmanorama (6 mai 2019) : au moins 8 h au réfrigérateur, riz à moitié cuit, pâte de maida, 25 min à feu doux puis 2 h, chutney à la menthe et raïta.",
+  "Wikipédia : surtout à la chèvre, « The exact origin of the dish is uncertain », ingrédients de base (basmati, viande, dahi, oignon frit, ghee), kachchi et pakki, « meticulous attention to time and temperature », salan, dahi chutney et salade oignon-carotte-concombre-citron ; l'article « Biryani » renvoie à l'article arabe « برياني ». Lalla Moulati (10 novembre 2014) : « برياني الدجاج », rubrique « شهيوات عالمية ».",
+  "Sécurité : FSA (70 °C 2 min ou 75 °C 30 s, loin des os ; ne pas laver la volaille ; riz : spores qui survivent à la cuisson, refroidir idéalement en moins d'une heure hors de la casserole, un jour au réfrigérateur au plus, un seul réchauffage, fumant partout) ; Anses (Bacillus cereus, 19 mars 2026 : 4 à 55 °C, toxine résistante à la chaleur, réfrigérer dans les 2 h ; volaille à 70 °C ; 2 h au plus à température ambiante). La méthode pakki permet de vérifier le poulet avant de fermer la marmite.",
+  "Halal : aucune source n'utilise d'alcool ; eau de kewra et eau de rose bien sorties de la recette principale ; poulet halal indiqué ; pas de fromage.",
+  "Médianes recalculées (python -I) : poulet 708 g, riz 370 g, oignons 330 g, yaourt 276 ml en comptant Sanjeev Kapoor 2024 (¾ tasse pour 750 g), qui n'est pas nommé dans la ligne ; cannelle 1,5 pouce = 3,8 cm. Riz des seules recettes pakki (90, 80, 75 et 50 %) : médiane 77,5 %, donc « aux trois quarts » reste fondé.",
+  "Conversions USDA FoodData Central (fiches relues) : riz long cru 185 g la tasse, oignon moyen 110 g et gros 150 g, yaourt 245 g la tasse, fiche 171314 « Butter, Clarified butter (ghee) ».",
+  "Cohérence interne : minuteurs de 30, 5, 5, 15 et 10 min identiques aux textes ; repos de 130 min = 120 min de marinade + 10 min ; chaque ingrédient sert dans une étape ; difficulté « Moyen ».",
+  "Rendu (code de app.html reproduit en python) : pour 4, « 700 g », « 2 l d'eau » ; pour 8, « 1,4 kg », « 740 g », « 4 l », « 12 clous de girofle » ; pour 1, « 175 g », « 95 g », « 500 ml », « 1 gousse de cardamome verte » au singulier ; {{sel}}, {{sel-riz}} et {{huile-friture}} affichent leur nom.",
+  "robots.txt et liens : les 20 sources citées et les liens secondaires (Kunal Kapur légumes, FSA, Anses) répondent ; aucun site n'interdit les pages utilisées ni ne vise Claude ou Anthropic (Onmanorama interdit /content/mm/en/, pas /food/)."
+ ],
+ "non_verifiable": [
+  "Eau de kewra et eau de rose : leur éventuelle teneur en alcool n'a été vérifiée sur aucune source officielle ; la recette les laisse en variante et dit de lire l'étiquette.",
+  "Durées non chiffrées par les sources (friture des oignons, cuisson du poulet) et totaux (préparation 30 min, cuisson 75 min) : estimations cohérentes avec les étapes, sans source commune.",
+  "Statut halal des mélanges d'épices du commerce et du ghee : non vérifié, il faut lire les étiquettes. Disponibilité au Maroc du ghee, du basmati vieilli et du shahi jeera : non vérifiée.",
+  "Rendu pour 1 personne : « ¾ oignon moyen », « ½ piment vert », « 1½ clous de girofle », « ¼ étoile de badiane », « ¼ pincée de safran » suivent la règle d'arrondi de l'appli ; un arrondi vers le haut (\"round\": \"up\") n'est pas un remplacement de texte : à décider par l'auteur.",
+  "Quota de recherche web épuisé : pas d'autre source de Hyderabad trouvée (Telangana Today et The Hans India sont permis par leur robots.txt, mais aucune adresse d'article n'a pu être trouvée sans recherche ; le site de Telangana Tourism était injoignable ; The Hindu, Siasat et The News Minute interdisent les robots d'Anthropic, selon la recette). L'autorité sanitaire indienne (FSSAI) n'a pas été consultée."
+ ]
+}

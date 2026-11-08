@@ -1,0 +1,230 @@
+{
+  "slug": "mrouzia",
+  "title": "Mrouzia : agneau confit au miel, aux raisins secs et aux amandes",
+  "darija": "Mrouzia",
+  "arabic": "المروزية",
+  "tagline": "L'agneau de l'Aïd, mariné au ras el hanout et confit doucement au smen, puis glacé au miel avec des raisins secs, sous des amandes frites.",
+  "category": "Tajine",
+  "occasion": "Aïd al-Adha (Aïd el-Kébir), surtout les jours qui suivent le sacrifice",
+  "region": "Maroc, dans presque toutes les régions (variantes à Essaouira, Fès, Rabat, Qasbat Tadla et dans le Rif)",
+  "servings": 6,
+  "servings_label": "personnes",
+  "time": {"prep": 15, "cook": 155, "rest": 120},
+  "difficulty": "Moyen",
+  "equipment": [
+    "Grand saladier et film alimentaire, pour la marinade au réfrigérateur",
+    "Cocotte ou marmite à fond épais avec couvercle",
+    "Râpe (gros trous)",
+    "Bol, pour faire tremper les raisins",
+    "Petite poêle, écumoire et papier absorbant, pour les amandes",
+    "Plat de service creux, réchauffé",
+    "Petites boîtes hermétiques, pour les restes"
+  ],
+  "ingredients": [
+    {
+      "group": "Marinade",
+      "items": [
+        {"id": "ras-el-hanout", "canon": "ras-el-hanout", "q": 1, "u": "c. à s.", "name": "de ras el hanout", "note": "frais, acheté chez un épicier de confiance"},
+        {"id": "gingembre", "canon": "gingembre", "q": 1.5, "u": "c. à c.", "name": "de gingembre moulu"},
+        {"id": "curcuma", "canon": "curcuma", "q": 0.75, "u": "c. à c.", "name": "de curcuma"},
+        {"id": "poivre", "canon": "poivre", "q": 1, "u": "c. à c.", "name": "de poivre noir moulu"},
+        {"id": "cannelle-moulue", "canon": "cannelle", "q": 1, "u": "c. à c.", "name": "de cannelle moulue"},
+        {"id": "sel", "canon": "sel", "q": 1.5, "u": "c. à c.", "name": "de sel fin", "note": "à rectifier à la fin"},
+        {"id": "safran", "canon": "safran", "q": 1, "u": "pincée", "name": "de pistils de safran"},
+        {"id": "eau-marinade", "canon": "eau", "q": null, "u": "", "name": "un peu d'eau", "note": "juste de quoi délayer les épices"}
+      ]
+    },
+    {
+      "group": "Viande et sauce",
+      "items": [
+        {"id": "agneau", "canon": "agneau", "q": 1.5, "u": "kg", "name": "d'agneau halal avec os (collier, épaule ou souris)", "note": "en gros morceaux"},
+        {"id": "oignons", "canon": "oignon", "q": 2, "u": "", "name": "gros oignon", "pl": "gros oignons"},
+        {"id": "huile", "canon": "huile-olive", "q": 110, "u": "ml", "name": "d'huile d'olive, ou moitié olive, moitié huile neutre"},
+        {"id": "smen", "canon": "smen", "q": 2, "u": "c. à c.", "name": "de smen (beurre rance marocain)"},
+        {"id": "cannelle-baton", "canon": "cannelle", "q": 2, "u": "", "name": "bâton de cannelle", "pl": "bâtons de cannelle", "note": "facultatif"},
+        {"id": "eau", "canon": "eau", "q": 750, "u": "ml", "name": "d'eau chaude", "note": "et un peu plus si la sauce attache"}
+      ]
+    },
+    {
+      "group": "Raisins au miel",
+      "items": [
+        {"id": "raisins", "canon": "raisins-secs", "q": 225, "u": "g", "name": "de raisins secs", "note": "de préférence foncés et pas trop sucrés"},
+        {"id": "miel", "canon": "miel", "q": 5, "u": "c. à s.", "name": "de miel", "note": "Taste of Maroc et Morocco World News acceptent du sucre à la place"}
+      ]
+    },
+    {
+      "group": "Décor",
+      "items": [
+        {"id": "amandes", "canon": "amandes", "q": 225, "u": "g", "name": "d'amandes entières mondées (sans peau)"},
+        {"id": "huile-friture", "canon": "huile", "q": null, "u": "", "name": "un fond d'huile neutre", "note": "pour frire les amandes"},
+        {"id": "sesame", "canon": "sesame", "q": 1, "u": "c. à s.", "name": "de graines de sésame grillées", "note": "facultatif"}
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Préparation",
+      "title": "Prépare la marinade",
+      "text": "Dans un grand saladier, mélange {{ras-el-hanout}} de ras el hanout, {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{cannelle-moulue}} de cannelle et {{sel}} de sel. Émiette {{safran}} de safran par-dessus. Délaye avec {{eau-marinade}} pour obtenir une sauce épaisse.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Fais mariner la viande au frais",
+      "text": "Ajoute {{agneau}} d'agneau et frotte bien chaque morceau avec la marinade. Couvre de film alimentaire et laisse mariner au réfrigérateur au moins 2 h, ou toute la nuit.",
+      "timer": {"min": 120, "label": "Marinade", "done": "La viande a mariné : tu peux lancer la cuisson."},
+      "tip": "Une nuit de marinade donne un goût plus profond (MWN Lifestyle) ; Taste of Maroc compte 6 à 12 h, et Choumicha 24 h."
+    },
+    {
+      "phase": "Préparation",
+      "title": "Râpe les oignons",
+      "text": "Épluche et râpe {{oignons:full}} avec les gros trous de la râpe, ou hache finement.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais fondre les oignons",
+      "text": "Dans une cocotte à fond épais, à feu moyen, chauffe {{huile}} d'huile avec {{smen}} de smen. Ajoute l'oignon râpé et fais cuire 5 min en remuant, jusqu'à ce qu'il ramollisse.",
+      "timer": {"min": 5, "label": "Oignons", "done": "Ajoute la viande et sa marinade."}
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais revenir la viande",
+      "text": "Ajoute la viande avec toute sa marinade, puis {{cannelle-baton:full}}. Fais revenir 10 min en retournant les morceaux de temps en temps, jusqu'à ce qu'ils changent de couleur.",
+      "timer": {"min": 10, "label": "Viande revenue", "done": "Verse l'eau chaude."}
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Mouille et laisse mijoter 2 h",
+      "text": "Verse {{eau}} d'eau chaude le long de la paroi de la cocotte, pas directement sur la viande. Porte à frémissement, couvre et laisse cuire 2 h à feu doux. Surveille de temps en temps : la viande ne doit pas attacher. Si la sauce baisse trop vite, ajoute un peu d'eau chaude.",
+      "timer": {"min": 120, "label": "Mijotage", "done": "Vérifie la viande : elle doit être très tendre."},
+      "tip": "Plutôt que de remuer avec une cuillère, secoue doucement la cocotte en la tenant par les anses : les morceaux restent entiers (Choumicha)."
+    },
+    {
+      "phase": "Préparation",
+      "title": "Pendant ce temps, fais tremper les raisins",
+      "text": "Rince {{raisins}} de raisins secs, couvre-les d'eau et laisse-les tremper au moins 1 h, pendant que la viande cuit.",
+      "timer": null
+    },
+    {
+      "phase": "Préparation",
+      "title": "Pendant ce temps, fais frire les amandes",
+      "text": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen : l'huile doit être chaude, pas fumante. Fais-y frire {{amandes}} d'amandes en remuant souvent, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Vérifie que la viande est tendre",
+      "text": "Au bout de 2 h, la viande doit être très tendre et se détacher facilement de l'os. Sinon, couvre et prolonge la cuisson en vérifiant souvent. Retire les bâtons de cannelle.",
+      "timer": null,
+      "tip": "À ce moment, la sauce doit couvrir à peu près la moitié de la viande ; s'il y en a beaucoup plus, fais-la d'abord réduire un peu à découvert (Cooking with Alia)."
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Ajoute les raisins et le miel",
+      "text": "Égoutte les raisins et ajoute-les dans la cocotte avec {{miel}} de miel. Secoue doucement la cocotte pour les répartir. Laisse cuire à découvert, à feu moyen-doux, au moins 10 min, en secouant de temps en temps. La sauce est prête quand elle est épaisse et sirupeuse, sans liquide clair. Surveille bien pour qu'elle n'attache pas. Goûte et rectifie le sel.",
+      "timer": {"min": 10, "label": "Sauce au miel", "done": "Sauce épaisse et sirupeuse ? Sinon, continue quelques minutes en surveillant."}
+    },
+    {
+      "phase": "Service",
+      "title": "Dresse et sers bien chaud",
+      "text": "Pose la viande au centre d'un plat chaud. Mets les raisins dessus et nappe de sauce. Parsème d'amandes frites et de {{sesame}} de sésame. Sers aussitôt, bien chaud, avec du pain.",
+      "timer": null
+    },
+    {
+      "phase": "Service",
+      "title": "Range vite les restes",
+      "text": "Répartis les restes dans de petites boîtes fermées et mets-les au réfrigérateur dans les 2 h. Mange-les dans les 2 jours, ou congèle-les. Réchauffe seulement la part à servir, à couvert et à feu doux, jusqu'à ce qu'elle soit brûlante au cœur, et une seule fois. Garde les amandes à part et ajoute-les au moment de servir.",
+      "timer": null
+    }
+  ],
+  "secrets": [
+    {"text": "Le nom « mrouzia » vient de l'arabe classique « marwaziyya », qui veut dire « de Marw » : Merv, une ancienne ville d'Asie centrale, aujourd'hui Mary, au Turkménistan. Le mot existait déjà en arabe d'al-Andalus, pour un plat de bœuf ou de poulet.", "source": "Jordi Aguadé et Laila Benyahia, Estudios de Dialectología Norteafricana y Andalusí n° 8, 2004 (d'après le dictionnaire de Federico Corriente) ; Hespress (Saâd Sarhane, 2020), qui rapporte aussi que le nom renvoie à Marw, ville du Khorassan"},
+    {"text": "Autrefois, sans réfrigérateur, la mrouzia servait à garder la viande du mouton de l'Aïd : on la faisait riche en gras et en miel, on la cuisait jusqu'à ce qu'il ne reste plus d'eau, puis on la rangeait dans des jarres en terre, couverte de sa sauce. En refroidissant, le gras formait une couche protectrice.", "source": "Choumicha (« riche en graisse et en miel afin d'en permettre la conservation ») ; Taste of Maroc ; Bladi.net ; Hespress ; Morocco World News (2012)"},
+    {"text": "Aujourd'hui, ne la garde pas comme autrefois : mets les restes au réfrigérateur dans les 2 heures, en petites boîtes, et mange-les dans les 2 jours (moins de 3 jours selon l'Anses), ou congèle-les. Réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants.", "source": "Food Standards Agency (Royaume-Uni) ; Anses (France)"},
+    {"text": "Choisis des morceaux avec os qui supportent une longue cuisson : collier, épaule ou souris. Le collier, cuit à petit feu, devient très tendre.", "source": "Choumicha (collier) ; Taste of Maroc ; Cooking with Alia ; MWN Lifestyle ; Le360 (collier « très tendre » à petit feu)"},
+    {"text": "Achète ton ras el hanout chez un épicier de confiance : avec de bons raisins secs, c'est lui qui fait une bonne mrouzia. Autrefois, la veille de l'Aïd, les mères exigeaient au souk des épices un ras el hanout bien complet.", "source": "Taste of Maroc ; Hespress (Saâd Sarhane)"},
+    {"text": "Fais mariner la viande au réfrigérateur au moins 2 heures, et toute la nuit si tu peux.", "source": "Cooking with Alia ; MWN Lifestyle ; Taste of Maroc (6 à 12 h) ; Choumicha (24 h)"},
+    {"text": "Astuce d'une cuisinière de Casablanca : délaye les épices dans un verre d'eau, mets la moitié sur la viande, et fais tremper les raisins dans l'autre moitié.", "source": "Jordi Aguadé et Laila Benyahia (recette recueillie à Casablanca, 2004)"},
+    {"text": "Verse l'eau le long de la paroi, pas sur la viande : tu ne rinces pas les épices.", "source": "Taste of Maroc"},
+    {"text": "Ne remue pas avec une cuillère : secoue la cocotte en la tenant par les anses, et la viande reste entière.", "source": "Choumicha"},
+    {"text": "Ajoute les raisins et le miel seulement quand la viande est tendre, puis fais réduire jusqu'à une sauce épaisse et sirupeuse : il ne doit pas rester de sauce liquide.", "source": "Choumicha ; Bladi.net ; Taste of Maroc ; Cooking with Alia ; MWN Lifestyle ; Femmes du Maroc"},
+    {"text": "Prends des raisins secs foncés, un peu acidulés plutôt que très sucrés : ils équilibrent le miel.", "source": "Taste of Maroc"},
+    {"text": "Fais frire les amandes dans une huile chaude, mais pas trop, et retire-les dès qu'elles sont dorées. Garde-les à part et ajoute-les au dernier moment.", "source": "Taste of Maroc ; MWN Lifestyle ; Cooking with Alia"},
+    {"text": "Le goût de la mrouzia se renforce après une nuit au réfrigérateur ; réchauffe-la doucement, à feu doux.", "source": "MWN Lifestyle"}
+  ],
+  "mistakes": [
+    "Ajouter les raisins et le miel au début : toutes les recettes les mettent quand la viande est tendre (Choumicha, Taste of Maroc, Cooking with Alia, Bladi.net, MWN Lifestyle).",
+    "Servir avec une sauce liquide : elle doit être épaisse et sirupeuse, sans liquide clair (Taste of Maroc ; MWN Lifestyle).",
+    "Laisser la viande attacher et brûler au fond de la cocotte : surveille, et rajoute un peu d'eau chaude si besoin (Taste of Maroc ; Cooking with Alia ; MWN Lifestyle).",
+    "Remuer avec une cuillère : la viande se défait (Choumicha).",
+    "Verser l'eau directement sur la viande : elle rince les épices (Taste of Maroc).",
+    "Frire les amandes dans une huile trop chaude (Taste of Maroc).",
+    "Laisser mariner la viande hors du réfrigérateur : la marinade se fait au froid (Cooking with Alia ; Taste of Maroc ; Choumicha ; Anses : viandes dans la zone la plus froide du réfrigérateur).",
+    "Garder la mrouzia des semaines, comme autrefois : 2 jours au réfrigérateur (FSA), moins de 3 jours (Anses), sinon au congélateur.",
+    "Laisser les restes plus de 2 heures hors du réfrigérateur, ou les réchauffer plusieurs fois (Anses ; FSA)."
+  ],
+  "serving": "Sers-la bien chaude, dans un plat creux réchauffé : la viande au centre, les raisins dessus, la sauce par-dessus, puis les amandes frites et, si tu veux, le sésame (Taste of Maroc ; Cooking with Alia ; MWN Lifestyle). Avec du pain pour saucer (Cooking with Alia ; MWN Lifestyle). Ce n'est souvent pas le premier repas de l'Aïd, mais un plat des jours suivants (MWN Lifestyle) ; autrefois, on en réchauffait une part à chaque visite de la famille ou des voisins (Taste of Maroc). Restes : au réfrigérateur dans les 2 heures, 2 jours au plus, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses).",
+  "variants": [
+    "M'rouzia d'Essaouira (Choumicha) : collier d'agneau mariné 2 h dans de l'eau épicée (avec du cubèbe), graisse de rognons hachée, 3 h de cuisson ; sans miel : les raisins secs beldi d'Essaouira et les amandes confisent dans le gras de cuisson de la viande.",
+    "Version allégée de Choumicha : sans oignon, avec 8 gousses d'ail pilées pour 2 kg de viande, du miel de fleurs d'oranger et une marinade de 24 h au réfrigérateur ; amandes grillées et concassées.",
+    "Avec de l'ail : Choumicha, Femmes du Maroc et Morocco World News (2012) en mettent ; Hespress le cite parmi les ingrédients de base.",
+    "Plus riche : avec du beurre en plus de l'huile (Bladi.net, Cooking with Alia, Morocco World News 2012, recette de Casablanca recueillie par Aguadé et Benyahia).",
+    "Avec les os : à l'origine, chez les Fassis, on faisait la mrouzia avec les os et les morceaux restés après la découpe (Taste of Maroc) ; à Casablanca, on la prépare le troisième jour de l'Aïd avec les os et les jarrets du mouton (recette recueillie par Aguadé et Benyahia).",
+    "Variantes régionales selon Taste of Maroc : avec du cumin à Qasbat Tadla ; appelée « m'assal » à Rabat et chez des Juifs marocains ; dans le Rif, la « tahlia » remplace les raisins par un jus de raisin concentré (samt).",
+    "À l'autocuiseur : 40 min sous pression, puis 10 min avec les raisins et le miel (Morocco World News, 2012).",
+    "Au sucre à la place du miel (Taste of Maroc ; Morocco World News, 2012).",
+    "Amandes grillées plutôt que frites : au four à 160 °C environ 25 min (Taste of Maroc) ; grillées chez Choumicha et Femmes du Maroc.",
+    "Aux pruneaux : Bladi.net publie aussi une « mrouzia » aux pruneaux caramélisés, sans raisins secs.",
+    "Décor : quelques pétales de rose séchés (Taste of Maroc)."
+  ],
+  "sources": [
+    {"name": "Choumicha (Choumicha Chafay) – « M'rouzia », choumicha.ma (ancien site), copie archivée du 23 janvier 2013", "url": "https://web.archive.org/web/20130123020507/http://www.choumicha.ma:80/recettes/details/252/m-rouzia.html", "used_for": "Source marocaine, pour 8 : 2 kg de collier, 15 cl d'huile d'olive, 1 c. à s. de ras el hanout, curcuma, cannelle, 10 pistils de safran, ail, 1 l d'eau, 4 c. à s. de miel, 250 g de raisins, 350 g d'amandes ; marinade 24 h au réfrigérateur ; raisins et miel quand la viande est fondante ; secouer la marmite par les anses ; recette « allégée », l'originale étant « riche en graisse et en miel afin d'en permettre la conservation » ; se garde longtemps, de l'Aïd el-Kébir à Achoura (tradition)."},
+    {"name": "Choumicha – « Collier d'agneau à la m'rouzia d'Essaouira », copie archivée du 8 juin 2026", "url": "https://web.archive.org/web/20260608111620/https://choumicha.ma/recette/923-collier-dagneau-a-la-mrouzia-dessaouira.html", "used_for": "Variante d'Essaouira pour 12 (2 kg de collier, graisse de rognons, 1 l d'eau, sans miel, marinade 2 h, oignon revenu 5 min, 3 h de cuisson) ; catégories « Recettes de fêtes » et « Aid Al Adha »."},
+    {"name": "Taste of Maroc (Nada Kiffa) – « Mrouzia – Moroccan Lamb Confit with Raisins, Almonds and Honey », mise à jour du 10 mars 2021, copie archivée du 8 mars 2026", "url": "https://web.archive.org/web/20260308140657/https://tasteofmaroc.com/mrouzia-lamb-with-raisins-almonds-honey/", "used_for": "Recette pour 8 (4 en plat principal) : 1 kg d'agneau avec os, 1½ c. à s. + 1 c. à c. de ras el hanout, 2 c. à c. de gingembre, 1 c. à c. de smen, 500 g de raisins, 4 c. à s. de miel, 150 g d'amandes ; marinade 6 à 12 h au réfrigérateur ; revenir 10 min, eau versée le long de la paroi, environ 2 h à feu moyen-doux, puis 20 à 30 min avec raisins et miel ; amandes frites dans une huile pas trop chaude ou grillées à 160 °C ; histoire, conservation d'autrefois, variantes régionales ; partage avec les visiteurs."},
+    {"name": "Cooking with Alia – « 342 – Mrouzia – Sweet Lamb Tagine Recipe / المروزية »", "url": "https://www.cookingwithalia.com/mrouzia-sweet-lamb-tagine/", "used_for": "Source marocaine ; noms du plat en darija et en arabe (titre « Mrouzia / المروزية ») ; 500 g d'agneau (épaule ou collier), ½ c. à s. de ras el hanout, ½ c. à c. de gingembre, 75 g de raisins trempés 1 à 2 h, 2 c. à s. de miel, 1 c. à c. de smen, 2 bâtons de cannelle ; marinade au réfrigérateur ; cuisson jusqu'à 2 h, eau chaude ajoutée si besoin ; 10 min de réduction ; servie avec du pain."},
+    {"name": "Cooking with Alia – « Mrouzia / المروزية »", "url": "https://www.cookingwithalia.com/560-mrouzia/", "used_for": "500 g d'agneau, marinade au réfrigérateur 2 h ou une nuit, oignon râpé cuit 5 min, viande revenue 10 min, 1 h 30 de cuisson, sauce à mi-hauteur de la viande avant les raisins et le miel, 10 min de réduction ; amandes frites, sésame grillé ; servie chaude avec du pain."},
+    {"name": "MWN Lifestyle, site de Morocco World News (Ihab Ou-ouda) – « Mrouzia: Morocco's Sweet Lamb Tradition After Eid », 29 mai 2026", "url": "https://mwnlifestyle.com/2026/05/29/mrouzia-moroccos-sweet-lamb-tradition-after-eid/", "used_for": "Plat des jours qui suivent l'Aïd al-Adha ; pour 4 à 6 : 1,5 kg d'agneau avec os, 2 gros oignons, 1 c. à s. de ras el hanout, 200 g de raisins, 100 g de miel, 100 g d'amandes ; revenir 10 min, 2 à 3 h, raisins et miel 20 à 30 min à découvert, sauce sans liquide clair ; servie chaude avec du pain ; se garde bien, goût renforcé le lendemain, réchauffée à feu doux."},
+    {"name": "Morocco World News (Layla Dahamou) – « Moroccan Cuisine in Eid Al Adha: Recipe for 'Lmrozia' », 25 mai 2012", "url": "https://www.moroccoworldnews.com/2012/05/152165/moroccan-cuisine-eid-al-adha-lmrozia/", "used_for": "Plat né pour conserver la viande de l'Aïd sans réfrigérateur ; explication du nom par le mélange d'épices (non retenue) ; recette à l'autocuiseur pour 1 kg (raisins trempés 1 h, 40 min puis 10 min, sucre ou miel, ail)."},
+    {"name": "Bladi.net – « Mourouzia » (recette non signée)", "url": "https://www.bladi.net/recettes/mourouzia.html", "used_for": "Portail marocain : 1 kg de mouton avec os, ras el hanout, safran, cannelle, beurre, 2 c. à s. de miel, 250 g de raisins, 200 g d'amandes dorées à l'huile ; miel et raisins quand la viande est presque cuite ; conservation d'autrefois en jarre ou en bocal, sous une couche de sauce figée. Variante aux pruneaux : https://www.bladi.net/recettes/mrouzia.html."},
+    {"name": "Femmes du Maroc (La rédaction) – « Mrouzia aux amandes », 27 juin 2023", "url": "https://femmesdumaroc.com/plaisirs/food-drink/mrouzia-aux-amandes", "used_for": "Média marocain : « plat de fête », confit d'agneau, de raisins secs, d'oignons et d'amandes ; 1 kg de gigot et de collier, 300 g de raisins, 250 g d'amandes, 100 ml de miel, 1 l d'eau, sésame grillé ; marinade d'au moins 1 h 30 ; raisins quand la viande est presque cuite, sauce « onctueuse et mielleuse »."},
+    {"name": "Hespress (Saâd Sarhane) – « \"ديوان المائدة\" ـ 5 ـ .. \"المروزية\" أكلة موسمية تزين المطبخ المغربي » (la mrouzia, plat de saison de la cuisine marocaine), 29 avril 2020", "url": "https://www.hespress.com/559151-559151.html", "used_for": "Média marocain (en arabe) : plat lié depuis des générations à l'Aïd al-Adha ; viande, raisins, oignon, ail, huile, miel, amandes frites, ras el hanout ; conservation sur plusieurs jours quand les maisons n'avaient pas de réfrigérateur ; nom rattaché à Marw (Khorassan) ; ras el hanout complet exigé au souk la veille de l'Aïd."},
+    {"name": "Jordi Aguadé et Laila Benyahia – « Recetas marroquíes para la fiesta del cordero: la mruziyya », Estudios de Dialectología Norteafricana y Andalusí n° 8, 2004, p. 23-26 (Université de Cordoue)", "url": "https://journals.uco.es/edna/article/view/8273/7749", "used_for": "Étymologie : de l'arabe classique marwaziyya, « de Marw/Merv » (aujourd'hui Mary, Turkménistan), mot déjà employé en arabe andalou (dictionnaire de Corriente). Recette d'une informatrice de Casablanca : 1,5 kg de jarrets et d'os (ou de morceaux d'agneau), 2 gros oignons râpés, 200 g de beurre, un verre d'huile, 200 g d'amandes ; épices délayées dans un verre d'eau, moitié pour la viande (2 à 3 h de marinade), moitié pour les raisins ; plat du troisième jour de l'Aïd ; affirme qu'il se garde jusqu'à un mois au réfrigérateur (tradition, non retenue)."},
+    {"name": "Le360 (Maya Zidoune) – « Les Marocains et Aïd Al-Adha, c'est une histoire et des recettes de dix siècles », 31 juillet 2020 (revue de presse d'Al Massae)", "url": "https://fr.le360.ma/societe/les-marocains-et-aid-al-adha-cest-une-histoire-et-des-recettes-de-dix-siecles-220329/", "used_for": "Média marocain : la mrouzia, tajine d'agneau sucré-salé, fait partie de la table de l'Aïd ; le collier cuit à petit feu devient très tendre."},
+    {"name": "Lalla Moulati (مطبخ لالة مولاتي) – listes d'ingrédients de la mrouzia, 17 août 2018 et 11 septembre 2018", "url": "https://www.lalamoulati.net/150529.html", "used_for": "Source marocaine en arabe, recoupement des quantités : 2 kg de viande, 4 c. à s. de miel, 1 c. à s. de « épices de la mrouzia », 1 c. à s. de smen, cannelle en poudre et en bâton ; et (https://www.lalamoulati.net/152311.html) 2 kg de viande, 120 ml d'huile, 3 c. à s. d'épices de la mrouzia, 1 c. à c. de smen, de cannelle et de gingembre. Méthodes en vidéo, non regardées."},
+    {"name": "ONSSA (Office national de sécurité sanitaire des produits alimentaires, Maroc) – « Conseils sanitaires de l'ONSSA pour Aïd Al-Adha 1447 (2026) »", "url": "https://www.onssa.gov.ma/wp-content/uploads/2026/05/conseils-Aid-Al-Adha-1447-Fr.pdf", "used_for": "Source officielle marocaine sur la viande crue du mouton : carcasse au frais environ 5 h après l'abattage, puis découpe en petits morceaux ; au réfrigérateur à +3 °C au plus pendant 5 jours, ou au congélateur à -18 °C, sans surcharger l'appareil."},
+    {"name": "Anses – « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques » (8 avril 2020) et « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020)", "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques", "used_for": "Source officielle (France) : viandes et plats cuisinés dans la zone la plus froide du réfrigérateur (4 °C) ; plats cuisinés pas plus de 2 h à température ambiante, consommés dans les 3 jours, répartis en petites portions au-delà d'un kilo ; congélation à -18 °C ; réchauffer à couvert jusqu'à ce que la vapeur s'échappe (https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques)."},
+    {"name": "Food Standards Agency (Royaume-Uni) – « Cooking your food » et « How to chill, freeze and defrost food safely », publiés le 18 décembre 2017, pages GOV.UK consultées le 7 novembre 2026", "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food", "used_for": "Source officielle : restes au réfrigérateur dans les 1 à 2 h, en petites portions, mangés dans les 48 h ou congelés ; réchauffés une seule fois, jusqu'à être brûlants partout (https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely)."},
+    {"name": "USDA FoodData Central – portions du miel (n° 169640), des raisins secs (n° 168165), des amandes (n° 170567), de l'oignon (n° 170000) et de la cannelle (n° 171320)", "url": "https://fdc.nal.usda.gov/portal-data/external/169640", "used_for": "Conversions pour les comparaisons : miel 1 c. à s. = 21 g ; raisins secs 1 tasse = 145 g ; amandes entières 1 tasse = 143 g ; gros oignon = 150 g, oignon moyen = 110 g ; cannelle moulue 1 c. à c. = 2,6 g."}
+  ],
+  "discrepancies": [
+    "Méthode : onze recettes (Choumicha deux fois, Bladi.net, Cooking with Alia deux fois, MWN Lifestyle, Taste of Maroc, Morocco World News 2012, Femmes du Maroc, la recette de Casablanca d'Aguadé et Benyahia, et les listes de Lalla Moulati) ramenées au kilo de viande ; médianes calculées avec python3 -I, puis multipliées par 1,5 kg. Conversions : 1 tasse = 236,6 ml ; 1 c. à s. = 14,8 ml ; 2,2 lb = 998 g ; 1,1 lb = 499 g ; 5,2 oz = 147 g ; portions de l'USDA (miel, raisins, amandes, oignon, cannelle).",
+    "Viande : 250 g par personne chez Choumicha (2 kg pour 8), Taste of Maroc (1 kg pour 4 en plat principal) et MWN Lifestyle (1,5 kg pour 6) ; 167 g chez Choumicha à Essaouira (2 kg pour 12). Retenu 1,5 kg pour 6, comme MWN Lifestyle et la recette de Casablanca.",
+    "Raisins secs : de 73 g (Morocco World News 2012) à 500 g (Taste of Maroc) par kilo de viande ; médiane de 9 recettes : 150 g/kg, soit 225 g.",
+    "Miel : de 2 c. à s. (Choumicha, Bladi.net, Morocco World News 2012, Lalla Moulati) à 6,8 c. à s. (Femmes du Maroc, 100 ml) par kilo ; médiane de 9 recettes : 3,2 c. à s./kg, soit 4,8 c. à s., arrondi à 5 c. à s. (environ 105 g ; MWN Lifestyle met 100 g pour 1,5 kg). La version d'Essaouira n'a pas de miel : variante.",
+    "Amandes : de 36 à 300 g par kilo ; médiane de 9 recettes : 150 g/kg, soit 225 g. Frites dans la majorité des recettes (Cooking with Alia, Bladi.net, MWN Lifestyle, Morocco World News 2012, recette de Casablanca, Hespress), grillées chez Choumicha et Femmes du Maroc, au choix chez Taste of Maroc.",
+    "Ras el hanout : de 0,5 à 6 c. à c. par kilo (11 recettes) ; médiane 2 c. à c./kg, soit 3 c. à c. = 1 c. à s. Les 25 g de Femmes du Maroc ne sont pas comptés : aucune densité fiable pour les convertir.",
+    "Autres épices, par kilo puis pour 1,5 kg : gingembre 1 c. à c. (10 recettes sur 12) → 1½ c. à c. ; curcuma 0,5 c. à c. (7 recettes sur 12) → ¾ c. à c. ; poivre 0,58 c. à c. (8 recettes) → 0,88, arrondi à 1 c. à c. ; cannelle moulue 0,71 c. à c. (10 recettes) → 1 c. à c. ; sel 1 c. à c. → 1½ c. à c. ; bâtons de cannelle dans 6 recettes sur 12, médiane 1,25 par kilo → 2, facultatifs ; safran dans toutes les recettes, de « quelques pistils » à ½ c. à c. : retenu 1 pincée.",
+    "Matière grasse : huile de 30 à 175 ml par kilo, médiane 75 ml/kg (la valeur des deux recettes de Choumicha), soit 112,5 ml, arrondi à 110 ml ; smen dans 4 recettes, médiane 1,25 c. à c./kg, soit 1,9, arrondi à 2 c. à c. Le beurre (Bladi.net, Cooking with Alia, Morocco World News 2012, recette de Casablanca) est minoritaire : variante.",
+    "Oignons : dans 9 recettes sur 12, de 75 à 330 g par kilo (gros oignon = 150 g, moyen = 110 g) ; médiane 200 g/kg, soit 300 g = 2 gros oignons, comme MWN Lifestyle et la recette de Casablanca. Absents chez Choumicha (version allégée), Bladi.net et Lalla Moulati (2018) ; facultatifs chez Taste of Maroc, qui précise qu'on n'en mettait pas avant les réfrigérateurs.",
+    "Eau : 500 ml par kilo (Choumicha, deux recettes), environ 394 ml (MWN Lifestyle, 2 à 3 tasses pour 1,5 kg), 1 l (Femmes du Maroc ; Morocco World News 2012, à l'autocuiseur) ; « à hauteur de la viande » chez Taste of Maroc, Cooking with Alia et Bladi.net. Médiane 500 ml/kg, soit 750 ml.",
+    "Marinade : 30 min (Morocco World News 2012), au moins 1 h (MWN Lifestyle), 1 h 30 (Femmes du Maroc), 2 h (Cooking with Alia, Choumicha à Essaouira), 2 à 3 h (recette de Casablanca), 6 à 12 h (Taste of Maroc), 24 h (Choumicha) ; médiane 2 h, avec la nuit en option comme chez Cooking with Alia, MWN Lifestyle et Taste of Maroc.",
+    "Mijotage : 1 h 30 (Cooking with Alia, 560), jusqu'à 2 h (Cooking with Alia, 342), environ 2 h (Taste of Maroc), 2 à 3 h (MWN Lifestyle), 3 h (Choumicha à Essaouira) ; médiane 2 h. Non comptés : 4 h 30 de cuisson en tout chez Choumicha (raisins compris), environ 30 min chez Femmes du Maroc (bien plus court que toutes les autres), 40 min à l'autocuiseur chez Morocco World News 2012 (variante).",
+    "Réduction avec les raisins et le miel : 10 min (Cooking with Alia, Femmes du Maroc, Morocco World News 2012), 20 à 30 min (Taste of Maroc, MWN Lifestyle) ; médiane 10 min en comptant une valeur par auteur : « au moins 10 min », jusqu'à une sauce sirupeuse.",
+    "Trempage des raisins : 15 min (Choumicha à Essaouira), 20 min (MWN Lifestyle), 30 min (Cooking with Alia, 560), 1 h (Taste of Maroc, Morocco World News 2012 ; 1 à 2 h chez Cooking with Alia, 342) : médiane 45 min, majorité 1 h ; ils trempent pendant le mijotage, donc « au moins 1 h ».",
+    "Début de cuisson : oignons d'abord, puis viande (Cooking with Alia, Choumicha à Essaouira, recette de Casablanca, Morocco World News 2012) ou tout ensemble (Taste of Maroc, MWN Lifestyle, Femmes du Maroc, Choumicha) : retenu oignons 5 min (Cooking with Alia 560, Choumicha à Essaouira), puis viande 10 min (Cooking with Alia 560, Taste of Maroc, MWN Lifestyle).",
+    "Cannelle moulue : dans la marinade (Choumicha, Bladi.net, MWN Lifestyle, Femmes du Maroc, recette de Casablanca) ou avec les raisins (Taste of Maroc) : retenu la marinade.",
+    "Conservation : la tradition (Choumicha : de l'Aïd à Achoura ; Taste of Maroc : au moins deux mois en jarre autrefois, et jusqu'à deux semaines au réfrigérateur pour sa version ; recette de Casablanca : jusqu'à un mois au réfrigérateur ; Morocco World News 2012 : des mois) contredit les règles officielles (FSA : 48 h ; Anses : moins de 3 jours). Retenu les règles officielles ; la tradition est seulement racontée.",
+    "Temps : préparation 15 min (Choumicha 15 min, Taste of Maroc 10 min) ; cuisson estimée à 155 min (5 + 10 + 5 pour porter à frémissement + 120 + 10 + 5 pour dresser) ; repos 120 min (marinade minimale). Taste of Maroc annonce 2 h 50 de cuisson, Choumicha 4 h 30, Cooking with Alia 2 h.",
+    "Taste of Maroc et Choumicha ont été lus sur des copies de web.archive.org : le 7 novembre 2026 (heure GMT), tasteofmaroc.com refusait l'accès automatique (erreur 403) et choumicha.ma était hors ligne (erreur 525). Leurs fichiers robots.txt autorisent ces pages."
+  ],
+  "unverified": [
+    "Histoire du plat au-delà du nom : selon Taste of Maroc, la recette serait venue d'Égypte par al-Andalus, et la plus ancienne connue figurerait dans un livre de cuisine andalou anonyme du XIIIe siècle ; non vérifié sur ces livres.",
+    "Morocco World News (2012) explique le nom par le mélange de plus de 40 épices ; cette explication contredit l'étymologie donnée par Aguadé et Benyahia et n'est pas retenue. Il est seulement confirmé que le ras el hanout de ce plat s'appelle aussi « épices de la mrouzia » (Taste of Maroc, Lalla Moulati).",
+    "Préparation le troisième jour de l'Aïd : seulement dans la recette de Casablanca d'Aguadé et Benyahia ; MWN Lifestyle dit « les jours qui suivent le sacrifice ».",
+    "Durées de conservation traditionnelles (semaines ou mois) et ancien test de la mèche de coton enflammée (Taste of Maroc) : non vérifiés et non recommandés.",
+    "Pages de Lalla Moulati (17, 25 août et 11 septembre 2018 ; 16 juin 2023) : méthodes en vidéo, non regardées ; seules les listes d'ingrédients ont servi.",
+    "Femmes du Maroc cite l'oignon dans la méthode sans le mettre dans la liste, et ne donne pas le nombre de parts.",
+    "Non consultés : Aujourd'hui le Maroc, Le Matin et Médias24 (accès refusé, erreur 403) ; Yabiladi (son robots.txt interdit ClaudeBot) ; SNRTnews (robots.txt contradictoire, qui interdit notamment ClaudeBot et Claude-User) ; My Moroccan Food (aucune recette de mrouzia trouvée, et sa recherche interne est interdite par robots.txt) ; USDA (FSIS) et Santé Canada (erreur 403)."
+  ]
+}

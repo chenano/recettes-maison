@@ -1,0 +1,298 @@
+{
+ "_slug": "butter-chicken",
+ "_ingredients": {
+  "poulet": {
+   "q": 500,
+   "u": "g",
+   "fr": "de hauts de cuisse de poulet désossés et sans peau"
+  },
+  "citron": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de jus de citron"
+  },
+  "piment-marinade": {
+   "q": 0.75,
+   "u": "c. à c.",
+   "fr": "de piment du Cachemire en poudre"
+  },
+  "sel-marinade": {
+   "q": null,
+   "u": "",
+   "fr": "sel"
+  },
+  "yaourt": {
+   "q": 5,
+   "u": "c. à s.",
+   "fr": "de yaourt grec ou de yaourt égoutté"
+  },
+  "pag-marinade": {
+   "q": 1.25,
+   "u": "c. à s.",
+   "fr": "de pâte d'ail et de gingembre frais"
+  },
+  "garam-marinade": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de garam masala"
+  },
+  "huile-marinade": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "d'huile neutre"
+  },
+  "huile-poele": {
+   "q": 1.5,
+   "u": "c. à s.",
+   "fr": "d'huile neutre ou de ghee"
+  },
+  "beurre": {
+   "q": 50,
+   "u": "g",
+   "fr": "de beurre"
+  },
+  "cardamome": {
+   "q": 4,
+   "u": "",
+   "fr": "gousse de cardamome verte / gousses de cardamome verte",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "clous": {
+   "q": 3,
+   "u": "",
+   "fr": "clou de girofle / clous de girofle",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "cannelle": {
+   "q": 1,
+   "u": "",
+   "fr": "petit bâton de cannelle (environ 5 cm) / petits bâtons de cannelle (environ 5 cm)",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "laurier": {
+   "q": 1,
+   "u": "",
+   "fr": "feuille de laurier / feuilles de laurier",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "oignon": {
+   "q": 1,
+   "u": "",
+   "fr": "oignon moyen / oignons moyens",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "pag-sauce": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de pâte d'ail et de gingembre frais"
+  },
+  "tomates": {
+   "q": 650,
+   "u": "g",
+   "fr": "de tomates bien mûres"
+  },
+  "cajou": {
+   "q": 30,
+   "u": "g",
+   "fr": "de noix de cajou nature"
+  },
+  "piment-sauce": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de piment du Cachemire en poudre"
+  },
+  "eau": {
+   "q": 330,
+   "u": "ml",
+   "fr": "d'eau"
+  },
+  "sel": {
+   "q": null,
+   "u": "",
+   "fr": "sel"
+  },
+  "garam-sauce": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de garam masala"
+  },
+  "methi": {
+   "q": 1.25,
+   "u": "c. à c.",
+   "fr": "de feuilles de fenugrec séchées (kasuri methi)"
+  },
+  "sucre": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de sucre"
+  },
+  "creme": {
+   "q": 70,
+   "u": "ml",
+   "fr": "de crème liquide entière"
+  },
+  "piment-vert": {
+   "q": 1,
+   "u": "",
+   "fr": "piment vert / piments verts",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "coriandre": {
+   "q": null,
+   "u": "",
+   "fr": "coriandre fraîche"
+  }
+ },
+ "textes": {
+  "title": "Butter chicken (murgh makhani)",
+  "tagline": "Du poulet mariné au yaourt, doré à la poêle, puis mijoté dans une sauce tomate au beurre, douce et veloutée : le grand classique de Delhi, fait à la maison sans four tandoor.",
+  "region": "Inde, Delhi. Le plat est lié au restaurant Moti Mahal de Daryaganj, dans le Vieux Delhi, ouvert par des cuisiniers réfugiés de Peshawar après la Partition de 1947 (Outlook India, The National, Wikipédia). Son inventeur est disputé : la famille Gujral (Moti Mahal) l'attribue à Kundan Lal Gujral, qui l'aurait créé à Peshawar dans les années 1930 ; la famille Jaggi (restaurant Daryaganj) l'attribue à Kundan Lal Jaggi, associé de Gujral, à Delhi en 1947. Moti Mahal a attaqué le restaurant Daryaganj devant la Haute Cour de Delhi, qui a tenu sa première audience le 16 janvier 2024 (The Week, Onmanorama, Dawn) ; l'issue du procès n'a pas été vérifiée. Les deux récits s'accordent sur un point : le plat est né de poulet tandoori déjà cuit, ajouté à une sauce aux tomates et au beurre (Monish Gujral ; daryaganj.com).",
+  "occasion": "Repas du dimanche ou repas de fête : Ranveer Brar range sa recette dans « Sunday special », « Party main course », « Kids Special » et « Ramadan Special ». C'est un plat doux, sans épices trop fortes (Swasthi ; The National, d'après le chef Sandeep Pande).",
+  "img_alt": "Butter chicken (murgh makhani) dans un bol blanc, avec de la coriandre",
+  "serving": "Bien chaud, avec du naan, un roti, un paratha, du riz basmati, du riz au cumin ou du riz au curcuma (Swasthi). Kunal Kapur le sert avec un naan tandoori fin et croustillant ; The National cite aussi le chapati et le riz. Kunal Kapur le trouve encore meilleur le lendemain. Restes : au réfrigérateur dans les 2 heures (FSA, Anses), à manger sous 48 heures (FSA), et réchauffés une seule fois, jusqu'à être fumants partout (FSA).",
+  "ing.0.group": "Poulet et marinades",
+  "ing.poulet.name": "de hauts de cuisse de poulet désossés et sans peau",
+  "ing.poulet.note": "halal ; ou des blancs de poulet",
+  "ing.citron.name": "de jus de citron",
+  "ing.piment-marinade.name": "de piment du Cachemire en poudre",
+  "ing.piment-marinade.note": "à défaut, moitié paprika fumé, moitié piment de Cayenne (Swasthi)",
+  "ing.sel-marinade.name": "sel",
+  "ing.yaourt.name": "de yaourt grec ou de yaourt égoutté",
+  "ing.yaourt.note": "bien épais",
+  "ing.pag-marinade.name": "de pâte d'ail et de gingembre frais",
+  "ing.garam-marinade.name": "de garam masala",
+  "ing.huile-marinade.name": "d'huile neutre",
+  "ing.1.group": "Pour dorer le poulet",
+  "ing.huile-poele.name": "d'huile neutre ou de ghee",
+  "ing.2.group": "Sauce makhani",
+  "ing.beurre.name": "de beurre",
+  "ing.cardamome.name": "gousse de cardamome verte",
+  "ing.cardamome.pl": "gousses de cardamome verte",
+  "ing.clous.name": "clou de girofle",
+  "ing.clous.pl": "clous de girofle",
+  "ing.cannelle.name": "petit bâton de cannelle (environ 5 cm)",
+  "ing.cannelle.pl": "petits bâtons de cannelle (environ 5 cm)",
+  "ing.laurier.name": "feuille de laurier",
+  "ing.laurier.pl": "feuilles de laurier",
+  "ing.oignon.name": "oignon moyen",
+  "ing.oignon.pl": "oignons moyens",
+  "ing.pag-sauce.name": "de pâte d'ail et de gingembre frais",
+  "ing.tomates.name": "de tomates bien mûres",
+  "ing.cajou.name": "de noix de cajou nature",
+  "ing.cajou.note": "ni salées ni grillées, une vingtaine",
+  "ing.piment-sauce.name": "de piment du Cachemire en poudre",
+  "ing.piment-sauce.note": "moyennement fort, il donne une belle couleur (Swasthi) ; à défaut, moitié paprika fumé, moitié piment de Cayenne",
+  "ing.eau.name": "d'eau",
+  "ing.sel.name": "sel",
+  "ing.garam-sauce.name": "de garam masala",
+  "ing.methi.name": "de feuilles de fenugrec séchées (kasuri methi)",
+  "ing.methi.note": "pas de la poudre de graines de fenugrec",
+  "ing.sucre.name": "de sucre",
+  "ing.creme.name": "de crème liquide entière",
+  "ing.piment-vert.name": "piment vert",
+  "ing.piment-vert.pl": "piments verts",
+  "ing.piment-vert.note": "facultatif ; épépiné et émincé",
+  "ing.coriandre.name": "coriandre fraîche",
+  "ing.coriandre.note": "quelques brins",
+  "equipment.0": "Une casserole à fond épais, pour la sauce",
+  "equipment.1": "Une grande poêle, ou une poêle-gril si tu en as une (Sanjeev Kapoor, Ranveer Brar, Kunal Kapur)",
+  "equipment.2": "Un mixeur (blender) ou un mixeur plongeant",
+  "equipment.3": "Une passoire fine ou un tamis, et une cuillère pour presser la sauce",
+  "equipment.4": "Deux bols, pour les deux marinades",
+  "equipment.5": "Une planche et un couteau réservés au poulet cru, et une autre planche pour les légumes (Anses)",
+  "equipment.6": "Du papier absorbant",
+  "equipment.7": "Une assiette propre, pour le poulet doré (Anses)",
+  "equipment.8": "Un thermomètre de cuisson (conseillé par la FSA)",
+  "steps.0.title": "Prépare la pâte ail-gingembre",
+  "steps.0.text": "Si tu n'as pas de pâte toute prête, pèle de l'ail et du gingembre frais, à parts égales. Râpe-les très finement ou écrase-les au pilon. Il t'en faut {{pag-marinade}} pour la marinade et {{pag-sauce}} pour la sauce.",
+  "steps.0.tip": "Swasthi remplace la pâte par moitié gingembre râpé, moitié ail râpé.",
+  "steps.1.title": "Coupe et sèche le poulet",
+  "steps.1.text": "Coupe {{poulet}} de poulet en morceaux de 2,5 à 4 cm. Sèche-les bien avec du papier absorbant. Ne lave pas le poulet cru. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+  "steps.1.tip": "Laver la volaille crue n'enlève pas les bactéries : seule la cuisson les détruit, et l'eau les éclabousse partout (FSA).",
+  "steps.2.title": "Fais la première marinade",
+  "steps.2.text": "Dans un grand bol, mélange le poulet avec {{citron}} de jus de citron, {{piment-marinade}} de piment et un peu de {{sel-marinade}}. Couvre et laisse reposer 20 minutes.",
+  "steps.2.tip": "C'est la double marinade des cuisiniers indiens : d'abord le citron, le piment et le sel, puis le yaourt et les épices (Monish Gujral ; Swasthi ; Kunal Kapur).",
+  "steps.2.timer.label": "Première marinade",
+  "steps.2.timer.done": "Passe à la deuxième marinade.",
+  "steps.3.title": "Fais la deuxième marinade",
+  "steps.3.text": "Dans un autre bol, mélange {{yaourt}} de yaourt, {{pag-marinade}} de pâte ail-gingembre, {{garam-marinade}} de garam masala et {{huile-marinade}} d'huile. Verse sur le poulet et mélange bien. Couvre et mets au réfrigérateur au moins 1 heure, et jusqu'au lendemain si tu peux.",
+  "steps.3.tip": "Plus la marinade est longue, plus le poulet est tendre : Swasthi conseille 12 heures, et jamais plus de 48 heures.",
+  "steps.4.title": "Prépare les légumes",
+  "steps.4.text": "Pèle et hache {{oignon:full}}. Lave {{tomates}} de tomates et coupe-les en morceaux.",
+  "steps.5.title": "Parfume le beurre",
+  "steps.5.text": "Dans la casserole, fais fondre la moitié du beurre ({{beurre}} en tout) à feu moyen. Ajoute {{cardamome:full}}, {{clous:full}}, {{cannelle:full}} et {{laurier:full}}. Laisse grésiller quelques secondes.",
+  "steps.6.title": "Fais revenir l'oignon",
+  "steps.6.text": "Ajoute l'oignon et fais-le revenir 2 à 3 minutes, jusqu'à ce qu'il ramollisse. Ajoute {{pag-sauce}} de pâte ail-gingembre et remue 1 à 2 minutes, sans la laisser brûler.",
+  "steps.6.tip": "La pâte doit sentir bon, sans brûler (Swasthi).",
+  "steps.7.title": "Cuis les tomates",
+  "steps.7.text": "Ajoute les tomates, {{cajou}} de noix de cajou, {{piment-sauce}} de piment, {{eau}} d'eau et un peu de {{sel}}. Porte à ébullition, puis couvre et laisse cuire 12 minutes à feu moyen-doux, jusqu'à ce que les tomates soient fondantes.",
+  "steps.7.timer.label": "Sauce tomate",
+  "steps.7.timer.done": "Les tomates doivent être fondantes. Retire les épices entières.",
+  "steps.8.title": "Mixe et passe la sauce",
+  "steps.8.text": "Retire la cardamome, les clous, la cannelle et le laurier. Laisse tiédir un peu, puis mixe le contenu de la casserole en purée très fine. Passe-la au tamis en pressant avec une cuillère.",
+  "steps.8.tip": "C'est ce qui donne la sauce soyeuse des restaurants (Kunal Kapur).",
+  "steps.9.title": "Fais mijoter la sauce",
+  "steps.9.text": "Remets la sauce dans la casserole avec le reste du beurre et {{garam-sauce}} de garam masala. Laisse mijoter à feu doux en remuant de temps en temps, jusqu'à ce qu'elle épaississe un peu et que des traces de beurre apparaissent à la surface. Si elle devient trop épaisse, ajoute un peu d'eau chaude.",
+  "steps.10.title": "Fais dorer le poulet",
+  "steps.10.text": "Pendant ce temps, chauffe une partie de l'huile ({{huile-poele}} en tout) dans la grande poêle, à feu moyen-vif. Fais dorer le poulet en deux ou trois fournées, selon la taille de la poêle, les morceaux bien espacés. Laisse dorer sans toucher, puis retourne les morceaux, jusqu'à ce qu'ils soient dorés de tous les côtés et que la marinade ait séché. Mets-les dans une assiette propre et continue avec le reste de l'huile et du poulet.",
+  "steps.10.tip": "Le poulet n'a pas besoin d'être cuit à cœur ici : il finit de cuire dans la sauce (Swasthi ; Ranveer Brar).",
+  "steps.11.title": "Mijote le poulet dans la sauce",
+  "steps.11.text": "Ajoute le poulet doré et son jus dans la sauce. Couvre et laisse mijoter 7 minutes à feu doux.",
+  "steps.11.timer.label": "Poulet dans la sauce",
+  "steps.11.timer.done": "Vérifie la cuisson du plus gros morceau.",
+  "steps.12.title": "Vérifie la cuisson",
+  "steps.12.text": "Coupe le plus gros morceau en deux : la chair ne doit plus être rose au centre, le jus doit être clair et de la vapeur doit s'en échapper. Avec un thermomètre, le cœur doit atteindre 75 °C pendant 30 secondes. Sinon, prolonge la cuisson à couvert, puis vérifie de nouveau.",
+  "steps.12.tip": "La FSA demande, au cœur, 75 °C pendant 30 secondes ou 70 °C pendant 2 minutes ; l'Anses demande de cuire la volaille à cœur, à 70 °C.",
+  "steps.13.title": "Ajoute le fenugrec et le sucre",
+  "steps.13.text": "Émiette {{methi}} de kasuri methi entre tes paumes, au-dessus de la casserole. Ajoute {{sucre}} de sucre, mélange et goûte. Rectifie le {{sel}}.",
+  "steps.14.title": "Ajoute la crème et sers",
+  "steps.14.text": "Coupe le feu. Dans un bol, mélange {{creme}} de crème avec quelques cuillerées de sauce chaude, puis verse le tout dans la casserole et remue. Parsème de {{coriandre}} ciselée et ajoute {{piment-vert:full}} si tu aimes. Sers tout de suite, avec du naan ou du riz basmati.",
+  "steps.14.tip": "Mélanger d'abord la crème avec un peu de sauce chaude l'empêche de trancher (Swasthi).",
+  "secrets.0.text": "Sèche bien le poulet avec du papier absorbant avant de le mariner.",
+  "secrets.0.source": "Kunal Kapur (« pat dry the chicken ») ; Monish Gujral (poulet « pat dried ») ; Swasthi",
+  "secrets.1.text": "Fais deux marinades : d'abord le citron, le piment et le sel, puis le yaourt et les épices. C'est la « double marinade » qui permettait de rôtir vite le poulet dans le tandoor.",
+  "secrets.1.source": "Monish Gujral (recette de Moti Mahal) ; Kunal Kapur ; Ranveer Brar ; Swasthi ; Outlook India (2004)",
+  "secrets.2.text": "Prends un yaourt bien épais (égoutté ou grec). Un yaourt liquide rend trop d'eau à la cuisson : la marinade reste dans la poêle et le poulet est fade.",
+  "secrets.2.source": "Swasthi ; Kunal Kapur et Ranveer Brar utilisent aussi du yaourt égoutté (« hung curd »)",
+  "secrets.3.text": "Plus le poulet marine longtemps au réfrigérateur, plus il est tendre et juteux.",
+  "secrets.3.source": "Swasthi (12 heures conseillées, 48 heures au plus)",
+  "secrets.4.text": "Mixe la sauce très finement, puis passe-la au tamis : elle devient lisse et soyeuse.",
+  "secrets.4.source": "Kunal Kapur ; Sanjeev Kapoor ; Monish Gujral ; Monish Gujral dans The National",
+  "secrets.5.text": "Les noix de cajou épaississent la sauce et la rendent onctueuse.",
+  "secrets.5.source": "Swasthi ; Kunal Kapur ; Monish Gujral (pâte de cajou)",
+  "secrets.6.text": "Les feuilles de fenugrec séchées (kasuri methi) sont l'ingrédient clé : rien ne les remplace. La poudre de graines de fenugrec n'a pas le même goût.",
+  "secrets.6.source": "Swasthi",
+  "secrets.7.text": "Émiette ou grille un peu le kasuri methi avant de l'ajouter : il renforce le goût de la tomate.",
+  "secrets.7.source": "Kunal Kapur (kasuri methi grillé) ; Sanjeev Kapoor (« roasted and powdered ») ; Ranveer Brar (« crushed »)",
+  "secrets.8.text": "Un peu de sucre ou de miel équilibre l'acidité des tomates.",
+  "secrets.8.source": "Kunal Kapur ; Swasthi ; Ranveer Brar (miel)",
+  "secrets.9.text": "Le piment du Cachemire est moyennement fort et donne une belle couleur rouge. Sinon, prends moitié paprika fumé, moitié piment de Cayenne.",
+  "secrets.9.source": "Swasthi",
+  "secrets.10.text": "Dore le poulet en deux ou trois fournées, selon la taille de la poêle, morceaux espacés, sans le cuire à cœur : il finit de cuire dans la sauce.",
+  "secrets.10.source": "Swasthi ; Ranveer Brar (poulet grillé « half cooked », puis fini dans la sauce)",
+  "secrets.11.text": "Mélange la crème avec un peu de sauce chaude avant de la verser : elle ne tranche pas.",
+  "secrets.11.source": "Swasthi",
+  "secrets.12.text": "Le butter chicken est un plat doux : sa sauce au beurre et à la crème n'a pas d'épices trop fortes.",
+  "secrets.12.source": "Swasthi (« a mild dish ») ; The National (chef Sandeep Pande)",
+  "secrets.13.text": "Cette sauce makhani sert aussi de base à d'autres plats, comme le paneer makhani.",
+  "secrets.13.source": "Kunal Kapur ; Outlook India (Monish Gujral : le shahi paneer « shares the same gravy »)",
+  "mistakes.0": "Prendre un yaourt liquide : il rend trop d'eau et le poulet est fade (Swasthi).",
+  "mistakes.1": "Remplacer les feuilles de fenugrec séchées par de la poudre de graines de fenugrec : le goût n'est pas le même (Swasthi).",
+  "mistakes.2": "Laisser brûler la pâte ail-gingembre au fond de la casserole (Swasthi).",
+  "mistakes.3": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+  "mistakes.4": "Couper les légumes sur la planche du poulet cru sans la laver, ou remettre le poulet doré dans le plat du cru (Anses, FSA).",
+  "mistakes.5": "Laisser le poulet mariner longtemps hors du réfrigérateur : pas plus de 2 heures à température ambiante (Anses).",
+  "mistakes.6": "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+  "mistakes.7": "Verser d'un coup la crème froide dans la sauce bouillante : elle risque de trancher (Swasthi).",
+  "mistakes.8": "Réchauffer les restes plus d'une fois (FSA).",
+  "variants.0": "Poulet cuit au four, comme Monish Gujral et Kunal Kapur : 180 °C pendant 20 minutes (Kunal Kapur), 200 °C pendant 15 à 18 minutes (Monish Gujral, dans The National) ou 240 °C pendant 20 à 22 minutes en le retournant (Swasthi), puis quelques minutes dans la sauce.",
+  "variants.1": "À l'ancienne, avec un poulet en morceaux avec os, comme le poulet tandoori de Moti Mahal (Monish Gujral ; Sanjeev Kapoor ; Ranveer Brar, version du Vieux Delhi, avec cuisses et pilons). Avec les os, il faut plus de temps dans la sauce : Sanjeev Kapoor compte 10 à 15 minutes à couvert, jusqu'à cuisson complète.",
+  "variants.2": "Fumé au charbon (« dhungar ») : un morceau de charbon de bois chauffé au rouge, posé dans un petit bol en inox au milieu du poulet, arrosé de ghee ou de beurre, puis couvercle fermé (Sanjeev Kapoor ; Ranveer Brar, qui compte 2 à 3 minutes). Attention : ce qui brûle du bois ou du charbon peut dégager du monoxyde de carbone ; le NHS déconseille d'utiliser un barbecue à l'intérieur et conseille de bien aérer. Fais-le fenêtre grande ouverte.",
+  "variants.3": "Avec de l'huile de moutarde dans la marinade, comme Sanjeev Kapoor, Ranveer Brar et Kunal Kapur.",
+  "variants.4": "Avec un peu de farine de pois chiches grillée et du poivre noir concassé dans la marinade (Ranveer Brar, 2024).",
+  "variants.5": "Sans noix de cajou : mets moins d'eau et plus de crème à la fin (Swasthi). Ou remplace-les par des amandes trempées 2 heures dans l'eau chaude, puis pelées et mixées (Swasthi).",
+  "variants.6": "Avec un mélange d'épices maison : cardamome verte, cardamome noire, macis, clous de girofle et poivre noir, grillés à sec puis moulus (Ranveer Brar, version du Vieux Delhi).",
+  "variants.7": "Avec du miel à la place du sucre (Ranveer Brar ; Kunal Kapur en parle aussi).",
+  "variants.8": "Paneer makhani : la même sauce, avec du paneer à la place du poulet (Kunal Kapur). Le paneer se fait en caillant le lait chaud avec un acide (jus de citron, acide citrique ou vinaigre), sans présure (Wikipédia ; Swasthi) ; s'il est acheté tout fait, lis l'étiquette."
+ }
+}

@@ -1,0 +1,350 @@
+{
+ "_slug": "omelette",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Omelette roulée aux fines herbes",
+   "t": "عجة ملفوفة بالأعشاب"
+  },
+  "tagline": {
+   "fr": "Trois œufs battus avec persil, ciboulette et autres fines herbes, cuits en un instant au beurre puis roulés : lisse dehors, moelleuse dedans, à la française.",
+   "t": "ثلاث بيضات مخفوقة مع البقدونس والثوم المعمّر وأعشاب عطرية ناعمة أخرى، تُطهى في لحظة بالزبدة ثم تُلفّ: ملساء من الخارج، طرية من الداخل، على الطريقة الفرنسية."
+  },
+  "region": {
+   "fr": "France : la cuisine classique d'Escoffier (Le Guide culinaire, 1903)",
+   "t": "فرنسا: المطبخ الكلاسيكي لـEscoffier (Le Guide culinaire، 1903)"
+  },
+  "occasion": {
+   "fr": "Repas express, en quelques minutes, dès qu'il y a des œufs et un peu d'herbes fraîches",
+   "t": "وجبة سريعة، في بضع دقائق، متى توفّر البيض وقليل من الأعشاب الطازجة"
+  },
+  "img_alt": {
+   "fr": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette",
+   "t": "عجة ملفوفة، صفراء دون أي تحمير، مرشوشة بالثوم المعمّر"
+  },
+  "serving": {
+   "fr": "Tout de suite, roulée et lustrée au beurre (Escoffier, Chef Simon), avec une salade verte si tu veux, comme le permet l'usage cité par Wikipédia. S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la dans les 3 à 4 jours et réchauffe-la à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
+   "t": "فورًا، ملفوفة ولامعة بالزبدة (Escoffier، Chef Simon)، مع سلطة خضراء إن شئت، كما تسمح به العادة التي تذكرها Wikipédia. وإذا بقي منها شيء، فضعه في الثلاجة خلال 2 ساعة (1 ساعة إذا تجاوزت الحرارة 32 درجة مئوية)، وكُله خلال 3 إلى 4 أيام، وسخّنه حتى وسطه، إلى 74 درجة مئوية (FDA، الوكالة الصحية الأمريكية)."
+  },
+  "ing.0.group": {
+   "fr": "Omelette",
+   "t": "العجة"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf frais",
+   "t": "بيضة طازجة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs frais",
+   "t": "بيضات طازجة"
+  },
+  "ing.oeufs.note": {
+   "fr": "3 par omelette ; jette ceux qui sont fêlés ou cassés, et ne les lave pas (Anses)",
+   "t": "3 بيضات لكل عجة؛ تخلّص من البيض المشقوق أو المكسور، ولا تغسله (Anses)"
+  },
+  "ing.sel.name": {
+   "fr": "sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "فلفل أسود"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "15 g par omelette, pour la cuisson",
+   "t": "15 غ لكل عجة، للطهي"
+  },
+  "ing.1.group": {
+   "fr": "Fines herbes",
+   "t": "الأعشاب العطرية الناعمة"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "بقدونس"
+  },
+  "ing.ciboulette.name": {
+   "fr": "ciboulette",
+   "t": "ثوم معمّر"
+  },
+  "ing.cerfeuil.name": {
+   "fr": "cerfeuil",
+   "t": "مقدونس إفرنجي"
+  },
+  "ing.cerfeuil.note": {
+   "fr": "facultatif, si tu en trouves",
+   "t": "اختياري، إن وجدته"
+  },
+  "ing.estragon.name": {
+   "fr": "estragon",
+   "t": "طرخون"
+  },
+  "ing.estragon.note": {
+   "fr": "facultatif, si tu en trouves",
+   "t": "اختياري، إن وجدته"
+  },
+  "ing.2.group": {
+   "fr": "Pour finir",
+   "t": "للمسة الأخيرة"
+  },
+  "ing.beurre-lustrer.name": {
+   "fr": "beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre-lustrer.note": {
+   "fr": "un petit morceau par omelette, pour la faire briller",
+   "t": "قطعة صغيرة لكل عجة، لتلميعها"
+  },
+  "equipment.0": {
+   "fr": "Un bol par omelette et une fourchette",
+   "t": "وعاء لكل عجة، وشوكة"
+  },
+  "equipment.1": {
+   "fr": "Une petite poêle antiadhésive",
+   "t": "مقلاة صغيرة غير لاصقة"
+  },
+  "equipment.2": {
+   "fr": "Une spatule souple (une fourchette en métal abîme l'antiadhésif)",
+   "t": "ملعقة مسطحة مرنة (فالشوكة المعدنية تُتلف الطبقة غير اللاصقة)"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau bien aiguisé, pour ciseler les herbes",
+   "t": "لوح تقطيع وسكين حادّ جدًا، لتقطيع الأعشاب تقطيعًا دقيقًا"
+  },
+  "equipment.4": {
+   "fr": "Une assiette par omelette",
+   "t": "صحن لكل عجة"
+  },
+  "steps.0.title": {
+   "fr": "Cisèle les herbes",
+   "t": "قطّع الأعشاب تقطيعًا دقيقًا"
+  },
+  "steps.0.text": {
+   "fr": "Cisèle finement le {{persil}}, la {{ciboulette}} et, si tu en as, le {{cerfeuil}} et l'{{estragon}}, avec un couteau bien aiguisé.",
+   "t": "قطّع تقطيعًا دقيقًا البقدونس والثوم المعمّر، والمقدونس الإفرنجي والطرخون إن وُجدا، بسكين حادّ جدًا."
+  },
+  "steps.0.tip": {
+   "fr": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon).",
+   "t": "قطّعها تقطيعًا دقيقًا ولا تفرمها: فالأعشاب المفرومة تعطي العجة «طعم العشب» (Chef Simon)."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.1.title": {
+   "fr": "Casse les œufs",
+   "t": "اكسر البيض"
+  },
+  "steps.1.text": {
+   "fr": "Casse les œufs : 3 par omelette, dans un bol pour chacune ({{oeufs:full}} en tout).",
+   "t": "اكسر البيض: 3 بيضات لكل عجة، في وعاء خاص بكل واحدة ({{oeufs:full}} في المجموع)."
+  },
+  "steps.2.title": {
+   "fr": "Assaisonne et bats",
+   "t": "تبّل واخفق"
+  },
+  "steps.2.text": {
+   "fr": "Dans chaque bol, ajoute le {{sel}}, le {{poivre}} et sa part d'herbes. Bats à la fourchette, sans excès, juste pour bien mêler les blancs et les jaunes.",
+   "t": "في كل وعاء، أضف الملح والفلفل الأسود وحصّته من الأعشاب. اخفق بالشوكة دون إفراط، فقط ليمتزج البياض والصفار جيدًا."
+  },
+  "steps.3.title": {
+   "fr": "Chauffe le beurre",
+   "t": "سخّن الزبدة"
+  },
+  "steps.3.text": {
+   "fr": "Mets 15 g de beurre dans la petite poêle (la part d'une omelette ; {{beurre}} en tout) et chauffe sur feu moyen. Attends qu'il fonde et mousse, sans le laisser brunir.",
+   "t": "ضع 15 غ من الزبدة في المقلاة الصغيرة (حصة عجة واحدة؛ و{{beurre}} في المجموع)، وسخّنها على نار متوسطة. انتظر حتى تذوب وتُزبد، دون أن تتركها تسمرّ."
+  },
+  "steps.3.tip": {
+   "fr": "Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "t": "يفضّل Chef Simon الزبدة المصفّاة، أو خليطًا من الزبدة والزيت."
+  },
+  "steps.4.title": {
+   "fr": "Verse et remue",
+   "t": "اسكب وحرّك"
+  },
+  "steps.4.text": {
+   "fr": "Verse les œufs battus d'un bol dans la poêle chaude. Remue aussitôt avec la spatule, en ramenant vers le centre les bords qui commencent à prendre, pour que l'œuf encore liquide coule et cuise à son tour.",
+   "t": "اسكب البيض المخفوق من وعاء واحد في المقلاة الساخنة. حرّك فورًا بالملعقة المسطحة، مع جرّ الأطراف التي بدأت تتماسك نحو الوسط، كي يسيل البيض الذي لا يزال سائلًا وينضج بدوره."
+  },
+  "steps.5.title": {
+   "fr": "Arrête quand c'est encore baveux",
+   "t": "توقّف والعجة لا تزال مائعة"
+  },
+  "steps.5.text": {
+   "fr": "Arrête de remuer quand l'omelette est presque prise et qu'il reste sur le dessus une fine couche d'œuf encore baveuse. Le dessous doit rester pâle, sans coloration.",
+   "t": "توقّف عن التحريك عندما تكاد العجة تتماسك ولا تزال على سطحها طبقة رقيقة من البيض المائع. يجب أن يبقى وجهها السفلي شاحب اللون، دون تحمير."
+  },
+  "steps.5.tip": {
+   "fr": "La FDA (agence sanitaire américaine) conseille de cuire les œufs jusqu'à ce que le blanc et le jaune soient fermes, et rappelle que les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles risquent plus une salmonellose grave : pour eux, cuis l'omelette jusqu'à ce qu'elle soit bien prise.",
+   "t": "تنصح FDA (الوكالة الصحية الأمريكية) بطهي البيض حتى يتماسك البياض والصفار، وتذكّر بأن الأطفال وكبار السن والنساء الحوامل والأشخاص الضعفاء أكثر عرضة للإصابة الخطيرة بالسالمونيلا: لهؤلاء، اطهِ العجة حتى تتماسك تمامًا."
+  },
+  "steps.6.title": {
+   "fr": "Roule l'omelette",
+   "t": "لفّ العجة"
+  },
+  "steps.6.text": {
+   "fr": "Baisse le feu. Décolle le bord avec la spatule, puis penche la poêle au-dessus de l'assiette : l'omelette roule sur elle-même. Aide-la avec la spatule.",
+   "t": "اخفض النار. افصل الطرف بالملعقة المسطحة، ثم أمِل المقلاة فوق الصحن: فتلتف العجة على نفسها. ساعدها بالملعقة المسطحة."
+  },
+  "steps.7.title": {
+   "fr": "Fais-la briller et sers",
+   "t": "لمّعها وقدّمها"
+  },
+  "steps.7.text": {
+   "fr": "Frotte un petit morceau de {{beurre-lustrer}} sur le dessus pour la faire briller, et sers aussitôt. S'il y a d'autres omelettes, reprends à l'étape « Chauffe le beurre » avec le bol suivant.",
+   "t": "امسح سطحها بقطعة صغيرة من الزبدة لتلميعها، وقدّمها فورًا. وإذا كانت هناك عجات أخرى، فعُد إلى خطوة «سخّن الزبدة» مع الوعاء التالي."
+  },
+  "secrets.0.text": {
+   "fr": "Une omelette, selon Escoffier, ce sont « des œufs brouillés d'un genre spécial enfermés dans une enveloppe d'œufs coagulés » : moelleuse dedans, juste assez prise dehors pour être roulée.",
+   "t": "العجة، حسب Escoffier، هي «بيض مخفوق مطهو من نوع خاص، محاط بغلاف من البيض المتخثّر»: طرية من الداخل، ومتماسكة من الخارج بالقدر الذي يكفي للفّها."
+  },
+  "secrets.0.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903) ; Cuisine et Vins de France, cité par Wikipédia",
+   "t": "Escoffier، Le Guide culinaire (1903)؛ Cuisine et Vins de France، كما نقلت عنه Wikipédia"
+  },
+  "secrets.1.text": {
+   "fr": "Les vraies fines herbes, ce sont le persil, la ciboulette, le cerfeuil et l'estragon. Pour Escoffier, une omelette où le persil est seul n'est pas une omelette aux fines herbes.",
+   "t": "الأعشاب الناعمة الحقيقية (fines herbes) هي البقدونس والثوم المعمّر والمقدونس الإفرنجي والطرخون. وعند Escoffier، العجة التي ليس فيها إلا البقدونس ليست عجة بالأعشاب الناعمة."
+  },
+  "secrets.1.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903) ; Wikipédia (définition reprise par le Larousse gastronomique de 1938)",
+   "t": "Escoffier، Le Guide culinaire (1903)؛ Wikipédia (تعريف اعتمده Larousse gastronomique سنة 1938)"
+  },
+  "secrets.2.text": {
+   "fr": "Les mesures d'Escoffier pour une omelette de 3 œufs : une demi-pincée de sel fin, une prise de poivre, 15 g de beurre et une cuillerée de fines herbes.",
+   "t": "مقادير Escoffier لعجة من 3 بيضات: نصف رشة من الملح الناعم، وقليل من الفلفل، و15 غ من الزبدة، وملعقة من الأعشاب الناعمة."
+  },
+  "secrets.2.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903)",
+   "t": "Escoffier، Le Guide culinaire (1903)"
+  },
+  "secrets.3.text": {
+   "fr": "Cisèle les herbes au couteau au lieu de les hacher, sinon l'omelette prend un « goût de gazon ».",
+   "t": "قطّع الأعشاب بالسكين تقطيعًا دقيقًا بدل فرمها، وإلا اكتسبت العجة «طعم العشب»."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon",
+   "t": "Chef Simon"
+  },
+  "secrets.4.text": {
+   "fr": "Bats peu : quelques coups de fourchette suffisent à mêler les blancs et les jaunes.",
+   "t": "اخفق قليلًا: تكفي بضع حركات بالشوكة لمزج البياض والصفار."
+  },
+  "secrets.4.source": {
+   "fr": "Chef Simon (« sans excès ») ; Jules Gouffé et A. Bautte, cités par Wikipédia",
+   "t": "Chef Simon («دون إفراط»)؛ Jules Gouffé وA. Bautte، كما نقلت عنهما Wikipédia"
+  },
+  "secrets.5.text": {
+   "fr": "Le beurre ne doit jamais brunir. Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "t": "يجب ألا تسمرّ الزبدة أبدًا. ويفضّل Chef Simon الزبدة المصفّاة، أو خليطًا من الزبدة والزيت."
+  },
+  "secrets.5.source": {
+   "fr": "Wikipédia (toutes les autorités demandent du très bon beurre, sans le brûler) ; Chef Simon",
+   "t": "Wikipédia (كل المراجع تطلب زبدة جيدة جدًا، دون حرقها)؛ Chef Simon"
+  },
+  "secrets.6.text": {
+   "fr": "Pas de coloration : l'omelette roulée reste jaune pâle. Chef Simon juge ce point « très important ».",
+   "t": "دون تحمير: تبقى العجة الملفوفة صفراء شاحبة. ويعدّ Chef Simon هذه النقطة «مهمة جدًا»."
+  },
+  "secrets.6.source": {
+   "fr": "Chef Simon ; Wikipédia en anglais, d'après Julia Child (omelette française pas ou très peu dorée)",
+   "t": "Chef Simon؛ Wikipédia بالإنجليزية، نقلًا عن Julia Child (العجة الفرنسية غير محمّرة أو محمّرة قليلًا جدًا)"
+  },
+  "secrets.7.text": {
+   "fr": "La cuisson est rapide : le Larousse définit l'omelette comme des œufs battus « cuits rapidement à la poêle ».",
+   "t": "الطهي سريع: يعرّف Larousse العجة بأنها بيض مخفوق «يُطهى بسرعة في المقلاة»."
+  },
+  "secrets.7.source": {
+   "fr": "Larousse ; Wikipédia (« la cuisson doit rester rapide »)",
+   "t": "Larousse؛ Wikipédia («يجب أن يبقى الطهي سريعًا»)"
+  },
+  "secrets.8.text": {
+   "fr": "Baveuse veut dire assez peu cuite pour que l'intérieur reste moelleux. Mais, rappelle Escoffier, certains la veulent très cuite, d'autres à point : demande à chacun.",
+   "t": "«المائعة» تعني أنها مطهوة قليلًا بما يكفي ليبقى داخلها طريًا. لكن، كما يذكّر Escoffier، بعضهم يريدها مطهوة جيدًا، وآخرون متوسطة النضج: اسأل كل واحد."
+  },
+  "secrets.8.source": {
+   "fr": "Larousse (« baveux ») ; Escoffier ; Chef Simon (baveuse, moelleuse ou bien cuite)",
+   "t": "Larousse («baveux»)؛ Escoffier؛ Chef Simon (مائعة، أو طرية، أو مطهوة جيدًا)"
+  },
+  "secrets.9.text": {
+   "fr": "Une poêle à la bonne taille : trop d'œufs pour la poêle, et l'omelette devient épaisse, mal cuite et dure.",
+   "t": "مقلاة بالحجم المناسب: إذا كان البيض أكثر مما تتسع له المقلاة، صارت العجة سميكة وسيئة الطهي وقاسية."
+  },
+  "secrets.9.source": {
+   "fr": "Wikipédia, d'après Cora Millet-Robinet (1884) ; Il Giornale del Cibo conseille une poêle de 18 à 20 cm",
+   "t": "Wikipédia، نقلًا عن Cora Millet-Robinet (1884)؛ وينصح Il Giornale del Cibo بمقلاة قطرها من 18 إلى 20 سم"
+  },
+  "secrets.10.text": {
+   "fr": "La touche finale des chefs : un peu de beurre sur l'omelette roulée pour la faire briller.",
+   "t": "لمسة الطهاة الأخيرة: قليل من الزبدة على العجة الملفوفة لتلميعها."
+  },
+  "secrets.10.source": {
+   "fr": "Escoffier ; Chef Simon ; Wikipédia (« lustrer », d'après Michel Maincent-Morel)",
+   "t": "Escoffier؛ Chef Simon؛ Wikipédia («التلميع»، نقلًا عن Michel Maincent-Morel)"
+  },
+  "secrets.11.text": {
+   "fr": "Plusieurs convives ? Fais plusieurs omelettes plutôt qu'une trop grosse.",
+   "t": "عدة ضيوف؟ حضّر عدة عجات بدل عجة واحدة كبيرة جدًا."
+  },
+  "secrets.11.source": {
+   "fr": "Jules Gouffé (1873), cité par Wikipédia ; Escoffier prend l'omelette de 3 œufs comme modèle",
+   "t": "Jules Gouffé (1873)، كما نقلت عنه Wikipédia؛ ويتخذ Escoffier العجة المكوّنة من 3 بيضات نموذجًا"
+  },
+  "mistakes.0": {
+   "fr": "Battre trop longtemps les œufs (Chef Simon ; Jules Gouffé, cité par Wikipédia).",
+   "t": "خفق البيض مدة طويلة جدًا (Chef Simon؛ Jules Gouffé، كما نقلت عنه Wikipédia)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser brunir le beurre ou dorer l'omelette (Chef Simon ; Wikipédia).",
+   "t": "ترك الزبدة تسمرّ أو العجة تتحمّر (Chef Simon؛ Wikipédia)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop d'œufs dans une petite poêle : l'omelette devient épaisse et dure (Wikipédia, d'après Cora Millet-Robinet).",
+   "t": "وضع بيض كثير في مقلاة صغيرة: فتصبح العجة سميكة وقاسية (Wikipédia، نقلًا عن Cora Millet-Robinet)."
+  },
+  "mistakes.3": {
+   "fr": "Trop la cuire : elle devient sèche (Wikipédia, d'après Louis Liger).",
+   "t": "الإفراط في طهيها: فتصبح جافة (Wikipédia، نقلًا عن Louis Liger)."
+  },
+  "mistakes.4": {
+   "fr": "Hacher les herbes au lieu de les ciseler (Chef Simon).",
+   "t": "فرم الأعشاب بدل تقطيعها تقطيعًا دقيقًا (Chef Simon)."
+  },
+  "mistakes.5": {
+   "fr": "Ne mettre que du persil et l'appeler « aux fines herbes » (Escoffier).",
+   "t": "وضع البقدونس وحده وتسمية العجة «بالأعشاب الناعمة» (Escoffier)."
+  },
+  "variants.0": {
+   "fr": "Aux champignons : Escoffier ajoute aux œufs 40 g de champignons émincés et sautés au beurre pour une omelette de 3 œufs.",
+   "t": "بالفطر: يضيف Escoffier إلى البيض 40 غ من الفطر المقطّع شرائح رقيقة والمقلي في الزبدة، لعجة من 3 بيضات."
+  },
+  "variants.1": {
+   "fr": "À l'estragon seul, « à la Chartres » : une pincée d'estragon haché dans les œufs (Escoffier).",
+   "t": "بالطرخون وحده، «على طريقة شارتر»: رشة من الطرخون المفروم في البيض (Escoffier)."
+  },
+  "variants.2": {
+   "fr": "À la coriandre : Chef Simon laisse le choix des herbes (ciboulette, cerfeuil ou coriandre).",
+   "t": "بالكزبرة: يترك Chef Simon حرية اختيار الأعشاب (الثوم المعمّر أو المقدونس الإفرنجي أو الكزبرة)."
+  },
+  "variants.3": {
+   "fr": "Plus moelleuse et moins chère avec du lait : pour 4 personnes, Chef Simon remplace ses 9 œufs habituels par 6 œufs et 1,5 dl (150 ml) de lait.",
+   "t": "أكثر طراوة وأقل كلفة بالحليب: لـ4 أشخاص، يستبدل Chef Simon بيضاته الـ9 المعتادة بـ6 بيضات و1.5 ديسيلتر (150 مل) من الحليب."
+  },
+  "variants.4": {
+   "fr": "Pliée en trois, à la manière classique (Wikipédia), ou en deux, à l'anglaise (Great British Chefs), au lieu d'être roulée.",
+   "t": "مطويّة إلى ثلاث طبقات على الطريقة الكلاسيكية (Wikipédia)، أو إلى نصفين على الطريقة الإنجليزية (Great British Chefs)، بدل لفّها."
+  },
+  "variants.5": {
+   "fr": "Au fromage, garniture classique selon Great British Chefs. Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "t": "بالجبن، وهي حشوة كلاسيكية حسب Great British Chefs. وإذا أردت التشدد: جبن مصنوع بمخثّر ميكروبي، دون منفحة حيوانية."
+  }
+ }
+}

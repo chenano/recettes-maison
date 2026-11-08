@@ -1,0 +1,67 @@
+{
+ "slug": "ghriba",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Wikipédia (fr), « Mastic (résine) »",
+   "url": "https://fr.wikipedia.org/wiki/Mastic_(r%C3%A9sine)",
+   "ce_qu_elle_confirme": "Le mastic est une résine du lentisque (Pistacia lentiscus), appelée à tort gomme, employée en pâtisserie : c'est la meska (« المسكة الحرة ») de la ghriba, et non la gomme arabique (exsudat d'acacia), comme l'écrit Taste of Maroc."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "time.cook",
+   "actuel": "15",
+   "propose": "30",
+   "pourquoi": "Les étapes cuisent deux plaques l'une après l'autre, 12 minutes chacune, plus 2 ou 3 minutes si besoin : 24 à 30 minutes de four en tout (calcul). Les 15 minutes de Taste of Maroc et de Choumicha (n° 1399) valent pour une seule fournée.",
+   "gravite": "mineure",
+   "sources": "Étape « Cuire une plaque 12 minutes » de la recette ; Taste of Maroc (Cook Time 15 minutes) ; Choumicha n° 1399 (cuisson 15 min)"
+  },
+  {
+   "champ": "unverified[2]",
+   "actuel": "Si tu cuis les deux plaques l'une après l'autre, compte environ deux fois plus de cuisson.",
+   "propose": "Le temps de cuisson affiché compte les deux plaques, cuites l'une après l'autre.",
+   "pourquoi": "Phrase à mettre en accord avec la correction de time.cook.",
+   "gravite": "mineure",
+   "sources": "Calcul"
+  },
+  {
+   "champ": "region",
+   "actuel": "cite la mlouza, ghriba aux amandes",
+   "propose": "cite la mlouwza (ou mlawza), ghriba aux amandes",
+   "pourquoi": "Wikipédia (fr) écrit « mlouwza / mlawza » ; « mlouza » est la graphie de Cooking with Alia, déjà donnée dans le champ darija.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (fr), « Ghribiya », section Maroc"
+  },
+  {
+   "champ": "unverified[8]",
+   "actuel": "Morocco World News, Le360 et Hespress : non consultés pour la ghriba.",
+   "propose": "Morocco World News, Le360, Hespress, Femmes du Maroc et Al3omk : aucune recette de ghriba aux amandes trouvée à la contre-vérification (Morocco World News et Hespress bloquent les robots ; recherche web indisponible).",
+   "pourquoi": "Ces sites ont été cherchés à la contre-vérification, sans résultat.",
+   "gravite": "mineure",
+   "sources": "Pages de recherche de Femmes du Maroc et d'Al3omk ; plans du site (sitemaps) de Le360 ; index de web.archive.org pour Morocco World News"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Choix de la version sans farine (mlouza) : c'est la plus documentée (Bladi.net « Ghribas aux amandes » ; Lalla Moulati n° 61802, 209123, 111678, 76294 et 65048 ; Taste of Maroc ; Cooking with Alia n° 566, 408 et 354 ; Choumicha n° 65 et 1403) ; avec farine : Choumicha n° 1399 (recopiée par Lalla Moulati n° 42810) et 3 cuillerées chez Lalla Moulati n° 166643 ; Wikipédia (fr) décrit la mlouwza marocaine comme une ghriba d'amandes et de sucre.",
+  "Quantités pour 500 g d'amandes, relues sur chaque page : 250 g de sucre (Bladi.net ; Lalla Moulati n° 76294, 209123 et 111678 ; Choumicha n° 65 et 1399), 3 jaunes et 1 œuf (Bladi.net ; Lalla Moulati n° 61802, 209123 et 76294), 2 c. à s. de beurre, 1 c. à c. de levure, zeste de 1 citron, 1 pincée de mastic et de sel. Médianes et conversions de l'auteur recalculées avec python3 : justes (513 g, 19,8 g, 3 cm, 7,6 cm ; pâte d'environ 890 g, soit 42 à 45 boules de 20 à 21 g).",
+  "Cuisson à 180 °C pendant 12 minutes, plus 2 ou 3 minutes si besoin : Choumicha n° 65 (12 min) et n° 1399 et 1403 (12 à 15 min), Taste of Maroc (au moins 12 min, chaleur tournante), Cooking with Alia (environ 15 min). Choumicha n° 1403 cuit ainsi une pâte encore plus riche en œufs (4 œufs et 12 cl d'huile pour 750 g de fruits secs) : le choix tient. Le repère visuel (dessus craquelé, sucre presque pas coloré) est sourcé (Taste of Maroc ; Lalla Moulati n° 209123 ; Cooking with Alia n° 408).",
+  "Œufs crus : ils sont cuits dans les ghriba (boules d'environ 20 g, 12 à 15 min à 180 °C) ; aucune étape ne fait goûter la pâte crue.",
+  "Mastic et non gomme arabique, pilé avec un peu de sucre, « ingrédient secret » de la ghriba : Taste of Maroc (Nada Kiffa) ; Wikipédia (fr) « Mastic (résine) » ; Lalla Moulati (« المسكة الحرة ») ; Bladi.net et Cooking with Alia disent « gomme arabique » à tort.",
+  "Halal : l'extrait d'amande facultatif de Taste of Maroc et la vanille de Lalla Moulati n° 209123 sont bien écartés ; ni alcool, ni porc.",
+  "Gestes et secrets : amandes mondées 1 à 2 min dans l'eau bouillante, pelées et bien séchées, pas de poudre toute prête ; ne pas trop travailler la pâte ; mains humides (fleur d'oranger ou eau) ; boules d'environ 20 g et 3 cm ; sucre glace dessus et sur les côtés ; 3 pouces (7,6 cm) d'écart ; pouce au centre ; essai de quelques ghriba ; refroidir sur la plaque ; papier entre les couches : Taste of Maroc ; Cooking with Alia n° 566, 408 et 692 ; Choumicha n° 65, 1399 et 1403 ; Lalla Moulati n° 111678, 209123 et 65048.",
+  "Variantes (Taste of Maroc : 500 g d'amandes, 200 g de sucre, carte métrique ; Choumicha n° 1399, 65 et 1403 ; Bladi.net à la semoule et au blanc d'œuf ; Lalla Moulati n° 61802, 209123, 111678 et 65048) : quantités, températures et durées conformes aux pages.",
+  "Conservation : deux bonnes semaines en boîte hermétique, plusieurs mois au congélateur, 15 minutes avant de servir : Taste of Maroc (seule source, comme l'indique l'auteur).",
+  "Noms et occasions : غريبة اللوز (Cooking with Alia) ; الملوزة (Lalla Moulati n° 111678) ; mlewza et ghrieba d'ellouz, servie à chaque mariage (Taste of Maroc) ; Aïd al-Fitr et Mouloud (catégories de Choumicha) ; Aïd et fêtes (Lalla Moulati n° 209123) ; thé à la menthe (Cooking with Alia ; Wikipédia fr).",
+  "Minuteur de 12 min identique au texte ; quantités des étapes identiques à la liste.",
+  "Rendu dans l'appli (copie des fonctions de app.html, exécutée avec node) : 40 pièces : 500 g, 250 g, 1 pincée, 3 jaunes d'œufs, 1 œuf entier moyen, 1 citron, 1 c. à c., 2 c. à s. ; 80 pièces : 1 kg, 500 g, 2 pincées, 6 jaunes d'œufs, 2 œufs entiers moyens, 2 citrons, 2 c. à c., 4 c. à s. ; {{jaunes:full}}, {{oeuf:full}} et {{citron:full}} donnent bien la quantité puis le nom, au pluriel au-delà de 1. À 1 pièce, l'appli affiche ses minimums (13 g, ¼ jaune, ¼ œuf, ¼ citron, ⅛ c. à c.) : limite de l'appli, sans conséquence pour une recette de 40 pièces.",
+  "Liens : toutes les sources répondent (200), Taste of Maroc et Choumicha par leurs copies web.archive.org (Taste of Maroc refuse les robots en direct, choumicha.ma est hors ligne) ; aucun robots.txt n'interdit ces pages."
+ ],
+ "non_verifiable": [
+  "Source marocaine non citée par l'auteur : aucune trouvée pour la ghriba aux amandes. Femmes du Maroc, Al3omk, H24info, Alyaoum24 et Febrayer : aucun résultat ; Le360 : rien dans les plans du site (rubrique lifestyle en français ; adresses opaques en arabe), et sa page de recherche est interdite aux robots ; Morocco World News : rien dans l'index de web.archive.org ; Hespress : bloque les robots, et l'index de web.archive.org a renvoyé des erreurs 502 et 504 ; SNRT News et Hibapress interdisent les robots de Claude ; 2M, Le Matin et Medias24 renvoient 403. La recherche web était épuisée.",
+  "Nombre de plaques : avec 8 cm d'écart, une plaque d'environ 30 × 40 cm ne tient qu'une douzaine de boules de 3 cm (calcul ; taille de plaque non sourcée). Pour 40 pièces, il faudra peut-être plus de deux fournées, donc plus de cuisson que les 30 minutes proposées.",
+  "Cuisson à cœur des œufs dans ces petits gâteaux : aucune source officielle chiffrée lue (recherche web épuisée, pages de l'agence américaine CDC introuvables).",
+  "Conservation : une seule source (Taste of Maroc), comme l'indique déjà l'auteur.",
+  "Nombre de 40 pièces : rendement de Taste of Maroc pour une pâte proche, recoupé par le calcul du poids de la pâte (avec des poids d'œufs moyens, non mesurés)."
+ ]
+}

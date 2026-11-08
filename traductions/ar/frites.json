@@ -1,0 +1,466 @@
+{
+ "_slug": "frites",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Frites maison",
+   "t": "البطاطس المقلية المنزلية"
+  },
+  "darija": {
+   "fr": "btata mqliya, ou « frit »",
+   "t": "بطاطا مقلية، أو «فريت»"
+  },
+  "tagline": {
+   "fr": "Croustillantes dehors, fondantes dedans : les frites maison cuites deux fois, comme dans les friteries belges.",
+   "t": "مقرمشة من الخارج، طرية من الداخل: بطاطس مقلية منزلية تُقلى مرتين، كما في محلات القلي البلجيكية."
+  },
+  "region": {
+   "fr": "Belgique et nord de la France : les deux pays se disputent son origine (Wikipédia). En Belgique, la culture des friteries (le « fritkot ») est reconnue patrimoine culturel immatériel par la Communauté flamande (2014), la Fédération Wallonie-Bruxelles (2016), puis la Communauté germanophone et la Région de Bruxelles-Capitale (2017) (Navefri-Unafri, union nationale des frituristes).",
+   "t": "بلجيكا وشمال فرنسا: يتنازع البلدان أصلها (Wikipédia). وفي بلجيكا، اعترفت بثقافة محلات القلي («fritkot») تراثًا ثقافيًا غير مادي كلٌّ من Communauté flamande (2014)، وFédération Wallonie-Bruxelles (2016)، ثم Communauté germanophone وRégion de Bruxelles-Capitale (2017) (Navefri-Unafri، الاتحاد الوطني لأصحاب محلات القلي)."
+  },
+  "occasion": {
+   "fr": "Accompagnement de tous les jours : steak, poulet, poisson, boulettes. En Belgique et en France, ce sont le steak-frites et les moules-frites (Wikipédia, VLAM) ; au Maroc, les frites accompagnent aussi des plats, par exemple posées sur le poulet en sauce (Bladi.net). Chaque année en novembre, la Belgique fête la frite : Semaine de la Frite en Wallonie, Week van de Friet en Flandre (Apaq-W, VLAM).",
+   "t": "طبق جانبي يومي: مع شرائح اللحم، والدجاج، والسمك، وكرات اللحم. وفي بلجيكا وفرنسا، هناك شريحة اللحم بالبطاطس المقلية وبلح البحر بالبطاطس المقلية (Wikipédia، VLAM)؛ وفي المغرب، ترافق البطاطس المقلية أيضًا بعض الأطباق، فتوضع مثلًا فوق الدجاج بالمرق (Bladi.net). وفي نوفمبر من كل عام، تحتفل بلجيكا بالبطاطس المقلية: Semaine de la Frite في والونيا، وWeek van de Friet في فلاندرز (Apaq-W، VLAM)."
+  },
+  "img_alt": {
+   "fr": "Frites maison dorées, coupées en gros bâtonnets, sur une assiette",
+   "t": "بطاطس مقلية منزلية ذهبية، مقطّعة أصابع غليظة، في صحن"
+  },
+  "serving": {
+   "fr": "Sers les frites aussitôt, brûlantes et sans les couvrir, fournée après fournée (Chef Simon, Meilleur du Chef). En Belgique, on les mange en cornet ou en barquette, avec de la mayonnaise, la sauce préférée des Belges (Apaq-W, VLAM, Wikipédia) ; ketchup et moutarde sont aussi classiques (Wikipédia). Elles accompagnent le steak, les moules ou les boulettes (Wikipédia, VLAM), et au Maroc, par exemple, le poulet en sauce (Bladi.net). Écarte les frites trop brunes (Anses), et garde-les pour le plaisir : l'Anses conseille une alimentation modérée en aliments gras et frits.",
+   "t": "قدّم البطاطس فورًا، ساخنة جدًا ودون تغطية، دفعة بعد دفعة (Chef Simon، Meilleur du Chef). وفي بلجيكا، تؤكل في قرطاس أو في علبة صغيرة، مع المايونيز، الصلصة المفضلة لدى البلجيكيين (Apaq-W، VLAM، Wikipédia)؛ والكاتشب والخردل كلاسيكيان أيضًا (Wikipédia). وترافق شرائح اللحم أو بلح البحر أو كرات اللحم (Wikipédia، VLAM)، وفي المغرب مثلًا، الدجاج بالمرق (Bladi.net). استبعد الأصابع البنية أكثر من اللازم (Anses)، واجعلها متعة عرضية: فـAnses تنصح بالاعتدال في تناول الأطعمة الدهنية والمقلية."
+  },
+  "ing.0.group": {
+   "fr": "Frites",
+   "t": "البطاطس المقلية"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair farineuse",
+   "t": "بطاطس ذات لب دقيقي"
+  },
+  "ing.pdt.note": {
+   "fr": "type Bintje ou Agria",
+   "t": "من نوع Bintje أو Agria"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture (tournesol ou arachide)",
+   "t": "زيت نباتي للقلي (دوار الشمس أو الفول السوداني)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour que les frites nagent ; 100 % végétale : ni saindoux, ni graisse de bœuf non certifiée halal ; si quelqu'un est allergique à l'arachide, prends du tournesol (l'arachide est un allergène, règlement UE 1169/2011)",
+   "t": "بكمية تكفي لتسبح فيها البطاطس؛ نباتي 100 %: لا شحم خنزير، ولا شحم بقر غير معتمد حلالًا؛ وإذا كان أحد يعاني من حساسية الفول السوداني، فاستعمل زيت دوار الشمس (الفول السوداني من مسبّبات الحساسية، لائحة الاتحاد الأوروبي 1169/2011)"
+  },
+  "ing.sel.name": {
+   "fr": "sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "equipment.0": {
+   "fr": "Une friteuse électrique avec thermostat : c'est le plus sûr (London Fire Brigade, gouvernement du Québec)",
+   "t": "قلاية كهربائية بمنظّم حرارة: هي الأكثر أمانًا (London Fire Brigade، حكومة كيبيك)"
+  },
+  "equipment.1": {
+   "fr": "À défaut : une casserole profonde, un thermomètre de cuisson et une écumoire (casserole remplie au tiers au plus) ; le gouvernement du Québec déconseille la casserole et les pompiers de Cambridgeshire conseillent plutôt le four",
+   "t": "وإن لم تتوفر: طنجرة عميقة، وميزان حرارة للطبخ، ومغرفة مثقوبة (لا تُملأ الطنجرة بأكثر من الثلث)؛ لكن حكومة كيبيك لا تنصح بالطنجرة، ورجال الإطفاء في كامبريدجشير ينصحون بالفرن بدلًا منها"
+  },
+  "equipment.2": {
+   "fr": "Un couvercle (ou une plaque) assez grand pour couvrir la friteuse ou la casserole, toujours à portée de main",
+   "t": "غطاء (أو صفيحة) كبير بما يكفي لتغطية القلاية أو الطنجرة، في متناول اليد دائمًا"
+  },
+  "equipment.3": {
+   "fr": "Un économe et un grand couteau, ou un coupe-frites",
+   "t": "مقشّرة خضر وسكين كبير، أو آلة تقطيع البطاطس"
+  },
+  "equipment.4": {
+   "fr": "Une planche à découper",
+   "t": "لوح تقطيع"
+  },
+  "equipment.5": {
+   "fr": "Un grand saladier d'eau froide",
+   "t": "وعاء كبير من الماء البارد"
+  },
+  "equipment.6": {
+   "fr": "Des torchons propres et secs, et du papier absorbant",
+   "t": "مناشف نظيفة وجافة، وورق ماص"
+  },
+  "equipment.7": {
+   "fr": "Une grande plaque ou un grand plat pour le repos des frites",
+   "t": "صينية كبيرة أو طبق كبير لراحة البطاطس"
+  },
+  "equipment.8": {
+   "fr": "Un minuteur",
+   "t": "مؤقّت"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "قشّر البطاطس"
+  },
+  "steps.0.text": {
+   "fr": "Lave {{pdt:full}} si elles sont terreuses, puis épluche-les à l'économe. Retire les taches et les germes. Au fur et à mesure, mets-les dans un grand saladier d'eau froide.",
+   "t": "اغسل {{pdt:full}} إن كان عليها تراب، ثم قشّرها بمقشّرة الخضر. أزل البقع والبراعم. وضعها أولًا بأول في وعاء كبير من الماء البارد."
+  },
+  "steps.0.tip": {
+   "fr": "L'eau froide les empêche de noircir en attendant (Meilleur du Chef) ; Chef Simon les garde aussi dans l'eau froide avant de les tailler.",
+   "t": "الماء البارد يمنعها من الاسوداد في أثناء الانتظار (Meilleur du Chef)؛ ويحفظها Chef Simon أيضًا في الماء البارد قبل تقطيعها."
+  },
+  "steps.1.title": {
+   "fr": "Taille les bâtonnets",
+   "t": "قطّع الأصابع"
+  },
+  "steps.1.text": {
+   "fr": "Coupe chaque pomme de terre en tranches d'1 cm d'épaisseur, puis chaque tranche en bâtonnets d'1 cm de côté, bien réguliers. Remets-les dans l'eau froide.",
+   "t": "قطّع كل حبة بطاطس إلى شرائح بسُمك 1 سم، ثم كل شريحة إلى أصابع مقطعها 1 سم، متساوية جيدًا. أعدها إلى الماء البارد."
+  },
+  "steps.1.tip": {
+   "fr": "C'est la taille « pont-neuf », la frite classique (Escoffier, Chef Simon, Meilleur du Chef). Les frituristes belges la comparent à une réglette d'1 cm (Navefri-Unafri). Tu peux aussi utiliser un coupe-frites à grille de 1 cm (Wikipédia).",
+   "t": "هذا هو تقطيع «pont-neuf»، أصابع البطاطس الكلاسيكية (Escoffier، Chef Simon، Meilleur du Chef). ويشبّهها أصحاب محلات القلي البلجيكيون بمسطرة صغيرة عرضها 1 سم (Navefri-Unafri). ويمكنك أيضًا استعمال آلة تقطيع البطاطس بشبكة 1 سم (Wikipédia)."
+  },
+  "steps.2.title": {
+   "fr": "Rince à l'eau froide",
+   "t": "اشطفها بالماء البارد"
+  },
+  "steps.2.text": {
+   "fr": "Égoutte les bâtonnets et rince-les bien sous l'eau froide, pour enlever l'excès d'amidon.",
+   "t": "صفِّ الأصابع واشطفها جيدًا تحت الماء البارد، لإزالة النشا الزائد."
+  },
+  "steps.2.tip": {
+   "fr": "Si tu as le temps, laisse-les d'abord tremper dans l'eau froide, puis rince-les à l'eau propre : le règlement européen sur l'acrylamide (2017/2158) demande aux restaurants, quand c'est possible, de les faire tremper de préférence 30 minutes à 2 heures dans l'eau froide (ou quelques minutes dans l'eau chaude), puis de les rincer, pour réduire leurs sucres ; l'agence irlandaise (FSAI) conseille aussi aux particuliers de les faire tremper, puis de bien les égoutter.",
+   "t": "إن كان لديك وقت، فانقعها أولًا في الماء البارد، ثم اشطفها بماء نظيف: فاللائحة الأوروبية بشأن الأكريلاميد (2017/2158) تطلب من المطاعم، متى أمكن، نقعها ويُفضَّل من 30 دقيقة إلى 2 ساعة في الماء البارد (أو بضع دقائق في الماء الساخن)، ثم شطفها، لتقليل سكرياتها؛ وتنصح الوكالة الأيرلندية (FSAI) الأفراد أيضًا بنقعها، ثم تصفيتها جيدًا."
+  },
+  "steps.3.title": {
+   "fr": "Sèche-les soigneusement",
+   "t": "جفّفها بعناية"
+  },
+  "steps.3.text": {
+   "fr": "Étale les frites sur un torchon propre et sec et tamponne-les bien, sur toutes les faces. Finis au papier absorbant si besoin : elles doivent être bien sèches.",
+   "t": "افرد الأصابع على منشفة نظيفة وجافة، وربّت عليها جيدًا من كل الجهات. وأكمل بالورق الماص عند الحاجة: يجب أن تكون جافة تمامًا."
+  },
+  "steps.3.tip": {
+   "fr": "C'est aussi une question de sécurité : l'eau fait bouillonner l'huile, qui peut déborder (pompiers de Cambridgeshire, London Fire Brigade). Elle fait aussi baisser la température de l'huile (Wikipédia).",
+   "t": "وهي أيضًا مسألة أمان: فالماء يجعل الزيت يفور، وقد يفيض (رجال الإطفاء في كامبريدجشير، London Fire Brigade). كما يخفض حرارة الزيت (Wikipédia)."
+  },
+  "steps.4.title": {
+   "fr": "Chauffe l'huile à 140 °C",
+   "t": "سخّن الزيت إلى 140 درجة مئوية"
+  },
+  "steps.4.text": {
+   "fr": "Remplis la friteuse d'{{huile}} comme l'indique sa notice et règle-la sur 140 °C. Sans friteuse, prends une casserole profonde : remplis-la au tiers au plus et contrôle la température avec un thermomètre de cuisson. Pose un couvercle adapté à portée de main. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "املأ القلاية بزيت القلي حسب تعليمات دليلها، واضبطها على 140 درجة مئوية. وإن لم تكن لديك قلاية، فخذ طنجرة عميقة: املأها إلى الثلث على الأكثر، وراقب الحرارة بميزان حرارة للطبخ. ضع غطاءً مناسبًا في متناول يدك. ومن الآن فصاعدًا، لا تُبعد عينيك عن الزيت."
+  },
+  "steps.4.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "إذا اشتعل الزيت: لا ماء أبدًا، ولا تحرّك الوعاء. وإن استطعت ذلك دون خطر، فأوقف التسخين وضع الغطاء فوقه، ثم اترك الوعاء يبرد 30 دقيقة على الأقل دون أن تلمسه. وإلا فاخرج، وأغلق الباب، واتصل برجال الإطفاء. واتصل بهم أيضًا إذا بدا أن النار انطفأت: فربما امتدت إلى مجرى الشفّاط (حكومة كيبيك، USFA، London Fire Brigade، رجال الإطفاء في كامبريدجشير)."
+  },
+  "steps.5.title": {
+   "fr": "Première cuisson",
+   "t": "اقلِ البطاطس للمرة الأولى"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'huile est à 140 °C, plonge une première fournée, panier rempli à moitié au plus. Laisse cuire 7 minutes environ. Les frites doivent devenir molles, sans prendre de couleur.",
+   "t": "عندما تبلغ حرارة الزيت 140 درجة مئوية، اغمر الدفعة الأولى، والسلة مملوءة إلى النصف على الأكثر. اتركها تنضج نحو 7 دقائق. يجب أن تصير البطاطس طرية، دون أن يتغير لونها."
+  },
+  "steps.5.tip": {
+   "fr": "Ce premier bain « poche » les frites et chasse leur humidité (Navefri-Unafri). Si elles colorent déjà, l'huile est trop chaude.",
+   "t": "هذا القلي الأول «يسلق» البطاطس ويطرد رطوبتها (Navefri-Unafri). وإذا بدأ لونها يتغير، فالزيت ساخن جدًا."
+  },
+  "steps.5.timer.label": {
+   "fr": "Première cuisson",
+   "t": "القلي الأول"
+  },
+  "steps.5.timer.done": {
+   "fr": "Sors le panier : les frites doivent être molles et encore pâles.",
+   "t": "أخرج السلة: يجب أن تكون البطاطس طرية وما زالت شاحبة."
+  },
+  "steps.5.img.alt": {
+   "fr": "Frites encore pâles qui cuisent dans un panier plongé dans l'huile, sur le feu",
+   "t": "أصابع بطاطس ما زالت شاحبة تُقلى في سلة مغمورة في الزيت، على النار"
+  },
+  "steps.5.img.caption": {
+   "fr": "Les frites dans le bain d'huile",
+   "t": "البطاطس في حمّام الزيت"
+  },
+  "steps.6.title": {
+   "fr": "Égoutte et continue",
+   "t": "صفِّها وتابع"
+  },
+  "steps.6.text": {
+   "fr": "Sors le panier, secoue-le et étale les frites sur du papier absorbant. Attends que l'huile revienne à 140 °C, puis fais cuire les autres fournées de la même façon.",
+   "t": "أخرج السلة، وانفضها، وافرد البطاطس على ورق ماص. انتظر حتى تعود حرارة الزيت إلى 140 درجة مئوية، ثم اقلِ باقي الدفعات بالطريقة نفسها."
+  },
+  "steps.6.tip": {
+   "fr": "Un panier trop plein fait chuter la température de l'huile : les frites collent et deviennent grasses (Wikipédia, FSA).",
+   "t": "السلة الممتلئة أكثر من اللازم تُخفض حرارة الزيت: فتلتصق البطاطس وتصير مشبعة بالدهن (Wikipédia، FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Laisse reposer",
+   "t": "اتركها ترتاح"
+  },
+  "steps.7.text": {
+   "fr": "Laisse les frites refroidir complètement à l'air libre, environ 30 minutes. Elles peuvent attendre jusqu'à 1 à 2 heures. Si tu quittes la cuisine, éteins la friteuse.",
+   "t": "اترك البطاطس تبرد تمامًا مكشوفة في الهواء، نحو 30 دقيقة. ويمكنها أن تنتظر حتى 1 إلى 2 ساعة. وإذا غادرت المطبخ، فأطفئ القلاية."
+  },
+  "steps.7.tip": {
+   "fr": "Pendant ce repos, une fine croûte se forme (Semaine de la Frite). Et plus les frites ont refroidi, plus le choc de chaleur du second bain est fort : elles saisissent vite et deviennent croustillantes et dorées (Navefri-Unafri).",
+   "t": "خلال هذه الراحة، تتكوّن قشرة رقيقة (Semaine de la Frite). وكلما بردت البطاطس أكثر، كانت صدمة الحرارة في القلي الثاني أقوى: فتتحمّر بسرعة وتصير مقرمشة وذهبية (Navefri-Unafri)."
+  },
+  "steps.8.title": {
+   "fr": "Monte l'huile à 175 °C",
+   "t": "ارفع حرارة الزيت إلى 175 درجة مئوية"
+  },
+  "steps.8.text": {
+   "fr": "Juste avant de servir, règle la friteuse sur 175 °C, pas plus ; avec une casserole, surveille le thermomètre. Si l'huile fume, elle est trop chaude : coupe le chauffage et laisse-la refroidir.",
+   "t": "قبيل التقديم، اضبط القلاية على 175 درجة مئوية، لا أكثر؛ ومع الطنجرة، راقب ميزان الحرارة. وإذا تصاعد الدخان من الزيت، فهو ساخن جدًا: أوقف التسخين واتركه يبرد."
+  },
+  "steps.8.tip": {
+   "fr": "Au-delà de 175 °C, la quantité d'acrylamide dans les frites peut fortement augmenter (EFSA). C'est aussi le plafond fixé par l'Europe pour les restaurants (règlement 2017/2158) et par l'agence irlandaise de sécurité des aliments (FSAI).",
+   "t": "فوق 175 درجة مئوية، قد تزداد كمية الأكريلاميد في البطاطس المقلية كثيرًا (EFSA). وهذا أيضًا الحد الأقصى الذي حدّدته أوروبا للمطاعم (اللائحة 2017/2158) والوكالة الأيرلندية لسلامة الأغذية (FSAI)."
+  },
+  "steps.9.title": {
+   "fr": "Seconde cuisson",
+   "t": "اقلِها للمرة الثانية"
+  },
+  "steps.9.text": {
+   "fr": "Plonge une fournée, toujours panier à moitié au plus, et compte 2 minutes. Les frites doivent être croustillantes et jaune doré. Sinon, prolonge un peu en surveillant la couleur, et sors-les dès qu'elles sont jaune doré.",
+   "t": "اغمر دفعة، والسلة دائمًا مملوءة إلى النصف على الأكثر، واحسب 2 دقيقة. يجب أن تصير البطاطس مقرمشة وصفراء ذهبية. وإلا فأطِل القلي قليلًا مع مراقبة اللون، وأخرجها فور أن تصير صفراء ذهبية."
+  },
+  "steps.9.tip": {
+   "fr": "Vise le jaune doré, pas le brun : plus une frite brunit, plus elle contient d'acrylamide, une substance qui pourrait augmenter le risque de cancer (FSA, EFSA, règlement UE 2017/2158).",
+   "t": "استهدف اللون الأصفر الذهبي، لا البني: فكلما ازداد اسمرار البطاطس، زاد ما فيها من الأكريلاميد، وهي مادة قد تزيد خطر الإصابة بالسرطان (FSA، EFSA، لائحة الاتحاد الأوروبي 2017/2158)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Seconde cuisson",
+   "t": "القلي الثاني"
+  },
+  "steps.9.timer.done": {
+   "fr": "Regarde la couleur : jaune doré ? Sors-les tout de suite.",
+   "t": "انظر إلى اللون: أصفر ذهبي؟ أخرجها فورًا."
+  },
+  "steps.10.title": {
+   "fr": "Secoue et sale",
+   "t": "انفضها وملّحها"
+  },
+  "steps.10.text": {
+   "fr": "Sors le panier et secoue-le bien au-dessus de l'huile. Verse les frites sur du papier absorbant et sale-les aussitôt avec un peu de {{sel}}, pendant qu'elles sont brûlantes. Ne les couvre pas.",
+   "t": "أخرج السلة وانفضها جيدًا فوق الزيت. أفرغ البطاطس على ورق ماص، وملّحها فورًا بقليل من الملح الناعم وهي ساخنة جدًا. لا تغطّها."
+  },
+  "steps.10.tip": {
+   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
+   "t": "نفض السلة يُسقط الزيت العالق بالسطح: وتتحدث FSA عن دهون ممتصة أقل بنسبة 20 %. وفي محلات القلي البلجيكية، يُنفض الوعاء ويُطرق لتصفيتها (Wikipédia)."
+  },
+  "steps.11.title": {
+   "fr": "Cuis les autres fournées",
+   "t": "اقلِ باقي الدفعات"
+  },
+  "steps.11.text": {
+   "fr": "Laisse l'huile remonter à 175 °C, puis fais cuire les autres fournées de la même façon. Sers chaque fournée dès qu'elle est prête.",
+   "t": "اترك حرارة الزيت تعود إلى 175 درجة مئوية، ثم اقلِ باقي الدفعات بالطريقة نفسها. قدّم كل دفعة فور جاهزيتها."
+  },
+  "steps.12.title": {
+   "fr": "Éteins et laisse refroidir l'huile",
+   "t": "أطفئ القلاية واترك الزيت يبرد"
+  },
+  "steps.12.text": {
+   "fr": "Éteins la friteuse dès la dernière fournée sortie. Laisse l'huile refroidir complètement avant de la déplacer ou de la filtrer.",
+   "t": "أطفئ القلاية فور إخراج آخر دفعة. اترك الزيت يبرد تمامًا قبل نقله أو تصفيته."
+  },
+  "steps.12.tip": {
+   "fr": "Filtre l'huile refroidie, garde-la dans un récipient fermé et change-la souvent (Chef Simon : toutes les 4 à 7 utilisations). Évite d'y frire du poisson : l'huile garde les goûts (Chef Simon).",
+   "t": "صفِّ الزيت بعد أن يبرد، واحفظه في وعاء مغلق، وغيّره كثيرًا (Chef Simon: كل 4 إلى 7 استعمالات). وتجنّب قلي السمك فيه: فالزيت يحتفظ بالنكهات (Chef Simon)."
+  },
+  "steps.13.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّم فورًا"
+  },
+  "steps.13.text": {
+   "fr": "Sers les frites tout de suite, bien chaudes, avec la sauce de ton choix : mayonnaise, ketchup ou moutarde.",
+   "t": "قدّم البطاطس فورًا وهي ساخنة جدًا، مع الصلصة التي تختارها: مايونيز، أو كاتشب، أو خردل."
+  },
+  "steps.13.tip": {
+   "fr": "Écarte les frites trop brunes ou brûlées : ce sont les plus riches en acrylamide (Anses).",
+   "t": "استبعد الأصابع البنية أكثر من اللازم أو المحترقة: فهي الأغنى بالأكريلاميد (Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Prends une pomme de terre à chair farineuse, comme la Bintje : riche en amidon, elle donne des frites dorées et croustillantes.",
+   "t": "اختر بطاطس ذات لب دقيقي، مثل Bintje: فهي غنية بالنشا، وتعطي أصابع ذهبية ومقرمشة."
+  },
+  "secrets.0.source": {
+   "fr": "VLAM (Lekker van bij ons), Navefri-Unafri, Semaine de la Frite (Apaq-W), Frietmuseum de Bruges, Wikipédia",
+   "t": "VLAM (Lekker van bij ons)، Navefri-Unafri، Semaine de la Frite (Apaq-W)، Frietmuseum de Bruges، Wikipédia"
+  },
+  "secrets.1.text": {
+   "fr": "Taille des bâtonnets d'1 cm de côté, bien réguliers : c'est la frite « pont-neuf », le « type fondamental des pommes de terre frites » selon Escoffier.",
+   "t": "قطّع أصابع مقطعها 1 سم، متساوية جيدًا: هذه هي أصابع «pont-neuf»، «النوع الأساسي للبطاطس المقلية» حسب Escoffier."
+  },
+  "secrets.1.source": {
+   "fr": "Escoffier (Le Guide culinaire, 1903), Chef Simon, Meilleur du Chef, Navefri-Unafri, Wikipédia",
+   "t": "Escoffier (Le Guide culinaire، 1903)، Chef Simon، Meilleur du Chef، Navefri-Unafri، Wikipédia"
+  },
+  "secrets.2.text": {
+   "fr": "Rince les frites à l'eau froide pour enlever l'excès d'amidon, puis sèche-les très bien : c'est l'un des secrets des fabricants belges de frites fraîches.",
+   "t": "اشطف الأصابع بالماء البارد لإزالة النشا الزائد، ثم جفّفها جيدًا جدًا: هذا من أسرار المصنّعين البلجيكيين للبطاطس المقلية الطازجة."
+  },
+  "secrets.2.source": {
+   "fr": "Navefri-Unafri (« L'art des bonnes frites »), VLAM, Chef Simon, Meilleur du Chef",
+   "t": "Navefri-Unafri («L'art des bonnes frites»)، VLAM، Chef Simon، Meilleur du Chef"
+  },
+  "secrets.3.text": {
+   "fr": "La double cuisson : un premier bain doux cuit l'intérieur sans colorer, un second bain plus chaud forme la croûte dorée et croustillante.",
+   "t": "القلي المزدوج: قلي أول على حرارة معتدلة يُنضج الداخل دون تلوين، وقلي ثانٍ أكثر حرارة يكوّن القشرة الذهبية المقرمشة."
+  },
+  "secrets.3.source": {
+   "fr": "Navefri-Unafri, VLAM, Semaine de la Frite (Apaq-W), Chef Simon, Meilleur du Chef, Frietmuseum de Bruges",
+   "t": "Navefri-Unafri، VLAM، Semaine de la Frite (Apaq-W)، Chef Simon، Meilleur du Chef، Frietmuseum de Bruges"
+  },
+  "secrets.4.text": {
+   "fr": "Laisse bien refroidir les frites entre les deux bains : une fine croûte se forme, et le choc de chaleur du second bain, plus fort sur des frites bien refroidies, les saisit vite : elles deviennent croustillantes et dorées.",
+   "t": "اترك البطاطس تبرد جيدًا بين القليتين: فتتكوّن قشرة رقيقة، وصدمة الحرارة في القلي الثاني، وهي أقوى على بطاطس باردة جيدًا، تحمّرها بسرعة: فتصير مقرمشة وذهبية."
+  },
+  "secrets.4.source": {
+   "fr": "VLAM, Semaine de la Frite (Apaq-W), Navefri-Unafri",
+   "t": "VLAM، Semaine de la Frite (Apaq-W)، Navefri-Unafri"
+  },
+  "secrets.5.text": {
+   "fr": "Tu reçois ? Fais la première cuisson 1 à 2 heures à l'avance, et la seconde juste avant de servir.",
+   "t": "لديك ضيوف؟ اقلِ القلية الأولى قبل 1 إلى 2 ساعة، والثانية قبيل التقديم."
+  },
+  "secrets.5.source": {
+   "fr": "Meilleur du Chef (1 à 2 heures), Navefri-Unafri (« quelques heures » possibles entre les deux bains)",
+   "t": "Meilleur du Chef (من 1 إلى 2 ساعة)، Navefri-Unafri (يمكن أن تمر «بضع ساعات» بين القليتين)"
+  },
+  "secrets.6.text": {
+   "fr": "« Une bonne frite doit successivement nager, chanter et, enfin, sauter » : beaucoup d'huile pour peu de frites, et un panier jamais plus qu'à moitié plein.",
+   "t": "«البطاطس المقلية الجيدة يجب أن تسبح، ثم تغني، ثم تقفز أخيرًا»: زيت كثير لبطاطس قليلة، وسلة لا تُملأ أبدًا بأكثر من النصف."
+  },
+  "secrets.6.source": {
+   "fr": "Bernard Lefèvre, président de l'Unafri (Navefri-Unafri) ; règlement UE 2017/2158 et FSA pour le panier à moitié plein",
+   "t": "Bernard Lefèvre، رئيس Unafri (Navefri-Unafri)؛ لائحة الاتحاد الأوروبي 2017/2158 وFSA بشأن السلة المملوءة إلى النصف"
+  },
+  "secrets.7.text": {
+   "fr": "Entre deux fournées, attends que l'huile revienne à la bonne température : dans une huile pas assez chaude, les frites boivent le gras.",
+   "t": "بين دفعتين، انتظر حتى يعود الزيت إلى الحرارة المناسبة: ففي زيت غير ساخن بما يكفي، تتشرّب البطاطس الدهن."
+  },
+  "secrets.7.source": {
+   "fr": "FSA (conseils aux friteries d'Irlande du Nord), Navefri-Unafri, Wikipédia",
+   "t": "FSA (نصائح لمحلات القلي في أيرلندا الشمالية)، Navefri-Unafri، Wikipédia"
+  },
+  "secrets.8.text": {
+   "fr": "Secoue le panier dès la sortie du bain et égoutte sur du papier absorbant : les frites continuent d'absorber l'huile en refroidissant.",
+   "t": "انفض السلة فور إخراجها من الزيت، وصفِّ البطاطس على ورق ماص: فهي تستمر في امتصاص الزيت وهي تبرد."
+  },
+  "secrets.8.source": {
+   "fr": "FSA (jusqu'à 20 % de gras absorbé en moins), Wikipédia, Navefri-Unafri",
+   "t": "FSA (دهون ممتصة أقل بنسبة تصل إلى 20 %)، Wikipédia، Navefri-Unafri"
+  },
+  "secrets.9.text": {
+   "fr": "Sale tout de suite, à la sortie de l'huile, quand les frites sont encore brûlantes : le sel se dissout et imprègne mieux. Et ne les couvre pas.",
+   "t": "ملّح فورًا، عند إخراجها من الزيت، والبطاطس ما زالت ساخنة جدًا: فيذوب الملح ويتغلغل أفضل. ولا تغطّها."
+  },
+  "secrets.9.source": {
+   "fr": "Chef Simon, Semaine de la Frite (Apaq-W), Meilleur du Chef, Wikipédia",
+   "t": "Chef Simon، Semaine de la Frite (Apaq-W)، Meilleur du Chef، Wikipédia"
+  },
+  "secrets.10.text": {
+   "fr": "Les pommes de terre se récoltent en septembre et en octobre. En fin de saison, vers l'été, elles contiennent plus de sucre et brunissent plus vite : fais le premier bain un peu moins long et un peu moins chaud, et arrête-toi au jaune doré.",
+   "t": "تُجنى البطاطس في سبتمبر وأكتوبر. وفي آخر الموسم، قرب الصيف، تحتوي على سكر أكثر وتسمرّ بسرعة أكبر: فاجعل القلي الأول أقصر قليلًا وأقل حرارة قليلًا، وتوقف عند اللون الأصفر الذهبي."
+  },
+  "secrets.10.source": {
+   "fr": "Navefri-Unafri (« Frieten bakken is een kunst »)",
+   "t": "Navefri-Unafri (صفحة بعنوان «Frieten bakken is een kunst»)"
+  },
+  "secrets.11.text": {
+   "fr": "Garde les pommes de terre au frais et dans le noir, idéalement entre 8 et 10 °C. Trop froides, elles font du sucre et brunissent vite à la friture.",
+   "t": "احفظ البطاطس في مكان بارد ومظلم، ويُفضَّل بين 8 و10 درجات مئوية. فإذا كانت باردة جدًا، كوّنت سكرًا واسمرّت بسرعة عند القلي."
+  },
+  "secrets.11.source": {
+   "fr": "Apaq-W (8 à 10 °C), EFSA (sous 8 °C, plus de sucres), FSAI (8 °C ou un peu plus)",
+   "t": "Apaq-W (من 8 إلى 10 درجات مئوية)، EFSA (دون 8 درجات مئوية، سكريات أكثر)، FSAI (8 درجات مئوية أو أكثر قليلًا)"
+  },
+  "secrets.12.text": {
+   "fr": "Une friteuse électrique à thermostat tient la bonne température toute seule : des frites plus régulières, et une cuisine plus sûre.",
+   "t": "القلاية الكهربائية بمنظّم حرارة تحافظ وحدها على الحرارة المناسبة: بطاطس أكثر انتظامًا، ومطبخ أكثر أمانًا."
+  },
+  "secrets.12.source": {
+   "fr": "Chef Simon (Sabine Simon), London Fire Brigade, gouvernement du Québec",
+   "t": "Chef Simon (Sabine Simon)، London Fire Brigade، حكومة كيبيك"
+  },
+  "secrets.13.text": {
+   "fr": "Prends une huile neutre qui supporte la chaleur, comme le tournesol ou l'arachide.",
+   "t": "اختر زيت مائدة يتحمّل الحرارة، مثل زيت دوار الشمس أو زيت الفول السوداني."
+  },
+  "secrets.13.source": {
+   "fr": "INC (tournesol), Chef Simon (arachide), gouvernement du Québec (points de fumée : tournesol 210 °C, arachide 220 °C)",
+   "t": "INC (دوار الشمس)، Chef Simon (الفول السوداني)، حكومة كيبيك (نقاط التدخين: دوار الشمس 210 درجات مئوية، الفول السوداني 220 درجة مئوية)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre des frites mouillées dans l'huile : elle bouillonne et peut déborder (pompiers de Cambridgeshire, London Fire Brigade).",
+   "t": "وضع بطاطس مبلّلة في الزيت: يفور الزيت وقد يفيض (رجال الإطفاء في كامبريدجشير، London Fire Brigade)."
+  },
+  "mistakes.1": {
+   "fr": "Remplir le panier à ras bord : l'huile refroidit, les frites collent et deviennent grasses ; remplis-le à moitié au plus (règlement UE 2017/2158, FSA, Wikipédia).",
+   "t": "ملء السلة حتى حافتها: يبرد الزيت، وتلتصق البطاطس وتصير مشبعة بالدهن؛ املأها إلى النصف على الأكثر (لائحة الاتحاد الأوروبي 2017/2158، FSA، Wikipédia)."
+  },
+  "mistakes.2": {
+   "fr": "Faire la seconde cuisson dans une huile pas assez chaude : les frites absorbent trop de gras (Navefri-Unafri, Wikipédia).",
+   "t": "إجراء القلي الثاني في زيت غير ساخن بما يكفي: تمتص البطاطس دهونًا كثيرة (Navefri-Unafri، Wikipédia)."
+  },
+  "mistakes.3": {
+   "fr": "Faire la première cuisson trop chaude : les bâtonnets se ferment trop vite et retombent, tout plats (Navefri-Unafri). Trop froide, la pomme de terre se défait et abîme l'huile (Chef Simon).",
+   "t": "إجراء القلي الأول على حرارة عالية جدًا: تنغلق الأصابع بسرعة كبيرة ثم ترتخي مسطّحة تمامًا (Navefri-Unafri). وإذا كانت الحرارة منخفضة جدًا، تتفتّت البطاطس وتُفسد الزيت (Chef Simon)."
+  },
+  "mistakes.4": {
+   "fr": "Dépasser 175 °C ou cuire jusqu'au brun : c'est là que l'acrylamide grimpe (EFSA, FSA, FSAI, règlement UE 2017/2158).",
+   "t": "تجاوز 175 درجة مئوية أو القلي حتى اللون البني: هنا يرتفع الأكريلاميد (EFSA، FSA، FSAI، لائحة الاتحاد الأوروبي 2017/2158)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser chauffer une huile qui fume : coupe le feu et laisse-la refroidir (London Fire Brigade, gouvernement du Québec, pompiers de Cambridgeshire).",
+   "t": "ترك زيت يتصاعد منه الدخان على النار: أطفئ الموقد واتركه يبرد (London Fire Brigade، حكومة كيبيك، رجال الإطفاء في كامبريدجشير)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser l'huile chaude sans surveillance, même quelques secondes (pompiers de Cambridgeshire, gouvernement du Québec, USFA).",
+   "t": "ترك الزيت الساخن دون مراقبة، ولو لبضع ثوانٍ (رجال الإطفاء في كامبريدجشير، حكومة كيبيك، USFA)."
+  },
+  "mistakes.7": {
+   "fr": "Remplir une casserole d'huile à plus d'un tiers (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "ملء الطنجرة بالزيت إلى أكثر من ثلثها (London Fire Brigade، رجال الإطفاء في كامبريدجشير)."
+  },
+  "mistakes.8": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer le récipient en flammes (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "صبّ الماء على زيت مشتعل، أو تحريك الوعاء المشتعل (حكومة كيبيك، London Fire Brigade، رجال الإطفاء في كامبريدجشير)."
+  },
+  "mistakes.9": {
+   "fr": "Ranger au frigo les pommes de terre destinées aux frites : elles sucrent et brunissent plus vite à la friture (VLAM, EFSA, FSAI). La FSA britannique juge le frigo acceptable depuis le printemps 2022 ; si tu les y as gardées, surveille la couleur de près.",
+   "t": "حفظ بطاطس القلي في الثلاجة: يزيد سكرها وتسمرّ بسرعة أكبر عند القلي (VLAM، EFSA، FSAI). وترى FSA البريطانية منذ ربيع 2022 أن الثلاجة مقبولة؛ فإن حفظتها فيها، فراقب اللون عن كثب."
+  },
+  "mistakes.10": {
+   "fr": "Garder indéfiniment la même huile : filtre-la après usage et change-la régulièrement (Chef Simon).",
+   "t": "الاحتفاظ بالزيت نفسه إلى ما لا نهاية: صفِّه بعد الاستعمال وغيّره بانتظام (Chef Simon)."
+  },
+  "mistakes.11": {
+   "fr": "Couvrir les frites à la sortie du bain (Chef Simon : « surtout ne pas couvrir »).",
+   "t": "تغطية البطاطس عند إخراجها من الزيت (Chef Simon: «وخاصةً لا تغطّها»)."
+  },
+  "variants.0": {
+   "fr": "Frites belges : Bintje taillée à 1 cm, rincée et bien séchée ; premier bain à 140 °C environ 7 minutes, refroidissement, puis second bain à 170-175 °C jusqu'à la croûte dorée (Navefri-Unafri). La tradition belge est le blanc de bœuf (Frietmuseum de Bruges, Wikipédia), et des friteries y restent fidèles (Navefri-Unafri) : chez toi, seulement du blanc de bœuf certifié halal. C'est une graisse riche en graisses saturées, environ 50 % contre 10 % pour le tournesol (FSA). Sers-les en cornet, avec de la mayonnaise (Apaq-W). En friterie, en Belgique ou dans le nord de la France, demande dans quelle graisse les frites sont cuites : certaines utilisent du blanc de bœuf ou un mélange bœuf et végétal (Navefri-Unafri).",
+   "t": "البطاطس المقلية البلجيكية: بطاطس Bintje بمقطع 1 سم، مشطوفة ومجفّفة جيدًا؛ قلي أول على 140 درجة مئوية نحو 7 دقائق، ثم تبريد، ثم قلي ثانٍ على 170-175 درجة مئوية حتى تتكوّن القشرة الذهبية (Navefri-Unafri). والتقليد البلجيكي هو شحم البقر الأبيض (Frietmuseum de Bruges، Wikipédia)، ولا تزال بعض محلات القلي وفية له (Navefri-Unafri): أما في بيتك، فلا تستعمل إلا شحم بقر معتمدًا حلالًا. وهو دهن غني بالدهون المشبعة، نحو 50 % مقابل 10 % لزيت دوار الشمس (FSA). قدّمها في قرطاس، مع المايونيز (Apaq-W). وفي محلات القلي، في بلجيكا أو في شمال فرنسا، اسأل عن الدهن الذي تُقلى فيه البطاطس: فبعضها يستعمل شحم البقر الأبيض أو خليطًا من شحم البقر والزيت النباتي (Navefri-Unafri)."
+  },
+  "variants.1": {
+   "fr": "Au four : préchauffe le four entre 180 et 200 °C (190 °C au plus en chaleur tournante). Mélange les frites rincées et bien séchées avec un filet d'huile (Wikipédia : 2 c. à s. pour 1 kg de pommes de terre), étale-les sur une plaque et retourne-les à mi-cuisson. Arrête-toi au jaune doré (règlement UE 2017/2158, FSAI). Les pompiers de Cambridgeshire conseillent d'ailleurs le four, plus sûr que la casserole d'huile.",
+   "t": "في الفرن: سخّن الفرن مسبقًا على حرارة بين 180 و200 درجة مئوية (190 درجة مئوية على الأكثر مع الهواء الساخن). اخلط الأصابع المشطوفة والمجفّفة جيدًا مع خيط رفيع من الزيت (Wikipédia: 2 ملعقة كبيرة لكل 1 كغ من البطاطس)، وافردها على صينية واقلبها في منتصف الطهي. توقف عند اللون الأصفر الذهبي (لائحة الاتحاد الأوروبي 2017/2158، FSAI). وينصح رجال الإطفاء في كامبريدجشير بالفرن، فهو أكثر أمانًا من طنجرة الزيت."
+  },
+  "variants.2": {
+   "fr": "À la friteuse à air (Airfryer) : le règlement UE parle de 180 à 220 °C pour préchauffer un four ou une friteuse à air. Arrête-toi au jaune doré : selon des tests de l'industrie et d'associations de consommateurs cités par l'EFSA, la friteuse à air peut donner 30 à 40 % d'acrylamide de plus qu'une friteuse à huile.",
+   "t": "بالقلاية الهوائية (Airfryer): تتحدث لائحة الاتحاد الأوروبي عن 180 إلى 220 درجة مئوية لتسخين الفرن أو القلاية الهوائية مسبقًا. توقف عند اللون الأصفر الذهبي: فحسب اختبارات أجرتها الصناعة وجمعيات للمستهلكين واستشهدت بها EFSA، قد تعطي القلاية الهوائية أكريلاميد أكثر بنسبة 30 إلى 40 % من قلاية الزيت."
+  },
+  "variants.3": {
+   "fr": "En une seule cuisson : des frites épaisses (au moins 14 mm de section), 5 à 6 minutes à 175 °C, jusqu'à un doré pâle (FSA, conseils aux friteries d'Irlande du Nord, qui déconseille la double cuisson pour limiter le gras). Escoffier cuisait ainsi ses pommes Pont-Neuf, en un seul bain, jusqu'à ce qu'elles soient « croustillantes à l'extérieur, tout en restant moelleuses à l'intérieur ».",
+   "t": "بقلية واحدة: أصابع سميكة (مقطعها 14 مم على الأقل)، من 5 إلى 6 دقائق على 175 درجة مئوية، حتى لون ذهبي فاتح (FSA، في نصائحها لمحلات القلي في أيرلندا الشمالية، وهي لا تنصح بالقلي المزدوج للحد من الدهون). وهكذا كان Escoffier يقلي بطاطس Pont-Neuf، في قلية واحدة، حتى تصير «مقرمشة من الخارج، مع بقائها طرية من الداخل»."
+  },
+  "variants.4": {
+   "fr": "Au Maroc : Bladi.net cuit le poulet en sauce (oignons, ail, coriandre, gingembre, safran) et pose les frites dessus au moment de servir.",
+   "t": "في المغرب: يطهو Bladi.net الدجاج بالمرق (البصل، والثوم، والكزبرة، والزنجبيل، والزعفران)، ويضع البطاطس المقلية فوقه عند التقديم."
+  }
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "_slug": "salade-pois-chiches-thon",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Salade de pois chiches au thon",
+   "t": "Chickpea and tuna salad"
+  },
+  "darija": {
+   "fr": "Chlada d l-hommos b t-ton",
+   "t": "Chlada d l-hommos b t-ton"
+  },
+  "tagline": {
+   "fr": "Pois chiches, thon, tomates cerises et oignon rouge, au citron et à l'huile d'olive : la salade italienne sans cuisson, prête en un quart d'heure.",
+   "t": "Chickpeas, tuna, cherry tomatoes and red onion, with lemon and olive oil: the no-cook Italian salad, ready in a quarter of an hour."
+  },
+  "region": {
+   "fr": "Italie : l'« insalata di ceci e tonno », salade familiale surtout servie l'été. Les recettes italiennes y mettent volontiers de l'oignon rouge de Tropea (Cotto in un click ; La cucina di Loredana ; Le dolcezze di mamma Nenè).",
+   "t": "Italy: “insalata di ceci e tonno”, a family salad served mostly in summer. Italian recipes often include red Tropea onion (Cotto in un click; La cucina di Loredana; Le dolcezze di mamma Nenè)."
+  },
+  "occasion": {
+   "fr": "Repas froid express, midi ou soir, quand on n'a pas envie de cuisiner ni d'allumer le feu ; elle s'emporte facilement au travail ou en balade (Il Cucchiaio d'Argento ; Donna Moderna ; Le dolcezze di mamma Nenè).",
+   "t": "A quick cold meal, at lunch or dinner, when you don't feel like cooking or turning on the hob; it is easy to take to work or on an outing (Il Cucchiaio d'Argento; Donna Moderna; Le dolcezze di mamma Nenè)."
+  },
+  "img_alt": {
+   "fr": "Salade de pois chiches au thon (photo d'une version avec carotte et fromage)",
+   "t": "Chickpea and tuna salad (photo of a version with carrot and cheese)"
+  },
+  "serving": {
+   "fr": "Sers-la froide, en plat unique ou en entrée (Cookist ; Donna Moderna). Donna Moderna la sert dans de petits bols, avec des feuilles de basilic et des croûtons de pain poêlés ; Misya sert sa salade de haricots au thon avec un quartier de citron.",
+   "t": "Serve it cold, as a one-dish meal or as a starter (Cookist; Donna Moderna). Donna Moderna serves it in small bowls, with basil leaves and pan-fried bread croutons; Misya serves her bean and tuna salad with a lemon wedge."
+  },
+  "ing.0.group": {
+   "fr": "Salade",
+   "t": "Salad"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches cuits",
+   "t": "cooked chickpeas"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "en conserve ; poids égoutté",
+   "t": "tinned; drained weight"
+  },
+  "ing.thon.name": {
+   "fr": "de thon en conserve, à l'huile d'olive ou au naturel",
+   "t": "tinned tuna, in olive oil or in brine"
+  },
+  "ing.thon.note": {
+   "fr": "poids égoutté",
+   "t": "drained weight"
+  },
+  "ing.tomates-cerises.name": {
+   "fr": "de tomates cerises",
+   "t": "cherry tomatoes"
+  },
+  "ing.oignon-rouge.name": {
+   "fr": "petit oignon rouge",
+   "t": "small red onion"
+  },
+  "ing.oignon-rouge.pl": {
+   "fr": "petits oignons rouges",
+   "t": "small red onions"
+  },
+  "ing.eau.name": {
+   "fr": "eau froide",
+   "t": "cold water"
+  },
+  "ing.eau.note": {
+   "fr": "pour faire tremper l'oignon",
+   "t": "for soaking the onion"
+  },
+  "ing.basilic.name": {
+   "fr": "feuilles de basilic frais",
+   "t": "fresh basil leaves"
+  },
+  "ing.basilic.note": {
+   "fr": "facultatif ; ou du persil plat",
+   "t": "optional; or flat-leaf parsley"
+  },
+  "ing.1.group": {
+   "fr": "Assaisonnement",
+   "t": "Seasoning"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron.note": {
+   "fr": "pour le jus",
+   "t": "for the juice"
+  },
+  "ing.huile-olive.name": {
+   "fr": "d'huile d'olive vierge extra",
+   "t": "extra virgin olive oil"
+  },
+  "ing.origan.name": {
+   "fr": "origan séché",
+   "t": "dried oregano"
+  },
+  "ing.origan.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir",
+   "t": "black pepper"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "equipment.0": {
+   "fr": "Ouvre-boîte",
+   "t": "Tin opener"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Colander"
+  },
+  "equipment.2": {
+   "fr": "Grand saladier",
+   "t": "Large salad bowl"
+  },
+  "equipment.3": {
+   "fr": "Deux petits bols",
+   "t": "Two small bowls"
+  },
+  "equipment.4": {
+   "fr": "Planche et couteau bien aiguisé",
+   "t": "Board and a sharp knife"
+  },
+  "equipment.5": {
+   "fr": "Presse-agrumes (facultatif)",
+   "t": "Lemon squeezer (optional)"
+  },
+  "equipment.6": {
+   "fr": "Fourchette",
+   "t": "Fork"
+  },
+  "steps.0.title": {
+   "fr": "Presse le citron",
+   "t": "Squeeze the lemon"
+  },
+  "steps.0.text": {
+   "fr": "Presse {{citron:full}} et verse le jus dans un petit bol.",
+   "t": "Squeeze {{citron:full}} and pour the juice into a small bowl."
+  },
+  "steps.1.title": {
+   "fr": "Émince l'oignon",
+   "t": "Slice the onion"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et coupe en tranches très fines {{oignon-rouge:full}}.",
+   "t": "Peel {{oignon-rouge:full}} and cut into very thin slices."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.2.title": {
+   "fr": "Adoucis l'oignon",
+   "t": "Mellow the onion"
+  },
+  "steps.2.text": {
+   "fr": "Mets les tranches d'oignon dans un autre petit bol, couvre d'{{eau}} et ajoute un peu du jus de citron. Laisse tremper 5 à 10 minutes, le temps de préparer le reste : l'oignon devient plus doux et reste croquant.",
+   "t": "Put the onion slices in another small bowl, cover with {{eau}} and add a little of the lemon juice. Leave to soak for 5 to 10 minutes while you prepare the rest: the onion becomes milder and stays crunchy."
+  },
+  "steps.3.title": {
+   "fr": "Rince les pois chiches",
+   "t": "Rinse the chickpeas"
+  },
+  "steps.3.text": {
+   "fr": "Verse les pois chiches en conserve dans une passoire. Rince-les sous l'eau froide du robinet et laisse-les bien égoutter : il t'en faut {{pois-chiches}}.",
+   "t": "Tip the tinned chickpeas into a colander. Rinse them under the cold tap and leave them to drain well: you need {{pois-chiches}}."
+  },
+  "steps.4.title": {
+   "fr": "Coupe les tomates",
+   "t": "Cut the tomatoes"
+  },
+  "steps.4.text": {
+   "fr": "Lave {{tomates-cerises}} de tomates cerises. Coupe-les en deux, ou en quatre si elles sont grosses.",
+   "t": "Wash {{tomates-cerises}} of cherry tomatoes. Cut them in half, or into quarters if they are large."
+  },
+  "steps.5.title": {
+   "fr": "Émiette le thon",
+   "t": "Flake the tuna"
+  },
+  "steps.5.text": {
+   "fr": "Égoutte le thon : il t'en faut {{thon}}. Émiette-le grossièrement à la fourchette, en gardant des morceaux.",
+   "t": "Drain the tuna: you need {{thon}}. Flake it roughly with a fork, keeping some chunks."
+  },
+  "steps.6.title": {
+   "fr": "Prépare la sauce",
+   "t": "Make the dressing"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute au reste du jus de citron {{huile-olive}} d'huile d'olive, du {{sel}} et du {{poivre}}. Fouette à la fourchette.",
+   "t": "To the rest of the lemon juice, add {{huile-olive}} of olive oil, {{sel}} and {{poivre}}. Whisk with a fork."
+  },
+  "steps.7.title": {
+   "fr": "Assemble la salade",
+   "t": "Assemble the salad"
+  },
+  "steps.7.text": {
+   "fr": "Égoutte l'oignon. Dans le saladier, mets les pois chiches, les tomates, l'oignon et le thon.",
+   "t": "Drain the onion. Put the chickpeas, tomatoes, onion and tuna in the salad bowl."
+  },
+  "steps.8.title": {
+   "fr": "Assaisonne",
+   "t": "Dress the salad"
+  },
+  "steps.8.text": {
+   "fr": "Verse la sauce sur la salade, parsème d'{{origan}} et mélange délicatement.",
+   "t": "Pour the dressing over the salad, sprinkle with {{origan}} and mix gently."
+  },
+  "steps.9.title": {
+   "fr": "Goûte et sers",
+   "t": "Taste and serve"
+  },
+  "steps.9.text": {
+   "fr": "Goûte, puis ajoute un peu de sel, de poivre ou de citron si besoin. Parsème de {{basilic}} déchirées et sers tout de suite, ou laisse 30 minutes au frigo pour que les saveurs se mélangent.",
+   "t": "Taste, then add a little salt, pepper or lemon if needed. Scatter over torn {{basilic}} and serve straight away, or leave in the fridge for 30 minutes so that the flavours blend."
+  },
+  "secrets.0.text": {
+   "fr": "Rince bien les pois chiches en conserve, pour enlever le liquide et le sel de la boîte.",
+   "t": "Rinse tinned chickpeas well, to remove the liquid and salt from the tin."
+  },
+  "secrets.0.source": {
+   "fr": "Cookist (Silvia Ferrau) ; Chez Bibia ; Donna Moderna ; Le dolcezze di mamma Nenè",
+   "t": "Cookist (Silvia Ferrau); Chez Bibia; Donna Moderna; Le dolcezze di mamma Nenè"
+  },
+  "secrets.1.text": {
+   "fr": "Tranche l'oignon rouge très fin, puis fais-le tremper quelques minutes dans de l'eau citronnée : il perd son piquant et reste croquant.",
+   "t": "Slice the red onion very thinly, then soak it for a few minutes in water with lemon juice: it loses its sharpness and stays crunchy."
+  },
+  "secrets.1.source": {
+   "fr": "Il Cucchiaio d'Argento (insalata di fagioli e tonno : oignon « in acqua acidulata per una decina di minuti ») ; Cotto in un click (oignon mariné 5 minutes, devenu doux, rose et croquant)",
+   "t": "Il Cucchiaio d'Argento (insalata di fagioli e tonno: onion “in acqua acidulata per una decina di minuti”); Cotto in un click (onion marinated for 5 minutes, turning mild, pink and crunchy)"
+  },
+  "secrets.2.text": {
+   "fr": "Thon à l'huile : mélange-le avec le reste avant d'assaisonner. Thon au naturel : assaisonne d'abord pois chiches et tomates, et ajoute le thon après.",
+   "t": "Tuna in oil: mix it with the rest before dressing. Tuna in brine: dress the chickpeas and tomatoes first, and add the tuna afterwards."
+  },
+  "secrets.2.source": {
+   "fr": "Il Cucchiaio d'Argento",
+   "t": "Il Cucchiaio d'Argento"
+  },
+  "secrets.3.text": {
+   "fr": "Choisis un bon thon en filets ; Cookist conseille le thon à l'huile en bocal de verre.",
+   "t": "Choose good-quality tuna fillets; Cookist recommends tuna in oil in a glass jar."
+  },
+  "secrets.3.source": {
+   "fr": "Il Cucchiaio d'Argento ; Cookist (Elpidio)",
+   "t": "Il Cucchiaio d'Argento; Cookist (Elpidio)"
+  },
+  "secrets.4.text": {
+   "fr": "Émiette le thon grossièrement, à la fourchette : il doit rester en morceaux.",
+   "t": "Flake the tuna roughly with a fork: it should stay in chunks."
+  },
+  "secrets.4.source": {
+   "fr": "Chez Bibia ; Cotto in un click",
+   "t": "Chez Bibia; Cotto in un click"
+  },
+  "secrets.5.text": {
+   "fr": "La cucina di Loredana retire le jus et les graines des tomates avant de les mettre dans la salade.",
+   "t": "La cucina di Loredana removes the juice and seeds from the tomatoes before adding them to the salad."
+  },
+  "secrets.5.source": {
+   "fr": "La cucina di Loredana",
+   "t": "La cucina di Loredana"
+  },
+  "secrets.6.text": {
+   "fr": "Elle est encore meilleure après 30 minutes au frigo, le temps que les saveurs se mélangent ; mais elle se mange aussi tout de suite.",
+   "t": "It is even better after 30 minutes in the fridge, once the flavours have blended; but it can also be eaten straight away."
+  },
+  "secrets.6.source": {
+   "fr": "Le dolcezze di mamma Nenè ; Cotto in un click ; Misya (insalata di fagioli e tonno)",
+   "t": "Le dolcezze di mamma Nenè; Cotto in un click; Misya (insalata di fagioli e tonno)"
+  },
+  "secrets.7.text": {
+   "fr": "Si elle a passé du temps au frigo, sors-la 5 minutes avant de servir.",
+   "t": "If it has been in the fridge for a while, take it out 5 minutes before serving."
+  },
+  "secrets.7.source": {
+   "fr": "Donna Moderna",
+   "t": "Donna Moderna"
+  },
+  "secrets.8.text": {
+   "fr": "Pour du croquant, ajoute du céleri en rondelles ou du fenouil en dés ; mamma Nenè propose aussi le concombre.",
+   "t": "For crunch, add sliced celery or diced fennel; mamma Nenè also suggests cucumber."
+  },
+  "secrets.8.source": {
+   "fr": "Donna Moderna ; Le dolcezze di mamma Nenè",
+   "t": "Donna Moderna; Le dolcezze di mamma Nenè"
+  },
+  "secrets.9.text": {
+   "fr": "En Italie, ce sont l'origan et le basilic qui parfument cette salade.",
+   "t": "In Italy, it is oregano and basil that flavour this salad."
+  },
+  "secrets.9.source": {
+   "fr": "Il Cucchiaio d'Argento (origan frais) ; Cookist (origan séché et basilic) ; Donna Moderna (origan et basilic) ; Chez Bibia, La cucina di Loredana, Le dolcezze di mamma Nenè (basilic)",
+   "t": "Il Cucchiaio d'Argento (fresh oregano); Cookist (dried oregano and basil); Donna Moderna (oregano and basil); Chez Bibia, La cucina di Loredana, Le dolcezze di mamma Nenè (basil)"
+  },
+  "secrets.10.text": {
+   "fr": "Ne sois pas avare d'huile d'olive vierge extra : Donna Moderna parle d'« un generoso filo ».",
+   "t": "Don't be stingy with the extra virgin olive oil: Donna Moderna talks of “un generoso filo”."
+  },
+  "secrets.10.source": {
+   "fr": "Donna Moderna",
+   "t": "Donna Moderna"
+  },
+  "secrets.11.text": {
+   "fr": "Pas d'oignon rouge ? Prends une cébette, une échalote ou de la ciboulette.",
+   "t": "No red onion? Use a spring onion, a shallot or some chives."
+  },
+  "secrets.11.source": {
+   "fr": "Le dolcezze di mamma Nenè",
+   "t": "Le dolcezze di mamma Nenè"
+  },
+  "mistakes.0": {
+   "fr": "Garder le reste de thon dans la boîte ouverte : vide-la dans un bol ou un autre récipient et mets-le au frigo, car l'étain de la boîte ouverte peut passer plus vite dans l'aliment (Food Standards Agency, Royaume-Uni).",
+   "t": "Keeping leftover tuna in the opened tin: empty it into a bowl or another container and put it in the fridge, because once a can is open, the tin from the can may pass into the food more quickly (Food Standards Agency, UK)."
+  },
+  "mistakes.1": {
+   "fr": "Utiliser une boîte visiblement bombée, profondément cabossée, ou rouillée à cause d'une bosse : n'en mange pas le contenu ; une petite bosse peu profonde, sans autre dégât, ne pose pas de problème (Food Standards Agency).",
+   "t": "Using a tin that is visibly swollen, deeply dented, or rusty because of a dent: do not eat its contents; a small, shallow dent with no other damage is not a problem (Food Standards Agency)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre l'oignon cru sans le faire tremper : il est plus piquant et plus lourd (Cotto in un click).",
+   "t": "Adding the raw onion without soaking it: it is sharper and heavier on the stomach (Cotto in un click)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les pois chiches mal égouttés : ils doivent perdre toute l'eau de la boîte (Donna Moderna ; Cookist).",
+   "t": "Not draining the chickpeas properly: they must lose all the liquid from the tin (Donna Moderna; Cookist)."
+  },
+  "mistakes.4": {
+   "fr": "Garder la salade plus longtemps que le lendemain : au frigo, dans une boîte fermée, une journée au plus (Cookist ; La cucina di Loredana).",
+   "t": "Keeping the salad beyond the next day: in the fridge, in a closed container, for one day at most (Cookist; La cucina di Loredana)."
+  },
+  "mistakes.5": {
+   "fr": "Pour une femme enceinte, dépasser 4 boîtes moyennes de thon par semaine (environ 140 g égouttés chacune), à cause de polluants comme le mercure (NHS, Royaume-Uni).",
+   "t": "For pregnant women, eating more than 4 medium-size tins of tuna a week (about 140 g drained weight each), because of pollutants such as mercury (NHS, UK)."
+  },
+  "variants.0": {
+   "fr": "Version du Cucchiaio d'Argento : pois chiches, tomates cerises, thon et origan frais, avec seulement huile d'olive, sel et poivre, sans oignon ni citron.",
+   "t": "Il Cucchiaio d'Argento's version: chickpeas, cherry tomatoes, tuna and fresh oregano, with just olive oil, salt and pepper, no onion or lemon."
+  },
+  "variants.1": {
+   "fr": "Version de Cookist : pois chiches, tomates cerises, thon à l'huile, origan séché et basilic, sans oignon ni citron.",
+   "t": "Cookist's version: chickpeas, cherry tomatoes, tuna in oil, dried oregano and basil, no onion or lemon."
+  },
+  "variants.2": {
+   "fr": "Version de Donna Moderna : sans tomates, avec jus de citron, origan et basilic, et un peu de céleri si tu veux ; 2 heures au frigo, puis croûtons de pain poêlés au service.",
+   "t": "Donna Moderna's version: no tomatoes, with lemon juice, oregano and basil, and a little celery if you like; 2 hours in the fridge, then pan-fried bread croutons when serving."
+  },
+  "variants.3": {
+   "fr": "Version riche d'Agrodolce : maïs, olives de Gaeta, cerneaux de noix, tomates séchées et ciboulette.",
+   "t": "Agrodolce's rich version: sweetcorn, Gaeta olives, walnut halves, sun-dried tomatoes and chives."
+  },
+  "variants.4": {
+   "fr": "Version de La cucina di Loredana : avec concombre en fines rondelles, olives noires et basilic.",
+   "t": "La cucina di Loredana's version: with thinly sliced cucumber, black olives and basil."
+  },
+  "variants.5": {
+   "fr": "Avec œufs durs et roquette (Cucina facile con Elena ; Rita amor di cucina) : compte environ 10 minutes pour cuire les œufs (Cucina facile con Elena).",
+   "t": "With hard-boiled eggs and rocket (Cucina facile con Elena; Rita amor di cucina): allow about 10 minutes to cook the eggs (Cucina facile con Elena)."
+  },
+  "variants.6": {
+   "fr": "Au vinaigre de cidre à la place du citron (Chez Bibia ; Cotto in un click).",
+   "t": "With cider vinegar instead of lemon (Chez Bibia; Cotto in un click)."
+  },
+  "variants.7": {
+   "fr": "Avec des haricots blancs à la place des pois chiches : l'« insalata di fagioli e tonno », avec cébette, jus de citron et persil (Il Cucchiaio d'Argento ; Misya).",
+   "t": "With white beans instead of chickpeas: “insalata di fagioli e tonno”, with spring onion, lemon juice and parsley (Il Cucchiaio d'Argento; Misya)."
+  },
+  "variants.8": {
+   "fr": "Avec du persil à la place du basilic, comme dans l'insalata di ceci de Misya ou l'insalata di fagioli e tonno (Il Cucchiaio d'Argento ; Misya).",
+   "t": "With parsley instead of basil, as in Misya's insalata di ceci or the insalata di fagioli e tonno (Il Cucchiaio d'Argento; Misya)."
+  },
+  "variants.9": {
+   "fr": "Autre poisson : maquereau au naturel ou saumon fumé à la place du thon (Donna Moderna ; Cookist pour le saumon fumé). Si tu es enceinte, le NHS demande de cuire le saumon fumé jusqu'à ce qu'il soit fumant, à cause de la listeria, et de ne pas dépasser 2 portions par semaine de poisson gras comme le maquereau.",
+   "t": "Another fish: mackerel in brine or smoked salmon instead of tuna (Donna Moderna; Cookist for the smoked salmon). If you are pregnant, the NHS advises cooking smoked salmon until it is steaming hot, because of listeria, and not eating more than 2 portions a week of oily fish such as mackerel."
+  }
+ }
+}

@@ -1,0 +1,454 @@
+{
+ "_slug": "rfissa-poulet",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Rfissa au poulet, lentilles et fenugrec",
+   "t": "Chicken rfissa with lentils and fenugreek"
+  },
+  "darija": {
+   "fr": "rfissa bel djaj",
+   "t": "rfissa bel djaj"
+  },
+  "tagline": {
+   "fr": "Des lanières de msemen fumantes, imbibées d'un bouillon au fenugrec et au ras el hanout, sous un poulet tendre, des lentilles et des oignons fondus : le plat de fête qu'on offre à la jeune maman.",
+   "t": "Steaming strips of msemen soaked in a fenugreek and ras el hanout broth, under tender chicken, lentils and meltingly soft onions: the celebration dish offered to a new mother."
+  },
+  "region": {
+   "fr": "Maroc (nombreuses versions familiales ; bormache à Meknès)",
+   "t": "Morocco (many family versions; bormache in Meknes)"
+  },
+  "occasion": {
+   "fr": "Naissances (surtout le troisième jour après l'accouchement), baptêmes, repas de famille et soirées de ramadan",
+   "t": "Births (especially the third day after the delivery), naming ceremonies, family meals and Ramadan evenings"
+  },
+  "serving": {
+   "fr": "Sers la rfissa très chaude, dans un grand plat rond posé au milieu de la table : chacun mange de son côté, à la main ou à la cuillère (Taste of Maroc). Garde un ou deux bols de bouillon à part, et les graines de fenugrec dans un petit bol pour ceux qui aiment. C'est le plat qu'on offre à la jeune maman, surtout le troisième jour après la naissance, et qu'on partage en famille (Le360, Taste of Maroc).",
+   "t": "Serve the rfissa piping hot, in a large round dish set in the middle of the table: everyone eats from their own side, with their hands or a spoon (Taste of Maroc). Keep one or two bowls of broth on the side, and the fenugreek seeds in a small bowl for those who like them. It is the dish offered to a new mother, especially on the third day after the birth, and shared with the family (Le360, Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et sauce aux oignons",
+   "t": "Chicken and onion sauce"
+  },
+  "ing.poulet.name": {
+   "fr": "de poulet entier halal, beldi (fermier) si possible",
+   "t": "whole halal chicken, beldi (free-range) if possible"
+  },
+  "ing.poulet.note": {
+   "fr": "entier ou coupé en quatre ; un poulet beldi demande environ 1 h de cuisson de plus",
+   "t": "whole or cut into quarters; a beldi chicken needs about 1 h more cooking"
+  },
+  "ing.oignons.name": {
+   "fr": "gros oignon",
+   "t": "large onion"
+  },
+  "ing.oignons.pl": {
+   "fr": "gros oignons",
+   "t": "large onions"
+  },
+  "ing.oignons.note": {
+   "fr": "à émincer finement",
+   "t": "to be thinly sliced"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "smen (aged salted butter)"
+  },
+  "ing.smen.note": {
+   "fr": "ou du beurre",
+   "t": "or butter"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.ras-el-hanout.name": {
+   "fr": "de ras el hanout",
+   "t": "ras el hanout"
+  },
+  "ing.ras-el-hanout.note": {
+   "fr": "frais, acheté chez un épicier de confiance",
+   "t": "fresh, bought from a grocer you trust"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "saffron threads"
+  },
+  "ing.safran.note": {
+   "fr": "environ 15 pistils",
+   "t": "about 15 threads"
+  },
+  "ing.sel.name": {
+   "fr": "Sel, selon le goût",
+   "t": "Salt, to taste"
+  },
+  "ing.sel.note": {
+   "fr": "repère : environ 1½ c. à c. en tout ; rectifie à la fin",
+   "t": "as a guide, about 1½ tsp in all; adjust at the end"
+  },
+  "ing.1.group": {
+   "fr": "Bouillon, fenugrec et lentilles",
+   "t": "Broth, fenugreek and lentils"
+  },
+  "ing.fenugrec.name": {
+   "fr": "de graines de fenugrec (helba)",
+   "t": "fenugreek seeds (helba)"
+  },
+  "ing.fenugrec.note": {
+   "fr": "à faire tremper la veille",
+   "t": "to be soaked the day before"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "fresh coriander"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "plus un peu d'eau chaude si le bouillon baisse",
+   "t": "plus a little hot water if the broth level drops"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles vertes ou brunes",
+   "t": "green or brown lentils"
+  },
+  "ing.lentilles.note": {
+   "fr": "pas de lentilles corail : elles se défont",
+   "t": "not red lentils: they fall apart"
+  },
+  "ing.2.group": {
+   "fr": "Pour finir et servir",
+   "t": "To finish and serve"
+  },
+  "ing.smen-fin.name": {
+   "fr": "de smen, pour finir",
+   "t": "smen, to finish"
+  },
+  "ing.smen-fin.note": {
+   "fr": "ou du beurre",
+   "t": "or butter"
+  },
+  "ing.msemen.name": {
+   "fr": "msemen",
+   "t": "msemen"
+  },
+  "ing.msemen.pl": {
+   "fr": "msemen",
+   "t": "msemen"
+  },
+  "ing.msemen.note": {
+   "fr": "une fournée de la recette du msemen de l'application, soit 2 par personne",
+   "t": "one batch of the app's msemen recipe, i.e. 2 per person"
+  },
+  "equipment.0": {
+   "fr": "Un bol pour le trempage du fenugrec",
+   "t": "A bowl for soaking the fenugreek"
+  },
+  "equipment.1": {
+   "fr": "Une grande marmite à fond épais avec couvercle",
+   "t": "A large heavy-based pot with a lid"
+  },
+  "equipment.2": {
+   "fr": "Un couscoussier, pour réchauffer les msemen à la vapeur",
+   "t": "A couscoussier (couscous steamer), to reheat the msemen by steaming"
+  },
+  "equipment.3": {
+   "fr": "Un carré de mousseline (ou d'étamine) et de la ficelle, si tu veux enfermer le fenugrec",
+   "t": "A square of muslin (or cheesecloth) and some string, if you want to wrap up the fenugreek"
+  },
+  "equipment.4": {
+   "fr": "Une louche et une écumoire",
+   "t": "A ladle and a slotted spoon"
+  },
+  "equipment.5": {
+   "fr": "Un grand plat de service rond",
+   "t": "A large round serving dish"
+  },
+  "equipment.6": {
+   "fr": "Un ou deux bols pour le bouillon servi à part",
+   "t": "One or two bowls for the broth served on the side"
+  },
+  "steps.0.title": {
+   "fr": "La veille : fais tremper le fenugrec",
+   "t": "The day before: soak the fenugreek"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{fenugrec}} de graines de fenugrec dans un bol et couvre-les largement d'eau froide. Laisse tremper toute la nuit, ou au moins 6 h : les graines ramollissent et deviennent moins fortes. Tu as oublié ? Verse de l'eau bouillante dessus et attends 1 à 2 h.",
+   "t": "Put {{fenugrec}} of fenugreek seeds in a bowl and cover them generously with cold water. Leave to soak overnight, or for at least 6 h: the seeds soften and become milder. Forgot? Pour boiling water over them and wait 1 to 2 h."
+  },
+  "steps.1.title": {
+   "fr": "Prépare les msemen à l'avance",
+   "t": "Make the msemen in advance"
+  },
+  "steps.1.text": {
+   "fr": "Prépare {{msemen:full}} avec la recette du msemen de l'application, sans la dernière étape au miel et au beurre, la veille ou pendant que le poulet mijote. Dès la sortie de la poêle, encore chauds, déchire-les en lanières de la taille d'une bouchée. Une fois froides, garde les lanières dans un sac ; si tu les fais plus d'un jour à l'avance, congèle-les.",
+   "t": "Make {{msemen:full}} using the app's msemen recipe, without the final honey and butter step, the day before or while the chicken simmers. As soon as they come out of the pan, while still hot, tear them into bite-sized strips. Once cool, keep the strips in a bag; if you make them more than a day ahead, freeze them."
+  },
+  "steps.2.title": {
+   "fr": "Émince, hache, rince",
+   "t": "Slice, chop, rinse"
+  },
+  "steps.2.text": {
+   "fr": "Émince finement {{oignons:full}}. Hache finement {{persil}} de persil et {{coriandre}} de coriandre. Rince {{lentilles}} de lentilles et égoutte-les. Égoutte le fenugrec ; si tu veux, noue-le dans un carré de mousseline pour pouvoir le retirer au moment de servir.",
+   "t": "Thinly slice {{oignons:full}}. Finely chop {{persil}} of parsley and {{coriandre}} of coriander. Rinse {{lentilles}} of lentils and drain them. Drain the fenugreek; if you like, tie it up in a square of muslin so that you can take it out when serving."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.3.title": {
+   "fr": "Mets tout dans la marmite",
+   "t": "Put everything in the pot"
+  },
+  "steps.3.text": {
+   "fr": "Dans une grande marmite, mets {{poulet}} de poulet, entier ou coupé en quatre, avec les oignons, {{huile}} d'huile d'olive et {{smen}} de smen. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{ras-el-hanout}} de ras el hanout, {{poivre}} de poivre, {{safran}} de safran émietté et un peu de sel. Remue pour bien enrober le poulet d'épices.",
+   "t": "Put {{poulet}} of chicken, whole or cut into quarters, in a large pot with the onions, {{huile}} of olive oil and {{smen}} of smen. Add {{gingembre}} of ginger, {{curcuma}} of turmeric, {{ras-el-hanout}} of ras el hanout, {{poivre}} of pepper, {{safran}} of crumbled saffron and a little salt. Stir to coat the chicken well with the spices."
+  },
+  "steps.4.title": {
+   "fr": "Laisse la sauce se former",
+   "t": "Let the sauce form"
+  },
+  "steps.4.text": {
+   "fr": "Couvre et laisse cuire à feu moyen 20 min, en remuant de temps en temps. C'est prêt quand les oignons ont ramolli et qu'une sauce épaisse s'est formée.",
+   "t": "Cover and cook over medium heat for 20 min, stirring from time to time. It is ready when the onions have softened and a thick sauce has formed."
+  },
+  "steps.4.timer.label": {
+   "fr": "Sauce aux oignons",
+   "t": "Onion sauce"
+  },
+  "steps.4.timer.done": {
+   "fr": "Une sauce épaisse s'est formée ? Ajoute l'eau et le fenugrec.",
+   "t": "Has a thick sauce formed? Add the water and fenugreek."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'eau et le fenugrec",
+   "t": "Add the water and fenugreek"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute le fenugrec égoutté, les herbes hachées et {{eau}} d'eau. Porte à ébullition, puis couvre et baisse à feu moyen-doux. Poulet beldi : laisse mijoter 1 h avant d'ajouter les lentilles. Poulet standard : ajoute les lentilles tout de suite et passe à l'étape suivante.",
+   "t": "Add the drained fenugreek, the chopped herbs and {{eau}} of water. Bring to the boil, then cover and turn down to medium-low heat. Beldi chicken: simmer for 1 h before adding the lentils. Standard chicken: add the lentils straight away and go on to the next step."
+  },
+  "steps.5.timer.label": {
+   "fr": "Poulet beldi, 1re heure",
+   "t": "Beldi chicken, 1st hour"
+  },
+  "steps.5.timer.done": {
+   "fr": "Ajoute les lentilles : c'est l'étape suivante.",
+   "t": "Add the lentils: that is the next step."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute les lentilles et laisse mijoter",
+   "t": "Add the lentils and simmer"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute les lentilles, couvre et laisse mijoter à feu moyen-doux environ 1 h, jusqu'à ce que les lentilles et le poulet soient bien tendres. À mi-cuisson, goûte le bouillon et rajoute de l'eau chaude s'il a trop baissé : il doit en rester beaucoup. Si le poulet est cuit avant les lentilles, sors-le et mets-le de côté, couvert.",
+   "t": "Add the lentils, cover and simmer over medium-low heat for about 1 h, until the lentils and chicken are very tender. Halfway through, taste the broth and add more hot water if it has reduced too much: there should be plenty left. If the chicken is cooked before the lentils, take it out and set it aside, covered."
+  },
+  "steps.6.timer.label": {
+   "fr": "Lentilles",
+   "t": "Lentils"
+  },
+  "steps.6.timer.done": {
+   "fr": "Goûte une lentille : elle doit être tendre. Sinon, prolonge la cuisson.",
+   "t": "Taste a lentil: it should be tender. If not, cook a little longer."
+  },
+  "steps.7.title": {
+   "fr": "Rectifie et finis au smen",
+   "t": "Adjust the seasoning and finish with smen"
+  },
+  "steps.7.text": {
+   "fr": "Goûte le bouillon : il doit être très parfumé. Rectifie le sel, puis ajoute {{smen-fin}} de smen et fais tourner la marmite pour le fondre dans le bouillon. Si tu avais sorti le poulet, remets-le quelques minutes pour le réchauffer.",
+   "t": "Taste the broth: it should be very fragrant. Adjust the salt, then add {{smen-fin}} of smen and swirl the pot to melt it into the broth. If you took the chicken out, put it back for a few minutes to heat through."
+  },
+  "steps.8.title": {
+   "fr": "Réchauffe les msemen à la vapeur",
+   "t": "Steam the msemen to reheat them"
+  },
+  "steps.8.text": {
+   "fr": "Porte à ébullition de l'eau dans le bas du couscoussier. Mets les lanières de msemen dans le haut et laisse-les chauffer à la vapeur 10 min, jusqu'à ce qu'elles soient brûlantes et souples.",
+   "t": "Bring some water to the boil in the bottom of the couscoussier. Put the msemen strips in the top and steam them for 10 min, until they are piping hot and supple."
+  },
+  "steps.8.timer.label": {
+   "fr": "Msemen à la vapeur",
+   "t": "Steaming the msemen"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les lanières sont brûlantes et souples : dresse tout de suite.",
+   "t": "The strips are piping hot and supple: assemble the dish straight away."
+  },
+  "steps.9.title": {
+   "fr": "Dresse la rfissa",
+   "t": "Assemble the rfissa"
+  },
+  "steps.9.text": {
+   "fr": "Étale les lanières chaudes dans un grand plat rond, en couche épaisse : on ne doit plus voir le fond. Arrose-les de quelques louches de bouillon, puis pose le poulet au centre, entier ou en morceaux. Répartis dessus les lentilles et les oignons à l'écumoire, puis verse presque tout le bouillon en gardant un ou deux bols à part.",
+   "t": "Spread the hot strips in a thick layer in a large round dish: you should no longer see the bottom. Pour a few ladlefuls of broth over them, then place the chicken in the centre, whole or in pieces. Spoon the lentils and onions over the top with the slotted spoon, then pour over almost all the broth, keeping one or two bowls aside."
+  },
+  "steps.10.title": {
+   "fr": "Sers très chaud",
+   "t": "Serve piping hot"
+  },
+  "steps.10.text": {
+   "fr": "Si tu as noué le fenugrec dans la mousseline, verse les graines dans un petit bol pour les amateurs. Pose le plat au milieu de la table et sers aussitôt, très chaud, avec les bols de bouillon : chacun mange de son côté du plat, à la main ou à la cuillère.",
+   "t": "If you tied the fenugreek in muslin, tip the seeds into a small bowl for those who like them. Set the dish in the middle of the table and serve at once, piping hot, with the bowls of broth: everyone eats from their own side of the dish, with their hands or a spoon."
+  },
+  "secrets.0.text": {
+   "fr": "Fais tremper le fenugrec toute la nuit, ou au moins 6 h : les graines ramollissent et perdent une partie de leur force. Oublié ? Couvre-les d'eau bouillante et attends 1 à 2 h.",
+   "t": "Soak the fenugreek overnight, or for at least 6 h: the seeds soften and lose some of their strength. Forgot? Cover them with boiling water and wait 1 to 2 h."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Paula Wolfert (au moins 4 h dans l'eau tiède)",
+   "t": "Taste of Maroc; Paula Wolfert (at least 4 h in lukewarm water)"
+  },
+  "secrets.1.text": {
+   "fr": "Enferme le fenugrec dans un petit sac de tissu (la « kemmoussa ») : il parfume le bouillon sans qu'on croque les graines, et tu les sers à part pour les amateurs.",
+   "t": "Tie the fenugreek up in a small cloth bag (the “kemmoussa”): it flavours the broth without anyone biting into the seeds, and you serve them separately for those who like them."
+  },
+  "secrets.1.source": {
+   "fr": "Barlamane (Hajja Fatima, cuisinière de fêtes à Casablanca) ; Choumicha ; Taste of Maroc",
+   "t": "Barlamane (Hajja Fatima, a celebration cook in Casablanca); Choumicha; Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Le bouillon épais et parfumé (« mdaghmar ») vient des oignons : mets-en beaucoup et laisse-les cuire longtemps à feu doux, jusqu'à ce qu'ils fondent comme une crème.",
+   "t": "The thick, fragrant broth (“mdaghmar”) comes from the onions: use plenty and let them cook for a long time over low heat, until they melt into a cream."
+  },
+  "secrets.2.source": {
+   "fr": "Barlamane (Hajja Fatima)",
+   "t": "Barlamane (Hajja Fatima)"
+  },
+  "secrets.3.text": {
+   "fr": "Prends un ras el hanout frais, acheté chez un épicier de confiance : c'est « l'âme » de la rfissa. Pour tante Aïcha, de Beni Mellal, il fait « monter le plat de dix crans ».",
+   "t": "Use fresh ras el hanout, bought from a grocer you trust: it is the “soul” of rfissa. For Aunt Aïcha, from Beni Mellal, it “takes the dish up ten notches”."
+  },
+  "secrets.3.source": {
+   "fr": "Barlamane (Hajja Fatima) ; Paula Wolfert (recette de tante Aïcha)",
+   "t": "Barlamane (Hajja Fatima); Paula Wolfert (Aunt Aïcha's recipe)"
+  },
+  "secrets.4.text": {
+   "fr": "Prévois un bouillon abondant : les msemen en boivent beaucoup. Rajoute de l'eau chaude en cours de cuisson s'il baisse, goûte-le (il doit être très parfumé) et garde-en un ou deux bols pour servir à part.",
+   "t": "Make plenty of broth: the msemen soak up a lot of it. Add hot water during cooking if it reduces, taste it (it should be very fragrant) and keep one or two bowls of it to serve on the side."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; MarocMama ; Paula Wolfert ; Lalla Moulati",
+   "t": "Taste of Maroc; MarocMama; Paula Wolfert; Lalla Moulati"
+  },
+  "secrets.5.text": {
+   "fr": "Déchire les msemen encore chauds, puis réchauffe les lanières 10 min à la vapeur du couscoussier juste avant de servir : elles deviennent brûlantes et souples, prêtes à boire le bouillon.",
+   "t": "Tear the msemen while they are still hot, then reheat the strips for 10 min over the steam of the couscoussier just before serving: they become piping hot and supple, ready to soak up the broth."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Paula Wolfert ; Choumicha",
+   "t": "Taste of Maroc; Paula Wolfert; Choumicha"
+  },
+  "secrets.6.text": {
+   "fr": "Un poulet beldi a plus de goût et tient mieux la longue cuisson. Avec un poulet standard, sors-le du bouillon dès qu'il est cuit pour qu'il ne se défasse pas.",
+   "t": "A beldi chicken has more flavour and stands up better to the long cooking. With a standard chicken, take it out of the broth as soon as it is cooked so that it doesn't fall apart."
+  },
+  "secrets.6.source": {
+   "fr": "Barlamane (Hajja Fatima) ; Taste of Maroc",
+   "t": "Barlamane (Hajja Fatima); Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Termine par une cuillère de smen en faisant tourner la marmite : sans lui, ceux qui connaissent le plat sentent la différence.",
+   "t": "Finish with a spoonful of smen, swirling the pot: without it, those who know the dish can tell the difference."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Choumicha",
+   "t": "Taste of Maroc; Choumicha"
+  },
+  "mistakes.0": {
+   "fr": "Mettre le fenugrec sans trempage si tu le veux doux : les graines restent plus dures et plus fortes (Taste of Maroc). Le trempage n'est pas obligatoire pour autant : Choumicha, Lalla Moulati et Bladi.net s'en passent.",
+   "t": "Adding the fenugreek without soaking it if you want it mild: the seeds stay harder and stronger (Taste of Maroc). Soaking is not compulsory, though: Choumicha, Lalla Moulati and Bladi.net skip it."
+  },
+  "mistakes.1": {
+   "fr": "Prendre des lentilles corail : elles se défont et disparaissent dans la sauce. Prends des vertes ou des brunes.",
+   "t": "Using red lentils: they fall apart and disappear into the sauce. Use green or brown ones."
+  },
+  "mistakes.2": {
+   "fr": "Être avare de bouillon : la rfissa doit rester bien arrosée, car les msemen en absorbent beaucoup.",
+   "t": "Being stingy with the broth: the rfissa must stay well moistened, because the msemen absorb a lot of it."
+  },
+  "mistakes.3": {
+   "fr": "Laisser un poulet standard dans la marmite une fois cuit, si les lentilles ne le sont pas encore : il finit par se défaire.",
+   "t": "Leaving a standard chicken in the pot once it is cooked, if the lentils are not done yet: it ends up falling apart."
+  },
+  "mistakes.4": {
+   "fr": "Attendre que les msemen refroidissent pour les déchirer : fais-le dès la sortie de la poêle.",
+   "t": "Waiting for the msemen to cool before tearing them: do it as soon as they come out of the pan."
+  },
+  "mistakes.5": {
+   "fr": "Prendre un ras el hanout éventé : c'est lui qui donne son parfum au bouillon.",
+   "t": "Using stale ras el hanout: it is what gives the broth its fragrance."
+  },
+  "mistakes.6": {
+   "fr": "Être avare de msemen : il en faut assez pour couvrir tout le fond du plat.",
+   "t": "Being stingy with the msemen: you need enough to cover the whole bottom of the dish."
+  },
+  "mistakes.7": {
+   "fr": "Servir tiède : la rfissa se mange très chaude, msemen compris.",
+   "t": "Serving it lukewarm: rfissa is eaten piping hot, msemen included."
+  },
+  "variants.0": {
+   "fr": "Au trid à la place des msemen : feuilles de pâte très fines, cuites sans les colorer, puis découpées en lanières (Choumicha, « pâte à rfissa » ; Bladi.net ; Lalla Moulati). Selon Hajja Fatima (Barlamane), le trid doit être fin comme du papier et bien défait, pour boire le bouillon sans devenir pâteux.",
+   "t": "With trid instead of msemen: very thin sheets of dough, cooked without browning, then cut into strips (Choumicha, “pâte à rfissa”; Bladi.net; Lalla Moulati). According to Hajja Fatima (Barlamane), trid should be as thin as paper and well pulled apart, so that it soaks up the broth without turning pasty."
+  },
+  "variants.1": {
+   "fr": "Rfissa medhoussa sur de la harcha émiettée, ou treda sur du pain rassis coupé en dés (Taste of Maroc) ; MarocMama confirme aussi le pain déchiré, en réponse à une lectrice qui avait pris une baguette.",
+   "t": "Rfissa medhoussa on crumbled harcha, or treda on diced stale bread (Taste of Maroc); MarocMama also confirms torn bread, in reply to a reader who had used a baguette."
+  },
+  "variants.2": {
+   "fr": "Msakhen à la place du ras el hanout, surtout par temps froid car il est plus relevé : 1½ c. à s. de msakhen pour 1 c. à s. de ras el hanout chez Taste of Maroc ; Lalla Moulati laisse aussi le choix.",
+   "t": "Msakhen instead of ras el hanout, especially in cold weather, as it is spicier: Taste of Maroc uses 1½ tbsp of msakhen for 1 tbsp of ras el hanout; Lalla Moulati also leaves the choice open."
+  },
+  "variants.3": {
+   "fr": "Bormache, la version de Meknès : beaucoup d'ail, des herbes séchées (zaatar, fliou, merseta), du piment de Cayenne et des tomates ; les lentilles y sont facultatives (Taste of Maroc, recette de Jameela Khiyati).",
+   "t": "Bormache, the Meknes version: lots of garlic, dried herbs (zaatar, fliou, merseta), cayenne pepper and tomatoes; the lentils are optional (Taste of Maroc, Jameela Khiyati's recipe)."
+  },
+  "variants.4": {
+   "fr": "Avec de l'ail (4 à 6 gousses dans la marinade et une tête entière dans le bouillon) et, en hiver, une tasse de fèves sèches (Lalla Moulati).",
+   "t": "With garlic (4 to 6 cloves in the marinade and a whole head in the broth) and, in winter, a cup of dried fava beans (Lalla Moulati)."
+  },
+  "variants.5": {
+   "fr": "Marinade la veille : poulet, oignons, huile et épices mélangés dans la marmite et gardés au frais toute la nuit (au moins 6 h), puis cuisson directe (Taste of Maroc ; Lalla Moulati).",
+   "t": "Marinating the day before: chicken, onions, oil and spices mixed in the pot and kept chilled overnight (at least 6 h), then cooked straight away (Taste of Maroc; Lalla Moulati)."
+  },
+  "variants.6": {
+   "fr": "Oignons en deux temps : un oignon râpé au début et les autres émincés avec les lentilles (Paula Wolfert) ; Lalla Moulati met 2 oignons hachés au début et 4 émincés quand le poulet a pris couleur.",
+   "t": "Onions in two stages: one grated onion at the start and the rest sliced, added with the lentils (Paula Wolfert); Lalla Moulati adds 2 chopped onions at the start and 4 sliced ones once the chicken has taken on colour."
+  },
+  "variants.7": {
+   "fr": "Lentilles cuites à part : couvertes d'eau et cuites jusqu'à évaporation, puis mijotées 10 min avec une louche de sauce (Choumicha).",
+   "t": "Lentils cooked separately: covered with water and cooked until it has evaporated, then simmered for 10 min with a ladleful of sauce (Choumicha)."
+  },
+  "variants.8": {
+   "fr": "Poulet doré quelques minutes au four ou sous le gril avant de servir (Taste of Maroc ; Bladi.net) ; pour un poulet servi entier, Taste of Maroc le finit au four à 230 °C.",
+   "t": "Chicken browned for a few minutes in the oven or under the grill before serving (Taste of Maroc; Bladi.net); for a chicken served whole, Taste of Maroc finishes it in the oven at 230 °C."
+  },
+  "variants.9": {
+   "fr": "Sans couscoussier : arrose les lanières d'un peu d'eau, couvre-les et réchauffe-les au micro-ondes (Taste of Maroc).",
+   "t": "Without a couscoussier: sprinkle the strips with a little water, cover them and reheat them in the microwave (Taste of Maroc)."
+  }
+ }
+}

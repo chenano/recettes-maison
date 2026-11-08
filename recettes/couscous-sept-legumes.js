@@ -95,6 +95,7 @@ window.RECETTES.push({
      "u": "pincée",
      "name": "de safran en filaments",
      "note": "facultatif",
+     "round": "up",
      "canon": "safran"
     },
     {

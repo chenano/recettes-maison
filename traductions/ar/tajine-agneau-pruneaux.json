@@ -1,0 +1,550 @@
+{
+ "_slug": "tajine-agneau-pruneaux",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Tajine d'agneau aux pruneaux et aux amandes",
+   "t": "طاجين اللحم بالبرقوق واللوز"
+  },
+  "darija": {
+   "fr": "Lham bel barkouk",
+   "t": "اللحم بالبرقوق"
+  },
+  "tagline": {
+   "fr": "Un agneau fondant au safran et au gingembre dans sa sauce aux oignons, couronné de pruneaux caramélisés à la cannelle, d'amandes frites et de sésame grillé.",
+   "t": "لحم خروف طري يذوب في الفم، بالزعفران والزنجبيل (سكينجبير)، في مرقه بالبصل، يعلوه برقوق معسّل بالقرفة، ولوز مقلي، وسمسم محمّص."
+  },
+  "region": {
+   "fr": "Maroc, plat phare de la cuisine marocaine",
+   "t": "المغرب، من أبرز أطباق المطبخ المغربي"
+  },
+  "occasion": {
+   "fr": "Fêtes et mariages, Aïd al-Adha, réceptions, ftour du Ramadan",
+   "t": "الأعياد والأعراس، عيد الأضحى، الحفلات والولائم، الفطور في رمضان"
+  },
+  "img_alt": {
+   "fr": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
+   "t": "طاجين بالبرقوق واللوز في آنيته الطينية"
+  },
+  "serving": {
+   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
+   "t": "يُقدَّم ساخنًا جدًا، في طاجين تقديم مسخَّن أو في طبق عميق يوضع وسط المائدة ليتقاسمه الجميع: اللحم مغطّى بمرقه الممزوج بقليل من الشراب، والبرقوق المعسّل فوقه، ثم اللوز المقلي والسمسم المحمّص. يؤكل مع الخبز لتغميسه في المرق؛ أما الكسكس فطبق مستقل."
+  },
+  "ing.0.group": {
+   "fr": "Viande et sauce",
+   "t": "اللحم والمرق"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau halal (épaule ou collier, avec os)",
+   "t": "لحم خروف حلال (كتف أو رقبة، بالعظم)"
+  },
+  "ing.viande.note": {
+   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
+   "t": "مقطّع قطعًا كبيرة؛ تختار Choumicha الكتف أو الفخذ، ويختار My Moroccan Food وGrantourismo الكتف أو الرقبة أو لحم الساق"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.oignons.note": {
+   "fr": "à hacher finement, ou à râper",
+   "t": "تُفرم ناعمًا أو تُبشر"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "زيت زيتون أو زيت المائدة"
+  },
+  "ing.smen.name": {
+   "fr": "de smen",
+   "t": "سمن بلدي"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif ; c'est la touche de Choumicha",
+   "t": "اختياري؛ وهو لمسة Choumicha"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "يُعدَّل في آخر الطهي"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "خيوط زعفران"
+  },
+  "ing.safran.note": {
+   "fr": "Choumicha en compte 8 pour 1 kg de viande",
+   "t": "تعدّ منها Choumicha 8 خيوط لكل 1 كغ من اللحم"
+  },
+  "ing.eau-safran.name": {
+   "fr": "d'eau tiède, pour le safran",
+   "t": "ماء فاتر، للزعفران"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "عود قرفة"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "أعواد قرفة"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "كزبرة طازجة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil frais",
+   "t": "بقدونس طازج"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau chaude",
+   "t": "ماء ساخن"
+  },
+  "ing.eau.note": {
+   "fr": "jamais froide ; rajoutes-en un peu en cours de cuisson si la viande n'est plus à moitié couverte",
+   "t": "لا يكون باردًا أبدًا؛ أضف منه قليلًا في أثناء الطهي إذا لم يعد الماء يغطي نصف اللحم"
+  },
+  "ing.1.group": {
+   "fr": "Pruneaux caramélisés",
+   "t": "البرقوق المعسّل"
+  },
+  "ing.pruneaux.name": {
+   "fr": "de pruneaux secs",
+   "t": "برقوق مجفّف"
+  },
+  "ing.pruneaux.note": {
+   "fr": "Choumicha les dénoyaute",
+   "t": "تنزع Choumicha نواه"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule (ou de miel)",
+   "t": "سكر أبيض (أو عسل)"
+  },
+  "ing.sucre.note": {
+   "fr": "un peu moins si tu le veux moins sucré",
+   "t": "أقل قليلًا إن أردته أقل حلاوة"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "ing.2.group": {
+   "fr": "Décoration",
+   "t": "التزيين"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (sans peau)",
+   "t": "لوز مقشّر (منزوع الجلدة)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile pour frire les amandes",
+   "t": "زيت لقلي اللوز"
+  },
+  "ing.huile-friture.pl": {
+   "fr": "huile pour frire les amandes",
+   "t": "زيت لقلي اللوز"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "بذور سمسم"
+  },
+  "equipment.0": {
+   "fr": "Grande cocotte à fond épais avec couvercle, ou tajine en terre vernissé sur diffuseur de chaleur",
+   "t": "قدر كبير بقاع سميك وغطاء، أو طاجين من الطين المزجّج فوق موزّع حرارة"
+  },
+  "equipment.1": {
+   "fr": "Tajine de service ou plat creux",
+   "t": "طاجين للتقديم أو طبق عميق"
+  },
+  "equipment.2": {
+   "fr": "Petite casserole avec couvercle (pruneaux)",
+   "t": "قدر صغير بغطاء (للبرقوق)"
+  },
+  "equipment.3": {
+   "fr": "Petite poêle (amandes, puis sésame)",
+   "t": "مقلاة صغيرة (للوز، ثم للسمسم)"
+  },
+  "equipment.4": {
+   "fr": "Petit bol et saladier",
+   "t": "وعاء صغير ووعاء سلطة"
+  },
+  "equipment.5": {
+   "fr": "Ficelle de cuisine",
+   "t": "خيط الطبخ"
+  },
+  "equipment.6": {
+   "fr": "Écumoire et papier absorbant",
+   "t": "مغرفة مثقوبة ومناديل ورقية ماصّة"
+  },
+  "steps.0.title": {
+   "fr": "Fais infuser le safran",
+   "t": "انقع الزعفران"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{safran}} de pistils de safran dans un petit bol avec {{eau-safran}} d'eau tiède. Laisse infuser 10 min pendant que tu prépares le reste.",
+   "t": "ضع {{safran}} من خيوط الزعفران في وعاء صغير مع {{eau-safran}} من الماء الفاتر. اتركه منقوعًا 10 دقائق بينما تحضّر الباقي."
+  },
+  "steps.0.timer.label": {
+   "fr": "Infusion du safran",
+   "t": "نقع الزعفران"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le safran a infusé : garde le bol à portée de main.",
+   "t": "انتهى نقع الزعفران: أبقِ الوعاء في متناول يدك."
+  },
+  "steps.1.title": {
+   "fr": "Prépare oignons, ail et bouquet",
+   "t": "حضّر البصل والثوم وحزمة الأعشاب"
+  },
+  "steps.1.text": {
+   "fr": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
+   "t": "افرم {{oignons:full}} فرمًا ناعمًا أو ابشرها، واهرس {{ail:full}}. اربط بالخيط {{coriandre}} من الكزبرة و{{persil}} من البقدونس معًا في حزمة صغيرة. إن لم يفعل الجزار ذلك، فقطّع اللحم قطعًا كبيرة مع الإبقاء على العظام."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع شرائح رفيعة وثوم مهروس على لوح تقطيع"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل شرائح رفيعة"
+  },
+  "steps.2.title": {
+   "fr": "Fais revenir la viande dans les épices",
+   "t": "شوّح اللحم مع التوابل"
+  },
+  "steps.2.text": {
+   "fr": "Dans une grande cocotte à fond épais, à feu moyen-doux, mets {{huile}} d'huile, {{smen}} de smen, les oignons, l'ail, {{gingembre}} de gingembre, {{poivre}} de poivre, {{sel}} de sel, {{cannelle-baton:full}} et l'eau safranée. Mélange, ajoute {{viande}} d'agneau et fais revenir le tout 5 à 10 min en remuant souvent : la viande doit se colorer de tous côtés, sans brûler.",
+   "t": "في قدر كبير بقاع سميك، على نار متوسطة إلى هادئة، ضع {{huile}} من الزيت، و{{smen}} من السمن البلدي، والبصل، والثوم، و{{gingembre}} من الزنجبيل، و{{poivre}} من الفلفل الأسود، و{{sel}} من الملح، و{{cannelle-baton:full}}، وماء الزعفران. اخلط، ثم أضف {{viande}} من لحم الخروف، وشوّح الكل من 5 إلى 10 دقائق مع التحريك كثيرًا: يجب أن يتلوّن اللحم من كل الجهات دون أن يحترق."
+  },
+  "steps.2.timer.label": {
+   "fr": "Viande revenue",
+   "t": "تشويح اللحم"
+  },
+  "steps.2.timer.done": {
+   "fr": "La viande est colorée de tous côtés : verse l'eau chaude.",
+   "t": "تلوّن اللحم من كل الجهات: اسكب الماء الساخن."
+  },
+  "steps.3.title": {
+   "fr": "Mouille et laisse mijoter 1 h",
+   "t": "أضف الماء واطبخ على نار هادئة 1 ساعة"
+  },
+  "steps.3.text": {
+   "fr": "Verse {{eau}} d'eau chaude, jamais froide : la viande doit être à peu près à moitié couverte, complète un peu si besoin. Pose le bouquet d'herbes dessus et porte à ébullition. Couvre, baisse à feu doux et laisse mijoter 1 h en remuant de temps en temps.",
+   "t": "اسكب {{eau}} من الماء الساخن، ولا يكون باردًا أبدًا: يجب أن يغطي الماء نصف اللحم تقريبًا، فأضف قليلًا إن لزم. ضع حزمة الأعشاب فوقه واتركه حتى يغلي. غطِّ القدر، واخفض النار إلى هادئة، واتركه يُطهى 1 ساعة مع التحريك من حين لآخر."
+  },
+  "steps.3.timer.label": {
+   "fr": "Mijotage : 1re heure",
+   "t": "الطهي على نار هادئة: الساعة 1"
+  },
+  "steps.3.timer.done": {
+   "fr": "1 h de mijotage : prélève de la sauce pour les pruneaux.",
+   "t": "مرّت 1 ساعة على الطهي: خذ قليلًا من المرق للبرقوق."
+  },
+  "steps.4.title": {
+   "fr": "Pendant ce temps, fais gonfler les pruneaux",
+   "t": "في هذه الأثناء، انقع البرقوق لينتفخ"
+  },
+  "steps.4.text": {
+   "fr": "Rince {{pruneaux}} de pruneaux, couvre-les d'eau bouillante et laisse-les gonfler 15 min. Égoutte-les.",
+   "t": "اشطف {{pruneaux}} من البرقوق، واغمره بماء مغلي، واتركه ينتفخ 15 دقيقة. ثم صفّه."
+  },
+  "steps.4.timer.label": {
+   "fr": "Trempage des pruneaux",
+   "t": "نقع البرقوق"
+  },
+  "steps.4.timer.done": {
+   "fr": "Égoutte les pruneaux et garde-les de côté.",
+   "t": "صفِّ البرقوق واحتفظ به جانبًا."
+  },
+  "steps.5.title": {
+   "fr": "Fais frire les amandes",
+   "t": "اقلِ اللوز"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe un fond d'huile dans une petite poêle, à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient bien dorées. Égoutte-les sur du papier absorbant.",
+   "t": "سخّن قليلًا من الزيت يغطي قاع مقلاة صغيرة، على نار متوسطة. اقلِ فيه {{amandes}} من اللوز المقشّر مع التحريك دون توقف، حتى يصير ذهبيًا جيدًا. صفّه على مناديل ورقية ماصّة."
+  },
+  "steps.6.title": {
+   "fr": "Fais griller le sésame",
+   "t": "حمّص السمسم"
+  },
+  "steps.6.text": {
+   "fr": "Essuie la poêle et fais-y griller à sec {{sesame}} de graines de sésame, à feu moyen-doux, en remuant, juste jusqu'à ce qu'elles blondissent. Verse-les aussitôt dans un bol.",
+   "t": "امسح المقلاة وحمّص فيها {{sesame}} من بذور السمسم بدون دهن، على نار متوسطة إلى هادئة، مع التحريك، فقط حتى يصير لونها ذهبيًا فاتحًا. اسكبها فورًا في وعاء."
+  },
+  "steps.7.title": {
+   "fr": "Prélève de la sauce pour les pruneaux",
+   "t": "خذ قليلًا من المرق للبرقوق"
+  },
+  "steps.7.text": {
+   "fr": "Au bout d'une heure de mijotage, verse environ un quart de la sauce de la cocotte dans une petite casserole. S'il ne reste presque plus de sauce, rajoute un peu d'eau chaude dans la cocotte. Recouvre et laisse la viande mijoter encore 30 min à feu doux.",
+   "t": "بعد ساعة من الطهي على نار هادئة، اسكب نحو ربع مرق القدر في قدر صغير. إذا لم يبقَ من المرق إلا القليل، فأضف قليلًا من الماء الساخن إلى القدر الكبير. غطِّه من جديد، واترك اللحم يُطهى 30 دقيقة أخرى على نار هادئة."
+  },
+  "steps.7.timer.label": {
+   "fr": "Fin du mijotage",
+   "t": "نهاية الطهي على نار هادئة"
+  },
+  "steps.7.timer.done": {
+   "fr": "Vérifie : la viande doit se détacher de l'os ; sinon, prolonge de 15 min.",
+   "t": "تحقّق: يجب أن ينفصل اللحم عن العظم؛ وإلا فمدّد الطهي 15 دقيقة."
+  },
+  "steps.8.title": {
+   "fr": "Cuis les pruneaux dans la sauce",
+   "t": "اطبخ البرقوق في المرق"
+  },
+  "steps.8.text": {
+   "fr": "Ajoute {{beurre}} de beurre dans la petite casserole et fais-le fondre à feu moyen. Ajoute les pruneaux égouttés, couvre et laisse cuire 10 min, jusqu'à ce qu'ils soient tendres.",
+   "t": "أضف {{beurre}} من الزبدة إلى القدر الصغير وذوّبها على نار متوسطة. أضف البرقوق المصفّى، وغطِّ القدر، واتركه يُطهى 10 دقائق حتى يطرى."
+  },
+  "steps.8.timer.label": {
+   "fr": "Pruneaux dans la sauce",
+   "t": "البرقوق في المرق"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les pruneaux sont tendres : ajoute le sucre et la cannelle.",
+   "t": "صار البرقوق طريًا: أضف السكر والقرفة."
+  },
+  "steps.9.title": {
+   "fr": "Caramélise les pruneaux",
+   "t": "حضّر البرقوق المعسّل"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute {{sucre}} de sucre (ou de miel) et {{cannelle-moulue}} de cannelle moulue, puis mélange délicatement pour ne pas écraser les pruneaux. Couvre et laisse confire 10 min à feu doux : ils doivent être brillants, dans un sirop épais. Si le sirop reste liquide, découvre et laisse réduire quelques minutes. Garde au chaud.",
+   "t": "أضف {{sucre}} من السكر (أو العسل) و{{cannelle-moulue}} من القرفة المطحونة، ثم اخلط برفق حتى لا يتهرّس البرقوق. غطِّ القدر واتركه يتعسّل 10 دقائق على نار هادئة: يجب أن يصير لامعًا في شراب كثيف. إذا بقي الشراب سائلًا، فاكشف القدر واتركه يتكثّف بضع دقائق. احتفظ به ساخنًا."
+  },
+  "steps.9.timer.label": {
+   "fr": "Pruneaux caramélisés",
+   "t": "البرقوق المعسّل"
+  },
+  "steps.9.timer.done": {
+   "fr": "Sirop épais, pruneaux brillants : garde-les au chaud.",
+   "t": "شراب كثيف وبرقوق لامع: احتفظ به ساخنًا."
+  },
+  "steps.10.title": {
+   "fr": "Fais réduire la sauce de la viande",
+   "t": "كثّف مرق اللحم"
+  },
+  "steps.10.text": {
+   "fr": "Quand la viande se détache de l'os, retire le bouquet d'herbes. Si la sauce est encore liquide, fais-la réduire à découvert 10 à 15 min à feu moyen-doux, en remuant de temps en temps : elle doit être épaisse, avec des oignons fondus. Goûte et rectifie le sel. Pendant ce temps, réchauffe le plat de service au four chaud éteint, ou remplis-le d'eau chaude puis vide-le.",
+   "t": "عندما ينفصل اللحم عن العظم، أخرج حزمة الأعشاب. إذا كان المرق ما يزال سائلًا، فاتركه يتكثّف والقدر مكشوف من 10 إلى 15 دقيقة على نار متوسطة إلى هادئة، مع التحريك من حين لآخر: يجب أن يصير كثيفًا، والبصل ذائبًا فيه. تذوّق وعدّل الملح. وفي هذه الأثناء، سخّن طبق التقديم في فرن ساخن بعد إطفائه، أو املأه بماء ساخن ثم أفرغه."
+  },
+  "steps.10.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "تكثيف المرق"
+  },
+  "steps.10.timer.done": {
+   "fr": "La sauce est épaisse : passe au service.",
+   "t": "صار المرق كثيفًا: انتقل إلى التقديم."
+  },
+  "steps.11.title": {
+   "fr": "Dresse et sers",
+   "t": "رتّب الطبق وقدّمه"
+  },
+  "steps.11.text": {
+   "fr": "Dispose la viande dans le plat chaud et garnis-la des pruneaux. Mélange la sauce de la viande avec un peu de sirop des pruneaux et nappe-en la viande. Parsème d'amandes frites et de graines de sésame grillées. Sers aussitôt, au centre de la table, avec du pain.",
+   "t": "رتّب اللحم في الطبق الساخن وزيّنه بالبرقوق. اخلط مرق اللحم بقليل من شراب البرقوق واسكبه على اللحم. رشّ فوقه اللوز المقلي وبذور السمسم المحمّصة. قدّمه فورًا وسط المائدة مع الخبز."
+  },
+  "secrets.0.text": {
+   "fr": "Fais cuire les pruneaux à part, pas dans la cocotte : ils caramélisent mieux et le plat ne vire pas au brun-noir.",
+   "t": "اطبخ البرقوق على حدة، لا في قدر اللحم: فهو يتعسّل أفضل، ولا يتحوّل لون الطبق إلى بني يميل إلى الأسود."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; cuisson à part aussi chez Choumicha, Bladi, Cooking with Alia, Morocco World News et Femmes du Maroc",
+   "t": "My Moroccan Food (Nargisse Benkabbou)؛ والطهي على حدة أيضًا عند Choumicha وBladi وCooking with Alia وMorocco World News وFemmes du Maroc"
+  },
+  "secrets.1.text": {
+   "fr": "Confis les pruneaux dans un peu de sauce prélevée sur la viande, avec du beurre, puis le sucre ou le miel et la cannelle, jusqu'à un sirop épais.",
+   "t": "اطبخ البرقوق على مهل في قليل من المرق المأخوذ من اللحم، مع الزبدة، ثم السكر أو العسل والقرفة، حتى يصير الشراب كثيفًا."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia ; Morocco World News ; Bladi (« deux louches de sauce ») ; My Moroccan Food (sauce prélevée au bout d'1 h)",
+   "t": "Cooking with Alia؛ Morocco World News؛ Bladi («مغرفتان من المرق»)؛ My Moroccan Food (مرق يؤخذ بعد 1 ساعة)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais d'abord gonfler les pruneaux dans l'eau bouillante pour les attendrir.",
+   "t": "انقع البرقوق أولًا في ماء مغلي لينتفخ ويطرى."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking with Alia (15 min) ; My Moroccan Food (5 min) ; Bladi (pruneaux « gonflés dans l'eau »)",
+   "t": "Cooking with Alia (15 دقيقة)؛ My Moroccan Food (5 دقائق)؛ Bladi (برقوق «منفوخ في الماء»)"
+  },
+  "secrets.3.text": {
+   "fr": "Fais infuser les pistils de safran 10 min dans un peu d'eau tiède avant de les verser dans la cocotte.",
+   "t": "انقع خيوط الزعفران 10 دقائق في قليل من الماء الفاتر قبل سكبها في القدر."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.4.text": {
+   "fr": "Ajoute une cuillerée de smen avec les épices de la viande.",
+   "t": "أضف ملعقة من السمن البلدي مع توابل اللحم."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Pose sur la viande un bouquet ficelé de coriandre et de persil, et retire-le avant de servir.",
+   "t": "ضع فوق اللحم حزمة من الكزبرة والبقدونس مربوطة بالخيط، وأخرجها قبل التقديم."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)",
+   "t": "Choumicha (حزمة بقدونس وكزبرة)؛ Grantourismo، وصفة Terence Carter التي تعلّمها من Jamila ثم عدّلها (حزمة تُخرج لاحقًا)؛ My Moroccan Food (حزمة كزبرة مربوطة)"
+  },
+  "secrets.6.text": {
+   "fr": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
+   "t": "في أثناء الطهي، أضف دائمًا ماءً ساخنًا، لا باردًا أبدًا، وأبقِ نصف اللحم مغمورًا: أضف قليلًا من الماء الساخن إذا بدأ المرق يلتصق بالقاع."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha (conseil donné pour le tajine en terre) ; Cooking with Alia (viande à moitié couverte) ; My Moroccan Food (eau ajoutée si ça attache)",
+   "t": "Choumicha (نصيحة خاصة بالطاجين الطيني)؛ Cooking with Alia (اللحم مغمور إلى نصفه)؛ My Moroccan Food (يُضاف الماء إذا التصق)"
+  },
+  "secrets.7.text": {
+   "fr": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
+   "t": "يكون المرق جاهزًا حين يتكثّف فلا يبقى منه إلا البصل الذائب والزيت، كثيفًا ولزجًا كالشراب."
+  },
+  "secrets.7.source": {
+   "fr": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)",
+   "t": "Grantourismo (بطاقة وصفة Terence Carter، معدّلة عن وصفة Jamila)؛ Choumicha («مرق متكثّف»)؛ Cooking with Alia («مرق كثيف»)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
+   "t": "لمرق أكثف وأوفر، أكثِر من البصل: يضع My Moroccan Food منه 800 غ لكل 1,2 كغ من اللحم."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Avant de napper, mélange la sauce de la viande avec un peu du sirop des pruneaux.",
+   "t": "قبل سكب المرق على اللحم، اخلطه بقليل من شراب البرقوق."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.10.text": {
+   "fr": "Amandes mondées frites dans l'huile puis égouttées ; sésame grillé légèrement, à sec.",
+   "t": "لوز مقشّر يُقلى في الزيت ثم يُصفّى؛ وسمسم يُحمَّص قليلًا بدون دهن."
+  },
+  "secrets.10.source": {
+   "fr": "Bladi ; Femmes du Maroc (amandes « émondées et frites ») ; Cooking with Alia (amandes frites)",
+   "t": "Bladi؛ Femmes du Maroc (لوز «مقشّر ومقلي»)؛ Cooking with Alia (لوز مقلي)"
+  },
+  "secrets.11.text": {
+   "fr": "Choisis un morceau qui supporte une longue cuisson, avec os : épaule, collier ou souris d'agneau.",
+   "t": "اختر قطعة تتحمّل الطهي الطويل، بالعظم: الكتف أو الرقبة أو لحم الساق من الخروف."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
+   "t": "My Moroccan Food؛ Grantourismo؛ Choumicha (الكتف أو الفخذ)؛ Bladi (الكتف)"
+  },
+  "secrets.12.text": {
+   "fr": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
+   "t": "اليوم، في المغرب، كثيرًا ما يُطهى الطاجين في قدر كبير، ثم يُنقل إلى الطاجين الطيني ليُقدَّم وسط المائدة."
+  },
+  "secrets.12.source": {
+   "fr": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech",
+   "t": "Grantourismo، نقلًا عن Jamila، طبّاخة في رياض بمراكش"
+  },
+  "secrets.13.text": {
+   "fr": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
+   "t": "طاجين التقديم المزجّج والمزخرف لا يوضع على النار أبدًا: سخّنه قبل ترتيب الطبق فيه، في فرن ساخن بعد إطفائه أو بالماء الساخن."
+  },
+  "secrets.13.source": {
+   "fr": "Choumicha (conseils sur le tajine)",
+   "t": "Choumicha (نصائح حول الطاجين)"
+  },
+  "mistakes.0": {
+   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+   "t": "طهي البرقوق في القدر مع اللحم إذا كنت تريده معسّلًا جيدًا: فهو يتعسّل بدرجة أقل ويصير لون الطبق بنيًا (My Moroccan Food). ومع ذلك فليس هذا خطأً بالمعنى الدقيق: هذا ما يقوله My Moroccan Food، كما أن Grantourismo ووصفة أخرى من Bladi.net يطهوانه في القدر."
+  },
+  "mistakes.1": {
+   "fr": "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
+   "t": "إضافة ماء بارد في أثناء الطهي: أضف دائمًا ماءً ساخنًا (Choumicha، نصيحة خاصة بالطاجين الطيني)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la sauce s'assécher : la viande attache. Rajoute un peu d'eau chaude dès qu'il n'en reste presque plus (My Moroccan Food, Cooking with Alia).",
+   "t": "ترك المرق يجفّ: يلتصق اللحم بالقاع. أضف قليلًا من الماء الساخن بمجرد أن يكاد المرق ينفد (My Moroccan Food، Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Arrêter la cuisson trop tôt : la viande doit se détacher facilement de l'os (My Moroccan Food).",
+   "t": "إيقاف الطهي قبل الأوان: يجب أن ينفصل اللحم عن العظم بسهولة (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Brusquer les pruneaux en fin de cuisson : mélange-les délicatement (Cooking with Alia).",
+   "t": "التعامل بعنف مع البرقوق في آخر الطهي: اخلطه برفق (Cooking with Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Trop griller le sésame : il doit juste blondir (Bladi : « griller légèrement »).",
+   "t": "الإفراط في تحميص السمسم: يجب أن يصير ذهبيًا فاتحًا فقط (Bladi: «يُحمَّص قليلًا»)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre un tajine en terre sur un feu vif : il peut se fissurer. Toujours à feu doux, avec un diffuseur sur le gaz (Choumicha).",
+   "t": "وضع طاجين طيني على نار قوية: قد يتشقّق. استعمله دائمًا على نار هادئة، مع موزّع حرارة فوق موقد الغاز (Choumicha)."
+  },
+  "mistakes.7": {
+   "fr": "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
+   "t": "وضع الطاجين المزجّج والمزخرف على النار: فهو للتقديم فقط (Choumicha)."
+  },
+  "mistakes.8": {
+   "fr": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
+   "t": "الاعتقاد بأن الطاجين يُقدَّم في المغرب مع الكسكس: فالكسكس هناك عادةً طبق مستقل، والطاجين يؤكل بالخبز الذي يُغمَّس في المرق (Grantourismo؛ Morocco World News). ولا مانع من تقديمه معه: يقترح My Moroccan Food الكسكس أو الخبز."
+  },
+  "variants.0": {
+   "fr": "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
+   "t": "لحم البقر: الساق أو الرقبة، بالطريقة نفسها؛ مدّد الطهي على نار هادئة حتى يصير اللحم طريًا جدًا (Cooking with Alia: من 1 إلى 2 ساعة حسب القطعة؛ My Moroccan Food، Femmes du Maroc، Morocco World News)."
+  },
+  "variants.1": {
+   "fr": "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
+   "t": "طنجرة الضغط: يطهو Bladi الكتف 20 دقيقة تحت الضغط، ثم يكمل نحو 15 دقيقة مع التحريك؛ ويحسب Morocco World News 40 دقيقة للحم البقر، ثم يكثّف المرق والطنجرة مكشوفة."
+  },
+  "variants.2": {
+   "fr": "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
+   "t": "بالعسل: يعسّل My Moroccan Food وCooking with Alia البرقوق بالعسل بدل السكر؛ ويمزج Morocco World News بين السكر والعسل."
+  },
+  "variants.3": {
+   "fr": "Pruneaux et abricots : Femmes du Maroc (abricots secs) et la cheffe Asmaa Alami (Le360) associent pruneaux et abricots caramélisés ; Femmes du Maroc ajoute aussi des coings ou des pommes caramélisés.",
+   "t": "البرقوق والمشمش: يجمع Femmes du Maroc (مشمش مجفّف) والطاهية Asmaa Alami (Le360) بين البرقوق والمشمش المعسّلين؛ ويضيف Femmes du Maroc أيضًا السفرجل أو التفاح المعسّل."
+  },
+  "variants.4": {
+   "fr": "Épices en plus : une pincée de ras el hanout (Choumicha, Cooking with Alia) ou un peu de curcuma (My Moroccan Food, Morocco World News, Cooking with Alia).",
+   "t": "توابل إضافية: رشة من رأس الحانوت (Choumicha، Cooking with Alia) أو قليل من الكركم (My Moroccan Food، Morocco World News، Cooking with Alia)."
+  },
+  "variants.5": {
+   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
+   "t": "لوز محمّص بدل المقلي (Choumicha، My Moroccan Food)، أو لوز مقطّع شرائح رقيقة (Le360، Grantourismo)."
+  },
+  "variants.6": {
+   "fr": "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha).",
+   "t": "الطهي كله في طاجين طيني مزجّج: على موقد الغاز مع موزّع حرارة، ودائمًا على نار هادئة؛ افرش القاع بسيقان البقدونس والكزبرة أو بحلقات البصل حتى لا يلتصق شيء (Choumicha)."
+  }
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "_slug": "the-menthe",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Thé à la menthe marocain",
+   "t": "الشاي المغربي بالنعناع"
+  },
+  "darija": {
+   "fr": "Atay b nanaa",
+   "t": "أتاي بالنعناع"
+  },
+  "tagline": {
+   "fr": "Le thé vert à la menthe des familles marocaines : on garde le premier jet, on rince le thé, puis on le verse de haut pour la mousse.",
+   "t": "الشاي الأخضر (أتاي) بالنعناع كما تحضّره العائلات المغربية: نحتفظ بالنقيع الأول، ونغسل الشاي، ثم نسكبه من عالٍ لتتكوّن الرغوة."
+  },
+  "region": {
+   "fr": "Tout le Maroc (boisson nationale) ; les herbes changent avec les saisons.",
+   "t": "كل المغرب (المشروب الوطني)؛ وتتغيّر الأعشاب بتغيّر الفصول."
+  },
+  "occasion": {
+   "fr": "Tous les jours, à toute heure : c'est la boisson de l'hospitalité, la première chose qu'on prépare pour accueillir un invité.",
+   "t": "كل يوم، وفي كل ساعة: إنه مشروب الضيافة، وأول ما يُحضَّر لاستقبال الضيف."
+  },
+  "img_alt": {
+   "fr": "Théières marocaines et verre de thé à la menthe sur un plateau",
+   "t": "أباريق شاي مغربية وكأس شاي بالنعناع على صينية"
+  },
+  "serving": {
+   "fr": "Sers très chaud, dans de petits verres et non dans des tasses, posés sur un plateau (sinia) autour de la théière (berrad) ; prévois plus de verres que d'invités. Traditionnellement, c'est le maître de maison qui prépare le thé devant ses invités. Les feuilles restent dans la théière : on sert au moins trois verres, chacun plus fort que le précédent ; un dicton dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort ; il en existe une autre version, où le premier est amer comme la vie et le dernier apaisant comme la mort. Pour plus d'arôme, glisse un peu de menthe fraîche dans chaque verre. Avec des cornes de gazelle, des ghriba ou des briouates aux amandes, ou simplement du pain et des olives.",
+   "t": "قدّمه ساخنًا جدًا، في كؤوس صغيرة لا في فناجين، موضوعة على صينية حول الإبريق (البرّاد)؛ وجهّز كؤوسًا أكثر من عدد الضيوف. وتقليديًا، ربّ البيت هو من يحضّر الشاي أمام ضيوفه. تبقى الأوراق في الإبريق: تُقدَّم ثلاثة كؤوس على الأقل، كل واحدة أقوى من التي قبلها؛ ويقول مثل إن الأولى حلوة كالحياة، والثانية قوية كالحب، والأخيرة مرّة كالموت؛ وله رواية أخرى، الأولى فيها مرّة كالحياة والأخيرة مريحة كالموت. ولرائحة أقوى، ضع قليلًا من النعناع الطازج في كل كأس. ويُقدَّم مع كعب الغزال أو الغريبة أو البريوات باللوز، أو مع الخبز والزيتون فقط."
+  },
+  "pairs_label": {
+   "fr": "Avec le thé",
+   "t": "مع الشاي"
+  },
+  "ing.0.group": {
+   "fr": "Thé à la menthe",
+   "t": "الشاي بالنعناع"
+  },
+  "ing.the.name": {
+   "fr": "de thé vert de Chine gunpowder",
+   "t": "شاي أخضر صيني من نوع gunpowder"
+  },
+  "ing.the.note": {
+   "fr": "bien remplie ; thé roulé en petits grains. À défaut, du chunmee",
+   "t": "ملعقة ممتلئة جيدًا؛ شاي ملفوف في حبيبات صغيرة. وإن لم يتوفّر، فشاي chunmee"
+  },
+  "ing.menthe.name": {
+   "fr": "de menthe fraîche (nanaa)",
+   "t": "نعناع طازج"
+  },
+  "ing.menthe.note": {
+   "fr": "une grosse botte de menthe verte, tiges comprises",
+   "t": "حزمة كبيرة من النعناع الأخضر، بسيقانها"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "سكر"
+  },
+  "ing.sucre.note": {
+   "fr": "idéalement en morceaux cassés d'un pain de sucre ; à ajuster après avoir goûté",
+   "t": "يُفضَّل أن يكون قطعًا مكسّرة من قالب سكر؛ يُعدَّل بعد التذوّق"
+  },
+  "ing.1.group": {
+   "fr": "Eau bouillante",
+   "t": "الماء المغلي"
+  },
+  "ing.eau-premier-jet.name": {
+   "fr": "d'eau bouillante, pour le premier jet",
+   "t": "ماء مغلي، للنقيع الأول"
+  },
+  "ing.eau-rincage.name": {
+   "fr": "d'eau bouillante, pour rincer le thé",
+   "t": "ماء مغلي، لغسل الشاي"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau bouillante, pour remplir la théière",
+   "t": "ماء مغلي، لملء الإبريق"
+  },
+  "ing.eau.note": {
+   "fr": "selon ta théière : environ aux trois quarts, jamais jusqu'au bord",
+   "t": "حسب إبريقك: إلى ثلاثة أرباعه تقريبًا، ولا تملأه حتى الحافة أبدًا"
+  },
+  "equipment.0": {
+   "fr": "Théière marocaine (berrad) qui supporte le feu, ou une bouilloire qui va sur le feu",
+   "t": "إبريق شاي مغربي (البرّاد) يتحمّل النار، أو غلاية توضع على النار"
+  },
+  "equipment.1": {
+   "fr": "Bouilloire pour faire bouillir l'eau",
+   "t": "غلاية لغلي الماء"
+  },
+  "equipment.2": {
+   "fr": "Petits verres à thé, plus un verre pour garder le premier jet",
+   "t": "كؤوس شاي صغيرة، وكأس إضافية للاحتفاظ بالنقيع الأول"
+  },
+  "equipment.3": {
+   "fr": "Plateau (sinia)",
+   "t": "صينية"
+  },
+  "equipment.4": {
+   "fr": "Torchon en coton pour tenir l'anse brûlante",
+   "t": "منشفة قطنية لمسك المقبض الساخن جدًا"
+  },
+  "equipment.5": {
+   "fr": "Petite passoire, si tu prépares le thé dans une bouilloire",
+   "t": "مصفاة صغيرة، إن كنت تحضّر الشاي في غلاية"
+  },
+  "equipment.6": {
+   "fr": "Petit marteau pour casser le pain de sucre (facultatif)",
+   "t": "مطرقة صغيرة لكسر قالب السكر (اختيارية)"
+  },
+  "steps.0.title": {
+   "fr": "Fais bouillir l'eau et lave la menthe",
+   "t": "اغلِ الماء واغسل النعناع"
+  },
+  "steps.0.text": {
+   "fr": "Fais bouillir toute l'eau de la liste dans une bouilloire. Pendant ce temps, lave délicatement {{menthe}} de menthe et égoutte-la.",
+   "t": "اغلِ كل الماء المذكور في القائمة في غلاية. وفي هذه الأثناء، اغسل {{menthe}} من النعناع برفق وصفّه."
+  },
+  "steps.1.title": {
+   "fr": "Le premier jet : garde l'esprit du thé",
+   "t": "النقيع الأول: احتفظ بروح الشاي"
+  },
+  "steps.1.text": {
+   "fr": "Mets {{the}} de thé vert dans la théière et verse dessus {{eau-premier-jet}} d'eau bouillante. Laisse infuser 1 minute, puis verse ce premier jet dans un verre et garde-le de côté : c'est l'esprit du thé, ne le jette pas.",
+   "t": "ضع {{the}} من الشاي الأخضر في الإبريق، واسكب فوقه {{eau-premier-jet}} من الماء المغلي. اتركه منقوعًا 1 دقيقة، ثم اسكب هذا النقيع الأول في كأس واحتفظ به جانبًا: إنه روح الشاي، فلا ترمه."
+  },
+  "steps.1.timer.label": {
+   "fr": "Premier jet",
+   "t": "النقيع الأول"
+  },
+  "steps.1.timer.done": {
+   "fr": "Verse le premier jet dans un verre et garde-le.",
+   "t": "اسكب النقيع الأول في كأس واحتفظ به."
+  },
+  "steps.2.title": {
+   "fr": "Rince le thé et jette cette eau",
+   "t": "اغسل الشاي وتخلّص من هذا الماء"
+  },
+  "steps.2.text": {
+   "fr": "Verse {{eau-rincage}} d'eau bouillante sur les feuilles et fais tourner la théière deux ou trois fois. Jette cette eau, plus foncée, par le bec : elle emporte l'amertume et la poussière, et les feuilles restent dans la théière.",
+   "t": "اسكب {{eau-rincage}} من الماء المغلي على الأوراق، وحرّك الإبريق حركة دائرية مرتين أو ثلاثًا. تخلّص من هذا الماء، الأدكن لونًا، من الفوهة: فهو يحمل معه المرارة والغبار، وتبقى الأوراق في الإبريق."
+  },
+  "steps.3.title": {
+   "fr": "Ajoute la menthe, le sucre et le premier jet",
+   "t": "أضف النعناع والسكر والنقيع الأول"
+  },
+  "steps.3.text": {
+   "fr": "Tasse la menthe dans la théière, tiges comprises, et ajoute {{sucre}} de sucre. Reverse le premier jet, puis complète avec {{eau}} d'eau bouillante, sans remplir jusqu'au bord. La menthe doit être entièrement sous l'eau.",
+   "t": "اضغط النعناع داخل الإبريق بسيقانه، وأضف {{sucre}} من السكر. أعد سكب النقيع الأول، ثم أضف {{eau}} من الماء المغلي، دون أن تملأ الإبريق حتى الحافة. يجب أن يكون النعناع كله مغمورًا بالماء."
+  },
+  "steps.4.title": {
+   "fr": "Porte doucement à ébullition",
+   "t": "اتركه يغلي على مهل"
+  },
+  "steps.4.text": {
+   "fr": "Pose la théière sur feu doux à moyen et laisse-la monter lentement jusqu'à l'ébullition : de la vapeur s'échappe de la théière. Retire-la aussitôt du feu, en tenant l'anse avec un torchon, car elle est brûlante.",
+   "t": "ضع الإبريق على نار هادئة إلى متوسطة، واتركه يصل ببطء إلى الغليان: يتصاعد البخار من الإبريق. ارفعه عن النار فورًا، ممسكًا المقبض بمنشفة، لأنه ساخن جدًا."
+  },
+  "steps.5.title": {
+   "fr": "Mélange en versant et reversant",
+   "t": "اخلط بالسكب وإعادة السكب"
+  },
+  "steps.5.text": {
+   "fr": "Remplis un verre de thé et reverse-le dans la théière. Recommence 2 ou 3 fois : le sucre fond et les saveurs se mélangent.",
+   "t": "املأ كأسًا من الشاي وأعد سكبها في الإبريق. كرّر ذلك 2 أو 3 مرات: فيذوب السكر وتمتزج النكهات."
+  },
+  "steps.6.title": {
+   "fr": "Goûte et rectifie le sucre",
+   "t": "تذوّق وعدّل السكر"
+  },
+  "steps.6.text": {
+   "fr": "Verse un fond de verre et goûte. S'il manque du sucre, ajoutes-en, puis refais un aller-retour entre le verre et la théière.",
+   "t": "اسكب قليلًا في قاع كأس وتذوّق. إذا نقص السكر، فأضف منه، ثم أعد السكب مرة أخرى بين الكأس والإبريق."
+  },
+  "steps.7.title": {
+   "fr": "Sers de haut pour la mousse",
+   "t": "اسكبه من عالٍ لتتكوّن الرغوة"
+  },
+  "steps.7.text": {
+   "fr": "Verse le thé dans les petits verres en levant haut la théière, d'un geste régulier : plus tu verses de haut, plus il mousse. Cette mousse doit occuper environ un quart du verre. Sers très chaud.",
+   "t": "اسكب الشاي في الكؤوس الصغيرة رافعًا الإبريق عاليًا، بحركة منتظمة: كلما سكبت من أعلى، زادت الرغوة. يجب أن تملأ هذه الرغوة نحو ربع الكأس. قدّمه ساخنًا جدًا."
+  },
+  "steps.7.img.alt": {
+   "fr": "Homme qui verse le thé de haut dans les verres",
+   "t": "رجل يسكب الشاي من عالٍ في الكؤوس"
+  },
+  "steps.7.img.caption": {
+   "fr": "Verser de haut",
+   "t": "السكب من عالٍ"
+  },
+  "secrets.0.text": {
+   "fr": "Garde le premier jet : cette première eau, versée sur le thé et laissée 1 minute, est « l'esprit du thé », la plus parfumée. Mets-la de côté dans un verre, elle retourne ensuite dans la théière.",
+   "t": "احتفظ بالنقيع الأول: هذا الماء الأول، الذي يُسكب على الشاي ويُترك 1 دقيقة، هو «روح الشاي»، وهو الأكثر عطرًا. ضعه جانبًا في كأس، فهو يعود بعد ذلك إلى الإبريق."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking with Alia (« spirit of the tea », nom employé au Maroc selon elle) ; My Moroccan Food (« essence », « ne la jette pas ») ; Royal Mansour (« premier essentiel retenu »)",
+   "t": "Cooking with Alia («spirit of the tea»، وهو الاسم المستعمل في المغرب حسب قولها)؛ My Moroccan Food («essence»، «لا ترمه»)؛ Royal Mansour («الخلاصة الأولى المحتفظ بها»)"
+  },
+  "secrets.1.text": {
+   "fr": "C'est la deuxième eau, celle du rinçage, qu'on jette : elle lave les feuilles, retire une partie de l'amertume et la poussière, et ressort plus foncée.",
+   "t": "الماء الثاني، ماء الغسل، هو الذي نتخلّص منه: فهو يغسل الأوراق، ويزيل جزءًا من المرارة والغبار، ويخرج أدكن لونًا."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia, My Moroccan Food et Royal Mansour (deuxième eau jetée, plus foncée chez Alia) ; Al Jazeera (Hend Aklaw) et Moroccan Zest (le rinçage retire l'amertume, les goûts forts et la poussière)",
+   "t": "Cooking with Alia وMy Moroccan Food وRoyal Mansour (الماء الثاني يُرمى، وهو أدكن عند Alia)؛ Al Jazeera (Hend Aklaw) وMoroccan Zest (الغسل يزيل المرارة والنكهات القوية والغبار)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le thé monter doucement à ébullition, sur feu doux à moyen : c'est ce qui donne au thé et à la menthe le temps d'infuser.",
+   "t": "اترك الشاي يصل إلى الغليان على مهل، على نار هادئة إلى متوسطة: فهذا ما يمنح الشاي والنعناع الوقت لينقعا."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Cooking with Alia ; Morocco World News",
+   "t": "My Moroccan Food؛ Cooking with Alia؛ Morocco World News"
+  },
+  "secrets.3.text": {
+   "fr": "Sois généreux avec la menthe et tasse-la, en pliant les tiges s'il le faut, mais garde-la sous l'eau : à l'air, elle peut rendre le thé amer.",
+   "t": "كن سخيًا بالنعناع واضغطه، مع ثني السيقان إن لزم، لكن أبقه مغمورًا بالماء: فإذا بقي في الهواء، قد يجعل الشاي مرًّا."
+  },
+  "secrets.3.source": {
+   "fr": "Moroccan Zest",
+   "t": "Moroccan Zest"
+  },
+  "secrets.4.text": {
+   "fr": "Mélange en versant un verre de thé et en le reversant dans la théière, plusieurs fois, puis goûte et rectifie le sucre avant de servir.",
+   "t": "اخلط بسكب كأس من الشاي ثم إعادتها إلى الإبريق، عدة مرات، ثم تذوّق وعدّل السكر قبل التقديم."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking with Alia (2 à 3 fois) ; Al Jazeera (3 ou 4 verres, on goûte puis on ajoute du sucre)",
+   "t": "Cooking with Alia (من 2 إلى 3 مرات)؛ Al Jazeera (3 أو 4 كؤوس، ثم التذوّق وإضافة السكر)"
+  },
+  "secrets.5.text": {
+   "fr": "Verse de haut : plus la théière est haute, plus il y a de mousse. Cette mousse occupe environ un quart du verre ; le chroniqueur marocain Najib Refaif la compare, en plaisantant, à une « rozza » (un turban).",
+   "t": "اسكب من عالٍ: كلما ارتفع الإبريق، زادت الرغوة. وتملأ هذه الرغوة نحو ربع الكأس؛ ويشبّهها الكاتب المغربي Najib Refaif، مازحًا، بـ«الرزّة» (العمامة)."
+  },
+  "secrets.5.source": {
+   "fr": "La Vie Éco (Najib Refaif, pour l'image de la « rozza ») ; Moroccan Zest ; Al Jazeera ; Cooking with Alia",
+   "t": "La Vie Éco (Najib Refaif، لصورة «الرزّة»)؛ Moroccan Zest؛ Al Jazeera؛ Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Le sucre vient d'un pain de sucre, cassé au petit marteau ou avec le fond d'un verre ; les connaisseurs le préfèrent aux briques de sucre.",
+   "t": "يُؤخذ السكر من قالب السكر، ويُكسر بمطرقة صغيرة أو بقاع كأس؛ ويفضّله العارفون على سكر المكعّبات."
+  },
+  "secrets.6.source": {
+   "fr": "Maroc.ma (dépêche MAP) ; Morocco World News",
+   "t": "Maroc.ma (قصاصة MAP)؛ Morocco World News"
+  },
+  "secrets.7.text": {
+   "fr": "Le thé se prépare devant les invités, traditionnellement par le maître de maison, avec plus de verres que d'invités sur le plateau.",
+   "t": "يُحضَّر الشاي أمام الضيوف، ويحضّره تقليديًا ربّ البيت، مع كؤوس على الصينية أكثر من عدد الضيوف."
+  },
+  "secrets.7.source": {
+   "fr": "Royal Mansour ; Al Jazeera ; Moroccan Zest",
+   "t": "Royal Mansour؛ Al Jazeera؛ Moroccan Zest"
+  },
+  "secrets.8.text": {
+   "fr": "La base est un thé vert de Chine roulé en petits grains, le gunpowder.",
+   "t": "الأساس شاي أخضر صيني ملفوف في حبيبات صغيرة، هو شاي gunpowder."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Moroccan Zest ; Morocco World News ; Maroc.ma (« souvent de type Gunpowder »)",
+   "t": "My Moroccan Food؛ Moroccan Zest؛ Morocco World News؛ Maroc.ma («غالبًا من نوع Gunpowder»)"
+  },
+  "mistakes.0": {
+   "fr": "Jeter le premier jet : c'est l'esprit du thé, il doit retourner dans la théière.",
+   "t": "رمي النقيع الأول: إنه روح الشاي، ويجب أن يعود إلى الإبريق."
+  },
+  "mistakes.1": {
+   "fr": "Oublier le rinçage : le thé reste amer et garde sa poussière.",
+   "t": "نسيان الغسل: يبقى الشاي مرًّا ويحتفظ بغباره."
+  },
+  "mistakes.2": {
+   "fr": "Laisser des tiges de menthe hors de l'eau : le thé peut devenir amer.",
+   "t": "ترك سيقان النعناع خارج الماء: قد يصير الشاي مرًّا."
+  },
+  "mistakes.3": {
+   "fr": "Remplir la théière jusqu'au bord : laisse environ 2,5 cm de vide.",
+   "t": "ملء الإبريق حتى الحافة: اترك فراغًا من نحو 2,5 سم."
+  },
+  "mistakes.4": {
+   "fr": "Chauffer à feu vif : le thé doit monter doucement à ébullition.",
+   "t": "التسخين على نار قوية: يجب أن يصل الشاي إلى الغليان على مهل."
+  },
+  "mistakes.5": {
+   "fr": "Laisser bouillir longtemps : plus le thé bout, plus il est fort et chargé en caféine.",
+   "t": "تركه يغلي طويلًا: كلما طال غليان الشاي، صار أقوى وأغنى بالكافيين."
+  },
+  "mistakes.6": {
+   "fr": "Servir dans des tasses : le thé marocain se boit dans de petits verres.",
+   "t": "تقديمه في فناجين: الشاي المغربي يُشرب في كؤوس صغيرة."
+  },
+  "mistakes.7": {
+   "fr": "Verser de trop près : c'est la hauteur qui fait la mousse.",
+   "t": "السكب من مسافة قريبة جدًا: الارتفاع هو الذي يصنع الرغوة."
+  },
+  "variants.0": {
+   "fr": "Chiba (absinthe, la plante) en hiver : d'octobre à avril, elle remplace la menthe quand il fait froid et que la menthe est moins bonne ; dans les cafés, on la sert à part et chacun l'ajoute dans son verre. Goût nettement plus amer. Mets-en peu : l'absinthe contient de la thuyone, réputée neurotoxique ; l'Agence européenne des médicaments la réserve aux adultes et la déconseille pendant la grossesse et l'allaitement, ainsi qu'en cas de maladie du foie ou des voies biliaires ou d'allergie aux astéracées — Hespress (dépêche Anadolu) ; Agence européenne des médicaments ; aussi Al Jazeera, Moroccan Zest, Morocco World News, Wikipédia.",
+   "t": "الشيبة (نبتة الأفسنتين) في الشتاء: من أكتوبر إلى أبريل، تحلّ محلّ النعناع حين يبرد الجو وتقلّ جودة النعناع؛ وفي المقاهي، تُقدَّم على حدة ويضيفها كل واحد إلى كأسه. طعمها أمرّ بكثير. ضع منها القليل: فالأفسنتين يحتوي على مادة الثوجون، المعروفة بسمّيتها للأعصاب؛ وتقصر Agence européenne des médicaments استعماله على البالغين، ولا تنصح به في أثناء الحمل والرضاعة، ولا في حالة أمراض الكبد أو القنوات الصفراوية أو الحساسية من نباتات الفصيلة النجمية — Hespress (قصاصة Anadolu)؛ Agence européenne des médicaments؛ وأيضًا Al Jazeera وMoroccan Zest وMorocco World News وWikipédia."
+  },
+  "variants.1": {
+   "fr": "Louiza (verveine citronnelle), à la place de la menthe ou avec elle — Al Jazeera ; Morocco World News ; la verveine aussi chez My Moroccan Food et Moroccan Zest.",
+   "t": "اللويزة، بدل النعناع أو معه — Al Jazeera؛ Morocco World News؛ واللويزة أيضًا عند My Moroccan Food وMoroccan Zest."
+  },
+  "variants.2": {
+   "fr": "Zaatar en hiver, à la place de la menthe — Hespress (dépêche Anadolu) ; Asharq cite aussi le « أتاي بالزعتر ».",
+   "t": "الزعتر في الشتاء، بدل النعناع — Hespress (قصاصة Anadolu)؛ ويذكر Asharq أيضًا «أتاي بالزعتر»."
+  },
+  "variants.3": {
+   "fr": "Menthe pouliot et absinthe quand il fait froid, réputées réchauffantes ; pour l'absinthe, mêmes précautions que pour la chiba — Moroccan Zest ; Agence européenne des médicaments. Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
+   "t": "الفليو والأفسنتين حين يبرد الجو، لأنهما معروفان بأنهما يدفئان الجسم؛ وللأفسنتين الاحتياطات نفسها التي للشيبة — Moroccan Zest؛ Agence européenne des médicaments. أما الفليو في أثناء الحمل، فاطلب رأي مختصّ في الصحة: فقد استُعمل زيته قديمًا لإحداث الإجهاض (Agence européenne des médicaments، بيان حول البوليغون)."
+  },
+  "variants.4": {
+   "fr": "Fleur d'oranger : de l'eau de fleur d'oranger ajoutée hors du feu — Moroccan Zest ; Al Jazeera cite aussi les fleurs d'agrumes (« زهر الليمون ») à la place de la menthe.",
+   "t": "زهر البرتقال: ماء الزهر يُضاف بعيدًا عن النار — Moroccan Zest؛ ويذكر Al Jazeera أيضًا أزهار الحمضيات («زهر الليمون») بدل النعناع."
+  },
+  "variants.5": {
+   "fr": "Géranium, thym sauvage ou sauge à la place de la menthe — Morocco World News ; le géranium aussi chez My Moroccan Food.",
+   "t": "العطرشة أو الزعتر البري أو السالمية بدل النعناع — Morocco World News؛ والعطرشة أيضًا عند My Moroccan Food."
+  },
+  "variants.6": {
+   "fr": "Pour les fêtes (fiançailles, mariages) : boutons de rose, verveine et cannelle — Moroccan Zest.",
+   "t": "للأفراح (الخطوبة والأعراس): براعم الورد، واللويزة، والقرفة — Moroccan Zest."
+  }
+ }
+}

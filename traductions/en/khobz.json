@@ -1,0 +1,450 @@
+{
+ "_slug": "khobz",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Khobz, le pain marocain de la maison",
+   "t": "Khobz, Moroccan homemade bread"
+  },
+  "darija": {
+   "fr": "khobz (khobz dyal dar)",
+   "t": "khobz (khobz dyal dar)"
+  },
+  "tagline": {
+   "fr": "Le pain rond de tous les jours, doré et croustillant dehors, moelleux dedans, qu'on déchire à la main pour saisir le tajine. Juste de la farine, de la levure, du sel et de l'eau tiède.",
+   "t": "The everyday round bread, golden and crisp on the outside, soft inside, torn by hand to scoop up the tagine. Just flour, yeast, salt and lukewarm water."
+  },
+  "region": {
+   "fr": "Tout le Maroc (le pain se dit aussi aghroum, aɣrum, en tachelhit) ; pains proches en Algérie et en Tunisie",
+   "t": "All over Morocco (bread is also called aghroum, aɣrum, in Tashelhit); similar breads in Algeria and Tunisia"
+  },
+  "occasion": {
+   "fr": "Tous les jours, à presque tous les repas",
+   "t": "Every day, at almost every meal"
+  },
+  "img_alt": {
+   "fr": "Piles de khobz ronds sur un étal de Chefchaouen",
+   "t": "Stacks of round khobz on a stall in Chefchaouen"
+  },
+  "serving": {
+   "fr": "Le khobz accompagne presque tous les repas. On le coupe en quartiers ou on le déchire, et il remplace la fourchette et la cuillère pour saisir salades, tajines, sauces et ragoûts (Taste of Maroc ; Morocco World News) ; Nargisse Benkabbou rappelle qu'au Maroc le tajine se mange avec du pain (My Moroccan Food). Les quartiers s'ouvrent aussi en sandwich, garnis de viande grillée (Taste of Maroc). Au petit-déjeuner, on le mange chaud avec un peu d'huile d'olive et un thé à la menthe (Hespress). Le reste se garde enveloppé dans un torchon, dans une boîte à pain ou un sac (MarocMama), mais pas plus d'une journée : au-delà, congèle-le. Décongèle-le quelques heures à température ambiante et réchauffe-le 5 à 8 min au four à 170 °C (Taste of Maroc). MarocMama le réchauffe aussi à la poêle.",
+   "t": "Khobz goes with almost every meal. It is cut into wedges or torn, and it replaces the fork and spoon for scooping up salads, tagines, sauces and stews (Taste of Maroc; Morocco World News); Nargisse Benkabbou points out that in Morocco tagine is eaten with bread (My Moroccan Food). The wedges can also be split open as sandwiches, filled with grilled meat (Taste of Maroc). At breakfast, it is eaten hot with a little olive oil and mint tea (Hespress). Leftover bread keeps wrapped in a tea towel, in a bread bin or a bag (MarocMama), but for no more than a day: beyond that, freeze it. Thaw it for a few hours at room temperature and reheat it for 5 to 8 min in the oven at 170 °C (Taste of Maroc). MarocMama also reheats it in a frying pan."
+  },
+  "pairs_label": {
+   "fr": "Avec le khobz",
+   "t": "With khobz"
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Dough"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (idéalement une farine à pain, riche en gluten)",
+   "t": "plain white flour (ideally strong bread flour, high in gluten)"
+  },
+  "ing.farine.note": {
+   "fr": "plus un peu pour le plan de travail ; au Maroc : « force » ou « farine de blé » ; tu peux en remplacer une partie par de la semoule fine ou de la farine complète (voir les variantes)",
+   "t": "plus a little for the work surface; in Morocco: “force” or “farine de blé”; you can replace some of it with fine semolina or wholemeal flour (see the variations)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "dried yeast"
+  },
+  "ing.levure.note": {
+   "fr": "un peu plus que d'habitude, pour une seule levée rapide",
+   "t": "a little more than usual, for a single quick rise"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède, pas chaude",
+   "t": "lukewarm water, not hot"
+  },
+  "ing.eau.note": {
+   "fr": "à ajuster selon la farine ; plus un peu pour humidifier les pains avant la cuisson",
+   "t": "adjust to suit the flour; plus a little to moisten the loaves before baking"
+  },
+  "ing.1.group": {
+   "fr": "Pour la plaque",
+   "t": "For the baking tray"
+  },
+  "ing.semoule.name": {
+   "fr": "Semoule fine, pour saupoudrer la plaque",
+   "t": "Fine semolina, for dusting the baking tray"
+  },
+  "ing.semoule.note": {
+   "fr": "ou du papier cuisson, ou un peu d'huile",
+   "t": "or baking paper, or a little oil"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier, ou une gsaa (la grande jatte traditionnelle)",
+   "t": "A large mixing bowl, or a gsaa (the large traditional bowl)"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et des cuillères à mesurer",
+   "t": "Kitchen scales and measuring spoons"
+  },
+  "equipment.2": {
+   "fr": "Une grande plaque de cuisson, ou une par pain si elle ne peut pas contenir deux disques de 27 à 30 cm (et du papier cuisson si tu veux)",
+   "t": "A large baking tray, or one per loaf if it cannot hold two 27 to 30 cm discs (and baking paper if you like)"
+  },
+  "equipment.3": {
+   "fr": "Deux ou trois torchons propres, plus une petite couverture s'il fait froid",
+   "t": "Two or three clean tea towels, plus a small blanket if it is cold"
+  },
+  "equipment.4": {
+   "fr": "Une fourchette",
+   "t": "A fork"
+  },
+  "equipment.5": {
+   "fr": "Un vaporisateur d'eau propre, ou un pinceau",
+   "t": "A clean water spray bottle, or a pastry brush"
+  },
+  "equipment.6": {
+   "fr": "Une grille, ou un panier tapissé d'un torchon",
+   "t": "A wire rack, or a basket lined with a tea towel"
+  },
+  "equipment.7": {
+   "fr": "Une planche à pain, si tu fais cuire au four du quartier (ferran)",
+   "t": "A bread board, if you bake at the neighbourhood oven (ferran)"
+  },
+  "steps.0.title": {
+   "fr": "Préparer la plaque",
+   "t": "Prepare the baking tray"
+  },
+  "steps.0.text": {
+   "fr": "Saupoudre de semoule fine une grande plaque de cuisson, ou une plaque par pain : aplati, chaque pain fera 27 à 30 cm de large. Tu peux aussi la tapisser de papier cuisson ou la huiler légèrement.",
+   "t": "Dust a large baking tray, or one tray per loaf, with fine semolina: once flattened, each loaf will be 27 to 30 cm across. You can also line it with baking paper or oil it lightly."
+  },
+  "steps.1.title": {
+   "fr": "Mélanger la pâte",
+   "t": "Mix the dough"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine et {{sel}} de sel. Creuse un puits au centre et mets-y {{levure}} de levure. Verse dessus un peu des {{eau}} d'eau tiède et remue du bout des doigts pour la dissoudre. Ajoute le reste de l'eau petit à petit, en mélangeant à la main, jusqu'à rassembler la pâte.",
+   "t": "In a large mixing bowl, mix {{farine}} flour and {{sel}} salt. Make a well in the centre and put {{levure}} yeast in it. Pour a little of the {{eau}} of lukewarm water over it and stir with your fingertips to dissolve it. Add the rest of the water gradually, mixing by hand, until the dough comes together."
+  },
+  "steps.2.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "Knead for 10 minutes"
+  },
+  "steps.2.text": {
+   "fr": "Pétris 10 minutes, dans le saladier ou sur le plan de travail fariné. La pâte doit rester molle et souple, sans coller : si elle colle, ajoute un peu de farine ; si elle durcit, arrose-la d'un peu d'eau en pétrissant. Elle est prête quand elle est lisse et élastique.",
+   "t": "Knead for 10 minutes, in the bowl or on the floured work surface. The dough should stay soft and supple, without sticking: if it sticks, add a little flour; if it becomes firm, sprinkle it with a little water as you knead. It is ready when it is smooth and elastic."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Kneading"
+  },
+  "steps.2.timer.done": {
+   "fr": "Pâte lisse, souple et élastique ? Passe aux boules. Sinon, pétris encore jusqu'à 5 minutes.",
+   "t": "Dough smooth, supple and elastic? Move on to the balls. If not, knead for up to 5 minutes more."
+  },
+  "steps.2.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Hands kneading dough"
+  },
+  "steps.2.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Kneading the dough"
+  },
+  "steps.3.title": {
+   "fr": "Former les boules",
+   "t": "Shape the balls"
+  },
+  "steps.3.text": {
+   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
+   "t": "Divide the dough into equal balls, one per loaf, nice and smooth on top. Place them on the tray, well apart: flattened to 6 mm, each ball will make a disc 27 to 30 cm across. If two discs of this size do not fit side by side on your tray (it needs to be at least 55 cm long), put one ball per tray."
+  },
+  "steps.4.title": {
+   "fr": "Repos sous un torchon",
+   "t": "Leave to rest under a tea towel"
+  },
+  "steps.4.text": {
+   "fr": "Couvre les boules d'un torchon propre et laisse-les reposer 10 à 15 minutes.",
+   "t": "Cover the balls with a clean tea towel and leave them to rest for 10 to 15 minutes."
+  },
+  "steps.4.timer.label": {
+   "fr": "Repos des boules",
+   "t": "Resting the balls"
+  },
+  "steps.4.timer.done": {
+   "fr": "Les boules ont reposé : aplatis-les.",
+   "t": "The balls have rested: flatten them."
+  },
+  "steps.5.title": {
+   "fr": "Aplatir en disques",
+   "t": "Flatten into discs"
+  },
+  "steps.5.text": {
+   "fr": "Directement sur la plaque, aplatis chaque boule avec la paume, en partant du centre vers les bords. Forme un disque bien rond d'environ 6 mm d'épaisseur, égal partout.",
+   "t": "Directly on the tray, flatten each ball with your palm, working from the centre out to the edges. Form a nicely round disc about 6 mm thick, even all over."
+  },
+  "steps.6.title": {
+   "fr": "Laisser lever",
+   "t": "Leave to rise"
+  },
+  "steps.6.text": {
+   "fr": "Couvre de nouveau d'un torchon et laisse lever environ 1 heure dans un endroit tiède, plus longtemps si la pièce est fraîche. S'il fait froid, ajoute une couche, ou une petite couverture. Pendant la levée, préchauffe le four à 220 °C : il doit être bien chaud pour le pain.",
+   "t": "Cover again with a tea towel and leave to rise for about 1 hour in a warm place, longer if the room is cool. If it is cold, add another layer, or a small blanket. While the loaves rise, preheat the oven to 220 °C: it must be very hot for bread."
+  },
+  "steps.6.timer.label": {
+   "fr": "Levée des pains",
+   "t": "Loaves rising"
+  },
+  "steps.6.timer.done": {
+   "fr": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
+   "t": "Press lightly with a fingertip: if the dough springs back into shape, it is ready. If not, wait a little longer."
+  },
+  "steps.7.title": {
+   "fr": "Piquer et humidifier",
+   "t": "Prick and moisten"
+  },
+  "steps.7.text": {
+   "fr": "Quand le four est chaud, pique chaque pain à plusieurs endroits avec une fourchette : il ne gonflera pas. Vaporise ensuite un peu d'eau sur le dessus, ou passe un pinceau mouillé : la croûte sera plus croustillante.",
+   "t": "When the oven is hot, prick each loaf in several places with a fork: this stops it puffing up. Then spray a little water over the top, or brush it with a wet brush: the crust will be crisper."
+  },
+  "steps.8.title": {
+   "fr": "Cuire 20 minutes",
+   "t": "Bake for 20 minutes"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour environ 20 minutes. Si ton four colore plus d'un côté, tourne la plaque en cours de cuisson. Le khobz est cuit quand il est bien doré et sonne creux quand tu le tapotes.",
+   "t": "Bake for about 20 minutes. If your oven browns more on one side, turn the tray during baking. The khobz is done when it is nicely golden and sounds hollow when you tap it."
+  },
+  "steps.8.timer.label": {
+   "fr": "Cuisson des pains",
+   "t": "Baking the loaves"
+  },
+  "steps.8.timer.done": {
+   "fr": "Bien doré, et il sonne creux quand tu le tapotes ? Sors-le. Sinon, laisse-le encore quelques minutes, 25 minutes en tout au plus.",
+   "t": "Nicely golden, and it sounds hollow when you tap it? Take it out. If not, leave it a few more minutes, 25 minutes in total at most."
+  },
+  "steps.9.title": {
+   "fr": "Ou au four du quartier",
+   "t": "Or bake at the neighbourhood oven"
+  },
+  "steps.9.text": {
+   "fr": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
+   "t": "To bake it at the ferran, the neighbourhood oven: from the ball stage, place the balls on a bread board dusted with semolina instead of the tray, flatten them and leave them to rise on it under a tea towel, then take the board to the oven. The oven keeper (terrah) bakes them over a wood fire, for about 20 minutes. He recognises each family's loaves from memory, by the order in which he arranged them, by the board and by the tea towel."
+  },
+  "steps.9.img.alt": {
+   "fr": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
+   "t": "Baker in front of the wood-fired oven, loaves laid on boards, in Marrakesh"
+  },
+  "steps.9.img.caption": {
+   "fr": "Le four du quartier, à Marrakech",
+   "t": "The neighbourhood oven, in Marrakesh"
+  },
+  "steps.10.title": {
+   "fr": "Laisser tiédir",
+   "t": "Leave to cool slightly"
+  },
+  "steps.10.text": {
+   "fr": "Sors les pains et laisse-les tiédir sur une grille, ou dans un panier tapissé d'un torchon.",
+   "t": "Take out the loaves and leave them to cool slightly on a wire rack, or in a basket lined with a tea towel."
+  },
+  "steps.11.title": {
+   "fr": "Servir",
+   "t": "Serve"
+  },
+  "steps.11.text": {
+   "fr": "Coupe le khobz en quartiers ou déchire-le à la main : il remplace la fourchette pour saisir le tajine, les salades ou le zaalouk. Au petit-déjeuner, sers-le chaud avec un peu d'huile d'olive et un thé à la menthe.",
+   "t": "Cut the khobz into wedges or tear it by hand: it replaces the fork for scooping up tagine, salads or zaalouk. At breakfast, serve it hot with a little olive oil and mint tea."
+  },
+  "steps.12.title": {
+   "fr": "Conserver",
+   "t": "Store"
+  },
+  "steps.12.text": {
+   "fr": "Le khobz ne reste pas frais plus d'une journée. Ce que tu ne mangeras pas le jour même, congèle-le une fois complètement refroidi. Pour le servir, laisse-le décongeler quelques heures à température ambiante, puis réchauffe-le 5 à 8 minutes au four à 170 °C.",
+   "t": "Khobz does not stay fresh for more than a day. Whatever you will not eat the same day, freeze once it has cooled completely. To serve it, leave it to thaw for a few hours at room temperature, then reheat it for 5 to 8 minutes in the oven at 170 °C."
+  },
+  "secrets.0.text": {
+   "fr": "La pâte doit être molle : souple et facile à pétrir, mais sans coller. Trop ferme, le pain sort dur et dense. Ajuste toujours l'eau ou la farine : chaque farine boit différemment, et même l'humidité de l'air compte.",
+   "t": "The dough should be soft: supple and easy to knead, but not sticky. Too firm, and the bread comes out hard and dense. Always adjust the water or flour: every flour absorbs differently, and even the humidity of the air matters."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih), recette et réponses aux lecteurs",
+   "t": "Taste of Maroc (Christine Benlafquih), recipe and answers to readers"
+  },
+  "secrets.1.text": {
+   "fr": "Pétris 10 à 15 minutes en arrosant la pâte d'un peu d'eau, jusqu'à ce qu'elle devienne souple et malléable.",
+   "t": "Knead for 10 to 15 minutes, sprinkling the dough with a little water, until it becomes supple and pliable."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (pain de semoule, pain complet, pain aux graines de sésame)",
+   "t": "Choumicha (semolina bread, wholemeal bread, sesame seed bread)"
+  },
+  "secrets.2.text": {
+   "fr": "Ni sucre ni huile, comme dans les pains de semoule et complet de Choumicha, qui n'ont que farine, levure, sel et eau.",
+   "t": "No sugar or oil, as in Choumicha's semolina and wholemeal breads, which contain only flour, yeast, salt and water."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.3.text": {
+   "fr": "L'eau doit être tiède, pas chaude ; froide, elle ralentit la levure.",
+   "t": "The water should be lukewarm, not hot; cold water slows the yeast down."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc; MarocMama"
+  },
+  "secrets.4.text": {
+   "fr": "Pas sûr de ta levure ? Délaye-la dans un peu d'eau tiède avec une pincée de sucre : elle doit mousser en 10 minutes. Sinon, change-la.",
+   "t": "Not sure about your yeast? Mix it with a little lukewarm water and a pinch of sugar: it should foam within 10 minutes. If not, replace it."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Une seule levée suffit, une fois les pains aplatis : quelques minutes de repos en boules, puis environ 1 heure sous un torchon. Par temps froid, couvre de plusieurs couches ou d'une petite couverture, ou fais lever dans le four, juste la lampe allumée ; dans ce cas, sors les pains, le torchon et la couverture avant de préchauffer le four.",
+   "t": "A single rise is enough, once the loaves are flattened: a few minutes' rest as balls, then about 1 hour under a tea towel. In cold weather, cover with several layers or a small blanket, or let them rise in the oven with just the light on; in that case, take out the loaves, the tea towel and the blanket before preheating the oven."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc; MarocMama"
+  },
+  "secrets.6.text": {
+   "fr": "Pique le pain à la fourchette juste avant de l'enfourner, pour qu'il ne gonfle pas : un terrah de Casablanca le fait en enfournant chaque pain.",
+   "t": "Prick the bread with a fork just before it goes into the oven, so that it does not puff up: a terrah in Casablanca does this as he puts each loaf in the oven."
+  },
+  "secrets.6.source": {
+   "fr": "La Vie éco (four traditionnel de Sidi Bernoussi, Casablanca) ; Taste of Maroc ; MarocMama",
+   "t": "La Vie éco (traditional oven in Sidi Bernoussi, Casablanca); Taste of Maroc; MarocMama"
+  },
+  "secrets.7.text": {
+   "fr": "Si tu préfères une entaille au couteau, reste léger : trop profonde, le pain monte trop à cet endroit. La fourchette, un pain plus plat ou un peu moins de levure évitent ce défaut.",
+   "t": "If you prefer to score it with a knife, keep it light: too deep, and the bread rises too much at that spot. A fork, a flatter loaf or a little less yeast avoid this problem."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "Humidifie le dessus juste avant d'enfourner, au vaporisateur ou au pinceau : la croûte sera plus croustillante.",
+   "t": "Moisten the top just before baking, with a spray bottle or a brush: the crust will be crisper."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Taste of Maroc",
+   "t": "Choumicha; Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Un four bien chaud, autour de 220 °C, et environ 20 minutes : au ferran aussi, le four doit être chaud pour le pain, et la cuisson dure environ 20 minutes.",
+   "t": "A very hot oven, around 220 °C, and about 20 minutes: at the ferran too, the oven must be hot for bread, and baking takes about 20 minutes."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Taste of Maroc ; La Vie éco",
+   "t": "Choumicha; Taste of Maroc; La Vie éco"
+  },
+  "secrets.10.text": {
+   "fr": "Garde-le plat : beaucoup de Marocains préfèrent un khobz de 1,5 cm de haut au plus, et il dépasse rarement 3 cm.",
+   "t": "Keep it flat: many Moroccans prefer a khobz no more than 1.5 cm high, and it rarely exceeds 3 cm."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Le pain que tu ne mangeras pas le jour même se congèle : laisse-le d'abord refroidir complètement, puis réchauffe-le 5 à 8 minutes au four à 170 °C.",
+   "t": "Bread you will not eat the same day can be frozen: first let it cool completely, then reheat it for 5 to 8 minutes in the oven at 170 °C."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MarocMama (congélation)",
+   "t": "Taste of Maroc; MarocMama (freezing)"
+  },
+  "secrets.12.text": {
+   "fr": "Un repas de fête ou un ftour ? Précuis les pains la veille jusqu'à ce qu'ils colorent à peine, emballe-les bien, et termine la cuisson juste avant de servir.",
+   "t": "A festive meal or an iftar? Part-bake the loaves the day before until they are barely coloured, wrap them well, and finish baking just before serving."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Faire une pâte trop ferme : le pain sort dur et dense (Taste of Maroc).",
+   "t": "Making the dough too firm: the bread comes out hard and dense (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre de l'eau chaude au lieu de tiède (Taste of Maroc), ou de l'eau froide, qui ralentit la levure (MarocMama).",
+   "t": "Using hot water instead of lukewarm (Taste of Maroc), or cold water, which slows the yeast down (MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre de la farine à levure incorporée : MarocMama la déconseille.",
+   "t": "Using self-raising flour: MarocMama advises against it."
+  },
+  "mistakes.3": {
+   "fr": "Ajouter trop de farine en pétrissant : le pain devient sec (MarocMama).",
+   "t": "Adding too much flour while kneading: the bread becomes dry (MarocMama)."
+  },
+  "mistakes.4": {
+   "fr": "Pétrir trop peu, le pain est dense ; beaucoup trop, il devient dur (MarocMama).",
+   "t": "Kneading too little, and the bread is dense; far too much, and it becomes hard (MarocMama)."
+  },
+  "mistakes.5": {
+   "fr": "Oublier de piquer le pain : il gonfle (La Vie éco).",
+   "t": "Forgetting to prick the bread: it puffs up (La Vie éco)."
+  },
+  "mistakes.6": {
+   "fr": "Entailler trop profond : le pain monte trop à l'entaille (Taste of Maroc).",
+   "t": "Scoring too deeply: the bread rises too much at the cut (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Sortir le pain trop tôt : il doit être bien doré et sonner creux quand tu le tapotes (Taste of Maroc ; MarocMama).",
+   "t": "Taking the bread out too early: it should be nicely golden and sound hollow when you tap it (Taste of Maroc; MarocMama)."
+  },
+  "mistakes.8": {
+   "fr": "Le garder plusieurs jours à température ambiante : il ne reste pas frais plus d'une journée (Taste of Maroc).",
+   "t": "Keeping it for several days at room temperature: it does not stay fresh for more than a day (Taste of Maroc)."
+  },
+  "mistakes.9": {
+   "fr": "Jeter du pain : au Maroc, on ne le jette pas ; les restes servent à un autre plat ou sont donnés (Morocco World News).",
+   "t": "Throwing bread away: in Morocco, bread is not thrown away; leftovers are used in another dish or given away (Morocco World News)."
+  },
+  "variants.0": {
+   "fr": "Khobz à la semoule (Choumicha) : 250 g de farine de blé dur supérieure et 500 g de semoule fine de blé dur, 1 c. à c. de sel, 20 g de levure boulangère, 50 cl d'eau tiède. La pâte lève jusqu'à doubler, on la tape pour chasser les bulles, on roule les boules dans 80 g de semoule fine, on les aplatit légèrement et on les laisse lever dans un endroit tiède ; vaporisées d'eau, elles cuisent 20 à 25 min à 220 °C.",
+   "t": "Semolina khobz (Choumicha): 250 g superior-grade durum wheat flour and 500 g fine durum wheat semolina, 1 tsp salt, 20 g yeast, 50 cl lukewarm water. The dough rises until doubled and is knocked back to remove the air bubbles; the balls are rolled in 80 g fine semolina, flattened slightly and left to rise in a warm place; sprayed with water, they bake for 20 to 25 min at 220 °C."
+  },
+  "variants.1": {
+   "fr": "Petits pains à la semoule de Nargisse Benkabbou (My Moroccan Food), son pain marocain préféré : 280 g de farine, 300 g de semoule fine, 250 ml d'eau et 250 ml de lait tièdes (verse d'abord 300 ml, puis par cuillerées), 1 c. à s. de levure sèche, 2 c. à c. de sel, 2 c. à c. de sucre, 3 c. à s. d'huile d'olive ; 10 pains de 10 cm aplatis à 2 cm, levée 1 h, entaillés au couteau et saupoudrés de semoule, 18 à 20 min à 200 °C.",
+   "t": "Nargisse Benkabbou's small semolina breads (My Moroccan Food), her favourite Moroccan bread: 280 g flour, 300 g fine semolina, 250 ml water and 250 ml milk, lukewarm (pour in 300 ml first, then a spoonful at a time), 1 tbsp dried yeast, 2 tsp salt, 2 tsp sugar, 3 tbsp olive oil; 10 breads of 10 cm flattened to 2 cm, risen for 1 h, scored with a knife and dusted with semolina, 18 to 20 min at 200 °C."
+  },
+  "variants.2": {
+   "fr": "Khobz complet (Choumicha) : 250 g de farine de blé tendre et 500 g de farine complète, 1 c. à c. de sel, 20 g de levure boulangère, 40 cl d'eau tiède ; boules roulées dans 80 g de farine complète, même méthode que le pain de semoule. Taste of Maroc conseille de débuter avec moitié farine complète, moitié farine blanche, et assez d'eau pour une pâte molle. Le pain complet se dit khobz zraa (Hespress ; Taste of Maroc).",
+   "t": "Wholemeal khobz (Choumicha): 250 g soft wheat flour and 500 g wholemeal flour, 1 tsp salt, 20 g yeast, 40 cl lukewarm water; balls rolled in 80 g wholemeal flour, same method as the semolina bread. Taste of Maroc advises starting with half wholemeal flour, half white flour, and enough water for a soft dough. Wholemeal bread is called khobz zraa (Hespress; Taste of Maroc)."
+  },
+  "variants.3": {
+   "fr": "Khobz au sésame (Choumicha) : 750 g de farine de blé tendre, 1 c. à c. de sel, 1 c. à s. de sucre, 20 g de levure boulangère, 40 cl d'eau tiède ; après la première levée, boules roulées dans la farine, aplaties, badigeonnées d'eau au pinceau et couvertes de 80 g de graines de sésame, puis levée dans un endroit tiède et cuisson 20 à 25 min à 220 °C. Au Maroc, on préfère le sésame doré non décortiqué ; on peut aussi dorer le pain levé à l'œuf battu juste avant d'enfourner, puis le parsemer de sésame (Taste of Maroc).",
+   "t": "Sesame khobz (Choumicha): 750 g soft wheat flour, 1 tsp salt, 1 tbsp sugar, 20 g yeast, 40 cl lukewarm water; after the first rise, the balls are rolled in flour, flattened, brushed with water and covered with 80 g sesame seeds, then left to rise in a warm place and baked for 20 to 25 min at 220 °C. In Morocco, golden unhulled sesame is preferred; you can also glaze the risen bread with beaten egg just before baking, then sprinkle it with sesame (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Khobz à l'anis : avec le cumin, l'anis est le parfum le plus courant du pain marocain (Morocco World News), et le khobz de la maison est parfois parfumé aux graines d'anis (Wikipédia). Une mère de famille de Beni Mellal ajoute à sa farine « un peu de jeljlane (sésame) et de nafaa » (Hespress). Aucune source lue ne donne la dose pour un khobz ; à titre indicatif seulement, Choumicha met 1 c. à s. d'anis pour 500 g de farine dans ses krichlat (brioches).",
+   "t": "Aniseed khobz: along with cumin, aniseed is the most common flavouring in Moroccan bread (Morocco World News), and homemade khobz is sometimes flavoured with aniseed (Wikipedia). A mother from Beni Mellal adds to her flour “a little jeljlane (sesame) and nafaa” (Hespress). None of the sources read gives the amount for a khobz; as a rough guide only, Choumicha uses 1 tbsp aniseed for 500 g flour in her krichlat (brioches)."
+  },
+  "variants.5": {
+   "fr": "Khobz des fêtes : enrichi d'œuf et de lait, et souvent parfumé à l'anis, au sésame ou au cumin ; au Maroc, il est plutôt réservé aux fêtes et aux grandes occasions (Taste of Maroc).",
+   "t": "Festive khobz: enriched with egg and milk, and often flavoured with aniseed, sesame or cumin; in Morocco, it is mostly kept for festivals and special occasions (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Farines mélangées : remplace une partie, jusqu'à la moitié, de la farine blanche par de la semoule très fine (finot de blé dur), de la farine complète ou de la farine d'orge (Taste of Maroc). Les farines d'orge et d'avoine se mélangent en général à d'autres farines, sinon le pain est trop dense (Taste of Maroc). Autrefois, on moulait soi-même le blé ou l'orge à la meule (Hespress).",
+   "t": "Mixed flours: replace part of the white flour, up to half, with very fine semolina (durum wheat finot), wholemeal flour or barley flour (Taste of Maroc). Barley and oat flours are usually mixed with other flours, otherwise the bread is too dense (Taste of Maroc). In the past, people ground their own wheat or barley with a millstone (Hespress)."
+  },
+  "variants.7": {
+   "fr": "Mie plus légère : laisse d'abord lever la pâte une heure ou plus dans un saladier huilé, avant de façonner (Taste of Maroc). C'est aussi la méthode de Choumicha : la pâte double, on la tape pour chasser les bulles, puis les pains lèvent une seconde fois.",
+   "t": "Lighter crumb: first let the dough rise for an hour or more in an oiled bowl, before shaping (Taste of Maroc). This is also Choumicha's method: the dough doubles, is knocked back to remove the air bubbles, then the loaves rise a second time."
+  },
+  "variants.8": {
+   "fr": "Plus de goût : moins de levure et une double levée longue (Taste of Maroc). Autrefois, on utilisait un levain maison, que certains boulangers marocains emploient encore (Taste of Maroc) ; à Laâyoune, un four traditionnel au bois fait son pain avec du levain, plusieurs farines, du sel et de l'eau (Le360).",
+   "t": "More flavour: less yeast and two long rises (Taste of Maroc). In the past, a homemade sourdough starter was used, and some Moroccan bakers still use one (Taste of Maroc); in Laayoune, a traditional wood-fired oven makes its bread with sourdough starter, several flours, salt and water (Le360)."
+  },
+  "variants.9": {
+   "fr": "Batbout : en cours de cuisine, Christine Benlafquih garde parfois un peu de cette pâte pour montrer comment faire des batbout, petits pains cuits sur le feu (Taste of Maroc) ; Choumicha publie aussi une recette « Batbot ou pain metlouâ ».",
+   "t": "Batbout: in her cooking classes, Christine Benlafquih sometimes keeps a little of this dough to show how to make batbout, small breads cooked on the hob (Taste of Maroc); Choumicha also publishes a recipe called “Batbot ou pain metlouâ”."
+  }
+ }
+}

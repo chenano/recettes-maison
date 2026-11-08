@@ -1,0 +1,546 @@
+{
+ "_slug": "tajine-kefta-oeufs",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Tajine de kefta aux œufs",
+   "t": "Таджин из кефты с яйцами"
+  },
+  "darija": {
+   "fr": "Tajine kefta mkaouara bel bid",
+   "t": "Tajine kefta mkaouara bel bid"
+  },
+  "tagline": {
+   "fr": "De petites boulettes aux herbes et au cumin qui mijotent dans une sauce tomate relevée, des œufs au jaune coulant, et du khobz pour tout saucer.",
+   "t": "Маленькие фрикадельки с зеленью и кумином (зирой), тушённые в пикантном томатном соусе, яйца с жидким желтком и хобз (марокканский хлеб), чтобы собрать весь соус."
+  },
+  "region": {
+   "fr": "Maroc (aucune région d'origine précise dans les sources consultées)",
+   "t": "Марокко (в изученных источниках конкретный регион происхождения не указан)"
+  },
+  "occasion": {
+   "fr": "Repas familial simple et rapide, à partager autour du tajine",
+   "t": "Простая и быстрая семейная еда, которую едят все вместе из одного таджина"
+  },
+  "serving": {
+   "fr": "Sers aussitôt, dans le tajine ou la sauteuse de cuisson posé au milieu de la table. La tradition est de manger ensemble directement dans le plat, à la main, avec des morceaux de khobz pour attraper les boulettes, la sauce et le jaune coulant (Taste of Maroc, Amour de cuisine, My Moroccan Food). Un thé à la menthe l'accompagne bien (Taste of Maroc, Cooking With Alia).",
+   "t": "Подавайте сразу, прямо в таджине или сотейнике, в котором готовили, поставив его в центр стола. По традиции едят все вместе прямо из блюда, руками, захватывая кусочками хобза фрикадельки, соус и жидкий желток (Taste of Maroc, Amour de cuisine, My Moroccan Food). К нему хорошо подойдёт мятный чай (Taste of Maroc, Cooking With Alia)."
+  },
+  "ing.0.group": {
+   "fr": "Kefta (boulettes)",
+   "t": "Кефта (фрикадельки)"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+   "t": "халяльного фарша (говядина, баранина или их смесь)"
+  },
+  "ing.viande.note": {
+   "fr": "pas trop maigre : 15 à 20 % de matière grasse",
+   "t": "не слишком постного: жирность 15–20 %"
+  },
+  "ing.oignon-kefta.name": {
+   "fr": "petit oignon, râpé",
+   "t": "луковица небольшого размера (натереть на тёрке)"
+  },
+  "ing.oignon-kefta.pl": {
+   "fr": "petits oignons, râpés",
+   "t": "луковицы небольшого размера (натереть на тёрке)"
+  },
+  "ing.oignon-kefta.pl5": {
+   "fr": "petit oignon, râpé / petits oignons, râpés",
+   "t": "луковиц небольшого размера (натереть на тёрке)"
+  },
+  "ing.persil-kefta.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre-kefta.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой свежей кинзы"
+  },
+  "ing.paprika-kefta.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin-kefta.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.sel-kefta.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.poivre-kefta.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.piment-kefta.name": {
+   "fr": "de piment de Cayenne",
+   "t": "кайенского перца"
+  },
+  "ing.1.group": {
+   "fr": "Sauce tomate",
+   "t": "Томатный соус"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates fraîches bien mûres",
+   "t": "свежих очень спелых помидоров"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.oignon-sauce.name": {
+   "fr": "oignon moyen, haché finement",
+   "t": "луковица среднего размера (мелко нарезать)"
+  },
+  "ing.oignon-sauce.pl": {
+   "fr": "oignons moyens, hachés finement",
+   "t": "луковицы среднего размера (мелко нарезать)"
+  },
+  "ing.oignon-sauce.pl5": {
+   "fr": "oignon moyen, haché finement / oignons moyens, hachés finement",
+   "t": "луковиц среднего размера (мелко нарезать)"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail, écrasée",
+   "t": "зубчик чеснока (раздавить)"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail, écrasées",
+   "t": "зубчика чеснока (раздавить)"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail, écrasée / gousses d'ail, écrasées",
+   "t": "зубчиков чеснока (раздавить)"
+  },
+  "ing.paprika-sauce.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin-sauce.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.sel-sauce.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel-sauce.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "количество уточните, пробуя на вкус"
+  },
+  "ing.poivre-sauce.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.piment-sauce.name": {
+   "fr": "de piment de Cayenne",
+   "t": "кайенского перца"
+  },
+  "ing.piment-sauce.note": {
+   "fr": "ou 2 petits piments forts entiers",
+   "t": "или 2 маленьких целых стручка острого перца"
+  },
+  "ing.persil-sauce.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre-sauce.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой свежей кинзы"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "вода"
+  },
+  "ing.eau.note": {
+   "fr": "seulement si la sauce attache",
+   "t": "только если соус начинает прилипать"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "Завершение и подача"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.oeufs.note": {
+   "fr": "fermiers (beldi) de préférence",
+   "t": "лучше фермерские (бельди)"
+  },
+  "ing.sel-oeufs.name": {
+   "fr": "sel fin",
+   "t": "мелкая соль"
+  },
+  "ing.sel-oeufs.note": {
+   "fr": "une petite pincée sur chaque œuf",
+   "t": "маленькая щепотка на каждое яйцо"
+  },
+  "ing.coriandre-deco.name": {
+   "fr": "de coriandre fraîche ciselée",
+   "t": "мелко нарезанной свежей кинзы"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "хобз (марокканский хлеб)"
+  },
+  "ing.khobz.note": {
+   "fr": "à volonté, pour saucer",
+   "t": "сколько угодно, чтобы собирать соус"
+  },
+  "equipment.0": {
+   "fr": "Tajine en terre ou en céramique, de taille moyenne à grande",
+   "t": "Глиняный или керамический таджин, среднего или большого размера"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur si tu ne cuisines pas au gaz",
+   "t": "Рассекатель пламени, если вы готовите не на газу"
+  },
+  "equipment.2": {
+   "fr": "Ou une sauteuse profonde avec couvercle",
+   "t": "Или глубокий сотейник с крышкой"
+  },
+  "equipment.3": {
+   "fr": "Râpe à gros trous",
+   "t": "Тёрка с крупными отверстиями"
+  },
+  "equipment.4": {
+   "fr": "Grand saladier",
+   "t": "Большая миска"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "steps.0.title": {
+   "fr": "Pétris la kefta",
+   "t": "Замесите кефту"
+  },
+  "steps.0.text": {
+   "fr": "Dans un saladier, mets {{viande:full}}, {{oignon-kefta:full}}, {{persil-kefta:full}} et {{coriandre-kefta:full}}. Ajoute {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} et {{piment-kefta:full}}. Pétris à la main 1 à 2 minutes, juste assez pour bien répartir les épices, sans tasser. N'ajoute ni œuf ni chapelure.",
+   "t": "Положите в большую миску {{viande:full}}, натёртый лук ({{oignon-kefta}} шт.), {{persil-kefta:full}} и {{coriandre-kefta:full}}. Добавьте {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} и кайенский перец ({{piment-kefta}}). Вымешивайте руками 1–2 минуты, ровно столько, чтобы специи хорошо распределились, не уплотняя массу. Не добавляйте ни яйца, ни сухарей."
+  },
+  "steps.1.title": {
+   "fr": "Roule de petites boulettes",
+   "t": "Скатайте маленькие фрикадельки"
+  },
+  "steps.1.text": {
+   "fr": "Forme des boulettes de la taille d'une cerise, environ 2,5 cm de diamètre. Pose-les sur une assiette, couvre et garde-les au frais pendant que tu prépares la sauce.",
+   "t": "Сформуйте фрикадельки размером с вишню, около 2,5 см в диаметре. Выложите их на тарелку, накройте и уберите в холодильник, пока готовите соус."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "Натрите помидоры"
+  },
+  "steps.2.text": {
+   "fr": "Coupe {{tomates:full}} en deux. Râpe-les côté chair sur les gros trous de la râpe, au-dessus d'un saladier. Jette la peau qui te reste dans la main.",
+   "t": "Разрежьте пополам {{tomates:full}}. Натрите их срезом на крупной тёрке над большой миской. Кожицу, которая останется в руке, выбросьте."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Помидор на тёрке"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir l'oignon et l'ail",
+   "t": "Обжарьте лук и чеснок"
+  },
+  "steps.3.text": {
+   "fr": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "t": "Поставьте таджин на рассекатель пламени (или возьмите сотейник) на огонь ниже среднего и разогрейте {{huile:full}}. Добавьте мелко нарезанный лук ({{oignon-sauce}} шт.) и, помешивая, дайте ему размягчиться несколько минут. Добавьте раздавленный чеснок ({{ail}} шт.) и помешивайте 1–2 минуты, пока не появится аромат, не давая чесноку подгореть."
+  },
+  "steps.4.title": {
+   "fr": "Fais mijoter la sauce",
+   "t": "Потушите соус"
+  },
+  "steps.4.text": {
+   "fr": "Verse les tomates râpées avec leur jus. Ajoute {{paprika-sauce:full}}, {{cumin-sauce:full}}, {{sel-sauce:full}}, {{poivre-sauce:full}}, {{piment-sauce:full}}, {{persil-sauce:full}} et {{coriandre-sauce:full}}. Porte à frémissement, couvre et laisse mijoter à feu doux en remuant de temps en temps.",
+   "t": "Влейте натёртые помидоры вместе с соком. Добавьте {{paprika-sauce:full}}, {{cumin-sauce:full}}, {{sel-sauce:full}}, {{poivre-sauce:full}}, кайенский перец ({{piment-sauce}}), {{persil-sauce:full}} и {{coriandre-sauce:full}}. Доведите до лёгкого кипения, накройте крышкой и тушите на слабом огне, время от времени помешивая."
+  },
+  "steps.4.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "Томатный соус"
+  },
+  "steps.4.timer.done": {
+   "fr": "Regarde la sauce : elle doit être épaisse et parfumée.",
+   "t": "Посмотрите на соус: он должен быть густым и ароматным."
+  },
+  "steps.5.title": {
+   "fr": "Vérifie la sauce",
+   "t": "Проверьте соус"
+  },
+  "steps.5.text": {
+   "fr": "Écrase les morceaux de tomate avec le dos d'une cuillère. La sauce est prête quand elle est épaisse et parfumée. Si elle attache, ajoute un peu d'{{eau:full}} ; si elle est encore liquide, prolonge la cuisson, car tout dépend de la maturité des tomates. Goûte et rectifie le sel.",
+   "t": "Раздавите кусочки помидоров тыльной стороной ложки. Соус готов, когда он густой и ароматный. Если он начинает прилипать, добавьте немного воды; если он ещё жидкий, тушите дольше: всё зависит от спелости помидоров. Попробуйте и при необходимости досолите."
+  },
+  "steps.6.title": {
+   "fr": "Poche les boulettes",
+   "t": "Отварите фрикадельки в соусе"
+  },
+  "steps.6.text": {
+   "fr": "Dépose les boulettes crues une à une dans la sauce, en laissant un peu d'espace entre elles. Couvre et laisse frémir à feu doux. Coupe une boulette pour vérifier qu'elle est cuite à cœur, mais ne prolonge pas : trop cuites, elles durcissent.",
+   "t": "Выкладывайте сырые фрикадельки в соус по одной, оставляя между ними немного места. Накройте крышкой и готовьте при слабом кипении на слабом огне. Разрежьте одну фрикадельку, чтобы проверить, что она приготовилась насквозь, но не передерживайте: переваренные фрикадельки становятся жёсткими."
+  },
+  "steps.6.timer.label": {
+   "fr": "Boulettes",
+   "t": "Фрикадельки"
+  },
+  "steps.6.timer.done": {
+   "fr": "Coupe une boulette : si elle est cuite à cœur, passe tout de suite aux œufs.",
+   "t": "Разрежьте фрикадельку: если она приготовилась насквозь, сразу переходите к яйцам."
+  },
+  "steps.7.title": {
+   "fr": "Casse les œufs",
+   "t": "Разбейте яйца"
+  },
+  "steps.7.text": {
+   "fr": "Creuse un petit nid dans la sauce, entre les boulettes, pour chaque œuf. Casse {{oeufs:full}} un par un dans les nids, sans crever les jaunes. Sale légèrement chaque œuf ({{sel-oeufs:full}}).",
+   "t": "Сделайте в соусе между фрикадельками небольшое углубление для каждого яйца. Разбейте {{oeufs:full}} по одному в углубления, не повредив желтки. Слегка посолите каждое яйцо ({{sel-oeufs:full}})."
+  },
+  "steps.8.title": {
+   "fr": "Fais prendre les œufs",
+   "t": "Дайте яйцам схватиться"
+  },
+  "steps.8.text": {
+   "fr": "Remets le couvercle et laisse cuire à feu doux. C'est prêt quand le blanc est pris et que le jaune reste coulant. Retire aussitôt du feu. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, laisse cuire quelques minutes de plus, jusqu'à ce que le jaune soit pris.",
+   "t": "Снова накройте крышкой и готовьте на слабом огне. Блюдо готово, когда белок схватился, а желток остаётся жидким. Сразу снимите с огня. Для беременной женщины, маленького ребёнка, пожилого или ослабленного человека готовьте на несколько минут дольше, пока желток полностью не схватится."
+  },
+  "steps.8.timer.label": {
+   "fr": "Œufs",
+   "t": "Яйца"
+  },
+  "steps.8.timer.done": {
+   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
+   "t": "Белок схватился, желток ещё жидкий: сразу выключите огонь."
+  },
+  "steps.9.title": {
+   "fr": "Sers dans le tajine",
+   "t": "Подавайте в таджине"
+  },
+  "steps.9.text": {
+   "fr": "Parsème {{coriandre-deco:full}}. Pose le tajine au milieu de la table et sers tout de suite, dans le plat de cuisson. Chacun se sert à la main avec des morceaux de {{khobz:full}}, en trempant le pain dans la sauce et le jaune.",
+   "t": "Посыпьте {{coriandre-deco:full}}. Поставьте таджин в центр стола и сразу подавайте, прямо в посуде, в которой готовили. Каждый берёт еду руками с кусочками хобза, обмакивая хлеб в соус и желток."
+  },
+  "secrets.0.text": {
+   "fr": "L'assaisonnement classique de la kefta repose au minimum sur le paprika, le cumin, l'oignon et les herbes fraîches.",
+   "t": "Классическая приправа для кефты — это как минимум паприка, кумин, лук и свежая зелень."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih), recette de kefta",
+   "t": "Taste of Maroc (Christine Benlafquih), рецепт кефты"
+  },
+  "secrets.1.text": {
+   "fr": "Pas d'œuf ni de chapelure dans la kefta : c'est un écart à la tradition marocaine.",
+   "t": "Никаких яиц и сухарей в кефте: это отступление от марокканской традиции."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.2.text": {
+   "fr": "Prends une viande pas trop maigre (15 à 20 % de gras) : un peu de gras est nécessaire pour la texture et le goût classiques de la kefta.",
+   "t": "Берите не слишком постное мясо (жирность 15–20 %): немного жира нужно для классической текстуры и вкуса кефты."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc, recette de kefta",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Taste of Maroc, рецепт кефты"
+  },
+  "secrets.3.text": {
+   "fr": "Pour Fatéma Hal, ce plat a le parfum du Maroc : persil, coriandre, menthe et cumin. Le cumin, qu'elle juge parfois écrasant, ne trouve grâce selon elle que dans ce tajine.",
+   "t": "Для Fatéma Hal это блюдо пахнет Марокко: петрушка, кинза, мята и кумин. Кумин, который она порой считает слишком навязчивым, по её мнению, уместен только в этом таджине."
+  },
+  "secrets.3.source": {
+   "fr": "TelQuel, « À la recherche du goût perdu », Fatéma Hal",
+   "t": "TelQuel, статья «À la recherche du goût perdu», Fatéma Hal"
+  },
+  "secrets.4.text": {
+   "fr": "Les boulettes se font traditionnellement toutes petites (taille d'une cerise, environ 2,5 cm) ; plus elles sont petites, plus elles cuisent vite.",
+   "t": "Традиционно фрикадельки делают совсем маленькими (размером с вишню, около 2,5 см); чем они меньше, тем быстрее готовятся."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; My Moroccan Food ; MarocMama",
+   "t": "Taste of Maroc, My Moroccan Food и MarocMama"
+  },
+  "secrets.5.text": {
+   "fr": "Coupe les tomates en deux, râpe-les et jette la peau, plutôt que de les peler et les hacher : la cuisson est un peu plus courte.",
+   "t": "Разрежьте помидоры пополам, натрите их на тёрке и выбросьте кожицу, а не очищайте и не рубите их: так готовить чуть быстрее."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia ; MarocMama",
+   "t": "Taste of Maroc, Cooking With Alia и MarocMama"
+  },
+  "secrets.6.text": {
+   "fr": "Préfère des tomates fraîches bien mûres : en conserve, le goût est un peu métallique. Le temps de réduction dépend beaucoup de leur maturité et de leur jus.",
+   "t": "Выбирайте свежие очень спелые помидоры: у консервированных немного металлический привкус. Время уваривания сильно зависит от их спелости и сочности."
+  },
+  "secrets.6.source": {
+   "fr": "MarocMama (Amanda Mouttaki) ; Taste of Maroc",
+   "t": "MarocMama (Amanda Mouttaki) и Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Fais d'abord réduire la sauce, puis poche les boulettes crues dedans juste le temps de les cuire : trop cuites, elles deviennent dures.",
+   "t": "Сначала уварите соус, затем отварите в нём сырые фрикадельки ровно столько, сколько нужно, чтобы они приготовились: переваренные, они становятся жёсткими."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; My Moroccan Food",
+   "t": "Taste of Maroc и My Moroccan Food"
+  },
+  "secrets.8.text": {
+   "fr": "Laisse un peu d'espace entre les boulettes pour qu'elles s'imprègnent de sauce.",
+   "t": "Оставляйте между фрикадельками немного места, чтобы они пропитались соусом."
+  },
+  "secrets.8.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.9.text": {
+   "fr": "Les œufs vont à la toute fin, dans de petits nids, avec une pincée de sel sur chacun, couvercle fermé : 4 à 5 minutes suffisent pour un blanc pris et un jaune coulant.",
+   "t": "Яйца добавляют в самом конце, в небольшие углубления, со щепоткой соли на каждом, под закрытой крышкой: 4–5 минут достаточно, чтобы белок схватился, а желток остался жидким."
+  },
+  "secrets.9.source": {
+   "fr": "Amour de cuisine ; My Moroccan Food",
+   "t": "Amour de cuisine и My Moroccan Food"
+  },
+  "secrets.10.text": {
+   "fr": "Choisis des œufs fermiers (beldi) si tu peux.",
+   "t": "По возможности выбирайте фермерские яйца (бельди)."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Tajine en terre : utilise toujours un diffuseur sur une source de chaleur autre que le gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond.",
+   "t": "Глиняный таджин: на любом источнике тепла, кроме газа, всегда используйте рассекатель; на газу без рассекателя пламя не должно касаться дна."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc и MarocMama"
+  },
+  "secrets.12.text": {
+   "fr": "Si la sauce est trop acide, une pincée de sucre la corrige.",
+   "t": "Если соус слишком кислый, щепотка сахара это исправит."
+  },
+  "secrets.12.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "mistakes.0": {
+   "fr": "Mettre de l'œuf ou de la chapelure dans la kefta : ce n'est pas la tradition marocaine.",
+   "t": "Класть в кефту яйцо или сухари: это не марокканская традиция."
+  },
+  "mistakes.1": {
+   "fr": "Prendre une viande trop maigre : il faut un peu de gras pour la texture et le goût.",
+   "t": "Брать слишком постное мясо: для текстуры и вкуса нужно немного жира."
+  },
+  "mistakes.2": {
+   "fr": "Trop pétrir ou tasser la viande : travaille-la juste assez pour mélanger.",
+   "t": "Слишком долго вымешивать или уплотнять фарш: вымешивайте ровно столько, чтобы всё перемешалось."
+  },
+  "mistakes.3": {
+   "fr": "Faire de grosses boulettes : traditionnellement, elles sont petites et cuisent plus vite.",
+   "t": "Делать крупные фрикадельки: по традиции они маленькие и готовятся быстрее."
+  },
+  "mistakes.4": {
+   "fr": "Laisser brûler l'ail au début de la sauce.",
+   "t": "Давать чесноку подгореть в начале приготовления соуса."
+  },
+  "mistakes.5": {
+   "fr": "Ajouter les boulettes avant que la sauce ait épaissi.",
+   "t": "Добавлять фрикадельки, пока соус не загустел."
+  },
+  "mistakes.6": {
+   "fr": "Prolonger la cuisson des boulettes : elles durcissent.",
+   "t": "Передерживать фрикадельки на огне: они становятся жёсткими."
+  },
+  "mistakes.7": {
+   "fr": "Serrer les boulettes les unes contre les autres : elles prennent moins la sauce.",
+   "t": "Укладывать фрикадельки вплотную друг к другу: они хуже пропитываются соусом."
+  },
+  "mistakes.8": {
+   "fr": "Crever les jaunes en cassant les œufs.",
+   "t": "Повреждать желтки, разбивая яйца."
+  },
+  "mistakes.9": {
+   "fr": "Oublier le couvercle ou laisser les œufs trop longtemps : le jaune n'est plus coulant.",
+   "t": "Забывать накрыть крышкой или слишком долго держать яйца на огне: желток перестаёт быть жидким."
+  },
+  "mistakes.10": {
+   "fr": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur.",
+   "t": "Ставить глиняный таджин на электрическую или стеклокерамическую плиту без рассекателя."
+  },
+  "variants.0": {
+   "fr": "Version de Fès sans tomate (Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez) : boulettes de kefta déjà pochées, cuites dans du beurre et de l'eau avec sel et piment soudania jusqu'à ce que l'eau s'évapore presque, puis œufs cassés dessus juste avant de servir. Aucune tomate dans la partie visible de la recette (aperçu ckbk).",
+   "t": "Фесский вариант без помидоров (Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez): уже отваренные фрикадельки из кефты готовят в сливочном масле с водой, солью и острым перцем soudania, пока вода почти не выпарится, затем прямо перед подачей сверху разбивают яйца. В доступной для просмотра части рецепта помидоров нет (превью на ckbk)."
+  },
+  "variants.1": {
+   "fr": "Olives vertes dénoyautées ajoutées en fin de cuisson, juste pour les réchauffer ; sale alors moins la sauce (Taste of Maroc).",
+   "t": "Зелёные оливки без косточек, добавленные в конце, только чтобы прогреться; в этом случае солите соус меньше (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Poivron vert haché avec l'oignon et une feuille de laurier dans la sauce (Taste of Maroc).",
+   "t": "Рубленый зелёный сладкий перец вместе с луком и лавровый лист в соусе (Taste of Maroc)."
+  },
+  "variants.3": {
+   "fr": "Menthe fraîche hachée dans la kefta (My Moroccan Food ; facultative chez Taste of Maroc, qui la conseille avec l'agneau).",
+   "t": "Рубленая свежая мята в кефте (My Moroccan Food; по желанию у Taste of Maroc, где её советуют добавлять к баранине)."
+  },
+  "variants.4": {
+   "fr": "Une pointe de curcuma ou de cannelle dans la kefta (facultatives chez Taste of Maroc ; cannelle chez Cooking With Alia, épisode 372).",
+   "t": "Куркума или корица на кончике ножа в кефте (по желанию у Taste of Maroc; корица у Cooking With Alia, выпуск 372)."
+  },
+  "variants.5": {
+   "fr": "Ail dans la kefta (Cooking With Alia, MarocMama, Amour de cuisine).",
+   "t": "Чеснок в кефте (Cooking With Alia, MarocMama, Amour de cuisine)."
+  },
+  "variants.6": {
+   "fr": "Kefta assaisonnée laissée reposer 30 minutes, couverte, avant de façonner (Cooking With Alia, épisode 372).",
+   "t": "Приправленной кефте дают постоять 30 минут под крышкой, прежде чем формовать фрикадельки (Cooking With Alia, выпуск 372)."
+  },
+  "variants.7": {
+   "fr": "Sauce au curcuma et au paprika fort « soudaniya » (MarocMama).",
+   "t": "Соус с куркумой и острой паприкой «soudaniya» (MarocMama)."
+  },
+  "variants.8": {
+   "fr": "Concentré de tomate délayé dans de l'eau ajouté à la sauce, boulettes mijotées 40 minutes (Cooking With Alia, épisode 023).",
+   "t": "В соус добавляют томатную пасту, разведённую водой, а фрикадельки тушат 40 минут (Cooking With Alia, выпуск 023)."
+  },
+  "variants.9": {
+   "fr": "Boulettes dorées à la poêle avant d'aller dans la sauce, pour plus de goût et une meilleure tenue (MarocMama ; Amour de cuisine quand elle a le temps).",
+   "t": "Фрикадельки обжаривают на сковороде до золотистого цвета, прежде чем положить в соус: так вкуснее, и они лучше держат форму (MarocMama; Amour de cuisine, когда у неё есть время)."
+  },
+  "variants.10": {
+   "fr": "Jaune bien cuit (MarocMama), œufs battus versés sur la sauce, ou pas d'œufs du tout : ils restent facultatifs (MarocMama, Taste of Maroc).",
+   "t": "Хорошо приготовленный желток (MarocMama), взбитые яйца, вылитые на соус, или вовсе без яиц: они необязательны (MarocMama, Taste of Maroc)."
+  },
+  "variants.11": {
+   "fr": "Avec des légumes : petits pois (MarocMama, Amour de cuisine), aubergine en dés et harissa (My Moroccan Food), courgette ou poivron (Amour de cuisine).",
+   "t": "С овощами: зелёный горошек (MarocMama, Amour de cuisine), баклажан кубиками и харисса (My Moroccan Food), кабачок или сладкий перец (Amour de cuisine)."
+  },
+  "variants.12": {
+   "fr": "Plus de sauce : augmente la sauce tomate de moitié (Taste of Maroc).",
+   "t": "Больше соуса: увеличьте количество томатного соуса в полтора раза (Taste of Maroc)."
+  },
+  "variants.13": {
+   "fr": "Autres viandes halal : poulet ou dinde hachés (Taste of Maroc, MarocMama), avec du gingembre pour le poulet (Cooking With Alia).",
+   "t": "Другое халяльное мясо: куриный фарш или фарш из индейки (Taste of Maroc, MarocMama), с имбирём — для курицы (Cooking With Alia)."
+  },
+  "variants.14": {
+   "fr": "Tomates en conserve pour dépanner (pelées chez My Moroccan Food, en morceaux chez Amour de cuisine).",
+   "t": "Консервированные помидоры, если нет свежих (очищенные — у My Moroccan Food, кусочками — у Amour de cuisine)."
+  }
+ }
+}

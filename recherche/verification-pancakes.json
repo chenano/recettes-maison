@@ -1,0 +1,165 @@
+{
+ "slug": "pancakes",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Food Hero (Oregon State University Extension), « Favorite Pancakes (with eggs) » (lue le 8 novembre 2026)",
+   "url": "https://foodhero.org/recipes/favorite-pancakes-eggs",
+   "ce_qu_elle_confirme": "Source universitaire américaine non citée, proportions proches de celles retenues : 1 ¼ cup de farine, 1 c. à s. de levure chimique, 1 c. à s. de sucre, ¼ c. à c. de sel, 1 œuf, 1 cup de lait, 2 c. à s. d'huile ; 8 pancakes de 4 pouces ; feu moyen-vif ou 350 °F, gouttes d'eau qui sautillent ; environ ¼ de cup par pancake ; retourner quand des bulles montent et que le bord paraît sec ; se laver les mains ; restes au réfrigérateur 2 jours au plus."
+  },
+  {
+   "name": "eCFR, 21 CFR 101.9 (b)(5)(viii), étiquetage nutritionnel (lu le 8 novembre 2026)",
+   "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9",
+   "ce_qu_elle_confirme": "Seconde source officielle des arrondis de cuisine : « a teaspoon means 5 milliliters (mL), a tablespoon means 15 mL, a cup means 240 mL, 1 fl oz means 30 mL, and 1 oz in weight means 28 g »."
+  },
+  {
+   "name": "eCFR, 21 CFR 169.179 « Vanilla powder » (lu le 8 novembre 2026)",
+   "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-169/subpart-B/section-169.179",
+   "ce_qu_elle_confirme": "La vanille en poudre est de la vanille moulue ou de l'oléorésine de vanille mélangée à du sucre (ou dextrose, lactose, amidon…) ; avec du sucre, elle peut s'appeler « vanilla sugar ». Aucun alcool parmi les ingrédients : appuie le remplacement de l'extrait par du sucre vanillé ou de la vanille en poudre."
+  },
+  {
+   "name": "Gold Medal (General Mills), « Gold Medal All Purpose Flour », page produit (lue le 8 novembre 2026)",
+   "url": "https://www.goldmedalflour.com/products/all-purpose-flour",
+   "ce_qu_elle_confirme": "Farine des recettes Betty Crocker : portion de 1/4 de cup = 30 g, soit 120 g la cup, farine versée à la cuillère puis arasée ; la même page compte aussi « 3 1/3 cups of flour per pound », soit environ 136 g la cup (calcul python)."
+  },
+  {
+   "name": "Santé publique France, « Syndrome hémolytique et urémique pédiatrique : les mesures de prévention face aux risques de l'été », 19 juillet 2022 (lu le 8 novembre 2026)",
+   "url": "https://www.santepubliquefrance.fr/les-actualites/syndrome-hemolytique-et-uremique-pediatrique-les-mesures-de-prevention-face-aux-risques-de-lete",
+   "ce_qu_elle_confirme": "Source officielle française qui recoupe la FDA : « Les préparations à base de farine (pizza/pâte à cookies/gâteau/tarte/crêpe...) ne doivent pas être consommées crues ou peu cuites » ; restes rapidement au réfrigérateur et bien réchauffés."
+  },
+  {
+   "name": "LalaMoulati (site marocain de cuisine), recherche interne « بان كيك » (lue le 8 novembre 2026)",
+   "url": "https://www.lalamoulati.net/?s=%D8%A8%D8%A7%D9%86+%D9%83%D9%8A%D9%83",
+   "ce_qu_elle_confirme": "Source marocaine pour le nom arabe : titres « بان كيك », « البان كيك », « بان كيك بلفريز وكريم فريش »."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "sources[12].name",
+   "actuel": "(page lue avec l'outil WebFetch : le téléchargement direct était renvoyé vers une page de détection d'abus)",
+   "propose": "(relue directement le 8 novembre 2026 par la contre-vérification : la page répond normalement)",
+   "pourquoi": "Demande de vérifier si la page FDA se lit normalement : oui. Trois requêtes directes le 8 novembre 2026, dont une avec l'identification par défaut de curl, ont reçu la page complète (code 200, aucune page de détection d'abus) ; le robots.txt de fda.gov n'interdit pas /food/. Le texte dit bien « Never eat or taste raw flour, dough, or batter », parle des œufs crus et du lavage des mains (« Content current as of 03/05/2024 »). Source gardée.",
+   "gravite": "mineure",
+   "sources": "FDA, « Handling Flour Safely: What You Need to Know » ; robots.txt de www.fda.gov."
+  },
+  {
+   "champ": "sources[13].name",
+   "actuel": "(lue avec l'outil WebFetch, même raison)",
+   "propose": "(relue directement le 8 novembre 2026 par la contre-vérification : la page répond normalement)",
+   "pourquoi": "Même constat pour la page sur les œufs (code 200, page complète). Elle confirme : 2 heures au plus hors du réfrigérateur (1 heure au-dessus de 90 °F), restes de plats aux œufs sous 3 à 4 jours, réchauffés à 165 °F, réfrigérateur à 40 °F ou moins.",
+   "gravite": "mineure",
+   "sources": "FDA, « What You Need to Know About Egg Safety » (lue le 8 novembre 2026)."
+  },
+  {
+   "champ": "unverified[8]",
+   "actuel": "FDA : le téléchargement direct des pages était renvoyé vers une page de détection d'abus ; les deux pages ont été lues avec l'outil WebFetch, qui a reçu leur contenu.",
+   "propose": "FDA : lors de la recherche, le téléchargement direct des deux pages tombait sur une page de détection d'abus et elles ont été lues par un autre outil ; à la contre-vérification du 8 novembre 2026, elles ont répondu normalement (code 200, robots.txt sans interdiction) et tout ce qui leur est attribué a été confirmé.",
+   "pourquoi": "La note n'est plus exacte : l'accès est normal et le contenu est confirmé (même façon de faire que pour kefta-poele, unverified[0]).",
+   "gravite": "mineure",
+   "sources": "FDA, deux pages lues le 8 novembre 2026."
+  },
+  {
+   "champ": "mistakes[6]",
+   "actuel": "Mettre de l'extrait de vanille : aux États-Unis, il contient au moins 35 % d'alcool ; prends du sucre vanillé ou de la vanille en poudre (eCFR, règlement américain).",
+   "propose": "Mettre de l'extrait de vanille : aux États-Unis, il contient au moins 35 % d'alcool (eCFR, règlement américain) ; prends plutôt du sucre vanillé ou de la vanille en poudre, que la même réglementation définit comme de la vanille moulue (ou son oléorésine) mélangée à du sucre ou à un autre support, sans alcool parmi les ingrédients (norme américaine).",
+   "pourquoi": "Telle qu'écrite, la phrase laisse croire que l'eCFR conseille le sucre vanillé ; il ne fait que définir l'extrait (21 CFR 169.175) et la vanille en poudre ou « vanilla sugar » (21 CFR 169.179). Phrase clarifiée, aussi pour la traduction.",
+   "gravite": "mineure",
+   "sources": "eCFR, 21 CFR 169.175 et 169.179."
+  },
+  {
+   "champ": "serving",
+   "actuel": "Restes : la FDA demande de ne pas laisser les plats aux œufs plus de 2 heures hors du réfrigérateur.",
+   "propose": "Restes : la FDA demande de ne pas laisser les plats aux œufs plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (90 °F).",
+   "pourquoi": "La FDA écrit « more than 2 hours or for more than 1 hour when temperatures are above 90° F » ; la seconde moitié manquait, utile par temps chaud. 90 °F = 32,2 °C (calcul python).",
+   "gravite": "mineure",
+   "sources": "FDA, « What You Need to Know About Egg Safety »."
+  },
+  {
+   "champ": "serving",
+   "actuel": "au réfrigérateur 3 jours au plus (Taste of Home ; la FDA dit 3 à 4 jours pour les plats aux œufs)",
+   "propose": "au réfrigérateur 3 jours au plus (Taste of Home ; Food Hero, de l'université d'État de l'Oregon, dit 2 jours ; la FDA, 3 à 4 jours pour les plats aux œufs)",
+   "pourquoi": "Une seconde source propre aux pancakes, universitaire, donne une durée plus courte : « Refrigerate leftover pancakes and enjoy them reheated for up to 2 days ». Le lecteur doit le savoir ; les 3 jours restent dans la limite de la FDA.",
+   "gravite": "mineure",
+   "sources": "Food Hero, « Favorite Pancakes (with eggs) » ; Taste of Home ; FDA."
+  },
+  {
+   "champ": "serving",
+   "actuel": "Ils se congèlent jusqu'à 3 mois, séparés par du papier cuisson (Taste of Home) ; King Arthur conseille de les congeler le jour même.",
+   "propose": "Ils se congèlent jusqu'à 3 mois, séparés par du papier cuisson (Taste of Home ; Betty Crocker dit plutôt 1 à 2 mois) ; King Arthur précise qu'on peut les congeler le jour même.",
+   "pourquoi": "Betty Crocker, déjà citée, écrit « freeze your pancakes for about 1 to 2 months » : écart non signalé. King Arthur écrit « can be frozen the same day they're made » (possibilité, pas conseil).",
+   "gravite": "mineure",
+   "sources": "Betty Crocker, « Fluffy Homemade Pancakes » ; King Arthur, « Buttermilk Pancakes » ; Taste of Home."
+  },
+  {
+   "champ": "ingredients[0].items[6].note",
+   "actuel": "4 c. à s., à faire fondre puis à laisser tiédir ; ou 4 c. à s. d'huile neutre",
+   "propose": "à faire fondre puis à laisser tiédir (4 c. à s. pour 16 pancakes) ; ou le même volume d'huile neutre",
+   "pourquoi": "La note est un texte fixe : quand on change le nombre de pancakes, l'appli recalcule le beurre (4 g pour 1, 110 g pour 32, rendu rejoué avec app.html) mais la note dirait toujours « 4 c. à s. ». Betty Crocker et King Arthur prennent le même volume d'huile que de beurre (2 c. à s. pour 1 cup de farine chez Betty Crocker).",
+   "gravite": "mineure",
+   "sources": "Code de rendu de app.html (fmtQ) ; Betty Crocker ; King Arthur, « Buttermilk Pancakes »."
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "Le blog King Arthur conseille autant de liquide que de farine en volume, mais pour sa recette au babeurre.",
+   "propose": "Le blog King Arthur en fait une règle pour toute recette : autant de liquide que de farine en volume (le double en poids) ; Food Hero met 4/5 de cup de lait par cup de farine. La pâte retenue est donc un peu plus épaisse : si elle ne coule pas, ajoute un peu de lait (Betty Crocker, Land O'Lakes).",
+   "pourquoi": "Le blog écrit « If you use volume, it's easy: the flour and liquid should be about equal » puis « If you're using a different recipe, adjust the batter… (two times as much liquid as flour) » : la règle n'est pas propre à sa recette au babeurre. Le 3/4 de cup reste justifié par Betty Crocker et Taste of Home.",
+   "gravite": "mineure",
+   "sources": "King Arthur, « How to make fluffy pancakes » (21 janvier 2019) ; Food Hero ; Betty Crocker ; Land O'Lakes."
+  },
+  {
+   "champ": "variants[7]",
+   "actuel": "puis cuit 4 à 5 minutes à feu doux avant de retourner.",
+   "propose": "puis cuit environ 1 minute à feu moyen et 4 à 5 minutes à feu doux avant de retourner.",
+   "pourquoi": "King Arthur : « Turn the heat to medium… After about a minute of cooking, turn the heat down to low… 4 to 5 minutes ».",
+   "gravite": "mineure",
+   "sources": "King Arthur, « How to make fluffy pancakes »."
+  },
+  {
+   "champ": "unverified[0]",
+   "actuel": "Le nom arabe vient de Mawdoo3 (site jordanien) et de Wikipédia en arabe, pas d'une source marocaine.",
+   "propose": "Le nom arabe vient de Mawdoo3 (site jordanien) et de Wikipédia en arabe ; le site marocain LalaMoulati emploie aussi « بان كيك » et « البان كيك » dans ses titres de recettes (contre-vérification). Dans le corpus de darija DODa, « pancakes » traduit le baghrir ou le msemen, pas le pancake américain.",
+   "pourquoi": "Une source marocaine confirme le nom arabe ; le champ darija reste vide à juste titre.",
+   "gravite": "mineure",
+   "sources": "LalaMoulati, recherche « بان كيك » ; DODa, sentences.csv."
+  },
+  {
+   "champ": "unverified[3]",
+   "actuel": "Poids d'une cup de farine : seule la valeur de King Arthur (120 g) a été lue ; les données de l'USDA n'ont pas été consultées.",
+   "propose": "Poids d'une cup de farine : 120 g chez King Arthur et sur l'étiquette de la farine Gold Medal, celle des recettes Betty Crocker (1/4 de cup = 30 g, farine versée à la cuillère puis arasée) ; mais Gold Medal compte aussi 3 1/3 cups par livre, soit environ 136 g la cup : le poids dépend de la façon de remplir la tasse. Les données de l'USDA n'ont pas été consultées.",
+   "pourquoi": "Seconde source lue pour les 120 g, avec l'écart qu'elle révèle (calcul python : 453,6 g ÷ 3,33 = 136 g).",
+   "gravite": "mineure",
+   "sources": "Gold Medal, page « All Purpose Flour » ; King Arthur, « Ingredient Weight Chart »."
+  },
+  {
+   "champ": "unverified[5]",
+   "actuel": "Durée de conservation des pancakes au réfrigérateur (3 jours) : une seule source propre aux pancakes (Taste of Home), cohérente avec la FDA pour les plats aux œufs (3 à 4 jours).",
+   "propose": "Durée de conservation des pancakes au réfrigérateur : 3 jours chez Taste of Home, 2 jours chez Food Hero (université d'État de l'Oregon), 3 à 4 jours pour les plats aux œufs selon la FDA ; aucune source officielle propre aux pancakes.",
+   "pourquoi": "Mise à jour après la lecture de Food Hero (voir la correction de serving).",
+   "gravite": "mineure",
+   "sources": "Food Hero ; Taste of Home ; FDA."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Accès et robots.txt (lus le 8 novembre 2026) : aucun site cité n'interdit les pages utilisées ; les 16 liens répondent (code 200), dont la page Gutenberg n° 65061 et son texte (pg65061.txt).",
+  "Pages FDA : lisibles normalement (code 200, page complète, trois requêtes directes, aussi avec l'identification par défaut de curl) ; aucune raison de les retirer. « Handling Flour Safely » et « What You Need to Know About Egg Safety » disent bien ce que la recette leur attribue (« Content current as of 03/05/2024 » = 5 mars 2024).",
+  "King Arthur, « Buttermilk Pancakes » (Charlotte Rutledge, mise à jour le 27 octobre 2025) : 2 cups (240 g) de farine, 3 c. à s. (35 g) de sucre, 1 c. à c. de levure, 1 c. à c. de bicarbonate, ½ c. à c. de sel, 1 gros œuf, 2 cups (454 g) de babeurre, 2 c. à s. (28 g) de beurre ou 2 c. à s. (25 g) d'huile, 1 ½ c. à c. d'extrait de vanille en option ; 10 min de travail, 45 min au total ; 14 à 16 pancakes de 4 pouces ; « some small lumps are OK » ; repos de 15 min ; feu moyen ou 350 °F, goutte d'eau qui glisse ; ¼ de cup ; 1 à 2 min puis 1 à 2 min ; four tiède ; congelés le jour même, réchauffés à 250 °F ; yaourt grec (2/3 de cup) et lait (1 1/3 cup) ; blancs en neige avec un blanc de plus.",
+  "King Arthur, blog (Kye Ameden, 21 janvier 2019) : 1 œuf par cup de farine ; ne pas trop mélanger ; plaque à 325-350 °F ou poêle préchauffée 3 à 5 min, puis feu moyen-doux (275-300 °F) ; ¼ de cup ; retourner d'un geste vif et poser doucement ; pancake qui reprend sa forme, on peut en couper un ; cercles de près de 4 pouces et 1/3 de cup ; four au plus bas, vers 200 °F, une seule couche ; « may deflate slightly » ; 2 cups = 241 g dans ce blog. Tableau des poids : 1 cup de farine = 4 1/4 oz = 120 g, 8 c. à s. de beurre = 113 g, 1 cup de lait ou de babeurre = 227 g, 1 cup de sucre = 198 g, 1 gros œuf = 50 g, 1 c. à c. de levure = 4 g.",
+  "Betty Crocker (publiée le 12 décembre 2000, modifiée le 20 novembre 2024) : 1 œuf, 1 cup de farine, 1 c. à s. de sucre, 3 c. à c. de levure, ¼ c. à c. de sel, ¾ de cup de lait, 2 c. à s. d'huile ou de beurre fondu ; 9 pancakes ; 15 min ; pâte un peu grumeleuse, sinon pancakes « tough » ; 1 à 2 c. à s. de lait si trop épaisse ; 375 °F ; gouttes d'eau qui dansent ; un peu moins de ¼ de cup ; 2 à 3 min, bulles qui éclatent et laissent des trous, bord sec, bord qui se décolle sans casser ; repos de 5 à 10 min ; trop chaud, cru dedans, pas assez, pas de levée ; levure et bicarbonate « fresh and unexpired » ; babeurre des restaurants ; variante au babeurre ; farine complète ; micro-ondes.",
+  "Taste of Home (Eugene Presley, mise à jour le 17 juillet 2024) : 1 cup de farine, 1 c. à s. de sucre, 2 c. à c. de levure, ½ c. à c. de sel, 1 gros œuf à température ambiante, ¾ de cup de lait demi-écrémé, ¼ de cup de graisse végétale ou de beurre fondu ; 8 pancakes ; 15 min ; repos d'environ 5 min (hydratation, gluten détendu, levure activée) ; ¼ de cup ; bulles qui éclatent ; four à 250 °F ; 3 jours au réfrigérateur, 3 mois au congélateur avec du papier cuisson ; réchauffage à 350 °F, 5 ou 10 min ; premier pancake raté et pancake d'essai.",
+  "Land O'Lakes (4 février 2025) : 1 cup de farine, 1 cup de babeurre, 1 gros œuf, 3 c. à s. de beurre fondu, 2 c. à s. de sucre, 2 c. à c. de levure, ¼ c. à c. de sel ; 8 pancakes ; préparation 10 min ; 350 °F, gouttes d'eau qui grésillent ; ¼ de cup étalé en cercle de 4 pouces ; 2 à 3 min puis 1 à 2 min ; vinaigre ou jus de citron et lait jusqu'à 1 cup, 5 min ; 1 cup de myrtilles ; 1 à 2 c. à s. de lait si la pâte est trop épaisse. À noter : Land O'Lakes bat sa pâte « until smooth » au batteur ; les secrets sur les grumeaux ne la citent pas, donc pas de contradiction.",
+  "Fannie Farmer (Gutenberg n° 65061, impression de 1910, copyright 1896-1906) : Sour Milk Griddle-cakes (2 ½ cups de farine, ½ c. à c. de sel, 2 cups de lait aigre, 1 ¼ c. à c. de bicarbonate, 1 œuf ; retourner « When puffed, full of bubbles, and cooked on edges » ; « Serve with butter and maple syrup ») et Sweet Milk Griddle-cakes (3 cups, 1 ½ c. à s. de levure, 1 c. à c. de sel, ¼ de cup de sucre, 2 cups de lait, 1 œuf, 2 c. à s. de beurre ; « Begin cooking cakes at once or more baking powder will be required »). Iowa State (19 septembre 2017, modifiée le 14 juin 2024) : farine complète, lait écrémé, feu moyen-doux, environ 4 puis 3 min, myrtilles surgelées décongelées et égouttées avec 2 c. à c. de farine.",
+  "Wikipédia anglais (modifié le 29 octobre 2026) : hotcakes, griddlecakes, flapjacks ; petit-déjeuner, pile de deux ou trois, sirop d'érable et beurre, souvent avec des œufs, bacon ou saucisses ; garnitures (confiture, fruits, miel, sucre glace, crème fouettée) ; buttermilk pancake courant aux États-Unis. Wikipédia français (modifié le 17 octobre 2026) : « aussi appelé crêpe américaine », note vers l'Office québécois de la langue française. Wikipédia arabe : « الفطيرة المحلاة », « البَنكَيْكَة », références « بان كيك » ; Mawdoo3 : « البان كيك ».",
+  "NIST : tableau de cuisine (mis à jour le 29 avril 2026 : 5, 15, 60, 80, 180 et 240 ml) et conversions (6 février 2026 : 4,93 ml, 14,79 ml, 29,57 ml, 28,35 g, °F moins 32 divisé par 1,8). eCFR 21 CFR 169.175 : extrait de vanille à 35 % d'alcool au moins.",
+  "Conversions recalculées avec python3 -I (fl oz exact = 29,5735 ml) : 1 cup = 236,6 ml ; 1 c. à s. = 14,79 ml et 1 c. à c. = 4,93 ml, soit 1,42 % de moins que 15 et 5 ml ; ¼ de cup = 59,1 ml = 4 c. à s. ; 1/3 de cup = 78,9 ml ; ¾ de cup = 177,4 ml ; 1 ½ cup = 354,9 ml (355 ml) ; 2 cups = 473,2 ml (475 ml) ; 2 ½ cups de farine à 120 g = 300 g. Onces du tableau King Arthur : 4 1/4 oz = 120,5 g ; 4 oz = 113,4 g ; 8 oz = 226,8 g ; 1 3/4 oz = 49,6 g ; 7 oz = 198,4 g ; 1/8 oz = 3,5 g (arrondi à 4 g par King Arthur) ; 5,3 oz de yaourt = 150 g. Beurre : 113 ÷ 8 × 4 = 56,5 g (56 g retenu). Températures : 90 °F = 32,2 °C ; 165 °F = 73,9 °C ; 200 °F = 93,3 °C ; 250 °F = 121,1 °C ; 350 °F = 176,7 °C ; 375 °F = 190,6 °C. 4 pouces = 10,16 cm.",
+  "Proportions par cup de farine recalculées : sucre 1 c. à s. (médiane des recettes au lait : 1 / 1 / 1 ⅓) ; levure 2 c. à c. (3 / 2 / 2 / 1,5) ; sel ¼ c. à c. (médiane de 5 recettes) ; beurre 2 c. à s. pour les recettes au lait (2 / 4 / ⅔), 1,5 pour toutes (avec 0 pour le lait aigre) ; 1 œuf ; ¾ de cup de lait ; rendement 8 par cup. Food Hero, source non citée, donne des valeurs proches (2,4 c. à c. de levure, 0,8 c. à s. de sucre, 0,8 œuf, 0,8 cup de lait par cup). Temps : 45 − 10 − 15 = 20 min de cuisson (King Arthur) ; 10 + 20 = 30 min, la recette entre bien dans « Vite fait » (prep + cook ≤ 30 dans app.html).",
+  "Rendu dans l'appli, rejoué avec le code de app.html (node) : 1 pancake = 15 g de farine, ⅛ c. à s. de sucre, ¼ c. à c. de levure, ⅛ c. à c. de sel, ¼ œuf, 20 ml de lait, 4 g de beurre ; 16 = 240 g, 2 c. à s., 4 c. à c., ½ c. à c., 2 œufs, 355 ml, 55 g (56 g arrondi à 5 g, écart négligeable) ; 32 = 480 g, 4 c. à s., 8 c. à c., 1 c. à c., 4 œufs, 710 ml, 110 g. {{oeufs:full}} donne « 2 œufs » ; {{huile}}, {{beurre-service}}, {{sirop-erable}} et {{miel}} (q null) donnent le nom. Les arrondis à 1 pancake (⅛ c. à c. de sel, ¼ œuf) viennent de l'appli.",
+  "Cohérence : minuteurs de 5 min (= time.rest) et de 2 min (premier côté, comme le texte) ; quantités des étapes toutes liées aux ingrédients. Halal : extrait de vanille, bacon et saucisses écartés, graisse végétale remplacée par du beurre ; pas de fromage. Noms : بان كيك confirmé par une source marocaine (LalaMoulati) ; darija vide justifié."
+ ],
+ "non_verifiable": [
+  "Quota de recherche web épuisé : pas de recherche d'autres sources américaines ; Food Hero a été trouvé par le plan de site (sitemap) de foodhero.org, Gold Medal par le sien. USDA FSIS non utilisé (son robots.txt répond par une erreur 403, testé le 8 novembre 2026).",
+  "Absence d'alcool dans le sucre vanillé et la vanille en poudre vendus en France ou au Maroc : non vérifiée ; seule la norme américaine (21 CFR 169.179) a été lue. À contrôler sur l'étiquette.",
+  "Statut halal du vinaigre (de vin ou d'alcool) dans le babeurre maison de Land O'Lakes : non vérifié, aucune source religieuse lue ; le jus de citron, que Land O'Lakes propose aussi, évite la question.",
+  "Équivalence entre la baking powder américaine et la levure chimique vendue au Maroc ou en France : toujours non vérifiée. Calcul : 4 c. à c. à 4 g (King Arthur) = environ 16 g pour 240 g de farine ; aucune source lue ne compare ce dosage à celui d'un sachet français ou marocain.",
+  "Durée de congélation : 3 mois (Taste of Home) ou 1 à 2 mois (Betty Crocker) ; aucune source officielle lue."
+ ]
+}

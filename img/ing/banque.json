@@ -43,6 +43,17 @@
   "file": "anis.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "artichaut": {
+  "title": "Artichoke J1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Artichoke_J1.jpg",
+  "author": "Jamain",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Artichaut",
+  "aisle": "Fruits et légumes",
+  "file": "artichaut.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "aubergine": {
   "title": "Solanum melongena 24 08 2012 (1).JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
@@ -52,6 +63,17 @@
   "label": "Aubergine",
   "aisle": "Fruits et légumes",
   "file": "aubergine.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "badiane": {
+  "title": "StarAnise.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:StarAnise.jpg",
+  "author": "MarkSweep",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Badiane",
+  "aisle": "Épices",
+  "file": "badiane.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "basilic": {
@@ -74,6 +96,17 @@
   "label": "Beurre",
   "aisle": "Crèmerie et œufs",
   "file": "beurre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "bicarbonate": {
+  "title": "Hydrogenuhličitan sodný 2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hydrogenuhli%C4%8Ditan_sodn%C3%BD_2.jpg",
+  "author": "Kapitánka Nemo",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Bicarbonate de soude",
+  "aisle": "Épicerie",
+  "file": "bicarbonate.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "blanc-poulet": {
@@ -147,6 +180,17 @@
   "file": "cannelle.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "cardamome": {
+  "title": "02017 0119 Kardamom, Winter in den Beskiden.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:02017_0119_Kardamom,_Winter_in_den_Beskiden.jpg",
+  "author": "Silar",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Cardamome",
+  "aisle": "Épices",
+  "file": "cardamome.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "carotte": {
   "title": "Carrots on Display.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Carrots_on_Display.jpg",
@@ -156,6 +200,17 @@
   "label": "Carotte",
   "aisle": "Fruits et légumes",
   "file": "carotte.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "carvi": {
+  "title": "Kümmel 2012-07-08-9523.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%BCmmel_2012-07-08-9523.jpg",
+  "author": "Slick",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Carvi",
+  "aisle": "Épices",
+  "file": "carvi.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "celeri": {
@@ -257,6 +312,17 @@
   "file": "citron-confit.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "clou-girofle": {
+  "title": "ClovesDried.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:ClovesDried.jpg",
+  "author": "Brian Arthur",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "label": "Clous de girofle",
+  "aisle": "Épices",
+  "file": "clou-girofle.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "concentre-tomate": {
   "title": "Tomato paste on spoon.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Tomato_paste_on_spoon.jpg",
@@ -300,6 +366,10 @@
   "aisle": "Herbes fraîches",
   "file": "coriandre.jpg",
   "modified": "recadrée en carré et réduite"
+ },
+ "coriandre-moulue": {
+  "label": "Coriandre moulue",
+  "aisle": "Épices"
  },
  "cornichons": {
   "title": "Polish style pickled cucumbers IMGP0529.jpg",
@@ -456,6 +526,28 @@
   "file": "fromage-rape.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "garam-masala": {
+  "title": "Garammasalaphoto.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Garammasalaphoto.jpg",
+  "author": "Badagnani",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "label": "Garam masala",
+  "aisle": "Épices",
+  "file": "garam-masala.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "ghee": {
+  "title": "Butterschmalz-3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Butterschmalz-3.jpg",
+  "author": "Rainer Z ...",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Ghee (beurre clarifié)",
+  "aisle": "Épicerie",
+  "file": "ghee.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "gingembre": {
   "title": "Ginger powder (1).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ginger_powder_(1).jpg",
@@ -522,6 +614,17 @@
   "file": "jben.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "kasuri-methi": {
+  "title": "Dried leaves of Fenugreek-Kasuri Methi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_leaves_of_Fenugreek-Kasuri_Methi.jpg",
+  "author": "Thamizhpparithi Maari",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Feuilles de fenugrec séchées",
+  "aisle": "Épices",
+  "file": "kasuri-methi.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "ketchup": {
   "title": "Ketchup 20160918 181342 (cropped).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ketchup_20160918_181342_(cropped).jpg",
@@ -577,6 +680,17 @@
   "file": "laitue.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "laurier": {
+  "title": "Bay Leaves.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Bay_Leaves.JPG",
+  "author": "Miansari66",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Laurier",
+  "aisle": "Épices",
+  "file": "laurier.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "lentilles": {
   "title": "Green lentils.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Green_lentils.jpg",
@@ -630,6 +744,17 @@
   "label": "Macaronis",
   "aisle": "Épicerie",
   "file": "macaronis.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "mastic": {
+  "title": "מסטיקא - 2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%A1%D7%98%D7%99%D7%A7%D7%90_-_2.jpg",
+  "author": "פארוק",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Mastic (meska)",
+  "aisle": "Épices",
+  "file": "mastic.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "mayonnaise": {
@@ -719,6 +844,17 @@
   "aisle": "Épices",
   "file": "nigelle.jpg",
   "modified": "recadrée en carré et réduite, zoomée"
+ },
+ "noix-cajou": {
+  "title": "CASHEW NUTS.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CASHEW_NUTS.jpg",
+  "author": "Ranjithkumar Murugesan",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Noix de cajou",
+  "aisle": "Épicerie",
+  "file": "noix-cajou.jpg",
+  "modified": "recadrée en carré et réduite"
  },
  "noix-de-muscade": {
   "title": "Nutmeg whole.JPG",
@@ -819,6 +955,17 @@
   "file": "pain-burger.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "pain-pita": {
+  "title": "Pita Bread.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pita_Bread.jpg",
+  "author": "Azure Dragon of the East",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "label": "Pain pita",
+  "aisle": "Boulangerie",
+  "file": "pain-pita.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "paprika": {
   "title": "Aleva paprika.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Aleva_paprika.jpg",
@@ -830,6 +977,17 @@
   "file": "paprika.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "pate-ail-gingembre": {
+  "title": "Ginger and garlic from farm.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_and_garlic_from_farm.jpg",
+  "author": "MaiDenzel",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Gingembre frais et ail",
+  "aisle": "Fruits et légumes",
+  "file": "pate-ail-gingembre.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "persil": {
   "title": "Petroselinum crispum 003.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Petroselinum_crispum_003.JPG",
@@ -839,6 +997,28 @@
   "label": "Persil plat",
   "aisle": "Herbes fraîches",
   "file": "persil.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "petits-pois": {
+  "title": "Peas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Peas.jpg",
+  "author": "Renee Comet (Photographer)",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Petits pois",
+  "aisle": "Fruits et légumes",
+  "file": "petits-pois.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "piment-cachemire": {
+  "title": "Kashmiri Red Chilies.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kashmiri_Red_Chilies.jpg",
+  "author": "Inu06",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "label": "Piment du Cachemire",
+  "aisle": "Épices",
+  "file": "piment-cachemire.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "piment-cayenne": {
@@ -966,6 +1146,17 @@
   "file": "pruneaux.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "raisins-secs": {
+  "title": "Raisins.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Raisins.jpg",
+  "author": "Scott Ehardt",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Raisins secs",
+  "aisle": "Épicerie",
+  "file": "raisins-secs.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "ras-el-hanout": {
   "title": "Ras.el.hanout.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ras.el.hanout.jpg",
@@ -1043,6 +1234,17 @@
   "file": "sesame.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "sirop-erable": {
+  "title": "Maple syrup.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maple_syrup.jpg",
+  "author": "User:Miguel Andrade",
+  "license": "Public domain",
+  "license_url": "",
+  "label": "Sirop d'érable",
+  "aisle": "Épicerie",
+  "file": "sirop-erable.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
  "smen": {
   "title": "Smen msemmen.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Smen_msemmen.jpg",
@@ -1096,6 +1298,17 @@
   "label": "Sucre vanillé",
   "aisle": "Épicerie",
   "file": "sucre-vanille.jpg",
+  "modified": "recadrée en carré et réduite"
+ },
+ "tahini": {
+  "title": "Tahini with oil.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Tahini_with_oil.JPG",
+  "author": "Miansari66",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "label": "Tahini",
+  "aisle": "Épicerie",
+  "file": "tahini.jpg",
   "modified": "recadrée en carré et réduite"
  },
  "the-vert": {
@@ -1164,8 +1377,23 @@
   "file": "vermicelles.jpg",
   "modified": "recadrée en carré et réduite"
  },
+ "vinaigre": {
+  "label": "Vinaigre blanc",
+  "aisle": "Épicerie"
+ },
  "warqa": {
   "label": "Feuilles de brick",
   "aisle": "Épicerie"
+ },
+ "yaourt": {
+  "title": "Joghurt.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Joghurt.jpg",
+  "author": "Rainer Zenz (auteur présumé, selon Wikimedia Commons)",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "label": "Yaourt nature",
+  "aisle": "Crèmerie et œufs",
+  "file": "yaourt.jpg",
+  "modified": "recadrée en carré et réduite"
  }
 }

@@ -1,0 +1,558 @@
+{
+ "_slug": "lentilles",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Lentilles à la marocaine, à l'agneau et aux légumes",
+   "t": "Moroccan lentils with lamb and vegetables"
+  },
+  "darija": {
+   "fr": "Adess bel lham (l'3des)",
+   "t": "Adess bel lham (l'3des)"
+  },
+  "tagline": {
+   "fr": "Les lentilles, plat d'hiver des familles marocaines, ici mijotées avec de l'agneau, des carottes et des pommes de terre, dans une sauce tomate au cumin et au paprika, à saucer avec du pain.",
+   "t": "Lentils, a winter dish for Moroccan families, here simmered with lamb, carrots and potatoes in a tomato sauce with cumin and paprika, to mop up with bread."
+  },
+  "region": {
+   "fr": "Tout le Maroc (Morocco World News 2019 : plat apprécié dans tout le pays en hiver)",
+   "t": "All over Morocco (Morocco World News 2019: a dish enjoyed throughout the country in winter)"
+  },
+  "occasion": {
+   "fr": "Plat familial du quotidien, surtout en hiver ; servi en plat principal, avec du pain (Morocco World News 2019 et 2020 ; blog Mamatkamal)",
+   "t": "An everyday family dish, especially in winter; served as a main course, with bread (Morocco World News 2019 and 2020; Mamatkamal blog)"
+  },
+  "img_alt": {
+   "fr": "Lentilles aux pommes de terre et aux carottes dans un plat décoré, photographiées au Maroc",
+   "t": "Lentils with potatoes and carrots in a decorated dish, photographed in Morocco"
+  },
+  "serving": {
+   "fr": "Bien chaud, en plat principal, avec du khobz pour saucer, ou à la cuillère (Morocco World News 2019 et 2020 ; My Moroccan Food ; Cooking With Alia). À côté : des quartiers de citron (Bladi ; blog Mamatkamal ; My Moroccan Food) et, pour ceux qui aiment, de la harissa ou du piment fort (My Moroccan Food ; blog Mamatkamal).",
+   "t": "Piping hot, as a main course, with khobz to mop up the sauce, or with a spoon (Morocco World News 2019 and 2020; My Moroccan Food; Cooking With Alia). On the side: lemon wedges (Bladi; Mamatkamal blog; My Moroccan Food) and, for those who like it, harissa or hot chilli (My Moroccan Food; Mamatkamal blog)."
+  },
+  "ing.0.group": {
+   "fr": "Viande",
+   "t": "Meat"
+  },
+  "ing.agneau.name": {
+   "fr": "d'agneau désossé (épaule ou collier)",
+   "t": "boneless lamb (shoulder or neck)"
+  },
+  "ing.agneau.note": {
+   "fr": "halal ; en morceaux d'environ 3 cm, sans l'excès de gras",
+   "t": "halal; in pieces of about 3 cm, trimmed of excess fat"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "Sauce"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon",
+   "t": "large onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons",
+   "t": "large onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher finement",
+   "t": "to be finely chopped"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne bien mûre",
+   "t": "medium tomato, very ripe"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes bien mûres",
+   "t": "medium tomatoes, very ripe"
+  },
+  "ing.tomates.note": {
+   "fr": "chair râpée, sans la peau",
+   "t": "flesh grated, skin discarded"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "tomato purée"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "adjust at the end of cooking"
+  },
+  "ing.cayenne.name": {
+   "fr": "une pincée de piment de Cayenne",
+   "t": "a pinch of cayenne pepper"
+  },
+  "ing.cayenne.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.eau-bouillante.name": {
+   "fr": "un peu d'eau bouillante",
+   "t": "a little boiling water"
+  },
+  "ing.eau-bouillante.note": {
+   "fr": "seulement si la sauce réduit trop",
+   "t": "only if the sauce reduces too much"
+  },
+  "ing.2.group": {
+   "fr": "Lentilles et légumes",
+   "t": "Lentils and vegetables"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles vertes ou brunes",
+   "t": "green or brown lentils"
+  },
+  "ing.lentilles.note": {
+   "fr": "sèches ; pas de lentilles corail",
+   "t": "dried; not red lentils"
+  },
+  "ing.carottes.name": {
+   "fr": "carotte moyenne",
+   "t": "medium carrot"
+  },
+  "ing.carottes.pl": {
+   "fr": "carottes moyennes",
+   "t": "medium carrots"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "petite pomme de terre",
+   "t": "small potato"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "petites pommes de terre",
+   "t": "small potatoes"
+  },
+  "ing.3.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "khobz (Moroccan bread)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "to mop up the sauce"
+  },
+  "equipment.0": {
+   "fr": "Grande cocotte ou marmite à fond épais, avec couvercle",
+   "t": "Large casserole or heavy-based pot, with a lid"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Colander"
+  },
+  "equipment.2": {
+   "fr": "Râpe",
+   "t": "Grater"
+  },
+  "equipment.3": {
+   "fr": "Une planche réservée à la viande crue, une autre pour les légumes et les herbes",
+   "t": "One chopping board kept for raw meat, another for the vegetables and herbs"
+  },
+  "equipment.4": {
+   "fr": "Couteau et éplucheur",
+   "t": "Knife and vegetable peeler"
+  },
+  "equipment.5": {
+   "fr": "Bol d'eau froide, pour les pommes de terre",
+   "t": "Bowl of cold water, for the potatoes"
+  },
+  "equipment.6": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "steps.0.title": {
+   "fr": "Trie et lave les lentilles",
+   "t": "Pick over and wash the lentils"
+  },
+  "steps.0.text": {
+   "fr": "Trie {{lentilles}} de lentilles pour retirer les petits cailloux. Lave-les dans une passoire et laisse-les égoutter.",
+   "t": "Pick over {{lentilles}} lentils to remove any small stones. Wash them in a colander and leave them to drain."
+  },
+  "steps.0.tip": {
+   "fr": "Pas besoin de trempage : les recettes avec viande de Choumicha et de My Moroccan Food mettent les lentilles sèches. Si tu les as fait tremper, elles cuiront plus vite : surveille-les. Sans trempage, les lentilles brunes du Maroc peuvent demander bien plus de 40 minutes (1 h 30 à 2 h à la marmite selon le blog Mamatkamal) : goûte-les avant d'ajouter les pommes de terre.",
+   "t": "No need to soak them: the meat recipes from Choumicha and My Moroccan Food use the lentils dry. If you have soaked them, they will cook faster: keep an eye on them. Without soaking, Moroccan brown lentils can take much longer than 40 minutes (1 h 30 min to 2 h in a pot, according to the Mamatkamal blog): taste them before adding the potatoes."
+  },
+  "steps.1.title": {
+   "fr": "Coupe l'agneau",
+   "t": "Cut the lamb"
+  },
+  "steps.1.text": {
+   "fr": "Sur une planche réservée à la viande crue, retire l'excès de gras de {{agneau}} d'agneau et coupe-le en morceaux d'environ 3 cm.",
+   "t": "On a chopping board kept for raw meat, trim the excess fat from {{agneau}} of lamb and cut it into pieces of about 3 cm."
+  },
+  "steps.1.tip": {
+   "fr": "Garde une autre planche pour les légumes et les herbes (Anses).",
+   "t": "Keep another board for the vegetables and herbs (Anses)."
+  },
+  "steps.2.title": {
+   "fr": "Prépare oignon, tomates et ail",
+   "t": "Prepare the onion, tomatoes and garlic"
+  },
+  "steps.2.text": {
+   "fr": "Râpe l'oignon ({{oignon:full}}). Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Hache finement l'ail ({{ail:full}}).",
+   "t": "Grate the onion ({{oignon:full}}). Cut the tomatoes in half ({{tomates:full}}), grate the flesh and discard the skin. Finely chop the garlic ({{ail:full}})."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Tomato grated on a grater"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "Chop the herbs"
+  },
+  "steps.3.text": {
+   "fr": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Wash the parsley and coriander, dry them and chop them finely: you need {{persil}} parsley and {{coriandre}} coriander."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.4.title": {
+   "fr": "Épluche les légumes",
+   "t": "Peel the vegetables"
+  },
+  "steps.4.text": {
+   "fr": "Épluche les carottes ({{carottes:full}}) et coupe-les en morceaux réguliers. Épluche les pommes de terre ({{pommes-de-terre:full}}), coupe-les en gros morceaux et garde-les dans un bol d'eau froide jusqu'au moment de les cuire.",
+   "t": "Peel the carrots ({{carottes:full}}) and cut them into even pieces. Peel the potatoes ({{pommes-de-terre:full}}), cut them into large pieces and keep them in a bowl of cold water until it is time to cook them."
+  },
+  "steps.4.tip": {
+   "fr": "Ne coupe pas les pommes de terre trop petites : elles se déferaient dans la sauce (Cooking With Alia).",
+   "t": "Do not cut the potatoes too small: they would fall apart in the sauce (Cooking With Alia)."
+  },
+  "steps.5.title": {
+   "fr": "Fais dorer l'agneau",
+   "t": "Brown the lamb"
+  },
+  "steps.5.text": {
+   "fr": "Dans la cocotte, chauffe {{huile}} d'huile d'olive à feu moyen. Fais dorer les morceaux d'agneau 5 à 10 minutes, en les retournant pour qu'ils se colorent de tous les côtés.",
+   "t": "In the casserole, heat {{huile}} olive oil over medium heat. Brown the pieces of lamb for 5 to 10 minutes, turning them so that they colour on all sides."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute aromates et épices",
+   "t": "Add the aromatics and spices"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute l'oignon râpé, l'ail, les tomates râpées et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et, si tu aimes, {{cayenne}}. Mélange et laisse revenir 5 minutes en remuant.",
+   "t": "Add the grated onion, garlic, grated tomatoes and herbs. Add {{concentre}} tomato purée, {{paprika}} paprika, {{cumin}} cumin, {{poivre}} pepper, {{sel}} salt and, if you like, {{cayenne}}. Mix and let it cook for 5 minutes, stirring."
+  },
+  "steps.6.timer.label": {
+   "fr": "Aromates et épices",
+   "t": "Aromatics and spices"
+  },
+  "steps.6.timer.done": {
+   "fr": "Verse l'eau et porte à ébullition.",
+   "t": "Pour in the water and bring to the boil."
+  },
+  "steps.7.title": {
+   "fr": "Fais mijoter la viande",
+   "t": "Simmer the meat"
+  },
+  "steps.7.text": {
+   "fr": "Verse {{eau}} d'eau et porte à ébullition. Couvre, baisse le feu et laisse mijoter 45 minutes, jusqu'à ce que la viande commence à s'attendrir sans être encore fondante.",
+   "t": "Pour in {{eau}} of water and bring to the boil. Cover, lower the heat and simmer for 45 minutes, until the meat starts to soften but is not yet meltingly tender."
+  },
+  "steps.7.timer.label": {
+   "fr": "Agneau à mi-cuisson",
+   "t": "Lamb, half-cooked"
+  },
+  "steps.7.timer.done": {
+   "fr": "La viande commence à s'attendrir ? Ajoute les lentilles. Encore ferme : laisse-la jusqu'à 15 minutes de plus.",
+   "t": "Is the meat starting to soften? Add the lentils. Still firm: give it up to 15 minutes more."
+  },
+  "steps.8.title": {
+   "fr": "Ajoute lentilles et carottes",
+   "t": "Add the lentils and carrots"
+  },
+  "steps.8.text": {
+   "fr": "Ajoute les lentilles égouttées et les carottes, puis mélange. Le liquide doit couvrir les lentilles : sinon, ajoute {{eau-bouillante}}. Couvre et laisse mijoter 20 minutes à feu doux, en remuant de temps en temps, puis goûte les lentilles : elles doivent commencer à s'attendrir avant que tu ajoutes les pommes de terre.",
+   "t": "Add the drained lentils and the carrots, then stir. The liquid should cover the lentils: if not, add {{eau-bouillante}}. Cover and simmer for 20 minutes over low heat, stirring from time to time, then taste the lentils: they should be starting to soften before you add the potatoes."
+  },
+  "steps.8.timer.label": {
+   "fr": "Lentilles et carottes",
+   "t": "Lentils and carrots"
+  },
+  "steps.8.timer.done": {
+   "fr": "Goûte quelques lentilles : elles doivent commencer à s'attendrir. Si elles sont encore dures (les lentilles brunes peuvent être bien plus longues à cuire), prolonge la cuisson à couvert en goûtant régulièrement, et n'ajoute les pommes de terre qu'à ce moment-là.",
+   "t": "Taste a few lentils: they should be starting to soften. If they are still hard (brown lentils can take much longer to cook), keep cooking, covered, tasting regularly, and only add the potatoes at that point."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les pommes de terre",
+   "t": "Add the potatoes"
+  },
+  "steps.9.text": {
+   "fr": "Égoutte les pommes de terre et enfonce-les dans la sauce. Couvre et laisse cuire 20 minutes, jusqu'à ce que les pommes de terre, les lentilles et la viande soient tendres. Remue doucement de temps en temps et ajoute un peu d'eau bouillante si la sauce attache.",
+   "t": "Drain the potatoes and push them down into the sauce. Cover and cook for 20 minutes, until the potatoes, lentils and meat are tender. Stir gently from time to time and add a little boiling water if the sauce catches on the bottom."
+  },
+  "steps.9.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Potatoes"
+  },
+  "steps.9.timer.done": {
+   "fr": "Pique une pomme de terre : elle doit être tendre. Sinon, prolonge de 5 minutes.",
+   "t": "Prick a potato: it should be tender. If not, cook for another 5 minutes."
+  },
+  "steps.10.title": {
+   "fr": "Ajuste sauce et assaisonnement",
+   "t": "Adjust the sauce and seasoning"
+  },
+  "steps.10.text": {
+   "fr": "La sauce doit être onctueuse, ni sèche ni trop liquide. Si elle est trop liquide, laisse-la réduire quelques minutes sans couvercle. Goûte et rectifie le sel, le poivre et le cumin.",
+   "t": "The sauce should be velvety, neither dry nor too runny. If it is too runny, let it reduce for a few minutes without the lid. Taste and adjust the salt, pepper and cumin."
+  },
+  "steps.11.title": {
+   "fr": "Sers bien chaud",
+   "t": "Serve piping hot"
+  },
+  "steps.11.text": {
+   "fr": "Sers bien chaud, avec du {{khobz}} pour saucer et des quartiers de citron ({{citron:full}}) à presser dans l'assiette. Ceux qui aiment le piquant ajoutent un peu de harissa.",
+   "t": "Serve piping hot, with {{khobz}} to mop up the sauce and lemon wedges ({{citron:full}}) to squeeze over the plate. Those who like it spicy add a little harissa."
+  },
+  "steps.12.title": {
+   "fr": "Range les restes",
+   "t": "Put away the leftovers"
+  },
+  "steps.12.text": {
+   "fr": "Ne laisse pas le plat plus de 2 heures à température ambiante : mets les restes au réfrigérateur dans une boîte fermée et mange-les dans les 3 jours. S'il y en a plus d'un litre, répartis-les en petites portions pour qu'ils refroidissent vite. Réchauffe à couvert jusqu'à ce que la vapeur s'échappe, avec un peu d'eau chaude si c'est trop épais.",
+   "t": "Do not leave the dish at room temperature for more than 2 hours: put the leftovers in the fridge in a closed container and eat them within 3 days. If there is more than a litre, divide them into small portions so that they cool quickly. Reheat, covered, until steam escapes, with a little hot water if it is too thick."
+  },
+  "secrets.0.text": {
+   "fr": "Fais d'abord cuire l'agneau seul dans la sauce : les lentilles cuisent bien plus vite que la viande. Ajoute-les quand les morceaux commencent à s'attendrir, sans être encore fondants.",
+   "t": "First cook the lamb on its own in the sauce: lentils cook much faster than the meat. Add them when the pieces are starting to soften but are not yet meltingly tender."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (viande « à mi-cuisson », environ 1 heure, avant les lentilles) ; Bladi (viande 40 minutes avant les lentilles) ; Choumicha (viande séchée 30 à 40 minutes avant les lentilles et les carottes)",
+   "t": "My Moroccan Food (meat “half-cooked”, about 1 hour, before the lentils); Bladi (meat 40 minutes before the lentils); Choumicha (dried meat 30 to 40 minutes before the lentils and carrots)"
+  },
+  "secrets.1.text": {
+   "fr": "Les carottes cuisent avec les lentilles ; les pommes de terre n'arrivent que 20 minutes avant la fin, sinon elles se défont.",
+   "t": "The carrots cook with the lentils; the potatoes go in only 20 minutes before the end, otherwise they fall apart."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (carottes avec les lentilles ; patate douce et courge ajoutées pour les 20 à 25 dernières minutes) ; My Moroccan Food et Cooking With Alia (pommes de terre cuites 15 à 20 minutes dans la sauce)",
+   "t": "Choumicha (carrots with the lentils; sweet potato and squash added for the last 20 to 25 minutes); My Moroccan Food and Cooking With Alia (potatoes cooked for 15 to 20 minutes in the sauce)"
+  },
+  "secrets.2.text": {
+   "fr": "Coupe les pommes de terre en gros morceaux, jamais trop petits, et garde-les dans l'eau froide en attendant de les cuire.",
+   "t": "Cut the potatoes into large pieces, never too small, and keep them in cold water until you cook them."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking With Alia (tajine de bœuf aux pommes de terre, n° 201) ; Bladi (légumes « en gros morceaux »)",
+   "t": "Cooking With Alia (beef and potato tagine, no. 201); Bladi (vegetables “in large pieces”)"
+  },
+  "secrets.3.text": {
+   "fr": "Râpe l'oignon et les tomates. Pour la tomate, râpe la chair et jette la peau.",
+   "t": "Grate the onion and the tomatoes. For the tomatoes, grate the flesh and discard the skin."
+  },
+  "secrets.3.source": {
+   "fr": "Morocco World News 2019 (oignon et tomates râpés) ; Cooking With Alia n° 462 (chair râpée, peau jetée) ; My Moroccan Food (tomates râpées) ; blog Mamatkamal",
+   "t": "Morocco World News 2019 (grated onion and tomatoes); Cooking With Alia no. 462 (flesh grated, skin discarded); My Moroccan Food (grated tomatoes); Mamatkamal blog"
+  },
+  "secrets.4.text": {
+   "fr": "Trie toujours les lentilles avant de les laver : il reste parfois de petits cailloux.",
+   "t": "Always pick over the lentils before washing them: there are sometimes small stones left in them."
+  },
+  "secrets.4.source": {
+   "fr": "Bladi ; blog Mamatkamal",
+   "t": "Bladi; Mamatkamal blog"
+  },
+  "secrets.5.text": {
+   "fr": "Prends des lentilles vertes ou brunes. Les lentilles corail tournent en bouillie dans ce plat.",
+   "t": "Use green or brown lentils. Red lentils turn to mush in this dish."
+  },
+  "secrets.5.source": {
+   "fr": "MarocMama (la recette « ne marche pas » avec des lentilles corail) ; lentilles vertes chez My Moroccan Food, brunes chez Cooking With Alia et Morocco World News",
+   "t": "MarocMama (the recipe “does not work” with red lentils); green lentils in My Moroccan Food, brown in Cooking With Alia and Morocco World News"
+  },
+  "secrets.6.text": {
+   "fr": "Il doit toujours rester de la sauce. Si elle réduit trop avant la fin, ajoute un peu d'eau bouillante, pas de l'eau froide.",
+   "t": "There should always be some sauce left. If it reduces too much before the end, add a little boiling water, not cold water."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia n° 094 ; Choumicha (« un peu d'eau bouillante si nécessaire ») ; blog Mamatkamal (eau chaude)",
+   "t": "Cooking With Alia no. 094; Choumicha (“a little boiling water if necessary”); Mamatkamal blog (hot water)"
+  },
+  "secrets.7.text": {
+   "fr": "À la fin, la sauce doit être onctueuse, pas aqueuse : au besoin, fais-la réduire quelques minutes à découvert.",
+   "t": "At the end, the sauce should be velvety, not watery: if need be, reduce it for a few minutes uncovered."
+  },
+  "secrets.7.source": {
+   "fr": "Blog Mamatkamal (sauce « pas trop liquide ») ; Choumicha (laisser réduire la sauce pour un jus onctueux)",
+   "t": "Mamatkamal blog (sauce “not too runny”); Choumicha (let the sauce reduce for a velvety jus)"
+  },
+  "secrets.8.text": {
+   "fr": "Goûte en fin de cuisson et rectifie le sel, le poivre et le cumin.",
+   "t": "Taste at the end of cooking and adjust the salt, pepper and cumin."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia n° 094 et n° 462 ; My Moroccan Food (« sel, ou plus selon le goût »)",
+   "t": "Cooking With Alia no. 094 and no. 462; My Moroccan Food (“salt, or more to taste”)"
+  },
+  "secrets.9.text": {
+   "fr": "Sers avec du citron à presser dans l'assiette.",
+   "t": "Serve with lemon to squeeze over the plate."
+  },
+  "secrets.9.source": {
+   "fr": "Bladi (jus de citron au service) ; blog Mamatkamal (citron en fin de cuisson) ; My Moroccan Food (quartiers de citron, version sans viande)",
+   "t": "Bladi (lemon juice when serving); Mamatkamal blog (lemon at the end of cooking); My Moroccan Food (lemon wedges, meat-free version)"
+  },
+  "secrets.10.text": {
+   "fr": "Le trempage n'est pas obligatoire : les versions avec viande mettent les lentilles sèches. Trempées (1 heure à une nuit), elles cuisent plus vite.",
+   "t": "Soaking is not essential: the versions with meat use the lentils dry. Soaked (1 hour to overnight), they cook faster."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha et My Moroccan Food (sans trempage) ; Morocco World News 2019 et 2020, Cooking With Alia n° 094 et n° 462 (avec trempage)",
+   "t": "Choumicha and My Moroccan Food (no soaking); Morocco World News 2019 and 2020, Cooking With Alia no. 094 and no. 462 (with soaking)"
+  },
+  "secrets.11.text": {
+   "fr": "Au Maroc, on mange l'adess avec du pain : on prend les lentilles avec un morceau de khobz, ou à la cuillère.",
+   "t": "In Morocco, adess is eaten with bread: you scoop up the lentils with a piece of khobz, or eat them with a spoon."
+  },
+  "secrets.11.source": {
+   "fr": "Morocco World News 2020 ; Morocco World News 2019 ; My Moroccan Food",
+   "t": "Morocco World News 2020; Morocco World News 2019; My Moroccan Food"
+  },
+  "secrets.12.text": {
+   "fr": "Coupe la viande crue sur une planche à part, et ne la réutilise pas pour les herbes ou les légumes.",
+   "t": "Cut the raw meat on a separate board, and do not reuse that board for the herbs or vegetables."
+  },
+  "secrets.12.source": {
+   "fr": "Anses (une planche pour la viande crue, une autre pour les produits cuits et les légumes propres)",
+   "t": "Anses (one board for raw meat, another for cooked foods and clean vegetables)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre les lentilles avec l'agneau cru : la viande doit d'abord cuire seule jusqu'à commencer à s'attendrir, car elle cuit bien plus longtemps que les lentilles (My Moroccan Food : environ 1 heure, puis 40 minutes pour les lentilles ; Choumicha et Bladi cuisent aussi la viande d'abord).",
+   "t": "Putting the lentils in with the raw lamb: the meat must first cook on its own until it starts to soften, as it takes much longer to cook than the lentils (My Moroccan Food: about 1 hour, then 40 minutes for the lentils; Choumicha and Bladi also cook the meat first)."
+  },
+  "mistakes.1": {
+   "fr": "Ajouter les pommes de terre en même temps que les lentilles, ou les couper trop petites : elles se défont (Cooking With Alia ; Choumicha et My Moroccan Food ajoutent ces légumes en fin de cuisson).",
+   "t": "Adding the potatoes at the same time as the lentils, or cutting them too small: they fall apart (Cooking With Alia; Choumicha and My Moroccan Food add these vegetables at the end of cooking)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre des lentilles corail (MarocMama).",
+   "t": "Using red lentils (MarocMama)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser la sauce sécher et attacher au fond (Cooking With Alia ; Choumicha).",
+   "t": "Letting the sauce dry out and catch on the bottom (Cooking With Alia; Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Rallonger avec de l'eau froide : Choumicha ajoute de l'eau bouillante, le blog Mamatkamal de l'eau chaude.",
+   "t": "Topping up with cold water: Choumicha adds boiling water, the Mamatkamal blog hot water."
+  },
+  "mistakes.5": {
+   "fr": "Servir une sauce trop liquide (blog Mamatkamal ; Choumicha la fait réduire).",
+   "t": "Serving a sauce that is too runny (Mamatkamal blog; Choumicha reduces it)."
+  },
+  "mistakes.6": {
+   "fr": "Couper l'agneau cru et les herbes sur la même planche (Anses).",
+   "t": "Cutting the raw lamb and the herbs on the same board (Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
+   "t": "Leaving leftovers at room temperature for more than 2 hours, or keeping them in the fridge for more than 3 days (Anses)."
+  },
+  "variants.0": {
+   "fr": "Au bœuf : même méthode avec des morceaux de bœuf halal (blog Mamatkamal : 200 g de bœuf pour 350 g de lentilles ; Bladi met 300 g de « viande rouge » pour 300 g de lentilles).",
+   "t": "With beef: same method with pieces of halal beef (Mamatkamal blog: 200 g beef for 350 g lentils; Bladi uses 300 g “red meat” for 300 g lentils)."
+  },
+  "variants.1": {
+   "fr": "Sans viande (Morocco World News 2019 : seuls certains y ajoutent de petits morceaux de viande) : oignon, tomate, ail, paprika, cumin, herbes et huile d'olive ; 35 à 40 minutes à la casserole (Cooking With Alia n° 094 et n° 462 ; My Moroccan Food), ou 25 à 35 minutes à l'autocuiseur (Choumicha ; Morocco World News 2019 et 2020).",
+   "t": "Without meat (Morocco World News 2019: only some people add small pieces of meat): onion, tomato, garlic, paprika, cumin, herbs and olive oil; 35 to 40 minutes in a saucepan (Cooking With Alia no. 094 and no. 462; My Moroccan Food), or 25 to 35 minutes in a pressure cooker (Choumicha; Morocco World News 2019 and 2020)."
+  },
+  "variants.2": {
+   "fr": "À la viande séchée (gueddid) et aux carottes : Choumicha dessale le gueddid 15 minutes dans l'eau, le cuit 30 à 40 minutes, puis ajoute lentilles et carottes. Avec du khlii (viande confite), elle l'ajoute seulement en fin de cuisson.",
+   "t": "With dried meat (gueddid) and carrots: Choumicha soaks the gueddid in water for 15 minutes to remove the salt, cooks it for 30 to 40 minutes, then adds the lentils and carrots. With khlii (preserved dried meat), she adds it only at the end of cooking."
+  },
+  "variants.3": {
+   "fr": "Au gueddid, à la patate douce et à la courge : Choumicha ajoute ces légumes après 30 minutes de cuisson des lentilles, puis cuit encore 20 à 25 minutes.",
+   "t": "With gueddid, sweet potato and squash: Choumicha adds these vegetables after the lentils have cooked for 30 minutes, then cooks for another 20 to 25 minutes."
+  },
+  "variants.4": {
+   "fr": "Au smen : Bladi parfume la viande au smen et à la cannelle, puis arrose le plat d'un mélange chaud de persil, de jus de citron et de smen.",
+   "t": "With smen (aged salted butter): Bladi flavours the meat with smen and cinnamon, then drizzles the dish with a hot mixture of parsley, lemon juice and smen."
+  },
+  "variants.5": {
+   "fr": "À la courge et aux échalotes : My Moroccan Food remplace l'oignon par des échalotes et ajoute de la courge en fin de cuisson.",
+   "t": "With squash and shallots: My Moroccan Food replaces the onion with shallots and adds squash at the end of cooking."
+  },
+  "variants.6": {
+   "fr": "Avec un peu de riz en fin de cuisson, pour une version plus proche de la soupe (Bladi).",
+   "t": "With a little rice at the end of cooking, for a version closer to a soup (Bladi)."
+  },
+  "variants.7": {
+   "fr": "Avec du vinaigre blanc au service (Choumicha), ou des sardines grillées à côté (Morocco World News 2020).",
+   "t": "With white vinegar when serving (Choumicha), or grilled sardines on the side (Morocco World News 2020)."
+  },
+  "variants.8": {
+   "fr": "Plus épicé : certaines familles ajoutent du gingembre (Morocco World News 2019 et 2020) ou du curcuma (Cooking With Alia n° 094 ; Morocco World News 2020).",
+   "t": "More spiced: some families add ginger (Morocco World News 2019 and 2020) or turmeric (Cooking With Alia no. 094; Morocco World News 2020)."
+  }
+ }
+}

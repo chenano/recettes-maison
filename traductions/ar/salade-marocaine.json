@@ -1,0 +1,394 @@
+{
+ "_slug": "salade-marocaine",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Salade marocaine",
+   "t": "السلطة المغربية"
+  },
+  "darija": {
+   "fr": "Chlada",
+   "t": "شلاضة"
+  },
+  "tagline": {
+   "fr": "Tomates, concombre et oignon coupés tout petits, persil, citron, huile d'olive et une pointe de cumin : la salade fraîche, sans cuisson, qui accompagne beaucoup de plats au Maroc.",
+   "t": "طماطم وخيار وبصل مقطّعة قطعًا صغيرة جدًا، وبقدونس، وليمون، وزيت زيتون، وقليل جدًا من الكمون: السلطة المنعشة، دون طهي، التي ترافق أطباقًا كثيرة في المغرب."
+  },
+  "region": {
+   "fr": "Tout le Maroc : pour My Moroccan Food, c'est la salade la plus courante et la plus simple de la cuisine marocaine.",
+   "t": "المغرب كله: بالنسبة إلى My Moroccan Food، هي أكثر السلطات شيوعًا وأبسطها في المطبخ المغربي."
+  },
+  "occasion": {
+   "fr": "Tous les jours, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté d'un tajine, de grillades ou de poisson (My Moroccan Food ; MarocMama). Prête en 20 minutes, sans cuisson (Cooking With Alia ; Choumicha).",
+   "t": "كل يوم، طبقًا أول (Wikipédia FR، Cuisine marocaine) أو إلى جانب طاجين أو مشويات أو سمك (My Moroccan Food؛ MarocMama). جاهزة في 20 دقيقة، دون طهي (Cooking With Alia؛ Choumicha)."
+  },
+  "img_alt": {
+   "fr": "Tomates, concombre et persil coupés en petits dés dans un saladier (photo d'une salade arabe, très proche)",
+   "t": "طماطم وخيار وبقدونس مقطّعة مكعبات صغيرة في وعاء سلطة (صورة سلطة عربية، قريبة جدًا منها)"
+  },
+  "serving": {
+   "fr": "Bien fraîche, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté du plat : tajine, grillades ou poisson (My Moroccan Food ; MarocMama), avec du pain (Cooking With Alia). Au Maroc, plusieurs salades sont souvent posées sur la table avec le plat principal (Wikipédia FR, Cuisine marocaine).",
+   "t": "قدّمها باردة جيدًا، طبقًا أول (Wikipédia FR، Cuisine marocaine) أو إلى جانب الطبق: طاجين أو مشويات أو سمك (My Moroccan Food؛ MarocMama)، مع الخبز (Cooking With Alia). في المغرب، توضع غالبًا عدة سلطات على المائدة مع الطبق الرئيسي (Wikipédia FR، Cuisine marocaine)."
+  },
+  "ing.0.group": {
+   "fr": "Légumes et herbes",
+   "t": "الخضر والأعشاب"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne",
+   "t": "حبة طماطم متوسطة"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes",
+   "t": "حبات طماطم متوسطة"
+  },
+  "ing.concombre.name": {
+   "fr": "concombre",
+   "t": "حبة خيار"
+  },
+  "ing.concombre.pl": {
+   "fr": "concombres",
+   "t": "حبات خيار"
+  },
+  "ing.oignon.name": {
+   "fr": "petit oignon",
+   "t": "بصلة صغيرة"
+  },
+  "ing.oignon.pl": {
+   "fr": "petits oignons",
+   "t": "بصلات صغيرة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.persil.note": {
+   "fr": "ou de coriandre fraîche",
+   "t": "أو كزبرة"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "الصلصة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron",
+   "t": "عصير الليمون"
+  },
+  "ing.citron.note": {
+   "fr": "un citron donne environ 3 c. à s. de jus",
+   "t": "تعطي الليمونة الواحدة نحو 3 ملاعق كبيرة من العصير"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "يُعدَّل بعد التذوق"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "الفلفل الأسود المطحون، حسب الذوق"
+  },
+  "ing.2.group": {
+   "fr": "Service",
+   "t": "التقديم"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour accompagner",
+   "t": "للمرافقة"
+  },
+  "equipment.0": {
+   "fr": "Planche et couteau bien aiguisé",
+   "t": "لوح تقطيع وسكين حاد جيدًا"
+  },
+  "equipment.1": {
+   "fr": "Brosse à légumes propre, pour le concombre",
+   "t": "فرشاة خضر نظيفة، للخيار"
+  },
+  "equipment.2": {
+   "fr": "Torchon propre ou papier absorbant",
+   "t": "فوطة نظيفة أو ورق ماصّ"
+  },
+  "equipment.3": {
+   "fr": "Saladier",
+   "t": "وعاء سلطة"
+  },
+  "equipment.4": {
+   "fr": "Petit bol, pour la sauce",
+   "t": "وعاء صغير، للصلصة"
+  },
+  "equipment.5": {
+   "fr": "Presse-agrumes (facultatif)",
+   "t": "عصّارة حمضيات (اختيارية)"
+  },
+  "equipment.6": {
+   "fr": "Grand emporte-pièce (facultatif, pour la présentation)",
+   "t": "حلقة تقطيع كبيرة (اختيارية، للتقديم)"
+  },
+  "steps.0.title": {
+   "fr": "Lave les légumes",
+   "t": "اغسل الخضر"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains au savon. Rince {{tomates:full}}, {{concombre:full}} et le persil sous l'eau courante, sans savon. Frotte le concombre avec une brosse propre, puis sèche le tout avec un torchon propre.",
+   "t": "اغسل يديك بالصابون. اشطف {{tomates:full}} و{{concombre:full}} والبقدونس تحت الماء الجاري، دون صابون. افرك الخيار بفرشاة نظيفة، ثم جفّف الكل بفوطة نظيفة."
+  },
+  "steps.0.tip": {
+   "fr": "Les légumes et les herbes qui se mangent crus doivent être lavés soigneusement (Anses). Pas de savon ni de produit vaisselle : les légumes peuvent l'absorber (FDA).",
+   "t": "الخضر والأعشاب التي تؤكل نيئة يجب غسلها بعناية (Anses). لا صابون ولا سائل جلي: قد تمتصه الخضر (FDA)."
+  },
+  "steps.1.title": {
+   "fr": "Coupe les tomates",
+   "t": "قطّع الطماطم"
+  },
+  "steps.1.text": {
+   "fr": "Coupe chaque tomate en deux, retire les graines, puis coupe la chair en petits dés d'environ ½ cm.",
+   "t": "اقسم كل حبة طماطم إلى نصفين، وأزل البذور، ثم قطّع اللب إلى مكعبات صغيرة طول ضلعها نحو ½ سم."
+  },
+  "steps.1.tip": {
+   "fr": "Garde la peau, comme Cooking With Alia. Choumicha, elle, pèle ses tomates (salades 627 et 629).",
+   "t": "احتفظ بالقشرة، كما تفعل Cooking With Alia. أما Choumicha، فتقشّر طماطمها (السلطتان 627 و629)."
+  },
+  "steps.2.title": {
+   "fr": "Coupe le concombre",
+   "t": "قطّع الخيار"
+  },
+  "steps.2.text": {
+   "fr": "Coupe chaque concombre en deux dans la longueur, retire les graines, puis coupe-le en petits dés de la même taille.",
+   "t": "اقسم كل حبة خيار إلى نصفين طوليًا، وأزل البذور، ثم قطّعها إلى مكعبات صغيرة بالحجم نفسه."
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon",
+   "t": "افرم البصل"
+  },
+  "steps.3.text": {
+   "fr": "Épluche et hache très finement {{oignon:full}}.",
+   "t": "قشّر {{oignon:full}} وافرمها فرمًا ناعمًا جدًا."
+  },
+  "steps.3.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل إلى شرائح"
+  },
+  "steps.4.title": {
+   "fr": "Hache le persil",
+   "t": "افرم البقدونس"
+  },
+  "steps.4.text": {
+   "fr": "Effeuille le persil et hache-le finement : il en faut {{persil}} pour la salade.",
+   "t": "انزع أوراق البقدونس وافرمها فرمًا ناعمًا: تحتاج منه إلى {{persil}} للسلطة."
+  },
+  "steps.4.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.4.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.5.title": {
+   "fr": "Réunis les légumes",
+   "t": "اجمع الخضر"
+  },
+  "steps.5.text": {
+   "fr": "Mets les tomates, le concombre, l'oignon et le persil dans un saladier. Garde-le au réfrigérateur jusqu'au moment de servir.",
+   "t": "ضع الطماطم والخيار والبصل والبقدونس في وعاء السلطة. احفظه في الثلاجة حتى وقت التقديم."
+  },
+  "steps.6.title": {
+   "fr": "Prépare la sauce",
+   "t": "حضّر الصلصة"
+  },
+  "steps.6.text": {
+   "fr": "Dans un petit bol, mélange {{huile}} d'huile d'olive, {{citron}} de jus de citron, {{sel}} de sel, {{cumin}} de cumin et du {{poivre}}.",
+   "t": "في وعاء صغير، اخلط {{huile}} من زيت الزيتون و{{citron}} من عصير الليمون و{{sel}} من الملح و{{cumin}} من الكمون و{{poivre}}."
+  },
+  "steps.6.tip": {
+   "fr": "Lalla Moulati garde sa sauce au réfrigérateur, à part, jusqu'au service.",
+   "t": "تحفظ Lalla Moulati صلصتها في الثلاجة، على حدة، حتى التقديم."
+  },
+  "steps.7.title": {
+   "fr": "Assaisonne au dernier moment",
+   "t": "تبّل في آخر لحظة"
+  },
+  "steps.7.text": {
+   "fr": "Juste avant de servir, verse la sauce sur les légumes et mélange bien.",
+   "t": "قبل التقديم مباشرة، اسكب الصلصة على الخضر واخلط جيدًا."
+  },
+  "steps.7.tip": {
+   "fr": "Salée trop tôt, la salade rend son eau (Choumicha).",
+   "t": "إذا مُلّحت السلطة مبكرًا، أخرجت ماءها (Choumicha)."
+  },
+  "steps.8.title": {
+   "fr": "Goûte et rectifie",
+   "t": "تذوّق وعدّل"
+  },
+  "steps.8.text": {
+   "fr": "Goûte et ajuste le sel, le citron ou le cumin.",
+   "t": "تذوّق وعدّل الملح أو الليمون أو الكمون."
+  },
+  "steps.9.title": {
+   "fr": "Sers bien frais",
+   "t": "قدّمها باردة جيدًا"
+  },
+  "steps.9.text": {
+   "fr": "Sers tout de suite, bien frais, avec du {{khobz}}, à côté d'un tajine, de grillades ou de poisson.",
+   "t": "قدّمها فورًا، باردة جيدًا، مع {{khobz}}، إلى جانب طاجين أو مشويات أو سمك."
+  },
+  "steps.9.tip": {
+   "fr": "Pour une jolie assiette, tasse la salade dans un grand emporte-pièce posé sur l'assiette, puis retire-le doucement (Cooking With Alia).",
+   "t": "لصحن جميل، اكبس السلطة في حلقة تقطيع كبيرة موضوعة على الصحن، ثم ارفعها برفق (Cooking With Alia)."
+  },
+  "secrets.0.text": {
+   "fr": "Le secret, c'est la taille : coupe tout très petit, pour avoir un peu de chaque légume dans chaque bouchée.",
+   "t": "السر في الحجم: قطّع كل شيء صغيرًا جدًا، ليكون في كل لقمة قليل من كل نوع من الخضر."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking With Alia (recettes 208 et 543)",
+   "t": "Cooking With Alia (الوصفتان 208 و543)"
+  },
+  "secrets.1.text": {
+   "fr": "Vise des petits dés réguliers d'environ ½ cm, et un oignon haché encore plus fin.",
+   "t": "احرص على مكعبات صغيرة منتظمة طول ضلعها نحو ½ سم، وعلى بصل مفروم أنعم من ذلك."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (dés de ½ cm) ; Cooking With Alia, Lalla Moulati (2019) et MarocMama (oignon très fin)",
+   "t": "My Moroccan Food (مكعبات بـ½ سم)؛ Cooking With Alia وLalla Moulati (2019) وMarocMama (بصل ناعم جدًا)"
+  },
+  "secrets.2.text": {
+   "fr": "Garde seulement la chair : retire les graines des tomates, et celles du concombre.",
+   "t": "احتفظ باللب فقط: أزل بذور الطماطم، وبذور الخيار."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (tomates et concombre) ; MarocMama et Choumicha (tomates)",
+   "t": "My Moroccan Food (الطماطم والخيار)؛ MarocMama وChoumicha (الطماطم)"
+  },
+  "secrets.3.text": {
+   "fr": "Sel et citron au tout dernier moment : sinon les tomates rendent leur eau.",
+   "t": "الملح والليمون في آخر لحظة: وإلا أخرجت الطماطم ماءها."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha, Salade de tomates et de poivrons",
+   "t": "Choumicha، Salade de tomates et de poivrons"
+  },
+  "secrets.4.text": {
+   "fr": "Prépare la sauce à part et garde-la au frais jusqu'au service. Servie sans sauce, la salade qui reste se recycle facilement, en omelette par exemple.",
+   "t": "حضّر الصلصة على حدة واحفظها في الثلاجة حتى التقديم. السلطة المتبقية التي قُدّمت دون صلصة يسهل استعمالها من جديد، في عجة مثلًا."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati (2019) ; Choumicha, conseil « حول السلطة »",
+   "t": "Lalla Moulati (2019)؛ Choumicha، نصيحة «حول السلطة»"
+  },
+  "secrets.5.text": {
+   "fr": "Le jus de citron plutôt que le vinaigre, si tu en as.",
+   "t": "عصير الليمون بدل الخل، إن توفر لديك."
+  },
+  "secrets.5.source": {
+   "fr": "Lalla Moulati (2019) ; citron chez My Moroccan Food et Cooking With Alia",
+   "t": "Lalla Moulati (2019)؛ والليمون عند My Moroccan Food وCooking With Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Une pointe de cumin dans la sauce, comme chez Cooking With Alia, Choumicha et Lalla Moulati.",
+   "t": "قليل جدًا من الكمون في الصلصة، كما عند Cooking With Alia وChoumicha وLalla Moulati."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia (recette 208) ; Choumicha, Salade de tomates et de poivrons ; Lalla Moulati (2019)",
+   "t": "Cooking With Alia (الوصفة 208)؛ Choumicha، Salade de tomates et de poivrons؛ Lalla Moulati (2019)"
+  },
+  "secrets.7.text": {
+   "fr": "De bonnes tomates, c'est la clé : la salade ne vaut que ce que valent ses légumes.",
+   "t": "الطماطم الجيدة هي المفتاح: جودة السلطة من جودة خضرها."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.8.text": {
+   "fr": "Tomates pas assez sucrées ? Nargisse Benkabbou ajoute une cuillère à café de miel pour équilibrer l'acidité.",
+   "t": "الطماطم ليست حلوة بما يكفي؟ تضيف Nargisse Benkabbou ملعقة صغيرة من العسل لموازنة الحموضة."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Persil ou coriandre : les deux se font au Maroc.",
+   "t": "بقدونس أو كزبرة: كلاهما مستعمل في المغرب."
+  },
+  "secrets.9.source": {
+   "fr": "Persil : My Moroccan Food, Choumicha ; coriandre : Cooking With Alia",
+   "t": "البقدونس: My Moroccan Food، Choumicha؛ الكزبرة: Cooking With Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Un peu d'écorce de citron confit hachée (sans la pulpe) parfume la salade.",
+   "t": "قليل من قشر الليمون المخلل (الحامض المصيّر) المفروم، دون اللب، يعطّر السلطة."
+  },
+  "secrets.10.source": {
+   "fr": "Cooking With Alia (recette 208, facultatif) ; Choumicha (salades de tomates au citron confit)",
+   "t": "Cooking With Alia (الوصفة 208، اختياري)؛ Choumicha (سلطات الطماطم بالليمون المخلل)"
+  },
+  "secrets.11.text": {
+   "fr": "Au Maroc, elle accompagne surtout les tajines, les grillades et le poisson.",
+   "t": "في المغرب، ترافق خاصة الطواجن والمشويات والسمك."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; MarocMama",
+   "t": "My Moroccan Food؛ MarocMama"
+  },
+  "mistakes.0": {
+   "fr": "Saler la salade longtemps à l'avance : les tomates rendent leur eau (Choumicha).",
+   "t": "تمليح السلطة قبل وقت طويل: تُخرج الطماطم ماءها (Choumicha)."
+  },
+  "mistakes.1": {
+   "fr": "Couper les légumes trop gros (Cooking With Alia).",
+   "t": "تقطيع الخضر قطعًا كبيرة جدًا (Cooking With Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Laver les légumes au savon ou au produit vaisselle (FDA).",
+   "t": "غسل الخضر بالصابون أو بسائل الجلي (FDA)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les légumes sur la planche de la viande crue sans l'avoir lavée (Anses).",
+   "t": "تقطيع الخضر على لوح اللحم النيء دون غسله (Anses)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser la salade plus de 2 heures à température ambiante (Anses).",
+   "t": "ترك السلطة أكثر من 2 ساعة في حرارة الغرفة (Anses)."
+  },
+  "variants.0": {
+   "fr": "Salade marocaine de Choumicha : 4 tomates, 1 oignon, 1 poivron vert en petits morceaux, persil, huile d'olive, vinaigre ou jus de citron, sel ; sans concombre, servie avec des brochettes de kefta.",
+   "t": "سلطة Choumicha المغربية: 4 حبات طماطم، و1 بصلة، و1 حبة فلفل أخضر مقطّعة قطعًا صغيرة، وبقدونس، وزيت زيتون، وخل أو عصير ليمون، وملح؛ دون خيار، تُقدَّم مع أسياخ الكفتة."
+  },
+  "variants.1": {
+   "fr": "Chlada aux poivrons grillés de Lalla Moulati (2019) : poivrons rouge, vert et jaune grillés et pelés, 4 tomates, un petit oignon, olives vertes et noires, maïs si tu veux ; sauce au citron (ou au vinaigre), huile d'olive, sel, cumin et un peu de poivre.",
+   "t": "شلاضة الفلفل المشوي عند Lalla Moulati (2019): فلفل أحمر وأخضر وأصفر مشوي ومقشّر، و4 حبات طماطم، وبصلة صغيرة، وزيتون أخضر وأسود، وذرة إن أردت؛ وصلصة بالليمون (أو بالخل)، وزيت الزيتون، وملح، وكمون، وقليل من الفلفل الأسود."
+  },
+  "variants.2": {
+   "fr": "Salade de tomates au citron confit de Choumicha : tomates pelées, épépinées et concassées, écorce de citron confit, persil, une gousse d'ail, huile d'olive et sel.",
+   "t": "سلطة الطماطم بالليمون المخلل عند Choumicha: طماطم مقشّرة ومنزوعة البذور ومقطّعة قطعًا صغيرة، وقشر الليمون المخلل، وبقدونس، وفص ثوم، وزيت زيتون، وملح."
+  },
+  "variants.3": {
+   "fr": "Tomate et oignon seulement, au vinaigre et à l'huile d'olive : la salade qui accompagne le poisson chez MarocMama.",
+   "t": "طماطم وبصل فقط، بالخل وزيت الزيتون: السلطة التي ترافق السمك عند MarocMama."
+  },
+  "variants.4": {
+   "fr": "Coriandre à la place du persil, et un peu d'écorce de citron confit (Cooking With Alia, recette 208).",
+   "t": "الكزبرة بدل البقدونس، وقليل من قشر الليمون المخلل (Cooking With Alia، الوصفة 208)."
+  }
+ }
+}

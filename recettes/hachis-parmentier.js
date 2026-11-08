@@ -1,0 +1,504 @@
+/* Recette : Hachis parmentier. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "hachis-parmentier",
+ "title": "Hachis parmentier",
+ "darija": "",
+ "arabic": "",
+ "tagline": "Du bœuf haché bien cuit avec de l'oignon, sous une purée maison dorée au four : le grand plat familial français, sans vin.",
+ "category": "Plat",
+ "occasion": "Plat familial, réconfortant et économique. C'est aussi le plat français classique pour utiliser des restes de viande, comme le pot-au-feu ou le rôti (Wikipédia, Chef Simon).",
+ "region": "France. Plat parisien selon Wikipédia (d'après le journaliste Frédéric Zégierman), nommé en l'honneur d'Antoine-Augustin Parmentier (1737-1813), qui a popularisé la pomme de terre en France. Ses cousins : le cottage pie britannique et le pâté chinois québécois (Wikipédia).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 25,
+  "cook": 60,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Une grande casserole et une passoire",
+  "Un économe et un couteau",
+  "Deux planches à découper : une pour la viande crue, une pour le reste (Anses)",
+  "Une grande poêle ou une sauteuse, et une cuillère en bois",
+  "Un moulin à légumes ou un presse-purée (pas de mixeur)",
+  "Une petite casserole, pour le lait",
+  "Un plat à gratin",
+  "Un thermomètre de cuisson (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Purée maison",
+   "items": [
+    {
+     "id": "pdt",
+     "q": 1,
+     "u": "kg",
+     "name": "de pommes de terre à chair farineuse",
+     "note": "type Bintje ou Agria ; ni vertes, ni germées",
+     "canon": "pomme-de-terre"
+    },
+    {
+     "id": "eau",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "une grande casserole, salée",
+     "canon": "eau"
+    },
+    {
+     "id": "beurre",
+     "q": 50,
+     "u": "g",
+     "name": "de beurre",
+     "note": "en morceaux",
+     "canon": "beurre"
+    },
+    {
+     "id": "lait",
+     "q": 200,
+     "u": "ml",
+     "name": "de lait",
+     "canon": "lait"
+    },
+    {
+     "id": "muscade",
+     "q": null,
+     "u": "",
+     "name": "noix de muscade",
+     "note": "à râper",
+     "canon": "noix-de-muscade"
+    }
+   ]
+  },
+  {
+   "group": "Viande",
+   "items": [
+    {
+     "id": "huile",
+     "q": null,
+     "u": "",
+     "name": "huile d'olive",
+     "note": "un filet ; ou une huile neutre",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "oignon",
+     "q": 1,
+     "u": "",
+     "name": "oignon moyen",
+     "pl": "oignons moyens",
+     "canon": "oignon"
+    },
+    {
+     "id": "ail",
+     "q": 1,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "canon": "ail"
+    },
+    {
+     "id": "boeuf",
+     "q": 400,
+     "u": "g",
+     "name": "de bœuf haché halal",
+     "note": "bien frais ; garde-le au réfrigérateur jusqu'au dernier moment",
+     "canon": "boeuf-hache"
+    },
+    {
+     "id": "persil",
+     "q": 0.5,
+     "u": "botte",
+     "name": "de persil",
+     "note": "facultatif",
+     "canon": "persil"
+    }
+   ]
+  },
+  {
+   "group": "Assaisonnement et plat",
+   "items": [
+    {
+     "id": "sel",
+     "q": null,
+     "u": "",
+     "name": "sel",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": null,
+     "u": "",
+     "name": "poivre",
+     "canon": "poivre"
+    },
+    {
+     "id": "beurre-plat",
+     "q": null,
+     "u": "",
+     "name": "beurre",
+     "note": "un petit morceau, pour le plat",
+     "canon": "beurre"
+    },
+    {
+     "id": "fromage",
+     "q": null,
+     "u": "",
+     "name": "fromage râpé",
+     "note": "facultatif : une petite poignée d'emmental, de comté ou de gruyère ; à coagulant microbien, sans présure animale, si tu veux être strict",
+     "canon": "fromage-rape"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Épluche les pommes de terre",
+   "text": "Épluche {{pdt}} de pommes de terre. Retire les parties vertes et les germes. Lave-les, puis coupe les plus grosses en deux ou en quatre, pour avoir des morceaux de taille égale.",
+   "timer": null,
+   "tip": "Jette une pomme de terre très verte, abîmée ou amère. Les parties vertes et les germes concentrent la solanine, qui peut causer une intoxication, et la cuisson ne la détruit pas (BfR, agence allemande ; ACIA, agence canadienne). L'épluchage en enlève une bonne partie (EFSA)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Cuis les pommes de terre",
+   "text": "Mets les pommes de terre dans une grande casserole et couvre-les d'{{eau}} froide salée. Porte à ébullition, puis laisse cuire environ 30 minutes. Elles sont cuites quand la pointe d'un couteau s'y enfonce sans résistance.",
+   "timer": {
+    "min": 30,
+    "label": "Pommes de terre",
+    "done": "Pique un morceau : le couteau doit entrer sans résistance."
+   },
+   "tip": "Pendant la cuisson des pommes de terre, prépare la viande."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Hache l'oignon et l'ail",
+   "text": "Pèle et hache finement {{oignon:full}} et {{ail:full}}. Lave et hache {{persil}} de persil.",
+   "timer": null,
+   "tip": "Coupe les légumes avant de toucher la viande crue, ou prends une autre planche : l'Anses conseille une planche pour la viande crue et une autre pour le reste.",
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Hache l'oignon et l'ail » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre l'oignon",
+   "text": "Dans la grande poêle, chauffe un filet d'{{huile}}. Ajoute l'oignon et fais-le cuire en remuant, jusqu'à ce qu'il devienne translucide. Ajoute l'ail juste avant la fin de la cuisson de l'oignon et mélange.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais cuire la viande",
+   "text": "Ajoute {{boeuf}} de bœuf haché. Fais-le cuire 10 à 15 minutes environ, en remuant souvent et en séparant bien la viande avec la cuillère. Elle est prête quand elle a bruni partout, sans aucune trace rose, et qu'elle fume bien. Lave-toi les mains au savon après avoir touché la viande crue.",
+   "timer": null,
+   "tip": "La viande hachée doit toujours être cuite à cœur : le hachage répartit les bactéries de la surface dans toute la viande (FSA, agence britannique). L'Anses recommande 70 °C à cœur, surtout pour les jeunes enfants et les personnes âgées."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Assaisonne la viande",
+   "text": "Ajoute du {{sel}} et du {{poivre}}, puis le persil haché. Mélange et retire du feu.",
+   "timer": null,
+   "tip": "S'il y a beaucoup de graisse au fond de la poêle, retire-la avec une cuillère (Chef Simon)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Allume le four",
+   "text": "Préchauffe le four à 180 °C. Beurre le plat à gratin avec un petit morceau de {{beurre-plat}}.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Chauffe le lait",
+   "text": "Fais chauffer {{lait:full}} dans une petite casserole, jusqu'à ce qu'il soit bien chaud.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Écrase les pommes de terre",
+   "text": "Égoutte les pommes de terre. Passe-les tout de suite, bien chaudes, au moulin à légumes ou au presse-purée. N'utilise pas de mixeur : la purée deviendrait collante.",
+   "timer": null,
+   "tip": "Jette l'eau de cuisson : l'agence allemande BfR conseille de ne pas la réutiliser."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Termine la purée",
+   "text": "Ajoute {{beurre}} de beurre en morceaux et mélange. Verse ensuite le lait chaud petit à petit, en mélangeant avec une spatule, jusqu'à obtenir une purée souple mais pas liquide. Sale, poivre et râpe un peu de {{muscade}}.",
+   "timer": null,
+   "tip": "Le beurre se met quand les pommes de terre sont encore bien chaudes. Le lait se verse petit à petit : versé d'un coup, il rend la purée trop liquide (750g, Pascale Weeks)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Monte le hachis",
+   "text": "Étale la viande au fond du plat. Couvre-la avec toute la purée et lisse le dessus avec une spatule. Si tu veux, parsème un peu de {{fromage}}.",
+   "timer": null,
+   "tip": "Trace des stries sur la purée avec une fourchette : elle dorera mieux (Pradel)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Enfourne pour 30 minutes",
+   "text": "Enfourne pour environ 30 minutes, jusqu'à ce que le dessus soit bien doré. Le centre du plat doit être brûlant et fumant.",
+   "timer": {
+    "min": 30,
+    "label": "Hachis au four",
+    "done": "Le dessus est doré ? Sors le plat du four."
+   },
+   "tip": "Si le hachis a été préparé à l'avance et sort du réfrigérateur, laisse-le plus longtemps, jusqu'à ce qu'il soit fumant au centre (Chef Simon ; FSA)."
+  },
+  {
+   "phase": "Service",
+   "title": "Sers aussitôt",
+   "text": "Sers le hachis bien chaud, dès la sortie du four.",
+   "timer": null,
+   "tip": "Restes : au réfrigérateur dans les 2 heures, à manger sous 2 jours, réchauffés une seule fois jusqu'à être fumants au centre (FSA, Anses)."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Pour la purée, prends des pommes de terre à chair farineuse, comme la Bintje ou l'Agria.",
+   "source": "Meilleur du Chef (Bintje) ; Alain Ducasse (Agria) ; Académie du Goût (chair farineuse) ; 750g, Pascale Weeks (chair farineuse)"
+  },
+  {
+   "text": "Écrase les pommes de terre au moulin à légumes ou au presse-purée, jamais au mixeur : il libère trop d'amidon et rend la purée collante.",
+   "source": "Chef Simon (purée « cordée ») ; 750g, Pascale Weeks"
+  },
+  {
+   "text": "Mets le beurre quand les pommes de terre sont encore bien chaudes, puis le lait chaud.",
+   "source": "Meilleur du Chef ; Escoffier (lait bouillant) ; 750g, Pascale Weeks"
+  },
+  {
+   "text": "Verse le lait petit à petit : la purée doit rester souple, sans devenir liquide.",
+   "source": "Chef Simon (« souple sans être liquide ») ; Escoffier (« petit à petit ») ; 750g, Pascale Weeks"
+  },
+  {
+   "text": "Un peu de noix de muscade râpée dans la purée, c'est le parfum classique.",
+   "source": "Meilleur du Chef ; Chef Simon (purée) ; Inspirations Cuisine ; Pradel"
+  },
+  {
+   "text": "Fais d'abord fondre l'oignon jusqu'à ce qu'il soit translucide, et ajoute l'ail seulement après.",
+   "source": "Meilleur du Chef (ail ajouté avant la fin de la cuisson de l'oignon) ; Hervé Cuisine (ail ajouté après l'oignon, avec la viande)"
+  },
+  {
+   "text": "La viande hachée se cuit toujours à cœur : plus aucune trace rose, et elle fume au centre.",
+   "source": "FSA (agence britannique) ; Anses (70 °C à cœur pour les populations sensibles)"
+  },
+  {
+   "text": "Retire l'excès de graisse de la viande avant de la mettre dans le plat.",
+   "source": "Chef Simon (« en ayant dégraissé si nécessaire »)"
+  },
+  {
+   "text": "Le hachis parmentier est le plat idéal pour les restes : bœuf du pot-au-feu ou rôti, haché, à la place de la viande crue.",
+   "source": "Wikipédia (Frédéric Zégierman) ; Chef Simon ; Meilleur du Chef ; Alain Ducasse"
+  },
+  {
+   "text": "Lisse bien la purée à la spatule ; des stries à la fourchette l'aident à dorer.",
+   "source": "Meilleur du Chef, Académie du Goût et Chef Simon (lisser) ; Pradel (stries)"
+  },
+  {
+   "text": "Tu peux préparer le hachis la veille et le réchauffer au moment du repas. Mets-le au réfrigérateur dans les 2 heures.",
+   "source": "Meilleur du Chef (réponse du Chef Philippe, 6 février 2020) ; Anses et FSA (2 heures au plus hors du réfrigérateur)"
+  },
+  {
+   "text": "Le temps de four dépend des ingrédients : une trentaine de minutes, selon qu'ils sont encore chauds ou froids.",
+   "source": "Chef Simon"
+  },
+  {
+   "text": "Sers dès la sortie du four.",
+   "source": "Meilleur du Chef ; Académie du Goût"
+  }
+ ],
+ "mistakes": [
+  "Mettre la viande hachée crue directement sous la purée : fais-la toujours cuire d'abord à la poêle, jusqu'à ce qu'il ne reste plus de rose (FSA, Anses). Une recette d'internaute sur 750g le fait : ne la suis pas.",
+  "Mixer la purée : elle devient collante (Chef Simon, 750g).",
+  "Verser tout le lait d'un coup : la purée devient trop liquide (750g, Pascale Weeks).",
+  "Couper les légumes sur la planche de la viande crue sans la laver (Anses).",
+  "Oublier de te laver les mains au savon après avoir touché la viande crue (Anses, FSA).",
+  "Garder des pommes de terre vertes, germées, abîmées ou amères (BfR, ACIA).",
+  "Laisser le plat plus de 2 heures à température ambiante (Anses, FSA).",
+  "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce que ce soit fumant (FSA).",
+  "Prendre de la chair à saucisse ou un mélange porc et veau, comme le proposent certaines recettes (750g, Chef Simon) : ici, seulement du bœuf haché halal.",
+  "Ajouter un cube de bouillon ou un fromage sans vérifier qu'ils sont halal."
+ ],
+ "serving": "Bien chaud, dès la sortie du four (Meilleur du Chef, Académie du Goût), en plat unique. Inspirations Cuisine le sert avec une salade verte. Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 48 heures (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné) ; sinon, au congélateur (FSA). Réchauffe une seule fois, au four ou au micro-ondes, jusqu'à ce que ce soit fumant au centre ; un grand plat se réchauffe mieux en petites portions (FSA). L'Anses conseille de réchauffer dans un plat couvert, jusqu'à ce que la vapeur s'échappe. Décongèle au réfrigérateur et mange dans les 24 heures (FSA ; l'Anses dit 3 jours au plus, sans recongeler).",
+ "variants": [
+  "À l'ancienne, avec un reste de pot-au-feu (bœuf halal) : la viande cuite, hachée, mélangée à l'oignon fondu, au persil et à un œuf (Meilleur du Chef ; Wikipédia, d'après Frédéric Zégierman). Alain Ducasse ajoute des échalotes et de la mie de pain trempée dans le lait.",
+  "En trois couches : purée, viande, puis purée (Meilleur du Chef, Académie du Goût, Hervé Cuisine).",
+  "Avec des carottes : cuites avec les pommes de terre dans la purée (Académie du Goût), revenues avec l'oignon (Hervé Cuisine), ou en petits dés ajoutés à la viande (Inspirations Cuisine).",
+  "À la tomate : tomates fraîches en dés (Académie du Goût, Inspirations Cuisine) ou concentré de tomate (Pradel), mijotés avec la viande.",
+  "Plus parfumé : thym et mélange quatre-épices (Hervé Cuisine), ou herbes de Provence (Académie du Goût). Hervé Cuisine et Inspirations Cuisine ajoutent du bouillon de bœuf : prends-le certifié halal.",
+  "Purée plus riche : un jaune d'œuf (Hervé Cuisine), ou un peu de crème fraîche (Académie du Goût, Chef Simon, Inspirations Cuisine).",
+  "Gratiné au fromage râpé (Chef Simon, Académie du Goût, Hervé Cuisine) ou à la chapelure (Meilleur du Chef ; panko chez Alain Ducasse).",
+  "Avec des échalotes en plus de l'oignon (Chef Simon, Alain Ducasse).",
+  "En portions individuelles, dans de petites cocottes (Hervé Cuisine).",
+  "Le « hachis Parmentier » d'Escoffier (1903) était un autre plat : des pommes de terre cuites au four, vidées, puis farcies de leur pulpe sautée au beurre et de viande en dés. Le plat en couches d'aujourd'hui ressemble plutôt à son « hachis à la grand-mère » : hachis lié à la purée, dans un plat en terre beurré, sous une fine couche de purée gratinée (Escoffier).",
+  "Ailleurs : le cottage pie au Royaume-Uni, et le pâté chinois au Québec, avec une couche de maïs (Wikipédia)."
+ ],
+ "sources": [
+  {
+   "name": "Meilleur du Chef, Chef Philippe, « Hachis parmentier », 6 avril 2013 (avec la réponse du chef du 6 février 2020)",
+   "url": "https://www.meilleurduchef.com/fr/recette/hachis-parmentier.html",
+   "used_for": "Pour 4 : 1 kg de pommes de terre type Bintje, 400 g de viande de bœuf hachée (restes de marmite ou de pot-au-feu), 1 oignon, 1 gousse d'ail, 1/2 botte de persil (facultatif), 1 à 2 œufs, 110 g de beurre, 30 cl de lait, muscade, sel, piment d'Espelette ; variante : 150 g d'emmental râpé ou de la chapelure. Pommes de terre cuites à l'anglaise une trentaine de minutes ; oignon sué au beurre jusqu'à translucide, ail ajouté avant la fin ; purée au moulin à légumes, beurre puis lait chaud, muscade ; plat beurré ; purée, viande, purée ; surface lissée à la spatule ; four à 200 °C jusqu'à dorure ; servir aussitôt. Réponse du Chef Philippe : on peut le préparer la veille et le réchauffer. Histoire : plat attribué à Parmentier (non confirmé)."
+  },
+  {
+   "name": "Chef Simon (Bernard Laurance), « Hachis parmentier : une recette facile et réconfortante », publié le 7 décembre 2011, modifié le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/hachis-parmentier--15",
+   "used_for": "Pour 6 : 1 kg de purée maison, 700 g de viande au choix (restes de rôti, bœuf haché…), 3 gousses d'ail, 3 oignons, 3 échalotes, huile, 150 g de fromage râpé. Viande revenue avec ail, oignons et échalotes ; dégraisser si nécessaire ; viande dans le plat, couverte de purée beurrée et un peu crémée, lissée, fromage ; four préchauffé à 180 °C, une trentaine de minutes selon que les ingrédients sont chauds ou froids ; plat idéal pour les restes (« En cuisine rien ne se perd »)."
+  },
+  {
+   "name": "Chef Simon (Bernard Laurance), « Purée de pommes de terre », publié le 7 décembre 2011, modifié le 10 mai 2026",
+   "url": "https://chefsimon.com/gourmets/chef-simon/recettes/puree-de-pommes-de-terre--5",
+   "used_for": "Pour 4 : 1 kg de pommes de terre, 100 g de beurre, 5 cl de crème, sel, poivre, muscade ; gros quartiers cuits à l'eau salée frémissante ; presse-purée ou moulin à légumes pour éviter une purée « cordée » ; purée « souple sans être liquide, ferme sans être grumeleuse » ; mise au point avec un peu de lait."
+  },
+  {
+   "name": "Académie du Goût (la rédaction), « Hachis parmentier »",
+   "url": "https://www.academiedugout.fr/recettes/hachis-parmentier_6553_2",
+   "used_for": "Pour 6 : 700 g de pommes de terre à chair farineuse et 3 carottes (facultatives), 100 ml de lait, 4 c. à s. de crème fraîche, 40 g de beurre ; 400 g de bœuf haché, 2 tomates, 2 oignons, 2 gousses d'ail, 2 c. à s. d'huile d'olive, 1 c. à s. de farine, herbes de Provence, 1 jaune d'œuf, 125 g d'emmental. Pommes de terre départ eau froide salée, 20 à 25 minutes ; moulin à légumes ou presse-purée ; viande cuite à feu doux une dizaine de minutes ; plat beurré ; fine couche de purée, viande, purée lissée ; four à 200 °C, 10 à 15 minutes ; servir immédiatement."
+  },
+  {
+   "name": "Académie du Goût, Alain Ducasse, « Hachis parmentier » (extrait du « Grand Livre de Cuisine Bistrot », Éditions Alain Ducasse)",
+   "url": "https://www.academiedugout.fr/recettes/hachis-parmentier_753_2",
+   "used_for": "Pour 4 : 1 kg de pommes de terre Agria cuites départ eau froide salée ; 1 kg de restes de pot-au-feu hachés, 1 oignon, 3 échalotes et 3 gousses d'ail sués 3 à 4 minutes, 80 g de mie de pain trempée dans 10 cl de lait, 1 œuf ; purée avec 20 cl de lait et 20 g de beurre ; 100 g de chapelure ou de panko. La suite des étapes est réservée aux abonnés et n'a pas été lue."
+  },
+  {
+   "name": "HerveCuisine.com, Hervé Palmieri, « Hachis Parmentier de bœuf moelleux », 12 novembre 2018",
+   "url": "https://www.hervecuisine.com/recette/hachis-parmentier-de-boeuf-moelleux/",
+   "used_for": "Pour 8 : 700 g de bœuf haché, 2 oignons, 2 carottes, 1 gousse d'ail, quatre-épices, thym, 1 bouillon de bœuf, 1 bouquet de persil plat ; 1,5 kg de pommes de terre, 30 cl de lait, 75 g de beurre, 1 jaune d'œuf, 50 g de parmesan ou de gruyère. Pommes de terre en cubes, 30 minutes dans l'eau bouillante ; oignons et carottes 5 minutes à l'huile d'olive ; ail et viande « que vous détachez bien », 15 minutes ; purée, viande, dômes de purée ; four à 180 °C pendant 30 minutes ; version en petites cocottes."
+  },
+  {
+   "name": "750g, Pascale Weeks (ancienne rédactrice en chef de 750g), « Comment rattraper une purée de pommes de terre ratée ? », 14 février 2022",
+   "url": "https://www.750g.com/comment-rattraper-une-puree-de-pommes-de-terre-ratee-a31221.htm",
+   "used_for": "Pommes de terre à chair farineuse, cuites si possible entières (ou à la vapeur) pour ne pas se gorger d'eau ; écrasées à la fourchette, au presse-purée ou au moulin, jamais au mixeur, qui libère l'amidon et rend la purée collante ; matières grasses ajoutées quand les pommes de terre sont bien chaudes ; trop de lait d'un coup rend la purée liquide."
+  },
+  {
+   "name": "Auguste Escoffier, Le Guide culinaire (1903), chapitres « Relevés et entrées de boucherie » (hachis) et « Légumes » (purée), transcription Wikisource",
+   "url": "https://fr.wikisource.org/wiki/Le_guide_culinaire/Relev%C3%A9s_et_entr%C3%A9es_de_boucherie",
+   "used_for": "« Hachis Parmentier » d'Escoffier : pommes de terre Hollande cuites au four, vidées, pulpe sautée au beurre mélangée au même poids de viande en dés, oignon, persil, filet de vinaigre, remise dans les écorces avec une sauce lyonnaise, 10 minutes au four. « Hachis à la grand-mère » : hachis lié au tiers de son volume de purée, plat en terre beurré, mince couche de purée, fromage râpé et chapelure, gratiné à four vif. Purée (https://fr.wikisource.org/wiki/Le_guide_culinaire/L%C3%A9gumes) : pommes de terre en quartiers cuites à l'eau salée, passées au tamis, 200 g de beurre par kilo, puis environ 2,5 dl de lait bouillant ajoutés petit à petit."
+  },
+  {
+   "name": "Wikipédia, « Hachis parmentier », dernière modification le 22 septembre 2026, consulté le 7 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Hachis_parmentier",
+   "used_for": "Plat parisien de purée et de bœuf haché, nommé en l'honneur d'Antoine-Augustin Parmentier (1737-1813) ; « apparu en 1892 » (Jean Vitaux) mais « fin XVIIIe siècle » dans l'infobox ; version traditionnelle selon Frédéric Zégierman : pommes de terre cuites à l'eau et écrasées avec l'eau de cuisson, reste de pot-au-feu ou d'une autre viande cuite et hachée, oignon, persil et un œuf ; plat économique pour les restes ; cottage pie, shepherd's pie, pâté chinois (avec du maïs). Pas d'article en arabe lié."
+  },
+  {
+   "name": "Pradel France (fabricant d'ustensiles), « Hachis parmentier », 17 janvier 2024",
+   "url": "https://www.pradel-france.com/blog/hachis-parmentier/",
+   "used_for": "Recoupement : purée avec lait, beurre, sel, poivre et muscade ; oignon et ail revenus à l'huile d'olive, viande cuite jusqu'à bien dorée, concentré de tomate, environ 10 minutes de mijotage ; viande au fond, purée dessus, stries à la fourchette pour la coloration, fromage râpé ; four à 200 °C, 20 minutes. Quantités lisibles sur la page (sélecteur de 2 à 10 personnes) ; pour 4 : 1 kg de pommes de terre, 7 c. à s. de lait, 50 g de beurre, 500 g de viande hachée, 1 oignon, 2 gousses d'ail, 2 c. à s. d'huile d'olive, 2 c. à s. de concentré de tomate, fromage râpé, muscade."
+  },
+  {
+   "name": "Inspirations Cuisine, Sébastien, « Hachis Parmentier facile et rapide », 22 avril 2021",
+   "url": "https://inspirations-cuisine.fr/hachis-parmentier-maison-facile-et-rapide/",
+   "used_for": "Recoupement, pour 4 : 600 g de bœuf haché, 2 oignons, 1 carotte, 1 gousse d'ail, 4 tomates, 1 bouillon de bœuf ; 1 kg de pommes de terre, 25 g de beurre, 15 cl de lait, 2 c. à s. de crème, muscade, 50 g de comté ; oignons rendus translucides ; viande mijotée environ 30 minutes ; viande au fond, purée dessus ; 210 °C, 30 à 45 minutes ; servi avec une salade verte."
+  },
+  {
+   "name": "750g, recettes d'internautes « Hachis parmentier traditionnel et maison » (anonyme, modifiée le 16 novembre 2023) et « Hachis parmentier traditionnel » (stéph031, 2015)",
+   "url": "https://www.750g.com/hachis-parmentier-rapide-r1613.htm",
+   "used_for": "Écarts seulement, jamais suivis : pour 4, 1,2 kg de pommes de terre, 750 g de bœuf haché, 50 g de beurre, 60 cl de lait chaud, viande crue mise au fond du plat et cuite 25 minutes à 180 °C (méthode écartée pour la sécurité). Deuxième recette (https://www.750g.com/hachis-parmentier-r52027.htm) : chair à saucisse (porc, écartée), couteau planté « sans forcer » pour la cuisson des pommes de terre, 20 minutes à 180 °C."
+  },
+  {
+   "name": "Chef Simon, recette du membre Nadji, « Hachis Parmentier. », 6 octobre 2014",
+   "url": "https://chefsimon.com/gourmets/nadji/recettes/hachis-parmentier",
+   "used_for": "Recoupement seulement (nombre de portions non indiqué) : 500 g de bœuf haché, 500 g de pommes de terre Bintje, 10 cl de lait, 120 g de beurre, 100 g de fromage râpé, 2 oignons, 2 carottes, 1/2 cube de légumes ; conseil de chauffer le lait avant de l'ajouter à la purée."
+  },
+  {
+   "name": "Anses (Agence nationale de sécurité sanitaire, France), « Aliments contaminés par la bactérie E. coli : quels effets sur la santé et comment prévenir les infections ? », 11 juillet 2022",
+   "url": "https://www.anses.fr/fr/actualite/aliments-contamines-bacterie-e-coli-quels-effets-sante-comment-prevenir-infections",
+   "used_for": "En France, la viande hachée de bœuf crue ou insuffisamment cuite est l'un des aliments les plus souvent en cause dans les épidémies à E. coli entérohémorragiques ; les enfants de moins de 15 ans (surtout de moins de 5 ans) et les personnes âgées sont les plus à risque ; se laver les mains au savon après avoir manipulé des aliments crus ; pour les populations sensibles, cuire à cœur (70 °C) les viandes hachées."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "used_for": "Se laver les mains ; une planche pour la viande crue, une autre pour les produits cuits et les légumes ; pas plus de 2 heures à température ambiante avant le réfrigérateur ; plats cuisinés : moins de 3 jours ; 4 °C dans la zone la plus froide ; viande hachée bien cuite à cœur recommandée aux jeunes enfants, aux femmes enceintes et aux personnes immunodéprimées."
+  },
+  {
+   "name": "Anses, « Date limite de consommation (DLC) et date de durabilité minimale (DDM) », 4 janvier 2021",
+   "url": "https://www.anses.fr/fr/article/date-limite-consommation-dlc-date-durabilite-minimale-ddm",
+   "used_for": "Respecter la cuisson à cœur des steaks hachés ; 70 °C à cœur élimine la majorité des pathogènes ; réchauffer dans un récipient couvert jusqu'à ce que la vapeur s'échappe ; décongeler au réfrigérateur, consommer sous 3 jours au plus, ne pas recongeler ; après ouverture, suivre la mention « à consommer dans les x jours »."
+  },
+  {
+   "name": "FSA (Food Standards Agency, agence sanitaire britannique), « Cooking your food », GOV.UK, publié le 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "La viande hachée doit être cuite jusqu'au cœur, car le hachage répartit les bactéries de la surface dans toute la viande ; signes de cuisson : elle fume en surface et au centre, elle brunit ; 70 °C pendant 2 minutes (ou 75 °C pendant 30 secondes) ; restes au réfrigérateur dans les 2 heures, mangés sous 48 heures ou congelés ; réchauffer une seule fois, jusqu'à être fumant partout ; les grands plats (comme les lasagnes) se réchauffent mieux en petites portions."
+  },
+  {
+   "name": "FSA, « How to chill, freeze and defrost food safely », GOV.UK",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Réfrigérateur entre 0 et 5 °C ; plats cuits refroidis puis mis au réfrigérateur dans les 1 à 2 heures, en petites portions pour refroidir plus vite ; restes mangés sous 2 jours ou congelés ; décongélation au réfrigérateur et consommation dans les 24 heures ; viande crue en bas du réfrigérateur ; nettoyer planches, ustensiles et mains à l'eau chaude savonneuse après la viande crue."
+  },
+  {
+   "name": "BfR (Institut fédéral allemand d'évaluation des risques), communiqué 15/2018 « Solanin in Kartoffeln: Grüne und stark keimende Knollen sollten aussortiert werden », 23 avril 2018",
+   "url": "https://www.bfr.bund.de/presseinformation/solanin-in-kartoffeln-gruene-und-stark-keimende-knollen-sollten-aussortiert-werden/",
+   "used_for": "Garder les pommes de terre au frais, au sec et dans le noir ; ne pas manger les pommes de terre vertes ou très germées ; retirer largement les parties vertes et les « yeux » ; ne pas manger un plat de pommes de terre amer ; ne pas réutiliser l'eau de cuisson des pommes de terre."
+  },
+  {
+   "name": "ACIA (Agence canadienne d'inspection des aliments), « Natural toxins in fresh fruit and vegetables », modifié le 9 décembre 2019",
+   "url": "https://inspection.canada.ca/en/food-safety-consumers/fact-sheets/specific-products-and-risks/fruits-and-vegetables/natural-toxins",
+   "used_for": "Les glycoalcaloïdes (solanine) ne sont pas détruits par la cuisson ; ils se trouvent surtout dans la peau et juste dessous ; éviter les pommes de terre vertes, abîmées, pourries ou germées ; laver, puis éplucher ou couper les parties vertes ; jeter celles qui sont très vertes ; ne pas manger des pommes de terre amères."
+  },
+  {
+   "name": "EFSA (Autorité européenne de sécurité des aliments), « Glycoalkaloids in potatoes: public health risks assessed », 2020",
+   "url": "https://www.efsa.europa.eu/en/news/glycoalkaloids-potatoes-public-health-risks-assessed",
+   "used_for": "L'épluchage réduit la teneur en glycoalcaloïdes de 25 à 75 %, la cuisson à l'eau de 5 à 65 %."
+  },
+  {
+   "name": "Wikilivres, « Livre de cuisine/Hachis parmentier », dernière modification le 24 mai 2020 (lu le 8 novembre 2026)",
+   "url": "https://fr.wikibooks.org/wiki/Livre_de_cuisine/Hachis_parmentier",
+   "used_for": "Contre-vérification : Pour 4 : 1 kg de pommes de terre « farineuses », 600 g de bœuf de pot-au-feu haché, 1 oignon et 1 gousse d'ail, 1/4 l de lait, 100 g de beurre, une pincée de muscade, persil, 1 œuf, 60 g de chapelure ou de fromage râpé. « Faire cuire la viande hachée à la poêle si elle n'est pas déjà cuite » avant le four ; pommes de terre cuites à l'eau « pendant une demi-heure » ; moitié de la purée, viande, reste de la purée ; four à 220 °C, environ 25 minutes ; « À servir avec une salade verte ou des tomates ». Recette collaborative, utilisée en recoupement."
+  },
+  {
+   "name": "Santé Canada (gouvernement du Canada), « Températures sécuritaires de cuisson interne », publiée le 4 juin 2024 (lu le 8 novembre 2026)",
+   "url": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html",
+   "used_for": "Contre-vérification : Viande hachée de bœuf : 71 °C (160 °F) à cœur ; restes réchauffés : 74 °C (165 °F) ; une planche pour les fruits et légumes, une autre pour la viande crue ; thermomètre planté au centre de la partie la plus épaisse. Recoupe l'Anses (70 °C) et la FSA (70 °C pendant 2 minutes)."
+  }
+ ],
+ "discrepancies": [
+  "Viande : les recettes traditionnelles utilisent un reste de viande déjà cuite (pot-au-feu chez Meilleur du Chef, Alain Ducasse et Frédéric Zégierman cité par Wikipédia ; restes de rôti possibles chez Chef Simon), les recettes actuelles du bœuf haché cru (Académie du Goût, Hervé Cuisine, Inspirations Cuisine, Pradel ; Chef Simon accepte les deux). Retenu, comme demandé : du bœuf haché halal cru, toujours cuit à la poêle avant le four (FSA, Anses). Le reste de pot-au-feu est proposé en variante.",
+  "Quantité de viande pour 4 : 267 g (Académie du Goût, 400 g pour 6), 350 g (Hervé Cuisine, 700 g pour 8), 400 g (Meilleur du Chef, viande cuite), 467 g (Chef Simon, 700 g pour 6), 600 g (Inspirations Cuisine), 1 kg (Alain Ducasse, restes de pot-au-feu). Médiane : 433 g pour les six sources, 408 g pour les quatre recettes au bœuf haché cru (calcul python). Retenu : 400 g.",
+  "Pommes de terre pour 4 : 467 g plus 3 carottes (Académie du Goût), 750 g (Hervé Cuisine), 1 kg (Meilleur du Chef, Alain Ducasse, Inspirations Cuisine ; Chef Simon compte aussi 1 kg pour une purée de 4). Retenu : 1 kg, valeur médiane et majoritaire (calcul python).",
+  "Beurre de la purée, par kilo de pommes de terre : 20 g (Alain Ducasse), 25 g (Inspirations Cuisine), 50 g (Hervé Cuisine), 57 g (Académie du Goût), 110 g (Meilleur du Chef, beurre de l'oignon compris) ; Chef Simon 100 g (purée seule), Escoffier 200 g. Retenu : 50 g, médiane des cinq recettes de hachis (calcul python).",
+  "Lait de la purée, par kilo : 143 ml plus de la crème (Académie du Goût), 150 ml plus de la crème (Inspirations Cuisine), 200 ml (Alain Ducasse, Hervé Cuisine), 300 ml (Meilleur du Chef), environ 250 ml (Escoffier). Retenu : 200 ml, valeur médiane, donnée par deux sources (calcul python). Conversions : 20 cl = 200 ml ; 30 cl = 300 ml ; 2,5 dl = 250 ml.",
+  "Oignon et ail pour 4 : 1 à 2 oignons (médiane 1,17), 0,5 à 3 gousses d'ail (médiane 1,17) selon les sources (calcul python). Retenu : 1 oignon (Meilleur du Chef, Alain Ducasse, Hervé Cuisine) et 1 gousse d'ail (Meilleur du Chef, Inspirations Cuisine).",
+  "Persil : 1/2 botte pour 4 (Meilleur du Chef ; Hervé Cuisine, 1 bouquet pour 8) ; absent ailleurs. Retenu, facultatif.",
+  "Cuisson des pommes de terre : départ à l'eau froide salée (Académie du Goût, Alain Ducasse ; Meilleur du Chef, dont la cuisson « à l'anglaise » démarre à froid pour les pommes de terre selon le lexique de la même page) ou dans l'eau bouillante (Hervé Cuisine) ; Chef Simon (« eau frémissante salée ») et Escoffier (« cuire vivement à l'eau salée ») ne précisent pas le départ ; entières ou à la vapeur selon Pascale Weeks (750g). Durée : une trentaine de minutes (Meilleur du Chef ; Hervé Cuisine, 30 minutes), 20 à 25 minutes (Académie du Goût). Retenu : départ à l'eau froide salée (trois sources contre une), environ 30 minutes, avec le test du couteau.",
+  "Cuisson de la viande : une dizaine de minutes (Académie du Goût), environ 10 minutes de mijotage après coloration (Pradel), 15 minutes (Hervé Cuisine), environ 30 minutes avec tomates et bouillon (Inspirations Cuisine). Retenu : 10 à 15 minutes, sans minuteur : la viande est prête quand elle a bruni partout, sans trace rose, et qu'elle fume (FSA).",
+  "Montage : viande au fond puis purée (Chef Simon, Pradel, Inspirations Cuisine) ou purée, viande, purée (Meilleur du Chef, Académie du Goût, Hervé Cuisine). Égalité ; retenu : viande puis purée, plus simple ; l'autre montage est en variante.",
+  "Four : 180 °C pendant une trentaine de minutes (Chef Simon ; Hervé Cuisine, 30 minutes), 200 °C jusqu'à dorure (Meilleur du Chef), 200 °C pendant 10 à 15 minutes (Académie du Goût) ou 20 minutes (Pradel), 210 °C pendant 30 à 45 minutes (Inspirations Cuisine). Retenu : 180 °C, 30 minutes, la seule combinaison donnée par deux sources.",
+  "Œuf : 1 à 2 œufs dans la viande (Meilleur du Chef), 1 œuf et de la mie de pain (Alain Ducasse), un œuf dans la version de Frédéric Zégierman ; ces trois recettes utilisent de la viande déjà cuite. Parmi les recettes au bœuf haché cru, seule l'Académie du Goût met un jaune dans la viande ; Hervé Cuisine met un jaune dans la purée ; Chef Simon, Pradel et Inspirations Cuisine n'en mettent pas. Non retenu ; en variante.",
+  "Fromage : dessus chez Chef Simon, l'Académie du Goût, Hervé Cuisine, Inspirations Cuisine et Pradel ; simple variante chez Meilleur du Chef ; chapelure chez Alain Ducasse ; absent de la version de Frédéric Zégierman. Retenu : facultatif, quantité laissée libre (25 à 150 g pour 4 selon les sources, médiane 83 g, calcul python).",
+  "Huile : chiffrée seulement par l'Académie du Goût (2 c. à s. pour 6) ; un filet ou « un peu » ailleurs. Quantité laissée libre.",
+  "Eau de cuisson : Frédéric Zégierman (cité par Wikipédia) écrase les pommes de terre avec leur eau de cuisson ; le BfR conseille de ne pas réutiliser l'eau de cuisson des pommes de terre. Retenu : on la jette et on fait la purée au lait.",
+  "Adaptations halal : bœuf haché halal ; pas de chair à saucisse ni de mélange porc et veau (750g, Chef Simon) ; aucune des recettes lues n'utilise de vin ; la sauce lyonnaise et le filet de vinaigre d'Escoffier ne sont pas repris ; bouillon (Hervé Cuisine, Inspirations Cuisine) seulement certifié halal, en variante ; fromage facultatif, à coagulant microbien si l'on veut être strict.",
+  "Histoire : Meilleur du Chef attribue l'invention du plat à Parmentier lui-même ; Wikipédia dit seulement que le plat porte son nom, et donne deux dates différentes (« fin XVIIIe siècle » dans l'infobox, « apparu en 1892 » dans le texte, d'après Jean Vitaux). Aucune date n'est retenue.",
+  "Orthographe : « hachis Parmentier » (Académie française, TLFi) ou « hachis parmentier » (Larousse), selon Wikipédia. Retenu : « Hachis parmentier », titre de l'article de Wikipédia.",
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 9 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Temps de l'appli (25 min de préparation, 60 min de cuisson) : estimations faites à partir des étapes ; les sources donnent 30 + 30 min avec une purée déjà prête (Chef Simon), 45 + 30 min (Hervé Cuisine) ou 1 h 30 en tout (Meilleur du Chef).",
+  "Noms en darija et en arabe : aucun trouvé dans une source (pas d'article arabe lié sur Wikipédia ; les pages arabes trouvées parlent de plats voisins sans nommer le hachis parmentier). Laissés vides.",
+  "Quantité d'huile et quantité de fromage : non confirmées par deux sources, laissées libres.",
+  "Pourcentage de matière grasse du bœuf haché : aucune source lue ne le donne ; non précisé.",
+  "Durée exacte de cuisson de la viande : non concordante (10 à 30 minutes) ; la recette se fie aux signes de cuisson de la FSA.",
+  "Sites non utilisés : Marmiton, Marie Claire, Cuisine AZ, Cuisine Actuelle, Femme Actuelle et Régal (domaines refusés à l'agent d'Anthropic par l'outil de recherche) ; Le Figaro, Le Monde, Ouest-France, Le Parisien, L'Express, 20 Minutes, France Bleu (ici) et Radio France (leur robots.txt interdit les robots de Claude ou d'Anthropic) ; Gallica (erreur 403). Journal des Femmes : aucune recette trouvée (sa recherche interne est interdite par son robots.txt).",
+  "Recette d'Alain Ducasse : la fin des étapes est réservée aux abonnés ; seuls les ingrédients et le début ont été lus.",
+  "Aucune recette de chef français connu (Robuchon, Bocuse, Lignac, Etchebest) n'a pu être lue pour ce plat ; la partie française repose sur Meilleur du Chef, Chef Simon, l'Académie du Goût, Alain Ducasse, Hervé Cuisine, 750g (Pascale Weeks) et Escoffier, avec Pradel et Inspirations Cuisine en recoupement.",
+  "Températures de cuisson à cœur de la FDA, de l'USDA ou de Santé Canada : non consultées ; la recette suit l'Anses (70 °C) et la FSA (70 °C pendant 2 minutes).",
+  "Variétés de pommes de terre vendues au Maroc (Bintje, Agria) et statut halal des fromages et des bouillons vendus au Maroc : non vérifiés.",
+  "Congélation : la FSA autorise à congeler un plat cuit, même fait avec une viande décongelée, puis à le réchauffer une seule fois ; l'Anses dit de ne pas recongeler un aliment décongelé, sans parler des plats cuisinés avec. Si ta viande hachée était surgelée, ne congèle pas le hachis, par prudence."
+ ],
+ "cuisine": "Française",
+ "rayon": "D'ailleurs",
+ "img_alt": "Hachis parmentier gratiné et entamé : la purée sur la viande hachée",
+ "img": "img/hachis-parmentier.jpg",
+ "photo": {
+  "author": "Michal Sänger",
+  "license": "CC BY-NC-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "page": "https://www.flickr.com/photos/7997397@N08/5118876006",
+  "modified": "non modifiée"
+ }
+});

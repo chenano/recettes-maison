@@ -1,0 +1,470 @@
+{
+ "_slug": "malwi",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Malwi (meloui), galettes feuilletées en spirale",
+   "t": "الملوي، فطائر مورّقة ملفوفة"
+  },
+  "darija": {
+   "fr": "malwi ou meloui (pluriel : malawi, mlawi)",
+   "t": "ملوي (malwi أو meloui)، والجمع: ملاوي (malawi أو mlawi)"
+  },
+  "tagline": {
+   "fr": "Une pâte étirée très fin, pliée en bande puis roulée en escargot : un malwi bien fait se déroule couche par couche, tout chaud, avec du beurre et du miel.",
+   "t": "عجين يُمدّ رقيقًا جدًا، ويُطوى على شكل شريط ثم يُلفّ كالحلزون: الملوي المتقن ينفكّ طبقة طبقة، ساخنًا، مع الزبدة والعسل."
+  },
+  "region": {
+   "fr": "Tout le Maroc (en vente dans la rue et chez les boulangers) ; un grand classique du ftour à Rabat",
+   "t": "المغرب كله (يُباع في الشوارع وعند الخبازين)؛ ومن كلاسيكيات الفطور الكبرى في الرباط"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "فطور الصباح، اللمجة مع الشاي، فطور رمضان"
+  },
+  "img_alt": {
+   "fr": "Malwi (meloui) servi sur une assiette marocaine, dans un riad de Marrakech",
+   "t": "ملوي مقدَّم في صحن مغربي، في رياض بمراكش"
+  },
+  "serving": {
+   "fr": "Bien chauds, avec du beurre et du miel (Taste of Maroc ; Morocco World News 2017 et 2019), de la confiture ou du fromage frais (Taste of Maroc ; Cooking with Alia : miel ou fromage) ; pour le fromage, choisis-en un à coagulant microbien, sans présure animale, si tu veux être strict. La façon traditionnelle, selon Taste of Maroc : les tremper dans un sirop chaud de beurre fondu et de miel. Au petit-déjeuner et à l'heure du thé (Taste of Maroc), et au ftour du ramadan : Choumicha classe son m'laoui dans « Ramadan », et Femmes du Maroc le cite parmi les grands classiques du ftour à Rabat. Ils ne se gardent pas plus d'un jour à température ambiante ; une fois refroidis, ils se congèlent jusqu'à 2 mois et se réchauffent à la poêle ou au four à 180 °C (Taste of Maroc).",
+   "t": "ساخنة جدًا، مع الزبدة والعسل (Taste of Maroc؛ Morocco World News 2017 و2019)، أو المربى أو الجبن الطري (Taste of Maroc؛ Cooking with Alia: العسل أو الجبن)؛ وبالنسبة إلى الجبن، اختر جبنًا مصنوعًا بمخثّر ميكروبي، دون منفحة حيوانية، إذا أردت التشدد في ذلك. والطريقة التقليدية حسب Taste of Maroc: غمسها في خليط ساخن من الزبدة الذائبة والعسل. تؤكل في فطور الصباح ووقت الشاي (Taste of Maroc)، وفي فطور رمضان: تصنّف Choumicha الملوي الذي تحضّره ضمن «رمضان»، وتذكره Femmes du Maroc بين كلاسيكيات الفطور الكبرى في الرباط. ولا تُحفظ أكثر من يوم واحد في درجة حرارة الغرفة؛ وبعد أن تبرد، تُجمَّد حتى 2 شهر وتُسخَّن في المقلاة أو في الفرن على 180 درجة مئوية (Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجين"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (T45 ou T55)",
+   "t": "دقيق أبيض (T45 أو T55)"
+  },
+  "ing.farine.note": {
+   "fr": "farine de blé tendre",
+   "t": "دقيق القمح الطري"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule extra-fine (fino) ou de semoule fine",
+   "t": "سميد رقيق جدًا (fino) أو سميد رقيق"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne au malwi son goût et sa texture",
+   "t": "هو الذي يمنح الملوي مذاقه وقوامه"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère",
+   "t": "خميرة خبز"
+  },
+  "ing.levure.note": {
+   "fr": "pas plus : une toute petite quantité suffit, sans temps de levée",
+   "t": "لا أكثر: تكفي كمية صغيرة جدًا، دون وقت للتخمير"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "سكر"
+  },
+  "ing.sucre.note": {
+   "fr": "facultatif : Choumicha et Cooking with Alia n'en mettent pas",
+   "t": "اختياري: لا تضعه Choumicha ولا Cooking with Alia"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "ماء فاتر"
+  },
+  "ing.eau.note": {
+   "fr": "environ : verse-la petit à petit, il en faut de 200 à 225 ml selon ta farine",
+   "t": "تقريبًا: اسكبه شيئًا فشيئًا، فقد تحتاج من 200 إلى 225 مل حسب الدقيق الذي تستعمله"
+  },
+  "ing.1.group": {
+   "fr": "Pour feuilleter",
+   "t": "للتوريق"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre (tournesol), pour le plan de travail, les mains et les pâtons",
+   "t": "زيت المائدة (دوار الشمس)، لسطح العمل واليدين وكرات العجين"
+  },
+  "ing.huile.note": {
+   "fr": "environ",
+   "t": "تقريبًا"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, fondu",
+   "t": "زبدة ذائبة"
+  },
+  "ing.semoule-feuilletage.name": {
+   "fr": "de semoule fine, à saupoudrer entre les couches",
+   "t": "سميد رقيق، يُرشّ بين الطبقات"
+  },
+  "ing.semoule-feuilletage.note": {
+   "fr": "environ",
+   "t": "تقريبًا"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.miel.name": {
+   "fr": "miel",
+   "t": "عسل"
+  },
+  "ing.beurre-service.name": {
+   "fr": "beurre",
+   "t": "زبدة"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier (ou une gsaa)",
+   "t": "وعاء كبير (أو قصعة)"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine",
+   "t": "ميزان مطبخ"
+  },
+  "equipment.2": {
+   "fr": "Un grand plan de travail lisse, d'au moins 30 cm de côté (ou un grand plateau)",
+   "t": "سطح عمل كبير أملس، لا يقل طول ضلعه عن 30 سم (أو صينية كبيرة)"
+  },
+  "equipment.3": {
+   "fr": "Un grand plateau huilé, pour les pâtons et les spirales",
+   "t": "صينية كبيرة مدهونة بالزيت، لكرات العجين واللفائف"
+  },
+  "equipment.4": {
+   "fr": "Trois bols : huile, beurre fondu, semoule",
+   "t": "ثلاثة أوعية: للزيت، وللزبدة الذائبة، وللسميد"
+  },
+  "equipment.5": {
+   "fr": "Du film alimentaire ou un torchon propre",
+   "t": "غلاف بلاستيكي شفاف أو فوطة نظيفة"
+  },
+  "equipment.6": {
+   "fr": "Une grande poêle à fond épais (ou deux poêles, ou une plaque double)",
+   "t": "مقلاة كبيرة سميكة القاع (أو مقلاتان، أو صفيحة طهي مزدوجة)"
+  },
+  "equipment.7": {
+   "fr": "Une grille",
+   "t": "شبكة"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger la pâte",
+   "t": "اخلط العجين"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule, {{sel}} de sel, {{levure}} de levure et, si tu en mets, {{sucre}} de sucre. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une pâte souple qui ne colle pas. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "t": "في وعاء كبير، اخلط {{farine}} من الدقيق و{{semoule}} من السميد و{{sel}} من الملح و{{levure}} من الخميرة، و{{sucre}} من السكر إن كنت ستضعه. اسكب {{eau}} من الماء الفاتر شيئًا فشيئًا مع الخلط باليد، حتى تحصل على عجين ليّن لا يلتصق. إذا التصق، فأضف قليلًا من الدقيق؛ وإذا كان جافًا، فقليلًا من الماء."
+  },
+  "steps.1.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "اعجن 10 دقائق"
+  },
+  "steps.1.text": {
+   "fr": "Pétris pendant 10 minutes, avec les poings et les paumes, jusqu'à ce que la pâte soit lisse, souple et élastique.",
+   "t": "اعجن مدة 10 دقائق، بقبضتيك وراحتي يديك، حتى يصبح العجين أملس وليّنًا ومرنًا."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pétrissage",
+   "t": "العجن"
+  },
+  "steps.1.timer.done": {
+   "fr": "Touche la pâte : si elle n'est pas encore lisse et élastique, pétris encore un peu.",
+   "t": "المس العجين: إذا لم يصبح بعد أملس ومرنًا، فاعجنه قليلًا بعد."
+  },
+  "steps.1.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "يدان تعجنان عجينًا"
+  },
+  "steps.1.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "عجن العجين"
+  },
+  "steps.2.title": {
+   "fr": "Former les pâtons",
+   "t": "شكّل كرات العجين"
+  },
+  "steps.2.text": {
+   "fr": "Huile tes mains et un grand plateau. Partage la pâte en boules de la taille d'un œuf, environ 60 g, une par malwi. Roule-les dans un peu d'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+   "t": "ادهن يديك وصينية كبيرة بالزيت. قسّم العجين إلى كرات بحجم البيضة، نحو 60 غ، كرة لكل ملوي. دحرجها في قليل من الزيت، وضعها على الصينية دون أن تتلامس، ثم غطّها واتركها ترتاح 15 دقيقة."
+  },
+  "steps.2.timer.label": {
+   "fr": "Repos des pâtons",
+   "t": "راحة كرات العجين"
+  },
+  "steps.2.timer.done": {
+   "fr": "Les pâtons ont reposé : tu peux commencer à étirer.",
+   "t": "ارتاحت كرات العجين: يمكنك أن تبدأ بمدّها."
+  },
+  "steps.3.title": {
+   "fr": "Préparer ton poste",
+   "t": "جهّز مكان عملك"
+  },
+  "steps.3.text": {
+   "fr": "Pendant le repos, fais fondre {{beurre}} de beurre. Mets à portée de main trois bols : le beurre fondu, {{huile}} d'huile et {{semoule-feuilletage}} de semoule. Huile largement ton plan de travail.",
+   "t": "أثناء الراحة، أذِب {{beurre}} من الزبدة. ضع في متناول يدك ثلاثة أوعية: الزبدة الذائبة، و{{huile}} من الزيت، و{{semoule-feuilletage}} من السميد. ادهن سطح العمل بالزيت بسخاء."
+  },
+  "steps.4.title": {
+   "fr": "Étirer très fin",
+   "t": "مدّ العجين رقيقًا جدًا"
+  },
+  "steps.4.text": {
+   "fr": "Pose un pâton au centre du plan huilé. Mains huilées, aplatis-le, puis étire-le du bout des doigts, du centre vers les bords, jusqu'à une feuille très fine, presque transparente. Remets de l'huile si la pâte accroche, et essaie de ne pas la déchirer.",
+   "t": "ضع كرة عجين في وسط السطح المدهون. بيدين مدهونتين بالزيت، سطّحها ثم مدّها بأطراف أصابعك من الوسط نحو الأطراف، حتى تحصل على ورقة رقيقة جدًا، شبه شفافة. أضف الزيت إذا التصق العجين، وحاول ألا تمزّقه."
+  },
+  "steps.4.img.alt": {
+   "fr": "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)",
+   "t": "يدان مدهونتان بالزيت تمدّان عجينًا رقيقًا جدًا، في المغرب (هنا لتحضير المسمن)"
+  },
+  "steps.4.img.caption": {
+   "fr": "Étirer du bout des doigts",
+   "t": "المدّ بأطراف الأصابع"
+  },
+  "steps.5.title": {
+   "fr": "Beurrer et saupoudrer",
+   "t": "ادهنها بالزبدة ورشّ السميد"
+  },
+  "steps.5.text": {
+   "fr": "Étale un peu de beurre fondu sur toute la feuille avec les doigts, puis saupoudre-la légèrement de semoule.",
+   "t": "افرد قليلًا من الزبدة الذائبة على الورقة كلها بأصابعك، ثم رشّها بقليل من السميد."
+  },
+  "steps.6.title": {
+   "fr": "Plier en longue bande",
+   "t": "اطوِها على شكل شريط طويل"
+  },
+  "steps.6.text": {
+   "fr": "Rabats le bord du haut jusqu'au centre, beurre-le et saupoudre-le d'un peu de semoule. Rabats le bord du bas par-dessus : tu obtiens une longue bande étroite. Beurre-la et saupoudre-la à son tour.",
+   "t": "اطوِ الطرف العلوي حتى الوسط، وادهنه بالزبدة ورشّه بقليل من السميد. ثم اطوِ الطرف السفلي فوقه: فتحصل على شريط طويل ضيق. ادهنه بالزبدة ورشّه بالسميد هو أيضًا."
+  },
+  "steps.6.tip": {
+   "fr": "Pour encore plus de couches, plie la feuille en quatre dans la longueur, en beurrant et en saupoudrant à chaque pli.",
+   "t": "للحصول على طبقات أكثر، اطوِ الورقة أربع طبقات بالطول، مع الدهن بالزبدة ورشّ السميد عند كل طيّة."
+  },
+  "steps.7.title": {
+   "fr": "Enrouler en spirale",
+   "t": "لفّه على شكل حلزون"
+  },
+  "steps.7.text": {
+   "fr": "Aplatis légèrement la bande pour chasser l'air. Enroule-la sur elle-même, bien serrée, comme un tapis : tu obtiens un escargot. Rentre le bout sous la spirale et pince-le pour qu'il tienne.",
+   "t": "سطّح الشريط قليلًا لإخراج الهواء. لفّه على نفسه لفًّا محكمًا، كما يُلفّ السجاد: فتحصل على حلزون. أدخل الطرف تحت اللفافة واضغط عليه ليثبت."
+  },
+  "steps.8.title": {
+   "fr": "Laisser reposer les spirales",
+   "t": "اترك اللفائف ترتاح"
+  },
+  "steps.8.text": {
+   "fr": "Pose la spirale debout sur le plateau huilé, côté enroulé vers le haut. Étire, beurre, plie et enroule de la même façon les autres pâtons, un par un, sans que les spirales se touchent. Couvre et laisse reposer 15 minutes.",
+   "t": "ضع اللفافة قائمة على الصينية المدهونة، وجهتها الملفوفة إلى الأعلى. مدّ باقي كرات العجين وادهنها واطوِها ولفّها بالطريقة نفسها، واحدة تلو الأخرى، دون أن تتلامس اللفائف. غطّها واتركها ترتاح 15 دقيقة."
+  },
+  "steps.8.timer.label": {
+   "fr": "Repos des spirales",
+   "t": "راحة اللفائف"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les spirales ont reposé : fais chauffer la poêle.",
+   "t": "ارتاحت اللفائف: سخّن المقلاة."
+  },
+  "steps.9.title": {
+   "fr": "Chauffer la poêle",
+   "t": "سخّن المقلاة"
+  },
+  "steps.9.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais à feu moyen.",
+   "t": "سخّن مقلاة كبيرة سميكة القاع على نار متوسطة."
+  },
+  "steps.10.title": {
+   "fr": "Aplatir la spirale",
+   "t": "سطّح اللفافة"
+  },
+  "steps.10.text": {
+   "fr": "Huile ton plan de travail et tes mains. Prends la première spirale, côté enroulé vers le haut, et aplatis-la fermement du bout des doigts, du centre vers les bords, jusqu'à un disque d'environ 3 mm d'épaisseur, soit environ 15 cm de large.",
+   "t": "ادهن سطح العمل ويديك بالزيت. خذ اللفافة الأولى، وجهتها الملفوفة إلى الأعلى، وسطّحها بقوة بأطراف أصابعك من الوسط نحو الأطراف، حتى تحصل على قرص سمكه نحو 3 مم، أي بعرض 15 سم تقريبًا."
+  },
+  "steps.11.title": {
+   "fr": "Cuire en retournant",
+   "t": "اطهِه مع التقليب"
+  },
+  "steps.11.text": {
+   "fr": "Dépose le malwi dans la poêle chaude et retourne-le plusieurs fois, jusqu'à ce qu'il soit bien doré et croustillant des deux côtés et cuit au centre : compte quelques minutes. S'il colore trop vite, baisse un peu le feu, sinon le centre reste cru. Si ta poêle est grande, cuis-en deux à la fois.",
+   "t": "ضع الملوي في المقلاة الساخنة واقلبه عدة مرات، حتى يصبح ذهبيًا ومقرمشًا جيدًا من الجهتين وناضجًا في الوسط: احسب بضع دقائق. إذا تلوّن بسرعة كبيرة، فاخفض النار قليلًا، وإلا بقي وسطه نيئًا. وإذا كانت مقلاتك كبيرة، فاطهِ قطعتين في المرة الواحدة."
+  },
+  "steps.11.img.alt": {
+   "fr": "Malwi qui cuit sur une plaque de terre bombée, au-dessus d'un feu de bois, au Maroc",
+   "t": "ملوي يُطهى على صفيحة طينية محدّبة فوق نار الحطب، في المغرب"
+  },
+  "steps.11.img.caption": {
+   "fr": "La cuisson à l'ancienne, sur le feu de bois",
+   "t": "الطهي على الطريقة القديمة، على نار الحطب"
+  },
+  "steps.12.title": {
+   "fr": "Sortir sur une grille",
+   "t": "أخرجه إلى شبكة"
+  },
+  "steps.12.text": {
+   "fr": "Pose le malwi cuit sur une grille. Continue avec les autres spirales, en les aplatissant au fur et à mesure.",
+   "t": "ضع الملوي المطهو على شبكة. تابع مع باقي اللفائف، وسطّحها واحدة تلو الأخرى."
+  },
+  "steps.13.title": {
+   "fr": "Servir chaud",
+   "t": "قدّمه ساخنًا"
+  },
+  "steps.13.text": {
+   "fr": "Sers les malwi chauds, avec du {{beurre-service}} et du {{miel}}.",
+   "t": "قدّم الملوي ساخنًا، مع {{beurre-service}} و{{miel}}."
+  },
+  "steps.13.tip": {
+   "fr": "La façon traditionnelle : chauffe du beurre et du miel à parts égales dans une poêle, coupe le feu dès que ça commence à bouillonner, et trempe chaque malwi chaud des deux côtés.",
+   "t": "الطريقة التقليدية: سخّن الزبدة والعسل بمقدارين متساويين في مقلاة، وأطفئ النار بمجرد أن يبدأ الخليط في الغليان، ثم اغمس كل ملوي ساخن من الجهتين."
+  },
+  "secrets.0.text": {
+   "fr": "Malwi veut dire « roulé » en darija. Bien fait, il garde la trace de sa spirale : tu peux le dérouler du bord vers le centre en le mangeant.",
+   "t": "كلمة «ملوي» تعني «الملفوف» بالدارجة. وإذا أُتقن صنعه، احتفظ بأثر لفّته الحلزونية: فيمكنك أن تفكّه من الطرف نحو الوسط وأنت تأكله."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.1.text": {
+   "fr": "La semoule (ou la farine de blé dur) est la clé du goût et de la texture traditionnels. Ici, elle fait un tiers du mélange de farine.",
+   "t": "السميد (أو دقيق القمح الصلب) هو سر المذاق والقوام التقليديين. وهو هنا يشكّل ثلث خليط الدقيق."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; proportion de Choumicha (250 g de farine pour 125 g de blé dur), la même que chez Lalla Moulati (500 g pour 250 g)",
+   "t": "Taste of Maroc؛ نسبة Choumicha (250 غ من الدقيق لكل 125 غ من القمح الصلب)، وهي النسبة نفسها عند Lalla Moulati (500 غ لكل 250 غ)"
+  },
+  "secrets.2.text": {
+   "fr": "La levure n'est là qu'en toute petite quantité, et il n'y a pas d'étape de levée.",
+   "t": "لا توجد الخميرة إلا بكمية صغيرة جدًا، ولا توجد مرحلة تخمير."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc (« a very tiny amount of yeast ») ; Choumicha (2 pincées, sans levée)",
+   "t": "Taste of Maroc («a very tiny amount of yeast»)؛ Choumicha (2 رشة، دون تخمير)"
+  },
+  "secrets.3.text": {
+   "fr": "Pétris bien, puis laisse reposer : le pétrissage donne l'élasticité qu'il faut pour feuilleter, et le repos rend la pâte plus malléable.",
+   "t": "اعجن جيدًا ثم اترك العجين يرتاح: فالعجن يمنحه المرونة اللازمة للتوريق، والراحة تجعله أكثر طواعية."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs",
+   "t": "Choumicha، نصائح لإنجاح الرغايف"
+  },
+  "secrets.4.text": {
+   "fr": "Huile les pâtons et couvre-les : sinon, ils forment une croûte.",
+   "t": "ادهن كرات العجين بالزيت وغطّها: وإلا تكوّنت عليها قشرة."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha, conseils pour les r'ghaifs ; Taste of Maroc et Cooking with Alia (pâtons huilés et couverts)",
+   "t": "Choumicha، نصائح للرغايف؛ Taste of Maroc وCooking with Alia (كرات العجين مدهونة بالزيت ومغطاة)"
+  },
+  "secrets.5.text": {
+   "fr": "Avant d'enrouler la bande, aplatis-la pour chasser les bulles d'air.",
+   "t": "قبل لفّ الشريط، سطّحه لإخراج فقاعات الهواء."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Enroule bien serré : trop lâches, les couches se séparent quand tu aplatis la spirale.",
+   "t": "لفّه لفًّا محكمًا: فإذا كانت الطبقات رخوة جدًا، انفصلت عند تسطيح اللفافة."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Fixe le bout de la bande dans la spirale, sinon elle se déroule.",
+   "t": "ثبّت طرف الشريط داخل اللفافة، وإلا انفكّت."
+  },
+  "secrets.7.source": {
+   "fr": "Choumicha (extrémités rentrées dans la pelote) ; Cooking with Alia (bout pincé)",
+   "t": "Choumicha (الأطراف تُدخل داخل اللفّة)؛ Cooking with Alia (الطرف مضغوط)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour saupoudrer entre les couches, la semoule fine convient mieux que la farine de blé dur.",
+   "t": "لرشّه بين الطبقات، السميد الرقيق أنسب من دقيق القمح الصلب."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Cuis les spirales dans l'ordre où tu les as roulées.",
+   "t": "اطهِ اللفائف بالترتيب الذي لففتها به."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Pas de feu trop vif : le malwi a besoin de temps pour cuire jusqu'au centre.",
+   "t": "لا تجعل النار قوية جدًا: فالملوي يحتاج إلى وقت لينضج حتى وسطه."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia (dorer jusqu'à ce que le centre soit cuit)",
+   "t": "Taste of Maroc؛ Cooking with Alia (يُحمَّر حتى ينضج الوسط)"
+  },
+  "secrets.11.text": {
+   "fr": "Sitôt sorti de la poêle, pousse les bords vers le centre pour l'aérer.",
+   "t": "بمجرد إخراجه من المقلاة، ادفع أطرافه نحو الوسط لتهويته."
+  },
+  "secrets.11.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Les malwi complètement refroidis se congèlent jusqu'à 2 mois. Réchauffe-les, décongelés ou non, à la poêle, ou quelques minutes directement sur la grille du four à 180 °C.",
+   "t": "الملوي الذي برد تمامًا يُجمَّد حتى 2 شهر. سخّنه، بعد إذابته أو دونها، في المقلاة، أو بضع دقائق مباشرة على شبكة الفرن على 180 درجة مئوية."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc ; congélation aussi chez Lalla Moulati (« طريقة الاحتفاظ به فالمجمد »)",
+   "t": "Taste of Maroc؛ والتجميد أيضًا عند Lalla Moulati («طريقة الاحتفاظ به فالمجمد»)"
+  },
+  "mistakes.0": {
+   "fr": "Verser toute l'eau d'un coup : la pâte devient collante ; ajoute-la petit à petit (Cooking with Alia ; My Moroccan Food, pour la pâte à msemen).",
+   "t": "سكب الماء كله دفعة واحدة: فيصبح العجين لزجًا؛ أضفه شيئًا فشيئًا (Cooking with Alia؛ My Moroccan Food، بالنسبة إلى عجين المسمن)."
+  },
+  "mistakes.1": {
+   "fr": "Écourter le pétrissage ou le repos : la pâte est moins souple et se feuillette mal (Choumicha, conseils pour les r'ghaifs).",
+   "t": "تقصير مدة العجن أو الراحة: فيصبح العجين أقل ليونة ولا يتورّق جيدًا (Choumicha، نصائح للرغايف)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser les pâtons à l'air sans huile : ils font une croûte (Choumicha).",
+   "t": "ترك كرات العجين في الهواء دون زيت: فتتكوّن عليها قشرة (Choumicha)."
+  },
+  "mistakes.3": {
+   "fr": "Déchirer la feuille en l'étirant : remets de l'huile et étire plus doucement (Taste of Maroc).",
+   "t": "تمزيق الورقة أثناء مدّها: أضف الزيت ومدّها برفق أكبر (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Enrouler la bande trop lâche : les couches se séparent à l'aplatissage (Taste of Maroc).",
+   "t": "لفّ الشريط لفًّا رخوًا جدًا: فتنفصل الطبقات عند التسطيح (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Cuire sur un feu trop vif : dehors doré, centre cru (Taste of Maroc).",
+   "t": "الطهي على نار قوية جدًا: الخارج ذهبي والوسط نيء (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Garder les malwi plus d'un jour à température ambiante : congèle-les plutôt (Taste of Maroc).",
+   "t": "حفظ الملوي أكثر من يوم واحد في درجة حرارة الغرفة: جمّده بدلًا من ذلك (Taste of Maroc)."
+  },
+  "variants.0": {
+   "fr": "Malwi au khlii : parsème la feuille de khlii émietté avant de la plier et de l'enrouler ; Choumicha en met 100 g pour sa pâte de 250 g de farine et 125 g de blé dur (Choumicha, « M'laoui / M'laoui au Khliï »). Khlii de viande halal, et de graisse halal elle aussi : il est confit dans du suif de bœuf et de l'huile d'olive, ou conservé dans l'huile d'olive seule (Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »).",
+   "t": "الملوي بالخليع: انثر الخليع المفتّت على الورقة قبل طيّها ولفّها؛ وتضع Choumicha منه 100 غ لعجينها المكوّن من 250 غ من الدقيق و125 غ من القمح الصلب (Choumicha، «M'laoui / M'laoui au Khliï»). خليع من لحم حلال، ودهنه حلال هو أيضًا: فهو يُطهى ويُحفظ في شحم البقر وزيت الزيتون، أو يُحفظ في زيت الزيتون وحده (Taste of Maroc، «Moroccan Preserved Meat – Khlii or Khlea»)."
+  },
+  "variants.1": {
+   "fr": "Moitié semoule, moitié farine : texture plus rustique, le mélange préféré de Taste of Maroc pour le malwi ; Morocco World News (2019) le décrit aussi « moitié semoule, moitié farine » (Taste of Maroc ; Morocco World News).",
+   "t": "نصف سميد ونصف دقيق: قوام أكثر ريفية، وهو الخليط المفضل لدى Taste of Maroc للملوي؛ ويصفه Morocco World News (2019) أيضًا بأنه «نصف سميد ونصف دقيق» (Taste of Maroc؛ Morocco World News)."
+  },
+  "variants.2": {
+   "fr": "Un peu de farine complète dans la pâte, pour le goût (Taste of Maroc : 60 g de farine complète sur 630 g).",
+   "t": "قليل من الدقيق الكامل في العجين، من أجل النكهة (Taste of Maroc: مقدار 60 غ من الدقيق الكامل من أصل 630 غ)."
+  },
+  "variants.3": {
+   "fr": "Méthode rapide de Taste of Maroc : étire un pâton en carré, beurre, saupoudre et roule-le comme un roulé à la cannelle ; enroule ce rouleau dans un deuxième carré, puis un troisième, jusqu'à la moitié des pâtons ; coupe le gros rouleau en 8 tranches, pose-les côté spirale vers le haut et laisse reposer 15 à 20 minutes avant d'aplatir (Taste of Maroc).",
+   "t": "طريقة Taste of Maroc السريعة: مدّ كرة عجين على شكل مربع، وادهنها بالزبدة ورشّها بالسميد، ثم لفّها كما تُلفّ لفائف القرفة؛ ولفّ هذه اللفافة داخل مربع ثانٍ، ثم ثالث، إلى أن تستعمل نصف كرات العجين؛ ثم قطّع اللفافة الكبيرة إلى 8 شرائح، وضعها وجهتها الحلزونية إلى الأعلى، واتركها ترتاح من 15 إلى 20 دقيقة قبل تسطيحها (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "De la levure chimique dans la pâte : des recettes publiées par Lalla Moulati en mettent un sachet (Lalla Moulati, 2 août 2022 et 2 août 2023 ; la liste du 1er octobre 2023 en cite aussi, sans dire si c'est pour la pâte ou pour feuilleter).",
+   "t": "خميرة كيميائية في العجين: وصفات نشرتها Lalla Moulati تضع منها كيسًا (Lalla Moulati، بتاريخ 2 غشت 2022 و2 غشت 2023؛ وقائمة 1 أكتوبر 2023 تذكرها أيضًا، دون أن تحدد هل هي للعجين أم للتوريق)."
+  }
+ }
+}

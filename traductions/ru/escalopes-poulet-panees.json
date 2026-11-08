@@ -1,0 +1,474 @@
+{
+ "_slug": "escalopes-poulet-panees",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Escalopes de poulet panées",
+   "t": "Куриные эскалопы в панировке"
+  },
+  "tagline": {
+   "fr": "Des escalopes de poulet bien fines, passées dans la farine, l'œuf et la chapelure, puis dorées à la poêle : croustillantes dehors, moelleuses dedans.",
+   "t": "Тонкие куриные эскалопы, обвалянные в муке, яйце и сухарях и обжаренные на сковороде до золотистого цвета: хрустящие снаружи, нежные внутри."
+  },
+  "region": {
+   "fr": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
+   "t": "Франция и Центральная Европа. Панировка «по-английски» (мука, яйцо, сухари) — классический приём французской кухни (Escoffier, Chef Simon); венский шницель (Wiener Schnitzel, Вена) — родственное блюдо, изначально из телятины. Курицу в панировке едят также в Египте («фрах пане») и в Израиле (Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Dîner rapide des soirs de fatigue. Les enfants adorent l'escalope panée (Migusto, Betty Bossi).",
+   "t": "Быстрый ужин в усталый вечер. Дети обожают эскалоп в панировке (Migusto, Betty Bossi)."
+  },
+  "img_alt": {
+   "fr": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
+   "t": "Золотистые куриные эскалопы в панировке с брокколи и картофелем"
+  },
+  "serving": {
+   "fr": "Tout de suite, avec du citron, en quartiers (Migusto, Diana Henry) ou en rondelles (Office du tourisme de Vienne). À côté : une salade verte, une salade de pommes de terre ou de concombre, ou des pommes de terre persillées, comme à Vienne ; on les sert aussi avec du riz ou des frites (Office du tourisme de Vienne, Migusto, Wikipédia). Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), réchauffés une seule fois jusqu'à être brûlants à cœur (FSA, Anses).",
+   "t": "Сразу же, с лимоном — дольками (Migusto, Diana Henry) или кружками (Венское туристическое бюро). На гарнир: зелёный салат, картофельный или огуречный салат или картофель с петрушкой, как в Вене; их подают и с рисом или картофелем фри (Венское туристическое бюро, Migusto, Wikipédia). Остатки: в холодильник в течение 2 часов (Anses, FSA), съесть в течение 2 дней (FSA; Anses говорит — меньше 3 дней для готового блюда), разогревать только один раз, пока они не станут обжигающе горячими внутри (FSA, Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Escalopes",
+   "t": "Эскалопы"
+  },
+  "ing.escalopes.name": {
+   "fr": "escalope de poulet halal",
+   "t": "халяльный куриный эскалоп"
+  },
+  "ing.escalopes.pl": {
+   "fr": "escalopes de poulet halal",
+   "t": "халяльных куриных эскалопа"
+  },
+  "ing.escalopes.pl5": {
+   "fr": "escalope de poulet halal / escalopes de poulet halal",
+   "t": "халяльных куриных эскалопов"
+  },
+  "ing.escalopes.note": {
+   "fr": "une par personne, de 100 à 150 g environ ; ou des blancs de poulet tranchés en deux dans l'épaisseur",
+   "t": "по одному на человека, примерно по 100–150 г; или куриные грудки, разрезанные пополам по толщине"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "молотый чёрный перец"
+  },
+  "ing.1.group": {
+   "fr": "Panure",
+   "t": "Панировка"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "пшеничной муки"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche ordinaire",
+   "t": "обычная белая мука"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.chapelure.name": {
+   "fr": "de chapelure",
+   "t": "панировочных сухарей"
+  },
+  "ing.chapelure.note": {
+   "fr": "bien fine ; ou du pain rassis séché, mixé finement",
+   "t": "очень мелких; или высушенный чёрствый хлеб, мелко измельчённый в блендере"
+  },
+  "ing.2.group": {
+   "fr": "Cuisson et service",
+   "t": "Жарка и подача"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "растительного масла"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, colza ou arachide : une huile qui supporte la chaleur",
+   "t": "подсолнечное, рапсовое или арахисовое: масло, которое выдерживает нагрев"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers, pour servir",
+   "t": "дольками, для подачи"
+  },
+  "equipment.0": {
+   "fr": "Une planche à découper réservée au poulet cru",
+   "t": "Разделочная доска только для сырой курицы"
+  },
+  "equipment.1": {
+   "fr": "Un rouleau à pâtisserie ou un attendrisseur à viande",
+   "t": "Скалка или молоток для отбивания мяса"
+  },
+  "equipment.2": {
+   "fr": "Du papier sulfurisé (ou du film alimentaire)",
+   "t": "Пергамент (или пищевая плёнка)"
+  },
+  "equipment.3": {
+   "fr": "Trois assiettes creuses",
+   "t": "Три глубокие тарелки"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle",
+   "t": "Большая сковорода"
+  },
+  "equipment.5": {
+   "fr": "Une pince ou une spatule",
+   "t": "Щипцы или лопатка"
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant et un plat qui va au four",
+   "t": "Бумажные полотенца и жаропрочное блюдо"
+  },
+  "equipment.7": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "Кулинарный термометр (по желанию)"
+  },
+  "steps.0.title": {
+   "fr": "Installe les trois assiettes",
+   "t": "Подготовьте три тарелки"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{farine}} de farine dans une première assiette creuse, avec un peu de {{sel}} et de {{poivre}}. Casse {{oeufs:full}} dans la deuxième, ajoute un peu de sel et bats juste à la fourchette. Verse {{chapelure}} de chapelure dans la troisième.",
+   "t": "Насыпьте {{farine}} муки в первую глубокую тарелку и добавьте немного соли и молотого чёрного перца. Во вторую разбейте {{oeufs:full}}, добавьте немного соли и только слегка взбейте вилкой. В третью насыпьте {{chapelure}} панировочных сухарей."
+  },
+  "steps.0.tip": {
+   "fr": "Ne bats pas trop les œufs : battus trop longtemps, ils deviennent trop liquides (recette du Wiener Schnitzel de l'Office du tourisme de Vienne).",
+   "t": "Не взбивайте яйца слишком сильно: от долгого взбивания они становятся слишком жидкими (рецепт Wiener Schnitzel от Венского туристического бюро)."
+  },
+  "steps.1.title": {
+   "fr": "Aplatis les escalopes",
+   "t": "Отбейте эскалопы"
+  },
+  "steps.1.text": {
+   "fr": "Aplatis {{escalopes:full}} : pose la viande entre deux feuilles de papier sulfurisé et tape-la au rouleau à pâtisserie, sans la déchirer, jusqu'à environ 5 mm d'épaisseur, bien régulière.",
+   "t": "Отбейте {{escalopes:full}}: положите мясо между двумя листами пергамента и отбейте скалкой, не разрывая, до ровной толщины около 5 мм."
+  },
+  "steps.1.tip": {
+   "fr": "Tu as des blancs entiers ? Tranche-les d'abord en deux dans l'épaisseur, la main bien à plat dessus, avant de les aplatir (Chef Simon).",
+   "t": "У вас целые куриные грудки? Сначала разрежьте их пополам по толщине, плотно прижимая ладонью сверху, а потом отбейте (Chef Simon)."
+  },
+  "steps.2.title": {
+   "fr": "Sèche et assaisonne",
+   "t": "Обсушите и приправьте"
+  },
+  "steps.2.text": {
+   "fr": "Éponge la viande avec du papier absorbant, puis sale-la et poivre-la des deux côtés.",
+   "t": "Промокните мясо бумажными полотенцами, затем посолите и поперчите с обеих сторон."
+  },
+  "steps.2.tip": {
+   "fr": "Ne lave pas le poulet cru : l'eau projette ses bactéries sur tes mains, le plan de travail et les ustensiles, et seule la cuisson les détruit (FSA, agence sanitaire britannique).",
+   "t": "Не мойте сырую курицу: брызги воды разносят её бактерии на руки, рабочую поверхность и посуду, а уничтожает их только термическая обработка (FSA, британское санитарное агентство)."
+  },
+  "steps.3.title": {
+   "fr": "Passe-les dans la farine",
+   "t": "Обваляйте в муке"
+  },
+  "steps.3.text": {
+   "fr": "Passe une escalope dans la farine, des deux côtés. Secoue-la pour faire tomber le surplus.",
+   "t": "Обваляйте эскалоп в муке с обеих сторон. Встряхните его, чтобы стряхнуть излишки."
+  },
+  "steps.4.title": {
+   "fr": "Puis dans l'œuf",
+   "t": "Затем обмакните в яйцо"
+  },
+  "steps.4.text": {
+   "fr": "Trempe-la dans l'œuf battu, des deux côtés. Laisse égoutter le surplus au-dessus de l'assiette.",
+   "t": "Обмакните его во взбитое яйцо с обеих сторон. Дайте излишку стечь над тарелкой."
+  },
+  "steps.5.title": {
+   "fr": "Puis dans la chapelure",
+   "t": "Затем обваляйте в сухарях"
+  },
+  "steps.5.text": {
+   "fr": "Pose-la dans la chapelure, retourne-la et presse légèrement pour que la chapelure tienne bien. Pose-la sur un plat, puis pane les autres escalopes de la même façon, s'il y en a. Lave-toi ensuite les mains au savon.",
+   "t": "Положите его в сухари, переверните и слегка прижмите, чтобы панировка хорошо держалась. Переложите на блюдо и так же запанируйте остальные эскалопы, если они есть. Затем вымойте руки с мылом."
+  },
+  "steps.5.tip": {
+   "fr": "Pane juste avant de cuire : si elle attend, la panure prend l'humidité et se détache à la cuisson (Betty Bossi, Migusto).",
+   "t": "Панируйте прямо перед жаркой: если эскалоп полежит, панировка отсыреет и отстанет при жарке (Betty Bossi, Migusto)."
+  },
+  "steps.6.title": {
+   "fr": "Chauffe l'huile",
+   "t": "Разогрейте масло"
+  },
+  "steps.6.text": {
+   "fr": "Verse {{huile}} d'huile dans la grande poêle (une petite poêle si tu ne cuis qu'une escalope, pour que l'huile monte assez haut) et chauffe-la à feu moyen-vif, vers 170 °C. Sans thermomètre, plonge une brochette ou un manche en bois dans l'huile : quand de petites bulles se forment tout autour, elle est prête. À partir de maintenant, ne quitte plus la poêle.",
+   "t": "Налейте {{huile}} масла в большую сковороду (в маленькую, если жарите только один эскалоп, чтобы слой масла был достаточно высоким) и разогрейте на огне выше среднего примерно до 170 °C. Если нет термометра, опустите в масло деревянную шпажку или деревянную ручку: когда вокруг неё образуются мелкие пузырьки, масло готово. С этого момента не отходите от сковороды."
+  },
+  "steps.6.tip": {
+   "fr": "Si l'huile fume, elle est trop chaude : coupe le feu et laisse-la refroidir un peu (conseils incendie du gouvernement britannique).",
+   "t": "Если масло дымится, оно перегрето: выключите огонь и дайте ему немного остыть (советы правительства Великобритании по пожарной безопасности)."
+  },
+  "steps.7.title": {
+   "fr": "Dore la première face",
+   "t": "Обжарьте первую сторону"
+  },
+  "steps.7.text": {
+   "fr": "Dépose délicatement les escalopes dans l'huile chaude, deux au plus à la fois. Laisse-les dorer 4 minutes environ, à feu moyen, sans les toucher.",
+   "t": "Осторожно положите эскалопы в горячее масло, не больше двух за раз. Жарьте их примерно 4 минуты на среднем огне до золотистого цвета, не трогая."
+  },
+  "steps.7.tip": {
+   "fr": "Pendant ce temps, arrose le dessus d'un peu d'huile chaude, à la cuillère : la panure sera plus croustillante (Betty Bossi ; Migusto incline la poêle pour la même raison).",
+   "t": "Тем временем поливайте верх ложкой горячего масла: панировка будет более хрустящей (Betty Bossi; Migusto наклоняет сковороду с той же целью)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Première face",
+   "t": "Первая сторона"
+  },
+  "steps.7.timer.done": {
+   "fr": "Retourne les escalopes.",
+   "t": "Переверните эскалопы."
+  },
+  "steps.8.title": {
+   "fr": "Retourne-les",
+   "t": "Переверните эскалопы"
+  },
+  "steps.8.text": {
+   "fr": "Retourne les escalopes avec la pince et laisse dorer l'autre face 4 minutes environ. La panure doit être bien dorée, pas brune.",
+   "t": "Переверните эскалопы щипцами и обжарьте вторую сторону примерно 4 минуты. Панировка должна стать золотистой, но не коричневой."
+  },
+  "steps.8.timer.label": {
+   "fr": "Deuxième face",
+   "t": "Вторая сторона"
+  },
+  "steps.8.timer.done": {
+   "fr": "Vérifie la cuisson.",
+   "t": "Проверьте готовность."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Проверьте готовность"
+  },
+  "steps.9.text": {
+   "fr": "Coupe la plus épaisse en son milieu : la chair doit être blanche, sans aucune trace de rose, et le jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C. Sinon, baisse le feu et prolonge de quelques minutes.",
+   "t": "Разрежьте самый толстый эскалоп посередине: мясо должно быть белым, без малейших следов розового, а сок — прозрачным. По термометру температура в центре должна быть не ниже 75 °C. Если нет, убавьте огонь и жарьте ещё несколько минут."
+  },
+  "steps.9.tip": {
+   "fr": "L'Anses recommande une cuisson à cœur de 70 °C pour la volaille ; la FSA, 75 °C pendant 30 secondes (ou 70 °C pendant 2 minutes).",
+   "t": "Anses рекомендует для птицы 70 °C в центре; FSA — 75 °C в течение 30 секунд (или 70 °C в течение 2 минут)."
+  },
+  "steps.10.title": {
+   "fr": "Égoutte et garde au chaud",
+   "t": "Обсушите и держите в тепле"
+  },
+  "steps.10.text": {
+   "fr": "Pose les escalopes cuites sur du papier absorbant, puis dans un plat propre, au four doux (60 à 80 °C), pendant que tu cuis les autres, s'il en reste. N'utilise pas le plat du poulet cru.",
+   "t": "Выложите готовые эскалопы на бумажное полотенце, затем в чистое блюдо в слабо нагретую духовку (60–80 °C), пока жарите остальные, если они есть. Не используйте блюдо, на котором лежала сырая курица."
+  },
+  "steps.11.title": {
+   "fr": "Cuis les autres",
+   "t": "Пожарьте остальные"
+  },
+  "steps.11.text": {
+   "fr": "S'il reste des escalopes, fais-les cuire de la même façon, deux au plus à la fois, et vérifie aussi leur cuisson.",
+   "t": "Если эскалопы ещё остались, пожарьте их так же, не больше двух за раз, и тоже проверьте готовность."
+  },
+  "steps.12.title": {
+   "fr": "Coupe le feu",
+   "t": "Выключите огонь"
+  },
+  "steps.12.text": {
+   "fr": "Éteins le feu dès la dernière escalope sortie. Laisse l'huile refroidir complètement dans la poêle avant de la déplacer, de la filtrer ou de la jeter.",
+   "t": "Выключите огонь, как только вынете последний эскалоп. Дайте маслу полностью остыть в сковороде, прежде чем переносить, процеживать или выливать его."
+  },
+  "steps.12.tip": {
+   "fr": "Jette ce qui reste de farine, d'œuf et de chapelure : ils ont touché le poulet cru (la FSA rappelle que ses bactéries passent sur ce qu'il touche).",
+   "t": "Выбросьте остатки муки, яйца и сухарей: они соприкасались с сырой курицей (FSA напоминает, что её бактерии переходят на всё, чего она касается)."
+  },
+  "steps.13.title": {
+   "fr": "Sers aussitôt",
+   "t": "Сразу подавайте"
+  },
+  "steps.13.text": {
+   "fr": "Sers les escalopes tout de suite, bien chaudes, avec {{citron:full}} en quartiers.",
+   "t": "Сразу подавайте эскалопы очень горячими, с дольками лимона ({{citron}} шт.)."
+  },
+  "steps.13.tip": {
+   "fr": "Une escalope de volaille panée n'attend pas, sinon elle durcit : sers-la aussitôt, moelleuse et brûlante (Escoffier).",
+   "t": "Эскалоп из птицы в панировке ждать не может, иначе он затвердеет: подавайте его сразу, нежным и обжигающе горячим (Escoffier)."
+  },
+  "secrets.0.text": {
+   "fr": "Aplatis les escalopes à une épaisseur régulière, environ 5 mm : elles cuisent vite et partout pareil.",
+   "t": "Отбивайте эскалопы до ровной толщины, около 5 мм: они быстро и равномерно прожариваются."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Bossi (les escalopes du boucher font environ 5 mm), Ben Tish (Great British Chefs, 0,5 cm), Chef Simon, Migusto, Diana Henry (BBC Good Food)",
+   "t": "Betty Bossi (эскалопы от мясника — около 5 мм), Ben Tish (Great British Chefs, 0,5 см), Chef Simon, Migusto, Diana Henry (BBC Good Food)"
+  },
+  "secrets.1.text": {
+   "fr": "Incise très légèrement la surface de la viande avant de l'aplatir : elle se laisse mieux battre et se rétracte moins à la cuisson.",
+   "t": "Перед отбиванием сделайте на поверхности мяса очень неглубокие надрезы: так его легче отбить, и при жарке оно меньше сжимается."
+  },
+  "secrets.1.source": {
+   "fr": "Chef Simon (escalope panée à l'anglaise ; tailler et aplatir une escalope de volaille)",
+   "t": "Chef Simon (эскалоп в панировке по-английски; как нарезать и отбить эскалоп из птицы)"
+  },
+  "secrets.2.text": {
+   "fr": "L'ordre farine, œuf, chapelure a une raison : la farine sèche la surface pour que l'œuf accroche, et l'œuf colle la chapelure.",
+   "t": "У порядка «мука, яйцо, сухари» есть причина: мука подсушивает поверхность, чтобы яйцо держалось, а яйцо приклеивает сухари."
+  },
+  "secrets.2.source": {
+   "fr": "Betty Bossi (« Paner ») ; Chef Simon (lexique « Paner » : panure à l'anglaise)",
+   "t": "Betty Bossi (статья «Paner»); Chef Simon (словарь, статья «Paner»: панировка по-английски)"
+  },
+  "secrets.3.text": {
+   "fr": "Secoue l'excédent de farine et laisse égoutter l'œuf : la panure reste fine, régulière, et ne se détache pas.",
+   "t": "Стряхивайте лишнюю муку и давайте яйцу стечь: панировка остаётся тонкой и ровной и не отстаёт."
+  },
+  "secrets.3.source": {
+   "fr": "Migusto (« Paner une escalope »), Betty Bossi, Chef Simon, Ben Tish (Great British Chefs)",
+   "t": "Migusto (статья «Paner une escalope»), Betty Bossi, Chef Simon и Ben Tish (Great British Chefs)"
+  },
+  "secrets.4.text": {
+   "fr": "L'huile doit être bien chaude avant d'y mettre les escalopes : trop froide, la panure boit l'huile et ne croustille pas.",
+   "t": "Масло должно хорошо разогреться, прежде чем класть в него эскалопы: в недостаточно горячем масле панировка впитывает его и не становится хрустящей."
+  },
+  "secrets.4.source": {
+   "fr": "Betty Bossi (« Paner ») ; Migusto (« La friture »)",
+   "t": "Betty Bossi (статья «Paner»); Migusto (статья «La friture»)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas plus de deux escalopes à la fois : trop chargée, la poêle refroidit et la panure devient molle.",
+   "t": "Не больше двух эскалопов за раз: переполненная сковорода остывает, и панировка становится мягкой."
+  },
+  "secrets.5.source": {
+   "fr": "Betty Bossi (« Frire »), Great British Chefs (GBC Kitchen), Journal des Femmes (la rédaction cuit les escalopes deux par deux)",
+   "t": "Betty Bossi (статья «Frire»), Great British Chefs (GBC Kitchen), Journal des Femmes (редакция жарит эскалопы по два)"
+  },
+  "secrets.6.text": {
+   "fr": "Arrose le dessus avec l'huile chaude pendant la cuisson, ou incline doucement la poêle : la panure gonfle et croustille.",
+   "t": "Во время жарки поливайте верх горячим маслом или осторожно наклоняйте сковороду: панировка вздувается и становится хрустящей."
+  },
+  "secrets.6.source": {
+   "fr": "Betty Bossi (« Paner ») ; Migusto (escalopes viennoises) ; Office du tourisme de Vienne (recette du Sacher)",
+   "t": "Betty Bossi (статья «Paner»); Migusto (венские шницели); Венское туристическое бюро (рецепт Sacher)"
+  },
+  "secrets.7.text": {
+   "fr": "Égoutte les escalopes sur du papier absorbant dès leur sortie de la poêle.",
+   "t": "Сразу после сковороды выкладывайте эскалопы на бумажное полотенце, чтобы стекло масло."
+  },
+  "secrets.7.source": {
+   "fr": "Office du tourisme de Vienne, Migusto, Great British Chefs, Cyril Lignac (cité par le Journal des Femmes)",
+   "t": "Венское туристическое бюро, Migusto, Great British Chefs, Cyril Lignac (его цитирует Journal des Femmes)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour le goût du beurre, prends du beurre clarifié : le beurre ordinaire commence à fumer vers 130 à 150 °C, le beurre clarifié vers 250 °C seulement.",
+   "t": "Для сливочного вкуса берите топлёное масло: обычное сливочное масло начинает дымить примерно при 130–150 °C, а топлёное — только около 250 °C."
+  },
+  "secrets.8.source": {
+   "fr": "Chef Simon (lexique « Beurre clarifié ») ; Escoffier et Cyril Lignac cuisent leurs escalopes panées au beurre clarifié",
+   "t": "Chef Simon (словарь, статья «Beurre clarifié»); Escoffier и Cyril Lignac жарят эскалопы в панировке на топлёном масле"
+  },
+  "secrets.9.text": {
+   "fr": "Prends une chapelure bien fine, comme le demande la recette viennoise ; la chapelure maison se fait avec du pain rassis séché, mixé puis tamisé.",
+   "t": "Берите очень мелкие сухари, как того требует венский рецепт; домашние сухари делают из высушенного чёрствого хлеба, измельчённого в блендере и просеянного."
+  },
+  "secrets.9.source": {
+   "fr": "Office du tourisme de Vienne (chapelure « très finement râpée ») ; Larousse et Chef Simon (définition de la chapelure)",
+   "t": "Венское туристическое бюро (сухари «очень мелко натёртые»); Larousse и Chef Simon (определение панировочных сухарей)"
+  },
+  "secrets.10.text": {
+   "fr": "Les cuisses de poulet désossées, aplaties de la même façon, donnent des escalopes plus juteuses que le blanc.",
+   "t": "Куриные бёдра без костей, отбитые таким же образом, дают более сочные эскалопы, чем грудка."
+  },
+  "secrets.10.source": {
+   "fr": "Diana Henry (BBC Good Food)",
+   "t": "Diana Henry (BBC Good Food)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "Мыть сырую курицу: брызги разносят бактерии повсюду, а уничтожает их только термическая обработка (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Décongeler le poulet sur le plan de travail : décongèle-le au réfrigérateur ou au micro-ondes (Anses).",
+   "t": "Размораживать курицу на столе: размораживайте её в холодильнике или в микроволновке (Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Paner longtemps à l'avance : la panure se ramollit et se détache (Betty Bossi).",
+   "t": "Панировать задолго до жарки: панировка размокает и отстаёт (Betty Bossi)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre les escalopes dans une huile pas assez chaude : elles boivent l'huile (Betty Bossi, Migusto).",
+   "t": "Класть эскалопы в недостаточно горячее масло: они впитывают масло (Betty Bossi, Migusto)."
+  },
+  "mistakes.4": {
+   "fr": "Remplir la poêle : l'huile refroidit et la panure devient molle (Betty Bossi, Great British Chefs).",
+   "t": "Переполнять сковороду: масло остывает, и панировка становится мягкой (Betty Bossi, Great British Chefs)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la poêle d'huile sans surveillance (BPA, gouvernement britannique).",
+   "t": "Оставлять сковороду с маслом без присмотра (BPA, правительство Великобритании)."
+  },
+  "mistakes.6": {
+   "fr": "Jeter de l'eau sur de l'huile en feu : jamais. Coupe le feu si tu peux le faire sans risque ; le BPA conseille d'étouffer les flammes avec un couvercle ou une couverture anti-feu, le gouvernement britannique de ne pas affronter le feu soi-même. Si le feu prend, sors, reste dehors et appelle les secours (gouvernement britannique).",
+   "t": "Лить воду на горящее масло: никогда. Выключите огонь, если это можно сделать без риска; BPA советует накрыть пламя крышкой или противопожарным покрывалом, а правительство Великобритании — не тушить огонь самостоятельно. Если начался пожар, выйдите из помещения, оставайтесь снаружи и вызовите экстренные службы (правительство Великобритании)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser brunir la panure : vise une couleur jaune doré, comme la FSA le conseille pour les aliments riches en amidon frits, dont le pain (FSA, Betty Bossi).",
+   "t": "Доводить панировку до коричневого цвета: добивайтесь золотисто-жёлтого цвета, как FSA советует для жареных продуктов, богатых крахмалом, включая хлеб (FSA, Betty Bossi)."
+  },
+  "mistakes.8": {
+   "fr": "Servir sans vérifier que le cœur est bien cuit (Anses, FSA).",
+   "t": "Подавать, не проверив, что мясо прожарилось в центре (Anses, FSA)."
+  },
+  "mistakes.9": {
+   "fr": "Reposer les escalopes cuites dans le plat du poulet cru (Anses).",
+   "t": "Класть готовые эскалопы обратно на блюдо, где лежала сырая курица (Anses)."
+  },
+  "variants.0": {
+   "fr": "Façon milanaise : mélange du parmesan râpé à la chapelure (Chef Simon : un tiers de parmesan ; la rédaction du Journal des Femmes en met avec du persil). Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "t": "По-милански: смешайте тёртый пармезан с сухарями (Chef Simon: треть пармезана; редакция Journal des Femmes добавляет его вместе с петрушкой). Если хотите строго: сыр на микробном коагулянте, без животного сычужного фермента."
+  },
+  "variants.1": {
+   "fr": "Au panko, la chapelure japonaise (Great British Chefs, Ben Tish ; Betty Bossi la propose aussi).",
+   "t": "С панко, японскими сухарями (Great British Chefs, Ben Tish; Betty Bossi тоже их предлагает)."
+  },
+  "variants.2": {
+   "fr": "Double panure : repasse l'escalope déjà panée dans l'œuf, puis dans la chapelure, pour une croûte plus épaisse (Betty Bossi, Ben Tish).",
+   "t": "Двойная панировка: ещё раз обмакните запанированный эскалоп в яйцо, а затем в сухари, чтобы корочка была толще (Betty Bossi, Ben Tish)."
+  },
+  "variants.3": {
+   "fr": "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
+   "t": "Полегче, как у Cyril Lignac: только взбитые в пену белки, без муки, и сухари, смешанные с дроблёным арахисом и небольшим количеством специй тандури; запанированные эскалопы выдерживают 30 минут в холодильнике перед жаркой (Journal des Femmes, 2024)."
+  },
+  "variants.4": {
+   "fr": "Façon israélienne : chapelure relevée de paprika ou de graines de sésame, cuisson à l'huile végétale (Wikipédia).",
+   "t": "По-израильски: сухари с паприкой или кунжутом, жарка на растительном масле (Wikipédia)."
+  },
+  "variants.5": {
+   "fr": "Holstein : un œuf au plat posé sur chaque escalope (Chef Simon, qui ajoute des filets d'anchois).",
+   "t": "По-гольштейнски: глазунья на каждом эскалопе (Chef Simon, который добавляет филе анчоусов)."
+  },
+  "variants.6": {
+   "fr": "Avec des cuisses de poulet désossées, plus juteuses, et un beurre noisette aux câpres (Diana Henry, BBC Good Food).",
+   "t": "Из куриных бёдер без костей, которые сочнее, с подрумяненным сливочным маслом (нуазет) и каперсами (Diana Henry, BBC Good Food)."
+  },
+  "variants.7": {
+   "fr": "Au beurre clarifié, comme Escoffier, Chef Simon et Cyril Lignac, à la place de l'huile.",
+   "t": "На топлёном масле вместо растительного, как у Escoffier, Chef Simon и Cyril Lignac."
+  }
+ }
+}

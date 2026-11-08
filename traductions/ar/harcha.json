@@ -1,0 +1,478 @@
+{
+ "_slug": "harcha",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Harcha, galettes de semoule à la poêle",
+   "t": "الحرشة، فطائر السميد في المقلاة"
+  },
+  "darija": {
+   "fr": "harcha (aussi harsha)",
+   "t": "حرشة (harcha أو harsha)"
+  },
+  "tagline": {
+   "fr": "Des galettes de semoule sablées, cuites à sec à la poêle, légèrement croustillantes dehors et moelleuses dedans, à manger tièdes avec du miel et du beurre.",
+   "t": "فطائر من السميد هشّة القوام، تُطهى في مقلاة جافة دون دهون، مقرمشة قليلًا من الخارج وطرية من الداخل، تؤكل دافئة مع العسل والزبدة."
+  },
+  "region": {
+   "fr": "Maroc ; aussi en Algérie (origine discutée : le Moyen Atlas selon Wikipédia en anglais, l'Algérie selon Wikipédia en français)",
+   "t": "المغرب؛ وتوجد أيضًا في الجزائر (أصلها موضع خلاف: الأطلس المتوسط حسب Wikipédia بالإنجليزية، والجزائر حسب Wikipédia بالفرنسية)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "فطور الصباح، اللمجة مع الشاي، فطور رمضان"
+  },
+  "serving": {
+   "fr": "Tiède, quand elle est légèrement croustillante dehors et moelleuse dedans (Bladi.net ; My Moroccan Food). Le nappage traditionnel au Maroc est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux (My Moroccan Food). Tu peux aussi l'ouvrir en deux et la garnir de fromage, de confiture ou de miel (Cooking with Alia), par exemple de jben, le fromage frais marocain (Morocco World News). Avec un thé à la menthe (Wikipédia ; Amour de cuisine) ou un verre de lait (Morocco World News), au petit-déjeuner, au goûter ou au ftour du ramadan (My Moroccan Food ; Wikipédia ; Hespress). Elle se garde 1 à 2 jours dans un torchon propre : réchauffe-la quelques secondes à la poêle (Amour de cuisine).",
+   "t": "دافئة، حين تكون مقرمشة قليلًا من الخارج وطرية من الداخل (Bladi.net؛ My Moroccan Food). التغطية التقليدية في المغرب خليط من العسل والزبدة الذائبين بمقدارين متساويين، مع بضع قطرات من ماء الزهر إن شئت (My Moroccan Food). ويمكنك أيضًا أن تشقّها نصفين وتحشوها بالجبن أو المربى أو العسل (Cooking with Alia)، مثلًا بالجبن الطري المغربي (Morocco World News). تُقدَّم مع الشاي بالنعناع (Wikipédia؛ Amour de cuisine) أو مع كأس من الحليب (Morocco World News)، في فطور الصباح أو اللمجة أو فطور رمضان (My Moroccan Food؛ Wikipédia؛ Hespress). تُحفظ من 1 إلى 2 يوم في فوطة نظيفة: سخّنها بضع ثوانٍ في المقلاة (Amour de cuisine)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجين"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur",
+   "t": "سميد رقيق من القمح الصلب"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne la texture sablée : ne la remplace pas",
+   "t": "هو الذي يمنحها قوامها الهش: لا تستبدله بغيره"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "سكر"
+  },
+  "ing.sucre.note": {
+   "fr": "tu peux en mettre moins : d'autres recettes n'en mettent que 2 c. à s. pour 500 g de semoule",
+   "t": "يمكنك أن تضع منه أقل: بعض الوصفات الأخرى لا تضع منه سوى 2 ملعقة كبيرة لكل 500 غ من السميد"
+  },
+  "ing.levure-chimique.name": {
+   "fr": "de levure chimique",
+   "t": "خميرة كيميائية"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre doux, bien mou",
+   "t": "زبدة غير مملحة، طرية جدًا"
+  },
+  "ing.beurre.note": {
+   "fr": "à température ambiante",
+   "t": "في درجة حرارة الغرفة"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "حليب"
+  },
+  "ing.lait.note": {
+   "fr": "environ : ajoute-le petit à petit, la quantité dépend de ta semoule",
+   "t": "تقريبًا: أضفه شيئًا فشيئًا، فالكمية تتوقف على السميد الذي تستعمله"
+  },
+  "ing.1.group": {
+   "fr": "Pour enrober",
+   "t": "للتغليف"
+  },
+  "ing.semoule-enrobage.name": {
+   "fr": "de semoule fine ou moyenne",
+   "t": "سميد رقيق أو متوسط"
+  },
+  "ing.semoule-enrobage.note": {
+   "fr": "environ",
+   "t": "تقريبًا"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.miel.name": {
+   "fr": "Miel",
+   "t": "عسل"
+  },
+  "ing.miel.pl": {
+   "fr": "Miel",
+   "t": "عسل"
+  },
+  "ing.miel.note": {
+   "fr": "à parts égales avec le beurre, pour le sirop",
+   "t": "بمقدار مساوٍ للزبدة، لتحضير خليط العسل والزبدة"
+  },
+  "ing.beurre-service.name": {
+   "fr": "Beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre-service.pl": {
+   "fr": "Beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre-service.note": {
+   "fr": "à parts égales avec le miel",
+   "t": "بمقدار مساوٍ للعسل"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "Quelques gouttes d'eau de fleur d'oranger",
+   "t": "بضع قطرات من ماء الزهر"
+  },
+  "ing.fleur-oranger.pl": {
+   "fr": "Quelques gouttes d'eau de fleur d'oranger",
+   "t": "بضع قطرات من ماء الزهر"
+  },
+  "ing.fleur-oranger.note": {
+   "fr": "facultatif, dans le sirop",
+   "t": "اختياري، في خليط العسل والزبدة"
+  },
+  "ing.jben.name": {
+   "fr": "Jben (fromage frais marocain)",
+   "t": "جبن طري"
+  },
+  "ing.jben.pl": {
+   "fr": "Jben (fromage frais marocain)",
+   "t": "جبن طري"
+  },
+  "ing.jben.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.confiture.name": {
+   "fr": "Confiture",
+   "t": "مربى"
+  },
+  "ing.confiture.pl": {
+   "fr": "Confiture",
+   "t": "مربى"
+  },
+  "ing.confiture.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier",
+   "t": "وعاء كبير"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "ميزان مطبخ وكوب قياس"
+  },
+  "equipment.2": {
+   "fr": "Un torchon propre ou du film pour couvrir la pâte",
+   "t": "فوطة نظيفة أو غلاف بلاستيكي شفاف لتغطية العجين"
+  },
+  "equipment.3": {
+   "fr": "Une assiette creuse pour la semoule d'enrobage",
+   "t": "صحن عميق لسميد التغليف"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle à fond épais (fonte) ou antiadhésive",
+   "t": "مقلاة كبيرة سميكة القاع (من الحديد الزهر) أو غير لاصقة"
+  },
+  "equipment.5": {
+   "fr": "Une spatule plate",
+   "t": "ملعقة مسطحة"
+  },
+  "equipment.6": {
+   "fr": "Une petite casserole pour le sirop miel-beurre",
+   "t": "قدر صغير لخليط العسل والزبدة"
+  },
+  "equipment.7": {
+   "fr": "Un couteau bien aiguisé",
+   "t": "سكين حادّ جدًا"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger les ingrédients secs",
+   "t": "اخلط المكونات الجافة"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{semoule}} de semoule fine, {{sucre}} de sucre, {{levure-chimique}} de levure chimique et {{sel}} de sel.",
+   "t": "في وعاء كبير، اخلط {{semoule}} من السميد الرقيق و{{sucre}} من السكر و{{levure-chimique}} من الخميرة الكيميائية و{{sel}} من الملح."
+  },
+  "steps.1.title": {
+   "fr": "Sabler avec le beurre",
+   "t": "افرك السميد بالزبدة"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{beurre}} de beurre bien mou. Frotte le mélange entre tes paumes jusqu'à ce que toute la semoule soit humide et que chaque grain soit enrobé de beurre : c'est ce geste qui rend la harcha sablée et légère.",
+   "t": "أضف {{beurre}} من الزبدة الطرية جدًا. افرك الخليط بين راحتيك حتى يصبح السميد كله رطبًا وتتغلّف كل حبة منه بالزبدة: هذه الحركة هي التي تجعل الحرشة هشّة وخفيفة."
+  },
+  "steps.2.title": {
+   "fr": "Ajouter le lait petit à petit",
+   "t": "أضف الحليب شيئًا فشيئًا"
+  },
+  "steps.2.text": {
+   "fr": "Verse la moitié des {{lait}} de lait et mélange. Ajoute le reste petit à petit, juste jusqu'à obtenir une pâte qui se tient : selon ta semoule, il en faudra un peu plus ou un peu moins. Ne pétris pas, rassemble seulement : si la pâte colle un peu, c'est normal.",
+   "t": "اسكب نصف {{lait}} من الحليب واخلط. أضف الباقي شيئًا فشيئًا، وتوقّف بمجرد أن تحصل على عجين متماسك: قد تحتاج إلى كمية أكثر قليلًا أو أقل قليلًا حسب السميد الذي تستعمله. لا تعجنه، بل اجمعه فقط: إذا كان العجين يلتصق قليلًا فهذا طبيعي."
+  },
+  "steps.3.title": {
+   "fr": "Laisser gonfler la semoule",
+   "t": "اترك السميد ينتفخ"
+  },
+  "steps.3.text": {
+   "fr": "Couvre le saladier et laisse reposer 20 minutes. La semoule boit le lait et gonfle : la pâte devient plus sèche. Si elle s'effrite, ajoute un filet de lait.",
+   "t": "غطِّ الوعاء واترك العجين يرتاح 20 دقيقة. يتشرّب السميد الحليب وينتفخ، فيصبح العجين أكثر جفافًا. إذا تفتّت، أضف قليلًا من الحليب."
+  },
+  "steps.3.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "راحة العجين"
+  },
+  "steps.3.timer.done": {
+   "fr": "La semoule a gonflé. Si la pâte s'effrite, ajoute un filet de lait, puis façonne les galettes.",
+   "t": "انتفخ السميد. إذا كان العجين يتفتّت، أضف قليلًا من الحليب، ثم شكّل الفطائر."
+  },
+  "steps.4.title": {
+   "fr": "Façonner les galettes",
+   "t": "شكّل الفطائر"
+  },
+  "steps.4.text": {
+   "fr": "Partage la pâte en boules égales, une par harcha. Aplatis chaque boule à la main en un disque d'environ 10 cm de diamètre et de 1 cm d'épaisseur. Pas plus épais : sinon la cuisson n'est pas homogène.",
+   "t": "قسّم العجين إلى كرات متساوية، كرة لكل حرشة. سطّح كل كرة بيدك على شكل قرص قطره نحو 10 سم وسمكه 1 سم. لا تجعله أسمك من ذلك: وإلا فلن ينضج بالتساوي."
+  },
+  "steps.5.title": {
+   "fr": "Rouler dans la semoule",
+   "t": "مرّر الفطائر في السميد"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{semoule-enrobage}} de semoule dans une assiette creuse. Pose chaque galette dedans puis retourne-la, pour enrober les deux faces : c'est ce qui donnera une croûte croustillante.",
+   "t": "اسكب {{semoule-enrobage}} من السميد في صحن عميق. ضع فيه كل فطيرة ثم اقلبها لتغليف وجهيها: هذا ما سيمنحها قشرة مقرمشة."
+  },
+  "steps.6.title": {
+   "fr": "Chauffer la poêle à sec",
+   "t": "سخّن المقلاة جافة"
+  },
+  "steps.6.text": {
+   "fr": "Chauffe une grande poêle à fond épais (fonte) ou antiadhésive à feu moyen, sans matière grasse. Quand elle est chaude, baisse à feu doux ou moyen-doux. C'est très important : à feu trop fort, la harcha brûle dehors et reste crue dedans.",
+   "t": "سخّن مقلاة كبيرة سميكة القاع (من الحديد الزهر) أو غير لاصقة على نار متوسطة، دون أي مادة دهنية. عندما تسخن، اخفض النار إلى هادئة أو بين الهادئة والمتوسطة. هذا مهم جدًا: على نار قوية جدًا، تحترق الحرشة من الخارج وتبقى نيئة من الداخل."
+  },
+  "steps.7.title": {
+   "fr": "Cuire la première face",
+   "t": "اطهِ الوجه الأول"
+  },
+  "steps.7.text": {
+   "fr": "Dépose une première fournée de galettes dans la poêle chaude. Laisse cuire environ 5 minutes sans y toucher, jusqu'à ce que le dessous soit bien doré.",
+   "t": "ضع الدفعة الأولى من الفطائر في المقلاة الساخنة. اتركها تُطهى نحو 5 دقائق دون أن تلمسها، حتى يصبح وجهها السفلي ذهبيًا جيدًا."
+  },
+  "steps.7.timer.label": {
+   "fr": "Première face",
+   "t": "الوجه الأول"
+  },
+  "steps.7.timer.done": {
+   "fr": "Soulève un bord avec la spatule : si le dessous est bien doré, retourne les galettes. Sinon, laisse encore un peu.",
+   "t": "ارفع طرف فطيرة بالملعقة المسطحة: إذا كان وجهها السفلي ذهبيًا جيدًا، فاقلب الفطائر. وإلا فاتركها قليلًا بعد."
+  },
+  "steps.8.title": {
+   "fr": "Retourner délicatement",
+   "t": "اقلبها برفق"
+  },
+  "steps.8.text": {
+   "fr": "Retourne-les délicatement avec une spatule plate, car elles sont friables, et cuis l'autre face environ 5 minutes. Elles sont prêtes quand les deux faces sont dorées et qu'elles paraissent sèches sous le doigt. Si elles colorent trop vite, baisse le feu. Entre deux fournées, essuie la poêle pour que la semoule tombée ne brûle pas et ne colle pas aux galettes, puis cuis les suivantes de la même façon.",
+   "t": "اقلبها برفق بملعقة مسطحة لأنها سريعة التفتت، واطهِ الوجه الآخر نحو 5 دقائق. تكون جاهزة عندما يصبح وجهاها ذهبيين وتبدو جافة عند لمسها بالإصبع. إذا تلوّنت بسرعة كبيرة، فاخفض النار. بين دفعة وأخرى، امسح المقلاة كي لا يحترق السميد المتساقط ولا يلتصق بالفطائر، ثم اطهِ الدفعات التالية بالطريقة نفسها."
+  },
+  "steps.8.timer.label": {
+   "fr": "Deuxième face",
+   "t": "الوجه الثاني"
+  },
+  "steps.8.timer.done": {
+   "fr": "Dorées des deux côtés et sèches sous le doigt ? Sors-les et passe à la fournée suivante.",
+   "t": "هل صارت ذهبية من الجهتين وجافة عند اللمس؟ أخرجها وانتقل إلى الدفعة التالية."
+  },
+  "steps.9.title": {
+   "fr": "Préparer le sirop miel-beurre",
+   "t": "حضّر خليط العسل والزبدة"
+  },
+  "steps.9.text": {
+   "fr": "Dans une petite casserole, fais fondre ensemble du miel et du beurre, à parts égales. Ajoute quelques gouttes de fleur d'oranger si tu aimes. C'est le nappage traditionnel de la harcha au Maroc.",
+   "t": "في قدر صغير، أذِب العسل والزبدة معًا بمقدارين متساويين. أضف بضع قطرات من ماء الزهر إن أحببت. هذه هي التغطية التقليدية للحرشة في المغرب."
+  },
+  "steps.10.title": {
+   "fr": "Servir tiède",
+   "t": "قدّمها دافئة"
+  },
+  "steps.10.text": {
+   "fr": "Laisse tiédir un peu les harchas, puis ouvre-les en deux avec un couteau bien aiguisé si tu veux les garnir : trop chaudes, elles s'émiettent. Sers-les tièdes, nappées de sirop miel-beurre ou garnies de jben ou de confiture, avec un thé à la menthe.",
+   "t": "اترك الحرشة تفتر قليلًا، ثم شقّ كل واحدة نصفين بسكين حادّ جدًا إن أردت حشوها: فهي تتفتت إذا كانت ساخنة جدًا. قدّمها دافئة، مغطاة بخليط العسل والزبدة أو محشوة بالجبن الطري أو المربى، مع الشاي بالنعناع."
+  },
+  "secrets.0.text": {
+   "fr": "Sable d'abord : frotte la semoule et le beurre entre tes paumes jusqu'à ce que chaque grain soit enrobé de gras, avant de mettre le lait. C'est ce qui donne la texture friable et légère.",
+   "t": "ابدأ بالفرك: افرك السميد والزبدة بين راحتيك حتى تتغلّف كل حبة بالدهن، قبل إضافة الحليب. هذا ما يمنحها قوامها الهش الخفيف."
+  },
+  "secrets.0.source": {
+   "fr": "Amour de cuisine (Soulef Zaoui) ; My Moroccan Food (Nargisse Benkabbou) ; Milk Street (le gras ajouté avant le liquide limite le gluten)",
+   "t": "Amour de cuisine (Soulef Zaoui)؛ My Moroccan Food (Nargisse Benkabbou)؛ Milk Street (الدهن المضاف قبل السائل يحدّ من تكوّن الغلوتين)"
+  },
+  "secrets.1.text": {
+   "fr": "Ici, le beurre est mou, comme chez My Moroccan Food et Bladi.net : selon Milk Street, le beurre fondu donne une texture un peu plus lourde et plus grasse. Choumicha et Amour de cuisine utilisent pourtant du beurre fondu mêlé d'huile : c'est un choix, pas une règle.",
+   "t": "هنا تكون الزبدة طرية، كما عند My Moroccan Food وBladi.net: فحسب Milk Street، تعطي الزبدة الذائبة قوامًا أثقل قليلًا وأكثر دسامة. ومع ذلك تستعمل Choumicha وAmour de cuisine زبدة ذائبة ممزوجة بالزيت: إنه اختيار وليس قاعدة."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food et Bladi.net (beurre mou) ; Milk Street ; Choumicha et Amour de cuisine (beurre fondu et huile)",
+   "t": "My Moroccan Food وBladi.net (زبدة طرية)؛ Milk Street؛ Choumicha وAmour de cuisine (زبدة ذائبة وزيت)"
+  },
+  "secrets.2.text": {
+   "fr": "Verse le lait en plusieurs fois : la quantité dépend de ta semoule. Arrête-toi dès que la pâte se tient.",
+   "t": "أضف الحليب على عدة دفعات: فالكمية تتوقف على السميد الذي تستعمله. توقّف بمجرد أن يتماسك العجين."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Morocco World News (liquide versé petit à petit)",
+   "t": "My Moroccan Food؛ Morocco World News (يُضاف السائل شيئًا فشيئًا)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne pétris pas, rassemble juste la pâte : pétrir active le gluten et durcit les harchas. Une pâte un peu collante, c'est normal.",
+   "t": "لا تعجن، بل اجمع العجين فقط: فالعجن ينشّط الغلوتين ويجعل الحرشة قاسية. ومن الطبيعي أن يكون العجين لزجًا قليلًا."
+  },
+  "secrets.3.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "secrets.4.text": {
+   "fr": "Ne saute pas le repos : il faut 20 minutes pour que la semoule boive le lait et gonfle. Une pâte bien reposée donne des harchas moelleuses, pas friables.",
+   "t": "لا تتجاوز مرحلة الراحة: يحتاج السميد إلى 20 دقيقة ليتشرّب الحليب وينتفخ. العجين الذي ارتاح جيدًا يعطي حرشة طرية لا تتفتت."
+  },
+  "secrets.4.source": {
+   "fr": "My Moroccan Food (20 min) ; Amour de cuisine (20 à 30 min)",
+   "t": "My Moroccan Food (لمدة 20 دقيقة)؛ Amour de cuisine (من 20 إلى 30 دقيقة)"
+  },
+  "secrets.5.text": {
+   "fr": "Après le repos, la pâte est plus sèche, c'est normal. Si elle s'effrite, ajoute un filet de lait.",
+   "t": "بعد الراحة يصبح العجين أكثر جفافًا، وهذا طبيعي. إذا تفتّت، أضف قليلًا من الحليب."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Enrobe les deux faces de semoule avant la cuisson : c'est ce qui rend la croûte croustillante.",
+   "t": "غلّف الوجهين بالسميد قبل الطهي: هذا ما يجعل القشرة مقرمشة."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; recette de Paula Wolfert décrite par Milk Street",
+   "t": "My Moroccan Food؛ وصفة Paula Wolfert كما يصفها Milk Street"
+  },
+  "secrets.7.text": {
+   "fr": "1 cm d'épaisseur, pas plus, pour une cuisson homogène. Plus fine, la harcha est croustillante ; plus épaisse, elle est moelleuse.",
+   "t": "سمك 1 سم لا أكثر، لكي تنضج بالتساوي. إذا كانت أرقّ كانت الحرشة مقرمشة؛ وإذا كانت أسمك كانت طرية."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food, Bladi.net et Amour de cuisine (1 cm) ; Cooking with Alia (fine ou épaisse)",
+   "t": "My Moroccan Food وBladi.net وAmour de cuisine (بسمك 1 سم)؛ Cooking with Alia (رقيقة أو سميكة)"
+  },
+  "secrets.8.text": {
+   "fr": "Cuis à sec, sans matière grasse dans la poêle.",
+   "t": "اطهِها على مقلاة جافة، دون أي مادة دهنية فيها."
+  },
+  "secrets.8.source": {
+   "fr": "Bladi.net (« poêle sèche ») ; Julie Andrieu (« sans matière grasse »)",
+   "t": "Bladi.net (« مقلاة جافة »)؛ Julie Andrieu (« دون مادة دهنية »)"
+  },
+  "secrets.9.text": {
+   "fr": "Feu doux à moyen-doux : préchauffe la poêle à feu moyen, puis baisse avant d'y poser les galettes. Sinon elles brûlent dehors et restent crues dedans.",
+   "t": "نار هادئة أو بين الهادئة والمتوسطة: سخّن المقلاة مسبقًا على نار متوسطة، ثم اخفض النار قبل أن تضع فيها الفطائر. وإلا احترقت من الخارج وبقيت نيئة من الداخل."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia ; My Moroccan Food (feu moyen-doux) ; Bladi.net (feu doux)",
+   "t": "Cooking with Alia؛ My Moroccan Food (نار بين الهادئة والمتوسطة)؛ Bladi.net (نار هادئة)"
+  },
+  "secrets.10.text": {
+   "fr": "Retourne-la délicatement, avec une spatule plate, quand le dessous est bien doré : elle est friable. La harcha est cuite quand elle est dorée des deux côtés et sèche sous le doigt.",
+   "t": "اقلبها برفق بملعقة مسطحة عندما يصبح وجهها السفلي ذهبيًا جيدًا: فهي سريعة التفتت. تكون الحرشة ناضجة عندما تصبح ذهبية من الجهتين وجافة عند لمسها بالإصبع."
+  },
+  "secrets.10.source": {
+   "fr": "Amour de cuisine (retourner délicatement) ; Choumicha (spatule plate) ; Cooking with Alia",
+   "t": "Amour de cuisine (القلب برفق)؛ Choumicha (الملعقة المسطحة)؛ Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Laisse-la tiédir avant de l'ouvrir, avec un couteau bien aiguisé : trop chaude, elle s'émiette.",
+   "t": "اتركها تفتر قبل أن تشقّها بسكين حادّ جدًا: فهي تتفتت إذا كانت ساخنة جدًا."
+  },
+  "secrets.11.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Le nappage traditionnel, c'est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux.",
+   "t": "التغطية التقليدية خليط من العسل والزبدة الذائبين بمقدارين متساويين، مع بضع قطرات من ماء الزهر إن شئت."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Verser tout le lait d'un coup : selon la semoule, il en faut plus ou moins (My Moroccan Food ; Morocco World News).",
+   "t": "سكب الحليب كله دفعة واحدة: فحسب نوع السميد، قد تحتاج إلى كمية أكبر أو أقل (My Moroccan Food؛ Morocco World News)."
+  },
+  "mistakes.1": {
+   "fr": "Pétrir la pâte comme un pain : ça active le gluten et durcit les harchas (Amour de cuisine).",
+   "t": "عجن العجين كما يُعجن الخبز: فهذا ينشّط الغلوتين ويجعل الحرشة قاسية (Amour de cuisine)."
+  },
+  "mistakes.2": {
+   "fr": "Sauter le repos : la semoule n'a pas le temps de boire le lait (My Moroccan Food ; Amour de cuisine).",
+   "t": "تجاوز مرحلة الراحة: فلا يجد السميد الوقت ليتشرّب الحليب (My Moroccan Food؛ Amour de cuisine)."
+  },
+  "mistakes.3": {
+   "fr": "Faire des galettes de plus de 1 cm : la cuisson n'est plus homogène (Amour de cuisine).",
+   "t": "تشكيل فطائر يزيد سمكها على 1 سم: فلا تنضج بالتساوي (Amour de cuisine)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier l'enrobage de semoule : c'est lui qui donne la croûte croustillante (My Moroccan Food).",
+   "t": "نسيان تغليفها بالسميد: فهو الذي يمنحها القشرة المقرمشة (My Moroccan Food)."
+  },
+  "mistakes.5": {
+   "fr": "Cuire à feu vif : la harcha brûle dehors et reste crue dedans (Cooking with Alia).",
+   "t": "الطهي على نار قوية: فتحترق الحرشة من الخارج وتبقى نيئة من الداخل (Cooking with Alia)."
+  },
+  "mistakes.6": {
+   "fr": "L'ouvrir encore brûlante ou avec un couteau qui coupe mal : elle s'émiette (Cooking with Alia).",
+   "t": "شقّها وهي لا تزال ساخنة جدًا أو بسكين غير حادّ: فتتفتت (Cooking with Alia)."
+  },
+  "mistakes.7": {
+   "fr": "Remplacer la semoule par autre chose : la recette ne marche qu'avec de la semoule (Cooking with Alia).",
+   "t": "استبدال السميد بشيء آخر: فالوصفة لا تنجح إلا بالسميد (Cooking with Alia)."
+  },
+  "variants.0": {
+   "fr": "Beurre et huile : Amour de cuisine met 100 ml de beurre fondu et 50 ml d'huile pour 500 g de semoule ; Julie Andrieu 40 g de beurre fondu et 1 c. à s. d'huile pour 250 g ; Morocco World News ½ tasse de chaque pour ½ kg.",
+   "t": "بالزبدة والزيت: تستعمل Amour de cuisine زبدة ذائبة (100 مل) وزيتًا (50 مل) لكل 500 غ من السميد؛ وتستعمل Julie Andrieu زبدة ذائبة (40 غ) وزيتًا (1 ملعقة كبيرة) لكل 250 غ؛ ويستعمل Morocco World News ½ كوب من كلٍّ منهما لكل ½ كغ."
+  },
+  "variants.1": {
+   "fr": "À l'eau et sans levure, la plus simple : 400 g de semoule fine, 100 g de beurre ramolli, 50 g de sucre, ½ c. à c. de sel et ¾ de verre d'eau ; galettes de 1 cm cuites à feu doux sur poêle sèche, 5 à 10 min par face (Bladi.net).",
+   "t": "بالماء ودون خميرة، وهي الأبسط: 400 غ من السميد الرقيق، و100 غ من الزبدة الليّنة، و50 غ من السكر، و½ ملعقة صغيرة من الملح، و¾ كأس من الماء؛ فطائر سمكها 1 سم تُطهى على نار هادئة في مقلاة جافة، من 5 إلى 10 دقائق لكل وجه (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Plus croquante : moitié semoule fine, moitié semoule moyenne dans la pâte (Amour de cuisine).",
+   "t": "أكثر قرمشة: نصف سميد رقيق ونصف سميد متوسط في العجين (Amour de cuisine)."
+  },
+  "variants.3": {
+   "fr": "Une seule grande harcha : pâte plus souple (20 cl de lait pour 250 g de semoule) étalée à la main mouillée dans la poêle chaude saupoudrée de semoule moyenne, sur 1 cm au plus, semoule moyenne dessus, 8 à 10 min par face (Julie Andrieu). Wikipédia parle de harchas grandes comme un pneu de camion ; à Fès, Christopher Kimball en a mangé une presque aussi large qu'un tajine (Milk Street).",
+   "t": "حرشة واحدة كبيرة: عجين أكثر ليونة (20 سنتيلتر من الحليب لكل 250 غ من السميد) يُفرد باليد المبللة في المقلاة الساخنة المرشوشة بالسميد المتوسط، بسمك 1 سم على الأكثر، ويُرش فوقه السميد المتوسط، ثم يُطهى من 8 إلى 10 دقائق لكل وجه (Julie Andrieu). وتتحدث Wikipédia عن حرشات كبيرة بحجم إطار شاحنة؛ وفي فاس، أكل Christopher Kimball حرشة تكاد تكون بعرض طاجين (Milk Street)."
+  },
+  "variants.4": {
+   "fr": "Au four : pâte à l'huile et au lait chaud, un peu coulante, étalée dans une poêle froide beurrée et bien saupoudrée de semoule, semoule et petits morceaux de beurre dessus, puis enfournée ; ni température ni durée données (Lalla Moulati, qui l'attribue à Choumicha).",
+   "t": "في الفرن: عجين بالزيت والحليب الساخن، سائل قليلًا، يُفرد في مقلاة باردة مدهونة بالزبدة ومرشوشة جيدًا بالسميد، ويوضع فوقه سميد وقطع صغيرة من الزبدة، ثم يُدخل الفرن؛ دون ذكر لدرجة الحرارة ولا للمدة (Lalla Moulati، التي تنسبها إلى Choumicha)."
+  },
+  "variants.5": {
+   "fr": "Farcie : pâte à la levure fraîche (beurre et huile, lait et eau, repos de 30 min) ; chaque boule est creusée, garnie de jben, d'olives noires et de thym, refermée, aplatie puis dorée à la poêle (Morocco World News).",
+   "t": "محشوة: عجين بخميرة الخبز الطرية (زبدة وزيت، وحليب وماء، وراحة 30 دقيقة)؛ تُجوَّف كل كرة وتُحشى بالجبن الطري والزيتون الأسود والزعتر، ثم تُغلق وتُسطّح وتُحمّر في المقلاة (Morocco World News)."
+  },
+  "variants.6": {
+   "fr": "Salée au zaatar et aux olives : sans sucre, avec 3 c. à s. de zaatar, 2 c. à s. d'olives noires hachées et 1 c. à c. de sel pour 250 g de semoule (My Moroccan Food). Nargisse Benkabbou la dit aussi sucrée ou salée, parfumée ou fourrée de fruits secs, de viande ou d'herbes.",
+   "t": "مالحة بالزعتر والزيتون: دون سكر، مع 3 ملاعق كبيرة من الزعتر و2 ملعقة كبيرة من الزيتون الأسود المفروم و1 ملعقة صغيرة من الملح لكل 250 غ من السميد (My Moroccan Food). وتقول Nargisse Benkabbou إنها تُحضَّر أيضًا حلوة أو مالحة، معطّرة أو محشوة بالفواكه الجافة أو اللحم أو الأعشاب."
+  },
+  "variants.7": {
+   "fr": "Au babeurre ou au yaourt : dans le Rif, du babeurre ou du yaourt allongé d'eau remplace le lait (Wikipédia) ; Milk Street fait sa version au yaourt.",
+   "t": "بمخيض اللبن أو الزبادي: في الريف، يحلّ مخيض اللبن أو الزبادي المخفف بالماء محل الحليب (Wikipédia)؛ ويحضّر Milk Street نسخته بالزبادي."
+  },
+  "variants.8": {
+   "fr": "Avec une pincée de levure boulangère en plus de la levure chimique (Amour de cuisine).",
+   "t": "مع رشة من خميرة الخبز إضافةً إلى الخميرة الكيميائية (Amour de cuisine)."
+  },
+  "variants.9": {
+   "fr": "Aux graines de fenouil concassées, au cumin, à la coriandre ou aux herbes séchées (Julie Andrieu).",
+   "t": "ببذور الشمر المجروشة، أو بالكمون، أو بالكزبرة، أو بالأعشاب المجففة (Julie Andrieu)."
+  },
+  "variants.10": {
+   "fr": "À Khénifra, la harcha du ftour se distingue : elle est préparée avec des plantes médicinales (Hespress).",
+   "t": "في خنيفرة، تتميز حرشة الفطور: فهي تُحضَّر بالنباتات الطبية (Hespress)."
+  },
+  "variants.11": {
+   "fr": "En sandwich, fourrée de fromage ou de viande confite (Wikipédia).",
+   "t": "في سندويتش، محشوة بالجبن أو باللحم المحفوظ في دهنه (Wikipédia)."
+  }
+ }
+}

@@ -1,0 +1,434 @@
+{
+ "_slug": "kefta-poele",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Kefta à la poêle",
+   "t": "Pan-fried kefta"
+  },
+  "darija": {
+   "fr": "Kefta",
+   "t": "Kefta"
+  },
+  "tagline": {
+   "fr": "De la viande hachée aux herbes, au cumin et au paprika, en petites galettes dorées à la poêle : la kefta marocaine, prête en 30 minutes, avec du khobz et une salade fraîche.",
+   "t": "Minced meat with herbs, cumin and paprika, shaped into small patties and browned in a frying pan: Moroccan kefta, ready in 30 minutes, with khobz and a fresh salad."
+  },
+  "region": {
+   "fr": "Maroc. La kefta y est une institution : chaque famille sait où acheter et manger la meilleure, souvent dans les faubourgs et les petites villes, chez les bouchers qui la grillent et la servent sur place (My Moroccan Food). Aucune source lue ne donne de région d'origine précise.",
+   "t": "Morocco. Kefta is an institution there: every family knows where to buy and eat the best, often on the outskirts of towns and in small towns, at butchers who grill it and serve it on the spot (My Moroccan Food). None of the sources read gives a precise region of origin."
+  },
+  "occasion": {
+   "fr": "Dîner rapide de semaine, pour les soirs de fatigue. Au Maroc, on mange aussi la kefta grillée chez le boucher, avec un thé à la menthe bien sucré (My Moroccan Food).",
+   "t": "A quick weeknight dinner, for evenings when you are tired. In Morocco, people also eat grilled kefta at the butcher's, with very sweet mint tea (My Moroccan Food)."
+  },
+  "img_alt": {
+   "fr": "Boulettes de kefta cuites, sur une assiette, avec un pain rond et des coupelles de sauce et d'épices",
+   "t": "Cooked kefta balls on a plate, with a round loaf and small bowls of sauce and spices"
+  },
+  "serving": {
+   "fr": "Sers la kefta bien chaude, dès la sortie de la poêle (Cooking With Alia ; Choumicha). Au Maroc, on la mange avec du pain (Choumicha ; Cooking With Alia), du thé à la menthe (Choumicha ; Cooking With Alia ; My Moroccan Food) et une salade fraîche : tomates et concombre coupés tout petits (Cooking With Alia ; My Moroccan Food, pour qui c'est la salade la plus courante à côté des grillades), ou tomates, oignon et poivron vert (Choumicha). Lalla Moulati en fait aussi des sandwichs avec de la laitue. Restes : au frigo dans les 2 heures, et à manger dans les 2 jours ; réchauffe-les une seule fois, jusqu'à ce qu'ils soient brûlants au centre (FSA). Ton frigo doit être à 4 °C dans sa zone la plus froide (Anses).",
+   "t": "Serve the kefta piping hot, straight from the pan (Cooking With Alia; Choumicha). In Morocco, it is eaten with bread (Choumicha; Cooking With Alia), mint tea (Choumicha; Cooking With Alia; My Moroccan Food) and a fresh salad: finely diced tomatoes and cucumber (Cooking With Alia; My Moroccan Food, for whom it is the most common salad alongside grilled meats), or tomatoes, onion and green pepper (Choumicha). Lalla Moulati also uses it in sandwiches with lettuce. Leftovers: into the fridge within 2 hours, and eat within 2 days; reheat them only once, until they are steaming hot in the centre (FSA). Your fridge should be at 4 °C in its coldest part (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "La kefta",
+   "t": "The kefta"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+   "t": "halal minced meat (beef, lamb or a mix of both)"
+  },
+  "ing.viande.note": {
+   "fr": "pas trop maigre : 15 à 20 % de gras",
+   "t": "not too lean: 15 to 20% fat"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper, puis à presser pour enlever le jus",
+   "t": "to be grated, then squeezed to remove the juice"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.menthe.name": {
+   "fr": "grande feuille de menthe",
+   "t": "large mint leaf"
+  },
+  "ing.menthe.pl": {
+   "fr": "grandes feuilles de menthe",
+   "t": "large mint leaves"
+  },
+  "ing.menthe.note": {
+   "fr": "à hacher",
+   "t": "to be chopped"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.piment.name": {
+   "fr": "de piment de Cayenne",
+   "t": "cayenne pepper"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson et service",
+   "t": "Cooking and serving"
+  },
+  "ing.huile.name": {
+   "fr": "huile",
+   "t": "oil"
+  },
+  "ing.huile.note": {
+   "fr": "un filet, pour la poêle",
+   "t": "a drizzle, for the pan"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "khobz (Moroccan bread)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour servir",
+   "t": "to serve"
+  },
+  "equipment.0": {
+   "fr": "Une poêle-gril en fonte, ou une grande poêle épaisse",
+   "t": "A cast-iron griddle pan, or a large heavy frying pan"
+  },
+  "equipment.1": {
+   "fr": "Un grand saladier",
+   "t": "A large mixing bowl"
+  },
+  "equipment.2": {
+   "fr": "Une râpe",
+   "t": "A grater"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau pour les herbes",
+   "t": "A chopping board and a knife for the herbs"
+  },
+  "equipment.4": {
+   "fr": "Une assiette pour la kefta crue, et une autre, propre, pour la kefta cuite",
+   "t": "A plate for the raw kefta, and another, clean one for the cooked kefta"
+  },
+  "equipment.5": {
+   "fr": "Une spatule",
+   "t": "A spatula"
+  },
+  "equipment.6": {
+   "fr": "Un thermomètre de cuisson, si tu en as un",
+   "t": "A cooking thermometer, if you have one"
+  },
+  "steps.0.title": {
+   "fr": "Râpe l'oignon",
+   "t": "Grate the onion"
+  },
+  "steps.0.text": {
+   "fr": "Épluche {{oignon:full}}, puis râpe l'oignon dans un bol. Prends la pulpe dans ta main et presse-la au-dessus de l'évier pour enlever le jus.",
+   "t": "Peel {{oignon:full}}, then grate it into a bowl. Take the pulp in your hand and squeeze it over the sink to remove the juice."
+  },
+  "steps.1.title": {
+   "fr": "Lave et hache les herbes",
+   "t": "Wash and chop the herbs"
+  },
+  "steps.1.text": {
+   "fr": "Lave le persil, la coriandre et la menthe, puis sèche-les bien. Hache-les finement : il te faut {{persil}} de persil, {{coriandre}} de coriandre et {{menthe:full}}.",
+   "t": "Wash the parsley, coriander and mint, then dry them well. Chop them finely: you need {{persil}} parsley, {{coriandre}} coriander and {{menthe:full}}."
+  },
+  "steps.1.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.1.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.2.title": {
+   "fr": "Assaisonne la viande",
+   "t": "Season the meat"
+  },
+  "steps.2.text": {
+   "fr": "Mets {{viande}} de viande hachée dans un grand saladier. Ajoute l'oignon râpé, les herbes hachées, {{paprika}} de paprika, {{cumin}} de cumin, {{sel}} de sel, {{poivre}} de poivre et, si tu veux, {{piment}} de piment de Cayenne.",
+   "t": "Put {{viande}} minced meat in a large mixing bowl. Add the grated onion, the chopped herbs, {{paprika}} paprika, {{cumin}} cumin, {{sel}} salt, {{poivre}} pepper and, if you like, {{piment}} of cayenne pepper."
+  },
+  "steps.3.title": {
+   "fr": "Mélange à la main",
+   "t": "Mix by hand"
+  },
+  "steps.3.text": {
+   "fr": "Mélange avec les mains jusqu'à ce que les herbes et les épices soient bien réparties dans la viande.",
+   "t": "Mix with your hands until the herbs and spices are evenly distributed through the meat."
+  },
+  "steps.3.tip": {
+   "fr": "Tu as 30 minutes de plus ? Couvre le saladier et mets-le au frigo : les herbes et les épices parfument mieux la viande (Cooking With Alia ; Choumicha).",
+   "t": "Got an extra 30 minutes? Cover the bowl and put it in the fridge: the herbs and spices will flavour the meat better (Cooking With Alia; Choumicha)."
+  },
+  "steps.4.title": {
+   "fr": "Façonne les galettes",
+   "t": "Shape the patties"
+  },
+  "steps.4.text": {
+   "fr": "Prends un peu de viande, roule-la en boulette, puis aplatis-la entre tes paumes en une petite galette fine, de moins de 1 cm d'épaisseur. Fais-les toutes de la même taille : fines, elles cuisent vite à la poêle. Tu peux aussi former des doigts, comme de petits boudins.",
+   "t": "Take a little meat, roll it into a ball, then flatten it between your palms into a small, thin patty, less than 1 cm thick. Make them all the same size: when thin, they cook quickly in the pan. You can also shape fingers, like small sausages."
+  },
+  "steps.4.tip": {
+   "fr": "Mouille-toi les mains pour façonner : la viande colle moins (Taste of Maroc, Christine Benlafquih et Nada Kiffa ; Alia Al Kasimi, dans sa recette publiée par Femmes du Maroc).",
+   "t": "Wet your hands for shaping: the meat sticks less (Taste of Maroc, Christine Benlafquih and Nada Kiffa; Alia Al Kasimi, in her recipe published by Femmes du Maroc)."
+  },
+  "steps.5.title": {
+   "fr": "Lave-toi les mains",
+   "t": "Wash your hands"
+  },
+  "steps.5.text": {
+   "fr": "Pose les galettes sur une assiette. Lave-toi les mains au savon : tu viens de toucher de la viande crue.",
+   "t": "Put the patties on a plate. Wash your hands with soap: you have just touched raw meat."
+  },
+  "steps.6.title": {
+   "fr": "Chauffe la poêle",
+   "t": "Heat the pan"
+  },
+  "steps.6.text": {
+   "fr": "Mets la poêle sur feu moyen avec un filet d'{{huile}}. Attends qu'elle soit bien chaude avant d'y poser la viande.",
+   "t": "Put the pan over medium heat with a drizzle of {{huile}}. Wait until it is very hot before adding the meat."
+  },
+  "steps.7.title": {
+   "fr": "Fais dorer les deux côtés",
+   "t": "Brown both sides"
+  },
+  "steps.7.text": {
+   "fr": "Pose les galettes dans la poêle chaude. Laisse dorer un côté quelques minutes, puis retourne-les et fais dorer l'autre côté. Si tout ne tient pas dans la poêle, cuis en plusieurs fois.",
+   "t": "Lay the patties in the hot pan. Let one side brown for a few minutes, then turn them over and brown the other side. If they do not all fit in the pan, cook them in batches."
+  },
+  "steps.7.tip": {
+   "fr": "Pour des doigts de kefta sur une poêle-gril, Alia compte 3 à 4 minutes de chaque côté, à feu moyen. Des galettes plus épaisses demandent plus longtemps : elle compte 8 minutes par côté pour ses gros burgers de dinde (Cooking With Alia).",
+   "t": "For kefta fingers on a griddle pan, Alia allows 3 to 4 minutes per side, over medium heat. Thicker patties take longer: she allows 8 minutes per side for her big turkey burgers (Cooking With Alia)."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie la cuisson à cœur",
+   "t": "Check it is cooked through"
+  },
+  "steps.8.text": {
+   "fr": "Coupe la plus grosse galette en deux. Il ne doit plus rester de rose au centre, et de la vapeur doit sortir du milieu. Avec un thermomètre, il faut au moins 70 °C au cœur. Pas encore cuit ? Remets quelques minutes et vérifie encore.",
+   "t": "Cut the biggest patty in half. There must be no pink left in the centre, and steam must come out of the middle. With a thermometer, the centre must reach at least 70 °C. Not cooked yet? Give it a few more minutes and check again."
+  },
+  "steps.8.tip": {
+   "fr": "La FSA précise : 70 °C au cœur pendant 2 minutes, ou 75 °C pendant 30 secondes. Ensuite, retire la kefta : trop cuite, elle devient sèche (Cooking With Alia).",
+   "t": "The FSA specifies: 70 °C in the centre for 2 minutes, or 75 °C for 30 seconds. Then take the kefta off the heat: overcooked, it becomes dry (Cooking With Alia)."
+  },
+  "steps.9.title": {
+   "fr": "Change d'assiette",
+   "t": "Switch to a clean plate"
+  },
+  "steps.9.text": {
+   "fr": "Mets la kefta cuite dans une assiette propre, jamais dans celle qui a porté la viande crue.",
+   "t": "Put the cooked kefta on a clean plate, never on the one that held the raw meat."
+  },
+  "steps.10.title": {
+   "fr": "Sers tout de suite",
+   "t": "Serve straight away"
+  },
+  "steps.10.text": {
+   "fr": "Sers bien chaud, avec du {{khobz}} et une salade fraîche.",
+   "t": "Serve piping hot, with {{khobz}} and a fresh salad."
+  },
+  "steps.10.tip": {
+   "fr": "La salade de tomates et de concombre est la salade marocaine la plus courante à côté des grillades (My Moroccan Food). Choumicha sert sa kefta avec une salade de tomates, d'oignon et de poivron vert.",
+   "t": "Tomato and cucumber salad is the most common Moroccan salad alongside grilled meats (My Moroccan Food). Choumicha serves her kefta with a salad of tomatoes, onion and green pepper."
+  },
+  "secrets.0.text": {
+   "fr": "La kefta marocaine est très parfumée : beaucoup d'herbes fraîches (persil, coriandre, menthe) avec le cumin et le paprika.",
+   "t": "Moroccan kefta is highly aromatic: plenty of fresh herbs (parsley, coriander, mint) with cumin and paprika."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Cooking With Alia, n° 664 ; Choumicha, brochettes de boulettes d'agneau (n° 1120)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Cooking With Alia, no. 664; Choumicha, lamb meatball skewers (no. 1120)"
+  },
+  "secrets.1.text": {
+   "fr": "Prends une viande pas trop maigre : 15 à 20 % de gras.",
+   "t": "Choose meat that is not too lean: 15 to 20% fat."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food ; Mama's Lebanese Kitchen, kafta libanaise (bœuf à 20 % de gras)",
+   "t": "My Moroccan Food; Mama's Lebanese Kitchen, Lebanese kafta (beef with 20% fat)"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe l'oignon, puis presse-le pour enlever son jus avant de le mêler à la viande.",
+   "t": "Grate the onion, then squeeze it to remove its juice before mixing it into the meat."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking With Alia, burger marocain n° 182 (oignon râpé et pressé) ; Mama's Lebanese Kitchen, kafta (oignon mixé puis égoutté) ; oignon râpé aussi chez My Moroccan Food, Cooking With Alia n° 664 et Choumicha n° 467",
+   "t": "Cooking With Alia, Moroccan burger no. 182 (onion grated and squeezed); Mama's Lebanese Kitchen, kafta (onion blended then drained); grated onion also in My Moroccan Food, Cooking With Alia no. 664 and Choumicha no. 467"
+  },
+  "secrets.3.text": {
+   "fr": "Si tu as le temps, laisse reposer la kefta assaisonnée 30 minutes au frais, couverte : les herbes et les épices parfument la viande.",
+   "t": "If you have time, leave the seasoned kefta to rest for 30 minutes in the fridge, covered: the herbs and spices flavour the meat."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking With Alia, n° 664 et n° 453 ; Choumicha, brochettes de kefta et sa salade marocaine (n° 467)",
+   "t": "Cooking With Alia, no. 664 and no. 453; Choumicha, kefta skewers and their Moroccan salad (no. 467)"
+  },
+  "secrets.4.text": {
+   "fr": "La même kefta se façonne en doigts, en galettes ou en boulettes.",
+   "t": "The same kefta can be shaped into fingers, patties or balls."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia, n° 453 ; Lalla Moulati (boulettes ou pièces ovales) ; Mama's Lebanese Kitchen (galettes)",
+   "t": "Cooking With Alia, no. 453; Lalla Moulati (balls or oval pieces); Mama's Lebanese Kitchen (patties)"
+  },
+  "secrets.5.text": {
+   "fr": "Pose la viande dans une poêle déjà bien chaude, avec juste un peu de matière grasse.",
+   "t": "Put the meat into a pan that is already very hot, with just a little fat."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia, n° 157 et n° 182 ; Lalla Moulati (poêle chaude avec un peu d'huile, cuisson des deux côtés)",
+   "t": "Cooking With Alia, no. 157 and no. 182; Lalla Moulati (hot pan with a little oil, cooked on both sides)"
+  },
+  "secrets.6.text": {
+   "fr": "Sur une poêle-gril, Alia compte 3 à 4 minutes de chaque côté pour des doigts de kefta, à feu moyen.",
+   "t": "On a griddle pan, Alia allows 3 to 4 minutes per side for kefta fingers, over medium heat."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia, n° 664",
+   "t": "Cooking With Alia, no. 664"
+  },
+  "secrets.7.text": {
+   "fr": "Ne la cuis pas plus que nécessaire : trop cuite, la kefta devient sèche.",
+   "t": "Do not cook it longer than necessary: overcooked, kefta becomes dry."
+  },
+  "secrets.7.source": {
+   "fr": "Cooking With Alia, n° 453 et n° 157 ; Femmes du Maroc (recette d'Alia Al Kasimi)",
+   "t": "Cooking With Alia, no. 453 and no. 157; Femmes du Maroc (Alia Al Kasimi's recipe)"
+  },
+  "secrets.8.text": {
+   "fr": "Un thermomètre de cuisson propre permet de vérifier la cuisson : 70 °C au cœur. Lave bien la sonde après chaque usage.",
+   "t": "A clean cooking thermometer lets you check that it is cooked: 70 °C in the centre. Wash the probe well after each use."
+  },
+  "secrets.8.source": {
+   "fr": "FSA (Royaume-Uni), « Cooking your food » (70 °C pendant 2 minutes, sonde à laver) ; Anses, article sur les E. coli (2022)",
+   "t": "FSA (United Kingdom), “Cooking your food” (70 °C for 2 minutes, probe to be washed); Anses, article on E. coli (2022)"
+  },
+  "secrets.9.text": {
+   "fr": "Les recettes de kefta de Choumicha, de Cooking With Alia et de My Moroccan Food n'ont ni œuf ni chapelure.",
+   "t": "The kefta recipes from Choumicha, Cooking With Alia and My Moroccan Food contain neither egg nor breadcrumbs."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha n° 467, 771, 943 et 1120 ; Cooking With Alia n° 664 et 453 ; My Moroccan Food",
+   "t": "Choumicha nos. 467, 771, 943 and 1120; Cooking With Alia nos. 664 and 453; My Moroccan Food"
+  },
+  "secrets.10.text": {
+   "fr": "Au Maroc, beaucoup de bouchers grillent la kefta sur place et la servent avec un thé à la menthe très sucré.",
+   "t": "In Morocco, many butchers grill kefta on the spot and serve it with very sweet mint tea."
+  },
+  "secrets.10.source": {
+   "fr": "My Moroccan Food ; Choumicha (n° 943 : avec du pain et du thé à la menthe)",
+   "t": "My Moroccan Food; Choumicha (no. 943: with bread and mint tea)"
+  },
+  "mistakes.0": {
+   "fr": "Servir la kefta encore rosée au centre : la viande hachée doit être cuite à cœur (70 °C), surtout pour les jeunes enfants, les femmes enceintes, les personnes âgées et les personnes immunodéprimées (Anses ; FSA, pour qui la viande hachée doit être cuite jusqu'au centre et les burgers ne doivent jamais être servis rosés à la maison).",
+   "t": "Serving kefta that is still pink in the centre: minced meat must be cooked right through (70 °C), especially for young children, pregnant women, elderly people and people with weakened immune systems (Anses; FSA, according to which minced meat must be cooked to the centre and burgers must never be served pink at home)."
+  },
+  "mistakes.1": {
+   "fr": "Remettre la kefta cuite dans l'assiette de la viande crue, ou hacher les herbes sur la planche de la viande (Anses).",
+   "t": "Putting the cooked kefta back on the raw meat plate, or chopping the herbs on the board used for the meat (Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier de se laver les mains au savon après avoir touché la viande crue (Anses).",
+   "t": "Forgetting to wash your hands with soap after touching the raw meat (Anses)."
+  },
+  "mistakes.3": {
+   "fr": "Prendre une viande trop maigre : My Moroccan Food demande 15 à 20 % de gras.",
+   "t": "Using meat that is too lean: My Moroccan Food asks for 15 to 20% fat."
+  },
+  "mistakes.4": {
+   "fr": "Garder tout le jus de l'oignon râpé (Cooking With Alia ; Mama's Lebanese Kitchen).",
+   "t": "Keeping all the juice from the grated onion (Cooking With Alia; Mama's Lebanese Kitchen)."
+  },
+  "mistakes.5": {
+   "fr": "Poser la viande dans une poêle encore froide (Cooking With Alia ; Lalla Moulati).",
+   "t": "Putting the meat into a pan that is still cold (Cooking With Alia; Lalla Moulati)."
+  },
+  "mistakes.6": {
+   "fr": "Trop cuire la kefta : elle sèche (Cooking With Alia).",
+   "t": "Overcooking the kefta: it dries out (Cooking With Alia)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante avant de les mettre au frigo (Anses ; FSA).",
+   "t": "Leaving leftovers at room temperature for more than 2 hours before putting them in the fridge (Anses; FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Ranger la viande hachée crue en haut du frigo : mets-la en bas, dans son emballage ou une boîte fermée, pour qu'elle ne coule pas sur le reste (FSA).",
+   "t": "Storing raw minced meat at the top of the fridge: put it at the bottom, in its packaging or a closed container, so that it cannot drip onto other food (FSA)."
+  },
+  "variants.0": {
+   "fr": "Kefta d'agneau (Cooking With Alia n° 453 ; Choumicha n° 1120 ; Bladi.net) ou de veau (Choumicha n° 467 ; Nada Kiffa, Taste of Maroc, qui admet bœuf, veau ou agneau, seuls ou mêlés).",
+   "t": "Lamb kefta (Cooking With Alia no. 453; Choumicha no. 1120; Bladi.net) or veal kefta (Choumicha no. 467; Nada Kiffa, Taste of Maroc, who allows beef, veal or lamb, alone or mixed)."
+  },
+  "variants.1": {
+   "fr": "Avec du gingembre et de la coriandre moulue : Cooking With Alia met ½ c. à c. de gingembre et 1 c. à c. de coriandre en poudre pour 500 g de viande ; Choumicha en met aussi (n° 943).",
+   "t": "With ginger and ground coriander: Cooking With Alia uses ½ tsp ginger and 1 tsp ground coriander for 500 g meat; Choumicha also adds them (no. 943)."
+  },
+  "variants.2": {
+   "fr": "Avec 3 c. à s. d'huile d'olive mélangées à la viande (Cooking With Alia, n° 664 et n° 453).",
+   "t": "With 3 tbsp olive oil mixed into the meat (Cooking With Alia, no. 664 and no. 453)."
+  },
+  "variants.3": {
+   "fr": "Avec une pointe de cannelle et de la marjolaine (Choumicha, n° 771 et n° 943 ; cannelle aussi chez Taste of Maroc, en option, et chez Lalla Moulati en 2014 ; marjolaine séchée aussi chez Nada Kiffa, Taste of Maroc).",
+   "t": "With a hint of cinnamon and some marjoram (Choumicha, no. 771 and no. 943; cinnamon also in Taste of Maroc, as an option, and in Lalla Moulati in 2014; dried marjoram also from Nada Kiffa, Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Avec de l'ail (Choumicha n° 943 ; Bladi.net).",
+   "t": "With garlic (Choumicha no. 943; Bladi.net)."
+  },
+  "variants.5": {
+   "fr": "Version de Bladi.net : agneau, ail, ras-el-hanout et un œuf, en boulettes sur des brochettes, sous le gril du four, 6 minutes de chaque côté.",
+   "t": "Bladi.net's version: lamb, garlic, ras el hanout and an egg, shaped into balls on skewers, under the oven grill, 6 minutes per side."
+  },
+  "variants.6": {
+   "fr": "Version de Lalla Moulati : fenouil (besbes) moulu, coriandre sèche, cumin, persil, piment fort (soudania) et petits morceaux de beurre.",
+   "t": "Lalla Moulati's version: ground fennel (besbes), dried coriander, cumin, parsley, hot chilli (soudania) and small pieces of butter."
+  },
+  "variants.7": {
+   "fr": "En brochettes grillées sur la braise, la façon la plus classique (Choumicha ; Cooking With Alia ; My Moroccan Food).",
+   "t": "As skewers grilled over embers, the most classic way (Choumicha; Cooking With Alia; My Moroccan Food)."
+  },
+  "variants.8": {
+   "fr": "Avec une sauce au yaourt, au persil, à la menthe et au citron (Cooking With Alia n° 453 ; Femmes du Maroc).",
+   "t": "With a yoghurt, parsley, mint and lemon sauce (Cooking With Alia no. 453; Femmes du Maroc)."
+  },
+  "variants.9": {
+   "fr": "En sandwich, avec de la laitue (Lalla Moulati).",
+   "t": "In a sandwich, with lettuce (Lalla Moulati)."
+  },
+  "variants.10": {
+   "fr": "Version libanaise (kafta) : bœuf, oignon, persil et sept-épices ; Hadia la sert avec du taboulé et du houmous (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
+   "t": "Lebanese version (kafta): beef, onion, parsley and seven-spice mix; Hadia serves it with tabbouleh and hummus (Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine)."
+  }
+ }
+}

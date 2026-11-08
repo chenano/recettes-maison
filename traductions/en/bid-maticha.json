@@ -1,0 +1,402 @@
+{
+ "_slug": "bid-maticha",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Œufs à la tomate à la marocaine",
+   "t": "Moroccan eggs in tomato"
+  },
+  "darija": {
+   "fr": "Bid w maticha",
+   "t": "Bid w maticha"
+  },
+  "tagline": {
+   "fr": "Des tomates fondues à l'huile d'olive, à l'ail et au cumin, puis des œufs cuits dessus à couvert : un plat marocain que tout le monde sait cuisiner, à saucer avec du pain. Faute de recette chiffrée de la version nature, les quantités sont reconstituées d'après Choumicha et des tajines de kefta aux œufs.",
+   "t": "Tomatoes cooked down in olive oil with garlic and cumin, then eggs cooked on top under a lid: a Moroccan dish everyone knows how to make, to mop up with bread. For lack of a recipe with quantities for the plain version, the amounts are reconstructed from Choumicha and from kefta tagines with eggs."
+  },
+  "region": {
+   "fr": "Maroc : un plat que tout le monde sait cuisiner (Lalla Moulati, 2018), courant chez les étudiants, les célibataires et les gens pressés, et auquel les Marocains sont très attachés (Hespress, 2012).",
+   "t": "Morocco: a dish everyone knows how to make (Lalla Moulati, 2018), common among students, single people and people in a hurry, and one Moroccans are very attached to (Hespress, 2012)."
+  },
+  "occasion": {
+   "fr": "Dîner vite fait, quand on ne sait pas quoi préparer (Hespress, 2012) ; il se mange aussi au petit-déjeuner (Lalla Moulati, 2018). C'est aussi le repas de dépannage des étudiants pressés (Hespress, 2012).",
+   "t": "A quick dinner, when you don't know what to make (Hespress, 2012); it is also eaten at breakfast (Lalla Moulati, 2018). It is also the fallback meal of students in a hurry (Hespress, 2012)."
+  },
+  "img_alt": {
+   "fr": "Bid w maticha : œufs cuits dans une sauce tomate, servis dans un plat en terre avec du pain",
+   "t": "Bid w maticha: eggs cooked in a tomato sauce, served in an earthenware dish with bread"
+  },
+  "serving": {
+   "fr": "Bien chaud, tout de suite, dans la poêle ou le tajine posé au milieu de la table : chacun pioche avec du pain (My Moroccan Food ; Taste of Maroc). Choumicha propose du thé à la menthe à côté, comme Cooking With Alia et Taste of Maroc avec leurs tajines de kefta.",
+   "t": "Piping hot, straight away, in the frying pan or the tagine set in the middle of the table: everyone helps themselves with bread (My Moroccan Food; Taste of Maroc). Choumicha suggests mint tea alongside, as do Cooking With Alia and Taste of Maroc with their kefta tagines."
+  },
+  "ing.0.group": {
+   "fr": "Tomates et épices",
+   "t": "Tomatoes and spices"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne bien mûre",
+   "t": "very ripe medium tomato"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes bien mûres",
+   "t": "very ripe medium tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "environ 125 g chacune",
+   "t": "about 125 g each"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust to taste"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "paprika"
+  },
+  "ing.paprika.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.1.group": {
+   "fr": "Œufs et service",
+   "t": "Eggs and serving"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.oeufs.note": {
+   "fr": "un par personne",
+   "t": "one per person"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "bread (khobz)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "for mopping up the sauce"
+  },
+  "equipment.0": {
+   "fr": "Grande poêle avec couvercle (ou un tajine ; hors gaz, pose-le sur un diffuseur)",
+   "t": "Large frying pan with a lid (or a tagine; if you are not cooking on gas, set it on a heat diffuser)"
+  },
+  "equipment.1": {
+   "fr": "Planche et couteau",
+   "t": "Chopping board and knife"
+  },
+  "equipment.2": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "steps.0.title": {
+   "fr": "Lave et coupe les tomates",
+   "t": "Wash and slice the tomatoes"
+  },
+  "steps.0.text": {
+   "fr": "Rince {{tomates:full}} sous l'eau courante, puis coupe-les en rondelles.",
+   "t": "Rinse {{tomates:full}} under running water, then slice them into rounds."
+  },
+  "steps.1.title": {
+   "fr": "Hache l'ail",
+   "t": "Chop the garlic"
+  },
+  "steps.1.text": {
+   "fr": "Épluche et hache finement {{ail:full}}.",
+   "t": "Peel and finely chop {{ail:full}}."
+  },
+  "steps.2.title": {
+   "fr": "Hache les herbes",
+   "t": "Chop the herbs"
+  },
+  "steps.2.text": {
+   "fr": "Rince le persil et la coriandre sous l'eau courante, sèche-les, puis hache-les finement pour obtenir {{persil}} de persil et {{coriandre}} de coriandre. Garde-les pour la fin.",
+   "t": "Rinse the parsley and coriander under running water, dry them, then chop them finely until you have {{persil}} parsley and {{coriandre}} coriander. Set them aside for the end."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.3.title": {
+   "fr": "Garnis la poêle",
+   "t": "Fill the pan"
+  },
+  "steps.3.text": {
+   "fr": "Verse {{huile}} d'huile d'olive dans une grande poêle. Étale les rondelles de tomates, puis ajoute l'ail, {{sel}} de sel, {{cumin}} de cumin, {{paprika}} de paprika et {{poivre}} de poivre noir.",
+   "t": "Pour {{huile}} olive oil into a large frying pan. Spread out the tomato slices, then add the garlic, {{sel}} salt, {{cumin}} cumin, {{paprika}} paprika and {{poivre}} black pepper."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha cuit ses tomates aux œufs dans un tajine, sur feu doux. Hors gaz, glisse un diffuseur sous le tajine (Taste of Maroc).",
+   "t": "Choumicha cooks her tomatoes and eggs in a tagine, over low heat. If you are not cooking on gas, slip a heat diffuser under the tagine (Taste of Maroc)."
+  },
+  "steps.4.title": {
+   "fr": "Porte à ébullition",
+   "t": "Bring to the boil"
+  },
+  "steps.4.text": {
+   "fr": "Mets la poêle sur feu moyen. Dès que ça bout, couvre et baisse le feu.",
+   "t": "Put the pan over medium heat. As soon as it boils, cover and turn the heat down."
+  },
+  "steps.5.title": {
+   "fr": "Laisse fondre les tomates",
+   "t": "Let the tomatoes soften"
+  },
+  "steps.5.text": {
+   "fr": "Laisse cuire à couvert et à feu doux 10 à 15 minutes, en remuant de temps en temps, jusqu'à ce que les tomates soient fondantes.",
+   "t": "Cook, covered, over low heat for 10 to 15 minutes, stirring from time to time, until the tomatoes are meltingly soft."
+  },
+  "steps.5.tip": {
+   "fr": "Envie d'une sauce plus épaisse ? Écrase les tomates avec le dos d'une cuillère et prolonge la cuisson : My Moroccan Food compte environ 25 minutes (Taste of Maroc ; My Moroccan Food).",
+   "t": "Want a thicker sauce? Crush the tomatoes with the back of a spoon and cook for longer: My Moroccan Food allows about 25 minutes (Taste of Maroc; My Moroccan Food)."
+  },
+  "steps.6.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Taste and adjust"
+  },
+  "steps.6.text": {
+   "fr": "Goûte la sauce et ajoute un peu de sel s'il le faut.",
+   "t": "Taste the sauce and add a little salt if needed."
+  },
+  "steps.7.title": {
+   "fr": "Casse les œufs",
+   "t": "Crack in the eggs"
+  },
+  "steps.7.text": {
+   "fr": "Avec une cuillère, fais un petit creux dans la sauce pour chaque œuf. Casse doucement un œuf dans chaque creux, sans crever le jaune ({{oeufs:full}} en tout).",
+   "t": "With a spoon, make a small well in the sauce for each egg. Gently crack an egg into each well, without breaking the yolk ({{oeufs:full}} in all)."
+  },
+  "steps.8.title": {
+   "fr": "Couvre et laisse prendre",
+   "t": "Cover and leave to set"
+  },
+  "steps.8.text": {
+   "fr": "Couvre et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient pris.",
+   "t": "Cover and cook over low heat for about 5 minutes, until the whites are set."
+  },
+  "steps.8.tip": {
+   "fr": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Pour les jeunes enfants, les femmes enceintes, les personnes âgées ou fragiles, jamais d'œuf peu cuit : laisse à couvert jusqu'à ce que le jaune soit ferme (Anses ; FDA).",
+   "t": "The FDA advises cooking eggs until both the yolk and the white are firm. For young children, pregnant women, and elderly or vulnerable people, never serve lightly cooked eggs: keep the lid on until the yolk is firm (Anses; FDA)."
+  },
+  "steps.8.timer.label": {
+   "fr": "Œufs à couvert",
+   "t": "Eggs, covered"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les blancs sont-ils pris ? Pour un jaune ferme, laisse encore un peu à couvert.",
+   "t": "Are the whites set? For a firm yolk, leave it covered a little longer."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les herbes",
+   "t": "Add the herbs"
+  },
+  "steps.9.text": {
+   "fr": "Parsème {{persil}} de persil et {{coriandre}} de coriandre hachés.",
+   "t": "Scatter over {{persil}} chopped parsley and {{coriandre}} chopped coriander."
+  },
+  "steps.10.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve straight away"
+  },
+  "steps.10.text": {
+   "fr": "Sers tout de suite, bien chaud, dans la poêle, avec du {{khobz}} pour saucer.",
+   "t": "Serve immediately, piping hot, in the pan, with {{khobz}} for mopping up the sauce."
+  },
+  "steps.10.tip": {
+   "fr": "Choumicha sert son tajine de tomates aux œufs avec du thé à la menthe, comme Cooking With Alia et Taste of Maroc leurs tajines de kefta.",
+   "t": "Choumicha serves her tomato and egg tagine with mint tea, as Cooking With Alia and Taste of Maroc do with their kefta tagines."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, c'est le plat que tout le monde sait cuisiner. On le fait au petit-déjeuner comme au dîner.",
+   "t": "In Morocco, this is the dish everyone knows how to cook. It is made for breakfast as well as for dinner."
+  },
+  "secrets.0.source": {
+   "fr": "Lalla Moulati, article du 29 décembre 2018",
+   "t": "Lalla Moulati, article of 29 December 2018"
+  },
+  "secrets.1.text": {
+   "fr": "Quand on ne sait pas quoi préparer pour le dîner, beaucoup de Marocaines se tournent vers le bid w maticha. Les séries de la télévision marocaine montrent combien on y est attaché.",
+   "t": "When they don't know what to make for dinner, many Moroccan women turn to bid w maticha. Moroccan TV series show how attached people are to it."
+  },
+  "secrets.1.source": {
+   "fr": "Hespress, Fatima Zahra Zaim, 16 octobre 2012",
+   "t": "Hespress, Fatima Zahra Zaim, 16 October 2012"
+  },
+  "secrets.2.text": {
+   "fr": "Les étudiants l'appelaient « BM » : un repas rapide, cuisiné entre deux cours, presque sans mesures.",
+   "t": "Students used to call it “BM”: a quick meal, cooked between classes, with hardly any measuring."
+  },
+  "secrets.2.source": {
+   "fr": "Hespress, Latifa Baqa, 22 novembre 2012",
+   "t": "Hespress, Latifa Baqa, 22 November 2012"
+  },
+  "secrets.3.text": {
+   "fr": "Prends des tomates bien mûres.",
+   "t": "Use very ripe tomatoes."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc ; Cooking With Alia",
+   "t": "My Moroccan Food; Taste of Maroc; Cooking With Alia"
+  },
+  "secrets.4.text": {
+   "fr": "Le temps de cuisson des tomates change beaucoup selon leur maturité, leur jus et la poêle : regarde la sauce plutôt que la montre.",
+   "t": "The cooking time for the tomatoes varies a lot with their ripeness, their juice and the pan: watch the sauce rather than the clock."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Des tomates râpées, peau jetée, cuisent un peu plus vite que des tomates coupées.",
+   "t": "Grated tomatoes, skins discarded, cook a little faster than chopped tomatoes."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia (tomates râpées)",
+   "t": "Taste of Maroc; Cooking With Alia (grated tomatoes)"
+  },
+  "secrets.6.text": {
+   "fr": "Fais un petit creux pour chaque œuf et casse-le doucement, sans crever le jaune.",
+   "t": "Make a small well for each egg and crack the egg in gently, without breaking the yolk."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc",
+   "t": "My Moroccan Food; Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "À couvert, compte 4 à 5 minutes pour un blanc pris et un jaune encore coulant.",
+   "t": "With the lid on, allow 4 to 5 minutes for a set white and a still-runny yolk."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food (4 à 5 min) ; Cooking With Alia (5 min) ; Choumicha (3 à 4 min, jusqu'à ce que le blanc prenne)",
+   "t": "My Moroccan Food (4 to 5 min); Cooking With Alia (5 min); Choumicha (3 to 4 min, until the white sets)"
+  },
+  "secrets.8.text": {
+   "fr": "Des œufs beldi (fermiers), si tu en trouves.",
+   "t": "Beldi (farm) eggs, if you can find them."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Sers bien chaud, au milieu de la table : chacun pioche dans le plat avec des morceaux de pain, avec du thé à la menthe à côté.",
+   "t": "Serve piping hot, in the middle of the table: everyone dips into the dish with pieces of bread, with mint tea alongside."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Cooking With Alia",
+   "t": "Choumicha; Taste of Maroc; Cooking With Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Au Maroc, la chakchouka se fait souvent avec du poivron vert. Ici, pas de poivrons : seulement des tomates, de l'ail, des épices et des œufs.",
+   "t": "In Morocco, chakchouka is often made with green pepper. Here there are no peppers: just tomatoes, garlic, spices and eggs."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipédia FR (Chakchouka, section Maroc : avec poivron vert) ; Cooking With Alia (chekchouka au poivron vert) ; Choumicha (tajine de tomates aux œufs, sans poivrons)",
+   "t": "Wikipedia FR (Chakchouka, Morocco section: with green pepper); Cooking With Alia (chekchouka with green pepper); Choumicha (tomato and egg tagine, no peppers)"
+  },
+  "secrets.11.text": {
+   "fr": "Ne lave pas les œufs avant de les ranger : le lavage aide les microbes à entrer dans l'œuf. Garde-les toujours à la même température.",
+   "t": "Don't wash eggs before storing them: washing helps germs get into the egg. Always keep them at the same temperature."
+  },
+  "secrets.11.source": {
+   "fr": "Anses, fiche Salmonella spp. (juin 2021)",
+   "t": "Anses, Salmonella spp. fact sheet (June 2021)"
+  },
+  "secrets.12.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans des boîtes peu profondes. Mange-les dans les 3 à 4 jours, bien réchauffés (74 °C).",
+   "t": "Leftovers: into the fridge within 2 hours, in shallow containers. Eat them within 3 to 4 days, thoroughly reheated (74 °C)."
+  },
+  "secrets.12.source": {
+   "fr": "Anses (2 heures) ; FDA (3 à 4 jours, 165 °F, soit 74 °C)",
+   "t": "Anses (2 hours); FDA (3 to 4 days, 165 °F, i.e. 74 °C)"
+  },
+  "mistakes.0": {
+   "fr": "Casser les œufs dans des tomates encore crues : attends qu'elles soient fondantes (Choumicha ; My Moroccan Food).",
+   "t": "Cracking the eggs into tomatoes that are still raw: wait until they are soft (Choumicha; My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Crever les jaunes en cassant les œufs (Taste of Maroc).",
+   "t": "Breaking the yolks when cracking the eggs (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Servir un œuf peu cuit à un jeune enfant, une femme enceinte, une personne âgée ou fragile (Anses ; FDA).",
+   "t": "Serving a lightly cooked egg to a young child, a pregnant woman, or an elderly or vulnerable person (Anses; FDA)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (Anses ; FDA).",
+   "t": "Leaving leftovers out of the fridge for more than 2 hours (Anses; FDA)."
+  },
+  "mistakes.4": {
+   "fr": "Laver les œufs avant de les ranger (Anses).",
+   "t": "Washing eggs before storing them (Anses)."
+  },
+  "variants.0": {
+   "fr": "Œufs brouillés : verse les œufs battus sur les tomates et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014 ; Wikipédia FR, Chakchouka).",
+   "t": "Scrambled eggs: pour the beaten eggs over the tomatoes and stir until they are cooked (Lalla Moulati, 2014; Wikipedia FR, Chakchouka)."
+  },
+  "variants.1": {
+   "fr": "Avec de l'oignon : fais d'abord revenir un oignon haché dans l'huile, puis ajoute les tomates (Lalla Moulati, 2014 ; Wikipédia FR, qui cite aussi l'ail à la place de l'oignon).",
+   "t": "With onion: first fry a chopped onion in the oil, then add the tomatoes (Lalla Moulati, 2014; Wikipedia FR, which also mentions garlic instead of onion)."
+  },
+  "variants.2": {
+   "fr": "Au khlii : 5 minutes avant les œufs, ajoute du khlii dégraissé et émietté, avec le cumin (Choumicha : 180 g de khlii pour 4 belles tomates et 6 œufs, pour 6 personnes). Prends un khlii de viande halal.",
+   "t": "With khlii (preserved dried meat): 5 minutes before the eggs, add some khlii, fat removed and crumbled, along with the cumin (Choumicha: 180 g khlii for 4 large tomatoes and 6 eggs, serving 6 people). Use khlii made from halal meat."
+  },
+  "variants.3": {
+   "fr": "Plus relevé : une pincée de piment de Cayenne (My Moroccan Food) ou des piments (Taste of Maroc).",
+   "t": "Spicier: a pinch of cayenne pepper (My Moroccan Food) or chillies (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Sauce mijotée : tomates râpées, peau jetée, cuites 20 à 25 minutes à feu moyen en remuant, jusqu'à une sauce épaisse (Cooking With Alia). Le plat dépasse alors 30 minutes.",
+   "t": "Simmered sauce: grated tomatoes, skins discarded, cooked for 20 to 25 minutes over medium heat, stirring, until the sauce is thick (Cooking With Alia). The dish then takes more than 30 minutes."
+  },
+  "variants.5": {
+   "fr": "Avec des boulettes de kefta, on passe au tajine de kefta aux œufs (My Moroccan Food ; Cooking With Alia ; Taste of Maroc) ; avec des poivrons verts, à la chakchouka (Wikipédia FR). Ce sont deux autres recettes de l'appli.",
+   "t": "With kefta meatballs, it becomes kefta tagine with eggs (My Moroccan Food; Cooking With Alia; Taste of Maroc); with green peppers, chakchouka (Wikipedia FR). These are two other recipes in the app."
+  },
+  "variants.6": {
+   "fr": "Au four, à la façon de Lalla Moulati (2018) : tomates évidées, garnies de blanc d'œuf mélangé à de l'oignon, du persil et des épices, puis du jaune et du reste du mélange, et cuites au four ou sur la braise.",
+   "t": "In the oven, Lalla Moulati's way (2018): hollowed-out tomatoes filled with egg white mixed with onion, parsley and spices, then with the yolk and the rest of the mixture, and baked in the oven or cooked over embers."
+  }
+ }
+}

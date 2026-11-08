@@ -1,0 +1,318 @@
+{
+ "slug": "falafel",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "The Mediterranean Dish (Suzy Karadsheh, qui a grandi à Port-Saïd, en Égypte), « How to Make Falafel », 6 février 2020",
+   "url": "https://www.themediterraneandish.com/how-to-make-falafel/",
+   "ce_qu_elle_confirme": "Pois chiches secs, jamais en conserve ni cuits : sinon les falafels se désagrègent dans l'huile chaude ; trempage de 18 à 24 heures (avec un peu de bicarbonate), puis séchage ; au moins 1 heure au réfrigérateur ; levure chimique et sésame ajoutés juste avant la friture ; une cuillerée à soupe par falafel ; friture de 3 à 5 minutes, sans surcharger ; égouttage sur papier absorbant ; servis chauds, en pita avec une sauce au tahini. Le falafel viendrait d'Égypte, où il se mange partout dans la rue. robots.txt : aucun blocage."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[0].tip",
+   "actuel": "(Wikipédia en anglais ; Alphafoodie ; The Matbakh). Imad Alarnab change l'eau au moins deux fois pendant le trempage.",
+   "propose": "(Wikipédia en anglais ; Alphafoodie ; The Matbakh ; The Mediterranean Dish).",
+   "pourquoi": "Le robots.txt d'Olive magazine interdit ClaudeBot sur tout le site (« User-agent: ClaudeBot / Disallow: / », lu le 8 novembre 2026) : la page d'Imad Alarnab ne doit pas être utilisée. Ce conseil ne reposait que sur elle. The Mediterranean Dish confirme : jamais de pois chiches en conserve ni cuits.",
+   "gravite": "majeure",
+   "sources": "https://www.olivemagazine.com/robots.txt ; https://www.themediterraneandish.com/how-to-make-falafel/"
+  },
+  {
+   "champ": "steps[9].tip",
+   "actuel": "Sans thermomètre : à 180 °C, un cube de pain dore en 30 secondes (Imad Alarnab).",
+   "propose": "Sans thermomètre : plonge un petit morceau de pain dans l'huile ; s'il grésille et que l'huile bouillonne autour, elle est prête (Anissa Helou ; Taste of Beirut).",
+   "pourquoi": "Le test « cube de pain doré en 30 secondes » ne vient que d'Olive magazine (robots.txt interdit à ClaudeBot). Anissa Helou (Gulf News) : « if the oil bubbles around it, it is ready » ; Taste of Beirut : « If it starts sizzling, it is ready ».",
+   "gravite": "majeure",
+   "sources": "Gulf News (Anissa Helou) ; Taste of Beirut (archive 2017)"
+  },
+  {
+   "champ": "steps[9].tip",
+   "actuel": "Si tu peux le faire sans danger, coupe le feu et pose le couvercle. Sinon, sors, ferme la porte et appelle les pompiers (gouvernement du Québec ; London Fire Brigade).",
+   "propose": "Si tu peux le faire sans danger, coupe le feu et pose sur le récipient un couvercle de la bonne taille (gouvernement du Québec). Puis sors de la pièce, ferme la porte et appelle les pompiers, même si le feu semble éteint (London Fire Brigade ; gouvernement du Québec).",
+   "pourquoi": "Sécurité : le Québec demande d'appeler les pompiers « même si le feu semble éteint » et un couvercle « de dimension appropriée » ; la London Fire Brigade dit de quitter la pièce, fermer la porte et appeler les secours. Le texte actuel ne fait appeler les pompiers que si l'on n'a pas pu poser le couvercle.",
+   "gravite": "majeure",
+   "sources": "quebec.ca (mise à jour 10 octobre 2025) ; london-fire.gov.uk « Pan fires »"
+  },
+  {
+   "champ": "secrets[5].text",
+   "actuel": "un cube de pain doit y dorer en 30 secondes.",
+   "propose": "un petit morceau de pain doit y grésiller, entouré de bulles.",
+   "pourquoi": "Test d'Olive magazine (robots.txt interdit à ClaudeBot) remplacé par celui d'Anissa Helou et de Taste of Beirut.",
+   "gravite": "majeure",
+   "sources": "Gulf News (Anissa Helou) ; Taste of Beirut"
+  },
+  {
+   "champ": "secrets[5].source",
+   "actuel": "Alphafoodie ; Imad Alarnab (Olive magazine)",
+   "propose": "Alphafoodie (180 °C) ; Anissa Helou et Taste of Beirut (test du pain)",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt).",
+   "gravite": "majeure",
+   "sources": "https://www.olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "secrets[8].source",
+   "actuel": " ; Imad Alarnab, lui, les met dans la pâte (Olive magazine)",
+   "propose": "",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt).",
+   "gravite": "majeure",
+   "sources": "https://www.olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "mistakes[7]",
+   "actuel": " ; Imad Alarnab)",
+   "propose": ")",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt) ; la règle du tiers reste sourcée par la London Fire Brigade.",
+   "gravite": "majeure",
+   "sources": "london-fire.gov.uk « Deep fat fryers »"
+  },
+  {
+   "champ": "serving",
+   "actuel": "(Wikipédia en arabe) ; Imad Alarnab les saupoudre de sumac.",
+   "propose": "(Wikipédia en arabe), qui ajoute un peu de sumac et de sésame sur les falafels après la friture.",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt). Wikipédia en arabe (section Syrie) : sumac et sésame ajoutés sur le falafel après la friture.",
+   "gravite": "majeure",
+   "sources": "https://ar.wikipedia.org/wiki/فلافل"
+  },
+  {
+   "champ": "variants[2]",
+   "actuel": "Façon syrienne d'Imad Alarnab : sans herbes fraîches, avec les graines de sésame dans la pâte, et un peu de sumac au moment de servir (Olive magazine). Wikipédia en arabe décrit aussi la falafel syrienne aux pois chiches seuls, saupoudrée de sumac et de sésame après la friture.",
+   "propose": "Façon syrienne : aux pois chiches seuls, avec un peu de sumac et de sésame sur les falafels après la friture (Wikipédia en arabe).",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt) ; seule la partie Wikipédia en arabe est gardée. Corrige aussi « la falafel » (le mot est masculin).",
+   "gravite": "majeure",
+   "sources": "https://ar.wikipedia.org/wiki/فلافل"
+  },
+  {
+   "champ": "sources[4].name",
+   "actuel": "Olive magazine, chef Imad Alarnab (Imad's Syrian Kitchen), « Syrian falafel »",
+   "propose": "The Mediterranean Dish (Suzy Karadsheh, qui a grandi à Port-Saïd, en Égypte), « How to Make Falafel », 6 février 2020",
+   "pourquoi": "Retrait d'Olive magazine : son robots.txt interdit ClaudeBot sur tout le site (lu le 8 novembre 2026). L'entrée est remplacée par une source vérifiée qui confirme les mêmes points.",
+   "gravite": "majeure",
+   "sources": "https://www.olivemagazine.com/robots.txt ; https://www.themediterraneandish.com/how-to-make-falafel/"
+  },
+  {
+   "champ": "sources[4].url",
+   "actuel": "https://www.olivemagazine.com/recipes/chef-recipes/falafel/",
+   "propose": "https://www.themediterraneandish.com/how-to-make-falafel/",
+   "pourquoi": "Même raison : lien d'Olive magazine retiré.",
+   "gravite": "majeure",
+   "sources": "https://www.olivemagazine.com/robots.txt ; https://www.themediterraneandish.com/how-to-make-falafel/"
+  },
+  {
+   "champ": "sources[4].used_for",
+   "actuel": "Falafels syriens aux pois chiches seuls, pour 4 en en-cas : 200 g de pois chiches secs trempés une nuit (eau changée au moins deux fois), 3 gousses d'ail, ½ oignon, 1 c. à c. de cumin, 2 c. à c. de coriandre en poudre, ¼ c. à c. de bicarbonate, 4 c. à s. de sésame, sel ; ail et oignon mixés d'abord, puis pois chiches en pâte assez lisse ; casserole remplie au tiers au plus ; huile à 180 °C ou cube de pain doré en 30 secondes ; boulettes façonnées à la cuillère ; 4 minutes jusqu'à bien dorés ; sumac au service ; sauce au tahini.",
+   "propose": "Ajoutée à la contre-vérification, à la place d'Olive magazine (son robots.txt interdit ClaudeBot) : pois chiches secs, jamais en conserve ni cuits, sinon les falafels se désagrègent dans l'huile chaude ; trempage de 18 à 24 heures ; au moins 1 heure au réfrigérateur ; levure chimique et sésame juste avant la friture ; friture de 3 à 5 minutes, sans surcharger ; servis chauds, en pita avec une sauce au tahini.",
+   "pourquoi": "Même raison : résumé de la page d'Olive magazine retiré.",
+   "gravite": "majeure",
+   "sources": "https://www.olivemagazine.com/robots.txt ; https://www.themediterraneandish.com/how-to-make-falafel/"
+  },
+  {
+   "champ": "sources[5].name",
+   "actuel": "Country & Townhouse, « 3 Syrian Recipes From Imad Alarnab »",
+   "propose": "London Fire Brigade, « Pan fires »",
+   "pourquoi": "La page de Country & Townhouse ne contient aucune recette de falafel (seulement une salade, un houmous et une moujadara) ; elle ne servait qu'à présenter Imad Alarnab, dont la recette est retirée. L'entrée est remplacée par la seconde page de la London Fire Brigade, déjà citée.",
+   "gravite": "majeure",
+   "sources": "https://www.countryandtownhouse.com/food-and-drink/syrian-recipes-imad-alarnab/ ; https://www.london-fire.gov.uk/safety/the-home/cooking/pan-fires/"
+  },
+  {
+   "champ": "sources[5].url",
+   "actuel": "https://www.countryandtownhouse.com/food-and-drink/syrian-recipes-imad-alarnab/",
+   "propose": "https://www.london-fire.gov.uk/safety/the-home/cooking/pan-fires/",
+   "pourquoi": "La page de Country & Townhouse ne contient aucune recette de falafel (seulement une salade, un houmous et une moujadara) ; elle ne servait qu'à présenter Imad Alarnab, dont la recette est retirée. L'entrée est remplacée par la seconde page de la London Fire Brigade, déjà citée.",
+   "gravite": "majeure",
+   "sources": "https://www.countryandtownhouse.com/food-and-drink/syrian-recipes-imad-alarnab/ ; https://www.london-fire.gov.uk/safety/the-home/cooking/pan-fires/"
+  },
+  {
+   "champ": "sources[5].used_for",
+   "actuel": "Vérification : Imad Alarnab est un chef syrien, installé à Londres (Imad's Syrian Kitchen).",
+   "propose": "Feu de casserole : ne pas l'attaquer soi-même ni déplacer la casserole, jamais d'eau, couper le feu si c'est sans danger, quitter la pièce, fermer la porte et appeler les secours. Remplace la page de Country & Townhouse, qui ne servait qu'à présenter Imad Alarnab.",
+   "pourquoi": "La page de Country & Townhouse ne contient aucune recette de falafel (seulement une salade, un houmous et une moujadara) ; elle ne servait qu'à présenter Imad Alarnab, dont la recette est retirée. L'entrée est remplacée par la seconde page de la London Fire Brigade, déjà citée.",
+   "gravite": "majeure",
+   "sources": "https://www.countryandtownhouse.com/food-and-drink/syrian-recipes-imad-alarnab/ ; https://www.london-fire.gov.uk/safety/the-home/cooking/pan-fires/"
+  },
+  {
+   "champ": "equipment[4]",
+   "actuel": "À défaut : une casserole profonde, remplie au tiers au plus, et un thermomètre de cuisson",
+   "propose": "À défaut : une casserole profonde, remplie au tiers au plus, et un thermomètre de cuisson (London Fire Brigade). Le gouvernement du Québec, lui, déconseille de frire dans une casserole : la friteuse à thermostat reste le meilleur choix",
+   "pourquoi": "Sécurité : la page du Québec, citée par la recette, dit « N'utilisez jamais une casserole pour frire vos aliments » ; seule la London Fire Brigade admet la casserole remplie au tiers au plus. Il faut le dire au lecteur.",
+   "gravite": "majeure",
+   "sources": "https://www.quebec.ca/securite-situations-urgence/securite-incendie/prevenir-incendie/cuisine ; london-fire.gov.uk « Deep fat fryers »"
+  },
+  {
+   "champ": "sources[20].used_for",
+   "actuel": "appeler les pompiers même si le feu semble éteint.",
+   "propose": "appeler les pompiers même si le feu semble éteint ; ne jamais utiliser une casserole pour frire.",
+   "pourquoi": "Résumé complété avec la consigne de la page (lue le 8 novembre 2026, mise à jour le 10 octobre 2025).",
+   "gravite": "mineure",
+   "sources": "quebec.ca"
+  },
+  {
+   "champ": "mistakes[6]",
+   "actuel": "les légumineuses crues ou pas assez cuites peuvent être à risque, surtout les haricots rouges.",
+   "propose": "les haricots crus ou pas assez cuits peuvent être à risque, surtout les haricots rouges.",
+   "pourquoi": "La FSA écrit « Raw or undercooked beans especially red kidney beans can be risky » : elle parle des haricots, pas de toutes les légumineuses ni des pois chiches.",
+   "gravite": "mineure",
+   "sources": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker (mise à jour du 21 août 2026)"
+  },
+  {
+   "champ": "sources[23].name",
+   "actuel": ", mis à jour le 7 novembre 2026",
+   "propose": ", Soon Fang Min, 29 août 2023",
+   "pourquoi": "L'article est daté du 29 août 2023 (autrice Soon Fang Min). La mention « Last Updated » est celle du pied de page du site, qui affiche la date du jour (08 Nov 2026 le 8 novembre).",
+   "gravite": "mineure",
+   "sources": "https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/the-arch-enemy-of-g6pd-deficient-individuals-fava-beans"
+  },
+  {
+   "champ": "unverified[3]",
+   "actuel": "NPR (article d'août 2026 sur la ta'ameya) : connexion impossible, non lu.",
+   "propose": "NPR (article d'août 2026 sur la ta'ameya) : connexion impossible, non lu. Olive magazine (falafel syrien d'Imad Alarnab) : son robots.txt interdit ClaudeBot ; la source a été retirée à la contre-vérification, avec ce qui ne reposait que sur elle.",
+   "pourquoi": "Garder la trace du retrait dans la rubrique « non vérifié ».",
+   "gravite": "mineure",
+   "sources": "https://www.olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "Salam Dakkak, Imad Alarnab, The Matbakh",
+   "propose": "Salam Dakkak, The Matbakh, The Mediterranean Dish",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt) ; The Mediterranean Dish fait aussi des falafels aux pois chiches seuls.",
+   "gravite": "majeure",
+   "sources": "olivemagazine.com/robots.txt ; themediterraneandish.com"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "(médiane 60 g, calcul python3 -I). Retenu : 250 g pour 4 sandwichs (62,5 g chacun), entre Imad Alarnab (50 g) et Anissa Helou (50 à 75 g).",
+   "propose": "(médiane d'environ 66 g, calcul python3 -I). Retenu : 250 g pour 4 sandwichs (62,5 g chacun), dans la fourchette d'Anissa Helou (50 à 75 g), près de The Matbakh (57 g).",
+   "pourquoi": "Retrait d'Olive magazine. Recalcul python3 -I avec les mêmes hypothèses que l'auteur (qui redonnent bien 60 g avec Imad Alarnab) : Alphafoodie 72,6 ; Mama's 99,2 ; Anissa Helou 60 ; Taste of Beirut 51,9 ; recettelibanaise.com 125 ; The Matbakh 56,7 g.",
+   "gravite": "majeure",
+   "sources": "calcul python3 -I (scripts/calc_f.py)"
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": " ; Imad Alarnab 0,62)",
+   "propose": ")",
+   "pourquoi": "Retrait d'Olive magazine ; la médiane reste 0,55 (python3 -I).",
+   "gravite": "majeure",
+   "sources": "calcul python3 -I"
+  },
+  {
+   "champ": "discrepancies[4]",
+   "actuel": "ou 3 à 4 (Mama's Lebanese Kitchen, Imad Alarnab, Anissa Helou). Médiane 2,1 : retenu 2 gousses.",
+   "propose": "ou 3 à 4 (Mama's Lebanese Kitchen 3,2 ; Anissa Helou 4,2). Médiane 1,1 : retenu 2 gousses, entre les deux groupes.",
+   "pourquoi": "Sans Imad Alarnab, la médiane tombe à 1,1 gousse (python3 -I : 1,0 ; 1,1 ; 1,1 ; 3,2 ; 4,2). Les 2 gousses restent dans l'écart des sources.",
+   "gravite": "majeure",
+   "sources": "calcul python3 -I"
+  },
+  {
+   "champ": "discrepancies[5]",
+   "actuel": "Imad Alarnab n'en met pas, Anissa Helou",
+   "propose": "Anissa Helou",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt).",
+   "gravite": "majeure",
+   "sources": "olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "discrepancies[6]",
+   "actuel": "Cumin : médiane 0,69 c. à c.",
+   "propose": "Cumin : médiane 0,62 c. à c.",
+   "pourquoi": "Recalcul python3 -I sans Imad Alarnab ; ¾ c. à c. reste dans l'écart (0,25 à 0,83).",
+   "gravite": "mineure",
+   "sources": "calcul python3 -I"
+  },
+  {
+   "champ": "discrepancies[6]",
+   "actuel": "Coriandre en poudre : médiane 0,94 ;",
+   "propose": "Coriandre en poudre : médiane 0,81 ;",
+   "pourquoi": "Recalcul python3 -I sans Imad Alarnab ; 1 c. à c. reste dans l'écart (0,25 à 1,65).",
+   "gravite": "mineure",
+   "sources": "calcul python3 -I"
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "(médiane 0,50)",
+   "propose": "(médiane 0,69)",
+   "pourquoi": "Recalcul python3 -I (Alphafoodie 0,83 ; Mama's 0,31 ; Anissa Helou 0,83 ; Taste of Beirut 0,69 ; recettelibanaise.com 0,12).",
+   "gravite": "mineure",
+   "sources": "calcul python3 -I"
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "Salam Dakkak, Imad Alarnab, Mama's",
+   "propose": "Salam Dakkak, Mama's",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt).",
+   "gravite": "majeure",
+   "sources": "olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "discrepancies[10]",
+   "actuel": "(Anissa Helou, Imad Alarnab, recettelibanaise.com)",
+   "propose": "(Anissa Helou, recettelibanaise.com)",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt).",
+   "gravite": "majeure",
+   "sources": "olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "discrepancies[11]",
+   "actuel": "aucun (Imad Alarnab, Salam Dakkak)",
+   "propose": "aucun (Salam Dakkak)",
+   "pourquoi": "Retrait d'Olive magazine (robots.txt).",
+   "gravite": "majeure",
+   "sources": "olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "discrepancies[12]",
+   "actuel": "180 °C (Alphafoodie, Imad Alarnab)",
+   "propose": "180 °C (Alphafoodie)",
+   "pourquoi": "Retrait d'Olive magazine ; 180 °C reste la médiane de 170, 180 et 191 °C.",
+   "gravite": "majeure",
+   "sources": "olivemagazine.com/robots.txt"
+  },
+  {
+   "champ": "discrepancies[13]",
+   "actuel": "4 minutes (Imad Alarnab), 3 à 4 minutes (Anissa Helou)",
+   "propose": "3 à 4 minutes (Anissa Helou), 3 à 5 minutes (The Mediterranean Dish)",
+   "pourquoi": "Retrait d'Olive magazine ; le minuteur de 4 minutes reste couvert par Anissa Helou et The Mediterranean Dish.",
+   "gravite": "majeure",
+   "sources": "Gulf News (Anissa Helou) ; themediterraneandish.com"
+  },
+  {
+   "champ": "discrepancies[14]",
+   "actuel": "dans la pâte (Imad Alarnab, 4 c. à s. pour 200 g), parsemé",
+   "propose": "dans la pâte juste avant la friture (The Mediterranean Dish, 2 c. à s.), parsemé",
+   "pourquoi": "Retrait d'Olive magazine ; The Mediterranean Dish ajoute le sésame à la pâte juste avant la friture.",
+   "gravite": "majeure",
+   "sources": "themediterraneandish.com"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Pois chiches secs trempés, jamais cuits ni en conserve (sinon les falafels se défont) : Wikipédia en anglais, Alphafoodie, The Matbakh, et The Mediterranean Dish (source ajoutée)",
+  "Trempage : nuit, 12 à 24 h (Alphafoodie), 12 à 18 h (Taste of Beirut), 12 h (recettelibanaise.com), 24 h (The Matbakh), « overnight » (Salam Dakkak, Mama's) ; volume doublé ou triplé (Alphafoodie)",
+  "Séchage des pois chiches et des herbes : Taste of Beirut, recettelibanaise.com, The Matbakh (« Pat dry »), Mama's (herbes « drained from excess juice »)",
+  "Bicarbonate ajouté au dernier moment pour des falafels légers : Alphafoodie, Taste of Beirut, Mama's, Anissa Helou, recettelibanaise.com",
+  "Repos au frais 30 min (Alphafoodie, Anissa Helou) ou 1 h (The Matbakh, recettelibanaise.com) ; minuteur de 30 min cohérent avec « au moins 30 minutes »",
+  "Huile à 180 °C : Alphafoodie (350 °F / 180 °C) ; 170 °C recettelibanaise.com ; 375 °F Taste of Beirut ; ne pas surcharger : Alphafoodie, Anissa Helou ; huile trop chaude = falafels brûlés : Alphafoodie",
+  "Friture d'environ 4 min jusqu'à bien dorés : Anissa Helou (3 à 4 min), The Mediterranean Dish (3 à 5 min), Taste of Beirut (environ 5 min) ; sortis quand ils flottent : recettelibanaise.com",
+  "Moule « aaleb » vendu dans les épiceries orientales : Taste of Beirut, Wikipédia en anglais ; farine si la pâte colle : Mama's",
+  "Tarator : proportions recalculées (python3 -I) d'après Hadia (½ tasse de tahini, ⅓ tasse d'eau, 3 c. à s. de citron), Alphafoodie et Anissa Helou ; la sauce épaissit puis redevient lisse (Hadia, Anissa Helou) ; bocal en verre propre au réfrigérateur et remuer avant usage (Hadia)",
+  "Au Liban, toujours avec le tarator : The Matbakh (« always drizzled with a tahini-based sauce called tarator ») ; en mezzé avec houmous et taboulé : The Matbakh, recettelibanaise.com",
+  "Congélation de la pâte sans bicarbonate puis décongélation au frais : Mama's (quelques semaines), Alphafoodie (décongeler au réfrigérateur une nuit), réponse de Lily (The Matbakh, 23 octobre 2021)",
+  "Proportions (python3 -I, pour 250 g) : oignon médiane 0,55 ; poivre 0,31 ; sel 0,75 (recettelibanaise.com) ; herbes de Salam Dakkak 37,5 g de coriandre et 50 g de persil ; sésame Alphafoodie 2,2 c. à s. ; valeurs retenues toutes dans l'écart des sources",
+  "Origine et noms : falafel probablement égyptien (Wikipédia anglais et français, Taste of Beirut) ; « ta'miyya » en Égypte (Wikipédia, Arabi Post) ; fèves en Égypte, pois chiches ou mélange au Levant ; mélange au Liban (Wikipédia en arabe) ; nom arabe فلافل",
+  "Carême des chrétiens arabes et iftar (Wikipédia en anglais) ; petit déjeuner en Égypte, avec le foul (Wikipédia en arabe et en français)",
+  "Variantes : fèves moitié-moitié (recettelibanaise.com, The Matbakh) ; plus de fèves (Mama's 1 lb + ¾ lb, Anissa Helou 200 g + 100 g, Taste of Beirut) ; ta'ameya de Sada El Balad (18 juin 2019, chef Nehad El Gendy : fèves concassées trempées un jour, poireau, céleri, oignons, ail, piment) ; menthe, poivron et piment vert (Dima Al Sharif) ; levure chimique (Taste of Beirut, recettelibanaise.com, Dima Al Sharif) ; piment de la Jamaïque (Anissa Helou, Taste of Beirut, The Matbakh) ; farcis au sumac et à l'oignon (Wikipédia en anglais) ; four 400 °F 7 à 10 min (Mama's) et 450 °F 4 à 5 min (The Matbakh)",
+  "Service : 3 ou 4 falafels écrasés le long du pain, persil, tahini, tomates, pickles de concombre et de navet, sauce piquante (Mama's) ; 3 falafels (Alphafoodie) ; Syrie : sauce yaourt-tahini ou houmous, tomates, pickles, persil (Wikipédia en arabe)",
+  "Sécurité friture : tiers maximum, aliments secs, huile qui fume = couper le feu, friteuse électrique plus sûre (London Fire Brigade) ; surveillance constante, couvercle à portée de main, jamais d'eau, ne pas déplacer (Québec)",
+  "Restes : réfrigérateur dans les 2 h, 48 h, réchauffés une seule fois jusqu'à être fumants (FSA « Cooking your food ») ; allergènes sésame et blé (règlement UE 1169/2011, annexe II) ; favisme : fèves à éviter, composés résistants à la cuisson, éviter le contact (Singapore Food Agency)",
+  "Liens : tous les liens cités répondent (code 200, curl, 8 novembre 2026), y compris les deuxièmes pages (The National, London Fire Brigade, GOV.UK), sauf Olive magazine, non ouvert à cause de son robots.txt ; Taste of Beirut fermé (404, page GoDaddy), copie Wayback lisible ; robots.txt de Taste of Beirut (archives 2017 à 2025) sans blocage ; Mama's autorise explicitement ClaudeBot",
+  "Rendu (fmtQ de app.html) pour 1, 4 et 8 : 65/250/500 g de pois chiches ; ¼/½/1 oignon moyen ; ½/2/4 gousses ; 13/50/100 g de persil ; ¾ c. à c. de cumin pour 4 ; 1¼/5/10 c. à s. de tahini ; « 1 oignon moyen » au singulier pour 8 ; {{piment}}, {{huile}}, {{tomates}} affichent le nom ; tous les ingrédients sont repris dans les étapes ; minuteurs 30 et 4 min conformes ; time.rest 750 = 12 h + 30 min",
+  "Halal : aucune viande, aucun alcool ; huile végétale"
+ ],
+ "non_verifiable": [
+  "Quota de recherche web épuisé : aucune recherche par moteur ; les sources nouvelles ont été cherchées en ouvrant directement des pages connues. Aucune source syrienne lisible n'a été trouvée pour remplacer Imad Alarnab : la façon syrienne ne repose plus que sur Wikipédia en arabe.",
+  "Olive magazine (recette d'Imad Alarnab) : page non ouverte, car son robots.txt interdit ClaudeBot ; son contenu n'a donc pas été vérifié, et tout ce qui reposait sur elle est proposé au retrait.",
+  "Aucune source officielle trouvée sur les pois chiches crus (la FSA ne parle que des haricots) : la consigne de frire jusqu'à ce qu'ils soient bien dorés repose sur les recettes.",
+  "Le test du pain (grésillement, bulles) ne donne pas une température précise : le thermomètre ou la friteuse à thermostat restent préférables.",
+  "Sada El Balad : une ligne d'ingrédients de la recette égyptienne est illisible sur la page (texte arabe abîmé) ; le persil et la coriandre fraîche de la variante ta'ameya reposent sur Wikipédia en anglais (poireau, persil, coriandre verte).",
+  "Nombre de falafels (9 à 17 pour 250 g), temps de préparation (30 min) et de cuisson (20 min) : estimations de l'auteur, non testées.",
+  "Nom en darija : non vérifiable sans moteur de recherche ; le champ vide est cohérent avec l'absence de source.",
+  "Chef in Disguise (403), Palestine in a Dish et Al Dostor (robots.txt) : non ouverts, comme l'auteur l'a noté."
+ ]
+}

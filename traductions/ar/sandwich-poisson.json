@@ -1,0 +1,374 @@
+{
+ "_slug": "sandwich-poisson",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Sandwich de sardines à la chermoula",
+   "t": "سندويتش السردين بالشرمولة"
+  },
+  "darija": {
+   "fr": "Sardine mzeouej",
+   "t": "سردين مزوّج"
+  },
+  "tagline": {
+   "fr": "Un des casse-croûte de rue les plus populaires du Maroc : des sardines farcies à la chermoula, frites et glissées encore chaudes dans un demi-pain, avec de la tomate, de l'oignon et de la harissa.",
+   "t": "من أشهر أكلات الشارع الخفيفة في المغرب: سردين محشو بالشرمولة، يُقلى ويُدسّ وهو لا يزال ساخنًا في نصف خبزة، مع الطماطم والبصل والهريسة."
+  },
+  "region": {
+   "fr": "Tout le Maroc, surtout les villes côtières ; les sardines farcies frites se vendent aussi, parfois seulement certains jours, à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc). À Marrakech, on trouve aussi un sandwich de kefta de sardines, le hout quari (MarocMama, Halal Xplorer) ; dans le Nord, des bocadillos au poisson (Morocco World News).",
+   "t": "المغرب كله، وخاصة المدن الساحلية؛ ويُباع السردين المحشو المقلي أيضًا، وأحيانًا في أيام معيّنة فقط، في ساحة جامع الفنا بمراكش وفي المدينة القديمة بفاس (Taste of Maroc). وفي مراكش، يوجد أيضًا سندويتش كفتة السردين، «hout quari» (MarocMama، Halal Xplorer)؛ وفي الشمال، سندويتشات «bocadillo» بالسمك (Morocco World News)."
+  },
+  "occasion": {
+   "fr": "Casse-croûte de rue, à manger sur le pouce (Morocco World News ; Taste of Maroc)",
+   "t": "أكلة شارع خفيفة، تؤكل على عجل (Morocco World News؛ Taste of Maroc)"
+  },
+  "img_alt": {
+   "fr": "Sandwich de sardines dans un petit pain, avec de la salade",
+   "t": "سندويتش سردين في خبزة صغيرة، مع السلطة"
+  },
+  "serving": {
+   "fr": "Mange le sandwich tout de suite, quand les sardines sont encore chaudes (Bladi : les sardines farcies se mangent de préférence chaudes). Morocco World News propose de glisser les sardines farcies dans un demi petit pain et de les accompagner d'une boisson, ou de les servir avec la salade marocaine tomate-oignon. Taste of Maroc ajoute du citron et de la harissa. Ne le garde pas plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "كُل السندويتش فورًا، والسردين لا يزال ساخنًا (Bladi: يُفضَّل أكل السردين المحشو ساخنًا). ويقترح Morocco World News دسّ السردين المحشو في نصف خبزة صغيرة مع مشروب، أو تقديمه مع السلطة المغربية بالطماطم والبصل. ويضيف Taste of Maroc الليمون والهريسة. لا تتركه خارج الثلاجة أكثر من 2 ساعة (FDA)."
+  },
+  "pairs_label": {
+   "fr": "Les recettes utilisées",
+   "t": "الوصفات المستعملة"
+  },
+  "ing.0.group": {
+   "fr": "Sardines",
+   "t": "السردين"
+  },
+  "ing.sardines.name": {
+   "fr": "sardines farcies à la chermoula",
+   "t": "السردين المحشو بالشرمولة"
+  },
+  "ing.sardines.note": {
+   "fr": "à préparer et à frire avec la recette du poisson frit de l'application (partie sardines)",
+   "t": "يُحضَّر ويُقلى بوصفة السمك المقلي في التطبيق (جزء السردين)"
+  },
+  "ing.1.group": {
+   "fr": "Pain",
+   "t": "الخبز"
+  },
+  "ing.pain.name": {
+   "fr": "petit pain rond",
+   "t": "خبزة صغيرة مستديرة"
+  },
+  "ing.pain.pl": {
+   "fr": "petits pains ronds",
+   "t": "خبزات صغيرة مستديرة"
+  },
+  "ing.pain.note": {
+   "fr": "khobz ; un demi-pain par sandwich",
+   "t": "خبز الدار؛ نصف خبزة لكل سندويتش"
+  },
+  "ing.2.group": {
+   "fr": "Garniture",
+   "t": "الحشوة"
+  },
+  "ing.tomate.name": {
+   "fr": "tomates bien mûres",
+   "t": "الطماطم الناضجة جيدًا"
+  },
+  "ing.tomate.note": {
+   "fr": "râpées",
+   "t": "مبشورة"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "البصل"
+  },
+  "ing.oignon.note": {
+   "fr": "haché finement",
+   "t": "مفروم فرمًا ناعمًا"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "الملح"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "الفلفل الأسود المطحون"
+  },
+  "ing.harissa.name": {
+   "fr": "harissa",
+   "t": "الهريسة"
+  },
+  "ing.harissa.note": {
+   "fr": "selon ton goût",
+   "t": "حسب ذوقك"
+  },
+  "ing.olives.name": {
+   "fr": "olives vertes",
+   "t": "الزيتون الأخضر"
+  },
+  "ing.olives.note": {
+   "fr": "dénoyautées, en rondelles ; facultatif",
+   "t": "منزوع النوى، مقطّع حلقات؛ اختياري"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "الليمون"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers",
+   "t": "مقطّع أرباعًا"
+  },
+  "equipment.0": {
+   "fr": "Le matériel de la recette du poisson frit de l'application (friteuse ou poêle profonde, couvercle, écumoire, papier absorbant)",
+   "t": "أدوات وصفة السمك المقلي في التطبيق (قلّاية أو مقلاة عميقة، وغطاء، ومغرفة مثقوبة، وورق ماصّ)"
+  },
+  "equipment.1": {
+   "fr": "Râpe (pour les tomates)",
+   "t": "مبشرة (للطماطم)"
+  },
+  "equipment.2": {
+   "fr": "Couteau à pain",
+   "t": "سكين خبز"
+  },
+  "equipment.3": {
+   "fr": "Planche à découper",
+   "t": "لوح تقطيع"
+  },
+  "equipment.4": {
+   "fr": "Petits bols pour la garniture",
+   "t": "أوعية صغيرة للحشوة"
+  },
+  "steps.0.title": {
+   "fr": "Prépare les sardines farcies",
+   "t": "حضّر السردين المحشو"
+  },
+  "steps.0.text": {
+   "fr": "Prépare les {{sardines}} avec la recette du poisson frit de l'application, en ne prenant que des sardines : écaille-les, vide-les, ouvre-les, prépare la chermoula et colle les sardines deux par deux. Avant de toucher le poisson cru, mets un peu de chermoula de côté pour la sauce.",
+   "t": "حضّر {{sardines}} بوصفة السمك المقلي في التطبيق، مع الاقتصار على السردين: أزل قشوره وأحشاءه، وافتحه، وحضّر الشرمولة، وألصق السردين مثنى مثنى. قبل أن تلمس السمك النيء، ضع قليلًا من الشرمولة جانبًا للصلصة."
+  },
+  "steps.0.tip": {
+   "fr": "Prends de petites sardines bien fraîches, achetées le jour même.",
+   "t": "اختر سردينًا صغيرًا طازجًا جيدًا، مشترى في اليوم نفسه."
+  },
+  "steps.1.title": {
+   "fr": "Laisse mariner au frais",
+   "t": "اترك السردين يتتبّل في الثلاجة"
+  },
+  "steps.1.text": {
+   "fr": "Couvre les sardines farcies et mets-les au réfrigérateur au moins 30 minutes. Pendant ce temps, prépare la garniture.",
+   "t": "غطِّ السردين المحشو وضعه في الثلاجة 30 دقيقة على الأقل. في هذه الأثناء، حضّر الحشوة."
+  },
+  "steps.1.timer.label": {
+   "fr": "Marinade",
+   "t": "التتبيلة"
+  },
+  "steps.1.timer.done": {
+   "fr": "La marinade est prête. Prépare la friture.",
+   "t": "التتبيلة جاهزة. حضّر القلي."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "ابشر الطماطم"
+  },
+  "steps.2.text": {
+   "fr": "Coupe les {{tomate}} en deux et retire les graines. Râpe la chair jusqu'à obtenir une pulpe et jette la peau. Assaisonne de {{sel}} et de {{poivre}}.",
+   "t": "اقسم {{tomate}} إلى نصفين وأزل البذور. ابشر اللب حتى تحصل على هريس وتخلّص من القشرة. تبّله ب{{sel}} و{{poivre}}."
+  },
+  "steps.2.tip": {
+   "fr": "La râpe marche mieux avec des tomates très mûres.",
+   "t": "تنجح المبشرة أكثر مع الطماطم الناضجة جدًا."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم مبشورة على مبشرة"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon",
+   "t": "افرم البصل"
+  },
+  "steps.3.text": {
+   "fr": "Pèle l'{{oignon}} et hache-le finement.",
+   "t": "قشّر {{oignon}} وافرمه فرمًا ناعمًا."
+  },
+  "steps.3.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل إلى شرائح"
+  },
+  "steps.4.title": {
+   "fr": "Fais frire les sardines",
+   "t": "اقلِ السردين"
+  },
+  "steps.4.text": {
+   "fr": "Fais frire les sardines comme dans la recette du poisson frit de l'application : farinées juste avant, dans une huile bien chaude qui ne fume pas, par petites quantités, environ 3 minutes par face, jusqu'à ce qu'elles soient bien dorées.",
+   "t": "اقلِ السردين كما في وصفة السمك المقلي في التطبيق: يُمرَّر في الدقيق قبل القلي مباشرة، في زيت ساخن جيدًا لا يدخّن، على دفعات صغيرة، نحو 3 دقائق لكل وجه، حتى يصير ذهبيًا جيدًا."
+  },
+  "steps.4.tip": {
+   "fr": "Ne quitte pas la poêle des yeux. Si l'huile prend feu : jamais d'eau ; glisse le couvercle, coupe le feu si c'est sans danger, ne déplace pas la poêle et appelle sans attendre les pompiers, même si le feu semble éteint.",
+   "t": "لا تُبعد عينيك عن المقلاة. إذا اشتعل الزيت: لا ماء أبدًا؛ مرّر الغطاء فوق المقلاة، وأطفئ الموقد إذا كان ذلك دون خطر، ولا تحرّك المقلاة، واتصل برجال الإطفاء فورًا، حتى لو بدا أن النار انطفأت."
+  },
+  "steps.4.timer.label": {
+   "fr": "Une face",
+   "t": "وجه واحد"
+  },
+  "steps.4.timer.done": {
+   "fr": "Retourne les sardines, puis relance 3 minutes pour l'autre face.",
+   "t": "اقلب السردين، ثم أعد تشغيل المؤقت 3 دقائق للوجه الآخر."
+  },
+  "steps.5.title": {
+   "fr": "Égoutte les sardines",
+   "t": "صفِّ السردين"
+  },
+  "steps.5.text": {
+   "fr": "Pose les sardines sur du papier absorbant pour enlever l'excès d'huile.",
+   "t": "ضع السردين على ورق ماصّ لإزالة الزيت الزائد."
+  },
+  "steps.6.title": {
+   "fr": "Ouvre les pains",
+   "t": "افتح الخبز"
+  },
+  "steps.6.text": {
+   "fr": "Il faut un demi-pain par sandwich, soit {{pain:full}} en tout. Coupe chaque pain en deux, puis ouvre chaque moitié en poche, sans la déchirer.",
+   "t": "يلزم نصف خبزة لكل سندويتش، أي {{pain:full}} في المجموع. اقسم كل خبزة إلى نصفين، ثم افتح كل نصف على شكل جيب، دون أن تمزّقه."
+  },
+  "steps.7.title": {
+   "fr": "Garnis les sandwichs",
+   "t": "احشُ السندويتشات"
+  },
+  "steps.7.text": {
+   "fr": "Dans chaque poche, mets un peu de tomate râpée et d'oignon haché, de la {{harissa}} selon ton goût et quelques {{olives}}. Glisse les sardines encore chaudes. Ajoute un filet de jus de {{citron}} et, si tu en as gardé, un peu de chermoula.",
+   "t": "في كل جيب، ضع قليلًا من الطماطم المبشورة والبصل المفروم، و{{harissa}} حسب ذوقك، وبعض حبات {{olives}}. دُسّ السردين وهو لا يزال ساخنًا. أضف قليلًا من عصير {{citron}}، وإن كنت قد احتفظت ببعض الشرمولة، فقليلًا منها."
+  },
+  "steps.8.title": {
+   "fr": "Mange aussitôt",
+   "t": "كُل فورًا"
+  },
+  "steps.8.text": {
+   "fr": "Mange tout de suite, tant que les sardines sont chaudes. Ne garde pas un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "t": "كُل فورًا، ما دام السردين ساخنًا. لا تترك السندويتش خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية."
+  },
+  "secrets.0.text": {
+   "fr": "Les sardines farcies frites sont un des plats de rue les plus classiques du Maroc, même loin de la côte, parfois seulement certains jours : on les trouve à Jemaa el-Fna à Marrakech et dans la vieille médina de Fès.",
+   "t": "السردين المحشو المقلي من أكثر أطباق الشارع كلاسيكية في المغرب، حتى بعيدًا عن الساحل، وأحيانًا في أيام معيّنة فقط: تجده في ساحة جامع الفنا بمراكش وفي المدينة القديمة بفاس."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; Morocco World News (2013, d'après CNN : la sardine, plat de rue de base, est le plus souvent frite ; farcie d'une chermoula piquante, elle fait « un savoureux sandwich »)",
+   "t": "Taste of Maroc (Nada Kiffa، ابنة الدار البيضاء)؛ Morocco World News (2013، نقلًا عن CNN: السردين، وهو طبق شارع أساسي، يُقلى في الغالب؛ وإذا حُشي بشرمولة حارة صار «سندويتشًا لذيذًا»)"
+  },
+  "secrets.1.text": {
+   "fr": "Au Maroc, la sardine se prépare de bien des façons, mais la friture reste la plus populaire.",
+   "t": "في المغرب، يُحضَّر السردين بطرق كثيرة، لكن القلي يبقى الأكثر شعبية."
+  },
+  "secrets.1.source": {
+   "fr": "Morocco World News, 27 mai 2013 (d'après CNN) ; Taste of Maroc (sardines farcies frites, plat de rue emblématique)",
+   "t": "Morocco World News، 27 ماي 2013 (نقلًا عن CNN)؛ Taste of Maroc (السردين المحشو المقلي، طبق شارع رمزي)"
+  },
+  "secrets.2.text": {
+   "fr": "Un demi petit pain suffit : glisse-y les sardines farcies.",
+   "t": "يكفي نصف خبزة صغيرة: دُسّ فيه السردين المحشو."
+  },
+  "secrets.2.source": {
+   "fr": "Morocco World News, 30 juillet 2021 (« dans un demi petit pain ») ; MarocMama et Halal Xplorer (sandwich de sardines dans du pain frais)",
+   "t": "Morocco World News، 30 يوليوز 2021 («في نصف خبزة صغيرة»)؛ MarocMama وHalal Xplorer (سندويتش سردين في خبز طازج)"
+  },
+  "secrets.3.text": {
+   "fr": "On les mange avec une salade tomate-oignon : dans le sandwich, la tomate râpée et l'oignon haché jouent ce rôle.",
+   "t": "يؤكل مع سلطة الطماطم والبصل: وفي السندويتش، تؤدي الطماطم المبشورة والبصل المفروم هذا الدور."
+  },
+  "secrets.3.source": {
+   "fr": "Morocco World News, 2021 (salade marocaine tomate-oignon) ; Taste of Maroc (salade concombre, tomate, oignon) ; MarocMama et Halal Xplorer (tomate et oignon cru dans le sandwich de Marrakech)",
+   "t": "Morocco World News، 2021 (السلطة المغربية بالطماطم والبصل)؛ Taste of Maroc (سلطة الخيار والطماطم والبصل)؛ MarocMama وHalal Xplorer (طماطم وبصل نيء في سندويتش مراكش)"
+  },
+  "secrets.4.text": {
+   "fr": "La harissa accompagne les sardines frites et le sandwich de sardines de Marrakech ; mets-en selon ton goût.",
+   "t": "ترافق الهريسة السردين المقلي وسندويتش السردين في مراكش؛ ضع منها حسب ذوقك."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (sardines frites servies avec de la harissa) ; MarocMama et Halal Xplorer (harissa dans le sandwich de sardines de Marrakech)",
+   "t": "Taste of Maroc (سردين مقلي يُقدَّم مع الهريسة)؛ MarocMama وHalal Xplorer (الهريسة في سندويتش السردين بمراكش)"
+  },
+  "secrets.5.text": {
+   "fr": "Les olives vont bien avec le poisson frit, et les olives vertes dans le sandwich.",
+   "t": "الزيتون يناسب السمك المقلي، والزيتون الأخضر يناسب السندويتش."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (friture servie avec des olives m'chermlines) ; MarocMama (olives vertes en rondelles) ; Halal Xplorer (olives hachées)",
+   "t": "Choumicha (سمك مقلي يُقدَّم مع الزيتون المشرمل)؛ MarocMama (زيتون أخضر مقطّع حلقات)؛ Halal Xplorer (زيتون مفروم)"
+  },
+  "secrets.6.text": {
+   "fr": "Garde de côté un peu de chermoula propre, avant de toucher le poisson cru, pour en mettre dans le pain : jamais celle qui a servi à mariner.",
+   "t": "ضع جانبًا قليلًا من الشرمولة النظيفة، قبل أن تلمس السمك النيء، لتضع منها في الخبز: وليس أبدًا تلك التي استُعملت للتتبيل."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa en garde un peu pour servir avec le poisson) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)",
+   "t": "Taste of Maroc (تحتفظ Nada Kiffa بقليل منها لتقدّمه مع السمك)؛ FDA (تجنّب انتقال بكتيريا السمك النيء إلى الأطعمة الجاهزة للأكل)"
+  },
+  "secrets.7.text": {
+   "fr": "Les petites sardines fraîches sont les meilleures : moins de 15 cm, brillantes et fermes.",
+   "t": "السردين الصغير الطازج هو الأفضل: طوله أقل من 15 سم، لامع ومتماسك."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Choumicha, « La sardine, un trésor de bienfaits »",
+   "t": "Taste of Maroc؛ Choumicha، «La sardine, un trésor de bienfaits»"
+  },
+  "secrets.8.text": {
+   "fr": "Les sardines collées deux par deux s'appellent « mzeouej », les « mariées ».",
+   "t": "يُسمّى السردين الملصوق مثنى مثنى «مزوّج»، أي «المتزوّج»."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; SBS (Ellie Bouhadana : « mzeouejim », mariés)",
+   "t": "Taste of Maroc (Nada Kiffa)؛ SBS (Ellie Bouhadana: «mzeouejim»، أي المتزوجون)"
+  },
+  "secrets.9.text": {
+   "fr": "Les sardines farcies se mangent chaudes de préférence, mais aussi tièdes ou froides.",
+   "t": "يُفضَّل أكل السردين المحشو ساخنًا، لكنه يؤكل أيضًا فاترًا أو باردًا."
+  },
+  "secrets.9.source": {
+   "fr": "Bladi, « Sardines farcies » (de préférence chaudes) ; Taste of Maroc (chaudes, tièdes ou à température ambiante) ; Morocco World News, 2021 (froides ou chaudes)",
+   "t": "Bladi، «Sardines farcies» (يُفضَّل ساخنًا)؛ Taste of Maroc (ساخنًا أو فاترًا أو بحرارة الغرفة)؛ Morocco World News، 2021 (باردًا أو ساخنًا)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre dans le pain une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+   "t": "وضع شرمولة لامست السمك النيء في الخبز (FDA؛ Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser un sandwich plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+   "t": "ترك السندويتش خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre des sardines qui ne sont pas du jour : la sardine est très fragile (Choumicha ; FDA pour les signes de fraîcheur).",
+   "t": "استعمال سردين ليس من اليوم نفسه: السردين سريع التلف جدًا (Choumicha؛ وFDA بالنسبة إلى علامات الطزاجة)."
+  },
+  "mistakes.3": {
+   "fr": "Râper des tomates fermes : la râpe marche mieux avec des tomates très mûres (Taste of Maroc).",
+   "t": "بشر طماطم صلبة: تنجح المبشرة أكثر مع الطماطم الناضجة جدًا (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier les règles de la friture : huile qui fume, poêle remplie à plus d'un tiers, poisson mouillé, eau sur de l'huile en feu. Tout est dans la recette du poisson frit de l'application (gouvernement du Québec ; pompiers du Cambridgeshire ; USFA ; SFDA).",
+   "t": "نسيان قواعد القلي: زيت يدخّن، ومقلاة مملوءة لأكثر من ثلثها، وسمك مبلّل، وماء على زيت مشتعل. كل شيء موجود في وصفة السمك المقلي في التطبيق (حكومة كيبيك؛ مصلحة الإطفاء في Cambridgeshire؛ USFA؛ SFDA)."
+  },
+  "variants.0": {
+   "fr": "Hout quari de Marrakech : sardines hachées avec du ras el hanout, du smen et de la coriandre, façonnées en boulettes, grillées ou poêlées, puis servies dans du pain avec une sauce tomate crue, de l'oignon cru, de la harissa et des olives vertes ; le pain est parfois beurré de beurre clarifié et chacun compose son sandwich (MarocMama ; Halal Xplorer). Choumicha fait aussi une kefta de sardines, avec graisse de rognons (halal), oignon, herbes et épices, en brochettes grillées au charbon.",
+   "t": "«hout quari» مراكش: سردين مفروم مع رأس الحانوت والسمن البلدي والكزبرة، يُشكَّل كرات، ويُشوى أو يُطهى في المقلاة، ثم يُقدَّم في الخبز مع صلصة طماطم نيئة، وبصل نيء، وهريسة، وزيتون أخضر؛ ويُدهن الخبز أحيانًا بالزبدة المصفّاة، ويركّب كل واحد سندويتشه بنفسه (MarocMama؛ Halal Xplorer). وتحضّر Choumicha أيضًا كفتة السردين، بشحم الكلى (الحلال) والبصل والأعشاب والتوابل، في أسياخ تُشوى على الفحم."
+  },
+  "variants.1": {
+   "fr": "Kefta de sardines en sauce : la kefta de sardine se vend toute prête au marché aux poissons (Taste of Maroc) ; Choumicha la cuit en boulettes avec des olives vertes, et à Marrakech les boulettes de sardines se font en tajine (Le360).",
+   "t": "كفتة السردين بالصلصة: تُباع كفتة السردين جاهزة في سوق السمك (Taste of Maroc)؛ وتطهوها Choumicha كرات مع الزيتون الأخضر، وفي مراكش تُحضَّر كرات السردين في الطاجين (Le360)."
+  },
+  "variants.2": {
+   "fr": "Sardines grillées d'Essaouira : marinées à la chermoula, grillées au feu, servies avec du pain et des olives (Morocco World News Lifestyle, 2024).",
+   "t": "سردين الصويرة المشوي: يُتبّل بالشرمولة، ويُشوى على النار، ويُقدَّم مع الخبز والزيتون (Morocco World News Lifestyle، 2024)."
+  },
+  "variants.3": {
+   "fr": "Bocadillo au poisson dans le Nord : avec des sardines ou un autre poisson blanc pêché du jour (Morocco World News, 2021).",
+   "t": "«bocadillo» بالسمك في الشمال: بالسردين أو بسمك أبيض آخر من صيد اليوم (Morocco World News، 2021)."
+  },
+  "variants.4": {
+   "fr": "Sans pain : les sardines farcies avec la salade tomate-oignon (Morocco World News, 2021), ou avec des haricots blancs à la tomate et des salades (Taste of Maroc).",
+   "t": "دون خبز: السردين المحشو مع سلطة الطماطم والبصل (Morocco World News، 2021)، أو مع الفاصوليا البيضاء (اللوبيا) بالطماطم والسلطات (Taste of Maroc)."
+  }
+ }
+}

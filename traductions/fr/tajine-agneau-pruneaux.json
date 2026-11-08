@@ -1,0 +1,249 @@
+{
+ "_slug": "tajine-agneau-pruneaux",
+ "_ingredients": {
+  "viande": {
+   "q": 1.5,
+   "u": "kg",
+   "fr": "d'agneau halal (épaule ou collier, avec os)"
+  },
+  "oignons": {
+   "q": 3,
+   "u": "",
+   "fr": "oignon moyen / oignons moyens",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "ail": {
+   "q": 3,
+   "u": "",
+   "fr": "gousse d'ail / gousses d'ail",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "huile": {
+   "q": 6,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive ou d'huile neutre"
+  },
+  "smen": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de smen"
+  },
+  "gingembre": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de gingembre moulu"
+  },
+  "poivre": {
+   "q": 0.75,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "sel": {
+   "q": 1.25,
+   "u": "c. à c.",
+   "fr": "de sel fin"
+  },
+  "safran": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de pistils de safran"
+  },
+  "eau-safran": {
+   "q": 60,
+   "u": "ml",
+   "fr": "d'eau tiède, pour le safran"
+  },
+  "cannelle-baton": {
+   "q": 2,
+   "u": "",
+   "fr": "bâton de cannelle / bâtons de cannelle",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "coriandre": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de coriandre fraîche"
+  },
+  "persil": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de persil frais"
+  },
+  "eau": {
+   "q": 500,
+   "u": "ml",
+   "fr": "d'eau chaude"
+  },
+  "pruneaux": {
+   "q": 500,
+   "u": "g",
+   "fr": "de pruneaux secs"
+  },
+  "beurre": {
+   "q": 30,
+   "u": "g",
+   "fr": "de beurre"
+  },
+  "sucre": {
+   "q": 5,
+   "u": "c. à s.",
+   "fr": "de sucre semoule (ou de miel)"
+  },
+  "cannelle-moulue": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de cannelle moulue"
+  },
+  "amandes": {
+   "q": 100,
+   "u": "g",
+   "fr": "d'amandes mondées (sans peau)"
+  },
+  "huile-friture": {
+   "q": null,
+   "u": "",
+   "fr": "huile pour frire les amandes / huile pour frire les amandes"
+  },
+  "sesame": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de graines de sésame"
+  }
+ },
+ "textes": {
+  "title": "Tajine d'agneau aux pruneaux et aux amandes",
+  "darija": "Lham bel barkouk",
+  "tagline": "Un agneau fondant au safran et au gingembre dans sa sauce aux oignons, couronné de pruneaux caramélisés à la cannelle, d'amandes frites et de sésame grillé.",
+  "region": "Maroc, plat phare de la cuisine marocaine",
+  "occasion": "Fêtes et mariages, Aïd al-Adha, réceptions, ftour du Ramadan",
+  "img_alt": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
+  "serving": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
+  "ing.0.group": "Viande et sauce",
+  "ing.viande.name": "d'agneau halal (épaule ou collier, avec os)",
+  "ing.viande.note": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
+  "ing.oignons.name": "oignon moyen",
+  "ing.oignons.pl": "oignons moyens",
+  "ing.oignons.note": "à hacher finement, ou à râper",
+  "ing.ail.name": "gousse d'ail",
+  "ing.ail.pl": "gousses d'ail",
+  "ing.huile.name": "d'huile d'olive ou d'huile neutre",
+  "ing.smen.name": "de smen",
+  "ing.smen.note": "facultatif ; c'est la touche de Choumicha",
+  "ing.gingembre.name": "de gingembre moulu",
+  "ing.poivre.name": "de poivre noir moulu",
+  "ing.sel.name": "de sel fin",
+  "ing.sel.note": "à rectifier en fin de cuisson",
+  "ing.safran.name": "de pistils de safran",
+  "ing.safran.note": "Choumicha en compte 8 pour 1 kg de viande",
+  "ing.eau-safran.name": "d'eau tiède, pour le safran",
+  "ing.cannelle-baton.name": "bâton de cannelle",
+  "ing.cannelle-baton.pl": "bâtons de cannelle",
+  "ing.coriandre.name": "de coriandre fraîche",
+  "ing.persil.name": "de persil frais",
+  "ing.eau.name": "d'eau chaude",
+  "ing.eau.note": "jamais froide ; rajoutes-en un peu en cours de cuisson si la viande n'est plus à moitié couverte",
+  "ing.1.group": "Pruneaux caramélisés",
+  "ing.pruneaux.name": "de pruneaux secs",
+  "ing.pruneaux.note": "Choumicha les dénoyaute",
+  "ing.beurre.name": "de beurre",
+  "ing.sucre.name": "de sucre semoule (ou de miel)",
+  "ing.sucre.note": "un peu moins si tu le veux moins sucré",
+  "ing.cannelle-moulue.name": "de cannelle moulue",
+  "ing.2.group": "Décoration",
+  "ing.amandes.name": "d'amandes mondées (sans peau)",
+  "ing.huile-friture.name": "huile pour frire les amandes",
+  "ing.huile-friture.pl": "huile pour frire les amandes",
+  "ing.sesame.name": "de graines de sésame",
+  "equipment.0": "Grande cocotte à fond épais avec couvercle, ou tajine en terre vernissé sur diffuseur de chaleur",
+  "equipment.1": "Tajine de service ou plat creux",
+  "equipment.2": "Petite casserole avec couvercle (pruneaux)",
+  "equipment.3": "Petite poêle (amandes, puis sésame)",
+  "equipment.4": "Petit bol et saladier",
+  "equipment.5": "Ficelle de cuisine",
+  "equipment.6": "Écumoire et papier absorbant",
+  "steps.0.title": "Fais infuser le safran",
+  "steps.0.text": "Mets {{safran}} de pistils de safran dans un petit bol avec {{eau-safran}} d'eau tiède. Laisse infuser 10 min pendant que tu prépares le reste.",
+  "steps.0.timer.label": "Infusion du safran",
+  "steps.0.timer.done": "Le safran a infusé : garde le bol à portée de main.",
+  "steps.1.title": "Prépare oignons, ail et bouquet",
+  "steps.1.text": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
+  "steps.2.title": "Fais revenir la viande dans les épices",
+  "steps.2.text": "Dans une grande cocotte à fond épais, à feu moyen-doux, mets {{huile}} d'huile, {{smen}} de smen, les oignons, l'ail, {{gingembre}} de gingembre, {{poivre}} de poivre, {{sel}} de sel, {{cannelle-baton:full}} et l'eau safranée. Mélange, ajoute {{viande}} d'agneau et fais revenir le tout 5 à 10 min en remuant souvent : la viande doit se colorer de tous côtés, sans brûler.",
+  "steps.2.timer.label": "Viande revenue",
+  "steps.2.timer.done": "La viande est colorée de tous côtés : verse l'eau chaude.",
+  "steps.3.title": "Mouille et laisse mijoter 1 h",
+  "steps.3.text": "Verse {{eau}} d'eau chaude, jamais froide : la viande doit être à peu près à moitié couverte, complète un peu si besoin. Pose le bouquet d'herbes dessus et porte à ébullition. Couvre, baisse à feu doux et laisse mijoter 1 h en remuant de temps en temps.",
+  "steps.3.timer.label": "Mijotage : 1re heure",
+  "steps.3.timer.done": "1 h de mijotage : prélève de la sauce pour les pruneaux.",
+  "steps.4.title": "Pendant ce temps, fais gonfler les pruneaux",
+  "steps.4.text": "Rince {{pruneaux}} de pruneaux, couvre-les d'eau bouillante et laisse-les gonfler 15 min. Égoutte-les.",
+  "steps.4.timer.label": "Trempage des pruneaux",
+  "steps.4.timer.done": "Égoutte les pruneaux et garde-les de côté.",
+  "steps.5.title": "Fais frire les amandes",
+  "steps.5.text": "Chauffe un fond d'huile dans une petite poêle, à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient bien dorées. Égoutte-les sur du papier absorbant.",
+  "steps.6.title": "Fais griller le sésame",
+  "steps.6.text": "Essuie la poêle et fais-y griller à sec {{sesame}} de graines de sésame, à feu moyen-doux, en remuant, juste jusqu'à ce qu'elles blondissent. Verse-les aussitôt dans un bol.",
+  "steps.7.title": "Prélève de la sauce pour les pruneaux",
+  "steps.7.text": "Au bout d'une heure de mijotage, verse environ un quart de la sauce de la cocotte dans une petite casserole. S'il ne reste presque plus de sauce, rajoute un peu d'eau chaude dans la cocotte. Recouvre et laisse la viande mijoter encore 30 min à feu doux.",
+  "steps.7.timer.label": "Fin du mijotage",
+  "steps.7.timer.done": "Vérifie : la viande doit se détacher de l'os ; sinon, prolonge de 15 min.",
+  "steps.8.title": "Cuis les pruneaux dans la sauce",
+  "steps.8.text": "Ajoute {{beurre}} de beurre dans la petite casserole et fais-le fondre à feu moyen. Ajoute les pruneaux égouttés, couvre et laisse cuire 10 min, jusqu'à ce qu'ils soient tendres.",
+  "steps.8.timer.label": "Pruneaux dans la sauce",
+  "steps.8.timer.done": "Les pruneaux sont tendres : ajoute le sucre et la cannelle.",
+  "steps.9.title": "Caramélise les pruneaux",
+  "steps.9.text": "Ajoute {{sucre}} de sucre (ou de miel) et {{cannelle-moulue}} de cannelle moulue, puis mélange délicatement pour ne pas écraser les pruneaux. Couvre et laisse confire 10 min à feu doux : ils doivent être brillants, dans un sirop épais. Si le sirop reste liquide, découvre et laisse réduire quelques minutes. Garde au chaud.",
+  "steps.9.timer.label": "Pruneaux caramélisés",
+  "steps.9.timer.done": "Sirop épais, pruneaux brillants : garde-les au chaud.",
+  "steps.10.title": "Fais réduire la sauce de la viande",
+  "steps.10.text": "Quand la viande se détache de l'os, retire le bouquet d'herbes. Si la sauce est encore liquide, fais-la réduire à découvert 10 à 15 min à feu moyen-doux, en remuant de temps en temps : elle doit être épaisse, avec des oignons fondus. Goûte et rectifie le sel. Pendant ce temps, réchauffe le plat de service au four chaud éteint, ou remplis-le d'eau chaude puis vide-le.",
+  "steps.10.timer.label": "Réduction de la sauce",
+  "steps.10.timer.done": "La sauce est épaisse : passe au service.",
+  "steps.11.title": "Dresse et sers",
+  "steps.11.text": "Dispose la viande dans le plat chaud et garnis-la des pruneaux. Mélange la sauce de la viande avec un peu de sirop des pruneaux et nappe-en la viande. Parsème d'amandes frites et de graines de sésame grillées. Sers aussitôt, au centre de la table, avec du pain.",
+  "secrets.0.text": "Fais cuire les pruneaux à part, pas dans la cocotte : ils caramélisent mieux et le plat ne vire pas au brun-noir.",
+  "secrets.0.source": "My Moroccan Food (Nargisse Benkabbou) ; cuisson à part aussi chez Choumicha, Bladi, Cooking with Alia, Morocco World News et Femmes du Maroc",
+  "secrets.1.text": "Confis les pruneaux dans un peu de sauce prélevée sur la viande, avec du beurre, puis le sucre ou le miel et la cannelle, jusqu'à un sirop épais.",
+  "secrets.1.source": "Cooking with Alia ; Morocco World News ; Bladi (« deux louches de sauce ») ; My Moroccan Food (sauce prélevée au bout d'1 h)",
+  "secrets.2.text": "Fais d'abord gonfler les pruneaux dans l'eau bouillante pour les attendrir.",
+  "secrets.2.source": "Cooking with Alia (15 min) ; My Moroccan Food (5 min) ; Bladi (pruneaux « gonflés dans l'eau »)",
+  "secrets.3.text": "Fais infuser les pistils de safran 10 min dans un peu d'eau tiède avant de les verser dans la cocotte.",
+  "secrets.3.source": "Cooking with Alia",
+  "secrets.4.text": "Ajoute une cuillerée de smen avec les épices de la viande.",
+  "secrets.4.source": "Choumicha",
+  "secrets.5.text": "Pose sur la viande un bouquet ficelé de coriandre et de persil, et retire-le avant de servir.",
+  "secrets.5.source": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)",
+  "secrets.6.text": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
+  "secrets.6.source": "Choumicha (conseil donné pour le tajine en terre) ; Cooking with Alia (viande à moitié couverte) ; My Moroccan Food (eau ajoutée si ça attache)",
+  "secrets.7.text": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
+  "secrets.7.source": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)",
+  "secrets.8.text": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
+  "secrets.8.source": "My Moroccan Food",
+  "secrets.9.text": "Avant de napper, mélange la sauce de la viande avec un peu du sirop des pruneaux.",
+  "secrets.9.source": "Choumicha",
+  "secrets.10.text": "Amandes mondées frites dans l'huile puis égouttées ; sésame grillé légèrement, à sec.",
+  "secrets.10.source": "Bladi ; Femmes du Maroc (amandes « émondées et frites ») ; Cooking with Alia (amandes frites)",
+  "secrets.11.text": "Choisis un morceau qui supporte une longue cuisson, avec os : épaule, collier ou souris d'agneau.",
+  "secrets.11.source": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
+  "secrets.12.text": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
+  "secrets.12.source": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech",
+  "secrets.13.text": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
+  "secrets.13.source": "Choumicha (conseils sur le tajine)",
+  "mistakes.0": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+  "mistakes.1": "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
+  "mistakes.2": "Laisser la sauce s'assécher : la viande attache. Rajoute un peu d'eau chaude dès qu'il n'en reste presque plus (My Moroccan Food, Cooking with Alia).",
+  "mistakes.3": "Arrêter la cuisson trop tôt : la viande doit se détacher facilement de l'os (My Moroccan Food).",
+  "mistakes.4": "Brusquer les pruneaux en fin de cuisson : mélange-les délicatement (Cooking with Alia).",
+  "mistakes.5": "Trop griller le sésame : il doit juste blondir (Bladi : « griller légèrement »).",
+  "mistakes.6": "Mettre un tajine en terre sur un feu vif : il peut se fissurer. Toujours à feu doux, avec un diffuseur sur le gaz (Choumicha).",
+  "mistakes.7": "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
+  "mistakes.8": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
+  "variants.0": "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
+  "variants.1": "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
+  "variants.2": "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
+  "variants.3": "Pruneaux et abricots : Femmes du Maroc (abricots secs) et la cheffe Asmaa Alami (Le360) associent pruneaux et abricots caramélisés ; Femmes du Maroc ajoute aussi des coings ou des pommes caramélisés.",
+  "variants.4": "Épices en plus : une pincée de ras el hanout (Choumicha, Cooking with Alia) ou un peu de curcuma (My Moroccan Food, Morocco World News, Cooking with Alia).",
+  "variants.5": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
+  "variants.6": "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha)."
+ }
+}

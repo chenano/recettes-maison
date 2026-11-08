@@ -1,0 +1,402 @@
+{
+ "_slug": "salade-pois-chiches-thon",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Salade de pois chiches au thon",
+   "t": "Салат из нута с тунцом"
+  },
+  "darija": {
+   "fr": "Chlada d l-hommos b t-ton",
+   "t": "Шлада д ль-хоммос б т-тон"
+  },
+  "tagline": {
+   "fr": "Pois chiches, thon, tomates cerises et oignon rouge, au citron et à l'huile d'olive : la salade italienne sans cuisson, prête en un quart d'heure.",
+   "t": "Нут, тунец, помидоры черри и красный лук с лимоном и оливковым маслом: итальянский салат без варки, готовый за четверть часа."
+  },
+  "region": {
+   "fr": "Italie : l'« insalata di ceci e tonno », salade familiale surtout servie l'été. Les recettes italiennes y mettent volontiers de l'oignon rouge de Tropea (Cotto in un click ; La cucina di Loredana ; Le dolcezze di mamma Nenè).",
+   "t": "Италия: «insalata di ceci e tonno» — домашний салат, который подают прежде всего летом. В итальянских рецептах в него охотно кладут красный лук из Тропеи (Cotto in un click; La cucina di Loredana; Le dolcezze di mamma Nenè)."
+  },
+  "occasion": {
+   "fr": "Repas froid express, midi ou soir, quand on n'a pas envie de cuisiner ni d'allumer le feu ; elle s'emporte facilement au travail ou en balade (Il Cucchiaio d'Argento ; Donna Moderna ; Le dolcezze di mamma Nenè).",
+   "t": "Быстрая холодная еда в обед или на ужин, когда не хочется ни готовить, ни включать плиту; его легко взять с собой на работу или на прогулку (Il Cucchiaio d'Argento; Donna Moderna; Le dolcezze di mamma Nenè)."
+  },
+  "img_alt": {
+   "fr": "Salade de pois chiches au thon (photo d'une version avec carotte et fromage)",
+   "t": "Салат из нута с тунцом (на фото — вариант с морковью и сыром)"
+  },
+  "serving": {
+   "fr": "Sers-la froide, en plat unique ou en entrée (Cookist ; Donna Moderna). Donna Moderna la sert dans de petits bols, avec des feuilles de basilic et des croûtons de pain poêlés ; Misya sert sa salade de haricots au thon avec un quartier de citron.",
+   "t": "Подавайте холодным, как самостоятельное блюдо или закуску (Cookist; Donna Moderna). Donna Moderna подаёт его в маленьких мисках, с листьями базилика и гренками, обжаренными на сковороде; Misya подаёт свой салат из фасоли с тунцом с долькой лимона."
+  },
+  "ing.0.group": {
+   "fr": "Salade",
+   "t": "Салат"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches cuits",
+   "t": "варёного нута"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "en conserve ; poids égoutté",
+   "t": "консервированный; вес без жидкости"
+  },
+  "ing.thon.name": {
+   "fr": "de thon en conserve, à l'huile d'olive ou au naturel",
+   "t": "консервированного тунца, в оливковом масле или в собственном соку"
+  },
+  "ing.thon.note": {
+   "fr": "poids égoutté",
+   "t": "вес без жидкости"
+  },
+  "ing.tomates-cerises.name": {
+   "fr": "de tomates cerises",
+   "t": "помидоров черри"
+  },
+  "ing.oignon-rouge.name": {
+   "fr": "petit oignon rouge",
+   "t": "головка красного лука небольшого размера"
+  },
+  "ing.oignon-rouge.pl": {
+   "fr": "petits oignons rouges",
+   "t": "головки красного лука небольшого размера"
+  },
+  "ing.oignon-rouge.pl5": {
+   "fr": "petit oignon rouge / petits oignons rouges",
+   "t": "головок красного лука небольшого размера"
+  },
+  "ing.eau.name": {
+   "fr": "eau froide",
+   "t": "холодная вода"
+  },
+  "ing.eau.note": {
+   "fr": "pour faire tremper l'oignon",
+   "t": "чтобы замочить лук"
+  },
+  "ing.basilic.name": {
+   "fr": "feuilles de basilic frais",
+   "t": "листья свежего базилика"
+  },
+  "ing.basilic.note": {
+   "fr": "facultatif ; ou du persil plat",
+   "t": "по желанию; или петрушка"
+  },
+  "ing.1.group": {
+   "fr": "Assaisonnement",
+   "t": "Заправка"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron.note": {
+   "fr": "pour le jus",
+   "t": "для сока"
+  },
+  "ing.huile-olive.name": {
+   "fr": "d'huile d'olive vierge extra",
+   "t": "оливкового масла Extra Virgin"
+  },
+  "ing.origan.name": {
+   "fr": "origan séché",
+   "t": "сушёный орегано"
+  },
+  "ing.origan.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir",
+   "t": "чёрный перец"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "equipment.0": {
+   "fr": "Ouvre-boîte",
+   "t": "Консервный нож"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Дуршлаг"
+  },
+  "equipment.2": {
+   "fr": "Grand saladier",
+   "t": "Большой салатник"
+  },
+  "equipment.3": {
+   "fr": "Deux petits bols",
+   "t": "Две маленькие миски"
+  },
+  "equipment.4": {
+   "fr": "Planche et couteau bien aiguisé",
+   "t": "Доска и хорошо заточенный нож"
+  },
+  "equipment.5": {
+   "fr": "Presse-agrumes (facultatif)",
+   "t": "Соковыжималка для цитрусовых (по желанию)"
+  },
+  "equipment.6": {
+   "fr": "Fourchette",
+   "t": "Вилка"
+  },
+  "steps.0.title": {
+   "fr": "Presse le citron",
+   "t": "Выжмите лимон"
+  },
+  "steps.0.text": {
+   "fr": "Presse {{citron:full}} et verse le jus dans un petit bol.",
+   "t": "Выжмите {{citron:full}} и вылейте сок в маленькую миску."
+  },
+  "steps.1.title": {
+   "fr": "Émince l'oignon",
+   "t": "Нарежьте лук"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et coupe en tranches très fines {{oignon-rouge:full}}.",
+   "t": "Очистите и нарежьте очень тонкими ломтиками красный лук ({{oignon-rouge}} шт.)."
+  },
+  "steps.2.title": {
+   "fr": "Adoucis l'oignon",
+   "t": "Смягчите вкус лука"
+  },
+  "steps.2.text": {
+   "fr": "Mets les tranches d'oignon dans un autre petit bol, couvre d'{{eau}} et ajoute un peu du jus de citron. Laisse tremper 5 à 10 minutes, le temps de préparer le reste : l'oignon devient plus doux et reste croquant.",
+   "t": "Положите ломтики лука в другую маленькую миску, залейте холодной водой и добавьте немного лимонного сока. Оставьте на 5–10 минут, пока готовите остальное: лук станет мягче на вкус и останется хрустящим."
+  },
+  "steps.3.title": {
+   "fr": "Rince les pois chiches",
+   "t": "Промойте нут"
+  },
+  "steps.3.text": {
+   "fr": "Verse les pois chiches en conserve dans une passoire. Rince-les sous l'eau froide du robinet et laisse-les bien égoutter : il t'en faut {{pois-chiches}}.",
+   "t": "Высыпьте консервированный нут в дуршлаг. Промойте его под холодной проточной водой и дайте хорошо стечь: вам нужно {{pois-chiches}}."
+  },
+  "steps.4.title": {
+   "fr": "Coupe les tomates",
+   "t": "Нарежьте помидоры"
+  },
+  "steps.4.text": {
+   "fr": "Lave {{tomates-cerises}} de tomates cerises. Coupe-les en deux, ou en quatre si elles sont grosses.",
+   "t": "Вымойте {{tomates-cerises}} помидоров черри. Разрежьте их пополам или на четыре части, если они крупные."
+  },
+  "steps.5.title": {
+   "fr": "Émiette le thon",
+   "t": "Разберите тунца"
+  },
+  "steps.5.text": {
+   "fr": "Égoutte le thon : il t'en faut {{thon}}. Émiette-le grossièrement à la fourchette, en gardant des morceaux.",
+   "t": "Слейте жидкость с тунца: вам нужно {{thon}}. Крупно разберите его вилкой, оставляя кусочки."
+  },
+  "steps.6.title": {
+   "fr": "Prépare la sauce",
+   "t": "Приготовьте заправку"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute au reste du jus de citron {{huile-olive}} d'huile d'olive, du {{sel}} et du {{poivre}}. Fouette à la fourchette.",
+   "t": "Добавьте к оставшемуся лимонному соку {{huile-olive}} оливкового масла, соль и перец. Взбейте вилкой."
+  },
+  "steps.7.title": {
+   "fr": "Assemble la salade",
+   "t": "Соберите салат"
+  },
+  "steps.7.text": {
+   "fr": "Égoutte l'oignon. Dans le saladier, mets les pois chiches, les tomates, l'oignon et le thon.",
+   "t": "Слейте воду с лука. Сложите в салатник нут, помидоры, лук и тунца."
+  },
+  "steps.8.title": {
+   "fr": "Assaisonne",
+   "t": "Заправьте"
+  },
+  "steps.8.text": {
+   "fr": "Verse la sauce sur la salade, parsème d'{{origan}} et mélange délicatement.",
+   "t": "Полейте салат заправкой, посыпьте сушёным орегано и аккуратно перемешайте."
+  },
+  "steps.9.title": {
+   "fr": "Goûte et sers",
+   "t": "Попробуйте и подавайте"
+  },
+  "steps.9.text": {
+   "fr": "Goûte, puis ajoute un peu de sel, de poivre ou de citron si besoin. Parsème de {{basilic}} déchirées et sers tout de suite, ou laisse 30 minutes au frigo pour que les saveurs se mélangent.",
+   "t": "Попробуйте и при необходимости добавьте немного соли, перца или лимона. Посыпьте разорванными листьями свежего базилика и сразу подавайте или оставьте на 30 минут в холодильнике, чтобы вкусы соединились."
+  },
+  "secrets.0.text": {
+   "fr": "Rince bien les pois chiches en conserve, pour enlever le liquide et le sel de la boîte.",
+   "t": "Хорошо промывайте консервированный нут, чтобы смыть жидкость и соль из банки."
+  },
+  "secrets.0.source": {
+   "fr": "Cookist (Silvia Ferrau) ; Chez Bibia ; Donna Moderna ; Le dolcezze di mamma Nenè",
+   "t": "Cookist (Silvia Ferrau), Chez Bibia, Donna Moderna и Le dolcezze di mamma Nenè"
+  },
+  "secrets.1.text": {
+   "fr": "Tranche l'oignon rouge très fin, puis fais-le tremper quelques minutes dans de l'eau citronnée : il perd son piquant et reste croquant.",
+   "t": "Нарежьте красный лук очень тонко, затем замочите на несколько минут в воде с лимонным соком: он потеряет остроту и останется хрустящим."
+  },
+  "secrets.1.source": {
+   "fr": "Il Cucchiaio d'Argento (insalata di fagioli e tonno : oignon « in acqua acidulata per una decina di minuti ») ; Cotto in un click (oignon mariné 5 minutes, devenu doux, rose et croquant)",
+   "t": "Il Cucchiaio d'Argento (insalata di fagioli e tonno: лук «in acqua acidulata per una decina di minuti»); Cotto in un click (лук, маринованный 5 минут, становится мягким, розовым и хрустящим)"
+  },
+  "secrets.2.text": {
+   "fr": "Thon à l'huile : mélange-le avec le reste avant d'assaisonner. Thon au naturel : assaisonne d'abord pois chiches et tomates, et ajoute le thon après.",
+   "t": "Тунец в масле смешайте с остальными продуктами до заправки. Тунец в собственном соку: сначала заправьте нут и помидоры, а тунца добавьте потом."
+  },
+  "secrets.2.source": {
+   "fr": "Il Cucchiaio d'Argento",
+   "t": "Il Cucchiaio d'Argento"
+  },
+  "secrets.3.text": {
+   "fr": "Choisis un bon thon en filets ; Cookist conseille le thon à l'huile en bocal de verre.",
+   "t": "Выбирайте хорошее филе тунца; Cookist советует тунца в масле в стеклянной банке."
+  },
+  "secrets.3.source": {
+   "fr": "Il Cucchiaio d'Argento ; Cookist (Elpidio)",
+   "t": "Il Cucchiaio d'Argento и Cookist (Elpidio)"
+  },
+  "secrets.4.text": {
+   "fr": "Émiette le thon grossièrement, à la fourchette : il doit rester en morceaux.",
+   "t": "Разбирайте тунца крупно, вилкой: он должен остаться кусочками."
+  },
+  "secrets.4.source": {
+   "fr": "Chez Bibia ; Cotto in un click",
+   "t": "Chez Bibia и Cotto in un click"
+  },
+  "secrets.5.text": {
+   "fr": "La cucina di Loredana retire le jus et les graines des tomates avant de les mettre dans la salade.",
+   "t": "La cucina di Loredana удаляет из помидоров сок и семена, прежде чем положить их в салат."
+  },
+  "secrets.5.source": {
+   "fr": "La cucina di Loredana",
+   "t": "La cucina di Loredana"
+  },
+  "secrets.6.text": {
+   "fr": "Elle est encore meilleure après 30 minutes au frigo, le temps que les saveurs se mélangent ; mais elle se mange aussi tout de suite.",
+   "t": "Он ещё вкуснее после 30 минут в холодильнике, когда вкусы соединятся; но его можно есть и сразу."
+  },
+  "secrets.6.source": {
+   "fr": "Le dolcezze di mamma Nenè ; Cotto in un click ; Misya (insalata di fagioli e tonno)",
+   "t": "Le dolcezze di mamma Nenè, Cotto in un click и Misya (insalata di fagioli e tonno)"
+  },
+  "secrets.7.text": {
+   "fr": "Si elle a passé du temps au frigo, sors-la 5 minutes avant de servir.",
+   "t": "Если салат стоял в холодильнике, достаньте его за 5 минут до подачи."
+  },
+  "secrets.7.source": {
+   "fr": "Donna Moderna",
+   "t": "Donna Moderna"
+  },
+  "secrets.8.text": {
+   "fr": "Pour du croquant, ajoute du céleri en rondelles ou du fenouil en dés ; mamma Nenè propose aussi le concombre.",
+   "t": "Для хруста добавьте сельдерей кружочками или фенхель кубиками; mamma Nenè предлагает также огурец."
+  },
+  "secrets.8.source": {
+   "fr": "Donna Moderna ; Le dolcezze di mamma Nenè",
+   "t": "Donna Moderna и Le dolcezze di mamma Nenè"
+  },
+  "secrets.9.text": {
+   "fr": "En Italie, ce sont l'origan et le basilic qui parfument cette salade.",
+   "t": "В Италии этот салат ароматизируют орегано и базиликом."
+  },
+  "secrets.9.source": {
+   "fr": "Il Cucchiaio d'Argento (origan frais) ; Cookist (origan séché et basilic) ; Donna Moderna (origan et basilic) ; Chez Bibia, La cucina di Loredana, Le dolcezze di mamma Nenè (basilic)",
+   "t": "Il Cucchiaio d'Argento (свежий орегано); Cookist (сушёный орегано и базилик); Donna Moderna (орегано и базилик); Chez Bibia, La cucina di Loredana, Le dolcezze di mamma Nenè (базилик)"
+  },
+  "secrets.10.text": {
+   "fr": "Ne sois pas avare d'huile d'olive vierge extra : Donna Moderna parle d'« un generoso filo ».",
+   "t": "Не жалейте оливкового масла Extra Virgin: Donna Moderna говорит об «un generoso filo»."
+  },
+  "secrets.10.source": {
+   "fr": "Donna Moderna",
+   "t": "Donna Moderna"
+  },
+  "secrets.11.text": {
+   "fr": "Pas d'oignon rouge ? Prends une cébette, une échalote ou de la ciboulette.",
+   "t": "Нет красного лука? Возьмите стебель зелёного лука, шалот или шнитт-лук."
+  },
+  "secrets.11.source": {
+   "fr": "Le dolcezze di mamma Nenè",
+   "t": "Le dolcezze di mamma Nenè"
+  },
+  "mistakes.0": {
+   "fr": "Garder le reste de thon dans la boîte ouverte : vide-la dans un bol ou un autre récipient et mets-le au frigo, car l'étain de la boîte ouverte peut passer plus vite dans l'aliment (Food Standards Agency, Royaume-Uni).",
+   "t": "Хранить остатки тунца в открытой банке: переложите их в миску или другую ёмкость и уберите в холодильник, потому что олово из открытой банки может быстрее переходить в продукт (Food Standards Agency, Великобритания)."
+  },
+  "mistakes.1": {
+   "fr": "Utiliser une boîte visiblement bombée, profondément cabossée, ou rouillée à cause d'une bosse : n'en mange pas le contenu ; une petite bosse peu profonde, sans autre dégât, ne pose pas de problème (Food Standards Agency).",
+   "t": "Использовать банку, которая заметно вздулась, сильно помята или заржавела из-за вмятины: не ешьте её содержимое; небольшая неглубокая вмятина без других повреждений не страшна (Food Standards Agency)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre l'oignon cru sans le faire tremper : il est plus piquant et plus lourd (Cotto in un click).",
+   "t": "Класть сырой лук без замачивания: он острее и тяжелее для желудка (Cotto in un click)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les pois chiches mal égouttés : ils doivent perdre toute l'eau de la boîte (Donna Moderna ; Cookist).",
+   "t": "Плохо откидывать нут: вся жидкость из банки должна стечь (Donna Moderna; Cookist)."
+  },
+  "mistakes.4": {
+   "fr": "Garder la salade plus longtemps que le lendemain : au frigo, dans une boîte fermée, une journée au plus (Cookist ; La cucina di Loredana).",
+   "t": "Хранить салат дольше, чем до следующего дня: в холодильнике, в закрытом контейнере, не больше суток (Cookist; La cucina di Loredana)."
+  },
+  "mistakes.5": {
+   "fr": "Pour une femme enceinte, dépasser 4 boîtes moyennes de thon par semaine (environ 140 g égouttés chacune), à cause de polluants comme le mercure (NHS, Royaume-Uni).",
+   "t": "Беременным — есть больше 4 средних банок тунца в неделю (около 140 г каждая без жидкости) из-за загрязнителей, например ртути (NHS, Великобритания)."
+  },
+  "variants.0": {
+   "fr": "Version du Cucchiaio d'Argento : pois chiches, tomates cerises, thon et origan frais, avec seulement huile d'olive, sel et poivre, sans oignon ni citron.",
+   "t": "Версия Il Cucchiaio d'Argento: нут, помидоры черри, тунец и свежий орегано, только с оливковым маслом, солью и перцем, без лука и лимона."
+  },
+  "variants.1": {
+   "fr": "Version de Cookist : pois chiches, tomates cerises, thon à l'huile, origan séché et basilic, sans oignon ni citron.",
+   "t": "Версия Cookist: нут, помидоры черри, тунец в масле, сушёный орегано и базилик, без лука и лимона."
+  },
+  "variants.2": {
+   "fr": "Version de Donna Moderna : sans tomates, avec jus de citron, origan et basilic, et un peu de céleri si tu veux ; 2 heures au frigo, puis croûtons de pain poêlés au service.",
+   "t": "Версия Donna Moderna: без помидоров, с лимонным соком, орегано и базиликом и, по желанию, небольшим количеством сельдерея; 2 часа в холодильнике, а при подаче — гренки, обжаренные на сковороде."
+  },
+  "variants.3": {
+   "fr": "Version riche d'Agrodolce : maïs, olives de Gaeta, cerneaux de noix, tomates séchées et ciboulette.",
+   "t": "Богатая версия Agrodolce: кукуруза, оливки из Гаэты, ядра грецких орехов, вяленые помидоры и шнитт-лук."
+  },
+  "variants.4": {
+   "fr": "Version de La cucina di Loredana : avec concombre en fines rondelles, olives noires et basilic.",
+   "t": "Версия La cucina di Loredana: с тонкими кружочками огурца, чёрными оливками и базиликом."
+  },
+  "variants.5": {
+   "fr": "Avec œufs durs et roquette (Cucina facile con Elena ; Rita amor di cucina) : compte environ 10 minutes pour cuire les œufs (Cucina facile con Elena).",
+   "t": "С яйцами вкрутую и рукколой (Cucina facile con Elena; Rita amor di cucina): яйца варятся около 10 минут (Cucina facile con Elena)."
+  },
+  "variants.6": {
+   "fr": "Au vinaigre de cidre à la place du citron (Chez Bibia ; Cotto in un click).",
+   "t": "С яблочным уксусом вместо лимона (Chez Bibia; Cotto in un click)."
+  },
+  "variants.7": {
+   "fr": "Avec des haricots blancs à la place des pois chiches : l'« insalata di fagioli e tonno », avec cébette, jus de citron et persil (Il Cucchiaio d'Argento ; Misya).",
+   "t": "С белой фасолью вместо нута: «insalata di fagioli e tonno», с зелёным луком, лимонным соком и петрушкой (Il Cucchiaio d'Argento; Misya)."
+  },
+  "variants.8": {
+   "fr": "Avec du persil à la place du basilic, comme dans l'insalata di ceci de Misya ou l'insalata di fagioli e tonno (Il Cucchiaio d'Argento ; Misya).",
+   "t": "С петрушкой вместо базилика, как в insalata di ceci у Misya или в insalata di fagioli e tonno (Il Cucchiaio d'Argento; Misya)."
+  },
+  "variants.9": {
+   "fr": "Autre poisson : maquereau au naturel ou saumon fumé à la place du thon (Donna Moderna ; Cookist pour le saumon fumé). Si tu es enceinte, le NHS demande de cuire le saumon fumé jusqu'à ce qu'il soit fumant, à cause de la listeria, et de ne pas dépasser 2 portions par semaine de poisson gras comme le maquereau.",
+   "t": "Другая рыба: скумбрия в собственном соку или копчёный лосось вместо тунца (Donna Moderna; Cookist — для копчёного лосося). Если вы беременны, NHS требует прогревать копчёного лосося, пока от него не пойдёт пар, из-за листерии, и есть не больше 2 порций жирной рыбы, например скумбрии, в неделю."
+  }
+ }
+}

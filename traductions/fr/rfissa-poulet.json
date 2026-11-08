@@ -1,0 +1,206 @@
+{
+ "_slug": "rfissa-poulet",
+ "_ingredients": {
+  "poulet": {
+   "q": 1.8,
+   "u": "kg",
+   "fr": "de poulet entier halal, beldi (fermier) si possible"
+  },
+  "oignons": {
+   "q": 3,
+   "u": "",
+   "fr": "gros oignon / gros oignons",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "huile": {
+   "q": 6,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive"
+  },
+  "smen": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de smen (beurre rance marocain)"
+  },
+  "gingembre": {
+   "q": 2,
+   "u": "c. à c.",
+   "fr": "de gingembre moulu"
+  },
+  "curcuma": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de curcuma"
+  },
+  "ras-el-hanout": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de ras el hanout"
+  },
+  "poivre": {
+   "q": 0.75,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "safran": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de pistils de safran"
+  },
+  "sel": {
+   "q": null,
+   "u": "",
+   "fr": "Sel, selon le goût"
+  },
+  "fenugrec": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de graines de fenugrec (helba)"
+  },
+  "persil": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de persil plat"
+  },
+  "coriandre": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de coriandre fraîche"
+  },
+  "eau": {
+   "q": 1.5,
+   "u": "l",
+   "fr": "d'eau"
+  },
+  "lentilles": {
+   "q": 150,
+   "u": "g",
+   "fr": "de lentilles vertes ou brunes"
+  },
+  "smen-fin": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de smen, pour finir"
+  },
+  "msemen": {
+   "q": 12,
+   "u": "",
+   "fr": "msemen / msemen",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  }
+ },
+ "textes": {
+  "title": "Rfissa au poulet, lentilles et fenugrec",
+  "darija": "rfissa bel djaj",
+  "tagline": "Des lanières de msemen fumantes, imbibées d'un bouillon au fenugrec et au ras el hanout, sous un poulet tendre, des lentilles et des oignons fondus : le plat de fête qu'on offre à la jeune maman.",
+  "region": "Maroc (nombreuses versions familiales ; bormache à Meknès)",
+  "occasion": "Naissances (surtout le troisième jour après l'accouchement), baptêmes, repas de famille et soirées de ramadan",
+  "serving": "Sers la rfissa très chaude, dans un grand plat rond posé au milieu de la table : chacun mange de son côté, à la main ou à la cuillère (Taste of Maroc). Garde un ou deux bols de bouillon à part, et les graines de fenugrec dans un petit bol pour ceux qui aiment. C'est le plat qu'on offre à la jeune maman, surtout le troisième jour après la naissance, et qu'on partage en famille (Le360, Taste of Maroc).",
+  "ing.0.group": "Poulet et sauce aux oignons",
+  "ing.poulet.name": "de poulet entier halal, beldi (fermier) si possible",
+  "ing.poulet.note": "entier ou coupé en quatre ; un poulet beldi demande environ 1 h de cuisson de plus",
+  "ing.oignons.name": "gros oignon",
+  "ing.oignons.pl": "gros oignons",
+  "ing.oignons.note": "à émincer finement",
+  "ing.huile.name": "d'huile d'olive",
+  "ing.smen.name": "de smen (beurre rance marocain)",
+  "ing.smen.note": "ou du beurre",
+  "ing.gingembre.name": "de gingembre moulu",
+  "ing.curcuma.name": "de curcuma",
+  "ing.ras-el-hanout.name": "de ras el hanout",
+  "ing.ras-el-hanout.note": "frais, acheté chez un épicier de confiance",
+  "ing.poivre.name": "de poivre noir moulu",
+  "ing.safran.name": "de pistils de safran",
+  "ing.safran.note": "environ 15 pistils",
+  "ing.sel.name": "Sel, selon le goût",
+  "ing.sel.note": "repère : environ 1½ c. à c. en tout ; rectifie à la fin",
+  "ing.1.group": "Bouillon, fenugrec et lentilles",
+  "ing.fenugrec.name": "de graines de fenugrec (helba)",
+  "ing.fenugrec.note": "à faire tremper la veille",
+  "ing.persil.name": "de persil plat",
+  "ing.coriandre.name": "de coriandre fraîche",
+  "ing.eau.name": "d'eau",
+  "ing.eau.note": "plus un peu d'eau chaude si le bouillon baisse",
+  "ing.lentilles.name": "de lentilles vertes ou brunes",
+  "ing.lentilles.note": "pas de lentilles corail : elles se défont",
+  "ing.2.group": "Pour finir et servir",
+  "ing.smen-fin.name": "de smen, pour finir",
+  "ing.smen-fin.note": "ou du beurre",
+  "ing.msemen.name": "msemen",
+  "ing.msemen.pl": "msemen",
+  "ing.msemen.note": "une fournée de la recette du msemen de l'application, soit 2 par personne",
+  "equipment.0": "Un bol pour le trempage du fenugrec",
+  "equipment.1": "Une grande marmite à fond épais avec couvercle",
+  "equipment.2": "Un couscoussier, pour réchauffer les msemen à la vapeur",
+  "equipment.3": "Un carré de mousseline (ou d'étamine) et de la ficelle, si tu veux enfermer le fenugrec",
+  "equipment.4": "Une louche et une écumoire",
+  "equipment.5": "Un grand plat de service rond",
+  "equipment.6": "Un ou deux bols pour le bouillon servi à part",
+  "steps.0.title": "La veille : fais tremper le fenugrec",
+  "steps.0.text": "Mets {{fenugrec}} de graines de fenugrec dans un bol et couvre-les largement d'eau froide. Laisse tremper toute la nuit, ou au moins 6 h : les graines ramollissent et deviennent moins fortes. Tu as oublié ? Verse de l'eau bouillante dessus et attends 1 à 2 h.",
+  "steps.1.title": "Prépare les msemen à l'avance",
+  "steps.1.text": "Prépare {{msemen:full}} avec la recette du msemen de l'application, sans la dernière étape au miel et au beurre, la veille ou pendant que le poulet mijote. Dès la sortie de la poêle, encore chauds, déchire-les en lanières de la taille d'une bouchée. Une fois froides, garde les lanières dans un sac ; si tu les fais plus d'un jour à l'avance, congèle-les.",
+  "steps.2.title": "Émince, hache, rince",
+  "steps.2.text": "Émince finement {{oignons:full}}. Hache finement {{persil}} de persil et {{coriandre}} de coriandre. Rince {{lentilles}} de lentilles et égoutte-les. Égoutte le fenugrec ; si tu veux, noue-le dans un carré de mousseline pour pouvoir le retirer au moment de servir.",
+  "steps.2.img.alt": "Persil haché au couteau sur une planche",
+  "steps.2.img.caption": "Hacher les herbes",
+  "steps.3.title": "Mets tout dans la marmite",
+  "steps.3.text": "Dans une grande marmite, mets {{poulet}} de poulet, entier ou coupé en quatre, avec les oignons, {{huile}} d'huile d'olive et {{smen}} de smen. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{ras-el-hanout}} de ras el hanout, {{poivre}} de poivre, {{safran}} de safran émietté et un peu de sel. Remue pour bien enrober le poulet d'épices.",
+  "steps.4.title": "Laisse la sauce se former",
+  "steps.4.text": "Couvre et laisse cuire à feu moyen 20 min, en remuant de temps en temps. C'est prêt quand les oignons ont ramolli et qu'une sauce épaisse s'est formée.",
+  "steps.4.timer.label": "Sauce aux oignons",
+  "steps.4.timer.done": "Une sauce épaisse s'est formée ? Ajoute l'eau et le fenugrec.",
+  "steps.5.title": "Ajoute l'eau et le fenugrec",
+  "steps.5.text": "Ajoute le fenugrec égoutté, les herbes hachées et {{eau}} d'eau. Porte à ébullition, puis couvre et baisse à feu moyen-doux. Poulet beldi : laisse mijoter 1 h avant d'ajouter les lentilles. Poulet standard : ajoute les lentilles tout de suite et passe à l'étape suivante.",
+  "steps.5.timer.label": "Poulet beldi, 1re heure",
+  "steps.5.timer.done": "Ajoute les lentilles : c'est l'étape suivante.",
+  "steps.6.title": "Ajoute les lentilles et laisse mijoter",
+  "steps.6.text": "Ajoute les lentilles, couvre et laisse mijoter à feu moyen-doux environ 1 h, jusqu'à ce que les lentilles et le poulet soient bien tendres. À mi-cuisson, goûte le bouillon et rajoute de l'eau chaude s'il a trop baissé : il doit en rester beaucoup. Si le poulet est cuit avant les lentilles, sors-le et mets-le de côté, couvert.",
+  "steps.6.timer.label": "Lentilles",
+  "steps.6.timer.done": "Goûte une lentille : elle doit être tendre. Sinon, prolonge la cuisson.",
+  "steps.7.title": "Rectifie et finis au smen",
+  "steps.7.text": "Goûte le bouillon : il doit être très parfumé. Rectifie le sel, puis ajoute {{smen-fin}} de smen et fais tourner la marmite pour le fondre dans le bouillon. Si tu avais sorti le poulet, remets-le quelques minutes pour le réchauffer.",
+  "steps.8.title": "Réchauffe les msemen à la vapeur",
+  "steps.8.text": "Porte à ébullition de l'eau dans le bas du couscoussier. Mets les lanières de msemen dans le haut et laisse-les chauffer à la vapeur 10 min, jusqu'à ce qu'elles soient brûlantes et souples.",
+  "steps.8.timer.label": "Msemen à la vapeur",
+  "steps.8.timer.done": "Les lanières sont brûlantes et souples : dresse tout de suite.",
+  "steps.9.title": "Dresse la rfissa",
+  "steps.9.text": "Étale les lanières chaudes dans un grand plat rond, en couche épaisse : on ne doit plus voir le fond. Arrose-les de quelques louches de bouillon, puis pose le poulet au centre, entier ou en morceaux. Répartis dessus les lentilles et les oignons à l'écumoire, puis verse presque tout le bouillon en gardant un ou deux bols à part.",
+  "steps.10.title": "Sers très chaud",
+  "steps.10.text": "Si tu as noué le fenugrec dans la mousseline, verse les graines dans un petit bol pour les amateurs. Pose le plat au milieu de la table et sers aussitôt, très chaud, avec les bols de bouillon : chacun mange de son côté du plat, à la main ou à la cuillère.",
+  "secrets.0.text": "Fais tremper le fenugrec toute la nuit, ou au moins 6 h : les graines ramollissent et perdent une partie de leur force. Oublié ? Couvre-les d'eau bouillante et attends 1 à 2 h.",
+  "secrets.0.source": "Taste of Maroc ; Paula Wolfert (au moins 4 h dans l'eau tiède)",
+  "secrets.1.text": "Enferme le fenugrec dans un petit sac de tissu (la « kemmoussa ») : il parfume le bouillon sans qu'on croque les graines, et tu les sers à part pour les amateurs.",
+  "secrets.1.source": "Barlamane (Hajja Fatima, cuisinière de fêtes à Casablanca) ; Choumicha ; Taste of Maroc",
+  "secrets.2.text": "Le bouillon épais et parfumé (« mdaghmar ») vient des oignons : mets-en beaucoup et laisse-les cuire longtemps à feu doux, jusqu'à ce qu'ils fondent comme une crème.",
+  "secrets.2.source": "Barlamane (Hajja Fatima)",
+  "secrets.3.text": "Prends un ras el hanout frais, acheté chez un épicier de confiance : c'est « l'âme » de la rfissa. Pour tante Aïcha, de Beni Mellal, il fait « monter le plat de dix crans ».",
+  "secrets.3.source": "Barlamane (Hajja Fatima) ; Paula Wolfert (recette de tante Aïcha)",
+  "secrets.4.text": "Prévois un bouillon abondant : les msemen en boivent beaucoup. Rajoute de l'eau chaude en cours de cuisson s'il baisse, goûte-le (il doit être très parfumé) et garde-en un ou deux bols pour servir à part.",
+  "secrets.4.source": "Taste of Maroc ; MarocMama ; Paula Wolfert ; Lalla Moulati",
+  "secrets.5.text": "Déchire les msemen encore chauds, puis réchauffe les lanières 10 min à la vapeur du couscoussier juste avant de servir : elles deviennent brûlantes et souples, prêtes à boire le bouillon.",
+  "secrets.5.source": "Taste of Maroc ; Paula Wolfert ; Choumicha",
+  "secrets.6.text": "Un poulet beldi a plus de goût et tient mieux la longue cuisson. Avec un poulet standard, sors-le du bouillon dès qu'il est cuit pour qu'il ne se défasse pas.",
+  "secrets.6.source": "Barlamane (Hajja Fatima) ; Taste of Maroc",
+  "secrets.7.text": "Termine par une cuillère de smen en faisant tourner la marmite : sans lui, ceux qui connaissent le plat sentent la différence.",
+  "secrets.7.source": "Taste of Maroc ; Choumicha",
+  "mistakes.0": "Mettre le fenugrec sans trempage si tu le veux doux : les graines restent plus dures et plus fortes (Taste of Maroc). Le trempage n'est pas obligatoire pour autant : Choumicha, Lalla Moulati et Bladi.net s'en passent.",
+  "mistakes.1": "Prendre des lentilles corail : elles se défont et disparaissent dans la sauce. Prends des vertes ou des brunes.",
+  "mistakes.2": "Être avare de bouillon : la rfissa doit rester bien arrosée, car les msemen en absorbent beaucoup.",
+  "mistakes.3": "Laisser un poulet standard dans la marmite une fois cuit, si les lentilles ne le sont pas encore : il finit par se défaire.",
+  "mistakes.4": "Attendre que les msemen refroidissent pour les déchirer : fais-le dès la sortie de la poêle.",
+  "mistakes.5": "Prendre un ras el hanout éventé : c'est lui qui donne son parfum au bouillon.",
+  "mistakes.6": "Être avare de msemen : il en faut assez pour couvrir tout le fond du plat.",
+  "mistakes.7": "Servir tiède : la rfissa se mange très chaude, msemen compris.",
+  "variants.0": "Au trid à la place des msemen : feuilles de pâte très fines, cuites sans les colorer, puis découpées en lanières (Choumicha, « pâte à rfissa » ; Bladi.net ; Lalla Moulati). Selon Hajja Fatima (Barlamane), le trid doit être fin comme du papier et bien défait, pour boire le bouillon sans devenir pâteux.",
+  "variants.1": "Rfissa medhoussa sur de la harcha émiettée, ou treda sur du pain rassis coupé en dés (Taste of Maroc) ; MarocMama confirme aussi le pain déchiré, en réponse à une lectrice qui avait pris une baguette.",
+  "variants.2": "Msakhen à la place du ras el hanout, surtout par temps froid car il est plus relevé : 1½ c. à s. de msakhen pour 1 c. à s. de ras el hanout chez Taste of Maroc ; Lalla Moulati laisse aussi le choix.",
+  "variants.3": "Bormache, la version de Meknès : beaucoup d'ail, des herbes séchées (zaatar, fliou, merseta), du piment de Cayenne et des tomates ; les lentilles y sont facultatives (Taste of Maroc, recette de Jameela Khiyati).",
+  "variants.4": "Avec de l'ail (4 à 6 gousses dans la marinade et une tête entière dans le bouillon) et, en hiver, une tasse de fèves sèches (Lalla Moulati).",
+  "variants.5": "Marinade la veille : poulet, oignons, huile et épices mélangés dans la marmite et gardés au frais toute la nuit (au moins 6 h), puis cuisson directe (Taste of Maroc ; Lalla Moulati).",
+  "variants.6": "Oignons en deux temps : un oignon râpé au début et les autres émincés avec les lentilles (Paula Wolfert) ; Lalla Moulati met 2 oignons hachés au début et 4 émincés quand le poulet a pris couleur.",
+  "variants.7": "Lentilles cuites à part : couvertes d'eau et cuites jusqu'à évaporation, puis mijotées 10 min avec une louche de sauce (Choumicha).",
+  "variants.8": "Poulet doré quelques minutes au four ou sous le gril avant de servir (Taste of Maroc ; Bladi.net) ; pour un poulet servi entier, Taste of Maroc le finit au four à 230 °C.",
+  "variants.9": "Sans couscoussier : arrose les lanières d'un peu d'eau, couvre-les et réchauffe-les au micro-ondes (Taste of Maroc)."
+ }
+}

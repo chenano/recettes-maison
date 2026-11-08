@@ -1,0 +1,582 @@
+{
+ "_slug": "tajine-poisson",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Tajine de poisson à la chermoula",
+   "t": "Fish tagine with chermoula"
+  },
+  "darija": {
+   "fr": "Tajine l'hout bel chermoula",
+   "t": "Tajine l'hout bel chermoula"
+  },
+  "tagline": {
+   "fr": "Du poisson mariné dans une chermoula bien citronnée, cuit doucement sur un lit de carottes, de pommes de terre et de tomates, avec poivrons, olives et citron confit.",
+   "t": "Fish marinated in a lemony chermoula, cooked gently on a bed of carrots, potatoes and tomatoes, with peppers, olives and preserved lemon."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; dans le Nord (Tanger, Tétouan), le poisson cuit aussi dans une tagra",
+   "t": "All over Morocco; in the north (Tangier, Tetouan), fish is also cooked in a tagra"
+  },
+  "occasion": {
+   "fr": "Plat à partager, seul ou avec des salades",
+   "t": "A dish for sharing, on its own or with salads"
+  },
+  "img_alt": {
+   "fr": "Tajine de poisson aux pommes de terre et aux olives vertes, en sauce tomate",
+   "t": "Fish tagine with potatoes and green olives, in tomato sauce"
+  },
+  "serving": {
+   "fr": "Bien chaud ou tiède (Bladi.net), directement dans le tajine posé au centre de la table : chacun mange de son côté avec du pain marocain, en plat unique ou avec des salades (Taste of Maroc). Cooking with Alia le sert avec du pain croustillant ; My Moroccan Food sert son tajine de sardines avec du pain ou du couscous.",
+   "t": "Piping hot or warm (Bladi.net), straight from the tagine placed in the centre of the table: everyone eats from their own side of the dish with Moroccan bread, as a one-dish meal or with salads (Taste of Maroc). Cooking with Alia serves it with crusty bread; My Moroccan Food serves its sardine tagine with bread or couscous."
+  },
+  "ing.0.group": {
+   "fr": "Poisson",
+   "t": "Fish"
+  },
+  "ing.poisson.name": {
+   "fr": "de poisson à chair ferme (loup, dorade, pageot, maigre ou congre)",
+   "t": "firm-fleshed fish (sea bass, sea bream, pandora, meagre or conger eel)"
+  },
+  "ing.poisson.note": {
+   "fr": "écaillé, vidé et coupé en darnes épaisses ; ou un poisson entier",
+   "t": "scaled, gutted and cut into thick steaks; or a whole fish"
+  },
+  "ing.1.group": {
+   "fr": "Chermoula",
+   "t": "Chermoula"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "fresh coriander"
+  },
+  "ing.coriandre.note": {
+   "fr": "les feuilles pour la chermoula, les tiges pour le fond du tajine",
+   "t": "the leaves for the chermoula, the stalks for the base of the tagine"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à peler",
+   "t": "peeled"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment doux en poudre)",
+   "t": "sweet paprika (ground sweet pepper)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.piment.name": {
+   "fr": "de piment fort en poudre (cayenne), facultatif",
+   "t": "ground hot chilli (cayenne), optional"
+  },
+  "ing.jus-citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "fresh lemon juice"
+  },
+  "ing.huile-chermoula.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.2.group": {
+   "fr": "Lit de légumes et garniture",
+   "t": "Vegetable bed and toppings"
+  },
+  "ing.huile-fond.name": {
+   "fr": "d'huile d'olive, pour le fond",
+   "t": "olive oil, for the base"
+  },
+  "ing.celeri.name": {
+   "fr": "branches de céleri ou petites brochettes en bois",
+   "t": "celery sticks or small wooden skewers"
+  },
+  "ing.celeri.note": {
+   "fr": "facultatif : seulement si les tiges de coriandre ne suffisent pas à couvrir le fond",
+   "t": "optional: only if the coriander stalks are not enough to cover the base"
+  },
+  "ing.carottes.name": {
+   "fr": "carotte",
+   "t": "carrot"
+  },
+  "ing.carottes.pl": {
+   "fr": "carottes",
+   "t": "carrots"
+  },
+  "ing.carottes.note": {
+   "fr": "à peler et couper en bâtonnets de 0,5 cm",
+   "t": "peeled and cut into 0.5 cm sticks"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "grosse pomme de terre",
+   "t": "large potato"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "grosses pommes de terre",
+   "t": "large potatoes"
+  },
+  "ing.pommes-de-terre.note": {
+   "fr": "environ 200 g pièce ; à peler et couper en rondelles de 0,5 cm",
+   "t": "about 200 g each; peeled and cut into 0.5 cm slices"
+  },
+  "ing.tomates.name": {
+   "fr": "grosse tomate mûre",
+   "t": "large ripe tomato"
+  },
+  "ing.tomates.pl": {
+   "fr": "grosses tomates mûres",
+   "t": "large ripe tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "à couper en rondelles",
+   "t": "sliced into rounds"
+  },
+  "ing.poivrons.name": {
+   "fr": "poivron (vert, rouge ou jaune)",
+   "t": "pepper (green, red or yellow)"
+  },
+  "ing.poivrons.pl": {
+   "fr": "poivrons (verts, rouges ou jaunes)",
+   "t": "peppers (green, red or yellow)"
+  },
+  "ing.poivrons.note": {
+   "fr": "à épépiner et couper en fines lanières ; un poivron rouge adoucit le plat",
+   "t": "deseeded and cut into thin strips; a red pepper makes the dish milder"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "ground black pepper, to taste"
+  },
+  "ing.piment-vert.name": {
+   "fr": "piment vert piquant",
+   "t": "hot green chilli"
+  },
+  "ing.piment-vert.pl": {
+   "fr": "piments verts piquants",
+   "t": "hot green chillies"
+  },
+  "ing.piment-vert.note": {
+   "fr": "facultatif ; à poser entier",
+   "t": "optional; left whole"
+  },
+  "ing.citron-rondelles.name": {
+   "fr": "quelques rondelles de citron frais",
+   "t": "a few slices of fresh lemon"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives vertes ou rouges",
+   "t": "green or red olives"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "preserved lemon"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "preserved lemons"
+  },
+  "ing.citron-confit.note": {
+   "fr": "à couper en quartiers, sans les pépins",
+   "t": "cut into quarters, seeds removed"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "equipment.0": {
+   "fr": "Grand tajine en terre avec son couvercle, ou sauteuse profonde avec couvercle",
+   "t": "Large earthenware tagine with its lid, or a deep sauté pan with a lid"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+   "t": "Heat diffuser (for an earthenware tagine, except on gas)"
+  },
+  "equipment.2": {
+   "fr": "Mortier et pilon, ou hachoir",
+   "t": "Pestle and mortar, or a chopper"
+  },
+  "equipment.3": {
+   "fr": "Plat creux avec couvercle ou film, pour la marinade",
+   "t": "Deep dish with a lid or cling film, for marinating"
+  },
+  "equipment.4": {
+   "fr": "Petit bol",
+   "t": "Small bowl"
+  },
+  "equipment.5": {
+   "fr": "Planche et couteau réservés au poisson cru",
+   "t": "Chopping board and knife kept for raw fish"
+  },
+  "equipment.6": {
+   "fr": "Papier absorbant",
+   "t": "Kitchen paper"
+  },
+  "equipment.7": {
+   "fr": "Petite casserole (pour réduire la sauce si besoin)",
+   "t": "Small saucepan (to reduce the sauce if needed)"
+  },
+  "steps.0.title": {
+   "fr": "Choisis un poisson bien frais",
+   "t": "Choose very fresh fish"
+  },
+  "steps.0.text": {
+   "fr": "Prends {{poisson:full}}. Il doit sentir frais et doux, jamais fort, aigre ou l'ammoniaque. Entier, il a l'œil clair et brillant, les ouïes rouges et une chair ferme qui reprend sa forme quand tu appuies dessus. Demande au poissonnier de l'écailler, de le vider et de le couper en darnes épaisses.",
+   "t": "Get {{poisson:full}}. It should smell fresh and mild, never strong, sour or of ammonia. When whole, it has clear, shiny eyes, red gills and firm flesh that springs back when you press it. Ask the fishmonger to scale it, gut it and cut it into thick steaks."
+  },
+  "steps.0.tip": {
+   "fr": "Garde-le dans la partie la plus froide du réfrigérateur (4 °C) et cuisine-le dans les 2 jours ; sinon, congèle-le. Surgelé, fais-le décongeler une nuit au réfrigérateur (FDA ; ANSES).",
+   "t": "Keep it in the coldest part of the fridge (4 °C) and cook it within 2 days; otherwise, freeze it. If it is frozen, thaw it overnight in the fridge (FDA; ANSES)."
+  },
+  "steps.1.title": {
+   "fr": "Rince et sèche le poisson",
+   "t": "Rinse and dry the fish"
+  },
+  "steps.1.text": {
+   "fr": "Rince les darnes à l'eau froide, égoutte-les, puis sèche-les avec du papier absorbant. Lave-toi ensuite les mains au savon pendant 20 secondes, puis la planche, le couteau et le plan de travail à l'eau chaude savonneuse.",
+   "t": "Rinse the steaks in cold water, drain them, then pat them dry with kitchen paper. Then wash your hands with soap for 20 seconds, and wash the board, knife and worktop in hot soapy water."
+  },
+  "steps.2.title": {
+   "fr": "Pile la chermoula",
+   "t": "Pound the chermoula"
+  },
+  "steps.2.text": {
+   "fr": "Lave et effeuille {{coriandre:full}} : hache finement les feuilles et garde les tiges. Au mortier, pile {{ail:full}} avec {{sel}} de sel, puis ajoute la coriandre hachée et pile encore. Mélange avec {{paprika}} de paprika doux, {{cumin}} de cumin, {{piment}} de piment fort si tu aimes, {{jus-citron}} de jus de citron et {{huile-chermoula}} d'huile d'olive. Si la chermoula est trop épaisse, détends-la avec un peu d'eau.",
+   "t": "Wash {{coriandre:full}} and pick off the leaves: finely chop the leaves and keep the stalks. In the mortar, pound {{ail:full}} with {{sel}} of salt, then add the chopped coriander and pound again. Mix in {{paprika}} of sweet paprika, {{cumin}} of cumin, {{piment}} of hot chilli if you like it, {{jus-citron}} of lemon juice and {{huile-chermoula}} of olive oil. If the chermoula is too thick, loosen it with a little water."
+  },
+  "steps.2.tip": {
+   "fr": "Hache bien la coriandre avant de la piler, sinon la chermoula devient filandreuse. Sans mortier, un hachoir ou un mixeur fait l'affaire.",
+   "t": "Chop the coriander well before pounding it, otherwise the chermoula turns stringy. Without a mortar, a chopper or blender will do."
+  },
+  "steps.3.title": {
+   "fr": "Mets la moitié de la chermoula de côté",
+   "t": "Set half the chermoula aside"
+  },
+  "steps.3.text": {
+   "fr": "Avant de toucher le poisson, verse la moitié de la chermoula dans un petit bol : elle servira aux légumes. Couvre-la et garde-la au réfrigérateur.",
+   "t": "Before touching the fish, put half the chermoula in a small bowl: it is for the vegetables. Cover it and keep it in the fridge."
+  },
+  "steps.4.title": {
+   "fr": "Fais mariner le poisson",
+   "t": "Marinate the fish"
+  },
+  "steps.4.text": {
+   "fr": "Enrobe bien chaque darne avec l'autre moitié de la chermoula. Couvre et laisse mariner au réfrigérateur au moins 30 min, et jusqu'à 2 h si tu as le temps.",
+   "t": "Coat each steak well with the other half of the chermoula. Cover and leave to marinate in the fridge for at least 30 min, and up to 2 h if you have time."
+  },
+  "steps.4.tip": {
+   "fr": "Ne laisse pas le poisson cru mariner hors du réfrigérateur.",
+   "t": "Don't leave raw fish to marinate outside the fridge."
+  },
+  "steps.4.timer.label": {
+   "fr": "Marinade du poisson",
+   "t": "Marinating the fish"
+  },
+  "steps.4.timer.done": {
+   "fr": "Le poisson a mariné 30 min : tu peux monter le tajine, ou le laisser jusqu'à 2 h au frais.",
+   "t": "The fish has marinated for 30 min: you can assemble the tagine, or leave the fish in the fridge for up to 2 h."
+  },
+  "steps.5.title": {
+   "fr": "Coupe les légumes",
+   "t": "Cut the vegetables"
+  },
+  "steps.5.text": {
+   "fr": "Pendant la marinade, lave les légumes et le citron frais à l'eau potable. Pèle {{carottes:full}}, puis coupe en bâtonnets de 0,5 cm. Pèle {{pommes-de-terre:full}}, puis coupe en rondelles de 0,5 cm, pas plus épaisses. Coupe {{tomates:full}} en rondelles et {{poivrons:full}} en fines lanières, sans les graines. Coupe {{citron-confit:full}} en quartiers, sans les pépins.",
+   "t": "While the fish marinates, wash the vegetables and the fresh lemon in drinking water. Peel {{carottes:full}}, then cut into 0.5 cm sticks. Peel {{pommes-de-terre:full}}, then cut into 0.5 cm slices, no thicker. Slice {{tomates:full}} into rounds and cut {{poivrons:full}} into thin strips, without the seeds. Cut {{citron-confit:full}} into quarters, removing the seeds."
+  },
+  "steps.5.tip": {
+   "fr": "Des rondelles trop épaisses cuisent trop lentement : le poisson sécherait avant qu'elles soient tendres.",
+   "t": "Slices that are too thick cook too slowly: the fish would dry out before they were tender."
+  },
+  "steps.6.title": {
+   "fr": "Tapisse le fond du tajine",
+   "t": "Line the base of the tagine"
+  },
+  "steps.6.text": {
+   "fr": "Verse {{huile-fond}} d'huile d'olive au fond du tajine. Pose dessus les tiges de coriandre en croisillons ; s'il en manque, complète avec quelques {{celeri}}. Ce lit empêche le reste de toucher le fond, d'attacher et de brûler.",
+   "t": "Pour {{huile-fond}} of olive oil into the base of the tagine. Lay the coriander stalks on top in a criss-cross pattern; if there aren't enough, add a few {{celeri}}. This bed stops everything else from touching the base, sticking and burning."
+  },
+  "steps.7.title": {
+   "fr": "Monte le lit de carottes et de pommes de terre",
+   "t": "Build the bed of carrots and potatoes"
+  },
+  "steps.7.text": {
+   "fr": "Étale les bâtonnets de carottes sur les tiges, puis couvre-les avec les rondelles de pommes de terre. Saupoudre de {{poivre}}, mais ne sale pas : le citron confit et les olives saleront le plat.",
+   "t": "Spread the carrot sticks over the stalks, then cover them with the potato slices. Sprinkle with {{poivre}}, but don't add salt: the preserved lemon and olives will make the dish salty enough."
+  },
+  "steps.8.title": {
+   "fr": "Ajoute les tomates et la chermoula gardée",
+   "t": "Add the tomatoes and the reserved chermoula"
+  },
+  "steps.8.text": {
+   "fr": "Couvre les pommes de terre avec les rondelles de tomates, puis étale dessus la chermoula que tu as mise de côté.",
+   "t": "Cover the potatoes with the tomato slices, then spread the chermoula you set aside over them."
+  },
+  "steps.9.title": {
+   "fr": "Pose le poisson et la garniture",
+   "t": "Add the fish and the toppings"
+  },
+  "steps.9.text": {
+   "fr": "Dispose les darnes et leur marinade sur les tomates. Couvre-les de lanières de poivron, puis ajoute {{piment-vert:full}} si tu veux et {{citron-rondelles}}. Répartis {{olives}} d'olives et les quartiers de citron confit tout autour.",
+   "t": "Arrange the steaks and their marinade on the tomatoes. Cover them with the pepper strips, then add {{piment-vert:full}} if you like and {{citron-rondelles}}. Scatter {{olives}} of olives and the preserved lemon quarters all around."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute l'eau et mets sur le feu",
+   "t": "Add the water and put it on the heat"
+  },
+  "steps.10.text": {
+   "fr": "Verse {{eau}} d'eau dans le tajine et couvre. Pose-le sur feu moyen-doux et laisse le frémissement venir doucement. Sans gaz, mets toujours un diffuseur sous un tajine en terre.",
+   "t": "Pour {{eau}} of water into the tagine and cover. Put it over medium-low heat and let it slowly come to a simmer. If you are not cooking on gas, always put a diffuser under an earthenware tagine."
+  },
+  "steps.11.title": {
+   "fr": "Laisse cuire à couvert",
+   "t": "Cook covered"
+  },
+  "steps.11.text": {
+   "fr": "Laisse cuire 30 min à couvert, puis vérifie : les pommes de terre doivent être tendres et le poisson doit se détacher facilement à la fourchette. Sinon, poursuis à feu doux et vérifie souvent. Au tajine en terre, c'est plus long : Taste of Maroc compte environ 1 h de frémissement.",
+   "t": "Cook covered for 30 min, then check: the potatoes should be tender and the fish should flake easily with a fork. If not, carry on over low heat and check often. In an earthenware tagine, it takes longer: Taste of Maroc allows about 1 h of simmering."
+  },
+  "steps.11.tip": {
+   "fr": "Avec un thermomètre, le cœur du poisson doit atteindre 70 °C (Santé Canada).",
+   "t": "With a thermometer, the centre of the fish should reach 70 °C (Health Canada)."
+  },
+  "steps.11.timer.label": {
+   "fr": "Cuisson du tajine",
+   "t": "Cooking the tagine"
+  },
+  "steps.11.timer.done": {
+   "fr": "Pommes de terre tendres et poisson qui se détache à la fourchette ? Sinon, prolonge à feu doux et vérifie souvent.",
+   "t": "Potatoes tender and fish flaking easily with a fork? If not, cook a little longer over low heat and check often."
+  },
+  "steps.12.title": {
+   "fr": "Ajuste la sauce",
+   "t": "Adjust the sauce"
+  },
+  "steps.12.text": {
+   "fr": "La sauce doit être réduite et épaisse. S'il y en a trop, verse-la délicatement dans une petite casserole, fais-la réduire, puis reverse-la sur le poisson. Goûte et ajoute du sel seulement si besoin.",
+   "t": "The sauce should be reduced and thick. If there is too much, carefully pour it into a small saucepan, reduce it, then pour it back over the fish. Taste and add salt only if needed."
+  },
+  "steps.13.title": {
+   "fr": "Sers dans le tajine",
+   "t": "Serve in the tagine"
+  },
+  "steps.13.text": {
+   "fr": "Sers bien chaud ou tiède, directement dans le tajine posé au centre de la table. Chacun mange de son côté, avec du pain marocain.",
+   "t": "Serve piping hot or warm, straight from the tagine placed in the centre of the table. Everyone eats from their own side, with Moroccan bread."
+  },
+  "steps.14.title": {
+   "fr": "Range vite les restes",
+   "t": "Put leftovers away quickly"
+  },
+  "steps.14.text": {
+   "fr": "Ne laisse pas le tajine plus de 2 h à température ambiante, ni plus d'1 h s'il fait plus de 32 °C. Mets les restes dans une boîte fermée au réfrigérateur et mange-les dans les 3 jours. Réchauffe-les à couvert jusqu'à ce que la vapeur s'échappe et que ce soit bien chaud à cœur (74 °C).",
+   "t": "Don't leave the tagine at room temperature for more than 2 h, or more than 1 h if it is above 32 °C. Put the leftovers in a closed container in the fridge and eat them within 3 days. Reheat them covered until steam escapes and they are piping hot right through (74 °C)."
+  },
+  "secrets.0.text": {
+   "fr": "Protège le fond : Choumicha tapisse le tajine de tiges de coriandre ou de brochettes en bois, Bladi pose des branches de coriandre en quadrillage, Lalla Moulati un peu de persil et de légumes, et Taste of Maroc des bâtonnets de céleri ou de petites brochettes. Rien ne touche le fond, rien n'attache.",
+   "t": "Protect the base: Choumicha lines the tagine with coriander stalks or wooden skewers, Bladi lays coriander sprigs in a grid, Lalla Moulati a little parsley and some vegetables, and Taste of Maroc celery sticks or small skewers. Nothing touches the base, nothing sticks."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha ; Bladi.net ; Lalla Moulati ; Taste of Maroc (Christine Benlafquih)",
+   "t": "Choumicha; Bladi.net; Lalla Moulati; Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.1.text": {
+   "fr": "Les carottes forment le premier étage du lit, sous les pommes de terre ; chez Cooking with Alia et Lalla Moulati, elles sont posées directement au fond du tajine.",
+   "t": "The carrots form the first layer of the bed, under the potatoes; Cooking with Alia and Lalla Moulati put them straight on the base of the tagine."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc (Christine Benlafquih); Cooking with Alia; Lalla Moulati"
+  },
+  "secrets.2.text": {
+   "fr": "Moitié-moitié : une moitié de la chermoula marine le poisson, l'autre parfume les légumes. Mets-la de côté avant de toucher le poisson cru.",
+   "t": "Half and half: one half of the chermoula marinates the fish, the other flavours the vegetables. Set it aside before touching the raw fish."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Choumicha ; My Moroccan Food (Nargisse Benkabbou) ; Lalla Moulati",
+   "t": "Taste of Maroc (Christine Benlafquih); Choumicha; My Moroccan Food (Nargisse Benkabbou); Lalla Moulati"
+  },
+  "secrets.3.text": {
+   "fr": "La meilleure chermoula se fait au mortier : pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées et les épices.",
+   "t": "The best chermoula is made in a mortar: first pound the garlic with the salt, then add the finely chopped herbs and the spices."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi.net",
+   "t": "Taste of Maroc (Nada Kiffa); Bladi.net"
+  },
+  "secrets.4.text": {
+   "fr": "Pour le poisson, on aime une chermoula bien citronnée. Choumicha, elle, met du vinaigre.",
+   "t": "For fish, a lemony chermoula is the favourite. Choumicha, for her part, uses vinegar."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha",
+   "t": "Taste of Maroc (Nada Kiffa); Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Coupe les pommes de terre finement (0,5 cm) : trop épaisses, elles demandent plus de cuisson et le poisson sèche avant qu'elles soient tendres.",
+   "t": "Slice the potatoes thinly (0.5 cm): if they are too thick, they need longer cooking and the fish dries out before they are tender."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc (Christine Benlafquih)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "t": "In Morocco, people use a firm, thick fish: meagre, sea bass, sea bream or pandora, conger eel. Whole sardines or whiting also work. Conger eel is oily but has few bones, and it releases water as it cooks: with it, you can leave out the water."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha",
+   "t": "Taste of Maroc (Christine Benlafquih); Bladi.net; Choumicha"
+  },
+  "secrets.7.text": {
+   "fr": "Avec des filets fins ou de petits poissons, fais d'abord cuire les légumes à moitié, puis pose le poisson dessus pour finir la cuisson.",
+   "t": "With thin fillets or small fish, first half-cook the vegetables, then put the fish on top to finish cooking."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih, réponse à une lectrice) ; My Moroccan Food (version rapide)",
+   "t": "Taste of Maroc (Christine Benlafquih, reply to a reader); My Moroccan Food (quick version)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour une cuisson courte, Choumicha met de petites pommes de terre déjà cuites à l'eau ; Akhbarona les fait légèrement blanchir avant de les mettre sous le poisson.",
+   "t": "For a short cooking time, Choumicha uses small potatoes that have already been boiled; Akhbarona blanches them lightly before putting them under the fish."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Akhbarona",
+   "t": "Choumicha; Akhbarona"
+  },
+  "secrets.9.text": {
+   "fr": "Le citron confit sale beaucoup : s'il cuit dès le début, ne sale pas les légumes. Taste of Maroc préfère souvent l'ajouter à la fin, quelques minutes, juste le temps de le chauffer.",
+   "t": "Preserved lemon is very salty: if it cooks from the start, don't salt the vegetables. Taste of Maroc often prefers to add it at the end, for a few minutes, just long enough to heat it through."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.10.text": {
+   "fr": "Trop de sauce à la fin ? Verse-la dans une petite casserole, fais-la réduire, puis remets-la : la sauce doit être épaisse.",
+   "t": "Too much sauce at the end? Pour it into a small saucepan, reduce it, then put it back: the sauce should be thick."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net",
+   "t": "Taste of Maroc (Christine Benlafquih); Bladi.net"
+  },
+  "secrets.11.text": {
+   "fr": "Au tajine en terre, hors gaz, le diffuseur est obligatoire, et la cuisson est plus longue qu'en sauteuse.",
+   "t": "With an earthenware tagine on anything other than gas, a diffuser is essential, and cooking takes longer than in a sauté pan."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.12.text": {
+   "fr": "Ne cuis pas trop le poisson : sa chair doit rester juteuse. Adapte le temps à son poids.",
+   "t": "Don't overcook the fish: its flesh should stay juicy. Adjust the time to its weight."
+  },
+  "secrets.12.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.13.text": {
+   "fr": "Avec un poisson entier, enduis aussi l'intérieur de chermoula et incise le dos pour qu'elle pénètre.",
+   "t": "With a whole fish, also spread chermoula inside it and score the back so that it soaks in."
+  },
+  "secrets.13.source": {
+   "fr": "Bladi.net ; Choumicha ; Akhbarona",
+   "t": "Bladi.net; Choumicha; Akhbarona"
+  },
+  "mistakes.0": {
+   "fr": "Cuisiner un poisson qui sent fort, aigre ou l'ammoniaque : il n'est plus frais, ne le mange pas (FDA).",
+   "t": "Cooking fish that smells strong, sour or of ammonia: it is no longer fresh, so don't eat it (FDA)."
+  },
+  "mistakes.1": {
+   "fr": "Faire mariner le poisson cru hors du réfrigérateur (Taste of Maroc ; Bladi.net ; My Moroccan Food ; MarocMama).",
+   "t": "Marinating raw fish outside the fridge (Taste of Maroc; Bladi.net; My Moroccan Food; MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Toucher le poisson cru avant d'avoir mis de côté la chermoula des légumes (Taste of Maroc).",
+   "t": "Touching the raw fish before setting aside the chermoula for the vegetables (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les pommes de terre trop épaisses : le poisson sèche avant qu'elles soient cuites (My Moroccan Food).",
+   "t": "Cutting the potatoes too thick: the fish dries out before they are cooked (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier le lit de tiges ou de carottes au fond : les légumes attachent et brûlent (Taste of Maroc ; Choumicha ; Lalla Moulati).",
+   "t": "Forgetting the bed of stalks or carrots on the base: the vegetables stick and burn (Taste of Maroc; Choumicha; Lalla Moulati)."
+  },
+  "mistakes.5": {
+   "fr": "Saler les légumes alors que le citron confit cuit avec eux (Taste of Maroc).",
+   "t": "Salting the vegetables when the preserved lemon is cooking with them (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur (Taste of Maroc).",
+   "t": "Putting an earthenware tagine on an electric or ceramic hob without a diffuser (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Trop cuire le poisson : il devient sec (Choumicha).",
+   "t": "Overcooking the fish: it becomes dry (Choumicha)."
+  },
+  "mistakes.8": {
+   "fr": "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid, ou plus d'1 h s'il fait plus de 32 °C (FDA ; ANSES).",
+   "t": "Leaving the dish at room temperature for more than 2 h before chilling it, or for more than 1 h if it is above 32 °C (FDA; ANSES)."
+  },
+  "variants.0": {
+   "fr": "Nord du Maroc : à Tanger et à Tétouan, beaucoup de plats de poisson cuisent dans une tagra, un plat ovale en terre poreuse non vernissée, fait par des potiers près de l'oued Laou, sur la braise ou au four du boulanger ; elle laisse l'humidité s'évaporer lentement et donne au poisson un goût de terre ; Paula Wolfert y superpose pommes de terre, carottes, tomates, poivron rouge et sardines, met la tagra dans le four, l'allume à 180 °C et cuit 1 h ; à la sortie, elle la pose sur du bois ou un torchon plié pour éviter qu'elle se fende, et laisse reposer 30 min. La plupart des tagras n'ont pas de couvercle : couvre-la de papier aluminium sans serrer (Paula Wolfert ; Taste of Maroc).",
+   "t": "Northern Morocco: in Tangier and Tetouan, many fish dishes are cooked in a tagra, an oval dish of porous, unglazed earthenware made by potters near the oued Laou, over embers or in the baker's oven; it lets moisture evaporate slowly and gives the fish an earthy flavour; Paula Wolfert layers potatoes, carrots, tomatoes, red pepper and sardines in it, puts the tagra in the oven, then turns the oven on to 180 °C and cooks it for 1 h; when it comes out, she sets it on wood or a folded tea towel to stop it cracking, and leaves it to rest for 30 min. Most tagras have no lid: cover it loosely with foil (Paula Wolfert; Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Au four : poisson entier sur un lit de pommes de terre en fines rondelles, tomates, poivrons grillés et piments, environ 40 min à four moyen-chaud en arrosant à mi-cuisson (Bladi.net) ; Choumicha cuit un poisson de 700 g 25 min à 170 °C puis le laisse reposer 15 à 20 min dans le four éteint ; My Moroccan Food cuit ses sardines 30 à 35 min à 200 °C sous papier aluminium.",
+   "t": "In the oven: a whole fish on a bed of thinly sliced potatoes, tomatoes, roasted peppers and chillies, about 40 min in a moderately hot oven, basting halfway through (Bladi.net); Choumicha bakes a 700 g fish for 25 min at 170 °C, then leaves it to rest for 15 to 20 min in the switched-off oven; My Moroccan Food bakes its sardines for 30 to 35 min at 200 °C under foil."
+  },
+  "variants.2": {
+   "fr": "Poisson entier farci de chermoula, posé sur des pommes de terre, des carottes et des tomates en rondelles, couvert de poivrons : la version traditionnelle décrite par Nargisse Benkabbou (My Moroccan Food).",
+   "t": "A whole fish stuffed with chermoula, laid on sliced potatoes, carrots and tomatoes, and covered with peppers: the traditional version described by Nargisse Benkabbou (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Tajine de poisson safrané : darnes de loup marinées 1 h dans une chermoula au safran, au smen et au poivre blanc, posées sur des branches de coriandre avec olives vertes et citron confit, sans légumes, 20 à 25 min sur le charbon (Bladi.net).",
+   "t": "Saffron fish tagine: sea bass steaks marinated for 1 h in a chermoula with saffron, smen (aged salted butter) and white pepper, laid on coriander sprigs with green olives and preserved lemon, without vegetables, 20 to 25 min over charcoal (Bladi.net)."
+  },
+  "variants.4": {
+   "fr": "Pageot aux olives m'slalla : oignons et tomates au fond, laurier, olives vertes m'slalla et écorce de citron confit, chermoula au vinaigre, 45 min au four à 180 °C ou sur le charbon (Choumicha).",
+   "t": "Pandora with m'slalla olives: onions and tomatoes on the base, bay leaf, green m'slalla olives and preserved lemon peel, chermoula made with vinegar, 45 min in the oven at 180 °C or over charcoal (Choumicha)."
+  },
+  "variants.5": {
+   "fr": "Tajine d'espadon : cubes d'espadon, carottes et chou en julienne, petites pommes de terre déjà cuites, tomates cerises et olives, 20 à 25 min à feu moyen (Choumicha).",
+   "t": "Swordfish tagine: cubes of swordfish, carrots and cabbage cut into julienne strips, small potatoes already cooked, cherry tomatoes and olives, 20 to 25 min over medium heat (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "Darnes de congre farinées et dorées, puis mijotées avec oignons, poivron rouge, tomates, thym et laurier (Choumicha).",
+   "t": "Conger eel steaks dusted with flour and browned, then simmered with onions, red pepper, tomatoes, thyme and bay leaf (Choumicha)."
+  },
+  "variants.7": {
+   "fr": "Aux oignons et raisins secs : morceaux de congre avec beaucoup d'oignons émincés, raisins secs, safran, gingembre, curcuma et cannelle, 40 min à feu moyen (Cooking with Alia).",
+   "t": "With onions and raisins: pieces of conger eel with plenty of sliced onions, raisins, saffron, ginger, turmeric and cinnamon, 40 min over medium heat (Cooking with Alia)."
+  },
+  "variants.8": {
+   "fr": "Tajine de boulettes de sardines (kefta) en sauce tomate, fini avec citron confit et olives vertes (Cooking with Alia) ; Taste of Maroc le dit apprécié dans tout le Maroc, surtout sur la côte, où le poisson abonde.",
+   "t": "Sardine meatball (kefta) tagine in tomato sauce, finished with preserved lemon and green olives (Cooking with Alia); Taste of Maroc says it is popular all over Morocco, especially on the coast, where fish is plentiful."
+  },
+  "variants.9": {
+   "fr": "Lit d'oignons émincés au fond, qui caramélisent pendant la cuisson (Taste of Maroc ; Choumicha pour le pageot).",
+   "t": "A bed of sliced onions on the base, which caramelise during cooking (Taste of Maroc; Choumicha for the pandora)."
+  },
+  "variants.10": {
+   "fr": "Épices en plus : gingembre et curcuma sur les légumes, safran dans la chermoula (Taste of Maroc) ; harissa à la place du piment (Choumicha, Lalla Moulati, My Moroccan Food) ; une feuille de laurier (Cooking with Alia ; Choumicha) ; un peu de concentré de tomate (Cooking with Alia) ou de sauce tomate (Lalla Moulati) dans la chermoula.",
+   "t": "Extra spices: ginger and turmeric on the vegetables, saffron in the chermoula (Taste of Maroc); harissa instead of chilli (Choumicha, Lalla Moulati, My Moroccan Food); a bay leaf (Cooking with Alia; Choumicha); a little tomato purée (Cooking with Alia) or tomato sauce (Lalla Moulati) in the chermoula."
+  },
+  "variants.11": {
+   "fr": "Chermoula au citron confit, cuite 5 min à feu doux avec herbes, ail, piment doux, cumin, vinaigre et huile ; elle se garde une semaine au frais en bocal fermé (Choumicha).",
+   "t": "Preserved lemon chermoula, cooked for 5 min over low heat with herbs, garlic, sweet paprika, cumin, vinegar and oil; it keeps for a week, chilled, in a sealed jar (Choumicha)."
+  }
+ }
+}

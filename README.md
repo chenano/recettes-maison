@@ -16,6 +16,7 @@ Application web de recettes, pensée pour le téléphone. Elle a des vraies phot
 - **Pas à pas** : une étape par écran, avec en haut les ingrédients de l'étape (photo et quantité) et, quand il y en a une, une vraie photo du geste (râper la tomate, étirer la pâte, cuire le malwi au feu de bois…). Les minuteurs sonnent et vibrent, un glissement passe à l'étape suivante, et l'écran reste allumé. À la fin, un écran « Bon appétit ».
 - **Liste de courses** : articles rangés par rayon (légumes, herbes, boucherie, épices…), à cocher, à partager par message.
 - **Mode sombre** automatique, selon le réglage du téléphone.
+- **Quatre langues** : français, anglais, arabe (l'écran se lit alors de droite à gauche) et russe. Le bouton du globe, en haut de l'accueil, change la langue ; le choix reste gardé sur le téléphone. Au premier lancement, l'appli prend la langue du téléphone si elle la connaît, sinon le français ; un téléphone qui utilisait déjà l'appli reste en français. Un lien partagé depuis une autre langue l'ouvre dans cette langue (par exemple `?lang=ru`). Les recettes, les ingrédients et tous les textes de l'appli sont traduits ; les sources et le détail de la vérification restent en français, la langue des recettes d'origine.
 
 ## Ajouter une recette
 
@@ -23,7 +24,8 @@ Application web de recettes, pensée pour le téléphone. Elle a des vraies phot
 2. Le résultat brut va dans `recherche/<nom>.json`, et la contre-vérification dans `recherche/verification-<nom>.json`.
 3. `python3 -I outils/integrer.py <nom>` écrit `recettes/<nom>.js`. Il ajoute la photo et ses crédits, applique les corrections de la contre-vérification, relie chaque ingrédient à sa photo et fixe la catégorie.
 4. `./build.sh` régénère les miniatures (`img/min/`), `recettes.js`, `index.html` et `sw.js`.
-5. `node outils/verifier.js` contrôle toutes les recettes. Il vérifie les champs, unités et minuteurs, les quantités reliées aux étapes, les photos d'ingrédients et les renvois entre recettes.
+5. `node outils/verifier.js` contrôle toutes les recettes. Il vérifie les champs, unités et minuteurs, les quantités reliées aux étapes, les photos d'ingrédients et les renvois entre recettes, ainsi que les textes de l'interface et les traductions.
+6. Traductions : `python3 -I outils/traduction.py extraire <nom>` prépare les textes à traduire (`traductions/fr/<nom>.json`). Chaque traducteur suit `traductions/CONSIGNES.md`, contrôle son travail avec `python3 -I outils/traduction.py valider <langue> <fichier> <nom>`, puis l'enregistre avec `importer`. `python3 -I outils/traduction.py etat` liste ce qui reste à traduire. Un second traducteur relit ensuite chaque traduction (`traductions/RELECTURE.md`) et corrige avec `python3 -I outils/traduction.py corriger`. Si le français change ensuite, les textes concernés s'affichent en français jusqu'à leur nouvelle traduction : jamais une traduction périmée.
 
 Format d'une recette : voir `recettes/double-cheeseburger-smash.js`. Dans le texte d'une étape, `{{id}}` affiche la quantité de l'ingrédient `id` (adaptée au nombre de parts), et `{{id:full}}` affiche la quantité suivie du nom. Le champ `canon` d'un ingrédient renvoie à sa photo dans `img/ing/banque.json`.
 
@@ -47,4 +49,6 @@ Les crédits de chaque recette (plat et ingrédients) sont dans son onglet Infos
 - `index.html`, `recettes.js`, `sw.js`, `img/min/` : générés par `build.sh`.
 - `manifest.webmanifest`, `icons/` : installation sur l'écran d'accueil.
 - `recherche/` : résultats bruts des recherches et des contre-vérifications, avec leurs sources.
-- `outils/` : intégration et contrôle des recettes.
+- `outils/` : intégration et contrôle des recettes, traductions (`traduction.py`), crédits des photos (`photos.py`).
+- `i18n/interface.js` : textes de l'interface dans les quatre langues, et dictionnaire des catégories, cuisines, rayons et nombres de parts.
+- `traductions/` : traductions des recettes (`en/`, `ar/`, `ru/`), noms des ingrédients (`ingredients.json`) et consignes des traducteurs ; `build.sh` en tire `i18n/en.js`, `i18n/ar.js` et `i18n/ru.js`, chargés seulement par ceux qui choisissent ces langues.

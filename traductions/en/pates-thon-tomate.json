@@ -1,0 +1,350 @@
+{
+ "_slug": "pates-thon-tomate",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Pâtes au thon à la tomate",
+   "t": "Tuna and tomato pasta"
+  },
+  "tagline": {
+   "fr": "Un oignon fondu, des tomates et du thon à l'huile : une sauce qui mijote pendant que les spaghettis cuisent, le classique italien des soirs où le placard est presque vide.",
+   "t": "A softened onion, tomatoes and tuna in oil: a sauce that simmers while the spaghetti cooks, the Italian classic for evenings when the cupboard is almost bare."
+  },
+  "region": {
+   "fr": "Toute l'Italie : recette de Bologne déposée en 2018 par l'Accademia Italiana della Cucina (Dissapore ; Il Giornale del Cibo), versions de Rome et de Palerme (Wikipédia, Dissapore)",
+   "t": "All over Italy: Bologna recipe registered in 2018 by the Accademia Italiana della Cucina (Dissapore; Il Giornale del Cibo), Rome and Palermo versions (Wikipedia, Dissapore)"
+  },
+  "occasion": {
+   "fr": "Dîner express avec des conserves du placard. En Italie, c'est le plat des étudiants, et autrefois celui des jours sans viande (Dissapore, Il Giornale del Cibo)",
+   "t": "Quick dinner using tins from the cupboard. In Italy, it is the students' dish, and it used to be the dish for meatless days (Dissapore, Il Giornale del Cibo)"
+  },
+  "img_alt": {
+   "fr": "Spaghetti nappés de sauce tomate au thon",
+   "t": "Spaghetti coated in tomato and tuna sauce"
+  },
+  "serving": {
+   "fr": "Tout de suite, avec un peu de persil cru sur l'assiette si tu aimes (recette bolognaise, d'après Dissapore et Il Giornale del Cibo). Les restes : dans une boîte hermétique au réfrigérateur, au plus 1 jour (Cookist) ; mets-les au froid dans les 2 heures après la cuisson (1 heure s'il fait plus de 32 °C) et réchauffe-les à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine ; Anses pour les 2 heures).",
+   "t": "Straight away, with a little raw parsley on the plate if you like (the Bologna recipe, according to Dissapore and Il Giornale del Cibo). Leftovers: in an airtight container in the fridge, for 1 day at most (Cookist); refrigerate them within 2 hours of cooking (1 hour if it is above 32 °C) and reheat them until the centre reaches 74 °C (FDA, the US health agency; Anses for the 2 hours)."
+  },
+  "ing.0.group": {
+   "fr": "Sauce",
+   "t": "Sauce"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive vierge extra",
+   "t": "extra virgin olive oil"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates pelées en conserve",
+   "t": "tinned peeled tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "ou de pulpe de tomate",
+   "t": "or chopped tomatoes"
+  },
+  "ing.thon.name": {
+   "fr": "de thon à l'huile, égoutté",
+   "t": "tuna in oil, drained"
+  },
+  "ing.thon.note": {
+   "fr": "à l'huile d'olive de préférence",
+   "t": "preferably in olive oil"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "pour la sauce et pour l'eau des pâtes",
+   "t": "for the sauce and the pasta water"
+  },
+  "ing.1.group": {
+   "fr": "Pâtes",
+   "t": "Pasta"
+  },
+  "ing.spaghetti.name": {
+   "fr": "de spaghettis",
+   "t": "spaghetti"
+  },
+  "ing.spaghetti.note": {
+   "fr": "ou de pâtes courtes",
+   "t": "or short pasta"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, pour cuire les pâtes",
+   "t": "a large panful, for cooking the pasta"
+  },
+  "ing.eau-cuisson.name": {
+   "fr": "eau de cuisson des pâtes",
+   "t": "pasta cooking water"
+  },
+  "ing.eau-cuisson.note": {
+   "fr": "quelques cuillerées",
+   "t": "a few spoonfuls"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "equipment.0": {
+   "fr": "Une grande casserole avec son couvercle",
+   "t": "A large saucepan with its lid"
+  },
+  "equipment.1": {
+   "fr": "Une sauteuse ou une grande poêle",
+   "t": "A sauté pan or large frying pan"
+  },
+  "equipment.2": {
+   "fr": "Une passoire",
+   "t": "A colander"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau",
+   "t": "A chopping board and a knife"
+  },
+  "equipment.4": {
+   "fr": "Une cuillère en bois",
+   "t": "A wooden spoon"
+  },
+  "equipment.5": {
+   "fr": "Un ouvre-boîte et un bol",
+   "t": "A tin opener and a bowl"
+  },
+  "steps.0.title": {
+   "fr": "Mets l'eau à chauffer",
+   "t": "Put the water on to heat"
+  },
+  "steps.0.text": {
+   "fr": "Remplis une grande casserole d'{{eau}}, couvre-la et porte-la à ébullition.",
+   "t": "Fill a large saucepan with {{eau}}, cover it and bring it to the boil."
+  },
+  "steps.1.title": {
+   "fr": "Émince l'oignon",
+   "t": "Slice the onion"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et émince très finement {{oignon:full}}.",
+   "t": "Peel and very thinly slice {{oignon:full}}."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.2.title": {
+   "fr": "Prépare le thon et les tomates",
+   "t": "Prepare the tuna and tomatoes"
+  },
+  "steps.2.text": {
+   "fr": "Égoutte {{thon}} de thon et émiette-le. Coupe {{tomates}} de tomates pelées en petits morceaux.",
+   "t": "Drain {{thon}} of tuna and flake it. Cut {{tomates}} of peeled tomatoes into small pieces."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Soften the onion"
+  },
+  "steps.3.text": {
+   "fr": "Dans la sauteuse, chauffe {{huile}} d'huile d'olive à feu doux et ajoute l'oignon. Laisse-le fondre en remuant de temps en temps, jusqu'à ce qu'il soit tendre et transparent.",
+   "t": "In the sauté pan, heat {{huile}} of olive oil over low heat and add the onion. Let it soften, stirring from time to time, until tender and translucent."
+  },
+  "steps.4.title": {
+   "fr": "Ajoute les tomates",
+   "t": "Add the tomatoes"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute les tomates, sale légèrement avec le {{sel}} et laisse mijoter à feu doux, en remuant de temps en temps.",
+   "t": "Add the tomatoes, season lightly with {{sel}} and leave to simmer over low heat, stirring from time to time."
+  },
+  "steps.5.title": {
+   "fr": "Lance les pâtes",
+   "t": "Start the pasta"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'eau bout, sale-la, puis plonge {{spaghetti}} de spaghettis. Fais-les cuire al dente, selon le temps indiqué sur le paquet.",
+   "t": "When the water boils, salt it, then add {{spaghetti}} of spaghetti. Cook until al dente, following the time on the packet."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute le thon",
+   "t": "Add the tuna"
+  },
+  "steps.6.text": {
+   "fr": "Dès que les pâtes sont dans l'eau, ajoute le thon à la sauce et mélange doucement. Laisse mijoter à feu doux jusqu'à ce que la sauce soit veloutée : le thon doit chauffer sans cuire trop longtemps, sinon il se dessèche.",
+   "t": "As soon as the pasta is in the water, add the tuna to the sauce and stir gently. Leave to simmer over low heat until the sauce is smooth and velvety: the tuna should heat through without cooking for too long, or it will dry out."
+  },
+  "steps.7.title": {
+   "fr": "Garde un peu d'eau",
+   "t": "Save some water"
+  },
+  "steps.7.text": {
+   "fr": "Juste avant d'égoutter, puise un peu d'{{eau-cuisson}} dans un bol.",
+   "t": "Just before draining, scoop a little {{eau-cuisson}} into a bowl."
+  },
+  "steps.8.title": {
+   "fr": "Mélange pâtes et sauce",
+   "t": "Mix the pasta and sauce"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pâtes al dente et verse-les dans la sauteuse. Mélange un instant sur le feu, en ajoutant un peu d'eau de cuisson pour lier la sauce.",
+   "t": "Drain the al dente pasta and tip it into the sauté pan. Toss briefly over the heat, adding a little cooking water to bind the sauce."
+  },
+  "steps.9.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve at once"
+  },
+  "steps.9.text": {
+   "fr": "Sers tout de suite. Si tu aimes, parsème un peu de {{persil}} sur chaque assiette.",
+   "t": "Serve straight away. If you like, sprinkle a little {{persil}} over each plate."
+  },
+  "secrets.0.text": {
+   "fr": "Ajoute le thon vers la fin : s'il cuit trop longtemps, il se dessèche.",
+   "t": "Add the tuna towards the end: if it cooks for too long, it dries out."
+  },
+  "secrets.0.source": {
+   "fr": "Cookist (chef Ruben Bondì) ; recette bolognaise d'après Dissapore, 2018 (thon ajouté 10 minutes avant la fin) ; Il Giornale del Cibo (le thon ne doit pas cuire longtemps avec la sauce et s'ajoute en fin de préparation) ; Cristina Bragaglia, citée par Dissapore (« à Bologne, le thon s'ajoute après »)",
+   "t": "Cookist (chef Ruben Bondì); the Bologna recipe according to Dissapore, 2018 (tuna added 10 minutes before the end); Il Giornale del Cibo (the tuna must not cook for long in the sauce and goes in at the end); Cristina Bragaglia, quoted by Dissapore (“in Bologna, the tuna goes in afterwards”)"
+  },
+  "secrets.1.text": {
+   "fr": "Prends du thon à l'huile, de préférence à l'huile d'olive : sa chair est plus moelleuse et plus savoureuse.",
+   "t": "Use tuna in oil, preferably olive oil: its flesh is softer and more flavourful."
+  },
+  "secrets.1.source": {
+   "fr": "Dissapore (version aux tomates cerises : « consistance plus moelleuse, goût plus riche »)",
+   "t": "Dissapore (cherry tomato version: “softer texture, richer flavour”)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse l'oignon fondre doucement jusqu'à ce qu'il soit tendre et transparent, sans le faire dorer.",
+   "t": "Let the onion soften gently until tender and translucent, without letting it brown."
+  },
+  "secrets.2.source": {
+   "fr": "Dissapore (2018 et 2022)",
+   "t": "Dissapore (2018 and 2022)"
+  },
+  "secrets.3.text": {
+   "fr": "Égoutte bien le thon, puis émiette-le.",
+   "t": "Drain the tuna well, then flake it."
+  },
+  "secrets.3.source": {
+   "fr": "Dissapore (thon égoutté) ; recette bolognaise d'après Dissapore, 2018, et Il Giornale del Cibo (thon émietté)",
+   "t": "Dissapore (drained tuna); the Bologna recipe according to Dissapore, 2018, and Il Giornale del Cibo (flaked tuna)"
+  },
+  "secrets.4.text": {
+   "fr": "Un peu d'eau de cuisson des pâtes aide la sauce à bien enrober les pâtes.",
+   "t": "A little pasta cooking water helps the sauce coat the pasta well."
+  },
+  "secrets.4.source": {
+   "fr": "Dissapore (une demi-louche ; « quelques cuillerées » dans la version aux tomates cerises)",
+   "t": "Dissapore (half a ladleful; “a few spoonfuls” in the cherry tomato version)"
+  },
+  "secrets.5.text": {
+   "fr": "Spaghettis ou pâtes courtes ? Les spaghettis sont la tradition ; Dissapore trouve que les pâtes courtes se marient mieux au thon, et Cookist prend des rigatoni.",
+   "t": "Spaghetti or short pasta? Spaghetti is the tradition; Dissapore finds that short pasta goes better with tuna, and Cookist uses rigatoni."
+  },
+  "secrets.5.source": {
+   "fr": "Wikipédia (it) ; Dissapore ; Cookist",
+   "t": "Wikipedia (it); Dissapore; Cookist"
+  },
+  "secrets.6.text": {
+   "fr": "Pour une version plus fine, prends de la ventresca, la partie la plus grasse et la plus noble du thon.",
+   "t": "For a more refined version, use ventresca, the fattiest and finest part of the tuna."
+  },
+  "secrets.6.source": {
+   "fr": "Dissapore",
+   "t": "Dissapore"
+  },
+  "secrets.7.text": {
+   "fr": "Le persil se met cru, sur l'assiette déjà servie.",
+   "t": "The parsley goes on raw, on the plate once it has been served."
+  },
+  "secrets.7.source": {
+   "fr": "Recette bolognaise, d'après Dissapore (2018) et Il Giornale del Cibo (2019) : variante admise",
+   "t": "The Bologna recipe, according to Dissapore (2018) and Il Giornale del Cibo (2019): an accepted variation"
+  },
+  "secrets.8.text": {
+   "fr": "C'était un plat des jours maigres : à Bologne, on le mangeait le vendredi et la veille de Noël.",
+   "t": "It was a dish for meatless days: in Bologna, people ate it on Fridays and on Christmas Eve."
+  },
+  "secrets.8.source": {
+   "fr": "Cristina Bragaglia, citée par Il Giornale del Cibo et par Dissapore ; Wikipédia (it)",
+   "t": "Cristina Bragaglia, quoted by Il Giornale del Cibo and by Dissapore; Wikipedia (it)"
+  },
+  "secrets.9.text": {
+   "fr": "Le thon en boîte est arrivé en Italie en 1868, à Gênes ; la recette s'est répandue ensuite.",
+   "t": "Tinned tuna arrived in Italy in 1868, in Genoa; the recipe spread after that."
+  },
+  "secrets.9.source": {
+   "fr": "Il Giornale del Cibo ; Dissapore (Cristina Bragaglia) ; Wikipédia (it)",
+   "t": "Il Giornale del Cibo; Dissapore (Cristina Bragaglia); Wikipedia (it)"
+  },
+  "secrets.10.text": {
+   "fr": "La recette bolognaise a été déposée à la Chambre de commerce de Bologne par l'Accademia Italiana della Cucina, après une recherche historique.",
+   "t": "The Bologna recipe was registered with the Bologna Chamber of Commerce by the Accademia Italiana della Cucina, after historical research."
+  },
+  "secrets.10.source": {
+   "fr": "Dissapore (Anna Silveri, 2018) ; Il Giornale del Cibo ; Wikipédia (it)",
+   "t": "Dissapore (Anna Silveri, 2018); Il Giornale del Cibo; Wikipedia (it)"
+  },
+  "mistakes.0": {
+   "fr": "Laisser cuire le thon trop longtemps : il devient sec (Cookist).",
+   "t": "Letting the tuna cook for too long: it becomes dry (Cookist)."
+  },
+  "mistakes.1": {
+   "fr": "Faire dorer l'oignon au lieu de le laisser fondre (Dissapore).",
+   "t": "Browning the onion instead of letting it soften (Dissapore)."
+  },
+  "mistakes.2": {
+   "fr": "Oublier d'égoutter le thon (Dissapore).",
+   "t": "Forgetting to drain the tuna (Dissapore)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire les pâtes : égoutte-les al dente (Dissapore, Cookist).",
+   "t": "Overcooking the pasta: drain it al dente (Dissapore, Cookist)."
+  },
+  "mistakes.4": {
+   "fr": "Garder le plat plus d'un jour : au plus 1 jour au réfrigérateur, en boîte hermétique (Cookist).",
+   "t": "Keeping the dish for more than a day: 1 day at most in the fridge, in an airtight container (Cookist)."
+  },
+  "variants.0": {
+   "fr": "La recette de Bologne, déposée par l'Accademia Italiana della Cucina (reprise par Dissapore en 2018 et par Il Giornale del Cibo en 2019) : pour 4, 320 g de spaghettis, 180 g de thon à l'huile, un oignon et 700 g de tomates fraîches (ou une boîte de 400 g de pelées), cuites une demi-heure à feu doux ; le thon s'ajoute 10 minutes avant la fin. Plus longue que la version rapide. Variantes admises : anchois ou persil.",
+   "t": "The Bologna recipe, registered by the Accademia Italiana della Cucina (reproduced by Dissapore in 2018 and by Il Giornale del Cibo in 2019): for 4, 320 g of spaghetti, 180 g of tuna in oil, one onion and 700 g of fresh tomatoes (or a 400 g tin of peeled tomatoes), cooked for half an hour over low heat; the tuna goes in 10 minutes before the end. It takes longer than the quick version. Accepted variations: anchovies or parsley."
+  },
+  "variants.1": {
+   "fr": "À la romaine : ail et piment à la place de l'oignon (Wikipédia ; Cristina Bragaglia, citée par Dissapore).",
+   "t": "Roman style: garlic and chilli instead of the onion (Wikipedia; Cristina Bragaglia, quoted by Dissapore)."
+  },
+  "variants.2": {
+   "fr": "Avec des olives, des câpres ou des petits pois (Dissapore) ; ou olives, câpres et anchois, avec tomates cerises et coulis (Cookist, chef Ruben Bondì).",
+   "t": "With olives, capers or peas (Dissapore); or olives, capers and anchovies, with cherry tomatoes and passata (Cookist, chef Ruben Bondì)."
+  },
+  "variants.3": {
+   "fr": "Aux tomates cerises cuites à feu vif avec une gousse d'ail (Dissapore). La recette ajoute du bouillon en poudre, non repris ici.",
+   "t": "With cherry tomatoes cooked over high heat with a garlic clove (Dissapore). That recipe adds stock powder, which is left out here."
+  },
+  "variants.4": {
+   "fr": "À Palerme : sans tomate, avec raisins secs, pignons et fenouil sauvage (Wikipédia).",
+   "t": "In Palermo: no tomato, but raisins, pine nuts and wild fennel (Wikipedia)."
+  }
+ }
+}

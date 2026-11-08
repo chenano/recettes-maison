@@ -1,0 +1,320 @@
+{
+ "_slug": "couscous-sept-legumes",
+ "_ingredients": {
+  "viande": {
+   "q": 1,
+   "u": "kg",
+   "fr": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux"
+  },
+  "huile": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive ou d'huile neutre"
+  },
+  "oignon": {
+   "q": 1,
+   "u": "",
+   "fr": "gros oignon (environ 200 g) / gros oignons (environ 200 g chacun)",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "tomates-rapees": {
+   "q": 2,
+   "u": "",
+   "fr": "tomate mûre / tomates mûres",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "gingembre": {
+   "q": 2,
+   "u": "c. à c.",
+   "fr": "de gingembre moulu"
+  },
+  "curcuma": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de curcuma"
+  },
+  "poivre": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "sel": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de sel"
+  },
+  "safran": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de safran en filaments"
+  },
+  "persil": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de persil plat"
+  },
+  "coriandre": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de coriandre fraîche"
+  },
+  "pois-chiches": {
+   "q": 100,
+   "u": "g",
+   "fr": "de pois chiches secs"
+  },
+  "eau": {
+   "q": 2.5,
+   "u": "l",
+   "fr": "d'eau"
+  },
+  "chou": {
+   "q": 500,
+   "u": "g",
+   "fr": "de chou pommé (blanc ou vert)"
+  },
+  "petits-oignons": {
+   "q": 2,
+   "u": "",
+   "fr": "petit oignon / petits oignons",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "tomates-quartiers": {
+   "q": 2,
+   "u": "",
+   "fr": "petite tomate / petites tomates",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "carottes": {
+   "q": 500,
+   "u": "g",
+   "fr": "de carottes"
+  },
+  "navets": {
+   "q": 400,
+   "u": "g",
+   "fr": "de navets moyens"
+  },
+  "courge": {
+   "q": 500,
+   "u": "g",
+   "fr": "de courge rouge (potiron)"
+  },
+  "courgettes": {
+   "q": 400,
+   "u": "g",
+   "fr": "de petites courgettes"
+  },
+  "piments": {
+   "q": 2,
+   "u": "",
+   "fr": "piment vert / piments verts",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "semoule": {
+   "q": 750,
+   "u": "g",
+   "fr": "de couscous de blé dur, grain moyen"
+  },
+  "huile-graine": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive ou d'huile neutre"
+  },
+  "eau-1": {
+   "q": 180,
+   "u": "ml",
+   "fr": "d'eau froide (1er roulage)"
+  },
+  "eau-2": {
+   "q": 350,
+   "u": "ml",
+   "fr": "d'eau (2e roulage)"
+  },
+  "sel-graine": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de sel fin"
+  },
+  "eau-3": {
+   "q": 500,
+   "u": "ml",
+   "fr": "d'eau au maximum (3e roulage)"
+  },
+  "beurre": {
+   "q": 30,
+   "u": "g",
+   "fr": "de beurre mou"
+  },
+  "bouillon-graine": {
+   "q": 180,
+   "u": "ml",
+   "fr": "de bouillon pris dans la marmite"
+  },
+  "smen": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de smen (beurre conservé marocain)"
+  }
+ },
+ "textes": {
+  "title": "Couscous aux sept légumes",
+  "darija": "Kesksou b sbe3 khdari",
+  "tagline": "Le couscous du vendredi midi : une graine légère, roulée à la main et passée trois fois à la vapeur au-dessus d'un bouillon parfumé aux sept légumes.",
+  "region": "Casablanca (couscous « bidaoui ») ; couscous du vendredi dans tout le Maroc",
+  "occasion": "Déjeuner du vendredi, après la grande prière, en famille autour d'un plat commun",
+  "serving": "Pose la gsaa au milieu de la table : on mange ensemble dans le plat, à la cuillère ou à la main en roulant des boulettes, alors prévois des cuillères pour ceux qui n'en ont pas l'habitude. Sers le reste du bouillon dans des bols et, si tu aimes, une sauce piquante à part. Pour boire, le traditionnel lben (lait fermenté).",
+  "ing.0.group": "Viande et bouillon",
+  "ing.viande.name": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux",
+  "ing.huile.name": "d'huile d'olive ou d'huile neutre",
+  "ing.oignon.name": "gros oignon (environ 200 g)",
+  "ing.oignon.pl": "gros oignons (environ 200 g chacun)",
+  "ing.tomates-rapees.name": "tomate mûre",
+  "ing.tomates-rapees.pl": "tomates mûres",
+  "ing.gingembre.name": "de gingembre moulu",
+  "ing.curcuma.name": "de curcuma",
+  "ing.poivre.name": "de poivre noir moulu",
+  "ing.sel.name": "de sel",
+  "ing.sel.note": "goûte et rectifie en fin de cuisson",
+  "ing.safran.name": "de safran en filaments",
+  "ing.safran.note": "facultatif",
+  "ing.persil.name": "de persil plat",
+  "ing.coriandre.name": "de coriandre fraîche",
+  "ing.pois-chiches.name": "de pois chiches secs",
+  "ing.pois-chiches.note": "à faire tremper la veille",
+  "ing.eau.name": "d'eau",
+  "ing.1.group": "Les sept légumes",
+  "ing.chou.name": "de chou pommé (blanc ou vert)",
+  "ing.petits-oignons.name": "petit oignon",
+  "ing.petits-oignons.pl": "petits oignons",
+  "ing.tomates-quartiers.name": "petite tomate",
+  "ing.tomates-quartiers.pl": "petites tomates",
+  "ing.carottes.name": "de carottes",
+  "ing.navets.name": "de navets moyens",
+  "ing.courge.name": "de courge rouge (potiron)",
+  "ing.courgettes.name": "de petites courgettes",
+  "ing.piments.name": "piment vert",
+  "ing.piments.pl": "piments verts",
+  "ing.piments.note": "facultatif",
+  "ing.2.group": "Semoule cuite à la vapeur",
+  "ing.semoule.name": "de couscous de blé dur, grain moyen",
+  "ing.semoule.note": "pas de couscous instantané",
+  "ing.huile-graine.name": "d'huile d'olive ou d'huile neutre",
+  "ing.eau-1.name": "d'eau froide (1er roulage)",
+  "ing.eau-2.name": "d'eau (2e roulage)",
+  "ing.sel-graine.name": "de sel fin",
+  "ing.eau-3.name": "d'eau au maximum (3e roulage)",
+  "ing.eau-3.note": "n'en verse que ce qu'il faut",
+  "ing.3.group": "Finition",
+  "ing.beurre.name": "de beurre mou",
+  "ing.bouillon-graine.name": "de bouillon pris dans la marmite",
+  "ing.smen.name": "de smen (beurre conservé marocain)",
+  "ing.smen.note": "facultatif",
+  "equipment.0": "Couscoussier (keskas) : marmite et panier vapeur",
+  "equipment.1": "Gsaa (grand plat large et creux) ou très grand saladier",
+  "equipment.2": "Film alimentaire (ou papier aluminium) pour rendre le joint étanche",
+  "equipment.3": "Ficelle de cuisine pour le bouquet d'herbes",
+  "equipment.4": "Petite casserole pour les piments",
+  "equipment.5": "Linge propre (facultatif, pour les pois chiches)",
+  "equipment.6": "Louche",
+  "steps.0.title": "La veille : les pois chiches",
+  "steps.0.text": "La veille au soir, mets {{pois-chiches}} de pois chiches secs à tremper dans un grand volume d'eau. Le lendemain, égoutte-les. Si tu veux, enferme-les dans un linge propre noué en balluchon avant de les mettre dans la marmite.",
+  "steps.1.title": "La base du bouillon",
+  "steps.1.text": "Hache grossièrement {{oignon:full}}. Râpe {{tomates-rapees:full}} et jette la peau. Ficelle ensemble {{persil}} de persil et {{coriandre}} de coriandre en un bouquet.",
+  "steps.1.img.alt": "Tomate râpée sur une râpe",
+  "steps.1.img.caption": "Râper la tomate",
+  "steps.2.title": "Les sept légumes",
+  "steps.2.text": "Pèle {{carottes}} de carottes et {{navets}} de navets ; coupe les navets en deux et fends les grosses carottes dans la longueur. Coupe {{chou}} de chou en quartiers à travers le trognon, et {{courge}} de courge en gros morceaux. Retire juste les bouts de {{courgettes}} de courgettes. Pèle, épépine et coupe en quartiers {{tomates-quartiers:full}}, et coupe {{petits-oignons:full}} en deux.",
+  "steps.3.title": "Fais revenir la viande",
+  "steps.3.text": "Dans la marmite du couscoussier, mets {{viande}} de viande, {{huile}} d'huile, l'oignon haché et les tomates râpées. Ajoute {{gingembre}} de gingembre moulu, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel et, si tu veux, {{safran}} de safran. Laisse revenir à découvert sur feu moyen-vif 10 à 15 min, en remuant souvent, jusqu'à obtenir une sauce épaisse et riche.",
+  "steps.3.timer.label": "Viande et épices",
+  "steps.3.timer.done": "Sauce épaisse ? Ajoute les pois chiches, le bouquet et l'eau.",
+  "steps.4.title": "Le bouillon",
+  "steps.4.text": "Ajoute les pois chiches égouttés (ou leur balluchon), le bouquet d'herbes et {{eau}} d'eau. Porte à ébullition, couvre et laisse cuire 30 min à feu moyen. Pendant ce temps, prépare la semoule.",
+  "steps.4.timer.label": "Bouillon, dès l'ébullition",
+  "steps.4.timer.done": "Le bouillon est prêt : place la semoule pour la première vapeur.",
+  "steps.5.title": "Premier roulage à la main",
+  "steps.5.text": "Verse {{semoule}} de couscous dans la gsaa et arrose de {{huile-graine}} d'huile. Frotte la graine entre tes paumes 1 à 2 min pour bien l'enrober. Ajoute {{eau-1}} d'eau froide en pluie, puis frotte encore jusqu'à ce qu'elle soit absorbée, en écrasant les petits grumeaux.",
+  "steps.6.title": "Première vapeur",
+  "steps.6.text": "Huile légèrement le panier et pose un long film alimentaire plié sur le bord de la marmite avant d'y placer le panier : la vapeur ne doit passer que par la graine. Verse la semoule dans le panier sans la tasser, et ne couvre pas. Garde le bouillon à ébullition, sur feu moyen. Lance le minuteur quand la vapeur traverse la graine.",
+  "steps.6.timer.label": "1re vapeur",
+  "steps.6.timer.done": "Renverse la semoule dans la gsaa pour le deuxième roulage.",
+  "steps.6.img.alt": "Graine de couscous dans le haut d'un couscoussier",
+  "steps.6.img.caption": "La graine à la vapeur",
+  "steps.7.title": "Deuxième roulage",
+  "steps.7.text": "Renverse la semoule dans la gsaa, laisse-la tiédir un peu et émiette-la. Arrose avec la moitié de {{eau-2}} d'eau et frotte, puis saupoudre {{sel-graine}} de sel fin. Verse le reste de l'eau et frotte jusqu'à ce qu'il ne reste aucun grumeau.",
+  "steps.8.title": "Le chou, puis deuxième vapeur",
+  "steps.8.text": "Mets dans la marmite le chou, les petits oignons et les quartiers de tomate. Remets la semoule dans le panier, sans tasser ni couvrir. Lance le minuteur quand la vapeur traverse la graine.",
+  "steps.8.timer.label": "2e vapeur",
+  "steps.8.timer.done": "Renverse la semoule et plonge les carottes et les navets dans le bouillon.",
+  "steps.9.title": "Carottes, navets et troisième roulage",
+  "steps.9.text": "Renverse la semoule dans la gsaa. Plonge les carottes et les navets dans le bouillon, couvre et laisse cuire à feu moyen. Pendant ce temps, mouille la semoule petit à petit avec {{eau-3}} d'eau au maximum, en frottant après chaque ajout : n'en mets que ce qu'il faut pour une graine al dente. Goûte-la et rectifie le sel.",
+  "steps.9.timer.label": "Carottes et navets",
+  "steps.9.timer.done": "Ajoute la courge et les courgettes dans la marmite.",
+  "steps.10.title": "Courge, courgettes et assaisonnement",
+  "steps.10.text": "Ajoute la courge et les courgettes dans la marmite ; si le bouillon ne couvre plus les légumes, verse un peu d'eau chaude. Goûte : le bouillon doit être bien parfumé, un peu salé et poivré. Fais cuire {{piments:full}} à part, dans une petite casserole avec un peu de bouillon, jusqu'à ce qu'ils soient tendres.",
+  "steps.11.title": "Troisième vapeur",
+  "steps.11.text": "Mets la moitié de la semoule dans le panier, sans tasser, et replace-le sur la marmite. Dès que la vapeur la traverse, ajoute le reste. Quand la vapeur traverse de nouveau toute la graine, lance le minuteur : à la fin, elle doit être légère et tendre avec une petite résistance, et les légumes tendres sous la pointe d'un couteau.",
+  "steps.11.timer.label": "3e vapeur",
+  "steps.11.timer.done": "Goûte la graine : légère, tendre, avec une petite résistance ? Elle est prête.",
+  "steps.12.title": "Vérifie la viande",
+  "steps.12.text": "La viande doit être bien tendre. Sinon, retire les légumes déjà cuits, couvre et prolonge la cuisson de la viande, puis remets les légumes pour les réchauffer. Retire le bouquet d'herbes et, si tu veux, mélange {{smen}} de smen au bouillon.",
+  "steps.13.title": "Beurre et bouillon dans la graine",
+  "steps.13.text": "Renverse la semoule dans la gsaa et incorpore {{beurre}} de beurre mou en roulant la graine entre tes mains. Arrose de {{bouillon-graine}} de bouillon et frotte encore pour défaire les grumeaux.",
+  "steps.14.title": "Dresse et sers",
+  "steps.14.text": "Forme un dôme aplati de semoule et creuse un puits au centre. Mets la viande dans le puits, le chou et la courge dessus, et range les autres légumes tout autour. Parsème de pois chiches, ajoute les piments, arrose de quelques louches de bouillon et sers le reste très chaud dans des bols.",
+  "steps.14.img.alt": "Main qui roule une boulette de couscous au-dessus du plat",
+  "steps.14.img.caption": "À la main, on roule des boulettes",
+  "secrets.0.text": "Commence par faire revenir viande, oignon, tomates, huile et épices à découvert sur feu moyen-vif, 10 à 15 min, jusqu'à une sauce épaisse, avant de verser l'eau.",
+  "secrets.0.source": "Taste of Maroc, recette du couscous bidaoui",
+  "secrets.1.text": "Garde la viande en gros morceaux (sur l'os chez Taste of Maroc) : selon Nargisse Benkabbou, les petits morceaux rapetissent pendant les heures de cuisson et se perdent dans le bouillon.",
+  "secrets.1.source": "My Moroccan Food, Nargisse Benkabbou ; Taste of Maroc, recette du couscous bidaoui",
+  "secrets.2.text": "Persil et coriandre cuisent ficelés en bouquet dans le bouillon ; Nargisse Benkabbou retire le sien (coriandre seule) avant d'ajouter les premiers légumes, Cooking with Alia avant de servir.",
+  "secrets.2.source": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; Cooking with Alia ; My Moroccan Food, Nargisse Benkabbou",
+  "secrets.3.text": "Astuce de Dari : les pois chiches cuisent dans la marmite enfermés dans un linge noué en balluchon.",
+  "secrets.3.source": "Couscous Dari",
+  "secrets.4.text": "Huile d'abord, eau ensuite : frotte la graine huilée entre tes paumes, puis mouille-la peu à peu en défaisant chaque grumeau.",
+  "secrets.4.source": "Taste of Maroc, guide de la vapeur ; Royal Mansour, chef Karim Benbaba",
+  "secrets.5.text": "Joint étanche : toute la vapeur doit passer à travers la graine. Film plié ou papier alu aujourd'hui ; à l'ancienne, une bande de tissu enduite d'une pâte légère de farine et d'eau.",
+  "secrets.5.source": "Taste of Maroc, guide de la vapeur ; Ministère de la Culture du Maroc, fiche d'inventaire du couscous ; Bladi.net",
+  "secrets.6.text": "Ne tasse jamais la graine dans le panier et ne la couvre pas : la plupart des Marocains la laissent à découvert.",
+  "secrets.6.source": "Taste of Maroc, guide de la vapeur",
+  "secrets.7.text": "Le temps de vapeur se compte à partir du moment où la vapeur traverse la graine, pas avant.",
+  "secrets.7.source": "Taste of Maroc, guide de la vapeur et recette du couscous bidaoui ; Bladi.net",
+  "secrets.8.text": "Le sel de la graine se met au deuxième roulage, entre deux arrosages d'eau.",
+  "secrets.8.source": "Taste of Maroc, guide de la vapeur",
+  "secrets.9.text": "Au dernier roulage, mouille petit à petit et arrête-toi à temps : la graine finie doit être légère, tendre, avec une petite résistance.",
+  "secrets.9.source": "Taste of Maroc, guide de la vapeur",
+  "secrets.10.text": "Dernière vapeur en deux fois : la moitié de la graine d'abord, le reste quand la vapeur la traverse.",
+  "secrets.10.source": "Taste of Maroc, recette du couscous bidaoui",
+  "secrets.11.text": "Les légumes entrent par ordre de dureté pour être prêts ensemble : courge et courgettes en dernier, car une fois cuites elles deviennent très fragiles.",
+  "secrets.11.source": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
+  "secrets.12.text": "Les légumes cuisent immergés : s'ils restent à la surface du bouillon, ils cuisent de façon inégale.",
+  "secrets.12.source": "My Moroccan Food, Nargisse Benkabbou",
+  "secrets.13.text": "Le bouillon doit être bien parfumé, un peu salé et poivré.",
+  "secrets.13.source": "Taste of Maroc, recette du couscous bidaoui",
+  "secrets.14.text": "Finition : beurre dans la graine et smen dans le bouillon ; Dari et Nargisse Benkabbou mettent le smen directement sur la graine.",
+  "secrets.14.source": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
+  "secrets.15.text": "Arrose la graine de bouillon avant de dresser, et sers le reste à part, très chaud.",
+  "secrets.15.source": "Taste of Maroc, recette du couscous bidaoui ; Royal Mansour, chef Karim Benbaba ; Bladi.net",
+  "mistakes.0": "Préparer la graine à l'eau bouillante comme un couscous instantané : au Maroc, elle se cuit à la vapeur, en plusieurs passages.",
+  "mistakes.1": "Tasser la semoule dans le panier ou poser un couvercle dessus.",
+  "mistakes.2": "Laisser la vapeur fuir entre la marmite et le panier.",
+  "mistakes.3": "Laisser le fond du panier toucher le bouillon.",
+  "mistakes.4": "Lancer le minuteur avant que la vapeur traverse la graine.",
+  "mistakes.5": "Noyer la graine au dernier roulage : trop de liquide la rend lourde et mouillée.",
+  "mistakes.6": "Sauter l'étape des grumeaux entre deux passages.",
+  "mistakes.7": "Mettre tous les légumes en même temps : courge et courgettes, très fragiles une fois cuites, se défont.",
+  "mistakes.8": "Couper la viande en petits morceaux : ils rapetissent et se perdent dans le bouillon.",
+  "mistakes.9": "Laisser des légumes hors du bouillon : ils cuisent de façon inégale.",
+  "variants.0": "Tfaya (variante, pas la base) : oignons, rouges de préférence, et raisins secs trempés 15 min, mijotés à couvert sur feu moyen-doux 30 min à 1 h avec beurre, miel, cannelle, poivre, gingembre, curcuma, safran, une pincée de sel et un peu d'eau, jusqu'à ce que le jus devienne un sirop épais ; un peu d'eau de fleur d'oranger à la fin si tu veux. Pose-la sur le couscous ou sers-la à part (Taste of Maroc ; version au miel et à la cannelle chez My Moroccan Food).",
+  "variants.1": "Graine au lait : remplace l'eau du troisième roulage par du lait pour une semoule plus riche (Taste of Maroc).",
+  "variants.2": "Légumes de saison : fèves avec le chou, patate douce avec la courge (Taste of Maroc) ; aubergine chez Royal Mansour, Dari et Le Petit Journal, qui cite aussi le céleri et les fèves en été.",
+  "variants.3": "Smen sur la graine chaude au lieu du bouillon (Couscous Dari ; My Moroccan Food).",
+  "variants.4": "Deuxième bouquet persil-coriandre ajouté avec les légumes tendres (Couscous Dari).",
+  "variants.5": "Gueddid (viande séchée) à la place de la viande fraîche (Taste of Maroc).",
+  "variants.6": "Sans viande : un peu plus d'huile donne un bouillon plus riche (Taste of Maroc).",
+  "variants.7": "Deux vapeurs seulement : certains Marocains font ainsi (Taste of Maroc), et Choumicha passe la graine deux fois 20 min dans sa recette pour Gulf News.",
+  "variants.8": "Version palace du chef Karim Benbaba (Royal Mansour) : chaque légume cuit à part dans un bouillon de légumes filtré, puis dressé en alternant les couleurs."
+ }
+}

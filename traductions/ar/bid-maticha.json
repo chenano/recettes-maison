@@ -1,0 +1,402 @@
+{
+ "_slug": "bid-maticha",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Œufs à la tomate à la marocaine",
+   "t": "البيض بالطماطم على الطريقة المغربية"
+  },
+  "darija": {
+   "fr": "Bid w maticha",
+   "t": "بيض ومطيشة"
+  },
+  "tagline": {
+   "fr": "Des tomates fondues à l'huile d'olive, à l'ail et au cumin, puis des œufs cuits dessus à couvert : un plat marocain que tout le monde sait cuisiner, à saucer avec du pain. Faute de recette chiffrée de la version nature, les quantités sont reconstituées d'après Choumicha et des tajines de kefta aux œufs.",
+   "t": "طماطم مطهوة حتى تذوب بزيت الزيتون والثوم والكمون، ثم بيض يُطهى فوقها مع التغطية: طبق مغربي يعرف الجميع طبخه، يؤكل بتغميس الخبز فيه. ولعدم وجود وصفة بمقادير محددة للنسخة البسيطة، أُعيد تقدير الكميات استنادًا إلى Choumicha وإلى وصفات طاجين الكفتة بالبيض."
+  },
+  "region": {
+   "fr": "Maroc : un plat que tout le monde sait cuisiner (Lalla Moulati, 2018), courant chez les étudiants, les célibataires et les gens pressés, et auquel les Marocains sont très attachés (Hespress, 2012).",
+   "t": "المغرب: طبق يعرف الجميع طبخه (Lalla Moulati، 2018)، شائع لدى الطلبة والعزّاب والمستعجلين، ويتعلق به المغاربة كثيرًا (Hespress، 2012)."
+  },
+  "occasion": {
+   "fr": "Dîner vite fait, quand on ne sait pas quoi préparer (Hespress, 2012) ; il se mange aussi au petit-déjeuner (Lalla Moulati, 2018). C'est aussi le repas de dépannage des étudiants pressés (Hespress, 2012).",
+   "t": "عشاء سريع، حين لا نعرف ماذا نحضّر (Hespress، 2012)؛ ويؤكل أيضًا في الفطور الصباحي (Lalla Moulati، 2018). وهو كذلك الحلّ السريع للطلبة المستعجلين (Hespress، 2012)."
+  },
+  "img_alt": {
+   "fr": "Bid w maticha : œufs cuits dans une sauce tomate, servis dans un plat en terre avec du pain",
+   "t": "بيض ومطيشة: بيض مطهو في صلصة الطماطم، يُقدَّم في طبق فخاري مع الخبز"
+  },
+  "serving": {
+   "fr": "Bien chaud, tout de suite, dans la poêle ou le tajine posé au milieu de la table : chacun pioche avec du pain (My Moroccan Food ; Taste of Maroc). Choumicha propose du thé à la menthe à côté, comme Cooking With Alia et Taste of Maroc avec leurs tajines de kefta.",
+   "t": "ساخنًا جدًا، فورًا، في المقلاة أو في الطاجين الموضوع وسط المائدة: يأكل كل واحد منه بالخبز (My Moroccan Food؛ Taste of Maroc). وتقترح Choumicha الشاي بالنعناع إلى جانبه، كما يفعل Cooking With Alia وTaste of Maroc مع طاجين الكفتة."
+  },
+  "ing.0.group": {
+   "fr": "Tomates et épices",
+   "t": "الطماطم والتوابل"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne bien mûre",
+   "t": "حبة طماطم متوسطة الحجم ناضجة جيدًا"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes bien mûres",
+   "t": "حبات طماطم متوسطة الحجم ناضجة جيدًا"
+  },
+  "ing.tomates.note": {
+   "fr": "environ 125 g chacune",
+   "t": "نحو 125 غ للحبة الواحدة"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "تُعدَّل كميته بعد التذوق"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "بابريكا"
+  },
+  "ing.paprika.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.1.group": {
+   "fr": "Œufs et service",
+   "t": "البيض والتقديم"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.oeufs.note": {
+   "fr": "un par personne",
+   "t": "بيضة لكل شخص"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة مفرومة"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "لتغميسه في الصلصة"
+  },
+  "equipment.0": {
+   "fr": "Grande poêle avec couvercle (ou un tajine ; hors gaz, pose-le sur un diffuseur)",
+   "t": "مقلاة كبيرة بغطاء (أو طاجين؛ وعلى موقد غير غازي، ضعه فوق موزّع حرارة)"
+  },
+  "equipment.1": {
+   "fr": "Planche et couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.2": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "steps.0.title": {
+   "fr": "Lave et coupe les tomates",
+   "t": "اغسل الطماطم وقطّعها"
+  },
+  "steps.0.text": {
+   "fr": "Rince {{tomates:full}} sous l'eau courante, puis coupe-les en rondelles.",
+   "t": "اشطف {{tomates:full}} تحت الماء الجاري، ثم قطّعها إلى شرائح دائرية."
+  },
+  "steps.1.title": {
+   "fr": "Hache l'ail",
+   "t": "افرم الثوم"
+  },
+  "steps.1.text": {
+   "fr": "Épluche et hache finement {{ail:full}}.",
+   "t": "قشّر {{ail:full}}، ثم افرم الثوم فرمًا ناعمًا."
+  },
+  "steps.2.title": {
+   "fr": "Hache les herbes",
+   "t": "افرم الأعشاب"
+  },
+  "steps.2.text": {
+   "fr": "Rince le persil et la coriandre sous l'eau courante, sèche-les, puis hache-les finement pour obtenir {{persil}} de persil et {{coriandre}} de coriandre. Garde-les pour la fin.",
+   "t": "اشطف البقدونس والكزبرة تحت الماء الجاري، وجفّفهما، ثم افرمهما فرمًا ناعمًا لتحصل على {{persil}} من البقدونس و{{coriandre}} من الكزبرة. احتفظ بهما للنهاية."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.3.title": {
+   "fr": "Garnis la poêle",
+   "t": "جهّز المقلاة"
+  },
+  "steps.3.text": {
+   "fr": "Verse {{huile}} d'huile d'olive dans une grande poêle. Étale les rondelles de tomates, puis ajoute l'ail, {{sel}} de sel, {{cumin}} de cumin, {{paprika}} de paprika et {{poivre}} de poivre noir.",
+   "t": "اسكب {{huile}} من زيت الزيتون في مقلاة كبيرة. وزّع شرائح الطماطم، ثم أضف الثوم، و{{sel}} من الملح، و{{cumin}} من الكمون، و{{paprika}} من البابريكا، و{{poivre}} من الفلفل الأسود."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha cuit ses tomates aux œufs dans un tajine, sur feu doux. Hors gaz, glisse un diffuseur sous le tajine (Taste of Maroc).",
+   "t": "تطهو Choumicha الطماطم بالبيض في طاجين على نار هادئة. وعلى موقد غير غازي، ضع موزّع حرارة تحت الطاجين (Taste of Maroc)."
+  },
+  "steps.4.title": {
+   "fr": "Porte à ébullition",
+   "t": "أوصل الخليط إلى الغليان"
+  },
+  "steps.4.text": {
+   "fr": "Mets la poêle sur feu moyen. Dès que ça bout, couvre et baisse le feu.",
+   "t": "ضع المقلاة على نار متوسطة. وما إن يبدأ الغليان، غطّها وخفّف النار."
+  },
+  "steps.5.title": {
+   "fr": "Laisse fondre les tomates",
+   "t": "اترك الطماطم تذوب"
+  },
+  "steps.5.text": {
+   "fr": "Laisse cuire à couvert et à feu doux 10 à 15 minutes, en remuant de temps en temps, jusqu'à ce que les tomates soient fondantes.",
+   "t": "اتركها تنضج مغطّاة على نار هادئة من 10 إلى 15 دقيقة، مع التحريك من حين لآخر، حتى تصير الطماطم طرية ذائبة."
+  },
+  "steps.5.tip": {
+   "fr": "Envie d'une sauce plus épaisse ? Écrase les tomates avec le dos d'une cuillère et prolonge la cuisson : My Moroccan Food compte environ 25 minutes (Taste of Maroc ; My Moroccan Food).",
+   "t": "تريد صلصة أكثف؟ اهرس الطماطم بظهر ملعقة وأطِل مدة الطهي: يحسب My Moroccan Food نحو 25 دقيقة (Taste of Maroc؛ My Moroccan Food)."
+  },
+  "steps.6.title": {
+   "fr": "Goûte et rectifie",
+   "t": "تذوّق وعدّل"
+  },
+  "steps.6.text": {
+   "fr": "Goûte la sauce et ajoute un peu de sel s'il le faut.",
+   "t": "تذوّق الصلصة وأضف قليلًا من الملح إن لزم الأمر."
+  },
+  "steps.7.title": {
+   "fr": "Casse les œufs",
+   "t": "اكسر البيض"
+  },
+  "steps.7.text": {
+   "fr": "Avec une cuillère, fais un petit creux dans la sauce pour chaque œuf. Casse doucement un œuf dans chaque creux, sans crever le jaune ({{oeufs:full}} en tout).",
+   "t": "اصنع بملعقة حفرة صغيرة في الصلصة لكل بيضة. اكسر بيضة في كل حفرة برفق، دون أن تثقب الصفار ({{oeufs:full}} في المجموع)."
+  },
+  "steps.8.title": {
+   "fr": "Couvre et laisse prendre",
+   "t": "غطّ المقلاة واترك البيض يتماسك"
+  },
+  "steps.8.text": {
+   "fr": "Couvre et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient pris.",
+   "t": "غطّ المقلاة واتركها على نار هادئة نحو 5 دقائق، حتى يتماسك بياض البيض."
+  },
+  "steps.8.tip": {
+   "fr": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Pour les jeunes enfants, les femmes enceintes, les personnes âgées ou fragiles, jamais d'œuf peu cuit : laisse à couvert jusqu'à ce que le jaune soit ferme (Anses ; FDA).",
+   "t": "تنصح FDA بطهي البيض حتى يتماسك الصفار والبياض. للأطفال الصغار والنساء الحوامل وكبار السن والأشخاص ذوي الصحة الهشة، لا بيض غير مكتمل الطهي أبدًا: اترك المقلاة مغطّاة حتى يتماسك الصفار (Anses؛ FDA)."
+  },
+  "steps.8.timer.label": {
+   "fr": "Œufs à couvert",
+   "t": "البيض مغطّى"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les blancs sont-ils pris ? Pour un jaune ferme, laisse encore un peu à couvert.",
+   "t": "هل تماسك البياض؟ للحصول على صفار متماسك، اترك المقلاة مغطّاة قليلًا بعد."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les herbes",
+   "t": "أضف الأعشاب"
+  },
+  "steps.9.text": {
+   "fr": "Parsème {{persil}} de persil et {{coriandre}} de coriandre hachés.",
+   "t": "رشّ فوقه {{persil}} من البقدونس المفروم و{{coriandre}} من الكزبرة المفرومة."
+  },
+  "steps.10.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّم فورًا"
+  },
+  "steps.10.text": {
+   "fr": "Sers tout de suite, bien chaud, dans la poêle, avec du {{khobz}} pour saucer.",
+   "t": "قدّم الطبق فورًا وهو ساخن جدًا، في المقلاة، مع {{khobz}} لتغميسه في الصلصة."
+  },
+  "steps.10.tip": {
+   "fr": "Choumicha sert son tajine de tomates aux œufs avec du thé à la menthe, comme Cooking With Alia et Taste of Maroc leurs tajines de kefta.",
+   "t": "تقدّم Choumicha طاجين الطماطم بالبيض مع الشاي بالنعناع، كما يفعل Cooking With Alia وTaste of Maroc مع طاجين الكفتة."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, c'est le plat que tout le monde sait cuisiner. On le fait au petit-déjeuner comme au dîner.",
+   "t": "في المغرب، هو الطبق الذي يعرف الجميع طبخه. ويُحضَّر في الفطور الصباحي كما في العشاء."
+  },
+  "secrets.0.source": {
+   "fr": "Lalla Moulati, article du 29 décembre 2018",
+   "t": "Lalla Moulati، مقال بتاريخ 29 ديسمبر 2018"
+  },
+  "secrets.1.text": {
+   "fr": "Quand on ne sait pas quoi préparer pour le dîner, beaucoup de Marocaines se tournent vers le bid w maticha. Les séries de la télévision marocaine montrent combien on y est attaché.",
+   "t": "عندما لا تعرف كثير من المغربيات ماذا يحضّرن للعشاء، يلجأن إلى طبق البيض ومطيشة. وتُظهر المسلسلات التلفزيونية المغربية مدى التعلق به."
+  },
+  "secrets.1.source": {
+   "fr": "Hespress, Fatima Zahra Zaim, 16 octobre 2012",
+   "t": "Hespress، Fatima Zahra Zaim، 16 أكتوبر 2012"
+  },
+  "secrets.2.text": {
+   "fr": "Les étudiants l'appelaient « BM » : un repas rapide, cuisiné entre deux cours, presque sans mesures.",
+   "t": "كان الطلبة يسمّونه «BM»: وجبة سريعة تُطبخ بين حصتين دراسيتين، دون قياس المقادير تقريبًا."
+  },
+  "secrets.2.source": {
+   "fr": "Hespress, Latifa Baqa, 22 novembre 2012",
+   "t": "Hespress، Latifa Baqa، 22 نوفمبر 2012"
+  },
+  "secrets.3.text": {
+   "fr": "Prends des tomates bien mûres.",
+   "t": "اختر طماطم ناضجة جيدًا."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc ; Cooking With Alia",
+   "t": "My Moroccan Food؛ Taste of Maroc؛ Cooking With Alia"
+  },
+  "secrets.4.text": {
+   "fr": "Le temps de cuisson des tomates change beaucoup selon leur maturité, leur jus et la poêle : regarde la sauce plutôt que la montre.",
+   "t": "تختلف مدة طهي الطماطم كثيرًا حسب نضجها وعصارتها والمقلاة: راقب الصلصة بدل الساعة."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Des tomates râpées, peau jetée, cuisent un peu plus vite que des tomates coupées.",
+   "t": "الطماطم المبشورة، بعد التخلص من قشرتها، تنضج أسرع قليلًا من الطماطم المقطّعة."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia (tomates râpées)",
+   "t": "Taste of Maroc؛ Cooking With Alia (طماطم مبشورة)"
+  },
+  "secrets.6.text": {
+   "fr": "Fais un petit creux pour chaque œuf et casse-le doucement, sans crever le jaune.",
+   "t": "اصنع حفرة صغيرة لكل بيضة واكسرها برفق، دون أن تثقب الصفار."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc",
+   "t": "My Moroccan Food؛ Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "À couvert, compte 4 à 5 minutes pour un blanc pris et un jaune encore coulant.",
+   "t": "مع التغطية، احسب من 4 إلى 5 دقائق لبياض متماسك وصفار لا يزال سائلًا."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food (4 à 5 min) ; Cooking With Alia (5 min) ; Choumicha (3 à 4 min, jusqu'à ce que le blanc prenne)",
+   "t": "My Moroccan Food (من 4 إلى 5 دقائق)؛ Cooking With Alia (5 دقائق)؛ Choumicha (من 3 إلى 4 دقائق، حتى يتماسك البياض)"
+  },
+  "secrets.8.text": {
+   "fr": "Des œufs beldi (fermiers), si tu en trouves.",
+   "t": "بيض بلدي (بيض المزرعة)، إن وجدته."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Sers bien chaud, au milieu de la table : chacun pioche dans le plat avec des morceaux de pain, avec du thé à la menthe à côté.",
+   "t": "قدّمه ساخنًا جدًا وسط المائدة: يأكل كل واحد من الطبق بقطع الخبز، مع الشاي بالنعناع إلى جانبه."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Cooking With Alia",
+   "t": "Choumicha؛ Taste of Maroc؛ Cooking With Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Au Maroc, la chakchouka se fait souvent avec du poivron vert. Ici, pas de poivrons : seulement des tomates, de l'ail, des épices et des œufs.",
+   "t": "في المغرب، كثيرًا ما تُحضَّر الشكشوكة بالفلفل الحلو الأخضر. أما هنا، فلا فلفل حلو: فقط الطماطم والثوم والتوابل والبيض."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipédia FR (Chakchouka, section Maroc : avec poivron vert) ; Cooking With Alia (chekchouka au poivron vert) ; Choumicha (tajine de tomates aux œufs, sans poivrons)",
+   "t": "Wikipédia FR (مقالة Chakchouka، قسم المغرب: بالفلفل الحلو الأخضر)؛ Cooking With Alia (الشكشوكة بالفلفل الحلو الأخضر)؛ Choumicha (طاجين الطماطم بالبيض، بلا فلفل حلو)"
+  },
+  "secrets.11.text": {
+   "fr": "Ne lave pas les œufs avant de les ranger : le lavage aide les microbes à entrer dans l'œuf. Garde-les toujours à la même température.",
+   "t": "لا تغسل البيض قبل تخزينه: فالغسل يساعد الميكروبات على الدخول إلى البيضة. واحفظه دائمًا في درجة الحرارة نفسها."
+  },
+  "secrets.11.source": {
+   "fr": "Anses, fiche Salmonella spp. (juin 2021)",
+   "t": "Anses، بطاقة Salmonella spp. (يونيو 2021)"
+  },
+  "secrets.12.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans des boîtes peu profondes. Mange-les dans les 3 à 4 jours, bien réchauffés (74 °C).",
+   "t": "البقايا: ضعها في الثلاجة خلال 2 ساعة، في علب غير عميقة. وكُلها خلال 3 إلى 4 أيام، بعد تسخينها جيدًا (74 درجة مئوية)."
+  },
+  "secrets.12.source": {
+   "fr": "Anses (2 heures) ; FDA (3 à 4 jours, 165 °F, soit 74 °C)",
+   "t": "Anses (2 ساعة)؛ FDA (من 3 إلى 4 أيام، 165 درجة فهرنهايت، أي 74 درجة مئوية)"
+  },
+  "mistakes.0": {
+   "fr": "Casser les œufs dans des tomates encore crues : attends qu'elles soient fondantes (Choumicha ; My Moroccan Food).",
+   "t": "كسر البيض فوق طماطم لا تزال نيئة: انتظر حتى تصير طرية ذائبة (Choumicha؛ My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Crever les jaunes en cassant les œufs (Taste of Maroc).",
+   "t": "ثقب الصفار عند كسر البيض (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Servir un œuf peu cuit à un jeune enfant, une femme enceinte, une personne âgée ou fragile (Anses ; FDA).",
+   "t": "تقديم بيض غير مكتمل الطهي لطفل صغير أو امرأة حامل أو شخص مسنّ أو ذي صحة هشة (Anses؛ FDA)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (Anses ; FDA).",
+   "t": "ترك البقايا خارج الثلاجة أكثر من 2 ساعة (Anses؛ FDA)."
+  },
+  "mistakes.4": {
+   "fr": "Laver les œufs avant de les ranger (Anses).",
+   "t": "غسل البيض قبل تخزينه (Anses)."
+  },
+  "variants.0": {
+   "fr": "Œufs brouillés : verse les œufs battus sur les tomates et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014 ; Wikipédia FR, Chakchouka).",
+   "t": "بيض مخلوط: اسكب البيض المخفوق فوق الطماطم، وحرّك حتى ينضج (Lalla Moulati، 2014؛ Wikipédia FR، Chakchouka)."
+  },
+  "variants.1": {
+   "fr": "Avec de l'oignon : fais d'abord revenir un oignon haché dans l'huile, puis ajoute les tomates (Lalla Moulati, 2014 ; Wikipédia FR, qui cite aussi l'ail à la place de l'oignon).",
+   "t": "بالبصل: شوّح أولًا بصلة مفرومة في الزيت، ثم أضف الطماطم (Lalla Moulati، 2014؛ Wikipédia FR، التي تذكر أيضًا الثوم بدل البصل)."
+  },
+  "variants.2": {
+   "fr": "Au khlii : 5 minutes avant les œufs, ajoute du khlii dégraissé et émietté, avec le cumin (Choumicha : 180 g de khlii pour 4 belles tomates et 6 œufs, pour 6 personnes). Prends un khlii de viande halal.",
+   "t": "بالخليع: قبل إضافة البيض بـ5 دقائق، أضف الخليع بعد إزالة دهنه وتفتيته، مع الكمون (Choumicha: 180 غ من الخليع مقابل 4 حبات طماطم كبيرة و6 بيضات، لـ6 أشخاص). اختر خليعًا من لحم حلال."
+  },
+  "variants.3": {
+   "fr": "Plus relevé : une pincée de piment de Cayenne (My Moroccan Food) ou des piments (Taste of Maroc).",
+   "t": "أكثر حرارة: رشة من فلفل الكايين (My Moroccan Food) أو فلفل حار (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Sauce mijotée : tomates râpées, peau jetée, cuites 20 à 25 minutes à feu moyen en remuant, jusqu'à une sauce épaisse (Cooking With Alia). Le plat dépasse alors 30 minutes.",
+   "t": "صلصة مطهوة على مهل: طماطم مبشورة، بعد التخلص من قشرتها، تُطهى من 20 إلى 25 دقيقة على نار متوسطة مع التحريك، حتى تصير صلصة كثيفة (Cooking With Alia). وعندئذ تتجاوز مدة تحضير الطبق 30 دقيقة."
+  },
+  "variants.5": {
+   "fr": "Avec des boulettes de kefta, on passe au tajine de kefta aux œufs (My Moroccan Food ; Cooking With Alia ; Taste of Maroc) ; avec des poivrons verts, à la chakchouka (Wikipédia FR). Ce sont deux autres recettes de l'appli.",
+   "t": "مع كرات الكفتة، يصير الطبق طاجين الكفتة بالبيض (My Moroccan Food؛ Cooking With Alia؛ Taste of Maroc)؛ ومع الفلفل الحلو الأخضر، يصير شكشوكة (Wikipédia FR). وهما وصفتان أخريان في التطبيق."
+  },
+  "variants.6": {
+   "fr": "Au four, à la façon de Lalla Moulati (2018) : tomates évidées, garnies de blanc d'œuf mélangé à de l'oignon, du persil et des épices, puis du jaune et du reste du mélange, et cuites au four ou sur la braise.",
+   "t": "في الفرن، على طريقة Lalla Moulati (2018): طماطم مُفرَّغة، تُحشى ببياض البيض المخلوط بالبصل والبقدونس والتوابل، ثم بالصفار وباقي الخليط، وتُطهى في الفرن أو على الجمر."
+  }
+ }
+}

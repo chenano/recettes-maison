@@ -1,0 +1,562 @@
+{
+ "_slug": "maqarouna",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Macaronis à la marocaine",
+   "t": "المقرونة على الطريقة المغربية"
+  },
+  "darija": {
+   "fr": "Maqarouna (ma9arouna)",
+   "t": "مقرونة (maqarouna أو ma9arouna)"
+  },
+  "tagline": {
+   "fr": "Des macaronis mêlés à une sauce tomate à la kefta et aux épices marocaines, couverts de béchamel et de fromage, puis dorés au four. Un gratin familial qu'on retrouve dans plusieurs recettes marocaines en darija.",
+   "t": "معكرونة ماكروني ممزوجة بصلصة طماطم بالكفتة والتوابل المغربية، مغطاة بالبشاميل والجبن، ثم محمّرة في الفرن. طبق عائلي مخبوز نجده في عدة وصفات مغربية بالدارجة."
+  },
+  "region": {
+   "fr": "Cuisine familiale marocaine (recettes en darija publiées sur Lalla Moulati ; Cooking With Alia)",
+   "t": "المطبخ العائلي المغربي (وصفات بالدارجة منشورة على Lalla Moulati؛ Cooking With Alia)"
+  },
+  "occasion": {
+   "fr": "Plat familial de midi ou du soir",
+   "t": "طبق عائلي للغداء أو العشاء"
+  },
+  "img_alt": {
+   "fr": "Gratin de macaronis à la viande hachée sous une béchamel dorée (photo d'un pastitsio grec, plat très proche)",
+   "t": "معكرونة باللحم المفروم مخبوزة تحت طبقة بشاميل ذهبية (صورة باستيتسيو يوناني، وهو طبق قريب جدًا)"
+  },
+  "serving": {
+   "fr": "Sers chaud, à la sortie du four (Lalla Moulati, 2014 et 2019), après quelques minutes de repos (Lalla Moulati, 2023), avec une salade verte ou d'autres salades (Lalla Moulati, 2019 et 2023).",
+   "t": "قدّمها ساخنة فور إخراجها من الفرن (Lalla Moulati، في 2014 و2019)، بعد أن ترتاح بضع دقائق (Lalla Moulati، في 2023)، مع سلطة خضراء أو سلطات أخرى (Lalla Moulati، في 2019 و2023)."
+  },
+  "ing.0.group": {
+   "fr": "Pâtes",
+   "t": "المعكرونة"
+  },
+  "ing.pates.name": {
+   "fr": "de macaronis",
+   "t": "معكرونة ماكروني"
+  },
+  "ing.pates.note": {
+   "fr": "ou d'autres pâtes courtes",
+   "t": "أو نوع آخر من المعكرونة القصيرة"
+  },
+  "ing.eau-pates.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.sel-pates.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.sel-pates.note": {
+   "fr": "pour l'eau des pâtes",
+   "t": "لماء المعكرونة"
+  },
+  "ing.huile-pates.name": {
+   "fr": "huile",
+   "t": "زيت"
+  },
+  "ing.huile-pates.note": {
+   "fr": "un filet, facultatif",
+   "t": "قليل منه، اختياري"
+  },
+  "ing.1.group": {
+   "fr": "Sauce à la kefta",
+   "t": "صلصة الكفتة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile",
+   "t": "زيت"
+  },
+  "ing.huile.note": {
+   "fr": "de table ou d'olive",
+   "t": "زيت المائدة أو زيت الزيتون"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "بصلة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "بصلات"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "تُبشر"
+  },
+  "ing.kefta.name": {
+   "fr": "de kefta (bœuf haché)",
+   "t": "كفتة (لحم بقر مفروم)"
+  },
+  "ing.kefta.note": {
+   "fr": "halal",
+   "t": "حلال"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher",
+   "t": "يُفرم"
+  },
+  "ing.carotte.name": {
+   "fr": "carotte",
+   "t": "جزرة"
+  },
+  "ing.carotte.pl": {
+   "fr": "carottes",
+   "t": "جزرات"
+  },
+  "ing.carotte.note": {
+   "fr": "à râper",
+   "t": "تُبشر"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "طماطم ناضجة جيدًا"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper",
+   "t": "تُبشر"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "مركز الطماطم"
+  },
+  "ing.persil.name": {
+   "fr": "de persil haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.persil.note": {
+   "fr": "ou persil et coriandre",
+   "t": "أو بقدونس وكزبرة"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "يُعدَّل بعد التذوق"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "ing.gingembre.name": {
+   "fr": "gingembre moulu",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.gingembre.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "ing.curcuma.name": {
+   "fr": "curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.curcuma.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "ing.paprika.name": {
+   "fr": "paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.paprika.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "ing.cumin.name": {
+   "fr": "cumin",
+   "t": "كمون"
+  },
+  "ing.cumin.note": {
+   "fr": "un peu",
+   "t": "قليل منه"
+  },
+  "ing.thym.name": {
+   "fr": "de thym séché",
+   "t": "زعتر مجفف"
+  },
+  "ing.thym.note": {
+   "fr": "pas plus",
+   "t": "لا أكثر"
+  },
+  "ing.2.group": {
+   "fr": "Béchamel",
+   "t": "صلصة البشاميل"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "دقيق"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "حليب"
+  },
+  "ing.sel-bech.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.poivre-bech.name": {
+   "fr": "poivre noir",
+   "t": "فلفل أسود"
+  },
+  "ing.muscade.name": {
+   "fr": "noix de muscade râpée",
+   "t": "جوزة طيب مبشورة"
+  },
+  "ing.muscade.note": {
+   "fr": "une pointe",
+   "t": "قليل جدًا"
+  },
+  "ing.3.group": {
+   "fr": "Gratin",
+   "t": "للتحمير في الفرن"
+  },
+  "ing.beurre-plat.name": {
+   "fr": "beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre-plat.note": {
+   "fr": "pour graisser le plat",
+   "t": "لدهن طبق الفرن"
+  },
+  "ing.fromage.name": {
+   "fr": "de fromage râpé",
+   "t": "جبن مبشور"
+  },
+  "ing.fromage.note": {
+   "fr": "si tu veux être strict sur le halal : fromage certifié halal ; à défaut, à coagulant microbien, sans présure ni autre enzyme animale",
+   "t": "إذا أردت التشدد في الحلال: جبن حاصل على شهادة حلال؛ وإن لم يتوفر، فجبن مصنوع بمخثّر ميكروبي، دون منفحة ولا أي إنزيم حيواني آخر"
+  },
+  "equipment.0": {
+   "fr": "Grand faitout pour cuire les pâtes",
+   "t": "قدر كبير لسلق المعكرونة"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "مصفاة"
+  },
+  "equipment.2": {
+   "fr": "Grande poêle profonde ou sauteuse",
+   "t": "مقلاة كبيرة عميقة"
+  },
+  "equipment.3": {
+   "fr": "Petite casserole pour la béchamel",
+   "t": "قدر صغير للبشاميل"
+  },
+  "equipment.4": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "equipment.5": {
+   "fr": "Râpe",
+   "t": "مبشرة"
+  },
+  "equipment.6": {
+   "fr": "Plat à gratin",
+   "t": "طبق للفرن"
+  },
+  "equipment.7": {
+   "fr": "Four",
+   "t": "فرن"
+  },
+  "steps.0.title": {
+   "fr": "Râpe et hache les légumes",
+   "t": "ابشر الخضر وافرمها"
+  },
+  "steps.0.text": {
+   "fr": "Râpe {{oignon:full}} et {{carotte:full}}. Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{ail:full}} et {{persil}} de persil.",
+   "t": "ابشر {{oignon:full}} و{{carotte:full}}. اقطع {{tomates}} من الطماطم نصفين وابشر لبّها؛ وتخلّص من القشرة. افرم {{ail:full}} و{{persil}} من البقدونس."
+  },
+  "steps.0.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم تُبشر على مبشرة"
+  },
+  "steps.0.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "شوِّح البصل"
+  },
+  "steps.1.text": {
+   "fr": "Dans une grande poêle profonde, chauffe {{huile}} d'huile à feu doux. Ajoute l'oignon râpé et remue jusqu'à ce qu'il soit tendre.",
+   "t": "في مقلاة كبيرة عميقة، سخّن {{huile}} من الزيت على نار هادئة. أضف البصل المبشور وحرّكه حتى يطرى."
+  },
+  "steps.2.title": {
+   "fr": "Ajoute la kefta",
+   "t": "أضف الكفتة"
+  },
+  "steps.2.text": {
+   "fr": "Ajoute {{kefta}} de kefta. Émiette-la à la cuillère en bois et fais-la revenir à feu doux en remuant, jusqu'à ce qu'elle soit bien revenue.",
+   "t": "أضف {{kefta}} من الكفتة. فتّتها بالملعقة الخشبية، وقلّبها على نار هادئة حتى تتحمّر جيدًا."
+  },
+  "steps.2.tip": {
+   "fr": "La viande hachée doit atteindre 71 °C à cœur : vérifie au thermomètre si tu en as un (FDA).",
+   "t": "يجب أن تبلغ حرارة وسط اللحم المفروم 71 درجة مئوية: تحقّق منها بميزان الحرارة إن كان لديك واحد (FDA)."
+  },
+  "steps.3.title": {
+   "fr": "Ajoute tomates et épices",
+   "t": "أضف الطماطم والتوابل"
+  },
+  "steps.3.text": {
+   "fr": "Ajoute l'ail, la carotte, les tomates râpées et {{concentre}} de concentré de tomate. Assaisonne avec {{sel}} de sel, puis du {{poivre}}, du {{gingembre}}, du {{curcuma}}, du {{paprika}}, un peu de {{cumin}} et {{thym}} de thym. Ajoute le persil et mélange.",
+   "t": "أضف الثوم والجزر والطماطم المبشورة و{{concentre}} من مركز الطماطم. تبّل بـ{{sel}} من الملح، ثم بالفلفل الأسود والزنجبيل والكركم والفلفل الأحمر الحلو، وبقليل من الكمون، وبـ{{thym}} من الزعتر. أضف البقدونس واخلط."
+  },
+  "steps.4.title": {
+   "fr": "Fais réduire la sauce",
+   "t": "كثِّف الصلصة"
+  },
+  "steps.4.text": {
+   "fr": "Laisse cuire à feu doux en remuant de temps en temps, jusqu'à ce que la sauce soit épaisse et qu'il ne reste presque plus d'eau. Goûte et rectifie le sel.",
+   "t": "اتركها تُطهى على نار هادئة مع التحريك من حين لآخر، حتى تصبح الصلصة كثيفة ولا يبقى فيها ماء تقريبًا. تذوّق وعدّل الملح."
+  },
+  "steps.5.title": {
+   "fr": "Fais cuire les macaronis",
+   "t": "اسلق المعكرونة"
+  },
+  "steps.5.text": {
+   "fr": "Pendant ce temps, porte à ébullition {{eau-pates}} d'eau avec du {{sel-pates}} et, si tu veux, un filet d'{{huile-pates}}. Verse {{pates}} de macaronis et fais-les cuire le temps indiqué sur le paquet, en remuant de temps en temps.",
+   "t": "في هذه الأثناء، اغلِ {{eau-pates}} من الماء مع الملح، ومع قليل من الزيت إن شئت. أضف {{pates}} من المعكرونة واسلقها المدة المكتوبة على العلبة، مع التحريك من حين لآخر."
+  },
+  "steps.6.title": {
+   "fr": "Égoutte les pâtes",
+   "t": "صفِّ المعكرونة"
+  },
+  "steps.6.text": {
+   "fr": "Égoutte les macaronis dans une passoire et garde-les de côté.",
+   "t": "صفِّ المعكرونة في مصفاة وضعها جانبًا."
+  },
+  "steps.7.title": {
+   "fr": "Préchauffe le four",
+   "t": "سخّن الفرن مسبقًا"
+  },
+  "steps.7.text": {
+   "fr": "Préchauffe le four à 180 °C (four moyen). Beurre un plat à gratin avec un peu de {{beurre-plat}}.",
+   "t": "سخّن الفرن مسبقًا على 180 درجة مئوية (فرن متوسط الحرارة). ادهن طبق الفرن بقليل من الزبدة."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la béchamel",
+   "t": "حضّر صلصة البشاميل"
+  },
+  "steps.8.text": {
+   "fr": "Dans une petite casserole, à feu doux, fais fondre {{beurre}} de beurre. Ajoute {{farine}} de farine et remue. Verse {{lait}} de lait petit à petit, sans cesser de remuer, jusqu'à ce que la sauce épaississe. Ajoute du {{sel-bech}}, du {{poivre-bech}} et une pointe de {{muscade}}, puis retire du feu.",
+   "t": "في قدر صغير، على نار هادئة، أذِب {{beurre}} من الزبدة. أضف {{farine}} من الدقيق وحرّك. اسكب {{lait}} من الحليب شيئًا فشيئًا دون توقف عن التحريك، حتى تتكثف الصلصة. أضف الملح والفلفل الأسود وقليلًا جدًا من جوزة الطيب المبشورة، ثم ارفعها عن النار."
+  },
+  "steps.9.title": {
+   "fr": "Mélange pâtes et sauce",
+   "t": "اخلط المعكرونة بالصلصة"
+  },
+  "steps.9.text": {
+   "fr": "Verse les macaronis dans la sauce à la kefta et mélange bien.",
+   "t": "ضع المعكرونة في صلصة الكفتة واخلط جيدًا."
+  },
+  "steps.10.title": {
+   "fr": "Monte le gratin",
+   "t": "رتّب الطبقات في طبق الفرن"
+  },
+  "steps.10.text": {
+   "fr": "Étale la moitié des pâtes dans le plat. Nappe-les d'une partie de la béchamel et parsème la moitié de {{fromage}} de fromage râpé. Ajoute le reste des pâtes, puis le reste de la béchamel et le reste du fromage.",
+   "t": "افرد نصف المعكرونة في الطبق. غطّها بجزء من البشاميل، وانثر فوقها نصف {{fromage}} من الجبن المبشور. أضف باقي المعكرونة، ثم باقي البشاميل وباقي الجبن."
+  },
+  "steps.11.title": {
+   "fr": "Fais gratiner",
+   "t": "حمّرها في الفرن"
+  },
+  "steps.11.text": {
+   "fr": "Enfourne jusqu'à ce que le dessus soit bien doré et le centre bien chaud : 74 °C (165 °F) au thermomètre si tu en as un (FDA). Regarde au bout de 10 minutes et prolonge si besoin, en surveillant.",
+   "t": "أدخل الطبق الفرن حتى يصبح سطحه ذهبيًا جيدًا ووسطه ساخنًا جيدًا: 74 درجة مئوية (165 درجة فهرنهايت) بميزان الحرارة إن كان لديك واحد (FDA). انظر إليه بعد 10 دقائق، وأطِل المدة عند الحاجة مع المراقبة."
+  },
+  "steps.11.timer.label": {
+   "fr": "Gratin au four",
+   "t": "الطبق في الفرن"
+  },
+  "steps.11.timer.done": {
+   "fr": "Le dessus est-il bien doré ? Sinon, laisse encore quelques minutes en surveillant.",
+   "t": "هل صار السطح ذهبيًا جيدًا؟ وإلا فاتركه بضع دقائق أخرى مع المراقبة."
+  },
+  "steps.12.title": {
+   "fr": "Sers chaud",
+   "t": "قدّمها ساخنة"
+  },
+  "steps.12.text": {
+   "fr": "Laisse reposer quelques minutes, puis sers chaud, avec une salade verte.",
+   "t": "اتركها ترتاح بضع دقائق، ثم قدّمها ساخنة مع سلطة خضراء."
+  },
+  "secrets.0.text": {
+   "fr": "Râpe l'oignon, la carotte et les tomates : plusieurs recettes marocaines de maqarouna à la kefta le font (l'oignon y est parfois seulement haché).",
+   "t": "ابشر البصل والجزر والطماطم: فعدة وصفات مغربية للمقرونة بالكفتة تفعل ذلك (وأحيانًا يُفرم البصل فقط)."
+  },
+  "secrets.0.source": {
+   "fr": "Lalla Moulati : oignon râpé (30 septembre 2015, dans les boulettes ; 23 juillet 2019 ; simplement haché le 10 novembre 2014), carotte râpée (10 novembre 2014 ; 27 décembre 2014 ; 30 septembre 2015), tomates râpées (2015 ; 2019)",
+   "t": "Lalla Moulati: البصل مبشور (30 شتنبر 2015، في الكويرات؛ 23 يوليوز 2019؛ ومفروم فقط في 10 نونبر 2014)، والجزر مبشور (10 نونبر 2014؛ 27 دجنبر 2014؛ 30 شتنبر 2015)، والطماطم مبشورة (2015؛ 2019)"
+  },
+  "secrets.1.text": {
+   "fr": "Laisse cuire la sauce jusqu'à ce qu'il ne reste presque plus d'eau avant de la mêler aux pâtes.",
+   "t": "اترك الصلصة تُطهى حتى لا يبقى فيها ماء تقريبًا، قبل أن تخلطها بالمعكرونة."
+  },
+  "secrets.1.source": {
+   "fr": "Lalla Moulati (27 décembre 2014 : « يطيب وينشف من الماء »)",
+   "t": "Lalla Moulati (27 دجنبر 2014: «يطيب وينشف من الماء»)"
+  },
+  "secrets.2.text": {
+   "fr": "Les épices marocaines de la kefta : sel, poivre (ibzar), gingembre (skinjbir), curcuma (kharqoum), paprika (tahmira) et un peu de cumin.",
+   "t": "توابل الكفتة المغربية: الملح، والفلفل الأسود (الإبزار)، والزنجبيل (سكينجبير)، والكركم (الخرقوم)، والفلفل الأحمر الحلو (التحميرة)، وقليل من الكمون."
+  },
+  "secrets.2.source": {
+   "fr": "Lalla Moulati (recettes de 2014, 2015 et 2019)",
+   "t": "Lalla Moulati (وصفات 2014 و2015 و2019)"
+  },
+  "secrets.3.text": {
+   "fr": "Une toute petite pincée de thym séché : c'était le secret de la grand-mère d'Alia. Plus, et la sauce devient amère.",
+   "t": "رشة صغيرة جدًا من الزعتر المجفف: كان هذا سر جدة Alia. وإن زدت، صارت الصلصة مُرّة."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking With Alia (recette de sa grand-mère) ; le thym est aussi dans deux recettes de Lalla Moulati (2014, 2019)",
+   "t": "Cooking With Alia (وصفة جدتها)؛ والزعتر موجود أيضًا في وصفتين لـLalla Moulati (2014، 2019)"
+  },
+  "secrets.4.text": {
+   "fr": "Beaucoup de fromage râpé sur le dessus : l'autre secret de la grand-mère d'Alia.",
+   "t": "كثير من الجبن المبشور على السطح: إنه السر الآخر لجدة Alia."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking With Alia (recette de sa grand-mère)",
+   "t": "Cooking With Alia (وصفة جدتها)"
+  },
+  "secrets.5.text": {
+   "fr": "Compte 1 litre d'eau pour 100 g de pâtes, bien salée.",
+   "t": "احسب 1 لتر من الماء المملّح جيدًا لكل 100 غ من المعكرونة."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking With Alia (3 litres pour 300 g) ; chef Andrea Tranchero, cité par Lalla Moulati (2021)",
+   "t": "Cooking With Alia (3 لترات لكل 300 غ)؛ الشيف Andrea Tranchero، كما نقلت عنه Lalla Moulati (2021)"
+  },
+  "secrets.6.text": {
+   "fr": "Beaucoup de recettes marocaines ajoutent un filet d'huile dans l'eau des pâtes ; le chef italien cité par Lalla Moulati le juge inutile. À toi de voir.",
+   "t": "كثير من الوصفات المغربية تضيف قليلًا من الزيت إلى ماء المعكرونة؛ أما الشيف الإيطالي الذي نقلت عنه Lalla Moulati فيراه غير ضروري. القرار لك."
+  },
+  "secrets.6.source": {
+   "fr": "Lalla Moulati (2014, 2015) et Cooking With Alia pour l'huile ; Lalla Moulati (2021, chef Andrea Tranchero) contre",
+   "t": "Lalla Moulati (2014، 2015) وCooking With Alia مع إضافة الزيت؛ Lalla Moulati (2021، الشيف Andrea Tranchero) ضدها"
+  },
+  "secrets.7.text": {
+   "fr": "Verse le lait de la béchamel petit à petit, sans arrêter de remuer : elle reste lisse, sans grumeaux.",
+   "t": "اسكب حليب البشاميل شيئًا فشيئًا دون توقف عن التحريك: فتبقى ملساء، دون تكتلات."
+  },
+  "secrets.7.source": {
+   "fr": "Lalla Moulati (2014 : remuer jusqu'à ce qu'elle épaississe ; 2023 : lait ajouté peu à peu, sauce lisse et sans grumeaux)",
+   "t": "Lalla Moulati (2014: التحريك حتى تتكثف؛ 2023: الحليب يُضاف شيئًا فشيئًا، وصلصة ملساء دون تكتلات)"
+  },
+  "secrets.8.text": {
+   "fr": "Une pointe de noix de muscade râpée parfume la béchamel.",
+   "t": "قليل جدًا من جوزة الطيب المبشورة يعطّر البشاميل."
+  },
+  "secrets.8.source": {
+   "fr": "Lalla Moulati (trois recettes en darija de 2014 et 2015)",
+   "t": "Lalla Moulati (ثلاث وصفات بالدارجة من 2014 و2015)"
+  },
+  "secrets.9.text": {
+   "fr": "Beurre le plat avant d'y mettre les pâtes.",
+   "t": "ادهن الطبق بالزبدة قبل أن تضع فيه المعكرونة."
+  },
+  "secrets.9.source": {
+   "fr": "Lalla Moulati (2014 ; 2023)",
+   "t": "Lalla Moulati (2014؛ 2023)"
+  },
+  "secrets.10.text": {
+   "fr": "Monte le gratin en deux couches de pâtes, avec de la béchamel et du fromage au milieu et sur le dessus.",
+   "t": "رتّب الطبق في طبقتين من المعكرونة، مع البشاميل والجبن في الوسط وعلى السطح."
+  },
+  "secrets.10.source": {
+   "fr": "Lalla Moulati (27 décembre 2014 ; béchamel sans fromage le 10 novembre 2014 et le 30 septembre 2015)",
+   "t": "Lalla Moulati (27 دجنبر 2014؛ وبشاميل دون جبن في 10 نونبر 2014 وفي 30 شتنبر 2015)"
+  },
+  "secrets.11.text": {
+   "fr": "Laisse reposer le gratin quelques minutes à la sortie du four avant de le servir.",
+   "t": "اترك الطبق يرتاح بضع دقائق بعد إخراجه من الفرن وقبل تقديمه."
+  },
+  "secrets.11.source": {
+   "fr": "Lalla Moulati (2023)",
+   "t": "Lalla Moulati (2023)"
+  },
+  "secrets.12.text": {
+   "fr": "Sécurité : la viande hachée doit atteindre 71 °C (160 °F) à cœur. Mets les restes au réfrigérateur dans les 2 heures, dans des boîtes peu profondes, mange-les dans les 3 jours (3 à 4 jours selon l'USDA) et réchauffe-les à 74 °C (165 °F).",
+   "t": "السلامة: يجب أن تبلغ حرارة وسط اللحم المفروم 71 درجة مئوية (160 درجة فهرنهايت). ضع البقايا في الثلاجة خلال 2 ساعة، في علب قليلة العمق، وكُلها خلال 3 أيام (من 3 إلى 4 أيام حسب USDA)، وسخّنها حتى 74 درجة مئوية (165 درجة فهرنهايت)."
+  },
+  "secrets.12.source": {
+   "fr": "FDA, « Safe Food Handling » ; Anses (8 avril 2020) ; USDA FSIS, « Leftovers and Food Safety »",
+   "t": "FDA، «Safe Food Handling»؛ Anses (8 أبريل 2020)؛ USDA FSIS، «Leftovers and Food Safety»"
+  },
+  "mistakes.0": {
+   "fr": "Mettre dans le plat une sauce encore liquide : laisse-la réduire jusqu'à ce qu'il ne reste presque plus d'eau (Lalla Moulati, 2014).",
+   "t": "وضع صلصة لا تزال سائلة في الطبق: اتركها تتكثّف حتى لا يبقى فيها ماء تقريبًا (Lalla Moulati، في 2014)."
+  },
+  "mistakes.1": {
+   "fr": "Forcer sur le thym : une petite pincée suffit, sinon c'est amer (Cooking With Alia).",
+   "t": "الإكثار من الزعتر: تكفي رشة صغيرة، وإلا صار الطعم مُرًّا (Cooking With Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Verser tout le lait d'un coup dans la béchamel : ajoute-le peu à peu en remuant, pour éviter les grumeaux (Lalla Moulati, 2023).",
+   "t": "سكب الحليب كله دفعة واحدة في البشاميل: أضفه شيئًا فشيئًا مع التحريك لتجنب التكتلات (Lalla Moulati، في 2023)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire les pâtes avant le four : une recette de Lalla Moulati (2019) les arrête à mi-cuisson, puisqu'elles passent ensuite au four.",
+   "t": "الإفراط في سلق المعكرونة قبل الفرن: ففي وصفة لـLalla Moulati (2019) يتوقف سلقها في منتصف النضج، لأنها تُطهى بعد ذلك في الفرن."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "ترك البقايا أكثر من 2 ساعة خارج الثلاجة (FDA)."
+  },
+  "variants.0": {
+   "fr": "Aux boulettes : mélange la kefta avec un petit oignon râpé, une carotte râpée, du persil, 2 c. à s. de chapelure, sel, poivre, un peu de cumin, du gingembre et une pincée de cannelle. Forme de petites boulettes et cuis-les dans une sauce de tomates râpées à l'ail (Lalla Moulati, 30 septembre 2015).",
+   "t": "بالكويرات: اخلط الكفتة مع بصلة صغيرة مبشورة، وجزرة مبشورة، وبقدونس، و2 ملعقة كبيرة من فتات الخبز، وملح، وفلفل أسود، وقليل من الكمون، وزنجبيل، ورشة من القرفة. شكّل كويرات صغيرة واطهِها في صلصة من الطماطم المبشورة بالثوم (Lalla Moulati، في 30 شتنبر 2015)."
+  },
+  "variants.1": {
+   "fr": "Plus de légumes : 2 poivrons en petits dés fondus avec l'oignon (Lalla Moulati, 10 novembre 2014) ; une courgette râpée (Lalla Moulati, 27 décembre 2014).",
+   "t": "خضر أكثر: 2 حبة فلفل حلو مقطعة مكعبات صغيرة تُطهى مع البصل حتى تذبل (Lalla Moulati، في 10 نونبر 2014)؛ كوسة مبشورة (Lalla Moulati، في 27 دجنبر 2014)."
+  },
+  "variants.2": {
+   "fr": "Au poulet ou à la dinde : remplace la kefta par de la dinde (« bibi ») ou du blanc de poulet en petits morceaux (Lalla Moulati, 10 novembre 2014), cuits jusqu'à 74 °C (165 °F) à cœur (FDA). Une version au blanc de poulet, poivrons, petits pois et maïs existe aussi (Amina Marrakchia sur Lalla Moulati, 2023 ; ingrédients seulement).",
+   "t": "بالدجاج أو الديك الرومي: استبدل الكفتة بالديك الرومي («البيبي») أو بصدر الدجاج مقطّعًا قطعًا صغيرة (Lalla Moulati، في 10 نونبر 2014)، يُطهى حتى تبلغ حرارة وسطه 74 درجة مئوية (165 درجة فهرنهايت) (FDA). وتوجد أيضًا نسخة بصدر الدجاج والفلفل الحلو والبازلاء والذرة (Amina Marrakchia على Lalla Moulati، في 2023؛ المكونات فقط)."
+  },
+  "variants.3": {
+   "fr": "Sans béchamel : kefta, champignons et olives vertes mêlés aux pâtes avec du thym, couverts de fromage râpé, puis passés au four (Lalla Moulati, 23 juillet 2019).",
+   "t": "دون بشاميل: كفتة وفطر وزيتون أخضر تُخلط مع المعكرونة والزعتر، وتُغطّى بالجبن المبشور، ثم تُدخل الفرن (Lalla Moulati، في 23 يوليوز 2019)."
+  },
+  "variants.4": {
+   "fr": "Sans viande : sauce tomate à l'oignon et à l'ail avec une pincée de thym, pâtes couvertes de beaucoup de fromage râpé, 10 minutes au four (Cooking With Alia, recette de sa grand-mère).",
+   "t": "دون لحم: صلصة طماطم بالبصل والثوم مع رشة من الزعتر، ومعكرونة مغطاة بكثير من الجبن المبشور، و10 دقائق في الفرن (Cooking With Alia، وصفة جدتها)."
+  },
+  "variants.5": {
+   "fr": "Avec des œufs : 2 œufs battus dans la béchamel, et 2 cuillerées de béchamel au fond du plat ; la même recette propose les œufs à la place des 50 g de fromage (Lalla Moulati, 10 novembre 2014). Laisse alors au four jusqu'à ce que la béchamel aux œufs soit prise et atteigne 71 °C (160 °F) au centre (FDA).",
+   "t": "بالبيض: 2 بيضة مخفوقة في البشاميل، و2 ملعقة من البشاميل في قاع الطبق؛ وتقترح الوصفة نفسها البيض بدل الـ50 غ من الجبن (Lalla Moulati، في 10 نونبر 2014). اتركه حينئذ في الفرن حتى يتماسك البشاميل بالبيض وتبلغ حرارة وسطه 71 درجة مئوية (160 درجة فهرنهايت) (FDA)."
+  },
+  "variants.6": {
+   "fr": "Sur le feu, sans four : pâtes cuites mêlées 5 minutes à une sauce tomate à la viande hachée, avec de la mozzarella (Lalla Moulati, 22 novembre 2015 ; recette de style levantin).",
+   "t": "على النار دون فرن: معكرونة مسلوقة تُخلط 5 دقائق مع صلصة طماطم باللحم المفروم، مع جبن الموزاريلا (Lalla Moulati، في 22 نونبر 2015؛ وصفة على الطريقة الشامية)."
+  },
+  "variants.7": {
+   "fr": "Gratin au thon et à la crème : 400 g de pâtes, 250 ml de crème, 100 g de fromage râpé et 1 boîte de thon (Lalla Moulati, 3 novembre 2021).",
+   "t": "معكرونة بالتونة والكريمة في الفرن: 400 غ من المعكرونة، و250 مل من الكريمة، و100 غ من الجبن المبشور، و1 علبة تونة (Lalla Moulati، في 3 نونبر 2021)."
+  }
+ }
+}

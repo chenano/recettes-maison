@@ -1,0 +1,582 @@
+{
+ "_slug": "tajine-poisson",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Tajine de poisson à la chermoula",
+   "t": "طاجين السمك بالشرمولة"
+  },
+  "darija": {
+   "fr": "Tajine l'hout bel chermoula",
+   "t": "طاجين الحوت بالشرمولة"
+  },
+  "tagline": {
+   "fr": "Du poisson mariné dans une chermoula bien citronnée, cuit doucement sur un lit de carottes, de pommes de terre et de tomates, avec poivrons, olives et citron confit.",
+   "t": "سمك متبّل بشرمولة غنية بالليمون، يُطهى على مهل فوق فرشة من الجزر والبطاطا والطماطم، مع الفلفل الحلو والزيتون والليمون المخلل (الحامض المصيّر)."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; dans le Nord (Tanger, Tétouan), le poisson cuit aussi dans une tagra",
+   "t": "كل المغرب؛ وفي الشمال (طنجة، تطوان)، يُطهى السمك أيضًا في tagra"
+  },
+  "occasion": {
+   "fr": "Plat à partager, seul ou avec des salades",
+   "t": "طبق للمشاركة، يُقدَّم وحده أو مع السلطات"
+  },
+  "img_alt": {
+   "fr": "Tajine de poisson aux pommes de terre et aux olives vertes, en sauce tomate",
+   "t": "طاجين سمك بالبطاطا والزيتون الأخضر، في صلصة الطماطم"
+  },
+  "serving": {
+   "fr": "Bien chaud ou tiède (Bladi.net), directement dans le tajine posé au centre de la table : chacun mange de son côté avec du pain marocain, en plat unique ou avec des salades (Taste of Maroc). Cooking with Alia le sert avec du pain croustillant ; My Moroccan Food sert son tajine de sardines avec du pain ou du couscous.",
+   "t": "يُقدَّم ساخنًا جدًا أو دافئًا (Bladi.net)، في الطاجين مباشرة، موضوعًا وسط المائدة: يأكل كل واحد من جهته بالخبز المغربي، طبقًا وحيدًا أو مع السلطات (Taste of Maroc). ويقدّمه Cooking with Alia مع خبز مقرمش؛ ويقدّم My Moroccan Food طاجين السردين الخاص به مع الخبز أو الكسكس."
+  },
+  "ing.0.group": {
+   "fr": "Poisson",
+   "t": "السمك"
+  },
+  "ing.poisson.name": {
+   "fr": "de poisson à chair ferme (loup, dorade, pageot, maigre ou congre)",
+   "t": "سمك متماسك اللحم (loup، dorade، pageot، maigre أو congre)"
+  },
+  "ing.poisson.note": {
+   "fr": "écaillé, vidé et coupé en darnes épaisses ; ou un poisson entier",
+   "t": "منزوع الحراشف، منظّف من الأحشاء، ومقطّع قطعًا عرضية سميكة؛ أو سمكة كاملة"
+  },
+  "ing.1.group": {
+   "fr": "Chermoula",
+   "t": "الشرمولة"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "كزبرة طازجة"
+  },
+  "ing.coriandre.note": {
+   "fr": "les feuilles pour la chermoula, les tiges pour le fond du tajine",
+   "t": "الأوراق للشرمولة، والسيقان لقاع الطاجين"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à peler",
+   "t": "يُقشَّر"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment doux en poudre)",
+   "t": "فلفل أحمر حلو مطحون (التحميرة)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.piment.name": {
+   "fr": "de piment fort en poudre (cayenne), facultatif",
+   "t": "فلفل حار مطحون (الكايين)، اختياري"
+  },
+  "ing.jus-citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "عصير ليمون طازج"
+  },
+  "ing.huile-chermoula.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.2.group": {
+   "fr": "Lit de légumes et garniture",
+   "t": "فرشة الخضر والإضافات"
+  },
+  "ing.huile-fond.name": {
+   "fr": "d'huile d'olive, pour le fond",
+   "t": "زيت الزيتون، للقاع"
+  },
+  "ing.celeri.name": {
+   "fr": "branches de céleri ou petites brochettes en bois",
+   "t": "أعواد كرفس أو أسياخ خشبية صغيرة"
+  },
+  "ing.celeri.note": {
+   "fr": "facultatif : seulement si les tiges de coriandre ne suffisent pas à couvrir le fond",
+   "t": "اختياري: فقط إذا لم تكفِ سيقان الكزبرة لتغطية القاع"
+  },
+  "ing.carottes.name": {
+   "fr": "carotte",
+   "t": "جزرة"
+  },
+  "ing.carottes.pl": {
+   "fr": "carottes",
+   "t": "جزرات"
+  },
+  "ing.carottes.note": {
+   "fr": "à peler et couper en bâtonnets de 0,5 cm",
+   "t": "تُقشَّر وتُقطَّع أصابع بسمك 0,5 سم"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "grosse pomme de terre",
+   "t": "حبة بطاطا كبيرة"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "grosses pommes de terre",
+   "t": "حبات بطاطا كبيرة"
+  },
+  "ing.pommes-de-terre.note": {
+   "fr": "environ 200 g pièce ; à peler et couper en rondelles de 0,5 cm",
+   "t": "نحو 200 غ للحبة؛ تُقشَّر وتُقطَّع شرائح دائرية بسمك 0,5 سم"
+  },
+  "ing.tomates.name": {
+   "fr": "grosse tomate mûre",
+   "t": "حبة طماطم كبيرة ناضجة"
+  },
+  "ing.tomates.pl": {
+   "fr": "grosses tomates mûres",
+   "t": "حبات طماطم كبيرة ناضجة"
+  },
+  "ing.tomates.note": {
+   "fr": "à couper en rondelles",
+   "t": "تُقطَّع شرائح دائرية"
+  },
+  "ing.poivrons.name": {
+   "fr": "poivron (vert, rouge ou jaune)",
+   "t": "حبة فلفل حلو (أخضر أو أحمر أو أصفر)"
+  },
+  "ing.poivrons.pl": {
+   "fr": "poivrons (verts, rouges ou jaunes)",
+   "t": "حبات فلفل حلو (أخضر أو أحمر أو أصفر)"
+  },
+  "ing.poivrons.note": {
+   "fr": "à épépiner et couper en fines lanières ; un poivron rouge adoucit le plat",
+   "t": "تُنزع بذورها وتُقطَّع شرائح رفيعة؛ والفلفل الأحمر يلطّف طعم الطبق"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "فلفل أسود مطحون، حسب الذوق"
+  },
+  "ing.piment-vert.name": {
+   "fr": "piment vert piquant",
+   "t": "حبة فلفل أخضر حار"
+  },
+  "ing.piment-vert.pl": {
+   "fr": "piments verts piquants",
+   "t": "حبات فلفل أخضر حار"
+  },
+  "ing.piment-vert.note": {
+   "fr": "facultatif ; à poser entier",
+   "t": "اختياري؛ يوضع كاملًا"
+  },
+  "ing.citron-rondelles.name": {
+   "fr": "quelques rondelles de citron frais",
+   "t": "بضع شرائح دائرية من الليمون الطازج"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives vertes ou rouges",
+   "t": "زيتون أخضر أو أحمر"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "ليمونة مخللة"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "ليمونات مخللة"
+  },
+  "ing.citron-confit.note": {
+   "fr": "à couper en quartiers, sans les pépins",
+   "t": "تُقطَّع إلى أرباع، وتُنزع بذورها"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "equipment.0": {
+   "fr": "Grand tajine en terre avec son couvercle, ou sauteuse profonde avec couvercle",
+   "t": "طاجين طيني كبير بغطائه، أو مقلاة عميقة بغطاء"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+   "t": "موزّع حرارة (للطاجين الطيني، على غير الغاز)"
+  },
+  "equipment.2": {
+   "fr": "Mortier et pilon, ou hachoir",
+   "t": "هاون ومدقة، أو مفرمة"
+  },
+  "equipment.3": {
+   "fr": "Plat creux avec couvercle ou film, pour la marinade",
+   "t": "طبق عميق بغطاء أو بغشاء بلاستيكي، للتتبيل"
+  },
+  "equipment.4": {
+   "fr": "Petit bol",
+   "t": "وعاء صغير"
+  },
+  "equipment.5": {
+   "fr": "Planche et couteau réservés au poisson cru",
+   "t": "لوح تقطيع وسكين مخصّصان للسمك النيء"
+  },
+  "equipment.6": {
+   "fr": "Papier absorbant",
+   "t": "مناديل ورقية ماصّة"
+  },
+  "equipment.7": {
+   "fr": "Petite casserole (pour réduire la sauce si besoin)",
+   "t": "قدر صغير (لتكثيف الصلصة عند الحاجة)"
+  },
+  "steps.0.title": {
+   "fr": "Choisis un poisson bien frais",
+   "t": "اختر سمكًا طازجًا جدًا"
+  },
+  "steps.0.text": {
+   "fr": "Prends {{poisson:full}}. Il doit sentir frais et doux, jamais fort, aigre ou l'ammoniaque. Entier, il a l'œil clair et brillant, les ouïes rouges et une chair ferme qui reprend sa forme quand tu appuies dessus. Demande au poissonnier de l'écailler, de le vider et de le couper en darnes épaisses.",
+   "t": "خذ {{poisson:full}}. يجب أن تكون رائحته طازجة وخفيفة، لا قوية ولا حامضة ولا برائحة الأمونيا أبدًا. وإذا كان كاملًا، تكون عينه صافية لامعة، وخياشيمه حمراء، ولحمه متماسكًا يعود إلى شكله حين تضغط عليه. اطلب من بائع السمك أن ينزع حراشفه، وينظّف أحشاءه، ويقطّعه قطعًا عرضية سميكة."
+  },
+  "steps.0.tip": {
+   "fr": "Garde-le dans la partie la plus froide du réfrigérateur (4 °C) et cuisine-le dans les 2 jours ; sinon, congèle-le. Surgelé, fais-le décongeler une nuit au réfrigérateur (FDA ; ANSES).",
+   "t": "احفظه في أبرد جزء من الثلاجة (4 درجات مئوية)، واطبخه خلال 2 يوم؛ وإلا فجمّده. وإذا كان مجمّدًا، ففكّ تجميده في الثلاجة طوال ليلة (FDA؛ ANSES)."
+  },
+  "steps.1.title": {
+   "fr": "Rince et sèche le poisson",
+   "t": "اشطف السمك وجفّفه"
+  },
+  "steps.1.text": {
+   "fr": "Rince les darnes à l'eau froide, égoutte-les, puis sèche-les avec du papier absorbant. Lave-toi ensuite les mains au savon pendant 20 secondes, puis la planche, le couteau et le plan de travail à l'eau chaude savonneuse.",
+   "t": "اشطف قطع السمك بالماء البارد، وصفّها، ثم جفّفها بالمناديل الورقية الماصّة. بعد ذلك اغسل يديك بالصابون لمدة 20 ثانية، ثم اغسل اللوح والسكين وسطح العمل بالماء الساخن والصابون."
+  },
+  "steps.2.title": {
+   "fr": "Pile la chermoula",
+   "t": "اهرس الشرمولة"
+  },
+  "steps.2.text": {
+   "fr": "Lave et effeuille {{coriandre:full}} : hache finement les feuilles et garde les tiges. Au mortier, pile {{ail:full}} avec {{sel}} de sel, puis ajoute la coriandre hachée et pile encore. Mélange avec {{paprika}} de paprika doux, {{cumin}} de cumin, {{piment}} de piment fort si tu aimes, {{jus-citron}} de jus de citron et {{huile-chermoula}} d'huile d'olive. Si la chermoula est trop épaisse, détends-la avec un peu d'eau.",
+   "t": "اغسل {{coriandre:full}} وافصل أوراقها: افرم الأوراق ناعمًا واحتفظ بالسيقان. في الهاون، اهرس {{ail:full}} مع {{sel}} من الملح، ثم أضف الكزبرة المفرومة واهرس من جديد. اخلط مع {{paprika}} من الفلفل الأحمر الحلو، و{{cumin}} من الكمون، و{{piment}} من الفلفل الحار إن كنت تحبه، و{{jus-citron}} من عصير الليمون، و{{huile-chermoula}} من زيت الزيتون. إذا كانت الشرمولة كثيفة جدًا، فخفّفها بقليل من الماء."
+  },
+  "steps.2.tip": {
+   "fr": "Hache bien la coriandre avant de la piler, sinon la chermoula devient filandreuse. Sans mortier, un hachoir ou un mixeur fait l'affaire.",
+   "t": "افرم الكزبرة جيدًا قبل هرسها، وإلا صارت الشرمولة كثيرة الألياف. وإن لم يكن لديك هاون، فالمفرمة أو الخلاط يفيان بالغرض."
+  },
+  "steps.3.title": {
+   "fr": "Mets la moitié de la chermoula de côté",
+   "t": "احتفظ بنصف الشرمولة جانبًا"
+  },
+  "steps.3.text": {
+   "fr": "Avant de toucher le poisson, verse la moitié de la chermoula dans un petit bol : elle servira aux légumes. Couvre-la et garde-la au réfrigérateur.",
+   "t": "قبل أن تلمس السمك، اسكب نصف الشرمولة في وعاء صغير: ستُستعمل للخضر. غطّها واحفظها في الثلاجة."
+  },
+  "steps.4.title": {
+   "fr": "Fais mariner le poisson",
+   "t": "تبّل السمك بالشرمولة"
+  },
+  "steps.4.text": {
+   "fr": "Enrobe bien chaque darne avec l'autre moitié de la chermoula. Couvre et laisse mariner au réfrigérateur au moins 30 min, et jusqu'à 2 h si tu as le temps.",
+   "t": "غلّف كل قطعة جيدًا بالنصف الآخر من الشرمولة. غطِّ الطبق واتركه يتشرّب التتبيلة في الثلاجة 30 دقيقة على الأقل، وحتى 2 ساعة إن كان لديك وقت."
+  },
+  "steps.4.tip": {
+   "fr": "Ne laisse pas le poisson cru mariner hors du réfrigérateur.",
+   "t": "لا تترك السمك النيء في التتبيلة خارج الثلاجة."
+  },
+  "steps.4.timer.label": {
+   "fr": "Marinade du poisson",
+   "t": "تتبيل السمك"
+  },
+  "steps.4.timer.done": {
+   "fr": "Le poisson a mariné 30 min : tu peux monter le tajine, ou le laisser jusqu'à 2 h au frais.",
+   "t": "تشرّب السمك التتبيلة 30 دقيقة: يمكنك الآن تركيب الطاجين، أو تركه حتى 2 ساعة في الثلاجة."
+  },
+  "steps.5.title": {
+   "fr": "Coupe les légumes",
+   "t": "قطّع الخضر"
+  },
+  "steps.5.text": {
+   "fr": "Pendant la marinade, lave les légumes et le citron frais à l'eau potable. Pèle {{carottes:full}}, puis coupe en bâtonnets de 0,5 cm. Pèle {{pommes-de-terre:full}}, puis coupe en rondelles de 0,5 cm, pas plus épaisses. Coupe {{tomates:full}} en rondelles et {{poivrons:full}} en fines lanières, sans les graines. Coupe {{citron-confit:full}} en quartiers, sans les pépins.",
+   "t": "في أثناء التتبيل، اغسل الخضر والليمون الطازج بماء صالح للشرب. قشّر {{carottes:full}}، ثم قطّعها أصابع بسمك 0,5 سم. قشّر {{pommes-de-terre:full}}، ثم قطّعها شرائح دائرية بسمك 0,5 سم، لا أكثر. قطّع {{tomates:full}} شرائح دائرية، و{{poivrons:full}} شرائح رفيعة بعد نزع البذور. قطّع {{citron-confit:full}} إلى أرباع، وانزع البذور."
+  },
+  "steps.5.tip": {
+   "fr": "Des rondelles trop épaisses cuisent trop lentement : le poisson sécherait avant qu'elles soient tendres.",
+   "t": "الشرائح السميكة جدًا تنضج ببطء شديد: فيجفّ السمك قبل أن تطرى."
+  },
+  "steps.6.title": {
+   "fr": "Tapisse le fond du tajine",
+   "t": "افرش قاع الطاجين"
+  },
+  "steps.6.text": {
+   "fr": "Verse {{huile-fond}} d'huile d'olive au fond du tajine. Pose dessus les tiges de coriandre en croisillons ; s'il en manque, complète avec quelques {{celeri}}. Ce lit empêche le reste de toucher le fond, d'attacher et de brûler.",
+   "t": "اسكب {{huile-fond}} من زيت الزيتون في قاع الطاجين. ضع فوقه سيقان الكزبرة متقاطعة؛ وإن لم تكفِ، فأكمل ببعض {{celeri}}. هذه الفرشة تمنع باقي المكوّنات من ملامسة القاع والالتصاق به والاحتراق."
+  },
+  "steps.7.title": {
+   "fr": "Monte le lit de carottes et de pommes de terre",
+   "t": "رتّب طبقة الجزر والبطاطا"
+  },
+  "steps.7.text": {
+   "fr": "Étale les bâtonnets de carottes sur les tiges, puis couvre-les avec les rondelles de pommes de terre. Saupoudre de {{poivre}}, mais ne sale pas : le citron confit et les olives saleront le plat.",
+   "t": "افرد أصابع الجزر فوق السيقان، ثم غطّها بشرائح البطاطا. رشّها ب{{poivre}}، لكن لا تملّحها: فالليمون المخلل والزيتون سيملّحان الطبق."
+  },
+  "steps.8.title": {
+   "fr": "Ajoute les tomates et la chermoula gardée",
+   "t": "أضف الطماطم والشرمولة المحفوظة"
+  },
+  "steps.8.text": {
+   "fr": "Couvre les pommes de terre avec les rondelles de tomates, puis étale dessus la chermoula que tu as mise de côté.",
+   "t": "غطِّ البطاطا بشرائح الطماطم، ثم افرد فوقها الشرمولة التي احتفظت بها جانبًا."
+  },
+  "steps.9.title": {
+   "fr": "Pose le poisson et la garniture",
+   "t": "ضع السمك والإضافات"
+  },
+  "steps.9.text": {
+   "fr": "Dispose les darnes et leur marinade sur les tomates. Couvre-les de lanières de poivron, puis ajoute {{piment-vert:full}} si tu veux et {{citron-rondelles}}. Répartis {{olives}} d'olives et les quartiers de citron confit tout autour.",
+   "t": "رتّب قطع السمك مع تتبيلتها فوق الطماطم. غطّها بشرائح الفلفل الحلو، ثم أضف {{piment-vert:full}} إن أردت، و{{citron-rondelles}}. وزّع {{olives}} من الزيتون وأرباع الليمون المخلل حولها."
+  },
+  "steps.10.title": {
+   "fr": "Ajoute l'eau et mets sur le feu",
+   "t": "أضف الماء وضع الطاجين على النار"
+  },
+  "steps.10.text": {
+   "fr": "Verse {{eau}} d'eau dans le tajine et couvre. Pose-le sur feu moyen-doux et laisse le frémissement venir doucement. Sans gaz, mets toujours un diffuseur sous un tajine en terre.",
+   "t": "اسكب {{eau}} من الماء في الطاجين وغطّه. ضعه على نار متوسطة إلى هادئة، واتركه يبدأ في الغليان الخفيف على مهل. إن لم تطبخ على الغاز، فضع دائمًا موزّع حرارة تحت الطاجين الطيني."
+  },
+  "steps.11.title": {
+   "fr": "Laisse cuire à couvert",
+   "t": "اتركه يُطهى وهو مغطّى"
+  },
+  "steps.11.text": {
+   "fr": "Laisse cuire 30 min à couvert, puis vérifie : les pommes de terre doivent être tendres et le poisson doit se détacher facilement à la fourchette. Sinon, poursuis à feu doux et vérifie souvent. Au tajine en terre, c'est plus long : Taste of Maroc compte environ 1 h de frémissement.",
+   "t": "اتركه يُطهى 30 دقيقة وهو مغطّى، ثم تحقّق: يجب أن تكون البطاطا طرية، وأن ينفصل لحم السمك بسهولة بالشوكة. وإلا فواصل الطهي على نار هادئة وتحقّق كثيرًا. في الطاجين الطيني يستغرق الأمر وقتًا أطول: يحسب Taste of Maroc نحو 1 ساعة من الغليان الخفيف."
+  },
+  "steps.11.tip": {
+   "fr": "Avec un thermomètre, le cœur du poisson doit atteindre 70 °C (Santé Canada).",
+   "t": "إذا استعملت ميزان حرارة، فيجب أن تبلغ حرارة قلب السمك 70 درجة مئوية (Santé Canada)."
+  },
+  "steps.11.timer.label": {
+   "fr": "Cuisson du tajine",
+   "t": "طهي الطاجين"
+  },
+  "steps.11.timer.done": {
+   "fr": "Pommes de terre tendres et poisson qui se détache à la fourchette ? Sinon, prolonge à feu doux et vérifie souvent.",
+   "t": "هل البطاطا طرية والسمك ينفصل بالشوكة؟ وإلا فمدّد الطهي على نار هادئة وتحقّق كثيرًا."
+  },
+  "steps.12.title": {
+   "fr": "Ajuste la sauce",
+   "t": "عدّل الصلصة"
+  },
+  "steps.12.text": {
+   "fr": "La sauce doit être réduite et épaisse. S'il y en a trop, verse-la délicatement dans une petite casserole, fais-la réduire, puis reverse-la sur le poisson. Goûte et ajoute du sel seulement si besoin.",
+   "t": "يجب أن تكون الصلصة متكثّفة وسميكة. إذا كانت كثيرة، فاسكبها برفق في قدر صغير، وكثّفها، ثم أعد سكبها على السمك. تذوّق، ولا تضف الملح إلا عند الحاجة."
+  },
+  "steps.13.title": {
+   "fr": "Sers dans le tajine",
+   "t": "قدّمه في الطاجين"
+  },
+  "steps.13.text": {
+   "fr": "Sers bien chaud ou tiède, directement dans le tajine posé au centre de la table. Chacun mange de son côté, avec du pain marocain.",
+   "t": "قدّمه ساخنًا جدًا أو دافئًا، في الطاجين مباشرة، موضوعًا وسط المائدة. يأكل كل واحد من جهته، بالخبز المغربي."
+  },
+  "steps.14.title": {
+   "fr": "Range vite les restes",
+   "t": "احفظ البقايا بسرعة"
+  },
+  "steps.14.text": {
+   "fr": "Ne laisse pas le tajine plus de 2 h à température ambiante, ni plus d'1 h s'il fait plus de 32 °C. Mets les restes dans une boîte fermée au réfrigérateur et mange-les dans les 3 jours. Réchauffe-les à couvert jusqu'à ce que la vapeur s'échappe et que ce soit bien chaud à cœur (74 °C).",
+   "t": "لا تترك الطاجين أكثر من 2 ساعة في حرارة الغرفة، ولا أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية. ضع البقايا في علبة مغلقة في الثلاجة، وتناولها خلال 3 أيام. سخّنها مغطّاة حتى يتصاعد البخار وتصير ساخنة جيدًا في قلبها (74 درجة مئوية)."
+  },
+  "secrets.0.text": {
+   "fr": "Protège le fond : Choumicha tapisse le tajine de tiges de coriandre ou de brochettes en bois, Bladi pose des branches de coriandre en quadrillage, Lalla Moulati un peu de persil et de légumes, et Taste of Maroc des bâtonnets de céleri ou de petites brochettes. Rien ne touche le fond, rien n'attache.",
+   "t": "احمِ القاع: تفرش Choumicha الطاجين بسيقان الكزبرة أو بأسياخ خشبية، ويضع Bladi أغصان الكزبرة على شكل شبكة، وLalla Moulati قليلًا من البقدونس والخضر، وTaste of Maroc أعواد الكرفس أو أسياخًا صغيرة. لا شيء يلمس القاع، ولا شيء يلتصق."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha ; Bladi.net ; Lalla Moulati ; Taste of Maroc (Christine Benlafquih)",
+   "t": "Choumicha؛ Bladi.net؛ Lalla Moulati؛ Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.1.text": {
+   "fr": "Les carottes forment le premier étage du lit, sous les pommes de terre ; chez Cooking with Alia et Lalla Moulati, elles sont posées directement au fond du tajine.",
+   "t": "الجزر هو الطبقة الأولى من الفرشة، تحت البطاطا؛ وعند Cooking with Alia وLalla Moulati يوضع مباشرة في قاع الطاجين."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Cooking with Alia ; Lalla Moulati",
+   "t": "Taste of Maroc (Christine Benlafquih)؛ Cooking with Alia؛ Lalla Moulati"
+  },
+  "secrets.2.text": {
+   "fr": "Moitié-moitié : une moitié de la chermoula marine le poisson, l'autre parfume les légumes. Mets-la de côté avant de toucher le poisson cru.",
+   "t": "نصف ونصف: نصف الشرمولة لتتبيل السمك، والنصف الآخر لتعطير الخضر. احتفظ به جانبًا قبل أن تلمس السمك النيء."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Choumicha ; My Moroccan Food (Nargisse Benkabbou) ; Lalla Moulati",
+   "t": "Taste of Maroc (Christine Benlafquih)؛ Choumicha؛ My Moroccan Food (Nargisse Benkabbou)؛ Lalla Moulati"
+  },
+  "secrets.3.text": {
+   "fr": "La meilleure chermoula se fait au mortier : pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées et les épices.",
+   "t": "أفضل شرمولة تُحضَّر في الهاون: اهرس الثوم مع الملح أولًا، ثم أضف الأعشاب المفرومة جيدًا والتوابل."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi.net",
+   "t": "Taste of Maroc (Nada Kiffa)؛ Bladi.net"
+  },
+  "secrets.4.text": {
+   "fr": "Pour le poisson, on aime une chermoula bien citronnée. Choumicha, elle, met du vinaigre.",
+   "t": "للسمك، تُحبَّذ شرمولة غنية بالليمون. أما Choumicha فتضع الخل."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha",
+   "t": "Taste of Maroc (Nada Kiffa)؛ Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Coupe les pommes de terre finement (0,5 cm) : trop épaisses, elles demandent plus de cuisson et le poisson sèche avant qu'elles soient tendres.",
+   "t": "قطّع البطاطا رقيقة (0,5 سم): فإذا كانت سميكة جدًا احتاجت إلى طهي أطول، وجفّ السمك قبل أن تطرى."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc (Christine Benlafquih)",
+   "t": "My Moroccan Food (Nargisse Benkabbou)؛ Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Au Maroc, on prend un poisson ferme et épais : maigre, loup, dorade ou pageot, congre. Les sardines ou les merlans entiers conviennent aussi. Le congre est gras mais a peu d'arêtes, et il rend de l'eau en cuisant : avec lui, tu peux te passer d'eau.",
+   "t": "في المغرب، يُختار سمك متماسك وسميك: maigre أو loup أو dorade أو pageot أو congre. ويصلح أيضًا السردين أو سمك merlan، كاملين. سمك congre دهني لكنه قليل الحسك، ويُخرج ماءً في أثناء طهيه: معه يمكنك الاستغناء عن الماء."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net ; Choumicha",
+   "t": "Taste of Maroc (Christine Benlafquih)؛ Bladi.net؛ Choumicha"
+  },
+  "secrets.7.text": {
+   "fr": "Avec des filets fins ou de petits poissons, fais d'abord cuire les légumes à moitié, puis pose le poisson dessus pour finir la cuisson.",
+   "t": "مع شرائح السمك الرقيقة أو الأسماك الصغيرة، اطبخ الخضر أولًا إلى منتصف نضجها، ثم ضع السمك فوقها لإكمال الطهي."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih, réponse à une lectrice) ; My Moroccan Food (version rapide)",
+   "t": "Taste of Maroc (Christine Benlafquih، جوابًا على إحدى القارئات)؛ My Moroccan Food (النسخة السريعة)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour une cuisson courte, Choumicha met de petites pommes de terre déjà cuites à l'eau ; Akhbarona les fait légèrement blanchir avant de les mettre sous le poisson.",
+   "t": "لطهي قصير، تضع Choumicha حبات بطاطا صغيرة مسلوقة مسبقًا؛ أما Akhbarona فيسلقها سلقًا خفيفًا قبل وضعها تحت السمك."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Akhbarona",
+   "t": "Choumicha؛ Akhbarona"
+  },
+  "secrets.9.text": {
+   "fr": "Le citron confit sale beaucoup : s'il cuit dès le début, ne sale pas les légumes. Taste of Maroc préfère souvent l'ajouter à la fin, quelques minutes, juste le temps de le chauffer.",
+   "t": "الليمون المخلل مالح جدًا: إذا طُهي من البداية، فلا تملّح الخضر. وغالبًا ما يفضّل Taste of Maroc إضافته في النهاية، لبضع دقائق فقط، ريثما يسخن."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.10.text": {
+   "fr": "Trop de sauce à la fin ? Verse-la dans une petite casserole, fais-la réduire, puis remets-la : la sauce doit être épaisse.",
+   "t": "صلصة كثيرة في النهاية؟ اسكبها في قدر صغير، وكثّفها، ثم أعدها: يجب أن تكون الصلصة سميكة."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; Bladi.net",
+   "t": "Taste of Maroc (Christine Benlafquih)؛ Bladi.net"
+  },
+  "secrets.11.text": {
+   "fr": "Au tajine en terre, hors gaz, le diffuseur est obligatoire, et la cuisson est plus longue qu'en sauteuse.",
+   "t": "مع الطاجين الطيني، على غير الغاز، يكون موزّع الحرارة ضروريًا، ويكون الطهي أطول منه في المقلاة العميقة."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.12.text": {
+   "fr": "Ne cuis pas trop le poisson : sa chair doit rester juteuse. Adapte le temps à son poids.",
+   "t": "لا تُفرط في طهي السمك: يجب أن يبقى لحمه طريًا غنيًا بالعصارة. واجعل المدة على قدر وزنه."
+  },
+  "secrets.12.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.13.text": {
+   "fr": "Avec un poisson entier, enduis aussi l'intérieur de chermoula et incise le dos pour qu'elle pénètre.",
+   "t": "إذا كان السمك كاملًا، فادهن داخله أيضًا بالشرمولة، واصنع شقوقًا في ظهره لتتغلغل فيه."
+  },
+  "secrets.13.source": {
+   "fr": "Bladi.net ; Choumicha ; Akhbarona",
+   "t": "Bladi.net؛ Choumicha؛ Akhbarona"
+  },
+  "mistakes.0": {
+   "fr": "Cuisiner un poisson qui sent fort, aigre ou l'ammoniaque : il n'est plus frais, ne le mange pas (FDA).",
+   "t": "طهي سمك رائحته قوية أو حامضة أو برائحة الأمونيا: لم يعد طازجًا، فلا تأكله (FDA)."
+  },
+  "mistakes.1": {
+   "fr": "Faire mariner le poisson cru hors du réfrigérateur (Taste of Maroc ; Bladi.net ; My Moroccan Food ; MarocMama).",
+   "t": "ترك السمك النيء في التتبيلة خارج الثلاجة (Taste of Maroc؛ Bladi.net؛ My Moroccan Food؛ MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Toucher le poisson cru avant d'avoir mis de côté la chermoula des légumes (Taste of Maroc).",
+   "t": "لمس السمك النيء قبل الاحتفاظ بشرمولة الخضر جانبًا (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les pommes de terre trop épaisses : le poisson sèche avant qu'elles soient cuites (My Moroccan Food).",
+   "t": "تقطيع البطاطا سميكة جدًا: يجفّ السمك قبل أن تنضج (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier le lit de tiges ou de carottes au fond : les légumes attachent et brûlent (Taste of Maroc ; Choumicha ; Lalla Moulati).",
+   "t": "نسيان فرشة السيقان أو الجزر في القاع: تلتصق الخضر وتحترق (Taste of Maroc؛ Choumicha؛ Lalla Moulati)."
+  },
+  "mistakes.5": {
+   "fr": "Saler les légumes alors que le citron confit cuit avec eux (Taste of Maroc).",
+   "t": "تمليح الخضر مع أن الليمون المخلل يُطهى معها (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur (Taste of Maroc).",
+   "t": "وضع طاجين طيني على صفيحة كهربائية أو على موقد زجاجي خزفي دون موزّع حرارة (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Trop cuire le poisson : il devient sec (Choumicha).",
+   "t": "الإفراط في طهي السمك: يصير جافًا (Choumicha)."
+  },
+  "mistakes.8": {
+   "fr": "Laisser le plat plus de 2 h à température ambiante avant de le mettre au froid, ou plus d'1 h s'il fait plus de 32 °C (FDA ; ANSES).",
+   "t": "ترك الطبق أكثر من 2 ساعة في حرارة الغرفة قبل وضعه في البرودة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA؛ ANSES)."
+  },
+  "variants.0": {
+   "fr": "Nord du Maroc : à Tanger et à Tétouan, beaucoup de plats de poisson cuisent dans une tagra, un plat ovale en terre poreuse non vernissée, fait par des potiers près de l'oued Laou, sur la braise ou au four du boulanger ; elle laisse l'humidité s'évaporer lentement et donne au poisson un goût de terre ; Paula Wolfert y superpose pommes de terre, carottes, tomates, poivron rouge et sardines, met la tagra dans le four, l'allume à 180 °C et cuit 1 h ; à la sortie, elle la pose sur du bois ou un torchon plié pour éviter qu'elle se fende, et laisse reposer 30 min. La plupart des tagras n'ont pas de couvercle : couvre-la de papier aluminium sans serrer (Paula Wolfert ; Taste of Maroc).",
+   "t": "شمال المغرب: في طنجة وتطوان، تُطهى أطباق كثيرة من السمك في tagra، وهي آنية بيضوية من طين مسامي غير مزجّج، يصنعها خزّافون قرب واد لاو، على الجمر أو في فرن الخبّاز؛ فهي تترك الرطوبة تتبخّر ببطء، وتمنح السمك طعم الطين؛ تضع فيها Paula Wolfert طبقات من البطاطا والجزر والطماطم والفلفل الأحمر الحلو والسردين، ثم تضع الـ tagra في الفرن، وتشغّله على 180 درجة مئوية، وتطهو 1 ساعة؛ وعند إخراجها، تضعها على الخشب أو على منشفة مطوية حتى لا تتشقّق، وتتركها ترتاح 30 دقيقة. ومعظم آنية الـ tagra بلا غطاء: غطّها بورق الألمنيوم دون إحكام (Paula Wolfert؛ Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Au four : poisson entier sur un lit de pommes de terre en fines rondelles, tomates, poivrons grillés et piments, environ 40 min à four moyen-chaud en arrosant à mi-cuisson (Bladi.net) ; Choumicha cuit un poisson de 700 g 25 min à 170 °C puis le laisse reposer 15 à 20 min dans le four éteint ; My Moroccan Food cuit ses sardines 30 à 35 min à 200 °C sous papier aluminium.",
+   "t": "في الفرن: سمكة كاملة على فرشة من شرائح البطاطا الرقيقة والطماطم والفلفل الحلو المشوي والفلفل الحار، نحو 40 دقيقة في فرن متوسط إلى حار، مع سقيها بعصارتها في منتصف الطهي (Bladi.net)؛ وتطهو Choumicha سمكة وزنها 700 غ لمدة 25 دقيقة على 170 درجة مئوية، ثم تتركها ترتاح من 15 إلى 20 دقيقة في الفرن المطفأ؛ ويطهو My Moroccan Food سردينه من 30 إلى 35 دقيقة على 200 درجة مئوية تحت ورق الألمنيوم."
+  },
+  "variants.2": {
+   "fr": "Poisson entier farci de chermoula, posé sur des pommes de terre, des carottes et des tomates en rondelles, couvert de poivrons : la version traditionnelle décrite par Nargisse Benkabbou (My Moroccan Food).",
+   "t": "سمكة كاملة محشوة بالشرمولة، توضع على شرائح دائرية من البطاطا والجزر والطماطم، وتُغطّى بالفلفل الحلو: النسخة التقليدية كما تصفها Nargisse Benkabbou (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Tajine de poisson safrané : darnes de loup marinées 1 h dans une chermoula au safran, au smen et au poivre blanc, posées sur des branches de coriandre avec olives vertes et citron confit, sans légumes, 20 à 25 min sur le charbon (Bladi.net).",
+   "t": "طاجين السمك بالزعفران: قطع عرضية من سمك loup تُتبّل 1 ساعة في شرمولة بالزعفران والسمن البلدي والفلفل الأبيض، وتوضع على أغصان الكزبرة مع الزيتون الأخضر والليمون المخلل، بدون خضر، من 20 إلى 25 دقيقة على الفحم (Bladi.net)."
+  },
+  "variants.4": {
+   "fr": "Pageot aux olives m'slalla : oignons et tomates au fond, laurier, olives vertes m'slalla et écorce de citron confit, chermoula au vinaigre, 45 min au four à 180 °C ou sur le charbon (Choumicha).",
+   "t": "سمك pageot بزيتون m'slalla: بصل وطماطم في القاع، وورق الغار، وزيتون أخضر m'slalla وقشر الليمون المخلل، وشرمولة بالخل، 45 دقيقة في الفرن على 180 درجة مئوية أو على الفحم (Choumicha)."
+  },
+  "variants.5": {
+   "fr": "Tajine d'espadon : cubes d'espadon, carottes et chou en julienne, petites pommes de terre déjà cuites, tomates cerises et olives, 20 à 25 min à feu moyen (Choumicha).",
+   "t": "طاجين سمك أبو سيف: مكعبات من سمك أبو سيف، وجزر وكرنب مقطّعان شرائح رفيعة جدًا، وحبات بطاطا صغيرة مطهوة مسبقًا، وطماطم كرزية، وزيتون، من 20 إلى 25 دقيقة على نار متوسطة (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "Darnes de congre farinées et dorées, puis mijotées avec oignons, poivron rouge, tomates, thym et laurier (Choumicha).",
+   "t": "قطع عرضية من سمك congre تُغطّى بالدقيق وتُحمَّر، ثم تُطهى على نار هادئة مع البصل والفلفل الأحمر الحلو والطماطم والزعتر وورق الغار (Choumicha)."
+  },
+  "variants.7": {
+   "fr": "Aux oignons et raisins secs : morceaux de congre avec beaucoup d'oignons émincés, raisins secs, safran, gingembre, curcuma et cannelle, 40 min à feu moyen (Cooking with Alia).",
+   "t": "بالبصل والزبيب: قطع من سمك congre مع كثير من البصل المقطّع شرائح رفيعة، والزبيب، والزعفران، والزنجبيل (سكينجبير)، والكركم (الخرقوم)، والقرفة، 40 دقيقة على نار متوسطة (Cooking with Alia)."
+  },
+  "variants.8": {
+   "fr": "Tajine de boulettes de sardines (kefta) en sauce tomate, fini avec citron confit et olives vertes (Cooking with Alia) ; Taste of Maroc le dit apprécié dans tout le Maroc, surtout sur la côte, où le poisson abonde.",
+   "t": "طاجين كويرات السردين (الكفتة) في صلصة الطماطم، يُختم بالليمون المخلل والزيتون الأخضر (Cooking with Alia)؛ ويقول Taste of Maroc إنه محبوب في كل المغرب، وخاصة على الساحل حيث يكثر السمك."
+  },
+  "variants.9": {
+   "fr": "Lit d'oignons émincés au fond, qui caramélisent pendant la cuisson (Taste of Maroc ; Choumicha pour le pageot).",
+   "t": "فرشة من البصل المقطّع شرائح رفيعة في القاع، تتكرمل في أثناء الطهي (Taste of Maroc؛ وChoumicha مع سمك pageot)."
+  },
+  "variants.10": {
+   "fr": "Épices en plus : gingembre et curcuma sur les légumes, safran dans la chermoula (Taste of Maroc) ; harissa à la place du piment (Choumicha, Lalla Moulati, My Moroccan Food) ; une feuille de laurier (Cooking with Alia ; Choumicha) ; un peu de concentré de tomate (Cooking with Alia) ou de sauce tomate (Lalla Moulati) dans la chermoula.",
+   "t": "توابل إضافية: الزنجبيل والكركم على الخضر، والزعفران في الشرمولة (Taste of Maroc)؛ والهريسة بدل الفلفل الحار (Choumicha، Lalla Moulati، My Moroccan Food)؛ وورقة غار (Cooking with Alia؛ Choumicha)؛ وقليل من مركز الطماطم (Cooking with Alia) أو صلصة الطماطم (Lalla Moulati) في الشرمولة."
+  },
+  "variants.11": {
+   "fr": "Chermoula au citron confit, cuite 5 min à feu doux avec herbes, ail, piment doux, cumin, vinaigre et huile ; elle se garde une semaine au frais en bocal fermé (Choumicha).",
+   "t": "شرمولة بالليمون المخلل، تُطهى 5 دقائق على نار هادئة مع الأعشاب والثوم والفلفل الحلو والكمون والخل والزيت؛ وتُحفظ أسبوعًا في الثلاجة في برطمان مغلق (Choumicha)."
+  }
+ }
+}

@@ -1,0 +1,462 @@
+{
+ "_slug": "escalopes-poulet-panees",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Escalopes de poulet panées",
+   "t": "إسكالوب الدجاج المقرمش (بانيه)"
+  },
+  "tagline": {
+   "fr": "Des escalopes de poulet bien fines, passées dans la farine, l'œuf et la chapelure, puis dorées à la poêle : croustillantes dehors, moelleuses dedans.",
+   "t": "شرائح إسكالوب دجاج رقيقة جيدًا، تُمرَّر في الدقيق والبيض وفتات الخبز، ثم تُحمَّر في المقلاة: مقرمشة من الخارج، طرية من الداخل."
+  },
+  "region": {
+   "fr": "France et Europe centrale. La panure « à l'anglaise » (farine, œuf, chapelure) est une technique classique de la cuisine française (Escoffier, Chef Simon) ; l'escalope viennoise (Wiener Schnitzel, Vienne) en est la cousine, faite de veau à l'origine. Le poulet pané se mange aussi en Égypte (« frakh pané ») et en Israël (Wikipédia).",
+   "t": "فرنسا وأوروبا الوسطى. التغليف «على الطريقة الإنجليزية» (دقيق، بيض، فتات خبز) تقنية كلاسيكية في المطبخ الفرنسي (Escoffier، Chef Simon)؛ والإسكالوب الفييني (Wiener Schnitzel، فيينا) قريبه، وكان يُحضَّر في الأصل من لحم العجل. ويؤكل الدجاج البانيه أيضًا في مصر («فراخ بانيه») وفي إسرائيل (Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Dîner rapide des soirs de fatigue. Les enfants adorent l'escalope panée (Migusto, Betty Bossi).",
+   "t": "عشاء سريع في الأمسيات المتعبة. والأطفال يعشقون الإسكالوب البانيه (Migusto، Betty Bossi)."
+  },
+  "img_alt": {
+   "fr": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
+   "t": "شرائح إسكالوب دجاج مغلّفة ومحمّرة، مع البروكلي والبطاطس"
+  },
+  "serving": {
+   "fr": "Tout de suite, avec du citron, en quartiers (Migusto, Diana Henry) ou en rondelles (Office du tourisme de Vienne). À côté : une salade verte, une salade de pommes de terre ou de concombre, ou des pommes de terre persillées, comme à Vienne ; on les sert aussi avec du riz ou des frites (Office du tourisme de Vienne, Migusto, Wikipédia). Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), réchauffés une seule fois jusqu'à être brûlants à cœur (FSA, Anses).",
+   "t": "فورًا، مع الليمون، مقطّعًا أرباعًا (Migusto، Diana Henry) أو شرائح دائرية (Office du tourisme de Vienne). وإلى جانبه: سلطة خضراء، أو سلطة بطاطس أو خيار، أو بطاطس بالبقدونس، كما في فيينا؛ ويُقدَّم أيضًا مع الأرز أو البطاطس المقلية (Office du tourisme de Vienne، Migusto، Wikipédia). البقايا: في الثلاجة خلال 2 ساعة (Anses، FSA)، وتؤكل خلال 2 يوم (FSA؛ وتقول Anses أقل من 3 أيام للطبق المطبوخ)، وتُسخَّن مرة واحدة فقط حتى تصير ساخنة جدًا في قلبها (FSA، Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Escalopes",
+   "t": "الإسكالوب"
+  },
+  "ing.escalopes.name": {
+   "fr": "escalope de poulet halal",
+   "t": "شريحة إسكالوب دجاج حلال"
+  },
+  "ing.escalopes.pl": {
+   "fr": "escalopes de poulet halal",
+   "t": "شرائح إسكالوب دجاج حلال"
+  },
+  "ing.escalopes.note": {
+   "fr": "une par personne, de 100 à 150 g environ ; ou des blancs de poulet tranchés en deux dans l'épaisseur",
+   "t": "شريحة لكل شخص، من 100 إلى 150 غ تقريبًا؛ أو صدور دجاج مشقوقة إلى نصفين في السُّمك"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.1.group": {
+   "fr": "Panure",
+   "t": "التغليف"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "دقيق"
+  },
+  "ing.farine.note": {
+   "fr": "farine blanche ordinaire",
+   "t": "دقيق أبيض عادي"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.chapelure.name": {
+   "fr": "de chapelure",
+   "t": "فتات خبز"
+  },
+  "ing.chapelure.note": {
+   "fr": "bien fine ; ou du pain rassis séché, mixé finement",
+   "t": "ناعم جدًا؛ أو خبز بائت مجفّف ومطحون ناعمًا"
+  },
+  "ing.2.group": {
+   "fr": "Cuisson et service",
+   "t": "الطهي والتقديم"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "زيت المائدة"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, colza ou arachide : une huile qui supporte la chaleur",
+   "t": "دوار الشمس أو السلجم أو الفول السوداني: زيت يتحمّل الحرارة"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers, pour servir",
+   "t": "مقطّعة أرباعًا، للتقديم"
+  },
+  "equipment.0": {
+   "fr": "Une planche à découper réservée au poulet cru",
+   "t": "لوح تقطيع مخصّص للدجاج النيء"
+  },
+  "equipment.1": {
+   "fr": "Un rouleau à pâtisserie ou un attendrisseur à viande",
+   "t": "مرقاق العجين أو مطرقة لتطرية اللحم"
+  },
+  "equipment.2": {
+   "fr": "Du papier sulfurisé (ou du film alimentaire)",
+   "t": "ورق الخبز (أو غلاف بلاستيكي شفاف)"
+  },
+  "equipment.3": {
+   "fr": "Trois assiettes creuses",
+   "t": "ثلاثة صحون عميقة"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle",
+   "t": "مقلاة كبيرة"
+  },
+  "equipment.5": {
+   "fr": "Une pince ou une spatule",
+   "t": "ملقط أو ملعقة مسطّحة"
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant et un plat qui va au four",
+   "t": "ورق ماص وطبق يتحمّل حرارة الفرن"
+  },
+  "equipment.7": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "ميزان حرارة للطبخ (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Installe les trois assiettes",
+   "t": "جهّز الصحون الثلاثة"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{farine}} de farine dans une première assiette creuse, avec un peu de {{sel}} et de {{poivre}}. Casse {{oeufs:full}} dans la deuxième, ajoute un peu de sel et bats juste à la fourchette. Verse {{chapelure}} de chapelure dans la troisième.",
+   "t": "ضع {{farine}} من الدقيق في الصحن العميق الأول، مع قليل من الملح والفلفل الأسود. اكسر {{oeufs:full}} في الصحن الثاني، وأضف قليلًا من الملح واخفقه بالشوكة خفقًا خفيفًا. واسكب {{chapelure}} من فتات الخبز في الصحن الثالث."
+  },
+  "steps.0.tip": {
+   "fr": "Ne bats pas trop les œufs : battus trop longtemps, ils deviennent trop liquides (recette du Wiener Schnitzel de l'Office du tourisme de Vienne).",
+   "t": "لا تُكثر من خفق البيض: فإذا خُفق طويلًا صار سائلًا أكثر من اللازم (وصفة Wiener Schnitzel لدى Office du tourisme de Vienne)."
+  },
+  "steps.1.title": {
+   "fr": "Aplatis les escalopes",
+   "t": "رقّق شرائح الإسكالوب"
+  },
+  "steps.1.text": {
+   "fr": "Aplatis {{escalopes:full}} : pose la viande entre deux feuilles de papier sulfurisé et tape-la au rouleau à pâtisserie, sans la déchirer, jusqu'à environ 5 mm d'épaisseur, bien régulière.",
+   "t": "رقّق {{escalopes:full}}: ضع اللحم بين ورقتين من ورق الخبز واطرقه بمرقاق العجين، دون أن تمزّقه، حتى يصير سُمكه نحو 5 مم، ومتساويًا جيدًا."
+  },
+  "steps.1.tip": {
+   "fr": "Tu as des blancs entiers ? Tranche-les d'abord en deux dans l'épaisseur, la main bien à plat dessus, avant de les aplatir (Chef Simon).",
+   "t": "لديك صدور دجاج كاملة؟ اشقُقها أولًا إلى نصفين في السُّمك، ويدك مبسوطة فوقها جيدًا، قبل أن ترقّقها (Chef Simon)."
+  },
+  "steps.2.title": {
+   "fr": "Sèche et assaisonne",
+   "t": "جفّف اللحم وتبّله"
+  },
+  "steps.2.text": {
+   "fr": "Éponge la viande avec du papier absorbant, puis sale-la et poivre-la des deux côtés.",
+   "t": "جفّف اللحم بورق ماص، ثم رشّ عليه الملح والفلفل الأسود من الجهتين."
+  },
+  "steps.2.tip": {
+   "fr": "Ne lave pas le poulet cru : l'eau projette ses bactéries sur tes mains, le plan de travail et les ustensiles, et seule la cuisson les détruit (FSA, agence sanitaire britannique).",
+   "t": "لا تغسل الدجاج النيء: فالماء يرشّ بكتيرياه على يديك وسطح العمل والأدوات، ولا يقضي عليها إلا الطهي (FSA، الوكالة الصحية البريطانية)."
+  },
+  "steps.3.title": {
+   "fr": "Passe-les dans la farine",
+   "t": "مرّرها في الدقيق"
+  },
+  "steps.3.text": {
+   "fr": "Passe une escalope dans la farine, des deux côtés. Secoue-la pour faire tomber le surplus.",
+   "t": "مرّر شريحة في الدقيق من الجهتين. انفضها لإسقاط الزائد."
+  },
+  "steps.4.title": {
+   "fr": "Puis dans l'œuf",
+   "t": "ثم اغمسها في البيض"
+  },
+  "steps.4.text": {
+   "fr": "Trempe-la dans l'œuf battu, des deux côtés. Laisse égoutter le surplus au-dessus de l'assiette.",
+   "t": "اغمسها في البيض المخفوق من الجهتين. اترك الزائد يتقطّر فوق الصحن."
+  },
+  "steps.5.title": {
+   "fr": "Puis dans la chapelure",
+   "t": "ثم غلّفها بفتات الخبز"
+  },
+  "steps.5.text": {
+   "fr": "Pose-la dans la chapelure, retourne-la et presse légèrement pour que la chapelure tienne bien. Pose-la sur un plat, puis pane les autres escalopes de la même façon, s'il y en a. Lave-toi ensuite les mains au savon.",
+   "t": "ضعها في فتات الخبز، واقلبها واضغط قليلًا حتى يلتصق الفتات جيدًا. ضعها في طبق، ثم غلّف باقي الشرائح بالطريقة نفسها، إن وُجدت. ثم اغسل يديك بالصابون."
+  },
+  "steps.5.tip": {
+   "fr": "Pane juste avant de cuire : si elle attend, la panure prend l'humidité et se détache à la cuisson (Betty Bossi, Migusto).",
+   "t": "غلّف الشرائح قبيل الطهي مباشرة: فإذا انتظرت، امتصّ الغلاف الرطوبة وانفصل أثناء الطهي (Betty Bossi، Migusto)."
+  },
+  "steps.6.title": {
+   "fr": "Chauffe l'huile",
+   "t": "سخّن الزيت"
+  },
+  "steps.6.text": {
+   "fr": "Verse {{huile}} d'huile dans la grande poêle (une petite poêle si tu ne cuis qu'une escalope, pour que l'huile monte assez haut) et chauffe-la à feu moyen-vif, vers 170 °C. Sans thermomètre, plonge une brochette ou un manche en bois dans l'huile : quand de petites bulles se forment tout autour, elle est prête. À partir de maintenant, ne quitte plus la poêle.",
+   "t": "اسكب {{huile}} من الزيت في المقلاة الكبيرة (أو في مقلاة صغيرة إن كنت لا تطهو إلا شريحة واحدة، ليرتفع الزيت بما يكفي)، وسخّنه على نار متوسطة إلى قوية، حتى نحو 170 درجة مئوية. وإن لم يكن لديك ميزان حرارة، فاغمس سيخًا أو مقبضًا خشبيًا في الزيت: عندما تتكوّن فقاعات صغيرة حوله، يكون جاهزًا. ومن الآن فصاعدًا، لا تبتعد عن المقلاة."
+  },
+  "steps.6.tip": {
+   "fr": "Si l'huile fume, elle est trop chaude : coupe le feu et laisse-la refroidir un peu (conseils incendie du gouvernement britannique).",
+   "t": "إذا تصاعد الدخان من الزيت، فهو ساخن جدًا: أطفئ الموقد واتركه يبرد قليلًا (نصائح الحكومة البريطانية للوقاية من الحرائق)."
+  },
+  "steps.7.title": {
+   "fr": "Dore la première face",
+   "t": "حمّر الوجه الأول"
+  },
+  "steps.7.text": {
+   "fr": "Dépose délicatement les escalopes dans l'huile chaude, deux au plus à la fois. Laisse-les dorer 4 minutes environ, à feu moyen, sans les toucher.",
+   "t": "ضع الشرائح برفق في الزيت الساخن، اثنتين على الأكثر في كل مرة. اتركها تتحمّر نحو 4 دقائق، على نار متوسطة، دون أن تلمسها."
+  },
+  "steps.7.tip": {
+   "fr": "Pendant ce temps, arrose le dessus d'un peu d'huile chaude, à la cuillère : la panure sera plus croustillante (Betty Bossi ; Migusto incline la poêle pour la même raison).",
+   "t": "وفي هذه الأثناء، اسقِ وجهها العلوي بقليل من الزيت الساخن بالملعقة: فيصير الغلاف أكثر قرمشة (Betty Bossi؛ ويُميل Migusto المقلاة للسبب نفسه)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Première face",
+   "t": "الوجه الأول"
+  },
+  "steps.7.timer.done": {
+   "fr": "Retourne les escalopes.",
+   "t": "اقلب الشرائح."
+  },
+  "steps.8.title": {
+   "fr": "Retourne-les",
+   "t": "اقلبها"
+  },
+  "steps.8.text": {
+   "fr": "Retourne les escalopes avec la pince et laisse dorer l'autre face 4 minutes environ. La panure doit être bien dorée, pas brune.",
+   "t": "اقلب الشرائح بالملقط واترك الوجه الآخر يتحمّر نحو 4 دقائق. يجب أن يكون الغلاف ذهبي اللون جيدًا، لا بنيًّا."
+  },
+  "steps.8.timer.label": {
+   "fr": "Deuxième face",
+   "t": "الوجه الثاني"
+  },
+  "steps.8.timer.done": {
+   "fr": "Vérifie la cuisson.",
+   "t": "تحقّق من النضج."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "تحقّق من النضج"
+  },
+  "steps.9.text": {
+   "fr": "Coupe la plus épaisse en son milieu : la chair doit être blanche, sans aucune trace de rose, et le jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C. Sinon, baisse le feu et prolonge de quelques minutes.",
+   "t": "اقطع أسمك شريحة من وسطها: يجب أن يكون اللحم أبيض، دون أي أثر للون الوردي، وأن تكون العصارة صافية. وبميزان الحرارة، يجب أن تبلغ حرارة القلب 75 درجة مئوية على الأقل. وإلا فخفّف النار وأطِل الطهي بضع دقائق."
+  },
+  "steps.9.tip": {
+   "fr": "L'Anses recommande une cuisson à cœur de 70 °C pour la volaille ; la FSA, 75 °C pendant 30 secondes (ou 70 °C pendant 2 minutes).",
+   "t": "توصي Anses بطهي الدواجن حتى تبلغ حرارة قلبها 70 درجة مئوية؛ وتوصي FSA بـ75 درجة مئوية لمدة 30 ثانية (أو 70 درجة مئوية لمدة 2 دقيقة)."
+  },
+  "steps.10.title": {
+   "fr": "Égoutte et garde au chaud",
+   "t": "صفِّ الشرائح وأبقِها ساخنة"
+  },
+  "steps.10.text": {
+   "fr": "Pose les escalopes cuites sur du papier absorbant, puis dans un plat propre, au four doux (60 à 80 °C), pendant que tu cuis les autres, s'il en reste. N'utilise pas le plat du poulet cru.",
+   "t": "ضع الشرائح المطهوة على ورق ماص، ثم في طبق نظيف، في فرن هادئ (من 60 إلى 80 درجة مئوية)، بينما تطهو الباقي، إن بقي شيء. لا تستعمل طبق الدجاج النيء."
+  },
+  "steps.11.title": {
+   "fr": "Cuis les autres",
+   "t": "اطبخ الباقي"
+  },
+  "steps.11.text": {
+   "fr": "S'il reste des escalopes, fais-les cuire de la même façon, deux au plus à la fois, et vérifie aussi leur cuisson.",
+   "t": "إن بقيت شرائح، فاطبخها بالطريقة نفسها، اثنتين على الأكثر في كل مرة، وتحقّق من نضجها أيضًا."
+  },
+  "steps.12.title": {
+   "fr": "Coupe le feu",
+   "t": "أطفئ النار"
+  },
+  "steps.12.text": {
+   "fr": "Éteins le feu dès la dernière escalope sortie. Laisse l'huile refroidir complètement dans la poêle avant de la déplacer, de la filtrer ou de la jeter.",
+   "t": "أطفئ النار فور إخراج آخر شريحة. اترك الزيت يبرد تمامًا في المقلاة قبل نقله أو تصفيته أو التخلص منه."
+  },
+  "steps.12.tip": {
+   "fr": "Jette ce qui reste de farine, d'œuf et de chapelure : ils ont touché le poulet cru (la FSA rappelle que ses bactéries passent sur ce qu'il touche).",
+   "t": "تخلّص مما تبقى من الدقيق والبيض وفتات الخبز: فقد لامست الدجاج النيء (وتذكّر FSA بأن بكتيرياه تنتقل إلى كل ما يلمسه)."
+  },
+  "steps.13.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّم فورًا"
+  },
+  "steps.13.text": {
+   "fr": "Sers les escalopes tout de suite, bien chaudes, avec {{citron:full}} en quartiers.",
+   "t": "قدّم الشرائح فورًا وهي ساخنة جدًا، مع {{citron:full}} مقطّعة أرباعًا."
+  },
+  "steps.13.tip": {
+   "fr": "Une escalope de volaille panée n'attend pas, sinon elle durcit : sers-la aussitôt, moelleuse et brûlante (Escoffier).",
+   "t": "إسكالوب الدواجن المغلّف لا ينتظر، وإلا قسا: قدّمه فورًا، طريًا وساخنًا جدًا (Escoffier)."
+  },
+  "secrets.0.text": {
+   "fr": "Aplatis les escalopes à une épaisseur régulière, environ 5 mm : elles cuisent vite et partout pareil.",
+   "t": "رقّق الشرائح إلى سُمك متساوٍ، نحو 5 مم: فتنضج بسرعة وبالتساوي في كل أجزائها."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Bossi (les escalopes du boucher font environ 5 mm), Ben Tish (Great British Chefs, 0,5 cm), Chef Simon, Migusto, Diana Henry (BBC Good Food)",
+   "t": "Betty Bossi (شرائح الجزار سُمكها نحو 5 مم)، Ben Tish (Great British Chefs، 0,5 سم)، Chef Simon، Migusto، Diana Henry (BBC Good Food)"
+  },
+  "secrets.1.text": {
+   "fr": "Incise très légèrement la surface de la viande avant de l'aplatir : elle se laisse mieux battre et se rétracte moins à la cuisson.",
+   "t": "اشرط سطح اللحم شرطًا خفيفًا جدًا قبل ترقيقه: فيسهل طرقه وينكمش أقل أثناء الطهي."
+  },
+  "secrets.1.source": {
+   "fr": "Chef Simon (escalope panée à l'anglaise ; tailler et aplatir une escalope de volaille)",
+   "t": "Chef Simon (الإسكالوب المغلّف على الطريقة الإنجليزية؛ تقطيع شريحة دواجن وترقيقها)"
+  },
+  "secrets.2.text": {
+   "fr": "L'ordre farine, œuf, chapelure a une raison : la farine sèche la surface pour que l'œuf accroche, et l'œuf colle la chapelure.",
+   "t": "لترتيب الدقيق ثم البيض ثم فتات الخبز سبب: فالدقيق يجفّف السطح ليلتصق به البيض، والبيض يُلصق الفتات."
+  },
+  "secrets.2.source": {
+   "fr": "Betty Bossi (« Paner ») ; Chef Simon (lexique « Paner » : panure à l'anglaise)",
+   "t": "Betty Bossi («Paner»)؛ Chef Simon (معجم «Paner»: التغليف على الطريقة الإنجليزية)"
+  },
+  "secrets.3.text": {
+   "fr": "Secoue l'excédent de farine et laisse égoutter l'œuf : la panure reste fine, régulière, et ne se détache pas.",
+   "t": "انفض الدقيق الزائد واترك البيض يتقطّر: فيبقى الغلاف رقيقًا ومتساويًا ولا ينفصل."
+  },
+  "secrets.3.source": {
+   "fr": "Migusto (« Paner une escalope »), Betty Bossi, Chef Simon, Ben Tish (Great British Chefs)",
+   "t": "Migusto («Paner une escalope»)، Betty Bossi، Chef Simon، Ben Tish (Great British Chefs)"
+  },
+  "secrets.4.text": {
+   "fr": "L'huile doit être bien chaude avant d'y mettre les escalopes : trop froide, la panure boit l'huile et ne croustille pas.",
+   "t": "يجب أن يكون الزيت ساخنًا جيدًا قبل وضع الشرائح فيه: فإذا كان باردًا أكثر من اللازم، امتصّ الغلاف الزيت ولم يصبح مقرمشًا."
+  },
+  "secrets.4.source": {
+   "fr": "Betty Bossi (« Paner ») ; Migusto (« La friture »)",
+   "t": "Betty Bossi («Paner»)؛ Migusto («La friture»)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas plus de deux escalopes à la fois : trop chargée, la poêle refroidit et la panure devient molle.",
+   "t": "لا أكثر من شريحتين في كل مرة: فإذا امتلأت المقلاة، بردت وصار الغلاف طريًا."
+  },
+  "secrets.5.source": {
+   "fr": "Betty Bossi (« Frire »), Great British Chefs (GBC Kitchen), Journal des Femmes (la rédaction cuit les escalopes deux par deux)",
+   "t": "Betty Bossi («Frire»)، Great British Chefs (GBC Kitchen)، Journal des Femmes (يطهو فريق التحرير الشرائح اثنتين اثنتين)"
+  },
+  "secrets.6.text": {
+   "fr": "Arrose le dessus avec l'huile chaude pendant la cuisson, ou incline doucement la poêle : la panure gonfle et croustille.",
+   "t": "اسقِ الوجه العلوي بالزيت الساخن أثناء الطهي، أو أمِل المقلاة برفق: فينتفخ الغلاف ويصير مقرمشًا."
+  },
+  "secrets.6.source": {
+   "fr": "Betty Bossi (« Paner ») ; Migusto (escalopes viennoises) ; Office du tourisme de Vienne (recette du Sacher)",
+   "t": "Betty Bossi («Paner»)؛ Migusto (الإسكالوب الفييني)؛ Office du tourisme de Vienne (وصفة Sacher)"
+  },
+  "secrets.7.text": {
+   "fr": "Égoutte les escalopes sur du papier absorbant dès leur sortie de la poêle.",
+   "t": "صفِّ الشرائح على ورق ماص فور إخراجها من المقلاة."
+  },
+  "secrets.7.source": {
+   "fr": "Office du tourisme de Vienne, Migusto, Great British Chefs, Cyril Lignac (cité par le Journal des Femmes)",
+   "t": "Office du tourisme de Vienne، Migusto، Great British Chefs، Cyril Lignac (كما نقل عنه Journal des Femmes)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour le goût du beurre, prends du beurre clarifié : le beurre ordinaire commence à fumer vers 130 à 150 °C, le beurre clarifié vers 250 °C seulement.",
+   "t": "لنكهة الزبدة، استعمل الزبدة المصفّاة: فالزبدة العادية يبدأ دخانها نحو 130 إلى 150 درجة مئوية، أما الزبدة المصفّاة فلا يبدأ دخانها إلا نحو 250 درجة مئوية."
+  },
+  "secrets.8.source": {
+   "fr": "Chef Simon (lexique « Beurre clarifié ») ; Escoffier et Cyril Lignac cuisent leurs escalopes panées au beurre clarifié",
+   "t": "Chef Simon (معجم «Beurre clarifié»)؛ ويطهو Escoffier وCyril Lignac شرائح الإسكالوب المغلّفة بالزبدة المصفّاة"
+  },
+  "secrets.9.text": {
+   "fr": "Prends une chapelure bien fine, comme le demande la recette viennoise ; la chapelure maison se fait avec du pain rassis séché, mixé puis tamisé.",
+   "t": "اختر فتات خبز ناعمًا جدًا، كما تطلب الوصفة الفيينية؛ أما الفتات المنزلي فيُحضَّر من خبز بائت مجفّف، يُطحن ثم يُنخل."
+  },
+  "secrets.9.source": {
+   "fr": "Office du tourisme de Vienne (chapelure « très finement râpée ») ; Larousse et Chef Simon (définition de la chapelure)",
+   "t": "Office du tourisme de Vienne (فتات خبز «مبشور بشرًا ناعمًا جدًا»)؛ Larousse وChef Simon (تعريف فتات الخبز)"
+  },
+  "secrets.10.text": {
+   "fr": "Les cuisses de poulet désossées, aplaties de la même façon, donnent des escalopes plus juteuses que le blanc.",
+   "t": "أفخاذ الدجاج منزوعة العظم، المرقّقة بالطريقة نفسها، تعطي شرائح أكثر عصارة من الصدر."
+  },
+  "secrets.10.source": {
+   "fr": "Diana Henry (BBC Good Food)",
+   "t": "Diana Henry (BBC Good Food)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "غسل الدجاج النيء: فهذا يرشّ البكتيريا في كل مكان، ولا يقضي عليها إلا الطهي (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Décongeler le poulet sur le plan de travail : décongèle-le au réfrigérateur ou au micro-ondes (Anses).",
+   "t": "إذابة تجميد الدجاج على سطح العمل: أذب تجميده في الثلاجة أو في الميكروويف (Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Paner longtemps à l'avance : la panure se ramollit et se détache (Betty Bossi).",
+   "t": "تغليف الشرائح قبل الطهي بوقت طويل: يلين الغلاف وينفصل (Betty Bossi)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre les escalopes dans une huile pas assez chaude : elles boivent l'huile (Betty Bossi, Migusto).",
+   "t": "وضع الشرائح في زيت غير ساخن بما يكفي: تمتصّ الزيت (Betty Bossi، Migusto)."
+  },
+  "mistakes.4": {
+   "fr": "Remplir la poêle : l'huile refroidit et la panure devient molle (Betty Bossi, Great British Chefs).",
+   "t": "ملء المقلاة: يبرد الزيت ويصير الغلاف طريًا (Betty Bossi، Great British Chefs)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser la poêle d'huile sans surveillance (BPA, gouvernement britannique).",
+   "t": "ترك مقلاة الزيت دون مراقبة (BPA، الحكومة البريطانية)."
+  },
+  "mistakes.6": {
+   "fr": "Jeter de l'eau sur de l'huile en feu : jamais. Coupe le feu si tu peux le faire sans risque ; le BPA conseille d'étouffer les flammes avec un couvercle ou une couverture anti-feu, le gouvernement britannique de ne pas affronter le feu soi-même. Si le feu prend, sors, reste dehors et appelle les secours (gouvernement britannique).",
+   "t": "صبّ الماء على زيت مشتعل: أبدًا. أطفئ الموقد إن استطعت ذلك دون خطر؛ وينصح BPA بخنق اللهب بغطاء أو ببطانية إطفاء، وتنصح الحكومة البريطانية بعدم مواجهة النار بنفسك. وإذا اشتعلت النار، فاخرج، وابقَ في الخارج، واتصل بالطوارئ (الحكومة البريطانية)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser brunir la panure : vise une couleur jaune doré, comme la FSA le conseille pour les aliments riches en amidon frits, dont le pain (FSA, Betty Bossi).",
+   "t": "ترك الغلاف يصير بنيًّا: استهدف لونًا أصفر ذهبيًا، كما تنصح FSA للأطعمة الغنية بالنشا المقلية، ومنها الخبز (FSA، Betty Bossi)."
+  },
+  "mistakes.8": {
+   "fr": "Servir sans vérifier que le cœur est bien cuit (Anses, FSA).",
+   "t": "التقديم دون التحقق من أن القلب قد نضج جيدًا (Anses، FSA)."
+  },
+  "mistakes.9": {
+   "fr": "Reposer les escalopes cuites dans le plat du poulet cru (Anses).",
+   "t": "إعادة الشرائح المطهوة إلى طبق الدجاج النيء (Anses)."
+  },
+  "variants.0": {
+   "fr": "Façon milanaise : mélange du parmesan râpé à la chapelure (Chef Simon : un tiers de parmesan ; la rédaction du Journal des Femmes en met avec du persil). Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "t": "على الطريقة الميلانية: اخلط جبن البارميزان المبشور مع فتات الخبز (Chef Simon: الثلث بارميزان؛ ويضيفه فريق تحرير Journal des Femmes مع البقدونس). إن أردت التشدد: جبن بمخثّر ميكروبي، بلا إنفحة حيوانية."
+  },
+  "variants.1": {
+   "fr": "Au panko, la chapelure japonaise (Great British Chefs, Ben Tish ; Betty Bossi la propose aussi).",
+   "t": "بالبانكو، فتات الخبز الياباني (Great British Chefs، Ben Tish؛ ويقترحه Betty Bossi أيضًا)."
+  },
+  "variants.2": {
+   "fr": "Double panure : repasse l'escalope déjà panée dans l'œuf, puis dans la chapelure, pour une croûte plus épaisse (Betty Bossi, Ben Tish).",
+   "t": "تغليف مزدوج: أعد تمرير الشريحة المغلّفة في البيض، ثم في فتات الخبز، لقشرة أسمك (Betty Bossi، Ben Tish)."
+  },
+  "variants.3": {
+   "fr": "Plus légère, façon Cyril Lignac : seulement des blancs d'œufs mousseux, sans farine, et une chapelure mêlée de cacahuètes concassées et d'un peu d'épices tandoori ; les escalopes panées reposent 30 minutes au réfrigérateur avant la cuisson (Journal des Femmes, 2024).",
+   "t": "أخف، على طريقة Cyril Lignac: بياض بيض مخفوق حتى يصير رغويًا فقط، بلا دقيق، وفتات خبز ممزوج بفول سوداني مجروش وقليل من توابل التندوري؛ وتُترك الشرائح المغلّفة 30 دقيقة في الثلاجة قبل الطهي (Journal des Femmes، 2024)."
+  },
+  "variants.4": {
+   "fr": "Façon israélienne : chapelure relevée de paprika ou de graines de sésame, cuisson à l'huile végétale (Wikipédia).",
+   "t": "على الطريقة الإسرائيلية: فتات خبز مُنكّه بالبابريكا أو ببذور السمسم، والطهي بالزيت النباتي (Wikipédia)."
+  },
+  "variants.5": {
+   "fr": "Holstein : un œuf au plat posé sur chaque escalope (Chef Simon, qui ajoute des filets d'anchois).",
+   "t": "Holstein: بيضة مقلية فوق كل شريحة (Chef Simon، الذي يضيف شرائح الأنشوجة)."
+  },
+  "variants.6": {
+   "fr": "Avec des cuisses de poulet désossées, plus juteuses, et un beurre noisette aux câpres (Diana Henry, BBC Good Food).",
+   "t": "بأفخاذ الدجاج منزوعة العظم، وهي أكثر عصارة، مع زبدة بنية بالقبّار (Diana Henry، BBC Good Food)."
+  },
+  "variants.7": {
+   "fr": "Au beurre clarifié, comme Escoffier, Chef Simon et Cyril Lignac, à la place de l'huile.",
+   "t": "بالزبدة المصفّاة بدل الزيت، كما يفعل Escoffier وChef Simon وCyril Lignac."
+  }
+ }
+}

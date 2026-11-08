@@ -1,0 +1,267 @@
+{
+ "_slug": "harira",
+ "_ingredients": {
+  "viande": {
+   "q": 250,
+   "u": "g",
+   "fr": "d'agneau ou de bœuf"
+  },
+  "huile": {
+   "q": 2,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive ou de tournesol"
+  },
+  "smen": {
+   "q": 2,
+   "u": "c. à c.",
+   "fr": "de smen (beurre rance marocain)"
+  },
+  "oignon": {
+   "q": 1,
+   "u": "",
+   "fr": "gros oignon / gros oignons",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "celeri": {
+   "q": 1,
+   "u": "",
+   "fr": "branche de céleri avec ses feuilles / branches de céleri avec leurs feuilles",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "persil": {
+   "q": 1,
+   "u": "botte",
+   "fr": "de persil plat"
+  },
+  "coriandre": {
+   "q": 1,
+   "u": "botte",
+   "fr": "de coriandre fraîche"
+  },
+  "pois-chiches": {
+   "q": 100,
+   "u": "g",
+   "fr": "de pois chiches secs"
+  },
+  "lentilles": {
+   "q": 100,
+   "u": "g",
+   "fr": "de lentilles vertes ou brunes"
+  },
+  "tomates": {
+   "q": 600,
+   "u": "g",
+   "fr": "de tomates bien mûres"
+  },
+  "concentre": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de concentré de tomate"
+  },
+  "gingembre": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de gingembre en poudre"
+  },
+  "curcuma": {
+   "q": 0.5,
+   "u": "c. à c.",
+   "fr": "de curcuma"
+  },
+  "poivre": {
+   "q": 0.5,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "cannelle": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de cannelle en poudre"
+  },
+  "sel": {
+   "q": 2,
+   "u": "c. à c.",
+   "fr": "de sel"
+  },
+  "eau": {
+   "q": 2,
+   "u": "l",
+   "fr": "d'eau"
+  },
+  "farine": {
+   "q": 80,
+   "u": "g",
+   "fr": "de farine blanche"
+  },
+  "eau-tadouira": {
+   "q": 200,
+   "u": "ml",
+   "fr": "d'eau"
+  },
+  "concentre-tadouira": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "de concentré de tomate"
+  },
+  "vermicelles": {
+   "q": 35,
+   "u": "g",
+   "fr": "de vermicelles fins"
+  },
+  "coriandre-fin": {
+   "q": 2,
+   "u": "c. à s.",
+   "fr": "de coriandre hachée"
+  },
+  "citron": {
+   "q": 1,
+   "u": "",
+   "fr": "citron, en quartiers / citrons, en quartiers",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  }
+ },
+ "textes": {
+  "title": "Harira marocaine traditionnelle",
+  "darija": "Hrira",
+  "tagline": "La soupe du ftour, soyeuse comme son nom (harir, la soie) : tomates, lentilles, pois chiches et herbes fraîches, liée à la tadouira.",
+  "region": "Tout le Maroc ; version douce sans carvi ni piment de la Jamaïque, comme la harira fassia (Fès)",
+  "occasion": "Ftour du Ramadan, servie chaque jour à la rupture du jeûne ; toute l'année en entrée ou en dîner léger, et lors des rassemblements de famille",
+  "serving": "Au ftour du Ramadan, la harira se sert bien chaude dès la rupture du jeûne, chaque jour du mois. Chacun presse un quartier de citron dans son bol. Autour : des dattes (ou des figues sèches), des chebakia, des œufs durs à tremper dans du sel et du cumin, et souvent du msemen, des briouates ou du pain maison. Hors Ramadan, elle se sert en entrée, en dîner léger ou lors des rassemblements de famille.",
+  "ing.0.group": "Bouillon",
+  "ing.viande.name": "d'agneau ou de bœuf",
+  "ing.viande.note": "halal, coupé en dés d'environ 1 cm",
+  "ing.huile.name": "d'huile d'olive ou de tournesol",
+  "ing.smen.name": "de smen (beurre rance marocain)",
+  "ing.smen.note": "facultatif, mais il apporte un goût particulier",
+  "ing.oignon.name": "gros oignon",
+  "ing.oignon.pl": "gros oignons",
+  "ing.celeri.name": "branche de céleri avec ses feuilles",
+  "ing.celeri.pl": "branches de céleri avec leurs feuilles",
+  "ing.celeri.note": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
+  "ing.persil.name": "de persil plat",
+  "ing.persil.note": "petite botte",
+  "ing.coriandre.name": "de coriandre fraîche",
+  "ing.coriandre.note": "petite botte",
+  "ing.pois-chiches.name": "de pois chiches secs",
+  "ing.pois-chiches.note": "à faire tremper la veille",
+  "ing.lentilles.name": "de lentilles vertes ou brunes",
+  "ing.tomates.name": "de tomates bien mûres",
+  "ing.concentre.name": "de concentré de tomate",
+  "ing.concentre.note": "bombée",
+  "ing.gingembre.name": "de gingembre en poudre",
+  "ing.gingembre.note": "pas de gingembre frais",
+  "ing.curcuma.name": "de curcuma",
+  "ing.poivre.name": "de poivre noir moulu",
+  "ing.cannelle.name": "de cannelle en poudre",
+  "ing.cannelle.note": "facultatif",
+  "ing.sel.name": "de sel",
+  "ing.sel.note": "à rectifier en fin de cuisson",
+  "ing.eau.name": "d'eau",
+  "ing.1.group": "Tadouira (liaison)",
+  "ing.farine.name": "de farine blanche",
+  "ing.farine.note": "pas de farine complète",
+  "ing.eau-tadouira.name": "d'eau",
+  "ing.concentre-tadouira.name": "de concentré de tomate",
+  "ing.concentre-tadouira.note": "bombée",
+  "ing.2.group": "Finition et service",
+  "ing.vermicelles.name": "de vermicelles fins",
+  "ing.vermicelles.note": "ou de spaghettis fins cassés",
+  "ing.coriandre-fin.name": "de coriandre hachée",
+  "ing.coriandre-fin.note": "à prélever sur la botte",
+  "ing.citron.name": "citron, en quartiers",
+  "ing.citron.pl": "citrons, en quartiers",
+  "equipment.0": "Grande marmite à fond épais (6 l environ) ou cocotte-minute",
+  "equipment.1": "Casserole pour pocher les tomates",
+  "equipment.2": "Mixeur ou moulin à légumes",
+  "equipment.3": "Râpe",
+  "equipment.4": "Fouet et bol",
+  "equipment.5": "Passoire fine",
+  "equipment.6": "Torchon propre (pour peler les pois chiches)",
+  "equipment.7": "Louche",
+  "steps.0.title": "La veille : fais tremper les pois chiches",
+  "steps.0.text": "Rince les pois chiches ({{pois-chiches}}) et couvre-les largement d'eau. Laisse-les tremper toute la nuit.",
+  "steps.1.title": "Pèle les pois chiches, trie les lentilles",
+  "steps.1.text": "Égoutte les pois chiches, puis frotte-les vigoureusement dans un torchon pour détacher leur peau et retire les peaux. Trie les lentilles ({{lentilles}}) pour enlever les petits cailloux, puis rince-les.",
+  "steps.2.title": "Prépare la tadouira à l'avance",
+  "steps.2.text": "Fouette la farine ({{farine}}) avec l'eau ({{eau-tadouira}}) jusqu'à obtenir un mélange parfaitement lisse. Passe-le dans une passoire fine, couvre et laisse reposer jusqu'au moment de lier la soupe, quelques heures si tu peux.",
+  "steps.3.title": "Réduis les tomates en purée",
+  "steps.3.text": "Poche les tomates ({{tomates}}) 5 minutes dans une casserole d'eau frémissante, puis pèle-les. Mixe-les en purée lisse, ou passe-les au moulin à légumes pour retirer aussi les pépins.",
+  "steps.3.timer.label": "Tomates pochées",
+  "steps.3.timer.done": "Sors les tomates : la peau doit se détacher facilement.",
+  "steps.4.title": "Râpe, hache et coupe",
+  "steps.4.text": "Râpe {{oignon:full}}. Hache très finement {{celeri:full}}, le persil ({{persil}}) et la coriandre ({{coriandre}}) en retirant les grosses tiges, et mets de côté un peu de coriandre hachée ({{coriandre-fin}}) pour la fin. Coupe la viande ({{viande}}) en dés d'environ 1 cm.",
+  "steps.4.img.alt": "Persil haché au couteau sur une planche",
+  "steps.4.img.caption": "Hacher les herbes",
+  "steps.5.title": "Saisis la viande",
+  "steps.5.text": "Dans la grande marmite, chauffe l'huile ({{huile}}) à feu moyen. Fais revenir la viande en remuant, jusqu'à ce qu'elle change de couleur.",
+  "steps.6.title": "Fais revenir aromates et épices",
+  "steps.6.text": "Ajoute l'oignon râpé, les herbes hachées, les pois chiches pelés, les lentilles, la purée de tomates et le concentré ({{concentre}}). Ajoute le gingembre ({{gingembre}}), le curcuma ({{curcuma}}), le poivre ({{poivre}}), la cannelle ({{cannelle}}), le sel ({{sel}}) et le smen ({{smen}}). Laisse revenir 10 minutes à feu doux, en remuant de temps en temps.",
+  "steps.6.timer.label": "Aromates à feu doux",
+  "steps.6.timer.done": "Verse l'eau et porte à ébullition.",
+  "steps.7.title": "Mouille et laisse cuire",
+  "steps.7.text": "Verse l'eau ({{eau}}) et porte à ébullition à feu vif. Couvre et laisse cuire 1 heure à feu moyen, en remuant de temps en temps, jusqu'à ce que les pois chiches soient tendres. En cocotte-minute, compte 20 à 30 minutes après la mise sous pression.",
+  "steps.7.timer.label": "Cuisson du bouillon",
+  "steps.7.timer.done": "Goûte un pois chiche : s'il est tendre, passe à la tadouira. Sinon, prolonge un peu la cuisson.",
+  "steps.8.title": "Lie avec la tadouira",
+  "steps.8.text": "Fouette le concentré de tomate ({{concentre-tadouira}}) dans la tadouira. Monte le feu pour que la soupe bouille, puis verse la tadouira petit à petit en remuant sans arrêt. Arrête-toi dès que la harira est veloutée et soyeuse, sans être épaisse : tu n'auras peut-être pas besoin de tout. Si elle est trop épaisse, ajoute un peu d'eau bouillante.",
+  "steps.9.title": "Ajoute les vermicelles",
+  "steps.9.text": "Dès que la soupe bout de nouveau, ajoute les vermicelles ({{vermicelles}}) en remuant. Laisse mijoter à feu moyen en remuant régulièrement, et retire l'écume à la cuillère. C'est prêt quand les vermicelles sont tendres et que l'écume de la tadouira a disparu.",
+  "steps.9.timer.label": "Vermicelles",
+  "steps.9.timer.done": "Vermicelles tendres et plus d'écume ? Sinon, laisse encore 2 ou 3 minutes.",
+  "steps.10.title": "Goûte et parfume",
+  "steps.10.text": "Goûte et rectifie le sel et le poivre. Ajoute la coriandre mise de côté et laisse frémir 5 minutes, puis coupe le feu.",
+  "steps.10.timer.label": "Dernier frémissement",
+  "steps.10.timer.done": "Coupe le feu : ta harira est prête.",
+  "steps.11.title": "Sers bien chaud",
+  "steps.11.text": "Sers la harira bien chaude dans des bols, avec {{citron:full}}, à presser au dernier moment. Pose à côté des dattes, des chebakia et des œufs durs à tremper dans un peu de sel et de cumin.",
+  "steps.12.title": "Les restes",
+  "steps.12.text": "En refroidissant, une peau se forme : remue-la simplement dans la soupe. Réchauffe à feu doux ou moyen en remuant souvent pour que les lentilles n'attachent pas, et détends avec un peu d'eau bouillante si besoin. Elle se garde 3 jours au réfrigérateur, dans une boîte hermétique.",
+  "secrets.0.text": "Pèle les pois chiches après le trempage, en les frottant vigoureusement dans un torchon : toutes les recettes marocaines consultées les veulent sans peau.",
+  "secrets.0.source": "Taste of Maroc ; Gâteau et cuisine Rachida ; Royal Mansour (chef Karim Ben Baba) ; Choumicha (Gulf News) ; Morocco World News",
+  "secrets.1.text": "Gingembre en poudre seulement : le gingembre frais n'est pas traditionnel dans les plats mijotés marocains.",
+  "secrets.1.source": "Taste of Maroc",
+  "secrets.2.text": "Pas de ras el hanout : la harira traditionnelle n'en contient pas, même dans la version de Choumicha.",
+  "secrets.2.source": "Gâteau et cuisine Rachida",
+  "secrets.3.text": "Choisis des tomates bien mûres : elles donnent la belle couleur et un goût plus intense.",
+  "secrets.3.source": "Gâteau et cuisine Rachida ; Taste of Maroc",
+  "secrets.4.text": "Au Maroc, la harira se fait avec un céleri à feuilles fines, proche du céleri chinois ; Choumicha n'en garde que les feuilles.",
+  "secrets.4.source": "Taste of Maroc ; Choumicha (Gulf News)",
+  "secrets.5.text": "Prépare la tadouira à l'avance : bien fouettée, passée dans une passoire fine et reposée quelques heures, elle ne fait pas de grumeaux.",
+  "secrets.5.source": "Gâteau et cuisine Rachida ; Taste of Maroc",
+  "secrets.6.text": "Verse la tadouira petit à petit dans une soupe qui bout franchement, en remuant sans arrêt.",
+  "secrets.6.source": "Gâteau et cuisine Rachida ; Taste of Maroc",
+  "secrets.7.text": "Tout est dans le dosage de la tadouira : arrête-toi quand la harira est soyeuse comme une crème. Elle doit être veloutée, pas épaisse.",
+  "secrets.7.source": "Gâteau et cuisine Rachida ; Taste of Maroc ; Bladi.net",
+  "secrets.8.text": "Après la liaison, laisse mijoter jusqu'à ce que l'écume formée par la tadouira ait disparu.",
+  "secrets.8.source": "Gâteau et cuisine Rachida ; Taste of Maroc",
+  "secrets.9.text": "Un peu de coriandre fraîche en fin de cuisson réveille le parfum ; Choumicha y ajoute toujours aussi un peu de céleri et de smen.",
+  "secrets.9.source": "Choumicha (La Libre Belgique, 2014) ; Gâteau et cuisine Rachida",
+  "secrets.10.text": "Le smen (beurre rance) est facultatif, mais il donne une saveur particulière.",
+  "secrets.10.source": "Gâteau et cuisine Rachida ; Taste of Maroc",
+  "secrets.11.text": "La harira est encore meilleure le lendemain, une fois que les saveurs se sont mariées.",
+  "secrets.11.source": "Choumicha (Gulf News)",
+  "secrets.12.text": "Si tu prévois des restes, prends des spaghettis fins cassés : le vermicelle gonfle dans la soupe.",
+  "secrets.12.source": "Gâteau et cuisine Rachida",
+  "secrets.13.text": "Pour congeler, fais-le avant la tadouira et, si possible, avant les vermicelles.",
+  "secrets.13.source": "Taste of Maroc ; Gâteau et cuisine Rachida",
+  "mistakes.0": "Verser la tadouira d'un coup ou sans remuer : elle fait des grumeaux.",
+  "mistakes.1": "Lier une soupe qui ne bout pas assez fort : elle doit reprendre vite l'ébullition.",
+  "mistakes.2": "Mettre toute la tadouira sans regarder la texture : la harira doit rester veloutée, pas épaisse.",
+  "mistakes.3": "Couper le feu avant que l'écume de la tadouira ait disparu.",
+  "mistakes.4": "Garder la peau des pois chiches.",
+  "mistakes.5": "Ajouter du ras el hanout ou du gingembre frais.",
+  "mistakes.6": "Prendre de la farine complète pour la tadouira.",
+  "mistakes.7": "Réchauffer à feu vif sans remuer : les lentilles attachent et brûlent.",
+  "mistakes.8": "Congeler la harira une fois liée à la tadouira.",
+  "variants.0": "Riz au lieu des vermicelles : ajoute-le dans le bouillon environ 30 minutes avant la liaison (15 minutes en cocotte-minute) — Taste of Maroc.",
+  "variants.1": "Harira fassia (Fès) : la moins épicée, sans carvi (karwiya) ni piment de la Jamaïque ; c'est le profil de cette recette — Gâteau et cuisine Rachida.",
+  "variants.2": "Harira oujdia (Oujda) : préparée avec un levain pétri la veille et beaucoup de persil, de coriandre et de céleri (Aujourd'hui le Maroc, repris par Yabiladi) ; selon Rachida, très parfumée au carvi et au piment de la Jamaïque, et certaines familles ajoutent des fèves sèches aux pois chiches — Gâteau et cuisine Rachida.",
+  "variants.3": "Harira bidaouia (Casablanca) : on y ajoute le plus souvent un œuf battu après la tadouira (Gâteau et cuisine Rachida) ; certaines familles lient même la harira aux œufs à la place de la tadouira (Taste of Maroc).",
+  "variants.4": "Tadouira à l'ancienne, fermentée : au levain chez les grands-mères, ce qui rendait la harira plus digeste et légèrement acidulée (Gâteau et cuisine Rachida), ou avec de la levure et 1 à 2 jours de fermentation (Taste of Maroc).",
+  "variants.5": "Liaison à la fécule de maïs délayée dans de l'eau : version du Royal Mansour, et solution sans gluten selon Taste of Maroc.",
+  "variants.6": "Un peu de safran dans le bouillon : Royal Mansour, Morocco World News (2021), Le Courrier de l'Atlas.",
+  "variants.7": "Quelques os à soupe ajoutés au bouillon (facultatif) — Taste of Maroc.",
+  "variants.8": "Version de Choumicha publiée par Gulf News : épices « harira » à parts égales (curcuma, cumin, gingembre, cannelle, poivre noir) avec une pointe de cayenne, et le smen ajouté tout à la fin.",
+  "variants.9": "Sans viande : une version végétarienne existe, la viande apportant surtout du goût — Taste of Maroc ; Morocco World News (2021)."
+ }
+}

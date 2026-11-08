@@ -1,0 +1,462 @@
+{
+ "_slug": "zaalouk",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Zaalouk d'aubergines",
+   "t": "زعلوك الباذنجان"
+  },
+  "darija": {
+   "fr": "Zaâlouk",
+   "t": "زعلوك"
+  },
+  "tagline": {
+   "fr": "Des aubergines grillées au goût fumé, écrasées dans une sauce tomate à l'ail, au cumin et au paprika, puis cuites jusqu'à ce que tout épaississe. Tiède ou froid, avec du pain.",
+   "t": "باذنجان مشوي بطعم مدخّن، مهروس في صلصة طماطم بالثوم والكمون والفلفل الأحمر (التحميرة)، ثم يُطهى حتى يتكثّف كل شيء. يؤكل دافئًا أو باردًا، مع الخبز."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; la recette change d'une région et d'une famille à l'autre (My Moroccan Food)",
+   "t": "كل المغرب؛ وتختلف الوصفة من منطقة إلى أخرى ومن عائلة إلى أخرى (My Moroccan Food)"
+  },
+  "occasion": {
+   "fr": "Salade cuite du quotidien, servie en entrée ou à côté des plats principaux, avec du pain",
+   "t": "سلطة مطبوخة للأكل اليومي، تُقدَّم طبقًا أول أو بجانب الأطباق الرئيسية، مع الخبز"
+  },
+  "serving": {
+   "fr": "Sers le zaalouk tiède, froid ou à température ambiante (Taste of Maroc ; Choumicha : tiède ou froid ; Cooking With Alia : chaud ou froid, avec du pain). Il se mange en entrée (Morocco World News ; El Fenn) ou à côté des plats principaux, en le prenant avec du khobz, qui sert de couverts (Taste of Maroc). Arrose-le d'un filet d'huile d'olive et parsème-le de coriandre ou de persil (Taste of Maroc, My Moroccan Food). Fatéma Hal le sert avec des quartiers de citron et des olives noires.",
+   "t": "قدّم الزعلوك دافئًا أو باردًا أو في حرارة الغرفة (Taste of Maroc؛ Choumicha: دافئًا أو باردًا؛ Cooking With Alia: ساخنًا أو باردًا، مع الخبز). يؤكل طبقًا أول (Morocco World News؛ El Fenn) أو بجانب الأطباق الرئيسية، ويُتناول بخبز الدار الذي يقوم مقام أدوات الأكل (Taste of Maroc). رشّ عليه قليلًا من زيت الزيتون، وزيّنه بالكزبرة أو البقدونس (Taste of Maroc، My Moroccan Food). وتقدّمه Fatéma Hal مع أرباع الليمون والزيتون الأسود."
+  },
+  "ing.0.group": {
+   "fr": "Aubergines",
+   "t": "الباذنجان"
+  },
+  "ing.aubergines.name": {
+   "fr": "d'aubergines",
+   "t": "باذنجان"
+  },
+  "ing.aubergines.note": {
+   "fr": "entières, avec la peau et la queue",
+   "t": "حبات كاملة، بقشرتها وعنقها"
+  },
+  "ing.1.group": {
+   "fr": "Sauce tomate",
+   "t": "صلصة الطماطم"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "طماطم ناضجة جيدًا"
+  },
+  "ing.tomates.note": {
+   "fr": "tendres et bien rouges",
+   "t": "طرية وحمراء جيدًا"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "يُعدَّل بعد التذوّق"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة طازجة مفرومة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "ماء"
+  },
+  "ing.eau.note": {
+   "fr": "seulement si la sauce attache",
+   "t": "فقط إذا التصقت الصلصة بالقاع"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "اللمسة الأخيرة والتقديم"
+  },
+  "ing.citron-jus.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron-jus.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron-jus.note": {
+   "fr": "pour le jus",
+   "t": "لعصيرها"
+  },
+  "ing.citron-service.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron-service.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron-service.note": {
+   "fr": "en quartiers, pour servir",
+   "t": "مقطّعة إلى أرباع، للتقديم"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, pour servir",
+   "t": "رشّة، للتقديم"
+  },
+  "ing.herbes-service.name": {
+   "fr": "coriandre ou persil haché",
+   "t": "كزبرة أو بقدونس مفروم"
+  },
+  "ing.herbes-service.note": {
+   "fr": "pour décorer",
+   "t": "للتزيين"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour prendre le zaalouk",
+   "t": "لتناول الزعلوك به"
+  },
+  "equipment.0": {
+   "fr": "Gazinière ou gril (sinon, four avec fonction gril et plaque couverte de papier aluminium)",
+   "t": "موقد غاز أو شواية (وإلا ففرن بخاصية الشواء وصفيحة مغطاة بورق الألمنيوم)"
+  },
+  "equipment.1": {
+   "fr": "Sac en plastique propre",
+   "t": "كيس بلاستيكي نظيف"
+  },
+  "equipment.2": {
+   "fr": "Grande sauteuse profonde",
+   "t": "مقلاة كبيرة عميقة"
+  },
+  "equipment.3": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "equipment.4": {
+   "fr": "Grand saladier et fourchette",
+   "t": "وعاء سلطة كبير وشوكة"
+  },
+  "equipment.5": {
+   "fr": "Éplucheur à dents ou râpe, pour les tomates",
+   "t": "مقشّرة مسنّنة أو مبشرة، للطماطم"
+  },
+  "equipment.6": {
+   "fr": "Presse-ail, ou mortier et pilon",
+   "t": "هارسة ثوم، أو هاون ومدقة"
+  },
+  "steps.0.title": {
+   "fr": "Prépare tomates, ail et herbes",
+   "t": "حضّر الطماطم والثوم والأعشاب"
+  },
+  "steps.0.text": {
+   "fr": "Pèle {{tomates}} de tomates (un éplucheur à dents aide), épépine-les et coupe-les en tout petits dés. Plus simple : coupe-les en deux, râpe la chair et jette la peau. Pèle et écrase {{ail:full}} au presse-ail ou au pilon. Lave et hache finement la coriandre et le persil, et garde-en un peu pour servir.",
+   "t": "قشّر {{tomates}} من الطماطم (تساعدك المقشّرة المسنّنة)، وانزع بذورها، وقطّعها مكعبات صغيرة جدًا. والأسهل: اقسمها إلى نصفين، وابشر اللب، وتخلّص من القشرة. قشّر {{ail:full}}، ثم اهرس الثوم بالهارسة أو بالمدقة. اغسل الكزبرة والبقدونس وافرمهما ناعمًا، واحتفظ بقليل منهما للتقديم."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.1.title": {
+   "fr": "Grille les aubergines",
+   "t": "اشوِ الباذنجان"
+  },
+  "steps.1.text": {
+   "fr": "Pose {{aubergines}} d'aubergines entières, avec la peau et la queue, directement sur la flamme du gaz à feu moyen, ou sur un gril. Retourne-les de temps en temps, jusqu'à ce que la peau soit noircie partout et la chair très molle. Sans gaz : coupe-les en deux dans la longueur, pose-les peau vers le haut sur une plaque couverte d'aluminium et passe-les 20 à 25 minutes sous le gril du four, au plus près de la résistance.",
+   "t": "ضع {{aubergines}} من الباذنجان كاملًا، بقشرته وعنقه، مباشرة على لهب الغاز على نار متوسطة، أو على شواية. قلّبه من حين لآخر حتى تسودّ القشرة من كل جهة ويصير اللب طريًا جدًا. بدون غاز: اقسم الباذنجان إلى نصفين بالطول، وضعه والقشرة إلى الأعلى على صفيحة مغطاة بورق الألمنيوم، واتركه من 20 إلى 25 دقيقة تحت شواية الفرن، في أقرب موضع من عنصر التسخين."
+  },
+  "steps.1.timer.label": {
+   "fr": "Aubergines sur la flamme",
+   "t": "الباذنجان على اللهب"
+  },
+  "steps.1.timer.done": {
+   "fr": "Peau noircie partout et chair très molle ? Sinon, laisse-les encore quelques minutes en les retournant. Au four, compte 20 à 25 minutes en tout.",
+   "t": "هل اسودّت القشرة من كل جهة وصار اللب طريًا جدًا؟ وإلا فاتركه بضع دقائق أخرى مع تقليبه. وفي الفرن، احسب من 20 إلى 25 دقيقة في المجموع."
+  },
+  "steps.2.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "ضعه في كيس مغلق"
+  },
+  "steps.2.text": {
+   "fr": "Glisse les aubergines encore chaudes dans un sac en plastique, ferme-le et laisse-les tiédir pendant que tu fais la sauce. La peau brûlée s'enlèvera ensuite très facilement. Ne les passe pas sous l'eau : elles perdraient leur goût et la peau s'enlèverait moins bien.",
+   "t": "أدخل الباذنجان وهو ما يزال ساخنًا في كيس بلاستيكي، وأغلقه، واتركه يفتر بينما تحضّر الصلصة. بعد ذلك تُنزع القشرة المحروقة بسهولة كبيرة. لا تضعه تحت الماء: فسيفقد طعمه، ويصعب نزع قشرته."
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre les tomates en sauce",
+   "t": "اطبخ الطماطم حتى تصير صلصة"
+  },
+  "steps.3.text": {
+   "fr": "Dans une grande sauteuse profonde, à feu moyen, mets les tomates, l'ail, {{huile}} d'huile d'olive, {{paprika}} de paprika, {{cumin}} de cumin et {{sel}} de sel. Ajoute {{coriandre}} de coriandre et {{persil}} de persil hachés. Laisse cuire en remuant souvent, jusqu'à ce que les tomates fondent en une sauce épaisse. Si ça attache, ajoute un peu d'{{eau}}.",
+   "t": "في مقلاة كبيرة عميقة، على نار متوسطة، ضع الطماطم والثوم و{{huile}} من زيت الزيتون و{{paprika}} من الفلفل الأحمر الحلو و{{cumin}} من الكمون و{{sel}} من الملح. أضف {{coriandre}} من الكزبرة المفرومة و{{persil}} من البقدونس المفروم. اتركها تُطهى مع التحريك كثيرًا حتى تذوب الطماطم وتصير صلصة كثيفة. وإذا التصقت بالقاع، فأضف قليلًا من الماء."
+  },
+  "steps.3.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "صلصة الطماطم"
+  },
+  "steps.3.timer.done": {
+   "fr": "Les tomates doivent avoir fondu en une sauce épaisse. Sinon, prolonge de quelques minutes.",
+   "t": "يجب أن تكون الطماطم قد ذابت وصارت صلصة كثيفة. وإلا فمدّد الطهي بضع دقائق."
+  },
+  "steps.4.title": {
+   "fr": "Pèle et écrase les aubergines",
+   "t": "قشّر الباذنجان واهرسه"
+  },
+  "steps.4.text": {
+   "fr": "Sors les aubergines du sac. Gratte doucement la peau brûlée et coupe la queue ; pour des moitiés passées au four, récupère simplement la chair à la cuillère. Mets la chair dans un grand saladier et écrase-la à la fourchette jusqu'à obtenir une pâte.",
+   "t": "أخرج الباذنجان من الكيس. اكشط القشرة المحروقة برفق واقطع العنق؛ وإذا كانت أنصافًا مشوية في الفرن، فاستخرج اللب بالملعقة فقط. ضع اللب في وعاء سلطة كبير واهرسه بالشوكة حتى يصير عجينة."
+  },
+  "steps.5.title": {
+   "fr": "Fais réduire le zaalouk",
+   "t": "كثّف الزعلوك"
+  },
+  "steps.5.text": {
+   "fr": "Verse l'aubergine écrasée dans la sauce et mélange bien. Laisse cuire à feu moyen en remuant régulièrement et en raclant le fond, et écrase au dos de la cuillère les morceaux restés fermes. C'est prêt quand le mélange est épais et qu'il ne reste plus de jus.",
+   "t": "أضف الباذنجان المهروس إلى الصلصة واخلط جيدًا. اتركه يُطهى على نار متوسطة مع التحريك بانتظام وكشط القاع، واهرس بظهر الملعقة القطع التي بقيت متماسكة. يكون جاهزًا حين يصير الخليط كثيفًا ولا يبقى فيه عصير."
+  },
+  "steps.5.timer.label": {
+   "fr": "Réduction",
+   "t": "التكثيف"
+  },
+  "steps.5.timer.done": {
+   "fr": "Le zaalouk doit être épais, sans jus au fond. Sinon, prolonge en remuant ; baisse le feu s'il attache.",
+   "t": "يجب أن يكون الزعلوك كثيفًا، بلا عصير في القاع. وإلا فمدّد الطهي مع التحريك؛ واخفض النار إذا التصق."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute le citron",
+   "t": "أضف الليمون"
+  },
+  "steps.6.text": {
+   "fr": "Presse {{citron-jus:full}} et verse le jus dans le zaalouk. Mélange et laisse cuire encore 2 minutes. Goûte, rectifie le sel, puis retire du feu.",
+   "t": "اعصر {{citron-jus:full}} واسكب العصير في الزعلوك. اخلط واتركه يُطهى 2 دقيقة أخرى. تذوّق، وعدّل الملح، ثم ارفعه عن النار."
+  },
+  "steps.6.timer.label": {
+   "fr": "Citron",
+   "t": "الليمون"
+  },
+  "steps.6.timer.done": {
+   "fr": "Goûte, rectifie le sel et retire du feu.",
+   "t": "تذوّق، وعدّل الملح، وارفعه عن النار."
+  },
+  "steps.7.title": {
+   "fr": "Sers tiède ou froid",
+   "t": "قدّمه دافئًا أو باردًا"
+  },
+  "steps.7.text": {
+   "fr": "Étale le zaalouk dans un plat peu profond et sers-le tiède ou froid. Arrose d'un filet d'{{huile-service}} et parsème de {{herbes-service}}. Pose autour les quartiers de {{citron-service:full}}. Chacun le prend avec des morceaux de {{khobz}}, qui servent de couverts.",
+   "t": "افرد الزعلوك في طبق قليل العمق وقدّمه دافئًا أو باردًا. رشّ عليه قليلًا من {{huile-service}}، وزيّنه ب{{herbes-service}}. ضع حوله أرباع {{citron-service:full}}. يأخذه كل واحد بقطع من {{khobz}}، التي تقوم مقام أدوات الأكل."
+  },
+  "secrets.0.text": {
+   "fr": "Le zaalouk a le goût de la chermoula : cumin, paprika, ail, coriandre, persil et huile d'olive. Plus tu mets de tomates, plus il faut assaisonner.",
+   "t": "للزعلوك طعم الشرمولة: الكمون والفلفل الأحمر والثوم والكزبرة والبقدونس وزيت الزيتون. وكلما أكثرت من الطماطم، احتجت إلى تتبيل أكثر."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih, qui tient ce rapprochement de l'autrice culinaire marocaine Nada Kiffa) ; Choumicha assaisonne son zaalouk avec un mélange d'épices pour chermoula",
+   "t": "Taste of Maroc (Christine Benlafquih، التي أخذت هذه المقارنة عن الكاتبة المغربية في الطبخ Nada Kiffa)؛ وتتبّل Choumicha زعلوكها بخليط توابل الشرمولة"
+  },
+  "secrets.1.text": {
+   "fr": "Grille les aubergines entières jusqu'à ce que la peau soit noircie partout : c'est ce qui donne au zaalouk son goût fumé.",
+   "t": "اشوِ الباذنجان كاملًا حتى تسودّ قشرته من كل جهة: فهذا ما يمنح الزعلوك طعمه المدخّن."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking With Alia (zaalouk n° 689) ; Taste of Maroc",
+   "t": "Cooking With Alia (الزعلوك رقم 689)؛ Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Enferme les aubergines grillées quelques instants dans un sac en plastique : la peau brûlée s'enlève ensuite très facilement.",
+   "t": "ضع الباذنجان المشوي لحظات في كيس بلاستيكي مغلق: فتُنزع القشرة المحروقة بعدها بسهولة كبيرة."
+  },
+  "secrets.2.source": {
+   "fr": "Lalla Moulati, « الزعلوك بطريقة جديدة » (10 novembre 2014)",
+   "t": "Lalla Moulati، «الزعلوك بطريقة جديدة» (10 نونبر 2014)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne passe jamais les aubergines grillées sous l'eau : elles perdent leur saveur, et la peau s'enlève moins bien.",
+   "t": "لا تضع الباذنجان المشوي تحت الماء أبدًا: فهو يفقد نكهته، ويصعب نزع قشرته."
+  },
+  "secrets.3.source": {
+   "fr": "Lalla Moulati : « زعلوك بالدنجال مشوي » (13 août 2016) pour la saveur, « الزعلوك بطريقة جديدة » (2014) pour la peau",
+   "t": "Lalla Moulati: «زعلوك بالدنجال مشوي» (13 غشت 2016) للنكهة، و«الزعلوك بطريقة جديدة» (2014) للقشرة"
+  },
+  "secrets.4.text": {
+   "fr": "Choisis des tomates mûres, tendres et bien rouges : les tomates fermes fondent moins bien en sauce et peuvent être plus acides.",
+   "t": "اختر طماطم ناضجة وطرية وحمراء جيدًا: فالطماطم المتماسكة لا تذوب جيدًا في الصلصة، وقد تكون أكثر حموضة."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia, recette de Ch'hiwatine (tomates « super red »)",
+   "t": "Taste of Maroc؛ Cooking With Alia، وصفة Ch'hiwatine (طماطم «super red»)"
+  },
+  "secrets.5.text": {
+   "fr": "Fais d'abord fondre les tomates en sauce épaisse avec l'huile, l'ail, les épices et les herbes, et ajoute seulement ensuite l'aubergine.",
+   "t": "اطبخ الطماطم أولًا حتى تصير صلصة كثيفة مع الزيت والثوم والتوابل والأعشاب، ولا تضف الباذنجان إلا بعد ذلك."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (2014) ; Cooking With Alia (n° 689) ; Choumicha",
+   "t": "Taste of Maroc؛ Lalla Moulati (2014)؛ Cooking With Alia (رقم 689)؛ Choumicha"
+  },
+  "secrets.6.text": {
+   "fr": "Prends une grande sauteuse profonde plutôt qu'une petite casserole : avec plus de surface, le liquide s'évapore plus vite.",
+   "t": "استعمل مقلاة كبيرة عميقة بدل قدر صغير: فمع مساحة أكبر، يتبخّر السائل أسرع."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "La texture est une affaire de goût, du zaalouk en morceaux à la purée : écrase bien à la fourchette pour une pâte, moins pour garder des morceaux.",
+   "t": "القوام مسألة ذوق، من الزعلوك بقطعه إلى الزعلوك المهروس تمامًا: اهرسه جيدًا بالشوكة للحصول على عجينة، وأقل من ذلك للإبقاء على قطع."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati (2014, écrasé à la fourchette)",
+   "t": "Taste of Maroc؛ Lalla Moulati (2014، مهروس بالشوكة)"
+  },
+  "secrets.8.text": {
+   "fr": "Un peu de jus de citron en fin de cuisson réveille le goût. Fatéma Hal met le jus d'un demi-citron dans la poêle et sert l'autre moitié en quartiers.",
+   "t": "قليل من عصير الليمون في آخر الطهي يوقظ الطعم. تضع Fatéma Hal عصير نصف ليمونة في المقلاة، وتقدّم النصف الآخر مقطّعًا إلى أرباع."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Fatéma Hal (fiche recette Gaggenau)",
+   "t": "Taste of Maroc؛ Fatéma Hal (بطاقة وصفة Gaggenau)"
+  },
+  "secrets.9.text": {
+   "fr": "Trop acide ? Une toute petite pointe de sucre ou de miel corrige, mais vas-y doucement : mieux vaut un zaalouk un peu acide que trop sucré.",
+   "t": "حامض جدًا؟ قليل جدًا من السكر أو العسل يصلحه، لكن بحذر: زعلوك حامض قليلًا خير من زعلوك حلو جدًا."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "Le khobz sert de couverts : comme beaucoup de salades marocaines, le zaalouk se mange en le prenant avec des morceaux de pain.",
+   "t": "خبز الدار يقوم مقام أدوات الأكل: فمثل كثير من السلطات المغربية، يؤكل الزعلوك بقطع من الخبز."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Mets-le au réfrigérateur dans les 2 heures qui suivent la cuisson, dans une boîte fermée : il se garde ainsi 3 jours. Au congélateur, il se garde 2 à 3 mois. Décongèle-le au réfrigérateur, réchauffe-le à la poêle pour réduire l'excès de liquide, rectifie l'assaisonnement et ne le recongèle pas.",
+   "t": "ضعه في الثلاجة خلال 2 ساعة بعد الطهي، في علبة مغلقة: فيُحفظ هكذا 3 أيام. وفي المجمّد، يُحفظ من 2 إلى 3 أشهر. فكّ تجميده في الثلاجة، وسخّنه في المقلاة لتقليل السائل الزائد، وعدّل التتبيل، ولا تُعِد تجميده."
+  },
+  "secrets.11.source": {
+   "fr": "Anses (plats cuisinés maison : au réfrigérateur dans les 2 heures, à consommer dans les 3 jours, décongélation au réfrigérateur, pas de recongélation) ; My Moroccan Food (jusqu'à 4 jours) ; Taste of Maroc (2 à 3 mois au congélateur, réchauffage à la poêle)",
+   "t": "Anses (الأطباق المنزلية: في الثلاجة خلال 2 ساعة، وتؤكل خلال 3 أيام، ويُفكّ تجميدها في الثلاجة، ولا يُعاد تجميدها)؛ My Moroccan Food (حتى 4 أيام)؛ Taste of Maroc (من 2 إلى 3 أشهر في المجمّد، وإعادة التسخين في المقلاة)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les aubergines grillées sous l'eau : elles perdent leur goût et la peau s'enlève moins bien (Lalla Moulati).",
+   "t": "شطف الباذنجان المشوي تحت الماء: يفقد طعمه، ويصعب نزع قشرته (Lalla Moulati)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre des tomates fermes ou pas assez mûres : elles fondent moins bien et peuvent rendre le zaalouk acide (Taste of Maroc).",
+   "t": "اختيار طماطم متماسكة أو غير ناضجة بما يكفي: لا تذوب جيدًا، وقد تجعل الزعلوك حامضًا (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Arrêter la cuisson trop tôt : le zaalouk doit être épais, sans jus (Cooking With Alia, My Moroccan Food, Lalla Moulati).",
+   "t": "إيقاف الطهي قبل الأوان: يجب أن يكون الزعلوك كثيفًا، بلا عصير (Cooking With Alia، My Moroccan Food، Lalla Moulati)."
+  },
+  "mistakes.3": {
+   "fr": "Le laisser attacher : remue souvent, racle le fond et baisse le feu si besoin (Taste of Maroc, My Moroccan Food).",
+   "t": "تركه يلتصق: حرّك كثيرًا، واكشط القاع، واخفض النار إن لزم (Taste of Maroc، My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Forcer sur le citron : avec les tomates pas mûres, c'est ce qui rend un zaalouk trop acide (Taste of Maroc).",
+   "t": "الإكثار من الليمون: فهو، مع الطماطم غير الناضجة، ما يجعل الزعلوك حامضًا جدًا (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Rattraper l'acidité avec trop de sucre : mieux vaut un peu acide que trop sucré (Taste of Maroc).",
+   "t": "تدارك الحموضة بكثير من السكر: حامض قليلًا خير من حلو جدًا (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Croire que le paprika fumé ou l'ail rôti font partie de la recette traditionnelle : ni l'un ni l'autre n'est traditionnel, même si Christine Benlafquih trouve que le paprika fumé peut très bien aller dans le zaalouk et y ajoute parfois de l'ail rôti (Taste of Maroc).",
+   "t": "الاعتقاد بأن الفلفل الأحمر المدخّن أو الثوم المشوي من الوصفة التقليدية: ليس أيٌّ منهما تقليديًا، وإن كانت Christine Benlafquih ترى أن الفلفل الأحمر المدخّن يناسب الزعلوك جيدًا، وتضيف إليه أحيانًا الثوم المشوي (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Oublier de goûter à la fin pour rectifier le sel (Taste of Maroc, My Moroccan Food).",
+   "t": "نسيان التذوّق في النهاية لتعديل الملح (Taste of Maroc، My Moroccan Food)."
+  },
+  "variants.0": {
+   "fr": "Méthode familiale tout dans la marmite (la belle-mère de Christine Benlafquih, la mère de Nargisse Benkabbou) : aubergines pelées, en gardant si tu veux quelques bandes de peau pour la couleur, coupées et cuites avec les tomates, l'huile, l'ail, les épices et les herbes, plus un fond d'eau (¼ à ⅓ de tasse, soit environ 60 à 80 ml, chez Taste of Maroc ; pas d'eau chez My Moroccan Food), à couvert à feu moyen ou moyen-doux 25 à 35 minutes, puis à découvert en écrasant jusqu'à évaporation du liquide (Taste of Maroc ; My Moroccan Food).",
+   "t": "الطريقة العائلية، كل شيء في القدر (حماة Christine Benlafquih، ووالدة Nargisse Benkabbou): باذنجان مقشّر، مع الإبقاء إن شئت على بعض أشرطة القشرة من أجل اللون، يُقطَّع ويُطهى مع الطماطم والزيت والثوم والتوابل والأعشاب، وقليل من الماء (من ¼ إلى ⅓ كوب، أي نحو 60 إلى 80 مل، عند Taste of Maroc؛ وبلا ماء عند My Moroccan Food)، والقدر مغطّى على نار متوسطة أو متوسطة إلى هادئة من 25 إلى 35 دقيقة، ثم مكشوفًا مع الهرس حتى يتبخّر السائل (Taste of Maroc؛ My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Aubergines bouillies (Cooking With Alia, épisode 47) : pelées en entier ou à moitié, coupées en dés, cuites 20 à 30 minutes à l'eau salée, égouttées et pressées à la cuillère pour chasser toute l'eau, puis cuites 30 minutes à feu moyen avec les tomates, l'huile, l'ail et les épices en écrasant à la cuillère en bois ; 1 c. à c. de vinaigre dans les 5 dernières minutes.",
+   "t": "باذنجان مسلوق (Cooking With Alia، الحلقة 47): يُقشَّر كليًا أو جزئيًا، ويُقطَّع مكعبات، ويُسلق من 20 إلى 30 دقيقة في ماء مملّح، ثم يُصفّى ويُضغط بالملعقة لإخراج كل الماء، ثم يُطهى 30 دقيقة على نار متوسطة مع الطماطم والزيت والثوم والتوابل مع الهرس بالملعقة الخشبية؛ و1 ملعقة صغيرة من الخل في آخر 5 دقائق."
+  },
+  "variants.2": {
+   "fr": "Aubergines à la vapeur : citées par Taste of Maroc parmi les façons de faire, et par Fiona Dunlop (The North African Kitchen), qui présente la version vapeur d'une cuisinière, Aicha, comme plus légère. Méthode détaillée non lue.",
+   "t": "باذنجان مطهو على البخار: يذكره Taste of Maroc ضمن طرق التحضير، وتذكره Fiona Dunlop (The North African Kitchen) التي تقدّم نسخة البخار لطبّاخة اسمها Aicha على أنها أخف. لم نطّلع على الطريقة بالتفصيل."
+  },
+  "variants.3": {
+   "fr": "Aubergines frites (Choumicha) : rondelles de 1 cm salées et mises à dégorger, rincées, pressées et épongées, frites puis hachées grossièrement ; sauce de tomates pelées et épépinées avec 1 c. à thé de concentré de tomate, 10 cl d'eau, ail et épices pour chermoula, 8 à 10 minutes à couvert à feu doux ; aubergines ajoutées 3 minutes, puis coriandre. Fiona Dunlop présente la version frite comme la façon traditionnelle.",
+   "t": "باذنجان مقلي (Choumicha): شرائح دائرية بسمك 1 سم، تُملّح وتُترك لتُخرج ماءها، ثم تُشطف وتُعصر وتُجفّف، وتُقلى ثم تُفرم فرمًا خشنًا؛ وصلصة من الطماطم المقشّرة المنزوعة البذور مع 1 ملعقة صغيرة من مركز الطماطم، و10 سنتيلتر من الماء، والثوم، وتوابل الشرمولة، من 8 إلى 10 دقائق والقدر مغطّى على نار هادئة؛ ثم يُضاف الباذنجان 3 دقائق، ثم الكزبرة. وتقدّم Fiona Dunlop النسخة المقلية على أنها الطريقة التقليدية."
+  },
+  "variants.4": {
+   "fr": "Version de Ch'hiwatine (sur Cooking With Alia) : aubergines pelées en partie, coupées en tranches, salées et frites ; tomates réduites seules en pâte épaisse ; un demi-poivron rouge grillé, cumin, sel et ail ; 10 à 15 minutes en remuant sans arrêt.",
+   "t": "نسخة Ch'hiwatine (على Cooking With Alia): باذنجان مقشّر جزئيًا، مقطّع شرائح، مملّح ومقلي؛ وطماطم تُكثَّف وحدها حتى تصير عجينة كثيفة؛ ونصف فلفلة حمراء مشوية، وكمون، وملح، وثوم؛ من 10 إلى 15 دقيقة مع التحريك دون توقف."
+  },
+  "variants.5": {
+   "fr": "Au four (Fatéma Hal) : aubergines grillées une quarantaine de minutes sur une plaque au four, pelées, coupées en dés et écrasées, puis cuites 30 minutes à la poêle avec tous les autres ingrédients et le jus d'un demi-citron.",
+   "t": "في الفرن (Fatéma Hal): باذنجان يُشوى نحو أربعين دقيقة على صفيحة في الفرن، ثم يُقشَّر ويُقطَّع مكعبات ويُهرس، ثم يُطهى 30 دقيقة في المقلاة مع كل المكوّنات الأخرى وعصير نصف ليمونة."
+  },
+  "variants.6": {
+   "fr": "Vinaigre au lieu du citron : 1 c. à c. dans les 5 dernières minutes (Cooking With Alia, épisode 47), 1 c. à s. de vinaigre ou de jus de citron pendant 2 minutes (n° 689), ou un demi-verre ajouté hors du feu (Lalla Moulati, 2016).",
+   "t": "الخل بدل الليمون: 1 ملعقة صغيرة في آخر 5 دقائق (Cooking With Alia، الحلقة 47)، أو 1 ملعقة كبيرة من الخل أو عصير الليمون لمدة 2 دقيقة (رقم 689)، أو نصف كأس يُضاف بعيدًا عن النار (Lalla Moulati، 2016)."
+  },
+  "variants.7": {
+   "fr": "Un peu de piquant : Cayenne ou piments entiers au goût (Taste of Maroc), 1 c. à c. de piment moulu (Cooking With Alia, n° 689), ½ c. à c. de piment fort (Lalla Moulati, 2014).",
+   "t": "قليل من الحرارة: فلفل الكايين أو حبات فلفل حار كاملة حسب الذوق (Taste of Maroc)، أو 1 ملعقة صغيرة من الفلفل الحار المطحون (Cooking With Alia، رقم 689)، أو ½ ملعقة صغيرة من الفلفل الحار (Lalla Moulati، 2014)."
+  },
+  "variants.8": {
+   "fr": "Poivre noir : ¼ c. à c. (Cooking With Alia, épisode 47) ou ½ c. à c. (Fatéma Hal).",
+   "t": "الفلفل الأسود: ¼ ملعقة صغيرة (Cooking With Alia، الحلقة 47) أو ½ ملعقة صغيرة (Fatéma Hal)."
+  },
+  "variants.9": {
+   "fr": "Plus rouge et plus saucé : 2 à 3 tomates par aubergine, comme la belle-mère de Christine Benlafquih, ou une cuillerée de concentré de tomate (Taste of Maroc ; Choumicha).",
+   "t": "أكثر احمرارًا وأغنى بالصلصة: من 2 إلى 3 حبات طماطم لكل حبة باذنجان، كما تفعل حماة Christine Benlafquih، أو ملعقة من مركز الطماطم (Taste of Maroc؛ Choumicha)."
+  },
+  "variants.10": {
+   "fr": "Avec un ou deux poivrons grillés, à mi-chemin de la taktouka (Taste of Maroc), ou avec des courgettes et des poivrons rouges (My Moroccan Food).",
+   "t": "مع فلفلة أو فلفلتين مشويتين، فيصير في منزلة بين الزعلوك والتكتوكة (Taste of Maroc)، أو مع الكوسة والفلفل الأحمر الحلو (My Moroccan Food)."
+  },
+  "variants.11": {
+   "fr": "Zaalouk « à la nouvelle manière » : 100 g d'olives dénoyautées et un demi-citron confit, ajoutés après l'aubergine en continuant de remuer, puis cuisson jusqu'à ce que le zaalouk soit bien réduit (Lalla Moulati, 2014).",
+   "t": "زعلوك «بطريقة جديدة»: 100 غ من الزيتون المنزوع النوى ونصف ليمونة مخللة (الحامض المصيّر)، يُضافان بعد الباذنجان مع مواصلة التحريك، ثم يُطهى حتى يتكثّف الزعلوك جيدًا (Lalla Moulati، 2014)."
+  },
+  "variants.12": {
+   "fr": "Tomates râpées au lieu d'être pelées et coupées (Cooking With Alia, n° 689 ; Fiona Dunlop appelle la tomate râpée une technique marocaine classique).",
+   "t": "طماطم مبشورة بدل تقشيرها وتقطيعها (Cooking With Alia، رقم 689؛ وتعدّ Fiona Dunlop بشر الطماطم تقنية مغربية كلاسيكية)."
+  }
+ }
+}

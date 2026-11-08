@@ -210,14 +210,6 @@ window.RECETTES.push({
     "min": 10,
     "label": "Olives en boîte à blanchir",
     "done": "Égoutte les olives et mets-les de côté."
-   },
-   "img": {
-    "src": "img/etapes/oignon-emince.jpg",
-    "alt": "Oignon émincé et ail écrasé sur une planche",
-    "caption": "Émincer l'oignon",
-    "w": 1000,
-    "h": 750,
-    "credit": "Photo de l'étape « Prépare oignons, citron confit et olives » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
    }
   },
   {

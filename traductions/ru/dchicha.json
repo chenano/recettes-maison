@@ -1,0 +1,422 @@
+{
+ "_slug": "dchicha",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Dchicha, soupe d'orge à la tomate",
+   "t": "Дшиша, ячменный суп с томатами"
+  },
+  "darija": {
+   "fr": "Dchicha (h'ssoua hamra)",
+   "t": "Дшиша (хсуа хамра)"
+  },
+  "tagline": {
+   "fr": "L'orge concassée qui mijote avec tomates, oignon et persil : une soupe veloutée et rassasiante, pour le petit-déjeuner, le dîner ou le ftour.",
+   "t": "Дроблёный ячмень, томлённый с помидорами, луком и петрушкой: бархатистый сытный суп на завтрак, ужин или ифтар."
+  },
+  "region": {
+   "fr": "Dans beaucoup de foyers marocains ; la dchicha fait aussi partie du ftour des provinces du Sud",
+   "t": "Во многих марокканских семьях; дшиша входит и в ифтар южных провинций"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner ou dîner léger ; au ftour du Ramadan, parfois à la place de la harira",
+   "t": "Завтрак или лёгкий ужин; на ифтар в Рамадан — иногда вместо хариры"
+  },
+  "img_alt": {
+   "fr": "Soupe d'orge à la tomate dans la marmite",
+   "t": "Ячменный суп с томатами в кастрюле"
+  },
+  "serving": {
+   "fr": "Bien chaude, tout de suite, dans des bols, avec un filet d'huile d'olive si tu aimes (Choumicha ; MWN Lifestyle). Au petit-déjeuner ou en dîner léger (Taste of Maroc), et au ftour du Ramadan, parfois à la place de la harira (Lalla Moulati ; MWN Lifestyle ; Choumicha la classe dans ses recettes de Ramadan).",
+   "t": "Горячим, сразу же, в мисках, по желанию с тонкой струйкой оливкового масла (Choumicha; MWN Lifestyle). На завтрак или лёгкий ужин (Taste of Maroc) и на ифтар в Рамадан, иногда вместо хариры (Lalla Moulati; MWN Lifestyle; Choumicha относит его к своим рецептам для Рамадана)."
+  },
+  "ing.0.group": {
+   "fr": "Soupe",
+   "t": "Суп"
+  },
+  "ing.orge.name": {
+   "fr": "de dchicha d'orge (orge concassée)",
+   "t": "ячменной дшиши (дроблёного ячменя)"
+  },
+  "ing.orge.note": {
+   "fr": "grosse ou moyenne",
+   "t": "крупная или средняя"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "натереть на тёрке"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate bien mûre",
+   "t": "очень спелый помидор"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates bien mûres",
+   "t": "очень спелых помидора"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate bien mûre / tomates bien mûres",
+   "t": "очень спелых помидоров"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper, sans la peau",
+   "t": "натереть на тёрке, без кожицы"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "ou moitié persil, moitié coriandre",
+   "t": "или наполовину петрушка, наполовину кинза"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "в конце варки досолить по вкусу"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "томатной пасты"
+  },
+  "ing.concentre.note": {
+   "fr": "facultatif, pour la couleur",
+   "t": "по желанию, для цвета"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "eau chaude",
+   "t": "горячая вода"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "pour allonger, si besoin",
+   "t": "чтобы разбавить, если нужно"
+  },
+  "ing.1.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "оливковое масло"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, facultatif",
+   "t": "немного, по желанию"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite (3 litres au moins)",
+   "t": "Большая кастрюля (не меньше 3 литров)"
+  },
+  "equipment.1": {
+   "fr": "Grand saladier et passoire fine, pour laver l'orge",
+   "t": "Большая миска и мелкое сито, чтобы промыть ячмень"
+  },
+  "equipment.2": {
+   "fr": "Râpe",
+   "t": "Тёрка"
+  },
+  "equipment.3": {
+   "fr": "Planche et couteau",
+   "t": "Разделочная доска и нож"
+  },
+  "equipment.4": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "equipment.5": {
+   "fr": "Louche",
+   "t": "Половник"
+  },
+  "steps.0.title": {
+   "fr": "Lave l'orge",
+   "t": "Промойте ячмень"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{orge}} de dchicha dans un grand saladier d'eau et remue avec la main. Égoutte dans une passoire fine. Recommence jusqu'à ce que l'eau reste claire, puis laisse égoutter.",
+   "t": "Положите {{orge}} дшиши в большую миску с водой и перемешайте рукой. Откиньте на мелкое сито. Повторяйте, пока вода не станет прозрачной, затем дайте стечь."
+  },
+  "steps.0.tip": {
+   "fr": "La grosse dchicha garde des grains fermes sous la dent ; la moyenne donne une soupe plus fondante et cuit plus vite (Taste of Maroc).",
+   "t": "Крупная дшиша сохраняет упругие зёрна; средняя даёт более нежный суп и варится быстрее (Taste of Maroc)."
+  },
+  "steps.1.title": {
+   "fr": "Râpe l'oignon",
+   "t": "Натрите лук"
+  },
+  "steps.1.text": {
+   "fr": "Épluche et râpe finement {{oignon:full}}.",
+   "t": "Очистите и мелко натрите лук ({{oignon}} шт.)."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "Натрите помидоры"
+  },
+  "steps.2.text": {
+   "fr": "Râpe {{tomates:full}} côté chair et jette la peau.",
+   "t": "Натрите на тёрке {{tomates:full}} со стороны мякоти, кожицу выбросьте."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Помидор на тёрке"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "Измельчите зелень"
+  },
+  "steps.3.text": {
+   "fr": "Hache finement du persil plat : il en faut {{persil}} une fois haché. Tu peux mettre moitié persil, moitié coriandre.",
+   "t": "Мелко порубите петрушку: в рубленом виде её нужно {{persil}}. Можно взять наполовину петрушку, наполовину кинзу."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.4.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Обжарьте лук"
+  },
+  "steps.4.text": {
+   "fr": "Chauffe {{huile}} d'huile d'olive dans une grande marmite, sur feu moyen. Ajoute l'oignon râpé et remue jusqu'à ce qu'il devienne translucide.",
+   "t": "Разогрейте {{huile}} оливкового масла в большой кастрюле на среднем огне. Добавьте натёртый лук и помешивайте, пока он не станет прозрачным."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute tomates, herbes, épices et eau",
+   "t": "Добавьте помидоры, зелень, специи и воду"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute les tomates râpées, le persil, {{curcuma}} de curcuma, {{sel}} de sel et {{poivre}} de poivre. Verse {{eau}} d'eau et porte à ébullition sur feu vif.",
+   "t": "Добавьте натёртые помидоры, петрушку, {{curcuma}} куркумы, {{sel}} соли и {{poivre}} перца. Влейте {{eau}} воды и доведите до кипения на сильном огне."
+  },
+  "steps.6.title": {
+   "fr": "Verse l'orge",
+   "t": "Всыпьте ячмень"
+  },
+  "steps.6.text": {
+   "fr": "Dès que ça bout, verse l'orge égouttée en remuant. Si tu en mets, ajoute {{concentre}} de concentré de tomate. Baisse le feu.",
+   "t": "Как только закипит, всыпьте отцеженный ячмень, помешивая. По желанию добавьте {{concentre}} томатной пасты. Убавьте огонь."
+  },
+  "steps.7.title": {
+   "fr": "Laisse mijoter en remuant",
+   "t": "Варите на слабом огне, помешивая"
+  },
+  "steps.7.text": {
+   "fr": "Laisse cuire à feu doux 30 minutes, en remuant de temps en temps pour que l'orge n'attache pas au fond. Si la soupe épaissit trop, ajoute un peu d'{{eau-chaude}}.",
+   "t": "Варите на слабом огне 30 минут, время от времени помешивая, чтобы ячмень не пригорел ко дну. Если суп слишком загустеет, подлейте немного горячей воды."
+  },
+  "steps.7.tip": {
+   "fr": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "t": "Не давайте супу кипеть слишком сильно: он может убежать."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson de l'orge",
+   "t": "Варка ячменя"
+  },
+  "steps.7.timer.done": {
+   "fr": "Goûte quelques grains : ils doivent être tendres.",
+   "t": "Попробуйте несколько зёрен: они должны быть мягкими."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Проверьте готовность"
+  },
+  "steps.8.text": {
+   "fr": "Goûte quelques grains : ils doivent être tendres, et la soupe veloutée, à peine épaisse. Sinon, prolonge la cuisson en remuant et goûte de nouveau : la grosse dchicha cuit plus longtemps. Rectifie le sel.",
+   "t": "Попробуйте несколько зёрен: они должны быть мягкими, а суп — бархатистым, чуть густым. Если нет, продолжайте варить, помешивая, и снова попробуйте: крупная дшиша варится дольше. Досолите по вкусу."
+  },
+  "steps.9.title": {
+   "fr": "Sers aussitôt",
+   "t": "Сразу подавайте"
+  },
+  "steps.9.text": {
+   "fr": "Sers la soupe tout de suite, bien chaude, avec un filet d'{{huile-service}} si tu aimes. En attendant, l'orge continue de gonfler et la soupe épaissit.",
+   "t": "Подавайте суп сразу, горячим, по желанию с тонкой струйкой оливкового масла. Если суп постоит, ячмень продолжит набухать, и суп загустеет."
+  },
+  "secrets.0.text": {
+   "fr": "Lave la dchicha dans plusieurs eaux, jusqu'à ce que l'eau ne soit plus trouble, puis égoutte-la.",
+   "t": "Промывайте дшишу в нескольких водах, пока вода не перестанет быть мутной, затем откиньте её."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Lalla Moulati",
+   "t": "Taste of Maroc, Choumicha и Lalla Moulati"
+  },
+  "secrets.1.text": {
+   "fr": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
+   "t": "Крупный дроблёный ячмень, «дшиша», сохраняет упругие зёрна; средний (бельбула) даёт более нежный суп. Крупный варится дольше и требует чуть больше воды."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne",
+   "t": "Taste of Maroc; Choumicha берёт ячменную крупку среднего помола"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe l'oignon et les tomates, et jette la peau des tomates.",
+   "t": "Натрите лук и помидоры на тёрке, а кожицу помидоров выбросьте."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Cooking with Alia",
+   "t": "Choumicha, Taste of Maroc и Cooking with Alia"
+  },
+  "secrets.3.text": {
+   "fr": "Verse l'orge quand le bouillon bout.",
+   "t": "Всыпайте ячмень, когда бульон кипит."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha (h'ssoua hamra et h'ssoua aux crevettes) ; Lalla Moulati (2016) fait d'abord bouillir l'eau avec les aromates",
+   "t": "Choumicha (хсуа хамра и хсуа с креветками); Lalla Moulati (2016) сначала кипятит воду с ароматными добавками"
+  },
+  "secrets.4.text": {
+   "fr": "Remue de temps en temps et rajoute de l'eau si elle baisse : l'orge attache au fond et peut brûler.",
+   "t": "Время от времени помешивайте и подливайте воду, если её становится меньше: ячмень прилипает ко дну и может пригореть."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati (2016) ; Choumicha ; Cooking with Alia ; Taste of Maroc",
+   "t": "Lalla Moulati (2016), Choumicha, Cooking with Alia и Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "t": "Не давайте супу кипеть слишком сильно: он может убежать."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Choumicha cuit à feu doux",
+   "t": "Taste of Maroc; Choumicha варит на слабом огне"
+  },
+  "secrets.6.text": {
+   "fr": "Le concentré de tomate est facultatif, mais il donne une belle couleur et plus de goût de tomate.",
+   "t": "Томатная паста не обязательна, но она даёт красивый цвет и более выраженный томатный вкус."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Choumicha et Cooking with Alia en mettent",
+   "t": "Taste of Maroc; Choumicha и Cooking with Alia её добавляют"
+  },
+  "secrets.7.text": {
+   "fr": "Pour les herbes : persil seul, ou persil et coriandre.",
+   "t": "Зелень: только петрушка или петрушка с кинзой."
+  },
+  "secrets.7.source": {
+   "fr": "Persil : Taste of Maroc, Choumicha ; persil et coriandre : Choumicha (h'ssoua aux crevettes), Cooking with Alia",
+   "t": "Петрушка: Taste of Maroc, Choumicha; петрушка и кинза: Choumicha (хсуа с креветками), Cooking with Alia"
+  },
+  "secrets.8.text": {
+   "fr": "Sers la soupe dès qu'elle est prête : en attendant, l'orge gonfle et la soupe épaissit.",
+   "t": "Подавайте суп, как только он готов: пока он стоит, ячмень набухает, и суп густеет."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Choumicha (« servir la h'ssoua aussitôt »)",
+   "t": "Taste of Maroc; Choumicha («подавать хсуа сразу»)"
+  },
+  "secrets.9.text": {
+   "fr": "Un filet d'huile d'olive sur chaque bol, au moment de servir.",
+   "t": "Тонкая струйка оливкового масла в каждую миску при подаче."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (soupes d'orge au thym) ; MWN Lifestyle (dchicha)",
+   "t": "Choumicha (ячменные супы с тимьяном); MWN Lifestyle (дшиша)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour réchauffer, allonge avec un peu d'eau, rectifie l'assaisonnement et porte à ébullition en remuant.",
+   "t": "Чтобы разогреть, разбавьте суп небольшим количеством воды, поправьте приправы и доведите до кипения, помешивая."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)",
+   "t": "Taste of Maroc; USDA (супы разогревают до активного кипения)"
+  },
+  "secrets.11.text": {
+   "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées, et mange-les dans les 3 jours.",
+   "t": "Уберите остатки в холодильник в течение 2 часов, в небольших закрытых контейнерах, и съешьте их в течение 3 дней."
+  },
+  "secrets.11.source": {
+   "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours)",
+   "t": "ANSES (2 часа, 3 дня, небольшие порции); USDA (2 часа, 3–4 дня)"
+  },
+  "mistakes.0": {
+   "fr": "Ne pas laver l'orge (Taste of Maroc, Choumicha et Lalla Moulati la lavent toujours).",
+   "t": "Не промывать ячмень (Taste of Maroc, Choumicha и Lalla Moulati всегда его промывают)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser cuire sans remuer : l'orge attache et brûle au fond (Lalla Moulati ; Cooking with Alia).",
+   "t": "Варить, не помешивая: ячмень прилипает и пригорает ко дну (Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Cuire à feu trop fort : la soupe déborde (Taste of Maroc).",
+   "t": "Варить на слишком сильном огне: суп убегает (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Faire attendre la soupe avant de servir : elle devient trop épaisse (Taste of Maroc ; Choumicha).",
+   "t": "Давать супу постоять перед подачей: он становится слишком густым (Taste of Maroc; Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Réchauffer sans rajouter d'eau (Taste of Maroc).",
+   "t": "Разогревать, не добавив воды (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов (ANSES; USDA)."
+  },
+  "variants.0": {
+   "fr": "Au lait, la h'ssoua belboula au lait (« hessoua blanche » chez Cooking with Alia) : l'orge cuit d'abord dans l'eau avec un peu d'huile d'olive, du sel, du poivre et du cumin, en remuant ; on ajoute le lait à la fin et on laisse cuire encore un peu. Lalla Moulati (2014) : 250 g d'orge, 1,5 l d'eau, 2 c. à s. d'huile, 30 min de cuisson avec du thym ajouté à mi-cuisson, puis 1/4 l de lait et 10 min. Cooking with Alia : lait ajouté après 15 min, puis 10 min, thym séché émietté dessus. Taste of Maroc : 30 à 40 min, puis lait, beurre et lait concentré non sucré, cumin au service.",
+   "t": "На молоке — хсуа бельбула на молоке («белая хсуа» у Cooking with Alia): ячмень сначала варят в воде с небольшим количеством оливкового масла, солью, перцем и кумином, помешивая; в конце добавляют молоко и варят ещё немного. Lalla Moulati (2014): 250 г ячменя, 1,5 л воды, 2 ст. л. масла, 30 мин варки, тимьян добавляют на середине варки, затем 1/4 л молока и 10 мин. Cooking with Alia: молоко добавляют через 15 мин, затем 10 мин, сверху раскрошенный сушёный тимьян. Taste of Maroc: 30–40 мин, затем молоко, сливочное масло и несладкое сгущённое молоко, кумин при подаче."
+  },
+  "variants.1": {
+   "fr": "Avec un peu de viande halal : fais revenir de l'agneau ou du bœuf en petits dés avec l'oignon, puis laisse cuire le bouillon 15 à 20 minutes avant d'ajouter l'orge (Taste of Maroc : 85 g pour 4). Choumicha met 250 g de poitrine d'agneau pour 6, revenue 5 minutes.",
+   "t": "С небольшим количеством халяльного мяса: обжарьте мелкие кубики баранины или говядины вместе с луком, затем варите бульон 15–20 минут, прежде чем добавить ячмень (Taste of Maroc: 85 г на 4 человек). Choumicha кладёт 250 г бараньей грудинки на 6 человек и обжаривает её 5 минут."
+  },
+  "variants.2": {
+   "fr": "Aux crevettes : Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur). Garde les crevettes dans la partie la plus froide du réfrigérateur jusqu'à la cuisson, comme l'ANSES le recommande pour les viandes et les poissons.",
+   "t": "С креветками: Choumicha варит бульон из голов и панцирей, обжаривает креветки 1 минуту в масле и откладывает их, добавляет лавровый лист, хариссу, петрушку и кинзу, а затем возвращает креветки в горячий суп прямо перед подачей. Держите их в супе, пока мякоть не станет плотной, перламутровой и непрозрачной (FDA: 63 °C внутри). До приготовления храните креветки в самой холодной части холодильника, как ANSES рекомендует для мяса и рыбы."
+  },
+  "variants.3": {
+   "fr": "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet.",
+   "t": "С травами, без помидоров: воду кипятят 10 минут с тимьяном, флиу (мятой болотной), сельдереем, чесноком в шелухе, имбирём и куркумой, затем всыпают дшишу (Lalla Moulati, 2016). Choumicha готовит ячменный суп с тимьяном и чесноком, с чернушкой (нигеллой) и семенами кресс-салата или с небольшим количеством пшена."
+  },
+  "variants.4": {
+   "fr": "Aux légumes : navet, carottes, courgettes, chou et tomates, au ftour à la place de la harira (Lalla Moulati, 2020).",
+   "t": "С овощами: репа, морковь, кабачки, капуста и помидоры — на ифтар вместо хариры (Lalla Moulati, 2020)."
+  },
+  "variants.5": {
+   "fr": "Plus relevée : Taste of Maroc ajoute 1 c. à c. de gingembre moulu pour 4 ; Lalla Moulati en met aussi dans sa dchicha aux herbes.",
+   "t": "Поострее: Taste of Maroc добавляет 1 ч. л. молотого имбиря на 4 человек; Lalla Moulati тоже кладёт его в свою дшишу с травами."
+  },
+  "variants.6": {
+   "fr": "Tchicha de blé : à Ouarzazate, la tchicha est une soupe de blé (Hespress, 2021).",
+   "t": "Пшеничная тшиша: в Уарзазате тшиша — это суп из пшеницы (Hespress, 2021)."
+  }
+ }
+}

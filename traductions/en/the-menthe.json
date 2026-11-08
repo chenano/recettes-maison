@@ -1,0 +1,326 @@
+{
+ "_slug": "the-menthe",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Thé à la menthe marocain",
+   "t": "Moroccan mint tea"
+  },
+  "darija": {
+   "fr": "Atay b nanaa",
+   "t": "Atay b nanaa"
+  },
+  "tagline": {
+   "fr": "Le thé vert à la menthe des familles marocaines : on garde le premier jet, on rince le thé, puis on le verse de haut pour la mousse.",
+   "t": "The green mint tea of Moroccan families: you keep the first infusion, rinse the tea, then pour it from a height for the foam."
+  },
+  "region": {
+   "fr": "Tout le Maroc (boisson nationale) ; les herbes changent avec les saisons.",
+   "t": "All over Morocco (the national drink); the herbs change with the seasons."
+  },
+  "occasion": {
+   "fr": "Tous les jours, à toute heure : c'est la boisson de l'hospitalité, la première chose qu'on prépare pour accueillir un invité.",
+   "t": "Every day, at any time: it is the drink of hospitality, the first thing you make to welcome a guest."
+  },
+  "img_alt": {
+   "fr": "Théières marocaines et verre de thé à la menthe sur un plateau",
+   "t": "Moroccan teapots and a glass of mint tea on a tray"
+  },
+  "serving": {
+   "fr": "Sers très chaud, dans de petits verres et non dans des tasses, posés sur un plateau (sinia) autour de la théière (berrad) ; prévois plus de verres que d'invités. Traditionnellement, c'est le maître de maison qui prépare le thé devant ses invités. Les feuilles restent dans la théière : on sert au moins trois verres, chacun plus fort que le précédent ; un dicton dit que le premier est doux comme la vie, le deuxième fort comme l'amour, le dernier amer comme la mort ; il en existe une autre version, où le premier est amer comme la vie et le dernier apaisant comme la mort. Pour plus d'arôme, glisse un peu de menthe fraîche dans chaque verre. Avec des cornes de gazelle, des ghriba ou des briouates aux amandes, ou simplement du pain et des olives.",
+   "t": "Serve very hot, in small glasses rather than cups, set on a tray (sinia) around the teapot (berrad); have more glasses than guests. Traditionally, it is the master of the house who makes the tea in front of his guests. The leaves stay in the teapot: at least three glasses are served, each stronger than the last; a saying goes that the first is gentle as life, the second strong as love, the last bitter as death; there is another version, in which the first is bitter as life and the last soothing as death. For more aroma, slip a little fresh mint into each glass. With gazelle horns, ghriba or almond briouats, or simply bread and olives."
+  },
+  "pairs_label": {
+   "fr": "Avec le thé",
+   "t": "With the tea"
+  },
+  "ing.0.group": {
+   "fr": "Thé à la menthe",
+   "t": "Mint tea"
+  },
+  "ing.the.name": {
+   "fr": "de thé vert de Chine gunpowder",
+   "t": "Chinese gunpowder green tea"
+  },
+  "ing.the.note": {
+   "fr": "bien remplie ; thé roulé en petits grains. À défaut, du chunmee",
+   "t": "heaped; tea rolled into small pellets. If you can't find it, chunmee"
+  },
+  "ing.menthe.name": {
+   "fr": "de menthe fraîche (nanaa)",
+   "t": "fresh mint (nanaa)"
+  },
+  "ing.menthe.note": {
+   "fr": "une grosse botte de menthe verte, tiges comprises",
+   "t": "a large bunch of spearmint, stalks included"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "sugar"
+  },
+  "ing.sucre.note": {
+   "fr": "idéalement en morceaux cassés d'un pain de sucre ; à ajuster après avoir goûté",
+   "t": "ideally pieces broken off a sugar loaf; adjust after tasting"
+  },
+  "ing.1.group": {
+   "fr": "Eau bouillante",
+   "t": "Boiling water"
+  },
+  "ing.eau-premier-jet.name": {
+   "fr": "d'eau bouillante, pour le premier jet",
+   "t": "boiling water, for the first infusion"
+  },
+  "ing.eau-rincage.name": {
+   "fr": "d'eau bouillante, pour rincer le thé",
+   "t": "boiling water, for rinsing the tea"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau bouillante, pour remplir la théière",
+   "t": "boiling water, for filling the teapot"
+  },
+  "ing.eau.note": {
+   "fr": "selon ta théière : environ aux trois quarts, jamais jusqu'au bord",
+   "t": "depending on your teapot: about three quarters full, never to the brim"
+  },
+  "equipment.0": {
+   "fr": "Théière marocaine (berrad) qui supporte le feu, ou une bouilloire qui va sur le feu",
+   "t": "Moroccan teapot (berrad) that can go on the hob, or a stovetop kettle"
+  },
+  "equipment.1": {
+   "fr": "Bouilloire pour faire bouillir l'eau",
+   "t": "Kettle for boiling the water"
+  },
+  "equipment.2": {
+   "fr": "Petits verres à thé, plus un verre pour garder le premier jet",
+   "t": "Small tea glasses, plus one glass to hold the first infusion"
+  },
+  "equipment.3": {
+   "fr": "Plateau (sinia)",
+   "t": "Tray (sinia)"
+  },
+  "equipment.4": {
+   "fr": "Torchon en coton pour tenir l'anse brûlante",
+   "t": "Cotton tea towel to hold the hot handle"
+  },
+  "equipment.5": {
+   "fr": "Petite passoire, si tu prépares le thé dans une bouilloire",
+   "t": "Small strainer, if you make the tea in a kettle"
+  },
+  "equipment.6": {
+   "fr": "Petit marteau pour casser le pain de sucre (facultatif)",
+   "t": "Small hammer to break the sugar loaf (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Fais bouillir l'eau et lave la menthe",
+   "t": "Boil the water and wash the mint"
+  },
+  "steps.0.text": {
+   "fr": "Fais bouillir toute l'eau de la liste dans une bouilloire. Pendant ce temps, lave délicatement {{menthe}} de menthe et égoutte-la.",
+   "t": "Boil all the water in the list in a kettle. Meanwhile, gently wash {{menthe}} of mint and drain it."
+  },
+  "steps.1.title": {
+   "fr": "Le premier jet : garde l'esprit du thé",
+   "t": "The first infusion: keep the spirit of the tea"
+  },
+  "steps.1.text": {
+   "fr": "Mets {{the}} de thé vert dans la théière et verse dessus {{eau-premier-jet}} d'eau bouillante. Laisse infuser 1 minute, puis verse ce premier jet dans un verre et garde-le de côté : c'est l'esprit du thé, ne le jette pas.",
+   "t": "Put {{the}} of green tea in the teapot and pour {{eau-premier-jet}} of boiling water over it. Leave to infuse for 1 minute, then pour this first infusion into a glass and set it aside: it is the spirit of the tea, so don't throw it away."
+  },
+  "steps.1.timer.label": {
+   "fr": "Premier jet",
+   "t": "First infusion"
+  },
+  "steps.1.timer.done": {
+   "fr": "Verse le premier jet dans un verre et garde-le.",
+   "t": "Pour the first infusion into a glass and keep it."
+  },
+  "steps.2.title": {
+   "fr": "Rince le thé et jette cette eau",
+   "t": "Rinse the tea and throw away this water"
+  },
+  "steps.2.text": {
+   "fr": "Verse {{eau-rincage}} d'eau bouillante sur les feuilles et fais tourner la théière deux ou trois fois. Jette cette eau, plus foncée, par le bec : elle emporte l'amertume et la poussière, et les feuilles restent dans la théière.",
+   "t": "Pour {{eau-rincage}} of boiling water over the leaves and swirl the teapot two or three times. Pour this darker water away through the spout: it takes away the bitterness and the dust, and the leaves stay in the teapot."
+  },
+  "steps.3.title": {
+   "fr": "Ajoute la menthe, le sucre et le premier jet",
+   "t": "Add the mint, sugar and first infusion"
+  },
+  "steps.3.text": {
+   "fr": "Tasse la menthe dans la théière, tiges comprises, et ajoute {{sucre}} de sucre. Reverse le premier jet, puis complète avec {{eau}} d'eau bouillante, sans remplir jusqu'au bord. La menthe doit être entièrement sous l'eau.",
+   "t": "Pack the mint into the teapot, stalks included, and add {{sucre}} of sugar. Pour the first infusion back in, then top up with {{eau}} of boiling water, without filling to the brim. The mint must be completely under the water."
+  },
+  "steps.4.title": {
+   "fr": "Porte doucement à ébullition",
+   "t": "Bring gently to the boil"
+  },
+  "steps.4.text": {
+   "fr": "Pose la théière sur feu doux à moyen et laisse-la monter lentement jusqu'à l'ébullition : de la vapeur s'échappe de la théière. Retire-la aussitôt du feu, en tenant l'anse avec un torchon, car elle est brûlante.",
+   "t": "Put the teapot over low to medium heat and let it slowly come to the boil: steam escapes from the teapot. Take it off the heat straight away, holding the handle with a tea towel, as it is scalding hot."
+  },
+  "steps.5.title": {
+   "fr": "Mélange en versant et reversant",
+   "t": "Mix by pouring out and pouring back"
+  },
+  "steps.5.text": {
+   "fr": "Remplis un verre de thé et reverse-le dans la théière. Recommence 2 ou 3 fois : le sucre fond et les saveurs se mélangent.",
+   "t": "Fill a glass with tea and pour it back into the teapot. Repeat 2 or 3 times: the sugar dissolves and the flavours blend."
+  },
+  "steps.6.title": {
+   "fr": "Goûte et rectifie le sucre",
+   "t": "Taste and adjust the sugar"
+  },
+  "steps.6.text": {
+   "fr": "Verse un fond de verre et goûte. S'il manque du sucre, ajoutes-en, puis refais un aller-retour entre le verre et la théière.",
+   "t": "Pour a little into the bottom of a glass and taste. If it needs more sugar, add some, then pour a glass and tip it back into the teapot once more."
+  },
+  "steps.7.title": {
+   "fr": "Sers de haut pour la mousse",
+   "t": "Pour from a height for the foam"
+  },
+  "steps.7.text": {
+   "fr": "Verse le thé dans les petits verres en levant haut la théière, d'un geste régulier : plus tu verses de haut, plus il mousse. Cette mousse doit occuper environ un quart du verre. Sers très chaud.",
+   "t": "Pour the tea into the small glasses, raising the teapot high in a steady movement: the higher you pour from, the more it foams. This foam should take up about a quarter of the glass. Serve very hot."
+  },
+  "steps.7.img.alt": {
+   "fr": "Homme qui verse le thé de haut dans les verres",
+   "t": "Man pouring tea into glasses from a height"
+  },
+  "steps.7.img.caption": {
+   "fr": "Verser de haut",
+   "t": "Pouring from a height"
+  },
+  "secrets.0.text": {
+   "fr": "Garde le premier jet : cette première eau, versée sur le thé et laissée 1 minute, est « l'esprit du thé », la plus parfumée. Mets-la de côté dans un verre, elle retourne ensuite dans la théière.",
+   "t": "Keep the first infusion: this first water, poured over the tea and left for 1 minute, is “the spirit of the tea”, the most fragrant part. Set it aside in a glass; it goes back into the teapot later."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking with Alia (« spirit of the tea », nom employé au Maroc selon elle) ; My Moroccan Food (« essence », « ne la jette pas ») ; Royal Mansour (« premier essentiel retenu »)",
+   "t": "Cooking with Alia (“spirit of the tea”, the name used in Morocco according to her); My Moroccan Food (“essence”, “don't throw it away”); Royal Mansour (“premier essentiel retenu”: the first essential, kept back)"
+  },
+  "secrets.1.text": {
+   "fr": "C'est la deuxième eau, celle du rinçage, qu'on jette : elle lave les feuilles, retire une partie de l'amertume et la poussière, et ressort plus foncée.",
+   "t": "It is the second water, the rinsing water, that you throw away: it washes the leaves, removes some of the bitterness and the dust, and comes out darker."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia, My Moroccan Food et Royal Mansour (deuxième eau jetée, plus foncée chez Alia) ; Al Jazeera (Hend Aklaw) et Moroccan Zest (le rinçage retire l'amertume, les goûts forts et la poussière)",
+   "t": "Cooking with Alia, My Moroccan Food and Royal Mansour (second water thrown away, darker according to Alia); Al Jazeera (Hend Aklaw) and Moroccan Zest (rinsing removes bitterness, strong flavours and dust)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le thé monter doucement à ébullition, sur feu doux à moyen : c'est ce qui donne au thé et à la menthe le temps d'infuser.",
+   "t": "Let the tea come slowly to the boil over low to medium heat: this is what gives the tea and mint time to infuse."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Cooking with Alia ; Morocco World News",
+   "t": "My Moroccan Food; Cooking with Alia; Morocco World News"
+  },
+  "secrets.3.text": {
+   "fr": "Sois généreux avec la menthe et tasse-la, en pliant les tiges s'il le faut, mais garde-la sous l'eau : à l'air, elle peut rendre le thé amer.",
+   "t": "Be generous with the mint and pack it in, folding the stalks if necessary, but keep it under the water: exposed to the air, it can make the tea bitter."
+  },
+  "secrets.3.source": {
+   "fr": "Moroccan Zest",
+   "t": "Moroccan Zest"
+  },
+  "secrets.4.text": {
+   "fr": "Mélange en versant un verre de thé et en le reversant dans la théière, plusieurs fois, puis goûte et rectifie le sucre avant de servir.",
+   "t": "Mix by pouring a glass of tea and tipping it back into the teapot several times, then taste and adjust the sugar before serving."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking with Alia (2 à 3 fois) ; Al Jazeera (3 ou 4 verres, on goûte puis on ajoute du sucre)",
+   "t": "Cooking with Alia (2 to 3 times); Al Jazeera (3 or 4 glasses; you taste, then add sugar)"
+  },
+  "secrets.5.text": {
+   "fr": "Verse de haut : plus la théière est haute, plus il y a de mousse. Cette mousse occupe environ un quart du verre ; le chroniqueur marocain Najib Refaif la compare, en plaisantant, à une « rozza » (un turban).",
+   "t": "Pour from a height: the higher the teapot, the more foam there is. This foam takes up about a quarter of the glass; the Moroccan columnist Najib Refaif jokingly compares it to a “rozza” (a turban)."
+  },
+  "secrets.5.source": {
+   "fr": "La Vie Éco (Najib Refaif, pour l'image de la « rozza ») ; Moroccan Zest ; Al Jazeera ; Cooking with Alia",
+   "t": "La Vie Éco (Najib Refaif, for the image of the “rozza”); Moroccan Zest; Al Jazeera; Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Le sucre vient d'un pain de sucre, cassé au petit marteau ou avec le fond d'un verre ; les connaisseurs le préfèrent aux briques de sucre.",
+   "t": "The sugar comes from a sugar loaf, broken with a small hammer or with the bottom of a glass; connoisseurs prefer it to boxed sugar cubes."
+  },
+  "secrets.6.source": {
+   "fr": "Maroc.ma (dépêche MAP) ; Morocco World News",
+   "t": "Maroc.ma (MAP news agency report); Morocco World News"
+  },
+  "secrets.7.text": {
+   "fr": "Le thé se prépare devant les invités, traditionnellement par le maître de maison, avec plus de verres que d'invités sur le plateau.",
+   "t": "The tea is made in front of the guests, traditionally by the master of the house, with more glasses than guests on the tray."
+  },
+  "secrets.7.source": {
+   "fr": "Royal Mansour ; Al Jazeera ; Moroccan Zest",
+   "t": "Royal Mansour; Al Jazeera; Moroccan Zest"
+  },
+  "secrets.8.text": {
+   "fr": "La base est un thé vert de Chine roulé en petits grains, le gunpowder.",
+   "t": "The base is a Chinese green tea rolled into small pellets: gunpowder."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Moroccan Zest ; Morocco World News ; Maroc.ma (« souvent de type Gunpowder »)",
+   "t": "My Moroccan Food; Moroccan Zest; Morocco World News; Maroc.ma (“often of the Gunpowder type”)"
+  },
+  "mistakes.0": {
+   "fr": "Jeter le premier jet : c'est l'esprit du thé, il doit retourner dans la théière.",
+   "t": "Throwing away the first infusion: it is the spirit of the tea and must go back into the teapot."
+  },
+  "mistakes.1": {
+   "fr": "Oublier le rinçage : le thé reste amer et garde sa poussière.",
+   "t": "Skipping the rinse: the tea stays bitter and keeps its dust."
+  },
+  "mistakes.2": {
+   "fr": "Laisser des tiges de menthe hors de l'eau : le thé peut devenir amer.",
+   "t": "Leaving mint stalks sticking out of the water: the tea can turn bitter."
+  },
+  "mistakes.3": {
+   "fr": "Remplir la théière jusqu'au bord : laisse environ 2,5 cm de vide.",
+   "t": "Filling the teapot to the brim: leave about 2.5 cm of space."
+  },
+  "mistakes.4": {
+   "fr": "Chauffer à feu vif : le thé doit monter doucement à ébullition.",
+   "t": "Heating over high heat: the tea should come slowly to the boil."
+  },
+  "mistakes.5": {
+   "fr": "Laisser bouillir longtemps : plus le thé bout, plus il est fort et chargé en caféine.",
+   "t": "Letting it boil for a long time: the longer the tea boils, the stronger and more caffeine-laden it becomes."
+  },
+  "mistakes.6": {
+   "fr": "Servir dans des tasses : le thé marocain se boit dans de petits verres.",
+   "t": "Serving in cups: Moroccan tea is drunk from small glasses."
+  },
+  "mistakes.7": {
+   "fr": "Verser de trop près : c'est la hauteur qui fait la mousse.",
+   "t": "Pouring from too low: it is the height that makes the foam."
+  },
+  "variants.0": {
+   "fr": "Chiba (absinthe, la plante) en hiver : d'octobre à avril, elle remplace la menthe quand il fait froid et que la menthe est moins bonne ; dans les cafés, on la sert à part et chacun l'ajoute dans son verre. Goût nettement plus amer. Mets-en peu : l'absinthe contient de la thuyone, réputée neurotoxique ; l'Agence européenne des médicaments la réserve aux adultes et la déconseille pendant la grossesse et l'allaitement, ainsi qu'en cas de maladie du foie ou des voies biliaires ou d'allergie aux astéracées — Hespress (dépêche Anadolu) ; Agence européenne des médicaments ; aussi Al Jazeera, Moroccan Zest, Morocco World News, Wikipédia.",
+   "t": "Chiba (wormwood, the plant) in winter: from October to April, it replaces mint when it is cold and the mint is not as good; in cafés, it is served separately and everyone adds it to their own glass. A distinctly more bitter taste. Use only a little: wormwood contains thujone, which is considered neurotoxic; the European Medicines Agency restricts it to adults and advises against it during pregnancy and breastfeeding, and in cases of liver or bile duct disease or allergy to plants of the Asteraceae family — Hespress (Anadolu report); European Medicines Agency; also Al Jazeera, Moroccan Zest, Morocco World News, Wikipedia."
+  },
+  "variants.1": {
+   "fr": "Louiza (verveine citronnelle), à la place de la menthe ou avec elle — Al Jazeera ; Morocco World News ; la verveine aussi chez My Moroccan Food et Moroccan Zest.",
+   "t": "Louiza (lemon verbena), instead of the mint or with it — Al Jazeera; Morocco World News; verbena also in My Moroccan Food and Moroccan Zest."
+  },
+  "variants.2": {
+   "fr": "Zaatar en hiver, à la place de la menthe — Hespress (dépêche Anadolu) ; Asharq cite aussi le « أتاي بالزعتر ».",
+   "t": "Zaatar in winter, instead of the mint — Hespress (Anadolu report); Asharq also mentions “أتاي بالزعتر”."
+  },
+  "variants.3": {
+   "fr": "Menthe pouliot et absinthe quand il fait froid, réputées réchauffantes ; pour l'absinthe, mêmes précautions que pour la chiba — Moroccan Zest ; Agence européenne des médicaments. Pour la menthe pouliot pendant la grossesse, demande l'avis d'un professionnel de santé : son huile a servi autrefois à provoquer l'avortement (Agence européenne des médicaments, déclaration sur la pulégone).",
+   "t": "Pennyroyal and wormwood when it is cold, said to be warming; for wormwood, the same precautions as for chiba — Moroccan Zest; European Medicines Agency. For pennyroyal during pregnancy, ask a health professional for advice: its oil was once used to induce abortion (European Medicines Agency, statement on pulegone)."
+  },
+  "variants.4": {
+   "fr": "Fleur d'oranger : de l'eau de fleur d'oranger ajoutée hors du feu — Moroccan Zest ; Al Jazeera cite aussi les fleurs d'agrumes (« زهر الليمون ») à la place de la menthe.",
+   "t": "Orange blossom: orange blossom water added off the heat — Moroccan Zest; Al Jazeera also mentions citrus blossoms (“زهر الليمون”) instead of the mint."
+  },
+  "variants.5": {
+   "fr": "Géranium, thym sauvage ou sauge à la place de la menthe — Morocco World News ; le géranium aussi chez My Moroccan Food.",
+   "t": "Geranium, wild thyme or sage instead of the mint — Morocco World News; geranium also in My Moroccan Food."
+  },
+  "variants.6": {
+   "fr": "Pour les fêtes (fiançailles, mariages) : boutons de rose, verveine et cannelle — Moroccan Zest.",
+   "t": "For celebrations (engagements, weddings): rosebuds, verbena and cinnamon — Moroccan Zest."
+  }
+ }
+}

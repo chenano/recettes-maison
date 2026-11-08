@@ -1,0 +1,638 @@
+{
+ "_slug": "couscous-sept-legumes",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Couscous aux sept légumes",
+   "t": "الكسكس بسبع خضار"
+  },
+  "darija": {
+   "fr": "Kesksou b sbe3 khdari",
+   "t": "كسكسو بسبع خضاري (Kesksou b sbe3 khdari)"
+  },
+  "tagline": {
+   "fr": "Le couscous du vendredi midi : une graine légère, roulée à la main et passée trois fois à la vapeur au-dessus d'un bouillon parfumé aux sept légumes.",
+   "t": "كسكس ظهر الجمعة: حبات خفيفة، تُفرك باليد وتُبخَّر ثلاث مرات فوق مرق عطِر بسبع خضار."
+  },
+  "region": {
+   "fr": "Casablanca (couscous « bidaoui ») ; couscous du vendredi dans tout le Maroc",
+   "t": "الدار البيضاء (الكسكس «البيضاوي»)؛ وهو كسكس الجمعة في كل أنحاء المغرب"
+  },
+  "occasion": {
+   "fr": "Déjeuner du vendredi, après la grande prière, en famille autour d'un plat commun",
+   "t": "غداء الجمعة، بعد صلاة الجمعة، مع العائلة حول طبق مشترك"
+  },
+  "serving": {
+   "fr": "Pose la gsaa au milieu de la table : on mange ensemble dans le plat, à la cuillère ou à la main en roulant des boulettes, alors prévois des cuillères pour ceux qui n'en ont pas l'habitude. Sers le reste du bouillon dans des bols et, si tu aimes, une sauce piquante à part. Pour boire, le traditionnel lben (lait fermenté).",
+   "t": "ضع القصعة وسط المائدة: يأكل الجميع معًا من الطبق، بالملعقة أو باليد بتكوير كرات صغيرة، لذا جهّز ملاعق لمن لم يعتادوا ذلك. وقدّم باقي المرق في أوعية، وإن أحببت، صلصة حارة على حدة. وللشرب، اللبن التقليدي."
+  },
+  "ing.0.group": {
+   "fr": "Viande et bouillon",
+   "t": "اللحم والمرق"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux",
+   "t": "لحم خروف أو بقر حلال (كتف أو رقبة أو موزة)، بالعظم، مقطّع قطعًا كبيرة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "زيت الزيتون أو زيت المائدة"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon (environ 200 g)",
+   "t": "بصلة كبيرة (نحو 200 غ للبصلة)"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons (environ 200 g chacun)",
+   "t": "بصلات كبيرة (نحو 200 غ للبصلة)"
+  },
+  "ing.tomates-rapees.name": {
+   "fr": "tomate mûre",
+   "t": "حبة طماطم ناضجة"
+  },
+  "ing.tomates-rapees.pl": {
+   "fr": "tomates mûres",
+   "t": "حبات طماطم ناضجة"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "goûte et rectifie en fin de cuisson",
+   "t": "تذوّق وعدّل في نهاية الطهي"
+  },
+  "ing.safran.name": {
+   "fr": "de safran en filaments",
+   "t": "زعفران على شكل خيوط"
+  },
+  "ing.safran.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "بقدونس"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "كزبرة"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "حمص يابس"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "à faire tremper la veille",
+   "t": "يُنقع في الليلة السابقة"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.1.group": {
+   "fr": "Les sept légumes",
+   "t": "الخضر السبع"
+  },
+  "ing.chou.name": {
+   "fr": "de chou pommé (blanc ou vert)",
+   "t": "كرنب (أبيض أو أخضر)"
+  },
+  "ing.petits-oignons.name": {
+   "fr": "petit oignon",
+   "t": "بصلة صغيرة"
+  },
+  "ing.petits-oignons.pl": {
+   "fr": "petits oignons",
+   "t": "بصلات صغيرة"
+  },
+  "ing.tomates-quartiers.name": {
+   "fr": "petite tomate",
+   "t": "حبة طماطم صغيرة"
+  },
+  "ing.tomates-quartiers.pl": {
+   "fr": "petites tomates",
+   "t": "حبات طماطم صغيرة"
+  },
+  "ing.carottes.name": {
+   "fr": "de carottes",
+   "t": "جزر"
+  },
+  "ing.navets.name": {
+   "fr": "de navets moyens",
+   "t": "لفت متوسط الحجم"
+  },
+  "ing.courge.name": {
+   "fr": "de courge rouge (potiron)",
+   "t": "قرع أحمر (يقطين)"
+  },
+  "ing.courgettes.name": {
+   "fr": "de petites courgettes",
+   "t": "كوسة صغيرة"
+  },
+  "ing.piments.name": {
+   "fr": "piment vert",
+   "t": "حبة فلفل أخضر حار"
+  },
+  "ing.piments.pl": {
+   "fr": "piments verts",
+   "t": "حبات فلفل أخضر حار"
+  },
+  "ing.piments.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.2.group": {
+   "fr": "Semoule cuite à la vapeur",
+   "t": "الكسكس المطهو على البخار"
+  },
+  "ing.semoule.name": {
+   "fr": "de couscous de blé dur, grain moyen",
+   "t": "كسكس من القمح الصلب، متوسط الحبة"
+  },
+  "ing.semoule.note": {
+   "fr": "pas de couscous instantané",
+   "t": "ليس الكسكس سريع التحضير"
+  },
+  "ing.huile-graine.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "زيت الزيتون أو زيت المائدة"
+  },
+  "ing.eau-1.name": {
+   "fr": "d'eau froide (1er roulage)",
+   "t": "ماء بارد (للفرك رقم 1)"
+  },
+  "ing.eau-2.name": {
+   "fr": "d'eau (2e roulage)",
+   "t": "ماء (للفرك رقم 2)"
+  },
+  "ing.sel-graine.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.eau-3.name": {
+   "fr": "d'eau au maximum (3e roulage)",
+   "t": "ماء كحد أقصى (للفرك رقم 3)"
+  },
+  "ing.eau-3.note": {
+   "fr": "n'en verse que ce qu'il faut",
+   "t": "لا تسكب منه إلا ما يلزم"
+  },
+  "ing.3.group": {
+   "fr": "Finition",
+   "t": "اللمسة الأخيرة"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre mou",
+   "t": "زبدة طرية"
+  },
+  "ing.bouillon-graine.name": {
+   "fr": "de bouillon pris dans la marmite",
+   "t": "مرق مأخوذ من القدر"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre conservé marocain)",
+   "t": "سمن بلدي"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "equipment.0": {
+   "fr": "Couscoussier (keskas) : marmite et panier vapeur",
+   "t": "الكسكاس: القدر وسلة البخار المثقوبة"
+  },
+  "equipment.1": {
+   "fr": "Gsaa (grand plat large et creux) ou très grand saladier",
+   "t": "قصعة أو وعاء كبير جدًا"
+  },
+  "equipment.2": {
+   "fr": "Film alimentaire (ou papier aluminium) pour rendre le joint étanche",
+   "t": "غلاف بلاستيكي شفاف (أو ورق ألمنيوم) لإحكام الوصل بين القدر والسلة"
+  },
+  "equipment.3": {
+   "fr": "Ficelle de cuisine pour le bouquet d'herbes",
+   "t": "خيط مطبخ لربط حزمة الأعشاب"
+  },
+  "equipment.4": {
+   "fr": "Petite casserole pour les piments",
+   "t": "طنجرة صغيرة للفلفل الحار"
+  },
+  "equipment.5": {
+   "fr": "Linge propre (facultatif, pour les pois chiches)",
+   "t": "قطعة قماش نظيفة (اختيارية، للحمص)"
+  },
+  "equipment.6": {
+   "fr": "Louche",
+   "t": "مغرفة"
+  },
+  "steps.0.title": {
+   "fr": "La veille : les pois chiches",
+   "t": "في الليلة السابقة: انقع الحمص"
+  },
+  "steps.0.text": {
+   "fr": "La veille au soir, mets {{pois-chiches}} de pois chiches secs à tremper dans un grand volume d'eau. Le lendemain, égoutte-les. Si tu veux, enferme-les dans un linge propre noué en balluchon avant de les mettre dans la marmite.",
+   "t": "في مساء اليوم السابق، انقع {{pois-chiches}} من الحمص اليابس في كمية كبيرة من الماء. وفي الغد، صفِّه. وإن شئت، فضعه في قطعة قماش نظيفة واعقدها على شكل صرّة قبل وضعه في القدر."
+  },
+  "steps.1.title": {
+   "fr": "La base du bouillon",
+   "t": "حضّر أساس المرق"
+  },
+  "steps.1.text": {
+   "fr": "Hache grossièrement {{oignon:full}}. Râpe {{tomates-rapees:full}} et jette la peau. Ficelle ensemble {{persil}} de persil et {{coriandre}} de coriandre en un bouquet.",
+   "t": "افرم {{oignon:full}} فرمًا خشنًا. ابشر {{tomates-rapees:full}} وتخلّص من القشرة. اربط {{persil}} من البقدونس و{{coriandre}} من الكزبرة معًا في حزمة واحدة."
+  },
+  "steps.1.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم مبشورة على مبشرة"
+  },
+  "steps.1.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.2.title": {
+   "fr": "Les sept légumes",
+   "t": "حضّر الخضر السبع"
+  },
+  "steps.2.text": {
+   "fr": "Pèle {{carottes}} de carottes et {{navets}} de navets ; coupe les navets en deux et fends les grosses carottes dans la longueur. Coupe {{chou}} de chou en quartiers à travers le trognon, et {{courge}} de courge en gros morceaux. Retire juste les bouts de {{courgettes}} de courgettes. Pèle, épépine et coupe en quartiers {{tomates-quartiers:full}}, et coupe {{petits-oignons:full}} en deux.",
+   "t": "قشّر {{carottes}} من الجزر و{{navets}} من اللفت؛ واقطع اللفت إلى نصفين، وشُقّ حبات الجزر الكبيرة طولًا. قطّع {{chou}} من الكرنب إلى أرباع عبر القلب، و{{courge}} من القرع قطعًا كبيرة. أزل أطراف {{courgettes}} من الكوسة فقط. قشّر {{tomates-quartiers:full}} وانزع بذورها وقطّعها أرباعًا، واقطع {{petits-oignons:full}} إلى نصفين."
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir la viande",
+   "t": "شوّح اللحم"
+  },
+  "steps.3.text": {
+   "fr": "Dans la marmite du couscoussier, mets {{viande}} de viande, {{huile}} d'huile, l'oignon haché et les tomates râpées. Ajoute {{gingembre}} de gingembre moulu, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel et, si tu veux, {{safran}} de safran. Laisse revenir à découvert sur feu moyen-vif 10 à 15 min, en remuant souvent, jusqu'à obtenir une sauce épaisse et riche.",
+   "t": "في قدر الكسكاس، ضع {{viande}} من اللحم، و{{huile}} من الزيت، والبصل المفروم، والطماطم المبشورة. أضف {{gingembre}} من الزنجبيل المطحون، و{{curcuma}} من الكركم، و{{poivre}} من الفلفل الأسود، و{{sel}} من الملح، و{{safran}} من الزعفران إن شئت. اتركه يتشوّح دون غطاء على نار متوسطة إلى قوية من 10 إلى 15 دقيقة، مع التحريك كثيرًا، حتى تحصل على صلصة كثيفة وغنية."
+  },
+  "steps.3.timer.label": {
+   "fr": "Viande et épices",
+   "t": "اللحم والتوابل"
+  },
+  "steps.3.timer.done": {
+   "fr": "Sauce épaisse ? Ajoute les pois chiches, le bouquet et l'eau.",
+   "t": "هل تكثّفت الصلصة؟ أضف الحمص وحزمة الأعشاب والماء."
+  },
+  "steps.4.title": {
+   "fr": "Le bouillon",
+   "t": "حضّر المرق"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute les pois chiches égouttés (ou leur balluchon), le bouquet d'herbes et {{eau}} d'eau. Porte à ébullition, couvre et laisse cuire 30 min à feu moyen. Pendant ce temps, prépare la semoule.",
+   "t": "أضف الحمص المصفّى (أو صرّته)، وحزمة الأعشاب، و{{eau}} من الماء. أوصله إلى الغليان، ثم غطّه واتركه ينضج 30 دقيقة على نار متوسطة. وفي هذه الأثناء، حضّر الكسكس."
+  },
+  "steps.4.timer.label": {
+   "fr": "Bouillon, dès l'ébullition",
+   "t": "المرق، منذ بدء الغليان"
+  },
+  "steps.4.timer.done": {
+   "fr": "Le bouillon est prêt : place la semoule pour la première vapeur.",
+   "t": "المرق جاهز: ضع الكسكس للتبخير الأول."
+  },
+  "steps.5.title": {
+   "fr": "Premier roulage à la main",
+   "t": "افرك الكسكس باليد للمرة الأولى"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{semoule}} de couscous dans la gsaa et arrose de {{huile-graine}} d'huile. Frotte la graine entre tes paumes 1 à 2 min pour bien l'enrober. Ajoute {{eau-1}} d'eau froide en pluie, puis frotte encore jusqu'à ce qu'elle soit absorbée, en écrasant les petits grumeaux.",
+   "t": "اسكب {{semoule}} من الكسكس في القصعة واسقه بـ{{huile-graine}} من الزيت. افرك الحبات بين راحتيك من 1 إلى 2 دقيقة حتى تتغطى جيدًا بالزيت. أضف {{eau-1}} من الماء البارد رشًّا، ثم افرك مجددًا حتى يتشرّب الماء، مع سحق الكتل الصغيرة."
+  },
+  "steps.6.title": {
+   "fr": "Première vapeur",
+   "t": "بخّر الكسكس للمرة الأولى"
+  },
+  "steps.6.text": {
+   "fr": "Huile légèrement le panier et pose un long film alimentaire plié sur le bord de la marmite avant d'y placer le panier : la vapeur ne doit passer que par la graine. Verse la semoule dans le panier sans la tasser, et ne couvre pas. Garde le bouillon à ébullition, sur feu moyen. Lance le minuteur quand la vapeur traverse la graine.",
+   "t": "ادهن السلة بقليل من الزيت، وضع شريطًا طويلًا مطويًا من الغلاف البلاستيكي على حافة القدر قبل أن تضع السلة فوقها: يجب ألا يمرّ البخار إلا عبر الحبات. اسكب الكسكس في السلة دون أن تضغطه، ولا تغطّه. أبقِ المرق يغلي على نار متوسطة. شغّل المؤقت عندما يخترق البخار الحبات."
+  },
+  "steps.6.timer.label": {
+   "fr": "1re vapeur",
+   "t": "التبخير رقم 1"
+  },
+  "steps.6.timer.done": {
+   "fr": "Renverse la semoule dans la gsaa pour le deuxième roulage.",
+   "t": "أفرغ الكسكس في القصعة للفرك الثاني."
+  },
+  "steps.6.img.alt": {
+   "fr": "Graine de couscous dans le haut d'un couscoussier",
+   "t": "حبات الكسكس في الجزء العلوي من الكسكاس"
+  },
+  "steps.6.img.caption": {
+   "fr": "La graine à la vapeur",
+   "t": "الكسكس على البخار"
+  },
+  "steps.7.title": {
+   "fr": "Deuxième roulage",
+   "t": "افرك الكسكس للمرة الثانية"
+  },
+  "steps.7.text": {
+   "fr": "Renverse la semoule dans la gsaa, laisse-la tiédir un peu et émiette-la. Arrose avec la moitié de {{eau-2}} d'eau et frotte, puis saupoudre {{sel-graine}} de sel fin. Verse le reste de l'eau et frotte jusqu'à ce qu'il ne reste aucun grumeau.",
+   "t": "أفرغ الكسكس في القصعة، واتركه يفتر قليلًا وفتّته. اسقه بنصف الماء ({{eau-2}}) وافركه، ثم رشّ عليه {{sel-graine}} من الملح الناعم. اسكب باقي الماء وافركه حتى لا تبقى أي كتلة."
+  },
+  "steps.8.title": {
+   "fr": "Le chou, puis deuxième vapeur",
+   "t": "أضف الكرنب، ثم بخّر للمرة الثانية"
+  },
+  "steps.8.text": {
+   "fr": "Mets dans la marmite le chou, les petits oignons et les quartiers de tomate. Remets la semoule dans le panier, sans tasser ni couvrir. Lance le minuteur quand la vapeur traverse la graine.",
+   "t": "ضع في القدر الكرنب والبصل الصغير وأرباع الطماطم. أعد الكسكس إلى السلة، دون ضغط ولا تغطية. شغّل المؤقت عندما يخترق البخار الحبات."
+  },
+  "steps.8.timer.label": {
+   "fr": "2e vapeur",
+   "t": "التبخير رقم 2"
+  },
+  "steps.8.timer.done": {
+   "fr": "Renverse la semoule et plonge les carottes et les navets dans le bouillon.",
+   "t": "أفرغ الكسكس، واغمر الجزر واللفت في المرق."
+  },
+  "steps.9.title": {
+   "fr": "Carottes, navets et troisième roulage",
+   "t": "أضف الجزر واللفت، وافرك للمرة الثالثة"
+  },
+  "steps.9.text": {
+   "fr": "Renverse la semoule dans la gsaa. Plonge les carottes et les navets dans le bouillon, couvre et laisse cuire à feu moyen. Pendant ce temps, mouille la semoule petit à petit avec {{eau-3}} d'eau au maximum, en frottant après chaque ajout : n'en mets que ce qu'il faut pour une graine al dente. Goûte-la et rectifie le sel.",
+   "t": "أفرغ الكسكس في القصعة. اغمر الجزر واللفت في المرق، وغطّ القدر واتركها على نار متوسطة. وفي هذه الأثناء، رطّب الكسكس شيئًا فشيئًا بما لا يزيد على {{eau-3}} من الماء، مع الفرك بعد كل إضافة: لا تضع منه إلا ما يلزم لحبات طرية تحتفظ بقليل من الصلابة. تذوّقه وعدّل الملح."
+  },
+  "steps.9.timer.label": {
+   "fr": "Carottes et navets",
+   "t": "الجزر واللفت"
+  },
+  "steps.9.timer.done": {
+   "fr": "Ajoute la courge et les courgettes dans la marmite.",
+   "t": "أضف القرع والكوسة إلى القدر."
+  },
+  "steps.10.title": {
+   "fr": "Courge, courgettes et assaisonnement",
+   "t": "أضف القرع والكوسة وعدّل التتبيل"
+  },
+  "steps.10.text": {
+   "fr": "Ajoute la courge et les courgettes dans la marmite ; si le bouillon ne couvre plus les légumes, verse un peu d'eau chaude. Goûte : le bouillon doit être bien parfumé, un peu salé et poivré. Fais cuire {{piments:full}} à part, dans une petite casserole avec un peu de bouillon, jusqu'à ce qu'ils soient tendres.",
+   "t": "أضف القرع والكوسة إلى القدر؛ وإذا لم يعد المرق يغمر الخضر، فاسكب قليلًا من الماء الساخن. تذوّق: يجب أن يكون المرق عطِر النكهة، مالحًا قليلًا وفيه طعم الفلفل الأسود. اطبخ {{piments:full}} على حدة، في طنجرة صغيرة مع قليل من المرق، حتى تطرى."
+  },
+  "steps.11.title": {
+   "fr": "Troisième vapeur",
+   "t": "بخّر للمرة الثالثة"
+  },
+  "steps.11.text": {
+   "fr": "Mets la moitié de la semoule dans le panier, sans tasser, et replace-le sur la marmite. Dès que la vapeur la traverse, ajoute le reste. Quand la vapeur traverse de nouveau toute la graine, lance le minuteur : à la fin, elle doit être légère et tendre avec une petite résistance, et les légumes tendres sous la pointe d'un couteau.",
+   "t": "ضع نصف الكسكس في السلة دون ضغط، وأعدها فوق القدر. وما إن يخترقه البخار، أضف الباقي. وعندما يخترق البخار كل الحبات من جديد، شغّل المؤقت: في النهاية، يجب أن تكون الحبات خفيفة وطرية مع صلابة خفيفة، والخضر طرية تحت رأس السكين."
+  },
+  "steps.11.timer.label": {
+   "fr": "3e vapeur",
+   "t": "التبخير رقم 3"
+  },
+  "steps.11.timer.done": {
+   "fr": "Goûte la graine : légère, tendre, avec une petite résistance ? Elle est prête.",
+   "t": "تذوّق الكسكس: خفيف وطري مع صلابة خفيفة؟ إنه جاهز."
+  },
+  "steps.12.title": {
+   "fr": "Vérifie la viande",
+   "t": "تحقّق من اللحم"
+  },
+  "steps.12.text": {
+   "fr": "La viande doit être bien tendre. Sinon, retire les légumes déjà cuits, couvre et prolonge la cuisson de la viande, puis remets les légumes pour les réchauffer. Retire le bouquet d'herbes et, si tu veux, mélange {{smen}} de smen au bouillon.",
+   "t": "يجب أن يكون اللحم طريًا جيدًا. وإلا فأخرج الخضر التي نضجت، وغطّ القدر وأطِل مدة طهي اللحم، ثم أعد الخضر لتسخينها. أخرج حزمة الأعشاب، وإن شئت، فاخلط {{smen}} من السمن البلدي في المرق."
+  },
+  "steps.13.title": {
+   "fr": "Beurre et bouillon dans la graine",
+   "t": "أضف الزبدة والمرق إلى الكسكس"
+  },
+  "steps.13.text": {
+   "fr": "Renverse la semoule dans la gsaa et incorpore {{beurre}} de beurre mou en roulant la graine entre tes mains. Arrose de {{bouillon-graine}} de bouillon et frotte encore pour défaire les grumeaux.",
+   "t": "أفرغ الكسكس في القصعة وأدمج فيه {{beurre}} من الزبدة الطرية بفرك الحبات بين يديك. اسقه بـ{{bouillon-graine}} من المرق، وافركه مجددًا لتفكيك الكتل."
+  },
+  "steps.14.title": {
+   "fr": "Dresse et sers",
+   "t": "رتّب الطبق وقدّمه"
+  },
+  "steps.14.text": {
+   "fr": "Forme un dôme aplati de semoule et creuse un puits au centre. Mets la viande dans le puits, le chou et la courge dessus, et range les autres légumes tout autour. Parsème de pois chiches, ajoute les piments, arrose de quelques louches de bouillon et sers le reste très chaud dans des bols.",
+   "t": "شكّل من الكسكس قبة مسطّحة واحفر حفرة في وسطها. ضع اللحم في الحفرة، والكرنب والقرع فوقه، ورتّب باقي الخضر حوله. انثر الحمص، وأضف الفلفل الحار، واسقِ الطبق ببضع مغارف من المرق، وقدّم الباقي ساخنًا جدًا في أوعية."
+  },
+  "steps.14.img.alt": {
+   "fr": "Main qui roule une boulette de couscous au-dessus du plat",
+   "t": "يد تكوّر كرة صغيرة من الكسكس فوق الطبق"
+  },
+  "steps.14.img.caption": {
+   "fr": "À la main, on roule des boulettes",
+   "t": "باليد، نكوّر كرات صغيرة"
+  },
+  "secrets.0.text": {
+   "fr": "Commence par faire revenir viande, oignon, tomates, huile et épices à découvert sur feu moyen-vif, 10 à 15 min, jusqu'à une sauce épaisse, avant de verser l'eau.",
+   "t": "ابدأ بتشويح اللحم والبصل والطماطم والزيت والتوابل دون غطاء على نار متوسطة إلى قوية، من 10 إلى 15 دقيقة، حتى تحصل على صلصة كثيفة، قبل أن تسكب الماء."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي"
+  },
+  "secrets.1.text": {
+   "fr": "Garde la viande en gros morceaux (sur l'os chez Taste of Maroc) : selon Nargisse Benkabbou, les petits morceaux rapetissent pendant les heures de cuisson et se perdent dans le bouillon.",
+   "t": "اترك اللحم قطعًا كبيرة (بالعظم عند Taste of Maroc): فحسب Nargisse Benkabbou، تنكمش القطع الصغيرة خلال ساعات الطهي وتضيع في المرق."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food, Nargisse Benkabbou ; Taste of Maroc, recette du couscous bidaoui",
+   "t": "My Moroccan Food، Nargisse Benkabbou؛ Taste of Maroc، وصفة الكسكس البيضاوي"
+  },
+  "secrets.2.text": {
+   "fr": "Persil et coriandre cuisent ficelés en bouquet dans le bouillon ; Nargisse Benkabbou retire le sien (coriandre seule) avant d'ajouter les premiers légumes, Cooking with Alia avant de servir.",
+   "t": "يُطهى البقدونس والكزبرة في المرق مربوطَين في حزمة؛ وتُخرج Nargisse Benkabbou حزمتها (كزبرة فقط) قبل إضافة أولى الخضر، ويُخرجها Cooking with Alia قبل التقديم."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; Cooking with Alia ; My Moroccan Food, Nargisse Benkabbou",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي؛ Couscous Dari؛ Cooking with Alia؛ My Moroccan Food، Nargisse Benkabbou"
+  },
+  "secrets.3.text": {
+   "fr": "Astuce de Dari : les pois chiches cuisent dans la marmite enfermés dans un linge noué en balluchon.",
+   "t": "نصيحة Dari: يُطهى الحمص في القدر داخل قطعة قماش معقودة على شكل صرّة."
+  },
+  "secrets.3.source": {
+   "fr": "Couscous Dari",
+   "t": "Couscous Dari"
+  },
+  "secrets.4.text": {
+   "fr": "Huile d'abord, eau ensuite : frotte la graine huilée entre tes paumes, puis mouille-la peu à peu en défaisant chaque grumeau.",
+   "t": "الزيت أولًا ثم الماء: افرك الحبات المدهونة بالزيت بين راحتيك، ثم رطّبها شيئًا فشيئًا مع تفكيك كل كتلة."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc, guide de la vapeur ; Royal Mansour, chef Karim Benbaba",
+   "t": "Taste of Maroc، دليل التبخير؛ Royal Mansour، الشيف Karim Benbaba"
+  },
+  "secrets.5.text": {
+   "fr": "Joint étanche : toute la vapeur doit passer à travers la graine. Film plié ou papier alu aujourd'hui ; à l'ancienne, une bande de tissu enduite d'une pâte légère de farine et d'eau.",
+   "t": "وصلة محكمة: يجب أن يمر كل البخار عبر الحبات. اليوم يُستعمل غلاف بلاستيكي مطوي أو ورق ألمنيوم؛ وعلى الطريقة القديمة، شريط من القماش مدهون بعجينة خفيفة من الدقيق والماء."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc, guide de la vapeur ; Ministère de la Culture du Maroc, fiche d'inventaire du couscous ; Bladi.net",
+   "t": "Taste of Maroc، دليل التبخير؛ Ministère de la Culture du Maroc، بطاقة جرد الكسكس؛ Bladi.net"
+  },
+  "secrets.6.text": {
+   "fr": "Ne tasse jamais la graine dans le panier et ne la couvre pas : la plupart des Marocains la laissent à découvert.",
+   "t": "لا تضغط الحبات في السلة أبدًا ولا تغطّها: فمعظم المغاربة يتركونها مكشوفة."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc, guide de la vapeur",
+   "t": "Taste of Maroc، دليل التبخير"
+  },
+  "secrets.7.text": {
+   "fr": "Le temps de vapeur se compte à partir du moment où la vapeur traverse la graine, pas avant.",
+   "t": "تُحسب مدة التبخير ابتداءً من اللحظة التي يخترق فيها البخار الحبات، لا قبل ذلك."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc, guide de la vapeur et recette du couscous bidaoui ; Bladi.net",
+   "t": "Taste of Maroc، دليل التبخير ووصفة الكسكس البيضاوي؛ Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Le sel de la graine se met au deuxième roulage, entre deux arrosages d'eau.",
+   "t": "يُضاف ملح الكسكس في الفرك الثاني، بين دفعتين من الماء."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc, guide de la vapeur",
+   "t": "Taste of Maroc، دليل التبخير"
+  },
+  "secrets.9.text": {
+   "fr": "Au dernier roulage, mouille petit à petit et arrête-toi à temps : la graine finie doit être légère, tendre, avec une petite résistance.",
+   "t": "في الفرك الأخير، رطّب الكسكس شيئًا فشيئًا وتوقّف في الوقت المناسب: يجب أن تكون الحبات في النهاية خفيفة وطرية مع صلابة خفيفة."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc, guide de la vapeur",
+   "t": "Taste of Maroc، دليل التبخير"
+  },
+  "secrets.10.text": {
+   "fr": "Dernière vapeur en deux fois : la moitié de la graine d'abord, le reste quand la vapeur la traverse.",
+   "t": "التبخير الأخير على مرحلتين: نصف الكسكس أولًا، ثم الباقي عندما يخترقه البخار."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي"
+  },
+  "secrets.11.text": {
+   "fr": "Les légumes entrent par ordre de dureté pour être prêts ensemble : courge et courgettes en dernier, car une fois cuites elles deviennent très fragiles.",
+   "t": "تُضاف الخضر حسب صلابتها لتنضج كلها معًا: القرع والكوسة في الأخير، لأنهما تصيران هشّتين جدًا بعد نضجهما."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي؛ Couscous Dari؛ My Moroccan Food، Nargisse Benkabbou"
+  },
+  "secrets.12.text": {
+   "fr": "Les légumes cuisent immergés : s'ils restent à la surface du bouillon, ils cuisent de façon inégale.",
+   "t": "تُطهى الخضر مغمورة: فإذا بقيت على سطح المرق، نضجت بشكل غير متساوٍ."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food, Nargisse Benkabbou",
+   "t": "My Moroccan Food، Nargisse Benkabbou"
+  },
+  "secrets.13.text": {
+   "fr": "Le bouillon doit être bien parfumé, un peu salé et poivré.",
+   "t": "يجب أن يكون المرق عطِر النكهة، مالحًا قليلًا وفيه طعم الفلفل الأسود."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي"
+  },
+  "secrets.14.text": {
+   "fr": "Finition : beurre dans la graine et smen dans le bouillon ; Dari et Nargisse Benkabbou mettent le smen directement sur la graine.",
+   "t": "اللمسة الأخيرة: الزبدة في الكسكس والسمن البلدي في المرق؛ ويضع Dari وNargisse Benkabbou السمن البلدي مباشرة على الكسكس."
+  },
+  "secrets.14.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي؛ Couscous Dari؛ My Moroccan Food، Nargisse Benkabbou"
+  },
+  "secrets.15.text": {
+   "fr": "Arrose la graine de bouillon avant de dresser, et sers le reste à part, très chaud.",
+   "t": "اسقِ الكسكس بالمرق قبل ترتيب الطبق، وقدّم الباقي على حدة، ساخنًا جدًا."
+  },
+  "secrets.15.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Royal Mansour, chef Karim Benbaba ; Bladi.net",
+   "t": "Taste of Maroc، وصفة الكسكس البيضاوي؛ Royal Mansour، الشيف Karim Benbaba؛ Bladi.net"
+  },
+  "mistakes.0": {
+   "fr": "Préparer la graine à l'eau bouillante comme un couscous instantané : au Maroc, elle se cuit à la vapeur, en plusieurs passages.",
+   "t": "تحضير الكسكس بالماء المغلي مثل الكسكس سريع التحضير: في المغرب، يُطهى على البخار، على عدة مراحل."
+  },
+  "mistakes.1": {
+   "fr": "Tasser la semoule dans le panier ou poser un couvercle dessus.",
+   "t": "ضغط الكسكس في السلة أو وضع غطاء فوقه."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la vapeur fuir entre la marmite et le panier.",
+   "t": "ترك البخار يتسرّب بين القدر والسلة."
+  },
+  "mistakes.3": {
+   "fr": "Laisser le fond du panier toucher le bouillon.",
+   "t": "ترك قاع السلة يلامس المرق."
+  },
+  "mistakes.4": {
+   "fr": "Lancer le minuteur avant que la vapeur traverse la graine.",
+   "t": "تشغيل المؤقت قبل أن يخترق البخار الحبات."
+  },
+  "mistakes.5": {
+   "fr": "Noyer la graine au dernier roulage : trop de liquide la rend lourde et mouillée.",
+   "t": "إغراق الكسكس في الفرك الأخير: كثرة السائل تجعله ثقيلًا ومبلّلًا."
+  },
+  "mistakes.6": {
+   "fr": "Sauter l'étape des grumeaux entre deux passages.",
+   "t": "إغفال تفكيك الكتل بين تبخيرين."
+  },
+  "mistakes.7": {
+   "fr": "Mettre tous les légumes en même temps : courge et courgettes, très fragiles une fois cuites, se défont.",
+   "t": "وضع كل الخضر في الوقت نفسه: القرع والكوسة، وهما هشّان جدًا بعد النضج، يتفتّتان."
+  },
+  "mistakes.8": {
+   "fr": "Couper la viande en petits morceaux : ils rapetissent et se perdent dans le bouillon.",
+   "t": "تقطيع اللحم قطعًا صغيرة: تنكمش وتضيع في المرق."
+  },
+  "mistakes.9": {
+   "fr": "Laisser des légumes hors du bouillon : ils cuisent de façon inégale.",
+   "t": "ترك بعض الخضر خارج المرق: تنضج بشكل غير متساوٍ."
+  },
+  "variants.0": {
+   "fr": "Tfaya (variante, pas la base) : oignons, rouges de préférence, et raisins secs trempés 15 min, mijotés à couvert sur feu moyen-doux 30 min à 1 h avec beurre, miel, cannelle, poivre, gingembre, curcuma, safran, une pincée de sel et un peu d'eau, jusqu'à ce que le jus devienne un sirop épais ; un peu d'eau de fleur d'oranger à la fin si tu veux. Pose-la sur le couscous ou sers-la à part (Taste of Maroc ; version au miel et à la cannelle chez My Moroccan Food).",
+   "t": "التفاية (نسخة بديلة، وليست الأساس): بصل، ويُفضَّل الأحمر، وزبيب منقوع 15 دقيقة، يُطهيان مغطّيَين على نار متوسطة إلى هادئة من 30 دقيقة إلى 1 ساعة مع الزبدة والعسل والقرفة والفلفل الأسود والزنجبيل والكركم والزعفران ورشة ملح وقليل من الماء، حتى يصير العصير شرابًا كثيفًا؛ وقليل من ماء الزهر في النهاية إن شئت. ضعها فوق الكسكس أو قدّمها على حدة (Taste of Maroc؛ ونسخة بالعسل والقرفة عند My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Graine au lait : remplace l'eau du troisième roulage par du lait pour une semoule plus riche (Taste of Maroc).",
+   "t": "كسكس بالحليب: عوّض ماء الفرك الثالث بالحليب للحصول على كسكس أغنى (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Légumes de saison : fèves avec le chou, patate douce avec la courge (Taste of Maroc) ; aubergine chez Royal Mansour, Dari et Le Petit Journal, qui cite aussi le céleri et les fèves en été.",
+   "t": "خضر الموسم: الفول الطري مع الكرنب، والبطاطا الحلوة مع القرع (Taste of Maroc)؛ والباذنجان عند Royal Mansour وDari وLe Petit Journal، الذي يذكر أيضًا الكرفس والفول الطري في الصيف."
+  },
+  "variants.3": {
+   "fr": "Smen sur la graine chaude au lieu du bouillon (Couscous Dari ; My Moroccan Food).",
+   "t": "السمن البلدي على الكسكس الساخن بدل المرق (Couscous Dari؛ My Moroccan Food)."
+  },
+  "variants.4": {
+   "fr": "Deuxième bouquet persil-coriandre ajouté avec les légumes tendres (Couscous Dari).",
+   "t": "حزمة ثانية من البقدونس والكزبرة تُضاف مع الخضر الطرية (Couscous Dari)."
+  },
+  "variants.5": {
+   "fr": "Gueddid (viande séchée) à la place de la viande fraîche (Taste of Maroc).",
+   "t": "القديد بدل اللحم الطازج (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Sans viande : un peu plus d'huile donne un bouillon plus riche (Taste of Maroc).",
+   "t": "بلا لحم: قليل من الزيت الإضافي يعطي مرقًا أغنى (Taste of Maroc)."
+  },
+  "variants.7": {
+   "fr": "Deux vapeurs seulement : certains Marocains font ainsi (Taste of Maroc), et Choumicha passe la graine deux fois 20 min dans sa recette pour Gulf News.",
+   "t": "تبخيران فقط: هكذا يفعل بعض المغاربة (Taste of Maroc)، وتبخّر Choumicha الكسكس مرتين، 20 دقيقة في كل مرة، في وصفتها لـGulf News."
+  },
+  "variants.8": {
+   "fr": "Version palace du chef Karim Benbaba (Royal Mansour) : chaque légume cuit à part dans un bouillon de légumes filtré, puis dressé en alternant les couleurs.",
+   "t": "نسخة الفنادق الفاخرة للشيف Karim Benbaba (Royal Mansour): تُطهى كل خضرة على حدة في مرق خضر مصفّى، ثم تُرتَّب بتناوب الألوان."
+  }
+ }
+}

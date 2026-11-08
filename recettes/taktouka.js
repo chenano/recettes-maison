@@ -1,0 +1,443 @@
+/* Recette : Taktouka. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "taktouka",
+ "title": "Taktouka",
+ "darija": "Taktouka",
+ "arabic": "تكتوكة",
+ "tagline": "Des poivrons verts grillés au goût fumé, mijotés dans une sauce tomate à l'ail, au cumin et au paprika. Tiède ou froide, avec du pain.",
+ "category": "Salade",
+ "occasion": "Salade cuite de tous les jours, servie en entrée avec d'autres salades, ou à côté d'un tajine, d'un plat de poulet, de grillades ou de poisson (My Moroccan Food ; MarocMama ; Wikipédia).",
+ "region": "Tout le Maroc : pour My Moroccan Food, c'est une salade très courante ; selon Wikipédia (fr), la recette change d'une région marocaine à l'autre.",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 20,
+  "cook": 20,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Gazinière (sinon, four en position gril et une plaque)",
+  "Pince de cuisine, pour retourner les poivrons",
+  "Sac en plastique propre (type sac de congélation)",
+  "Grande poêle profonde ou sauteuse, avec couvercle",
+  "Planche et couteau",
+  "Cuillère en bois"
+ ],
+ "ingredients": [
+  {
+   "group": "Légumes",
+   "items": [
+    {
+     "id": "poivrons",
+     "q": 2,
+     "u": "",
+     "name": "gros poivron vert",
+     "pl": "gros poivrons verts",
+     "note": "à griller entier",
+     "round": "up",
+     "canon": "poivron-vert"
+    },
+    {
+     "id": "tomates",
+     "q": 4,
+     "u": "",
+     "name": "grosse tomate bien mûre",
+     "pl": "grosses tomates bien mûres",
+     "canon": "tomate"
+    },
+    {
+     "id": "ail",
+     "q": 2,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à écraser",
+     "canon": "ail"
+    }
+   ]
+  },
+  {
+   "group": "Cuisson et épices",
+   "items": [
+    {
+     "id": "huile",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "paprika",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de paprika doux",
+     "canon": "paprika"
+    },
+    {
+     "id": "cumin",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de cumin moulu",
+     "canon": "cumin"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster en goûtant",
+     "canon": "sel"
+    },
+    {
+     "id": "poivre",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "herbes",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "de coriandre et de persil frais hachés",
+     "canon": "coriandre"
+    }
+   ]
+  },
+  {
+   "group": "Service",
+   "items": [
+    {
+     "id": "herbes-service",
+     "q": null,
+     "u": "",
+     "name": "coriandre ou persil haché",
+     "note": "pour décorer",
+     "canon": "coriandre"
+    },
+    {
+     "id": "khobz",
+     "q": null,
+     "u": "",
+     "name": "pain (khobz)",
+     "note": "pour accompagner",
+     "canon": "khobz"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Cuisson",
+   "title": "Grille les poivrons",
+   "text": "Fais griller {{poivrons:full}} directement sur la flamme du gaz, à feu vif, en tournant souvent avec une pince, jusqu'à ce que la peau soit noire et craquelée de tous les côtés, et la chair molle. Sans gaz : mets-les sur une plaque, dans le four préchauffé à 200 °C en position gril, et tourne-les régulièrement.",
+   "timer": null,
+   "tip": "Sous le gril du four, surveille-les sans t'éloigner : ils peuvent prendre feu (MarocMama)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Enferme-les dans un sac",
+   "text": "Glisse les poivrons encore chauds dans un sac en plastique et ferme-le. Laisse-les 10 minutes : la vapeur décolle la peau.",
+   "timer": {
+    "min": 10,
+    "label": "Poivrons dans le sac",
+    "done": "Les poivrons ont tiédi : tu peux les peler."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare les tomates",
+   "text": "Pendant ce temps, pèle {{tomates:full}}. Coupe chaque tomate en deux, retire les graines et coupe la chair en petits morceaux.",
+   "timer": null,
+   "tip": "Pour peler les tomates facilement, fais une croix à la base et plonge-les 2 à 3 minutes dans l'eau bouillante (MarocMama). Plus rapide : coupe-les en deux, râpe la chair et jette la peau (Cooking With Alia)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare l'ail et les herbes",
+   "text": "Pèle et écrase {{ail:full}}. Lave et hache finement la coriandre et le persil : il en faut {{herbes}}, plus un peu pour décorer.",
+   "timer": null,
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Prépare l'ail et les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais fondre les tomates",
+   "text": "Dans une grande poêle profonde, à feu moyen-doux, mets {{huile}} d'huile d'olive, les tomates et l'ail. Ajoute {{paprika}} de paprika, {{cumin}} de cumin, {{sel}} de sel, {{poivre}} de poivre et les herbes hachées. Couvre et laisse cuire 10 minutes, en remuant de temps en temps, jusqu'à ce que les tomates soient fondues.",
+   "timer": {
+    "min": 10,
+    "label": "Tomates",
+    "done": "Les tomates sont fondues ? Ajoute les poivrons."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pèle les poivrons",
+   "text": "Sors les poivrons du sac. Retire la peau brûlée avec les doigts, sans passer les poivrons sous l'eau : rince-toi plutôt les mains. Enlève la queue et les graines, puis coupe la chair en petits dés.",
+   "timer": null,
+   "tip": "Garde quelques lanières de poivron pour décorer le plat (Lalla Moulati)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute les poivrons et fais réduire",
+   "text": "Découvre la poêle et ajoute les dés de poivron. Mélange et laisse mijoter 10 minutes à découvert, à feu doux, en remuant de temps en temps. C'est prêt quand l'eau des tomates s'est évaporée et que la taktouka est épaisse.",
+   "timer": {
+    "min": 10,
+    "label": "Taktouka",
+    "done": "Plus de jus au fond ? C'est prêt. Sinon, prolonge de quelques minutes en remuant."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Goûte et rectifie",
+   "text": "Goûte et rectifie le sel et les épices. Retire du feu.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers tiède ou froide",
+   "text": "Verse la taktouka dans un plat et parsème-la de {{herbes-service}}. Sers-la tiède ou froide, avec du {{khobz}}.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Grille les poivrons jusqu'à ce que la peau soit bien noire : c'est ce qui donne à la taktouka son goût fumé.",
+   "source": "Cooking With Alia (n° 125) ; MarocMama ; My Moroccan Food"
+  },
+  {
+   "text": "Enferme les poivrons grillés encore chauds dans un sac fermé pendant 10 minutes : la peau s'enlève ensuite très facilement.",
+   "source": "Choumicha (salade de tomates et de poivrons : 10 minutes) ; Cooking With Alia (n° 396 : 10 minutes) ; Lalla Moulati ; MarocMama"
+  },
+  {
+   "text": "Ne passe pas les poivrons grillés sous l'eau : pèle-les à sec et rince-toi plutôt les mains.",
+   "source": "Lalla Moulati (2014 et 2019) ; Choumicha"
+  },
+  {
+   "text": "Fais d'abord fondre les tomates avec l'ail et les épices, et ajoute seulement ensuite les poivrons. Lalla Moulati attend même que l'eau des tomates se soit évaporée.",
+   "source": "My Moroccan Food ; Cooking With Alia (n° 125) ; Bladi.net ; Choumicha ; Lalla Moulati (2014)"
+  },
+  {
+   "text": "La taktouka est prête quand elle est épaisse et presque sèche, sans jus au fond de la poêle.",
+   "source": "Cooking With Alia (n° 125) ; My Moroccan Food ; Lalla Moulati (2014)"
+  },
+  {
+   "text": "Sans gaz, grille les poivrons au four à 200 °C, en position gril, en les retournant régulièrement.",
+   "source": "Rachida (Gâteau et cuisine Rachida) ; Cooking With Alia (n° 440 : 200 °C, sans préciser le gril) ; MarocMama (gril du four, en les retournant souvent)"
+  },
+  {
+   "text": "Tes tomates manquent de douceur ? My Moroccan Food ajoute une demi-cuillère à café de sucre, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
+   "source": "My Moroccan Food"
+  },
+  {
+   "text": "Pour une jolie assiette, dispose des lanières de poivron en cercle, mets la taktouka au centre et ajoute une olive noire.",
+   "source": "Lalla Moulati (2019)"
+  },
+  {
+   "text": "Cooking With Alia décore aussi sa taktouka d'écorce de citron confit, rincée pour enlever un peu de sel.",
+   "source": "Cooking With Alia (n° 125)"
+  },
+  {
+   "text": "À la marocaine, on la mange en la prenant avec des morceaux de pain. Elle va aussi très bien à côté d'un tajine, de grillades ou de poisson, ou en sandwich.",
+   "source": "My Moroccan Food ; MarocMama ; Wikipédia"
+  },
+  {
+   "text": "Ne la confonds pas avec la chakchouka : la taktouka est une salade cuite, sans œufs. Ce sont deux plats différents.",
+   "source": "My Moroccan Food ; Rachida"
+  },
+  {
+   "text": "Elle peut se manger froide si elle a été mise au réfrigérateur dans les 2 heures après la cuisson. Garde-la dans une boîte couverte et mange-la dans les 48 heures.",
+   "source": "Food Standards Agency (Royaume-Uni) ; FDA (règle des 2 heures, boîte couverte)"
+  }
+ ],
+ "mistakes": [
+  "Passer les poivrons grillés sous l'eau : pèle-les à sec ; après 10 minutes dans le sac, la peau s'enlève facilement sans eau (Lalla Moulati ; Choumicha).",
+  "Ajouter les poivrons dans une sauce encore pleine d'eau : laisse d'abord fondre et réduire les tomates (Lalla Moulati, 2014).",
+  "Arrêter la cuisson trop tôt : la taktouka doit être épaisse, sans jus (Cooking With Alia ; My Moroccan Food).",
+  "Laisser les poivrons sans surveillance sous le gril du four : ils peuvent prendre feu (MarocMama).",
+  "Laisser la taktouka plus de 2 heures à température ambiante (Food Standards Agency ; FDA)."
+ ],
+ "serving": "Tiède ou froide (Choumicha ; My Moroccan Food ; Cooking With Alia ; Wikipédia ; chaude ou froide chez Lalla Moulati), en entrée avec d'autres salades marocaines (MarocMama ; Wikipédia) ou à côté d'un tajine (MarocMama ; Wikipédia fr), d'un plat de poulet (MarocMama), de grillades ou de poisson (My Moroccan Food). Elle se mange avec du pain (Bladi.net ; Morocco World News ; Cooking With Alia ; Wikipédia) ; My Moroccan Food la met aussi en sandwich. Bladi.net et Morocco World News la préfèrent tiède.",
+ "variants": [
+  "Tektouka marqa de Choumicha : tomates pelées et épépinées en quartiers, huile d'olive et un peu d'huile de tournesol, ail, sel, à couvert à feu doux jusqu'à ce que les tomates rendent leur eau ; puis un poivron vert et un poivron rouge grillés, en lanières, et des épices pour chermoula, 8 à 10 minutes à couvert ; coriandre à la fin.",
+  "Poivrons de couleurs : un rouge et un vert (Lalla Moulati, 2014 ; Choumicha) ; Lalla Moulati (2019) accepte aussi le rouge et le jaune.",
+  "En lanières plutôt qu'en dés (Choumicha ; Cooking With Alia, n° 440).",
+  "Avec une cuillère à soupe de concentré de tomate dans la sauce (Cooking With Alia, n° 125).",
+  "Un peu de piquant : une pincée de piment de Cayenne (My Moroccan Food ; Cooking With Alia, n° 440).",
+  "Version de MarocMama, plus épicée : 1 c. à s. de paprika, 2 c. à c. de cumin et ¼ de c. à c. de curcuma ; l'ail revient 1 à 2 minutes dans l'huile avant les légumes, et les tomates sont écrasées à la fourchette pendant la cuisson.",
+  "Version de Morocco World News : 3 poivrons pour 2 tomates, 4 gousses d'ail ; les poivrons vont d'abord dans l'huile, puis le reste, 5 à 10 minutes ; servie tiède.",
+  "Chlada medqouqa (Choumicha), une salade voisine : tomates, poivrons et un piment grillés, pelés, épépinés et pilés en purée avec du sel et de l'huile d'olive, servie froide.",
+  "Selon Wikipédia (fr), certaines familles ajoutent des oignons et des œufs : on se rapproche alors de la chakchouka (selon Rachida, la chakchouka ressemble beaucoup à la taktouka, qui est sans œufs)."
+ ],
+ "sources": [
+  {
+   "name": "My Moroccan Food (Nargisse Benkabbou), « Taktouka – Green Peppers and Tomatoes Moroccan Salad », 29 juin 2016",
+   "url": "https://www.mymoroccanfood.com/home/taktouka",
+   "used_for": "Recette pour 3 à 4 : 2 gros poivrons verts grillés, 3 c. à s. d'huile d'olive, 4 grosses tomates pelées et épépinées, environ 2 gousses d'ail, 4 c. à s. d'herbes, 1 c. à c. de paprika, ½ c. à c. de cumin, Cayenne, ½ c. à c. de sel, sucre facultatif ; tomates à couvert 10 minutes à feu moyen-doux, puis poivrons 10 minutes à découvert jusqu'à évaporation ; tiède ou froide, avec du pain, en sandwich ou à côté de grillades ; différente de la chakchouka ; salade très courante au Maroc."
+  },
+  {
+   "name": "Cooking With Alia, « 125 – Taktouka – Cooked Salad with Tomatoes and Roasted Green Peppers »",
+   "url": "https://www.cookingwithalia.com/taktouka-cooked-salad-with-tomatoes-and-roasted-green-peppers/",
+   "used_for": "5 tomates râpées, 2 gros poivrons verts, ¼ de tasse de coriandre et de persil, 1 c. à c. de paprika, de cumin et de sel, ¼ de c. à c. de poivre, 2 c. à s. d'huile d'olive, 1 c. à s. de concentré, 3 gousses d'ail ; poivrons grillés à feu vif jusqu'à peau noire, pince ; 15 à 20 minutes sous film ; tomates 15 minutes à feu moyen ; poivrons en petits dés, 15 à 20 minutes ; prête quand sèche et épaisse ; décor au citron confit ; avec du pain, tiède ou froide."
+  },
+  {
+   "name": "Cooking With Alia, « 440 – Taktouka – Pepper & Tomato Dip / التكتوكة بالطماطم و الفلفل »",
+   "url": "https://www.cookingwithalia.com/440-taktouka-pepper-tomato-dip/",
+   "used_for": "Poivron grillé sur la flamme ou au four à 200 °C ; tomate pelée cuite 10 minutes ; 5 minutes en sac ; lanières ; 10 minutes de plus ; Cayenne au goût ; servie tiède ou chaude avec du pain ; graphie arabe « التكتوكة »."
+  },
+  {
+   "name": "Cooking With Alia, « 396 – Moroccan Roasted Pepper Salad / سلطة الفلفل »",
+   "url": "https://www.cookingwithalia.com/396-moroccan-roasted-pepper-salad/",
+   "used_for": "Poivrons grillés mis 10 minutes dans un sac fermé pour peler facilement (autre salade de poivrons)."
+  },
+  {
+   "name": "Lalla Moulati, « التكتوكة بالفلفل » (taktouka aux poivrons), 10 novembre 2014",
+   "url": "https://www.lalamoulati.net/3552.html",
+   "used_for": "1 poivron rouge et 1 vert, 4 tomates, 5 c. à s. d'huile d'olive, ½ c. à c. de paprika doux et de cumin, sel, poivre noir, 1 c. à s. de coriandre et persil ; poivrons grillés, sac, pelés sans être lavés, en petits morceaux ; tomates à feu doux en remuant jusqu'à évaporation de leur eau, puis poivrons ; herbes au décor ; chaude ou froide."
+  },
+  {
+   "name": "Lalla Moulati, « طريقة عمل التكتوكة بالفلافل كتجي بنينة », 3 avril 2019",
+   "url": "https://www.lalamoulati.net/190612.html",
+   "used_for": "3 à 4 tomates, 4 poivrons verts (rouges ou jaunes possibles), 2 à 3 gousses d'ail, 1 c. à s. de persil, 1 c. à c. de paprika et de cumin, ½ c. à c. de poivre noir ; poivrons grillés sur le feu, sac, pelés sans les laver (on se lave les mains), en dés ; lanières gardées pour le décor en cercle avec une olive noire ; chaude ou froide."
+  },
+  {
+   "name": "Choumicha (Choumicha Chafay), « Tektouka marqa », site officiel (copie archivée du 22 juillet 2026)",
+   "url": "https://web.archive.org/web/20260722090934/https://www.choumicha.ma/recette/465-tektouka-marqa.html",
+   "used_for": "Taktouka de Choumicha pour 4 (cuisson 30 minutes, total 40) : 4 grosses tomates pelées et épépinées, 3 c. à s. d'huile d'olive et 1 de tournesol, 1 gousse d'ail, 1 poivron vert et 1 rouge grillés en lanières, 1 c. à c. de sel, épices pour chermoula, coriandre ; à couvert à feu doux, puis 8 à 10 minutes avec les poivrons ; tiède ou froide ; graphies « Tektouka », « Taktouka »."
+  },
+  {
+   "name": "Choumicha, « Salade de tomates et de poivrons », site officiel (copie archivée du 8 mai 2026)",
+   "url": "https://web.archive.org/web/20260508111833/https://www.choumicha.ma/recette/629-salade-de-tomates-et-de-poivrons.html",
+   "used_for": "Poivrons grillés mis aussitôt 10 minutes dans un sachet en plastique pour enlever la peau sans les laver."
+  },
+  {
+   "name": "Choumicha, « Salade de tomate et poivron grillés », site officiel (copie archivée du 15 juin 2026)",
+   "url": "https://web.archive.org/web/20260615133032/https://www.choumicha.ma/recette/1413-salade-de-tomate-et-poivron-grilles.html",
+   "used_for": "Salade voisine (chlada medqouqa) : légumes grillés, pelés et pilés en purée, servie froide."
+  },
+  {
+   "name": "Bladi.net, « Taktouka », Laila M., 26 décembre 2011 (mise à jour le 8 mars 2021)",
+   "url": "https://www.bladi.net/recettes/taktouka.html",
+   "used_for": "3 poivrons, 3 tomates, 2 gousses d'ail, persil et coriandre, 1 c. à c. de piment doux et de cumin ; poivrons grillés sur le feu, pelés, en petits morceaux ; tomates pelées et épépinées cuites une dizaine de minutes avec l'ail et les épices, puis poivrons une dizaine de minutes ; rectifier ; servie tiède avec du pain."
+  },
+  {
+   "name": "Morocco World News, Zineb Bourchouk, « Moroccan Recipes 101: Taktouka », 14 février 2021",
+   "url": "https://www.moroccoworldnews.com/2021/02/61793/moroccan-recipes-101-taktouka/",
+   "used_for": "3 poivrons, 2 tomates, 1 c. à s. de paprika, 1 c. à c. de cumin, ½ c. à c. de poivre, 4 gousses d'ail, coriandre, persil, huile d'olive ; poivrons grillés jusqu'à noircir, film plastique, pelés ; 5 à 10 minutes de cuisson ; servie tiède, avec du pain ; salades marocaines servies à côté du plat principal."
+  },
+  {
+   "name": "MarocMama (Amanda Mouttaki, Américaine installée au Maroc), « Taktouka – Green Pepper and Tomato Salad », page datée du 13 septembre 2026",
+   "url": "https://marocmama.com/taktouka-green-pepper-and-tomato-salad/",
+   "used_for": "Recette pour 4 (préparation 20 minutes, cuisson 20, total 40) : 4 tomates pelées, 2 gros poivrons verts grillés, 1 grosse gousse d'ail, 1 c. à c. de sel, ½ c. à c. de poivre noir, 1 c. à s. de paprika, 2 c. à c. de cumin, ¼ de c. à c. de curcuma, ⅓ de tasse d'huile d'olive ; poivrons sur la flamme du gaz puis sac fermé (méthode de sa belle-mère marocaine) ; gril du four à surveiller (risque de feu) ; tomates pelées à l'eau bouillante ; salade traditionnelle, souvent avec un plat de poulet ; servie fraîche ou à température ambiante, avec un tajine ou des grillades."
+  },
+  {
+   "name": "Gâteau et cuisine Rachida, « Best Shakshuka Recipe (Authentic and Easy) », 14 juin 2025 (mise à jour le 12 juillet 2025)",
+   "url": "https://gateauetcuisinerachida.com/en/best-shakshuka-recipe-authentic-and-easy/",
+   "used_for": "Poivrons grillés sur la flamme ou au four préchauffé à 200 °C en mode gril, retournés régulièrement ; sac fermé ; la taktouka est la même base que la chakchouka, sans œufs."
+  },
+  {
+   "name": "Wikipedia (en), « Taktouka »",
+   "url": "https://en.wikipedia.org/wiki/Taktouka",
+   "used_for": "Graphie arabe « تكتوكة » ; plat marocain de tomates, poivrons, ail, paprika et huile d'olive, très répandu ; servi en mezze, tiède ou froid, avec du pain."
+  },
+  {
+   "name": "Wikipédia (fr), « Taktouka »",
+   "url": "https://fr.wikipedia.org/wiki/Taktouka",
+   "used_for": "Salade marocaine servie en entrée, tomates et poivrons longuement mijotés à l'huile d'olive, ail, épices et herbes ; fraîche, froide ou tiède ; recette qui varie selon les régions (oignons, œufs chez certains) ; tomates en purée, poivrons en petits morceaux ; servie avec les tajines."
+  },
+  {
+   "name": "Wikipédia en darija (ary), « تكتوكة »",
+   "url": "https://ary.wikipedia.org/wiki/%D8%AA%D9%83%D8%AA%D9%88%D9%83%D8%A9",
+   "used_for": "Nom en darija « تكتوكة » ; salade (شلاضة) servie froide ou tiède, qui peut accompagner le tajine."
+  },
+  {
+   "name": "Cooking With Alia, page « About »",
+   "url": "https://www.cookingwithalia.com/about/",
+   "used_for": "Vérification : Alia partage la cuisine marocaine avec laquelle elle a grandi."
+  },
+  {
+   "name": "My Moroccan Food, page « About » (Nargisse Benkabbou)",
+   "url": "https://www.mymoroccanfood.com/about",
+   "used_for": "Vérification : élevée à Bruxelles dans une famille marocaine, ancienne cheffe exécutive de L'Mida à Marrakech, autrice de « Casablanca: My Moroccan Food »."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « Cooking your food », sur gov.uk",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Les restes se mangent froids s'ils ont été bien cuits, refroidis et mis au réfrigérateur dans les 2 heures ; à manger sous 48 heures."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « How to chill, freeze and defrost food safely », sur gov.uk, publié le 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Mettre les plats cuits au réfrigérateur dans les 1 à 2 heures ; réfrigérateur entre 0 et 5 °C ; restes sous 48 heures."
+  },
+  {
+   "name": "FDA (États-Unis), « Are You Storing Food Safely? », contenu à jour au 18 janvier 2023",
+   "url": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely",
+   "used_for": "Règle des 2 heures à température ambiante pour les restes (1 heure au-dessus de 32 °C) ; aliments couverts au réfrigérateur."
+  },
+  {
+   "name": "Lalla Moulati, astuce « أسهل وأسرع طريقة لإزالة قشور الفلفل المشوي », 19 décembre 2023",
+   "url": "https://www.lalamoulati.net/370322.html",
+   "used_for": "Contre-vérification : Source marocaine non citée : poivrons grillés au charbon ou au gaz, très aimés au Maroc en salade avec la tomate ; mis dans un sac plastique épais. Mais elle les lave ensuite dans le sac rempli d'eau : le « jamais sous l'eau » n'est pas une règle partagée."
+  },
+  {
+   "name": "Wikipédia (fr), « Chakchouka », section Maroc",
+   "url": "https://fr.wikipedia.org/wiki/Chakchouka",
+   "used_for": "Contre-vérification : Au Maroc, la chakchouka (poivron vert, tomate, ail) « peut être servie seule en salade cuite, ou chaude servie avec des œufs » : source directe du point « Nom »."
+  }
+ ],
+ "discrepancies": [
+  "Poivrons : 1 (Cooking With Alia n° 440, petite quantité), 2 (My Moroccan Food, Cooking With Alia n° 125, MarocMama, Choumicha, Lalla Moulati 2014), 3 (Bladi.net, Morocco World News), 4 (Lalla Moulati 2019). Retenu : 2 gros poivrons, valeur médiane et la plus fréquente (calcul python). Couleur : verts (My Moroccan Food, Cooking With Alia, MarocMama, Lalla Moulati 2019) ou un vert et un rouge (Choumicha, Lalla Moulati 2014) ; retenu : verts, les poivrons rouges en variante.",
+  "Tomates : de 1 (Cooking With Alia n° 440) à 5 (Cooking With Alia n° 125) ; 4 chez My Moroccan Food, Choumicha, MarocMama et Lalla Moulati (2014). Retenu : 4 grosses tomates, valeur médiane et la plus fréquente. Pelées, épépinées et coupées (My Moroccan Food, Choumicha, Bladi.net, MarocMama, Lalla Moulati, Cooking With Alia n° 440) ou râpées sans la peau (Cooking With Alia n° 125) : retenu pelées et coupées, râpées en astuce.",
+  "Ail : de 1 gousse (Choumicha, MarocMama) à 4 (Morocco World News) ; médiane 2 (My Moroccan Food, Bladi.net, Cooking With Alia n° 440). Retenu : 2 gousses.",
+  "Huile d'olive : 2 c. à s. (Cooking With Alia n° 125), 3 (My Moroccan Food), 4 (Choumicha : 3 d'olive et 1 de tournesol), 5 (Lalla Moulati 2014), ⅓ de tasse soit environ 79 ml ou 5 c. à s. (MarocMama). Retenu : 4 c. à s., la valeur médiane (calcul python).",
+  "Paprika : ½ c. à c. (Lalla Moulati 2014 ; Cooking With Alia n° 440 ramené à 2 poivrons), 1 c. à c. (My Moroccan Food, Cooking With Alia n° 125, Lalla Moulati 2019, Bladi.net), 1 c. à s. (Morocco World News, MarocMama). Retenu : 1 c. à c., médiane et valeur la plus fréquente. Choumicha utilise un mélange d'épices du commerce pour chermoula, dont la composition n'est pas donnée.",
+  "Cumin : ½ c. à c. (My Moroccan Food, Lalla Moulati 2014, Cooking With Alia n° 440 ramené à 2 poivrons), 1 c. à c. (Cooking With Alia n° 125, Lalla Moulati 2019, Bladi.net, Morocco World News), 2 c. à c. (MarocMama). Retenu : 1 c. à c., médiane.",
+  "Poivre noir : ¼ de c. à c. (Cooking With Alia n° 125), ½ c. à c. (Lalla Moulati 2019, Morocco World News, MarocMama) ; absent chez My Moroccan Food et Choumicha. Retenu : ½ c. à c., médiane.",
+  "Sel : ½ c. à c. (My Moroccan Food), 1 c. à c. (Cooking With Alia n° 125, Choumicha, MarocMama). Retenu : 1 c. à c., à ajuster.",
+  "Herbes : 1 c. à s. (Lalla Moulati 2014 et 2019), 4 c. à s. (My Moroccan Food), ¼ de tasse de chaque, soit 8 c. à s. en tout (Cooking With Alia n° 125) ; médiane 2,5 c. à s. Retenu : 2 c. à s. dans la cuisson, plus un peu pour décorer. Moment : avec les tomates (My Moroccan Food, Bladi.net, Lalla Moulati 2019, Morocco World News), avec les poivrons (Cooking With Alia n° 125) ou à la fin (Choumicha, Lalla Moulati 2014). Retenu : avec les tomates, et un peu au service.",
+  "Ail et épices : avec les tomates dès le début (My Moroccan Food, Cooking With Alia n° 125, Lalla Moulati 2014, Bladi.net), après les tomates (Cooking With Alia n° 440 ; Lalla Moulati 2019 pour le cumin et le paprika), avec les poivrons (Choumicha pour les épices), ou ail revenu d'abord (MarocMama). Retenu : tout avec les tomates.",
+  "Temps dans le sac : 5 minutes (Cooking With Alia n° 440), 10 (Choumicha ; Cooking With Alia n° 396), environ 15 (Rachida), 15 à 20 (Cooking With Alia n° 125), quelques minutes (Lalla Moulati). Retenu : 10 minutes, la médiane.",
+  "Cuisson des tomates seules : 10 minutes (My Moroccan Food, Cooking With Alia n° 440, Bladi.net), 15 minutes (Cooking With Alia n° 125). Retenu : 10 minutes. À couvert (My Moroccan Food, Choumicha) ou en remuant sans couvercle (Lalla Moulati) : retenu à couvert, en remuant de temps en temps.",
+  "Cuisson après les poivrons : 2 minutes (Lalla Moulati 2019), 5 à 10 (Morocco World News), 8 à 10 (Choumicha, à couvert), 10 (My Moroccan Food, Cooking With Alia n° 440, Bladi.net), 15 à 20 (Cooking With Alia n° 125). Retenu : 10 minutes à découvert, la médiane, jusqu'à évaporation du liquide.",
+  "Coupe des poivrons : petits dés ou petits morceaux (My Moroccan Food, Cooking With Alia n° 125, Lalla Moulati, Bladi.net, Morocco World News, MarocMama) ou lanières (Choumicha, Cooking With Alia n° 440). Retenu : petits dés.",
+  "Service : tiède ou froide (Choumicha, My Moroccan Food, Cooking With Alia n° 125, Lalla Moulati, Wikipédia), plutôt tiède (Bladi.net, Morocco World News), fraîche ou à température ambiante (MarocMama). Retenu : tiède ou froide.",
+  "Temps : préparation 20 minutes et cuisson 20 minutes (MarocMama) ; Choumicha compte 10 minutes de préparation et 30 de cuisson, soit le même total de 40 minutes ; environ 45 minutes selon Wikipédia (en). Retenu : 20 + 20.",
+  "Four : 200 °C en position gril (Rachida) ; 400 °F, soit 204 °C, donné aussi comme 200 °C par Cooking With Alia (n° 440). Retenu : 200 °C en position gril.",
+  "Nom : au Maroc, certains appellent aussi « chakchouka » la salade de poivrons et de tomates sans œufs (Wikipédia fr, « Chakchouka », section Maroc : seule en salade cuite, ou chaude avec des œufs) ; My Moroccan Food et Rachida en font deux plats différents. Choumicha écrit « Tektouka ».",
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 6 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Durée de grillage sur la flamme : aucune source ne la chiffre (My Moroccan Food retourne les poivrons toutes les 3 à 4 minutes) : pas de minuteur pour cette étape.",
+  "Durée au four : Rachida ne la donne pas pour le four (seulement 15 minutes à 200 °C à la friteuse à air), et les 20 + 20 minutes à 200 °C de Cooking With Alia (n° 396) concernent une autre salade de poivrons : durée non retenue.",
+  "Poids des « grosses tomates » et des « gros poivrons » : aucune source ne le donne.",
+  "Origine du mot « taktouka » : Wikipédia (en) le fait venir de l'arabe, Wikipédia (fr) du berbère ; aucune source fiable lue ne tranche, donc non utilisé. Le qualificatif « salade berbère » de Wikipédia (fr) n'est confirmé par aucune autre source.",
+  "Durée de conservation propre à la taktouka : aucune recette lue ne la donne ; les 48 heures viennent de la règle générale de la Food Standards Agency pour les restes.",
+  "Taste of Maroc n'a pas de page taktouka (plan du site archivé vérifié) ; la recette de Christine Benlafquih sur The Spruce Eats n'a pas été lue, car son robots.txt interdit les robots de Claude ; chhiwat.com interdit tous les robots. Femmes du Maroc : sa recherche interne (« taktouka ») ne donne aucune recette. Le360 (recherche interne interdite par son robots.txt) et Hespress : aucune recette trouvée avec l'outil de recherche.",
+  "Graphie latine : « Taktouka » chez My Moroccan Food, Cooking With Alia, Bladi.net et Morocco World News ; « Tektouka » chez Choumicha.",
+  "choumicha.ma est hors ligne (erreur 525) : ses pages ont été lues sur web.archive.org (copies de mai à juillet 2026) ; leur contenu actuel n'a pas pu être revérifié."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Salades",
+ "pairs": [
+  "khobz",
+  "salade-marocaine",
+  "zaalouk"
+ ],
+ "img_alt": "Taktouka, salade cuite de poivrons et de tomates (photographiée dans un restaurant marocain et libanais d'Honolulu)",
+ "img": "img/taktouka.jpg",
+ "photo": {
+  "author": "Joel Abroad",
+  "license": "CC BY-NC-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "page": "https://www.flickr.com/photos/40295335@N00/10103757764",
+  "modified": "non modifiée"
+ }
+});

@@ -1,0 +1,470 @@
+{
+ "_slug": "chakchouka",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Chakchouka à la marocaine",
+   "t": "Шакшука по-мароккански"
+  },
+  "darija": {
+   "fr": "Chakchouka",
+   "t": "Шакшука"
+  },
+  "tagline": {
+   "fr": "Des poivrons verts grillés et des tomates mijotés à l'ail, au cumin et au paprika, avec des œufs cuits dessus. On la mange bien chaude, dans la poêle, avec du pain.",
+   "t": "Запечённые на огне зелёные сладкие перцы и помидоры, тушённые с чесноком, кумином (зирой) и паприкой, а сверху — приготовленные на них яйца. Её едят горячей, прямо из сковороды, с хлебом."
+  },
+  "region": {
+   "fr": "Tout le Maghreb. Au Maroc, le nom désigne la poêlée de poivrons verts et de tomates à l'ail, mangée seule en salade cuite ou chaude avec des œufs (Wikipédia FR, section Maroc ; forum Yabiladi).",
+   "t": "Весь Магриб. В Марокко так называют обжаренные на сковороде зелёные перцы с помидорами и чесноком, которые едят отдельно, как салат из тушёных овощей, или горячими с яйцами (Wikipédia FR, раздел о Марокко; форум Yabiladi)."
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, dîner ou plat simple (vite fait avec des poivrons crus) ; Rachida la dit aussi très appréciée pendant le Ramadan. Sans œufs, elle se sert en salade cuite.",
+   "t": "Завтрак, ужин или простое блюдо (быстро, если взять сырые перцы); по словам Rachida, её очень любят и в Рамадан. Без яиц её подают как салат из тушёных овощей."
+  },
+  "img_alt": {
+   "fr": "Œufs cuits dans une poêle en fonte sur des poivrons et des tomates, avec du persil",
+   "t": "Яйца, приготовленные в чугунной сковороде поверх перцев и помидоров, с петрушкой"
+  },
+  "serving": {
+   "fr": "Sers la chakchouka aux œufs bien chaude, dans la poêle, dès la fin de la cuisson, avec du pain pour saucer (Lalla Moulati 2019 ; Rachida). Elle se mange au petit-déjeuner (Lalla Moulati 2019 ; Rachida) ou en plat principal (Rachida). Sans œufs, sers-la tiède ou froide, en salade cuite, comme une taktouka (Wikipédia FR ; chef Brahim Sakroune dans Femmes du Maroc).",
+   "t": "Подавайте шакшуку с яйцами горячей, прямо в сковороде, сразу после приготовления, с хлебом, чтобы собирать соус (Lalla Moulati 2019; Rachida). Её едят на завтрак (Lalla Moulati 2019; Rachida) или как основное блюдо (Rachida). Без яиц подавайте её тёплой или холодной, как салат из тушёных овощей, наподобие тактуки (Wikipédia FR; шеф Brahim Sakroune в Femmes du Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Légumes",
+   "t": "Овощи"
+  },
+  "ing.poivrons.name": {
+   "fr": "poivron vert",
+   "t": "зелёный сладкий перец"
+  },
+  "ing.poivrons.pl": {
+   "fr": "poivrons verts",
+   "t": "зелёных сладких перца"
+  },
+  "ing.poivrons.pl5": {
+   "fr": "poivron vert / poivrons verts",
+   "t": "зелёных сладких перцев"
+  },
+  "ing.poivrons.note": {
+   "fr": "à griller sans les couper",
+   "t": "запечь целиком, не разрезая"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "очень спелых помидоров"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper",
+   "t": "натереть на тёрке"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "луковица"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "луковицы"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon / oignons",
+   "t": "луковиц"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher",
+   "t": "мелко нарезать"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher",
+   "t": "мелко порубить"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson et épices",
+   "t": "Жарка и специи"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "количество уточните, пробуя на вкус"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.2.group": {
+   "fr": "Œufs et service",
+   "t": "Яйца и подача"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.oeufs.note": {
+   "fr": "un par personne",
+   "t": "по одному на человека"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "ou de coriandre",
+   "t": "или кинзы"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "оливковое масло"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, pour servir",
+   "t": "немного, полить при подаче"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "хлеб (хобз)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "чтобы собирать соус"
+  },
+  "equipment.0": {
+   "fr": "Gazinière (sinon, four en position gril et une plaque)",
+   "t": "Газовая плита (или духовка в режиме гриля и противень)"
+  },
+  "equipment.1": {
+   "fr": "Sac en plastique propre (type sac de congélation)",
+   "t": "Чистый полиэтиленовый пакет (например, для заморозки)"
+  },
+  "equipment.2": {
+   "fr": "Grande poêle profonde avec couvercle",
+   "t": "Большая глубокая сковорода с крышкой"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "Тёрка"
+  },
+  "equipment.4": {
+   "fr": "Planche et couteau",
+   "t": "Разделочная доска и нож"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "steps.0.title": {
+   "fr": "Grille les poivrons",
+   "t": "Запеките перцы на огне"
+  },
+  "steps.0.text": {
+   "fr": "Grille {{poivrons:full}} directement sur la flamme du gaz, en tournant souvent, jusqu'à ce que la peau soit noircie de tous les côtés. Sans gaz, utilise le gril du four, sur une plaque, en tournant régulièrement.",
+   "t": "Запеките {{poivrons:full}} прямо на огне газовой конфорки, часто переворачивая, пока кожица не почернеет со всех сторон. Если плита не газовая, используйте гриль духовки: выложите перцы на противень и регулярно переворачивайте."
+  },
+  "steps.0.tip": {
+   "fr": "Rachida les grille aussi au four, en position gril, à 200 °C.",
+   "t": "Rachida тоже запекает их в духовке в режиме гриля, при 200 °C."
+  },
+  "steps.1.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "Положите перцы в пакет"
+  },
+  "steps.1.text": {
+   "fr": "Glisse les poivrons encore chauds dans un sac en plastique, ferme-le et attends 15 minutes. La vapeur décolle la peau.",
+   "t": "Сложите ещё горячие перцы в полиэтиленовый пакет, закройте его и подождите 15 минут. Пар отделит кожицу."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poivrons dans le sac",
+   "t": "Перцы в пакете"
+  },
+  "steps.1.timer.done": {
+   "fr": "Les poivrons ont tiédi : tu peux les peler.",
+   "t": "Перцы немного остыли: можно снимать кожицу."
+  },
+  "steps.2.title": {
+   "fr": "Pèle et coupe les poivrons",
+   "t": "Очистите и нарежьте перцы"
+  },
+  "steps.2.text": {
+   "fr": "Retire la peau brûlée avec les doigts, sans passer les poivrons sous l'eau. Enlève la queue et les graines, puis coupe la chair en petits dés.",
+   "t": "Снимите обгоревшую кожицу пальцами, не промывая перцы водой. Удалите плодоножку и семена, затем нарежьте мякоть мелкими кубиками."
+  },
+  "steps.2.tip": {
+   "fr": "Rince-toi les mains plutôt que les poivrons : ils gardent leur goût fumé.",
+   "t": "Промывайте лучше руки, а не перцы: так перцы сохранят дымный аромат."
+  },
+  "steps.3.title": {
+   "fr": "Prépare tomates, oignon, ail et persil",
+   "t": "Подготовьте помидоры, лук, чеснок и петрушку"
+  },
+  "steps.3.text": {
+   "fr": "Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{oignon:full}} et {{ail:full}}. Lave et hache le persil.",
+   "t": "Разрежьте {{tomates}} помидоров пополам и натрите мякоть на тёрке; кожицу выбросьте. Мелко нарежьте лук ({{oignon}} шт.) и {{ail:full}}. Вымойте и порубите петрушку."
+  },
+  "steps.3.tip": {
+   "fr": "Tu peux aussi peler les tomates, les épépiner et les couper en petits dés, comme Rachida.",
+   "t": "Можно также очистить помидоры от кожицы, удалить семена и нарезать мякоть мелкими кубиками, как Rachida."
+  },
+  "steps.3.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.3.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Помидор на тёрке"
+  },
+  "steps.4.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Обжарьте лук до мягкости"
+  },
+  "steps.4.text": {
+   "fr": "Dans une grande poêle profonde, chauffe {{huile}} d'huile d'olive à feu doux. Ajoute l'oignon et remue jusqu'à ce qu'il devienne translucide.",
+   "t": "В большой глубокой сковороде разогрейте {{huile}} оливкового масла на слабом огне. Добавьте лук и помешивайте, пока он не станет прозрачным."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'ail et les poivrons",
+   "t": "Добавьте чеснок и перцы"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute l'ail et remue quelques secondes, sans le laisser dorer. Ajoute les dés de poivrons et remue 1 minute.",
+   "t": "Добавьте чеснок и помешивайте несколько секунд, не давая ему зарумяниться. Добавьте кубики перца и помешивайте 1 минуту."
+  },
+  "steps.6.title": {
+   "fr": "Assaisonne",
+   "t": "Приправьте"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute {{sel}} de sel, {{paprika}} de paprika, {{cumin}} de cumin et {{poivre}} de poivre noir. Mélange bien.",
+   "t": "Добавьте соль ({{sel}}), паприку ({{paprika}}), кумин ({{cumin}}) и чёрный перец ({{poivre}}). Хорошо перемешайте."
+  },
+  "steps.7.title": {
+   "fr": "Fais mijoter les tomates",
+   "t": "Потушите помидоры"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute les tomates râpées et mélange. Laisse mijoter à feu doux, en remuant souvent pour que rien n'attache, jusqu'à obtenir une compotée épaisse, presque sans jus. Goûte et rectifie le sel.",
+   "t": "Добавьте натёртые помидоры и перемешайте. Тушите на слабом огне, часто помешивая, чтобы ничего не пригорело, пока не получится густая масса почти без сока. Попробуйте и при необходимости досолите."
+  },
+  "steps.8.title": {
+   "fr": "Casse les œufs",
+   "t": "Разбейте яйца"
+  },
+  "steps.8.text": {
+   "fr": "Fais un petit creux dans la sauce pour chaque œuf. Casse {{oeufs:full}} dedans, comme pour des œufs au plat.",
+   "t": "Сделайте в соусе небольшое углубление для каждого яйца. Разбейте туда {{oeufs:full}}, как для глазуньи."
+  },
+  "steps.9.title": {
+   "fr": "Couvre et laisse prendre",
+   "t": "Накройте и дайте белкам схватиться"
+  },
+  "steps.9.text": {
+   "fr": "Couvre la poêle et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient bien pris. Pour un jaune bien cuit, laisse 2 à 3 minutes de plus, jusqu'à ce qu'il soit ferme.",
+   "t": "Накройте сковороду крышкой и готовьте на слабом огне около 5 минут, пока белки полностью не схватятся. Если нужен хорошо приготовленный желток, подержите ещё 2–3 минуты, пока он не станет плотным."
+  },
+  "steps.9.tip": {
+   "fr": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Fais-le toujours pour les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles : ce sont eux qui risquent le plus une salmonellose grave (FDA).",
+   "t": "FDA советует готовить яйца, пока и желток, и белок не станут плотными. Всегда делайте так для детей, пожилых, беременных и ослабленных людей: именно у них самый высокий риск тяжёлого сальмонеллёза (FDA)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Œufs à couvert",
+   "t": "Яйца под крышкой"
+  },
+  "steps.9.timer.done": {
+   "fr": "Les blancs sont-ils bien pris ? Pour un jaune ferme, compte encore 2 à 3 minutes.",
+   "t": "Белки полностью схватились? Для плотного желтка нужно ещё 2–3 минуты."
+  },
+  "steps.10.title": {
+   "fr": "Sers aussitôt",
+   "t": "Сразу подавайте"
+  },
+  "steps.10.text": {
+   "fr": "Retire du feu. Parsème de {{persil}} de persil haché et arrose d'un filet d'{{huile-service}}. Sers tout de suite dans la poêle, avec du {{khobz}} pour saucer.",
+   "t": "Снимите с огня. Посыпьте рубленой петрушкой ({{persil}}) и полейте тонкой струйкой оливкового масла. Сразу подавайте прямо в сковороде, с хлебом (хобзом), чтобы собирать соус."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, on préfère les poivrons grillés, pour leur goût fumé. Pressé ? Coupe-les crus en petits dés et fais-les fondre avec l'oignon : ça marche aussi.",
+   "t": "В Марокко предпочитают запечённые перцы за их дымный аромат. Торопитесь? Нарежьте их сырыми мелкими кубиками и тушите с луком до мягкости: так тоже получится."
+  },
+  "secrets.0.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida) ; forum Yabiladi (2006) pour les deux façons ; Lalla Moulati (2019) pour les poivrons crus",
+   "t": "Rachida (Gâteau et cuisine Rachida); форум Yabiladi (2006) — оба способа; Lalla Moulati (2019) — сырые перцы"
+  },
+  "secrets.1.text": {
+   "fr": "Enferme les poivrons grillés encore chauds dans un sac fermé : la vapeur décolle la peau, qui s'enlève ensuite très facilement.",
+   "t": "Положите ещё горячие запечённые перцы в закрытый пакет: пар отделит кожицу, и потом она снимется очень легко."
+  },
+  "secrets.1.source": {
+   "fr": "Rachida (15 min) ; Cooking With Alia (15 à 20 min) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama (méthode de sa belle-mère)",
+   "t": "Rachida (15 мин); Cooking With Alia (15–20 мин); Lalla Moulati (тактука, 2014 и 2019); MarocMama (способ её свекрови)"
+  },
+  "secrets.2.text": {
+   "fr": "Ne passe pas les poivrons grillés sous l'eau : pèle-les à sec pour garder le goût fumé, et rince-toi plutôt les mains.",
+   "t": "Не промывайте запечённые перцы водой: очищайте их всухую, чтобы сохранить дымный аромат, а промывайте лучше руки."
+  },
+  "secrets.2.source": {
+   "fr": "Chef Brahim Sakroune dans Femmes du Maroc (2023) ; Lalla Moulati (taktouka, 2014 et 2019)",
+   "t": "Шеф Brahim Sakroune в Femmes du Maroc (2023); Lalla Moulati (тактука, 2014 и 2019)"
+  },
+  "secrets.3.text": {
+   "fr": "Coupe les tomates en deux et râpe la chair en jetant la peau : c'est rapide, et la sauce n'a pas de peaux.",
+   "t": "Разрежьте помидоры пополам и натрите мякоть на тёрке, а кожицу выбросьте: это быстро, и в соусе не будет кожицы."
+  },
+  "secrets.3.source": {
+   "fr": "Lalla Moulati (tomates râpées, 2019) ; Cooking With Alia (taktouka : chair râpée, peau jetée)",
+   "t": "Lalla Moulati (натёртые помидоры, 2019); Cooking With Alia (тактука: мякоть натирают, кожицу выбрасывают)"
+  },
+  "secrets.4.text": {
+   "fr": "L'ail ne doit pas dorer : quelques secondes dans l'huile suffisent pour la parfumer.",
+   "t": "Чеснок не должен зарумяниваться: нескольких секунд в масле достаточно, чтобы оно пропиталось его ароматом."
+  },
+  "secrets.4.source": {
+   "fr": "Rachida",
+   "t": "Rachida"
+  },
+  "secrets.5.text": {
+   "fr": "Avant les œufs, la sauce doit devenir une compotée épaisse. Remue souvent pour qu'elle n'attache pas.",
+   "t": "Прежде чем добавлять яйца, доведите соус до густой массы. Часто помешивайте, чтобы он не пригорел."
+  },
+  "secrets.5.source": {
+   "fr": "Rachida ; Lalla Moulati (2019 : laisser le mélange épaissir)",
+   "t": "Rachida; Lalla Moulati (2019: дать смеси загустеть)"
+  },
+  "secrets.6.text": {
+   "fr": "Casse chaque œuf dans un petit creux de la sauce : il cuit à la surface, comme un œuf au plat.",
+   "t": "Разбивайте каждое яйцо в небольшое углубление в соусе: оно готовится на поверхности, как глазунья."
+  },
+  "secrets.6.source": {
+   "fr": "Rachida ; Wikipédia FR (section Maroc : œufs au plat cuits à la surface)",
+   "t": "Rachida; Wikipédia FR (раздел о Марокко: глазунья, приготовленная на поверхности)"
+  },
+  "secrets.7.text": {
+   "fr": "Le couvercle cuit le dessus des œufs : environ 5 minutes pour un jaune encore coulant, un peu plus pour un jaune ferme.",
+   "t": "Под крышкой яйца готовятся и сверху: около 5 минут для ещё жидкого желтка, чуть дольше — для плотного."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama (5 min à couvert, jaune coulant) ; Rachida (couvrir pour un jaune bien cuit) ; Lalla Moulati (2019 : environ 8 min à couvert)",
+   "t": "MarocMama (5 мин под крышкой, жидкий желток); Rachida (накрыть, чтобы желток хорошо приготовился); Lalla Moulati (2019: около 8 мин под крышкой)"
+  },
+  "secrets.8.text": {
+   "fr": "Sers dans la poêle, bien chaud, et mange-la à la main avec du pain, à la marocaine.",
+   "t": "Подавайте горячей прямо в сковороде и ешьте руками с хлебом, по-марокански."
+  },
+  "secrets.8.source": {
+   "fr": "Rachida ; Lalla Moulati (2019 : servir aussitôt)",
+   "t": "Rachida; Lalla Moulati (2019: подавать сразу)"
+  },
+  "secrets.9.text": {
+   "fr": "Ne la confonds pas avec la taktouka : c'est le même duo poivrons et tomates, mais en salade cuite, sans œufs, servie tiède ou froide. Pour My Moroccan Food, ce sont deux plats différents.",
+   "t": "Не путайте её с тактукой: это тот же дуэт перцев и помидоров, но в виде салата из тушёных овощей, без яиц, который подают тёплым или холодным. Для My Moroccan Food это два разных блюда."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food (2016) ; Cooking With Alia ; Choumicha (Tektouka marqa) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama ; Rachida",
+   "t": "My Moroccan Food (2016); Cooking With Alia; Choumicha (Tektouka marqa); Lalla Moulati (тактука, 2014 и 2019); MarocMama; Rachida"
+  },
+  "secrets.10.text": {
+   "fr": "Le plat marocain de tous les jours aux œufs et à la tomate porte un autre nom : « bid w maticha » (œufs et tomates).",
+   "t": "У повседневного марокканского блюда из яиц и помидоров другое название: «бид у матиша» (яйца и помидоры)."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)",
+   "t": "Wikipedia EN (Shakshouka); Lalla Moulati (2018: «البيض ومطيشة», которое «умеет готовить каждый»); Hespress (2012: многие марокканки выбирают его на ужин); Al-Quds al-Arabi (2023: для марокканцев это самая простая, самая известная и самая дешёвая еда)"
+  },
+  "secrets.11.text": {
+   "fr": "Tomates pas assez douces ? My Moroccan Food ajoute une demi-cuillère à café de sucre à sa taktouka, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
+   "t": "Помидоры недостаточно сладкие? My Moroccan Food добавляет в свою тактуку половину чайной ложки сахара и не кладёт его, если помидоры очень сладкие, как в Марокко."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food (taktouka, 2016)",
+   "t": "My Moroccan Food (тактука, 2016)"
+  },
+  "secrets.12.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte peu profonde, et à manger dans les 3 jours (la FDA va jusqu'à 3 à 4 jours). Réchauffe-les jusqu'à 74 °C (165 °F).",
+   "t": "Остатки уберите в холодильник в течение 2 часов, в неглубоком контейнере, и съешьте в течение 3 дней (FDA допускает 3–4 дня). Разогревайте их до 74 °C (165 °F)."
+  },
+  "secrets.12.source": {
+   "fr": "FDA, « What You Need to Know About Egg Safety » ; Anses, « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques » (8 avril 2020)",
+   "t": "FDA, «What You Need to Know About Egg Safety»; Anses, «Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques» (8 апреля 2020 года)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les poivrons grillés sous l'eau : ils perdent leur goût fumé (chef Brahim Sakroune, Femmes du Maroc ; Lalla Moulati).",
+   "t": "Промывать запечённые перцы водой: они теряют дымный аромат (шеф Brahim Sakroune, Femmes du Maroc; Lalla Moulati)."
+  },
+  "mistakes.1": {
+   "fr": "Casser les œufs dans une sauce encore liquide : attends qu'elle soit épaisse (Rachida ; Lalla Moulati).",
+   "t": "Разбивать яйца в ещё жидкий соус: дождитесь, пока он загустеет (Rachida; Lalla Moulati)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser attacher la sauce : remue souvent, à feu doux (Rachida).",
+   "t": "Давать соусу пригорать: часто помешивайте на слабом огне (Rachida)."
+  },
+  "mistakes.3": {
+   "fr": "Servir un jaune coulant à un enfant, une personne âgée, une femme enceinte ou une personne fragile : cuis le jaune et le blanc jusqu'à ce qu'ils soient fermes (FDA).",
+   "t": "Подавать жидкий желток ребёнку, пожилому человеку, беременной женщине или ослабленному человеку: готовьте, пока и желток, и белок не станут плотными (FDA)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "Оставлять остатки вне холодильника дольше 2 часов (FDA)."
+  },
+  "variants.0": {
+   "fr": "Sans œufs, en salade cuite : arrête-toi après la compotée et sers tiède ou froid. Au Maroc, certains l'appellent alors aussi taktouka (forum Yabiladi, 2006 : « chekchouka ou taktouka » ; « salade cuite » selon Wikipédia FR ; « salade chakchouka tiède » du chef Brahim Sakroune, Femmes du Maroc, 2023).",
+   "t": "Без яиц, как салат из тушёных овощей: остановитесь, когда получится густая масса, и подавайте тёплой или холодной. В Марокко её тогда иногда называют и тактукой (форум Yabiladi, 2006: «шекшука или тактука»; «салат из тушёных овощей», по Wikipédia FR; «тёплый салат шакшука» шефа Brahim Sakroune, Femmes du Maroc, 2023)."
+  },
+  "variants.1": {
+   "fr": "Poivrons crus, plus rapide : coupe-les en petits dés et fais-les fondre avec l'oignon jusqu'à ce qu'ils soient tendres, puis ajoute l'ail et les épices (Lalla Moulati, 2019 ; forum Yabiladi, 2006).",
+   "t": "Сырые перцы, быстрее: нарежьте их мелкими кубиками и тушите с луком до мягкости, затем добавьте чеснок и специи (Lalla Moulati, 2019; форум Yabiladi, 2006)."
+  },
+  "variants.2": {
+   "fr": "Œufs brouillés : verse les œufs battus sur la sauce et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014, avec seulement oignon et tomates ; Rachida cite aussi les œufs légèrement brouillés).",
+   "t": "Болтунья: вылейте взбитые яйца на соус и помешивайте, пока они не приготовятся (Lalla Moulati, 2014, только с луком и помидорами; Rachida упоминает и слегка перемешанные яйца)."
+  },
+  "variants.3": {
+   "fr": "Avec du concentré de tomate : Lalla Moulati (2019) en met 2 c. à s. pour 400 g de tomates râpées.",
+   "t": "С томатной пастой: Lalla Moulati (2019) кладёт 2 ст. л. на 400 г натёртых помидоров."
+  },
+  "variants.4": {
+   "fr": "Poivrons de couleurs : rouges, verts et jaunes mélangés (Rachida ; chef Brahim Sakroune). Choumicha met un poivron vert et un rouge dans sa tektouka.",
+   "t": "Разноцветные перцы: красные, зелёные и жёлтые вперемешку (Rachida; шеф Brahim Sakroune). Choumicha кладёт в свою тектуку один зелёный и один красный перец."
+  },
+  "variants.5": {
+   "fr": "Plus relevée : un piment, du piment d'Espelette ou de l'harissa (Rachida) ; une pincée de piment de Cayenne (My Moroccan Food, taktouka).",
+   "t": "Поострее: острый перчик, перец эспелет или харисса (Rachida); щепотка кайенского перца (My Moroccan Food, тактука)."
+  },
+  "variants.6": {
+   "fr": "Sans oignon : seulement poivrons, tomates, ail et épices, comme chez plusieurs internautes de Yabiladi (2006 ; d'autres y mettent de l'oignon) et le chef Brahim Sakroune (2023) ; Rachida propose aussi de l'essayer sans oignon.",
+   "t": "Без лука: только перцы, помидоры, чеснок и специи, как у нескольких пользователей Yabiladi (2006; другие кладут лук) и у шефа Brahim Sakroune (2023); Rachida тоже предлагает попробовать без лука."
+  }
+ }
+}

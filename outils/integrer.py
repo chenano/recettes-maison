@@ -28,18 +28,33 @@ PHOTOS = {  # slug -> (fichier dans img/, modification faite)
     "salade-marocaine": ("salade-marocaine.jpg", "réduite"), "escalopes-poulet-panees": ("escalopes-poulet-panees.jpg", "non modifiée"),
     "poulet-creme-champignons": ("poulet-creme-champignons.jpg", "non modifiée"), "taboule": ("taboule.jpg", "réduite"),
     "frites": ("frites.jpg", "réduite"),
+    # série du 8 novembre 2026 (20 recettes) : Commons réduites à 1280 px ; Flickr et petits originaux non modifiés
+    "batbout": ("batbout.jpg", "réduite"), "sfenj": ("sfenj.jpg", "réduite"), "maakouda": ("maakouda.jpg", "non modifiée"),
+    "briouates-kefta": ("briouates-kefta.jpg", "réduite"), "sellou": ("sellou.jpg", "réduite"), "ghriba": ("ghriba.jpg", "non modifiée"),
+    "seffa-medfouna": ("seffa-medfouna.jpg", "réduite"), "mrouzia": ("mrouzia.jpg", "réduite"),
+    "tajine-petits-pois-artichauts": ("tajine-petits-pois-artichauts.jpg", "non modifiée"), "taktouka": ("taktouka.jpg", "non modifiée"),
+    "crepes": ("crepes.jpg", "réduite"), "pancakes": ("pancakes.jpg", "réduite"), "hachis-parmentier": ("hachis-parmentier.jpg", "non modifiée"),
+    "gratin-dauphinois": ("gratin-dauphinois.jpg", "non modifiée"), "tortilla-espagnole": ("tortilla-espagnole.jpg", "réduite"),
+    "houmous": ("houmous.jpg", "réduite"), "falafel": ("falafel.jpg", "réduite"), "shawarma-poulet": ("shawarma-poulet.jpg", "réduite"),
+    "butter-chicken": ("butter-chicken.jpg", "réduite"), "biryani-poulet": ("biryani-poulet.jpg", "réduite"),
 }
 # pays d'origine des recettes qui ne sont pas marocaines (d'après le champ « region » de leur recherche)
 CUISINE = {"riz-saute-oeufs": "Chinoise", "salade-pois-chiches-thon": "Italienne", "soupe-lentilles-corail": "Turque",
            "spaghetti-aglio-olio": "Italienne", "pates-thon-tomate": "Italienne", "omelette": "Française",
            "escalopes-poulet-panees": "Française", "poulet-creme-champignons": "Française et suisse", "taboule": "Libanaise",
-           "frites": "Belge et française"}
+           "frites": "Belge et française",
+           "crepes": "Française", "pancakes": "Américaine", "hachis-parmentier": "Française", "gratin-dauphinois": "Française",
+           "tortilla-espagnole": "Espagnole", "houmous": "Libanaise", "falafel": "Levantine", "shawarma-poulet": "Libanaise",
+           "butter-chicken": "Indienne", "biryani-poulet": "Indienne"}
 # date de la contre-vérification (deuxième série : faite le 7 novembre 2026)
 SERIE2 = {"lentilles", "loubia", "bissara", "dchicha", "chakchouka", "maqarouna", "poisson-frit", "sandwich-poisson", "tajine-poisson",
           "baghrir", "cake-marocain", "malwi", "rghayef", "spaghetti-aglio-olio", "pates-thon-tomate", "omelette", "riz-saute-oeufs",
           "salade-pois-chiches-thon", "soupe-lentilles-corail",
           "bid-maticha", "kefta-poele", "salade-marocaine", "escalopes-poulet-panees", "poulet-creme-champignons", "taboule"}
-SERIE4 = {"frites"}  # contre-vérification faite après le 7 novembre : date lue sur le fichier de vérification
+SERIE4 = {"frites",  # contre-vérification faite après le 7 novembre : date lue sur le fichier de vérification
+          "batbout", "sfenj", "maakouda", "briouates-kefta", "sellou", "ghriba", "seffa-medfouna", "mrouzia",
+          "tajine-petits-pois-artichauts", "taktouka", "crepes", "pancakes", "hachis-parmentier", "gratin-dauphinois",
+          "tortilla-espagnole", "houmous", "falafel", "shawarma-poulet", "butter-chicken", "biryani-poulet"}
 # texte alternatif quand la photo ne montre pas exactement la recette (la photo du tajine aux pruneaux est un tajine de veau)
 IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
            "khobz": "Piles de khobz ronds sur un étal de Chefchaouen",
@@ -67,7 +82,27 @@ IMG_ALT = {"tajine-agneau-pruneaux": "Tajine aux pruneaux et aux amandes, dans s
            "escalopes-poulet-panees": "Escalopes de poulet panées et dorées, avec du brocoli et des pommes de terre",
            "poulet-creme-champignons": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
            "taboule": "Taboulé au persil garni de rondelles de citron et de feuilles de laitue (photo prise en Jordanie)",
-           "frites": "Frites maison dorées, coupées en gros bâtonnets, sur une assiette"}
+           "frites": "Frites maison dorées, coupées en gros bâtonnets, sur une assiette",
+           "batbout": "Deux batbouts gonflés qui cuisent sur une plaque en fonte, au Maroc",
+           "sfenj": "Sfenj en anneau, dorés et brillants, sur une assiette, à Marrakech",
+           "maakouda": "Maakouda : galettes de pommes de terre aux herbes, dorées à la friture",
+           "briouates-kefta": "Briouates pliées en triangle et dorées, sur une assiette blanche (la photo ne précise pas leur garniture)",
+           "sellou": "Sellou moulé en dôme et décoré d'amandes, une part coupée",
+           "ghriba": "Ghriba aux amandes craquelée et poudrée de sucre glace",
+           "seffa-medfouna": "Seffa de vermicelles en dôme, décorée de lignes de cannelle et de sucre glace, dans un plat bleu, au Maroc",
+           "mrouzia": "Mrouzia en gros plan : agneau au miel, raisins secs et amandes (photo prise au Maroc)",
+           "tajine-petits-pois-artichauts": "Tajine de bœuf aux petits pois et au citron confit, servi sur de la semoule (photo d'une version sans artichauts)",
+           "taktouka": "Taktouka, salade cuite de poivrons et de tomates (photographiée dans un restaurant marocain et libanais d'Honolulu)",
+           "crepes": "Crêpe bretonne pliée, nappée de caramel au beurre salé et de sucre glace (une des garnitures possibles)",
+           "pancakes": "Pile de pancakes américains nappés de sirop d'érable",
+           "hachis-parmentier": "Hachis parmentier gratiné et entamé : la purée sur la viande hachée",
+           "gratin-dauphinois": "Gratin dauphinois doré dans son plat",
+           "tortilla-espagnole": "Tortilla de patatas entière et dorée, sur une assiette",
+           "houmous": "Houmous à la libanaise dans un bol, avec huile d'olive, pois chiches entiers et paprika",
+           "falafel": "Falafels dorés, alignés",
+           "shawarma-poulet": "Chawarma de poulet roulé dans un pain lavash et coupé en deux, avec de la roquette",
+           "butter-chicken": "Butter chicken (murgh makhani) dans un bol blanc, avec de la coriandre",
+           "biryani-poulet": "Biryani de poulet à la hyderabadi dans une marmite en cuivre, avec du raïta"}
 # rayon de l'accueil (catégories)
 RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajines", "harira": "Soupes",
          "pastilla-poulet": "Plats", "tajine-kefta-oeufs": "Tajines", "msemen": "Pains",
@@ -82,7 +117,14 @@ RAYON = {"couscous-sept-legumes": "Plats", "tajine-poulet-citron-olives": "Tajin
          "soupe-lentilles-corail": ["D'ailleurs", "Soupes"],
          # troisième série : 6 recettes faciles
          "bid-maticha": "Plats", "kefta-poele": "Plats", "salade-marocaine": "Salades", "escalopes-poulet-panees": "D'ailleurs",
-         "poulet-creme-champignons": "D'ailleurs", "taboule": ["D'ailleurs", "Salades"], "frites": "D'ailleurs"}
+         "poulet-creme-champignons": "D'ailleurs", "taboule": ["D'ailleurs", "Salades"], "frites": "D'ailleurs",
+         # cinquième série : 20 recettes (8 novembre 2026)
+         "batbout": "Pains", "sfenj": "Douceurs", "maakouda": "Plats", "briouates-kefta": "Plats", "sellou": "Douceurs",
+         "ghriba": "Douceurs", "seffa-medfouna": "Plats", "mrouzia": "Tajines", "tajine-petits-pois-artichauts": "Tajines",
+         "taktouka": "Salades", "crepes": ["D'ailleurs", "Douceurs"], "pancakes": ["D'ailleurs", "Douceurs"],
+         "hachis-parmentier": "D'ailleurs", "gratin-dauphinois": "D'ailleurs", "tortilla-espagnole": "D'ailleurs",
+         "houmous": "D'ailleurs", "falafel": "D'ailleurs", "shawarma-poulet": "D'ailleurs", "butter-chicken": "D'ailleurs",
+         "biryani-poulet": "D'ailleurs"}
 # « à servir avec » : seulement quand le service de la recette (sourcé) cite l'accompagnement
 PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"], "tajine-agneau-pruneaux": ["khobz"],
          "tajine-kefta-oeufs": ["khobz"], "msemen": ["the-menthe"], "harcha": ["the-menthe"], "zaalouk": ["khobz"],
@@ -91,11 +133,18 @@ PAIRS = {"harira": ["msemen", "khobz"], "tajine-poulet-citron-olives": ["khobz"]
          "cake-marocain": ["the-menthe"], "poisson-frit": ["sandwich-poisson"], "sandwich-poisson": ["poisson-frit", "khobz"],
          "lentilles": ["khobz"], "loubia": ["khobz", "poisson-frit"], "malwi": ["the-menthe"], "rghayef": ["the-menthe"],
          "kefta-poele": ["khobz", "salade-marocaine", "the-menthe"], "bid-maticha": ["khobz", "the-menthe"],
-         "salade-marocaine": ["khobz"]}
+         "salade-marocaine": ["khobz"],
+         # cinquième série
+         "batbout": ["kefta-poele", "salade-marocaine", "taktouka"], "sfenj": ["the-menthe"], "sellou": ["the-menthe"],
+         "ghriba": ["the-menthe"], "mrouzia": ["khobz"], "tajine-petits-pois-artichauts": ["khobz"],
+         "taktouka": ["khobz", "salade-marocaine", "zaalouk"], "shawarma-poulet": ["frites"]}
 PAIRS_LABEL = {"the-menthe": "Avec le thé", "khobz": "Avec le khobz", "poisson-frit": "En sandwich", "sandwich-poisson": "Les recettes utilisées"}
 # nom du temps d'attente quand ce n'est pas un simple repos
 REST_LABEL = {"rfissa-poulet": "Trempage", "khobz": "Levée", "poisson-frit": "Marinade", "sandwich-poisson": "Marinade", "tajine-poisson": "Marinade",
-              "loubia": "Trempage", "frites": "Repos"}  # frites : repos entre les deux cuissons (libellé court pour les cartes)
+              "loubia": "Trempage", "frites": "Repos",  # frites : repos entre les deux cuissons (libellé court pour les cartes)
+              "batbout": "Levée", "sfenj": "Levée", "crepes": "Repos", "pancakes": "Repos", "mrouzia": "Marinade",
+              "butter-chicken": "Marinade", "biryani-poulet": "Marinade", "falafel": "Trempage", "shawarma-poulet": "Marinade",
+              "sellou": "Beurre au frais"}  # sellou : le beurre clarifié durcit au frais pendant la suite de la préparation
 # ingrédient qui renvoie vers une autre recette de l'application
 LINKS = {"rfissa-poulet": {"msemen": "msemen"}}
 credits = {c["file"]: c for c in json.load(open(os.path.join(APP, "img", "credits.json"), encoding="utf-8"))}
@@ -109,13 +158,13 @@ _ec = os.path.join(APP, "img", "etapes", "credits.json")
 ETAPES = {c["file"]: c for c in json.load(open(_ec, encoding="utf-8"))} if os.path.exists(_ec) else {}
 TECH_RULES = [  # (motif cherché dans le titre et le texte de l'étape, photo, texte alternatif, légende) ; une fois par recette
     (r"râpe[^.]{0,60}tomate|tomates?[^.]{0,60}râp", "tomate-rapee.jpg", "Tomate râpée sur une râpe", "Râper la tomate"),
-    (r"(hache|cisèle)[^.]{0,40}(persil|coriandre|herbes)", "hacher-persil.jpg", "Persil haché au couteau sur une planche", "Hacher les herbes"),
-    (r"(émince|hache)[^.]{0,30}oignon", "oignon-emince.jpg", "Oignon émincé et ail écrasé sur une planche", "Émincer l'oignon"),
+    (r"hache[^.]{0,40}(persil|coriandre|herbes)", "hacher-persil.jpg", "Persil haché au couteau sur une planche", "Hacher les herbes"),
+    (r"émince[^.]{0,30}oignon", "oignon-emince.jpg", "Oignon émincé et ail écrasé sur une planche", "Émincer l'oignon"),
     (r"pétri[^.]{0,80}pâte|pâte[^.]{0,80}pétri|pétri[^.]{0,20}\d+ minutes", "petrir.jpg", "Mains qui pétrissent une pâte", "Pétrir la pâte"),
 ]
 PAINS_SEULEMENT = {"petrir.jpg"}  # photo de pâte à pain : seulement pour les pains et galettes, jamais pour la viande
 NEGATIONS = re.compile(r"ne pétri\w* pas|sans pétrir|ne pas pétrir")
-EXCLUSIONS = {"oignon-emince.jpg": re.compile(r"oignons? verts?|cébette")}  # la photo montre un oignon jaune et de l'ail : pas pour les oignons verts
+EXCLUSIONS = {"oignon-emince.jpg": re.compile(r"oignons? verts?|cébette"), "hacher-persil.jpg": re.compile(r"ne hache pas|cisèle")}  # la photo montre un oignon jaune et de l'ail : pas pour les oignons verts
 STEP_SPECIFIC = {  # slug -> {index d'étape (0 = première): (photo, texte alternatif, légende)}
     "couscous-sept-legumes": {6: ("couscous-keskas.jpg", "Graine de couscous dans le haut d'un couscoussier", "La graine à la vapeur"),
                               14: ("couscous-a-la-main.jpg", "Main qui roule une boulette de couscous au-dessus du plat", "À la main, on roule des boulettes")},
@@ -129,6 +178,9 @@ STEP_SPECIFIC = {  # slug -> {index d'étape (0 = première): (photo, texte alte
                 12: ("msemen-cuisson.jpg", "Galettes feuilletées carrées qui dorent sur une grande plaque", "Cuire jusqu'à ce qu'elles soient bien dorées")},
     "poisson-frit": {13: ("sardines-friture.jpg", "Sardines frites et dorées, posées sur du papier absorbant", "Égoutter sur du papier absorbant")},
     "frites": {5: ("frites-bain.jpg", "Frites encore pâles qui cuisent dans un panier plongé dans l'huile, sur le feu", "Les frites dans le bain d'huile")},
+    "seffa-medfouna": {7: ("couscous-keskas.jpg", "Le haut d'un couscoussier posé sur la marmite, ici rempli de graine de couscous", "La cuisson à la vapeur du couscoussier")},
+    "crepes": {9: ("crepe-cuisson.jpg", "Crêpe qui cuit sur une crêpière électrique", "La crêpe cuit en couche fine")},
+    "falafel": {12: ("falafel-friture.jpg", "Falafels qui frient dans une grande poêle d'huile, à Alep (Syrie)", "La friture des falafels")},
 }
 def dims(path):
     import subprocess
@@ -140,8 +192,12 @@ def set_step_img(r, i, fn, alt, cap):
     c, rel = (ETAPES[fn], "img/etapes/" + fn) if fn in ETAPES else (credits[fn], "img/" + fn)
     w, h = dims(os.path.join(APP, rel))
     src = "Flickr" if "flickr.com" in c["page"] else "Wikimedia Commons"
+    modif = "réduite"  # même règle que outils/photos.py ; sans taille d'origine connue : « réduite »
+    if c.get("orig_size"):
+        ow, oh = map(int, c["orig_size"].split("x"))
+        modif = "non modifiée" if (w, h) == (ow, oh) else "réduite" if abs(w / h - ow / oh) <= 0.01 * (ow / oh) else "recadrée et réduite"
     r["steps"][i]["img"] = {"src": rel, "alt": alt, "caption": cap, "w": w, "h": h,
-        "credit": f"Photo de l'étape « {r['steps'][i]['title']} » : {c['author']}, {src}, licence {c['license']} (réduite)."}
+        "credit": f"Photo de l'étape « {r['steps'][i]['title']} » : {c['author']}, {src}, licence {c['license']} ({modif})."}
 def photos_des_gestes(slug, r):
     used = {st["img"]["src"].rsplit("/", 1)[-1] for st in r["steps"] if st.get("img")}
     for i, (fn, alt, cap) in STEP_SPECIFIC.get(slug, {}).items():
@@ -154,6 +210,9 @@ def photos_des_gestes(slug, r):
             if fn in PAINS_SEULEMENT and ("Pains" not in (RAYON.get(slug) if isinstance(RAYON.get(slug), list) else [RAYON.get(slug)]) or NEGATIONS.search(txt)):
                 continue
             if fn in EXCLUSIONS and EXCLUSIONS[fn].search(txt):
+                continue
+            # la photo de l'oignon émincé montre aussi de l'ail : seulement pour une recette qui en contient
+            if fn == "oignon-emince.jpg" and not any(it.get("canon") == "ail" for g in r["ingredients"] for it in g["items"]):
                 continue
             if fn not in used and re.search(rx, txt):
                 set_step_img(r, i, fn, alt, cap); used.add(fn); break
@@ -242,6 +301,8 @@ def canon_key(slug, it):
 # Corrections des contre-vérifications des nouvelles recettes (recherche/verification-<slug>.json)
 VERIF_SKIP = {  # slug -> {index de correction écartée: raison}
     "khobz": {7: "l'appli affiche désormais 315 ml, car elle arrondit à 5 ml près sous 500 ml"},
+    "gratin-dauphinois": {0: "retirer la quantité de la gousse qui frotte le plat, pour éviter « ¼ gousse » pour 1 personne : elle garde plutôt une quantité fixe, 1 gousse quel que soit le nombre de personnes",
+                          1: "la phrase de l'étape 4 reste donc « Coupe 1 gousse d'ail en deux »"},
 }
 def chemin(r, champ):
     obj, parts = r, re.findall(r"[^.\[\]]+|\[\d+\]", champ)
@@ -337,9 +398,13 @@ NOTE_FIXES = {
                                     "poulet": ("environ 1,5 kg, coupé en 4 à 6 morceaux", "environ 1,5 kg pièce, à couper en 4 à 6 morceaux")},
 }
 # Ingrédients qui se préparent entiers : quantité arrondie à l'unité supérieure (on grille un poivron entier, pas ¾)
-ROUND_UP = {"chakchouka": ["poivrons"], "escalopes-poulet-panees": ["oeufs"]}  # un œuf entier pour paner, même pour 1
+ROUND_UP = {"chakchouka": ["poivrons"], "escalopes-poulet-panees": ["oeufs"],  # un œuf entier pour paner, même pour 1
+            # épices entières : un clou, une feuille, une pincée entière, même pour 1 personne (on ne coupe pas un clou de girofle en quatre)
+            "butter-chicken": ["clous", "laurier"], "biryani-poulet": ["clous", "laurier", "safran"], "couscous-sept-legumes": ["safran"]}
 def apres_verif(slug, r):
     """Ajouts faits après lecture des contre-vérifications, avec leur source."""
+    if slug == "gratin-dauphinois":  # contre-vérification : l'appli affichait « ¼ gousse d'ail » pour 1 personne
+        next(it for g in r["ingredients"] for it in g["items"] if it["id"] == "ail-plat")["fixed"] = True
     for g in r["ingredients"]:
         for it in g["items"]:
             if it["id"] in ROUND_UP.get(slug, []):
@@ -532,6 +597,37 @@ def photo_for(fname, modified):
     return {"author": c["author"], "license": c["license"], "license_url": c["license_url"],
             "page": c["page"], "modified": modified}
 
+# Relecture du 8 novembre 2026 : points relevés par les traducteurs, vérifiés sur les sources, puis corrigés exactement
+# (recherche/corrections-relecture.json : {slug: {"corrections": [{champ, actuel, propose, pourquoi, sources}], "retirer_sources": [url],
+#  "sources_ajoutees": [{name, url, ce_qu_elle_confirme}]}})
+_rl = os.path.join(APP, "recherche", "corrections-relecture.json")
+RELECTURE = json.load(open(_rl, encoding="utf-8")) if os.path.exists(_rl) else {}
+def relecture(slug, r):
+    d = RELECTURE.get(slug)
+    if not d:
+        return
+    n = 0
+    for c in d.get("corrections", []):
+        obj, key = chemin(r, c["champ"])
+        cur = obj[key]
+        if isinstance(cur, str):
+            assert c["actuel"] in cur, f"{slug} : relecture introuvable dans {c['champ']} : {c['actuel'][:70]}"
+            obj[key] = cur.replace(c["actuel"], c["propose"], 1)
+        else:
+            new = c["propose"]
+            obj[key] = json.loads(new) if isinstance(new, str) and re.fullmatch(r"-?\d+(\.\d+)?|null", new.strip()) else new
+        n += 1
+    for url in d.get("retirer_sources", []):
+        avant = len(r.get("sources", []))
+        r["sources"] = [x for x in r.get("sources", []) if x["url"] != url]
+        assert len(r["sources"]) < avant, f"{slug} : source à retirer introuvable : {url}"
+        n += 1
+    known = {x["url"] for x in r.get("sources", [])}
+    for sa in d.get("sources_ajoutees", []):
+        if sa["url"] not in known:
+            r.setdefault("sources", []).append({"name": sa["name"], "url": sa["url"], "used_for": "Relecture : " + sa["ce_qu_elle_confirme"]})
+    r.setdefault("discrepancies", []).append(f"Relue le 8 novembre 2026 pendant la traduction : {n} précision(s) apportée(s) après vérification des sources.")
+
 for slug in sys.argv[1:]:
     src = os.path.join(APP, "recherche", slug + ".json")
     raw = open(src, encoding="utf-8").read().strip()
@@ -560,6 +656,7 @@ for slug in sys.argv[1:]:
     corriger(slug, r)
     appliquer_verif(slug, r)
     apres_verif(slug, r)
+    relecture(slug, r)
     inconnues = []
     for g in r["ingredients"]:
         for it in g["items"]:
@@ -590,8 +687,9 @@ for slug in sys.argv[1:]:
     for idx, (sf, alt) in STEP_PHOTOS.get(slug, {}).items():
         c = credits[sf]
         w, h = dims(os.path.join(APP, "img", sf))
+        src = "Flickr" if "flickr.com" in c["page"] else "Wikimedia Commons"
         r["steps"][idx]["img"] = {"src": "img/" + sf, "alt": alt, "w": w, "h": h,
-            "credit": f"Photo de l'étape « {r['steps'][idx]['title']} » : {c['author']}, Wikimedia Commons, licence {c['license']} (réduite)."}
+            "credit": f"Photo de l'étape « {r['steps'][idx]['title']} » : {c['author']}, {src}, licence {c['license']} (réduite)."}
     photos_des_gestes(slug, r)
     out = os.path.join(APP, "recettes", slug + ".js")
     with open(out, "w", encoding="utf-8") as f:

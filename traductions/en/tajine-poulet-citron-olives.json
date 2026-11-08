@@ -1,0 +1,550 @@
+{
+ "_slug": "tajine-poulet-citron-olives",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Tajine de poulet aux citrons confits et aux olives",
+   "t": "Chicken tagine with preserved lemons and olives"
+  },
+  "darija": {
+   "fr": "Djaj mqualli bel hamd marqad w zitoun",
+   "t": "Djaj mqualli bel hamd marqad w zitoun"
+  },
+  "tagline": {
+   "fr": "Un poulet fondant au safran et au gingembre, nappé d'oignons fondus en sauce, relevé de citron confit et d'olives.",
+   "t": "Melt-in-the-mouth chicken with saffron and ginger, coated in a sauce of meltingly soft onions and lifted with preserved lemon and olives."
+  },
+  "region": {
+   "fr": "Tout le Maroc (plat national), cuisson m'qalli",
+   "t": "All over Morocco (a national dish), m'qalli style of cooking"
+  },
+  "occasion": {
+   "fr": "Repas de famille, invités et fêtes",
+   "t": "Family meals, guests and celebrations"
+  },
+  "serving": {
+   "fr": "Bien chaud, sur un plat ou directement dans le tajine posé au centre de la table : la sauce au fond, le poulet dessus, nappé de sauce aux oignons et décoré d'olives et de lanières de citron confit. Au Maroc, les tajines se mangent traditionnellement à la main, avec des morceaux de pain marocain pour attraper le poulet et la sauce ; il peut aussi s'accompagner de riz ou de couscous, et certains le servent avec des frites posées dessus ou autour.",
+   "t": "Piping hot, on a platter or straight from the tagine placed in the centre of the table: the sauce underneath, the chicken on top, coated with onion sauce and garnished with olives and strips of preserved lemon. In Morocco, tagines are traditionally eaten by hand, with pieces of Moroccan bread to scoop up the chicken and sauce; it can also be served with rice or couscous, and some people serve it with fries on top or around it."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et marinade",
+   "t": "Chicken and marinade"
+  },
+  "ing.poulet.name": {
+   "fr": "poulet halal, fermier (beldi) de préférence",
+   "t": "halal chicken, free-range (beldi) if possible"
+  },
+  "ing.poulet.pl": {
+   "fr": "poulets halal, fermiers (beldi) de préférence",
+   "t": "halal chickens, free-range (beldi) if possible"
+  },
+  "ing.poulet.note": {
+   "fr": "environ 1,5 kg pièce, à couper en 4 à 6 morceaux",
+   "t": "about 1.5 kg each, to be cut into 4 to 6 pieces"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "saffron threads"
+  },
+  "ing.safran.note": {
+   "fr": "une pincée généreuse ; Choumicha en compte 8 pistils",
+   "t": "a generous pinch; Choumicha uses 8 threads"
+  },
+  "ing.eau-safran.name": {
+   "fr": "d'eau chaude, pour infuser le safran",
+   "t": "hot water, for infusing the saffron"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin : le citron confit et les olives salent déjà",
+   "t": "adjust at the end: the preserved lemon and olives are already salty"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.gingembre.note": {
+   "fr": "bien bombée",
+   "t": "heaped"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir ou blanc moulu, selon le goût",
+   "t": "ground black or white pepper, to taste"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "smen (aged salted butter)"
+  },
+  "ing.smen.note": {
+   "fr": "ou du beurre ; facultatif",
+   "t": "or butter; optional"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail, écrasée ou râpée",
+   "t": "garlic clove, crushed or grated"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail, écrasées ou râpées",
+   "t": "garlic cloves, crushed or grated"
+  },
+  "ing.jus-citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "fresh lemon juice"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "chopped fresh coriander and parsley"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson",
+   "t": "Cooking"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen (jaune, blanc ou rouge)",
+   "t": "medium onion (brown, white or red)"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens (jaunes, blancs ou rouges)",
+   "t": "medium onions (brown, white or red)"
+  },
+  "ing.oignons.note": {
+   "fr": "à hacher finement",
+   "t": "finely chopped"
+  },
+  "ing.eau-depart.name": {
+   "fr": "d'eau, pour le départ de cuisson",
+   "t": "water, for the start of cooking"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile : moitié huile d'olive, moitié huile neutre",
+   "t": "oil: half olive oil, half neutral oil (sunflower)"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "d'eau chaude",
+   "t": "hot water"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "le liquide doit arriver à peu près aux deux tiers du poulet",
+   "t": "the liquid should come about two thirds of the way up the chicken"
+  },
+  "ing.2.group": {
+   "fr": "Citron confit et olives",
+   "t": "Preserved lemon and olives"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "preserved lemon"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "preserved lemons"
+  },
+  "ing.citron-confit.note": {
+   "fr": "l'écorce seulement, en fines lanières",
+   "t": "peel only, in thin strips"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives vertes ou violettes de bonne qualité",
+   "t": "good-quality green or purple olives"
+  },
+  "ing.olives.note": {
+   "fr": "dénoyautées ou non",
+   "t": "pitted or not"
+  },
+  "equipment.0": {
+   "fr": "Cocotte à fond épais avec couvercle, ou tajine en terre",
+   "t": "Heavy-based pot with a lid, or an earthenware tagine"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+   "t": "Heat diffuser (for an earthenware tagine, except on gas)"
+  },
+  "equipment.2": {
+   "fr": "Grand saladier",
+   "t": "Large bowl"
+  },
+  "equipment.3": {
+   "fr": "Petit bol",
+   "t": "Small bowl"
+  },
+  "equipment.4": {
+   "fr": "Petite casserole",
+   "t": "Small saucepan"
+  },
+  "equipment.5": {
+   "fr": "Spatule en bois",
+   "t": "Wooden spatula"
+  },
+  "equipment.6": {
+   "fr": "Papier aluminium",
+   "t": "Aluminium foil"
+  },
+  "steps.0.title": {
+   "fr": "Fais infuser le safran",
+   "t": "Infuse the saffron"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{safran}} de safran dans un petit bol avec {{eau-safran}} d'eau chaude. Laisse infuser 10 min.",
+   "t": "Put {{safran}} of saffron in a small bowl with {{eau-safran}} of hot water. Leave to infuse for 10 min."
+  },
+  "steps.0.timer.label": {
+   "fr": "Infusion du safran",
+   "t": "Infusing the saffron"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le safran a infusé : prépare la marinade.",
+   "t": "The saffron has infused: make the marinade."
+  },
+  "steps.1.title": {
+   "fr": "Prépare la marinade",
+   "t": "Make the marinade"
+  },
+  "steps.1.text": {
+   "fr": "Verse l'eau safranée dans un grand saladier et ajoute {{sel}} de sel, {{gingembre}} de gingembre, {{curcuma}} de curcuma, le poivre et {{smen}} de smen. Ajoute {{ail:full}}, {{jus-citron}} de jus de citron et {{herbes}} de coriandre et persil hachés, puis mélange bien.",
+   "t": "Pour the saffron water into a large bowl and add {{sel}} of salt, {{gingembre}} of ginger, {{curcuma}} of turmeric, the pepper and {{smen}} of smen. Add {{ail:full}}, {{jus-citron}} of lemon juice and {{herbes}} of chopped coriander and parsley, then mix well."
+  },
+  "steps.2.title": {
+   "fr": "Fais mariner le poulet",
+   "t": "Marinate the chicken"
+  },
+  "steps.2.text": {
+   "fr": "Coupe le poulet en 4 à 6 morceaux. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
+   "t": "Cut the chicken into 4 to 6 pieces. Coat each piece with the marinade, rubbing it in well, right under the skin. Cover and leave in the fridge for at least 1 h, ideally 2 h or overnight."
+  },
+  "steps.2.timer.label": {
+   "fr": "Marinade du poulet",
+   "t": "Marinating the chicken"
+  },
+  "steps.2.timer.done": {
+   "fr": "La marinade est prête : passe à la cuisson.",
+   "t": "The chicken has marinated: move on to cooking."
+  },
+  "steps.3.title": {
+   "fr": "Prépare oignons, citron confit et olives",
+   "t": "Prepare the onions, preserved lemon and olives"
+  },
+  "steps.3.text": {
+   "fr": "Pendant la marinade, hache finement {{oignons:full}}. Retire la pulpe de {{citron-confit:full}} et coupe l'écorce en fines lanières. Rince {{olives}} d'olives ; si elles viennent d'une boîte, elles sont plus salées : blanchis-les 10 min dans l'eau bouillante, puis égoutte-les.",
+   "t": "While the chicken marinates, finely chop {{oignons:full}}. Remove the pulp from {{citron-confit:full}} and cut the peel into thin strips. Rinse {{olives}} of olives; if they come from a tin, they are saltier: blanch them for 10 min in boiling water, then drain them."
+  },
+  "steps.3.timer.label": {
+   "fr": "Olives en boîte à blanchir",
+   "t": "Blanching tinned olives"
+  },
+  "steps.3.timer.done": {
+   "fr": "Égoutte les olives et mets-les de côté.",
+   "t": "Drain the olives and set them aside."
+  },
+  "steps.3.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.4.title": {
+   "fr": "Départ à cru, sans huile",
+   "t": "Start from raw, without oil"
+  },
+  "steps.4.text": {
+   "fr": "Mets le poulet et toute sa marinade dans une cocotte à fond épais avec les oignons et {{eau-depart}} d'eau. Laisse frémir 10 à 15 min à feu moyen en retournant les morceaux de temps en temps. C'est prêt quand l'eau s'est presque évaporée et que le poulet a changé de couleur sur toutes ses faces. Au tajine en terre, pose-le sur un diffuseur si tu n'as pas le gaz et ne dépasse pas le feu moyen.",
+   "t": "Put the chicken and all its marinade in a heavy-based pot with the onions and {{eau-depart}} of water. Leave to simmer for 10 to 15 min over medium heat, turning the pieces from time to time. It is ready when the water has almost evaporated and the chicken has changed colour on all sides. With an earthenware tagine, put it on a diffuser if you don't have gas, and don't go above medium heat."
+  },
+  "steps.4.timer.label": {
+   "fr": "Départ à cru",
+   "t": "Raw start"
+  },
+  "steps.4.timer.done": {
+   "fr": "L'eau a presque disparu et le poulet a changé de couleur partout ? Passe à l'étape suivante.",
+   "t": "Has the water almost gone and has the chicken changed colour all over? Move on to the next step."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'huile et l'eau chaude",
+   "t": "Add the oil and hot water"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute {{huile}} d'huile et {{eau-chaude}} d'eau chaude : le liquide doit arriver à peu près aux deux tiers du poulet, complète un peu si besoin. Au tajine en terre, mets moins d'eau qu'en cocotte.",
+   "t": "Add {{huile}} of oil and {{eau-chaude}} of hot water: the liquid should come about two thirds of the way up the chicken; top up a little if needed. In an earthenware tagine, use less water than in a pot."
+  },
+  "steps.6.title": {
+   "fr": "Laisse mijoter à couvert",
+   "t": "Simmer covered"
+  },
+  "steps.6.text": {
+   "fr": "Couvre et laisse mijoter à feu doux à moyen-doux environ 50 min, en vérifiant souvent que rien n'attache au fond. Le poulet est prêt quand il est tendre au toucher et que le liquide a bien réduit. Un poulet beldi, comme la cuisson au tajine en terre, demande nettement plus de temps.",
+   "t": "Cover and leave to simmer over low to medium-low heat for about 50 min, checking often that nothing is sticking to the bottom. The chicken is ready when it feels tender and the liquid has reduced well. A beldi chicken, like cooking in an earthenware tagine, takes considerably longer."
+  },
+  "steps.6.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "Simmering the chicken"
+  },
+  "steps.6.timer.done": {
+   "fr": "Le poulet est-il tendre au toucher ? Sinon, laisse cuire encore et vérifie régulièrement.",
+   "t": "Does the chicken feel tender? If not, keep cooking and check regularly."
+  },
+  "steps.7.title": {
+   "fr": "Sors le poulet",
+   "t": "Take out the chicken"
+  },
+  "steps.7.text": {
+   "fr": "Retire délicatement les morceaux de poulet et garde-les au chaud sous une feuille de papier aluminium, sans jeter le jus qui s'en écoule. Au tajine en terre, laisse plutôt le poulet en place et verse la sauce dans une petite casserole pour la réduire à part.",
+   "t": "Carefully lift out the chicken pieces and keep them warm under a sheet of foil, without throwing away the juices that run out. With an earthenware tagine, leave the chicken where it is instead, and pour the sauce into a small saucepan to reduce it separately."
+  },
+  "steps.8.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "Reduce the onion sauce"
+  },
+  "steps.8.text": {
+   "fr": "Fais réduire la sauce à feu moyen environ 20 min, en remuant souvent et en écrasant les oignons à la spatule. C'est prêt quand on ne reconnaît plus les oignons : la sauce est épaisse, soyeuse et commence à se séparer de l'huile. Garde un peu de liquide et, si ça attache, ajoute un peu d'eau.",
+   "t": "Reduce the sauce over medium heat for about 20 min, stirring often and crushing the onions with the spatula. It is ready when you can no longer make out the onions: the sauce is thick and silky and is starting to separate from the oil. Keep a little liquid and, if it sticks, add a little water."
+  },
+  "steps.8.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "Reducing the sauce"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les oignons ont fondu et la sauce se sépare de l'huile ? Sinon, continue quelques minutes en remuant.",
+   "t": "Have the onions melted and has the sauce separated from the oil? If not, carry on for a few minutes, stirring."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute olives et citron confit",
+   "t": "Add the olives and preserved lemon"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute les olives et les lanières de citron confit dans la sauce et laisse cuire 10 min à feu moyen-doux. Goûte et rectifie le sel seulement maintenant. Si la sauce devient trop citronnée, retire les lanières et garde-les pour le décor.",
+   "t": "Add the olives and preserved lemon strips to the sauce and cook for 10 min over medium-low heat. Only now, taste and adjust the salt. If the sauce becomes too lemony, take out the strips and keep them for garnishing."
+  },
+  "steps.9.timer.label": {
+   "fr": "Olives et citron confit",
+   "t": "Olives and preserved lemon"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte la sauce et rectifie le sel.",
+   "t": "Taste the sauce and adjust the salt."
+  },
+  "steps.10.title": {
+   "fr": "Fais dorer le poulet dans la sauce",
+   "t": "Brown the chicken in the sauce"
+  },
+  "steps.10.text": {
+   "fr": "Remets les morceaux de poulet dans la cocotte, à feu moyen. Retourne-les plusieurs fois dans l'huile qui s'est séparée de la sauce, jusqu'à ce qu'ils soient bien chauds et dorés. Au tajine, reverse simplement la sauce réduite autour du poulet.",
+   "t": "Put the chicken pieces back in the pot over medium heat. Turn them several times in the oil that has separated from the sauce, until they are piping hot and golden. With a tagine, simply pour the reduced sauce back around the chicken."
+  },
+  "steps.11.title": {
+   "fr": "Dresse et sers bien chaud",
+   "t": "Arrange and serve piping hot"
+  },
+  "steps.11.text": {
+   "fr": "Verse la sauce dans le plat de service, pose le poulet dessus et nappe-le de sauce aux oignons. Décore avec les olives et les lanières de citron confit, puis sers bien chaud avec du pain. Au tajine, pose-le directement au centre de la table.",
+   "t": "Pour the sauce into the serving dish, place the chicken on top and coat it with the onion sauce. Garnish with the olives and preserved lemon strips, then serve piping hot with bread. With a tagine, put it straight in the centre of the table."
+  },
+  "secrets.0.text": {
+   "fr": "Le m'qalli repose sur deux épices maîtresses, le safran et le gingembre, et se reconnaît à sa sauce jaune.",
+   "t": "M'qalli is built on two key spices, saffron and ginger, and is recognisable by its yellow sauce."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Nada Kiffa), Cooking Styles and Sauces in Moroccan Cuisine",
+   "t": "Taste of Maroc (Nada Kiffa), Cooking Styles and Sauces in Moroccan Cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Fais d'abord infuser le safran une dizaine de minutes dans un peu d'eau chaude, puis mélange-y sel, curcuma, gingembre, poivre et smen : c'est la base de la marinade.",
+   "t": "First infuse the saffron for about ten minutes in a little hot water, then mix in salt, turmeric, ginger, pepper and smen: this is the base of the marinade."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse mariner au moins 1 h, idéalement 2 h ou une nuit au frais, en faisant pénétrer la marinade jusque sous la peau.",
+   "t": "Leave to marinate for at least 1 h, ideally 2 h or overnight in the fridge, working the marinade right under the skin."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Taste of Maroc (Nada Kiffa)",
+   "t": "Choumicha; Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.3.text": {
+   "fr": "Départ « à cru » : le poulet cuit d'abord 10 à 15 min dans sa marinade avec les oignons et un fond d'eau, à feu moyen. L'huile et l'eau chaude ne viennent qu'ensuite, quand l'eau s'est presque évaporée et que la viande a changé de couleur.",
+   "t": "A “raw” start: the chicken first cooks for 10 to 15 min in its marinade with the onions and a little water, over medium heat. The oil and hot water only come afterwards, once the water has almost evaporated and the meat has changed colour."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.4.text": {
+   "fr": "Ne diminue pas l'huile : avec moins d'huile, la sauce aux oignons risque de ne pas atteindre sa texture épaisse. Utilise un mélange d'huile d'olive et d'huile neutre.",
+   "t": "Don't cut down on the oil: with less oil, the onion sauce may not reach its thick texture. Use a mixture of olive oil and neutral oil."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha",
+   "t": "Taste of Maroc (Nada Kiffa); Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Pour la sauce aux oignons (daghmira), réduis patiemment en remuant et en écrasant les oignons à la spatule, jusqu'à ce qu'on ne les reconnaisse plus et que la sauce, soyeuse, se sépare de l'huile.",
+   "t": "For the onion sauce (daghmira), reduce it patiently, stirring and crushing the onions with the spatula, until you can no longer make them out and the silky sauce separates from the oil."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Nada Kiffa ; Christine Benlafquih)",
+   "t": "Taste of Maroc (Nada Kiffa; Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Sors le poulet, couvert, pendant que la sauce réduit, et remets-le seulement à la fin. Garde quand même un peu de liquide : la sauce ne doit pas finir à sec.",
+   "t": "Take the chicken out and keep it covered while the sauce reduces, and only put it back at the end. Still keep a little liquid: the sauce must not end up dry."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; My Moroccan Food (Nargisse Benkabbou)",
+   "t": "Taste of Maroc (Nada Kiffa); My Moroccan Food (Nargisse Benkabbou)"
+  },
+  "secrets.7.text": {
+   "fr": "Le dernier geste donne son nom au plat : on remet le poulet cuit dans l'huile qui s'est séparée de la sauce et on le fait dorer à feu moyen ; il reste moelleux à l'intérieur.",
+   "t": "The final step gives the dish its name: the cooked chicken goes back into the oil that has separated from the sauce and is browned over medium heat; it stays moist inside."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.8.text": {
+   "fr": "Prends du citron confit, jamais du citron frais à sa place : c'est le seul moyen d'avoir le goût traditionnel. Si la sauce devient trop citronnée, retire les morceaux de citron confit dès que le goût te plaît et garde-les pour le décor.",
+   "t": "Use preserved lemon, never fresh lemon in its place: it is the only way to get the traditional flavour. If the sauce becomes too lemony, take out the pieces of preserved lemon as soon as you like the taste and keep them for garnishing."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.9.text": {
+   "fr": "Les olives entrent à la toute fin, ou seulement en décor. Si elles viennent d'une boîte, blanchis-les 10 min dans l'eau bouillante, car elles sont plus salées.",
+   "t": "The olives go in at the very end, or only as a garnish. If they come from a tin, blanch them for 10 min in boiling water, as they are saltier."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.10.text": {
+   "fr": "Sale avec prudence avant d'ajouter le citron confit et les olives, qui salent beaucoup la sauce, puis rectifie à la fin.",
+   "t": "Go easy on the salt before adding the preserved lemon and olives, which make the sauce much saltier, then adjust at the end."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih; Nada Kiffa)"
+  },
+  "secrets.11.text": {
+   "fr": "L'ail doit rester discret : 1 à 2 gousses par poulet suffisent.",
+   "t": "The garlic should stay in the background: 1 to 2 cloves per chicken are enough."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, réponse à un commentaire)",
+   "t": "Taste of Maroc (Nada Kiffa, reply to a comment)"
+  },
+  "secrets.12.text": {
+   "fr": "Dans les familles marocaines, on nettoie le poulet (on retire les amas de graisse sous la peau), puis on le laisse au moins 30 min dans une saumure d'eau froide, de sel, de citron et d'un peu de vinaigre blanc, avant de le rincer et de le mariner. Bladi le sale simplement et le laisse dégorger 2 h. Nettoie ensuite soigneusement tout ce qui a touché le poulet cru. Les autorités sanitaires déconseillent toutefois de rincer la volaille crue, car les éclaboussures propagent les bactéries : si tu gardes ce geste, fais-le sans éclabousser et nettoie évier et plan de travail juste après.",
+   "t": "In Moroccan families, the chicken is cleaned (the clumps of fat under the skin are removed), then left for at least 30 min in a brine of cold water, salt, lemon and a little white vinegar, before being rinsed and marinated. Bladi simply salts it and leaves it for 2 h to draw out its juices. Afterwards, carefully clean everything that has touched the raw chicken. Health authorities, however, advise against rinsing raw poultry, because splashes spread bacteria: if you keep this habit, do it without splashing and clean the sink and worktop straight afterwards."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc (Nada Kiffa), Cleaning and Brining Chicken the Moroccan Way ; Bladi.net",
+   "t": "Taste of Maroc (Nada Kiffa), Cleaning and Brining Chicken the Moroccan Way; Bladi.net"
+  },
+  "secrets.13.text": {
+   "fr": "Un poulet fermier (beldi) demande plus de cuisson qu'un poulet d'élevage : fie-toi à la tendreté au toucher, pas seulement à la minuterie.",
+   "t": "A free-range (beldi) chicken needs longer cooking than a farmed chicken: go by how tender it feels, not just by the timer."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih; Nada Kiffa)"
+  },
+  "secrets.14.text": {
+   "fr": "Au tajine en terre : diffuseur obligatoire si tu ne cuisines pas au gaz, feu moyen jusqu'au frémissement (ça peut prendre 15 min ou plus), puis feu moyen-doux. Il faut moins d'eau qu'en cocotte et nettement plus de temps.",
+   "t": "In an earthenware tagine: a diffuser is essential if you are not cooking on gas; medium heat until it simmers (this can take 15 min or more), then medium-low heat. It needs less water than a pot and considerably more time."
+  },
+  "secrets.14.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih; Nada Kiffa)"
+  },
+  "secrets.15.text": {
+   "fr": "Au tajine, si la sauce reste trop liquide en fin de cuisson, verse-la dans une petite casserole pour la réduire à part, puis remets-la dans le tajine.",
+   "t": "With a tagine, if the sauce is still too runny at the end of cooking, pour it into a small saucepan to reduce it separately, then put it back in the tagine."
+  },
+  "secrets.15.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "mistakes.0": {
+   "fr": "Saler comme d'habitude dès le départ : le citron confit et les olives salent déjà beaucoup la sauce.",
+   "t": "Salting as usual from the start: the preserved lemon and olives already make the sauce very salty."
+  },
+  "mistakes.1": {
+   "fr": "Diminuer l'huile pour alléger : la sauce aux oignons n'épaissit pas et ne devient pas soyeuse.",
+   "t": "Cutting down the oil to make it lighter: the onion sauce does not thicken or turn silky."
+  },
+  "mistakes.2": {
+   "fr": "Laisser attacher le fond : surveille la cocotte pendant le mijotage et la réduction, remue et ajoute un peu d'eau si ça accroche.",
+   "t": "Letting the bottom stick: keep an eye on the pot while it simmers and reduces, stir and add a little water if it catches."
+  },
+  "mistakes.3": {
+   "fr": "Réduire la sauce complètement à sec : il doit rester un peu de liquide.",
+   "t": "Reducing the sauce until it is completely dry: a little liquid should remain."
+  },
+  "mistakes.4": {
+   "fr": "Remplacer le citron confit par du citron frais : on perd le goût traditionnel.",
+   "t": "Replacing the preserved lemon with fresh lemon: you lose the traditional flavour."
+  },
+  "mistakes.5": {
+   "fr": "Mettre des olives en boîte sans les blanchir : la sauce devient trop salée.",
+   "t": "Using tinned olives without blanching them: the sauce becomes too salty."
+  },
+  "mistakes.6": {
+   "fr": "Forcer sur l'ail : il doit rester en arrière-plan.",
+   "t": "Overdoing the garlic: it should stay in the background."
+  },
+  "mistakes.7": {
+   "fr": "Poser un tajine en terre directement sur une plaque électrique ou vitrocéramique, sans diffuseur.",
+   "t": "Putting an earthenware tagine directly on an electric or ceramic hob, without a diffuser."
+  },
+  "mistakes.8": {
+   "fr": "Sortir trop tôt un poulet beldi : il lui faut plus de cuisson qu'un poulet d'élevage.",
+   "t": "Taking a beldi chicken off the heat too soon: it needs longer cooking than a farmed chicken."
+  },
+  "variants.0": {
+   "fr": "Daghmira plus épaisse (version de fête) : fais cuire le poulet avec un seul oignon, retire-le une fois cuit, puis fais fondre les deux autres oignons hachés dans la sauce jusqu'à obtenir une pâte soyeuse qui se sépare de l'huile (Taste of Maroc).",
+   "t": "Thicker daghmira (the festive version): cook the chicken with just one onion, take it out once cooked, then melt the other two chopped onions in the sauce until you get a silky paste that separates from the oil (Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Aux foies de volaille : blanchis les foies 10 à 15 min, puis fais-les cuire dans la sauce pendant qu'elle réduit ; laisse-les entiers ou écrase-les dans la sauce pour une texture plus riche (Taste of Maroc ; My Moroccan Food).",
+   "t": "With chicken livers: blanch the livers for 10 to 15 min, then cook them in the sauce while it reduces; leave them whole or mash them into the sauce for a richer texture (Taste of Maroc; My Moroccan Food)."
+  },
+  "variants.2": {
+   "fr": "Plus citronnée : ajoute la pulpe finement hachée d'un demi-citron confit avec les oignons (Taste of Maroc) ; Choumicha met un demi-citron confit en petits dés dans la marinade. La mère de Nargisse Benkabbou trouve que la pulpe rend le plat trop acide.",
+   "t": "More lemony: add the finely chopped pulp of half a preserved lemon with the onions (Taste of Maroc); Choumicha puts half a preserved lemon, finely diced, in the marinade. Nargisse Benkabbou's mother finds that the pulp makes the dish too sour."
+  },
+  "variants.3": {
+   "fr": "Poulet entier (Choumicha, « Poulet M'Qalli aux olives rouges ») : poulet fermier entier frotté jusque sous la peau d'une marinade d'oignon, ail, coriandre, persil, citron confit, jus de citron, smen, épices et huile, puis bridé et cuit à couvert à feu doux ; les olives rouges vont dans la sauce pendant qu'elle réduit.",
+   "t": "Whole chicken (Choumicha, “Poulet M'Qalli aux olives rouges”): a whole free-range chicken rubbed, right under the skin, with a marinade of onion, garlic, coriander, parsley, preserved lemon, lemon juice, smen, spices and oil, then trussed and cooked covered over low heat; the red olives go into the sauce while it reduces."
+  },
+  "variants.4": {
+   "fr": "Version de Choumicha « Poulet au safran, coriandre et citron confit » : l'oignon émincé revient 5 min dans l'huile à feu doux avant le poulet, la marinade contient de la coriandre sèche en poudre, et des olives vertes concassées (m'slalla) dénoyautées cuisent avec le poulet jusqu'à la fin.",
+   "t": "Choumicha's “Poulet au safran, coriandre et citron confit” version: the sliced onion is sautéed for 5 min in the oil over low heat before the chicken goes in, the marinade contains ground coriander, and pitted cracked green olives (m'slalla) cook with the chicken until the end."
+  },
+  "variants.5": {
+   "fr": "Doré au four : badigeonne le poulet cuit d'un peu d'huile de la sauce et fais-le dorer environ 20 min à 200 °C en le retournant ; un poulet entier peut demander jusqu'à 30 min (Taste of Maroc).",
+   "t": "Browned in the oven: brush the cooked chicken with a little oil from the sauce and brown it for about 20 min at 200 °C, turning it; a whole chicken may need up to 30 min (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Rôti (Christine Benlafquih, Taste of Maroc) : poulet entier mariné une nuit puis rôti à 160 °C pendant 2 h 30 à 3 h ; la sauce d'oignons émincés cuit à part 1 à 2 h, puis reçoit le jus de cuisson, le citron confit et les olives pendant 5 à 10 min.",
+   "t": "Roast (Christine Benlafquih, Taste of Maroc): a whole chicken marinated overnight, then roasted at 160 °C for 2 h 30 to 3 h; the sliced-onion sauce cooks separately for 1 to 2 h, then the cooking juices, preserved lemon and olives are added to it for 5 to 10 min."
+  },
+  "variants.7": {
+   "fr": "Version à deux poulets beldis entiers (Bladi.net) : oignons en lamelles, ail, safran, gingembre, jus de citron et un verre d'eau, à couvert à feu moyen ; l'écorce de citron confit et les olives vertes finissent 5 min à feu doux.",
+   "t": "Version with two whole beldi chickens (Bladi.net): sliced onions, garlic, saffron, ginger, lemon juice and a glass of water, covered, over medium heat; the preserved lemon peel and green olives finish with 5 min over low heat."
+  },
+  "variants.8": {
+   "fr": "Adaptations anglophones de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika et cumin dans la marinade, bouillon de volaille, cuisson plus courte ou au four ; non retenues car absentes des sources marocaines consultées.",
+   "t": "English-language adaptations of Paula Wolfert's recipe (Sunset, Zarela): grated onion, paprika and cumin in the marinade, chicken stock, shorter cooking or oven cooking; not used here because they are absent from the Moroccan sources consulted."
+  }
+ }
+}

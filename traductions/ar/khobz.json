@@ -1,0 +1,450 @@
+{
+ "_slug": "khobz",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Khobz, le pain marocain de la maison",
+   "t": "خبز الدار المغربي"
+  },
+  "darija": {
+   "fr": "khobz (khobz dyal dar)",
+   "t": "خبز (خبز ديال الدار)"
+  },
+  "tagline": {
+   "fr": "Le pain rond de tous les jours, doré et croustillant dehors, moelleux dedans, qu'on déchire à la main pour saisir le tajine. Juste de la farine, de la levure, du sel et de l'eau tiède.",
+   "t": "الخبز المستدير لكل يوم، ذهبي ومقرمش من الخارج، طري من الداخل، يُقطَّع باليد ليُتناول به الطاجين. فقط دقيق وخميرة وملح وماء فاتر."
+  },
+  "region": {
+   "fr": "Tout le Maroc (le pain se dit aussi aghroum, aɣrum, en tachelhit) ; pains proches en Algérie et en Tunisie",
+   "t": "المغرب كله (ويُسمّى الخبز أيضًا أغروم، aɣrum، بالتاشلحيت)؛ وتوجد أخباز قريبة منه في الجزائر وتونس"
+  },
+  "occasion": {
+   "fr": "Tous les jours, à presque tous les repas",
+   "t": "كل يوم، في جميع الوجبات تقريبًا"
+  },
+  "img_alt": {
+   "fr": "Piles de khobz ronds sur un étal de Chefchaouen",
+   "t": "أكوام من خبز الدار المستدير على منصة بيع في شفشاون"
+  },
+  "serving": {
+   "fr": "Le khobz accompagne presque tous les repas. On le coupe en quartiers ou on le déchire, et il remplace la fourchette et la cuillère pour saisir salades, tajines, sauces et ragoûts (Taste of Maroc ; Morocco World News) ; Nargisse Benkabbou rappelle qu'au Maroc le tajine se mange avec du pain (My Moroccan Food). Les quartiers s'ouvrent aussi en sandwich, garnis de viande grillée (Taste of Maroc). Au petit-déjeuner, on le mange chaud avec un peu d'huile d'olive et un thé à la menthe (Hespress). Le reste se garde enveloppé dans un torchon, dans une boîte à pain ou un sac (MarocMama), mais pas plus d'une journée : au-delà, congèle-le. Décongèle-le quelques heures à température ambiante et réchauffe-le 5 à 8 min au four à 170 °C (Taste of Maroc). MarocMama le réchauffe aussi à la poêle.",
+   "t": "يرافق خبز الدار جميع الوجبات تقريبًا. يُقطَّع أرباعًا أو يُمزَّق باليد، فيحلّ محل الشوكة والملعقة لتناول السلطات والطواجين والصلصات واليخنات (Taste of Maroc؛ Morocco World News)؛ وتذكّر Nargisse Benkabbou بأن الطاجين في المغرب يؤكل بالخبز (My Moroccan Food). وتُفتح الأرباع أيضًا كالسندويتش وتُحشى باللحم المشوي (Taste of Maroc). وفي فطور الصباح، يؤكل ساخنًا مع قليل من زيت الزيتون وشاي بالنعناع (Hespress). ويُحفظ الباقي ملفوفًا في فوطة، في علبة خبز أو في كيس (MarocMama)، لكن ليس أكثر من يوم واحد: بعد ذلك جمّده. اتركه يذوب بضع ساعات في درجة حرارة الغرفة، ثم سخّنه من 5 إلى 8 دقائق في الفرن على 170 درجة مئوية (Taste of Maroc). وتسخّنه MarocMama أيضًا في المقلاة."
+  },
+  "pairs_label": {
+   "fr": "Avec le khobz",
+   "t": "مع خبز الدار"
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجين"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (idéalement une farine à pain, riche en gluten)",
+   "t": "دقيق أبيض (ويُفضَّل دقيق الخبز الغني بالغلوتين)"
+  },
+  "ing.farine.note": {
+   "fr": "plus un peu pour le plan de travail ; au Maroc : « force » ou « farine de blé » ; tu peux en remplacer une partie par de la semoule fine ou de la farine complète (voir les variantes)",
+   "t": "مع قليل إضافي لسطح العمل؛ في المغرب: «force» أو «farine de blé»؛ ويمكنك أن تستبدل جزءًا منه بالسميد الرقيق أو بالدقيق الكامل (انظر التنويعات)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "خميرة خبز جافة"
+  },
+  "ing.levure.note": {
+   "fr": "un peu plus que d'habitude, pour une seule levée rapide",
+   "t": "أكثر قليلًا من المعتاد، لتخمير واحد سريع"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède, pas chaude",
+   "t": "ماء فاتر، غير ساخن"
+  },
+  "ing.eau.note": {
+   "fr": "à ajuster selon la farine ; plus un peu pour humidifier les pains avant la cuisson",
+   "t": "تُعدَّل الكمية حسب الدقيق؛ مع قليل إضافي لترطيب الأرغفة قبل إدخالها الفرن"
+  },
+  "ing.1.group": {
+   "fr": "Pour la plaque",
+   "t": "للصينية"
+  },
+  "ing.semoule.name": {
+   "fr": "Semoule fine, pour saupoudrer la plaque",
+   "t": "سميد رقيق، لرشّ الصينية"
+  },
+  "ing.semoule.note": {
+   "fr": "ou du papier cuisson, ou un peu d'huile",
+   "t": "أو ورق الطهي، أو قليل من الزيت"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier, ou une gsaa (la grande jatte traditionnelle)",
+   "t": "وعاء كبير، أو قصعة تقليدية كبيرة"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et des cuillères à mesurer",
+   "t": "ميزان مطبخ وملاعق قياس"
+  },
+  "equipment.2": {
+   "fr": "Une grande plaque de cuisson, ou une par pain si elle ne peut pas contenir deux disques de 27 à 30 cm (et du papier cuisson si tu veux)",
+   "t": "صينية فرن كبيرة، أو صينية لكل رغيف إذا كانت لا تتسع لقرصين قطر كل منهما من 27 إلى 30 سم (وورق الطهي إن شئت)"
+  },
+  "equipment.3": {
+   "fr": "Deux ou trois torchons propres, plus une petite couverture s'il fait froid",
+   "t": "فوطتان أو ثلاث فوط نظيفة، وبطانية صغيرة إذا كان الجو باردًا"
+  },
+  "equipment.4": {
+   "fr": "Une fourchette",
+   "t": "شوكة"
+  },
+  "equipment.5": {
+   "fr": "Un vaporisateur d'eau propre, ou un pinceau",
+   "t": "بخاخ ماء نظيف، أو فرشاة"
+  },
+  "equipment.6": {
+   "fr": "Une grille, ou un panier tapissé d'un torchon",
+   "t": "شبكة، أو سلة مبطّنة بفوطة"
+  },
+  "equipment.7": {
+   "fr": "Une planche à pain, si tu fais cuire au four du quartier (ferran)",
+   "t": "لوح للخبز، إذا كنت ستخبز في فرن الحي (الفرّان)"
+  },
+  "steps.0.title": {
+   "fr": "Préparer la plaque",
+   "t": "حضّر الصينية"
+  },
+  "steps.0.text": {
+   "fr": "Saupoudre de semoule fine une grande plaque de cuisson, ou une plaque par pain : aplati, chaque pain fera 27 à 30 cm de large. Tu peux aussi la tapisser de papier cuisson ou la huiler légèrement.",
+   "t": "رشّ السميد الرقيق على صينية فرن كبيرة، أو على صينية لكل رغيف: فبعد تسطيحه، سيبلغ عرض كل رغيف من 27 إلى 30 سم. ويمكنك أيضًا أن تغطيها بورق الطهي أو أن تدهنها بقليل من الزيت."
+  },
+  "steps.1.title": {
+   "fr": "Mélanger la pâte",
+   "t": "اخلط العجين"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine et {{sel}} de sel. Creuse un puits au centre et mets-y {{levure}} de levure. Verse dessus un peu des {{eau}} d'eau tiède et remue du bout des doigts pour la dissoudre. Ajoute le reste de l'eau petit à petit, en mélangeant à la main, jusqu'à rassembler la pâte.",
+   "t": "في وعاء كبير، اخلط {{farine}} من الدقيق و{{sel}} من الملح. احفر حفرة في الوسط وضع فيها {{levure}} من الخميرة. اسكب فوقها قليلًا من الـ{{eau}} من الماء الفاتر، وحرّك بأطراف أصابعك لتذويبها. أضف باقي الماء شيئًا فشيئًا مع الخلط باليد، حتى يتجمّع العجين."
+  },
+  "steps.2.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "اعجن 10 دقائق"
+  },
+  "steps.2.text": {
+   "fr": "Pétris 10 minutes, dans le saladier ou sur le plan de travail fariné. La pâte doit rester molle et souple, sans coller : si elle colle, ajoute un peu de farine ; si elle durcit, arrose-la d'un peu d'eau en pétrissant. Elle est prête quand elle est lisse et élastique.",
+   "t": "اعجن 10 دقائق، في الوعاء أو على سطح العمل المرشوش بالدقيق. يجب أن يبقى العجين طريًا ليّنًا دون أن يلتصق: إذا التصق، فأضف قليلًا من الدقيق؛ وإذا قسا، فرشّه بقليل من الماء وأنت تعجن. يكون جاهزًا عندما يصبح أملس ومرنًا."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pétrissage",
+   "t": "العجن"
+  },
+  "steps.2.timer.done": {
+   "fr": "Pâte lisse, souple et élastique ? Passe aux boules. Sinon, pétris encore jusqu'à 5 minutes.",
+   "t": "هل صار العجين أملس وليّنًا ومرنًا؟ انتقل إلى تشكيل الكرات. وإلا فاعجنه مدة أخرى تصل إلى 5 دقائق."
+  },
+  "steps.2.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "يدان تعجنان عجينًا"
+  },
+  "steps.2.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "عجن العجين"
+  },
+  "steps.3.title": {
+   "fr": "Former les boules",
+   "t": "شكّل الكرات"
+  },
+  "steps.3.text": {
+   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
+   "t": "قسّم العجين إلى كرات متساوية، كرة لكل رغيف، ملساء جيدًا من الأعلى. ضعها على الصينية مع ترك مسافة كافية بينها: فعند تسطيحها إلى سمك 6 مم، ستعطي كل كرة قرصًا عرضه من 27 إلى 30 سم. إذا لم يتسع قرصان بهذا الحجم جنبًا إلى جنب على صينيتك (يلزم طول 55 سم على الأقل)، فضع كرة واحدة في كل صينية."
+  },
+  "steps.4.title": {
+   "fr": "Repos sous un torchon",
+   "t": "اتركها ترتاح تحت فوطة"
+  },
+  "steps.4.text": {
+   "fr": "Couvre les boules d'un torchon propre et laisse-les reposer 10 à 15 minutes.",
+   "t": "غطِّ الكرات بفوطة نظيفة واتركها ترتاح من 10 إلى 15 دقيقة."
+  },
+  "steps.4.timer.label": {
+   "fr": "Repos des boules",
+   "t": "راحة الكرات"
+  },
+  "steps.4.timer.done": {
+   "fr": "Les boules ont reposé : aplatis-les.",
+   "t": "ارتاحت الكرات: سطّحها."
+  },
+  "steps.5.title": {
+   "fr": "Aplatir en disques",
+   "t": "سطّحها على شكل أقراص"
+  },
+  "steps.5.text": {
+   "fr": "Directement sur la plaque, aplatis chaque boule avec la paume, en partant du centre vers les bords. Forme un disque bien rond d'environ 6 mm d'épaisseur, égal partout.",
+   "t": "سطّح كل كرة براحة يدك مباشرة على الصينية، من الوسط نحو الأطراف. شكّل قرصًا مستديرًا جيدًا، سمكه نحو 6 مم ومتساوٍ في كل أجزائه."
+  },
+  "steps.6.title": {
+   "fr": "Laisser lever",
+   "t": "اتركها تختمر"
+  },
+  "steps.6.text": {
+   "fr": "Couvre de nouveau d'un torchon et laisse lever environ 1 heure dans un endroit tiède, plus longtemps si la pièce est fraîche. S'il fait froid, ajoute une couche, ou une petite couverture. Pendant la levée, préchauffe le four à 220 °C : il doit être bien chaud pour le pain.",
+   "t": "غطِّها من جديد بفوطة واتركها تختمر نحو 1 ساعة في مكان دافئ، ومدة أطول إذا كانت الغرفة باردة. وإذا كان الجو باردًا، فأضف طبقة أخرى أو بطانية صغيرة. أثناء التخمير، سخّن الفرن مسبقًا على 220 درجة مئوية: يجب أن يكون ساخنًا جيدًا للخبز."
+  },
+  "steps.6.timer.label": {
+   "fr": "Levée des pains",
+   "t": "تخمير الأرغفة"
+  },
+  "steps.6.timer.done": {
+   "fr": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
+   "t": "اضغط برفق بطرف إصبعك: إذا استعاد العجين شكله، فهو جاهز. وإلا فانتظر قليلًا بعد."
+  },
+  "steps.7.title": {
+   "fr": "Piquer et humidifier",
+   "t": "اثقب الأرغفة ورطّبها"
+  },
+  "steps.7.text": {
+   "fr": "Quand le four est chaud, pique chaque pain à plusieurs endroits avec une fourchette : il ne gonflera pas. Vaporise ensuite un peu d'eau sur le dessus, ou passe un pinceau mouillé : la croûte sera plus croustillante.",
+   "t": "عندما يسخن الفرن، اثقب كل رغيف في عدة مواضع بالشوكة: فلن ينتفخ. ثم رشّ قليلًا من الماء على سطحه بالبخاخ، أو امسحه بفرشاة مبللة: فتصبح القشرة أكثر قرمشة."
+  },
+  "steps.8.title": {
+   "fr": "Cuire 20 minutes",
+   "t": "اخبزها 20 دقيقة"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour environ 20 minutes. Si ton four colore plus d'un côté, tourne la plaque en cours de cuisson. Le khobz est cuit quand il est bien doré et sonne creux quand tu le tapotes.",
+   "t": "أدخلها الفرن نحو 20 دقيقة. إذا كان فرنك يحمّر جهة أكثر من الأخرى، فأدِر الصينية أثناء الخبز. يكون خبز الدار ناضجًا عندما يصبح ذهبيًا جيدًا ويصدر صوتًا أجوف عندما تنقر عليه."
+  },
+  "steps.8.timer.label": {
+   "fr": "Cuisson des pains",
+   "t": "خبز الأرغفة"
+  },
+  "steps.8.timer.done": {
+   "fr": "Bien doré, et il sonne creux quand tu le tapotes ? Sors-le. Sinon, laisse-le encore quelques minutes, 25 minutes en tout au plus.",
+   "t": "هل صار ذهبيًا جيدًا ويصدر صوتًا أجوف عندما تنقر عليه؟ أخرجه. وإلا فاتركه بضع دقائق أخرى، على ألا تتجاوز المدة كلها 25 دقيقة."
+  },
+  "steps.9.title": {
+   "fr": "Ou au four du quartier",
+   "t": "أو في فرن الحي"
+  },
+  "steps.9.text": {
+   "fr": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
+   "t": "لخبزه في الفرّان، أي فرن الحي: منذ مرحلة الكرات، ضع الكرات على لوح خبز مرشوش بالسميد بدل الصينية، وسطّحها واتركها تختمر عليه تحت فوطة، ثم احمل اللوح إلى الفرن. يخبزها صاحب الفرن (الطرّاح) على نار الحطب نحو 20 دقيقة. وهو يتعرّف من ذاكرته على خبز كل عائلة، من الترتيب الذي وضعه به، ومن اللوح والفوطة."
+  },
+  "steps.9.img.alt": {
+   "fr": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
+   "t": "خبّاز أمام فرن الحطب، والأرغفة موضوعة على الألواح، في مراكش"
+  },
+  "steps.9.img.caption": {
+   "fr": "Le four du quartier, à Marrakech",
+   "t": "فرن الحي في مراكش"
+  },
+  "steps.10.title": {
+   "fr": "Laisser tiédir",
+   "t": "اتركه يفتر"
+  },
+  "steps.10.text": {
+   "fr": "Sors les pains et laisse-les tiédir sur une grille, ou dans un panier tapissé d'un torchon.",
+   "t": "أخرج الأرغفة واتركها تفتر على شبكة، أو في سلة مبطّنة بفوطة."
+  },
+  "steps.11.title": {
+   "fr": "Servir",
+   "t": "قدّمه"
+  },
+  "steps.11.text": {
+   "fr": "Coupe le khobz en quartiers ou déchire-le à la main : il remplace la fourchette pour saisir le tajine, les salades ou le zaalouk. Au petit-déjeuner, sers-le chaud avec un peu d'huile d'olive et un thé à la menthe.",
+   "t": "قطّع خبز الدار أرباعًا أو مزّقه باليد: فهو يحلّ محل الشوكة لتناول الطاجين أو السلطات أو الزعلوك. وفي فطور الصباح، قدّمه ساخنًا مع قليل من زيت الزيتون وشاي بالنعناع."
+  },
+  "steps.12.title": {
+   "fr": "Conserver",
+   "t": "احفظه"
+  },
+  "steps.12.text": {
+   "fr": "Le khobz ne reste pas frais plus d'une journée. Ce que tu ne mangeras pas le jour même, congèle-le une fois complètement refroidi. Pour le servir, laisse-le décongeler quelques heures à température ambiante, puis réchauffe-le 5 à 8 minutes au four à 170 °C.",
+   "t": "لا يبقى خبز الدار طازجًا أكثر من يوم واحد. ما لن تأكله في اليوم نفسه، جمّده بعد أن يبرد تمامًا. ولتقديمه، اتركه يذوب بضع ساعات في درجة حرارة الغرفة، ثم سخّنه من 5 إلى 8 دقائق في الفرن على 170 درجة مئوية."
+  },
+  "secrets.0.text": {
+   "fr": "La pâte doit être molle : souple et facile à pétrir, mais sans coller. Trop ferme, le pain sort dur et dense. Ajuste toujours l'eau ou la farine : chaque farine boit différemment, et même l'humidité de l'air compte.",
+   "t": "يجب أن يكون العجين طريًا: ليّنًا وسهل العجن، لكن دون أن يلتصق. فإذا كان قاسيًا جدًا، خرج الخبز صلبًا وكثيفًا. عدّل دائمًا كمية الماء أو الدقيق: فكل دقيق يتشرّب الماء بطريقة مختلفة، وحتى رطوبة الجو لها تأثير."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih), recette et réponses aux lecteurs",
+   "t": "Taste of Maroc (Christine Benlafquih)، الوصفة والردود على القراء"
+  },
+  "secrets.1.text": {
+   "fr": "Pétris 10 à 15 minutes en arrosant la pâte d'un peu d'eau, jusqu'à ce qu'elle devienne souple et malléable.",
+   "t": "اعجن من 10 إلى 15 دقيقة مع رشّ العجين بقليل من الماء، حتى يصبح ليّنًا وطيّعًا."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (pain de semoule, pain complet, pain aux graines de sésame)",
+   "t": "Choumicha (خبز السميد، والخبز الكامل، والخبز ببذور السمسم)"
+  },
+  "secrets.2.text": {
+   "fr": "Ni sucre ni huile, comme dans les pains de semoule et complet de Choumicha, qui n'ont que farine, levure, sel et eau.",
+   "t": "لا سكر ولا زيت، كما في خبز السميد والخبز الكامل عند Choumicha، اللذين لا يحتويان إلا على الدقيق والخميرة والملح والماء."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.3.text": {
+   "fr": "L'eau doit être tiède, pas chaude ; froide, elle ralentit la levure.",
+   "t": "يجب أن يكون الماء فاترًا، لا ساخنًا؛ أما الماء البارد فيُبطئ عمل الخميرة."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc؛ MarocMama"
+  },
+  "secrets.4.text": {
+   "fr": "Pas sûr de ta levure ? Délaye-la dans un peu d'eau tiède avec une pincée de sucre : elle doit mousser en 10 minutes. Sinon, change-la.",
+   "t": "لست متأكدًا من خميرتك؟ ذوّبها في قليل من الماء الفاتر مع رشة سكر: يجب أن تُزبد في غضون 10 دقائق. وإلا فاستبدلها."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Une seule levée suffit, une fois les pains aplatis : quelques minutes de repos en boules, puis environ 1 heure sous un torchon. Par temps froid, couvre de plusieurs couches ou d'une petite couverture, ou fais lever dans le four, juste la lampe allumée ; dans ce cas, sors les pains, le torchon et la couverture avant de préchauffer le four.",
+   "t": "يكفي تخمير واحد بعد تسطيح الأرغفة: بضع دقائق من الراحة وهي كرات، ثم نحو 1 ساعة تحت فوطة. وفي الطقس البارد، غطِّها بعدة طبقات أو ببطانية صغيرة، أو اتركها تختمر داخل الفرن مع إشعال مصباحه فقط؛ وفي هذه الحالة، أخرج الأرغفة والفوطة والبطانية قبل تسخين الفرن."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc؛ MarocMama"
+  },
+  "secrets.6.text": {
+   "fr": "Pique le pain à la fourchette juste avant de l'enfourner, pour qu'il ne gonfle pas : un terrah de Casablanca le fait en enfournant chaque pain.",
+   "t": "اثقب الخبز بالشوكة قبل إدخاله الفرن مباشرة، كي لا ينتفخ: فأحد الطرّاحين في الدار البيضاء يفعل ذلك وهو يُدخل كل رغيف إلى الفرن."
+  },
+  "secrets.6.source": {
+   "fr": "La Vie éco (four traditionnel de Sidi Bernoussi, Casablanca) ; Taste of Maroc ; MarocMama",
+   "t": "La Vie éco (فرن تقليدي في سيدي البرنوصي، الدار البيضاء)؛ Taste of Maroc؛ MarocMama"
+  },
+  "secrets.7.text": {
+   "fr": "Si tu préfères une entaille au couteau, reste léger : trop profonde, le pain monte trop à cet endroit. La fourchette, un pain plus plat ou un peu moins de levure évitent ce défaut.",
+   "t": "إذا كنت تفضّل شقًّا بالسكين، فليكن خفيفًا: فإذا كان عميقًا جدًا، ارتفع الخبز كثيرًا في ذلك الموضع. والشوكة، أو رغيف أكثر تسطّحًا، أو خميرة أقل قليلًا، تجنّبك هذا العيب."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "Humidifie le dessus juste avant d'enfourner, au vaporisateur ou au pinceau : la croûte sera plus croustillante.",
+   "t": "رطّب سطح الرغيف قبل إدخاله الفرن مباشرة، بالبخاخ أو بالفرشاة: فتصبح القشرة أكثر قرمشة."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Taste of Maroc",
+   "t": "Choumicha؛ Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Un four bien chaud, autour de 220 °C, et environ 20 minutes : au ferran aussi, le four doit être chaud pour le pain, et la cuisson dure environ 20 minutes.",
+   "t": "فرن ساخن جيدًا، نحو 220 درجة مئوية، ونحو 20 دقيقة: ففي الفرّان أيضًا يجب أن يكون الفرن ساخنًا للخبز، ويستغرق الخَبز نحو 20 دقيقة."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Taste of Maroc ; La Vie éco",
+   "t": "Choumicha؛ Taste of Maroc؛ La Vie éco"
+  },
+  "secrets.10.text": {
+   "fr": "Garde-le plat : beaucoup de Marocains préfèrent un khobz de 1,5 cm de haut au plus, et il dépasse rarement 3 cm.",
+   "t": "اجعله مسطّحًا: فكثير من المغاربة يفضّلون خبزًا لا يتجاوز ارتفاعه 1.5 سم، ونادرًا ما يتجاوز 3 سم."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Le pain que tu ne mangeras pas le jour même se congèle : laisse-le d'abord refroidir complètement, puis réchauffe-le 5 à 8 minutes au four à 170 °C.",
+   "t": "الخبز الذي لن تأكله في اليوم نفسه يُجمَّد: اتركه أولًا يبرد تمامًا، ثم سخّنه من 5 إلى 8 دقائق في الفرن على 170 درجة مئوية."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MarocMama (congélation)",
+   "t": "Taste of Maroc؛ MarocMama (التجميد)"
+  },
+  "secrets.12.text": {
+   "fr": "Un repas de fête ou un ftour ? Précuis les pains la veille jusqu'à ce qu'ils colorent à peine, emballe-les bien, et termine la cuisson juste avant de servir.",
+   "t": "وجبة احتفالية أو فطور؟ اخبز الأرغفة خبزًا أوليًا في الليلة السابقة حتى يبدأ لونها بالكاد في التغيّر، ثم لفّها جيدًا، وأكمل خبزها قبل التقديم مباشرة."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Faire une pâte trop ferme : le pain sort dur et dense (Taste of Maroc).",
+   "t": "تحضير عجين قاسٍ جدًا: فيخرج الخبز صلبًا وكثيفًا (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre de l'eau chaude au lieu de tiède (Taste of Maroc), ou de l'eau froide, qui ralentit la levure (MarocMama).",
+   "t": "استعمال ماء ساخن بدل الماء الفاتر (Taste of Maroc)، أو ماء بارد يُبطئ عمل الخميرة (MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre de la farine à levure incorporée : MarocMama la déconseille.",
+   "t": "استعمال دقيق ذاتي التخمير: لا تنصح به MarocMama."
+  },
+  "mistakes.3": {
+   "fr": "Ajouter trop de farine en pétrissant : le pain devient sec (MarocMama).",
+   "t": "إضافة كثير من الدقيق أثناء العجن: فيصبح الخبز جافًا (MarocMama)."
+  },
+  "mistakes.4": {
+   "fr": "Pétrir trop peu, le pain est dense ; beaucoup trop, il devient dur (MarocMama).",
+   "t": "العجن مدة قصيرة جدًا، فيصبح الخبز كثيفًا؛ أو مدة طويلة جدًا، فيصبح صلبًا (MarocMama)."
+  },
+  "mistakes.5": {
+   "fr": "Oublier de piquer le pain : il gonfle (La Vie éco).",
+   "t": "نسيان ثقب الخبز: فينتفخ (La Vie éco)."
+  },
+  "mistakes.6": {
+   "fr": "Entailler trop profond : le pain monte trop à l'entaille (Taste of Maroc).",
+   "t": "شقّ الخبز شقًّا عميقًا جدًا: فيرتفع كثيرًا عند موضع الشق (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Sortir le pain trop tôt : il doit être bien doré et sonner creux quand tu le tapotes (Taste of Maroc ; MarocMama).",
+   "t": "إخراج الخبز مبكرًا جدًا: يجب أن يكون ذهبيًا جيدًا وأن يصدر صوتًا أجوف عندما تنقر عليه (Taste of Maroc؛ MarocMama)."
+  },
+  "mistakes.8": {
+   "fr": "Le garder plusieurs jours à température ambiante : il ne reste pas frais plus d'une journée (Taste of Maroc).",
+   "t": "حفظه عدة أيام في درجة حرارة الغرفة: فهو لا يبقى طازجًا أكثر من يوم واحد (Taste of Maroc)."
+  },
+  "mistakes.9": {
+   "fr": "Jeter du pain : au Maroc, on ne le jette pas ; les restes servent à un autre plat ou sont donnés (Morocco World News).",
+   "t": "رمي الخبز: في المغرب لا يُرمى الخبز؛ فالبقايا تُستعمل في طبق آخر أو تُعطى للغير (Morocco World News)."
+  },
+  "variants.0": {
+   "fr": "Khobz à la semoule (Choumicha) : 250 g de farine de blé dur supérieure et 500 g de semoule fine de blé dur, 1 c. à c. de sel, 20 g de levure boulangère, 50 cl d'eau tiède. La pâte lève jusqu'à doubler, on la tape pour chasser les bulles, on roule les boules dans 80 g de semoule fine, on les aplatit légèrement et on les laisse lever dans un endroit tiède ; vaporisées d'eau, elles cuisent 20 à 25 min à 220 °C.",
+   "t": "خبز السميد (Choumicha): يتكوّن من 250 غ من دقيق القمح الصلب الممتاز، و500 غ من سميد القمح الصلب الرقيق، و1 ملعقة صغيرة من الملح، و20 غ من خميرة الخبز، و50 سنتيلتر من الماء الفاتر. يختمر العجين حتى يتضاعف حجمه، ثم يُضرب لطرد فقاعات الهواء، وتُلفّ الكرات في 80 غ من السميد الرقيق، وتُسطَّح قليلًا وتُترك لتختمر في مكان دافئ؛ ثم تُرشّ بالماء وتُخبز من 20 إلى 25 دقيقة على 220 درجة مئوية."
+  },
+  "variants.1": {
+   "fr": "Petits pains à la semoule de Nargisse Benkabbou (My Moroccan Food), son pain marocain préféré : 280 g de farine, 300 g de semoule fine, 250 ml d'eau et 250 ml de lait tièdes (verse d'abord 300 ml, puis par cuillerées), 1 c. à s. de levure sèche, 2 c. à c. de sel, 2 c. à c. de sucre, 3 c. à s. d'huile d'olive ; 10 pains de 10 cm aplatis à 2 cm, levée 1 h, entaillés au couteau et saupoudrés de semoule, 18 à 20 min à 200 °C.",
+   "t": "أرغفة السميد الصغيرة عند Nargisse Benkabbou (My Moroccan Food)، وهي خبزها المغربي المفضل: 280 غ من الدقيق، و300 غ من السميد الرقيق، و250 مل من الماء و250 مل من الحليب فاترين (اسكب أولًا 300 مل، ثم أضف الباقي ملعقة بعد ملعقة)، و1 ملعقة كبيرة من الخميرة الجافة، و2 ملعقة صغيرة من الملح، و2 ملعقة صغيرة من السكر، و3 ملاعق كبيرة من زيت الزيتون؛ 10 أرغفة بعرض 10 سم تُسطَّح إلى سمك 2 سم، وتختمر 1 ساعة، وتُشقّ بالسكين وتُرشّ بالسميد، وتُخبز من 18 إلى 20 دقيقة على 200 درجة مئوية."
+  },
+  "variants.2": {
+   "fr": "Khobz complet (Choumicha) : 250 g de farine de blé tendre et 500 g de farine complète, 1 c. à c. de sel, 20 g de levure boulangère, 40 cl d'eau tiède ; boules roulées dans 80 g de farine complète, même méthode que le pain de semoule. Taste of Maroc conseille de débuter avec moitié farine complète, moitié farine blanche, et assez d'eau pour une pâte molle. Le pain complet se dit khobz zraa (Hespress ; Taste of Maroc).",
+   "t": "الخبز الكامل (Choumicha): يتكوّن من 250 غ من دقيق القمح الطري و500 غ من الدقيق الكامل، و1 ملعقة صغيرة من الملح، و20 غ من خميرة الخبز، و40 سنتيلتر من الماء الفاتر؛ تُلفّ الكرات في 80 غ من الدقيق الكامل، والطريقة نفسها كما في خبز السميد. وينصح Taste of Maroc بالبدء بنصف دقيق كامل ونصف دقيق أبيض، مع ما يكفي من الماء للحصول على عجين طري. ويُسمّى الخبز الكامل «خبز الزرع» (Hespress؛ Taste of Maroc)."
+  },
+  "variants.3": {
+   "fr": "Khobz au sésame (Choumicha) : 750 g de farine de blé tendre, 1 c. à c. de sel, 1 c. à s. de sucre, 20 g de levure boulangère, 40 cl d'eau tiède ; après la première levée, boules roulées dans la farine, aplaties, badigeonnées d'eau au pinceau et couvertes de 80 g de graines de sésame, puis levée dans un endroit tiède et cuisson 20 à 25 min à 220 °C. Au Maroc, on préfère le sésame doré non décortiqué ; on peut aussi dorer le pain levé à l'œuf battu juste avant d'enfourner, puis le parsemer de sésame (Taste of Maroc).",
+   "t": "خبز السمسم (Choumicha): يتكوّن من 750 غ من دقيق القمح الطري، و1 ملعقة صغيرة من الملح، و1 ملعقة كبيرة من السكر، و20 غ من خميرة الخبز، و40 سنتيلتر من الماء الفاتر؛ بعد التخمير الأول، تُلفّ الكرات في الدقيق وتُسطَّح وتُدهن بالماء بالفرشاة وتُغطّى بـ80 غ من بذور السمسم، ثم تُترك لتختمر في مكان دافئ وتُخبز من 20 إلى 25 دقيقة على 220 درجة مئوية. وفي المغرب يُفضَّل السمسم الذهبي غير المقشور؛ ويمكن أيضًا دهن الخبز المختمر بالبيض المخفوق قبل إدخاله الفرن مباشرة، ثم رشّه بالسمسم (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Khobz à l'anis : avec le cumin, l'anis est le parfum le plus courant du pain marocain (Morocco World News), et le khobz de la maison est parfois parfumé aux graines d'anis (Wikipédia). Une mère de famille de Beni Mellal ajoute à sa farine « un peu de jeljlane (sésame) et de nafaa » (Hespress). Aucune source lue ne donne la dose pour un khobz ; à titre indicatif seulement, Choumicha met 1 c. à s. d'anis pour 500 g de farine dans ses krichlat (brioches).",
+   "t": "خبز الأنيسون: الأنيسون، مع الكمون، هو أكثر النكهات شيوعًا في الخبز المغربي (Morocco World News)، وخبز الدار يُعطَّر أحيانًا ببذور الأنيسون (Wikipédia). وتضيف ربة بيت من بني ملال إلى دقيقها «قليلًا من الجلجلان (السمسم) والنافع» (Hespress). لا يذكر أي مصدر اطّلعنا عليه المقدار اللازم لخبز الدار؛ وعلى سبيل الاستئناس فقط، تضع Choumicha في الكريشلات (البريوش) التي تحضّرها 1 ملعقة كبيرة من الأنيسون لكل 500 غ من الدقيق."
+  },
+  "variants.5": {
+   "fr": "Khobz des fêtes : enrichi d'œuf et de lait, et souvent parfumé à l'anis, au sésame ou au cumin ; au Maroc, il est plutôt réservé aux fêtes et aux grandes occasions (Taste of Maroc).",
+   "t": "خبز الأعياد: مُغنًى بالبيض والحليب، وغالبًا ما يُعطَّر بالأنيسون أو السمسم أو الكمون؛ وفي المغرب، يُخصَّص عادةً للأعياد والمناسبات الكبرى (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Farines mélangées : remplace une partie, jusqu'à la moitié, de la farine blanche par de la semoule très fine (finot de blé dur), de la farine complète ou de la farine d'orge (Taste of Maroc). Les farines d'orge et d'avoine se mélangent en général à d'autres farines, sinon le pain est trop dense (Taste of Maroc). Autrefois, on moulait soi-même le blé ou l'orge à la meule (Hespress).",
+   "t": "دقيق مخلوط: استبدل جزءًا من الدقيق الأبيض، يصل إلى النصف، بسميد رقيق جدًا (finot من القمح الصلب)، أو بالدقيق الكامل، أو بدقيق الشعير (Taste of Maroc). ودقيق الشعير ودقيق الشوفان يُخلطان عادةً بأنواع أخرى من الدقيق، وإلا صار الخبز كثيفًا جدًا (Taste of Maroc). وفي الماضي، كان الناس يطحنون القمح أو الشعير بأنفسهم بالرحى (Hespress)."
+  },
+  "variants.7": {
+   "fr": "Mie plus légère : laisse d'abord lever la pâte une heure ou plus dans un saladier huilé, avant de façonner (Taste of Maroc). C'est aussi la méthode de Choumicha : la pâte double, on la tape pour chasser les bulles, puis les pains lèvent une seconde fois.",
+   "t": "لبّ أخف: اترك العجين أولًا يختمر ساعة أو أكثر في وعاء مدهون بالزيت، قبل التشكيل (Taste of Maroc). وهي أيضًا طريقة Choumicha: يتضاعف حجم العجين، ثم يُضرب لطرد فقاعات الهواء، ثم تختمر الأرغفة مرة ثانية."
+  },
+  "variants.8": {
+   "fr": "Plus de goût : moins de levure et une double levée longue (Taste of Maroc). Autrefois, on utilisait un levain maison, que certains boulangers marocains emploient encore (Taste of Maroc) ; à Laâyoune, un four traditionnel au bois fait son pain avec du levain, plusieurs farines, du sel et de l'eau (Le360).",
+   "t": "نكهة أقوى: خميرة أقل وتخميران طويلان (Taste of Maroc). وفي الماضي، كانت تُستعمل خميرة طبيعية منزلية، لا يزال بعض الخبازين المغاربة يستعملونها (Taste of Maroc)؛ وفي العيون، يُحضّر فرن تقليدي يعمل بالحطب خبزه بالخميرة الطبيعية وعدة أنواع من الدقيق والملح والماء (Le360)."
+  },
+  "variants.9": {
+   "fr": "Batbout : en cours de cuisine, Christine Benlafquih garde parfois un peu de cette pâte pour montrer comment faire des batbout, petits pains cuits sur le feu (Taste of Maroc) ; Choumicha publie aussi une recette « Batbot ou pain metlouâ ».",
+   "t": "البطبوط: في دروس الطبخ، تحتفظ Christine Benlafquih أحيانًا بقليل من هذا العجين لتُريَ كيف يُحضَّر البطبوط، وهو أرغفة صغيرة تُطهى على النار (Taste of Maroc)؛ وتنشر Choumicha أيضًا وصفة بعنوان «Batbot ou pain metlouâ»."
+  }
+ }
+}

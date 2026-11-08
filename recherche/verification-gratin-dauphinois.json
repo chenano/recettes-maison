@@ -1,0 +1,67 @@
+{
+ "slug": "gratin-dauphinois",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Santé Canada (gouvernement du Canada), « Températures sécuritaires de cuisson interne », publiée le 4 juin 2024 (lu le 8 novembre 2026)",
+   "url": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html",
+   "ce_qu_elle_confirme": "Restes réchauffés : 74 °C (165 °F) à cœur, ce qui recoupe le « réchauffé jusqu'à être fumant au centre » de la FSA et la vapeur qui s'échappe de l'Anses ; thermomètre planté au centre de la partie la plus épaisse."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "ingredients[0].items[1].q",
+   "actuel": "1",
+   "propose": "null",
+   "pourquoi": "Rendu recalculé avec le code de app.html : pour 1 personne, l'étape 4 affiche « Coupe ¼ gousse d'ail en deux », ce qui n'a pas de sens. Une seule gousse suffit à frotter le plat, quelle que soit sa taille : une gousse pour 1 kg chez Alpes Isère et legratindauphinois.fr, une gousse pour frotter le plat chez l'Académie du Goût et l'École Ducasse. À appliquer avec la correction suivante.",
+   "gravite": "mineure",
+   "sources": "Alpes Isère ; legratindauphinois.fr ; Académie du Goût ; École de cuisine Alain Ducasse ; code de app.html (fmtQ, fill)."
+  },
+  {
+   "champ": "steps[3].text",
+   "actuel": "Coupe {{ail-plat:full}} en deux.",
+   "propose": "Coupe une {{ail-plat}} en deux.",
+   "pourquoi": "Avec q à null, {{ail-plat}} affiche le nom : « Coupe une gousse d'ail en deux. », pour 1, 4 ou 8 personnes. La gousse hachée dans le lait ({{ail}}) reste proportionnelle.",
+   "gravite": "mineure",
+   "sources": "Code de app.html (fill : quand q est null, {{id}} affiche le nom)."
+  },
+  {
+   "champ": "secrets[11].source",
+   "actuel": " ; legratindauphinois.fr (les paysans dauphinois le finissaient le lendemain)",
+   "propose": " ; Jow (« tout aussi bon réchauffé le lendemain »)",
+   "pourquoi": "legratindauphinois.fr parle d'autre chose : « le passer au four 20 minutes sans le faire gratiner. Finir la cuisson le lendemain. C'est d'ailleurs ainsi que procédaient les paysans dauphinois ». C'est une cuisson commencée la veille, pas un gratin cuit puis réchauffé, et la recette ne propose pas cette cuisson en deux temps. Jow écrit : « Votre gratin est tout aussi bon réchauffé le lendemain quelques minutes au four ». Meilleur du Chef (meilleur en goût, plus facile à couper) et Wikilivres (« c'est meilleur de le cuire la veille et de le réchauffer ») restent.",
+   "gravite": "mineure",
+   "sources": "legratindauphinois.fr, page d'accueil ; Jow, blog ; Meilleur du Chef ; Wikilivres."
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "lait de 250 à 750 ml, médiane 500 ml (exactement 500 ml chez l'Académie du Goût et Alain Ducasse)",
+   "propose": "lait de 150 à 750 ml (150 ml chez Hélène Darroze, 30 cl pour 2 kg), médiane 438 ml avec elle et 500 ml sans elle (exactement 500 ml chez l'Académie du Goût et Alain Ducasse)",
+   "pourquoi": "Calcul refait (python3 -I) sur les douze recettes chiffrées : Hélène Darroze (30 cl de lait pour 2 kg, soit 150 ml par kilo) a été oubliée pour le lait alors qu'elle est comptée pour la crème. Avec elle, la fourchette va de 150 à 750 ml et la médiane fait 437,5 ml ; sans elle, 500 ml. La crème (médiane 300 ml) et le liquide total (médiane 750 ml) ne changent pas : le choix de 500 ml de lait et 250 ml de crème reste fondé.",
+   "gravite": "mineure",
+   "sources": "Académie du Goût, « Hélène Darroze partage sa recette du gratin dauphinois », 2 octobre 2025 ; autres recettes citées."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Liens : les 23 liens (22 sources et la page de la confrérie) répondent en HTTP 200 le 8 novembre 2026 ; aucun robots.txt n'interdit ces pages (User-agent * ; aucun groupe Claude, ClaudeBot, Claude-SearchBot ou anthropic-ai) : wikipedia, lyoncapitale.fr, wikisource, alpes-isere.com, academiedugout.fr, chefsimon.com, meilleurduchef.com, legratindauphinois.fr, jow.fr, wikibooks, mawdoo3.com, anses.fr, gov.uk, bfr.bund.de, inspection.canada.ca.",
+  "Choix de version, sans fromage ni œufs, au lait et à la crème : Wikipédia (section « Ni œufs, ni fromage » : « Il n'y a ni fromage, ni œufs dans le gratin dauphinois » ; « Il est admis de nos jours que le gratin dauphinois n'a pas de fromage contrairement au gratin savoyard » ; lait fermier à l'origine, lait et crème aujourd'hui) ; Lyon Capitale (Fonvieille : « Surtout, n'ajoutez pas d'œufs ni de fromage » ; Barus ; Pic et Rostang ; Régis Aribert ; recette du « vrai gratin » au lait entier et à la crème) ; Chef Simon (« point d'oeuf », « point de gruyère ») ; Jow (« Ne surtout pas ajouter de fromage ») ; Wikilivres (avec du fromage, « un gratin savoyard ») ; Alpes Isère, Académie du Goût, Meilleur du Chef, legratindauphinois.fr, École Ducasse et Rostang (ni œufs ni fromage dans les ingrédients). Escoffier 1903 (un œuf battu, 125 g de gruyère) est bien en variante. Fondé.",
+  "Cuisson au four : 160 °C pendant 1 h 30, jusqu'à 2 h, exactement chez Alpes Isère (« cuisson lente pendant 1 h 30 à 2 h à 160°C ») et Hélène Darroze (« 160°C pendant au moins 1h30 ») ; autres : 150 °C 2 h (Académie du Goût), 150 °C 2 h 30 à 3 h (legratindauphinois.fr), au moins 1 h (Wikilivres), trois quarts d'heure à une heure ou plus (Lyon Capitale), 40 à 45 minutes (Escoffier ; Wikipédia, 170 °C, ou 1 h 30 et plus). Test du couteau (« très facilement », Alpes Isère ; « sans difficulté », legratindauphinois.fr), lait rajouté si besoin et four pas trop vif (Lyon Capitale) : confirmés. 1 h 30 = 90 minutes = minuteur = time.cook.",
+  "Rondelles non rincées : legratindauphinois.fr (« Ne pas rincer les pommes de terre une fois coupées en lamelles », l'amidon « qui créé la cohésion », « Le gratin dauphinois cuit lentement ») ; Chef Simon (« Veillez à ne pas les rincer », « Le lait épaissit grâce aux amidons ») ; Jow (« ne jamais rincer », l'amidon « va servir de liant ») ; Meilleur du Chef (les tailler en suivant pour garder l'amidon de surface) ; Wikipédia (« non lavées, non essuyées ») ; version Pic (« Ne pas les essuyer pour conserver l'amidon »). Lavage rapide des pommes de terre entières : Alpes Isère, Académie du Goût, legratindauphinois.fr, Chef Simon. Épaisseur médiane 3 mm (calcul python).",
+  "Conservation : FSA (restes au réfrigérateur dans les 2 heures, « can be eaten cold », mangés sous 48 heures ou congelés, réchauffés une seule fois jusqu'à être fumants ; vapeur au centre d'un grand plat ; 0 à 5 °C) ; Anses (pas plus de 2 heures à température ambiante ; moins de 3 jours pour les plats cuisinés sans date limite ; récipient couvert jusqu'à la vapeur ; mention « après ouverture ») ; Santé Canada (restes à 74 °C). Crème crue (variante Darroze) : produits au lait cru « fortement déconseillés » aux enfants, aux femmes enceintes et aux personnes immunodéprimées (Anses). Service, astuce de l'étape 12 et erreurs 7 et 8 : conformes.",
+  "Origine : Wikipédia (dernière modification le 28 août 2026 : pays des Quatre Montagnes, Lans, Villard-de-Lans, Autrans et Sassenage ; Auguste Prudhomme, banquet du 12 juillet 1788 offert aux officiers municipaux de Gap par le duc de Clermont-Tonnerre, lieutenant général du Dauphiné ; confrérie depuis 2019) ; Lyon Capitale (27 mars 2013, Guillaume Lamy : « dîner offert le 12 juillet 1788 aux officiers municipaux de Gap, mandatés à Grenoble ») ; Meilleur du Chef (12 juillet 1788) ; legratindauphinois.fr (confrérie créée le 17 janvier 2019 par les Maîtres restaurateurs de l'Isère, Isère Tourisme et France Bleu Isère).",
+  "Recettes relues, chiffres conformes aux résumés de l'auteur : Alpes Isère (Passions de Laurie, publiée le 16 juin 2024, modifiée le 14 mars 2026 : 4 pers., 1 kg, 25 cl de crème à 30 %, 25 cl de lait, environ 2 mm, préparation 25 min) ; Académie du Goût (150 °C, 50 cl de lait, 50 cl de crème, 20 g de beurre, Charlotte ou Roseval) ; Alain Ducasse (6 pers., 2 kg de BF 15 en 3 mm, 1 l de lait, 40 minutes et 10 d'infusion, 220 °C environ 20 minutes) ; École Ducasse (Monalisa, 4 mm, 180 °C, « l'ail doit passer avant le beurre ») ; Rostang (500 g de Samba, 30 cl de lait, 50 cl de crème ; le vin blanc ne sert qu'à la volaille) ; Hélène Darroze (2 octobre 2025 : 2 kg, 600 g de crème crue, 30 cl de lait entier, Mona Lisa, Spunta, Agatha) ; Chef Simon (modifié le 2 novembre 2026 : 1,5 kg, 1 l, 15 cl, 10 cl d'eau, 4 gousses, cocotte 30 min, 190 °C 30 min, gril 15 min, repos 15 min) ; Meilleur du Chef (30 août 2019 : 800 g, 30 cl, 50 cl à 35 %, 3 à 4 mm, 8 minutes, 180 °C 15 à 20 minutes, la veille puis une nuit au réfrigérateur) ; legratindauphinois.fr (800 g, 1/2 l, 1/4 l, 150 °C 2 h 30 à 3 h) ; Jow (environ 5 mm, 10 min puis 45 min à 180 °C, fêtes) ; Wikilivres (11 décembre 2023 : 1 kg, 250 ml, 1/4 l, 2 mm, céleri-rave, 120 °C) ; version Pic (2 décembre 2025 : 1 kg de farineuses, 3 mm, 25 cl de lait demi-écrémé, 50 cl de crème, 15 à 20 min, 180 °C 25 min, 5 min de repos).",
+  "Calculs refaits (python3 -I) : crème de 0 à 1 000 ml par kilo, médiane 300 ml, valeur la plus fréquente 250 ml (Alpes Isère, Wikilivres, Alain Ducasse) ; liquide total médian 750 ml (avec ou sans Darroze) ; pommes de terre, médiane 250 g par personne ; ail, médiane 2 gousses par kilo ; épaisseur médiane 3 mm ; conversions justes (25 cl = 250 ml ; 1/2 l = 500 ml ; 3/4 de litre = 750 ml ; 1 h 30 = 90 min). Seule la fourchette et la médiane du lait sont à corriger (voir corrections).",
+  "Rendu dans l'appli, recalculé avec le code de app.html pour 1, 4 et 8 personnes : pommes de terre 250 g, 1 kg, 2 kg ; beurre 5 g, 20 g, 40 g ; lait 125 ml, 500 ml, « 1 l » ; crème 65 ml (62,5 arrondi à 5 près), 250 ml, 500 ml ; ail du lait ¼, 1, 2 gousses, avec les bons pluriels. {{sel}}, {{poivre}} et {{muscade}} affichent leur nom. Seul défaut : « Coupe ¼ gousse d'ail en deux » pour 1 personne (corrigé).",
+  "Cohérence interne : un seul minuteur (90 min) = time.cook ; préparation 25 min = Alpes Isère ; les quantités de la liste sont celles des étapes ; ordre des étapes conforme à Alpes Isère (ail puis beurre, lait bouilli avec sel, poivre et muscade, couches avec crème, lait jusqu'à couvrir, noisettes de beurre) ; recette non classée « Rapide ».",
+  "Halal : ni viande ni alcool dans le plat ; la volaille au vin de Michel Rostang n'est pas reprise ; note sur la présure pour la variante Escoffier au gruyère ; bouillon certifié halal pour la variante savoyarde.",
+  "Secrets, erreurs et variantes relus dans leurs sources : Larousse « le vrai » gratin à la crème seule (selon Lyon Capitale) et Oustau de Baumanière (Wikipédia) ; précuissons (Ducasse, Chef Simon, Meilleur du Chef, version Pic) ; Darroze ; céleri-rave et 120 °C (Wikilivres) ; chapelure (École Ducasse) ; cocottes (Chef Simon) ; savoyarde au consommé (Escoffier) ; plat en terre ou en grès qui garde la chaleur (Wikipédia, Lyon Capitale, Escoffier) ; variétés (Chef Simon, Jow, Académie du Goût, Hélène Darroze, Meilleur du Chef) ; mandoline (Meilleur du Chef, legratindauphinois.fr). Nom arabe : Mawdoo3 donne bien « غراتان البطاطا Gratin Dauphinois » dans sa liste des gratins."
+ ],
+ "non_verifiable": [
+  "Recherche web indisponible (quota épuisé) : aucune nouvelle recette française sérieuse n'a pu être trouvée en plus des 15 sources culinaires françaises déjà citées ; pas de recette officielle de la Confrérie du gratin dauphinois.",
+  "Nom arabe « غراتان البطاطا » : une seule source (Mawdoo3), nom générique (« gratin de pommes de terre ») ; aucune deuxième source (Wikipédia sans article arabe, Wiktionnaire sans traduction arabe, libellés arabes de Wikidata non visibles dans la page lue). Non confirmé par recoupement. Aucun nom darija trouvé.",
+  "Livres cités par Lyon Capitale et Wikipédia (Fonvieille, Larousse gastronomique, Fernand Point, Bocuse, Robuchon, Barus, Piège, Maguet, Roig, Karsenty, Prudhomme) : non lus ; leurs positions restent « selon Lyon Capitale » ou « selon Wikipédia ».",
+  "École Ducasse et Michel Rostang : étapes réservées aux abonnés ; version d'Anne-Sophie Pic lue seulement dans la reproduction d'un membre de Chef Simon.",
+  "USDA FSIS (restes) : le site répond HTTP 403 « Access Denied » ; non utilisé, sans contournement.",
+  "Disponibilité au Maroc des variétés citées et de la crème liquide entière à 30 % : non vérifiée."
+ ]
+}

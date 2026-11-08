@@ -1,0 +1,454 @@
+{
+ "_slug": "chakchouka",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Chakchouka à la marocaine",
+   "t": "الشكشوكة على الطريقة المغربية"
+  },
+  "darija": {
+   "fr": "Chakchouka",
+   "t": "شكشوكة"
+  },
+  "tagline": {
+   "fr": "Des poivrons verts grillés et des tomates mijotés à l'ail, au cumin et au paprika, avec des œufs cuits dessus. On la mange bien chaude, dans la poêle, avec du pain.",
+   "t": "فلفل حلو أخضر مشوي وطماطم مطهوّان على نار هادئة بالثوم والكمون والفلفل الأحمر الحلو، مع بيض يُطهى فوقهما. تؤكل ساخنة جدًا، في المقلاة، مع الخبز."
+  },
+  "region": {
+   "fr": "Tout le Maghreb. Au Maroc, le nom désigne la poêlée de poivrons verts et de tomates à l'ail, mangée seule en salade cuite ou chaude avec des œufs (Wikipédia FR, section Maroc ; forum Yabiladi).",
+   "t": "كل بلدان المغرب العربي. وفي المغرب، يدل الاسم على طبق الفلفل الحلو الأخضر والطماطم بالثوم المطهو في المقلاة، الذي يؤكل وحده كسلطة مطهوة، أو ساخنًا مع البيض (Wikipédia FR، قسم المغرب؛ منتدى Yabiladi)."
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, dîner ou plat simple (vite fait avec des poivrons crus) ; Rachida la dit aussi très appréciée pendant le Ramadan. Sans œufs, elle se sert en salade cuite.",
+   "t": "الفطور الصباحي، أو العشاء، أو طبق بسيط (سريع التحضير بالفلفل النيء)؛ وتقول Rachida إنها محبوبة جدًا أيضًا في رمضان. وبلا بيض، تُقدَّم كسلطة مطهوة."
+  },
+  "img_alt": {
+   "fr": "Œufs cuits dans une poêle en fonte sur des poivrons et des tomates, avec du persil",
+   "t": "بيض مطهو في مقلاة من الحديد الزهر فوق الفلفل والطماطم، مع البقدونس"
+  },
+  "serving": {
+   "fr": "Sers la chakchouka aux œufs bien chaude, dans la poêle, dès la fin de la cuisson, avec du pain pour saucer (Lalla Moulati 2019 ; Rachida). Elle se mange au petit-déjeuner (Lalla Moulati 2019 ; Rachida) ou en plat principal (Rachida). Sans œufs, sers-la tiède ou froide, en salade cuite, comme une taktouka (Wikipédia FR ; chef Brahim Sakroune dans Femmes du Maroc).",
+   "t": "قدّم الشكشوكة بالبيض ساخنة جدًا، في المقلاة، فور انتهاء الطهي، مع الخبز للتغميس (Lalla Moulati 2019؛ Rachida). وتؤكل في الفطور الصباحي (Lalla Moulati 2019؛ Rachida) أو كطبق رئيسي (Rachida). وبلا بيض، قدّمها دافئة أو باردة، كسلطة مطهوة، مثل التكتوكة (Wikipédia FR؛ الشيف Brahim Sakroune في Femmes du Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Légumes",
+   "t": "الخضر"
+  },
+  "ing.poivrons.name": {
+   "fr": "poivron vert",
+   "t": "حبة فلفل حلو أخضر"
+  },
+  "ing.poivrons.pl": {
+   "fr": "poivrons verts",
+   "t": "حبات فلفل حلو أخضر"
+  },
+  "ing.poivrons.note": {
+   "fr": "à griller sans les couper",
+   "t": "يُشوى دون تقطيع"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "طماطم ناضجة جيدًا"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper",
+   "t": "تُبشر"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "بصلة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "بصلات"
+  },
+  "ing.oignon.note": {
+   "fr": "à hacher",
+   "t": "تُفرم"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher",
+   "t": "يُفرم"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson et épices",
+   "t": "الطهي والتوابل"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "تُعدَّل كميته بعد التذوق"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.2.group": {
+   "fr": "Œufs et service",
+   "t": "البيض والتقديم"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.oeufs.note": {
+   "fr": "un par personne",
+   "t": "بيضة لكل شخص"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.persil.note": {
+   "fr": "ou de coriandre",
+   "t": "أو كزبرة"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, pour servir",
+   "t": "خيط رفيع، للتقديم"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "لتغميسه في الصلصة"
+  },
+  "equipment.0": {
+   "fr": "Gazinière (sinon, four en position gril et une plaque)",
+   "t": "موقد غاز (وإلا ففرن على وضع الشواء وصينية)"
+  },
+  "equipment.1": {
+   "fr": "Sac en plastique propre (type sac de congélation)",
+   "t": "كيس بلاستيكي نظيف (مثل أكياس التجميد)"
+  },
+  "equipment.2": {
+   "fr": "Grande poêle profonde avec couvercle",
+   "t": "مقلاة كبيرة عميقة بغطاء"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "مبشرة"
+  },
+  "equipment.4": {
+   "fr": "Planche et couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "steps.0.title": {
+   "fr": "Grille les poivrons",
+   "t": "اشوِ الفلفل"
+  },
+  "steps.0.text": {
+   "fr": "Grille {{poivrons:full}} directement sur la flamme du gaz, en tournant souvent, jusqu'à ce que la peau soit noircie de tous les côtés. Sans gaz, utilise le gril du four, sur une plaque, en tournant régulièrement.",
+   "t": "اشوِ {{poivrons:full}} مباشرة على لهب الغاز، مع التقليب كثيرًا، حتى تسودّ القشرة من كل الجهات. وإن لم يكن لديك غاز، فاستعمل شواية الفرن، على صينية، مع التقليب بانتظام."
+  },
+  "steps.0.tip": {
+   "fr": "Rachida les grille aussi au four, en position gril, à 200 °C.",
+   "t": "تشويه Rachida أيضًا في الفرن، على وضع الشواء، على 200 درجة مئوية."
+  },
+  "steps.1.title": {
+   "fr": "Enferme-les dans un sac",
+   "t": "ضعه في كيس مغلق"
+  },
+  "steps.1.text": {
+   "fr": "Glisse les poivrons encore chauds dans un sac en plastique, ferme-le et attends 15 minutes. La vapeur décolle la peau.",
+   "t": "ضع الفلفل وهو لا يزال ساخنًا في كيس بلاستيكي، وأغلقه وانتظر 15 دقيقة. فالبخار يفصل القشرة."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poivrons dans le sac",
+   "t": "الفلفل في الكيس"
+  },
+  "steps.1.timer.done": {
+   "fr": "Les poivrons ont tiédi : tu peux les peler.",
+   "t": "فتر الفلفل: يمكنك الآن تقشيره."
+  },
+  "steps.2.title": {
+   "fr": "Pèle et coupe les poivrons",
+   "t": "قشّر الفلفل وقطّعه"
+  },
+  "steps.2.text": {
+   "fr": "Retire la peau brûlée avec les doigts, sans passer les poivrons sous l'eau. Enlève la queue et les graines, puis coupe la chair en petits dés.",
+   "t": "أزل القشرة المحروقة بأصابعك، دون أن تمرّر الفلفل تحت الماء. انزع العنق والبذور، ثم قطّع لب الفلفل مكعبات صغيرة."
+  },
+  "steps.2.tip": {
+   "fr": "Rince-toi les mains plutôt que les poivrons : ils gardent leur goût fumé.",
+   "t": "اشطف يديك بدل الفلفل: فهو يحتفظ بنكهته المدخّنة."
+  },
+  "steps.3.title": {
+   "fr": "Prépare tomates, oignon, ail et persil",
+   "t": "حضّر الطماطم والبصل والثوم والبقدونس"
+  },
+  "steps.3.text": {
+   "fr": "Coupe {{tomates}} de tomates en deux et râpe la chair ; jette la peau. Hache {{oignon:full}} et {{ail:full}}. Lave et hache le persil.",
+   "t": "قطّع {{tomates}} من الطماطم إلى نصفين وابشر اللب؛ وتخلّص من القشرة. افرم {{oignon:full}} و{{ail:full}}. اغسل البقدونس وافرمه."
+  },
+  "steps.3.tip": {
+   "fr": "Tu peux aussi peler les tomates, les épépiner et les couper en petits dés, comme Rachida.",
+   "t": "يمكنك أيضًا تقشير الطماطم ونزع بذورها وتقطيعها مكعبات صغيرة، كما تفعل Rachida."
+  },
+  "steps.3.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم مبشورة على مبشرة"
+  },
+  "steps.3.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.4.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "شوّح البصل حتى يذبل"
+  },
+  "steps.4.text": {
+   "fr": "Dans une grande poêle profonde, chauffe {{huile}} d'huile d'olive à feu doux. Ajoute l'oignon et remue jusqu'à ce qu'il devienne translucide.",
+   "t": "في مقلاة كبيرة عميقة، سخّن {{huile}} من زيت الزيتون على نار هادئة. أضف البصل وحرّك حتى يصير شفافًا."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'ail et les poivrons",
+   "t": "أضف الثوم والفلفل"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute l'ail et remue quelques secondes, sans le laisser dorer. Ajoute les dés de poivrons et remue 1 minute.",
+   "t": "أضف الثوم وحرّك بضع ثوانٍ، دون أن تتركه يتحمّر. أضف مكعبات الفلفل وحرّك 1 دقيقة."
+  },
+  "steps.6.title": {
+   "fr": "Assaisonne",
+   "t": "تبّل"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute {{sel}} de sel, {{paprika}} de paprika, {{cumin}} de cumin et {{poivre}} de poivre noir. Mélange bien.",
+   "t": "أضف {{sel}} من الملح، و{{paprika}} من الفلفل الأحمر الحلو، و{{cumin}} من الكمون، و{{poivre}} من الفلفل الأسود. اخلط جيدًا."
+  },
+  "steps.7.title": {
+   "fr": "Fais mijoter les tomates",
+   "t": "اترك الطماطم تنضج على نار هادئة"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute les tomates râpées et mélange. Laisse mijoter à feu doux, en remuant souvent pour que rien n'attache, jusqu'à obtenir une compotée épaisse, presque sans jus. Goûte et rectifie le sel.",
+   "t": "أضف الطماطم المبشورة واخلط. اتركها تنضج على نار هادئة، مع التحريك كثيرًا حتى لا يلتصق شيء، إلى أن تحصل على مزيج كثيف مطهو جيدًا، يكاد يخلو من العصير. تذوّق وعدّل الملح."
+  },
+  "steps.8.title": {
+   "fr": "Casse les œufs",
+   "t": "اكسر البيض"
+  },
+  "steps.8.text": {
+   "fr": "Fais un petit creux dans la sauce pour chaque œuf. Casse {{oeufs:full}} dedans, comme pour des œufs au plat.",
+   "t": "اصنع حفرة صغيرة في الصلصة لكل بيضة. واكسر فيها {{oeufs:full}}، كما تفعل مع البيض المقلي."
+  },
+  "steps.9.title": {
+   "fr": "Couvre et laisse prendre",
+   "t": "غطّ المقلاة واترك البيض يتماسك"
+  },
+  "steps.9.text": {
+   "fr": "Couvre la poêle et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient bien pris. Pour un jaune bien cuit, laisse 2 à 3 minutes de plus, jusqu'à ce qu'il soit ferme.",
+   "t": "غطّ المقلاة واتركها على نار هادئة نحو 5 دقائق، حتى يتماسك البياض جيدًا. وللحصول على صفار مطهو جيدًا، اتركها من 2 إلى 3 دقائق إضافية، حتى يتماسك."
+  },
+  "steps.9.tip": {
+   "fr": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Fais-le toujours pour les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles : ce sont eux qui risquent le plus une salmonellose grave (FDA).",
+   "t": "تنصح FDA بطهي البيض حتى يتماسك الصفار والبياض. افعل ذلك دائمًا للأطفال وكبار السن والنساء الحوامل والأشخاص ذوي الصحة الهشة: فهم الأكثر عرضة لإصابة خطيرة بالسالمونيلا (FDA)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Œufs à couvert",
+   "t": "البيض مغطّى"
+  },
+  "steps.9.timer.done": {
+   "fr": "Les blancs sont-ils bien pris ? Pour un jaune ferme, compte encore 2 à 3 minutes.",
+   "t": "هل تماسك البياض جيدًا؟ للحصول على صفار متماسك، احسب من 2 إلى 3 دقائق أخرى."
+  },
+  "steps.10.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّم فورًا"
+  },
+  "steps.10.text": {
+   "fr": "Retire du feu. Parsème de {{persil}} de persil haché et arrose d'un filet d'{{huile-service}}. Sers tout de suite dans la poêle, avec du {{khobz}} pour saucer.",
+   "t": "ارفع المقلاة عن النار. رشّ فوقها {{persil}} من البقدونس المفروم، واسقها بخيط رفيع من زيت الزيتون. قدّمها فورًا في المقلاة، مع خبز الدار للتغميس."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, on préfère les poivrons grillés, pour leur goût fumé. Pressé ? Coupe-les crus en petits dés et fais-les fondre avec l'oignon : ça marche aussi.",
+   "t": "في المغرب، يُفضَّل الفلفل المشوي لنكهته المدخّنة. مستعجل؟ قطّعه نيئًا مكعبات صغيرة واتركه يذبل مع البصل: هذا ينجح أيضًا."
+  },
+  "secrets.0.source": {
+   "fr": "Rachida (Gâteau et cuisine Rachida) ; forum Yabiladi (2006) pour les deux façons ; Lalla Moulati (2019) pour les poivrons crus",
+   "t": "Rachida (Gâteau et cuisine Rachida)؛ منتدى Yabiladi (2006) للطريقتين؛ Lalla Moulati (2019) للفلفل النيء"
+  },
+  "secrets.1.text": {
+   "fr": "Enferme les poivrons grillés encore chauds dans un sac fermé : la vapeur décolle la peau, qui s'enlève ensuite très facilement.",
+   "t": "ضع الفلفل المشوي وهو لا يزال ساخنًا في كيس مغلق: فالبخار يفصل القشرة، فتُزال بعد ذلك بسهولة كبيرة."
+  },
+  "secrets.1.source": {
+   "fr": "Rachida (15 min) ; Cooking With Alia (15 à 20 min) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama (méthode de sa belle-mère)",
+   "t": "Rachida (15 دقيقة)؛ Cooking With Alia (من 15 إلى 20 دقيقة)؛ Lalla Moulati (التكتوكة، 2014 و2019)؛ MarocMama (طريقة حماتها)"
+  },
+  "secrets.2.text": {
+   "fr": "Ne passe pas les poivrons grillés sous l'eau : pèle-les à sec pour garder le goût fumé, et rince-toi plutôt les mains.",
+   "t": "لا تمرّر الفلفل المشوي تحت الماء: قشّره جافًا لتحافظ على النكهة المدخّنة، واشطف يديك بدلًا من ذلك."
+  },
+  "secrets.2.source": {
+   "fr": "Chef Brahim Sakroune dans Femmes du Maroc (2023) ; Lalla Moulati (taktouka, 2014 et 2019)",
+   "t": "الشيف Brahim Sakroune في Femmes du Maroc (2023)؛ Lalla Moulati (التكتوكة، 2014 و2019)"
+  },
+  "secrets.3.text": {
+   "fr": "Coupe les tomates en deux et râpe la chair en jetant la peau : c'est rapide, et la sauce n'a pas de peaux.",
+   "t": "قطّع الطماطم إلى نصفين وابشر اللب وتخلّص من القشرة: هذا سريع، ولا تبقى قشور في الصلصة."
+  },
+  "secrets.3.source": {
+   "fr": "Lalla Moulati (tomates râpées, 2019) ; Cooking With Alia (taktouka : chair râpée, peau jetée)",
+   "t": "Lalla Moulati (طماطم مبشورة، 2019)؛ Cooking With Alia (التكتوكة: لب مبشور، والقشرة تُرمى)"
+  },
+  "secrets.4.text": {
+   "fr": "L'ail ne doit pas dorer : quelques secondes dans l'huile suffisent pour la parfumer.",
+   "t": "يجب ألا يتحمّر الثوم: بضع ثوانٍ في الزيت تكفي لتعطيره."
+  },
+  "secrets.4.source": {
+   "fr": "Rachida",
+   "t": "Rachida"
+  },
+  "secrets.5.text": {
+   "fr": "Avant les œufs, la sauce doit devenir une compotée épaisse. Remue souvent pour qu'elle n'attache pas.",
+   "t": "قبل إضافة البيض، يجب أن تصير الصلصة مزيجًا كثيفًا مطهوًا جيدًا. حرّكها كثيرًا حتى لا تلتصق."
+  },
+  "secrets.5.source": {
+   "fr": "Rachida ; Lalla Moulati (2019 : laisser le mélange épaissir)",
+   "t": "Rachida؛ Lalla Moulati (2019: ترك الخليط يتكثّف)"
+  },
+  "secrets.6.text": {
+   "fr": "Casse chaque œuf dans un petit creux de la sauce : il cuit à la surface, comme un œuf au plat.",
+   "t": "اكسر كل بيضة في حفرة صغيرة في الصلصة: فتنضج على السطح، مثل البيض المقلي."
+  },
+  "secrets.6.source": {
+   "fr": "Rachida ; Wikipédia FR (section Maroc : œufs au plat cuits à la surface)",
+   "t": "Rachida؛ Wikipédia FR (قسم المغرب: بيض مقلي يُطهى على السطح)"
+  },
+  "secrets.7.text": {
+   "fr": "Le couvercle cuit le dessus des œufs : environ 5 minutes pour un jaune encore coulant, un peu plus pour un jaune ferme.",
+   "t": "الغطاء يُنضج سطح البيض: نحو 5 دقائق لصفار لا يزال سائلًا، وأكثر بقليل لصفار متماسك."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama (5 min à couvert, jaune coulant) ; Rachida (couvrir pour un jaune bien cuit) ; Lalla Moulati (2019 : environ 8 min à couvert)",
+   "t": "MarocMama (5 دقائق مع التغطية، صفار سائل)؛ Rachida (التغطية لصفار مطهو جيدًا)؛ Lalla Moulati (2019: نحو 8 دقائق مع التغطية)"
+  },
+  "secrets.8.text": {
+   "fr": "Sers dans la poêle, bien chaud, et mange-la à la main avec du pain, à la marocaine.",
+   "t": "قدّمها في المقلاة ساخنة جدًا، وكُلها باليد مع الخبز، على الطريقة المغربية."
+  },
+  "secrets.8.source": {
+   "fr": "Rachida ; Lalla Moulati (2019 : servir aussitôt)",
+   "t": "Rachida؛ Lalla Moulati (2019: التقديم فورًا)"
+  },
+  "secrets.9.text": {
+   "fr": "Ne la confonds pas avec la taktouka : c'est le même duo poivrons et tomates, mais en salade cuite, sans œufs, servie tiède ou froide. Pour My Moroccan Food, ce sont deux plats différents.",
+   "t": "لا تخلط بينها وبين التكتوكة: فهي الثنائي نفسه من الفلفل والطماطم، لكن على شكل سلطة مطهوة، بلا بيض، تُقدَّم دافئة أو باردة. ويرى My Moroccan Food أنهما طبقان مختلفان."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food (2016) ; Cooking With Alia ; Choumicha (Tektouka marqa) ; Lalla Moulati (taktouka, 2014 et 2019) ; MarocMama ; Rachida",
+   "t": "My Moroccan Food (2016)؛ Cooking With Alia؛ Choumicha (Tektouka marqa)؛ Lalla Moulati (التكتوكة، 2014 و2019)؛ MarocMama؛ Rachida"
+  },
+  "secrets.10.text": {
+   "fr": "Le plat marocain de tous les jours aux œufs et à la tomate porte un autre nom : « bid w maticha » (œufs et tomates).",
+   "t": "أما الطبق المغربي اليومي بالبيض والطماطم فله اسم آخر: «بيض ومطيشة» (أي البيض والطماطم)."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipedia EN (Shakshouka) ; Lalla Moulati (2018 : « البيض ومطيشة », que « tout le monde sait cuisiner ») ; Hespress (2012 : beaucoup de Marocaines s'y tournent pour le dîner) ; Al-Quds al-Arabi (2023 : pour les Marocains, le repas le plus simple, le plus connu et le moins cher)",
+   "t": "Wikipedia EN (Shakshouka)؛ Lalla Moulati (2018: «البيض ومطيشة»، الذي «يعرف الجميع طبخه»)؛ Hespress (2012: تلجأ إليه كثير من المغربيات للعشاء)؛ Al-Quds al-Arabi (2023: بالنسبة للمغاربة، هو أبسط وجبة وأشهرها وأرخصها)"
+  },
+  "secrets.11.text": {
+   "fr": "Tomates pas assez douces ? My Moroccan Food ajoute une demi-cuillère à café de sucre à sa taktouka, et la supprime quand les tomates sont bien sucrées, comme au Maroc.",
+   "t": "طماطم غير حلوة بما يكفي؟ يضيف My Moroccan Food نصف ملعقة صغيرة من السكر إلى التكتوكة، ويستغني عنها عندما تكون الطماطم حلوة جدًا، كما في المغرب."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food (taktouka, 2016)",
+   "t": "My Moroccan Food (التكتوكة، 2016)"
+  },
+  "secrets.12.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte peu profonde, et à manger dans les 3 jours (la FDA va jusqu'à 3 à 4 jours). Réchauffe-les jusqu'à 74 °C (165 °F).",
+   "t": "البقايا: ضعها في الثلاجة خلال 2 ساعة، في علبة غير عميقة، وكُلها خلال 3 أيام (وتصل المدة عند FDA إلى ما بين 3 و4 أيام). أعد تسخينها حتى 74 درجة مئوية (165 درجة فهرنهايت)."
+  },
+  "secrets.12.source": {
+   "fr": "FDA, « What You Need to Know About Egg Safety » ; Anses, « Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques » (8 avril 2020)",
+   "t": "FDA، «What You Need to Know About Egg Safety»؛ Anses، «Eviter les toxi-infections alimentaires en confinement : les bonnes pratiques» (8 أبريل 2020)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les poivrons grillés sous l'eau : ils perdent leur goût fumé (chef Brahim Sakroune, Femmes du Maroc ; Lalla Moulati).",
+   "t": "شطف الفلفل المشوي تحت الماء: يفقد نكهته المدخّنة (الشيف Brahim Sakroune، Femmes du Maroc؛ Lalla Moulati)."
+  },
+  "mistakes.1": {
+   "fr": "Casser les œufs dans une sauce encore liquide : attends qu'elle soit épaisse (Rachida ; Lalla Moulati).",
+   "t": "كسر البيض في صلصة لا تزال سائلة: انتظر حتى تتكثّف (Rachida؛ Lalla Moulati)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser attacher la sauce : remue souvent, à feu doux (Rachida).",
+   "t": "ترك الصلصة تلتصق: حرّكها كثيرًا، على نار هادئة (Rachida)."
+  },
+  "mistakes.3": {
+   "fr": "Servir un jaune coulant à un enfant, une personne âgée, une femme enceinte ou une personne fragile : cuis le jaune et le blanc jusqu'à ce qu'ils soient fermes (FDA).",
+   "t": "تقديم صفار سائل لطفل أو شخص مسنّ أو امرأة حامل أو شخص ذي صحة هشة: اطبخ الصفار والبياض حتى يتماسكا (FDA)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "ترك البقايا خارج الثلاجة أكثر من 2 ساعة (FDA)."
+  },
+  "variants.0": {
+   "fr": "Sans œufs, en salade cuite : arrête-toi après la compotée et sers tiède ou froid. Au Maroc, certains l'appellent alors aussi taktouka (forum Yabiladi, 2006 : « chekchouka ou taktouka » ; « salade cuite » selon Wikipédia FR ; « salade chakchouka tiède » du chef Brahim Sakroune, Femmes du Maroc, 2023).",
+   "t": "بلا بيض، على شكل سلطة مطهوة: توقف بعد الحصول على المزيج الكثيف وقدّمها دافئة أو باردة. وفي المغرب، يسمّيها البعض حينئذ أيضًا تكتوكة (منتدى Yabiladi، 2006: «شكشوكة أو تكتوكة»؛ «سلطة مطهوة» حسب Wikipédia FR؛ «سلطة شكشوكة دافئة» للشيف Brahim Sakroune، Femmes du Maroc، 2023)."
+  },
+  "variants.1": {
+   "fr": "Poivrons crus, plus rapide : coupe-les en petits dés et fais-les fondre avec l'oignon jusqu'à ce qu'ils soient tendres, puis ajoute l'ail et les épices (Lalla Moulati, 2019 ; forum Yabiladi, 2006).",
+   "t": "بالفلفل النيء، أسرع: قطّعه مكعبات صغيرة واتركه يذبل مع البصل حتى يطرى، ثم أضف الثوم والتوابل (Lalla Moulati، 2019؛ منتدى Yabiladi، 2006)."
+  },
+  "variants.2": {
+   "fr": "Œufs brouillés : verse les œufs battus sur la sauce et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014, avec seulement oignon et tomates ; Rachida cite aussi les œufs légèrement brouillés).",
+   "t": "بيض مخلوط: اسكب البيض المخفوق فوق الصلصة وحرّك حتى ينضج (Lalla Moulati، 2014، بالبصل والطماطم فقط؛ وتذكر Rachida أيضًا البيض المخلوط قليلًا)."
+  },
+  "variants.3": {
+   "fr": "Avec du concentré de tomate : Lalla Moulati (2019) en met 2 c. à s. pour 400 g de tomates râpées.",
+   "t": "بمركز الطماطم: تضع Lalla Moulati (2019) منه 2 ملعقة كبيرة لكل 400 غ من الطماطم المبشورة."
+  },
+  "variants.4": {
+   "fr": "Poivrons de couleurs : rouges, verts et jaunes mélangés (Rachida ; chef Brahim Sakroune). Choumicha met un poivron vert et un rouge dans sa tektouka.",
+   "t": "فلفل حلو ملوّن: أحمر وأخضر وأصفر معًا (Rachida؛ الشيف Brahim Sakroune). وتضع Choumicha فلفلة حلوة خضراء وأخرى حمراء في تكتوكتها."
+  },
+  "variants.5": {
+   "fr": "Plus relevée : un piment, du piment d'Espelette ou de l'harissa (Rachida) ; une pincée de piment de Cayenne (My Moroccan Food, taktouka).",
+   "t": "أكثر حرارة: حبة فلفل حار، أو فلفل Espelette، أو الهريسة (Rachida)؛ رشة من فلفل الكايين (My Moroccan Food، التكتوكة)."
+  },
+  "variants.6": {
+   "fr": "Sans oignon : seulement poivrons, tomates, ail et épices, comme chez plusieurs internautes de Yabiladi (2006 ; d'autres y mettent de l'oignon) et le chef Brahim Sakroune (2023) ; Rachida propose aussi de l'essayer sans oignon.",
+   "t": "بلا بصل: الفلفل والطماطم والثوم والتوابل فقط، كما عند عدد من مستخدمي Yabiladi (2006؛ وآخرون يضيفون البصل) والشيف Brahim Sakroune (2023)؛ وتقترح Rachida أيضًا تجربتها بلا بصل."
+  }
+ }
+}

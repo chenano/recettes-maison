@@ -1,0 +1,558 @@
+{
+ "_slug": "tajine-poulet-citron-olives",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Tajine de poulet aux citrons confits et aux olives",
+   "t": "Таджин из курицы с солёными лимонами и оливками"
+  },
+  "darija": {
+   "fr": "Djaj mqualli bel hamd marqad w zitoun",
+   "t": "Джадж мкалли бель хамд маркад у зитун"
+  },
+  "tagline": {
+   "fr": "Un poulet fondant au safran et au gingembre, nappé d'oignons fondus en sauce, relevé de citron confit et d'olives.",
+   "t": "Нежная курица с шафраном и имбирём, покрытая соусом из разварившегося лука, с пикантными нотками солёного лимона и оливок."
+  },
+  "region": {
+   "fr": "Tout le Maroc (plat national), cuisson m'qalli",
+   "t": "Всё Марокко (национальное блюдо), техника мкалли"
+  },
+  "occasion": {
+   "fr": "Repas de famille, invités et fêtes",
+   "t": "Семейные обеды, приём гостей и праздники"
+  },
+  "serving": {
+   "fr": "Bien chaud, sur un plat ou directement dans le tajine posé au centre de la table : la sauce au fond, le poulet dessus, nappé de sauce aux oignons et décoré d'olives et de lanières de citron confit. Au Maroc, les tajines se mangent traditionnellement à la main, avec des morceaux de pain marocain pour attraper le poulet et la sauce ; il peut aussi s'accompagner de riz ou de couscous, et certains le servent avec des frites posées dessus ou autour.",
+   "t": "Подавайте очень горячим, на блюде или прямо в таджине, поставив его в центр стола: соус на дне, сверху курица, политая луковым соусом и украшенная оливками и полосками солёного лимона. В Марокко таджины традиционно едят руками, захватывая курицу и соус кусочками марокканского хлеба; к нему можно подать также рис или кускус, а некоторые подают его с картофелем фри — сверху или вокруг."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et marinade",
+   "t": "Курица и маринад"
+  },
+  "ing.poulet.name": {
+   "fr": "poulet halal, fermier (beldi) de préférence",
+   "t": "тушка халяльной курицы, лучше фермерской (бельди)"
+  },
+  "ing.poulet.pl": {
+   "fr": "poulets halal, fermiers (beldi) de préférence",
+   "t": "тушки халяльной курицы, лучше фермерской (бельди)"
+  },
+  "ing.poulet.pl5": {
+   "fr": "poulet halal, fermier (beldi) de préférence / poulets halal, fermiers (beldi) de préférence",
+   "t": "тушек халяльной курицы, лучше фермерской (бельди)"
+  },
+  "ing.poulet.note": {
+   "fr": "environ 1,5 kg pièce, à couper en 4 à 6 morceaux",
+   "t": "около 1,5 кг каждая, разрезать на 4–6 частей"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "нитей шафрана"
+  },
+  "ing.safran.note": {
+   "fr": "une pincée généreuse ; Choumicha en compte 8 pistils",
+   "t": "щедрая щепотка; Choumicha берёт 8 нитей"
+  },
+  "ing.eau-safran.name": {
+   "fr": "d'eau chaude, pour infuser le safran",
+   "t": "горячей воды, чтобы настоять шафран"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin : le citron confit et les olives salent déjà",
+   "t": "уточните в конце: солёный лимон и оливки уже дают соль"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.gingembre.note": {
+   "fr": "bien bombée",
+   "t": "с горкой"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir ou blanc moulu, selon le goût",
+   "t": "молотый чёрный или белый перец по вкусу"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "смена (выдержанного марокканского масла)"
+  },
+  "ing.smen.note": {
+   "fr": "ou du beurre ; facultatif",
+   "t": "или сливочного масла; по желанию"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail, écrasée ou râpée",
+   "t": "зубчик чеснока (раздавить или натереть)"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail, écrasées ou râpées",
+   "t": "зубчика чеснока (раздавить или натереть)"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail, écrasée ou râpée / gousses d'ail, écrasées ou râpées",
+   "t": "зубчиков чеснока (раздавить или натереть)"
+  },
+  "ing.jus-citron.name": {
+   "fr": "de jus de citron frais",
+   "t": "свежего лимонного сока"
+  },
+  "ing.herbes.name": {
+   "fr": "de coriandre et de persil frais hachés",
+   "t": "рубленой свежей кинзы и петрушки"
+  },
+  "ing.1.group": {
+   "fr": "Cuisson",
+   "t": "Приготовление"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen (jaune, blanc ou rouge)",
+   "t": "луковица среднего размера (жёлтого, белого или красного лука)"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens (jaunes, blancs ou rouges)",
+   "t": "луковицы среднего размера (жёлтого, белого или красного лука)"
+  },
+  "ing.oignons.pl5": {
+   "fr": "oignon moyen (jaune, blanc ou rouge) / oignons moyens (jaunes, blancs ou rouges)",
+   "t": "луковиц среднего размера (жёлтого, белого или красного лука)"
+  },
+  "ing.oignons.note": {
+   "fr": "à hacher finement",
+   "t": "мелко нарезать"
+  },
+  "ing.eau-depart.name": {
+   "fr": "d'eau, pour le départ de cuisson",
+   "t": "воды для начала готовки"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile : moitié huile d'olive, moitié huile neutre",
+   "t": "масла: наполовину оливкового, наполовину растительного"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "d'eau chaude",
+   "t": "горячей воды"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "le liquide doit arriver à peu près aux deux tiers du poulet",
+   "t": "жидкость должна доходить примерно до двух третей высоты курицы"
+  },
+  "ing.2.group": {
+   "fr": "Citron confit et olives",
+   "t": "Солёный лимон и оливки"
+  },
+  "ing.citron-confit.name": {
+   "fr": "citron confit",
+   "t": "шт. солёного лимона"
+  },
+  "ing.citron-confit.pl": {
+   "fr": "citrons confits",
+   "t": "шт. солёного лимона"
+  },
+  "ing.citron-confit.pl5": {
+   "fr": "citron confit / citrons confits",
+   "t": "шт. солёного лимона"
+  },
+  "ing.citron-confit.note": {
+   "fr": "l'écorce seulement, en fines lanières",
+   "t": "только кожура, тонкими полосками"
+  },
+  "ing.olives.name": {
+   "fr": "d'olives vertes ou violettes de bonne qualité",
+   "t": "зелёных или фиолетовых оливок хорошего качества"
+  },
+  "ing.olives.note": {
+   "fr": "dénoyautées ou non",
+   "t": "без косточек или с косточками"
+  },
+  "equipment.0": {
+   "fr": "Cocotte à fond épais avec couvercle, ou tajine en terre",
+   "t": "Кастрюля с толстым дном и крышкой или глиняный таджин"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur (pour le tajine en terre, hors gaz)",
+   "t": "Рассекатель пламени (для глиняного таджина, если плита не газовая)"
+  },
+  "equipment.2": {
+   "fr": "Grand saladier",
+   "t": "Большая миска"
+  },
+  "equipment.3": {
+   "fr": "Petit bol",
+   "t": "Мисочка"
+  },
+  "equipment.4": {
+   "fr": "Petite casserole",
+   "t": "Небольшая кастрюля"
+  },
+  "equipment.5": {
+   "fr": "Spatule en bois",
+   "t": "Деревянная лопатка"
+  },
+  "equipment.6": {
+   "fr": "Papier aluminium",
+   "t": "Алюминиевая фольга"
+  },
+  "steps.0.title": {
+   "fr": "Fais infuser le safran",
+   "t": "Настойте шафран"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{safran}} de safran dans un petit bol avec {{eau-safran}} d'eau chaude. Laisse infuser 10 min.",
+   "t": "Положите шафран ({{safran}}) в мисочку и залейте {{eau-safran}} горячей воды. Оставьте настаиваться на 10 мин."
+  },
+  "steps.0.timer.label": {
+   "fr": "Infusion du safran",
+   "t": "Шафран настаивается"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le safran a infusé : prépare la marinade.",
+   "t": "Шафран настоялся: приготовьте маринад."
+  },
+  "steps.1.title": {
+   "fr": "Prépare la marinade",
+   "t": "Приготовьте маринад"
+  },
+  "steps.1.text": {
+   "fr": "Verse l'eau safranée dans un grand saladier et ajoute {{sel}} de sel, {{gingembre}} de gingembre, {{curcuma}} de curcuma, le poivre et {{smen}} de smen. Ajoute {{ail:full}}, {{jus-citron}} de jus de citron et {{herbes}} de coriandre et persil hachés, puis mélange bien.",
+   "t": "Влейте шафрановую воду в большую миску и добавьте {{sel}} соли, {{gingembre}} имбиря, {{curcuma}} куркумы, перец и {{smen}} смена. Добавьте раздавленный или натёртый чеснок ({{ail}} шт.), {{jus-citron}} лимонного сока и {{herbes}} рубленой кинзы и петрушки, затем хорошо перемешайте."
+  },
+  "steps.2.title": {
+   "fr": "Fais mariner le poulet",
+   "t": "Замаринуйте курицу"
+  },
+  "steps.2.text": {
+   "fr": "Coupe le poulet en 4 à 6 morceaux. Enrobe chaque morceau de marinade en frottant bien, jusque sous la peau. Couvre et laisse au frais au moins 1 h, idéalement 2 h ou toute une nuit.",
+   "t": "Разрежьте курицу на 4–6 частей. Хорошо натрите каждый кусок маринадом, в том числе под кожей. Накройте и оставьте в холодильнике минимум на 1 ч, а лучше на 2 ч или на всю ночь."
+  },
+  "steps.2.timer.label": {
+   "fr": "Marinade du poulet",
+   "t": "Курица маринуется"
+  },
+  "steps.2.timer.done": {
+   "fr": "La marinade est prête : passe à la cuisson.",
+   "t": "Маринад готов: переходите к приготовлению."
+  },
+  "steps.3.title": {
+   "fr": "Prépare oignons, citron confit et olives",
+   "t": "Подготовьте лук, солёный лимон и оливки"
+  },
+  "steps.3.text": {
+   "fr": "Pendant la marinade, hache finement {{oignons:full}}. Retire la pulpe de {{citron-confit:full}} et coupe l'écorce en fines lanières. Rince {{olives}} d'olives ; si elles viennent d'une boîte, elles sont plus salées : blanchis-les 10 min dans l'eau bouillante, puis égoutte-les.",
+   "t": "Пока курица маринуется, мелко нарежьте лук ({{oignons}} шт.). Удалите мякоть из солёного лимона ({{citron-confit}} шт.) и нарежьте кожуру тонкими полосками. Промойте {{olives}} оливок; если они из банки, они солонее: бланшируйте их 10 мин в кипящей воде, затем откиньте на дуршлаг."
+  },
+  "steps.3.timer.label": {
+   "fr": "Olives en boîte à blanchir",
+   "t": "Бланширование консервированных оливок"
+  },
+  "steps.3.timer.done": {
+   "fr": "Égoutte les olives et mets-les de côté.",
+   "t": "Откиньте оливки на дуршлаг и отложите."
+  },
+  "steps.4.title": {
+   "fr": "Départ à cru, sans huile",
+   "t": "Начните тушение без масла"
+  },
+  "steps.4.text": {
+   "fr": "Mets le poulet et toute sa marinade dans une cocotte à fond épais avec les oignons et {{eau-depart}} d'eau. Laisse frémir 10 à 15 min à feu moyen en retournant les morceaux de temps en temps. C'est prêt quand l'eau s'est presque évaporée et que le poulet a changé de couleur sur toutes ses faces. Au tajine en terre, pose-le sur un diffuseur si tu n'as pas le gaz et ne dépasse pas le feu moyen.",
+   "t": "Положите курицу со всем маринадом в кастрюлю с толстым дном вместе с луком и {{eau-depart}} воды. Готовьте при слабом кипении 10–15 мин на среднем огне, время от времени переворачивая куски. Этап закончен, когда вода почти выпарилась, а курица изменила цвет со всех сторон. Если готовите в глиняном таджине, ставьте его на рассекатель, когда плита не газовая, и не делайте огонь сильнее среднего."
+  },
+  "steps.4.timer.label": {
+   "fr": "Départ à cru",
+   "t": "Начало тушения"
+  },
+  "steps.4.timer.done": {
+   "fr": "L'eau a presque disparu et le poulet a changé de couleur partout ? Passe à l'étape suivante.",
+   "t": "Вода почти выпарилась, а курица везде изменила цвет? Переходите к следующему шагу."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute l'huile et l'eau chaude",
+   "t": "Добавьте масло и горячую воду"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute {{huile}} d'huile et {{eau-chaude}} d'eau chaude : le liquide doit arriver à peu près aux deux tiers du poulet, complète un peu si besoin. Au tajine en terre, mets moins d'eau qu'en cocotte.",
+   "t": "Добавьте {{huile}} масла и {{eau-chaude}} горячей воды: жидкость должна доходить примерно до двух третей высоты курицы; при необходимости немного долейте. В глиняный таджин наливайте меньше воды, чем в кастрюлю."
+  },
+  "steps.6.title": {
+   "fr": "Laisse mijoter à couvert",
+   "t": "Тушите под крышкой"
+  },
+  "steps.6.text": {
+   "fr": "Couvre et laisse mijoter à feu doux à moyen-doux environ 50 min, en vérifiant souvent que rien n'attache au fond. Le poulet est prêt quand il est tendre au toucher et que le liquide a bien réduit. Un poulet beldi, comme la cuisson au tajine en terre, demande nettement plus de temps.",
+   "t": "Накройте крышкой и тушите на слабом огне или огне ниже среднего около 50 мин, часто проверяя, чтобы ничего не прилипало ко дну. Курица готова, когда она мягкая на ощупь, а жидкость хорошо уварилась. Курице бельди, как и готовке в глиняном таджине, нужно заметно больше времени."
+  },
+  "steps.6.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "Тушение курицы"
+  },
+  "steps.6.timer.done": {
+   "fr": "Le poulet est-il tendre au toucher ? Sinon, laisse cuire encore et vérifie régulièrement.",
+   "t": "Курица мягкая на ощупь? Если нет, готовьте дальше и регулярно проверяйте."
+  },
+  "steps.7.title": {
+   "fr": "Sors le poulet",
+   "t": "Выньте курицу"
+  },
+  "steps.7.text": {
+   "fr": "Retire délicatement les morceaux de poulet et garde-les au chaud sous une feuille de papier aluminium, sans jeter le jus qui s'en écoule. Au tajine en terre, laisse plutôt le poulet en place et verse la sauce dans une petite casserole pour la réduire à part.",
+   "t": "Осторожно выньте куски курицы и держите их в тепле под листом фольги, не выливая стекающий с них сок. В глиняном таджине лучше оставьте курицу на месте, а соус перелейте в небольшую кастрюлю, чтобы уварить его отдельно."
+  },
+  "steps.8.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "Уварите луковый соус"
+  },
+  "steps.8.text": {
+   "fr": "Fais réduire la sauce à feu moyen environ 20 min, en remuant souvent et en écrasant les oignons à la spatule. C'est prêt quand on ne reconnaît plus les oignons : la sauce est épaisse, soyeuse et commence à se séparer de l'huile. Garde un peu de liquide et, si ça attache, ajoute un peu d'eau.",
+   "t": "Уваривайте соус на среднем огне около 20 мин, часто помешивая и разминая лук лопаткой. Соус готов, когда лук уже не различить: он густой, шелковистый и начинает отделяться от масла. Оставьте немного жидкости, а если начинает прилипать, добавьте немного воды."
+  },
+  "steps.8.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "Уваривание соуса"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les oignons ont fondu et la sauce se sépare de l'huile ? Sinon, continue quelques minutes en remuant.",
+   "t": "Лук разварился, а соус отделяется от масла? Если нет, продолжайте ещё несколько минут, помешивая."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute olives et citron confit",
+   "t": "Добавьте оливки и солёный лимон"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute les olives et les lanières de citron confit dans la sauce et laisse cuire 10 min à feu moyen-doux. Goûte et rectifie le sel seulement maintenant. Si la sauce devient trop citronnée, retire les lanières et garde-les pour le décor.",
+   "t": "Добавьте в соус оливки и полоски солёного лимона и готовьте 10 мин на огне ниже среднего. Только теперь попробуйте и при необходимости досолите. Если соус становится слишком лимонным, выньте полоски и оставьте их для украшения."
+  },
+  "steps.9.timer.label": {
+   "fr": "Olives et citron confit",
+   "t": "Оливки и солёный лимон"
+  },
+  "steps.9.timer.done": {
+   "fr": "Goûte la sauce et rectifie le sel.",
+   "t": "Попробуйте соус и при необходимости досолите."
+  },
+  "steps.10.title": {
+   "fr": "Fais dorer le poulet dans la sauce",
+   "t": "Подрумяньте курицу в соусе"
+  },
+  "steps.10.text": {
+   "fr": "Remets les morceaux de poulet dans la cocotte, à feu moyen. Retourne-les plusieurs fois dans l'huile qui s'est séparée de la sauce, jusqu'à ce qu'ils soient bien chauds et dorés. Au tajine, reverse simplement la sauce réduite autour du poulet.",
+   "t": "Верните куски курицы в кастрюлю, на средний огонь. Несколько раз переверните их в масле, отделившемся от соуса, пока они хорошо не прогреются и не зарумянятся. В таджине просто вылейте уваренный соус обратно вокруг курицы."
+  },
+  "steps.11.title": {
+   "fr": "Dresse et sers bien chaud",
+   "t": "Выложите на блюдо и подавайте очень горячим"
+  },
+  "steps.11.text": {
+   "fr": "Verse la sauce dans le plat de service, pose le poulet dessus et nappe-le de sauce aux oignons. Décore avec les olives et les lanières de citron confit, puis sers bien chaud avec du pain. Au tajine, pose-le directement au centre de la table.",
+   "t": "Влейте соус в сервировочное блюдо, положите сверху курицу и полейте её луковым соусом. Украсьте оливками и полосками солёного лимона, затем подавайте очень горячим, с хлебом. Если готовили в таджине, поставьте его прямо в центр стола."
+  },
+  "secrets.0.text": {
+   "fr": "Le m'qalli repose sur deux épices maîtresses, le safran et le gingembre, et se reconnaît à sa sauce jaune.",
+   "t": "Мкалли держится на двух главных специях — шафране и имбире, и его узнают по жёлтому соусу."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Nada Kiffa), Cooking Styles and Sauces in Moroccan Cuisine",
+   "t": "Taste of Maroc (Nada Kiffa), статья «Cooking Styles and Sauces in Moroccan Cuisine»"
+  },
+  "secrets.1.text": {
+   "fr": "Fais d'abord infuser le safran une dizaine de minutes dans un peu d'eau chaude, puis mélange-y sel, curcuma, gingembre, poivre et smen : c'est la base de la marinade.",
+   "t": "Сначала настаивайте шафран около десяти минут в небольшом количестве горячей воды, затем смешайте его с солью, куркумой, имбирём, перцем и сменом: это основа маринада."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse mariner au moins 1 h, idéalement 2 h ou une nuit au frais, en faisant pénétrer la marinade jusque sous la peau.",
+   "t": "Маринуйте минимум 1 ч, а лучше 2 ч или ночь в холодильнике, втирая маринад даже под кожу."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Taste of Maroc (Nada Kiffa)",
+   "t": "Choumicha и Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.3.text": {
+   "fr": "Départ « à cru » : le poulet cuit d'abord 10 à 15 min dans sa marinade avec les oignons et un fond d'eau, à feu moyen. L'huile et l'eau chaude ne viennent qu'ensuite, quand l'eau s'est presque évaporée et que la viande a changé de couleur.",
+   "t": "Старт «всырую»: курица сначала готовится 10–15 мин в маринаде с луком и небольшим количеством воды на среднем огне. Масло и горячую воду добавляют только потом, когда вода почти выпарится, а мясо изменит цвет."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.4.text": {
+   "fr": "Ne diminue pas l'huile : avec moins d'huile, la sauce aux oignons risque de ne pas atteindre sa texture épaisse. Utilise un mélange d'huile d'olive et d'huile neutre.",
+   "t": "Не уменьшайте количество масла: с меньшим количеством масла луковый соус может не стать достаточно густым. Используйте смесь оливкового и растительного масла."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha",
+   "t": "Taste of Maroc (Nada Kiffa) и Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Pour la sauce aux oignons (daghmira), réduis patiemment en remuant et en écrasant les oignons à la spatule, jusqu'à ce qu'on ne les reconnaisse plus et que la sauce, soyeuse, se sépare de l'huile.",
+   "t": "Луковый соус (daghmira) терпеливо уваривайте, помешивая и разминая лук лопаткой, пока его уже нельзя будет различить, а шелковистый соус не отделится от масла."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Nada Kiffa ; Christine Benlafquih)",
+   "t": "Taste of Maroc (Nada Kiffa и Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Sors le poulet, couvert, pendant que la sauce réduit, et remets-le seulement à la fin. Garde quand même un peu de liquide : la sauce ne doit pas finir à sec.",
+   "t": "Пока соус уваривается, выньте курицу и накройте её, а верните только в конце. Но всё же оставьте немного жидкости: соус не должен выкипеть досуха."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; My Moroccan Food (Nargisse Benkabbou)",
+   "t": "Taste of Maroc (Nada Kiffa) и My Moroccan Food (Nargisse Benkabbou)"
+  },
+  "secrets.7.text": {
+   "fr": "Le dernier geste donne son nom au plat : on remet le poulet cuit dans l'huile qui s'est séparée de la sauce et on le fait dorer à feu moyen ; il reste moelleux à l'intérieur.",
+   "t": "Последний приём и дал блюду название: готовую курицу возвращают в масло, отделившееся от соуса, и подрумянивают на среднем огне; внутри она остаётся сочной."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.8.text": {
+   "fr": "Prends du citron confit, jamais du citron frais à sa place : c'est le seul moyen d'avoir le goût traditionnel. Si la sauce devient trop citronnée, retire les morceaux de citron confit dès que le goût te plaît et garde-les pour le décor.",
+   "t": "Берите солёный лимон и никогда не заменяйте его свежим: только так получается традиционный вкус. Если соус становится слишком лимонным, выньте кусочки солёного лимона, как только вкус вас устроит, и оставьте их для украшения."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.9.text": {
+   "fr": "Les olives entrent à la toute fin, ou seulement en décor. Si elles viennent d'une boîte, blanchis-les 10 min dans l'eau bouillante, car elles sont plus salées.",
+   "t": "Оливки добавляют в самом конце или только для украшения. Если они из банки, бланшируйте их 10 мин в кипящей воде: они солонее."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc (Nada Kiffa)",
+   "t": "Taste of Maroc (Nada Kiffa)"
+  },
+  "secrets.10.text": {
+   "fr": "Sale avec prudence avant d'ajouter le citron confit et les olives, qui salent beaucoup la sauce, puis rectifie à la fin.",
+   "t": "Солите осторожно, пока не добавили солёный лимон и оливки — они сильно солят соус, — а в конце доведите до вкуса."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih и Nada Kiffa)"
+  },
+  "secrets.11.text": {
+   "fr": "L'ail doit rester discret : 1 à 2 gousses par poulet suffisent.",
+   "t": "Чеснок должен быть едва заметен: на одну курицу достаточно 1–2 зубчиков."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, réponse à un commentaire)",
+   "t": "Taste of Maroc (Nada Kiffa, ответ на комментарий)"
+  },
+  "secrets.12.text": {
+   "fr": "Dans les familles marocaines, on nettoie le poulet (on retire les amas de graisse sous la peau), puis on le laisse au moins 30 min dans une saumure d'eau froide, de sel, de citron et d'un peu de vinaigre blanc, avant de le rincer et de le mariner. Bladi le sale simplement et le laisse dégorger 2 h. Nettoie ensuite soigneusement tout ce qui a touché le poulet cru. Les autorités sanitaires déconseillent toutefois de rincer la volaille crue, car les éclaboussures propagent les bactéries : si tu gardes ce geste, fais-le sans éclabousser et nettoie évier et plan de travail juste après.",
+   "t": "В марокканских семьях курицу чистят (удаляют скопления жира под кожей), затем оставляют минимум на 30 мин в рассоле из холодной воды, соли, лимона и небольшого количества белого уксуса, после чего промывают и маринуют. Bladi просто солит её и оставляет на 2 ч, чтобы вышли соки. Затем тщательно вымойте всё, что касалось сырой курицы. Однако санитарные службы не советуют промывать сырую птицу, потому что брызги разносят бактерии: если вы сохраняете эту привычку, делайте это без брызг и сразу после этого вымойте раковину и рабочую поверхность."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc (Nada Kiffa), Cleaning and Brining Chicken the Moroccan Way ; Bladi.net",
+   "t": "Taste of Maroc (Nada Kiffa), статья «Cleaning and Brining Chicken the Moroccan Way»; Bladi.net"
+  },
+  "secrets.13.text": {
+   "fr": "Un poulet fermier (beldi) demande plus de cuisson qu'un poulet d'élevage : fie-toi à la tendreté au toucher, pas seulement à la minuterie.",
+   "t": "Фермерской курице (бельди) нужно больше времени, чем курице с птицефабрики: ориентируйтесь на мягкость на ощупь, а не только на таймер."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih и Nada Kiffa)"
+  },
+  "secrets.14.text": {
+   "fr": "Au tajine en terre : diffuseur obligatoire si tu ne cuisines pas au gaz, feu moyen jusqu'au frémissement (ça peut prendre 15 min ou plus), puis feu moyen-doux. Il faut moins d'eau qu'en cocotte et nettement plus de temps.",
+   "t": "В глиняном таджине: рассекатель обязателен, если вы готовите не на газу; средний огонь до лёгкого кипения (это может занять 15 мин и больше), затем огонь ниже среднего. Воды нужно меньше, чем в кастрюле, а времени — заметно больше."
+  },
+  "secrets.14.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih ; Nada Kiffa)",
+   "t": "Taste of Maroc (Christine Benlafquih и Nada Kiffa)"
+  },
+  "secrets.15.text": {
+   "fr": "Au tajine, si la sauce reste trop liquide en fin de cuisson, verse-la dans une petite casserole pour la réduire à part, puis remets-la dans le tajine.",
+   "t": "Если в таджине соус в конце остаётся слишком жидким, перелейте его в небольшую кастрюлю, уварите отдельно и верните в таджин."
+  },
+  "secrets.15.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "mistakes.0": {
+   "fr": "Saler comme d'habitude dès le départ : le citron confit et les olives salent déjà beaucoup la sauce.",
+   "t": "Солить как обычно с самого начала: солёный лимон и оливки и так сильно солят соус."
+  },
+  "mistakes.1": {
+   "fr": "Diminuer l'huile pour alléger : la sauce aux oignons n'épaissit pas et ne devient pas soyeuse.",
+   "t": "Уменьшать количество масла, чтобы облегчить блюдо: луковый соус не загустеет и не станет шелковистым."
+  },
+  "mistakes.2": {
+   "fr": "Laisser attacher le fond : surveille la cocotte pendant le mijotage et la réduction, remue et ajoute un peu d'eau si ça accroche.",
+   "t": "Давать соусу прилипать ко дну: следите за кастрюлей во время тушения и уваривания, помешивайте и подливайте немного воды, если начинает прилипать."
+  },
+  "mistakes.3": {
+   "fr": "Réduire la sauce complètement à sec : il doit rester un peu de liquide.",
+   "t": "Уваривать соус полностью досуха: должно остаться немного жидкости."
+  },
+  "mistakes.4": {
+   "fr": "Remplacer le citron confit par du citron frais : on perd le goût traditionnel.",
+   "t": "Заменять солёный лимон свежим: теряется традиционный вкус."
+  },
+  "mistakes.5": {
+   "fr": "Mettre des olives en boîte sans les blanchir : la sauce devient trop salée.",
+   "t": "Класть консервированные оливки, не бланшировав их: соус становится слишком солёным."
+  },
+  "mistakes.6": {
+   "fr": "Forcer sur l'ail : il doit rester en arrière-plan.",
+   "t": "Перебарщивать с чесноком: он должен оставаться на заднем плане."
+  },
+  "mistakes.7": {
+   "fr": "Poser un tajine en terre directement sur une plaque électrique ou vitrocéramique, sans diffuseur.",
+   "t": "Ставить глиняный таджин прямо на электрическую или стеклокерамическую плиту, без рассекателя."
+  },
+  "mistakes.8": {
+   "fr": "Sortir trop tôt un poulet beldi : il lui faut plus de cuisson qu'un poulet d'élevage.",
+   "t": "Слишком рано снимать с огня курицу бельди: ей нужно больше времени, чем курице с птицефабрики."
+  },
+  "variants.0": {
+   "fr": "Daghmira plus épaisse (version de fête) : fais cuire le poulet avec un seul oignon, retire-le une fois cuit, puis fais fondre les deux autres oignons hachés dans la sauce jusqu'à obtenir une pâte soyeuse qui se sépare de l'huile (Taste of Maroc).",
+   "t": "Более густая daghmira (праздничный вариант): готовьте курицу только с одной луковицей, выньте её, когда она будет готова, затем доведите в соусе две остальные рубленые луковицы до шелковистой пасты, которая отделяется от масла (Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Aux foies de volaille : blanchis les foies 10 à 15 min, puis fais-les cuire dans la sauce pendant qu'elle réduit ; laisse-les entiers ou écrase-les dans la sauce pour une texture plus riche (Taste of Maroc ; My Moroccan Food).",
+   "t": "С печенью птицы: бланшируйте печень 10–15 мин, затем доведите её до готовности в соусе, пока он уваривается; оставьте её целой или разомните в соусе, чтобы он стал насыщеннее (Taste of Maroc; My Moroccan Food)."
+  },
+  "variants.2": {
+   "fr": "Plus citronnée : ajoute la pulpe finement hachée d'un demi-citron confit avec les oignons (Taste of Maroc) ; Choumicha met un demi-citron confit en petits dés dans la marinade. La mère de Nargisse Benkabbou trouve que la pulpe rend le plat trop acide.",
+   "t": "Более лимонный вкус: добавьте вместе с луком мелко порубленную мякоть половинки солёного лимона (Taste of Maroc); Choumicha кладёт в маринад половинку солёного лимона мелкими кубиками. Мама Nargisse Benkabbou считает, что мякоть делает блюдо слишком кислым."
+  },
+  "variants.3": {
+   "fr": "Poulet entier (Choumicha, « Poulet M'Qalli aux olives rouges ») : poulet fermier entier frotté jusque sous la peau d'une marinade d'oignon, ail, coriandre, persil, citron confit, jus de citron, smen, épices et huile, puis bridé et cuit à couvert à feu doux ; les olives rouges vont dans la sauce pendant qu'elle réduit.",
+   "t": "Целая курица (Choumicha, «Poulet M'Qalli aux olives rouges»): целую фермерскую курицу натирают, в том числе под кожей, маринадом из лука, чеснока, кинзы, петрушки, солёного лимона, лимонного сока, смена, специй и масла, затем связывают и тушат под крышкой на слабом огне; красные оливки кладут в соус, пока он уваривается."
+  },
+  "variants.4": {
+   "fr": "Version de Choumicha « Poulet au safran, coriandre et citron confit » : l'oignon émincé revient 5 min dans l'huile à feu doux avant le poulet, la marinade contient de la coriandre sèche en poudre, et des olives vertes concassées (m'slalla) dénoyautées cuisent avec le poulet jusqu'à la fin.",
+   "t": "Вариант Choumicha «Poulet au safran, coriandre et citron confit»: тонко нарезанный лук обжаривают 5 мин в масле на слабом огне, прежде чем положить курицу, в маринад добавляют молотый сушёный кориандр, а колотые зелёные оливки (m'slalla) без косточек готовятся вместе с курицей до самого конца."
+  },
+  "variants.5": {
+   "fr": "Doré au four : badigeonne le poulet cuit d'un peu d'huile de la sauce et fais-le dorer environ 20 min à 200 °C en le retournant ; un poulet entier peut demander jusqu'à 30 min (Taste of Maroc).",
+   "t": "Подрумяненная в духовке: смажьте готовую курицу небольшим количеством масла из соуса и подрумяньте около 20 мин при 200 °C, переворачивая; целой курице может понадобиться до 30 мин (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Rôti (Christine Benlafquih, Taste of Maroc) : poulet entier mariné une nuit puis rôti à 160 °C pendant 2 h 30 à 3 h ; la sauce d'oignons émincés cuit à part 1 à 2 h, puis reçoit le jus de cuisson, le citron confit et les olives pendant 5 à 10 min.",
+   "t": "Запечённая (Christine Benlafquih, Taste of Maroc): целую курицу маринуют ночь, затем запекают при 160 °C от 2 ч 30 мин до 3 ч; соус из тонко нарезанного лука готовят отдельно 1–2 ч, затем добавляют в него сок от запекания, солёный лимон и оливки на 5–10 мин."
+  },
+  "variants.7": {
+   "fr": "Version à deux poulets beldis entiers (Bladi.net) : oignons en lamelles, ail, safran, gingembre, jus de citron et un verre d'eau, à couvert à feu moyen ; l'écorce de citron confit et les olives vertes finissent 5 min à feu doux.",
+   "t": "Вариант с двумя целыми курицами бельди (Bladi.net): лук пластинками, чеснок, шафран, имбирь, лимонный сок и стакан воды, под крышкой на среднем огне; кожура солёного лимона и зелёные оливки доходят 5 мин на слабом огне."
+  },
+  "variants.8": {
+   "fr": "Adaptations anglophones de Paula Wolfert (Sunset, Zarela) : oignon râpé, paprika et cumin dans la marinade, bouillon de volaille, cuisson plus courte ou au four ; non retenues car absentes des sources marocaines consultées.",
+   "t": "Англоязычные адаптации Paula Wolfert (Sunset, Zarela): тёртый лук, паприка и кумин в маринаде, бульон из птицы, более короткое приготовление или запекание в духовке; не использованы, так как их нет в изученных марокканских источниках."
+  }
+ }
+}

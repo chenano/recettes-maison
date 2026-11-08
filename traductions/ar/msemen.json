@@ -1,0 +1,442 @@
+{
+ "_slug": "msemen",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Msemen, crêpes feuilletées carrées",
+   "t": "المسمن، فطائر مورّقة مربعة"
+  },
+  "darija": {
+   "fr": "msemen (aussi rghaïf)",
+   "t": "مسمن (ويُسمّى أيضًا الرغايف)"
+  },
+  "tagline": {
+   "fr": "Des carrés feuilletés à la main, légèrement croustillants dehors et moelleux dedans, à tremper tout chauds dans le miel et le beurre fondu.",
+   "t": "مربعات مورّقة باليد، مقرمشة قليلًا من الخارج وطرية من الداخل، تُغمس وهي ساخنة في العسل والزبدة الذائبة."
+  },
+  "region": {
+   "fr": "Maroc (aussi en Algérie et en Tunisie)",
+   "t": "المغرب (وأيضًا في الجزائر وتونس)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "فطور الصباح، اللمجة مع الشاي، فطور رمضان"
+  },
+  "serving": {
+   "fr": "Bien chaud, trempé des deux côtés dans un sirop chaud de miel et de beurre à parts égales : c'est la façon la plus traditionnelle selon Taste of Maroc. Ou simplement arrosé de miel et de beurre fondu, avec un thé à la menthe (Rachida, Pâtisserie GATÔ). Au petit-déjeuner, au goûter et sur la table du ftour pendant le ramadan. Il se mange aussi nature ou avec de la confiture. Une fois refroidis, les msemen se congèlent bien : réchauffe-les sans les décongeler, à la poêle à feu moyen-doux, ou sur une grille au four à 180 °C (Taste of Maroc).",
+   "t": "ساخنًا جدًا، مغموسًا من الجهتين في خليط ساخن من العسل والزبدة بمقدارين متساويين: وهي الطريقة الأكثر تقليدية حسب Taste of Maroc. أو مسقيًّا ببساطة بالعسل والزبدة الذائبة، مع شاي بالنعناع (Rachida، Pâtisserie GATÔ). في فطور الصباح، وفي اللمجة، وعلى مائدة الفطور في رمضان. ويؤكل أيضًا وحده أو مع المربى. وبعد أن يبرد، يُجمَّد المسمن جيدًا: سخّنه دون إذابته، في المقلاة على نار بين الهادئة والمتوسطة، أو على شبكة في الفرن على 180 درجة مئوية (Taste of Maroc)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجين"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (T45 ou T55)",
+   "t": "دقيق أبيض (T45 أو T55)"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur",
+   "t": "سميد رقيق من القمح الصلب"
+  },
+  "ing.semoule.note": {
+   "fr": "ou semoule extra-fine, ou farine de blé dur",
+   "t": "أو سميد رقيق جدًا، أو دقيق القمح الصلب"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.sel.note": {
+   "fr": "1 à 2 c. à c. selon les sources",
+   "t": "من 1 إلى 2 ملعقة صغيرة حسب المصادر"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "ماء فاتر"
+  },
+  "ing.eau.note": {
+   "fr": "à verser petit à petit, ajuste selon ta farine",
+   "t": "يُسكب شيئًا فشيئًا، وعدّل كميته حسب الدقيق الذي تستعمله"
+  },
+  "ing.1.group": {
+   "fr": "Pour feuilleter",
+   "t": "للتوريق"
+  },
+  "ing.huile-faconnage.name": {
+   "fr": "d'huile neutre (tournesol ou colza), pour le plan de travail, les mains et les pâtons",
+   "t": "زيت المائدة (دوار الشمس أو السلجم)، لسطح العمل واليدين وكرات العجين"
+  },
+  "ing.huile-faconnage.note": {
+   "fr": "environ ; la pâte ne l'absorbe pas, il en restera",
+   "t": "تقريبًا؛ العجين لا يمتصه، وسيبقى منه شيء"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, fondu",
+   "t": "زبدة ذائبة"
+  },
+  "ing.beurre.note": {
+   "fr": "doux ou demi-sel",
+   "t": "غير مملحة أو نصف مملحة"
+  },
+  "ing.huile-melange.name": {
+   "fr": "d'huile neutre, à mélanger au beurre fondu",
+   "t": "زيت المائدة، يُخلط بالزبدة الذائبة"
+  },
+  "ing.semoule-pliage.name": {
+   "fr": "de semoule fine, à saupoudrer entre les couches",
+   "t": "سميد رقيق، يُرشّ بين الطبقات"
+  },
+  "ing.semoule-pliage.note": {
+   "fr": "environ 1 c. à c. par msemen",
+   "t": "نحو 1 ملعقة صغيرة لكل قطعة مسمن"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.miel.name": {
+   "fr": "Miel, autant que de beurre",
+   "t": "عسل، بمقدار الزبدة نفسه"
+  },
+  "ing.miel.note": {
+   "fr": "à parts égales avec le beurre",
+   "t": "بمقدار مساوٍ للزبدة"
+  },
+  "ing.beurre-service.name": {
+   "fr": "Beurre doux, autant que de miel",
+   "t": "زبدة غير مملحة، بمقدار العسل نفسه"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier",
+   "t": "وعاء كبير"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine",
+   "t": "ميزان مطبخ"
+  },
+  "equipment.2": {
+   "fr": "Un grand plan de travail lisse (granit, inox) ou un grand plateau",
+   "t": "سطح عمل كبير أملس (غرانيت أو فولاذ لا يصدأ) أو صينية كبيرة"
+  },
+  "equipment.3": {
+   "fr": "Un plateau ou une plaque, huilé, pour les pâtons et les carrés",
+   "t": "صينية أو صفيحة مدهونة بالزيت، لكرات العجين والمربعات"
+  },
+  "equipment.4": {
+   "fr": "Trois bols : huile, beurre-huile, semoule",
+   "t": "ثلاثة أوعية: للزيت، ولخليط الزبدة والزيت، وللسميد"
+  },
+  "equipment.5": {
+   "fr": "Un pinceau",
+   "t": "فرشاة"
+  },
+  "equipment.6": {
+   "fr": "Du film alimentaire",
+   "t": "غلاف بلاستيكي شفاف"
+  },
+  "equipment.7": {
+   "fr": "Une grande poêle à fond épais (fonte) ou antiadhésive, ou une plaque de cuisson",
+   "t": "مقلاة كبيرة سميكة القاع (من الحديد الزهر) أو غير لاصقة، أو صفيحة طهي"
+  },
+  "equipment.8": {
+   "fr": "Une grille",
+   "t": "شبكة"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger la pâte",
+   "t": "اخلط العجين"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine et {{sel}} de sel. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une boule. Si la pâte colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "t": "في وعاء كبير، اخلط {{farine}} من الدقيق و{{semoule}} من السميد الرقيق و{{sel}} من الملح. اسكب {{eau}} من الماء الفاتر شيئًا فشيئًا مع الخلط باليد، حتى تتكوّن كرة. إذا التصق العجين، فأضف قليلًا من الدقيق؛ وإذا كان جافًا، فقليلًا من الماء."
+  },
+  "steps.1.title": {
+   "fr": "Pétrir longtemps",
+   "t": "اعجن مدة طويلة"
+  },
+  "steps.1.text": {
+   "fr": "Pétris pendant 15 minutes : écrase la pâte avec la paume ou le poing, replie-la, recommence. Elle est prête quand elle est lisse, souple et élastique, et ne colle plus aux doigts. Ne raccourcis pas : c'est ce pétrissage qui permet d'étaler la pâte très fin.",
+   "t": "اعجن مدة 15 دقيقة: اضغط العجين براحة يدك أو بقبضتك، ثم اطوِه، وكرّر. يكون جاهزًا عندما يصبح أملس وليّنًا ومرنًا، ولا يلتصق بالأصابع. لا تختصر المدة: فهذا العجن هو الذي يتيح مدّ العجين رقيقًا جدًا."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pétrissage",
+   "t": "العجن"
+  },
+  "steps.1.timer.done": {
+   "fr": "Touche la pâte : si elle n'est pas encore lisse, souple et élastique, pétris encore quelques minutes.",
+   "t": "المس العجين: إذا لم يصبح بعد أملس وليّنًا ومرنًا، فاعجنه بضع دقائق أخرى."
+  },
+  "steps.1.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "يدان تعجنان عجينًا"
+  },
+  "steps.1.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "عجن العجين"
+  },
+  "steps.2.title": {
+   "fr": "Former les pâtons",
+   "t": "شكّل كرات العجين"
+  },
+  "steps.2.text": {
+   "fr": "Huile tes mains et un grand plateau. Partage la pâte en boules égales d'environ 85 g, une par msemen, bien lisses sur le dessus. Roule-les dans l'huile, pose-les sur le plateau sans qu'elles se touchent, couvre de film et laisse reposer 15 minutes.",
+   "t": "ادهن يديك وصينية كبيرة بالزيت. قسّم العجين إلى كرات متساوية وزن كل منها نحو 85 غ، كرة لكل قطعة مسمن، ملساء جيدًا من الأعلى. دحرجها في الزيت، وضعها على الصينية دون أن تتلامس، وغطّها بالغلاف البلاستيكي واتركها ترتاح 15 دقيقة."
+  },
+  "steps.2.timer.label": {
+   "fr": "Repos des pâtons",
+   "t": "راحة كرات العجين"
+  },
+  "steps.2.timer.done": {
+   "fr": "Les pâtons sont détendus : tu peux commencer à étaler.",
+   "t": "ارتخت كرات العجين: يمكنك أن تبدأ بمدّها."
+  },
+  "steps.3.title": {
+   "fr": "Préparer ton poste",
+   "t": "جهّز مكان عملك"
+  },
+  "steps.3.text": {
+   "fr": "Pendant le repos, mélange {{beurre}} de beurre fondu avec {{huile-melange}} d'huile. Mets à portée de main ce mélange, un bol avec {{huile-faconnage}} d'huile et un bol avec {{semoule-pliage}} de semoule. Huile largement ton plan de travail et tes mains.",
+   "t": "أثناء الراحة، اخلط {{beurre}} من الزبدة الذائبة مع {{huile-melange}} من الزيت. ضع في متناول يدك هذا الخليط، ووعاءً فيه {{huile-faconnage}} من الزيت، ووعاءً فيه {{semoule-pliage}} من السميد. ادهن سطح العمل ويديك بالزيت بسخاء."
+  },
+  "steps.4.title": {
+   "fr": "Étaler très fin",
+   "t": "مدّ العجين رقيقًا جدًا"
+  },
+  "steps.4.text": {
+   "fr": "Trempe un pâton dans l'huile et pose-le au centre du plan de travail. Étire-le du centre vers les bords, du bout des doigts, par petits gestes rapides, jusqu'à un disque d'environ 25 cm, si fin qu'on voit presque le plan de travail à travers. Quelques petits trous ne sont pas graves. Va vite, sinon la pâte sèche.",
+   "t": "اغمس كرة عجين في الزيت وضعها في وسط سطح العمل. مدّها من الوسط نحو الأطراف بأطراف أصابعك، بحركات صغيرة سريعة، حتى تحصل على قرص قطره نحو 25 سم، رقيق إلى حد أن سطح العمل يكاد يُرى من خلاله. بعض الثقوب الصغيرة لا تضر. اعمل بسرعة، وإلا جفّ العجين."
+  },
+  "steps.4.img.alt": {
+   "fr": "Mains qui étirent la pâte à msemen sur un plan huilé",
+   "t": "يدان تمدّان عجين المسمن على سطح مدهون بالزيت"
+  },
+  "steps.5.title": {
+   "fr": "Premier pliage",
+   "t": "الطيّة الأولى"
+  },
+  "steps.5.text": {
+   "fr": "Badigeonne tout le disque de mélange beurre-huile et saupoudre-le légèrement de semoule. Rabats un bord jusqu'au centre, puis le bord opposé par-dessus : tu obtiens une longue bande.",
+   "t": "ادهن القرص كله بخليط الزبدة والزيت، ورشّه بقليل من السميد. اطوِ أحد الطرفين حتى الوسط، ثم الطرف المقابل فوقه: فتحصل على شريط طويل."
+  },
+  "steps.6.title": {
+   "fr": "Plier en carré",
+   "t": "اطوِه على شكل مربع"
+  },
+  "steps.6.text": {
+   "fr": "Badigeonne la bande de beurre-huile et saupoudre-la de semoule. Rabats une extrémité jusqu'au centre, puis l'autre par-dessus : tu obtiens un carré d'environ 8 cm. Pose-le sur le plateau huilé et recommence avec les autres pâtons, en retenant l'ordre.",
+   "t": "ادهن الشريط بخليط الزبدة والزيت ورشّه بالسميد. اطوِ أحد طرفيه حتى الوسط، ثم الطرف الآخر فوقه: فتحصل على مربع طول ضلعه نحو 8 سم. ضعه على الصينية المدهونة، وكرّر مع باقي كرات العجين، مع تذكّر الترتيب."
+  },
+  "steps.7.title": {
+   "fr": "Laisser reposer les carrés",
+   "t": "اترك المربعات ترتاح"
+  },
+  "steps.7.text": {
+   "fr": "Couvre les carrés de film et laisse-les se détendre au moins 15 minutes. S'ils résistent quand tu les aplatis, laisse-les reposer encore un peu au lieu de forcer.",
+   "t": "غطِّ المربعات بالغلاف البلاستيكي واتركها ترتخي 15 دقيقة على الأقل. إذا قاومت عند تسطيحها، فاتركها ترتاح مدة أخرى قليلة بدل أن تضغط عليها بقوة."
+  },
+  "steps.7.timer.label": {
+   "fr": "Repos des carrés",
+   "t": "راحة المربعات"
+  },
+  "steps.7.timer.done": {
+   "fr": "Les carrés ont reposé : fais chauffer la poêle.",
+   "t": "ارتاحت المربعات: سخّن المقلاة."
+  },
+  "steps.8.title": {
+   "fr": "Chauffer la poêle",
+   "t": "سخّن المقلاة"
+  },
+  "steps.8.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais à feu moyen. Elle est prête quand une goutte d'eau grésille et s'évapore presque aussitôt. Huile-la légèrement, au pinceau ou avec du papier absorbant.",
+   "t": "سخّن مقلاة كبيرة سميكة القاع على نار متوسطة. تكون جاهزة عندما تُطقطق فيها قطرة ماء وتتبخر فورًا تقريبًا. ادهنها بقليل من الزيت، بالفرشاة أو بورق المطبخ."
+  },
+  "steps.9.title": {
+   "fr": "Aplatir au double",
+   "t": "سطّحه إلى ضعف حجمه"
+  },
+  "steps.9.text": {
+   "fr": "Prends le premier carré plié et pose-le sur le plan de travail huilé. Mains huilées, tapote-le fermement jusqu'à environ 18 cm de côté, un peu plus du double du carré plié, en gardant la forme carrée. Ne le travaille pas trop, sinon les couches se soudent.",
+   "t": "خذ المربع المطوي الأول وضعه على سطح العمل المدهون. بيدين مدهونتين بالزيت، اضغط عليه بقوة بربتات متتالية حتى يبلغ طول ضلعه نحو 18 سم، أي أكثر قليلًا من ضعف المربع المطوي، مع الحفاظ على شكله المربع. لا تُكثر من العمل عليه، وإلا التصقت الطبقات ببعضها."
+  },
+  "steps.10.title": {
+   "fr": "Cuire en retournant",
+   "t": "اطهِه مع التقليب"
+  },
+  "steps.10.text": {
+   "fr": "Dépose-le dans la poêle chaude et retourne-le plusieurs fois, environ 5 minutes en tout. Il est prêt quand il est doré et croustillant dehors, et bien cuit au centre. S'il colore trop vite, baisse un peu le feu : sinon le centre reste cru. Si ta poêle est grande, cuis-en deux à la fois.",
+   "t": "ضعه في المقلاة الساخنة واقلبه عدة مرات، نحو 5 دقائق في المجموع. يكون جاهزًا عندما يصبح ذهبيًا ومقرمشًا من الخارج وناضجًا جيدًا في الوسط. إذا تلوّن بسرعة كبيرة، فاخفض النار قليلًا: وإلا بقي وسطه نيئًا. وإذا كانت مقلاتك كبيرة، فاطهِ قطعتين في المرة الواحدة."
+  },
+  "steps.10.timer.label": {
+   "fr": "Cuisson d'un msemen",
+   "t": "طهي قطعة مسمن"
+  },
+  "steps.10.timer.done": {
+   "fr": "Doré et croustillant des deux côtés ? Sors-le sur la grille.",
+   "t": "هل صار ذهبيًا ومقرمشًا من الجهتين؟ أخرجه إلى الشبكة."
+  },
+  "steps.10.img.alt": {
+   "fr": "Msemen en train de cuire sur une grande plaque",
+   "t": "مسمن يُطهى على صفيحة كبيرة"
+  },
+  "steps.11.title": {
+   "fr": "Séparer les couches",
+   "t": "افصل الطبقات"
+  },
+  "steps.11.text": {
+   "fr": "Pose le msemen sur une grille. Après 1 à 2 minutes, prends-le par deux bords opposés et fais-le plier d'avant en arrière quelques secondes, comme une balançoire : les couches se décollent. Continue avec les autres carrés, dans l'ordre où tu les as pliés.",
+   "t": "ضع المسمن على شبكة. بعد مرور 1 إلى 2 دقيقة، أمسكه من طرفين متقابلين وحرّكه إلى الأمام والخلف بضع ثوانٍ، كالأرجوحة: فتنفصل الطبقات. تابع مع باقي المربعات، بالترتيب الذي طويتها به."
+  },
+  "steps.12.title": {
+   "fr": "Miel, beurre et thé",
+   "t": "العسل والزبدة والشاي"
+  },
+  "steps.12.text": {
+   "fr": "Dans une poêle, chauffe le miel et le beurre à parts égales. Dès que le mélange commence à frémir, coupe le feu. Trempe chaque msemen chaud des deux côtés, puis sers tout de suite avec un thé à la menthe.",
+   "t": "في مقلاة، سخّن العسل والزبدة بمقدارين متساويين. بمجرد أن يبدأ الخليط في الغليان الخفيف، أطفئ النار. اغمس كل قطعة مسمن ساخنة من الجهتين، ثم قدّمها فورًا مع شاي بالنعناع."
+  },
+  "secrets.0.text": {
+   "fr": "Le vrai secret, c'est le pétrissage : au moins 15 minutes, jusqu'à pouvoir étaler la pâte si fin qu'on voit le plan de travail à travers.",
+   "t": "السر الحقيقي هو العجن: 15 دقيقة على الأقل، حتى تستطيع مدّ العجين رقيقًا إلى حد أن يُرى سطح العمل من خلاله."
+  },
+  "secrets.0.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.1.text": {
+   "fr": "Mets de la semoule fine avec la farine : sans elle, le msemen reste élastique en bouche après cuisson.",
+   "t": "ضع السميد الرقيق مع الدقيق: فبدونه يبقى المسمن مطاطيًا في الفم بعد الطهي."
+  },
+  "secrets.1.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.2.text": {
+   "fr": "La semoule saupoudrée entre les couches les garde séparées pendant la cuisson.",
+   "t": "السميد المرشوش بين الطبقات يُبقيها منفصلة أثناء الطهي."
+  },
+  "secrets.2.source": {
+   "fr": "Morocco World News (Layla Dahamou) ; MarocMama",
+   "t": "Morocco World News (Layla Dahamou)؛ MarocMama"
+  },
+  "secrets.3.text": {
+   "fr": "Sois généreux avec l'huile pour étaler : elle n'est pas absorbée par la pâte, et un msemen bien fait n'est pas gras.",
+   "t": "كن سخيًا بالزيت عند المدّ: فالعجين لا يمتصه، والمسمن المتقن ليس دهنيًا."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.4.text": {
+   "fr": "Laisse reposer les pâtons, puis les carrés : si la pâte résiste à l'étirement, attends encore un peu au lieu de forcer.",
+   "t": "اترك كرات العجين ترتاح، ثم المربعات: إذا قاوم العجين المدّ، فانتظر قليلًا بدل أن تضغط عليه بقوة."
+  },
+  "secrets.4.source": {
+   "fr": "The Hot Bread Kitchen Cookbook (via The Splendid Table)",
+   "t": "The Hot Bread Kitchen Cookbook (عبر The Splendid Table)"
+  },
+  "secrets.5.text": {
+   "fr": "Étale vite : sinon la pâte sèche et risque de se déchirer.",
+   "t": "مدّ العجين بسرعة: وإلا جفّ وقد يتمزق."
+  },
+  "secrets.5.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou)",
+   "t": "My Moroccan Food (Nargisse Benkabbou)"
+  },
+  "secrets.6.text": {
+   "fr": "Feu moyen, pas plus : trop chaud, le msemen colore trop vite, le centre reste cru et les couches se séparent mal.",
+   "t": "نار متوسطة لا أكثر: فإذا كانت ساخنة جدًا، تلوّن المسمن بسرعة كبيرة، وبقي وسطه نيئًا، ولم تنفصل الطبقات جيدًا."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.7.text": {
+   "fr": "Une à deux minutes après la cuisson, fais « balancer » le msemen tenu par deux bords opposés : les couches se décollent.",
+   "t": "بعد دقيقة إلى دقيقتين من الطهي، «أرجِح» المسمن ممسكًا إياه من طرفين متقابلين: فتنفصل الطبقات."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.8.text": {
+   "fr": "Cuis les carrés dans l'ordre où tu les as pliés.",
+   "t": "اطهِ المربعات بالترتيب الذي طويتها به."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; The Hot Bread Kitchen Cookbook",
+   "t": "Taste of Maroc؛ The Hot Bread Kitchen Cookbook"
+  },
+  "mistakes.0": {
+   "fr": "Verser toute l'eau d'un coup : la pâte devient très collante et ne se pétrit plus (My Moroccan Food).",
+   "t": "سكب الماء كله دفعة واحدة: فيصبح العجين لزجًا جدًا ولا يمكن عجنه (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Écourter le pétrissage : c'est lui qui permet d'étaler très fin (Rachida).",
+   "t": "تقصير مدة العجن: فهو الذي يتيح المدّ الرقيق جدًا (Rachida)."
+  },
+  "mistakes.2": {
+   "fr": "Être avare de beurre et de semoule au pliage : les couches ne se séparent pas (Taste of Maroc).",
+   "t": "البخل بالزبدة والسميد عند الطيّ: فلا تنفصل الطبقات (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Cuire sur un feu trop vif : dehors trop coloré, centre cru (Taste of Maroc).",
+   "t": "الطهي على نار قوية جدًا: الخارج مُفرط التلوّن والوسط نيء (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Forcer une pâte qui résiste au lieu de la laisser reposer un peu plus (Hot Bread Kitchen).",
+   "t": "الضغط بقوة على عجين يقاوم بدل تركه يرتاح مدة أطول قليلًا (Hot Bread Kitchen)."
+  },
+  "mistakes.5": {
+   "fr": "Empiler les msemen pendant que tu les étires : ils collent entre eux (Hot Bread Kitchen).",
+   "t": "تكديس قطع المسمن فوق بعضها أثناء مدّها: فتلتصق ببعضها (Hot Bread Kitchen)."
+  },
+  "mistakes.6": {
+   "fr": "Trop travailler le carré en l'aplatissant : les couches se soudent (MarocMama).",
+   "t": "الإكثار من العمل على المربع عند تسطيحه: فتلتصق الطبقات ببعضها (MarocMama)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser lever la pâte si tu as mis de la levure (Rachida).",
+   "t": "ترك العجين يختمر إذا كنت قد وضعت فيه الخميرة (Rachida)."
+  },
+  "variants.0": {
+   "fr": "Msemen farci (rghaïf) : la farce se pose sur le disque étalé avant de plier. Farce classique : oignon, persil, khlii (viande séchée confite) et épices (Bladi.net).",
+   "t": "المسمن المحشو (الرغايف): توضع الحشوة على القرص الممدود قبل طيّه. الحشوة الكلاسيكية: بصل وبقدونس وخليع وتوابل (Bladi.net)."
+  },
+  "variants.1": {
+   "fr": "Rghaïf aux oignons : beaucoup d'oignons émincés très fin, un gros bouquet de persil, sel, cumin, piment rouge et une pincée de poivre, revenus dans l'huile avec de la graisse de bœuf ou du khlii ; environ 2 c. à s. de farce au centre du disque, puis on referme la pâte autour (Bladi.net).",
+   "t": "الرغايف بالبصل: كثير من البصل المقطّع شرائح رقيقة جدًا، وحزمة كبيرة من البقدونس، وملح، وكمون، وفلفل أحمر حار، ورشة من الفلفل الأسود، تُشوَّح في الزيت مع شحم البقر أو الخليع؛ نحو 2 ملعقة كبيرة من الحشوة في وسط القرص، ثم يُغلق العجين حولها (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Farce à la viande hachée : viande hachée, oignon, poivrons, persil, cumin et paprika, cuits puis refroidis avant de farcir (Morocco World News ; My Moroccan Food, version de sa mère). Traditionnellement cuits un par un à la poêle, ils peuvent aussi aller au four (My Moroccan Food).",
+   "t": "حشوة اللحم المفروم: لحم مفروم وبصل وفلفل حلو وبقدونس وكمون وفلفل أحمر حلو، تُطهى ثم تُبرَّد قبل الحشو (Morocco World News؛ My Moroccan Food، نسخة والدتها). وتُطهى تقليديًا واحدة تلو الأخرى في المقلاة، لكن يمكن أيضًا إدخالها الفرن (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Farce sucrée : amandes pilées et sucre (Bladi.net).",
+   "t": "حشوة حلوة: لوز مدقوق وسكر (Bladi.net)."
+  },
+  "variants.4": {
+   "fr": "Avec une pincée de levure boulangère ajoutée à la fin du pétrissage, sans laisser lever : msemen plus moelleux tout en restant croustillants (Rachida). Taste of Maroc et Morocco World News n'en mettent que 1/4 de c. à c. pour toute la pâte.",
+   "t": "مع رشة من خميرة الخبز تُضاف في نهاية العجن، دون ترك العجين يختمر: مسمن أكثر طراوة مع بقائه مقرمشًا (Rachida). ولا يضع Taste of Maroc وMorocco World News منها سوى 1/4 ملعقة صغيرة للعجين كله."
+  },
+  "variants.5": {
+   "fr": "Un peu de levure chimique mélangée à la semoule qu'on saupoudre entre les couches (Rachida ; Pâtisserie GATÔ).",
+   "t": "قليل من الخميرة الكيميائية يُخلط بالسميد الذي يُرشّ بين الطبقات (Rachida؛ Pâtisserie GATÔ)."
+  },
+  "variants.6": {
+   "fr": "Plus de semoule dans la pâte : moitié farine, moitié semoule (My Moroccan Food, Pâtisserie GATÔ, Kookmutsjes), voire plus de semoule que de farine (Paula Wolfert) ; Taste of Maroc trouve la texture plus grossière avec moitié-moitié.",
+   "t": "سميد أكثر في العجين: نصف دقيق ونصف سميد (My Moroccan Food، Pâtisserie GATÔ، Kookmutsjes)، بل سميد أكثر من الدقيق (Paula Wolfert)؛ ويرى Taste of Maroc أن القوام يصبح أخشن بنسبة النصف للنصف."
+  },
+  "variants.7": {
+   "fr": "Encore plus feuilleté : enveloppe un carré plié dans un second disque de pâte très fine, puis replie en carré (Rachida ; Pâtisserie GATÔ).",
+   "t": "أكثر توريقًا: لفّ مربعًا مطويًا داخل قرص ثانٍ من العجين الرقيق جدًا، ثم اطوِه من جديد على شكل مربع (Rachida؛ Pâtisserie GATÔ)."
+  },
+  "variants.8": {
+   "fr": "Rfissa : les msemen cuits sont déchirés chauds, réchauffés à la vapeur, puis nappés de poulet, de lentilles et de bouillon ; plat des grandes occasions (Paula Wolfert).",
+   "t": "الرفيسة: يُقطَّع المسمن المطهو وهو ساخن، ويُسخَّن بالبخار، ثم يُغطّى بالدجاج والعدس والمرق؛ وهو طبق المناسبات الكبرى (Paula Wolfert)."
+  },
+  "variants.9": {
+   "fr": "Meloui : le cousin rond du msemen, roulé en spirale (Taste of Maroc).",
+   "t": "الملوي: قريب المسمن المستدير، ملفوف على شكل حلزون (Taste of Maroc)."
+  }
+ }
+}

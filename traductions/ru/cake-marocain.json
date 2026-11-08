@@ -1,0 +1,458 @@
+{
+ "_slug": "cake-marocain",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Cake marocain au lait, une meskouta du goûter",
+   "t": "Марокканский кекс на молоке (мескута)"
+  },
+  "darija": {
+   "fr": "meskouta ; on dit aussi lkik ou kika",
+   "t": "мескута; также говорят лкик или кика"
+  },
+  "tagline": {
+   "fr": "Le cake simple de la maison : des œufs bien fouettés, de l'huile, du lait et un zeste de citron, à couper en tranches pour le thé de l'après-midi.",
+   "t": "Простой домашний кекс: хорошо взбитые яйца, растительное масло, молоко и лимонная цедра; его режут ломтиками к послеобеденному чаю."
+  },
+  "region": {
+   "fr": "Maroc ; selon Wikipédia (en arabe), la meskouta « économique » y est très consommée",
+   "t": "Марокко; по данным Wikipédia (на арабском), «экономичную» мескуту там едят очень часто"
+  },
+  "occasion": {
+   "fr": "Goûter avec le thé, petit-déjeuner, ftour du ramadan",
+   "t": "Полдник с чаем, завтрак, ифтар в Рамадан"
+  },
+  "img_alt": {
+   "fr": "Tranches de cake marocain (meskouta) sur une assiette",
+   "t": "Ломтики марокканского кекса (мескуты) на тарелке"
+  },
+  "serving": {
+   "fr": "En tranches, avec un thé à la menthe (Morocco World News ; Wikipédia en anglais, qui cite aussi le café), au goûter ou au petit-déjeuner (Taste of Maroc ; Wikipédia en anglais), et aussi au ftour du ramadan (Taste of Maroc). Il est très bon nature. Pour le décorer : sucre glace (Taste of Maroc ; Choumicha), ou confiture et noix de coco râpée ou amandes effilées (Morocco World News ; Taste of Maroc), ou un peu de miel et de noix de coco (Lalla Moulati). Choumicha compte ce cake pour 10 personnes. Bien couvert, il se garde quelques jours à température ambiante et plusieurs mois au congélateur (Taste of Maroc, seule source).",
+   "t": "Ломтиками, с мятным чаем (Morocco World News; Wikipédia на английском, где упоминается и кофе), на полдник или на завтрак (Taste of Maroc; Wikipédia на английском), а также на ифтар в Рамадан (Taste of Maroc). Он очень хорош и без добавок. Для украшения: сахарная пудра (Taste of Maroc; Choumicha), или варенье и кокосовая стружка либо миндальные лепестки (Morocco World News; Taste of Maroc), или немного мёда и кокосовой стружки (Lalla Moulati). Choumicha рассчитывает этот кекс на 10 человек. Хорошо укрытый, он хранится несколько дней при комнатной температуре и несколько месяцев в морозилке (Taste of Maroc, единственный источник)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.oeufs.name": {
+   "fr": "gros œuf",
+   "t": "крупное яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "gros œufs",
+   "t": "крупных яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "gros œuf / gros œufs",
+   "t": "крупных яиц"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule",
+   "t": "сахарного песка"
+  },
+  "ing.sucre-vanille.name": {
+   "fr": "sachet de sucre vanillé",
+   "t": "пакетик ванильного сахара"
+  },
+  "ing.sucre-vanille.pl": {
+   "fr": "sachets de sucre vanillé",
+   "t": "пакетика ванильного сахара"
+  },
+  "ing.sucre-vanille.pl5": {
+   "fr": "sachet de sucre vanillé / sachets de sucre vanillé",
+   "t": "пакетиков ванильного сахара"
+  },
+  "ing.sucre-vanille.note": {
+   "fr": "sans alcool : il remplace l'extrait de vanille",
+   "t": "без спирта: заменяет ванильный экстракт"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre (tournesol ou huile de table)",
+   "t": "растительного масла без запаха (подсолнечного или столового)"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "молока"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "пшеничной муки"
+  },
+  "ing.levure-chimique.name": {
+   "fr": "de levure chimique",
+   "t": "разрыхлителя"
+  },
+  "ing.levure-chimique.note": {
+   "fr": "3 sachets de 7 g par cake, soit 21 g (le poids affiché est arrondi à 5 g près)",
+   "t": "3 пакетика по 7 г на кекс, то есть 21 г (показанный вес округлён до 5 г)"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron.note": {
+   "fr": "pour le zeste râpé et le jus",
+   "t": "для тёртой цедры и сока"
+  },
+  "ing.1.group": {
+   "fr": "Pour le moule",
+   "t": "Для формы"
+  },
+  "ing.beurre-moule.name": {
+   "fr": "Un peu de beurre",
+   "t": "Немного сливочного масла"
+  },
+  "ing.beurre-moule.pl": {
+   "fr": "Un peu de beurre",
+   "t": "Немного сливочного масла"
+  },
+  "ing.farine-moule.name": {
+   "fr": "Un peu de farine",
+   "t": "Немного муки"
+  },
+  "ing.farine-moule.pl": {
+   "fr": "Un peu de farine",
+   "t": "Немного муки"
+  },
+  "equipment.0": {
+   "fr": "Un four",
+   "t": "Духовка"
+  },
+  "equipment.1": {
+   "fr": "Un moule à cake de 28 cm (ou un moule couronne, type kouglof)",
+   "t": "Прямоугольная форма для кекса 28 см (или кольцевая форма типа кугельхопфа)"
+  },
+  "equipment.2": {
+   "fr": "Un batteur électrique ou un fouet",
+   "t": "Миксер или венчик"
+  },
+  "equipment.3": {
+   "fr": "Un grand saladier et un bol",
+   "t": "Большая миска и миска поменьше"
+  },
+  "equipment.4": {
+   "fr": "Un tamis",
+   "t": "Сито"
+  },
+  "equipment.5": {
+   "fr": "Une spatule",
+   "t": "Лопатка"
+  },
+  "equipment.6": {
+   "fr": "Une râpe fine et un presse-agrumes",
+   "t": "Мелкая тёрка и соковыжималка для цитрусовых"
+  },
+  "equipment.7": {
+   "fr": "Une pique en bois",
+   "t": "Деревянная шпажка"
+  },
+  "equipment.8": {
+   "fr": "Une grille",
+   "t": "Решётка"
+  },
+  "steps.0.title": {
+   "fr": "Préchauffer le four",
+   "t": "Разогрейте духовку"
+  },
+  "steps.0.text": {
+   "fr": "Préchauffe le four à 180 °C.",
+   "t": "Разогрейте духовку до 180 °C."
+  },
+  "steps.1.title": {
+   "fr": "Beurrer et fariner le moule",
+   "t": "Смажьте форму маслом и посыпьте мукой"
+  },
+  "steps.1.text": {
+   "fr": "Beurre le moule à cake, puis farine-le.",
+   "t": "Смажьте форму для кекса сливочным маслом, затем посыпьте мукой."
+  },
+  "steps.2.title": {
+   "fr": "Préparer le citron",
+   "t": "Подготовьте лимон"
+  },
+  "steps.2.text": {
+   "fr": "Lave {{citron:full}}, râpe finement le zeste, puis presse le jus. Râpe toujours le zeste avant de presser le fruit.",
+   "t": "Вымойте {{citron:full}}, мелко натрите цедру, затем выжмите сок. Всегда снимайте цедру до того, как выжимать сок."
+  },
+  "steps.3.title": {
+   "fr": "Tamiser la farine et la levure",
+   "t": "Просейте муку с разрыхлителем"
+  },
+  "steps.3.text": {
+   "fr": "Mélange {{farine}} de farine et {{levure-chimique}} de levure chimique, puis tamise-les ensemble.",
+   "t": "Смешайте {{farine}} муки и {{levure-chimique}} разрыхлителя, затем просейте их вместе."
+  },
+  "steps.4.title": {
+   "fr": "Fouetter les œufs et le sucre",
+   "t": "Взбейте яйца с сахаром"
+  },
+  "steps.4.text": {
+   "fr": "Dans un grand saladier, fouette {{oeufs:full}} avec {{sucre}} de sucre, {{sucre-vanille:full}} et {{sel}} de sel, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "t": "Разбейте в большую миску {{oeufs:full}}, добавьте {{sucre}} сахара, {{sucre-vanille:full}} и {{sel}} соли и взбивайте, пока масса не посветлеет и не увеличится в объёме вдвое."
+  },
+  "steps.4.tip": {
+   "fr": "Prends ton temps : Choumicha fouette jusqu'à ce que le mélange double de volume, Taste of Maroc jusqu'à ce qu'il soit pâle et épais.",
+   "t": "Не торопитесь: Choumicha взбивает, пока масса не увеличится в объёме вдвое, Taste of Maroc — пока она не станет светлой и густой."
+  },
+  "steps.5.title": {
+   "fr": "Ajouter l'huile et le lait en filet",
+   "t": "Влейте тонкой струйкой масло и молоко"
+  },
+  "steps.5.text": {
+   "fr": "Sans cesser de fouetter, verse {{huile}} d'huile en filet, puis {{lait}} de lait. Le mélange doit rester léger et mousseux.",
+   "t": "Не переставая взбивать, влейте тонкой струйкой {{huile}} растительного масла, затем {{lait}} молока. Масса должна остаться лёгкой и пышной."
+  },
+  "steps.6.title": {
+   "fr": "Incorporer la farine",
+   "t": "Вмешайте муку"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute le mélange farine-levure petit à petit, en remuant délicatement à la spatule, juste assez pour qu'il ne reste plus de farine visible.",
+   "t": "Понемногу добавляйте смесь муки с разрыхлителем, осторожно перемешивая лопаткой, ровно до тех пор, пока не исчезнут следы муки."
+  },
+  "steps.7.title": {
+   "fr": "Ajouter le citron",
+   "t": "Добавьте лимон"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute le zeste et le jus de citron, et mélange juste pour les répartir.",
+   "t": "Добавьте лимонную цедру и сок и перемешайте ровно настолько, чтобы они распределились."
+  },
+  "steps.8.title": {
+   "fr": "Verser dans le moule",
+   "t": "Вылейте тесто в форму"
+  },
+  "steps.8.text": {
+   "fr": "Verse la pâte dans le moule beurré et fariné.",
+   "t": "Вылейте тесто в смазанную маслом и посыпанную мукой форму."
+  },
+  "steps.9.title": {
+   "fr": "Cuire 45 minutes",
+   "t": "Выпекайте 45 минут"
+  },
+  "steps.9.text": {
+   "fr": "Enfourne et laisse cuire environ 45 minutes à 180 °C. N'ouvre pas le four pendant la première demi-heure.",
+   "t": "Поставьте в духовку и выпекайте около 45 минут при 180 °C. Не открывайте духовку первые полчаса."
+  },
+  "steps.9.tip": {
+   "fr": "Dans un moule couronne, Taste of Maroc compte environ 40 minutes pour sa meskouta : adapte le temps à ton moule et fais le test de la pique.",
+   "t": "В кольцевой форме Taste of Maroc печёт свою мескуту около 40 минут: подстройте время под свою форму и проверьте готовность шпажкой."
+  },
+  "steps.9.timer.label": {
+   "fr": "Cuisson du cake",
+   "t": "Выпекание кекса"
+  },
+  "steps.9.timer.done": {
+   "fr": "Plante une pique au centre : si elle ressort sèche, le cake est cuit.",
+   "t": "Воткните шпажку в центр: если она выходит сухой, кекс готов."
+  },
+  "steps.10.title": {
+   "fr": "Vérifier la cuisson",
+   "t": "Проверьте готовность"
+  },
+  "steps.10.text": {
+   "fr": "Le cake est cuit quand ses bords se décollent du moule et qu'une pique plantée au centre ressort sèche. Sinon, laisse-le encore quelques minutes.",
+   "t": "Кекс готов, когда его края отходят от стенок формы, а шпажка, воткнутая в центр, выходит сухой. Если нет, оставьте его в духовке ещё на несколько минут."
+  },
+  "steps.11.title": {
+   "fr": "Tiédir puis démouler",
+   "t": "Слегка остудите и выньте из формы"
+  },
+  "steps.11.text": {
+   "fr": "Sors le cake et laisse-le tiédir environ 10 minutes dans le moule. Démoule-le délicatement, puis laisse-le refroidir sur une grille.",
+   "t": "Достаньте кекс и дайте ему немного остыть в форме, около 10 минут. Осторожно выньте его из формы и оставьте остывать на решётке."
+  },
+  "steps.12.title": {
+   "fr": "Décorer et servir",
+   "t": "Украсьте и подавайте"
+  },
+  "steps.12.text": {
+   "fr": "Sers-le en tranches, avec un thé à la menthe. Tu peux le saupoudrer de sucre glace, ou le napper de confiture et le parsemer de noix de coco râpée ou d'amandes effilées.",
+   "t": "Подавайте ломтиками с мятным чаем. Можно посыпать кекс сахарной пудрой или смазать вареньем и посыпать кокосовой стружкой или миндальными лепестками."
+  },
+  "secrets.0.text": {
+   "fr": "Fouette longuement les œufs et le sucre, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "t": "Долго взбивайте яйца с сахаром, пока масса не посветлеет и не увеличится в объёме вдвое."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha (deux recettes de cake économique) ; Taste of Maroc (« pale and thick »)",
+   "t": "Choumicha (два рецепта экономичного кекса); Taste of Maroc («pale and thick»)"
+  },
+  "secrets.1.text": {
+   "fr": "Verse l'huile en filet sans cesser de fouetter : le mélange doit rester léger et aéré.",
+   "t": "Вливайте растительное масло тонкой струйкой, не переставая взбивать: масса должна остаться лёгкой и воздушной."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha ; Taste of Maroc",
+   "t": "Choumicha и Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Tamise la farine avec la levure, puis incorpore-la petit à petit et délicatement, à la spatule.",
+   "t": "Просейте муку с разрыхлителем, затем понемногу и осторожно вмешайте её лопаткой."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Taste of Maroc (« stir lightly »)",
+   "t": "Choumicha, Cooking with Alia и Taste of Maroc («stir lightly»)"
+  },
+  "secrets.3.text": {
+   "fr": "Autant d'huile que de liquide, comme ici (15 cl de chaque chez Choumicha) : c'est aussi la proportion de Taste of Maroc, de Morocco World News et de deux cakes de Lalla Moulati. D'autres recettes mettent moins d'huile que de liquide (Cooking with Alia ; Lalla Moulati) ou plus (Choumicha, cake aux pépites).",
+   "t": "Растительного масла столько же, сколько жидкости, как здесь (у Choumicha по 15 сл того и другого): такая же пропорция у Taste of Maroc, Morocco World News и в двух кексах Lalla Moulati. В других рецептах масла меньше, чем жидкости (Cooking with Alia; Lalla Moulati), или больше (Choumicha, кекс с шоколадными каплями)."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Morocco World News ; Lalla Moulati",
+   "t": "Choumicha, Taste of Maroc, Morocco World News и Lalla Moulati"
+  },
+  "secrets.4.text": {
+   "fr": "Lave et râpe le zeste avant de presser l'agrume.",
+   "t": "Вымойте цитрус и натрите цедру, прежде чем выжимать сок."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Choumicha (zeste râpé, puis jus)",
+   "t": "Taste of Maroc; Choumicha (сначала тёртая цедра, затем сок)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas d'extrait de vanille alcoolisé : un sachet de sucre vanillé fait le même travail, et c'est la mesure traditionnelle.",
+   "t": "Никакого спиртового ванильного экстракта: пакетик ванильного сахара справляется с той же задачей, и это традиционная мера."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (1 sachet de sucre vanillé dans les mesures traditionnelles) ; Morocco World News (8 g de sucre vanillé) ; Choumicha (1 sachet dans le cake aux pépites)",
+   "t": "Taste of Maroc (1 пакетик ванильного сахара в традиционных мерах); Morocco World News (8 г ванильного сахара); Choumicha (1 пакетик в кексе с шоколадными каплями)"
+  },
+  "secrets.6.text": {
+   "fr": "Beurre et farine le moule, et enfourne dans un four bien préchauffé à 180 °C.",
+   "t": "Смажьте форму маслом, посыпьте мукой и ставьте в хорошо разогретую до 180 °C духовку."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Morocco World News ; Cooking with Alia (180 °C)",
+   "t": "Choumicha, Taste of Maroc, Morocco World News и Cooking with Alia (180 °C)"
+  },
+  "secrets.7.text": {
+   "fr": "N'ouvre pas le four avant une demi-heure de cuisson.",
+   "t": "Не открывайте духовку раньше, чем через полчаса выпекания."
+  },
+  "secrets.7.source": {
+   "fr": "Morocco World News (Layla Dahamou)",
+   "t": "Morocco World News (Layla Dahamou)"
+  },
+  "secrets.8.text": {
+   "fr": "Laisse tiédir avant de démouler, puis finis de refroidir sur une grille.",
+   "t": "Дайте кексу немного остыть, прежде чем вынимать его из формы, а затем остудите до конца на решётке."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Taste of Maroc (7 à 10 minutes) ; Morocco World News",
+   "t": "Choumicha; Taste of Maroc (7–10 минут); Morocco World News"
+  },
+  "secrets.9.text": {
+   "fr": "Le moule le plus courant pour la meskouta est le moule couronne (type kouglof) ; certaines cuisinières préfèrent le moule à cake : adapte alors le temps de cuisson à ton moule.",
+   "t": "Самая распространённая форма для мескуты — кольцевая (типа кугельхопфа); некоторые хозяйки предпочитают прямоугольную форму для кекса: тогда подстройте время выпекания под свою форму."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc ; Morocco World News (moule à cheminée ou moule rond) ; Choumicha (moule à cake de 28 cm)",
+   "t": "Taste of Maroc; Morocco World News (форма с трубкой или круглая форма); Choumicha (форма для кекса 28 см)"
+  },
+  "secrets.10.text": {
+   "fr": "À la marocaine, on mesure avec un verre à thé et un bol, ou avec le pot de yaourt.",
+   "t": "По-марокански отмеряют чайным стаканчиком и миской или стаканчиком из-под йогурта."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; Morocco World News ; Cooking with Alia",
+   "t": "Taste of Maroc, Morocco World News и Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Pour un cake encore plus léger, certaines cuisinières montent les blancs en neige à part ; Taste of Maroc juge que ce n'est pas nécessaire.",
+   "t": "Чтобы кекс был ещё воздушнее, некоторые хозяйки отдельно взбивают белки в крепкую пену; Taste of Maroc считает, что это не нужно."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia (blancs en neige)",
+   "t": "Taste of Maroc; Cooking with Alia (белки, взбитые в пену)"
+  },
+  "secrets.12.text": {
+   "fr": "Ne force pas sur la levure chimique : Taste of Maroc a réduit sa dose après avoir lu, sur d'autres sites, des craintes d'un goût amer ou d'un centre qui monte trop vite puis retombe ; elle-même n'a jamais eu ce problème.",
+   "t": "Не переборщите с разрыхлителем: автор Taste of Maroc уменьшила его количество, прочитав на других сайтах опасения насчёт горького привкуса или середины, которая слишком быстро поднимается, а потом опадает; сама она с этой проблемой никогда не сталкивалась."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Arrêter de fouetter avant que le mélange œufs-sucre ait blanchi et doublé de volume (Choumicha ; Taste of Maroc).",
+   "t": "Прекращать взбивать раньше, чем яично-сахарная масса посветлеет и увеличится в объёме вдвое (Choumicha; Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Verser l'huile d'un coup au lieu d'un filet (Choumicha ; Taste of Maroc).",
+   "t": "Вливать растительное масло сразу, а не тонкой струйкой (Choumicha; Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Travailler fort la pâte une fois la farine ajoutée : mélange délicatement (Choumicha ; Taste of Maroc).",
+   "t": "Активно вымешивать тесто после добавления муки: перемешивайте осторожно (Choumicha; Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Enfourner dans un four qui n'est pas préchauffé (Choumicha ; Taste of Maroc ; Cooking with Alia).",
+   "t": "Ставить кекс в неразогретую духовку (Choumicha; Taste of Maroc; Cooking with Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier de beurrer et de fariner le moule (Choumicha ; Taste of Maroc ; Morocco World News).",
+   "t": "Забыть смазать форму маслом и посыпать мукой (Choumicha; Taste of Maroc; Morocco World News)."
+  },
+  "mistakes.5": {
+   "fr": "Ouvrir le four pendant la première demi-heure (Morocco World News).",
+   "t": "Открывать духовку в первые полчаса (Morocco World News)."
+  },
+  "mistakes.6": {
+   "fr": "Démouler le cake encore brûlant : laisse-le tiédir (Choumicha ; Taste of Maroc ; Morocco World News).",
+   "t": "Вынимать из формы ещё обжигающе горячий кекс: дайте ему немного остыть (Choumicha; Taste of Maroc; Morocco World News)."
+  },
+  "mistakes.7": {
+   "fr": "Prendre de l'extrait de vanille alcoolisé : le sucre vanillé le remplace (Taste of Maroc ; Morocco World News).",
+   "t": "Брать спиртовой ванильный экстракт: его заменяет ванильный сахар (Taste of Maroc; Morocco World News)."
+  },
+  "variants.0": {
+   "fr": "Meskouta au yaourt (Morocco World News, Layla Dahamou) : 4 œufs ; 1 pot de yaourt à la vanille ou à la banane (110 g), qui sert de mesure ; 1½ pot de sucre ; 1 pot d'huile ; 3 pots de farine ; 16 g de levure chimique (2 sachets) ; 1 sachet de sucre vanillé (8 g). Moule couronne ou moule rond beurré et fariné ; 45 minutes au plus, à four moyen (sans température chiffrée), sans ouvrir avant 30 minutes.",
+   "t": "Мескута на йогурте (Morocco World News, Layla Dahamou): 4 яйца; 1 стаканчик ванильного или бананового йогурта (110 г), который служит мерой; 1½ стаканчика сахара; 1 стаканчик растительного масла; 3 стаканчика муки; 16 г разрыхлителя (2 пакетика); 1 пакетик ванильного сахара (8 г). Кольцевая или круглая форма, смазанная маслом и посыпанная мукой; не больше 45 минут в духовке средней температуры (в градусах не указана), не открывая раньше чем через 30 минут."
+  },
+  "variants.1": {
+   "fr": "Meskouta au yaourt et aux blancs en neige (Cooking with Alia) : 3 œufs séparés ; 1 pot de yaourt aromatisé (114 g) ; 1½ pot de sucre ; ½ pot d'huile ; 2½ pots de farine ; 1 c. à c. de levure chimique ; vanille (prends du sucre vanillé) ; 1 pincée de sel ; gingembre moulu facultatif. Moule de 20 cm beurré et chemisé de papier cuisson ; 180 °C, environ 50 minutes.",
+   "t": "Мескута на йогурте со взбитыми белками (Cooking with Alia): 3 яйца, разделённых на белки и желтки; 1 стаканчик ароматизированного йогурта (114 г); 1½ стаканчика сахара; ½ стаканчика растительного масла; 2½ стаканчика муки; 1 ч. л. разрыхлителя; ваниль (берите ванильный сахар); 1 щепотка соли; молотый имбирь по желанию. Форма 20 см, смазанная маслом и выстланная пекарской бумагой; 180 °C, около 50 минут."
+  },
+  "variants.2": {
+   "fr": "Meskouta à l'orange (Taste of Maroc) : ½ tasse de jus d'orange frais et 2 c. à c. de zeste ; 4 gros œufs ; 1½ tasse de sucre ; ½ tasse d'huile ; 2 tasses de farine ; 3 c. à c. de levure chimique ; ½ c. à c. de sel ; vanille (1 sachet de sucre vanillé dans la version traditionnelle). Moule couronne beurré et fariné ; 180 °C, environ 40 minutes.",
+   "t": "Апельсиновая мескута (Taste of Maroc): ½ чашки свежевыжатого апельсинового сока и 2 ч. л. цедры; 4 крупных яйца; 1½ чашки сахара; ½ чашки растительного масла; 2 чашки муки; 3 ч. л. разрыхлителя; ½ ч. л. соли; ваниль (1 пакетик ванильного сахара в традиционной версии). Кольцевая форма, смазанная маслом и посыпанная мукой; 180 °C, около 40 минут."
+  },
+  "variants.3": {
+   "fr": "Mesures traditionnelles de la meskouta à l'orange (Taste of Maroc) : 1 verre à thé de jus d'orange frais, le zeste de 1 ou 2 oranges, 4 gros œufs, 1 bol ras de sucre, 1 verre à thé d'huile, 1 bol bombé de farine, 2 sachets de levure chimique de 7 g, 1 pincée de sel, 1 sachet de sucre vanillé. Taste of Maroc donne pour le verre à thé « about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup) », soit 177 à 237 ml ou 79 à 118 ml (calcul) : ces deux valeurs ne concordent pas, et seule la seconde colle avec sa recette en tasses (½ tasse de jus et ½ tasse d'huile là où les mesures traditionnelles mettent 1 verre à thé). Le bol contient environ 1½ tasse (355 ml, calcul).",
+   "t": "Традиционные меры для апельсиновой мескуты (Taste of Maroc): 1 чайный стаканчик свежевыжатого апельсинового сока, цедра 1 или 2 апельсинов, 4 крупных яйца, 1 миска сахара без горки, 1 чайный стаканчик растительного масла, 1 миска муки с горкой, 2 пакетика разрыхлителя по 7 г, 1 щепотка соли, 1 пакетик ванильного сахара. Для чайного стаканчика Taste of Maroc указывает «about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup)», то есть 177–237 мл или 79–118 мл (расчёт): эти два значения не совпадают, и с её рецептом в чашках согласуется только второе (½ чашки сока и ½ чашки масла там, где в традиционных мерах 1 чайный стаканчик). Миска вмещает около 1½ чашки (355 мл, расчёт)."
+  },
+  "variants.4": {
+   "fr": "Au verre, marbré (Lalla Moulati) : 3 œufs, 1 verre de sucre, 1 verre d'huile, 1 verre de lait, un peu moins de 3 verres de farine, 3 sachets de levure chimique, vanille et quelques gouttes de vinaigre ; une partie de la pâte est mélangée à 1 cuillère de cacao et versée au milieu ; moule beurré et fariné ; nappé de miel et de noix de coco à la sortie du four.",
+   "t": "Мраморный, в стаканах (Lalla Moulati): 3 яйца, 1 стакан сахара, 1 стакан растительного масла, 1 стакан молока, чуть меньше 3 стаканов муки, 3 пакетика разрыхлителя, ваниль и несколько капель уксуса; часть теста смешивают с 1 ложкой какао и выливают в середину; форма, смазанная маслом и посыпанная мукой; сразу после духовки кекс покрывают мёдом и кокосовой стружкой."
+  },
+  "variants.5": {
+   "fr": "Aux pépites de chocolat (Choumicha) : 4 œufs, 180 g de sucre, 1 sachet de sucre vanillé, ½ c. à c. de sel, 18 cl d'huile, 12 cl de lait, 350 g de farine, 14 g de levure chimique et 80 g de pépites de chocolat ; moule à cake beurré et fariné ; 180 °C, 35 à 40 minutes ; sucre glace.",
+   "t": "С шоколадными каплями (Choumicha): 4 яйца, 180 г сахара, 1 пакетик ванильного сахара, ½ ч. л. соли, 18 сл растительного масла, 12 сл молока, 350 г муки, 14 г разрыхлителя и 80 г шоколадных капель; форма для кекса, смазанная маслом и посыпанная мукой; 180 °C, 35–40 минут; сахарная пудра."
+  },
+  "variants.6": {
+   "fr": "Cake à l'orange au beurre (Choumicha) : 160 g de beurre, 200 g de sucre, ½ c. à c. de sel, 4 œufs, le zeste et le jus de 3 oranges, 2 c. à s. d'eau de fleur d'oranger, 240 g de farine et 1 sachet de levure chimique de 7 g, versés sur des rondelles d'orange confites au sucre et à la fleur d'oranger ; 180 °C, 40 minutes. Choumicha conseille d'ajouter ½ c. à c. de cannelle.",
+   "t": "Апельсиновый кекс на сливочном масле (Choumicha): 160 г сливочного масла, 200 г сахара, ½ ч. л. соли, 4 яйца, цедра и сок 3 апельсинов, 2 ст. л. воды из цветков апельсина, 240 г муки и 1 пакетик разрыхлителя (7 г); тесто выливают на кружки апельсина, уваренные в сахаре с водой из цветков апельсина; 180 °C, 40 минут. Choumicha советует добавить ½ ч. л. корицы."
+  },
+  "variants.7": {
+   "fr": "Petit cake « 7 cuillères » (Lalla Moulati) : 3 œufs, 7 cuillères de sucre, 7 d'huile, 7 de lait et 7 de farine, un peu de sel, 1 sachet de vanille et 16 g de levure chimique.",
+   "t": "Маленький кекс «7 ложек» (Lalla Moulati): 3 яйца, 7 ложек сахара, 7 — растительного масла, 7 — молока и 7 — муки, немного соли, 1 пакетик ванили и 16 г разрыхлителя."
+  },
+  "variants.8": {
+   "fr": "Avec seulement 2 œufs (Lalla Moulati) : 2 œufs, 1 verre de lait tiède, ½ verre d'huile, 2 verres de farine, 1 verre de sucre, 16 g de levure chimique et du sucre vanillé.",
+   "t": "Всего с 2 яйцами (Lalla Moulati): 2 яйца, 1 стакан тёплого молока, ½ стакана растительного масла, 2 стакана муки, 1 стакан сахара, 16 г разрыхлителя и ванильный сахар."
+  }
+ }
+}

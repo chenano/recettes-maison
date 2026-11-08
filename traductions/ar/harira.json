@@ -1,0 +1,574 @@
+{
+ "_slug": "harira",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Harira marocaine traditionnelle",
+   "t": "الحريرة المغربية التقليدية"
+  },
+  "darija": {
+   "fr": "Hrira",
+   "t": "حريرة"
+  },
+  "tagline": {
+   "fr": "La soupe du ftour, soyeuse comme son nom (harir, la soie) : tomates, lentilles, pois chiches et herbes fraîches, liée à la tadouira.",
+   "t": "حساء الفطور، ناعم كالحرير الذي اشتُق منه اسمه: طماطم وعدس وحمص وأعشاب طازجة، يُكثَّف بالتدويرة."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; version douce sans carvi ni piment de la Jamaïque, comme la harira fassia (Fès)",
+   "t": "المغرب كله؛ نسخة خفيفة التوابل دون كراوية ولا فلفل جامايكا، مثل الحريرة الفاسية (فاس)"
+  },
+  "occasion": {
+   "fr": "Ftour du Ramadan, servie chaque jour à la rupture du jeûne ; toute l'année en entrée ou en dîner léger, et lors des rassemblements de famille",
+   "t": "فطور رمضان، تُقدَّم كل يوم عند الإفطار؛ وطوال السنة كطبق أول أو عشاء خفيف، وفي التجمعات العائلية"
+  },
+  "serving": {
+   "fr": "Au ftour du Ramadan, la harira se sert bien chaude dès la rupture du jeûne, chaque jour du mois. Chacun presse un quartier de citron dans son bol. Autour : des dattes (ou des figues sèches), des chebakia, des œufs durs à tremper dans du sel et du cumin, et souvent du msemen, des briouates ou du pain maison. Hors Ramadan, elle se sert en entrée, en dîner léger ou lors des rassemblements de famille.",
+   "t": "في فطور رمضان، تُقدَّم الحريرة ساخنة جدًا منذ لحظة الإفطار، كل يوم من أيام الشهر. يعصر كل واحد ربع ليمونة في وعائه. وحولها: التمر (أو التين المجفف)، والشباكية، والبيض المسلوق يُغمس في الملح والكمون، وغالبًا المسمن أو البريوات أو خبز الدار. وخارج رمضان، تُقدَّم كطبق أول أو عشاء خفيف أو في التجمعات العائلية."
+  },
+  "ing.0.group": {
+   "fr": "Bouillon",
+   "t": "المرق"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de bœuf",
+   "t": "لحم خروف أو لحم بقر"
+  },
+  "ing.viande.note": {
+   "fr": "halal, coupé en dés d'environ 1 cm",
+   "t": "حلال، مقطّع إلى مكعبات بطول 1 سم تقريبًا"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou de tournesol",
+   "t": "زيت زيتون أو زيت دوار الشمس"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "سمن بلدي"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif, mais il apporte un goût particulier",
+   "t": "اختياري، لكنه يضفي نكهة مميزة"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon",
+   "t": "بصلة كبيرة"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons",
+   "t": "بصلات كبيرة"
+  },
+  "ing.celeri.name": {
+   "fr": "branche de céleri avec ses feuilles",
+   "t": "عود كرفس بأوراقه"
+  },
+  "ing.celeri.pl": {
+   "fr": "branches de céleri avec leurs feuilles",
+   "t": "أعواد كرفس بأوراقها"
+  },
+  "ing.celeri.note": {
+   "fr": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
+   "t": "في المغرب يُستعمل كرفس رقيق الأوراق، قريب من الكرفس الصيني: حزمة صغيرة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "بقدونس"
+  },
+  "ing.persil.note": {
+   "fr": "petite botte",
+   "t": "حزمة صغيرة"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "كزبرة طازجة"
+  },
+  "ing.coriandre.note": {
+   "fr": "petite botte",
+   "t": "حزمة صغيرة"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "حمص يابس"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "à faire tremper la veille",
+   "t": "يُنقع في الليلة السابقة"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles vertes ou brunes",
+   "t": "عدس أخضر أو بني"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "طماطم ناضجة جيدًا"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "مركز الطماطم"
+  },
+  "ing.concentre.note": {
+   "fr": "bombée",
+   "t": "ملعقة مكوّمة"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre en poudre",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.gingembre.note": {
+   "fr": "pas de gingembre frais",
+   "t": "وليس زنجبيلًا طازجًا"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle en poudre",
+   "t": "قرفة مطحونة"
+  },
+  "ing.cannelle.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "تُعدَّل كميته في آخر الطهي"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.1.group": {
+   "fr": "Tadouira (liaison)",
+   "t": "التدويرة (للتكثيف)"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche",
+   "t": "دقيق أبيض"
+  },
+  "ing.farine.note": {
+   "fr": "pas de farine complète",
+   "t": "وليس دقيقًا كاملًا"
+  },
+  "ing.eau-tadouira.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.concentre-tadouira.name": {
+   "fr": "de concentré de tomate",
+   "t": "مركز الطماطم"
+  },
+  "ing.concentre-tadouira.note": {
+   "fr": "bombée",
+   "t": "ملعقة مكوّمة"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "اللمسة الأخيرة والتقديم"
+  },
+  "ing.vermicelles.name": {
+   "fr": "de vermicelles fins",
+   "t": "شعرية رقيقة"
+  },
+  "ing.vermicelles.note": {
+   "fr": "ou de spaghettis fins cassés",
+   "t": "أو سباغيتي رقيقة مكسّرة"
+  },
+  "ing.coriandre-fin.name": {
+   "fr": "de coriandre hachée",
+   "t": "كزبرة مفرومة"
+  },
+  "ing.coriandre-fin.note": {
+   "fr": "à prélever sur la botte",
+   "t": "تؤخذ من الحزمة"
+  },
+  "ing.citron.name": {
+   "fr": "citron, en quartiers",
+   "t": "ليمونة مقطّعة إلى أرباع"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons, en quartiers",
+   "t": "ليمونات مقطّعة إلى أرباع"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite à fond épais (6 l environ) ou cocotte-minute",
+   "t": "قدر كبير سميك القاع (سعته 6 ل تقريبًا) أو طنجرة ضغط"
+  },
+  "equipment.1": {
+   "fr": "Casserole pour pocher les tomates",
+   "t": "قدر لسلق الطماطم"
+  },
+  "equipment.2": {
+   "fr": "Mixeur ou moulin à légumes",
+   "t": "خلاط أو مطحنة خضر"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "مبشرة"
+  },
+  "equipment.4": {
+   "fr": "Fouet et bol",
+   "t": "مخفقة ووعاء"
+  },
+  "equipment.5": {
+   "fr": "Passoire fine",
+   "t": "مصفاة دقيقة الثقوب"
+  },
+  "equipment.6": {
+   "fr": "Torchon propre (pour peler les pois chiches)",
+   "t": "فوطة نظيفة (لتقشير الحمص)"
+  },
+  "equipment.7": {
+   "fr": "Louche",
+   "t": "مغرفة"
+  },
+  "steps.0.title": {
+   "fr": "La veille : fais tremper les pois chiches",
+   "t": "في الليلة السابقة: انقع الحمص"
+  },
+  "steps.0.text": {
+   "fr": "Rince les pois chiches ({{pois-chiches}}) et couvre-les largement d'eau. Laisse-les tremper toute la nuit.",
+   "t": "اشطف الحمص ({{pois-chiches}}) وغطّه بكمية وفيرة من الماء. اتركه منقوعًا طوال الليل."
+  },
+  "steps.1.title": {
+   "fr": "Pèle les pois chiches, trie les lentilles",
+   "t": "قشّر الحمص ونقِّ العدس"
+  },
+  "steps.1.text": {
+   "fr": "Égoutte les pois chiches, puis frotte-les vigoureusement dans un torchon pour détacher leur peau et retire les peaux. Trie les lentilles ({{lentilles}}) pour enlever les petits cailloux, puis rince-les.",
+   "t": "صفِّ الحمص، ثم افركه بقوة داخل فوطة لتنفصل قشرته، وأزل القشور. نقِّ العدس ({{lentilles}}) من الحصى الصغيرة، ثم اشطفه."
+  },
+  "steps.2.title": {
+   "fr": "Prépare la tadouira à l'avance",
+   "t": "حضّر التدويرة مسبقًا"
+  },
+  "steps.2.text": {
+   "fr": "Fouette la farine ({{farine}}) avec l'eau ({{eau-tadouira}}) jusqu'à obtenir un mélange parfaitement lisse. Passe-le dans une passoire fine, couvre et laisse reposer jusqu'au moment de lier la soupe, quelques heures si tu peux.",
+   "t": "اخفق الدقيق ({{farine}}) مع الماء ({{eau-tadouira}}) حتى تحصل على خليط أملس تمامًا. صفِّه في مصفاة دقيقة الثقوب، ثم غطِّه واتركه يرتاح إلى حين تكثيف الحساء، بضع ساعات إن استطعت."
+  },
+  "steps.3.title": {
+   "fr": "Réduis les tomates en purée",
+   "t": "حوّل الطماطم إلى هريس"
+  },
+  "steps.3.text": {
+   "fr": "Poche les tomates ({{tomates}}) 5 minutes dans une casserole d'eau frémissante, puis pèle-les. Mixe-les en purée lisse, ou passe-les au moulin à légumes pour retirer aussi les pépins.",
+   "t": "اسلق الطماطم ({{tomates}}) 5 دقائق في قدر من الماء الذي يغلي غليانًا خفيفًا، ثم قشّرها. اخلطها في الخلاط حتى تصبح هريسًا أملس، أو مرّرها في مطحنة الخضر لتُزيل البذور أيضًا."
+  },
+  "steps.3.timer.label": {
+   "fr": "Tomates pochées",
+   "t": "سلق الطماطم"
+  },
+  "steps.3.timer.done": {
+   "fr": "Sors les tomates : la peau doit se détacher facilement.",
+   "t": "أخرج الطماطم: يجب أن تنفصل قشرتها بسهولة."
+  },
+  "steps.4.title": {
+   "fr": "Râpe, hache et coupe",
+   "t": "ابشر وافرم وقطّع"
+  },
+  "steps.4.text": {
+   "fr": "Râpe {{oignon:full}}. Hache très finement {{celeri:full}}, le persil ({{persil}}) et la coriandre ({{coriandre}}) en retirant les grosses tiges, et mets de côté un peu de coriandre hachée ({{coriandre-fin}}) pour la fin. Coupe la viande ({{viande}}) en dés d'environ 1 cm.",
+   "t": "ابشر {{oignon:full}}. افرم فرمًا ناعمًا جدًا {{celeri:full}} والبقدونس ({{persil}}) والكزبرة ({{coriandre}}) بعد إزالة السيقان الغليظة، واحتفظ بقليل من الكزبرة المفرومة ({{coriandre-fin}}) للنهاية. قطّع اللحم ({{viande}}) إلى مكعبات بطول 1 سم تقريبًا."
+  },
+  "steps.4.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.4.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.5.title": {
+   "fr": "Saisis la viande",
+   "t": "حمّر اللحم"
+  },
+  "steps.5.text": {
+   "fr": "Dans la grande marmite, chauffe l'huile ({{huile}}) à feu moyen. Fais revenir la viande en remuant, jusqu'à ce qu'elle change de couleur.",
+   "t": "في القدر الكبير، سخّن الزيت ({{huile}}) على نار متوسطة. حمّر اللحم مع التحريك حتى يتغيّر لونه."
+  },
+  "steps.6.title": {
+   "fr": "Fais revenir aromates et épices",
+   "t": "شوِّح المنكّهات والتوابل"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute l'oignon râpé, les herbes hachées, les pois chiches pelés, les lentilles, la purée de tomates et le concentré ({{concentre}}). Ajoute le gingembre ({{gingembre}}), le curcuma ({{curcuma}}), le poivre ({{poivre}}), la cannelle ({{cannelle}}), le sel ({{sel}}) et le smen ({{smen}}). Laisse revenir 10 minutes à feu doux, en remuant de temps en temps.",
+   "t": "أضف البصل المبشور والأعشاب المفرومة والحمص المقشّر والعدس وهريس الطماطم ومركز الطماطم ({{concentre}}). أضف الزنجبيل ({{gingembre}}) والكركم ({{curcuma}}) والفلفل ({{poivre}}) والقرفة ({{cannelle}}) والملح ({{sel}}) والسمن البلدي ({{smen}}). اتركها تُطهى على نار هادئة 10 دقائق مع التحريك من حين لآخر."
+  },
+  "steps.6.timer.label": {
+   "fr": "Aromates à feu doux",
+   "t": "المنكّهات على نار هادئة"
+  },
+  "steps.6.timer.done": {
+   "fr": "Verse l'eau et porte à ébullition.",
+   "t": "اسكب الماء واتركه حتى يغلي."
+  },
+  "steps.7.title": {
+   "fr": "Mouille et laisse cuire",
+   "t": "أضف الماء واتركه يُطهى"
+  },
+  "steps.7.text": {
+   "fr": "Verse l'eau ({{eau}}) et porte à ébullition à feu vif. Couvre et laisse cuire 1 heure à feu moyen, en remuant de temps en temps, jusqu'à ce que les pois chiches soient tendres. En cocotte-minute, compte 20 à 30 minutes après la mise sous pression.",
+   "t": "اسكب الماء ({{eau}}) واتركه حتى يغلي على نار قوية. غطِّ القدر واتركه يُطهى 1 ساعة على نار متوسطة، مع التحريك من حين لآخر، حتى ينضج الحمص. في طنجرة الضغط، احسب من 20 إلى 30 دقيقة بعد أن تبلغ الطنجرة الضغط."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson du bouillon",
+   "t": "طهي المرق"
+  },
+  "steps.7.timer.done": {
+   "fr": "Goûte un pois chiche : s'il est tendre, passe à la tadouira. Sinon, prolonge un peu la cuisson.",
+   "t": "تذوّق حبة حمص: إذا كانت طرية، فانتقل إلى التدويرة. وإلا فأطِل الطهي قليلًا."
+  },
+  "steps.8.title": {
+   "fr": "Lie avec la tadouira",
+   "t": "كثِّف الحساء بالتدويرة"
+  },
+  "steps.8.text": {
+   "fr": "Fouette le concentré de tomate ({{concentre-tadouira}}) dans la tadouira. Monte le feu pour que la soupe bouille, puis verse la tadouira petit à petit en remuant sans arrêt. Arrête-toi dès que la harira est veloutée et soyeuse, sans être épaisse : tu n'auras peut-être pas besoin de tout. Si elle est trop épaisse, ajoute un peu d'eau bouillante.",
+   "t": "اخفق مركز الطماطم ({{concentre-tadouira}}) في التدويرة. ارفع النار حتى يغلي الحساء، ثم اسكب التدويرة شيئًا فشيئًا مع التحريك دون توقف. توقّف بمجرد أن تصبح الحريرة مخملية القوام وناعمة كالحرير، دون أن تكون كثيفة: قد لا تحتاج إلى التدويرة كلها. إذا أصبحت كثيفة جدًا، فأضف قليلًا من الماء المغلي."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les vermicelles",
+   "t": "أضف الشعرية"
+  },
+  "steps.9.text": {
+   "fr": "Dès que la soupe bout de nouveau, ajoute les vermicelles ({{vermicelles}}) en remuant. Laisse mijoter à feu moyen en remuant régulièrement, et retire l'écume à la cuillère. C'est prêt quand les vermicelles sont tendres et que l'écume de la tadouira a disparu.",
+   "t": "بمجرد أن يعود الحساء إلى الغليان، أضف الشعرية ({{vermicelles}}) مع التحريك. اتركه ينضج ببطء على نار متوسطة مع التحريك بانتظام، وأزل الرغوة بالملعقة. يكون جاهزًا عندما تنضج الشعرية وتختفي رغوة التدويرة."
+  },
+  "steps.9.timer.label": {
+   "fr": "Vermicelles",
+   "t": "الشعرية"
+  },
+  "steps.9.timer.done": {
+   "fr": "Vermicelles tendres et plus d'écume ? Sinon, laisse encore 2 ou 3 minutes.",
+   "t": "هل نضجت الشعرية واختفت الرغوة؟ وإلا فاتركه 2 أو 3 دقائق أخرى."
+  },
+  "steps.10.title": {
+   "fr": "Goûte et parfume",
+   "t": "تذوّق وعطّر"
+  },
+  "steps.10.text": {
+   "fr": "Goûte et rectifie le sel et le poivre. Ajoute la coriandre mise de côté et laisse frémir 5 minutes, puis coupe le feu.",
+   "t": "تذوّق وعدّل الملح والفلفل. أضف الكزبرة التي احتفظت بها واترك الحساء يغلي بهدوء 5 دقائق، ثم أطفئ النار."
+  },
+  "steps.10.timer.label": {
+   "fr": "Dernier frémissement",
+   "t": "الغليان الهادئ الأخير"
+  },
+  "steps.10.timer.done": {
+   "fr": "Coupe le feu : ta harira est prête.",
+   "t": "أطفئ النار: حريرتك جاهزة."
+  },
+  "steps.11.title": {
+   "fr": "Sers bien chaud",
+   "t": "قدّمها ساخنة جدًا"
+  },
+  "steps.11.text": {
+   "fr": "Sers la harira bien chaude dans des bols, avec {{citron:full}}, à presser au dernier moment. Pose à côté des dattes, des chebakia et des œufs durs à tremper dans un peu de sel et de cumin.",
+   "t": "قدّم الحريرة ساخنة جدًا في أوعية، مع {{citron:full}} تُعصر في آخر لحظة. وضع بجانبها التمر والشباكية والبيض المسلوق ليُغمس في قليل من الملح والكمون."
+  },
+  "steps.12.title": {
+   "fr": "Les restes",
+   "t": "البقايا"
+  },
+  "steps.12.text": {
+   "fr": "En refroidissant, une peau se forme : remue-la simplement dans la soupe. Réchauffe à feu doux ou moyen en remuant souvent pour que les lentilles n'attachent pas, et détends avec un peu d'eau bouillante si besoin. Elle se garde 3 jours au réfrigérateur, dans une boîte hermétique.",
+   "t": "عندما تبرد تتكوّن على سطحها قشرة: اخلطها ببساطة في الحساء. سخّنها على نار هادئة أو متوسطة مع التحريك كثيرًا كي لا يلتصق العدس بالقاع، وخفّفها بقليل من الماء المغلي عند الحاجة. تُحفظ 3 أيام في الثلاجة، في علبة محكمة الإغلاق."
+  },
+  "secrets.0.text": {
+   "fr": "Pèle les pois chiches après le trempage, en les frottant vigoureusement dans un torchon : toutes les recettes marocaines consultées les veulent sans peau.",
+   "t": "قشّر الحمص بعد النقع بفركه بقوة داخل فوطة: فكل الوصفات المغربية التي اطّلعنا عليها تطلبه مقشّرًا."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Gâteau et cuisine Rachida ; Royal Mansour (chef Karim Ben Baba) ; Choumicha (Gulf News) ; Morocco World News",
+   "t": "Taste of Maroc؛ Gâteau et cuisine Rachida؛ Royal Mansour (الشيف Karim Ben Baba)؛ Choumicha (Gulf News)؛ Morocco World News"
+  },
+  "secrets.1.text": {
+   "fr": "Gingembre en poudre seulement : le gingembre frais n'est pas traditionnel dans les plats mijotés marocains.",
+   "t": "الزنجبيل المطحون فقط: فالزنجبيل الطازج ليس تقليديًا في الأطباق المغربية المطهوة على نار هادئة."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Pas de ras el hanout : la harira traditionnelle n'en contient pas, même dans la version de Choumicha.",
+   "t": "لا تضع رأس الحانوت: فالحريرة التقليدية لا تحتوي عليه، حتى في نسخة Choumicha."
+  },
+  "secrets.2.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.3.text": {
+   "fr": "Choisis des tomates bien mûres : elles donnent la belle couleur et un goût plus intense.",
+   "t": "اختر طماطم ناضجة جيدًا: فهي تمنح الحريرة لونها الجميل ومذاقًا أقوى."
+  },
+  "secrets.3.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida؛ Taste of Maroc"
+  },
+  "secrets.4.text": {
+   "fr": "Au Maroc, la harira se fait avec un céleri à feuilles fines, proche du céleri chinois ; Choumicha n'en garde que les feuilles.",
+   "t": "في المغرب، تُحضَّر الحريرة بكرفس رقيق الأوراق، قريب من الكرفس الصيني؛ ولا تحتفظ Choumicha منه إلا بالأوراق."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Choumicha (Gulf News)",
+   "t": "Taste of Maroc؛ Choumicha (Gulf News)"
+  },
+  "secrets.5.text": {
+   "fr": "Prépare la tadouira à l'avance : bien fouettée, passée dans une passoire fine et reposée quelques heures, elle ne fait pas de grumeaux.",
+   "t": "حضّر التدويرة مسبقًا: إذا خُفقت جيدًا وصُفّيت في مصفاة دقيقة الثقوب وتُركت لترتاح بضع ساعات، فلن تتكتّل."
+  },
+  "secrets.5.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida؛ Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Verse la tadouira petit à petit dans une soupe qui bout franchement, en remuant sans arrêt.",
+   "t": "اسكب التدويرة شيئًا فشيئًا في حساء يغلي بقوة، مع التحريك دون توقف."
+  },
+  "secrets.6.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida؛ Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Tout est dans le dosage de la tadouira : arrête-toi quand la harira est soyeuse comme une crème. Elle doit être veloutée, pas épaisse.",
+   "t": "السر كله في مقدار التدويرة: توقّف عندما تصبح الحريرة ناعمة كالكريمة. يجب أن تكون مخملية القوام، لا كثيفة."
+  },
+  "secrets.7.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc ; Bladi.net",
+   "t": "Gâteau et cuisine Rachida؛ Taste of Maroc؛ Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Après la liaison, laisse mijoter jusqu'à ce que l'écume formée par la tadouira ait disparu.",
+   "t": "بعد التكثيف، اترك الحساء على نار هادئة حتى تختفي الرغوة التي تُكوّنها التدويرة."
+  },
+  "secrets.8.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida؛ Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Un peu de coriandre fraîche en fin de cuisson réveille le parfum ; Choumicha y ajoute toujours aussi un peu de céleri et de smen.",
+   "t": "قليل من الكزبرة الطازجة في آخر الطهي يُنعش الرائحة؛ وتضيف Choumicha دائمًا أيضًا قليلًا من الكرفس والسمن البلدي."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (La Libre Belgique, 2014) ; Gâteau et cuisine Rachida",
+   "t": "Choumicha (La Libre Belgique، سنة 2014)؛ Gâteau et cuisine Rachida"
+  },
+  "secrets.10.text": {
+   "fr": "Le smen (beurre rance) est facultatif, mais il donne une saveur particulière.",
+   "t": "السمن البلدي اختياري، لكنه يمنح نكهة مميزة."
+  },
+  "secrets.10.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida؛ Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "La harira est encore meilleure le lendemain, une fois que les saveurs se sont mariées.",
+   "t": "تكون الحريرة ألذّ في اليوم التالي، بعد أن تمتزج نكهاتها."
+  },
+  "secrets.11.source": {
+   "fr": "Choumicha (Gulf News)",
+   "t": "Choumicha (Gulf News)"
+  },
+  "secrets.12.text": {
+   "fr": "Si tu prévois des restes, prends des spaghettis fins cassés : le vermicelle gonfle dans la soupe.",
+   "t": "إذا توقعت أن تبقى منها بقايا، فاستعمل السباغيتي الرقيقة المكسّرة: فالشعرية تنتفخ في الحساء."
+  },
+  "secrets.12.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.13.text": {
+   "fr": "Pour congeler, fais-le avant la tadouira et, si possible, avant les vermicelles.",
+   "t": "إذا أردت تجميدها، فجمّدها قبل إضافة التدويرة، وقبل الشعرية إن أمكن."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc ; Gâteau et cuisine Rachida",
+   "t": "Taste of Maroc؛ Gâteau et cuisine Rachida"
+  },
+  "mistakes.0": {
+   "fr": "Verser la tadouira d'un coup ou sans remuer : elle fait des grumeaux.",
+   "t": "سكب التدويرة دفعة واحدة أو دون تحريك: فتتكتّل."
+  },
+  "mistakes.1": {
+   "fr": "Lier une soupe qui ne bout pas assez fort : elle doit reprendre vite l'ébullition.",
+   "t": "تكثيف حساء لا يغلي بقوة كافية: يجب أن يعود إلى الغليان بسرعة."
+  },
+  "mistakes.2": {
+   "fr": "Mettre toute la tadouira sans regarder la texture : la harira doit rester veloutée, pas épaisse.",
+   "t": "إضافة التدويرة كلها دون مراقبة القوام: يجب أن تبقى الحريرة مخملية القوام، لا كثيفة."
+  },
+  "mistakes.3": {
+   "fr": "Couper le feu avant que l'écume de la tadouira ait disparu.",
+   "t": "إطفاء النار قبل أن تختفي رغوة التدويرة."
+  },
+  "mistakes.4": {
+   "fr": "Garder la peau des pois chiches.",
+   "t": "ترك القشرة على الحمص."
+  },
+  "mistakes.5": {
+   "fr": "Ajouter du ras el hanout ou du gingembre frais.",
+   "t": "إضافة رأس الحانوت أو الزنجبيل الطازج."
+  },
+  "mistakes.6": {
+   "fr": "Prendre de la farine complète pour la tadouira.",
+   "t": "استعمال الدقيق الكامل في التدويرة."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer à feu vif sans remuer : les lentilles attachent et brûlent.",
+   "t": "التسخين على نار قوية دون تحريك: فيلتصق العدس بالقاع ويحترق."
+  },
+  "mistakes.8": {
+   "fr": "Congeler la harira une fois liée à la tadouira.",
+   "t": "تجميد الحريرة بعد تكثيفها بالتدويرة."
+  },
+  "variants.0": {
+   "fr": "Riz au lieu des vermicelles : ajoute-le dans le bouillon environ 30 minutes avant la liaison (15 minutes en cocotte-minute) — Taste of Maroc.",
+   "t": "الأرز بدل الشعرية: أضفه إلى المرق قبل التكثيف بنحو 30 دقيقة (15 دقيقة في طنجرة الضغط) — Taste of Maroc."
+  },
+  "variants.1": {
+   "fr": "Harira fassia (Fès) : la moins épicée, sans carvi (karwiya) ni piment de la Jamaïque ; c'est le profil de cette recette — Gâteau et cuisine Rachida.",
+   "t": "الحريرة الفاسية (فاس): الأقل توابل، دون كراوية (karwiya) ولا فلفل جامايكا؛ وهو الطابع الذي تتبعه هذه الوصفة — Gâteau et cuisine Rachida."
+  },
+  "variants.2": {
+   "fr": "Harira oujdia (Oujda) : préparée avec un levain pétri la veille et beaucoup de persil, de coriandre et de céleri (Aujourd'hui le Maroc, repris par Yabiladi) ; selon Rachida, très parfumée au carvi et au piment de la Jamaïque, et certaines familles ajoutent des fèves sèches aux pois chiches — Gâteau et cuisine Rachida.",
+   "t": "الحريرة الوجدية (وجدة): تُحضَّر بخميرة طبيعية تُعجن في الليلة السابقة، وبكثير من البقدونس والكزبرة والكرفس (Aujourd'hui le Maroc، ونقله Yabiladi)؛ وحسب Rachida، تكون معطّرة جدًا بالكراوية وفلفل جامايكا، وبعض العائلات تضيف الفول اليابس إلى الحمص — Gâteau et cuisine Rachida."
+  },
+  "variants.3": {
+   "fr": "Harira bidaouia (Casablanca) : on y ajoute le plus souvent un œuf battu après la tadouira (Gâteau et cuisine Rachida) ; certaines familles lient même la harira aux œufs à la place de la tadouira (Taste of Maroc).",
+   "t": "الحريرة البيضاوية (الدار البيضاء): يُضاف إليها في الغالب بيضة مخفوقة بعد التدويرة (Gâteau et cuisine Rachida)؛ بل إن بعض العائلات تكثّف الحريرة بالبيض بدل التدويرة (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Tadouira à l'ancienne, fermentée : au levain chez les grands-mères, ce qui rendait la harira plus digeste et légèrement acidulée (Gâteau et cuisine Rachida), ou avec de la levure et 1 à 2 jours de fermentation (Taste of Maroc).",
+   "t": "تدويرة على الطريقة القديمة، مخمّرة: بالخميرة الطبيعية عند الجدات، مما كان يجعل الحريرة أسهل هضمًا وحامضة قليلًا (Gâteau et cuisine Rachida)، أو بخميرة الخبز مع تخمير من 1 إلى 2 يوم (Taste of Maroc)."
+  },
+  "variants.5": {
+   "fr": "Liaison à la fécule de maïs délayée dans de l'eau : version du Royal Mansour, et solution sans gluten selon Taste of Maroc.",
+   "t": "التكثيف بنشا الذرة المذاب في الماء: نسخة Royal Mansour، وهو حل خالٍ من الغلوتين حسب Taste of Maroc."
+  },
+  "variants.6": {
+   "fr": "Un peu de safran dans le bouillon : Royal Mansour, Morocco World News (2021), Le Courrier de l'Atlas.",
+   "t": "قليل من الزعفران في المرق: Royal Mansour، وMorocco World News (سنة 2021)، وLe Courrier de l'Atlas."
+  },
+  "variants.7": {
+   "fr": "Quelques os à soupe ajoutés au bouillon (facultatif) — Taste of Maroc.",
+   "t": "بضع عظام للحساء تُضاف إلى المرق (اختياري) — Taste of Maroc."
+  },
+  "variants.8": {
+   "fr": "Version de Choumicha publiée par Gulf News : épices « harira » à parts égales (curcuma, cumin, gingembre, cannelle, poivre noir) avec une pointe de cayenne, et le smen ajouté tout à la fin.",
+   "t": "نسخة Choumicha التي نشرها Gulf News: توابل «الحريرة» بمقادير متساوية (كركم، وكمون، وزنجبيل، وقرفة، وفلفل أسود) مع قليل جدًا من فلفل الكايين، والسمن البلدي يُضاف في النهاية تمامًا."
+  },
+  "variants.9": {
+   "fr": "Sans viande : une version végétarienne existe, la viande apportant surtout du goût — Taste of Maroc ; Morocco World News (2021).",
+   "t": "دون لحم: توجد نسخة نباتية، فاللحم يضيف النكهة أساسًا — Taste of Maroc؛ Morocco World News (سنة 2021)."
+  }
+ }
+}

@@ -1,0 +1,658 @@
+{
+ "_slug": "couscous-sept-legumes",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Couscous aux sept légumes",
+   "t": "Кускус с семью овощами"
+  },
+  "darija": {
+   "fr": "Kesksou b sbe3 khdari",
+   "t": "Kesksou b sbe3 khdari"
+  },
+  "tagline": {
+   "fr": "Le couscous du vendredi midi : une graine légère, roulée à la main et passée trois fois à la vapeur au-dessus d'un bouillon parfumé aux sept légumes.",
+   "t": "Кускус для пятничного обеда: лёгкая крупа, перетёртая руками и трижды приготовленная на пару над ароматным бульоном с семью овощами."
+  },
+  "region": {
+   "fr": "Casablanca (couscous « bidaoui ») ; couscous du vendredi dans tout le Maroc",
+   "t": "Касабланка (кускус «бидауи»); пятничный кускус по всему Марокко"
+  },
+  "occasion": {
+   "fr": "Déjeuner du vendredi, après la grande prière, en famille autour d'un plat commun",
+   "t": "Обед в пятницу, после пятничной молитвы, всей семьёй вокруг общего блюда"
+  },
+  "serving": {
+   "fr": "Pose la gsaa au milieu de la table : on mange ensemble dans le plat, à la cuillère ou à la main en roulant des boulettes, alors prévois des cuillères pour ceux qui n'en ont pas l'habitude. Sers le reste du bouillon dans des bols et, si tu aimes, une sauce piquante à part. Pour boire, le traditionnel lben (lait fermenté).",
+   "t": "Поставьте гсаа посреди стола: едят все вместе из общего блюда, ложкой или руками, скатывая шарики, поэтому приготовьте ложки для тех, кто к этому не привык. Остаток бульона подайте в мисках и, если любите, отдельно острый соус. Из напитков — традиционный лбен (кислое молоко)."
+  },
+  "ing.0.group": {
+   "fr": "Viande et bouillon",
+   "t": "Мясо и бульон"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de bœuf halal (épaule, collier ou jarret), sur l'os, en gros morceaux",
+   "t": "халяльной баранины или говядины (лопатка, шея или голяшка) на кости, крупными кусками"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "оливкового или растительного масла"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon (environ 200 g)",
+   "t": "крупная луковица (около 200 г)"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons (environ 200 g chacun)",
+   "t": "крупные луковицы (около 200 г каждая)"
+  },
+  "ing.oignon.pl5": {
+   "fr": "gros oignon (environ 200 g) / gros oignons (environ 200 g chacun)",
+   "t": "крупных луковиц (около 200 г каждая)"
+  },
+  "ing.tomates-rapees.name": {
+   "fr": "tomate mûre",
+   "t": "спелый помидор"
+  },
+  "ing.tomates-rapees.pl": {
+   "fr": "tomates mûres",
+   "t": "спелых помидора"
+  },
+  "ing.tomates-rapees.pl5": {
+   "fr": "tomate mûre / tomates mûres",
+   "t": "спелых помидоров"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "goûte et rectifie en fin de cuisson",
+   "t": "в конце варки попробуйте и досолите по вкусу"
+  },
+  "ing.safran.name": {
+   "fr": "de safran en filaments",
+   "t": "шафрана в нитях"
+  },
+  "ing.safran.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "кинзы"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "сушёного нута"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "à faire tremper la veille",
+   "t": "замочить накануне"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.1.group": {
+   "fr": "Les sept légumes",
+   "t": "Семь овощей"
+  },
+  "ing.chou.name": {
+   "fr": "de chou pommé (blanc ou vert)",
+   "t": "кочанной капусты (белой или зелёной)"
+  },
+  "ing.petits-oignons.name": {
+   "fr": "petit oignon",
+   "t": "маленькая луковица"
+  },
+  "ing.petits-oignons.pl": {
+   "fr": "petits oignons",
+   "t": "маленькие луковицы"
+  },
+  "ing.petits-oignons.pl5": {
+   "fr": "petit oignon / petits oignons",
+   "t": "маленьких луковиц"
+  },
+  "ing.tomates-quartiers.name": {
+   "fr": "petite tomate",
+   "t": "небольшой помидор"
+  },
+  "ing.tomates-quartiers.pl": {
+   "fr": "petites tomates",
+   "t": "небольших помидора"
+  },
+  "ing.tomates-quartiers.pl5": {
+   "fr": "petite tomate / petites tomates",
+   "t": "небольших помидоров"
+  },
+  "ing.carottes.name": {
+   "fr": "de carottes",
+   "t": "моркови"
+  },
+  "ing.navets.name": {
+   "fr": "de navets moyens",
+   "t": "репы среднего размера"
+  },
+  "ing.courge.name": {
+   "fr": "de courge rouge (potiron)",
+   "t": "красной тыквы (крупноплодной)"
+  },
+  "ing.courgettes.name": {
+   "fr": "de petites courgettes",
+   "t": "небольших кабачков"
+  },
+  "ing.piments.name": {
+   "fr": "piment vert",
+   "t": "зелёный острый перец"
+  },
+  "ing.piments.pl": {
+   "fr": "piments verts",
+   "t": "зелёных острых перца"
+  },
+  "ing.piments.pl5": {
+   "fr": "piment vert / piments verts",
+   "t": "зелёных острых перцев"
+  },
+  "ing.piments.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.2.group": {
+   "fr": "Semoule cuite à la vapeur",
+   "t": "Кускус на пару"
+  },
+  "ing.semoule.name": {
+   "fr": "de couscous de blé dur, grain moyen",
+   "t": "кускуса из твёрдой пшеницы среднего помола"
+  },
+  "ing.semoule.note": {
+   "fr": "pas de couscous instantané",
+   "t": "не кускус быстрого приготовления"
+  },
+  "ing.huile-graine.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "оливкового или растительного масла"
+  },
+  "ing.eau-1.name": {
+   "fr": "d'eau froide (1er roulage)",
+   "t": "холодной воды (для 1-го перетирания)"
+  },
+  "ing.eau-2.name": {
+   "fr": "d'eau (2e roulage)",
+   "t": "воды (для 2-го перетирания)"
+  },
+  "ing.sel-graine.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.eau-3.name": {
+   "fr": "d'eau au maximum (3e roulage)",
+   "t": "воды, не больше (для 3-го перетирания)"
+  },
+  "ing.eau-3.note": {
+   "fr": "n'en verse que ce qu'il faut",
+   "t": "лейте ровно столько, сколько нужно"
+  },
+  "ing.3.group": {
+   "fr": "Finition",
+   "t": "Завершение"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre mou",
+   "t": "мягкого сливочного масла"
+  },
+  "ing.bouillon-graine.name": {
+   "fr": "de bouillon pris dans la marmite",
+   "t": "бульона из кастрюли"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre conservé marocain)",
+   "t": "смена (выдержанного солёного масла)"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "equipment.0": {
+   "fr": "Couscoussier (keskas) : marmite et panier vapeur",
+   "t": "Кускусница (кескас): кастрюля и корзина-пароварка"
+  },
+  "equipment.1": {
+   "fr": "Gsaa (grand plat large et creux) ou très grand saladier",
+   "t": "Гсаа (большое широкое глубокое блюдо) или очень большая миска"
+  },
+  "equipment.2": {
+   "fr": "Film alimentaire (ou papier aluminium) pour rendre le joint étanche",
+   "t": "Пищевая плёнка (или фольга), чтобы уплотнить стык"
+  },
+  "equipment.3": {
+   "fr": "Ficelle de cuisine pour le bouquet d'herbes",
+   "t": "Кулинарная нить для букета зелени"
+  },
+  "equipment.4": {
+   "fr": "Petite casserole pour les piments",
+   "t": "Маленькая кастрюлька для острого перца"
+  },
+  "equipment.5": {
+   "fr": "Linge propre (facultatif, pour les pois chiches)",
+   "t": "Чистая ткань (по желанию, для нута)"
+  },
+  "equipment.6": {
+   "fr": "Louche",
+   "t": "Половник"
+  },
+  "steps.0.title": {
+   "fr": "La veille : les pois chiches",
+   "t": "Накануне замочите нут"
+  },
+  "steps.0.text": {
+   "fr": "La veille au soir, mets {{pois-chiches}} de pois chiches secs à tremper dans un grand volume d'eau. Le lendemain, égoutte-les. Si tu veux, enferme-les dans un linge propre noué en balluchon avant de les mettre dans la marmite.",
+   "t": "Накануне вечером замочите {{pois-chiches}} сушёного нута в большом количестве воды. На следующий день откиньте его на дуршлаг. По желанию завяжите нут узелком в чистую ткань, прежде чем класть его в кастрюлю."
+  },
+  "steps.1.title": {
+   "fr": "La base du bouillon",
+   "t": "Подготовьте основу бульона"
+  },
+  "steps.1.text": {
+   "fr": "Hache grossièrement {{oignon:full}}. Râpe {{tomates-rapees:full}} et jette la peau. Ficelle ensemble {{persil}} de persil et {{coriandre}} de coriandre en un bouquet.",
+   "t": "Крупно нарежьте лук ({{oignon}} шт.). Натрите на тёрке {{tomates-rapees:full}}, кожицу выбросьте. Свяжите кулинарной нитью {{persil}} петрушки и {{coriandre}} кинзы в букет."
+  },
+  "steps.1.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.1.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Помидор на тёрке"
+  },
+  "steps.2.title": {
+   "fr": "Les sept légumes",
+   "t": "Подготовьте семь овощей"
+  },
+  "steps.2.text": {
+   "fr": "Pèle {{carottes}} de carottes et {{navets}} de navets ; coupe les navets en deux et fends les grosses carottes dans la longueur. Coupe {{chou}} de chou en quartiers à travers le trognon, et {{courge}} de courge en gros morceaux. Retire juste les bouts de {{courgettes}} de courgettes. Pèle, épépine et coupe en quartiers {{tomates-quartiers:full}}, et coupe {{petits-oignons:full}} en deux.",
+   "t": "Очистите {{carottes}} моркови и {{navets}} репы; репу разрежьте пополам, а крупную морковь — вдоль. Разрежьте {{chou}} капусты на четвертинки через кочерыжку, а {{courge}} тыквы — на крупные куски. У кабачков ({{courgettes}}) только срежьте кончики. Очистите от кожицы, удалите семена и нарежьте четвертинками {{tomates-quartiers:full}}, а маленький лук ({{petits-oignons}} шт.) разрежьте пополам."
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir la viande",
+   "t": "Обжарьте мясо"
+  },
+  "steps.3.text": {
+   "fr": "Dans la marmite du couscoussier, mets {{viande}} de viande, {{huile}} d'huile, l'oignon haché et les tomates râpées. Ajoute {{gingembre}} de gingembre moulu, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel et, si tu veux, {{safran}} de safran. Laisse revenir à découvert sur feu moyen-vif 10 à 15 min, en remuant souvent, jusqu'à obtenir une sauce épaisse et riche.",
+   "t": "Положите в нижнюю кастрюлю кускусницы {{viande}} мяса, {{huile}} масла, нарезанный лук и натёртые помидоры. Добавьте молотый имбирь ({{gingembre}}), куркуму ({{curcuma}}), перец ({{poivre}}), соль ({{sel}}) и, по желанию, шафран ({{safran}}). Обжаривайте без крышки на огне выше среднего 10–15 мин, часто помешивая, пока не получится густой насыщенный соус."
+  },
+  "steps.3.timer.label": {
+   "fr": "Viande et épices",
+   "t": "Мясо со специями"
+  },
+  "steps.3.timer.done": {
+   "fr": "Sauce épaisse ? Ajoute les pois chiches, le bouquet et l'eau.",
+   "t": "Соус загустел? Добавьте нут, букет зелени и воду."
+  },
+  "steps.4.title": {
+   "fr": "Le bouillon",
+   "t": "Сварите бульон"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute les pois chiches égouttés (ou leur balluchon), le bouquet d'herbes et {{eau}} d'eau. Porte à ébullition, couvre et laisse cuire 30 min à feu moyen. Pendant ce temps, prépare la semoule.",
+   "t": "Добавьте откинутый нут (или узелок с ним), букет зелени и {{eau}} воды. Доведите до кипения, накройте крышкой и варите 30 мин на среднем огне. Тем временем подготовьте крупу."
+  },
+  "steps.4.timer.label": {
+   "fr": "Bouillon, dès l'ébullition",
+   "t": "Бульон, с момента закипания"
+  },
+  "steps.4.timer.done": {
+   "fr": "Le bouillon est prêt : place la semoule pour la première vapeur.",
+   "t": "Бульон готов: ставьте крупу на пар в первый раз."
+  },
+  "steps.5.title": {
+   "fr": "Premier roulage à la main",
+   "t": "Перетрите крупу руками в первый раз"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{semoule}} de couscous dans la gsaa et arrose de {{huile-graine}} d'huile. Frotte la graine entre tes paumes 1 à 2 min pour bien l'enrober. Ajoute {{eau-1}} d'eau froide en pluie, puis frotte encore jusqu'à ce qu'elle soit absorbée, en écrasant les petits grumeaux.",
+   "t": "Высыпьте {{semoule}} кускуса в гсаа и добавьте {{huile-graine}} масла. Перетирайте крупу между ладонями 1–2 мин, чтобы она хорошо покрылась маслом. Добавьте {{eau-1}} холодной воды, разбрызгивая её, и снова перетирайте, пока вода не впитается, разминая мелкие комочки."
+  },
+  "steps.6.title": {
+   "fr": "Première vapeur",
+   "t": "Пропарьте крупу в первый раз"
+  },
+  "steps.6.text": {
+   "fr": "Huile légèrement le panier et pose un long film alimentaire plié sur le bord de la marmite avant d'y placer le panier : la vapeur ne doit passer que par la graine. Verse la semoule dans le panier sans la tasser, et ne couvre pas. Garde le bouillon à ébullition, sur feu moyen. Lance le minuteur quand la vapeur traverse la graine.",
+   "t": "Слегка смажьте корзину маслом и, прежде чем ставить её, положите на край кастрюли длинную сложенную полоску пищевой плёнки: пар должен проходить только сквозь крупу. Высыпьте крупу в корзину, не утрамбовывая, и не накрывайте. Поддерживайте кипение бульона на среднем огне. Запустите таймер, когда пар начнёт проходить сквозь крупу."
+  },
+  "steps.6.timer.label": {
+   "fr": "1re vapeur",
+   "t": "1-е пропаривание"
+  },
+  "steps.6.timer.done": {
+   "fr": "Renverse la semoule dans la gsaa pour le deuxième roulage.",
+   "t": "Высыпьте крупу в гсаа для второго перетирания."
+  },
+  "steps.6.img.alt": {
+   "fr": "Graine de couscous dans le haut d'un couscoussier",
+   "t": "Кускус в верхней части кускусницы"
+  },
+  "steps.6.img.caption": {
+   "fr": "La graine à la vapeur",
+   "t": "Крупа на пару"
+  },
+  "steps.7.title": {
+   "fr": "Deuxième roulage",
+   "t": "Перетрите крупу во второй раз"
+  },
+  "steps.7.text": {
+   "fr": "Renverse la semoule dans la gsaa, laisse-la tiédir un peu et émiette-la. Arrose avec la moitié de {{eau-2}} d'eau et frotte, puis saupoudre {{sel-graine}} de sel fin. Verse le reste de l'eau et frotte jusqu'à ce qu'il ne reste aucun grumeau.",
+   "t": "Высыпьте крупу в гсаа, дайте ей немного остыть и разомните комки. Сбрызните её половиной от {{eau-2}} воды и перетрите, затем добавьте {{sel-graine}} мелкой соли. Влейте остальную воду и перетирайте, пока не исчезнут все комочки."
+  },
+  "steps.8.title": {
+   "fr": "Le chou, puis deuxième vapeur",
+   "t": "Добавьте капусту и пропарьте крупу во второй раз"
+  },
+  "steps.8.text": {
+   "fr": "Mets dans la marmite le chou, les petits oignons et les quartiers de tomate. Remets la semoule dans le panier, sans tasser ni couvrir. Lance le minuteur quand la vapeur traverse la graine.",
+   "t": "Положите в кастрюлю капусту, маленький лук и четвертинки помидоров. Снова переложите крупу в корзину, не утрамбовывая и не накрывая. Запустите таймер, когда пар начнёт проходить сквозь крупу."
+  },
+  "steps.8.timer.label": {
+   "fr": "2e vapeur",
+   "t": "2-е пропаривание"
+  },
+  "steps.8.timer.done": {
+   "fr": "Renverse la semoule et plonge les carottes et les navets dans le bouillon.",
+   "t": "Высыпьте крупу и опустите в бульон морковь и репу."
+  },
+  "steps.9.title": {
+   "fr": "Carottes, navets et troisième roulage",
+   "t": "Добавьте морковь и репу, перетрите крупу в третий раз"
+  },
+  "steps.9.text": {
+   "fr": "Renverse la semoule dans la gsaa. Plonge les carottes et les navets dans le bouillon, couvre et laisse cuire à feu moyen. Pendant ce temps, mouille la semoule petit à petit avec {{eau-3}} d'eau au maximum, en frottant après chaque ajout : n'en mets que ce qu'il faut pour une graine al dente. Goûte-la et rectifie le sel.",
+   "t": "Высыпьте крупу в гсаа. Опустите морковь и репу в бульон, накройте и варите на среднем огне. Тем временем понемногу смачивайте крупу водой, не больше {{eau-3}}, перетирая после каждой порции: добавляйте ровно столько, сколько нужно, чтобы крупа была al dente. Попробуйте её и при необходимости досолите."
+  },
+  "steps.9.timer.label": {
+   "fr": "Carottes et navets",
+   "t": "Морковь и репа"
+  },
+  "steps.9.timer.done": {
+   "fr": "Ajoute la courge et les courgettes dans la marmite.",
+   "t": "Добавьте в кастрюлю тыкву и кабачки."
+  },
+  "steps.10.title": {
+   "fr": "Courge, courgettes et assaisonnement",
+   "t": "Добавьте тыкву и кабачки, приправьте бульон"
+  },
+  "steps.10.text": {
+   "fr": "Ajoute la courge et les courgettes dans la marmite ; si le bouillon ne couvre plus les légumes, verse un peu d'eau chaude. Goûte : le bouillon doit être bien parfumé, un peu salé et poivré. Fais cuire {{piments:full}} à part, dans une petite casserole avec un peu de bouillon, jusqu'à ce qu'ils soient tendres.",
+   "t": "Добавьте в кастрюлю тыкву и кабачки; если бульон больше не покрывает овощи, подлейте немного горячей воды. Попробуйте: бульон должен быть ароматным, слегка солёным и перчёным. Отдельно отварите {{piments:full}} в маленькой кастрюльке с небольшим количеством бульона до мягкости."
+  },
+  "steps.11.title": {
+   "fr": "Troisième vapeur",
+   "t": "Пропарьте крупу в третий раз"
+  },
+  "steps.11.text": {
+   "fr": "Mets la moitié de la semoule dans le panier, sans tasser, et replace-le sur la marmite. Dès que la vapeur la traverse, ajoute le reste. Quand la vapeur traverse de nouveau toute la graine, lance le minuteur : à la fin, elle doit être légère et tendre avec une petite résistance, et les légumes tendres sous la pointe d'un couteau.",
+   "t": "Переложите половину крупы в корзину, не утрамбовывая, и снова поставьте корзину на кастрюлю. Как только пар пройдёт сквозь крупу, добавьте остальное. Когда пар снова пройдёт сквозь всю крупу, запустите таймер: в конце крупа должна быть лёгкой, мягкой и слегка упругой, а овощи — легко протыкаться кончиком ножа."
+  },
+  "steps.11.timer.label": {
+   "fr": "3e vapeur",
+   "t": "3-е пропаривание"
+  },
+  "steps.11.timer.done": {
+   "fr": "Goûte la graine : légère, tendre, avec une petite résistance ? Elle est prête.",
+   "t": "Попробуйте крупу: лёгкая, мягкая и слегка упругая? Значит, готова."
+  },
+  "steps.12.title": {
+   "fr": "Vérifie la viande",
+   "t": "Проверьте мясо"
+  },
+  "steps.12.text": {
+   "fr": "La viande doit être bien tendre. Sinon, retire les légumes déjà cuits, couvre et prolonge la cuisson de la viande, puis remets les légumes pour les réchauffer. Retire le bouquet d'herbes et, si tu veux, mélange {{smen}} de smen au bouillon.",
+   "t": "Мясо должно быть совсем мягким. Если нет, выньте уже сваренные овощи, накройте кастрюлю и варите мясо дольше, затем верните овощи, чтобы прогреть их. Выньте букет зелени и, по желанию, вмешайте в бульон {{smen}} смена."
+  },
+  "steps.13.title": {
+   "fr": "Beurre et bouillon dans la graine",
+   "t": "Добавьте в крупу масло и бульон"
+  },
+  "steps.13.text": {
+   "fr": "Renverse la semoule dans la gsaa et incorpore {{beurre}} de beurre mou en roulant la graine entre tes mains. Arrose de {{bouillon-graine}} de bouillon et frotte encore pour défaire les grumeaux.",
+   "t": "Высыпьте крупу в гсаа и вмешайте {{beurre}} мягкого сливочного масла, перетирая крупу руками. Влейте {{bouillon-graine}} бульона и снова перетрите, чтобы разбить комочки."
+  },
+  "steps.14.title": {
+   "fr": "Dresse et sers",
+   "t": "Выложите на блюдо и подавайте"
+  },
+  "steps.14.text": {
+   "fr": "Forme un dôme aplati de semoule et creuse un puits au centre. Mets la viande dans le puits, le chou et la courge dessus, et range les autres légumes tout autour. Parsème de pois chiches, ajoute les piments, arrose de quelques louches de bouillon et sers le reste très chaud dans des bols.",
+   "t": "Выложите крупу приплюснутым куполом и сделайте в центре углубление. Положите в него мясо, сверху — капусту и тыкву, а остальные овощи разложите вокруг. Посыпьте нутом, добавьте острый перец, полейте несколькими половниками бульона, а остаток подайте очень горячим в мисках."
+  },
+  "steps.14.img.alt": {
+   "fr": "Main qui roule une boulette de couscous au-dessus du plat",
+   "t": "Рука скатывает шарик из кускуса над блюдом"
+  },
+  "steps.14.img.caption": {
+   "fr": "À la main, on roule des boulettes",
+   "t": "Руками скатывают шарики"
+  },
+  "secrets.0.text": {
+   "fr": "Commence par faire revenir viande, oignon, tomates, huile et épices à découvert sur feu moyen-vif, 10 à 15 min, jusqu'à une sauce épaisse, avant de verser l'eau.",
+   "t": "Сначала обжарьте мясо, лук, помидоры, масло и специи без крышки на огне выше среднего 10–15 мин до густого соуса и только потом вливайте воду."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui",
+   "t": "Taste of Maroc, рецепт кускуса бидауи"
+  },
+  "secrets.1.text": {
+   "fr": "Garde la viande en gros morceaux (sur l'os chez Taste of Maroc) : selon Nargisse Benkabbou, les petits morceaux rapetissent pendant les heures de cuisson et se perdent dans le bouillon.",
+   "t": "Оставляйте мясо крупными кусками (у Taste of Maroc — на кости): по словам Nargisse Benkabbou, мелкие кусочки за часы варки уменьшаются и теряются в бульоне."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food, Nargisse Benkabbou ; Taste of Maroc, recette du couscous bidaoui",
+   "t": "My Moroccan Food, Nargisse Benkabbou; Taste of Maroc, рецепт кускуса бидауи"
+  },
+  "secrets.2.text": {
+   "fr": "Persil et coriandre cuisent ficelés en bouquet dans le bouillon ; Nargisse Benkabbou retire le sien (coriandre seule) avant d'ajouter les premiers légumes, Cooking with Alia avant de servir.",
+   "t": "Петрушка и кинза варятся в бульоне, связанные в букет; Nargisse Benkabbou вынимает свой (только из кинзы) перед тем, как добавить первые овощи, Cooking with Alia — перед подачей."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; Cooking with Alia ; My Moroccan Food, Nargisse Benkabbou",
+   "t": "Taste of Maroc, рецепт кускуса бидауи; Couscous Dari; Cooking with Alia; My Moroccan Food, Nargisse Benkabbou"
+  },
+  "secrets.3.text": {
+   "fr": "Astuce de Dari : les pois chiches cuisent dans la marmite enfermés dans un linge noué en balluchon.",
+   "t": "Хитрость от Dari: нут варится в кастрюле, завязанный узелком в ткань."
+  },
+  "secrets.3.source": {
+   "fr": "Couscous Dari",
+   "t": "Couscous Dari"
+  },
+  "secrets.4.text": {
+   "fr": "Huile d'abord, eau ensuite : frotte la graine huilée entre tes paumes, puis mouille-la peu à peu en défaisant chaque grumeau.",
+   "t": "Сначала масло, потом вода: перетирайте крупу с маслом между ладонями, затем понемногу смачивайте её, разбивая каждый комочек."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc, guide de la vapeur ; Royal Mansour, chef Karim Benbaba",
+   "t": "Taste of Maroc, руководство по приготовлению на пару; Royal Mansour, шеф Karim Benbaba"
+  },
+  "secrets.5.text": {
+   "fr": "Joint étanche : toute la vapeur doit passer à travers la graine. Film plié ou papier alu aujourd'hui ; à l'ancienne, une bande de tissu enduite d'une pâte légère de farine et d'eau.",
+   "t": "Плотный стык: весь пар должен проходить сквозь крупу. Сегодня берут сложенную плёнку или фольгу; по старинке — полоску ткани, промазанную жидким тестом из муки и воды."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc, guide de la vapeur ; Ministère de la Culture du Maroc, fiche d'inventaire du couscous ; Bladi.net",
+   "t": "Taste of Maroc, руководство по приготовлению на пару; Министерство культуры Марокко, инвентарная карточка кускуса; Bladi.net"
+  },
+  "secrets.6.text": {
+   "fr": "Ne tasse jamais la graine dans le panier et ne la couvre pas : la plupart des Marocains la laissent à découvert.",
+   "t": "Никогда не утрамбовывайте крупу в корзине и не накрывайте её: большинство марокканцев оставляют её открытой."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc, guide de la vapeur",
+   "t": "Taste of Maroc, руководство по приготовлению на пару"
+  },
+  "secrets.7.text": {
+   "fr": "Le temps de vapeur se compte à partir du moment où la vapeur traverse la graine, pas avant.",
+   "t": "Время на пару отсчитывают с того момента, когда пар проходит сквозь крупу, не раньше."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc, guide de la vapeur et recette du couscous bidaoui ; Bladi.net",
+   "t": "Taste of Maroc, руководство по приготовлению на пару и рецепт кускуса бидауи; Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Le sel de la graine se met au deuxième roulage, entre deux arrosages d'eau.",
+   "t": "Соль в крупу добавляют при втором перетирании, между двумя порциями воды."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc, guide de la vapeur",
+   "t": "Taste of Maroc, руководство по приготовлению на пару"
+  },
+  "secrets.9.text": {
+   "fr": "Au dernier roulage, mouille petit à petit et arrête-toi à temps : la graine finie doit être légère, tendre, avec une petite résistance.",
+   "t": "При последнем перетирании смачивайте крупу понемногу и вовремя остановитесь: готовая крупа должна быть лёгкой, мягкой и слегка упругой."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc, guide de la vapeur",
+   "t": "Taste of Maroc, руководство по приготовлению на пару"
+  },
+  "secrets.10.text": {
+   "fr": "Dernière vapeur en deux fois : la moitié de la graine d'abord, le reste quand la vapeur la traverse.",
+   "t": "Последнее пропаривание — в два приёма: сначала половина крупы, остальное — когда пар пройдёт сквозь неё."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui",
+   "t": "Taste of Maroc, рецепт кускуса бидауи"
+  },
+  "secrets.11.text": {
+   "fr": "Les légumes entrent par ordre de dureté pour être prêts ensemble : courge et courgettes en dernier, car une fois cuites elles deviennent très fragiles.",
+   "t": "Овощи закладывают по степени твёрдости, чтобы они были готовы одновременно: тыкву и кабачки — в последнюю очередь, потому что после варки они становятся очень хрупкими."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
+   "t": "Taste of Maroc, рецепт кускуса бидауи; Couscous Dari; My Moroccan Food, Nargisse Benkabbou"
+  },
+  "secrets.12.text": {
+   "fr": "Les légumes cuisent immergés : s'ils restent à la surface du bouillon, ils cuisent de façon inégale.",
+   "t": "Овощи должны вариться погружёнными в бульон: если они остаются на поверхности, то варятся неравномерно."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food, Nargisse Benkabbou",
+   "t": "My Moroccan Food, Nargisse Benkabbou"
+  },
+  "secrets.13.text": {
+   "fr": "Le bouillon doit être bien parfumé, un peu salé et poivré.",
+   "t": "Бульон должен быть ароматным, слегка солёным и перчёным."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui",
+   "t": "Taste of Maroc, рецепт кускуса бидауи"
+  },
+  "secrets.14.text": {
+   "fr": "Finition : beurre dans la graine et smen dans le bouillon ; Dari et Nargisse Benkabbou mettent le smen directement sur la graine.",
+   "t": "Завершение: сливочное масло — в крупу, смен — в бульон; Dari и Nargisse Benkabbou кладут смен прямо на крупу."
+  },
+  "secrets.14.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Couscous Dari ; My Moroccan Food, Nargisse Benkabbou",
+   "t": "Taste of Maroc, рецепт кускуса бидауи; Couscous Dari; My Moroccan Food, Nargisse Benkabbou"
+  },
+  "secrets.15.text": {
+   "fr": "Arrose la graine de bouillon avant de dresser, et sers le reste à part, très chaud.",
+   "t": "Полейте крупу бульоном, прежде чем выкладывать на блюдо, а остаток подайте отдельно, очень горячим."
+  },
+  "secrets.15.source": {
+   "fr": "Taste of Maroc, recette du couscous bidaoui ; Royal Mansour, chef Karim Benbaba ; Bladi.net",
+   "t": "Taste of Maroc, рецепт кускуса бидауи; Royal Mansour, шеф Karim Benbaba; Bladi.net"
+  },
+  "mistakes.0": {
+   "fr": "Préparer la graine à l'eau bouillante comme un couscous instantané : au Maroc, elle se cuit à la vapeur, en plusieurs passages.",
+   "t": "Заваривать крупу кипятком, как кускус быстрого приготовления: в Марокко её готовят на пару, в несколько приёмов."
+  },
+  "mistakes.1": {
+   "fr": "Tasser la semoule dans le panier ou poser un couvercle dessus.",
+   "t": "Утрамбовывать крупу в корзине или накрывать её крышкой."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la vapeur fuir entre la marmite et le panier.",
+   "t": "Позволять пару уходить через стык между кастрюлей и корзиной."
+  },
+  "mistakes.3": {
+   "fr": "Laisser le fond du panier toucher le bouillon.",
+   "t": "Допускать, чтобы дно корзины касалось бульона."
+  },
+  "mistakes.4": {
+   "fr": "Lancer le minuteur avant que la vapeur traverse la graine.",
+   "t": "Запускать таймер до того, как пар пройдёт сквозь крупу."
+  },
+  "mistakes.5": {
+   "fr": "Noyer la graine au dernier roulage : trop de liquide la rend lourde et mouillée.",
+   "t": "Заливать крупу при последнем перетирании: от избытка жидкости она становится тяжёлой и мокрой."
+  },
+  "mistakes.6": {
+   "fr": "Sauter l'étape des grumeaux entre deux passages.",
+   "t": "Пропускать разбивание комочков между пропариваниями."
+  },
+  "mistakes.7": {
+   "fr": "Mettre tous les légumes en même temps : courge et courgettes, très fragiles une fois cuites, se défont.",
+   "t": "Закладывать все овощи одновременно: тыква и кабачки, очень хрупкие после варки, разваливаются."
+  },
+  "mistakes.8": {
+   "fr": "Couper la viande en petits morceaux : ils rapetissent et se perdent dans le bouillon.",
+   "t": "Резать мясо мелкими кусочками: они уменьшаются и теряются в бульоне."
+  },
+  "mistakes.9": {
+   "fr": "Laisser des légumes hors du bouillon : ils cuisent de façon inégale.",
+   "t": "Оставлять овощи не покрытыми бульоном: они варятся неравномерно."
+  },
+  "variants.0": {
+   "fr": "Tfaya (variante, pas la base) : oignons, rouges de préférence, et raisins secs trempés 15 min, mijotés à couvert sur feu moyen-doux 30 min à 1 h avec beurre, miel, cannelle, poivre, gingembre, curcuma, safran, une pincée de sel et un peu d'eau, jusqu'à ce que le jus devienne un sirop épais ; un peu d'eau de fleur d'oranger à la fin si tu veux. Pose-la sur le couscous ou sers-la à part (Taste of Maroc ; version au miel et à la cannelle chez My Moroccan Food).",
+   "t": "Тфайя (вариант, не основа): лук, лучше красный, и изюм, замоченный на 15 мин, томят под крышкой на огне ниже среднего от 30 мин до 1 ч со сливочным маслом, мёдом, корицей, перцем, имбирём, куркумой, шафраном, щепоткой соли и небольшим количеством воды, пока сок не превратится в густой сироп; в конце по желанию — немного воды из цветков апельсина. Выложите её на кускус или подайте отдельно (Taste of Maroc; вариант с мёдом и корицей у My Moroccan Food)."
+  },
+  "variants.1": {
+   "fr": "Graine au lait : remplace l'eau du troisième roulage par du lait pour une semoule plus riche (Taste of Maroc).",
+   "t": "Крупа на молоке: замените воду при третьем перетирании молоком, чтобы крупа получилась насыщеннее (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Légumes de saison : fèves avec le chou, patate douce avec la courge (Taste of Maroc) ; aubergine chez Royal Mansour, Dari et Le Petit Journal, qui cite aussi le céleri et les fèves en été.",
+   "t": "Сезонные овощи: бобы вместе с капустой, батат вместе с тыквой (Taste of Maroc); баклажан у Royal Mansour, Dari и Le Petit Journal, который упоминает также сельдерей и бобы летом."
+  },
+  "variants.3": {
+   "fr": "Smen sur la graine chaude au lieu du bouillon (Couscous Dari ; My Moroccan Food).",
+   "t": "Смен на горячую крупу вместо бульона (Couscous Dari; My Moroccan Food)."
+  },
+  "variants.4": {
+   "fr": "Deuxième bouquet persil-coriandre ajouté avec les légumes tendres (Couscous Dari).",
+   "t": "Второй букет из петрушки и кинзы, добавленный вместе с нежными овощами (Couscous Dari)."
+  },
+  "variants.5": {
+   "fr": "Gueddid (viande séchée) à la place de la viande fraîche (Taste of Maroc).",
+   "t": "Геддид (вяленое мясо) вместо свежего мяса (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Sans viande : un peu plus d'huile donne un bouillon plus riche (Taste of Maroc).",
+   "t": "Без мяса: чуть больше масла делает бульон насыщеннее (Taste of Maroc)."
+  },
+  "variants.7": {
+   "fr": "Deux vapeurs seulement : certains Marocains font ainsi (Taste of Maroc), et Choumicha passe la graine deux fois 20 min dans sa recette pour Gulf News.",
+   "t": "Только два пропаривания: так делают некоторые марокканцы (Taste of Maroc), а Choumicha в своём рецепте для Gulf News пропаривает крупу дважды по 20 мин."
+  },
+  "variants.8": {
+   "fr": "Version palace du chef Karim Benbaba (Royal Mansour) : chaque légume cuit à part dans un bouillon de légumes filtré, puis dressé en alternant les couleurs.",
+   "t": "Версия роскошного отеля от шефа Karim Benbaba (Royal Mansour): каждый овощ варят отдельно в процеженном овощном бульоне, а затем выкладывают, чередуя цвета."
+  }
+ }
+}

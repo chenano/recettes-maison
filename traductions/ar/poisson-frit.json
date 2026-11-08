@@ -1,0 +1,594 @@
+{
+ "_slug": "poisson-frit",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Poisson frit à la marocaine",
+   "t": "السمك المقلي على الطريقة المغربية"
+  },
+  "darija": {
+   "fr": "Hout mqli",
+   "t": "حوت مقلي"
+  },
+  "tagline": {
+   "fr": "Des sardines collées deux par deux avec une chermoula à l'ail, au cumin et au paprika, des filets de merlan marinés, farinés puis frits jusqu'à ce qu'ils soient bien dorés. Avec du citron, c'est la friture de la maison.",
+   "t": "سردين ملصوق مثنى مثنى بشرمولة بالثوم والكمون والفلفل الأحمر الحلو، وشرائح ميرلان متبّلة، تُمرَّر في الدقيق ثم تُقلى حتى تصير ذهبية جيدًا. ومع الليمون، هذا هو السمك المقلي على طريقة البيت."
+  },
+  "region": {
+   "fr": "Tout le Maroc, surtout les villes côtières. La sardine est le poisson le plus abondant des côtes marocaines (Choumicha) et le merlan un choix très courant (Taste of Maroc). Les sardines farcies frites se vendent aussi dans la rue loin de la mer, parfois seulement certains jours, par exemple à Jemaa el-Fna à Marrakech et dans la médina de Fès (Taste of Maroc).",
+   "t": "المغرب كله، وخاصة المدن الساحلية. السردين هو أكثر الأسماك وفرة في السواحل المغربية (Choumicha)، والميرلان اختيار شائع جدًا (Taste of Maroc). ويُباع السردين المحشو المقلي أيضًا في الشارع بعيدًا عن البحر، وأحيانًا في أيام معيّنة فقط، كما في ساحة جامع الفنا بمراكش وفي المدينة القديمة بفاس (Taste of Maroc)."
+  },
+  "occasion": {
+   "fr": "En entrée, ou en plat avec des légumineuses et des salades pour un déjeuner complet (Taste of Maroc) ; au f'tour du ramadan à El Jadida, où les fritures de poissons sont au menu (Hespress)",
+   "t": "طبقًا أول، أو طبقًا رئيسيًا مع البقوليات والسلطات لغداء متكامل (Taste of Maroc)؛ وفي فطور رمضان بالجديدة، حيث يكون السمك المقلي على المائدة (Hespress)"
+  },
+  "img_alt": {
+   "fr": "Sardines frites, farinées, disposées en rosace avec du citron",
+   "t": "سردين مقلي مغطى بالدقيق، مرتّب على شكل وردة مع الليمون"
+  },
+  "serving": {
+   "fr": "Sers le poisson chaud, aussitôt égoutté : les sardines se mangent de préférence chaudes, avec des tranches de citron (Bladi) ; Cooking With Alia les sert tout de suite, avec un filet de jus de citron. Taste of Maroc les sert aussi tièdes ou à température ambiante, sur un lit de persil ou de salade, avec des quartiers de citron et de la harissa, à côté de haricots blancs à la tomate ou d'une salade concombre-tomate-oignon. Choumicha accompagne sa friture d'une salade verte, de tranches de citron et d'olives m'chermlines. Ne laisse pas le poisson plus de 2 heures hors du réfrigérateur (FDA).",
+   "t": "قدّم السمك ساخنًا فور تصفيته: يُفضَّل أكل السردين ساخنًا، مع شرائح الليمون (Bladi)؛ وتقدّمه Cooking With Alia فورًا، مع قليل من عصير الليمون. وفي Taste of Maroc يُقدَّم أيضًا فاترًا أو بحرارة الغرفة، على فرشة من البقدونس أو الخس، مع أرباع الليمون والهريسة، إلى جانب الفاصوليا البيضاء (اللوبيا) بالطماطم أو سلطة الخيار والطماطم والبصل. وترافق Choumicha قليتها بسلطة خضراء وشرائح الليمون والزيتون المشرمل. لا تترك السمك خارج الثلاجة أكثر من 2 ساعة (FDA)."
+  },
+  "pairs_label": {
+   "fr": "En sandwich",
+   "t": "في سندويتش"
+  },
+  "ing.0.group": {
+   "fr": "Poisson",
+   "t": "السمك"
+  },
+  "ing.sardines.name": {
+   "fr": "de sardines fraîches",
+   "t": "سردين طازج"
+  },
+  "ing.sardines.note": {
+   "fr": "petites de préférence ; à écailler, vider et ouvrir en deux (étape 1)",
+   "t": "يُفضَّل الصغير؛ تُزال قشوره وأحشاؤه ويُفتح إلى نصفين (الخطوة 1)"
+  },
+  "ing.merlans.name": {
+   "fr": "de merlans",
+   "t": "سمك الميرلان"
+  },
+  "ing.merlans.note": {
+   "fr": "à écailler, vider et lever en filets (étape 2), ou déjà en filets chez le poissonnier",
+   "t": "تُزال قشوره وأحشاؤه ويُفصل لحمه إلى فيليه (الخطوة 2)، أو يُشترى فيليه جاهزًا من بائع السمك"
+  },
+  "ing.1.group": {
+   "fr": "Chermoula",
+   "t": "الشرمولة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "بقدونس"
+  },
+  "ing.persil.note": {
+   "fr": "finement haché",
+   "t": "مفروم فرمًا ناعمًا"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "كزبرة"
+  },
+  "ing.coriandre.note": {
+   "fr": "finement hachée",
+   "t": "مفرومة فرمًا ناعمًا"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à peler",
+   "t": "يُقشَّر"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment doux)",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.citron-jus.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron-jus.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron-jus.note": {
+   "fr": "pour le jus ; ou du vinaigre, comme Choumicha",
+   "t": "لعصيرها؛ أو الخل، كما تفعل Choumicha"
+  },
+  "ing.piment-fort.name": {
+   "fr": "piment fort en poudre",
+   "t": "الفلفل الحار المطحون"
+  },
+  "ing.piment-fort.note": {
+   "fr": "facultatif ; Choumicha en met 1 c. à c. pour 1 kg de poisson",
+   "t": "اختياري؛ تضع Choumicha منه 1 ملعقة صغيرة لكل 1 كغ من السمك"
+  },
+  "ing.2.group": {
+   "fr": "Friture",
+   "t": "القلي"
+  },
+  "ing.farine.name": {
+   "fr": "farine",
+   "t": "الدقيق"
+  },
+  "ing.farine.note": {
+   "fr": "pour enrober ; Choumicha en prévoit 100 g pour 1 kg de poisson",
+   "t": "للتغليف؛ تحسب Choumicha منه 100 غ لكل 1 كغ من السمك"
+  },
+  "ing.semoule.name": {
+   "fr": "semoule fine",
+   "t": "السميد الرقيق"
+  },
+  "ing.semoule.note": {
+   "fr": "facultatif, à mélanger à la farine",
+   "t": "اختياري، يُخلط مع الدقيق"
+  },
+  "ing.huile.name": {
+   "fr": "huile de friture",
+   "t": "زيت القلي"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour couvrir au moins la moitié de l'épaisseur du poisson",
+   "t": "ما يكفي لتغطية نصف ارتفاع قطع السمك على الأقل"
+  },
+  "ing.3.group": {
+   "fr": "Service",
+   "t": "التقديم"
+  },
+  "ing.citron-service.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron-service.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron-service.note": {
+   "fr": "en quartiers ou en tranches",
+   "t": "مقطّعة أرباعًا أو شرائح"
+  },
+  "equipment.0": {
+   "fr": "Planche à découper et petit couteau",
+   "t": "لوح تقطيع وسكين صغير"
+  },
+  "equipment.1": {
+   "fr": "Passoire et papier absorbant",
+   "t": "مصفاة وورق ماصّ"
+  },
+  "equipment.2": {
+   "fr": "Mortier et pilon (ou mixeur)",
+   "t": "هاون ومدقّة (أو خلاط)"
+  },
+  "equipment.3": {
+   "fr": "Bol et plat creux pour la marinade, avec un film ou un couvercle",
+   "t": "وعاء وطبق عميق للتتبيلة، مع غلاف بلاستيكي أو غطاء"
+  },
+  "equipment.4": {
+   "fr": "Assiette creuse pour la farine",
+   "t": "صحن عميق للدقيق"
+  },
+  "equipment.5": {
+   "fr": "Friteuse électrique à thermostat, ou grande poêle profonde à bords hauts",
+   "t": "قلّاية كهربائية بمنظّم حرارة، أو مقلاة كبيرة عميقة ذات حواف عالية"
+  },
+  "equipment.6": {
+   "fr": "Couvercle à la taille de la poêle, toujours à portée de main",
+   "t": "غطاء على مقاس المقلاة، في متناول اليد دائمًا"
+  },
+  "equipment.7": {
+   "fr": "Écumoire ou pince",
+   "t": "مغرفة مثقوبة أو ملقط"
+  },
+  "equipment.8": {
+   "fr": "Thermomètre de cuisson (facultatif)",
+   "t": "ميزان حرارة للطبخ (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Écaille et vide les sardines",
+   "t": "أزل قشور السردين ونظّفه"
+  },
+  "steps.0.text": {
+   "fr": "Sous un filet d'eau froide, écaille {{sardines}} de sardines. Coupe la tête, vide le ventre, puis retire l'arête centrale : chaque sardine s'ouvre à plat, en deux filets qui tiennent par le dos. Tu peux aussi demander au poissonnier de le faire.",
+   "t": "تحت خيط رفيع من الماء البارد، أزل قشور {{sardines}} من السردين. اقطع الرأس، وأفرغ البطن، ثم انزع الشوكة الوسطى: تنفتح كل سردينة مسطّحة، على شكل شريحتين متصلتين من جهة الظهر. يمكنك أيضًا أن تطلب ذلك من بائع السمك."
+  },
+  "steps.0.tip": {
+   "fr": "Choisis des sardines brillantes et fermes, avec leurs écailles et des branchies bien rouges, à l'odeur fraîche et légère, jamais forte ni d'ammoniaque.",
+   "t": "اختر سردينًا لامعًا ومتماسكًا، بقشوره، وخياشيمه حمراء زاهية، ورائحته طازجة وخفيفة، لا قوية ولا برائحة الأمونيا أبدًا."
+  },
+  "steps.1.title": {
+   "fr": "Prépare les merlans",
+   "t": "حضّر سمك الميرلان"
+  },
+  "steps.1.text": {
+   "fr": "Écaille {{merlans}} de merlans et vide-les. Coupe la tête et lève les filets, ou demande au poissonnier de le faire.",
+   "t": "أزل قشور {{merlans}} من سمك الميرلان وانزع أحشاءه. اقطع الرأس وافصل الفيليه، أو اطلب ذلك من بائع السمك."
+  },
+  "steps.2.title": {
+   "fr": "Rince et sèche le poisson",
+   "t": "اشطف السمك وجفّفه"
+  },
+  "steps.2.text": {
+   "fr": "Rince rapidement tout le poisson à l'eau froide et laisse-le égoutter dans une passoire. Sèche-le bien avec du papier absorbant. Lave-toi ensuite les mains au savon pendant au moins 20 secondes, puis lave la planche et le couteau à l'eau chaude savonneuse.",
+   "t": "اشطف السمك كله بسرعة بالماء البارد واتركه يتصفّى في مصفاة. جفّفه جيدًا بورق ماصّ. ثم اغسل يديك بالصابون مدة 20 ثانية على الأقل، واغسل لوح التقطيع والسكين بالماء الساخن والصابون."
+  },
+  "steps.2.tip": {
+   "fr": "Un poisson bien sec, c'est plus sûr : l'eau fait bouillonner l'huile chaude, qui peut déborder.",
+   "t": "السمك الجاف جيدًا أكثر أمانًا: الماء يجعل الزيت الساخن يفور، وقد يفيض."
+  },
+  "steps.3.title": {
+   "fr": "Pile l'ail et les herbes",
+   "t": "ادقّ الثوم والأعشاب"
+  },
+  "steps.3.text": {
+   "fr": "Hache très finement {{persil}} de persil et {{coriandre}} de coriandre. Au mortier, écrase {{ail:full}} avec {{sel}} de sel. Ajoute les herbes et pile encore un peu.",
+   "t": "افرم {{persil}} من البقدونس و{{coriandre}} من الكزبرة فرمًا ناعمًا جدًا. في الهاون، اسحق {{ail:full}} مع {{sel}} من الملح. أضف الأعشاب وواصل الدقّ قليلًا."
+  },
+  "steps.3.tip": {
+   "fr": "Hache bien les herbes avant de les piler, sinon la chermoula fait des fils. Pas de mortier ? Un mixeur fait l'affaire.",
+   "t": "افرم الأعشاب جيدًا قبل دقّها، وإلا تكوّنت في الشرمولة خيوط. ليس لديك هاون؟ الخلاط يفي بالغرض."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.4.title": {
+   "fr": "Termine la chermoula",
+   "t": "أكمل تحضير الشرمولة"
+  },
+  "steps.4.text": {
+   "fr": "Mets la pâte dans un bol. Ajoute {{cumin}} de cumin, {{paprika}} de paprika et le jus de {{citron-jus:full}}. Mélange bien. Si tu aimes le piquant, ajoute un peu de {{piment-fort}}.",
+   "t": "ضع الخليط المدقوق في وعاء. أضف {{cumin}} من الكمون و{{paprika}} من الفلفل الأحمر الحلو وعصير {{citron-jus:full}}. اخلط جيدًا. إن كنت تحب الحار، أضف قليلًا من {{piment-fort}}."
+  },
+  "steps.4.tip": {
+   "fr": "Avant de toucher le poisson cru, mets un peu de chermoula de côté dans un petit bol : elle servira de sauce à table ou dans un sandwich.",
+   "t": "قبل أن تلمس السمك النيء، ضع قليلًا من الشرمولة جانبًا في وعاء صغير: ستُستعمل صلصةً على المائدة أو في سندويتش."
+  },
+  "steps.5.title": {
+   "fr": "Colle les sardines deux par deux",
+   "t": "ألصق السردين مثنى مثنى"
+  },
+  "steps.5.text": {
+   "fr": "Pose une sardine ouverte, peau dessous. Étale une bonne couche de chermoula sur la chair, puis couvre avec une deuxième sardine, peau dessus. Presse doucement. Continue avec les autres.",
+   "t": "ضع سردينة مفتوحة وجلدها إلى الأسفل. افرد طبقة جيدة من الشرمولة على اللحم، ثم غطّها بسردينة ثانية وجلدها إلى الأعلى. اضغط برفق. واصل بالباقي."
+  },
+  "steps.5.tip": {
+   "fr": "Il reste une sardine seule ? Garnis-la de chermoula et replie-la sur elle-même.",
+   "t": "بقيت سردينة وحدها؟ احشُها بالشرمولة واطوِها على نفسها."
+  },
+  "steps.6.title": {
+   "fr": "Enrobe les merlans",
+   "t": "غلّف الميرلان بالشرمولة"
+  },
+  "steps.6.text": {
+   "fr": "Étale de la chermoula sur les filets de merlan et referme-les sur eux-mêmes. Frotte aussi l'extérieur des sardines avec le reste de la chermoula.",
+   "t": "افرد الشرمولة على فيليه الميرلان واطوِ كل قطعة على نفسها. وادلك أيضًا السردين من الخارج بباقي الشرمولة."
+  },
+  "steps.7.title": {
+   "fr": "Laisse mariner au frais",
+   "t": "اترك السمك يتتبّل في الثلاجة"
+  },
+  "steps.7.text": {
+   "fr": "Couvre et mets au réfrigérateur au moins 30 minutes. Taste of Maroc laisse mariner au moins 2 heures.",
+   "t": "غطِّه وضعه في الثلاجة 30 دقيقة على الأقل. في Taste of Maroc يُترك في التتبيلة 2 ساعة على الأقل."
+  },
+  "steps.7.timer.label": {
+   "fr": "Marinade",
+   "t": "التتبيلة"
+  },
+  "steps.7.timer.done": {
+   "fr": "La marinade est prête. Passe à la friture.",
+   "t": "التتبيلة جاهزة. انتقل إلى القلي."
+  },
+  "steps.8.title": {
+   "fr": "Prépare la poêle",
+   "t": "حضّر المقلاة"
+  },
+  "steps.8.text": {
+   "fr": "Prends une friteuse à thermostat ou une grande poêle profonde à bords hauts. Verse assez d'{{huile}} pour couvrir au moins la moitié de l'épaisseur du poisson, sans jamais remplir à plus d'un tiers de la hauteur. Garde un couvercle de la bonne taille à portée de main.",
+   "t": "استعمل قلّاية بمنظّم حرارة أو مقلاة كبيرة عميقة ذات حواف عالية. اسكب ما يكفي من {{huile}} لتغطية نصف ارتفاع قطع السمك على الأقل، دون أن يتجاوز الزيت أبدًا ثلث ارتفاع المقلاة. أبقِ غطاءً بالمقاس المناسب في متناول يدك."
+  },
+  "steps.9.title": {
+   "fr": "Fais chauffer l'huile",
+   "t": "سخّن الزيت"
+  },
+  "steps.9.text": {
+   "fr": "Chauffe l'huile progressivement, à feu moyen. Elle doit être bien chaude mais ne jamais fumer : si elle fume, baisse le feu et attends qu'elle refroidisse un peu. Avec une friteuse ou un thermomètre, ne dépasse pas 180 °C. À partir de maintenant, ne quitte plus la poêle des yeux.",
+   "t": "سخّن الزيت تدريجيًا على نار متوسطة. يجب أن يكون ساخنًا جيدًا دون أن يدخّن أبدًا: إذا بدأ يدخّن، اخفض النار وانتظر حتى يبرد قليلًا. إذا كنت تستعمل قلّاية أو ميزان حرارة، فلا تتجاوز 180 درجة مئوية. من الآن فصاعدًا، لا تُبعد عينيك عن المقلاة."
+  },
+  "steps.9.tip": {
+   "fr": "Si l'huile prend feu : ne jette jamais d'eau. Glisse le couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi. Appelle sans attendre les pompiers, même si le feu semble éteint. Si le feu ne s'éteint pas ou s'étend, fais sortir tout le monde, ferme la porte de la cuisine et ne rentre pas.",
+   "t": "إذا اشتعل الزيت: لا ترمِ عليه الماء أبدًا. مرّر الغطاء فوق المقلاة لتغطيتها، وأطفئ الموقد إذا استطعت ذلك دون خطر، ولا تحرّك المقلاة، واترك الغطاء في مكانه حتى تبرد. اتصل برجال الإطفاء فورًا، حتى لو بدا أن النار انطفأت. إذا لم تنطفئ النار أو انتشرت، أخرج الجميع، وأغلق باب المطبخ ولا تعد إلى الداخل."
+  },
+  "steps.10.title": {
+   "fr": "Farine le poisson",
+   "t": "مرّر السمك في الدقيق"
+  },
+  "steps.10.text": {
+   "fr": "Sors le poisson de la marinade et laisse-le égoutter. Juste avant de le frire, passe chaque morceau dans la {{farine}}, des deux côtés. Tu peux mélanger un peu de {{semoule}} à la farine.",
+   "t": "أخرج السمك من التتبيلة واتركه يتصفّى. قبل قليه مباشرة، مرّر كل قطعة في {{farine}} من الجهتين. يمكنك أن تخلط قليلًا من {{semoule}} مع الدقيق."
+  },
+  "steps.11.title": {
+   "fr": "Fais frire la première face",
+   "t": "اقلِ الوجه الأول"
+  },
+  "steps.11.text": {
+   "fr": "Pose délicatement quelques morceaux dans l'huile, sans les serrer. Laisse frire environ 3 minutes, jusqu'à ce que le dessous soit bien doré.",
+   "t": "ضع بعض القطع في الزيت برفق، دون أن تكدّسها. اتركها تُقلى نحو 3 دقائق، حتى يصير وجهها السفلي ذهبيًا جيدًا."
+  },
+  "steps.11.timer.label": {
+   "fr": "Première face",
+   "t": "الوجه الأول"
+  },
+  "steps.11.timer.done": {
+   "fr": "Retourne les morceaux avec une pince ou une écumoire.",
+   "t": "اقلب القطع بملقط أو بمغرفة مثقوبة."
+  },
+  "steps.12.title": {
+   "fr": "Retourne et finis la cuisson",
+   "t": "اقلب القطع وأكمل القلي"
+  },
+  "steps.12.text": {
+   "fr": "Retourne les morceaux et laisse frire encore environ 3 minutes. C'est cuit quand c'est bien doré et que la chair se détache facilement à la fourchette.",
+   "t": "اقلب القطع واتركها تُقلى نحو 3 دقائق أخرى. يكون السمك ناضجًا عندما يصير ذهبيًا جيدًا وينفصل لحمه بسهولة بالشوكة."
+  },
+  "steps.12.tip": {
+   "fr": "Avec un thermomètre à sonde, le poisson est cuit à 63 °C à cœur.",
+   "t": "بميزان حرارة ذي مسبار، يكون السمك ناضجًا عندما تبلغ حرارة قلبه 63 درجة مئوية."
+  },
+  "steps.12.timer.label": {
+   "fr": "Deuxième face",
+   "t": "الوجه الثاني"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bien doré des deux côtés ? Sors le poisson de l'huile.",
+   "t": "ذهبي جيدًا من الجهتين؟ أخرج السمك من الزيت."
+  },
+  "steps.13.title": {
+   "fr": "Égoutte et continue",
+   "t": "صفِّ السمك وواصل"
+  },
+  "steps.13.text": {
+   "fr": "Sors le poisson avec l'écumoire et pose-le sur du papier absorbant. Retire les débris qui flottent dans l'huile, puis fais frire la fournée suivante de la même façon. À la fin, éteins le feu.",
+   "t": "أخرج السمك بالمغرفة المثقوبة وضعه على ورق ماصّ. أزل البقايا الطافية في الزيت، ثم اقلِ الدفعة التالية بالطريقة نفسها. في النهاية، أطفئ الموقد."
+  },
+  "steps.13.tip": {
+   "fr": "Une huile devenue brune ou noire, épaisse, qui mousse ou qui fume est abîmée : ne la réutilise pas, et ne la verse jamais dans l'évier.",
+   "t": "الزيت الذي صار بنيًا أو أسود، أو ثخينًا، أو يكوّن رغوة أو يدخّن، زيت فاسد: لا تُعد استعماله، ولا تسكبه أبدًا في المغسلة."
+  },
+  "steps.13.img.alt": {
+   "fr": "Sardines frites et dorées, posées sur du papier absorbant",
+   "t": "سردين مقلي ذهبي اللون، موضوع على ورق ماصّ"
+  },
+  "steps.13.img.caption": {
+   "fr": "Égoutter sur du papier absorbant",
+   "t": "التصفية على ورق ماصّ"
+  },
+  "steps.14.title": {
+   "fr": "Sers chaud",
+   "t": "قدّمه ساخنًا"
+  },
+  "steps.14.text": {
+   "fr": "Sers tout de suite, avec {{citron-service:full}} en quartiers, une salade verte et des olives.",
+   "t": "قدّمه فورًا مع {{citron-service:full}} مقطّعة أرباعًا، وسلطة خضراء وزيتون."
+  },
+  "steps.14.tip": {
+   "fr": "Ne laisse pas le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C.",
+   "t": "لا تترك السمك المقلي خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية."
+  },
+  "secrets.0.text": {
+   "fr": "Choisis des sardines de moins de 15 cm : plus la sardine est petite, plus sa chair est délicieuse. Elles doivent être brillantes, fermes, garder leurs écailles, avec des branchies rouge carmin et humides.",
+   "t": "اختر سردينًا طوله أقل من 15 سم: كلما صغرت السردينة كان لحمها ألذّ. يجب أن يكون لامعًا ومتماسكًا، محتفظًا بقشوره، وخياشيمه حمراء قانية ورطبة."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha, « La sardine, un trésor de bienfaits » ; Taste of Maroc (Nada Kiffa) : les petites sardines fraîches sont idéales",
+   "t": "Choumicha، «La sardine, un trésor de bienfaits»؛ Taste of Maroc (Nada Kiffa): السردين الصغير الطازج هو الأمثل"
+  },
+  "secrets.1.text": {
+   "fr": "Un poisson frais sent frais et léger, jamais fort, aigre ou l'ammoniaque. Ses yeux sont clairs et brillants, et sa chair ferme reprend sa forme quand tu appuies dessus.",
+   "t": "رائحة السمك الطازج منعشة وخفيفة، وليست أبدًا قوية أو حامضة أو برائحة الأمونيا. عيناه صافيتان ولامعتان، ولحمه متماسك يستعيد شكله عندما تضغط عليه."
+  },
+  "secrets.1.source": {
+   "fr": "FDA, « Selecting and Serving Fresh and Frozen Seafood Safely » ; Choumicha (sardines brillantes et fermes, branchies rouges)",
+   "t": "FDA، «Selecting and Serving Fresh and Frozen Seafood Safely»؛ Choumicha (سردين لامع ومتماسك، وخياشيم حمراء)"
+  },
+  "secrets.2.text": {
+   "fr": "La sardine est très fragile : cuisine-la le jour de l'achat. Au besoin, garde-la 24 heures au plus au réfrigérateur, écaillée, vidée, rincée, essuyée et couverte d'un film, dans un réfrigérateur à 4 °C ou moins.",
+   "t": "السردين سريع التلف جدًا: اطبخه يوم شرائه. وعند الحاجة، احفظه في الثلاجة 24 ساعة على الأكثر، بعد إزالة قشوره وأحشائه وشطفه وتجفيفه وتغطيته بغلاف بلاستيكي، في ثلاجة حرارتها 4 درجات مئوية أو أقل."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha (24 h maximum, le jour même de préférence) ; FDA (produits de la mer gardés à 40 °F, soit 4 °C, ou moins)",
+   "t": "Choumicha (24 ساعة على الأكثر، ويُفضَّل في اليوم نفسه)؛ FDA (المنتجات البحرية تُحفظ في 40 درجة فهرنهايت، أي 4 درجات مئوية، أو أقل)"
+  },
+  "secrets.3.text": {
+   "fr": "Les deux sardines collées par la chermoula s'appellent « mzeouej » (mariées), « machrouk » (associées) ou « ʿachiq w maʿchouq » (les amoureux).",
+   "t": "تُسمّى السردينتان الملتصقتان بالشرمولة «مزوّج» (أي المتزوجتان)، أو «مشروك» (أي المتشاركتان)، أو «عاشق ومعشوق» (أي العاشقان)."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (Nada Kiffa, native de Casablanca) ; SBS (Ellie Bouhadana) : « mzeouejim », qui veut dire « mariés »",
+   "t": "Taste of Maroc (Nada Kiffa، ابنة الدار البيضاء)؛ SBS (Ellie Bouhadana): «mzeouejim»، ومعناها «المتزوجون»"
+  },
+  "secrets.4.text": {
+   "fr": "La vraie chermoula se fait avec des herbes fraîches et de l'ail, pas avec un mélange sec du commerce.",
+   "t": "الشرمولة الحقيقية تُحضَّر بالأعشاب الطازجة والثوم، لا بخليط جاف جاهز من المتجر."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; toutes les recettes marocaines lues (Choumicha, Bladi, Cooking With Alia) utilisent des herbes fraîches",
+   "t": "Taste of Maroc (Nada Kiffa)؛ كل الوصفات المغربية التي اطّلعنا عليها (Choumicha، Bladi، Cooking With Alia) تستعمل أعشابًا طازجة"
+  },
+  "secrets.5.text": {
+   "fr": "Pour le poisson, on aime une chermoula citronnée.",
+   "t": "للسمك، تُحبَّذ شرمولة بالليمون."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Nada Kiffa et Christine Benlafquih) ; Bladi (jus de citron dans « Sardines farcies », « Poisson frits » et « Chermoula pour le poisson » ; sa reprise de la recette de Choumicha est au vinaigre) ; Lalla Moulati (jus de citron, avec un peu de vinaigre, dans sa chermoula pour le poisson)",
+   "t": "Taste of Maroc (Nada Kiffa وChristine Benlafquih)؛ Bladi (عصير الليمون في «Sardines farcies» و«Poisson frits» و«Chermoula pour le poisson»؛ ونقله لوصفة Choumicha بالخل)؛ Lalla Moulati (عصير الليمون، مع قليل من الخل، في شرمولتها للسمك)"
+  },
+  "secrets.6.text": {
+   "fr": "Pile d'abord l'ail avec le sel, puis ajoute les herbes bien hachées : hachées grossièrement, elles donnent une chermoula qui fait des fils.",
+   "t": "ادقّ الثوم مع الملح أولًا، ثم أضف الأعشاب المفرومة جيدًا: إذا فُرمت فرمًا خشنًا، تكوّنت في الشرمولة خيوط."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Bladi, « Chermoula pour le poisson » (coriandre pilée au mortier avec le gros sel et l'ail) ; Choumicha (herbes émincées)",
+   "t": "Taste of Maroc (Nada Kiffa)؛ Bladi، «Chermoula pour le poisson» (كزبرة مدقوقة في الهاون مع الملح الخشن والثوم)؛ Choumicha (أعشاب مفرومة)"
+  },
+  "secrets.7.text": {
+   "fr": "Garde un peu de chermoula propre, mise de côté avant de toucher le poisson cru, pour la servir en sauce : jamais celle qui a touché le poisson cru.",
+   "t": "احتفظ بقليل من الشرمولة النظيفة، تضعه جانبًا قبل أن تلمس السمك النيء، لتقدّمه صلصةً: وليس أبدًا الشرمولة التي لامست السمك النيء."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc (Nada Kiffa aime en garder un peu de côté pour servir avec les grillades, poisson compris, surtout l'été) ; FDA (éviter que les bactéries du poisson cru passent aux aliments prêts à manger)",
+   "t": "Taste of Maroc (تحب Nada Kiffa أن تحتفظ بقليل منها جانبًا لتقدّمه مع المشويات، ومنها السمك، خاصة في الصيف)؛ FDA (تجنّب انتقال بكتيريا السمك النيء إلى الأطعمة الجاهزة للأكل)"
+  },
+  "secrets.8.text": {
+   "fr": "Égoutte et sèche bien le poisson avant la friture : l'eau fait bouillonner et déborder l'huile.",
+   "t": "صفِّ السمك وجفّفه جيدًا قبل القلي: الماء يجعل الزيت يفور ويفيض."
+  },
+  "secrets.8.source": {
+   "fr": "SFDA (Autorité saoudienne des aliments et des médicaments) ; pompiers du Cambridgeshire ; Taste of Maroc et Choumicha (poisson essuyé, séché)",
+   "t": "SFDA (الهيئة العامة للغذاء والدواء في السعودية)؛ مصلحة الإطفاء في Cambridgeshire؛ Taste of Maroc وChoumicha (سمك ممسوح ومجفّف)"
+  },
+  "secrets.9.text": {
+   "fr": "Farine le poisson juste avant de le plonger dans l'huile.",
+   "t": "مرّر السمك في الدقيق قبل وضعه في الزيت مباشرة."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (« passer les poissons dans la farine et les plonger dans un bain d'huile chaude ») ; Taste of Maroc (sortir de la marinade, enrober, frire)",
+   "t": "Choumicha («تمرير السمك في الدقيق ثم غمره في حمّام من الزيت الساخن»)؛ Taste of Maroc (الإخراج من التتبيلة، ثم التغليف، ثم القلي)"
+  },
+  "secrets.10.text": {
+   "fr": "Fais frire par petites quantités, sans serrer les morceaux.",
+   "t": "اقلِ على دفعات صغيرة، دون تكديس القطع."
+  },
+  "secrets.10.source": {
+   "fr": "SBS (Ellie Bouhadana) : par fournées, sans surcharger la poêle ; Bladi, « Beignets de sardines » : par séries de quatre",
+   "t": "SBS (Ellie Bouhadana): على دفعات، دون إثقال المقلاة؛ Bladi، «Beignets de sardines»: على دفعات من أربع"
+  },
+  "secrets.11.text": {
+   "fr": "Chauffe l'huile progressivement, à feu moyen, puis garde-la bien chaude sans fumée.",
+   "t": "سخّن الزيت تدريجيًا على نار متوسطة، ثم حافظ عليه ساخنًا جيدًا دون أن يدخّن."
+  },
+  "secrets.11.source": {
+   "fr": "Bladi, « Merlans frits » (bain d'huile chauffé à feu moyen) ; SFDA (chauffer lentement, sans atteindre le point de fumée) ; Cooking With Alia (feu baissé une fois l'huile chaude)",
+   "t": "Bladi، «Merlans frits» (زيت مسخّن على نار متوسطة)؛ SFDA (التسخين ببطء، دون بلوغ نقطة التدخين)؛ Cooking With Alia (خفض النار بعد أن يسخن الزيت)"
+  },
+  "secrets.12.text": {
+   "fr": "Change l'huile dès qu'elle devient brune ou noire. Une huile foncée, épaisse, qui mousse, qui fume ou qui sent le rance est abîmée. Ne la verse pas dans l'évier.",
+   "t": "غيّر الزيت بمجرد أن يصير بنيًا أو أسود. الزيت الداكن، أو الثخين، أو الذي يكوّن رغوة، أو يدخّن، أو تفوح منه رائحة الزنخ، زيت فاسد. لا تسكبه في المغسلة."
+  },
+  "secrets.12.source": {
+   "fr": "SFDA ; SCAV de Genève, « Information sur les huiles de friture »",
+   "t": "SFDA؛ SCAV de Genève، «Information sur les huiles de friture»"
+  },
+  "secrets.13.text": {
+   "fr": "Au Maroc, le poisson frit se sert souvent avec des haricots blancs à la tomate ou des salades fraîches (concombre, tomate, oignon), ou avec une salade verte, du citron et des olives m'chermlines.",
+   "t": "في المغرب، يُقدَّم السمك المقلي غالبًا مع الفاصوليا البيضاء بالطماطم أو السلطات الطازجة (خيار، طماطم، بصل)، أو مع سلطة خضراء وليمون وزيتون مشرمل."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc (Nada Kiffa) ; Choumicha, « Friture de poissons m'chermel »",
+   "t": "Taste of Maroc (Nada Kiffa)؛ Choumicha، «Friture de poissons m'chermel»"
+  },
+  "mistakes.0": {
+   "fr": "Jeter de l'eau sur de l'huile en feu : ça provoque une explosion de flammes. Glisse un couvercle sur la poêle, coupe le feu si tu peux le faire sans danger, ne déplace pas la poêle et laisse le couvercle jusqu'à ce qu'elle ait refroidi ; appelle sans attendre les pompiers, même si le feu semble éteint, et si le feu continue, fais sortir tout le monde et ferme la porte (USFA ; gouvernement du Québec ; pompiers du Cambridgeshire ; comté du Warwickshire).",
+   "t": "رمي الماء على زيت مشتعل: يسبّب ذلك انفجارًا من اللهب. مرّر غطاءً فوق المقلاة لتغطيتها، وأطفئ الموقد إذا استطعت ذلك دون خطر، ولا تحرّك المقلاة، واترك الغطاء حتى تبرد؛ اتصل برجال الإطفاء فورًا، حتى لو بدا أن النار انطفأت، وإذا استمرت النار، أخرج الجميع وأغلق الباب (USFA؛ حكومة كيبيك؛ مصلحة الإطفاء في Cambridgeshire؛ مقاطعة Warwickshire)."
+  },
+  "mistakes.1": {
+   "fr": "Continuer à chauffer une huile qui fume : baisse le feu et laisse-la refroidir avant d'y mettre le poisson (gouvernement du Québec ; pompiers du Cambridgeshire ; SFDA).",
+   "t": "مواصلة تسخين زيت يدخّن: اخفض النار واتركه يبرد قبل أن تضع فيه السمك (حكومة كيبيك؛ مصلحة الإطفاء في Cambridgeshire؛ SFDA)."
+  },
+  "mistakes.2": {
+   "fr": "Remplir la poêle à plus d'un tiers d'huile (pompiers du Cambridgeshire ; comté du Warwickshire).",
+   "t": "ملء المقلاة بالزيت لأكثر من ثلثها (مصلحة الإطفاء في Cambridgeshire؛ مقاطعة Warwickshire)."
+  },
+  "mistakes.3": {
+   "fr": "Quitter la poêle des yeux pendant la friture, même quelques secondes (pompiers du Cambridgeshire ; comté du Warwickshire ; gouvernement du Québec).",
+   "t": "إبعاد عينيك عن المقلاة أثناء القلي، ولو لبضع ثوانٍ (مصلحة الإطفاء في Cambridgeshire؛ مقاطعة Warwickshire؛ حكومة كيبيك)."
+  },
+  "mistakes.4": {
+   "fr": "Mettre dans l'huile un poisson mouillé ou plein de marinade liquide : l'huile bouillonne et peut déborder (SFDA ; pompiers du Cambridgeshire).",
+   "t": "وضع سمك مبلّل أو مليء بالتتبيلة السائلة في الزيت: يفور الزيت وقد يفيض (SFDA؛ مصلحة الإطفاء في Cambridgeshire)."
+  },
+  "mistakes.5": {
+   "fr": "Serrer trop de morceaux dans la poêle (SBS ; Bladi).",
+   "t": "تكديس قطع كثيرة في المقلاة (SBS؛ Bladi)."
+  },
+  "mistakes.6": {
+   "fr": "Hacher grossièrement les herbes : la chermoula fait des fils (Taste of Maroc ; Choumicha utilise des herbes émincées).",
+   "t": "فرم الأعشاب فرمًا خشنًا: تتكوّن في الشرمولة خيوط (Taste of Maroc؛ Choumicha تستعمل أعشابًا مفرومة)."
+  },
+  "mistakes.7": {
+   "fr": "Servir en sauce une chermoula qui a touché le poisson cru (FDA ; Taste of Maroc).",
+   "t": "تقديم شرمولة لامست السمك النيء على أنها صلصة (FDA؛ Taste of Maroc)."
+  },
+  "mistakes.8": {
+   "fr": "Acheter un poisson qui sent fort, aigre ou l'ammoniaque, ou des sardines ternes et molles (FDA ; Choumicha).",
+   "t": "شراء سمك رائحته قوية أو حامضة أو برائحة الأمونيا، أو سردين باهت ولين (FDA؛ Choumicha)."
+  },
+  "mistakes.9": {
+   "fr": "Laisser le poisson frit plus de 2 heures hors du réfrigérateur, ou plus d'1 heure s'il fait plus de 32 °C (FDA).",
+   "t": "ترك السمك المقلي خارج الثلاجة أكثر من 2 ساعة، أو أكثر من 1 ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (FDA)."
+  },
+  "variants.0": {
+   "fr": "Seulement des sardines farcies : c'est le grand classique de la rue (Taste of Maroc ; Bladi, « Sardines farcies »).",
+   "t": "السردين المحشو فقط: إنه الطبق الكلاسيكي الأبرز في أكل الشارع (Taste of Maroc؛ Bladi، «Sardines farcies»)."
+  },
+  "variants.1": {
+   "fr": "Une seule sardine garnie de chermoula et repliée sur elle-même, au lieu de deux sardines collées (Taste of Maroc).",
+   "t": "سردينة واحدة محشوة بالشرمولة ومطويّة على نفسها، بدل سردينتين ملتصقتين (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Merlans entiers : écaillés, vidés, farcis de chermoula, passés dans la farine tamisée et frits quelques minutes en les retournant, servis avec des quartiers de citron (Bladi, « Merlans frits »).",
+   "t": "سمك الميرلان كاملًا: تُزال قشوره وأحشاؤه، ويُحشى بالشرمولة، ويُمرَّر في الدقيق المنخول ويُقلى بضع دقائق مع قلبه، ويُقدَّم مع أرباع الليمون (Bladi، «Merlans frits»)."
+  },
+  "variants.3": {
+   "fr": "Chinchard entier enduit de marinade (persil, ail, cumin, paprika, citron) dehors et un peu dedans, puis fariné et frit (Bladi, « Poisson frits »).",
+   "t": "سمك الشينشار (chinchard) كاملًا، يُدهن بالتتبيلة (بقدونس، ثوم، كمون، فلفل أحمر حلو، ليمون) من الخارج وقليلًا من الداخل، ثم يُمرَّر في الدقيق ويُقلى (Bladi، «Poisson frits»)."
+  },
+  "variants.4": {
+   "fr": "Chermoula au vinaigre au lieu du citron (Choumicha), ou plus piquante avec du piment fort (Choumicha) ou de la harissa (Taste of Maroc).",
+   "t": "شرمولة بالخل بدل الليمون (Choumicha)، أو أكثر حرارة بالفلفل الحار (Choumicha) أو بالهريسة (Taste of Maroc)."
+  },
+  "variants.5": {
+   "fr": "Chermoula à l'huile d'olive (Taste of Maroc ; Cooking With Alia ; Bladi, « Chermoula pour le poisson »).",
+   "t": "شرمولة بزيت الزيتون (Taste of Maroc؛ Cooking With Alia؛ Bladi، «Chermoula pour le poisson»)."
+  },
+  "variants.6": {
+   "fr": "Chermoula du Nord : avec du thym, du poivre noir et beaucoup de persil plat (Taste of Maroc).",
+   "t": "شرمولة الشمال: بالزعتر والفلفل الأسود وكثير من البقدونس (Taste of Maroc)."
+  },
+  "variants.7": {
+   "fr": "Chermoula au citron confit (SBS, Ellie Bouhadana ; Taste of Maroc, en option).",
+   "t": "شرمولة بالليمون المخلل (الحامض المصيّر)، عند SBS (Ellie Bouhadana) وعند Taste of Maroc اختياريًا."
+  },
+  "variants.8": {
+   "fr": "Enrobage farine et semoule (SBS, Ellie Bouhadana) ou farine et farine de blé dur (Taste of Maroc).",
+   "t": "تغليف بالدقيق والسميد (SBS، Ellie Bouhadana) أو بالدقيق ودقيق القمح الصلب (Taste of Maroc)."
+  },
+  "variants.9": {
+   "fr": "Beignets de sardines : sardines nettoyées, sans tête ni arête centrale, trempées dans une pâte (œuf, farine, huile, eau glacée) et frites 5 minutes par séries de quatre (Bladi).",
+   "t": "سردين مقلي بالعجين: سردين منظّف، دون رأس ولا شوكة وسطى، يُغمس في عجينة سائلة (بيض، دقيق، زيت، ماء مثلّج) ويُقلى 5 دقائق على دفعات من أربع (Bladi)."
+  },
+  "variants.10": {
+   "fr": "À El Jadida, les fritures de poissons font partie du f'tour du ramadan (Hespress, 2021).",
+   "t": "في الجديدة، يُعدّ السمك المقلي جزءًا من فطور رمضان (Hespress، 2021)."
+  }
+ }
+}

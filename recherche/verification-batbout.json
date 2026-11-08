@@ -1,0 +1,116 @@
+{
+  "slug": "batbout",
+  "verdict": "conforme avec corrections",
+  "sources_ajoutees": [
+    {
+      "name": "Choumicha (site officiel), « Batbot », rubrique Saveurs du Maroc ; copie web.archive.org du 20 mai 2018",
+      "url": "https://web.archive.org/web/20180520143744/http://choumicha.ma/recette/387-batbot.html",
+      "ce_qu_elle_confirme": "Source marocaine que l'auteur n'avait pas pu lire : 250 g de farine de blé dur et 250 g de farine, 1 c. à café de sel et 30 cl d'eau tiède pour 500 g de farine, soit exactement le sel et l'eau retenus (60 %) ; 10 g de levure fraîche diluée dans un peu d'eau tiède, sans sucre ni huile ; pétrissage de 10 min jusqu'à une pâte souple et malléable ; levée au tiède jusqu'à doubler, puis abaisses de 0,5 cm découpées à l'emporte-pièce et reposées 10 min ; cuisson des deux côtés dans une poêle à fond épais, à feu moyen à vif. Confirme aussi le nom « Batbot » (mots clés : batbot, batbout)."
+    },
+    {
+      "name": "Taste of Maroc, page « About » ; copie web.archive.org du 28 juin 2026",
+      "url": "https://web.archive.org/web/20260628202229/https://tasteofmaroc.com/about/",
+      "ce_qu_elle_confirme": "Biographie citée dans sources[0] : Christine Benlafquih a fondé Taste of Maroc ; experte cuisine marocaine d'About.com, devenu The Spruce Eats, de 2008 à 2016 ; elle élevait alors six enfants au Maroc, avec une vie quotidienne à Casablanca ; elle a lancé Taste of Casablanca. La page précise aussi que sa maison aux États-Unis est en Virginie du Nord."
+    },
+    {
+      "name": "My Moroccan Food, page « About »",
+      "url": "https://www.mymoroccanfood.com/about",
+      "ce_qu_elle_confirme": "Biographie citée dans sources[1] : Nargisse Benkabbou a été élevée à Bruxelles dans une famille marocaine, a été cheffe exécutive de L'Mida Marrakech et a écrit « Casablanca: My Moroccan Food »."
+    },
+    {
+      "name": "MarocMama, page d'accueil (présentation de l'autrice)",
+      "url": "https://marocmama.com/",
+      "ce_qu_elle_confirme": "Biographie citée dans sources[9] : Amanda Mouttaki se présente comme une Américaine mariée à un Marocain depuis près de 20 ans, installée au Maroc depuis 13 ans."
+    }
+  ],
+  "corrections": [
+    {
+      "champ": "mistakes[5]",
+      "actuel": "(My Moroccan Food ; MarocMama)",
+      "propose": "(My Moroccan Food)",
+      "pourquoi": "MarocMama ajoute « le reste de l'eau » en une fois, puis corrige avec un peu de farine si la pâte colle, ou un peu d'eau si elle est ferme : elle ne met pas en garde contre l'eau versée d'un coup. Seule My Moroccan Food conseille de verser l'eau peu à peu pour que la pâte ne devienne pas trop collante.",
+      "gravite": "mineure",
+      "sources": "MarocMama, « Batbout – Moroccan Pita Bread », instructions 2 et 3 ; My Moroccan Food, « Batbout + Quick Chicken Tagine Filling »"
+    },
+    {
+      "champ": "variants[2]",
+      "actuel": "quatre boules roulées dans la semoule moyenne",
+      "propose": "quatre boules saupoudrées de semoule moyenne",
+      "pourquoi": "Bladi.net écrit « Saupoudrer les boules de pâte avec de la semoule moyenne » : les boules ne sont pas roulées dans la semoule.",
+      "gravite": "mineure",
+      "sources": "Bladi.net, « Batbout », étape 3"
+    },
+    {
+      "champ": "steps[1].text",
+      "actuel": "Arrête-toi si elle devient collante.",
+      "propose": "Arrête d'ajouter de l'eau si elle devient collante.",
+      "pourquoi": "« Arrête-toi » ne dit pas ce qu'il faut arrêter : phrase ambiguë, à préciser avant la traduction. Le sens attendu est celui de My Moroccan Food : verser l'eau peu à peu pour que la pâte ne devienne pas trop collante.",
+      "gravite": "mineure",
+      "sources": "My Moroccan Food, « Batbout + Quick Chicken Tagine Filling »"
+    },
+    {
+      "champ": "steps[4].tip",
+      "actuel": "découper des ronds avec un verre, comme Morocco World News et Cooking with Alia",
+      "propose": "découper des ronds avec un verre ou un emporte-pièce, comme Morocco World News et Cooking with Alia",
+      "pourquoi": "Cooking with Alia découpe avec un emporte-pièce rond (« round cookie-cutter »), pas avec un verre ; Morocco World News donne l'emporte-pièce ou le verre, Taste of Maroc aussi (« a glass or other biscuit cutter »). L'équipement de la recette cite déjà les deux.",
+      "gravite": "mineure",
+      "sources": "Cooking with Alia ; Morocco World News, 24 novembre 2019 ; Taste of Maroc (notes de la fiche)"
+    },
+    {
+      "champ": "sources[4].name",
+      "actuel": "« 773- Batbout / بطبوط »",
+      "propose": "« Batbout / بطبوط »",
+      "pourquoi": "Le titre de la page (balise title et données de la fiche) est « Batbout / بطبوط » ; « 773 » n'apparaît que dans l'adresse de la page.",
+      "gravite": "mineure",
+      "sources": "Cooking with Alia, page lue le 8 novembre 2026 (datePublished 2020-02-27)"
+    },
+    {
+      "champ": "sources[7].used_for",
+      "actuel": "200 g de blé dur ou de fino",
+      "propose": "200 g de « farine de blé » (دقيق القمح) ou de fino",
+      "pourquoi": "Cette recette écrit « 200 غ دقيق القمح أو الفينو », sans « الصلب » (blé dur), à la différence des deux autres recettes de Lalla Moulati, qui écrivent « دقيق القمح الصلب ».",
+      "gravite": "mineure",
+      "sources": "Lalla Moulati, 369849.html (29 mai 2023), comparée à 363905.html et 362821.html"
+    },
+    {
+      "champ": "unverified[0]",
+      "actuel": "Choumicha : seule la page qui liste ses recettes de batbout (copie web.archive.org du 4 juillet 2017) a pu être lue. Ses fiches « Batbot » et « Batbot ou Pain Metlouâ » n'ont pas pu être ouvertes : le 8 novembre 2026, web.archive.org a bloqué mes requêtes (erreur 429, « trafic de robot suspect »). Je n'ai pas contourné ce blocage. Ses quantités ne sont donc pas connues.",
+      "propose": "Choumicha : la page qui liste ses recettes de batbout (copie web.archive.org du 4 juillet 2017) et sa fiche « Batbot » (copie du 20 mai 2018, lue à la contre-vérification : 250 g de farine de blé dur, 250 g de farine, 1 c. à c. de sel, 10 g de levure fraîche, 30 cl d'eau tiède) ont pu être lues. Sa fiche « Batbot ou Pain Metlouâ » n'a pas été ouverte : le 8 novembre 2026, web.archive.org a bloqué plusieurs requêtes (erreur 429, « trafic de robot suspect ») et ce blocage n'a pas été contourné.",
+      "pourquoi": "La fiche « Batbot » de Choumicha a pu être lue le 8 novembre 2026 (copie web.archive.org du 20 mai 2018) : ses quantités sont maintenant connues. Elles confirment le sel (1 c. à c.) et l'eau (300 ml) retenus pour 500 g de farine. Pense aussi à ajouter cette fiche dans « sources » (voir sources_ajoutees).",
+      "gravite": "mineure",
+      "sources": "Choumicha, « Batbot », https://web.archive.org/web/20180520143744/http://choumicha.ma/recette/387-batbot.html"
+    }
+  ],
+  "verifie_sans_correction": [
+    "Liens : les 11 adresses de « sources » répondent (HTTP 200) le 8 novembre 2026. Le site tasteofmaroc.com en direct renvoie 403 (pare-feu « Blocked because of Malicious Activities ») ; la copie web.archive.org du 28 juin 2026 citée répond et contient la fiche complète : relevé curl.",
+    "robots.txt : tasteofmaroc.com, bladi.net, cookingwithalia.com, marocmama.com, lalamoulati.net et moroccoworldnews.com (Crawl-delay de 120 s respecté) autorisent les pages lues. mymoroccanfood.com range ClaudeBot et anthropic-ai dans le même groupe que *, qui n'interdit que /config, /search, /account, /api, /static et des pages à paramètres : les pages de recettes sont permises. yabiladi.com interdit ClaudeBot : non lu, comme l'auteur.",
+    "Taste of Maroc (copie du 28 juin 2026) : noms batbout, mkhamer, toghrift, matlou' et les deux sens de mkhamer (poêle huilée ; batbout épais sans poche, au beurre et au miel) ; « Durum flour or fine semolina is essential » ; pas plus de la moitié de farine blanche ; huile facultative (« many Moroccans make it without ») ; valeurs métriques des données de la fiche : 375 g, 384 g, 120 g, 1 c. à s. de levure, 2 c. à s. de sucre, 2 c. à c. de sel, 3 c. à s. d'huile, 500 ml d'eau ; 20 batbout de 10 cm ; préparation 20 min, cuisson 10 min, repos 1 h 15 ; publiée le 27 août 2017, modifiée le 11 février 2021.",
+    "Taste of Maroc, déroulé et notes : boules de la taille d'une prune, au moins un pouce (2,5 cm) entre elles, repos 10 à 15 min ; disques de 1/8 de pouce (0,3 cm) sur un drap ou un torchon de coton, levée d'1 heure ou un peu plus ; poêle à feu moyen chauffée plusieurs minutes jusqu'à très chaude, 5 min pour sa double plaque ; premier retournement après 10 à 15 s, avant les bulles, puis plusieurs ; manipulation douce ; vapeur brûlante d'une fente ; temps chaud (2 c. à c. de levure) ou froid ; trop épais = pas de poche, l'ouvrir au couteau ; découpe au verre et chutes reposées 10 à 15 min ; grille ou panier garni d'un torchon ; congeler une fois complètement refroidis ; baisser un peu le feu si ça colore trop vite.",
+    "Taste of Maroc, réponse de Christine Benlafquih du mercredi 25 août 2021 (jour recalculé) : le sucre aide à dorer, au goût, à une levée plus rapide et à la formation de la poche, et rend la mie plus tendre. Ramadan : batbout de 5 cm farcis, servis en bouchées. Service : kefta, boulfaf, beurre, miel, confiture, fromage frais (« cream cheese »).",
+    "My Moroccan Food (22 avril 2016) : 14 batbout de 7 cm ; 100 g de farine et 100 g de semoule, 1 c. à c. de levure, de sucre et de sel, 1 c. à s. d'huile, 120 à 170 ml d'eau versée peu à peu ; levure 5 min avec ½ c. à c. de sucre ; pétrissage 10 à 15 min ; 14 boules reposées 20 min ; disques de 0,5 cm semoulés, levée d'1 heure jusqu'à doubler, espacés ; poêle légèrement huilée à feu moyen-vif ; plusieurs retournements ; ne pas aplatir pendant la cuisson ; tiède ou froid ; farce au poulet, citron confit, olives vertes et oignons nouveaux.",
+    "Morocco World News (Layla Dahamou, Fès, 24 novembre 2019) : 250 g de farine blanche et 250 g de « wheat flour », 1 c. à s. de levure, 1 c. à s. de sucre, 1 c. à c. de sel, 2 c. à s. d'huile d'olive, environ 300 ml d'eau ; pétrissage 5 à 10 min ; pâte levée 30 à 40 min ; découpe à l'emporte-pièce ou au verre ; levée d'1 heure ou plus sous un torchon ; poêle épaisse à feu moyen, sans huile, plusieurs retournements ; fente sur le bord pour farcir ; ftour du ramadan ; farces (légumes cuits, salade, thon, fromage ; poulet, oignon, poivrons vert, rouge et jaune ; sauce au yaourt, sel et citron) ; nature avec huile d'olive et miel, ou avec un tajine.",
+    "Bladi.net (Laila M., 28 août 2007, mise à jour le 8 mars 2021) : 1 kg de semouline, 25 g de levure de bière, ½ c. à c. de sel, 50 cl d'eau, 40 g de semoule moyenne ; pétrissage d'une vingtaine de minutes ; 4 boules aplaties à la main à 1,5 cm ; un linge dessous, un autre dessus, levée d'environ 1 heure ; cuisson une à une sur un plat en fonte chauffé à l'avance ; aucune matière grasse.",
+    "Cooking with Alia (Alia Al Kasimi, publiée le 27 février 2020) : بطبوط ; 250 g de farine, 125 g de fino, ½ c. à c. de sel, 1 c. à c. de levure, 220 ml d'eau tiède, sans sucre ni huile ; pétrissage d'environ 10 min, pâte souple mais pas collante ; repos 30 min ; ronds découpés ; poêle antiadhésive chaude à feu moyen ; quelques minutes par face en retournant plusieurs fois, jusqu'à gonfler et dorer par taches ; préparation 20 min et cuisson 20 min (données de la fiche).",
+    "Lalla Moulati : 363905 (13 avril 2023 : 625 g de farine blanche, 375 g de blé dur ou fino, 2 c. à s. d'huile, 1 c. à s. de levure, 1 c. à s. de sucre, sel, eau tiède, méthode en vidéo) ; 362821 (5 avril 2023, « من مطبخ تيما » : 600 g et 300 g, mêmes cuillerées) ; 369849 (29 mai 2023 : 400 g et 200 g, 1 c. à s. de levure, de sucre, de lait en poudre et d'huile, 1 c. à c. de sel) ; 367866 (14 mai 2023 : moitié de la pâte dans une poêle légèrement huilée, farce poivron, courgette, oignons, fromage, épices, autre moitié dessus, bords bien fermés, cuisson des deux côtés à feu doux). Le site se décrit comme un site marocain d'élégance et de recettes pour la femme marocaine.",
+    "MarocMama (fiche datée du 14 mai 2019 dans les données de la page ; article de 2009 mis à jour en 2022) : 4 tasses de farine blanche, 2 de semoule ou de farine de blé, 2 c. à s. et 1 c. à c. de sucre, 2 c. à c. de sel, 3 c. à s. d'huile, 1 c. à s. de levure, environ 2 tasses d'eau ; levure 5 à 10 min ; pétrissage d'environ 10 min, au robot possible ; boules reposées 10 min ; disques de 1/8 de pouce sur un torchon sec, levée d'1 h à 1 h 30 ; poêle déjà chaude pour la poche ; feu moyen, couleur irrégulière normale ; empiler chauds ; 10 à 12 pains ; cuisson 45 min.",
+    "MarocMama, suite : réfrigérateur quelques jours dans un sac fermé, congélation une fois complètement refroidis, réchauffage quelques minutes à la poêle ou au four ; variante frite puis enrobée de miel et de beurre ; œufs au petit-déjeuner, salades marocaines, mini batbout farcis presque toujours sur la table du ramadan ; réponses de l'autrice du lundi 19 août 2019 (levure, levée, baisser le feu, planche fine) et du vendredi 26 avril 2019 (3 à 4 mois au congélateur) ; jours recalculés.",
+    "Choumicha (liste du 4 juillet 2017) : titres « Batbot », « Batbot ou Pain Metlouâ », « Batbots farcis au fromage et au cacher », « Batbots farcis au Khliï » et « Batbots farcis au poulet ».",
+    "Calculs refaits avec python3 -I : farine blanche de 0 à 66,7 %, médiane 56,6 %, et semoule médiane 37,5 % sur les 9 recettes ; pour 500 g de farine, levure médiane 1,70 c. à c., sucre 2,5 c. à c., sel 1,0 c. à c., huile 1,11 c. à s. ; eau de 50 à 85 %, médiane 57,8 % ; 1/8 de pouce = 0,318 cm. Les valeurs de la recette (60 % de farine blanche, 1¾ c. à c. de levure, 2½ de sucre, 1 de sel, 1 c. à s. d'huile, 60 % d'eau) sont dans la fourchette des sources ; la fiche Choumicha (50 %, 1 c. à c. de sel, 60 % d'eau) ne change pas les médianes de sel et d'eau.",
+    "Poids de pâte : recette ≈ 835 g, soit 69,6 g par pain pour 12 ; Taste of Maroc ≈ 1,47 kg, soit 73 g par pain pour 20 ; MarocMama ≈ 1,47 kg, soit 123 à 148 g pour 10 à 12 ; My Moroccan Food ≈ 372 g, soit 26,6 g pour 14 (calcul python, mêmes équivalences de tasses que l'auteur).",
+    "Rendu dans l'appli (simulation du code de fmtQ et fill de app.html) : pour 1 pain, 25 g de farine, 17 g de semoule, ⅛ c. à c. de levure, ¼ c. à c. de sucre, ⅛ c. à c. de sel, ⅛ c. à s. d'huile, 25 ml d'eau ; pour 12 pains, 300 g, 200 g, 1¾ c. à c., 2½ c. à c., 1 c. à c., 1 c. à s., 300 ml ; pour 24 pains, 600 g, 400 g, 3½ c. à c., 5 c. à c., 2 c. à c., 2 c. à s., 600 ml. La semoule d'étalage (q null) affiche son nom ; aucun {{id}} inconnu ; aucune balise :full ; les phrases restent correctes aux trois tailles.",
+    "Cohérence interne : minuteurs de 5, 10, 10 et 60 min identiques aux textes ; repos 70 min = 10 + 60 ; préparation de 20 min (Taste of Maroc, Cooking with Alia) pour 15 min de minuteurs ; cuisson de 20 min (Cooking with Alia) ; quantités de steps[0] et steps[1] identiques à la liste ; catégorie Pain, pas Rapide.",
+    "Halal : farine, semoule, levure, sucre, sel, huile et eau, sans porc ni alcool ; la note sur la viande halal et le fromage à coagulant microbien figure dans steps[9].tip (« Ouvre et garnis »), dans serving et dans variants[7] ; la farce de Morocco World News contient de la sauce soja, non reprise dans la recette.",
+    "Sécurité alimentaire : pain cuit à sec, sans viande ni œuf dans la recette de base ; conservation au réfrigérateur dans un sac fermé et congélation une fois refroidis, comme MarocMama et Taste of Maroc ; risque de brûlure par la vapeur signalé (Taste of Maroc) ; aucune affirmation de santé.",
+    "Noms : بطبوط (Cooking with Alia, Lalla Moulati) ; batbout, mkhamer, toghrift, matlou' (Taste of Maroc) ; « Batbot » et « pain metlouâ » (titres Choumicha).",
+    "Biographies des sources : Christine Benlafquih (page About de Taste of Maroc) ; Nargisse Benkabbou (page About de My Moroccan Food) ; Amanda Mouttaki (accueil de MarocMama) : voir sources_ajoutees."
+  ],
+  "non_verifiable": [
+    "Recherche web indisponible (quota épuisé) : pas de recherche large d'autres sources. Seules les pages citées, leurs copies web.archive.org, les pages « About » et les fiches Choumicha ont été ouvertes.",
+    "Choumicha : robots.txt illisible (site en erreur 525 le 8 novembre 2026 ; copie web.archive.org de ce robots.txt refusée par une erreur 429, « trafic de robot suspect », à 01 h 47). Choumicha est lue via web.archive.org, comme le prévoient les consignes. La fiche « Batbot ou Pain Metlouâ » n'a pas été ouverte, pour ne pas multiplier les requêtes après ce blocage, qui n'a pas été contourné.",
+    "web.archive.org a renvoyé une seconde erreur 429 à 02 h 10 (plan du site de Taste of Maroc) ; blocage non contourné.",
+    "Lalla Moulati : méthodes en vidéo, non regardées.",
+    "Rendement réel (12 pains), diamètre final et durées de préparation et de cuisson : non testés.",
+    "Levure sèche active ou instantanée, et équivalence avec les 10 g de levure fraîche de Choumicha : aucune source officielle consultée.",
+    "Nationalité de l'autrice de Cooking with Alia : non vérifiée."
+  ]
+}

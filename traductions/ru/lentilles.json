@@ -1,0 +1,582 @@
+{
+ "_slug": "lentilles",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Lentilles à la marocaine, à l'agneau et aux légumes",
+   "t": "Чечевица по-мароккански с бараниной и овощами"
+  },
+  "darija": {
+   "fr": "Adess bel lham (l'3des)",
+   "t": "Адес бель лхам (l'3des)"
+  },
+  "tagline": {
+   "fr": "Les lentilles, plat d'hiver des familles marocaines, ici mijotées avec de l'agneau, des carottes et des pommes de terre, dans une sauce tomate au cumin et au paprika, à saucer avec du pain.",
+   "t": "Чечевица — зимнее блюдо марокканских семей; здесь её тушат с бараниной, морковью и картофелем в томатном соусе с кумином (зирой) и паприкой, а соус собирают хлебом."
+  },
+  "region": {
+   "fr": "Tout le Maroc (Morocco World News 2019 : plat apprécié dans tout le pays en hiver)",
+   "t": "По всему Марокко (Morocco World News 2019: зимой это блюдо любят по всей стране)"
+  },
+  "occasion": {
+   "fr": "Plat familial du quotidien, surtout en hiver ; servi en plat principal, avec du pain (Morocco World News 2019 et 2020 ; blog Mamatkamal)",
+   "t": "Повседневное семейное блюдо, особенно зимой; его подают как основное блюдо, с хлебом (Morocco World News 2019 и 2020; блог Mamatkamal)"
+  },
+  "img_alt": {
+   "fr": "Lentilles aux pommes de terre et aux carottes dans un plat décoré, photographiées au Maroc",
+   "t": "Чечевица с картофелем и морковью в расписном блюде, снято в Марокко"
+  },
+  "serving": {
+   "fr": "Bien chaud, en plat principal, avec du khobz pour saucer, ou à la cuillère (Morocco World News 2019 et 2020 ; My Moroccan Food ; Cooking With Alia). À côté : des quartiers de citron (Bladi ; blog Mamatkamal ; My Moroccan Food) et, pour ceux qui aiment, de la harissa ou du piment fort (My Moroccan Food ; blog Mamatkamal).",
+   "t": "Очень горячей, как основное блюдо, с хобзом (марокканским хлебом), чтобы собирать соус, или ложкой (Morocco World News 2019 и 2020; My Moroccan Food; Cooking With Alia). Рядом — дольки лимона (Bladi; блог Mamatkamal; My Moroccan Food) и, для любителей, харисса или острый перец (My Moroccan Food; блог Mamatkamal)."
+  },
+  "ing.0.group": {
+   "fr": "Viande",
+   "t": "Мясо"
+  },
+  "ing.agneau.name": {
+   "fr": "d'agneau désossé (épaule ou collier)",
+   "t": "баранины без костей (лопатка или шея)"
+  },
+  "ing.agneau.note": {
+   "fr": "halal ; en morceaux d'environ 3 cm, sans l'excès de gras",
+   "t": "халяль; кусками около 3 см, без лишнего жира"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "Соус"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon",
+   "t": "луковица крупного размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons",
+   "t": "луковицы крупного размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "натереть на тёрке"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher finement",
+   "t": "мелко порубить"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne bien mûre",
+   "t": "помидор среднего размера"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes bien mûres",
+   "t": "помидора среднего размера"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne bien mûre / tomates moyennes bien mûres",
+   "t": "помидоров среднего размера"
+  },
+  "ing.tomates.note": {
+   "fr": "chair râpée, sans la peau",
+   "t": "очень спелые; натереть мякоть, без кожицы"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "томатной пасты"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "уточните по вкусу в конце приготовления"
+  },
+  "ing.cayenne.name": {
+   "fr": "une pincée de piment de Cayenne",
+   "t": "щепотка кайенского перца"
+  },
+  "ing.cayenne.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.eau-bouillante.name": {
+   "fr": "un peu d'eau bouillante",
+   "t": "немного кипятка"
+  },
+  "ing.eau-bouillante.note": {
+   "fr": "seulement si la sauce réduit trop",
+   "t": "только если соус слишком уварится"
+  },
+  "ing.2.group": {
+   "fr": "Lentilles et légumes",
+   "t": "Чечевица и овощи"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles vertes ou brunes",
+   "t": "зелёной или коричневой чечевицы"
+  },
+  "ing.lentilles.note": {
+   "fr": "sèches ; pas de lentilles corail",
+   "t": "сухой; красная чечевица не подходит"
+  },
+  "ing.carottes.name": {
+   "fr": "carotte moyenne",
+   "t": "морковь среднего размера"
+  },
+  "ing.carottes.pl": {
+   "fr": "carottes moyennes",
+   "t": "моркови среднего размера"
+  },
+  "ing.carottes.pl5": {
+   "fr": "carotte moyenne / carottes moyennes",
+   "t": "морковей среднего размера"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "petite pomme de terre",
+   "t": "картофелина небольшого размера"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "petites pommes de terre",
+   "t": "картофелины небольшого размера"
+  },
+  "ing.pommes-de-terre.pl5": {
+   "fr": "petite pomme de terre / petites pommes de terre",
+   "t": "картофелин небольшого размера"
+  },
+  "ing.3.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citron.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "хобз (марокканский хлеб)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "чтобы собирать соус"
+  },
+  "equipment.0": {
+   "fr": "Grande cocotte ou marmite à fond épais, avec couvercle",
+   "t": "Большая кастрюля с толстым дном (или чугунная) с крышкой"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Дуршлаг"
+  },
+  "equipment.2": {
+   "fr": "Râpe",
+   "t": "Тёрка"
+  },
+  "equipment.3": {
+   "fr": "Une planche réservée à la viande crue, une autre pour les légumes et les herbes",
+   "t": "Доска только для сырого мяса и другая — для овощей и зелени"
+  },
+  "equipment.4": {
+   "fr": "Couteau et éplucheur",
+   "t": "Нож и овощечистка"
+  },
+  "equipment.5": {
+   "fr": "Bol d'eau froide, pour les pommes de terre",
+   "t": "Миска с холодной водой для картофеля"
+  },
+  "equipment.6": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "steps.0.title": {
+   "fr": "Trie et lave les lentilles",
+   "t": "Переберите и промойте чечевицу"
+  },
+  "steps.0.text": {
+   "fr": "Trie {{lentilles}} de lentilles pour retirer les petits cailloux. Lave-les dans une passoire et laisse-les égoutter.",
+   "t": "Переберите {{lentilles}} чечевицы, чтобы убрать мелкие камешки. Промойте её в дуршлаге и дайте стечь воде."
+  },
+  "steps.0.tip": {
+   "fr": "Pas besoin de trempage : les recettes avec viande de Choumicha et de My Moroccan Food mettent les lentilles sèches. Si tu les as fait tremper, elles cuiront plus vite : surveille-les. Sans trempage, les lentilles brunes du Maroc peuvent demander bien plus de 40 minutes (1 h 30 à 2 h à la marmite selon le blog Mamatkamal) : goûte-les avant d'ajouter les pommes de terre.",
+   "t": "Замачивать не нужно: в рецептах с мясом у Choumicha и My Moroccan Food чечевицу кладут сухой. Если вы её замочили, она сварится быстрее: следите за ней. Без замачивания марокканской коричневой чечевице может понадобиться гораздо больше 40 минут (по блогу Mamatkamal — 1 ч 30 мин – 2 ч в кастрюле): попробуйте её, прежде чем добавлять картофель."
+  },
+  "steps.1.title": {
+   "fr": "Coupe l'agneau",
+   "t": "Нарежьте баранину"
+  },
+  "steps.1.text": {
+   "fr": "Sur une planche réservée à la viande crue, retire l'excès de gras de {{agneau}} d'agneau et coupe-le en morceaux d'environ 3 cm.",
+   "t": "На доске для сырого мяса срежьте лишний жир с {{agneau}} баранины и нарежьте её кусками около 3 см."
+  },
+  "steps.1.tip": {
+   "fr": "Garde une autre planche pour les légumes et les herbes (Anses).",
+   "t": "Для овощей и зелени используйте другую доску (Anses)."
+  },
+  "steps.2.title": {
+   "fr": "Prépare oignon, tomates et ail",
+   "t": "Подготовьте лук, помидоры и чеснок"
+  },
+  "steps.2.text": {
+   "fr": "Râpe l'oignon ({{oignon:full}}). Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Hache finement l'ail ({{ail:full}}).",
+   "t": "Натрите лук на тёрке ({{oignon:full}}). Разрежьте помидоры пополам ({{tomates:full}}), натрите мякоть, а кожицу выбросьте. Мелко порубите чеснок ({{ail:full}})."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Как натереть помидор"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "Порубите зелень"
+  },
+  "steps.3.text": {
+   "fr": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Вымойте петрушку и кинзу, обсушите и мелко порубите: вам понадобится {{persil}} петрушки и {{coriandre}} кинзы."
+  },
+  "steps.4.title": {
+   "fr": "Épluche les légumes",
+   "t": "Очистите овощи"
+  },
+  "steps.4.text": {
+   "fr": "Épluche les carottes ({{carottes:full}}) et coupe-les en morceaux réguliers. Épluche les pommes de terre ({{pommes-de-terre:full}}), coupe-les en gros morceaux et garde-les dans un bol d'eau froide jusqu'au moment de les cuire.",
+   "t": "Очистите морковь ({{carottes:full}}) и нарежьте её одинаковыми кусочками. Очистите картофель ({{pommes-de-terre:full}}), нарежьте крупными кусками и держите в миске с холодной водой до тех пор, пока не придёт время его варить."
+  },
+  "steps.4.tip": {
+   "fr": "Ne coupe pas les pommes de terre trop petites : elles se déferaient dans la sauce (Cooking With Alia).",
+   "t": "Не режьте картофель слишком мелко: он разварится в соусе (Cooking With Alia)."
+  },
+  "steps.5.title": {
+   "fr": "Fais dorer l'agneau",
+   "t": "Обжарьте баранину"
+  },
+  "steps.5.text": {
+   "fr": "Dans la cocotte, chauffe {{huile}} d'huile d'olive à feu moyen. Fais dorer les morceaux d'agneau 5 à 10 minutes, en les retournant pour qu'ils se colorent de tous les côtés.",
+   "t": "В кастрюле разогрейте {{huile}} оливкового масла на среднем огне. Обжаривайте кусочки баранины 5–10 минут, переворачивая, чтобы они подрумянились со всех сторон."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute aromates et épices",
+   "t": "Добавьте овощи, зелень и специи"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute l'oignon râpé, l'ail, les tomates râpées et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et, si tu aimes, {{cayenne}}. Mélange et laisse revenir 5 minutes en remuant.",
+   "t": "Добавьте натёртый лук, чеснок, натёртые помидоры и зелень. Добавьте {{concentre}} томатной пасты, {{paprika}} паприки, {{cumin}} кумина, {{poivre}} перца, {{sel}} соли и, если любите, щепотку кайенского перца. Перемешайте и обжаривайте 5 минут, помешивая."
+  },
+  "steps.6.timer.label": {
+   "fr": "Aromates et épices",
+   "t": "Овощи и специи"
+  },
+  "steps.6.timer.done": {
+   "fr": "Verse l'eau et porte à ébullition.",
+   "t": "Влейте воду и доведите до кипения."
+  },
+  "steps.7.title": {
+   "fr": "Fais mijoter la viande",
+   "t": "Потушите мясо"
+  },
+  "steps.7.text": {
+   "fr": "Verse {{eau}} d'eau et porte à ébullition. Couvre, baisse le feu et laisse mijoter 45 minutes, jusqu'à ce que la viande commence à s'attendrir sans être encore fondante.",
+   "t": "Влейте {{eau}} воды и доведите до кипения. Накройте крышкой, убавьте огонь и тушите 45 минут, пока мясо не начнёт становиться мягким, но ещё не будет таять во рту."
+  },
+  "steps.7.timer.label": {
+   "fr": "Agneau à mi-cuisson",
+   "t": "Баранина наполовину готова"
+  },
+  "steps.7.timer.done": {
+   "fr": "La viande commence à s'attendrir ? Ajoute les lentilles. Encore ferme : laisse-la jusqu'à 15 minutes de plus.",
+   "t": "Мясо начинает становиться мягким? Добавьте чечевицу. Если оно ещё жёсткое, тушите до 15 минут дольше."
+  },
+  "steps.8.title": {
+   "fr": "Ajoute lentilles et carottes",
+   "t": "Добавьте чечевицу и морковь"
+  },
+  "steps.8.text": {
+   "fr": "Ajoute les lentilles égouttées et les carottes, puis mélange. Le liquide doit couvrir les lentilles : sinon, ajoute {{eau-bouillante}}. Couvre et laisse mijoter 20 minutes à feu doux, en remuant de temps en temps, puis goûte les lentilles : elles doivent commencer à s'attendrir avant que tu ajoutes les pommes de terre.",
+   "t": "Добавьте откинутую на дуршлаг чечевицу и морковь, перемешайте. Жидкость должна покрывать чечевицу: если нет, добавьте {{eau-bouillante}}. Накройте крышкой и тушите 20 минут на слабом огне, время от времени помешивая, затем попробуйте чечевицу: прежде чем добавлять картофель, она должна начать размягчаться."
+  },
+  "steps.8.timer.label": {
+   "fr": "Lentilles et carottes",
+   "t": "Чечевица и морковь"
+  },
+  "steps.8.timer.done": {
+   "fr": "Goûte quelques lentilles : elles doivent commencer à s'attendrir. Si elles sont encore dures (les lentilles brunes peuvent être bien plus longues à cuire), prolonge la cuisson à couvert en goûtant régulièrement, et n'ajoute les pommes de terre qu'à ce moment-là.",
+   "t": "Попробуйте несколько чечевичек: они должны начать размягчаться. Если они ещё твёрдые (коричневая чечевица может вариться гораздо дольше), продолжайте тушить под крышкой, регулярно пробуя, и добавляйте картофель только тогда."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les pommes de terre",
+   "t": "Добавьте картофель"
+  },
+  "steps.9.text": {
+   "fr": "Égoutte les pommes de terre et enfonce-les dans la sauce. Couvre et laisse cuire 20 minutes, jusqu'à ce que les pommes de terre, les lentilles et la viande soient tendres. Remue doucement de temps en temps et ajoute un peu d'eau bouillante si la sauce attache.",
+   "t": "Слейте воду с картофеля и погрузите его в соус. Накройте крышкой и готовьте 20 минут, пока картофель, чечевица и мясо не станут мягкими. Время от времени аккуратно помешивайте и добавьте немного кипятка, если соус начнёт пригорать."
+  },
+  "steps.9.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "Картофель"
+  },
+  "steps.9.timer.done": {
+   "fr": "Pique une pomme de terre : elle doit être tendre. Sinon, prolonge de 5 minutes.",
+   "t": "Проткните картофелину: она должна быть мягкой. Если нет, готовьте ещё 5 минут."
+  },
+  "steps.10.title": {
+   "fr": "Ajuste sauce et assaisonnement",
+   "t": "Доведите соус и приправы до вкуса"
+  },
+  "steps.10.text": {
+   "fr": "La sauce doit être onctueuse, ni sèche ni trop liquide. Si elle est trop liquide, laisse-la réduire quelques minutes sans couvercle. Goûte et rectifie le sel, le poivre et le cumin.",
+   "t": "Соус должен быть бархатистым, не сухим и не слишком жидким. Если он слишком жидкий, уварите его несколько минут без крышки. Попробуйте и при необходимости добавьте соли, перца и кумина."
+  },
+  "steps.11.title": {
+   "fr": "Sers bien chaud",
+   "t": "Подавайте очень горячим"
+  },
+  "steps.11.text": {
+   "fr": "Sers bien chaud, avec du {{khobz}} pour saucer et des quartiers de citron ({{citron:full}}) à presser dans l'assiette. Ceux qui aiment le piquant ajoutent un peu de harissa.",
+   "t": "Подавайте очень горячим, с хобзом, чтобы собирать соус, и дольками лимона ({{citron:full}}), чтобы выжать его в тарелку. Любители острого добавляют немного хариссы."
+  },
+  "steps.12.title": {
+   "fr": "Range les restes",
+   "t": "Уберите остатки"
+  },
+  "steps.12.text": {
+   "fr": "Ne laisse pas le plat plus de 2 heures à température ambiante : mets les restes au réfrigérateur dans une boîte fermée et mange-les dans les 3 jours. S'il y en a plus d'un litre, répartis-les en petites portions pour qu'ils refroidissent vite. Réchauffe à couvert jusqu'à ce que la vapeur s'échappe, avec un peu d'eau chaude si c'est trop épais.",
+   "t": "Не оставляйте блюдо при комнатной температуре дольше 2 часов: уберите остатки в холодильник в закрытом контейнере и съешьте в течение 3 дней. Если их больше литра, разложите небольшими порциями, чтобы они быстро остыли. Разогревайте под крышкой, пока не пойдёт пар, добавив немного горячей воды, если слишком густо."
+  },
+  "secrets.0.text": {
+   "fr": "Fais d'abord cuire l'agneau seul dans la sauce : les lentilles cuisent bien plus vite que la viande. Ajoute-les quand les morceaux commencent à s'attendrir, sans être encore fondants.",
+   "t": "Сначала тушите в соусе одну баранину: чечевица варится гораздо быстрее мяса. Добавляйте её, когда куски начнут становиться мягкими, но ещё не будут таять во рту."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (viande « à mi-cuisson », environ 1 heure, avant les lentilles) ; Bladi (viande 40 minutes avant les lentilles) ; Choumicha (viande séchée 30 à 40 minutes avant les lentilles et les carottes)",
+   "t": "My Moroccan Food (мясо «наполовину готово», около 1 часа, до чечевицы); Bladi (мясо 40 минут до чечевицы); Choumicha (вяленое мясо 30–40 минут до чечевицы и моркови)"
+  },
+  "secrets.1.text": {
+   "fr": "Les carottes cuisent avec les lentilles ; les pommes de terre n'arrivent que 20 minutes avant la fin, sinon elles se défont.",
+   "t": "Морковь варится вместе с чечевицей; картофель добавляют только за 20 минут до конца, иначе он разварится."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (carottes avec les lentilles ; patate douce et courge ajoutées pour les 20 à 25 dernières minutes) ; My Moroccan Food et Cooking With Alia (pommes de terre cuites 15 à 20 minutes dans la sauce)",
+   "t": "Choumicha (морковь вместе с чечевицей; батат и тыкву добавляют на последние 20–25 минут); My Moroccan Food и Cooking With Alia (картофель варится в соусе 15–20 минут)"
+  },
+  "secrets.2.text": {
+   "fr": "Coupe les pommes de terre en gros morceaux, jamais trop petits, et garde-les dans l'eau froide en attendant de les cuire.",
+   "t": "Режьте картофель крупными кусками, ни в коем случае не слишком мелкими, и держите в холодной воде, пока не придёт время его варить."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking With Alia (tajine de bœuf aux pommes de terre, n° 201) ; Bladi (légumes « en gros morceaux »)",
+   "t": "Cooking With Alia (таджин из говядины с картофелем, № 201); Bladi (овощи «крупными кусками»)"
+  },
+  "secrets.3.text": {
+   "fr": "Râpe l'oignon et les tomates. Pour la tomate, râpe la chair et jette la peau.",
+   "t": "Натрите на тёрке лук и помидоры. У помидора натирайте мякоть, а кожицу выбрасывайте."
+  },
+  "secrets.3.source": {
+   "fr": "Morocco World News 2019 (oignon et tomates râpés) ; Cooking With Alia n° 462 (chair râpée, peau jetée) ; My Moroccan Food (tomates râpées) ; blog Mamatkamal",
+   "t": "Morocco World News 2019 (тёртые лук и помидоры); Cooking With Alia № 462 (мякоть натирают, кожицу выбрасывают); My Moroccan Food (тёртые помидоры); блог Mamatkamal"
+  },
+  "secrets.4.text": {
+   "fr": "Trie toujours les lentilles avant de les laver : il reste parfois de petits cailloux.",
+   "t": "Всегда перебирайте чечевицу перед мытьём: в ней иногда попадаются мелкие камешки."
+  },
+  "secrets.4.source": {
+   "fr": "Bladi ; blog Mamatkamal",
+   "t": "Bladi; блог Mamatkamal"
+  },
+  "secrets.5.text": {
+   "fr": "Prends des lentilles vertes ou brunes. Les lentilles corail tournent en bouillie dans ce plat.",
+   "t": "Берите зелёную или коричневую чечевицу. Красная чечевица в этом блюде превращается в кашу."
+  },
+  "secrets.5.source": {
+   "fr": "MarocMama (la recette « ne marche pas » avec des lentilles corail) ; lentilles vertes chez My Moroccan Food, brunes chez Cooking With Alia et Morocco World News",
+   "t": "MarocMama (с красной чечевицей рецепт «не получается»); зелёная чечевица у My Moroccan Food, коричневая — у Cooking With Alia и Morocco World News"
+  },
+  "secrets.6.text": {
+   "fr": "Il doit toujours rester de la sauce. Si elle réduit trop avant la fin, ajoute un peu d'eau bouillante, pas de l'eau froide.",
+   "t": "Соус должен оставаться всегда. Если он слишком уварится раньше времени, добавьте немного кипятка, а не холодной воды."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia n° 094 ; Choumicha (« un peu d'eau bouillante si nécessaire ») ; blog Mamatkamal (eau chaude)",
+   "t": "Cooking With Alia № 094; Choumicha («немного кипятка, если нужно»); блог Mamatkamal (горячая вода)"
+  },
+  "secrets.7.text": {
+   "fr": "À la fin, la sauce doit être onctueuse, pas aqueuse : au besoin, fais-la réduire quelques minutes à découvert.",
+   "t": "В конце соус должен быть бархатистым, а не водянистым: при необходимости уварите его несколько минут без крышки."
+  },
+  "secrets.7.source": {
+   "fr": "Blog Mamatkamal (sauce « pas trop liquide ») ; Choumicha (laisser réduire la sauce pour un jus onctueux)",
+   "t": "Блог Mamatkamal (соус «не слишком жидкий»); Choumicha (уварить соус, чтобы он стал бархатистым)"
+  },
+  "secrets.8.text": {
+   "fr": "Goûte en fin de cuisson et rectifie le sel, le poivre et le cumin.",
+   "t": "В конце приготовления попробуйте и при необходимости добавьте соли, перца и кумина."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia n° 094 et n° 462 ; My Moroccan Food (« sel, ou plus selon le goût »)",
+   "t": "Cooking With Alia № 094 и № 462; My Moroccan Food («соль, или больше по вкусу»)"
+  },
+  "secrets.9.text": {
+   "fr": "Sers avec du citron à presser dans l'assiette.",
+   "t": "Подавайте с лимоном, чтобы выжать его в тарелку."
+  },
+  "secrets.9.source": {
+   "fr": "Bladi (jus de citron au service) ; blog Mamatkamal (citron en fin de cuisson) ; My Moroccan Food (quartiers de citron, version sans viande)",
+   "t": "Bladi (лимонный сок при подаче); блог Mamatkamal (лимон в конце приготовления); My Moroccan Food (дольки лимона, версия без мяса)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre les lentilles avec l'agneau cru : la viande doit d'abord cuire seule jusqu'à commencer à s'attendrir, car elle cuit bien plus longtemps que les lentilles (My Moroccan Food : environ 1 heure, puis 40 minutes pour les lentilles ; Choumicha et Bladi cuisent aussi la viande d'abord).",
+   "t": "Класть чечевицу вместе с сырой бараниной: мясо сначала должно тушиться одно, пока не начнёт становиться мягким, ведь оно готовится гораздо дольше чечевицы (My Moroccan Food: около 1 часа, затем 40 минут для чечевицы; Choumicha и Bladi тоже сначала готовят мясо)."
+  },
+  "mistakes.1": {
+   "fr": "Ajouter les pommes de terre en même temps que les lentilles, ou les couper trop petites : elles se défont (Cooking With Alia ; Choumicha et My Moroccan Food ajoutent ces légumes en fin de cuisson).",
+   "t": "Добавлять картофель одновременно с чечевицей или резать его слишком мелко: он разваривается (Cooking With Alia; Choumicha и My Moroccan Food добавляют эти овощи в конце приготовления)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre des lentilles corail (MarocMama).",
+   "t": "Брать красную чечевицу (MarocMama)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser la sauce sécher et attacher au fond (Cooking With Alia ; Choumicha).",
+   "t": "Давать соусу выкипеть и пригореть ко дну (Cooking With Alia; Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Rallonger avec de l'eau froide : Choumicha ajoute de l'eau bouillante, le blog Mamatkamal de l'eau chaude.",
+   "t": "Разбавлять холодной водой: Choumicha добавляет кипяток, блог Mamatkamal — горячую воду."
+  },
+  "mistakes.5": {
+   "fr": "Servir une sauce trop liquide (blog Mamatkamal ; Choumicha la fait réduire).",
+   "t": "Подавать слишком жидкий соус (блог Mamatkamal; Choumicha его уваривает)."
+  },
+  "mistakes.6": {
+   "fr": "Couper l'agneau cru et les herbes sur la même planche (Anses).",
+   "t": "Резать сырую баранину и зелень на одной доске (Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов или хранить их в холодильнике дольше 3 дней (Anses)."
+  },
+  "variants.0": {
+   "fr": "Au bœuf : même méthode avec des morceaux de bœuf halal (blog Mamatkamal : 200 g de bœuf pour 350 g de lentilles ; Bladi met 300 g de « viande rouge » pour 300 g de lentilles).",
+   "t": "С говядиной: тот же способ с кусками говядины халяль (блог Mamatkamal: 200 г говядины на 350 г чечевицы; Bladi кладёт 300 г «красного мяса» на 300 г чечевицы)."
+  },
+  "variants.1": {
+   "fr": "Sans viande (Morocco World News 2019 : seuls certains y ajoutent de petits morceaux de viande) : oignon, tomate, ail, paprika, cumin, herbes et huile d'olive ; 35 à 40 minutes à la casserole (Cooking With Alia n° 094 et n° 462 ; My Moroccan Food), ou 25 à 35 minutes à l'autocuiseur (Choumicha ; Morocco World News 2019 et 2020).",
+   "t": "Без мяса (Morocco World News 2019: лишь некоторые добавляют маленькие кусочки мяса): лук, помидор, чеснок, паприка, кумин, зелень и оливковое масло; 35–40 минут в кастрюле (Cooking With Alia № 094 и № 462; My Moroccan Food) или 25–35 минут в скороварке (Choumicha; Morocco World News 2019 и 2020)."
+  },
+  "variants.2": {
+   "fr": "À la viande séchée (gueddid) et aux carottes : Choumicha dessale le gueddid 15 minutes dans l'eau, le cuit 30 à 40 minutes, puis ajoute lentilles et carottes. Avec du khlii (viande confite), elle l'ajoute seulement en fin de cuisson.",
+   "t": "С вяленым мясом (геддид) и морковью: Choumicha вымачивает геддид 15 минут в воде, чтобы убрать лишнюю соль, варит 30–40 минут, затем добавляет чечевицу и морковь. Хлии (вяленое мясо в жиру) она добавляет только в конце приготовления."
+  },
+  "variants.3": {
+   "fr": "Au gueddid, à la patate douce et à la courge : Choumicha ajoute ces légumes après 30 minutes de cuisson des lentilles, puis cuit encore 20 à 25 minutes.",
+   "t": "С геддидом, бататом и тыквой: Choumicha добавляет эти овощи через 30 минут после начала варки чечевицы и готовит ещё 20–25 минут."
+  },
+  "variants.4": {
+   "fr": "Au smen : Bladi parfume la viande au smen et à la cannelle, puis arrose le plat d'un mélange chaud de persil, de jus de citron et de smen.",
+   "t": "Со сменом: Bladi ароматизирует мясо сменом (выдержанным солёным маслом) и корицей, а затем поливает блюдо горячей смесью петрушки, лимонного сока и смена."
+  },
+  "variants.5": {
+   "fr": "À la courge et aux échalotes : My Moroccan Food remplace l'oignon par des échalotes et ajoute de la courge en fin de cuisson.",
+   "t": "С тыквой и луком-шалотом: My Moroccan Food заменяет лук шалотом и добавляет тыкву в конце приготовления."
+  },
+  "variants.6": {
+   "fr": "Avec un peu de riz en fin de cuisson, pour une version plus proche de la soupe (Bladi).",
+   "t": "С небольшим количеством риса в конце приготовления — версия, более похожая на суп (Bladi)."
+  },
+  "variants.7": {
+   "fr": "Avec du vinaigre blanc au service (Choumicha), ou des sardines grillées à côté (Morocco World News 2020).",
+   "t": "С белым уксусом при подаче (Choumicha) или с жареными на гриле сардинами (Morocco World News 2020)."
+  },
+  "variants.8": {
+   "fr": "Plus épicé : certaines familles ajoutent du gingembre (Morocco World News 2019 et 2020) ou du curcuma (Cooking With Alia n° 094 ; Morocco World News 2020).",
+   "t": "Более пряная: некоторые семьи добавляют имбирь (Morocco World News 2019 и 2020) или куркуму (Cooking With Alia № 094; Morocco World News 2020)."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "secrets.10.text": {
+   "fr": "Le trempage n'est pas obligatoire : les versions avec viande mettent les lentilles sèches. Trempées (1 heure à une nuit), elles cuisent plus vite.",
+   "t": "Замачивать не обязательно: в версиях с мясом чечевицу кладут сухой. Замоченная (от 1 часа до ночи), она варится быстрее."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha et My Moroccan Food (sans trempage) ; Morocco World News 2019 et 2020, Cooking With Alia n° 094 et n° 462 (avec trempage)",
+   "t": "Choumicha и My Moroccan Food (без замачивания); Morocco World News 2019 и 2020, Cooking With Alia № 094 и № 462 (с замачиванием)"
+  },
+  "secrets.11.text": {
+   "fr": "Au Maroc, on mange l'adess avec du pain : on prend les lentilles avec un morceau de khobz, ou à la cuillère.",
+   "t": "В Марокко адес едят с хлебом: чечевицу берут кусочком хобза или ложкой."
+  },
+  "secrets.11.source": {
+   "fr": "Morocco World News 2020 ; Morocco World News 2019 ; My Moroccan Food",
+   "t": "Morocco World News 2020, Morocco World News 2019 и My Moroccan Food"
+  },
+  "secrets.12.text": {
+   "fr": "Coupe la viande crue sur une planche à part, et ne la réutilise pas pour les herbes ou les légumes.",
+   "t": "Режьте сырое мясо на отдельной доске и не используйте её потом для зелени или овощей."
+  },
+  "secrets.12.source": {
+   "fr": "Anses (une planche pour la viande crue, une autre pour les produits cuits et les légumes propres)",
+   "t": "Anses (одна доска для сырого мяса, другая — для готовых продуктов и чистых овощей)"
+  }
+ }
+}

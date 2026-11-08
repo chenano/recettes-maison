@@ -1,0 +1,486 @@
+{
+ "_slug": "poulet-creme-champignons",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Émincé de poulet à la crème et aux champignons",
+   "t": "Chicken strips with cream and mushrooms"
+  },
+  "tagline": {
+   "fr": "Des lanières de poulet saisies, des champignons bien dorés et une sauce crémeuse sans vin : un plat du soir doux et réconfortant, avec du riz ou des pâtes.",
+   "t": "Seared chicken strips, nicely browned mushrooms and a creamy sauce without wine: a mild, comforting evening dish, with rice or pasta."
+  },
+  "region": {
+   "fr": "France et Suisse. Poulet sauté à la crème de la cuisine française classique (Escoffier, Chef Simon) et émincé de poulet à la crème des cuisines suisses (Migusto, Betty Bossi), cousin de l'émincé de veau à la zurichoise (Wikipédia).",
+   "t": "France and Switzerland. Chicken sautéed with cream from classic French cooking (Escoffier, Chef Simon) and sliced chicken in cream from Swiss cooking (Migusto, Betty Bossi), a cousin of Zurich-style sliced veal (Wikipedia)."
+  },
+  "occasion": {
+   "fr": "Dîner rapide en semaine. Une sauce crémeuse qui « réunit toujours toute la famille autour de la table », selon Migusto.",
+   "t": "Quick weeknight dinner. A creamy sauce that “always brings the whole family together around the table”, according to Migusto."
+  },
+  "img_alt": {
+   "fr": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
+   "t": "Sliced chicken with mushrooms in a cream sauce, on tagliatelle"
+  },
+  "serving": {
+   "fr": "Bien chaud, nappé de sauce, avec du riz (Chef Simon le sert avec un riz créole) ou des pâtes, des tagliatelles par exemple (Betty Bossi ; Chef Simon conseille des pâtes fraîches). En Suisse, on le sert aussi avec des röstis ou des spätzli (Migusto, Wikipédia). Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA). Crème entamée : suis la durée « après ouverture » de l'étiquette, sinon 3 jours au plus (Anses, FSA).",
+   "t": "Piping hot, coated in sauce, with rice (Chef Simon serves it with Creole-style rice) or pasta, tagliatelle for example (Betty Bossi; Chef Simon recommends fresh pasta). In Switzerland, it is also served with rösti or spätzli (Migusto, Wikipedia). Leftovers: put the chicken in sauce in the fridge within 2 hours (Anses, FSA) and eat it within 2 days (FSA; Anses says less than 3 days for a cooked dish). The rice should be cooled as quickly as possible, ideally within the hour, and kept in the fridge for 24 hours at most (FSA). Reheat everything only once, covered, until it is piping hot and steaming (Anses, FSA). Opened cream: follow the “once opened” time on the label, otherwise 3 days at most (Anses, FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet",
+   "t": "Chicken"
+  },
+  "ing.poulet.name": {
+   "fr": "de blancs de poulet halal",
+   "t": "halal chicken breasts"
+  },
+  "ing.poulet.note": {
+   "fr": "ou d'émincé de poulet tout prêt",
+   "t": "or ready-cut chicken strips"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "neutral oil"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, colza ou arachide",
+   "t": "sunflower, rapeseed or groundnut"
+  },
+  "ing.1.group": {
+   "fr": "Sauce aux champignons",
+   "t": "Mushroom sauce"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "onions"
+  },
+  "ing.champignons.name": {
+   "fr": "de champignons de Paris",
+   "t": "button mushrooms"
+  },
+  "ing.champignons.note": {
+   "fr": "blancs de préférence",
+   "t": "preferably white"
+  },
+  "ing.beurre.name": {
+   "fr": "beurre",
+   "t": "butter"
+  },
+  "ing.beurre.note": {
+   "fr": "un petit morceau ; sinon une cuillerée d'huile",
+   "t": "a small knob; otherwise a spoonful of oil"
+  },
+  "ing.bouillon.name": {
+   "fr": "de bouillon de volaille halal",
+   "t": "halal chicken stock"
+  },
+  "ing.bouillon.note": {
+   "fr": "cube halal dissous dans l'eau chaude, ou bouillon maison ; à défaut, de l'eau (la sauce aura moins de goût)",
+   "t": "a halal stock cube dissolved in hot water, or homemade stock; failing that, water (the sauce will have less flavour)"
+  },
+  "ing.creme.name": {
+   "fr": "de crème fraîche épaisse",
+   "t": "thick crème fraîche"
+  },
+  "ing.creme.note": {
+   "fr": "au moins 30 % de matière grasse, ou crème liquide entière ; pas de crème allégée",
+   "t": "at least 30% fat, or full-fat liquid cream; not reduced-fat cream"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "quelques brins, facultatif",
+   "t": "a few sprigs, optional"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir (au choix)",
+   "t": "To serve (your choice)"
+  },
+  "ing.riz.name": {
+   "fr": "de riz",
+   "t": "rice"
+  },
+  "ing.riz.note": {
+   "fr": "au choix : le riz OU les pâtes",
+   "t": "your choice: the rice OR the pasta"
+  },
+  "ing.pates.name": {
+   "fr": "de pâtes (tagliatelles ou spaghettis)",
+   "t": "pasta (tagliatelle or spaghetti)"
+  },
+  "ing.pates.note": {
+   "fr": "au choix : les pâtes OU le riz",
+   "t": "your choice: the pasta OR the rice"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, salée",
+   "t": "a large panful, salted"
+  },
+  "equipment.0": {
+   "fr": "Une grande poêle ou une sauteuse (en fonte ou en inox si tu en as une : elle donne plus de sucs)",
+   "t": "A large frying pan or sauté pan (cast iron or stainless steel if you have one: it leaves more browned bits on the bottom)"
+  },
+  "equipment.1": {
+   "fr": "Une grande casserole et une passoire, pour le riz ou les pâtes",
+   "t": "A large saucepan and a colander, for the rice or pasta"
+  },
+  "equipment.2": {
+   "fr": "Une planche à découper et un couteau bien aiguisé",
+   "t": "A chopping board and a sharp knife"
+  },
+  "equipment.3": {
+   "fr": "Une assiette propre, pour le poulet saisi",
+   "t": "A clean plate, for the seared chicken"
+  },
+  "equipment.4": {
+   "fr": "Une cuillère en bois ou une spatule",
+   "t": "A wooden spoon or a spatula"
+  },
+  "equipment.5": {
+   "fr": "Du papier absorbant ou une petite brosse, pour les champignons",
+   "t": "Kitchen paper or a small brush, for the mushrooms"
+  },
+  "equipment.6": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "A cooking thermometer (optional)"
+  },
+  "steps.0.title": {
+   "fr": "Mets l'eau à chauffer",
+   "t": "Put the water on to heat"
+  },
+  "steps.0.text": {
+   "fr": "Remplis une grande casserole d'{{eau}}, sale-la et porte-la à ébullition, pour le riz ou les pâtes.",
+   "t": "Fill a large saucepan with {{eau}}, salt it and bring it to the boil, for the rice or pasta."
+  },
+  "steps.1.title": {
+   "fr": "Hache l'oignon",
+   "t": "Chop the onion"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et hache finement {{oignon:full}}.",
+   "t": "Peel and finely chop {{oignon:full}}."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.2.title": {
+   "fr": "Nettoie les champignons",
+   "t": "Clean the mushrooms"
+  },
+  "steps.2.text": {
+   "fr": "Prends {{champignons:full}} : coupe le bout terreux de leur pied, puis essuie-les avec un papier absorbant humide ou une petite brosse. Ne les fais jamais tremper : s'ils sont très sales, passe-les très vite sous l'eau et sèche-les aussitôt.",
+   "t": "Take {{champignons:full}}: cut off the earthy end of the stalks, then wipe them with damp kitchen paper or a small brush. Never soak them: if they are very dirty, rinse them very quickly under the tap and dry them straight away."
+  },
+  "steps.3.title": {
+   "fr": "Émince les champignons",
+   "t": "Slice the mushrooms"
+  },
+  "steps.3.text": {
+   "fr": "Coupe les champignons en fines lamelles.",
+   "t": "Cut the mushrooms into thin slices."
+  },
+  "steps.4.title": {
+   "fr": "Émince le poulet",
+   "t": "Slice the chicken"
+  },
+  "steps.4.text": {
+   "fr": "Coupe {{poulet}} de blancs de poulet en lanières d'environ 1 cm de large. Sale-les et poivre-les. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+   "t": "Cut {{poulet}} of chicken breasts into strips about 1 cm wide. Season them with salt and pepper. Then wash your hands, the board and the knife with soap."
+  },
+  "steps.4.tip": {
+   "fr": "Une seule planche ? Coupe toujours les légumes d'abord et le poulet cru en dernier (FSA, agence sanitaire britannique).",
+   "t": "Only one board? Always cut the vegetables first and the raw chicken last (FSA, the UK health agency)."
+  },
+  "steps.5.title": {
+   "fr": "Lance le riz ou les pâtes",
+   "t": "Start the rice or pasta"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'eau bout, verse {{riz}} de riz ou {{pates}} de pâtes. Fais cuire le temps indiqué sur le paquet, puis égoutte.",
+   "t": "When the water boils, add {{riz}} of rice or {{pates}} of pasta. Cook for the time given on the packet, then drain."
+  },
+  "steps.6.title": {
+   "fr": "Saisis une moitié du poulet",
+   "t": "Sear half the chicken"
+  },
+  "steps.6.text": {
+   "fr": "Dans la grande poêle, chauffe à feu vif la moitié de l'huile ({{huile}} en tout), bien chaude mais sans fumer. Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ : laisse-le d'abord sans y toucher, puis retourne-le pour dorer tous les côtés.",
+   "t": "In the large frying pan, heat half the oil ({{huile}} in total) over high heat, until very hot but not smoking. Add half the chicken, or about 300 g if you are cooking for more than 4, and let it brown for about 2 minutes: first leave it untouched, then turn it to brown all sides."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu remues trop tôt ou sans arrêt, la poêle refroidit et le poulet cuit à la vapeur au lieu de dorer (Betty Bossi).",
+   "t": "If you stir too soon or all the time, the pan cools down and the chicken steams instead of browning (Betty Bossi)."
+  },
+  "steps.6.timer.label": {
+   "fr": "Première moitié",
+   "t": "First half"
+  },
+  "steps.6.timer.done": {
+   "fr": "Sors le poulet sur une assiette propre.",
+   "t": "Take the chicken out onto a clean plate."
+  },
+  "steps.7.title": {
+   "fr": "Saisis l'autre moitié",
+   "t": "Sear the other half"
+  },
+  "steps.7.text": {
+   "fr": "Sors le poulet sur une assiette propre, pas celle du poulet cru. Verse le reste de l'huile et saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
+   "t": "Take the chicken out onto a clean plate, not the one the raw chicken was on. Pour in the rest of the oil and sear the rest of the chicken in the same way, about 2 minutes per batch, then take it out too."
+  },
+  "steps.7.tip": {
+   "fr": "Le poulet finira de cuire dans la sauce : à la fin, il doit être bien cuit (Migusto).",
+   "t": "The chicken will finish cooking in the sauce: by the end, it must be thoroughly cooked (Migusto)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Deuxième moitié",
+   "t": "Second half"
+  },
+  "steps.7.timer.done": {
+   "fr": "Sors le poulet et baisse le feu.",
+   "t": "Take the chicken out and turn down the heat."
+  },
+  "steps.8.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "Soften the onion"
+  },
+  "steps.8.text": {
+   "fr": "Baisse à feu moyen. Mets le {{beurre}} dans la poêle, puis l'oignon. Fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "t": "Turn down to medium heat. Put the {{beurre}} in the pan, then the onion. Fry it, stirring, until it turns translucent."
+  },
+  "steps.9.title": {
+   "fr": "Fais dorer les champignons",
+   "t": "Brown the mushrooms"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute les champignons. Laisse-les cuire en remuant de temps en temps, jusqu'à ce que leur eau se soit évaporée et qu'ils commencent à dorer.",
+   "t": "Add the mushrooms. Let them cook, stirring from time to time, until their liquid has evaporated and they start to brown."
+  },
+  "steps.9.tip": {
+   "fr": "Ne les sale pas maintenant : salés trop tôt, ils rendent leur eau et dorent moins (Betty Bossi). Tu saleras la sauce à la fin.",
+   "t": "Don't salt them now: salted too early, they release their liquid and brown less (Betty Bossi). You will season the sauce at the end."
+  },
+  "steps.10.title": {
+   "fr": "Déglace au bouillon",
+   "t": "Deglaze with the stock"
+  },
+  "steps.10.text": {
+   "fr": "Verse {{bouillon:full}}. Gratte le fond de la poêle avec la cuillère en bois pour décoller les sucs dorés : c'est là qu'est le goût de la sauce. Laisse bouillonner un instant.",
+   "t": "Pour in {{bouillon:full}}. Scrape the bottom of the pan with the wooden spoon to loosen the browned bits: that is where the flavour of the sauce lies. Let it bubble for a moment."
+  },
+  "steps.11.title": {
+   "fr": "Ajoute la crème",
+   "t": "Add the cream"
+  },
+  "steps.11.text": {
+   "fr": "Ajoute {{creme:full}} et mélange. Laisse frémir doucement, en remuant de temps en temps, jusqu'à ce que la sauce épaississe un peu.",
+   "t": "Add {{creme:full}} and stir. Let it simmer gently, stirring from time to time, until the sauce thickens slightly."
+  },
+  "steps.11.tip": {
+   "fr": "Une crème allégée peut trancher si elle bout ; la crème fraîche épaisse et la crème entière supportent la cuisson (Betty Bossi, Migusto, Wikipédia).",
+   "t": "Reduced-fat cream can split if it boils; thick crème fraîche and full-fat cream can take the heat (Betty Bossi, Migusto, Wikipedia)."
+  },
+  "steps.12.title": {
+   "fr": "Finis la cuisson du poulet",
+   "t": "Finish cooking the chicken"
+  },
+  "steps.12.text": {
+   "fr": "Remets le poulet dans la sauce, avec le jus qu'il a rendu dans l'assiette. Laisse frémir doucement quelques minutes, sans faire bouillir fort, jusqu'à ce qu'il soit cuit à cœur : coupe le plus gros morceau, il doit être blanc au centre, sans rose, avec un jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C.",
+   "t": "Put the chicken back in the sauce, with the juices it has released on the plate. Let it simmer gently for a few minutes, without boiling hard, until it is cooked through: cut the biggest piece open; it should be white in the centre, with no pink, and the juices should run clear. With a thermometer, the centre must reach at least 75 °C."
+  },
+  "steps.12.tip": {
+   "fr": "Un gros bouillon durcit le blanc de poulet : un petit frémissement suffit (Escoffier, Chef Simon).",
+   "t": "A rolling boil toughens chicken breast: a gentle simmer is enough (Escoffier, Chef Simon)."
+  },
+  "steps.13.title": {
+   "fr": "Goûte et sers",
+   "t": "Taste and serve"
+  },
+  "steps.13.text": {
+   "fr": "Goûte, puis ajuste le {{sel}} et le {{poivre}}. Parsème de {{persil}} ciselé et sers tout de suite, avec le riz ou les pâtes.",
+   "t": "Taste, then adjust the seasoning with {{sel}} and {{poivre}}. Sprinkle with chopped {{persil}} and serve straight away, with the rice or pasta."
+  },
+  "secrets.0.text": {
+   "fr": "Coupe et prépare tout avant d'allumer le feu sous la poêle : une fois lancée, la cuisson va vite.",
+   "t": "Cut and prepare everything before you turn on the heat under the pan: once it starts, the cooking goes fast."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Bossi (« Faire sauter » : mise en place)",
+   "t": "Betty Bossi (“Faire sauter”: mise en place)"
+  },
+  "secrets.1.text": {
+   "fr": "Saisis le poulet en deux fois, dans une poêle bien chaude : trop serré, il cuit dans son jus au lieu de dorer.",
+   "t": "Sear the chicken in two batches, in a very hot pan: if it is crowded, it stews in its own juices instead of browning."
+  },
+  "secrets.1.source": {
+   "fr": "Betty Bossi (« Faire sauter » : en 2 ou 3 portions ; émincé de poulet à la crème : par portions) ; Migusto (émincé de veau à la zurichoise : portion par portion)",
+   "t": "Betty Bossi (“Faire sauter”: in 2 or 3 batches; sliced chicken in cream: in batches); Migusto (Zurich-style sliced veal: batch by batch)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le poulet tranquille une à deux minutes avant de le retourner : une croûte dorée se forme et donne du goût.",
+   "t": "Leave the chicken alone for one to two minutes before turning it: a golden crust forms and adds flavour."
+  },
+  "secrets.2.source": {
+   "fr": "Betty Bossi (« Faire sauter »)",
+   "t": "Betty Bossi (“Faire sauter”)"
+  },
+  "secrets.3.text": {
+   "fr": "Une poêle en fonte ou en inox laisse plus de sucs qu'une poêle antiadhésive : la sauce est plus goûteuse.",
+   "t": "A cast-iron or stainless-steel pan leaves more browned bits than a non-stick pan: the sauce is tastier."
+  },
+  "secrets.3.source": {
+   "fr": "Betty Bossi (« La crème des crèmes »)",
+   "t": "Betty Bossi (“La crème des crèmes”)"
+  },
+  "secrets.4.text": {
+   "fr": "Déglacer, c'est dissoudre les sucs caramélisés au fond de la poêle : c'est la base du goût de la sauce.",
+   "t": "Deglazing means dissolving the caramelised browned bits on the bottom of the pan: they are the basis of the sauce's flavour."
+  },
+  "secrets.4.source": {
+   "fr": "Escoffier, Le Guide culinaire (série des poulets sautés) ; Betty Bossi (« La crème des crèmes » : plus de sucs, sauce plus goûteuse)",
+   "t": "Escoffier, Le Guide culinaire (the series of chicken sautés); Betty Bossi (“La crème des crèmes”: more browned bits, tastier sauce)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas besoin de vin : Escoffier déglace aussi au fonds de volaille ou au jus de cuisson des champignons, et Migusto (émincé de poulet à la crème et aux herbes) comme Chef Simon (fricassée de volaille) font leur sauce sans vin, au bouillon.",
+   "t": "No need for wine: Escoffier also deglazes with chicken stock or with the mushroom cooking liquid, and both Migusto (sliced chicken with cream and herbs) and Chef Simon (chicken fricassée) make their sauce without wine, with stock."
+  },
+  "secrets.5.source": {
+   "fr": "Escoffier ; Migusto ; Chef Simon",
+   "t": "Escoffier; Migusto; Chef Simon"
+  },
+  "secrets.6.text": {
+   "fr": "Le blanc de poulet ne doit pas bouillir à gros bouillons dans la sauce : il durcit. Un petit frémissement suffit.",
+   "t": "Chicken breast must not boil hard in the sauce: it toughens. A gentle simmer is enough."
+  },
+  "secrets.6.source": {
+   "fr": "Escoffier (poulets sautés : l'ébullition durcit les morceaux blancs) ; Chef Simon (fricassée : « toujours cuire à feu doux (petit frémissement) »)",
+   "t": "Escoffier (chicken sautés: boiling toughens the white pieces); Chef Simon (fricassée: “always cook over low heat (gentle simmer)”)"
+  },
+  "secrets.7.text": {
+   "fr": "Les champignons ne doivent jamais tremper : ils boivent l'eau, perdent leur goût et deviennent mous.",
+   "t": "Mushrooms should never be soaked: they absorb the water, lose their flavour and turn soft."
+  },
+  "secrets.7.source": {
+   "fr": "Julien Sebbag (Académie du Goût), Migusto, Betty Bossi",
+   "t": "Julien Sebbag (Académie du Goût), Migusto, Betty Bossi"
+  },
+  "secrets.8.text": {
+   "fr": "Pousse bien la cuisson des champignons, jusqu'à ce que leur eau s'évapore et qu'ils dorent : c'est là qu'ils prennent leur goût.",
+   "t": "Cook the mushrooms well, until their liquid evaporates and they brown: that is when they develop their flavour."
+  },
+  "secrets.8.source": {
+   "fr": "Julien Sebbag (Académie du Goût) ; Cuisine AZ",
+   "t": "Julien Sebbag (Académie du Goût); Cuisine AZ"
+  },
+  "secrets.9.text": {
+   "fr": "Pour une sauce claire avec de la volaille, choisis des champignons de Paris blancs.",
+   "t": "For a pale sauce with poultry, choose white button mushrooms."
+  },
+  "secrets.9.source": {
+   "fr": "Betty Bossi (« Champignons d'élevage »)",
+   "t": "Betty Bossi (“Champignons d'élevage”)"
+  },
+  "secrets.10.text": {
+   "fr": "Crème fraîche épaisse ou crème entière : elles supportent la cuisson ; les crèmes plus légères risquent de trancher si elles bouillent.",
+   "t": "Thick crème fraîche or full-fat cream: they can take the heat; lighter creams may split if they boil."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipédia (crème fraîche épaisse : « résiste bien à la cuisson ») ; Betty Bossi et Migusto (demi-crème à ne pas faire bouillir)",
+   "t": "Wikipedia (thick crème fraîche: “stands up well to cooking”); Betty Bossi and Migusto (demi-crème, a lighter cream, must not be boiled)"
+  },
+  "secrets.11.text": {
+   "fr": "Remets le poulet dans la sauce avec tout le jus qu'il a rendu dans l'assiette.",
+   "t": "Put the chicken back in the sauce with all the juices it has released on the plate."
+  },
+  "secrets.11.source": {
+   "fr": "Betty Bossi (émincé de poulet à la crème)",
+   "t": "Betty Bossi (sliced chicken in cream)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "Washing raw chicken: it splashes bacteria everywhere; only cooking destroys them (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Couper le poulet cru, puis les légumes, sur la même planche sans la laver (FSA, Anses).",
+   "t": "Cutting the raw chicken, then the vegetables, on the same board without washing it (FSA, Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre tout le poulet d'un coup ou le remuer sans arrêt : il bout dans son jus au lieu de dorer (Betty Bossi).",
+   "t": "Adding all the chicken at once or stirring it constantly: it boils in its juices instead of browning (Betty Bossi)."
+  },
+  "mistakes.3": {
+   "fr": "Faire tremper les champignons (Julien Sebbag, Migusto, Betty Bossi).",
+   "t": "Soaking the mushrooms (Julien Sebbag, Migusto, Betty Bossi)."
+  },
+  "mistakes.4": {
+   "fr": "Faire bouillir fort une crème allégée : elle tranche (Betty Bossi, Migusto).",
+   "t": "Boiling reduced-fat cream hard: it splits (Betty Bossi, Migusto)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser bouillir longtemps le poulet dans la sauce : il durcit (Escoffier).",
+   "t": "Letting the chicken boil for a long time in the sauce: it toughens (Escoffier)."
+  },
+  "mistakes.6": {
+   "fr": "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+   "t": "Serving without checking that the chicken is cooked through (FSA, Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Remettre le poulet saisi dans l'assiette du poulet cru (Anses).",
+   "t": "Putting the seared chicken back on the raw chicken's plate (Anses)."
+  },
+  "mistakes.8": {
+   "fr": "Prendre un cube de bouillon sans vérifier qu'il est halal, ou garder le vin des recettes suisses (Migusto, Betty Bossi) : remplace-le par du bouillon.",
+   "t": "Using a stock cube without checking that it is halal, or keeping the wine from the Swiss recipes (Migusto, Betty Bossi): replace it with stock."
+  },
+  "variants.0": {
+   "fr": "Aux herbes : ciboulette ciselée, et un beurre mêlé d'herbes hachées et de zeste de citron, ajouté au moment de servir (Migusto).",
+   "t": "With herbs: snipped chives, and butter mixed with chopped herbs and lemon zest, added just before serving (Migusto)."
+  },
+  "variants.1": {
+   "fr": "Au paprika : relève la poêlée de paprika en même temps que le sel et le poivre (Migusto).",
+   "t": "With paprika: spice up the pan with paprika at the same time as the salt and pepper (Migusto)."
+  },
+  "variants.2": {
+   "fr": "À l'ail : 2 gousses hachées, revenues avec l'oignon (Cuisine AZ ; recette de lecteur du Journal des Femmes).",
+   "t": "With garlic: 2 chopped cloves, fried with the onion (Cuisine AZ; a reader's recipe on Journal des Femmes)."
+  },
+  "variants.3": {
+   "fr": "À l'échalote : remplace l'oignon par des échalotes ciselées (Chef Simon, fricassée ; recette de lectrice du Journal des Femmes).",
+   "t": "With shallots: replace the onion with finely chopped shallots (Chef Simon, fricassée; a reader's recipe on Journal des Femmes)."
+  },
+  "variants.4": {
+   "fr": "Avec d'autres champignons, des shiitakés par exemple (Betty Bossi).",
+   "t": "With other mushrooms, shiitake for example (Betty Bossi)."
+  },
+  "variants.5": {
+   "fr": "Émincé à la zurichoise : la version suisse classique, au veau, servie avec des röstis (Migusto, Wikipédia ; Betty Bossi en donne aussi une version) ; à faire sans vin et avec du veau halal.",
+   "t": "Zurich-style émincé: the classic Swiss version, with veal, served with rösti (Migusto, Wikipedia; Betty Bossi also gives a version); make it without wine and with halal veal."
+  },
+  "variants.6": {
+   "fr": "Fricassée à l'ancienne, pour le week-end : un poulet en morceaux cuit 40 minutes dans un fond de volaille, puis la sauce à la crème et aux champignons (Chef Simon).",
+   "t": "Old-fashioned fricassée, for the weekend: a chicken cut into pieces and cooked for 40 minutes in chicken stock, then the cream and mushroom sauce (Chef Simon)."
+  }
+ }
+}

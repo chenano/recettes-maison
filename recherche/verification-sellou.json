@@ -1,0 +1,153 @@
+{
+ "slug": "sellou",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Wikipédia (fr), « Mastic (résine) »",
+   "url": "https://fr.wikipedia.org/wiki/Mastic_(r%C3%A9sine)",
+   "ce_qu_elle_confirme": "Le mastic est un exsudat du lentisque (Pistacia lentiscus), une résine appelée à tort gomme, employée en pâtisserie et en confiserie : c'est bien la meska (« المسكة الحرة ») des recettes marocaines."
+  },
+  {
+   "name": "Wikipédia (fr), « Gomme arabique »",
+   "url": "https://fr.wikipedia.org/wiki/Gomme_arabique",
+   "ce_qu_elle_confirme": "La gomme arabique (E414) est un exsudat d'arbres du genre Acacia : un autre produit que le mastic. Le choix du mastic par la recette est juste ; Choumicha, Bladi.net, Morocco World News et Cooking with Alia emploient le mot « gomme arabique » à tort."
+  },
+  {
+   "name": "Wikipédia (ar), « يانسون »",
+   "url": "https://ar.wikipedia.org/wiki/%D9%8A%D8%A7%D9%86%D8%B3%D9%88%D9%86",
+   "ce_qu_elle_confirme": "Page de l'anis vert (Pimpinella anisum) : elle dit qu'au Maroc on l'appelle « الحبة الحلوة », ce qui contredit Al3omk et Lalla Moulati (« النافع ») : le nom marocain de l'anis n'est pas sûr."
+  },
+  {
+   "name": "Le360 (média marocain), Leïla Driss, « Ch'hiwates light: 3 recettes de sellou sans farine, sans beurre ou sans sucre à faire chez soi », 10 mai 2018",
+   "url": "https://fr.le360.ma/lifestyle/chhiwates-light-3-recettes-de-sellou-sans-farine-sans-beurre-ou-sans-sucre-a-faire-chez-soi-164918/",
+   "ce_qu_elle_confirme": "Source marocaine (versions allégées seulement) : farine dorée au four puis tamisée, amandes et sésame grillés, anis, et une très petite dose de mastic, appelé lui aussi « gomme arabique » (2 grains ou ¼ c. à c.)."
+  },
+  {
+   "name": "Femmes du Maroc, « Sellou diet », recette de la Dr Imane Slaoui, 30 mai 2019",
+   "url": "https://femmesdumaroc.com/archives/sellou-diet",
+   "ce_qu_elle_confirme": "Source marocaine (version allégée, au son d'avoine) : autant de sésame que d'amandes (1 kg de chaque) ; l'anis et la « hebet hlawa » y sont deux épices différentes ; la « meska hourra », dite aussi « gomme arabique », se met en petite quantité, car elle peut donner de l'amertume."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "region",
+   "actuel": "ces proportions suivent la version de Fès décrite par Taste of Maroc",
+   "propose": "le rapport amandes, sésame et farine (1:1:1) suit la version de Fès décrite par Taste of Maroc ; les autres quantités viennent de la comparaison des recettes lues",
+   "pourquoi": "Seul le rapport 1:1:1 vient de la version de Fès. Pour 500 g de farine, Taste of Maroc met 2 c. à s. de cannelle, ⅛ c. à c. de sel, ⅛ c. à c. de mastic, 135 g de sucre glace et environ 227 g de beurre (calcul) ; la recette retient 1 c. à s., ½ c. à c., ¼ c. à c., 125 g et 250 g, choisis d'après les autres sources.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, carte métrique (1 kg de chaque, 270 g de sucre glace, 4 c. à s. de cannelle, 2 c. à s. d'anis, ¼ c. à c. de sel et de mastic, 455 g de beurre), copie web.archive.org du 14 décembre 2025"
+  },
+  {
+   "champ": "serving",
+   "actuel": "sésame grillé (Taste of Maroc ; Bladi.net ; Choumicha ; Cooking with Alia)",
+   "propose": "sésame grillé (Taste of Maroc ; Bladi.net ; Cooking with Alia)",
+   "pourquoi": "Choumicha ne dresse ni dôme ni cône et ne met pas de sucre glace : elle tasse le sellou dans un moule, le coupe en losanges et le décore d'amandes concassées ou de sésame (déjà dit dans les variantes).",
+   "gravite": "mineure",
+   "sources": "Choumicha n° 159, copie web.archive.org du 17 janvier 2026"
+  },
+  {
+   "champ": "variants[3]",
+   "actuel": "un peu de l'huile de friture des amandes à la place d'une partie du beurre (Taste of Maroc ; Lalla Moulati n° 359492)",
+   "propose": "un peu de l'huile de friture des amandes à la place du beurre clarifié (Taste of Maroc), ou en plus du beurre (Lalla Moulati n° 359492 : ¾ de verre de chaque)",
+   "pourquoi": "Taste of Maroc écrit que certains mettent un peu d'huile de friture des amandes au lieu du beurre clarifié ; c'est Lalla Moulati n° 359492 qui met les deux, ¾ de verre de beurre cuit et ¾ de verre d'huile de friture.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (notes de la recette) ; Lalla Moulati n° 359492"
+  },
+  {
+   "champ": "variants[8]",
+   "actuel": "Zmita (ou zommita)",
+   "propose": "Zmita (ou zomita)",
+   "pourquoi": "Taste of Maroc écrit « zomita » ; la graphie « zommita » n'apparaît dans aucune source lue.",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, sellou"
+  },
+  {
+   "champ": "secrets[6].source",
+   "actuel": "Taste of Maroc ; Morocco World News et Wikipédia en arabe gardent aussi du sésame entier",
+   "propose": "Taste of Maroc ; Wikipédia en arabe met aussi des graines entières dans le mélange ; Morocco World News met une demi-tasse de sésame de côté, sans dire à quoi elle sert",
+   "pourquoi": "Morocco World News met une demi-tasse de sésame de côté mais ne dit pas qu'elle va dans le mélange ; Wikipédia en arabe, elle, ajoute des graines entières (« حبات السمسم ») au mélange.",
+   "gravite": "mineure",
+   "sources": "Morocco World News, copie web.archive.org du 19 janvier 2021 ; Wikipédia (ar), « سلو »"
+  },
+  {
+   "champ": "sources[3].name",
+   "actuel": "(lu avec l'outil de lecture web : le site bloque le téléchargement direct ; quantités vérifiées deux fois)",
+   "propose": "(le site bloque les robots : page de contrôle Cloudflare, erreur 403 ; copie web.archive.org du 19 janvier 2021, à l'ancienne adresse de l'article, n° 287931)",
+   "pourquoi": "Le 8 novembre 2026, l'adresse citée renvoie une page de contrôle anti-robots (403) et n'a aucune copie archivée. L'article du 1er décembre 2019 se lit normalement sur web.archive.org, à son ancienne adresse ; il confirme tout ce que la recette lui attribue (quantités, beurre au frais 1 heure ou plus, nuit dans le saladier, cacahuètes, anis et fenouil, thé ou café, naissances).",
+   "gravite": "mineure",
+   "sources": "web.archive.org, capture du 19 janvier 2021 ; robots.txt de Morocco World News (copie du 5 novembre 2026), qui autorise tous les robots"
+  },
+  {
+   "champ": "sources[3].url",
+   "actuel": "https://www.moroccoworldnews.com/2019/12/74995/how-to-make-moroccan-sellou/",
+   "propose": "https://web.archive.org/web/20210119093203/https://www.moroccoworldnews.com/2019/12/287931/how-to-make-moroccan-sellou/",
+   "pourquoi": "Lien qu'on peut ouvrir et vérifier (voir la correction précédente).",
+   "gravite": "mineure",
+   "sources": "web.archive.org"
+  },
+  {
+   "champ": "unverified[4]",
+   "actuel": "Morocco World News : lu avec l'outil de lecture web, car le site bloque le téléchargement direct ; les quantités ont été relues deux fois.",
+   "propose": "Morocco World News : le site bloque les robots ; l'article a été relu sur sa copie web.archive.org du 19 janvier 2021, qui confirme les quantités.",
+   "pourquoi": "Même raison : la lecture repose maintenant sur une copie qu'on peut ouvrir normalement.",
+   "gravite": "mineure",
+   "sources": "web.archive.org, capture du 19 janvier 2021"
+  },
+  {
+   "champ": "unverified[9]",
+   "actuel": "Le360 (recettes de sellou allégées) et Hespress : non lus.",
+   "propose": "Hespress : non lu, le site bloque les robots. Le360 n'a que des recettes de sellou allégées (voir la source ajoutée).",
+   "pourquoi": "La page de Le360 a été lue à la contre-vérification ; Hespress renvoie une page de contrôle Cloudflare (403).",
+   "gravite": "mineure",
+   "sources": "Le360, 10 mai 2018"
+  },
+  {
+   "champ": "mistakes[7]",
+   "actuel": "à cause du risque de botulisme infantile (NHS, service de santé britannique).",
+   "propose": "à cause du risque de botulisme infantile (NHS, service de santé britannique). Et pas d'amandes entières, comme celles du décor, avant 5 ans : un enfant peut s'étouffer avec (NHS).",
+   "pourquoi": "La page du NHS déjà citée dit aussi de ne pas donner de fruits à coque entiers aux enfants de moins de 5 ans, à cause du risque d'étouffement ; ce sellou se décore d'amandes entières et se sert aux naissances et en famille.",
+   "gravite": "mineure",
+   "sources": "NHS, « Foods to avoid giving babies and young children », revue le 18 février 2026"
+  },
+  {
+   "champ": "ingredients[0].items[6].note",
+   "actuel": "appelé « النافع » au Maroc",
+   "propose": "nom marocain non confirmé : « النافع » selon Al3omk et Lalla Moulati, « الحبة الحلوة » selon Wikipédia en arabe",
+   "pourquoi": "Al3omk et Lalla Moulati (n° 360164) traduisent « النافع » par anis (يانسون), mais Wikipédia en arabe (page de Pimpinella anisum) dit qu'au Maroc on appelle l'anis « الحبة الحلوة », et Femmes du Maroc liste l'anis et la « hebet hlawa » à part : le nom n'est pas sûr.",
+   "gravite": "mineure",
+   "sources": "Al3omk (1er juin 2017) ; Lalla Moulati n° 360164 ; Wikipédia (ar), « يانسون » ; Femmes du Maroc, « Sellou diet »"
+  },
+  {
+   "champ": "unverified[3]",
+   "actuel": "aucune transcription en lettres latines lue.",
+   "propose": "aucune transcription en lettres latines lue ; Wikipédia en arabe (page « يانسون ») dit au contraire qu'au Maroc l'anis s'appelle « الحبة الحلوة ».",
+   "pourquoi": "Même raison : deux sources se contredisent sur le nom marocain de l'anis.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (ar), « يانسون »"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Mastic ou gomme arabique : le choix du mastic (meska, « المسكة الحرة ») est juste ; c'est une résine du lentisque, et la gomme arabique vient des acacias. Choumicha, Bladi.net, Morocco World News et Cooking with Alia disent « gomme arabique » par erreur ; la discordance est bien expliquée : Taste of Maroc (Nada Kiffa) ; Wikipédia (fr) « Mastic (résine) » et « Gomme arabique » ; Wikipédia (ar) « سلو » et « مستكة » ; Al3omk ; Lalla Moulati.",
+  "Quantités : 500 g de farine, 500 g d'amandes et 500 g de sésame (rapport 1:1:1 de Fès, ne pas augmenter la farine) : carte métrique de Taste of Maroc (1 kg de chaque) ; même rapport chez Cooking with Alia n° 777 et n° 495, Lalla Moulati n° 359492 et Wikipédia (ar). Toutes les médianes et conversions de l'auteur ont été recalculées avec python3 et sont justes.",
+  "Cuisson de la farine : 200 °C, 30 minutes ou plus, remuée toutes les 5 minutes, jusqu'à une couleur dorée claire à moyenne, sans brûler, puis tamisée plusieurs fois : Taste of Maroc ; recoupé par Choumicha (160 °C), Cooking with Alia (n° 146 : 30 min à 350 °F ; n° 777 et 495 : 200 °C environ 45 min), Morocco World News (20 min) et Le360 (farine dorée au four puis tamisée). La farine est cuite : aucun risque de farine crue.",
+  "Beurre clarifié : petit-lait au fond, écume retirée, une nuit au frais (Taste of Maroc) ou 1 heure ou plus (Morocco World News) ; ghee du commerce possible (réponse de Christine Benlafquih du 18 mars 2025).",
+  "Amandes frites dans environ 1 cm d'huile (½ pouce = 1,27 cm), en remuant, retirées dorées car elles foncent encore, huile trop chaude si elles colorent en moins de 5 minutes : Taste of Maroc ; test de l'amande et des petites bulles : Cooking with Alia n° 692.",
+  "Sésame à la poêle sèche (signes de cuisson) ou au four à 200 °C 15 à 20 min ; mastic pilé avec du sucre ; mélange à la main 10 minutes ; beurre ajouté peu à peu jusqu'à un mélange brillant, ferme mais souple ; pétrissage de 5 minutes ; refroidir plusieurs heures avant de fermer : Taste of Maroc ; Choumicha ; Cooking with Alia n° 777.",
+  "Conservation : plusieurs mois à température ambiante en boîte hermétique, jusqu'à un an au congélateur, congeler une partie si on ne le finit pas en un ou deux mois (Taste of Maroc, recette et réponse du 28 mai 2021) ; réfrigérateur jusqu'à un mois (Cooking with Alia n° 146) ; « se garde longtemps » (Morocco World News ; Wikipédia en arabe). Les huiles qui remontent sont normales (Taste of Maroc).",
+  "Miel avant 1 an : la mise en garde est exacte (« Do not give your child honey until they're over 1 year old », botulisme infantile) : NHS, page revue le 18 février 2026.",
+  "Variantes de Choumicha, Bladi.net, Morocco World News, Cooking with Alia (n° 777, 146, 495) et des quatre pages de Lalla Moulati : quantités relues sur chaque page, conformes.",
+  "Noms et occasions : سلّو, slilou, sfouf (Wikipédia en et fr) ; سلو أو السفوف (Cooking with Alia n° 495) ; noms régionaux, mariages, العقيقة, thé après les tarawih, amandes frites en décor (Al3omk, 1er juin 2017) ; ftour et naissances (Taste of Maroc ; Morocco World News) ; سليلو (Wikipédia en arabe).",
+  "Halal : ni alcool, ni porc, ni fromage.",
+  "Minuteurs : farine 30 min, mélange 10 min, pétrissage 5 min, identiques au texte des étapes. Quantités des étapes identiques à la liste.",
+  "Rendu dans l'appli (copie des fonctions de app.html, exécutée avec node) : 1 fournée (1 personne et nombre de la recette) : 500 g, 125 g, 1 c. à s., ½ c. à c. de sel, ¼ c. à c. de mastic, 250 g de beurre ; 2 fournées : 1 kg, 250 g, 2 c. à s., 1 c. à c., ½ c. à c., 500 g. Les {{id}} des étapes affichent bien la seule quantité (« Étale 500 g de farine », « pile ¼ c. à c. de grains de mastic ») ; les ingrédients sans quantité s'affichent par leur nom.",
+  "Liens : toutes les sources répondent (200), sauf la page de Morocco World News citée (403, contrôle Cloudflare). robots.txt : aucun site utilisé n'interdit les robots (Taste of Maroc, Bladi.net, Cooking with Alia, Lalla Moulati, Al3omk, Wikipédia, NHS, Femmes du Maroc, Le360 hors /recherche ; Choumicha et Morocco World News d'après leurs copies archivées). SNRT News, qui interdit les robots de Claude, n'est pas utilisé."
+ ],
+ "non_verifiable": [
+  "Page actuelle de Morocco World News (adresse n° 74995) : non lue, le site renvoie une page de contrôle anti-robots (403) que je n'ai pas contournée ; seule sa copie archivée de 2021 a été lue.",
+  "Sellou classique chez Le360, Hespress ou Morocco World News (autre que l'article de 2019) : non trouvé. La recherche web était épuisée, la page de recherche de Le360 est interdite aux robots, Hespress bloque les robots et l'index de web.archive.org a renvoyé des erreurs 502 et 504 ; seules des versions allégées ont été trouvées (Le360 ; Femmes du Maroc).",
+  "Nom marocain de l'anis (« النافع » ou « الحبة الحلوة ») et sens de « حبة حلاوة » (aneth pour Lalla Moulati, anis pour Wikipédia en arabe) : les sources se contredisent.",
+  "Conservation de plusieurs mois à température ambiante : affirmée par Taste of Maroc et recoupée par Morocco World News et Wikipédia en arabe, mais aucune source officielle de sécurité alimentaire lue sur ce point.",
+  "Temps de préparation et de cuisson (60 + 60 min) et difficulté : estimations de l'auteur, non vérifiables ; les sources donnent des durées différentes.",
+  "« زبدة مطبوخة » (Lalla Moulati n° 359492) lu comme du beurre clarifié : interprétation, déjà signalée par l'auteur."
+ ]
+}

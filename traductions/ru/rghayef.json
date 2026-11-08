@@ -1,0 +1,530 @@
+{
+ "_slug": "rghayef",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Rghayef farcis à l'oignon et au khlii",
+   "t": "Ргаиф с начинкой из лука и хлии"
+  },
+  "darija": {
+   "fr": "rghayef m'ammrin (singulier : rghifa)",
+   "t": "ргаиф м'аммрин (в единственном числе — ргифа)"
+  },
+  "tagline": {
+   "fr": "Des galettes feuilletées fourrées d'oignons fondants, de persil et de khlii, dorées à la poêle et servies brûlantes avec le thé.",
+   "t": "Слоёные лепёшки с начинкой из мягкого лука, петрушки и хлии, зарумяненные на сковороде и поданные обжигающе горячими к чаю."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; à Fès, le msemmen au khlii fait partie des gourmandises du ftour",
+   "t": "По всему Марокко; в Фесе мсемен с хлии — одно из лакомств ифтара"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter, ftour du ramadan",
+   "t": "Завтрак, полдник, ифтар в Рамадан"
+  },
+  "img_alt": {
+   "fr": "Assortiment de rghayef carrés, dorés à la poêle (la farce ne se voit pas sur la photo)",
+   "t": "Квадратные ргаиф, зарумяненные на сковороде (начинку на фото не видно)"
+  },
+  "serving": {
+   "fr": "Bien chauds, au petit-déjeuner ou au goûter, avec un thé (Morocco World News 2013 : « Serve hot with tea » ; Guinaudeau : mangés chauds avec le thé du petit-déjeuner ; Choumicha : « Servir les r'ghaifs chaudes »). On les sert aussi au ftour du ramadan : Choumicha range la moitié de ses r'ghaifs (5 recettes sur 10, dont celle à la viande hachée et aux légumes) dans « Ramadan », et Femmes du Maroc cite le msemmen au khlii parmi les gourmandises du ftour à Fès. Les restes vont au réfrigérateur dans les 2 heures, se mangent dans les 3 jours et se réchauffent jusqu'à être très chauds à cœur, à la poêle ou au four (Anses).",
+   "t": "Горячими, на завтрак или полдник, с чаем (Morocco World News 2013: «Serve hot with tea»; Guinaudeau: их едят горячими с утренним чаем; Choumicha: «подавать ргаиф горячими»). Их подают и на ифтар в Рамадан: Choumicha относит половину своих рецептов ргаиф (5 из 10, в том числе с фаршем и овощами) к разделу «Рамадан», а Femmes du Maroc называет мсемен с хлии среди лакомств ифтара в Фесе. Остатки уберите в холодильник в течение 2 часов, съешьте в течение 3 дней и разогрейте на сковороде или в духовке, пока они не станут очень горячими внутри (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Farce",
+   "t": "Начинка"
+  },
+  "ing.huile-farce.name": {
+   "fr": "d'huile de table (ou d'huile d'olive)",
+   "t": "растительного масла (или оливкового)"
+  },
+  "ing.oignons.name": {
+   "fr": "gros oignon",
+   "t": "луковица крупного размера"
+  },
+  "ing.oignons.pl": {
+   "fr": "gros oignons",
+   "t": "луковицы крупного размера"
+  },
+  "ing.oignons.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.oignons.note": {
+   "fr": "à émincer très finement",
+   "t": "очень тонко нашинковать"
+  },
+  "ing.khlii.name": {
+   "fr": "de khlii (viande séchée confite)",
+   "t": "хлии (вяленого мяса в жиру)"
+  },
+  "ing.khlii.note": {
+   "fr": "de viande halal (bœuf ou chameau le plus souvent, parfois agneau ou mouton) et de graisse halal, ou conservé dans l'huile d'olive seule ; émietté ou haché finement",
+   "t": "из мяса халяль (чаще всего говядины или верблюжатины, иногда ягнятины или баранины) и жира халяль либо хранящийся только в оливковом масле; раскрошенный или мелко нарубленный"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "finement ciselé",
+   "t": "мелко нарезанная"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment rouge doux)",
+   "t": "сладкой паприки (сладкого красного перца)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина (зиры)"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort moulu",
+   "t": "острый молотый перец"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif, selon ton goût",
+   "t": "по желанию, по вкусу"
+  },
+  "ing.sel-farce.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel-farce.note": {
+   "fr": "selon le goût ; goûte d'abord, le khlii est déjà assaisonné",
+   "t": "по вкусу; сначала попробуйте: хлии уже приправлен"
+  },
+  "ing.1.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (T45 ou T55)",
+   "t": "белой пшеничной муки (T45 или T55)"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine",
+   "t": "мелкой семолины (крупки из твёрдой пшеницы)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "тёплой воды"
+  },
+  "ing.eau.note": {
+   "fr": "environ : verse-la petit à petit, il en faut de 280 à 360 ml selon ta farine",
+   "t": "примерно: вливайте её понемногу, в зависимости от муки нужно от 280 до 360 мл"
+  },
+  "ing.2.group": {
+   "fr": "Pour façonner",
+   "t": "Для формовки"
+  },
+  "ing.huile-faconnage.name": {
+   "fr": "huile neutre (tournesol)",
+   "t": "растительное масло (подсолнечное)"
+  },
+  "ing.huile-faconnage.note": {
+   "fr": "pour le plan de travail, les mains et les pâtons",
+   "t": "для рабочей поверхности, рук и шариков теста"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, fondu",
+   "t": "сливочного масла, растопленного"
+  },
+  "ing.huile-beurre.name": {
+   "fr": "d'huile neutre, à mélanger au beurre fondu",
+   "t": "растительного масла — смешать с растопленным сливочным"
+  },
+  "ing.semoule-faconnage.name": {
+   "fr": "de semoule fine, à saupoudrer",
+   "t": "мелкой семолины — для посыпки"
+  },
+  "equipment.0": {
+   "fr": "Une sauteuse avec couvercle, pour la farce",
+   "t": "Сотейник с крышкой для начинки"
+  },
+  "equipment.1": {
+   "fr": "Une cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "equipment.2": {
+   "fr": "Une grande assiette, pour refroidir la farce",
+   "t": "Большая тарелка, чтобы остудить начинку"
+  },
+  "equipment.3": {
+   "fr": "Un grand saladier (ou une gsaa)",
+   "t": "Большая миска (или гсаа)"
+  },
+  "equipment.4": {
+   "fr": "Une balance de cuisine",
+   "t": "Кухонные весы"
+  },
+  "equipment.5": {
+   "fr": "Un grand plan de travail lisse (ou un grand plateau)",
+   "t": "Большая гладкая рабочая поверхность (или большой поднос)"
+  },
+  "equipment.6": {
+   "fr": "Deux plateaux huilés : un pour les pâtons, un pour les galettes farcies",
+   "t": "Два смазанных маслом подноса: один для шариков теста, другой для лепёшек с начинкой"
+  },
+  "equipment.7": {
+   "fr": "Trois bols : huile, beurre-huile, semoule",
+   "t": "Три миски: для растительного масла, для смеси сливочного и растительного масла, для семолины"
+  },
+  "equipment.8": {
+   "fr": "Un pinceau",
+   "t": "Кисточка"
+  },
+  "equipment.9": {
+   "fr": "Du film alimentaire ou un torchon propre",
+   "t": "Пищевая плёнка или чистое кухонное полотенце"
+  },
+  "equipment.10": {
+   "fr": "Une grande poêle à fond épais",
+   "t": "Большая сковорода с толстым дном"
+  },
+  "equipment.11": {
+   "fr": "Une spatule",
+   "t": "Лопатка"
+  },
+  "steps.0.title": {
+   "fr": "Fondre les oignons",
+   "t": "Спассеруйте лук"
+  },
+  "steps.0.text": {
+   "fr": "Dans une sauteuse, fais chauffer {{huile-farce}} d'huile à feu moyen. Ajoute l'oignon émincé ({{oignons:full}}), couvre et laisse cuire 10 minutes en remuant de temps en temps, jusqu'à ce qu'il soit tendre et translucide.",
+   "t": "Разогрейте в сотейнике {{huile-farce}} масла на среднем огне. Добавьте нашинкованный лук ({{oignons}} шт.), накройте крышкой и готовьте 10 минут, время от времени помешивая, пока он не станет мягким и прозрачным."
+  },
+  "steps.0.timer.label": {
+   "fr": "Oignons",
+   "t": "Лук"
+  },
+  "steps.0.timer.done": {
+   "fr": "L'oignon est-il tendre et translucide ? Sinon, prolonge de quelques minutes.",
+   "t": "Лук мягкий и прозрачный? Если нет, готовьте ещё несколько минут."
+  },
+  "steps.1.title": {
+   "fr": "Ajouter khlii, persil et épices",
+   "t": "Добавьте хлии, петрушку и специи"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{khlii}} de khlii émietté, {{persil}} de persil ciselé, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre et, si tu aimes, un peu de {{piment}}. Laisse cuire 5 minutes à découvert, en remuant, jusqu'à ce qu'il ne reste plus de liquide.",
+   "t": "Добавьте {{khlii}} раскрошенного хлии, {{persil}} нарезанной петрушки, {{paprika}} паприки, {{cumin}} кумина, {{poivre}} перца и, если любите, немного острого молотого перца. Готовьте 5 минут без крышки, помешивая, пока не испарится вся жидкость."
+  },
+  "steps.1.timer.label": {
+   "fr": "Farce",
+   "t": "Начинка"
+  },
+  "steps.1.timer.done": {
+   "fr": "S'il reste du liquide, laisse-le s'évaporer, puis coupe le feu.",
+   "t": "Если жидкость осталась, дайте ей испариться, затем выключите огонь."
+  },
+  "steps.2.title": {
+   "fr": "Goûter et refroidir",
+   "t": "Попробуйте и остудите"
+  },
+  "steps.2.text": {
+   "fr": "Goûte la farce et ajoute du {{sel-farce}} seulement si besoin : le khlii est déjà assaisonné. Étale-la dans une grande assiette et laisse-la refroidir complètement : chaude, elle abîme la pâte. Si tu la prépares à l'avance, mets-la au réfrigérateur dans les 2 heures.",
+   "t": "Попробуйте начинку и досолите, только если нужно: хлии уже приправлен. Разложите её на большой тарелке и дайте полностью остыть: горячая начинка портит тесто. Если готовите её заранее, уберите в холодильник в течение 2 часов."
+  },
+  "steps.3.title": {
+   "fr": "Mélanger la pâte",
+   "t": "Смешайте тесто"
+  },
+  "steps.3.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine et {{sel}} de sel. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une boule souple. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "t": "Смешайте в большой миске {{farine}} муки, {{semoule}} мелкой семолины и {{sel}} соли. Понемногу вливайте {{eau}} тёплой воды, перемешивая рукой, пока не получится мягкий шар. Если тесто липнет, добавьте немного муки; если оно сухое — немного воды."
+  },
+  "steps.4.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "Месите 10 минут"
+  },
+  "steps.4.text": {
+   "fr": "Pétris pendant 10 minutes, jusqu'à ce que la pâte soit lisse, souple et élastique, et ne colle plus.",
+   "t": "Месите 10 минут, пока тесто не станет гладким, мягким и эластичным и не перестанет липнуть."
+  },
+  "steps.4.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Замес"
+  },
+  "steps.4.timer.done": {
+   "fr": "Touche la pâte : si elle n'est pas lisse et élastique, pétris encore un peu.",
+   "t": "Потрогайте тесто: если оно не гладкое и не эластичное, помесите ещё немного."
+  },
+  "steps.4.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Руки, замешивающие тесто"
+  },
+  "steps.4.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Замес теста"
+  },
+  "steps.5.title": {
+   "fr": "Former les pâtons",
+   "t": "Сформируйте шарики теста"
+  },
+  "steps.5.text": {
+   "fr": "Huile tes mains et un plateau. Partage la pâte en boules d'environ 75 g, une par galette. Roule-les dans l'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+   "t": "Смажьте маслом руки и поднос. Разделите тесто на шарики примерно по 75 г — по одному на лепёшку. Обваляйте их в масле, выложите на поднос так, чтобы они не касались друг друга, накройте и оставьте на 15 минут."
+  },
+  "steps.5.timer.label": {
+   "fr": "Repos des pâtons",
+   "t": "Отдых теста"
+  },
+  "steps.5.timer.done": {
+   "fr": "Les pâtons ont reposé : tu peux étirer et farcir.",
+   "t": "Тесто отдохнуло: можно растягивать и начинять."
+  },
+  "steps.6.title": {
+   "fr": "Préparer ton poste",
+   "t": "Подготовьте рабочее место"
+  },
+  "steps.6.text": {
+   "fr": "Pendant le repos, mélange {{beurre}} de beurre fondu avec {{huile-beurre}} d'huile. Mets à portée de main ce mélange, un bol d'{{huile-faconnage}}, {{semoule-faconnage}} de semoule fine et la farce froide. Huile largement ton plan de travail.",
+   "t": "Пока тесто отдыхает, смешайте {{beurre}} растопленного сливочного масла с {{huile-beurre}} растительного масла. Поставьте под рукой эту смесь, миску с растительным маслом, {{semoule-faconnage}} мелкой семолины и остывшую начинку. Щедро смажьте маслом рабочую поверхность."
+  },
+  "steps.7.title": {
+   "fr": "Étirer très fin",
+   "t": "Растяните очень тонко"
+  },
+  "steps.7.text": {
+   "fr": "Pose un pâton sur le plan huilé. Mains huilées, étire-le du bout des doigts, du centre vers les bords, jusqu'à un disque très fin d'environ 28 cm. Remets de l'huile si la pâte accroche.",
+   "t": "Положите шарик теста на смазанную маслом поверхность. Смазанными маслом руками растягивайте его кончиками пальцев от центра к краям, пока не получится очень тонкий круг диаметром около 28 см. Если тесто прилипает, добавьте ещё масла."
+  },
+  "steps.7.img.alt": {
+   "fr": "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)",
+   "t": "Смазанные маслом руки растягивают очень тонкое тесто, Марокко (здесь — для мсемена)"
+  },
+  "steps.7.img.caption": {
+   "fr": "Étirer du bout des doigts",
+   "t": "Растягивание кончиками пальцев"
+  },
+  "steps.8.title": {
+   "fr": "Badigeonner et garnir",
+   "t": "Смажьте и положите начинку"
+  },
+  "steps.8.text": {
+   "fr": "Badigeonne le disque de mélange beurre-huile et saupoudre-le d'un peu de semoule. Pose au centre 1 à 2 cuillerées à soupe de farce, en laissant les bords libres : la farce doit suffire pour toutes les galettes.",
+   "t": "Смажьте круг смесью сливочного и растительного масла и посыпьте небольшим количеством семолины. Положите в центр 1–2 столовые ложки начинки, оставив края свободными: начинки должно хватить на все лепёшки."
+  },
+  "steps.9.title": {
+   "fr": "Fermer en carré",
+   "t": "Сложите квадратом"
+  },
+  "steps.9.text": {
+   "fr": "Rabats trois côtés de la pâte sur la farce, puis le quatrième par-dessus en l'étirant un peu : ce dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir. Pose le carré fermé sur le second plateau huilé et recommence avec les autres pâtons.",
+   "t": "Заверните на начинку три стороны теста, затем сверху четвёртую, слегка её растянув: этот последний слой без начинки укрепляет лепёшку и не даёт ей раскрыться. Положите сложенный квадрат на второй смазанный маслом поднос и повторите с остальными шариками теста."
+  },
+  "steps.10.title": {
+   "fr": "Chauffer la poêle",
+   "t": "Разогрейте сковороду"
+  },
+  "steps.10.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais à feu moyen-vif, puis huile-la légèrement.",
+   "t": "Разогрейте большую сковороду с толстым дном на огне выше среднего, затем слегка смажьте её маслом."
+  },
+  "steps.11.title": {
+   "fr": "Aplatir doucement",
+   "t": "Аккуратно расплющите"
+  },
+  "steps.11.text": {
+   "fr": "Mains huilées, aplatis le premier carré du bout des doigts, sans percer la pâte, jusqu'à environ 12 à 15 cm de côté. La farce doit rester bien enfermée.",
+   "t": "Смазанными маслом руками расплющите первый квадрат кончиками пальцев, не прорывая тесто, до стороны примерно 12–15 см. Начинка должна оставаться внутри."
+  },
+  "steps.12.title": {
+   "fr": "Cuire en retournant",
+   "t": "Жарьте, переворачивая"
+  },
+  "steps.12.text": {
+   "fr": "Dépose la galette dans la poêle et retourne-la plusieurs fois, jusqu'à ce qu'elle soit bien dorée et croustillante des deux côtés. Si elle colore trop vite, baisse un peu le feu : la pâte doit cuire jusqu'au centre.",
+   "t": "Положите лепёшку на сковороду и несколько раз переверните, пока она не станет золотистой и хрустящей с обеих сторон. Если она румянится слишком быстро, немного убавьте огонь: тесто должно пропечься до середины."
+  },
+  "steps.12.img.alt": {
+   "fr": "Galettes feuilletées carrées qui dorent sur une grande plaque",
+   "t": "Квадратные слоёные лепёшки румянятся на большой жарочной поверхности"
+  },
+  "steps.12.img.caption": {
+   "fr": "Cuire jusqu'à ce qu'elles soient bien dorées",
+   "t": "Жарка до золотистого цвета"
+  },
+  "steps.13.title": {
+   "fr": "Continuer avec les autres",
+   "t": "Продолжайте с остальными"
+  },
+  "steps.13.text": {
+   "fr": "Pose la galette cuite sur une planche ou une grille, et continue avec les autres carrés, en les aplatissant au fur et à mesure.",
+   "t": "Переложите готовую лепёшку на доску или решётку и продолжайте с остальными квадратами, расплющивая их по очереди."
+  },
+  "steps.14.title": {
+   "fr": "Servir brûlant",
+   "t": "Подавайте обжигающе горячими"
+  },
+  "steps.14.text": {
+   "fr": "Sers les rghayef bien chauds, avec un thé.",
+   "t": "Подавайте ргаиф горячими, с чаем."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, on appelle rghayef m'ammrin (« farcis ») les galettes feuilletées farcies : au khlii, à la viande hachée, aux légumes ou à la graisse épicée.",
+   "t": "В Марокко слоёные лепёшки с начинкой — с хлии, фаршем, овощами или пряным жиром — называют ргаиф м'аммрин («начинённые»)."
+  },
+  "secrets.0.source": {
+   "fr": "Wikipédia (fr), « Msemen » ; Lalla Moulati (« رغايف معمرين ») ; Morocco World News 2013 (« Msemen Maamer »)",
+   "t": "Wikipédia (fr), статья «Msemen»; Lalla Moulati («رغايف معمرين»); Morocco World News 2013 («Msemen Maamer»)"
+  },
+  "secrets.1.text": {
+   "fr": "Farce bien froide : chaude, elle abîme la pâte et rend le pliage difficile.",
+   "t": "Начинка должна быть хорошо остывшей: горячая портит тесто и мешает складывать лепёшки."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Choumicha, Morocco World News et Cooking with Alia (farce refroidie avant de garnir)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Choumicha, Morocco World News и Cooking with Alia (начинку остужают перед тем, как начинять)"
+  },
+  "secrets.2.text": {
+   "fr": "Farce bien sèche : laisse évaporer tout le liquide avant de couper le feu.",
+   "t": "Начинка должна быть сухой: дайте всей жидкости испариться, прежде чем выключить огонь."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha (« jusqu'à évaporation de l'eau de végétation ») ; My Moroccan Food (« until all liquids have evaporated »)",
+   "t": "Choumicha («пока не испарится выделившийся из овощей сок»); My Moroccan Food («until all liquids have evaporated»)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne mets pas trop de farce et garde les bords libres, pour pouvoir bien fermer la galette.",
+   "t": "Не кладите слишком много начинки и оставляйте края свободными, чтобы лепёшку можно было хорошо закрыть."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Choumicha (1 c. à s. de farce au milieu de chaque r'ghifa)",
+   "t": "My Moroccan Food; Choumicha (1 ст. л. начинки в центр каждой ргифы)"
+  },
+  "secrets.4.text": {
+   "fr": "Le dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir et de perdre sa farce à la cuisson.",
+   "t": "Последний слой без начинки укрепляет лепёшку и не даёт ей раскрыться и потерять начинку при жарке."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs ; Bladi.net (« tirer le quatrième bord pour renforcer la pâte fragile au niveau de la farce »)",
+   "t": "Choumicha, советы для удачных ргаиф; Bladi.net («потянуть четвёртый край, чтобы укрепить тонкое тесто над начинкой»)"
+  },
+  "secrets.5.text": {
+   "fr": "Pétris bien la pâte et respecte le repos : elle devient élastique et malléable, donc plus facile à feuilleter.",
+   "t": "Хорошо вымесите тесто и обязательно дайте ему отдохнуть: оно станет эластичным и податливым, и его будет легче растянуть в слоёную лепёшку."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs",
+   "t": "Choumicha, советы для удачных ргаиф"
+  },
+  "secrets.6.text": {
+   "fr": "Huile les pâtons pour qu'ils ne forment pas de croûte.",
+   "t": "Смажьте шарики теста маслом, чтобы на них не образовалась корочка."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha, conseils pour les r'ghaifs feuilletées",
+   "t": "Choumicha, советы для слоёных ргаиф"
+  },
+  "secrets.7.text": {
+   "fr": "Le khlii, c'est du gueddid (viande séchée au soleil, le plus souvent de bœuf ou de chameau, parfois d'agneau ou de mouton) confit longuement dans du suif de bœuf et de l'huile d'olive ; au marché, il se vend dans un mélange de graisse et d'huile, ou dans l'huile d'olive seule. Une fois le pot ouvert, garde-le au réfrigérateur ou au congélateur.",
+   "t": "Хлии — это гедид (мясо, вяленное на солнце, чаще всего говядина или верблюжатина, иногда ягнятина или баранина), долго томлённый в говяжьем топлёном жире и оливковом масле; на рынке его продают в смеси жира и масла или только в оливковом масле. Открытую банку храните в холодильнике или морозилке."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »",
+   "t": "Taste of Maroc, статья «Moroccan Preserved Meat – Khlii or Khlea»"
+  },
+  "secrets.8.text": {
+   "fr": "La farce se prépare jusqu'à 2 jours à l'avance, au réfrigérateur.",
+   "t": "Начинку можно приготовить заранее, максимум за 2 дня, и хранить в холодильнике."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; l'Anses recommande de consommer les plats cuisinés maison dans les 3 jours",
+   "t": "My Moroccan Food; Anses рекомендует съедать домашние готовые блюда в течение 3 дней"
+  },
+  "secrets.9.text": {
+   "fr": "Pendant la cuisson, presse les bords avec une spatule pour qu'ils cuisent bien.",
+   "t": "Во время жарки прижимайте края лопаткой, чтобы они хорошо прожарились."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Pour congeler les galettes : cuis-les à moitié, laisse-les refroidir et emballe-les une par une. Le jour venu, mets-les 15 minutes au réfrigérateur, puis finis la cuisson au four, jusqu'à ce qu'elles soient dorées et très chaudes.",
+   "t": "Чтобы заморозить лепёшки, обжарьте их до полуготовности, дайте остыть и заверните каждую отдельно. В нужный день положите их на 15 минут в холодильник, затем допеките в духовке, пока они не зарумянятся и не станут очень горячими."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs ; l'Anses admet de décongeler directement par la cuisson ou le réchauffage",
+   "t": "Choumicha, советы для удачных ргаиф; Anses допускает размораживание сразу при готовке или разогреве"
+  },
+  "secrets.11.text": {
+   "fr": "À Fès, Guinaudeau a vu porter les rghaif au four du quartier, comme le pain : épais d'environ un pouce, luisants de graisse et rougis au piment, mangés chauds avec le thé du matin.",
+   "t": "По наблюдениям Guinaudeau, в Фесе ргаиф, как и хлеб, относили в квартальную печь: толщиной около дюйма, блестящие от жира и покрасневшие от перца, их ели горячими с утренним чаем."
+  },
+  "secrets.11.source": {
+   "fr": "Z. Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez",
+   "t": "Z. Guinaudeau-Franc, книга Traditional Moroccan Cooking: Recipes from Fez"
+  },
+  "mistakes.0": {
+   "fr": "Farcir avec une farce encore chaude : la pâte s'abîme (My Moroccan Food).",
+   "t": "Начинять ещё горячей начинкой: тесто портится (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser du liquide dans la farce (Choumicha ; My Moroccan Food).",
+   "t": "Оставлять жидкость в начинке (Choumicha; My Moroccan Food)."
+  },
+  "mistakes.2": {
+   "fr": "Saler la farce sans goûter : le khlii est déjà assaisonné (Taste of Maroc, recette du khlii : sel, ail, cumin et coriandre dans la graisse).",
+   "t": "Солить начинку, не попробовав: хлии уже приправлен (Taste of Maroc, рецепт хлии: соль, чеснок, кумин и кориандр в жире)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre trop de farce, ou jusqu'aux bords : elle doit rester enfermée dans la pâte (My Moroccan Food).",
+   "t": "Класть слишком много начинки или до самых краёв: она должна оставаться внутри теста (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Percer la pâte en aplatissant le carré : la farce s'échappe (My Moroccan Food : aplatir « sans casser la pâte »).",
+   "t": "Прорывать тесто, расплющивая квадрат: начинка вытекает (My Moroccan Food: расплющивать, «не разрывая тесто»)."
+  },
+  "mistakes.5": {
+   "fr": "Négliger le pétrissage ou le repos : la pâte manque d'élasticité et se feuillette mal (Choumicha).",
+   "t": "Пренебрегать замесом или отдыхом теста: оно недостаточно эластичное и плохо слоится (Choumicha)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser la farce ou les galettes plus de 2 heures à température ambiante avant de les mettre au réfrigérateur (Anses).",
+   "t": "Оставлять начинку или лепёшки при комнатной температуре дольше 2 часов, прежде чем убрать в холодильник (Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Cuire sur un feu trop fort : la galette dore avant que la pâte ne cuise au centre (Taste of Maroc, pour les galettes feuilletées ; MarocMama ; Cooking with Alia : cuire jusqu'à ce que « le centre soit cuit »).",
+   "t": "Жарить на слишком сильном огне: лепёшка румянится раньше, чем тесто пропечётся в середине (Taste of Maroc, о слоёных лепёшках; MarocMama; Cooking with Alia: жарить, пока «середина не пропечётся»)."
+  },
+  "variants.0": {
+   "fr": "À la viande hachée (rghayef à la kefta) : fais revenir les oignons, puis ajoute la viande hachée halal, les herbes et les épices, et cuis la viande complètement avant de farcir (Choumicha, « R'ghaifs à la viande hachée et aux oignons » : 300 g de viande, 4 oignons, persil, coriandre, paprika, sel et poivre pour 500 g de pâte ; My Moroccan Food : 200 g de bœuf haché, 4 gros oignons et 4 poivrons pour 12 ; Morocco World News 2013 ; Cooking with Alia).",
+   "t": "С фаршем (ргаиф с кефтой): обжарьте лук, затем добавьте фарш халяль, зелень и специи и полностью прожарьте мясо, прежде чем начинять (Choumicha, «R'ghaifs à la viande hachée et aux oignons»: 300 г мяса, 4 луковицы, петрушка, кориандр, паприка, соль и перец на 500 г теста; My Moroccan Food: 200 г говяжьего фарша, 4 крупные луковицы и 4 сладких перца на 12; Morocco World News 2013; Cooking with Alia)."
+  },
+  "variants.1": {
+   "fr": "À la graisse de bœuf halal (chehma) au lieu du khlii : Bladi.net met « 1 verre de gras de bœuf ou de khlii », ajouté à l'oignon adouci et cuit 5 minutes en remuant, comme le khlii ici ; à Fès, Guinaudeau décrit une farce de graisse de mouton ou de bœuf hachée, relevée de piment rouge doux et fort, cuite juste assez pour que la graisse commence à fondre, mais ces rghaif cuisaient ensuite au four du quartier.",
+   "t": "С говяжьим жиром халяль (шехма) вместо хлии: у Bladi.net — «1 стакан говяжьего жира или хлии», который добавляют к размягчённому луку и готовят 5 минут, помешивая, как хлии здесь; в Фесе Guinaudeau описывает начинку из рубленого бараньего или говяжьего жира, приправленную сладким и острым красным перцем и прогретую ровно настолько, чтобы жир начал таять, но эти ргаиф потом пекли в квартальной печи."
+  },
+  "variants.2": {
+   "fr": "Khlii étalé sur toute la feuille, puis pliée en carré comme un msemen : 1 c. à s. de khlii par galette et de la semoule mêlée d'un peu de levure chimique (Cooking with Alia, « Msemmen with Khlii »).",
+   "t": "Хлии распределяют по всему листу теста, затем складывают квадратом, как мсемен: 1 ст. л. хлии на лепёшку и семолина, смешанная с небольшим количеством разрыхлителя (Cooking with Alia, «Msemmen with Khlii»)."
+  },
+  "variants.3": {
+   "fr": "Aux oignons et aux œufs : 6 oignons, persil, cannelle, gingembre, poivre, curcuma et 4 œufs brouillés dans la farce ; servis saupoudrés de sucre glace et de cannelle (Choumicha).",
+   "t": "С луком и яйцами: в начинке 6 луковиц, петрушка, корица, имбирь, перец, куркума и 4 яйца, приготовленные болтуньей; подают, посыпав сахарной пудрой и корицей (Choumicha)."
+  },
+  "variants.4": {
+   "fr": "Aux légumes et à l'agneau haché halal : poivrons, carottes et courgettes râpées, tomate, coriandre et épices, cuits jusqu'à évaporation de l'eau et jusqu'à ce que la viande soit bien cuite (Choumicha ; Anses). Choumicha propose aussi des r'ghaifs aux épinards et aux crevettes, ou aux épinards et aux fromages (fromage à coagulant microbien, sans présure animale, si tu veux être strict).",
+   "t": "С овощами и фаршем из ягнятины халяль: сладкий перец, тёртые морковь и кабачки, помидор, кориандр и специи, которые готовят, пока не испарится вода и мясо полностью не прожарится (Choumicha; Anses). Choumicha предлагает также ргаиф со шпинатом и креветками или со шпинатом и сырами (если хотите строгости — сыр с микробным коагулянтом, без животного сычужного фермента)."
+  },
+  "variants.5": {
+   "fr": "Au four : sur une plaque tapissée de papier cuisson, dorés à l'œuf battu, à 180 °C jusqu'à ce qu'ils soient dorés (Choumicha), ou 18 à 20 minutes à 200 °C (My Moroccan Food) ; badigeonne-les d'huile en cours de cuisson pour la couleur et le croustillant (Choumicha).",
+   "t": "В духовке: на противне, застеленном пекарской бумагой, смазанные взбитым яйцом, при 180 °C до золотистого цвета (Choumicha) или 18–20 минут при 200 °C (My Moroccan Food); во время выпекания смазывайте их маслом для цвета и хруста (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "Sucrés : r'ghaifs farcis d'amandes, de sucre et de cannelle, frits puis trempés dans le miel et parsemés de sésame, pour le ramadan et l'Aïd el-Fitr (Choumicha) ; Lalla Moulati publie aussi des « رغايف معسلة » (rghayef au miel) pour le ramadan, et des rghayef de Meknès aux amandes parmi les gâteaux de l'Aïd.",
+   "t": "Сладкие: ргаиф с начинкой из миндаля, сахара и корицы, обжаренные, затем обмакнутые в мёд и посыпанные кунжутом, — для Рамадана и Ураза-байрама (Choumicha); Lalla Moulati публикует также «رغايف معسلة» (ргаиф с мёдом) для Рамадана, а мекнесские ргаиф с миндалём — среди сладостей к байраму."
+  }
+ }
+}

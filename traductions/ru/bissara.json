@@ -1,0 +1,454 @@
+{
+ "_slug": "bissara",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Bissara, soupe de fèves sèches",
+   "t": "Биссара, суп из сушёных бобов"
+  },
+  "darija": {
+   "fr": "Bissara (bayssar dans le Nord)",
+   "t": "Биссара (на севере — байсар)"
+  },
+  "tagline": {
+   "fr": "La purée-soupe de fèves du Nord : toute simple dans la marmite, irrésistible dans le bol avec l'huile d'olive, le cumin et le piment.",
+   "t": "Суп-пюре из бобов с севера Марокко: совсем простой в кастрюле и неотразимый в миске с оливковым маслом, кумином (зирой) и острым перцем."
+  },
+  "region": {
+   "fr": "Tout le Maroc, mais spécialité du Nord : Tanger, Tétouan, Chefchaouen et le pays Jbala, où on l'appelle aussi « bayssar »",
+   "t": "По всему Марокко, но особенно на севере: в Танжере, Тетуане, Шефшауэне и в краю Джбала, где её называют также «байсар»"
+  },
+  "occasion": {
+   "fr": "Plat d'hiver, au petit-déjeuner, au déjeuner ou au dîner ; plat de rue très populaire, servi dès le matin ; parfois au ftour du Ramadan",
+   "t": "Зимнее блюдо на завтрак, обед или ужин; очень популярная уличная еда, которую подают с самого утра; иногда — на ифтар в Рамадан"
+  },
+  "img_alt": {
+   "fr": "Bols de bissara arrosés d'huile d'olive et de cumin, avec olives et khobz",
+   "t": "Миски с биссарой, политой оливковым маслом и посыпанной кумином, с оливками и хобзом"
+  },
+  "serving": {
+   "fr": "Bien chaude, en bol pour la soupe ou en assiette creuse pour la purée à saucer. Arrose d'huile d'olive et saupoudre de cumin et de paprika ; laisse sur la table du piment fort, du cumin, de l'huile d'olive et du citron ; sers avec du khobz ou du pain d'orge (Choumicha ; Taste of Maroc ; Hespress ; Sky News Arabia ; Bladi.net). Dans le Nord, on l'accompagne d'olives et d'oignon, parfois de poisson frit (Hespress 2011 et 2014 ; Taste of Maroc). Elle se mange au petit-déjeuner, au déjeuner ou au dîner (Hespress ; My Moroccan Food ; Taste of Maroc), surtout quand il fait froid (Hespress ; Le360 ; My Moroccan Food).",
+   "t": "Очень горячей: в миске, если это суп, или в глубокой тарелке, если это пюре, которое собирают хлебом. Полейте оливковым маслом и посыпьте кумином и паприкой; оставьте на столе острый перец, кумин, оливковое масло и лимон; подавайте с хобзом или ячменным хлебом (Choumicha; Taste of Maroc; Hespress; Sky News Arabia; Bladi.net). На севере к ней подают оливки и лук, иногда жареную рыбу (Hespress 2011 и 2014; Taste of Maroc). Её едят на завтрак, обед или ужин (Hespress; My Moroccan Food; Taste of Maroc), особенно в холода (Hespress; Le360; My Moroccan Food)."
+  },
+  "notes.0.title": {
+   "fr": "Fèves et favisme (déficit en G6PD)",
+   "t": "Бобы и фавизм (дефицит Г6ФД)"
+  },
+  "notes.0.text": {
+   "fr": "En cas de déficit en G6PD, les fèves peuvent provoquer une destruction des globules rouges (anémie hémolytique, appelée favisme), parfois grave : ne sers pas cette recette aux personnes concernées (MedlinePlus, Bibliothèque nationale de médecine des États-Unis ; OMS).",
+   "t": "При дефиците Г6ФД бобы могут вызвать разрушение эритроцитов (гемолитическую анемию, которую называют фавизмом), иногда тяжёлое: не подавайте это блюдо людям с таким дефицитом (MedlinePlus, Национальная медицинская библиотека США; ВОЗ)."
+  },
+  "ing.0.group": {
+   "fr": "Bissara",
+   "t": "Биссара"
+  },
+  "ing.feves.name": {
+   "fr": "de fèves sèches cassées et décortiquées",
+   "t": "сушёных бобов фава, колотых и очищенных"
+  },
+  "ing.feves.note": {
+   "fr": "sans la peau. Favisme : lis l'encadré plus haut.",
+   "t": "без кожицы. Фавизм: прочитайте предупреждение выше."
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher, sans couper",
+   "t": "очистить, не разрезая"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau froide",
+   "t": "холодной воды"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "в конце досолить по вкусу"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "eau chaude",
+   "t": "горячая вода"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "pendant la cuisson et pour la texture, si besoin",
+   "t": "во время варки и для нужной густоты, если понадобится"
+  },
+  "ing.1.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive vierge extra",
+   "t": "оливковое масло Extra Virgin"
+  },
+  "ing.huile-service.note": {
+   "fr": "un bon filet par bol",
+   "t": "по хорошей струйке в каждую миску"
+  },
+  "ing.cumin-service.name": {
+   "fr": "cumin moulu",
+   "t": "молотый кумин"
+  },
+  "ing.paprika-service.name": {
+   "fr": "paprika",
+   "t": "паприка"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort en poudre",
+   "t": "молотый острый перец"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif, sur la table",
+   "t": "по желанию, на стол"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers, facultatif",
+   "t": "дольками, по желанию"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "хобз (марокканский хлеб)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "чтобы макать"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite à fond épais",
+   "t": "Большая кастрюля с толстым дном"
+  },
+  "equipment.1": {
+   "fr": "Cuillère ou petite écumoire, pour retirer la mousse",
+   "t": "Ложка или небольшая шумовка, чтобы снимать пену"
+  },
+  "equipment.2": {
+   "fr": "Mixeur plongeant (ou moulin à légumes, ou passoire fine)",
+   "t": "Погружной блендер (или ручная протирка для пюре, или мелкое сито)"
+  },
+  "equipment.3": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "equipment.4": {
+   "fr": "Louche",
+   "t": "Половник"
+  },
+  "equipment.5": {
+   "fr": "Bols ou assiettes creuses",
+   "t": "Миски или глубокие тарелки"
+  },
+  "steps.0.title": {
+   "fr": "Trie et lave les fèves",
+   "t": "Переберите и промойте бобы"
+  },
+  "steps.0.text": {
+   "fr": "Étale {{feves}} de fèves cassées sur un plateau. Retire les petits cailloux et les bouts de peau brune. Lave-les à l'eau, puis égoutte-les.",
+   "t": "Рассыпьте {{feves}} колотых бобов на подносе. Уберите мелкие камешки и кусочки бурой кожицы. Промойте бобы водой и дайте ей стечь."
+  },
+  "steps.0.tip": {
+   "fr": "Pas besoin de trempage avec des fèves cassées et décortiquées. Si tu les fais tremper une nuit, comme Taste of Maroc, les derniers bouts de peau se retirent plus facilement.",
+   "t": "Колотые очищенные бобы замачивать не нужно. Если замочить их на ночь, как Taste of Maroc, последние кусочки кожицы снимаются легче."
+  },
+  "steps.1.title": {
+   "fr": "Épluche l'ail",
+   "t": "Очистите чеснок"
+  },
+  "steps.1.text": {
+   "fr": "Épluche {{ail:full}}. Garde l'ail entier, sans le couper.",
+   "t": "Очистите {{ail:full}}. Оставьте чеснок целым, не разрезайте."
+  },
+  "steps.1.tip": {
+   "fr": "Choumicha met l'ail en chemise, puis passe la purée à la passoire fine ; Nargisse Benkabbou (My Moroccan Food) le cuit aussi en chemise, puis l'épluche avant de l'écraser. Comme ici tu mixes, épluche-le avant.",
+   "t": "Choumicha кладёт чеснок в шелухе, а затем протирает пюре через мелкое сито; Nargisse Benkabbou (My Moroccan Food) тоже варит его в шелухе, а потом очищает и разминает. Здесь вы измельчаете пюре блендером, поэтому очистите чеснок заранее."
+  },
+  "steps.2.title": {
+   "fr": "Mets les fèves à cuire",
+   "t": "Поставьте бобы вариться"
+  },
+  "steps.2.text": {
+   "fr": "Mets les fèves, l'ail et {{eau}} d'eau froide dans une grande marmite à fond épais. Porte à ébullition sur feu moyen.",
+   "t": "Положите бобы и чеснок в большую кастрюлю с толстым дном и залейте {{eau}} холодной воды. Доведите до кипения на среднем огне."
+  },
+  "steps.3.title": {
+   "fr": "Écume la mousse",
+   "t": "Снимите пену"
+  },
+  "steps.3.text": {
+   "fr": "Dès que ça bout, baisse le feu. Avec une cuillère, retire la mousse blanche qui monte à la surface, jusqu'à ce qu'il n'en reste presque plus.",
+   "t": "Как только закипит, убавьте огонь. Ложкой снимайте белую пену, которая поднимается на поверхность, пока её почти не останется."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha écume pendant 10 à 15 minutes.",
+   "t": "Choumicha снимает пену 10–15 минут."
+  },
+  "steps.4.title": {
+   "fr": "Laisse mijoter une heure",
+   "t": "Варите час на слабом огне"
+  },
+  "steps.4.text": {
+   "fr": "Couvre la marmite à moitié pour que ça ne déborde pas. Laisse cuire à feu doux pendant 1 heure, jusqu'à ce que les fèves soient fondantes. Remue de temps en temps en raclant le fond. Si le niveau baisse trop, ajoute un peu d'{{eau-chaude}}.",
+   "t": "Прикройте кастрюлю крышкой наполовину, чтобы не убежало. Варите на слабом огне 1 час, пока бобы не станут совсем мягкими. Время от времени помешивайте, проводя ложкой по дну. Если воды стало слишком мало, подлейте немного горячей воды."
+  },
+  "steps.4.timer.label": {
+   "fr": "Cuisson des fèves",
+   "t": "Варка бобов"
+  },
+  "steps.4.timer.done": {
+   "fr": "Écrase une fève avec le dos d'une cuillère : elle doit s'écraser toute seule.",
+   "t": "Раздавите боб тыльной стороной ложки: он должен разминаться сам, без усилий."
+  },
+  "steps.5.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Проверьте готовность"
+  },
+  "steps.5.text": {
+   "fr": "Écrase une fève contre la paroi avec le dos d'une cuillère : elle doit s'écraser sans résistance. Si elle est encore ferme, ajoute un peu d'eau chaude et laisse cuire encore, en surveillant, jusqu'à ce qu'elle soit fondante.",
+   "t": "Раздавите боб о стенку кастрюли тыльной стороной ложки: он должен разминаться без сопротивления. Если он ещё твёрдый, подлейте немного горячей воды и варите дальше, присматривая, пока он не станет совсем мягким."
+  },
+  "steps.6.title": {
+   "fr": "Mixe en purée lisse",
+   "t": "Измельчите в гладкое пюре"
+  },
+  "steps.6.text": {
+   "fr": "Retire la marmite du feu. Mixe les fèves et l'ail avec leur eau de cuisson au mixeur plongeant, jusqu'à obtenir une purée lisse et crémeuse.",
+   "t": "Снимите кастрюлю с огня. Измельчите бобы и чеснок вместе с отваром погружным блендером до гладкого кремообразного пюре."
+  },
+  "steps.6.tip": {
+   "fr": "Sans mixeur, passe-les au moulin à légumes ou dans une passoire fine, comme on le faisait autrefois.",
+   "t": "Если блендера нет, протрите их через протирку для пюре или мелкое сито, как делали раньше."
+  },
+  "steps.7.title": {
+   "fr": "Assaisonne et ajoute l'huile",
+   "t": "Приправьте и добавьте масло"
+  },
+  "steps.7.text": {
+   "fr": "Remets la marmite sur feu doux. Ajoute {{cumin}} de cumin, {{paprika}} de paprika, {{sel}} de sel et {{huile}} d'huile d'olive. Laisse frémir 5 minutes en remuant avec une cuillère en bois, jusqu'à ce que l'huile soit bien mêlée à la purée.",
+   "t": "Верните кастрюлю на слабый огонь. Добавьте {{cumin}} кумина, {{paprika}} паприки, {{sel}} соли и {{huile}} оливкового масла. Прогревайте 5 минут на едва заметном кипении, помешивая деревянной ложкой, пока масло полностью не соединится с пюре."
+  },
+  "steps.7.timer.label": {
+   "fr": "Assaisonnement",
+   "t": "Пюре с приправами"
+  },
+  "steps.7.timer.done": {
+   "fr": "La purée doit être homogène et crémeuse. Règle maintenant la texture.",
+   "t": "Пюре должно стать однородным и кремообразным. Теперь отрегулируйте густоту."
+  },
+  "steps.8.title": {
+   "fr": "Règle la texture",
+   "t": "Отрегулируйте густоту"
+  },
+  "steps.8.text": {
+   "fr": "Pour une soupe, ajoute de l'eau chaude petit à petit en remuant. Pour une purée à saucer avec le pain, garde-la plus épaisse. Goûte et rectifie le sel, sans trop en mettre : les condiments donneront du goût à table.",
+   "t": "Для супа понемногу подливайте горячую воду, помешивая. Если хотите пюре, которое собирают хлебом, оставьте его погуще. Попробуйте и досолите, но не пересаливайте: вкус добавят приправы на столе."
+  },
+  "steps.9.title": {
+   "fr": "Sers bien chaud",
+   "t": "Подавайте горячей"
+  },
+  "steps.9.text": {
+   "fr": "Verse la bissara bien chaude dans des bols ou des assiettes creuses. Arrose chaque bol d'un bon filet d'{{huile-service}}, puis saupoudre de {{cumin-service}} et de {{paprika-service}}.",
+   "t": "Разлейте горячую биссару по мискам или глубоким тарелкам. Полейте каждую порцию хорошей струйкой оливкового масла Extra Virgin, затем посыпьте молотым кумином и паприкой."
+  },
+  "steps.10.title": {
+   "fr": "Pose les condiments sur la table",
+   "t": "Поставьте приправы на стол"
+  },
+  "steps.10.text": {
+   "fr": "Mets sur la table du {{piment}}, de l'huile d'olive, du cumin et des quartiers de {{citron}} : chacun relève son bol à son goût. Sers avec du {{khobz}} ou du pain d'orge.",
+   "t": "Поставьте на стол молотый острый перец, оливковое масло, кумин и дольки лимона: каждый приправит свою порцию по вкусу. Подавайте с хобзом или ячменным хлебом."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des fèves sèches cassées et décortiquées, c'est-à-dire sans leur peau.",
+   "t": "Берите сушёные колотые очищенные бобы, то есть без кожицы."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha (« fèves sèches cassées (sans la peau) ») ; Bladi.net ; Taste of Maroc ; Hespress (2011)",
+   "t": "Choumicha («сушёные колотые бобы (без кожицы)»); Bladi.net; Taste of Maroc; Hespress (2011)"
+  },
+  "secrets.1.text": {
+   "fr": "Avec des fèves cassées, le trempage n'est pas obligatoire : beaucoup de recettes marocaines les cuisent directement après les avoir lavées. Si tu les fais tremper une nuit, les derniers bouts de peau brune se retirent facilement.",
+   "t": "Колотые бобы замачивать не обязательно: во многих марокканских рецептах их варят сразу после промывания. Если замочить их на ночь, последние кусочки бурой кожицы легко снимаются."
+  },
+  "secrets.1.source": {
+   "fr": "Sans trempage : Choumicha, Lalla Moulati, Chhiwat, Morocco World News, Cooking with Alia (n° 858). Avec trempage : Taste of Maroc (qui parle des bouts de peau), My Moroccan Food, Cooking with Alia (n° 132)",
+   "t": "Без замачивания: Choumicha, Lalla Moulati, Chhiwat, Morocco World News, Cooking with Alia (№ 858). С замачиванием: Taste of Maroc (где говорится о кусочках кожицы), My Moroccan Food, Cooking with Alia (№ 132)"
+  },
+  "secrets.2.text": {
+   "fr": "Au début de la cuisson, retire la mousse blanche qui monte à la surface.",
+   "t": "В начале варки снимайте белую пену, которая поднимается на поверхность."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Hespress (2011)",
+   "t": "Choumicha, Cooking with Alia и Hespress (2011)"
+  },
+  "secrets.3.text": {
+   "fr": "Couvre la marmite à moitié, ou laisse une petite ouverture : complètement couverte, elle déborde.",
+   "t": "Прикрывайте кастрюлю крышкой наполовину или оставляйте небольшую щель: под плотно закрытой крышкой всё убегает."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha ; Cooking with Alia (n° 132) ; Taste of Maroc cuit aussi à demi couvert",
+   "t": "Choumicha; Cooking with Alia (№ 132); Taste of Maroc тоже варит под приоткрытой крышкой"
+  },
+  "secrets.4.text": {
+   "fr": "Les fèves doivent être fondantes avant de mixer : une fève doit s'écraser toute seule. Sinon, ajoute de l'eau chaude et prolonge la cuisson.",
+   "t": "Перед измельчением бобы должны стать совсем мягкими: боб должен разминаться сам, без усилий. Если нет, подлейте горячей воды и варите дольше."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha (« jusqu'à ce que les fèves deviennent fondantes ») ; Morocco World News",
+   "t": "Choumicha («пока бобы не станут совсем мягкими»); Morocco World News"
+  },
+  "secrets.5.text": {
+   "fr": "Mets les épices et l'huile d'olive après avoir mixé, sur feu doux, et remue jusqu'à ce que la purée soit lisse et crémeuse.",
+   "t": "Добавляйте специи и оливковое масло после измельчения, на слабом огне, и помешивайте, пока пюре не станет гладким и кремообразным."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha ; Hespress (2011) ; Cooking with Alia",
+   "t": "Choumicha, Hespress (2011) и Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Dans la marmite, la bissara reste simple. Son goût vient surtout de ce qu'on ajoute dans le bol : une bonne huile d'olive, du cumin, du paprika et du piment.",
+   "t": "В кастрюле биссара остаётся простой. Её вкус создаёт прежде всего то, что добавляют в миску: хорошее оливковое масло, кумин, паприка и острый перец."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Lalla Moulati (2020)",
+   "t": "Taste of Maroc, Choumicha и Lalla Moulati (2020)"
+  },
+  "secrets.7.text": {
+   "fr": "Choisis une bonne huile d'olive et, si tu peux, du cumin fraîchement moulu.",
+   "t": "Выбирайте хорошее оливковое масло и, если можете, свежемолотый кумин."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "C'est l'eau qui décide : plus liquide, la bissara se mange au bol, à la cuillère, comme dans la rue ; plus épaisse, elle se sauce avec le pain.",
+   "t": "Всё решает вода: более жидкую биссару едят из миски ложкой, как на улице; более густую собирают хлебом."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia (n° 132) ; Bladi.net (« il faut que ça reste liquide »)",
+   "t": "Taste of Maroc; Cooking with Alia (№ 132); Bladi.net («она должна оставаться жидкой»)"
+  },
+  "secrets.9.text": {
+   "fr": "Autrefois, on laissait les fèves cuire des heures, puis on les passait au tamis ou au moulin. Le mixeur va plus vite et donne une purée plus lisse.",
+   "t": "Раньше бобы варили часами, а потом протирали через сито или протирку. Блендер работает быстрее и даёт более гладкое пюре."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc ; Choumicha passe toujours sa purée à la passoire fine",
+   "t": "Taste of Maroc; Choumicha по-прежнему протирает пюре через мелкое сито"
+  },
+  "secrets.10.text": {
+   "fr": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati y ajoute du piment vert et du piment frit.",
+   "t": "На севере её едят с несколькими оливками и кусочками лука. Lalla Moulati добавляет к ней зелёный острый перец и жареный острый перец."
+  },
+  "secrets.10.source": {
+   "fr": "Hespress (2014, restaurant de Tanger) ; Lalla Moulati (2014) ; My Moroccan Food (oignon haché)",
+   "t": "Hespress (2014, ресторан в Танжере); Lalla Moulati (2014); My Moroccan Food (рубленый лук)"
+  },
+  "secrets.11.text": {
+   "fr": "Pour réchauffer, mets la bissara à feu moyen-doux et remue souvent : elle brûle facilement. Laisse-la bien bouillonner avant de servir.",
+   "t": "Разогревайте биссару на огне ниже среднего, часто помешивая: она легко пригорает. Перед подачей дайте ей хорошо прокипеть."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (feu moyen-doux, remuer souvent) ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)",
+   "t": "Taste of Maroc (огонь ниже среднего, часто помешивать); USDA (супы разогревают до активного кипения)"
+  },
+  "secrets.12.text": {
+   "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées pour qu'ils refroidissent vite, et mange-les dans les 3 jours.",
+   "t": "Уберите остатки в холодильник в течение 2 часов, в небольших закрытых контейнерах, чтобы они быстро остыли, и съешьте их в течение 3 дней."
+  },
+  "secrets.12.source": {
+   "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours, petits récipients)",
+   "t": "ANSES (2 часа, 3 дня, небольшие порции); USDA (2 часа, 3–4 дня, небольшие ёмкости)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre des fèves fraîches ou surgelées : la bissara se fait avec des fèves sèches (Taste of Maroc ; Hespress).",
+   "t": "Брать свежие или замороженные бобы: биссару готовят из сушёных (Taste of Maroc; Hespress)."
+  },
+  "mistakes.1": {
+   "fr": "Couvrir complètement la marmite : l'eau déborde (Choumicha ; Cooking with Alia).",
+   "t": "Плотно закрывать кастрюлю крышкой: вода убегает (Choumicha; Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser cuire sans remuer ni surveiller l'eau : la purée attache au fond (Morocco World News ; Hespress ; Cooking with Alia).",
+   "t": "Варить, не помешивая и не следя за водой: пюре пригорает ко дну (Morocco World News; Hespress; Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Mixer avant que les fèves soient fondantes (Choumicha ; Morocco World News).",
+   "t": "Измельчать бобы, пока они ещё не стали совсем мягкими (Choumicha; Morocco World News)."
+  },
+  "mistakes.4": {
+   "fr": "Trop saler dans la marmite : les condiments ajoutent du goût à table (Taste of Maroc).",
+   "t": "Пересаливать в кастрюле: приправы на столе добавят вкуса (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Réchauffer à feu vif sans remuer : la bissara brûle (Taste of Maroc).",
+   "t": "Разогревать на сильном огне, не помешивая: биссара пригорает (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов (ANSES; USDA)."
+  },
+  "variants.0": {
+   "fr": "Bissara aux pois cassés, ou « bissara d'jelbana » (Hespress, 2011). Choumicha fait tremper les pois cassés une heure, puis les cuit avec oignon, ail, persil, coriandre, gingembre, curcuma et poivre. Taste of Maroc ne les fait pas tremper et ajoute de l'oignon.",
+   "t": "Биссара из колотого гороха, или «биссара д'жельбана» (Hespress, 2011). Choumicha замачивает колотый горох на час, затем варит его с луком, чесноком, петрушкой, кинзой, имбирём, куркумой и перцем. Taste of Maroc не замачивает его и добавляет лук."
+  },
+  "variants.1": {
+   "fr": "Un mélange de fèves et de pois cassés : My Moroccan Food ; Cooking with Alia (n° 858 : moitié-moitié, avec du piment en poudre dans la purée).",
+   "t": "Смесь бобов и колотого гороха: My Moroccan Food; Cooking with Alia (№ 858: пополам, с молотым острым перцем в пюре)."
+  },
+  "variants.2": {
+   "fr": "Avec des légumes : tomate, potiron rouge et carotte ; dans le Nord et le Rif, navet et chou à la place. Un restaurateur de Larache n'en met pas, pour plaire à tout le monde (Hespress, 2011).",
+   "t": "С овощами: помидор, красная тыква и морковь; на севере и в Рифе вместо них — репа и капуста. Один ресторатор из Лараша овощи не кладёт, чтобы угодить всем (Hespress, 2011)."
+  },
+  "variants.3": {
+   "fr": "Huile d'argan au lieu de l'huile d'olive, dans le Souss et l'Atlas (Hespress, 2011 ; Sky News Arabia, 2021).",
+   "t": "Аргановое масло вместо оливкового — в Сусе и в Атласе (Hespress, 2011; Sky News Arabia, 2021)."
+  },
+  "variants.4": {
+   "fr": "Ail pilé avec le sel au mortier, ajouté aux fèves cuites juste avant de mixer (Lalla Moulati, 2014).",
+   "t": "Чеснок, растёртый с солью в ступке и добавленный к сваренным бобам прямо перед измельчением (Lalla Moulati, 2014)."
+  },
+  "variants.5": {
+   "fr": "Huile à l'ail pour servir : chauffe doucement de l'huile d'olive avec de l'ail râpé et une pincée de sel, sans le brûler, puis verse-la sur la bissara (Morocco World News).",
+   "t": "Чесночное масло для подачи: осторожно прогрейте оливковое масло с натёртым чесноком и щепоткой соли, не давая чесноку подгореть, затем полейте им биссару (Morocco World News)."
+  },
+  "variants.6": {
+   "fr": "Fèves grillées à sec quelques minutes dans une poêle chaude avant la cuisson, et une tomate mixée avec la purée (Lalla Moulati, 2018).",
+   "t": "Бобы, обжаренные без масла несколько минут на горячей сковороде перед варкой, и помидор, измельчённый вместе с пюре (Lalla Moulati, 2018)."
+  },
+  "variants.7": {
+   "fr": "Crème de fèves servie avec une salade de tomates, poivron grillé, oignon et olives vertes, assaisonnée de citron et de cumin (Choumicha).",
+   "t": "Кремовое пюре из бобов, поданное с салатом из помидоров, печёного сладкого перца, лука и зелёных оливок, заправленным лимоном и кумином (Choumicha)."
+  }
+ }
+}

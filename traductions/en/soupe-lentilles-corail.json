@@ -1,0 +1,454 @@
+{
+ "_slug": "soupe-lentilles-corail",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Soupe de lentilles corail à la turque",
+   "t": "Turkish red lentil soup"
+  },
+  "darija": {
+   "fr": "Chorba d l-âdes l-hmer",
+   "t": "Chorba d l-âdes l-hmer"
+  },
+  "tagline": {
+   "fr": "Le mercimek çorbası, l'une des soupes les plus consommées de Turquie : lentilles corail, oignon, carotte et pomme de terre mixés en velouté, avec un filet de beurre au paprika et un quartier de citron. Prête en 30 minutes à la cocotte-minute ; compte 45 à 55 minutes à la casserole.",
+   "t": "Mercimek çorbası, one of the most widely eaten soups in Turkey: red lentils, onion, carrot and potato blended into a smooth, velvety soup, with a drizzle of paprika butter and a lemon wedge. Ready in 30 minutes in a pressure cooker; allow 45 to 55 minutes in a saucepan."
+  },
+  "region": {
+   "fr": "Turquie, tout le pays. À Istanbul, la version la plus courante est faite de lentilles seules ; Ozlem Warren, comme sa mère, y ajoute carotte et pomme de terre (Ozlem's Turkish Table), comme la plupart des recettes turques lues (Nefis Yemek Tarifleri ; Yemek.com).",
+   "t": "Turkey, throughout the country. In Istanbul, the most common version is made with lentils alone; Ozlem Warren, like her mother, adds carrot and potato (Ozlem's Turkish Table), as do most of the Turkish recipes consulted (Nefis Yemek Tarifleri; Yemek.com)."
+  },
+  "occasion": {
+   "fr": "Soupe de tous les jours, en entrée ou en repas léger ; c'est la reine des menus des lokanta, les petits restaurants turcs (Türk Mutfağı Haftası). En Anatolie, on la mange même au petit-déjeuner (Ozlem Warren).",
+   "t": "An everyday soup, as a starter or a light meal; it is the queen of the menu in lokantas, small Turkish restaurants (Türk Mutfağı Haftası). In Anatolia, it is even eaten for breakfast (Ozlem Warren)."
+  },
+  "serving": {
+   "fr": "Sers bien chaud, avec un filet de beurre au paprika, un quartier de citron à presser dans le bol et du pain grillé (Türk Mutfağı Haftası) ; Ozlem Warren propose aussi des croûtons. La soupe se congèle bien : Ozlem Warren en fait souvent le double pour en congeler une partie (à réchauffer une seule fois, selon la Food Standards Agency).",
+   "t": "Serve piping hot, with a drizzle of paprika butter, a lemon wedge to squeeze into the bowl and toasted bread (Türk Mutfağı Haftası); Ozlem Warren also suggests croutons. The soup freezes well: Ozlem Warren often makes a double batch so she can freeze some of it (reheat only once, according to the Food Standards Agency)."
+  },
+  "ing.0.group": {
+   "fr": "Soupe",
+   "t": "Soup"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles corail",
+   "t": "red lentils"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.carotte.name": {
+   "fr": "carotte",
+   "t": "carrot"
+  },
+  "ing.carotte.pl": {
+   "fr": "carottes",
+   "t": "carrots"
+  },
+  "ing.pomme-de-terre.name": {
+   "fr": "pomme de terre moyenne",
+   "t": "medium potato"
+  },
+  "ing.pomme-de-terre.pl": {
+   "fr": "pommes de terre moyennes",
+   "t": "medium potatoes"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile de tournesol",
+   "t": "sunflower oil"
+  },
+  "ing.huile.note": {
+   "fr": "ou d'huile d'olive",
+   "t": "or olive oil"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau bien chaude",
+   "t": "very hot water"
+  },
+  "ing.eau.note": {
+   "fr": "chauffée à la bouilloire",
+   "t": "heated in the kettle"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.cumin.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.1.group": {
+   "fr": "Beurre au paprika et service",
+   "t": "Paprika butter and to serve"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "paprika"
+  },
+  "ing.paprika.note": {
+   "fr": "doux, ou en partie piquant si tu aimes",
+   "t": "sweet, or partly hot if you like"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "lemon"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "lemons"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers",
+   "t": "cut into wedges"
+  },
+  "ing.pain.name": {
+   "fr": "pain grillé",
+   "t": "toasted bread"
+  },
+  "ing.pain.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "equipment.0": {
+   "fr": "Cocotte-minute (autocuiseur)",
+   "t": "Pressure cooker"
+  },
+  "equipment.1": {
+   "fr": "Mixeur plongeant, ou passoire fine et louche",
+   "t": "Hand blender, or a fine sieve and a ladle"
+  },
+  "equipment.2": {
+   "fr": "Bouilloire",
+   "t": "Kettle"
+  },
+  "equipment.3": {
+   "fr": "Passoire pour rincer les lentilles",
+   "t": "Sieve for rinsing the lentils"
+  },
+  "equipment.4": {
+   "fr": "Râpe à gros trous",
+   "t": "Coarse grater"
+  },
+  "equipment.5": {
+   "fr": "Planche et couteau",
+   "t": "Chopping board and knife"
+  },
+  "equipment.6": {
+   "fr": "Petite poêle",
+   "t": "Small frying pan"
+  },
+  "equipment.7": {
+   "fr": "Louche",
+   "t": "Ladle"
+  },
+  "steps.0.title": {
+   "fr": "Chauffe l'eau",
+   "t": "Heat the water"
+  },
+  "steps.0.text": {
+   "fr": "Fais chauffer {{eau}} d'eau à la bouilloire : avec de l'eau déjà chaude, la soupe bout plus vite.",
+   "t": "Heat {{eau}} of water in the kettle: with water that is already hot, the soup comes to the boil faster."
+  },
+  "steps.1.title": {
+   "fr": "Rince les lentilles",
+   "t": "Rinse the lentils"
+  },
+  "steps.1.text": {
+   "fr": "Mets {{lentilles}} de lentilles corail dans une passoire. Rince-les sous l'eau en remuant, jusqu'à ce que l'eau coule claire, puis laisse égoutter.",
+   "t": "Put {{lentilles}} of red lentils in a sieve. Rinse them under running water, stirring, until the water runs clear, then leave to drain."
+  },
+  "steps.2.title": {
+   "fr": "Prépare les légumes",
+   "t": "Prepare the vegetables"
+  },
+  "steps.2.text": {
+   "fr": "Pèle et hache {{oignon:full}}. Pèle et râpe gros {{carotte:full}}. Pèle et coupe en petits dés {{pomme-de-terre:full}}.",
+   "t": "Peel and chop {{oignon:full}}. Peel and coarsely grate {{carotte:full}}. Peel and finely dice {{pomme-de-terre:full}}."
+  },
+  "steps.2.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.2.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Sauté the onion"
+  },
+  "steps.3.text": {
+   "fr": "Dans la cocotte-minute ouverte, chauffe {{huile}} d'huile à feu moyen. Fais revenir l'oignon 1 à 2 minutes en remuant.",
+   "t": "In the open pressure cooker, heat {{huile}} of oil over medium heat. Sauté the onion for 1 to 2 minutes, stirring."
+  },
+  "steps.4.title": {
+   "fr": "Ajoute les légumes",
+   "t": "Add the vegetables"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute la carotte râpée et les dés de pomme de terre. Fais-les revenir quelques minutes en remuant, jusqu'à ce qu'ils commencent à ramollir : leur couleur passe dans l'huile et rend la soupe bien dorée.",
+   "t": "Add the grated carrot and diced potato. Sauté them for a few minutes, stirring, until they begin to soften: their colour passes into the oil and makes the soup a lovely golden colour."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les lentilles",
+   "t": "Add the lentils"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute les lentilles égouttées et remue 1 minute dans l'huile.",
+   "t": "Add the drained lentils and stir them in the oil for 1 minute."
+  },
+  "steps.6.title": {
+   "fr": "Mouille et écume",
+   "t": "Pour in the water and skim"
+  },
+  "steps.6.text": {
+   "fr": "Verse l'eau chaude, ajoute du {{sel}} et remue. Porte à ébullition et retire à la cuillère l'écume qui monte.",
+   "t": "Pour in the hot water, add some {{sel}} and stir. Bring to the boil and use a spoon to skim off the foam that rises to the surface."
+  },
+  "steps.7.title": {
+   "fr": "Cuis sous pression",
+   "t": "Cook under pressure"
+  },
+  "steps.7.text": {
+   "fr": "Ferme la cocotte. Dès qu'elle siffle, baisse le feu et laisse cuire 10 minutes.",
+   "t": "Close the pressure cooker. As soon as it starts to whistle, lower the heat and cook for 10 minutes."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson sous pression",
+   "t": "Pressure cooking"
+  },
+  "steps.7.timer.done": {
+   "fr": "Coupe le feu. Fais retomber la pression comme le dit le mode d'emploi de ta cocotte avant d'ouvrir.",
+   "t": "Turn off the heat. Before opening, bring the pressure down as described in your pressure cooker's instructions."
+  },
+  "steps.8.title": {
+   "fr": "Ouvre la cocotte",
+   "t": "Open the pressure cooker"
+  },
+  "steps.8.text": {
+   "fr": "Coupe le feu. Fais retomber la pression en suivant le mode d'emploi de ta cocotte, puis ouvre-la avec précaution.",
+   "t": "Turn off the heat. Bring the pressure down by following your pressure cooker's instructions, then open it carefully."
+  },
+  "steps.9.title": {
+   "fr": "Mixe la soupe",
+   "t": "Blend the soup"
+  },
+  "steps.9.text": {
+   "fr": "Attends 1 à 2 minutes, puis mixe au mixeur plongeant jusqu'à obtenir un velouté bien lisse. Sans mixeur, passe la soupe dans une passoire fine en écrasant avec le dos de la louche.",
+   "t": "Wait 1 to 2 minutes, then blend with a hand blender until very smooth and velvety. Without a blender, push the soup through a fine sieve, pressing with the back of the ladle."
+  },
+  "steps.10.title": {
+   "fr": "Assaisonne et ajuste",
+   "t": "Season and adjust"
+  },
+  "steps.10.text": {
+   "fr": "Ajoute {{cumin}} de cumin et du {{poivre}}, goûte et rectifie le sel. Si la soupe est trop épaisse, ajoute un peu d'eau chaude. Laisse frémir 2 à 3 minutes en remuant.",
+   "t": "Add {{cumin}} of cumin and some {{poivre}}, taste and adjust the salt. If the soup is too thick, add a little hot water. Leave to simmer for 2 to 3 minutes, stirring."
+  },
+  "steps.11.title": {
+   "fr": "Fais le beurre au paprika",
+   "t": "Make the paprika butter"
+  },
+  "steps.11.text": {
+   "fr": "Dans une petite poêle, fais fondre {{beurre}} de beurre à feu doux. Ajoute {{paprika}} de paprika, laisse grésiller quelques secondes et retire aussitôt du feu.",
+   "t": "In a small frying pan, melt {{beurre}} of butter over low heat. Add {{paprika}} of paprika, let it sizzle for a few seconds and take it off the heat straight away."
+  },
+  "steps.12.title": {
+   "fr": "Sers bien chaud",
+   "t": "Serve piping hot"
+  },
+  "steps.12.text": {
+   "fr": "Coupe {{citron:full}} en quartiers. Verse la soupe dans les bols, arrose d'un filet de beurre au paprika et pose un quartier de citron à côté. Sers avec du {{pain}}.",
+   "t": "Cut {{citron:full}} into wedges. Pour the soup into the bowls, drizzle with a little paprika butter and put a lemon wedge alongside. Serve with {{pain}}."
+  },
+  "secrets.0.text": {
+   "fr": "Rince les lentilles dans beaucoup d'eau, jusqu'à ce qu'elle coule claire.",
+   "t": "Rinse the lentils in plenty of water, until it runs clear."
+  },
+  "secrets.0.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası ; Ev usulü mercimek çorbası)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar); Yemek.com (Türk Mutfağı Haftası; Ev usulü mercimek çorbası)"
+  },
+  "secrets.1.text": {
+   "fr": "Verse de l'eau déjà chaude : la soupe bout plus tôt et cuit plus vite.",
+   "t": "Pour in water that is already hot: the soup comes to the boil sooner and cooks faster."
+  },
+  "secrets.1.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı, Altın mercimek çorbası) ; eau chaude aussi chez Elif Atalar et sur Yemek.com (Düdüklüde mercimek çorbası)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı, Altın mercimek çorbası); hot water also used by Elif Atalar and on Yemek.com (Düdüklüde mercimek çorbası)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais revenir carotte et pomme de terre dans l'huile avant d'ajouter l'eau : leur couleur passe dans l'huile et rend la soupe brillante, d'un beau jaune doré.",
+   "t": "Sauté the carrot and potato in the oil before adding the water: their colour passes into the oil and makes the soup glossy and a lovely golden yellow."
+  },
+  "secrets.2.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı)"
+  },
+  "secrets.3.text": {
+   "fr": "Remue les lentilles environ une minute dans la matière grasse avant de mouiller.",
+   "t": "Stir the lentils in the fat for about a minute before adding the liquid."
+  },
+  "secrets.3.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası : « 1 dakika kadar karıştırarak kavurun ») ; Nesli'nin Mutfağı (2 ou 3 tours de cuillère)",
+   "t": "Yemek.com (Türk Mutfağı Haftası: “1 dakika kadar karıştırarak kavurun”); Nesli'nin Mutfağı (2 or 3 turns of the spoon)"
+  },
+  "secrets.4.text": {
+   "fr": "La cocotte-minute raccourcit beaucoup la cuisson : environ 40 minutes de cuisson à la casserole, contre 15 à 20 minutes en tout à la cocotte-minute, dont 10 à 15 sous pression.",
+   "t": "A pressure cooker greatly shortens the cooking time: about 40 minutes of cooking in a saucepan, compared with 15 to 20 minutes in all in a pressure cooker, 10 to 15 of them under pressure."
+  },
+  "secrets.4.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : « yaklaşık olarak 40 dakika » à la casserole ; 10 minutes sous pression) ; Yemek.com (Gökçen Mutaf : 10 à 15 minutes) ; Nesli'nin Mutfağı (10 à 15 minutes)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: “yaklaşık olarak 40 dakika” in a saucepan; 10 minutes under pressure); Yemek.com (Gökçen Mutaf: 10 to 15 minutes); Nesli'nin Mutfağı (10 to 15 minutes)"
+  },
+  "secrets.5.text": {
+   "fr": "Pour une soupe d'un jaune doré et soyeuse, passe-la encore chaude dans une passoire au lieu de la mixer : au mixeur, elle devient plus terne. Yemek.com fait les deux, mixeur puis passoire fine.",
+   "t": "For a silky, golden-yellow soup, push it through a sieve while it is still hot instead of blending it: blending makes it duller. Yemek.com does both, blender then fine sieve."
+  },
+  "secrets.5.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı) ; Yemek.com (Süzme mercimek çorbası, Çiğdem Esastürk)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı); Yemek.com (Süzme mercimek çorbası, Çiğdem Esastürk)"
+  },
+  "secrets.6.text": {
+   "fr": "« Süzme » (passée) désigne la texture lisse et veloutée de cette soupe, la reine des menus des lokanta.",
+   "t": "“Süzme” (strained) refers to the smooth, velvety texture of this soup, the queen of lokanta menus."
+  },
+  "secrets.6.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası, avec la contribution du ministère turc de la Culture et du Tourisme)",
+   "t": "Yemek.com (Türk Mutfağı Haftası, with the contribution of the Turkish Ministry of Culture and Tourism)"
+  },
+  "secrets.7.text": {
+   "fr": "La soupe épaissit en attendant : rallonge-la avec un peu d'eau chaude.",
+   "t": "The soup thickens as it stands: thin it with a little hot water."
+  },
+  "secrets.7.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar ; Nesli'nin Mutfağı) ; Ozlem's Turkish Table",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar; Nesli'nin Mutfağı); Ozlem's Turkish Table"
+  },
+  "secrets.8.text": {
+   "fr": "Un bouillon de poule ou de viande donne plus de goût : un à deux verres suffisent. En halal, prends un bouillon maison ou un cube certifié halal.",
+   "t": "A chicken or meat stock gives more flavour: one or two glasses are enough. To keep it halal, use homemade stock or a certified halal stock cube."
+  },
+  "secrets.8.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası, au bouillon de viande)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar); Yemek.com (Türk Mutfağı Haftası, with meat stock)"
+  },
+  "secrets.9.text": {
+   "fr": "Le beurre au paprika ne chauffe que quelques secondes, puis il quitte le feu.",
+   "t": "The paprika butter heats for only a few seconds, then comes off the heat."
+  },
+  "secrets.9.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası : « birkaç saniye kızdırın ve ocaktan alın ») ; Ozlem Warren (piment infusé 35 secondes à feu doux)",
+   "t": "Yemek.com (Türk Mutfağı Haftası: “birkaç saniye kızdırın ve ocaktan alın”); Ozlem Warren (chilli infused for 35 seconds over low heat)"
+  },
+  "secrets.10.text": {
+   "fr": "Le plus souvent, on la sert avec un quartier de citron et un beurre grésillant au piment.",
+   "t": "Most often, it is served with a lemon wedge and sizzling chilli butter."
+  },
+  "secrets.10.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası) ; Nefis Yemek Tarifleri (Elif Atalar) ; Ozlem's Turkish Table",
+   "t": "Yemek.com (Türk Mutfağı Haftası); Nefis Yemek Tarifleri (Elif Atalar); Ozlem's Turkish Table"
+  },
+  "secrets.11.text": {
+   "fr": "Le cumin s'ajoute à la fin, avec le poivre.",
+   "t": "The cumin goes in at the end, with the pepper."
+  },
+  "secrets.11.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : après le mixage) ; Ozlem's Turkish Table (une fois la soupe cuite)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: after blending); Ozlem's Turkish Table (once the soup is cooked)"
+  },
+  "secrets.12.text": {
+   "fr": "Tu aimes le piquant ? Mets plus de piment (pul biber).",
+   "t": "Like it spicy? Add more chilli (pul biber)."
+  },
+  "secrets.12.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : « Acı seviyorsanız pul biber miktarını artırabilirsiniz »)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: “Acı seviyorsanız pul biber miktarını artırabilirsiniz”)"
+  },
+  "mistakes.0": {
+   "fr": "Ouvrir la cocotte sans avoir fait retomber la pression : suis toujours le mode d'emploi (Yemek.com, Düdüklüde mercimek çorbası).",
+   "t": "Opening the pressure cooker before bringing the pressure down: always follow the instructions (Yemek.com, Düdüklüde mercimek çorbası)."
+  },
+  "mistakes.1": {
+   "fr": "Mixer la soupe dès l'ouverture : Yemek.com attend 1 à 2 minutes avant de la mixer.",
+   "t": "Blending the soup as soon as you open the pressure cooker: Yemek.com waits 1 to 2 minutes before blending it."
+  },
+  "mistakes.2": {
+   "fr": "Mal rincer les lentilles (Nefis Yemek Tarifleri, Elif Atalar).",
+   "t": "Not rinsing the lentils properly (Nefis Yemek Tarifleri, Elif Atalar)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser brûler la farine, si tu en mets : ne la fais pas revenir sur un feu trop fort (Nefis Yemek Tarifleri, Elif Atalar, recette lokanta usulü).",
+   "t": "Letting the flour burn, if you use any: don't fry it over too high a heat (Nefis Yemek Tarifleri, Elif Atalar, lokanta usulü recipe)."
+  },
+  "mistakes.4": {
+   "fr": "Servir une soupe trop épaisse : elle épaissit encore en refroidissant, rallonge-la d'eau chaude (Elif Atalar ; Nesli'nin Mutfağı).",
+   "t": "Serving the soup too thick: it thickens further as it cools, so thin it with hot water (Elif Atalar; Nesli'nin Mutfağı)."
+  },
+  "mistakes.5": {
+   "fr": "À la casserole, oublier de remuer : les lentilles attachent au fond (Ozlem Warren).",
+   "t": "In a saucepan, forgetting to stir: the lentils stick to the bottom (Ozlem Warren)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes à température ambiante : mets-les au frigo dans les 1 à 2 heures, mange-les dans les 48 heures et réchauffe-les une seule fois, jusqu'à ce qu'ils fument partout (Food Standards Agency, Royaume-Uni).",
+   "t": "Leaving leftovers at room temperature: put them in the fridge within 1 to 2 hours, eat them within 48 hours and reheat them only once, until they are steaming hot all the way through (Food Standards Agency, UK)."
+  },
+  "variants.0": {
+   "fr": "Sans cocotte-minute : même recette dans une grande casserole, à petit frémissement, couvercle entrouvert, 20 à 25 minutes (Ozlem Warren, 2026) ou 25 à 30 minutes (Türk Mutfağı Haftası), en remuant de temps en temps. Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",
+   "t": "Without a pressure cooker: the same recipe in a large saucepan, at a gentle simmer with the lid ajar, for 20 to 25 minutes (Ozlem Warren, 2026) or 25 to 30 minutes (Türk Mutfağı Haftası), stirring from time to time. Then allow 45 to 55 minutes in all, including preparation: 15 + 30 minutes for Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes for the Türk Mutfağı Haftası, 15 + 40 minutes for Ozlem Warren in 2010; Nefis gives about 40 minutes of cooking in a saucepan."
+  },
+  "variants.1": {
+   "fr": "Version de la Semaine de la cuisine turque (Türk Mutfağı Haftası) : seulement lentilles, oignon doré au beurre et bouillon de viande halal, maison ou certifié (ou bouillon de légumes, ou eau chaude), mixés, puis beurre au paprika ; à Istanbul, la version la plus courante est aussi aux lentilles seules (Ozlem Warren).",
+   "t": "The Turkish Cuisine Week version (Türk Mutfağı Haftası): just lentils, onion fried in butter until golden and halal meat stock, homemade or certified (or vegetable stock, or hot water), blended, then paprika butter; in Istanbul, the most common version is also made with lentils alone (Ozlem Warren)."
+  },
+  "variants.2": {
+   "fr": "Avec un peu de riz long, cuit avec les lentilles (Ozlem Warren : 25 g pour 4).",
+   "t": "With a little long-grain rice, cooked with the lentils (Ozlem Warren: 25 g for 4)."
+  },
+  "variants.3": {
+   "fr": "Plus épaisse : un roux de beurre et de farine (Türk Mutfağı Haftası : 20 g de beurre et 1 c. à s. de farine) ; Elif Atalar fait revenir 2 c. à s. de farine avec l'oignon.",
+   "t": "Thicker: a roux of butter and plain flour (Türk Mutfağı Haftası: 20 g of butter and 1 tbsp of flour); Elif Atalar fries 2 tbsp of flour with the onion."
+  },
+  "variants.4": {
+   "fr": "Avec du concentré de tomate ou de poivron revenu avec l'oignon (Elif Atalar ; Yemek.com, Düdüklüde mercimek çorbası).",
+   "t": "With tomato purée or pepper paste fried with the onion (Elif Atalar; Yemek.com, Düdüklüde mercimek çorbası)."
+  },
+  "variants.5": {
+   "fr": "Avec curcuma et cumin dans la soupe, sans carotte ni pomme de terre (Elif Atalar, recette lokanta usulü).",
+   "t": "With turmeric and cumin in the soup, without carrot or potato (Elif Atalar, lokanta usulü recipe)."
+  },
+  "variants.6": {
+   "fr": "Huile d'olive au piment (pul biber) à la place du beurre au paprika, avec le jus d'un citron dans la soupe (Ozlem Warren).",
+   "t": "Chilli olive oil (pul biber) instead of the paprika butter, with the juice of one lemon in the soup (Ozlem Warren)."
+  },
+  "variants.7": {
+   "fr": "Avec un verre de bouillon de poule à la place d'une partie de l'eau (Elif Atalar, recette sous pression) : bouillon maison ou certifié halal.",
+   "t": "With a glass of chicken stock in place of some of the water (Elif Atalar, pressure-cooker recipe): homemade or certified halal stock."
+  }
+ }
+}

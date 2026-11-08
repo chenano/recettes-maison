@@ -1,0 +1,393 @@
+{
+ "slug": "houmous",
+ "title": "Houmous libanais (hummus bi tahini)",
+ "darija": "",
+ "arabic": "حمص بطحينة",
+ "tagline": "La purée de pois chiches du Liban : des pois chiches secs trempés une nuit, cuits jusqu'à fondre, puis mixés avec du tahini, du citron et de l'ail. Lisse et crémeux, à manger avec du pain libanais.",
+ "category": "Accompagnement",
+ "occasion": "En mezzé, avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Au petit-déjeuner libanais, avec du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+ "region": "Liban et Levant : on pense qu'il vient du pays de Cham (Liban, Syrie, Palestine, Jordanie) (Mama's Lebanese Kitchen). Son origine reste disputée entre plusieurs pays, et la presse parle de « guerre du houmous » (Wikipédia). « Houmous » veut dire « pois chiche » en arabe (Wikipédia ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine).",
+ "servings": 7,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 30,
+  "cook": 60,
+  "rest": 600
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un grand saladier, pour le trempage",
+  "Une grande casserole avec un couvercle",
+  "Une écumoire",
+  "Une passoire",
+  "Un robot culinaire, ou un mixeur puissant",
+  "Une spatule souple, pour racler les bords",
+  "Une assiette creuse pour servir",
+  "Une boîte hermétique pour les restes"
+ ],
+ "ingredients": [
+  {
+   "group": "Le trempage et la cuisson",
+   "items": [
+    {
+     "id": "pois-chiches",
+     "canon": "pois-chiches",
+     "q": 500,
+     "u": "g",
+     "name": "de pois chiches secs",
+     "note": "pas de conserve pour cette version"
+    },
+    {
+     "id": "bicarbonate-trempage",
+     "canon": "bicarbonate",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de bicarbonate de soude alimentaire",
+     "note": "pour l'eau du trempage"
+    },
+    {
+     "id": "eau-cuisson",
+     "canon": "eau",
+     "q": 1.5,
+     "u": "l",
+     "name": "d'eau fraîche",
+     "note": "pour la cuisson ; un peu plus si besoin"
+    },
+    {
+     "id": "bicarbonate-cuisson",
+     "canon": "bicarbonate",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de bicarbonate de soude alimentaire",
+     "note": "pour l'eau de cuisson"
+    }
+   ]
+  },
+  {
+   "group": "Le houmous",
+   "items": [
+    {
+     "id": "tahini",
+     "canon": "tahini",
+     "q": 300,
+     "u": "ml",
+     "name": "de tahini (crème de sésame)",
+     "note": "de préférence libanais"
+    },
+    {
+     "id": "citron",
+     "canon": "citron",
+     "q": 175,
+     "u": "ml",
+     "name": "de jus de citron frais",
+     "note": "pressé et filtré"
+    },
+    {
+     "id": "ail",
+     "canon": "ail",
+     "q": 3,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "à éplucher"
+    },
+    {
+     "id": "sel",
+     "canon": "sel",
+     "q": 2.5,
+     "u": "c. à c.",
+     "name": "de sel",
+     "note": "à ajuster selon le goût"
+    },
+    {
+     "id": "eau-froide",
+     "canon": "eau",
+     "q": 200,
+     "u": "ml",
+     "name": "d'eau très froide",
+     "note": "ou des glaçons ; à ajouter petit à petit"
+    }
+   ]
+  },
+  {
+   "group": "Pour servir",
+   "items": [
+    {
+     "id": "huile-olive",
+     "canon": "huile-olive",
+     "q": null,
+     "u": "",
+     "name": "huile d'olive vierge extra"
+    },
+    {
+     "id": "paprika",
+     "canon": "paprika",
+     "q": null,
+     "u": "",
+     "name": "paprika"
+    },
+    {
+     "id": "cumin",
+     "canon": "cumin",
+     "q": null,
+     "u": "",
+     "name": "cumin en poudre",
+     "note": "facultatif"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Rince les pois chiches",
+   "text": "Rince {{pois-chiches}} de pois chiches secs à l'eau froide, pour enlever la poussière et les petites impuretés.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mets-les à tremper",
+   "text": "Mets-les dans le grand saladier. Couvre-les d'eau froide, au moins deux fois leur volume, et ajoute {{bicarbonate-trempage}} de bicarbonate. Laisse tremper une nuit, environ 10 heures.",
+   "timer": null,
+   "tip": "Ils vont presque doubler de volume : prends un saladier assez grand (recettelibanaise.com ; Chef in Disguise)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte et rince",
+   "text": "Le lendemain, jette l'eau du trempage. Rince les pois chiches à l'eau froide.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Porte à ébullition",
+   "text": "Mets-les dans la grande casserole avec {{eau-cuisson}} d'eau fraîche. L'eau doit bien les couvrir. Porte à ébullition sur feu vif.",
+   "timer": null,
+   "tip": "recettelibanaise.com et Chef in Disguise veulent environ 10 cm d'eau au-dessus des pois chiches."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Retire la mousse",
+   "text": "Une mousse blanche monte à la surface : retire-la avec l'écumoire, sans enlever l'eau.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Ajoute le bicarbonate",
+   "text": "Ajoute {{bicarbonate-cuisson}} de bicarbonate. L'eau mousse de nouveau : écume encore.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse frémir 1 heure",
+   "text": "Baisse le feu, couvre et laisse frémir environ 1 heure. Si l'eau baisse trop, ajoute un peu d'eau chaude.",
+   "timer": {
+    "min": 60,
+    "label": "Pois chiches",
+    "done": "Écrase un pois chiche entre tes doigts : il doit s'écraser très facilement. Sinon, prolonge la cuisson."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie qu'ils sont très tendres",
+   "text": "Les pois chiches doivent être très tendres et presque fondre quand tu les presses. Trop cuits vaut mieux que pas assez : c'est le secret d'un houmous lisse.",
+   "timer": null,
+   "tip": "Selon les pois chiches, il faut parfois jusqu'à 2 heures (Hadia's Lebanese Cuisine)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Égoutte",
+   "text": "Égoutte les pois chiches dans la passoire. Si tu veux, garde-en une poignée pour décorer.",
+   "timer": null,
+   "tip": "recettelibanaise.com retire aussi les peaux qui flottent sur l'eau avant d'égoutter."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mixe les pois chiches chauds",
+   "text": "Mets les pois chiches encore chauds dans le robot. Mixe jusqu'à obtenir une purée bien lisse. Arrête de temps en temps pour racler les bords avec la spatule.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajoute l'ail et le sel",
+   "text": "Épluche l'ail. Mets dans le robot {{ail:full}} et {{sel}} de sel, puis mixe encore.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Verse le tahini",
+   "text": "Robot en marche, verse {{tahini}} de tahini en mince filet.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajoute le citron",
+   "text": "Ajoute {{citron}} de jus de citron, puis laisse tourner le robot encore quelques minutes.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Allonge et goûte",
+   "text": "Si le houmous est trop épais, verse petit à petit jusqu'à {{eau-froide}} d'eau très froide, ou mets quelques glaçons, en mixant. Il doit devenir lisse et crémeux. Goûte, et ajoute un peu de sel ou de citron si besoin.",
+   "timer": null,
+   "tip": "Les glaçons refroidissent les lames du robot et rendent le houmous plus léger (Hadia's Lebanese Cuisine)."
+  },
+  {
+   "phase": "Service",
+   "title": "Dresse et sers",
+   "text": "Étale le houmous dans l'assiette creuse et fais un creux au centre avec le dos d'une cuillère. Arrose d'un filet d'{{huile-olive}}, saupoudre de {{paprika}} et, si tu veux, de {{cumin}}.",
+   "timer": null,
+   "tip": "Ajoute les pois chiches gardés pour décorer (Hadia's Lebanese Cuisine), ou du persil et des olives noires (recettelibanaise.com)."
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Prends des pois chiches secs, pas en conserve : pour Hadia, ils sont indispensables pour la bonne texture et le goût.",
+   "source": "Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Le bicarbonate, dans le trempage puis dans la cuisson, attendrit les pois chiches et défait leur peau : pas besoin de les éplucher.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen (ils cuisent plus vite) ; Chef in Disguise (les éplucher ne change presque rien)"
+  },
+  {
+   "text": "Trop cuits vaut mieux que pas assez : des pois chiches qui fondent donnent un houmous crémeux.",
+   "source": "recettelibanaise.com ; Hadia's Lebanese Cuisine ; Chef in Disguise"
+  },
+  {
+   "text": "Mixe les pois chiches encore chauds : la purée ne sera pas granuleuse.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen"
+  },
+  {
+   "text": "Verse le tahini en mince filet, robot en marche.",
+   "source": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen"
+  },
+  {
+   "text": "De l'eau glacée ou des glaçons rendent le houmous plus lisse et plus léger.",
+   "source": "Hadia's Lebanese Cuisine ; recettelibanaise.com"
+  },
+  {
+   "text": "Presse le citron toi-même et filtre le jus : la pulpe peut donner de l'amertume avec le temps.",
+   "source": "Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Choisis un bon tahini, de préférence libanais : sa qualité fait le goût du houmous.",
+   "source": "Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Si tu sens le goût du bicarbonate, rince les pois chiches cuits et égoutte-les bien avant de les mixer.",
+   "source": "Chef in Disguise"
+  },
+  {
+   "text": "Si tu le prépares à l'avance, ajoute l'ail au moment de servir : avec le temps, son goût devient plus fort et change.",
+   "source": "Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Deux astuces de restaurant, selon Hadia : un peu d'acide citrique pour la couleur claire et le goût acidulé ; et, comme les grands chefs de Beyrouth, un filet d'huile de tournesol à la fin pour un houmous plus soyeux.",
+   "source": "Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Hadia mixe les pois chiches la veille et met la purée une nuit au frigo. Le lendemain, elle la fouette avec les glaçons, le citron et le tahini.",
+   "source": "Hadia's Lebanese Cuisine"
+  },
+  {
+   "text": "Des chefs libanais ont battu le record Guinness du plus grand plat de houmous : 2 tonnes.",
+   "source": "Mama's Lebanese Kitchen"
+  }
+ ],
+ "mistakes": [
+  "Mixer des pois chiches pas assez cuits ou trop fermes : le houmous reste granuleux (Chef in Disguise ; recettelibanaise.com ; Hadia's Lebanese Cuisine).",
+  "Cuire les pois chiches dans l'eau du trempage : jette-la et rince-les (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+  "Laisser la mousse de cuisson : retire-la à l'écumoire (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com ; Chef in Disguise).",
+  "Verser tout le tahini d'un coup, au lieu d'un mince filet (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+  "Prendre du jus de citron en bouteille, ou ne pas le filtrer (Hadia's Lebanese Cuisine).",
+  "Mettre le houmous encore chaud au frigo : laisse-le refroidir, puis mets-le au frais dans les 2 heures (FSA)."
+ ],
+ "serving": "Dans une assiette creuse, avec un creux au centre, un filet d'huile d'olive et du paprika (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com), avec du pain libanais ou du pain pita (Mama's Lebanese Kitchen ; recettelibanaise.com). Mama's le sert tiède, avec des cornichons salés, des piments au vinaigre, des olives, de la menthe, des poivrons verts et des oignons ; recettelibanaise.com ajoute un quartier de citron. Restes : dans une boîte fermée, au frigo entre 0 et 5 °C, mis au frais dans les 2 heures, et à manger dans les 2 jours (FSA). Hadia dit qu'il se garde jusqu'à 6 jours, et Chef in Disguise 5 à 7 jours : on garde ici la règle officielle, plus prudente.",
+ "variants": [
+  "Version rapide avec des pois chiches en conserve, pour 4 : 250 g de pois chiches en conserve mixés en purée, puis 4 c. à s. de tahina délayée dans 2 c. à s. de jus de citron, 2 gousses d'ail écrasées avec du sel, ½ c. à c. de sel, ½ c. à c. de cumin, et un peu d'eau froide si besoin (recettelibanaise.com). Chef in Disguise trouve le résultat correct mais un peu granuleux ; Hadia refuse la conserve.",
+  "Petit-déjeuner libanais : houmous servi avec des pois chiches chauds, du cumin, du foul, de la menthe, de l'oignon cru et du pain (Hadia's Lebanese Cuisine).",
+  "Tahini d'abord : recettelibanaise.com mixe l'ail, le citron, le sel, le cumin et le tahini avec l'eau glacée, puis ajoute les pois chiches.",
+  "Façon restaurant : acide citrique, huile de tournesol, et purée reposée une nuit au frigo (Hadia's Lebanese Cuisine).",
+  "Autres garnitures : sumac (Hadia's Lebanese Cuisine), ou persil et olives noires (recettelibanaise.com).",
+  "Avec une cuillère de yaourt grec, pour un goût plus acidulé (Chef in Disguise)."
+ ],
+ "sources": [
+  {
+   "name": "Hadia's Lebanese Cuisine, « Authentic Lebanese Hummus Recipe (Ultra-Creamy) », 1er août 2024, mis à jour le 4 novembre 2026",
+   "url": "https://hadiaslebanesecuisine.com/blog/lebanese-hummus/",
+   "used_for": "500 g de pois chiches secs pour 7 ; 400 g de tahini ; 2 c. à c. de bicarbonate (trempage et cuisson) ; 1 c. à s. de sel ; 2 ou 3 gousses d'ail ; glaçons ; trempage d'une nuit dans deux fois leur volume d'eau ; 1,5 l d'eau fraîche ; écumer ; frémir à couvert 1 à 2 heures ; mixer chaud ; tahini en filet ; pas de conserve ; tahini libanais ; citron frais filtré ; acide citrique et huile de tournesol ; ail ajouté au service si on garde ; frigo jusqu'à 6 jours ; petit-déjeuner libanais."
+  },
+  {
+   "name": "Mama's Lebanese Kitchen, « Easy Homemade Hummus Recipe - How to Make Lebanese Hummus From Scratch », 2 juin 2011, mis à jour le 22 septembre 2026",
+   "url": "https://mamaslebanesekitchen.com/mezza/hummus-recipe-from-scratch/",
+   "used_for": "Pour 4 : 1 lb (453,6 g) de pois chiches secs, 4 gousses d'ail, 8 c. à s. de tahini, ⅔ tasse de jus de citron, 2 c. à s. d'huile d'olive, ¼ c. à c. de paprika, ⅓ c. à c. de sel ; trempage 10 heures avec bicarbonate ; rinçage ; écumer ; frémir environ 1 heure à couvert, tester à 45 minutes entre les doigts ; mixer chaud avec un peu d'eau ; tahini en filet ; citron à la fin ; servi tiède avec pain pita, olives, menthe ; origine au pays de Cham ; record Guinness de 2 tonnes."
+  },
+  {
+   "name": "recettelibanaise.com, « Houmous ultra crémeux », 28 mars 2020",
+   "url": "https://www.recettelibanaise.com/houmous-ultra-cremeux/",
+   "used_for": "Pour 4 : 1 tasse de pois chiches secs, 2 c. à c. de bicarbonate, 1 gousse d'ail, ⅓ tasse de citron, 1 c. à c. de sel, ½ c. à c. de cumin, ½ tasse de tahini, ¼ tasse d'eau glacée ; trempage d'une nuit (ils doublent) ; 10 cm d'eau ; écumer ; environ 1 heure à couvert ; pois chiches trop cuits pour un houmous crémeux ; peaux retirées ; persil, olives, citron, pain libanais grillé ; préparation 30 min, cuisson 1 h."
+  },
+  {
+   "name": "recettelibanaise.com, « Hommos »",
+   "url": "https://www.recettelibanaise.com/hommos/",
+   "used_for": "Version aux pois chiches en conserve pour 4 : 250 g de pois chiches, 4 c. à s. de tahina, 2 c. à s. de citron, 2 gousses d'ail écrasées avec du sel, ½ c. à c. de sel et de cumin, eau froide si besoin, paprika, huile d'olive, pain libanais."
+  },
+  {
+   "name": "Chef in Disguise (Sawsan Abu Farha), « Homemade hummus that is better than store bought », 23 novembre 2016",
+   "url": "https://chefindisguise.com/2016/11/23/homemade-hummus-that-is-better-than-store-bought/",
+   "used_for": "Conserve possible mais un peu granuleuse, car trop ferme ; pois chiches maison un peu trop cuits pour un houmous lisse ; éplucher ne change presque rien ; trempage d'une nuit (ils doublent presque) ; eau jetée et rinçage ; 10 cm d'eau ; écumer ; 1 c. à c. de bicarbonate pour 500 g de pois chiches secs ; cuits jusqu'à s'écraser entre les doigts ; rincer pour enlever le goût du bicarbonate ; frigo 5 à 7 jours ; yaourt grec."
+  },
+  {
+   "name": "Chef in Disguise, page « About me »",
+   "url": "https://chefindisguise.com/about/",
+   "used_for": "Vérification : l'autrice est palestinienne, née à Jénine ; elle a grandi à Amman et vit de nouveau en Jordanie depuis 2018."
+  },
+  {
+   "name": "Wikipédia (français), « Houmous », consulté le 8 novembre 2026",
+   "url": "https://fr.wikipedia.org/wiki/Houmous",
+   "used_for": "Nom arabe حمص (ḥummuṣ), « pois chiche », et nom complet حمص بطحينة (ḥummuṣ bi-ṭaḥīna) ; origine disputée entre plusieurs pays, « guerre du houmous » ; purée très fine de pois chiches, tahini, ail écrasé, sel et citron."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni), « How to chill, freeze and defrost food safely », GOV.UK, 18 décembre 2017",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Frigo entre 0 et 5 °C ; ne pas mettre un plat chaud au frigo, le refroidir puis l'y mettre dans les 1 à 2 heures ; restes à manger dans les 2 jours."
+  },
+  {
+   "name": "USDA FoodData Central, « Chickpeas (garbanzo beans, bengal gram), mature seeds, raw » (SR Legacy, n° 173756)",
+   "url": "https://api.nal.usda.gov/fdc/v1/food/173756?api_key=DEMO_KEY",
+   "used_for": "Conversion : 1 tasse de pois chiches secs = 200 g (lue par l'API officielle FoodData Central)."
+  }
+ ],
+ "discrepancies": [
+  "Pois chiches secs par personne : 71 g (Hadia, 500 g pour 7), 113 g (Mama's, 453,6 g pour 4), 50 g (recettelibanaise.com, 1 tasse pour 4 ; 1 tasse = 200 g selon l'USDA). Retenu : 500 g pour 7 personnes, la médiane (calculs python3 -I). Les autres quantités sont ramenées à 500 g.",
+  "Bicarbonate pour 500 g : au trempage 1 c. à c. (Hadia), 0,55 (Mama's), 2,5 (recettelibanaise.com) ; à la cuisson 1 c. à c. (Hadia ; Chef in Disguise), 0,55 (Mama's), 2,5 (recettelibanaise.com). Retenu : 1 c. à c. pour chacun, la médiane.",
+  "Tahini pour 500 g : 296 ml (recettelibanaise.com, ½ tasse pour 1 tasse de pois chiches secs), 130 ml (Mama's, 8 c. à s. pour 453,6 g), 400 g (Hadia, en poids). Même sans conversion exacte, les 400 g de Hadia font bien plus que les 130 ml de Mama's. Retenu : 300 ml, la proportion de recettelibanaise.com ; goûte et ajuste.",
+  "Jus de citron pour 500 g : 174 ml (Mama's), 197 ml (recettelibanaise.com), 30 ml plus 1 c. à s. d'acide citrique (Hadia). Retenu : 175 ml, la médiane.",
+  "Ail pour 500 g : 2 à 3 gousses (Hadia), 2,5 (recettelibanaise.com), 4,4 (Mama's). Médiane 2,5 ; retenu 3, dans la fourchette de Hadia.",
+  "Sel pour 500 g : 3 c. à c. (Hadia, 1 c. à s.), 2,5 (recettelibanaise.com), 0,37 (Mama's). Retenu : 2,5 c. à c., la médiane, à ajuster au goût.",
+  "Eau de cuisson : 1,5 l (Hadia), 1,56 l (Mama's, 6 tasses pour 453,6 g, ramenées à 500 g), 10 cm au-dessus des pois chiches (recettelibanaise.com ; Chef in Disguise). Retenu : 1,5 l, et l'eau doit bien les couvrir.",
+  "Eau pour mixer, pour 500 g : 130 à 261 ml d'eau tiède (Mama's), 148 ml d'eau glacée (recettelibanaise.com), 1 tasse de glaçons, soit 237 ml (Hadia). Retenu : jusqu'à 200 ml d'eau très froide ou de glaçons, la médiane ; froide, comme deux sources sur trois.",
+  "Trempage : une nuit (Hadia ; recettelibanaise.com ; Chef in Disguise), 10 heures (Mama's). Retenu : une nuit, environ 10 heures ; pas de minuteur.",
+  "Cuisson : environ 1 heure (Mama's ; recettelibanaise.com), 1 à 2 heures (Hadia), 20 à 30 minutes après le bicarbonate (Chef in Disguise). Retenu : 1 heure avec un minuteur, puis le test entre les doigts.",
+  "Mixer chaud (Hadia ; Mama's) ou après refroidissement complet (Chef in Disguise). Retenu : chaud, comme les deux sources libanaises.",
+  "Ordre : purée de pois chiches puis tahini (Hadia ; Mama's) ; ou tahini, citron et eau glacée d'abord (recettelibanaise.com, « Houmous ultra crémeux »). Retenu : la purée d'abord ; l'autre ordre est en variante.",
+  "Citron avant le tahini (Hadia) ou à la fin (Mama's). Retenu : après le tahini, comme Mama's.",
+  "Cumin dans la purée (recettelibanaise.com) ou seulement en décor (Hadia). Retenu : en décor, facultatif.",
+  "Conservation : 2 jours (FSA), jusqu'à 6 jours (Hadia), 5 à 7 jours (Chef in Disguise). Retenu : 2 jours, la règle officielle.",
+  "Conversions faites avec python3 -I : 1 tasse = 236,6 ml ; 1 c. à s. = 14,8 ml ; 1 lb = 453,6 g ; 1 tasse de pois chiches secs = 200 g (USDA).",
+  "Pois chiches en conserve : seulement en variante, d'après recettelibanaise.com et Chef in Disguise ; Hadia les refuse.",
+  "Halal : ni viande ni alcool, rien à adapter."
+ ],
+ "unverified": [
+  "Densité du tahini : non vérifiée (quota de l'API USDA dépassé). Les 400 g de Hadia n'ont donc pas été convertis en volume.",
+  "Lien USDA : l'API a répondu à la lecture (code 200), puis a refusé le contrôle pour cause de quota (code 429) ; la page web de FoodData Central n'a pas pu être ouverte (erreur 404).",
+  "Quantité de houmous obtenue : non vérifiée ; « 7 personnes » vient de Hadia.",
+  "Taste of Beirut (Joumana Accad) et Anissa Helou : non consultés pour cette recette (recherche arrêtée une fois les 5 sources atteintes).",
+  "SBS Food (Australie) : son robots.txt interdit ClaudeBot ; non utilisé.",
+  "Nom en darija : aucun trouvé dans une source, laissé vide. Le nom arabe vient de Wikipédia.",
+  "Date et auteur de la recette « Hommos » de recettelibanaise.com : non relevés.",
+  "Un résumé de recherche attribuait à Mama's un conseil sur l'eau de cuisson : il n'a pas été trouvé dans la page lue, donc non utilisé.",
+  "Date du record Guinness cité par Mama's : non donnée dans la partie lue de la page.",
+  "Difficulté « Facile » : choix de rédaction, aucune source ne la note pour cette recette.",
+  "Avis d'une autorité sanitaire libanaise ou marocaine sur la conservation du houmous : non consulté. La règle des 2 jours est celle de la FSA britannique pour les restes."
+ ]
+}

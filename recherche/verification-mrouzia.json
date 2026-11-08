@@ -1,0 +1,122 @@
+{
+ "slug": "mrouzia",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Fatema (لالة فاطمة, magazine marocain) – « المروزية: نكهة مغربية تزين ثالث أيام عيد الأضحى » (la mrouzia, saveur marocaine du troisième jour de l'Aïd al-Adha), 29 mai 2026 ; robots.txt : tout autorisé, ClaudeBot compris",
+   "url": "https://www.lallafatema.ma/kitchen/%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B2%D9%8A%D8%A9-%D9%86%D9%83%D9%87%D8%A9-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B2%D9%8A%D9%86-%D8%AB%D8%A7%D9%84%D8%AB-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B9%D9%8A-153",
+   "ce_qu_elle_confirme": "Source marocaine non citée par l'auteur : plat traditionnel lié à l'Aïd al-Adha, préparé surtout les premiers jours avec la viande du sacrifice, « خاصة في ثالث أيام العيد » (surtout le troisième jour) ; 1 kg de mouton, 2 oignons, ail, ½ verre d'huile, 1 c. à c. de smen, gingembre, cannelle, ½ c. à c. de ras el hanout, curcuma, safran, miel, raisins trempés, amandes frites ; raisins, miel et cannelle ajoutés quand la viande est tendre, cuisson jusqu'à ce que la sauce épaississe. Deuxième source pour le troisième jour de l'Aïd (unverified[2])."
+  },
+  {
+   "name": "Visit Morocco (Office national marocain du tourisme) – « Les délices de la gastronomie marocaine »",
+   "url": "https://www.visitmorocco.com/fr/decouvrir-le-maroc/gastronomie",
+   "ce_qu_elle_confirme": "Source officielle marocaine : la mrouzia est citée parmi les « plats emblématiques du Royaume » (avec couscous, tajine, pastilla et rfissa)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[8].tip",
+   "actuel": "la moitié de la viande ; s'il y en a beaucoup plus, fais-la d'abord réduire un peu à découvert (Cooking with Alia)",
+   "propose": "la moitié de la viande (Cooking with Alia)",
+   "pourquoi": "Cooking with Alia (560) écrit seulement « When the meat is done, the sauce should be half covering the meat » ; le conseil de réduire d'abord la sauce n'est dans aucune source lue. L'étape suivante fait déjà réduire la sauce à découvert.",
+   "gravite": "mineure",
+   "sources": "Cooking with Alia 560 ; Taste of Maroc ; MWN Lifestyle"
+  },
+  {
+   "champ": "steps[1].tip",
+   "actuel": "et Choumicha 24 h.",
+   "propose": "et Choumicha 24 h. Viande crue du mouton de l'Aïd : au réfrigérateur à +3 °C au plus, pendant 5 jours, ou au congélateur à -18 °C (ONSSA).",
+   "pourquoi": "L'ONSSA est citée dans les sources mais n'est utilisée nulle part dans le texte. Sa fiche de l'Aïd 1447 dit : « Refroidissement : à une température ne dépassant pas (+3°C) pendant 05 jours » et « Congélation : à une température inférieure ou égale à (-18°C) », en petits morceaux.",
+   "gravite": "mineure",
+   "sources": "ONSSA, « Conseils sanitaires de l'ONSSA pour Aïd Al-Adha 1447 (2026) » (PDF lu le 8 novembre 2026)"
+  },
+  {
+   "champ": "secrets[12].text",
+   "actuel": "réchauffe-la doucement, à feu doux.",
+   "propose": "réchauffe-la doucement, à feu doux, jusqu'à ce qu'elle soit brûlante au cœur (FSA ; Anses).",
+   "pourquoi": "Lu seul (les secrets s'affichent à part), ce conseil oublie la condition de sécurité donnée à l'étape steps[11] : réchauffer jusqu'à ce que ce soit brûlant (FSA : « steaming hot throughout » ; Anses : jusqu'à ce que la vapeur s'échappe).",
+   "gravite": "mineure",
+   "sources": "FSA « Cooking your food » (7.2) ; Anses (08/04/2020)"
+  },
+  {
+   "champ": "secrets[0].source",
+   "actuel": "qui rapporte aussi que le nom renvoie à Marw, ville du Khorassan",
+   "propose": "qui donne aussi Marw, ville du Khorassan, comme l'une des versions de l'origine du nom",
+   "pourquoi": "Hespress présente Marw comme une version parmi d'autres (« وفي رواية أخرى ») ; l'étymologie ferme vient d'Aguadé et Benyahia (« árabe clásico marwaziyya, gentilicio de Marw/Merv, actualmente Mary en Turkmenistán »).",
+   "gravite": "mineure",
+   "sources": "Hespress (29 avril 2020, lu avec l'outil de lecture web) ; Aguadé et Benyahia, EDNA 8 (2004), note 5"
+  },
+  {
+   "champ": "sources[9].used_for",
+   "actuel": "conservation sur plusieurs jours quand les maisons n'avaient pas de réfrigérateur",
+   "propose": "conservation devenue nécessaire quand les réfrigérateurs n'étaient pas encore dans la plupart des maisons (sans durée)",
+   "pourquoi": "L'article ne donne aucune durée pour la mrouzia ; il dit seulement « حيث لم تكن الثلاجات قد عرفت طريقها بعدُ إلى معظم البيوت ». La citation d'al-Jahiz sur une durée en jours concerne un autre plat (le sikbaj). Il ne parle ni de jarres ni de gras pour la conservation : dans secrets[1], ces détails reposent sur Taste of Maroc et Bladi.net.",
+   "gravite": "mineure",
+   "sources": "Hespress (Saâd Sarhane, 29 avril 2020), lu avec l'outil de lecture web (curl : erreur 403)"
+  },
+  {
+   "champ": "discrepancies[0]",
+   "actuel": "onze recettes",
+   "propose": "douze recettes",
+   "pourquoi": "La liste entre parenthèses compte 12 recettes si l'on compte les deux listes de Lalla Moulati (17 août et 11 septembre 2018), et les décomptes suivants sont faits sur 12 (« 9 recettes sur 12 », « 10 recettes sur 12 », ras el hanout sur 11 sans Femmes du Maroc).",
+   "gravite": "mineure",
+   "sources": "discrepancies de la recette ; pages de Lalla Moulati 150529 et 152311"
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "Bladi.net et Lalla Moulati (2018)",
+   "propose": "Bladi.net et Lalla Moulati (liste du 11 septembre 2018 ; celle du 17 août 2018 met un gros oignon)",
+   "pourquoi": "La page 150529 (17 août 2018) liste « حبة بصل كبيرة » (un gros oignon) ; seule la 152311 n'a pas d'oignon. Le total de 9 recettes sur 12 reste juste.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati 150529 et 152311"
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "MWN Lifestyle (1,5 kg pour 6)",
+   "propose": "MWN Lifestyle (1,5 kg pour 4 à 6)",
+   "pourquoi": "MWN Lifestyle écrit « For four to six servings » (250 à 375 g par personne).",
+   "gravite": "mineure",
+   "sources": "MWN Lifestyle (29 mai 2026)"
+  },
+  {
+   "champ": "unverified[2]",
+   "actuel": "Préparation le troisième jour de l'Aïd : seulement dans la recette de Casablanca d'Aguadé et Benyahia ; MWN Lifestyle dit « les jours qui suivent le sacrifice ».",
+   "propose": "Préparation le troisième jour de l'Aïd : confirmée par une deuxième source, Lalla Fatema (29 mai 2026 : surtout le troisième jour de l'Aïd), en plus de la recette de Casablanca d'Aguadé et Benyahia ; MWN Lifestyle dit « les jours qui suivent le sacrifice ». Ce point peut sortir de la liste des points non vérifiés.",
+   "pourquoi": "Nouvelle source marocaine : « ويحرص المغاربة، خاصة في ثالث أيام العيد، على إعداد هذا الطبق » ; Aguadé et Benyahia : « La preparamos al tercer día de la fiesta ».",
+   "gravite": "mineure",
+   "sources": "Lalla Fatema (29 mai 2026) ; Aguadé et Benyahia, EDNA 8 (2004)"
+  }
+ ],
+ "verifie_sans_correction": [
+  "robots.txt : choumicha.ma (copies archivées 2013 et 2026), tasteofmaroc.com, cookingwithalia.com, mwnlifestyle.com, moroccoworldnews.com et hespress.com (copies archivées de novembre 2026), bladi.net, femmesdumaroc.com, fr.le360.ma (seule la recherche est interdite), journals.uco.es, lalamoulati.net, onssa.gov.ma (fichier vide), anses.fr, gov.uk et fdc.nal.usda.gov autorisent les pages utilisées.",
+  "Liens : les 21 adresses citées (sources et used_for), plus les 4 autres fiches USDA citées par leur numéro, répondent (200), sauf Morocco World News 2012 et Hespress (403 pour curl, lus avec l'outil de lecture web) ; chaque page dit ce qui lui est attribué, aux réserves des corrections près.",
+  "Origine du nom (secrets[0]) : Aguadé et Benyahia, EDNA 8 (2004), p. 23-26, note 5 : « La voz proviene del árabe clásico marwaziyya (gentilicio de Marw/Merv, actualmente Mary en Turkmenistán) y también se usaba en árabe andalusí », d'après le dictionnaire de Corriente, p. 498, qui la définit comme « a dish of beef or chicken ». Hespress (Saâd Sarhane, 29 avril 2020) rattache aussi le nom à Marw, « بلدة في خراسان ». L'explication de Morocco World News 2012 (mélange de plus de 40 épices) est bien écartée.",
+  "Choumicha 2013 (archive du 23 janvier 2013) : pour 8, 15 min de préparation et 270 min de cuisson ; 2 kg de collier, 15 cl d'huile d'olive, 1 c. à s. de ras el hanout, 1 c. à c. de curcuma et de cannelle, 10 pistils de safran, 8 gousses d'ail, 1 l d'eau, 4 c. à s. de miel de fleurs d'oranger, 250 g de raisins, 350 g d'amandes grillées ; marinade 24 h au réfrigérateur ; raisins et miel quand la viande est fondante ; marmite secouée par les anses, sans ustensile ; « riche en graisse et en miel afin d'en permettre la conservation », « de l'Aid el Kébir à l'Achoura ».",
+  "Choumicha 923 (Essaouira) : pour 12, 3 h de cuisson ; 2 kg de collier, 50 g de graisse de rognons, cubèbe, marinade 2 h dans un grand verre d'eau épicée, oignon revenu 5 min, raisins beldi trempés 15 min et amandes confits dans le gras, sans miel ; catégories « Recettes de fêtes » et « Aid Al Adha ».",
+  "Taste of Maroc (Nada Kiffa, mise à jour du 10 mars 2021) : 8 parts, ou 4 en plat principal ; 10 min de préparation, 2 h 50 de cuisson ; quantités du used_for exactes (1 kg d'agneau avec os, 1½ c. à s. + 1 c. à c. de ras el hanout, 2 c. à c. de gingembre, 1 c. à c. de smen, 500 g de raisins « not too sweet », 4 c. à s. de miel ou de sucre glace, 147 g d'amandes) ; marinade 6 à 12 h au réfrigérateur ; eau versée le long de la paroi pour ne pas laver les épices ; environ 2 h à feu moyen-doux sans laisser attacher ; raisins trempés au moins 1 h ; 20 à 30 min, « No watery liquid should remain » ; amandes dans une huile pas trop chaude, ou au four à 160 °C 25 min ; servie chaude dans un plat chaud, pétales de rose ; histoire (jarres d'argile, au moins deux mois, cuisson jusqu'à évaporation de l'eau, graisse de rognon qui scelle, mèche enflammée) ; Fassis et restes d'os ; « nearly every region », Qasbat Tadla, m'assal, tahlia et samt ; ras el hanout d'un « trusted spice vendor » ; partage avec la famille et les voisins.",
+  "Cooking with Alia 342 : 500 g d'agneau (épaule ou collier), ½ c. à s. de ras el hanout, ½ c. à c. de gingembre, 75 g de raisins trempés 1 à 2 h, 2 c. à s. de miel, 1 c. à c. de smen, 2 bâtons de cannelle ; marinade au réfrigérateur ; jusqu'à 2 h en rajoutant de l'eau chaude ; bâtons retirés ; 10 min jusqu'à une sauce sirupeuse ; pain. Cooking with Alia 560 : épices délayées dans un peu d'eau, réfrigérateur 2 h ou une nuit, oignon râpé aux gros trous cuit 5 min, viande 10 min, 1 h 30, raisins trempés au moins 30 min, amandes frites, sésame grillé, « Serve immediately, hot, with crusty bread ».",
+  "MWN Lifestyle (Ihab Ou-ouda, 29 mai 2026) : « usually prepared during the days after the sacrifice », « not the first meal of Eid » ; 1,5 kg d'agneau, 2 gros oignons, 1 c. à s. de ras el hanout, 200 g de raisins, 100 g de miel, 100 g d'amandes ; marinade d'au moins 1 h, une nuit mieux ; 10 min ; 2 à 3 h ; viande qui se détache de l'os ; 20 à 30 min à découvert, sans liquide clair ; servie chaude avec du pain ; « The flavor deepens overnight », réchauffée le lendemain à feu doux.",
+  "Morocco World News 2012 (Layla Dahamou, 25 mai 2012) : plat né pour conserver la viande de l'Aïd sans réfrigérateur ; « in a refrigerator for months » ; 1 kg de viande, 3 oignons, 3 gousses d'ail, 2 c. à s. de beurre, 2 c. à s. de sucre ou de miel, ½ tasse de raisins trempés 1 h, ¼ de tasse d'amandes frites ; autocuiseur 40 min puis 10 min.",
+  "Bladi.net : 1 kg de mouton avec os, ras el hanout, safran, cannelle, 200 g de beurre, 2 c. à s. de miel, 250 g de raisins, 200 g d'amandes dorées à l'huile ; miel et raisins quand la viande est presque cuite ; conservation en jarre de terre cuite ou en bocal, couverte de sauce qui « formera une couche protectrice » ; la page « mrouzia » est bien une version aux pruneaux, sans raisins.",
+  "Femmes du Maroc (27 juin 2023) : « Plat de fête », confit d'agneau, de raisins secs, d'oignons et d'amandes ; 1 kg, 300 g de raisins, 250 g d'amandes grillées, 100 ml de miel, 1 l d'eau, sésame ; marinade d'au moins 1 h 30 ; environ 30 min ; sauce « onctueuse et mielleuse » ; oignon dans la méthode mais pas dans la liste.",
+  "Le360 (Maya Zidoune, 31 juillet 2020) : mrouzia sur la table de l'Aïd, tajine d'agneau sucré-salé ; le collier « cuit à petit feu, il devient très tendre ». Lalla Moulati 150529 et 152311 : listes conformes au used_for (méthodes en vidéo).",
+  "Recette de Casablanca (Aguadé et Benyahia) : « uno de los platos más conocidos en la fiesta del cordero » dans « muchas ciudades de Marruecos » ; troisième jour, os et jarrets ; 1,5 kg, 2 gros oignons râpés, 200 g de beurre, un verre d'huile, 200 g d'amandes ; épices dans un verre d'eau, moitié pour la viande (2 à 3 h), moitié pour les raisins ; raisins et miel quand la viande est cuite ; amandes frites ; « hasta un mes en la nevera » (tradition, à juste titre non retenue).",
+  "Conservation (sources officielles) : FSA, restes au réfrigérateur dans les 1 à 2 h, en petites portions, mangés dans les 48 h ou congelés, réchauffés une seule fois jusqu'à être brûlants ; Anses (08/04/2020), viandes et plats cuisinés dans la zone la plus froide (4 °C), pas plus de 2 h à température ambiante, consommés dans les 3 jours, portions au-delà d'un kilo, congélation à -18 °C, réchauffage à couvert jusqu'à la vapeur ; Anses (24/12/2020), « une durée inférieure à 3 jours » ; ONSSA, viande crue à +3 °C au plus pendant 5 jours ou à -18 °C. Les étapes steps[1] et steps[11], secrets[2] et mistakes[6] à mistakes[8] respectent ces règles ; la tradition (semaines, mois) est seulement racontée.",
+  "Cuisson de la viande : l'Anses demande de cuire à cœur (70 °C) les aliments d'origine animale et plus de 65 °C à cœur les viandes de boucherie ; la FSA admet un cœur rosé pour les pièces entières d'agneau. Après 2 h à frémissement (étape steps[5]), ces seuils sont largement dépassés (déduction, sans mesure) ; le contrôle par la tendreté suffit ici.",
+  "Médianes recalculées avec python3 -I sur les valeurs relues, par kilo de viande : ras el hanout 2 c. à c. (11 recettes), gingembre 1, curcuma 0,5, poivre 0,58, cannelle moulue 0,71 c. à c., bâtons 1,25, huile 75 ml, smen 1,25 c. à c., oignons 200 g, eau 500 ml, miel 3,17 c. à s., raisins 150 g, amandes 150 g ; marinade 2 h, mijotage 2 h, réduction 10 min, trempage 45 min. Après × 1,5, toutes les quantités de la liste sont justes.",
+  "USDA FoodData Central : miel 1 c. à s. = 21 g (169640) ; raisins secs 1 tasse non tassée = 145 g (168165) ; amandes entières 1 tasse = 143 g (170567) ; gros oignon 150 g, moyen 110 g (170000) ; cannelle 1 c. à c. = 2,6 g (171320).",
+  "Halal : agneau halal, aucun alcool, aucun fromage. Noms : « Mrouzia » et « المروزية » (Cooking with Alia, Lalla Moulati, Hespress, Lalla Fatema).",
+  "Cohérence : minuteurs 120 (marinade), 5, 10, 120 et 10 min identiques au texte ; time.cook = 5 + 10 + 5 + 120 + 10 + 5 = 155 min (somme refaite) ; time.rest = 120 min = marinade minimale ; time.prep 15 min (Choumicha 15, Taste of Maroc 10) ; chaque ingrédient de la liste apparaît dans une étape ; recette non classée « Rapide ».",
+  "Rendu dans l'appli (code de app.html exécuté avec node pour 1, 6 et 12 personnes) : {{id}} affiche la quantité seule, {{id:full}} quantité et nom avec pluriel (« 2 gros oignons », « 4 bâtons de cannelle »), les q null le nom (« un peu d'eau », « un fond d'huile neutre ») ; arrondis conformes : 1,5 kg → 250 g d'agneau, 110 ml → 18 ml d'huile, 750 ml → 125 ml puis 1,5 l d'eau, 225 g → 40 g de raisins, 5 c. à s. → ⅞ c. à s. de miel, 1½ c. à c. → ¼ c. à c. de gingembre.",
+  "Région, occasion, catégorie : « nearly every region in Morocco » et variantes régionales (Taste of Maroc), Essaouira (Choumicha 923), Fès (Taste of Maroc ; MWN Lifestyle écrit de Fès) ; jours qui suivent le sacrifice (MWN Lifestyle, Lalla Fatema) ; tajine (Taste of Maroc, Cooking with Alia, Le360).",
+  "Secrets, erreurs, variantes et service : chaque phrase a été retrouvée dans les sources citées, sauf les points corrigés ci-dessus."
+ ],
+ "non_verifiable": [
+  "Recherche web indisponible (quota épuisé) : nouvelles sources marocaines cherchées seulement dans les plans de sites et les recherches internes (Lalla Fatema et Visit Morocco trouvés). Telquel, Kifache et 2M : erreur 403 ; Yabiladi et SNRTnews : interdits par robots.txt ; Le360 : recherche interdite par robots.txt.",
+  "Hespress (2020) et Morocco World News (2012) : curl refusé (403) ; lus avec l'outil de lecture web, qui résume et ne cite que de courts extraits : texte intégral non relu. Les points utilisés (Marw comme une des versions, absence de réfrigérateurs, ras el hanout complet au souk, ingrédients ; quantités et temps de Morocco World News) viennent de ces extraits.",
+  "Histoire selon Taste of Maroc (venue d'Égypte par al-Andalus, plus ancienne recette dans le livre andalou anonyme du XIIIe siècle) : aucune occurrence de « marwaziyya » ou « mruziyya » dans la traduction anglaise de ce livre par Charles Perry (daviddfriedman.com, 10 parties lues) ; le plat peut y figurer sous un autre nom, et le texte arabe n'a pas été consulté. Reste non vérifié, comme l'indique la recette.",
+  "Durées de conservation traditionnelles (semaines, mois) et test de la mèche enflammée (Taste of Maroc) : traditions racontées, non vérifiables et non recommandées.",
+  "Lalla Moulati : méthodes en vidéo non regardées ; les pages du 25 août 2018 et du 16 juin 2023 citées dans unverified[4] ne figurent pas dans les sources et n'ont pas été relues.",
+  "Sites officiels américains (USDA-FSIS, FoodSafety.gov) : erreur 403, non utilisés."
+ ]
+}

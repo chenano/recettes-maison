@@ -1,0 +1,454 @@
+{
+ "_slug": "soupe-lentilles-corail",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Soupe de lentilles corail à la turque",
+   "t": "شوربة العدس الأحمر على الطريقة التركية"
+  },
+  "darija": {
+   "fr": "Chorba d l-âdes l-hmer",
+   "t": "شوربة د العدس الحمر"
+  },
+  "tagline": {
+   "fr": "Le mercimek çorbası, l'une des soupes les plus consommées de Turquie : lentilles corail, oignon, carotte et pomme de terre mixés en velouté, avec un filet de beurre au paprika et un quartier de citron. Prête en 30 minutes à la cocotte-minute ; compte 45 à 55 minutes à la casserole.",
+   "t": "شوربة العدس التركية (mercimek çorbası)، من أكثر أنواع الشوربة استهلاكًا في تركيا: عدس أحمر وبصل وجزر وبطاطا، تُخلط بالخلاط حتى يصير قوامها ناعمًا كالكريمة، مع رشّة من الزبدة بالفلفل الأحمر وربع ليمونة. جاهزة في 30 دقيقة في طنجرة الضغط؛ واحسب من 45 إلى 55 دقيقة في قدر عادي."
+  },
+  "region": {
+   "fr": "Turquie, tout le pays. À Istanbul, la version la plus courante est faite de lentilles seules ; Ozlem Warren, comme sa mère, y ajoute carotte et pomme de terre (Ozlem's Turkish Table), comme la plupart des recettes turques lues (Nefis Yemek Tarifleri ; Yemek.com).",
+   "t": "تركيا، في جميع أنحاء البلاد. في إسطنبول، تُحضَّر النسخة الأكثر شيوعًا بالعدس وحده؛ أما Ozlem Warren فتضيف إليها الجزر والبطاطا كما تفعل أمها (Ozlem's Turkish Table)، وكما تفعل معظم الوصفات التركية التي رجعنا إليها (Nefis Yemek Tarifleri؛ Yemek.com)."
+  },
+  "occasion": {
+   "fr": "Soupe de tous les jours, en entrée ou en repas léger ; c'est la reine des menus des lokanta, les petits restaurants turcs (Türk Mutfağı Haftası). En Anatolie, on la mange même au petit-déjeuner (Ozlem Warren).",
+   "t": "شوربة لكل يوم، تُقدَّم طبقًا أول أو وجبة خفيفة؛ وهي ملكة قوائم الطعام في مطاعم lokanta، أي المطاعم التركية الصغيرة (Türk Mutfağı Haftası). وفي الأناضول تؤكل حتى في فطور الصباح (Ozlem Warren)."
+  },
+  "serving": {
+   "fr": "Sers bien chaud, avec un filet de beurre au paprika, un quartier de citron à presser dans le bol et du pain grillé (Türk Mutfağı Haftası) ; Ozlem Warren propose aussi des croûtons. La soupe se congèle bien : Ozlem Warren en fait souvent le double pour en congeler une partie (à réchauffer une seule fois, selon la Food Standards Agency).",
+   "t": "قدّمها ساخنة جدًا، مع رشّة من الزبدة بالفلفل الأحمر، وربع ليمونة يُعصر في الصحن، وخبز محمّص (Türk Mutfağı Haftası)؛ وتقترح Ozlem Warren أيضًا مكعبات الخبز المحمّص. تتحمّل الشوربة التجميد جيدًا: كثيرًا ما تحضّر Ozlem Warren ضعف الكمية لتجمّد جزءًا منها (على أن تُسخَّن مرة واحدة فقط، حسب Food Standards Agency)."
+  },
+  "ing.0.group": {
+   "fr": "Soupe",
+   "t": "الشوربة"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles corail",
+   "t": "عدس أحمر"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.carotte.name": {
+   "fr": "carotte",
+   "t": "جزرة"
+  },
+  "ing.carotte.pl": {
+   "fr": "carottes",
+   "t": "جزرات"
+  },
+  "ing.pomme-de-terre.name": {
+   "fr": "pomme de terre moyenne",
+   "t": "حبة بطاطا متوسطة"
+  },
+  "ing.pomme-de-terre.pl": {
+   "fr": "pommes de terre moyennes",
+   "t": "حبات بطاطا متوسطة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile de tournesol",
+   "t": "زيت عباد الشمس"
+  },
+  "ing.huile.note": {
+   "fr": "ou d'huile d'olive",
+   "t": "أو زيت الزيتون"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau bien chaude",
+   "t": "ماء ساخن جدًا"
+  },
+  "ing.eau.note": {
+   "fr": "chauffée à la bouilloire",
+   "t": "مسخَّن في الغلاية"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "حسب الذوق"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.cumin.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.1.group": {
+   "fr": "Beurre au paprika et service",
+   "t": "الزبدة بالفلفل الأحمر والتقديم"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "فلفل أحمر مطحون (التحميرة)"
+  },
+  "ing.paprika.note": {
+   "fr": "doux, ou en partie piquant si tu aimes",
+   "t": "حلو، أو بعضه حار إن كنت تحب الحار"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers",
+   "t": "مقطّعة إلى أرباع"
+  },
+  "ing.pain.name": {
+   "fr": "pain grillé",
+   "t": "خبز محمّص"
+  },
+  "ing.pain.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "equipment.0": {
+   "fr": "Cocotte-minute (autocuiseur)",
+   "t": "طنجرة الضغط"
+  },
+  "equipment.1": {
+   "fr": "Mixeur plongeant, ou passoire fine et louche",
+   "t": "خلاط يدوي، أو مصفاة ناعمة ومغرفة"
+  },
+  "equipment.2": {
+   "fr": "Bouilloire",
+   "t": "غلاية ماء"
+  },
+  "equipment.3": {
+   "fr": "Passoire pour rincer les lentilles",
+   "t": "مصفاة لغسل العدس"
+  },
+  "equipment.4": {
+   "fr": "Râpe à gros trous",
+   "t": "مبشرة بثقوب كبيرة"
+  },
+  "equipment.5": {
+   "fr": "Planche et couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.6": {
+   "fr": "Petite poêle",
+   "t": "مقلاة صغيرة"
+  },
+  "equipment.7": {
+   "fr": "Louche",
+   "t": "مغرفة"
+  },
+  "steps.0.title": {
+   "fr": "Chauffe l'eau",
+   "t": "سخّن الماء"
+  },
+  "steps.0.text": {
+   "fr": "Fais chauffer {{eau}} d'eau à la bouilloire : avec de l'eau déjà chaude, la soupe bout plus vite.",
+   "t": "سخّن {{eau}} من الماء في الغلاية: بالماء الساخن مسبقًا تغلي الشوربة أسرع."
+  },
+  "steps.1.title": {
+   "fr": "Rince les lentilles",
+   "t": "اغسل العدس"
+  },
+  "steps.1.text": {
+   "fr": "Mets {{lentilles}} de lentilles corail dans une passoire. Rince-les sous l'eau en remuant, jusqu'à ce que l'eau coule claire, puis laisse égoutter.",
+   "t": "ضع {{lentilles}} من العدس الأحمر في مصفاة. اغسله تحت الماء مع التحريك حتى ينزل الماء صافيًا، ثم اتركه يتصفّى."
+  },
+  "steps.2.title": {
+   "fr": "Prépare les légumes",
+   "t": "حضّر الخضر"
+  },
+  "steps.2.text": {
+   "fr": "Pèle et hache {{oignon:full}}. Pèle et râpe gros {{carotte:full}}. Pèle et coupe en petits dés {{pomme-de-terre:full}}.",
+   "t": "قشّر {{oignon:full}} وافرمها. قشّر {{carotte:full}} وابشرها بالثقوب الكبيرة للمبشرة. قشّر {{pomme-de-terre:full}} وقطّعها مكعبات صغيرة."
+  },
+  "steps.2.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع شرائح رفيعة وثوم مهروس على لوح تقطيع"
+  },
+  "steps.2.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل شرائح رفيعة"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "شوّح البصل"
+  },
+  "steps.3.text": {
+   "fr": "Dans la cocotte-minute ouverte, chauffe {{huile}} d'huile à feu moyen. Fais revenir l'oignon 1 à 2 minutes en remuant.",
+   "t": "في طنجرة الضغط وهي مفتوحة، سخّن {{huile}} من الزيت على نار متوسطة. شوّح البصل من 1 إلى 2 دقيقة مع التحريك."
+  },
+  "steps.4.title": {
+   "fr": "Ajoute les légumes",
+   "t": "أضف الخضر"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute la carotte râpée et les dés de pomme de terre. Fais-les revenir quelques minutes en remuant, jusqu'à ce qu'ils commencent à ramollir : leur couleur passe dans l'huile et rend la soupe bien dorée.",
+   "t": "أضف الجزر المبشور ومكعبات البطاطا. شوّحها بضع دقائق مع التحريك حتى تبدأ في الليونة: ينتقل لونها إلى الزيت فيمنح الشوربة لونًا ذهبيًا جميلًا."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute les lentilles",
+   "t": "أضف العدس"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute les lentilles égouttées et remue 1 minute dans l'huile.",
+   "t": "أضف العدس المصفّى وقلّبه في الزيت لمدة 1 دقيقة."
+  },
+  "steps.6.title": {
+   "fr": "Mouille et écume",
+   "t": "أضف الماء وأزل الرغوة"
+  },
+  "steps.6.text": {
+   "fr": "Verse l'eau chaude, ajoute du {{sel}} et remue. Porte à ébullition et retire à la cuillère l'écume qui monte.",
+   "t": "اسكب الماء الساخن، وأضف الملح، وقلّب. اترك الشوربة حتى تغلي، وأزل بالملعقة الرغوة التي تصعد إلى السطح."
+  },
+  "steps.7.title": {
+   "fr": "Cuis sous pression",
+   "t": "اطبخ تحت الضغط"
+  },
+  "steps.7.text": {
+   "fr": "Ferme la cocotte. Dès qu'elle siffle, baisse le feu et laisse cuire 10 minutes.",
+   "t": "أغلق الطنجرة. بمجرد أن تبدأ في الصفير، اخفض النار واتركها تطهى 10 دقائق."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson sous pression",
+   "t": "الطهي تحت الضغط"
+  },
+  "steps.7.timer.done": {
+   "fr": "Coupe le feu. Fais retomber la pression comme le dit le mode d'emploi de ta cocotte avant d'ouvrir.",
+   "t": "أطفئ النار. خفّف الضغط كما يشرح دليل استعمال طنجرتك قبل فتحها."
+  },
+  "steps.8.title": {
+   "fr": "Ouvre la cocotte",
+   "t": "افتح الطنجرة"
+  },
+  "steps.8.text": {
+   "fr": "Coupe le feu. Fais retomber la pression en suivant le mode d'emploi de ta cocotte, puis ouvre-la avec précaution.",
+   "t": "أطفئ النار. خفّف الضغط باتباع دليل استعمال طنجرتك، ثم افتحها بحذر."
+  },
+  "steps.9.title": {
+   "fr": "Mixe la soupe",
+   "t": "اخلط الشوربة بالخلاط"
+  },
+  "steps.9.text": {
+   "fr": "Attends 1 à 2 minutes, puis mixe au mixeur plongeant jusqu'à obtenir un velouté bien lisse. Sans mixeur, passe la soupe dans une passoire fine en écrasant avec le dos de la louche.",
+   "t": "انتظر من 1 إلى 2 دقيقة، ثم اخلطها بالخلاط اليدوي حتى يصبح قوامها كريميًا ناعمًا تمامًا. إن لم يكن لديك خلاط، مرّر الشوربة في مصفاة ناعمة واهرسها بظهر المغرفة."
+  },
+  "steps.10.title": {
+   "fr": "Assaisonne et ajuste",
+   "t": "تبّل وعدّل"
+  },
+  "steps.10.text": {
+   "fr": "Ajoute {{cumin}} de cumin et du {{poivre}}, goûte et rectifie le sel. Si la soupe est trop épaisse, ajoute un peu d'eau chaude. Laisse frémir 2 à 3 minutes en remuant.",
+   "t": "أضف {{cumin}} من الكمون مع {{poivre}}، ثم تذوّق وعدّل الملح. إذا كانت الشوربة كثيفة جدًا، فأضف قليلًا من الماء الساخن. اتركها تغلي غليانًا خفيفًا من 2 إلى 3 دقائق مع التحريك."
+  },
+  "steps.11.title": {
+   "fr": "Fais le beurre au paprika",
+   "t": "حضّر الزبدة بالفلفل الأحمر"
+  },
+  "steps.11.text": {
+   "fr": "Dans une petite poêle, fais fondre {{beurre}} de beurre à feu doux. Ajoute {{paprika}} de paprika, laisse grésiller quelques secondes et retire aussitôt du feu.",
+   "t": "في مقلاة صغيرة، ذوّب {{beurre}} من الزبدة على نار هادئة. أضف {{paprika}} من الفلفل الأحمر، واتركه يُصدر أزيزًا بضع ثوانٍ، ثم ارفع المقلاة عن النار فورًا."
+  },
+  "steps.12.title": {
+   "fr": "Sers bien chaud",
+   "t": "قدّمها ساخنة جدًا"
+  },
+  "steps.12.text": {
+   "fr": "Coupe {{citron:full}} en quartiers. Verse la soupe dans les bols, arrose d'un filet de beurre au paprika et pose un quartier de citron à côté. Sers avec du {{pain}}.",
+   "t": "قطّع {{citron:full}} إلى أرباع. اسكب الشوربة في الصحون، ورشّ عليها قليلًا من الزبدة بالفلفل الأحمر، وضع ربع ليمونة بجانبها. قدّمها مع {{pain}}."
+  },
+  "secrets.0.text": {
+   "fr": "Rince les lentilles dans beaucoup d'eau, jusqu'à ce qu'elle coule claire.",
+   "t": "اغسل العدس في ماء وفير حتى ينزل الماء صافيًا."
+  },
+  "secrets.0.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası ; Ev usulü mercimek çorbası)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar)؛ Yemek.com (Türk Mutfağı Haftası؛ Ev usulü mercimek çorbası)"
+  },
+  "secrets.1.text": {
+   "fr": "Verse de l'eau déjà chaude : la soupe bout plus tôt et cuit plus vite.",
+   "t": "اسكب ماءً ساخنًا مسبقًا: تغلي الشوربة في وقت أبكر وتنضج أسرع."
+  },
+  "secrets.1.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı, Altın mercimek çorbası) ; eau chaude aussi chez Elif Atalar et sur Yemek.com (Düdüklüde mercimek çorbası)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı، Altın mercimek çorbası)؛ والماء الساخن أيضًا عند Elif Atalar وفي Yemek.com (Düdüklüde mercimek çorbası)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais revenir carotte et pomme de terre dans l'huile avant d'ajouter l'eau : leur couleur passe dans l'huile et rend la soupe brillante, d'un beau jaune doré.",
+   "t": "شوّح الجزر والبطاطا في الزيت قبل إضافة الماء: ينتقل لونهما إلى الزيت فتصبح الشوربة لامعة بلون أصفر ذهبي جميل."
+  },
+  "secrets.2.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı)",
+   "t": "موقع Nefis Yemek Tarifleri (Nesli'nin Mutfağı)"
+  },
+  "secrets.3.text": {
+   "fr": "Remue les lentilles environ une minute dans la matière grasse avant de mouiller.",
+   "t": "قلّب العدس في الدهن نحو دقيقة قبل إضافة السائل."
+  },
+  "secrets.3.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası : « 1 dakika kadar karıştırarak kavurun ») ; Nesli'nin Mutfağı (2 ou 3 tours de cuillère)",
+   "t": "Yemek.com (Türk Mutfağı Haftası: «1 dakika kadar karıştırarak kavurun»)؛ Nesli'nin Mutfağı (2 أو 3 دورات بالملعقة)"
+  },
+  "secrets.4.text": {
+   "fr": "La cocotte-minute raccourcit beaucoup la cuisson : environ 40 minutes de cuisson à la casserole, contre 15 à 20 minutes en tout à la cocotte-minute, dont 10 à 15 sous pression.",
+   "t": "طنجرة الضغط تختصر وقت الطهي كثيرًا: نحو 40 دقيقة من الطهي في قدر عادي، مقابل 15 إلى 20 دقيقة في المجموع في طنجرة الضغط، منها 10 إلى 15 دقيقة تحت الضغط."
+  },
+  "secrets.4.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : « yaklaşık olarak 40 dakika » à la casserole ; 10 minutes sous pression) ; Yemek.com (Gökçen Mutaf : 10 à 15 minutes) ; Nesli'nin Mutfağı (10 à 15 minutes)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: «yaklaşık olarak 40 dakika» في قدر عادي؛ 10 دقائق تحت الضغط)؛ Yemek.com (Gökçen Mutaf: من 10 إلى 15 دقيقة)؛ Nesli'nin Mutfağı (من 10 إلى 15 دقيقة)"
+  },
+  "secrets.5.text": {
+   "fr": "Pour une soupe d'un jaune doré et soyeuse, passe-la encore chaude dans une passoire au lieu de la mixer : au mixeur, elle devient plus terne. Yemek.com fait les deux, mixeur puis passoire fine.",
+   "t": "لشوربة ناعمة كالحرير بلون أصفر ذهبي، مرّرها وهي ما تزال ساخنة في مصفاة بدل خلطها بالخلاط: فالخلاط يجعل لونها أبهت. أما Yemek.com فيجمع بين الطريقتين: الخلاط ثم المصفاة الناعمة."
+  },
+  "secrets.5.source": {
+   "fr": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı) ; Yemek.com (Süzme mercimek çorbası, Çiğdem Esastürk)",
+   "t": "Nefis Yemek Tarifleri (Nesli'nin Mutfağı)؛ Yemek.com (Süzme mercimek çorbası، Çiğdem Esastürk)"
+  },
+  "secrets.6.text": {
+   "fr": "« Süzme » (passée) désigne la texture lisse et veloutée de cette soupe, la reine des menus des lokanta.",
+   "t": "كلمة «Süzme» (أي المصفّاة) تدل على القوام الناعم الكريمي لهذه الشوربة، ملكة قوائم الطعام في مطاعم lokanta."
+  },
+  "secrets.6.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası, avec la contribution du ministère turc de la Culture et du Tourisme)",
+   "t": "Yemek.com (Türk Mutfağı Haftası، بمساهمة وزارة الثقافة والسياحة التركية)"
+  },
+  "secrets.7.text": {
+   "fr": "La soupe épaissit en attendant : rallonge-la avec un peu d'eau chaude.",
+   "t": "تزداد الشوربة كثافة كلما انتظرت: خفّفها بقليل من الماء الساخن."
+  },
+  "secrets.7.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar ; Nesli'nin Mutfağı) ; Ozlem's Turkish Table",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar؛ Nesli'nin Mutfağı)؛ Ozlem's Turkish Table"
+  },
+  "secrets.8.text": {
+   "fr": "Un bouillon de poule ou de viande donne plus de goût : un à deux verres suffisent. En halal, prends un bouillon maison ou un cube certifié halal.",
+   "t": "مرق الدجاج أو اللحم يمنح الشوربة نكهة أقوى: يكفي كأس إلى كأسين. ولكي يكون حلالًا، استعمل مرقًا منزليًا أو مكعب مرق حاصلًا على شهادة حلال."
+  },
+  "secrets.8.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar) ; Yemek.com (Türk Mutfağı Haftası, au bouillon de viande)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar)؛ Yemek.com (Türk Mutfağı Haftası، بمرق اللحم)"
+  },
+  "secrets.9.text": {
+   "fr": "Le beurre au paprika ne chauffe que quelques secondes, puis il quitte le feu.",
+   "t": "لا تبقى الزبدة بالفلفل الأحمر على النار إلا بضع ثوانٍ، ثم تُرفع عنها."
+  },
+  "secrets.9.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası : « birkaç saniye kızdırın ve ocaktan alın ») ; Ozlem Warren (piment infusé 35 secondes à feu doux)",
+   "t": "Yemek.com (Türk Mutfağı Haftası: «birkaç saniye kızdırın ve ocaktan alın»)؛ Ozlem Warren (تنقيع الفلفل الحار 35 ثانية على نار هادئة)"
+  },
+  "secrets.10.text": {
+   "fr": "Le plus souvent, on la sert avec un quartier de citron et un beurre grésillant au piment.",
+   "t": "غالبًا ما تُقدَّم مع ربع ليمونة وزبدة ساخنة تئزّ بالفلفل الحار."
+  },
+  "secrets.10.source": {
+   "fr": "Yemek.com (Türk Mutfağı Haftası) ; Nefis Yemek Tarifleri (Elif Atalar) ; Ozlem's Turkish Table",
+   "t": "Yemek.com (Türk Mutfağı Haftası)؛ Nefis Yemek Tarifleri (Elif Atalar)؛ Ozlem's Turkish Table"
+  },
+  "secrets.11.text": {
+   "fr": "Le cumin s'ajoute à la fin, avec le poivre.",
+   "t": "يُضاف الكمون في النهاية مع الفلفل الأسود."
+  },
+  "secrets.11.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : après le mixage) ; Ozlem's Turkish Table (une fois la soupe cuite)",
+   "t": "Nefis Yemek Tarifleri (Elif Atalar: بعد الخلط بالخلاط)؛ Ozlem's Turkish Table (بعد نضج الشوربة)"
+  },
+  "secrets.12.text": {
+   "fr": "Tu aimes le piquant ? Mets plus de piment (pul biber).",
+   "t": "تحب الطعم الحار؟ أكثِر من الفلفل الحار (pul biber)."
+  },
+  "secrets.12.source": {
+   "fr": "Nefis Yemek Tarifleri (Elif Atalar : « Acı seviyorsanız pul biber miktarını artırabilirsiniz »)",
+   "t": "Nefis Yemek Tarifleri (تقول Elif Atalar: «Acı seviyorsanız pul biber miktarını artırabilirsiniz»)"
+  },
+  "mistakes.0": {
+   "fr": "Ouvrir la cocotte sans avoir fait retomber la pression : suis toujours le mode d'emploi (Yemek.com, Düdüklüde mercimek çorbası).",
+   "t": "فتح الطنجرة قبل تخفيف الضغط: اتبع دائمًا دليل الاستعمال (Yemek.com، Düdüklüde mercimek çorbası)."
+  },
+  "mistakes.1": {
+   "fr": "Mixer la soupe dès l'ouverture : Yemek.com attend 1 à 2 minutes avant de la mixer.",
+   "t": "خلط الشوربة بالخلاط فور فتح الطنجرة: ينتظر Yemek.com من 1 إلى 2 دقيقة قبل خلطها."
+  },
+  "mistakes.2": {
+   "fr": "Mal rincer les lentilles (Nefis Yemek Tarifleri, Elif Atalar).",
+   "t": "عدم غسل العدس جيدًا (Nefis Yemek Tarifleri، Elif Atalar)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser brûler la farine, si tu en mets : ne la fais pas revenir sur un feu trop fort (Nefis Yemek Tarifleri, Elif Atalar, recette lokanta usulü).",
+   "t": "ترك الدقيق يحترق، إن كنت تضيفه: لا تحمّصه على نار قوية جدًا (Nefis Yemek Tarifleri، Elif Atalar، وصفة lokanta usulü)."
+  },
+  "mistakes.4": {
+   "fr": "Servir une soupe trop épaisse : elle épaissit encore en refroidissant, rallonge-la d'eau chaude (Elif Atalar ; Nesli'nin Mutfağı).",
+   "t": "تقديم شوربة كثيفة جدًا: فهي تزداد كثافة حين تبرد، فخفّفها بالماء الساخن (Elif Atalar؛ Nesli'nin Mutfağı)."
+  },
+  "mistakes.5": {
+   "fr": "À la casserole, oublier de remuer : les lentilles attachent au fond (Ozlem Warren).",
+   "t": "نسيان التحريك عند الطهي في قدر عادي: يلتصق العدس بالقاع (Ozlem Warren)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes à température ambiante : mets-les au frigo dans les 1 à 2 heures, mange-les dans les 48 heures et réchauffe-les une seule fois, jusqu'à ce qu'ils fument partout (Food Standards Agency, Royaume-Uni).",
+   "t": "ترك البقايا في حرارة الغرفة: ضعها في الثلاجة خلال 1 إلى 2 ساعة، وتناولها خلال 48 ساعة، وسخّنها مرة واحدة فقط حتى يتصاعد منها البخار في كل أجزائها (Food Standards Agency، المملكة المتحدة)."
+  },
+  "variants.0": {
+   "fr": "Sans cocotte-minute : même recette dans une grande casserole, à petit frémissement, couvercle entrouvert, 20 à 25 minutes (Ozlem Warren, 2026) ou 25 à 30 minutes (Türk Mutfağı Haftası), en remuant de temps en temps. Compte alors 45 à 55 minutes en tout, préparation comprise : 15 + 30 minutes chez Elif Atalar (Nefis Yemek Tarifleri), 15 + 35 minutes pour le Türk Mutfağı Haftası, 15 + 40 minutes chez Ozlem Warren en 2010 ; Nefis donne environ 40 minutes de cuisson à la casserole.",
+   "t": "بدون طنجرة الضغط: الوصفة نفسها في قدر كبير، على غليان خفيف والغطاء نصف مفتوح، من 20 إلى 25 دقيقة (Ozlem Warren، 2026) أو من 25 إلى 30 دقيقة (Türk Mutfağı Haftası)، مع التحريك من حين لآخر. واحسب حينها من 45 إلى 55 دقيقة في المجموع، بما في ذلك التحضير: 15 + 30 دقيقة عند Elif Atalar (Nefis Yemek Tarifleri)، و15 + 35 دقيقة في Türk Mutfağı Haftası، و15 + 40 دقيقة عند Ozlem Warren سنة 2010؛ ويذكر Nefis نحو 40 دقيقة من الطهي في القدر."
+  },
+  "variants.1": {
+   "fr": "Version de la Semaine de la cuisine turque (Türk Mutfağı Haftası) : seulement lentilles, oignon doré au beurre et bouillon de viande halal, maison ou certifié (ou bouillon de légumes, ou eau chaude), mixés, puis beurre au paprika ; à Istanbul, la version la plus courante est aussi aux lentilles seules (Ozlem Warren).",
+   "t": "نسخة أسبوع المطبخ التركي (Türk Mutfağı Haftası): لا شيء غير العدس، والبصل المحمَّر في الزبدة، ومرق لحم حلال، منزلي أو حاصل على شهادة حلال (أو مرق خضر، أو ماء ساخن)، تُخلط كلها بالخلاط، ثم الزبدة بالفلفل الأحمر؛ وفي إسطنبول أيضًا، النسخة الأكثر شيوعًا هي بالعدس وحده (Ozlem Warren)."
+  },
+  "variants.2": {
+   "fr": "Avec un peu de riz long, cuit avec les lentilles (Ozlem Warren : 25 g pour 4).",
+   "t": "مع قليل من الأرز طويل الحبة، يُطهى مع العدس (Ozlem Warren: 25 غ لـ 4 أشخاص)."
+  },
+  "variants.3": {
+   "fr": "Plus épaisse : un roux de beurre et de farine (Türk Mutfağı Haftası : 20 g de beurre et 1 c. à s. de farine) ; Elif Atalar fait revenir 2 c. à s. de farine avec l'oignon.",
+   "t": "أكثر كثافة: بخليط من الزبدة والدقيق يُطهى معًا (Türk Mutfağı Haftası: 20 غ من الزبدة و1 ملعقة كبيرة من الدقيق)؛ أما Elif Atalar فتحمّص 2 ملعقة كبيرة من الدقيق مع البصل."
+  },
+  "variants.4": {
+   "fr": "Avec du concentré de tomate ou de poivron revenu avec l'oignon (Elif Atalar ; Yemek.com, Düdüklüde mercimek çorbası).",
+   "t": "مع مركز الطماطم أو مركز الفلفل الحلو، يُشوَّح مع البصل (Elif Atalar؛ Yemek.com، Düdüklüde mercimek çorbası)."
+  },
+  "variants.5": {
+   "fr": "Avec curcuma et cumin dans la soupe, sans carotte ni pomme de terre (Elif Atalar, recette lokanta usulü).",
+   "t": "مع الكركم (الخرقوم) والكمون في الشوربة، بدون جزر ولا بطاطا (Elif Atalar، وصفة lokanta usulü)."
+  },
+  "variants.6": {
+   "fr": "Huile d'olive au piment (pul biber) à la place du beurre au paprika, avec le jus d'un citron dans la soupe (Ozlem Warren).",
+   "t": "زيت الزيتون بالفلفل الحار (pul biber) بدل الزبدة بالفلفل الأحمر، مع عصير ليمونة في الشوربة (Ozlem Warren)."
+  },
+  "variants.7": {
+   "fr": "Avec un verre de bouillon de poule à la place d'une partie de l'eau (Elif Atalar, recette sous pression) : bouillon maison ou certifié halal.",
+   "t": "مع كأس من مرق الدجاج بدل جزء من الماء (Elif Atalar، وصفة طنجرة الضغط): مرق منزلي أو حاصل على شهادة حلال."
+  }
+ }
+}

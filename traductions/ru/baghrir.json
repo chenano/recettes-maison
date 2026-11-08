@@ -1,0 +1,474 @@
+{
+ "_slug": "baghrir",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Baghrir, crêpes mille trous",
+   "t": "Багрир, блинчики «тысяча дырочек»"
+  },
+  "darija": {
+   "fr": "baghrir (aussi beghrir)",
+   "t": "багрир (также бегрир)"
+  },
+  "tagline": {
+   "fr": "Des crêpes à la semoule, légères et spongieuses, cuites d'un seul côté : leurs mille petits trous boivent le sirop chaud de beurre et de miel.",
+   "t": "Лёгкие ноздреватые блинчики из семолины, которые пекут только с одной стороны: тысяча мелких дырочек впитывает горячий сироп из сливочного масла и мёда."
+  },
+  "region": {
+   "fr": "Maroc ; aussi en Algérie et en Tunisie (Wikipédia)",
+   "t": "Марокко; также Алжир и Тунис (Wikipédia)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "Завтрак, полдник с чаем, ифтар в Рамадан"
+  },
+  "img_alt": {
+   "fr": "Baghrir posé sur un torchon, sa face criblée de petits trous",
+   "t": "Багрир на кухонном полотенце, его поверхность усеяна мелкими дырочками"
+  },
+  "serving": {
+   "fr": "Chauds ou tièdes, trempés côté trous dans le sirop chaud de beurre et de miel, puis posés trous vers le haut (Cooking with Alia ; Lalla Moulati ; Taste of Maroc), avec un thé à la menthe (Choumicha ; Lalla Moulati, qui cite aussi le café). Au petit-déjeuner ou au goûter (Yabiladi ; Lalla Moulati ; Taste of Maroc), et au ftour du ramadan (Morocco World News 2022 ; Wikipédia). Autres garnitures : confiture (Taste of Maroc ; Morocco World News 2022), amlou ou fromage frais à l'huile d'olive (Morocco World News 2019). Conservation, selon Taste of Maroc (seule source) : les baghrir nature se gardent 2 jours à température ambiante, emballés dans du film ; ceux trempés dans le sirop vont au réfrigérateur ; nature, ils se congèlent 2 à 3 mois, avec un carré de film entre chaque baghrir.",
+   "t": "Подают горячими или тёплыми, обмакнув стороной с дырочками в горячий сироп из сливочного масла и мёда и выложив дырочками вверх (Cooking with Alia; Lalla Moulati; Taste of Maroc), с мятным чаем (Choumicha; Lalla Moulati, которая упоминает и кофе). На завтрак или полдник (Yabiladi; Lalla Moulati; Taste of Maroc) и на ифтар в Рамадан (Morocco World News 2022; Wikipédia). Другие добавки: варенье (Taste of Maroc; Morocco World News 2022), амлу или свежий сыр с оливковым маслом (Morocco World News 2019). Хранение, по данным Taste of Maroc (единственный источник): багриры без сиропа хранятся 2 дня при комнатной температуре, завёрнутые в плёнку; пропитанные сиропом — в холодильнике; без сиропа их можно заморозить на 2–3 месяца, переложив каждый багрир квадратиком плёнки."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur",
+   "t": "мелкой семолины из твёрдой пшеницы"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne la couleur jaune et la texture",
+   "t": "именно она даёт жёлтый цвет и текстуру"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (blé tendre)",
+   "t": "белой пшеничной муки (из мягкой пшеницы)"
+  },
+  "ing.levure-boulangere.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "сухих дрожжей"
+  },
+  "ing.levure-chimique.name": {
+   "fr": "de levure chimique",
+   "t": "разрыхлителя"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "сахара"
+  },
+  "ing.sucre.note": {
+   "fr": "facultatif : la moitié des recettes lues n'en mettent pas",
+   "t": "по желанию: в половине изученных рецептов его не кладут"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "тёплой воды"
+  },
+  "ing.eau.note": {
+   "fr": "au plus : verse-la en deux fois, tu n'en utiliseras peut-être pas tout",
+   "t": "это максимум: вливайте её в два приёма, возможно, понадобится не вся"
+  },
+  "ing.1.group": {
+   "fr": "Sirop beurre-miel",
+   "t": "Сироп из масла и мёда"
+  },
+  "ing.beurre.name": {
+   "fr": "Beurre",
+   "t": "Сливочное масло"
+  },
+  "ing.beurre.pl": {
+   "fr": "Beurre",
+   "t": "Сливочное масло"
+  },
+  "ing.beurre.note": {
+   "fr": "à parts égales avec le miel",
+   "t": "поровну с мёдом"
+  },
+  "ing.miel.name": {
+   "fr": "Miel",
+   "t": "Мёд"
+  },
+  "ing.miel.pl": {
+   "fr": "Miel",
+   "t": "Мёд"
+  },
+  "ing.miel.note": {
+   "fr": "à parts égales avec le beurre",
+   "t": "поровну со сливочным маслом"
+  },
+  "equipment.0": {
+   "fr": "Un blender (ou un grand saladier et un fouet électrique)",
+   "t": "Блендер (или большая миска и миксер)"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Кухонные весы и мерный стакан"
+  },
+  "equipment.2": {
+   "fr": "Un grand bol et un torchon propre ou du film alimentaire",
+   "t": "Большая миска и чистое кухонное полотенце или пищевая плёнка"
+  },
+  "equipment.3": {
+   "fr": "Une poêle antiadhésive en bon état, petite de préférence (poêle à crêpes), réservée si possible aux baghrir",
+   "t": "Сковорода с антипригарным покрытием в хорошем состоянии, лучше небольшая (блинная), по возможности только для багрира"
+  },
+  "equipment.4": {
+   "fr": "Une petite louche",
+   "t": "Небольшой половник"
+  },
+  "equipment.5": {
+   "fr": "Une spatule",
+   "t": "Лопатка"
+  },
+  "equipment.6": {
+   "fr": "Des torchons propres pour poser les baghrir à plat",
+   "t": "Чистые кухонные полотенца, чтобы разложить багриры"
+  },
+  "equipment.7": {
+   "fr": "Un torchon doux ou du papier absorbant pour essuyer la poêle",
+   "t": "Мягкая тканевая салфетка или бумажные полотенца, чтобы протирать сковороду"
+  },
+  "equipment.8": {
+   "fr": "Une petite casserole pour le sirop beurre-miel",
+   "t": "Небольшой ковшик для сиропа из масла и мёда"
+  },
+  "steps.0.title": {
+   "fr": "Mettre les ingrédients secs dans le blender",
+   "t": "Высыпьте сухие ингредиенты в блендер"
+  },
+  "steps.0.text": {
+   "fr": "Verse dans le bol du blender {{semoule}} de semoule fine, {{farine}} de farine, {{levure-boulangere}} de levure boulangère sèche, {{levure-chimique}} de levure chimique, {{sel}} de sel et, si tu en mets, {{sucre}} de sucre.",
+   "t": "Высыпьте в чашу блендера {{semoule}} мелкой семолины, {{farine}} муки, {{levure-boulangere}} сухих дрожжей, {{levure-chimique}} разрыхлителя, {{sel}} соли и, если кладёте, {{sucre}} сахара."
+  },
+  "steps.0.tip": {
+   "fr": "Pas de blender ? Mets tout dans un grand saladier et utilise un fouet électrique (My Moroccan Food).",
+   "t": "Нет блендера? Сложите всё в большую миску и взбейте миксером (My Moroccan Food)."
+  },
+  "steps.1.title": {
+   "fr": "Mixer avec les deux tiers de l'eau",
+   "t": "Взбейте с двумя третями воды"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute environ les deux tiers des {{eau}} d'eau tiède : juste un peu plus chaude que la pièce, pas chaude. Mixe 3 minutes, avec de courtes pauses, jusqu'à une pâte bien lisse, sans grumeaux.",
+   "t": "Влейте примерно две трети от {{eau}} тёплой воды: она должна быть чуть теплее комнатной температуры, но не горячей. Взбивайте 3 минуты с короткими паузами, пока тесто не станет совершенно гладким, без комочков."
+  },
+  "steps.1.timer.label": {
+   "fr": "Mixage",
+   "t": "Взбивание"
+  },
+  "steps.1.timer.done": {
+   "fr": "La pâte est lisse ? Ajoute maintenant le reste de l'eau, petit à petit.",
+   "t": "Тесто гладкое? Теперь понемногу влейте остальную воду."
+  },
+  "steps.2.title": {
+   "fr": "Ajuster la consistance",
+   "t": "Доведите тесто до нужной густоты"
+  },
+  "steps.2.text": {
+   "fr": "Verse le reste de l'eau petit à petit, en mixant quelques secondes à chaque fois. Arrête-toi quand la pâte a la consistance d'une crème liquide : un peu plus épaisse qu'une pâte à crêpes, bien plus fluide qu'une pâte à pancakes. Tu n'utiliseras peut-être pas toute l'eau.",
+   "t": "Понемногу вливайте остальную воду, каждый раз взбивая несколько секунд. Остановитесь, когда тесто станет по консистенции как жидкие сливки: чуть гуще, чем тесто для блинов, и гораздо жиже, чем тесто для панкейков. Возможно, вся вода не понадобится."
+  },
+  "steps.2.tip": {
+   "fr": "La consistance fait les trous : trop épaisse, la pâte ne fait pas de bulles (Taste of Maroc ; My Moroccan Food).",
+   "t": "Дырочки зависят от густоты: слишком густое тесто не пузырится (Taste of Maroc; My Moroccan Food)."
+  },
+  "steps.2.img.alt": {
+   "fr": "Pâte à baghrir lisse et fluide, dans son bol",
+   "t": "Гладкое жидкое тесто для багрира в миске"
+  },
+  "steps.2.img.caption": {
+   "fr": "Une pâte lisse et fluide",
+   "t": "Гладкое жидкое тесто"
+  },
+  "steps.3.title": {
+   "fr": "Laisser reposer au chaud",
+   "t": "Оставьте тесто в тепле"
+  },
+  "steps.3.text": {
+   "fr": "Verse la pâte dans un grand bol, couvre-la d'un torchon propre ou de film alimentaire et laisse-la reposer 15 minutes dans un endroit tiède. Elle est prête quand sa surface est couverte de petites bulles et qu'elle paraît légère et mousseuse.",
+   "t": "Перелейте тесто в большую миску, накройте чистым полотенцем или пищевой плёнкой и оставьте на 15 минут в тёплом месте. Тесто готово, когда его поверхность покрыта мелкими пузырьками, а само оно кажется лёгким и пенистым."
+  },
+  "steps.3.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Отдых теста"
+  },
+  "steps.3.timer.done": {
+   "fr": "La surface est couverte de petites bulles ? Chauffe la poêle.",
+   "t": "Поверхность покрылась мелкими пузырьками? Разогрейте сковороду."
+  },
+  "steps.4.title": {
+   "fr": "Chauffer la poêle sans la graisser",
+   "t": "Разогрейте сковороду, не смазывая её"
+  },
+  "steps.4.text": {
+   "fr": "Chauffe une poêle antiadhésive en bon état à feu moyen, sans matière grasse. Attends qu'elle soit bien chaude avant la première louche : dans une poêle pas assez chaude, il se forme peu de trous.",
+   "t": "Разогрейте антипригарную сковороду в хорошем состоянии на среднем огне, без жира. Дождитесь, пока она хорошо раскалится, и только потом наливайте первый половник: на недостаточно горячей сковороде дырочек получается мало."
+  },
+  "steps.4.tip": {
+   "fr": "Garde si possible une poêle rien que pour les baghrir : dans une poêle rayée, ils collent (Lalla Moulati ; Taste of Maroc).",
+   "t": "По возможности держите сковороду только для багрира: на поцарапанной сковороде они прилипают (Lalla Moulati; Taste of Maroc)."
+  },
+  "steps.5.title": {
+   "fr": "Verser une petite louche au centre",
+   "t": "Налейте небольшой половник теста в центр"
+  },
+  "steps.5.text": {
+   "fr": "Remue la pâte avec la louche, puis verse une petite louche de pâte au centre de la poêle. Ne fais pas tourner la poêle comme pour une crêpe : la pâte s'étale toute seule en un rond d'environ 12 cm.",
+   "t": "Перемешайте тесто половником, затем налейте небольшой половник теста в центр сковороды. Не вращайте сковороду, как для блинов: тесто само растечётся в круг диаметром около 12 см."
+  },
+  "steps.6.title": {
+   "fr": "Cuire d'un seul côté",
+   "t": "Пеките только с одной стороны"
+  },
+  "steps.6.text": {
+   "fr": "Laisse cuire sans jamais retourner le baghrir : des bulles montent, crèvent et laissent de petits trous sur toute la surface. Il est cuit en 1 à 2 minutes, quand il ne reste plus aucune zone humide : touché du bout du doigt, il est spongieux et la pâte ne colle pas. Le dessous ne doit pas trop brunir : sinon, baisse un peu le feu.",
+   "t": "Пеките, ни в коем случае не переворачивая багрир: пузырьки поднимаются, лопаются и оставляют мелкие дырочки по всей поверхности. Он готов через 1–2 минуты, когда не останется ни одного влажного участка: если коснуться его кончиком пальца, он пружинит, как губка, и тесто не липнет. Низ не должен сильно подрумяниваться, иначе немного убавьте огонь."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu le retournes, tu perds les trous (My Moroccan Food).",
+   "t": "Если перевернуть багрир, дырочки пропадут (My Moroccan Food)."
+  },
+  "steps.7.title": {
+   "fr": "Corriger s'il n'y a pas de trous",
+   "t": "Исправьте тесто, если нет дырочек"
+  },
+  "steps.7.text": {
+   "fr": "Pas de trous sur le premier baghrir ? Si la pâte est trop épaisse, ajoute un peu d'eau tiède, cuillère par cuillère, mélange et attends quelques minutes. Si elle n'a pas assez reposé, laisse-la encore 5 à 10 minutes avant de recommencer.",
+   "t": "На первом багрире нет дырочек? Если тесто слишком густое, добавьте немного тёплой воды по ложке, перемешайте и подождите несколько минут. Если оно недостаточно постояло, оставьте его ещё на 5–10 минут, а потом попробуйте снова."
+  },
+  "steps.8.title": {
+   "fr": "Poser à plat sur un torchon",
+   "t": "Разложите на полотенце"
+  },
+  "steps.8.text": {
+   "fr": "Retire le baghrir avec une spatule et pose-le à plat sur un torchon propre. Ne les empile pas tant qu'ils sont chauds : ils colleraient entre eux. Laisse-les refroidir en une seule couche avant de les superposer.",
+   "t": "Снимите багрир лопаткой и положите его на чистое полотенце. Не складывайте багриры стопкой, пока они горячие: они слипнутся. Дайте им остыть в один слой и только потом складывайте друг на друга."
+  },
+  "steps.8.tip": {
+   "fr": "Pour les empiler encore chauds, glisse une feuille de papier absorbant entre chaque baghrir (My Moroccan Food).",
+   "t": "Чтобы сложить их стопкой ещё горячими, перекладывайте каждый багрир листом бумажного полотенца (My Moroccan Food)."
+  },
+  "steps.9.title": {
+   "fr": "Essuyer la poêle et continuer",
+   "t": "Протрите сковороду и продолжайте"
+  },
+  "steps.9.text": {
+   "fr": "Essuie la poêle avec un torchon doux ou du papier absorbant, puis recommence jusqu'à la fin de la pâte, en la remuant avant chaque louche. Si le dessous colore trop vite, baisse le feu.",
+   "t": "Протрите сковороду мягкой тканевой салфеткой или бумажным полотенцем и повторяйте, пока не закончится тесто, перемешивая его перед каждым половником. Если низ слишком быстро темнеет, убавьте огонь."
+  },
+  "steps.10.title": {
+   "fr": "Préparer le sirop beurre-miel",
+   "t": "Приготовьте сироп из масла и мёда"
+  },
+  "steps.10.text": {
+   "fr": "Dans une petite casserole, mets du beurre et du miel à parts égales. Fais fondre à feu doux en remuant, jusqu'à ce que le beurre soit complètement fondu et le sirop bien chaud, puis coupe le feu.",
+   "t": "Положите в небольшой ковшик сливочное масло и мёд в равных количествах. Растопите на слабом огне, помешивая, пока масло полностью не растает, а сироп хорошо не прогреется, затем выключите огонь."
+  },
+  "steps.10.tip": {
+   "fr": "Tu peux ajouter quelques gouttes d'eau de fleur d'oranger au sirop (My Moroccan Food).",
+   "t": "В сироп можно добавить несколько капель воды из цветков апельсина (My Moroccan Food)."
+  },
+  "steps.11.title": {
+   "fr": "Tremper et servir",
+   "t": "Обмакните и подавайте"
+  },
+  "steps.11.text": {
+   "fr": "Trempe le côté troué de chaque baghrir quelques secondes dans le sirop chaud, puis pose-le dans le plat, trous vers le haut. Sers aussitôt, avec un thé à la menthe.",
+   "t": "Обмакните каждый багрир стороной с дырочками в горячий сироп на несколько секунд, затем выложите на блюдо дырочками вверх. Сразу подавайте с мятным чаем."
+  },
+  "steps.11.img.alt": {
+   "fr": "Baghrir imbibé de beurre et de miel, ses petits trous brillants de sirop",
+   "t": "Багрир, пропитанный маслом и мёдом: его мелкие дырочки блестят от сиропа"
+  },
+  "steps.11.img.caption": {
+   "fr": "Les trous boivent le sirop",
+   "t": "Дырочки впитывают сироп"
+  },
+  "secrets.0.text": {
+   "fr": "Prends de la semoule fine de blé dur et de bonne qualité : c'est elle qui donne la couleur jaune et la texture. Au Maroc, un baghrir du commerce d'un jaune trop vif trahit parfois une pâte médiocre colorée au curcuma ou à un additif.",
+   "t": "Берите мелкую семолину из твёрдой пшеницы хорошего качества: именно она даёт жёлтый цвет и текстуру. В Марокко слишком ярко-жёлтый магазинный багрир иногда выдаёт посредственное тесто, подкрашенное куркумой или добавкой."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha (semoule fine de blé dur, et « une semoule et une farine de bonne qualité ») ; Taste of Maroc",
+   "t": "Choumicha (мелкая семолина из твёрдой пшеницы и «семолина и мука хорошего качества»); Taste of Maroc"
+  },
+  "secrets.1.text": {
+   "fr": "Le bon mélange : environ trois quarts de semoule pour un quart de farine. Tu peux aussi faire tout à la semoule.",
+   "t": "Правильная смесь: примерно три четверти семолины на одну четверть муки. Можно готовить и только из семолины."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (450 g de semoule pour 150 g de farine) ; Cooking with Alia (300 g pour 100 g) ; Taste of Maroc (2 volumes pour 1, ou tout semoule) ; Choumicha et Lalla Moulati (versions tout semoule)",
+   "t": "Choumicha (450 г семолины на 150 г муки); Cooking with Alia (300 г на 100 г); Taste of Maroc (2 части на 1 по объёму или только семолина); Choumicha и Lalla Moulati (варианты только из семолины)"
+  },
+  "secrets.2.text": {
+   "fr": "Deux levures : la levure boulangère fait les bulles, la levure chimique accélère. Autrefois, la pâte devait reposer longtemps ; la levure chimique a raccourci l'attente, d'où les recettes dites « instantanées ».",
+   "t": "И дрожжи, и разрыхлитель: дрожжи дают пузырьки, разрыхлитель ускоряет дело. Раньше тесто должно было долго стоять; разрыхлитель сократил ожидание, отсюда так называемые «быстрые» рецепты."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Bladi.net, Choumicha, Cooking with Alia, My Moroccan Food et Morocco World News mettent les deux levures",
+   "t": "Taste of Maroc; Bladi.net, Choumicha, Cooking with Alia, My Moroccan Food и Morocco World News кладут и дрожжи, и разрыхлитель"
+  },
+  "secrets.3.text": {
+   "fr": "Tout se joue sur la consistance : une crème liquide, un peu plus épaisse qu'une pâte à crêpes, bien plus fluide qu'une pâte à pancakes. Ni trop épaisse, ni trop liquide.",
+   "t": "Всё решает густота: как у жидких сливок, чуть гуще, чем тесто для блинов, и гораздо жиже, чем тесто для панкейков. Не слишком густое и не слишком жидкое."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia ; Morocco World News 2019 (« precision is key »)",
+   "t": "Taste of Maroc, Cooking with Alia и Morocco World News 2019 («precision is key»)"
+  },
+  "secrets.4.text": {
+   "fr": "Verse l'eau en deux fois : d'abord les deux tiers pour mixer, puis le reste petit à petit jusqu'à la bonne consistance.",
+   "t": "Вливайте воду в два приёма: сначала две трети, чтобы взбить тесто, затем остальное понемногу, до нужной густоты."
+  },
+  "secrets.4.source": {
+   "fr": "Cooking with Alia (500 ml puis le reste, sur 750 ml) ; Morocco World News 2019 (600 ml puis le reste, sur 800 ml)",
+   "t": "Cooking with Alia (500 мл, затем остальное, из 750 мл); Morocco World News 2019 (600 мл, затем остальное, из 800 мл)"
+  },
+  "secrets.5.text": {
+   "fr": "Respecte la dose de levure et le temps de repos. Si le premier baghrir n'a pas de trous, laisse reposer la pâte encore 5 à 10 minutes, ou allonge-la d'un peu d'eau tiède si elle est épaisse.",
+   "t": "Соблюдайте дозировку дрожжей и разрыхлителя и время отдыха теста. Если на первом багрире нет дырочек, оставьте тесто ещё на 5–10 минут или разбавьте его небольшим количеством тёплой воды, если оно густое."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (astuce « Pour réussir les crêpes au mille trous ») ; My Moroccan Food ; Taste of Maroc",
+   "t": "Choumicha (совет «Pour réussir les crêpes au mille trous»); My Moroccan Food; Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Ne laisse pas la pâte trop fermenter : un repos trop long l'épaissit. Si les trous restent petits, raccourcis le repos la fois suivante et ajoute un peu d'eau.",
+   "t": "Не давайте тесту перебродить: от слишком долгого отдыха оно густеет. Если дырочки остаются маленькими, в следующий раз сократите отдых и добавьте немного воды."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (réponse aux lecteurs) ; Lalla Moulati (« ne la laisse pas trop fermenter », « 10 minutes, ni plus ni moins »)",
+   "t": "Taste of Maroc (ответ читателям); Lalla Moulati («не давайте ему перебродить», «10 минут, ни больше ни меньше»)"
+  },
+  "secrets.7.text": {
+   "fr": "Une poêle antiadhésive en bon état, réservée aux baghrir : la plupart des Marocains y tiennent, selon Taste of Maroc. Et dans une poêle rayée, les baghrir collent, prévient Lalla Moulati.",
+   "t": "Антипригарная сковорода в хорошем состоянии, только для багрира: по словам Taste of Maroc, большинство марокканцев на этом настаивают. А на поцарапанной сковороде багриры прилипают, предупреждает Lalla Moulati."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; Lalla Moulati",
+   "t": "Taste of Maroc и Lalla Moulati"
+  },
+  "secrets.8.text": {
+   "fr": "Pas besoin de graisser la poêle : essuie-la seulement entre deux baghrir, avec un torchon doux ou un papier à peine huilé pour enlever les restes.",
+   "t": "Смазывать сковороду не нужно: просто протирайте её между багрирами мягкой тканевой салфеткой или бумажным полотенцем, едва смазанным маслом, чтобы убрать остатки теста."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Choumicha (« essuyer la poêle », « à l'aide d'un torchon doux »)",
+   "t": "Taste of Maroc; Choumicha («протереть сковороду», «мягкой тканевой салфеткой»)"
+  },
+  "secrets.9.text": {
+   "fr": "Commence dans une poêle bien chaude, sinon il se forme peu de trous.",
+   "t": "Начинайте на хорошо разогретой сковороде, иначе дырочек будет мало."
+  },
+  "secrets.9.source": {
+   "fr": "My Moroccan Food ; Choumicha (poêle préchauffée)",
+   "t": "My Moroccan Food; Choumicha (разогретая сковорода)"
+  },
+  "secrets.10.text": {
+   "fr": "Feu moyen. Choumicha conseille même un feu moyen à fort, baissé vers la fin de la cuisson de chaque crêpe ; Taste of Maroc ajuste le feu pour que le dessous ne brunisse pas trop.",
+   "t": "Средний огонь. Choumicha даже советует огонь от среднего до сильного, убавляя его к концу выпекания каждого блинчика; Taste of Maroc регулирует огонь так, чтобы низ не слишком подрумянивался."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha (recettes et astuce) ; Taste of Maroc ; Lalla Moulati (feu fort jusqu'aux trous, puis baissé)",
+   "t": "Choumicha (рецепты и совет); Taste of Maroc; Lalla Moulati (сильный огонь до появления дырочек, затем слабее)"
+  },
+  "secrets.11.text": {
+   "fr": "Ne retourne jamais un baghrir : il ne cuit que d'un côté, et tu perdrais les trous.",
+   "t": "Никогда не переворачивайте багрир: его пекут только с одной стороны, а при переворачивании дырочки пропадут."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Wikipédia",
+   "t": "My Moroccan Food, Taste of Maroc, Cooking with Alia и Wikipédia"
+  },
+  "secrets.12.text": {
+   "fr": "Ne les empile pas chauds : laisse-les refroidir à plat, en une seule couche, sur un torchon propre.",
+   "t": "Не складывайте их стопкой горячими: дайте им остыть, разложив в один слой на чистом полотенце."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022",
+   "t": "My Moroccan Food, Taste of Maroc, Cooking with Alia и Morocco World News 2022"
+  },
+  "secrets.13.text": {
+   "fr": "Trempe le côté troué quelques secondes dans le sirop chaud : les trous boivent le sirop.",
+   "t": "Обмакивайте сторону с дырочками в горячий сироп на несколько секунд: дырочки впитывают сироп."
+  },
+  "secrets.13.source": {
+   "fr": "Cooking with Alia ; Lalla Moulati ; My Moroccan Food",
+   "t": "Cooking with Alia, Lalla Moulati и My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Une pâte trop épaisse : les bulles ne crèvent pas et il n'y a pas de trous (My Moroccan Food ; Taste of Maroc).",
+   "t": "Слишком густое тесто: пузырьки не лопаются, и дырочек нет (My Moroccan Food; Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Une poêle pas assez chaude au départ : peu de trous (My Moroccan Food).",
+   "t": "Недостаточно разогретая сковорода в начале: мало дырочек (My Moroccan Food)."
+  },
+  "mistakes.2": {
+   "fr": "Retourner le baghrir : il perd ses trous (My Moroccan Food).",
+   "t": "Переворачивать багрир: дырочки пропадают (My Moroccan Food)."
+  },
+  "mistakes.3": {
+   "fr": "Empiler les baghrir encore chauds : ils collent entre eux (My Moroccan Food ; Taste of Maroc ; Cooking with Alia ; Morocco World News 2022).",
+   "t": "Складывать стопкой ещё горячие багриры: они слипаются (My Moroccan Food; Taste of Maroc; Cooking with Alia; Morocco World News 2022)."
+  },
+  "mistakes.4": {
+   "fr": "Garder un feu trop fort jusqu'au bout : le dessous brunit trop (Taste of Maroc ; Choumicha).",
+   "t": "Держать слишком сильный огонь до самого конца: низ слишком темнеет (Taste of Maroc; Choumicha)."
+  },
+  "mistakes.5": {
+   "fr": "Utiliser une poêle rayée : les baghrir collent (Lalla Moulati).",
+   "t": "Брать поцарапанную сковороду: багриры прилипают (Lalla Moulati)."
+  },
+  "mistakes.6": {
+   "fr": "Mesurer à l'œil : pèse et mesure tes ingrédients, la consistance de la pâte en dépend (Taste of Maroc ; Morocco World News 2019).",
+   "t": "Отмерять на глаз: взвешивайте и отмеряйте ингредиенты, от этого зависит густота теста (Taste of Maroc; Morocco World News 2019)."
+  },
+  "mistakes.7": {
+   "fr": "Donner du sirop beurre-miel à un bébé de moins d'un an : pas de miel avant 1 an, à cause du risque de botulisme infantile (NHS, service de santé britannique).",
+   "t": "Давать сироп из масла и мёда ребёнку младше года: никакого мёда до 1 года из-за риска младенческого ботулизма (NHS, британская служба здравоохранения)."
+  },
+  "variants.0": {
+   "fr": "Tout semoule : 375 g de semoule fine de blé dur, 50 cl d'eau tiède, 1 c. à c. de sel, 1 c. à c. de levure boulangère et 1 sachet de levure chimique, mixés 3 minutes, repos de 15 minutes (Choumicha). Lalla Moulati en fait aussi au vinaigre blanc : 4 verres de semoule fine, 1 c. à s. de levure boulangère, 2 sachets de levure chimique, 1 c. à s. de vinaigre blanc, 4 à 5 verres d'eau tiède, repos de 10 minutes.",
+   "t": "Только из семолины: 375 г мелкой семолины из твёрдой пшеницы, 50 сл тёплой воды, 1 ч. л. соли, 1 ч. л. дрожжей и 1 пакетик разрыхлителя взбить 3 минуты, отдых 15 минут (Choumicha). Lalla Moulati готовит их и с белым уксусом: 4 стакана мелкой семолины, 1 ст. л. дрожжей, 2 пакетика разрыхлителя, 1 ст. л. белого уксуса, 4–5 стаканов тёплой воды, отдых 10 минут."
+  },
+  "variants.1": {
+   "fr": "Au vinaigre, version de Choumicha : 450 g de semoule fine, 150 g de farine, 2 sachets de levure chimique de 7 g, 1 c. à c. de levure boulangère, 1 c. à c. de sel, 1 c. à s. de sucre et 75 cl d'eau mixés, puis 1 c. à s. de vinaigre ajoutée à la fin ; repos de 15 minutes (Choumicha).",
+   "t": "С уксусом, вариант Choumicha: 450 г мелкой семолины, 150 г муки, 2 пакетика разрыхлителя по 7 г, 1 ч. л. дрожжей, 1 ч. л. соли, 1 ст. л. сахара и 75 сл воды взбить, затем в конце добавить 1 ст. л. уксуса; отдых 15 минут (Choumicha)."
+  },
+  "variants.2": {
+   "fr": "À l'ancienne, avec un long repos : 200 g de farine, 200 g de semoule et ½ c. à c. de sel ; 1 c. à s. de levure boulangère et 1 c. à c. de levure chimique délayées dans un peu d'eau tiède ; ¾ l d'eau tiède en tout ; repos couvert de 1 h à 1 h 30 (Bladi.net). À la levure fraîche seule, on attend que la pâte double de volume (Lalla Moulati).",
+   "t": "По-старинному, с долгим отдыхом: 200 г муки, 200 г семолины и ½ ч. л. соли; 1 ст. л. дрожжей и 1 ч. л. разрыхлителя, разведённые в небольшом количестве тёплой воды; всего ¾ л тёплой воды; отдых под крышкой от 1 ч до 1 ч 30 мин (Bladi.net). Если брать только свежие дрожжи, ждут, пока тесто увеличится в объёме вдвое (Lalla Moulati)."
+  },
+  "variants.3": {
+   "fr": "Au lait et au jaune d'œuf : 250 g de semoule, 250 ml de lait, 1 jaune d'œuf, 1 c. à s. de levure boulangère, ½ c. à c. de sel et de l'eau tiède, repos d'une heure (Yabiladi). Taste of Maroc signale aussi des versions aux œufs et au lait.",
+   "t": "На молоке с желтком: 250 г семолины, 250 мл молока, 1 желток, 1 ст. л. дрожжей, ½ ч. л. соли и тёплая вода, отдых в течение часа (Yabiladi). Taste of Maroc упоминает также варианты с яйцами и молоком."
+  },
+  "variants.4": {
+   "fr": "Khringo : dans certaines régions, on retourne brièvement le baghrir, et on l'appelle alors khringo (Taste of Maroc ; Wikipédia cite le nom kh'ringu au Maroc et en Algérie).",
+   "t": "Хринго: в некоторых регионах багрир ненадолго переворачивают, и тогда его называют хринго (Taste of Maroc; Wikipédia приводит название kh'ringu в Марокко и Алжире)."
+  },
+  "variants.5": {
+   "fr": "Sirop à la crème de Choumicha : 100 g de beurre, 200 g de miel et 3 c. à s. de crème fraîche fondus à feu doux, émulsionnés à la fourchette et servis chauds en saucière (Choumicha).",
+   "t": "Сироп со сливками от Choumicha: 100 г сливочного масла, 200 г мёда и 3 ст. л. крем-фреш растопить на слабом огне, взбить вилкой до однородности и подать горячим в соуснике (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "Sirop parfumé : quelques gouttes d'eau de fleur d'oranger dans le sirop beurre-miel (My Moroccan Food).",
+   "t": "Ароматный сироп: несколько капель воды из цветков апельсина в сиропе из масла и мёда (My Moroccan Food)."
+  },
+  "variants.7": {
+   "fr": "Sirop à la margarine : Lalla Moulati fait fondre du « beurre végétal » avec le miel (Lalla Moulati).",
+   "t": "Сироп на маргарине: Lalla Moulati растапливает с мёдом «растительное сливочное масло» (Lalla Moulati)."
+  },
+  "variants.8": {
+   "fr": "Garnitures : confiture (Taste of Maroc ; Morocco World News 2022), amlou, fromage frais et huile d'olive (Morocco World News 2019), chocolat (Morocco World News 2022).",
+   "t": "Добавки: варенье (Taste of Maroc; Morocco World News 2022), амлу, свежий сыр и оливковое масло (Morocco World News 2019), шоколад (Morocco World News 2022)."
+  }
+ }
+}

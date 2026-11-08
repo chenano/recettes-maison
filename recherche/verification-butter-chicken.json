@@ -1,0 +1,149 @@
+{
+ "slug": "butter-chicken",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Hindustan Times (Inde), Shivani Singh, « 'Vadiya Khao': Refugees taught Delhi how to eat out in style », 14 août 2017",
+   "url": "https://www.hindustantimes.com/delhi-news/vadiya-khao-refugees-taught-delhi-how-to-eat-out-in-style/story-Y5sG96AYWu7gQ9e5V6TXxN.html",
+   "ce_qu_elle_confirme": "Récit de Kundan Lal Jaggi (93 ans), sept ans avant le procès : avec Kundan Lal Gujral et Thakur Das Mago, anciens du Moti Mahal de Peshawar, il fonde Moti Mahal à Daryaganj en 1947 ; selon lui, le butter chicken y est né quand « our rather intrepid cook » a fait une sauce de tomates, de crème et de beurre pour un client bengali. Confirme l'association Gujral-Jaggi, Daryaganj, 1947 et la version Jaggi (Delhi)."
+  },
+  {
+   "name": "India Today (Inde), Manish Mehrotra, « Kundan Lal Gujral: Father of butter chicken », 21 août 2021",
+   "url": "https://www.indiatoday.in/magazine/independence-day-special/story/20210830-kundan-lal-gujral-father-of-butter-chicken-1843143-2021-08-20",
+   "ce_qu_elle_confirme": "Chapeau (seule partie lisible) : Gujral quitte Peshawar pour Delhi à la Partition et fonde d'abord Moti Mahal à Daryaganj. Titre favorable à la version Gujral : confirme que l'attribution reste disputée."
+  },
+  {
+   "name": "Wikipédia (anglais), « Paneer », consultée le 8 novembre 2026",
+   "url": "https://en.wikipedia.org/wiki/Paneer",
+   "ce_qu_elle_confirme": "Le paneer est un fromage frais caillé avec un acide (jus de citron ou acide citrique), donc sans présure."
+  },
+  {
+   "name": "Swasthi's Recipes, « Paneer recipes », 29 mai 2020",
+   "url": "https://www.indianhealthyrecipes.com/paneer-recipes/",
+   "ce_qu_elle_confirme": "Le paneer se fait en caillant du lait entier chaud avec du jus de citron, de l'acide citrique ou du vinaigre (deuxième source pour la variante paneer)."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "region",
+   "actuel": "Les deux restaurants s'affrontent devant la Haute Cour de Delhi depuis janvier 2024 (The Week, Onmanorama, Dawn).",
+   "propose": "Moti Mahal a attaqué le restaurant Daryaganj devant la Haute Cour de Delhi, qui a tenu sa première audience le 16 janvier 2024 (The Week, Onmanorama, Dawn) ; l'issue du procès n'a pas été vérifiée.",
+   "pourquoi": "Le présent « s'affrontent » donne le procès pour toujours en cours en novembre 2026, ce qu'aucune source lue ne confirme : les articles s'arrêtent à l'audience fixée au 29 mai 2024, Kunal Kapur parle d'un procès « ongoing » dans une page modifiée le 30 septembre 2024, et Wikipédia (révision du 25 octobre 2026) cite la plainte sans issue. La recette le reconnaît dans « unverified ».",
+   "gravite": "mineure",
+   "sources": "The Week, 20 janvier 2024, lu sur web.archive.org (copie du 10 décembre 2024) : « During a hearing on January 16, Justice Sanjeev Narula issued summons » ; Dawn (Reuters), 25 janvier 2024 : « The case was first heard by the Delhi High Court last week » ; Onmanorama, 22 janvier 2024."
+  },
+  {
+   "champ": "steps[12].text",
+   "actuel": "Avec un thermomètre, le cœur doit atteindre 75 °C.",
+   "propose": "Avec un thermomètre, le cœur doit atteindre 75 °C pendant 30 secondes.",
+   "pourquoi": "La FSA ne donne pas un seuil instantané mais un couple température-durée (« 70°C for 2 minutes », « 75°C for 30 seconds »). Le conseil de l'étape le dit, pas son texte.",
+   "gravite": "mineure",
+   "sources": "FSA, « Cooking your food » (publié le 18 décembre 2017), section 3 ; Anses, salmonellose (« cuire à coeur (70 °C) »)."
+  },
+  {
+   "champ": "mistakes[3]",
+   "actuel": " Kunal Kapur et Ranveer Brar lavent le poulet dans certaines recettes : ne le fais pas.",
+   "propose": "",
+   "pourquoi": "Aucune recette de butter chicken citée ne lave le poulet : « wash » n'apparaît ni chez Kunal Kapur ni dans les deux recettes de Ranveer Brar (HTML complet relu). Le lavage se trouve dans leurs biryanis (Kunal Kapur : « Wash and pat dry the chicken » ; Ranveer Brar : « cleaned and washed »), qui ne sont pas des sources de cette recette. La consigne de la FSA reste.",
+   "gravite": "mineure",
+   "sources": "chefkunalkapur.com/recipe/butter-chicken/ ; ranveerbrar.com/recipes/butter-chicken-2/ et butter-chicken-old-dilli-style/ ; à comparer avec chefkunalkapur.com/recipe/chicken-biryani/ et ranveerbrar.com/recipes/chicken-dum-biryani-recipe/."
+  },
+  {
+   "champ": "discrepancies[22]",
+   "actuel": "Kunal Kapur et Ranveer Brar le lavent dans certaines recettes ; la FSA le déconseille.",
+   "propose": "aucune des recettes de butter chicken citées ne le lave (Kunal Kapur et Ranveer Brar le lavent dans leurs biryanis) ; la FSA le déconseille.",
+   "pourquoi": "Même constat que pour mistakes[3].",
+   "gravite": "mineure",
+   "sources": "Mêmes pages que pour mistakes[3]."
+  },
+  {
+   "champ": "discrepancies[8]",
+   "actuel": "aucun chez Monish Gujral. Médiane avec les recettes sans sucre : 1,5 c. à c. Retenu.",
+   "propose": "aucun chez Monish Gujral ni dans The National. Médiane avec les recettes sans sucre : 1,25 c. à c. Retenu : 1,5 c. à c., comme Sanjeev Kapoor.",
+   "pourquoi": "La recette de The National (Monish Gujral) ne met pas de sucre non plus. Avec les deux recettes sans sucre, la médiane de 0, 0, 1, 1,5, 2 et 2,67 c. à c. est 1,25 (calcul python). La quantité retenue reste dans la fourchette des sources.",
+   "gravite": "mineure",
+   "sources": "The National, 3 novembre 2021 (liste complète des ingrédients, sans sucre) ; calcul python -I (statistics.median)."
+  },
+  {
+   "champ": "variants[5]",
+   "actuel": "Sans noix de cajou : mets plus de crème à la fin (Swasthi).",
+   "propose": "Sans noix de cajou : mets moins d'eau et plus de crème à la fin (Swasthi).",
+   "pourquoi": "Swasthi réduit aussi l'eau quand on supprime les noix de cajou : « 1 cup hot water to make gravy (cut down to ½ cup if omitting cashews) », et « If you have not used cashews, you will use ½ to 2/3 cup in total » pour la crème.",
+   "gravite": "mineure",
+   "sources": "Swasthi's Recipes, « Butter Chicken Recipe », modifiée le 18 juin 2024 (fiche recette et étapes 16 et 24)."
+  },
+  {
+   "champ": "variants[8]",
+   "actuel": "Pour le fromage, si tu veux être strict : coagulant microbien, sans présure animale.",
+   "propose": "Le paneer se fait en caillant le lait chaud avec un acide (jus de citron, acide citrique ou vinaigre), sans présure (Wikipédia ; Swasthi) ; s'il est acheté tout fait, lis l'étiquette.",
+   "pourquoi": "La phrase laisse croire que le paneer peut contenir de la présure animale. Le paneer est caillé à l'acide, pas à la présure : la bonne note halal est de vérifier l'étiquette d'un paneer du commerce.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (anglais), « Paneer » (« made by curdling milk with an acid, such as lemon juice or citric acid ») ; Swasthi's Recipes, « Paneer recipes », 29 mai 2020 (« curdling hot full fat milk with an acidic ingredient like lemon juice, citric acid or vinegar »)."
+  },
+  {
+   "champ": "serving",
+   "actuel": "à manger sous 48 heures (FSA ; l'Anses parle de moins de 3 jours pour un plat cuisiné)",
+   "propose": "à manger sous 48 heures (FSA)",
+   "pourquoi": "Chez l'Anses, « une durée inférieure à 3 jours » vise les « produits traiteurs, plats cuisinés [...] non préemballés, sur lesquels ne figure pas de date limite de consommation », avec « Demander conseil aux commerçants » : des plats achetés, pas des restes faits maison. La règle de la FSA (48 heures) suffit.",
+   "gravite": "mineure",
+   "sources": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020) ; FSA, « Cooking your food », section 7.1."
+  },
+  {
+   "champ": "sources[17].name",
+   "actuel": "(mise en ligne le 15 décembre 2025)",
+   "propose": "(27 octobre 2025)",
+   "pourquoi": "La page de l'Anses sur la salmonellose est datée du 27/10/2025. Le 15/12/2025 est la « Date de mise en ligne » d'un PDF lié en bas de page (note AST 2023-AST-0069), pas de l'article.",
+   "gravite": "mineure",
+   "sources": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir (lue le 8 novembre 2026)."
+  },
+  {
+   "champ": "sources[17].used_for",
+   "actuel": "plats cuisinés gardés moins de 3 jours",
+   "propose": "plats cuisinés du commerce sans date limite gardés moins de 3 jours",
+   "pourquoi": "L'Anses vise les plats traiteurs non préemballés sans date limite de consommation (« Demander conseil aux commerçants »), pas les restes faits maison.",
+   "gravite": "mineure",
+   "sources": "Anses, « Conseils d'hygiène dans la cuisine : dix gestes simples » (24 décembre 2020)."
+  },
+  {
+   "champ": "unverified[2]",
+   "actuel": "India Today est refusé par l'outil de recherche ; l'article d'India Today cité par Wikipédia (Manish Mehrotra, 2021) n'a donc pas été lu.",
+   "propose": "l'article d'India Today cité par Wikipédia (Manish Mehrotra, 21 août 2021) n'est lisible que par son chapeau, lu lors de la contre-vérification.",
+   "pourquoi": "Le robots.txt d'India Today n'interdit pas cette page, et la page répond. Seul le chapeau est lisible sans abonnement : « After moving from Peshawar to Delhi during Partition, Kundan Lal Gujral first set up Moti Mahal in Daryaganj » (version Gujral).",
+   "gravite": "mineure",
+   "sources": "https://www.indiatoday.in/magazine/independence-day-special/story/20210830-kundan-lal-gujral-father-of-butter-chicken-1843143-2021-08-20 (datePublished 2021-08-21)."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Origine, premier point (Moti Mahal de Daryaganj ouvert par des réfugiés de Peshawar après 1947) : Outlook India, 14 août 2004 (« fled from Peshawar and set up Moti Mahal in Delhi's Daryaganj ») ; The National, 3 novembre 2021 (Gujral avec Kundan Lal Jaggi et Thakur Dass) ; Wikipédia (« Punjabi Hindu refugees ») ; Hindustan Times, 2017 (trio fondateur, Daryaganj, 1947).",
+  "Version Gujral (Peshawar, années 1930) : Dawn/Reuters, 25 janvier 2024 (« created the curry in the 1930s when the restaurant first opened in Peshawar ») ; Wikipédia (« 1920s or 1930s ») ; site Moti Mahal reprenant Indiatimes, 18 décembre 2018 (Mukhey da Dhaba, poulet qui sèche sur les seekhs) ; Onmanorama et The Week (plainte).",
+  "Version Jaggi (Delhi, 1947) : daryaganj.com (« One fine night in 1947 », formé chez Mokha Singh à Peshawar dans les années 1930) ; Dawn/Reuters (acte d'association de 1949) ; Hindustan Times, 2017. Les deux thèses sont attribuées à leur famille, sans trancher : récit neutre et sourcé.",
+  "Point commun des deux récits (poulet tandoori déjà cuit dans une sauce tomate au beurre) : Monish Gujral (« dual recipe ») ; daryaganj.com (« dual recipe of tandoori chicken cooked first »).",
+  "Procès : juge Sanjeev Narula, audience du 16 janvier 2024, suivante fixée au 29 mai 2024 (The Week ; Onmanorama) ; slogan « by the inventors of butter chicken and dal makhani » visé, plainte jugée « baseless » par Daryaganj (Onmanorama) ; Daryaganj créé en 2019 (Dawn).",
+  "Nom arabe « دجاج بالزبدة » : Wikipédia arabe (« دجاج بالزبدة أو مورغ مخاني »). Darija laissé vide, signalé dans « unverified ».",
+  "Halal : aucune source n'utilise d'alcool ; l'eau de kewra (Ranveer Brar, Vieux Delhi : « 1 tsp Kewra water »), le colorant rouge facultatif et le kala namak (Monish Gujral) sont bien sortis de la recette ; pas de porc ; poulet halal indiqué.",
+  "Occasion : étiquettes « Sunday special », « Party Main course », « Kids Special » et « Ramadan Special » sur la recette de Ranveer Brar (2024) ; « a mild dish » (Swasthi) ; Sandeep Pande : « does not have overpowering spices » (The National).",
+  "Monish Gujral (23 septembre 2010) : 600-700 g « pat dried », 1re marinade 1 h, 2e au moins 3 h, four à 180 °C, 800 g de tomates, 50 g de beurre, 50 g de crème, sauce passée (« Strain the sauce »), poulet tikka qui séchait près des tandoors.",
+  "The National (Rakesh Kumar) : 680 g désossé en morceaux de 4 cm, 200 °C pendant 15 à 18 min, oignon 2 à 3 min, tomates 10 à 12 min, tamis ou mixeur plongeant, 1 c. à s. de piment du Cachemire, ⅓ tasse de crème ; chapati et riz (chef Saini).",
+  "Sanjeev Kapoor (29 janvier 2020, « Serve 4 ») : 750 g avec os, marinade 1 h, 250 g de tomates mixées et tamisées, poêle-gril, fumage au charbon arrosé de ghee, ¼ tasse d'eau, 10 à 15 min « till chicken is cooked completely », 4-5 c. à s. de crème, 1½ c. à c. de sucre, kasuri methi « roasted and powdered ».",
+  "Ranveer Brar, 12 juillet 2024 (4-5 personnes) : double marinade, 15-20 min, yaourt égoutté, farine de pois chiches grillée, poivre ; 10-12 cajous, 10-12 min, mixée ; « until half cooked » puis 7-8 min ; miel ; ¼ tasse de crème ; 1 c. à s. de kasuri methi ; charbon 2-3 min. Vieux Delhi, 2 mai 2025 (2-4 personnes) : 1 kg de cuisses et pilons, 5 grosses tomates, 2 oignons, 15-20 cajous, 10-12 min, mélange d'épices grillées puis moulues, 2 c. à c. de sucre et de kasuri methi, 3-4 c. à s. de crème.",
+  "Kunal Kapur (4 mars 2021, modifiée le 30 septembre 2024, « Serves 3 ») : 400 g « pat dry », 1re marinade au moins 20 min, poêle-gril ou 180 °C 20 min, 500 g de tomates, 50 g d'oignon, 2 tasses d'eau, 20 min à couvert, épices retirées, purée très fine passée, miel contre l'acidité, kasuri methi grillé, naan tandoori, meilleur le lendemain, même sauce pour le paneer makhani, « no written record », procès « ongoing ».",
+  "Swasthi (19 avril 2023, modifiée le 18 juin 2024, 4 personnes) : « a mild dish », « Makhani recipe never uses onion », yaourt épais (le yaourt liquide rend le poulet « bland »), 12 h et 48 h au plus, kasuri methi « no substitute », poudre de graines au goût différent (réponse du 24 octobre 2026), piment « medium hot » et 1:1 paprika fumé-cayenne, « not burnt », « not necessary to fully cook the chicken », 2 à 3 fournées, crème tempérée « to prevent splitting », 240 °C 20-22 min, amandes trempées 2 h, crème « at the end » sans cajou, service.",
+  "Outlook India : « Double marination that ensures quick roasting in a tandoor » ; shahi paneer « shares the same gravy » (Monish Gujral).",
+  "Sécurité alimentaire : FSA (ne pas laver la volaille crue, mains au savon, planches séparées ; 70 °C 2 min ou 75 °C 30 s au cœur, loin des os, jus clair, vapeur ; restes au froid sous 2 h, mangés sous 48 h, réchauffés une fois jusqu'à être fumants) ; Anses (volaille cuite à cœur à 70 °C ; planche réservée au cru ; pas plus de 2 h à température ambiante ; 4 °C) ; deux organismes indépendants, mêmes règles.",
+  "Variante au charbon : NHS (revu le 16 décembre 2025) : monoxyde de carbone des feux de bois et de charbon, « do not use a barbecue or camping stove indoors », « keep rooms well ventilated ».",
+  "Conversions USDA FoodData Central (fiches relues) : grosse tomate 182 g, moyenne 123 g ; oignon moyen 110 g, gros 150 g ; crème 238 g la tasse et 15 g la c. à s. ; beurre 14,2 g la c. à s. ; yaourt 245 g la tasse.",
+  "Médianes recalculées (python -I) : poulet 533 g, tomates 667 g, beurre 3,52 c. à s. (50 g), cajou 29,5 g, kasuri methi 1,25 c. à c., piment de la sauce 3 c. à c., eau 327 ml, yaourt 80 ml pour 500 g de poulet ; crème 67,5 ml en comptant Ranveer Brar 2024 (¼ tasse pour 4-5), qui n'est pas nommé dans la ligne.",
+  "Cohérence interne : minuteurs de 20, 12 et 7 min identiques aux textes ; repos de 80 min = 20 + 60 min de marinade ; chaque ingrédient de la liste sert dans une étape ; difficulté « Moyen », donc pas de limite de 30 minutes.",
+  "Rendu (fmtQ et fill de app.html reproduits en python) : pour 4, « 500 g », « 650 g », « 4 gousses de cardamome verte » ; pour 8, « 1 kg », « 1,3 kg », « 660 ml », « 2 piments verts » ; pour 1, « 125 g », « 165 g », « 13 g », « 18 ml », « 1 gousse de cardamome verte » au singulier ; {{sel}} et {{coriandre}} affichent leur nom.",
+  "robots.txt : tous les sites cités permettent les pages utilisées, sans règle pour Claude ou Anthropic (Outlook autorise Claude-Web). The Week renvoie 403 à curl, mais sa copie web.archive.org du 5 novembre 2026 n'interdit pas /news/ ; NHS interdit /Conditions/ (majuscule), pas /conditions/ (RFC 9309 : « The matching SHOULD be case sensitive »).",
+  "Liens : 18 des 20 adresses citées (et les deux liens secondaires de Daryaganj et de l'Anses) répondent directement ; Dawn et The Week refusent curl (403) et ont été lus par leurs copies web.archive.org de janvier et décembre 2024."
+ ],
+ "non_verifiable": [
+  "Issue du procès Moti Mahal contre Daryaganj en novembre 2026 : non vérifiée. Sans outil de recherche (quota épuisé), aucun article récent de LiveLaw ou de Bar & Bench (robots.txt permis) n'a pu être trouvé ; Wikipédia (25 octobre 2026) ne donne pas d'issue.",
+  "Durées totales (préparation 20 min, cuisson 45 min) : estimations cohérentes avec les étapes, mais aucune source ne donne ces totaux pour cette méthode.",
+  "Variante au charbon (dhungar) : aucune source officielle n'évalue le risque de monoxyde de carbone de ce geste à l'intérieur ; « fenêtre grande ouverte » applique le conseil général du NHS d'aérer, sans garantie.",
+  "Statut halal des produits du commerce (garam masala, ghee, pâte ail-gingembre en pot, paneer acheté) : non vérifié, il faut lire les étiquettes.",
+  "Rendu pour 1 personne : « ¾ clou de girofle », « ¼ feuille de laurier », « ¼ petit bâton de cannelle », « ¼ piment vert » suivent la règle d'arrondi de l'appli ; un arrondi vers le haut (champ \"round\": \"up\", déjà utilisé dans taktouka) n'est pas un remplacement de texte : à décider par l'auteur.",
+  "Article original d'Indiatimes (Arushi Lohia, 2018) : lu seulement dans sa reprise sur motimahal.in."
+ ]
+}

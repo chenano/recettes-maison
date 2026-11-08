@@ -52,5 +52,55 @@ for (const r of R) {
   console.log(`${id} : ${(r.ingredients || []).reduce((a, g) => a + g.items.length, 0)} ingrédients, ${(r.steps || []).length} étapes, ${(r.steps || []).filter(s => s.timer).length} minuteurs, ${(r.sources || []).length} sources`);
 }
 for (const [k, v] of Object.entries(ING)) if (v.file && !fs.existsSync(path.join(APP, 'img', 'ing', v.file))) { errors++; console.log(`ERREUR  banque : photo introuvable pour ${k} (${v.file})`); }
+
+/* ---------- langues : textes de l'interface, dictionnaire, traductions des recettes ---------- */
+const IC = { window: {} }; vm.createContext(IC);
+vm.runInContext(fs.readFileSync(path.join(APP, 'i18n', 'interface.js'), 'utf8'), IC);
+const UIT = IC.window.UI_TXT || {}, DICO = IC.window.DICO || {};
+const LG = ['en', 'ar', 'ru'];
+for (const l of LG) {
+  const L = UIT[l] || {};
+  for (const k of Object.keys(UIT.fr || {})) {
+    if (!(k in L)) err('interface', `${l} : texte manquant « ${k} »`);
+    else if (typeof L[k] !== typeof UIT.fr[k]) err('interface', `${l} : « ${k} » n'a pas le même type qu'en français`);
+  }
+  for (const k of Object.keys(L)) if (!(k in (UIT.fr || {}))) warn('interface', `${l} : texte en trop « ${k} »`);
+}
+// valeurs des recettes que l'appli traduit avec le dictionnaire (catégories, cuisines, niveaux, rayons…)
+const need = { category: new Set(), cuisine: new Set(), difficulty: new Set(), rest: new Set(), phase: new Set(), modified: new Set(['réduite']), aisle: new Set(), servings: new Set(), rayon: new Set() };
+for (const r of R) {
+  need.category.add(r.category); need.cuisine.add(r.cuisine); need.difficulty.add(r.difficulty); need.servings.add(r.servings_label);
+  if (r.time && r.time.rest) need.rest.add(r.time.rest_label || 'Repos');
+  (r.steps || []).forEach(s => { if (s.phase) need.phase.add(s.phase); });
+  if (r.photo && r.photo.modified) need.modified.add(r.photo.modified);
+  (Array.isArray(r.rayons) && r.rayons.length ? r.rayons : [r.rayon || (r.cuisine === 'Marocaine' ? 'Plats' : "D'ailleurs")]).forEach(x => need.rayon.add(x));
+}
+for (const v of Object.values(ING)) { if (v.aisle) need.aisle.add(v.aisle); if (v.file && v.modified) need.modified.add(v.modified); }
+for (const [kind, vals] of Object.entries(need)) for (const v of vals) {
+  const e = DICO[kind] && DICO[kind][v];
+  for (const l of LG) if (!e || !e[l]) err('dictionnaire', `${kind} « ${v} » : pas de traduction « ${l} » dans i18n/interface.js`);
+}
+// traductions des recettes (fichiers construits par outils/traduction.py) : repères valables et couverture
+for (const l of LG) {
+  const p = path.join(APP, 'i18n', l + '.js');
+  if (!fs.existsSync(p)) { warn('langues', `i18n/${l}.js absent (lancer build.sh)`); continue; }
+  const C = { window: {} }; vm.createContext(C); vm.runInContext(fs.readFileSync(p, 'utf8'), C);
+  const D = C.window.I18N_DATA || {}, TR = D.recettes || {};
+  if (D.lang !== l) err('langues', `i18n/${l}.js : langue « ${D.lang} » au lieu de « ${l} »`);
+  let n = 0;
+  for (const r of R) {
+    const tr = TR[r.slug];
+    if (!tr) { warn(r.slug, `pas encore traduite en « ${l} » : elle s'affiche en français`); continue; }
+    n++;
+    const ids = new Set((r.ingredients || []).flatMap(g => g.items.map(i => i.id)));
+    for (const [k, v] of Object.entries(tr)) {
+      for (const m of String(v).matchAll(/\{\{([^}:]+)(:full)?\}\}/g)) if (!ids.has(m[1])) err(r.slug, `${l} ${k} : {{${m[1]}}} ne correspond à aucun ingrédient`);
+      if (/\{\{|\}\}/.test(String(v).replace(/\{\{[a-z0-9-]+(:full)?\}\}/g, ''))) err(r.slug, `${l} ${k} : accolades mal formées`);
+    }
+  }
+  const noms = D.ingredients || {}, sans = Object.keys(ING).filter(k => ING[k].file && !noms[k]);
+  if (sans.length) warn('langues', `${l} : ${sans.length} ingrédient(s) sans nom traduit (${sans.slice(0, 8).join(', ')}${sans.length > 8 ? '…' : ''})`);
+  console.log(`langue ${l} : ${n}/${R.length} recettes traduites`);
+}
 console.log(`\n${R.length} recettes, ${Object.values(ING).filter(v => v.file).length} photos d'ingrédients, ${errors} erreur(s), ${warns} avertissement(s)`);
 process.exit(errors ? 1 : 0);

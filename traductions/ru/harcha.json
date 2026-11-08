@@ -1,0 +1,478 @@
+{
+ "_slug": "harcha",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Harcha, galettes de semoule à la poêle",
+   "t": "Харша, лепёшки из семолины на сковороде"
+  },
+  "darija": {
+   "fr": "harcha (aussi harsha)",
+   "t": "харша (также harsha)"
+  },
+  "tagline": {
+   "fr": "Des galettes de semoule sablées, cuites à sec à la poêle, légèrement croustillantes dehors et moelleuses dedans, à manger tièdes avec du miel et du beurre.",
+   "t": "Песочные лепёшки из семолины, испечённые на сухой сковороде: снаружи слегка хрустящие, внутри мягкие. Их едят тёплыми с мёдом и сливочным маслом."
+  },
+  "region": {
+   "fr": "Maroc ; aussi en Algérie (origine discutée : le Moyen Atlas selon Wikipédia en anglais, l'Algérie selon Wikipédia en français)",
+   "t": "Марокко; также Алжир (происхождение спорное: по Wikipédia на английском — Средний Атлас, по Wikipédia на французском — Алжир)"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter avec le thé, ftour du ramadan",
+   "t": "Завтрак, полдник с чаем, ифтар в Рамадан"
+  },
+  "serving": {
+   "fr": "Tiède, quand elle est légèrement croustillante dehors et moelleuse dedans (Bladi.net ; My Moroccan Food). Le nappage traditionnel au Maroc est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux (My Moroccan Food). Tu peux aussi l'ouvrir en deux et la garnir de fromage, de confiture ou de miel (Cooking with Alia), par exemple de jben, le fromage frais marocain (Morocco World News). Avec un thé à la menthe (Wikipédia ; Amour de cuisine) ou un verre de lait (Morocco World News), au petit-déjeuner, au goûter ou au ftour du ramadan (My Moroccan Food ; Wikipédia ; Hespress). Elle se garde 1 à 2 jours dans un torchon propre : réchauffe-la quelques secondes à la poêle (Amour de cuisine).",
+   "t": "Подают тёплой, пока харша слегка хрустит снаружи и остаётся мягкой внутри (Bladi.net; My Moroccan Food). Традиционная поливка в Марокко — сироп из растопленных в равных долях мёда и сливочного масла, по желанию с несколькими каплями воды из цветков апельсина (My Moroccan Food). Можно также разрезать харшу пополам и положить внутрь сыр, варенье или мёд (Cooking with Alia), например жбен — свежий марокканский сыр (Morocco World News). С мятным чаем (Wikipédia; Amour de cuisine) или стаканом молока (Morocco World News) — на завтрак, полдник или ифтар в Рамадан (My Moroccan Food; Wikipédia; Hespress). Харша хранится 1–2 дня, завёрнутая в чистое полотенце: разогрейте её несколько секунд на сковороде (Amour de cuisine)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur",
+   "t": "мелкой семолины из твёрдой пшеницы"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne la texture sablée : ne la remplace pas",
+   "t": "именно она даёт песочную текстуру: не заменяйте её"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "сахарного песка"
+  },
+  "ing.sucre.note": {
+   "fr": "tu peux en mettre moins : d'autres recettes n'en mettent que 2 c. à s. pour 500 g de semoule",
+   "t": "можно положить меньше: в других рецептах кладут всего 2 ст. л. на 500 г семолины"
+  },
+  "ing.levure-chimique.name": {
+   "fr": "de levure chimique",
+   "t": "разрыхлителя"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "мелкой соли"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre doux, bien mou",
+   "t": "несолёного сливочного масла, хорошо размягчённого"
+  },
+  "ing.beurre.note": {
+   "fr": "à température ambiante",
+   "t": "комнатной температуры"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "молока"
+  },
+  "ing.lait.note": {
+   "fr": "environ : ajoute-le petit à petit, la quantité dépend de ta semoule",
+   "t": "примерно: добавляйте его понемногу, количество зависит от вашей семолины"
+  },
+  "ing.1.group": {
+   "fr": "Pour enrober",
+   "t": "Для обваливания"
+  },
+  "ing.semoule-enrobage.name": {
+   "fr": "de semoule fine ou moyenne",
+   "t": "мелкой или средней семолины"
+  },
+  "ing.semoule-enrobage.note": {
+   "fr": "environ",
+   "t": "примерно"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.miel.name": {
+   "fr": "Miel",
+   "t": "Мёд"
+  },
+  "ing.miel.pl": {
+   "fr": "Miel",
+   "t": "Мёд"
+  },
+  "ing.miel.note": {
+   "fr": "à parts égales avec le beurre, pour le sirop",
+   "t": "в равных долях со сливочным маслом, для сиропа"
+  },
+  "ing.beurre-service.name": {
+   "fr": "Beurre",
+   "t": "Сливочное масло"
+  },
+  "ing.beurre-service.pl": {
+   "fr": "Beurre",
+   "t": "Сливочное масло"
+  },
+  "ing.beurre-service.note": {
+   "fr": "à parts égales avec le miel",
+   "t": "в равных долях с мёдом"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "Quelques gouttes d'eau de fleur d'oranger",
+   "t": "Несколько капель воды из цветков апельсина"
+  },
+  "ing.fleur-oranger.pl": {
+   "fr": "Quelques gouttes d'eau de fleur d'oranger",
+   "t": "Несколько капель воды из цветков апельсина"
+  },
+  "ing.fleur-oranger.note": {
+   "fr": "facultatif, dans le sirop",
+   "t": "по желанию, в сироп"
+  },
+  "ing.jben.name": {
+   "fr": "Jben (fromage frais marocain)",
+   "t": "Жбен (свежий марокканский сыр)"
+  },
+  "ing.jben.pl": {
+   "fr": "Jben (fromage frais marocain)",
+   "t": "Жбен (свежий марокканский сыр)"
+  },
+  "ing.jben.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.confiture.name": {
+   "fr": "Confiture",
+   "t": "Варенье"
+  },
+  "ing.confiture.pl": {
+   "fr": "Confiture",
+   "t": "Варенье"
+  },
+  "ing.confiture.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier",
+   "t": "Большая миска"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Кухонные весы и мерный стакан"
+  },
+  "equipment.2": {
+   "fr": "Un torchon propre ou du film pour couvrir la pâte",
+   "t": "Чистое кухонное полотенце или плёнка, чтобы накрыть тесто"
+  },
+  "equipment.3": {
+   "fr": "Une assiette creuse pour la semoule d'enrobage",
+   "t": "Глубокая тарелка под семолину для обваливания"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle à fond épais (fonte) ou antiadhésive",
+   "t": "Большая сковорода с толстым дном (чугунная) или с антипригарным покрытием"
+  },
+  "equipment.5": {
+   "fr": "Une spatule plate",
+   "t": "Плоская лопатка"
+  },
+  "equipment.6": {
+   "fr": "Une petite casserole pour le sirop miel-beurre",
+   "t": "Маленькая кастрюлька для медово-масляного сиропа"
+  },
+  "equipment.7": {
+   "fr": "Un couteau bien aiguisé",
+   "t": "Хорошо заточенный нож"
+  },
+  "steps.0.title": {
+   "fr": "Mélanger les ingrédients secs",
+   "t": "Смешайте сухие ингредиенты"
+  },
+  "steps.0.text": {
+   "fr": "Dans un grand saladier, mélange {{semoule}} de semoule fine, {{sucre}} de sucre, {{levure-chimique}} de levure chimique et {{sel}} de sel.",
+   "t": "В большой миске смешайте {{semoule}} мелкой семолины, {{sucre}} сахара, {{levure-chimique}} разрыхлителя и {{sel}} соли."
+  },
+  "steps.1.title": {
+   "fr": "Sabler avec le beurre",
+   "t": "Перетрите с маслом в крошку"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{beurre}} de beurre bien mou. Frotte le mélange entre tes paumes jusqu'à ce que toute la semoule soit humide et que chaque grain soit enrobé de beurre : c'est ce geste qui rend la harcha sablée et légère.",
+   "t": "Добавьте {{beurre}} хорошо размягчённого сливочного масла. Перетирайте смесь между ладонями, пока вся семолина не станет влажной, а каждая крупинка не покроется маслом: именно благодаря этому харша получается песочной и лёгкой."
+  },
+  "steps.2.title": {
+   "fr": "Ajouter le lait petit à petit",
+   "t": "Понемногу добавьте молоко"
+  },
+  "steps.2.text": {
+   "fr": "Verse la moitié des {{lait}} de lait et mélange. Ajoute le reste petit à petit, juste jusqu'à obtenir une pâte qui se tient : selon ta semoule, il en faudra un peu plus ou un peu moins. Ne pétris pas, rassemble seulement : si la pâte colle un peu, c'est normal.",
+   "t": "Влейте половину из {{lait}} молока и перемешайте. Остальное добавляйте понемногу, только пока не получится связное тесто: в зависимости от семолины молока понадобится чуть больше или чуть меньше. Не месите, а только соберите тесто вместе: если оно немного липнет, это нормально."
+  },
+  "steps.3.title": {
+   "fr": "Laisser gonfler la semoule",
+   "t": "Дайте семолине набухнуть"
+  },
+  "steps.3.text": {
+   "fr": "Couvre le saladier et laisse reposer 20 minutes. La semoule boit le lait et gonfle : la pâte devient plus sèche. Si elle s'effrite, ajoute un filet de lait.",
+   "t": "Накройте миску и оставьте на 20 минут. Семолина впитывает молоко и набухает: тесто становится суше. Если оно крошится, добавьте немного молока."
+  },
+  "steps.3.timer.label": {
+   "fr": "Repos de la pâte",
+   "t": "Отдых теста"
+  },
+  "steps.3.timer.done": {
+   "fr": "La semoule a gonflé. Si la pâte s'effrite, ajoute un filet de lait, puis façonne les galettes.",
+   "t": "Семолина набухла. Если тесто крошится, добавьте немного молока, затем сформуйте лепёшки."
+  },
+  "steps.4.title": {
+   "fr": "Façonner les galettes",
+   "t": "Сформуйте лепёшки"
+  },
+  "steps.4.text": {
+   "fr": "Partage la pâte en boules égales, une par harcha. Aplatis chaque boule à la main en un disque d'environ 10 cm de diamètre et de 1 cm d'épaisseur. Pas plus épais : sinon la cuisson n'est pas homogène.",
+   "t": "Разделите тесто на одинаковые шарики, по одному на каждую харшу. Расплющьте каждый шарик руками в диск диаметром около 10 см и толщиной 1 см. Не толще: иначе харша пропечётся неравномерно."
+  },
+  "steps.5.title": {
+   "fr": "Rouler dans la semoule",
+   "t": "Обваляйте в семолине"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{semoule-enrobage}} de semoule dans une assiette creuse. Pose chaque galette dedans puis retourne-la, pour enrober les deux faces : c'est ce qui donnera une croûte croustillante.",
+   "t": "Насыпьте {{semoule-enrobage}} семолины в глубокую тарелку. Положите в неё каждую лепёшку, затем переверните, чтобы обвалять обе стороны: так получится хрустящая корочка."
+  },
+  "steps.6.title": {
+   "fr": "Chauffer la poêle à sec",
+   "t": "Разогрейте сухую сковороду"
+  },
+  "steps.6.text": {
+   "fr": "Chauffe une grande poêle à fond épais (fonte) ou antiadhésive à feu moyen, sans matière grasse. Quand elle est chaude, baisse à feu doux ou moyen-doux. C'est très important : à feu trop fort, la harcha brûle dehors et reste crue dedans.",
+   "t": "Разогрейте большую сковороду с толстым дном (чугунную) или с антипригарным покрытием на среднем огне, без масла и жира. Когда она нагреется, убавьте огонь до слабого или чуть ниже среднего. Это очень важно: на слишком сильном огне харша подгорает снаружи и остаётся сырой внутри."
+  },
+  "steps.7.title": {
+   "fr": "Cuire la première face",
+   "t": "Обжарьте первую сторону"
+  },
+  "steps.7.text": {
+   "fr": "Dépose une première fournée de galettes dans la poêle chaude. Laisse cuire environ 5 minutes sans y toucher, jusqu'à ce que le dessous soit bien doré.",
+   "t": "Выложите первую партию лепёшек на горячую сковороду. Готовьте около 5 минут, не трогая их, пока низ хорошо не подрумянится."
+  },
+  "steps.7.timer.label": {
+   "fr": "Première face",
+   "t": "Первая сторона"
+  },
+  "steps.7.timer.done": {
+   "fr": "Soulève un bord avec la spatule : si le dessous est bien doré, retourne les galettes. Sinon, laisse encore un peu.",
+   "t": "Приподнимите край лопаткой: если низ хорошо подрумянился, переверните лепёшки. Если нет, подержите ещё немного."
+  },
+  "steps.8.title": {
+   "fr": "Retourner délicatement",
+   "t": "Аккуратно переверните"
+  },
+  "steps.8.text": {
+   "fr": "Retourne-les délicatement avec une spatule plate, car elles sont friables, et cuis l'autre face environ 5 minutes. Elles sont prêtes quand les deux faces sont dorées et qu'elles paraissent sèches sous le doigt. Si elles colorent trop vite, baisse le feu. Entre deux fournées, essuie la poêle pour que la semoule tombée ne brûle pas et ne colle pas aux galettes, puis cuis les suivantes de la même façon.",
+   "t": "Аккуратно переверните их плоской лопаткой, потому что они легко ломаются, и готовьте вторую сторону около 5 минут. Лепёшки готовы, когда обе стороны золотистые, а на ощупь они кажутся сухими. Если они слишком быстро темнеют, убавьте огонь. Между партиями протирайте сковороду, чтобы осыпавшаяся семолина не подгорала и не прилипала к лепёшкам, затем так же готовьте следующие."
+  },
+  "steps.8.timer.label": {
+   "fr": "Deuxième face",
+   "t": "Вторая сторона"
+  },
+  "steps.8.timer.done": {
+   "fr": "Dorées des deux côtés et sèches sous le doigt ? Sors-les et passe à la fournée suivante.",
+   "t": "Подрумянились с обеих сторон и сухие на ощупь? Снимите их и переходите к следующей партии."
+  },
+  "steps.9.title": {
+   "fr": "Préparer le sirop miel-beurre",
+   "t": "Приготовьте медово-масляный сироп"
+  },
+  "steps.9.text": {
+   "fr": "Dans une petite casserole, fais fondre ensemble du miel et du beurre, à parts égales. Ajoute quelques gouttes de fleur d'oranger si tu aimes. C'est le nappage traditionnel de la harcha au Maroc.",
+   "t": "В маленькой кастрюльке растопите вместе мёд и сливочное масло в равных долях. Если любите, добавьте несколько капель воды из цветков апельсина. Это традиционная поливка для харши в Марокко."
+  },
+  "steps.10.title": {
+   "fr": "Servir tiède",
+   "t": "Подавайте тёплыми"
+  },
+  "steps.10.text": {
+   "fr": "Laisse tiédir un peu les harchas, puis ouvre-les en deux avec un couteau bien aiguisé si tu veux les garnir : trop chaudes, elles s'émiettent. Sers-les tièdes, nappées de sirop miel-beurre ou garnies de jben ou de confiture, avec un thé à la menthe.",
+   "t": "Дайте харшам немного остыть, затем, если хотите положить начинку, разрежьте их пополам хорошо заточенным ножом: слишком горячие, они крошатся. Подавайте тёплыми, полив медово-масляным сиропом или с начинкой из жбена или варенья, с мятным чаем."
+  },
+  "secrets.0.text": {
+   "fr": "Sable d'abord : frotte la semoule et le beurre entre tes paumes jusqu'à ce que chaque grain soit enrobé de gras, avant de mettre le lait. C'est ce qui donne la texture friable et légère.",
+   "t": "Сначала перетрите в крошку: растирайте семолину с маслом между ладонями, пока каждая крупинка не покроется жиром, и только потом добавляйте молоко. Именно это даёт рассыпчатую и лёгкую текстуру."
+  },
+  "secrets.0.source": {
+   "fr": "Amour de cuisine (Soulef Zaoui) ; My Moroccan Food (Nargisse Benkabbou) ; Milk Street (le gras ajouté avant le liquide limite le gluten)",
+   "t": "Amour de cuisine (Soulef Zaoui); My Moroccan Food (Nargisse Benkabbou); Milk Street (жир, добавленный раньше жидкости, сдерживает развитие клейковины)"
+  },
+  "secrets.1.text": {
+   "fr": "Ici, le beurre est mou, comme chez My Moroccan Food et Bladi.net : selon Milk Street, le beurre fondu donne une texture un peu plus lourde et plus grasse. Choumicha et Amour de cuisine utilisent pourtant du beurre fondu mêlé d'huile : c'est un choix, pas une règle.",
+   "t": "Здесь масло мягкое, как у My Moroccan Food и Bladi.net: по мнению Milk Street, с растопленным маслом текстура получается чуть тяжелее и жирнее. Однако Choumicha и Amour de cuisine берут растопленное сливочное масло вместе с растительным: это выбор, а не правило."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food et Bladi.net (beurre mou) ; Milk Street ; Choumicha et Amour de cuisine (beurre fondu et huile)",
+   "t": "My Moroccan Food и Bladi.net (мягкое масло); Milk Street; Choumicha и Amour de cuisine (растопленное сливочное масло и растительное масло)"
+  },
+  "secrets.2.text": {
+   "fr": "Verse le lait en plusieurs fois : la quantité dépend de ta semoule. Arrête-toi dès que la pâte se tient.",
+   "t": "Вливайте молоко в несколько приёмов: количество зависит от вашей семолины. Остановитесь, как только тесто станет связным."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food ; Morocco World News (liquide versé petit à petit)",
+   "t": "My Moroccan Food; Morocco World News (жидкость вливают понемногу)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne pétris pas, rassemble juste la pâte : pétrir active le gluten et durcit les harchas. Une pâte un peu collante, c'est normal.",
+   "t": "Не месите, а только соберите тесто вместе: замес активирует клейковину, и харши становятся твёрдыми. Слегка липкое тесто — это нормально."
+  },
+  "secrets.3.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "secrets.4.text": {
+   "fr": "Ne saute pas le repos : il faut 20 minutes pour que la semoule boive le lait et gonfle. Une pâte bien reposée donne des harchas moelleuses, pas friables.",
+   "t": "Не пропускайте отдых теста: семолине нужно 20 минут, чтобы впитать молоко и набухнуть. Из хорошо отдохнувшего теста харши получаются мягкими, а не крошащимися."
+  },
+  "secrets.4.source": {
+   "fr": "My Moroccan Food (20 min) ; Amour de cuisine (20 à 30 min)",
+   "t": "My Moroccan Food (20 мин); Amour de cuisine (20–30 мин)"
+  },
+  "secrets.5.text": {
+   "fr": "Après le repos, la pâte est plus sèche, c'est normal. Si elle s'effrite, ajoute un filet de lait.",
+   "t": "После отдыха тесто суше — это нормально. Если оно крошится, добавьте немного молока."
+  },
+  "secrets.5.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Enrobe les deux faces de semoule avant la cuisson : c'est ce qui rend la croûte croustillante.",
+   "t": "Перед жаркой обваляйте обе стороны в семолине: именно от этого корочка получается хрустящей."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; recette de Paula Wolfert décrite par Milk Street",
+   "t": "My Moroccan Food; рецепт Paula Wolfert в описании Milk Street"
+  },
+  "secrets.7.text": {
+   "fr": "1 cm d'épaisseur, pas plus, pour une cuisson homogène. Plus fine, la harcha est croustillante ; plus épaisse, elle est moelleuse.",
+   "t": "Толщина 1 см, не больше, чтобы харша пропеклась равномерно. Чем тоньше харша, тем она хрустящее; чем толще, тем мягче."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food, Bladi.net et Amour de cuisine (1 cm) ; Cooking with Alia (fine ou épaisse)",
+   "t": "My Moroccan Food, Bladi.net и Amour de cuisine (1 см); Cooking with Alia (тонкая или толстая)"
+  },
+  "secrets.8.text": {
+   "fr": "Cuis à sec, sans matière grasse dans la poêle.",
+   "t": "Готовьте на сухой сковороде, без масла и жира."
+  },
+  "secrets.8.source": {
+   "fr": "Bladi.net (« poêle sèche ») ; Julie Andrieu (« sans matière grasse »)",
+   "t": "Bladi.net («сухая сковорода»); Julie Andrieu («без жира»)"
+  },
+  "secrets.9.text": {
+   "fr": "Feu doux à moyen-doux : préchauffe la poêle à feu moyen, puis baisse avant d'y poser les galettes. Sinon elles brûlent dehors et restent crues dedans.",
+   "t": "Слабый огонь или чуть ниже среднего: разогрейте сковороду на среднем огне, затем убавьте огонь, прежде чем выкладывать лепёшки. Иначе они подгорят снаружи и останутся сырыми внутри."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia ; My Moroccan Food (feu moyen-doux) ; Bladi.net (feu doux)",
+   "t": "Cooking with Alia; My Moroccan Food (огонь ниже среднего); Bladi.net (слабый огонь)"
+  },
+  "secrets.10.text": {
+   "fr": "Retourne-la délicatement, avec une spatule plate, quand le dessous est bien doré : elle est friable. La harcha est cuite quand elle est dorée des deux côtés et sèche sous le doigt.",
+   "t": "Переворачивайте харшу аккуратно, плоской лопаткой, когда низ хорошо подрумянится: она легко ломается. Харша готова, когда она золотистая с обеих сторон и сухая на ощупь."
+  },
+  "secrets.10.source": {
+   "fr": "Amour de cuisine (retourner délicatement) ; Choumicha (spatule plate) ; Cooking with Alia",
+   "t": "Amour de cuisine (переворачивать аккуратно); Choumicha (плоская лопатка); Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Laisse-la tiédir avant de l'ouvrir, avec un couteau bien aiguisé : trop chaude, elle s'émiette.",
+   "t": "Дайте ей немного остыть, прежде чем разрезать хорошо заточенным ножом: слишком горячая, она крошится."
+  },
+  "secrets.11.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.12.text": {
+   "fr": "Le nappage traditionnel, c'est un sirop de miel et de beurre fondus à parts égales, avec quelques gouttes de fleur d'oranger si tu veux.",
+   "t": "Традиционная поливка — сироп из растопленных в равных долях мёда и сливочного масла, по желанию с несколькими каплями воды из цветков апельсина."
+  },
+  "secrets.12.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "mistakes.0": {
+   "fr": "Verser tout le lait d'un coup : selon la semoule, il en faut plus ou moins (My Moroccan Food ; Morocco World News).",
+   "t": "Вливать всё молоко сразу: в зависимости от семолины его нужно больше или меньше (My Moroccan Food; Morocco World News)."
+  },
+  "mistakes.1": {
+   "fr": "Pétrir la pâte comme un pain : ça active le gluten et durcit les harchas (Amour de cuisine).",
+   "t": "Месить тесто, как для хлеба: это активирует клейковину, и харши становятся твёрдыми (Amour de cuisine)."
+  },
+  "mistakes.2": {
+   "fr": "Sauter le repos : la semoule n'a pas le temps de boire le lait (My Moroccan Food ; Amour de cuisine).",
+   "t": "Пропускать отдых теста: семолина не успевает впитать молоко (My Moroccan Food; Amour de cuisine)."
+  },
+  "mistakes.3": {
+   "fr": "Faire des galettes de plus de 1 cm : la cuisson n'est plus homogène (Amour de cuisine).",
+   "t": "Делать лепёшки толще 1 см: они пропекаются неравномерно (Amour de cuisine)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier l'enrobage de semoule : c'est lui qui donne la croûte croustillante (My Moroccan Food).",
+   "t": "Забыть обвалять лепёшки в семолине: именно это даёт хрустящую корочку (My Moroccan Food)."
+  },
+  "mistakes.5": {
+   "fr": "Cuire à feu vif : la harcha brûle dehors et reste crue dedans (Cooking with Alia).",
+   "t": "Готовить на сильном огне: харша подгорает снаружи и остаётся сырой внутри (Cooking with Alia)."
+  },
+  "mistakes.6": {
+   "fr": "L'ouvrir encore brûlante ou avec un couteau qui coupe mal : elle s'émiette (Cooking with Alia).",
+   "t": "Разрезать её ещё обжигающе горячей или тупым ножом: она крошится (Cooking with Alia)."
+  },
+  "mistakes.7": {
+   "fr": "Remplacer la semoule par autre chose : la recette ne marche qu'avec de la semoule (Cooking with Alia).",
+   "t": "Заменять семолину чем-то другим: рецепт получается только с семолиной (Cooking with Alia)."
+  },
+  "variants.0": {
+   "fr": "Beurre et huile : Amour de cuisine met 100 ml de beurre fondu et 50 ml d'huile pour 500 g de semoule ; Julie Andrieu 40 g de beurre fondu et 1 c. à s. d'huile pour 250 g ; Morocco World News ½ tasse de chaque pour ½ kg.",
+   "t": "Сливочное и растительное масло: Amour de cuisine берёт 100 мл растопленного сливочного масла и 50 мл растительного на 500 г семолины; Julie Andrieu — 40 г растопленного сливочного масла и 1 ст. л. растительного на 250 г; Morocco World News — по ½ чашки того и другого на ½ кг."
+  },
+  "variants.1": {
+   "fr": "À l'eau et sans levure, la plus simple : 400 g de semoule fine, 100 g de beurre ramolli, 50 g de sucre, ½ c. à c. de sel et ¾ de verre d'eau ; galettes de 1 cm cuites à feu doux sur poêle sèche, 5 à 10 min par face (Bladi.net).",
+   "t": "Самая простая, на воде и без разрыхлителя: 400 г мелкой семолины, 100 г размягчённого сливочного масла, 50 г сахара, ½ ч. л. соли и ¾ стакана воды; лепёшки толщиной 1 см готовят на слабом огне на сухой сковороде, по 5–10 мин с каждой стороны (Bladi.net)."
+  },
+  "variants.2": {
+   "fr": "Plus croquante : moitié semoule fine, moitié semoule moyenne dans la pâte (Amour de cuisine).",
+   "t": "Более хрустящая: в тесто кладут пополам мелкую и среднюю семолину (Amour de cuisine)."
+  },
+  "variants.3": {
+   "fr": "Une seule grande harcha : pâte plus souple (20 cl de lait pour 250 g de semoule) étalée à la main mouillée dans la poêle chaude saupoudrée de semoule moyenne, sur 1 cm au plus, semoule moyenne dessus, 8 à 10 min par face (Julie Andrieu). Wikipédia parle de harchas grandes comme un pneu de camion ; à Fès, Christopher Kimball en a mangé une presque aussi large qu'un tajine (Milk Street).",
+   "t": "Одна большая харша: более мягкое тесто (20 сл молока на 250 г семолины) распределяют мокрой рукой по горячей сковороде, посыпанной средней семолиной, слоем не толще 1 см, сверху посыпают средней семолиной и готовят по 8–10 мин с каждой стороны (Julie Andrieu). Wikipédia пишет о харшах размером с шину грузовика; в Фесе Christopher Kimball ел харшу почти такой же ширины, как таджин (Milk Street)."
+  },
+  "variants.4": {
+   "fr": "Au four : pâte à l'huile et au lait chaud, un peu coulante, étalée dans une poêle froide beurrée et bien saupoudrée de semoule, semoule et petits morceaux de beurre dessus, puis enfournée ; ni température ni durée données (Lalla Moulati, qui l'attribue à Choumicha).",
+   "t": "В духовке: немного жидкое тесто на растительном масле и горячем молоке распределяют по холодной сковороде, смазанной сливочным маслом и щедро посыпанной семолиной, сверху посыпают семолиной, раскладывают кусочки сливочного масла и ставят в духовку; ни температура, ни время не указаны (Lalla Moulati, которая приписывает рецепт Choumicha)."
+  },
+  "variants.5": {
+   "fr": "Farcie : pâte à la levure fraîche (beurre et huile, lait et eau, repos de 30 min) ; chaque boule est creusée, garnie de jben, d'olives noires et de thym, refermée, aplatie puis dorée à la poêle (Morocco World News).",
+   "t": "С начинкой: тесто на свежих дрожжах (сливочное и растительное масло, молоко и вода, отдых 30 мин); в каждом шарике делают углубление, кладут жбен, чёрные оливки и тимьян, защипывают, расплющивают и подрумянивают на сковороде (Morocco World News)."
+  },
+  "variants.6": {
+   "fr": "Salée au zaatar et aux olives : sans sucre, avec 3 c. à s. de zaatar, 2 c. à s. d'olives noires hachées et 1 c. à c. de sel pour 250 g de semoule (My Moroccan Food). Nargisse Benkabbou la dit aussi sucrée ou salée, parfumée ou fourrée de fruits secs, de viande ou d'herbes.",
+   "t": "Солёная, с заатаром и оливками: без сахара, с 3 ст. л. заатара, 2 ст. л. рубленых чёрных оливок и 1 ч. л. соли на 250 г семолины (My Moroccan Food). По словам Nargisse Benkabbou, харша бывает и сладкой, и солёной, ароматизированной или с начинкой из сухофруктов, мяса или трав."
+  },
+  "variants.7": {
+   "fr": "Au babeurre ou au yaourt : dans le Rif, du babeurre ou du yaourt allongé d'eau remplace le lait (Wikipédia) ; Milk Street fait sa version au yaourt.",
+   "t": "На пахте или йогурте: в Рифе вместо молока берут пахту или йогурт, разбавленный водой (Wikipédia); Milk Street готовит свою версию на йогурте."
+  },
+  "variants.8": {
+   "fr": "Avec une pincée de levure boulangère en plus de la levure chimique (Amour de cuisine).",
+   "t": "Со щепоткой дрожжей в дополнение к разрыхлителю (Amour de cuisine)."
+  },
+  "variants.9": {
+   "fr": "Aux graines de fenouil concassées, au cumin, à la coriandre ou aux herbes séchées (Julie Andrieu).",
+   "t": "С дроблёными семенами фенхеля, кумином (зирой), кориандром или сушёными травами (Julie Andrieu)."
+  },
+  "variants.10": {
+   "fr": "À Khénifra, la harcha du ftour se distingue : elle est préparée avec des plantes médicinales (Hespress).",
+   "t": "В Хенифре харша для ифтара особенная: её готовят с лекарственными травами (Hespress)."
+  },
+  "variants.11": {
+   "fr": "En sandwich, fourrée de fromage ou de viande confite (Wikipédia).",
+   "t": "Как сэндвич, с начинкой из сыра или мяса, томлённого в жиру (Wikipédia)."
+  }
+ }
+}

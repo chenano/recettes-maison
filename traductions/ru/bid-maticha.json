@@ -1,0 +1,414 @@
+{
+ "_slug": "bid-maticha",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Œufs à la tomate à la marocaine",
+   "t": "Яйца с помидорами по-мароккански"
+  },
+  "darija": {
+   "fr": "Bid w maticha",
+   "t": "Бид у матиша"
+  },
+  "tagline": {
+   "fr": "Des tomates fondues à l'huile d'olive, à l'ail et au cumin, puis des œufs cuits dessus à couvert : un plat marocain que tout le monde sait cuisiner, à saucer avec du pain. Faute de recette chiffrée de la version nature, les quantités sont reconstituées d'après Choumicha et des tajines de kefta aux œufs.",
+   "t": "Помидоры, тушённые до мягкости в оливковом масле с чесноком и кумином (зирой), а сверху — яйца, приготовленные под крышкой: марокканское блюдо, которое умеет готовить каждый; соус собирают хлебом. Рецепта простой версии с точными количествами не нашлось, поэтому пропорции восстановлены по Choumicha и рецептам таджина из кефты с яйцами."
+  },
+  "region": {
+   "fr": "Maroc : un plat que tout le monde sait cuisiner (Lalla Moulati, 2018), courant chez les étudiants, les célibataires et les gens pressés, et auquel les Marocains sont très attachés (Hespress, 2012).",
+   "t": "Марокко: блюдо, которое умеет готовить каждый (Lalla Moulati, 2018); его часто готовят студенты, холостяки и те, кто спешит, и марокканцы очень к нему привязаны (Hespress, 2012)."
+  },
+  "occasion": {
+   "fr": "Dîner vite fait, quand on ne sait pas quoi préparer (Hespress, 2012) ; il se mange aussi au petit-déjeuner (Lalla Moulati, 2018). C'est aussi le repas de dépannage des étudiants pressés (Hespress, 2012).",
+   "t": "Быстрый ужин, когда не знаете, что приготовить (Hespress, 2012); его едят и на завтрак (Lalla Moulati, 2018). Это ещё и блюдо-выручалочка для студентов, которым некогда (Hespress, 2012)."
+  },
+  "img_alt": {
+   "fr": "Bid w maticha : œufs cuits dans une sauce tomate, servis dans un plat en terre avec du pain",
+   "t": "Бид у матиша: яйца, приготовленные в томатном соусе, в глиняном блюде с хлебом"
+  },
+  "serving": {
+   "fr": "Bien chaud, tout de suite, dans la poêle ou le tajine posé au milieu de la table : chacun pioche avec du pain (My Moroccan Food ; Taste of Maroc). Choumicha propose du thé à la menthe à côté, comme Cooking With Alia et Taste of Maroc avec leurs tajines de kefta.",
+   "t": "Подают сразу, горячим, прямо в сковороде или таджине посреди стола: каждый берёт еду из общего блюда хлебом (My Moroccan Food; Taste of Maroc). Choumicha предлагает к нему мятный чай, как и Cooking With Alia и Taste of Maroc к своим таджинам из кефты."
+  },
+  "ing.0.group": {
+   "fr": "Tomates et épices",
+   "t": "Помидоры и специи"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne bien mûre",
+   "t": "очень спелый помидор среднего размера"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes bien mûres",
+   "t": "очень спелых помидора среднего размера"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne bien mûre / tomates moyennes bien mûres",
+   "t": "очень спелых помидоров среднего размера"
+  },
+  "ing.tomates.note": {
+   "fr": "environ 125 g chacune",
+   "t": "около 125 г каждый"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "количество уточните, пробуя на вкус"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika",
+   "t": "паприки"
+  },
+  "ing.paprika.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.1.group": {
+   "fr": "Œufs et service",
+   "t": "Яйца и подача"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.oeufs.note": {
+   "fr": "un par personne",
+   "t": "по одному на человека"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "хлеб (хобз)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "чтобы собирать соус"
+  },
+  "equipment.0": {
+   "fr": "Grande poêle avec couvercle (ou un tajine ; hors gaz, pose-le sur un diffuseur)",
+   "t": "Большая сковорода с крышкой (или таджин; если плита не газовая, ставьте его на диффузор)"
+  },
+  "equipment.1": {
+   "fr": "Planche et couteau",
+   "t": "Разделочная доска и нож"
+  },
+  "equipment.2": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "steps.0.title": {
+   "fr": "Lave et coupe les tomates",
+   "t": "Вымойте и нарежьте помидоры"
+  },
+  "steps.0.text": {
+   "fr": "Rince {{tomates:full}} sous l'eau courante, puis coupe-les en rondelles.",
+   "t": "Промойте {{tomates:full}} под проточной водой, затем нарежьте кружками."
+  },
+  "steps.1.title": {
+   "fr": "Hache l'ail",
+   "t": "Измельчите чеснок"
+  },
+  "steps.1.text": {
+   "fr": "Épluche et hache finement {{ail:full}}.",
+   "t": "Очистите и мелко порубите {{ail:full}}."
+  },
+  "steps.2.title": {
+   "fr": "Hache les herbes",
+   "t": "Измельчите зелень"
+  },
+  "steps.2.text": {
+   "fr": "Rince le persil et la coriandre sous l'eau courante, sèche-les, puis hache-les finement pour obtenir {{persil}} de persil et {{coriandre}} de coriandre. Garde-les pour la fin.",
+   "t": "Промойте петрушку и кинзу под проточной водой, обсушите и мелко порубите, чтобы получилось {{persil}} петрушки и {{coriandre}} кинзы. Отложите зелень до конца приготовления."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.3.title": {
+   "fr": "Garnis la poêle",
+   "t": "Заложите продукты в сковороду"
+  },
+  "steps.3.text": {
+   "fr": "Verse {{huile}} d'huile d'olive dans une grande poêle. Étale les rondelles de tomates, puis ajoute l'ail, {{sel}} de sel, {{cumin}} de cumin, {{paprika}} de paprika et {{poivre}} de poivre noir.",
+   "t": "Налейте {{huile}} оливкового масла в большую сковороду. Разложите кружки помидоров, затем добавьте чеснок, {{sel}} соли, {{cumin}} кумина, {{paprika}} паприки и {{poivre}} чёрного перца."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha cuit ses tomates aux œufs dans un tajine, sur feu doux. Hors gaz, glisse un diffuseur sous le tajine (Taste of Maroc).",
+   "t": "Choumicha готовит помидоры с яйцами в таджине на слабом огне. Если плита не газовая, подложите под таджин диффузор (Taste of Maroc)."
+  },
+  "steps.4.title": {
+   "fr": "Porte à ébullition",
+   "t": "Доведите до кипения"
+  },
+  "steps.4.text": {
+   "fr": "Mets la poêle sur feu moyen. Dès que ça bout, couvre et baisse le feu.",
+   "t": "Поставьте сковороду на средний огонь. Как только закипит, накройте крышкой и убавьте огонь."
+  },
+  "steps.5.title": {
+   "fr": "Laisse fondre les tomates",
+   "t": "Тушите помидоры до мягкости"
+  },
+  "steps.5.text": {
+   "fr": "Laisse cuire à couvert et à feu doux 10 à 15 minutes, en remuant de temps en temps, jusqu'à ce que les tomates soient fondantes.",
+   "t": "Тушите под крышкой на слабом огне 10–15 минут, время от времени помешивая, пока помидоры не станут совсем мягкими."
+  },
+  "steps.5.tip": {
+   "fr": "Envie d'une sauce plus épaisse ? Écrase les tomates avec le dos d'une cuillère et prolonge la cuisson : My Moroccan Food compte environ 25 minutes (Taste of Maroc ; My Moroccan Food).",
+   "t": "Хотите соус погуще? Разомните помидоры тыльной стороной ложки и тушите дольше: у My Moroccan Food это около 25 минут (Taste of Maroc; My Moroccan Food)."
+  },
+  "steps.6.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Попробуйте и доведите до вкуса"
+  },
+  "steps.6.text": {
+   "fr": "Goûte la sauce et ajoute un peu de sel s'il le faut.",
+   "t": "Попробуйте соус и, если нужно, немного досолите."
+  },
+  "steps.7.title": {
+   "fr": "Casse les œufs",
+   "t": "Разбейте яйца"
+  },
+  "steps.7.text": {
+   "fr": "Avec une cuillère, fais un petit creux dans la sauce pour chaque œuf. Casse doucement un œuf dans chaque creux, sans crever le jaune ({{oeufs:full}} en tout).",
+   "t": "Ложкой сделайте в соусе небольшое углубление для каждого яйца. Аккуратно разбейте в каждое углубление по яйцу, не повредив желток (всего {{oeufs:full}})."
+  },
+  "steps.8.title": {
+   "fr": "Couvre et laisse prendre",
+   "t": "Накройте и дайте белкам схватиться"
+  },
+  "steps.8.text": {
+   "fr": "Couvre et laisse cuire à feu doux environ 5 minutes, jusqu'à ce que les blancs soient pris.",
+   "t": "Накройте крышкой и готовьте на слабом огне около 5 минут, пока белки не схватятся."
+  },
+  "steps.8.tip": {
+   "fr": "La FDA conseille de cuire les œufs jusqu'à ce que le jaune et le blanc soient fermes. Pour les jeunes enfants, les femmes enceintes, les personnes âgées ou fragiles, jamais d'œuf peu cuit : laisse à couvert jusqu'à ce que le jaune soit ferme (Anses ; FDA).",
+   "t": "FDA советует готовить яйца, пока и желток, и белок не станут плотными. Маленьким детям, беременным, пожилым и ослабленным людям никогда не давайте яйца, приготовленные не до конца: держите под крышкой, пока желток не станет плотным (Anses; FDA)."
+  },
+  "steps.8.timer.label": {
+   "fr": "Œufs à couvert",
+   "t": "Яйца под крышкой"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les blancs sont-ils pris ? Pour un jaune ferme, laisse encore un peu à couvert.",
+   "t": "Белки схватились? Если нужен плотный желток, подержите ещё немного под крышкой."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les herbes",
+   "t": "Добавьте зелень"
+  },
+  "steps.9.text": {
+   "fr": "Parsème {{persil}} de persil et {{coriandre}} de coriandre hachés.",
+   "t": "Посыпьте блюдо зеленью: {{persil}} рубленой петрушки и {{coriandre}} рубленой кинзы."
+  },
+  "steps.10.title": {
+   "fr": "Sers aussitôt",
+   "t": "Сразу подавайте"
+  },
+  "steps.10.text": {
+   "fr": "Sers tout de suite, bien chaud, dans la poêle, avec du {{khobz}} pour saucer.",
+   "t": "Подавайте сразу, горячим, прямо в сковороде, с хлебом (хобзом), чтобы собирать соус."
+  },
+  "steps.10.tip": {
+   "fr": "Choumicha sert son tajine de tomates aux œufs avec du thé à la menthe, comme Cooking With Alia et Taste of Maroc leurs tajines de kefta.",
+   "t": "Choumicha подаёт свой таджин из помидоров с яйцами с мятным чаем, как и Cooking With Alia и Taste of Maroc — свои таджины из кефты."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, c'est le plat que tout le monde sait cuisiner. On le fait au petit-déjeuner comme au dîner.",
+   "t": "В Марокко это блюдо умеет готовить каждый. Его делают и на завтрак, и на ужин."
+  },
+  "secrets.0.source": {
+   "fr": "Lalla Moulati, article du 29 décembre 2018",
+   "t": "Lalla Moulati, статья от 29 декабря 2018 года"
+  },
+  "secrets.1.text": {
+   "fr": "Quand on ne sait pas quoi préparer pour le dîner, beaucoup de Marocaines se tournent vers le bid w maticha. Les séries de la télévision marocaine montrent combien on y est attaché.",
+   "t": "Когда не знают, что приготовить на ужин, многие марокканки выбирают бид у матиша. Марокканские телесериалы показывают, как сильно люди привязаны к этому блюду."
+  },
+  "secrets.1.source": {
+   "fr": "Hespress, Fatima Zahra Zaim, 16 octobre 2012",
+   "t": "Hespress, Fatima Zahra Zaim, 16 октября 2012 года"
+  },
+  "secrets.2.text": {
+   "fr": "Les étudiants l'appelaient « BM » : un repas rapide, cuisiné entre deux cours, presque sans mesures.",
+   "t": "Студенты называли его «BM»: быстрая еда, которую готовят между парами, почти ничего не отмеряя."
+  },
+  "secrets.2.source": {
+   "fr": "Hespress, Latifa Baqa, 22 novembre 2012",
+   "t": "Hespress, Latifa Baqa, 22 ноября 2012 года"
+  },
+  "secrets.3.text": {
+   "fr": "Prends des tomates bien mûres.",
+   "t": "Берите очень спелые помидоры."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc ; Cooking With Alia",
+   "t": "My Moroccan Food, Taste of Maroc и Cooking With Alia"
+  },
+  "secrets.4.text": {
+   "fr": "Le temps de cuisson des tomates change beaucoup selon leur maturité, leur jus et la poêle : regarde la sauce plutôt que la montre.",
+   "t": "Время тушения помидоров сильно зависит от их спелости, сочности и сковороды: смотрите на соус, а не на часы."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Des tomates râpées, peau jetée, cuisent un peu plus vite que des tomates coupées.",
+   "t": "Натёртые на тёрке помидоры (кожицу выбрасывают) готовятся немного быстрее, чем нарезанные."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia (tomates râpées)",
+   "t": "Taste of Maroc; Cooking With Alia (натёртые помидоры)"
+  },
+  "secrets.6.text": {
+   "fr": "Fais un petit creux pour chaque œuf et casse-le doucement, sans crever le jaune.",
+   "t": "Сделайте небольшое углубление для каждого яйца и аккуратно разбейте его, не повредив желток."
+  },
+  "secrets.6.source": {
+   "fr": "My Moroccan Food ; Taste of Maroc",
+   "t": "My Moroccan Food и Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "À couvert, compte 4 à 5 minutes pour un blanc pris et un jaune encore coulant.",
+   "t": "Под крышкой нужно 4–5 минут, чтобы белок схватился, а желток остался жидким."
+  },
+  "secrets.7.source": {
+   "fr": "My Moroccan Food (4 à 5 min) ; Cooking With Alia (5 min) ; Choumicha (3 à 4 min, jusqu'à ce que le blanc prenne)",
+   "t": "My Moroccan Food (4–5 мин); Cooking With Alia (5 мин); Choumicha (3–4 мин, пока белок не схватится)"
+  },
+  "secrets.8.text": {
+   "fr": "Des œufs beldi (fermiers), si tu en trouves.",
+   "t": "Яйца бельди (фермерские), если найдёте."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Sers bien chaud, au milieu de la table : chacun pioche dans le plat avec des morceaux de pain, avec du thé à la menthe à côté.",
+   "t": "Подавайте горячим посреди стола: каждый берёт из общего блюда кусочками хлеба, а рядом — мятный чай."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Cooking With Alia",
+   "t": "Choumicha, Taste of Maroc и Cooking With Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Au Maroc, la chakchouka se fait souvent avec du poivron vert. Ici, pas de poivrons : seulement des tomates, de l'ail, des épices et des œufs.",
+   "t": "В Марокко шакшуку часто готовят с зелёным сладким перцем. Здесь перца нет: только помидоры, чеснок, специи и яйца."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipédia FR (Chakchouka, section Maroc : avec poivron vert) ; Cooking With Alia (chekchouka au poivron vert) ; Choumicha (tajine de tomates aux œufs, sans poivrons)",
+   "t": "Wikipédia FR (статья «Chakchouka», раздел о Марокко: с зелёным перцем); Cooking With Alia (шекшука с зелёным перцем); Choumicha (таджин из помидоров с яйцами, без перца)"
+  },
+  "secrets.11.text": {
+   "fr": "Ne lave pas les œufs avant de les ranger : le lavage aide les microbes à entrer dans l'œuf. Garde-les toujours à la même température.",
+   "t": "Не мойте яйца перед тем, как убрать их на хранение: при мытье микробам легче проникнуть внутрь яйца. Всегда храните их при одной и той же температуре."
+  },
+  "secrets.11.source": {
+   "fr": "Anses, fiche Salmonella spp. (juin 2021)",
+   "t": "Anses, информационный лист Salmonella spp. (июнь 2021 года)"
+  },
+  "secrets.12.text": {
+   "fr": "Les restes : au réfrigérateur dans les 2 heures, dans des boîtes peu profondes. Mange-les dans les 3 à 4 jours, bien réchauffés (74 °C).",
+   "t": "Остатки уберите в холодильник в течение 2 часов, в неглубоких контейнерах. Съешьте их за 3–4 дня, хорошо разогрев (до 74 °C)."
+  },
+  "secrets.12.source": {
+   "fr": "Anses (2 heures) ; FDA (3 à 4 jours, 165 °F, soit 74 °C)",
+   "t": "Anses (2 часа); FDA (3–4 дня, 165 °F, то есть 74 °C)"
+  },
+  "mistakes.0": {
+   "fr": "Casser les œufs dans des tomates encore crues : attends qu'elles soient fondantes (Choumicha ; My Moroccan Food).",
+   "t": "Разбивать яйца в ещё сырые помидоры: дождитесь, пока они станут совсем мягкими (Choumicha; My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Crever les jaunes en cassant les œufs (Taste of Maroc).",
+   "t": "Повредить желтки, разбивая яйца (Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Servir un œuf peu cuit à un jeune enfant, une femme enceinte, une personne âgée ou fragile (Anses ; FDA).",
+   "t": "Давать недоготовленное яйцо маленькому ребёнку, беременной женщине, пожилому или ослабленному человеку (Anses; FDA)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser les restes plus de 2 heures hors du réfrigérateur (Anses ; FDA).",
+   "t": "Оставлять остатки вне холодильника дольше 2 часов (Anses; FDA)."
+  },
+  "mistakes.4": {
+   "fr": "Laver les œufs avant de les ranger (Anses).",
+   "t": "Мыть яйца перед тем, как убрать их на хранение (Anses)."
+  },
+  "variants.0": {
+   "fr": "Œufs brouillés : verse les œufs battus sur les tomates et remue jusqu'à ce qu'ils soient cuits (Lalla Moulati, 2014 ; Wikipédia FR, Chakchouka).",
+   "t": "Болтунья: вылейте взбитые яйца на помидоры и помешивайте, пока они не приготовятся (Lalla Moulati, 2014; Wikipédia FR, статья «Chakchouka»)."
+  },
+  "variants.1": {
+   "fr": "Avec de l'oignon : fais d'abord revenir un oignon haché dans l'huile, puis ajoute les tomates (Lalla Moulati, 2014 ; Wikipédia FR, qui cite aussi l'ail à la place de l'oignon).",
+   "t": "С луком: сначала обжарьте в масле нарезанную луковицу, затем добавьте помидоры (Lalla Moulati, 2014; Wikipédia FR, где упоминается и чеснок вместо лука)."
+  },
+  "variants.2": {
+   "fr": "Au khlii : 5 minutes avant les œufs, ajoute du khlii dégraissé et émietté, avec le cumin (Choumicha : 180 g de khlii pour 4 belles tomates et 6 œufs, pour 6 personnes). Prends un khlii de viande halal.",
+   "t": "С хлии (вяленое мясо в жиру): за 5 минут до яиц добавьте хлии, очищенный от жира и раскрошенный, вместе с кумином (Choumicha: 180 г хлии на 4 крупных помидора и 6 яиц, на 6 человек). Берите хлии из халяльного мяса."
+  },
+  "variants.3": {
+   "fr": "Plus relevé : une pincée de piment de Cayenne (My Moroccan Food) ou des piments (Taste of Maroc).",
+   "t": "Поострее: щепотка кайенского перца (My Moroccan Food) или острые перчики (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Sauce mijotée : tomates râpées, peau jetée, cuites 20 à 25 minutes à feu moyen en remuant, jusqu'à une sauce épaisse (Cooking With Alia). Le plat dépasse alors 30 minutes.",
+   "t": "Томлёный соус: помидоры натереть на тёрке (кожицу выбросить) и готовить 20–25 минут на среднем огне, помешивая, до густого соуса (Cooking With Alia). Тогда блюдо готовится дольше 30 минут."
+  },
+  "variants.5": {
+   "fr": "Avec des boulettes de kefta, on passe au tajine de kefta aux œufs (My Moroccan Food ; Cooking With Alia ; Taste of Maroc) ; avec des poivrons verts, à la chakchouka (Wikipédia FR). Ce sont deux autres recettes de l'appli.",
+   "t": "С фрикадельками из кефты получится таджин из кефты с яйцами (My Moroccan Food; Cooking With Alia; Taste of Maroc), а с зелёным сладким перцем — шакшука (Wikipédia FR). Оба этих рецепта тоже есть в приложении."
+  },
+  "variants.6": {
+   "fr": "Au four, à la façon de Lalla Moulati (2018) : tomates évidées, garnies de blanc d'œuf mélangé à de l'oignon, du persil et des épices, puis du jaune et du reste du mélange, et cuites au four ou sur la braise.",
+   "t": "В духовке, как у Lalla Moulati (2018): помидоры с вынутой мякотью начиняют яичным белком, смешанным с луком, петрушкой и специями, затем желтком и остатком смеси и запекают в духовке или на углях."
+  }
+ }
+}

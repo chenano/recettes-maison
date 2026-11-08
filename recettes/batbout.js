@@ -1,0 +1,412 @@
+/* Recette : Batbout, petits pains marocains à la poêle. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "batbout",
+ "title": "Batbout, petits pains marocains à la poêle",
+ "darija": "batbout (aussi mkhamer, toghrift ou matlou')",
+ "arabic": "بطبوط",
+ "tagline": "Des petits pains ronds et moelleux, cuits à sec à la poêle, qui gonflent en cuisant et forment une poche à garnir.",
+ "category": "Pain",
+ "occasion": "Petit-déjeuner, repas, sandwichs ; mini batbout farcis au ftour du ramadan",
+ "region": "Maroc",
+ "servings": 12,
+ "servings_label": "pains",
+ "time": {
+  "prep": 20,
+  "cook": 20,
+  "rest": 70,
+  "rest_label": "Levée"
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Un grand saladier et un petit bol",
+  "Une balance de cuisine et un verre doseur",
+  "Un rouleau à pâtisserie",
+  "Deux grands torchons propres et secs, en coton (ou un drap de coton)",
+  "Une grande poêle à fond épais (fonte) ou antiadhésive, ou une plaque de cuisson",
+  "Une grille, ou un panier garni d'un torchon",
+  "Facultatif : un verre ou un emporte-pièce rond"
+ ],
+ "ingredients": [
+  {
+   "group": "Pâte",
+   "items": [
+    {
+     "id": "farine",
+     "q": 300,
+     "u": "g",
+     "name": "de farine blanche (farine ordinaire ou farine à pain)",
+     "note": "plus un peu pour le plan de travail",
+     "canon": "farine"
+    },
+    {
+     "id": "semoule",
+     "q": 200,
+     "u": "g",
+     "name": "de semoule fine de blé dur (fino), ou de farine de blé dur",
+     "note": "c'est elle qui donne au batbout sa texture et son goût",
+     "canon": "semoule"
+    },
+    {
+     "id": "levure",
+     "q": 1.75,
+     "u": "c. à c.",
+     "name": "de levure boulangère sèche",
+     "note": "un peu moins s'il fait très chaud",
+     "canon": "levure-boulangere"
+    },
+    {
+     "id": "sucre",
+     "q": 2.5,
+     "u": "c. à c.",
+     "name": "de sucre",
+     "note": "facultatif : Cooking with Alia et Bladi.net n'en mettent pas",
+     "canon": "sucre"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "canon": "sel"
+    },
+    {
+     "id": "huile",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "d'huile (tournesol ou olive)",
+     "note": "facultatif : beaucoup de Marocains n'en mettent pas",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "eau",
+     "q": 300,
+     "u": "ml",
+     "name": "d'eau tiède",
+     "note": "environ : verse-la peu à peu, il en faudra peut-être un peu moins",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Pour étaler",
+   "items": [
+    {
+     "id": "semoule-etalage",
+     "q": null,
+     "u": "",
+     "name": "semoule fine",
+     "note": "pour le plan de travail ; ou un peu de farine",
+     "canon": "semoule"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Réveille la levure",
+   "text": "Dans un petit bol, mets {{levure}} de levure sèche, un peu du sucre et un peu d'eau tiède, prise sur les {{eau}} d'eau. Mélange et laisse reposer 5 minutes, jusqu'à ce que le mélange mousse.",
+   "timer": {
+    "min": 5,
+    "label": "Levure",
+    "done": "Le mélange mousse ? Prépare la pâte. Sinon, attends encore 5 minutes."
+   },
+   "tip": "Taste of Maroc, My Moroccan Food et MarocMama font tous mousser la levure avec un peu du sucre avant de faire la pâte."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Mélange la pâte",
+   "text": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine, le reste des {{sucre}} de sucre et {{sel}} de sel. Ajoute {{huile}} d'huile, puis la levure. Verse le reste de l'eau petit à petit, en mélangeant à la main, jusqu'à obtenir une pâte souple. Arrête d'ajouter de l'eau si elle devient collante.",
+   "timer": null,
+   "tip": "My Moroccan Food verse l'eau peu à peu pour que la pâte ne devienne pas trop collante. Si c'est le cas, ajoute un peu de farine."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pétris 10 minutes",
+   "text": "Pétris la pâte 10 minutes sur un plan de travail légèrement fariné, ou au robot avec le crochet. Elle doit être lisse, souple et élastique, sans coller. Si elle colle, ajoute un peu de farine. Si elle est ferme, ajoute un peu d'eau, cuillère par cuillère.",
+   "timer": {
+    "min": 10,
+    "label": "Pétrissage",
+    "done": "Lisse, souple et élastique ? Forme les boules. Sinon, pétris encore un peu."
+   },
+   "img": {
+    "src": "img/etapes/petrir.jpg",
+    "alt": "Mains qui pétrissent une pâte",
+    "caption": "Pétrir la pâte",
+    "w": 1000,
+    "h": 668,
+    "credit": "Photo de l'étape « Pétris 10 minutes » : Shixart1985, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Forme les boules",
+   "text": "Partage la pâte en boules lisses de la taille d'une prune, environ 70 g, une par batbout. Pose-les sur un plan légèrement fariné, à au moins 2,5 cm les unes des autres. Couvre-les d'un torchon et laisse reposer 10 minutes.",
+   "timer": {
+    "min": 10,
+    "label": "Repos des boules",
+    "done": "Les boules ont reposé : étale-les."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Étale finement",
+   "text": "Saupoudre ton plan de travail d'un peu de {{semoule-etalage}}. Étale chaque boule au rouleau en un disque fin, d'environ 3 mm d'épaisseur. Ne le fais pas plus épais : sinon le batbout risque de ne pas gonfler.",
+   "timer": null,
+   "tip": "Tu peux aussi étaler toute la pâte et découper des ronds avec un verre ou un emporte-pièce, comme Morocco World News et Cooking with Alia. Rassemble les chutes, pétris-les, laisse-les reposer 10 à 15 minutes et étale-les de nouveau (Taste of Maroc)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Laisse lever 1 heure",
+   "text": "Pose les disques sur un torchon propre et sec, en laissant de la place entre eux : ils grossissent en levant. Couvre-les d'un autre torchon. Laisse lever 1 heure, jusqu'à ce qu'ils soient légers et gonflés. Dans une cuisine froide, il faut un peu plus de temps.",
+   "timer": {
+    "min": 60,
+    "label": "Levée des disques",
+    "done": "Les disques sont légers et gonflés ? Fais chauffer la poêle. Sinon, laisse-les lever encore un peu."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Chauffe la poêle à sec",
+   "text": "Fais chauffer une grande poêle à fond épais (fonte) ou antiadhésive à feu moyen, sans matière grasse, pendant plusieurs minutes. Elle doit être très chaude avant le premier batbout : c'est ce qui aide la poche à se former.",
+   "timer": null,
+   "tip": "Christine Benlafquih (Taste of Maroc) laisse chauffer sa plaque 5 bonnes minutes avant de commencer."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Dépose sans écraser",
+   "text": "Prends un disque avec douceur, sans l'étirer ni appuyer dessus, et pose-le dans la poêle chaude. Cuis les batbout en plusieurs fournées, selon la taille de ta poêle. Si tu les manipules brusquement, ils se dégonflent ou se fendent, et la poche ne se forme pas.",
+   "timer": null,
+   "tip": "Pour déplacer un disque sans le déformer, MarocMama glisse dessous une planche à découper très fine."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Retourne plusieurs fois",
+   "text": "Retourne le batbout dès que le dessous a pris, au bout de quelques secondes. Retourne-le ensuite encore plusieurs fois, jusqu'à ce qu'il gonfle et soit doré des deux côtés : il faut quelques minutes en tout. N'appuie jamais dessus. Une couleur un peu irrégulière est normale.",
+   "timer": null,
+   "tip": "S'il colore trop vite, baisse un peu le feu (Taste of Maroc). Attention : quand tu retournes un batbout gonflé, de la vapeur brûlante peut sortir d'une fente (Taste of Maroc)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse refroidir",
+   "text": "Pose les batbout cuits sur une grille, ou dans un panier garni d'un torchon. Tu peux les empiler encore chauds. Cuis les autres disques de la même façon.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Ouvre et garnis",
+   "text": "Sers les batbout tièdes ou froids. Pour les garnir, fais une fente sur le bord avec un couteau et ouvre la poche. Remplis-la de ce que tu aimes : poulet, thon, fromage, salade ou légumes cuits.",
+   "timer": null,
+   "tip": "Pour un repas halal, prends de la viande halal. Pour un halal strict, choisis un fromage à coagulant microbien, sans présure animale."
+  },
+  {
+   "phase": "Service",
+   "title": "Ou sers-les nature",
+   "text": "Le batbout accompagne aussi un tajine, des salades marocaines ou des viandes grillées comme la kefta. Au petit-déjeuner, mange-le avec du beurre, du miel, de la confiture ou du fromage frais, ou avec un filet d'huile d'olive et du miel.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Conserve les restes",
+   "text": "Garde les batbout quelques jours au réfrigérateur, dans un sac fermé. Pour les garder plus longtemps, congèle-les une fois complètement refroidis. Réchauffe-les quelques minutes à la poêle ou au four, jusqu'à ce qu'ils soient de nouveau moelleux.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "La semoule fine (fino) ou la farine de blé dur est indispensable : sans elle, le batbout n'a pas sa texture ni son goût.",
+   "source": "Taste of Maroc (Christine Benlafquih) ; toutes les recettes lues en mettent, sauf Morocco World News (MarocMama la laisse au choix avec la farine de blé)"
+  },
+  {
+   "text": "Tu peux mettre plus de semoule : Taste of Maroc conseille de ne pas dépasser la moitié de farine blanche, sinon la mie peut devenir collante.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Un peu d'huile dans la pâte évite un pain sec, qui tient mal quand on le farcit. Beaucoup de Marocains n'en mettent pas.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Le sucre aide le batbout à dorer et à lever, et il aide la poche à se former. Il rend aussi la mie plus tendre.",
+   "source": "Taste of Maroc (réponse de Christine Benlafquih à un lecteur, 25 août 2021)"
+  },
+  {
+   "text": "La poche se forme quand les disques ont bien levé et qu'on les pose dans une poêle déjà chaude.",
+   "source": "MarocMama (Amanda Mouttaki) ; Taste of Maroc (poêle chauffée plusieurs minutes)"
+  },
+  {
+   "text": "Étale fin : un batbout trop épais risque de ne pas gonfler. S'il n'a pas gonflé, ouvre-le doucement au couteau pour faire la poche.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Manipule les disques levés avec douceur : s'ils se dégonflent ou se fendent, l'air s'échappe et la poche ne se forme pas.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Retourne tôt et souvent : Christine Benlafquih retourne le batbout dès que la pâte a pris, après 10 à 15 secondes, avant que des bulles apparaissent, puis plusieurs fois encore.",
+   "source": "Taste of Maroc ; plusieurs retournements aussi chez My Moroccan Food, MarocMama, Morocco World News et Cooking with Alia"
+  },
+  {
+   "text": "N'appuie jamais sur le batbout pendant la cuisson : il ne gonflerait plus et serait difficile à ouvrir et à farcir.",
+   "source": "My Moroccan Food (Nargisse Benkabbou)"
+  },
+  {
+   "text": "S'il ne gonfle pas, baisse un peu le feu et laisse-le cuire un peu plus longtemps d'un côté. Vérifie aussi que les disques ont assez levé.",
+   "source": "MarocMama (réponse d'Amanda Mouttaki à une lectrice, 19 août 2019)"
+  },
+  {
+   "text": "Par temps chaud, les disques lèvent trop vite et leur surface sèche, puis se fend : mets un peu moins de levure. Par temps froid, laisse-les lever plus longtemps.",
+   "source": "Taste of Maroc (Christine Benlafquih)"
+  },
+  {
+   "text": "Fais lever les disques sur un grand torchon ou un drap de coton, que tu replies par-dessus pour les couvrir.",
+   "source": "Taste of Maroc ; Bladi.net (un linge dessous, un autre dessus)"
+  }
+ ],
+ "mistakes": [
+  "Étaler les disques trop épais : le batbout risque de ne pas gonfler (Taste of Maroc).",
+  "Poser les disques dans une poêle pas encore chaude : la poche se forme dans une poêle déjà chaude (MarocMama ; Taste of Maroc).",
+  "Sauter la levée des disques : il faut les laisser reposer une fois façonnés (MarocMama).",
+  "Manipuler brusquement les disques levés : ils se dégonflent ou se fendent (Taste of Maroc).",
+  "Appuyer sur le batbout pendant la cuisson (My Moroccan Food).",
+  "Verser toute l'eau d'un coup : la pâte devient trop collante (My Moroccan Food).",
+  "Retourner un batbout gonflé sans précaution : la vapeur brûlante qui sort d'une fente peut brûler (Taste of Maroc).",
+  "Congeler les batbout encore tièdes : attends qu'ils soient complètement froids (Taste of Maroc ; MarocMama)."
+ ],
+ "serving": "Tiède ou froid (My Moroccan Food). Ouvert et garni comme un sandwich : poulet, thon, fromage, salade ou légumes cuits (Morocco World News ; My Moroccan Food), avec de la viande halal. Avec des viandes grillées comme la kefta ou le boulfaf (Taste of Maroc), avec un tajine (Morocco World News) ou des salades marocaines (MarocMama). Au petit-déjeuner pour saucer les œufs (MarocMama), avec du beurre, du miel, de la confiture ou du fromage frais (Taste of Maroc), ou nature avec un filet d'huile d'olive et du miel (Morocco World News). Pour un halal strict, choisis un fromage à coagulant microbien, sans présure animale. Pendant le ramadan, les mini batbout farcis sont presque toujours sur la table du ftour (MarocMama ; Morocco World News ; Taste of Maroc). Les restes se gardent quelques jours au réfrigérateur, dans un sac fermé, puis se réchauffent quelques minutes à la poêle ou au four (MarocMama). Ils se congèlent une fois complètement refroidis (Taste of Maroc ; MarocMama) ; MarocMama parle de 3 à 4 mois dans un sac bien fermé.",
+ "variants": [
+  "Autres noms : mkhamer, toghrift ou matlou', selon les régions et les familles. Pour certains, le mkhamer est un batbout cuit dans une poêle huilée ; pour d'autres, un batbout épais, sans poche, servi avec du beurre et du miel (Taste of Maroc). Choumicha l'appelle « batbot » ou « pain metlouâ » (titres de ses recettes).",
+  "Avec de la farine complète : Taste of Maroc mélange farine blanche, semoule fine et farine complète (375 g, 384 g et 120 g pour 20 batbout) ; Morocco World News fait moitié farine blanche, moitié « wheat flour ».",
+  "Tout en semoule, en grandes galettes épaisses : semouline, levure, sel et eau, pâte pétrie une vingtaine de minutes, quatre boules saupoudrées de semoule moyenne et aplaties à la main sur 1,5 cm, levée d'environ 1 heure, cuisson une à une sur un plat en fonte chaud (Bladi.net).",
+  "Mini batbout du ramadan : petits pains de 5 cm environ, farcis et servis en bouchées à la table du ftour (Taste of Maroc ; Morocco World News ; MarocMama). Lalla Moulati en publie de nombreuses versions farcies.",
+  "Farci au poulet : petits morceaux de poulet revenus avec de l'oignon et des poivrons de trois couleurs, servis avec une sauce au yaourt, au sel et au citron (Morocco World News) ; ou farce rapide façon tajine, au poulet, au citron confit, aux olives vertes et aux oignons nouveaux (My Moroccan Food).",
+  "Frit puis enrobé : au lieu de le cuire à sec, fais frire le batbout dans l'huile, puis enrobe-le de miel et de beurre (MarocMama).",
+  "Avec du lait en poudre : une recette de Lalla Moulati ajoute 1 c. à s. de lait en poudre pour 600 g de farine et de semoule.",
+  "Grande batbouta farcie à la poêle : la moitié de la pâte étalée dans une poêle légèrement huilée, une farce de légumes émincés (poivron, courgette, oignon), de fromage et d'épices au centre, l'autre moitié par-dessus, les bords bien fermés, puis cuisson des deux côtés à feu doux (Lalla Moulati). Pour un halal strict, prends un fromage à coagulant microbien, sans présure animale."
+ ],
+ "sources": [
+  {
+   "name": "Taste of Maroc, Christine Benlafquih (fondatrice du site, installée de longue date au Maroc, à Casablanca ; experte cuisine marocaine de The Spruce Eats de 2008 à 2016), « Batbout – Moroccan Pita Bread Recipe », publiée le 27 août 2017, mise à jour le 11 février 2021 ; copie web.archive.org du 28 juin 2026",
+   "url": "https://web.archive.org/web/20260628202235/https://tasteofmaroc.com/batbout-moroccan-pita-bread/",
+   "used_for": "Noms darija (batbout, mkhamer, toghrift, matlou') ; semoule fine ou farine de blé dur indispensable ; quantités (375 g de farine blanche, 384 g de blé dur ou semoule fine, 120 g de farine complète, 1 c. à s. de levure, 2 c. à s. de sucre, 2 c. à c. de sel, 3 c. à s. d'huile, 500 ml d'eau ; valeurs métriques lues dans les données de la fiche) ; boules de la taille d'une prune espacées de 2,5 cm, repos de 10 à 15 min, disques de 0,3 cm, levée d'1 heure ou un peu plus sur un torchon de coton ; poêle à feu moyen chauffée plusieurs minutes (5 min pour sa plaque) ; premier retournement après 10 à 15 s, puis plusieurs ; manipuler avec douceur ; vapeur brûlante ; temps chaud ou froid ; trop épais = pas de poche ; découpe au verre ; refroidir sur grille ou panier ; congélation ; rôle du sucre et de l'huile ; mini batbout du ramadan ; service"
+  },
+  {
+   "name": "My Moroccan Food, Nargisse Benkabbou (élevée à Bruxelles dans une famille marocaine, ancienne cheffe exécutive de L'Mida Marrakech), « Batbout + Quick Chicken Tagine Filling », 22 avril 2016",
+   "url": "https://www.mymoroccanfood.com/home/batbout-quick-chicken-tagine-filling",
+   "used_for": "Source marocaine : 100 g de farine et 100 g de semoule, 1 c. à c. de levure, 1 c. à c. de sucre, 1 c. à c. de sel, 1 c. à s. d'huile, 120 à 170 ml d'eau versée peu à peu ; levure 5 min ; pétrissage de 10 à 15 min ; 14 boules, repos de 20 min ; disques de 0,5 cm semoulés, levée d'1 heure jusqu'à doubler, espacés ; retourner plusieurs fois ; ne pas appuyer ; tiède ou froid ; farce façon tajine au poulet"
+  },
+  {
+   "name": "Morocco World News, Layla Dahamou (Fès), « How to Make Moroccan Stuffed Batbout », 24 novembre 2019",
+   "url": "https://www.moroccoworldnews.com/2019/11/75160/how-moroccan-stuffed-batbout/",
+   "used_for": "Source marocaine : 250 g de farine blanche et 250 g de « wheat flour », 1 c. à s. de levure, 1 c. à s. de sucre, 1 c. à c. de sel, 2 c. à s. d'huile d'olive, environ 300 ml d'eau ; pétrissage de 5 à 10 min ; disques découpés au verre, levée d'1 heure ou plus sous un torchon ; poêle épaisse à feu moyen, plusieurs retournements ; fente sur le bord pour farcir ; ftour du ramadan ; farces (poulet, légumes, salade, thon, fromage) ; nature avec huile d'olive et miel, ou avec un tajine"
+  },
+  {
+   "name": "Bladi.net (« Les Marocains du monde »), « Batbout », rubrique Pâtisseries marocaines, Laila M., 28 août 2007, mise à jour le 8 mars 2021",
+   "url": "https://www.bladi.net/recettes/batbout.html",
+   "used_for": "Source marocaine : version tout semoule (1 kg de semouline, 25 g de levure, ½ c. à c. de sel, 50 cl d'eau, semoule moyenne) ; pétrissage d'une vingtaine de minutes ; 4 galettes de 1,5 cm ; levée d'environ 1 heure entre deux linges propres ; cuisson une à une sur un plat en fonte chauffé à l'avance ; aucune matière grasse dans la recette"
+  },
+  {
+   "name": "Cooking with Alia, Alia Al Kasimi, « Batbout / بطبوط », 27 février 2020",
+   "url": "https://www.cookingwithalia.com/773-batbout/",
+   "used_for": "Nom arabe بطبوط ; 250 g de farine et 125 g de fino (semoule fine), ½ c. à c. de sel, 1 c. à c. de levure, 220 ml d'eau tiède, sans sucre ni huile ; pétrissage d'environ 10 min ; pâte souple mais pas collante ; ronds découpés ; poêle antiadhésive à feu moyen, chaude ; quelques minutes par face en retournant plusieurs fois, jusqu'à ce qu'il gonfle et ait des taches dorées"
+  },
+  {
+   "name": "Lalla Moulati (site marocain de cuisine et de mode pour les femmes), « شهيوات رمضان: ميني بطبوط منفوخ وخفيف وهشيش مع سر النجاح ديالو لحشوات رمضان », 13 avril 2023",
+   "url": "https://www.lalamoulati.net/363905.html",
+   "used_for": "Source marocaine : nom بطبوط ; 625 g de farine blanche et 375 g de farine de blé dur ou de fino, 2 c. à s. d'huile, 1 c. à s. de levure, 1 c. à s. de sucre, sel, eau tiède (méthode en vidéo, non regardée)"
+  },
+  {
+   "name": "Lalla Moulati, « شهيوات رمضان: حضري أروع وألذ ميني بطبوط منفوخ خفيف وهشيش معمر بحشوات وبنينة » (recette « de la cuisine de Tima »), 5 avril 2023",
+   "url": "https://www.lalamoulati.net/362821.html",
+   "used_for": "Source marocaine : 600 g de farine blanche et 300 g de blé dur ou de fino, 2 c. à s. d'huile, 1 c. à s. de levure, 1 c. à s. de sucre, sel, eau tiède"
+  },
+  {
+   "name": "Lalla Moulati, « بطبوط صغير معمر لذيذ وخفيف بأسهل طريقة لاختصار الجهد والوقت », 29 mai 2023",
+   "url": "https://www.lalamoulati.net/369849.html",
+   "used_for": "Source marocaine : 400 g de farine blanche et 200 g de « farine de blé » (دقيق القمح) ou de fino, 1 c. à s. de levure, 1 c. à s. de sucre, 1 c. à s. de lait en poudre, 1 c. à c. de sel, 1 c. à s. d'huile"
+  },
+  {
+   "name": "Lalla Moulati, « بطبوطة كبيرة معمرة فالمقلاة بحشوة لذيذة وبسيطة », 14 mai 2023",
+   "url": "https://www.lalamoulati.net/367866.html",
+   "used_for": "Variante de la grande batbouta farcie, cuite à la poêle à feu doux"
+  },
+  {
+   "name": "MarocMama, Amanda Mouttaki (Américaine mariée à un Marocain, installée au Maroc), « Batbout – Moroccan Pita Bread », fiche datée du 14 mai 2019, avec ses réponses aux lecteurs d'avril et d'août 2019",
+   "url": "https://marocmama.com/batbout-moroccan-pita-bread/",
+   "used_for": "Proportions (4 tasses de farine blanche, 2 de semoule ou de farine de blé, 2 c. à s. et 1 c. à c. de sucre, 2 c. à c. de sel, 3 c. à s. d'huile, 1 c. à s. de levure, environ 2 tasses d'eau) ; levure 5 à 10 min ; pétrissage d'environ 10 min ; boules reposées 10 min ; disques de ⅛ de pouce, levée d'1 heure à 1 h 30 sur un torchon sec ; poêle déjà chaude pour la poche ; feu moyen, plusieurs retournements, couleur irrégulière normale ; empiler chauds ; conservation au réfrigérateur et congélation ; variante frite au miel et au beurre ; astuces de l'autrice (baisser le feu, planche fine)"
+  },
+  {
+   "name": "Choumicha (site officiel), page « Les recettes avec pour mot clé batbout » ; copie web.archive.org du 4 juillet 2017",
+   "url": "https://web.archive.org/web/20170704094903/http://www.choumicha.ma/recipes/batbout.html",
+   "used_for": "Noms « batbot » et « pain metlouâ » ; existence de batbots farcis au khlii, au poulet et au fromage (titres seulement : les fiches n'ont pas pu être lues)"
+  },
+  {
+   "name": "Choumicha (site officiel), « Batbot », rubrique Saveurs du Maroc ; copie web.archive.org du 20 mai 2018",
+   "url": "https://web.archive.org/web/20180520143744/http://choumicha.ma/recette/387-batbot.html",
+   "used_for": "Contre-vérification : Source marocaine que l'auteur n'avait pas pu lire : 250 g de farine de blé dur et 250 g de farine, 1 c. à café de sel et 30 cl d'eau tiède pour 500 g de farine, soit exactement le sel et l'eau retenus (60 %) ; 10 g de levure fraîche diluée dans un peu d'eau tiède, sans sucre ni huile ; pétrissage de 10 min jusqu'à une pâte souple et malléable ; levée au tiède jusqu'à doubler, puis abaisses de 0,5 cm découpées à l'emporte-pièce et reposées 10 min ; cuisson des deux côtés dans une poêle à fond épais, à feu moyen à vif. Confirme aussi le nom « Batbot » (mots clés : batbot, batbout)."
+  },
+  {
+   "name": "Taste of Maroc, page « About » ; copie web.archive.org du 28 juin 2026",
+   "url": "https://web.archive.org/web/20260628202229/https://tasteofmaroc.com/about/",
+   "used_for": "Contre-vérification : Biographie citée dans sources[0] : Christine Benlafquih a fondé Taste of Maroc ; experte cuisine marocaine d'About.com, devenu The Spruce Eats, de 2008 à 2016 ; elle élevait alors six enfants au Maroc, avec une vie quotidienne à Casablanca ; elle a lancé Taste of Casablanca. La page précise aussi que sa maison aux États-Unis est en Virginie du Nord."
+  },
+  {
+   "name": "My Moroccan Food, page « About »",
+   "url": "https://www.mymoroccanfood.com/about",
+   "used_for": "Contre-vérification : Biographie citée dans sources[1] : Nargisse Benkabbou a été élevée à Bruxelles dans une famille marocaine, a été cheffe exécutive de L'Mida Marrakech et a écrit « Casablanca: My Moroccan Food »."
+  },
+  {
+   "name": "MarocMama, page d'accueil (présentation de l'autrice)",
+   "url": "https://marocmama.com/",
+   "used_for": "Contre-vérification : Biographie citée dans sources[9] : Amanda Mouttaki se présente comme une Américaine mariée à un Marocain depuis près de 20 ans, installée au Maroc depuis 13 ans."
+  }
+ ],
+ "discrepancies": [
+  "Farines : part de farine blanche de 0 % (Bladi.net, tout semoule) à 67 % (Cooking with Alia ; Lalla Moulati, deux recettes) ; 43 % chez Taste of Maroc (avec 14 % de farine complète), 50 % chez My Moroccan Food et Morocco World News, 57 % chez MarocMama, 62,5 % dans une autre recette de Lalla Moulati. Médiane : 57 % de farine blanche et 37,5 % de semoule (calcul python sur 9 recettes). Retenu : 300 g de farine blanche et 200 g de semoule fine (60 % et 40 %). Taste of Maroc préfère ne pas dépasser la moitié de farine blanche : c'est donné dans les secrets.",
+  "Levure, ramenée à 500 g de farine : 1,33 c. à c. (Cooking with Alia), 1,5 et 1,67 (Lalla Moulati), 1,7 (Taste of Maroc, MarocMama), 2,5 (My Moroccan Food ; Lalla Moulati), 3 (Morocco World News) ; Bladi.net met 25 g de « levure de bière » pour 1 kg, sans préciser le type. Médiane : 1,7. Retenu : 1¾ c. à c., la valeur de Taste of Maroc et de MarocMama, qui ont le même déroulé (court repos des boules, puis 1 heure de levée).",
+  "Sucre, ramené à 500 g de farine : aucun (Cooking with Alia, Bladi.net), 1,5 et 1,67 c. à c. (Lalla Moulati), 2,5 (My Moroccan Food ; Lalla Moulati), 3 (Morocco World News), 3,4 (Taste of Maroc), 4 (MarocMama). Médiane : 2,5. Retenu : 2½ c. à c., facultatif.",
+  "Sel, ramené à 500 g de farine : 0,25 c. à c. (Bladi.net), 0,67 (Cooking with Alia), 0,83 (Lalla Moulati), 1 (Morocco World News), 1,13 (MarocMama), 1,14 (Taste of Maroc), 2,5 (My Moroccan Food). Médiane : 1. Retenu : 1 c. à c.",
+  "Huile dans la pâte, ramenée à 500 g de farine : aucune (Cooking with Alia, Bladi.net), 0,83 à 1,11 c. à s. (Lalla Moulati, trois recettes), 1,7 (Taste of Maroc, MarocMama), 2 (Morocco World News), 2,5 (My Moroccan Food). Médiane : 1,1. Retenu : 1 c. à s., facultative (Taste of Maroc : beaucoup de Marocains n'en mettent pas).",
+  "Eau, en pourcentage du poids de farine : 50 % (Bladi.net), 57 % (MarocMama, Taste of Maroc), 59 % (Cooking with Alia), 60 % (Morocco World News), 60 à 85 % (My Moroccan Food) ; Lalla Moulati ne chiffre pas l'eau. Médiane : 58 %. Retenu : 300 ml pour 500 g (60 %), versés peu à peu.",
+  "Pétrissage : 5 à 10 min (Morocco World News), environ 10 min (MarocMama, Cooking with Alia), 10 à 15 min (My Moroccan Food), une vingtaine de minutes (Bladi.net) ; Taste of Maroc ne donne pas de durée. Retenu : 10 minutes.",
+  "Levée : la plupart ne font pas lever la pâte en boule, mais reposer les boules puis lever les disques : repos des boules de 10 min (MarocMama), 10 à 15 min (Taste of Maroc), 20 min (My Moroccan Food). Morocco World News fait d'abord lever la pâte 30 à 40 min ; Cooking with Alia la laisse 30 min et ne fait pas lever les disques. Retenu : 10 minutes pour les boules.",
+  "Levée des disques : environ 1 heure (Taste of Maroc, My Moroccan Food, Morocco World News, Bladi.net), 1 heure à 1 h 30 (MarocMama), aucune (Cooking with Alia). Retenu : 1 heure.",
+  "Façonnage et épaisseur : boules étalées au rouleau à 0,3 cm (Taste of Maroc, MarocMama : ⅛ de pouce, soit 0,32 cm par calcul), aplaties à la main à 0,5 cm (My Moroccan Food) ou à 1,5 cm pour de grandes galettes (Bladi.net), ou pâte étalée « moyennement fine » puis découpée au verre (Morocco World News, Cooking with Alia). Retenu : boules étalées au rouleau à environ 3 mm ; la découpe au verre est donnée en astuce.",
+  "Poêle : à sec chez Taste of Maroc, Morocco World News, Bladi.net et Cooking with Alia ; MarocMama écrit « très légèrement huilée » dans sa recette mais parle de « poêle sèche » dans sa note ; légèrement huilée chez My Moroccan Food. Retenu : à sec, comme le demande la recette ; Taste of Maroc indique que certains appellent mkhamer le batbout cuit sur une poêle huilée.",
+  "Feu : moyen (Taste of Maroc, MarocMama, Morocco World News, Cooking with Alia) ou moyen-vif (My Moroccan Food). Retenu : moyen, en baissant un peu si ça colore trop vite (Taste of Maroc).",
+  "Nombre et taille : 20 pains de 10 cm pour environ 1,47 kg de pâte (Taste of Maroc), 10 à 12 pains pour une quantité proche (MarocMama), 14 minis de 7 cm pour environ 0,37 kg (My Moroccan Food). Poids de pâte par pain : 26 g, 73 g et 120 à 147 g ; médiane 73 g (calcul). Retenu : boules d'environ 70 g ; notre pâte (environ 840 g, calcul) donne donc 12 pains.",
+  "Conversions : les tasses de MarocMama sont converties avec les équivalences que Taste of Maroc donne pour la même recette (3 tasses de farine blanche = 375 g, 2 tasses de semoule = 384 g, 2 tasses d'eau = 500 ml) ; 1 pouce = 2,54 cm (calcul python).",
+  "Durées affichées : préparation de 20 min (Taste of Maroc ; Cooking with Alia) ; cuisson de 20 min (Cooking with Alia ; Taste of Maroc compte 10 min avec une double plaque, MarocMama 45 min) ; repos de 70 min = 10 min pour les boules et 60 min pour les disques.",
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 7 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Choumicha : la page qui liste ses recettes de batbout (copie web.archive.org du 4 juillet 2017) et sa fiche « Batbot » (copie du 20 mai 2018, lue à la contre-vérification : 250 g de farine de blé dur, 250 g de farine, 1 c. à c. de sel, 10 g de levure fraîche, 30 cl d'eau tiède) ont pu être lues. Sa fiche « Batbot ou Pain Metlouâ » n'a pas été ouverte : le 8 novembre 2026, web.archive.org a bloqué plusieurs requêtes (erreur 429, « trafic de robot suspect ») et ce blocage n'a pas été contourné.",
+  "Lalla Moulati : les méthodes sont en vidéo et n'ont pas été regardées ; seules les listes d'ingrédients écrites ont servi.",
+  "Rendement de 12 pains et taille finale : calculés, pas testés. Taste of Maroc annonce des pains de 10 cm, mais son poids de pâte par pain (73 g, calcul) semble donner des disques plus larges à 3 mm : ce point n'a pas pu être vérifié.",
+  "Premier retournement après 10 à 15 secondes : donné seulement par Taste of Maroc (cité comme secret, pas en minuteur).",
+  "Durée de congélation (3 à 4 mois) : seulement MarocMama, dans une réponse à une lectrice.",
+  "« Wheat flour » chez Morocco World News et MarocMama, et « semolina flour » chez My Moroccan Food : farine complète ou ordinaire, semoule fine ou farine de blé dur ? Ce n'est pas précisé.",
+  "Bladi.net : type de « levure de bière » (fraîche ou sèche) non précisé ; recette sans durée de cuisson.",
+  "Wikipédia (français), « Batbout » : l'article dit le batbout originaire du nord du Maroc et traduit son nom par « écrasé », mais ses références sont des blogs ; non retenu.",
+  "Yabiladi (article sur le batbout au ftour) : son robots.txt interdit l'accès à ClaudeBot ; non lu.",
+  "Origine des auteurs : Christine Benlafquih (Taste of Maroc) est installée de longue date à Casablanca ; elle est comptée parmi les sources marocaines, comme le prévoient les consignes. MarocMama (Amanda Mouttaki, Américaine installée au Maroc) et Cooking with Alia (l'autrice dit avoir grandi avec la cuisine marocaine, sans préciser sa nationalité) ne sont pas comptées parmi les sources marocaines.",
+  "Levure sèche active ou instantanée : les sources ne font pas la différence, et l'équivalence avec la levure fraîche n'a pas été vérifiée.",
+  "Durées totales de préparation et de cuisson : estimations reprises des sources, non chronométrées sur cette recette."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Pains",
+ "pairs": [
+  "kefta-poele",
+  "salade-marocaine",
+  "taktouka"
+ ],
+ "img_alt": "Deux batbouts gonflés qui cuisent sur une plaque en fonte, au Maroc",
+ "img": "img/batbout.jpg",
+ "photo": {
+  "author": "مصطفى ملو",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Batbout.jpg",
+  "modified": "réduite"
+ }
+});

@@ -1,0 +1,414 @@
+{
+ "_slug": "dchicha",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Dchicha, soupe d'orge à la tomate",
+   "t": "الدشيشة، حساء الشعير بالطماطم"
+  },
+  "darija": {
+   "fr": "Dchicha (h'ssoua hamra)",
+   "t": "دشيشة (حسوة حمرا)"
+  },
+  "tagline": {
+   "fr": "L'orge concassée qui mijote avec tomates, oignon et persil : une soupe veloutée et rassasiante, pour le petit-déjeuner, le dîner ou le ftour.",
+   "t": "شعير مجروش ينضج على نار هادئة مع الطماطم والبصل والبقدونس: حساء ناعم ومُشبِع، للفطور الصباحي أو العشاء أو فطور رمضان."
+  },
+  "region": {
+   "fr": "Dans beaucoup de foyers marocains ; la dchicha fait aussi partie du ftour des provinces du Sud",
+   "t": "في كثير من البيوت المغربية؛ والدشيشة أيضًا من أطباق الفطور في الأقاليم الجنوبية"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner ou dîner léger ; au ftour du Ramadan, parfois à la place de la harira",
+   "t": "الفطور الصباحي أو عشاء خفيف؛ وفي فطور رمضان، أحيانًا بدل الحريرة"
+  },
+  "img_alt": {
+   "fr": "Soupe d'orge à la tomate dans la marmite",
+   "t": "حساء الشعير بالطماطم في القدر"
+  },
+  "serving": {
+   "fr": "Bien chaude, tout de suite, dans des bols, avec un filet d'huile d'olive si tu aimes (Choumicha ; MWN Lifestyle). Au petit-déjeuner ou en dîner léger (Taste of Maroc), et au ftour du Ramadan, parfois à la place de la harira (Lalla Moulati ; MWN Lifestyle ; Choumicha la classe dans ses recettes de Ramadan).",
+   "t": "ساخنًا جدًا، فورًا، في أوعية، مع خيط رفيع من زيت الزيتون إن أحببت (Choumicha؛ MWN Lifestyle). في الفطور الصباحي أو كعشاء خفيف (Taste of Maroc)، وفي فطور رمضان، أحيانًا بدل الحريرة (Lalla Moulati؛ MWN Lifestyle؛ وتصنّفها Choumicha ضمن وصفاتها الرمضانية)."
+  },
+  "ing.0.group": {
+   "fr": "Soupe",
+   "t": "الحساء"
+  },
+  "ing.orge.name": {
+   "fr": "de dchicha d'orge (orge concassée)",
+   "t": "دشيشة الشعير"
+  },
+  "ing.orge.note": {
+   "fr": "grosse ou moyenne",
+   "t": "خشنة أو متوسطة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة الحجم"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة الحجم"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "تُبشر"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate bien mûre",
+   "t": "حبة طماطم ناضجة جيدًا"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates bien mûres",
+   "t": "حبات طماطم ناضجة جيدًا"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper, sans la peau",
+   "t": "تُبشر دون القشرة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.persil.note": {
+   "fr": "ou moitié persil, moitié coriandre",
+   "t": "أو نصفه بقدونس ونصفه كزبرة"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "تُعدَّل كميته في نهاية الطهي"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "مركز الطماطم"
+  },
+  "ing.concentre.note": {
+   "fr": "facultatif, pour la couleur",
+   "t": "اختياري، للّون"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "eau chaude",
+   "t": "ماء ساخن"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "pour allonger, si besoin",
+   "t": "لتخفيف الحساء عند الحاجة"
+  },
+  "ing.1.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, facultatif",
+   "t": "خيط رفيع، اختياري"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite (3 litres au moins)",
+   "t": "قدر كبيرة (سعتها 3 لترات على الأقل)"
+  },
+  "equipment.1": {
+   "fr": "Grand saladier et passoire fine, pour laver l'orge",
+   "t": "وعاء كبير ومصفاة دقيقة، لغسل الشعير"
+  },
+  "equipment.2": {
+   "fr": "Râpe",
+   "t": "مبشرة"
+  },
+  "equipment.3": {
+   "fr": "Planche et couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.4": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "equipment.5": {
+   "fr": "Louche",
+   "t": "مغرفة"
+  },
+  "steps.0.title": {
+   "fr": "Lave l'orge",
+   "t": "اغسل الشعير"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{orge}} de dchicha dans un grand saladier d'eau et remue avec la main. Égoutte dans une passoire fine. Recommence jusqu'à ce que l'eau reste claire, puis laisse égoutter.",
+   "t": "ضع {{orge}} من الدشيشة في وعاء كبير مملوء بالماء وحرّكها بيدك. صفّها في مصفاة دقيقة. كرّر ذلك حتى يبقى الماء صافيًا، ثم اتركها تتصفّى."
+  },
+  "steps.0.tip": {
+   "fr": "La grosse dchicha garde des grains fermes sous la dent ; la moyenne donne une soupe plus fondante et cuit plus vite (Taste of Maroc).",
+   "t": "تحتفظ الدشيشة الخشنة بحبات متماسكة تحت الأسنان؛ أما المتوسطة فتعطي حساءً أنعم وتنضج أسرع (Taste of Maroc)."
+  },
+  "steps.1.title": {
+   "fr": "Râpe l'oignon",
+   "t": "ابشر البصل"
+  },
+  "steps.1.text": {
+   "fr": "Épluche et râpe finement {{oignon:full}}.",
+   "t": "قشّر {{oignon:full}}، ثم ابشر البصل بشرًا ناعمًا."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "ابشر الطماطم"
+  },
+  "steps.2.text": {
+   "fr": "Râpe {{tomates:full}} côté chair et jette la peau.",
+   "t": "ابشر {{tomates:full}} من جهة اللب وتخلّص من القشرة."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم مبشورة على مبشرة"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "افرم الأعشاب"
+  },
+  "steps.3.text": {
+   "fr": "Hache finement du persil plat : il en faut {{persil}} une fois haché. Tu peux mettre moitié persil, moitié coriandre.",
+   "t": "افرم البقدونس فرمًا ناعمًا: تحتاج إلى {{persil}} منه بعد الفرم. يمكنك أن تضع نصفه بقدونسًا ونصفه كزبرة."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.4.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "شوّح البصل"
+  },
+  "steps.4.text": {
+   "fr": "Chauffe {{huile}} d'huile d'olive dans une grande marmite, sur feu moyen. Ajoute l'oignon râpé et remue jusqu'à ce qu'il devienne translucide.",
+   "t": "سخّن {{huile}} من زيت الزيتون في قدر كبيرة على نار متوسطة. أضف البصل المبشور وحرّك حتى يصير شفافًا."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute tomates, herbes, épices et eau",
+   "t": "أضف الطماطم والأعشاب والتوابل والماء"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute les tomates râpées, le persil, {{curcuma}} de curcuma, {{sel}} de sel et {{poivre}} de poivre. Verse {{eau}} d'eau et porte à ébullition sur feu vif.",
+   "t": "أضف الطماطم المبشورة، والبقدونس، و{{curcuma}} من الكركم، و{{sel}} من الملح، و{{poivre}} من الفلفل الأسود. اسكب {{eau}} من الماء وأوصله إلى الغليان على نار قوية."
+  },
+  "steps.6.title": {
+   "fr": "Verse l'orge",
+   "t": "أضف الشعير"
+  },
+  "steps.6.text": {
+   "fr": "Dès que ça bout, verse l'orge égouttée en remuant. Si tu en mets, ajoute {{concentre}} de concentré de tomate. Baisse le feu.",
+   "t": "ما إن يغلي، اسكب الشعير المصفّى مع التحريك. وإن كنت تستعمله، فأضف {{concentre}} من مركز الطماطم. خفّف النار."
+  },
+  "steps.7.title": {
+   "fr": "Laisse mijoter en remuant",
+   "t": "اتركه ينضج على نار هادئة مع التحريك"
+  },
+  "steps.7.text": {
+   "fr": "Laisse cuire à feu doux 30 minutes, en remuant de temps en temps pour que l'orge n'attache pas au fond. Si la soupe épaissit trop, ajoute un peu d'{{eau-chaude}}.",
+   "t": "اتركه ينضج على نار هادئة 30 دقيقة، مع التحريك من حين لآخر حتى لا يلتصق الشعير بالقاع. وإذا صار الحساء كثيفًا جدًا، فأضف قليلًا من الماء الساخن."
+  },
+  "steps.7.tip": {
+   "fr": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "t": "لا تتركه يغلي بقوة كبيرة: فقد يفيض الحساء."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson de l'orge",
+   "t": "طهي الشعير"
+  },
+  "steps.7.timer.done": {
+   "fr": "Goûte quelques grains : ils doivent être tendres.",
+   "t": "تذوّق بضع حبات: يجب أن تكون طرية."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "تحقّق من النضج"
+  },
+  "steps.8.text": {
+   "fr": "Goûte quelques grains : ils doivent être tendres, et la soupe veloutée, à peine épaisse. Sinon, prolonge la cuisson en remuant et goûte de nouveau : la grosse dchicha cuit plus longtemps. Rectifie le sel.",
+   "t": "تذوّق بضع حبات: يجب أن تكون طرية، وأن يكون الحساء ناعمًا مخمليًا، كثيفًا بالكاد. وإلا فأطِل مدة الطهي مع التحريك وتذوّق من جديد: فالدشيشة الخشنة تحتاج إلى وقت أطول. عدّل الملح."
+  },
+  "steps.9.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّم فورًا"
+  },
+  "steps.9.text": {
+   "fr": "Sers la soupe tout de suite, bien chaude, avec un filet d'{{huile-service}} si tu aimes. En attendant, l'orge continue de gonfler et la soupe épaissit.",
+   "t": "قدّم الحساء فورًا وهو ساخن جدًا، مع خيط رفيع من زيت الزيتون إن أحببت. فإذا انتظر، يواصل الشعير الانتفاخ ويتكثّف الحساء."
+  },
+  "secrets.0.text": {
+   "fr": "Lave la dchicha dans plusieurs eaux, jusqu'à ce que l'eau ne soit plus trouble, puis égoutte-la.",
+   "t": "اغسل الدشيشة في عدة مياه، حتى لا يبقى الماء عكرًا، ثم صفّها."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Lalla Moulati",
+   "t": "Taste of Maroc؛ Choumicha؛ Lalla Moulati"
+  },
+  "secrets.1.text": {
+   "fr": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
+   "t": "الشعير المجروش الخشن، أي «الدشيشة»، يحتفظ بحبات متماسكة؛ أما المتوسط (البلبولة) فيعطي حساءً أنعم. ويحتاج الخشن إلى وقت أطول للنضج وإلى ماء أكثر قليلًا."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne",
+   "t": "Taste of Maroc؛ وتستعمل Choumicha سميد الشعير المتوسط"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe l'oignon et les tomates, et jette la peau des tomates.",
+   "t": "ابشر البصل والطماطم، وتخلّص من قشرة الطماطم."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Cooking with Alia",
+   "t": "Choumicha؛ Taste of Maroc؛ Cooking with Alia"
+  },
+  "secrets.3.text": {
+   "fr": "Verse l'orge quand le bouillon bout.",
+   "t": "أضف الشعير عندما يغلي المرق."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha (h'ssoua hamra et h'ssoua aux crevettes) ; Lalla Moulati (2016) fait d'abord bouillir l'eau avec les aromates",
+   "t": "Choumicha (الحسوة الحمراء والحسوة بالجمبري)؛ وتُغلي Lalla Moulati (2016) الماء أولًا مع المنكّهات"
+  },
+  "secrets.4.text": {
+   "fr": "Remue de temps en temps et rajoute de l'eau si elle baisse : l'orge attache au fond et peut brûler.",
+   "t": "حرّك من حين لآخر وأضف الماء إذا انخفض مستواه: فالشعير يلتصق بالقاع وقد يحترق."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati (2016) ; Choumicha ; Cooking with Alia ; Taste of Maroc",
+   "t": "Lalla Moulati (2016)؛ Choumicha؛ Cooking with Alia؛ Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "t": "لا تتركه يغلي بقوة كبيرة: فقد يفيض الحساء."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Choumicha cuit à feu doux",
+   "t": "Taste of Maroc؛ وتطهو Choumicha على نار هادئة"
+  },
+  "secrets.6.text": {
+   "fr": "Le concentré de tomate est facultatif, mais il donne une belle couleur et plus de goût de tomate.",
+   "t": "مركز الطماطم اختياري، لكنه يمنح لونًا جميلًا ونكهة طماطم أقوى."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Choumicha et Cooking with Alia en mettent",
+   "t": "Taste of Maroc؛ وتضعه Choumicha وCooking with Alia"
+  },
+  "secrets.7.text": {
+   "fr": "Pour les herbes : persil seul, ou persil et coriandre.",
+   "t": "بالنسبة للأعشاب: البقدونس وحده، أو البقدونس والكزبرة."
+  },
+  "secrets.7.source": {
+   "fr": "Persil : Taste of Maroc, Choumicha ; persil et coriandre : Choumicha (h'ssoua aux crevettes), Cooking with Alia",
+   "t": "البقدونس: Taste of Maroc، Choumicha؛ البقدونس والكزبرة: Choumicha (الحسوة بالجمبري)، Cooking with Alia"
+  },
+  "secrets.8.text": {
+   "fr": "Sers la soupe dès qu'elle est prête : en attendant, l'orge gonfle et la soupe épaissit.",
+   "t": "قدّم الحساء فور جاهزيته: فإذا انتظر، ينتفخ الشعير ويتكثّف الحساء."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Choumicha (« servir la h'ssoua aussitôt »)",
+   "t": "Taste of Maroc؛ Choumicha («تقديم الحسوة فورًا»)"
+  },
+  "secrets.9.text": {
+   "fr": "Un filet d'huile d'olive sur chaque bol, au moment de servir.",
+   "t": "خيط رفيع من زيت الزيتون على كل وعاء، عند التقديم."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (soupes d'orge au thym) ; MWN Lifestyle (dchicha)",
+   "t": "Choumicha (وصفات حساء الشعير بالزعتر)؛ MWN Lifestyle (الدشيشة)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour réchauffer, allonge avec un peu d'eau, rectifie l'assaisonnement et porte à ébullition en remuant.",
+   "t": "لإعادة التسخين، خفّف الحساء بقليل من الماء، وعدّل التتبيل، وأوصله إلى الغليان مع التحريك."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)",
+   "t": "Taste of Maroc؛ USDA (يُعاد تسخين الحساء حتى يغلي غليانًا تامًا)"
+  },
+  "secrets.11.text": {
+   "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées, et mange-les dans les 3 jours.",
+   "t": "ضع البقايا في الثلاجة خلال 2 ساعة، في علب صغيرة مغلقة، وكُلها خلال 3 أيام."
+  },
+  "secrets.11.source": {
+   "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours)",
+   "t": "ANSES (2 ساعة، 3 أيام، حصص صغيرة)؛ USDA (2 ساعة، من 3 إلى 4 أيام)"
+  },
+  "mistakes.0": {
+   "fr": "Ne pas laver l'orge (Taste of Maroc, Choumicha et Lalla Moulati la lavent toujours).",
+   "t": "عدم غسل الشعير (Taste of Maroc وChoumicha وLalla Moulati يغسلونه دائمًا)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser cuire sans remuer : l'orge attache et brûle au fond (Lalla Moulati ; Cooking with Alia).",
+   "t": "تركه ينضج دون تحريك: يلتصق الشعير ويحترق في القاع (Lalla Moulati؛ Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Cuire à feu trop fort : la soupe déborde (Taste of Maroc).",
+   "t": "الطهي على نار قوية جدًا: يفيض الحساء (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Faire attendre la soupe avant de servir : elle devient trop épaisse (Taste of Maroc ; Choumicha).",
+   "t": "ترك الحساء ينتظر قبل التقديم: يصير كثيفًا جدًا (Taste of Maroc؛ Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Réchauffer sans rajouter d'eau (Taste of Maroc).",
+   "t": "إعادة التسخين دون إضافة الماء (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
+   "t": "ترك البقايا أكثر من 2 ساعة في حرارة الغرفة (ANSES؛ USDA)."
+  },
+  "variants.0": {
+   "fr": "Au lait, la h'ssoua belboula au lait (« hessoua blanche » chez Cooking with Alia) : l'orge cuit d'abord dans l'eau avec un peu d'huile d'olive, du sel, du poivre et du cumin, en remuant ; on ajoute le lait à la fin et on laisse cuire encore un peu. Lalla Moulati (2014) : 250 g d'orge, 1,5 l d'eau, 2 c. à s. d'huile, 30 min de cuisson avec du thym ajouté à mi-cuisson, puis 1/4 l de lait et 10 min. Cooking with Alia : lait ajouté après 15 min, puis 10 min, thym séché émietté dessus. Taste of Maroc : 30 à 40 min, puis lait, beurre et lait concentré non sucré, cumin au service.",
+   "t": "بالحليب، حسوة البلبولة بالحليب («الحسوة البيضاء» عند Cooking with Alia): يُطهى الشعير أولًا في الماء مع قليل من زيت الزيتون والملح والفلفل الأسود والكمون، مع التحريك؛ ثم يُضاف الحليب في النهاية ويُترك لينضج قليلًا بعد. Lalla Moulati (2014): 250 غ من الشعير، و1,5 ل من الماء، و2 ملعقة كبيرة من الزيت، و30 دقيقة من الطهي مع إضافة الزعتر في منتصفه، ثم 1/4 ل من الحليب و10 دقائق. Cooking with Alia: يُضاف الحليب بعد 15 دقيقة، ثم 10 دقائق، مع زعتر يابس مفتّت فوقه. Taste of Maroc: من 30 إلى 40 دقيقة، ثم الحليب والزبدة والحليب المركّز غير المحلّى، والكمون عند التقديم."
+  },
+  "variants.1": {
+   "fr": "Avec un peu de viande halal : fais revenir de l'agneau ou du bœuf en petits dés avec l'oignon, puis laisse cuire le bouillon 15 à 20 minutes avant d'ajouter l'orge (Taste of Maroc : 85 g pour 4). Choumicha met 250 g de poitrine d'agneau pour 6, revenue 5 minutes.",
+   "t": "بقليل من اللحم الحلال: شوّح لحم الخروف أو البقر مقطّعًا مكعبات صغيرة مع البصل، ثم اترك المرق ينضج من 15 إلى 20 دقيقة قبل إضافة الشعير (Taste of Maroc: 85 غ لـ4 أشخاص). وتضع Choumicha 250 غ من صدر الخروف لـ6 أشخاص، مشوّحًا 5 دقائق."
+  },
+  "variants.2": {
+   "fr": "Aux crevettes : Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur). Garde les crevettes dans la partie la plus froide du réfrigérateur jusqu'à la cuisson, comme l'ANSES le recommande pour les viandes et les poissons.",
+   "t": "بالجمبري: تحضّر Choumicha مرقًا بالرؤوس والقشور، وتشوّح الجمبري 1 دقيقة في الزيت ثم تضعه جانبًا، وتضيف ورق الغار والهريسة والبقدونس والكزبرة، ثم تعيد الجمبري إلى الحساء الساخن قبيل التقديم. اتركه حتى يصير لحمه متماسكًا لؤلؤي اللون وغير شفاف (FDA: 63 درجة مئوية في قلبه). واحفظ الجمبري في أبرد جزء من الثلاجة حتى وقت الطهي، كما توصي ANSES بالنسبة للحوم والأسماك."
+  },
+  "variants.3": {
+   "fr": "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet.",
+   "t": "بالأعشاب، بلا طماطم: يغلي الماء 10 دقائق مع الزعتر، والفليو، والكرفس، والثوم بقشره، والزنجبيل، والكركم، ثم تُضاف إليه الدشيشة (Lalla Moulati، 2016). وتحضّر Choumicha حساء الشعير بالزعتر والثوم، مع حبة البركة (السانوج) وحب الرشاد، أو مع قليل من الدخن."
+  },
+  "variants.4": {
+   "fr": "Aux légumes : navet, carottes, courgettes, chou et tomates, au ftour à la place de la harira (Lalla Moulati, 2020).",
+   "t": "بالخضر: اللفت والجزر والكوسة والكرنب والطماطم، في الفطور بدل الحريرة (Lalla Moulati، 2020)."
+  },
+  "variants.5": {
+   "fr": "Plus relevée : Taste of Maroc ajoute 1 c. à c. de gingembre moulu pour 4 ; Lalla Moulati en met aussi dans sa dchicha aux herbes.",
+   "t": "بنكهة أقوى: يضيف Taste of Maroc 1 ملعقة صغيرة من الزنجبيل المطحون (سكينجبير) لـ4 أشخاص؛ وتضع Lalla Moulati منه أيضًا في دشيشتها بالأعشاب."
+  },
+  "variants.6": {
+   "fr": "Tchicha de blé : à Ouarzazate, la tchicha est une soupe de blé (Hespress, 2021).",
+   "t": "تشيشة القمح: في ورزازات، التشيشة حساء من القمح (Hespress، 2021)."
+  }
+ }
+}

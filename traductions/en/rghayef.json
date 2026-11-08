@@ -1,0 +1,526 @@
+{
+ "_slug": "rghayef",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Rghayef farcis à l'oignon et au khlii",
+   "t": "Rghayef stuffed with onion and khlii"
+  },
+  "darija": {
+   "fr": "rghayef m'ammrin (singulier : rghifa)",
+   "t": "rghayef m'ammrin (singular: rghifa)"
+  },
+  "tagline": {
+   "fr": "Des galettes feuilletées fourrées d'oignons fondants, de persil et de khlii, dorées à la poêle et servies brûlantes avec le thé.",
+   "t": "Flaky flatbreads filled with meltingly soft onions, parsley and khlii, browned in the pan and served piping hot with tea."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; à Fès, le msemmen au khlii fait partie des gourmandises du ftour",
+   "t": "All of Morocco; in Fez, msemmen with khlii is one of the iftar treats"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, goûter, ftour du ramadan",
+   "t": "Breakfast, afternoon snack, Ramadan iftar"
+  },
+  "img_alt": {
+   "fr": "Assortiment de rghayef carrés, dorés à la poêle (la farce ne se voit pas sur la photo)",
+   "t": "An assortment of square rghayef, browned in the pan (the filling cannot be seen in the photo)"
+  },
+  "serving": {
+   "fr": "Bien chauds, au petit-déjeuner ou au goûter, avec un thé (Morocco World News 2013 : « Serve hot with tea » ; Guinaudeau : mangés chauds avec le thé du petit-déjeuner ; Choumicha : « Servir les r'ghaifs chaudes »). On les sert aussi au ftour du ramadan : Choumicha range la moitié de ses r'ghaifs (5 recettes sur 10, dont celle à la viande hachée et aux légumes) dans « Ramadan », et Femmes du Maroc cite le msemmen au khlii parmi les gourmandises du ftour à Fès. Les restes vont au réfrigérateur dans les 2 heures, se mangent dans les 3 jours et se réchauffent jusqu'à être très chauds à cœur, à la poêle ou au four (Anses).",
+   "t": "Piping hot, at breakfast or as an afternoon snack, with tea (Morocco World News 2013: “Serve hot with tea”; Guinaudeau: eaten hot with breakfast tea; Choumicha: “Serve the r'ghaifs hot”). They are also served at the Ramadan iftar: Choumicha files half of her r'ghaifs (5 recipes out of 10, including the one with minced meat and vegetables) under “Ramadan”, and Femmes du Maroc lists msemmen with khlii among the iftar treats in Fez. Leftovers go in the fridge within 2 hours, should be eaten within 3 days and are reheated until piping hot right through, in a frying pan or in the oven (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Farce",
+   "t": "Filling"
+  },
+  "ing.huile-farce.name": {
+   "fr": "d'huile de table (ou d'huile d'olive)",
+   "t": "neutral oil (sunflower) or olive oil"
+  },
+  "ing.oignons.name": {
+   "fr": "gros oignon",
+   "t": "large onion"
+  },
+  "ing.oignons.pl": {
+   "fr": "gros oignons",
+   "t": "large onions"
+  },
+  "ing.oignons.note": {
+   "fr": "à émincer très finement",
+   "t": "to be very thinly sliced"
+  },
+  "ing.khlii.name": {
+   "fr": "de khlii (viande séchée confite)",
+   "t": "khlii (preserved dried meat)"
+  },
+  "ing.khlii.note": {
+   "fr": "de viande halal (bœuf ou chameau le plus souvent, parfois agneau ou mouton) et de graisse halal, ou conservé dans l'huile d'olive seule ; émietté ou haché finement",
+   "t": "made with halal meat (most often beef or camel, sometimes lamb or mutton) and halal fat, or preserved in olive oil only; crumbled or finely chopped"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "finement ciselé",
+   "t": "finely chopped"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux (piment rouge doux)",
+   "t": "sweet paprika (sweet red pepper powder)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort moulu",
+   "t": "ground hot chilli"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif, selon ton goût",
+   "t": "optional, to taste"
+  },
+  "ing.sel-farce.name": {
+   "fr": "sel",
+   "t": "salt"
+  },
+  "ing.sel-farce.note": {
+   "fr": "selon le goût ; goûte d'abord, le khlii est déjà assaisonné",
+   "t": "to taste; taste first, the khlii is already seasoned"
+  },
+  "ing.1.group": {
+   "fr": "Pâte",
+   "t": "Dough"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (T45 ou T55)",
+   "t": "plain white flour (T45 or T55)"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine",
+   "t": "fine semolina"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "lukewarm water"
+  },
+  "ing.eau.note": {
+   "fr": "environ : verse-la petit à petit, il en faut de 280 à 360 ml selon ta farine",
+   "t": "approximately: pour it in gradually, you will need 280 to 360 ml depending on your flour"
+  },
+  "ing.2.group": {
+   "fr": "Pour façonner",
+   "t": "For shaping"
+  },
+  "ing.huile-faconnage.name": {
+   "fr": "huile neutre (tournesol)",
+   "t": "neutral oil (sunflower)"
+  },
+  "ing.huile-faconnage.note": {
+   "fr": "pour le plan de travail, les mains et les pâtons",
+   "t": "for the work surface, your hands and the dough balls"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, fondu",
+   "t": "butter, melted"
+  },
+  "ing.huile-beurre.name": {
+   "fr": "d'huile neutre, à mélanger au beurre fondu",
+   "t": "neutral oil, to mix with the melted butter"
+  },
+  "ing.semoule-faconnage.name": {
+   "fr": "de semoule fine, à saupoudrer",
+   "t": "fine semolina, for sprinkling"
+  },
+  "equipment.0": {
+   "fr": "Une sauteuse avec couvercle, pour la farce",
+   "t": "A sauté pan with a lid, for the filling"
+  },
+  "equipment.1": {
+   "fr": "Une cuillère en bois",
+   "t": "A wooden spoon"
+  },
+  "equipment.2": {
+   "fr": "Une grande assiette, pour refroidir la farce",
+   "t": "A large plate, for cooling the filling"
+  },
+  "equipment.3": {
+   "fr": "Un grand saladier (ou une gsaa)",
+   "t": "A large mixing bowl (or a gsaa)"
+  },
+  "equipment.4": {
+   "fr": "Une balance de cuisine",
+   "t": "Kitchen scales"
+  },
+  "equipment.5": {
+   "fr": "Un grand plan de travail lisse (ou un grand plateau)",
+   "t": "A large smooth work surface (or a large tray)"
+  },
+  "equipment.6": {
+   "fr": "Deux plateaux huilés : un pour les pâtons, un pour les galettes farcies",
+   "t": "Two oiled trays: one for the dough balls, one for the filled flatbreads"
+  },
+  "equipment.7": {
+   "fr": "Trois bols : huile, beurre-huile, semoule",
+   "t": "Three bowls: oil, butter and oil, semolina"
+  },
+  "equipment.8": {
+   "fr": "Un pinceau",
+   "t": "A pastry brush"
+  },
+  "equipment.9": {
+   "fr": "Du film alimentaire ou un torchon propre",
+   "t": "Cling film or a clean tea towel"
+  },
+  "equipment.10": {
+   "fr": "Une grande poêle à fond épais",
+   "t": "A large heavy-based frying pan"
+  },
+  "equipment.11": {
+   "fr": "Une spatule",
+   "t": "A spatula"
+  },
+  "steps.0.title": {
+   "fr": "Fondre les oignons",
+   "t": "Soften the onions"
+  },
+  "steps.0.text": {
+   "fr": "Dans une sauteuse, fais chauffer {{huile-farce}} d'huile à feu moyen. Ajoute l'oignon émincé ({{oignons:full}}), couvre et laisse cuire 10 minutes en remuant de temps en temps, jusqu'à ce qu'il soit tendre et translucide.",
+   "t": "In a sauté pan, heat {{huile-farce}} of oil over medium heat. Add the sliced onion ({{oignons:full}}), cover and cook for 10 minutes, stirring from time to time, until it is tender and translucent."
+  },
+  "steps.0.timer.label": {
+   "fr": "Oignons",
+   "t": "Onions"
+  },
+  "steps.0.timer.done": {
+   "fr": "L'oignon est-il tendre et translucide ? Sinon, prolonge de quelques minutes.",
+   "t": "Is the onion tender and translucent? If not, give it a few more minutes."
+  },
+  "steps.1.title": {
+   "fr": "Ajouter khlii, persil et épices",
+   "t": "Add the khlii, parsley and spices"
+  },
+  "steps.1.text": {
+   "fr": "Ajoute {{khlii}} de khlii émietté, {{persil}} de persil ciselé, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre et, si tu aimes, un peu de {{piment}}. Laisse cuire 5 minutes à découvert, en remuant, jusqu'à ce qu'il ne reste plus de liquide.",
+   "t": "Add {{khlii}} of crumbled khlii, {{persil}} of chopped parsley, {{paprika}} of paprika, {{cumin}} of cumin, {{poivre}} of pepper and, if you like, a little {{piment}}. Cook for 5 minutes uncovered, stirring, until there is no liquid left."
+  },
+  "steps.1.timer.label": {
+   "fr": "Farce",
+   "t": "Filling"
+  },
+  "steps.1.timer.done": {
+   "fr": "S'il reste du liquide, laisse-le s'évaporer, puis coupe le feu.",
+   "t": "If there is still some liquid, let it evaporate, then turn off the heat."
+  },
+  "steps.2.title": {
+   "fr": "Goûter et refroidir",
+   "t": "Taste and cool"
+  },
+  "steps.2.text": {
+   "fr": "Goûte la farce et ajoute du {{sel-farce}} seulement si besoin : le khlii est déjà assaisonné. Étale-la dans une grande assiette et laisse-la refroidir complètement : chaude, elle abîme la pâte. Si tu la prépares à l'avance, mets-la au réfrigérateur dans les 2 heures.",
+   "t": "Taste the filling and add {{sel-farce}} only if needed: the khlii is already seasoned. Spread it out on a large plate and leave it to cool completely: if it is hot, it damages the dough. If you make it in advance, put it in the fridge within 2 hours."
+  },
+  "steps.3.title": {
+   "fr": "Mélanger la pâte",
+   "t": "Mix the dough"
+  },
+  "steps.3.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine et {{sel}} de sel. Verse {{eau}} d'eau tiède petit à petit, en mélangeant à la main, jusqu'à former une boule souple. Si elle colle, ajoute un peu de farine ; si elle est sèche, un peu d'eau.",
+   "t": "In a large mixing bowl, mix {{farine}} of flour, {{semoule}} of fine semolina and {{sel}} of salt. Gradually pour in {{eau}} of lukewarm water, mixing by hand, until it forms a soft ball. If it is sticky, add a little flour; if it is dry, a little water."
+  },
+  "steps.4.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "Knead for 10 minutes"
+  },
+  "steps.4.text": {
+   "fr": "Pétris pendant 10 minutes, jusqu'à ce que la pâte soit lisse, souple et élastique, et ne colle plus.",
+   "t": "Knead for 10 minutes, until the dough is smooth, soft and elastic, and no longer sticky."
+  },
+  "steps.4.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Kneading"
+  },
+  "steps.4.timer.done": {
+   "fr": "Touche la pâte : si elle n'est pas lisse et élastique, pétris encore un peu.",
+   "t": "Touch the dough: if it is not smooth and elastic, knead a little longer."
+  },
+  "steps.4.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Hands kneading dough"
+  },
+  "steps.4.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Kneading the dough"
+  },
+  "steps.5.title": {
+   "fr": "Former les pâtons",
+   "t": "Shape the dough balls"
+  },
+  "steps.5.text": {
+   "fr": "Huile tes mains et un plateau. Partage la pâte en boules d'environ 75 g, une par galette. Roule-les dans l'huile, pose-les sur le plateau sans qu'elles se touchent, couvre et laisse reposer 15 minutes.",
+   "t": "Oil your hands and a tray. Divide the dough into balls of about 75 g, one per flatbread. Roll them in oil, place them on the tray without letting them touch, cover and leave to rest for 15 minutes."
+  },
+  "steps.5.timer.label": {
+   "fr": "Repos des pâtons",
+   "t": "Resting the dough balls"
+  },
+  "steps.5.timer.done": {
+   "fr": "Les pâtons ont reposé : tu peux étirer et farcir.",
+   "t": "The dough balls have rested: you can stretch and fill them."
+  },
+  "steps.6.title": {
+   "fr": "Préparer ton poste",
+   "t": "Set up your work station"
+  },
+  "steps.6.text": {
+   "fr": "Pendant le repos, mélange {{beurre}} de beurre fondu avec {{huile-beurre}} d'huile. Mets à portée de main ce mélange, un bol d'{{huile-faconnage}}, {{semoule-faconnage}} de semoule fine et la farce froide. Huile largement ton plan de travail.",
+   "t": "While the dough rests, mix {{beurre}} of melted butter with {{huile-beurre}} of oil. Put this mixture within reach, along with a bowl of {{huile-faconnage}}, {{semoule-faconnage}} of fine semolina and the cold filling. Oil your work surface generously."
+  },
+  "steps.7.title": {
+   "fr": "Étirer très fin",
+   "t": "Stretch very thin"
+  },
+  "steps.7.text": {
+   "fr": "Pose un pâton sur le plan huilé. Mains huilées, étire-le du bout des doigts, du centre vers les bords, jusqu'à un disque très fin d'environ 28 cm. Remets de l'huile si la pâte accroche.",
+   "t": "Place a dough ball on the oiled surface. With oiled hands, stretch it with your fingertips, from the centre outwards, into a very thin disc about 28 cm across. Add more oil if the dough sticks."
+  },
+  "steps.7.img.alt": {
+   "fr": "Mains huilées qui étalent une pâte très fine, au Maroc (ici pour des msemen)",
+   "t": "Oiled hands spreading very thin dough, in Morocco (here for msemen)"
+  },
+  "steps.7.img.caption": {
+   "fr": "Étirer du bout des doigts",
+   "t": "Stretching with the fingertips"
+  },
+  "steps.8.title": {
+   "fr": "Badigeonner et garnir",
+   "t": "Brush and fill"
+  },
+  "steps.8.text": {
+   "fr": "Badigeonne le disque de mélange beurre-huile et saupoudre-le d'un peu de semoule. Pose au centre 1 à 2 cuillerées à soupe de farce, en laissant les bords libres : la farce doit suffire pour toutes les galettes.",
+   "t": "Brush the disc with the butter and oil mixture and sprinkle it with a little semolina. Place 1 to 2 tablespoons of filling in the centre, leaving the edges clear: the filling must last for all the flatbreads."
+  },
+  "steps.9.title": {
+   "fr": "Fermer en carré",
+   "t": "Fold into a square"
+  },
+  "steps.9.text": {
+   "fr": "Rabats trois côtés de la pâte sur la farce, puis le quatrième par-dessus en l'étirant un peu : ce dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir. Pose le carré fermé sur le second plateau huilé et recommence avec les autres pâtons.",
+   "t": "Fold three sides of the dough over the filling, then the fourth over the top, stretching it a little: this last fold, with no filling, strengthens the flatbread and stops it from opening. Put the closed square on the second oiled tray and repeat with the other dough balls."
+  },
+  "steps.10.title": {
+   "fr": "Chauffer la poêle",
+   "t": "Heat the pan"
+  },
+  "steps.10.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais à feu moyen-vif, puis huile-la légèrement.",
+   "t": "Heat a large heavy-based frying pan over medium-high heat, then oil it lightly."
+  },
+  "steps.11.title": {
+   "fr": "Aplatir doucement",
+   "t": "Flatten gently"
+  },
+  "steps.11.text": {
+   "fr": "Mains huilées, aplatis le premier carré du bout des doigts, sans percer la pâte, jusqu'à environ 12 à 15 cm de côté. La farce doit rester bien enfermée.",
+   "t": "With oiled hands, flatten the first square with your fingertips, without piercing the dough, until each side is about 12 to 15 cm. The filling must stay well sealed inside."
+  },
+  "steps.12.title": {
+   "fr": "Cuire en retournant",
+   "t": "Cook, turning several times"
+  },
+  "steps.12.text": {
+   "fr": "Dépose la galette dans la poêle et retourne-la plusieurs fois, jusqu'à ce qu'elle soit bien dorée et croustillante des deux côtés. Si elle colore trop vite, baisse un peu le feu : la pâte doit cuire jusqu'au centre.",
+   "t": "Put the flatbread in the pan and turn it several times, until it is golden brown and crisp on both sides. If it browns too quickly, turn the heat down a little: the dough must cook right through to the centre."
+  },
+  "steps.12.img.alt": {
+   "fr": "Galettes feuilletées carrées qui dorent sur une grande plaque",
+   "t": "Square flaky flatbreads browning on a large griddle"
+  },
+  "steps.12.img.caption": {
+   "fr": "Cuire jusqu'à ce qu'elles soient bien dorées",
+   "t": "Cooking until golden brown"
+  },
+  "steps.13.title": {
+   "fr": "Continuer avec les autres",
+   "t": "Carry on with the rest"
+  },
+  "steps.13.text": {
+   "fr": "Pose la galette cuite sur une planche ou une grille, et continue avec les autres carrés, en les aplatissant au fur et à mesure.",
+   "t": "Put the cooked flatbread on a board or a rack, and carry on with the other squares, flattening them as you go."
+  },
+  "steps.14.title": {
+   "fr": "Servir brûlant",
+   "t": "Serve piping hot"
+  },
+  "steps.14.text": {
+   "fr": "Sers les rghayef bien chauds, avec un thé.",
+   "t": "Serve the rghayef piping hot, with tea."
+  },
+  "secrets.0.text": {
+   "fr": "Au Maroc, on appelle rghayef m'ammrin (« farcis ») les galettes feuilletées farcies : au khlii, à la viande hachée, aux légumes ou à la graisse épicée.",
+   "t": "In Morocco, filled flaky flatbreads are called rghayef m'ammrin (“stuffed”): with khlii, minced meat, vegetables or spiced fat."
+  },
+  "secrets.0.source": {
+   "fr": "Wikipédia (fr), « Msemen » ; Lalla Moulati (« رغايف معمرين ») ; Morocco World News 2013 (« Msemen Maamer »)",
+   "t": "Wikipedia (fr), “Msemen”; Lalla Moulati (“رغايف معمرين”); Morocco World News 2013 (“Msemen Maamer”)"
+  },
+  "secrets.1.text": {
+   "fr": "Farce bien froide : chaude, elle abîme la pâte et rend le pliage difficile.",
+   "t": "A thoroughly cold filling: if it is hot, it damages the dough and makes folding difficult."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Choumicha, Morocco World News et Cooking with Alia (farce refroidie avant de garnir)",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Choumicha, Morocco World News and Cooking with Alia (filling cooled before use)"
+  },
+  "secrets.2.text": {
+   "fr": "Farce bien sèche : laisse évaporer tout le liquide avant de couper le feu.",
+   "t": "A very dry filling: let all the liquid evaporate before turning off the heat."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha (« jusqu'à évaporation de l'eau de végétation ») ; My Moroccan Food (« until all liquids have evaporated »)",
+   "t": "Choumicha (“until the vegetables' water has evaporated”); My Moroccan Food (“until all liquids have evaporated”)"
+  },
+  "secrets.3.text": {
+   "fr": "Ne mets pas trop de farce et garde les bords libres, pour pouvoir bien fermer la galette.",
+   "t": "Don't use too much filling and keep the edges clear, so that you can close the flatbread properly."
+  },
+  "secrets.3.source": {
+   "fr": "My Moroccan Food ; Choumicha (1 c. à s. de farce au milieu de chaque r'ghifa)",
+   "t": "My Moroccan Food; Choumicha (1 tbsp of filling in the middle of each r'ghifa)"
+  },
+  "secrets.4.text": {
+   "fr": "Le dernier pli, sans farce, renforce la galette et l'empêche de s'ouvrir et de perdre sa farce à la cuisson.",
+   "t": "The last fold, with no filling, strengthens the flatbread and stops it from opening and losing its filling during cooking."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs ; Bladi.net (« tirer le quatrième bord pour renforcer la pâte fragile au niveau de la farce »)",
+   "t": "Choumicha, tips for successful r'ghaifs; Bladi.net (“pull the fourth edge to strengthen the dough where it is fragile over the filling”)"
+  },
+  "secrets.5.text": {
+   "fr": "Pétris bien la pâte et respecte le repos : elle devient élastique et malléable, donc plus facile à feuilleter.",
+   "t": "Knead the dough well and let it rest for the full time: it becomes elastic and pliable, so it is easier to layer."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs",
+   "t": "Choumicha, tips for successful r'ghaifs"
+  },
+  "secrets.6.text": {
+   "fr": "Huile les pâtons pour qu'ils ne forment pas de croûte.",
+   "t": "Oil the dough balls so that they don't form a crust."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha, conseils pour les r'ghaifs feuilletées",
+   "t": "Choumicha, tips for flaky r'ghaifs"
+  },
+  "secrets.7.text": {
+   "fr": "Le khlii, c'est du gueddid (viande séchée au soleil, le plus souvent de bœuf ou de chameau, parfois d'agneau ou de mouton) confit longuement dans du suif de bœuf et de l'huile d'olive ; au marché, il se vend dans un mélange de graisse et d'huile, ou dans l'huile d'olive seule. Une fois le pot ouvert, garde-le au réfrigérateur ou au congélateur.",
+   "t": "Khlii is gueddid (sun-dried meat, most often beef or camel, sometimes lamb or mutton) slowly cooked and preserved in beef suet and olive oil; at the market, it is sold in a mixture of fat and oil, or in olive oil alone. Once the jar is open, keep it in the fridge or freezer."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc, « Moroccan Preserved Meat – Khlii or Khlea »",
+   "t": "Taste of Maroc, “Moroccan Preserved Meat – Khlii or Khlea”"
+  },
+  "secrets.8.text": {
+   "fr": "La farce se prépare jusqu'à 2 jours à l'avance, au réfrigérateur.",
+   "t": "The filling can be made up to 2 days ahead and kept in the fridge."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; l'Anses recommande de consommer les plats cuisinés maison dans les 3 jours",
+   "t": "My Moroccan Food; Anses recommends eating home-cooked dishes within 3 days"
+  },
+  "secrets.9.text": {
+   "fr": "Pendant la cuisson, presse les bords avec une spatule pour qu'ils cuisent bien.",
+   "t": "During cooking, press the edges with a spatula so that they cook through."
+  },
+  "secrets.9.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Pour congeler les galettes : cuis-les à moitié, laisse-les refroidir et emballe-les une par une. Le jour venu, mets-les 15 minutes au réfrigérateur, puis finis la cuisson au four, jusqu'à ce qu'elles soient dorées et très chaudes.",
+   "t": "To freeze the flatbreads: half-cook them, leave them to cool and wrap them individually. On the day, put them in the fridge for 15 minutes, then finish cooking them in the oven until golden and very hot."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha, conseils pour réussir les r'ghaifs ; l'Anses admet de décongeler directement par la cuisson ou le réchauffage",
+   "t": "Choumicha, tips for successful r'ghaifs; Anses accepts thawing directly by cooking or reheating"
+  },
+  "secrets.11.text": {
+   "fr": "À Fès, Guinaudeau a vu porter les rghaif au four du quartier, comme le pain : épais d'environ un pouce, luisants de graisse et rougis au piment, mangés chauds avec le thé du matin.",
+   "t": "In Fez, Guinaudeau saw rghaif being taken to the neighbourhood oven, like bread: about an inch thick, glistening with fat and reddened with chilli, eaten hot with morning tea."
+  },
+  "secrets.11.source": {
+   "fr": "Z. Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez",
+   "t": "Z. Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez"
+  },
+  "mistakes.0": {
+   "fr": "Farcir avec une farce encore chaude : la pâte s'abîme (My Moroccan Food).",
+   "t": "Using the filling while it is still hot: the dough gets damaged (My Moroccan Food)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser du liquide dans la farce (Choumicha ; My Moroccan Food).",
+   "t": "Leaving liquid in the filling (Choumicha; My Moroccan Food)."
+  },
+  "mistakes.2": {
+   "fr": "Saler la farce sans goûter : le khlii est déjà assaisonné (Taste of Maroc, recette du khlii : sel, ail, cumin et coriandre dans la graisse).",
+   "t": "Salting the filling without tasting it: the khlii is already seasoned (Taste of Maroc, khlii recipe: salt, garlic, cumin and coriander in the fat)."
+  },
+  "mistakes.3": {
+   "fr": "Mettre trop de farce, ou jusqu'aux bords : elle doit rester enfermée dans la pâte (My Moroccan Food).",
+   "t": "Using too much filling, or spreading it right to the edges: it must stay sealed inside the dough (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Percer la pâte en aplatissant le carré : la farce s'échappe (My Moroccan Food : aplatir « sans casser la pâte »).",
+   "t": "Piercing the dough while flattening the square: the filling escapes (My Moroccan Food: flatten “without breaking the dough”)."
+  },
+  "mistakes.5": {
+   "fr": "Négliger le pétrissage ou le repos : la pâte manque d'élasticité et se feuillette mal (Choumicha).",
+   "t": "Skimping on the kneading or the resting: the dough lacks elasticity and does not layer well (Choumicha)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser la farce ou les galettes plus de 2 heures à température ambiante avant de les mettre au réfrigérateur (Anses).",
+   "t": "Leaving the filling or the flatbreads at room temperature for more than 2 hours before refrigerating them (Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Cuire sur un feu trop fort : la galette dore avant que la pâte ne cuise au centre (Taste of Maroc, pour les galettes feuilletées ; MarocMama ; Cooking with Alia : cuire jusqu'à ce que « le centre soit cuit »).",
+   "t": "Cooking over too high a heat: the flatbread browns before the dough is cooked in the centre (Taste of Maroc, for flaky flatbreads; MarocMama; Cooking with Alia: cook until “the centre is cooked”)."
+  },
+  "variants.0": {
+   "fr": "À la viande hachée (rghayef à la kefta) : fais revenir les oignons, puis ajoute la viande hachée halal, les herbes et les épices, et cuis la viande complètement avant de farcir (Choumicha, « R'ghaifs à la viande hachée et aux oignons » : 300 g de viande, 4 oignons, persil, coriandre, paprika, sel et poivre pour 500 g de pâte ; My Moroccan Food : 200 g de bœuf haché, 4 gros oignons et 4 poivrons pour 12 ; Morocco World News 2013 ; Cooking with Alia).",
+   "t": "With minced meat (kefta rghayef): fry the onions, then add the halal minced meat, herbs and spices, and cook the meat completely before filling (Choumicha, “R'ghaifs à la viande hachée et aux oignons”: 300 g of meat, 4 onions, parsley, coriander, paprika, salt and pepper for 500 g of dough; My Moroccan Food: 200 g of minced beef, 4 large onions and 4 peppers for 12; Morocco World News 2013; Cooking with Alia)."
+  },
+  "variants.1": {
+   "fr": "À la graisse de bœuf halal (chehma) au lieu du khlii : Bladi.net met « 1 verre de gras de bœuf ou de khlii », ajouté à l'oignon adouci et cuit 5 minutes en remuant, comme le khlii ici ; à Fès, Guinaudeau décrit une farce de graisse de mouton ou de bœuf hachée, relevée de piment rouge doux et fort, cuite juste assez pour que la graisse commence à fondre, mais ces rghaif cuisaient ensuite au four du quartier.",
+   "t": "With halal beef fat (chehma) instead of khlii: Bladi.net uses “1 glass of beef fat or khlii”, added to the softened onion and cooked for 5 minutes, stirring, like the khlii here; in Fez, Guinaudeau describes a filling of chopped mutton or beef fat, seasoned with sweet and hot red pepper, cooked just long enough for the fat to start melting, but those rghaif were then baked in the neighbourhood oven."
+  },
+  "variants.2": {
+   "fr": "Khlii étalé sur toute la feuille, puis pliée en carré comme un msemen : 1 c. à s. de khlii par galette et de la semoule mêlée d'un peu de levure chimique (Cooking with Alia, « Msemmen with Khlii »).",
+   "t": "Khlii spread over the whole sheet, which is then folded into a square like a msemen: 1 tbsp of khlii per flatbread and semolina mixed with a little baking powder (Cooking with Alia, “Msemmen with Khlii”)."
+  },
+  "variants.3": {
+   "fr": "Aux oignons et aux œufs : 6 oignons, persil, cannelle, gingembre, poivre, curcuma et 4 œufs brouillés dans la farce ; servis saupoudrés de sucre glace et de cannelle (Choumicha).",
+   "t": "With onions and eggs: 6 onions, parsley, cinnamon, ginger, pepper, turmeric and 4 scrambled eggs in the filling; served dusted with icing sugar and cinnamon (Choumicha)."
+  },
+  "variants.4": {
+   "fr": "Aux légumes et à l'agneau haché halal : poivrons, carottes et courgettes râpées, tomate, coriandre et épices, cuits jusqu'à évaporation de l'eau et jusqu'à ce que la viande soit bien cuite (Choumicha ; Anses). Choumicha propose aussi des r'ghaifs aux épinards et aux crevettes, ou aux épinards et aux fromages (fromage à coagulant microbien, sans présure animale, si tu veux être strict).",
+   "t": "With vegetables and halal minced lamb: peppers, grated carrots and courgettes, tomato, coriander and spices, cooked until the water has evaporated and the meat is thoroughly cooked (Choumicha; Anses). Choumicha also suggests r'ghaifs with spinach and prawns, or with spinach and cheeses (cheese made with microbial coagulant, without animal rennet, if you want to be strict)."
+  },
+  "variants.5": {
+   "fr": "Au four : sur une plaque tapissée de papier cuisson, dorés à l'œuf battu, à 180 °C jusqu'à ce qu'ils soient dorés (Choumicha), ou 18 à 20 minutes à 200 °C (My Moroccan Food) ; badigeonne-les d'huile en cours de cuisson pour la couleur et le croustillant (Choumicha).",
+   "t": "In the oven: on a baking tray lined with baking paper, glazed with beaten egg, at 180 °C until golden (Choumicha), or 18 to 20 minutes at 200 °C (My Moroccan Food); brush them with oil during baking for colour and crispness (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "Sucrés : r'ghaifs farcis d'amandes, de sucre et de cannelle, frits puis trempés dans le miel et parsemés de sésame, pour le ramadan et l'Aïd el-Fitr (Choumicha) ; Lalla Moulati publie aussi des « رغايف معسلة » (rghayef au miel) pour le ramadan, et des rghayef de Meknès aux amandes parmi les gâteaux de l'Aïd.",
+   "t": "Sweet: r'ghaifs filled with almonds, sugar and cinnamon, fried, then dipped in honey and sprinkled with sesame seeds, for Ramadan and Eid al-Fitr (Choumicha); Lalla Moulati also publishes “رغايف معسلة” (honey rghayef) for Ramadan, and Meknes-style almond rghayef among the Eid pastries."
+  }
+ }
+}

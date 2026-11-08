@@ -116,15 +116,7 @@ window.RECETTES.push({
    "title": "Cisèle les herbes",
    "text": "Cisèle finement le {{persil}}, la {{ciboulette}} et, si tu en as, le {{cerfeuil}} et l'{{estragon}}, avec un couteau bien aiguisé.",
    "timer": null,
-   "tip": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon).",
-   "img": {
-    "src": "img/etapes/hacher-persil.jpg",
-    "alt": "Persil haché au couteau sur une planche",
-    "caption": "Hacher les herbes",
-    "w": 803,
-    "h": 1000,
-    "credit": "Photo de l'étape « Cisèle les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
-   }
+   "tip": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon)."
   },
   {
    "phase": "Préparation",

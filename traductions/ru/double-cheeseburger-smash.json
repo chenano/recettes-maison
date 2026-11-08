@@ -1,0 +1,698 @@
+{
+ "_slug": "double-cheeseburger-smash",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Double cheeseburger smash",
+   "t": "Двойной смэш-чизбургер"
+  },
+  "tagline": {
+   "fr": "Des boules de bœuf écrasées très fines dans une poêle brûlante : une croûte bien grillée, du cheddar fondu, un pain moelleux. La vraie recette américaine, en version halal.",
+   "t": "Шарики говяжьего фарша, очень тонко расплющенные на раскалённой сковороде: хорошо поджаристая корочка, расплавленный чеддер, мягкая булочка. Настоящий американский рецепт в халяльной версии."
+  },
+  "region": {
+   "fr": "États-Unis",
+   "t": "США"
+  },
+  "occasion": {
+   "fr": "Repas rapide, entre amis",
+   "t": "Быстрая еда в кругу друзей"
+  },
+  "serving": {
+   "fr": "Tout de suite, dès que le burger est monté.",
+   "t": "Сразу же, как только бургер собран."
+  },
+  "notes.0.title": {
+   "fr": "La règle d'or",
+   "t": "Золотое правило"
+  },
+  "notes.0.text": {
+   "fr": "Du bœuf, du sel, du poivre. Pas d'œuf, pas de chapelure, pas d'oignon ni d'épices dans la viande : sinon c'est une kefta, pas un burger.",
+   "t": "Говядина, соль, перец. Никаких яиц, панировочных сухарей, лука или специй в мясе: иначе получится кефта, а не бургер."
+  },
+  "notes.1.title": {
+   "fr": "Chez le boucher (halal)",
+   "t": "У мясника (халяль)"
+  },
+  "notes.1.items.0": {
+   "fr": "Demande du paleron ou de la basse côte, hachés devant toi le jour même.",
+   "t": "Попросите лопаточную или подлопаточную часть (paleron или basse côte), прокрученную при вас в тот же день."
+  },
+  "notes.1.items.1": {
+   "fr": "Nature : sans oignon, sans persil, sans épices.",
+   "t": "Без добавок: без лука, без петрушки, без специй."
+  },
+  "notes.1.items.2": {
+   "fr": "Environ 20 % de gras. Si le morceau est trop maigre, demande-lui d'ajouter du gras de bœuf (chehma) : c'est ce gras qui rend le burger juteux.",
+   "t": "Около 20 % жира. Если кусок слишком постный, попросите мясника добавить говяжий жир (шехма): именно этот жир делает бургер сочным."
+  },
+  "notes.1.items.3": {
+   "fr": "Pas de bacon : le cheeseburger classique n'en a pas besoin.",
+   "t": "Без бекона: классическому чизбургеру он не нужен."
+  },
+  "notes.1.items.4": {
+   "fr": "Si tu veux être strict : fromage avec mention halal ou « coagulant microbien » (pas de présure animale), et pain sans alcool dans la liste des ingrédients.",
+   "t": "Если хотите строго: сыр с пометкой «халяль» или «микробный коагулянт» (не животный сычужный фермент) и булочки без спирта в составе."
+  },
+  "notes.2.title": {
+   "fr": "Le montage, de bas en haut",
+   "t": "Сборка снизу вверх"
+  },
+  "notes.2.items.0": {
+   "fr": "Pain du bas, face grillée, avec 1 c. à soupe de sauce.",
+   "t": "Нижняя половинка булочки: на поджаренную сторону — 1 ст. л. соуса."
+  },
+  "notes.2.items.1": {
+   "fr": "1 feuille de salade pliée.",
+   "t": "1 сложенный лист салата."
+  },
+  "notes.2.items.2": {
+   "fr": "1 tranche de tomate de 5 mm.",
+   "t": "1 ломтик помидора толщиной 5 мм."
+  },
+  "notes.2.items.3": {
+   "fr": "Le premier steak avec son cheddar, puis le deuxième.",
+   "t": "Первая котлета с чеддером, затем вторая."
+  },
+  "notes.2.items.4": {
+   "fr": "2 rondelles fines d'oignon.",
+   "t": "2 тонких кружка лука."
+  },
+  "notes.2.items.5": {
+   "fr": "4 lamelles de cornichon.",
+   "t": "4 ломтика корнишона."
+  },
+  "notes.2.items.6": {
+   "fr": "Pain du haut, face grillée, avec 1 c. à soupe de sauce.",
+   "t": "Верхняя половинка булочки: на поджаренную сторону — 1 ст. л. соуса."
+  },
+  "ing.0.group": {
+   "fr": "Viande",
+   "t": "Мясо"
+  },
+  "ing.boeuf.name": {
+   "fr": "de bœuf haché, environ 20 % de gras",
+   "t": "говяжьего фарша жирностью около 20 %"
+  },
+  "ing.boeuf.note": {
+   "fr": "2 boules de 80 g par burger",
+   "t": "2 шарика по 80 г на бургер"
+  },
+  "ing.1.group": {
+   "fr": "Pain et fromage",
+   "t": "Булочки и сыр"
+  },
+  "ing.pains.name": {
+   "fr": "pain à burger moelleux au sésame (ou brioché)",
+   "t": "мягкая булочка для бургера с кунжутом (или сдобная)"
+  },
+  "ing.pains.pl": {
+   "fr": "pains à burger moelleux au sésame (ou briochés)",
+   "t": "мягкие булочки для бургера с кунжутом (или сдобные)"
+  },
+  "ing.pains.pl5": {
+   "fr": "pain à burger moelleux au sésame (ou brioché) / pains à burger moelleux au sésame (ou briochés)",
+   "t": "мягких булочек для бургера с кунжутом (или сдобных)"
+  },
+  "ing.cheddar.name": {
+   "fr": "tranche de cheddar spécial burger (celui qui fond bien)",
+   "t": "ломтик чеддера для бургеров (который хорошо плавится)"
+  },
+  "ing.cheddar.pl": {
+   "fr": "tranches de cheddar spécial burger (celui qui fond bien)",
+   "t": "ломтика чеддера для бургеров (который хорошо плавится)"
+  },
+  "ing.cheddar.pl5": {
+   "fr": "tranche de cheddar spécial burger (celui qui fond bien) / tranches de cheddar spécial burger (celui qui fond bien)",
+   "t": "ломтиков чеддера для бургеров (который хорошо плавится)"
+  },
+  "ing.2.group": {
+   "fr": "Légumes",
+   "t": "Овощи"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon blanc",
+   "t": "белая луковица"
+  },
+  "ing.oignon.note": {
+   "fr": "2 rondelles fines par burger",
+   "t": "2 тонких кружка на бургер"
+  },
+  "ing.salade.name": {
+   "fr": "laitue iceberg, ou romaine",
+   "t": "кочан салата айсберг или ромэн"
+  },
+  "ing.salade.note": {
+   "fr": "1 feuille par burger",
+   "t": "1 лист на бургер"
+  },
+  "ing.tomate.name": {
+   "fr": "tomate ronde, mûre mais bien ferme",
+   "t": "круглый помидор, спелый, но плотный"
+  },
+  "ing.tomate.pl": {
+   "fr": "tomates rondes, mûres mais bien fermes",
+   "t": "круглых помидора, спелых, но плотных"
+  },
+  "ing.tomate.pl5": {
+   "fr": "tomate ronde, mûre mais bien ferme / tomates rondes, mûres mais bien fermes",
+   "t": "круглых помидоров, спелых, но плотных"
+  },
+  "ing.tomate.note": {
+   "fr": "1 tranche par burger, 2 bonnes tranches par tomate",
+   "t": "1 ломтик на бургер, 2 хороших ломтика из одного помидора"
+  },
+  "ing.cornichons.name": {
+   "fr": "bocal de cornichons",
+   "t": "банка корнишонов"
+  },
+  "ing.cornichons.note": {
+   "fr": "pour la sauce et la garniture",
+   "t": "для соуса и начинки"
+  },
+  "ing.3.group": {
+   "fr": "Sauce",
+   "t": "Соус"
+  },
+  "ing.mayo.name": {
+   "fr": "de mayonnaise",
+   "t": "майонеза"
+  },
+  "ing.ketchup.name": {
+   "fr": "de ketchup",
+   "t": "кетчупа"
+  },
+  "ing.moutarde.name": {
+   "fr": "de moutarde",
+   "t": "горчицы"
+  },
+  "ing.corn-haches.name": {
+   "fr": "de cornichons hachés très fin",
+   "t": "очень мелко порубленных корнишонов"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.4.group": {
+   "fr": "Le reste",
+   "t": "Остальное"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, pour les pains",
+   "t": "сливочного масла для булочек"
+  },
+  "ing.huile.name": {
+   "fr": "Un filet d'huile neutre (tournesol)",
+   "t": "Немного растительного масла (подсолнечного)"
+  },
+  "ing.sel-poivre.name": {
+   "fr": "Sel fin et poivre noir du moulin",
+   "t": "Мелкая соль и свежемолотый чёрный перец"
+  },
+  "equipment.0": {
+   "fr": "Une poêle épaisse en fonte ou en inox, ou une plancha. Pas d'antiadhésif : il n'est pas fait pour le feu vif.",
+   "t": "Толстостенная чугунная сковорода или сковорода из нержавеющей стали, либо планча. Без антипригарного покрытия: оно не рассчитано на сильный огонь."
+  },
+  "equipment.1": {
+   "fr": "Une spatule en métal, large et rigide.",
+   "t": "Широкая жёсткая металлическая лопатка."
+  },
+  "equipment.2": {
+   "fr": "Du papier cuisson, en carrés d'environ 20 cm.",
+   "t": "Пекарская бумага, нарезанная квадратами примерно 20 см."
+  },
+  "equipment.3": {
+   "fr": "Une balance de cuisine.",
+   "t": "Кухонные весы."
+  },
+  "equipment.4": {
+   "fr": "Une planche et un couteau bien aiguisé.",
+   "t": "Разделочная доска и хорошо заточенный нож."
+  },
+  "equipment.5": {
+   "fr": "Un bol, une cuillère à soupe et une cuillère à café.",
+   "t": "Миска, столовая ложка и чайная ложка."
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant.",
+   "t": "Бумажные полотенца."
+  },
+  "steps.0.title": {
+   "fr": "La sauce",
+   "t": "Приготовьте соус"
+  },
+  "steps.0.text.0": {
+   "fr": "Hache des cornichons très fin, en dés de 2 à 3 mm, jusqu'à en avoir {{corn-haches}}.",
+   "t": "Очень мелко порубите корнишоны кубиками 2–3 мм, чтобы получилось {{corn-haches}}."
+  },
+  "steps.0.text.1": {
+   "fr": "Mets dans un bol {{mayo}} de mayonnaise, {{ketchup}} de ketchup, {{moutarde}} de moutarde, les cornichons hachés et {{paprika}} de paprika doux.",
+   "t": "Положите в миску {{mayo}} майонеза, {{ketchup}} кетчупа, {{moutarde}} горчицы, рубленые корнишоны и {{paprika}} сладкой паприки."
+  },
+  "steps.0.text.2": {
+   "fr": "Mélange jusqu'à ce que la couleur soit uniforme, sans traces blanches ni rouges.",
+   "t": "Перемешайте до однородного цвета, без белых и красных разводов."
+  },
+  "steps.0.text.3": {
+   "fr": "Couvre et mets au frigo : elle repose pendant que tu prépares le reste.",
+   "t": "Накройте и уберите в холодильник: пусть соус постоит, пока вы готовите остальное."
+  },
+  "steps.0.tip.l": {
+   "fr": "Bon à savoir",
+   "t": "Полезно знать"
+  },
+  "steps.0.tip.t": {
+   "fr": "Toutes les cuillères sont rases. Version express : ketchup et moutarde, le duo classique.",
+   "t": "Все ложки — без горки. Экспресс-вариант: кетчуп и горчица, классический дуэт."
+  },
+  "steps.1.title": {
+   "fr": "L'oignon",
+   "t": "Подготовьте лук"
+  },
+  "steps.1.text.0": {
+   "fr": "Épluche l'oignon blanc et coupe 2 rondelles très fines (2 mm) par burger, au milieu de l'oignon, là où elles sont les plus larges.",
+   "t": "Очистите белую луковицу и нарежьте по 2 очень тонких кружка (2 мм) на бургер из середины луковицы, где кружки самые широкие."
+  },
+  "steps.1.text.1": {
+   "fr": "Sépare chaque rondelle en anneaux.",
+   "t": "Разберите каждый кружок на кольца."
+  },
+  "steps.1.text.2": {
+   "fr": "Trop fort pour toi ? Laisse les anneaux 10 min dans un bol d'eau froide, puis sèche-les bien dans du papier absorbant.",
+   "t": "Слишком острый для вас? Подержите кольца 10 мин в миске с холодной водой, затем хорошо обсушите бумажными полотенцами."
+  },
+  "steps.1.text.3": {
+   "fr": "Garde le reste de l'oignon pour une autre recette.",
+   "t": "Остаток луковицы сохраните для другого рецепта."
+  },
+  "steps.1.timer.label": {
+   "fr": "Trempage de l'oignon",
+   "t": "Лук в воде"
+  },
+  "steps.1.timer.done": {
+   "fr": "Égoutte l'oignon et sèche-le bien.",
+   "t": "Слейте воду с лука и хорошо его обсушите."
+  },
+  "steps.2.title": {
+   "fr": "La salade",
+   "t": "Подготовьте салат"
+  },
+  "steps.2.text.0": {
+   "fr": "Détache 1 feuille d'iceberg (ou de romaine) par burger.",
+   "t": "Отделите по 1 листу айсберга (или ромэна) на бургер."
+  },
+  "steps.2.text.1": {
+   "fr": "Lave-les, puis sèche-les à fond avec du papier absorbant : une salade mouillée ramollit le pain.",
+   "t": "Вымойте листья, затем тщательно обсушите их бумажными полотенцами: от мокрого салата булочка размокает."
+  },
+  "steps.2.text.2": {
+   "fr": "Plie chaque feuille à la taille du pain et garde-les au frais.",
+   "t": "Сложите каждый лист по размеру булочки и держите листья в прохладе."
+  },
+  "steps.3.title": {
+   "fr": "La tomate",
+   "t": "Нарежьте помидор"
+  },
+  "steps.3.text.0": {
+   "fr": "Prends {{tomate:full}}.",
+   "t": "Возьмите {{tomate:full}}."
+  },
+  "steps.3.text.1": {
+   "fr": "Coupe 1 tranche d'environ 5 mm par burger, au milieu de la tomate, là où les tranches sont les plus larges (2 bonnes tranches par tomate).",
+   "t": "Нарежьте по 1 ломтику толщиной около 5 мм на бургер из середины помидора, где ломтики самые широкие (2 хороших ломтика из одного помидора)."
+  },
+  "steps.3.text.2": {
+   "fr": "Garde le reste pour une salade.",
+   "t": "Остаток сохраните для салата."
+  },
+  "steps.4.title": {
+   "fr": "Les cornichons",
+   "t": "Нарежьте корнишоны"
+  },
+  "steps.4.text.0": {
+   "fr": "Coupe 4 fines lamelles dans la longueur par burger, soit 1 à 2 cornichons selon leur taille.",
+   "t": "Нарежьте вдоль по 4 тонких ломтика на бургер, то есть 1–2 корнишона в зависимости от размера."
+  },
+  "steps.4.text.1": {
+   "fr": "Tu peux aussi les couper en rondelles.",
+   "t": "Можно также нарезать их кружками."
+  },
+  "steps.4.text.2": {
+   "fr": "Pose-les sur du papier absorbant.",
+   "t": "Выложите их на бумажное полотенце."
+  },
+  "steps.5.title": {
+   "fr": "Les boules de viande",
+   "t": "Сформируйте шарики из мяса"
+  },
+  "steps.5.text.0": {
+   "fr": "Pèse des boules de 80 g, 2 par burger, soit {{boeuf}} en tout. Sans balance, coupe la viande en parts égales.",
+   "t": "Отвесьте шарики по 80 г, по 2 на бургер, то есть всего {{boeuf}}. Если весов нет, разделите мясо на равные части."
+  },
+  "steps.5.text.1": {
+   "fr": "Roule-les sans tasser, juste assez pour qu'elles tiennent.",
+   "t": "Скатайте их, не уплотняя, ровно настолько, чтобы они держали форму."
+  },
+  "steps.5.text.2": {
+   "fr": "Pas de sel, pas d'épices.",
+   "t": "Без соли и без специй."
+  },
+  "steps.5.text.3": {
+   "fr": "Pose-les sur une assiette et garde-les au frigo jusqu'au moment de cuire.",
+   "t": "Выложите шарики на тарелку и держите в холодильнике до самой жарки."
+  },
+  "steps.5.text.4": {
+   "fr": "Lave-toi les mains.",
+   "t": "Вымойте руки."
+  },
+  "steps.6.title": {
+   "fr": "Le poste de cuisson",
+   "t": "Подготовьте место у плиты"
+  },
+  "steps.6.text.0": {
+   "fr": "À côté de la poêle : le sel fin, le poivre, la spatule et des carrés de papier cuisson.",
+   "t": "Рядом со сковородой: мелкая соль, перец, лопатка и квадраты пекарской бумаги."
+  },
+  "steps.6.text.1": {
+   "fr": "Sors les tranches de cheddar de leur emballage ({{cheddar}}).",
+   "t": "Выньте ломтики чеддера из упаковки ({{cheddar}} шт.)."
+  },
+  "steps.6.text.2": {
+   "fr": "Ouvre les pains en deux.",
+   "t": "Разрежьте булочки пополам."
+  },
+  "steps.6.text.3": {
+   "fr": "Garde à portée de main la sauce, la salade, la tomate, l'oignon et les cornichons.",
+   "t": "Держите под рукой соус, салат, помидор, лук и корнишоны."
+  },
+  "steps.6.tip.l": {
+   "fr": "Pourquoi ?",
+   "t": "Зачем?"
+  },
+  "steps.6.tip.t": {
+   "fr": "Une fournée ne dure que 3 à 4 minutes : tout doit être prêt avant d'allumer le feu.",
+   "t": "Одна партия жарится всего 3–4 минуты: всё должно быть готово до того, как вы включите огонь."
+  },
+  "steps.7.title": {
+   "fr": "Toaster les pains",
+   "t": "Подрумяньте булочки"
+  },
+  "steps.7.dur": {
+   "fr": "1 min",
+   "t": "1 мин"
+  },
+  "steps.7.text.0": {
+   "fr": "Poêle à feu moyen.",
+   "t": "Сковорода на среднем огне."
+  },
+  "steps.7.text.1": {
+   "fr": "Étale {{beurre}} de beurre sur les faces coupées (5 g par pain).",
+   "t": "Намажьте срезы булочек сливочным маслом: всего {{beurre}}, по 5 г на булочку."
+  },
+  "steps.7.text.2": {
+   "fr": "Pose les moitiés face coupée contre la poêle pendant environ 1 min, jusqu'à ce qu'elles soient dorées.",
+   "t": "Положите половинки срезом на сковороду примерно на 1 мин, пока они не зарумянятся."
+  },
+  "steps.7.text.3": {
+   "fr": "Réserve-les face grillée vers le haut.",
+   "t": "Отложите их поджаренной стороной вверх."
+  },
+  "steps.7.text.4": {
+   "fr": "Essuie la poêle avec du papier absorbant bien plié, car elle est chaude : à feu vif, le beurre brûlerait.",
+   "t": "Протрите сковороду бумажным полотенцем, сложенным в несколько слоёв, ведь она горячая: на сильном огне масло сгорело бы."
+  },
+  "steps.7.timer.label": {
+   "fr": "Pains",
+   "t": "Булочки"
+  },
+  "steps.7.timer.done": {
+   "fr": "Faces dorées ? Retire les pains.",
+   "t": "Срезы зарумянились? Снимите булочки."
+  },
+  "steps.8.title": {
+   "fr": "Garnir les pains",
+   "t": "Выложите начинку на булочки"
+  },
+  "steps.8.text.0": {
+   "fr": "Sur chaque pain du bas : 1 c. à soupe de sauce étalée jusqu'aux bords, 1 feuille de salade, puis 1 tranche de tomate.",
+   "t": "На каждую нижнюю половинку: 1 ст. л. соуса, размазанного до краёв, 1 лист салата, затем 1 ломтик помидора."
+  },
+  "steps.8.text.1": {
+   "fr": "Sur chaque pain du haut : 1 c. à soupe de sauce.",
+   "t": "На каждую верхнюю половинку: 1 ст. л. соуса."
+  },
+  "steps.8.text.2": {
+   "fr": "Les steaks iront directement dessus en sortant de la poêle.",
+   "t": "Котлеты положите на них сразу со сковороды."
+  },
+  "steps.8.tip.l": {
+   "fr": "Bon à savoir",
+   "t": "Полезно знать"
+  },
+  "steps.8.tip.t": {
+   "fr": "Il restera un petit fond de sauce, c'est normal.",
+   "t": "На дне миски останется немного соуса — это нормально."
+  },
+  "steps.9.title": {
+   "fr": "Chauffer la poêle",
+   "t": "Раскалите сковороду"
+  },
+  "steps.9.dur": {
+   "fr": "3 à 4 min",
+   "t": "3–4 мин"
+  },
+  "steps.9.text.0": {
+   "fr": "Feu vif, poêle vide, pendant 3 à 4 min.",
+   "t": "Сильный огонь, пустая сковорода, 3–4 мин."
+  },
+  "steps.9.text.1": {
+   "fr": "Allume la hotte ou ouvre la fenêtre : ça va fumer.",
+   "t": "Включите вытяжку или откройте окно: будет дым."
+  },
+  "steps.9.text.2": {
+   "fr": "Juste avant de poser la viande, ajoute un filet d'huile neutre.",
+   "t": "Прямо перед тем, как класть мясо, налейте немного растительного масла."
+  },
+  "steps.9.text.3": {
+   "fr": "C'est prêt quand l'huile ondule et fume légèrement.",
+   "t": "Готово, когда масло идёт волнами и слегка дымится."
+  },
+  "steps.9.tip.l": {
+   "fr": "Attention",
+   "t": "Внимание"
+  },
+  "steps.9.tip.t": {
+   "fr": "Pas de poêle antiadhésive : elle n'est pas faite pour le feu vif.",
+   "t": "Не берите сковороду с антипригарным покрытием: она не рассчитана на сильный огонь."
+  },
+  "steps.9.timer.label": {
+   "fr": "Préchauffage",
+   "t": "Разогрев"
+  },
+  "steps.9.timer.done": {
+   "fr": "La poêle est très chaude : ajoute l'huile.",
+   "t": "Сковорода раскалилась: налейте масло."
+  },
+  "steps.10.title": {
+   "fr": "Écraser",
+   "t": "Расплющьте шарики"
+  },
+  "steps.10.text.0": {
+   "fr": "Sors du frigo les boules que tu vas cuire.",
+   "t": "Достаньте из холодильника шарики, которые будете жарить."
+  },
+  "steps.10.text.1": {
+   "fr": "Pose 1 ou 2 boules dans la poêle, bien espacées. Une fois écrasé, chaque steak fait 13 à 14 cm de large : ils ne doivent pas se toucher. Sur une plancha, tu peux en faire plus.",
+   "t": "Положите на сковороду 1 или 2 шарика на хорошем расстоянии друг от друга. Расплющенная котлета имеет ширину 13–14 см: котлеты не должны касаться друг друга. На планче можно жарить больше."
+  },
+  "steps.10.text.2": {
+   "fr": "Pose un carré de papier cuisson sur la boule et écrase fort avec la spatule, tout de suite. Appuie avec l'autre main sur la spatule, ou avec le fond d'une casserole.",
+   "t": "Сразу же положите на шарик квадрат пекарской бумаги и сильно прижмите лопаткой. Надавите на лопатку другой рукой или дном кастрюли."
+  },
+  "steps.10.text.3": {
+   "fr": "Vise environ 0,5 cm d'épaisseur, un peu plus large que le pain : le steak rétrécit à la cuisson.",
+   "t": "Цель — толщина около 0,5 см и ширина чуть больше булочки: при жарке котлета уменьшается."
+  },
+  "steps.10.text.4": {
+   "fr": "Retire le papier. Ensuite, on n'appuie plus jamais.",
+   "t": "Снимите бумагу. После этого больше никогда не надавливайте."
+  },
+  "steps.10.tip.l": {
+   "fr": "Pourquoi une seule fois ?",
+   "t": "Почему только один раз?"
+  },
+  "steps.10.tip.t": {
+   "fr": "Si tu appuies plus tard, le jus sort du steak.",
+   "t": "Если надавить позже, из котлеты вытечет сок."
+  },
+  "steps.11.title": {
+   "fr": "Saler et poivrer",
+   "t": "Посолите и поперчите"
+  },
+  "steps.11.text.0": {
+   "fr": "Tout de suite après avoir écrasé : une bonne pincée de sel fin, lâchée d'une vingtaine de centimètres de haut pour couvrir jusqu'aux bords.",
+   "t": "Сразу после того, как расплющили: хорошая щепотка мелкой соли, брошенная с высоты сантиметров двадцати, чтобы покрыть котлету до краёв."
+  },
+  "steps.11.text.1": {
+   "fr": "Puis 1 ou 2 tours de moulin à poivre.",
+   "t": "Затем 1 или 2 оборота перечной мельницы."
+  },
+  "steps.11.text.2": {
+   "fr": "Une seule face suffit : le steak est très fin.",
+   "t": "Достаточно одной стороны: котлета очень тонкая."
+  },
+  "steps.11.text.3": {
+   "fr": "Si tu cuis en plusieurs fournées, assaisonne chaque steak au moment où tu l'écrases.",
+   "t": "Если жарите в несколько партий, приправляйте каждую котлету в тот момент, когда расплющиваете её."
+  },
+  "steps.11.tip.l": {
+   "fr": "Pourquoi pas avant ?",
+   "t": "Почему не раньше?"
+  },
+  "steps.11.tip.t": {
+   "fr": "Le sel mélangé à la viande crue dissout certaines protéines, qui se collent entre elles : le steak devient serré et élastique comme une saucisse.",
+   "t": "Соль, смешанная с сырым мясом, растворяет часть белков, и они склеиваются между собой: котлета становится плотной и упругой, как сосиска."
+  },
+  "steps.12.title": {
+   "fr": "Cuire la première face",
+   "t": "Обжарьте первую сторону"
+  },
+  "steps.12.dur": {
+   "fr": "2 min",
+   "t": "2 мин"
+  },
+  "steps.12.text.0": {
+   "fr": "Ne touche à rien pendant environ 2 min.",
+   "t": "Ничего не трогайте примерно 2 мин."
+  },
+  "steps.12.text.1": {
+   "fr": "C'est prêt à retourner quand les bords sont brun foncé et croustillants, et que le dessus devient gris sur le pourtour.",
+   "t": "Котлету пора переворачивать, когда края стали тёмно-коричневыми и хрустящими, а верх по краю посерел."
+  },
+  "steps.12.timer.label": {
+   "fr": "Première face",
+   "t": "Первая сторона"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bords bien bruns ? Retourne les steaks.",
+   "t": "Края хорошо подрумянились? Переверните котлеты."
+  },
+  "steps.13.title": {
+   "fr": "Retourner et ajouter le cheddar",
+   "t": "Переверните и добавьте чеддер"
+  },
+  "steps.13.dur": {
+   "fr": "30 s à 1 min",
+   "t": "30 с – 1 мин"
+  },
+  "steps.13.text.0": {
+   "fr": "Glisse la spatule sous le steak en raclant fort le fond de la poêle : la croûte doit rester collée au steak.",
+   "t": "Подведите лопатку под котлету, с силой проводя ею по дну сковороды: корочка должна остаться на котлете."
+  },
+  "steps.13.text.1": {
+   "fr": "Retourne-le.",
+   "t": "Переверните котлету."
+  },
+  "steps.13.text.2": {
+   "fr": "Tu l'aimes plus salé ? Mets une petite pincée de sel sur cette face.",
+   "t": "Любите посолонее? Посыпьте эту сторону маленькой щепоткой соли."
+  },
+  "steps.13.text.3": {
+   "fr": "Pose tout de suite 1 tranche de cheddar sur chaque steak.",
+   "t": "Сразу положите на каждую котлету по 1 ломтику чеддера."
+  },
+  "steps.13.text.4": {
+   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur.",
+   "t": "Подержите от 30 с до 1 мин, пока сыр не расплавится. При такой толщине котлета прожаривается насквозь."
+  },
+  "steps.13.timer.label": {
+   "fr": "Fromage",
+   "t": "Сыр"
+  },
+  "steps.13.timer.done": {
+   "fr": "Le fromage a fondu ? Sors les steaks.",
+   "t": "Сыр расплавился? Снимайте котлеты."
+  },
+  "steps.14.title": {
+   "fr": "Monter le burger",
+   "t": "Соберите бургер"
+  },
+  "steps.14.text.0": {
+   "fr": "Pose le premier steak-fromage sur un pain du bas garni, puis le deuxième par-dessus.",
+   "t": "Положите первую котлету с сыром на подготовленную нижнюю половинку, а сверху — вторую."
+  },
+  "steps.14.text.1": {
+   "fr": "Ajoute 2 rondelles d'oignon, puis 4 lamelles de cornichon.",
+   "t": "Добавьте 2 кружка лука, затем 4 ломтика корнишона."
+  },
+  "steps.14.text.2": {
+   "fr": "Ferme avec le pain du haut, face sauce vers le bas.",
+   "t": "Накройте верхней половинкой, соусом вниз."
+  },
+  "steps.14.text.3": {
+   "fr": "Mange tout de suite.",
+   "t": "Ешьте сразу."
+  },
+  "steps.15.title": {
+   "fr": "Fournée suivante",
+   "t": "Пожарьте следующую партию"
+  },
+  "steps.15.text.0": {
+   "fr": "S'il reste des boules : racle la poêle avec la spatule pour enlever les restes collés, sinon ils brûlent.",
+   "t": "Если шарики ещё остались: очистите сковороду лопаткой от прилипших остатков, иначе они сгорят."
+  },
+  "steps.15.text.1": {
+   "fr": "Remets un filet d'huile et attends qu'elle fume légèrement.",
+   "t": "Снова налейте немного масла и подождите, пока оно слегка задымится."
+  },
+  "steps.15.text.2": {
+   "fr": "Reprends à l'étape « Écraser », jusqu'à ce que tous les steaks soient cuits.",
+   "t": "Вернитесь к шагу «Расплющьте шарики» и повторяйте, пока не пожарите все котлеты."
+  },
+  "secrets.0.text": {
+   "fr": "On n'écrase qu'une fois, tout de suite après avoir posé la boule : après, le jus s'en va.",
+   "t": "Расплющивают только один раз, сразу после того, как положили шарик: потом сок вытекает."
+  },
+  "secrets.1.text": {
+   "fr": "On sale seulement le dessus, juste après avoir écrasé, jamais la viande crue à l'avance.",
+   "t": "Солят только верх, сразу после того, как расплющили, и никогда не солят сырое мясо заранее."
+  },
+  "secrets.2.text": {
+   "fr": "Une poêle en fonte très chaude, sans antiadhésif : c'est la croûte qui fait le goût.",
+   "t": "Очень горячая чугунная сковорода без антипригарного покрытия: вкус создаёт корочка."
+  },
+  "secrets.3.text": {
+   "fr": "On racle fort sous le steak au moment de le retourner, pour garder toute la croûte.",
+   "t": "Переворачивая котлету, с силой проводите лопаткой по дну сковороды, чтобы сохранить всю корочку."
+  },
+  "secrets.4.text": {
+   "fr": "Le gras du bœuf (environ 20 %) fait le burger juteux : demande-le à ton boucher.",
+   "t": "Говяжий жир (около 20 %) делает бургер сочным: попросите его у мясника."
+  },
+  "mistakes.0": {
+   "fr": "Saler la viande à l'avance : elle devient élastique comme une saucisse.",
+   "t": "Солить мясо заранее: оно становится упругим, как сосиска."
+  },
+  "mistakes.1": {
+   "fr": "Appuyer encore sur le steak : on n'écrase qu'une fois, au début, sinon le jus s'en va.",
+   "t": "Снова надавливать на котлету: расплющивают только один раз, в начале, иначе сок вытекает."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop de steaks à la fois : la poêle refroidit et la viande bout au lieu de griller.",
+   "t": "Класть слишком много котлет сразу: сковорода остывает, и мясо варится в собственном соку вместо того, чтобы жариться."
+  },
+  "mistakes.3": {
+   "fr": "Une poêle pas assez chaude : pas de croûte.",
+   "t": "Недостаточно горячая сковорода: корочки нет."
+  },
+  "mistakes.4": {
+   "fr": "Une salade mal séchée : le pain devient mou.",
+   "t": "Плохо обсушенный салат: булочка размокает."
+  },
+  "mistakes.5": {
+   "fr": "Attendre avant de manger : un smash burger se mange tout de suite.",
+   "t": "Откладывать еду: смэш-бургер едят сразу."
+  }
+ }
+}

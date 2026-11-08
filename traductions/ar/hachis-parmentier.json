@@ -1,0 +1,530 @@
+{
+ "_slug": "hachis-parmentier",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Hachis parmentier",
+   "t": "هاشي بارمنتييه (طبق البطاطس باللحم المفروم)"
+  },
+  "tagline": {
+   "fr": "Du bœuf haché bien cuit avec de l'oignon, sous une purée maison dorée au four : le grand plat familial français, sans vin.",
+   "t": "لحم بقر مفروم مطهو جيدًا مع البصل، تحت بطاطس مهروسة منزلية محمّرة في الفرن: الطبق العائلي الفرنسي الكبير، دون نبيذ."
+  },
+  "region": {
+   "fr": "France. Plat parisien selon Wikipédia (d'après le journaliste Frédéric Zégierman), nommé en l'honneur d'Antoine-Augustin Parmentier (1737-1813), qui a popularisé la pomme de terre en France. Ses cousins : le cottage pie britannique et le pâté chinois québécois (Wikipédia).",
+   "t": "فرنسا. طبق باريسي حسب Wikipédia (نقلًا عن الصحفي Frédéric Zégierman)، سُمّي تكريمًا لـ Antoine-Augustin Parmentier (1737-1813)، الذي جعل البطاطس شائعة في فرنسا. أقرباؤه: الكوتيج باي البريطاني والباتيه الصيني الكيبيكي (Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Plat familial, réconfortant et économique. C'est aussi le plat français classique pour utiliser des restes de viande, comme le pot-au-feu ou le rôti (Wikipédia, Chef Simon).",
+   "t": "طبق عائلي اقتصادي يبعث الدفء. وهو أيضًا الطبق الفرنسي الكلاسيكي لاستعمال بقايا اللحم، مثل البوتوفو أو اللحم المشوي (Wikipédia، Chef Simon)."
+  },
+  "img_alt": {
+   "fr": "Hachis parmentier gratiné et entamé : la purée sur la viande hachée",
+   "t": "هاشي بارمنتييه محمّر الوجه وقد أُخذت منه حصة: البطاطس المهروسة فوق اللحم المفروم"
+  },
+  "serving": {
+   "fr": "Bien chaud, dès la sortie du four (Meilleur du Chef, Académie du Goût), en plat unique. Inspirations Cuisine le sert avec une salade verte. Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 48 heures (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné) ; sinon, au congélateur (FSA). Réchauffe une seule fois, au four ou au micro-ondes, jusqu'à ce que ce soit fumant au centre ; un grand plat se réchauffe mieux en petites portions (FSA). L'Anses conseille de réchauffer dans un plat couvert, jusqu'à ce que la vapeur s'échappe. Décongèle au réfrigérateur et mange dans les 24 heures (FSA ; l'Anses dit 3 jours au plus, sans recongeler).",
+   "t": "ساخنًا جدًا، فور إخراجه من الفرن (Meilleur du Chef، Académie du Goût)، وجبةً كاملة في طبق واحد. يقدّمه Inspirations Cuisine مع سلطة خضراء. البقايا: في الثلاجة خلال ساعتين (Anses، FSA)، وتؤكل خلال 48 ساعة (FSA؛ وتقول Anses أقل من 3 أيام للطبق المطبوخ)؛ وإلا ففي المجمّد (FSA). سخّنه مرة واحدة فقط، في الفرن أو في الميكروويف، حتى يتصاعد البخار من وسطه؛ والطبق الكبير يُسخَّن أفضل في حصص صغيرة (FSA). تنصح Anses بالتسخين في طبق مغطّى حتى يخرج البخار. اترك المجمَّد يذوب في الثلاجة وكُله خلال 24 ساعة (FSA؛ وتقول Anses 3 أيام على الأكثر، دون إعادة تجميد)."
+  },
+  "ing.0.group": {
+   "fr": "Purée maison",
+   "t": "بطاطس مهروسة منزلية"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair farineuse",
+   "t": "بطاطس ذات لبّ نشوي"
+  },
+  "ing.pdt.note": {
+   "fr": "type Bintje ou Agria ; ni vertes, ni germées",
+   "t": "من صنف Bintje أو Agria؛ لا خضراء ولا مُنبِتة"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "الماء"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, salée",
+   "t": "ما يملأ قدرًا كبيرة، مملّح"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "en morceaux",
+   "t": "مقطّعة قطعًا"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "حليب"
+  },
+  "ing.muscade.name": {
+   "fr": "noix de muscade",
+   "t": "جوزة الطيب"
+  },
+  "ing.muscade.note": {
+   "fr": "à râper",
+   "t": "تُبشَر عند الاستعمال"
+  },
+  "ing.1.group": {
+   "fr": "Viande",
+   "t": "اللحم"
+  },
+  "ing.huile.name": {
+   "fr": "huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.huile.note": {
+   "fr": "un filet ; ou une huile neutre",
+   "t": "قليل منه؛ أو زيت المائدة"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "بصلة متوسطة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "بصلات متوسطة"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.boeuf.name": {
+   "fr": "de bœuf haché halal",
+   "t": "لحم بقر مفروم حلال"
+  },
+  "ing.boeuf.note": {
+   "fr": "bien frais ; garde-le au réfrigérateur jusqu'au dernier moment",
+   "t": "طازج جدًا؛ احفظه في الثلاجة حتى آخر لحظة"
+  },
+  "ing.persil.name": {
+   "fr": "de persil",
+   "t": "بقدونس"
+  },
+  "ing.persil.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.2.group": {
+   "fr": "Assaisonnement et plat",
+   "t": "التتبيل وطبق الفرن"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "الملح"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "الفلفل الأسود"
+  },
+  "ing.beurre-plat.name": {
+   "fr": "beurre",
+   "t": "الزبدة"
+  },
+  "ing.beurre-plat.note": {
+   "fr": "un petit morceau, pour le plat",
+   "t": "قطعة صغيرة، لدهن طبق الفرن"
+  },
+  "ing.fromage.name": {
+   "fr": "fromage râpé",
+   "t": "الجبن المبشور"
+  },
+  "ing.fromage.note": {
+   "fr": "facultatif : une petite poignée d'emmental, de comté ou de gruyère ; à coagulant microbien, sans présure animale, si tu veux être strict",
+   "t": "اختياري: حفنة صغيرة من جبن الإيمنتال أو الكونتيه أو الغرويير؛ مصنوع بمخثّر ميكروبي، دون منفحة حيوانية، إن أردت الاحتياط"
+  },
+  "equipment.0": {
+   "fr": "Une grande casserole et une passoire",
+   "t": "قدر كبيرة ومصفاة"
+  },
+  "equipment.1": {
+   "fr": "Un économe et un couteau",
+   "t": "مقشرة وسكين"
+  },
+  "equipment.2": {
+   "fr": "Deux planches à découper : une pour la viande crue, une pour le reste (Anses)",
+   "t": "لوحا تقطيع: واحد للحم النيء، وآخر للباقي (Anses)"
+  },
+  "equipment.3": {
+   "fr": "Une grande poêle ou une sauteuse, et une cuillère en bois",
+   "t": "مقلاة كبيرة أو مقلاة عميقة، وملعقة خشبية"
+  },
+  "equipment.4": {
+   "fr": "Un moulin à légumes ou un presse-purée (pas de mixeur)",
+   "t": "مطحنة خضر يدوية أو هرّاسة بطاطس (لا الخلاط الكهربائي)"
+  },
+  "equipment.5": {
+   "fr": "Une petite casserole, pour le lait",
+   "t": "قدر صغيرة، للحليب"
+  },
+  "equipment.6": {
+   "fr": "Un plat à gratin",
+   "t": "طبق فرن"
+  },
+  "equipment.7": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "ميزان حرارة للطبخ (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "قشّر البطاطس"
+  },
+  "steps.0.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre. Retire les parties vertes et les germes. Lave-les, puis coupe les plus grosses en deux ou en quatre, pour avoir des morceaux de taille égale.",
+   "t": "قشّر {{pdt}} من البطاطس. أزل الأجزاء الخضراء والبراعم. اغسلها، ثم اقطع الكبيرة منها إلى نصفين أو أربعة أجزاء، لتحصل على قطع متساوية الحجم."
+  },
+  "steps.0.tip": {
+   "fr": "Jette une pomme de terre très verte, abîmée ou amère. Les parties vertes et les germes concentrent la solanine, qui peut causer une intoxication, et la cuisson ne la détruit pas (BfR, agence allemande ; ACIA, agence canadienne). L'épluchage en enlève une bonne partie (EFSA).",
+   "t": "ارمِ كل حبة بطاطس شديدة الخضرة أو تالفة أو مُرّة. فالأجزاء الخضراء والبراعم تتركّز فيها مادة السولانين، التي قد تسبب تسممًا، والطهي لا يُتلفها (BfR، وكالة ألمانية؛ ACIA، وكالة كندية). والتقشير يزيل جزءًا كبيرًا منها (EFSA)."
+  },
+  "steps.1.title": {
+   "fr": "Cuis les pommes de terre",
+   "t": "اسلق البطاطس"
+  },
+  "steps.1.text": {
+   "fr": "Mets les pommes de terre dans une grande casserole et couvre-les d'{{eau}} froide salée. Porte à ébullition, puis laisse cuire environ 30 minutes. Elles sont cuites quand la pointe d'un couteau s'y enfonce sans résistance.",
+   "t": "ضع البطاطس في قدر كبيرة وغطّها بالماء البارد المملّح. سخّنها حتى الغليان، ثم اتركها تطهى نحو 30 دقيقة. تكون قد نضجت عندما يدخل فيها رأس السكين دون مقاومة."
+  },
+  "steps.1.tip": {
+   "fr": "Pendant la cuisson des pommes de terre, prépare la viande.",
+   "t": "أثناء سلق البطاطس، حضّر اللحم."
+  },
+  "steps.1.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "البطاطس"
+  },
+  "steps.1.timer.done": {
+   "fr": "Pique un morceau : le couteau doit entrer sans résistance.",
+   "t": "اغرز السكين في قطعة: يجب أن يدخل دون مقاومة."
+  },
+  "steps.2.title": {
+   "fr": "Hache l'oignon et l'ail",
+   "t": "افرم البصل والثوم"
+  },
+  "steps.2.text": {
+   "fr": "Pèle et hache finement {{oignon:full}} et {{ail:full}}. Lave et hache {{persil}} de persil.",
+   "t": "قشّر {{oignon:full}} و{{ail:full}}، ثم افرم الكل فرمًا ناعمًا. اغسل {{persil}} من البقدونس وافرمه."
+  },
+  "steps.2.tip": {
+   "fr": "Coupe les légumes avant de toucher la viande crue, ou prends une autre planche : l'Anses conseille une planche pour la viande crue et une autre pour le reste.",
+   "t": "قطّع الخضر قبل لمس اللحم النيء، أو استعمل لوحًا آخر: تنصح Anses بلوح للحم النيء وآخر للباقي."
+  },
+  "steps.2.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.2.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.3.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "شوّح البصل"
+  },
+  "steps.3.text": {
+   "fr": "Dans la grande poêle, chauffe un filet d'{{huile}}. Ajoute l'oignon et fais-le cuire en remuant, jusqu'à ce qu'il devienne translucide. Ajoute l'ail juste avant la fin de la cuisson de l'oignon et mélange.",
+   "t": "في المقلاة الكبيرة، سخّن قليلًا من {{huile}}. أضف البصل وقلّبه على النار حتى يصبح شفافًا. أضف الثوم قُبيل نهاية طهي البصل وحرّك."
+  },
+  "steps.4.title": {
+   "fr": "Fais cuire la viande",
+   "t": "اطبخ اللحم"
+  },
+  "steps.4.text": {
+   "fr": "Ajoute {{boeuf}} de bœuf haché. Fais-le cuire 10 à 15 minutes environ, en remuant souvent et en séparant bien la viande avec la cuillère. Elle est prête quand elle a bruni partout, sans aucune trace rose, et qu'elle fume bien. Lave-toi les mains au savon après avoir touché la viande crue.",
+   "t": "أضف {{boeuf}} من لحم البقر المفروم. اطبخه نحو 10 إلى 15 دقيقة، مع التقليب كثيرًا وتفكيك اللحم جيدًا بالملعقة. يكون جاهزًا عندما يتحمّر في كل أجزائه، دون أي أثر للون الوردي، ويتصاعد منه البخار بوفرة. اغسل يديك بالصابون بعد لمس اللحم النيء."
+  },
+  "steps.4.tip": {
+   "fr": "La viande hachée doit toujours être cuite à cœur : le hachage répartit les bactéries de la surface dans toute la viande (FSA, agence britannique). L'Anses recommande 70 °C à cœur, surtout pour les jeunes enfants et les personnes âgées.",
+   "t": "يجب دائمًا أن يُطهى اللحم المفروم حتى قلبه: فالفرم ينشر بكتيريا السطح في اللحم كله (FSA، وكالة بريطانية). توصي Anses بأن تبلغ حرارة قلب اللحم 70 درجة مئوية، خاصة للأطفال الصغار وكبار السن."
+  },
+  "steps.5.title": {
+   "fr": "Assaisonne la viande",
+   "t": "تبّل اللحم"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute du {{sel}} et du {{poivre}}, puis le persil haché. Mélange et retire du feu.",
+   "t": "أضف {{sel}} و{{poivre}}، ثم البقدونس المفروم. حرّك وارفع المقلاة عن النار."
+  },
+  "steps.5.tip": {
+   "fr": "S'il y a beaucoup de graisse au fond de la poêle, retire-la avec une cuillère (Chef Simon).",
+   "t": "إذا كان في قاع المقلاة دهن كثير، أزله بملعقة (Chef Simon)."
+  },
+  "steps.6.title": {
+   "fr": "Allume le four",
+   "t": "شغّل الفرن"
+  },
+  "steps.6.text": {
+   "fr": "Préchauffe le four à 180 °C. Beurre le plat à gratin avec un petit morceau de {{beurre-plat}}.",
+   "t": "سخّن الفرن مسبقًا على 180 درجة مئوية. ادهن طبق الفرن بقطعة صغيرة من {{beurre-plat}}."
+  },
+  "steps.7.title": {
+   "fr": "Chauffe le lait",
+   "t": "سخّن الحليب"
+  },
+  "steps.7.text": {
+   "fr": "Fais chauffer {{lait:full}} dans une petite casserole, jusqu'à ce qu'il soit bien chaud.",
+   "t": "سخّن {{lait}} من الحليب في قدر صغيرة حتى يصبح ساخنًا جيدًا."
+  },
+  "steps.8.title": {
+   "fr": "Écrase les pommes de terre",
+   "t": "اهرس البطاطس"
+  },
+  "steps.8.text": {
+   "fr": "Égoutte les pommes de terre. Passe-les tout de suite, bien chaudes, au moulin à légumes ou au presse-purée. N'utilise pas de mixeur : la purée deviendrait collante.",
+   "t": "صفِّ البطاطس. مرّرها فورًا، وهي ساخنة جيدًا، في مطحنة الخضر أو الهرّاسة. لا تستعمل الخلاط الكهربائي: ستصبح البطاطس المهروسة لزجة."
+  },
+  "steps.8.tip": {
+   "fr": "Jette l'eau de cuisson : l'agence allemande BfR conseille de ne pas la réutiliser.",
+   "t": "تخلّص من ماء السلق: تنصح الوكالة الألمانية BfR بعدم إعادة استعماله."
+  },
+  "steps.9.title": {
+   "fr": "Termine la purée",
+   "t": "أكمل تحضير البطاطس المهروسة"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute {{beurre}} de beurre en morceaux et mélange. Verse ensuite le lait chaud petit à petit, en mélangeant avec une spatule, jusqu'à obtenir une purée souple mais pas liquide. Sale, poivre et râpe un peu de {{muscade}}.",
+   "t": "أضف {{beurre}} من الزبدة المقطّعة وحرّك. ثم صبّ الحليب الساخن شيئًا فشيئًا مع التحريك بملعقة مسطّحة، حتى تحصل على بطاطس مهروسة طرية لكن غير سائلة. أضف الملح والفلفل الأسود، وابشر قليلًا من {{muscade}}."
+  },
+  "steps.9.tip": {
+   "fr": "Le beurre se met quand les pommes de terre sont encore bien chaudes. Le lait se verse petit à petit : versé d'un coup, il rend la purée trop liquide (750g, Pascale Weeks).",
+   "t": "تُضاف الزبدة والبطاطس لا تزال ساخنة جيدًا. ويُصبّ الحليب شيئًا فشيئًا: فإذا صُبّ دفعة واحدة، جعل البطاطس المهروسة سائلة أكثر من اللازم (750g، Pascale Weeks)."
+  },
+  "steps.10.title": {
+   "fr": "Monte le hachis",
+   "t": "رتّب طبقات الهاشي"
+  },
+  "steps.10.text": {
+   "fr": "Étale la viande au fond du plat. Couvre-la avec toute la purée et lisse le dessus avec une spatule. Si tu veux, parsème un peu de {{fromage}}.",
+   "t": "افرد اللحم في قاع طبق الفرن. غطّه بكل البطاطس المهروسة وسوِّ السطح بملعقة مسطّحة. إن شئت، رُشّ قليلًا من {{fromage}}."
+  },
+  "steps.10.tip": {
+   "fr": "Trace des stries sur la purée avec une fourchette : elle dorera mieux (Pradel).",
+   "t": "ارسم خطوطًا على البطاطس المهروسة بالشوكة: سيتحمّر سطحها أفضل (Pradel)."
+  },
+  "steps.11.title": {
+   "fr": "Enfourne pour 30 minutes",
+   "t": "أدخله الفرن لمدة 30 دقيقة"
+  },
+  "steps.11.text": {
+   "fr": "Enfourne pour environ 30 minutes, jusqu'à ce que le dessus soit bien doré. Le centre du plat doit être brûlant et fumant.",
+   "t": "أدخل الطبق إلى الفرن نحو 30 دقيقة، حتى يتحمّر السطح جيدًا. يجب أن يكون وسط الطبق شديد السخونة ويتصاعد منه البخار."
+  },
+  "steps.11.tip": {
+   "fr": "Si le hachis a été préparé à l'avance et sort du réfrigérateur, laisse-le plus longtemps, jusqu'à ce qu'il soit fumant au centre (Chef Simon ; FSA).",
+   "t": "إذا حضّرت الهاشي مسبقًا وأخرجته من الثلاجة، فاتركه في الفرن مدة أطول، حتى يتصاعد البخار من وسطه (Chef Simon؛ FSA)."
+  },
+  "steps.11.timer.label": {
+   "fr": "Hachis au four",
+   "t": "الهاشي في الفرن"
+  },
+  "steps.11.timer.done": {
+   "fr": "Le dessus est doré ? Sors le plat du four.",
+   "t": "هل تحمّر السطح؟ أخرج الطبق من الفرن."
+  },
+  "steps.12.title": {
+   "fr": "Sers aussitôt",
+   "t": "قدّمه فورًا"
+  },
+  "steps.12.text": {
+   "fr": "Sers le hachis bien chaud, dès la sortie du four.",
+   "t": "قدّم الهاشي ساخنًا جدًا، فور إخراجه من الفرن."
+  },
+  "steps.12.tip": {
+   "fr": "Restes : au réfrigérateur dans les 2 heures, à manger sous 2 jours, réchauffés une seule fois jusqu'à être fumants au centre (FSA, Anses).",
+   "t": "البقايا: في الثلاجة خلال ساعتين، وتؤكل خلال يومين، وتُسخَّن مرة واحدة فقط حتى يتصاعد البخار من وسطها (FSA، Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Pour la purée, prends des pommes de terre à chair farineuse, comme la Bintje ou l'Agria.",
+   "t": "للبطاطس المهروسة، اختر بطاطس ذات لبّ نشوي، مثل Bintje أو Agria."
+  },
+  "secrets.0.source": {
+   "fr": "Meilleur du Chef (Bintje) ; Alain Ducasse (Agria) ; Académie du Goût (chair farineuse) ; 750g, Pascale Weeks (chair farineuse)",
+   "t": "Meilleur du Chef (Bintje)؛ Alain Ducasse (Agria)؛ Académie du Goût (لبّ نشوي)؛ 750g، Pascale Weeks (لبّ نشوي)"
+  },
+  "secrets.1.text": {
+   "fr": "Écrase les pommes de terre au moulin à légumes ou au presse-purée, jamais au mixeur : il libère trop d'amidon et rend la purée collante.",
+   "t": "اهرس البطاطس بمطحنة الخضر أو بالهرّاسة، ولا تستعمل الخلاط الكهربائي أبدًا: فهو يُطلق الكثير من النشا ويجعل البطاطس المهروسة لزجة."
+  },
+  "secrets.1.source": {
+   "fr": "Chef Simon (purée « cordée ») ; 750g, Pascale Weeks",
+   "t": "Chef Simon (بطاطس مهروسة «مطّاطية»)؛ 750g، Pascale Weeks"
+  },
+  "secrets.2.text": {
+   "fr": "Mets le beurre quand les pommes de terre sont encore bien chaudes, puis le lait chaud.",
+   "t": "أضف الزبدة والبطاطس لا تزال ساخنة جيدًا، ثم الحليب الساخن."
+  },
+  "secrets.2.source": {
+   "fr": "Meilleur du Chef ; Escoffier (lait bouillant) ; 750g, Pascale Weeks",
+   "t": "Meilleur du Chef؛ Escoffier (حليب يغلي)؛ 750g، Pascale Weeks"
+  },
+  "secrets.3.text": {
+   "fr": "Verse le lait petit à petit : la purée doit rester souple, sans devenir liquide.",
+   "t": "صبّ الحليب شيئًا فشيئًا: يجب أن تبقى البطاطس المهروسة طرية دون أن تصبح سائلة."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon (« souple sans être liquide ») ; Escoffier (« petit à petit ») ; 750g, Pascale Weeks",
+   "t": "Chef Simon («طرية دون أن تكون سائلة»)؛ Escoffier («شيئًا فشيئًا»)؛ 750g، Pascale Weeks"
+  },
+  "secrets.4.text": {
+   "fr": "Un peu de noix de muscade râpée dans la purée, c'est le parfum classique.",
+   "t": "قليل من جوزة الطيب المبشورة في البطاطس المهروسة: تلك هي النكهة الكلاسيكية."
+  },
+  "secrets.4.source": {
+   "fr": "Meilleur du Chef ; Chef Simon (purée) ; Inspirations Cuisine ; Pradel",
+   "t": "Meilleur du Chef؛ Chef Simon (البطاطس المهروسة)؛ Inspirations Cuisine؛ Pradel"
+  },
+  "secrets.5.text": {
+   "fr": "Fais d'abord fondre l'oignon jusqu'à ce qu'il soit translucide, et ajoute l'ail seulement après.",
+   "t": "شوّح البصل أولًا حتى يصبح شفافًا، ولا تُضف الثوم إلا بعد ذلك."
+  },
+  "secrets.5.source": {
+   "fr": "Meilleur du Chef (ail ajouté avant la fin de la cuisson de l'oignon) ; Hervé Cuisine (ail ajouté après l'oignon, avec la viande)",
+   "t": "Meilleur du Chef (يُضاف الثوم قبل انتهاء طهي البصل)؛ Hervé Cuisine (يُضاف الثوم بعد البصل، مع اللحم)"
+  },
+  "secrets.6.text": {
+   "fr": "La viande hachée se cuit toujours à cœur : plus aucune trace rose, et elle fume au centre.",
+   "t": "يُطهى اللحم المفروم دائمًا حتى قلبه: لا يبقى أي أثر للون الوردي، ويتصاعد البخار من وسطه."
+  },
+  "secrets.6.source": {
+   "fr": "FSA (agence britannique) ; Anses (70 °C à cœur pour les populations sensibles)",
+   "t": "FSA (وكالة بريطانية)؛ Anses (70 درجة مئوية في قلب اللحم للفئات الحساسة)"
+  },
+  "secrets.7.text": {
+   "fr": "Retire l'excès de graisse de la viande avant de la mettre dans le plat.",
+   "t": "أزل الدهن الزائد من اللحم قبل وضعه في طبق الفرن."
+  },
+  "secrets.7.source": {
+   "fr": "Chef Simon (« en ayant dégraissé si nécessaire »)",
+   "t": "Chef Simon («بعد إزالة الدهن إن لزم الأمر»)"
+  },
+  "secrets.8.text": {
+   "fr": "Le hachis parmentier est le plat idéal pour les restes : bœuf du pot-au-feu ou rôti, haché, à la place de la viande crue.",
+   "t": "الهاشي بارمنتييه هو الطبق المثالي لاستعمال البقايا: لحم البقر من البوتوفو أو المشوي، بعد فرمه، بدل اللحم النيء."
+  },
+  "secrets.8.source": {
+   "fr": "Wikipédia (Frédéric Zégierman) ; Chef Simon ; Meilleur du Chef ; Alain Ducasse",
+   "t": "Wikipédia (Frédéric Zégierman)؛ Chef Simon؛ Meilleur du Chef؛ Alain Ducasse"
+  },
+  "secrets.9.text": {
+   "fr": "Lisse bien la purée à la spatule ; des stries à la fourchette l'aident à dorer.",
+   "t": "سوِّ سطح البطاطس المهروسة جيدًا بالملعقة المسطّحة؛ والخطوط المرسومة بالشوكة تساعدها على التحمّر."
+  },
+  "secrets.9.source": {
+   "fr": "Meilleur du Chef, Académie du Goût et Chef Simon (lisser) ; Pradel (stries)",
+   "t": "Meilleur du Chef، Académie du Goût و Chef Simon (تسوية السطح)؛ Pradel (الخطوط)"
+  },
+  "secrets.10.text": {
+   "fr": "Tu peux préparer le hachis la veille et le réchauffer au moment du repas. Mets-le au réfrigérateur dans les 2 heures.",
+   "t": "يمكنك تحضير الهاشي في اليوم السابق وتسخينه وقت الأكل. ضعه في الثلاجة خلال ساعتين."
+  },
+  "secrets.10.source": {
+   "fr": "Meilleur du Chef (réponse du Chef Philippe, 6 février 2020) ; Anses et FSA (2 heures au plus hors du réfrigérateur)",
+   "t": "Meilleur du Chef (جواب Chef Philippe، 6 فبراير 2020)؛ Anses و FSA (ساعتان على الأكثر خارج الثلاجة)"
+  },
+  "secrets.11.text": {
+   "fr": "Le temps de four dépend des ingrédients : une trentaine de minutes, selon qu'ils sont encore chauds ou froids.",
+   "t": "تتوقف مدة الطهي في الفرن على حالة المكونات: نحو ثلاثين دقيقة، حسب ما إذا كانت لا تزال ساخنة أو باردة."
+  },
+  "secrets.11.source": {
+   "fr": "Chef Simon",
+   "t": "Chef Simon"
+  },
+  "secrets.12.text": {
+   "fr": "Sers dès la sortie du four.",
+   "t": "قدّمه فور إخراجه من الفرن."
+  },
+  "secrets.12.source": {
+   "fr": "Meilleur du Chef ; Académie du Goût",
+   "t": "Meilleur du Chef؛ Académie du Goût"
+  },
+  "mistakes.0": {
+   "fr": "Mettre la viande hachée crue directement sous la purée : fais-la toujours cuire d'abord à la poêle, jusqu'à ce qu'il ne reste plus de rose (FSA, Anses). Une recette d'internaute sur 750g le fait : ne la suis pas.",
+   "t": "وضع اللحم المفروم نيئًا مباشرة تحت البطاطس المهروسة: اطبخه دائمًا في المقلاة أولًا، حتى لا يبقى فيه أي لون وردي (FSA، Anses). وصفة نشرها أحد المستخدمين على 750g تفعل ذلك: لا تتبعها."
+  },
+  "mistakes.1": {
+   "fr": "Mixer la purée : elle devient collante (Chef Simon, 750g).",
+   "t": "هرس البطاطس بالخلاط الكهربائي: تصبح لزجة (Chef Simon، 750g)."
+  },
+  "mistakes.2": {
+   "fr": "Verser tout le lait d'un coup : la purée devient trop liquide (750g, Pascale Weeks).",
+   "t": "صبّ الحليب كله دفعة واحدة: تصبح البطاطس المهروسة سائلة أكثر من اللازم (750g، Pascale Weeks)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les légumes sur la planche de la viande crue sans la laver (Anses).",
+   "t": "تقطيع الخضر على لوح اللحم النيء دون غسله (Anses)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier de te laver les mains au savon après avoir touché la viande crue (Anses, FSA).",
+   "t": "نسيان غسل يديك بالصابون بعد لمس اللحم النيء (Anses، FSA)."
+  },
+  "mistakes.5": {
+   "fr": "Garder des pommes de terre vertes, germées, abîmées ou amères (BfR, ACIA).",
+   "t": "الاحتفاظ بحبات بطاطس خضراء أو مُنبِتة أو تالفة أو مُرّة (BfR، ACIA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le plat plus de 2 heures à température ambiante (Anses, FSA).",
+   "t": "ترك الطبق أكثر من ساعتين في حرارة الغرفة (Anses، FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce que ce soit fumant (FSA).",
+   "t": "تسخين البقايا عدة مرات: مرة واحدة فقط، حتى يتصاعد منها البخار (FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Prendre de la chair à saucisse ou un mélange porc et veau, comme le proposent certaines recettes (750g, Chef Simon) : ici, seulement du bœuf haché halal.",
+   "t": "استعمال حشوة النقانق أو خليط من لحم الخنزير والعجل، كما تقترح بعض الوصفات (750g، Chef Simon): هنا، لحم بقر مفروم حلال فقط."
+  },
+  "mistakes.9": {
+   "fr": "Ajouter un cube de bouillon ou un fromage sans vérifier qu'ils sont halal.",
+   "t": "إضافة مكعب مرق أو جبن دون التأكد من أنهما حلال."
+  },
+  "variants.0": {
+   "fr": "À l'ancienne, avec un reste de pot-au-feu (bœuf halal) : la viande cuite, hachée, mélangée à l'oignon fondu, au persil et à un œuf (Meilleur du Chef ; Wikipédia, d'après Frédéric Zégierman). Alain Ducasse ajoute des échalotes et de la mie de pain trempée dans le lait.",
+   "t": "على الطريقة القديمة، ببقايا البوتوفو (لحم بقر حلال): اللحم المطبوخ مفرومًا، ممزوجًا بالبصل المشوّح والبقدونس وبيضة (Meilleur du Chef؛ Wikipédia، نقلًا عن Frédéric Zégierman). ويضيف Alain Ducasse الشالوت (الكراث الأندلسي) ولبّ الخبز المنقوع في الحليب."
+  },
+  "variants.1": {
+   "fr": "En trois couches : purée, viande, puis purée (Meilleur du Chef, Académie du Goût, Hervé Cuisine).",
+   "t": "في ثلاث طبقات: بطاطس مهروسة، ثم لحم، ثم بطاطس مهروسة (Meilleur du Chef، Académie du Goût، Hervé Cuisine)."
+  },
+  "variants.2": {
+   "fr": "Avec des carottes : cuites avec les pommes de terre dans la purée (Académie du Goût), revenues avec l'oignon (Hervé Cuisine), ou en petits dés ajoutés à la viande (Inspirations Cuisine).",
+   "t": "بالجزر: يُسلق مع البطاطس ويُهرس معها (Académie du Goût)، أو يُشوّح مع البصل (Hervé Cuisine)، أو يُقطّع مكعبات صغيرة تُضاف إلى اللحم (Inspirations Cuisine)."
+  },
+  "variants.3": {
+   "fr": "À la tomate : tomates fraîches en dés (Académie du Goût, Inspirations Cuisine) ou concentré de tomate (Pradel), mijotés avec la viande.",
+   "t": "بالطماطم: طماطم طازجة مقطّعة مكعبات (Académie du Goût، Inspirations Cuisine) أو مركز الطماطم (Pradel)، تُطهى على نار هادئة مع اللحم."
+  },
+  "variants.4": {
+   "fr": "Plus parfumé : thym et mélange quatre-épices (Hervé Cuisine), ou herbes de Provence (Académie du Goût). Hervé Cuisine et Inspirations Cuisine ajoutent du bouillon de bœuf : prends-le certifié halal.",
+   "t": "أكثر عطرًا: الزعتر وخليط التوابل الأربعة (Hervé Cuisine)، أو أعشاب بروفانس (Académie du Goût). يضيف Hervé Cuisine و Inspirations Cuisine مرق لحم البقر: اختره بشهادة حلال."
+  },
+  "variants.5": {
+   "fr": "Purée plus riche : un jaune d'œuf (Hervé Cuisine), ou un peu de crème fraîche (Académie du Goût, Chef Simon, Inspirations Cuisine).",
+   "t": "بطاطس مهروسة أغنى: صفار بيضة (Hervé Cuisine)، أو قليل من القشدة الطازجة (Académie du Goût، Chef Simon، Inspirations Cuisine)."
+  },
+  "variants.6": {
+   "fr": "Gratiné au fromage râpé (Chef Simon, Académie du Goût, Hervé Cuisine) ou à la chapelure (Meilleur du Chef ; panko chez Alain Ducasse).",
+   "t": "محمّر الوجه بالجبن المبشور (Chef Simon، Académie du Goût، Hervé Cuisine) أو بفتات الخبز (Meilleur du Chef؛ والبانكو عند Alain Ducasse)."
+  },
+  "variants.7": {
+   "fr": "Avec des échalotes en plus de l'oignon (Chef Simon, Alain Ducasse).",
+   "t": "بالشالوت إضافة إلى البصل (Chef Simon، Alain Ducasse)."
+  },
+  "variants.8": {
+   "fr": "En portions individuelles, dans de petites cocottes (Hervé Cuisine).",
+   "t": "في حصص فردية، داخل أوانٍ صغيرة للفرن (Hervé Cuisine)."
+  },
+  "variants.9": {
+   "fr": "Le « hachis Parmentier » d'Escoffier (1903) était un autre plat : des pommes de terre cuites au four, vidées, puis farcies de leur pulpe sautée au beurre et de viande en dés. Le plat en couches d'aujourd'hui ressemble plutôt à son « hachis à la grand-mère » : hachis lié à la purée, dans un plat en terre beurré, sous une fine couche de purée gratinée (Escoffier).",
+   "t": "كان «هاشي بارمنتييه» عند Escoffier (1903) طبقًا مختلفًا: بطاطس مطهوة في الفرن، مُفرَّغة، ثم محشوة بلبّها المشوّح بالزبدة وبلحم مقطّع مكعبات. أما الطبق ذو الطبقات المعروف اليوم فيشبه بالأحرى «هاشي الجدّة» عنده: لحم مفروم ممزوج بالبطاطس المهروسة، في طبق فخاري مدهون بالزبدة، تحت طبقة رقيقة من البطاطس المهروسة المحمّرة (Escoffier)."
+  },
+  "variants.10": {
+   "fr": "Ailleurs : le cottage pie au Royaume-Uni, et le pâté chinois au Québec, avec une couche de maïs (Wikipédia).",
+   "t": "وفي أماكن أخرى: الكوتيج باي في المملكة المتحدة، والباتيه الصيني في كيبيك، مع طبقة من الذرة (Wikipédia)."
+  }
+ }
+}

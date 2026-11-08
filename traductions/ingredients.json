@@ -1,0 +1,652 @@
+{
+ "agneau": {
+  "en": "Lamb",
+  "ar": "لحم الغنم",
+  "ru": "Баранина"
+ },
+ "ail": {
+  "en": "Garlic",
+  "ar": "ثوم",
+  "ru": "Чеснок"
+ },
+ "amandes": {
+  "en": "Almonds",
+  "ar": "لوز",
+  "ru": "Миндаль"
+ },
+ "anis": {
+  "en": "Aniseed",
+  "ar": "يانسون",
+  "ru": "Анис"
+ },
+ "artichaut": {
+  "en": "Globe artichoke",
+  "ar": "خرشوف (القوق)",
+  "ru": "Артишок"
+ },
+ "aubergine": {
+  "en": "Aubergine",
+  "ar": "باذنجان",
+  "ru": "Баклажан"
+ },
+ "badiane": {
+  "en": "Star anise",
+  "ar": "يانسون نجمي",
+  "ru": "Бадьян"
+ },
+ "basilic": {
+  "en": "Basil",
+  "ar": "ريحان",
+  "ru": "Базилик"
+ },
+ "beurre": {
+  "en": "Butter",
+  "ar": "زبدة",
+  "ru": "Сливочное масло"
+ },
+ "bicarbonate": {
+  "en": "Bicarbonate of soda",
+  "ar": "بيكربونات الصودا",
+  "ru": "Пищевая сода"
+ },
+ "blanc-poulet": {
+  "en": "Chicken breasts",
+  "ar": "صدور الدجاج",
+  "ru": "Куриное филе"
+ },
+ "boeuf": {
+  "en": "Beef",
+  "ar": "لحم البقر",
+  "ru": "Говядина"
+ },
+ "boeuf-hache": {
+  "en": "Minced meat",
+  "ar": "لحم مفروم",
+  "ru": "Фарш"
+ },
+ "bouillon": {
+  "en": "Broth from the pot",
+  "ar": "مرق القدر",
+  "ru": "Бульон из кастрюли"
+ },
+ "bouillon-volaille": {
+  "en": "Halal chicken stock",
+  "ar": "مرق دجاج حلال",
+  "ru": "Куриный бульон (халяль)"
+ },
+ "boulgour": {
+  "en": "Bulgur wheat",
+  "ar": "برغل",
+  "ru": "Булгур"
+ },
+ "cannelle": {
+  "en": "Cinnamon",
+  "ar": "قرفة",
+  "ru": "Корица"
+ },
+ "cardamome": {
+  "en": "Cardamom",
+  "ar": "هيل",
+  "ru": "Кардамон"
+ },
+ "carotte": {
+  "en": "Carrot",
+  "ar": "جزر",
+  "ru": "Морковь"
+ },
+ "carvi": {
+  "en": "Caraway seeds",
+  "ar": "كراوية",
+  "ru": "Тмин"
+ },
+ "celeri": {
+  "en": "Celery",
+  "ar": "كرفس",
+  "ru": "Сельдерей"
+ },
+ "cerfeuil": {
+  "en": "Chervil",
+  "ar": "كرفيل",
+  "ru": "Кервель"
+ },
+ "champignons": {
+  "en": "Button mushrooms",
+  "ar": "فطر باريس",
+  "ru": "Шампиньоны"
+ },
+ "chapelure": {
+  "en": "Breadcrumbs",
+  "ar": "فتات الخبز",
+  "ru": "Панировочные сухари"
+ },
+ "cheddar": {
+  "en": "Cheddar",
+  "ar": "جبن الشيدر",
+  "ru": "Чеддер"
+ },
+ "chou": {
+  "en": "Cabbage",
+  "ar": "ملفوف",
+  "ru": "Капуста"
+ },
+ "ciboulette": {
+  "en": "Chives",
+  "ar": "ثوم معمّر",
+  "ru": "Шнитт-лук"
+ },
+ "citron": {
+  "en": "Lemon",
+  "ar": "ليمون",
+  "ru": "Лимон"
+ },
+ "citron-confit": {
+  "en": "Preserved lemon",
+  "ar": "ليمون مخلل",
+  "ru": "Солёный лимон"
+ },
+ "clou-girofle": {
+  "en": "Cloves",
+  "ar": "قرنفل",
+  "ru": "Гвоздика"
+ },
+ "concentre-tomate": {
+  "en": "Tomato purée",
+  "ar": "مركز الطماطم",
+  "ru": "Томатная паста"
+ },
+ "concombre": {
+  "en": "Cucumber",
+  "ar": "خيار",
+  "ru": "Огурец"
+ },
+ "confiture": {
+  "en": "Jam",
+  "ar": "مربى",
+  "ru": "Варенье"
+ },
+ "coriandre": {
+  "en": "Coriander",
+  "ar": "كزبرة",
+  "ru": "Кинза"
+ },
+ "coriandre-moulue": {
+  "en": "Ground coriander",
+  "ar": "كزبرة مطحونة",
+  "ru": "Молотый кориандр"
+ },
+ "cornichons": {
+  "en": "Gherkins",
+  "ar": "خيار مخلل",
+  "ru": "Корнишоны"
+ },
+ "courge": {
+  "en": "Squash",
+  "ar": "قرع",
+  "ru": "Тыква"
+ },
+ "courgette": {
+  "en": "Courgette",
+  "ar": "كوسة",
+  "ru": "Кабачок"
+ },
+ "couscous": {
+  "en": "Couscous",
+  "ar": "كسكس",
+  "ru": "Кускус"
+ },
+ "creme-fraiche": {
+  "en": "Crème fraîche",
+  "ar": "قشدة طازجة",
+  "ru": "Крем-фреш"
+ },
+ "cumin": {
+  "en": "Cumin",
+  "ar": "كمون",
+  "ru": "Кумин (зира)"
+ },
+ "curcuma": {
+  "en": "Turmeric",
+  "ar": "كركم",
+  "ru": "Куркума"
+ },
+ "eau": {
+  "en": "Water",
+  "ar": "ماء",
+  "ru": "Вода"
+ },
+ "estragon": {
+  "en": "Tarragon",
+  "ar": "طرخون",
+  "ru": "Эстрагон"
+ },
+ "farine": {
+  "en": "Flour",
+  "ar": "دقيق",
+  "ru": "Мука"
+ },
+ "fenugrec": {
+  "en": "Fenugreek",
+  "ar": "حلبة",
+  "ru": "Пажитник"
+ },
+ "feves-seches": {
+  "en": "Dried fava beans",
+  "ar": "فول يابس",
+  "ru": "Сушёные бобы"
+ },
+ "fleur-oranger": {
+  "en": "Orange blossom water",
+  "ar": "ماء الزهر",
+  "ru": "Вода из цветков апельсина"
+ },
+ "fromage-rape": {
+  "en": "Grated cheese",
+  "ar": "جبن مبشور",
+  "ru": "Тёртый сыр"
+ },
+ "garam-masala": {
+  "en": "Garam masala",
+  "ar": "غرام ماسالا",
+  "ru": "Гарам масала"
+ },
+ "ghee": {
+  "en": "Ghee (clarified butter)",
+  "ar": "زبدة مصفّاة (غي)",
+  "ru": "Гхи (топлёное масло)"
+ },
+ "gingembre": {
+  "en": "Ground ginger",
+  "ar": "زنجبيل مطحون",
+  "ru": "Молотый имбирь"
+ },
+ "haricots-blancs": {
+  "en": "White beans",
+  "ar": "فاصوليا بيضاء",
+  "ru": "Белая фасоль"
+ },
+ "harissa": {
+  "en": "Harissa",
+  "ar": "هريسة",
+  "ru": "Харисса"
+ },
+ "huile": {
+  "en": "Oil",
+  "ar": "زيت",
+  "ru": "Растительное масло"
+ },
+ "huile-olive": {
+  "en": "Olive oil",
+  "ar": "زيت الزيتون",
+  "ru": "Оливковое масло"
+ },
+ "jben": {
+  "en": "Jben (fresh cheese)",
+  "ar": "جبن طري",
+  "ru": "Жбен (свежий сыр)"
+ },
+ "kasuri-methi": {
+  "en": "Dried fenugreek leaves",
+  "ar": "أوراق الحلبة المجففة",
+  "ru": "Сушёные листья пажитника"
+ },
+ "ketchup": {
+  "en": "Ketchup",
+  "ar": "كاتشب",
+  "ru": "Кетчуп"
+ },
+ "khlii": {
+  "en": "Khlii",
+  "ar": "خليع",
+  "ru": "Хлии"
+ },
+ "khobz": {
+  "en": "Khobz",
+  "ar": "خبز",
+  "ru": "Хобз"
+ },
+ "lait": {
+  "en": "Milk",
+  "ar": "حليب",
+  "ru": "Молоко"
+ },
+ "laitue": {
+  "en": "Lettuce",
+  "ar": "خس",
+  "ru": "Салат-латук"
+ },
+ "laurier": {
+  "en": "Bay leaves",
+  "ar": "ورق الغار",
+  "ru": "Лавровый лист"
+ },
+ "lentilles": {
+  "en": "Lentils",
+  "ar": "عدس",
+  "ru": "Чечевица"
+ },
+ "lentilles-corail": {
+  "en": "Red lentils",
+  "ar": "عدس أحمر",
+  "ru": "Красная чечевица"
+ },
+ "levure-boulangere": {
+  "en": "Baker's yeast",
+  "ar": "خميرة الخبز",
+  "ru": "Дрожжи"
+ },
+ "levure-chimique": {
+  "en": "Baking powder",
+  "ar": "خميرة كيميائية",
+  "ru": "Разрыхлитель"
+ },
+ "macaronis": {
+  "en": "Macaroni",
+  "ar": "مقرونة",
+  "ru": "Макароны"
+ },
+ "mastic": {
+  "en": "Mastic",
+  "ar": "مسكة",
+  "ru": "Мастика"
+ },
+ "mayonnaise": {
+  "en": "Mayonnaise",
+  "ar": "مايونيز",
+  "ru": "Майонез"
+ },
+ "menthe": {
+  "en": "Mint",
+  "ar": "نعناع",
+  "ru": "Мята"
+ },
+ "merlan": {
+  "en": "Whiting",
+  "ar": "سمك الميرلان",
+  "ru": "Мерланг"
+ },
+ "miel": {
+  "en": "Honey",
+  "ar": "عسل",
+  "ru": "Мёд"
+ },
+ "moutarde": {
+  "en": "Mustard",
+  "ar": "خردل",
+  "ru": "Горчица"
+ },
+ "msemen": {
+  "en": "Msemen",
+  "ar": "مسمن",
+  "ru": "Мсемен"
+ },
+ "navet": {
+  "en": "Turnip",
+  "ar": "لفت",
+  "ru": "Репа"
+ },
+ "nigelle": {
+  "en": "Nigella seeds",
+  "ar": "حبة البركة",
+  "ru": "Чернушка (нигелла)"
+ },
+ "noix-cajou": {
+  "en": "Cashew nuts",
+  "ar": "كاجو",
+  "ru": "Кешью"
+ },
+ "noix-de-muscade": {
+  "en": "Nutmeg",
+  "ar": "جوزة الطيب",
+  "ru": "Мускатный орех"
+ },
+ "oeuf": {
+  "en": "Eggs",
+  "ar": "بيض",
+  "ru": "Яйца"
+ },
+ "oignon": {
+  "en": "Onion",
+  "ar": "بصل",
+  "ru": "Лук"
+ },
+ "oignon-rouge": {
+  "en": "Red onion",
+  "ar": "بصل أحمر",
+  "ru": "Красный лук"
+ },
+ "oignon-vert": {
+  "en": "Spring onion",
+  "ar": "بصل أخضر",
+  "ru": "Зелёный лук"
+ },
+ "olives": {
+  "en": "Olives",
+  "ar": "زيتون",
+  "ru": "Оливки"
+ },
+ "orge-concassee": {
+  "en": "Cracked barley",
+  "ar": "شعير مكسّر",
+  "ru": "Дроблёный ячмень"
+ },
+ "origan": {
+  "en": "Oregano",
+  "ar": "أوريغانو",
+  "ru": "Орегано"
+ },
+ "pain-burger": {
+  "en": "Burger bun",
+  "ar": "خبز البرغر",
+  "ru": "Булочка для бургера"
+ },
+ "pain-pita": {
+  "en": "Pitta bread",
+  "ar": "خبز البيتا",
+  "ru": "Пита"
+ },
+ "paprika": {
+  "en": "Paprika",
+  "ar": "بابريكا",
+  "ru": "Паприка"
+ },
+ "pate-ail-gingembre": {
+  "en": "Fresh ginger and garlic",
+  "ar": "زنجبيل طازج وثوم",
+  "ru": "Свежий имбирь и чеснок"
+ },
+ "persil": {
+  "en": "Flat-leaf parsley",
+  "ar": "بقدونس",
+  "ru": "Петрушка"
+ },
+ "petits-pois": {
+  "en": "Peas",
+  "ar": "بازلاء (الجلبانة)",
+  "ru": "Зелёный горошек"
+ },
+ "piment-cachemire": {
+  "en": "Kashmiri chilli",
+  "ar": "فلفل كشميري",
+  "ru": "Кашмирский перец чили"
+ },
+ "piment-cayenne": {
+  "en": "Hot chilli",
+  "ar": "فلفل حار",
+  "ru": "Острый перец"
+ },
+ "piment-flocons": {
+  "en": "Chilli flakes",
+  "ar": "رقائق الفلفل الحار",
+  "ru": "Хлопья чили"
+ },
+ "piment-jamaique": {
+  "en": "Allspice",
+  "ar": "بهار حلو (فلفل جامايكا)",
+  "ru": "Душистый перец"
+ },
+ "piment-vert": {
+  "en": "Green chilli",
+  "ar": "فلفل أخضر حار",
+  "ru": "Зелёный острый перец"
+ },
+ "pois-chiches": {
+  "en": "Chickpeas",
+  "ar": "حمص",
+  "ru": "Нут"
+ },
+ "poisson": {
+  "en": "Fish",
+  "ar": "سمك",
+  "ru": "Рыба"
+ },
+ "poivre": {
+  "en": "Black pepper",
+  "ar": "فلفل أسود",
+  "ru": "Чёрный перец"
+ },
+ "poivron": {
+  "en": "Pepper",
+  "ar": "فلفل حلو",
+  "ru": "Сладкий перец"
+ },
+ "poivron-vert": {
+  "en": "Green pepper",
+  "ar": "فلفل أخضر حلو",
+  "ru": "Зелёный сладкий перец"
+ },
+ "pomme-de-terre": {
+  "en": "Potato",
+  "ar": "بطاطس",
+  "ru": "Картофель"
+ },
+ "poulet": {
+  "en": "Chicken",
+  "ar": "دجاج",
+  "ru": "Курица"
+ },
+ "pruneaux": {
+  "en": "Prunes",
+  "ar": "برقوق مجفف",
+  "ru": "Чернослив"
+ },
+ "raisins-secs": {
+  "en": "Raisins",
+  "ar": "زبيب",
+  "ru": "Изюм"
+ },
+ "ras-el-hanout": {
+  "en": "Ras el hanout",
+  "ar": "رأس الحانوت",
+  "ru": "Рас-эль-ханут"
+ },
+ "riz": {
+  "en": "Rice",
+  "ar": "أرز",
+  "ru": "Рис"
+ },
+ "safran": {
+  "en": "Saffron",
+  "ar": "زعفران",
+  "ru": "Шафран"
+ },
+ "sardine": {
+  "en": "Sardines",
+  "ar": "سردين",
+  "ru": "Сардины"
+ },
+ "sel": {
+  "en": "Salt",
+  "ar": "ملح",
+  "ru": "Соль"
+ },
+ "semoule": {
+  "en": "Semolina",
+  "ar": "سميد",
+  "ru": "Семолина"
+ },
+ "sesame": {
+  "en": "Sesame seeds",
+  "ar": "سمسم",
+  "ru": "Кунжут"
+ },
+ "sirop-erable": {
+  "en": "Maple syrup",
+  "ar": "شراب القيقب",
+  "ru": "Кленовый сироп"
+ },
+ "smen": {
+  "en": "Smen",
+  "ar": "سمن بلدي",
+  "ru": "Смен"
+ },
+ "spaghetti": {
+  "en": "Spaghetti",
+  "ar": "سباغيتي",
+  "ru": "Спагетти"
+ },
+ "sucre": {
+  "en": "Sugar",
+  "ar": "سكر",
+  "ru": "Сахар"
+ },
+ "sucre-glace": {
+  "en": "Icing sugar",
+  "ar": "سكر ناعم",
+  "ru": "Сахарная пудра"
+ },
+ "sucre-vanille": {
+  "en": "Vanilla sugar",
+  "ar": "سكر الفانيليا",
+  "ru": "Ванильный сахар"
+ },
+ "tahini": {
+  "en": "Tahini",
+  "ar": "طحينة",
+  "ru": "Тахини"
+ },
+ "the-vert": {
+  "en": "Green tea",
+  "ar": "شاي أخضر",
+  "ru": "Зелёный чай"
+ },
+ "thon": {
+  "en": "Tinned tuna",
+  "ar": "تونة معلّبة",
+  "ru": "Консервированный тунец"
+ },
+ "thym": {
+  "en": "Thyme",
+  "ar": "زعتر",
+  "ru": "Тимьян"
+ },
+ "tomate": {
+  "en": "Tomato",
+  "ar": "طماطم",
+  "ru": "Помидор"
+ },
+ "tomates-pelees": {
+  "en": "Tinned peeled tomatoes",
+  "ar": "طماطم مقشّرة معلّبة",
+  "ru": "Консервированные очищенные помидоры"
+ },
+ "vermicelles": {
+  "en": "Vermicelli",
+  "ar": "شعرية",
+  "ru": "Вермишель"
+ },
+ "vinaigre": {
+  "en": "White vinegar",
+  "ar": "خل أبيض",
+  "ru": "Белый уксус"
+ },
+ "warqa": {
+  "en": "Brick pastry sheets",
+  "ar": "ورق البريك",
+  "ru": "Листы теста брик"
+ },
+ "yaourt": {
+  "en": "Plain yoghurt",
+  "ar": "زبادي",
+  "ru": "Натуральный йогурт"
+ }
+}

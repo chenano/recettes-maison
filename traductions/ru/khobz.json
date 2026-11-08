@@ -1,0 +1,450 @@
+{
+ "_slug": "khobz",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Khobz, le pain marocain de la maison",
+   "t": "Хобз, домашний марокканский хлеб"
+  },
+  "darija": {
+   "fr": "khobz (khobz dyal dar)",
+   "t": "хобз (хобз дьяль дар)"
+  },
+  "tagline": {
+   "fr": "Le pain rond de tous les jours, doré et croustillant dehors, moelleux dedans, qu'on déchire à la main pour saisir le tajine. Juste de la farine, de la levure, du sel et de l'eau tiède.",
+   "t": "Круглый хлеб на каждый день, золотистый и хрустящий снаружи, мягкий внутри; его отрывают руками, чтобы брать им еду из таджина. Только мука, дрожжи, соль и тёплая вода."
+  },
+  "region": {
+   "fr": "Tout le Maroc (le pain se dit aussi aghroum, aɣrum, en tachelhit) ; pains proches en Algérie et en Tunisie",
+   "t": "По всему Марокко (на ташельхите хлеб называют также агрум, aɣrum); похожий хлеб есть в Алжире и Тунисе"
+  },
+  "occasion": {
+   "fr": "Tous les jours, à presque tous les repas",
+   "t": "Каждый день, почти к каждой трапезе"
+  },
+  "img_alt": {
+   "fr": "Piles de khobz ronds sur un étal de Chefchaouen",
+   "t": "Стопки круглого хобза на прилавке в Шефшауэне"
+  },
+  "serving": {
+   "fr": "Le khobz accompagne presque tous les repas. On le coupe en quartiers ou on le déchire, et il remplace la fourchette et la cuillère pour saisir salades, tajines, sauces et ragoûts (Taste of Maroc ; Morocco World News) ; Nargisse Benkabbou rappelle qu'au Maroc le tajine se mange avec du pain (My Moroccan Food). Les quartiers s'ouvrent aussi en sandwich, garnis de viande grillée (Taste of Maroc). Au petit-déjeuner, on le mange chaud avec un peu d'huile d'olive et un thé à la menthe (Hespress). Le reste se garde enveloppé dans un torchon, dans une boîte à pain ou un sac (MarocMama), mais pas plus d'une journée : au-delà, congèle-le. Décongèle-le quelques heures à température ambiante et réchauffe-le 5 à 8 min au four à 170 °C (Taste of Maroc). MarocMama le réchauffe aussi à la poêle.",
+   "t": "Хобз подают почти к каждой трапезе. Его режут на сегменты или отрывают руками, и он заменяет вилку и ложку: им берут салаты, таджины, соусы и рагу (Taste of Maroc; Morocco World News); Nargisse Benkabbou напоминает, что в Марокко таджин едят с хлебом (My Moroccan Food). Сегменты также разрезают, как сэндвич, и кладут внутрь мясо на гриле (Taste of Maroc). На завтрак его едят горячим с небольшим количеством оливкового масла и мятным чаем (Hespress). Остатки хранят, завернув в полотенце, в хлебнице или пакете (MarocMama), но не дольше одного дня: если дольше — заморозьте. Размораживайте несколько часов при комнатной температуре и разогревайте 5–8 мин в духовке при 170 °C (Taste of Maroc). MarocMama разогревает его и на сковороде."
+  },
+  "pairs_label": {
+   "fr": "Avec le khobz",
+   "t": "С хобзом"
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Тесто"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (idéalement une farine à pain, riche en gluten)",
+   "t": "белой пшеничной муки (лучше хлебопекарной, с высоким содержанием клейковины)"
+  },
+  "ing.farine.note": {
+   "fr": "plus un peu pour le plan de travail ; au Maroc : « force » ou « farine de blé » ; tu peux en remplacer une partie par de la semoule fine ou de la farine complète (voir les variantes)",
+   "t": "и ещё немного для рабочей поверхности; в Марокко: «force» или «farine de blé»; часть можно заменить мелкой семолиной или цельнозерновой мукой (см. варианты)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "сухих дрожжей"
+  },
+  "ing.levure.note": {
+   "fr": "un peu plus que d'habitude, pour une seule levée rapide",
+   "t": "чуть больше обычного, для одной быстрой расстойки"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède, pas chaude",
+   "t": "тёплой, но не горячей воды"
+  },
+  "ing.eau.note": {
+   "fr": "à ajuster selon la farine ; plus un peu pour humidifier les pains avant la cuisson",
+   "t": "количество зависит от муки; и ещё немного, чтобы смочить хлеб перед выпечкой"
+  },
+  "ing.1.group": {
+   "fr": "Pour la plaque",
+   "t": "Для противня"
+  },
+  "ing.semoule.name": {
+   "fr": "Semoule fine, pour saupoudrer la plaque",
+   "t": "Мелкая семолина, чтобы посыпать противень"
+  },
+  "ing.semoule.note": {
+   "fr": "ou du papier cuisson, ou un peu d'huile",
+   "t": "или бумага для выпечки, или немного растительного масла"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier, ou une gsaa (la grande jatte traditionnelle)",
+   "t": "Большая миска или гсаа (большая традиционная чаша)"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et des cuillères à mesurer",
+   "t": "Кухонные весы и мерные ложки"
+  },
+  "equipment.2": {
+   "fr": "Une grande plaque de cuisson, ou une par pain si elle ne peut pas contenir deux disques de 27 à 30 cm (et du papier cuisson si tu veux)",
+   "t": "Большой противень или по противню на каждый хлеб, если на нём не помещаются два диска по 27–30 см (и, по желанию, бумага для выпечки)"
+  },
+  "equipment.3": {
+   "fr": "Deux ou trois torchons propres, plus une petite couverture s'il fait froid",
+   "t": "Два или три чистых кухонных полотенца и небольшое одеяло, если холодно"
+  },
+  "equipment.4": {
+   "fr": "Une fourchette",
+   "t": "Вилка"
+  },
+  "equipment.5": {
+   "fr": "Un vaporisateur d'eau propre, ou un pinceau",
+   "t": "Распылитель с чистой водой или кисточка"
+  },
+  "equipment.6": {
+   "fr": "Une grille, ou un panier tapissé d'un torchon",
+   "t": "Решётка или корзинка, выстланная полотенцем"
+  },
+  "equipment.7": {
+   "fr": "Une planche à pain, si tu fais cuire au four du quartier (ferran)",
+   "t": "Доска для хлеба, если будете печь в общественной печи квартала (ферран)"
+  },
+  "steps.0.title": {
+   "fr": "Préparer la plaque",
+   "t": "Подготовьте противень"
+  },
+  "steps.0.text": {
+   "fr": "Saupoudre de semoule fine une grande plaque de cuisson, ou une plaque par pain : aplati, chaque pain fera 27 à 30 cm de large. Tu peux aussi la tapisser de papier cuisson ou la huiler légèrement.",
+   "t": "Посыпьте мелкой семолиной большой противень или по противню на каждый хлеб: расплющенный, каждый хлеб будет шириной 27–30 см. Можно также застелить противень бумагой для выпечки или слегка смазать растительным маслом."
+  },
+  "steps.1.title": {
+   "fr": "Mélanger la pâte",
+   "t": "Смешайте тесто"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine et {{sel}} de sel. Creuse un puits au centre et mets-y {{levure}} de levure. Verse dessus un peu des {{eau}} d'eau tiède et remue du bout des doigts pour la dissoudre. Ajoute le reste de l'eau petit à petit, en mélangeant à la main, jusqu'à rassembler la pâte.",
+   "t": "В большой миске смешайте {{farine}} муки и {{sel}} соли. Сделайте в центре углубление и положите в него {{levure}} дрожжей. Влейте сверху немного из {{eau}} тёплой воды и размешайте кончиками пальцев, чтобы дрожжи растворились. Понемногу добавляйте остальную воду, перемешивая рукой, пока тесто не соберётся в ком."
+  },
+  "steps.2.title": {
+   "fr": "Pétrir 10 minutes",
+   "t": "Месите 10 минут"
+  },
+  "steps.2.text": {
+   "fr": "Pétris 10 minutes, dans le saladier ou sur le plan de travail fariné. La pâte doit rester molle et souple, sans coller : si elle colle, ajoute un peu de farine ; si elle durcit, arrose-la d'un peu d'eau en pétrissant. Elle est prête quand elle est lisse et élastique.",
+   "t": "Месите 10 минут в миске или на посыпанной мукой рабочей поверхности. Тесто должно оставаться мягким и податливым, но не липким: если липнет, добавьте немного муки; если становится твёрдым, сбрызните его небольшим количеством воды, продолжая месить. Оно готово, когда станет гладким и эластичным."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Замес"
+  },
+  "steps.2.timer.done": {
+   "fr": "Pâte lisse, souple et élastique ? Passe aux boules. Sinon, pétris encore jusqu'à 5 minutes.",
+   "t": "Тесто гладкое, мягкое и эластичное? Переходите к шарам. Если нет, месите ещё до 5 минут."
+  },
+  "steps.2.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Руки, замешивающие тесто"
+  },
+  "steps.2.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Замес теста"
+  },
+  "steps.3.title": {
+   "fr": "Former les boules",
+   "t": "Сформуйте шары"
+  },
+  "steps.3.text": {
+   "fr": "Partage la pâte en boules égales, une par pain, bien lisses sur le dessus. Pose-les sur la plaque, bien espacées : aplatie à 6 mm, chaque boule donnera un disque de 27 à 30 cm de large. Si deux disques de cette taille ne tiennent pas côte à côte sur ta plaque (il faut au moins 55 cm de long), mets une boule par plaque.",
+   "t": "Разделите тесто на одинаковые шары, по одному на каждый хлеб, с гладкой верхушкой. Выложите их на противень на большом расстоянии друг от друга: расплющенный до 6 мм, каждый шар даст диск шириной 27–30 см. Если два диска такого размера не помещаются рядом на вашем противне (нужно не меньше 55 см в длину), кладите по одному шару на противень."
+  },
+  "steps.4.title": {
+   "fr": "Repos sous un torchon",
+   "t": "Дайте отдохнуть под полотенцем"
+  },
+  "steps.4.text": {
+   "fr": "Couvre les boules d'un torchon propre et laisse-les reposer 10 à 15 minutes.",
+   "t": "Накройте шары чистым полотенцем и оставьте на 10–15 минут."
+  },
+  "steps.4.timer.label": {
+   "fr": "Repos des boules",
+   "t": "Отдых шаров"
+  },
+  "steps.4.timer.done": {
+   "fr": "Les boules ont reposé : aplatis-les.",
+   "t": "Шары отдохнули: расплющите их."
+  },
+  "steps.5.title": {
+   "fr": "Aplatir en disques",
+   "t": "Расплющите в диски"
+  },
+  "steps.5.text": {
+   "fr": "Directement sur la plaque, aplatis chaque boule avec la paume, en partant du centre vers les bords. Forme un disque bien rond d'environ 6 mm d'épaisseur, égal partout.",
+   "t": "Прямо на противне расплющьте каждый шар ладонью, от центра к краям. Сформуйте ровный круглый диск одинаковой толщины, около 6 мм."
+  },
+  "steps.6.title": {
+   "fr": "Laisser lever",
+   "t": "Дайте подняться"
+  },
+  "steps.6.text": {
+   "fr": "Couvre de nouveau d'un torchon et laisse lever environ 1 heure dans un endroit tiède, plus longtemps si la pièce est fraîche. S'il fait froid, ajoute une couche, ou une petite couverture. Pendant la levée, préchauffe le four à 220 °C : il doit être bien chaud pour le pain.",
+   "t": "Снова накройте полотенцем и оставьте подниматься примерно на 1 час в тёплом месте, а если в комнате прохладно — дольше. Если холодно, добавьте ещё слой или небольшое одеяло. Пока тесто поднимается, разогрейте духовку до 220 °C: для хлеба она должна быть хорошо разогрета."
+  },
+  "steps.6.timer.label": {
+   "fr": "Levée des pains",
+   "t": "Расстойка хлеба"
+  },
+  "steps.6.timer.done": {
+   "fr": "Appuie légèrement du bout du doigt : si la pâte reprend sa forme, c'est prêt. Sinon, attends encore un peu.",
+   "t": "Слегка нажмите на тесто кончиком пальца: если оно восстанавливает форму, всё готово. Если нет, подождите ещё немного."
+  },
+  "steps.7.title": {
+   "fr": "Piquer et humidifier",
+   "t": "Наколите и смочите"
+  },
+  "steps.7.text": {
+   "fr": "Quand le four est chaud, pique chaque pain à plusieurs endroits avec une fourchette : il ne gonflera pas. Vaporise ensuite un peu d'eau sur le dessus, ou passe un pinceau mouillé : la croûte sera plus croustillante.",
+   "t": "Когда духовка нагреется, наколите каждый хлеб вилкой в нескольких местах: так он не вздуется. Затем сбрызните верх водой из распылителя или проведите по нему мокрой кисточкой: корочка будет более хрустящей."
+  },
+  "steps.8.title": {
+   "fr": "Cuire 20 minutes",
+   "t": "Выпекайте 20 минут"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour environ 20 minutes. Si ton four colore plus d'un côté, tourne la plaque en cours de cuisson. Le khobz est cuit quand il est bien doré et sonne creux quand tu le tapotes.",
+   "t": "Поставьте в духовку примерно на 20 минут. Если ваша духовка с одной стороны печёт сильнее, разверните противень во время выпечки. Хобз готов, когда он хорошо подрумянился и глухо звучит, если по нему постучать."
+  },
+  "steps.8.timer.label": {
+   "fr": "Cuisson des pains",
+   "t": "Выпечка хлеба"
+  },
+  "steps.8.timer.done": {
+   "fr": "Bien doré, et il sonne creux quand tu le tapotes ? Sors-le. Sinon, laisse-le encore quelques minutes, 25 minutes en tout au plus.",
+   "t": "Хорошо подрумянился и глухо звучит при постукивании? Доставайте. Если нет, подержите ещё несколько минут, но в общей сложности не больше 25 минут."
+  },
+  "steps.9.title": {
+   "fr": "Ou au four du quartier",
+   "t": "Или в печи квартала"
+  },
+  "steps.9.text": {
+   "fr": "Pour le cuire au ferran, le four du quartier : dès l'étape des boules, pose les boules sur une planche à pain saupoudrée de semoule au lieu de la plaque, aplatis-les et laisse-les lever dessus sous un torchon, puis porte la planche au four. Le fournier (terrah) les cuit au feu de bois, environ 20 minutes. Il reconnaît de mémoire les pains de chaque famille, à l'ordre dans lequel il les a rangés, à la planche et au torchon.",
+   "t": "Чтобы испечь хлеб в ферране, общественной печи квартала: уже на этапе шаров выложите их не на противень, а на доску для хлеба, посыпанную семолиной, расплющите и дайте подняться на ней под полотенцем, затем отнесите доску в печь. Пекарь (террах) печёт хлеб на дровах около 20 минут. Он по памяти узнаёт хлеб каждой семьи — по порядку, в котором его разложил, по доске и по полотенцу."
+  },
+  "steps.9.img.alt": {
+   "fr": "Boulanger devant le four à bois, pains posés sur les planches, à Marrakech",
+   "t": "Пекарь у дровяной печи, хлеб на досках, Марракеш"
+  },
+  "steps.9.img.caption": {
+   "fr": "Le four du quartier, à Marrakech",
+   "t": "Печь квартала в Марракеше"
+  },
+  "steps.10.title": {
+   "fr": "Laisser tiédir",
+   "t": "Дайте немного остыть"
+  },
+  "steps.10.text": {
+   "fr": "Sors les pains et laisse-les tiédir sur une grille, ou dans un panier tapissé d'un torchon.",
+   "t": "Достаньте хлеб и дайте ему немного остыть на решётке или в корзинке, выстланной полотенцем."
+  },
+  "steps.11.title": {
+   "fr": "Servir",
+   "t": "Подавайте"
+  },
+  "steps.11.text": {
+   "fr": "Coupe le khobz en quartiers ou déchire-le à la main : il remplace la fourchette pour saisir le tajine, les salades ou le zaalouk. Au petit-déjeuner, sers-le chaud avec un peu d'huile d'olive et un thé à la menthe.",
+   "t": "Нарежьте хобз на сегменты или разорвите руками: он заменяет вилку, им берут таджин, салаты или заалук. На завтрак подавайте его горячим с небольшим количеством оливкового масла и мятным чаем."
+  },
+  "steps.12.title": {
+   "fr": "Conserver",
+   "t": "Храните остатки"
+  },
+  "steps.12.text": {
+   "fr": "Le khobz ne reste pas frais plus d'une journée. Ce que tu ne mangeras pas le jour même, congèle-le une fois complètement refroidi. Pour le servir, laisse-le décongeler quelques heures à température ambiante, puis réchauffe-le 5 à 8 minutes au four à 170 °C.",
+   "t": "Хобз остаётся свежим не больше одного дня. То, что не съедите в тот же день, заморозьте, когда хлеб полностью остынет. Перед подачей дайте ему разморозиться несколько часов при комнатной температуре, затем разогрейте 5–8 минут в духовке при 170 °C."
+  },
+  "secrets.0.text": {
+   "fr": "La pâte doit être molle : souple et facile à pétrir, mais sans coller. Trop ferme, le pain sort dur et dense. Ajuste toujours l'eau ou la farine : chaque farine boit différemment, et même l'humidité de l'air compte.",
+   "t": "Тесто должно быть мягким: податливым и легко меситься, но не липнуть. Из слишком крутого теста хлеб получается твёрдым и плотным. Всегда регулируйте количество воды или муки: каждая мука впитывает по-разному, и даже влажность воздуха имеет значение."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih), recette et réponses aux lecteurs",
+   "t": "Taste of Maroc (Christine Benlafquih), рецепт и ответы читателям"
+  },
+  "secrets.1.text": {
+   "fr": "Pétris 10 à 15 minutes en arrosant la pâte d'un peu d'eau, jusqu'à ce qu'elle devienne souple et malléable.",
+   "t": "Месите 10–15 минут, сбрызгивая тесто небольшим количеством воды, пока оно не станет мягким и податливым."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (pain de semoule, pain complet, pain aux graines de sésame)",
+   "t": "Choumicha (хлеб из семолины, цельнозерновой хлеб, хлеб с кунжутом)"
+  },
+  "secrets.2.text": {
+   "fr": "Ni sucre ni huile, comme dans les pains de semoule et complet de Choumicha, qui n'ont que farine, levure, sel et eau.",
+   "t": "Ни сахара, ни масла — как в хлебе из семолины и цельнозерновом хлебе Choumicha, где есть только мука, дрожжи, соль и вода."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.3.text": {
+   "fr": "L'eau doit être tiède, pas chaude ; froide, elle ralentit la levure.",
+   "t": "Вода должна быть тёплой, но не горячей; холодная вода замедляет работу дрожжей."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc и MarocMama"
+  },
+  "secrets.4.text": {
+   "fr": "Pas sûr de ta levure ? Délaye-la dans un peu d'eau tiède avec une pincée de sucre : elle doit mousser en 10 minutes. Sinon, change-la.",
+   "t": "Не уверены в дрожжах? Разведите их в небольшом количестве тёплой воды со щепоткой сахара: за 10 минут они должны вспениться. Если нет, замените их."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Une seule levée suffit, une fois les pains aplatis : quelques minutes de repos en boules, puis environ 1 heure sous un torchon. Par temps froid, couvre de plusieurs couches ou d'une petite couverture, ou fais lever dans le four, juste la lampe allumée ; dans ce cas, sors les pains, le torchon et la couverture avant de préchauffer le four.",
+   "t": "Достаточно одной расстойки, когда хлеб уже расплющен: несколько минут отдыха в виде шаров, затем около 1 часа под полотенцем. В холодную погоду накройте несколькими слоями или небольшим одеялом либо оставьте подниматься в духовке, включив только лампочку; в этом случае выньте хлеб, полотенце и одеяло, прежде чем разогревать духовку."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc и MarocMama"
+  },
+  "secrets.6.text": {
+   "fr": "Pique le pain à la fourchette juste avant de l'enfourner, pour qu'il ne gonfle pas : un terrah de Casablanca le fait en enfournant chaque pain.",
+   "t": "Накалывайте хлеб вилкой прямо перед тем, как ставить его в печь, чтобы он не вздулся: так делает один террах из Касабланки, отправляя в печь каждый хлеб."
+  },
+  "secrets.6.source": {
+   "fr": "La Vie éco (four traditionnel de Sidi Bernoussi, Casablanca) ; Taste of Maroc ; MarocMama",
+   "t": "La Vie éco (традиционная печь в Сиди-Бернусси, Касабланка); Taste of Maroc; MarocMama"
+  },
+  "secrets.7.text": {
+   "fr": "Si tu préfères une entaille au couteau, reste léger : trop profonde, le pain monte trop à cet endroit. La fourchette, un pain plus plat ou un peu moins de levure évitent ce défaut.",
+   "t": "Если предпочитаете надрез ножом, делайте его неглубоким: при слишком глубоком надрезе хлеб в этом месте поднимается слишком сильно. Вилка, более плоский хлеб или чуть меньше дрожжей помогают избежать этого."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "Humidifie le dessus juste avant d'enfourner, au vaporisateur ou au pinceau : la croûte sera plus croustillante.",
+   "t": "Смочите верх прямо перед выпечкой из распылителя или кисточкой: корочка будет более хрустящей."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Taste of Maroc",
+   "t": "Choumicha и Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Un four bien chaud, autour de 220 °C, et environ 20 minutes : au ferran aussi, le four doit être chaud pour le pain, et la cuisson dure environ 20 minutes.",
+   "t": "Хорошо разогретая духовка, около 220 °C, и примерно 20 минут: в ферране печь для хлеба тоже должна быть горячей, а выпечка длится около 20 минут."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha ; Taste of Maroc ; La Vie éco",
+   "t": "Choumicha, Taste of Maroc и La Vie éco"
+  },
+  "secrets.10.text": {
+   "fr": "Garde-le plat : beaucoup de Marocains préfèrent un khobz de 1,5 cm de haut au plus, et il dépasse rarement 3 cm.",
+   "t": "Делайте его плоским: многие марокканцы предпочитают хобз высотой не больше 1,5 см, и выше 3 см он бывает редко."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Le pain que tu ne mangeras pas le jour même se congèle : laisse-le d'abord refroidir complètement, puis réchauffe-le 5 à 8 minutes au four à 170 °C.",
+   "t": "Хлеб, который не съедите в тот же день, можно заморозить: сначала дайте ему полностью остыть, а потом разогрейте 5–8 минут в духовке при 170 °C."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MarocMama (congélation)",
+   "t": "Taste of Maroc; MarocMama (заморозка)"
+  },
+  "secrets.12.text": {
+   "fr": "Un repas de fête ou un ftour ? Précuis les pains la veille jusqu'à ce qu'ils colorent à peine, emballe-les bien, et termine la cuisson juste avant de servir.",
+   "t": "Праздничный обед или ифтар? Накануне выпеките хлеб, пока он едва начнёт румяниться, хорошо заверните, а допеките прямо перед подачей."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Faire une pâte trop ferme : le pain sort dur et dense (Taste of Maroc).",
+   "t": "Делать слишком крутое тесто: хлеб получается твёрдым и плотным (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre de l'eau chaude au lieu de tiède (Taste of Maroc), ou de l'eau froide, qui ralentit la levure (MarocMama).",
+   "t": "Брать горячую воду вместо тёплой (Taste of Maroc) или холодную, которая замедляет работу дрожжей (MarocMama)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre de la farine à levure incorporée : MarocMama la déconseille.",
+   "t": "Брать муку с уже добавленным разрыхлителем: MarocMama её не советует."
+  },
+  "mistakes.3": {
+   "fr": "Ajouter trop de farine en pétrissant : le pain devient sec (MarocMama).",
+   "t": "Подсыпать слишком много муки при замесе: хлеб становится сухим (MarocMama)."
+  },
+  "mistakes.4": {
+   "fr": "Pétrir trop peu, le pain est dense ; beaucoup trop, il devient dur (MarocMama).",
+   "t": "Месить слишком мало — хлеб плотный; слишком долго — он становится твёрдым (MarocMama)."
+  },
+  "mistakes.5": {
+   "fr": "Oublier de piquer le pain : il gonfle (La Vie éco).",
+   "t": "Забыть наколоть хлеб: он вздувается (La Vie éco)."
+  },
+  "mistakes.6": {
+   "fr": "Entailler trop profond : le pain monte trop à l'entaille (Taste of Maroc).",
+   "t": "Делать слишком глубокий надрез: в месте надреза хлеб поднимается слишком сильно (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Sortir le pain trop tôt : il doit être bien doré et sonner creux quand tu le tapotes (Taste of Maroc ; MarocMama).",
+   "t": "Доставать хлеб слишком рано: он должен хорошо подрумяниться и глухо звучать при постукивании (Taste of Maroc; MarocMama)."
+  },
+  "mistakes.8": {
+   "fr": "Le garder plusieurs jours à température ambiante : il ne reste pas frais plus d'une journée (Taste of Maroc).",
+   "t": "Хранить его несколько дней при комнатной температуре: он остаётся свежим не больше одного дня (Taste of Maroc)."
+  },
+  "mistakes.9": {
+   "fr": "Jeter du pain : au Maroc, on ne le jette pas ; les restes servent à un autre plat ou sont donnés (Morocco World News).",
+   "t": "Выбрасывать хлеб: в Марокко хлеб не выбрасывают; остатки идут на другое блюдо или их отдают (Morocco World News)."
+  },
+  "variants.0": {
+   "fr": "Khobz à la semoule (Choumicha) : 250 g de farine de blé dur supérieure et 500 g de semoule fine de blé dur, 1 c. à c. de sel, 20 g de levure boulangère, 50 cl d'eau tiède. La pâte lève jusqu'à doubler, on la tape pour chasser les bulles, on roule les boules dans 80 g de semoule fine, on les aplatit légèrement et on les laisse lever dans un endroit tiède ; vaporisées d'eau, elles cuisent 20 à 25 min à 220 °C.",
+   "t": "Хобз из семолины (Choumicha): 250 г муки высшего сорта из твёрдой пшеницы и 500 г мелкой семолины из твёрдой пшеницы, 1 ч. л. соли, 20 г дрожжей, 50 сл тёплой воды. Тесто поднимается, пока не увеличится вдвое, его обминают, чтобы выпустить пузырьки, шары обваливают в 80 г мелкой семолины, слегка расплющивают и оставляют подниматься в тёплом месте; сбрызнутые водой, они пекутся 20–25 мин при 220 °C."
+  },
+  "variants.1": {
+   "fr": "Petits pains à la semoule de Nargisse Benkabbou (My Moroccan Food), son pain marocain préféré : 280 g de farine, 300 g de semoule fine, 250 ml d'eau et 250 ml de lait tièdes (verse d'abord 300 ml, puis par cuillerées), 1 c. à s. de levure sèche, 2 c. à c. de sel, 2 c. à c. de sucre, 3 c. à s. d'huile d'olive ; 10 pains de 10 cm aplatis à 2 cm, levée 1 h, entaillés au couteau et saupoudrés de semoule, 18 à 20 min à 200 °C.",
+   "t": "Булочки из семолины Nargisse Benkabbou (My Moroccan Food), её любимый марокканский хлеб: 280 г муки, 300 г мелкой семолины, 250 мл тёплой воды и 250 мл тёплого молока (сначала влейте 300 мл, затем добавляйте по ложке), 1 ст. л. сухих дрожжей, 2 ч. л. соли, 2 ч. л. сахара, 3 ст. л. оливкового масла; 10 булочек диаметром 10 см, расплющенных до 2 см, расстойка 1 ч, надрезать ножом и посыпать семолиной, 18–20 мин при 200 °C."
+  },
+  "variants.2": {
+   "fr": "Khobz complet (Choumicha) : 250 g de farine de blé tendre et 500 g de farine complète, 1 c. à c. de sel, 20 g de levure boulangère, 40 cl d'eau tiède ; boules roulées dans 80 g de farine complète, même méthode que le pain de semoule. Taste of Maroc conseille de débuter avec moitié farine complète, moitié farine blanche, et assez d'eau pour une pâte molle. Le pain complet se dit khobz zraa (Hespress ; Taste of Maroc).",
+   "t": "Цельнозерновой хобз (Choumicha): 250 г муки из мягкой пшеницы и 500 г цельнозерновой муки, 1 ч. л. соли, 20 г дрожжей, 40 сл тёплой воды; шары обваливают в 80 г цельнозерновой муки, способ тот же, что для хлеба из семолины. Taste of Maroc советует начинать с половины цельнозерновой и половины белой муки и брать достаточно воды для мягкого теста. Цельнозерновой хлеб называют хобз зраа (Hespress; Taste of Maroc)."
+  },
+  "variants.3": {
+   "fr": "Khobz au sésame (Choumicha) : 750 g de farine de blé tendre, 1 c. à c. de sel, 1 c. à s. de sucre, 20 g de levure boulangère, 40 cl d'eau tiède ; après la première levée, boules roulées dans la farine, aplaties, badigeonnées d'eau au pinceau et couvertes de 80 g de graines de sésame, puis levée dans un endroit tiède et cuisson 20 à 25 min à 220 °C. Au Maroc, on préfère le sésame doré non décortiqué ; on peut aussi dorer le pain levé à l'œuf battu juste avant d'enfourner, puis le parsemer de sésame (Taste of Maroc).",
+   "t": "Хобз с кунжутом (Choumicha): 750 г муки из мягкой пшеницы, 1 ч. л. соли, 1 ст. л. сахара, 20 г дрожжей, 40 сл тёплой воды; после первой расстойки шары обваливают в муке, расплющивают, смазывают водой с помощью кисточки и посыпают 80 г кунжута, затем дают подняться в тёплом месте и пекут 20–25 мин при 220 °C. В Марокко предпочитают золотистый неочищенный кунжут; можно также смазать поднявшийся хлеб взбитым яйцом прямо перед выпечкой и посыпать кунжутом (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Khobz à l'anis : avec le cumin, l'anis est le parfum le plus courant du pain marocain (Morocco World News), et le khobz de la maison est parfois parfumé aux graines d'anis (Wikipédia). Une mère de famille de Beni Mellal ajoute à sa farine « un peu de jeljlane (sésame) et de nafaa » (Hespress). Aucune source lue ne donne la dose pour un khobz ; à titre indicatif seulement, Choumicha met 1 c. à s. d'anis pour 500 g de farine dans ses krichlat (brioches).",
+   "t": "Хобз с анисом: наряду с кумином анис — самая распространённая пряность в марокканском хлебе (Morocco World News), а домашний хобз иногда ароматизируют семенами аниса (Wikipédia). Одна мать семейства из Бени-Меллаля добавляет в муку «немного джельжлана (кунжута) и нафаа» (Hespress). Ни один из прочитанных источников не даёт дозировку для хобза; только для ориентира: Choumicha кладёт 1 ст. л. аниса на 500 г муки в свои кришлат (сдобные булочки)."
+  },
+  "variants.5": {
+   "fr": "Khobz des fêtes : enrichi d'œuf et de lait, et souvent parfumé à l'anis, au sésame ou au cumin ; au Maroc, il est plutôt réservé aux fêtes et aux grandes occasions (Taste of Maroc).",
+   "t": "Праздничный хобз: с яйцом и молоком, часто с анисом, кунжутом или кумином; в Марокко его пекут скорее на праздники и по особым случаям (Taste of Maroc)."
+  },
+  "variants.6": {
+   "fr": "Farines mélangées : remplace une partie, jusqu'à la moitié, de la farine blanche par de la semoule très fine (finot de blé dur), de la farine complète ou de la farine d'orge (Taste of Maroc). Les farines d'orge et d'avoine se mélangent en général à d'autres farines, sinon le pain est trop dense (Taste of Maroc). Autrefois, on moulait soi-même le blé ou l'orge à la meule (Hespress).",
+   "t": "Смесь муки: замените часть белой муки, до половины, очень мелкой семолиной (finot из твёрдой пшеницы), цельнозерновой или ячменной мукой (Taste of Maroc). Ячменную и овсяную муку обычно смешивают с другой мукой, иначе хлеб получается слишком плотным (Taste of Maroc). Раньше пшеницу или ячмень мололи сами на жерновах (Hespress)."
+  },
+  "variants.7": {
+   "fr": "Mie plus légère : laisse d'abord lever la pâte une heure ou plus dans un saladier huilé, avant de façonner (Taste of Maroc). C'est aussi la méthode de Choumicha : la pâte double, on la tape pour chasser les bulles, puis les pains lèvent une seconde fois.",
+   "t": "Более лёгкий мякиш: сначала дайте тесту подняться час или дольше в смазанной маслом миске, а потом формуйте (Taste of Maroc). Так делает и Choumicha: тесто увеличивается вдвое, его обминают, чтобы выпустить пузырьки, затем хлеб поднимается второй раз."
+  },
+  "variants.8": {
+   "fr": "Plus de goût : moins de levure et une double levée longue (Taste of Maroc). Autrefois, on utilisait un levain maison, que certains boulangers marocains emploient encore (Taste of Maroc) ; à Laâyoune, un four traditionnel au bois fait son pain avec du levain, plusieurs farines, du sel et de l'eau (Le360).",
+   "t": "Больше вкуса: меньше дрожжей и две долгие расстойки (Taste of Maroc). Раньше использовали домашнюю закваску, и некоторые марокканские пекари до сих пор с ней работают (Taste of Maroc); в Эль-Аюне одна традиционная дровяная печь печёт хлеб из закваски, нескольких видов муки, соли и воды (Le360)."
+  },
+  "variants.9": {
+   "fr": "Batbout : en cours de cuisine, Christine Benlafquih garde parfois un peu de cette pâte pour montrer comment faire des batbout, petits pains cuits sur le feu (Taste of Maroc) ; Choumicha publie aussi une recette « Batbot ou pain metlouâ ».",
+   "t": "Батбут: на кулинарных курсах Christine Benlafquih иногда оставляет немного этого теста, чтобы показать, как делать батбут — маленькие хлебцы, которые пекут на огне (Taste of Maroc); у Choumicha тоже есть рецепт «Batbot ou pain metlouâ»."
+  }
+ }
+}

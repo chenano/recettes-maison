@@ -1,0 +1,530 @@
+{
+ "_slug": "tajine-kefta-oeufs",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Tajine de kefta aux œufs",
+   "t": "Kefta tagine with eggs"
+  },
+  "darija": {
+   "fr": "Tajine kefta mkaouara bel bid",
+   "t": "Tajine kefta mkaouara bel bid"
+  },
+  "tagline": {
+   "fr": "De petites boulettes aux herbes et au cumin qui mijotent dans une sauce tomate relevée, des œufs au jaune coulant, et du khobz pour tout saucer.",
+   "t": "Small meatballs with herbs and cumin simmering in a spicy tomato sauce, eggs with runny yolks, and khobz (Moroccan bread) to mop it all up."
+  },
+  "region": {
+   "fr": "Maroc (aucune région d'origine précise dans les sources consultées)",
+   "t": "Morocco (no specific region of origin in the sources consulted)"
+  },
+  "occasion": {
+   "fr": "Repas familial simple et rapide, à partager autour du tajine",
+   "t": "A simple, quick family meal, shared around the tagine"
+  },
+  "serving": {
+   "fr": "Sers aussitôt, dans le tajine ou la sauteuse de cuisson posé au milieu de la table. La tradition est de manger ensemble directement dans le plat, à la main, avec des morceaux de khobz pour attraper les boulettes, la sauce et le jaune coulant (Taste of Maroc, Amour de cuisine, My Moroccan Food). Un thé à la menthe l'accompagne bien (Taste of Maroc, Cooking With Alia).",
+   "t": "Serve immediately, in the tagine or sauté pan it was cooked in, placed in the middle of the table. Traditionally, everyone eats together straight from the dish, by hand, with pieces of khobz to scoop up the meatballs, the sauce and the runny yolk (Taste of Maroc, Amour de cuisine, My Moroccan Food). Mint tea goes well with it (Taste of Maroc, Cooking With Alia)."
+  },
+  "ing.0.group": {
+   "fr": "Kefta (boulettes)",
+   "t": "Kefta (meatballs)"
+  },
+  "ing.viande.name": {
+   "fr": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+   "t": "halal minced meat (beef, lamb or a mix of both)"
+  },
+  "ing.viande.note": {
+   "fr": "pas trop maigre : 15 à 20 % de matière grasse",
+   "t": "not too lean: 15 to 20% fat"
+  },
+  "ing.oignon-kefta.name": {
+   "fr": "petit oignon, râpé",
+   "t": "small onion, grated"
+  },
+  "ing.oignon-kefta.pl": {
+   "fr": "petits oignons, râpés",
+   "t": "small onions, grated"
+  },
+  "ing.persil-kefta.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre-kefta.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.paprika-kefta.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin-kefta.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.sel-kefta.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.poivre-kefta.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.piment-kefta.name": {
+   "fr": "de piment de Cayenne",
+   "t": "cayenne pepper"
+  },
+  "ing.1.group": {
+   "fr": "Sauce tomate",
+   "t": "Tomato sauce"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates fraîches bien mûres",
+   "t": "very ripe fresh tomatoes"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.oignon-sauce.name": {
+   "fr": "oignon moyen, haché finement",
+   "t": "medium onion, finely chopped"
+  },
+  "ing.oignon-sauce.pl": {
+   "fr": "oignons moyens, hachés finement",
+   "t": "medium onions, finely chopped"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail, écrasée",
+   "t": "garlic clove, crushed"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail, écrasées",
+   "t": "garlic cloves, crushed"
+  },
+  "ing.paprika-sauce.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin-sauce.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.sel-sauce.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel-sauce.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "adjust after tasting"
+  },
+  "ing.poivre-sauce.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.piment-sauce.name": {
+   "fr": "de piment de Cayenne",
+   "t": "cayenne pepper"
+  },
+  "ing.piment-sauce.note": {
+   "fr": "ou 2 petits piments forts entiers",
+   "t": "or 2 small whole hot chillies"
+  },
+  "ing.persil-sauce.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre-sauce.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "water"
+  },
+  "ing.eau.note": {
+   "fr": "seulement si la sauce attache",
+   "t": "only if the sauce sticks"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "To finish and serve"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "eggs"
+  },
+  "ing.oeufs.note": {
+   "fr": "fermiers (beldi) de préférence",
+   "t": "free-range (beldi) if possible"
+  },
+  "ing.sel-oeufs.name": {
+   "fr": "sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel-oeufs.note": {
+   "fr": "une petite pincée sur chaque œuf",
+   "t": "a small pinch on each egg"
+  },
+  "ing.coriandre-deco.name": {
+   "fr": "de coriandre fraîche ciselée",
+   "t": "finely chopped fresh coriander"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "khobz (Moroccan bread)"
+  },
+  "ing.khobz.note": {
+   "fr": "à volonté, pour saucer",
+   "t": "as much as you like, for mopping up the sauce"
+  },
+  "equipment.0": {
+   "fr": "Tajine en terre ou en céramique, de taille moyenne à grande",
+   "t": "Earthenware or ceramic tagine, medium to large"
+  },
+  "equipment.1": {
+   "fr": "Diffuseur de chaleur si tu ne cuisines pas au gaz",
+   "t": "Heat diffuser if you are not cooking on gas"
+  },
+  "equipment.2": {
+   "fr": "Ou une sauteuse profonde avec couvercle",
+   "t": "Or a deep sauté pan with a lid"
+  },
+  "equipment.3": {
+   "fr": "Râpe à gros trous",
+   "t": "Coarse grater"
+  },
+  "equipment.4": {
+   "fr": "Grand saladier",
+   "t": "Large bowl"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "steps.0.title": {
+   "fr": "Pétris la kefta",
+   "t": "Knead the kefta"
+  },
+  "steps.0.text": {
+   "fr": "Dans un saladier, mets {{viande:full}}, {{oignon-kefta:full}}, {{persil-kefta:full}} et {{coriandre-kefta:full}}. Ajoute {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} et {{piment-kefta:full}}. Pétris à la main 1 à 2 minutes, juste assez pour bien répartir les épices, sans tasser. N'ajoute ni œuf ni chapelure.",
+   "t": "Put {{viande:full}}, {{oignon-kefta:full}}, {{persil-kefta:full}} and {{coriandre-kefta:full}} in a large bowl. Add {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} and {{piment-kefta:full}}. Knead by hand for 1 to 2 minutes, just enough to spread the spices evenly, without packing the meat down. Don't add egg or breadcrumbs."
+  },
+  "steps.1.title": {
+   "fr": "Roule de petites boulettes",
+   "t": "Roll small meatballs"
+  },
+  "steps.1.text": {
+   "fr": "Forme des boulettes de la taille d'une cerise, environ 2,5 cm de diamètre. Pose-les sur une assiette, couvre et garde-les au frais pendant que tu prépares la sauce.",
+   "t": "Shape cherry-sized meatballs, about 2.5 cm across. Put them on a plate, cover and keep them chilled while you make the sauce."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "Grate the tomatoes"
+  },
+  "steps.2.text": {
+   "fr": "Coupe {{tomates:full}} en deux. Râpe-les côté chair sur les gros trous de la râpe, au-dessus d'un saladier. Jette la peau qui te reste dans la main.",
+   "t": "Cut {{tomates:full}} in half. Grate the cut sides on the coarse holes of the grater, over a bowl. Throw away the skin left in your hand."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Grated tomato on a grater"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.3.title": {
+   "fr": "Fais revenir l'oignon et l'ail",
+   "t": "Sauté the onion and garlic"
+  },
+  "steps.3.text": {
+   "fr": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+   "t": "Put the tagine on a diffuser (or use a sauté pan) over medium-low heat and heat {{huile:full}}. Add {{oignon-sauce:full}}, and cook for a few minutes, stirring, until softened. Add {{ail:full}}, and stir for 1 to 2 minutes, until fragrant, without letting the garlic burn."
+  },
+  "steps.4.title": {
+   "fr": "Fais mijoter la sauce",
+   "t": "Simmer the sauce"
+  },
+  "steps.4.text": {
+   "fr": "Verse les tomates râpées avec leur jus. Ajoute {{paprika-sauce:full}}, {{cumin-sauce:full}}, {{sel-sauce:full}}, {{poivre-sauce:full}}, {{piment-sauce:full}}, {{persil-sauce:full}} et {{coriandre-sauce:full}}. Porte à frémissement, couvre et laisse mijoter à feu doux en remuant de temps en temps.",
+   "t": "Pour in the grated tomatoes with their juice. Add {{paprika-sauce:full}}, {{cumin-sauce:full}}, {{sel-sauce:full}}, {{poivre-sauce:full}}, {{piment-sauce:full}}, {{persil-sauce:full}} and {{coriandre-sauce:full}}. Bring to a simmer, then cover and leave to simmer gently over low heat, stirring from time to time."
+  },
+  "steps.4.timer.label": {
+   "fr": "Sauce tomate",
+   "t": "Tomato sauce"
+  },
+  "steps.4.timer.done": {
+   "fr": "Regarde la sauce : elle doit être épaisse et parfumée.",
+   "t": "Check the sauce: it should be thick and fragrant."
+  },
+  "steps.5.title": {
+   "fr": "Vérifie la sauce",
+   "t": "Check the sauce"
+  },
+  "steps.5.text": {
+   "fr": "Écrase les morceaux de tomate avec le dos d'une cuillère. La sauce est prête quand elle est épaisse et parfumée. Si elle attache, ajoute un peu d'{{eau:full}} ; si elle est encore liquide, prolonge la cuisson, car tout dépend de la maturité des tomates. Goûte et rectifie le sel.",
+   "t": "Crush the pieces of tomato with the back of a spoon. The sauce is ready when it is thick and fragrant. If it sticks, add a little {{eau:full}}; if it is still runny, cook it for longer, as it all depends on how ripe the tomatoes are. Taste and adjust the salt."
+  },
+  "steps.6.title": {
+   "fr": "Poche les boulettes",
+   "t": "Poach the meatballs"
+  },
+  "steps.6.text": {
+   "fr": "Dépose les boulettes crues une à une dans la sauce, en laissant un peu d'espace entre elles. Couvre et laisse frémir à feu doux. Coupe une boulette pour vérifier qu'elle est cuite à cœur, mais ne prolonge pas : trop cuites, elles durcissent.",
+   "t": "Place the raw meatballs in the sauce one by one, leaving a little space between them. Cover and leave to simmer gently over low heat. Cut one meatball open to check that it is cooked through, but don't cook them any longer than that: overcooked, they turn hard."
+  },
+  "steps.6.timer.label": {
+   "fr": "Boulettes",
+   "t": "Meatballs"
+  },
+  "steps.6.timer.done": {
+   "fr": "Coupe une boulette : si elle est cuite à cœur, passe tout de suite aux œufs.",
+   "t": "Cut a meatball open: if it is cooked through, move straight on to the eggs."
+  },
+  "steps.7.title": {
+   "fr": "Casse les œufs",
+   "t": "Crack in the eggs"
+  },
+  "steps.7.text": {
+   "fr": "Creuse un petit nid dans la sauce, entre les boulettes, pour chaque œuf. Casse {{oeufs:full}} un par un dans les nids, sans crever les jaunes. Sale légèrement chaque œuf ({{sel-oeufs:full}}).",
+   "t": "Make a small well in the sauce, between the meatballs, for each egg. Crack {{oeufs:full}} one at a time into the wells, without breaking the yolks. Lightly salt each egg ({{sel-oeufs:full}})."
+  },
+  "steps.8.title": {
+   "fr": "Fais prendre les œufs",
+   "t": "Let the eggs set"
+  },
+  "steps.8.text": {
+   "fr": "Remets le couvercle et laisse cuire à feu doux. C'est prêt quand le blanc est pris et que le jaune reste coulant. Retire aussitôt du feu. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, laisse cuire quelques minutes de plus, jusqu'à ce que le jaune soit pris.",
+   "t": "Put the lid back on and cook over low heat. It is ready when the whites are set and the yolks are still runny. Take off the heat immediately. For a pregnant woman, a young child or an elderly or vulnerable person, cook for a few more minutes, until the yolk is set."
+  },
+  "steps.8.timer.label": {
+   "fr": "Œufs",
+   "t": "Eggs"
+  },
+  "steps.8.timer.done": {
+   "fr": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
+   "t": "Whites set, yolks still runny: turn off the heat straight away."
+  },
+  "steps.9.title": {
+   "fr": "Sers dans le tajine",
+   "t": "Serve in the tagine"
+  },
+  "steps.9.text": {
+   "fr": "Parsème {{coriandre-deco:full}}. Pose le tajine au milieu de la table et sers tout de suite, dans le plat de cuisson. Chacun se sert à la main avec des morceaux de {{khobz:full}}, en trempant le pain dans la sauce et le jaune.",
+   "t": "Scatter over {{coriandre-deco:full}}. Put the tagine in the middle of the table and serve straight away, in the cooking dish. Everyone helps themselves by hand with pieces of {{khobz:full}}, dipping the bread into the sauce and the yolk."
+  },
+  "secrets.0.text": {
+   "fr": "L'assaisonnement classique de la kefta repose au minimum sur le paprika, le cumin, l'oignon et les herbes fraîches.",
+   "t": "The classic seasoning for kefta is based, at the very least, on paprika, cumin, onion and fresh herbs."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih), recette de kefta",
+   "t": "Taste of Maroc (Christine Benlafquih), kefta recipe"
+  },
+  "secrets.1.text": {
+   "fr": "Pas d'œuf ni de chapelure dans la kefta : c'est un écart à la tradition marocaine.",
+   "t": "No egg or breadcrumbs in the kefta: that is a departure from Moroccan tradition."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.2.text": {
+   "fr": "Prends une viande pas trop maigre (15 à 20 % de gras) : un peu de gras est nécessaire pour la texture et le goût classiques de la kefta.",
+   "t": "Use meat that is not too lean (15 to 20% fat): a little fat is needed for the classic texture and flavour of kefta."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc, recette de kefta",
+   "t": "My Moroccan Food (Nargisse Benkabbou); Taste of Maroc, kefta recipe"
+  },
+  "secrets.3.text": {
+   "fr": "Pour Fatéma Hal, ce plat a le parfum du Maroc : persil, coriandre, menthe et cumin. Le cumin, qu'elle juge parfois écrasant, ne trouve grâce selon elle que dans ce tajine.",
+   "t": "For Fatéma Hal, this dish has the scent of Morocco: parsley, coriander, mint and cumin. Cumin, which she sometimes finds overpowering, finds favour with her only in this tagine."
+  },
+  "secrets.3.source": {
+   "fr": "TelQuel, « À la recherche du goût perdu », Fatéma Hal",
+   "t": "TelQuel, “À la recherche du goût perdu”, Fatéma Hal"
+  },
+  "secrets.4.text": {
+   "fr": "Les boulettes se font traditionnellement toutes petites (taille d'une cerise, environ 2,5 cm) ; plus elles sont petites, plus elles cuisent vite.",
+   "t": "The meatballs are traditionally made very small (the size of a cherry, about 2.5 cm); the smaller they are, the faster they cook."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; My Moroccan Food ; MarocMama",
+   "t": "Taste of Maroc; My Moroccan Food; MarocMama"
+  },
+  "secrets.5.text": {
+   "fr": "Coupe les tomates en deux, râpe-les et jette la peau, plutôt que de les peler et les hacher : la cuisson est un peu plus courte.",
+   "t": "Cut the tomatoes in half, grate them and throw away the skin, rather than peeling and chopping them: the cooking time is a little shorter."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Cooking With Alia ; MarocMama",
+   "t": "Taste of Maroc; Cooking With Alia; MarocMama"
+  },
+  "secrets.6.text": {
+   "fr": "Préfère des tomates fraîches bien mûres : en conserve, le goût est un peu métallique. Le temps de réduction dépend beaucoup de leur maturité et de leur jus.",
+   "t": "Go for very ripe fresh tomatoes: tinned ones taste slightly metallic. The reducing time depends a great deal on how ripe and juicy they are."
+  },
+  "secrets.6.source": {
+   "fr": "MarocMama (Amanda Mouttaki) ; Taste of Maroc",
+   "t": "MarocMama (Amanda Mouttaki); Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Fais d'abord réduire la sauce, puis poche les boulettes crues dedans juste le temps de les cuire : trop cuites, elles deviennent dures.",
+   "t": "Reduce the sauce first, then poach the raw meatballs in it just long enough to cook them: overcooked, they become hard."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; My Moroccan Food",
+   "t": "Taste of Maroc; My Moroccan Food"
+  },
+  "secrets.8.text": {
+   "fr": "Laisse un peu d'espace entre les boulettes pour qu'elles s'imprègnent de sauce.",
+   "t": "Leave a little space between the meatballs so they soak up the sauce."
+  },
+  "secrets.8.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.9.text": {
+   "fr": "Les œufs vont à la toute fin, dans de petits nids, avec une pincée de sel sur chacun, couvercle fermé : 4 à 5 minutes suffisent pour un blanc pris et un jaune coulant.",
+   "t": "The eggs go in at the very end, in small wells, with a pinch of salt on each, lid on: 4 to 5 minutes are enough for set whites and runny yolks."
+  },
+  "secrets.9.source": {
+   "fr": "Amour de cuisine ; My Moroccan Food",
+   "t": "Amour de cuisine; My Moroccan Food"
+  },
+  "secrets.10.text": {
+   "fr": "Choisis des œufs fermiers (beldi) si tu peux.",
+   "t": "Choose free-range (beldi) eggs if you can."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "Tajine en terre : utilise toujours un diffuseur sur une source de chaleur autre que le gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond.",
+   "t": "Earthenware tagine: always use a diffuser on any heat source other than gas; on gas without a diffuser, the flame must not touch the base."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; MarocMama",
+   "t": "Taste of Maroc; MarocMama"
+  },
+  "secrets.12.text": {
+   "fr": "Si la sauce est trop acide, une pincée de sucre la corrige.",
+   "t": "If the sauce is too acidic, a pinch of sugar will correct it."
+  },
+  "secrets.12.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "mistakes.0": {
+   "fr": "Mettre de l'œuf ou de la chapelure dans la kefta : ce n'est pas la tradition marocaine.",
+   "t": "Putting egg or breadcrumbs in the kefta: it is not the Moroccan tradition."
+  },
+  "mistakes.1": {
+   "fr": "Prendre une viande trop maigre : il faut un peu de gras pour la texture et le goût.",
+   "t": "Using meat that is too lean: you need a little fat for texture and flavour."
+  },
+  "mistakes.2": {
+   "fr": "Trop pétrir ou tasser la viande : travaille-la juste assez pour mélanger.",
+   "t": "Over-kneading or packing the meat: work it just enough to mix."
+  },
+  "mistakes.3": {
+   "fr": "Faire de grosses boulettes : traditionnellement, elles sont petites et cuisent plus vite.",
+   "t": "Making big meatballs: traditionally they are small and cook faster."
+  },
+  "mistakes.4": {
+   "fr": "Laisser brûler l'ail au début de la sauce.",
+   "t": "Letting the garlic burn at the start of the sauce."
+  },
+  "mistakes.5": {
+   "fr": "Ajouter les boulettes avant que la sauce ait épaissi.",
+   "t": "Adding the meatballs before the sauce has thickened."
+  },
+  "mistakes.6": {
+   "fr": "Prolonger la cuisson des boulettes : elles durcissent.",
+   "t": "Cooking the meatballs for too long: they turn hard."
+  },
+  "mistakes.7": {
+   "fr": "Serrer les boulettes les unes contre les autres : elles prennent moins la sauce.",
+   "t": "Packing the meatballs tightly together: they take up less of the sauce."
+  },
+  "mistakes.8": {
+   "fr": "Crever les jaunes en cassant les œufs.",
+   "t": "Breaking the yolks when cracking the eggs."
+  },
+  "mistakes.9": {
+   "fr": "Oublier le couvercle ou laisser les œufs trop longtemps : le jaune n'est plus coulant.",
+   "t": "Forgetting the lid or leaving the eggs too long: the yolks are no longer runny."
+  },
+  "mistakes.10": {
+   "fr": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur.",
+   "t": "Putting an earthenware tagine on an electric or ceramic hob without a diffuser."
+  },
+  "variants.0": {
+   "fr": "Version de Fès sans tomate (Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez) : boulettes de kefta déjà pochées, cuites dans du beurre et de l'eau avec sel et piment soudania jusqu'à ce que l'eau s'évapore presque, puis œufs cassés dessus juste avant de servir. Aucune tomate dans la partie visible de la recette (aperçu ckbk).",
+   "t": "The Fez version without tomato (Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez): kefta meatballs that have already been poached, cooked in butter and water with salt and soudania chilli until the water has almost evaporated, then eggs cracked over them just before serving. No tomato in the visible part of the recipe (ckbk preview)."
+  },
+  "variants.1": {
+   "fr": "Olives vertes dénoyautées ajoutées en fin de cuisson, juste pour les réchauffer ; sale alors moins la sauce (Taste of Maroc).",
+   "t": "Pitted green olives added at the end of cooking, just to warm them through; in that case, use less salt in the sauce (Taste of Maroc)."
+  },
+  "variants.2": {
+   "fr": "Poivron vert haché avec l'oignon et une feuille de laurier dans la sauce (Taste of Maroc).",
+   "t": "Chopped green pepper with the onion and a bay leaf in the sauce (Taste of Maroc)."
+  },
+  "variants.3": {
+   "fr": "Menthe fraîche hachée dans la kefta (My Moroccan Food ; facultative chez Taste of Maroc, qui la conseille avec l'agneau).",
+   "t": "Chopped fresh mint in the kefta (My Moroccan Food; optional for Taste of Maroc, which recommends it with lamb)."
+  },
+  "variants.4": {
+   "fr": "Une pointe de curcuma ou de cannelle dans la kefta (facultatives chez Taste of Maroc ; cannelle chez Cooking With Alia, épisode 372).",
+   "t": "A hint of turmeric or cinnamon in the kefta (both optional for Taste of Maroc; cinnamon for Cooking With Alia, episode 372)."
+  },
+  "variants.5": {
+   "fr": "Ail dans la kefta (Cooking With Alia, MarocMama, Amour de cuisine).",
+   "t": "Garlic in the kefta (Cooking With Alia, MarocMama, Amour de cuisine)."
+  },
+  "variants.6": {
+   "fr": "Kefta assaisonnée laissée reposer 30 minutes, couverte, avant de façonner (Cooking With Alia, épisode 372).",
+   "t": "Seasoned kefta left to rest, covered, for 30 minutes before shaping (Cooking With Alia, episode 372)."
+  },
+  "variants.7": {
+   "fr": "Sauce au curcuma et au paprika fort « soudaniya » (MarocMama).",
+   "t": "Sauce with turmeric and hot “soudaniya” paprika (MarocMama)."
+  },
+  "variants.8": {
+   "fr": "Concentré de tomate délayé dans de l'eau ajouté à la sauce, boulettes mijotées 40 minutes (Cooking With Alia, épisode 023).",
+   "t": "Tomato purée diluted in water added to the sauce, meatballs simmered for 40 minutes (Cooking With Alia, episode 023)."
+  },
+  "variants.9": {
+   "fr": "Boulettes dorées à la poêle avant d'aller dans la sauce, pour plus de goût et une meilleure tenue (MarocMama ; Amour de cuisine quand elle a le temps).",
+   "t": "Meatballs browned in a frying pan before going into the sauce, for more flavour and so they hold together better (MarocMama; Amour de cuisine when she has time)."
+  },
+  "variants.10": {
+   "fr": "Jaune bien cuit (MarocMama), œufs battus versés sur la sauce, ou pas d'œufs du tout : ils restent facultatifs (MarocMama, Taste of Maroc).",
+   "t": "Well-cooked yolks (MarocMama), beaten eggs poured over the sauce, or no eggs at all: they remain optional (MarocMama, Taste of Maroc)."
+  },
+  "variants.11": {
+   "fr": "Avec des légumes : petits pois (MarocMama, Amour de cuisine), aubergine en dés et harissa (My Moroccan Food), courgette ou poivron (Amour de cuisine).",
+   "t": "With vegetables: peas (MarocMama, Amour de cuisine), diced aubergine and harissa (My Moroccan Food), courgette or pepper (Amour de cuisine)."
+  },
+  "variants.12": {
+   "fr": "Plus de sauce : augmente la sauce tomate de moitié (Taste of Maroc).",
+   "t": "More sauce: increase the tomato sauce by half (Taste of Maroc)."
+  },
+  "variants.13": {
+   "fr": "Autres viandes halal : poulet ou dinde hachés (Taste of Maroc, MarocMama), avec du gingembre pour le poulet (Cooking With Alia).",
+   "t": "Other halal meats: minced chicken or turkey (Taste of Maroc, MarocMama), with ginger for chicken (Cooking With Alia)."
+  },
+  "variants.14": {
+   "fr": "Tomates en conserve pour dépanner (pelées chez My Moroccan Food, en morceaux chez Amour de cuisine).",
+   "t": "Tinned tomatoes at a pinch (whole peeled for My Moroccan Food, chopped for Amour de cuisine)."
+  }
+ }
+}

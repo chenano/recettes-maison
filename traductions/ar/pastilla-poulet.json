@@ -1,0 +1,578 @@
+{
+ "_slug": "pastilla-poulet",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Pastilla au poulet et aux amandes (version fassie)",
+   "t": "بسطيلة الدجاج باللوز على الطريقة الفاسية"
+  },
+  "darija": {
+   "fr": "bastila bel djaj",
+   "t": "بسطيلة بالدجاج"
+  },
+  "tagline": {
+   "fr": "Des feuilles qui craquent, un poulet fondant aux oignons safranés et une couche d'amandes à la cannelle et à la fleur d'oranger : le grand sucré-salé de la cuisine fassie.",
+   "t": "أوراق مقرمشة، ودجاج طريّ بالبصل المزعفر، وطبقة من اللوز بالقرفة وماء الزهر: الطبق الكبير الذي يجمع الحلو والمالح في المطبخ الفاسي."
+  },
+  "region": {
+   "fr": "Fès (version fassie)",
+   "t": "فاس (الطريقة الفاسية)"
+  },
+  "occasion": {
+   "fr": "Fêtes, mariages et grands dîners de réception",
+   "t": "المناسبات والأعراس ومآدب العشاء الكبيرة"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, sur un grand plat rond. Dans un repas de fête, elle se sert en entrée, avant le tajine de poulet ou le méchoui. Tu peux ajouter quelques amandes frites entières sur le décor.",
+   "t": "قدّمها ساخنة جيدًا في طبق كبير مستدير. في ولائم المناسبات تُقدَّم طبقًا أوّل، قبل طاجين الدجاج أو المشوي. يمكنك أن تضيف بعض حبات اللوز المقلي الكاملة فوق الزينة."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et sauce aux oignons",
+   "t": "الدجاج وصلصة البصل"
+  },
+  "ing.poulet.name": {
+   "fr": "de poulet halal, coupé en morceaux",
+   "t": "دجاج حلال، مقطّع إلى قطع"
+  },
+  "ing.poulet.note": {
+   "fr": "ou cuisses et hauts de cuisse ; beldi si possible",
+   "t": "أو أفخاذ كاملة وأعالي أفخاذ؛ دجاج بلدي إن أمكن"
+  },
+  "ing.oignons.name": {
+   "fr": "d'oignons",
+   "t": "بصل"
+  },
+  "ing.oignons.note": {
+   "fr": "émincés finement ou râpés",
+   "t": "مقطّع إلى شرائح رقيقة أو مبشور"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "بقدونس"
+  },
+  "ing.persil.note": {
+   "fr": "haché",
+   "t": "مفروم"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "كزبرة"
+  },
+  "ing.coriandre.note": {
+   "fr": "hachée",
+   "t": "مفرومة"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou neutre",
+   "t": "زيت الزيتون أو زيت المائدة"
+  },
+  "ing.smen.name": {
+   "fr": "de smen ou beurre",
+   "t": "سمن بلدي أو زبدة"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "زنجبيل مطحون (سكينجبير)"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "كركم (الخرقوم)"
+  },
+  "ing.cannelle-sauce.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "شعيرات زعفران"
+  },
+  "ing.sel.name": {
+   "fr": "sel, selon le goût",
+   "t": "ملح، حسب الذوق"
+  },
+  "ing.sel.note": {
+   "fr": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction",
+   "t": "للتقدير: نحو 1,5 إلى 2 ملعقة صغيرة؛ عدّل الملح بعد تكثيف الصلصة"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "فلفل أسود مطحون، حسب الذوق"
+  },
+  "ing.poivre.note": {
+   "fr": "repère : environ 1 c. à c.",
+   "t": "للتقدير: نحو 1 ملعقة صغيرة"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "سكر"
+  },
+  "ing.sucre.note": {
+   "fr": "ou du miel",
+   "t": "أو عسل"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.1.group": {
+   "fr": "Couche d'amandes",
+   "t": "طبقة اللوز"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes émondées (sans la peau)",
+   "t": "لوز مقشّر (بلا قشرته)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "d'huile neutre",
+   "t": "زيت المائدة"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "لقلي اللوز"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "سكر ناعم (سكر الحلويات)"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "à ajuster selon ton goût",
+   "t": "عدّل كميته حسب ذوقك"
+  },
+  "ing.cannelle-amandes.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "d'eau de fleur d'oranger",
+   "t": "ماء الزهر"
+  },
+  "ing.2.group": {
+   "fr": "Montage",
+   "t": "التركيب"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "à faire fondre ; ou smen",
+   "t": "تُذاب؛ أو سمن بلدي"
+  },
+  "ing.feuilles-tour.name": {
+   "fr": "feuille de warqa ou de brick, pour le tour",
+   "t": "ورقة بسطيلة أو بريك للجوانب"
+  },
+  "ing.feuilles-tour.pl": {
+   "fr": "feuilles de warqa ou de brick, pour le tour",
+   "t": "أوراق بسطيلة أو بريك للجوانب"
+  },
+  "ing.feuilles-tour.note": {
+   "fr": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
+   "t": "جهّز من 12 إلى 15 ورقة في المجموع حتى يكون لديك احتياط"
+  },
+  "ing.feuilles-fond.name": {
+   "fr": "feuille de warqa ou de brick, pour le fond",
+   "t": "ورقة بسطيلة أو بريك للقاع"
+  },
+  "ing.feuilles-fond.pl": {
+   "fr": "feuilles de warqa ou de brick, pour le fond",
+   "t": "أوراق بسطيلة أو بريك للقاع"
+  },
+  "ing.feuilles-dessus.name": {
+   "fr": "feuille de warqa ou de brick, pour le dessus",
+   "t": "ورقة بسطيلة أو بريك للوجه"
+  },
+  "ing.feuilles-dessus.pl": {
+   "fr": "feuilles de warqa ou de brick, pour le dessus",
+   "t": "أوراق بسطيلة أو بريك للوجه"
+  },
+  "ing.jaune.name": {
+   "fr": "jaune d'œuf",
+   "t": "صفار بيضة"
+  },
+  "ing.jaune.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "صفارات بيض"
+  },
+  "ing.jaune.note": {
+   "fr": "pour coller les plis",
+   "t": "للصق الثنيات"
+  },
+  "ing.3.group": {
+   "fr": "Décor",
+   "t": "التزيين"
+  },
+  "ing.sucre-glace-decor.name": {
+   "fr": "de sucre glace",
+   "t": "سكر ناعم"
+  },
+  "ing.cannelle-decor.name": {
+   "fr": "de cannelle moulue",
+   "t": "قرفة مطحونة"
+  },
+  "equipment.0": {
+   "fr": "Grand faitout ou cocotte avec couvercle",
+   "t": "قدر كبيرة أو طنجرة بغطاء"
+  },
+  "equipment.1": {
+   "fr": "Poêle",
+   "t": "مقلاة"
+  },
+  "equipment.2": {
+   "fr": "Passoire et papier absorbant",
+   "t": "مصفاة وورق ماصّ"
+  },
+  "equipment.3": {
+   "fr": "Mixeur (ou mortier)",
+   "t": "خلاط (أو هاون)"
+  },
+  "equipment.4": {
+   "fr": "Moule rond de 30 cm à bord bas (type plat à tarte)",
+   "t": "قالب دائري بقطر 30 سم وحافة منخفضة (مثل قالب التارت)"
+  },
+  "equipment.5": {
+   "fr": "Pinceau de cuisine",
+   "t": "فرشاة مطبخ"
+  },
+  "equipment.6": {
+   "fr": "Film alimentaire et torchon",
+   "t": "غلاف بلاستيكي شفاف للطعام وفوطة مطبخ"
+  },
+  "equipment.7": {
+   "fr": "Passoire fine pour le sucre glace",
+   "t": "مصفاة دقيقة للسكر الناعم"
+  },
+  "equipment.8": {
+   "fr": "Grand plat de service rond",
+   "t": "طبق تقديم كبير مستدير"
+  },
+  "steps.0.title": {
+   "fr": "Prépare le poulet et les herbes",
+   "t": "حضّر الدجاج والأعشاب"
+  },
+  "steps.0.text": {
+   "fr": "Coupe {{poulet}} de poulet en morceaux. Émince finement {{oignons}} d'oignons. Hache {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "قطّع {{poulet}} من الدجاج إلى قطع. قطّع {{oignons}} من البصل إلى شرائح رقيقة. افرم {{persil}} من البقدونس و{{coriandre}} من الكزبرة."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir le poulet aux épices",
+   "t": "شوّح الدجاج مع التوابل"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand faitout, mets le poulet, les oignons, les herbes, {{huile}} d'huile et {{smen}} de smen (ou de beurre). Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{cannelle-sauce}} de cannelle, {{safran}} de safran, du sel et du poivre. Mélange, couvre et laisse cuire à feu moyen en remuant de temps en temps.",
+   "t": "في قدر كبيرة، ضع الدجاج والبصل والأعشاب و{{huile}} من الزيت و{{smen}} من السمن البلدي (أو الزبدة). أضف {{gingembre}} من الزنجبيل و{{curcuma}} من الكركم و{{cannelle-sauce}} من القرفة و{{safran}} من الزعفران، والملح والفلفل. اخلط، ثم غطِّ القدر واترك الدجاج يطهى على نار متوسطة، مع التحريك من حين لآخر."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poulet aux épices",
+   "t": "الدجاج بالتوابل"
+  },
+  "steps.1.timer.done": {
+   "fr": "Passe à l'étape suivante : verse l'eau.",
+   "t": "انتقل إلى الخطوة التالية: اسكب الماء."
+  },
+  "steps.2.title": {
+   "fr": "Fais mijoter",
+   "t": "اترك الدجاج ينضج على نار هادئة"
+  },
+  "steps.2.text": {
+   "fr": "Verse {{eau}} d'eau et porte à ébullition. Baisse à feu moyen-doux, couvre et laisse mijoter en retournant les morceaux de temps en temps. C'est prêt quand la viande se détache facilement de l'os. Pendant ce temps, prépare les amandes.",
+   "t": "اسكب {{eau}} من الماء واتركه حتى يغلي. اخفض النار إلى ما بين المتوسطة والهادئة، وغطِّ القدر واترك الدجاج ينضج ببطء، مع تقليب القطع من حين لآخر. يكون جاهزًا عندما ينفصل اللحم عن العظم بسهولة. في هذه الأثناء، حضّر اللوز."
+  },
+  "steps.2.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "طهي الدجاج على نار هادئة"
+  },
+  "steps.2.timer.done": {
+   "fr": "La viande se détache de l'os ? Sinon, prolonge un peu la cuisson.",
+   "t": "هل ينفصل اللحم عن العظم؟ إن لم ينفصل، أطل الطهي قليلًا."
+  },
+  "steps.3.title": {
+   "fr": "Fais frire les amandes",
+   "t": "اقلِ اللوز"
+  },
+  "steps.3.text": {
+   "fr": "Mets {{amandes}} d'amandes dans une poêle avec {{huile-friture}} d'huile encore froide. Chauffe à feu moyen en remuant souvent, jusqu'à ce qu'elles soient dorées de façon uniforme. Égoutte-les sur du papier absorbant et laisse-les refroidir.",
+   "t": "ضع {{amandes}} من اللوز في مقلاة مع {{huile-friture}} من الزيت وهو لا يزال باردًا. سخّن المقلاة على نار متوسطة مع التحريك مرارًا، حتى يصير اللوز ذهبيًا بالتساوي. صفِّه على ورق ماصّ واتركه يبرد."
+  },
+  "steps.4.title": {
+   "fr": "Prépare le mélange aux amandes",
+   "t": "حضّر خليط اللوز"
+  },
+  "steps.4.text": {
+   "fr": "Concasse les amandes au mixeur par petites impulsions : il doit rester de petits morceaux, pas de la poudre. Mélange-les avec {{sucre-glace}} de sucre glace, {{cannelle-amandes}} de cannelle et {{fleur-oranger}} d'eau de fleur d'oranger. Réserve.",
+   "t": "اجرش اللوز في الخلاط بضغطات قصيرة متقطعة: يجب أن تبقى قطع صغيرة، لا مسحوق. اخلطه مع {{sucre-glace}} من السكر الناعم و{{cannelle-amandes}} من القرفة و{{fleur-oranger}} من ماء الزهر. ضعه جانبًا."
+  },
+  "steps.5.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "كثّف صلصة البصل"
+  },
+  "steps.5.text": {
+   "fr": "Sors le poulet et pose-le sur une assiette pour qu'il tiédisse. Ajoute {{sucre}} de sucre à la sauce et laisse réduire à feu moyen-doux, sans couvercle, en remuant souvent. C'est prêt quand il ne reste plus de liquide, seulement les oignons fondus dans leur gras.",
+   "t": "أخرج الدجاج وضعه في صحن حتى يفتر. أضف {{sucre}} من السكر إلى الصلصة واتركها تتكثف على نار متوسطة إلى هادئة، دون غطاء، مع التحريك مرارًا. تكون جاهزة عندما لا يبقى أي سائل، بل البصل الذائب في دهنه فقط."
+  },
+  "steps.5.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "تكثيف الصلصة"
+  },
+  "steps.5.timer.done": {
+   "fr": "Plus de liquide, juste le gras ? Sinon, continue quelques minutes en remuant.",
+   "t": "لم يبقَ سائل، بل الدهن فقط؟ وإلا فواصل بضع دقائق مع التحريك."
+  },
+  "steps.6.title": {
+   "fr": "Effiloche le poulet",
+   "t": "فتّت الدجاج"
+  },
+  "steps.6.text": {
+   "fr": "Pendant que la sauce réduit, retire la peau et les os du poulet. Effiloche la chair en petits morceaux et réserve-la.",
+   "t": "بينما تتكثف الصلصة، انزع الجلد والعظام عن الدجاج. فتّت اللحم إلى قطع صغيرة وضعه جانبًا."
+  },
+  "steps.7.title": {
+   "fr": "Cuis les œufs dans la sauce",
+   "t": "اطبخ البيض في الصلصة"
+  },
+  "steps.7.text": {
+   "fr": "Bats {{oeufs:full}} en omelette. Verse-les peu à peu dans la sauce réduite, à feu doux, en remuant sans arrêt. Arrête quand ils sont pris en une crème épaisse, comme des œufs brouillés bien secs, sans liquide.",
+   "t": "اخفق {{oeufs:full}} كما للعجة. اسكب البيض في الصلصة المكثفة شيئًا فشيئًا، على نار هادئة، مع التحريك دون توقف. توقّف عندما يتماسك ويصير كريمة سميكة، مثل بيض مخفوق مطبوخ في المقلاة حتى جفّ تمامًا، بلا أي سائل."
+  },
+  "steps.8.title": {
+   "fr": "Égoutte et laisse refroidir",
+   "t": "صفِّ الخليط واتركه يبرد"
+  },
+  "steps.8.text": {
+   "fr": "Verse les œufs dans une passoire posée sur un bol et garde le gras qui s'égoutte. Laisse refroidir complètement les œufs et le poulet, chacun de son côté. Tu peux préparer les garnitures la veille et les garder au frigo.",
+   "t": "اسكب البيض في مصفاة موضوعة فوق وعاء، واحتفظ بالدهن الذي يقطر منه. اترك البيض والدجاج يبردان تمامًا، كلٌّ منهما على حدة. يمكنك تحضير الحشوات في اليوم السابق وحفظها في الثلاجة."
+  },
+  "steps.9.title": {
+   "fr": "Prépare le moule",
+   "t": "حضّر القالب"
+  },
+  "steps.9.text": {
+   "fr": "Préchauffe le four à 180 °C. Fais fondre {{beurre}} de beurre et mélange-le au gras réservé. Beurre généreusement un moule rond de 30 cm. Garde les feuilles sous un film alimentaire et un torchon pour qu'elles ne sèchent pas.",
+   "t": "سخّن الفرن مسبقًا إلى 180 درجة مئوية. ذوّب {{beurre}} من الزبدة واخلطها بالدهن الذي احتفظت به. ادهن قالبًا دائريًا بقطر 30 سم بالزبدة بسخاء. أبقِ الأوراق تحت غلاف بلاستيكي وفوطة حتى لا تجف."
+  },
+  "steps.10.title": {
+   "fr": "Forme la base",
+   "t": "شكّل القاعدة"
+  },
+  "steps.10.text": {
+   "fr": "Badigeonne de beurre {{feuilles-tour:full}} et dispose-les en rosace dans le moule : elles se chevauchent et débordent largement du bord. Pose au centre {{feuilles-fond:full}}, beurrées, pour renforcer le fond.",
+   "t": "ادهن بالزبدة {{feuilles-tour:full}} ورتّبها في القالب على شكل وردة: تتراكب الأوراق وتتجاوز حافته بكثير. ضع في الوسط {{feuilles-fond:full}}، بعد دهنها بالزبدة، لتقوية القاع."
+  },
+  "steps.11.title": {
+   "fr": "Superpose les garnitures",
+   "t": "رتّب الحشوات طبقات"
+  },
+  "steps.11.text": {
+   "fr": "Étale le poulet effiloché en couche régulière. Ajoute les œufs, puis termine par le mélange aux amandes, bien à plat.",
+   "t": "افرد الدجاج المفتّت في طبقة متساوية. أضف البيض، ثم اختم بخليط اللوز في طبقة مستوية جيدًا."
+  },
+  "steps.12.title": {
+   "fr": "Referme la pastilla",
+   "t": "أغلق البسطيلة"
+  },
+  "steps.12.text": {
+   "fr": "Rabats les feuilles qui débordent sur les amandes, en les badigeonnant de beurre au fur et à mesure. Bats {{jaune:full}} et passe-le sur les plis pour bien les coller.",
+   "t": "اثنِ الأوراق المتدلية فوق اللوز، وادهنها بالزبدة أولًا بأول. اخفق {{jaune:full}} وادهن الثنيات بالصفار المخفوق لتلتصق جيدًا."
+  },
+  "steps.13.title": {
+   "fr": "Couvre le dessus",
+   "t": "غطِّ الوجه"
+  },
+  "steps.13.text": {
+   "fr": "Badigeonne de beurre {{feuilles-dessus:full}} et pose-les sur le dessus en les faisant se chevaucher. Rentre leurs bords entre la pastilla et le moule pour obtenir un bord bien rond. Badigeonne tout le dessus avec le reste de beurre.",
+   "t": "ادهن بالزبدة {{feuilles-dessus:full}} وضعها فوق الوجه بحيث تتراكب. أدخل أطرافها بين البسطيلة والقالب لتحصل على حافة مستديرة جيدًا. ادهن الوجه كله بما تبقى من الزبدة."
+  },
+  "steps.14.title": {
+   "fr": "Fais cuire au four",
+   "t": "اخبزها في الفرن"
+  },
+  "steps.14.text": {
+   "fr": "Enfourne à mi-hauteur. Cuis jusqu'à ce que la pastilla soit bien dorée et croustillante.",
+   "t": "ضعها في الفرن على الرف الأوسط. اخبزها حتى تصير البسطيلة ذهبية جيدًا ومقرمشة."
+  },
+  "steps.14.timer.label": {
+   "fr": "Cuisson au four",
+   "t": "الخبز في الفرن"
+  },
+  "steps.14.timer.done": {
+   "fr": "Bien dorée et croustillante ? Sors-la. Sinon, laisse encore quelques minutes en surveillant.",
+   "t": "ذهبية ومقرمشة جيدًا؟ أخرجها. وإلا فاتركها بضع دقائق أخرى مع المراقبة."
+  },
+  "steps.15.title": {
+   "fr": "Laisse reposer, décore et sers",
+   "t": "اتركها ترتاح، ثم زيّنها وقدّمها"
+  },
+  "steps.15.text": {
+   "fr": "Laisse reposer la pastilla avant de la couper. Fais-la glisser délicatement sur un grand plat rond. Saupoudre {{sucre-glace-decor}} de sucre glace à travers une passoire fine, puis trace des croisillons avec {{cannelle-decor}} de cannelle. Sers bien chaud.",
+   "t": "اترك البسطيلة ترتاح قبل تقطيعها. دعها تنزلق بلطف إلى طبق كبير مستدير. رشّ {{sucre-glace-decor}} من السكر الناعم عبر مصفاة دقيقة، ثم ارسم خطوطًا متقاطعة باستعمال {{cannelle-decor}} من القرفة. قدّمها ساخنة جيدًا."
+  },
+  "steps.15.timer.label": {
+   "fr": "Repos avant découpe",
+   "t": "الراحة قبل التقطيع"
+  },
+  "steps.15.timer.done": {
+   "fr": "Décore et sers bien chaud !",
+   "t": "زيّنها وقدّمها ساخنة جيدًا!"
+  },
+  "secrets.0.text": {
+   "fr": "Fais réduire la sauce aux oignons jusqu'à ce qu'elle « tienne dans son gras » : plus une goutte de liquide. Une farce humide ramollit la pastilla.",
+   "t": "كثّف صلصة البصل حتى «تبقى في دهنها»: لا قطرة سائل واحدة. فالحشوة الرطبة تجعل البسطيلة لينة."
+  },
+  "secrets.0.source": {
+   "fr": "Barlamane (Mariam Bensellham, experte en cuisine marocaine) ; My Moroccan Food ; Amour de cuisine",
+   "t": "Barlamane (Mariam Bensellham، خبيرة في الطبخ المغربي)؛ My Moroccan Food؛ Amour de cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Cuis les œufs dans la sauce réduite en remuant sans arrêt, jusqu'à une texture d'œufs brouillés bien secs.",
+   "t": "اطبخ البيض في الصلصة المكثفة مع التحريك دون توقف، حتى يصير قوامه مثل بيض مخفوق مطبوخ في المقلاة حتى جفّ تمامًا."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia ; Ma fleur d'oranger ; Paula Wolfert (The Food of Morocco)",
+   "t": "Cooking with Alia؛ Ma fleur d'oranger؛ Paula Wolfert (The Food of Morocco)"
+  },
+  "secrets.2.text": {
+   "fr": "Égoutte le mélange aux œufs et garde le gras : mélangé au beurre fondu, il sert à badigeonner les feuilles.",
+   "t": "صفِّ خليط البيض واحتفظ بالدهن: بعد خلطه بالزبدة المذابة، يُستعمل لدهن الأوراق."
+  },
+  "secrets.2.source": {
+   "fr": "Femmes du Maroc (cuisinières de Maymana) ; La Cuisine Marocaine ; Paula Wolfert",
+   "t": "Femmes du Maroc (طاهيات Maymana)؛ La Cuisine Marocaine؛ Paula Wolfert"
+  },
+  "secrets.3.text": {
+   "fr": "Mets les amandes dans l'huile encore froide avant de chauffer : elles dorent de façon uniforme.",
+   "t": "ضع اللوز في الزيت وهو لا يزال باردًا قبل التسخين: هكذا يتحمّر بالتساوي."
+  },
+  "secrets.3.source": {
+   "fr": "Barlamane (Mariam Bensellham)",
+   "t": "Barlamane (Mariam Bensellham)"
+  },
+  "secrets.4.text": {
+   "fr": "Concasse les amandes sans les réduire en poudre.",
+   "t": "اجرش اللوز دون أن تطحنه حتى يصير مسحوقًا."
+  },
+  "secrets.4.source": {
+   "fr": "Barlamane ; Amour de cuisine ; Paula Wolfert",
+   "t": "Barlamane؛ Amour de cuisine؛ Paula Wolfert"
+  },
+  "secrets.5.text": {
+   "fr": "Monte la pastilla avec des garnitures bien froides, sinon les feuilles se déchirent.",
+   "t": "ركّب البسطيلة بحشوات باردة تمامًا، وإلا تمزقت الأوراق."
+  },
+  "secrets.5.source": {
+   "fr": "Ma fleur d'oranger",
+   "t": "Ma fleur d'oranger"
+  },
+  "secrets.6.text": {
+   "fr": "Beurre généreusement chaque feuille : c'est ce qui donne le croustillant.",
+   "t": "ادهن كل ورقة بالزبدة بسخاء: هذا ما يمنح البسطيلة قرمشتها."
+  },
+  "secrets.6.source": {
+   "fr": "Barlamane ; Amour de cuisine",
+   "t": "Barlamane؛ Amour de cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Garde les feuilles sous un film et un torchon pendant le montage pour qu'elles ne sèchent pas.",
+   "t": "أبقِ الأوراق تحت غلاف بلاستيكي وفوطة أثناء التركيب حتى لا تجف."
+  },
+  "secrets.7.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "secrets.8.text": {
+   "fr": "Un peu de sucre (ou de miel) ajouté à la sauce aux oignons pendant la réduction renforce l'équilibre sucré-salé.",
+   "t": "قليل من السكر (أو العسل) يُضاف إلى صلصة البصل أثناء تكثيفها يعزّز التوازن بين الحلو والمالح."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Ma fleur d'oranger ; Femmes du Maroc",
+   "t": "My Moroccan Food؛ Ma fleur d'oranger؛ Femmes du Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Prépare les garnitures à l'avance (la veille, jusqu'à 48 h) et garde-les séparément au frigo : le jour J, il ne reste que le montage.",
+   "t": "حضّر الحشوات مسبقًا (في اليوم السابق، أو حتى قبل 48 ساعة) واحفظ كلًّا منها على حدة في الثلاجة: في اليوم الموعود، لا يبقى إلا التركيب."
+  },
+  "secrets.9.source": {
+   "fr": "Amour de cuisine ; Paula Wolfert ; Ma fleur d'oranger",
+   "t": "Amour de cuisine؛ Paula Wolfert؛ Ma fleur d'oranger"
+  },
+  "mistakes.0": {
+   "fr": "Monter avec une sauce encore liquide : la pastilla devient molle.",
+   "t": "التركيب بصلصة لا تزال سائلة: تصير البسطيلة لينة."
+  },
+  "mistakes.1": {
+   "fr": "Laisser les œufs baveux : leur liquide détrempe les feuilles.",
+   "t": "ترك البيض نصف سائل: سائله يبلّل الأوراق."
+  },
+  "mistakes.2": {
+   "fr": "Monter avec une garniture tiède : les feuilles se déchirent.",
+   "t": "التركيب بحشوة فاترة: تتمزق الأوراق."
+  },
+  "mistakes.3": {
+   "fr": "Réduire les amandes en poudre fine au lieu de les concasser.",
+   "t": "طحن اللوز حتى يصير مسحوقًا ناعمًا بدل جرشه."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les feuilles à l'air pendant le montage : elles sèchent.",
+   "t": "ترك الأوراق مكشوفة للهواء أثناء التركيب: تجف."
+  },
+  "mistakes.5": {
+   "fr": "Être avare de beurre : la pastilla ne croustille pas.",
+   "t": "البخل بالزبدة: لا تصير البسطيلة مقرمشة."
+  },
+  "mistakes.6": {
+   "fr": "Couper la pastilla dès la sortie du four : laisse-la reposer 10 min.",
+   "t": "تقطيع البسطيلة فور إخراجها من الفرن: اتركها ترتاح 10 دقائق."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer les restes au micro-ondes : la pâte ramollit. Passe-les plutôt au four.",
+   "t": "تسخين البقايا في الميكروويف: تلين العجينة. سخّنها في الفرن بدلًا من ذلك."
+  },
+  "variants.0": {
+   "fr": "Au pigeon, la version traditionnelle de Fès : remplace le poulet par des pigeons halal, cuits de la même façon avec oignons, épices et herbes, puis désossés sans la peau ; le reste ne change pas. Le blog Épices et douceurs (recette attribuée à Fatéma Hal) les fait mijoter 30 à 35 min à couvert. Aux mariages, la pastilla au pigeon est servie juste avant le m'hammar de poulet (Taste of Maroc).",
+   "t": "بالحمام، وهي الطريقة التقليدية في فاس: عوّض الدجاج بحمام حلال، يُطهى بالطريقة نفسها مع البصل والتوابل والأعشاب، ثم يُنزع عظمه وجلده؛ ولا يتغير الباقي. مدونة Épices et douceurs (وصفة منسوبة إلى Fatéma Hal) تطهوه على نار هادئة من 30 إلى 35 دقيقة والقدر مغطاة. وفي الأعراس، تُقدَّم بسطيلة الحمام قبل الدجاج المحمّر مباشرة (Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Amandes grillées au four au lieu d'être frites, avec un filet d'huile, jusqu'à ce qu'elles soient dorées (My Moroccan Food : environ 18 min à 160 °C ; Amour de cuisine : environ 15 min à 160 °C).",
+   "t": "لوز محمّص في الفرن بدل قليه، مع قليل من الزيت، حتى يصير ذهبيًا (My Moroccan Food: نحو 18 دقيقة على 160 درجة مئوية؛ Amour de cuisine: نحو 15 دقيقة على 160 درجة مئوية)."
+  },
+  "variants.2": {
+   "fr": "Œufs brouillés à part dans un peu de beurre, au lieu d'être cuits dans la sauce (My Moroccan Food).",
+   "t": "بيض مخفوق يُطهى على حدة في قليل من الزبدة، بدل طهيه في الصلصة (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Miel à la place du sucre dans la sauce (Femmes du Maroc ; My Moroccan Food).",
+   "t": "العسل بدل السكر في الصلصة (Femmes du Maroc؛ My Moroccan Food)."
+  },
+  "variants.4": {
+   "fr": "Pastillas individuelles : mêmes garnitures dans des cercles de 8 à 12 cm, 20 à 30 min au four (Femmes du Maroc : 180 °C, 20 à 25 min ; Amour de cuisine : 180 °C, environ 30 min ; My Moroccan Food : 200 °C, environ 25 min).",
+   "t": "بسطيلات فردية: الحشوات نفسها في حلقات قطرها من 8 إلى 12 سم، من 20 إلى 30 دقيقة في الفرن (Femmes du Maroc: 180 درجة مئوية، من 20 إلى 25 دقيقة؛ Amour de cuisine: 180 درجة مئوية، نحو 30 دقيقة؛ My Moroccan Food: 200 درجة مئوية، نحو 25 دقيقة)."
+  },
+  "variants.5": {
+   "fr": "Pâte filo à la place de la warqa ou de la brick : 2 à 3 feuilles de filo beurrées par couche et environ 5 min de cuisson en plus (Amour de cuisine).",
+   "t": "عجينة الفيلو بدل ورقة البسطيلة أو البريك: من 2 إلى 3 أوراق فيلو مدهونة بالزبدة لكل طبقة، ونحو 5 دقائق إضافية من الخبز (Amour de cuisine)."
+  },
+  "variants.6": {
+   "fr": "Façon Paula Wolfert (The Food of Morocco) : four à 220 °C pendant 20 min, puis pastilla retournée sur une plaque beurrée, badigeonnée de beurre et remise 10 min au four ; elle ajoute aussi du jus de citron dans la sauce avant les œufs et une pointe de muscade.",
+   "t": "على طريقة Paula Wolfert (The Food of Morocco): الفرن على 220 درجة مئوية لمدة 20 دقيقة، ثم تُقلب البسطيلة على صينية مدهونة بالزبدة، وتُدهن بالزبدة، وتُعاد إلى الفرن 10 دقائق؛ وتضيف أيضًا عصير الليمون إلى الصلصة قبل البيض، وقليلًا جدًا من جوزة الطيب."
+  },
+  "variants.7": {
+   "fr": "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
+   "t": "لمسات أخرى حسب العائلات: قليل من الصمغ العربي المدقوق في الصلصة (Cooking with Alia، الوصفة 695؛ Épices et douceurs) أو من رأس الحانوت (Femmes du Maroc)."
+  }
+ }
+}

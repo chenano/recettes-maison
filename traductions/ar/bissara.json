@@ -1,0 +1,450 @@
+{
+ "_slug": "bissara",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Bissara, soupe de fèves sèches",
+   "t": "البيصارة، حساء الفول اليابس"
+  },
+  "darija": {
+   "fr": "Bissara (bayssar dans le Nord)",
+   "t": "بيصارة (وتُسمّى بيصار في الشمال)"
+  },
+  "tagline": {
+   "fr": "La purée-soupe de fèves du Nord : toute simple dans la marmite, irrésistible dans le bol avec l'huile d'olive, le cumin et le piment.",
+   "t": "حساء الفول المهروس القادم من الشمال: بسيط جدًا في القدر، ولا يُقاوَم في الوعاء مع زيت الزيتون والكمون والفلفل الحار."
+  },
+  "region": {
+   "fr": "Tout le Maroc, mais spécialité du Nord : Tanger, Tétouan, Chefchaouen et le pays Jbala, où on l'appelle aussi « bayssar »",
+   "t": "في كل أنحاء المغرب، لكنها من أطباق الشمال المميزة: طنجة وتطوان وشفشاون وبلاد جبالة، حيث تُسمّى أيضًا «بيصار»"
+  },
+  "occasion": {
+   "fr": "Plat d'hiver, au petit-déjeuner, au déjeuner ou au dîner ; plat de rue très populaire, servi dès le matin ; parfois au ftour du Ramadan",
+   "t": "طبق شتوي، يؤكل في الفطور الصباحي أو الغداء أو العشاء؛ وهو طبق شعبي جدًا في الشارع، يُقدَّم منذ الصباح؛ وأحيانًا في فطور رمضان"
+  },
+  "img_alt": {
+   "fr": "Bols de bissara arrosés d'huile d'olive et de cumin, avec olives et khobz",
+   "t": "أوعية من البيصارة مسقية بزيت الزيتون ومرشوشة بالكمون، مع الزيتون وخبز الدار"
+  },
+  "serving": {
+   "fr": "Bien chaude, en bol pour la soupe ou en assiette creuse pour la purée à saucer. Arrose d'huile d'olive et saupoudre de cumin et de paprika ; laisse sur la table du piment fort, du cumin, de l'huile d'olive et du citron ; sers avec du khobz ou du pain d'orge (Choumicha ; Taste of Maroc ; Hespress ; Sky News Arabia ; Bladi.net). Dans le Nord, on l'accompagne d'olives et d'oignon, parfois de poisson frit (Hespress 2011 et 2014 ; Taste of Maroc). Elle se mange au petit-déjeuner, au déjeuner ou au dîner (Hespress ; My Moroccan Food ; Taste of Maroc), surtout quand il fait froid (Hespress ; Le360 ; My Moroccan Food).",
+   "t": "ساخنة جدًا، في وعاء إذا كانت حساءً، أو في صحن عميق إذا كانت هريسًا يؤكل بالخبز. اسقها بزيت الزيتون ورشّ عليها الكمون والبابريكا؛ واترك على المائدة الفلفل الحار والكمون وزيت الزيتون والليمون؛ وقدّمها مع خبز الدار أو خبز الشعير (Choumicha؛ Taste of Maroc؛ Hespress؛ Sky News Arabia؛ Bladi.net). وفي الشمال، تُرافقها حبات الزيتون والبصل، وأحيانًا السمك المقلي (Hespress 2011 و2014؛ Taste of Maroc). وتؤكل في الفطور الصباحي أو الغداء أو العشاء (Hespress؛ My Moroccan Food؛ Taste of Maroc)، خصوصًا عندما يكون الجو باردًا (Hespress؛ Le360؛ My Moroccan Food)."
+  },
+  "notes.0.title": {
+   "fr": "Fèves et favisme (déficit en G6PD)",
+   "t": "الفول والفُوال (نقص إنزيم G6PD)"
+  },
+  "notes.0.text": {
+   "fr": "En cas de déficit en G6PD, les fèves peuvent provoquer une destruction des globules rouges (anémie hémolytique, appelée favisme), parfois grave : ne sers pas cette recette aux personnes concernées (MedlinePlus, Bibliothèque nationale de médecine des États-Unis ; OMS).",
+   "t": "في حالة نقص إنزيم G6PD، قد يسبّب الفول تكسّر كريات الدم الحمراء (فقر دم انحلالي يُسمّى الفُوال)، وقد يكون ذلك خطيرًا أحيانًا: لا تقدّم هذه الوصفة للأشخاص المصابين بهذا النقص (MedlinePlus، المكتبة الوطنية للطب في الولايات المتحدة؛ OMS)."
+  },
+  "ing.0.group": {
+   "fr": "Bissara",
+   "t": "البيصارة"
+  },
+  "ing.feves.name": {
+   "fr": "de fèves sèches cassées et décortiquées",
+   "t": "فول يابس مكسور ومقشّر"
+  },
+  "ing.feves.note": {
+   "fr": "sans la peau. Favisme : lis l'encadré plus haut.",
+   "t": "بلا قشرة. الفُوال: اقرأ الإطار أعلاه."
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à éplucher, sans couper",
+   "t": "يُقشَّر دون تقطيع"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau froide",
+   "t": "ماء بارد"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier à la fin",
+   "t": "تُعدَّل كميته في النهاية"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "eau chaude",
+   "t": "ماء ساخن"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "pendant la cuisson et pour la texture, si besoin",
+   "t": "أثناء الطهي ولضبط القوام، عند الحاجة"
+  },
+  "ing.1.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive vierge extra",
+   "t": "زيت زيتون بكر ممتاز"
+  },
+  "ing.huile-service.note": {
+   "fr": "un bon filet par bol",
+   "t": "خيط سخي لكل وعاء"
+  },
+  "ing.cumin-service.name": {
+   "fr": "cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.paprika-service.name": {
+   "fr": "paprika",
+   "t": "بابريكا"
+  },
+  "ing.piment.name": {
+   "fr": "piment fort en poudre",
+   "t": "فلفل حار مطحون"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif, sur la table",
+   "t": "اختياري، يوضع على المائدة"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمون"
+  },
+  "ing.citron.note": {
+   "fr": "en quartiers, facultatif",
+   "t": "مقطّع إلى أرباع، اختياري"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "لتغميسه"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite à fond épais",
+   "t": "قدر كبيرة ذات قاع سميك"
+  },
+  "equipment.1": {
+   "fr": "Cuillère ou petite écumoire, pour retirer la mousse",
+   "t": "ملعقة أو مغرفة مثقوبة صغيرة، لإزالة الرغوة"
+  },
+  "equipment.2": {
+   "fr": "Mixeur plongeant (ou moulin à légumes, ou passoire fine)",
+   "t": "خلاط يدوي غاطس (أو مطحنة خضر يدوية، أو مصفاة دقيقة)"
+  },
+  "equipment.3": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "equipment.4": {
+   "fr": "Louche",
+   "t": "مغرفة"
+  },
+  "equipment.5": {
+   "fr": "Bols ou assiettes creuses",
+   "t": "أوعية أو صحون عميقة"
+  },
+  "steps.0.title": {
+   "fr": "Trie et lave les fèves",
+   "t": "نقِّ الفول واغسله"
+  },
+  "steps.0.text": {
+   "fr": "Étale {{feves}} de fèves cassées sur un plateau. Retire les petits cailloux et les bouts de peau brune. Lave-les à l'eau, puis égoutte-les.",
+   "t": "افرد {{feves}} من الفول المكسور على صينية. أزل الحصى الصغيرة وبقايا القشرة البنية. اغسله بالماء، ثم صفِّه."
+  },
+  "steps.0.tip": {
+   "fr": "Pas besoin de trempage avec des fèves cassées et décortiquées. Si tu les fais tremper une nuit, comme Taste of Maroc, les derniers bouts de peau se retirent plus facilement.",
+   "t": "لا حاجة إلى نقع الفول المكسور والمقشّر. وإذا نقعته ليلة كاملة، كما يفعل Taste of Maroc، فإن آخر بقايا القشرة تُزال بسهولة أكبر."
+  },
+  "steps.1.title": {
+   "fr": "Épluche l'ail",
+   "t": "قشّر الثوم"
+  },
+  "steps.1.text": {
+   "fr": "Épluche {{ail:full}}. Garde l'ail entier, sans le couper.",
+   "t": "قشّر {{ail:full}}. اترك الثوم كاملًا دون تقطيع."
+  },
+  "steps.1.tip": {
+   "fr": "Choumicha met l'ail en chemise, puis passe la purée à la passoire fine ; Nargisse Benkabbou (My Moroccan Food) le cuit aussi en chemise, puis l'épluche avant de l'écraser. Comme ici tu mixes, épluche-le avant.",
+   "t": "تضع Choumicha الثوم بقشرته، ثم تمرّر الهريس في مصفاة دقيقة؛ وNargisse Benkabbou (My Moroccan Food) تطهوه أيضًا بقشرته، ثم تقشّره قبل هرسه. وبما أنك ستستعمل الخلاط هنا، فقشّره مسبقًا."
+  },
+  "steps.2.title": {
+   "fr": "Mets les fèves à cuire",
+   "t": "ضع الفول على النار"
+  },
+  "steps.2.text": {
+   "fr": "Mets les fèves, l'ail et {{eau}} d'eau froide dans une grande marmite à fond épais. Porte à ébullition sur feu moyen.",
+   "t": "ضع الفول والثوم و{{eau}} من الماء البارد في قدر كبيرة ذات قاع سميك. أوصلها إلى الغليان على نار متوسطة."
+  },
+  "steps.3.title": {
+   "fr": "Écume la mousse",
+   "t": "أزل الرغوة"
+  },
+  "steps.3.text": {
+   "fr": "Dès que ça bout, baisse le feu. Avec une cuillère, retire la mousse blanche qui monte à la surface, jusqu'à ce qu'il n'en reste presque plus.",
+   "t": "ما إن يبدأ الغليان، خفّف النار. أزل بملعقة الرغوة البيضاء التي تطفو على السطح، حتى لا يبقى منها شيء تقريبًا."
+  },
+  "steps.3.tip": {
+   "fr": "Choumicha écume pendant 10 à 15 minutes.",
+   "t": "تزيل Choumicha الرغوة لمدة 10 إلى 15 دقيقة."
+  },
+  "steps.4.title": {
+   "fr": "Laisse mijoter une heure",
+   "t": "اتركه ينضج على نار هادئة ساعة"
+  },
+  "steps.4.text": {
+   "fr": "Couvre la marmite à moitié pour que ça ne déborde pas. Laisse cuire à feu doux pendant 1 heure, jusqu'à ce que les fèves soient fondantes. Remue de temps en temps en raclant le fond. Si le niveau baisse trop, ajoute un peu d'{{eau-chaude}}.",
+   "t": "غطِّ القدر إلى النصف حتى لا يفيض. اتركه ينضج على نار هادئة لمدة 1 ساعة، حتى يصير الفول طريًا ذائبًا. حرّك من حين لآخر مع كشط القاع. وإذا انخفض مستوى الماء كثيرًا، فأضف قليلًا من الماء الساخن."
+  },
+  "steps.4.timer.label": {
+   "fr": "Cuisson des fèves",
+   "t": "طهي الفول"
+  },
+  "steps.4.timer.done": {
+   "fr": "Écrase une fève avec le dos d'une cuillère : elle doit s'écraser toute seule.",
+   "t": "اهرس حبة فول بظهر ملعقة: يجب أن تنهرس بسهولة تامة."
+  },
+  "steps.5.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "تحقّق من النضج"
+  },
+  "steps.5.text": {
+   "fr": "Écrase une fève contre la paroi avec le dos d'une cuillère : elle doit s'écraser sans résistance. Si elle est encore ferme, ajoute un peu d'eau chaude et laisse cuire encore, en surveillant, jusqu'à ce qu'elle soit fondante.",
+   "t": "اهرس حبة فول على جدار القدر بظهر ملعقة: يجب أن تنهرس دون مقاومة. وإذا كانت لا تزال صلبة، فأضف قليلًا من الماء الساخن، واترك الفول ينضج مدة أطول مع المراقبة، حتى تصير الحبات طرية ذائبة."
+  },
+  "steps.6.title": {
+   "fr": "Mixe en purée lisse",
+   "t": "اخلطه حتى يصير هريسًا أملس"
+  },
+  "steps.6.text": {
+   "fr": "Retire la marmite du feu. Mixe les fèves et l'ail avec leur eau de cuisson au mixeur plongeant, jusqu'à obtenir une purée lisse et crémeuse.",
+   "t": "ارفع القدر عن النار. اخلط الفول والثوم مع ماء طهيهما بالخلاط اليدوي، حتى تحصل على هريس أملس وكريمي."
+  },
+  "steps.6.tip": {
+   "fr": "Sans mixeur, passe-les au moulin à légumes ou dans une passoire fine, comme on le faisait autrefois.",
+   "t": "إن لم يكن لديك خلاط، فمرّرهما في مطحنة الخضر اليدوية أو في مصفاة دقيقة، كما كان يُفعل في الماضي."
+  },
+  "steps.7.title": {
+   "fr": "Assaisonne et ajoute l'huile",
+   "t": "تبّل وأضف الزيت"
+  },
+  "steps.7.text": {
+   "fr": "Remets la marmite sur feu doux. Ajoute {{cumin}} de cumin, {{paprika}} de paprika, {{sel}} de sel et {{huile}} d'huile d'olive. Laisse frémir 5 minutes en remuant avec une cuillère en bois, jusqu'à ce que l'huile soit bien mêlée à la purée.",
+   "t": "أعد القدر إلى نار هادئة. أضف {{cumin}} من الكمون، و{{paprika}} من الفلفل الأحمر الحلو، و{{sel}} من الملح، و{{huile}} من زيت الزيتون. اتركها تغلي غليانًا خفيفًا 5 دقائق مع التحريك بملعقة خشبية، حتى يمتزج الزيت جيدًا بالهريس."
+  },
+  "steps.7.timer.label": {
+   "fr": "Assaisonnement",
+   "t": "التتبيل"
+  },
+  "steps.7.timer.done": {
+   "fr": "La purée doit être homogène et crémeuse. Règle maintenant la texture.",
+   "t": "يجب أن يكون الهريس متجانسًا وكريميًا. اضبط الآن القوام."
+  },
+  "steps.8.title": {
+   "fr": "Règle la texture",
+   "t": "اضبط القوام"
+  },
+  "steps.8.text": {
+   "fr": "Pour une soupe, ajoute de l'eau chaude petit à petit en remuant. Pour une purée à saucer avec le pain, garde-la plus épaisse. Goûte et rectifie le sel, sans trop en mettre : les condiments donneront du goût à table.",
+   "t": "للحصول على حساء، أضف الماء الساخن شيئًا فشيئًا مع التحريك. وللحصول على هريس يؤكل بالخبز، اتركه أكثر كثافة. تذوّق وعدّل الملح دون إكثار: فالإضافات على المائدة ستمنحه النكهة."
+  },
+  "steps.9.title": {
+   "fr": "Sers bien chaud",
+   "t": "قدّمها ساخنة جدًا"
+  },
+  "steps.9.text": {
+   "fr": "Verse la bissara bien chaude dans des bols ou des assiettes creuses. Arrose chaque bol d'un bon filet d'{{huile-service}}, puis saupoudre de {{cumin-service}} et de {{paprika-service}}.",
+   "t": "اسكب البيصارة ساخنة جدًا في أوعية أو صحون عميقة. اسقِ كل وعاء بخيط سخي من زيت الزيتون البكر الممتاز، ثم رشّ عليه الكمون المطحون والبابريكا."
+  },
+  "steps.10.title": {
+   "fr": "Pose les condiments sur la table",
+   "t": "ضع الإضافات على المائدة"
+  },
+  "steps.10.text": {
+   "fr": "Mets sur la table du {{piment}}, de l'huile d'olive, du cumin et des quartiers de {{citron}} : chacun relève son bol à son goût. Sers avec du {{khobz}} ou du pain d'orge.",
+   "t": "ضع على المائدة الفلفل الحار المطحون، وزيت الزيتون، والكمون، وأرباع الليمون: ليُتبّل كل واحد وعاءه حسب ذوقه. وقدّمها مع خبز الدار أو خبز الشعير."
+  },
+  "secrets.0.text": {
+   "fr": "Prends des fèves sèches cassées et décortiquées, c'est-à-dire sans leur peau.",
+   "t": "اختر فولًا يابسًا مكسورًا ومقشّرًا، أي بلا قشرته."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha (« fèves sèches cassées (sans la peau) ») ; Bladi.net ; Taste of Maroc ; Hespress (2011)",
+   "t": "Choumicha («فول يابس مكسور (بلا قشرة)»)؛ Bladi.net؛ Taste of Maroc؛ Hespress (2011)"
+  },
+  "secrets.1.text": {
+   "fr": "Avec des fèves cassées, le trempage n'est pas obligatoire : beaucoup de recettes marocaines les cuisent directement après les avoir lavées. Si tu les fais tremper une nuit, les derniers bouts de peau brune se retirent facilement.",
+   "t": "مع الفول المكسور، ليس النقع ضروريًا: فكثير من الوصفات المغربية تطهوه مباشرة بعد غسله. وإذا نقعته ليلة كاملة، فإن آخر بقايا القشرة البنية تُزال بسهولة."
+  },
+  "secrets.1.source": {
+   "fr": "Sans trempage : Choumicha, Lalla Moulati, Chhiwat, Morocco World News, Cooking with Alia (n° 858). Avec trempage : Taste of Maroc (qui parle des bouts de peau), My Moroccan Food, Cooking with Alia (n° 132)",
+   "t": "بلا نقع: Choumicha، Lalla Moulati، Chhiwat، Morocco World News، Cooking with Alia (رقم 858). مع النقع: Taste of Maroc (الذي يتحدث عن بقايا القشرة)، My Moroccan Food، Cooking with Alia (رقم 132)"
+  },
+  "secrets.2.text": {
+   "fr": "Au début de la cuisson, retire la mousse blanche qui monte à la surface.",
+   "t": "في بداية الطهي، أزل الرغوة البيضاء التي تطفو على السطح."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Hespress (2011)",
+   "t": "Choumicha؛ Cooking with Alia؛ Hespress (2011)"
+  },
+  "secrets.3.text": {
+   "fr": "Couvre la marmite à moitié, ou laisse une petite ouverture : complètement couverte, elle déborde.",
+   "t": "غطِّ القدر إلى النصف، أو اترك فتحة صغيرة: فإذا غُطّيت بالكامل، فاضت."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha ; Cooking with Alia (n° 132) ; Taste of Maroc cuit aussi à demi couvert",
+   "t": "Choumicha؛ Cooking with Alia (رقم 132)؛ ويطهو Taste of Maroc أيضًا والقدر مغطّاة إلى النصف"
+  },
+  "secrets.4.text": {
+   "fr": "Les fèves doivent être fondantes avant de mixer : une fève doit s'écraser toute seule. Sinon, ajoute de l'eau chaude et prolonge la cuisson.",
+   "t": "يجب أن يكون الفول طريًا ذائبًا قبل الخلط: فحبة الفول يجب أن تنهرس بسهولة تامة. وإلا فأضف ماءً ساخنًا وأطِل مدة الطهي."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha (« jusqu'à ce que les fèves deviennent fondantes ») ; Morocco World News",
+   "t": "Choumicha («حتى يصير الفول طريًا ذائبًا»)؛ Morocco World News"
+  },
+  "secrets.5.text": {
+   "fr": "Mets les épices et l'huile d'olive après avoir mixé, sur feu doux, et remue jusqu'à ce que la purée soit lisse et crémeuse.",
+   "t": "أضف التوابل وزيت الزيتون بعد الخلط، على نار هادئة، وحرّك حتى يصير الهريس أملس وكريميًا."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha ; Hespress (2011) ; Cooking with Alia",
+   "t": "Choumicha؛ Hespress (2011)؛ Cooking with Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Dans la marmite, la bissara reste simple. Son goût vient surtout de ce qu'on ajoute dans le bol : une bonne huile d'olive, du cumin, du paprika et du piment.",
+   "t": "في القدر، تبقى البيصارة بسيطة. ونكهتها تأتي أساسًا مما يُضاف في الوعاء: زيت زيتون جيد، والكمون، والبابريكا، والفلفل الحار."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Lalla Moulati (2020)",
+   "t": "Taste of Maroc؛ Choumicha؛ Lalla Moulati (2020)"
+  },
+  "secrets.7.text": {
+   "fr": "Choisis une bonne huile d'olive et, si tu peux, du cumin fraîchement moulu.",
+   "t": "اختر زيت زيتون جيدًا، وإن أمكنك، كمونًا مطحونًا حديثًا."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.8.text": {
+   "fr": "C'est l'eau qui décide : plus liquide, la bissara se mange au bol, à la cuillère, comme dans la rue ; plus épaisse, elle se sauce avec le pain.",
+   "t": "الماء هو الذي يحدد: إذا كانت البيصارة أكثر سيولة، تؤكل في الوعاء بالملعقة، كما في الشارع؛ وإذا كانت أكثف، تؤكل بالخبز."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia (n° 132) ; Bladi.net (« il faut que ça reste liquide »)",
+   "t": "Taste of Maroc؛ Cooking with Alia (رقم 132)؛ Bladi.net («يجب أن تبقى سائلة»)"
+  },
+  "secrets.9.text": {
+   "fr": "Autrefois, on laissait les fèves cuire des heures, puis on les passait au tamis ou au moulin. Le mixeur va plus vite et donne une purée plus lisse.",
+   "t": "في الماضي، كان الفول يُترك ينضج ساعات، ثم يُمرَّر في الغربال أو في المطحنة. أما الخلاط فهو أسرع ويعطي هريسًا أنعم."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc ; Choumicha passe toujours sa purée à la passoire fine",
+   "t": "Taste of Maroc؛ ولا تزال Choumicha تمرّر هريسها في مصفاة دقيقة"
+  },
+  "secrets.10.text": {
+   "fr": "Dans le Nord, on la mange avec quelques olives et des morceaux d'oignon. Lalla Moulati y ajoute du piment vert et du piment frit.",
+   "t": "في الشمال، تؤكل مع بعض حبات الزيتون وقطع البصل. وتضيف إليها Lalla Moulati الفلفل الأخضر الحار والفلفل الحار المقلي."
+  },
+  "secrets.10.source": {
+   "fr": "Hespress (2014, restaurant de Tanger) ; Lalla Moulati (2014) ; My Moroccan Food (oignon haché)",
+   "t": "Hespress (2014، مطعم في طنجة)؛ Lalla Moulati (2014)؛ My Moroccan Food (بصل مفروم)"
+  },
+  "secrets.11.text": {
+   "fr": "Pour réchauffer, mets la bissara à feu moyen-doux et remue souvent : elle brûle facilement. Laisse-la bien bouillonner avant de servir.",
+   "t": "لإعادة تسخينها، ضع البيصارة على نار متوسطة إلى هادئة وحرّكها كثيرًا: فهي تحترق بسهولة. واتركها تغلي جيدًا قبل التقديم."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc (feu moyen-doux, remuer souvent) ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)",
+   "t": "Taste of Maroc (نار متوسطة إلى هادئة، مع التحريك كثيرًا)؛ USDA (يُعاد تسخين الحساء حتى يغلي غليانًا تامًا)"
+  },
+  "secrets.12.text": {
+   "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées pour qu'ils refroidissent vite, et mange-les dans les 3 jours.",
+   "t": "ضع البقايا في الثلاجة خلال 2 ساعة، في علب صغيرة مغلقة حتى تبرد بسرعة، وكُلها خلال 3 أيام."
+  },
+  "secrets.12.source": {
+   "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours, petits récipients)",
+   "t": "ANSES (2 ساعة، 3 أيام، حصص صغيرة)؛ USDA (2 ساعة، من 3 إلى 4 أيام، أوعية صغيرة)"
+  },
+  "mistakes.0": {
+   "fr": "Prendre des fèves fraîches ou surgelées : la bissara se fait avec des fèves sèches (Taste of Maroc ; Hespress).",
+   "t": "استعمال الفول الطري أو المجمّد: البيصارة تُحضَّر بالفول اليابس (Taste of Maroc؛ Hespress)."
+  },
+  "mistakes.1": {
+   "fr": "Couvrir complètement la marmite : l'eau déborde (Choumicha ; Cooking with Alia).",
+   "t": "تغطية القدر بالكامل: يفيض الماء (Choumicha؛ Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser cuire sans remuer ni surveiller l'eau : la purée attache au fond (Morocco World News ; Hespress ; Cooking with Alia).",
+   "t": "ترك الفول ينضج دون تحريك ولا مراقبة للماء: يلتصق الهريس بالقاع (Morocco World News؛ Hespress؛ Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Mixer avant que les fèves soient fondantes (Choumicha ; Morocco World News).",
+   "t": "الخلط قبل أن يصير الفول طريًا ذائبًا (Choumicha؛ Morocco World News)."
+  },
+  "mistakes.4": {
+   "fr": "Trop saler dans la marmite : les condiments ajoutent du goût à table (Taste of Maroc).",
+   "t": "الإكثار من الملح في القدر: فالإضافات تمنح النكهة على المائدة (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Réchauffer à feu vif sans remuer : la bissara brûle (Taste of Maroc).",
+   "t": "إعادة التسخين على نار قوية دون تحريك: تحترق البيصارة (Taste of Maroc)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
+   "t": "ترك البقايا أكثر من 2 ساعة في حرارة الغرفة (ANSES؛ USDA)."
+  },
+  "variants.0": {
+   "fr": "Bissara aux pois cassés, ou « bissara d'jelbana » (Hespress, 2011). Choumicha fait tremper les pois cassés une heure, puis les cuit avec oignon, ail, persil, coriandre, gingembre, curcuma et poivre. Taste of Maroc ne les fait pas tremper et ajoute de l'oignon.",
+   "t": "بيصارة بالبازلاء المكسورة، أو «بيصارة الجلبانة» (Hespress، 2011). تنقع Choumicha البازلاء المكسورة ساعة، ثم تطهوها مع البصل والثوم والبقدونس والكزبرة والزنجبيل والكركم (الخرقوم) والفلفل الأسود. أما Taste of Maroc فلا ينقعها ويضيف البصل."
+  },
+  "variants.1": {
+   "fr": "Un mélange de fèves et de pois cassés : My Moroccan Food ; Cooking with Alia (n° 858 : moitié-moitié, avec du piment en poudre dans la purée).",
+   "t": "مزيج من الفول والبازلاء المكسورة: My Moroccan Food؛ Cooking with Alia (رقم 858: نصف ونصف، مع فلفل حار مطحون في الهريس)."
+  },
+  "variants.2": {
+   "fr": "Avec des légumes : tomate, potiron rouge et carotte ; dans le Nord et le Rif, navet et chou à la place. Un restaurateur de Larache n'en met pas, pour plaire à tout le monde (Hespress, 2011).",
+   "t": "بالخضر: الطماطم والقرع الأحمر والجزر؛ وفي الشمال والريف، اللفت والكرنب بدلًا منها. ولا يضيف صاحب مطعم في العرائش أي خضر، لإرضاء الجميع (Hespress، 2011)."
+  },
+  "variants.3": {
+   "fr": "Huile d'argan au lieu de l'huile d'olive, dans le Souss et l'Atlas (Hespress, 2011 ; Sky News Arabia, 2021).",
+   "t": "زيت الأركان بدل زيت الزيتون، في سوس والأطلس (Hespress، 2011؛ Sky News Arabia، 2021)."
+  },
+  "variants.4": {
+   "fr": "Ail pilé avec le sel au mortier, ajouté aux fèves cuites juste avant de mixer (Lalla Moulati, 2014).",
+   "t": "ثوم مدقوق مع الملح في المهراس، يُضاف إلى الفول المطهو قبيل الخلط (Lalla Moulati، 2014)."
+  },
+  "variants.5": {
+   "fr": "Huile à l'ail pour servir : chauffe doucement de l'huile d'olive avec de l'ail râpé et une pincée de sel, sans le brûler, puis verse-la sur la bissara (Morocco World News).",
+   "t": "زيت بالثوم للتقديم: سخّن زيت الزيتون على نار هادئة مع ثوم مبشور ورشة ملح، دون أن تحرق الثوم، ثم اسكبه على البيصارة (Morocco World News)."
+  },
+  "variants.6": {
+   "fr": "Fèves grillées à sec quelques minutes dans une poêle chaude avant la cuisson, et une tomate mixée avec la purée (Lalla Moulati, 2018).",
+   "t": "فول محمّص دون دهون بضع دقائق في مقلاة ساخنة قبل الطهي، وحبة طماطم تُخلط مع الهريس (Lalla Moulati، 2018)."
+  },
+  "variants.7": {
+   "fr": "Crème de fèves servie avec une salade de tomates, poivron grillé, oignon et olives vertes, assaisonnée de citron et de cumin (Choumicha).",
+   "t": "كريمة الفول تُقدَّم مع سلطة من الطماطم والفلفل الحلو المشوي والبصل والزيتون الأخضر، متبّلة بالليمون والكمون (Choumicha)."
+  }
+ }
+}

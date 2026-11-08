@@ -1,0 +1,350 @@
+{
+ "_slug": "omelette",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Omelette roulée aux fines herbes",
+   "t": "Rolled omelette with fines herbes"
+  },
+  "tagline": {
+   "fr": "Trois œufs battus avec persil, ciboulette et autres fines herbes, cuits en un instant au beurre puis roulés : lisse dehors, moelleuse dedans, à la française.",
+   "t": "Three eggs beaten with parsley, chives and other fines herbes, cooked in an instant in butter and then rolled: smooth outside, soft inside, the French way."
+  },
+  "region": {
+   "fr": "France : la cuisine classique d'Escoffier (Le Guide culinaire, 1903)",
+   "t": "France: Escoffier's classic cuisine (Le Guide culinaire, 1903)"
+  },
+  "occasion": {
+   "fr": "Repas express, en quelques minutes, dès qu'il y a des œufs et un peu d'herbes fraîches",
+   "t": "A quick meal, ready in a few minutes, whenever there are eggs and a few fresh herbs"
+  },
+  "img_alt": {
+   "fr": "Omelette roulée, jaune et sans coloration, parsemée de ciboulette",
+   "t": "Rolled omelette, yellow and not browned, sprinkled with chives"
+  },
+  "serving": {
+   "fr": "Tout de suite, roulée et lustrée au beurre (Escoffier, Chef Simon), avec une salade verte si tu veux, comme le permet l'usage cité par Wikipédia. S'il en reste, mets-la au réfrigérateur dans les 2 heures (1 heure s'il fait plus de 32 °C), mange-la dans les 3 à 4 jours et réchauffe-la à cœur, jusqu'à 74 °C (FDA, agence sanitaire américaine).",
+   "t": "Straight away, rolled and glazed with butter (Escoffier, Chef Simon), with a green salad if you like, as the custom cited by Wikipedia allows. If there is any left, put it in the fridge within 2 hours (1 hour if it is above 32 °C), eat it within 3 to 4 days and reheat it right through, to 74 °C (FDA, the US health agency)."
+  },
+  "ing.0.group": {
+   "fr": "Omelette",
+   "t": "Omelette"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf frais",
+   "t": "fresh egg"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs frais",
+   "t": "fresh eggs"
+  },
+  "ing.oeufs.note": {
+   "fr": "3 par omelette ; jette ceux qui sont fêlés ou cassés, et ne les lave pas (Anses)",
+   "t": "3 per omelette; throw away any that are cracked or broken, and do not wash them (Anses)"
+  },
+  "ing.sel.name": {
+   "fr": "sel fin",
+   "t": "fine salt"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "pepper"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.beurre.note": {
+   "fr": "15 g par omelette, pour la cuisson",
+   "t": "15 g per omelette, for cooking"
+  },
+  "ing.1.group": {
+   "fr": "Fines herbes",
+   "t": "Fines herbes"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "flat-leaf parsley"
+  },
+  "ing.ciboulette.name": {
+   "fr": "ciboulette",
+   "t": "chives"
+  },
+  "ing.cerfeuil.name": {
+   "fr": "cerfeuil",
+   "t": "chervil"
+  },
+  "ing.cerfeuil.note": {
+   "fr": "facultatif, si tu en trouves",
+   "t": "optional, if you can find it"
+  },
+  "ing.estragon.name": {
+   "fr": "estragon",
+   "t": "tarragon"
+  },
+  "ing.estragon.note": {
+   "fr": "facultatif, si tu en trouves",
+   "t": "optional, if you can find it"
+  },
+  "ing.2.group": {
+   "fr": "Pour finir",
+   "t": "To finish"
+  },
+  "ing.beurre-lustrer.name": {
+   "fr": "beurre",
+   "t": "butter"
+  },
+  "ing.beurre-lustrer.note": {
+   "fr": "un petit morceau par omelette, pour la faire briller",
+   "t": "a small knob per omelette, to make it shine"
+  },
+  "equipment.0": {
+   "fr": "Un bol par omelette et une fourchette",
+   "t": "One bowl per omelette and a fork"
+  },
+  "equipment.1": {
+   "fr": "Une petite poêle antiadhésive",
+   "t": "A small non-stick frying pan"
+  },
+  "equipment.2": {
+   "fr": "Une spatule souple (une fourchette en métal abîme l'antiadhésif)",
+   "t": "A flexible spatula (a metal fork damages the non-stick coating)"
+  },
+  "equipment.3": {
+   "fr": "Une planche et un couteau bien aiguisé, pour ciseler les herbes",
+   "t": "A chopping board and a very sharp knife, for slicing the herbs finely"
+  },
+  "equipment.4": {
+   "fr": "Une assiette par omelette",
+   "t": "One plate per omelette"
+  },
+  "steps.0.title": {
+   "fr": "Cisèle les herbes",
+   "t": "Slice the herbs finely"
+  },
+  "steps.0.text": {
+   "fr": "Cisèle finement le {{persil}}, la {{ciboulette}} et, si tu en as, le {{cerfeuil}} et l'{{estragon}}, avec un couteau bien aiguisé.",
+   "t": "Finely slice the {{persil}}, the {{ciboulette}} and, if you have them, the {{cerfeuil}} and {{estragon}}, with a very sharp knife."
+  },
+  "steps.0.tip": {
+   "fr": "Cisèle, ne hache pas : des herbes hachées donnent à l'omelette un « goût de gazon » (Chef Simon).",
+   "t": "Slice finely, do not chop: chopped herbs give the omelette a “grassy taste” (Chef Simon)."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.1.title": {
+   "fr": "Casse les œufs",
+   "t": "Crack the eggs"
+  },
+  "steps.1.text": {
+   "fr": "Casse les œufs : 3 par omelette, dans un bol pour chacune ({{oeufs:full}} en tout).",
+   "t": "Crack the eggs: 3 per omelette, in a separate bowl for each ({{oeufs:full}} in total)."
+  },
+  "steps.2.title": {
+   "fr": "Assaisonne et bats",
+   "t": "Season and beat"
+  },
+  "steps.2.text": {
+   "fr": "Dans chaque bol, ajoute le {{sel}}, le {{poivre}} et sa part d'herbes. Bats à la fourchette, sans excès, juste pour bien mêler les blancs et les jaunes.",
+   "t": "In each bowl, add {{sel}}, {{poivre}} and that omelette's share of the herbs. Beat with a fork, not too much, just enough to mix the whites and yolks well."
+  },
+  "steps.3.title": {
+   "fr": "Chauffe le beurre",
+   "t": "Heat the butter"
+  },
+  "steps.3.text": {
+   "fr": "Mets 15 g de beurre dans la petite poêle (la part d'une omelette ; {{beurre}} en tout) et chauffe sur feu moyen. Attends qu'il fonde et mousse, sans le laisser brunir.",
+   "t": "Put 15 g butter in the small frying pan (the amount for one omelette; {{beurre}} in total) and heat over medium heat. Wait until it melts and foams, without letting it brown."
+  },
+  "steps.3.tip": {
+   "fr": "Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "t": "Chef Simon prefers clarified butter, or a mixture of butter and oil."
+  },
+  "steps.4.title": {
+   "fr": "Verse et remue",
+   "t": "Pour in and stir"
+  },
+  "steps.4.text": {
+   "fr": "Verse les œufs battus d'un bol dans la poêle chaude. Remue aussitôt avec la spatule, en ramenant vers le centre les bords qui commencent à prendre, pour que l'œuf encore liquide coule et cuise à son tour.",
+   "t": "Pour the beaten eggs from one bowl into the hot pan. Stir immediately with the spatula, drawing the edges that are starting to set towards the centre, so that the egg that is still liquid runs out and cooks in turn."
+  },
+  "steps.5.title": {
+   "fr": "Arrête quand c'est encore baveux",
+   "t": "Stop while it is still runny"
+  },
+  "steps.5.text": {
+   "fr": "Arrête de remuer quand l'omelette est presque prise et qu'il reste sur le dessus une fine couche d'œuf encore baveuse. Le dessous doit rester pâle, sans coloration.",
+   "t": "Stop stirring when the omelette has almost set and there is still a thin layer of runny egg on top. The underside should stay pale, without browning."
+  },
+  "steps.5.tip": {
+   "fr": "La FDA (agence sanitaire américaine) conseille de cuire les œufs jusqu'à ce que le blanc et le jaune soient fermes, et rappelle que les enfants, les personnes âgées, les femmes enceintes et les personnes fragiles risquent plus une salmonellose grave : pour eux, cuis l'omelette jusqu'à ce qu'elle soit bien prise.",
+   "t": "The FDA (the US health agency) advises cooking eggs until both the white and the yolk are firm, and points out that children, elderly people, pregnant women and vulnerable people are at greater risk of serious salmonella infection: for them, cook the omelette until it is fully set."
+  },
+  "steps.6.title": {
+   "fr": "Roule l'omelette",
+   "t": "Roll the omelette"
+  },
+  "steps.6.text": {
+   "fr": "Baisse le feu. Décolle le bord avec la spatule, puis penche la poêle au-dessus de l'assiette : l'omelette roule sur elle-même. Aide-la avec la spatule.",
+   "t": "Turn down the heat. Loosen the edge with the spatula, then tilt the pan over the plate: the omelette rolls over on itself. Help it along with the spatula."
+  },
+  "steps.7.title": {
+   "fr": "Fais-la briller et sers",
+   "t": "Glaze it and serve"
+  },
+  "steps.7.text": {
+   "fr": "Frotte un petit morceau de {{beurre-lustrer}} sur le dessus pour la faire briller, et sers aussitôt. S'il y a d'autres omelettes, reprends à l'étape « Chauffe le beurre » avec le bol suivant.",
+   "t": "Rub a small knob of {{beurre-lustrer}} over the top to make it shine, and serve immediately. If there are more omelettes to make, go back to the step “Heat the butter” with the next bowl."
+  },
+  "secrets.0.text": {
+   "fr": "Une omelette, selon Escoffier, ce sont « des œufs brouillés d'un genre spécial enfermés dans une enveloppe d'œufs coagulés » : moelleuse dedans, juste assez prise dehors pour être roulée.",
+   "t": "An omelette, according to Escoffier, is “scrambled eggs of a special kind enclosed in a coating of coagulated egg”: soft inside, just set enough outside to be rolled."
+  },
+  "secrets.0.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903) ; Cuisine et Vins de France, cité par Wikipédia",
+   "t": "Escoffier, Le Guide culinaire (1903); Cuisine et Vins de France, cited by Wikipedia"
+  },
+  "secrets.1.text": {
+   "fr": "Les vraies fines herbes, ce sont le persil, la ciboulette, le cerfeuil et l'estragon. Pour Escoffier, une omelette où le persil est seul n'est pas une omelette aux fines herbes.",
+   "t": "True fines herbes are parsley, chives, chervil and tarragon. For Escoffier, an omelette with parsley alone is not a fines herbes omelette."
+  },
+  "secrets.1.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903) ; Wikipédia (définition reprise par le Larousse gastronomique de 1938)",
+   "t": "Escoffier, Le Guide culinaire (1903); Wikipedia (definition taken up by the 1938 Larousse gastronomique)"
+  },
+  "secrets.2.text": {
+   "fr": "Les mesures d'Escoffier pour une omelette de 3 œufs : une demi-pincée de sel fin, une prise de poivre, 15 g de beurre et une cuillerée de fines herbes.",
+   "t": "Escoffier's measurements for a 3-egg omelette: half a pinch of fine salt, a dash of pepper, 15 g butter and a spoonful of fines herbes."
+  },
+  "secrets.2.source": {
+   "fr": "Escoffier, Le Guide culinaire (1903)",
+   "t": "Escoffier, Le Guide culinaire (1903)"
+  },
+  "secrets.3.text": {
+   "fr": "Cisèle les herbes au couteau au lieu de les hacher, sinon l'omelette prend un « goût de gazon ».",
+   "t": "Slice the herbs finely with a knife instead of chopping them, otherwise the omelette takes on a “grassy taste”."
+  },
+  "secrets.3.source": {
+   "fr": "Chef Simon",
+   "t": "Chef Simon"
+  },
+  "secrets.4.text": {
+   "fr": "Bats peu : quelques coups de fourchette suffisent à mêler les blancs et les jaunes.",
+   "t": "Do not beat too much: a few strokes of the fork are enough to mix the whites and yolks."
+  },
+  "secrets.4.source": {
+   "fr": "Chef Simon (« sans excès ») ; Jules Gouffé et A. Bautte, cités par Wikipédia",
+   "t": "Chef Simon (“not too much”); Jules Gouffé and A. Bautte, cited by Wikipedia"
+  },
+  "secrets.5.text": {
+   "fr": "Le beurre ne doit jamais brunir. Chef Simon préfère du beurre clarifié, ou un mélange de beurre et d'huile.",
+   "t": "The butter must never brown. Chef Simon prefers clarified butter, or a mixture of butter and oil."
+  },
+  "secrets.5.source": {
+   "fr": "Wikipédia (toutes les autorités demandent du très bon beurre, sans le brûler) ; Chef Simon",
+   "t": "Wikipedia (all the authorities call for very good butter, without burning it); Chef Simon"
+  },
+  "secrets.6.text": {
+   "fr": "Pas de coloration : l'omelette roulée reste jaune pâle. Chef Simon juge ce point « très important ».",
+   "t": "No browning: the rolled omelette stays pale yellow. Chef Simon considers this point “very important”."
+  },
+  "secrets.6.source": {
+   "fr": "Chef Simon ; Wikipédia en anglais, d'après Julia Child (omelette française pas ou très peu dorée)",
+   "t": "Chef Simon; the English Wikipedia, citing Julia Child (a French omelette is not browned, or only very slightly)"
+  },
+  "secrets.7.text": {
+   "fr": "La cuisson est rapide : le Larousse définit l'omelette comme des œufs battus « cuits rapidement à la poêle ».",
+   "t": "Cooking is quick: Larousse defines an omelette as beaten eggs “cooked quickly in a frying pan”."
+  },
+  "secrets.7.source": {
+   "fr": "Larousse ; Wikipédia (« la cuisson doit rester rapide »)",
+   "t": "Larousse; Wikipedia (“cooking must stay quick”)"
+  },
+  "secrets.8.text": {
+   "fr": "Baveuse veut dire assez peu cuite pour que l'intérieur reste moelleux. Mais, rappelle Escoffier, certains la veulent très cuite, d'autres à point : demande à chacun.",
+   "t": "“Baveuse” means cooked little enough for the inside to stay soft and moist. But, as Escoffier points out, some people like it well cooked, others just done: ask everyone."
+  },
+  "secrets.8.source": {
+   "fr": "Larousse (« baveux ») ; Escoffier ; Chef Simon (baveuse, moelleuse ou bien cuite)",
+   "t": "Larousse (“baveux”); Escoffier; Chef Simon (runny, soft or well done)"
+  },
+  "secrets.9.text": {
+   "fr": "Une poêle à la bonne taille : trop d'œufs pour la poêle, et l'omelette devient épaisse, mal cuite et dure.",
+   "t": "A pan of the right size: too many eggs for the pan, and the omelette becomes thick, badly cooked and tough."
+  },
+  "secrets.9.source": {
+   "fr": "Wikipédia, d'après Cora Millet-Robinet (1884) ; Il Giornale del Cibo conseille une poêle de 18 à 20 cm",
+   "t": "Wikipedia, citing Cora Millet-Robinet (1884); Il Giornale del Cibo recommends an 18 to 20 cm pan"
+  },
+  "secrets.10.text": {
+   "fr": "La touche finale des chefs : un peu de beurre sur l'omelette roulée pour la faire briller.",
+   "t": "The chefs' finishing touch: a little butter on the rolled omelette to make it shine."
+  },
+  "secrets.10.source": {
+   "fr": "Escoffier ; Chef Simon ; Wikipédia (« lustrer », d'après Michel Maincent-Morel)",
+   "t": "Escoffier; Chef Simon; Wikipedia (“glaze”, citing Michel Maincent-Morel)"
+  },
+  "secrets.11.text": {
+   "fr": "Plusieurs convives ? Fais plusieurs omelettes plutôt qu'une trop grosse.",
+   "t": "Several people to feed? Make several omelettes rather than one that is too big."
+  },
+  "secrets.11.source": {
+   "fr": "Jules Gouffé (1873), cité par Wikipédia ; Escoffier prend l'omelette de 3 œufs comme modèle",
+   "t": "Jules Gouffé (1873), cited by Wikipedia; Escoffier takes the 3-egg omelette as his model"
+  },
+  "mistakes.0": {
+   "fr": "Battre trop longtemps les œufs (Chef Simon ; Jules Gouffé, cité par Wikipédia).",
+   "t": "Beating the eggs for too long (Chef Simon; Jules Gouffé, cited by Wikipedia)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser brunir le beurre ou dorer l'omelette (Chef Simon ; Wikipédia).",
+   "t": "Letting the butter brown or the omelette colour (Chef Simon; Wikipedia)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop d'œufs dans une petite poêle : l'omelette devient épaisse et dure (Wikipédia, d'après Cora Millet-Robinet).",
+   "t": "Putting too many eggs in a small pan: the omelette becomes thick and tough (Wikipedia, citing Cora Millet-Robinet)."
+  },
+  "mistakes.3": {
+   "fr": "Trop la cuire : elle devient sèche (Wikipédia, d'après Louis Liger).",
+   "t": "Overcooking it: it becomes dry (Wikipedia, citing Louis Liger)."
+  },
+  "mistakes.4": {
+   "fr": "Hacher les herbes au lieu de les ciseler (Chef Simon).",
+   "t": "Chopping the herbs instead of slicing them finely (Chef Simon)."
+  },
+  "mistakes.5": {
+   "fr": "Ne mettre que du persil et l'appeler « aux fines herbes » (Escoffier).",
+   "t": "Using only parsley and calling it “fines herbes” (Escoffier)."
+  },
+  "variants.0": {
+   "fr": "Aux champignons : Escoffier ajoute aux œufs 40 g de champignons émincés et sautés au beurre pour une omelette de 3 œufs.",
+   "t": "With mushrooms: Escoffier adds 40 g of sliced mushrooms, sautéed in butter, to the eggs for a 3-egg omelette."
+  },
+  "variants.1": {
+   "fr": "À l'estragon seul, « à la Chartres » : une pincée d'estragon haché dans les œufs (Escoffier).",
+   "t": "With tarragon only, “à la Chartres”: a pinch of chopped tarragon in the eggs (Escoffier)."
+  },
+  "variants.2": {
+   "fr": "À la coriandre : Chef Simon laisse le choix des herbes (ciboulette, cerfeuil ou coriandre).",
+   "t": "With coriander: Chef Simon leaves the choice of herbs open (chives, chervil or coriander)."
+  },
+  "variants.3": {
+   "fr": "Plus moelleuse et moins chère avec du lait : pour 4 personnes, Chef Simon remplace ses 9 œufs habituels par 6 œufs et 1,5 dl (150 ml) de lait.",
+   "t": "Softer and cheaper with milk: for 4 people, Chef Simon replaces his usual 9 eggs with 6 eggs and 1.5 dl (150 ml) milk."
+  },
+  "variants.4": {
+   "fr": "Pliée en trois, à la manière classique (Wikipédia), ou en deux, à l'anglaise (Great British Chefs), au lieu d'être roulée.",
+   "t": "Folded in three, the classic way (Wikipedia), or in half, the English way (Great British Chefs), instead of rolled."
+  },
+  "variants.5": {
+   "fr": "Au fromage, garniture classique selon Great British Chefs. Si tu veux être strict : fromage à coagulant microbien, sans présure animale.",
+   "t": "With cheese, a classic filling according to Great British Chefs. If you want to be strict: cheese made with microbial coagulant, without animal rennet."
+  }
+ }
+}

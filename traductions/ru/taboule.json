@@ -1,0 +1,478 @@
+{
+ "_slug": "taboule",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Taboulé libanais",
+   "t": "Ливанский табуле"
+  },
+  "tagline": {
+   "fr": "La vraie salade libanaise : une montagne de persil haché fin, un peu de boulgour, des tomates, de la menthe et beaucoup de citron. Sans cuisson, prête en 30 minutes.",
+   "t": "Настоящий ливанский салат: гора мелко порубленной петрушки, немного булгура, помидоры, мята и много лимона. Без варки, готов за 30 минут."
+  },
+  "region": {
+   "fr": "Liban et Syrie : le taboulé est né dans les montagnes du Liban et de Syrie, et c'est un plat du mezzé levantin (Wikipédia). Ce n'est pas un plat marocain.",
+   "t": "Ливан и Сирия: табуле появился в горах Ливана и Сирии и входит в левантийское мезе (Wikipédia). Это не марокканское блюдо."
+  },
+  "occasion": {
+   "fr": "En entrée de mezzé, ou à côté de grillades (Hadia's Lebanese Cuisine). Au Liban, c'est un incontournable des fêtes et des repas de famille (Mama's Lebanese Kitchen ; recettelibanaise.com). Une journée nationale du taboulé y est fêtée le premier samedi de juillet depuis 2001 (Wikipédia en anglais et en arabe, d'après un guide du Liban publié par Souk el Tayeb).",
+   "t": "Как закуска в составе мезе или к блюдам на гриле (Hadia's Lebanese Cuisine). В Ливане без него не обходится ни один праздник и ни одно семейное застолье (Mama's Lebanese Kitchen; recettelibanaise.com). С 2001 года там в первую субботу июля отмечают Национальный день табуле (английская и арабская Wikipédia, по путеводителю по Ливану, изданному Souk el Tayeb)."
+  },
+  "img_alt": {
+   "fr": "Taboulé au persil garni de rondelles de citron et de feuilles de laitue (photo prise en Jordanie)",
+   "t": "Табуле из петрушки, украшенный кружочками лимона и листьями салата (фото сделано в Иордании)"
+  },
+  "ing.0.group": {
+   "fr": "Les herbes et les légumes",
+   "t": "Зелень и овощи"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "très frais ; on n'en garde que les feuilles",
+   "t": "очень свежей; используются только листья"
+  },
+  "ing.menthe.name": {
+   "fr": "de menthe fraîche",
+   "t": "свежей мяты"
+  },
+  "ing.menthe.note": {
+   "fr": "les feuilles seulement",
+   "t": "только листья"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne",
+   "t": "помидор среднего размера"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes",
+   "t": "помидора среднего размера"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne / tomates moyennes",
+   "t": "помидоров среднего размера"
+  },
+  "ing.tomates.note": {
+   "fr": "bien rouge, mûre mais ferme, à choisir une à une",
+   "t": "ярко-красные, спелые, но плотные; выбирайте каждый помидор отдельно"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon blanc",
+   "t": "головка белого лука"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons blancs",
+   "t": "головки белого лука"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon blanc / oignons blancs",
+   "t": "головок белого лука"
+  },
+  "serving": {
+   "fr": "Sers-le tout de suite (Taste of Beirut ; Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine), en entrée de mezzé (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine) ou à côté de grillades (Hadia's Lebanese Cuisine, qui sert par exemple sa kafta avec du taboulé). On le mange à la main avec des feuilles de laitue romaine (Taste of Beirut ; Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; Wikipédia), de chou blanc ou de vigne (Hadia's Lebanese Cuisine ; Wikipédia) ; du pain libanais peut aussi l'accompagner (recettelibanaise.com ; Libnanews). Il est meilleur tout de suite : assaisonné trop tôt, les herbes ramollissent et la salade détrempe (Taste of Beirut ; Mama's Lebanese Kitchen). Restes : au frigo dans les 2 heures (Anses ; FSA), frigo à 4 °C dans sa zone la plus froide (Anses), et à manger dans les 2 jours (FSA).",
+   "t": "Подавайте сразу (Taste of Beirut; Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine), как закуску в составе мезе (Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine) или к блюдам на гриле (Hadia's Lebanese Cuisine; Hadia, например, подаёт с табуле свою кафту). Его едят руками с листьями салата ромэн (Taste of Beirut; Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen; Wikipédia), белокочанной капусты или винограда (Hadia's Lebanese Cuisine; Wikipédia); к нему можно подать и ливанский хлеб (recettelibanaise.com; Libnanews). Вкуснее всего сразу: если заправить слишком рано, зелень обмякнет, а салат станет водянистым (Taste of Beirut; Mama's Lebanese Kitchen). Остатки: в холодильник в течение 2 часов (Anses; FSA), в самую холодную зону холодильника, при 4 °C (Anses), и съесть в течение 2 дней (FSA)."
+  },
+  "ing.oignon.note": {
+   "fr": "ou des oignons verts",
+   "t": "или зелёный лук"
+  },
+  "ing.1.group": {
+   "fr": "Le boulgour et l'assaisonnement",
+   "t": "Булгур и заправка"
+  },
+  "ing.boulgour.name": {
+   "fr": "de boulgour fin (n° 1)",
+   "t": "мелкого булгура (№ 1)"
+  },
+  "ing.boulgour.note": {
+   "fr": "surtout pas de semoule de couscous",
+   "t": "ни в коем случае не кускус"
+  },
+  "ing.citrons.name": {
+   "fr": "citron",
+   "t": "лимон"
+  },
+  "ing.citrons.pl": {
+   "fr": "citrons",
+   "t": "лимона"
+  },
+  "ing.citrons.pl5": {
+   "fr": "citron / citrons",
+   "t": "лимонов"
+  },
+  "ing.citrons.note": {
+   "fr": "frais, à presser toi-même (pas de jus en bouteille)",
+   "t": "свежие, выжмите сок сами (не сок из бутылки)"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive vierge extra",
+   "t": "оливкового масла extra virgin"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "соль"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir",
+   "t": "чёрный перец"
+  },
+  "ing.poivre.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "ing.piment-jamaique.name": {
+   "fr": "de piment de la Jamaïque (allspice)",
+   "t": "душистого перца (allspice)"
+  },
+  "ing.piment-jamaique.note": {
+   "fr": "facultatif ; ou de sept-épices libanais",
+   "t": "по желанию; или ливанской смеси «семь специй»"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.laitue.name": {
+   "fr": "feuilles de laitue romaine",
+   "t": "листья салата ромэн"
+  },
+  "ing.laitue.note": {
+   "fr": "ou de chou blanc, ou de jeunes feuilles de vigne",
+   "t": "или листья белокочанной капусты, или молодые виноградные листья"
+  },
+  "equipment.0": {
+   "fr": "Un grand couteau très bien aiguisé (pas de robot ni de mixeur)",
+   "t": "Большой очень острый нож (не кухонный комбайн и не блендер)"
+  },
+  "equipment.1": {
+   "fr": "Une grande planche propre, qui n'a pas servi pour de la viande crue",
+   "t": "Большая чистая разделочная доска, на которой не резали сырое мясо"
+  },
+  "equipment.2": {
+   "fr": "Un grand saladier pour laver les herbes, et un autre pour servir",
+   "t": "Большая миска, чтобы мыть зелень, и ещё одна — для подачи"
+  },
+  "equipment.3": {
+   "fr": "Une essoreuse à salade, ou un torchon propre et du papier absorbant",
+   "t": "Сушилка для салата или чистое полотенце и бумажные полотенца"
+  },
+  "equipment.4": {
+   "fr": "Une passoire",
+   "t": "Дуршлаг"
+  },
+  "equipment.5": {
+   "fr": "Un petit bol",
+   "t": "Небольшая миска"
+  },
+  "equipment.6": {
+   "fr": "Un presse-agrumes",
+   "t": "Соковыжималка для цитрусовых"
+  },
+  "steps.0.title": {
+   "fr": "Lave les herbes",
+   "t": "Вымойте зелень"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains. Plonge {{persil}} de persil et {{menthe}} de menthe dans un grand saladier d'eau froide, et remue-les doucement. Rince-les ensuite sous l'eau du robinet.",
+   "t": "Вымойте руки. Опустите {{persil}} петрушки и {{menthe}} мяты в большую миску с холодной водой и осторожно поболтайте. Затем промойте зелень под проточной водой."
+  },
+  "steps.0.tip": {
+   "fr": "Le persil et la menthe se mangent crus : lave-les avec soin (Anses). Hadia ajoute une pincée de sel dans l'eau et les laisse tremper 5 minutes avant de les rincer.",
+   "t": "Петрушку и мяту едят сырыми: мойте их тщательно (Anses). Hadia добавляет в воду щепотку соли и оставляет зелень замачиваться на 5 минут, прежде чем промыть."
+  },
+  "steps.1.title": {
+   "fr": "Sèche-les bien",
+   "t": "Хорошо обсушите зелень"
+  },
+  "steps.1.text": {
+   "fr": "Essore les herbes, puis étale-les sur un torchon propre ou du papier absorbant. Elles doivent être bien sèches avant d'être hachées, sinon le taboulé sera détrempé.",
+   "t": "Отожмите зелень в сушилке для салата, затем разложите её на чистом полотенце или бумажных полотенцах. Перед нарезкой она должна быть совершенно сухой, иначе табуле получится водянистым."
+  },
+  "steps.2.title": {
+   "fr": "Mets le boulgour à gonfler",
+   "t": "Оставьте булгур набухать"
+  },
+  "steps.2.text": {
+   "fr": "Presse {{citrons:full}}. Dans un petit bol, mets {{boulgour}} de boulgour fin, la moitié du jus de citron et un peu de sel. Laisse-le gonfler pendant que tu prépares le reste : il n'a pas besoin de cuire.",
+   "t": "Выжмите {{citrons:full}}. В небольшую миску положите {{boulgour}} мелкого булгура, половину лимонного сока и немного соли. Оставьте его набухать, пока готовите остальное: варить его не нужно."
+  },
+  "steps.2.tip": {
+   "fr": "Boulgour fin, pas semoule de couscous : le boulgour est du blé précuit, séché puis concassé, qui n'a qu'à boire le jus. Avec la semoule, on obtient le « taboulé à l'orientale » à la française, où la semoule prend la place du persil (Wikipédia).",
+   "t": "Мелкий булгур, а не кускус: булгур — это предварительно сваренная, высушенная и дроблёная пшеница, которой достаточно впитать сок. С кускусом получается французский «табуле по-восточному», где кускус занимает место петрушки (Wikipédia)."
+  },
+  "steps.3.title": {
+   "fr": "Garde les feuilles",
+   "t": "Оставьте только листья"
+  },
+  "steps.3.text": {
+   "fr": "Coupe les grosses tiges du persil et de la menthe. Garde seulement les feuilles.",
+   "t": "Срежьте толстые стебли петрушки и мяты. Оставьте только листья."
+  },
+  "steps.4.title": {
+   "fr": "Hache le persil",
+   "t": "Порубите петрушку"
+  },
+  "steps.4.text": {
+   "fr": "Serre le persil en petits paquets et tranche-le très fin, en fines lanières, avec un couteau bien aiguisé. Fais-le à la main : le robot écrase les feuilles et en fait une bouillie.",
+   "t": "Соберите петрушку в небольшие плотные пучки и острым ножом очень мелко нарежьте её тонкими полосками. Делайте это вручную: комбайн раздавливает листья и превращает их в кашу."
+  },
+  "steps.4.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом, на разделочной доске"
+  },
+  "steps.4.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.5.title": {
+   "fr": "Hache la menthe",
+   "t": "Порубите мяту"
+  },
+  "steps.5.text": {
+   "fr": "Hache finement les feuilles de menthe, de la même façon.",
+   "t": "Так же мелко порубите листья мяты."
+  },
+  "steps.6.title": {
+   "fr": "Coupe les tomates",
+   "t": "Нарежьте помидоры"
+  },
+  "steps.6.text": {
+   "fr": "Coupe {{tomates:full}} en tout petits dés. Mets-les dans une passoire pour qu'elles perdent leur jus.",
+   "t": "Нарежьте {{tomates:full}} совсем мелкими кубиками. Выложите их в дуршлаг, чтобы стёк сок."
+  },
+  "steps.7.title": {
+   "fr": "Hache l'oignon",
+   "t": "Порубите лук"
+  },
+  "steps.7.text": {
+   "fr": "Hache {{oignon:full}} très finement.",
+   "t": "Очень мелко порубите белый лук ({{oignon}} шт.)."
+  },
+  "steps.8.title": {
+   "fr": "Mélange au dernier moment",
+   "t": "Смешайте в последний момент"
+  },
+  "steps.8.text": {
+   "fr": "Juste avant de servir, mets dans un grand saladier le persil, la menthe, les tomates égouttées, l'oignon et le boulgour.",
+   "t": "Непосредственно перед подачей сложите в большую миску петрушку, мяту, помидоры, с которых стёк сок, лук и булгур."
+  },
+  "steps.9.title": {
+   "fr": "Assaisonne",
+   "t": "Заправьте"
+  },
+  "steps.9.text": {
+   "fr": "Arrose avec le reste du jus de citron et {{huile}} d'huile d'olive. Ajoute du {{sel}}, du {{poivre}} et {{piment-jamaique}} de piment de la Jamaïque si tu en as. Mélange bien.",
+   "t": "Полейте оставшимся лимонным соком и {{huile}} оливкового масла. Добавьте {{sel}}, {{poivre}} и, если есть, душистый перец ({{piment-jamaique}}). Хорошо перемешайте."
+  },
+  "steps.10.title": {
+   "fr": "Goûte",
+   "t": "Попробуйте"
+  },
+  "steps.10.text": {
+   "fr": "Goûte : le taboulé doit être bien citronné. Rectifie le sel si besoin.",
+   "t": "Попробуйте: у табуле должен быть яркий лимонный вкус. При необходимости досолите."
+  },
+  "steps.11.title": {
+   "fr": "Sers tout de suite",
+   "t": "Сразу подавайте"
+  },
+  "steps.11.text": {
+   "fr": "Sers aussitôt, avec des {{laitue}} : chacun prend le taboulé à la main, pincé dans une feuille.",
+   "t": "Подавайте сразу с листьями салата ромэн: каждый берёт табуле руками, захватывая его листом."
+  },
+  "steps.11.tip": {
+   "fr": "Tu peux aussi le servir avec des feuilles de chou blanc ou de jeunes feuilles de vigne (Hadia ; Wikipédia).",
+   "t": "Можно также подавать его с листьями белокочанной капусты или с молодыми виноградными листьями (Hadia; Wikipédia)."
+  },
+  "secrets.0.text": {
+   "fr": "Le taboulé libanais est d'abord une salade de persil : beaucoup d'herbes, très peu de boulgour.",
+   "t": "Ливанский табуле — это прежде всего салат из петрушки: много зелени и очень мало булгура."
+  },
+  "secrets.0.source": {
+   "fr": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; Taste of Beirut (Joumana Accad) ; Wikipédia (articles « Taboulé » et « Tabbouleh »)",
+   "t": "Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine; Taste of Beirut (Joumana Accad); Wikipédia (статьи «Taboulé» и «Tabbouleh»)"
+  },
+  "secrets.1.text": {
+   "fr": "Prends du boulgour fin, le n° 1 : c'est le plus fin, celui du taboulé.",
+   "t": "Берите мелкий булгур № 1: это самый мелкий, именно он идёт в табуле."
+  },
+  "secrets.1.source": {
+   "fr": "Mama's Lebanese Kitchen (« fine cracked wheat #1 ») ; Hadia's Lebanese Cuisine ; recettelibanaise.com ; Libnanews",
+   "t": "Mama's Lebanese Kitchen («fine cracked wheat #1»); Hadia's Lebanese Cuisine; recettelibanaise.com и Libnanews"
+  },
+  "secrets.2.text": {
+   "fr": "Pourquoi pas de semoule de couscous : le boulgour est du blé précuit, séché puis concassé ; le boulgour fin n'a qu'à boire le jus du citron et des tomates, sans cuisson, et il reste discret dans le persil. La semoule de couscous est un autre produit, des grains de semoule roulés puis cuits à la vapeur. Avec elle, on obtient le « taboulé à l'orientale » servi en France, où la semoule devient l'ingrédient principal et où le persil passe au second plan : ce n'est plus le taboulé libanais.",
+   "t": "Почему не кускус: булгур — это предварительно сваренная, высушенная и дроблёная пшеница; мелкому булгуру достаточно впитать сок лимона и помидоров, без варки, и он остаётся незаметным в петрушке. Кускус — другой продукт: скатанные гранулы семолины, затем приготовленные на пару. С ним получается «табуле по-восточному», который подают во Франции: там главным ингредиентом становится кускус, а петрушка отходит на второй план — это уже не ливанский табуле."
+  },
+  "secrets.2.source": {
+   "fr": "Wikipédia, « Boulgour » et « Bulgur » (en anglais : un simple trempage suffit) ; Hadia's Lebanese Cuisine (le boulgour fin boit le jus des tomates et du citron) ; recettelibanaise.com (boulgour fin qui reste discret) ; Wikipédia, « Couscous » et « Taboulé »",
+   "t": "Wikipédia, «Boulgour» и «Bulgur» (на английском: достаточно простого замачивания); Hadia's Lebanese Cuisine (мелкий булгур впитывает сок помидоров и лимона); recettelibanaise.com (мелкий булгур остаётся незаметным); Wikipédia, «Couscous» и «Taboulé»"
+  },
+  "secrets.3.text": {
+   "fr": "Sèche parfaitement les herbes avant de les hacher : mouillées, elles tournent en pâte et détrempent la salade.",
+   "t": "Тщательно обсушите зелень перед нарезкой: мокрая, она превращается в кашу, и салат становится водянистым."
+  },
+  "secrets.3.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen",
+   "t": "Hadia's Lebanese Cuisine и Mama's Lebanese Kitchen"
+  },
+  "secrets.4.text": {
+   "fr": "Hache à la main, au couteau bien aiguisé, en fines lanières ; jamais au robot.",
+   "t": "Рубите вручную, острым ножом, тонкими полосками; никогда не в комбайне."
+  },
+  "secrets.4.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Taste of Beirut ; recettelibanaise.com ; Anissa Helou (blog, « chopping parsley for a living »)",
+   "t": "Hadia's Lebanese Cuisine; Taste of Beirut; recettelibanaise.com; Anissa Helou (блог, «chopping parsley for a living»)"
+  },
+  "secrets.5.text": {
+   "fr": "Choisis des tomates fermes et égoutte-les : trop de jus détrempe la salade.",
+   "t": "Выбирайте плотные помидоры и откидывайте их на дуршлаг: лишний сок делает салат водянистым."
+  },
+  "secrets.5.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen ; recettelibanaise.com",
+   "t": "Hadia's Lebanese Cuisine, Mama's Lebanese Kitchen и recettelibanaise.com"
+  },
+  "secrets.6.text": {
+   "fr": "Mélange et assaisonne au dernier moment : sinon les herbes ramollissent et le taboulé détrempe.",
+   "t": "Смешивайте и заправляйте в последний момент: иначе зелень обмякнет, а табуле станет водянистым."
+  },
+  "secrets.6.source": {
+   "fr": "Mama's Lebanese Kitchen ; Taste of Beirut ; Hadia's Lebanese Cuisine",
+   "t": "Mama's Lebanese Kitchen, Taste of Beirut и Hadia's Lebanese Cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Citron frais pressé, jamais en bouteille. Hadia le presse juste avant de mélanger : pressé d'avance et gardé, il peut devenir amer.",
+   "t": "Только свежевыжатый лимонный сок, никогда не из бутылки. Hadia выжимает его прямо перед тем, как смешивать: выжатый заранее и постоявший, он может стать горьким."
+  },
+  "secrets.7.source": {
+   "fr": "Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine",
+   "t": "Mama's Lebanese Kitchen и Hadia's Lebanese Cuisine"
+  },
+  "secrets.8.text": {
+   "fr": "Un bon taboulé se reconnaît à son goût bien citronné.",
+   "t": "Хороший табуле узнают по яркому лимонному вкусу."
+  },
+  "secrets.8.source": {
+   "fr": "Mama's Lebanese Kitchen",
+   "t": "Mama's Lebanese Kitchen"
+  },
+  "secrets.9.text": {
+   "fr": "Une pincée de piment de la Jamaïque ou de sept-épices libanais, c'est l'épice du taboulé libanais ; Hadia la recommande vivement.",
+   "t": "Щепотка душистого перца или ливанской смеси «семь специй» — это пряность ливанского табуле; Hadia очень её рекомендует."
+  },
+  "secrets.9.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Taste of Beirut (facultatif) ; Mama's Lebanese Kitchen (sept-épices)",
+   "t": "Hadia's Lebanese Cuisine; Taste of Beirut (по желанию); Mama's Lebanese Kitchen («семь специй»)"
+  },
+  "secrets.10.text": {
+   "fr": "Persil plat de préférence ; le persil frisé dépanne, à condition de le hacher très fin.",
+   "t": "Лучше всего листовая петрушка; кудрявая выручит, если нарезать её очень мелко."
+  },
+  "secrets.10.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Taste of Beirut (réponse de Joumana Accad à une lectrice)",
+   "t": "Hadia's Lebanese Cuisine; Taste of Beirut (ответ Joumana Accad читательнице)"
+  },
+  "secrets.11.text": {
+   "fr": "Pour gagner du temps, hache le persil, la menthe et l'oignon quelques heures avant, couvre et garde au frigo ; garde les tomates à part et assemble au dernier moment.",
+   "t": "Чтобы сэкономить время, порубите петрушку, мяту и лук за несколько часов, накройте и уберите в холодильник; помидоры храните отдельно и соединяйте всё в последний момент."
+  },
+  "secrets.11.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Taste of Beirut (assaisonnement au dernier moment si on prépare à l'avance)",
+   "t": "Hadia's Lebanese Cuisine; Taste of Beirut (если готовить заранее, заправлять в последний момент)"
+  },
+  "secrets.12.text": {
+   "fr": "Au Liban, on le mange à la main, pincé dans une feuille de romaine, de chou ou de vigne.",
+   "t": "В Ливане его едят руками, захватывая листом салата ромэн, капусты или винограда."
+  },
+  "secrets.12.source": {
+   "fr": "Hadia's Lebanese Cuisine ; Taste of Beirut ; Wikipédia (« Taboulé ») ; Libnanews (François El Bacha)",
+   "t": "Hadia's Lebanese Cuisine, Taste of Beirut, Wikipédia («Taboulé») и Libnanews (François El Bacha)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre de la semoule de couscous, ou beaucoup trop de boulgour : ce n'est plus le taboulé libanais (Wikipédia ; Mama's Lebanese Kitchen).",
+   "t": "Класть кускус или слишком много булгура: это уже не ливанский табуле (Wikipédia; Mama's Lebanese Kitchen)."
+  },
+  "mistakes.1": {
+   "fr": "Prendre du gros boulgour : il faut du boulgour fin n° 1 (Mama's Lebanese Kitchen ; Hadia's Lebanese Cuisine ; recettelibanaise.com ; Libnanews).",
+   "t": "Брать крупный булгур: нужен мелкий булгур № 1 (Mama's Lebanese Kitchen; Hadia's Lebanese Cuisine; recettelibanaise.com; Libnanews)."
+  },
+  "mistakes.2": {
+   "fr": "Hacher le persil encore mouillé, ou au robot : il devient une bouillie (Hadia's Lebanese Cuisine ; Mama's Lebanese Kitchen).",
+   "t": "Рубить петрушку ещё мокрой или в комбайне: она превращается в кашу (Hadia's Lebanese Cuisine; Mama's Lebanese Kitchen)."
+  },
+  "mistakes.3": {
+   "fr": "Garder les grosses tiges (Taste of Beirut ; Hadia's Lebanese Cuisine).",
+   "t": "Оставлять толстые стебли (Taste of Beirut; Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.4": {
+   "fr": "Assaisonner longtemps à l'avance : le taboulé détrempe (Mama's Lebanese Kitchen ; Taste of Beirut ; Hadia's Lebanese Cuisine).",
+   "t": "Заправлять задолго до подачи: табуле становится водянистым (Mama's Lebanese Kitchen; Taste of Beirut; Hadia's Lebanese Cuisine)."
+  },
+  "mistakes.5": {
+   "fr": "Utiliser du jus de citron en bouteille (Mama's Lebanese Kitchen).",
+   "t": "Использовать лимонный сок из бутылки (Mama's Lebanese Kitchen)."
+  },
+  "mistakes.6": {
+   "fr": "Prendre des tomates trop molles : elles rendent trop d'eau (Hadia's Lebanese Cuisine ; recettelibanaise.com).",
+   "t": "Брать слишком мягкие помидоры: они дают слишком много воды (Hadia's Lebanese Cuisine; recettelibanaise.com)."
+  },
+  "mistakes.7": {
+   "fr": "Oublier de laver le persil et la menthe, qui se mangent crus (Anses ; FSA).",
+   "t": "Забывать вымыть петрушку и мяту, которые едят сырыми (Anses; FSA)."
+  },
+  "mistakes.8": {
+   "fr": "Hacher les herbes sur la planche qui a servi pour de la viande crue (Anses).",
+   "t": "Рубить зелень на доске, на которой резали сырое мясо (Anses)."
+  },
+  "mistakes.9": {
+   "fr": "Laisser le taboulé plus de 2 heures à température ambiante avant de le mettre au frigo (Anses).",
+   "t": "Оставлять табуле при комнатной температуре дольше 2 часов, прежде чем убрать в холодильник (Anses)."
+  },
+  "variants.0": {
+   "fr": "Avec des oignons verts à la place de l'oignon blanc (Taste of Beirut ; Wikipédia en arabe).",
+   "t": "С зелёным луком вместо белого (Taste of Beirut; арабская Wikipédia)."
+  },
+  "variants.1": {
+   "fr": "Avec un concombre haché très fin : c'est la façon palestinienne (Wikipédia ; Libnanews) ; Mama's Lebanese Kitchen en met aussi un.",
+   "t": "С очень мелко нарезанным огурцом: это палестинский вариант (Wikipédia; Libnanews); Mama's Lebanese Kitchen тоже кладёт один огурец."
+  },
+  "variants.2": {
+   "fr": "Avec de la laitue hachée dedans : la version arménienne (Wikipédia ; Libnanews).",
+   "t": "С нарезанным листовым салатом внутри: армянский вариант (Wikipédia; Libnanews)."
+  },
+  "variants.3": {
+   "fr": "Plus doux : au sumac et à la mélasse de grenade à la place du citron (Wikipédia) ; Hadia ajoute seulement un filet de mélasse de grenade sur le dessus.",
+   "t": "Мягче: с сумахом и гранатовой патокой вместо лимона (Wikipédia); Hadia лишь поливает табуле сверху тонкой струйкой гранатовой патоки."
+  },
+  "variants.4": {
+   "fr": "À l'ancienne, comme avant l'arrivée de la tomate au Levant : tomates en dés servies à part ou posées sur le dessus (Wikipédia).",
+   "t": "По старинке, как до появления помидоров в Леванте: помидоры кубиками подают отдельно или выкладывают сверху (Wikipédia)."
+  },
+  "variants.5": {
+   "fr": "Boulgour ajouté sec dans la salade : il boit le jus des tomates et du citron (Hadia's Lebanese Cuisine).",
+   "t": "Булгур добавляют в салат сухим: он впитывает сок помидоров и лимона (Hadia's Lebanese Cuisine)."
+  },
+  "variants.6": {
+   "fr": "Avec une pincée de cannelle, un peu de paprika et de zeste de citron (recettelibanaise.com).",
+   "t": "Со щепоткой корицы, небольшим количеством паприки и лимонной цедры (recettelibanaise.com)."
+  },
+  "variants.7": {
+   "fr": "Sans gluten : du quinoa à la place du boulgour, que Mama's Lebanese Kitchen suggère sur l'avis de quelques personnes, sans l'avoir testé.",
+   "t": "Без глютена: киноа вместо булгура — Mama's Lebanese Kitchen предлагает этот вариант по отзывам нескольких человек, не проверив его."
+  },
+  "variants.8": {
+   "fr": "Tabbouleh kazzabé, le « taboulé menteur » du Sud-Liban : ici le boulgour est la vedette, gonflé dans l'eau de cuisson du chou, avec oignon rouge et concentré de tomate (Hadia's Lebanese Cuisine, recette de son amie Rima Hamad).",
+   "t": "Tabbouleh kazzabé, «табуле-обманщик» с юга Ливана: здесь звезда блюда — булгур, набухший в воде, в которой варилась капуста, с красным луком и томатной пастой (Hadia's Lebanese Cuisine, рецепт её подруги Rima Hamad)."
+  },
+  "variants.9": {
+   "fr": "Kısır turc et eetch arménien : bien plus de boulgour que de persil (Wikipédia).",
+   "t": "Турецкий kısır и армянский eetch: булгура гораздо больше, чем петрушки (Wikipédia)."
+  }
+ }
+}

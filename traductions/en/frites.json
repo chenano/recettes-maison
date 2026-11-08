@@ -1,0 +1,466 @@
+{
+ "_slug": "frites",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Frites maison",
+   "t": "Homemade fries"
+  },
+  "darija": {
+   "fr": "btata mqliya, ou « frit »",
+   "t": "btata mqliya, or “frit”"
+  },
+  "tagline": {
+   "fr": "Croustillantes dehors, fondantes dedans : les frites maison cuites deux fois, comme dans les friteries belges.",
+   "t": "Crisp outside, soft inside: homemade fries cooked twice, as in Belgian chip shops."
+  },
+  "region": {
+   "fr": "Belgique et nord de la France : les deux pays se disputent son origine (Wikipédia). En Belgique, la culture des friteries (le « fritkot ») est reconnue patrimoine culturel immatériel par la Communauté flamande (2014), la Fédération Wallonie-Bruxelles (2016), puis la Communauté germanophone et la Région de Bruxelles-Capitale (2017) (Navefri-Unafri, union nationale des frituristes).",
+   "t": "Belgium and northern France: the two countries dispute its origin (Wikipedia). In Belgium, chip shop culture (the “fritkot”) has been recognised as intangible cultural heritage by the Flemish Community (2014), the Wallonia-Brussels Federation (2016), then the German-speaking Community and the Brussels-Capital Region (2017) (Navefri-Unafri, the national union of chip shop owners)."
+  },
+  "occasion": {
+   "fr": "Accompagnement de tous les jours : steak, poulet, poisson, boulettes. En Belgique et en France, ce sont le steak-frites et les moules-frites (Wikipédia, VLAM) ; au Maroc, les frites accompagnent aussi des plats, par exemple posées sur le poulet en sauce (Bladi.net). Chaque année en novembre, la Belgique fête la frite : Semaine de la Frite en Wallonie, Week van de Friet en Flandre (Apaq-W, VLAM).",
+   "t": "An everyday side dish: steak, chicken, fish, meatballs. In Belgium and France, it's steak-frites and moules-frites (Wikipedia, VLAM); in Morocco, fries also go with dishes, for example laid on top of chicken in sauce (Bladi.net). Every November, Belgium celebrates fries: the Semaine de la Frite in Wallonia, the Week van de Friet in Flanders (Apaq-W, VLAM)."
+  },
+  "img_alt": {
+   "fr": "Frites maison dorées, coupées en gros bâtonnets, sur une assiette",
+   "t": "Golden homemade fries, cut into thick sticks, on a plate"
+  },
+  "serving": {
+   "fr": "Sers les frites aussitôt, brûlantes et sans les couvrir, fournée après fournée (Chef Simon, Meilleur du Chef). En Belgique, on les mange en cornet ou en barquette, avec de la mayonnaise, la sauce préférée des Belges (Apaq-W, VLAM, Wikipédia) ; ketchup et moutarde sont aussi classiques (Wikipédia). Elles accompagnent le steak, les moules ou les boulettes (Wikipédia, VLAM), et au Maroc, par exemple, le poulet en sauce (Bladi.net). Écarte les frites trop brunes (Anses), et garde-les pour le plaisir : l'Anses conseille une alimentation modérée en aliments gras et frits.",
+   "t": "Serve the fries immediately, piping hot and uncovered, batch after batch (Chef Simon, Meilleur du Chef). In Belgium, they are eaten from a paper cone or a tray, with mayonnaise, the Belgians' favourite sauce (Apaq-W, VLAM, Wikipedia); ketchup and mustard are classics too (Wikipedia). They go with steak, mussels or meatballs (Wikipedia, VLAM), and in Morocco, for example, with chicken in sauce (Bladi.net). Throw away any fries that are too brown (Anses), and keep them as a treat: Anses advises eating fatty and fried foods in moderation."
+  },
+  "ing.0.group": {
+   "fr": "Frites",
+   "t": "Fries"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair farineuse",
+   "t": "floury potatoes"
+  },
+  "ing.pdt.note": {
+   "fr": "type Bintje ou Agria",
+   "t": "such as Bintje or Agria"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture (tournesol ou arachide)",
+   "t": "vegetable frying oil (sunflower or groundnut)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour que les frites nagent ; 100 % végétale : ni saindoux, ni graisse de bœuf non certifiée halal ; si quelqu'un est allergique à l'arachide, prends du tournesol (l'arachide est un allergène, règlement UE 1169/2011)",
+   "t": "enough for the fries to swim in; 100% vegetable: no lard, and no beef fat that isn't certified halal; if anyone is allergic to peanuts, use sunflower oil (peanuts are an allergen, EU Regulation 1169/2011)"
+  },
+  "ing.sel.name": {
+   "fr": "sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "to taste"
+  },
+  "equipment.0": {
+   "fr": "Une friteuse électrique avec thermostat : c'est le plus sûr (London Fire Brigade, gouvernement du Québec)",
+   "t": "An electric deep fryer with a thermostat: the safest option (London Fire Brigade, Quebec government)"
+  },
+  "equipment.1": {
+   "fr": "À défaut : une casserole profonde, un thermomètre de cuisson et une écumoire (casserole remplie au tiers au plus) ; le gouvernement du Québec déconseille la casserole et les pompiers de Cambridgeshire conseillent plutôt le four",
+   "t": "Failing that: a deep saucepan, a cooking thermometer and a skimmer (saucepan no more than a third full); the Quebec government advises against using a saucepan, and Cambridgeshire Fire & Rescue Service recommends the oven instead"
+  },
+  "equipment.2": {
+   "fr": "Un couvercle (ou une plaque) assez grand pour couvrir la friteuse ou la casserole, toujours à portée de main",
+   "t": "A lid (or a baking tray) big enough to cover the fryer or the saucepan, always within reach"
+  },
+  "equipment.3": {
+   "fr": "Un économe et un grand couteau, ou un coupe-frites",
+   "t": "A vegetable peeler and a large knife, or a chip cutter"
+  },
+  "equipment.4": {
+   "fr": "Une planche à découper",
+   "t": "A chopping board"
+  },
+  "equipment.5": {
+   "fr": "Un grand saladier d'eau froide",
+   "t": "A large bowl of cold water"
+  },
+  "equipment.6": {
+   "fr": "Des torchons propres et secs, et du papier absorbant",
+   "t": "Clean, dry tea towels, and kitchen paper"
+  },
+  "equipment.7": {
+   "fr": "Une grande plaque ou un grand plat pour le repos des frites",
+   "t": "A large baking tray or dish for resting the fries"
+  },
+  "equipment.8": {
+   "fr": "Un minuteur",
+   "t": "A timer"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "Peel the potatoes"
+  },
+  "steps.0.text": {
+   "fr": "Lave {{pdt:full}} si elles sont terreuses, puis épluche-les à l'économe. Retire les taches et les germes. Au fur et à mesure, mets-les dans un grand saladier d'eau froide.",
+   "t": "Wash {{pdt:full}} if they are muddy, then peel them with the peeler. Remove any blemishes and sprouts. As you go, put them in a large bowl of cold water."
+  },
+  "steps.0.tip": {
+   "fr": "L'eau froide les empêche de noircir en attendant (Meilleur du Chef) ; Chef Simon les garde aussi dans l'eau froide avant de les tailler.",
+   "t": "The cold water stops them going dark while they wait (Meilleur du Chef); Chef Simon also keeps them in cold water before cutting them."
+  },
+  "steps.1.title": {
+   "fr": "Taille les bâtonnets",
+   "t": "Cut the sticks"
+  },
+  "steps.1.text": {
+   "fr": "Coupe chaque pomme de terre en tranches d'1 cm d'épaisseur, puis chaque tranche en bâtonnets d'1 cm de côté, bien réguliers. Remets-les dans l'eau froide.",
+   "t": "Cut each potato into slices 1 cm thick, then each slice into sticks 1 cm square, nice and even. Put them back in the cold water."
+  },
+  "steps.1.tip": {
+   "fr": "C'est la taille « pont-neuf », la frite classique (Escoffier, Chef Simon, Meilleur du Chef). Les frituristes belges la comparent à une réglette d'1 cm (Navefri-Unafri). Tu peux aussi utiliser un coupe-frites à grille de 1 cm (Wikipédia).",
+   "t": "This is the “pont-neuf” cut, the classic fry (Escoffier, Chef Simon, Meilleur du Chef). Belgian chip shop owners compare it to a 1 cm-wide ruler (Navefri-Unafri). You can also use a chip cutter with a 1 cm grid (Wikipedia)."
+  },
+  "steps.2.title": {
+   "fr": "Rince à l'eau froide",
+   "t": "Rinse in cold water"
+  },
+  "steps.2.text": {
+   "fr": "Égoutte les bâtonnets et rince-les bien sous l'eau froide, pour enlever l'excès d'amidon.",
+   "t": "Drain the sticks and rinse them well under cold running water, to remove the excess starch."
+  },
+  "steps.2.tip": {
+   "fr": "Si tu as le temps, laisse-les d'abord tremper dans l'eau froide, puis rince-les à l'eau propre : le règlement européen sur l'acrylamide (2017/2158) demande aux restaurants, quand c'est possible, de les faire tremper de préférence 30 minutes à 2 heures dans l'eau froide (ou quelques minutes dans l'eau chaude), puis de les rincer, pour réduire leurs sucres ; l'agence irlandaise (FSAI) conseille aussi aux particuliers de les faire tremper, puis de bien les égoutter.",
+   "t": "If you have time, first leave them to soak in cold water, then rinse them in clean water: the European regulation on acrylamide (2017/2158) asks restaurants, where possible, to soak them preferably for 30 minutes to 2 hours in cold water (or a few minutes in hot water), then rinse them, to reduce their sugars; the Irish agency (FSAI) also advises home cooks to soak them, then drain them well."
+  },
+  "steps.3.title": {
+   "fr": "Sèche-les soigneusement",
+   "t": "Dry them thoroughly"
+  },
+  "steps.3.text": {
+   "fr": "Étale les frites sur un torchon propre et sec et tamponne-les bien, sur toutes les faces. Finis au papier absorbant si besoin : elles doivent être bien sèches.",
+   "t": "Spread the fries out on a clean, dry tea towel and pat them well on all sides. Finish with kitchen paper if needed: they must be very dry."
+  },
+  "steps.3.tip": {
+   "fr": "C'est aussi une question de sécurité : l'eau fait bouillonner l'huile, qui peut déborder (pompiers de Cambridgeshire, London Fire Brigade). Elle fait aussi baisser la température de l'huile (Wikipédia).",
+   "t": "It's also a matter of safety: water makes the oil bubble up, and it can overflow (Cambridgeshire Fire & Rescue Service, London Fire Brigade). It also lowers the temperature of the oil (Wikipedia)."
+  },
+  "steps.4.title": {
+   "fr": "Chauffe l'huile à 140 °C",
+   "t": "Heat the oil to 140 °C"
+  },
+  "steps.4.text": {
+   "fr": "Remplis la friteuse d'{{huile}} comme l'indique sa notice et règle-la sur 140 °C. Sans friteuse, prends une casserole profonde : remplis-la au tiers au plus et contrôle la température avec un thermomètre de cuisson. Pose un couvercle adapté à portée de main. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "Fill the fryer with {{huile}} as its instructions say and set it to 140 °C. Without a fryer, use a deep saucepan: fill it no more than a third full and check the temperature with a cooking thermometer. Put a lid that fits within reach. From now on, don't take your eyes off the oil."
+  },
+  "steps.4.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "If the oil catches fire: never use water, and don't move the fryer or pan. If you can do it safely, turn off the heat and put the lid on, then leave it to cool for at least 30 minutes without touching it. Otherwise, get out, close the door and call the fire brigade. Call them even if the fire seems to be out: it may have spread into the cooker hood duct (Quebec government, USFA, London Fire Brigade, Cambridgeshire Fire & Rescue Service)."
+  },
+  "steps.5.title": {
+   "fr": "Première cuisson",
+   "t": "Fry them a first time"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'huile est à 140 °C, plonge une première fournée, panier rempli à moitié au plus. Laisse cuire 7 minutes environ. Les frites doivent devenir molles, sans prendre de couleur.",
+   "t": "When the oil is at 140 °C, lower in a first batch, with the basket no more than half full. Cook for about 7 minutes. The fries should become soft without taking on any colour."
+  },
+  "steps.5.tip": {
+   "fr": "Ce premier bain « poche » les frites et chasse leur humidité (Navefri-Unafri). Si elles colorent déjà, l'huile est trop chaude.",
+   "t": "This first bath “poaches” the fries and drives out their moisture (Navefri-Unafri). If they are already colouring, the oil is too hot."
+  },
+  "steps.5.timer.label": {
+   "fr": "Première cuisson",
+   "t": "First frying"
+  },
+  "steps.5.timer.done": {
+   "fr": "Sors le panier : les frites doivent être molles et encore pâles.",
+   "t": "Lift out the basket: the fries should be soft and still pale."
+  },
+  "steps.5.img.alt": {
+   "fr": "Frites encore pâles qui cuisent dans un panier plongé dans l'huile, sur le feu",
+   "t": "Still-pale fries cooking in a basket lowered into the oil, on the hob"
+  },
+  "steps.5.img.caption": {
+   "fr": "Les frites dans le bain d'huile",
+   "t": "The fries in the oil bath"
+  },
+  "steps.6.title": {
+   "fr": "Égoutte et continue",
+   "t": "Drain and carry on"
+  },
+  "steps.6.text": {
+   "fr": "Sors le panier, secoue-le et étale les frites sur du papier absorbant. Attends que l'huile revienne à 140 °C, puis fais cuire les autres fournées de la même façon.",
+   "t": "Lift out the basket, shake it and spread the fries out on kitchen paper. Wait for the oil to come back to 140 °C, then cook the other batches the same way."
+  },
+  "steps.6.tip": {
+   "fr": "Un panier trop plein fait chuter la température de l'huile : les frites collent et deviennent grasses (Wikipédia, FSA).",
+   "t": "An overfull basket makes the oil temperature drop: the fries stick together and turn greasy (Wikipedia, FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Laisse reposer",
+   "t": "Leave to rest"
+  },
+  "steps.7.text": {
+   "fr": "Laisse les frites refroidir complètement à l'air libre, environ 30 minutes. Elles peuvent attendre jusqu'à 1 à 2 heures. Si tu quittes la cuisine, éteins la friteuse.",
+   "t": "Leave the fries to cool completely in the open air, about 30 minutes. They can wait for up to 1 to 2 hours. If you leave the kitchen, turn off the fryer."
+  },
+  "steps.7.tip": {
+   "fr": "Pendant ce repos, une fine croûte se forme (Semaine de la Frite). Et plus les frites ont refroidi, plus le choc de chaleur du second bain est fort : elles saisissent vite et deviennent croustillantes et dorées (Navefri-Unafri).",
+   "t": "During this rest, a thin crust forms (Semaine de la Frite). And the more the fries have cooled, the stronger the heat shock of the second bath: they sear quickly and turn crisp and golden (Navefri-Unafri)."
+  },
+  "steps.8.title": {
+   "fr": "Monte l'huile à 175 °C",
+   "t": "Raise the oil to 175 °C"
+  },
+  "steps.8.text": {
+   "fr": "Juste avant de servir, règle la friteuse sur 175 °C, pas plus ; avec une casserole, surveille le thermomètre. Si l'huile fume, elle est trop chaude : coupe le chauffage et laisse-la refroidir.",
+   "t": "Just before serving, set the fryer to 175 °C, no higher; with a saucepan, watch the thermometer. If the oil smokes, it is too hot: turn off the heat and let it cool."
+  },
+  "steps.8.tip": {
+   "fr": "Au-delà de 175 °C, la quantité d'acrylamide dans les frites peut fortement augmenter (EFSA). C'est aussi le plafond fixé par l'Europe pour les restaurants (règlement 2017/2158) et par l'agence irlandaise de sécurité des aliments (FSAI).",
+   "t": "Above 175 °C, the amount of acrylamide in fries can rise sharply (EFSA). It is also the ceiling set by Europe for restaurants (Regulation 2017/2158) and by the Food Safety Authority of Ireland (FSAI)."
+  },
+  "steps.9.title": {
+   "fr": "Seconde cuisson",
+   "t": "Fry them a second time"
+  },
+  "steps.9.text": {
+   "fr": "Plonge une fournée, toujours panier à moitié au plus, et compte 2 minutes. Les frites doivent être croustillantes et jaune doré. Sinon, prolonge un peu en surveillant la couleur, et sors-les dès qu'elles sont jaune doré.",
+   "t": "Lower in a batch, still with the basket no more than half full, and allow 2 minutes. The fries should be crisp and golden yellow. If not, give them a little longer, watching the colour, and take them out as soon as they are golden yellow."
+  },
+  "steps.9.tip": {
+   "fr": "Vise le jaune doré, pas le brun : plus une frite brunit, plus elle contient d'acrylamide, une substance qui pourrait augmenter le risque de cancer (FSA, EFSA, règlement UE 2017/2158).",
+   "t": "Aim for golden yellow, not brown: the browner a fry gets, the more acrylamide it contains, a substance that could increase the risk of cancer (FSA, EFSA, EU Regulation 2017/2158)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Seconde cuisson",
+   "t": "Second frying"
+  },
+  "steps.9.timer.done": {
+   "fr": "Regarde la couleur : jaune doré ? Sors-les tout de suite.",
+   "t": "Check the colour: golden yellow? Take them out straight away."
+  },
+  "steps.10.title": {
+   "fr": "Secoue et sale",
+   "t": "Shake and salt"
+  },
+  "steps.10.text": {
+   "fr": "Sors le panier et secoue-le bien au-dessus de l'huile. Verse les frites sur du papier absorbant et sale-les aussitôt avec un peu de {{sel}}, pendant qu'elles sont brûlantes. Ne les couvre pas.",
+   "t": "Lift out the basket and shake it well over the oil. Tip the fries onto kitchen paper and salt them straight away with a little {{sel}}, while they are piping hot. Don't cover them."
+  },
+  "steps.10.tip": {
+   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
+   "t": "Shaking the basket knocks off the surface oil: the FSA talks of 20% less fat absorbed. In Belgian chip shops, they shake and tap the container to drain them (Wikipedia)."
+  },
+  "steps.11.title": {
+   "fr": "Cuis les autres fournées",
+   "t": "Cook the other batches"
+  },
+  "steps.11.text": {
+   "fr": "Laisse l'huile remonter à 175 °C, puis fais cuire les autres fournées de la même façon. Sers chaque fournée dès qu'elle est prête.",
+   "t": "Let the oil come back up to 175 °C, then cook the other batches the same way. Serve each batch as soon as it is ready."
+  },
+  "steps.12.title": {
+   "fr": "Éteins et laisse refroidir l'huile",
+   "t": "Turn off the fryer and let the oil cool"
+  },
+  "steps.12.text": {
+   "fr": "Éteins la friteuse dès la dernière fournée sortie. Laisse l'huile refroidir complètement avant de la déplacer ou de la filtrer.",
+   "t": "Turn off the fryer as soon as the last batch is out. Let the oil cool completely before moving or straining it."
+  },
+  "steps.12.tip": {
+   "fr": "Filtre l'huile refroidie, garde-la dans un récipient fermé et change-la souvent (Chef Simon : toutes les 4 à 7 utilisations). Évite d'y frire du poisson : l'huile garde les goûts (Chef Simon).",
+   "t": "Strain the cooled oil, keep it in a closed container and change it often (Chef Simon: every 4 to 7 uses). Avoid frying fish in it: the oil holds on to flavours (Chef Simon)."
+  },
+  "steps.13.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve straight away"
+  },
+  "steps.13.text": {
+   "fr": "Sers les frites tout de suite, bien chaudes, avec la sauce de ton choix : mayonnaise, ketchup ou moutarde.",
+   "t": "Serve the fries immediately, piping hot, with the sauce of your choice: mayonnaise, ketchup or mustard."
+  },
+  "steps.13.tip": {
+   "fr": "Écarte les frites trop brunes ou brûlées : ce sont les plus riches en acrylamide (Anses).",
+   "t": "Throw away any fries that are too brown or burnt: they contain the most acrylamide (Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Prends une pomme de terre à chair farineuse, comme la Bintje : riche en amidon, elle donne des frites dorées et croustillantes.",
+   "t": "Use a floury potato, such as Bintje: rich in starch, it gives golden, crisp fries."
+  },
+  "secrets.0.source": {
+   "fr": "VLAM (Lekker van bij ons), Navefri-Unafri, Semaine de la Frite (Apaq-W), Frietmuseum de Bruges, Wikipédia",
+   "t": "VLAM (Lekker van bij ons), Navefri-Unafri, Semaine de la Frite (Apaq-W), Frietmuseum in Bruges, Wikipedia"
+  },
+  "secrets.1.text": {
+   "fr": "Taille des bâtonnets d'1 cm de côté, bien réguliers : c'est la frite « pont-neuf », le « type fondamental des pommes de terre frites » selon Escoffier.",
+   "t": "Cut nice even sticks, 1 cm square: this is the “pont-neuf” fry, the “fundamental type of fried potatoes” according to Escoffier."
+  },
+  "secrets.1.source": {
+   "fr": "Escoffier (Le Guide culinaire, 1903), Chef Simon, Meilleur du Chef, Navefri-Unafri, Wikipédia",
+   "t": "Escoffier (Le Guide culinaire, 1903), Chef Simon, Meilleur du Chef, Navefri-Unafri, Wikipedia"
+  },
+  "secrets.2.text": {
+   "fr": "Rince les frites à l'eau froide pour enlever l'excès d'amidon, puis sèche-les très bien : c'est l'un des secrets des fabricants belges de frites fraîches.",
+   "t": "Rinse the fries in cold water to remove the excess starch, then dry them very well: it's one of the secrets of Belgian fresh-fry makers."
+  },
+  "secrets.2.source": {
+   "fr": "Navefri-Unafri (« L'art des bonnes frites »), VLAM, Chef Simon, Meilleur du Chef",
+   "t": "Navefri-Unafri (“L'art des bonnes frites”), VLAM, Chef Simon, Meilleur du Chef"
+  },
+  "secrets.3.text": {
+   "fr": "La double cuisson : un premier bain doux cuit l'intérieur sans colorer, un second bain plus chaud forme la croûte dorée et croustillante.",
+   "t": "Double frying: a first, gentle bath cooks the inside without colouring it, a second, hotter bath forms the golden, crisp crust."
+  },
+  "secrets.3.source": {
+   "fr": "Navefri-Unafri, VLAM, Semaine de la Frite (Apaq-W), Chef Simon, Meilleur du Chef, Frietmuseum de Bruges",
+   "t": "Navefri-Unafri, VLAM, Semaine de la Frite (Apaq-W), Chef Simon, Meilleur du Chef, Frietmuseum in Bruges"
+  },
+  "secrets.4.text": {
+   "fr": "Laisse bien refroidir les frites entre les deux bains : une fine croûte se forme, et le choc de chaleur du second bain, plus fort sur des frites bien refroidies, les saisit vite : elles deviennent croustillantes et dorées.",
+   "t": "Let the fries cool well between the two baths: a thin crust forms, and the heat shock of the second bath, stronger on well-cooled fries, sears them quickly: they turn crisp and golden."
+  },
+  "secrets.4.source": {
+   "fr": "VLAM, Semaine de la Frite (Apaq-W), Navefri-Unafri",
+   "t": "VLAM, Semaine de la Frite (Apaq-W), Navefri-Unafri"
+  },
+  "secrets.5.text": {
+   "fr": "Tu reçois ? Fais la première cuisson 1 à 2 heures à l'avance, et la seconde juste avant de servir.",
+   "t": "Having guests? Do the first frying 1 to 2 hours ahead, and the second just before serving."
+  },
+  "secrets.5.source": {
+   "fr": "Meilleur du Chef (1 à 2 heures), Navefri-Unafri (« quelques heures » possibles entre les deux bains)",
+   "t": "Meilleur du Chef (1 to 2 hours), Navefri-Unafri (“a few hours” possible between the two baths)"
+  },
+  "secrets.6.text": {
+   "fr": "« Une bonne frite doit successivement nager, chanter et, enfin, sauter » : beaucoup d'huile pour peu de frites, et un panier jamais plus qu'à moitié plein.",
+   "t": "“A good fry must swim, then sing and, finally, jump”: lots of oil for a small amount of fries, and a basket never more than half full."
+  },
+  "secrets.6.source": {
+   "fr": "Bernard Lefèvre, président de l'Unafri (Navefri-Unafri) ; règlement UE 2017/2158 et FSA pour le panier à moitié plein",
+   "t": "Bernard Lefèvre, president of Unafri (Navefri-Unafri); EU Regulation 2017/2158 and FSA for the half-full basket"
+  },
+  "secrets.7.text": {
+   "fr": "Entre deux fournées, attends que l'huile revienne à la bonne température : dans une huile pas assez chaude, les frites boivent le gras.",
+   "t": "Between batches, wait for the oil to come back to the right temperature: in oil that isn't hot enough, the fries soak up the fat."
+  },
+  "secrets.7.source": {
+   "fr": "FSA (conseils aux friteries d'Irlande du Nord), Navefri-Unafri, Wikipédia",
+   "t": "FSA (advice to chip shops in Northern Ireland), Navefri-Unafri, Wikipedia"
+  },
+  "secrets.8.text": {
+   "fr": "Secoue le panier dès la sortie du bain et égoutte sur du papier absorbant : les frites continuent d'absorber l'huile en refroidissant.",
+   "t": "Shake the basket as soon as it comes out of the oil and drain on kitchen paper: fries keep absorbing oil as they cool."
+  },
+  "secrets.8.source": {
+   "fr": "FSA (jusqu'à 20 % de gras absorbé en moins), Wikipédia, Navefri-Unafri",
+   "t": "FSA (up to 20% less fat absorbed), Wikipedia, Navefri-Unafri"
+  },
+  "secrets.9.text": {
+   "fr": "Sale tout de suite, à la sortie de l'huile, quand les frites sont encore brûlantes : le sel se dissout et imprègne mieux. Et ne les couvre pas.",
+   "t": "Salt straight away, as they come out of the oil, while the fries are still piping hot: the salt dissolves and soaks in better. And don't cover them."
+  },
+  "secrets.9.source": {
+   "fr": "Chef Simon, Semaine de la Frite (Apaq-W), Meilleur du Chef, Wikipédia",
+   "t": "Chef Simon, Semaine de la Frite (Apaq-W), Meilleur du Chef, Wikipedia"
+  },
+  "secrets.10.text": {
+   "fr": "Les pommes de terre se récoltent en septembre et en octobre. En fin de saison, vers l'été, elles contiennent plus de sucre et brunissent plus vite : fais le premier bain un peu moins long et un peu moins chaud, et arrête-toi au jaune doré.",
+   "t": "Potatoes are harvested in September and October. At the end of the season, towards summer, they contain more sugar and brown faster: make the first bath a little shorter and a little cooler, and stop at golden yellow."
+  },
+  "secrets.10.source": {
+   "fr": "Navefri-Unafri (« Frieten bakken is een kunst »)",
+   "t": "Navefri-Unafri (“Frieten bakken is een kunst”)"
+  },
+  "secrets.11.text": {
+   "fr": "Garde les pommes de terre au frais et dans le noir, idéalement entre 8 et 10 °C. Trop froides, elles font du sucre et brunissent vite à la friture.",
+   "t": "Store potatoes somewhere cool and dark, ideally between 8 and 10 °C. Too cold, they make sugar and brown quickly when fried."
+  },
+  "secrets.11.source": {
+   "fr": "Apaq-W (8 à 10 °C), EFSA (sous 8 °C, plus de sucres), FSAI (8 °C ou un peu plus)",
+   "t": "Apaq-W (8 to 10 °C), EFSA (below 8 °C, more sugars), FSAI (8 °C or slightly above)"
+  },
+  "secrets.12.text": {
+   "fr": "Une friteuse électrique à thermostat tient la bonne température toute seule : des frites plus régulières, et une cuisine plus sûre.",
+   "t": "An electric fryer with a thermostat holds the right temperature on its own: more even fries, and a safer kitchen."
+  },
+  "secrets.12.source": {
+   "fr": "Chef Simon (Sabine Simon), London Fire Brigade, gouvernement du Québec",
+   "t": "Chef Simon (Sabine Simon), London Fire Brigade, Quebec government"
+  },
+  "secrets.13.text": {
+   "fr": "Prends une huile neutre qui supporte la chaleur, comme le tournesol ou l'arachide.",
+   "t": "Use a neutral oil that can take the heat, such as sunflower or groundnut oil."
+  },
+  "secrets.13.source": {
+   "fr": "INC (tournesol), Chef Simon (arachide), gouvernement du Québec (points de fumée : tournesol 210 °C, arachide 220 °C)",
+   "t": "INC (sunflower), Chef Simon (groundnut), Quebec government (smoke points: sunflower 210 °C, groundnut 220 °C)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre des frites mouillées dans l'huile : elle bouillonne et peut déborder (pompiers de Cambridgeshire, London Fire Brigade).",
+   "t": "Putting wet fries into the oil: it bubbles up and can overflow (Cambridgeshire Fire & Rescue Service, London Fire Brigade)."
+  },
+  "mistakes.1": {
+   "fr": "Remplir le panier à ras bord : l'huile refroidit, les frites collent et deviennent grasses ; remplis-le à moitié au plus (règlement UE 2017/2158, FSA, Wikipédia).",
+   "t": "Filling the basket to the brim: the oil cools, the fries stick together and turn greasy; fill it no more than half full (EU Regulation 2017/2158, FSA, Wikipedia)."
+  },
+  "mistakes.2": {
+   "fr": "Faire la seconde cuisson dans une huile pas assez chaude : les frites absorbent trop de gras (Navefri-Unafri, Wikipédia).",
+   "t": "Doing the second frying in oil that isn't hot enough: the fries absorb too much fat (Navefri-Unafri, Wikipedia)."
+  },
+  "mistakes.3": {
+   "fr": "Faire la première cuisson trop chaude : les bâtonnets se ferment trop vite et retombent, tout plats (Navefri-Unafri). Trop froide, la pomme de terre se défait et abîme l'huile (Chef Simon).",
+   "t": "Doing the first frying too hot: the sticks seal too quickly and then collapse, completely flat (Navefri-Unafri). Too cool, and the potato falls apart and spoils the oil (Chef Simon)."
+  },
+  "mistakes.4": {
+   "fr": "Dépasser 175 °C ou cuire jusqu'au brun : c'est là que l'acrylamide grimpe (EFSA, FSA, FSAI, règlement UE 2017/2158).",
+   "t": "Going above 175 °C or frying until brown: that's when acrylamide shoots up (EFSA, FSA, FSAI, EU Regulation 2017/2158)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser chauffer une huile qui fume : coupe le feu et laisse-la refroidir (London Fire Brigade, gouvernement du Québec, pompiers de Cambridgeshire).",
+   "t": "Letting oil that is smoking keep heating: turn off the heat and let it cool (London Fire Brigade, Quebec government, Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser l'huile chaude sans surveillance, même quelques secondes (pompiers de Cambridgeshire, gouvernement du Québec, USFA).",
+   "t": "Leaving hot oil unattended, even for a few seconds (Cambridgeshire Fire & Rescue Service, Quebec government, USFA)."
+  },
+  "mistakes.7": {
+   "fr": "Remplir une casserole d'huile à plus d'un tiers (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Filling a saucepan more than a third full of oil (London Fire Brigade, Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.8": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer le récipient en flammes (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Throwing water on an oil fire, or moving the fryer or pan while it is on fire (Quebec government, London Fire Brigade, Cambridgeshire Fire & Rescue Service)."
+  },
+  "mistakes.9": {
+   "fr": "Ranger au frigo les pommes de terre destinées aux frites : elles sucrent et brunissent plus vite à la friture (VLAM, EFSA, FSAI). La FSA britannique juge le frigo acceptable depuis le printemps 2022 ; si tu les y as gardées, surveille la couleur de près.",
+   "t": "Storing potatoes meant for fries in the fridge: they get sweeter and brown faster when fried (VLAM, EFSA, FSAI). The UK's FSA has considered the fridge acceptable since spring 2022; if you have kept them there, watch the colour closely."
+  },
+  "mistakes.10": {
+   "fr": "Garder indéfiniment la même huile : filtre-la après usage et change-la régulièrement (Chef Simon).",
+   "t": "Keeping the same oil indefinitely: strain it after use and change it regularly (Chef Simon)."
+  },
+  "mistakes.11": {
+   "fr": "Couvrir les frites à la sortie du bain (Chef Simon : « surtout ne pas couvrir »).",
+   "t": "Covering the fries when they come out of the oil (Chef Simon: “whatever you do, don't cover them”)."
+  },
+  "variants.0": {
+   "fr": "Frites belges : Bintje taillée à 1 cm, rincée et bien séchée ; premier bain à 140 °C environ 7 minutes, refroidissement, puis second bain à 170-175 °C jusqu'à la croûte dorée (Navefri-Unafri). La tradition belge est le blanc de bœuf (Frietmuseum de Bruges, Wikipédia), et des friteries y restent fidèles (Navefri-Unafri) : chez toi, seulement du blanc de bœuf certifié halal. C'est une graisse riche en graisses saturées, environ 50 % contre 10 % pour le tournesol (FSA). Sers-les en cornet, avec de la mayonnaise (Apaq-W). En friterie, en Belgique ou dans le nord de la France, demande dans quelle graisse les frites sont cuites : certaines utilisent du blanc de bœuf ou un mélange bœuf et végétal (Navefri-Unafri).",
+   "t": "Belgian fries: Bintje cut to 1 cm, rinsed and dried well; first bath at 140 °C for about 7 minutes, cooling, then a second bath at 170-175 °C until the crust is golden (Navefri-Unafri). The Belgian tradition is beef dripping (Frietmuseum in Bruges, Wikipedia), and some chip shops remain loyal to it (Navefri-Unafri): at home, use only beef dripping certified halal. It is a fat rich in saturated fat, about 50% compared with 10% for sunflower oil (FSA). Serve them in a paper cone, with mayonnaise (Apaq-W). At a chip shop in Belgium or northern France, ask what fat the fries are cooked in: some use beef dripping or a blend of beef and vegetable fat (Navefri-Unafri)."
+  },
+  "variants.1": {
+   "fr": "Au four : préchauffe le four entre 180 et 200 °C (190 °C au plus en chaleur tournante). Mélange les frites rincées et bien séchées avec un filet d'huile (Wikipédia : 2 c. à s. pour 1 kg de pommes de terre), étale-les sur une plaque et retourne-les à mi-cuisson. Arrête-toi au jaune doré (règlement UE 2017/2158, FSAI). Les pompiers de Cambridgeshire conseillent d'ailleurs le four, plus sûr que la casserole d'huile.",
+   "t": "In the oven: preheat the oven to between 180 and 200 °C (190 °C at most for a fan oven). Toss the rinsed, well-dried fries with a drizzle of oil (Wikipedia: 2 tbsp for 1 kg potatoes), spread them on a baking tray and turn them halfway through. Stop at golden yellow (EU Regulation 2017/2158, FSAI). Cambridgeshire Fire & Rescue Service actually recommends the oven, as it is safer than a pan of oil."
+  },
+  "variants.2": {
+   "fr": "À la friteuse à air (Airfryer) : le règlement UE parle de 180 à 220 °C pour préchauffer un four ou une friteuse à air. Arrête-toi au jaune doré : selon des tests de l'industrie et d'associations de consommateurs cités par l'EFSA, la friteuse à air peut donner 30 à 40 % d'acrylamide de plus qu'une friteuse à huile.",
+   "t": "In an air fryer (Airfryer): the EU regulation mentions 180 to 220 °C for preheating an oven or an air fryer. Stop at golden yellow: according to tests by industry and consumer groups cited by EFSA, an air fryer can produce 30 to 40% more acrylamide than an oil fryer."
+  },
+  "variants.3": {
+   "fr": "En une seule cuisson : des frites épaisses (au moins 14 mm de section), 5 à 6 minutes à 175 °C, jusqu'à un doré pâle (FSA, conseils aux friteries d'Irlande du Nord, qui déconseille la double cuisson pour limiter le gras). Escoffier cuisait ainsi ses pommes Pont-Neuf, en un seul bain, jusqu'à ce qu'elles soient « croustillantes à l'extérieur, tout en restant moelleuses à l'intérieur ».",
+   "t": "In a single frying: thick fries (at least 14 mm across), 5 to 6 minutes at 175 °C, until pale golden (FSA, advice to chip shops in Northern Ireland, which advises against double frying to limit fat). Escoffier cooked his Pont-Neuf potatoes this way, in a single bath, until they were “crisp on the outside, while staying soft on the inside”."
+  },
+  "variants.4": {
+   "fr": "Au Maroc : Bladi.net cuit le poulet en sauce (oignons, ail, coriandre, gingembre, safran) et pose les frites dessus au moment de servir.",
+   "t": "In Morocco: Bladi.net cooks chicken in sauce (onions, garlic, coriander, ginger, saffron) and lays the fries on top just before serving."
+  }
+ }
+}

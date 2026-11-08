@@ -1,0 +1,446 @@
+{
+ "_slug": "cake-marocain",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Cake marocain au lait, une meskouta du goûter",
+   "t": "الكيك المغربي بالحليب، مسكوتة اللمجة"
+  },
+  "darija": {
+   "fr": "meskouta ; on dit aussi lkik ou kika",
+   "t": "مسكوتة؛ ويقال أيضًا الكيك أو كيكة"
+  },
+  "tagline": {
+   "fr": "Le cake simple de la maison : des œufs bien fouettés, de l'huile, du lait et un zeste de citron, à couper en tranches pour le thé de l'après-midi.",
+   "t": "كيك البيت البسيط: بيض مخفوق جيدًا، وزيت، وحليب، وقشر ليمون مبشور، يُقطَّع شرائح لشاي العصر."
+  },
+  "region": {
+   "fr": "Maroc ; selon Wikipédia (en arabe), la meskouta « économique » y est très consommée",
+   "t": "المغرب؛ وحسب Wikipédia (بالعربية)، تُستهلك فيه المسكوتة «الاقتصادية» كثيرًا"
+  },
+  "occasion": {
+   "fr": "Goûter avec le thé, petit-déjeuner, ftour du ramadan",
+   "t": "اللمجة مع الشاي، الفطور الصباحي، فطور رمضان"
+  },
+  "img_alt": {
+   "fr": "Tranches de cake marocain (meskouta) sur une assiette",
+   "t": "شرائح من الكيك المغربي (المسكوتة) على صحن"
+  },
+  "serving": {
+   "fr": "En tranches, avec un thé à la menthe (Morocco World News ; Wikipédia en anglais, qui cite aussi le café), au goûter ou au petit-déjeuner (Taste of Maroc ; Wikipédia en anglais), et aussi au ftour du ramadan (Taste of Maroc). Il est très bon nature. Pour le décorer : sucre glace (Taste of Maroc ; Choumicha), ou confiture et noix de coco râpée ou amandes effilées (Morocco World News ; Taste of Maroc), ou un peu de miel et de noix de coco (Lalla Moulati). Choumicha compte ce cake pour 10 personnes. Bien couvert, il se garde quelques jours à température ambiante et plusieurs mois au congélateur (Taste of Maroc, seule source).",
+   "t": "شرائح، مع الشاي بالنعناع (Morocco World News؛ Wikipédia بالإنجليزية، التي تذكر القهوة أيضًا)، في اللمجة أو الفطور الصباحي (Taste of Maroc؛ Wikipédia بالإنجليزية)، وأيضًا في فطور رمضان (Taste of Maroc). وهو لذيذ جدًا دون أي إضافات. ولتزيينه: السكر الناعم (سكر الحلويات) (Taste of Maroc؛ Choumicha)، أو المربى مع جوز الهند المبشور أو شرائح اللوز (Morocco World News؛ Taste of Maroc)، أو قليل من العسل وجوز الهند (Lalla Moulati). وتحسب Choumicha هذا الكيك لـ10 أشخاص. وإذا غُطّي جيدًا، يُحفظ بضعة أيام في حرارة الغرفة وعدة أشهر في المجمّد (Taste of Maroc، المصدر الوحيد)."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "العجين"
+  },
+  "ing.oeufs.name": {
+   "fr": "gros œuf",
+   "t": "بيضة كبيرة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "gros œufs",
+   "t": "بيضات كبيرة"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule",
+   "t": "سكر أبيض"
+  },
+  "ing.sucre-vanille.name": {
+   "fr": "sachet de sucre vanillé",
+   "t": "كيس سكر فانيلي"
+  },
+  "ing.sucre-vanille.pl": {
+   "fr": "sachets de sucre vanillé",
+   "t": "أكياس سكر فانيلي"
+  },
+  "ing.sucre-vanille.note": {
+   "fr": "sans alcool : il remplace l'extrait de vanille",
+   "t": "بلا كحول: يُغني عن خلاصة الفانيلا"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "ملح ناعم"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre (tournesol ou huile de table)",
+   "t": "زيت محايد الطعم (زيت دوار الشمس أو زيت المائدة)"
+  },
+  "ing.lait.name": {
+   "fr": "de lait",
+   "t": "حليب"
+  },
+  "ing.farine.name": {
+   "fr": "de farine",
+   "t": "دقيق"
+  },
+  "ing.levure-chimique.name": {
+   "fr": "de levure chimique",
+   "t": "خميرة كيميائية"
+  },
+  "ing.levure-chimique.note": {
+   "fr": "3 sachets de 7 g par cake, soit 21 g (le poids affiché est arrondi à 5 g près)",
+   "t": "3 أكياس، وزن كل منها 7 غ، لكل كيكة، أي 21 غ (الوزن المعروض مُقرَّب إلى أقرب 5 غ)"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron.note": {
+   "fr": "pour le zeste râpé et le jus",
+   "t": "لقشرها المبشور وعصيرها"
+  },
+  "ing.1.group": {
+   "fr": "Pour le moule",
+   "t": "للقالب"
+  },
+  "ing.beurre-moule.name": {
+   "fr": "Un peu de beurre",
+   "t": "قليل من الزبدة"
+  },
+  "ing.beurre-moule.pl": {
+   "fr": "Un peu de beurre",
+   "t": "قليل من الزبدة"
+  },
+  "ing.farine-moule.name": {
+   "fr": "Un peu de farine",
+   "t": "قليل من الدقيق"
+  },
+  "ing.farine-moule.pl": {
+   "fr": "Un peu de farine",
+   "t": "قليل من الدقيق"
+  },
+  "equipment.0": {
+   "fr": "Un four",
+   "t": "فرن"
+  },
+  "equipment.1": {
+   "fr": "Un moule à cake de 28 cm (ou un moule couronne, type kouglof)",
+   "t": "قالب كيك مستطيل طوله 28 سم (أو قالب حلقي مجوّف الوسط، من نوع الكوغلوف)"
+  },
+  "equipment.2": {
+   "fr": "Un batteur électrique ou un fouet",
+   "t": "مضرب كهربائي أو مخفقة يدوية"
+  },
+  "equipment.3": {
+   "fr": "Un grand saladier et un bol",
+   "t": "وعاء كبير ووعاء صغير"
+  },
+  "equipment.4": {
+   "fr": "Un tamis",
+   "t": "منخل"
+  },
+  "equipment.5": {
+   "fr": "Une spatule",
+   "t": "ملعقة مسطّحة"
+  },
+  "equipment.6": {
+   "fr": "Une râpe fine et un presse-agrumes",
+   "t": "مبشرة ناعمة وعصّارة حمضيات"
+  },
+  "equipment.7": {
+   "fr": "Une pique en bois",
+   "t": "عود خشبي"
+  },
+  "equipment.8": {
+   "fr": "Une grille",
+   "t": "شبكة تبريد"
+  },
+  "steps.0.title": {
+   "fr": "Préchauffer le four",
+   "t": "سخّن الفرن مسبقًا"
+  },
+  "steps.0.text": {
+   "fr": "Préchauffe le four à 180 °C.",
+   "t": "سخّن الفرن مسبقًا على 180 درجة مئوية."
+  },
+  "steps.1.title": {
+   "fr": "Beurrer et fariner le moule",
+   "t": "ادهن القالب بالزبدة ورشّه بالدقيق"
+  },
+  "steps.1.text": {
+   "fr": "Beurre le moule à cake, puis farine-le.",
+   "t": "ادهن قالب الكيك بالزبدة، ثم رشّه بالدقيق."
+  },
+  "steps.2.title": {
+   "fr": "Préparer le citron",
+   "t": "حضّر الليمون"
+  },
+  "steps.2.text": {
+   "fr": "Lave {{citron:full}}, râpe finement le zeste, puis presse le jus. Râpe toujours le zeste avant de presser le fruit.",
+   "t": "اغسل {{citron:full}}، وابشر القشرة بشرًا ناعمًا، ثم اعصر الليمون. ابشر القشرة دائمًا قبل عصر الثمرة."
+  },
+  "steps.3.title": {
+   "fr": "Tamiser la farine et la levure",
+   "t": "انخل الدقيق والخميرة"
+  },
+  "steps.3.text": {
+   "fr": "Mélange {{farine}} de farine et {{levure-chimique}} de levure chimique, puis tamise-les ensemble.",
+   "t": "اخلط {{farine}} من الدقيق و{{levure-chimique}} من الخميرة الكيميائية، ثم انخلهما معًا."
+  },
+  "steps.4.title": {
+   "fr": "Fouetter les œufs et le sucre",
+   "t": "اخفق البيض والسكر"
+  },
+  "steps.4.text": {
+   "fr": "Dans un grand saladier, fouette {{oeufs:full}} avec {{sucre}} de sucre, {{sucre-vanille:full}} et {{sel}} de sel, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "t": "في وعاء كبير، اخفق {{oeufs:full}} مع {{sucre}} من السكر، و{{sucre-vanille:full}}، و{{sel}} من الملح، حتى يبيضّ الخليط ويتضاعف حجمه."
+  },
+  "steps.4.tip": {
+   "fr": "Prends ton temps : Choumicha fouette jusqu'à ce que le mélange double de volume, Taste of Maroc jusqu'à ce qu'il soit pâle et épais.",
+   "t": "لا تستعجل: تخفق Choumicha حتى يتضاعف حجم الخليط، ويخفق Taste of Maroc حتى يصير فاتح اللون وكثيفًا."
+  },
+  "steps.5.title": {
+   "fr": "Ajouter l'huile et le lait en filet",
+   "t": "أضف الزيت والحليب على شكل خيط رفيع"
+  },
+  "steps.5.text": {
+   "fr": "Sans cesser de fouetter, verse {{huile}} d'huile en filet, puis {{lait}} de lait. Le mélange doit rester léger et mousseux.",
+   "t": "دون أن تتوقف عن الخفق، اسكب {{huile}} من الزيت على شكل خيط رفيع، ثم {{lait}} من الحليب. يجب أن يبقى الخليط خفيفًا ورغويًا."
+  },
+  "steps.6.title": {
+   "fr": "Incorporer la farine",
+   "t": "أدمج الدقيق"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute le mélange farine-levure petit à petit, en remuant délicatement à la spatule, juste assez pour qu'il ne reste plus de farine visible.",
+   "t": "أضف خليط الدقيق والخميرة شيئًا فشيئًا، مع التقليب برفق بالملعقة المسطّحة، بالقدر الكافي فقط حتى لا يبقى أثر ظاهر للدقيق."
+  },
+  "steps.7.title": {
+   "fr": "Ajouter le citron",
+   "t": "أضف الليمون"
+  },
+  "steps.7.text": {
+   "fr": "Ajoute le zeste et le jus de citron, et mélange juste pour les répartir.",
+   "t": "أضف قشر الليمون المبشور وعصيره، وقلّب فقط لتوزيعهما."
+  },
+  "steps.8.title": {
+   "fr": "Verser dans le moule",
+   "t": "اسكب العجين في القالب"
+  },
+  "steps.8.text": {
+   "fr": "Verse la pâte dans le moule beurré et fariné.",
+   "t": "اسكب العجين في القالب المدهون بالزبدة والمرشوش بالدقيق."
+  },
+  "steps.9.title": {
+   "fr": "Cuire 45 minutes",
+   "t": "اخبزه 45 دقيقة"
+  },
+  "steps.9.text": {
+   "fr": "Enfourne et laisse cuire environ 45 minutes à 180 °C. N'ouvre pas le four pendant la première demi-heure.",
+   "t": "أدخله الفرن واتركه يُخبز نحو 45 دقيقة على 180 درجة مئوية. لا تفتح الفرن خلال نصف الساعة الأولى."
+  },
+  "steps.9.tip": {
+   "fr": "Dans un moule couronne, Taste of Maroc compte environ 40 minutes pour sa meskouta : adapte le temps à ton moule et fais le test de la pique.",
+   "t": "في القالب الحلقي، يحسب Taste of Maroc نحو 40 دقيقة لمسكوتته: عدّل المدة حسب قالبك وقم باختبار العود."
+  },
+  "steps.9.timer.label": {
+   "fr": "Cuisson du cake",
+   "t": "خبز الكيك"
+  },
+  "steps.9.timer.done": {
+   "fr": "Plante une pique au centre : si elle ressort sèche, le cake est cuit.",
+   "t": "اغرز عودًا في الوسط: إذا خرج جافًا، فالكيك قد نضج."
+  },
+  "steps.10.title": {
+   "fr": "Vérifier la cuisson",
+   "t": "تحقّق من النضج"
+  },
+  "steps.10.text": {
+   "fr": "Le cake est cuit quand ses bords se décollent du moule et qu'une pique plantée au centre ressort sèche. Sinon, laisse-le encore quelques minutes.",
+   "t": "ينضج الكيك عندما تنفصل أطرافه عن القالب ويخرج العود المغروز في وسطه جافًا. وإلا فاتركه بضع دقائق أخرى."
+  },
+  "steps.11.title": {
+   "fr": "Tiédir puis démouler",
+   "t": "اتركه يفتر ثم أخرجه من القالب"
+  },
+  "steps.11.text": {
+   "fr": "Sors le cake et laisse-le tiédir environ 10 minutes dans le moule. Démoule-le délicatement, puis laisse-le refroidir sur une grille.",
+   "t": "أخرج الكيك من الفرن واتركه يفتر نحو 10 دقائق في القالب. أخرجه من القالب برفق، ثم اتركه يبرد على شبكة."
+  },
+  "steps.12.title": {
+   "fr": "Décorer et servir",
+   "t": "زيّنه وقدّمه"
+  },
+  "steps.12.text": {
+   "fr": "Sers-le en tranches, avec un thé à la menthe. Tu peux le saupoudrer de sucre glace, ou le napper de confiture et le parsemer de noix de coco râpée ou d'amandes effilées.",
+   "t": "قدّمه شرائح مع الشاي بالنعناع. يمكنك أن ترشّ عليه السكر الناعم، أو أن تدهنه بالمربى وترشّ عليه جوز الهند المبشور أو شرائح اللوز."
+  },
+  "secrets.0.text": {
+   "fr": "Fouette longuement les œufs et le sucre, jusqu'à ce que le mélange blanchisse et double de volume.",
+   "t": "اخفق البيض والسكر طويلًا، حتى يبيضّ الخليط ويتضاعف حجمه."
+  },
+  "secrets.0.source": {
+   "fr": "Choumicha (deux recettes de cake économique) ; Taste of Maroc (« pale and thick »)",
+   "t": "Choumicha (وصفتان للكيك الاقتصادي)؛ Taste of Maroc («pale and thick»)"
+  },
+  "secrets.1.text": {
+   "fr": "Verse l'huile en filet sans cesser de fouetter : le mélange doit rester léger et aéré.",
+   "t": "اسكب الزيت على شكل خيط رفيع دون أن تتوقف عن الخفق: يجب أن يبقى الخليط خفيفًا ومليئًا بالهواء."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha ; Taste of Maroc",
+   "t": "Choumicha؛ Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Tamise la farine avec la levure, puis incorpore-la petit à petit et délicatement, à la spatule.",
+   "t": "انخل الدقيق مع الخميرة، ثم أدمجه شيئًا فشيئًا وبرفق، بالملعقة المسطّحة."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Cooking with Alia ; Taste of Maroc (« stir lightly »)",
+   "t": "Choumicha؛ Cooking with Alia؛ Taste of Maroc («stir lightly»)"
+  },
+  "secrets.3.text": {
+   "fr": "Autant d'huile que de liquide, comme ici (15 cl de chaque chez Choumicha) : c'est aussi la proportion de Taste of Maroc, de Morocco World News et de deux cakes de Lalla Moulati. D'autres recettes mettent moins d'huile que de liquide (Cooking with Alia ; Lalla Moulati) ou plus (Choumicha, cake aux pépites).",
+   "t": "كمية الزيت مساوية لكمية السائل، كما هنا (15 سنتيلتر من كل منهما عند Choumicha): وهي أيضًا نسبة Taste of Maroc وMorocco World News ووصفتين للكيك عند Lalla Moulati. وتضع وصفات أخرى زيتًا أقل من السائل (Cooking with Alia؛ Lalla Moulati) أو أكثر منه (Choumicha، الكيك بحبيبات الشوكولاتة)."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Morocco World News ; Lalla Moulati",
+   "t": "Choumicha؛ Taste of Maroc؛ Morocco World News؛ Lalla Moulati"
+  },
+  "secrets.4.text": {
+   "fr": "Lave et râpe le zeste avant de presser l'agrume.",
+   "t": "اغسل ثمرة الحمضيات وابشر قشرها قبل عصرها."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Choumicha (zeste râpé, puis jus)",
+   "t": "Taste of Maroc؛ Choumicha (القشر المبشور، ثم العصير)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas d'extrait de vanille alcoolisé : un sachet de sucre vanillé fait le même travail, et c'est la mesure traditionnelle.",
+   "t": "لا لخلاصة الفانيلا الكحولية: كيس من السكر الفانيلي يؤدي الغرض نفسه، وهو المقدار التقليدي."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (1 sachet de sucre vanillé dans les mesures traditionnelles) ; Morocco World News (8 g de sucre vanillé) ; Choumicha (1 sachet dans le cake aux pépites)",
+   "t": "Taste of Maroc (1 كيس سكر فانيلي في المقادير التقليدية)؛ Morocco World News (8 غ من السكر الفانيلي)؛ Choumicha (1 كيس في الكيك بحبيبات الشوكولاتة)"
+  },
+  "secrets.6.text": {
+   "fr": "Beurre et farine le moule, et enfourne dans un four bien préchauffé à 180 °C.",
+   "t": "ادهن القالب بالزبدة ورشّه بالدقيق، وأدخله فرنًا مسخّنًا مسبقًا جيدًا على 180 درجة مئوية."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Morocco World News ; Cooking with Alia (180 °C)",
+   "t": "Choumicha؛ Taste of Maroc؛ Morocco World News؛ Cooking with Alia (180 درجة مئوية)"
+  },
+  "secrets.7.text": {
+   "fr": "N'ouvre pas le four avant une demi-heure de cuisson.",
+   "t": "لا تفتح الفرن قبل مرور نصف ساعة من الخبز."
+  },
+  "secrets.7.source": {
+   "fr": "Morocco World News (Layla Dahamou)",
+   "t": "Morocco World News (Layla Dahamou)"
+  },
+  "secrets.8.text": {
+   "fr": "Laisse tiédir avant de démouler, puis finis de refroidir sur une grille.",
+   "t": "اتركه يفتر قبل إخراجه من القالب، ثم أكمل تبريده على شبكة."
+  },
+  "secrets.8.source": {
+   "fr": "Choumicha ; Taste of Maroc (7 à 10 minutes) ; Morocco World News",
+   "t": "Choumicha؛ Taste of Maroc (من 7 إلى 10 دقائق)؛ Morocco World News"
+  },
+  "secrets.9.text": {
+   "fr": "Le moule le plus courant pour la meskouta est le moule couronne (type kouglof) ; certaines cuisinières préfèrent le moule à cake : adapte alors le temps de cuisson à ton moule.",
+   "t": "القالب الأكثر شيوعًا للمسكوتة هو القالب الحلقي (من نوع الكوغلوف)؛ وتفضّل بعض الطاهيات قالب الكيك المستطيل: عدّل حينئذ مدة الخبز حسب قالبك."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc ; Morocco World News (moule à cheminée ou moule rond) ; Choumicha (moule à cake de 28 cm)",
+   "t": "Taste of Maroc؛ Morocco World News (قالب مجوّف الوسط أو قالب دائري)؛ Choumicha (قالب كيك مستطيل طوله 28 سم)"
+  },
+  "secrets.10.text": {
+   "fr": "À la marocaine, on mesure avec un verre à thé et un bol, ou avec le pot de yaourt.",
+   "t": "على الطريقة المغربية، تُقاس المقادير بكأس الشاي وبالوعاء، أو بعلبة الياغورت."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; Morocco World News ; Cooking with Alia",
+   "t": "Taste of Maroc؛ Morocco World News؛ Cooking with Alia"
+  },
+  "secrets.11.text": {
+   "fr": "Pour un cake encore plus léger, certaines cuisinières montent les blancs en neige à part ; Taste of Maroc juge que ce n'est pas nécessaire.",
+   "t": "للحصول على كيك أخف، تخفق بعض الطاهيات بياض البيض وحده حتى يصير كالثلج؛ ويرى Taste of Maroc أن ذلك غير ضروري."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; Cooking with Alia (blancs en neige)",
+   "t": "Taste of Maroc؛ Cooking with Alia (بياض مخفوق كالثلج)"
+  },
+  "secrets.12.text": {
+   "fr": "Ne force pas sur la levure chimique : Taste of Maroc a réduit sa dose après avoir lu, sur d'autres sites, des craintes d'un goût amer ou d'un centre qui monte trop vite puis retombe ; elle-même n'a jamais eu ce problème.",
+   "t": "لا تُكثر من الخميرة الكيميائية: فقد خفّضت صاحبة Taste of Maroc مقدارها بعد أن قرأت في مواقع أخرى مخاوف من طعم مرّ أو من وسط يرتفع بسرعة كبيرة ثم يهبط؛ ولم تواجه هي نفسها هذه المشكلة قط."
+  },
+  "secrets.12.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "mistakes.0": {
+   "fr": "Arrêter de fouetter avant que le mélange œufs-sucre ait blanchi et doublé de volume (Choumicha ; Taste of Maroc).",
+   "t": "التوقف عن الخفق قبل أن يبيضّ خليط البيض والسكر ويتضاعف حجمه (Choumicha؛ Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Verser l'huile d'un coup au lieu d'un filet (Choumicha ; Taste of Maroc).",
+   "t": "سكب الزيت دفعة واحدة بدل سكبه على شكل خيط رفيع (Choumicha؛ Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Travailler fort la pâte une fois la farine ajoutée : mélange délicatement (Choumicha ; Taste of Maroc).",
+   "t": "خلط العجين بقوة بعد إضافة الدقيق: قلّبه برفق (Choumicha؛ Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Enfourner dans un four qui n'est pas préchauffé (Choumicha ; Taste of Maroc ; Cooking with Alia).",
+   "t": "إدخال الكيك فرنًا غير مسخّن مسبقًا (Choumicha؛ Taste of Maroc؛ Cooking with Alia)."
+  },
+  "mistakes.4": {
+   "fr": "Oublier de beurrer et de fariner le moule (Choumicha ; Taste of Maroc ; Morocco World News).",
+   "t": "نسيان دهن القالب بالزبدة ورشّه بالدقيق (Choumicha؛ Taste of Maroc؛ Morocco World News)."
+  },
+  "mistakes.5": {
+   "fr": "Ouvrir le four pendant la première demi-heure (Morocco World News).",
+   "t": "فتح الفرن خلال نصف الساعة الأولى (Morocco World News)."
+  },
+  "mistakes.6": {
+   "fr": "Démouler le cake encore brûlant : laisse-le tiédir (Choumicha ; Taste of Maroc ; Morocco World News).",
+   "t": "إخراج الكيك من القالب وهو لا يزال ساخنًا جدًا: اتركه يفتر (Choumicha؛ Taste of Maroc؛ Morocco World News)."
+  },
+  "mistakes.7": {
+   "fr": "Prendre de l'extrait de vanille alcoolisé : le sucre vanillé le remplace (Taste of Maroc ; Morocco World News).",
+   "t": "استعمال خلاصة الفانيلا الكحولية: السكر الفانيلي يُغني عنها (Taste of Maroc؛ Morocco World News)."
+  },
+  "variants.0": {
+   "fr": "Meskouta au yaourt (Morocco World News, Layla Dahamou) : 4 œufs ; 1 pot de yaourt à la vanille ou à la banane (110 g), qui sert de mesure ; 1½ pot de sucre ; 1 pot d'huile ; 3 pots de farine ; 16 g de levure chimique (2 sachets) ; 1 sachet de sucre vanillé (8 g). Moule couronne ou moule rond beurré et fariné ; 45 minutes au plus, à four moyen (sans température chiffrée), sans ouvrir avant 30 minutes.",
+   "t": "مسكوتة بالياغورت (Morocco World News، Layla Dahamou): 4 بيضات؛ 1 علبة ياغورت بالفانيلا أو بالموز (110 غ)، تُستعمل للقياس؛ 1½ علبة من السكر؛ 1 علبة من الزيت؛ 3 علب من الدقيق؛ 16 غ من الخميرة الكيميائية (2 كيس)؛ 1 كيس سكر فانيلي (8 غ). قالب حلقي أو قالب دائري مدهون بالزبدة ومرشوش بالدقيق؛ 45 دقيقة على الأكثر، في فرن متوسط الحرارة (دون تحديد درجة الحرارة)، دون فتحه قبل 30 دقيقة."
+  },
+  "variants.1": {
+   "fr": "Meskouta au yaourt et aux blancs en neige (Cooking with Alia) : 3 œufs séparés ; 1 pot de yaourt aromatisé (114 g) ; 1½ pot de sucre ; ½ pot d'huile ; 2½ pots de farine ; 1 c. à c. de levure chimique ; vanille (prends du sucre vanillé) ; 1 pincée de sel ; gingembre moulu facultatif. Moule de 20 cm beurré et chemisé de papier cuisson ; 180 °C, environ 50 minutes.",
+   "t": "مسكوتة بالياغورت وبياض البيض المخفوق كالثلج (Cooking with Alia): 3 بيضات يُفصل بياضها عن صفارها؛ 1 علبة ياغورت منكّه (114 غ)؛ 1½ علبة من السكر؛ ½ علبة من الزيت؛ 2½ علبة من الدقيق؛ 1 ملعقة صغيرة من الخميرة الكيميائية؛ فانيلا (استعمل السكر الفانيلي)؛ 1 رشة ملح؛ زنجبيل مطحون (سكينجبير)، اختياري. قالب مقاسه 20 سم مدهون بالزبدة ومبطّن بورق الخبز؛ 180 درجة مئوية، نحو 50 دقيقة."
+  },
+  "variants.2": {
+   "fr": "Meskouta à l'orange (Taste of Maroc) : ½ tasse de jus d'orange frais et 2 c. à c. de zeste ; 4 gros œufs ; 1½ tasse de sucre ; ½ tasse d'huile ; 2 tasses de farine ; 3 c. à c. de levure chimique ; ½ c. à c. de sel ; vanille (1 sachet de sucre vanillé dans la version traditionnelle). Moule couronne beurré et fariné ; 180 °C, environ 40 minutes.",
+   "t": "مسكوتة بالبرتقال (Taste of Maroc): ½ كوب من عصير البرتقال الطازج و2 ملعقة صغيرة من القشر المبشور؛ 4 بيضات كبيرة؛ 1½ كوب من السكر؛ ½ كوب من الزيت؛ 2 كوب من الدقيق؛ 3 ملاعق صغيرة من الخميرة الكيميائية؛ ½ ملعقة صغيرة من الملح؛ فانيلا (1 كيس سكر فانيلي في الوصفة التقليدية). قالب حلقي مدهون بالزبدة ومرشوش بالدقيق؛ 180 درجة مئوية، نحو 40 دقيقة."
+  },
+  "variants.3": {
+   "fr": "Mesures traditionnelles de la meskouta à l'orange (Taste of Maroc) : 1 verre à thé de jus d'orange frais, le zeste de 1 ou 2 oranges, 4 gros œufs, 1 bol ras de sucre, 1 verre à thé d'huile, 1 bol bombé de farine, 2 sachets de levure chimique de 7 g, 1 pincée de sel, 1 sachet de sucre vanillé. Taste of Maroc donne pour le verre à thé « about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup) », soit 177 à 237 ml ou 79 à 118 ml (calcul) : ces deux valeurs ne concordent pas, et seule la seconde colle avec sa recette en tasses (½ tasse de jus et ½ tasse d'huile là où les mesures traditionnelles mettent 1 verre à thé). Le bol contient environ 1½ tasse (355 ml, calcul).",
+   "t": "المقادير التقليدية لمسكوتة البرتقال (Taste of Maroc): 1 كأس شاي من عصير البرتقال الطازج، وقشر 1 أو 2 برتقالة مبشورًا، و4 بيضات كبيرة، و1 وعاء ممسوح من السكر، و1 كأس شاي من الزيت، و1 وعاء مكوّم من الدقيق، و2 كيس من الخميرة الكيميائية (7 غ للكيس الواحد)، و1 رشة ملح، و1 كيس سكر فانيلي. ويحدد Taste of Maroc كأس الشاي بـ«about 6 to 8 ounces of liquid (or 1/3 to 1/2 cup)»، أي من 177 إلى 237 مل أو من 79 إلى 118 مل (بالحساب): هاتان القيمتان لا تتطابقان، والثانية وحدها تتفق مع وصفته بالأكواب (½ كوب من العصير و½ كوب من الزيت حيث تضع المقادير التقليدية 1 كأس شاي). ويسع الوعاء نحو 1½ كوب (355 مل، بالحساب)."
+  },
+  "variants.4": {
+   "fr": "Au verre, marbré (Lalla Moulati) : 3 œufs, 1 verre de sucre, 1 verre d'huile, 1 verre de lait, un peu moins de 3 verres de farine, 3 sachets de levure chimique, vanille et quelques gouttes de vinaigre ; une partie de la pâte est mélangée à 1 cuillère de cacao et versée au milieu ; moule beurré et fariné ; nappé de miel et de noix de coco à la sortie du four.",
+   "t": "بالكأس، كيك رخامي (Lalla Moulati): 3 بيضات، و1 كأس من السكر، و1 كأس من الزيت، و1 كأس من الحليب، وأقل بقليل من 3 كؤوس من الدقيق، و3 أكياس من الخميرة الكيميائية، وفانيلا وبضع قطرات من الخل؛ يُخلط جزء من العجين مع 1 ملعقة من الكاكاو ويُسكب في الوسط؛ قالب مدهون بالزبدة ومرشوش بالدقيق؛ يُدهن بالعسل ويُرشّ بجوز الهند عند إخراجه من الفرن."
+  },
+  "variants.5": {
+   "fr": "Aux pépites de chocolat (Choumicha) : 4 œufs, 180 g de sucre, 1 sachet de sucre vanillé, ½ c. à c. de sel, 18 cl d'huile, 12 cl de lait, 350 g de farine, 14 g de levure chimique et 80 g de pépites de chocolat ; moule à cake beurré et fariné ; 180 °C, 35 à 40 minutes ; sucre glace.",
+   "t": "بحبيبات الشوكولاتة (Choumicha): 4 بيضات، و180 غ من السكر، و1 كيس سكر فانيلي، و½ ملعقة صغيرة من الملح، و18 سنتيلتر من الزيت، و12 سنتيلتر من الحليب، و350 غ من الدقيق، و14 غ من الخميرة الكيميائية، و80 غ من حبيبات الشوكولاتة؛ قالب كيك مستطيل مدهون بالزبدة ومرشوش بالدقيق؛ 180 درجة مئوية، من 35 إلى 40 دقيقة؛ سكر ناعم."
+  },
+  "variants.6": {
+   "fr": "Cake à l'orange au beurre (Choumicha) : 160 g de beurre, 200 g de sucre, ½ c. à c. de sel, 4 œufs, le zeste et le jus de 3 oranges, 2 c. à s. d'eau de fleur d'oranger, 240 g de farine et 1 sachet de levure chimique de 7 g, versés sur des rondelles d'orange confites au sucre et à la fleur d'oranger ; 180 °C, 40 minutes. Choumicha conseille d'ajouter ½ c. à c. de cannelle.",
+   "t": "كيك البرتقال بالزبدة (Choumicha): 160 غ من الزبدة، و200 غ من السكر، و½ ملعقة صغيرة من الملح، و4 بيضات، وقشر 3 برتقالات وعصيرها، و2 ملعقة كبيرة من ماء الزهر، و240 غ من الدقيق، و1 كيس من الخميرة الكيميائية (7 غ)، تُسكب فوق شرائح برتقال مسكّرة بالسكر وماء الزهر؛ 180 درجة مئوية، 40 دقيقة. وتنصح Choumicha بإضافة ½ ملعقة صغيرة من القرفة."
+  },
+  "variants.7": {
+   "fr": "Petit cake « 7 cuillères » (Lalla Moulati) : 3 œufs, 7 cuillères de sucre, 7 d'huile, 7 de lait et 7 de farine, un peu de sel, 1 sachet de vanille et 16 g de levure chimique.",
+   "t": "كيك صغير «7 ملاعق» (Lalla Moulati): 3 بيضات، و7 ملاعق من السكر، و7 من الزيت، و7 من الحليب، و7 من الدقيق، وقليل من الملح، و1 كيس فانيلا، و16 غ من الخميرة الكيميائية."
+  },
+  "variants.8": {
+   "fr": "Avec seulement 2 œufs (Lalla Moulati) : 2 œufs, 1 verre de lait tiède, ½ verre d'huile, 2 verres de farine, 1 verre de sucre, 16 g de levure chimique et du sucre vanillé.",
+   "t": "باستعمال 2 بيضة فقط (Lalla Moulati): 2 بيضة، و1 كأس من الحليب الفاتر، و½ كأس من الزيت، و2 كأس من الدقيق، و1 كأس من السكر، و16 غ من الخميرة الكيميائية، وسكر فانيلي."
+  }
+ }
+}

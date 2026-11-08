@@ -217,15 +217,7 @@ window.RECETTES.push({
    "phase": "Préparation",
    "title": "Prépare oignons, ail et bouquet",
    "text": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
-   "timer": null,
-   "img": {
-    "src": "img/etapes/oignon-emince.jpg",
-    "alt": "Oignon émincé et ail écrasé sur une planche",
-    "caption": "Émincer l'oignon",
-    "w": 1000,
-    "h": 750,
-    "credit": "Photo de l'étape « Prépare oignons, ail et bouquet » : jchristin, Flickr, licence CC BY 2.0 (réduite)."
-   }
+   "timer": null
   },
   {
    "phase": "Cuisson",

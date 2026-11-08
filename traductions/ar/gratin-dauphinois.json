@@ -1,0 +1,414 @@
+{
+ "_slug": "gratin-dauphinois",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Gratin dauphinois",
+   "t": "غراتان الدوفينوا"
+  },
+  "tagline": {
+   "fr": "Des pommes de terre fondantes, cuites lentement dans le lait et la crème, sous une fine croûte dorée : le vrai gratin du Dauphiné, sans fromage ni œufs.",
+   "t": "بطاطس طرية تذوب في الفم، مطهوة ببطء في الحليب والقشدة، تحت قشرة ذهبية رقيقة: غراتان الدوفينيه الأصيل، دون جبن ولا بيض."
+  },
+  "region": {
+   "fr": "Dauphiné, dans le sud-est de la France (Isère). Le plat serait né au pays des Quatre Montagnes, autour de Villard-de-Lans et d'Autrans (Wikipédia ; Larousse gastronomique cité par Lyon Capitale). Première mention connue : un dîner du 12 juillet 1788, offert par le duc de Clermont-Tonnerre, lieutenant général du Dauphiné, aux officiers municipaux de Gap (Wikipédia, d'après l'archiviste Auguste Prudhomme ; Lyon Capitale ; Meilleur du Chef). Il a sa confrérie depuis le 17 janvier 2019 (legratindauphinois.fr, Wikipédia).",
+   "t": "الدوفينيه، في جنوب شرق فرنسا (إيزير). يُقال إن الطبق نشأ في منطقة الجبال الأربعة، حول فيلار دو لان وأوتران (Wikipédia؛ Larousse gastronomique نقلًا عن Lyon Capitale). أول ذكر معروف له: عشاء يوم 12 يوليوز 1788، أقامه دوق Clermont-Tonnerre، نائب حاكم الدوفينيه، لأعضاء مجلس مدينة غاب (Wikipédia، نقلًا عن أمين الأرشيف Auguste Prudhomme؛ Lyon Capitale؛ Meilleur du Chef). وله أخوية خاصة به منذ 17 يناير 2019 (legratindauphinois.fr، Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Accompagnement d'un rôti, d'une viande ou d'une volaille, ou plat principal avec une salade verte (Wikipédia, Chef Simon, legratindauphinois.fr). Un classique des repas de fête (Jow).",
+   "t": "طبق جانبي مع لحم مشوي أو لحم آخر أو دواجن، أو طبق رئيسي مع سلطة خضراء (Wikipédia، Chef Simon، legratindauphinois.fr). من كلاسيكيات وجبات الأعياد (Jow)."
+  },
+  "img_alt": {
+   "fr": "Gratin dauphinois doré dans son plat",
+   "t": "غراتان الدوفينوا ذهبي اللون في طبقه"
+  },
+  "serving": {
+   "fr": "Chaud, dans son plat de cuisson, avec une viande rôtie ou une volaille, ou en plat principal avec une salade verte (Wikipédia, Chef Simon, legratindauphinois.fr, Jow). Wikipédia note qu'on le mange aussi réchauffé, ou froid. Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 48 heures (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), froids ou réchauffés une seule fois jusqu'à être fumants au centre (FSA). L'Anses conseille de réchauffer dans un plat couvert, jusqu'à ce que la vapeur s'échappe. Lait et crème entamés : suis la mention « après ouverture » de l'étiquette (Anses).",
+   "t": "ساخنًا، في طبق طهيه، مع لحم مشوي أو دواجن، أو طبقًا رئيسيًا مع سلطة خضراء (Wikipédia، Chef Simon، legratindauphinois.fr، Jow). وتشير Wikipédia إلى أنه يؤكل أيضًا بعد إعادة تسخينه، أو باردًا. البقايا: في الثلاجة خلال ساعتين (Anses، FSA)، وتؤكل خلال 48 ساعة (FSA؛ وتقول Anses أقل من 3 أيام للطبق المطبوخ)، باردة أو مسخّنة مرة واحدة فقط حتى يتصاعد البخار من وسطها (FSA). تنصح Anses بالتسخين في طبق مغطّى حتى يخرج البخار. الحليب والقشدة بعد فتحهما: اتبع عبارة «بعد الفتح» على الملصق (Anses)."
+  },
+  "ing.0.group": {
+   "fr": "Pommes de terre et plat",
+   "t": "البطاطس وطبق الفرن"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair ferme ou fondante",
+   "t": "بطاطس ذات لبّ متماسك أو ليّن"
+  },
+  "ing.pdt.note": {
+   "fr": "type Charlotte, Monalisa ou Amandine ; ni vertes, ni germées",
+   "t": "من صنف Charlotte أو Monalisa أو Amandine؛ لا خضراء ولا مُنبِتة"
+  },
+  "ing.ail-plat.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail-plat.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail-plat.note": {
+   "fr": "pour frotter le plat",
+   "t": "لفرك طبق الفرن"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "زبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "bien mou, pour le plat et le dessus",
+   "t": "طرية جدًا، لدهن الطبق وللسطح"
+  },
+  "ing.1.group": {
+   "fr": "Lait et crème",
+   "t": "الحليب والقشدة"
+  },
+  "ing.lait.name": {
+   "fr": "de lait entier",
+   "t": "حليب كامل الدسم"
+  },
+  "ing.creme.name": {
+   "fr": "de crème liquide entière",
+   "t": "قشدة سائلة كاملة الدسم"
+  },
+  "ing.creme.note": {
+   "fr": "au moins 30 % de matière grasse (crème fleurette)",
+   "t": "30 % من الدسم على الأقل (قشدة سائلة طازجة)"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "pour le lait",
+   "t": "للحليب"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "الملح"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre",
+   "t": "الفلفل الأسود"
+  },
+  "ing.muscade.name": {
+   "fr": "noix de muscade",
+   "t": "جوزة الطيب"
+  },
+  "ing.muscade.note": {
+   "fr": "facultatif, à râper",
+   "t": "اختيارية، تُبشَر عند الاستعمال"
+  },
+  "equipment.0": {
+   "fr": "Un plat à gratin peu profond, en terre ou en grès de préférence (Lyon Capitale, Escoffier, Wikipédia)",
+   "t": "طبق فرن قليل العمق، ويُفضَّل أن يكون من الفخار أو الخزف الحجري (Lyon Capitale، Escoffier، Wikipédia)"
+  },
+  "equipment.1": {
+   "fr": "Une mandoline ou un bon couteau",
+   "t": "قطّاعة شرائح (ماندولين) أو سكين جيد"
+  },
+  "equipment.2": {
+   "fr": "Un économe et une planche à découper",
+   "t": "مقشرة ولوح تقطيع"
+  },
+  "equipment.3": {
+   "fr": "Une casserole, pour le lait",
+   "t": "قدر، للحليب"
+  },
+  "equipment.4": {
+   "fr": "Un couteau pointu, pour vérifier la cuisson",
+   "t": "سكين مدبّب، للتحقق من النضج"
+  },
+  "steps.0.title": {
+   "fr": "Préchauffe le four",
+   "t": "سخّن الفرن مسبقًا"
+  },
+  "steps.0.text": {
+   "fr": "Préchauffe le four à 160 °C.",
+   "t": "سخّن الفرن مسبقًا على 160 درجة مئوية."
+  },
+  "steps.1.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "قشّر البطاطس"
+  },
+  "steps.1.text": {
+   "fr": "Épluche {{pdt}} de pommes de terre. Retire les parties vertes et les germes. Lave-les rapidement, entières.",
+   "t": "قشّر {{pdt}} من البطاطس. أزل الأجزاء الخضراء والبراعم. اغسلها بسرعة وهي كاملة."
+  },
+  "steps.1.tip": {
+   "fr": "Jette une pomme de terre très verte, abîmée ou amère : les parties vertes et les germes concentrent la solanine, qui peut causer une intoxication, et la cuisson ne la détruit pas (BfR, agence allemande ; ACIA, agence canadienne).",
+   "t": "ارمِ كل حبة بطاطس شديدة الخضرة أو تالفة أو مُرّة: فالأجزاء الخضراء والبراعم تتركّز فيها مادة السولانين، التي قد تسبب تسممًا، والطهي لا يُتلفها (BfR، وكالة ألمانية؛ ACIA، وكالة كندية)."
+  },
+  "steps.2.title": {
+   "fr": "Coupe de fines rondelles",
+   "t": "قطّع شرائح دائرية رقيقة"
+  },
+  "steps.2.text": {
+   "fr": "Coupe les pommes de terre en rondelles fines et régulières, d'environ 3 mm, à la mandoline ou au couteau. Ne rince pas les rondelles et ne les mets pas dans l'eau : leur amidon va lier le gratin.",
+   "t": "قطّع البطاطس شرائح دائرية رقيقة ومنتظمة، بسمك 3 مم تقريبًا، بالماندولين أو بالسكين. لا تشطف الشرائح ولا تضعها في الماء: فنشاها هو الذي سيربط الغراتان."
+  },
+  "steps.2.tip": {
+   "fr": "Avec une mandoline, fais très attention à tes doigts (Meilleur du Chef, legratindauphinois.fr).",
+   "t": "عند استعمال الماندولين، انتبه جيدًا لأصابعك (Meilleur du Chef، legratindauphinois.fr)."
+  },
+  "steps.3.title": {
+   "fr": "Prépare le plat",
+   "t": "جهّز طبق الفرن"
+  },
+  "steps.3.text": {
+   "fr": "Coupe {{ail-plat:full}} en deux. Frotte bien le fond et les bords du plat avec l'ail. Beurre ensuite généreusement le plat avec une partie du beurre ({{beurre}} en tout).",
+   "t": "اقطع {{ail-plat:full}} إلى نصفين. افرك قاع الطبق وجوانبه جيدًا بالثوم. ثم ادهن الطبق بسخاء بجزء من الزبدة ({{beurre}} في المجموع)."
+  },
+  "steps.3.tip": {
+   "fr": "L'ail passe avant le beurre ; un beurre bien mou s'étale plus facilement (École de cuisine Alain Ducasse).",
+   "t": "يأتي الثوم قبل الزبدة؛ والزبدة الطرية جدًا أسهل في الدهن (École de cuisine Alain Ducasse)."
+  },
+  "steps.4.title": {
+   "fr": "Fais bouillir le lait",
+   "t": "اغلِ الحليب"
+  },
+  "steps.4.text": {
+   "fr": "Pèle et hache {{ail:full}}. Mets l'ail haché dans une casserole avec {{lait:full}}, du {{sel}}, du {{poivre}} et un peu de {{muscade}} râpée. Porte à ébullition, puis éteins le feu.",
+   "t": "قشّر {{ail:full}} ثم افرم الثوم. ضع الثوم المفروم في قدر مع {{lait:full}}، و{{sel}} و{{poivre}} وقليل من {{muscade}} المبشورة. سخّنه حتى الغليان، ثم أطفئ النار."
+  },
+  "steps.5.title": {
+   "fr": "Monte les couches",
+   "t": "رتّب الطبقات"
+  },
+  "steps.5.text": {
+   "fr": "Range une couche régulière de rondelles dans le plat. Sale, poivre, ajoute un peu de muscade et quelques cuillerées de crème. Recommence jusqu'à la fin des pommes de terre, avec {{creme:full}} en tout.",
+   "t": "رتّب طبقة منتظمة من الشرائح في الطبق. أضف الملح والفلفل الأسود وقليلًا من جوزة الطيب وبضع ملاعق من القشدة. كرّر ذلك حتى تنتهي البطاطس، مستعملًا {{creme}} من القشدة في المجموع."
+  },
+  "steps.6.title": {
+   "fr": "Verse le lait chaud",
+   "t": "صبّ الحليب الساخن"
+  },
+  "steps.6.text": {
+   "fr": "Verse le lait chaud, avec l'ail, jusqu'à couvrir à peine les pommes de terre : les dernières rondelles doivent rester un peu visibles. S'il reste du lait, garde-le.",
+   "t": "صبّ الحليب الساخن مع الثوم حتى يكاد يغطي البطاطس: يجب أن تبقى الشرائح الأخيرة في الأعلى ظاهرة قليلًا. إذا بقي شيء من الحليب، فاحتفظ به."
+  },
+  "steps.7.title": {
+   "fr": "Ajoute le beurre",
+   "t": "أضف الزبدة"
+  },
+  "steps.7.text": {
+   "fr": "Répartis le reste du beurre en petits morceaux sur le dessus.",
+   "t": "وزّع باقي الزبدة قطعًا صغيرة على السطح."
+  },
+  "steps.8.title": {
+   "fr": "Enfourne pour 1 h 30",
+   "t": "أدخله الفرن لمدة ساعة و30 دقيقة"
+  },
+  "steps.8.text": {
+   "fr": "Enfourne pour 1 h 30. Le gratin doit cuire doucement. Regarde le dessus de temps en temps : il doit dorer sans brûler.",
+   "t": "أدخل الطبق إلى الفرن لمدة ساعة و30 دقيقة. يجب أن يُطهى الغراتان على مهل. راقب السطح من حين لآخر: يجب أن يتحمّر دون أن يحترق."
+  },
+  "steps.8.tip": {
+   "fr": "Si les pommes de terre ont bu tout le liquide avant d'être cuites, ajoute un peu du lait gardé (Lyon Capitale).",
+   "t": "إذا امتصّت البطاطس كل السائل قبل أن تنضج، فأضف قليلًا من الحليب الذي احتفظت به (Lyon Capitale)."
+  },
+  "steps.8.timer.label": {
+   "fr": "Gratin au four",
+   "t": "الغراتان في الفرن"
+  },
+  "steps.8.timer.done": {
+   "fr": "Plante un couteau au centre : il doit s'enfoncer sans effort.",
+   "t": "اغرز سكينًا في الوسط: يجب أن يدخل دون جهد."
+  },
+  "steps.9.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "تحقّق من النضج"
+  },
+  "steps.9.text": {
+   "fr": "Plante la pointe d'un couteau au centre : elle doit s'enfoncer très facilement. Le dessus doit être doré. Sinon, prolonge la cuisson, jusqu'à 2 heures en tout.",
+   "t": "اغرز رأس سكين في الوسط: يجب أن يدخل بسهولة كبيرة. ويجب أن يكون السطح ذهبيًا. وإلا، فأطِل مدة الطهي، حتى ساعتين في المجموع."
+  },
+  "steps.10.title": {
+   "fr": "Sers dans le plat",
+   "t": "قدّمه في طبقه"
+  },
+  "steps.10.text": {
+   "fr": "Laisse reposer quelques minutes, puis sers chaud, dans le plat de cuisson.",
+   "t": "اتركه يرتاح بضع دقائق، ثم قدّمه ساخنًا في طبق الطهي."
+  },
+  "steps.10.tip": {
+   "fr": "Restes : au réfrigérateur dans les 2 heures, à manger sous 2 jours, froids ou réchauffés une seule fois jusqu'à être fumants au centre (FSA, Anses).",
+   "t": "البقايا: في الثلاجة خلال ساعتين، وتؤكل خلال يومين، باردة أو مسخّنة مرة واحدة فقط حتى يتصاعد البخار من وسطها (FSA، Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Ne rince jamais les rondelles et ne les laisse pas tremper : leur amidon lie le lait et la crème, et le gratin se tient.",
+   "t": "لا تشطف الشرائح أبدًا ولا تتركها منقوعة: فنشاها يربط الحليب والقشدة، فيتماسك الغراتان."
+  },
+  "secrets.0.source": {
+   "fr": "legratindauphinois.fr ; Chef Simon ; Jow ; Meilleur du Chef ; Wikipédia (Jean-François Piège : rondelles « non lavées, non essuyées »)",
+   "t": "legratindauphinois.fr؛ Chef Simon؛ Jow؛ Meilleur du Chef؛ Wikipédia (Jean-François Piège: شرائح «غير مغسولة وغير مجفّفة»)"
+  },
+  "secrets.1.text": {
+   "fr": "Des rondelles fines, toutes de la même épaisseur, environ 3 mm. Trop fines, elles tournent en purée ; trop épaisses, elles manquent de cuisson.",
+   "t": "شرائح رقيقة، كلها بالسمك نفسه، نحو 3 مم. إذا كانت رقيقة جدًا، تتحوّل إلى بطاطس مهروسة؛ وإذا كانت سميكة جدًا، لا تنضج كفاية."
+  },
+  "secrets.1.source": {
+   "fr": "Jow ; Alain Ducasse (3 mm) ; Wikipédia (3 mm) ; Lyon Capitale (« d'égale épaisseur »)",
+   "t": "Jow؛ Alain Ducasse (3 مم)؛ Wikipédia (3 مم)؛ Lyon Capitale («بسمك متساوٍ»)"
+  },
+  "secrets.2.text": {
+   "fr": "Frotte le plat avec l'ail avant de le beurrer.",
+   "t": "افرك الطبق بالثوم قبل دهنه بالزبدة."
+  },
+  "secrets.2.source": {
+   "fr": "École de cuisine Alain Ducasse (« l'ail doit passer avant le beurre ») ; Escoffier ; Lyon Capitale ; Alpes Isère",
+   "t": "École de cuisine Alain Ducasse («يجب أن يأتي الثوم قبل الزبدة»)؛ Escoffier؛ Lyon Capitale؛ Alpes Isère"
+  },
+  "secrets.3.text": {
+   "fr": "Sale et poivre chaque couche, pas seulement le dessus.",
+   "t": "أضف الملح والفلفل الأسود إلى كل طبقة، لا إلى السطح وحده."
+  },
+  "secrets.3.source": {
+   "fr": "Lyon Capitale ; Alpes Isère ; Académie du Goût ; legratindauphinois.fr",
+   "t": "Lyon Capitale؛ Alpes Isère؛ Académie du Goût؛ legratindauphinois.fr"
+  },
+  "secrets.4.text": {
+   "fr": "Le liquide doit juste couvrir les pommes de terre : les dernières rondelles restent légèrement visibles.",
+   "t": "يجب أن يغطي السائل البطاطس بالكاد: تبقى الشرائح الأخيرة ظاهرة قليلًا."
+  },
+  "secrets.4.source": {
+   "fr": "Lyon Capitale ; legratindauphinois.fr (« jusqu'à couvrir à peine »)",
+   "t": "Lyon Capitale؛ legratindauphinois.fr («حتى يكاد يغطيها»)"
+  },
+  "secrets.5.text": {
+   "fr": "Lait entier et crème entière : c'est le mélange de la plupart des recettes d'aujourd'hui. À l'origine, on le faisait avec du lait entier de la ferme.",
+   "t": "حليب كامل الدسم وقشدة كاملة الدسم: هذا هو مزيج معظم وصفات اليوم. وفي الأصل، كان يُحضَّر بحليب مزرعة كامل الدسم."
+  },
+  "secrets.5.source": {
+   "fr": "Lyon Capitale ; legratindauphinois.fr ; Meilleur du Chef ; Alpes Isère ; Wikipédia (d'après Catherine Roig)",
+   "t": "Lyon Capitale؛ legratindauphinois.fr؛ Meilleur du Chef؛ Alpes Isère؛ Wikipédia (نقلًا عن Catherine Roig)"
+  },
+  "secrets.6.text": {
+   "fr": "La cuisson lente fait tout : four doux, et de la patience.",
+   "t": "الطهي البطيء هو كل شيء: فرن هادئ، وصبر."
+  },
+  "secrets.6.source": {
+   "fr": "Alpes Isère (« une cuisson très lente ») ; legratindauphinois.fr (« Le gratin dauphinois cuit lentement ») ; Hélène Darroze (160 °C, au moins 1 h 30)",
+   "t": "Alpes Isère («طهي بطيء جدًا»)؛ legratindauphinois.fr («يُطهى غراتان الدوفينوا ببطء»)؛ Hélène Darroze (160 درجة مئوية، ساعة و30 دقيقة على الأقل)"
+  },
+  "secrets.7.text": {
+   "fr": "Un four trop chaud brûle le dessus avant que les pommes de terre du haut soient cuites.",
+   "t": "الفرن الساخن جدًا يحرق السطح قبل أن تنضج البطاطس العلوية."
+  },
+  "secrets.7.source": {
+   "fr": "Lyon Capitale ; legratindauphinois.fr (surveiller le dessus)",
+   "t": "Lyon Capitale؛ legratindauphinois.fr (مراقبة السطح)"
+  },
+  "secrets.8.text": {
+   "fr": "Si les pommes de terre ont bu tout le liquide trop tôt, rajoute un peu de lait.",
+   "t": "إذا امتصّت البطاطس كل السائل مبكرًا جدًا، فأضف قليلًا من الحليب."
+  },
+  "secrets.8.source": {
+   "fr": "Lyon Capitale",
+   "t": "Lyon Capitale"
+  },
+  "secrets.9.text": {
+   "fr": "Pas besoin de fromage pour gratiner : c'est la crème qui dore en surface.",
+   "t": "لا حاجة إلى الجبن لتحمير الوجه: فالقشدة هي التي تتحمّر على السطح."
+  },
+  "secrets.9.source": {
+   "fr": "Chef Simon (« un glaçage de surface ») ; Jow ; Lyon Capitale",
+   "t": "Chef Simon («طبقة لامعة على السطح»)؛ Jow؛ Lyon Capitale"
+  },
+  "secrets.10.text": {
+   "fr": "Choisis une pomme de terre à chair ferme ou fondante, qui absorbe le lait et la crème sans se défaire.",
+   "t": "اختر بطاطس ذات لبّ متماسك أو ليّن، تمتص الحليب والقشدة دون أن تتفتت."
+  },
+  "secrets.10.source": {
+   "fr": "Meilleur du Chef ; Chef Simon (Amandine, Charlotte, Belle de Fontenay, Roseval…) ; Jow (Monalisa, Charlotte, Amandine) ; Académie du Goût (Charlotte, Roseval) ; Hélène Darroze (Mona Lisa, Spunta, Agatha)",
+   "t": "Meilleur du Chef؛ Chef Simon (Amandine، Charlotte، Belle de Fontenay، Roseval…)؛ Jow (Monalisa، Charlotte، Amandine)؛ Académie du Goût (Charlotte، Roseval)؛ Hélène Darroze (Mona Lisa، Spunta، Agatha)"
+  },
+  "secrets.11.text": {
+   "fr": "Fait la veille et réchauffé, il se coupe mieux et il est encore meilleur.",
+   "t": "إذا حُضّر في اليوم السابق ثم سُخّن، يُقطَّع بسهولة أكبر ويصبح ألذّ."
+  },
+  "secrets.11.source": {
+   "fr": "Meilleur du Chef ; Wikilivres ; Jow (« tout aussi bon réchauffé le lendemain »)",
+   "t": "Meilleur du Chef؛ Wikilivres؛ Jow («لذيذ بالقدر نفسه بعد تسخينه في اليوم التالي»)"
+  },
+  "secrets.12.text": {
+   "fr": "Un plat en terre garde la chaleur : le gratin reste chaud longtemps.",
+   "t": "الطبق الفخاري يحفظ الحرارة: يبقى الغراتان ساخنًا مدة طويلة."
+  },
+  "secrets.12.source": {
+   "fr": "Wikipédia ; Lyon Capitale et Escoffier (plat en terre)",
+   "t": "Wikipédia؛ Lyon Capitale و Escoffier (طبق فخاري)"
+  },
+  "mistakes.0": {
+   "fr": "Rincer les rondelles ou les faire tremper : l'amidon part et le gratin ne se tient plus (legratindauphinois.fr, Jow, Meilleur du Chef).",
+   "t": "شطف الشرائح أو نقعها: يذهب النشا فلا يتماسك الغراتان (legratindauphinois.fr، Jow، Meilleur du Chef)."
+  },
+  "mistakes.1": {
+   "fr": "Couper des rondelles d'épaisseurs différentes : certaines restent fermes, d'autres tournent en purée (Lyon Capitale, Jow).",
+   "t": "تقطيع شرائح مختلفة السمك: يبقى بعضها صلبًا، ويتحوّل بعضها إلى بطاطس مهروسة (Lyon Capitale، Jow)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre le four trop chaud : le dessus brûle et les pommes de terre du haut ne cuisent pas (Lyon Capitale).",
+   "t": "تشغيل الفرن على حرارة عالية جدًا: يحترق السطح ولا تنضج البطاطس العلوية (Lyon Capitale)."
+  },
+  "mistakes.3": {
+   "fr": "Ajouter du fromage ou des œufs et l'appeler gratin dauphinois : avec du fromage, c'est un autre gratin (Wikipédia, Wikilivres, Lyon Capitale).",
+   "t": "إضافة الجبن أو البيض وتسميته غراتان الدوفينوا: مع الجبن، يصبح غراتانًا آخر (Wikipédia، Wikilivres، Lyon Capitale)."
+  },
+  "mistakes.4": {
+   "fr": "Se couper avec la mandoline (Meilleur du Chef, legratindauphinois.fr).",
+   "t": "التعرّض لجرح بالماندولين (Meilleur du Chef، legratindauphinois.fr)."
+  },
+  "mistakes.5": {
+   "fr": "Utiliser des pommes de terre vertes, germées, abîmées ou amères (BfR, ACIA).",
+   "t": "استعمال بطاطس خضراء أو مُنبِتة أو تالفة أو مُرّة (BfR، ACIA)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser le gratin plus de 2 heures à température ambiante (Anses, FSA).",
+   "t": "ترك الغراتان أكثر من ساعتين في حرارة الغرفة (Anses، FSA)."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce que ce soit fumant (FSA).",
+   "t": "تسخين البقايا عدة مرات: مرة واحدة فقط، حتى يتصاعد منها البخار (FSA)."
+  },
+  "variants.0": {
+   "fr": "La version d'Escoffier (1903) : 1 œuf battu, 3/4 de litre de lait bouilli et 125 g de gruyère râpé par kilo de pommes de terre, avec du gruyère sur le dessus et 40 à 45 minutes de four (Escoffier) ; selon Lyon Capitale, Paul Bocuse reprend ces ingrédients et Joël Robuchon met du gruyère sans œufs. Prends un fromage à coagulant microbien, sans présure animale, si tu veux être strict.",
+   "t": "نسخة Escoffier (1903): بيضة واحدة مخفوقة، و3/4 لتر من الحليب المغلي و125 غ من جبن الغرويير المبشور لكل كيلوغرام من البطاطس، مع الغرويير على السطح و40 إلى 45 دقيقة في الفرن (Escoffier)؛ وحسب Lyon Capitale، يعتمد Paul Bocuse هذه المكونات نفسها، ويضع Joël Robuchon الغرويير دون بيض. اختر جبنًا مصنوعًا بمخثّر ميكروبي، دون منفحة حيوانية، إن أردت الاحتياط."
+  },
+  "variants.1": {
+   "fr": "À la crème seule, sans lait : c'est « le vrai » gratin selon le Larousse gastronomique (cité par Lyon Capitale), et la façon de l'Oustau de Baumanière (Wikipédia).",
+   "t": "بالقشدة وحدها، دون حليب: إنه الغراتان «الحقيقي» حسب Larousse gastronomique (نقلًا عن Lyon Capitale)، وهي طريقة Oustau de Baumanière (Wikipédia)."
+  },
+  "variants.2": {
+   "fr": "Avec une précuisson dans le lait : Alain Ducasse (40 minutes au frémissement avec thym et laurier, puis 20 minutes à 220 °C), Chef Simon (30 minutes en cocotte, puis 30 minutes à 190 °C et 15 minutes sous le gril avec la crème), Meilleur du Chef (8 minutes, puis 15 à 20 minutes à 180 °C), Anne-Sophie Pic selon une reproduction de sa recette (15 à 20 minutes, puis environ 25 minutes à 180 °C).",
+   "t": "مع طهي مسبق في الحليب: Alain Ducasse (40 دقيقة على غليان خفيف مع الزعتر وورق الغار، ثم 20 دقيقة على 220 درجة مئوية)، Chef Simon (30 دقيقة في القدر، ثم 30 دقيقة على 190 درجة مئوية و15 دقيقة تحت شواية الفرن مع القشدة)، Meilleur du Chef (8 دقائق، ثم 15 إلى 20 دقيقة على 180 درجة مئوية)، Anne-Sophie Pic حسب نسخة منقولة من وصفتها (15 إلى 20 دقيقة، ثم نحو 25 دقيقة على 180 درجة مئوية)."
+  },
+  "variants.3": {
+   "fr": "À la façon d'Hélène Darroze : thym frais et piment d'Espelette, crème crue et lait entier, 160 °C pendant au moins 1 h 30 (Académie du Goût). La crème crue est un produit au lait cru : l'Anses le déconseille fortement aux jeunes enfants, aux femmes enceintes et aux personnes immunodéprimées.",
+   "t": "على طريقة Hélène Darroze: زعتر طازج وفلفل Espelette الحار، وقشدة نيئة وحليب كامل الدسم، على 160 درجة مئوية لمدة ساعة و30 دقيقة على الأقل (Académie du Goût). القشدة النيئة منتَج من الحليب غير المبستر: تنصح Anses بشدة بعدم تقديمه للأطفال الصغار والنساء الحوامل والأشخاص ضعيفي المناعة."
+  },
+  "variants.4": {
+   "fr": "Avec de fines lamelles de céleri-rave entre les couches de pommes de terre (Wikilivres).",
+   "t": "مع شرائح رقيقة من الكرفس اللفتي بين طبقات البطاطس (Wikilivres)."
+  },
+  "variants.5": {
+   "fr": "Cuisson très douce, à 120 °C, très longue, jusqu'à cuisson complète (Wikilivres).",
+   "t": "طهي هادئ جدًا، على 120 درجة مئوية، ولمدة طويلة جدًا، حتى ينضج تمامًا (Wikilivres)."
+  },
+  "variants.6": {
+   "fr": "Avec un peu de chapelure (École de cuisine Alain Ducasse, liste des ingrédients).",
+   "t": "مع قليل من فتات الخبز (École de cuisine Alain Ducasse، قائمة المكونات)."
+  },
+  "variants.7": {
+   "fr": "En petites cocottes individuelles (Chef Simon).",
+   "t": "في أوانٍ فردية صغيرة للفرن (Chef Simon)."
+  },
+  "variants.8": {
+   "fr": "Pommes de terre à la savoyarde : comme le gratin dauphinois, mais avec du consommé à la place du lait (Escoffier) ; prends un bouillon certifié halal.",
+   "t": "البطاطس على طريقة سافوا: مثل غراتان الدوفينوا، لكن بالمرق الصافي (الكونسومي) بدل الحليب (Escoffier)؛ اختر مرقًا بشهادة حلال."
+  }
+ }
+}

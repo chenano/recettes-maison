@@ -1,0 +1,109 @@
+{
+ "slug": "shawarma-poulet",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "The Mediterranean Dish (Suzy Karadsheh, qui a grandi à Port-Saïd, en Égypte), « Chicken Shawarma », 16 octobre 2017",
+   "url": "https://www.themediterraneandish.com/chicken-shawarma-recipe/",
+   "ce_qu_elle_confirme": "Hauts de cuisse désossés, coupés en fines lamelles ; marinade avec oignon émincé, jus de citron et huile, au réfrigérateur 3 heures ou une nuit ; four à 425 °F (220 °C), en une seule couche, environ 30 minutes ; passage bref sous le gril à la fin, en surveillant. Version « méditerranéenne » servie avec une sauce au tahini ou un tzatziki, et non avec la toum : utilisée seulement pour la technique. robots.txt : aucun blocage."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "sources[12].name",
+   "actuel": "Santé Canada, « Températures de cuisson sécuritaires » (page anglaise « Safe cooking temperatures », publiée le 4 juin 2024)",
+   "propose": "Santé Canada, « Températures de cuisson sécuritaires », publiée le 4 juin 2024",
+   "pourquoi": "Les pages de Santé Canada se lisent normalement : curl (agent par défaut, sans contournement) a reçu le code 200 le 8 novembre 2026, en anglais comme en français, et le contenu confirme ce que la recette leur attribue. Pas besoin de les remplacer ; la version française, identique, convient mieux à l'appli (titre et date exacts de la page).",
+   "gravite": "mineure",
+   "sources": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html"
+  },
+  {
+   "champ": "sources[12].url",
+   "actuel": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html",
+   "propose": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html",
+   "pourquoi": "Même page, version française (lien hreflang=fr de la page anglaise), code 200 le 8 novembre 2026.",
+   "gravite": "mineure",
+   "sources": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/temperatures-securitaires-cuisson-interne.html"
+  },
+  {
+   "champ": "sources[13].name",
+   "actuel": "Santé Canada, « Food safety tips for barbecuing » (2019)",
+   "propose": "Santé Canada, « Conseils sur la salubrité des aliments cuits au barbecue », 15 août 2019",
+   "pourquoi": "Les pages de Santé Canada se lisent normalement : curl (agent par défaut, sans contournement) a reçu le code 200 le 8 novembre 2026, en anglais comme en français, et le contenu confirme ce que la recette leur attribue. Pas besoin de les remplacer ; la version française, identique, convient mieux à l'appli (titre et date exacts de la page).",
+   "gravite": "mineure",
+   "sources": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/conseils-salubrite-aliments-cuits-barbecue.html"
+  },
+  {
+   "champ": "sources[13].url",
+   "actuel": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/food-safety-tips-barbecuing.html",
+   "propose": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/conseils-salubrite-aliments-cuits-barbecue.html",
+   "pourquoi": "Même page, version française (lien hreflang=fr de la page anglaise), code 200 le 8 novembre 2026.",
+   "gravite": "mineure",
+   "sources": "https://www.canada.ca/fr/sante-canada/services/conseils-generaux-salubrite/conseils-salubrite-aliments-cuits-barbecue.html"
+  },
+  {
+   "champ": "sources[14].name",
+   "actuel": "Santé Canada, « Food safety tips for vegetables and herbs preserved in oil » (2013)",
+   "propose": "Santé Canada, « Conseils sur la salubrité des légumes et des fines herbes conservés dans l'huile », 8 février 2013",
+   "pourquoi": "Les pages de Santé Canada se lisent normalement : curl (agent par défaut, sans contournement) a reçu le code 200 le 8 novembre 2026, en anglais comme en français, et le contenu confirme ce que la recette leur attribue. Pas besoin de les remplacer ; la version française, identique, convient mieux à l'appli (titre et date exacts de la page).",
+   "gravite": "mineure",
+   "sources": "https://www.canada.ca/fr/sante-canada/services/salubrite-legumes-et-fruits/conseils-salubrite-legumes-et-fines-herbes-conserves-huile.html"
+  },
+  {
+   "champ": "sources[14].url",
+   "actuel": "https://www.canada.ca/en/health-canada/services/food-safety-fruits-vegetables/food-safety-tips-vegetables-herbs-oil.html",
+   "propose": "https://www.canada.ca/fr/sante-canada/services/salubrite-legumes-et-fruits/conseils-salubrite-legumes-et-fines-herbes-conserves-huile.html",
+   "pourquoi": "Même page, version française (lien hreflang=fr de la page anglaise), code 200 le 8 novembre 2026.",
+   "gravite": "mineure",
+   "sources": "https://www.canada.ca/fr/sante-canada/services/salubrite-legumes-et-fruits/conseils-salubrite-legumes-et-fines-herbes-conserves-huile.html"
+  },
+  {
+   "champ": "steps[12].tip",
+   "actuel": "ils cachent le goût des autres ingrédients.",
+   "propose": "ils peuvent atténuer le goût des autres ingrédients.",
+   "pourquoi": "Hadia écrit « please skip any other sauces, as they can dull the flavors of the other ingredients » : « peuvent atténuer », pas « cachent ».",
+   "gravite": "mineure",
+   "sources": "https://hadiaslebanesecuisine.com/blog/smoky-chicken-shawarma/"
+  },
+  {
+   "champ": "steps[4].text",
+   "actuel": "Sépare et épluche les gousses : {{ail-toum:full}}.",
+   "propose": "Sépare et épluche les gousses de {{ail-toum:full}}.",
+   "pourquoi": "Phrase plus claire et plus facile à traduire ; rendu : « les gousses de 1 tête d'ail » (pour 4) ou « de 2 têtes d'ail » (pour 8).",
+   "gravite": "mineure",
+   "sources": "app.html (fill, fmtQ)"
+  },
+  {
+   "champ": "steps[4].tip",
+   "actuel": "Pour une petite quantité, un mini-hachoir marche mieux : dans un grand robot, Mama's Lebanese Kitchen conseille au moins 3 têtes d'ail pour que les lames l'attrapent.",
+   "propose": "Attention : dans un grand robot, Mama's Lebanese Kitchen conseille au moins 3 têtes d'ail, car les grandes lames attrapent mal une petite quantité.",
+   "pourquoi": "Mama's dit seulement « if you are using a large food processor make sure you use at least 3 heads of garlic otherwise smaller quantities of garlic won't be easily reached by large blades » ; « un mini-hachoir marche mieux » n'est écrit dans aucune source lue.",
+   "gravite": "mineure",
+   "sources": "https://mamaslebanesekitchen.com/dips/lebanese-garlic-dip/"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Santé Canada : les trois pages répondent normalement à curl (code 200, agent par défaut, aucun contournement) le 8 novembre 2026, en anglais et en français ; rien n'est à retirer. Contenu conforme : morceaux de volaille 74 °C, restes réchauffés à 74 °C, thermomètre dans la partie la plus épaisse et chaque morceau vérifié (4 juin 2024) ; mariner au réfrigérateur, jamais sur le comptoir, ne pas remettre sur la viande cuite une marinade crue, la couleur n'est pas un indicateur fiable (15 août 2019) ; légumes et herbes dans l'huile (dont l'ail) toujours au réfrigérateur à 4 °C ou moins, jamais à température ambiante, à utiliser dans la semaine (8 février 2013)",
+  "NCHFP : ail dans l'huile à température ambiante = risque de botulisme ; à préparer frais, réfrigérateur à 40 °F ou moins, 4 jours au plus",
+  "FSA : ne jamais laver le poulet cru (éclaboussures sur mains, surfaces, ustensiles) ; viande crue en boîte fermée en bas du réfrigérateur ; réfrigérateur entre 0 et 5 °C ; volaille cuite à cœur (chair fumante, sans rose, jus clair ; 70 °C 2 min ou 75 °C 30 s) ; restes au froid dans les 2 h, mangés dans les 48 h, réchauffés une seule fois jusqu'à être fumants",
+  "Ratios recalculés (python3 -I, pour 700 g) : citron médiane 73 ml, vinaigre 34 ml, yaourt 55 ml, huile 48 ml, ail 3,5 gousses, sel 0,74 c. à c., paprika 1,54, cardamome 0,35, muscade 0,17 ; 175 g par sandwich (sources : 113 à 250 g) ; toum pour 160 ml d'huile : 0,5 à 1,35 tête d'ail, 20 à 27 ml de citron, rendement d'environ 240 ml : tous identiques aux chiffres de l'auteur",
+  "Hadia (chawarma, 28 septembre 2022) : 1 kg pour 4, lanières de 3 cm, 6 à 24 h au froid, four 220 °C, environ 50 min avec toute la marinade, 2 à 3 min sous le gril ; marinade = acide + huile + épices ; citron, orange, vinaigre et yaourt attendrissent ; toum = sauce du chawarma de poulet, taratour pour la viande et les falafels ; pain arabe ou saj, toum, poulet, pickles en fines tranches, frites, romaine, roulé serré, presse ou four ; nom venu du turc « çevirme »",
+  "Hadia (toum, 2 avril 2022) : toum classique = ail, citron, sel, huile ; version à la fécule (12 gousses, 150 ml, 3 c. à s.) ; ail ferme sans germe vert (amer) ; pas d'huile d'olive (goût fort, couleur moins blanche) ; huile en filet, robot en marche ; meilleure après quelques heures ou le lendemain ; une semaine au réfrigérateur",
+  "Mama's (chawarma, 27 février 2011) : 2,5 lb pour 6, tranches d'½ pouce, une nuit au froid, grill à panini 13 à 15 min, ne pas trop cuire, four à éviter (« will rid the chicken of its juice »), 75 % blanc et 25 % cuisse, effiloché, 1 c. à c. de toum par pain, cornichons salés, frites, tomates grillées, salade de chou à la mayonnaise dans certains restaurants",
+  "Mama's (toum, 29 janvier 2011) : 3 têtes d'ail, 4 tasses d'huile, ½ tasse de citron, 20 portions ; au moins 3 têtes dans un grand robot ; 10 à 20 s, racler, 3 ou 4 fois ; filet très fin, robot en marche, alterné avec le citron ; 8 à 10 min ; mortier 30 à 40 min ; huiles neutres moins fortes et plus blanches ; blanc d'œuf cru évité ; sauce ratée gardée comme marinade",
+  "Alphafoodie (chawarma, 4 mars 2026) : cuisses plus juteuses, blanc qui sèche ; yaourt attendrissant ; 425 °F, une couche, 25 à 30 min en remuant, 2 à 3 min sous le gril ; 165 °F (74 °C) ; repos de quelques minutes ; ne pas serrer (rôtir au lieu de cuire à la vapeur) ; thermomètre « the only way » ; poêle 12 à 15 min ; friteuse à air 400 °F 10 à 14 min ; wrap croustillant ; assiette avec riz, salades et houmous. Toum (15 novembre 2024) : « not olive oil », sans germe, environ 10 min, 5 à 7 jours, sauce ratée reprise",
+  "The Matbakh (14 mai 2026) : 3 lb pour 8, 220 °C, plat de 9 x 13 pouces, 40 à 45 min en remuant, citron à la place du vinaigre, toum indispensable, riz aux vermicelles, chawarma de bœuf avec tahini. Gulf News (27 janvier 2022) : Zahrat Lebnan (1983), cuisse plus grasse, boucher, 6 à 8 wraps, 4 à 6 h, 130 à 150 °C 2 h à couvert, 100 g par pain, tahini, tomates grillées, frites",
+  "Taste of Beirut (2009 et 2015, copies Wayback ; site fermé : 404) : chawarma de viande avec tarator, tomates, persil, pickles de concombre et de navet, oignon au sumac ; « shawee », griller ; Joumana Accad née et élevée à Beyrouth (page About, archive 2018). Wikipédia : né au Levant sous les Ottomans, « çevirme », poulet avec sauce à l'ail, frites et pickles ; toum avec le poulet, tarator avec le bœuf ; Syrie : sauce à l'ail ; Palestine : sumac, oignons, tahini ; « chawarma » en français",
+  "Rendu (fmtQ) pour 1, 4 et 8 : 175 g / 700 g / 1,4 kg de poulet ; ¼ / 1 / 2 oignons ; 1 / 4 / 8 gousses ; 1¼ / 5 / 10 c. à s. de citron ; muscade ⅛ (arrondi minimal) / ⅛ / ¼ ; toum 40 / 160 / 320 ml ; minuteurs 40 et 2 min conformes au texte ; time.cook 45 = 40 + 2 + contrôle ; time.rest 720 = une nuit ; tous les ingrédients repris dans les étapes ; renvoi « frites » vers une recette existante",
+  "Halal : poulet halal ; pas d'alcool ; vinaigre blanc avec le jus de citron en option (The Matbakh)"
+ ],
+ "non_verifiable": [
+  "Quota de recherche web épuisé : pas de recherche par moteur. Aucune source libanaise, syrienne ou palestinienne de langue arabe n'a pu être trouvée sans moteur ; seule The Mediterranean Dish (autrice égyptienne, version non libanaise) a été ajoutée, pour la technique.",
+  "Toum : la règle des 4 jours (NCHFP) vise l'ail dans l'huile ; aucune source officielle ne traite de la toum elle-même (émulsion avec du jus de citron). Garder la règle la plus prudente est cohérent, mais pas confirmé pour ce produit précis.",
+  "Toum pour 1 personne : l'appli affiche ¼ de tête d'ail et 40 ml d'huile ; une si petite quantité risque de ne pas prendre dans un robot (Mama's parle d'au moins 3 têtes dans un grand robot) : non testé.",
+  "Temps de cuisson pour 700 g dans un plat (40 min) : estimation entre les sources (25 à 50 min) ; le contrôle à 74 °C reste la référence.",
+  "Halal : présence éventuelle de gélatine ou d'autres additifs dans le yaourt du commerce, et statut des vinaigres : non vérifiés auprès d'une source religieuse ; cela dépend du produit.",
+  "Chef in Disguise (403) et la page Williams-Sonoma de Yumna Jawad : non ouvertes, comme l'auteur l'a noté. Anissa Helou, « Lebanon » (2026) : non consulté.",
+  "Cornichons au sel et pains libanais vendus au Maroc : non vérifié."
+ ]
+}

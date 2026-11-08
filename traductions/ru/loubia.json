@@ -1,0 +1,514 @@
+{
+ "_slug": "loubia",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Loubia, haricots blancs à la marocaine",
+   "t": "Лубия, белая фасоль по-мароккански"
+  },
+  "darija": {
+   "fr": "Loubia",
+   "t": "Лубия"
+  },
+  "tagline": {
+   "fr": "Des haricots blancs fondants, mijotés dans une sauce tomate généreuse à l'ail, au cumin et au paprika : le plat réconfortant de tous les jours, à saucer avec du pain.",
+   "t": "Нежная белая фасоль, тушённая в обильном томатном соусе с чесноком, кумином (зирой) и паприкой: уютное блюдо на каждый день, соус которого собирают хлебом."
+  },
+  "region": {
+   "fr": "Tout le Maroc (plat très courant selon Taste of Maroc et MarocMama)",
+   "t": "По всему Марокко (очень распространённое блюдо, по словам Taste of Maroc и MarocMama)"
+  },
+  "occasion": {
+   "fr": "Plat du quotidien, en plat principal ou en accompagnement (Taste of Maroc ; Morocco World News 2023) ; on le mange aussi au petit-déjeuner ou au déjeuner, dans les petites gargotes (MarocMama)",
+   "t": "Повседневное блюдо — как основное или как гарнир (Taste of Maroc; Morocco World News 2023); его едят и на завтрак или обед в маленьких забегаловках (MarocMama)"
+  },
+  "img_alt": {
+   "fr": "Haricots blancs en sauce tomate avec du persil, ici avec des morceaux de viande (photo prise en Tunisie)",
+   "t": "Белая фасоль в томатном соусе с петрушкой, здесь с кусочками мяса (снято в Тунисе)"
+  },
+  "serving": {
+   "fr": "Chaude, en plat principal ou en accompagnement (Taste of Maroc ; Morocco World News 2023), avec du khobz pour saucer, à la main ou à la cuillère (Taste of Maroc ; MarocMama). Au Maroc, on la mange aussi au petit-déjeuner ou au déjeuner, souvent dans de petites gargotes (MarocMama). En accompagnement, elle va avec du poulet ou du bœuf grillés (MarocMama), du poisson comme la sardine, ou de la viande (Morocco World News 2023).",
+   "t": "Горячей, как основное блюдо или гарнир (Taste of Maroc; Morocco World News 2023), с хобзом (марокканским хлебом), чтобы собирать соус, руками или ложкой (Taste of Maroc; MarocMama). В Марокко её едят и на завтрак или обед, часто в маленьких забегаловках (MarocMama). Как гарнир она хорошо идёт к курице или говядине на гриле (MarocMama), к рыбе, например сардинам, или к мясу (Morocco World News 2023)."
+  },
+  "ing.0.group": {
+   "fr": "Haricots",
+   "t": "Фасоль"
+  },
+  "ing.haricots.name": {
+   "fr": "de haricots blancs secs",
+   "t": "сухой белой фасоли"
+  },
+  "ing.haricots.note": {
+   "fr": "petits haricots blancs ou cannellini",
+   "t": "мелкая белая фасоль или каннеллини"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "Соус"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate bien mûre",
+   "t": "помидор"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates bien mûres",
+   "t": "помидора"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate bien mûre / tomates bien mûres",
+   "t": "помидоров"
+  },
+  "ing.tomates.note": {
+   "fr": "chair râpée, sans la peau",
+   "t": "очень спелые; натереть мякоть, без кожицы"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "луковица среднего размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "луковицы среднего размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "oignon moyen / oignons moyens",
+   "t": "луковиц среднего размера"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "натереть на тёрке"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "зубчик чеснока"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "зубчика чеснока"
+  },
+  "ing.ail.pl5": {
+   "fr": "gousse d'ail / gousses d'ail",
+   "t": "зубчиков чеснока"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher finement ou à presser",
+   "t": "мелко порубить или выдавить через пресс"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "томатной пасты"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "сладкой паприки"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "уточните по вкусу в конце приготовления"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.gingembre.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.curcuma.note": {
+   "fr": "facultatif, pour la couleur",
+   "t": "по желанию, для цвета"
+  },
+  "ing.piment.name": {
+   "fr": "de piment fort moulu (Cayenne)",
+   "t": "молотого острого перца (кайенского)"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.eau-plus.name": {
+   "fr": "un peu d'eau",
+   "t": "немного воды"
+  },
+  "ing.eau-plus.note": {
+   "fr": "seulement si le liquide réduit trop tôt",
+   "t": "только если жидкость слишком рано уварится"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "Для подачи"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "хобз (марокканский хлеб)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "чтобы собирать соус"
+  },
+  "equipment.0": {
+   "fr": "Grand saladier, pour le trempage",
+   "t": "Большая миска для замачивания"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Дуршлаг"
+  },
+  "equipment.2": {
+   "fr": "Grande cocotte à fond épais d'environ 6 l, avec couvercle (ou un autocuiseur) ; une cocotte deux fois plus grande si tu doubles la recette",
+   "t": "Большая кастрюля с толстым дном объёмом около 6 л, с крышкой (или скороварка); если удваиваете рецепт — кастрюля вдвое больше"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "Тёрка"
+  },
+  "equipment.4": {
+   "fr": "Couteau ou presse-ail",
+   "t": "Нож или пресс для чеснока"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Деревянная ложка"
+  },
+  "steps.0.title": {
+   "fr": "La veille : fais tremper les haricots",
+   "t": "Накануне: замочите фасоль"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{haricots}} de haricots blancs secs dans un grand saladier. Couvre-les largement d'eau, 2,5 à 5 cm au-dessus, car ils vont gonfler. Laisse-les tremper toute la nuit.",
+   "t": "Положите {{haricots}} сухой белой фасоли в большую миску. Залейте большим количеством воды, на 2,5–5 см выше фасоли, потому что она набухнет. Оставьте замачиваться на всю ночь."
+  },
+  "steps.0.tip": {
+   "fr": "Pas le temps ? Fais-les tremper au moins 5 heures (durée minimale conseillée par la FDA ; Choumicha descend à 2 ou 3 heures dans certaines recettes), jette l'eau de trempage et prévois une cuisson plus longue (MarocMama).",
+   "t": "Нет времени? Замочите её хотя бы на 5 часов (минимальное время, рекомендованное FDA; в некоторых рецептах Choumicha — всего 2–3 часа), слейте воду после замачивания и рассчитывайте на более долгую варку (MarocMama)."
+  },
+  "steps.1.title": {
+   "fr": "Égoutte les haricots",
+   "t": "Слейте воду с фасоли"
+  },
+  "steps.1.text": {
+   "fr": "Le lendemain, égoutte les haricots et jette l'eau de trempage.",
+   "t": "На следующий день откиньте фасоль на дуршлаг, а воду после замачивания вылейте."
+  },
+  "steps.2.title": {
+   "fr": "Prépare tomates, oignon et ail",
+   "t": "Подготовьте помидоры, лук и чеснок"
+  },
+  "steps.2.text": {
+   "fr": "Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Râpe l'oignon ({{oignon:full}}). Hache finement l'ail ({{ail:full}}), ou passe-le au presse-ail.",
+   "t": "Разрежьте помидоры пополам ({{tomates:full}}), натрите мякоть, а кожицу выбросьте. Натрите лук на тёрке ({{oignon:full}}). Мелко порубите чеснок ({{ail:full}}) или выдавите его через пресс."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Помидор, натёртый на тёрке"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Как натереть помидор"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "Порубите зелень"
+  },
+  "steps.3.text": {
+   "fr": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Вымойте петрушку и кинзу, обсушите и мелко порубите: вам понадобится {{persil}} петрушки и {{coriandre}} кинзы."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.4.title": {
+   "fr": "Mets tout dans la cocotte",
+   "t": "Сложите всё в кастрюлю"
+  },
+  "steps.4.text": {
+   "fr": "Dans une grande cocotte à fond épais, mets les haricots égouttés, les tomates, l'oignon, l'ail et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et {{huile}} d'huile d'olive. Si tu veux, ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma et {{piment}} de piment fort. Mélange bien.",
+   "t": "В большую кастрюлю с толстым дном положите откинутую на дуршлаг фасоль, помидоры, лук, чеснок и зелень. Добавьте {{concentre}} томатной пасты, {{paprika}} паприки, {{cumin}} кумина, {{poivre}} перца, {{sel}} соли и {{huile}} оливкового масла. По желанию добавьте {{gingembre}} имбиря, {{curcuma}} куркумы и {{piment}} острого перца. Хорошо перемешайте."
+  },
+  "steps.5.title": {
+   "fr": "Verse l'eau",
+   "t": "Влейте воду"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{eau}} d'eau et porte à pleine ébullition, à feu vif.",
+   "t": "Влейте {{eau}} воды и доведите до бурного кипения на сильном огне."
+  },
+  "steps.5.tip": {
+   "fr": "S'il se forme une écume blanche au début, retire-la avec une cuillère (Kookmutsjes).",
+   "t": "Если в начале появится белая пена, снимите её ложкой (Kookmutsjes)."
+  },
+  "steps.6.title": {
+   "fr": "Laisse cuire à petits bouillons",
+   "t": "Варите на умеренном кипении"
+  },
+  "steps.6.text": {
+   "fr": "Couvre et laisse cuire à feu moyen environ 1 h 30, jusqu'à ce que les haricots soient fondants. Le liquide doit bouillir à petits bouillons, et pas seulement frémir, au moins pendant les 30 premières minutes. Remue de temps en temps. Si le liquide réduit avant que les haricots soient cuits, ajoute {{eau-plus}}.",
+   "t": "Накройте крышкой и варите на среднем огне около 1 ч 30 мин, пока фасоль не станет совсем мягкой. Жидкость должна именно кипеть, пусть и несильно, а не только едва подрагивать, хотя бы первые 30 минут. Время от времени помешивайте. Если жидкость уварится раньше, чем сварится фасоль, добавьте {{eau-plus}}."
+  },
+  "steps.6.timer.label": {
+   "fr": "Loubia",
+   "t": "Лубия"
+  },
+  "steps.6.timer.done": {
+   "fr": "Écrase un haricot contre la paroi : il doit s'écraser facilement. Sinon, prolonge la cuisson.",
+   "t": "Раздавите фасолину о стенку кастрюли: она должна легко раздавливаться. Если нет, варите дольше."
+  },
+  "steps.7.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Проверьте готовность"
+  },
+  "steps.7.text": {
+   "fr": "Écrase un haricot contre la paroi avec une cuillère : s'il s'écrase sans effort, il est cuit. Sinon, prolonge la cuisson à couvert.",
+   "t": "Раздавите фасолину ложкой о стенку кастрюли: если она раздавливается без усилия, фасоль готова. Если нет, продолжайте варить под крышкой."
+  },
+  "steps.8.title": {
+   "fr": "Ajuste la sauce",
+   "t": "Доведите соус до нужной густоты"
+  },
+  "steps.8.text": {
+   "fr": "La sauce doit être épaisse, mais encore généreuse : les haricots vont continuer à en boire. S'ils baignent encore dans le liquide, laisse réduire sans couvercle, en remuant.",
+   "t": "Соус должен быть густым, но его должно оставаться ещё много: фасоль продолжит его впитывать. Если фасоль ещё плавает в жидкости, уварите соус без крышки, помешивая."
+  },
+  "steps.8.tip": {
+   "fr": "Pour lier la sauce, écrase quelques haricots à la fourchette (MarocMama).",
+   "t": "Чтобы соус стал гуще, разомните вилкой несколько фасолин (MarocMama)."
+  },
+  "steps.9.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Попробуйте и доведите до вкуса"
+  },
+  "steps.9.text": {
+   "fr": "Goûte et rectifie le sel et les épices.",
+   "t": "Попробуйте и при необходимости добавьте соли и специй."
+  },
+  "steps.10.title": {
+   "fr": "Sers chaud avec du pain",
+   "t": "Подавайте горячей с хлебом"
+  },
+  "steps.10.text": {
+   "fr": "Sers la loubia chaude, en plat principal ou en accompagnement, avec du {{khobz}} pour saucer. Mange-la à la cuillère, ou à la marocaine en prenant les haricots avec un morceau de pain.",
+   "t": "Подавайте лубию горячей, как основное блюдо или гарнир, с хобзом, чтобы собирать соус. Ешьте её ложкой или по-мароккански, беря фасоль кусочком хлеба."
+  },
+  "steps.11.title": {
+   "fr": "Range les restes",
+   "t": "Уберите остатки"
+  },
+  "steps.11.text": {
+   "fr": "Ne laisse pas la loubia plus de 2 heures à température ambiante : mets-la au réfrigérateur dans une boîte fermée et mange-la dans les 3 jours. S'il y en a plus d'un litre, répartis-la en petites portions pour qu'elle refroidisse vite. Réchauffe-la doucement, à couvert, avec un peu d'eau, jusqu'à ce que la vapeur s'échappe.",
+   "t": "Не оставляйте лубию при комнатной температуре дольше 2 часов: уберите её в холодильник в закрытом контейнере и съешьте в течение 3 дней. Если её больше литра, разложите небольшими порциями, чтобы она быстро остыла. Разогревайте на слабом огне под крышкой, с небольшим количеством воды, пока не пойдёт пар."
+  },
+  "secrets.0.text": {
+   "fr": "Fais tremper les haricots toute une nuit, dans beaucoup d'eau : ils gonflent et en absorbent une partie.",
+   "t": "Замачивайте фасоль на всю ночь в большом количестве воды: она набухает и впитывает часть воды."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha (« trempés depuis la veille ») ; Bladi ; Morocco World News 2023 ; MarocMama (eau 2,5 à 5 cm au-dessus des haricots)",
+   "t": "Taste of Maroc; Choumicha («замоченная с вечера»); Bladi; Morocco World News 2023; MarocMama (вода на 2,5–5 см выше фасоли)"
+  },
+  "secrets.1.text": {
+   "fr": "Pas de trempage la veille ? Compte au moins 5 heures de trempage, et une cuisson plus longue.",
+   "t": "Не замочили накануне? Замачивайте хотя бы 5 часов и рассчитывайте на более долгую варку."
+  },
+  "secrets.1.source": {
+   "fr": "FDA (au moins 5 heures de trempage) ; MarocMama (au moins quelques heures, et plus de cuisson) ; Choumicha (2 à 3 heures pour ses haricots aux poivrons frits, 2 heures pour ses haricots aux boulettes)",
+   "t": "FDA (замачивание не меньше 5 часов); MarocMama (хотя бы несколько часов и более долгая варка); Choumicha (2–3 часа для фасоли с жареным перцем, 2 часа для фасоли с фрикадельками)"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe les tomates et l'oignon.",
+   "t": "Натрите на тёрке помидоры и лук."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Choumicha (tomates râpées)",
+   "t": "Taste of Maroc; Choumicha (тёртые помидоры)"
+  },
+  "secrets.3.text": {
+   "fr": "L'ail, le cumin et le paprika font le goût de la loubia : n'en sois pas avare.",
+   "t": "Чеснок, кумин и паприка создают вкус лубии: не жалейте их."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (« beaucoup d'ail », paprika, cumin) ; MarocMama (5 gousses d'ail, cumin et paprika) ; Choumicha (cumin et piment doux dans toutes ses versions)",
+   "t": "Taste of Maroc («много чеснока», паприка, кумин); MarocMama (5 зубчиков чеснока, кумин и паприка); Choumicha (кумин и сладкий молотый перец во всех её версиях)"
+  },
+  "secrets.4.text": {
+   "fr": "Le curcuma n'est pas traditionnel dans la loubia : Taste of Maroc en ajoute pour la couleur. Mets-en ou pas.",
+   "t": "Куркума для лубии не традиционна: Taste of Maroc добавляет её для цвета. Кладите её или нет — на ваш выбор."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; on le trouve pourtant chez Morocco World News 2023 et dans deux recettes de Choumicha (poivrons frits, douara)",
+   "t": "Taste of Maroc; однако она есть у Morocco World News 2023 и в двух рецептах Choumicha (жареный перец, дуара)"
+  },
+  "secrets.5.text": {
+   "fr": "Garde une sauce généreuse au moment de servir : les haricots continuent de boire le liquide en attendant.",
+   "t": "К подаче оставляйте побольше соуса: пока блюдо ждёт, фасоль продолжает впитывать жидкость."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Si la sauce est encore trop liquide quand les haricots sont cuits, fais-la réduire à découvert.",
+   "t": "Если, когда фасоль уже готова, соус ещё слишком жидкий, уварите его без крышки."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Morocco World News 2023 ; MarocMama",
+   "t": "Taste of Maroc, Morocco World News 2023 и MarocMama"
+  },
+  "secrets.7.text": {
+   "fr": "Pour lier la sauce, écrase quelques haricots à la fourchette.",
+   "t": "Чтобы соус стал гуще, разомните вилкой несколько фасолин."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.8.text": {
+   "fr": "Un haricot cuit s'écrase sans effort : la loubia doit être fondante.",
+   "t": "Готовая фасолина раздавливается без усилия: лубия должна быть очень мягкой."
+  },
+  "secrets.8.source": {
+   "fr": "Morocco World News 2023 ; Choumicha (« les haricots blancs doivent être fondants »)",
+   "t": "Morocco World News 2023; Choumicha («белая фасоль должна быть очень мягкой»)"
+  },
+  "secrets.9.text": {
+   "fr": "Avec de la viande, fais-la d'abord dorer dans l'huile d'olive, puis cuis tout ensemble. La viande séchée n'a pas besoin d'être dorée.",
+   "t": "Если готовите с мясом, сначала обжарьте его в оливковом масле, а потом варите всё вместе. Вяленое мясо обжаривать не нужно."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "À l'autocuiseur, n'ouvre pas tout de suite : laisse la pression retomber, pour ne pas te brûler.",
+   "t": "Скороварку не открывайте сразу: дайте давлению снизиться, чтобы не обжечься."
+  },
+  "secrets.10.source": {
+   "fr": "Morocco World News 2023",
+   "t": "Morocco World News 2023"
+  },
+  "secrets.11.text": {
+   "fr": "Najat préfère les petits haricots blancs, qu'elle trouve les meilleurs pour la loubia.",
+   "t": "Najat предпочитает мелкую белую фасоль: по её мнению, она лучше всего подходит для лубии."
+  },
+  "secrets.11.source": {
+   "fr": "Kookmutsjes (Najat, « Marokkaanse bonensoep/Loubia/Joubiath »)",
+   "t": "Kookmutsjes (Najat, рецепт «Marokkaanse bonensoep/Loubia/Joubiath»)"
+  },
+  "secrets.12.text": {
+   "fr": "S'il se forme une écume blanche au début de la cuisson, retire-la à la cuillère.",
+   "t": "Если в начале варки появится белая пена, снимите её ложкой."
+  },
+  "secrets.12.source": {
+   "fr": "Kookmutsjes (Najat)",
+   "t": "Kookmutsjes (Najat)"
+  },
+  "secrets.13.text": {
+   "fr": "Au Maroc, la loubia se mange avec du pain, à la main ou à la cuillère.",
+   "t": "В Марокко лубию едят с хлебом — руками или ложкой."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc ; MarocMama ; Morocco World News 2023",
+   "t": "Taste of Maroc, MarocMama и Morocco World News 2023"
+  },
+  "mistakes.0": {
+   "fr": "Utiliser des haricots en conserve dans cette recette : déjà cuits, ils risquent de mal prendre le goût de la sauce (Taste of Maroc).",
+   "t": "Брать для этого рецепта консервированную фасоль: она уже сварена и может плохо пропитаться вкусом соуса (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire des haricots secs sans trempage : fais-les tremper au moins 5 heures (FDA) et prévois plus de cuisson (MarocMama). Ou les cuire à la mijoteuse électrique : elle ne chauffe pas assez pour détruire la lectine des haricots (FDA).",
+   "t": "Варить сухую фасоль без замачивания: замачивайте её хотя бы 5 часов (FDA) и рассчитывайте на более долгую варку (MarocMama). Или готовить её в электрической медленноварке: она греет недостаточно сильно, чтобы разрушить лектин фасоли (FDA)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la cocotte sécher : ajoute un peu d'eau si le liquide réduit avant que les haricots soient cuits (Taste of Maroc).",
+   "t": "Допускать, чтобы в кастрюле выкипела жидкость: добавьте немного воды, если она уварится раньше, чем сварится фасоль (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Servir une sauce aqueuse : elle doit être épaisse, mais encore généreuse (Taste of Maroc).",
+   "t": "Подавать водянистый соус: он должен быть густым, но его должно оставаться ещё много (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Ouvrir l'autocuiseur dès la fin de la cuisson (Morocco World News 2023).",
+   "t": "Открывать скороварку сразу после окончания варки (Morocco World News 2023)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
+   "t": "Оставлять остатки при комнатной температуре дольше 2 часов или хранить их в холодильнике дольше 3 дней (Anses)."
+  },
+  "variants.0": {
+   "fr": "À l'autocuiseur : mêmes ingrédients, 40 minutes sous pression à feu moyen (Taste of Maroc ; MarocMama ; Morocco World News 2023 compte 40 à 45 minutes). Taste of Maroc garde les 2 litres d'eau et fait ensuite réduire à découvert ; Morocco World News 2023 et MarocMama mettent juste assez d'eau pour couvrir largement les haricots. Laisse retomber la pression avant d'ouvrir (Morocco World News 2023).",
+   "t": "В скороварке: те же ингредиенты, 40 минут под давлением на среднем огне (Taste of Maroc; MarocMama; Morocco World News 2023 даёт 40–45 минут). Taste of Maroc оставляет все 2 литра воды, а потом уваривает соус без крышки; Morocco World News 2023 и MarocMama наливают воды ровно столько, чтобы она с запасом покрывала фасоль. Прежде чем открывать, дайте давлению снизиться (Morocco World News 2023)."
+  },
+  "variants.1": {
+   "fr": "Avec de la viande halal : 1 livre (environ 450 g) de bœuf ou d'agneau avec os pour 1 livre de haricots, dorée d'abord dans l'huile d'olive (Taste of Maroc) ; Bladi cuit 500 g de veau avec 250 g de haricots, du cumin, du coulis de tomate et une pincée de safran.",
+   "t": "С мясом халяль: 1 фунт (около 450 г) говядины или баранины на кости на 1 фунт фасоли; мясо сначала обжаривают в оливковом масле (Taste of Maroc); Bladi варит 500 г телятины с 250 г фасоли, кумином, томатным пюре и щепоткой шафрана."
+  },
+  "variants.2": {
+   "fr": "À la viande séchée (gueddid) : Choumicha cuit d'abord les haricots 30 minutes avec l'ail en chemise et un bouquet de coriandre et de persil, puis ajoute la viande séchée, les tomates râpées, le concentré, les épices et l'huile d'olive ; elle retire le bouquet au service.",
+   "t": "С вяленым мясом (геддид): Choumicha сначала варит фасоль 30 минут с неочищенным чесноком и пучком кинзы и петрушки, затем добавляет вяленое мясо, тёртые помидоры, томатную пасту, специи и оливковое масло; при подаче пучок она вынимает."
+  },
+  "variants.3": {
+   "fr": "Au khlii (viande confite) : la mère de Nargisse Benkabbou en ajoutait pendant que la loubia mijotait (My Moroccan Food) ; Taste of Maroc et MarocMama le citent aussi.",
+   "t": "С хлии (вяленым мясом в жиру): мама Nargisse Benkabbou добавляла его, пока лубия тушилась (My Moroccan Food); Taste of Maroc и MarocMama тоже его упоминают."
+  },
+  "variants.4": {
+   "fr": "À la douara (tripes de mouton) : Choumicha cuit les tripes 30 minutes avec les épices, puis ajoute les haricots trempés, enfermés dans un sac de mousseline, et laisse cuire environ 1 h 30. Selon MarocMama, quand on met de la viande dans la loubia, le plus courant au Maroc, ce sont des morceaux d'estomac de mouton.",
+   "t": "С дуарой (бараньей требухой): Choumicha варит требуху 30 минут со специями, затем добавляет замоченную фасоль в марлевом мешочке и варит около 1 ч 30 мин. По словам MarocMama, если в лубию кладут мясо, то в Марокко чаще всего это кусочки бараньего желудка."
+  },
+  "variants.5": {
+   "fr": "Aux poivrons rouges frits, ou aux boulettes de viande hachée ajoutées 5 minutes avant la fin (Choumicha).",
+   "t": "С жареным красным сладким перцем или с фрикадельками из фарша, которые добавляют за 5 минут до конца (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "En soupe plus liquide, avec carottes, céleri et ras el hanout (Kookmutsjes, « Marokkaanse bonensoep »).",
+   "t": "Более жидкий суп с морковью, сельдереем и рас-эль-ханутом (Kookmutsjes, «Marokkaanse bonensoep»)."
+  },
+  "variants.7": {
+   "fr": "Version express avec des haricots en conserve, 20 à 35 minutes (Cooking With Alia ; My Moroccan Food) : plus rapide, mais Taste of Maroc la déconseille.",
+   "t": "Быстрая версия с консервированной фасолью, 20–35 минут (Cooking With Alia; My Moroccan Food): быстрее, но Taste of Maroc её не советует."
+  },
+  "variants.8": {
+   "fr": "Cuite des heures dans une marmite en terre, au charbon : la version la plus savoureuse selon MarocMama.",
+   "t": "Несколько часов в глиняном горшке на углях: самая вкусная версия, по словам MarocMama."
+  },
+  "variants.9": {
+   "fr": "Une partie de l'huile d'olive ajoutée seulement en fin de cuisson (Morocco World News 2023) ; dans sa version aux poivrons, Choumicha ajoute même toute l'huile et les épices une fois les haricots cuits.",
+   "t": "Часть оливкового масла добавляют только в конце варки (Morocco World News 2023); в версии с перцем Choumicha даже добавляет всё масло и специи, когда фасоль уже сварилась."
+  }
+ }
+}

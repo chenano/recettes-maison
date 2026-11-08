@@ -1,0 +1,210 @@
+{
+ "slug": "gratin-dauphinois",
+ "title": "Gratin dauphinois",
+ "darija": "",
+ "arabic": "غراتان البطاطا",
+ "tagline": "Des pommes de terre fondantes, cuites lentement dans le lait et la crème, sous une fine croûte dorée : le vrai gratin du Dauphiné, sans fromage ni œufs.",
+ "category": "Accompagnement",
+ "occasion": "Accompagnement d'un rôti, d'une viande ou d'une volaille, ou plat principal avec une salade verte (Wikipédia, Chef Simon, legratindauphinois.fr). Un classique des repas de fête (Jow).",
+ "region": "Dauphiné, dans le sud-est de la France (Isère). Le plat serait né au pays des Quatre Montagnes, autour de Villard-de-Lans et d'Autrans (Wikipédia ; Larousse gastronomique cité par Lyon Capitale). Première mention connue : un dîner du 12 juillet 1788, offert par le duc de Clermont-Tonnerre, lieutenant général du Dauphiné, aux officiers municipaux de Gap (Wikipédia, d'après l'archiviste Auguste Prudhomme ; Lyon Capitale ; Meilleur du Chef). Il a sa confrérie depuis le 17 janvier 2019 (legratindauphinois.fr, Wikipédia).",
+ "servings": 4,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 25,
+  "cook": 90,
+  "rest": 0
+ },
+ "difficulty": "Facile",
+ "equipment": [
+  "Un plat à gratin peu profond, en terre ou en grès de préférence (Lyon Capitale, Escoffier, Wikipédia)",
+  "Une mandoline ou un bon couteau",
+  "Un économe et une planche à découper",
+  "Une casserole, pour le lait",
+  "Un couteau pointu, pour vérifier la cuisson"
+ ],
+ "ingredients": [
+  {
+   "group": "Pommes de terre et plat",
+   "items": [
+    {"id": "pdt", "canon": "pomme-de-terre", "q": 1, "u": "kg", "name": "de pommes de terre à chair ferme ou fondante", "note": "type Charlotte, Monalisa ou Amandine ; ni vertes, ni germées"},
+    {"id": "ail-plat", "canon": "ail", "q": 1, "u": "", "name": "gousse d'ail", "pl": "gousses d'ail", "note": "pour frotter le plat"},
+    {"id": "beurre", "canon": "beurre", "q": 20, "u": "g", "name": "de beurre", "note": "bien mou, pour le plat et le dessus"}
+   ]
+  },
+  {
+   "group": "Lait et crème",
+   "items": [
+    {"id": "lait", "canon": "lait", "q": 500, "u": "ml", "name": "de lait entier"},
+    {"id": "creme", "canon": "creme-fraiche", "q": 250, "u": "ml", "name": "de crème liquide entière", "note": "au moins 30 % de matière grasse (crème fleurette)"},
+    {"id": "ail", "canon": "ail", "q": 1, "u": "", "name": "gousse d'ail", "pl": "gousses d'ail", "note": "pour le lait"},
+    {"id": "sel", "canon": "sel", "q": null, "u": "", "name": "sel"},
+    {"id": "poivre", "canon": "poivre", "q": null, "u": "", "name": "poivre"},
+    {"id": "muscade", "canon": "noix-de-muscade", "q": null, "u": "", "name": "noix de muscade", "note": "facultatif, à râper"}
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Préchauffe le four",
+   "text": "Préchauffe le four à 160 °C.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Épluche les pommes de terre",
+   "text": "Épluche {{pdt}} de pommes de terre. Retire les parties vertes et les germes. Lave-les rapidement, entières.",
+   "timer": null,
+   "tip": "Jette une pomme de terre très verte, abîmée ou amère : les parties vertes et les germes concentrent la solanine, qui peut causer une intoxication, et la cuisson ne la détruit pas (BfR, agence allemande ; ACIA, agence canadienne)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Coupe de fines rondelles",
+   "text": "Coupe les pommes de terre en rondelles fines et régulières, d'environ 3 mm, à la mandoline ou au couteau. Ne rince pas les rondelles et ne les mets pas dans l'eau : leur amidon va lier le gratin.",
+   "timer": null,
+   "tip": "Avec une mandoline, fais très attention à tes doigts (Meilleur du Chef, legratindauphinois.fr)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Prépare le plat",
+   "text": "Coupe {{ail-plat:full}} en deux. Frotte bien le fond et les bords du plat avec l'ail. Beurre ensuite généreusement le plat avec une partie du beurre ({{beurre}} en tout).",
+   "timer": null,
+   "tip": "L'ail passe avant le beurre ; un beurre bien mou s'étale plus facilement (École de cuisine Alain Ducasse)."
+  },
+  {
+   "phase": "Préparation",
+   "title": "Fais bouillir le lait",
+   "text": "Pèle et hache {{ail:full}}. Mets l'ail haché dans une casserole avec {{lait:full}}, du {{sel}}, du {{poivre}} et un peu de {{muscade}} râpée. Porte à ébullition, puis éteins le feu.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Monte les couches",
+   "text": "Range une couche régulière de rondelles dans le plat. Sale, poivre, ajoute un peu de muscade et quelques cuillerées de crème. Recommence jusqu'à la fin des pommes de terre, avec {{creme:full}} en tout.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Verse le lait chaud",
+   "text": "Verse le lait chaud, avec l'ail, jusqu'à couvrir à peine les pommes de terre : les dernières rondelles doivent rester un peu visibles. S'il reste du lait, garde-le.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Ajoute le beurre",
+   "text": "Répartis le reste du beurre en petits morceaux sur le dessus.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Enfourne pour 1 h 30",
+   "text": "Enfourne pour 1 h 30. Le gratin doit cuire doucement. Regarde le dessus de temps en temps : il doit dorer sans brûler.",
+   "timer": {"min": 90, "label": "Gratin au four", "done": "Plante un couteau au centre : il doit s'enfoncer sans effort."},
+   "tip": "Si les pommes de terre ont bu tout le liquide avant d'être cuites, ajoute un peu du lait gardé (Lyon Capitale)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie la cuisson",
+   "text": "Plante la pointe d'un couteau au centre : elle doit s'enfoncer très facilement. Le dessus doit être doré. Sinon, prolonge la cuisson, jusqu'à 2 heures en tout.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Sers dans le plat",
+   "text": "Laisse reposer quelques minutes, puis sers chaud, dans le plat de cuisson.",
+   "timer": null,
+   "tip": "Restes : au réfrigérateur dans les 2 heures, à manger sous 2 jours, froids ou réchauffés une seule fois jusqu'à être fumants au centre (FSA, Anses)."
+  }
+ ],
+ "secrets": [
+  {"text": "Ne rince jamais les rondelles et ne les laisse pas tremper : leur amidon lie le lait et la crème, et le gratin se tient.", "source": "legratindauphinois.fr ; Chef Simon ; Jow ; Meilleur du Chef ; Wikipédia (Jean-François Piège : rondelles « non lavées, non essuyées »)"},
+  {"text": "Des rondelles fines, toutes de la même épaisseur, environ 3 mm. Trop fines, elles tournent en purée ; trop épaisses, elles manquent de cuisson.", "source": "Jow ; Alain Ducasse (3 mm) ; Wikipédia (3 mm) ; Lyon Capitale (« d'égale épaisseur »)"},
+  {"text": "Frotte le plat avec l'ail avant de le beurrer.", "source": "École de cuisine Alain Ducasse (« l'ail doit passer avant le beurre ») ; Escoffier ; Lyon Capitale ; Alpes Isère"},
+  {"text": "Sale et poivre chaque couche, pas seulement le dessus.", "source": "Lyon Capitale ; Alpes Isère ; Académie du Goût ; legratindauphinois.fr"},
+  {"text": "Le liquide doit juste couvrir les pommes de terre : les dernières rondelles restent légèrement visibles.", "source": "Lyon Capitale ; legratindauphinois.fr (« jusqu'à couvrir à peine »)"},
+  {"text": "Lait entier et crème entière : c'est le mélange de la plupart des recettes d'aujourd'hui. À l'origine, on le faisait avec du lait entier de la ferme.", "source": "Lyon Capitale ; legratindauphinois.fr ; Meilleur du Chef ; Alpes Isère ; Wikipédia (d'après Catherine Roig)"},
+  {"text": "La cuisson lente fait tout : four doux, et de la patience.", "source": "Alpes Isère (« une cuisson très lente ») ; legratindauphinois.fr (« Le gratin dauphinois cuit lentement ») ; Hélène Darroze (160 °C, au moins 1 h 30)"},
+  {"text": "Un four trop chaud brûle le dessus avant que les pommes de terre du haut soient cuites.", "source": "Lyon Capitale ; legratindauphinois.fr (surveiller le dessus)"},
+  {"text": "Si les pommes de terre ont bu tout le liquide trop tôt, rajoute un peu de lait.", "source": "Lyon Capitale"},
+  {"text": "Pas besoin de fromage pour gratiner : c'est la crème qui dore en surface.", "source": "Chef Simon (« un glaçage de surface ») ; Jow ; Lyon Capitale"},
+  {"text": "Choisis une pomme de terre à chair ferme ou fondante, qui absorbe le lait et la crème sans se défaire.", "source": "Meilleur du Chef ; Chef Simon (Amandine, Charlotte, Belle de Fontenay, Roseval…) ; Jow (Monalisa, Charlotte, Amandine) ; Académie du Goût (Charlotte, Roseval) ; Hélène Darroze (Mona Lisa, Spunta, Agatha)"},
+  {"text": "Fait la veille et réchauffé, il se coupe mieux et il est encore meilleur.", "source": "Meilleur du Chef ; Wikilivres ; legratindauphinois.fr (les paysans dauphinois le finissaient le lendemain)"},
+  {"text": "Un plat en terre garde la chaleur : le gratin reste chaud longtemps.", "source": "Wikipédia ; Lyon Capitale et Escoffier (plat en terre)"}
+ ],
+ "mistakes": [
+  "Rincer les rondelles ou les faire tremper : l'amidon part et le gratin ne se tient plus (legratindauphinois.fr, Jow, Meilleur du Chef).",
+  "Couper des rondelles d'épaisseurs différentes : certaines restent fermes, d'autres tournent en purée (Lyon Capitale, Jow).",
+  "Mettre le four trop chaud : le dessus brûle et les pommes de terre du haut ne cuisent pas (Lyon Capitale).",
+  "Ajouter du fromage ou des œufs et l'appeler gratin dauphinois : avec du fromage, c'est un autre gratin (Wikipédia, Wikilivres, Lyon Capitale).",
+  "Se couper avec la mandoline (Meilleur du Chef, legratindauphinois.fr).",
+  "Utiliser des pommes de terre vertes, germées, abîmées ou amères (BfR, ACIA).",
+  "Laisser le gratin plus de 2 heures à température ambiante (Anses, FSA).",
+  "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce que ce soit fumant (FSA)."
+ ],
+ "serving": "Chaud, dans son plat de cuisson, avec une viande rôtie ou une volaille, ou en plat principal avec une salade verte (Wikipédia, Chef Simon, legratindauphinois.fr, Jow). Wikipédia note qu'on le mange aussi réchauffé, ou froid. Restes : au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 48 heures (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné), froids ou réchauffés une seule fois jusqu'à être fumants au centre (FSA). L'Anses conseille de réchauffer dans un plat couvert, jusqu'à ce que la vapeur s'échappe. Lait et crème entamés : suis la mention « après ouverture » de l'étiquette (Anses).",
+ "variants": [
+  "La version d'Escoffier (1903) : 1 œuf battu, 3/4 de litre de lait bouilli et 125 g de gruyère râpé par kilo de pommes de terre, avec du gruyère sur le dessus et 40 à 45 minutes de four (Escoffier) ; selon Lyon Capitale, Paul Bocuse reprend ces ingrédients et Joël Robuchon met du gruyère sans œufs. Prends un fromage à coagulant microbien, sans présure animale, si tu veux être strict.",
+  "À la crème seule, sans lait : c'est « le vrai » gratin selon le Larousse gastronomique (cité par Lyon Capitale), et la façon de l'Oustau de Baumanière (Wikipédia).",
+  "Avec une précuisson dans le lait : Alain Ducasse (40 minutes au frémissement avec thym et laurier, puis 20 minutes à 220 °C), Chef Simon (30 minutes en cocotte, puis 30 minutes à 190 °C et 15 minutes sous le gril avec la crème), Meilleur du Chef (8 minutes, puis 15 à 20 minutes à 180 °C), Anne-Sophie Pic selon une reproduction de sa recette (15 à 20 minutes, puis environ 25 minutes à 180 °C).",
+  "À la façon d'Hélène Darroze : thym frais et piment d'Espelette, crème crue et lait entier, 160 °C pendant au moins 1 h 30 (Académie du Goût). La crème crue est un produit au lait cru : l'Anses le déconseille fortement aux jeunes enfants, aux femmes enceintes et aux personnes immunodéprimées.",
+  "Avec de fines lamelles de céleri-rave entre les couches de pommes de terre (Wikilivres).",
+  "Cuisson très douce, à 120 °C, très longue, jusqu'à cuisson complète (Wikilivres).",
+  "Avec un peu de chapelure (École de cuisine Alain Ducasse, liste des ingrédients).",
+  "En petites cocottes individuelles (Chef Simon).",
+  "Pommes de terre à la savoyarde : comme le gratin dauphinois, mais avec du consommé à la place du lait (Escoffier) ; prends un bouillon certifié halal."
+ ],
+ "sources": [
+  {"name": "Wikipédia, « Gratin dauphinois », dernière modification le 28 août 2026, consulté le 7 novembre 2026", "url": "https://fr.wikipedia.org/wiki/Gratin_dauphinois", "used_for": "Origine dauphinoise, plat qui serait né au pays des Quatre Montagnes (Irène Karsenty) ; première mention le 12 juillet 1788 (Auguste Prudhomme) ; première recette chez Escoffier, avec fromage ; lait cuit à l'ail avec plus ou moins de crème, ou crème seule (Oustau de Baumanière) ; « Il n'y a ni fromage, ni œufs dans le gratin dauphinois » (d'après Lyon Capitale) ; autrefois lait fermier entier, aujourd'hui souvent lait et crème (Catherine Roig) ; ail et muscade ; tranches d'environ 3 mm (Céline Maguet), non lavées, non essuyées (Jean-François Piège) ; plat peu profond, beurré et aillé ; précuisson possible ; 40 à 45 minutes à 170 °C, ou 1 h 30 et plus selon les sources ; servi chaud, réchauffé ou froid, seul ou avec un rôti ; plat en terre qui garde la chaleur ; confrérie depuis 2019 ; sonnet de 1895 qui cite des œufs. Pas d'article arabe lié (seulement un article en persan)."},
+  {"name": "Lyon Capitale, Guillaume Lamy, « Top Chef a assassiné le gratin dauphinois », 27 mars 2013", "url": "https://www.lyoncapitale.fr/a-table/top-chef-a-assassine-le-gratin-dauphinois", "used_for": "Le débat sur les œufs et le fromage : œuf et gruyère chez Escoffier (Guide culinaire, 1921) et Paul Bocuse (2011) ; deux œufs sans fromage chez Fernand Point (1969) ; gruyère sans œufs chez Joël Robuchon (1996) ; « le vrai » gratin du pays des Quatre Montagnes selon le Larousse gastronomique (1996) : ni fromage, ni lait, ni œufs, seulement des pommes de terre et de la crème fraîche ; René Fonvieille (1983) : « Surtout, n'ajoutez pas d'œufs ni de fromage » ; ni œufs ni fromage chez Jean-Pierre Barus, Anne-Sophie Pic, Michel Rostang et Régis Aribert ; « surtout pas de muscade » chez la mère de Christophe Aribert. Recette du « vrai gratin » : rondelles d'égale épaisseur (environ 1,5 mm), plat de terre frotté d'ail puis légèrement beurré, sel et poivre à chaque couche, lait entier et crème jusqu'à ce que les dernières rondelles restent légèrement apparentes, noisettes de beurre, trois quarts d'heure à une heure ou plus, rajouter du lait si besoin, four pas trop vif."},
+  {"name": "Auguste Escoffier, Le Guide culinaire (1903), chapitre « Légumes », transcription Wikisource", "url": "https://fr.wikisource.org/wiki/Le_guide_culinaire/L%C3%A9gumes", "used_for": "« Gratin de pommes de terre à la Dauphinoise » : 1 kg de pommes de terre Hollande émincées, sel, poivre, muscade, un œuf battu, trois quarts de litre de lait bouilli et 125 g de gruyère ; plats en terre frottés d'ail et bien beurrés ; gruyère et parcelles de beurre dessus ; four de chaleur moyenne, 40 à 45 minutes. « Pommes de terre à la Savoyarde » : le lait remplacé par du consommé."},
+  {"name": "Alpes Isère (alpes-isere.com), « Gratin dauphinois », recette des Passions de Laurie avec Alpes Isère, publiée le 16 juin 2024, modifiée le 14 mars 2026", "url": "https://www.alpes-isere.com/saveurs/recettes-locales/gratin-dauphinois/", "used_for": "Pour 4 : 1 kg de pommes de terre, 25 cl de crème liquide entière à 30 %, 25 cl de lait, sel, poivre, muscade, beurre, 1 gousse d'ail. Pommes de terre lavées rapidement, coupées à environ 2 mm ; plat frotté avec la gousse coupée en deux, puis beurré généreusement ; lait bouilli avec sel, poivre et muscade ; couches salées, poivrées, avec muscade et crème entre chaque couche ; lait jusqu'à recouvrir ; noisettes de beurre ; 160 °C pendant 1 h 30 à 2 h ; un couteau doit s'enfoncer très facilement ; préparation 25 minutes."},
+  {"name": "Académie du Goût (la rédaction), « Gratin dauphinois »", "url": "https://www.academiedugout.fr/recettes/gratin-dauphinois_6619_2", "used_for": "Pour 4 : 1 kg de pommes de terre, 2 gousses d'ail, 50 cl de lait, 50 cl de crème fleurette, 1 pincée de muscade, 20 g de beurre, sel, poivre ; four à 150 °C ; pommes de terre lavées puis coupées à la mandoline ; plat frotté à l'ail puis beurré ; couches assaisonnées ; deuxième gousse hachée dans le mélange lait et crème ; 2 heures ; Charlotte ou Roseval."},
+  {"name": "Académie du Goût, Alain Ducasse, « Gratin dauphinois » (extrait du « Grand Livre de Cuisine Bistrot », Éditions Alain Ducasse)", "url": "https://www.academiedugout.fr/recettes/gratin-dauphinois_861_2", "used_for": "Pour 6 : 2 kg de pommes de terre BF 15 en tranches de 3 mm, 1 l de lait, 1 gousse d'ail, thym, laurier, muscade, 50 cl de crème fraîche ; pommes de terre cuites doucement 40 minutes dans le lait, 10 minutes d'infusion ; couches avec la crème ; 220 °C pendant environ 20 minutes."},
+  {"name": "Académie du Goût, École de cuisine Alain Ducasse, « Gratin dauphinois » (extrait de « 190 cours illustrés »)", "url": "https://www.academiedugout.fr/recettes/gratin-dauphinois_541_2", "used_for": "Pour 4 : 1 kg de pommes de terre Monalisa, 2 gousses d'ail, 20 g de beurre mou, 30 cl de lait, 30 cl de crème fleurette, muscade, poivre blanc, 20 g de chapelure ; rondelles d'environ 4 mm ; four à 180 °C ; une gousse écrasée, l'autre pour frotter le plat : « l'ail doit passer avant le beurre », beurre ramolli à l'avance. La suite des étapes est réservée aux abonnés et n'a pas été lue."},
+  {"name": "Académie du Goût, Michel Rostang, « Cocotte lutée de volaille de Bresse « Miéral » et gratin dauphinois » (extrait de « Best of Maison Rostang »)", "url": "https://www.academiedugout.fr/recettes/cocotte-lutte-de-vollaile-de-bresse-mieral-et-gratin-dauphinois_11558_2", "used_for": "Ingrédients du gratin seulement, pour 4 : 500 g de pommes de terre Samba, 1 gousse d'ail, 30 cl de lait, 50 cl de crème fleurette, 20 g de beurre, sel, poivre ; ni œufs, ni fromage. Les étapes du gratin sont réservées aux abonnés ; la volaille (avec vin et poitrine) n'est pas utilisée."},
+  {"name": "Académie du Goût, « Hélène Darroze partage sa recette du gratin dauphinois », 2 octobre 2025", "url": "https://www.academiedugout.fr/articles/helene-darroze-partage-sa-recette-du-gratin-dauphinois-voici_3891", "used_for": "Pommes de terre à chair fondante (Mona Lisa, Spunta, Agatha), en fines lamelles à la mandoline, mélangées à du thym ; plat frotté à l'ail ; crème crue, lait entier, sel, poivre et piment d'Espelette ; 160 °C pendant au moins 1 h 30, jusqu'à ce que le dessus gratine."},
+  {"name": "Chef Simon (Bernard Laurance), « Réussir un gratin dauphinois traditionnel facile et moelleux, sans oeuf ni fromage », publié le 7 décembre 2011, modifié le 2 novembre 2026", "url": "https://chefsimon.com/gourmets/chef-simon/recettes/gratin-dauphinois--15", "used_for": "Pour 6 : 1,5 kg de pommes de terre à chair ferme, 1 l de lait entier, 15 cl de crème fraîche liquide entière, 10 cl d'eau, 4 gousses d'ail écrasées, 1 c. à c. de sel, thym, laurier ou muscade ; tranches fines, « Veillez à ne pas les rincer » ; 30 minutes en cocotte à couvert, puis 30 minutes à 190 °C, crème en surface et 15 minutes sous le gril à 200 °C, 15 minutes de repos ; « point d'oeuf » ni fromage, un « glaçage de surface » ; servi avec une viande rouge ou une volaille ; variétés : Amandine, Charlotte, Belle de Fontenay, Roseval, Pompadour, Nicola, BF15 ; petites cocottes individuelles."},
+  {"name": "Meilleur du Chef, Chef Philippe, « Gratin dauphinois », 30 août 2019", "url": "https://www.meilleurduchef.com/fr/recette/gratin-dauphinois.html", "used_for": "Pour 4 : 800 g de pommes de terre Bintje ou Charlotte, 30 cl de lait entier, 50 cl de crème liquide entière à 35 %, beurre, 2 gousses d'ail, muscade, sel, poivre ; pommes de terre « à chair ferme » qui absorbent la crème et le lait sans se décomposer ; les tailler en suivant pour garder l'amidon de surface ; tranches de 3 à 4 mm, attention aux doigts ; précuisson d'environ 8 minutes dans le lait et la crème ; four ventilé à 180 °C, 15 à 20 minutes ; couteau qui s'enfonce facilement ; meilleur et plus facile à couper s'il est fait la veille ; première mention le 12 juillet 1788 à Gap."},
+  {"name": "legratindauphinois.fr (L'équipe du gratindauphinois.fr), « Recette du gratin dauphinois traditionnel » (page d'accueil) et « La confrérie du gratin dauphinois », 26 décembre 2019", "url": "https://www.legratindauphinois.fr/", "used_for": "Pour 4 : 800 g de pommes de terre, 1 gousse d'ail, 1/2 l de lait entier, 1/4 l de crème liquide entière, muscade, sel, poivre, beurre ; pommes de terre à chair ferme ; ne pas les laver une fois coupées (l'amidon crée la cohésion) ; mandoline dangereuse pour les doigts ; plat frotté à l'ail et beurré ; couches salées, poivrées, muscadées ; lait et crème jusqu'à couvrir à peine ; 150 °C pendant 2 h 30 à 3 h, en surveillant le dessus ; couteau qui s'enfonce sans difficulté ; servi avec une viande ou une volaille, ou seul avec une salade verte ; les paysans dauphinois le finissaient le lendemain. Confrérie (https://www.legratindauphinois.fr/confrerie-du-gratin-dauphinois/) : créée le 17 janvier 2019, à l'initiative des Maîtres restaurateurs de l'Isère, d'Isère Tourisme et de France Bleu Isère. Site d'amateurs, utilisé en recoupement."},
+  {"name": "Jow (application de recettes), « Nos astuces et recettes de gratin dauphinois » (blog)", "url": "https://jow.fr/blog/posts/on-ne-rigole-pas-avec-le-gratin-dauphinois", "used_for": "Pommes de terre à chair ferme ou fondante (Monalisa, Charlotte, Amandine, Belle de Fontenay) ; tranches d'environ 5 mm, ni trop fines (purée) ni trop épaisses (manque de cuisson) ; ne jamais rincer les pommes de terre émincées, l'amidon sert de liant ; seulement pommes de terre, lait et crème, pas de fromage ; précuisson de 10 minutes dans le lait, puis 45 minutes à 180 °C ; bon réchauffé le lendemain ; plat de fête."},
+  {"name": "Wikilivres, « Livre de cuisine/Gratin dauphinois », modifié le 11 décembre 2023", "url": "https://fr.wikibooks.org/wiki/Livre_de_cuisine/Gratin_dauphinois", "used_for": "Recoupement, pour 4 : 1 kg de pommes de terre à chair ferme, 250 ml de crème fraîche, 1/4 l de lait, ail, muscade ; lait bouilli avec sel, poivre, ail et muscade ; lamelles de 2 mm ; couches avec crème et noisettes de beurre ; lait à hauteur ; au moins 1 heure, « plutôt 2 bonnes heures », meilleur cuit la veille ; avec du fromage, « ce n'est plus un gratin dauphinois mais un gratin savoyard » ; variantes au céleri-rave et à 120 °C. Recette collaborative."},
+  {"name": "Chef Simon, recette du membre Jackie, « Gratin dauphinois selon Anne-Sophie Pic », 2 décembre 2025", "url": "https://chefsimon.com/gourmets/jackie--2/recettes/gratin-dauphinois-selon-anne-sophie-pic", "used_for": "Reproduction d'une version d'Anne-Sophie Pic, utilisée seulement en variante : pour 4, 1 kg de pommes de terre farineuses en lamelles d'environ 3 mm, non essuyées, 25 cl de lait demi-écrémé, 50 cl de crème liquide entière, 2 gousses d'ail, 20 g de beurre, muscade ; précuisson 15 à 20 minutes ; plat frotté avec une gousse coupée en deux et beurré ; 180 °C, environ 25 minutes ; 5 minutes de repos."},
+  {"name": "Mawdoo3 (موضوع, site encyclopédique grand public en arabe), « أنواع الغراتان في الفرن »", "url": "https://mawdoo3.com/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%AA%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D9%81%D8%B1%D9%86", "used_for": "Nom arabe : la liste des gratins donne « غراتان البطاطا Gratin Dauphinois » (gratin de pommes de terre)."},
+  {"name": "Anses (Agence nationale de sécurité sanitaire, France), « Conseils d'hygiène dans la cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020", "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques", "used_for": "Pas plus de 2 heures à température ambiante avant le réfrigérateur ; plats cuisinés : moins de 3 jours ; 4 °C dans la zone la plus froide ; produits laitiers au lait cru (sauf fromages à pâte pressée cuite) fortement déconseillés aux enfants, aux femmes enceintes et aux personnes immunodéprimées."},
+  {"name": "Anses, « Date limite de consommation (DLC) et date de durabilité minimale (DDM) », 4 janvier 2021", "url": "https://www.anses.fr/fr/article/date-limite-consommation-dlc-date-durabilite-minimale-ddm", "used_for": "Après ouverture, suivre la mention « à consommer dans les x jours après ouverture » ; réchauffer dans un récipient couvert jusqu'à ce que la vapeur s'échappe ; 70 °C à cœur élimine la majorité des pathogènes."},
+  {"name": "FSA (Food Standards Agency, agence sanitaire britannique), « Cooking your food », GOV.UK, publié le 18 décembre 2017", "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food", "used_for": "Restes : au réfrigérateur dans les 2 heures, mangés froids ou réchauffés sous 48 heures, ou congelés ; réchauffer une seule fois, jusqu'à être fumant partout ; pour un grand plat, la vapeur doit sortir du centre."},
+  {"name": "FSA, « How to chill, freeze and defrost food safely », GOV.UK", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely", "used_for": "Plats cuisinés et produits laitiers au réfrigérateur, entre 0 et 5 °C ; plats cuits refroidis et mis au réfrigérateur dans les 1 à 2 heures, en petites portions ; restes mangés sous 2 jours ; suivre l'étiquette pour les produits ouverts."},
+  {"name": "BfR (Institut fédéral allemand d'évaluation des risques), communiqué 15/2018 « Solanin in Kartoffeln: Grüne und stark keimende Knollen sollten aussortiert werden », 23 avril 2018", "url": "https://www.bfr.bund.de/presseinformation/solanin-in-kartoffeln-gruene-und-stark-keimende-knollen-sollten-aussortiert-werden/", "used_for": "Pommes de terre gardées au frais, au sec et dans le noir ; ne pas manger les pommes de terre vertes ou très germées ; retirer largement les parties vertes et les « yeux » ; ne pas manger un plat de pommes de terre amer."},
+  {"name": "ACIA (Agence canadienne d'inspection des aliments), « Natural toxins in fresh fruit and vegetables », modifié le 9 décembre 2019", "url": "https://inspection.canada.ca/en/food-safety-consumers/fact-sheets/specific-products-and-risks/fruits-and-vegetables/natural-toxins", "used_for": "La solanine n'est pas détruite par la cuisson ; elle se trouve surtout dans la peau et juste dessous ; éviter les pommes de terre vertes, abîmées ou germées ; éplucher ou couper les parties vertes ; jeter celles qui sont très vertes ; ne pas manger des pommes de terre amères."}
+ ],
+ "discrepancies": [
+  "Fromage : gruyère chez Escoffier (1903), Paul Bocuse et Joël Robuchon (selon Lyon Capitale) ; ni fromage chez Fernand Point, René Fonvieille, le Larousse gastronomique (« le vrai » gratin), Jean-Pierre Barus, Anne-Sophie Pic, Michel Rostang et Régis Aribert (selon Lyon Capitale), ni chez Chef Simon, Alpes Isère, l'Académie du Goût, Meilleur du Chef, legratindauphinois.fr, Jow et Wikilivres. Wikipédia : « Il est admis de nos jours que le gratin dauphinois n'a pas de fromage contrairement au gratin savoyard. » Retenu : sans fromage ; la version d'Escoffier est en variante.",
+  "Œufs : un œuf chez Escoffier, chez Paul Bocuse et dans l'émission Top Chef de 2013, deux œufs chez Fernand Point (selon Lyon Capitale), des œufs dans un sonnet dauphinois de 1895 (Wikipédia) ; un jaune pour dorer, facultatif, chez Wikilivres. Aucune autre source lue n'en met ; René Fonvieille écrit que les œufs laissent des caillots et ôtent le moelleux (selon Lyon Capitale). Retenu : sans œufs.",
+  "Lait ou crème : lait seul chez Escoffier ; lait entier de la ferme à l'origine selon Catherine Roig (Wikipédia) ; crème seule pour le Larousse gastronomique (selon Lyon Capitale) et l'Oustau de Baumanière (Wikipédia) ; lait et crème chez toutes les autres sources (Lyon Capitale, Alpes Isère, Académie du Goût, Alain Ducasse, École Ducasse, Michel Rostang, Hélène Darroze, Chef Simon, Meilleur du Chef, legratindauphinois.fr, Jow, Wikilivres). Retenu : lait entier et crème, version majoritaire.",
+  "Proportions par kilo de pommes de terre (calcul python) : lait de 250 à 750 ml, médiane 500 ml (exactement 500 ml chez l'Académie du Goût et Alain Ducasse) ; crème de 0 à 1 000 ml, médiane 300 ml, valeur la plus fréquente 250 ml (Alpes Isère, Wikilivres, Alain Ducasse) ; liquide total médian 750 ml. Retenu : 500 ml de lait et 250 ml de crème, soit les 750 ml médians. Conversions : 25 cl = 250 ml ; 50 cl = 500 ml ; 1/2 l = 500 ml ; 1/4 l = 250 ml ; 30 cl = 300 ml ; 15 cl = 150 ml ; 3/4 de litre = 750 ml.",
+  "Pommes de terre par personne : de 125 g (Michel Rostang, en garniture) à 333 g (Alain Ducasse), médiane 250 g (calcul python). Retenu : 1 kg pour 4, comme Alpes Isère, l'Académie du Goût, l'École Ducasse, Wikilivres et la version d'Anne-Sophie Pic.",
+  "Ail : une gousse pour frotter le plat seulement (Alpes Isère, legratindauphinois.fr), deux gousses (Académie du Goût, École Ducasse, Meilleur du Chef, version Pic), quatre pour 1,5 kg (Chef Simon) ; médiane 2 gousses par kilo (calcul python). Retenu : une gousse pour le plat, une gousse hachée dans le lait (Académie du Goût, Wikilivres, version Pic).",
+  "Beurre : 20 g par kilo (Académie du Goût, École Ducasse, version Pic) ; « une noix » ou « des noisettes » ailleurs. Retenu : 20 g.",
+  "Muscade : présente chez Escoffier, Alpes Isère, l'Académie du Goût, Alain Ducasse, Meilleur du Chef, legratindauphinois.fr et Wikilivres ; « surtout pas de muscade » selon la mère du chef Christophe Aribert (Lyon Capitale) ; facultative chez Chef Simon. Retenue, mais facultative.",
+  "Épaisseur : 1,5 mm (Lyon Capitale), 2 mm (Alpes Isère, Wikilivres), 3 mm (Alain Ducasse, Wikipédia, version Pic), 3 à 4 mm (Meilleur du Chef), 4 mm (École Ducasse), 5 mm (Jow) ; médiane 3 mm (calcul python). Retenu : environ 3 mm.",
+  "Variété : chair ferme ou fondante (Chef Simon, Jow, Académie du Goût, Wikilivres, legratindauphinois.fr, Hélène Darroze, Wikipédia) ; chair farineuse (recette de Lyon Capitale, version Pic) ; Bintje citée par Jean-Pierre Barus (selon Lyon Capitale) et par Meilleur du Chef, qui la range parmi les chairs fermes alors qu'il la prend pour la purée de son hachis parmentier. Retenu : chair ferme ou fondante, version majoritaire.",
+  "Méthode : pommes de terre crues, cuites lentement au four (Lyon Capitale, Alpes Isère, Académie du Goût, legratindauphinois.fr, Wikilivres, Hélène Darroze, Escoffier) ou précuites dans le lait (Alain Ducasse, Chef Simon, Meilleur du Chef, Jow, version Pic ; possible selon Wikipédia). Retenu : cuisson crue au four, version majoritaire et celle de la recette locale d'Alpes Isère ; la précuisson est en variante.",
+  "Four : 150 °C pendant 2 h (Académie du Goût) ou 2 h 30 à 3 h (legratindauphinois.fr), 160 °C pendant 1 h 30 à 2 h (Alpes Isère) ou au moins 1 h 30 (Hélène Darroze), « assez chaud » puis modéré, 45 minutes à 1 heure ou plus (Lyon Capitale), chaleur moyenne 40 à 45 minutes (Escoffier 1903 ; Wikipédia cite « 40 min au minimum »), au moins 1 heure (Wikilivres). Retenu : 160 °C pendant 1 h 30, jusqu'à 2 h, la seule combinaison donnée par deux sources ; conversion : 1 h 30 = 90 minutes (calcul python).",
+  "Lavage : les pommes de terre entières sont lavées après l'épluchage chez Alpes Isère, l'Académie du Goût, legratindauphinois.fr et Chef Simon (lavées puis essuyées chez Alain Ducasse) ; Jean-François Piège veut des rondelles « non lavées, non essuyées » (Wikipédia). Toutes les sources s'accordent à ne pas rincer les rondelles. Retenu : lavage rapide des pommes de terre entières, jamais des rondelles.",
+  "Lieu du dîner de 1788 : à Gap selon Meilleur du Chef ; Lyon Capitale parle d'officiers municipaux de Gap « mandatés à Grenoble ». Le lieu n'est pas retenu dans la recette.",
+  "Repos avant de servir : 15 minutes (Chef Simon), 5 minutes (version Pic). Retenu : « quelques minutes », sans durée.",
+  "Halal : le plat traditionnel ne contient ni viande ni alcool ; seules les variantes au fromage (choisir un coagulant microbien) et au consommé (bouillon certifié halal) demandent une attention."
+ ],
+ "unverified": [
+  "Nom arabe « غراتان البطاطا » : trouvé seulement sur Mawdoo3, site grand public ; il veut dire « gratin de pommes de terre », un nom générique. Wikipédia n'a pas d'article arabe sur ce plat. Aucun nom en darija trouvé dans une source : laissé vide.",
+  "Temps de l'appli : 25 minutes de préparation (Alpes Isère ; 20 minutes chez legratindauphinois.fr) et 90 minutes de cuisson (jusqu'à 2 heures selon les pommes de terre).",
+  "Aucune recette officielle de la Confrérie du gratin dauphinois n'a été trouvée.",
+  "Les livres cités par Lyon Capitale et Wikipédia (Fonvieille, Larousse gastronomique, Fernand Point, Bocuse, Robuchon, Barus, Piège, Maguet, Roig, Bertholle, Karsenty, Prudhomme) n'ont pas été lus directement : leurs positions sont rapportées « selon Lyon Capitale » ou « selon Wikipédia ».",
+  "La version d'Anne-Sophie Pic n'a été lue que dans la reproduction d'un membre de Chef Simon (Jackie) ; sa vidéo n'a pas été regardée.",
+  "Recettes de l'École Ducasse et de Michel Rostang : seuls les ingrédients sont visibles, les étapes sont réservées aux abonnés.",
+  "Sites non utilisés : Marie Claire (« La vraie recette du gratin dauphinois »), Marmiton, Cuisine AZ, Cuisine Actuelle, Femme Actuelle et Régal (domaines refusés à l'agent d'Anthropic par l'outil de recherche) ; Le Dauphiné libéré, France 3 Régions, France Bleu (ici), Radio France, Slate (« La vraie recette du gratin dauphinois »), Le Figaro, Le Monde, Ouest-France et Edarabia (leur robots.txt interdit les robots de Claude ou d'Anthropic) ; Gallica (erreur 403), donc les livres anciens cités par Wikipédia n'ont pas été lus.",
+  "Durée de conservation des restes : 48 heures pour la FSA, moins de 3 jours pour l'Anses (pour un plat cuisiné) ; la recette donne la durée la plus courte.",
+  "Congélation du gratin : aucune source lue n'en parle ; elle n'est pas proposée.",
+  "Disponibilité au Maroc des variétés citées (Charlotte, Monalisa, Amandine, Spunta) et de la crème liquide entière à 30 % : non vérifiée ; regarde le pourcentage de matière grasse sur l'étiquette."
+ ]
+}

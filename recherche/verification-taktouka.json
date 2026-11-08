@@ -1,0 +1,85 @@
+{
+ "slug": "taktouka",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Lalla Moulati, astuce « أسهل وأسرع طريقة لإزالة قشور الفلفل المشوي », 19 décembre 2023",
+   "url": "https://www.lalamoulati.net/370322.html",
+   "ce_qu_elle_confirme": "Source marocaine non citée : poivrons grillés au charbon ou au gaz, très aimés au Maroc en salade avec la tomate ; mis dans un sac plastique épais. Mais elle les lave ensuite dans le sac rempli d'eau : le « jamais sous l'eau » n'est pas une règle partagée."
+  },
+  {
+   "name": "Wikipédia (fr), « Chakchouka », section Maroc",
+   "url": "https://fr.wikipedia.org/wiki/Chakchouka",
+   "ce_qu_elle_confirme": "Au Maroc, la chakchouka (poivron vert, tomate, ail) « peut être servie seule en salade cuite, ou chaude servie avec des œufs » : source directe du point « Nom »."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "mistakes[0]",
+   "actuel": "ils perdent leur goût fumé et la peau s'enlève moins bien",
+   "propose": "pèle-les à sec ; après 10 minutes dans le sac, la peau s'enlève facilement sans eau",
+   "pourquoi": "Aucune source ne dit que l'eau fait perdre le goût fumé ou rend la peau plus difficile à enlever ; Lalla Moulati 2023 lave même les poivrons dans le sac. Choumicha dit seulement que le sac permet d'enlever facilement la peau sans les laver.",
+   "gravite": "majeure",
+   "sources": "Choumicha 629 ; Lalla Moulati 3552 et 190612 ; Lalla Moulati 370322"
+  },
+  {
+   "champ": "secrets[2].text",
+   "actuel": "Ne passe jamais les poivrons grillés sous l'eau",
+   "propose": "Ne passe pas les poivrons grillés sous l'eau",
+   "pourquoi": "Conseil bien sourcé, mais pas absolu : Lalla Moulati (2023) rince les poivrons dans le sac rempli d'eau.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati 3552, 190612 et 370322 ; Choumicha 629"
+  },
+  {
+   "champ": "variants[8]",
+   "actuel": "on se rapproche alors de la chakchouka.",
+   "propose": "on se rapproche alors de la chakchouka (selon Rachida, la chakchouka ressemble beaucoup à la taktouka, qui est sans œufs).",
+   "pourquoi": "Wikipédia (fr) dit seulement que certains ajoutent oignons et œufs ; le rapprochement avec la chakchouka n'y est pas écrit, il vient de Rachida.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (fr) « Taktouka » ; Rachida, « Best Shakshuka Recipe »"
+  },
+  {
+   "champ": "discrepancies[17]",
+   "actuel": "(voir la fiche chakchouka de l'appli)",
+   "propose": "(Wikipédia fr, « Chakchouka », section Maroc : seule en salade cuite, ou chaude avec des œufs)",
+   "pourquoi": "Citer la source primaire plutôt qu'une autre fiche de l'appli.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (fr) « Chakchouka », section Maroc"
+  },
+  {
+   "champ": "secrets[5].source",
+   "actuel": "Cooking With Alia (n° 440)",
+   "propose": "Cooking With Alia (n° 440 : 200 °C, sans préciser le gril) ; MarocMama (gril du four, en les retournant souvent)",
+   "pourquoi": "Cooking With Alia 440 donne seulement « in the oven at 400 F / 200 C » ; le gril et le retournement viennent de Rachida et de MarocMama.",
+   "gravite": "mineure",
+   "sources": "Cooking With Alia n° 440 ; Rachida ; MarocMama"
+  },
+  {
+   "champ": "serving",
+   "actuel": "Cooking With Alia ; Lalla Moulati ; Wikipédia), en entrée",
+   "propose": "Cooking With Alia ; Wikipédia ; chaude ou froide chez Lalla Moulati), en entrée",
+   "pourquoi": "Lalla Moulati écrit « تقدم ساخنة أو باردة » (chaude ou froide), pas tiède.",
+   "gravite": "mineure",
+   "sources": "Lalla Moulati 3552 et 190612"
+  }
+ ],
+ "verifie_sans_correction": [
+  "Proportions recalculées (python) : médianes 2 poivrons, 4 tomates, 2 gousses, 4 c. à s. d'huile (⅓ de tasse = 78,9 ml ≈ 5,3 c. à s.), 1 c. à c. de paprika et de cumin, ½ de poivre, 1 de sel ; herbes 2,5 -> 2 c. à s. ; sac 10 min ; 400 °F = 204 °C : justes.",
+  "Temps : 20 + 20 min comme MarocMama, total 40 min comme Choumicha ; les minuteurs (sac 10 + 10 + 10) collent si le grillage (non chronométré) et le sac comptent dans la préparation, les tomates se préparant pendant le sac.",
+  "Méthode conforme : peau noire et craquelée à feu vif (Cooking With Alia 125), chair molle (Cooking With Alia 440, My Moroccan Food), sac 10 min (Choumicha 629, Cooking With Alia 396), tomates 10 min à couvert puis poivrons 10 min à découvert jusqu'à évaporation (My Moroccan Food), mains rincées (Lalla Moulati 2019), risque de feu sous le gril (MarocMama).",
+  "Halal : aucun ingrédient à problème.",
+  "Sécurité : restes froids s'ils sont au frais dans les 2 h, mangés sous 48 h (FSA) ; boîte couverte, règle des 2 h (FDA) : conformes.",
+  "Secrets et service relus : goût fumé (My Moroccan Food « delicate smokiness » ; aussi Morocco World News « smoked bell peppers »), sucre facultatif (My Moroccan Food), lanières en cercle et olive noire (Lalla Moulati 2019), citron confit en décor (Cooking With Alia 125), pain « à la marocaine », sandwich, grillades ou poisson (My Moroccan Food), poulet et mezze (MarocMama), différente de la chakchouka (My Moroccan Food ; Rachida).",
+  "Variantes conformes aux pages (Choumicha 465 et 1413, Lalla Moulati, Cooking With Alia 125 et 440, My Moroccan Food, MarocMama, Morocco World News), sauf la phrase corrigée.",
+  "Noms : تكتوكة (Wikipédia en et ary ; Lalla Moulati) ; « Taktouka » (My Moroccan Food, Cooking With Alia, Bladi.net, Morocco World News) ; « Tektouka » chez Choumicha.",
+  "Liens : les 21 URL répondent (200 ; Choumicha via web.archive.org) ; Morocco World News : 403 à curl, sans copie Wayback, lu avec l'outil de lecture web (robots.txt archivé « Allow: / »).",
+  "Rendu appli pour 1, 4 et 8 personnes : quantités justes ; poivrons arrondis au supérieur (1 poivron pour 1 tomate à 1 personne) ; « mets-les » reste au pluriel à 1 personne : acceptable."
+ ],
+ "non_verifiable": [
+  "Recherche web impossible (quota épuisé) : recherches internes seulement (Lalla Moulati : pas d'autre taktouka ; Femmes du Maroc : aucune). Hespress et Le Matin (robots.txt derrière un défi Cloudflare, 403) et chhiwat.com (connexion impossible) n'ont pas été consultés.",
+  "Durée du grillage sur la flamme ou au four : aucune source ne la chiffre pour la taktouka (Cooking With Alia 396 : 20 + 20 min à 200 °C pour une autre salade de poivrons).",
+  "Durée de conservation propre à la taktouka : aucune recette ne la donne ; les 48 h viennent de la règle générale de la FSA.",
+  "Sac après le four : Rachida le dit « pas nécessaire » après le four, Cooking With Alia (396) l'utilise : la recette peut garder le sac pour les deux méthodes.",
+  "Choumicha lu seulement sur web.archive.org (site en erreur 525) ; Morocco World News lu par l'outil de lecture web (citations rapportées), pas dans le HTML brut."
+ ]
+}

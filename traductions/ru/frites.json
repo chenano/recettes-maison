@@ -1,0 +1,466 @@
+{
+ "_slug": "frites",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Frites maison",
+   "t": "Домашний картофель фри"
+  },
+  "darija": {
+   "fr": "btata mqliya, ou « frit »",
+   "t": "бтата мклия, или «фрит»"
+  },
+  "tagline": {
+   "fr": "Croustillantes dehors, fondantes dedans : les frites maison cuites deux fois, comme dans les friteries belges.",
+   "t": "Хрустящий снаружи, мягкий внутри: домашний картофель фри, обжаренный дважды, как в бельгийских фритюрных."
+  },
+  "region": {
+   "fr": "Belgique et nord de la France : les deux pays se disputent son origine (Wikipédia). En Belgique, la culture des friteries (le « fritkot ») est reconnue patrimoine culturel immatériel par la Communauté flamande (2014), la Fédération Wallonie-Bruxelles (2016), puis la Communauté germanophone et la Région de Bruxelles-Capitale (2017) (Navefri-Unafri, union nationale des frituristes).",
+   "t": "Бельгия и север Франции: обе страны спорят о его происхождении (Wikipédia). В Бельгии культура фритюрных («фриткот») признана нематериальным культурным наследием Фламандским сообществом (2014), Федерацией Валлония-Брюссель (2016), а затем Немецкоязычным сообществом и Брюссельским столичным регионом (2017) (Navefri-Unafri, национальный союз владельцев фритюрных)."
+  },
+  "occasion": {
+   "fr": "Accompagnement de tous les jours : steak, poulet, poisson, boulettes. En Belgique et en France, ce sont le steak-frites et les moules-frites (Wikipédia, VLAM) ; au Maroc, les frites accompagnent aussi des plats, par exemple posées sur le poulet en sauce (Bladi.net). Chaque année en novembre, la Belgique fête la frite : Semaine de la Frite en Wallonie, Week van de Friet en Flandre (Apaq-W, VLAM).",
+   "t": "Гарнир на каждый день: к стейку, курице, рыбе, фрикаделькам. В Бельгии и во Франции это стейк с картофелем фри и мидии с картофелем фри (Wikipédia, VLAM); в Марокко картофель фри тоже подают к блюдам, например выкладывают поверх курицы в соусе (Bladi.net). Каждый год в ноябре Бельгия празднует картофель фри: Semaine de la Frite в Валлонии, Week van de Friet во Фландрии (Apaq-W, VLAM)."
+  },
+  "img_alt": {
+   "fr": "Frites maison dorées, coupées en gros bâtonnets, sur une assiette",
+   "t": "Золотистый домашний картофель фри, нарезанный толстыми брусочками, на тарелке"
+  },
+  "serving": {
+   "fr": "Sers les frites aussitôt, brûlantes et sans les couvrir, fournée après fournée (Chef Simon, Meilleur du Chef). En Belgique, on les mange en cornet ou en barquette, avec de la mayonnaise, la sauce préférée des Belges (Apaq-W, VLAM, Wikipédia) ; ketchup et moutarde sont aussi classiques (Wikipédia). Elles accompagnent le steak, les moules ou les boulettes (Wikipédia, VLAM), et au Maroc, par exemple, le poulet en sauce (Bladi.net). Écarte les frites trop brunes (Anses), et garde-les pour le plaisir : l'Anses conseille une alimentation modérée en aliments gras et frits.",
+   "t": "Подавайте картофель фри сразу, обжигающе горячим и не накрывая, партию за партией (Chef Simon, Meilleur du Chef). В Бельгии его едят из бумажного кулька или лоточка с майонезом — любимым соусом бельгийцев (Apaq-W, VLAM, Wikipédia); кетчуп и горчица тоже классика (Wikipédia). Его подают к стейку, мидиям или фрикаделькам (Wikipédia, VLAM), а в Марокко, например, к курице в соусе (Bladi.net). Откладывайте слишком тёмные брусочки (Anses), и пусть картофель фри остаётся удовольствием: Anses советует умеренно есть жирную и жареную пищу."
+  },
+  "ing.0.group": {
+   "fr": "Frites",
+   "t": "Картофель фри"
+  },
+  "ing.pdt.name": {
+   "fr": "de pommes de terre à chair farineuse",
+   "t": "рассыпчатого картофеля"
+  },
+  "ing.pdt.note": {
+   "fr": "type Bintje ou Agria",
+   "t": "типа Bintje или Agria"
+  },
+  "ing.huile.name": {
+   "fr": "huile végétale de friture (tournesol ou arachide)",
+   "t": "растительное масло для фритюра (подсолнечное или арахисовое)"
+  },
+  "ing.huile.note": {
+   "fr": "assez pour que les frites nagent ; 100 % végétale : ni saindoux, ni graisse de bœuf non certifiée halal ; si quelqu'un est allergique à l'arachide, prends du tournesol (l'arachide est un allergène, règlement UE 1169/2011)",
+   "t": "столько, чтобы картофель плавал; только растительное, 100 %: ни свиного жира, ни говяжьего жира без сертификата халяль; если у кого-то аллергия на арахис, берите подсолнечное (арахис — аллерген, регламент ЕС 1169/2011)"
+  },
+  "ing.sel.name": {
+   "fr": "sel fin",
+   "t": "мелкая соль"
+  },
+  "ing.sel.note": {
+   "fr": "selon le goût",
+   "t": "по вкусу"
+  },
+  "equipment.0": {
+   "fr": "Une friteuse électrique avec thermostat : c'est le plus sûr (London Fire Brigade, gouvernement du Québec)",
+   "t": "Электрическая фритюрница с термостатом: это самый безопасный вариант (London Fire Brigade, правительство Квебека)"
+  },
+  "equipment.1": {
+   "fr": "À défaut : une casserole profonde, un thermomètre de cuisson et une écumoire (casserole remplie au tiers au plus) ; le gouvernement du Québec déconseille la casserole et les pompiers de Cambridgeshire conseillent plutôt le four",
+   "t": "Если её нет: глубокая кастрюля, кулинарный термометр и шумовка (кастрюлю заполняют маслом не больше чем на треть); правительство Квебека не советует жарить в кастрюле, а пожарные Кембриджшира советуют лучше духовку"
+  },
+  "equipment.2": {
+   "fr": "Un couvercle (ou une plaque) assez grand pour couvrir la friteuse ou la casserole, toujours à portée de main",
+   "t": "Крышка (или противень), достаточно большая, чтобы закрыть фритюрницу или кастрюлю, — всегда под рукой"
+  },
+  "equipment.3": {
+   "fr": "Un économe et un grand couteau, ou un coupe-frites",
+   "t": "Овощечистка и большой нож или картофелерезка для фри"
+  },
+  "equipment.4": {
+   "fr": "Une planche à découper",
+   "t": "Разделочная доска"
+  },
+  "equipment.5": {
+   "fr": "Un grand saladier d'eau froide",
+   "t": "Большая миска с холодной водой"
+  },
+  "equipment.6": {
+   "fr": "Des torchons propres et secs, et du papier absorbant",
+   "t": "Чистые сухие кухонные полотенца и бумажные полотенца"
+  },
+  "equipment.7": {
+   "fr": "Une grande plaque ou un grand plat pour le repos des frites",
+   "t": "Большой противень или большое блюдо, чтобы картофель отдыхал"
+  },
+  "equipment.8": {
+   "fr": "Un minuteur",
+   "t": "Таймер"
+  },
+  "steps.0.title": {
+   "fr": "Épluche les pommes de terre",
+   "t": "Очистите картофель"
+  },
+  "steps.0.text": {
+   "fr": "Lave {{pdt:full}} si elles sont terreuses, puis épluche-les à l'économe. Retire les taches et les germes. Au fur et à mesure, mets-les dans un grand saladier d'eau froide.",
+   "t": "Вымойте {{pdt:full}}, если он в земле, затем очистите овощечисткой. Удалите пятна и ростки. По мере очистки кладите клубни в большую миску с холодной водой."
+  },
+  "steps.0.tip": {
+   "fr": "L'eau froide les empêche de noircir en attendant (Meilleur du Chef) ; Chef Simon les garde aussi dans l'eau froide avant de les tailler.",
+   "t": "Холодная вода не даёт им потемнеть, пока они ждут (Meilleur du Chef); Chef Simon тоже держит их в холодной воде, прежде чем нарезать."
+  },
+  "steps.1.title": {
+   "fr": "Taille les bâtonnets",
+   "t": "Нарежьте брусочки"
+  },
+  "steps.1.text": {
+   "fr": "Coupe chaque pomme de terre en tranches d'1 cm d'épaisseur, puis chaque tranche en bâtonnets d'1 cm de côté, bien réguliers. Remets-les dans l'eau froide.",
+   "t": "Нарежьте каждую картофелину ломтиками толщиной 1 см, затем каждый ломтик — ровными брусочками со стороной 1 см. Снова положите их в холодную воду."
+  },
+  "steps.1.tip": {
+   "fr": "C'est la taille « pont-neuf », la frite classique (Escoffier, Chef Simon, Meilleur du Chef). Les frituristes belges la comparent à une réglette d'1 cm (Navefri-Unafri). Tu peux aussi utiliser un coupe-frites à grille de 1 cm (Wikipédia).",
+   "t": "Это нарезка «пон-нёф», классический картофель фри (Escoffier, Chef Simon, Meilleur du Chef). Бельгийские мастера фритюра сравнивают её с линейкой шириной 1 см (Navefri-Unafri). Можно также воспользоваться картофелерезкой с решёткой 1 см (Wikipédia)."
+  },
+  "steps.2.title": {
+   "fr": "Rince à l'eau froide",
+   "t": "Промойте холодной водой"
+  },
+  "steps.2.text": {
+   "fr": "Égoutte les bâtonnets et rince-les bien sous l'eau froide, pour enlever l'excès d'amidon.",
+   "t": "Откиньте брусочки и хорошо промойте их под холодной водой, чтобы удалить лишний крахмал."
+  },
+  "steps.2.tip": {
+   "fr": "Si tu as le temps, laisse-les d'abord tremper dans l'eau froide, puis rince-les à l'eau propre : le règlement européen sur l'acrylamide (2017/2158) demande aux restaurants, quand c'est possible, de les faire tremper de préférence 30 minutes à 2 heures dans l'eau froide (ou quelques minutes dans l'eau chaude), puis de les rincer, pour réduire leurs sucres ; l'agence irlandaise (FSAI) conseille aussi aux particuliers de les faire tremper, puis de bien les égoutter.",
+   "t": "Если есть время, сначала замочите их в холодной воде, затем промойте чистой водой: европейский регламент по акриламиду (2017/2158) требует от ресторанов, когда это возможно, замачивать картофель предпочтительно на срок от 30 минут до 2 часов в холодной воде (или на несколько минут в горячей), а затем промывать, чтобы уменьшить содержание сахаров; ирландское агентство (FSAI) тоже советует домашним поварам замачивать картофель, а затем дать воде хорошо стечь."
+  },
+  "steps.3.title": {
+   "fr": "Sèche-les soigneusement",
+   "t": "Тщательно обсушите"
+  },
+  "steps.3.text": {
+   "fr": "Étale les frites sur un torchon propre et sec et tamponne-les bien, sur toutes les faces. Finis au papier absorbant si besoin : elles doivent être bien sèches.",
+   "t": "Разложите брусочки на чистом сухом полотенце и хорошо промокните со всех сторон. При необходимости досушите бумажными полотенцами: они должны быть совсем сухими."
+  },
+  "steps.3.tip": {
+   "fr": "C'est aussi une question de sécurité : l'eau fait bouillonner l'huile, qui peut déborder (pompiers de Cambridgeshire, London Fire Brigade). Elle fait aussi baisser la température de l'huile (Wikipédia).",
+   "t": "Это ещё и вопрос безопасности: от воды масло бурно пенится и может перелиться через край (пожарные Кембриджшира, London Fire Brigade). Кроме того, вода снижает температуру масла (Wikipédia)."
+  },
+  "steps.4.title": {
+   "fr": "Chauffe l'huile à 140 °C",
+   "t": "Разогрейте масло до 140 °C"
+  },
+  "steps.4.text": {
+   "fr": "Remplis la friteuse d'{{huile}} comme l'indique sa notice et règle-la sur 140 °C. Sans friteuse, prends une casserole profonde : remplis-la au tiers au plus et contrôle la température avec un thermomètre de cuisson. Pose un couvercle adapté à portée de main. À partir de maintenant, ne quitte plus l'huile des yeux.",
+   "t": "Налейте во фритюрницу растительное масло для фритюра, как указано в инструкции, и установите 140 °C. Если фритюрницы нет, возьмите глубокую кастрюлю: заполните её не больше чем на треть и контролируйте температуру кулинарным термометром. Держите подходящую крышку под рукой. С этого момента не спускайте глаз с масла."
+  },
+  "steps.4.tip": {
+   "fr": "Si l'huile prend feu : jamais d'eau, et ne déplace pas le récipient. Si tu peux le faire sans danger, coupe le chauffage et pose le couvercle dessus, puis laisse le récipient refroidir au moins 30 minutes sans y toucher. Sinon, sors, ferme la porte et appelle les pompiers. Appelle-les aussi si le feu semble éteint : il a pu gagner le conduit de la hotte (gouvernement du Québec, USFA, London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Если масло загорелось: никакой воды и не передвигайте ёмкость. Если это можно сделать без опасности, выключите нагрев и накройте ёмкость крышкой, затем оставьте её остывать не меньше 30 минут, не трогая. Если нельзя, выйдите, закройте дверь и вызовите пожарных. Вызовите их, даже если огонь, кажется, погас: он мог перекинуться в воздуховод вытяжки (правительство Квебека, USFA, London Fire Brigade, пожарные Кембриджшира)."
+  },
+  "steps.5.title": {
+   "fr": "Première cuisson",
+   "t": "Обжарьте в первый раз"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'huile est à 140 °C, plonge une première fournée, panier rempli à moitié au plus. Laisse cuire 7 minutes environ. Les frites doivent devenir molles, sans prendre de couleur.",
+   "t": "Когда масло нагреется до 140 °C, опустите первую партию, заполнив корзину не больше чем наполовину. Жарьте примерно 7 минут. Картофель должен стать мягким, но не подрумяниться."
+  },
+  "steps.5.tip": {
+   "fr": "Ce premier bain « poche » les frites et chasse leur humidité (Navefri-Unafri). Si elles colorent déjà, l'huile est trop chaude.",
+   "t": "Эта первая обжарка «припускает» картофель и выгоняет из него влагу (Navefri-Unafri). Если он уже начал румяниться, масло слишком горячее."
+  },
+  "steps.5.timer.label": {
+   "fr": "Première cuisson",
+   "t": "Первая обжарка"
+  },
+  "steps.5.timer.done": {
+   "fr": "Sors le panier : les frites doivent être molles et encore pâles.",
+   "t": "Выньте корзину: картофель должен быть мягким и ещё бледным."
+  },
+  "steps.5.img.alt": {
+   "fr": "Frites encore pâles qui cuisent dans un panier plongé dans l'huile, sur le feu",
+   "t": "Ещё бледный картофель фри жарится в корзине, опущенной в масло, на огне"
+  },
+  "steps.5.img.caption": {
+   "fr": "Les frites dans le bain d'huile",
+   "t": "Картофель во фритюре"
+  },
+  "steps.6.title": {
+   "fr": "Égoutte et continue",
+   "t": "Дайте стечь маслу и продолжайте"
+  },
+  "steps.6.text": {
+   "fr": "Sors le panier, secoue-le et étale les frites sur du papier absorbant. Attends que l'huile revienne à 140 °C, puis fais cuire les autres fournées de la même façon.",
+   "t": "Выньте корзину, встряхните её и разложите картофель на бумажных полотенцах. Подождите, пока масло снова нагреется до 140 °C, и так же обжарьте остальные партии."
+  },
+  "steps.6.tip": {
+   "fr": "Un panier trop plein fait chuter la température de l'huile : les frites collent et deviennent grasses (Wikipédia, FSA).",
+   "t": "В переполненной корзине температура масла резко падает: картофель слипается и становится жирным (Wikipédia, FSA)."
+  },
+  "steps.7.title": {
+   "fr": "Laisse reposer",
+   "t": "Дайте картофелю отдохнуть"
+  },
+  "steps.7.text": {
+   "fr": "Laisse les frites refroidir complètement à l'air libre, environ 30 minutes. Elles peuvent attendre jusqu'à 1 à 2 heures. Si tu quittes la cuisine, éteins la friteuse.",
+   "t": "Дайте картофелю полностью остыть на открытом воздухе, примерно 30 минут. Он может подождать до 1–2 часов. Если уходите из кухни, выключите фритюрницу."
+  },
+  "steps.7.tip": {
+   "fr": "Pendant ce repos, une fine croûte se forme (Semaine de la Frite). Et plus les frites ont refroidi, plus le choc de chaleur du second bain est fort : elles saisissent vite et deviennent croustillantes et dorées (Navefri-Unafri).",
+   "t": "Во время отдыха образуется тонкая корочка (Semaine de la Frite). И чем сильнее остыл картофель, тем сильнее тепловой удар при второй обжарке: он быстро схватывается и становится хрустящим и золотистым (Navefri-Unafri)."
+  },
+  "steps.8.title": {
+   "fr": "Monte l'huile à 175 °C",
+   "t": "Нагрейте масло до 175 °C"
+  },
+  "steps.8.text": {
+   "fr": "Juste avant de servir, règle la friteuse sur 175 °C, pas plus ; avec une casserole, surveille le thermomètre. Si l'huile fume, elle est trop chaude : coupe le chauffage et laisse-la refroidir.",
+   "t": "Прямо перед подачей установите на фритюрнице 175 °C, не больше; в кастрюле следите за термометром. Если масло дымится, оно перегрето: выключите нагрев и дайте ему остыть."
+  },
+  "steps.8.tip": {
+   "fr": "Au-delà de 175 °C, la quantité d'acrylamide dans les frites peut fortement augmenter (EFSA). C'est aussi le plafond fixé par l'Europe pour les restaurants (règlement 2017/2158) et par l'agence irlandaise de sécurité des aliments (FSAI).",
+   "t": "Выше 175 °C количество акриламида в картофеле фри может резко возрасти (EFSA). Это также верхний предел, установленный Европой для ресторанов (регламент 2017/2158) и ирландским агентством по безопасности пищевых продуктов (FSAI)."
+  },
+  "steps.9.title": {
+   "fr": "Seconde cuisson",
+   "t": "Обжарьте во второй раз"
+  },
+  "steps.9.text": {
+   "fr": "Plonge une fournée, toujours panier à moitié au plus, et compte 2 minutes. Les frites doivent être croustillantes et jaune doré. Sinon, prolonge un peu en surveillant la couleur, et sors-les dès qu'elles sont jaune doré.",
+   "t": "Опустите партию, по-прежнему заполнив корзину не больше чем наполовину, и засеките 2 минуты. Картофель должен стать хрустящим и золотисто-жёлтым. Если нет, жарьте ещё немного, следя за цветом, и выньте, как только он станет золотисто-жёлтым."
+  },
+  "steps.9.tip": {
+   "fr": "Vise le jaune doré, pas le brun : plus une frite brunit, plus elle contient d'acrylamide, une substance qui pourrait augmenter le risque de cancer (FSA, EFSA, règlement UE 2017/2158).",
+   "t": "Добивайтесь золотисто-жёлтого, а не коричневого цвета: чем темнее картофель фри, тем больше в нём акриламида — вещества, которое может повышать риск рака (FSA, EFSA, регламент ЕС 2017/2158)."
+  },
+  "steps.9.timer.label": {
+   "fr": "Seconde cuisson",
+   "t": "Вторая обжарка"
+  },
+  "steps.9.timer.done": {
+   "fr": "Regarde la couleur : jaune doré ? Sors-les tout de suite.",
+   "t": "Посмотрите на цвет: золотисто-жёлтый? Сразу выньте."
+  },
+  "steps.10.title": {
+   "fr": "Secoue et sale",
+   "t": "Встряхните и посолите"
+  },
+  "steps.10.text": {
+   "fr": "Sors le panier et secoue-le bien au-dessus de l'huile. Verse les frites sur du papier absorbant et sale-les aussitôt avec un peu de {{sel}}, pendant qu'elles sont brûlantes. Ne les couvre pas.",
+   "t": "Выньте корзину и хорошо встряхните её над маслом. Высыпьте картофель на бумажные полотенца и сразу, пока он обжигающе горячий, посолите небольшим количеством мелкой соли. Не накрывайте его."
+  },
+  "steps.10.tip": {
+   "fr": "Secouer le panier fait tomber l'huile de surface : la FSA parle de 20 % de gras absorbé en moins. Dans les friteries belges, on secoue et on tape le récipient pour les égoutter (Wikipédia).",
+   "t": "Когда встряхиваете корзину, масло с поверхности стекает: по данным FSA, картофель впитывает на 20 % меньше жира. В бельгийских фритюрных ёмкость встряхивают и постукивают по ней, чтобы стекло масло (Wikipédia)."
+  },
+  "steps.11.title": {
+   "fr": "Cuis les autres fournées",
+   "t": "Обжарьте остальные партии"
+  },
+  "steps.11.text": {
+   "fr": "Laisse l'huile remonter à 175 °C, puis fais cuire les autres fournées de la même façon. Sers chaque fournée dès qu'elle est prête.",
+   "t": "Дайте маслу снова нагреться до 175 °C, затем так же обжарьте остальные партии. Подавайте каждую партию, как только она готова."
+  },
+  "steps.12.title": {
+   "fr": "Éteins et laisse refroidir l'huile",
+   "t": "Выключите фритюрницу и дайте маслу остыть"
+  },
+  "steps.12.text": {
+   "fr": "Éteins la friteuse dès la dernière fournée sortie. Laisse l'huile refroidir complètement avant de la déplacer ou de la filtrer.",
+   "t": "Выключите фритюрницу, как только вынете последнюю партию. Дайте маслу полностью остыть, прежде чем переносить или процеживать его."
+  },
+  "steps.12.tip": {
+   "fr": "Filtre l'huile refroidie, garde-la dans un récipient fermé et change-la souvent (Chef Simon : toutes les 4 à 7 utilisations). Évite d'y frire du poisson : l'huile garde les goûts (Chef Simon).",
+   "t": "Процедите остывшее масло, храните его в закрытой ёмкости и часто меняйте (Chef Simon: каждые 4–7 использований). Не жарьте в нём рыбу: масло сохраняет запахи (Chef Simon)."
+  },
+  "steps.13.title": {
+   "fr": "Sers aussitôt",
+   "t": "Сразу подавайте"
+  },
+  "steps.13.text": {
+   "fr": "Sers les frites tout de suite, bien chaudes, avec la sauce de ton choix : mayonnaise, ketchup ou moutarde.",
+   "t": "Подавайте картофель фри сразу, горячим, с соусом на ваш выбор: майонезом, кетчупом или горчицей."
+  },
+  "steps.13.tip": {
+   "fr": "Écarte les frites trop brunes ou brûlées : ce sont les plus riches en acrylamide (Anses).",
+   "t": "Откладывайте слишком тёмные или подгоревшие брусочки: в них больше всего акриламида (Anses)."
+  },
+  "secrets.0.text": {
+   "fr": "Prends une pomme de terre à chair farineuse, comme la Bintje : riche en amidon, elle donne des frites dorées et croustillantes.",
+   "t": "Берите рассыпчатый картофель, например Bintje: он богат крахмалом и даёт золотистый и хрустящий картофель фри."
+  },
+  "secrets.0.source": {
+   "fr": "VLAM (Lekker van bij ons), Navefri-Unafri, Semaine de la Frite (Apaq-W), Frietmuseum de Bruges, Wikipédia",
+   "t": "VLAM (Lekker van bij ons), Navefri-Unafri, Semaine de la Frite (Apaq-W), Frietmuseum в Брюгге, Wikipédia"
+  },
+  "secrets.1.text": {
+   "fr": "Taille des bâtonnets d'1 cm de côté, bien réguliers : c'est la frite « pont-neuf », le « type fondamental des pommes de terre frites » selon Escoffier.",
+   "t": "Нарезайте ровные брусочки со стороной 1 см: это картофель «пон-нёф», «основной тип жареного картофеля», по словам Escoffier."
+  },
+  "secrets.1.source": {
+   "fr": "Escoffier (Le Guide culinaire, 1903), Chef Simon, Meilleur du Chef, Navefri-Unafri, Wikipédia",
+   "t": "Escoffier (Le Guide culinaire, 1903), Chef Simon, Meilleur du Chef, Navefri-Unafri и Wikipédia"
+  },
+  "secrets.2.text": {
+   "fr": "Rince les frites à l'eau froide pour enlever l'excès d'amidon, puis sèche-les très bien : c'est l'un des secrets des fabricants belges de frites fraîches.",
+   "t": "Промывайте нарезанный картофель холодной водой, чтобы удалить лишний крахмал, а затем очень хорошо обсушивайте: это один из секретов бельгийских производителей свежего картофеля фри."
+  },
+  "secrets.2.source": {
+   "fr": "Navefri-Unafri (« L'art des bonnes frites »), VLAM, Chef Simon, Meilleur du Chef",
+   "t": "Navefri-Unafri («L'art des bonnes frites»), VLAM, Chef Simon и Meilleur du Chef"
+  },
+  "secrets.3.text": {
+   "fr": "La double cuisson : un premier bain doux cuit l'intérieur sans colorer, un second bain plus chaud forme la croûte dorée et croustillante.",
+   "t": "Двойная обжарка: первая, при умеренной температуре, готовит картофель внутри, не подрумянивая, а вторая, более горячая, образует золотистую хрустящую корочку."
+  },
+  "secrets.3.source": {
+   "fr": "Navefri-Unafri, VLAM, Semaine de la Frite (Apaq-W), Chef Simon, Meilleur du Chef, Frietmuseum de Bruges",
+   "t": "Navefri-Unafri, VLAM, Semaine de la Frite (Apaq-W), Chef Simon, Meilleur du Chef и Frietmuseum в Брюгге"
+  },
+  "secrets.4.text": {
+   "fr": "Laisse bien refroidir les frites entre les deux bains : une fine croûte se forme, et le choc de chaleur du second bain, plus fort sur des frites bien refroidies, les saisit vite : elles deviennent croustillantes et dorées.",
+   "t": "Давайте картофелю хорошо остыть между двумя обжарками: образуется тонкая корочка, а тепловой удар второй обжарки, более сильный для хорошо остывшего картофеля, быстро его схватывает, и он становится хрустящим и золотистым."
+  },
+  "secrets.4.source": {
+   "fr": "VLAM, Semaine de la Frite (Apaq-W), Navefri-Unafri",
+   "t": "VLAM, Semaine de la Frite (Apaq-W) и Navefri-Unafri"
+  },
+  "secrets.5.text": {
+   "fr": "Tu reçois ? Fais la première cuisson 1 à 2 heures à l'avance, et la seconde juste avant de servir.",
+   "t": "Ждёте гостей? Сделайте первую обжарку за 1–2 часа, а вторую — прямо перед подачей."
+  },
+  "secrets.5.source": {
+   "fr": "Meilleur du Chef (1 à 2 heures), Navefri-Unafri (« quelques heures » possibles entre les deux bains)",
+   "t": "Meilleur du Chef (1–2 часа), Navefri-Unafri (между двумя обжарками возможно «несколько часов»)"
+  },
+  "secrets.6.text": {
+   "fr": "« Une bonne frite doit successivement nager, chanter et, enfin, sauter » : beaucoup d'huile pour peu de frites, et un panier jamais plus qu'à moitié plein.",
+   "t": "«Хороший картофель фри должен по очереди плавать, петь и, наконец, прыгать»: много масла на немного картофеля и корзина, заполненная никогда не больше чем наполовину."
+  },
+  "secrets.6.source": {
+   "fr": "Bernard Lefèvre, président de l'Unafri (Navefri-Unafri) ; règlement UE 2017/2158 et FSA pour le panier à moitié plein",
+   "t": "Bernard Lefèvre, председатель Unafri (Navefri-Unafri); регламент ЕС 2017/2158 и FSA — о корзине, заполненной наполовину"
+  },
+  "secrets.7.text": {
+   "fr": "Entre deux fournées, attends que l'huile revienne à la bonne température : dans une huile pas assez chaude, les frites boivent le gras.",
+   "t": "Между партиями ждите, пока масло снова нагреется до нужной температуры: в недостаточно горячем масле картофель впитывает жир."
+  },
+  "secrets.7.source": {
+   "fr": "FSA (conseils aux friteries d'Irlande du Nord), Navefri-Unafri, Wikipédia",
+   "t": "FSA (советы фритюрным Северной Ирландии), Navefri-Unafri, Wikipédia"
+  },
+  "secrets.8.text": {
+   "fr": "Secoue le panier dès la sortie du bain et égoutte sur du papier absorbant : les frites continuent d'absorber l'huile en refroidissant.",
+   "t": "Встряхивайте корзину сразу, как вынули её из масла, и выкладывайте картофель на бумажные полотенца: остывая, он продолжает впитывать масло."
+  },
+  "secrets.8.source": {
+   "fr": "FSA (jusqu'à 20 % de gras absorbé en moins), Wikipédia, Navefri-Unafri",
+   "t": "FSA (до 20 % меньше впитанного жира), Wikipédia, Navefri-Unafri"
+  },
+  "secrets.9.text": {
+   "fr": "Sale tout de suite, à la sortie de l'huile, quand les frites sont encore brûlantes : le sel se dissout et imprègne mieux. Et ne les couvre pas.",
+   "t": "Солите сразу, как вынули картофель из масла, пока он ещё обжигающе горячий: соль растворяется и лучше пропитывает. И не накрывайте его."
+  },
+  "secrets.9.source": {
+   "fr": "Chef Simon, Semaine de la Frite (Apaq-W), Meilleur du Chef, Wikipédia",
+   "t": "Chef Simon, Semaine de la Frite (Apaq-W), Meilleur du Chef и Wikipédia"
+  },
+  "secrets.10.text": {
+   "fr": "Les pommes de terre se récoltent en septembre et en octobre. En fin de saison, vers l'été, elles contiennent plus de sucre et brunissent plus vite : fais le premier bain un peu moins long et un peu moins chaud, et arrête-toi au jaune doré.",
+   "t": "Картофель убирают в сентябре и октябре. В конце сезона, ближе к лету, в нём больше сахара, и он быстрее темнеет: делайте первую обжарку чуть короче и чуть менее горячей и останавливайтесь на золотисто-жёлтом цвете."
+  },
+  "secrets.10.source": {
+   "fr": "Navefri-Unafri (« Frieten bakken is een kunst »)",
+   "t": "Navefri-Unafri (статья «Frieten bakken is een kunst»)"
+  },
+  "secrets.11.text": {
+   "fr": "Garde les pommes de terre au frais et dans le noir, idéalement entre 8 et 10 °C. Trop froides, elles font du sucre et brunissent vite à la friture.",
+   "t": "Храните картофель в прохладном тёмном месте, в идеале при 8–10 °C. Если слишком холодно, в нём накапливается сахар, и при жарке он быстро темнеет."
+  },
+  "secrets.11.source": {
+   "fr": "Apaq-W (8 à 10 °C), EFSA (sous 8 °C, plus de sucres), FSAI (8 °C ou un peu plus)",
+   "t": "Apaq-W (8–10 °C), EFSA (ниже 8 °C — больше сахаров), FSAI (8 °C или чуть выше)"
+  },
+  "secrets.12.text": {
+   "fr": "Une friteuse électrique à thermostat tient la bonne température toute seule : des frites plus régulières, et une cuisine plus sûre.",
+   "t": "Электрическая фритюрница с термостатом сама держит нужную температуру: картофель получается равномернее, а на кухне безопаснее."
+  },
+  "secrets.12.source": {
+   "fr": "Chef Simon (Sabine Simon), London Fire Brigade, gouvernement du Québec",
+   "t": "Chef Simon (Sabine Simon), London Fire Brigade, правительство Квебека"
+  },
+  "secrets.13.text": {
+   "fr": "Prends une huile neutre qui supporte la chaleur, comme le tournesol ou l'arachide.",
+   "t": "Берите растительное масло, которое выдерживает нагрев, например подсолнечное или арахисовое."
+  },
+  "secrets.13.source": {
+   "fr": "INC (tournesol), Chef Simon (arachide), gouvernement du Québec (points de fumée : tournesol 210 °C, arachide 220 °C)",
+   "t": "INC (подсолнечное), Chef Simon (арахисовое), правительство Квебека (точки дымления: подсолнечное 210 °C, арахисовое 220 °C)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre des frites mouillées dans l'huile : elle bouillonne et peut déborder (pompiers de Cambridgeshire, London Fire Brigade).",
+   "t": "Опускать в масло мокрый картофель: масло бурно пенится и может перелиться через край (пожарные Кембриджшира, London Fire Brigade)."
+  },
+  "mistakes.1": {
+   "fr": "Remplir le panier à ras bord : l'huile refroidit, les frites collent et deviennent grasses ; remplis-le à moitié au plus (règlement UE 2017/2158, FSA, Wikipédia).",
+   "t": "Заполнять корзину доверху: масло остывает, картофель слипается и становится жирным; заполняйте её не больше чем наполовину (регламент ЕС 2017/2158, FSA, Wikipédia)."
+  },
+  "mistakes.2": {
+   "fr": "Faire la seconde cuisson dans une huile pas assez chaude : les frites absorbent trop de gras (Navefri-Unafri, Wikipédia).",
+   "t": "Делать вторую обжарку в недостаточно горячем масле: картофель впитывает слишком много жира (Navefri-Unafri, Wikipédia)."
+  },
+  "mistakes.3": {
+   "fr": "Faire la première cuisson trop chaude : les bâtonnets se ferment trop vite et retombent, tout plats (Navefri-Unafri). Trop froide, la pomme de terre se défait et abîme l'huile (Chef Simon).",
+   "t": "Делать первую обжарку слишком горячей: брусочки слишком быстро схватываются снаружи, а потом опадают и становятся плоскими (Navefri-Unafri). Если масло слишком холодное, картофель разваливается и портит масло (Chef Simon)."
+  },
+  "mistakes.4": {
+   "fr": "Dépasser 175 °C ou cuire jusqu'au brun : c'est là que l'acrylamide grimpe (EFSA, FSA, FSAI, règlement UE 2017/2158).",
+   "t": "Нагревать выше 175 °C или жарить до коричневого цвета: именно тогда количество акриламида резко растёт (EFSA, FSA, FSAI, регламент ЕС 2017/2158)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser chauffer une huile qui fume : coupe le feu et laisse-la refroidir (London Fire Brigade, gouvernement du Québec, pompiers de Cambridgeshire).",
+   "t": "Продолжать греть дымящееся масло: выключите огонь и дайте ему остыть (London Fire Brigade, правительство Квебека, пожарные Кембриджшира)."
+  },
+  "mistakes.6": {
+   "fr": "Laisser l'huile chaude sans surveillance, même quelques secondes (pompiers de Cambridgeshire, gouvernement du Québec, USFA).",
+   "t": "Оставлять горячее масло без присмотра даже на несколько секунд (пожарные Кембриджшира, правительство Квебека, USFA)."
+  },
+  "mistakes.7": {
+   "fr": "Remplir une casserole d'huile à plus d'un tiers (London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Наливать в кастрюлю масло больше чем на треть (London Fire Brigade, пожарные Кембриджшира)."
+  },
+  "mistakes.8": {
+   "fr": "Jeter de l'eau sur un feu d'huile, ou déplacer le récipient en flammes (gouvernement du Québec, London Fire Brigade, pompiers de Cambridgeshire).",
+   "t": "Лить воду на горящее масло или передвигать горящую ёмкость (правительство Квебека, London Fire Brigade, пожарные Кембриджшира)."
+  },
+  "mistakes.9": {
+   "fr": "Ranger au frigo les pommes de terre destinées aux frites : elles sucrent et brunissent plus vite à la friture (VLAM, EFSA, FSAI). La FSA britannique juge le frigo acceptable depuis le printemps 2022 ; si tu les y as gardées, surveille la couleur de près.",
+   "t": "Хранить в холодильнике картофель для фри: в нём накапливается сахар, и при жарке он быстрее темнеет (VLAM, EFSA, FSAI). Британское агентство FSA с весны 2022 года считает хранение в холодильнике допустимым; если вы держали картофель там, внимательно следите за цветом."
+  },
+  "mistakes.10": {
+   "fr": "Garder indéfiniment la même huile : filtre-la après usage et change-la régulièrement (Chef Simon).",
+   "t": "Бесконечно использовать одно и то же масло: процеживайте его после использования и регулярно меняйте (Chef Simon)."
+  },
+  "mistakes.11": {
+   "fr": "Couvrir les frites à la sortie du bain (Chef Simon : « surtout ne pas couvrir »).",
+   "t": "Накрывать картофель фри сразу после обжарки (Chef Simon: «ни в коем случае не накрывать»)."
+  },
+  "variants.0": {
+   "fr": "Frites belges : Bintje taillée à 1 cm, rincée et bien séchée ; premier bain à 140 °C environ 7 minutes, refroidissement, puis second bain à 170-175 °C jusqu'à la croûte dorée (Navefri-Unafri). La tradition belge est le blanc de bœuf (Frietmuseum de Bruges, Wikipédia), et des friteries y restent fidèles (Navefri-Unafri) : chez toi, seulement du blanc de bœuf certifié halal. C'est une graisse riche en graisses saturées, environ 50 % contre 10 % pour le tournesol (FSA). Sers-les en cornet, avec de la mayonnaise (Apaq-W). En friterie, en Belgique ou dans le nord de la France, demande dans quelle graisse les frites sont cuites : certaines utilisent du blanc de bœuf ou un mélange bœuf et végétal (Navefri-Unafri).",
+   "t": "Бельгийский картофель фри: Bintje, нарезанный брусочками по 1 см, промытый и хорошо обсушенный; первая обжарка при 140 °C примерно 7 минут, остывание, затем вторая обжарка при 170–175 °C до золотистой корочки (Navefri-Unafri). По бельгийской традиции жарят на топлёном говяжьем жире (Frietmuseum в Брюгге, Wikipédia), и некоторые фритюрные ей верны (Navefri-Unafri): дома — только говяжий жир с сертификатом халяль. Это жир, богатый насыщенными жирами: примерно 50 % против 10 % у подсолнечного масла (FSA). Подавайте в кульке, с майонезом (Apaq-W). Во фритюрной, в Бельгии или на севере Франции, спрашивайте, на каком жире жарят картофель: некоторые используют говяжий жир или смесь говяжьего и растительного (Navefri-Unafri)."
+  },
+  "variants.1": {
+   "fr": "Au four : préchauffe le four entre 180 et 200 °C (190 °C au plus en chaleur tournante). Mélange les frites rincées et bien séchées avec un filet d'huile (Wikipédia : 2 c. à s. pour 1 kg de pommes de terre), étale-les sur une plaque et retourne-les à mi-cuisson. Arrête-toi au jaune doré (règlement UE 2017/2158, FSAI). Les pompiers de Cambridgeshire conseillent d'ailleurs le four, plus sûr que la casserole d'huile.",
+   "t": "В духовке: разогрейте духовку до 180–200 °C (не выше 190 °C в режиме конвекции). Перемешайте промытый и хорошо обсушенный картофель с небольшим количеством масла (Wikipédia: 2 ст. л. на 1 кг картофеля), разложите на противне и переверните в середине запекания. Остановитесь на золотисто-жёлтом цвете (регламент ЕС 2017/2158, FSAI). Кстати, пожарные Кембриджшира советуют именно духовку: это безопаснее, чем кастрюля с маслом."
+  },
+  "variants.2": {
+   "fr": "À la friteuse à air (Airfryer) : le règlement UE parle de 180 à 220 °C pour préchauffer un four ou une friteuse à air. Arrête-toi au jaune doré : selon des tests de l'industrie et d'associations de consommateurs cités par l'EFSA, la friteuse à air peut donner 30 à 40 % d'acrylamide de plus qu'une friteuse à huile.",
+   "t": "В аэрогриле (Airfryer): регламент ЕС говорит о 180–220 °C для разогрева духовки или аэрогриля. Остановитесь на золотисто-жёлтом цвете: по испытаниям промышленности и обществ потребителей, на которые ссылается EFSA, в аэрогриле может образоваться на 30–40 % больше акриламида, чем во фритюрнице с маслом."
+  },
+  "variants.3": {
+   "fr": "En une seule cuisson : des frites épaisses (au moins 14 mm de section), 5 à 6 minutes à 175 °C, jusqu'à un doré pâle (FSA, conseils aux friteries d'Irlande du Nord, qui déconseille la double cuisson pour limiter le gras). Escoffier cuisait ainsi ses pommes Pont-Neuf, en un seul bain, jusqu'à ce qu'elles soient « croustillantes à l'extérieur, tout en restant moelleuses à l'intérieur ».",
+   "t": "В одну обжарку: толстые брусочки (сечением не меньше 14 мм), 5–6 минут при 175 °C, до бледно-золотистого цвета (FSA, советы фритюрным Северной Ирландии: агентство не рекомендует двойную обжарку, чтобы снизить жирность). Так, в одну обжарку, Escoffier жарил свой картофель «пон-нёф», пока он не становился «хрустящим снаружи и при этом мягким внутри»."
+  },
+  "variants.4": {
+   "fr": "Au Maroc : Bladi.net cuit le poulet en sauce (oignons, ail, coriandre, gingembre, safran) et pose les frites dessus au moment de servir.",
+   "t": "В Марокко: Bladi.net тушит курицу в соусе (лук, чеснок, кинза, имбирь, шафран) и при подаче выкладывает сверху картофель фри."
+  }
+ }
+}

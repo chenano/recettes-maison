@@ -1,0 +1,158 @@
+{
+ "slug": "seffa-medfouna",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Machahid24 (مشاهد 24, média marocain) – Safaa Sabri, « طريقة تحضير السفة المغربية » (préparation de la seffa marocaine), 19 mai 2014 ; site protégé par Cloudflare (erreur 403), lu sur la copie web.archive.org du 9 octobre 2025 ; robots.txt (copie du 2 octobre 2026) : pages autorisées",
+   "url": "https://web.archive.org/web/20251009103757/https://machahid24.com/lifestyle/11940.html",
+   "ce_qu_elle_confirme": "Source marocaine non citée par l'auteur (seffa sucrée, sans poulet) : 500 g de vermicelles enduits d'huile avant la première vapeur ; plusieurs vapeurs au couscoussier ; entre deux, les vermicelles sont mouillés d'eau ; à la troisième, eau, sel et raisins secs, puis dernière vapeur ; à la fin, beurre (25 g) et sucre ; décor de cannelle et de sucre. Confirme secrets[1] et secrets[4], et les variantes « raisins secs à la dernière vapeur » et « plus sucrée »."
+  },
+  {
+   "name": "Wiktionnaire (en.wiktionary.org) – entrée « مدفون » (madfūn)",
+   "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AF%D9%81%D9%88%D9%86",
+   "ce_qu_elle_confirme": "مدفونة (madfūna) est le féminin de مدفون, participe passif de دفن (dafana), « enterré » : deuxième source, indépendante de Taste of Maroc, pour « medfouna = enterrée » (secrets[12])."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[4].text",
+   "actuel": "Avec un thermomètre de cuisine, le centre du morceau, loin de l'os, doit atteindre au moins 75 °C.",
+   "propose": "Avec un thermomètre de cuisine piqué au cœur de la partie la plus épaisse, la chair doit atteindre 75 °C pendant 30 secondes, ou 70 °C pendant 2 minutes.",
+   "pourquoi": "La FSA ne donne pas un seuil seul mais des couples température-durée (« 70°C for 2 minutes », « 75°C for 30 seconds ») mesurés au milieu de l'aliment ; l'Anses demande 70 °C à cœur. « Loin de l'os » ne figure dans aucune source officielle lue (USDA-FSIS et FoodSafety.gov : erreur 403).",
+   "gravite": "mineure",
+   "sources": "FSA « Cooking your food » (section 3) ; Anses, salmonellose (27/10/2025)"
+  },
+  {
+   "champ": "steps[4].tip",
+   "actuel": "Sur un poulet, la partie la plus épaisse est la cuisse, entre le pilon et le blanc : vérifie là (FSA).",
+   "propose": "La partie la plus épaisse du poulet est la cuisse : vérifie à la jointure entre le pilon et le haut de cuisse, qui ne doit pas être rosée (FSA ; Anses).",
+   "pourquoi": "La phrase de la FSA (« between the drumstick and the breast ») vise un oiseau entier ; ici le poulet est en morceaux. L'Anses donne le repère adapté aux morceaux : « la jointure cuisse/haut de cuisse du poulet ne doit pas être rosée ».",
+   "gravite": "mineure",
+   "sources": "FSA « Cooking your food » ; Anses, campylobactériose (21/03/2025)"
+  },
+  {
+   "champ": "mistakes[5]",
+   "actuel": "au moins 75 °C au centre (FSA ; Anses)",
+   "propose": "70 °C à cœur (Anses) ou 75 °C pendant 30 secondes (FSA)",
+   "pourquoi": "L'Anses ne cite pas 75 °C mais 70 °C à cœur ; la FSA associe 75 °C à une durée de 30 secondes.",
+   "gravite": "mineure",
+   "sources": "Anses, salmonellose ; FSA « Cooking your food »"
+  },
+  {
+   "champ": "secrets[2].source",
+   "actuel": "Taste of Maroc ; Morocco World News ; Cooking with Alia",
+   "propose": "Taste of Maroc ; Morocco World News",
+   "pourquoi": "Cooking with Alia ne compte pas à partir de la vapeur : elle fait cuire « until you see the first steam coming out from the vermicelli » (environ 15 à 20 min dans la recette 205, environ 20 min dans la 862). Seuls Taste of Maroc (« timing from when you see the steam appear ») et Morocco World News (« once you see steam rise from the vermicelli, steam for 15 minutes ») le disent.",
+   "gravite": "mineure",
+   "sources": "Cooking with Alia 205 et 862 ; Taste of Maroc (guide de la vapeur) ; Morocco World News (2019)"
+  },
+  {
+   "champ": "secrets[8].text",
+   "actuel": "Taste of Maroc laisse parfois les os.",
+   "propose": "Christine Benlafquih (Taste of Maroc) laisse le plus souvent les os.",
+   "pourquoi": "Christine Benlafquih écrit qu'on peut désosser le poulet « but I don't usually bother » : elle laisse d'habitude les os, pas « parfois ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc, recette de seffa medfouna (notes)"
+  },
+  {
+   "champ": "serving",
+   "actuel": "(FSA ; Anses : moins de 3 jours)",
+   "propose": "(FSA ; Anses : dans les 3 jours)",
+   "pourquoi": "La page de l'Anses citée par la recette (8 avril 2020) dit que les plats cuisinés à domicile « doivent être consommés dans les 3 jours ».",
+   "gravite": "mineure",
+   "sources": "Anses, « Éviter les toxi-infections alimentaires en confinement » (08/04/2020)"
+  },
+  {
+   "champ": "ingredients[1].items[1].name",
+   "actuel": "d'huile neutre (tournesol)",
+   "propose": "d'huile neutre (tournesol), et un peu plus pour huiler le panier",
+   "pourquoi": "L'étape steps[7] demande d'huiler le haut du couscoussier, mais les 2 c. à s. de la liste servent toutes à enrober les vermicelles : cette huile manque dans la liste. Taste of Maroc : « Lightly oil the steamer basket ».",
+   "gravite": "mineure",
+   "sources": "Taste of Maroc (guide de la vapeur) ; cohérence liste-étapes"
+  },
+  {
+   "champ": "sources[7].used_for",
+   "actuel": "pour 8 : un poulet",
+   "propose": "sans nombre de parts : un poulet",
+   "pourquoi": "La page 862 de Cooking with Alia (texte et données Recipe) ne donne aucun nombre de parts : seulement « prepTime 1 hour » et « cookTime 1 hour ».",
+   "gravite": "mineure",
+   "sources": "Cooking with Alia 862 (page lue le 8 novembre 2026)"
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "Par personne, la médiane des quatre recettes qui donnent un nombre de parts est de 104 g, soit 625 g pour 6.",
+   "propose": "Par personne, la médiane des trois recettes qui donnent un nombre de parts (Choumicha, Taste of Maroc, Morocco World News) est de 125 g, soit 750 g pour 6.",
+   "pourquoi": "Cooking with Alia 862 n'a pas de nombre de parts. Recalcul python3 -I : médiane(83,3 ; 125 ; 125) = 125 g. Le choix de 500 g (valeur majoritaire et celle de Choumicha) reste justifié.",
+   "gravite": "mineure",
+   "sources": "Choumicha 1566 (500 g pour 6) ; Taste of Maroc et Morocco World News (1 kg pour 8)"
+  },
+  {
+   "champ": "discrepancies[2]",
+   "actuel": "un poulet entier sans poids chez Taste of Maroc, Morocco World News et Cooking with Alia (pour 8)",
+   "propose": "un poulet entier sans poids chez Taste of Maroc et Morocco World News (pour 8) et chez Cooking with Alia (862, sans nombre de parts)",
+   "pourquoi": "Même raison : Cooking with Alia 862 ne dit pas pour combien de personnes.",
+   "gravite": "mineure",
+   "sources": "Cooking with Alia 862"
+  },
+  {
+   "champ": "discrepancies[13]",
+   "actuel": "amandes 250 g pour 6 (Choumicha), 75 g (Cooking with Alia 862 et Morocco World News, ramenés à 6), 107 g (Taste of Maroc) : médiane 91 g, arrondie à 90 g",
+   "propose": "amandes pour 500 g de vermicelles : 250 g (Choumicha), 100 g (Cooking with Alia 862, sans nombre de parts), 50 g (Morocco World News), 72 g (Taste of Maroc) : médiane 86 g, arrondie à 90 g",
+   "pourquoi": "Cooking with Alia 862 ne peut pas être « ramené à 6 ». En ramenant à 500 g de vermicelles, comme le dit la méthode de la recette, python3 -I donne une médiane de 85,8 g : les 90 g retenus restent justes.",
+   "gravite": "mineure",
+   "sources": "Choumicha 1566 ; Cooking with Alia 862 ; Morocco World News (100 g pour 1 kg) ; Taste of Maroc (1 tasse = 143 g pour 1 kg, USDA)"
+  },
+  {
+   "champ": "sources[8].used_for",
+   "actuel": "plat de fête (cérémonies, grandes occasions) et repas de famille",
+   "propose": "repas de famille, pas réservé aux invités ; sans le poulet, la seffa se sert en dessert aux cérémonies et grands événements",
+   "pourquoi": "Morocco World News parle des cérémonies seulement pour la seffa sans poulet (« serve without the chicken as a dessert at ceremonies or big events ») ; pour la seffa medfouna, l'article dit « a favorite family dinner » et « not reserved just for guests ».",
+   "gravite": "mineure",
+   "sources": "Morocco World News (Layla Dahamou, 20 octobre 2019), lu avec l'outil de lecture web (curl : erreur 403)"
+  },
+  {
+   "champ": "unverified[2]",
+   "actuel": "Morocco World News (cérémonies, grands événements)",
+   "propose": "Morocco World News (repas de famille ; la seffa sans poulet se sert en dessert aux cérémonies et grands événements)",
+   "pourquoi": "Même précision que pour sources[8].used_for. Le champ « occasion » reste fondé sur Taste of Maroc (« special occasion or holiday meal ») et Choumicha (« Pour recevoir »).",
+   "gravite": "mineure",
+   "sources": "Morocco World News (2019) ; Taste of Maroc ; Choumicha 1566"
+  },
+  {
+   "champ": "unverified[1]",
+   "actuel": "Sens de « medfouna » : seul Taste of Maroc le traduit (« enterrée ») ; Morocco World News écrit seulement qu'on « enterre » le poulet sous la seffa.",
+   "propose": "Sens de « medfouna » : confirmé par deux sources, Taste of Maroc (« enterrée ») et le Wiktionnaire (مدفونة, madfūna, participe passif féminin de دفن, « enterré ») ; ce point peut sortir de la liste des points non vérifiés.",
+   "pourquoi": "Deuxième source indépendante trouvée.",
+   "gravite": "mineure",
+   "sources": "Wiktionnaire, entrée « مدفون » ; Taste of Maroc"
+  }
+ ],
+ "verifie_sans_correction": [
+  "robots.txt : choumicha.ma (copies archivées 2013 et 2026), tasteofmaroc.com, cookingwithalia.com, moroccoworldnews.com (copie du 5 novembre 2026), bladi.net, lalamoulati.net, anses.fr, gov.uk, fdc.nal.usda.gov et machahid24.com autorisent les pages utilisées.",
+  "Liens : les 22 adresses citées (sources et used_for) répondent (200), sauf Morocco World News (403 pour curl, lu avec l'outil de lecture web) ; chaque page dit ce qui lui est attribué, aux réserves des corrections près.",
+  "Choumicha 1566 : pour 6, poulet de 1,5 kg, 1 kg d'oignon, 1 bouquet de persil, 5 c. à s. d'huile, 1 c. à c. de smen facultatif, de gingembre et de curcuma, ½ c. à c. de poivre, 8 pistils de safran, 2 bâtons de cannelle, 10 cl d'eau, 500 g de cheveux d'ange, 1 c. à s. de beurre, 250 g d'amandes, 80 g de sucre glace, 1 c. à s. de cannelle ; revenir 10 min (feu doux), poulet sorti, sauce en compote, poulet désossé, moitié des vermicelles dessous, servie chaude avec du lait à la fleur d'oranger ; cuisson 1 h, total 2 h, catégorie « Pour recevoir ».",
+  "Choumicha 331 : 2 c. à s. d'huile avant la 1re vapeur, trois vapeurs de 20 min, sel et rinçage à l'eau bouillante, deux fourchettes, raisins « toujours » à la dernière vapeur ; la page affiche bien 40 min de cuisson et 1 h 03 au total. Choumicha 1031 (agneau, pour 6) : 500 g de vermicelles, 4 c. à s. de persil, 1 c. à s. de beurre, 1 c. à s. de cannelle, raisins à la dernière vapeur. Choumicha 1568 : seffa sucrée sans viande, servie avec du lait à la fleur d'oranger.",
+  "Taste of Maroc (Christine Benlafquih, mise à jour du 1er juin 2020) : pour 8, 30 min de préparation et 2 h 30 de cuisson ; quantités du used_for exactes ; « medfouna, which means buried » ; poulet sans eau sauf nécessité, environ 1 h, ne pas le brûler, sauce réduite, cannelle retirée ; un quart à un tiers des vermicelles dessous ; service immédiat, petits bols, chacun mange de son côté ; réponse de Christine Benlafquih du 24 octobre 2022 sur la vapeur le matin ou la veille.",
+  "Taste of Maroc, guide de la vapeur (mise à jour du 3 juillet 2020) : vapeur préférée à l'ébullition (pâtes ni détrempées ni collantes) ; huile sur les pâtes sèches pour qu'elles ne collent pas ; panier huilé ; « handle the pasta lightly and do not pack it » ; 20 min comptées dès que la vapeur paraît ; brins « poking upright » ; arrosages de 300 ml, 475 ml salée et 236 ml (ou lait) pour 1 kg ; quatrième vapeur, cinquième si besoin ; film plastique sur la jointure.",
+  "Cooking with Alia 205 : 1 kg de pilons, 500 g d'oignons râpés, ¼ de tasse de persil et de coriandre, 1 c. à c. de gingembre, 2 bâtons de cannelle, ½ c. à c. de smen, revenir 5 min, 30 à 40 min, réduction 10 min, 2 c. à s. d'huile pour 500 g de vermicelles, ½ citron, repos 5 min, « make sure not to overcook it, otherwise, it becomes too soft », poulet préparé à l'avance et vermicelles juste avant, dôme. Cooking with Alia 862 (Alia Al Kasimi, 12 mars 2021) : titre arabe « سفة مدفونة بالدجاج », liste conforme, 5 puis 45 min, cannelle et miel dans la sauce, trois vapeurs (20, 15, 10 min), eau salée puis eau au lait en poudre, raisins à la 3e vapeur, œufs de caille, « Serve immediately ».",
+  "Morocco World News (Layla Dahamou, 20 octobre 2019) : pour 8, ¼ de tasse d'huile d'olive, 1 c. à c. de gingembre, de smen et de sel, ½ c. à c. de poivre et de curcuma, 1 c. à s. de coriandre et de persil, 3 gousses d'ail, 2 c. à s. de miel, 1 kg de vermicelles, 3 ou 4 vapeurs de 15 min, 1 tasse d'eau salée, 2 c. à s. de beurre, 100 g d'amandes, poulet couvert d'eau, environ 10 puis 40 min, moitié des vermicelles dessous, « Bury the chicken », plat au couscous ou aux vermicelles.",
+  "Bladi.net : couscoussier huilé, 2 c. à s. d'huile, 20 min, eau du bas versée puis égouttée, beurre et sucre, « une grille avec la canelle et le sucre glace », amandes mondées et frites, ail selon le goût, persil, coriandre, ½ c. à c. de gingembre, 1 c. à c. de poivre noir.",
+  "Lalla Moulati : 14834 (11 mars 2015, recette d'Oum Larbi) 1 kg de vermicelles, poulet moyen, 2 gousses d'ail, 2 c. à s. de beurre, vapeurs de 30 min (3 ou 4), un verre d'eau bouillante, poulet sans peau ni os, moitié dessous, dôme, lignes de sucre glace et de cannelle, amandes au centre, servie chaude ; 83626 (20 septembre 2017) 500 g, sel et un verre d'eau, trois vapeurs, cannelle, sucre et raisins dans la sauce, œufs durs et cacahuètes ; 367751 (13 mai 2023) 3 c. à s. d'huile, brins dressés (« تتشوك »), verre de lait au dernier arrosage ; 378248 (500 g, 200 g d'amandes frites) et 371107 (500 g, 1 c. à s. de beurre dans la liste).",
+  "Médianes recalculées avec python3 -I sur les valeurs relues : huile de la sauce 4 c. à s. ; eau de la sauce 100 ml ; mijotage 45 min ; sucre glace 85 g ; beurre 1 c. à s. ; oignons, ail, herbes, épices et nombre de vapeurs conformes aux décomptes de discrepancies. Arrosage : 312,5 ml exact, mais il inclut la valeur partielle de Cooking with Alia 205 (sans elle, 388 ml) ; les 300 ml retenus restent dans la fourchette des sources (237 à 473 ml).",
+  "Sécurité (Anses, FSA) : mains, planche et ustensiles après la viande crue (Anses, campylobactériose) ; cuisson à cœur de la volaille, jus clair, pas de chair rose ; pas plus de 2 h à température ambiante ; restes au réfrigérateur dans les 2 h, mangés dans les 48 h, réchauffés une seule fois jusqu'à être brûlants (FSA) ; vermicelles préparés à l'avance : règle des 2 h appliquée. Le poulet désossé attend environ 1 h 15 à 1 h 30 pendant la vapeur : sous les 2 h.",
+  "USDA FoodData Central : sucre glace non tamisé 1 tasse = 120 g (169656) ; amandes entières 1 tasse = 143 g (170567).",
+  "Halal : poulet halal, aucun alcool, aucun fromage ; l'eau de fleur d'oranger n'apparaît qu'en variante. Noms : « Seffa medfouna » et « سفة مدفونة بالدجاج » (titre de Cooking with Alia 862 ; Lalla Moulati écrit « السفة مدفونة » et « السفة المدفونة »).",
+  "Cohérence : minuteurs 10, 45, 20, 20 et 15 min identiques au texte ; time.cook = 10 + 45 + 20 + 10 + 70 + 10 = 165 min (somme refaite) ; time.prep 30 min comme Taste of Maroc ; chaque ingrédient de la liste apparaît dans une étape ; l'eau salée (300 ml) est bien versée en deux moitiés ; recette non classée « Rapide ».",
+  "Rendu dans l'appli (code de app.html exécuté avec node pour 1, 6 et 12 personnes) : tous les {{id}} affichent la quantité seule, les {{id:full}} quantité et nom avec pluriel (« 2 gousses d'ail », « 4 bâtons de cannelle »), les q null le nom (« eau », « un fond d'huile neutre ») ; arrondis conformes : 1 kg → 165 g d'oignons, 100 ml → 17 ml d'eau, 500 g → 85 g de vermicelles, 85 g → 14 g de sucre glace, 1 pincée → ¼ pincée. Pour 1 personne, « ¼ gousse d'ail » et « ¼ bâton de cannelle » viennent de la règle d'arrondi au quart de l'appli.",
+  "Secrets, erreurs, variantes et service : chaque phrase a été retrouvée dans les sources citées (Taste of Maroc, Choumicha, Cooking with Alia, Morocco World News, Bladi.net, Lalla Moulati, Anses, FSA), sauf les points corrigés ci-dessus.",
+  "Occasion : « special occasion or holiday meal » et repas pour ses enfants (Taste of Maroc), catégorie « Pour recevoir » (Choumicha), « a favorite family dinner » (Morocco World News)."
+ ],
+ "non_verifiable": [
+  "Recherche web indisponible (quota épuisé) : nouvelles sources marocaines cherchées seulement par les recherches internes et les plans de sites. Femmes du Maroc (vidéo de seffa marine seulement), H24info, Hespress arabe et français : aucune seffa medfouna ; Telquel et Kifache : erreur 403 ; Le360 : recherche interdite par robots.txt ; Lalla Fatema et Visit Morocco : aucune page de seffa. La seule source marocaine nouvelle (Machahid24) décrit la seffa sucrée, pas la seffa medfouna au poulet.",
+  "Morocco World News (2019) : curl refusé (403) ; lu avec l'outil de lecture web, qui résume et ne cite que de courts extraits : texte intégral non relu.",
+  "« Loin de l'os » (steps[4]) : aucune source officielle lisible ne le dit (USDA-FSIS et FoodSafety.gov : erreur 403) ; d'où la reformulation proposée.",
+  "steps[9], « laisse-les encore 5 min » : aucune source ne donne ce chiffre ; il découle de la fourchette de 15 à 20 min retenue (20 min chez Choumicha et Taste of Maroc, 15 min chez Morocco World News).",
+  "discrepancies[12], beurre « Lalla Moulati trois fois » : seule la page de 2015 dit clairement 2 c. à s. de beurre pour 1 kg ; la 371107 met 1 c. à s. de beurre dans une liste commune avec la sauce ; la 367751 dit « une grande cuillère » sans nommer l'ingrédient.",
+  "Page de 2M sur la seffa (citée par l'article « Seffa » de Wikipédia) : non lue, robots.txt de 2m.ma inaccessible (403). Vidéos de Lalla Moulati non regardées."
+ ]
+}

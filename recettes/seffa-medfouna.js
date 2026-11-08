@@ -1,0 +1,579 @@
+/* Recette : Seffa medfouna au poulet et aux cheveux d'ange. Sources et vérification dans le champ sources / discrepancies. */
+window.RECETTES = window.RECETTES || [];
+window.RECETTES.push({
+ "slug": "seffa-medfouna",
+ "title": "Seffa medfouna au poulet et aux cheveux d'ange",
+ "darija": "Seffa medfouna",
+ "arabic": "سفة مدفونة بالدجاج",
+ "tagline": "Un dôme de cheveux d'ange cuits à la vapeur et beurrés cache un poulet fondant dans sa sauce aux oignons ; dessus, de la cannelle, du sucre glace et des amandes frites.",
+ "category": "Plat",
+ "occasion": "Fêtes, réceptions et grandes occasions ; aussi un repas de famille",
+ "region": "Maroc",
+ "servings": 6,
+ "servings_label": "personnes",
+ "time": {
+  "prep": 30,
+  "cook": 165,
+  "rest": 0
+ },
+ "difficulty": "Moyen",
+ "equipment": [
+  "Couscoussier (marmite et panier vapeur), ou grande marmite surmontée d'un panier vapeur",
+  "Grande marmite à fond épais avec couvercle, pour le poulet",
+  "Très grand plat creux ou bassine, pour défaire et arroser les vermicelles",
+  "Deux fourchettes",
+  "Petite poêle, écumoire et papier absorbant, pour les amandes",
+  "Mortier et pilon, ou mixeur, pour concasser les amandes",
+  "Grand plat de service rond",
+  "Passoire fine, pour le sucre glace",
+  "Thermomètre de cuisine (facultatif)"
+ ],
+ "ingredients": [
+  {
+   "group": "Poulet en sauce aux oignons",
+   "items": [
+    {
+     "id": "poulet",
+     "q": 1.5,
+     "u": "kg",
+     "name": "de poulet halal, coupé en morceaux",
+     "note": "un poulet entier ; Choumicha prend un poulet de 1,5 kg pour 6",
+     "canon": "poulet"
+    },
+    {
+     "id": "oignons",
+     "q": 1,
+     "u": "kg",
+     "name": "d'oignons",
+     "note": "émincés finement",
+     "canon": "oignon"
+    },
+    {
+     "id": "ail",
+     "q": 2,
+     "u": "",
+     "name": "gousse d'ail",
+     "pl": "gousses d'ail",
+     "note": "râpées ou écrasées",
+     "canon": "ail"
+    },
+    {
+     "id": "huile",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "d'huile d'olive",
+     "canon": "huile-olive"
+    },
+    {
+     "id": "smen",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de smen (beurre rance marocain)",
+     "note": "facultatif",
+     "canon": "smen"
+    },
+    {
+     "id": "gingembre",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de gingembre moulu",
+     "canon": "gingembre"
+    },
+    {
+     "id": "curcuma",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de curcuma",
+     "canon": "curcuma"
+    },
+    {
+     "id": "poivre",
+     "q": 0.5,
+     "u": "c. à c.",
+     "name": "de poivre noir moulu",
+     "canon": "poivre"
+    },
+    {
+     "id": "sel",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel fin",
+     "note": "à rectifier à la fin",
+     "canon": "sel"
+    },
+    {
+     "id": "safran",
+     "q": 1,
+     "u": "pincée",
+     "name": "de pistils de safran",
+     "note": "Choumicha en compte 8",
+     "canon": "safran"
+    },
+    {
+     "id": "cannelle-baton",
+     "q": 2,
+     "u": "",
+     "name": "bâton de cannelle",
+     "pl": "bâtons de cannelle",
+     "canon": "cannelle"
+    },
+    {
+     "id": "persil",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de persil plat haché",
+     "canon": "persil"
+    },
+    {
+     "id": "coriandre",
+     "q": 4,
+     "u": "c. à s.",
+     "name": "de coriandre fraîche hachée",
+     "canon": "coriandre"
+    },
+    {
+     "id": "eau",
+     "q": 100,
+     "u": "ml",
+     "name": "d'eau",
+     "note": "et un peu d'eau chaude en plus si ça attache",
+     "canon": "eau"
+    }
+   ]
+  },
+  {
+   "group": "Vermicelles à la vapeur",
+   "items": [
+    {
+     "id": "vermicelles",
+     "q": 500,
+     "u": "g",
+     "name": "de vermicelles très fins « cheveux d'ange » (chaariya)",
+     "note": "en petits morceaux ; s'ils sont longs, casse-les",
+     "canon": "vermicelles"
+    },
+    {
+     "id": "huile-vermicelles",
+     "q": 2,
+     "u": "c. à s.",
+     "name": "d'huile neutre (tournesol), et un peu plus pour huiler le panier",
+     "canon": "huile"
+    },
+    {
+     "id": "eau-vermicelles",
+     "q": 300,
+     "u": "ml",
+     "name": "d'eau, pour arroser les vermicelles",
+     "canon": "eau"
+    },
+    {
+     "id": "sel-vermicelles",
+     "q": 1,
+     "u": "c. à c.",
+     "name": "de sel fin, pour l'eau d'arrosage",
+     "canon": "sel"
+    },
+    {
+     "id": "eau-couscoussier",
+     "q": null,
+     "u": "",
+     "name": "eau",
+     "note": "pour remplir le bas du couscoussier à moitié environ",
+     "canon": "eau"
+    },
+    {
+     "id": "beurre",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de beurre",
+     "note": "un peu ramolli",
+     "canon": "beurre"
+    }
+   ]
+  },
+  {
+   "group": "Décor",
+   "items": [
+    {
+     "id": "amandes",
+     "q": 90,
+     "u": "g",
+     "name": "d'amandes mondées (sans peau)",
+     "canon": "amandes"
+    },
+    {
+     "id": "huile-friture",
+     "q": null,
+     "u": "",
+     "name": "un fond d'huile neutre",
+     "note": "pour frire les amandes",
+     "canon": "huile"
+    },
+    {
+     "id": "sucre-glace",
+     "q": 85,
+     "u": "g",
+     "name": "de sucre glace",
+     "canon": "sucre-glace"
+    },
+    {
+     "id": "cannelle-moulue",
+     "q": 1,
+     "u": "c. à s.",
+     "name": "de cannelle moulue",
+     "canon": "cannelle"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "phase": "Préparation",
+   "title": "Prépare les oignons, l'ail et les herbes",
+   "text": "Émince finement {{oignons}} d'oignons. Râpe ou écrase {{ail:full}}. Hache {{persil}} de persil et {{coriandre}} de coriandre, mélange-les, puis partage-les en deux tas. Si le boucher ne l'a pas fait, coupe {{poulet}} de poulet en morceaux.",
+   "timer": null,
+   "tip": "Après avoir touché le poulet cru, lave-toi les mains et nettoie la planche et le couteau avant de t'en servir pour autre chose (Anses).",
+   "img": {
+    "src": "img/etapes/hacher-persil.jpg",
+    "alt": "Persil haché au couteau sur une planche",
+    "caption": "Hacher les herbes",
+    "w": 803,
+    "h": 1000,
+    "credit": "Photo de l'étape « Prépare les oignons, l'ail et les herbes » : katerha, Wikimedia Commons, licence CC BY 2.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais revenir le poulet aux épices",
+   "text": "Dans une grande marmite à fond épais, mets le poulet, les oignons, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran émietté et {{cannelle-baton:full}}. Fais revenir 10 min à feu moyen-doux, en remuant souvent pour que rien n'attache.",
+   "timer": {
+    "min": 10,
+    "label": "Poulet aux épices",
+    "done": "Ajoute le smen, la moitié des herbes et l'eau."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Laisse mijoter à couvert",
+   "text": "Ajoute {{smen}} de smen, la moitié des herbes et {{eau}} d'eau. Couvre et laisse mijoter 45 min à feu moyen-doux, en remuant de temps en temps. Le poulet cuit surtout dans son propre jus. Si ça attache, ajoute juste un peu d'eau chaude.",
+   "timer": {
+    "min": 45,
+    "label": "Mijotage du poulet",
+    "done": "Vérifie que le poulet est bien cuit."
+   }
+  },
+  {
+   "phase": "Préparation",
+   "title": "Pendant ce temps, fais frire les amandes",
+   "text": "Dans une petite poêle, chauffe {{huile-friture}} à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient dorées. Égoutte-les sur du papier absorbant. Quand elles ont refroidi, concasse-les grossièrement au mortier ou au mixeur, par petits coups.",
+   "timer": null
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Vérifie que le poulet est bien cuit",
+   "text": "Coupe le plus gros morceau, près de l'os. La chair doit être blanche jusqu'au centre, sans trace rose, et le jus doit être clair. La viande doit se détacher facilement de l'os. Avec un thermomètre de cuisine piqué au cœur de la partie la plus épaisse, la chair doit atteindre 75 °C pendant 30 secondes, ou 70 °C pendant 2 minutes. Sinon, couvre et laisse cuire encore un peu, puis vérifie de nouveau.",
+   "timer": null,
+   "tip": "La partie la plus épaisse du poulet est la cuisse : vérifie à la jointure entre le pilon et le haut de cuisse, qui ne doit pas être rosée (FSA ; Anses)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Réduis la sauce aux oignons",
+   "text": "Sors les morceaux de poulet et pose-les dans un plat. Ajoute le reste des herbes dans la marmite. Laisse cuire la sauce à découvert, à feu moyen, en remuant souvent, jusqu'à ce que les oignons soient fondus comme une compote et que la sauce soit épaisse. Retire les bâtons de cannelle. Goûte et rectifie le sel.",
+   "timer": null
+  },
+  {
+   "phase": "Préparation",
+   "title": "Désosse le poulet",
+   "text": "Dès que le poulet est assez tiède pour être touché, retire la peau et les os. Coupe ou effiloche la chair en morceaux. Remets-la dans la sauce, mélange, couvre et garde la marmite de côté.",
+   "timer": null,
+   "tip": "Ne laisse pas le poulet cuit plus de 2 heures à température ambiante : tu le réchaufferas juste avant de servir (Anses ; FSA)."
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Huile les vermicelles et fais une première vapeur",
+   "text": "Remplis à moitié le bas du couscoussier d'{{eau-couscoussier}} et porte à ébullition. Huile légèrement le haut du couscoussier. Dans un très grand plat, mélange {{vermicelles}} de vermicelles avec {{huile-vermicelles}} d'huile, à la main, jusqu'à ce que tous les brins soient enrobés. Mets-les dans le haut du couscoussier et pose-le sur la marmite. Dès que la vapeur traverse les vermicelles, compte 20 min.",
+   "timer": {
+    "min": 20,
+    "label": "1re vapeur",
+    "done": "Verse les vermicelles dans le grand plat."
+   },
+   "tip": "Manipule les vermicelles délicatement et ne les tasse pas dans le couscoussier (Taste of Maroc).",
+   "img": {
+    "src": "img/etapes/couscous-keskas.jpg",
+    "alt": "Le haut d'un couscoussier posé sur la marmite, ici rempli de graine de couscous",
+    "caption": "La cuisson à la vapeur du couscoussier",
+    "w": 562,
+    "h": 1000,
+    "credit": "Photo de l'étape « Huile les vermicelles et fais une première vapeur » : Mounir Neddi, Wikimedia Commons, licence CC BY-SA 4.0 (réduite)."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Arrose les vermicelles et fais une deuxième vapeur",
+   "text": "Fais fondre {{sel-vermicelles}} de sel dans {{eau-vermicelles}} d'eau. Verse les vermicelles dans le grand plat et défais les paquets avec deux fourchettes, puis à la main quand ils ont un peu tiédi. Arrose-les de la moitié de l'eau salée et mélange jusqu'à ce qu'elle soit absorbée. Remets-les dans le haut du couscoussier et compte 20 min dès que la vapeur les traverse. Vérifie qu'il reste assez d'eau dans le bas.",
+   "timer": {
+    "min": 20,
+    "label": "2e vapeur",
+    "done": "Verse les vermicelles dans le grand plat."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Fais la dernière vapeur",
+   "text": "Défais de nouveau les vermicelles dans le plat et arrose-les du reste de l'eau salée. Remets-les dans le haut du couscoussier et compte 15 min dès que la vapeur les traverse. Goûte : les brins doivent être tendres, légers et bien séparés. S'ils sont encore un peu fermes, laisse-les encore 5 min. S'ils restent fermes, arrose-les d'un peu d'eau et fais une quatrième vapeur de 15 à 20 min, sans trop les cuire.",
+   "timer": {
+    "min": 15,
+    "label": "3e vapeur",
+    "done": "Goûte : tendres et légers ? Sinon, encore une vapeur."
+   }
+  },
+  {
+   "phase": "Cuisson",
+   "title": "Pendant ce temps, réchauffe le poulet",
+   "text": "Remets la marmite du poulet sur feu moyen-doux. Réchauffe en remuant doucement, jusqu'à ce que la sauce bouillonne et que le poulet soit brûlant.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Beurre les vermicelles",
+   "text": "Verse les vermicelles brûlants dans le grand plat. Ajoute {{beurre}} de beurre et mélange avec une fourchette pour bien les aérer.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Cache le poulet sous les vermicelles",
+   "text": "Étale la moitié des vermicelles dans le plat de service. Dispose le poulet au centre et nappe-le de sauce. Recouvre avec le reste des vermicelles et forme un dôme avec les mains : le poulet ne doit plus se voir.",
+   "timer": null
+  },
+  {
+   "phase": "Service",
+   "title": "Décore et sers aussitôt",
+   "text": "Trace des lignes sur le dôme avec {{cannelle-moulue}} de cannelle, du sommet vers le bas. Saupoudre {{sucre-glace}} de sucre glace à travers une passoire fine, entre les lignes. Parsème les amandes concassées, surtout au sommet. Sers tout de suite, bien chaud.",
+   "timer": null
+  }
+ ],
+ "secrets": [
+  {
+   "text": "Cuis les vermicelles à la vapeur, jamais dans l'eau : les brins gonflent et restent légers et séparés, sans devenir collants ni lourds.",
+   "source": "Taste of Maroc (recette et guide de la vapeur) ; Choumicha (cheveux d'ange cuits trois fois à la vapeur)"
+  },
+  {
+   "text": "Avant la première vapeur, enrobe d'huile les vermicelles secs, avec les mains, jusqu'au dernier brin : ils ne collent pas entre eux.",
+   "source": "Taste of Maroc ; Choumicha ; Cooking with Alia ; Lalla Moulati"
+  },
+  {
+   "text": "Compte le temps de vapeur à partir du moment où la vapeur traverse les vermicelles, pas dès que tu poses le couscoussier.",
+   "source": "Taste of Maroc ; Morocco World News"
+  },
+  {
+   "text": "À la fin de chaque vapeur, des brins se dressent à la surface des vermicelles : c'est le signe que tu peux passer à l'étape suivante.",
+   "source": "Taste of Maroc ; Lalla Moulati (recette du 13 mai 2023)"
+  },
+  {
+   "text": "Entre deux vapeurs, défais bien les paquets, avec deux fourchettes puis à la main, et arrose d'eau salée : à chaque passage, les vermicelles gonflent et s'attendrissent.",
+   "source": "Choumicha (deux fourchettes) ; Taste of Maroc ; Morocco World News ; Cooking with Alia ; Lalla Moulati"
+  },
+  {
+   "text": "Manipule les vermicelles délicatement et ne les tasse jamais dans le haut du couscoussier.",
+   "source": "Taste of Maroc"
+  },
+  {
+   "text": "Le poulet cuit presque sans eau : il braise dans son propre jus.",
+   "source": "Taste of Maroc (pas d'eau sauf si c'est nécessaire) ; Choumicha (10 cl d'eau pour un poulet de 1,5 kg)"
+  },
+  {
+   "text": "Sors le poulet avant de réduire la sauce : les oignons fondent en compote pendant que la viande attend à part.",
+   "source": "Choumicha ; Cooking with Alia ; Morocco World News"
+  },
+  {
+   "text": "Désosse le poulet et retire la peau avant de le cacher sous les vermicelles. Christine Benlafquih (Taste of Maroc) laisse le plus souvent les os.",
+   "source": "Choumicha ; Morocco World News ; Lalla Moulati (peau et os retirés) ; Taste of Maroc"
+  },
+  {
+   "text": "Prépare le poulet à l'avance et cuis les vermicelles juste avant de servir ; réchauffe le poulet au dernier moment.",
+   "source": "Cooking with Alia ; Taste of Maroc (réchauffer le poulet à feu moyen-doux s'il a refroidi)"
+  },
+  {
+   "text": "Tu peux passer les vermicelles à la vapeur le matin ou la veille, puis les réchauffer à la vapeur ou au micro-ondes. Entre-temps, mets-les au réfrigérateur dans les 2 heures.",
+   "source": "Taste of Maroc (réponse de Christine Benlafquih à une lectrice) ; FSA et Anses pour le réfrigérateur"
+  },
+  {
+   "text": "Pour décorer, trace des lignes de cannelle et de sucre glace sur le dôme, et garde les amandes pour le sommet.",
+   "source": "Bladi.net (grille de cannelle et de sucre glace) ; Lalla Moulati (lignes de sucre glace et de cannelle, amandes au centre)"
+  },
+  {
+   "text": "« Medfouna » veut dire « enterrée » : le poulet est caché à l'intérieur du dôme de vermicelles.",
+   "source": "Taste of Maroc ; Morocco World News (« enterre le poulet sous le reste de la seffa »)"
+  }
+ ],
+ "mistakes": [
+  "Faire bouillir les vermicelles dans l'eau : ils deviennent mous et collants ; la vapeur les garde légers (Taste of Maroc).",
+  "Tasser les vermicelles dans le couscoussier (Taste of Maroc).",
+  "Trop cuire les vermicelles à la dernière vapeur : ils deviennent trop mous (Cooking with Alia).",
+  "Noyer le poulet d'eau : il doit cuire surtout dans son propre jus (Taste of Maroc ; Choumicha n'ajoute que 10 cl d'eau).",
+  "Laisser attacher et brûler le poulet ou les oignons au fond de la marmite : cela gâche la sauce (Taste of Maroc).",
+  "Servir le poulet sans vérifier qu'il est cuit à cœur : chair blanche, jus clair, 70 °C à cœur (Anses) ou 75 °C pendant 30 secondes (FSA).",
+  "Laisser le poulet cuit plus de 2 heures à température ambiante (Anses ; FSA).",
+  "Servir tiède : la seffa medfouna se mange tout de suite, bien chaude (Taste of Maroc ; Cooking with Alia ; Choumicha ; Lalla Moulati).",
+  "Réchauffer les restes plusieurs fois : une seule fois, jusqu'à ce qu'ils soient brûlants (FSA)."
+ ],
+ "serving": "Sers-la bien chaude, dès qu'elle est montée, au centre de la table : selon la tradition, chacun mange de son côté du plat (Taste of Maroc). Mets à côté de petits bols de sucre glace, de cannelle et d'amandes, pour ceux qui en veulent plus (Taste of Maroc). Choumicha l'accompagne de lait parfumé à l'eau de fleur d'oranger. Restes : au réfrigérateur dans les 2 heures, à manger dans les 48 heures, réchauffés une seule fois jusqu'à ce qu'ils soient brûlants (FSA ; Anses : dans les 3 jours).",
+ "variants": [
+  "Aux raisins secs : rince-les, fais-les tremper, puis mélange-les aux vermicelles pour la dernière vapeur. Choumicha les ajoute « toujours » à la dernière cuisson à la vapeur ; Taste of Maroc, Morocco World News et Cooking with Alia aussi. Taste of Maroc propose aussi de les caraméliser à part, avec un peu de beurre et de sucre ou de miel.",
+  "Plus sucrée : mélange du sucre glace (ou du sucre) aux vermicelles chauds avec le beurre (Taste of Maroc, Morocco World News, Bladi.net, Lalla Moulati).",
+  "Sauce sucrée : un peu de miel dans la sauce réduite (Morocco World News et Cooking with Alia : 2 c. à s. pour un poulet), avec de la cannelle moulue (Cooking with Alia ; Lalla Moulati, qui ajoute aussi une cuillère de sucre).",
+  "Sauce plus riche : Taste of Maroc ajoute du beurre à l'huile d'olive.",
+  "Lait au dernier arrosage : Taste of Maroc remplace l'eau par du lait pour une version sucrée ; Lalla Moulati arrose les vermicelles d'un verre de lait ; Cooking with Alia ajoute du lait en poudre.",
+  "Méthode de Choumicha : après la première et la deuxième vapeur, pose le haut du couscoussier sur un bol, sale les vermicelles et rince-les à l'eau bouillante, puis huile-les, aère-les et laisse-les refroidir avant la vapeur suivante. Bladi.net verse aussi l'eau chaude du bas du couscoussier sur les vermicelles, puis les égoutte.",
+  "À l'agneau ou au bœuf : Choumicha cache des brochettes d'agneau cuites dans une sauce aux oignons compotés, avec des raisins secs dans les vermicelles ; Taste of Maroc prend de l'agneau ou du bœuf tendre, sans os, couvert d'eau et cuit plus longtemps.",
+  "Au couscous à la place des vermicelles (Taste of Maroc ; Morocco World News).",
+  "Décor de fête : abricots secs et dattes caramélisés, noix et petits œufs durs (Cooking with Alia) ; œufs durs et cacahuètes (Lalla Moulati) ; amandes frites mixées avec un peu de sucre glace et d'eau de fleur d'oranger (Taste of Maroc ; Cooking with Alia).",
+  "Sans viande : la seffa sucrée se sert aussi en dessert (Morocco World News) ; Choumicha la fait aux raisins secs et aux amandes, servie avec du lait parfumé à l'eau de fleur d'oranger."
+ ],
+ "sources": [
+  {
+   "name": "Choumicha (Choumicha Chafay) – « Seffa Medfouna au poulet », choumicha.ma, copie archivée du 9 juin 2026 (site hors ligne)",
+   "url": "https://web.archive.org/web/20260609210406/https://www.choumicha.ma/recette/1566-seffa-medfouna-au-poulet.html",
+   "used_for": "Source marocaine de base, pour 6 : poulet de 1,5 kg, 1 kg d'oignons émincés, persil, 5 c. à s. d'huile, 1 c. à c. de smen (facultatif), 1 c. à c. de gingembre et de curcuma, ½ c. à c. de poivre, 8 pistils de safran, 2 bâtons de cannelle, 10 cl d'eau ; revenir 10 min à feu doux, poulet sorti puis sauce cuite jusqu'à la compote, poulet désossé ; 500 g de cheveux d'ange, 1 c. à s. de beurre, 250 g d'amandes, 80 g de sucre glace, 1 c. à s. de cannelle ; moitié des vermicelles dessous ; servie chaude avec du lait à la fleur d'oranger ; 1 h de cuisson, 2 h en tout ; catégorie « Pour recevoir »."
+  },
+  {
+   "name": "Choumicha – « Cuisson du vermicelle « cheveux d'ange » à la vapeur », copie archivée du 9 juin 2026",
+   "url": "https://web.archive.org/web/20260609205022/https://www.choumicha.ma/recette/331-cuisson-du-vermicelle-cheveux-d-ange-a-la-vapeur.html",
+   "used_for": "Technique pour 500 g : 2 c. à s. d'huile avant la première vapeur, trois vapeurs de 20 min, vermicelles salés et rincés à l'eau bouillante entre deux vapeurs, aérés avec deux fourchettes ; raisins secs toujours à la dernière vapeur."
+  },
+  {
+   "name": "Choumicha – « Seffa de vermicelle Medfouna à l'agneau », copie archivée du 8 juin 2026",
+   "url": "https://web.archive.org/web/20260608110949/https://choumicha.ma/recette/1031-seffa-de-vermicelle-medfouna-a-lagneau.html",
+   "used_for": "Variante à l'agneau (brochettes, sauce aux oignons compotés, raisins secs à la dernière vapeur) ; recoupement : 4 c. à s. de persil, 1 c. à s. de beurre et 1 c. à s. de cannelle pour 500 g de vermicelles."
+  },
+  {
+   "name": "Choumicha – « Seffa aux raisins secs et aux amandes », copie archivée du 18 avril 2026",
+   "url": "https://web.archive.org/web/20260418101105/https://www.choumicha.ma/recette/1568-seffa-aux-raisins-secs-et-aux-amandes.html",
+   "used_for": "Seffa sucrée sans viande, servie avec du lait parfumé à l'eau de fleur d'oranger (variante et service)."
+  },
+  {
+   "name": "Taste of Maroc (Christine Benlafquih, Casablanca) – « Seffa Medfouna Recipe – Broken Vermicelli or Couscous with Chicken, Lamb or Beef », mise à jour du 1er juin 2020, copie archivée du 15 juin 2026",
+   "url": "https://web.archive.org/web/20260615074607/https://tasteofmaroc.com/seffa-medfouna-recipe/",
+   "used_for": "Recette pour 8 : 1 kg de vermicelles, un poulet sans peau, 2 gros oignons, 1 c. à s. de gingembre, 1 c. à c. de curcuma, ½ c. à c. de poivre noir, 1 c. à c. de safran, 2 bâtons de cannelle, ¼ de tasse d'huile d'olive et de coriandre ; poulet cuit sans eau sauf si nécessaire, environ 1 h, sauce réduite ; décor de cannelle, amandes frites moulues et sucre glace ; service immédiat, petits bols à part, chacun mange de son côté ; « medfouna » veut dire « enterrée » ; vermicelles préparables la veille (réponse à une lectrice) ; temps : 30 min de préparation, 2 h 30 de cuisson."
+  },
+  {
+   "name": "Taste of Maroc (Christine Benlafquih) – « How to Steam Broken Vermicelli or Angel Hair Pasta (Chaariya) for Seffa and Other Moroccan Dishes », mise à jour du 3 juillet 2020, copie archivée du 8 mars 2026",
+   "url": "https://web.archive.org/web/20260308134826/https://tasteofmaroc.com/how-to-steam-vermicelli/",
+   "used_for": "Vapeur plutôt qu'ébullition ; huile sur les vermicelles secs ; panier huilé, vermicelles non tassés ; 20 min comptées dès que la vapeur traverse ; brins qui se dressent ; arrosages de 300 ml, 475 ml salée et 236 ml pour 1 kg ; quatre ou cinq vapeurs selon les pâtes."
+  },
+  {
+   "name": "Cooking with Alia – « 205 – Moroccan Chicken Vermicelli (Seffa Medfouna) »",
+   "url": "https://www.cookingwithalia.com/205-moroccan-chicken-vermicelli-seffa-medfouna/",
+   "used_for": "Source marocaine : 1 kg de pilons, 500 g d'oignons râpés, ¼ de tasse de persil et de coriandre, 1 c. à c. de gingembre, 2 bâtons de cannelle, ½ c. à c. de smen ; poulet sorti, sauce réduite ; 500 g de vermicelles, 2 c. à s. d'huile, eau salée entre les vapeurs ; ne pas trop cuire ; poulet préparé à l'avance, vermicelles juste avant de servir ; dôme."
+  },
+  {
+   "name": "Cooking with Alia – « Moroccan Chicken Vermicelli (Seffa Medfouna) / سفة مدفونة بالدجاج »",
+   "url": "https://www.cookingwithalia.com/862-moroccan-chicken-vermicelli-seffa-medfouna/",
+   "used_for": "Noms du plat en darija et en arabe (titre « Seffa Medfouna / سفة مدفونة بالدجاج ») ; sans nombre de parts : un poulet, 1 kg d'oignons, 2 gousses d'ail, 1 c. à c. de sel, de curcuma, de gingembre et de smen, ½ c. à c. de poivre, 6 c. à s. d'huile, 250 ml d'eau, 45 min ; 500 g de vermicelles, trois vapeurs (20, 15 et 10 min), 1 tasse d'eau salée puis 1 tasse d'eau au lait en poudre ; décor de fête."
+  },
+  {
+   "name": "Morocco World News (Layla Dahamou) – « How to Make Moroccan Chicken Seffa Madfouna », 20 octobre 2019",
+   "url": "https://www.moroccoworldnews.com/2019/10/76134/moroccan-chicken-seffa-madfouna-recipe/",
+   "used_for": "Média marocain ; repas de famille, pas réservé aux invités ; sans le poulet, la seffa se sert en dessert aux cérémonies et grands événements ; pour 8 : un poulet, 2 gros oignons, 1 c. à c. de gingembre et de smen, ½ c. à c. de poivre et de curcuma, 3 gousses d'ail, ¼ de tasse d'huile d'olive ; poulet revenu 10 min puis 40 min ; 1 kg de vermicelles, 3 ou 4 vapeurs de 15 min comptées dès que la vapeur monte, eau salée, beurre ; 100 g d'amandes, cannelle, sucre glace ; moitié des vermicelles dessous."
+  },
+  {
+   "name": "Bladi.net – « Vermicelles à la vapeur » (recette non signée)",
+   "url": "https://www.bladi.net/recettes/vermicelles-a-la-vapeur.html",
+   "used_for": "Portail marocain : seffa au poulet caché sous les vermicelles ; couscoussier huilé, 2 c. à s. d'huile, vapeur de 20 min, eau chaude versée puis égouttée, beurre et sucre ; grille de cannelle et de sucre glace, amandes frites ; ail, persil, coriandre."
+  },
+  {
+   "name": "Lalla Moulati (مطبخ لالة مولاتي) – « السفة مدفونة بطريقة سهلة و رائعة بالصور » (seffa medfouna facile, recette d'Oum Larbi), 11 mars 2015",
+   "url": "https://www.lalamoulati.net/14834.html",
+   "used_for": "Source marocaine en arabe : 1 kg de vermicelles fins, poulet moyen, 2 gousses d'ail, 2 c. à s. de beurre mou ; 3 ou 4 vapeurs avec un verre d'eau bouillante entre deux ; poulet sans peau ni os ; moitié des vermicelles dessous, dôme, lignes de sucre glace et de cannelle, amandes au centre ; servie chaude."
+  },
+  {
+   "name": "Lalla Moulati – « طريقة تحضير السفة مدفونة بالدجاج بشكل رائع و كتجي لذيذة » (seffa medfouna au poulet), 20 septembre 2017",
+   "url": "https://www.lalamoulati.net/83626.html",
+   "used_for": "500 g de vermicelles enrobés d'huile, sel et un verre d'eau entre les vapeurs, trois vapeurs ; poulet aux oignons, ail, gingembre et curcuma ; variante sucrée (cannelle, sucre, raisins) ; décor d'œufs durs et de cacahuètes."
+  },
+  {
+   "name": "Lalla Moulati – « طريقة بسيطة وساهلة فتحضير السفة المدفونة برستيج » (seffa medfouna), 13 mai 2023",
+   "url": "https://www.lalamoulati.net/367751.html",
+   "used_for": "500 g de vermicelles, 3 c. à s. d'huile, trois vapeurs ; chaque vapeur finit quand les brins du dessus se dressent ; dernier arrosage avec un verre de lait. Recoupement des quantités : pages du 13 octobre 2023 (https://www.lalamoulati.net/378248.html, 500 g de vermicelles, 200 g d'amandes frites) et du 22 octobre 2023 (https://www.lalamoulati.net/371107.html, 500 g de vermicelles, 1 c. à s. de beurre), dont la méthode est en vidéo."
+  },
+  {
+   "name": "Anses – « Qu'est-ce que la salmonellose et comment s'en prémunir ? » (27 octobre 2025) et « Campylobactériose » (21 mars 2025)",
+   "url": "https://www.anses.fr/fr/content/quest-ce-que-la-salmonellose-et-comment-sen-premunir",
+   "used_for": "Source officielle (France) : cuire à cœur (70 °C) les viandes de volaille ; plus de 65 °C à cœur contre Campylobacter, jointure de la cuisse sans trace rose (https://www.anses.fr/fr/article/campylobacteriose) ; se laver les mains et nettoyer planche et ustensiles après la viande crue."
+  },
+  {
+   "name": "Anses – « Éviter les toxi-infections alimentaires en confinement : les bonnes pratiques », 8 avril 2020",
+   "url": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques",
+   "used_for": "Plats cuisinés à la maison : pas plus de 2 h à température ambiante, consommés dans les 3 jours, grandes quantités réparties en petites portions ; réchauffer à couvert jusqu'à ce que la vapeur s'échappe ; 70 °C à cœur élimine la plupart des germes."
+  },
+  {
+   "name": "Food Standards Agency (Royaume-Uni) – « Cooking your food », publié le 18 décembre 2017, page GOV.UK consultée le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+   "used_for": "Source officielle : volaille cuite jusqu'au centre, jus clair, aucune chair rose, vérification dans la cuisse entre le pilon et le blanc ; 70 °C pendant 2 min ou 75 °C pendant 30 s ; restes au réfrigérateur dans les 2 h, mangés dans les 48 h, réchauffés une seule fois jusqu'à être brûlants."
+  },
+  {
+   "name": "Food Standards Agency – « How to chill, freeze and defrost food safely », publié le 18 décembre 2017, page GOV.UK consultée le 7 novembre 2026",
+   "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+   "used_for": "Réfrigérateur entre 0 et 5 °C ; plat cuit mis au froid dans les 1 à 2 h, en petites portions ; restes mangés dans les 48 h ou congelés."
+  },
+  {
+   "name": "USDA FoodData Central – portions du sucre glace (n° 169656) et des amandes (n° 170567)",
+   "url": "https://fdc.nal.usda.gov/portal-data/external/169656",
+   "used_for": "Conversions des tasses de Taste of Maroc : 1 tasse de sucre glace non tamisé = 120 g ; 1 tasse d'amandes entières = 143 g (https://fdc.nal.usda.gov/portal-data/external/170567)."
+  },
+  {
+   "name": "Machahid24 (مشاهد 24, média marocain) – Safaa Sabri, « طريقة تحضير السفة المغربية » (préparation de la seffa marocaine), 19 mai 2014 ; site protégé par Cloudflare (erreur 403), lu sur la copie web.archive.org du 9 octobre 2025 ; robots.txt (copie du 2 octobre 2026) : pages autorisées",
+   "url": "https://web.archive.org/web/20251009103757/https://machahid24.com/lifestyle/11940.html",
+   "used_for": "Contre-vérification : Source marocaine non citée par l'auteur (seffa sucrée, sans poulet) : 500 g de vermicelles enduits d'huile avant la première vapeur ; plusieurs vapeurs au couscoussier ; entre deux, les vermicelles sont mouillés d'eau ; à la troisième, eau, sel et raisins secs, puis dernière vapeur ; à la fin, beurre (25 g) et sucre ; décor de cannelle et de sucre. Confirme secrets[1] et secrets[4], et les variantes « raisins secs à la dernière vapeur » et « plus sucrée »."
+  },
+  {
+   "name": "Wiktionnaire (en.wiktionary.org) – entrée « مدفون » (madfūn)",
+   "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AF%D9%81%D9%88%D9%86",
+   "used_for": "Contre-vérification : مدفونة (madfūna) est le féminin de مدفون, participe passif de دفن (dafana), « enterré » : deuxième source, indépendante de Taste of Maroc, pour « medfouna = enterrée » (secrets[12])."
+  }
+ ],
+ "discrepancies": [
+  "Méthode : recette de base de Choumicha (6 personnes), recoupée avec dix autres recettes de seffa medfouna ; quantités ramenées à un poulet ou à 500 g de vermicelles, médianes calculées avec python3 -I. Conversions : 1 tasse = 236,6 ml, ¼ de tasse = 4 c. à s. ; 2,2 lb = 998 g ; 1 tasse de sucre glace = 120 g et 1 tasse d'amandes entières = 143 g (USDA FoodData Central).",
+  "Vermicelles : 500 g dans 7 recettes sur 10 (Choumicha pour 6, Cooking with Alia deux fois, Lalla Moulati quatre fois), 1 kg chez Taste of Maroc et Morocco World News (pour 8) et chez Lalla Moulati (2015). Par personne, la médiane des trois recettes qui donnent un nombre de parts (Choumicha, Taste of Maroc, Morocco World News) est de 125 g, soit 750 g pour 6. Retenu 500 g pour 6 : valeur majoritaire et celle de Choumicha.",
+  "Poulet : 1,5 kg pour 6 chez Choumicha, seule recette qui donne un poids ; un poulet entier sans poids chez Taste of Maroc et Morocco World News (pour 8) et chez Cooking with Alia (862, sans nombre de parts) ; 1 kg de pilons chez Cooking with Alia (205). Retenu 1,5 kg.",
+  "Oignons : 1 kg par poulet chez Choumicha et Cooking with Alia (862), 500 g pour 1 kg de pilons chez Cooking with Alia (205) ; 2 gros oignons chez Taste of Maroc, Morocco World News, Bladi.net et Lalla Moulati (2017), 1 gros chez Lalla Moulati (2015). Parmi les recettes qui pèsent les oignons, 1 kg est majoritaire : retenu pour obtenir la sauce compotée de Choumicha. Avec 2 gros oignons, la sauce est plus légère.",
+  "Huile de la sauce : 5 c. à s. (Choumicha), 6 (Cooking with Alia, 862), 4 (Morocco World News et Taste of Maroc, ¼ de tasse), 3 (Cooking with Alia, 205, ramené à 1,5 kg de poulet) : médiane 4 c. à s. Taste of Maroc ajoute 4 c. à s. de beurre : variante.",
+  "Épices pour un poulet : gingembre 1 c. à c. (Choumicha, Cooking with Alia deux fois, Morocco World News ; 1 c. à s. chez Taste of Maroc, ½ c. à c. chez Bladi.net) ; curcuma 1 c. à c. (Choumicha, Cooking with Alia 862, Taste of Maroc ; ½ chez Morocco World News, ¼ chez Cooking with Alia 205) ; poivre noir ½ c. à c. (Choumicha, Cooking with Alia 862, Morocco World News, Taste of Maroc ; 1 chez Bladi.net, ¼ chez Cooking with Alia 205) ; smen 1 c. à c. (Choumicha, Cooking with Alia 862, Morocco World News ; ½ chez Cooking with Alia 205) ; sel 1 c. à c. (médiane, de ½ à 1½) ; 2 bâtons de cannelle (Choumicha, Cooking with Alia 205, Taste of Maroc ; 3 chez Cooking with Alia 862). Safran : 8 pistils (Choumicha), une grosse pincée (Morocco World News, Cooking with Alia), 1 c. à c. de pistils (Taste of Maroc) : retenu 1 pincée.",
+  "Ail : absent chez Choumicha, Taste of Maroc et Cooking with Alia (205) ; 2 gousses chez Cooking with Alia (862) et Lalla Moulati (2015), 3 chez Morocco World News, « selon le goût » chez Bladi.net, présent chez Lalla Moulati (2017). Présent dans 5 recettes sur 8 : retenu 2 gousses.",
+  "Herbes : 1 bouquet de persil (Choumicha) ; ¼ de tasse (4 c. à s.) de persil et autant de coriandre (Cooking with Alia, 205) ; 1 c. à s. de chaque (Morocco World News) ; ¼ de tasse de coriandre (Taste of Maroc) ; 4 c. à s. de persil (Choumicha, version à l'agneau) ; persil et coriandre sans quantité (Bladi.net). Retenu 4 c. à s. de chaque, ajoutées en deux fois comme chez Choumicha.",
+  "Eau de la sauce : 10 cl (Choumicha), 250 ml (Cooking with Alia, 862), pas d'eau sauf si nécessaire (Taste of Maroc) ; Morocco World News couvre le poulet d'eau et Cooking with Alia (205) le mouille à mi-hauteur. Médiane des valeurs chiffrées (0, 100 et 250 ml) : 100 ml.",
+  "Cuisson du poulet : revenu 10 min (Choumicha, Morocco World News, Taste of Maroc) ou 5 min (Cooking with Alia) : retenu 10 min. Mijotage : 30 à 40 min (Cooking with Alia, 205), 40 min (Morocco World News), 45 min (Cooking with Alia, 862), environ 1 h (Taste of Maroc ; 1 h de cuisson annoncée par Choumicha) : médiane 45 min, suivie du contrôle de cuisson officiel (FSA, Anses). Pas de durée confirmée pour la réduction (10 min seulement chez Cooking with Alia), donc pas de minuteur.",
+  "Vapeur : 3 passages chez Choumicha, Cooking with Alia (862) et Lalla Moulati (2017, 2023), 3 ou 4 chez Morocco World News et Lalla Moulati (2015), 4 ou 5 chez Taste of Maroc, 2 ou 3 chez Cooking with Alia (205) : médiane 3, avec une quatrième vapeur si les brins sont encore fermes (Taste of Maroc, Morocco World News). Durées : 20 min (Choumicha, Taste of Maroc, Bladi.net, Cooking with Alia 862 pour la première), 15 min (Morocco World News), 30 min (Lalla Moulati, 2015) : 20 min pour les deux premières ; pour la troisième, 20 min (Choumicha, Taste of Maroc), 15 min (Morocco World News), 10 min (Cooking with Alia, 862), médiane 17,5 min : retenu 15 à 20 min avec dégustation.",
+  "Eau d'arrosage pour 500 g, deux arrosages : 237 ml (Morocco World News), 388 ml (Taste of Maroc), 473 ml (Cooking with Alia, 862) ; Cooking with Alia (205) ne chiffre que le premier (118 ml). Médiane 312 ml, arrondie à 300 ml. Sel : 1 c. à c. pour 500 g (Taste of Maroc, Cooking with Alia 862). Choumicha et Bladi.net rincent plutôt à l'eau chaude : variante.",
+  "Huile de la première vapeur : 2 c. à s. pour 500 g (Choumicha, Cooking with Alia 205 ; médiane de 1,5 à 6 c. à s.). Beurre final : 1 c. à s. pour 500 g (Choumicha, Morocco World News, Lalla Moulati trois fois ; 2 chez Taste of Maroc, 3 chez Cooking with Alia 862).",
+  "Décor : amandes pour 500 g de vermicelles : 250 g (Choumicha), 100 g (Cooking with Alia 862, sans nombre de parts), 50 g (Morocco World News), 72 g (Taste of Maroc) : médiane 86 g, arrondie à 90 g. Frites (Bladi.net, Cooking with Alia, Lalla Moulati, Taste of Maroc) plutôt que grillées (Choumicha, Morocco World News). Sucre glace pour 500 g de vermicelles : 80 g (Choumicha), 90 g dont un tiers mélangé aux vermicelles (Taste of Maroc) : médiane 85 g. Cannelle : 1 c. à s. pour 500 g (Choumicha, Taste of Maroc).",
+  "Sucre mélangé aux vermicelles : oui chez Taste of Maroc, Morocco World News, Bladi.net et Lalla Moulati (2015) ; non chez Choumicha, Cooking with Alia (deux recettes) et Lalla Moulati (2017, sucre dans la sauce). Égalité : gardé en variante.",
+  "Assemblage : la moitié des vermicelles dessous (Choumicha, Morocco World News, Lalla Moulati), un quart à un tiers (Taste of Maroc) : retenu la moitié.",
+  "Temps : préparation 30 min (Taste of Maroc). Cuisson estimée à 165 min, en enchaînant le poulet puis les vermicelles car l'appli n'a qu'un minuteur : 10 + 45 + 20 (vérification et réduction) + 10 (désossage) + 70 (trois vapeurs et manipulations) + 10 (montage). Taste of Maroc annonce 2 h 30 de cuisson ; Choumicha 2 h en tout pour le poulet, et 1 h 03 pour la vapeur.",
+  "Taste of Maroc et Choumicha ont été lus sur des copies de web.archive.org : le 7 novembre 2026 (heure GMT), tasteofmaroc.com refusait l'accès automatique (erreur 403) et choumicha.ma était hors ligne (erreur 525). Leurs fichiers robots.txt autorisent ces pages.",
+  "Contre-vérifiée le 8 novembre 2026 par une seconde recherche indépendante : verdict « conforme avec corrections », 14 correction(s) appliquée(s)."
+ ],
+ "unverified": [
+  "Poids du poulet : seule Choumicha donne un poids (1,5 kg pour 6) ; les autres recettes disent « un poulet ».",
+  "Sens de « medfouna » : confirmé par deux sources, Taste of Maroc (« enterrée ») et le Wiktionnaire (مدفونة, madfūna, participe passif féminin de دفن, « enterré ») ; ce point peut sortir de la liste des points non vérifiés.",
+  "Mariages : aucune des pages lues ne cite les mariages ; l'occasion indiquée vient de Taste of Maroc (grande occasion, fête), Morocco World News (repas de famille ; la seffa sans poulet se sert en dessert aux cérémonies et grands événements) et Choumicha (catégorie « Pour recevoir »).",
+  "Couvrir ou non le haut du couscoussier pendant la vapeur : oui chez Cooking with Alia, non chez Taste of Maroc ; la recette ne le précise pas.",
+  "Demi-citron dans l'eau du couscoussier et repos de 5 min après chaque arrosage : seulement chez Cooking with Alia (une seule auteure) ; non retenus.",
+  "Sceller la jointure du couscoussier avec du film alimentaire : seulement chez Taste of Maroc ; non retenu.",
+  "La page de Choumicha sur la vapeur annonce 40 min de cuisson, alors que son texte décrit trois vapeurs de 20 min ; le texte a été suivi.",
+  "Pages de Lalla Moulati du 13 et du 22 octobre 2023 : méthode en vidéo, non regardée ; seules leurs listes d'ingrédients ont servi.",
+  "Le360, Hespress et Femmes du Maroc : aucune recette de seffa medfouna trouvée (la recherche de Femmes du Maroc ne donne qu'une vidéo de seffa aux fruits de mer). My Moroccan Food : aucune recette trouvée. Yabiladi : non consulté, son robots.txt interdit ClaudeBot.",
+  "Sites de l'USDA (FSIS) et de Santé Canada : accès refusé (erreur 403), non utilisés ; la sécurité de la volaille suit l'Anses et la FSA."
+ ],
+ "cuisine": "Marocaine",
+ "rayon": "Plats",
+ "img_alt": "Seffa de vermicelles en dôme, décorée de lignes de cannelle et de sucre glace, dans un plat bleu, au Maroc",
+ "img": "img/seffa-medfouna.jpg",
+ "photo": {
+  "author": "Indiana Younes",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Seffa_(Maroc).jpg",
+  "modified": "réduite"
+ }
+});

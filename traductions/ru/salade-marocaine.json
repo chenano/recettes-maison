@@ -1,0 +1,398 @@
+{
+ "_slug": "salade-marocaine",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Salade marocaine",
+   "t": "Марокканский салат"
+  },
+  "darija": {
+   "fr": "Chlada",
+   "t": "Шлада"
+  },
+  "tagline": {
+   "fr": "Tomates, concombre et oignon coupés tout petits, persil, citron, huile d'olive et une pointe de cumin : la salade fraîche, sans cuisson, qui accompagne beaucoup de plats au Maroc.",
+   "t": "Мелко нарезанные помидоры, огурец и лук, петрушка, лимон, оливковое масло и щепотка кумина (зиры): свежий салат без варки, который в Марокко подают ко многим блюдам."
+  },
+  "region": {
+   "fr": "Tout le Maroc : pour My Moroccan Food, c'est la salade la plus courante et la plus simple de la cuisine marocaine.",
+   "t": "По всему Марокко: по словам My Moroccan Food, это самый распространённый и самый простой салат марокканской кухни."
+  },
+  "occasion": {
+   "fr": "Tous les jours, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté d'un tajine, de grillades ou de poisson (My Moroccan Food ; MarocMama). Prête en 20 minutes, sans cuisson (Cooking With Alia ; Choumicha).",
+   "t": "Каждый день, как закуска (Wikipédia FR, статья «Cuisine marocaine») или к таджину, мясу на гриле или рыбе (My Moroccan Food; MarocMama). Готов за 20 минут, без варки (Cooking With Alia; Choumicha)."
+  },
+  "img_alt": {
+   "fr": "Tomates, concombre et persil coupés en petits dés dans un saladier (photo d'une salade arabe, très proche)",
+   "t": "Помидоры, огурец и петрушка, нарезанные мелкими кубиками, в салатнике (на фото — очень похожий арабский салат)"
+  },
+  "serving": {
+   "fr": "Bien fraîche, en entrée (Wikipédia FR, Cuisine marocaine) ou à côté du plat : tajine, grillades ou poisson (My Moroccan Food ; MarocMama), avec du pain (Cooking With Alia). Au Maroc, plusieurs salades sont souvent posées sur la table avec le plat principal (Wikipédia FR, Cuisine marocaine).",
+   "t": "Хорошо охлаждённым, как закуску (Wikipédia FR, статья «Cuisine marocaine») или к основному блюду: таджину, мясу на гриле или рыбе (My Moroccan Food; MarocMama), с хлебом (Cooking With Alia). В Марокко на стол вместе с основным блюдом часто ставят несколько салатов (Wikipédia FR, статья «Cuisine marocaine»)."
+  },
+  "ing.0.group": {
+   "fr": "Légumes et herbes",
+   "t": "Овощи и зелень"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne",
+   "t": "помидор среднего размера"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes",
+   "t": "помидора среднего размера"
+  },
+  "ing.tomates.pl5": {
+   "fr": "tomate moyenne / tomates moyennes",
+   "t": "помидоров среднего размера"
+  },
+  "ing.concombre.name": {
+   "fr": "concombre",
+   "t": "огурец"
+  },
+  "ing.concombre.pl": {
+   "fr": "concombres",
+   "t": "огурца"
+  },
+  "ing.concombre.pl5": {
+   "fr": "concombre / concombres",
+   "t": "огурцов"
+  },
+  "ing.oignon.name": {
+   "fr": "petit oignon",
+   "t": "луковица небольшого размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "petits oignons",
+   "t": "луковицы небольшого размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "petit oignon / petits oignons",
+   "t": "луковиц небольшого размера"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "рубленой петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "ou de coriandre fraîche",
+   "t": "или кинзы"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "Заправка"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "оливкового масла"
+  },
+  "ing.citron.name": {
+   "fr": "de jus de citron",
+   "t": "лимонного сока"
+  },
+  "ing.citron.note": {
+   "fr": "un citron donne environ 3 c. à s. de jus",
+   "t": "из одного лимона получается около 3 ст. л. сока"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "поправьте по вкусу"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "молотого кумина"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "молотый чёрный перец по вкусу"
+  },
+  "ing.2.group": {
+   "fr": "Service",
+   "t": "Подача"
+  },
+  "ing.khobz.name": {
+   "fr": "pain (khobz)",
+   "t": "хлеб (хобз)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour accompagner",
+   "t": "к салату"
+  },
+  "equipment.0": {
+   "fr": "Planche et couteau bien aiguisé",
+   "t": "Доска и хорошо заточенный нож"
+  },
+  "equipment.1": {
+   "fr": "Brosse à légumes propre, pour le concombre",
+   "t": "Чистая щётка для овощей — для огурца"
+  },
+  "equipment.2": {
+   "fr": "Torchon propre ou papier absorbant",
+   "t": "Чистое кухонное полотенце или бумажные полотенца"
+  },
+  "equipment.3": {
+   "fr": "Saladier",
+   "t": "Салатник"
+  },
+  "equipment.4": {
+   "fr": "Petit bol, pour la sauce",
+   "t": "Маленькая миска для заправки"
+  },
+  "equipment.5": {
+   "fr": "Presse-agrumes (facultatif)",
+   "t": "Соковыжималка для цитрусовых (по желанию)"
+  },
+  "equipment.6": {
+   "fr": "Grand emporte-pièce (facultatif, pour la présentation)",
+   "t": "Большое кулинарное кольцо (по желанию, для подачи)"
+  },
+  "steps.0.title": {
+   "fr": "Lave les légumes",
+   "t": "Вымойте овощи"
+  },
+  "steps.0.text": {
+   "fr": "Lave-toi les mains au savon. Rince {{tomates:full}}, {{concombre:full}} et le persil sous l'eau courante, sans savon. Frotte le concombre avec une brosse propre, puis sèche le tout avec un torchon propre.",
+   "t": "Вымойте руки с мылом. Промойте {{tomates:full}}, {{concombre:full}} и петрушку под проточной водой, без мыла. Потрите огурец чистой щёткой, затем всё обсушите чистым полотенцем."
+  },
+  "steps.0.tip": {
+   "fr": "Les légumes et les herbes qui se mangent crus doivent être lavés soigneusement (Anses). Pas de savon ni de produit vaisselle : les légumes peuvent l'absorber (FDA).",
+   "t": "Овощи и зелень, которые едят сырыми, нужно тщательно мыть (Anses). Без мыла и средства для посуды: овощи могут их впитать (FDA)."
+  },
+  "steps.1.title": {
+   "fr": "Coupe les tomates",
+   "t": "Нарежьте помидоры"
+  },
+  "steps.1.text": {
+   "fr": "Coupe chaque tomate en deux, retire les graines, puis coupe la chair en petits dés d'environ ½ cm.",
+   "t": "Разрежьте каждый помидор пополам, удалите семена, затем нарежьте мякоть мелкими кубиками примерно по ½ см."
+  },
+  "steps.1.tip": {
+   "fr": "Garde la peau, comme Cooking With Alia. Choumicha, elle, pèle ses tomates (salades 627 et 629).",
+   "t": "Кожицу оставьте, как Cooking With Alia. А вот Choumicha свои помидоры очищает (салаты 627 и 629)."
+  },
+  "steps.2.title": {
+   "fr": "Coupe le concombre",
+   "t": "Нарежьте огурец"
+  },
+  "steps.2.text": {
+   "fr": "Coupe chaque concombre en deux dans la longueur, retire les graines, puis coupe-le en petits dés de la même taille.",
+   "t": "Разрежьте каждый огурец вдоль пополам, удалите семена, затем нарежьте мелкими кубиками того же размера."
+  },
+  "steps.3.title": {
+   "fr": "Hache l'oignon",
+   "t": "Порубите лук"
+  },
+  "steps.3.text": {
+   "fr": "Épluche et hache très finement {{oignon:full}}.",
+   "t": "Очистите и очень мелко порубите лук ({{oignon}} шт.)."
+  },
+  "steps.4.title": {
+   "fr": "Hache le persil",
+   "t": "Порубите петрушку"
+  },
+  "steps.4.text": {
+   "fr": "Effeuille le persil et hache-le finement : il en faut {{persil}} pour la salade.",
+   "t": "Оборвите листья петрушки и мелко порубите: для салата её нужно {{persil}}."
+  },
+  "steps.4.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.4.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.5.title": {
+   "fr": "Réunis les légumes",
+   "t": "Соедините овощи"
+  },
+  "steps.5.text": {
+   "fr": "Mets les tomates, le concombre, l'oignon et le persil dans un saladier. Garde-le au réfrigérateur jusqu'au moment de servir.",
+   "t": "Сложите помидоры, огурец, лук и петрушку в салатник. Держите его в холодильнике до подачи."
+  },
+  "steps.6.title": {
+   "fr": "Prépare la sauce",
+   "t": "Приготовьте заправку"
+  },
+  "steps.6.text": {
+   "fr": "Dans un petit bol, mélange {{huile}} d'huile d'olive, {{citron}} de jus de citron, {{sel}} de sel, {{cumin}} de cumin et du {{poivre}}.",
+   "t": "Смешайте в маленькой миске {{huile}} оливкового масла, {{citron}} лимонного сока, {{sel}} соли, {{cumin}} кумина и молотый чёрный перец."
+  },
+  "steps.6.tip": {
+   "fr": "Lalla Moulati garde sa sauce au réfrigérateur, à part, jusqu'au service.",
+   "t": "Lalla Moulati хранит заправку отдельно в холодильнике до подачи."
+  },
+  "steps.7.title": {
+   "fr": "Assaisonne au dernier moment",
+   "t": "Заправьте в последний момент"
+  },
+  "steps.7.text": {
+   "fr": "Juste avant de servir, verse la sauce sur les légumes et mélange bien.",
+   "t": "Прямо перед подачей полейте овощи заправкой и хорошо перемешайте."
+  },
+  "steps.7.tip": {
+   "fr": "Salée trop tôt, la salade rend son eau (Choumicha).",
+   "t": "Если посолить салат слишком рано, он пустит сок (Choumicha)."
+  },
+  "steps.8.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Попробуйте и поправьте вкус"
+  },
+  "steps.8.text": {
+   "fr": "Goûte et ajuste le sel, le citron ou le cumin.",
+   "t": "Попробуйте и добавьте по вкусу соль, лимон или кумин."
+  },
+  "steps.9.title": {
+   "fr": "Sers bien frais",
+   "t": "Подавайте хорошо охлаждённым"
+  },
+  "steps.9.text": {
+   "fr": "Sers tout de suite, bien frais, avec du {{khobz}}, à côté d'un tajine, de grillades ou de poisson.",
+   "t": "Подавайте сразу, хорошо охлаждённым, с хлебом (хобзом), к таджину, мясу на гриле или рыбе."
+  },
+  "steps.9.tip": {
+   "fr": "Pour une jolie assiette, tasse la salade dans un grand emporte-pièce posé sur l'assiette, puis retire-le doucement (Cooking With Alia).",
+   "t": "Для красивой подачи плотно уложите салат в большое кулинарное кольцо, поставленное на тарелку, затем аккуратно снимите кольцо (Cooking With Alia)."
+  },
+  "secrets.0.text": {
+   "fr": "Le secret, c'est la taille : coupe tout très petit, pour avoir un peu de chaque légume dans chaque bouchée.",
+   "t": "Секрет — в размере: нарезайте всё очень мелко, чтобы в каждой ложке было понемногу каждого овоща."
+  },
+  "secrets.0.source": {
+   "fr": "Cooking With Alia (recettes 208 et 543)",
+   "t": "Cooking With Alia (рецепты 208 и 543)"
+  },
+  "secrets.1.text": {
+   "fr": "Vise des petits dés réguliers d'environ ½ cm, et un oignon haché encore plus fin.",
+   "t": "Старайтесь нарезать ровные мелкие кубики примерно по ½ см, а лук — ещё мельче."
+  },
+  "secrets.1.source": {
+   "fr": "My Moroccan Food (dés de ½ cm) ; Cooking With Alia, Lalla Moulati (2019) et MarocMama (oignon très fin)",
+   "t": "My Moroccan Food (кубики по ½ см); Cooking With Alia, Lalla Moulati (2019) и MarocMama (очень мелкий лук)"
+  },
+  "secrets.2.text": {
+   "fr": "Garde seulement la chair : retire les graines des tomates, et celles du concombre.",
+   "t": "Оставляйте только мякоть: удаляйте семена из помидоров и из огурца."
+  },
+  "secrets.2.source": {
+   "fr": "My Moroccan Food (tomates et concombre) ; MarocMama et Choumicha (tomates)",
+   "t": "My Moroccan Food (помидоры и огурец); MarocMama и Choumicha (помидоры)"
+  },
+  "secrets.3.text": {
+   "fr": "Sel et citron au tout dernier moment : sinon les tomates rendent leur eau.",
+   "t": "Соль и лимон — в самый последний момент: иначе помидоры пустят сок."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha, Salade de tomates et de poivrons",
+   "t": "Choumicha, рецепт «Salade de tomates et de poivrons»"
+  },
+  "secrets.4.text": {
+   "fr": "Prépare la sauce à part et garde-la au frais jusqu'au service. Servie sans sauce, la salade qui reste se recycle facilement, en omelette par exemple.",
+   "t": "Готовьте заправку отдельно и держите её в холодильнике до подачи. Если салат подавали без заправки, остатки легко использовать, например, для омлета."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati (2019) ; Choumicha, conseil « حول السلطة »",
+   "t": "Lalla Moulati (2019); Choumicha, совет «حول السلطة»"
+  },
+  "secrets.5.text": {
+   "fr": "Le jus de citron plutôt que le vinaigre, si tu en as.",
+   "t": "Лучше лимонный сок, чем уксус, если он у вас есть."
+  },
+  "secrets.5.source": {
+   "fr": "Lalla Moulati (2019) ; citron chez My Moroccan Food et Cooking With Alia",
+   "t": "Lalla Moulati (2019); лимон у My Moroccan Food и Cooking With Alia"
+  },
+  "secrets.6.text": {
+   "fr": "Une pointe de cumin dans la sauce, comme chez Cooking With Alia, Choumicha et Lalla Moulati.",
+   "t": "Щепотка кумина в заправке, как у Cooking With Alia, Choumicha и Lalla Moulati."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia (recette 208) ; Choumicha, Salade de tomates et de poivrons ; Lalla Moulati (2019)",
+   "t": "Cooking With Alia (рецепт 208); Choumicha, «Salade de tomates et de poivrons»; Lalla Moulati (2019)"
+  },
+  "secrets.7.text": {
+   "fr": "De bonnes tomates, c'est la clé : la salade ne vaut que ce que valent ses légumes.",
+   "t": "Хорошие помидоры — главное: салат хорош ровно настолько, насколько хороши его овощи."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.8.text": {
+   "fr": "Tomates pas assez sucrées ? Nargisse Benkabbou ajoute une cuillère à café de miel pour équilibrer l'acidité.",
+   "t": "Помидоры недостаточно сладкие? Nargisse Benkabbou добавляет чайную ложку мёда, чтобы сбалансировать кислотность."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Persil ou coriandre : les deux se font au Maroc.",
+   "t": "Петрушка или кинза: в Марокко делают и так, и так."
+  },
+  "secrets.9.source": {
+   "fr": "Persil : My Moroccan Food, Choumicha ; coriandre : Cooking With Alia",
+   "t": "Петрушка: My Moroccan Food, Choumicha; кинза: Cooking With Alia"
+  },
+  "secrets.10.text": {
+   "fr": "Un peu d'écorce de citron confit hachée (sans la pulpe) parfume la salade.",
+   "t": "Немного рубленой корки солёного лимона (без мякоти) придаёт салату аромат."
+  },
+  "secrets.10.source": {
+   "fr": "Cooking With Alia (recette 208, facultatif) ; Choumicha (salades de tomates au citron confit)",
+   "t": "Cooking With Alia (рецепт 208, по желанию); Choumicha (салаты из помидоров с солёным лимоном)"
+  },
+  "secrets.11.text": {
+   "fr": "Au Maroc, elle accompagne surtout les tajines, les grillades et le poisson.",
+   "t": "В Марокко его подают прежде всего к таджинам, мясу на гриле и рыбе."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; MarocMama",
+   "t": "My Moroccan Food и MarocMama"
+  },
+  "mistakes.0": {
+   "fr": "Saler la salade longtemps à l'avance : les tomates rendent leur eau (Choumicha).",
+   "t": "Солить салат задолго до подачи: помидоры пускают сок (Choumicha)."
+  },
+  "mistakes.1": {
+   "fr": "Couper les légumes trop gros (Cooking With Alia).",
+   "t": "Нарезать овощи слишком крупно (Cooking With Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Laver les légumes au savon ou au produit vaisselle (FDA).",
+   "t": "Мыть овощи с мылом или средством для посуды (FDA)."
+  },
+  "mistakes.3": {
+   "fr": "Couper les légumes sur la planche de la viande crue sans l'avoir lavée (Anses).",
+   "t": "Резать овощи на доске для сырого мяса, не помыв её (Anses)."
+  },
+  "mistakes.4": {
+   "fr": "Laisser la salade plus de 2 heures à température ambiante (Anses).",
+   "t": "Оставлять салат при комнатной температуре дольше 2 часов (Anses)."
+  },
+  "variants.0": {
+   "fr": "Salade marocaine de Choumicha : 4 tomates, 1 oignon, 1 poivron vert en petits morceaux, persil, huile d'olive, vinaigre ou jus de citron, sel ; sans concombre, servie avec des brochettes de kefta.",
+   "t": "Марокканский салат Choumicha: 4 помидора, 1 луковица, 1 зелёный сладкий перец мелкими кусочками, петрушка, оливковое масло, уксус или лимонный сок, соль; без огурца, подаётся с шашлычками из кефты."
+  },
+  "variants.1": {
+   "fr": "Chlada aux poivrons grillés de Lalla Moulati (2019) : poivrons rouge, vert et jaune grillés et pelés, 4 tomates, un petit oignon, olives vertes et noires, maïs si tu veux ; sauce au citron (ou au vinaigre), huile d'olive, sel, cumin et un peu de poivre.",
+   "t": "Шлада с печёными перцами от Lalla Moulati (2019): красный, зелёный и жёлтый сладкий перец, запечённые и очищенные, 4 помидора, небольшая луковица, зелёные и чёрные оливки, по желанию кукуруза; заправка с лимоном (или уксусом), оливковым маслом, солью, кумином и небольшим количеством перца."
+  },
+  "variants.2": {
+   "fr": "Salade de tomates au citron confit de Choumicha : tomates pelées, épépinées et concassées, écorce de citron confit, persil, une gousse d'ail, huile d'olive et sel.",
+   "t": "Салат из помидоров с солёным лимоном от Choumicha: очищенные от кожицы и семян, мелко нарезанные помидоры, корка солёного лимона, петрушка, зубчик чеснока, оливковое масло и соль."
+  },
+  "variants.3": {
+   "fr": "Tomate et oignon seulement, au vinaigre et à l'huile d'olive : la salade qui accompagne le poisson chez MarocMama.",
+   "t": "Только помидор и лук, с уксусом и оливковым маслом: салат, который MarocMama подаёт к рыбе."
+  },
+  "variants.4": {
+   "fr": "Coriandre à la place du persil, et un peu d'écorce de citron confit (Cooking With Alia, recette 208).",
+   "t": "Кинза вместо петрушки и немного корки солёного лимона (Cooking With Alia, рецепт 208)."
+  }
+ }
+}

@@ -1,0 +1,462 @@
+{
+ "_slug": "batbout",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Batbout, petits pains marocains à la poêle",
+   "t": "Batbout, Moroccan pan-cooked breads"
+  },
+  "darija": {
+   "fr": "batbout (aussi mkhamer, toghrift ou matlou')",
+   "t": "batbout (also mkhamer, toghrift or matlou')"
+  },
+  "tagline": {
+   "fr": "Des petits pains ronds et moelleux, cuits à sec à la poêle, qui gonflent en cuisant et forment une poche à garnir.",
+   "t": "Soft little round breads, cooked in a dry frying pan, that puff up as they cook and form a pocket for filling."
+  },
+  "region": {
+   "fr": "Maroc",
+   "t": "Morocco"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner, repas, sandwichs ; mini batbout farcis au ftour du ramadan",
+   "t": "Breakfast, meals, sandwiches; stuffed mini batbout at the Ramadan iftar"
+  },
+  "img_alt": {
+   "fr": "Deux batbouts gonflés qui cuisent sur une plaque en fonte, au Maroc",
+   "t": "Two puffed-up batbouts cooking on a cast-iron griddle in Morocco"
+  },
+  "serving": {
+   "fr": "Tiède ou froid (My Moroccan Food). Ouvert et garni comme un sandwich : poulet, thon, fromage, salade ou légumes cuits (Morocco World News ; My Moroccan Food), avec de la viande halal. Avec des viandes grillées comme la kefta ou le boulfaf (Taste of Maroc), avec un tajine (Morocco World News) ou des salades marocaines (MarocMama). Au petit-déjeuner pour saucer les œufs (MarocMama), avec du beurre, du miel, de la confiture ou du fromage frais (Taste of Maroc), ou nature avec un filet d'huile d'olive et du miel (Morocco World News). Pour un halal strict, choisis un fromage à coagulant microbien, sans présure animale. Pendant le ramadan, les mini batbout farcis sont presque toujours sur la table du ftour (MarocMama ; Morocco World News ; Taste of Maroc). Les restes se gardent quelques jours au réfrigérateur, dans un sac fermé, puis se réchauffent quelques minutes à la poêle ou au four (MarocMama). Ils se congèlent une fois complètement refroidis (Taste of Maroc ; MarocMama) ; MarocMama parle de 3 à 4 mois dans un sac bien fermé.",
+   "t": "Warm or cold (My Moroccan Food). Split open and filled like a sandwich: chicken, tuna, cheese, salad or cooked vegetables (Morocco World News; My Moroccan Food), with halal meat. With grilled meats such as kefta or boulfaf (Taste of Maroc), with a tagine (Morocco World News) or with Moroccan salads (MarocMama). At breakfast, for mopping up eggs (MarocMama), with butter, honey, jam or fresh cheese (Taste of Maroc), or plain with a drizzle of olive oil and honey (Morocco World News). For strict halal, choose a cheese made with a microbial coagulant, without animal rennet. During Ramadan, stuffed mini batbout are almost always on the iftar table (MarocMama; Morocco World News; Taste of Maroc). Leftovers keep for a few days in the fridge in a sealed bag, then reheat for a few minutes in a frying pan or in the oven (MarocMama). They can be frozen once completely cooled (Taste of Maroc; MarocMama); MarocMama mentions 3 to 4 months in a tightly sealed bag."
+  },
+  "ing.0.group": {
+   "fr": "Pâte",
+   "t": "Dough"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche (farine ordinaire ou farine à pain)",
+   "t": "white flour (plain flour or strong bread flour)"
+  },
+  "ing.farine.note": {
+   "fr": "plus un peu pour le plan de travail",
+   "t": "plus a little for the work surface"
+  },
+  "ing.semoule.name": {
+   "fr": "de semoule fine de blé dur (fino), ou de farine de blé dur",
+   "t": "fine durum wheat semolina (fino), or durum wheat flour"
+  },
+  "ing.semoule.note": {
+   "fr": "c'est elle qui donne au batbout sa texture et son goût",
+   "t": "this is what gives batbout its texture and flavour"
+  },
+  "ing.levure.name": {
+   "fr": "de levure boulangère sèche",
+   "t": "dried yeast"
+  },
+  "ing.levure.note": {
+   "fr": "un peu moins s'il fait très chaud",
+   "t": "a little less if the weather is very hot"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre",
+   "t": "sugar"
+  },
+  "ing.sucre.note": {
+   "fr": "facultatif : Cooking with Alia et Bladi.net n'en mettent pas",
+   "t": "optional: Cooking with Alia and Bladi.net leave it out"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile (tournesol ou olive)",
+   "t": "oil (sunflower or olive)"
+  },
+  "ing.huile.note": {
+   "fr": "facultatif : beaucoup de Marocains n'en mettent pas",
+   "t": "optional: many Moroccans leave it out"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau tiède",
+   "t": "lukewarm water"
+  },
+  "ing.eau.note": {
+   "fr": "environ : verse-la peu à peu, il en faudra peut-être un peu moins",
+   "t": "approximately: pour it in gradually, you may need a little less"
+  },
+  "ing.1.group": {
+   "fr": "Pour étaler",
+   "t": "For rolling out"
+  },
+  "ing.semoule-etalage.name": {
+   "fr": "semoule fine",
+   "t": "fine semolina"
+  },
+  "ing.semoule-etalage.note": {
+   "fr": "pour le plan de travail ; ou un peu de farine",
+   "t": "for the work surface; or a little flour"
+  },
+  "equipment.0": {
+   "fr": "Un grand saladier et un petit bol",
+   "t": "A large mixing bowl and a small bowl"
+  },
+  "equipment.1": {
+   "fr": "Une balance de cuisine et un verre doseur",
+   "t": "Kitchen scales and a measuring jug"
+  },
+  "equipment.2": {
+   "fr": "Un rouleau à pâtisserie",
+   "t": "A rolling pin"
+  },
+  "equipment.3": {
+   "fr": "Deux grands torchons propres et secs, en coton (ou un drap de coton)",
+   "t": "Two large clean, dry cotton tea towels (or a cotton sheet)"
+  },
+  "equipment.4": {
+   "fr": "Une grande poêle à fond épais (fonte) ou antiadhésive, ou une plaque de cuisson",
+   "t": "A large heavy-based frying pan (cast iron) or a non-stick one, or a griddle"
+  },
+  "equipment.5": {
+   "fr": "Une grille, ou un panier garni d'un torchon",
+   "t": "A wire rack, or a basket lined with a tea towel"
+  },
+  "equipment.6": {
+   "fr": "Facultatif : un verre ou un emporte-pièce rond",
+   "t": "Optional: a glass or a round cutter"
+  },
+  "steps.0.title": {
+   "fr": "Réveille la levure",
+   "t": "Activate the yeast"
+  },
+  "steps.0.text": {
+   "fr": "Dans un petit bol, mets {{levure}} de levure sèche, un peu du sucre et un peu d'eau tiède, prise sur les {{eau}} d'eau. Mélange et laisse reposer 5 minutes, jusqu'à ce que le mélange mousse.",
+   "t": "In a small bowl, put {{levure}} dried yeast, a little of the sugar and a little lukewarm water, taken from the {{eau}} of water. Stir and leave for 5 minutes, until the mixture is frothy."
+  },
+  "steps.0.tip": {
+   "fr": "Taste of Maroc, My Moroccan Food et MarocMama font tous mousser la levure avec un peu du sucre avant de faire la pâte.",
+   "t": "Taste of Maroc, My Moroccan Food and MarocMama all let the yeast froth with a little of the sugar before making the dough."
+  },
+  "steps.0.timer.label": {
+   "fr": "Levure",
+   "t": "Yeast"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le mélange mousse ? Prépare la pâte. Sinon, attends encore 5 minutes.",
+   "t": "Is the mixture frothy? Make the dough. If not, wait another 5 minutes."
+  },
+  "steps.1.title": {
+   "fr": "Mélange la pâte",
+   "t": "Mix the dough"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand saladier, mélange {{farine}} de farine, {{semoule}} de semoule fine, le reste des {{sucre}} de sucre et {{sel}} de sel. Ajoute {{huile}} d'huile, puis la levure. Verse le reste de l'eau petit à petit, en mélangeant à la main, jusqu'à obtenir une pâte souple. Arrête d'ajouter de l'eau si elle devient collante.",
+   "t": "In a large mixing bowl, mix {{farine}} flour, {{semoule}} fine semolina, the rest of the {{sucre}} of sugar and {{sel}} salt. Add {{huile}} oil, then the yeast. Pour in the rest of the water gradually, mixing by hand, until you have a soft dough. Stop adding water if it becomes sticky."
+  },
+  "steps.1.tip": {
+   "fr": "My Moroccan Food verse l'eau peu à peu pour que la pâte ne devienne pas trop collante. Si c'est le cas, ajoute un peu de farine.",
+   "t": "My Moroccan Food pours in the water gradually so that the dough doesn't become too sticky. If it does, add a little flour."
+  },
+  "steps.2.title": {
+   "fr": "Pétris 10 minutes",
+   "t": "Knead for 10 minutes"
+  },
+  "steps.2.text": {
+   "fr": "Pétris la pâte 10 minutes sur un plan de travail légèrement fariné, ou au robot avec le crochet. Elle doit être lisse, souple et élastique, sans coller. Si elle colle, ajoute un peu de farine. Si elle est ferme, ajoute un peu d'eau, cuillère par cuillère.",
+   "t": "Knead the dough for 10 minutes on a lightly floured work surface, or in a stand mixer with the dough hook. It should be smooth, soft and elastic, and not sticky. If it sticks, add a little flour. If it is firm, add a little water, a spoonful at a time."
+  },
+  "steps.2.timer.label": {
+   "fr": "Pétrissage",
+   "t": "Kneading"
+  },
+  "steps.2.timer.done": {
+   "fr": "Lisse, souple et élastique ? Forme les boules. Sinon, pétris encore un peu.",
+   "t": "Smooth, soft and elastic? Shape the balls. If not, knead a little longer."
+  },
+  "steps.2.img.alt": {
+   "fr": "Mains qui pétrissent une pâte",
+   "t": "Hands kneading a dough"
+  },
+  "steps.2.img.caption": {
+   "fr": "Pétrir la pâte",
+   "t": "Kneading the dough"
+  },
+  "steps.3.title": {
+   "fr": "Forme les boules",
+   "t": "Shape the balls"
+  },
+  "steps.3.text": {
+   "fr": "Partage la pâte en boules lisses de la taille d'une prune, environ 70 g, une par batbout. Pose-les sur un plan légèrement fariné, à au moins 2,5 cm les unes des autres. Couvre-les d'un torchon et laisse reposer 10 minutes.",
+   "t": "Divide the dough into smooth plum-sized balls, about 70 g each, one per batbout. Place them on a lightly floured surface, at least 2.5 cm apart. Cover them with a tea towel and leave to rest for 10 minutes."
+  },
+  "steps.3.timer.label": {
+   "fr": "Repos des boules",
+   "t": "Resting the balls"
+  },
+  "steps.3.timer.done": {
+   "fr": "Les boules ont reposé : étale-les.",
+   "t": "The balls have rested: roll them out."
+  },
+  "steps.4.title": {
+   "fr": "Étale finement",
+   "t": "Roll out thinly"
+  },
+  "steps.4.text": {
+   "fr": "Saupoudre ton plan de travail d'un peu de {{semoule-etalage}}. Étale chaque boule au rouleau en un disque fin, d'environ 3 mm d'épaisseur. Ne le fais pas plus épais : sinon le batbout risque de ne pas gonfler.",
+   "t": "Sprinkle your work surface with a little {{semoule-etalage}}. Roll out each ball with the rolling pin into a thin disc, about 3 mm thick. Don't make it any thicker, or the batbout may not puff up."
+  },
+  "steps.4.tip": {
+   "fr": "Tu peux aussi étaler toute la pâte et découper des ronds avec un verre ou un emporte-pièce, comme Morocco World News et Cooking with Alia. Rassemble les chutes, pétris-les, laisse-les reposer 10 à 15 minutes et étale-les de nouveau (Taste of Maroc).",
+   "t": "You can also roll out all the dough and cut out rounds with a glass or a cutter, as Morocco World News and Cooking with Alia do. Gather up the trimmings, knead them, leave them to rest for 10 to 15 minutes and roll them out again (Taste of Maroc)."
+  },
+  "steps.5.title": {
+   "fr": "Laisse lever 1 heure",
+   "t": "Leave to rise for 1 hour"
+  },
+  "steps.5.text": {
+   "fr": "Pose les disques sur un torchon propre et sec, en laissant de la place entre eux : ils grossissent en levant. Couvre-les d'un autre torchon. Laisse lever 1 heure, jusqu'à ce qu'ils soient légers et gonflés. Dans une cuisine froide, il faut un peu plus de temps.",
+   "t": "Place the discs on a clean, dry tea towel, leaving space between them: they grow as they rise. Cover them with another tea towel. Leave to rise for 1 hour, until they are light and puffy. In a cold kitchen, it takes a little longer."
+  },
+  "steps.5.timer.label": {
+   "fr": "Levée des disques",
+   "t": "Discs rising"
+  },
+  "steps.5.timer.done": {
+   "fr": "Les disques sont légers et gonflés ? Fais chauffer la poêle. Sinon, laisse-les lever encore un peu.",
+   "t": "Are the discs light and puffy? Heat the frying pan. If not, leave them to rise a little longer."
+  },
+  "steps.6.title": {
+   "fr": "Chauffe la poêle à sec",
+   "t": "Heat the frying pan dry"
+  },
+  "steps.6.text": {
+   "fr": "Fais chauffer une grande poêle à fond épais (fonte) ou antiadhésive à feu moyen, sans matière grasse, pendant plusieurs minutes. Elle doit être très chaude avant le premier batbout : c'est ce qui aide la poche à se former.",
+   "t": "Heat a large heavy-based frying pan (cast iron) or a non-stick one over medium heat, with no fat, for several minutes. It must be very hot before you add the first batbout: this is what helps the pocket form."
+  },
+  "steps.6.tip": {
+   "fr": "Christine Benlafquih (Taste of Maroc) laisse chauffer sa plaque 5 bonnes minutes avant de commencer.",
+   "t": "Christine Benlafquih (Taste of Maroc) lets her griddle heat for a good 5 minutes before she starts."
+  },
+  "steps.7.title": {
+   "fr": "Dépose sans écraser",
+   "t": "Place without squashing"
+  },
+  "steps.7.text": {
+   "fr": "Prends un disque avec douceur, sans l'étirer ni appuyer dessus, et pose-le dans la poêle chaude. Cuis les batbout en plusieurs fournées, selon la taille de ta poêle. Si tu les manipules brusquement, ils se dégonflent ou se fendent, et la poche ne se forme pas.",
+   "t": "Pick up a disc gently, without stretching it or pressing on it, and place it in the hot frying pan. Cook the batbout in several batches, depending on the size of your frying pan. If you handle them roughly, they deflate or split, and the pocket doesn't form."
+  },
+  "steps.7.tip": {
+   "fr": "Pour déplacer un disque sans le déformer, MarocMama glisse dessous une planche à découper très fine.",
+   "t": "To move a disc without misshaping it, MarocMama slides a very thin chopping board underneath it."
+  },
+  "steps.8.title": {
+   "fr": "Retourne plusieurs fois",
+   "t": "Turn several times"
+  },
+  "steps.8.text": {
+   "fr": "Retourne le batbout dès que le dessous a pris, au bout de quelques secondes. Retourne-le ensuite encore plusieurs fois, jusqu'à ce qu'il gonfle et soit doré des deux côtés : il faut quelques minutes en tout. N'appuie jamais dessus. Une couleur un peu irrégulière est normale.",
+   "t": "Turn the batbout over as soon as the underside has set, after a few seconds. Then turn it several more times, until it puffs up and is golden on both sides: this takes a few minutes in all. Never press on it. Slightly uneven colouring is normal."
+  },
+  "steps.8.tip": {
+   "fr": "S'il colore trop vite, baisse un peu le feu (Taste of Maroc). Attention : quand tu retournes un batbout gonflé, de la vapeur brûlante peut sortir d'une fente (Taste of Maroc).",
+   "t": "If it browns too quickly, turn the heat down a little (Taste of Maroc). Careful: when you turn a puffed-up batbout, scalding steam can escape from a split (Taste of Maroc)."
+  },
+  "steps.9.title": {
+   "fr": "Laisse refroidir",
+   "t": "Leave to cool"
+  },
+  "steps.9.text": {
+   "fr": "Pose les batbout cuits sur une grille, ou dans un panier garni d'un torchon. Tu peux les empiler encore chauds. Cuis les autres disques de la même façon.",
+   "t": "Place the cooked batbout on a wire rack, or in a basket lined with a tea towel. You can stack them while still hot. Cook the remaining discs in the same way."
+  },
+  "steps.10.title": {
+   "fr": "Ouvre et garnis",
+   "t": "Open and fill"
+  },
+  "steps.10.text": {
+   "fr": "Sers les batbout tièdes ou froids. Pour les garnir, fais une fente sur le bord avec un couteau et ouvre la poche. Remplis-la de ce que tu aimes : poulet, thon, fromage, salade ou légumes cuits.",
+   "t": "Serve the batbout warm or cold. To fill them, make a slit in the edge with a knife and open up the pocket. Fill it with whatever you like: chicken, tuna, cheese, salad or cooked vegetables."
+  },
+  "steps.10.tip": {
+   "fr": "Pour un repas halal, prends de la viande halal. Pour un halal strict, choisis un fromage à coagulant microbien, sans présure animale.",
+   "t": "For a halal meal, use halal meat. For strict halal, choose a cheese made with a microbial coagulant, without animal rennet."
+  },
+  "steps.11.title": {
+   "fr": "Ou sers-les nature",
+   "t": "Or serve them plain"
+  },
+  "steps.11.text": {
+   "fr": "Le batbout accompagne aussi un tajine, des salades marocaines ou des viandes grillées comme la kefta. Au petit-déjeuner, mange-le avec du beurre, du miel, de la confiture ou du fromage frais, ou avec un filet d'huile d'olive et du miel.",
+   "t": "Batbout also goes well with a tagine, Moroccan salads or grilled meats such as kefta. At breakfast, eat it with butter, honey, jam or fresh cheese, or with a drizzle of olive oil and honey."
+  },
+  "steps.12.title": {
+   "fr": "Conserve les restes",
+   "t": "Store the leftovers"
+  },
+  "steps.12.text": {
+   "fr": "Garde les batbout quelques jours au réfrigérateur, dans un sac fermé. Pour les garder plus longtemps, congèle-les une fois complètement refroidis. Réchauffe-les quelques minutes à la poêle ou au four, jusqu'à ce qu'ils soient de nouveau moelleux.",
+   "t": "Keep the batbout for a few days in the fridge, in a sealed bag. To keep them longer, freeze them once completely cooled. Reheat them for a few minutes in a frying pan or in the oven, until they are soft again."
+  },
+  "secrets.0.text": {
+   "fr": "La semoule fine (fino) ou la farine de blé dur est indispensable : sans elle, le batbout n'a pas sa texture ni son goût.",
+   "t": "Fine semolina (fino) or durum wheat flour is essential: without it, batbout has neither its texture nor its flavour."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih) ; toutes les recettes lues en mettent, sauf Morocco World News (MarocMama la laisse au choix avec la farine de blé)",
+   "t": "Taste of Maroc (Christine Benlafquih); every recipe consulted includes it, except Morocco World News (MarocMama gives a choice between it and wheat flour)"
+  },
+  "secrets.1.text": {
+   "fr": "Tu peux mettre plus de semoule : Taste of Maroc conseille de ne pas dépasser la moitié de farine blanche, sinon la mie peut devenir collante.",
+   "t": "You can use more semolina: Taste of Maroc advises not using more than half white flour, otherwise the crumb can become sticky."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.2.text": {
+   "fr": "Un peu d'huile dans la pâte évite un pain sec, qui tient mal quand on le farcit. Beaucoup de Marocains n'en mettent pas.",
+   "t": "A little oil in the dough prevents a dry bread, which holds up badly when filled. Many Moroccans leave it out."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.3.text": {
+   "fr": "Le sucre aide le batbout à dorer et à lever, et il aide la poche à se former. Il rend aussi la mie plus tendre.",
+   "t": "Sugar helps batbout brown and rise, and it helps the pocket form. It also makes the crumb more tender."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (réponse de Christine Benlafquih à un lecteur, 25 août 2021)",
+   "t": "Taste of Maroc (Christine Benlafquih's reply to a reader, 25 August 2021)"
+  },
+  "secrets.4.text": {
+   "fr": "La poche se forme quand les disques ont bien levé et qu'on les pose dans une poêle déjà chaude.",
+   "t": "The pocket forms when the discs have risen well and are placed in a frying pan that is already hot."
+  },
+  "secrets.4.source": {
+   "fr": "MarocMama (Amanda Mouttaki) ; Taste of Maroc (poêle chauffée plusieurs minutes)",
+   "t": "MarocMama (Amanda Mouttaki); Taste of Maroc (frying pan heated for several minutes)"
+  },
+  "secrets.5.text": {
+   "fr": "Étale fin : un batbout trop épais risque de ne pas gonfler. S'il n'a pas gonflé, ouvre-le doucement au couteau pour faire la poche.",
+   "t": "Roll out thinly: a batbout that is too thick may not puff up. If it hasn't puffed up, open it gently with a knife to make the pocket."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.6.text": {
+   "fr": "Manipule les disques levés avec douceur : s'ils se dégonflent ou se fendent, l'air s'échappe et la poche ne se forme pas.",
+   "t": "Handle the risen discs gently: if they deflate or split, the air escapes and the pocket doesn't form."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.7.text": {
+   "fr": "Retourne tôt et souvent : Christine Benlafquih retourne le batbout dès que la pâte a pris, après 10 à 15 secondes, avant que des bulles apparaissent, puis plusieurs fois encore.",
+   "t": "Turn early and often: Christine Benlafquih turns the batbout as soon as the dough has set, after 10 to 15 seconds, before bubbles appear, then several more times."
+  },
+  "secrets.7.source": {
+   "fr": "Taste of Maroc ; plusieurs retournements aussi chez My Moroccan Food, MarocMama, Morocco World News et Cooking with Alia",
+   "t": "Taste of Maroc; My Moroccan Food, MarocMama, Morocco World News and Cooking with Alia also turn it several times"
+  },
+  "secrets.8.text": {
+   "fr": "N'appuie jamais sur le batbout pendant la cuisson : il ne gonflerait plus et serait difficile à ouvrir et à farcir.",
+   "t": "Never press on the batbout while it cooks: it would no longer puff up and would be hard to open and fill."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou)",
+   "t": "My Moroccan Food (Nargisse Benkabbou)"
+  },
+  "secrets.9.text": {
+   "fr": "S'il ne gonfle pas, baisse un peu le feu et laisse-le cuire un peu plus longtemps d'un côté. Vérifie aussi que les disques ont assez levé.",
+   "t": "If it doesn't puff up, turn the heat down a little and let it cook a little longer on one side. Also check that the discs have risen enough."
+  },
+  "secrets.9.source": {
+   "fr": "MarocMama (réponse d'Amanda Mouttaki à une lectrice, 19 août 2019)",
+   "t": "MarocMama (Amanda Mouttaki's reply to a reader, 19 August 2019)"
+  },
+  "secrets.10.text": {
+   "fr": "Par temps chaud, les disques lèvent trop vite et leur surface sèche, puis se fend : mets un peu moins de levure. Par temps froid, laisse-les lever plus longtemps.",
+   "t": "In hot weather, the discs rise too quickly and their surface dries out, then splits: use a little less yeast. In cold weather, leave them to rise for longer."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc (Christine Benlafquih)",
+   "t": "Taste of Maroc (Christine Benlafquih)"
+  },
+  "secrets.11.text": {
+   "fr": "Fais lever les disques sur un grand torchon ou un drap de coton, que tu replies par-dessus pour les couvrir.",
+   "t": "Let the discs rise on a large tea towel or cotton sheet, folded back over the top to cover them."
+  },
+  "secrets.11.source": {
+   "fr": "Taste of Maroc ; Bladi.net (un linge dessous, un autre dessus)",
+   "t": "Taste of Maroc; Bladi.net (one cloth underneath, another on top)"
+  },
+  "mistakes.0": {
+   "fr": "Étaler les disques trop épais : le batbout risque de ne pas gonfler (Taste of Maroc).",
+   "t": "Rolling the discs out too thick: the batbout may not puff up (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Poser les disques dans une poêle pas encore chaude : la poche se forme dans une poêle déjà chaude (MarocMama ; Taste of Maroc).",
+   "t": "Putting the discs in a frying pan that isn't hot yet: the pocket forms in a pan that is already hot (MarocMama; Taste of Maroc)."
+  },
+  "mistakes.2": {
+   "fr": "Sauter la levée des disques : il faut les laisser reposer une fois façonnés (MarocMama).",
+   "t": "Skipping the rise of the discs: they must be left to rest once shaped (MarocMama)."
+  },
+  "mistakes.3": {
+   "fr": "Manipuler brusquement les disques levés : ils se dégonflent ou se fendent (Taste of Maroc).",
+   "t": "Handling the risen discs roughly: they deflate or split (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Appuyer sur le batbout pendant la cuisson (My Moroccan Food).",
+   "t": "Pressing on the batbout while it cooks (My Moroccan Food)."
+  },
+  "mistakes.5": {
+   "fr": "Verser toute l'eau d'un coup : la pâte devient trop collante (My Moroccan Food).",
+   "t": "Pouring in all the water at once: the dough becomes too sticky (My Moroccan Food)."
+  },
+  "mistakes.6": {
+   "fr": "Retourner un batbout gonflé sans précaution : la vapeur brûlante qui sort d'une fente peut brûler (Taste of Maroc).",
+   "t": "Turning a puffed-up batbout without care: the scalding steam escaping from a split can burn you (Taste of Maroc)."
+  },
+  "mistakes.7": {
+   "fr": "Congeler les batbout encore tièdes : attends qu'ils soient complètement froids (Taste of Maroc ; MarocMama).",
+   "t": "Freezing the batbout while still warm: wait until they are completely cold (Taste of Maroc; MarocMama)."
+  },
+  "variants.0": {
+   "fr": "Autres noms : mkhamer, toghrift ou matlou', selon les régions et les familles. Pour certains, le mkhamer est un batbout cuit dans une poêle huilée ; pour d'autres, un batbout épais, sans poche, servi avec du beurre et du miel (Taste of Maroc). Choumicha l'appelle « batbot » ou « pain metlouâ » (titres de ses recettes).",
+   "t": "Other names: mkhamer, toghrift or matlou', depending on the region and the family. For some, mkhamer is a batbout cooked in an oiled frying pan; for others, a thick batbout without a pocket, served with butter and honey (Taste of Maroc). Choumicha calls it “batbot” or “pain metlouâ” (titles of her recipes)."
+  },
+  "variants.1": {
+   "fr": "Avec de la farine complète : Taste of Maroc mélange farine blanche, semoule fine et farine complète (375 g, 384 g et 120 g pour 20 batbout) ; Morocco World News fait moitié farine blanche, moitié « wheat flour ».",
+   "t": "With wholemeal flour: Taste of Maroc mixes white flour, fine semolina and wholemeal flour (375 g, 384 g and 120 g for 20 batbout); Morocco World News uses half white flour, half “wheat flour”."
+  },
+  "variants.2": {
+   "fr": "Tout en semoule, en grandes galettes épaisses : semouline, levure, sel et eau, pâte pétrie une vingtaine de minutes, quatre boules saupoudrées de semoule moyenne et aplaties à la main sur 1,5 cm, levée d'environ 1 heure, cuisson une à une sur un plat en fonte chaud (Bladi.net).",
+   "t": "All semolina, as large thick flatbreads: “semouline”, yeast, salt and water, the dough kneaded for about twenty minutes, four balls sprinkled with medium semolina and flattened by hand to 1.5 cm, a rise of about 1 hour, then cooked one at a time on a hot cast-iron dish (Bladi.net)."
+  },
+  "variants.3": {
+   "fr": "Mini batbout du ramadan : petits pains de 5 cm environ, farcis et servis en bouchées à la table du ftour (Taste of Maroc ; Morocco World News ; MarocMama). Lalla Moulati en publie de nombreuses versions farcies.",
+   "t": "Ramadan mini batbout: small breads about 5 cm across, filled and served as bite-sized snacks at the iftar table (Taste of Maroc; Morocco World News; MarocMama). Lalla Moulati publishes many filled versions."
+  },
+  "variants.4": {
+   "fr": "Farci au poulet : petits morceaux de poulet revenus avec de l'oignon et des poivrons de trois couleurs, servis avec une sauce au yaourt, au sel et au citron (Morocco World News) ; ou farce rapide façon tajine, au poulet, au citron confit, aux olives vertes et aux oignons nouveaux (My Moroccan Food).",
+   "t": "Stuffed with chicken: small pieces of chicken sautéed with onion and peppers in three colours, served with a yoghurt, salt and lemon sauce (Morocco World News); or a quick tagine-style filling with chicken, preserved lemon, green olives and spring onions (My Moroccan Food)."
+  },
+  "variants.5": {
+   "fr": "Frit puis enrobé : au lieu de le cuire à sec, fais frire le batbout dans l'huile, puis enrobe-le de miel et de beurre (MarocMama).",
+   "t": "Fried, then coated: instead of cooking it dry, fry the batbout in oil, then coat it in honey and butter (MarocMama)."
+  },
+  "variants.6": {
+   "fr": "Avec du lait en poudre : une recette de Lalla Moulati ajoute 1 c. à s. de lait en poudre pour 600 g de farine et de semoule.",
+   "t": "With milk powder: one Lalla Moulati recipe adds 1 tbsp of milk powder per 600 g of flour and semolina."
+  },
+  "variants.7": {
+   "fr": "Grande batbouta farcie à la poêle : la moitié de la pâte étalée dans une poêle légèrement huilée, une farce de légumes émincés (poivron, courgette, oignon), de fromage et d'épices au centre, l'autre moitié par-dessus, les bords bien fermés, puis cuisson des deux côtés à feu doux (Lalla Moulati). Pour un halal strict, prends un fromage à coagulant microbien, sans présure animale.",
+   "t": "Large stuffed batbouta in the frying pan: half the dough rolled out in a lightly oiled frying pan, a filling of thinly sliced vegetables (pepper, courgette, onion), cheese and spices in the centre, the other half on top, the edges well sealed, then cooked on both sides over low heat (Lalla Moulati). For strict halal, use a cheese made with a microbial coagulant, without animal rennet."
+  }
+ }
+}

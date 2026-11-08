@@ -1,0 +1,502 @@
+{
+ "_slug": "loubia",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Loubia, haricots blancs à la marocaine",
+   "t": "Loubia, Moroccan white beans"
+  },
+  "darija": {
+   "fr": "Loubia",
+   "t": "Loubia"
+  },
+  "tagline": {
+   "fr": "Des haricots blancs fondants, mijotés dans une sauce tomate généreuse à l'ail, au cumin et au paprika : le plat réconfortant de tous les jours, à saucer avec du pain.",
+   "t": "Meltingly tender white beans, simmered in a generous tomato sauce with garlic, cumin and paprika: the comforting everyday dish, to mop up with bread."
+  },
+  "region": {
+   "fr": "Tout le Maroc (plat très courant selon Taste of Maroc et MarocMama)",
+   "t": "All over Morocco (a very common dish according to Taste of Maroc and MarocMama)"
+  },
+  "occasion": {
+   "fr": "Plat du quotidien, en plat principal ou en accompagnement (Taste of Maroc ; Morocco World News 2023) ; on le mange aussi au petit-déjeuner ou au déjeuner, dans les petites gargotes (MarocMama)",
+   "t": "An everyday dish, as a main course or a side dish (Taste of Maroc; Morocco World News 2023); it is also eaten at breakfast or lunch, in small cheap eateries (MarocMama)"
+  },
+  "img_alt": {
+   "fr": "Haricots blancs en sauce tomate avec du persil, ici avec des morceaux de viande (photo prise en Tunisie)",
+   "t": "White beans in tomato sauce with parsley, here with pieces of meat (photo taken in Tunisia)"
+  },
+  "serving": {
+   "fr": "Chaude, en plat principal ou en accompagnement (Taste of Maroc ; Morocco World News 2023), avec du khobz pour saucer, à la main ou à la cuillère (Taste of Maroc ; MarocMama). Au Maroc, on la mange aussi au petit-déjeuner ou au déjeuner, souvent dans de petites gargotes (MarocMama). En accompagnement, elle va avec du poulet ou du bœuf grillés (MarocMama), du poisson comme la sardine, ou de la viande (Morocco World News 2023).",
+   "t": "Hot, as a main course or a side dish (Taste of Maroc; Morocco World News 2023), with khobz to mop up the sauce, by hand or with a spoon (Taste of Maroc; MarocMama). In Morocco, it is also eaten at breakfast or lunch, often in small cheap eateries (MarocMama). As a side dish, it goes with grilled chicken or beef (MarocMama), fish such as sardines, or meat (Morocco World News 2023)."
+  },
+  "ing.0.group": {
+   "fr": "Haricots",
+   "t": "Beans"
+  },
+  "ing.haricots.name": {
+   "fr": "de haricots blancs secs",
+   "t": "dried white beans"
+  },
+  "ing.haricots.note": {
+   "fr": "petits haricots blancs ou cannellini",
+   "t": "small white beans or cannellini"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "Sauce"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate bien mûre",
+   "t": "very ripe tomato"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "chair râpée, sans la peau",
+   "t": "flesh grated, skin discarded"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher finement ou à presser",
+   "t": "to be finely chopped or crushed"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "chopped fresh coriander"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "tomato purée"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "ground cumin"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "adjust at the end of cooking"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.gingembre.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.curcuma.note": {
+   "fr": "facultatif, pour la couleur",
+   "t": "optional, for colour"
+  },
+  "ing.piment.name": {
+   "fr": "de piment fort moulu (Cayenne)",
+   "t": "ground hot chilli (cayenne)"
+  },
+  "ing.piment.note": {
+   "fr": "facultatif",
+   "t": "optional"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.eau-plus.name": {
+   "fr": "un peu d'eau",
+   "t": "a little water"
+  },
+  "ing.eau-plus.note": {
+   "fr": "seulement si le liquide réduit trop tôt",
+   "t": "only if the liquid reduces too soon"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "khobz (Moroccan bread)"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "to mop up the sauce"
+  },
+  "equipment.0": {
+   "fr": "Grand saladier, pour le trempage",
+   "t": "Large bowl, for soaking"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "Colander"
+  },
+  "equipment.2": {
+   "fr": "Grande cocotte à fond épais d'environ 6 l, avec couvercle (ou un autocuiseur) ; une cocotte deux fois plus grande si tu doubles la recette",
+   "t": "Large heavy-based casserole of about 6 l, with a lid (or a pressure cooker); a casserole twice as large if you double the recipe"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "Grater"
+  },
+  "equipment.4": {
+   "fr": "Couteau ou presse-ail",
+   "t": "Knife or garlic press"
+  },
+  "equipment.5": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "steps.0.title": {
+   "fr": "La veille : fais tremper les haricots",
+   "t": "The day before: soak the beans"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{haricots}} de haricots blancs secs dans un grand saladier. Couvre-les largement d'eau, 2,5 à 5 cm au-dessus, car ils vont gonfler. Laisse-les tremper toute la nuit.",
+   "t": "Put {{haricots}} dried white beans in a large bowl. Cover them with plenty of water, 2.5 to 5 cm above them, as they will swell. Leave them to soak overnight."
+  },
+  "steps.0.tip": {
+   "fr": "Pas le temps ? Fais-les tremper au moins 5 heures (durée minimale conseillée par la FDA ; Choumicha descend à 2 ou 3 heures dans certaines recettes), jette l'eau de trempage et prévois une cuisson plus longue (MarocMama).",
+   "t": "No time? Soak them for at least 5 hours (the minimum recommended by the FDA; Choumicha goes down to 2 or 3 hours in some recipes), throw away the soaking water and allow a longer cooking time (MarocMama)."
+  },
+  "steps.1.title": {
+   "fr": "Égoutte les haricots",
+   "t": "Drain the beans"
+  },
+  "steps.1.text": {
+   "fr": "Le lendemain, égoutte les haricots et jette l'eau de trempage.",
+   "t": "The next day, drain the beans and throw away the soaking water."
+  },
+  "steps.2.title": {
+   "fr": "Prépare tomates, oignon et ail",
+   "t": "Prepare the tomatoes, onion and garlic"
+  },
+  "steps.2.text": {
+   "fr": "Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Râpe l'oignon ({{oignon:full}}). Hache finement l'ail ({{ail:full}}), ou passe-le au presse-ail.",
+   "t": "Cut the tomatoes in half ({{tomates:full}}), grate the flesh and discard the skin. Grate the onion ({{oignon:full}}). Finely chop the garlic ({{ail:full}}), or put it through a garlic press."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Tomato grated on a grater"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "Chop the herbs"
+  },
+  "steps.3.text": {
+   "fr": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Wash the parsley and coriander, dry them and chop them finely: you need {{persil}} parsley and {{coriandre}} coriander."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.4.title": {
+   "fr": "Mets tout dans la cocotte",
+   "t": "Put everything in the casserole"
+  },
+  "steps.4.text": {
+   "fr": "Dans une grande cocotte à fond épais, mets les haricots égouttés, les tomates, l'oignon, l'ail et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et {{huile}} d'huile d'olive. Si tu veux, ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma et {{piment}} de piment fort. Mélange bien.",
+   "t": "In a large heavy-based casserole, put the drained beans, tomatoes, onion, garlic and herbs. Add {{concentre}} tomato purée, {{paprika}} paprika, {{cumin}} cumin, {{poivre}} pepper, {{sel}} salt and {{huile}} olive oil. If you like, add {{gingembre}} ginger, {{curcuma}} turmeric and {{piment}} hot chilli. Mix well."
+  },
+  "steps.5.title": {
+   "fr": "Verse l'eau",
+   "t": "Pour in the water"
+  },
+  "steps.5.text": {
+   "fr": "Verse {{eau}} d'eau et porte à pleine ébullition, à feu vif.",
+   "t": "Pour in {{eau}} of water and bring to a full boil over high heat."
+  },
+  "steps.5.tip": {
+   "fr": "S'il se forme une écume blanche au début, retire-la avec une cuillère (Kookmutsjes).",
+   "t": "If white foam forms at the start, skim it off with a spoon (Kookmutsjes)."
+  },
+  "steps.6.title": {
+   "fr": "Laisse cuire à petits bouillons",
+   "t": "Cook at a gentle boil"
+  },
+  "steps.6.text": {
+   "fr": "Couvre et laisse cuire à feu moyen environ 1 h 30, jusqu'à ce que les haricots soient fondants. Le liquide doit bouillir à petits bouillons, et pas seulement frémir, au moins pendant les 30 premières minutes. Remue de temps en temps. Si le liquide réduit avant que les haricots soient cuits, ajoute {{eau-plus}}.",
+   "t": "Cover and cook over medium heat for about 1 h 30 min, until the beans are meltingly tender. The liquid must boil gently, not just simmer, for at least the first 30 minutes. Stir from time to time. If the liquid reduces before the beans are cooked, add {{eau-plus}}."
+  },
+  "steps.6.timer.label": {
+   "fr": "Loubia",
+   "t": "Loubia"
+  },
+  "steps.6.timer.done": {
+   "fr": "Écrase un haricot contre la paroi : il doit s'écraser facilement. Sinon, prolonge la cuisson.",
+   "t": "Crush a bean against the side of the pot: it should crush easily. If not, cook it longer."
+  },
+  "steps.7.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Check the beans are cooked"
+  },
+  "steps.7.text": {
+   "fr": "Écrase un haricot contre la paroi avec une cuillère : s'il s'écrase sans effort, il est cuit. Sinon, prolonge la cuisson à couvert.",
+   "t": "Crush a bean against the side of the pot with a spoon: if it crushes effortlessly, it is cooked. If not, keep cooking, covered."
+  },
+  "steps.8.title": {
+   "fr": "Ajuste la sauce",
+   "t": "Adjust the sauce"
+  },
+  "steps.8.text": {
+   "fr": "La sauce doit être épaisse, mais encore généreuse : les haricots vont continuer à en boire. S'ils baignent encore dans le liquide, laisse réduire sans couvercle, en remuant.",
+   "t": "The sauce should be thick, but still plentiful: the beans will keep soaking it up. If they are still swimming in liquid, let it reduce without the lid, stirring."
+  },
+  "steps.8.tip": {
+   "fr": "Pour lier la sauce, écrase quelques haricots à la fourchette (MarocMama).",
+   "t": "To thicken the sauce, crush a few beans with a fork (MarocMama)."
+  },
+  "steps.9.title": {
+   "fr": "Goûte et rectifie",
+   "t": "Taste and adjust"
+  },
+  "steps.9.text": {
+   "fr": "Goûte et rectifie le sel et les épices.",
+   "t": "Taste and adjust the salt and spices."
+  },
+  "steps.10.title": {
+   "fr": "Sers chaud avec du pain",
+   "t": "Serve hot with bread"
+  },
+  "steps.10.text": {
+   "fr": "Sers la loubia chaude, en plat principal ou en accompagnement, avec du {{khobz}} pour saucer. Mange-la à la cuillère, ou à la marocaine en prenant les haricots avec un morceau de pain.",
+   "t": "Serve the loubia hot, as a main course or a side dish, with {{khobz}} to mop up the sauce. Eat it with a spoon, or the Moroccan way, scooping up the beans with a piece of bread."
+  },
+  "steps.11.title": {
+   "fr": "Range les restes",
+   "t": "Put away the leftovers"
+  },
+  "steps.11.text": {
+   "fr": "Ne laisse pas la loubia plus de 2 heures à température ambiante : mets-la au réfrigérateur dans une boîte fermée et mange-la dans les 3 jours. S'il y en a plus d'un litre, répartis-la en petites portions pour qu'elle refroidisse vite. Réchauffe-la doucement, à couvert, avec un peu d'eau, jusqu'à ce que la vapeur s'échappe.",
+   "t": "Do not leave the loubia at room temperature for more than 2 hours: put it in the fridge in a closed container and eat it within 3 days. If there is more than a litre, divide it into small portions so that it cools quickly. Reheat it gently, covered, with a little water, until steam escapes."
+  },
+  "secrets.0.text": {
+   "fr": "Fais tremper les haricots toute une nuit, dans beaucoup d'eau : ils gonflent et en absorbent une partie.",
+   "t": "Soak the beans overnight in plenty of water: they swell and absorb some of it."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha (« trempés depuis la veille ») ; Bladi ; Morocco World News 2023 ; MarocMama (eau 2,5 à 5 cm au-dessus des haricots)",
+   "t": "Taste of Maroc; Choumicha (“soaked since the day before”); Bladi; Morocco World News 2023; MarocMama (water 2.5 to 5 cm above the beans)"
+  },
+  "secrets.1.text": {
+   "fr": "Pas de trempage la veille ? Compte au moins 5 heures de trempage, et une cuisson plus longue.",
+   "t": "Did not soak them the day before? Allow at least 5 hours of soaking, and a longer cooking time."
+  },
+  "secrets.1.source": {
+   "fr": "FDA (au moins 5 heures de trempage) ; MarocMama (au moins quelques heures, et plus de cuisson) ; Choumicha (2 à 3 heures pour ses haricots aux poivrons frits, 2 heures pour ses haricots aux boulettes)",
+   "t": "FDA (at least 5 hours of soaking); MarocMama (at least a few hours, and longer cooking); Choumicha (2 to 3 hours for her beans with fried peppers, 2 hours for her beans with meatballs)"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe les tomates et l'oignon.",
+   "t": "Grate the tomatoes and the onion."
+  },
+  "secrets.2.source": {
+   "fr": "Taste of Maroc ; Choumicha (tomates râpées)",
+   "t": "Taste of Maroc; Choumicha (grated tomatoes)"
+  },
+  "secrets.3.text": {
+   "fr": "L'ail, le cumin et le paprika font le goût de la loubia : n'en sois pas avare.",
+   "t": "Garlic, cumin and paprika give loubia its flavour: do not be stingy with them."
+  },
+  "secrets.3.source": {
+   "fr": "Taste of Maroc (« beaucoup d'ail », paprika, cumin) ; MarocMama (5 gousses d'ail, cumin et paprika) ; Choumicha (cumin et piment doux dans toutes ses versions)",
+   "t": "Taste of Maroc (“lots of garlic”, paprika, cumin); MarocMama (5 garlic cloves, cumin and paprika); Choumicha (cumin and sweet paprika in all her versions)"
+  },
+  "secrets.4.text": {
+   "fr": "Le curcuma n'est pas traditionnel dans la loubia : Taste of Maroc en ajoute pour la couleur. Mets-en ou pas.",
+   "t": "Turmeric is not traditional in loubia: Taste of Maroc adds it for colour. Use it or not, as you like."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; on le trouve pourtant chez Morocco World News 2023 et dans deux recettes de Choumicha (poivrons frits, douara)",
+   "t": "Taste of Maroc; it does, however, appear in Morocco World News 2023 and in two of Choumicha's recipes (fried peppers, douara)"
+  },
+  "secrets.5.text": {
+   "fr": "Garde une sauce généreuse au moment de servir : les haricots continuent de boire le liquide en attendant.",
+   "t": "Keep plenty of sauce at serving time: the beans go on soaking up the liquid while they wait."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Si la sauce est encore trop liquide quand les haricots sont cuits, fais-la réduire à découvert.",
+   "t": "If the sauce is still too runny when the beans are cooked, reduce it uncovered."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Morocco World News 2023 ; MarocMama",
+   "t": "Taste of Maroc; Morocco World News 2023; MarocMama"
+  },
+  "secrets.7.text": {
+   "fr": "Pour lier la sauce, écrase quelques haricots à la fourchette.",
+   "t": "To thicken the sauce, crush a few beans with a fork."
+  },
+  "secrets.7.source": {
+   "fr": "MarocMama",
+   "t": "MarocMama"
+  },
+  "secrets.8.text": {
+   "fr": "Un haricot cuit s'écrase sans effort : la loubia doit être fondante.",
+   "t": "A cooked bean crushes effortlessly: loubia should be meltingly tender."
+  },
+  "secrets.8.source": {
+   "fr": "Morocco World News 2023 ; Choumicha (« les haricots blancs doivent être fondants »)",
+   "t": "Morocco World News 2023; Choumicha (“the white beans should be meltingly tender”)"
+  },
+  "secrets.9.text": {
+   "fr": "Avec de la viande, fais-la d'abord dorer dans l'huile d'olive, puis cuis tout ensemble. La viande séchée n'a pas besoin d'être dorée.",
+   "t": "If using meat, brown it first in the olive oil, then cook everything together. Dried meat does not need browning."
+  },
+  "secrets.9.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.10.text": {
+   "fr": "À l'autocuiseur, n'ouvre pas tout de suite : laisse la pression retomber, pour ne pas te brûler.",
+   "t": "With a pressure cooker, do not open it straight away: let the pressure drop, so that you do not burn yourself."
+  },
+  "secrets.10.source": {
+   "fr": "Morocco World News 2023",
+   "t": "Morocco World News 2023"
+  },
+  "secrets.11.text": {
+   "fr": "Najat préfère les petits haricots blancs, qu'elle trouve les meilleurs pour la loubia.",
+   "t": "Najat prefers small white beans, which she finds the best for loubia."
+  },
+  "secrets.11.source": {
+   "fr": "Kookmutsjes (Najat, « Marokkaanse bonensoep/Loubia/Joubiath »)",
+   "t": "Kookmutsjes (Najat, “Marokkaanse bonensoep/Loubia/Joubiath”)"
+  },
+  "secrets.12.text": {
+   "fr": "S'il se forme une écume blanche au début de la cuisson, retire-la à la cuillère.",
+   "t": "If white foam forms at the start of cooking, skim it off with a spoon."
+  },
+  "secrets.12.source": {
+   "fr": "Kookmutsjes (Najat)",
+   "t": "Kookmutsjes (Najat)"
+  },
+  "secrets.13.text": {
+   "fr": "Au Maroc, la loubia se mange avec du pain, à la main ou à la cuillère.",
+   "t": "In Morocco, loubia is eaten with bread, by hand or with a spoon."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc ; MarocMama ; Morocco World News 2023",
+   "t": "Taste of Maroc; MarocMama; Morocco World News 2023"
+  },
+  "mistakes.0": {
+   "fr": "Utiliser des haricots en conserve dans cette recette : déjà cuits, ils risquent de mal prendre le goût de la sauce (Taste of Maroc).",
+   "t": "Using tinned beans in this recipe: already cooked, they may not take on the flavour of the sauce well (Taste of Maroc)."
+  },
+  "mistakes.1": {
+   "fr": "Cuire des haricots secs sans trempage : fais-les tremper au moins 5 heures (FDA) et prévois plus de cuisson (MarocMama). Ou les cuire à la mijoteuse électrique : elle ne chauffe pas assez pour détruire la lectine des haricots (FDA).",
+   "t": "Cooking dried beans without soaking them: soak them for at least 5 hours (FDA) and allow longer cooking (MarocMama). Or cooking them in an electric slow cooker: it does not get hot enough to destroy the lectin in the beans (FDA)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la cocotte sécher : ajoute un peu d'eau si le liquide réduit avant que les haricots soient cuits (Taste of Maroc).",
+   "t": "Letting the casserole dry out: add a little water if the liquid reduces before the beans are cooked (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Servir une sauce aqueuse : elle doit être épaisse, mais encore généreuse (Taste of Maroc).",
+   "t": "Serving a watery sauce: it should be thick, but still plentiful (Taste of Maroc)."
+  },
+  "mistakes.4": {
+   "fr": "Ouvrir l'autocuiseur dès la fin de la cuisson (Morocco World News 2023).",
+   "t": "Opening the pressure cooker as soon as cooking ends (Morocco World News 2023)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
+   "t": "Leaving leftovers at room temperature for more than 2 hours, or keeping them in the fridge for more than 3 days (Anses)."
+  },
+  "variants.0": {
+   "fr": "À l'autocuiseur : mêmes ingrédients, 40 minutes sous pression à feu moyen (Taste of Maroc ; MarocMama ; Morocco World News 2023 compte 40 à 45 minutes). Taste of Maroc garde les 2 litres d'eau et fait ensuite réduire à découvert ; Morocco World News 2023 et MarocMama mettent juste assez d'eau pour couvrir largement les haricots. Laisse retomber la pression avant d'ouvrir (Morocco World News 2023).",
+   "t": "In a pressure cooker: same ingredients, 40 minutes under pressure over medium heat (Taste of Maroc; MarocMama; Morocco World News 2023 allows 40 to 45 minutes). Taste of Maroc keeps the 2 litres of water and then reduces the sauce uncovered; Morocco World News 2023 and MarocMama use just enough water to cover the beans generously. Let the pressure drop before opening (Morocco World News 2023)."
+  },
+  "variants.1": {
+   "fr": "Avec de la viande halal : 1 livre (environ 450 g) de bœuf ou d'agneau avec os pour 1 livre de haricots, dorée d'abord dans l'huile d'olive (Taste of Maroc) ; Bladi cuit 500 g de veau avec 250 g de haricots, du cumin, du coulis de tomate et une pincée de safran.",
+   "t": "With halal meat: 1 pound (about 450 g) of bone-in beef or lamb for 1 pound of beans, browned first in the olive oil (Taste of Maroc); Bladi cooks 500 g veal with 250 g beans, cumin, tomato coulis and a pinch of saffron."
+  },
+  "variants.2": {
+   "fr": "À la viande séchée (gueddid) : Choumicha cuit d'abord les haricots 30 minutes avec l'ail en chemise et un bouquet de coriandre et de persil, puis ajoute la viande séchée, les tomates râpées, le concentré, les épices et l'huile d'olive ; elle retire le bouquet au service.",
+   "t": "With dried meat (gueddid): Choumicha first cooks the beans for 30 minutes with unpeeled garlic cloves and a bunch of coriander and parsley, then adds the dried meat, grated tomatoes, tomato purée, spices and olive oil; she removes the bunch of herbs when serving."
+  },
+  "variants.3": {
+   "fr": "Au khlii (viande confite) : la mère de Nargisse Benkabbou en ajoutait pendant que la loubia mijotait (My Moroccan Food) ; Taste of Maroc et MarocMama le citent aussi.",
+   "t": "With khlii (preserved dried meat): Nargisse Benkabbou's mother added it while the loubia was simmering (My Moroccan Food); Taste of Maroc and MarocMama also mention it."
+  },
+  "variants.4": {
+   "fr": "À la douara (tripes de mouton) : Choumicha cuit les tripes 30 minutes avec les épices, puis ajoute les haricots trempés, enfermés dans un sac de mousseline, et laisse cuire environ 1 h 30. Selon MarocMama, quand on met de la viande dans la loubia, le plus courant au Maroc, ce sont des morceaux d'estomac de mouton.",
+   "t": "With douara (sheep's tripe): Choumicha cooks the tripe for 30 minutes with the spices, then adds the soaked beans, tied up in a muslin bag, and cooks for about 1 h 30 min. According to MarocMama, when meat is added to loubia, the most common choice in Morocco is pieces of sheep's stomach."
+  },
+  "variants.5": {
+   "fr": "Aux poivrons rouges frits, ou aux boulettes de viande hachée ajoutées 5 minutes avant la fin (Choumicha).",
+   "t": "With fried red peppers, or with meatballs added 5 minutes before the end (Choumicha)."
+  },
+  "variants.6": {
+   "fr": "En soupe plus liquide, avec carottes, céleri et ras el hanout (Kookmutsjes, « Marokkaanse bonensoep »).",
+   "t": "As a thinner soup, with carrots, celery and ras el hanout (Kookmutsjes, “Marokkaanse bonensoep”)."
+  },
+  "variants.7": {
+   "fr": "Version express avec des haricots en conserve, 20 à 35 minutes (Cooking With Alia ; My Moroccan Food) : plus rapide, mais Taste of Maroc la déconseille.",
+   "t": "Express version with tinned beans, 20 to 35 minutes (Cooking With Alia; My Moroccan Food): quicker, but Taste of Maroc advises against it."
+  },
+  "variants.8": {
+   "fr": "Cuite des heures dans une marmite en terre, au charbon : la version la plus savoureuse selon MarocMama.",
+   "t": "Cooked for hours in a clay pot over charcoal: the tastiest version according to MarocMama."
+  },
+  "variants.9": {
+   "fr": "Une partie de l'huile d'olive ajoutée seulement en fin de cuisson (Morocco World News 2023) ; dans sa version aux poivrons, Choumicha ajoute même toute l'huile et les épices une fois les haricots cuits.",
+   "t": "Some of the olive oil added only at the end of cooking (Morocco World News 2023); in her version with peppers, Choumicha even adds all the oil and spices once the beans are cooked."
+  }
+ }
+}

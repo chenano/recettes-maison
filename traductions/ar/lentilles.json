@@ -1,0 +1,558 @@
+{
+ "_slug": "lentilles",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Lentilles à la marocaine, à l'agneau et aux légumes",
+   "t": "العدس على الطريقة المغربية باللحم والخضر"
+  },
+  "darija": {
+   "fr": "Adess bel lham (l'3des)",
+   "t": "العدس باللحم (l'3des)"
+  },
+  "tagline": {
+   "fr": "Les lentilles, plat d'hiver des familles marocaines, ici mijotées avec de l'agneau, des carottes et des pommes de terre, dans une sauce tomate au cumin et au paprika, à saucer avec du pain.",
+   "t": "العدس، طبق الشتاء عند العائلات المغربية، مطهو هنا على نار هادئة مع لحم الخروف والجزر والبطاطس، في صلصة طماطم بالكمون والفلفل الأحمر الحلو، تُغمَّس بالخبز."
+  },
+  "region": {
+   "fr": "Tout le Maroc (Morocco World News 2019 : plat apprécié dans tout le pays en hiver)",
+   "t": "المغرب كله (Morocco World News 2019: طبق محبوب في البلاد كلها في فصل الشتاء)"
+  },
+  "occasion": {
+   "fr": "Plat familial du quotidien, surtout en hiver ; servi en plat principal, avec du pain (Morocco World News 2019 et 2020 ; blog Mamatkamal)",
+   "t": "طبق عائلي يومي، خاصةً في الشتاء؛ يُقدَّم طبقًا رئيسيًا مع الخبز (Morocco World News 2019 و2020؛ مدونة Mamatkamal)"
+  },
+  "img_alt": {
+   "fr": "Lentilles aux pommes de terre et aux carottes dans un plat décoré, photographiées au Maroc",
+   "t": "عدس بالبطاطس والجزر في طبق مزخرف، صُوِّر في المغرب"
+  },
+  "serving": {
+   "fr": "Bien chaud, en plat principal, avec du khobz pour saucer, ou à la cuillère (Morocco World News 2019 et 2020 ; My Moroccan Food ; Cooking With Alia). À côté : des quartiers de citron (Bladi ; blog Mamatkamal ; My Moroccan Food) et, pour ceux qui aiment, de la harissa ou du piment fort (My Moroccan Food ; blog Mamatkamal).",
+   "t": "ساخنًا جدًا، طبقًا رئيسيًا، مع خبز الدار للتغميس، أو بالملعقة (Morocco World News 2019 و2020؛ My Moroccan Food؛ Cooking With Alia). وبجانبه: قطع من الليمون (Bladi؛ مدونة Mamatkamal؛ My Moroccan Food)، ولمن يحب، الهريسة أو الفلفل الحار (My Moroccan Food؛ مدونة Mamatkamal)."
+  },
+  "ing.0.group": {
+   "fr": "Viande",
+   "t": "اللحم"
+  },
+  "ing.agneau.name": {
+   "fr": "d'agneau désossé (épaule ou collier)",
+   "t": "لحم خروف منزوع العظم (كتف أو رقبة)"
+  },
+  "ing.agneau.note": {
+   "fr": "halal ; en morceaux d'environ 3 cm, sans l'excès de gras",
+   "t": "حلال؛ قطع بطول 3 سم تقريبًا، دون الدهن الزائد"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "زيت الزيتون"
+  },
+  "ing.1.group": {
+   "fr": "Sauce",
+   "t": "الصلصة"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon",
+   "t": "بصلة كبيرة"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons",
+   "t": "بصلات كبيرة"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "تُبشر"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "فص ثوم"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "فصوص ثوم"
+  },
+  "ing.ail.note": {
+   "fr": "à hacher finement",
+   "t": "يُفرم ناعمًا"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate moyenne bien mûre",
+   "t": "حبة طماطم متوسطة ناضجة جيدًا"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates moyennes bien mûres",
+   "t": "حبات طماطم متوسطة ناضجة جيدًا"
+  },
+  "ing.tomates.note": {
+   "fr": "chair râpée, sans la peau",
+   "t": "يُبشر لبّها دون القشرة"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "مركز الطماطم"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "فلفل أحمر حلو (التحميرة)"
+  },
+  "ing.cumin.name": {
+   "fr": "de cumin moulu",
+   "t": "كمون مطحون"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "فلفل أسود مطحون"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "تُعدَّل كميته في آخر الطهي"
+  },
+  "ing.cayenne.name": {
+   "fr": "une pincée de piment de Cayenne",
+   "t": "رشة من فلفل الكايين"
+  },
+  "ing.cayenne.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "بقدونس مفروم"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche hachée",
+   "t": "كزبرة طازجة مفرومة"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "ماء"
+  },
+  "ing.eau-bouillante.name": {
+   "fr": "un peu d'eau bouillante",
+   "t": "قليل من الماء المغلي"
+  },
+  "ing.eau-bouillante.note": {
+   "fr": "seulement si la sauce réduit trop",
+   "t": "فقط إذا نقصت الصلصة كثيرًا"
+  },
+  "ing.2.group": {
+   "fr": "Lentilles et légumes",
+   "t": "العدس والخضر"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles vertes ou brunes",
+   "t": "عدس أخضر أو بني"
+  },
+  "ing.lentilles.note": {
+   "fr": "sèches ; pas de lentilles corail",
+   "t": "يابس؛ وليس العدس الأحمر"
+  },
+  "ing.carottes.name": {
+   "fr": "carotte moyenne",
+   "t": "جزرة متوسطة"
+  },
+  "ing.carottes.pl": {
+   "fr": "carottes moyennes",
+   "t": "جزرات متوسطة"
+  },
+  "ing.pommes-de-terre.name": {
+   "fr": "petite pomme de terre",
+   "t": "حبة بطاطس صغيرة"
+  },
+  "ing.pommes-de-terre.pl": {
+   "fr": "petites pommes de terre",
+   "t": "حبات بطاطس صغيرة"
+  },
+  "ing.3.group": {
+   "fr": "Pour servir",
+   "t": "للتقديم"
+  },
+  "ing.citron.name": {
+   "fr": "citron",
+   "t": "ليمونة"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons",
+   "t": "ليمونات"
+  },
+  "ing.citron.note": {
+   "fr": "facultatif",
+   "t": "اختياري"
+  },
+  "ing.khobz.name": {
+   "fr": "khobz (pain marocain)",
+   "t": "خبز الدار"
+  },
+  "ing.khobz.note": {
+   "fr": "pour saucer",
+   "t": "للتغميس"
+  },
+  "equipment.0": {
+   "fr": "Grande cocotte ou marmite à fond épais, avec couvercle",
+   "t": "طنجرة كبيرة أو قدر سميك القاع، بغطاء"
+  },
+  "equipment.1": {
+   "fr": "Passoire",
+   "t": "مصفاة"
+  },
+  "equipment.2": {
+   "fr": "Râpe",
+   "t": "مبشرة"
+  },
+  "equipment.3": {
+   "fr": "Une planche réservée à la viande crue, une autre pour les légumes et les herbes",
+   "t": "لوح تقطيع مخصص للحم النيء، وآخر للخضر والأعشاب"
+  },
+  "equipment.4": {
+   "fr": "Couteau et éplucheur",
+   "t": "سكين ومقشّرة"
+  },
+  "equipment.5": {
+   "fr": "Bol d'eau froide, pour les pommes de terre",
+   "t": "وعاء ماء بارد، للبطاطس"
+  },
+  "equipment.6": {
+   "fr": "Cuillère en bois",
+   "t": "ملعقة خشبية"
+  },
+  "steps.0.title": {
+   "fr": "Trie et lave les lentilles",
+   "t": "نقِّ العدس واغسله"
+  },
+  "steps.0.text": {
+   "fr": "Trie {{lentilles}} de lentilles pour retirer les petits cailloux. Lave-les dans une passoire et laisse-les égoutter.",
+   "t": "نقِّ {{lentilles}} من العدس لإزالة الحصى الصغيرة. اغسله في مصفاة واتركه يتصفّى."
+  },
+  "steps.0.tip": {
+   "fr": "Pas besoin de trempage : les recettes avec viande de Choumicha et de My Moroccan Food mettent les lentilles sèches. Si tu les as fait tremper, elles cuiront plus vite : surveille-les. Sans trempage, les lentilles brunes du Maroc peuvent demander bien plus de 40 minutes (1 h 30 à 2 h à la marmite selon le blog Mamatkamal) : goûte-les avant d'ajouter les pommes de terre.",
+   "t": "لا حاجة إلى النقع: ففي وصفات Choumicha وMy Moroccan Food باللحم يُوضع العدس يابسًا. وإذا نقعته، فسينضج أسرع: راقبه. ودون نقع، قد يحتاج العدس البني المغربي إلى أكثر من 40 دقيقة بكثير (من 1 ساعة و30 دقيقة إلى 2 ساعة في القدر حسب مدونة Mamatkamal): تذوّقه قبل إضافة البطاطس."
+  },
+  "steps.1.title": {
+   "fr": "Coupe l'agneau",
+   "t": "قطّع لحم الخروف"
+  },
+  "steps.1.text": {
+   "fr": "Sur une planche réservée à la viande crue, retire l'excès de gras de {{agneau}} d'agneau et coupe-le en morceaux d'environ 3 cm.",
+   "t": "على لوح تقطيع مخصص للحم النيء، أزل الدهن الزائد من {{agneau}} من لحم الخروف، وقطّعه قطعًا بطول 3 سم تقريبًا."
+  },
+  "steps.1.tip": {
+   "fr": "Garde une autre planche pour les légumes et les herbes (Anses).",
+   "t": "خصّص لوحًا آخر للخضر والأعشاب (Anses)."
+  },
+  "steps.2.title": {
+   "fr": "Prépare oignon, tomates et ail",
+   "t": "حضّر البصل والطماطم والثوم"
+  },
+  "steps.2.text": {
+   "fr": "Râpe l'oignon ({{oignon:full}}). Coupe les tomates en deux ({{tomates:full}}), râpe la chair et jette la peau. Hache finement l'ail ({{ail:full}}).",
+   "t": "ابشر البصل ({{oignon:full}}). اقطع الطماطم نصفين ({{tomates:full}})، وابشر لبّها وتخلّص من القشرة. افرم الثوم ({{ail:full}}) فرمًا ناعمًا."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "طماطم تُبشر على مبشرة"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "بشر الطماطم"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "افرم الأعشاب"
+  },
+  "steps.3.text": {
+   "fr": "Lave le persil et la coriandre, sèche-les et hache-les finement : il te faut {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "اغسل البقدونس والكزبرة، وجفّفهما ثم افرمهما فرمًا ناعمًا: تحتاج إلى {{persil}} من البقدونس و{{coriandre}} من الكزبرة."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "بقدونس مفروم بالسكين على لوح تقطيع"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "فرم الأعشاب"
+  },
+  "steps.4.title": {
+   "fr": "Épluche les légumes",
+   "t": "قشّر الخضر"
+  },
+  "steps.4.text": {
+   "fr": "Épluche les carottes ({{carottes:full}}) et coupe-les en morceaux réguliers. Épluche les pommes de terre ({{pommes-de-terre:full}}), coupe-les en gros morceaux et garde-les dans un bol d'eau froide jusqu'au moment de les cuire.",
+   "t": "قشّر الجزر ({{carottes:full}}) وقطّعه قطعًا متساوية. قشّر البطاطس ({{pommes-de-terre:full}})، وقطّعها قطعًا كبيرة، واحتفظ بها في وعاء ماء بارد إلى حين طهيها."
+  },
+  "steps.4.tip": {
+   "fr": "Ne coupe pas les pommes de terre trop petites : elles se déferaient dans la sauce (Cooking With Alia).",
+   "t": "لا تقطّع البطاطس قطعًا صغيرة جدًا: وإلا تفتّتت في الصلصة (Cooking With Alia)."
+  },
+  "steps.5.title": {
+   "fr": "Fais dorer l'agneau",
+   "t": "حمّر لحم الخروف"
+  },
+  "steps.5.text": {
+   "fr": "Dans la cocotte, chauffe {{huile}} d'huile d'olive à feu moyen. Fais dorer les morceaux d'agneau 5 à 10 minutes, en les retournant pour qu'ils se colorent de tous les côtés.",
+   "t": "في الطنجرة، سخّن {{huile}} من زيت الزيتون على نار متوسطة. حمّر قطع لحم الخروف من 5 إلى 10 دقائق، مع تقليبها لتتلوّن من كل الجهات."
+  },
+  "steps.6.title": {
+   "fr": "Ajoute aromates et épices",
+   "t": "أضف المنكّهات والتوابل"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute l'oignon râpé, l'ail, les tomates râpées et les herbes. Ajoute {{concentre}} de concentré de tomate, {{paprika}} de paprika, {{cumin}} de cumin, {{poivre}} de poivre, {{sel}} de sel et, si tu aimes, {{cayenne}}. Mélange et laisse revenir 5 minutes en remuant.",
+   "t": "أضف البصل المبشور والثوم والطماطم المبشورة والأعشاب. أضف {{concentre}} من مركز الطماطم و{{paprika}} من الفلفل الأحمر الحلو و{{cumin}} من الكمون و{{poivre}} من الفلفل الأسود و{{sel}} من الملح، و{{cayenne}} إن أحببت. اخلط واترك الخليط على النار 5 دقائق مع التحريك."
+  },
+  "steps.6.timer.label": {
+   "fr": "Aromates et épices",
+   "t": "المنكّهات والتوابل"
+  },
+  "steps.6.timer.done": {
+   "fr": "Verse l'eau et porte à ébullition.",
+   "t": "اسكب الماء واتركه حتى يغلي."
+  },
+  "steps.7.title": {
+   "fr": "Fais mijoter la viande",
+   "t": "اطهِ اللحم على نار هادئة"
+  },
+  "steps.7.text": {
+   "fr": "Verse {{eau}} d'eau et porte à ébullition. Couvre, baisse le feu et laisse mijoter 45 minutes, jusqu'à ce que la viande commence à s'attendrir sans être encore fondante.",
+   "t": "اسكب {{eau}} من الماء واتركه حتى يغلي. غطِّ الطنجرة واخفض النار، واتركه ينضج على نار هادئة 45 دقيقة، حتى يبدأ اللحم في الطراوة دون أن يصبح ذائبًا بعد."
+  },
+  "steps.7.timer.label": {
+   "fr": "Agneau à mi-cuisson",
+   "t": "لحم الخروف في منتصف الطهي"
+  },
+  "steps.7.timer.done": {
+   "fr": "La viande commence à s'attendrir ? Ajoute les lentilles. Encore ferme : laisse-la jusqu'à 15 minutes de plus.",
+   "t": "هل بدأ اللحم يطرى؟ أضف العدس. وإن كان لا يزال صلبًا، فاتركه مدة إضافية تصل إلى 15 دقيقة."
+  },
+  "steps.8.title": {
+   "fr": "Ajoute lentilles et carottes",
+   "t": "أضف العدس والجزر"
+  },
+  "steps.8.text": {
+   "fr": "Ajoute les lentilles égouttées et les carottes, puis mélange. Le liquide doit couvrir les lentilles : sinon, ajoute {{eau-bouillante}}. Couvre et laisse mijoter 20 minutes à feu doux, en remuant de temps en temps, puis goûte les lentilles : elles doivent commencer à s'attendrir avant que tu ajoutes les pommes de terre.",
+   "t": "أضف العدس المصفّى والجزر، ثم اخلط. يجب أن يغمر السائل العدس: وإلا فأضف قليلًا من الماء المغلي. غطِّ الطنجرة واتركه على نار هادئة 20 دقيقة، مع التحريك من حين لآخر، ثم تذوّق العدس: يجب أن يبدأ في الطراوة قبل أن تضيف البطاطس."
+  },
+  "steps.8.timer.label": {
+   "fr": "Lentilles et carottes",
+   "t": "العدس والجزر"
+  },
+  "steps.8.timer.done": {
+   "fr": "Goûte quelques lentilles : elles doivent commencer à s'attendrir. Si elles sont encore dures (les lentilles brunes peuvent être bien plus longues à cuire), prolonge la cuisson à couvert en goûtant régulièrement, et n'ajoute les pommes de terre qu'à ce moment-là.",
+   "t": "تذوّق بضع حبات من العدس: يجب أن تبدأ في الطراوة. إذا كانت لا تزال صلبة (فالعدس البني قد يحتاج إلى وقت أطول بكثير لينضج)، فأطِل الطهي والطنجرة مغطاة مع التذوق بانتظام، ولا تضف البطاطس إلا عندئذ."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les pommes de terre",
+   "t": "أضف البطاطس"
+  },
+  "steps.9.text": {
+   "fr": "Égoutte les pommes de terre et enfonce-les dans la sauce. Couvre et laisse cuire 20 minutes, jusqu'à ce que les pommes de terre, les lentilles et la viande soient tendres. Remue doucement de temps en temps et ajoute un peu d'eau bouillante si la sauce attache.",
+   "t": "صفِّ البطاطس واغمرها في الصلصة. غطِّ الطنجرة واتركها تُطهى 20 دقيقة، حتى تصبح البطاطس والعدس واللحم طرية. حرّك برفق من حين لآخر، وأضف قليلًا من الماء المغلي إذا بدأت الصلصة تلتصق بالقاع."
+  },
+  "steps.9.timer.label": {
+   "fr": "Pommes de terre",
+   "t": "البطاطس"
+  },
+  "steps.9.timer.done": {
+   "fr": "Pique une pomme de terre : elle doit être tendre. Sinon, prolonge de 5 minutes.",
+   "t": "اختبر حبة بطاطس بوخزها: يجب أن تكون طرية. وإلا فأطِل الطهي 5 دقائق."
+  },
+  "steps.10.title": {
+   "fr": "Ajuste sauce et assaisonnement",
+   "t": "اضبط الصلصة والتتبيل"
+  },
+  "steps.10.text": {
+   "fr": "La sauce doit être onctueuse, ni sèche ni trop liquide. Si elle est trop liquide, laisse-la réduire quelques minutes sans couvercle. Goûte et rectifie le sel, le poivre et le cumin.",
+   "t": "يجب أن تكون الصلصة كريمية القوام، لا جافة ولا سائلة جدًا. إذا كانت سائلة جدًا، فاتركها تتكثّف بضع دقائق دون غطاء. تذوّق وعدّل الملح والفلفل والكمون."
+  },
+  "steps.11.title": {
+   "fr": "Sers bien chaud",
+   "t": "قدّمه ساخنًا جدًا"
+  },
+  "steps.11.text": {
+   "fr": "Sers bien chaud, avec du {{khobz}} pour saucer et des quartiers de citron ({{citron:full}}) à presser dans l'assiette. Ceux qui aiment le piquant ajoutent un peu de harissa.",
+   "t": "قدّمه ساخنًا جدًا، مع {{khobz}} للتغميس وقطع من الليمون ({{citron:full}}) تُعصر في الصحن. ومن يحب الطعم الحار يضيف قليلًا من الهريسة."
+  },
+  "steps.12.title": {
+   "fr": "Range les restes",
+   "t": "احفظ البقايا"
+  },
+  "steps.12.text": {
+   "fr": "Ne laisse pas le plat plus de 2 heures à température ambiante : mets les restes au réfrigérateur dans une boîte fermée et mange-les dans les 3 jours. S'il y en a plus d'un litre, répartis-les en petites portions pour qu'ils refroidissent vite. Réchauffe à couvert jusqu'à ce que la vapeur s'échappe, avec un peu d'eau chaude si c'est trop épais.",
+   "t": "لا تترك الطبق أكثر من 2 ساعة في درجة حرارة الغرفة: ضع البقايا في الثلاجة في علبة مغلقة وكُلها خلال 3 أيام. إذا كانت أكثر من لتر، فوزّعها في حصص صغيرة لتبرد بسرعة. سخّنها مغطاة حتى يتصاعد منها البخار، مع قليل من الماء الساخن إذا كانت كثيفة جدًا."
+  },
+  "secrets.0.text": {
+   "fr": "Fais d'abord cuire l'agneau seul dans la sauce : les lentilles cuisent bien plus vite que la viande. Ajoute-les quand les morceaux commencent à s'attendrir, sans être encore fondants.",
+   "t": "اطهِ لحم الخروف وحده في الصلصة أولًا: فالعدس ينضج أسرع بكثير من اللحم. أضفه عندما تبدأ القطع في الطراوة، قبل أن تصبح ذائبة."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (viande « à mi-cuisson », environ 1 heure, avant les lentilles) ; Bladi (viande 40 minutes avant les lentilles) ; Choumicha (viande séchée 30 à 40 minutes avant les lentilles et les carottes)",
+   "t": "My Moroccan Food (اللحم «في منتصف الطهي»، نحو 1 ساعة، قبل العدس)؛ Bladi (اللحم 40 دقيقة قبل العدس)؛ Choumicha (اللحم المجفف من 30 إلى 40 دقيقة قبل العدس والجزر)"
+  },
+  "secrets.1.text": {
+   "fr": "Les carottes cuisent avec les lentilles ; les pommes de terre n'arrivent que 20 minutes avant la fin, sinon elles se défont.",
+   "t": "يُطهى الجزر مع العدس؛ أما البطاطس فلا تُضاف إلا قبل النهاية بـ20 دقيقة، وإلا تفتّتت."
+  },
+  "secrets.1.source": {
+   "fr": "Choumicha (carottes avec les lentilles ; patate douce et courge ajoutées pour les 20 à 25 dernières minutes) ; My Moroccan Food et Cooking With Alia (pommes de terre cuites 15 à 20 minutes dans la sauce)",
+   "t": "Choumicha (الجزر مع العدس؛ والبطاطا الحلوة والقرع يُضافان في آخر 20 إلى 25 دقيقة)؛ My Moroccan Food وCooking With Alia (البطاطس تُطهى من 15 إلى 20 دقيقة في الصلصة)"
+  },
+  "secrets.2.text": {
+   "fr": "Coupe les pommes de terre en gros morceaux, jamais trop petits, et garde-les dans l'eau froide en attendant de les cuire.",
+   "t": "قطّع البطاطس قطعًا كبيرة، لا صغيرة جدًا أبدًا، واحتفظ بها في الماء البارد إلى حين طهيها."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking With Alia (tajine de bœuf aux pommes de terre, n° 201) ; Bladi (légumes « en gros morceaux »)",
+   "t": "Cooking With Alia (طاجين لحم البقر بالبطاطس، رقم 201)؛ Bladi (الخضر «قطعًا كبيرة»)"
+  },
+  "secrets.3.text": {
+   "fr": "Râpe l'oignon et les tomates. Pour la tomate, râpe la chair et jette la peau.",
+   "t": "ابشر البصل والطماطم. أما الطماطم، فابشر لبّها وتخلّص من القشرة."
+  },
+  "secrets.3.source": {
+   "fr": "Morocco World News 2019 (oignon et tomates râpés) ; Cooking With Alia n° 462 (chair râpée, peau jetée) ; My Moroccan Food (tomates râpées) ; blog Mamatkamal",
+   "t": "Morocco World News 2019 (البصل والطماطم مبشوران)؛ Cooking With Alia، رقم 462 (يُبشر اللب وتُرمى القشرة)؛ My Moroccan Food (الطماطم مبشورة)؛ مدونة Mamatkamal"
+  },
+  "secrets.4.text": {
+   "fr": "Trie toujours les lentilles avant de les laver : il reste parfois de petits cailloux.",
+   "t": "نقِّ العدس دائمًا قبل غسله: فقد تبقى فيه أحيانًا حصى صغيرة."
+  },
+  "secrets.4.source": {
+   "fr": "Bladi ; blog Mamatkamal",
+   "t": "Bladi؛ مدونة Mamatkamal"
+  },
+  "secrets.5.text": {
+   "fr": "Prends des lentilles vertes ou brunes. Les lentilles corail tournent en bouillie dans ce plat.",
+   "t": "استعمل العدس الأخضر أو البني. أما العدس الأحمر فيتهرّى ويصير هريسًا في هذا الطبق."
+  },
+  "secrets.5.source": {
+   "fr": "MarocMama (la recette « ne marche pas » avec des lentilles corail) ; lentilles vertes chez My Moroccan Food, brunes chez Cooking With Alia et Morocco World News",
+   "t": "MarocMama (الوصفة «لا تنجح» بالعدس الأحمر)؛ العدس الأخضر عند My Moroccan Food، والبني عند Cooking With Alia وMorocco World News"
+  },
+  "secrets.6.text": {
+   "fr": "Il doit toujours rester de la sauce. Si elle réduit trop avant la fin, ajoute un peu d'eau bouillante, pas de l'eau froide.",
+   "t": "يجب أن تبقى الصلصة دائمًا. إذا نقصت كثيرًا قبل النهاية، فأضف قليلًا من الماء المغلي، لا الماء البارد."
+  },
+  "secrets.6.source": {
+   "fr": "Cooking With Alia n° 094 ; Choumicha (« un peu d'eau bouillante si nécessaire ») ; blog Mamatkamal (eau chaude)",
+   "t": "Cooking With Alia، رقم 094؛ Choumicha («قليل من الماء المغلي عند الحاجة»)؛ مدونة Mamatkamal (ماء ساخن)"
+  },
+  "secrets.7.text": {
+   "fr": "À la fin, la sauce doit être onctueuse, pas aqueuse : au besoin, fais-la réduire quelques minutes à découvert.",
+   "t": "في النهاية، يجب أن تكون الصلصة كريمية القوام، لا مائية: عند الحاجة، اتركها تتكثّف بضع دقائق دون غطاء."
+  },
+  "secrets.7.source": {
+   "fr": "Blog Mamatkamal (sauce « pas trop liquide ») ; Choumicha (laisser réduire la sauce pour un jus onctueux)",
+   "t": "مدونة Mamatkamal (صلصة «غير سائلة جدًا»)؛ Choumicha (تُترك الصلصة لتتكثّف للحصول على مرق كريمي)"
+  },
+  "secrets.8.text": {
+   "fr": "Goûte en fin de cuisson et rectifie le sel, le poivre et le cumin.",
+   "t": "تذوّق في آخر الطهي وعدّل الملح والفلفل والكمون."
+  },
+  "secrets.8.source": {
+   "fr": "Cooking With Alia n° 094 et n° 462 ; My Moroccan Food (« sel, ou plus selon le goût »)",
+   "t": "Cooking With Alia، الوصفتان رقم 094 ورقم 462؛ My Moroccan Food («ملح، أو أكثر حسب الذوق»)"
+  },
+  "secrets.9.text": {
+   "fr": "Sers avec du citron à presser dans l'assiette.",
+   "t": "قدّمه مع الليمون ليُعصر في الصحن."
+  },
+  "secrets.9.source": {
+   "fr": "Bladi (jus de citron au service) ; blog Mamatkamal (citron en fin de cuisson) ; My Moroccan Food (quartiers de citron, version sans viande)",
+   "t": "Bladi (عصير الليمون عند التقديم)؛ مدونة Mamatkamal (الليمون في آخر الطهي)؛ My Moroccan Food (قطع الليمون، في النسخة دون لحم)"
+  },
+  "secrets.10.text": {
+   "fr": "Le trempage n'est pas obligatoire : les versions avec viande mettent les lentilles sèches. Trempées (1 heure à une nuit), elles cuisent plus vite.",
+   "t": "النقع ليس ضروريًا: ففي النسخ باللحم يُوضع العدس يابسًا. وإذا نُقع (من 1 ساعة إلى ليلة كاملة)، نضج أسرع."
+  },
+  "secrets.10.source": {
+   "fr": "Choumicha et My Moroccan Food (sans trempage) ; Morocco World News 2019 et 2020, Cooking With Alia n° 094 et n° 462 (avec trempage)",
+   "t": "Choumicha وMy Moroccan Food (دون نقع)؛ Morocco World News 2019 و2020، وCooking With Alia، الوصفتان رقم 094 ورقم 462 (مع النقع)"
+  },
+  "secrets.11.text": {
+   "fr": "Au Maroc, on mange l'adess avec du pain : on prend les lentilles avec un morceau de khobz, ou à la cuillère.",
+   "t": "في المغرب، يؤكل العدس بالخبز: يُتناول العدس بقطعة من خبز الدار، أو بالملعقة."
+  },
+  "secrets.11.source": {
+   "fr": "Morocco World News 2020 ; Morocco World News 2019 ; My Moroccan Food",
+   "t": "Morocco World News 2020؛ Morocco World News 2019؛ My Moroccan Food"
+  },
+  "secrets.12.text": {
+   "fr": "Coupe la viande crue sur une planche à part, et ne la réutilise pas pour les herbes ou les légumes.",
+   "t": "قطّع اللحم النيء على لوح خاص به، ولا تستعمله بعد ذلك للأعشاب أو الخضر."
+  },
+  "secrets.12.source": {
+   "fr": "Anses (une planche pour la viande crue, une autre pour les produits cuits et les légumes propres)",
+   "t": "Anses (لوح للحم النيء، وآخر للأطعمة المطهوة والخضر النظيفة)"
+  },
+  "mistakes.0": {
+   "fr": "Mettre les lentilles avec l'agneau cru : la viande doit d'abord cuire seule jusqu'à commencer à s'attendrir, car elle cuit bien plus longtemps que les lentilles (My Moroccan Food : environ 1 heure, puis 40 minutes pour les lentilles ; Choumicha et Bladi cuisent aussi la viande d'abord).",
+   "t": "وضع العدس مع لحم الخروف النيء: يجب أن يُطهى اللحم وحده أولًا حتى يبدأ في الطراوة، لأنه يحتاج إلى وقت أطول بكثير من العدس (My Moroccan Food: نحو 1 ساعة، ثم 40 دقيقة للعدس؛ وChoumicha وBladi يطهوان اللحم أولًا أيضًا)."
+  },
+  "mistakes.1": {
+   "fr": "Ajouter les pommes de terre en même temps que les lentilles, ou les couper trop petites : elles se défont (Cooking With Alia ; Choumicha et My Moroccan Food ajoutent ces légumes en fin de cuisson).",
+   "t": "إضافة البطاطس مع العدس في الوقت نفسه، أو تقطيعها قطعًا صغيرة جدًا: فتتفتّت (Cooking With Alia؛ وChoumicha وMy Moroccan Food يضيفان هذه الخضر في آخر الطهي)."
+  },
+  "mistakes.2": {
+   "fr": "Prendre des lentilles corail (MarocMama).",
+   "t": "استعمال العدس الأحمر (MarocMama)."
+  },
+  "mistakes.3": {
+   "fr": "Laisser la sauce sécher et attacher au fond (Cooking With Alia ; Choumicha).",
+   "t": "ترك الصلصة تجفّ وتلتصق بالقاع (Cooking With Alia؛ Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Rallonger avec de l'eau froide : Choumicha ajoute de l'eau bouillante, le blog Mamatkamal de l'eau chaude.",
+   "t": "تخفيف الصلصة بالماء البارد: تضيف Choumicha ماءً مغليًا، ومدونة Mamatkamal ماءً ساخنًا."
+  },
+  "mistakes.5": {
+   "fr": "Servir une sauce trop liquide (blog Mamatkamal ; Choumicha la fait réduire).",
+   "t": "تقديم صلصة سائلة جدًا (مدونة Mamatkamal؛ وChoumicha تتركها تتكثّف)."
+  },
+  "mistakes.6": {
+   "fr": "Couper l'agneau cru et les herbes sur la même planche (Anses).",
+   "t": "تقطيع لحم الخروف النيء والأعشاب على اللوح نفسه (Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante, ou les garder plus de 3 jours au réfrigérateur (Anses).",
+   "t": "ترك البقايا أكثر من 2 ساعة في درجة حرارة الغرفة، أو حفظها أكثر من 3 أيام في الثلاجة (Anses)."
+  },
+  "variants.0": {
+   "fr": "Au bœuf : même méthode avec des morceaux de bœuf halal (blog Mamatkamal : 200 g de bœuf pour 350 g de lentilles ; Bladi met 300 g de « viande rouge » pour 300 g de lentilles).",
+   "t": "بلحم البقر: الطريقة نفسها بقطع من لحم البقر الحلال (مدونة Mamatkamal: مقدار 200 غ من لحم البقر لكل 350 غ من العدس؛ ويضع Bladi مقدار 300 غ من «اللحم الأحمر» لكل 300 غ من العدس)."
+  },
+  "variants.1": {
+   "fr": "Sans viande (Morocco World News 2019 : seuls certains y ajoutent de petits morceaux de viande) : oignon, tomate, ail, paprika, cumin, herbes et huile d'olive ; 35 à 40 minutes à la casserole (Cooking With Alia n° 094 et n° 462 ; My Moroccan Food), ou 25 à 35 minutes à l'autocuiseur (Choumicha ; Morocco World News 2019 et 2020).",
+   "t": "دون لحم (Morocco World News 2019: بعضهم فقط يضيف إليه قطعًا صغيرة من اللحم): بصل وطماطم وثوم وفلفل أحمر حلو وكمون وأعشاب وزيت زيتون؛ من 35 إلى 40 دقيقة في القدر (Cooking With Alia، الوصفتان رقم 094 ورقم 462؛ My Moroccan Food)، أو من 25 إلى 35 دقيقة في طنجرة الضغط (Choumicha؛ Morocco World News 2019 و2020)."
+  },
+  "variants.2": {
+   "fr": "À la viande séchée (gueddid) et aux carottes : Choumicha dessale le gueddid 15 minutes dans l'eau, le cuit 30 à 40 minutes, puis ajoute lentilles et carottes. Avec du khlii (viande confite), elle l'ajoute seulement en fin de cuisson.",
+   "t": "باللحم المجفف (القديد) والجزر: تنقع Choumicha القديد في الماء 15 دقيقة لإزالة ملحه، وتطهوه من 30 إلى 40 دقيقة، ثم تضيف العدس والجزر. أما الخليع، فتضيفه في آخر الطهي فقط."
+  },
+  "variants.3": {
+   "fr": "Au gueddid, à la patate douce et à la courge : Choumicha ajoute ces légumes après 30 minutes de cuisson des lentilles, puis cuit encore 20 à 25 minutes.",
+   "t": "بالقديد والبطاطا الحلوة والقرع: تضيف Choumicha هذه الخضر بعد 30 دقيقة من طهي العدس، ثم تواصل الطهي من 20 إلى 25 دقيقة."
+  },
+  "variants.4": {
+   "fr": "Au smen : Bladi parfume la viande au smen et à la cannelle, puis arrose le plat d'un mélange chaud de persil, de jus de citron et de smen.",
+   "t": "بالسمن البلدي: يعطّر Bladi اللحم بالسمن البلدي والقرفة، ثم يسقي الطبق بخليط ساخن من البقدونس وعصير الليمون والسمن البلدي."
+  },
+  "variants.5": {
+   "fr": "À la courge et aux échalotes : My Moroccan Food remplace l'oignon par des échalotes et ajoute de la courge en fin de cuisson.",
+   "t": "بالقرع وبصل الشالوت: يستبدل My Moroccan Food البصلَ ببصل الشالوت، ويضيف القرع في آخر الطهي."
+  },
+  "variants.6": {
+   "fr": "Avec un peu de riz en fin de cuisson, pour une version plus proche de la soupe (Bladi).",
+   "t": "مع قليل من الأرز في آخر الطهي، لنسخة أقرب إلى الحساء (Bladi)."
+  },
+  "variants.7": {
+   "fr": "Avec du vinaigre blanc au service (Choumicha), ou des sardines grillées à côté (Morocco World News 2020).",
+   "t": "مع الخل الأبيض عند التقديم (Choumicha)، أو مع سردين مشوي بجانبه (Morocco World News 2020)."
+  },
+  "variants.8": {
+   "fr": "Plus épicé : certaines familles ajoutent du gingembre (Morocco World News 2019 et 2020) ou du curcuma (Cooking With Alia n° 094 ; Morocco World News 2020).",
+   "t": "أكثر توابل: بعض العائلات تضيف الزنجبيل (Morocco World News 2019 و2020) أو الكركم (Cooking With Alia، رقم 094؛ Morocco World News 2020)."
+  }
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "_slug": "riz-saute-oeufs",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Riz sauté aux œufs",
+   "t": "الأرز المقلي بالبيض"
+  },
+  "darija": {
+   "fr": "Rouz mqli b l-bid",
+   "t": "روز مقلي بالبيض"
+  },
+  "tagline": {
+   "fr": "Le riz de la veille, des œufs, des oignons verts et du sel : le riz sauté le plus simple de Chine, prêt en un quart d'heure.",
+   "t": "أرز اليوم السابق، وبيض، وبصل أخضر، وملح: أبسط أرز مقلي في الصين، جاهز في ربع ساعة."
+  },
+  "region": {
+   "fr": "Chine : le 蛋炒饭 (dàn chǎofàn), le riz sauté chinois le plus simple. Maggie Zhu en mangeait enfant à Pékin, au goûter ; Yangzhou en a tiré une version riche, le riz de Yangzhou (Omnivore's Cookbook ; 中国新闻网).",
+   "t": "الصين: 蛋炒饭 (dàn chǎofàn)، أبسط أرز مقلي صيني. كانت Maggie Zhu تأكله في طفولتها في بكين، في اللمجة؛ واستخرجت منه مدينة Yangzhou نسخة غنية، هي أرز Yangzhou (Omnivore's Cookbook؛ 中国新闻网)."
+  },
+  "occasion": {
+   "fr": "Soir de fatigue, quand il reste du riz cuit au frigo : petit plat complet ou accompagnement. En Chine, c'est un plat de maison, pas de restaurant (Omnivore's Cookbook) ; dans le vieux Yangzhou, les familles le faisaient le soir avec le riz resté du midi (中国新闻网, d'après le Ta Kung Pao).",
+   "t": "مساء متعب، حين يبقى أرز مطبوخ في الثلاجة: طبق صغير متكامل أو طبق جانبي. في الصين، هو طبق بيتي، لا طبق مطاعم (Omnivore's Cookbook)؛ وفي Yangzhou القديمة، كانت العائلات تحضّره مساءً بالأرز المتبقي من الغداء (中国新闻网، نقلًا عن Ta Kung Pao)."
+  },
+  "serving": {
+   "fr": "Sers aussitôt, bien chaud, en plat léger ou en accompagnement (Omnivore's Cookbook). Maggie Zhu l'accompagne d'une salade de concombre quand elle en fait un repas, ou d'un plat en sauce et d'une soupe pour un dîner chinois complet (Omnivore's Cookbook) ; les Woks of Life le servent avec beaucoup de sauce piquante ; chez Made With Lau, on tasse le riz dans un bol qu'on retourne sur l'assiette, pour un joli dôme.",
+   "t": "قدّمه فورًا، ساخنًا جيدًا، طبقًا خفيفًا أو طبقًا جانبيًا (Omnivore's Cookbook). ترافقه Maggie Zhu بسلطة خيار عندما تجعله وجبة، أو بطبق بالصلصة وحساء لعشاء صيني متكامل (Omnivore's Cookbook)؛ ويقدّمه فريق Woks of Life مع الكثير من الصلصة الحارة؛ وفي Made With Lau، يُكبس الأرز في وعاء ثم يُقلب على الصحن، ليتخذ شكل قبة جميلة."
+  },
+  "ing.0.group": {
+   "fr": "Riz sauté",
+   "t": "الأرز المقلي"
+  },
+  "ing.riz.name": {
+   "fr": "de riz blanc cuit la veille, bien froid",
+   "t": "أرز أبيض مطبوخ في اليوم السابق، بارد جيدًا"
+  },
+  "ing.riz.note": {
+   "fr": "grains longs ; refroidi en moins d'une heure après cuisson et gardé au frigo un jour au plus",
+   "t": "حبة طويلة؛ بُرّد في أقل من ساعة بعد طهيه، وحُفظ في الثلاجة يومًا واحدًا على الأكثر"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "بيضة"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "بيضات"
+  },
+  "ing.oignons-verts.name": {
+   "fr": "oignon vert (cébette)",
+   "t": "عود بصل أخضر"
+  },
+  "ing.oignons-verts.pl": {
+   "fr": "oignons verts (cébettes)",
+   "t": "أعواد بصل أخضر"
+  },
+  "ing.oignons-verts.note": {
+   "fr": "le blanc et le vert",
+   "t": "الجزء الأبيض والأخضر"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "زيت المائدة"
+  },
+  "ing.huile.note": {
+   "fr": "arachide ou tournesol",
+   "t": "فول سوداني أو عباد الشمس"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "ملح"
+  },
+  "ing.sel.note": {
+   "fr": "à ajuster en goûtant",
+   "t": "يُعدَّل بعد التذوق"
+  },
+  "equipment.0": {
+   "fr": "Wok ou grande poêle d'environ 30 cm",
+   "t": "مقلاة ووك أو مقلاة كبيرة قطرها نحو 30 سم"
+  },
+  "equipment.1": {
+   "fr": "Spatule large",
+   "t": "ملعقة مسطّحة عريضة"
+  },
+  "equipment.2": {
+   "fr": "Bol et fourchette (ou baguettes) pour battre les œufs",
+   "t": "وعاء وشوكة (أو عيدان أكل) لخفق البيض"
+  },
+  "equipment.3": {
+   "fr": "Planche et couteau",
+   "t": "لوح تقطيع وسكين"
+  },
+  "equipment.4": {
+   "fr": "Cuillère pour émietter le riz",
+   "t": "ملعقة لتفكيك الأرز"
+  },
+  "steps.0.title": {
+   "fr": "Émiette le riz froid",
+   "t": "فكّك الأرز البارد"
+  },
+  "steps.0.text": {
+   "fr": "Sors {{riz}} de riz du frigo juste avant de cuisiner. Émiette-le à la cuillère ou du bout des doigts pour défaire les mottes et séparer les grains.",
+   "t": "أخرج {{riz}} من الأرز من الثلاجة قبل الطهي مباشرة. فكّكه بالملعقة أو بأطراف أصابعك لتفتيت الكتل وفصل الحبات."
+  },
+  "steps.1.title": {
+   "fr": "Bats les œufs",
+   "t": "اخفق البيض"
+  },
+  "steps.1.text": {
+   "fr": "Casse {{oeufs:full}} dans un bol. Bats juste assez pour mélanger le jaune et le blanc.",
+   "t": "اكسر {{oeufs:full}} في وعاء. اخفقها قليلًا فقط، بالقدر الذي يختلط به الصفار بالبياض."
+  },
+  "steps.2.title": {
+   "fr": "Émince les oignons verts",
+   "t": "قطّع البصل الأخضر"
+  },
+  "steps.2.text": {
+   "fr": "Lave et coupe en fines rondelles {{oignons-verts:full}}, le blanc comme le vert.",
+   "t": "اغسل {{oignons-verts:full}}، ثم قطّع البصل الأخضر إلى حلقات رقيقة، الجزء الأبيض والأخضر معًا."
+  },
+  "steps.3.title": {
+   "fr": "Chauffe l'huile",
+   "t": "سخّن الزيت"
+  },
+  "steps.3.text": {
+   "fr": "Mets le wok ou la grande poêle à feu moyen-vif avec {{huile}} d'huile. Attends que l'huile soit très chaude et commence à fumer légèrement. Avec une poêle antiadhésive, ne va pas jusqu'à la fumée : l'huile est prête quand sa surface se met à onduler.",
+   "t": "ضع مقلاة الووك أو المقلاة الكبيرة على نار متوسطة إلى قوية مع {{huile}} من الزيت. انتظر حتى يصير الزيت ساخنًا جدًا ويبدأ في التدخين قليلًا. أما مع مقلاة غير لاصقة، فلا تصل إلى التدخين: يكون الزيت جاهزًا عندما يبدأ سطحه في التموّج."
+  },
+  "steps.4.title": {
+   "fr": "Saisis les œufs",
+   "t": "اطبخ البيض سريعًا"
+  },
+  "steps.4.text": {
+   "fr": "Verse le contenu du bol dans l'huile chaude. Laisse prendre le dessous une quinzaine de secondes, puis brouille grossièrement. Arrête quand c'est presque pris mais encore un peu baveux sur le dessus.",
+   "t": "اسكب محتوى الوعاء في الزيت الساخن. اترك الوجه السفلي يتماسك نحو خمس عشرة ثانية، ثم قلّبه بخشونة ليتفتت قطعًا كبيرة. توقّف عندما يكاد يتماسك لكنه لا يزال طريًّا قليلًا من الأعلى."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute le riz",
+   "t": "أضف الأرز"
+  },
+  "steps.5.text": {
+   "fr": "Verse aussitôt le riz par-dessus, tant que le dessus est encore baveux. Avec la spatule tenue bien droite, hache le tout en petits morceaux, pour qu'une partie des grains s'enrobe d'œuf.",
+   "t": "اسكب الأرز فوقه فورًا، ما دام وجهه العلوي لا يزال طريًّا. بالملعقة المسطّحة ممسوكة بشكل عمودي، قطّع الكل إلى قطع صغيرة، ليتغلّف جزء من الحبات بالبيض."
+  },
+  "steps.6.title": {
+   "fr": "Fais sauter le riz",
+   "t": "قلّب الأرز على النار"
+  },
+  "steps.6.text": {
+   "fr": "Remue en raclant le fond tout autour, le long des bords, pas seulement au centre. Continue de hacher et de remuer environ 2 minutes, jusqu'à ce que les grains soient bien séparés et chauds. S'il reste des mottes sèches, quelques gouttes d'eau dessus aident à les défaire.",
+   "t": "حرّك مع كشط القاع من كل الجهات، على طول الحواف، لا في الوسط فقط. واصل التقطيع والتحريك نحو 2 دقيقة، حتى تنفصل الحبات جيدًا وتسخن. إذا بقيت كتل جافة، فبضع قطرات من الماء عليها تساعد على تفكيكها."
+  },
+  "steps.7.title": {
+   "fr": "Sale et fais dorer",
+   "t": "ملّح الأرز وحمّره"
+  },
+  "steps.7.text": {
+   "fr": "Parsème {{sel}} de sel et ajoute les rondelles d'oignon vert. Étale le riz en couche contre la poêle et laisse-le 30 à 45 secondes sans y toucher, puis remue et recommence. Continue ainsi pendant 3 minutes environ, jusqu'à ce que le riz soit légèrement doré.",
+   "t": "رشّ {{sel}} من الملح وأضف حلقات البصل الأخضر. افرد الأرز في طبقة على المقلاة واتركه من 30 إلى 45 ثانية دون أن تلمسه، ثم حرّكه وكرّر. واصل هكذا نحو 3 دقائق، حتى يتحمّر الأرز قليلًا."
+  },
+  "steps.7.timer.label": {
+   "fr": "Riz qui dore",
+   "t": "تحمير الأرز"
+  },
+  "steps.7.timer.done": {
+   "fr": "Le riz doit être légèrement doré et fumant partout. Goûte et rectifie le sel.",
+   "t": "يجب أن يكون الأرز محمّرًا قليلًا ويتصاعد منه البخار في كل مكان. تذوّق وعدّل الملح."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie que c'est bien chaud",
+   "t": "تأكّد من أنه ساخن جيدًا"
+  },
+  "steps.8.text": {
+   "fr": "Le riz doit être fumant partout, au cœur aussi : de la vapeur doit s'en échapper quand tu remues. Goûte et ajoute un peu de sel si besoin.",
+   "t": "يجب أن يتصاعد البخار من الأرز في كل مكان، حتى من قلبه: يجب أن يخرج منه البخار عندما تحرّكه. تذوّق وأضف قليلًا من الملح إذا لزم."
+  },
+  "steps.9.title": {
+   "fr": "Laisse croustiller et sers",
+   "t": "اتركه يقرمش ثم قدّمه"
+  },
+  "steps.9.text": {
+   "fr": "Coupe le feu et laisse le riz une minute dans la poêle chaude pour qu'il croustille encore. Sers tout de suite, bien chaud.",
+   "t": "أطفئ النار واترك الأرز دقيقة في المقلاة الساخنة ليزداد قرمشة. قدّمه فورًا، ساخنًا جيدًا."
+  },
+  "secrets.0.text": {
+   "fr": "Prends du riz cuit la veille : ses grains restent fermes et se séparent bien au lieu de coller.",
+   "t": "استعمل أرزًا مطبوخًا في اليوم السابق: تبقى حباته متماسكة وتنفصل جيدًا بدل أن تلتصق."
+  },
+  "secrets.0.source": {
+   "fr": "下厨房 (Xiachufang), recette de 张恩勾 : « 身骨要挺，隔夜为佳 » ; 美食天下 : « 隔夜米饭是蛋炒饭的最佳选择 » ; Omnivore's Cookbook ; The Woks of Life",
+   "t": "下厨房 (Xiachufang)، وصفة 张恩勾: «身骨要挺，隔夜为佳»؛ 美食天下: «隔夜米饭是蛋炒饭的最佳选择»؛ Omnivore's Cookbook؛ The Woks of Life"
+  },
+  "secrets.1.text": {
+   "fr": "Le riz ne doit être ni trop humide ni trop sec : trop humide, il devient mou ; trop sec, il reste dur sous la dent.",
+   "t": "يجب ألا يكون الأرز رطبًا جدًا ولا جافًا جدًا: إذا كان رطبًا جدًا صار لينًا؛ وإذا كان جافًا جدًا بقي قاسيًا تحت الأسنان."
+  },
+  "secrets.1.source": {
+   "fr": "下厨房 (Xiachufang), recette de 张恩勾, « 小贴士 »",
+   "t": "下厨房 (Xiachufang)، وصفة 张恩勾، «小贴士»"
+  },
+  "secrets.2.text": {
+   "fr": "Pour un riz bien sec en surface, Maggie Zhu le met au frigo une à deux heures sans couvercle, puis le ferme.",
+   "t": "للحصول على أرز جاف جيدًا من السطح، تضعه Maggie Zhu في الثلاجة ساعة إلى ساعتين دون غطاء، ثم تغلقه."
+  },
+  "secrets.2.source": {
+   "fr": "Omnivore's Cookbook (Maggie Zhu)",
+   "t": "Omnivore's Cookbook (Maggie Zhu)"
+  },
+  "secrets.3.text": {
+   "fr": "Défais les mottes de riz froid avant la cuisson, à la cuillère, à la spatule ou avec les doigts.",
+   "t": "فكّك كتل الأرز البارد قبل الطهي، بالملعقة أو بالملعقة المسطّحة أو بالأصابع."
+  },
+  "secrets.3.source": {
+   "fr": "美食天下 (compte officiel et 双鱼座的美食) ; Omnivore's Cookbook ; The Woks of Life",
+   "t": "美食天下 (الحساب الرسمي و双鱼座的美食)؛ Omnivore's Cookbook؛ The Woks of Life"
+  },
+  "secrets.4.text": {
+   "fr": "Tiens la spatule bien droite et « hache » le riz : les grains se séparent mieux et collent moins.",
+   "t": "أمسك الملعقة المسطّحة بشكل عمودي و«قطّع» الأرز: تنفصل الحبات أكثر وتلتصق أقل."
+  },
+  "secrets.4.source": {
+   "fr": "美食天下, compte officiel : « 锅铲直立的炒制方法，可让饭粒更松散不易粘在一起 » ; Omnivore's Cookbook",
+   "t": "美食天下، الحساب الرسمي: «锅铲直立的炒制方法，可让饭粒更松散不易粘在一起»؛ Omnivore's Cookbook"
+  },
+  "secrets.5.text": {
+   "fr": "Verse le riz sur des œufs encore baveux : une partie des grains s'enrobe d'œuf, et le dessous un peu grillé des œufs se brise en petits morceaux.",
+   "t": "اسكب الأرز على بيض لا يزال طريًّا: يتغلّف جزء من الحبات بالبيض، ويتكسّر الوجه السفلي المحمّص قليلًا من البيض إلى قطع صغيرة."
+  },
+  "secrets.5.source": {
+   "fr": "Omnivore's Cookbook ; Made With Lau (œufs pris mais encore moelleux avant d'ajouter le riz)",
+   "t": "Omnivore's Cookbook؛ Made With Lau (بيض متماسك لكنه لا يزال طريًّا قبل إضافة الأرز)"
+  },
+  "secrets.6.text": {
+   "fr": "Le 蛋炒饭 de maison n'a que du sel : le riz et l'œuf gardent le premier rôle.",
+   "t": "لا يحتوي 蛋炒饭 البيتي إلا على الملح: يبقى الدور الأول للأرز والبيض."
+  },
+  "secrets.6.source": {
+   "fr": "Omnivore's Cookbook (« seasoned with nothing but salt ») ; 下厨房 ; 美食天下 (deux recettes) ; 香港01",
+   "t": "Omnivore's Cookbook («لا يُتبّل إلا بالملح»)؛ 下厨房؛ 美食天下 (وصفتان)؛ 香港01"
+  },
+  "secrets.7.text": {
+   "fr": "N'économise pas l'huile : sans assez d'huile, le riz cuit à la vapeur au lieu de griller.",
+   "t": "لا تبخل بالزيت: إذا لم يكن الزيت كافيًا، يُطهى الأرز بالبخار بدل أن يتحمّص."
+  },
+  "secrets.7.source": {
+   "fr": "Omnivore's Cookbook (2 c. à s. au minimum pour 3 tasses de riz)",
+   "t": "Omnivore's Cookbook (2 ملعقة كبيرة على الأقل لـ3 أكواب من الأرز)"
+  },
+  "secrets.8.text": {
+   "fr": "Mets beaucoup d'oignon vert, le blanc et le vert : c'est presque le seul parfum du plat.",
+   "t": "ضع الكثير من البصل الأخضر، الجزء الأبيض والأخضر: يكاد يكون النكهة الوحيدة في الطبق."
+  },
+  "secrets.8.source": {
+   "fr": "Omnivore's Cookbook (4 oignons verts pour 3 tasses de riz) ; 美食天下, compte officiel (2 tiges pour 2 œufs)",
+   "t": "Omnivore's Cookbook (4 أعواد بصل أخضر لـ3 أكواب من الأرز)؛ 美食天下، الحساب الرسمي (2 من الأعواد لكل 2 من البيض)"
+  },
+  "secrets.9.text": {
+   "fr": "Plus parfumé : fais d'abord revenir un peu d'oignon vert dans l'huile chaude, puis ajoute le riz.",
+   "t": "لنكهة أقوى: شوّح أولًا قليلًا من البصل الأخضر في الزيت الساخن، ثم أضف الأرز."
+  },
+  "secrets.9.source": {
+   "fr": "下厨房, 张恩勾 : « 用底油，把切好的少许葱花呛锅 » ; 美食天下, 双鱼座的美食 : « 热油下葱花，爆香，下米饭 »",
+   "t": "下厨房، 张恩勾: «用底油，把切好的少许葱花呛锅»؛ 美食天下، 双鱼座的美食: «热油下葱花，爆香，下米饭»"
+  },
+  "secrets.10.text": {
+   "fr": "Prends un wok ou une grande poêle : le riz s'étale en couche fine. Dans une petite poêle, il s'entasse et étuve.",
+   "t": "استعمل مقلاة ووك أو مقلاة كبيرة: ينفرد الأرز في طبقة رقيقة. أما في مقلاة صغيرة، فيتكدّس ويُطهى بالبخار."
+  },
+  "secrets.10.source": {
+   "fr": "Omnivore's Cookbook",
+   "t": "Omnivore's Cookbook"
+  },
+  "secrets.11.text": {
+   "fr": "Racle le fond tout autour, le long des bords, et pas seulement au centre : sinon tout colle ensemble.",
+   "t": "اكشط القاع من كل الجهات، على طول الحواف، لا في الوسط فقط: وإلا التصق كل شيء ببعضه."
+  },
+  "secrets.11.source": {
+   "fr": "Made With Lau",
+   "t": "Made With Lau"
+  },
+  "secrets.12.text": {
+   "fr": "Son ancêtre légendaire est le « riz aux brisures d'or » (碎金饭) de la dynastie Sui : l'œuf brouillé en petits éclats dorés, « 碎金 ».",
+   "t": "سلفه الأسطوري هو «أرز فتات الذهب» (碎金饭) من عهد سلالة سوي: البيض المخفوق المطبوخ في قطع صغيرة ذهبية، «碎金»."
+  },
+  "secrets.12.source": {
+   "fr": "下厨房 (description de la recette de 张恩勾) ; 中国新闻网, « 扬州炒饭 », 2013",
+   "t": "下厨房 (وصف وصفة 张恩勾)؛ 中国新闻网، «扬州炒饭»، 2013"
+  },
+  "mistakes.0": {
+   "fr": "Prendre du riz tout juste cuit, chaud et humide : il colle et devient mou (下厨房 ; Made With Lau note que le riz frais colle davantage).",
+   "t": "استعمال أرز مطبوخ للتو، ساخن ورطب: يلتصق ويصير لينًا (下厨房؛ ويلاحظ Made With Lau أن الأرز الطازج يلتصق أكثر)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser le riz cuit traîner à température ambiante, ou le garder plus d'un jour au frigo avant de le réchauffer : il peut donner une intoxication (Bacillus cereus). Refroidis-le vite, idéalement en moins d'une heure (Food Standards Agency, Royaume-Uni).",
+   "t": "ترك الأرز المطبوخ في حرارة الغرفة، أو حفظه أكثر من يوم في الثلاجة قبل إعادة تسخينه: قد يسبّب تسممًا (Bacillus cereus). برّده بسرعة، ويُستحسن في أقل من ساعة (Food Standards Agency، المملكة المتحدة)."
+  },
+  "mistakes.2": {
+   "fr": "Réchauffer une deuxième fois les restes de riz sauté : le riz ne se réchauffe qu'une seule fois. Fais juste la quantité à manger (Food Standards Agency).",
+   "t": "إعادة تسخين بقايا الأرز المقلي مرة ثانية: لا يُعاد تسخين الأرز إلا مرة واحدة. حضّر فقط الكمية التي ستؤكل (Food Standards Agency)."
+  },
+  "mistakes.3": {
+   "fr": "Trop cuire les œufs avant d'ajouter le riz : ils doivent rester un peu baveux (Omnivore's Cookbook ; Made With Lau).",
+   "t": "الإفراط في طهي البيض قبل إضافة الأرز: يجب أن يبقى طريًّا قليلًا (Omnivore's Cookbook؛ Made With Lau)."
+  },
+  "mistakes.4": {
+   "fr": "Une poêle trop petite ou trop peu d'huile : le riz étuve au lieu de griller (Omnivore's Cookbook).",
+   "t": "مقلاة صغيرة جدًا أو زيت قليل جدًا: يُطهى الأرز بالبخار بدل أن يتحمّص (Omnivore's Cookbook)."
+  },
+  "mistakes.5": {
+   "fr": "Entasser trop de riz d'un coup : Omnivore's Cookbook compte un wok ou une poêle de 30 cm pour 3 tasses de riz (environ 475 g). Si tu en fais nettement plus, par exemple pour 8 personnes, fais-le en plusieurs fois, comme le conseille aussi Made With Lau.",
+   "t": "تكديس الكثير من الأرز دفعة واحدة: يحسب Omnivore's Cookbook مقلاة ووك أو مقلاة قطرها 30 سم لـ3 أكواب من الأرز (نحو 475 غ). إذا حضّرت كمية أكبر بكثير، لـ8 أشخاص مثلًا، فحضّرها على عدة دفعات، كما ينصح Made With Lau أيضًا."
+  },
+  "mistakes.6": {
+   "fr": "Ajouter des légumes pleins d'eau comme le chou : le riz sauté doit rester sec, sans jus au fond (Made With Lau).",
+   "t": "إضافة خضر كثيرة الماء مثل الملفوف: يجب أن يبقى الأرز المقلي جافًا، دون عصارة في القاع (Made With Lau)."
+  },
+  "mistakes.7": {
+   "fr": "Mettre du vin de Shaoxing, du saindoux ou de la sauce soja ordinaire pour « faire chinois » : la version classique n'a que du sel, et la sauce soja brassée contient de l'alcool de fermentation (Kikkoman : plus de 2 % en volume).",
+   "t": "إضافة نبيذ Shaoxing أو شحم الخنزير أو صلصة الصويا العادية «لإضفاء الطابع الصيني»: النسخة الكلاسيكية لا تحتوي إلا على الملح، وصلصة الصويا المخمّرة تحتوي على كحول ناتج عن التخمير (Kikkoman: أكثر من 2 % من الحجم)."
+  },
+  "variants.0": {
+   "fr": "Riz « or et argent » (金包银), méthode d'un chef publiée par le média hongkongais 香港01 : mélange les jaunes d'œufs au riz encore chaud pour enrober chaque grain, avec environ 3 g de sel ; fais cuire les blancs à moitié dans une cuillerée à soupe d'huile à feu moyen, puis ajoute le riz et fais sauter. Le chef déconseille d'enrober le riz d'œuf entier, car le blanc mouille le riz (香港01, chef 尤瑞昌, 2025).",
+   "t": "أرز «الذهب والفضة» (金包银)، طريقة طاهٍ نشرتها وسيلة إعلام من هونغ كونغ، 香港01: اخلط صفار البيض مع الأرز وهو لا يزال ساخنًا لتغليف كل حبة، مع نحو 3 غ من الملح؛ واطبخ البياض حتى نصف النضج في ملعقة كبيرة من الزيت على نار متوسطة، ثم أضف الأرز وقلّبه على النار. ولا ينصح الطاهي بتغليف الأرز بالبيض الكامل، لأن البياض يرطّب الأرز (香港01، الشيف 尤瑞昌، 2025)."
+  },
+  "variants.1": {
+   "fr": "Version restaurant cantonaise : carotte en petits dés, maïs et petits pois, puis sauce soja claire et foncée, sucre et bouillon de poule en poudre (Made With Lau). En halal : sauce soja certifiée halal et bouillon certifié halal, ou bien sel seul, comme Made With Lau le permet (« skip, use more salt »).",
+   "t": "نسخة المطاعم الكانتونية: جزر مقطّع مكعبات صغيرة، وذرة وبازلاء، ثم صلصة صويا فاتحة وداكنة، وسكر، ومرق دجاج مسحوق (Made With Lau). وللنسخة الحلال: صلصة صويا حاصلة على شهادة حلال ومرق حاصل على شهادة حلال، أو الملح وحده، كما يسمح بذلك Made With Lau («تجاوزها، واستعمل مزيدًا من الملح»)."
+  },
+  "variants.2": {
+   "fr": "Version à la sauce soja d'Omnivore's Cookbook : à la place du sel, 2 c. à s. de sauce soja, 1 c. à c. de sauce soja foncée et ½ c. à c. de sucre pour 3 tasses de riz. Même remarque : sauce soja certifiée halal seulement.",
+   "t": "نسخة Omnivore's Cookbook بصلصة الصويا: بدل الملح، 2 ملعقة كبيرة من صلصة الصويا، و1 ملعقة صغيرة من صلصة الصويا الداكنة، و½ ملعقة صغيرة من السكر لـ3 أكواب من الأرز. الملاحظة نفسها: صلصة صويا حاصلة على شهادة حلال فقط."
+  },
+  "variants.3": {
+   "fr": "Version des Woks of Life : une partie des œufs battue avec un peu d'eau, de curcuma et de paprika pour un riz bien jaune, plus oignon, poivron rouge et petits pois.",
+   "t": "نسخة Woks of Life: جزء من البيض يُخفق مع قليل من الماء والكركم والبابريكا لأرز أصفر جيدًا، مع البصل والفليفلة الحمراء والبازلاء."
+  },
+  "variants.4": {
+   "fr": "Version de HowToCook (programme collaboratif chinois) : jambon, carotte, concombre et un peu de sauce soja claire (生抽). Jambon de volaille et sauce soja certifiés halal seulement.",
+   "t": "نسخة HowToCook (مشروع صيني تشاركي): جامبون، وجزر، وخيار، وقليل من صلصة الصويا الفاتحة (生抽). جامبون الدواجن وصلصة الصويا الحاصلان على شهادة حلال فقط."
+  },
+  "variants.5": {
+   "fr": "Un filet d'huile de sésame grillé, hors du feu, si tu as cuit à l'huile neutre (Omnivore's Cookbook ; 美食天下, 双鱼座的美食, qui finit au 香油).",
+   "t": "قليل من زيت السمسم المحمّص، بعيدًا عن النار، إذا كنت قد طبخت بزيت المائدة (Omnivore's Cookbook؛ 美食天下، 双鱼座的美食، حيث يُختم بـ香油)."
+  },
+  "variants.6": {
+   "fr": "Une pincée de bouillon de poule en poudre pour plus de goût (Omnivore's Cookbook) : seulement s'il est certifié halal.",
+   "t": "رشة من مرق الدجاج المسحوق لمزيد من النكهة (Omnivore's Cookbook): فقط إذا كان حاصلًا على شهادة حلال."
+  },
+  "variants.7": {
+   "fr": "Sans riz de la veille : étale le riz frais sur un plateau, laisse-le refroidir puis mets-le au moins 30 minutes au frigo (Omnivore's Cookbook), ou laisse-le à découvert jusqu'à ce qu'il ne fume plus (The Woks of Life), ou aère-le 1 à 2 minutes aux baguettes pour laisser partir la vapeur (Made With Lau). Le plat dépasse alors les 30 minutes.",
+   "t": "دون أرز اليوم السابق: افرد الأرز الطازج على صينية، واتركه يبرد ثم ضعه في الثلاجة 30 دقيقة على الأقل (Omnivore's Cookbook)، أو اتركه مكشوفًا حتى يتوقف تصاعد البخار منه (The Woks of Life)، أو قلّبه بعيدان الأكل من 1 إلى 2 دقيقة ليخرج البخار (Made With Lau). وعندها يتجاوز وقت الطبق 30 دقيقة."
+  },
+  "variants.8": {
+   "fr": "Riz de Yangzhou (扬州炒饭), la version riche : la norme de l'association culinaire de Yangzhou y ajoute concombre de mer, poulet, coquilles Saint-Jacques séchées, crevettes, champignons, pousses de bambou et petits pois, mais aussi du jambon et du vin de Shaoxing (绍酒) : pas halal tel quel (中国新闻网, d'après le Ta Kung Pao, 2013).",
+   "t": "أرز Yangzhou (扬州炒饭)، النسخة الغنية: يضيف إليه معيار جمعية الطهي في Yangzhou خيار البحر، والدجاج، والأسقلوب المجفف، والروبيان، والفطر، وبراعم الخيزران، والبازلاء، وأيضًا الجامبون ونبيذ Shaoxing (绍酒): فهو ليس حلالًا كما هو (中国新闻网، نقلًا عن Ta Kung Pao، 2013)."
+  }
+ }
+}

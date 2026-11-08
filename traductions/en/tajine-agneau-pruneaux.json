@@ -1,0 +1,550 @@
+{
+ "_slug": "tajine-agneau-pruneaux",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Tajine d'agneau aux pruneaux et aux amandes",
+   "t": "Lamb tagine with prunes and almonds"
+  },
+  "darija": {
+   "fr": "Lham bel barkouk",
+   "t": "Lham bel barkouk"
+  },
+  "tagline": {
+   "fr": "Un agneau fondant au safran et au gingembre dans sa sauce aux oignons, couronné de pruneaux caramélisés à la cannelle, d'amandes frites et de sésame grillé.",
+   "t": "Melt-in-the-mouth lamb with saffron and ginger in its onion sauce, crowned with cinnamon-caramelised prunes, fried almonds and toasted sesame."
+  },
+  "region": {
+   "fr": "Maroc, plat phare de la cuisine marocaine",
+   "t": "Morocco, a flagship dish of Moroccan cuisine"
+  },
+  "occasion": {
+   "fr": "Fêtes et mariages, Aïd al-Adha, réceptions, ftour du Ramadan",
+   "t": "Celebrations and weddings, Eid al-Adha, receptions, iftar during Ramadan"
+  },
+  "img_alt": {
+   "fr": "Tajine aux pruneaux et aux amandes, dans son plat en terre",
+   "t": "Tagine with prunes and almonds, in its earthenware dish"
+  },
+  "serving": {
+   "fr": "Bien chaud, dans un tajine de service réchauffé ou un plat creux posé au centre de la table pour être partagé : la viande nappée de sa sauce mêlée d'un peu de sirop, les pruneaux caramélisés dessus, puis les amandes frites et le sésame grillé. Avec du pain pour saucer ; le couscous est un plat à part.",
+   "t": "Piping hot, in a warmed serving tagine or a deep dish placed in the centre of the table to be shared: the meat coated in its sauce mixed with a little syrup, the caramelised prunes on top, then the fried almonds and toasted sesame. With bread to mop up the sauce; couscous is a separate dish."
+  },
+  "ing.0.group": {
+   "fr": "Viande et sauce",
+   "t": "Meat and sauce"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau halal (épaule ou collier, avec os)",
+   "t": "halal lamb (shoulder or neck, on the bone)"
+  },
+  "ing.viande.note": {
+   "fr": "en gros morceaux ; Choumicha prend de l'épaule ou du gigot, My Moroccan Food et Grantourismo de l'épaule, du collier ou des souris",
+   "t": "in large pieces; Choumicha uses shoulder or leg, My Moroccan Food and Grantourismo shoulder, neck or shanks"
+  },
+  "ing.oignons.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignons.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignons.note": {
+   "fr": "à hacher finement, ou à râper",
+   "t": "finely chopped or grated"
+  },
+  "ing.ail.name": {
+   "fr": "gousse d'ail",
+   "t": "garlic clove"
+  },
+  "ing.ail.pl": {
+   "fr": "gousses d'ail",
+   "t": "garlic cloves"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou d'huile neutre",
+   "t": "olive oil or neutral oil (sunflower)"
+  },
+  "ing.smen.name": {
+   "fr": "de smen",
+   "t": "smen (aged salted butter)"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif ; c'est la touche de Choumicha",
+   "t": "optional; this is Choumicha's touch"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "ground ginger"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.sel.name": {
+   "fr": "de sel fin",
+   "t": "fine salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "adjust at the end of cooking"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "saffron threads"
+  },
+  "ing.safran.note": {
+   "fr": "Choumicha en compte 8 pour 1 kg de viande",
+   "t": "Choumicha uses 8 threads per 1 kg of meat"
+  },
+  "ing.eau-safran.name": {
+   "fr": "d'eau tiède, pour le safran",
+   "t": "lukewarm water, for the saffron"
+  },
+  "ing.cannelle-baton.name": {
+   "fr": "bâton de cannelle",
+   "t": "cinnamon stick"
+  },
+  "ing.cannelle-baton.pl": {
+   "fr": "bâtons de cannelle",
+   "t": "cinnamon sticks"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "fresh coriander"
+  },
+  "ing.persil.name": {
+   "fr": "de persil frais",
+   "t": "fresh parsley"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau chaude",
+   "t": "hot water"
+  },
+  "ing.eau.note": {
+   "fr": "jamais froide ; rajoutes-en un peu en cours de cuisson si la viande n'est plus à moitié couverte",
+   "t": "never cold; add a little more during cooking if the meat is no longer half covered"
+  },
+  "ing.1.group": {
+   "fr": "Pruneaux caramélisés",
+   "t": "Caramelised prunes"
+  },
+  "ing.pruneaux.name": {
+   "fr": "de pruneaux secs",
+   "t": "dried prunes"
+  },
+  "ing.pruneaux.note": {
+   "fr": "Choumicha les dénoyaute",
+   "t": "Choumicha removes the stones"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "butter"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre semoule (ou de miel)",
+   "t": "caster sugar (or honey)"
+  },
+  "ing.sucre.note": {
+   "fr": "un peu moins si tu le veux moins sucré",
+   "t": "a little less if you want it less sweet"
+  },
+  "ing.cannelle-moulue.name": {
+   "fr": "de cannelle moulue",
+   "t": "ground cinnamon"
+  },
+  "ing.2.group": {
+   "fr": "Décoration",
+   "t": "Garnish"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes mondées (sans peau)",
+   "t": "blanched almonds (skins removed)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "huile pour frire les amandes",
+   "t": "oil for frying the almonds"
+  },
+  "ing.huile-friture.pl": {
+   "fr": "huile pour frire les amandes",
+   "t": "oil for frying the almonds"
+  },
+  "ing.sesame.name": {
+   "fr": "de graines de sésame",
+   "t": "sesame seeds"
+  },
+  "equipment.0": {
+   "fr": "Grande cocotte à fond épais avec couvercle, ou tajine en terre vernissé sur diffuseur de chaleur",
+   "t": "Large heavy-based pot with a lid, or a glazed earthenware tagine on a heat diffuser"
+  },
+  "equipment.1": {
+   "fr": "Tajine de service ou plat creux",
+   "t": "Serving tagine or deep dish"
+  },
+  "equipment.2": {
+   "fr": "Petite casserole avec couvercle (pruneaux)",
+   "t": "Small saucepan with a lid (prunes)"
+  },
+  "equipment.3": {
+   "fr": "Petite poêle (amandes, puis sésame)",
+   "t": "Small frying pan (almonds, then sesame)"
+  },
+  "equipment.4": {
+   "fr": "Petit bol et saladier",
+   "t": "Small bowl and large bowl"
+  },
+  "equipment.5": {
+   "fr": "Ficelle de cuisine",
+   "t": "Kitchen string"
+  },
+  "equipment.6": {
+   "fr": "Écumoire et papier absorbant",
+   "t": "Slotted spoon and kitchen paper"
+  },
+  "steps.0.title": {
+   "fr": "Fais infuser le safran",
+   "t": "Infuse the saffron"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{safran}} de pistils de safran dans un petit bol avec {{eau-safran}} d'eau tiède. Laisse infuser 10 min pendant que tu prépares le reste.",
+   "t": "Put {{safran}} of saffron threads in a small bowl with {{eau-safran}} of lukewarm water. Leave to infuse for 10 min while you prepare the rest."
+  },
+  "steps.0.timer.label": {
+   "fr": "Infusion du safran",
+   "t": "Infusing the saffron"
+  },
+  "steps.0.timer.done": {
+   "fr": "Le safran a infusé : garde le bol à portée de main.",
+   "t": "The saffron has infused: keep the bowl within reach."
+  },
+  "steps.1.title": {
+   "fr": "Prépare oignons, ail et bouquet",
+   "t": "Prepare the onions, garlic and herb bundle"
+  },
+  "steps.1.text": {
+   "fr": "Hache finement ou râpe {{oignons:full}}, et écrase {{ail:full}}. Ficelle ensemble {{coriandre}} de coriandre et {{persil}} de persil en un petit bouquet. Si le boucher ne l'a pas fait, coupe la viande en gros morceaux en gardant les os.",
+   "t": "Finely chop or grate {{oignons:full}}, and crush {{ail:full}}. Tie {{coriandre}} of coriander and {{persil}} of parsley together with string into a small bundle. If the butcher hasn't done it, cut the meat into large pieces, keeping the bones."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "Sliced onion and crushed garlic on a board"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "Slicing the onion"
+  },
+  "steps.2.title": {
+   "fr": "Fais revenir la viande dans les épices",
+   "t": "Sauté the meat in the spices"
+  },
+  "steps.2.text": {
+   "fr": "Dans une grande cocotte à fond épais, à feu moyen-doux, mets {{huile}} d'huile, {{smen}} de smen, les oignons, l'ail, {{gingembre}} de gingembre, {{poivre}} de poivre, {{sel}} de sel, {{cannelle-baton:full}} et l'eau safranée. Mélange, ajoute {{viande}} d'agneau et fais revenir le tout 5 à 10 min en remuant souvent : la viande doit se colorer de tous côtés, sans brûler.",
+   "t": "In a large heavy-based pot over medium-low heat, put {{huile}} of oil, {{smen}} of smen, the onions, the garlic, {{gingembre}} of ginger, {{poivre}} of pepper, {{sel}} of salt, {{cannelle-baton:full}} and the saffron water. Stir, add {{viande}} of lamb and sauté everything for 5 to 10 min, stirring often: the meat should take on colour on all sides without burning."
+  },
+  "steps.2.timer.label": {
+   "fr": "Viande revenue",
+   "t": "Sautéing the meat"
+  },
+  "steps.2.timer.done": {
+   "fr": "La viande est colorée de tous côtés : verse l'eau chaude.",
+   "t": "The meat has coloured on all sides: pour in the hot water."
+  },
+  "steps.3.title": {
+   "fr": "Mouille et laisse mijoter 1 h",
+   "t": "Add the water and simmer for 1 h"
+  },
+  "steps.3.text": {
+   "fr": "Verse {{eau}} d'eau chaude, jamais froide : la viande doit être à peu près à moitié couverte, complète un peu si besoin. Pose le bouquet d'herbes dessus et porte à ébullition. Couvre, baisse à feu doux et laisse mijoter 1 h en remuant de temps en temps.",
+   "t": "Pour in {{eau}} of hot water, never cold: the meat should be roughly half covered; top up a little if needed. Lay the herb bundle on top and bring to the boil. Cover, turn the heat down to low and leave to simmer for 1 h, stirring from time to time."
+  },
+  "steps.3.timer.label": {
+   "fr": "Mijotage : 1re heure",
+   "t": "Simmering: 1st hour"
+  },
+  "steps.3.timer.done": {
+   "fr": "1 h de mijotage : prélève de la sauce pour les pruneaux.",
+   "t": "1 h of simmering: take out some sauce for the prunes."
+  },
+  "steps.4.title": {
+   "fr": "Pendant ce temps, fais gonfler les pruneaux",
+   "t": "Meanwhile, plump up the prunes"
+  },
+  "steps.4.text": {
+   "fr": "Rince {{pruneaux}} de pruneaux, couvre-les d'eau bouillante et laisse-les gonfler 15 min. Égoutte-les.",
+   "t": "Rinse {{pruneaux}} of prunes, cover them with boiling water and leave them to plump up for 15 min. Drain them."
+  },
+  "steps.4.timer.label": {
+   "fr": "Trempage des pruneaux",
+   "t": "Soaking the prunes"
+  },
+  "steps.4.timer.done": {
+   "fr": "Égoutte les pruneaux et garde-les de côté.",
+   "t": "Drain the prunes and set them aside."
+  },
+  "steps.5.title": {
+   "fr": "Fais frire les amandes",
+   "t": "Fry the almonds"
+  },
+  "steps.5.text": {
+   "fr": "Chauffe un fond d'huile dans une petite poêle, à feu moyen. Fais-y frire {{amandes}} d'amandes mondées en remuant sans arrêt, jusqu'à ce qu'elles soient bien dorées. Égoutte-les sur du papier absorbant.",
+   "t": "Heat a thin layer of oil in a small frying pan over medium heat. Fry {{amandes}} of blanched almonds in it, stirring constantly, until they are golden brown. Drain them on kitchen paper."
+  },
+  "steps.6.title": {
+   "fr": "Fais griller le sésame",
+   "t": "Toast the sesame seeds"
+  },
+  "steps.6.text": {
+   "fr": "Essuie la poêle et fais-y griller à sec {{sesame}} de graines de sésame, à feu moyen-doux, en remuant, juste jusqu'à ce qu'elles blondissent. Verse-les aussitôt dans un bol.",
+   "t": "Wipe out the frying pan and dry-toast {{sesame}} of sesame seeds in it over medium-low heat, stirring, just until they turn pale golden. Tip them straight into a bowl."
+  },
+  "steps.7.title": {
+   "fr": "Prélève de la sauce pour les pruneaux",
+   "t": "Take out some sauce for the prunes"
+  },
+  "steps.7.text": {
+   "fr": "Au bout d'une heure de mijotage, verse environ un quart de la sauce de la cocotte dans une petite casserole. S'il ne reste presque plus de sauce, rajoute un peu d'eau chaude dans la cocotte. Recouvre et laisse la viande mijoter encore 30 min à feu doux.",
+   "t": "After an hour of simmering, pour about a quarter of the sauce from the pot into a small saucepan. If there is hardly any sauce left, add a little hot water to the pot. Cover again and leave the meat to simmer for another 30 min over low heat."
+  },
+  "steps.7.timer.label": {
+   "fr": "Fin du mijotage",
+   "t": "Final simmer"
+  },
+  "steps.7.timer.done": {
+   "fr": "Vérifie : la viande doit se détacher de l'os ; sinon, prolonge de 15 min.",
+   "t": "Check: the meat should come away from the bone; if not, cook for another 15 min."
+  },
+  "steps.8.title": {
+   "fr": "Cuis les pruneaux dans la sauce",
+   "t": "Cook the prunes in the sauce"
+  },
+  "steps.8.text": {
+   "fr": "Ajoute {{beurre}} de beurre dans la petite casserole et fais-le fondre à feu moyen. Ajoute les pruneaux égouttés, couvre et laisse cuire 10 min, jusqu'à ce qu'ils soient tendres.",
+   "t": "Add {{beurre}} of butter to the small saucepan and let it melt over medium heat. Add the drained prunes, cover and cook for 10 min, until they are tender."
+  },
+  "steps.8.timer.label": {
+   "fr": "Pruneaux dans la sauce",
+   "t": "Prunes in the sauce"
+  },
+  "steps.8.timer.done": {
+   "fr": "Les pruneaux sont tendres : ajoute le sucre et la cannelle.",
+   "t": "The prunes are tender: add the sugar and cinnamon."
+  },
+  "steps.9.title": {
+   "fr": "Caramélise les pruneaux",
+   "t": "Caramelise the prunes"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute {{sucre}} de sucre (ou de miel) et {{cannelle-moulue}} de cannelle moulue, puis mélange délicatement pour ne pas écraser les pruneaux. Couvre et laisse confire 10 min à feu doux : ils doivent être brillants, dans un sirop épais. Si le sirop reste liquide, découvre et laisse réduire quelques minutes. Garde au chaud.",
+   "t": "Add {{sucre}} of sugar (or honey) and {{cannelle-moulue}} of ground cinnamon, then stir gently so as not to crush the prunes. Cover and leave to candy gently for 10 min over low heat: they should be glossy, in a thick syrup. If the syrup is still runny, uncover and let it reduce for a few minutes. Keep warm."
+  },
+  "steps.9.timer.label": {
+   "fr": "Pruneaux caramélisés",
+   "t": "Caramelised prunes"
+  },
+  "steps.9.timer.done": {
+   "fr": "Sirop épais, pruneaux brillants : garde-les au chaud.",
+   "t": "Thick syrup, glossy prunes: keep them warm."
+  },
+  "steps.10.title": {
+   "fr": "Fais réduire la sauce de la viande",
+   "t": "Reduce the meat sauce"
+  },
+  "steps.10.text": {
+   "fr": "Quand la viande se détache de l'os, retire le bouquet d'herbes. Si la sauce est encore liquide, fais-la réduire à découvert 10 à 15 min à feu moyen-doux, en remuant de temps en temps : elle doit être épaisse, avec des oignons fondus. Goûte et rectifie le sel. Pendant ce temps, réchauffe le plat de service au four chaud éteint, ou remplis-le d'eau chaude puis vide-le.",
+   "t": "When the meat comes away from the bone, remove the herb bundle. If the sauce is still runny, reduce it uncovered for 10 to 15 min over medium-low heat, stirring from time to time: it should be thick, with the onions cooked down until very soft. Taste and adjust the salt. Meanwhile, warm the serving dish in a hot oven that has been switched off, or fill it with hot water and then empty it."
+  },
+  "steps.10.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "Reducing the sauce"
+  },
+  "steps.10.timer.done": {
+   "fr": "La sauce est épaisse : passe au service.",
+   "t": "The sauce is thick: time to serve."
+  },
+  "steps.11.title": {
+   "fr": "Dresse et sers",
+   "t": "Arrange and serve"
+  },
+  "steps.11.text": {
+   "fr": "Dispose la viande dans le plat chaud et garnis-la des pruneaux. Mélange la sauce de la viande avec un peu de sirop des pruneaux et nappe-en la viande. Parsème d'amandes frites et de graines de sésame grillées. Sers aussitôt, au centre de la table, avec du pain.",
+   "t": "Arrange the meat in the warm dish and top it with the prunes. Mix the meat sauce with a little of the prune syrup and spoon it over the meat. Scatter over the fried almonds and toasted sesame seeds. Serve immediately, in the centre of the table, with bread."
+  },
+  "secrets.0.text": {
+   "fr": "Fais cuire les pruneaux à part, pas dans la cocotte : ils caramélisent mieux et le plat ne vire pas au brun-noir.",
+   "t": "Cook the prunes separately, not in the pot: they caramelise better and the dish doesn't turn blackish-brown."
+  },
+  "secrets.0.source": {
+   "fr": "My Moroccan Food (Nargisse Benkabbou) ; cuisson à part aussi chez Choumicha, Bladi, Cooking with Alia, Morocco World News et Femmes du Maroc",
+   "t": "My Moroccan Food (Nargisse Benkabbou); also cooked separately by Choumicha, Bladi, Cooking with Alia, Morocco World News and Femmes du Maroc"
+  },
+  "secrets.1.text": {
+   "fr": "Confis les pruneaux dans un peu de sauce prélevée sur la viande, avec du beurre, puis le sucre ou le miel et la cannelle, jusqu'à un sirop épais.",
+   "t": "Candy the prunes in a little sauce taken from the meat, with butter, then the sugar or honey and the cinnamon, until you have a thick syrup."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia ; Morocco World News ; Bladi (« deux louches de sauce ») ; My Moroccan Food (sauce prélevée au bout d'1 h)",
+   "t": "Cooking with Alia; Morocco World News; Bladi (“two ladlefuls of sauce”); My Moroccan Food (sauce taken out after 1 h)"
+  },
+  "secrets.2.text": {
+   "fr": "Fais d'abord gonfler les pruneaux dans l'eau bouillante pour les attendrir.",
+   "t": "First plump up the prunes in boiling water to soften them."
+  },
+  "secrets.2.source": {
+   "fr": "Cooking with Alia (15 min) ; My Moroccan Food (5 min) ; Bladi (pruneaux « gonflés dans l'eau »)",
+   "t": "Cooking with Alia (15 min); My Moroccan Food (5 min); Bladi (prunes “plumped up in water”)"
+  },
+  "secrets.3.text": {
+   "fr": "Fais infuser les pistils de safran 10 min dans un peu d'eau tiède avant de les verser dans la cocotte.",
+   "t": "Infuse the saffron threads for 10 min in a little lukewarm water before pouring them into the pot."
+  },
+  "secrets.3.source": {
+   "fr": "Cooking with Alia",
+   "t": "Cooking with Alia"
+  },
+  "secrets.4.text": {
+   "fr": "Ajoute une cuillerée de smen avec les épices de la viande.",
+   "t": "Add a spoonful of smen with the spices for the meat."
+  },
+  "secrets.4.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.5.text": {
+   "fr": "Pose sur la viande un bouquet ficelé de coriandre et de persil, et retire-le avant de servir.",
+   "t": "Lay a tied bundle of coriander and parsley on the meat, and remove it before serving."
+  },
+  "secrets.5.source": {
+   "fr": "Choumicha (bouquet persil-coriandre) ; Grantourismo, recette de Terence Carter apprise de Jamila puis retouchée (bouquet à retirer) ; My Moroccan Food (bouquet de coriandre ficelé)",
+   "t": "Choumicha (parsley and coriander bundle); Grantourismo, a recipe by Terence Carter learned from Jamila and then adapted (bundle to be removed); My Moroccan Food (tied bunch of coriander)"
+  },
+  "secrets.6.text": {
+   "fr": "Pendant la cuisson, mouille toujours avec de l'eau chaude, jamais froide, et garde la viande à moitié couverte : rajoute un peu d'eau chaude si la sauce attache.",
+   "t": "During cooking, always top up with hot water, never cold, and keep the meat half covered: add a little hot water if the sauce starts to stick."
+  },
+  "secrets.6.source": {
+   "fr": "Choumicha (conseil donné pour le tajine en terre) ; Cooking with Alia (viande à moitié couverte) ; My Moroccan Food (eau ajoutée si ça attache)",
+   "t": "Choumicha (advice given for the earthenware tagine); Cooking with Alia (meat half covered); My Moroccan Food (water added if it sticks)"
+  },
+  "secrets.7.text": {
+   "fr": "La sauce est prête quand elle a réduit en oignons fondus et huile, épaisse et sirupeuse.",
+   "t": "The sauce is ready when it has reduced to melted onions and oil, thick and syrupy."
+  },
+  "secrets.7.source": {
+   "fr": "Grantourismo (fiche de Terence Carter, retouchée d'après la recette de Jamila) ; Choumicha (« sauce réduite ») ; Cooking with Alia (« sauce épaisse »)",
+   "t": "Grantourismo (Terence Carter's recipe card, adapted from Jamila's recipe); Choumicha (“reduced sauce”); Cooking with Alia (“thick sauce”)"
+  },
+  "secrets.8.text": {
+   "fr": "Pour une sauce plus épaisse et plus abondante, mets plus d'oignons : My Moroccan Food en met 800 g pour 1,2 kg de viande.",
+   "t": "For a thicker, more generous sauce, use more onions: My Moroccan Food uses 800 g for 1.2 kg of meat."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food",
+   "t": "My Moroccan Food"
+  },
+  "secrets.9.text": {
+   "fr": "Avant de napper, mélange la sauce de la viande avec un peu du sirop des pruneaux.",
+   "t": "Before spooning it over, mix the meat sauce with a little of the prune syrup."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha",
+   "t": "Choumicha"
+  },
+  "secrets.10.text": {
+   "fr": "Amandes mondées frites dans l'huile puis égouttées ; sésame grillé légèrement, à sec.",
+   "t": "Blanched almonds fried in oil and then drained; sesame lightly toasted in a dry pan."
+  },
+  "secrets.10.source": {
+   "fr": "Bladi ; Femmes du Maroc (amandes « émondées et frites ») ; Cooking with Alia (amandes frites)",
+   "t": "Bladi; Femmes du Maroc (almonds “blanched and fried”); Cooking with Alia (fried almonds)"
+  },
+  "secrets.11.text": {
+   "fr": "Choisis un morceau qui supporte une longue cuisson, avec os : épaule, collier ou souris d'agneau.",
+   "t": "Choose a cut on the bone that stands up to long cooking: lamb shoulder, neck or shank."
+  },
+  "secrets.11.source": {
+   "fr": "My Moroccan Food ; Grantourismo ; Choumicha (épaule ou gigot) ; Bladi (épaule)",
+   "t": "My Moroccan Food; Grantourismo; Choumicha (shoulder or leg); Bladi (shoulder)"
+  },
+  "secrets.12.text": {
+   "fr": "Aujourd'hui, au Maroc, on cuit souvent le tajine dans une grande cocotte, puis on le transfère dans le tajine en terre pour le servir au centre de la table.",
+   "t": "Today in Morocco, the tagine is often cooked in a large pot, then transferred to the earthenware tagine to be served in the centre of the table."
+  },
+  "secrets.12.source": {
+   "fr": "Grantourismo, d'après Jamila, cuisinière d'un riad de Marrakech",
+   "t": "Grantourismo, according to Jamila, a cook at a riad in Marrakesh"
+  },
+  "secrets.13.text": {
+   "fr": "Le tajine de service émaillé et décoré ne va jamais sur le feu : réchauffe-le avant de dresser, au four chaud éteint ou avec de l'eau chaude.",
+   "t": "The glazed, decorated serving tagine never goes on the heat: warm it before plating, in a hot oven that has been switched off or with hot water."
+  },
+  "secrets.13.source": {
+   "fr": "Choumicha (conseils sur le tajine)",
+   "t": "Choumicha (advice on the tagine)"
+  },
+  "mistakes.0": {
+   "fr": "Cuire les pruneaux dans la cocotte avec la viande si tu les veux bien caramélisés : ils caramélisent moins bien et le plat brunit (My Moroccan Food). Ce n'est pas une faute pour autant : My Moroccan Food le dit, et Grantourismo comme une autre recette de Bladi.net les cuisent dans la cocotte.",
+   "t": "Cooking the prunes in the pot with the meat if you want them well caramelised: they caramelise less well and the dish turns brown (My Moroccan Food). It is not a mistake as such, though: My Moroccan Food says so, and Grantourismo, like another Bladi.net recipe, cooks them in the pot."
+  },
+  "mistakes.1": {
+   "fr": "Mouiller en cours de cuisson avec de l'eau froide : toujours de l'eau chaude (Choumicha, conseil donné pour le tajine en terre).",
+   "t": "Topping up with cold water during cooking: always use hot water (Choumicha, advice given for the earthenware tagine)."
+  },
+  "mistakes.2": {
+   "fr": "Laisser la sauce s'assécher : la viande attache. Rajoute un peu d'eau chaude dès qu'il n'en reste presque plus (My Moroccan Food, Cooking with Alia).",
+   "t": "Letting the sauce dry out: the meat sticks. Add a little hot water as soon as there is hardly any left (My Moroccan Food, Cooking with Alia)."
+  },
+  "mistakes.3": {
+   "fr": "Arrêter la cuisson trop tôt : la viande doit se détacher facilement de l'os (My Moroccan Food).",
+   "t": "Stopping the cooking too soon: the meat should come away easily from the bone (My Moroccan Food)."
+  },
+  "mistakes.4": {
+   "fr": "Brusquer les pruneaux en fin de cuisson : mélange-les délicatement (Cooking with Alia).",
+   "t": "Handling the prunes roughly at the end of cooking: stir them gently (Cooking with Alia)."
+  },
+  "mistakes.5": {
+   "fr": "Trop griller le sésame : il doit juste blondir (Bladi : « griller légèrement »).",
+   "t": "Over-toasting the sesame: it should just turn pale golden (Bladi: “toast lightly”)."
+  },
+  "mistakes.6": {
+   "fr": "Mettre un tajine en terre sur un feu vif : il peut se fissurer. Toujours à feu doux, avec un diffuseur sur le gaz (Choumicha).",
+   "t": "Putting an earthenware tagine over high heat: it can crack. Always use low heat, with a diffuser on a gas hob (Choumicha)."
+  },
+  "mistakes.7": {
+   "fr": "Poser sur le feu le tajine émaillé et décoré : il sert seulement au service (Choumicha).",
+   "t": "Putting the glazed, decorated tagine on the heat: it is only for serving (Choumicha)."
+  },
+  "mistakes.8": {
+   "fr": "Croire qu'au Maroc le tajine s'accompagne de couscous : le couscous y est d'ordinaire un plat à part, et le tajine se mange avec du pain pour saucer (Grantourismo ; Morocco World News). Rien n'empêche d'en servir : My Moroccan Food propose couscous ou pain.",
+   "t": "Thinking that in Morocco tagine comes with couscous: there, couscous is usually a separate dish, and tagine is eaten with bread to mop up the sauce (Grantourismo; Morocco World News). Nothing stops you serving some: My Moroccan Food suggests couscous or bread."
+  },
+  "variants.0": {
+   "fr": "Bœuf : jarret ou collier de bœuf, même méthode ; prolonge le mijotage jusqu'à ce que la viande soit fondante (Cooking with Alia : 1 à 2 h selon le morceau ; My Moroccan Food, Femmes du Maroc, Morocco World News).",
+   "t": "Beef: beef shin or neck, same method; simmer for longer, until the meat is meltingly tender (Cooking with Alia: 1 to 2 h depending on the cut; My Moroccan Food, Femmes du Maroc, Morocco World News)."
+  },
+  "variants.1": {
+   "fr": "Autocuiseur : Bladi cuit l'épaule 20 min sous pression, puis termine environ 15 min en remuant ; Morocco World News compte 40 min pour le bœuf, puis fait réduire la sauce à découvert.",
+   "t": "Pressure cooker: Bladi cooks the shoulder for 20 min under pressure, then finishes it for about 15 min, stirring; Morocco World News allows 40 min for beef, then reduces the sauce uncovered."
+  },
+  "variants.2": {
+   "fr": "Au miel : My Moroccan Food et Cooking with Alia caramélisent les pruneaux au miel plutôt qu'au sucre ; Morocco World News mélange sucre et miel.",
+   "t": "With honey: My Moroccan Food and Cooking with Alia caramelise the prunes with honey rather than sugar; Morocco World News mixes sugar and honey."
+  },
+  "variants.3": {
+   "fr": "Pruneaux et abricots : Femmes du Maroc (abricots secs) et la cheffe Asmaa Alami (Le360) associent pruneaux et abricots caramélisés ; Femmes du Maroc ajoute aussi des coings ou des pommes caramélisés.",
+   "t": "Prunes and apricots: Femmes du Maroc (dried apricots) and chef Asmaa Alami (Le360) pair caramelised prunes and apricots; Femmes du Maroc also adds caramelised quinces or apples."
+  },
+  "variants.4": {
+   "fr": "Épices en plus : une pincée de ras el hanout (Choumicha, Cooking with Alia) ou un peu de curcuma (My Moroccan Food, Morocco World News, Cooking with Alia).",
+   "t": "Extra spices: a pinch of ras el hanout (Choumicha, Cooking with Alia) or a little turmeric (My Moroccan Food, Morocco World News, Cooking with Alia)."
+  },
+  "variants.5": {
+   "fr": "Amandes grillées plutôt que frites (Choumicha, My Moroccan Food), ou amandes effilées (Le360, Grantourismo).",
+   "t": "Toasted almonds rather than fried (Choumicha, My Moroccan Food), or flaked almonds (Le360, Grantourismo)."
+  },
+  "variants.6": {
+   "fr": "Cuisson entière au tajine en terre vernissé : sur le gaz avec un diffuseur, toujours à feu doux ; tapisse le fond de tiges de persil et de coriandre ou de rondelles d'oignon pour que rien n'attache (Choumicha).",
+   "t": "Cooking it all in a glazed earthenware tagine: on the gas with a diffuser, always over low heat; line the base with parsley and coriander stalks or onion rings so that nothing sticks (Choumicha)."
+  }
+ }
+}

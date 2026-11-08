@@ -1,0 +1,586 @@
+{
+ "_slug": "harira",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Harira marocaine traditionnelle",
+   "t": "Традиционная марокканская харира"
+  },
+  "darija": {
+   "fr": "Hrira",
+   "t": "Хрира"
+  },
+  "tagline": {
+   "fr": "La soupe du ftour, soyeuse comme son nom (harir, la soie) : tomates, lentilles, pois chiches et herbes fraîches, liée à la tadouira.",
+   "t": "Суп для ифтара, шелковистый, как и его название (харир — «шёлк»): помидоры, чечевица, нут и свежая зелень, а загущают его тадуирой."
+  },
+  "region": {
+   "fr": "Tout le Maroc ; version douce sans carvi ni piment de la Jamaïque, comme la harira fassia (Fès)",
+   "t": "По всему Марокко; мягкая версия без тмина и душистого перца, как харира фассия (Фес)"
+  },
+  "occasion": {
+   "fr": "Ftour du Ramadan, servie chaque jour à la rupture du jeûne ; toute l'année en entrée ou en dîner léger, et lors des rassemblements de famille",
+   "t": "Ифтар в Рамадан: её подают каждый день, когда прерывают пост; круглый год — как первое блюдо или лёгкий ужин, а также на семейных встречах"
+  },
+  "serving": {
+   "fr": "Au ftour du Ramadan, la harira se sert bien chaude dès la rupture du jeûne, chaque jour du mois. Chacun presse un quartier de citron dans son bol. Autour : des dattes (ou des figues sèches), des chebakia, des œufs durs à tremper dans du sel et du cumin, et souvent du msemen, des briouates ou du pain maison. Hors Ramadan, elle se sert en entrée, en dîner léger ou lors des rassemblements de famille.",
+   "t": "На ифтаре в Рамадан хариру подают очень горячей сразу после разговения, каждый день месяца. Каждый выжимает дольку лимона в свою миску. Вокруг — финики (или сушёный инжир), чебакия, сваренные вкрутую яйца, которые обмакивают в соль и кумин (зиру), а часто ещё мсемен, бриуаты или домашний хлеб. Вне Рамадана её подают как первое блюдо, на лёгкий ужин или на семейных встречах."
+  },
+  "ing.0.group": {
+   "fr": "Bouillon",
+   "t": "Бульон"
+  },
+  "ing.viande.name": {
+   "fr": "d'agneau ou de bœuf",
+   "t": "баранины или говядины"
+  },
+  "ing.viande.note": {
+   "fr": "halal, coupé en dés d'environ 1 cm",
+   "t": "халяль, нарезанная кубиками около 1 см"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou de tournesol",
+   "t": "оливкового или подсолнечного масла"
+  },
+  "ing.smen.name": {
+   "fr": "de smen (beurre rance marocain)",
+   "t": "смена (марокканского выдержанного солёного масла)"
+  },
+  "ing.smen.note": {
+   "fr": "facultatif, mais il apporte un goût particulier",
+   "t": "по желанию, но он придаёт особый вкус"
+  },
+  "ing.oignon.name": {
+   "fr": "gros oignon",
+   "t": "луковица крупного размера"
+  },
+  "ing.oignon.pl": {
+   "fr": "gros oignons",
+   "t": "луковицы крупного размера"
+  },
+  "ing.oignon.pl5": {
+   "fr": "gros oignon / gros oignons",
+   "t": "луковиц крупного размера"
+  },
+  "ing.celeri.name": {
+   "fr": "branche de céleri avec ses feuilles",
+   "t": "стебель сельдерея с листьями"
+  },
+  "ing.celeri.pl": {
+   "fr": "branches de céleri avec leurs feuilles",
+   "t": "стебля сельдерея с листьями"
+  },
+  "ing.celeri.pl5": {
+   "fr": "branche de céleri avec ses feuilles / branches de céleri avec leurs feuilles",
+   "t": "стеблей сельдерея с листьями"
+  },
+  "ing.celeri.note": {
+   "fr": "au Maroc, on prend un céleri à feuilles fines, proche du céleri chinois : une petite botte",
+   "t": "в Марокко берут тонколистный сельдерей, похожий на китайский: небольшой пучок"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "petite botte",
+   "t": "небольшой пучок"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "кинзы"
+  },
+  "ing.coriandre.note": {
+   "fr": "petite botte",
+   "t": "небольшой пучок"
+  },
+  "ing.pois-chiches.name": {
+   "fr": "de pois chiches secs",
+   "t": "сухого нута"
+  },
+  "ing.pois-chiches.note": {
+   "fr": "à faire tremper la veille",
+   "t": "замочить накануне"
+  },
+  "ing.lentilles.name": {
+   "fr": "de lentilles vertes ou brunes",
+   "t": "зелёной или коричневой чечевицы"
+  },
+  "ing.tomates.name": {
+   "fr": "de tomates bien mûres",
+   "t": "очень спелых помидоров"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "томатной пасты"
+  },
+  "ing.concentre.note": {
+   "fr": "bombée",
+   "t": "с горкой"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre en poudre",
+   "t": "молотого имбиря"
+  },
+  "ing.gingembre.note": {
+   "fr": "pas de gingembre frais",
+   "t": "свежий имбирь не подходит"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "молотого чёрного перца"
+  },
+  "ing.cannelle.name": {
+   "fr": "de cannelle en poudre",
+   "t": "молотой корицы"
+  },
+  "ing.cannelle.note": {
+   "fr": "facultatif",
+   "t": "по желанию"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "соли"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "уточните по вкусу в конце варки"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.1.group": {
+   "fr": "Tadouira (liaison)",
+   "t": "Тадуира (для загущения)"
+  },
+  "ing.farine.name": {
+   "fr": "de farine blanche",
+   "t": "белой пшеничной муки"
+  },
+  "ing.farine.note": {
+   "fr": "pas de farine complète",
+   "t": "не цельнозерновой"
+  },
+  "ing.eau-tadouira.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.concentre-tadouira.name": {
+   "fr": "de concentré de tomate",
+   "t": "томатной пасты"
+  },
+  "ing.concentre-tadouira.note": {
+   "fr": "bombée",
+   "t": "с горкой"
+  },
+  "ing.2.group": {
+   "fr": "Finition et service",
+   "t": "Завершение и подача"
+  },
+  "ing.vermicelles.name": {
+   "fr": "de vermicelles fins",
+   "t": "тонкой вермишели"
+  },
+  "ing.vermicelles.note": {
+   "fr": "ou de spaghettis fins cassés",
+   "t": "или ломаных тонких спагетти"
+  },
+  "ing.coriandre-fin.name": {
+   "fr": "de coriandre hachée",
+   "t": "рубленой кинзы"
+  },
+  "ing.coriandre-fin.note": {
+   "fr": "à prélever sur la botte",
+   "t": "взять из пучка"
+  },
+  "ing.citron.name": {
+   "fr": "citron, en quartiers",
+   "t": "лимон (нарезать дольками)"
+  },
+  "ing.citron.pl": {
+   "fr": "citrons, en quartiers",
+   "t": "лимона (нарезать дольками)"
+  },
+  "ing.citron.pl5": {
+   "fr": "citron, en quartiers / citrons, en quartiers",
+   "t": "лимонов (нарезать дольками)"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite à fond épais (6 l environ) ou cocotte-minute",
+   "t": "Большая кастрюля с толстым дном (около 6 л) или скороварка"
+  },
+  "equipment.1": {
+   "fr": "Casserole pour pocher les tomates",
+   "t": "Кастрюля для бланширования помидоров"
+  },
+  "equipment.2": {
+   "fr": "Mixeur ou moulin à légumes",
+   "t": "Блендер или протирка для овощей"
+  },
+  "equipment.3": {
+   "fr": "Râpe",
+   "t": "Тёрка"
+  },
+  "equipment.4": {
+   "fr": "Fouet et bol",
+   "t": "Венчик и миска"
+  },
+  "equipment.5": {
+   "fr": "Passoire fine",
+   "t": "Мелкое сито"
+  },
+  "equipment.6": {
+   "fr": "Torchon propre (pour peler les pois chiches)",
+   "t": "Чистое кухонное полотенце (чтобы очистить нут от кожицы)"
+  },
+  "equipment.7": {
+   "fr": "Louche",
+   "t": "Половник"
+  },
+  "steps.0.title": {
+   "fr": "La veille : fais tremper les pois chiches",
+   "t": "Накануне: замочите нут"
+  },
+  "steps.0.text": {
+   "fr": "Rince les pois chiches ({{pois-chiches}}) et couvre-les largement d'eau. Laisse-les tremper toute la nuit.",
+   "t": "Промойте нут ({{pois-chiches}}) и залейте большим количеством воды. Оставьте замачиваться на всю ночь."
+  },
+  "steps.1.title": {
+   "fr": "Pèle les pois chiches, trie les lentilles",
+   "t": "Очистите нут, переберите чечевицу"
+  },
+  "steps.1.text": {
+   "fr": "Égoutte les pois chiches, puis frotte-les vigoureusement dans un torchon pour détacher leur peau et retire les peaux. Trie les lentilles ({{lentilles}}) pour enlever les petits cailloux, puis rince-les.",
+   "t": "Слейте воду с нута, затем энергично потрите его в кухонном полотенце, чтобы кожица отделилась, и удалите её. Переберите чечевицу ({{lentilles}}), чтобы убрать мелкие камешки, затем промойте."
+  },
+  "steps.2.title": {
+   "fr": "Prépare la tadouira à l'avance",
+   "t": "Заранее приготовьте тадуиру"
+  },
+  "steps.2.text": {
+   "fr": "Fouette la farine ({{farine}}) avec l'eau ({{eau-tadouira}}) jusqu'à obtenir un mélange parfaitement lisse. Passe-le dans une passoire fine, couvre et laisse reposer jusqu'au moment de lier la soupe, quelques heures si tu peux.",
+   "t": "Взбейте венчиком муку ({{farine}}) с водой ({{eau-tadouira}}) до совершенно однородной смеси. Процедите через мелкое сито, накройте и оставьте до того момента, когда будете загущать суп, — по возможности на несколько часов."
+  },
+  "steps.3.title": {
+   "fr": "Réduis les tomates en purée",
+   "t": "Измельчите помидоры в пюре"
+  },
+  "steps.3.text": {
+   "fr": "Poche les tomates ({{tomates}}) 5 minutes dans une casserole d'eau frémissante, puis pèle-les. Mixe-les en purée lisse, ou passe-les au moulin à légumes pour retirer aussi les pépins.",
+   "t": "Опустите помидоры ({{tomates}}) на 5 минут в кастрюлю с едва кипящей водой, затем снимите с них кожицу. Измельчите блендером в однородное пюре или протрите через протирку для овощей, чтобы удалить и семена."
+  },
+  "steps.3.timer.label": {
+   "fr": "Tomates pochées",
+   "t": "Бланширование помидоров"
+  },
+  "steps.3.timer.done": {
+   "fr": "Sors les tomates : la peau doit se détacher facilement.",
+   "t": "Выньте помидоры: кожица должна легко сниматься."
+  },
+  "steps.4.title": {
+   "fr": "Râpe, hache et coupe",
+   "t": "Натрите, порубите и нарежьте"
+  },
+  "steps.4.text": {
+   "fr": "Râpe {{oignon:full}}. Hache très finement {{celeri:full}}, le persil ({{persil}}) et la coriandre ({{coriandre}}) en retirant les grosses tiges, et mets de côté un peu de coriandre hachée ({{coriandre-fin}}) pour la fin. Coupe la viande ({{viande}}) en dés d'environ 1 cm.",
+   "t": "Натрите на тёрке лук ({{oignon}} шт.). Очень мелко порубите {{celeri:full}}, петрушку ({{persil}}) и кинзу ({{coriandre}}), удалив толстые стебли, и отложите немного рубленой кинзы ({{coriandre-fin}}) на конец варки. Нарежьте мясо ({{viande}}) кубиками около 1 см."
+  },
+  "steps.4.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.4.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.5.title": {
+   "fr": "Saisis la viande",
+   "t": "Обжарьте мясо"
+  },
+  "steps.5.text": {
+   "fr": "Dans la grande marmite, chauffe l'huile ({{huile}}) à feu moyen. Fais revenir la viande en remuant, jusqu'à ce qu'elle change de couleur.",
+   "t": "В большой кастрюле разогрейте масло ({{huile}}) на среднем огне. Обжарьте мясо, помешивая, пока оно не изменит цвет."
+  },
+  "steps.6.title": {
+   "fr": "Fais revenir aromates et épices",
+   "t": "Потушите овощи, зелень и специи"
+  },
+  "steps.6.text": {
+   "fr": "Ajoute l'oignon râpé, les herbes hachées, les pois chiches pelés, les lentilles, la purée de tomates et le concentré ({{concentre}}). Ajoute le gingembre ({{gingembre}}), le curcuma ({{curcuma}}), le poivre ({{poivre}}), la cannelle ({{cannelle}}), le sel ({{sel}}) et le smen ({{smen}}). Laisse revenir 10 minutes à feu doux, en remuant de temps en temps.",
+   "t": "Добавьте натёртый лук, рубленую зелень, очищенный нут, чечевицу, томатное пюре и томатную пасту ({{concentre}}). Добавьте имбирь ({{gingembre}}), куркуму ({{curcuma}}), перец ({{poivre}}), корицу ({{cannelle}}), соль ({{sel}}) и смен ({{smen}}). Тушите 10 минут на слабом огне, время от времени помешивая."
+  },
+  "steps.6.timer.label": {
+   "fr": "Aromates à feu doux",
+   "t": "Овощи и специи на слабом огне"
+  },
+  "steps.6.timer.done": {
+   "fr": "Verse l'eau et porte à ébullition.",
+   "t": "Влейте воду и доведите до кипения."
+  },
+  "steps.7.title": {
+   "fr": "Mouille et laisse cuire",
+   "t": "Залейте водой и варите"
+  },
+  "steps.7.text": {
+   "fr": "Verse l'eau ({{eau}}) et porte à ébullition à feu vif. Couvre et laisse cuire 1 heure à feu moyen, en remuant de temps en temps, jusqu'à ce que les pois chiches soient tendres. En cocotte-minute, compte 20 à 30 minutes après la mise sous pression.",
+   "t": "Влейте воду ({{eau}}) и доведите до кипения на сильном огне. Накройте крышкой и варите 1 час на среднем огне, время от времени помешивая, пока нут не станет мягким. В скороварке — 20–30 минут после набора давления."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson du bouillon",
+   "t": "Варка бульона"
+  },
+  "steps.7.timer.done": {
+   "fr": "Goûte un pois chiche : s'il est tendre, passe à la tadouira. Sinon, prolonge un peu la cuisson.",
+   "t": "Попробуйте горошину нута: если она мягкая, переходите к тадуире. Если нет, варите ещё немного."
+  },
+  "steps.8.title": {
+   "fr": "Lie avec la tadouira",
+   "t": "Загустите тадуирой"
+  },
+  "steps.8.text": {
+   "fr": "Fouette le concentré de tomate ({{concentre-tadouira}}) dans la tadouira. Monte le feu pour que la soupe bouille, puis verse la tadouira petit à petit en remuant sans arrêt. Arrête-toi dès que la harira est veloutée et soyeuse, sans être épaisse : tu n'auras peut-être pas besoin de tout. Si elle est trop épaisse, ajoute un peu d'eau bouillante.",
+   "t": "Вмешайте венчиком томатную пасту ({{concentre-tadouira}}) в тадуиру. Увеличьте огонь, чтобы суп кипел, затем понемногу вливайте тадуиру, непрерывно помешивая. Остановитесь, как только харира станет бархатистой и шелковистой, но не густой: возможно, понадобится не вся тадуира. Если суп слишком густой, добавьте немного кипятка."
+  },
+  "steps.9.title": {
+   "fr": "Ajoute les vermicelles",
+   "t": "Добавьте вермишель"
+  },
+  "steps.9.text": {
+   "fr": "Dès que la soupe bout de nouveau, ajoute les vermicelles ({{vermicelles}}) en remuant. Laisse mijoter à feu moyen en remuant régulièrement, et retire l'écume à la cuillère. C'est prêt quand les vermicelles sont tendres et que l'écume de la tadouira a disparu.",
+   "t": "Как только суп снова закипит, добавьте вермишель ({{vermicelles}}), помешивая. Варите на среднем огне, регулярно помешивая, и снимайте пену ложкой. Суп готов, когда вермишель мягкая, а пена от тадуиры исчезла."
+  },
+  "steps.9.timer.label": {
+   "fr": "Vermicelles",
+   "t": "Вермишель"
+  },
+  "steps.9.timer.done": {
+   "fr": "Vermicelles tendres et plus d'écume ? Sinon, laisse encore 2 ou 3 minutes.",
+   "t": "Вермишель мягкая, а пены больше нет? Если нет, варите ещё 2–3 минуты."
+  },
+  "steps.10.title": {
+   "fr": "Goûte et parfume",
+   "t": "Попробуйте и добавьте зелень"
+  },
+  "steps.10.text": {
+   "fr": "Goûte et rectifie le sel et le poivre. Ajoute la coriandre mise de côté et laisse frémir 5 minutes, puis coupe le feu.",
+   "t": "Попробуйте и при необходимости досолите и поперчите. Добавьте отложенную кинзу, дайте слегка покипеть 5 минут, затем выключите огонь."
+  },
+  "steps.10.timer.label": {
+   "fr": "Dernier frémissement",
+   "t": "Последнее кипение"
+  },
+  "steps.10.timer.done": {
+   "fr": "Coupe le feu : ta harira est prête.",
+   "t": "Выключите огонь: ваша харира готова."
+  },
+  "steps.11.title": {
+   "fr": "Sers bien chaud",
+   "t": "Подавайте очень горячей"
+  },
+  "steps.11.text": {
+   "fr": "Sers la harira bien chaude dans des bols, avec {{citron:full}}, à presser au dernier moment. Pose à côté des dattes, des chebakia et des œufs durs à tremper dans un peu de sel et de cumin.",
+   "t": "Подавайте хариру очень горячей в мисках, с дольками лимона ({{citron}} шт.), чтобы выжать сок в последний момент. Поставьте рядом финики, чебакию и сваренные вкрутую яйца, которые обмакивают в немного соли и кумина."
+  },
+  "steps.12.title": {
+   "fr": "Les restes",
+   "t": "Остатки"
+  },
+  "steps.12.text": {
+   "fr": "En refroidissant, une peau se forme : remue-la simplement dans la soupe. Réchauffe à feu doux ou moyen en remuant souvent pour que les lentilles n'attachent pas, et détends avec un peu d'eau bouillante si besoin. Elle se garde 3 jours au réfrigérateur, dans une boîte hermétique.",
+   "t": "Остывая, суп покрывается плёнкой: просто вмешайте её обратно в суп. Разогревайте на слабом или среднем огне, часто помешивая, чтобы чечевица не пригорела, и при необходимости разбавьте небольшим количеством кипятка. Харира хранится 3 дня в холодильнике в герметичном контейнере."
+  },
+  "secrets.0.text": {
+   "fr": "Pèle les pois chiches après le trempage, en les frottant vigoureusement dans un torchon : toutes les recettes marocaines consultées les veulent sans peau.",
+   "t": "После замачивания очистите нут от кожицы, энергично потерев его в кухонном полотенце: во всех изученных марокканских рецептах нут кладут без кожицы."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Gâteau et cuisine Rachida ; Royal Mansour (chef Karim Ben Baba) ; Choumicha (Gulf News) ; Morocco World News",
+   "t": "Taste of Maroc; Gâteau et cuisine Rachida; Royal Mansour (шеф Karim Ben Baba); Choumicha (Gulf News); Morocco World News"
+  },
+  "secrets.1.text": {
+   "fr": "Gingembre en poudre seulement : le gingembre frais n'est pas traditionnel dans les plats mijotés marocains.",
+   "t": "Только молотый имбирь: свежий имбирь для марокканских тушёных блюд не традиционен."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc",
+   "t": "Taste of Maroc"
+  },
+  "secrets.2.text": {
+   "fr": "Pas de ras el hanout : la harira traditionnelle n'en contient pas, même dans la version de Choumicha.",
+   "t": "Без рас-эль-ханута: в традиционной харире его нет, даже в версии Choumicha."
+  },
+  "secrets.2.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.3.text": {
+   "fr": "Choisis des tomates bien mûres : elles donnent la belle couleur et un goût plus intense.",
+   "t": "Выбирайте очень спелые помидоры: они дают красивый цвет и более насыщенный вкус."
+  },
+  "secrets.3.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida и Taste of Maroc"
+  },
+  "secrets.4.text": {
+   "fr": "Au Maroc, la harira se fait avec un céleri à feuilles fines, proche du céleri chinois ; Choumicha n'en garde que les feuilles.",
+   "t": "В Марокко хариру готовят с тонколистным сельдереем, похожим на китайский; Choumicha берёт только его листья."
+  },
+  "secrets.4.source": {
+   "fr": "Taste of Maroc ; Choumicha (Gulf News)",
+   "t": "Taste of Maroc и Choumicha (Gulf News)"
+  },
+  "secrets.5.text": {
+   "fr": "Prépare la tadouira à l'avance : bien fouettée, passée dans une passoire fine et reposée quelques heures, elle ne fait pas de grumeaux.",
+   "t": "Готовьте тадуиру заранее: хорошо взбитая, процеженная через мелкое сито и постоявшая несколько часов, она не даёт комков."
+  },
+  "secrets.5.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida и Taste of Maroc"
+  },
+  "secrets.6.text": {
+   "fr": "Verse la tadouira petit à petit dans une soupe qui bout franchement, en remuant sans arrêt.",
+   "t": "Вливайте тадуиру понемногу в активно кипящий суп, непрерывно помешивая."
+  },
+  "secrets.6.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida и Taste of Maroc"
+  },
+  "secrets.7.text": {
+   "fr": "Tout est dans le dosage de la tadouira : arrête-toi quand la harira est soyeuse comme une crème. Elle doit être veloutée, pas épaisse.",
+   "t": "Всё дело в количестве тадуиры: остановитесь, когда харира станет шелковистой, как крем. Она должна быть бархатистой, а не густой."
+  },
+  "secrets.7.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc ; Bladi.net",
+   "t": "Gâteau et cuisine Rachida, Taste of Maroc и Bladi.net"
+  },
+  "secrets.8.text": {
+   "fr": "Après la liaison, laisse mijoter jusqu'à ce que l'écume formée par la tadouira ait disparu.",
+   "t": "После загущения дайте супу покипеть, пока не исчезнет пена от тадуиры."
+  },
+  "secrets.8.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida и Taste of Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Un peu de coriandre fraîche en fin de cuisson réveille le parfum ; Choumicha y ajoute toujours aussi un peu de céleri et de smen.",
+   "t": "Немного свежей кинзы в конце варки освежает аромат; Choumicha всегда добавляет также немного сельдерея и смена."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (La Libre Belgique, 2014) ; Gâteau et cuisine Rachida",
+   "t": "Choumicha (La Libre Belgique, 2014) и Gâteau et cuisine Rachida"
+  },
+  "secrets.10.text": {
+   "fr": "Le smen (beurre rance) est facultatif, mais il donne une saveur particulière.",
+   "t": "Смен (выдержанное солёное масло) необязателен, но он придаёт особый вкус."
+  },
+  "secrets.10.source": {
+   "fr": "Gâteau et cuisine Rachida ; Taste of Maroc",
+   "t": "Gâteau et cuisine Rachida и Taste of Maroc"
+  },
+  "secrets.11.text": {
+   "fr": "La harira est encore meilleure le lendemain, une fois que les saveurs se sont mariées.",
+   "t": "На следующий день харира ещё вкуснее, когда вкусы успеют соединиться."
+  },
+  "secrets.11.source": {
+   "fr": "Choumicha (Gulf News)",
+   "t": "Choumicha (Gulf News)"
+  },
+  "secrets.12.text": {
+   "fr": "Si tu prévois des restes, prends des spaghettis fins cassés : le vermicelle gonfle dans la soupe.",
+   "t": "Если рассчитываете на остатки, возьмите ломаные тонкие спагетти: вермишель в супе разбухает."
+  },
+  "secrets.12.source": {
+   "fr": "Gâteau et cuisine Rachida",
+   "t": "Gâteau et cuisine Rachida"
+  },
+  "secrets.13.text": {
+   "fr": "Pour congeler, fais-le avant la tadouira et, si possible, avant les vermicelles.",
+   "t": "Замораживать суп нужно до добавления тадуиры и, по возможности, до вермишели."
+  },
+  "secrets.13.source": {
+   "fr": "Taste of Maroc ; Gâteau et cuisine Rachida",
+   "t": "Taste of Maroc и Gâteau et cuisine Rachida"
+  },
+  "mistakes.0": {
+   "fr": "Verser la tadouira d'un coup ou sans remuer : elle fait des grumeaux.",
+   "t": "Вливать тадуиру сразу или не помешивая: образуются комки."
+  },
+  "mistakes.1": {
+   "fr": "Lier une soupe qui ne bout pas assez fort : elle doit reprendre vite l'ébullition.",
+   "t": "Загущать суп, который кипит недостаточно сильно: он должен быстро снова закипеть."
+  },
+  "mistakes.2": {
+   "fr": "Mettre toute la tadouira sans regarder la texture : la harira doit rester veloutée, pas épaisse.",
+   "t": "Вливать всю тадуиру, не следя за консистенцией: харира должна остаться бархатистой, а не густой."
+  },
+  "mistakes.3": {
+   "fr": "Couper le feu avant que l'écume de la tadouira ait disparu.",
+   "t": "Выключать огонь, пока не исчезла пена от тадуиры."
+  },
+  "mistakes.4": {
+   "fr": "Garder la peau des pois chiches.",
+   "t": "Оставлять кожицу на нуте."
+  },
+  "mistakes.5": {
+   "fr": "Ajouter du ras el hanout ou du gingembre frais.",
+   "t": "Добавлять рас-эль-ханут или свежий имбирь."
+  },
+  "mistakes.6": {
+   "fr": "Prendre de la farine complète pour la tadouira.",
+   "t": "Брать для тадуиры цельнозерновую муку."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer à feu vif sans remuer : les lentilles attachent et brûlent.",
+   "t": "Разогревать на сильном огне, не помешивая: чечевица прилипает ко дну и пригорает."
+  },
+  "mistakes.8": {
+   "fr": "Congeler la harira une fois liée à la tadouira.",
+   "t": "Замораживать хариру, уже загущённую тадуирой."
+  },
+  "variants.0": {
+   "fr": "Riz au lieu des vermicelles : ajoute-le dans le bouillon environ 30 minutes avant la liaison (15 minutes en cocotte-minute) — Taste of Maroc.",
+   "t": "Рис вместо вермишели: добавьте его в бульон примерно за 30 минут до загущения (в скороварке — за 15 минут) — Taste of Maroc."
+  },
+  "variants.1": {
+   "fr": "Harira fassia (Fès) : la moins épicée, sans carvi (karwiya) ni piment de la Jamaïque ; c'est le profil de cette recette — Gâteau et cuisine Rachida.",
+   "t": "Харира фассия (Фес): самая мягкая по специям, без тмина (карвия) и душистого перца; эта рецептура именно такая — Gâteau et cuisine Rachida."
+  },
+  "variants.2": {
+   "fr": "Harira oujdia (Oujda) : préparée avec un levain pétri la veille et beaucoup de persil, de coriandre et de céleri (Aujourd'hui le Maroc, repris par Yabiladi) ; selon Rachida, très parfumée au carvi et au piment de la Jamaïque, et certaines familles ajoutent des fèves sèches aux pois chiches — Gâteau et cuisine Rachida.",
+   "t": "Харира удждия (Уджда): её готовят на закваске, замешанной накануне, с большим количеством петрушки, кинзы и сельдерея (Aujourd'hui le Maroc, перепечатано Yabiladi); по словам Rachida, она очень ароматная благодаря тмину и душистому перцу, а некоторые семьи добавляют к нуту сушёные бобы фава — Gâteau et cuisine Rachida."
+  },
+  "variants.3": {
+   "fr": "Harira bidaouia (Casablanca) : on y ajoute le plus souvent un œuf battu après la tadouira (Gâteau et cuisine Rachida) ; certaines familles lient même la harira aux œufs à la place de la tadouira (Taste of Maroc).",
+   "t": "Харира бидауия (Касабланка): чаще всего после тадуиры в неё добавляют взбитое яйцо (Gâteau et cuisine Rachida); некоторые семьи даже загущают хариру яйцами вместо тадуиры (Taste of Maroc)."
+  },
+  "variants.4": {
+   "fr": "Tadouira à l'ancienne, fermentée : au levain chez les grands-mères, ce qui rendait la harira plus digeste et légèrement acidulée (Gâteau et cuisine Rachida), ou avec de la levure et 1 à 2 jours de fermentation (Taste of Maroc).",
+   "t": "Тадуира по-старинному, ферментированная: у бабушек — на закваске, отчего харира лучше усваивалась и была слегка кисловатой (Gâteau et cuisine Rachida), или на дрожжах с брожением 1–2 дня (Taste of Maroc)."
+  },
+  "variants.5": {
+   "fr": "Liaison à la fécule de maïs délayée dans de l'eau : version du Royal Mansour, et solution sans gluten selon Taste of Maroc.",
+   "t": "Загущение кукурузным крахмалом, разведённым в воде: версия Royal Mansour, а по Taste of Maroc — вариант без глютена."
+  },
+  "variants.6": {
+   "fr": "Un peu de safran dans le bouillon : Royal Mansour, Morocco World News (2021), Le Courrier de l'Atlas.",
+   "t": "Немного шафрана в бульоне: Royal Mansour, Morocco World News (2021), Le Courrier de l'Atlas."
+  },
+  "variants.7": {
+   "fr": "Quelques os à soupe ajoutés au bouillon (facultatif) — Taste of Maroc.",
+   "t": "Несколько суповых костей в бульоне (по желанию) — Taste of Maroc."
+  },
+  "variants.8": {
+   "fr": "Version de Choumicha publiée par Gulf News : épices « harira » à parts égales (curcuma, cumin, gingembre, cannelle, poivre noir) avec une pointe de cayenne, et le smen ajouté tout à la fin.",
+   "t": "Версия Choumicha, опубликованная Gulf News: специи «для хариры» в равных долях (куркума, кумин, имбирь, корица, чёрный перец) с кайенским перцем на кончике ножа, а смен добавляют в самом конце."
+  },
+  "variants.9": {
+   "fr": "Sans viande : une version végétarienne existe, la viande apportant surtout du goût — Taste of Maroc ; Morocco World News (2021).",
+   "t": "Без мяса: существует вегетарианская версия, ведь мясо в основном добавляет вкус — Taste of Maroc; Morocco World News (2021)."
+  }
+ }
+}

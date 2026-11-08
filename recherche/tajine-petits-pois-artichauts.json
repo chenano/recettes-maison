@@ -1,0 +1,501 @@
+{
+  "slug": "tajine-petits-pois-artichauts",
+  "title": "Tajine de viande aux petits pois et aux artichauts",
+  "darija": "Tajine jelbana",
+  "arabic": "طاجين باللحم والجلبانة والقوق",
+  "tagline": "Une viande fondante au gingembre et au curcuma, des cœurs d'artichauts et des petits pois tendres, et une touche de citron confit.",
+  "category": "Tajine",
+  "occasion": "Plat familial (Rachida) : au Maroc, le tajine est le plat principal du déjeuner de tous les jours (Morocco World News). C'est le tajine du printemps, quand les artichauts et les petits pois frais arrivent au marché (MarocMama) ; Rachida le dit aussi très apprécié pendant le Ramadan, quelques heures après le ftour.",
+  "region": "Maroc : selon My Moroccan Food, le tajine d'artichauts s'y prépare traditionnellement avec de la viande et des petits pois. Aucune source lue ne le rattache à une région précise.",
+  "servings": 4,
+  "servings_label": "personnes",
+  "time": {
+    "prep": 15,
+    "cook": 90,
+    "rest": 0
+  },
+  "difficulty": "Moyen",
+  "equipment": [
+    "Cocotte à fond épais avec couvercle (ou tajine en terre posé sur un diffuseur de chaleur)",
+    "Grand bol, pour l'eau citronnée",
+    "Couteau d'office à lame inox",
+    "Petite cuillère, pour retirer le foin des artichauts",
+    "Planche à découper",
+    "Cuillère en bois",
+    "Plat de service creux"
+  ],
+  "ingredients": [
+    {
+      "group": "Viande et sauce",
+      "items": [
+        {
+          "id": "viande",
+          "canon": "agneau",
+          "q": 700,
+          "u": "g",
+          "name": "d'agneau ou de veau halal (épaule, collier ou gigot, avec os)",
+          "note": "en gros morceaux"
+        },
+        {
+          "id": "oignon",
+          "canon": "oignon",
+          "q": 1,
+          "u": "",
+          "name": "oignon moyen",
+          "pl": "oignons moyens",
+          "note": "à hacher finement"
+        },
+        {
+          "id": "ail",
+          "canon": "ail",
+          "q": 3,
+          "u": "",
+          "name": "gousse d'ail",
+          "pl": "gousses d'ail",
+          "note": "à écraser ou à râper"
+        },
+        {
+          "id": "huile",
+          "canon": "huile-olive",
+          "q": 4,
+          "u": "c. à s.",
+          "name": "d'huile d'olive"
+        },
+        {
+          "id": "gingembre",
+          "canon": "gingembre",
+          "q": 1,
+          "u": "c. à c.",
+          "name": "de gingembre moulu"
+        },
+        {
+          "id": "curcuma",
+          "canon": "curcuma",
+          "q": 0.5,
+          "u": "c. à c.",
+          "name": "de curcuma"
+        },
+        {
+          "id": "poivre",
+          "canon": "poivre",
+          "q": 0.5,
+          "u": "c. à c.",
+          "name": "de poivre noir moulu"
+        },
+        {
+          "id": "sel",
+          "canon": "sel",
+          "q": 1,
+          "u": "c. à c.",
+          "name": "de sel fin",
+          "note": "à rectifier à la fin"
+        },
+        {
+          "id": "safran",
+          "canon": "safran",
+          "q": 1,
+          "u": "pincée",
+          "name": "de pistils de safran",
+          "note": "facultatif"
+        },
+        {
+          "id": "herbes",
+          "canon": "coriandre",
+          "q": 2,
+          "u": "c. à s.",
+          "name": "de coriandre et de persil frais hachés"
+        },
+        {
+          "id": "eau",
+          "canon": "eau",
+          "q": 500,
+          "u": "ml",
+          "name": "d'eau",
+          "note": "juste de quoi couvrir la viande"
+        }
+      ]
+    },
+    {
+      "group": "Légumes",
+      "items": [
+        {
+          "id": "citron",
+          "canon": "citron",
+          "q": 1,
+          "u": "",
+          "name": "citron",
+          "pl": "citrons",
+          "note": "pour l'eau citronnée des artichauts"
+        },
+        {
+          "id": "artichauts",
+          "canon": "artichaut",
+          "q": 6,
+          "u": "",
+          "name": "artichaut frais",
+          "pl": "artichauts frais",
+          "note": "ou le même nombre de fonds d'artichauts surgelés (6 fonds pèsent environ 350 g)"
+        },
+        {
+          "id": "petits-pois",
+          "canon": "petits-pois",
+          "q": 300,
+          "u": "g",
+          "name": "de petits pois écossés, frais ou surgelés"
+        }
+      ]
+    },
+    {
+      "group": "Finition et service",
+      "items": [
+        {
+          "id": "citron-confit",
+          "canon": "citron-confit",
+          "q": 0.5,
+          "u": "",
+          "name": "citron confit",
+          "pl": "citrons confits",
+          "note": "l'écorce seulement"
+        },
+        {
+          "id": "olives",
+          "canon": "olives",
+          "q": 100,
+          "u": "g",
+          "name": "d'olives violettes",
+          "note": "facultatives"
+        },
+        {
+          "id": "herbes-service",
+          "canon": "coriandre",
+          "q": null,
+          "u": "",
+          "name": "coriandre et persil hachés",
+          "note": "pour servir"
+        },
+        {
+          "id": "khobz",
+          "canon": "khobz",
+          "q": null,
+          "u": "",
+          "name": "pain (khobz)",
+          "note": "pour saucer"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "phase": "Préparation",
+      "title": "Prépare l'eau citronnée",
+      "text": "Remplis un grand bol d'eau froide. Presse {{citron:full}} et verse le jus dans l'eau. Garde le citron pressé pour frotter les artichauts.",
+      "timer": null,
+      "tip": "Frotte-toi aussi le bout des doigts avec un peu de citron : tes doigts ne noirciront pas (Cooking With Alia)."
+    },
+    {
+      "phase": "Préparation",
+      "title": "Nettoie les artichauts",
+      "text": "Avec un couteau à lame inox, retire les feuilles dures de {{artichauts:full}}, puis les feuilles tendres, jusqu'au cœur. Coupe la tige au ras du fond et pare le contour pour ne laisser aucun reste de feuille. Retire le foin avec une petite cuillère. Frotte chaque fond avec un morceau de citron et plonge-le aussitôt dans l'eau citronnée.",
+      "timer": null,
+      "tip": "Avec des fonds d'artichauts surgelés, saute cette étape : laisse-les au congélateur jusqu'au moment de les cuire (Rachida)."
+    },
+    {
+      "phase": "Préparation",
+      "title": "Hache oignon, ail et herbes",
+      "text": "Hache finement {{oignon:full}}. Écrase ou râpe {{ail:full}}. Hache la coriandre et le persil : il en faut {{herbes}}, plus un peu pour servir.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Fais revenir la viande dans les épices",
+      "text": "Dans une cocotte à fond épais, mets {{viande}} de viande en gros morceaux, l'oignon, l'ail et {{huile}} d'huile d'olive. Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{poivre}} de poivre, {{sel}} de sel, {{safran}} de safran si tu en mets, et les herbes hachées. Mélange bien pour que la viande s'imprègne des épices. Couvre et laisse revenir 10 minutes à feu doux, en remuant souvent.",
+      "timer": {
+        "min": 10,
+        "label": "Viande revenue",
+        "done": "La viande s'est imprégnée des épices : verse l'eau."
+      }
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Mouille et laisse mijoter 1 heure",
+      "text": "Verse {{eau}} d'eau : la viande doit être juste couverte, complète un peu si besoin. Porte à ébullition, couvre et baisse le feu. Laisse mijoter 1 heure à feu doux, en remuant de temps en temps. Si la sauce baisse trop, ajoute un peu d'eau.",
+      "timer": {
+        "min": 60,
+        "label": "Mijotage de la viande",
+        "done": "Pique un morceau avec la pointe d'un couteau : elle doit entrer facilement. Sinon, prolonge un peu la cuisson."
+      }
+    },
+    {
+      "phase": "Préparation",
+      "title": "Prépare le citron confit et les olives",
+      "text": "Pendant que la viande mijote, rince {{citron-confit:full}} pour enlever un peu de sel. Retire la pulpe et coupe l'écorce en fines lanières. Garde à portée de main {{olives}} d'olives violettes, si tu en mets.",
+      "timer": null
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Ajoute les artichauts et les petits pois frais",
+      "text": "Égoutte les fonds d'artichauts et rince-les. Pose-les sur la viande avec {{petits-pois}} de petits pois, s'ils sont frais. Si tes légumes sont surgelés, mets les fonds d'artichauts maintenant, sans les décongeler, et garde les petits pois pour l'étape suivante. La sauce doit couvrir les légumes à moitié : ajoute un peu d'eau si besoin. Couvre et laisse cuire 10 minutes à feu doux.",
+      "timer": {
+        "min": 10,
+        "label": "Artichauts à couvert",
+        "done": "Ajoute maintenant les petits pois surgelés, le citron confit et les olives."
+      }
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Termine à découvert",
+      "text": "Si tes petits pois sont surgelés, ajoute-les maintenant, sans les décongeler. Ajoute les lanières de citron confit et les olives. Laisse cuire 10 minutes à découvert, à feu doux. C'est prêt quand les artichauts sont tendres sous la pointe d'un couteau et que la sauce a réduit.",
+      "timer": {
+        "min": 10,
+        "label": "Fin de cuisson",
+        "done": "Artichauts tendres et sauce réduite ? Sinon, prolonge de quelques minutes."
+      }
+    },
+    {
+      "phase": "Cuisson",
+      "title": "Goûte et rectifie",
+      "text": "Goûte la sauce et rectifie le sel et le poivre. Elle doit être onctueuse, juste assez abondante pour napper : si elle est encore trop liquide, laisse-la réduire quelques minutes de plus à découvert.",
+      "timer": null
+    },
+    {
+      "phase": "Service",
+      "title": "Dresse le tajine",
+      "text": "Retire délicatement les fonds d'artichauts. Mets la viande au centre du plat et verse les petits pois dessus. Décore avec les fonds d'artichauts, bien en vue. Nappe de sauce, ajoute le citron confit et les olives, puis parsème de {{herbes-service}}.",
+      "timer": null
+    },
+    {
+      "phase": "Service",
+      "title": "Sers bien chaud",
+      "text": "Sers aussitôt, bien chaud, avec du {{khobz}} pour saucer.",
+      "timer": null
+    }
+  ],
+  "secrets": [
+    {
+      "text": "La chair de l'artichaut noircit au contact de l'air : épluche-le avec un couteau à lame inox et plonge aussitôt les fonds dans de l'eau citronnée.",
+      "source": "Choumicha, astuce « Autour de l'artichaut » ; Rachida ; Morocco World News ; Lalla Moulati"
+    },
+    {
+      "text": "Choisis des artichauts compacts, lourds dans la main, fermes et bien verts, aux feuilles serrées. Des feuilles ouvertes annoncent un artichaut trop mûr, dur, avec beaucoup de foin.",
+      "source": "Choumicha, « L'artichaut, un cœur tendre »"
+    },
+    {
+      "text": "Pour les petits pois frais, prends des cosses fermes, d'un vert intense, sans taches, et évite les pois jaunes. Non écossés, ils se gardent deux jours dans le bac à légumes du réfrigérateur.",
+      "source": "Choumicha, « Les petits pois, une saveur pleine de douceur »"
+    },
+    {
+      "text": "Avec des surgelés, sors les fonds d'artichauts et les petits pois du congélateur juste avant de les mettre dans la cocotte, sans les décongeler. S'ils ne sont pas lavés, rince-les vite dans une passoire.",
+      "source": "Rachida (Gâteau et cuisine Rachida)"
+    },
+    {
+      "text": "Les petits pois cuisent vite : une dizaine de minutes suffit. Avec des surgelés, ajoute-les seulement pour les 10 dernières minutes.",
+      "source": "MarocMama (petits pois frais ou surgelés ajoutés dans les 10 dernières minutes, au tajine) ; Bladi.net, Said A. (petits pois cuits 10 minutes)"
+    },
+    {
+      "text": "Les petits pois surgelés peuvent contenir des bactéries : ils doivent toujours être bien cuits avant d'être mangés.",
+      "source": "Food Standards Agency (Royaume-Uni), « Cooking your food »"
+    },
+    {
+      "text": "Pas besoin de beaucoup d'épices : gingembre, curcuma et poivre laissent toute la place au goût de la viande, des artichauts et des petits pois.",
+      "source": "Rachida ; mêmes épices de base chez Morocco World News, Cooking With Alia et Lalla Moulati"
+    },
+    {
+      "text": "Les légumes cuisent posés sur la viande : d'abord les petits pois, puis les artichauts par-dessus.",
+      "source": "Lalla Moulati ; Morocco World News (artichauts et petits pois posés sur le dessus)"
+    },
+    {
+      "text": "Rince le citron confit pour enlever un peu de sel et garde seulement l'écorce, en fines lanières.",
+      "source": "Cooking With Alia (n° 128 et n° 437) ; Bladi.net (écorce) ; My Moroccan Food (pulpe jetée)"
+    },
+    {
+      "text": "La sauce doit finir onctueuse et assez réduite : il en reste juste de quoi napper la viande et les légumes.",
+      "source": "Rachida ; MarocMama (sauce épaisse) ; Choumicha (cuisson jusqu'à réduction de la sauce)"
+    },
+    {
+      "text": "Pour la présentation, mets la viande au centre, les petits pois dessus et les fonds d'artichauts bien en vue.",
+      "source": "Rachida ; Bladi.net ; Cooking With Alia"
+    },
+    {
+      "text": "Au tajine en terre, Lalla Moulati étale des rondelles d'oignon au fond et pose la viande dessus : elle n'attache pas, et l'oignon qui confit parfume le plat.",
+      "source": "Lalla Moulati"
+    },
+    {
+      "text": "Tajine en terre : utilise un diffuseur de chaleur sur le gaz ou l'électrique, et commence à feu très doux. Une fois cuit, ne le pose jamais sur une surface froide comme le marbre ou le granit : il pourrait se fendre. Pose-le sur une planche en bois.",
+      "source": "My Moroccan Food, « Introduction to the Tagine Pot »"
+    },
+    {
+      "text": "Les restes : au réfrigérateur dans les 2 heures, dans une boîte couverte, et à manger dans les 48 heures. Réchauffe-les une seule fois, en remuant, jusqu'à ce qu'ils soient bien fumants partout.",
+      "source": "Food Standards Agency (Royaume-Uni) ; FDA (règle des 2 heures)"
+    }
+  ],
+  "mistakes": [
+    "Laisser les fonds d'artichauts à l'air : ils noircissent (Choumicha ; Rachida).",
+    "Laisser la sauce attacher : surveille le niveau d'eau et ajoutes-en un peu si besoin (Bladi.net ; Morocco World News ; Rachida ; MarocMama).",
+    "Oublier de rincer le citron confit : il est très salé (Cooking With Alia).",
+    "Servir sans goûter : rectifie le sel et le poivre à la fin (Cooking With Alia).",
+    "Ouvrir une cocotte-minute avant que toute la vapeur soit sortie (Rachida ; Cooking With Alia).",
+    "Poser un tajine en terre sur le feu sans diffuseur, ou le poser chaud sur un plan de travail froid (My Moroccan Food).",
+    "Laisser les restes plus de 2 heures à température ambiante (Food Standards Agency ; FDA)."
+  ],
+  "serving": "Bien chaud (Choumicha) et aussitôt (Cooking With Alia) : la viande au centre, les petits pois dessus, les fonds d'artichauts en décor et la sauce autour (Rachida ; Bladi.net ; Cooking With Alia). Au Maroc, le tajine est le plat principal du déjeuner, mangé avec du pain maison (Morocco World News). Rachida le sert avec du pain maison ou du matlou3 ; Cooking With Alia avec du pain marocain ou une baguette ; My Moroccan Food sert sa version végétale avec du couscous ou du pain.",
+  "variants": [
+    "Au tajine en terre (Lalla Moulati) : sur un diffuseur, fais revenir la viande avec un oignon émincé, l'ail, les épices, les herbes et l'huile. Retire-la, étale des rondelles d'oignon au fond, remets la viande dessus, puis les petits pois et les artichauts. Verse un verre d'eau mélangé à un peu de toutes les épices, ajoute un filet d'huile d'olive, ferme et laisse cuire doucement, sur la braise ou au gaz. Morocco World News compte environ 1 heure de cuisson au tajine ; MarocMama compte environ 2 heures et ajoute les petits pois dans les 10 dernières minutes.",
+    "À la cocotte-minute : la viande d'abord, 20 à 30 minutes à partir du sifflement (Bladi.net 20 ; Rachida 25 ; MarocMama et Cooking With Alia 30), puis les légumes, 10 à 20 minutes (Rachida 10 ; MarocMama 15 ; Bladi.net 20 ; Cooking With Alia 30). N'ouvre qu'une fois toute la vapeur sortie (Rachida ; Cooking With Alia).",
+    "Viande gardée au chaud (Choumicha, tajine de veau aux cardons et aux artichauts) : quand la viande est tendre, sors-la et couvre-la. Cuis les légumes 15 à 20 minutes à couvert dans la sauce avec le citron confit, puis ajoute les olives et l'huile d'olive pour 10 minutes. Remets la viande au moment de servir, dans un plat chaud.",
+    "Légumes cuits à part (Bladi.net, Said A.) : fonds d'artichauts cuits 15 à 20 minutes dans de l'eau bouillante salée avec un peu de sauce de la viande, petits pois cuits 10 minutes à l'eau, puis réunis avec la viande. Cooking With Alia (n° 128) fait cuire ses artichauts entiers dans de l'eau citronnée avant de les nettoyer.",
+    "Avec des fèves fraîches, à la place des petits pois (Bladi.net, Said A.) ou en plus (Lalla Moulati, 2016).",
+    "Avec deux pommes de terre coupées en longueur (Lalla Moulati, 2020), ou une carotte (MarocMama).",
+    "Avec une tomate hachée, cuite avec l'oignon et les épices (Rachida ; Lalla Moulati, 2016).",
+    "Une pointe de cannelle (Rachida), ou une cuillère à café de coriandre moulue (Cooking With Alia, n° 861).",
+    "Petits pois et artichauts surgelés trempés quelques minutes dans de l'eau tiède avant la cuisson, pour qu'ils arrivent à température ambiante (MarocMama).",
+    "Version végétale (My Moroccan Food) : sans viande, avec des petites pommes de terre et un bouillon de légumes ; les petits pois ne cuisent que 3 à 4 minutes à la fin."
+  ],
+  "sources": [
+    {
+      "name": "Lalla Moulati, « طريقة تحضير طاجين باللحم والجلبانة والقوق كيجي لذيذ » (tajine de viande aux petits pois et aux artichauts), 24 septembre 2017",
+      "url": "https://www.lalamoulati.net/84069.html",
+      "used_for": "Recette marocaine du plat exact : 1 kg de viande de bœuf ou d'agneau, 2 kg d'artichauts nettoyés, 1 kg de petits pois frais, 3 oignons, 3 gousses d'ail, poivre, sel, gingembre, curcuma, safran facultatif, coriandre et persil, un verre d'eau, un demi-verre d'huile. Viande revenue avec oignon, épices et herbes ; au tajine, oignon en rondelles au fond, petits pois puis artichauts sur la viande ; fonds gardés dans l'eau citronnée ; à la cocotte, viande d'abord puis légumes. Nom arabe du plat."
+    },
+    {
+      "name": "Lalla Moulati, « طريقة تحضير طاجين بالقوق والجلبانة والفول » (artichauts, petits pois et fèves), 29 octobre 2016",
+      "url": "https://www.lalamoulati.net/50632.html",
+      "used_for": "Variante aux fèves et à la tomate ; artichauts frottés au citron pour ne pas noircir ; légumes ajoutés quand la viande est presque cuite."
+    },
+    {
+      "name": "Lalla Moulati, « طريقة تحضير ألذ طاجين بالقوق وبطاطا وجلبانة » (artichauts, pommes de terre et petits pois), 6 janvier 2020",
+      "url": "https://www.lalamoulati.net/219017.html",
+      "used_for": "Variante aux pommes de terre ; oignons au fond du tajine, viande puis légumes par-dessus, cuisson à feu doux."
+    },
+    {
+      "name": "Bladi.net, « Tajine d'agneau aux fonds d'artichauts et petits pois », Said A., 30 octobre 2005 (mise à jour le 8 mars 2021)",
+      "url": "https://www.bladi.net/recettes/tajine-d-agneau-aux-fonds-d-artichauts-et-petits-pois.html",
+      "used_for": "Agneau, gingembre, safran, écorce de citron confit, olives ; viande couverte d'eau, eau ajoutée si besoin ; fonds plongés dans l'eau citronnée ou vinaigrée, cuits 15 à 20 minutes ; petits pois cuits 10 minutes ; fèves possibles."
+    },
+    {
+      "name": "Bladi.net, « Tajine de petits pois et artichauts », Laila M., 21 septembre 2005 (mise à jour le 8 mars 2021)",
+      "url": "https://www.bladi.net/recettes/tajine-de-petits-pois-et-artichauts.html",
+      "used_for": "600 g de gigot d'agneau, 500 g de petits pois surgelés, 6 artichauts, écorce d'un demi-citron confit, olives violettes, 3 gousses d'ail ; 10 minutes à feu doux, viande couverte d'eau ; cœurs et petits pois cuits ensemble ; olives et citron confit à la fin ; présentation viande, petits pois, cœurs en évidence."
+    },
+    {
+      "name": "Morocco World News, Layla Dahamou (Taroudant), « Moroccan Cuisine: A recipe for Tagine with artichoke and peas », 18 septembre 2013",
+      "url": "https://www.moroccoworldnews.com/2013/09/136571/moroccan-cuisine-a-recipe-for-tagine-with-artichoke-and-peas/",
+      "used_for": "Bœuf ou agneau, 2 oignons, 1 kg d'artichauts, 500 g de petits pois, 2 c. à s. de persil et coriandre, 1 c. à c. de gingembre, ½ c. à c. de poivre noir, 1 c. à c. de sel, ½ c. à c. de curcuma, safran, 3 gousses d'ail, ½ tasse d'huile d'olive, jus d'un citron ; fonds dans l'eau citronnée ; 10 minutes à couvert en remuant, petits pois et fonds posés dessus, environ 1 heure ; tajine du déjeuner, mangé avec du pain maison."
+    },
+    {
+      "name": "Cooking With Alia, « Tagine With Artichokes And Green Peas / طاجين القوق والبازلاء الخضراء » (n° 861)",
+      "url": "https://www.cookingwithalia.com/861-tagine-with-artichokes-and-green-peas/",
+      "used_for": "500 g de bœuf ou d'agneau (épaule), 1 kg d'artichauts frais, 200 g de petits pois, 1 oignon, 3 gousses d'ail, 1 c. à c. de gingembre et de curcuma, 5 c. à s. d'huile d'olive, ½ citron confit, 2 c. à s. d'herbes ; eau citronnée, foin retiré à la cuillère, citron sur les doigts ; fonds égouttés et rincés ; sauce à mi-hauteur des légumes ; cocotte-minute 30 + 30 minutes ; service viande, légumes dessus, sauce autour, avec du pain."
+    },
+    {
+      "name": "Cooking With Alia, « 128 – Tajine of Beef with Green Peas and Artichokes »",
+      "url": "https://www.cookingwithalia.com/tajine-of-beef-with-green-peas-and-artichoke/",
+      "used_for": "Bœuf avec os, 4 artichauts, petits pois surgelés « de préférence », 1 c. à c. de sel, ½ c. à c. de poivre, safran, 3 gousses d'ail ; viande couverte 10 minutes puis couverte d'eau ; goûter et rectifier ; citron confit rincé pour enlever le sel ; artichauts entiers cuits dans l'eau citronnée ; service avec du pain."
+    },
+    {
+      "name": "Cooking With Alia, « Beef Tagine with Green Peas / طاجين اللحم و الجلبانة » (n° 437)",
+      "url": "https://www.cookingwithalia.com/437-tagine-of-beef-with-green-peas/",
+      "used_for": "Tajine voisin aux petits pois seuls : citron confit sans pulpe, rincé, en fines lamelles ; olives violettes ; mot « الجلبانة » pour les petits pois."
+    },
+    {
+      "name": "My Moroccan Food (Nargisse Benkabbou), « Artichoke Tagine with Peas, Baby Potatoes and Preserved Lemon (vegan) », 5 novembre 2018",
+      "url": "https://www.mymoroccanfood.com/home/artichoke-tagine-with-peas-and-preserved-lemon-vegan",
+      "used_for": "« Traditionnellement, le tajine d'artichauts se prépare au Maroc avec de la viande et des petits pois » ; 10 fonds moyens = 600 g ; fonds cuits 20 à 25 minutes, petits pois 3 à 4 minutes ; artichauts surgelés possibles ; écorce de citron confit, pulpe jetée ; olives ; couscous ou pain."
+    },
+    {
+      "name": "My Moroccan Food (Nargisse Benkabbou), « Introduction to the Tagine Pot », 28 mai 2015",
+      "url": "https://www.mymoroccanfood.com/home/introduction-to-the-tagine-pot",
+      "used_for": "Tajine en terre : diffuseur sur le gaz ou l'électrique, départ à feu très doux, jamais sur une surface froide (marbre, granit), planche en bois."
+    },
+    {
+      "name": "Choumicha (Choumicha Chafay), « Tajine de cardons et d'artichauts », site officiel (copie archivée du 19 mai 2026)",
+      "url": "https://web.archive.org/web/20260519154807/https://www.choumicha.ma/recette/1065-tajine-de-cardons-et-dartichauts.html",
+      "used_for": "Tajine marocain de veau aux artichauts (6 personnes, 1 kg de veau, 1 h 30) : viande mijotée jusqu'à tendreté, artichauts citronnés, légumes cuits 15 à 20 minutes dans la sauce avec le citron confit, puis olives violettes et huile d'olive 10 minutes jusqu'à réduction ; service très chaud."
+    },
+    {
+      "name": "Choumicha, astuce « Autour de l'artichaut 1 » (copie archivée du 20 janvier 2022)",
+      "url": "https://web.archive.org/web/20220120043925/https://choumicha.ma/astuces/autour-de-lartichaut-1.html",
+      "used_for": "La chair de l'artichaut s'oxyde à l'air ; couteau à lame inox ; fonds plongés aussitôt dans l'eau citronnée."
+    },
+    {
+      "name": "Choumicha, « L'artichaut, un cœur tendre », rubrique Produits de saison (copie archivée du 30 mars 2015)",
+      "url": "https://web.archive.org/web/20150330073132/http://www.choumicha.ma:80/produits-de-saisons/lartichaut-un-coeur-tendre.html",
+      "used_for": "Choix de l'artichaut (compact, lourd, ferme, feuilles serrées ; feuilles ouvertes = dur, beaucoup de foin) ; épluché, dans l'eau citronnée ; le fond d'artichaut accompagne le tajine de viande."
+    },
+    {
+      "name": "Choumicha, « Les petits pois, une saveur pleine de douceur », rubrique Produits de saison (copie archivée du 30 mars 2015)",
+      "url": "https://web.archive.org/web/20150330072506/http://www.choumicha.ma:80/produits-de-saisons/les-petits-pois-une-saveur-pleine-de-douceur.html",
+      "used_for": "Choix des petits pois (cosse ferme, vert intense, pas de pois jaunes) ; deux jours au bac à légumes non écossés ; garniture traditionnelle des tajines."
+    },
+    {
+      "name": "MarocMama (Amanda Mouttaki, Américaine installée au Maroc, mari marocain), « Beef and Artichoke with Green Pea Tajine », 26 mai 2010 (mise à jour le 13 février 2022)",
+      "url": "https://marocmama.com/beef-and-artichoke-tajine/",
+      "used_for": "4 personnes : 1 lb de bœuf, 1 gros oignon, 4 gousses d'ail, ½ citron confit, 8 à 10 fonds, 1 tasse de petits pois frais ou surgelés ; surgelés trempés dans l'eau tiède ; cocotte : 60 à 90 minutes à couvert, puis légumes 20 minutes à découvert jusqu'à sauce épaisse ; tajine : environ 2 heures, petits pois dans les 10 dernières minutes, citron confit à la fin ; cocotte-minute 30 + 15 minutes ; préparation 15 minutes ; plat de printemps."
+    },
+    {
+      "name": "Gâteau et cuisine Rachida, « Tajine d'agneau aux artichauts et petits pois », 25 mars 2023 (mise à jour le 12 juillet 2025)",
+      "url": "https://gateauetcuisinerachida.com/tajine-d-agneau-aux-artichauts-et-petits-pois/",
+      "used_for": "6 personnes : 1,25 kg de gigot, 1 oignon, 1 tomate, 85 ml d'huile d'olive, 450 g de petits pois, 350 g de fonds (ou 6 à 10 fonds frais), 1 c. à c. de gingembre, de poivre, de curcuma et de sel, 600 ml d'eau ; nom « tajine jelbana » ; nettoyage des artichauts ; surgelés mis sans décongeler, rincés s'ils ne sont pas lavés ; viande 45 minutes à 1 heure au faitout ou au tajine, test au couteau ; cocotte-minute 25 + 10 minutes ; sauce onctueuse ; présentation ; pain maison ou matlou3 ; apprécié au Ramadan."
+    },
+    {
+      "name": "Cooking With Alia, page « About »",
+      "url": "https://www.cookingwithalia.com/about/",
+      "used_for": "Vérification : Alia partage la cuisine marocaine avec laquelle elle a grandi."
+    },
+    {
+      "name": "My Moroccan Food, page « About » (Nargisse Benkabbou)",
+      "url": "https://www.mymoroccanfood.com/about",
+      "used_for": "Vérification : élevée à Bruxelles dans une famille marocaine, ancienne cheffe exécutive de L'Mida à Marrakech, autrice de « Casablanca: My Moroccan Food »."
+    },
+    {
+      "name": "Food Standards Agency (Royaume-Uni), « Cooking your food », sur gov.uk",
+      "url": "https://www.gov.uk/government/publications/cooking-your-food/cooking-your-food",
+      "used_for": "Les légumes surgelés comme les petits pois peuvent contenir des bactéries et doivent être bien cuits ; restes au réfrigérateur dans les 2 heures, à manger sous 48 heures ; réchauffer une seule fois, jusqu'à ce que ce soit bien fumant partout, en remuant."
+    },
+    {
+      "name": "Food Standards Agency (Royaume-Uni), « How to chill, freeze and defrost food safely », sur gov.uk, publié le 18 décembre 2017",
+      "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+      "used_for": "Refroidir les plats cuits et les mettre au réfrigérateur dans les 1 à 2 heures, en portions plus petites ; réfrigérateur entre 0 et 5 °C ; restes sous 48 heures ou au congélateur."
+    },
+    {
+      "name": "FDA (États-Unis), « Are You Storing Food Safely? », contenu à jour au 18 janvier 2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely",
+      "used_for": "Règle des 2 heures à température ambiante, aussi pour les restes (1 heure au-dessus de 32 °C) ; aliments couverts au réfrigérateur."
+    }
+  ],
+  "discrepancies": [
+    "Viande : bœuf ou agneau (Lalla Moulati, Morocco World News, Cooking With Alia), agneau (Bladi.net, Rachida), veau (Choumicha, tajine aux cardons et artichauts), bœuf (MarocMama). Retenu : agneau ou veau halal, comme demandé, avec os (Cooking With Alia n° 128 ; Choumicha : gigot ou collier ; Rachida et Bladi.net : gigot).",
+    "Quantité de viande : ramenée à une personne, 113 g (MarocMama, 1 lb pour 4), 167 g (Choumicha, 1 kg pour 6), 208 g (Rachida, 1,25 kg pour 6), soit une médiane de 667 g pour 4 (calcul python). Les recettes sans nombre de parts donnent 500 g, 600 g, 680 g, 1 kg et 1,5 kg (médiane 680 g). Retenu : 700 g.",
+    "Artichauts : ramenés à une personne, 1 (Choumicha, avec des cardons), 1,33 (Rachida, 6 à 10 fonds pour 6), 2,25 (MarocMama, 8 à 10 fonds pour 4) ; My Moroccan Food en met 2,5 dans sa version sans viande, qui n'est pas comptée. Médiane : 5,3 artichauts pour 4 ; 6 est aussi le nombre le plus fréquent (Bladi.net, Choumicha, bas de la fourchette de Rachida). Retenu : 6 artichauts. Les recettes en poids (1 kg chez Cooking With Alia et Morocco World News, 2 kg chez Lalla Moulati et Bladi.net) comptent les artichauts avant épluchage.",
+    "Fonds surgelés : 6 fonds pèsent environ 350 g : My Moroccan Food donne 600 g pour 10 fonds moyens, soit 60 g par fond ; Rachida met 350 g de fonds surgelés ou 6 à 10 fonds frais.",
+    "Petits pois : 200 g pour 4 (My Moroccan Food, version sans viande), 450 g pour 6, soit 300 g pour 4 (Rachida) ; sans nombre de parts, 200 g (Cooking With Alia n° 861), 1 lb soit 454 g (Cooking With Alia n° 128), 500 g (Bladi.net, Laila M. ; Morocco World News) ; 1 tasse chez MarocMama, non convertie en grammes faute de source sur le poids. Ramené au poids de viande, la médiane donne 373 g pour 700 g (calcul python). Retenu : 300 g écossés.",
+    "Oignon : 1 (Cooking With Alia, deux recettes ; MarocMama ; Rachida), 2 (Morocco World News), 3 (Lalla Moulati), aucun (Bladi.net, deux recettes ; Choumicha). Retenu : 1 oignon moyen, la valeur la plus fréquente, haché finement comme chez Cooking With Alia (n° 861), Morocco World News, MarocMama et Rachida ; Lalla Moulati l'émince.",
+    "Ail : 1 gousse (Bladi.net, Said A.), 3 (Lalla Moulati, Bladi.net Laila M., Morocco World News, Cooking With Alia n° 861 et n° 128), 4 (MarocMama ; Choumicha pour 6). Retenu : 3 gousses, valeur médiane et la plus fréquente.",
+    "Huile : ramenée à 4 personnes, 50 ml (Choumicha), 57 ml (Rachida), 59 ml (MarocMama, ¼ de tasse en cocotte) : médiane 57 ml, soit environ 4 c. à s. (calcul python). Autres valeurs : 2 c. à s. (Cooking With Alia n° 128), 3 c. à s. (Bladi.net), 5 c. à s. (Cooking With Alia n° 861), ½ tasse soit environ 118 ml (Morocco World News), un demi-verre (Lalla Moulati). Retenu : 4 c. à s. d'huile d'olive, l'huile de la plupart des sources ; Lalla Moulati laisse le choix, Choumicha mélange tournesol et olive.",
+    "Épices : gingembre 1 c. à c. chez cinq sources (médiane 1 ; ¼ chez Cooking With Alia n° 128, 2 chez MarocMama) ; curcuma ½ c. à c. (médiane ; Morocco World News, MarocMama, Choumicha) ; poivre ½ c. à c. (Morocco World News, Cooking With Alia n° 128 ; médiane 0,58 avec MarocMama et Rachida ramenés à 4) ; sel 1 c. à c. (Morocco World News, Cooking With Alia n° 128, Rachida). Safran facultatif : une pincée chez Bladi.net et Cooking With Alia (n° 128), quelques pistils chez Morocco World News, facultatif chez Lalla Moulati, absent ailleurs.",
+    "Herbes : 2 c. à s. de persil et coriandre hachés (Morocco World News ; Cooking With Alia n° 861), une poignée (MarocMama), un peu (Lalla Moulati), un bouquet entier (Choumicha ; Cooking With Alia n° 128 et Rachida, coriandre seule). Retenu : 2 c. à s., plus un peu au service comme Cooking With Alia.",
+    "Eau : ramenée à 4 personnes, 400 ml (Rachida) et 667 ml (Choumicha) ; 500 ml au départ chez Cooking With Alia (n° 861) ; « couvrir d'eau » chez Bladi.net, Cooking With Alia (n° 128) et MarocMama. Retenu : 500 ml (médiane), juste de quoi couvrir la viande.",
+    "Citron confit : ½ (Bladi.net Laila M., Cooking With Alia n° 861, MarocMama, Choumicha), 1 (Bladi.net Said A. ; facultatif chez Cooking With Alia n° 128), absent chez Lalla Moulati, Morocco World News et Rachida. Retenu : ½, écorce seulement (Bladi.net ; My Moroccan Food), rincée (Cooking With Alia).",
+    "Olives : seulement chez Bladi.net (une poignée ; olives violettes) pour ce plat, et chez Choumicha (150 g pour 6, tajine aux cardons) et My Moroccan Food (150 g pour 4, version sans viande). Absentes chez Lalla Moulati, Morocco World News, Cooking With Alia, MarocMama et Rachida. Retenu : 100 g d'olives violettes facultatives (Choumicha ramené à 4).",
+    "Ordre des légumes : artichauts et petits pois ensemble (MarocMama, Bladi.net Laila M., Cooking With Alia n° 861, Lalla Moulati), petits pois d'abord puis artichauts (Cooking With Alia n° 128), légumes cuits à part (Bladi.net, Said A.), artichauts 20 à 25 minutes puis petits pois 3 à 4 minutes (My Moroccan Food). Retenu : 20 minutes pour les artichauts (Choumicha 15 à 20 ; My Moroccan Food 20 à 25 ; MarocMama environ 20 ; Bladi.net 15 à 20), avec les petits pois frais ; les petits pois surgelés seulement les 10 dernières minutes (MarocMama, au tajine ; Bladi.net, Said A., cuit ses petits pois 10 minutes).",
+    "Surgelés : mis sans décongeler (Rachida) ou trempés dans de l'eau tiède (MarocMama). Retenu : sans décongeler, plus simple ; le trempage est en variante.",
+    "Départ : 10 minutes à feu doux en remuant (Bladi.net Laila M., Morocco World News, Rachida, à couvert chez ces deux derniers ; Cooking With Alia n° 128 à feu moyen) ; Lalla Moulati fait bien revenir la viande ; Rachida saisit d'abord chaque morceau dans l'huile chaude. Retenu : 10 minutes à couvert à feu doux, en remuant souvent.",
+    "Mijotage de la viande : 40 minutes à feu moyen-vif (Cooking With Alia n° 128), 45 minutes à 1 heure (Rachida), environ 1 heure (Morocco World News), 60 à 90 minutes (MarocMama). Retenu : 1 heure à feu doux, puis vérifier à la pointe du couteau (Rachida).",
+    "Temps de cuisson : 90 minutes (10 + 60 + 10 + 10), comme Choumicha (1 h 30 pour son tajine de veau aux artichauts) ; MarocMama compte 80 à 110 minutes en cocotte et 1 h 10 sur sa fiche.",
+    "Bouillon de bœuf à la place de l'eau (MarocMama), cube de bouillon et colorant (facultatifs chez Lalla Moulati) : non retenus.",
+    "Unités : 1 lb = 453,6 g ; ½ tasse américaine ≈ 118 ml ; ¼ de tasse ≈ 59 ml ; ¼ de tasse + 2 c. à s. ≈ 89 ml ; 90 °F ≈ 32 °C (calculs python)."
+  ],
+  "unverified": [
+    "Choumicha : aucune recette écrite de ce plat exact n'a été trouvée dans les copies archivées de son site (étiquettes « Jelbana », « Petit pois » et « Coeurs d'artichaut » vérifiées). Sa page vidéo « Tajine de cardon, cœurs d'artichaut et petits pois » (7 juillet 2015) n'a pas de texte. choumicha.ma répond toujours par une erreur 525 : ses pages ont été lues sur web.archive.org.",
+    "Taste of Maroc n'a pas de recette de ce plat (plan du site archivé vérifié, 122 articles). The Spruce Eats (recette de Christine Benlafquih) et SBS Food interdisent les robots de Claude dans leur robots.txt : non consultés. chhiwat.com interdit tous les robots : non consulté.",
+    "Femmes du Maroc : sa recherche interne (« artichauts ») ne donne aucune recette de ce plat. Le360 (recherche interne interdite par son robots.txt) et Hespress : aucune recette trouvée avec l'outil de recherche.",
+    "Nom en darija : « tajine jelbana » (طاجين جلبانة) vient de Rachida, dont l'origine n'est pas confirmée (sa fiche de chakchouka est classée « algerian, Algerian woman, Moroccan ») ; aucun nom en lettres latines citant aussi l'artichaut (qoq) n'a été trouvé. Le nom arabe vient du titre de Lalla Moulati.",
+    "Poids de petits pois frais en cosses pour obtenir 300 g écossés : aucune source ne le donne.",
+    "Poids d'un artichaut frais et rendement en fond : non chiffrés par les sources ; seul le poids des fonds est connu (60 g par fond chez My Moroccan Food).",
+    "Temps de cuisson propre aux fonds d'artichauts surgelés en cocotte : aucune source ne le distingue des fonds frais (MarocMama et Rachida les cuisent de la même façon).",
+    "Temps de préparation : seule MarocMama le chiffre (15 minutes, avec des fonds déjà prêts) ; le temps de nettoyage d'artichauts frais n'est donné par aucune source.",
+    "Durée exacte au tajine en terre : environ 1 heure selon Morocco World News, environ 2 heures selon MarocMama ; Lalla Moulati ne la chiffre pas.",
+    "Lalla Moulati (2016) écrit « ربع كل جلبابة », sans doute une coquille pour un quart de kilo de petits pois : non confirmé. Ses mesures au verre (كاس) ne sont pas chiffrables.",
+    "Morocco World News (2013) ne chiffre pas la quantité de viande ; Bladi.net (Said A.) ne dit pas si ses 2 kg d'artichauts et de petits pois sont pesés avant ou après épluchage.",
+    "Aucune source ne rattache ce plat à une région précise du Maroc."
+  ]
+}

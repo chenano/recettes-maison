@@ -1,0 +1,414 @@
+{
+ "_slug": "dchicha",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Dchicha, soupe d'orge à la tomate",
+   "t": "Dchicha, barley and tomato soup"
+  },
+  "darija": {
+   "fr": "Dchicha (h'ssoua hamra)",
+   "t": "Dchicha (h'ssoua hamra)"
+  },
+  "tagline": {
+   "fr": "L'orge concassée qui mijote avec tomates, oignon et persil : une soupe veloutée et rassasiante, pour le petit-déjeuner, le dîner ou le ftour.",
+   "t": "Cracked barley simmered with tomatoes, onion and parsley: a velvety, filling soup for breakfast, dinner or iftar."
+  },
+  "region": {
+   "fr": "Dans beaucoup de foyers marocains ; la dchicha fait aussi partie du ftour des provinces du Sud",
+   "t": "In many Moroccan homes; dchicha is also part of the iftar in the southern provinces"
+  },
+  "occasion": {
+   "fr": "Petit-déjeuner ou dîner léger ; au ftour du Ramadan, parfois à la place de la harira",
+   "t": "Breakfast or a light dinner; at the Ramadan iftar, sometimes instead of harira"
+  },
+  "img_alt": {
+   "fr": "Soupe d'orge à la tomate dans la marmite",
+   "t": "Barley and tomato soup in the pot"
+  },
+  "serving": {
+   "fr": "Bien chaude, tout de suite, dans des bols, avec un filet d'huile d'olive si tu aimes (Choumicha ; MWN Lifestyle). Au petit-déjeuner ou en dîner léger (Taste of Maroc), et au ftour du Ramadan, parfois à la place de la harira (Lalla Moulati ; MWN Lifestyle ; Choumicha la classe dans ses recettes de Ramadan).",
+   "t": "Piping hot, straight away, in bowls, with a drizzle of olive oil if you like (Choumicha; MWN Lifestyle). For breakfast or a light dinner (Taste of Maroc), and at the Ramadan iftar, sometimes instead of harira (Lalla Moulati; MWN Lifestyle; Choumicha lists it among her Ramadan recipes)."
+  },
+  "ing.0.group": {
+   "fr": "Soupe",
+   "t": "Soup"
+  },
+  "ing.orge.name": {
+   "fr": "de dchicha d'orge (orge concassée)",
+   "t": "barley dchicha (cracked barley)"
+  },
+  "ing.orge.note": {
+   "fr": "grosse ou moyenne",
+   "t": "coarse or medium"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon moyen",
+   "t": "medium onion"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons moyens",
+   "t": "medium onions"
+  },
+  "ing.oignon.note": {
+   "fr": "à râper",
+   "t": "to be grated"
+  },
+  "ing.tomates.name": {
+   "fr": "tomate bien mûre",
+   "t": "very ripe tomato"
+  },
+  "ing.tomates.pl": {
+   "fr": "tomates bien mûres",
+   "t": "very ripe tomatoes"
+  },
+  "ing.tomates.note": {
+   "fr": "à râper, sans la peau",
+   "t": "to be grated, without the skin"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat haché",
+   "t": "chopped flat-leaf parsley"
+  },
+  "ing.persil.note": {
+   "fr": "ou moitié persil, moitié coriandre",
+   "t": "or half parsley, half coriander"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "turmeric"
+  },
+  "ing.sel.name": {
+   "fr": "de sel",
+   "t": "salt"
+  },
+  "ing.sel.note": {
+   "fr": "à rectifier en fin de cuisson",
+   "t": "adjust at the end of cooking"
+  },
+  "ing.poivre.name": {
+   "fr": "de poivre noir moulu",
+   "t": "ground black pepper"
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "water"
+  },
+  "ing.concentre.name": {
+   "fr": "de concentré de tomate",
+   "t": "tomato purée"
+  },
+  "ing.concentre.note": {
+   "fr": "facultatif, pour la couleur",
+   "t": "optional, for colour"
+  },
+  "ing.eau-chaude.name": {
+   "fr": "eau chaude",
+   "t": "hot water"
+  },
+  "ing.eau-chaude.note": {
+   "fr": "pour allonger, si besoin",
+   "t": "to thin the soup, if needed"
+  },
+  "ing.1.group": {
+   "fr": "Pour servir",
+   "t": "To serve"
+  },
+  "ing.huile-service.name": {
+   "fr": "huile d'olive",
+   "t": "olive oil"
+  },
+  "ing.huile-service.note": {
+   "fr": "un filet, facultatif",
+   "t": "a drizzle, optional"
+  },
+  "equipment.0": {
+   "fr": "Grande marmite (3 litres au moins)",
+   "t": "Large pot (at least 3 litres)"
+  },
+  "equipment.1": {
+   "fr": "Grand saladier et passoire fine, pour laver l'orge",
+   "t": "Large mixing bowl and fine sieve, for washing the barley"
+  },
+  "equipment.2": {
+   "fr": "Râpe",
+   "t": "Grater"
+  },
+  "equipment.3": {
+   "fr": "Planche et couteau",
+   "t": "Chopping board and knife"
+  },
+  "equipment.4": {
+   "fr": "Cuillère en bois",
+   "t": "Wooden spoon"
+  },
+  "equipment.5": {
+   "fr": "Louche",
+   "t": "Ladle"
+  },
+  "steps.0.title": {
+   "fr": "Lave l'orge",
+   "t": "Wash the barley"
+  },
+  "steps.0.text": {
+   "fr": "Mets {{orge}} de dchicha dans un grand saladier d'eau et remue avec la main. Égoutte dans une passoire fine. Recommence jusqu'à ce que l'eau reste claire, puis laisse égoutter.",
+   "t": "Put {{orge}} dchicha in a large bowl of water and swirl it with your hand. Drain in a fine sieve. Repeat until the water stays clear, then leave to drain."
+  },
+  "steps.0.tip": {
+   "fr": "La grosse dchicha garde des grains fermes sous la dent ; la moyenne donne une soupe plus fondante et cuit plus vite (Taste of Maroc).",
+   "t": "Coarse dchicha keeps its grains firm to the bite; medium gives a softer soup and cooks faster (Taste of Maroc)."
+  },
+  "steps.1.title": {
+   "fr": "Râpe l'oignon",
+   "t": "Grate the onion"
+  },
+  "steps.1.text": {
+   "fr": "Épluche et râpe finement {{oignon:full}}.",
+   "t": "Peel and finely grate {{oignon:full}}."
+  },
+  "steps.2.title": {
+   "fr": "Râpe les tomates",
+   "t": "Grate the tomatoes"
+  },
+  "steps.2.text": {
+   "fr": "Râpe {{tomates:full}} côté chair et jette la peau.",
+   "t": "Grate {{tomates:full}}, flesh side against the grater, and throw away the skin."
+  },
+  "steps.2.img.alt": {
+   "fr": "Tomate râpée sur une râpe",
+   "t": "Grated tomato on a grater"
+  },
+  "steps.2.img.caption": {
+   "fr": "Râper la tomate",
+   "t": "Grating the tomato"
+  },
+  "steps.3.title": {
+   "fr": "Hache les herbes",
+   "t": "Chop the herbs"
+  },
+  "steps.3.text": {
+   "fr": "Hache finement du persil plat : il en faut {{persil}} une fois haché. Tu peux mettre moitié persil, moitié coriandre.",
+   "t": "Finely chop some flat-leaf parsley: you need {{persil}} once chopped. You can use half parsley, half coriander."
+  },
+  "steps.3.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Parsley chopped with a knife on a board"
+  },
+  "steps.3.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Chopping the herbs"
+  },
+  "steps.4.title": {
+   "fr": "Fais revenir l'oignon",
+   "t": "Soften the onion"
+  },
+  "steps.4.text": {
+   "fr": "Chauffe {{huile}} d'huile d'olive dans une grande marmite, sur feu moyen. Ajoute l'oignon râpé et remue jusqu'à ce qu'il devienne translucide.",
+   "t": "Heat {{huile}} olive oil in a large pot over medium heat. Add the grated onion and stir until it turns translucent."
+  },
+  "steps.5.title": {
+   "fr": "Ajoute tomates, herbes, épices et eau",
+   "t": "Add the tomatoes, herbs, spices and water"
+  },
+  "steps.5.text": {
+   "fr": "Ajoute les tomates râpées, le persil, {{curcuma}} de curcuma, {{sel}} de sel et {{poivre}} de poivre. Verse {{eau}} d'eau et porte à ébullition sur feu vif.",
+   "t": "Add the grated tomatoes, the parsley, {{curcuma}} turmeric, {{sel}} salt and {{poivre}} pepper. Pour in {{eau}} water and bring to the boil over high heat."
+  },
+  "steps.6.title": {
+   "fr": "Verse l'orge",
+   "t": "Add the barley"
+  },
+  "steps.6.text": {
+   "fr": "Dès que ça bout, verse l'orge égouttée en remuant. Si tu en mets, ajoute {{concentre}} de concentré de tomate. Baisse le feu.",
+   "t": "As soon as it boils, pour in the drained barley, stirring. If using, add {{concentre}} tomato purée. Turn the heat down."
+  },
+  "steps.7.title": {
+   "fr": "Laisse mijoter en remuant",
+   "t": "Simmer, stirring"
+  },
+  "steps.7.text": {
+   "fr": "Laisse cuire à feu doux 30 minutes, en remuant de temps en temps pour que l'orge n'attache pas au fond. Si la soupe épaissit trop, ajoute un peu d'{{eau-chaude}}.",
+   "t": "Cook over low heat for 30 minutes, stirring from time to time so that the barley doesn't stick to the bottom. If the soup gets too thick, add a little {{eau-chaude}}."
+  },
+  "steps.7.tip": {
+   "fr": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "t": "Don't let it boil too hard: the soup can boil over."
+  },
+  "steps.7.timer.label": {
+   "fr": "Cuisson de l'orge",
+   "t": "Cooking the barley"
+  },
+  "steps.7.timer.done": {
+   "fr": "Goûte quelques grains : ils doivent être tendres.",
+   "t": "Taste a few grains: they should be tender."
+  },
+  "steps.8.title": {
+   "fr": "Vérifie la cuisson",
+   "t": "Check that it is cooked"
+  },
+  "steps.8.text": {
+   "fr": "Goûte quelques grains : ils doivent être tendres, et la soupe veloutée, à peine épaisse. Sinon, prolonge la cuisson en remuant et goûte de nouveau : la grosse dchicha cuit plus longtemps. Rectifie le sel.",
+   "t": "Taste a few grains: they should be tender, and the soup velvety, barely thick. If not, keep cooking, stirring, and taste again: coarse dchicha takes longer to cook. Adjust the salt."
+  },
+  "steps.9.title": {
+   "fr": "Sers aussitôt",
+   "t": "Serve straight away"
+  },
+  "steps.9.text": {
+   "fr": "Sers la soupe tout de suite, bien chaude, avec un filet d'{{huile-service}} si tu aimes. En attendant, l'orge continue de gonfler et la soupe épaissit.",
+   "t": "Serve the soup immediately, piping hot, with a drizzle of {{huile-service}} if you like. If it stands, the barley keeps swelling and the soup thickens."
+  },
+  "secrets.0.text": {
+   "fr": "Lave la dchicha dans plusieurs eaux, jusqu'à ce que l'eau ne soit plus trouble, puis égoutte-la.",
+   "t": "Wash the dchicha in several changes of water, until the water is no longer cloudy, then drain it."
+  },
+  "secrets.0.source": {
+   "fr": "Taste of Maroc ; Choumicha ; Lalla Moulati",
+   "t": "Taste of Maroc; Choumicha; Lalla Moulati"
+  },
+  "secrets.1.text": {
+   "fr": "La grosse orge concassée, la « dchicha », garde des grains fermes ; la moyenne (belboula) donne une soupe plus fondante. La grosse cuit plus longtemps et demande un peu plus d'eau.",
+   "t": "Coarse cracked barley, “dchicha”, keeps its grains firm; medium (belboula) gives a softer soup. The coarse kind takes longer to cook and needs a little more water."
+  },
+  "secrets.1.source": {
+   "fr": "Taste of Maroc ; Choumicha prend de la semoule d'orge moyenne",
+   "t": "Taste of Maroc; Choumicha uses medium barley semolina"
+  },
+  "secrets.2.text": {
+   "fr": "Râpe l'oignon et les tomates, et jette la peau des tomates.",
+   "t": "Grate the onion and the tomatoes, and throw away the tomato skins."
+  },
+  "secrets.2.source": {
+   "fr": "Choumicha ; Taste of Maroc ; Cooking with Alia",
+   "t": "Choumicha; Taste of Maroc; Cooking with Alia"
+  },
+  "secrets.3.text": {
+   "fr": "Verse l'orge quand le bouillon bout.",
+   "t": "Add the barley when the broth is boiling."
+  },
+  "secrets.3.source": {
+   "fr": "Choumicha (h'ssoua hamra et h'ssoua aux crevettes) ; Lalla Moulati (2016) fait d'abord bouillir l'eau avec les aromates",
+   "t": "Choumicha (h'ssoua hamra and prawn h'ssoua); Lalla Moulati (2016) first boils the water with the aromatics"
+  },
+  "secrets.4.text": {
+   "fr": "Remue de temps en temps et rajoute de l'eau si elle baisse : l'orge attache au fond et peut brûler.",
+   "t": "Stir from time to time and add more water if the level drops: barley sticks to the bottom and can burn."
+  },
+  "secrets.4.source": {
+   "fr": "Lalla Moulati (2016) ; Choumicha ; Cooking with Alia ; Taste of Maroc",
+   "t": "Lalla Moulati (2016); Choumicha; Cooking with Alia; Taste of Maroc"
+  },
+  "secrets.5.text": {
+   "fr": "Ne fais pas bouillir trop fort : la soupe peut déborder.",
+   "t": "Don't let it boil too hard: the soup can boil over."
+  },
+  "secrets.5.source": {
+   "fr": "Taste of Maroc ; Choumicha cuit à feu doux",
+   "t": "Taste of Maroc; Choumicha cooks it over low heat"
+  },
+  "secrets.6.text": {
+   "fr": "Le concentré de tomate est facultatif, mais il donne une belle couleur et plus de goût de tomate.",
+   "t": "Tomato purée is optional, but it gives a lovely colour and more tomato flavour."
+  },
+  "secrets.6.source": {
+   "fr": "Taste of Maroc ; Choumicha et Cooking with Alia en mettent",
+   "t": "Taste of Maroc; Choumicha and Cooking with Alia use it"
+  },
+  "secrets.7.text": {
+   "fr": "Pour les herbes : persil seul, ou persil et coriandre.",
+   "t": "For the herbs: parsley alone, or parsley and coriander."
+  },
+  "secrets.7.source": {
+   "fr": "Persil : Taste of Maroc, Choumicha ; persil et coriandre : Choumicha (h'ssoua aux crevettes), Cooking with Alia",
+   "t": "Parsley: Taste of Maroc, Choumicha; parsley and coriander: Choumicha (prawn h'ssoua), Cooking with Alia"
+  },
+  "secrets.8.text": {
+   "fr": "Sers la soupe dès qu'elle est prête : en attendant, l'orge gonfle et la soupe épaissit.",
+   "t": "Serve the soup as soon as it is ready: if it waits, the barley swells and the soup thickens."
+  },
+  "secrets.8.source": {
+   "fr": "Taste of Maroc ; Choumicha (« servir la h'ssoua aussitôt »)",
+   "t": "Taste of Maroc; Choumicha (“serve the h'ssoua straight away”)"
+  },
+  "secrets.9.text": {
+   "fr": "Un filet d'huile d'olive sur chaque bol, au moment de servir.",
+   "t": "A drizzle of olive oil on each bowl, just before serving."
+  },
+  "secrets.9.source": {
+   "fr": "Choumicha (soupes d'orge au thym) ; MWN Lifestyle (dchicha)",
+   "t": "Choumicha (barley soups with thyme); MWN Lifestyle (dchicha)"
+  },
+  "secrets.10.text": {
+   "fr": "Pour réchauffer, allonge avec un peu d'eau, rectifie l'assaisonnement et porte à ébullition en remuant.",
+   "t": "To reheat, thin with a little water, adjust the seasoning and bring to the boil, stirring."
+  },
+  "secrets.10.source": {
+   "fr": "Taste of Maroc ; USDA (les soupes se réchauffent jusqu'à pleine ébullition)",
+   "t": "Taste of Maroc; USDA (soups should be reheated to a rolling boil)"
+  },
+  "secrets.11.text": {
+   "fr": "Mets les restes au réfrigérateur dans les 2 heures, en petites boîtes fermées, et mange-les dans les 3 jours.",
+   "t": "Put leftovers in the fridge within 2 hours, in small closed containers, and eat them within 3 days."
+  },
+  "secrets.11.source": {
+   "fr": "ANSES (2 heures, 3 jours, petites portions) ; USDA (2 heures, 3 à 4 jours)",
+   "t": "ANSES (2 hours, 3 days, small portions); USDA (2 hours, 3 to 4 days)"
+  },
+  "mistakes.0": {
+   "fr": "Ne pas laver l'orge (Taste of Maroc, Choumicha et Lalla Moulati la lavent toujours).",
+   "t": "Not washing the barley (Taste of Maroc, Choumicha and Lalla Moulati always wash it)."
+  },
+  "mistakes.1": {
+   "fr": "Laisser cuire sans remuer : l'orge attache et brûle au fond (Lalla Moulati ; Cooking with Alia).",
+   "t": "Leaving it to cook without stirring: the barley sticks and burns on the bottom (Lalla Moulati; Cooking with Alia)."
+  },
+  "mistakes.2": {
+   "fr": "Cuire à feu trop fort : la soupe déborde (Taste of Maroc).",
+   "t": "Cooking over too high a heat: the soup boils over (Taste of Maroc)."
+  },
+  "mistakes.3": {
+   "fr": "Faire attendre la soupe avant de servir : elle devient trop épaisse (Taste of Maroc ; Choumicha).",
+   "t": "Letting the soup stand before serving: it becomes too thick (Taste of Maroc; Choumicha)."
+  },
+  "mistakes.4": {
+   "fr": "Réchauffer sans rajouter d'eau (Taste of Maroc).",
+   "t": "Reheating without adding more water (Taste of Maroc)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser les restes plus de 2 heures à température ambiante (ANSES ; USDA).",
+   "t": "Leaving leftovers at room temperature for more than 2 hours (ANSES; USDA)."
+  },
+  "variants.0": {
+   "fr": "Au lait, la h'ssoua belboula au lait (« hessoua blanche » chez Cooking with Alia) : l'orge cuit d'abord dans l'eau avec un peu d'huile d'olive, du sel, du poivre et du cumin, en remuant ; on ajoute le lait à la fin et on laisse cuire encore un peu. Lalla Moulati (2014) : 250 g d'orge, 1,5 l d'eau, 2 c. à s. d'huile, 30 min de cuisson avec du thym ajouté à mi-cuisson, puis 1/4 l de lait et 10 min. Cooking with Alia : lait ajouté après 15 min, puis 10 min, thym séché émietté dessus. Taste of Maroc : 30 à 40 min, puis lait, beurre et lait concentré non sucré, cumin au service.",
+   "t": "With milk, h'ssoua belboula with milk (“white hessoua” at Cooking with Alia): the barley first cooks in water with a little olive oil, salt, pepper and cumin, stirring; the milk goes in at the end and the soup cooks a little longer. Lalla Moulati (2014): 250 g barley, 1.5 l water, 2 tbsp oil, 30 min cooking with thyme added halfway through, then 1/4 l milk and 10 min. Cooking with Alia: milk added after 15 min, then 10 min, with dried thyme crumbled on top. Taste of Maroc: 30 to 40 min, then milk, butter and evaporated milk, with cumin when serving."
+  },
+  "variants.1": {
+   "fr": "Avec un peu de viande halal : fais revenir de l'agneau ou du bœuf en petits dés avec l'oignon, puis laisse cuire le bouillon 15 à 20 minutes avant d'ajouter l'orge (Taste of Maroc : 85 g pour 4). Choumicha met 250 g de poitrine d'agneau pour 6, revenue 5 minutes.",
+   "t": "With a little halal meat: brown some lamb or beef, cut into small dice, with the onion, then let the broth cook for 15 to 20 minutes before adding the barley (Taste of Maroc: 85 g for 4). Choumicha uses 250 g lamb breast for 6, browned for 5 minutes."
+  },
+  "variants.2": {
+   "fr": "Aux crevettes : Choumicha fait un bouillon avec les têtes et les carapaces, fait revenir les crevettes 1 minute dans l'huile et les réserve, ajoute laurier, harissa, persil et coriandre, puis remet les crevettes dans la soupe chaude juste avant de servir. Laisse-les jusqu'à ce que leur chair soit ferme, nacrée et opaque (FDA : 63 °C à cœur). Garde les crevettes dans la partie la plus froide du réfrigérateur jusqu'à la cuisson, comme l'ANSES le recommande pour les viandes et les poissons.",
+   "t": "With prawns: Choumicha makes a stock with the heads and shells, fries the prawns for 1 minute in the oil and sets them aside, adds bay leaf, harissa, parsley and coriander, then puts the prawns back into the hot soup just before serving. Leave them in until their flesh is firm, pearly and opaque (FDA: 63 °C in the centre). Keep the prawns in the coldest part of the fridge until you cook them, as ANSES recommends for meat and fish."
+  },
+  "variants.3": {
+   "fr": "Aux herbes, sans tomate : l'eau bout 10 minutes avec du thym, du fliou (menthe pouliot), du céleri, de l'ail en chemise, du gingembre et du curcuma, puis on y verse la dchicha (Lalla Moulati, 2016). Choumicha fait une soupe d'orge au thym et à l'ail, avec nigelle et graines de cresson, ou avec un peu de millet.",
+   "t": "With herbs, no tomato: the water boils for 10 minutes with thyme, fliou (pennyroyal), celery, garlic in its skin, ginger and turmeric, then the dchicha goes in (Lalla Moulati, 2016). Choumicha makes a barley soup with thyme and garlic, with nigella seeds and cress seeds, or with a little millet."
+  },
+  "variants.4": {
+   "fr": "Aux légumes : navet, carottes, courgettes, chou et tomates, au ftour à la place de la harira (Lalla Moulati, 2020).",
+   "t": "With vegetables: turnip, carrots, courgettes, cabbage and tomatoes, at iftar instead of harira (Lalla Moulati, 2020)."
+  },
+  "variants.5": {
+   "fr": "Plus relevée : Taste of Maroc ajoute 1 c. à c. de gingembre moulu pour 4 ; Lalla Moulati en met aussi dans sa dchicha aux herbes.",
+   "t": "Spicier: Taste of Maroc adds 1 tsp ground ginger for 4; Lalla Moulati also puts some in her herb dchicha."
+  },
+  "variants.6": {
+   "fr": "Tchicha de blé : à Ouarzazate, la tchicha est une soupe de blé (Hespress, 2021).",
+   "t": "Wheat tchicha: in Ouarzazate, tchicha is a wheat soup (Hespress, 2021)."
+  }
+ }
+}

@@ -1,0 +1,686 @@
+{
+ "_slug": "double-cheeseburger-smash",
+ "_langue": "en",
+ "textes": {
+  "title": {
+   "fr": "Double cheeseburger smash",
+   "t": "Double smash cheeseburger"
+  },
+  "tagline": {
+   "fr": "Des boules de bœuf écrasées très fines dans une poêle brûlante : une croûte bien grillée, du cheddar fondu, un pain moelleux. La vraie recette américaine, en version halal.",
+   "t": "Balls of beef smashed very thin in a scorching-hot pan: a well-browned crust, melted cheddar, a soft bun. The real American recipe, in a halal version."
+  },
+  "region": {
+   "fr": "États-Unis",
+   "t": "United States"
+  },
+  "occasion": {
+   "fr": "Repas rapide, entre amis",
+   "t": "A quick meal, with friends"
+  },
+  "serving": {
+   "fr": "Tout de suite, dès que le burger est monté.",
+   "t": "Straight away, as soon as the burger is assembled."
+  },
+  "notes.0.title": {
+   "fr": "La règle d'or",
+   "t": "The golden rule"
+  },
+  "notes.0.text": {
+   "fr": "Du bœuf, du sel, du poivre. Pas d'œuf, pas de chapelure, pas d'oignon ni d'épices dans la viande : sinon c'est une kefta, pas un burger.",
+   "t": "Beef, salt, pepper. No egg, no breadcrumbs, no onion or spices in the meat: otherwise it's kefta, not a burger."
+  },
+  "notes.1.title": {
+   "fr": "Chez le boucher (halal)",
+   "t": "At the (halal) butcher's"
+  },
+  "notes.1.items.0": {
+   "fr": "Demande du paleron ou de la basse côte, hachés devant toi le jour même.",
+   "t": "Ask for blade or chuck, minced in front of you on the same day."
+  },
+  "notes.1.items.1": {
+   "fr": "Nature : sans oignon, sans persil, sans épices.",
+   "t": "Plain: no onion, no parsley, no spices."
+  },
+  "notes.1.items.2": {
+   "fr": "Environ 20 % de gras. Si le morceau est trop maigre, demande-lui d'ajouter du gras de bœuf (chehma) : c'est ce gras qui rend le burger juteux.",
+   "t": "About 20% fat. If the cut is too lean, ask the butcher to add some beef fat (chehma): it's this fat that makes the burger juicy."
+  },
+  "notes.1.items.3": {
+   "fr": "Pas de bacon : le cheeseburger classique n'en a pas besoin.",
+   "t": "No bacon: a classic cheeseburger doesn't need it."
+  },
+  "notes.1.items.4": {
+   "fr": "Si tu veux être strict : fromage avec mention halal ou « coagulant microbien » (pas de présure animale), et pain sans alcool dans la liste des ingrédients.",
+   "t": "If you want to be strict: cheese labelled halal or “microbial coagulant” (no animal rennet), and bread with no alcohol in the list of ingredients."
+  },
+  "notes.2.title": {
+   "fr": "Le montage, de bas en haut",
+   "t": "Assembly, from bottom to top"
+  },
+  "notes.2.items.0": {
+   "fr": "Pain du bas, face grillée, avec 1 c. à soupe de sauce.",
+   "t": "Bottom bun: 1 tbsp sauce on the toasted side."
+  },
+  "notes.2.items.1": {
+   "fr": "1 feuille de salade pliée.",
+   "t": "1 folded lettuce leaf."
+  },
+  "notes.2.items.2": {
+   "fr": "1 tranche de tomate de 5 mm.",
+   "t": "1 slice of tomato, 5 mm thick."
+  },
+  "notes.2.items.3": {
+   "fr": "Le premier steak avec son cheddar, puis le deuxième.",
+   "t": "The first patty with its cheddar, then the second."
+  },
+  "notes.2.items.4": {
+   "fr": "2 rondelles fines d'oignon.",
+   "t": "2 thin onion slices."
+  },
+  "notes.2.items.5": {
+   "fr": "4 lamelles de cornichon.",
+   "t": "4 gherkin slices."
+  },
+  "notes.2.items.6": {
+   "fr": "Pain du haut, face grillée, avec 1 c. à soupe de sauce.",
+   "t": "Top bun: 1 tbsp sauce on the toasted side."
+  },
+  "ing.0.group": {
+   "fr": "Viande",
+   "t": "Meat"
+  },
+  "ing.boeuf.name": {
+   "fr": "de bœuf haché, environ 20 % de gras",
+   "t": "minced beef, about 20% fat"
+  },
+  "ing.boeuf.note": {
+   "fr": "2 boules de 80 g par burger",
+   "t": "2 balls of 80 g per burger"
+  },
+  "ing.1.group": {
+   "fr": "Pain et fromage",
+   "t": "Buns and cheese"
+  },
+  "ing.pains.name": {
+   "fr": "pain à burger moelleux au sésame (ou brioché)",
+   "t": "soft sesame burger bun (or brioche bun)"
+  },
+  "ing.pains.pl": {
+   "fr": "pains à burger moelleux au sésame (ou briochés)",
+   "t": "soft sesame burger buns (or brioche buns)"
+  },
+  "ing.cheddar.name": {
+   "fr": "tranche de cheddar spécial burger (celui qui fond bien)",
+   "t": "slice of burger cheddar (the kind that melts well)"
+  },
+  "ing.cheddar.pl": {
+   "fr": "tranches de cheddar spécial burger (celui qui fond bien)",
+   "t": "slices of burger cheddar (the kind that melts well)"
+  },
+  "ing.2.group": {
+   "fr": "Légumes",
+   "t": "Vegetables"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon blanc",
+   "t": "white onion"
+  },
+  "ing.oignon.note": {
+   "fr": "2 rondelles fines par burger",
+   "t": "2 thin slices per burger"
+  },
+  "ing.salade.name": {
+   "fr": "laitue iceberg, ou romaine",
+   "t": "iceberg lettuce, or romaine"
+  },
+  "ing.salade.note": {
+   "fr": "1 feuille par burger",
+   "t": "1 leaf per burger"
+  },
+  "ing.tomate.name": {
+   "fr": "tomate ronde, mûre mais bien ferme",
+   "t": "round tomato, ripe but nice and firm"
+  },
+  "ing.tomate.pl": {
+   "fr": "tomates rondes, mûres mais bien fermes",
+   "t": "round tomatoes, ripe but nice and firm"
+  },
+  "ing.tomate.note": {
+   "fr": "1 tranche par burger, 2 bonnes tranches par tomate",
+   "t": "1 slice per burger, 2 good slices per tomato"
+  },
+  "ing.cornichons.name": {
+   "fr": "bocal de cornichons",
+   "t": "jar of gherkins"
+  },
+  "ing.cornichons.note": {
+   "fr": "pour la sauce et la garniture",
+   "t": "for the sauce and the topping"
+  },
+  "ing.3.group": {
+   "fr": "Sauce",
+   "t": "Sauce"
+  },
+  "ing.mayo.name": {
+   "fr": "de mayonnaise",
+   "t": "mayonnaise"
+  },
+  "ing.ketchup.name": {
+   "fr": "de ketchup",
+   "t": "ketchup"
+  },
+  "ing.moutarde.name": {
+   "fr": "de moutarde",
+   "t": "mustard"
+  },
+  "ing.corn-haches.name": {
+   "fr": "de cornichons hachés très fin",
+   "t": "very finely chopped gherkins"
+  },
+  "ing.paprika.name": {
+   "fr": "de paprika doux",
+   "t": "sweet paprika"
+  },
+  "ing.4.group": {
+   "fr": "Le reste",
+   "t": "Everything else"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre, pour les pains",
+   "t": "butter, for the buns"
+  },
+  "ing.huile.name": {
+   "fr": "Un filet d'huile neutre (tournesol)",
+   "t": "A drizzle of neutral oil (sunflower)"
+  },
+  "ing.sel-poivre.name": {
+   "fr": "Sel fin et poivre noir du moulin",
+   "t": "Fine salt and freshly ground black pepper"
+  },
+  "equipment.0": {
+   "fr": "Une poêle épaisse en fonte ou en inox, ou une plancha. Pas d'antiadhésif : il n'est pas fait pour le feu vif.",
+   "t": "A heavy cast-iron or stainless steel frying pan, or a plancha. No non-stick: it isn't made for high heat."
+  },
+  "equipment.1": {
+   "fr": "Une spatule en métal, large et rigide.",
+   "t": "A wide, stiff metal spatula."
+  },
+  "equipment.2": {
+   "fr": "Du papier cuisson, en carrés d'environ 20 cm.",
+   "t": "Baking paper, cut into squares of about 20 cm."
+  },
+  "equipment.3": {
+   "fr": "Une balance de cuisine.",
+   "t": "Kitchen scales."
+  },
+  "equipment.4": {
+   "fr": "Une planche et un couteau bien aiguisé.",
+   "t": "A chopping board and a sharp knife."
+  },
+  "equipment.5": {
+   "fr": "Un bol, une cuillère à soupe et une cuillère à café.",
+   "t": "A bowl, a tablespoon and a teaspoon."
+  },
+  "equipment.6": {
+   "fr": "Du papier absorbant.",
+   "t": "Kitchen paper."
+  },
+  "steps.0.title": {
+   "fr": "La sauce",
+   "t": "Make the sauce"
+  },
+  "steps.0.text.0": {
+   "fr": "Hache des cornichons très fin, en dés de 2 à 3 mm, jusqu'à en avoir {{corn-haches}}.",
+   "t": "Chop some gherkins very finely, into 2 to 3 mm dice, until you have {{corn-haches}}."
+  },
+  "steps.0.text.1": {
+   "fr": "Mets dans un bol {{mayo}} de mayonnaise, {{ketchup}} de ketchup, {{moutarde}} de moutarde, les cornichons hachés et {{paprika}} de paprika doux.",
+   "t": "Put {{mayo}} mayonnaise, {{ketchup}} ketchup, {{moutarde}} mustard, the chopped gherkins and {{paprika}} sweet paprika in a bowl."
+  },
+  "steps.0.text.2": {
+   "fr": "Mélange jusqu'à ce que la couleur soit uniforme, sans traces blanches ni rouges.",
+   "t": "Mix until the colour is even, with no white or red streaks."
+  },
+  "steps.0.text.3": {
+   "fr": "Couvre et mets au frigo : elle repose pendant que tu prépares le reste.",
+   "t": "Cover and put in the fridge: it rests while you prepare everything else."
+  },
+  "steps.0.tip.l": {
+   "fr": "Bon à savoir",
+   "t": "Good to know"
+  },
+  "steps.0.tip.t": {
+   "fr": "Toutes les cuillères sont rases. Version express : ketchup et moutarde, le duo classique.",
+   "t": "All spoon measures are level. Quick version: ketchup and mustard, the classic pair."
+  },
+  "steps.1.title": {
+   "fr": "L'oignon",
+   "t": "Slice the onion"
+  },
+  "steps.1.text.0": {
+   "fr": "Épluche l'oignon blanc et coupe 2 rondelles très fines (2 mm) par burger, au milieu de l'oignon, là où elles sont les plus larges.",
+   "t": "Peel the white onion and cut 2 very thin slices (2 mm) per burger from the middle of the onion, where they are widest."
+  },
+  "steps.1.text.1": {
+   "fr": "Sépare chaque rondelle en anneaux.",
+   "t": "Separate each slice into rings."
+  },
+  "steps.1.text.2": {
+   "fr": "Trop fort pour toi ? Laisse les anneaux 10 min dans un bol d'eau froide, puis sèche-les bien dans du papier absorbant.",
+   "t": "Too strong for you? Leave the rings in a bowl of cold water for 10 min, then dry them well in kitchen paper."
+  },
+  "steps.1.text.3": {
+   "fr": "Garde le reste de l'oignon pour une autre recette.",
+   "t": "Keep the rest of the onion for another recipe."
+  },
+  "steps.1.timer.label": {
+   "fr": "Trempage de l'oignon",
+   "t": "Soaking the onion"
+  },
+  "steps.1.timer.done": {
+   "fr": "Égoutte l'oignon et sèche-le bien.",
+   "t": "Drain the onion and dry it well."
+  },
+  "steps.2.title": {
+   "fr": "La salade",
+   "t": "Prepare the lettuce"
+  },
+  "steps.2.text.0": {
+   "fr": "Détache 1 feuille d'iceberg (ou de romaine) par burger.",
+   "t": "Pull off 1 iceberg (or romaine) leaf per burger."
+  },
+  "steps.2.text.1": {
+   "fr": "Lave-les, puis sèche-les à fond avec du papier absorbant : une salade mouillée ramollit le pain.",
+   "t": "Wash the leaves, then dry them thoroughly with kitchen paper: wet lettuce makes the bun soggy."
+  },
+  "steps.2.text.2": {
+   "fr": "Plie chaque feuille à la taille du pain et garde-les au frais.",
+   "t": "Fold each leaf to the size of the bun and keep them cool."
+  },
+  "steps.3.title": {
+   "fr": "La tomate",
+   "t": "Slice the tomato"
+  },
+  "steps.3.text.0": {
+   "fr": "Prends {{tomate:full}}.",
+   "t": "Take {{tomate:full}}."
+  },
+  "steps.3.text.1": {
+   "fr": "Coupe 1 tranche d'environ 5 mm par burger, au milieu de la tomate, là où les tranches sont les plus larges (2 bonnes tranches par tomate).",
+   "t": "Cut 1 slice about 5 mm thick per burger from the middle of the tomato, where the slices are widest (2 good slices per tomato)."
+  },
+  "steps.3.text.2": {
+   "fr": "Garde le reste pour une salade.",
+   "t": "Keep the rest for a salad."
+  },
+  "steps.4.title": {
+   "fr": "Les cornichons",
+   "t": "Slice the gherkins"
+  },
+  "steps.4.text.0": {
+   "fr": "Coupe 4 fines lamelles dans la longueur par burger, soit 1 à 2 cornichons selon leur taille.",
+   "t": "Cut 4 thin slices lengthways per burger, which is 1 to 2 gherkins depending on their size."
+  },
+  "steps.4.text.1": {
+   "fr": "Tu peux aussi les couper en rondelles.",
+   "t": "You can also cut them into rounds."
+  },
+  "steps.4.text.2": {
+   "fr": "Pose-les sur du papier absorbant.",
+   "t": "Lay them on kitchen paper."
+  },
+  "steps.5.title": {
+   "fr": "Les boules de viande",
+   "t": "Shape the beef balls"
+  },
+  "steps.5.text.0": {
+   "fr": "Pèse des boules de 80 g, 2 par burger, soit {{boeuf}} en tout. Sans balance, coupe la viande en parts égales.",
+   "t": "Weigh out 80 g balls, 2 per burger, which makes {{boeuf}} in all. Without scales, divide the meat into equal portions."
+  },
+  "steps.5.text.1": {
+   "fr": "Roule-les sans tasser, juste assez pour qu'elles tiennent.",
+   "t": "Roll them without packing them tight, just enough for them to hold together."
+  },
+  "steps.5.text.2": {
+   "fr": "Pas de sel, pas d'épices.",
+   "t": "No salt, no spices."
+  },
+  "steps.5.text.3": {
+   "fr": "Pose-les sur une assiette et garde-les au frigo jusqu'au moment de cuire.",
+   "t": "Put them on a plate and keep them in the fridge until it's time to cook."
+  },
+  "steps.5.text.4": {
+   "fr": "Lave-toi les mains.",
+   "t": "Wash your hands."
+  },
+  "steps.6.title": {
+   "fr": "Le poste de cuisson",
+   "t": "Set up the cooking station"
+  },
+  "steps.6.text.0": {
+   "fr": "À côté de la poêle : le sel fin, le poivre, la spatule et des carrés de papier cuisson.",
+   "t": "Next to the pan: the fine salt, the pepper, the spatula and squares of baking paper."
+  },
+  "steps.6.text.1": {
+   "fr": "Sors les tranches de cheddar de leur emballage ({{cheddar}}).",
+   "t": "Take the cheddar slices out of their wrapping ({{cheddar}})."
+  },
+  "steps.6.text.2": {
+   "fr": "Ouvre les pains en deux.",
+   "t": "Split the buns in half."
+  },
+  "steps.6.text.3": {
+   "fr": "Garde à portée de main la sauce, la salade, la tomate, l'oignon et les cornichons.",
+   "t": "Keep the sauce, lettuce, tomato, onion and gherkins within reach."
+  },
+  "steps.6.tip.l": {
+   "fr": "Pourquoi ?",
+   "t": "Why?"
+  },
+  "steps.6.tip.t": {
+   "fr": "Une fournée ne dure que 3 à 4 minutes : tout doit être prêt avant d'allumer le feu.",
+   "t": "A batch takes only 3 to 4 minutes: everything must be ready before you turn on the heat."
+  },
+  "steps.7.title": {
+   "fr": "Toaster les pains",
+   "t": "Toast the buns"
+  },
+  "steps.7.dur": {
+   "fr": "1 min",
+   "t": "1 min"
+  },
+  "steps.7.text.0": {
+   "fr": "Poêle à feu moyen.",
+   "t": "Pan over medium heat."
+  },
+  "steps.7.text.1": {
+   "fr": "Étale {{beurre}} de beurre sur les faces coupées (5 g par pain).",
+   "t": "Spread {{beurre}} butter on the cut sides (5 g per bun)."
+  },
+  "steps.7.text.2": {
+   "fr": "Pose les moitiés face coupée contre la poêle pendant environ 1 min, jusqu'à ce qu'elles soient dorées.",
+   "t": "Place the halves cut side down in the pan for about 1 min, until golden."
+  },
+  "steps.7.text.3": {
+   "fr": "Réserve-les face grillée vers le haut.",
+   "t": "Set them aside, toasted side up."
+  },
+  "steps.7.text.4": {
+   "fr": "Essuie la poêle avec du papier absorbant bien plié, car elle est chaude : à feu vif, le beurre brûlerait.",
+   "t": "Wipe the pan with well-folded kitchen paper, as it is hot: over high heat, the butter would burn."
+  },
+  "steps.7.timer.label": {
+   "fr": "Pains",
+   "t": "Buns"
+  },
+  "steps.7.timer.done": {
+   "fr": "Faces dorées ? Retire les pains.",
+   "t": "Cut sides golden? Take the buns out."
+  },
+  "steps.8.title": {
+   "fr": "Garnir les pains",
+   "t": "Dress the buns"
+  },
+  "steps.8.text.0": {
+   "fr": "Sur chaque pain du bas : 1 c. à soupe de sauce étalée jusqu'aux bords, 1 feuille de salade, puis 1 tranche de tomate.",
+   "t": "On each bottom bun: 1 tbsp sauce spread right to the edges, 1 lettuce leaf, then 1 tomato slice."
+  },
+  "steps.8.text.1": {
+   "fr": "Sur chaque pain du haut : 1 c. à soupe de sauce.",
+   "t": "On each top bun: 1 tbsp sauce."
+  },
+  "steps.8.text.2": {
+   "fr": "Les steaks iront directement dessus en sortant de la poêle.",
+   "t": "The patties will go straight on top as they come out of the pan."
+  },
+  "steps.8.tip.l": {
+   "fr": "Bon à savoir",
+   "t": "Good to know"
+  },
+  "steps.8.tip.t": {
+   "fr": "Il restera un petit fond de sauce, c'est normal.",
+   "t": "There will be a little sauce left over; that's normal."
+  },
+  "steps.9.title": {
+   "fr": "Chauffer la poêle",
+   "t": "Heat the pan"
+  },
+  "steps.9.dur": {
+   "fr": "3 à 4 min",
+   "t": "3 to 4 min"
+  },
+  "steps.9.text.0": {
+   "fr": "Feu vif, poêle vide, pendant 3 à 4 min.",
+   "t": "High heat, empty pan, for 3 to 4 min."
+  },
+  "steps.9.text.1": {
+   "fr": "Allume la hotte ou ouvre la fenêtre : ça va fumer.",
+   "t": "Turn on the extractor fan or open the window: it's going to smoke."
+  },
+  "steps.9.text.2": {
+   "fr": "Juste avant de poser la viande, ajoute un filet d'huile neutre.",
+   "t": "Just before adding the meat, add a drizzle of neutral oil."
+  },
+  "steps.9.text.3": {
+   "fr": "C'est prêt quand l'huile ondule et fume légèrement.",
+   "t": "It's ready when the oil shimmers and smokes slightly."
+  },
+  "steps.9.tip.l": {
+   "fr": "Attention",
+   "t": "Careful"
+  },
+  "steps.9.tip.t": {
+   "fr": "Pas de poêle antiadhésive : elle n'est pas faite pour le feu vif.",
+   "t": "No non-stick pan: it isn't made for high heat."
+  },
+  "steps.9.timer.label": {
+   "fr": "Préchauffage",
+   "t": "Preheating"
+  },
+  "steps.9.timer.done": {
+   "fr": "La poêle est très chaude : ajoute l'huile.",
+   "t": "The pan is very hot: add the oil."
+  },
+  "steps.10.title": {
+   "fr": "Écraser",
+   "t": "Smash"
+  },
+  "steps.10.text.0": {
+   "fr": "Sors du frigo les boules que tu vas cuire.",
+   "t": "Take the balls you are about to cook out of the fridge."
+  },
+  "steps.10.text.1": {
+   "fr": "Pose 1 ou 2 boules dans la poêle, bien espacées. Une fois écrasé, chaque steak fait 13 à 14 cm de large : ils ne doivent pas se toucher. Sur une plancha, tu peux en faire plus.",
+   "t": "Put 1 or 2 balls in the pan, well spaced out. Once smashed, each patty is 13 to 14 cm across: they mustn't touch. On a plancha, you can do more."
+  },
+  "steps.10.text.2": {
+   "fr": "Pose un carré de papier cuisson sur la boule et écrase fort avec la spatule, tout de suite. Appuie avec l'autre main sur la spatule, ou avec le fond d'une casserole.",
+   "t": "Put a square of baking paper on the ball and smash it hard with the spatula, straight away. Press on the spatula with your other hand, or use the bottom of a saucepan."
+  },
+  "steps.10.text.3": {
+   "fr": "Vise environ 0,5 cm d'épaisseur, un peu plus large que le pain : le steak rétrécit à la cuisson.",
+   "t": "Aim for about 0.5 cm thick, a little wider than the bun: the patty shrinks as it cooks."
+  },
+  "steps.10.text.4": {
+   "fr": "Retire le papier. Ensuite, on n'appuie plus jamais.",
+   "t": "Remove the paper. After that, never press again."
+  },
+  "steps.10.tip.l": {
+   "fr": "Pourquoi une seule fois ?",
+   "t": "Why only once?"
+  },
+  "steps.10.tip.t": {
+   "fr": "Si tu appuies plus tard, le jus sort du steak.",
+   "t": "If you press later, the juices run out of the patty."
+  },
+  "steps.11.title": {
+   "fr": "Saler et poivrer",
+   "t": "Season with salt and pepper"
+  },
+  "steps.11.text.0": {
+   "fr": "Tout de suite après avoir écrasé : une bonne pincée de sel fin, lâchée d'une vingtaine de centimètres de haut pour couvrir jusqu'aux bords.",
+   "t": "Straight after smashing: a good pinch of fine salt, dropped from about twenty centimetres up so that it covers right to the edges."
+  },
+  "steps.11.text.1": {
+   "fr": "Puis 1 ou 2 tours de moulin à poivre.",
+   "t": "Then 1 or 2 turns of the pepper mill."
+  },
+  "steps.11.text.2": {
+   "fr": "Une seule face suffit : le steak est très fin.",
+   "t": "One side is enough: the patty is very thin."
+  },
+  "steps.11.text.3": {
+   "fr": "Si tu cuis en plusieurs fournées, assaisonne chaque steak au moment où tu l'écrases.",
+   "t": "If you cook in several batches, season each patty as you smash it."
+  },
+  "steps.11.tip.l": {
+   "fr": "Pourquoi pas avant ?",
+   "t": "Why not before?"
+  },
+  "steps.11.tip.t": {
+   "fr": "Le sel mélangé à la viande crue dissout certaines protéines, qui se collent entre elles : le steak devient serré et élastique comme une saucisse.",
+   "t": "Salt mixed into raw meat dissolves some of the proteins, which then stick together: the patty becomes dense and springy, like a sausage."
+  },
+  "steps.12.title": {
+   "fr": "Cuire la première face",
+   "t": "Cook the first side"
+  },
+  "steps.12.dur": {
+   "fr": "2 min",
+   "t": "2 min"
+  },
+  "steps.12.text.0": {
+   "fr": "Ne touche à rien pendant environ 2 min.",
+   "t": "Don't touch anything for about 2 min."
+  },
+  "steps.12.text.1": {
+   "fr": "C'est prêt à retourner quand les bords sont brun foncé et croustillants, et que le dessus devient gris sur le pourtour.",
+   "t": "It's ready to flip when the edges are dark brown and crisp, and the top is turning grey around the edge."
+  },
+  "steps.12.timer.label": {
+   "fr": "Première face",
+   "t": "First side"
+  },
+  "steps.12.timer.done": {
+   "fr": "Bords bien bruns ? Retourne les steaks.",
+   "t": "Edges well browned? Flip the patties."
+  },
+  "steps.13.title": {
+   "fr": "Retourner et ajouter le cheddar",
+   "t": "Flip and add the cheddar"
+  },
+  "steps.13.dur": {
+   "fr": "30 s à 1 min",
+   "t": "30 s to 1 min"
+  },
+  "steps.13.text.0": {
+   "fr": "Glisse la spatule sous le steak en raclant fort le fond de la poêle : la croûte doit rester collée au steak.",
+   "t": "Slide the spatula under the patty, scraping the bottom of the pan hard: the crust must stay stuck to the patty."
+  },
+  "steps.13.text.1": {
+   "fr": "Retourne-le.",
+   "t": "Flip it."
+  },
+  "steps.13.text.2": {
+   "fr": "Tu l'aimes plus salé ? Mets une petite pincée de sel sur cette face.",
+   "t": "Like it saltier? Add a small pinch of salt on this side."
+  },
+  "steps.13.text.3": {
+   "fr": "Pose tout de suite 1 tranche de cheddar sur chaque steak.",
+   "t": "Immediately put 1 slice of cheddar on each patty."
+  },
+  "steps.13.text.4": {
+   "fr": "Laisse 30 s à 1 min, jusqu'à ce que le fromage fonde. À cette épaisseur, le steak est cuit à cœur.",
+   "t": "Leave for 30 s to 1 min, until the cheese melts. At this thickness, the patty is cooked through."
+  },
+  "steps.13.timer.label": {
+   "fr": "Fromage",
+   "t": "Cheese"
+  },
+  "steps.13.timer.done": {
+   "fr": "Le fromage a fondu ? Sors les steaks.",
+   "t": "Has the cheese melted? Take the patties out."
+  },
+  "steps.14.title": {
+   "fr": "Monter le burger",
+   "t": "Build the burger"
+  },
+  "steps.14.text.0": {
+   "fr": "Pose le premier steak-fromage sur un pain du bas garni, puis le deuxième par-dessus.",
+   "t": "Place the first cheese-topped patty on a dressed bottom bun, then the second one on top."
+  },
+  "steps.14.text.1": {
+   "fr": "Ajoute 2 rondelles d'oignon, puis 4 lamelles de cornichon.",
+   "t": "Add 2 onion slices, then 4 gherkin slices."
+  },
+  "steps.14.text.2": {
+   "fr": "Ferme avec le pain du haut, face sauce vers le bas.",
+   "t": "Close with the top bun, sauce side down."
+  },
+  "steps.14.text.3": {
+   "fr": "Mange tout de suite.",
+   "t": "Eat straight away."
+  },
+  "steps.15.title": {
+   "fr": "Fournée suivante",
+   "t": "Cook the next batch"
+  },
+  "steps.15.text.0": {
+   "fr": "S'il reste des boules : racle la poêle avec la spatule pour enlever les restes collés, sinon ils brûlent.",
+   "t": "If there are balls left: scrape the pan with the spatula to remove any stuck-on bits, otherwise they burn."
+  },
+  "steps.15.text.1": {
+   "fr": "Remets un filet d'huile et attends qu'elle fume légèrement.",
+   "t": "Add another drizzle of oil and wait until it smokes slightly."
+  },
+  "steps.15.text.2": {
+   "fr": "Reprends à l'étape « Écraser », jusqu'à ce que tous les steaks soient cuits.",
+   "t": "Start again from the “Smash” step, until all the patties are cooked."
+  },
+  "secrets.0.text": {
+   "fr": "On n'écrase qu'une fois, tout de suite après avoir posé la boule : après, le jus s'en va.",
+   "t": "Smash only once, straight after putting the ball in the pan: after that, the juices escape."
+  },
+  "secrets.1.text": {
+   "fr": "On sale seulement le dessus, juste après avoir écrasé, jamais la viande crue à l'avance.",
+   "t": "Salt only the top, just after smashing, never the raw meat in advance."
+  },
+  "secrets.2.text": {
+   "fr": "Une poêle en fonte très chaude, sans antiadhésif : c'est la croûte qui fait le goût.",
+   "t": "A very hot cast-iron pan, no non-stick: the crust is what gives the flavour."
+  },
+  "secrets.3.text": {
+   "fr": "On racle fort sous le steak au moment de le retourner, pour garder toute la croûte.",
+   "t": "Scrape hard under the patty when you flip it, to keep all the crust."
+  },
+  "secrets.4.text": {
+   "fr": "Le gras du bœuf (environ 20 %) fait le burger juteux : demande-le à ton boucher.",
+   "t": "The beef fat (about 20%) makes the burger juicy: ask your butcher for it."
+  },
+  "mistakes.0": {
+   "fr": "Saler la viande à l'avance : elle devient élastique comme une saucisse.",
+   "t": "Salting the meat in advance: it turns springy, like a sausage."
+  },
+  "mistakes.1": {
+   "fr": "Appuyer encore sur le steak : on n'écrase qu'une fois, au début, sinon le jus s'en va.",
+   "t": "Pressing the patty again: smash only once, at the start, or the juices escape."
+  },
+  "mistakes.2": {
+   "fr": "Mettre trop de steaks à la fois : la poêle refroidit et la viande bout au lieu de griller.",
+   "t": "Putting too many patties in at once: the pan cools down and the meat boils instead of browning."
+  },
+  "mistakes.3": {
+   "fr": "Une poêle pas assez chaude : pas de croûte.",
+   "t": "A pan that isn't hot enough: no crust."
+  },
+  "mistakes.4": {
+   "fr": "Une salade mal séchée : le pain devient mou.",
+   "t": "Lettuce that isn't properly dried: the bun goes soggy."
+  },
+  "mistakes.5": {
+   "fr": "Attendre avant de manger : un smash burger se mange tout de suite.",
+   "t": "Waiting before eating: a smash burger is eaten straight away."
+  }
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "_slug": "tajine-kefta-oeufs",
+ "_ingredients": {
+  "viande": {
+   "q": 450,
+   "u": "g",
+   "fr": "de viande hachée halal (bœuf, agneau ou un mélange des deux)"
+  },
+  "oignon-kefta": {
+   "q": 1,
+   "u": "",
+   "fr": "petit oignon, râpé / petits oignons, râpés",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "persil-kefta": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de persil plat haché"
+  },
+  "coriandre-kefta": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de coriandre fraîche hachée"
+  },
+  "paprika-kefta": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de paprika doux"
+  },
+  "cumin-kefta": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de cumin moulu"
+  },
+  "sel-kefta": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de sel fin"
+  },
+  "poivre-kefta": {
+   "q": 0.5,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "piment-kefta": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de piment de Cayenne"
+  },
+  "tomates": {
+   "q": 1,
+   "u": "kg",
+   "fr": "de tomates fraîches bien mûres"
+  },
+  "huile": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive"
+  },
+  "oignon-sauce": {
+   "q": 1,
+   "u": "",
+   "fr": "oignon moyen, haché finement / oignons moyens, hachés finement",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "ail": {
+   "q": 4,
+   "u": "",
+   "fr": "gousse d'ail, écrasée / gousses d'ail, écrasées",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "paprika-sauce": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de paprika doux"
+  },
+  "cumin-sauce": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de cumin moulu"
+  },
+  "sel-sauce": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de sel fin"
+  },
+  "poivre-sauce": {
+   "q": 0.25,
+   "u": "c. à c.",
+   "fr": "de poivre noir moulu"
+  },
+  "piment-sauce": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de piment de Cayenne"
+  },
+  "persil-sauce": {
+   "q": 2,
+   "u": "c. à s.",
+   "fr": "de persil plat haché"
+  },
+  "coriandre-sauce": {
+   "q": 2,
+   "u": "c. à s.",
+   "fr": "de coriandre fraîche hachée"
+  },
+  "eau": {
+   "q": null,
+   "u": "",
+   "fr": "eau"
+  },
+  "oeufs": {
+   "q": 4,
+   "u": "",
+   "fr": "œuf / œufs",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "sel-oeufs": {
+   "q": null,
+   "u": "",
+   "fr": "sel fin"
+  },
+  "coriandre-deco": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de coriandre fraîche ciselée"
+  },
+  "khobz": {
+   "q": null,
+   "u": "",
+   "fr": "khobz (pain marocain)"
+  }
+ },
+ "textes": {
+  "title": "Tajine de kefta aux œufs",
+  "darija": "Tajine kefta mkaouara bel bid",
+  "tagline": "De petites boulettes aux herbes et au cumin qui mijotent dans une sauce tomate relevée, des œufs au jaune coulant, et du khobz pour tout saucer.",
+  "region": "Maroc (aucune région d'origine précise dans les sources consultées)",
+  "occasion": "Repas familial simple et rapide, à partager autour du tajine",
+  "serving": "Sers aussitôt, dans le tajine ou la sauteuse de cuisson posé au milieu de la table. La tradition est de manger ensemble directement dans le plat, à la main, avec des morceaux de khobz pour attraper les boulettes, la sauce et le jaune coulant (Taste of Maroc, Amour de cuisine, My Moroccan Food). Un thé à la menthe l'accompagne bien (Taste of Maroc, Cooking With Alia).",
+  "ing.0.group": "Kefta (boulettes)",
+  "ing.viande.name": "de viande hachée halal (bœuf, agneau ou un mélange des deux)",
+  "ing.viande.note": "pas trop maigre : 15 à 20 % de matière grasse",
+  "ing.oignon-kefta.name": "petit oignon, râpé",
+  "ing.oignon-kefta.pl": "petits oignons, râpés",
+  "ing.persil-kefta.name": "de persil plat haché",
+  "ing.coriandre-kefta.name": "de coriandre fraîche hachée",
+  "ing.paprika-kefta.name": "de paprika doux",
+  "ing.cumin-kefta.name": "de cumin moulu",
+  "ing.sel-kefta.name": "de sel fin",
+  "ing.poivre-kefta.name": "de poivre noir moulu",
+  "ing.piment-kefta.name": "de piment de Cayenne",
+  "ing.1.group": "Sauce tomate",
+  "ing.tomates.name": "de tomates fraîches bien mûres",
+  "ing.huile.name": "d'huile d'olive",
+  "ing.oignon-sauce.name": "oignon moyen, haché finement",
+  "ing.oignon-sauce.pl": "oignons moyens, hachés finement",
+  "ing.ail.name": "gousse d'ail, écrasée",
+  "ing.ail.pl": "gousses d'ail, écrasées",
+  "ing.paprika-sauce.name": "de paprika doux",
+  "ing.cumin-sauce.name": "de cumin moulu",
+  "ing.sel-sauce.name": "de sel fin",
+  "ing.sel-sauce.note": "à ajuster en goûtant",
+  "ing.poivre-sauce.name": "de poivre noir moulu",
+  "ing.piment-sauce.name": "de piment de Cayenne",
+  "ing.piment-sauce.note": "ou 2 petits piments forts entiers",
+  "ing.persil-sauce.name": "de persil plat haché",
+  "ing.coriandre-sauce.name": "de coriandre fraîche hachée",
+  "ing.eau.name": "eau",
+  "ing.eau.note": "seulement si la sauce attache",
+  "ing.2.group": "Finition et service",
+  "ing.oeufs.name": "œuf",
+  "ing.oeufs.pl": "œufs",
+  "ing.oeufs.note": "fermiers (beldi) de préférence",
+  "ing.sel-oeufs.name": "sel fin",
+  "ing.sel-oeufs.note": "une petite pincée sur chaque œuf",
+  "ing.coriandre-deco.name": "de coriandre fraîche ciselée",
+  "ing.khobz.name": "khobz (pain marocain)",
+  "ing.khobz.note": "à volonté, pour saucer",
+  "equipment.0": "Tajine en terre ou en céramique, de taille moyenne à grande",
+  "equipment.1": "Diffuseur de chaleur si tu ne cuisines pas au gaz",
+  "equipment.2": "Ou une sauteuse profonde avec couvercle",
+  "equipment.3": "Râpe à gros trous",
+  "equipment.4": "Grand saladier",
+  "equipment.5": "Cuillère en bois",
+  "steps.0.title": "Pétris la kefta",
+  "steps.0.text": "Dans un saladier, mets {{viande:full}}, {{oignon-kefta:full}}, {{persil-kefta:full}} et {{coriandre-kefta:full}}. Ajoute {{paprika-kefta:full}}, {{cumin-kefta:full}}, {{sel-kefta:full}}, {{poivre-kefta:full}} et {{piment-kefta:full}}. Pétris à la main 1 à 2 minutes, juste assez pour bien répartir les épices, sans tasser. N'ajoute ni œuf ni chapelure.",
+  "steps.1.title": "Roule de petites boulettes",
+  "steps.1.text": "Forme des boulettes de la taille d'une cerise, environ 2,5 cm de diamètre. Pose-les sur une assiette, couvre et garde-les au frais pendant que tu prépares la sauce.",
+  "steps.2.title": "Râpe les tomates",
+  "steps.2.text": "Coupe {{tomates:full}} en deux. Râpe-les côté chair sur les gros trous de la râpe, au-dessus d'un saladier. Jette la peau qui te reste dans la main.",
+  "steps.2.img.alt": "Tomate râpée sur une râpe",
+  "steps.2.img.caption": "Râper la tomate",
+  "steps.3.title": "Fais revenir l'oignon et l'ail",
+  "steps.3.text": "Pose le tajine sur un diffuseur (ou prends une sauteuse) à feu moyen-doux et chauffe {{huile:full}}. Ajoute {{oignon-sauce:full}} et laisse-le ramollir quelques minutes en remuant. Ajoute {{ail:full}} et remue 1 à 2 minutes, jusqu'à ce qu'il embaume, sans le laisser brûler.",
+  "steps.4.title": "Fais mijoter la sauce",
+  "steps.4.text": "Verse les tomates râpées avec leur jus. Ajoute {{paprika-sauce:full}}, {{cumin-sauce:full}}, {{sel-sauce:full}}, {{poivre-sauce:full}}, {{piment-sauce:full}}, {{persil-sauce:full}} et {{coriandre-sauce:full}}. Porte à frémissement, couvre et laisse mijoter à feu doux en remuant de temps en temps.",
+  "steps.4.timer.label": "Sauce tomate",
+  "steps.4.timer.done": "Regarde la sauce : elle doit être épaisse et parfumée.",
+  "steps.5.title": "Vérifie la sauce",
+  "steps.5.text": "Écrase les morceaux de tomate avec le dos d'une cuillère. La sauce est prête quand elle est épaisse et parfumée. Si elle attache, ajoute un peu d'{{eau:full}} ; si elle est encore liquide, prolonge la cuisson, car tout dépend de la maturité des tomates. Goûte et rectifie le sel.",
+  "steps.6.title": "Poche les boulettes",
+  "steps.6.text": "Dépose les boulettes crues une à une dans la sauce, en laissant un peu d'espace entre elles. Couvre et laisse frémir à feu doux. Coupe une boulette pour vérifier qu'elle est cuite à cœur, mais ne prolonge pas : trop cuites, elles durcissent.",
+  "steps.6.timer.label": "Boulettes",
+  "steps.6.timer.done": "Coupe une boulette : si elle est cuite à cœur, passe tout de suite aux œufs.",
+  "steps.7.title": "Casse les œufs",
+  "steps.7.text": "Creuse un petit nid dans la sauce, entre les boulettes, pour chaque œuf. Casse {{oeufs:full}} un par un dans les nids, sans crever les jaunes. Sale légèrement chaque œuf ({{sel-oeufs:full}}).",
+  "steps.8.title": "Fais prendre les œufs",
+  "steps.8.text": "Remets le couvercle et laisse cuire à feu doux. C'est prêt quand le blanc est pris et que le jaune reste coulant. Retire aussitôt du feu. Pour une femme enceinte, un jeune enfant ou une personne âgée ou fragile, laisse cuire quelques minutes de plus, jusqu'à ce que le jaune soit pris.",
+  "steps.8.timer.label": "Œufs",
+  "steps.8.timer.done": "Blanc pris, jaune encore coulant : coupe le feu tout de suite.",
+  "steps.9.title": "Sers dans le tajine",
+  "steps.9.text": "Parsème {{coriandre-deco:full}}. Pose le tajine au milieu de la table et sers tout de suite, dans le plat de cuisson. Chacun se sert à la main avec des morceaux de {{khobz:full}}, en trempant le pain dans la sauce et le jaune.",
+  "secrets.0.text": "L'assaisonnement classique de la kefta repose au minimum sur le paprika, le cumin, l'oignon et les herbes fraîches.",
+  "secrets.0.source": "Taste of Maroc (Christine Benlafquih), recette de kefta",
+  "secrets.1.text": "Pas d'œuf ni de chapelure dans la kefta : c'est un écart à la tradition marocaine.",
+  "secrets.1.source": "Taste of Maroc (Christine Benlafquih)",
+  "secrets.2.text": "Prends une viande pas trop maigre (15 à 20 % de gras) : un peu de gras est nécessaire pour la texture et le goût classiques de la kefta.",
+  "secrets.2.source": "My Moroccan Food (Nargisse Benkabbou) ; Taste of Maroc, recette de kefta",
+  "secrets.3.text": "Pour Fatéma Hal, ce plat a le parfum du Maroc : persil, coriandre, menthe et cumin. Le cumin, qu'elle juge parfois écrasant, ne trouve grâce selon elle que dans ce tajine.",
+  "secrets.3.source": "TelQuel, « À la recherche du goût perdu », Fatéma Hal",
+  "secrets.4.text": "Les boulettes se font traditionnellement toutes petites (taille d'une cerise, environ 2,5 cm) ; plus elles sont petites, plus elles cuisent vite.",
+  "secrets.4.source": "Taste of Maroc ; My Moroccan Food ; MarocMama",
+  "secrets.5.text": "Coupe les tomates en deux, râpe-les et jette la peau, plutôt que de les peler et les hacher : la cuisson est un peu plus courte.",
+  "secrets.5.source": "Taste of Maroc ; Cooking With Alia ; MarocMama",
+  "secrets.6.text": "Préfère des tomates fraîches bien mûres : en conserve, le goût est un peu métallique. Le temps de réduction dépend beaucoup de leur maturité et de leur jus.",
+  "secrets.6.source": "MarocMama (Amanda Mouttaki) ; Taste of Maroc",
+  "secrets.7.text": "Fais d'abord réduire la sauce, puis poche les boulettes crues dedans juste le temps de les cuire : trop cuites, elles deviennent dures.",
+  "secrets.7.source": "Taste of Maroc ; My Moroccan Food",
+  "secrets.8.text": "Laisse un peu d'espace entre les boulettes pour qu'elles s'imprègnent de sauce.",
+  "secrets.8.source": "MarocMama",
+  "secrets.9.text": "Les œufs vont à la toute fin, dans de petits nids, avec une pincée de sel sur chacun, couvercle fermé : 4 à 5 minutes suffisent pour un blanc pris et un jaune coulant.",
+  "secrets.9.source": "Amour de cuisine ; My Moroccan Food",
+  "secrets.10.text": "Choisis des œufs fermiers (beldi) si tu peux.",
+  "secrets.10.source": "Taste of Maroc",
+  "secrets.11.text": "Tajine en terre : utilise toujours un diffuseur sur une source de chaleur autre que le gaz ; au gaz sans diffuseur, la flamme ne doit pas toucher le fond.",
+  "secrets.11.source": "Taste of Maroc ; MarocMama",
+  "secrets.12.text": "Si la sauce est trop acide, une pincée de sucre la corrige.",
+  "secrets.12.source": "Amour de cuisine",
+  "mistakes.0": "Mettre de l'œuf ou de la chapelure dans la kefta : ce n'est pas la tradition marocaine.",
+  "mistakes.1": "Prendre une viande trop maigre : il faut un peu de gras pour la texture et le goût.",
+  "mistakes.2": "Trop pétrir ou tasser la viande : travaille-la juste assez pour mélanger.",
+  "mistakes.3": "Faire de grosses boulettes : traditionnellement, elles sont petites et cuisent plus vite.",
+  "mistakes.4": "Laisser brûler l'ail au début de la sauce.",
+  "mistakes.5": "Ajouter les boulettes avant que la sauce ait épaissi.",
+  "mistakes.6": "Prolonger la cuisson des boulettes : elles durcissent.",
+  "mistakes.7": "Serrer les boulettes les unes contre les autres : elles prennent moins la sauce.",
+  "mistakes.8": "Crever les jaunes en cassant les œufs.",
+  "mistakes.9": "Oublier le couvercle ou laisser les œufs trop longtemps : le jaune n'est plus coulant.",
+  "mistakes.10": "Poser un tajine en terre sur une plaque électrique ou vitrocéramique sans diffuseur.",
+  "variants.0": "Version de Fès sans tomate (Zette Guinaudeau-Franc, Traditional Moroccan Cooking: Recipes from Fez) : boulettes de kefta déjà pochées, cuites dans du beurre et de l'eau avec sel et piment soudania jusqu'à ce que l'eau s'évapore presque, puis œufs cassés dessus juste avant de servir. Aucune tomate dans la partie visible de la recette (aperçu ckbk).",
+  "variants.1": "Olives vertes dénoyautées ajoutées en fin de cuisson, juste pour les réchauffer ; sale alors moins la sauce (Taste of Maroc).",
+  "variants.2": "Poivron vert haché avec l'oignon et une feuille de laurier dans la sauce (Taste of Maroc).",
+  "variants.3": "Menthe fraîche hachée dans la kefta (My Moroccan Food ; facultative chez Taste of Maroc, qui la conseille avec l'agneau).",
+  "variants.4": "Une pointe de curcuma ou de cannelle dans la kefta (facultatives chez Taste of Maroc ; cannelle chez Cooking With Alia, épisode 372).",
+  "variants.5": "Ail dans la kefta (Cooking With Alia, MarocMama, Amour de cuisine).",
+  "variants.6": "Kefta assaisonnée laissée reposer 30 minutes, couverte, avant de façonner (Cooking With Alia, épisode 372).",
+  "variants.7": "Sauce au curcuma et au paprika fort « soudaniya » (MarocMama).",
+  "variants.8": "Concentré de tomate délayé dans de l'eau ajouté à la sauce, boulettes mijotées 40 minutes (Cooking With Alia, épisode 023).",
+  "variants.9": "Boulettes dorées à la poêle avant d'aller dans la sauce, pour plus de goût et une meilleure tenue (MarocMama ; Amour de cuisine quand elle a le temps).",
+  "variants.10": "Jaune bien cuit (MarocMama), œufs battus versés sur la sauce, ou pas d'œufs du tout : ils restent facultatifs (MarocMama, Taste of Maroc).",
+  "variants.11": "Avec des légumes : petits pois (MarocMama, Amour de cuisine), aubergine en dés et harissa (My Moroccan Food), courgette ou poivron (Amour de cuisine).",
+  "variants.12": "Plus de sauce : augmente la sauce tomate de moitié (Taste of Maroc).",
+  "variants.13": "Autres viandes halal : poulet ou dinde hachés (Taste of Maroc, MarocMama), avec du gingembre pour le poulet (Cooking With Alia).",
+  "variants.14": "Tomates en conserve pour dépanner (pelées chez My Moroccan Food, en morceaux chez Amour de cuisine)."
+ }
+}

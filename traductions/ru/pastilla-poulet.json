@@ -1,0 +1,598 @@
+{
+ "_slug": "pastilla-poulet",
+ "_langue": "ru",
+ "textes": {
+  "title": {
+   "fr": "Pastilla au poulet et aux amandes (version fassie)",
+   "t": "Пастилья с курицей и миндалём (по-фесски)"
+  },
+  "darija": {
+   "fr": "bastila bel djaj",
+   "t": "бастила бель джадж"
+  },
+  "tagline": {
+   "fr": "Des feuilles qui craquent, un poulet fondant aux oignons safranés et une couche d'amandes à la cannelle et à la fleur d'oranger : le grand sucré-salé de la cuisine fassie.",
+   "t": "Хрустящие листы теста, тающая во рту курица с луком и шафраном и слой миндаля с корицей и водой из цветков апельсина: коронное сладко-солёное блюдо фесской кухни."
+  },
+  "region": {
+   "fr": "Fès (version fassie)",
+   "t": "Фес (фесский вариант)"
+  },
+  "occasion": {
+   "fr": "Fêtes, mariages et grands dîners de réception",
+   "t": "Праздники, свадьбы и большие званые ужины"
+  },
+  "serving": {
+   "fr": "Sers-la bien chaude, sur un grand plat rond. Dans un repas de fête, elle se sert en entrée, avant le tajine de poulet ou le méchoui. Tu peux ajouter quelques amandes frites entières sur le décor.",
+   "t": "Подавайте её очень горячей, на большом круглом блюде. За праздничным столом её подают как закуску, перед таджином из курицы или мешуи. Для украшения можно добавить несколько целых обжаренных миндалин."
+  },
+  "ing.0.group": {
+   "fr": "Poulet et sauce aux oignons",
+   "t": "Курица и луковый соус"
+  },
+  "ing.poulet.name": {
+   "fr": "de poulet halal, coupé en morceaux",
+   "t": "курицы халяль, разрезанной на куски"
+  },
+  "ing.poulet.note": {
+   "fr": "ou cuisses et hauts de cuisse ; beldi si possible",
+   "t": "или окорочка и бёдра; по возможности домашняя курица (бельди)"
+  },
+  "ing.oignons.name": {
+   "fr": "d'oignons",
+   "t": "лука"
+  },
+  "ing.oignons.note": {
+   "fr": "émincés finement ou râpés",
+   "t": "тонко нашинкованный или натёртый на тёрке"
+  },
+  "ing.persil.name": {
+   "fr": "de persil plat",
+   "t": "петрушки"
+  },
+  "ing.persil.note": {
+   "fr": "haché",
+   "t": "рубленая"
+  },
+  "ing.coriandre.name": {
+   "fr": "de coriandre fraîche",
+   "t": "кинзы"
+  },
+  "ing.coriandre.note": {
+   "fr": "hachée",
+   "t": "рубленая"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile d'olive ou neutre",
+   "t": "оливкового или растительного масла"
+  },
+  "ing.smen.name": {
+   "fr": "de smen ou beurre",
+   "t": "смена (выдержанного солёного масла) или сливочного масла"
+  },
+  "ing.gingembre.name": {
+   "fr": "de gingembre moulu",
+   "t": "молотого имбиря"
+  },
+  "ing.curcuma.name": {
+   "fr": "de curcuma",
+   "t": "куркумы"
+  },
+  "ing.cannelle-sauce.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "ing.safran.name": {
+   "fr": "de pistils de safran",
+   "t": "нитей шафрана"
+  },
+  "ing.sel.name": {
+   "fr": "sel, selon le goût",
+   "t": "соль по вкусу"
+  },
+  "ing.sel.note": {
+   "fr": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction",
+   "t": "ориентир: около 1,5–2 ч. л.; после уваривания соуса поправьте по вкусу"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu, selon le goût",
+   "t": "молотый чёрный перец по вкусу"
+  },
+  "ing.poivre.note": {
+   "fr": "repère : environ 1 c. à c.",
+   "t": "ориентир: около 1 ч. л."
+  },
+  "ing.eau.name": {
+   "fr": "d'eau",
+   "t": "воды"
+  },
+  "ing.sucre.name": {
+   "fr": "de sucre en poudre",
+   "t": "сахарного песка"
+  },
+  "ing.sucre.note": {
+   "fr": "ou du miel",
+   "t": "или мёд"
+  },
+  "ing.oeufs.name": {
+   "fr": "œuf",
+   "t": "яйцо"
+  },
+  "ing.oeufs.pl": {
+   "fr": "œufs",
+   "t": "яйца"
+  },
+  "ing.oeufs.pl5": {
+   "fr": "œuf / œufs",
+   "t": "яиц"
+  },
+  "ing.1.group": {
+   "fr": "Couche d'amandes",
+   "t": "Миндальный слой"
+  },
+  "ing.amandes.name": {
+   "fr": "d'amandes émondées (sans la peau)",
+   "t": "бланшированного миндаля (без кожицы)"
+  },
+  "ing.huile-friture.name": {
+   "fr": "d'huile neutre",
+   "t": "растительного масла"
+  },
+  "ing.huile-friture.note": {
+   "fr": "pour frire les amandes",
+   "t": "для обжаривания миндаля"
+  },
+  "ing.sucre-glace.name": {
+   "fr": "de sucre glace",
+   "t": "сахарной пудры"
+  },
+  "ing.sucre-glace.note": {
+   "fr": "à ajuster selon ton goût",
+   "t": "количество регулируйте по своему вкусу"
+  },
+  "ing.cannelle-amandes.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "ing.fleur-oranger.name": {
+   "fr": "d'eau de fleur d'oranger",
+   "t": "воды из цветков апельсина"
+  },
+  "ing.2.group": {
+   "fr": "Montage",
+   "t": "Сборка"
+  },
+  "ing.beurre.name": {
+   "fr": "de beurre",
+   "t": "сливочного масла"
+  },
+  "ing.beurre.note": {
+   "fr": "à faire fondre ; ou smen",
+   "t": "растопить; или смен"
+  },
+  "ing.feuilles-tour.name": {
+   "fr": "feuille de warqa ou de brick, pour le tour",
+   "t": "лист теста варка или брик (для боков)"
+  },
+  "ing.feuilles-tour.pl": {
+   "fr": "feuilles de warqa ou de brick, pour le tour",
+   "t": "листа теста варка или брик (для боков)"
+  },
+  "ing.feuilles-tour.pl5": {
+   "fr": "feuille de warqa ou de brick, pour le tour / feuilles de warqa ou de brick, pour le tour",
+   "t": "листов теста варка или брик (для боков)"
+  },
+  "ing.feuilles-tour.note": {
+   "fr": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
+   "t": "всего возьмите 12–15 листов, с запасом"
+  },
+  "ing.feuilles-fond.name": {
+   "fr": "feuille de warqa ou de brick, pour le fond",
+   "t": "лист теста варка или брик (для дна)"
+  },
+  "ing.feuilles-fond.pl": {
+   "fr": "feuilles de warqa ou de brick, pour le fond",
+   "t": "листа теста варка или брик (для дна)"
+  },
+  "ing.feuilles-fond.pl5": {
+   "fr": "feuille de warqa ou de brick, pour le fond / feuilles de warqa ou de brick, pour le fond",
+   "t": "листов теста варка или брик (для дна)"
+  },
+  "ing.feuilles-dessus.name": {
+   "fr": "feuille de warqa ou de brick, pour le dessus",
+   "t": "лист теста варка или брик (для верха)"
+  },
+  "ing.feuilles-dessus.pl": {
+   "fr": "feuilles de warqa ou de brick, pour le dessus",
+   "t": "листа теста варка или брик (для верха)"
+  },
+  "ing.feuilles-dessus.pl5": {
+   "fr": "feuille de warqa ou de brick, pour le dessus / feuilles de warqa ou de brick, pour le dessus",
+   "t": "листов теста варка или брик (для верха)"
+  },
+  "ing.jaune.name": {
+   "fr": "jaune d'œuf",
+   "t": "желток"
+  },
+  "ing.jaune.pl": {
+   "fr": "jaunes d'œufs",
+   "t": "желтка"
+  },
+  "ing.jaune.pl5": {
+   "fr": "jaune d'œuf / jaunes d'œufs",
+   "t": "желтков"
+  },
+  "ing.jaune.note": {
+   "fr": "pour coller les plis",
+   "t": "чтобы склеить складки"
+  },
+  "ing.3.group": {
+   "fr": "Décor",
+   "t": "Украшение"
+  },
+  "ing.sucre-glace-decor.name": {
+   "fr": "de sucre glace",
+   "t": "сахарной пудры"
+  },
+  "ing.cannelle-decor.name": {
+   "fr": "de cannelle moulue",
+   "t": "молотой корицы"
+  },
+  "equipment.0": {
+   "fr": "Grand faitout ou cocotte avec couvercle",
+   "t": "Большая кастрюля или жаровня с крышкой"
+  },
+  "equipment.1": {
+   "fr": "Poêle",
+   "t": "Сковорода"
+  },
+  "equipment.2": {
+   "fr": "Passoire et papier absorbant",
+   "t": "Дуршлаг и бумажные полотенца"
+  },
+  "equipment.3": {
+   "fr": "Mixeur (ou mortier)",
+   "t": "Блендер (или ступка)"
+  },
+  "equipment.4": {
+   "fr": "Moule rond de 30 cm à bord bas (type plat à tarte)",
+   "t": "Круглая форма диаметром 30 см с низким бортиком (вроде формы для тарта)"
+  },
+  "equipment.5": {
+   "fr": "Pinceau de cuisine",
+   "t": "Кулинарная кисточка"
+  },
+  "equipment.6": {
+   "fr": "Film alimentaire et torchon",
+   "t": "Пищевая плёнка и кухонное полотенце"
+  },
+  "equipment.7": {
+   "fr": "Passoire fine pour le sucre glace",
+   "t": "Мелкое ситечко для сахарной пудры"
+  },
+  "equipment.8": {
+   "fr": "Grand plat de service rond",
+   "t": "Большое круглое сервировочное блюдо"
+  },
+  "steps.0.title": {
+   "fr": "Prépare le poulet et les herbes",
+   "t": "Подготовьте курицу и зелень"
+  },
+  "steps.0.text": {
+   "fr": "Coupe {{poulet}} de poulet en morceaux. Émince finement {{oignons}} d'oignons. Hache {{persil}} de persil et {{coriandre}} de coriandre.",
+   "t": "Разрежьте {{poulet}} курицы на куски. Тонко нашинкуйте {{oignons}} лука. Порубите {{persil}} петрушки и {{coriandre}} кинзы."
+  },
+  "steps.0.img.alt": {
+   "fr": "Persil haché au couteau sur une planche",
+   "t": "Петрушка, порубленная ножом на доске"
+  },
+  "steps.0.img.caption": {
+   "fr": "Hacher les herbes",
+   "t": "Измельчение зелени"
+  },
+  "steps.1.title": {
+   "fr": "Fais revenir le poulet aux épices",
+   "t": "Обжарьте курицу со специями"
+  },
+  "steps.1.text": {
+   "fr": "Dans un grand faitout, mets le poulet, les oignons, les herbes, {{huile}} d'huile et {{smen}} de smen (ou de beurre). Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{cannelle-sauce}} de cannelle, {{safran}} de safran, du sel et du poivre. Mélange, couvre et laisse cuire à feu moyen en remuant de temps en temps.",
+   "t": "Положите в большую кастрюлю курицу, лук, зелень, {{huile}} масла и {{smen}} смена (или сливочного масла). Добавьте {{gingembre}} имбиря, {{curcuma}} куркумы, {{cannelle-sauce}} корицы, шафран ({{safran}}), соль и перец. Перемешайте, накройте крышкой и готовьте на среднем огне, время от времени помешивая."
+  },
+  "steps.1.timer.label": {
+   "fr": "Poulet aux épices",
+   "t": "Курица со специями"
+  },
+  "steps.1.timer.done": {
+   "fr": "Passe à l'étape suivante : verse l'eau.",
+   "t": "Переходите к следующему шагу: влейте воду."
+  },
+  "steps.2.title": {
+   "fr": "Fais mijoter",
+   "t": "Потушите курицу"
+  },
+  "steps.2.text": {
+   "fr": "Verse {{eau}} d'eau et porte à ébullition. Baisse à feu moyen-doux, couvre et laisse mijoter en retournant les morceaux de temps en temps. C'est prêt quand la viande se détache facilement de l'os. Pendant ce temps, prépare les amandes.",
+   "t": "Влейте {{eau}} воды и доведите до кипения. Убавьте огонь до уровня ниже среднего, накройте крышкой и тушите, время от времени переворачивая куски. Курица готова, когда мясо легко отделяется от кости. Тем временем займитесь миндалём."
+  },
+  "steps.2.timer.label": {
+   "fr": "Mijotage du poulet",
+   "t": "Тушение курицы"
+  },
+  "steps.2.timer.done": {
+   "fr": "La viande se détache de l'os ? Sinon, prolonge un peu la cuisson.",
+   "t": "Мясо отделяется от кости? Если нет, потушите ещё немного."
+  },
+  "steps.3.title": {
+   "fr": "Fais frire les amandes",
+   "t": "Обжарьте миндаль"
+  },
+  "steps.3.text": {
+   "fr": "Mets {{amandes}} d'amandes dans une poêle avec {{huile-friture}} d'huile encore froide. Chauffe à feu moyen en remuant souvent, jusqu'à ce qu'elles soient dorées de façon uniforme. Égoutte-les sur du papier absorbant et laisse-les refroidir.",
+   "t": "Положите {{amandes}} миндаля в сковороду с {{huile-friture}} ещё холодного масла. Нагревайте на среднем огне, часто помешивая, пока миндаль равномерно не зарумянится. Обсушите его на бумажном полотенце и дайте остыть."
+  },
+  "steps.4.title": {
+   "fr": "Prépare le mélange aux amandes",
+   "t": "Приготовьте миндальную смесь"
+  },
+  "steps.4.text": {
+   "fr": "Concasse les amandes au mixeur par petites impulsions : il doit rester de petits morceaux, pas de la poudre. Mélange-les avec {{sucre-glace}} de sucre glace, {{cannelle-amandes}} de cannelle et {{fleur-oranger}} d'eau de fleur d'oranger. Réserve.",
+   "t": "Измельчите миндаль в блендере короткими импульсами: должны остаться маленькие кусочки, а не порошок. Смешайте его с {{sucre-glace}} сахарной пудры, {{cannelle-amandes}} корицы и {{fleur-oranger}} воды из цветков апельсина. Отложите."
+  },
+  "steps.5.title": {
+   "fr": "Réduis la sauce aux oignons",
+   "t": "Уварите луковый соус"
+  },
+  "steps.5.text": {
+   "fr": "Sors le poulet et pose-le sur une assiette pour qu'il tiédisse. Ajoute {{sucre}} de sucre à la sauce et laisse réduire à feu moyen-doux, sans couvercle, en remuant souvent. C'est prêt quand il ne reste plus de liquide, seulement les oignons fondus dans leur gras.",
+   "t": "Выньте курицу и положите на тарелку, чтобы она немного остыла. Добавьте в соус {{sucre}} сахара и уваривайте без крышки на огне ниже среднего, часто помешивая. Соус готов, когда жидкости не останется совсем, только мягкий, разварившийся лук в жире."
+  },
+  "steps.5.timer.label": {
+   "fr": "Réduction de la sauce",
+   "t": "Уваривание соуса"
+  },
+  "steps.5.timer.done": {
+   "fr": "Plus de liquide, juste le gras ? Sinon, continue quelques minutes en remuant.",
+   "t": "Жидкости не осталось, только жир? Если нет, уваривайте ещё несколько минут, помешивая."
+  },
+  "steps.6.title": {
+   "fr": "Effiloche le poulet",
+   "t": "Разберите курицу на волокна"
+  },
+  "steps.6.text": {
+   "fr": "Pendant que la sauce réduit, retire la peau et les os du poulet. Effiloche la chair en petits morceaux et réserve-la.",
+   "t": "Пока соус уваривается, снимите с курицы кожу и удалите кости. Разберите мясо на мелкие кусочки и отложите."
+  },
+  "steps.7.title": {
+   "fr": "Cuis les œufs dans la sauce",
+   "t": "Приготовьте яйца в соусе"
+  },
+  "steps.7.text": {
+   "fr": "Bats {{oeufs:full}} en omelette. Verse-les peu à peu dans la sauce réduite, à feu doux, en remuant sans arrêt. Arrête quand ils sont pris en une crème épaisse, comme des œufs brouillés bien secs, sans liquide.",
+   "t": "Взбейте {{oeufs:full}}, как для омлета. Понемногу вливайте яичную массу в уваренный соус на слабом огне, непрерывно помешивая. Готовьте, пока масса не схватится густым кремом, как очень сухая яичница-болтунья, без жидкости."
+  },
+  "steps.8.title": {
+   "fr": "Égoutte et laisse refroidir",
+   "t": "Откиньте и остудите"
+  },
+  "steps.8.text": {
+   "fr": "Verse les œufs dans une passoire posée sur un bol et garde le gras qui s'égoutte. Laisse refroidir complètement les œufs et le poulet, chacun de son côté. Tu peux préparer les garnitures la veille et les garder au frigo.",
+   "t": "Выложите яйца в дуршлаг, поставленный над миской, и сохраните стекающий жир. Полностью остудите яйца и курицу, по отдельности. Начинки можно приготовить накануне и хранить в холодильнике."
+  },
+  "steps.9.title": {
+   "fr": "Prépare le moule",
+   "t": "Подготовьте форму"
+  },
+  "steps.9.text": {
+   "fr": "Préchauffe le four à 180 °C. Fais fondre {{beurre}} de beurre et mélange-le au gras réservé. Beurre généreusement un moule rond de 30 cm. Garde les feuilles sous un film alimentaire et un torchon pour qu'elles ne sèchent pas.",
+   "t": "Разогрейте духовку до 180 °C. Растопите {{beurre}} сливочного масла и смешайте с отложенным жиром. Щедро смажьте маслом круглую форму диаметром 30 см. Держите листы теста под пищевой плёнкой и полотенцем, чтобы они не подсохли."
+  },
+  "steps.10.title": {
+   "fr": "Forme la base",
+   "t": "Сформируйте основу"
+  },
+  "steps.10.text": {
+   "fr": "Badigeonne de beurre {{feuilles-tour:full}} et dispose-les en rosace dans le moule : elles se chevauchent et débordent largement du bord. Pose au centre {{feuilles-fond:full}}, beurrées, pour renforcer le fond.",
+   "t": "Смажьте маслом {{feuilles-tour:full}} и выложите в форму розеткой: листы должны заходить друг на друга и далеко свисать за край. Смажьте маслом {{feuilles-fond:full}} и положите в центр, чтобы укрепить дно."
+  },
+  "steps.11.title": {
+   "fr": "Superpose les garnitures",
+   "t": "Выложите начинки слоями"
+  },
+  "steps.11.text": {
+   "fr": "Étale le poulet effiloché en couche régulière. Ajoute les œufs, puis termine par le mélange aux amandes, bien à plat.",
+   "t": "Распределите разобранную курицу ровным слоем. Добавьте яйца, а затем завершите миндальной смесью, хорошо её разровняв."
+  },
+  "steps.12.title": {
+   "fr": "Referme la pastilla",
+   "t": "Закройте пастилью"
+  },
+  "steps.12.text": {
+   "fr": "Rabats les feuilles qui débordent sur les amandes, en les badigeonnant de beurre au fur et à mesure. Bats {{jaune:full}} et passe-le sur les plis pour bien les coller.",
+   "t": "Заверните свисающие листы на миндальный слой, по ходу смазывая их маслом. Взбейте {{jaune:full}} и смажьте складки взбитым желтком, чтобы они хорошо склеились."
+  },
+  "steps.13.title": {
+   "fr": "Couvre le dessus",
+   "t": "Накройте верх"
+  },
+  "steps.13.text": {
+   "fr": "Badigeonne de beurre {{feuilles-dessus:full}} et pose-les sur le dessus en les faisant se chevaucher. Rentre leurs bords entre la pastilla et le moule pour obtenir un bord bien rond. Badigeonne tout le dessus avec le reste de beurre.",
+   "t": "Смажьте маслом {{feuilles-dessus:full}} и выложите сверху внахлёст. Заправьте края листов между пастильей и формой, чтобы получился ровный круглый край. Смажьте весь верх оставшимся маслом."
+  },
+  "steps.14.title": {
+   "fr": "Fais cuire au four",
+   "t": "Выпекайте в духовке"
+  },
+  "steps.14.text": {
+   "fr": "Enfourne à mi-hauteur. Cuis jusqu'à ce que la pastilla soit bien dorée et croustillante.",
+   "t": "Поставьте в духовку на средний уровень. Выпекайте, пока пастилья не станет золотистой и хрустящей."
+  },
+  "steps.14.timer.label": {
+   "fr": "Cuisson au four",
+   "t": "Выпекание"
+  },
+  "steps.14.timer.done": {
+   "fr": "Bien dorée et croustillante ? Sors-la. Sinon, laisse encore quelques minutes en surveillant.",
+   "t": "Золотистая и хрустящая? Доставайте. Если нет, оставьте ещё на несколько минут, присматривая."
+  },
+  "steps.15.title": {
+   "fr": "Laisse reposer, décore et sers",
+   "t": "Дайте постоять, украсьте и подавайте"
+  },
+  "steps.15.text": {
+   "fr": "Laisse reposer la pastilla avant de la couper. Fais-la glisser délicatement sur un grand plat rond. Saupoudre {{sucre-glace-decor}} de sucre glace à travers une passoire fine, puis trace des croisillons avec {{cannelle-decor}} de cannelle. Sers bien chaud.",
+   "t": "Дайте пастилье постоять, прежде чем разрезать. Осторожно переложите её на большое круглое блюдо. Просейте сверху {{sucre-glace-decor}} сахарной пудры через мелкое ситечко, затем нарисуйте решётку крест-накрест, используя {{cannelle-decor}} корицы. Подавайте очень горячей."
+  },
+  "steps.15.timer.label": {
+   "fr": "Repos avant découpe",
+   "t": "Отдых перед нарезкой"
+  },
+  "steps.15.timer.done": {
+   "fr": "Décore et sers bien chaud !",
+   "t": "Украсьте и подавайте очень горячей!"
+  },
+  "secrets.0.text": {
+   "fr": "Fais réduire la sauce aux oignons jusqu'à ce qu'elle « tienne dans son gras » : plus une goutte de liquide. Une farce humide ramollit la pastilla.",
+   "t": "Уваривайте луковый соус, пока он не начнёт «держаться в собственном жире»: не должно остаться ни капли жидкости. Влажная начинка размягчает пастилью."
+  },
+  "secrets.0.source": {
+   "fr": "Barlamane (Mariam Bensellham, experte en cuisine marocaine) ; My Moroccan Food ; Amour de cuisine",
+   "t": "Barlamane (Mariam Bensellham, эксперт по марокканской кухне); My Moroccan Food; Amour de cuisine"
+  },
+  "secrets.1.text": {
+   "fr": "Cuis les œufs dans la sauce réduite en remuant sans arrêt, jusqu'à une texture d'œufs brouillés bien secs.",
+   "t": "Готовьте яйца в уваренном соусе, непрерывно помешивая, до консистенции очень сухой яичницы-болтуньи."
+  },
+  "secrets.1.source": {
+   "fr": "Cooking with Alia ; Ma fleur d'oranger ; Paula Wolfert (The Food of Morocco)",
+   "t": "Cooking with Alia, Ma fleur d'oranger и Paula Wolfert (The Food of Morocco)"
+  },
+  "secrets.2.text": {
+   "fr": "Égoutte le mélange aux œufs et garde le gras : mélangé au beurre fondu, il sert à badigeonner les feuilles.",
+   "t": "Откиньте яичную смесь на дуршлаг и сохраните жир: смешанный с растопленным сливочным маслом, он идёт на смазывание листов."
+  },
+  "secrets.2.source": {
+   "fr": "Femmes du Maroc (cuisinières de Maymana) ; La Cuisine Marocaine ; Paula Wolfert",
+   "t": "Femmes du Maroc (кулинарки Maymana); La Cuisine Marocaine; Paula Wolfert"
+  },
+  "secrets.3.text": {
+   "fr": "Mets les amandes dans l'huile encore froide avant de chauffer : elles dorent de façon uniforme.",
+   "t": "Кладите миндаль в ещё холодное масло и только потом нагревайте: так он зарумянится равномерно."
+  },
+  "secrets.3.source": {
+   "fr": "Barlamane (Mariam Bensellham)",
+   "t": "Barlamane (Mariam Bensellham)"
+  },
+  "secrets.4.text": {
+   "fr": "Concasse les amandes sans les réduire en poudre.",
+   "t": "Измельчайте миндаль крупно, не превращая его в порошок."
+  },
+  "secrets.4.source": {
+   "fr": "Barlamane ; Amour de cuisine ; Paula Wolfert",
+   "t": "Barlamane, Amour de cuisine и Paula Wolfert"
+  },
+  "secrets.5.text": {
+   "fr": "Monte la pastilla avec des garnitures bien froides, sinon les feuilles se déchirent.",
+   "t": "Собирайте пастилью из хорошо остывших начинок, иначе листы порвутся."
+  },
+  "secrets.5.source": {
+   "fr": "Ma fleur d'oranger",
+   "t": "Ma fleur d'oranger"
+  },
+  "secrets.6.text": {
+   "fr": "Beurre généreusement chaque feuille : c'est ce qui donne le croustillant.",
+   "t": "Щедро смазывайте маслом каждый лист: именно это делает пастилью хрустящей."
+  },
+  "secrets.6.source": {
+   "fr": "Barlamane ; Amour de cuisine",
+   "t": "Barlamane и Amour de cuisine"
+  },
+  "secrets.7.text": {
+   "fr": "Garde les feuilles sous un film et un torchon pendant le montage pour qu'elles ne sèchent pas.",
+   "t": "Во время сборки держите листы под плёнкой и полотенцем, чтобы они не подсохли."
+  },
+  "secrets.7.source": {
+   "fr": "Amour de cuisine",
+   "t": "Amour de cuisine"
+  },
+  "secrets.8.text": {
+   "fr": "Un peu de sucre (ou de miel) ajouté à la sauce aux oignons pendant la réduction renforce l'équilibre sucré-salé.",
+   "t": "Немного сахара (или мёда), добавленного в луковый соус во время уваривания, подчёркивает баланс сладкого и солёного."
+  },
+  "secrets.8.source": {
+   "fr": "My Moroccan Food ; Ma fleur d'oranger ; Femmes du Maroc",
+   "t": "My Moroccan Food, Ma fleur d'oranger и Femmes du Maroc"
+  },
+  "secrets.9.text": {
+   "fr": "Prépare les garnitures à l'avance (la veille, jusqu'à 48 h) et garde-les séparément au frigo : le jour J, il ne reste que le montage.",
+   "t": "Приготовьте начинки заранее (накануне, не раньше чем за 48 ч) и храните их по отдельности в холодильнике: в день подачи останется только собрать пастилью."
+  },
+  "secrets.9.source": {
+   "fr": "Amour de cuisine ; Paula Wolfert ; Ma fleur d'oranger",
+   "t": "Amour de cuisine, Paula Wolfert и Ma fleur d'oranger"
+  },
+  "mistakes.0": {
+   "fr": "Monter avec une sauce encore liquide : la pastilla devient molle.",
+   "t": "Собирать пастилью, пока соус ещё жидкий: она раскисает."
+  },
+  "mistakes.1": {
+   "fr": "Laisser les œufs baveux : leur liquide détrempe les feuilles.",
+   "t": "Оставлять яйца жидковатыми: их жидкость размачивает листы."
+  },
+  "mistakes.2": {
+   "fr": "Monter avec une garniture tiède : les feuilles se déchirent.",
+   "t": "Собирать с тёплой начинкой: листы рвутся."
+  },
+  "mistakes.3": {
+   "fr": "Réduire les amandes en poudre fine au lieu de les concasser.",
+   "t": "Смалывать миндаль в мелкий порошок вместо того, чтобы крупно измельчить."
+  },
+  "mistakes.4": {
+   "fr": "Laisser les feuilles à l'air pendant le montage : elles sèchent.",
+   "t": "Оставлять листы открытыми во время сборки: они подсыхают."
+  },
+  "mistakes.5": {
+   "fr": "Être avare de beurre : la pastilla ne croustille pas.",
+   "t": "Жалеть масло: пастилья не получается хрустящей."
+  },
+  "mistakes.6": {
+   "fr": "Couper la pastilla dès la sortie du four : laisse-la reposer 10 min.",
+   "t": "Разрезать пастилью сразу после духовки: дайте ей постоять 10 мин."
+  },
+  "mistakes.7": {
+   "fr": "Réchauffer les restes au micro-ondes : la pâte ramollit. Passe-les plutôt au four.",
+   "t": "Разогревать остатки в микроволновке: тесто размягчается. Лучше разогрейте их в духовке."
+  },
+  "variants.0": {
+   "fr": "Au pigeon, la version traditionnelle de Fès : remplace le poulet par des pigeons halal, cuits de la même façon avec oignons, épices et herbes, puis désossés sans la peau ; le reste ne change pas. Le blog Épices et douceurs (recette attribuée à Fatéma Hal) les fait mijoter 30 à 35 min à couvert. Aux mariages, la pastilla au pigeon est servie juste avant le m'hammar de poulet (Taste of Maroc).",
+   "t": "С голубем — традиционная фесская версия: замените курицу голубями халяль; их готовят так же, с луком, специями и зеленью, затем снимают кожу и вынимают кости; остальное не меняется. В блоге Épices et douceurs (рецепт приписывают Fatéma Hal) их тушат под крышкой 30–35 мин. На свадьбах пастилью с голубем подают непосредственно перед курицей мхаммар (Taste of Maroc)."
+  },
+  "variants.1": {
+   "fr": "Amandes grillées au four au lieu d'être frites, avec un filet d'huile, jusqu'à ce qu'elles soient dorées (My Moroccan Food : environ 18 min à 160 °C ; Amour de cuisine : environ 15 min à 160 °C).",
+   "t": "Миндаль не жарят на сковороде, а запекают в духовке, сбрызнув маслом, до золотистого цвета (My Moroccan Food: около 18 мин при 160 °C; Amour de cuisine: около 15 мин при 160 °C)."
+  },
+  "variants.2": {
+   "fr": "Œufs brouillés à part dans un peu de beurre, au lieu d'être cuits dans la sauce (My Moroccan Food).",
+   "t": "Яйца готовят отдельно, как болтунью, на небольшом количестве сливочного масла, а не в соусе (My Moroccan Food)."
+  },
+  "variants.3": {
+   "fr": "Miel à la place du sucre dans la sauce (Femmes du Maroc ; My Moroccan Food).",
+   "t": "Мёд вместо сахара в соусе (Femmes du Maroc; My Moroccan Food)."
+  },
+  "variants.4": {
+   "fr": "Pastillas individuelles : mêmes garnitures dans des cercles de 8 à 12 cm, 20 à 30 min au four (Femmes du Maroc : 180 °C, 20 à 25 min ; Amour de cuisine : 180 °C, environ 30 min ; My Moroccan Food : 200 °C, environ 25 min).",
+   "t": "Порционные пастильи: те же начинки в кольцах диаметром 8–12 см, 20–30 мин в духовке (Femmes du Maroc: 180 °C, 20–25 мин; Amour de cuisine: 180 °C, около 30 мин; My Moroccan Food: 200 °C, около 25 мин)."
+  },
+  "variants.5": {
+   "fr": "Pâte filo à la place de la warqa ou de la brick : 2 à 3 feuilles de filo beurrées par couche et environ 5 min de cuisson en plus (Amour de cuisine).",
+   "t": "Тесто фило вместо теста варка или брик: 2–3 смазанных маслом листа фило на слой и выпекание примерно на 5 мин дольше (Amour de cuisine)."
+  },
+  "variants.6": {
+   "fr": "Façon Paula Wolfert (The Food of Morocco) : four à 220 °C pendant 20 min, puis pastilla retournée sur une plaque beurrée, badigeonnée de beurre et remise 10 min au four ; elle ajoute aussi du jus de citron dans la sauce avant les œufs et une pointe de muscade.",
+   "t": "По рецепту Paula Wolfert (The Food of Morocco): 20 мин в духовке при 220 °C, затем пастилью переворачивают на смазанный маслом противень, смазывают маслом и ставят в духовку ещё на 10 мин; она также добавляет в соус лимонный сок перед яйцами и мускатный орех на кончике ножа."
+  },
+  "variants.7": {
+   "fr": "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc).",
+   "t": "Другие семейные штрихи: немного толчёного гуммиарабика в соусе (Cooking with Alia, рецепт 695; Épices et douceurs) или рас-эль-ханута (Femmes du Maroc)."
+  }
+ }
+}

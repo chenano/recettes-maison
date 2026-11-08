@@ -1,0 +1,206 @@
+{
+ "slug": "crepes",
+ "verdict": "conforme avec corrections",
+ "sources_ajoutees": [
+  {
+   "name": "Santé publique France, « Syndrome hémolytique et urémique pédiatrique : les mesures de prévention face aux risques de l'été », publié le 19 juillet 2022 (lu le 8 novembre 2026)",
+   "url": "https://www.santepubliquefrance.fr/les-actualites/syndrome-hemolytique-et-uremique-pediatrique-les-mesures-de-prevention-face-aux-risques-de-lete",
+   "ce_qu_elle_confirme": "Source officielle française sur la pâte crue : « Les préparations à base de farine (pizza/pâte à cookies/gâteau/tarte/crêpe...) ne doivent pas être consommées crues ou peu cuites » ; lavage des mains avant de cuisiner ; restes et plats cuisinés rapidement mis au réfrigérateur et bien réchauffés."
+  },
+  {
+   "name": "Anses, infographie « Consommation des œufs » (vrai ou faux), PDF lié à la page « Consommation des oeufs » (lue le 8 novembre 2026)",
+   "url": "https://www.anses.fr/system/files/Conso_oeufs-vraioufaux.pdf",
+   "ce_qu_elle_confirme": "La règle des 24 heures vise « les préparations à base d'œufs, sans cuisson (mayonnaise, crèmes, mousse au chocolat, pâtisseries, etc.) », pas une pâte qu'on fait cuire ; œufs jamais lavés avant d'être stockés ; toujours à la même température ; œufs cassés ou fêlés à jeter."
+  },
+  {
+   "name": "Anses, « Conseils d'hygiène en cuisine : dix gestes simples pour prévenir les risques microbiologiques », 24 décembre 2020 (lu le 8 novembre 2026)",
+   "url": "https://www.anses.fr/fr/article/conseils-dhygiene-cuisine-dix-gestes-simples-prevenir-risques-microbiologiques",
+   "ce_qu_elle_confirme": "Ne pas conserver les aliments plus de 2 heures à température ambiante avant de les mettre au réfrigérateur ; 4 °C dans la zone la plus froide ; se laver les mains à l'eau et au savon avant et pendant la préparation."
+  },
+  {
+   "name": "Ministère de l'Agriculture (France), « Il est l'heure de la Chandeleur », 2 février 2021 (lu le 8 novembre 2026)",
+   "url": "https://agriculture.gouv.fr/il-est-lheure-de-la-chandeleur",
+   "ce_qu_elle_confirme": "Chandeleur tous les 2 février ; « Les crêpes sont préparées avec de la farine de froment. Traditionnellement dégustées en dessert, on les agrémente d'accompagnements sucrés » ; galettes ou crêpes salées au sarrasin."
+  },
+  {
+   "name": "FDA (agence sanitaire américaine), « What You Need to Know About Egg Safety », contenu à jour au 5 mars 2024 (lu directement le 8 novembre 2026)",
+   "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+   "ce_qu_elle_confirme": "Restes de plats aux œufs : au réfrigérateur, à consommer sous 3 à 4 jours, jamais plus de 2 heures hors du réfrigérateur (1 heure au-dessus de 90 °F, soit 32 °C) ; cohérent avec les 3 jours de Chef Simon et de 750g."
+  },
+  {
+   "name": "LalaMoulati (site marocain de cuisine), recherche interne « كريب » (lue le 8 novembre 2026)",
+   "url": "https://www.lalamoulati.net/?s=%D9%83%D8%B1%D9%8A%D8%A8",
+   "ce_qu_elle_confirme": "Source marocaine pour le nom arabe : titres de recettes « كريب بالشوكولاتة », « كريب بثلاث حشوات », « لكريب مالح… », et textes en darija qui emploient « كريب »."
+  },
+  {
+   "name": "CNRTL (TLFi), définition de « saindoux » (lue le 8 novembre 2026)",
+   "url": "https://www.cnrtl.fr/definition/saindoux",
+   "ce_qu_elle_confirme": "Saindoux : « graisse de porc fondue » ; avec Krampouz (lardiguel = saindoux et jaune d'œuf), cela confirme l'exclusion halal des deux graisses."
+  }
+ ],
+ "corrections": [
+  {
+   "champ": "steps[5].tip",
+   "actuel": "mais garde-la au réfrigérateur et cuis-la dans les 24 heures : elle contient des œufs crus (Anses).",
+   "propose": "mais garde-la couverte au réfrigérateur et cuis-la le lendemain au plus tard : elle contient des œufs crus et du lait (750g conseille 6 à 8 heures, voire une nuit).",
+   "pourquoi": "L'Anses ne parle pas de pâte à cuire : sa page salmonellose vise les « préparations à base d'oeufs crus » à consommer dans les 24 h, et son infographie précise qu'il s'agit des préparations « sans cuisson (mayonnaise, crèmes, mousse au chocolat, pâtisseries, etc.) ». Les sources qui parlent de la pâte à crêpes disent : 6 à 8 heures, voire une nuit, au frais (750g) ; préparée la veille pour le lendemain (Chef Simon). Attribution corrigée sur un point de sécurité.",
+   "gravite": "majeure",
+   "sources": "Anses, page salmonellose (27 octobre 2025) et infographie « Consommation des œufs » ; 750g, « Comment réussir sa pâte à crêpes ? » (« Ne la conservez pas plus de 6 à 8h, voire une nuit à cause des œufs crus ») ; Chef Simon, pâte à crêpes et page crêpe party."
+  },
+  {
+   "champ": "mistakes[5]",
+   "actuel": "ou la garder plus de 24 heures : elle contient des œufs crus (Anses ; 750g).",
+   "propose": "ou la garder au-delà du lendemain : elle contient des œufs crus et du lait (750g conseille 6 à 8 heures au frais, voire une nuit ; l'Anses déconseille de laisser un aliment plus de 2 heures à température ambiante).",
+   "pourquoi": "Même erreur d'attribution : la limite de 24 heures de l'Anses concerne les préparations aux œufs mangées sans cuisson. Pour la pâte hors du réfrigérateur, la règle officielle applicable est celle des 2 heures à température ambiante (Anses, dix gestes) ; pour la durée au frais, 750g donne 6 à 8 heures, voire une nuit.",
+   "gravite": "majeure",
+   "sources": "Anses, infographie « Consommation des œufs » ; Anses, « Conseils d'hygiène en cuisine : dix gestes simples » (24 décembre 2020) ; 750g, « Comment réussir sa pâte à crêpes ? »."
+  },
+  {
+   "champ": "discrepancies[6]",
+   "actuel": "avec la limite de 24 heures de l'Anses pour les préparations aux œufs crus ; 750g conseille plutôt 6 à 8 heures, voire une nuit.",
+   "propose": "et cuisson au plus tard le lendemain (Chef Simon : pâte préparée la veille ; 750g : 6 à 8 heures au frais, voire une nuit). La limite de 24 heures de l'Anses vise les préparations aux œufs mangées sans cuisson (mayonnaise, mousse au chocolat…), pas une pâte qu'on fait cuire (contre-vérification).",
+   "pourquoi": "Mise en accord avec les deux corrections précédentes (steps[5].tip et mistakes[5]).",
+   "gravite": "mineure",
+   "sources": "Anses, infographie « Consommation des œufs » ; 750g ; Chef Simon."
+  },
+  {
+   "champ": "sources[21].name",
+   "actuel": "(page lue avec l'outil WebFetch : le téléchargement direct était renvoyé vers une page de détection d'abus)",
+   "propose": "(relue directement le 8 novembre 2026 par la contre-vérification : la page répond normalement)",
+   "pourquoi": "Demande de vérifier si la page FDA se lit normalement : oui. Trois requêtes directes le 8 novembre 2026 (dont une avec l'identification par défaut de curl) ont reçu la page complète (code 200, aucune page de détection d'abus) ; le robots.txt de fda.gov n'interdit pas /food/. Le texte confirme tout ce que la recette lui attribue (« Never eat or taste raw flour, dough, or batter », œufs crus, « Cooking is the only way… », lavage des mains ; « Content current as of 03/05/2024 »). La source est donc gardée ; seule la mention du détour est mise à jour.",
+   "gravite": "mineure",
+   "sources": "FDA, « Handling Flour Safely: What You Need to Know » (lue le 8 novembre 2026) ; robots.txt de www.fda.gov."
+  },
+  {
+   "champ": "mistakes[6]",
+   "actuel": "Goûter la pâte crue : la farine et les œufs crus peuvent contenir des bactéries (FDA, agence sanitaire américaine).",
+   "propose": "Goûter la pâte crue : la farine et les œufs crus peuvent contenir des bactéries (FDA, agence sanitaire américaine ; Santé publique France cite la pâte à crêpe parmi les préparations à base de farine à ne pas manger crues ou peu cuites).",
+   "pourquoi": "Une source officielle française existe et nomme la pâte à crêpe : elle recoupe la FDA et répond au point laissé « non trouvé » par l'auteur.",
+   "gravite": "mineure",
+   "sources": "Santé publique France, 19 juillet 2022 ; FDA, « Handling Flour Safely »."
+  },
+  {
+   "champ": "unverified[7]",
+   "actuel": "Avis officiel français sur la farine crue : non trouvé ; la consigne de ne pas goûter la pâte crue vient de la FDA américaine.",
+   "propose": "Avis officiel français propre à la farine crue seule : non trouvé. Pour la pâte, Santé publique France (19 juillet 2022) rejoint la FDA : les préparations à base de farine, dont la pâte à crêpe, ne doivent pas être mangées crues ou peu cuites (contre-vérification).",
+   "pourquoi": "Le point n'est plus « non trouvé » pour la pâte : Santé publique France le dit explicitement.",
+   "gravite": "mineure",
+   "sources": "Santé publique France, 19 juillet 2022."
+  },
+  {
+   "champ": "unverified[0]",
+   "actuel": "Le nom arabe كريب vient de Wikipédia en arabe et de Mawdoo3 (site jordanien), pas d'une source marocaine.",
+   "propose": "Le nom arabe كريب vient de Wikipédia en arabe et de Mawdoo3 (site jordanien) ; le site marocain LalaMoulati l'emploie aussi dans ses titres de recettes et ses textes en darija, mais aucune transcription en lettres latines n'a été trouvée (contre-vérification).",
+   "pourquoi": "Une source marocaine confirme le nom arabe ; le champ darija (en lettres latines) reste vide à juste titre. Le corpus DODa n'a qu'une phrase où « les crêpes » est dit en français.",
+   "gravite": "mineure",
+   "sources": "LalaMoulati, recherche « كريب » ; DODa (Darija Open Dataset), sentences.csv."
+  },
+  {
+   "champ": "mistakes[8]",
+   "actuel": "Graisser la poêle au saindoux ou au lardiguel, graisses de porc parfois utilisées sur les billigs : prends de l'huile de tournesol ou du beurre (Krampouz).",
+   "propose": "Graisser la poêle au saindoux, graisse de porc, ou au lardiguel, mélange de saindoux et de jaune d'œuf cité par Krampouz pour les billigs : prends de l'huile de tournesol, que Krampouz recommande, ou un peu de beurre (Bretagne Culture Diversité ; Morbihan Tourisme).",
+   "pourquoi": "Krampouz ne recommande pas le beurre : il conseille l'huile de tournesol et écrit qu'« un graissage au beurre, au saindoux ou au lardiguel (un mélange de saindoux et de jaune d'œuf) encrassera d'avantage votre appareil ». Le beurre pour la poêle vient d'autres sources (« une noisette de beurre », BCD ; crêpière « beurrée », Morbihan). « Parfois utilisées » n'est pas dans la source. Saindoux = graisse de porc (CNRTL).",
+   "gravite": "mineure",
+   "sources": "Krampouz, « 10 astuces… » ; Bretagne Culture Diversité (copie du 9 août 2022) ; Morbihan Tourisme ; CNRTL, « saindoux »."
+  },
+  {
+   "champ": "ingredients[2].items[0].note",
+   "actuel": "jamais de saindoux ni de lardiguel (graisses de porc)",
+   "propose": "jamais de saindoux (graisse de porc) ni de lardiguel (saindoux et jaune d'œuf)",
+   "pourquoi": "Précision : le lardiguel n'est pas une graisse de porc pure, c'est un mélange de saindoux et de jaune d'œuf ; l'exclusion halal reste justifiée.",
+   "gravite": "mineure",
+   "sources": "Krampouz, « 10 astuces… » ; CNRTL, « saindoux »."
+  },
+  {
+   "champ": "secrets[6].text",
+   "actuel": "Kraz ou soupic : cuite plus longtemps, la crêpe devient croustillante (kraz) ; vite cuite, elle reste souple (soupic). En crêperie, on aime souvent le bord croustillant et le centre souple.",
+   "propose": "Kraz ou soupic : plus la crêpe cuit, plus elle devient craquante ; cuite plus longtemps et nourrie de beurre, elle est croustillante (kraz), sans beurre elle devient sèche et cassante, tandis que la crêpe soupic reste toute souple. En crêperie, une crêpe combine souvent les deux : bord croustillant, centre souple.",
+   "pourquoi": "Krampouz lie la crêpe kraz à une cuisson prolongée « et nourrir la crêpe avec du beurre » ; sans beurre, c'est la « crêpe sèche », cassante. Il ne dit pas que la soupic est « vite cuite », et écrit qu'une crêpe de crêperie « combine bien souvent ces deux textures » (pas « on aime »). Chef Simon : « plus la crêpe cuira longtemps et plus elle sera craquante ».",
+   "gravite": "mineure",
+   "sources": "Krampouz, « Comment réussir la cuisson des crêpes sur une crêpière bretonne ? » ; Chef Simon, « La pâte à crêpes »."
+  },
+  {
+   "champ": "secrets[4].text",
+   "actuel": "les crêpiers règlent la plaque",
+   "propose": "Krampouz conseille de régler la plaque",
+   "pourquoi": "Krampouz écrit « Idéalement, la billig doit être réglée entre 200 et 220°C » : c'est un conseil du fabricant, pas une pratique décrite des crêpiers.",
+   "gravite": "mineure",
+   "sources": "Krampouz, « Comment réussir la cuisson des crêpes sur une crêpière bretonne ? »."
+  },
+  {
+   "champ": "secrets[13].text",
+   "actuel": "fête la crêpe et ses cousines",
+   "propose": "célèbre la galette et ses cousines",
+   "pourquoi": "Tourisme Bretagne écrit que le festival « célèbre en concerts la galette et ses cousines : msemen, tortilla, blinis, crumpets… » ; Morbihan Tourisme parle du « festival des galettes du monde ».",
+   "gravite": "mineure",
+   "sources": "Tourisme Bretagne, « La crêpe » ; Morbihan Tourisme."
+  },
+  {
+   "champ": "secrets[8].text",
+   "actuel": "les Bretons goûtent une crêpe beurre-sucre, toute simple.",
+   "propose": "rien ne vaut une crêpe beurre-sucre, toute simple.",
+   "pourquoi": "La source dit « pour tester la qualité de la pâte, rien ne vaut l'iconique beurre-sucre » ; elle ne décrit pas une habitude de tous les Bretons (généralisation à éviter, aussi pour la traduction).",
+   "gravite": "mineure",
+   "sources": "Tourisme Bretagne, « La crêpe »."
+  },
+  {
+   "champ": "region",
+   "actuel": "la crêpe de froment (krampouezh en breton) est la version sucrée ; sa cousine",
+   "propose": "les crêpes se disent krampouezh en breton ; celle de froment est la version sucrée, et sa cousine",
+   "pourquoi": "Krampouezh désigne les crêpes bretonnes en général, de froment comme de blé noir (Wikipédia : « Les crêpes bretonnes (krampouezh en breton) […] Il existe deux sortes de crêpes »), pas la seule crêpe de froment. Phrase rendue non ambiguë pour la traduction.",
+   "gravite": "mineure",
+   "sources": "Wikipédia (français), « Crêpe », section Bretagne ; Bretagne Culture Diversité (titre breton « Rekipe an toaz krampouezh »)."
+  },
+  {
+   "champ": "serving",
+   "actuel": "les crêpes se gardent 3 jours au réfrigérateur (Chef Simon ; 750g, d'après une virologiste)",
+   "propose": "les crêpes se gardent 3 jours au réfrigérateur (Chef Simon ; 750g, d'après une virologiste ; la FDA dit 3 à 4 jours pour les plats aux œufs), à condition de les y mettre dans les 2 heures (Anses)",
+   "pourquoi": "La conservation ne reposait que sur un chef et un site de recettes : la FDA (restes de plats aux œufs : 3 à 4 jours) et l'Anses (pas plus de 2 heures à température ambiante avant réfrigération) apportent la confirmation officielle et la règle des 2 heures, absente du texte.",
+   "gravite": "mineure",
+   "sources": "FDA, « What You Need to Know About Egg Safety » ; Anses, « dix gestes simples » (24 décembre 2020) ; Santé publique France (restes « rapidement mis au réfrigérateur »)."
+  },
+  {
+   "champ": "discrepancies[3]",
+   "actuel": "50 g (Bretagne Culture Diversité, Pereira)",
+   "propose": "50 g (Bretagne Culture Diversité ; Pereira aussi, mais ses étapes ne disent pas si ce beurre va dans la pâte ou dans la poêle)",
+   "pourquoi": "La recette de Pereira liste 50 g de beurre, mais aucune étape ne l'ajoute à la pâte. La médiane reste 25 g avec ou sans elle (calcul python).",
+   "gravite": "mineure",
+   "sources": "750g, « Crêpes à la fleur d'oranger » (Pereira)."
+  },
+  {
+   "champ": "discrepancies[1]",
+   "actuel": "4 (Bretagne Culture Diversité, Chef Damien, Pereira). Retenu : 4, la médiane et la valeur la plus fréquente.",
+   "propose": "4 (Bretagne Culture Diversité, Pereira ; Chef Damien en annonce 4, mais ses étapes mettent 2 œufs et 2 jaunes, soit environ 2,6 œufs en poids). Retenu : 4, la médiane et la valeur la plus fréquente si l'on suit la liste de Chef Damien ; en comptant ses 2 jaunes à leur poids, la médiane tombe à 3,5 (calcul python).",
+   "pourquoi": "Chef Damien écrit « 4 oeufs » dans sa liste mais « 2 gros œufs et 2 jaunes » dans ses étapes ; un jaune pèse environ 14 g pour un œuf de 50 g (King Arthur). Le choix de 4 œufs reste dans la fourchette des sources (1,5 à 6).",
+   "gravite": "mineure",
+   "sources": "750g, Chef Damien ; King Arthur, « Ingredient Weight Chart » ; calcul python3 -I."
+  }
+ ],
+ "verifie_sans_correction": [
+  "Accès et robots.txt (lus le 8 novembre 2026) : aucun des sites cités n'interdit les pages utilisées (User-agent *, Claude, ClaudeBot, anthropic-ai) ; les 23 liens répondent (code 200). La page actuelle de BCD (recette.php?id=5) n'affiche plus la recette : la copie web.archive.org du 9 août 2022 est légitime (robots.txt de bcd.bzh : tout autorisé).",
+  "FDA, « Handling Flour Safely » : lisible normalement (trois requêtes directes, code 200, page complète, aucune page de détection d'abus, même avec l'identification par défaut de curl) ; « Content current as of 03/05/2024 » = 5 mars 2024. Elle dit bien : « Never eat or taste raw flour, dough, or batter », œufs crus, « Cooking is the only way… », lavage des mains. Source gardée (seule sa mention de détour est corrigée).",
+  "Morbihan Tourisme (publiée le 27 juillet 2023, modifiée le 23 mars 2026) : 30 crêpes, 1 kg de farine type 65, 250 g de sucre, 7 œufs moyens, 1,5 l de lait entier + 20 cl après 1 heure au frais ; puits, œufs et 50 cl de lait au centre ; parfums « vanille, rhum, cannelle, fleur d'oranger, mais rien ne vaut le naturel ! » ; crêpière « bien chaude, préalablement beurrée », faire sauter ou spatule, « quelques instants de l'autre côté » ; garnitures ; festival de Sainte-Anne-d'Auray fin août ; « une dizaine de minutes de préparation ».",
+  "Krampouz : recette du 25 février 2021 (500 g de farine, 120 g de sucre, 3 œufs, 1 pincée de sel, 50 g de beurre, 1 l de lait demi-écrémé, environ 15 crêpes, repos d'au moins 1 heure, 210 °C, retourner quand les bords se décollent, quelques secondes sur la deuxième face, 2 sachets de sucre vanillé) ; conseils de cuisson (200 à 220 °C pour le froment, cuisson lente = texture cartonneuse, pas de temps idéal, se fier à l'aspect, beurre seul accompagnement jusqu'aux années 1960) ; 10 astuces (huile de tournesol, lardiguel = saindoux et jaune d'œuf, pâte de blé noir = eau, farine et sel).",
+  "Bretagne Culture Diversité (copie du 9 août 2022) : 12 crêpes, 250 g de farine, 50 g de beurre, 50 cl de lait, 10 cl d'eau, 4 gros œufs, 2 c. à s. de sucre, 1 pincée de sel, repos de 30 à 45 minutes au frais, noisette de beurre, environ 2 minutes par face. La page cite elle-même recettes-bretonnes.fr comme origine. Bécédia (21 mars 2024, magazine B, hiver 2023) : Catholicon de Jehan Lagadeuc, 1499, « crampoezenn » traduit par crêpe.",
+  "Tourisme Bretagne (10 octobre 2018, modifiée le 11 août 2026) : « On n'attend pas la Chandeleur » ; froment ou blé noir au bout de la Bretagne, galette salée dans l'est ; « rien ne vaut l'iconique beurre-sucre » ; caramel au beurre salé, confiture, pommes poêlées ; billig, rozell, spanell ; « Œufs, farine, lait : laissez reposer, un peu de dextérité ».",
+  "Chef Simon (7 décembre 2011, modifiée le 14 septembre 2026) : une trentaine de crêpes pour 500 g de farine, 6 œufs, 5 cl d'huile ou 50 g de beurre noisette, 1 l de lait ; 50 g de sucre en option, lui ne sucre jamais ; farine pas en une fois ; repos d'au moins 2 heures « pour laisser gonfler les amidons » ou la veille ; poêle trop froide = la pâte attache, trop chaude = crêpe irrégulière, d'où les premières crêpes ratées ; empiler et couvrir ; préparation 10 min, cuisson 40 min, « Facile ». Page crêpe party (Laurent Bazet, 9 novembre 2016, modifiée le 3 novembre 2026) : beurre meilleur mais délicat, huile plus simple ; casserole d'eau frémissante ; 3 jours au réfrigérateur ; pliages ; galette = sarrasin, eau, sel (variants[9] bien attribué).",
+  "Meilleur du Chef : recette (125 g de farine type 55, 30 g de beurre, 3 œufs, 3 dl de lait, 2 c. à s. d'eau, rhum ou arôme fleur d'oranger ; tamis, fontaine, moitié du lait puis le reste, chinois, beurre fondu à la fin, 1 heure au frais) et réponses de Chef Philippe (« Une douzaine selon la taille de la poêle » ; « Commencez par 50 grammes de sucre » ; mieux vaut sucrer après) ; dossier du 23 janvier 2025 (250 g de farine, 60 g de beurre corrigé par le service client, 6 œufs, 6 dl, repos de 30 minutes à 1 heure, la farine gonfle et les bulles d'air partent, mixeur plongeant, vanille, rhum, fleur d'oranger, zeste de citron ; 2 février).",
+  "750g : Chef Damien (15 juillet 2015, modifiée le 24 mars 2026 : 250 g, « 4 oeufs » soit 2 gros œufs et 2 jaunes, 50 cl de lait tiède, 50 g de sucre, 25 g de beurre fondu refroidi ajouté après 10 minutes de repos, environ 2 min 30 par côté, définition du beurre noisette, extrait de vanille) ; guide du 18 janvier 2024 (type 45, 55 ou 65 ; sucre qui colore ; gluten détendu, crêpes « pas trop élastiques et bien moelleuses » ; au moins 1 heure au frais, 6 heures au plus ; torchon ; feu à baisser ; 1/3 d'eau ; beurre qu'on peut retirer ; 6 à 8 heures, voire une nuit) ; Pereira (1 sachet de sucre vanillé, 1 c. à s. de rhum ou de fleur d'oranger, 4 œufs, 1/2 l de lait, 1 à 2 min par face) ; virologiste (30 janvier 2025) et congélation (18 janvier 2024) : 3 jours au frais, environ 3 mois au congélateur, décongélation au réfrigérateur.",
+  "Escoffier, Le Guide culinaire, Émile Colin et Cie, 1903 (Wikisource) : composition A exacte (500 g de farine tamisée, 200 g de sucre, une prise de sel, 12 œufs, 1,5 l de lait ajouté petit à petit ; cuillerée de sucre vanillé, d'orange ou de citron, ou 3 cuillerées de cognac, kirsch ou rhum) ; « servir les crêpes brûlantes ».",
+  "Wikipédia (français, modifié le 26 octobre 2026) : dessert ou en-cas, Chandeleur et Mardi gras, vanille et fleur d'oranger, plaque pas assez chaude = la pâte colle, « Il vaut mieux sucrer après cuisson car le sucre noircit », chiffon gras, pliages (dont le pannequet « petit paquet »), krampouezh, galette salée en Haute-Bretagne, eau, cidre ou lait ribot, dicton de la première crêpe (chat, chien, innocent de la maison). Galette = sarrasin, eau, sel.",
+  "Anses, salmonellose (27 octobre 2025) : œufs jamais lavés avant d'être stockés (mistakes[7] exact), température constante, lavage des mains. eCFR 21 CFR 169.175 : extrait de vanille à 35 % d'alcool au moins (exact).",
+  "Noms : كريب confirmé par Wikipédia en arabe (« الكريبية أو الكريب », d'origine française ; 2 février « يوم الكريب »), Mawdoo3 et le site marocain LalaMoulati. Darija en lettres latines : aucune source, champ vide justifié.",
+  "Proportions recalculées avec python3 -I pour 250 g de farine : œufs 1,5 / 1,75 / 3 / 4 / 4 / 4 / 6 / 6 (médiane 4) ; lait 425 à 750 ml (médiane 500) ; beurre médiane 25 g (avec ou sans Pereira) ; sucre médiane 50 g pour une c. à s. de 10, 12,5 ou 15 g ; eau médiane 0 ; repos médiane 60 min ; crêpes à la poêle 12 / 15 / 24 (médiane 15) ; cuisson 1,33 / 3 / 4 min par crêpe (médiane 3, soit 45 min pour 15). Dates : le 2 février 2025 était un dimanche (Chef Simon se trompe, point bien écarté).",
+  "Rendu dans l'appli, rejoué avec le code de app.html (node) : 1 crêpe = 17 g de farine, 3 g de sucre, ¼ pincée de sel, ¼ œuf, 35 ml de lait, 2 g de beurre, ¼ sachet de sucre vanillé ; 15 crêpes = 250 g, 50 g, 1 pincée, 4 œufs, 500 ml, 25 g, 1 sachet ; 30 crêpes = 500 g, 100 g, 2 pincées, 8 œufs, 1 l, 50 g, 2 sachets. {{oeufs:full}} donne « 4 œufs », {{fleur-oranger}} et {{huile}} (q null) donnent le nom. Les arrondis à 1 crêpe (¼ œuf, ¼ pincée) viennent de l'appli, pas de la recette.",
+  "Cohérence : minuteur de 60 min = time.rest ; cuisson sans minuteur, conforme à Krampouz (« se fier à l'aspect ») ; 10 + 45 min, recette non « Rapide » ; toutes les quantités des étapes passent par les ingrédients. Halal : rhum, cognac, kirsch, liqueurs, bière, cidre, flambage, saindoux et lardiguel écartés ; pas de fromage."
+ ],
+ "non_verifiable": [
+  "Quota de recherche web épuisé : pas de recherche de nouvelles recettes françaises (Larousse, écoles de cuisine, presse régionale lisible). Les sources ajoutées ont été trouvées par les plans de site (sitemaps) d'agriculture.gouv.fr, de santepubliquefrance.fr et d'anses.fr, et par la recherche interne de LalaMoulati.",
+  "Absence d'alcool dans l'eau de fleur d'oranger et le sucre vanillé du commerce : non vérifiée (aucune source officielle française ou marocaine lue) ; à contrôler sur l'étiquette. La norme américaine (21 CFR 169.179) définit le « vanilla sugar » comme vanille moulue ou oléorésine et sucre, mais ce n'est pas la norme française.",
+  "Seconde face « quelques instants seulement » : vrai sur une crêpière chaude (Krampouz : quelques secondes ; Morbihan : quelques instants), mais à la poêle trois recettes comptent 1 à 2 min 30 par face (Bretagne Culture Diversité, Pereira, Chef Damien). Laissé tel quel puisque la recette demande de se fier à la couleur ; aucune source ne tranche pour la poêle.",
+  "Durée de congélation (environ 3 mois) : toujours un seul site (750g) ; Chef Simon confirme seulement qu'on peut congeler les crêpes une à une, sans durée. Aucune source officielle lue sur ce point.",
+  "Durée totale de cuisson (45 min) et nombre de crêpes (15) : estimations recalculées et cohérentes, mais aucune source ne les donne pour cette pâte à la poêle.",
+  "Recette d'origine citée par Bretagne Culture Diversité (recettes-bretonnes.fr) : non consultée.",
+  "Marmiton, Cuisine Actuelle, Le Figaro et finisterebrittany.com : non testés par la contre-vérification. Pour Ouest-France, Le Télégramme et Elle, le robots.txt a été relu : « Disallow: / » pour anthropic-ai (Ouest-France, Elle) et pour ClaudeBot (Le Télégramme, Elle) ; ces sites n'ont donc pas été utilisés, comme l'avait fait l'auteur."
+ ]
+}

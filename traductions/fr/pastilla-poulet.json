@@ -1,0 +1,290 @@
+{
+ "_slug": "pastilla-poulet",
+ "_ingredients": {
+  "poulet": {
+   "q": 1.6,
+   "u": "kg",
+   "fr": "de poulet halal, coupé en morceaux"
+  },
+  "oignons": {
+   "q": 800,
+   "u": "g",
+   "fr": "d'oignons"
+  },
+  "persil": {
+   "q": 1,
+   "u": "botte",
+   "fr": "de persil plat"
+  },
+  "coriandre": {
+   "q": 0.5,
+   "u": "botte",
+   "fr": "de coriandre fraîche"
+  },
+  "huile": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "d'huile d'olive ou neutre"
+  },
+  "smen": {
+   "q": 30,
+   "u": "g",
+   "fr": "de smen ou beurre"
+  },
+  "gingembre": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de gingembre moulu"
+  },
+  "curcuma": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de curcuma"
+  },
+  "cannelle-sauce": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de cannelle moulue"
+  },
+  "safran": {
+   "q": 1,
+   "u": "pincée",
+   "fr": "de pistils de safran"
+  },
+  "sel": {
+   "q": null,
+   "u": "",
+   "fr": "sel, selon le goût"
+  },
+  "poivre": {
+   "q": null,
+   "u": "",
+   "fr": "poivre noir moulu, selon le goût"
+  },
+  "eau": {
+   "q": 250,
+   "u": "ml",
+   "fr": "d'eau"
+  },
+  "sucre": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de sucre en poudre"
+  },
+  "oeufs": {
+   "q": 8,
+   "u": "",
+   "fr": "œuf / œufs",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "amandes": {
+   "q": 350,
+   "u": "g",
+   "fr": "d'amandes émondées (sans la peau)"
+  },
+  "huile-friture": {
+   "q": 4,
+   "u": "c. à s.",
+   "fr": "d'huile neutre"
+  },
+  "sucre-glace": {
+   "q": 60,
+   "u": "g",
+   "fr": "de sucre glace"
+  },
+  "cannelle-amandes": {
+   "q": 1.5,
+   "u": "c. à c.",
+   "fr": "de cannelle moulue"
+  },
+  "fleur-oranger": {
+   "q": 1,
+   "u": "c. à s.",
+   "fr": "d'eau de fleur d'oranger"
+  },
+  "beurre": {
+   "q": 120,
+   "u": "g",
+   "fr": "de beurre"
+  },
+  "feuilles-tour": {
+   "q": 6,
+   "u": "",
+   "fr": "feuille de warqa ou de brick, pour le tour / feuilles de warqa ou de brick, pour le tour",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "feuilles-fond": {
+   "q": 2,
+   "u": "",
+   "fr": "feuille de warqa ou de brick, pour le fond / feuilles de warqa ou de brick, pour le fond",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "feuilles-dessus": {
+   "q": 4,
+   "u": "",
+   "fr": "feuille de warqa ou de brick, pour le dessus / feuilles de warqa ou de brick, pour le dessus",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "jaune": {
+   "q": 1,
+   "u": "",
+   "fr": "jaune d'œuf / jaunes d'œufs",
+   "formes": "compté à la pièce : donner les formes du pluriel"
+  },
+  "sucre-glace-decor": {
+   "q": 3,
+   "u": "c. à s.",
+   "fr": "de sucre glace"
+  },
+  "cannelle-decor": {
+   "q": 1,
+   "u": "c. à c.",
+   "fr": "de cannelle moulue"
+  }
+ },
+ "textes": {
+  "title": "Pastilla au poulet et aux amandes (version fassie)",
+  "darija": "bastila bel djaj",
+  "tagline": "Des feuilles qui craquent, un poulet fondant aux oignons safranés et une couche d'amandes à la cannelle et à la fleur d'oranger : le grand sucré-salé de la cuisine fassie.",
+  "region": "Fès (version fassie)",
+  "occasion": "Fêtes, mariages et grands dîners de réception",
+  "serving": "Sers-la bien chaude, sur un grand plat rond. Dans un repas de fête, elle se sert en entrée, avant le tajine de poulet ou le méchoui. Tu peux ajouter quelques amandes frites entières sur le décor.",
+  "ing.0.group": "Poulet et sauce aux oignons",
+  "ing.poulet.name": "de poulet halal, coupé en morceaux",
+  "ing.poulet.note": "ou cuisses et hauts de cuisse ; beldi si possible",
+  "ing.oignons.name": "d'oignons",
+  "ing.oignons.note": "émincés finement ou râpés",
+  "ing.persil.name": "de persil plat",
+  "ing.persil.note": "haché",
+  "ing.coriandre.name": "de coriandre fraîche",
+  "ing.coriandre.note": "hachée",
+  "ing.huile.name": "d'huile d'olive ou neutre",
+  "ing.smen.name": "de smen ou beurre",
+  "ing.gingembre.name": "de gingembre moulu",
+  "ing.curcuma.name": "de curcuma",
+  "ing.cannelle-sauce.name": "de cannelle moulue",
+  "ing.safran.name": "de pistils de safran",
+  "ing.sel.name": "sel, selon le goût",
+  "ing.sel.note": "repère : environ 1,5 à 2 c. à c. ; rectifie après la réduction",
+  "ing.poivre.name": "poivre noir moulu, selon le goût",
+  "ing.poivre.note": "repère : environ 1 c. à c.",
+  "ing.eau.name": "d'eau",
+  "ing.sucre.name": "de sucre en poudre",
+  "ing.sucre.note": "ou du miel",
+  "ing.oeufs.name": "œuf",
+  "ing.oeufs.pl": "œufs",
+  "ing.1.group": "Couche d'amandes",
+  "ing.amandes.name": "d'amandes émondées (sans la peau)",
+  "ing.huile-friture.name": "d'huile neutre",
+  "ing.huile-friture.note": "pour frire les amandes",
+  "ing.sucre-glace.name": "de sucre glace",
+  "ing.sucre-glace.note": "à ajuster selon ton goût",
+  "ing.cannelle-amandes.name": "de cannelle moulue",
+  "ing.fleur-oranger.name": "d'eau de fleur d'oranger",
+  "ing.2.group": "Montage",
+  "ing.beurre.name": "de beurre",
+  "ing.beurre.note": "à faire fondre ; ou smen",
+  "ing.feuilles-tour.name": "feuille de warqa ou de brick, pour le tour",
+  "ing.feuilles-tour.pl": "feuilles de warqa ou de brick, pour le tour",
+  "ing.feuilles-tour.note": "prévois 12 à 15 feuilles en tout pour avoir de la marge",
+  "ing.feuilles-fond.name": "feuille de warqa ou de brick, pour le fond",
+  "ing.feuilles-fond.pl": "feuilles de warqa ou de brick, pour le fond",
+  "ing.feuilles-dessus.name": "feuille de warqa ou de brick, pour le dessus",
+  "ing.feuilles-dessus.pl": "feuilles de warqa ou de brick, pour le dessus",
+  "ing.jaune.name": "jaune d'œuf",
+  "ing.jaune.pl": "jaunes d'œufs",
+  "ing.jaune.note": "pour coller les plis",
+  "ing.3.group": "Décor",
+  "ing.sucre-glace-decor.name": "de sucre glace",
+  "ing.cannelle-decor.name": "de cannelle moulue",
+  "equipment.0": "Grand faitout ou cocotte avec couvercle",
+  "equipment.1": "Poêle",
+  "equipment.2": "Passoire et papier absorbant",
+  "equipment.3": "Mixeur (ou mortier)",
+  "equipment.4": "Moule rond de 30 cm à bord bas (type plat à tarte)",
+  "equipment.5": "Pinceau de cuisine",
+  "equipment.6": "Film alimentaire et torchon",
+  "equipment.7": "Passoire fine pour le sucre glace",
+  "equipment.8": "Grand plat de service rond",
+  "steps.0.title": "Prépare le poulet et les herbes",
+  "steps.0.text": "Coupe {{poulet}} de poulet en morceaux. Émince finement {{oignons}} d'oignons. Hache {{persil}} de persil et {{coriandre}} de coriandre.",
+  "steps.0.img.alt": "Persil haché au couteau sur une planche",
+  "steps.0.img.caption": "Hacher les herbes",
+  "steps.1.title": "Fais revenir le poulet aux épices",
+  "steps.1.text": "Dans un grand faitout, mets le poulet, les oignons, les herbes, {{huile}} d'huile et {{smen}} de smen (ou de beurre). Ajoute {{gingembre}} de gingembre, {{curcuma}} de curcuma, {{cannelle-sauce}} de cannelle, {{safran}} de safran, du sel et du poivre. Mélange, couvre et laisse cuire à feu moyen en remuant de temps en temps.",
+  "steps.1.timer.label": "Poulet aux épices",
+  "steps.1.timer.done": "Passe à l'étape suivante : verse l'eau.",
+  "steps.2.title": "Fais mijoter",
+  "steps.2.text": "Verse {{eau}} d'eau et porte à ébullition. Baisse à feu moyen-doux, couvre et laisse mijoter en retournant les morceaux de temps en temps. C'est prêt quand la viande se détache facilement de l'os. Pendant ce temps, prépare les amandes.",
+  "steps.2.timer.label": "Mijotage du poulet",
+  "steps.2.timer.done": "La viande se détache de l'os ? Sinon, prolonge un peu la cuisson.",
+  "steps.3.title": "Fais frire les amandes",
+  "steps.3.text": "Mets {{amandes}} d'amandes dans une poêle avec {{huile-friture}} d'huile encore froide. Chauffe à feu moyen en remuant souvent, jusqu'à ce qu'elles soient dorées de façon uniforme. Égoutte-les sur du papier absorbant et laisse-les refroidir.",
+  "steps.4.title": "Prépare le mélange aux amandes",
+  "steps.4.text": "Concasse les amandes au mixeur par petites impulsions : il doit rester de petits morceaux, pas de la poudre. Mélange-les avec {{sucre-glace}} de sucre glace, {{cannelle-amandes}} de cannelle et {{fleur-oranger}} d'eau de fleur d'oranger. Réserve.",
+  "steps.5.title": "Réduis la sauce aux oignons",
+  "steps.5.text": "Sors le poulet et pose-le sur une assiette pour qu'il tiédisse. Ajoute {{sucre}} de sucre à la sauce et laisse réduire à feu moyen-doux, sans couvercle, en remuant souvent. C'est prêt quand il ne reste plus de liquide, seulement les oignons fondus dans leur gras.",
+  "steps.5.timer.label": "Réduction de la sauce",
+  "steps.5.timer.done": "Plus de liquide, juste le gras ? Sinon, continue quelques minutes en remuant.",
+  "steps.6.title": "Effiloche le poulet",
+  "steps.6.text": "Pendant que la sauce réduit, retire la peau et les os du poulet. Effiloche la chair en petits morceaux et réserve-la.",
+  "steps.7.title": "Cuis les œufs dans la sauce",
+  "steps.7.text": "Bats {{oeufs:full}} en omelette. Verse-les peu à peu dans la sauce réduite, à feu doux, en remuant sans arrêt. Arrête quand ils sont pris en une crème épaisse, comme des œufs brouillés bien secs, sans liquide.",
+  "steps.8.title": "Égoutte et laisse refroidir",
+  "steps.8.text": "Verse les œufs dans une passoire posée sur un bol et garde le gras qui s'égoutte. Laisse refroidir complètement les œufs et le poulet, chacun de son côté. Tu peux préparer les garnitures la veille et les garder au frigo.",
+  "steps.9.title": "Prépare le moule",
+  "steps.9.text": "Préchauffe le four à 180 °C. Fais fondre {{beurre}} de beurre et mélange-le au gras réservé. Beurre généreusement un moule rond de 30 cm. Garde les feuilles sous un film alimentaire et un torchon pour qu'elles ne sèchent pas.",
+  "steps.10.title": "Forme la base",
+  "steps.10.text": "Badigeonne de beurre {{feuilles-tour:full}} et dispose-les en rosace dans le moule : elles se chevauchent et débordent largement du bord. Pose au centre {{feuilles-fond:full}}, beurrées, pour renforcer le fond.",
+  "steps.11.title": "Superpose les garnitures",
+  "steps.11.text": "Étale le poulet effiloché en couche régulière. Ajoute les œufs, puis termine par le mélange aux amandes, bien à plat.",
+  "steps.12.title": "Referme la pastilla",
+  "steps.12.text": "Rabats les feuilles qui débordent sur les amandes, en les badigeonnant de beurre au fur et à mesure. Bats {{jaune:full}} et passe-le sur les plis pour bien les coller.",
+  "steps.13.title": "Couvre le dessus",
+  "steps.13.text": "Badigeonne de beurre {{feuilles-dessus:full}} et pose-les sur le dessus en les faisant se chevaucher. Rentre leurs bords entre la pastilla et le moule pour obtenir un bord bien rond. Badigeonne tout le dessus avec le reste de beurre.",
+  "steps.14.title": "Fais cuire au four",
+  "steps.14.text": "Enfourne à mi-hauteur. Cuis jusqu'à ce que la pastilla soit bien dorée et croustillante.",
+  "steps.14.timer.label": "Cuisson au four",
+  "steps.14.timer.done": "Bien dorée et croustillante ? Sors-la. Sinon, laisse encore quelques minutes en surveillant.",
+  "steps.15.title": "Laisse reposer, décore et sers",
+  "steps.15.text": "Laisse reposer la pastilla avant de la couper. Fais-la glisser délicatement sur un grand plat rond. Saupoudre {{sucre-glace-decor}} de sucre glace à travers une passoire fine, puis trace des croisillons avec {{cannelle-decor}} de cannelle. Sers bien chaud.",
+  "steps.15.timer.label": "Repos avant découpe",
+  "steps.15.timer.done": "Décore et sers bien chaud !",
+  "secrets.0.text": "Fais réduire la sauce aux oignons jusqu'à ce qu'elle « tienne dans son gras » : plus une goutte de liquide. Une farce humide ramollit la pastilla.",
+  "secrets.0.source": "Barlamane (Mariam Bensellham, experte en cuisine marocaine) ; My Moroccan Food ; Amour de cuisine",
+  "secrets.1.text": "Cuis les œufs dans la sauce réduite en remuant sans arrêt, jusqu'à une texture d'œufs brouillés bien secs.",
+  "secrets.1.source": "Cooking with Alia ; Ma fleur d'oranger ; Paula Wolfert (The Food of Morocco)",
+  "secrets.2.text": "Égoutte le mélange aux œufs et garde le gras : mélangé au beurre fondu, il sert à badigeonner les feuilles.",
+  "secrets.2.source": "Femmes du Maroc (cuisinières de Maymana) ; La Cuisine Marocaine ; Paula Wolfert",
+  "secrets.3.text": "Mets les amandes dans l'huile encore froide avant de chauffer : elles dorent de façon uniforme.",
+  "secrets.3.source": "Barlamane (Mariam Bensellham)",
+  "secrets.4.text": "Concasse les amandes sans les réduire en poudre.",
+  "secrets.4.source": "Barlamane ; Amour de cuisine ; Paula Wolfert",
+  "secrets.5.text": "Monte la pastilla avec des garnitures bien froides, sinon les feuilles se déchirent.",
+  "secrets.5.source": "Ma fleur d'oranger",
+  "secrets.6.text": "Beurre généreusement chaque feuille : c'est ce qui donne le croustillant.",
+  "secrets.6.source": "Barlamane ; Amour de cuisine",
+  "secrets.7.text": "Garde les feuilles sous un film et un torchon pendant le montage pour qu'elles ne sèchent pas.",
+  "secrets.7.source": "Amour de cuisine",
+  "secrets.8.text": "Un peu de sucre (ou de miel) ajouté à la sauce aux oignons pendant la réduction renforce l'équilibre sucré-salé.",
+  "secrets.8.source": "My Moroccan Food ; Ma fleur d'oranger ; Femmes du Maroc",
+  "secrets.9.text": "Prépare les garnitures à l'avance (la veille, jusqu'à 48 h) et garde-les séparément au frigo : le jour J, il ne reste que le montage.",
+  "secrets.9.source": "Amour de cuisine ; Paula Wolfert ; Ma fleur d'oranger",
+  "mistakes.0": "Monter avec une sauce encore liquide : la pastilla devient molle.",
+  "mistakes.1": "Laisser les œufs baveux : leur liquide détrempe les feuilles.",
+  "mistakes.2": "Monter avec une garniture tiède : les feuilles se déchirent.",
+  "mistakes.3": "Réduire les amandes en poudre fine au lieu de les concasser.",
+  "mistakes.4": "Laisser les feuilles à l'air pendant le montage : elles sèchent.",
+  "mistakes.5": "Être avare de beurre : la pastilla ne croustille pas.",
+  "mistakes.6": "Couper la pastilla dès la sortie du four : laisse-la reposer 10 min.",
+  "mistakes.7": "Réchauffer les restes au micro-ondes : la pâte ramollit. Passe-les plutôt au four.",
+  "variants.0": "Au pigeon, la version traditionnelle de Fès : remplace le poulet par des pigeons halal, cuits de la même façon avec oignons, épices et herbes, puis désossés sans la peau ; le reste ne change pas. Le blog Épices et douceurs (recette attribuée à Fatéma Hal) les fait mijoter 30 à 35 min à couvert. Aux mariages, la pastilla au pigeon est servie juste avant le m'hammar de poulet (Taste of Maroc).",
+  "variants.1": "Amandes grillées au four au lieu d'être frites, avec un filet d'huile, jusqu'à ce qu'elles soient dorées (My Moroccan Food : environ 18 min à 160 °C ; Amour de cuisine : environ 15 min à 160 °C).",
+  "variants.2": "Œufs brouillés à part dans un peu de beurre, au lieu d'être cuits dans la sauce (My Moroccan Food).",
+  "variants.3": "Miel à la place du sucre dans la sauce (Femmes du Maroc ; My Moroccan Food).",
+  "variants.4": "Pastillas individuelles : mêmes garnitures dans des cercles de 8 à 12 cm, 20 à 30 min au four (Femmes du Maroc : 180 °C, 20 à 25 min ; Amour de cuisine : 180 °C, environ 30 min ; My Moroccan Food : 200 °C, environ 25 min).",
+  "variants.5": "Pâte filo à la place de la warqa ou de la brick : 2 à 3 feuilles de filo beurrées par couche et environ 5 min de cuisson en plus (Amour de cuisine).",
+  "variants.6": "Façon Paula Wolfert (The Food of Morocco) : four à 220 °C pendant 20 min, puis pastilla retournée sur une plaque beurrée, badigeonnée de beurre et remise 10 min au four ; elle ajoute aussi du jus de citron dans la sauce avant les œufs et une pointe de muscade.",
+  "variants.7": "Autres touches selon les familles : un peu de gomme arabique pilée dans la sauce (Cooking with Alia, recette 695 ; Épices et douceurs) ou de ras el hanout (Femmes du Maroc)."
+ }
+}

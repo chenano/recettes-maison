@@ -1,0 +1,486 @@
+{
+ "_slug": "poulet-creme-champignons",
+ "_langue": "ar",
+ "textes": {
+  "title": {
+   "fr": "Émincé de poulet à la crème et aux champignons",
+   "t": "شرائح الدجاج بالقشدة والفطر"
+  },
+  "tagline": {
+   "fr": "Des lanières de poulet saisies, des champignons bien dorés et une sauce crémeuse sans vin : un plat du soir doux et réconfortant, avec du riz ou des pâtes.",
+   "t": "شرائح دجاج محمّرة على نار قوية، وفطر ذهبي جيدًا، وصلصة كريمية دون نبيذ: طبق مسائي لطيف يبعث الدفء، مع الأرز أو المعكرونة."
+  },
+  "region": {
+   "fr": "France et Suisse. Poulet sauté à la crème de la cuisine française classique (Escoffier, Chef Simon) et émincé de poulet à la crème des cuisines suisses (Migusto, Betty Bossi), cousin de l'émincé de veau à la zurichoise (Wikipédia).",
+   "t": "فرنسا وسويسرا. الدجاج المشوّح بالقشدة من المطبخ الفرنسي الكلاسيكي (Escoffier، Chef Simon)، وشرائح الدجاج بالقشدة من المطابخ السويسرية (Migusto، Betty Bossi)، وهو قريب من شرائح لحم العجل على طريقة زيورخ (Wikipédia)."
+  },
+  "occasion": {
+   "fr": "Dîner rapide en semaine. Une sauce crémeuse qui « réunit toujours toute la famille autour de la table », selon Migusto.",
+   "t": "عشاء سريع في أيام الأسبوع. صلصة كريمية «تجمع دائمًا العائلة كلها حول المائدة»، حسب Migusto."
+  },
+  "img_alt": {
+   "fr": "Émincé de volaille aux champignons à la crème, sur des tagliatelles",
+   "t": "شرائح دجاج بالفطر والقشدة، على التالياتيلي"
+  },
+  "serving": {
+   "fr": "Bien chaud, nappé de sauce, avec du riz (Chef Simon le sert avec un riz créole) ou des pâtes, des tagliatelles par exemple (Betty Bossi ; Chef Simon conseille des pâtes fraîches). En Suisse, on le sert aussi avec des röstis ou des spätzli (Migusto, Wikipédia). Restes : le poulet en sauce au réfrigérateur dans les 2 heures (Anses, FSA), à manger sous 2 jours (FSA ; l'Anses dit moins de 3 jours pour un plat cuisiné). Le riz, lui, se refroidit au plus vite, idéalement dans l'heure, et se garde 24 heures au plus au réfrigérateur (FSA). Le tout se réchauffe une seule fois, couvert, jusqu'à ce que ce soit brûlant et fumant (Anses, FSA). Crème entamée : suis la durée « après ouverture » de l'étiquette, sinon 3 jours au plus (Anses, FSA).",
+   "t": "قدّمه ساخنًا جيدًا، مغطّى بالصلصة، مع الأرز (يقدّمه Chef Simon مع أرز كريولي) أو المعكرونة، كالتالياتيلي مثلًا (Betty Bossi؛ وينصح Chef Simon بالمعكرونة الطازجة). وفي سويسرا، يُقدَّم أيضًا مع الروستي أو الشبيتزلي (Migusto، Wikipédia). البقايا: يوضع الدجاج بالصلصة في الثلاجة خلال 2 ساعة (Anses، FSA)، ويؤكل في غضون 2 يوم (FSA؛ وتقول Anses أقل من 3 أيام للطبق المطبوخ). أما الأرز فيُبرَّد بأسرع ما يمكن، ويُستحسن خلال ساعة، ويُحفظ 24 ساعة على الأكثر في الثلاجة (FSA). ويُسخَّن الكل مرة واحدة فقط، مغطّى، حتى يصير ساخنًا جدًا ويتصاعد منه البخار (Anses، FSA). القشدة المفتوحة: اتبع مدة «بعد الفتح» المكتوبة على الملصق، وإلا فـ3 أيام على الأكثر (Anses، FSA)."
+  },
+  "ing.0.group": {
+   "fr": "Poulet",
+   "t": "الدجاج"
+  },
+  "ing.poulet.name": {
+   "fr": "de blancs de poulet halal",
+   "t": "صدور دجاج حلال"
+  },
+  "ing.poulet.note": {
+   "fr": "ou d'émincé de poulet tout prêt",
+   "t": "أو شرائح دجاج جاهزة"
+  },
+  "ing.sel.name": {
+   "fr": "sel",
+   "t": "الملح"
+  },
+  "ing.poivre.name": {
+   "fr": "poivre noir moulu",
+   "t": "الفلفل الأسود المطحون"
+  },
+  "ing.huile.name": {
+   "fr": "d'huile neutre",
+   "t": "زيت المائدة"
+  },
+  "ing.huile.note": {
+   "fr": "tournesol, colza ou arachide",
+   "t": "عباد الشمس أو الكولزا أو الفول السوداني"
+  },
+  "ing.1.group": {
+   "fr": "Sauce aux champignons",
+   "t": "صلصة الفطر"
+  },
+  "ing.oignon.name": {
+   "fr": "oignon",
+   "t": "بصلة"
+  },
+  "ing.oignon.pl": {
+   "fr": "oignons",
+   "t": "بصلات"
+  },
+  "ing.champignons.name": {
+   "fr": "de champignons de Paris",
+   "t": "فطر باريس"
+  },
+  "ing.champignons.note": {
+   "fr": "blancs de préférence",
+   "t": "ويُفضَّل الأبيض"
+  },
+  "ing.beurre.name": {
+   "fr": "beurre",
+   "t": "الزبدة"
+  },
+  "ing.beurre.note": {
+   "fr": "un petit morceau ; sinon une cuillerée d'huile",
+   "t": "قطعة صغيرة؛ وإلا فملعقة من الزيت"
+  },
+  "ing.bouillon.name": {
+   "fr": "de bouillon de volaille halal",
+   "t": "مرق دواجن حلال"
+  },
+  "ing.bouillon.note": {
+   "fr": "cube halal dissous dans l'eau chaude, ou bouillon maison ; à défaut, de l'eau (la sauce aura moins de goût)",
+   "t": "مكعب مرق حلال مذاب في الماء الساخن، أو مرق منزلي؛ وإن لم يتوفر، فالماء (ستكون الصلصة أقل نكهة)"
+  },
+  "ing.creme.name": {
+   "fr": "de crème fraîche épaisse",
+   "t": "قشدة طازجة ثخينة"
+  },
+  "ing.creme.note": {
+   "fr": "au moins 30 % de matière grasse, ou crème liquide entière ; pas de crème allégée",
+   "t": "30 % من الدسم على الأقل، أو قشدة سائلة كاملة الدسم؛ لا قشدة خفيفة"
+  },
+  "ing.persil.name": {
+   "fr": "persil plat",
+   "t": "البقدونس"
+  },
+  "ing.persil.note": {
+   "fr": "quelques brins, facultatif",
+   "t": "بضعة أغصان، اختياري"
+  },
+  "ing.2.group": {
+   "fr": "Pour servir (au choix)",
+   "t": "للتقديم (حسب الاختيار)"
+  },
+  "ing.riz.name": {
+   "fr": "de riz",
+   "t": "أرز"
+  },
+  "ing.riz.note": {
+   "fr": "au choix : le riz OU les pâtes",
+   "t": "حسب الاختيار: إمّا الأرز أو المعكرونة"
+  },
+  "ing.pates.name": {
+   "fr": "de pâtes (tagliatelles ou spaghettis)",
+   "t": "معكرونة (تالياتيلي أو سباغيتي)"
+  },
+  "ing.pates.note": {
+   "fr": "au choix : les pâtes OU le riz",
+   "t": "حسب الاختيار: إمّا المعكرونة أو الأرز"
+  },
+  "ing.eau.name": {
+   "fr": "eau",
+   "t": "الماء"
+  },
+  "ing.eau.note": {
+   "fr": "une grande casserole, salée",
+   "t": "ما يملأ قدرًا كبيرة، مملّح"
+  },
+  "equipment.0": {
+   "fr": "Une grande poêle ou une sauteuse (en fonte ou en inox si tu en as une : elle donne plus de sucs)",
+   "t": "مقلاة كبيرة أو مقلاة عميقة (من الحديد الزهر أو الفولاذ المقاوم للصدأ إن كانت لديك: فهي تترك في القاع عصارات متحمّصة أكثر)"
+  },
+  "equipment.1": {
+   "fr": "Une grande casserole et une passoire, pour le riz ou les pâtes",
+   "t": "قدر كبيرة ومصفاة، للأرز أو المعكرونة"
+  },
+  "equipment.2": {
+   "fr": "Une planche à découper et un couteau bien aiguisé",
+   "t": "لوح تقطيع وسكين حاد جيدًا"
+  },
+  "equipment.3": {
+   "fr": "Une assiette propre, pour le poulet saisi",
+   "t": "صحن نظيف، للدجاج المحمّر"
+  },
+  "equipment.4": {
+   "fr": "Une cuillère en bois ou une spatule",
+   "t": "ملعقة خشبية أو ملعقة مسطّحة"
+  },
+  "equipment.5": {
+   "fr": "Du papier absorbant ou une petite brosse, pour les champignons",
+   "t": "ورق ماصّ أو فرشاة صغيرة، للفطر"
+  },
+  "equipment.6": {
+   "fr": "Un thermomètre de cuisson (facultatif)",
+   "t": "ميزان حرارة للطبخ (اختياري)"
+  },
+  "steps.0.title": {
+   "fr": "Mets l'eau à chauffer",
+   "t": "ضع الماء على النار"
+  },
+  "steps.0.text": {
+   "fr": "Remplis une grande casserole d'{{eau}}, sale-la et porte-la à ébullition, pour le riz ou les pâtes.",
+   "t": "املأ قدرًا كبيرة ب{{eau}}، وملّحه، واتركه حتى يغلي، للأرز أو المعكرونة."
+  },
+  "steps.1.title": {
+   "fr": "Hache l'oignon",
+   "t": "افرم البصل"
+  },
+  "steps.1.text": {
+   "fr": "Pèle et hache finement {{oignon:full}}.",
+   "t": "قشّر {{oignon:full}} وافرمها فرمًا ناعمًا."
+  },
+  "steps.1.img.alt": {
+   "fr": "Oignon émincé et ail écrasé sur une planche",
+   "t": "بصل مقطّع إلى شرائح وثوم مهروس على لوح تقطيع"
+  },
+  "steps.1.img.caption": {
+   "fr": "Émincer l'oignon",
+   "t": "تقطيع البصل إلى شرائح"
+  },
+  "steps.2.title": {
+   "fr": "Nettoie les champignons",
+   "t": "نظّف الفطر"
+  },
+  "steps.2.text": {
+   "fr": "Prends {{champignons:full}} : coupe le bout terreux de leur pied, puis essuie-les avec un papier absorbant humide ou une petite brosse. Ne les fais jamais tremper : s'ils sont très sales, passe-les très vite sous l'eau et sèche-les aussitôt.",
+   "t": "خذ {{champignons}} من فطر باريس: اقطع الطرف الترابي من سيقانه، ثم امسحه بورق ماصّ مبلّل أو بفرشاة صغيرة. لا تنقعه في الماء أبدًا: إذا كان متّسخًا جدًا، مرّره بسرعة كبيرة تحت الماء وجفّفه فورًا."
+  },
+  "steps.3.title": {
+   "fr": "Émince les champignons",
+   "t": "قطّع الفطر إلى شرائح"
+  },
+  "steps.3.text": {
+   "fr": "Coupe les champignons en fines lamelles.",
+   "t": "قطّع الفطر إلى شرائح رقيقة."
+  },
+  "steps.4.title": {
+   "fr": "Émince le poulet",
+   "t": "قطّع الدجاج إلى شرائط"
+  },
+  "steps.4.text": {
+   "fr": "Coupe {{poulet}} de blancs de poulet en lanières d'environ 1 cm de large. Sale-les et poivre-les. Lave-toi ensuite les mains, la planche et le couteau au savon.",
+   "t": "قطّع {{poulet}} من صدور الدجاج إلى شرائط عرضها نحو 1 سم. رشّ عليها الملح والفلفل. ثم اغسل يديك ولوح التقطيع والسكين بالصابون."
+  },
+  "steps.4.tip": {
+   "fr": "Une seule planche ? Coupe toujours les légumes d'abord et le poulet cru en dernier (FSA, agence sanitaire britannique).",
+   "t": "لديك لوح تقطيع واحد فقط؟ قطّع الخضر أولًا دائمًا، والدجاج النيء في الأخير (FSA، الوكالة الصحية البريطانية)."
+  },
+  "steps.5.title": {
+   "fr": "Lance le riz ou les pâtes",
+   "t": "ابدأ طهي الأرز أو المعكرونة"
+  },
+  "steps.5.text": {
+   "fr": "Quand l'eau bout, verse {{riz}} de riz ou {{pates}} de pâtes. Fais cuire le temps indiqué sur le paquet, puis égoutte.",
+   "t": "عندما يغلي الماء، أضف {{riz}} من الأرز أو {{pates}} من المعكرونة. اسلق ما اخترته المدة المبيّنة على العلبة، ثم صفِّه."
+  },
+  "steps.6.title": {
+   "fr": "Saisis une moitié du poulet",
+   "t": "حمّر نصف الدجاج"
+  },
+  "steps.6.text": {
+   "fr": "Dans la grande poêle, chauffe à feu vif la moitié de l'huile ({{huile}} en tout), bien chaude mais sans fumer. Mets la moitié du poulet, ou 300 g environ si tu cuisines pour plus de 4, et laisse-le dorer 2 minutes environ : laisse-le d'abord sans y toucher, puis retourne-le pour dorer tous les côtés.",
+   "t": "في المقلاة الكبيرة، سخّن على نار قوية نصف الزيت ({{huile}} في المجموع) حتى يصير ساخنًا جيدًا دون أن يدخّن. ضع نصف الدجاج، أو نحو 300 غ إذا كنت تطبخ لأكثر من 4 أشخاص، واتركه يتحمّر نحو 2 دقيقة: اتركه أولًا دون أن تلمسه، ثم اقلبه ليتحمّر من كل الجهات."
+  },
+  "steps.6.tip": {
+   "fr": "Si tu remues trop tôt ou sans arrêt, la poêle refroidit et le poulet cuit à la vapeur au lieu de dorer (Betty Bossi).",
+   "t": "إذا حرّكته مبكرًا جدًا أو دون توقف، تبرد المقلاة ويُطهى الدجاج بالبخار بدل أن يتحمّر (Betty Bossi)."
+  },
+  "steps.6.timer.label": {
+   "fr": "Première moitié",
+   "t": "النصف الأول"
+  },
+  "steps.6.timer.done": {
+   "fr": "Sors le poulet sur une assiette propre.",
+   "t": "أخرج الدجاج إلى صحن نظيف."
+  },
+  "steps.7.title": {
+   "fr": "Saisis l'autre moitié",
+   "t": "حمّر النصف الآخر"
+  },
+  "steps.7.text": {
+   "fr": "Sors le poulet sur une assiette propre, pas celle du poulet cru. Verse le reste de l'huile et saisis le reste du poulet de la même façon, 2 minutes environ par fournée, puis sors-le aussi.",
+   "t": "أخرج الدجاج إلى صحن نظيف، لا الصحن الذي كان فيه الدجاج النيء. اسكب باقي الزيت وحمّر باقي الدجاج بالطريقة نفسها، نحو 2 دقيقة لكل دفعة، ثم أخرجه هو أيضًا."
+  },
+  "steps.7.tip": {
+   "fr": "Le poulet finira de cuire dans la sauce : à la fin, il doit être bien cuit (Migusto).",
+   "t": "سيكتمل نضج الدجاج في الصلصة: في النهاية، يجب أن يكون ناضجًا جيدًا (Migusto)."
+  },
+  "steps.7.timer.label": {
+   "fr": "Deuxième moitié",
+   "t": "النصف الثاني"
+  },
+  "steps.7.timer.done": {
+   "fr": "Sors le poulet et baisse le feu.",
+   "t": "أخرج الدجاج واخفض النار."
+  },
+  "steps.8.title": {
+   "fr": "Fais fondre l'oignon",
+   "t": "ذبّل البصل"
+  },
+  "steps.8.text": {
+   "fr": "Baisse à feu moyen. Mets le {{beurre}} dans la poêle, puis l'oignon. Fais-le revenir en remuant, jusqu'à ce qu'il devienne translucide.",
+   "t": "اخفض النار إلى متوسطة. ضع {{beurre}} في المقلاة، ثم البصل. شوّحه مع التحريك حتى يصير شفافًا."
+  },
+  "steps.9.title": {
+   "fr": "Fais dorer les champignons",
+   "t": "حمّر الفطر"
+  },
+  "steps.9.text": {
+   "fr": "Ajoute les champignons. Laisse-les cuire en remuant de temps en temps, jusqu'à ce que leur eau se soit évaporée et qu'ils commencent à dorer.",
+   "t": "أضف الفطر. اتركه يُطهى مع التحريك من حين لآخر، حتى يتبخر ماؤه ويبدأ في التحمّر."
+  },
+  "steps.9.tip": {
+   "fr": "Ne les sale pas maintenant : salés trop tôt, ils rendent leur eau et dorent moins (Betty Bossi). Tu saleras la sauce à la fin.",
+   "t": "لا تملّحه الآن: إذا مُلّح مبكرًا يُخرج ماءه ويتحمّر أقل (Betty Bossi). ستملّح الصلصة في النهاية."
+  },
+  "steps.10.title": {
+   "fr": "Déglace au bouillon",
+   "t": "اسكب المرق وأذب عصارات القاع"
+  },
+  "steps.10.text": {
+   "fr": "Verse {{bouillon:full}}. Gratte le fond de la poêle avec la cuillère en bois pour décoller les sucs dorés : c'est là qu'est le goût de la sauce. Laisse bouillonner un instant.",
+   "t": "اسكب {{bouillon}} من مرق الدواجن الحلال. اكشط قاع المقلاة بالملعقة الخشبية لتفصل العصارات الذهبية الملتصقة به: فيها تكمن نكهة الصلصة. اتركه يغلي لحظة."
+  },
+  "steps.11.title": {
+   "fr": "Ajoute la crème",
+   "t": "أضف القشدة"
+  },
+  "steps.11.text": {
+   "fr": "Ajoute {{creme:full}} et mélange. Laisse frémir doucement, en remuant de temps en temps, jusqu'à ce que la sauce épaississe un peu.",
+   "t": "أضف {{creme}} من القشدة الطازجة الثخينة واخلط. اتركها تغلي غليانًا خفيفًا، مع التحريك من حين لآخر، حتى تتكثف الصلصة قليلًا."
+  },
+  "steps.11.tip": {
+   "fr": "Une crème allégée peut trancher si elle bout ; la crème fraîche épaisse et la crème entière supportent la cuisson (Betty Bossi, Migusto, Wikipédia).",
+   "t": "القشدة الخفيفة قد تتخثّر وتنفصل إذا غلت؛ أما القشدة الطازجة الثخينة والقشدة كاملة الدسم فتتحمّلان الطهي (Betty Bossi، Migusto، Wikipédia)."
+  },
+  "steps.12.title": {
+   "fr": "Finis la cuisson du poulet",
+   "t": "أكمل طهي الدجاج"
+  },
+  "steps.12.text": {
+   "fr": "Remets le poulet dans la sauce, avec le jus qu'il a rendu dans l'assiette. Laisse frémir doucement quelques minutes, sans faire bouillir fort, jusqu'à ce qu'il soit cuit à cœur : coupe le plus gros morceau, il doit être blanc au centre, sans rose, avec un jus clair. Avec un thermomètre, le cœur doit atteindre au moins 75 °C.",
+   "t": "أعد الدجاج إلى الصلصة، مع العصارة التي خرجت منه في الصحن. اتركه يغلي غليانًا خفيفًا بضع دقائق، دون غليان قوي، حتى ينضج حتى قلبه: اقطع أكبر قطعة، يجب أن تكون بيضاء في الوسط، دون أي لون وردي، وعصارتها صافية. بميزان الحرارة، يجب أن تبلغ حرارة القلب 75 درجة مئوية على الأقل."
+  },
+  "steps.12.tip": {
+   "fr": "Un gros bouillon durcit le blanc de poulet : un petit frémissement suffit (Escoffier, Chef Simon).",
+   "t": "الغليان القوي يجعل صدر الدجاج قاسيًا: يكفي غليان خفيف (Escoffier، Chef Simon)."
+  },
+  "steps.13.title": {
+   "fr": "Goûte et sers",
+   "t": "تذوّق وقدّم"
+  },
+  "steps.13.text": {
+   "fr": "Goûte, puis ajuste le {{sel}} et le {{poivre}}. Parsème de {{persil}} ciselé et sers tout de suite, avec le riz ou les pâtes.",
+   "t": "تذوّق، ثم عدّل {{sel}} و{{poivre}}. رشّ {{persil}} المفروم وقدّم فورًا، مع الأرز أو المعكرونة."
+  },
+  "secrets.0.text": {
+   "fr": "Coupe et prépare tout avant d'allumer le feu sous la poêle : une fois lancée, la cuisson va vite.",
+   "t": "قطّع كل شيء وحضّره قبل إشعال النار تحت المقلاة: بمجرد أن يبدأ الطهي، يسير بسرعة."
+  },
+  "secrets.0.source": {
+   "fr": "Betty Bossi (« Faire sauter » : mise en place)",
+   "t": "Betty Bossi («Faire sauter»: تجهيز كل شيء مسبقًا)"
+  },
+  "secrets.1.text": {
+   "fr": "Saisis le poulet en deux fois, dans une poêle bien chaude : trop serré, il cuit dans son jus au lieu de dorer.",
+   "t": "حمّر الدجاج على دفعتين، في مقلاة ساخنة جيدًا: إذا تكدّس، يُطهى في عصارته بدل أن يتحمّر."
+  },
+  "secrets.1.source": {
+   "fr": "Betty Bossi (« Faire sauter » : en 2 ou 3 portions ; émincé de poulet à la crème : par portions) ; Migusto (émincé de veau à la zurichoise : portion par portion)",
+   "t": "Betty Bossi («Faire sauter»: على 2 أو 3 دفعات؛ شرائح الدجاج بالقشدة: على دفعات)؛ Migusto (شرائح العجل على طريقة زيورخ: دفعة بعد دفعة)"
+  },
+  "secrets.2.text": {
+   "fr": "Laisse le poulet tranquille une à deux minutes avant de le retourner : une croûte dorée se forme et donne du goût.",
+   "t": "اترك الدجاج دون تحريك دقيقة إلى دقيقتين قبل أن تقلبه: تتكوّن قشرة ذهبية تمنحه النكهة."
+  },
+  "secrets.2.source": {
+   "fr": "Betty Bossi (« Faire sauter »)",
+   "t": "Betty Bossi («Faire sauter»)"
+  },
+  "secrets.3.text": {
+   "fr": "Une poêle en fonte ou en inox laisse plus de sucs qu'une poêle antiadhésive : la sauce est plus goûteuse.",
+   "t": "المقلاة من الحديد الزهر أو الفولاذ المقاوم للصدأ تترك عصارات متحمّصة أكثر من المقلاة غير اللاصقة: فتصير الصلصة ألذّ."
+  },
+  "secrets.3.source": {
+   "fr": "Betty Bossi (« La crème des crèmes »)",
+   "t": "Betty Bossi («La crème des crèmes»)"
+  },
+  "secrets.4.text": {
+   "fr": "Déglacer, c'est dissoudre les sucs caramélisés au fond de la poêle : c'est la base du goût de la sauce.",
+   "t": "إذابة عصارات القاع تعني تحليل العصارات المكرملة الملتصقة بقاع المقلاة: وهي أساس نكهة الصلصة."
+  },
+  "secrets.4.source": {
+   "fr": "Escoffier, Le Guide culinaire (série des poulets sautés) ; Betty Bossi (« La crème des crèmes » : plus de sucs, sauce plus goûteuse)",
+   "t": "Escoffier، Le Guide culinaire (سلسلة الدجاج المشوّح)؛ Betty Bossi («La crème des crèmes»: عصارات أكثر، وصلصة ألذّ)"
+  },
+  "secrets.5.text": {
+   "fr": "Pas besoin de vin : Escoffier déglace aussi au fonds de volaille ou au jus de cuisson des champignons, et Migusto (émincé de poulet à la crème et aux herbes) comme Chef Simon (fricassée de volaille) font leur sauce sans vin, au bouillon.",
+   "t": "لا حاجة إلى النبيذ: Escoffier يذيب العصارات أيضًا بمرق الدواجن الأساسي أو بماء طهي الفطر، وكلٌّ من Migusto (شرائح الدجاج بالقشدة والأعشاب) وChef Simon (فريكاسيه الدواجن) يحضّر صلصته دون نبيذ، بالمرق."
+  },
+  "secrets.5.source": {
+   "fr": "Escoffier ; Migusto ; Chef Simon",
+   "t": "Escoffier؛ Migusto؛ Chef Simon"
+  },
+  "secrets.6.text": {
+   "fr": "Le blanc de poulet ne doit pas bouillir à gros bouillons dans la sauce : il durcit. Un petit frémissement suffit.",
+   "t": "يجب ألا يغلي صدر الدجاج غليانًا قويًا في الصلصة: فهو يقسو. يكفي غليان خفيف."
+  },
+  "secrets.6.source": {
+   "fr": "Escoffier (poulets sautés : l'ébullition durcit les morceaux blancs) ; Chef Simon (fricassée : « toujours cuire à feu doux (petit frémissement) »)",
+   "t": "Escoffier (الدجاج المشوّح: الغليان يجعل القطع البيضاء قاسية)؛ Chef Simon (الفريكاسيه: «اطبخ دائمًا على نار هادئة (غليان خفيف)»)"
+  },
+  "secrets.7.text": {
+   "fr": "Les champignons ne doivent jamais tremper : ils boivent l'eau, perdent leur goût et deviennent mous.",
+   "t": "يجب ألا يُنقع الفطر أبدًا: فهو يتشرّب الماء، ويفقد نكهته، ويصير لينًا."
+  },
+  "secrets.7.source": {
+   "fr": "Julien Sebbag (Académie du Goût), Migusto, Betty Bossi",
+   "t": "Julien Sebbag (Académie du Goût)، Migusto، Betty Bossi"
+  },
+  "secrets.8.text": {
+   "fr": "Pousse bien la cuisson des champignons, jusqu'à ce que leur eau s'évapore et qu'ils dorent : c'est là qu'ils prennent leur goût.",
+   "t": "أطل طهي الفطر جيدًا، حتى يتبخر ماؤه ويتحمّر: عندها يكتسب نكهته."
+  },
+  "secrets.8.source": {
+   "fr": "Julien Sebbag (Académie du Goût) ; Cuisine AZ",
+   "t": "Julien Sebbag (Académie du Goût)؛ Cuisine AZ"
+  },
+  "secrets.9.text": {
+   "fr": "Pour une sauce claire avec de la volaille, choisis des champignons de Paris blancs.",
+   "t": "لصلصة فاتحة اللون مع الدواجن، اختر فطر باريس الأبيض."
+  },
+  "secrets.9.source": {
+   "fr": "Betty Bossi (« Champignons d'élevage »)",
+   "t": "Betty Bossi («Champignons d'élevage»)"
+  },
+  "secrets.10.text": {
+   "fr": "Crème fraîche épaisse ou crème entière : elles supportent la cuisson ; les crèmes plus légères risquent de trancher si elles bouillent.",
+   "t": "القشدة الطازجة الثخينة أو القشدة كاملة الدسم: تتحمّلان الطهي؛ أما القشدة الأخف فقد تتخثّر وتنفصل إذا غلت."
+  },
+  "secrets.10.source": {
+   "fr": "Wikipédia (crème fraîche épaisse : « résiste bien à la cuisson ») ; Betty Bossi et Migusto (demi-crème à ne pas faire bouillir)",
+   "t": "Wikipédia (القشدة الطازجة الثخينة: «تتحمّل الطهي جيدًا»)؛ Betty Bossi وMigusto (القشدة نصف الدسم لا تُغلى)"
+  },
+  "secrets.11.text": {
+   "fr": "Remets le poulet dans la sauce avec tout le jus qu'il a rendu dans l'assiette.",
+   "t": "أعد الدجاج إلى الصلصة مع كل العصارة التي خرجت منه في الصحن."
+  },
+  "secrets.11.source": {
+   "fr": "Betty Bossi (émincé de poulet à la crème)",
+   "t": "Betty Bossi (شرائح الدجاج بالقشدة)"
+  },
+  "mistakes.0": {
+   "fr": "Laver le poulet cru : cela éclabousse les bactéries partout, seule la cuisson les détruit (FSA).",
+   "t": "غسل الدجاج النيء: ينثر ذلك البكتيريا في كل مكان، والطهي وحده يقضي عليها (FSA)."
+  },
+  "mistakes.1": {
+   "fr": "Couper le poulet cru, puis les légumes, sur la même planche sans la laver (FSA, Anses).",
+   "t": "تقطيع الدجاج النيء ثم الخضر على اللوح نفسه دون غسله (FSA، Anses)."
+  },
+  "mistakes.2": {
+   "fr": "Mettre tout le poulet d'un coup ou le remuer sans arrêt : il bout dans son jus au lieu de dorer (Betty Bossi).",
+   "t": "وضع الدجاج كله دفعة واحدة أو تحريكه دون توقف: يغلي في عصارته بدل أن يتحمّر (Betty Bossi)."
+  },
+  "mistakes.3": {
+   "fr": "Faire tremper les champignons (Julien Sebbag, Migusto, Betty Bossi).",
+   "t": "نقع الفطر في الماء (Julien Sebbag، Migusto، Betty Bossi)."
+  },
+  "mistakes.4": {
+   "fr": "Faire bouillir fort une crème allégée : elle tranche (Betty Bossi, Migusto).",
+   "t": "غلي قشدة خفيفة غليانًا قويًا: تتخثّر وتنفصل (Betty Bossi، Migusto)."
+  },
+  "mistakes.5": {
+   "fr": "Laisser bouillir longtemps le poulet dans la sauce : il durcit (Escoffier).",
+   "t": "ترك الدجاج يغلي طويلًا في الصلصة: يصير قاسيًا (Escoffier)."
+  },
+  "mistakes.6": {
+   "fr": "Servir sans vérifier que le poulet est cuit à cœur (FSA, Anses).",
+   "t": "التقديم دون التأكد من أن الدجاج نضج حتى قلبه (FSA، Anses)."
+  },
+  "mistakes.7": {
+   "fr": "Remettre le poulet saisi dans l'assiette du poulet cru (Anses).",
+   "t": "وضع الدجاج المحمّر في صحن الدجاج النيء (Anses)."
+  },
+  "mistakes.8": {
+   "fr": "Prendre un cube de bouillon sans vérifier qu'il est halal, ou garder le vin des recettes suisses (Migusto, Betty Bossi) : remplace-le par du bouillon.",
+   "t": "استعمال مكعب مرق دون التأكد من أنه حلال، أو الإبقاء على النبيذ الموجود في الوصفات السويسرية (Migusto، Betty Bossi): عوّضه بالمرق."
+  },
+  "variants.0": {
+   "fr": "Aux herbes : ciboulette ciselée, et un beurre mêlé d'herbes hachées et de zeste de citron, ajouté au moment de servir (Migusto).",
+   "t": "بالأعشاب: ثوم معمّر مفروم، وزبدة ممزوجة بأعشاب مفرومة وبشر الليمون، تُضاف عند التقديم (Migusto)."
+  },
+  "variants.1": {
+   "fr": "Au paprika : relève la poêlée de paprika en même temps que le sel et le poivre (Migusto).",
+   "t": "بالبابريكا: تبّل محتوى المقلاة بالبابريكا مع الملح والفلفل الأسود (Migusto)."
+  },
+  "variants.2": {
+   "fr": "À l'ail : 2 gousses hachées, revenues avec l'oignon (Cuisine AZ ; recette de lecteur du Journal des Femmes).",
+   "t": "بالثوم: 2 فص مفروم، يُشوَّح مع البصل (Cuisine AZ؛ وصفة قارئ في Journal des Femmes)."
+  },
+  "variants.3": {
+   "fr": "À l'échalote : remplace l'oignon par des échalotes ciselées (Chef Simon, fricassée ; recette de lectrice du Journal des Femmes).",
+   "t": "ببصل الشالوت: عوّض البصل بشالوت مفروم (Chef Simon، الفريكاسيه؛ وصفة قارئة في Journal des Femmes)."
+  },
+  "variants.4": {
+   "fr": "Avec d'autres champignons, des shiitakés par exemple (Betty Bossi).",
+   "t": "بأنواع أخرى من الفطر، كالشيتاكي مثلًا (Betty Bossi)."
+  },
+  "variants.5": {
+   "fr": "Émincé à la zurichoise : la version suisse classique, au veau, servie avec des röstis (Migusto, Wikipédia ; Betty Bossi en donne aussi une version) ; à faire sans vin et avec du veau halal.",
+   "t": "شرائح على طريقة زيورخ: النسخة السويسرية الكلاسيكية، بلحم العجل، تُقدَّم مع الروستي (Migusto، Wikipédia؛ وفي Betty Bossi نسخة منها أيضًا)؛ تُحضَّر دون نبيذ وبلحم عجل حلال."
+  },
+  "variants.6": {
+   "fr": "Fricassée à l'ancienne, pour le week-end : un poulet en morceaux cuit 40 minutes dans un fond de volaille, puis la sauce à la crème et aux champignons (Chef Simon).",
+   "t": "فريكاسيه على الطريقة القديمة، لعطلة نهاية الأسبوع: دجاجة مقطّعة تُطهى 40 دقيقة في مرق الدواجن، ثم صلصة القشدة والفطر (Chef Simon)."
+  }
+ }
+}
